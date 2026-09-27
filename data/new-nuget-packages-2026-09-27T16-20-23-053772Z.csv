@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-09-27T15:23:07.35Z,Soenneker.Facebook.OpenApiClientUtil,4.0.2,Jake Soenneker,A thread-safe utility for obtaining Facebook's OpenApiClient singleton.
+2026-09-27T15:23:42.857Z,Soenneker.Instagram.OpenApiClientUtil,4.0.2,Jake Soenneker,A thread-safe utility for obtaining Instagram's OpenApiClient singleton.
+2026-09-27T15:32:44.627Z,AbacusBusinessSoftware.AbaReport,0.0.5,ABACUS,ABACUS AbaReport REST API SDK module for .NET.
+2026-09-27T15:32:49.94Z,AbacusBusinessSoftware.DependencyInjection,0.0.5,ABACUS,Registers all packaged ABACUS SDK module clients for dependency injection.
+2026-09-27T15:32:58.747Z,AbacusBusinessSoftware.Testing,0.0.5,ABACUS,"Test helpers for ABACUS .NET SDK (capturing/fake HTTP handlers, OData response builders)."

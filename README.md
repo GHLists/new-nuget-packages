@@ -12,26 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 15:20 UTC
+## Latest list — 2026-09-27 16:20 UTC
 
-New packages created between 2026-09-27 14:20 UTC and 2026-09-27 15:20 UTC.
+New packages created between 2026-09-27 15:20 UTC and 2026-09-27 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-27T15-20-10-430835Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-27T16-20-23-053772Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-27 14:27:17 | [EIAM.Security.Package.DAF](https://www.nuget.org/packages/EIAM.Security.Package.DAF) | 2.1.0 | EIAM Team | Centralized EIAM authorization for ASP.NET Core applications: every protected c… |
-| 2026-09-27 14:30:21 | [Soenneker.OpenApi.Converters.Meta](https://www.nuget.org/packages/Soenneker.OpenApi.Converters.Meta) | 4.0.1 | Jake Soenneker | Converts Meta Graph API JSON specifications into OpenAPI documents. |
-| 2026-09-27 14:35:28 | [VintageStoryModKit.Settings.Core](https://www.nuget.org/packages/VintageStoryModKit.Settings.Core) | 0.2.0 | Gabriel Andreescu | JSON settings storage and validation for Vintage Story mods. |
-| 2026-09-27 14:37:57 | [pdn-soundmodem-linux](https://www.nuget.org/packages/pdn-soundmodem-linux) | 0.82.0 | Tom Fanning M0LTE and Packet.… | Linux radio interface discovery (ALSA, hidraw, serial by USB device), device ac… |
-| 2026-09-27 14:48:48 | [BrainEnterprise.Api.Twilio](https://www.nuget.org/packages/BrainEnterprise.Api.Twilio) | 1.0.0 | Gianluca Plevani, Brain Enter… | Twilio messaging client: SMS, MMS and WhatsApp, single and bulk send, delivery… |
-| 2026-09-27 14:57:42 | [OfficeIMO.Html.Core](https://www.nuget.org/packages/OfficeIMO.Html.Core) | 3.4.4 | Przemyslaw Klys | Owned HTML document, node, editing and parser provider contracts for OfficeIMO. |
-| 2026-09-27 14:57:43 | [OfficeIMO.Html.AngleSharp](https://www.nuget.org/packages/OfficeIMO.Html.AngleSharp) | 3.4.4 | Przemyslaw Klys | AngleSharp-backed HTML parsing and syntax services for the owned OfficeIMO HTML… |
-| 2026-09-27 14:59:18 | [OfficeIMO.Project](https://www.nuget.org/packages/OfficeIMO.Project) | 3.4.4 | Przemyslaw Klys | Managed Microsoft Project XML and modern MPP/MPT authoring and editing, explici… |
-| 2026-09-27 15:00:07 | [KiteKey.AI.Abstractions](https://www.nuget.org/packages/KiteKey.AI.Abstractions) | 0.1.0 | Kite & Key | Provider-neutral AI function, text-processing, and audio transport contracts. |
-| 2026-09-27 15:00:07 | [KiteKey.AI](https://www.nuget.org/packages/KiteKey.AI) | 0.1.0 | Kite & Key | Provider-neutral AI function dispatch and JSON handler implementation. |
-| 2026-09-27 15:00:14 | [Kapso.Client.Net](https://www.nuget.org/packages/Kapso.Client.Net) | 0.1.0 | Alexandre Costa | Typed .NET client for the Kapso APIs (WhatsApp, Platform, Workflows and Agent),… |
-| 2026-09-27 15:08:07 | [DotDbg](https://www.nuget.org/packages/DotDbg) | 0.1.0 | Akito Inoue | Command-line debugger for managed .NET programs, designed for AI agents and ter… |
+| 2026-09-27 15:23:07 | [Soenneker.Facebook.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Facebook.OpenApiClientUtil) | 4.0.2 | Jake Soenneker | A thread-safe utility for obtaining Facebook's OpenApiClient singleton. |
+| 2026-09-27 15:23:42 | [Soenneker.Instagram.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Instagram.OpenApiClientUtil) | 4.0.2 | Jake Soenneker | A thread-safe utility for obtaining Instagram's OpenApiClient singleton. |
+| 2026-09-27 15:32:44 | [AbacusBusinessSoftware.AbaReport](https://www.nuget.org/packages/AbacusBusinessSoftware.AbaReport) | 0.0.5 | ABACUS | ABACUS AbaReport REST API SDK module for .NET. |
+| 2026-09-27 15:32:49 | [AbacusBusinessSoftware.DependencyInjection](https://www.nuget.org/packages/AbacusBusinessSoftware.DependencyInjection) | 0.0.5 | ABACUS | Registers all packaged ABACUS SDK module clients for dependency injection. |
+| 2026-09-27 15:32:58 | [AbacusBusinessSoftware.Testing](https://www.nuget.org/packages/AbacusBusinessSoftware.Testing) | 0.0.5 | ABACUS | Test helpers for ABACUS .NET SDK (capturing/fake HTTP handlers, OData response… |
 
 ## Data source
 
