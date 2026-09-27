@@ -12,38 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 11:19 UTC
+## Latest list — 2026-09-27 12:20 UTC
 
-New packages created between 2026-09-27 10:20 UTC and 2026-09-27 11:19 UTC.
+New packages created between 2026-09-27 11:19 UTC and 2026-09-27 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-27T11-19-44-747772Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-27T12-20-42-029144Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-27 10:32:22 | [SB.Framework.Models](https://www.nuget.org/packages/SB.Framework.Models) | 0.5.0 | SB Framework | SB Framework 基础领域模型 |
-| 2026-09-27 10:32:27 | [DVeLsCommonLibrary](https://www.nuget.org/packages/DVeLsCommonLibrary) | 1.0.0 | DVeL | Description |
-| 2026-09-27 10:32:35 | [SB.Framework.Core](https://www.nuget.org/packages/SB.Framework.Core) | 0.5.0 | Sb Framework | SB Framework 核心库：工具、Feature 插件体系、认证缝、品牌图标生成。 |
-| 2026-09-27 10:32:44 | [SB.Framework.Analyzers](https://www.nuget.org/packages/SB.Framework.Analyzers) | 0.5.0 | SB Framework | SB Framework Roslyn 分析器 |
-| 2026-09-27 10:32:46 | [SB.Framework.Services](https://www.nuget.org/packages/SB.Framework.Services) | 0.5.1 | SB Framework | SB Framework 基础应用服务 + 扩展点 |
-| 2026-09-27 10:32:51 | [SB.Framework.WebApi](https://www.nuget.org/packages/SB.Framework.WebApi) | 0.5.4 | SB Framework | SB Framework Web API 基础设施 |
-| 2026-09-27 10:32:53 | [SB.Feature.AccessToken](https://www.nuget.org/packages/SB.Feature.AccessToken) | 0.2.4 | SB Framework | SB Feature 统一访问令牌 —— 账号即 token(密码 / API Key 两种认证),scoped key + FullAccess(god)取… |
-| 2026-09-27 10:32:54 | [SB.Feature.BackupReceive](https://www.nuget.org/packages/SB.Feature.BackupReceive) | 0.1.2 | SB Framework | SB Feature 云端备份接收端（服务端角色） |
-| 2026-09-27 10:32:56 | [SB.FlowEngine](https://www.nuget.org/packages/SB.FlowEngine) | 0.2.2 | SB Framework | SB 图执行引擎(前端 @saibo/flow-engine 的服务端对称实现):读 FlowGraph 执行,内置 if/loop/goto/label/变… |
-| 2026-09-27 10:36:58 | [NuvyntraLabs.NET.ApiLens](https://www.nuget.org/packages/NuvyntraLabs.NET.ApiLens) | 0.1.0 | Niladri Prasad Padhy | Request timeline, wall-clock attribution, N+1 detection, and explain rules for… |
-| 2026-09-27 10:37:01 | [NuvyntraLabs.NET.ApiLens.AspNetCore](https://www.nuget.org/packages/NuvyntraLabs.NET.ApiLens.AspNetCore) | 0.1.0 | Niladri Prasad Padhy | ASP.NET Core request timing and the development-only ApiLens dashboard for MVC… |
-| 2026-09-27 10:37:04 | [NuvyntraLabs.NET.ApiLens.EntityFrameworkCore](https://www.nuget.org/packages/NuvyntraLabs.NET.ApiLens.EntityFrameworkCore) | 0.1.0 | Niladri Prasad Padhy | EF Core command timings for ApiLens. Parameter values are never read. |
-| 2026-09-27 10:37:07 | [NuvyntraLabs.NET.ApiLens.Http](https://www.nuget.org/packages/NuvyntraLabs.NET.ApiLens.Http) | 0.1.0 | Niladri Prasad Padhy | Outbound HttpClient timings for ApiLens from System.Net.Http diagnostic events.… |
-| 2026-09-27 10:37:10 | [NuvyntraLabs.NET.ApiLens.UI](https://www.nuget.org/packages/NuvyntraLabs.NET.ApiLens.UI) | 0.1.0 | Niladri Prasad Padhy | Embedded development dashboard page for NuvyntraLabs.NET.ApiLens. |
-| 2026-09-27 10:38:02 | [SU2.EntityFrameworkCore.Sqlite.Bulks](https://www.nuget.org/packages/SU2.EntityFrameworkCore.Sqlite.Bulks) | 0.0.0.1 | EntityFrameworkCore.Sqlite.Si… | SQLite bulk operations, matching, temporary tables and upserts for EF Core and… |
-| 2026-09-27 10:56:36 | [YngveHestem.Quill.Blazor](https://www.nuget.org/packages/YngveHestem.Quill.Blazor) | 1.0.0 | Yngve J. K. Hestem | This library is a wrapper around Quilljs editor for Blazor. Contains both most… |
-| 2026-09-27 11:11:34 | [Arc56.Generated.Meerkat81.algo-usdt-escrow](https://www.nuget.org/packages/Arc56.Generated.Meerkat81.algo-usdt-escrow) | 1.0.1.2026092711 | Meerkat81 | Generated ARC-56 Algorand smart-contract clients for Meerkat81/algo-usdt-escrow. |
-| 2026-09-27 11:13:11 | [Gravicode.ScrapyNet](https://www.nuget.org/packages/Gravicode.ScrapyNet) | 0.1.0 | Kang Fadhil (Gravicode Studio… | A .NET 10 port of Scrapy: spiders, CSS/XPath selectors, items and item loaders,… |
-| 2026-09-27 11:13:13 | [Gravicode.ScrapyNet.AI](https://www.nuget.org/packages/Gravicode.ScrapyNet.AI) | 0.1.0 | Kang Fadhil (Gravicode Studio… | Turns Scrapy.Net crawls into AI-ready knowledge: article and metadata extractio… |
-| 2026-09-27 11:13:17 | [Gravicode.ScrapyNet.Cli](https://www.nuget.org/packages/Gravicode.ScrapyNet.Cli) | 0.1.0 | Kang Fadhil (Gravicode Studio… | The scrapynet command: startproject, genspider, crawl, list, parse, fetch, view… |
-| 2026-09-27 11:13:19 | [Gravicode.ScrapyNet.Platform](https://www.nuget.org/packages/Gravicode.ScrapyNet.Platform) | 0.1.0 | Kang Fadhil (Gravicode Studio… | Control plane for Scrapy.Net: spider catalog with versioning and cloning, decla… |
-| 2026-09-27 11:13:22 | [Gravicode.ScrapyNet.Playwright](https://www.nuget.org/packages/Gravicode.ScrapyNet.Playwright) | 0.1.0 | Kang Fadhil (Gravicode Studio… | A Playwright download handler for Scrapy.Net (like scrapy-playwright): requests… |
-| 2026-09-27 11:13:24 | [Gravicode.ScrapyNet.Sandbox](https://www.nuget.org/packages/Gravicode.ScrapyNet.Sandbox) | 0.1.0 | Kang Fadhil (Gravicode Studio… | A self-contained practice website (quotes, bookstore, login with CSRF, JSON API… |
-| 2026-09-27 11:13:27 | [Gravicode.ScrapyNet.Server](https://www.nuget.org/packages/Gravicode.ScrapyNet.Server) | 0.1.0 | Kang Fadhil (Gravicode Studio… | ASP.NET Core endpoints (like scrapyd) for the Scrapy.Net platform: manage spide… |
+| 2026-09-27 11:39:25 | [Cratis.Screenplay.Contexts](https://www.nuget.org/packages/Cratis.Screenplay.Contexts) | 4.43.0 | all contributors | Portable runtime context contracts for Screenplay code bodies |
+| 2026-09-27 11:46:30 | [FluentBgWords.DependencyInjection](https://www.nuget.org/packages/FluentBgWords.DependencyInjection) | 0.2.0 | Aleksandar Milev | Microsoft.Extensions.DependencyInjection integration for FluentBgWords: configu… |
+| 2026-09-27 11:49:09 | [StingrayDbMasking.SqlServer](https://www.nuget.org/packages/StingrayDbMasking.SqlServer) | 1.1.0 | StingrayDbMasking contributors | SQL Server / Azure SQL provider for StingrayDbMasking using native Dynamic Data… |
+| 2026-09-27 11:49:10 | [StingrayDbMasking](https://www.nuget.org/packages/StingrayDbMasking) | 1.1.0 | StingrayDbMasking contributors | All-in-one StingrayDbMasking package: database-level data masking engine, SQL S… |
+| 2026-09-27 11:49:11 | [StingrayDbMasking.Core](https://www.nuget.org/packages/StingrayDbMasking.Core) | 1.1.0 | StingrayDbMasking contributors | Database-level data masking engine: schema discovery, masking profiles, script… |
+| 2026-09-27 11:49:12 | [StingrayDbMasking.MySql](https://www.nuget.org/packages/StingrayDbMasking.MySql) | 1.1.0 | StingrayDbMasking contributors | MySQL / MariaDB provider for StingrayDbMasking using a masked-view schema and p… |
+| 2026-09-27 11:49:13 | [StingrayDbMasking.Oracle](https://www.nuget.org/packages/StingrayDbMasking.Oracle) | 1.1.0 | StingrayDbMasking contributors | Oracle provider for StingrayDbMasking using native Oracle Data Redaction (DBMS_… |
+| 2026-09-27 11:49:14 | [StingrayDbMasking.PostgreSql](https://www.nuget.org/packages/StingrayDbMasking.PostgreSql) | 1.1.0 | StingrayDbMasking contributors | PostgreSQL provider for StingrayDbMasking using the PostgreSQL Anonymizer exten… |
+| 2026-09-27 11:49:16 | [StingrayDbMasking.Blazor](https://www.nuget.org/packages/StingrayDbMasking.Blazor) | 1.1.0 | StingrayDbMasking contributors | Blazor (Interactive Server) management UI for StingrayDbMasking: pick a connect… |
+| 2026-09-27 11:50:50 | [ManagedBackgroundServices.RCL](https://www.nuget.org/packages/ManagedBackgroundServices.RCL) | 1.0.0 | Adam O'Neil | Blazor components for monitoring background job health |
+| 2026-09-27 12:04:49 | [pdn-soundmodem-windows](https://www.nuget.org/packages/pdn-soundmodem-windows) | 0.81.0 | Tom Fanning M0LTE and Packet.… | Windows audio (WASAPI) and PTT (CM108/AIOC HID, serial) backends for pdn-soundm… |
+| 2026-09-27 12:10:34 | [SyntaxEditor](https://www.nuget.org/packages/SyntaxEditor) | 1.0.0 | GreatBear | Lightweight, high-performance, self-drawn syntax-highlighting editor control fo… |
 
 ## Data source
 
