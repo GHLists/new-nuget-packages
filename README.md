@@ -12,31 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 09:04 UTC
+## Latest list — 2026-09-27 10:20 UTC
 
-New packages created between 2026-09-27 08:04 UTC and 2026-09-27 09:04 UTC.
+New packages created between 2026-09-27 09:19 UTC and 2026-09-27 10:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-27T09-04-37-184845Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-27T10-20-46-388369Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-27 08:08:48 | [BravoDev.AppointMe.Templates](https://www.nuget.org/packages/BravoDev.AppointMe.Templates) | 1.2.1 | BravoDev | A production-grade modular-monolith .NET 10 + React 19 SaaS foundation: multi-t… |
-| 2026-09-27 08:10:59 | [QuickDraw.Pict](https://www.nuget.org/packages/QuickDraw.Pict) | 0.1.0 | Lars Dytterud | Dependency-free reader and writer for Apple QuickDraw PICT pictures (v1, v2 and… |
-| 2026-09-27 08:11:00 | [QuickDraw.Pict.ImageSharp](https://www.nuget.org/packages/QuickDraw.Pict.ImageSharp) | 0.1.0 | Lars Dytterud | SixLabors.ImageSharp format plugin for Apple QuickDraw PICT pictures, QuickTime… |
-| 2026-09-27 08:13:18 | [Stride.Dependencies.Naga](https://www.nuget.org/packages/Stride.Dependencies.Naga) | 2026.9.27 | Stride Contributors | naga, the SPIR-V to WGSL converter, for Stride's WebGPU/browser shader path. Bu… |
-| 2026-09-27 08:30:14 | [NextGenSoftware.OASIS.MCP.Server](https://www.nuget.org/packages/NextGenSoftware.OASIS.MCP.Server) | 2.0.2 | David Ellams (NextGen Softwar… | The OASIS Model Context Protocol (MCP) Server — exposes 250 typed named tools a… |
-| 2026-09-27 08:33:24 | [Stride.Dependencies.Tint](https://www.nuget.org/packages/Stride.Dependencies.Tint) | 2026.9.27 | Stride Contributors | Tint, the WGSL validator from Dawn, for Stride's WebGPU/browser shader path. Re… |
-| 2026-09-27 08:43:03 | [ChunkShift](https://www.nuget.org/packages/ChunkShift) | 0.1.0 | MrFr3di | Deterministic content-defined chunking, streaming binary manifests and verifica… |
-| 2026-09-27 08:48:45 | [Paradise.Hexa.NET.ImGui](https://www.nuget.org/packages/Paradise.Hexa.NET.ImGui) | 3.1.0 | Juna Meinhold | A .NET wrapper for the Dear ImGui library. (1.92.9b) |
-| 2026-09-27 08:48:46 | [Paradise.Hexa.NET.ImGuizmo](https://www.nuget.org/packages/Paradise.Hexa.NET.ImGuizmo) | 3.1.0 | Juna Meinhold | A .NET wrapper for the ImGuizmo library. (1.92.5 WIP / commit dc25afb) (for ImG… |
-| 2026-09-27 08:48:46 | [Paradise.Hexa.NET.ImNodes](https://www.nuget.org/packages/Paradise.Hexa.NET.ImNodes) | 3.1.0 | Juna Meinhold | A .NET wrapper for the ImNodes library. (0.5.0 / commit c9bb8e9) (for ImGui 1.9… |
-| 2026-09-27 08:48:47 | [Paradise.Hexa.NET.ImGui.Backends.GLFW](https://www.nuget.org/packages/Paradise.Hexa.NET.ImGui.Backends.GLFW) | 3.1.0 | Juna Meinhold | A .NET wrapper for the Dear ImGui (1.92.9b) library backend GLFW. |
-| 2026-09-27 08:48:48 | [Paradise.Hexa.NET.ImGui.Backends.SDL2](https://www.nuget.org/packages/Paradise.Hexa.NET.ImGui.Backends.SDL2) | 3.1.0 | Juna Meinhold | A .NET wrapper for the Dear ImGui (1.92.9b) library backend SDL2. |
-| 2026-09-27 08:48:50 | [Paradise.Hexa.NET.ImPlot3D](https://www.nuget.org/packages/Paradise.Hexa.NET.ImPlot3D) | 3.1.0 | Juna Meinhold | A .NET wrapper for the ImPlot3D library. (0.4 / commit 41ae3e4) (for ImGui 1.92… |
-| 2026-09-27 08:48:51 | [Paradise.Hexa.NET.ImPlot](https://www.nuget.org/packages/Paradise.Hexa.NET.ImPlot) | 3.1.0 | Juna Meinhold | A .NET wrapper for the ImPlot library. (1.1 WIP / commit 1351ab2) (for ImGui 1.… |
-| 2026-09-27 08:48:52 | [Paradise.Hexa.NET.ImGui.Backends](https://www.nuget.org/packages/Paradise.Hexa.NET.ImGui.Backends) | 3.1.0 | Juna Meinhold | A .NET wrapper for the Dear ImGui (1.92.9b) library backends (Win32, Vulkan, Op… |
-| 2026-09-27 08:48:53 | [Paradise.Hexa.NET.ImGui.Backends.SDL3](https://www.nuget.org/packages/Paradise.Hexa.NET.ImGui.Backends.SDL3) | 3.1.0 | Juna Meinhold | A .NET wrapper for the Dear ImGui (1.92.9b) library backend SDL3. |
-| 2026-09-27 08:56:23 | [Podargus.UI.WinForms](https://www.nuget.org/packages/Podargus.UI.WinForms) | 1.0.0 | Podargus | The official, all-in-one Podargus UI component suite. Stop importing piecemeal… |
+| 2026-09-27 09:28:14 | [Webority.Azure.Telemetry.Functions](https://www.nuget.org/packages/Webority.Azure.Telemetry.Functions) | 0.7.0 | Webority.Azure.Telemetry.Func… | One-call Webority telemetry for an Azure Functions isolated-worker host: the We… |
+| 2026-09-27 09:32:45 | [Khefest.Windows](https://www.nuget.org/packages/Khefest.Windows) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:33:26 | [Khefest.Windowing](https://www.nuget.org/packages/Khefest.Windowing) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:33:40 | [Khefest.UI](https://www.nuget.org/packages/Khefest.UI) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:33:55 | [Khefest.Templates](https://www.nuget.org/packages/Khefest.Templates) | 1.6.2 | Aleksandar Ovcharov | Templates for creating 2D and 3D games with the Khefest Game Engine on .NET 10. |
+| 2026-09-27 09:34:07 | [Khefest.Input](https://www.nuget.org/packages/Khefest.Input) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:34:23 | [Khefest.Graphics.LowLevel](https://www.nuget.org/packages/Khefest.Graphics.LowLevel) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:34:33 | [Khefest.Graphics](https://www.nuget.org/packages/Khefest.Graphics) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:34:44 | [Khefest.Core](https://www.nuget.org/packages/Khefest.Core) | 1.6.2 | Aleksandar Ovcharov | Package Description |
+| 2026-09-27 09:54:19 | [Themia.Payments.TwoCTwoP](https://www.nuget.org/packages/Themia.Payments.TwoCTwoP) | 0.30.0 | Sarawut Phaekuntod | 2C2P PGW 4.3 (Redirect API) adapter for Themia.Payments's IPaymentGateway: JWT-… |
+| 2026-09-27 09:54:41 | [Themia.Payments.Beam](https://www.nuget.org/packages/Themia.Payments.Beam) | 0.30.0 | Sarawut Phaekuntod | Beam Checkout adapter for Themia.Payments's IPaymentGateway: QR PromptPay and c… |
+| 2026-09-27 09:54:48 | [Themia.Payments](https://www.nuget.org/packages/Themia.Payments) | 0.30.0 | Sarawut Phaekuntod | Provider-agnostic payment collection: create a charge, read its outcome, refund… |
+| 2026-09-27 10:14:33 | [Jev.DotNet](https://www.nuget.org/packages/Jev.DotNet) | 0.1.0 | Burak Altin | Unofficial .NET client for TypeSafe's Jev System One model: ask Noul, Choice, a… |
 
 ## Data source
 
