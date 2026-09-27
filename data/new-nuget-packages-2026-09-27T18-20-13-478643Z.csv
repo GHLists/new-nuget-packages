@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-09-27T17:32:36.57Z,TrailerClipper.Tool,2.0.0,Mark Rogers,"The tclipper command: batch removal of intros and trailers from video and audio files through ffmpeg. 'tclipper --install-ffmpeg' installs ffmpeg with winget, Homebrew, apt or dnf."
+2026-09-27T17:50:14.153Z,Experimently.SDK,0.0.0,Experimently,Placeholder that holds the package ID. The Experimently .NET SDK is not published yet; reference it from source (docs/sdk/dotnet.md). Installing this package stops the build with that message.
+2026-09-27T17:53:21.043Z,GlpiNg.Modules.Abstractions,0.1.0,AnthoDingo,"Contrats partagés entre l'hôte GlpiNg, ses modules et les plugins."
+2026-09-27T17:54:13.423Z,GlpiNg.Plugins.Sdk,0.1.0,AnthoDingo,"Contrats pour écrire un plugin GlpiNg : point d'entrée IGlpiNgPlugin et contrats de contribution des modules (menu, rapports, tâches cron...)."
+2026-09-27T18:08:44.037Z,Meshline.Sdk,1.0.0,Meshline,"Client SDK for the Meshline protocol, with self-sovereign accounts, encrypted messaging, groups, channels, relay connectivity, and SQLite persistence."
+2026-09-27T18:13:05.7Z,Offramp.Analyzers,0.15.0,Andrew Benz and contributors,"Roslyn analyzers and code fixes for migrating .NET Framework code to modern .NET: the codemods of the offramp tool (OFRM001-OFRM013), as IDE suggestions and dotnet format fixes."
