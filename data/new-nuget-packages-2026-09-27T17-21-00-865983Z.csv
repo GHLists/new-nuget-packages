@@ -1,0 +1,73 @@
+created_at,package,version,authors,description
+2026-09-27T16:26:32.47Z,Hand.Generators.Types,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:26:42.697Z,Hand.Generators.System,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:27:00.08Z,Hand.Generators.Reflection,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:27:10.223Z,Hand.Generators.Naming,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:27:20.41Z,Hand.Generators.Members,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:27:33.827Z,Hand.Generators.Generators,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:27:47.48Z,Hand.Generators.Enums,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:27:59.897Z,Hand.Generators.Documentation,0.3.0-alpha,jiangxiangji,Package Description
+2026-09-27T16:38:40.27Z,ZeroAlloc.Rest.Tools.MSBuild,2.2.0,Marcel Roozekrans,"MSBuild task for ZeroAlloc.Rest: generates a [ZeroAllocRestClient] interface from an OpenAPI 3.x spec for each <ZeroAllocApiSpec> item, as part of the build."
+2026-09-27T16:43:56.34Z,Scarlet.Tailwind.Cli.any,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:43:58.94Z,Scarlet.Tailwind.Cli.linux-arm64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:04.287Z,Scarlet.Tailwind.Cli.linux-musl-arm64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:06.65Z,Scarlet.Tailwind.Cli.linux-musl-x64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:09.93Z,Scarlet.Tailwind.Cli.linux-x64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:12.213Z,Scarlet.Tailwind.Cli.osx-arm64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:14.253Z,Scarlet.Tailwind.Cli.osx-x64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:16.613Z,Scarlet.Tailwind.Cli.win-arm64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:18.89Z,Scarlet.Tailwind.Cli.win-x64,4.3.3,ScarletKuro,"Internal runtime asset for Scarlet.Tailwind.Cli, resolved automatically via NuGet RID fallback. Do not install this package directly - install Scarlet.Tailwind.Cli instead."
+2026-09-27T16:44:19.987Z,Scarlet.Tailwind.MSBuild,1.0.0,ScarletKuro,"Compile Tailwind CSS during dotnet build, before ASP.NET Core, Blazor, and Razor Class Library static web assets are discovered. Use platform-specific Scarlet.Tailwind.Runtime packages or download the official Tailwind CSS standalone CLI on demand. No Node.js required."
+2026-09-27T16:44:21.99Z,Scarlet.Tailwind.Runtime.darwin-arm64,4.3.3,ScarletKuro,Tailwind CSS standalone CLI for macOS ARM64 (Apple Silicon)
+2026-09-27T16:44:24.147Z,Scarlet.Tailwind.Runtime.darwin-x64,4.3.3,ScarletKuro,Tailwind CSS standalone CLI for macOS x64 (Intel)
+2026-09-27T16:44:26.61Z,Scarlet.Tailwind.Runtime.linux-arm64-musl,4.3.3,ScarletKuro,"Tailwind CSS standalone CLI for Linux ARM64 (musl, e.g. Alpine)"
+2026-09-27T16:44:29.327Z,Scarlet.Tailwind.Runtime.linux-arm64,4.3.3,ScarletKuro,Tailwind CSS standalone CLI for Linux ARM64 (glibc)
+2026-09-27T16:44:31.747Z,Scarlet.Tailwind.Runtime.linux-x64-musl,4.3.3,ScarletKuro,"Tailwind CSS standalone CLI for Linux x64 (musl, e.g. Alpine)"
+2026-09-27T16:44:34.467Z,Scarlet.Tailwind.Runtime.linux-x64,4.3.3,ScarletKuro,Tailwind CSS standalone CLI for Linux x64 (glibc)
+2026-09-27T16:44:37.083Z,Scarlet.Tailwind.Runtime.windows-x64,4.3.3,ScarletKuro,Tailwind CSS standalone CLI for Windows x64
+2026-09-27T16:44:38.217Z,Scarlet.Tailwind.Cli,4.3.3,ScarletKuro,"Run the Tailwind CSS standalone CLI as a .NET tool: `dotnet tailwind --input app.css --output wwwroot/css/app.css`. No Node.js required. Platform-specific packages embed the matching Tailwind binary, so `dotnet tool restore` works offline and pins Tailwind through .config/dotnet-tools.json - no dow…"
+2026-09-27T16:48:35.44Z,Forge.Delta,1.20.0,Pjotr Casteel,"Compile-time, strongly typed object change detection for .NET."
+2026-09-27T16:48:39.687Z,Forge.Sync,1.20.0,Pjotr Casteel,Compile-time desired-state reconciliation and transition planning for .NET.
+2026-09-27T16:50:21.493Z,MPCore.Caching.Hybrid,0.9.0,Mehdi Panahi,"Two-level implementation of the MP Core cache port over HybridCache: in-process first, Redis second, with stampede protection on read-through."
+2026-09-27T16:50:22.12Z,MPCore.Idempotency.EntityFrameworkCore.PostgreSql,0.9.0,Mehdi Panahi,"EF Core and PostgreSQL store for request idempotency keys and the consumer inbox: the key and the result commit in the transaction of the business change, a processed message commits with the consumer's changes, and expired entries are purged."
+2026-09-27T16:50:22.73Z,MPCore.Messaging.Abstractions,0.9.0,Mehdi Panahi,Messaging ports and delivery metadata independent of Wolverine and brokers.
+2026-09-27T16:50:23.39Z,MPCore.Application,0.9.0,Mehdi Panahi,"Application contracts, results, and time abstractions."
+2026-09-27T16:50:24.007Z,MPCore.Messaging.Wolverine,0.9.0,Mehdi Panahi,Durable Wolverine messaging foundation with PostgreSQL persistence.
+2026-09-27T16:50:24.857Z,MPCore.Audit.EntityFrameworkCore.PostgreSql,0.9.0,Mehdi Panahi,"EF Core and PostgreSQL implementation of MP Core business audit: same-transaction entity-change capture through a SaveChanges interceptor, detached recording of rejected attempts, and paged querying."
+2026-09-27T16:50:25.533Z,MPCore.Security.Abstractions,0.9.0,Mehdi Panahi,Transport-neutral current-actor abstractions for MP Core products. BCL only.
+2026-09-27T16:50:26.06Z,MPCore.Observability,0.9.0,Mehdi Panahi,OpenTelemetry and structured logging foundation for MP Core consumers.
+2026-09-27T16:50:26.76Z,MPCore.Caching.Abstractions,0.9.0,Mehdi Panahi,"Cache port owned by applications, independent of a cache provider."
+2026-09-27T16:50:27.277Z,MPCore.Transport.Grpc,0.9.0,Mehdi Panahi,Native gRPC failure mapping and interception for MP Core logical failures.
+2026-09-27T16:50:27.83Z,MPCore.Domain,0.9.0,Mehdi Panahi,DDD domain primitives without infrastructure dependencies.
+2026-09-27T16:50:28.407Z,MPCore.Persistence.Abstractions,0.9.0,Mehdi Panahi,Persistence ports for DDD aggregates and units of work.
+2026-09-27T16:50:29.117Z,MPCore.Messaging.Wolverine.Kafka,0.9.0,Mehdi Panahi,Explicit Kafka transport adapter for MP Core Wolverine messaging.
+2026-09-27T16:50:29.883Z,MPCore.Audit.Abstractions,0.9.0,Mehdi Panahi,"Business audit contracts: entity-change and business-action records, capture policy with allowlisting and masking, sink and query ports. BCL-only."
+2026-09-27T16:50:31.493Z,MPCore.Caching.Memory,0.9.0,Mehdi Panahi,In-memory implementation of the MP Core cache port.
+2026-09-27T16:50:32.26Z,MPCore.Messaging.Wolverine.RabbitMQ,0.9.0,Mehdi Panahi,Optional explicit RabbitMQ transport adapter for MP Core Wolverine messaging.
+2026-09-27T16:50:32.977Z,MPCore.Persistence.Timescale,0.9.0,Mehdi Panahi,"TimescaleDB migration helpers for MP Core: hypertables, retention and compression policies as EF Core migration operations, with validated identifiers."
+2026-09-27T16:50:33.78Z,MPCore.Persistence.EntityFrameworkCore.PostgreSql,0.9.0,Mehdi Panahi,EF Core and PostgreSQL implementation of MP Core persistence ports.
+2026-09-27T16:50:34.447Z,MPCore.Tenancy.Abstractions,0.9.0,Mehdi Panahi,"Tenant context port and ambient tenant scope for MP Core: who the current operation is for, resolved by the host, consumed by audit, messaging and business code. BCL-only."
+2026-09-27T16:50:35.05Z,MPCore.Resilience.Http,0.9.0,Mehdi Panahi,"Outbound HTTP clients with the standard resilience pipeline (retry, circuit breaker, timeouts, rate limiter) for MP Core hosts."
+2026-09-27T16:50:35.79Z,MPCore.Templates,0.9.0,Mehdi Panahi,dotnet new templates for MP Core DDD backends.
+2026-09-27T16:50:36.52Z,MPCore.Validation.FluentValidation,0.9.0,Mehdi Panahi,"FluentValidation for MP Core commands: validators run as Wolverine middleware before the handler, and their failures become MP Core validation failures with field paths, rule codes and localizable message keys."
+2026-09-27T16:50:37.067Z,MPCore.Hosting,0.9.0,Mehdi Panahi,"Composition helpers for MP Core hosting, time, and observability."
+2026-09-27T16:50:37.693Z,MPCore.Cli,0.9.0,Mehdi Panahi,Guarded CLI for scaffolding MP Core backend repositories.
+2026-09-27T16:50:38.313Z,MPCore.Security.AspNetCore,0.9.0,Mehdi Panahi,"Bearer-only OIDC resource-server wiring, current-actor mapping and default-deny authorization for MP Core hosts."
+2026-09-27T16:50:38.95Z,MPCore.Localization.EntityFrameworkCore.PostgreSql,0.9.0,Mehdi Panahi,"EF Core and PostgreSQL store for translations an administrator edits at run time: a table in the product's own context, a store port that joins the handler's transaction, and an override source that every instance refreshes."
+2026-09-27T16:50:39.563Z,MPCore.Transport.Http,0.9.0,Mehdi Panahi,RFC 9457 problem-details rendering of MP Core transport-neutral failures over HTTP.
+2026-09-27T16:50:40.147Z,MPCore.Localization,0.9.0,Mehdi Panahi,"Message catalog for MP Core failures: renders message keys in the caller's culture from resource files and optional override stores, with a fallback chain and a metric for missing translations."
+2026-09-27T16:50:40.737Z,MPCore.Caching.Redis,0.9.0,Mehdi Panahi,"Redis implementation of the MP Core cache port over IDistributedCache: shared across instances, JSON-serialized values, key prefix and default expiration."
+2026-09-27T16:55:03.423Z,ValeryVerkhoturov.WbApiClient,1.20260927.0,Valery Verkhoturov,Auto-generated Wildberries Seller API client. All 13 API categories as isolated namespaces.
+2026-09-27T16:57:03.85Z,HHO.LV.Speech.Avatar,1.0.0,HuyHo,Nhép miệng cho nhân vật ảo.
+2026-09-27T16:58:45.497Z,BlazorWinUI,0.1.0-prerelease,Sathiyaraman-M,Build native Windows applications with Blazor and WinUI.
+2026-09-27T16:59:13.443Z,HHO.LV.Speech.Tts,1.0.0,HuyHo,"Tổng hợp giọng nói tiếng Việt chạy CPU: 8 giọng nam/nữ, phát trực tuyến với âm đầu tiên sau ~44ms, RTF 0,22 (nhanh gấp 4,5 lần thời gian thực) với model int8. Thuần ONNX Runtime, không cần Python, không cần GPU."
+2026-09-27T16:59:36.423Z,HHO.LV.Speech.Tts.VoiceBuilder,1.0.0,HuyHo,Tạo giọng mới cho HHO.LV.Speech.Tts từ vài giây audio mẫu
+2026-09-27T17:00:00.423Z,HHO.LV.Speech.Translate,1.0.0,HuyHo,Dịch máy chạy CPU cho cuộc họp trực tiếp
+2026-09-27T17:00:18.157Z,HHO.LV.Speech.VoiceClone,1.0.0,HuyHo,"Nhân bản giọng nói tiếng Việt từ vài giây audio mẫu, chạy trên CPU"
+2026-09-27T17:00:50.947Z,Bannerlord.ReferenceAssemblies.GUI.v2,1.5.3.122374-beta,BUTR,"The UI of Mount & Blade II: Bannerlord as data, for analyzers that check UI patches: a JSON tree of each prefab, the brushes and sprites, the movies it loads and the types it binds to. Carries none of the game's files, and adds nothing to compilation."
+2026-09-27T17:00:53.173Z,Bannerlord.ReferenceAssemblies.GUI.v2.NavalDLC,1.5.3.122374-beta,BUTR,"The UI of the NavalDLC DLC of Mount & Blade II: Bannerlord as data, for analyzers that check UI patches: a JSON tree of each prefab, the brushes and sprites, the movies it loads and the types it binds to. Carries none of the game's files, and adds nothing to compilation."
+2026-09-27T17:03:36.177Z,Soenneker.Facebook.Pages,4.0.1,Jake Soenneker,A utility for interacting with Facebook Pages via the Facebook OpenAPI client.
+2026-09-27T17:07:56.443Z,Soenneker.X.Users,4.0.1,Jake Soenneker,Utilities for X users and creating posts.
+2026-09-27T17:10:37.073Z,Soenneker.Instagram.Accounts,4.0.1,Jake Soenneker,"An Instagram account utility for publishing images, carousels, and reels."
+2026-09-27T17:12:18.75Z,Complexity,1.0.0,Joel Denny Joseph,"Measure elapsed time, current-thread allocations, and Gen0 collections for synchronous .NET operations."
+2026-09-27T17:12:37.027Z,ImanSoftware.DepLens.Cli,1.0.0,Iman Estiri,DepLens — Interactive dependency graph analyzer for .NET solutions.
