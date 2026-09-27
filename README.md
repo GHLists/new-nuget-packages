@@ -12,20 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 18:20 UTC
+## Latest list — 2026-09-27 19:20 UTC
 
-New packages created between 2026-09-27 17:21 UTC and 2026-09-27 18:20 UTC.
+New packages created between 2026-09-27 18:20 UTC and 2026-09-27 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-27T18-20-13-478643Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-27T19-20-34-611464Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-27 17:32:36 | [TrailerClipper.Tool](https://www.nuget.org/packages/TrailerClipper.Tool) | 2.0.0 | Mark Rogers | The tclipper command: batch removal of intros and trailers from video and audio… |
-| 2026-09-27 17:50:14 | [Experimently.SDK](https://www.nuget.org/packages/Experimently.SDK) | 0.0.0 | Experimently | Placeholder that holds the package ID. The Experimently .NET SDK is not publish… |
-| 2026-09-27 17:53:21 | [GlpiNg.Modules.Abstractions](https://www.nuget.org/packages/GlpiNg.Modules.Abstractions) | 0.1.0 | AnthoDingo | Contrats partagés entre l'hôte GlpiNg, ses modules et les plugins. |
-| 2026-09-27 17:54:13 | [GlpiNg.Plugins.Sdk](https://www.nuget.org/packages/GlpiNg.Plugins.Sdk) | 0.1.0 | AnthoDingo | Contrats pour écrire un plugin GlpiNg : point d'entrée IGlpiNgPlugin et contrat… |
-| 2026-09-27 18:08:44 | [Meshline.Sdk](https://www.nuget.org/packages/Meshline.Sdk) | 1.0.0 | Meshline | Client SDK for the Meshline protocol, with self-sovereign accounts, encrypted m… |
-| 2026-09-27 18:13:05 | [Offramp.Analyzers](https://www.nuget.org/packages/Offramp.Analyzers) | 0.15.0 | Andrew Benz and contributors | Roslyn analyzers and code fixes for migrating .NET Framework code to modern .NE… |
+| 2026-09-27 18:23:14 | [EraTech.Host.Shared](https://www.nuget.org/packages/EraTech.Host.Shared) | 2.2.22 | EraTech | Package Description |
+| 2026-09-27 18:29:21 | [Meziantou.Framework.Toml](https://www.nuget.org/packages/Meziantou.Framework.Toml) | 1.0.0 | meziantou | A high-performance .NET TOML 1.1 parser, round-trippable syntax tree, and Syste… |
+| 2026-09-27 18:39:01 | [Brigade.Net.Core](https://www.nuget.org/packages/Brigade.Net.Core) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:44:50 | [Brigade.Net.Partie](https://www.nuget.org/packages/Brigade.Net.Partie) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:44:55 | [Brigade.Net.Mise](https://www.nuget.org/packages/Brigade.Net.Mise) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:44:56 | [Brigade.Net.Expo](https://www.nuget.org/packages/Brigade.Net.Expo) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:50:52 | [Brigade.Net.Expo.Engines.Domain](https://www.nuget.org/packages/Brigade.Net.Expo.Engines.Domain) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:51:51 | [Brigade.Net.Mise.SqlServer](https://www.nuget.org/packages/Brigade.Net.Mise.SqlServer) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:51:57 | [Brigade.Net.Partie.AspNetCore](https://www.nuget.org/packages/Brigade.Net.Partie.AspNetCore) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:52:02 | [CodeBrix.Audio.Android.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Audio.Android.ApacheLicenseForever) | 1.0.270.1130 | Jeremy Ellis | The Android platform package for CodeBrix.Audio: device playback and capture th… |
+| 2026-09-27 18:55:35 | [Brigade.Net.Mise.PostgreSQL](https://www.nuget.org/packages/Brigade.Net.Mise.PostgreSQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:56:31 | [Brigade.Net.Partie.Engines.AspNetCore](https://www.nuget.org/packages/Brigade.Net.Partie.Engines.AspNetCore) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 18:59:20 | [Brigade.Net.Mise.SQLite](https://www.nuget.org/packages/Brigade.Net.Mise.SQLite) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:03:24 | [Brigade.Net.Mise.MySQL](https://www.nuget.org/packages/Brigade.Net.Mise.MySQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:06:28 | [Brigade.Net.Mise.MariaDb](https://www.nuget.org/packages/Brigade.Net.Mise.MariaDb) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:10:22 | [Brigade.Net.Mise.Engines.SqlServer](https://www.nuget.org/packages/Brigade.Net.Mise.Engines.SqlServer) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:13:56 | [Brigade.Net.Mise.Engines.PostgreSQL](https://www.nuget.org/packages/Brigade.Net.Mise.Engines.PostgreSQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
 
 ## Data source
 

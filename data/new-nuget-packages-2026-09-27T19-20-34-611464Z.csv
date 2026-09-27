@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-09-27T18:23:14.663Z,EraTech.Host.Shared,2.2.22,EraTech,Package Description
+2026-09-27T18:29:21.06Z,Meziantou.Framework.Toml,1.0.0,meziantou,"A high-performance .NET TOML 1.1 parser, round-trippable syntax tree, and System.Text.Json-style object serializer, NativeAOT ready."
+2026-09-27T18:39:01.717Z,Brigade.Net.Core,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Core."
+2026-09-27T18:44:50.843Z,Brigade.Net.Partie,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Partie."
+2026-09-27T18:44:55.477Z,Brigade.Net.Mise,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise."
+2026-09-27T18:44:56.267Z,Brigade.Net.Expo,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Expo."
+2026-09-27T18:50:52.06Z,Brigade.Net.Expo.Engines.Domain,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Expo.Engines.Domain."
+2026-09-27T18:51:51.443Z,Brigade.Net.Mise.SqlServer,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.SqlServer."
+2026-09-27T18:51:57.13Z,Brigade.Net.Partie.AspNetCore,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Partie.AspNetCore."
+2026-09-27T18:52:02.063Z,CodeBrix.Audio.Android.ApacheLicenseForever,1.0.270.1130,Jeremy Ellis,"The Android platform package for CodeBrix.Audio: device playback and capture through Android's native low-latency audio path, native WAV, MP3, FLAC and Ogg Vorbis codecs, audio-focus and device-change helpers, and MIDI 1.0 ports, for .NET 10 Android applications on API level 33 and newer, ARM64 and…"
+2026-09-27T18:55:35.697Z,Brigade.Net.Mise.PostgreSQL,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.PostgreSQL."
+2026-09-27T18:56:31.82Z,Brigade.Net.Partie.Engines.AspNetCore,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Partie.Engines.AspNetCore."
+2026-09-27T18:59:20.06Z,Brigade.Net.Mise.SQLite,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.SQLite."
+2026-09-27T19:03:24.91Z,Brigade.Net.Mise.MySQL,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.MySQL."
+2026-09-27T19:06:28.33Z,Brigade.Net.Mise.MariaDb,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.MariaDb."
+2026-09-27T19:10:22.3Z,Brigade.Net.Mise.Engines.SqlServer,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.Engines.SqlServer."
+2026-09-27T19:13:56.123Z,Brigade.Net.Mise.Engines.PostgreSQL,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.Engines.PostgreSQL."
