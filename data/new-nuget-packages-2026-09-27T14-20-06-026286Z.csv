@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-09-27T13:23:52.243Z,tweens.gd,0.1.0-pre,Moritz Voss,Typed C# tweens for GodotSharp and 2dog.
+2026-09-27T13:40:44.313Z,Bannerlord.ReferenceAssemblies.GUI.v1.NavalDLC,1.5.3.122374-beta,BUTR,"The prefab and brush XML of the NavalDLC DLC of Mount & Blade II: Bannerlord, with the movies it loads and the types it binds to, for analyzers that check UI patches. Adds nothing to compilation."
+2026-09-27T13:40:45.003Z,Bannerlord.ReferenceAssemblies.GUI.v1,1.5.3.122374-beta,BUTR,"The prefab and brush XML of Mount & Blade II: Bannerlord, with the movies it loads and the types it binds to, for analyzers that check UI patches. Adds nothing to compilation."
+2026-09-27T13:42:01.827Z,WinAudioRoute,0.1.0,kunkunkunQoQ,"Modern Windows audio control for .NET: enumerate audio devices, read and write application and device volume/mute, switch the system default device per role, route a single application's audio to a chosen device, and observe device/session change events."
+2026-09-27T13:49:39.4Z,EndoCapture.Core,1.3.0,Enes Melih Eroğlu,"ASP.NET Core endoskopi kayıt sistemi için servis katmanı. Çoklu oda/kamera yönetimi (CameraSession, CameraSessionManager), PostgreSQL tabanlı medya kayıt servisi (CaptureDbService), video codec tespiti, dosya kimlik etiketleme ve DI entegrasyonu içerir."
+2026-09-27T13:54:08.507Z,InnoWvate.Agentic,2.3.0,Vincent Hoogendoorn,"Repo-local agentic tooling: prompt-log wrapping, history display, validation, and delegation to Agentic.Check."
+2026-09-27T13:55:32.483Z,InnoWvate.Dna,1.0.0,Vincent Hoogendoorn,Global shorthand command for the repo-local dotnet agentic tool and the latest Agentic.Check.
+2026-09-27T13:59:23.857Z,PaGetto.Azure,1.0.0,PaGetto contributors,The libraries to host PaGetto on Azure.
+2026-09-27T13:59:24.62Z,PaGetto.Gcp,1.0.0,PaGetto contributors,The libraries to host PaGetto on the Google Cloud Platform.
+2026-09-27T13:59:25.247Z,PaGetto.Core,1.0.0,PaGetto contributors,The core libraries that power PaGetto.
+2026-09-27T13:59:25.92Z,PaGetto.Tencent,1.0.0,PaGetto contributors,The libraries to host PaGetto on Tencent Cloud.
+2026-09-27T13:59:26.617Z,PaGetto.Database.PostgreSql,1.0.0,PaGetto contributors,The libraries to host PaGetto on PostgreSQL.
+2026-09-27T13:59:27.273Z,PaGetto.Aliyun,1.0.0,PaGetto contributors,The libraries to host PaGetto on Alibaba Cloud (Aliyun).
+2026-09-27T13:59:27.95Z,PaGetto.Web,1.0.0,PaGetto contributors,PaGetto's NuGet server implementation
+2026-09-27T13:59:28.603Z,PaGetto.Database.MySql,1.0.0,PaGetto contributors,The libraries to host PaGetto on MySQL.
+2026-09-27T13:59:29.26Z,PaGetto.Protocol,1.0.0,PaGetto contributors,Libraries to interact with NuGet server APIs.
+2026-09-27T13:59:29.85Z,PaGetto.Aws,1.0.0,PaGetto contributors,The libraries to host PaGetto on AWS.
+2026-09-27T13:59:30.533Z,PaGetto.Database.Sqlite,1.0.0,PaGetto contributors,The libraries to host PaGetto on SQLite.
+2026-09-27T13:59:31.193Z,PaGetto.Database.SqlServer,1.0.0,PaGetto contributors,The libraries to host PaGetto on SQL Server.
+2026-09-27T14:02:51.2Z,ResilientApiClient,1.0.0,ResilientApiClient Contributors,"A resilient, reusable HTTP client wrapper for calling multiple external REST APIs. Per-source token bucket rate limiting, circuit breaker (Closed / Open / Half-Open), Polly based exponential backoff + jitter retries with Retry-After support and observable resilience events."
+2026-09-27T14:06:54.207Z,NuGetGuard.Cli,0.1.0,Suraj V Ghorpade,"Scans .NET project dependencies for known vulnerabilities, typosquats, license changes, and outdated versions — at build time, before they become a problem."
+2026-09-27T14:06:54.773Z,NuGetGuard.Core,0.1.0,Suraj V Ghorpade,"Core library for NuGetGuard — scans .NET dependencies for vulnerabilities, typosquats, license changes, and outdated versions."
+2026-09-27T14:06:55.337Z,NuGetGuard.MSBuildTask,0.1.0,Suraj V Ghorpade,MSBuild task that automatically scans NuGet dependencies for vulnerabilities on every build.
