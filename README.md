@@ -12,31 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 19:20 UTC
+## Latest list — 2026-09-27 20:20 UTC
 
-New packages created between 2026-09-27 18:20 UTC and 2026-09-27 19:20 UTC.
+New packages created between 2026-09-27 19:20 UTC and 2026-09-27 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-27T19-20-34-611464Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-27T20-20-20-76623Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-27 18:23:14 | [EraTech.Host.Shared](https://www.nuget.org/packages/EraTech.Host.Shared) | 2.2.22 | EraTech | Package Description |
-| 2026-09-27 18:29:21 | [Meziantou.Framework.Toml](https://www.nuget.org/packages/Meziantou.Framework.Toml) | 1.0.0 | meziantou | A high-performance .NET TOML 1.1 parser, round-trippable syntax tree, and Syste… |
-| 2026-09-27 18:39:01 | [Brigade.Net.Core](https://www.nuget.org/packages/Brigade.Net.Core) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:44:50 | [Brigade.Net.Partie](https://www.nuget.org/packages/Brigade.Net.Partie) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:44:55 | [Brigade.Net.Mise](https://www.nuget.org/packages/Brigade.Net.Mise) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:44:56 | [Brigade.Net.Expo](https://www.nuget.org/packages/Brigade.Net.Expo) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:50:52 | [Brigade.Net.Expo.Engines.Domain](https://www.nuget.org/packages/Brigade.Net.Expo.Engines.Domain) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:51:51 | [Brigade.Net.Mise.SqlServer](https://www.nuget.org/packages/Brigade.Net.Mise.SqlServer) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:51:57 | [Brigade.Net.Partie.AspNetCore](https://www.nuget.org/packages/Brigade.Net.Partie.AspNetCore) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:52:02 | [CodeBrix.Audio.Android.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Audio.Android.ApacheLicenseForever) | 1.0.270.1130 | Jeremy Ellis | The Android platform package for CodeBrix.Audio: device playback and capture th… |
-| 2026-09-27 18:55:35 | [Brigade.Net.Mise.PostgreSQL](https://www.nuget.org/packages/Brigade.Net.Mise.PostgreSQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:56:31 | [Brigade.Net.Partie.Engines.AspNetCore](https://www.nuget.org/packages/Brigade.Net.Partie.Engines.AspNetCore) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 18:59:20 | [Brigade.Net.Mise.SQLite](https://www.nuget.org/packages/Brigade.Net.Mise.SQLite) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 19:03:24 | [Brigade.Net.Mise.MySQL](https://www.nuget.org/packages/Brigade.Net.Mise.MySQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 19:06:28 | [Brigade.Net.Mise.MariaDb](https://www.nuget.org/packages/Brigade.Net.Mise.MariaDb) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 19:10:22 | [Brigade.Net.Mise.Engines.SqlServer](https://www.nuget.org/packages/Brigade.Net.Mise.Engines.SqlServer) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
-| 2026-09-27 19:13:56 | [Brigade.Net.Mise.Engines.PostgreSQL](https://www.nuget.org/packages/Brigade.Net.Mise.Engines.PostgreSQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:20:43 | [Brigade.Net.Mise.Engines.MySQL](https://www.nuget.org/packages/Brigade.Net.Mise.Engines.MySQL) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:24:15 | [SharpNinja.McpServer.Repl](https://www.nuget.org/packages/SharpNinja.McpServer.Repl) | 1.4.39 | SharpNinja | MCP Server REPL Host - Interactive and STDIO modes for Model Context Protocol i… |
+| 2026-09-27 19:24:27 | [Brigade.Net.Mise.Engines.MariaDb](https://www.nuget.org/packages/Brigade.Net.Mise.Engines.MariaDb) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:28:48 | [Brigade.Net.Partie.Extensions.Mise](https://www.nuget.org/packages/Brigade.Net.Partie.Extensions.Mise) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:32:11 | [Brigade.Net.Partie.Extensions.Expo](https://www.nuget.org/packages/Brigade.Net.Partie.Extensions.Expo) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:33:08 | [Memtly.Localization.Fork](https://www.nuget.org/packages/Memtly.Localization.Fork) | 1.0.0 | Memtly | Language pack used by Memtly for display, this is a fork version. |
+| 2026-09-27 19:35:44 | [Brigade.Net.Partie.Extensions.Expo.Engines.AspNetCore](https://www.nuget.org/packages/Brigade.Net.Partie.Extensions.Expo.Engines.AspNetCore) | 1.0.0 | Steffen Blake | Brigade.NET typed application, validation, and database components: Brigade.Net… |
+| 2026-09-27 19:41:34 | [RatelKey.Burrow.Sdk](https://www.nuget.org/packages/RatelKey.Burrow.Sdk) | 1.0.0 | RatelKey | Read secrets from a self-hosted RatelKey Burrow with a machine identity. |
+| 2026-09-27 19:47:37 | [Encore](https://www.nuget.org/packages/Encore) | 1.0.0 | SirusDoma | TCP sessions, command dispatch, framing, and attribute-based binary serializati… |
+| 2026-09-27 20:04:26 | [RibbitMassQ](https://www.nuget.org/packages/RibbitMassQ) | 0.1.0 | oceanic_tree | Thin RabbitMQ consumer/RPC library built on RabbitMQ.Client v7, with declarativ… |
+| 2026-09-27 20:11:44 | [Niddy.Avalonia](https://www.nuget.org/packages/Niddy.Avalonia) | 1.0.1 | Christian Webber | Niddy: my personal .NET utilities. Avalonia UI helpers: app hosting, dialogs (w… |
+| 2026-09-27 20:11:45 | [Niddy.Avalonia.Generators](https://www.nuget.org/packages/Niddy.Avalonia.Generators) | 1.0.1 | Christian Webber | Niddy: my personal .NET utilities. Registers Niddy.Avalonia pages tagged with [… |
+| 2026-09-27 20:11:45 | [Niddy.Core](https://www.nuget.org/packages/Niddy.Core) | 1.0.1 | Christian Webber | Niddy: my personal .NET utilities. Core helpers (IO, atomic file writes, deboun… |
 
 ## Data source
 

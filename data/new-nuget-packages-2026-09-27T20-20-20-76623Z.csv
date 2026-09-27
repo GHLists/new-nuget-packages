@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-09-27T19:20:43.803Z,Brigade.Net.Mise.Engines.MySQL,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.Engines.MySQL."
+2026-09-27T19:24:15.757Z,SharpNinja.McpServer.Repl,1.4.39,SharpNinja,"MCP Server REPL Host - Interactive and STDIO modes for Model Context Protocol integration with workspace session logs, TODO management, and requirements tracking."
+2026-09-27T19:24:27.537Z,Brigade.Net.Mise.Engines.MariaDb,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Mise.Engines.MariaDb."
+2026-09-27T19:28:48.047Z,Brigade.Net.Partie.Extensions.Mise,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Partie.Extensions.Mise."
+2026-09-27T19:32:11.23Z,Brigade.Net.Partie.Extensions.Expo,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Partie.Extensions.Expo."
+2026-09-27T19:33:08.99Z,Memtly.Localization.Fork,1.0.0,Memtly,"Language pack used by Memtly for display, this is a fork version."
+2026-09-27T19:35:44.6Z,Brigade.Net.Partie.Extensions.Expo.Engines.AspNetCore,1.0.0,Steffen Blake,"Brigade.NET typed application, validation, and database components: Brigade.Net.Partie.Extensions.Expo.Engines.AspNetCore."
+2026-09-27T19:41:34.333Z,RatelKey.Burrow.Sdk,1.0.0,RatelKey,Read secrets from a self-hosted RatelKey Burrow with a machine identity.
+2026-09-27T19:47:37.8Z,Encore,1.0.0,SirusDoma,"TCP sessions, command dispatch, framing, and attribute-based binary serialization."
+2026-09-27T20:04:26.93Z,RibbitMassQ,0.1.0,oceanic_tree,"Thin RabbitMQ consumer/RPC library built on RabbitMQ.Client v7, with declarative consumer registration, retry with backoff, dead-lettering, and correlation-based RPC."
+2026-09-27T20:11:44.14Z,Niddy.Avalonia,1.0.1,Christian Webber,"Niddy: my personal .NET utilities. Avalonia UI helpers: app hosting, dialogs (window and overlay, including color, markdown, table and web), a page system with menus and keyboard shortcuts, toasts with actions and progress, window and layout memory, a global exception handler, converters, responsiv…"
+2026-09-27T20:11:45.01Z,Niddy.Avalonia.Generators,1.0.1,Christian Webber,"Niddy: my personal .NET utilities. Registers Niddy.Avalonia pages tagged with [PageRegistration] automatically, including pages in referenced projects and in assemblies loaded at runtime."
+2026-09-27T20:11:45.52Z,Niddy.Core,1.0.1,Christian Webber,"Niddy: my personal .NET utilities. Core helpers (IO, atomic file writes, debounced file watching, app paths, streams, strings, JSON, humanized formatting, retry with backoff), Result and Option types, debounce/throttle and lock-free threading primitives, a rolling file logger, typed JSON settings s…"
