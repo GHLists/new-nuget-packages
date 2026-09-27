@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-09-27T14:27:17.527Z,EIAM.Security.Package.DAF,2.1.0,EIAM Team,"Centralized EIAM authorization for ASP.NET Core applications: every protected controller action is authorized by EIAM over HTTP, and the application's endpoints are registered in EIAM automatically. No EIAM database access."
+2026-09-27T14:30:21.157Z,Soenneker.OpenApi.Converters.Meta,4.0.1,Jake Soenneker,Converts Meta Graph API JSON specifications into OpenAPI documents.
+2026-09-27T14:35:28.803Z,VintageStoryModKit.Settings.Core,0.2.0,Gabriel Andreescu,JSON settings storage and validation for Vintage Story mods.
+2026-09-27T14:37:57.8Z,pdn-soundmodem-linux,0.82.0,Tom Fanning M0LTE and Packet.NET contributors,"Linux radio interface discovery (ALSA, hidraw, serial by USB device), device access checks, hot-plug, and mixer hygiene and levels for pdn-soundmodem."
+2026-09-27T14:48:48.147Z,BrainEnterprise.Api.Twilio,1.0.0,"Gianluca Plevani, Brain Enterprise S.r.l.","Twilio messaging client: SMS, MMS and WhatsApp, single and bulk send, delivery status polling. Credentials and default senders are supplied by the host application."
+2026-09-27T14:57:42.153Z,OfficeIMO.Html.Core,3.4.4,Przemyslaw Klys,"Owned HTML document, node, editing and parser provider contracts for OfficeIMO."
+2026-09-27T14:57:43.92Z,OfficeIMO.Html.AngleSharp,3.4.4,Przemyslaw Klys,AngleSharp-backed HTML parsing and syntax services for the owned OfficeIMO HTML document model.
+2026-09-27T14:59:18.827Z,OfficeIMO.Project,3.4.4,Przemyslaw Klys,"Managed Microsoft Project XML and modern MPP/MPT authoring and editing, explicit task scheduling, and assessed source-preserving save with typed and fluent APIs."
+2026-09-27T15:00:07.353Z,KiteKey.AI.Abstractions,0.1.0,Kite & Key,"Provider-neutral AI function, text-processing, and audio transport contracts."
+2026-09-27T15:00:07.77Z,KiteKey.AI,0.1.0,Kite & Key,Provider-neutral AI function dispatch and JSON handler implementation.
+2026-09-27T15:00:14.64Z,Kapso.Client.Net,0.1.0,Alexandre Costa,"Typed .NET client for the Kapso APIs (WhatsApp, Platform, Workflows and Agent), generated from Kapso's official OpenAPI descriptions with Kiota."
+2026-09-27T15:08:07.843Z,DotDbg,0.1.0,Akito Inoue,"Command-line debugger for managed .NET programs, designed for AI agents and terminal users."

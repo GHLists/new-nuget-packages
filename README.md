@@ -12,37 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 14:20 UTC
+## Latest list — 2026-09-27 15:20 UTC
 
-New packages created between 2026-09-27 13:20 UTC and 2026-09-27 14:20 UTC.
+New packages created between 2026-09-27 14:20 UTC and 2026-09-27 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-27T14-20-06-026286Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-27T15-20-10-430835Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-27 13:23:52 | [tweens.gd](https://www.nuget.org/packages/tweens.gd) | 0.1.0-pre | Moritz Voss | Typed C# tweens for GodotSharp and 2dog. |
-| 2026-09-27 13:40:44 | [Bannerlord.ReferenceAssemblies.GUI.v1.NavalDLC](https://www.nuget.org/packages/Bannerlord.ReferenceAssemblies.GUI.v1.NavalDLC) | 1.5.3.122374-beta | BUTR | The prefab and brush XML of the NavalDLC DLC of Mount & Blade II: Bannerlord, w… |
-| 2026-09-27 13:40:45 | [Bannerlord.ReferenceAssemblies.GUI.v1](https://www.nuget.org/packages/Bannerlord.ReferenceAssemblies.GUI.v1) | 1.5.3.122374-beta | BUTR | The prefab and brush XML of Mount & Blade II: Bannerlord, with the movies it lo… |
-| 2026-09-27 13:42:01 | [WinAudioRoute](https://www.nuget.org/packages/WinAudioRoute) | 0.1.0 | kunkunkunQoQ | Modern Windows audio control for .NET: enumerate audio devices, read and write… |
-| 2026-09-27 13:49:39 | [EndoCapture.Core](https://www.nuget.org/packages/EndoCapture.Core) | 1.3.0 | Enes Melih Eroğlu | ASP.NET Core endoskopi kayıt sistemi için servis katmanı. Çoklu oda/kamera yöne… |
-| 2026-09-27 13:54:08 | [InnoWvate.Agentic](https://www.nuget.org/packages/InnoWvate.Agentic) | 2.3.0 | Vincent Hoogendoorn | Repo-local agentic tooling: prompt-log wrapping, history display, validation, a… |
-| 2026-09-27 13:55:32 | [InnoWvate.Dna](https://www.nuget.org/packages/InnoWvate.Dna) | 1.0.0 | Vincent Hoogendoorn | Global shorthand command for the repo-local dotnet agentic tool and the latest… |
-| 2026-09-27 13:59:23 | [PaGetto.Azure](https://www.nuget.org/packages/PaGetto.Azure) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on Azure. |
-| 2026-09-27 13:59:24 | [PaGetto.Gcp](https://www.nuget.org/packages/PaGetto.Gcp) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on the Google Cloud Platform. |
-| 2026-09-27 13:59:25 | [PaGetto.Core](https://www.nuget.org/packages/PaGetto.Core) | 1.0.0 | PaGetto contributors | The core libraries that power PaGetto. |
-| 2026-09-27 13:59:25 | [PaGetto.Tencent](https://www.nuget.org/packages/PaGetto.Tencent) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on Tencent Cloud. |
-| 2026-09-27 13:59:26 | [PaGetto.Database.PostgreSql](https://www.nuget.org/packages/PaGetto.Database.PostgreSql) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on PostgreSQL. |
-| 2026-09-27 13:59:27 | [PaGetto.Aliyun](https://www.nuget.org/packages/PaGetto.Aliyun) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on Alibaba Cloud (Aliyun). |
-| 2026-09-27 13:59:27 | [PaGetto.Web](https://www.nuget.org/packages/PaGetto.Web) | 1.0.0 | PaGetto contributors | PaGetto's NuGet server implementation |
-| 2026-09-27 13:59:28 | [PaGetto.Database.MySql](https://www.nuget.org/packages/PaGetto.Database.MySql) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on MySQL. |
-| 2026-09-27 13:59:29 | [PaGetto.Protocol](https://www.nuget.org/packages/PaGetto.Protocol) | 1.0.0 | PaGetto contributors | Libraries to interact with NuGet server APIs. |
-| 2026-09-27 13:59:29 | [PaGetto.Aws](https://www.nuget.org/packages/PaGetto.Aws) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on AWS. |
-| 2026-09-27 13:59:30 | [PaGetto.Database.Sqlite](https://www.nuget.org/packages/PaGetto.Database.Sqlite) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on SQLite. |
-| 2026-09-27 13:59:31 | [PaGetto.Database.SqlServer](https://www.nuget.org/packages/PaGetto.Database.SqlServer) | 1.0.0 | PaGetto contributors | The libraries to host PaGetto on SQL Server. |
-| 2026-09-27 14:02:51 | [ResilientApiClient](https://www.nuget.org/packages/ResilientApiClient) | 1.0.0 | ResilientApiClient Contributo… | A resilient, reusable HTTP client wrapper for calling multiple external REST AP… |
-| 2026-09-27 14:06:54 | [NuGetGuard.Cli](https://www.nuget.org/packages/NuGetGuard.Cli) | 0.1.0 | Suraj V Ghorpade | Scans .NET project dependencies for known vulnerabilities, typosquats, license… |
-| 2026-09-27 14:06:54 | [NuGetGuard.Core](https://www.nuget.org/packages/NuGetGuard.Core) | 0.1.0 | Suraj V Ghorpade | Core library for NuGetGuard — scans .NET dependencies for vulnerabilities, typo… |
-| 2026-09-27 14:06:55 | [NuGetGuard.MSBuildTask](https://www.nuget.org/packages/NuGetGuard.MSBuildTask) | 0.1.0 | Suraj V Ghorpade | MSBuild task that automatically scans NuGet dependencies for vulnerabilities on… |
+| 2026-09-27 14:27:17 | [EIAM.Security.Package.DAF](https://www.nuget.org/packages/EIAM.Security.Package.DAF) | 2.1.0 | EIAM Team | Centralized EIAM authorization for ASP.NET Core applications: every protected c… |
+| 2026-09-27 14:30:21 | [Soenneker.OpenApi.Converters.Meta](https://www.nuget.org/packages/Soenneker.OpenApi.Converters.Meta) | 4.0.1 | Jake Soenneker | Converts Meta Graph API JSON specifications into OpenAPI documents. |
+| 2026-09-27 14:35:28 | [VintageStoryModKit.Settings.Core](https://www.nuget.org/packages/VintageStoryModKit.Settings.Core) | 0.2.0 | Gabriel Andreescu | JSON settings storage and validation for Vintage Story mods. |
+| 2026-09-27 14:37:57 | [pdn-soundmodem-linux](https://www.nuget.org/packages/pdn-soundmodem-linux) | 0.82.0 | Tom Fanning M0LTE and Packet.… | Linux radio interface discovery (ALSA, hidraw, serial by USB device), device ac… |
+| 2026-09-27 14:48:48 | [BrainEnterprise.Api.Twilio](https://www.nuget.org/packages/BrainEnterprise.Api.Twilio) | 1.0.0 | Gianluca Plevani, Brain Enter… | Twilio messaging client: SMS, MMS and WhatsApp, single and bulk send, delivery… |
+| 2026-09-27 14:57:42 | [OfficeIMO.Html.Core](https://www.nuget.org/packages/OfficeIMO.Html.Core) | 3.4.4 | Przemyslaw Klys | Owned HTML document, node, editing and parser provider contracts for OfficeIMO. |
+| 2026-09-27 14:57:43 | [OfficeIMO.Html.AngleSharp](https://www.nuget.org/packages/OfficeIMO.Html.AngleSharp) | 3.4.4 | Przemyslaw Klys | AngleSharp-backed HTML parsing and syntax services for the owned OfficeIMO HTML… |
+| 2026-09-27 14:59:18 | [OfficeIMO.Project](https://www.nuget.org/packages/OfficeIMO.Project) | 3.4.4 | Przemyslaw Klys | Managed Microsoft Project XML and modern MPP/MPT authoring and editing, explici… |
+| 2026-09-27 15:00:07 | [KiteKey.AI.Abstractions](https://www.nuget.org/packages/KiteKey.AI.Abstractions) | 0.1.0 | Kite & Key | Provider-neutral AI function, text-processing, and audio transport contracts. |
+| 2026-09-27 15:00:07 | [KiteKey.AI](https://www.nuget.org/packages/KiteKey.AI) | 0.1.0 | Kite & Key | Provider-neutral AI function dispatch and JSON handler implementation. |
+| 2026-09-27 15:00:14 | [Kapso.Client.Net](https://www.nuget.org/packages/Kapso.Client.Net) | 0.1.0 | Alexandre Costa | Typed .NET client for the Kapso APIs (WhatsApp, Platform, Workflows and Agent),… |
+| 2026-09-27 15:08:07 | [DotDbg](https://www.nuget.org/packages/DotDbg) | 0.1.0 | Akito Inoue | Command-line debugger for managed .NET programs, designed for AI agents and ter… |
 
 ## Data source
 
