@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-09-28T03:22:17.157Z,StaticSiteHost.Abstractions,0.2.0,mattjcowan,"The types C# functions on Static Site Host are written against: the site a request is for, with its data folder, variables, services, realtime connections and AI; the attributes for middleware, services, jobs and the realtime and AI hooks; and fakes for running a handler outside the server."
+2026-09-28T03:23:31.577Z,Mythosia.AI.Serving.Abstractions,1.0.0,JJW,"Build model selectors, readiness checks and operations dashboards for Ollama, llama.cpp and vLLM through runtime-neutral contracts. What's New in v1.0.0: server information, health, model inventory and capabilities, plus optional lifecycle, download-progress and metrics interfaces. Immutable observ…"
+2026-09-28T03:23:32.783Z,Mythosia.AI.Serving.Ollama,1.0.0,JJW,"Prepare models and diagnose readiness on an existing Ollama server independently of chat providers. Discover registered and running models, check health/version, explicitly preload or unload compatible models, and download models with streaming progress. What's New in v1.0.0: shared Serving contrac…"
+2026-09-28T03:23:34.157Z,Mythosia.AI.Serving.LlamaCpp,1.0.0,JJW,"Build model selectors and management tools for an existing llama.cpp server. Inspect models, health and runtime capabilities; explicitly load, unload and download models in router mode; read single-model or model-specific Prometheus metrics without automatic loading. What's New in v1.0.0: common Se…"
+2026-09-28T03:25:08.31Z,AvroSharp,0.1.1,zcsizmadia,A high-performance .NET implementation of the Apache Avro™ specification.
+2026-09-28T03:25:09.147Z,AvroSharp.Codecs,0.1.1,zcsizmadia,"The snappy, zstandard, bzip2 and xz codecs for AvroSharp object container files, on fully managed libraries."
+2026-09-28T03:25:10.117Z,AvroSharp.Generators,0.1.1,zcsizmadia,Source generator for AvroSharp: C# types and allocation-free serializers from Apache Avro™ schema files (.avsc).
+2026-09-28T03:44:29.66Z,VenEl.MCP.Databricks,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Databricks
+2026-09-28T03:44:30.133Z,VenEl.MCP.Core,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Core
+2026-09-28T03:44:30.653Z,VenEl.MCP.Kubernetes,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Kubernetes
+2026-09-28T03:44:30.687Z,VenEl.MCP.LocalOffice,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.LocalOffice
+2026-09-28T03:44:31.153Z,VenEl.MCP.Bitwarden,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Bitwarden
+2026-09-28T03:44:31.627Z,VenEl.MCP.FTP,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.FTP
+2026-09-28T03:44:31.8Z,VenEl.MCP.MSSql,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.MSSql
+2026-09-28T03:44:32.077Z,VenEl.MCP.Slack,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Slack
+2026-09-28T03:44:32.557Z,VenEl.MCP.AWS,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.AWS
+2026-09-28T03:44:33.117Z,VenEl.MCP.WebAutomator,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.WebAutomator
+2026-09-28T03:44:33.13Z,VenEl.MCP.Email,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Email
+2026-09-28T03:44:33.667Z,VenEl.MCP.MicrosoftTeams,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.MicrosoftTeams
+2026-09-28T03:44:34.157Z,VenEl.MCP.Logging,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Logging
+2026-09-28T03:44:34.64Z,VenEl.MCP.Docker,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Docker
+2026-09-28T03:44:34.88Z,VenEl.MCP.Atlassian,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Atlassian
+2026-09-28T03:44:35.177Z,VenEl.MCP.GCP,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.GCP
+2026-09-28T03:44:35.65Z,VenEl.MCP.GitHub,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.GitHub
+2026-09-28T03:44:36.103Z,VenEl.MCP.Azure,1.0.0,VenEl,VenEl Core Business Logic - VenEl.MCP.Azure
+2026-09-28T03:44:52.85Z,AvroSharp.CodeGen,0.1.1,zcsizmadia,"C# code generation from Apache Avro™ schemas, used by the AvroSharp source generator and tools."
+2026-09-28T03:52:42.943Z,Cormier.Realtime.Contracts,1.0.5-beta,Cormier,Runtime-neutral protocol contracts for Cormier.Realtime clients and gateways.
+2026-09-28T03:52:44.953Z,Cormier.Realtime.Client,1.0.5-beta,Cormier,Runtime-neutral .NET Standard WebSocket client for Cormier.Realtime.
+2026-09-28T03:52:46.793Z,Cormier.Realtime.Redis,1.0.5-beta,Cormier,Redis messaging and session infrastructure for Cormier.Realtime.
+2026-09-28T03:52:48.94Z,Cormier.Realtime.AspNetCore,1.0.5-beta,Cormier,Plug-and-play ASP.NET Core hosting integration for Cormier.Realtime.
+2026-09-28T03:52:50.833Z,Cormier.Realtime.HttpFallback,1.0.5-beta,Cormier,Optional HTTP streaming fallback transport for Cormier.Realtime ASP.NET Core gateways.
+2026-09-28T03:52:53.27Z,Cormier.Realtime.Browser,1.0.5-beta,Cormier,Static web assets for the Cormier.Realtime browser and TypeScript client.
+2026-09-28T03:53:20.937Z,SKIT.JsonConv.NewtonsoftJson,0.1.0,Fu Diwei,为 Newtonsoft.Json 扩展更多的 JSON 转换器。
+2026-09-28T03:53:39.51Z,SKIT.JsonConv.SystemTextJson,0.1.0,Fu Diwei,为 System.Text.Json 扩展更多的 JSON 转换器。
+2026-09-28T04:13:53.87Z,Circle9.AiSidekicks,0.4.0,Circle9,"C# SDK for Circle9 AI-Sidekicks services, including Google Cloud authentication, PII inspection, and image masking."
