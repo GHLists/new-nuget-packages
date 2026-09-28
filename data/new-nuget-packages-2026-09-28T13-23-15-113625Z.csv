@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-09-28T12:30:41.257Z,Arc56.Generated.mritnycodes.verithread,1.0.1.2026092812,mritnycodes,Generated ARC-56 Algorand smart-contract clients for mritnycodes/verithread.
+2026-09-28T12:37:41.733Z,WhatFYN,1.0.0,George Paoli,ASP.NET Core output formatter that returns only the JSON fields the client asks for.
+2026-09-28T12:43:04.13Z,TaefTestAdapter,1.0.0,Axel Rietschin Software Development LLC,"Enables Visual Studio's testing tools (Test Explorer, vstest.console.exe) with native C++ tests written for the Test Authoring and Execution Framework (TAEF). Use the NuGet package on build servers or without the Visual Studio extension; the extension additionally provides options, a toolbar and de…"
+2026-09-28T12:45:05.367Z,Tamp.Components,1.17.0,Scott Singleton,"Reusable Tamp build components (ADR 0020): tool-agnostic target-shape interfaces (IRestore / ICompile / ITest / IPack) that define target names + dependency wiring, and the IHaz* injection contracts (IHazSolution / IHazConfiguration / IHazArtifacts) a build satisfies. The concrete tool bodies ship…"
+2026-09-28T12:45:06.203Z,Tamp.Components.NetCli.V10,1.17.0,Scott Singleton,"Concrete dotnet SDK bodies for the Tamp.Components target shapes (ADR 0020): IDotNetRestore / IDotNetCompile / IDotNetTest / IDotNetPack provide the Restore/Compile/Test/Pack CommandPlans via the .NET 10 `dotnet` CLI (Tamp.NetCli.V10), bundling current best practice (no-restore/no-build chaining, -…"
+2026-09-28T13:06:01.543Z,ICEPAY.Checkout,1.0.0,ICEPAY,Official .NET SDK for the ICEPAY Checkout API.
+2026-09-28T13:07:27.35Z,Universal.Microsoft.Foundry.Client,1.0.0,Andrew Ong,"Standalone HTTP client for Microsoft Foundry project discovery and OpenAI, Anthropic, and MAI inference APIs."
