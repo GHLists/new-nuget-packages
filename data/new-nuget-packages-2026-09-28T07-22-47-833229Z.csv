@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-09-28T06:42:28.08Z,RainPointClient,1.0.0,Neil Colvin,A typed RainPoint Home / Smart+ cloud client.
+2026-09-28T06:50:09.58Z,Universal.Typesense.Client,1.0.0,Andrew Ong,Client for the Typesense v30 HTTP API.
+2026-09-28T07:00:19.577Z,LggNet.Common,1.0.1,lggnet,Common utilities library (renamed from A3Common). Namespaces remain A3Common for compatibility.
+2026-09-28T07:15:57.59Z,Universal.Search,1.0.0,Andrew Ong,Provider-neutral query abstractions for search services.
+2026-09-28T07:16:08.547Z,Universal.Search.AzureAISearch,1.0.0,Andrew Ong,Azure AI Search provider for Universal.Search.
+2026-09-28T07:16:20.627Z,Universal.Search.InMemory,1.0.0,Andrew Ong,In-memory search provider for Universal.Search.
