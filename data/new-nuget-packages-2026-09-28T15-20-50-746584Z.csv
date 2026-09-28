@@ -1,0 +1,60 @@
+created_at,package,version,authors,description
+2026-09-28T14:25:45.693Z,IconTrim.Core,0.1.0,IconTrim contributors,"IconTrim scanning, validation, incremental state, and adapter abstractions."
+2026-09-28T14:26:22.01Z,IconTrim.BootstrapIcons,0.1.0,IconTrim contributors,Bootstrap Icons provider and CSS generator for IconTrim.
+2026-09-28T14:26:44.653Z,IconTrim.FontTools,0.1.0,IconTrim contributors,Python FontTools WOFF2 subset generator for IconTrim.
+2026-09-28T14:27:11.373Z,IconTrim.Hosting,0.1.0,IconTrim contributors,Generic Host startup integration for IconTrim.
+2026-09-28T14:29:35.857Z,IconTrim,0.1.0,IconTrim contributors,"Bootstrap Icons font subsetting with DI, Generic Host integration, and incremental execution."
+2026-09-28T14:31:56.353Z,aztree,0.6.1,Milan Milanović,"See where your Azure money goes, as a treemap in one offline HTML page."
+2026-09-28T14:43:51.92Z,BufferStream,1.0.0,Eriq VanBibber,"A pooled, reusable System.IO.Stream for low-allocation in-memory binary work, with direct typed serialization, borrowed-memory views, shallow segments, explicit framing, and cursor-preserving positional writes."
+2026-09-28T14:45:07.427Z,Meziantou.Framework.Markdown,1.0.0,meziantou,"A fast, CommonMark compliant, extensible Markdown processor for .NET, derived from Markdig."
+2026-09-28T14:45:38.3Z,Curiosus.Archiver,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Classes for working with archives
+2026-09-28T14:45:39.843Z,Curiosus.Archiver.SharpZip,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Archiver implemetion based on SharpZip
+2026-09-28T14:45:41.16Z,Curiosus.FileDataReaderWriters.Npoi,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin), Andrey Ioch (@DevCorvette), Timur Sidoriuk…",Npoi realization for working with xls/xlsx/csv files
+2026-09-28T14:45:42.527Z,Curiosus.Configuration.YML,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",YAML configuration provider.
+2026-09-28T14:45:43.75Z,Curiosus.EMail,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",Base classes for working with EMails
+2026-09-28T14:45:45.103Z,Curiosus.EMail.SMTP,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",SMTP EMail sender
+2026-09-28T14:45:46.383Z,Curiosus.SMS.Iqsms,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",Classes for sending SMS via iqsms.ru.
+2026-09-28T14:45:47.663Z,Curiosus.EMail.Mailgun,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Mailgun EMail sender
+2026-09-28T14:45:48.98Z,Curiosus.Notifications.EMail,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",EMail notifications.
+2026-09-28T14:45:50.25Z,Curiosus.Hosting,2.0.0,"Max Markelow (@markeli), Ilya Negrub (@ilya-negrub), Andrei Vinogradov (@anri-vin)",Hosting tools
+2026-09-28T14:45:51.7Z,Curiosus.DAL.Dapper,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",SqlExecutor implementaion via Dapper.
+2026-09-28T14:45:53.007Z,Curiosus.FileDataReaderWriters.SylvanCsv,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin), Andrey Ioch (@DevCorvette), Timur Sidoriuk…",Sylvan realization for working with csv files
+2026-09-28T14:45:54.273Z,Curiosus.DAL.EF,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Classes for working with EntityFramework
+2026-09-28T14:45:55.84Z,Curiosus.Notifications.SMS,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",SMS notifications channel.
+2026-09-28T14:45:57.247Z,Curiosus.FileDataReaderWriters,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin), Andrey Ioch (@DevCorvette), Timur Sidoriuk…",Base classes for working with xls/xlsx/csv files
+2026-09-28T14:45:58.473Z,Curiosus.RequestProcessing.Postgres,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Services to receive and process reqesuts/events from Postgres
+2026-09-28T14:45:59.77Z,Curiosus.RabbitMQ,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Reliable .NET client for RabbitMQ for RPC communication
+2026-09-28T14:46:01.073Z,Curiosus.EMail.UnisenderGo,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Unisender.Go email sender. Uses Unisender.Go API to send emails.
+2026-09-28T14:46:02.387Z,Curiosus.DateTime.DbSync,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Service for syncrhonizing DateTime via database.
+2026-09-28T14:46:03.953Z,Curiosus.Tools.Web,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin), Andrey Ioch (@DevCorvette)",Curiosus web tools
+2026-09-28T14:46:05.33Z,Curiosus.Tools,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",Curiosus tools
+2026-09-28T14:46:06.67Z,Curiosus.DAL,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)","Classes for working with data access layer: context abstractions, factory."
+2026-09-28T14:46:07.92Z,Curiosus.DataAnnotations,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Custom data annotations and validator.
+2026-09-28T14:46:09.227Z,Curiosus.SMS.Smsc,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Classes for sending SMS via smsc.ru.
+2026-09-28T14:46:10.467Z,Curiosus.RequestProcessing,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Infrastructure for processing request/events from an queue.
+2026-09-28T14:46:11.74Z,Curiosus.DAL.EF.Polly,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Poly policies for EF.
+2026-09-28T14:46:13.067Z,Curiosus.Configuration,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)","Class for working with configuration: logging, validation, etc."
+2026-09-28T14:46:14.33Z,Curiosus.Localization.MVC,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Classes for localizing applications in more efficient way than Microsfot's way.
+2026-09-28T14:46:15.65Z,Curiosus.RequestProcessing.RabbitMQ,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Services to receive and process reqesuts/events from RabbitMQ.
+2026-09-28T14:46:19.447Z,Curiosus.Cache.MemoryCache,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Extensions for MemoryCache.
+2026-09-28T14:46:20.687Z,Curiosus.SMS,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Base classes for sendind SMS.
+2026-09-28T14:46:22.137Z,Curiosus.SFTP.SSH.NET,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",SFTP Client implemented with SSH.NET
+2026-09-28T14:46:23.443Z,Curiosus.Localization,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin), Adil Mir (@AdilMirSz)",Classes for localizing applications in more efficient way than Microsfot's way.
+2026-09-28T14:46:24.757Z,Curiosus.DAL.NpgSQL,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",Classes for NpgSQL driver
+2026-09-28T14:46:26.003Z,Curiosus.Notifications,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",Base classes for creating and processing notifications.
+2026-09-28T14:46:27.36Z,Curiosus.Hosting.Web,2.0.0,"Max Markelow (@markeli), Andrey Ioch (@DevCorvette), Andrei Vinogradov (@anri-vin)",Hosting tools for Web applications.
+2026-09-28T14:46:28.62Z,Curiosus.SFTP,2.0.0,"Max Markelow (@markeli), Andrei Vinogradov (@anri-vin)",SFTP Client
+2026-09-28T14:52:54.047Z,Bsync,0.1.0,Saleh Yusefnejad,"Platform-independent local-first sync for .NET: the protocol, change tracking and conflict resolution, a UI-independent client (local replica session, replication loop, collection API and DI recipe) and the HTTP transport, for Blazor WebAssembly and Hybrid, MAUI, WPF, WinForms, Avalonia, console an…"
+2026-09-28T14:53:07.737Z,Bsync.Blazor,0.1.0,Saleh Yusefnejad,"Blazor integration for Bsync: a durable browser store (IndexedDB) for Blazor WebAssembly, PWAs and Interactive WebAssembly/Auto after activation, and a server-connected collection (Interactive Server, prerendering, static SSR) that writes as the authenticated Blazor user. The collection API and the…"
+2026-09-28T14:53:19.747Z,Bsync.Server.AspNetCore,0.1.0,Saleh Yusefnejad,ASP.NET Core endpoints for the Bsync protocol over any ISyncAuthority (docs/protocol/v1.md section 8).
+2026-09-28T14:53:32.8Z,Bsync.Server.PostgreSql,0.1.0,Saleh Yusefnejad,"PostgreSQL-backed Bsync authority: per-scope committed-prefix feeds, operation receipts, retention, epochs and cross-instance commit hints (LISTEN/NOTIFY)."
+2026-09-28T14:53:50.777Z,Bsync.Storage.Sqlite,0.1.0,Saleh Yusefnejad,"Durable SQLite local store for Bsync on native hosts (MAUI, WPF, WinForms, console). Not for Blazor WebAssembly."
+2026-09-28T14:54:01.177Z,Bsync.Testing,0.1.0,Saleh Yusefnejad,"Provider conformance cases for Bsync stores. Framework-independent, so they also run inside a browser."
+2026-09-28T15:04:57.133Z,ManInBlack.AI,0.0.1,fengb3,.NET AI Agent 框架：经 Microsoft.Extensions.AI (IChatClient) 统一 OpenAI/Anthropic/Gemini 三种协议，洋葱模型中间件管道 + 源生成器工具派发 + MCP + SQLite 持久化，Linux 下可用 bubblewrap 沙盒执行命令。内置 [AiTool] 源生成器，装包即用。
+2026-09-28T15:04:57.877Z,ManInBlack.AI.Abstraction,0.0.1,fengb3,ManInBlack AI Agent 框架的契约层：Agent 定义、中间件、工具、Hook、存储等抽象接口，供扩展实现方引用。
+2026-09-28T15:04:58.667Z,ManInBlack.AI.SourceGenerator,0.0.1,fengb3,ManInBlack 的源生成器：[AiTool] 工具派发、[SlashCommand] 命令与 [ServiceRegister] 服务注册代码生成。随 ManInBlack.AI 主包自动携带，一般无需单独安装。
+2026-09-28T15:04:59.22Z,ManInBlack.Bwarp,0.0.1,fengb3,Linux bubblewrap (bwrap) 沙盒封装：白名单挂载、能力控制与命令执行，ManInBlack 的命令沙盒层。
+2026-09-28T15:10:47.35Z,BergamotTranslatorSharp.Json,0.6.1,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-09-28T15:10:48.48Z,BergamotTranslatorSharp.Toml,0.6.1,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-09-28T15:10:50.553Z,BergamotTranslatorSharp.Tool,0.6.1,Freeesia,Offline translation command line tool powered by Bergamot Translator.
+2026-09-28T15:10:51.573Z,BergamotTranslatorSharp.Yaml,0.6.1,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
