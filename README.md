@@ -12,23 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:19 UTC
+## Latest list — 2026-09-28 17:22 UTC
 
-New packages created between 2026-09-28 15:20 UTC and 2026-09-28 16:19 UTC.
+New packages created between 2026-09-28 16:19 UTC and 2026-09-28 17:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-28T16-19-54-370478Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-28T17-22-30-163726Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-28 15:33:51 | [GameNetworkingSockets.Net.Certificates](https://www.nuget.org/packages/GameNetworkingSockets.Net.Certificates) | 0.3.0 | GameNetworkingSockets.Net con… | Mints and reads GameNetworkingSockets certificates in managed code: a root auth… |
-| 2026-09-28 15:38:31 | [UnambitiousFx.Synapse.Outbox.AdoNet](https://www.nuget.org/packages/UnambitiousFx.Synapse.Outbox.AdoNet) | 2.1.0 | UnambitiousFx | A lightweight, performance-oriented library for building message-driven applica… |
-| 2026-09-28 15:38:31 | [UnambitiousFx.Synapse.Outbox.EntityFrameworkCore](https://www.nuget.org/packages/UnambitiousFx.Synapse.Outbox.EntityFrameworkCore) | 2.1.0 | UnambitiousFx | A lightweight, performance-oriented library for building message-driven applica… |
-| 2026-09-28 16:01:35 | [MDD4All.DME.ViewModels](https://www.nuget.org/packages/MDD4All.DME.ViewModels) | 2.0.0.1 | Dr. Oliver Alt, mDuckLab | The view models of MDD4All.DME, the object graph editor: the tree built from wh… |
-| 2026-09-28 16:10:42 | [JCoder.CoreKits.MySql](https://www.nuget.org/packages/JCoder.CoreKits.MySql) | 3.2623.1 | Jackie Law | 一款使用MySql进行辅助的工具库。 |
-| 2026-09-28 16:10:43 | [JCoder.CoreKits.NoteTxt](https://www.nuget.org/packages/JCoder.CoreKits.NoteTxt) | 3.2623.1 | Jackie Law | 一款使用本地Txt文件进行辅助的工具库。 |
-| 2026-09-28 16:10:46 | [JCoder.CoreKits.SqlServer](https://www.nuget.org/packages/JCoder.CoreKits.SqlServer) | 3.2623.1 | Jackie Law | 一款使用SqlServer进行辅助的工具库。 |
-| 2026-09-28 16:11:13 | [Diavasi.Client](https://www.nuget.org/packages/Diavasi.Client) | 0.1.0 | diavasis | Thin client for the Diavasi data plane |
-| 2026-09-28 16:11:25 | [PixelmapLibraryNetFramework](https://www.nuget.org/packages/PixelmapLibraryNetFramework) | 1.0.0 | Anders Hesselbom | A .NET Framework version of PixelmapLibrary. |
+| 2026-09-28 16:23:08 | [MDD4All.DME.Views](https://www.nuget.org/packages/MDD4All.DME.Views) | 2.0.0.1 | Dr. Oliver Alt, mDuckLab | The Blazor components of MDD4All.DME, the object graph editor: a card per objec… |
+| 2026-09-28 16:32:29 | [CasCap.Common.AI.Evaluation](https://www.nuget.org/packages/CasCap.Common.AI.Evaluation) | 4.14.3 | Alex Vincent | Evaluation harness for Microsoft Agent Framework agents built with CasCap.Commo… |
+| 2026-09-28 16:32:40 | [EdoardoTona.Rustino](https://www.nuget.org/packages/EdoardoTona.Rustino) | 0.4.1 | Edoardo Tona | Cross-platform native webview windows powered by Rust (wry/tao). Drop-in replac… |
+| 2026-09-28 16:32:41 | [EdoardoTona.Rustino.Blazor](https://www.nuget.org/packages/EdoardoTona.Rustino.Blazor) | 0.4.1 | Edoardo Tona | Blazor Hybrid for Rustino.NET: host Razor components in a native Rustino window… |
+| 2026-09-28 16:32:42 | [EdoardoTona.Rustino.Reactive](https://www.nuget.org/packages/EdoardoTona.Rustino.Reactive) | 0.4.1 | Edoardo Tona | System.Reactive extensions for Rustino.NET window events. |
+| 2026-09-28 16:52:09 | [Eryri.FileDistributedCache](https://www.nuget.org/packages/Eryri.FileDistributedCache) | 1.0.0 | Osian Linton | Local filesystem-backed IDistributedCache and IBufferedDistributedCache for sin… |
+| 2026-09-28 17:02:53 | [MESCIUS.ActiveReports.AI.Web](https://www.nuget.org/packages/MESCIUS.ActiveReports.AI.Web) | 20.2.1 | MESCIUS inc. | ActiveReports AI Web provides ASP.NET Core middleware that integrates AI-powere… |
+| 2026-09-28 17:03:36 | [MESCIUS.ActiveReports.Design.AI.Reporting](https://www.nuget.org/packages/MESCIUS.ActiveReports.Design.AI.Reporting) | 20.2.0 | MESCIUS inc. | ActiveReports is a set of assemblies that enable you to create, render, print,… |
+| 2026-09-28 17:08:49 | [QueryCache.Core](https://www.nuget.org/packages/QueryCache.Core) | 0.1.0 | Gabriel Matte | Async query-result cache primitives (in-process LRU or any HybridCache, per-ite… |
+| 2026-09-28 17:08:49 | [QueryCache.Dapper](https://www.nuget.org/packages/QueryCache.Dapper) | 0.1.0 | Gabriel Matte | Cache Dapper query results in-process or in any HybridCache, keyed by SQL text,… |
+| 2026-09-28 17:08:50 | [QueryCache.EFCore](https://www.nuget.org/packages/QueryCache.EFCore) | 0.1.0 | Gabriel Matte | Cache Entity Framework Core query results in-process or in any HybridCache, wit… |
 
 ## Data source
 
