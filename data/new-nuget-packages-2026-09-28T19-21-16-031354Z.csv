@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-09-28T18:25:52.55Z,Kevlar.Extensions.Diagnostics.HealthChecks,1.2.0,Tom Longhurst,"Health checks for registered Kevlar shields, circuit breaker monitors, and partitioned shields."
+2026-09-28T18:25:53.55Z,Kevlar.Extensions.EntityFrameworkCore,1.2.0,Tom Longhurst,Sequential Kevlar execution strategies for Entity Framework Core.
+2026-09-28T18:25:57.93Z,Kevlar.Extensions.Tracing,1.2.0,Tom Longhurst,Opt-in enrichment of application activities with Kevlar telemetry events.
+2026-09-28T18:27:48.087Z,ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build196784,1.0.196784,Microsoft,Disposable package used to validate NuGet publishing through ESRP Release.
+2026-09-28T18:28:23.27Z,FFmpeg.Interop,0.1.0-dev1,Agash,".NET bindings for FFmpeg 9: a managed API for encoding, decoding, hardware acceleration (D3D11, D3D12, CUDA, AMF, VA-API, Vulkan, VideoToolbox), scaling and resampling, over complete source-generated bindings to the native libraries. Native AOT compatible. Bring your own FFmpeg 9 shared libraries."
+2026-09-28T18:29:39.853Z,RoushTech.Asio.S3,0.5.0,William Roush,"S3-compatible archive for completed RoushTech.Asio sessions via the Minio client, so logs outlive the session store."
+2026-09-28T18:33:37.143Z,AwadyLab.HttpKit,1.0.0,Mohamed Elawady,"Typed HttpClient framework for .NET: source-generated registration, Polly v8 resilience, auth handlers with token caching, HybridCache response caching, streaming/SSE, pagination, logging, telemetry and redaction."
+2026-09-28T18:33:39.373Z,AwadyLab.HttpKit.AspNetCore,1.0.0,Mohamed Elawady,"ASP.NET Core integration for AwadyLab.HttpKit: header propagation bridge, HttpContext-based tenant and auth context, and health-check registration."
+2026-09-28T18:33:43.197Z,AwadyLab.HttpKit.Testing,1.0.0,Mohamed Elawady,"Testing support for AwadyLab.HttpKit: test doubles, mock handlers from .json/.http files, HAR capture and replay, and Polly Simmy chaos injection."
+2026-09-28T18:40:05.527Z,Soenneker.TikTok.HttpClients,4.0.1,Jake Soenneker,A thread-safe singleton HttpClient for TikTok's OpenAPI integration.
+2026-09-28T18:42:04.687Z,Soenneker.TikTok.OpenApiClient,4.0.1,Jake Soenneker,A generated OpenAPI client for TikTok developer APIs.
+2026-09-28T18:59:24.287Z,Tauri.Plugin.DotNet,0.1.1,George Samartzidis,"Typed RPC bridge between a Tauri frontend and .NET services, with auto-generated TypeScript bindings. Provides reflection-based method dispatch, cancellation support, and a .NET-to-JS event system."
+2026-09-28T19:04:22.12Z,EraTech.Shared.Hosting.Authentication,2.2.24,EraTech,Package Description
