@@ -12,21 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 02:22 UTC
+## Latest list — 2026-09-28 03:21 UTC
 
-New packages created between 2026-09-28 01:20 UTC and 2026-09-28 02:22 UTC.
+New packages created between 2026-09-28 02:22 UTC and 2026-09-28 03:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-28T02-22-40-678972Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-28T03-21-08-567072Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-28 01:27:14 | [MySvz.Framework.Domain.Core](https://www.nuget.org/packages/MySvz.Framework.Domain.Core) | 6.0.5-beta2 | liang.huang | 领域模型相关基础实现 |
-| 2026-09-28 01:27:16 | [MySvz.Framework.IS4.Domain](https://www.nuget.org/packages/MySvz.Framework.IS4.Domain) | 6.0.5-beta2 | liang.huang | IdentityServer4 Domain |
-| 2026-09-28 01:27:21 | [MySvz.Framework.Infrastructure.IntegrationEventService](https://www.nuget.org/packages/MySvz.Framework.Infrastructure.IntegrationEventService) | 6.0.5-beta2 | liang.huang | 集成事件服务 |
-| 2026-09-28 01:27:24 | [MySvz.Framework.IS4.MongoDB](https://www.nuget.org/packages/MySvz.Framework.IS4.MongoDB) | 6.0.5-beta2 | liang.huang | IdentityServer4 Mongodb仓储 |
-| 2026-09-28 01:29:02 | [StrictNet.Idempotency.AspNetCore](https://www.nuget.org/packages/StrictNet.Idempotency.AspNetCore) | 1.0.0 | Josh2406 | A light-weight, high-performance idempotency middleware for .NET APIs targeting… |
-| 2026-09-28 01:47:45 | [PDFtoImage.Parallel](https://www.nuget.org/packages/PDFtoImage.Parallel) | 1.0.0-preview | David Sungaila | Renders PDF files in parallel by distributing PDFium work across isolated worke… |
-| 2026-09-28 02:05:26 | [Gravicode.MediaPipeNet.Models.FaceStylizer](https://www.nuget.org/packages/Gravicode.MediaPipeNet.Models.FaceStylizer) | 1.0.0 | Gravicode Studios, Kang Fadhil | Face stylizer model for MediaPipe.NET: BlazeFaceStylizer color sketch (256x256)… |
+| 2026-09-28 02:51:29 | [ContentCalendar.V17](https://www.nuget.org/packages/ContentCalendar.V17) | 1.0.0 | ZAAKS! | A content calendar for the Umbraco 17 backoffice. A Content section dashboard a… |
+| 2026-09-28 02:57:20 | [VDriver](https://www.nuget.org/packages/VDriver) | 1.4.1 | Goes Team | vdriver — Driver management CLI for Goes projects. Browse and download driver p… |
+| 2026-09-28 03:04:38 | [Universal.Operative.Sdk.Google](https://www.nuget.org/packages/Universal.Operative.Sdk.Google) | 1.0.0 | Andrew Ong | Google Maps, Places, Routes, Drive, Sheets, and Calendar tools for Universal.Op… |
+| 2026-09-28 03:06:29 | [Universal.Operative.Sdk.Discrete.Xiaomi.MiMo](https://www.nuget.org/packages/Universal.Operative.Sdk.Discrete.Xiaomi.MiMo) | 1.0.0 | Andrew Ong | MiMo model adapters for Universal.Operative.Sdk. |
+| 2026-09-28 03:07:52 | [Paradise.ImGui.Plot](https://www.nuget.org/packages/Paradise.ImGui.Plot) | 3.1.2 | ParadiseEngine | Not an official Hexa.NET package: ParadiseEngine's fork of Hexa.NET.ImPlot by J… |
+| 2026-09-28 03:07:53 | [Paradise.ImGui.Nodes](https://www.nuget.org/packages/Paradise.ImGui.Nodes) | 3.1.2 | ParadiseEngine | Not an official Hexa.NET package: ParadiseEngine's fork of Hexa.NET.ImNodes by… |
+| 2026-09-28 03:07:55 | [Paradise.ImGui.Plot3D](https://www.nuget.org/packages/Paradise.ImGui.Plot3D) | 3.1.2 | ParadiseEngine | Not an official Hexa.NET package: ParadiseEngine's fork of Hexa.NET.ImPlot3D by… |
+| 2026-09-28 03:07:55 | [Paradise.ImGui.Guizmo](https://www.nuget.org/packages/Paradise.ImGui.Guizmo) | 3.1.2 | ParadiseEngine | Not an official Hexa.NET package: ParadiseEngine's fork of Hexa.NET.ImGuizmo by… |
+| 2026-09-28 03:11:13 | [Transfocus.TMS.Sdk](https://www.nuget.org/packages/Transfocus.TMS.Sdk) | 1.0.0 | Transfocus | Official .NET client for the Transfocus TMS public API (v1 and v2): typed resou… |
+| 2026-09-28 03:15:06 | [SendPing](https://www.nuget.org/packages/SendPing) | 1.0.0 | SendPing | Official SendPing .NET SDK — send transactional and marketing email from your o… |
 
 ## Data source
 
