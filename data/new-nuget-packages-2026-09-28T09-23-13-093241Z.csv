@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-09-28T08:29:06.01Z,SqlSugar.HGCore.Patched,5.1.4.2-patch1,YOUR-ORG-OR-NAME,Patched SqlSugar.HGCore 5.1.4.2 + matching SqlSugar core 5.1.4.196. Adds SqlSugar.HG.HGUpdateable<T> so SqlSugar's provider lookup succeeds instead of failing on every update operation.
+2026-09-28T09:10:16.44Z,NModbus.Extensions,0.1.0,xiapeng,为 NModbus 提供的扩展方法和工具库
+2026-09-28T09:15:20.893Z,Huddly.UsbDotNet.Hotplug,1.4.3,Thomas Mittet,Async-streaming USB hotplug monitoring for UsbDotNet
+2026-09-28T09:15:22.46Z,Huddly.UsbDotNet.LibUsbNative,1.4.3,"Stian Myhre, Thomas Mittet",.NET wrapper for the libusb library
