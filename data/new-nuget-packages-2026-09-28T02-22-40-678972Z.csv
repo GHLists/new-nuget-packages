@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-09-28T01:27:14.62Z,MySvz.Framework.Domain.Core,6.0.5-beta2,liang.huang,领域模型相关基础实现
+2026-09-28T01:27:16.93Z,MySvz.Framework.IS4.Domain,6.0.5-beta2,liang.huang,IdentityServer4 Domain
+2026-09-28T01:27:21.753Z,MySvz.Framework.Infrastructure.IntegrationEventService,6.0.5-beta2,liang.huang,集成事件服务
+2026-09-28T01:27:24.163Z,MySvz.Framework.IS4.MongoDB,6.0.5-beta2,liang.huang,IdentityServer4 Mongodb仓储
+2026-09-28T01:29:02.27Z,StrictNet.Idempotency.AspNetCore,1.0.0,Josh2406,"A light-weight, high-performance idempotency middleware for .NET APIs targeting .NET 6, 8, and 10. Prevents duplicate requests and race conditions using distributed Redis locks."
+2026-09-28T01:47:45.96Z,PDFtoImage.Parallel,1.0.0-preview,David Sungaila,Renders PDF files in parallel by distributing PDFium work across isolated worker processes.
+2026-09-28T02:05:26.723Z,Gravicode.MediaPipeNet.Models.FaceStylizer,1.0.0,"Gravicode Studios, Kang Fadhil","Face stylizer model for MediaPipe.NET: BlazeFaceStylizer color sketch (256x256) and the 192x192 face mesh it aligns faces with. Converted from Google MediaPipe (Apache-2.0) and cross-validated against TFLite. Created by Gravicode Studios, led by Kang Fadhil."

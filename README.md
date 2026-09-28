@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 01:20 UTC
+## Latest list — 2026-09-28 02:22 UTC
 
-New packages created between 2026-09-28 00:20 UTC and 2026-09-28 01:20 UTC.
+New packages created between 2026-09-28 01:20 UTC and 2026-09-28 02:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-28T01-20-36-346891Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-28T02-22-40-678972Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-28 00:32:00 | [SemiWare](https://www.nuget.org/packages/SemiWare) | 1.0.0 | blubeatbee | My first attempt publishing a NuGet package. |
-| 2026-09-28 01:12:53 | [ZeroAsset](https://www.nuget.org/packages/ZeroAsset) | 1.0.0 | Phong Võ | High-Performance Digital Asset Management, Zero-Byte Variant Branching, and Hie… |
+| 2026-09-28 01:27:14 | [MySvz.Framework.Domain.Core](https://www.nuget.org/packages/MySvz.Framework.Domain.Core) | 6.0.5-beta2 | liang.huang | 领域模型相关基础实现 |
+| 2026-09-28 01:27:16 | [MySvz.Framework.IS4.Domain](https://www.nuget.org/packages/MySvz.Framework.IS4.Domain) | 6.0.5-beta2 | liang.huang | IdentityServer4 Domain |
+| 2026-09-28 01:27:21 | [MySvz.Framework.Infrastructure.IntegrationEventService](https://www.nuget.org/packages/MySvz.Framework.Infrastructure.IntegrationEventService) | 6.0.5-beta2 | liang.huang | 集成事件服务 |
+| 2026-09-28 01:27:24 | [MySvz.Framework.IS4.MongoDB](https://www.nuget.org/packages/MySvz.Framework.IS4.MongoDB) | 6.0.5-beta2 | liang.huang | IdentityServer4 Mongodb仓储 |
+| 2026-09-28 01:29:02 | [StrictNet.Idempotency.AspNetCore](https://www.nuget.org/packages/StrictNet.Idempotency.AspNetCore) | 1.0.0 | Josh2406 | A light-weight, high-performance idempotency middleware for .NET APIs targeting… |
+| 2026-09-28 01:47:45 | [PDFtoImage.Parallel](https://www.nuget.org/packages/PDFtoImage.Parallel) | 1.0.0-preview | David Sungaila | Renders PDF files in parallel by distributing PDFium work across isolated worke… |
+| 2026-09-28 02:05:26 | [Gravicode.MediaPipeNet.Models.FaceStylizer](https://www.nuget.org/packages/Gravicode.MediaPipeNet.Models.FaceStylizer) | 1.0.0 | Gravicode Studios, Kang Fadhil | Face stylizer model for MediaPipe.NET: BlazeFaceStylizer color sketch (256x256)… |
 
 ## Data source
 
