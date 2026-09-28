@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-09-28T15:33:51.06Z,GameNetworkingSockets.Net.Certificates,0.3.0,GameNetworkingSockets.Net contributors,"Mints and reads GameNetworkingSockets certificates in managed code: a root authority, identity-bound certificates signed by it, and the public root that peers pass to AddTrustedRootCA. Needs no native GameNetworkingSockets binary."
+2026-09-28T15:38:31.127Z,UnambitiousFx.Synapse.Outbox.AdoNet,2.1.0,UnambitiousFx,"A lightweight, performance-oriented library for building message-driven applications and in-process mediators. Provides composable primitives for Commands, Queries, Events, and Pipelines with a focus on low latency and minimal allocations."
+2026-09-28T15:38:31.87Z,UnambitiousFx.Synapse.Outbox.EntityFrameworkCore,2.1.0,UnambitiousFx,"A lightweight, performance-oriented library for building message-driven applications and in-process mediators. Provides composable primitives for Commands, Queries, Events, and Pipelines with a focus on low latency and minimal allocations."
+2026-09-28T16:01:35.02Z,MDD4All.DME.ViewModels,2.0.0.1,"Dr. Oliver Alt, mDuckLab","The view models of MDD4All.DME, the object graph editor: the tree built from whatever object it is handed, the open document, the settings, and the rules a data model declares through its annotations."
+2026-09-28T16:10:42.383Z,JCoder.CoreKits.MySql,3.2623.1,Jackie Law,一款使用MySql进行辅助的工具库。
+2026-09-28T16:10:43.203Z,JCoder.CoreKits.NoteTxt,3.2623.1,Jackie Law,一款使用本地Txt文件进行辅助的工具库。
+2026-09-28T16:10:46.163Z,JCoder.CoreKits.SqlServer,3.2623.1,Jackie Law,一款使用SqlServer进行辅助的工具库。
+2026-09-28T16:11:13.073Z,Diavasi.Client,0.1.0,diavasis,Thin client for the Diavasi data plane
+2026-09-28T16:11:25.98Z,PixelmapLibraryNetFramework,1.0.0,Anders Hesselbom,A .NET Framework version of PixelmapLibrary.
