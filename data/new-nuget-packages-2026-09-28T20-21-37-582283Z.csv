@@ -1,0 +1,116 @@
+created_at,package,version,authors,description
+2026-09-28T19:21:26.83Z,DotFramework.Core.DependencyInjection.Microsoft,4.3.0,dotFramework,"dotFramework Core Dependency Injection on IServiceProvider, with Castle DynamicProxy interception"
+2026-09-28T19:22:46.93Z,KiteKey.AI.Azure.VoiceLive,0.2.0,Kite & Key,"Azure AI Voice Live assistant, shared AI audio contracts, session lifecycle, and credential warmup."
+2026-09-28T19:22:47.683Z,KiteKey.AI.Azure,0.1.0,Kite & Key,Azure AI Speech voice listing with injectable Azure credentials and HTTP transport.
+2026-09-28T19:26:45.957Z,Boxops.Fjord.Indexer,0.6.1,Boxops,"Index a .NET solution into a Fjord database — Buildalyzer and Roslyn over a real checkout, writing the predicates schemas/dotnet.sigla declares."
+2026-09-28T19:27:27.427Z,CodeBrix.Audio.MidiConnect.MitLicenseForever,1.0.271.1165,Jeremy Ellis,"Connects CodeBrix.Audio to physical MIDI devices: device control, capturing the notes a player performs, and sending music out to the devices that accept it. Ships as a separate add-on so you only include the MIDI device code when you actually need it."
+2026-09-28T19:37:35.51Z,Jev.Sdk,1.0.0,EnderNasha,C# client for the TypeSafe System One API.
+2026-09-28T19:39:08.94Z,AgentMemory.Inference,1.6.0,Jose Luis Latorre Millas,"Provider-agnostic inference configuration for AgentMemory: one environment contract that resolves Azure OpenAI, Bitdeer, OpenAI, Foundry or any OpenAI-compatible host into chat and embedding clients."
+2026-09-28T19:47:00.573Z,Microsoft.MacCatalyst.Ref.net10.0_27.0,27.0.10722,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-09-28T19:47:02.653Z,Microsoft.MacCatalyst.Ref.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-09-28T19:47:04.64Z,Microsoft.MacCatalyst.Ref.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-09-28T19:47:06.643Z,Microsoft.MacCatalyst.Ref.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-09-28T19:47:08.72Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.0,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-09-28T19:47:10.617Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-09-28T19:47:12.49Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-09-28T19:47:14.443Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-09-28T19:47:16.667Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.0,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-09-28T19:47:18.767Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-09-28T19:47:20.77Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-09-28T19:47:22.7Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-09-28T19:47:25.51Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.0,27.0.10722,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-09-28T19:47:28.667Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-09-28T19:47:31.437Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-09-28T19:47:34.2Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-09-28T19:47:36.47Z,Microsoft.MacCatalyst.Sdk.net10.0_27.0,27.0.10722,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-09-28T19:47:38.713Z,Microsoft.MacCatalyst.Sdk.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-09-28T19:47:41.13Z,Microsoft.MacCatalyst.Sdk.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-09-28T19:47:43.377Z,Microsoft.MacCatalyst.Sdk.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-09-28T19:47:55.78Z,Microsoft.iOS.Ref.net10.0_27.0,27.0.10722,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-09-28T19:47:57.893Z,Microsoft.iOS.Ref.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-09-28T19:47:59.917Z,Microsoft.iOS.Ref.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-09-28T19:48:02.12Z,Microsoft.iOS.Ref.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-09-28T19:48:03.07Z,RepoDb.AuroraDb.MySqlConnector.BulkOperations,0.0.1-alpha1,RepoDb.AuroraDb.MySqlConnector.BulkOperations,An extension library that contains the official Bulk Operations of RepoDB for Amazon Aurora MySQL (using RepoDb.Connector.AuroraDb.MySqlConnector).
+2026-09-28T19:48:04.13Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.0,27.0.10722,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-09-28T19:48:05.957Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-09-28T19:48:08.25Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-09-28T19:48:10.303Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-09-28T19:48:13.547Z,Microsoft.iOS.Runtime.ios.net10.0_27.0,27.0.10722,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-09-28T19:48:16.627Z,Microsoft.iOS.Runtime.ios.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-09-28T19:48:19.62Z,Microsoft.iOS.Runtime.ios.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-09-28T19:48:22.113Z,Microsoft.iOS.Runtime.ios.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-09-28T19:48:24.08Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.0,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-09-28T19:48:26.07Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-09-28T19:48:28.14Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-09-28T19:48:30.32Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-09-28T19:48:32.46Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.0,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-09-28T19:48:34.577Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-09-28T19:48:36.503Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-09-28T19:48:38.487Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-09-28T19:48:42.9Z,Microsoft.iOS.Sdk.net10.0_27.0,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:48:47.43Z,Microsoft.iOS.Sdk.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:48:52.957Z,Microsoft.iOS.Sdk.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:48:57.457Z,Microsoft.iOS.Sdk.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:49:07.19Z,Microsoft.iOS.Windows.Sdk.net10.0_27.0,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:49:09.37Z,Microsoft.iOS.Windows.Sdk.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:49:11.783Z,Microsoft.iOS.Windows.Sdk.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:49:14Z,Microsoft.iOS.Windows.Sdk.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-09-28T19:49:16.097Z,Microsoft.macOS.Ref.net10.0_27.0,27.0.10722,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-09-28T19:49:18.147Z,Microsoft.macOS.Ref.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-09-28T19:49:20.28Z,Microsoft.macOS.Ref.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-09-28T19:49:22.273Z,Microsoft.macOS.Ref.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-09-28T19:49:24.41Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.0,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-09-28T19:49:26.4Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-09-28T19:49:28.383Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-09-28T19:49:29.897Z,RepoDb.AuroraDb.MySqlConnector,0.0.1-alpha1,RepoDb.AuroraDb.MySqlConnector,A hybrid .NET ORM library for Amazon Aurora MySQL (using RepoDb.Connector.AuroraDb.MySqlConnector).
+2026-09-28T19:49:30.253Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-09-28T19:49:32.317Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.0,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-09-28T19:49:34.543Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-09-28T19:49:36.68Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-09-28T19:49:38.5Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-09-28T19:49:42.06Z,E2E.EmbeddedIconPng.260928.194938.5393498,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.260928.194938.5393498
+2026-09-28T19:49:42.06Z,E2E.SemVer1Stable.260928.194937.8648049,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.260928.194937.8648049
+2026-09-28T19:49:42.42Z,E2E.LicenseUrl.260928.194938.5107119,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.260928.194938.5107119
+2026-09-28T19:49:43.387Z,E2E.Deprecated.260928.194938.5464603,1.0.0,EndToEndTests,Description of E2E.Deprecated.260928.194938.5464603
+2026-09-28T19:49:43.387Z,E2E.EmbeddedIconJpeg.260928.194938.5127342,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.260928.194938.5127342
+2026-09-28T19:49:43.387Z,E2E.FullValidation.260928.194938.4312991,1.0.0,EndToEndTests,Description of E2E.FullValidation.260928.194938.4312991
+2026-09-28T19:49:43.513Z,E2E.LicenseExpression.260928.194938.5033904,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.260928.194938.5033904
+2026-09-28T19:49:43.513Z,E2E.LicenseFile.260928.194938.5089837,1.0.0,EndToEndTests,Description of E2E.LicenseFile.260928.194938.5089837
+2026-09-28T19:49:43.947Z,Microsoft.macOS.Runtime.osx.net10.0_27.0,27.0.10722,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-09-28T19:49:44.333Z,E2E.EmbeddedReadmeFile.260928.194938.5441247,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.260928.194938.5441247
+2026-09-28T19:49:46.443Z,Microsoft.macOS.Runtime.osx.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-09-28T19:49:49.677Z,Microsoft.macOS.Runtime.osx.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-09-28T19:49:52.38Z,Microsoft.macOS.Runtime.osx.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-09-28T19:49:54.817Z,Microsoft.macOS.Sdk.net10.0_27.0,27.0.10722,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-09-28T19:49:57.043Z,Microsoft.macOS.Sdk.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-09-28T19:49:59.18Z,Microsoft.macOS.Sdk.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-09-28T19:50:01.367Z,Microsoft.macOS.Sdk.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-09-28T19:50:10.23Z,E2E.SymbolsPackage.260928.194938.4849107,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.260928.194938.4849107
+2026-09-28T19:50:11.04Z,Microsoft.tvOS.Ref.net10.0_27.0,27.0.10722,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-09-28T19:50:13.163Z,Microsoft.tvOS.Ref.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-09-28T19:50:13.217Z,E2E.DotnetTool.260928.194938.5484833,1.0.0,E2E.DotnetTool,Package Description
+2026-09-28T19:50:15.26Z,Microsoft.tvOS.Ref.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-09-28T19:50:17.337Z,Microsoft.tvOS.Ref.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-09-28T19:50:19.353Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.0,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-09-28T19:50:21.453Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-09-28T19:50:23.473Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-09-28T19:50:25.557Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-09-28T19:50:27.987Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.0,27.0.10722,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-09-28T19:50:30.223Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-09-28T19:50:32.573Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-09-28T19:50:34.91Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-09-28T19:50:36.957Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.0,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-09-28T19:50:38.907Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-09-28T19:50:40.923Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-09-28T19:50:42.95Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-09-28T19:50:45.047Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.0,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-09-28T19:50:47.143Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-09-28T19:50:49.16Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-09-28T19:50:51.093Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-09-28T19:50:54.98Z,Microsoft.tvOS.Sdk.net10.0_27.0,27.0.10722,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-09-28T19:50:58.987Z,Microsoft.tvOS.Sdk.net10.0_27.0.Msi.arm64,27.0.10722,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-09-28T19:51:04.387Z,Microsoft.tvOS.Sdk.net10.0_27.0.Msi.x64,27.0.10722,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-09-28T19:51:13.69Z,Microsoft.tvOS.Sdk.net10.0_27.0.Msi.x86,27.0.10722,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-09-28T19:52:14.263Z,RepoDb.AuroraDb.PostgreSql,0.0.1-alpha1,RepoDb.AuroraDb.PostgreSql,A hybrid .NET ORM library for Amazon Aurora PostgreSQL (using RepoDb.Connector.AuroraDb.Npgsql).
+2026-09-28T19:53:46.597Z,ZenithUI,1.0.0,Enmanuel Gomez,"A render-mode-agnostic Blazor component library styled with TailwindCSS. Inputs, selects, combobox, hierarchical tables, trees, cards, navigation chrome and a responsive app shell, themed through CSS custom properties with first-class light and dark palettes."
+2026-09-28T19:54:02.93Z,RepoDb.AuroraDb.PostgreSql.BulkOperations,0.0.1-alpha1,RepoDb.AuroraDb.PostgreSql.BulkOperations,An extension library that contains the official Bulk Operations of RepoDB for Amazon Aurora PostgreSQL (using RepoDb.Connector.AuroraDb.Npgsql).
