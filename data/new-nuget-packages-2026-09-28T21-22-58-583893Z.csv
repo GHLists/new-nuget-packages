@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-09-28T20:27:09.077Z,TencentCloudSDKIntlEN.Alb,3.0.1402,Tencent Cloud API Team,Tencent Cloud API 3.0 SDK for .NET
+2026-09-28T21:02:47.307Z,Kuestenlogik.Bowire.Protocol.Akka.Remote,1.1.0,Kuestenlogik,"Remote tap for the Bowire Akka.NET plugin: a relay the host opts into, reachable through Akka.Cluster.Tools' ClusterClient, so the standalone bowire CLI can stream a running cluster's taps without being hosted in it. Read-only; off unless the host enables it. A separate package so that embedded-onl…"
+2026-09-28T21:10:52.103Z,SunamoPerformance,26.9.28.10,www.sunamo.cz,"Manual performance benchmarks for string replacing, file IO and string lookup structures"
+2026-09-28T21:16:45.203Z,Epsilon,1.0.0,Max Zakharov,"Symbolic math for .NET: parse formulas, simplify them exactly with rational arithmetic and domain-safe rules, differentiate, factor polynomials exactly and find real and complex roots. No dependencies."
