@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-09-28T11:39:37.13Z,Flamoris.Mcp.Wpf,1.2.0,FLAMORIS,Shared FLAMORIS desktop MCP connection UI.
+2026-09-28T11:46:26.667Z,Fuaran.Program.Server.UI,0.6.0,Fuaran,"Fuaran.Program.Server.UI — the UI adapter for the server placement of the domain-generic bounded program core: the pre-0.6.0 server names as aliases over the UI witness, and the UI event step (the validation gate in front of the core's dispatch) for the server session, the durable interpreter and t…"
+2026-09-28T11:46:27.587Z,Fuaran.Program.UI,0.6.0,Fuaran,"Fuaran.Program.UI — the UI adapter for the domain-generic bounded program core: the UI witness (the UI tier's action union, node tree, binding store, tree-ops and client effects seen through the core's witness contract), the pre-0.6.0 names as aliases over it, and the UI transport loop (the bounded…"
+2026-09-28T11:59:25.3Z,Aprillz.MewUI.Geometry,0.22.0,Aprillz,Geometry operations for MewUI shapes.
+2026-09-28T11:59:27.923Z,Aprillz.MewUI.Markdown,0.22.0,Aprillz,Native Markdown controls for MewUI using Markdig.
