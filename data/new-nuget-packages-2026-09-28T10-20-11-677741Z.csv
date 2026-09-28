@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-09-28T09:28:35.42Z,Shark.PDFMerge,0.1.0,Qumbar Raza,"A dependency-free, from-scratch PDF engine for .NET: read, write, and merge PDF documents and JPEG/PNG images into a single PDF."
+2026-09-28T09:29:07.92Z,ReactiveUI.Primitives.Uno,8.4.0,ReactiveUI Association Inc,Uno Platform dispatcher queue integration sequencers for ReactiveUI.Primitives.
+2026-09-28T09:29:08.937Z,ReactiveUI.Primitives.Uno.Reactive,8.4.0,ReactiveUI Association Inc,"Uno Platform dispatcher queue scheduler for ReactiveUI.Primitives, recompiled against System.Reactive's IScheduler."
+2026-09-28T09:30:24.21Z,Anis.Partners,1.0.0,Anis,"Client SDK for the Anis Partner API: RFC 9421 request signing, response verification and the public operations."
+2026-09-28T09:40:52.54Z,DressSharp.win-x64,0.1.0,Simon Oxtoby,"A syntax-only, explicitly configured C# formatter."
+2026-09-28T09:40:54.63Z,DressSharp.linux-x64,0.1.0,Simon Oxtoby,"A syntax-only, explicitly configured C# formatter."
+2026-09-28T09:40:56.62Z,DressSharp.osx-x64,0.1.0,Simon Oxtoby,"A syntax-only, explicitly configured C# formatter."
+2026-09-28T09:40:58.507Z,DressSharp.osx-arm64,0.1.0,Simon Oxtoby,"A syntax-only, explicitly configured C# formatter."
+2026-09-28T09:40:59.413Z,DressSharp,0.1.0,Simon Oxtoby,"A syntax-only, explicitly configured C# formatter."
+2026-09-28T09:42:02.64Z,WebWpfWindow,1.0.0,WebWpfWindow,Package Description
+2026-09-28T09:43:14.717Z,Sagittaras.GuardClauses,1.1.3,Sagittaras Games,Lightweight guard clause pattern for defensive programming.
+2026-09-28T09:43:41.027Z,Sagittaras.Dices,1.1.3,Sagittaras Games,Dice rolling and randomness abstractions for game logic.
+2026-09-28T09:43:49.617Z,Sagittaras.Messaging,1.1.3,Sagittaras Games,Mediator Pattern created for game development.
+2026-09-28T09:44:03.5Z,Sagittaras.Progression,1.1.4,Sagittaras Games,Level and experience progression for games.
+2026-09-28T09:44:07.86Z,Sagittaras.Timing,1.1.4,Sagittaras Games,"Lightweight timer primitives for interval tracking, cooldown management, and callback scheduling in game loops."
+2026-09-28T09:56:48.547Z,SovietManager.Engine,1.0.0,Emogital,"Host-agnostic game engine: protocol actions in, GameState mutation and domain events out."
+2026-09-28T09:59:00.707Z,SovietManager.Engine.Configuration.Json,1.0.0,Emogital,JSON factory for SovietManager.Engine configuration. Returns a ready IConfigProvider.
+2026-09-28T10:01:28.183Z,StingrayDbMasking.AspNetCore,1.2.1,StingrayDbMasking contributors,"ASP.NET Core server integration for StingrayDbMasking: the backend HTTP API (MapStingrayDbMaskingApi) used by remote/WebAssembly UIs, and an optional standalone host for the UI pages (MapStingrayDbMaskingUi)."
+2026-09-28T10:09:25.13Z,OnTheFlySettings.AzureKeyVault.Client,1.0.0,Shantanu,Client for OnTheFlySettings endpoints.
