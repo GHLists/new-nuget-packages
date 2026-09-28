@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-09-28T22:34:03.18Z,ComparableLinqAnalyzer,0.0.2,ComparableLinqAnalyzer,"Roslyn analyzer that reports MinBy, MaxBy, OrderBy, OrderByDescending, Order, OrderDescending, Min and Max calls whose comparable type does not implement IComparable or IComparable<T>."
