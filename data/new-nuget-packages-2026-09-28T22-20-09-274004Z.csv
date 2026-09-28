@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-09-28T21:26:13.177Z,Shadowfall.Sts2.ArtRoller,1.0.0,Shadowfall Team,"Shared card art recolouring for Slay the Spire 2 mods. Reference with ExcludeAssets=""runtime"": players get ArtRoller.dll from the Art Roller mod itself."
+2026-09-28T21:29:32.24Z,SunamoWf.Controls,26.9.28.1,www.sunamo.cz,WinForms controls extracted from sunamo.wf
+2026-09-28T21:29:42.617Z,LibcameraSharp,10.0.0,linckez,"Photos, video and live frames from a Raspberry Pi camera in a few lines of C#: JPEG with EXIF, PNG and DNG; H.264 and MJPEG recordings to MP4, Matroska or MPEG-TS; frames you can hand to your own code. Built on LibcameraSharp.Core."
+2026-09-28T21:29:43.24Z,LibcameraSharp.Core,10.0.0,linckez,"libcamera for .NET: cameras, configurations, requests, frame buffers and typed controls generated from libcamera's own definitions. For building your own capture pipeline; LibcameraSharp builds photos and video on top. Native AOT ready."
+2026-09-28T21:29:55.437Z,SunamoWf.Converters,26.9.28.1,www.sunamo.cz,WinForms (System.Drawing) value converters extracted from sunamo.wf
+2026-09-28T21:30:17.577Z,SunamoWf.Extensions,26.9.28.1,www.sunamo.cz,WinForms extension methods extracted from sunamoWithoutDep.wf
+2026-09-28T21:31:05.527Z,SunamoWf.Helpers,26.9.28.1,www.sunamo.cz,"WinForms helper classes extracted from sunamo.wf (pictures, search-in-listbox, path autocomplete)"
+2026-09-28T21:31:29.663Z,SunamoWf.Tray,26.9.28.1,www.sunamo.cz,WinForms system tray (NotifyIcon) helpers extracted from sunamoWithoutDep.wf
+2026-09-28T21:31:53.617Z,SunamoWpf.Cef,26.9.28.1,www.sunamo.cz,CefSharp-based WPF browser control implementing ISunamoBrowser
+2026-09-28T21:33:55.173Z,SunamoWpf.Mvvm,26.9.28.1,www.sunamo.cz,"Minimal MVVM base classes (Command, DelegateCommandMvvm, ViewModel) extracted from SunamoMvvm.wpf"
+2026-09-28T21:34:04.95Z,EGeier.Net,0.1.1,Harald Rohan,"E-Geier: .NET-Client für die öffentlichen APIs der E-Control Austria (Spritpreisrechner) inklusive Geocoding über OpenStreetMap Nominatim. Inoffiziell, nicht mit der E-Control Austria verbunden. / .NET client for the public APIs of E-Control Austria (fuel price calculator). Unofficial, not affiliat…"
+2026-09-28T21:34:25.273Z,SunamoWpf.TreeView,26.9.28.1,www.sunamo.cz,Filesystem checkbox TreeView user control for WPF
+2026-09-28T21:34:48.287Z,SunamoWpf.Web3,26.9.28.1,www.sunamo.cz,WebView2-based WPF browser control implementing ISunamoBrowser
+2026-09-28T21:34:49.307Z,EGeier.Mcp,0.1.1,Harald Rohan,"E-Geier: lokaler MCP-Server (stdio) für die öffentliche Spritpreisrechner-API der E-Control Austria – findet die günstigsten Tankstellen in Österreich. Inoffiziell, nicht mit der E-Control Austria verbunden. / Local MCP server for the public fuel price API of E-Control Austria. Unofficial, not affi…"
+2026-09-28T21:38:35.6Z,KetPsi.Endpoints.Abstractions,1.0.0,"KetPsi ,MohamadArsalan Imamverdi",Shared abstractions for KetPsi endpoint handlers
+2026-09-28T21:44:17.257Z,B4N1.Boost,0.3.5,B4N1 Team,B4N1 Boost — Polyglot native middleware accelerator for .NET / C#
