@@ -12,25 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 12:19 UTC
+## Latest list — 2026-09-29 13:21 UTC
 
-New packages created between 2026-09-29 11:21 UTC and 2026-09-29 12:19 UTC.
+New packages created between 2026-09-29 12:19 UTC and 2026-09-29 13:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T12-19-17-65401Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T13-21-49-684851Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 11:43:00 | [Simform.Data.Auditing](https://www.nuget.org/packages/Simform.Data.Auditing) | 1.0.0 | Simform Solutions | Automatic, provider-independent audit trails for EF Core 10. Captures Added, Mo… |
-| 2026-09-29 11:43:01 | [Simform.Data.Auditing.AspNetCore](https://www.nuget.org/packages/Simform.Data.Auditing.AspNetCore) | 1.0.0 | Simform Solutions | ASP.NET Core integration for Simform.Data.Auditing: resolves the current user f… |
-| 2026-09-29 11:45:00 | [Verify.Cecil](https://www.nuget.org/packages/Verify.Cecil) | 0.1.0 | https://github.com/VerifyTest… | Extends Verify (https://github.com/VerifyTests/Verify) to allow snapshot testin… |
-| 2026-09-29 11:45:00 | [Verify.Cecil.FodyHelpers](https://www.nuget.org/packages/Verify.Cecil.FodyHelpers) | 0.1.0 | https://github.com/VerifyTest… | Extends Verify (https://github.com/VerifyTests/Verify) to allow snapshot testin… |
-| 2026-09-29 11:46:29 | [getAddress.Dk.Sdk](https://www.nuget.org/packages/getAddress.Dk.Sdk) | 1.0.0 | getAddress() | .NET client for getaddress.dk, the DAWA-compatible Danish address API: autocomp… |
-| 2026-09-29 11:54:25 | [Majorsilence.Forms.Theming.Avalonia](https://www.nuget.org/packages/Majorsilence.Forms.Theming.Avalonia) | 26.4.0 | Majorsilence | Applies Majorsilence.Forms CSS themes to native Avalonia controls — one stylesh… |
-| 2026-09-29 11:54:26 | [Majorsilence.Forms.Mvvm](https://www.nuget.org/packages/Majorsilence.Forms.Mvvm) | 26.4.0 | Majorsilence | Trim- and AOT-safe MVVM wiring for Majorsilence.Forms: Observe, BindCommand and… |
-| 2026-09-29 11:55:26 | [Arc56.Generated.TriplEight.AuPM](https://www.nuget.org/packages/Arc56.Generated.TriplEight.AuPM) | 1.0.1.2026092911 | TriplEight | Generated ARC-56 Algorand smart-contract clients for TriplEight/AuPM. |
-| 2026-09-29 11:58:49 | [Umai.KeycloakService.Contract.Grpc](https://www.nuget.org/packages/Umai.KeycloakService.Contract.Grpc) | 1.0.0 | Umai.KeycloakService.Contract… | Code-first gRPC контракт umai-keycloak-service: зеркало пользователей Keycloak… |
-| 2026-09-29 11:59:35 | [Umai.KeycloakService.Contract](https://www.nuget.org/packages/Umai.KeycloakService.Contract) | 1.0.0 | Umai.KeycloakService.Contract | Сообщения RabbitMQ (MassTransit), публикуемые umai-keycloak-service при изменен… |
-| 2026-09-29 12:09:57 | [Mandarin.Selenium](https://www.nuget.org/packages/Mandarin.Selenium) | 0.1.0 | Mandarin | Selenium for Mandarin .NET services: one-line DI registration (AddMandarinSelen… |
+| 2026-09-29 12:27:28 | [Hlibz.EntityFrameworkCore.ModelRules](https://www.nuget.org/packages/Hlibz.EntityFrameworkCore.ModelRules) | 1.0.0 | Hlib Zinchenko | Declarative rules that check a finished EF Core model against your team's conve… |
+| 2026-09-29 12:27:45 | [BigPipe.Analytics](https://www.nuget.org/packages/BigPipe.Analytics) | 0.1.0 | Gravicode Studios | BigPipe realtime analytics for .NET: stream sources and sinks, tumbling/sliding… |
+| 2026-09-29 12:27:48 | [BigPipe.Analytics.Gravicode](https://www.nuget.org/packages/BigPipe.Analytics.Gravicode) | 0.1.0 | Gravicode Studios | Gravicode AI ecosystem for BigPipe realtime analytics: GravicodeScience (GraviN… |
+| 2026-09-29 12:27:50 | [BigPipe.Analytics.ML](https://www.nuget.org/packages/BigPipe.Analytics.ML) | 0.1.0 | Gravicode Studios | ML.NET for BigPipe realtime analytics: spike and change-point detection, SR-CNN… |
+| 2026-09-29 12:28:58 | [Turso.Data.Common](https://www.nuget.org/packages/Turso.Data.Common) | 0.8.1 | Turso authors | Shared managed ADO.NET types used by Turso database providers. |
+| 2026-09-29 12:29:04 | [Turso.Data.Native](https://www.nuget.org/packages/Turso.Data.Native) | 0.8.1 | Turso authors | Precompiled native runtime libraries and build support shared by Turso .NET pro… |
+| 2026-09-29 12:29:15 | [BigPipe.Analytics.Scripting](https://www.nuget.org/packages/BigPipe.Analytics.Scripting) | 0.1.0 | Gravicode Studios | Dynamic scripting for BigPipe realtime analytics: filter, project and query str… |
+| 2026-09-29 12:29:32 | [BigPipe.Analytics.Torch](https://www.nuget.org/packages/BigPipe.Analytics.Torch) | 0.1.0 | Gravicode Studios | TorchSharp deep learning for BigPipe realtime analytics: online autoencoder ano… |
+| 2026-09-29 12:29:34 | [BigPipe.Client](https://www.nuget.org/packages/BigPipe.Client) | 0.1.0 | Gravicode Studios | Package Description |
+| 2026-09-29 12:29:34 | [Turso.Data.NativeAot.linux-arm64](https://www.nuget.org/packages/Turso.Data.NativeAot.linux-arm64) | 0.8.1 | Turso authors | RID-specific static native library assets for NativeAOT publishing with Turso .… |
+| 2026-09-29 12:29:37 | [BigPipe.Streams](https://www.nuget.org/packages/BigPipe.Streams) | 0.1.0 | Gravicode Studios | BigPipe.Streams: stream processing for .NET on BigPipe (and Kafka) — filter, ma… |
+| 2026-09-29 12:29:38 | [Turso.Data.NativeAot.linux-x64](https://www.nuget.org/packages/Turso.Data.NativeAot.linux-x64) | 0.8.1 | Turso authors | RID-specific static native library assets for NativeAOT publishing with Turso .… |
+| 2026-09-29 12:29:42 | [Turso.Data.NativeAot.osx-arm64](https://www.nuget.org/packages/Turso.Data.NativeAot.osx-arm64) | 0.8.1 | Turso authors | RID-specific static native library assets for NativeAOT publishing with Turso .… |
+| 2026-09-29 12:29:46 | [Turso.Data.NativeAot.osx-x64](https://www.nuget.org/packages/Turso.Data.NativeAot.osx-x64) | 0.8.1 | Turso authors | RID-specific static native library assets for NativeAOT publishing with Turso .… |
+| 2026-09-29 12:29:49 | [Turso.Data.NativeAot.win-arm64](https://www.nuget.org/packages/Turso.Data.NativeAot.win-arm64) | 0.8.1 | Turso authors | RID-specific static native library assets for NativeAOT publishing with Turso .… |
+| 2026-09-29 12:29:52 | [Turso.Data.NativeAot.win-x64](https://www.nuget.org/packages/Turso.Data.NativeAot.win-x64) | 0.8.1 | Turso authors | RID-specific static native library assets for NativeAOT publishing with Turso .… |
+| 2026-09-29 12:29:53 | [Turso.Data.Sqlite.Provider](https://www.nuget.org/packages/Turso.Data.Sqlite.Provider) | 0.8.1 | Turso authors | SQLite-compatible ADO.NET facade for Turso, intended to ease migration from Mic… |
+| 2026-09-29 12:29:54 | [Turso.Platform.Client](https://www.nuget.org/packages/Turso.Platform.Client) | 0.8.1 | Turso authors | HTTP client for the Turso Platform API (api.turso.tech): manage databases, grou… |
+| 2026-09-29 12:29:55 | [Turso.Serverless.Client](https://www.nuget.org/packages/Turso.Serverless.Client) | 0.8.1 | Turso authors | Serverless database driver for Turso Cloud using only HttpClient — SQL over HTT… |
+| 2026-09-29 12:37:46 | [Purview.Aspire.ResourceKit](https://www.nuget.org/packages/Purview.Aspire.ResourceKit) | 1.0.0 | Purview Contributors | Composable and test-friendly Aspire resource isolation model for local, running… |
+| 2026-09-29 12:40:41 | [nanoFramework.Iot.Device.Ina236](https://www.nuget.org/packages/nanoFramework.Iot.Device.Ina236) | 1.0.1 | nanoframework | This package includes the INA236 bidirectional current and power monitor bindin… |
+| 2026-09-29 12:42:16 | [LightningReview.Interop.Client](https://www.nuget.org/packages/LightningReview.Interop.Client) | 1.0.2 | DENSO CREATE INC. | Lightning Reviewとプロセス間通信をするためののクライアントです。 |
+| 2026-09-29 12:42:50 | [NextDesign.Interop.Interfaces](https://www.nuget.org/packages/NextDesign.Interop.Interfaces) | 1.1.0.41031 | DENSO CREATE INC. | NextDesignのプロセス間通信のクライアントライブラリのインターフェース定義です |
+| 2026-09-29 12:43:12 | [NextDesign.Interop](https://www.nuget.org/packages/NextDesign.Interop) | 1.1.0.41031 | DENSO CREATE INC. | NextDesignのプロセス間通信のクライアントライブラリです |
+| 2026-09-29 12:43:28 | [TimeTrackerApiClient](https://www.nuget.org/packages/TimeTrackerApiClient) | 0.4.0.306 | DENSO CREATE INC. | TimeTracker NX Web API Client for .NET. |
+| 2026-09-29 12:50:10 | [CK.OpenCvSharp4.Extended.runtime.linux-x64](https://www.nuget.org/packages/CK.OpenCvSharp4.Extended.runtime.linux-x64) | 4.11.0.20250507 | CK | Native libOpenCvSharpExtern.so for linux-x64, built for OpenCvSharp4 4.11.0.202… |
 
 ## Data source
 
