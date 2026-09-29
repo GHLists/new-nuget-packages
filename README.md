@@ -12,28 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 02:22 UTC
+## Latest list — 2026-09-29 03:20 UTC
 
-New packages created between 2026-09-29 01:21 UTC and 2026-09-29 02:22 UTC.
+New packages created between 2026-09-29 02:22 UTC and 2026-09-29 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T02-22-42-034686Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T03-20-12-140068Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 01:25:53 | [Praveen.XrmToolbox.P7mAttachmentConverter](https://www.nuget.org/packages/Praveen.XrmToolbox.P7mAttachmentConverter) | 1.0.0.3 | Praveen Kumar Ellappa | Finds .p7m (PKCS#7/S-MIME) attachments on Dynamics 365 records and converts the… |
-| 2026-09-29 01:38:20 | [Tamp.Conformance](https://www.nuget.org/packages/Tamp.Conformance) | 0.1.0 | Scott Singleton | Agentic ADR-conformance review for Tamp builds. Compares a repo's code against… |
-| 2026-09-29 01:45:15 | [ServiceMantle.Web](https://www.nuget.org/packages/ServiceMantle.Web) | 0.2.0 | ServiceMantle.Web | ASP.NET Core hosting integration for ServiceMantle. |
-| 2026-09-29 01:45:15 | [ServiceMantle.Discovery](https://www.nuget.org/packages/ServiceMantle.Discovery) | 0.2.0 | ServiceMantle.Discovery | Optional snapshot-bound Consul client and registration contracts for ServiceMan… |
-| 2026-09-29 01:45:19 | [ServiceMantle.Logging](https://www.nuget.org/packages/ServiceMantle.Logging) | 0.2.0 | ServiceMantle.Logging | Serilog hosting, sanitizing console output, and an opt-in Grafana Loki sink for… |
-| 2026-09-29 01:45:20 | [ServiceMantle.Persistence.Relational](https://www.nuget.org/packages/ServiceMantle.Persistence.Relational) | 0.2.0 | ServiceMantle.Persistence.Rel… | EF Core models and shared installation, configuration, and encrypted Data Prote… |
-| 2026-09-29 01:49:15 | [Brows.ProcessAgent](https://www.nuget.org/packages/Brows.ProcessAgent) | 1.0.0 | Ken Yourek | Launch processes and asynchronously collect their standard output and standard… |
-| 2026-09-29 01:49:17 | [Brows.ProcessAgent.Windows](https://www.nuget.org/packages/Brows.ProcessAgent.Windows) | 1.0.0 | Ken Yourek | Launch processes and asynchronously collect their standard output and standard… |
-| 2026-09-29 01:49:36 | [OpenCIFS.Protocol](https://www.nuget.org/packages/OpenCIFS.Protocol) | 0.1.1 | OpenCIFS Contributors | Shared OpenCIFS SMB/CIFS protocol models, codecs, and wire-format foundations. |
-| 2026-09-29 01:49:38 | [OpenCIFS.Security](https://www.nuget.org/packages/OpenCIFS.Security) | 0.1.1 | OpenCIFS Contributors | Shared OpenCIFS NTLMv2, SPNEGO, signing, encryption, and key-derivation helpers. |
-| 2026-09-29 01:49:41 | [OpenCIFS.Transport](https://www.nuget.org/packages/OpenCIFS.Transport) | 0.1.1 | OpenCIFS Contributors | Shared OpenCIFS direct-TCP, NetBIOS session-service, and framing helpers. |
-| 2026-09-29 01:49:44 | [OpenCIFS.Client](https://www.nuget.org/packages/OpenCIFS.Client) | 0.1.1 | OpenCIFS Contributors | Managed OpenCIFS direct-TCP SMB 2.0.2 through bounded SMB 3.0.2 client library. |
-| 2026-09-29 01:49:46 | [OpenCIFS.Server](https://www.nuget.org/packages/OpenCIFS.Server) | 0.1.1 | OpenCIFS Contributors | Managed OpenCIFS direct-TCP SMB 2.0.2 through bounded SMB 3.0.2 server library. |
-| 2026-09-29 01:53:01 | [Flowsy.Db.Unity.Postgres](https://www.nuget.org/packages/Flowsy.Db.Unity.Postgres) | 1.0.0 | Flowsy | PostgreSQL provider integration for Flowsy.Db.Unity. |
+| 2026-09-29 02:23:59 | [CasCap.Signalizr.Client.Testing](https://www.nuget.org/packages/CasCap.Signalizr.Client.Testing) | 0.1.1 | Alex Vincent | In-memory ISignalizrClient for testing signalizr consumers without a gateway: f… |
+| 2026-09-29 02:27:32 | [Chargehand](https://www.nuget.org/packages/Chargehand) | 0.4.0 | chargehand contributors | MCP server and CLI that runs coding-agent workers on a codebase question and re… |
+| 2026-09-29 02:27:33 | [Chargehand.Contracts](https://www.nuget.org/packages/Chargehand.Contracts) | 1.2.0-alpha | chargehand contributors | JSON Schemas request/v1, task-spec/v1, result/v1, run-status/v1 and preset/v1 f… |
+| 2026-09-29 02:28:59 | [Indtec.ParallelBatch](https://www.nuget.org/packages/Indtec.ParallelBatch) | 0.1.0 | Indtec | Lightweight .NET library for parallel batch processing with bounded concurrency… |
+| 2026-09-29 02:35:23 | [Deskcheck](https://www.nuget.org/packages/Deskcheck) | 0.0.1 | Deskcheck | Deskcheck — AI-driven GUI testing for Windows desktop apps (Delphi/VCL, WinForm… |
+| 2026-09-29 03:03:57 | [LibTiffCore](https://www.nuget.org/packages/LibTiffCore) | 2.0.1 | MarsPanda | 高性能 BigTIFF/SVS 数字病理全片图像（Whole Slide Image）读取库（.NET Standard 2.0，跨平台）。 High-per… |
+| 2026-09-29 03:04:14 | [LibCspCore](https://www.nuget.org/packages/LibCspCore) | 1.3.1 | MarsPanda | CSP 数字病理全片图像（Whole Slide Image）跨平台快速读取库（.NET Standard 2.0）。 遵循中华医学会病理学分会《CSP 数字… |
+| 2026-09-29 03:05:25 | [Syncfusion.DocumentChunking.WinForms](https://www.nuget.org/packages/Syncfusion.DocumentChunking.WinForms) | 35.1.37 | Syncfusion Inc. | The Syncfusion® DocumentChunking library is a .NET Standard library that helps… |
 
 ## Data source
 
