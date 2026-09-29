@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-09-29T10:19:46.45Z,ZhileTime.Hope.Gdpr.Web,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Web.
+2026-09-29T10:21:05.82Z,ZhileTime.Hope.RulesEngine.Web,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Web.
+2026-09-29T10:21:45.443Z,ZhileTime.Hope.TextTemplateManagement.Web,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.TextTemplateManagement.Web.
+2026-09-29T10:21:58.833Z,ZhileTime.Hope.VersionManagement.Web,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.VersionManagement.Web.
+2026-09-29T10:23:48.023Z,VfpReader,0.1.0,axiom-nz,"Read-only, streaming reader for Visual FoxPro, FoxPro 2.x and dBASE III .dbf tables and their .fpt / .dbt memo files."
+2026-09-29T10:25:24.6Z,Tachain.Sdk,0.1.0,Tactic Chain contributors,Tactic Chain public integration API client
+2026-09-29T10:30:58.133Z,Raseen.Permissions,1.0.0,Raseen,"Permission and role definitions for Raseen, including restaurant permission encoding and validation."
+2026-09-29T10:31:30.63Z,Bazdidfani.ApiClient,1.3.0,Bazdidfani,کلاینت دات‌نت برای وب‌سرویس بازدید فنی و خوداظهاری بازدیدفنی. کد سازمان در هر فراخوانی ارسال می‌شود.
+2026-09-29T10:38:08.08Z,Hardened.Requests.Jwt,0.42.0-rc1000,Ian Johnson,"A JWT bearer principal source for Hardened applications: validates a token's signature, issuer, audience and lifetime against keys read from a JWKS, and maps its scopes to grants."
+2026-09-29T10:38:12.03Z,Hardened.Requests.Jwt.Testing,0.42.0-rc1000,Ian Johnson,"A test issuer for Hardened.Requests.Jwt: signs tokens with a key generated for the test run, which the application under test trusts in place of its JWKS."
+2026-09-29T10:45:17.15Z,Purview.BuildSdk,1.0.0,Purview.BuildSdk,"A reusable MSBuild SDK that provides standardised .NET project defaults, code style enforcement, configurable testing framework wiring (TUnit, Xunit, or None), mocking provider wiring (TUnitMocks, NSubstitute, or None), and Central Package Management integration. Drop in via Directory.Build.props t…"
+2026-09-29T11:02:31.28Z,TianWeiToolsPro.UI.Drawing,3.2.0,LaiTianWei,Package Description
+2026-09-29T11:12:44.27Z,TianWeiToolsPro.UI,3.2.0,LaiTianWei,Package Description
