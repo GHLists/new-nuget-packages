@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-09-29T13:32:42.187Z,WrapperPtr,1.0.0,APWMNGP,WrapperPtr is a lightweight C++ pointer wrapper. This library is not a joke library. It provides a simple wrapper around a raw pointer.
+2026-09-29T13:33:07.677Z,nanoFramework.Iot.Device.Vl53L1X,1.2.1,nanoframework,This package includes the .NET IoT Core binding Iot.Device.Vl53L1X for .NET nanoFramework C# projects.
+2026-09-29T13:46:00.987Z,DecisionKit.Testing,0.1.0,Jonatha Panni,"Deterministic test doubles for DecisionKit: fake providers, canned results, request capture and error injection. No HTTP, no real provider calls."
+2026-09-29T13:46:01.743Z,DecisionKit.Extensions,0.1.0,Jonatha Panni,"Dependency injection, configuration binding, HttpClientFactory and logging integration for DecisionKit and the JEV provider."
+2026-09-29T13:46:02.557Z,DecisionKit.Jev,0.1.0,Jonatha Panni,"TypeSafe JEV provider for DecisionKit: protocol mapping, HTTP transport, authentication, error mapping, retry and idempotency."
+2026-09-29T13:46:03.343Z,DecisionKit.Core,0.1.0,Jonatha Panni,"Provider-independent, strongly typed decision domain model for .NET: questions, answers, results, and the decision provider abstraction. Contains no provider, HTTP or protocol code."
+2026-09-29T13:51:22.32Z,Arbeidstilsynet.Kommunikasjon.Client,0.1.0-alpha2,Digital Samhandling,"Generated Kommunikasjon API client with an adapter, environment-based configuration and a stub for local testing."
+2026-09-29T13:58:01.92Z,Dekaf.Aspire.Hosting,1.23.0,Dekaf Contributors,"Aspire hosting integration for Apache Kafka and Confluent Schema Registry, with share groups enabled and Dekaf-based health checks. The AppHost does not depend on librdkafka."
+2026-09-29T13:58:02.87Z,Dekaf.Aspire.SchemaRegistry,1.23.0,Dekaf Contributors,Aspire client integration for Dekaf Schema Registry: registers ISchemaRegistryClient with configuration and a health check.
+2026-09-29T13:58:03.847Z,Dekaf.Aspire,1.23.0,Dekaf Contributors,"Aspire client integration for Dekaf: registers producers, consumers, share consumers, admin clients and shared root clients with configuration, health checks, logging and OpenTelemetry."
+2026-09-29T13:58:54.18Z,cl2j.FileStorage.Provider.S3,5.4.0,CL2J Technologies,"S3-compatible object storage provider for cl2j.FileStorage. Works with Amazon S3, Cloudflare R2, MinIO and other implementations of the S3 API."
+2026-09-29T14:01:19.11Z,Solace.SchemaRegistry.Serdes.Avro,1.2.0,Solace Corperation,Solace Avro Schema Registry SERDES for .NET. This includes the following: - Avro SERDES clases for AvroSerializer and AvroDeserializer - Record Strategy for artifact reference resolution - Avro SERDES configuration
+2026-09-29T14:04:18.69Z,nanoFramework.Iot.Device.Lis3Dh,1.0.1,nanoframework,"Binding for the ST LIS3DH ultra-low-power, high-performance three-axis accelerometer."
