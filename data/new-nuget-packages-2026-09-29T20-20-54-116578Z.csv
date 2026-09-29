@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-09-29T19:25:10.63Z,Causalia.AzureServiceBus,2.3.0,Causalia contributors,Deterministic Azure Service Bus delivery and settlement semantics for Causalia.
+2026-09-29T19:45:10.68Z,Akay.To.Azure.Identity,1.0.1,A.Caballero,Shared Azure credential selection for Akay.To integrations
+2026-09-29T19:53:44.063Z,Appouse.Safetalk.Redis,1.1.0,Appouse,"Distributed replay protection for Appouse.Safetalk: an IHmacReplayCache backed by Redis-compatible servers (Redis, KeyDB) through StackExchange.Redis, so that a captured request cannot be replayed against any instance of a scaled-out API."
+2026-09-29T19:59:22.613Z,CORE.IBGE,4.95.0,CORE.IBGE,Package Description
+2026-09-29T20:07:21.433Z,SaveState.DependencyInjection,0.1.0,SaveState contributors,Microsoft.Extensions.DependencyInjection integration for SaveState.
+2026-09-29T20:07:24.76Z,SaveState.Generator,0.1.0,SaveState contributors,"Project-agnostic state + save/load framework: incremental source generator for strongly typed save files, with lenient loading (missing sections are repaired, never null) and explicit write points."
+2026-09-29T20:07:27.757Z,SaveState.Godot,0.1.0,SaveState contributors,"Godot 4 adapter for SaveState: user:// save store, Godot output logger, and a runtime-process gate for auto-saving."
+2026-09-29T20:07:30.737Z,SaveState.Policy,0.1.0,SaveState contributors,"Project-agnostic state + save/load framework: incremental source generator for strongly typed save files, with lenient loading (missing sections are repaired, never null) and explicit write points."
+2026-09-29T20:07:33.86Z,SaveState.Runtime,0.1.0,SaveState contributors,"Project-agnostic state + save/load framework: incremental source generator for strongly typed save files, with lenient loading (missing sections are repaired, never null) and explicit write points."
+2026-09-29T20:07:36.77Z,SaveState.Shared,0.1.0,SaveState contributors,"Project-agnostic state + save/load framework: incremental source generator for strongly typed save files, with lenient loading (missing sections are repaired, never null) and explicit write points."
+2026-09-29T20:07:42.15Z,CService.Library.MultiThreadManager,1.0.0,Carlos Eduardo Sponchiado,"Process items concurrently in .NET with a bounded queue, dynamic concurrency, optional rate limiting, retries, cooperative timeouts, deduplication, cancellation, and live statistics."
+2026-09-29T20:14:17.723Z,AvroSharp.Tool,0.2.0,zcsizmadia,"The avrosharp command-line tool: C# types and serializers from Apache Avro™ schema files (.avsc), and schema canonical forms and fingerprints."
