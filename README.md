@@ -12,26 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 20:20 UTC
+## Latest list — 2026-09-29 21:21 UTC
 
-New packages created between 2026-09-29 19:20 UTC and 2026-09-29 20:20 UTC.
+New packages created between 2026-09-29 20:20 UTC and 2026-09-29 21:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T20-20-54-116578Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T21-21-26-46842Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 19:25:10 | [Causalia.AzureServiceBus](https://www.nuget.org/packages/Causalia.AzureServiceBus) | 2.3.0 | Causalia contributors | Deterministic Azure Service Bus delivery and settlement semantics for Causalia. |
-| 2026-09-29 19:45:10 | [Akay.To.Azure.Identity](https://www.nuget.org/packages/Akay.To.Azure.Identity) | 1.0.1 | A.Caballero | Shared Azure credential selection for Akay.To integrations |
-| 2026-09-29 19:53:44 | [Appouse.Safetalk.Redis](https://www.nuget.org/packages/Appouse.Safetalk.Redis) | 1.1.0 | Appouse | Distributed replay protection for Appouse.Safetalk: an IHmacReplayCache backed… |
-| 2026-09-29 19:59:22 | [CORE.IBGE](https://www.nuget.org/packages/CORE.IBGE) | 4.95.0 | CORE.IBGE | Package Description |
-| 2026-09-29 20:07:21 | [SaveState.DependencyInjection](https://www.nuget.org/packages/SaveState.DependencyInjection) | 0.1.0 | SaveState contributors | Microsoft.Extensions.DependencyInjection integration for SaveState. |
-| 2026-09-29 20:07:24 | [SaveState.Generator](https://www.nuget.org/packages/SaveState.Generator) | 0.1.0 | SaveState contributors | Project-agnostic state + save/load framework: incremental source generator for… |
-| 2026-09-29 20:07:27 | [SaveState.Godot](https://www.nuget.org/packages/SaveState.Godot) | 0.1.0 | SaveState contributors | Godot 4 adapter for SaveState: user:// save store, Godot output logger, and a r… |
-| 2026-09-29 20:07:30 | [SaveState.Policy](https://www.nuget.org/packages/SaveState.Policy) | 0.1.0 | SaveState contributors | Project-agnostic state + save/load framework: incremental source generator for… |
-| 2026-09-29 20:07:33 | [SaveState.Runtime](https://www.nuget.org/packages/SaveState.Runtime) | 0.1.0 | SaveState contributors | Project-agnostic state + save/load framework: incremental source generator for… |
-| 2026-09-29 20:07:36 | [SaveState.Shared](https://www.nuget.org/packages/SaveState.Shared) | 0.1.0 | SaveState contributors | Project-agnostic state + save/load framework: incremental source generator for… |
-| 2026-09-29 20:07:42 | [CService.Library.MultiThreadManager](https://www.nuget.org/packages/CService.Library.MultiThreadManager) | 1.0.0 | Carlos Eduardo Sponchiado | Process items concurrently in .NET with a bounded queue, dynamic concurrency, o… |
-| 2026-09-29 20:14:17 | [AvroSharp.Tool](https://www.nuget.org/packages/AvroSharp.Tool) | 0.2.0 | zcsizmadia | The avrosharp command-line tool: C# types and serializers from Apache Avro™ sch… |
+| 2026-09-29 20:31:57 | [UnitTestEx.Aspire](https://www.nuget.org/packages/UnitTestEx.Aspire) | 5.12.0 | Avanade | UnitTestEx .NET Aspire distributed-application (multi-host) Test Extensions. |
+| 2026-09-29 20:37:12 | [Preagonal.Scripting.Corpus](https://www.nuget.org/packages/Preagonal.Scripting.Corpus) | 1.4.91 | Preagonal | Shared GS2 language corpus fixtures (source plus captured C# and official toolc… |
+| 2026-09-29 20:38:20 | [Kuestenlogik.Bowire.SchemaDesigner](https://www.nuget.org/packages/Kuestenlogik.Bowire.SchemaDesigner) | 2.8.0 | Kuestenlogik | Bowire Schema Designer rail — a graph view of a discovered schema's type relati… |
+| 2026-09-29 20:38:23 | [Kuestenlogik.Bowire.Scaffold](https://www.nuget.org/packages/Kuestenlogik.Bowire.Scaffold) | 2.8.0 | Kuestenlogik | Bowire service scaffolding — turns an entity spec into a schema (OpenAPI 3 or p… |
+| 2026-09-29 21:03:51 | [Budoom.MessagingQueues.Abstractions](https://www.nuget.org/packages/Budoom.MessagingQueues.Abstractions) | 0.1.0-beta | bayazidahmed | Broker-neutral messaging contracts: IMessagePublisher, IMessageConsumer and Rec… |
+| 2026-09-29 21:03:52 | [Budoom.MessagingQueues.RabbitMq](https://www.nuget.org/packages/Budoom.MessagingQueues.RabbitMq) | 0.1.0-beta | bayazidahmed | RabbitMQ implementation of Budoom.MessagingQueues on the official RabbitMQ.Clie… |
 
 ## Data source
 
