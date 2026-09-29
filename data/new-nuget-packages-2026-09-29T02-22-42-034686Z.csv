@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-09-29T01:25:53.987Z,Praveen.XrmToolbox.P7mAttachmentConverter,1.0.0.3,Praveen Kumar Ellappa,Finds .p7m (PKCS#7/S-MIME) attachments on Dynamics 365 records and converts them back to their original readable file.
+2026-09-29T01:38:20.06Z,Tamp.Conformance,0.1.0,Scott Singleton,"Agentic ADR-conformance review for Tamp builds. Compares a repo's code against its Architecture Decision Records and emits conformance verdicts on the canonical BuildEvent stream (conformance.evaluated, ADR 0023) for downstream attestation in tamp-findings. Three capabilities: rule generation (ADR…"
+2026-09-29T01:45:15.12Z,ServiceMantle.Web,0.2.0,ServiceMantle.Web,ASP.NET Core hosting integration for ServiceMantle.
+2026-09-29T01:45:15.817Z,ServiceMantle.Discovery,0.2.0,ServiceMantle.Discovery,Optional snapshot-bound Consul client and registration contracts for ServiceMantle.
+2026-09-29T01:45:19.4Z,ServiceMantle.Logging,0.2.0,ServiceMantle.Logging,"Serilog hosting, sanitizing console output, and an opt-in Grafana Loki sink for ServiceMantle."
+2026-09-29T01:45:20.253Z,ServiceMantle.Persistence.Relational,0.2.0,ServiceMantle.Persistence.Relational,"EF Core models and shared installation, configuration, and encrypted Data Protection persistence for ServiceMantle."
+2026-09-29T01:49:15.953Z,Brows.ProcessAgent,1.0.0,Ken Yourek,Launch processes and asynchronously collect their standard output and standard error as lines.
+2026-09-29T01:49:17.57Z,Brows.ProcessAgent.Windows,1.0.0,Ken Yourek,Launch processes and asynchronously collect their standard output and standard error as lines.
+2026-09-29T01:49:36.287Z,OpenCIFS.Protocol,0.1.1,OpenCIFS Contributors,"Shared OpenCIFS SMB/CIFS protocol models, codecs, and wire-format foundations."
+2026-09-29T01:49:38.583Z,OpenCIFS.Security,0.1.1,OpenCIFS Contributors,"Shared OpenCIFS NTLMv2, SPNEGO, signing, encryption, and key-derivation helpers."
+2026-09-29T01:49:41.3Z,OpenCIFS.Transport,0.1.1,OpenCIFS Contributors,"Shared OpenCIFS direct-TCP, NetBIOS session-service, and framing helpers."
+2026-09-29T01:49:44.04Z,OpenCIFS.Client,0.1.1,OpenCIFS Contributors,Managed OpenCIFS direct-TCP SMB 2.0.2 through bounded SMB 3.0.2 client library.
+2026-09-29T01:49:46.62Z,OpenCIFS.Server,0.1.1,OpenCIFS Contributors,Managed OpenCIFS direct-TCP SMB 2.0.2 through bounded SMB 3.0.2 server library.
+2026-09-29T01:53:01Z,Flowsy.Db.Unity.Postgres,1.0.0,Flowsy,PostgreSQL provider integration for Flowsy.Db.Unity.
