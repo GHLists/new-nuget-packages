@@ -12,26 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 00:20 UTC
+## Latest list — 2026-09-29 01:21 UTC
 
-New packages created between 2026-09-28 23:19 UTC and 2026-09-29 00:20 UTC.
+New packages created between 2026-09-29 00:20 UTC and 2026-09-29 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T00-20-27-766314Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T01-21-04-702327Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-28 23:20:21 | [SimpleSharpBLE](https://www.nuget.org/packages/SimpleSharpBLE) | 1.2.0 | The California Open Source Co… | .NET bindings for SimpleBLE. |
-| 2026-09-28 23:41:37 | [Vestigium.Helpers.PerfMon](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon) | 0.1.1 | Vestigium | Shared performance sample contract, job runner, and counter source. |
-| 2026-09-28 23:42:07 | [Vestigium.Helpers.PerfMon.Cpu](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon.Cpu) | 0.1.1 | Vestigium | Processor PDH samples. |
-| 2026-09-28 23:42:28 | [Vestigium.Helpers.PerfMon.Disk](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon.Disk) | 0.1.1 | Vestigium | Physical and logical disk PDH samples. |
-| 2026-09-28 23:42:56 | [Vestigium.Helpers.PerfMon.Gpu](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon.Gpu) | 0.1.1 | Vestigium | GPU engine and adapter memory the OS exposes. |
-| 2026-09-28 23:43:16 | [Vestigium.Helpers.PerfMon.Memory](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon.Memory) | 0.1.1 | Vestigium | Commit, available, and machine memory samples. |
-| 2026-09-28 23:43:37 | [Vestigium.Helpers.PerfMon.Network](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon.Network) | 0.1.1 | Vestigium | Adapter PDH rates and errors. |
-| 2026-09-28 23:44:27 | [Vestigium.Helpers.PerfMon.PageFile](https://www.nuget.org/packages/Vestigium.Helpers.PerfMon.PageFile) | 0.1.1 | Vestigium | Pagefile usage and paging samples. |
-| 2026-09-28 23:47:37 | [Temporalio.Extensions.Gcp.CloudRun.Id](https://www.nuget.org/packages/Temporalio.Extensions.Gcp.CloudRun.Id) | 1.20.0 | Temporal | Temporal SDK .NET Google Cloud Run Identity Extension |
-| 2026-09-28 23:48:11 | [Temporalio.Extensions.WorkflowStreams](https://www.nuget.org/packages/Temporalio.Extensions.WorkflowStreams) | 1.20.0 | Temporal | Experimental Workflow Streams extension for the Temporal .NET SDK |
-| 2026-09-28 23:52:45 | [Mediarion.Streaming](https://www.nuget.org/packages/Mediarion.Streaming) | 0.4.0 | Mediarion contributors | Streaming requests for Mediarion: one request, many responses, arriving as they… |
-| 2026-09-29 00:06:31 | [Microsoft.Azure.Iot.Device](https://www.nuget.org/packages/Microsoft.Azure.Iot.Device) | 2.0.0-preview | Microsoft | Device client SDK for connecting devices to Azure IoT hub and the Azure Device… |
+| 2026-09-29 00:30:19 | [Aore.WinKit](https://www.nuget.org/packages/Aore.WinKit) | 1.0.0 | WEI.ZHOU (Willis) | Windows 快速开发工具箱：注册表、事件日志、Windows 用户与组、进程/cmd/bat/PowerShell 执行、环境变量、Windows 服务、… |
+| 2026-09-29 00:31:45 | [SendDart](https://www.nuget.org/packages/SendDart) | 1.0.0 | SendDart | Official SendDart .NET SDK — send transactional and marketing email from your o… |
+| 2026-09-29 00:38:33 | [Singulink.Globalization.Currency.DataProviders](https://www.nuget.org/packages/Singulink.Globalization.Currency.DataProviders) | 1.0.0 | Singulink | Data provider abstraction for Singulink.Globalization.Currency. Currency data p… |
+| 2026-09-29 00:38:34 | [Singulink.Globalization.Currency](https://www.nuget.org/packages/Singulink.Globalization.Currency) | 1.0.0 | Singulink | High-performance and flexible currency support for .NET, done right 🎉 |
+| 2026-09-29 00:38:35 | [Singulink.Globalization.Currency.Cldr](https://www.nuget.org/packages/Singulink.Globalization.Currency.Cldr) | 48.0.0 | Singulink | Unicode CLDR 48.0.0 currency data for Singulink.Globalization.Currency: every c… |
 
 ## Data source
 
