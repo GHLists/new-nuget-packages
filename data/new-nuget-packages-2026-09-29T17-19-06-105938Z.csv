@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-09-29T16:26:40.98Z,NuvyntraLabs.NET.TimeKit,0.1.1,Niladri Prasad Padhy,"Business-day arithmetic, month and quarter bounds, Unix time, and IANA time zones."
+2026-09-29T16:27:10.007Z,NuvyntraLabs.NET.Identifiers,0.1.1,Niladri Prasad Padhy,"Validate PAN format, GSTIN checksum, Aadhaar Verhoeff checksum, and IBAN."
+2026-09-29T16:27:23.25Z,NuvyntraLabs.NET.Result,0.1.1,Niladri Prasad Padhy,Return a success value or a typed error without throwing.
+2026-09-29T16:27:55.2Z,NuvyntraLabs.NET.ObjectKit,0.1.1,Niladri Prasad Padhy,Source-generated structural copy and equality for a marked class.
+2026-09-29T16:30:56.643Z,CrestronHomeDriver.RainPoint.Irrigation,1.0.0,Neil Colvin,"Crestron Home irrigation extension for RainPoint Home three-zone timers, with timed watering, live feedback and Home programming."
+2026-09-29T16:34:54.573Z,SharpNinja.AssetReview.Tool,0.1.0,SharpNinja,Reusable local asset and wireframe approval review tool for PNG and SVG folders.
+2026-09-29T16:53:27.673Z,LayaOnnx,1.0.0,dot182,Run Laya with ONNX runtime.
+2026-09-29T16:54:38.307Z,PostSharp.Backstage,2027.0.1-preview,PostSharp Technologies,"The PostSharp customization of Backstage: the product profile, the web links, the license catalog and the telemetry key. This package should only be installed as a dependency."
+2026-09-29T16:54:42.507Z,PostSharp.Backstage.Tools,2027.0.1-preview,PostSharp Technologies,"The Backstage tools of PostSharp, the worker and the Windows notifier, as zipped executables that PostSharp extracts on the machine of the user. This package should only be installed as a dependency."
+2026-09-29T16:54:45.06Z,SharpCrafters.Backstage,2027.0.1-preview,PostSharp Technologies,"The product-independent services of Backstage, the infrastructure of the Metalama and PostSharp products: dependency injection, diagnostics, configuration, telemetry, licensing and user interface. This package should only be installed as a dependency."
+2026-09-29T16:54:47.183Z,SharpCrafters.Backstage.Abstractions,2027.0.1-preview,PostSharp Technologies,Package Description
+2026-09-29T16:54:48.98Z,SharpCrafters.Backstage.Commands,2027.0.1-preview,PostSharp Technologies,"The command line commands of Backstage (configuration, licensing, telemetry and user interface), hosted by the command line tools of the Metalama and PostSharp products. This package should only be installed as a dependency."
+2026-09-29T16:54:50.95Z,SharpCrafters.Backstage.FileLocks,2027.0.1-preview,PostSharp Technologies,Package Description
+2026-09-29T16:54:53.117Z,SharpCrafters.Backstage.ProcessClassification,2027.0.1-preview,PostSharp Technologies,Package Description
+2026-09-29T16:54:55.217Z,SharpCrafters.Backstage.Threading,2027.0.1-preview,PostSharp Technologies,Package Description
+2026-09-29T16:54:57.087Z,SharpCrafters.Common,2027.0.1-preview,PostSharp Technologies,"A small library without dependency, shared by the production assemblies of the Metalama and PostSharp products. It defines the hooks that production code exposes for deterministic testing. This package should only be installed as a dependency."
+2026-09-29T16:54:59.83Z,SharpCrafters.Common.Abstractions,2027.0.1-preview,PostSharp Technologies,Package Description
+2026-09-29T16:58:30.277Z,SteadyGo.Umbraco.AI.Toolkit,1.0.2,SteadyGo,"AI-powered search, chat, enquiry capture and external content indexing for Umbraco 17. Includes configurable indexing, grounded answers, enquiry routing and webhook-friendly external data ingestion."
+2026-09-29T16:58:50.653Z,SteadyGo.Umbraco.AI.Toolkit.Engine,1.0.2,SteadyGo,"Reusable AI indexing, search, chat and enquiry engine for Umbraco AI Toolkit."
+2026-09-29T17:05:28.137Z,metalTools,26.9.29.13,Daniel T. Houck,"Convenience package for LoggerLite, PortDiscovery and StateMachine."
+2026-09-29T17:05:29.54Z,metalTools.LoggerLite,26.9.29.13,Daniel T. Houck,Buffered JSONL logging with an in-memory activity feed for .NET 10.
+2026-09-29T17:05:30.913Z,metalTools.PortDiscovery,26.9.29.13,Daniel T. Houck,Preferred-first TCP port candidates within a validated range for .NET 10.
+2026-09-29T17:05:32.317Z,metalTools.StateMachine,26.9.29.13,Daniel T. Houck,"Class-based state machines with enter, update, exit and validated transitions for .NET 10."
