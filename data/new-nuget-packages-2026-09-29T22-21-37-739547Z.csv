@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-09-29T21:26:40.54Z,Vorticity,0.1.0,Evariops,"Pure .NET implementation of the Vortex columnar file format, with no third-party dependency."
+2026-09-29T21:26:41.323Z,Vorticity.RowEncoding,0.1.0,Evariops,Byte-sortable row encoding for Vortex arrays: columns to row keys whose memcmp order is tuple order. Upstream marks the format experimental and may change its byte layout between releases.
+2026-09-29T21:26:42.01Z,Vorticity.Generators,0.1.0,Evariops,The [VortexRecord] source generator and the analyzers of Vorticity. Build-time only.
+2026-09-29T21:26:42.59Z,Vorticity.Dataset,0.1.0,Evariops,"A versioned dataset over an object store: immutable data and commit objects, a prolly tree of leaves, and the store seam an S3 library implements. The format is experimental and this repository is the first to write it."
+2026-09-29T21:32:24.56Z,TekStackDataModel,1.0.0,TekStackDataModel,TekStack data model for use in customer customizations
+2026-09-29T21:36:54.583Z,mxwlf.net.library.example,0.1.18-alpha,mxwlf,"Example library shipped by dotnet-template, a baseline .NET repository template."
+2026-09-29T21:37:41.197Z,NoP77svk.AspNetCore.BrowserAutoLaunch,2026.9.8,Peter Hraško,Package Description
+2026-09-29T21:41:50.41Z,Dm.S3.Client,0.1.0,Dema,"A tiny library for working with services that support the S3 API. It focuses on minimal size and basic functionality. [RU] Маленькая библиотека для работы с сервисами, поддерживающими S3 API. Она ориентирована на минимальный размер и базовую функциональность."
+2026-09-29T21:51:43.193Z,Clutch.Sdk,0.2.0,Joel Christner,"SDK for Clutch, a distributed lock platform. Includes a REST administration and observability client and a WebSocket lock client with automatic heartbeat management."
+2026-09-29T21:57:31.27Z,ktsu.TUI,2.0.0,ktsu.dev contributors,"A modern, extensible Text User Interface (TUI) library for .NET that provides rich terminal UI components built on Spectre.Console. Create interactive console applications with styled text, borders, layouts, and keyboard input handling using clean, object-oriented APIs. Features modular architectur…"
+2026-09-29T21:59:45.627Z,OO.Imaging,2.11.8,LogiCode Team,"Image processing for the EasyDataCore file storages (resize, orientation, JPEG variants) without ASP.NET dependencies"
+2026-09-29T22:01:10.99Z,Topoi.Quantum.Drawing,0.1.0,Topoi,Unicode and text circuit drawing support for Topoi Quantum.
+2026-09-29T22:01:11.813Z,Topoi.Quantum.Tool,0.1.0,Topoi,"Command-line tool for Topoi Quantum, providing local state-vector simulation, OpenQASM execution, sampling, expectation values and circuit inspection."
+2026-09-29T22:01:12.767Z,Topoi.Quantum.Cli,0.1.0,Topoi,"Command parsing, interactive execution and console support used by the Topoi Quantum command-line tool."
+2026-09-29T22:01:13.6Z,Topoi.Quantum,0.1.0,Topoi,"A professional .NET quantum toolkit for circuit building, dense state-vector simulation, sampling, estimation, and quantum-computing education."
+2026-09-29T22:01:14.5Z,Topoi.Quantum.OpenQasm,0.1.0,Topoi,"OpenQASM parsing, importing, exporting and execution support for Topoi Quantum."
+2026-09-29T22:01:15.327Z,Topoi.Quantum.Parsing,0.1.0,Topoi,"Native circuit, command and observable parsing support for Topoi Quantum."
+2026-09-29T22:03:19.967Z,NetPrints.Cli,0.1.0,"Daniel Meza, Robin Kahlow",The netprints command-line tool: builds and runs NetPrints projects. Installs as `netprints`. NetPrints continues the original NetPrints by Robin Kahlow (https://github.com/RobinKa/netprints).
+2026-09-29T22:03:20.65Z,NetPrints.Reflection,0.1.0,"Daniel Meza, Robin Kahlow","Type and member discovery for NetPrints graphs, built on Roslyn. NetPrints continues the original NetPrints by Robin Kahlow (https://github.com/RobinKa/netprints)."
+2026-09-29T22:03:21.387Z,NetPrints.Core,0.1.0,"Daniel Meza, Robin Kahlow","The NetPrints graph model and C# translator: classes, methods and node graphs that NetPrints turns into readable C#. NetPrints continues the original NetPrints by Robin Kahlow (https://github.com/RobinKa/netprints)."
+2026-09-29T22:03:22.453Z,NetPrints.Sdk,0.1.0,"Daniel Meza, Robin Kahlow",Build-time code generation for NetPrints projects: add this package to an SDK-style .csproj and every *.netpc.json graph is translated into a committed *.netpc.g.cs file before compilation. NetPrints continues the original NetPrints by Robin Kahlow (https://github.com/RobinKa/netprints).
+2026-09-29T22:12:53.817Z,Siakun.AutoUpdate,0.1.0,Siakun,GitHub Releases와 Velopack을 사용하는 데스크톱 앱의 업데이트 및 버전 전환 라이브러리입니다.
