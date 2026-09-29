@@ -1,0 +1,31 @@
+created_at,package,version,authors,description
+2026-09-29T09:20:56.93Z,ZhileTime.Hope.ChatAI.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.Domain.
+2026-09-29T09:21:10.4Z,ZhileTime.Hope.ChatAI.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.HttpApi.Client.
+2026-09-29T09:21:23.797Z,ZhileTime.Hope.ChatAI.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.HttpApi.
+2026-09-29T09:22:29.9Z,ZhileTime.Hope.ConsentManagement.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Application.
+2026-09-29T09:22:43.563Z,ZhileTime.Hope.ConsentManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.EntityFrameworkCore.
+2026-09-29T09:22:57.367Z,ZhileTime.Hope.ContractManagement.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ContractManagement.Application.
+2026-09-29T09:23:10.727Z,ZhileTime.Hope.ContractManagement.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ContractManagement.HttpApi.
+2026-09-29T09:23:24.88Z,ZhileTime.Hope.ContractManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ContractManagement.EntityFrameworkCore.
+2026-09-29T09:24:57.113Z,ZhileTime.Hope.Gdpr.Blazor.WebAssembly,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Blazor.WebAssembly.
+2026-09-29T09:25:23.623Z,ZhileTime.Hope.Identity.SignalR,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Identity.SignalR.
+2026-09-29T09:30:15.283Z,ZhileTime.Hope.RulesEngine.Blazor.WebAssembly,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Blazor.WebAssembly.
+2026-09-29T09:30:43.303Z,WorkflowTest.Driver,1.0.0,ADBC Drivers Contributors,C# Snowflake driver for Apache Arrow ADBC
+2026-09-29T09:31:47.55Z,ZhileTime.Hope.SubscriptionManagement.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.SubscriptionManagement.Domain.
+2026-09-29T09:33:21.08Z,ZhileTime.Hope.WorkflowManagement.AI,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.WorkflowManagement.AI.
+2026-09-29T09:35:07.357Z,CloudL.EntityFrameworkCore.Dm,0.6.1,ByCyanCloud,CloudL DDD 框架的达梦（DM）数据库提供程序：为 DbContextOptionsBuilder 提供 UseCloudLDm。⚠️ 依赖的是达梦官方 EF Core 9 版提供程序（DM.Microsoft.EntityFrameworkCore 9.0.0.x），而框架本体使用 EF Core 10；该组合尚未在真实达梦实例上验证，请先在测试库确认再上生产。官方发布 EF Core 10 版后应立即升级本包依赖。
+2026-09-29T09:35:07.747Z,ZhileTime.Hope.ChatAI.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.Application.
+2026-09-29T09:35:10.067Z,CloudL.SqlSugar,0.6.1,ByCyanCloud,CloudL DDD 框架的 SqlSugar 持久化层（与数据库无关）：仓储实现、工作单元与审计字段填充，可用 SqlSugar 支持的各类数据库（含达梦等国产数据库）。它与 CloudL.EntityFrameworkCore 是**并列的二选一**：同一个项目只允许启用一套 ORM（同时注册会在启动时直接失败），规则见 CONTRACT.md。
+2026-09-29T09:35:21.843Z,ZhileTime.Hope.ChatAI.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.EntityFrameworkCore.
+2026-09-29T09:35:35.24Z,ZhileTime.Hope.ChatAI.MongoDB,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.MongoDB.
+2026-09-29T09:35:36.673Z,WinPilot.Mcp,0.1.4,winpilot-mcp,MCP server for Windows desktop automation (UI Automation / FlaUI)
+2026-09-29T09:38:39.897Z,ZhileTime.Hope.SubscriptionManagement.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.SubscriptionManagement.Application.
+2026-09-29T09:38:56.177Z,ZhileTime.Hope.SubscriptionManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.SubscriptionManagement.EntityFrameworkCore.
+2026-09-29T09:39:22.59Z,ZhileTime.Hope.WorkflowManagement.WeCom,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.WorkflowManagement.WeCom.
+2026-09-29T09:43:10.973Z,Dhobiflow.Telemetry.Contracts,0.4.0-beta2,nyingimaina,"Shared, database-free contracts for Dhobiflow usage telemetry: event catalogue and validation, feature ownership, timezone-aware day/week bucketing, adoption-state rules, error fingerprinting and read-endpoint DTOs."
+2026-09-29T09:49:01.537Z,Gurux.Updater.Net,1.0.2609.2902,Gurux Ltd,"Reusable update library for checking, downloading and installing GitHub Release based updates for Gurux applications and add-ins."
+2026-09-29T09:49:04.177Z,Gurux.Updater.Tool,1.0.2609.2902,Gurux Ltd,Command-line updater for Gurux applications.
+2026-09-29T09:52:09.983Z,AiTech.Anvil.OpenTelemetry,1.2.0,Andrea Iridio,"OpenTelemetry wiring for AiTech.Anvil: one-call OTLP metrics export for the Anvil, ASP.NET Core, HttpClient, runtime and EF Core meters — the only package that references OpenTelemetry."
+2026-09-29T09:56:10.377Z,MorphIt,0.2.0,Kevin Gliewe,"Approximate triangle meshes and robots with spheres: the MorphIt optimizer (Rust) for .NET, with URDF/MJCF export, quality metrics and the robot pipeline."
+2026-09-29T10:01:32.393Z,FsBreaks,0.1.0,Onur Gumus,"Does a test fail when the rule it guards is switched off? Hand-written breaks, one per rule, tried one at a time against the tests that claim to guard them: mutation testing by intent, for F#."
+2026-09-29T10:05:14.06Z,Aore.Extensions,1.0.0,WEI.ZHOU (Willis),Aore.Extensions 是一个零外部依赖、生产就绪的 .NET 扩展方法库，为 string、数值、DateTime、bool、枚举、集合、DataTable、Guid、byte[]/Stream、Task 等常用类型提供丰富、稳定、经过完整单元测试的扩展能力。

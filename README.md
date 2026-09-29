@@ -12,67 +12,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 09:20 UTC
+## Latest list — 2026-09-29 10:19 UTC
 
-New packages created between 2026-09-29 08:28 UTC and 2026-09-29 09:20 UTC.
+New packages created between 2026-09-29 09:20 UTC and 2026-09-29 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T09-20-37-76087Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T10-19-27-189034Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 08:28:28 | [ZhileTime.Hope.PointManagement.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.PointManagement.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.PointManagement.Http… |
-| 2026-09-29 08:28:42 | [ZhileTime.Hope.PointManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.PointManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.PointManagement.Enti… |
-| 2026-09-29 08:28:55 | [ZhileTime.Hope.PointManagement.MongoDB](https://www.nuget.org/packages/ZhileTime.Hope.PointManagement.MongoDB) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.PointManagement.Mong… |
-| 2026-09-29 08:30:27 | [ZhileTime.Hope.RulesEngine.Application](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Applicat… |
-| 2026-09-29 08:30:40 | [ZhileTime.Hope.RulesEngine.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.HttpApi.… |
-| 2026-09-29 08:30:54 | [ZhileTime.Hope.RulesEngine.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.EntityFr… |
-| 2026-09-29 08:31:07 | [ZhileTime.Hope.RulesEngine.MongoDB](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.MongoDB) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.MongoDB. |
-| 2026-09-29 08:31:21 | [ZhileTime.Hope.RulesEngine.Blazor](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.Blazor) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Blazor. |
-| 2026-09-29 08:33:45 | [ZhileTime.Hope.SubscriptionManagement.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.SubscriptionManagement.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.SubscriptionManageme… |
-| 2026-09-29 08:42:21 | [ZhileTime.Hope.Notifications.WeCom](https://www.nuget.org/packages/ZhileTime.Hope.Notifications.WeCom) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Notifications.WeCom. |
-| 2026-09-29 08:43:01 | [ZhileTime.Hope.AIAgentManagement.Application](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Ap… |
-| 2026-09-29 08:43:16 | [ZhileTime.Hope.AIAgentManagement.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Ht… |
-| 2026-09-29 08:43:30 | [ZhileTime.Hope.AIAgentManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.En… |
-| 2026-09-29 08:43:43 | [ZhileTime.Hope.Alerting.Application](https://www.nuget.org/packages/ZhileTime.Hope.Alerting.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Alerting.Application. |
-| 2026-09-29 08:43:57 | [ZhileTime.Hope.Alerting.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.Alerting.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Alerting.HttpApi. |
-| 2026-09-29 08:46:34 | [ZhileTime.Hope.BillingManagement.Application](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Ap… |
-| 2026-09-29 08:46:48 | [ZhileTime.Hope.BillingManagement.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Ht… |
-| 2026-09-29 08:47:01 | [ZhileTime.Hope.BillingManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.En… |
-| 2026-09-29 08:49:52 | [ZhileTime.Hope.ChatAI.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.Application.C… |
-| 2026-09-29 08:51:13 | [ZhileTime.Hope.ConsentManagement.Domain](https://www.nuget.org/packages/ZhileTime.Hope.ConsentManagement.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Do… |
-| 2026-09-29 08:51:26 | [ZhileTime.Hope.ConsentManagement.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.ConsentManagement.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Ht… |
-| 2026-09-29 08:51:40 | [ZhileTime.Hope.ContractManagement.Domain](https://www.nuget.org/packages/ZhileTime.Hope.ContractManagement.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ContractManagement.D… |
-| 2026-09-29 08:51:53 | [ZhileTime.Hope.ContractManagement.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.ContractManagement.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ContractManagement.A… |
-| 2026-09-29 08:53:00 | [ZhileTime.Docs.Common.HttpApi](https://www.nuget.org/packages/ZhileTime.Docs.Common.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Docs.Common.HttpApi. |
-| 2026-09-29 08:53:15 | [ToucanHub.EventStore.Abstractions](https://www.nuget.org/packages/ToucanHub.EventStore.Abstractions) | 0.0.1 | junglistkirss | EventStore abstractions |
-| 2026-09-29 08:53:16 | [ToucanHub.EventStore.Abstractions.Subscriptions](https://www.nuget.org/packages/ToucanHub.EventStore.Abstractions.Subscriptions) | 0.0.1 | junglistkirss | EventStore Extensions |
-| 2026-09-29 08:53:17 | [ToucanHub.EventStore.Client.Abstractions](https://www.nuget.org/packages/ToucanHub.EventStore.Client.Abstractions) | 0.0.1 | junglistkirss | EventStore Client abstractions |
-| 2026-09-29 08:53:18 | [ToucanHub.EventStore.InMemory](https://www.nuget.org/packages/ToucanHub.EventStore.InMemory) | 0.0.1 | junglistkirss | EventStore InMemory |
-| 2026-09-29 08:53:18 | [ToucanHub.EventStore.PgSql](https://www.nuget.org/packages/ToucanHub.EventStore.PgSql) | 0.0.1 | junglistkirss | EventStore for PostgreSql |
-| 2026-09-29 08:53:19 | [ToucanHub.EventStore.Primitive.Abstractions](https://www.nuget.org/packages/ToucanHub.EventStore.Primitive.Abstractions) | 0.0.1 | junglistkirss | EventStore.Primitive abstractions |
-| 2026-09-29 08:53:20 | [ToucanHub.EventStore.Primitive.PgSql](https://www.nuget.org/packages/ToucanHub.EventStore.Primitive.PgSql) | 0.0.1 | junglistkirss | EventStore.Primitive for PostgreSQL |
-| 2026-09-29 08:53:20 | [ToucanHub.EventStore.ReactiveBus](https://www.nuget.org/packages/ToucanHub.EventStore.ReactiveBus) | 0.0.1 | junglistkirss | Reactive EventStore bus |
-| 2026-09-29 08:53:21 | [ToucanHub.EventStore.Subscriptions.PgSql](https://www.nuget.org/packages/ToucanHub.EventStore.Subscriptions.PgSql) | 0.0.1 | junglistkirss | EventStore subscriptions for PostgreSql |
-| 2026-09-29 08:54:19 | [ZhileTime.Hope.DownloaderCenter.SignalR](https://www.nuget.org/packages/ZhileTime.Hope.DownloaderCenter.SignalR) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.DownloaderCenter.Sig… |
-| 2026-09-29 08:56:05 | [ZhileTime.Hope.Gdpr.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.HttpApi. |
-| 2026-09-29 08:56:12 | [PowerTraces.PostgreSQL](https://www.nuget.org/packages/PowerTraces.PostgreSQL) | 1.0.0 | PowerTraces contributors | PostgreSQL provider for PowerTraces — exports traces/logs straight to PostgreSQ… |
-| 2026-09-29 08:56:13 | [PowerTraces](https://www.nuget.org/packages/PowerTraces) | 1.0.0 | PowerTraces contributors | Base package for exporting OpenTelemetry traces/logs straight to a database via… |
-| 2026-09-29 08:56:14 | [PowerTraces.Dashboard](https://www.nuget.org/packages/PowerTraces.Dashboard) | 1.0.0 | PowerTraces contributors | Traces/logs viewer UI + query API for the PowerTraces exporter. Mount with app.… |
-| 2026-09-29 08:56:15 | [PowerTraces.MySQL](https://www.nuget.org/packages/PowerTraces.MySQL) | 1.0.0 | PowerTraces contributors | MySQL/MariaDB provider for PowerTraces — exports traces/logs straight to MySQL… |
-| 2026-09-29 08:56:15 | [PowerTraces.FileSystem](https://www.nuget.org/packages/PowerTraces.FileSystem) | 1.0.0 | PowerTraces contributors | Local-filesystem provider for PowerTraces — exports traces/logs straight to JSO… |
-| 2026-09-29 08:56:19 | [PowerTraces.MongoDb](https://www.nuget.org/packages/PowerTraces.MongoDb) | 1.0.0 | PowerTraces contributors | MongoDB provider for PowerTraces — exports traces/logs straight to MongoDB via… |
-| 2026-09-29 08:56:20 | [PowerTraces.MSSQL](https://www.nuget.org/packages/PowerTraces.MSSQL) | 1.0.0 | PowerTraces contributors | SQL Server provider for PowerTraces — exports traces/logs straight to SQL Serve… |
-| 2026-09-29 08:58:16 | [ZhileTime.Hope.KnowledgeManagement.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 08:58:30 | [ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore.SqlServer](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore.SqlServer) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 08:58:44 | [ZhileTime.Hope.KnowledgeManagement.Identity](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.Identity) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 08:58:57 | [ZhileTime.Hope.KnowledgeManagement.AI](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.AI) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 09:00:26 | [JsoncPreserve](https://www.nuget.org/packages/JsoncPreserve) | 0.1.0 | masapomu | Lossless JSONC editing with System.Text.Json integration for .NET. |
-| 2026-09-29 09:01:44 | [Webority.Support.AspNetCore](https://www.nuget.org/packages/Webority.Support.AspNetCore) | 0.1.0 | Webority Technologies | The customer support API for Webority products: MapWeboritySupportEndpoints add… |
-| 2026-09-29 09:01:46 | [Webority.Support](https://www.nuget.org/packages/Webority.Support) | 0.1.0 | Webority Technologies | Customer support ticketing for Webority products: the ticket, message and attac… |
-| 2026-09-29 09:01:47 | [Webority.Support.Admin](https://www.nuget.org/packages/Webority.Support.Admin) | 0.1.0 | Webority Technologies | The support team's pages for Webority admin portals: the ticket queue and the t… |
-| 2026-09-29 09:01:48 | [Webority.Support.EntityFrameworkCore](https://www.nuget.org/packages/Webority.Support.EntityFrameworkCore) | 0.1.0 | Webority Technologies | Stores Webority support tickets in the product's own database: the entity confi… |
-| 2026-09-29 09:04:58 | [Concierge.Platform.CacheClient](https://www.nuget.org/packages/Concierge.Platform.CacheClient) | 1.0.0 | THISO | Redis read client for THISO platform's node-type cache (platform:{nodeType}), p… |
-| 2026-09-29 09:10:06 | [JwtHttpClient](https://www.nuget.org/packages/JwtHttpClient) | 1.0.0 | Mahdiyeh Dehghan | JWT HTTP Client library for .NET |
+| 2026-09-29 09:20:56 | [ZhileTime.Hope.ChatAI.Domain](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.Domain. |
+| 2026-09-29 09:21:10 | [ZhileTime.Hope.ChatAI.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.HttpApi.Clien… |
+| 2026-09-29 09:21:23 | [ZhileTime.Hope.ChatAI.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.HttpApi. |
+| 2026-09-29 09:22:29 | [ZhileTime.Hope.ConsentManagement.Application](https://www.nuget.org/packages/ZhileTime.Hope.ConsentManagement.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Ap… |
+| 2026-09-29 09:22:43 | [ZhileTime.Hope.ConsentManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.ConsentManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.En… |
+| 2026-09-29 09:22:57 | [ZhileTime.Hope.ContractManagement.Application](https://www.nuget.org/packages/ZhileTime.Hope.ContractManagement.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ContractManagement.A… |
+| 2026-09-29 09:23:10 | [ZhileTime.Hope.ContractManagement.HttpApi](https://www.nuget.org/packages/ZhileTime.Hope.ContractManagement.HttpApi) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ContractManagement.H… |
+| 2026-09-29 09:23:24 | [ZhileTime.Hope.ContractManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.ContractManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ContractManagement.E… |
+| 2026-09-29 09:24:57 | [ZhileTime.Hope.Gdpr.Blazor.WebAssembly](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Blazor.WebAssembly) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Blazor.WebAssem… |
+| 2026-09-29 09:25:23 | [ZhileTime.Hope.Identity.SignalR](https://www.nuget.org/packages/ZhileTime.Hope.Identity.SignalR) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Identity.SignalR. |
+| 2026-09-29 09:30:15 | [ZhileTime.Hope.RulesEngine.Blazor.WebAssembly](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.Blazor.WebAssembly) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Blazor.W… |
+| 2026-09-29 09:30:43 | [WorkflowTest.Driver](https://www.nuget.org/packages/WorkflowTest.Driver) | 1.0.0 | ADBC Drivers Contributors | C# Snowflake driver for Apache Arrow ADBC |
+| 2026-09-29 09:31:47 | [ZhileTime.Hope.SubscriptionManagement.Domain](https://www.nuget.org/packages/ZhileTime.Hope.SubscriptionManagement.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.SubscriptionManageme… |
+| 2026-09-29 09:33:21 | [ZhileTime.Hope.WorkflowManagement.AI](https://www.nuget.org/packages/ZhileTime.Hope.WorkflowManagement.AI) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.WorkflowManagement.A… |
+| 2026-09-29 09:35:07 | [CloudL.EntityFrameworkCore.Dm](https://www.nuget.org/packages/CloudL.EntityFrameworkCore.Dm) | 0.6.1 | ByCyanCloud | CloudL DDD 框架的达梦（DM）数据库提供程序：为 DbContextOptionsBuilder 提供 UseCloudLDm。⚠️ 依赖的是达梦官… |
+| 2026-09-29 09:35:07 | [ZhileTime.Hope.ChatAI.Application](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.Application. |
+| 2026-09-29 09:35:10 | [CloudL.SqlSugar](https://www.nuget.org/packages/CloudL.SqlSugar) | 0.6.1 | ByCyanCloud | CloudL DDD 框架的 SqlSugar 持久化层（与数据库无关）：仓储实现、工作单元与审计字段填充，可用 SqlSugar 支持的各类数据库（含达梦等… |
+| 2026-09-29 09:35:21 | [ZhileTime.Hope.ChatAI.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.EntityFramewo… |
+| 2026-09-29 09:35:35 | [ZhileTime.Hope.ChatAI.MongoDB](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.MongoDB) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.MongoDB. |
+| 2026-09-29 09:35:36 | [WinPilot.Mcp](https://www.nuget.org/packages/WinPilot.Mcp) | 0.1.4 | winpilot-mcp | MCP server for Windows desktop automation (UI Automation / FlaUI) |
+| 2026-09-29 09:38:39 | [ZhileTime.Hope.SubscriptionManagement.Application](https://www.nuget.org/packages/ZhileTime.Hope.SubscriptionManagement.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.SubscriptionManageme… |
+| 2026-09-29 09:38:56 | [ZhileTime.Hope.SubscriptionManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.SubscriptionManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.SubscriptionManageme… |
+| 2026-09-29 09:39:22 | [ZhileTime.Hope.WorkflowManagement.WeCom](https://www.nuget.org/packages/ZhileTime.Hope.WorkflowManagement.WeCom) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.WorkflowManagement.W… |
+| 2026-09-29 09:43:10 | [Dhobiflow.Telemetry.Contracts](https://www.nuget.org/packages/Dhobiflow.Telemetry.Contracts) | 0.4.0-beta2 | nyingimaina | Shared, database-free contracts for Dhobiflow usage telemetry: event catalogue… |
+| 2026-09-29 09:49:01 | [Gurux.Updater.Net](https://www.nuget.org/packages/Gurux.Updater.Net) | 1.0.2609.2902 | Gurux Ltd | Reusable update library for checking, downloading and installing GitHub Release… |
+| 2026-09-29 09:49:04 | [Gurux.Updater.Tool](https://www.nuget.org/packages/Gurux.Updater.Tool) | 1.0.2609.2902 | Gurux Ltd | Command-line updater for Gurux applications. |
+| 2026-09-29 09:52:09 | [AiTech.Anvil.OpenTelemetry](https://www.nuget.org/packages/AiTech.Anvil.OpenTelemetry) | 1.2.0 | Andrea Iridio | OpenTelemetry wiring for AiTech.Anvil: one-call OTLP metrics export for the Anv… |
+| 2026-09-29 09:56:10 | [MorphIt](https://www.nuget.org/packages/MorphIt) | 0.2.0 | Kevin Gliewe | Approximate triangle meshes and robots with spheres: the MorphIt optimizer (Rus… |
+| 2026-09-29 10:01:32 | [FsBreaks](https://www.nuget.org/packages/FsBreaks) | 0.1.0 | Onur Gumus | Does a test fail when the rule it guards is switched off? Hand-written breaks,… |
+| 2026-09-29 10:05:14 | [Aore.Extensions](https://www.nuget.org/packages/Aore.Extensions) | 1.0.0 | WEI.ZHOU (Willis) | Aore.Extensions 是一个零外部依赖、生产就绪的 .NET 扩展方法库，为 string、数值、DateTime、bool、枚举、集合、DataT… |
 
 ## Data source
 
