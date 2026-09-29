@@ -12,27 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 11:21 UTC
+## Latest list — 2026-09-29 12:19 UTC
 
-New packages created between 2026-09-29 10:19 UTC and 2026-09-29 11:21 UTC.
+New packages created between 2026-09-29 11:21 UTC and 2026-09-29 12:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T11-21-34-036814Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T12-19-17-65401Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 10:19:46 | [ZhileTime.Hope.Gdpr.Web](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Web) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Web. |
-| 2026-09-29 10:21:05 | [ZhileTime.Hope.RulesEngine.Web](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.Web) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Web. |
-| 2026-09-29 10:21:45 | [ZhileTime.Hope.TextTemplateManagement.Web](https://www.nuget.org/packages/ZhileTime.Hope.TextTemplateManagement.Web) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.TextTemplateManageme… |
-| 2026-09-29 10:21:58 | [ZhileTime.Hope.VersionManagement.Web](https://www.nuget.org/packages/ZhileTime.Hope.VersionManagement.Web) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.VersionManagement.We… |
-| 2026-09-29 10:23:48 | [VfpReader](https://www.nuget.org/packages/VfpReader) | 0.1.0 | axiom-nz | Read-only, streaming reader for Visual FoxPro, FoxPro 2.x and dBASE III .dbf ta… |
-| 2026-09-29 10:25:24 | [Tachain.Sdk](https://www.nuget.org/packages/Tachain.Sdk) | 0.1.0 | Tactic Chain contributors | Tactic Chain public integration API client |
-| 2026-09-29 10:30:58 | [Raseen.Permissions](https://www.nuget.org/packages/Raseen.Permissions) | 1.0.0 | Raseen | Permission and role definitions for Raseen, including restaurant permission enc… |
-| 2026-09-29 10:31:30 | [Bazdidfani.ApiClient](https://www.nuget.org/packages/Bazdidfani.ApiClient) | 1.3.0 | Bazdidfani | کلاینت دات‌نت برای وب‌سرویس بازدید فنی و خوداظهاری بازدیدفنی. کد سازمان در هر ف… |
-| 2026-09-29 10:38:08 | [Hardened.Requests.Jwt](https://www.nuget.org/packages/Hardened.Requests.Jwt) | 0.42.0-rc1000 | Ian Johnson | A JWT bearer principal source for Hardened applications: validates a token's si… |
-| 2026-09-29 10:38:12 | [Hardened.Requests.Jwt.Testing](https://www.nuget.org/packages/Hardened.Requests.Jwt.Testing) | 0.42.0-rc1000 | Ian Johnson | A test issuer for Hardened.Requests.Jwt: signs tokens with a key generated for… |
-| 2026-09-29 10:45:17 | [Purview.BuildSdk](https://www.nuget.org/packages/Purview.BuildSdk) | 1.0.0 | Purview.BuildSdk | A reusable MSBuild SDK that provides standardised .NET project defaults, code s… |
-| 2026-09-29 11:02:31 | [TianWeiToolsPro.UI.Drawing](https://www.nuget.org/packages/TianWeiToolsPro.UI.Drawing) | 3.2.0 | LaiTianWei | Package Description |
-| 2026-09-29 11:12:44 | [TianWeiToolsPro.UI](https://www.nuget.org/packages/TianWeiToolsPro.UI) | 3.2.0 | LaiTianWei | Package Description |
+| 2026-09-29 11:43:00 | [Simform.Data.Auditing](https://www.nuget.org/packages/Simform.Data.Auditing) | 1.0.0 | Simform Solutions | Automatic, provider-independent audit trails for EF Core 10. Captures Added, Mo… |
+| 2026-09-29 11:43:01 | [Simform.Data.Auditing.AspNetCore](https://www.nuget.org/packages/Simform.Data.Auditing.AspNetCore) | 1.0.0 | Simform Solutions | ASP.NET Core integration for Simform.Data.Auditing: resolves the current user f… |
+| 2026-09-29 11:45:00 | [Verify.Cecil](https://www.nuget.org/packages/Verify.Cecil) | 0.1.0 | https://github.com/VerifyTest… | Extends Verify (https://github.com/VerifyTests/Verify) to allow snapshot testin… |
+| 2026-09-29 11:45:00 | [Verify.Cecil.FodyHelpers](https://www.nuget.org/packages/Verify.Cecil.FodyHelpers) | 0.1.0 | https://github.com/VerifyTest… | Extends Verify (https://github.com/VerifyTests/Verify) to allow snapshot testin… |
+| 2026-09-29 11:46:29 | [getAddress.Dk.Sdk](https://www.nuget.org/packages/getAddress.Dk.Sdk) | 1.0.0 | getAddress() | .NET client for getaddress.dk, the DAWA-compatible Danish address API: autocomp… |
+| 2026-09-29 11:54:25 | [Majorsilence.Forms.Theming.Avalonia](https://www.nuget.org/packages/Majorsilence.Forms.Theming.Avalonia) | 26.4.0 | Majorsilence | Applies Majorsilence.Forms CSS themes to native Avalonia controls — one stylesh… |
+| 2026-09-29 11:54:26 | [Majorsilence.Forms.Mvvm](https://www.nuget.org/packages/Majorsilence.Forms.Mvvm) | 26.4.0 | Majorsilence | Trim- and AOT-safe MVVM wiring for Majorsilence.Forms: Observe, BindCommand and… |
+| 2026-09-29 11:55:26 | [Arc56.Generated.TriplEight.AuPM](https://www.nuget.org/packages/Arc56.Generated.TriplEight.AuPM) | 1.0.1.2026092911 | TriplEight | Generated ARC-56 Algorand smart-contract clients for TriplEight/AuPM. |
+| 2026-09-29 11:58:49 | [Umai.KeycloakService.Contract.Grpc](https://www.nuget.org/packages/Umai.KeycloakService.Contract.Grpc) | 1.0.0 | Umai.KeycloakService.Contract… | Code-first gRPC контракт umai-keycloak-service: зеркало пользователей Keycloak… |
+| 2026-09-29 11:59:35 | [Umai.KeycloakService.Contract](https://www.nuget.org/packages/Umai.KeycloakService.Contract) | 1.0.0 | Umai.KeycloakService.Contract | Сообщения RabbitMQ (MassTransit), публикуемые umai-keycloak-service при изменен… |
+| 2026-09-29 12:09:57 | [Mandarin.Selenium](https://www.nuget.org/packages/Mandarin.Selenium) | 0.1.0 | Mandarin | Selenium for Mandarin .NET services: one-line DI registration (AddMandarinSelen… |
 
 ## Data source
 
