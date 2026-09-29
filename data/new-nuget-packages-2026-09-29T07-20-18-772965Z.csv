@@ -1,0 +1,44 @@
+created_at,package,version,authors,description
+2026-09-29T06:27:26.783Z,Combine.DataController.Sdk,3.0.0,Combine.DataController.Sdk,Package Description
+2026-09-29T06:31:09.307Z,ZhileTime.Hope.Gdpr.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Domain.Shared.
+2026-09-29T06:34:29.547Z,ZhileTime.Hope.AIAgentManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Domain.Shared.
+2026-09-29T06:34:43.063Z,ZhileTime.Hope.BillingManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Domain.Shared.
+2026-09-29T06:35:09.657Z,ZhileTime.Hope.ConsentManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Domain.Shared.
+2026-09-29T06:35:23.293Z,ZhileTime.Docs.Common.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Docs.Common.Application.Contracts.
+2026-09-29T06:35:49.29Z,Ciphyrs.Client,0.1.0,Ciphyrs Technologies Private Limited,"Ciphyrs enforcement client for .NET: guard checks, tool checks with delegated agent identity, PII masking and restore, approvals, heartbeats and tool announce."
+2026-09-29T06:36:03.057Z,ZhileTime.Hope.Gdpr.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Application.Contracts.
+2026-09-29T06:36:16.607Z,ZhileTime.Hope.KnowledgeManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.Domain.Shared.
+2026-09-29T06:36:31.883Z,Universal.Operative.Sdk.Search,1.0.0,Andrew Ong,Provider-neutral search tools for Universal.Operative agents backed by Universal.Search sources.
+2026-09-29T06:40:29.187Z,ZhileTime.Hope.AIAgentManagement.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Application.Contracts.
+2026-09-29T06:40:42.667Z,ZhileTime.Hope.Alerting.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Alerting.Domain.Shared.
+2026-09-29T06:40:56.35Z,ZhileTime.Hope.BillingManagement.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Application.Contracts.
+2026-09-29T06:41:50.517Z,ZhileTime.Hope.ConsentManagement.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Application.Contracts.
+2026-09-29T06:42:04.203Z,ZhileTime.Hope.ContractManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ContractManagement.Domain.Shared.
+2026-09-29T06:43:10.76Z,ZhileTime.Hope.KnowledgeManagement.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.Application.Contracts.
+2026-09-29T06:43:51.273Z,ZhileTime.Hope.AI.Agent,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AI.Agent.
+2026-09-29T06:49:27.487Z,ZhileTime.Hope.RealTime.Caching,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RealTime.Caching.
+2026-09-29T06:50:15.837Z,Quartz.Weasel,4.3.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration - shared glue that puts the ADO.NET job store's schema under Weasel's db-apply, db-assert, db-patch, resources setup and startup migration; install a dialect package beside it; Quartz Scheduling Framework for .NET"
+2026-09-29T06:50:17.09Z,Quartz.Weasel.PostgreSQL,4.3.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration for PostgreSQL - the ADO.NET job store's tables as a Weasel model, applied standalone under an advisory lock or joined to a Marten store as a feature schema; Quartz Scheduling Framework for .NET"
+2026-09-29T06:50:18.337Z,Quartz.Weasel.SQLite,4.3.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration for SQLite - the ADO.NET job store's tables as a Weasel model, applied by db-apply, resources setup or at startup; Quartz Scheduling Framework for .NET"
+2026-09-29T06:50:19.657Z,Quartz.Weasel.SqlServer,4.3.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration for SQL Server - the ADO.NET job store's tables as a Weasel model, applied under an application lock by db-apply, resources setup or at startup; Quartz Scheduling Framework for .NET"
+2026-09-29T06:50:47.63Z,ZhileTime.Hope.BlobStoring.BackgroundJobs,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BlobStoring.BackgroundJobs.
+2026-09-29T06:51:01.027Z,ZhileTime.Hope.Alerting.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Alerting.Application.Contracts.
+2026-09-29T06:54:32.98Z,ZhileTime.Hope.PointManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.PointManagement.Domain.Shared.
+2026-09-29T06:54:59.65Z,ZhileTime.Hope.RulesEngine.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Domain.Shared.
+2026-09-29T06:55:39.803Z,ZhileTime.Hope.SubscriptionManagement.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.SubscriptionManagement.Domain.Shared.
+2026-09-29T06:57:14.457Z,ZhileTime.Hope.AI.Agent.Workflows,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AI.Agent.Workflows.
+2026-09-29T06:57:33.587Z,SharedMemorySN,1.0.0,Justin Stenning,Strong-named shared memory primitives for .NET Framework and .NET Standard.
+2026-09-29T06:57:53.927Z,SevenZipLite.Native,0.1.0,ilwren,"纯 C# 封装（Source-Generated COM + P/Invoke，无第三方依赖）的 7-Zip 读写库，覆盖 7z / zip / tar / tar.gz 四种格式（含分卷、7z/zip 密码），跨平台支持 Windows / Linux / Android。内部通过官方未修改的 7-Zip 原生库（LGPL-2.1）完成实际编解码， 详见 THIRD-PARTY-NOTICES.md。 A pure C# wrapper (source-generated COM + P/Invoke, no third-party managed dependencies) around…"
+2026-09-29T07:01:06.23Z,DotNetBasics.Charts,1.0.0,Sergi Ortiz Gomez,"Simple charts (Bars, Columns, Pie, Lines, Ring percentage) generated as SVG from .NET code. Works in any .NET application: ASP.NET Core, Blazor Server, Blazor WebAssembly, MVC, console apps and PDF or HTML reports."
+2026-09-29T07:01:27.24Z,ZhileTime.Hope.AspNetCore.MultiStore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AspNetCore.MultiStore.
+2026-09-29T07:01:40.84Z,ZhileTime.Hope.AIAgentManagement.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.HttpApi.Client.
+2026-09-29T07:01:54.23Z,ZhileTime.Hope.Alerting.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Alerting.Domain.
+2026-09-29T07:03:00.127Z,ZhileTime.Hope.BillingManagement.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.HttpApi.Client.
+2026-09-29T07:04:42.393Z,SMTPing.EmailVerifier,1.0.0,SMTPing,"SMTPing Email Verifier: official .NET SDK for the SMTPing email verification API. Verify one address or a list of 100,000, flag spamtraps, complainers, spambots and disposable addresses. Automatic retries on 429 and 5xx, typed results and exceptions."
+2026-09-29T07:04:50.34Z,DotnetKit.MetricFlow.OpenTelemetry,1.0.51,Evodim,"OpenTelemetry integration for MetricFlow, providing automated meter binding, OTLP and Prometheus exporter bridging, and trace correlation."
+2026-09-29T07:12:40.983Z,ZhileTime.Docs.Common.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Docs.Common.HttpApi.Client.
+2026-09-29T07:14:26.257Z,ZhileTime.Hope.Gdpr.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Domain.
+2026-09-29T07:14:39.883Z,ZhileTime.Hope.Gdpr.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.HttpApi.Client.
+2026-09-29T07:14:53.197Z,ZhileTime.Hope.Gdpr.Blazor,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Blazor.
+2026-09-29T07:15:20.077Z,ZhileTime.Hope.KnowledgeManagement.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.Domain.
+2026-09-29T07:15:33.62Z,ZhileTime.Hope.KnowledgeManagement.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.HttpApi.Client.
