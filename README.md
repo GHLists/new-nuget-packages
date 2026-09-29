@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 03:20 UTC
+## Latest list — 2026-09-29 04:19 UTC
 
-New packages created between 2026-09-29 02:22 UTC and 2026-09-29 03:20 UTC.
+New packages created between 2026-09-29 03:20 UTC and 2026-09-29 04:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T03-20-12-140068Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T04-19-15-05428Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 02:23:59 | [CasCap.Signalizr.Client.Testing](https://www.nuget.org/packages/CasCap.Signalizr.Client.Testing) | 0.1.1 | Alex Vincent | In-memory ISignalizrClient for testing signalizr consumers without a gateway: f… |
-| 2026-09-29 02:27:32 | [Chargehand](https://www.nuget.org/packages/Chargehand) | 0.4.0 | chargehand contributors | MCP server and CLI that runs coding-agent workers on a codebase question and re… |
-| 2026-09-29 02:27:33 | [Chargehand.Contracts](https://www.nuget.org/packages/Chargehand.Contracts) | 1.2.0-alpha | chargehand contributors | JSON Schemas request/v1, task-spec/v1, result/v1, run-status/v1 and preset/v1 f… |
-| 2026-09-29 02:28:59 | [Indtec.ParallelBatch](https://www.nuget.org/packages/Indtec.ParallelBatch) | 0.1.0 | Indtec | Lightweight .NET library for parallel batch processing with bounded concurrency… |
-| 2026-09-29 02:35:23 | [Deskcheck](https://www.nuget.org/packages/Deskcheck) | 0.0.1 | Deskcheck | Deskcheck — AI-driven GUI testing for Windows desktop apps (Delphi/VCL, WinForm… |
-| 2026-09-29 03:03:57 | [LibTiffCore](https://www.nuget.org/packages/LibTiffCore) | 2.0.1 | MarsPanda | 高性能 BigTIFF/SVS 数字病理全片图像（Whole Slide Image）读取库（.NET Standard 2.0，跨平台）。 High-per… |
-| 2026-09-29 03:04:14 | [LibCspCore](https://www.nuget.org/packages/LibCspCore) | 1.3.1 | MarsPanda | CSP 数字病理全片图像（Whole Slide Image）跨平台快速读取库（.NET Standard 2.0）。 遵循中华医学会病理学分会《CSP 数字… |
-| 2026-09-29 03:05:25 | [Syncfusion.DocumentChunking.WinForms](https://www.nuget.org/packages/Syncfusion.DocumentChunking.WinForms) | 35.1.37 | Syncfusion Inc. | The Syncfusion® DocumentChunking library is a .NET Standard library that helps… |
+| 2026-09-29 03:31:42 | [IIChartBasic](https://www.nuget.org/packages/IIChartBasic) | 1.1.0.1 | XuweiIntelligentTechnology | The basic edition provides only fundamental chart rendering. IIChartBasic is th… |
+| 2026-09-29 03:31:49 | [siwooLib](https://www.nuget.org/packages/siwooLib) | 1.1.1 | siwoo | 시우의 강의용 라이브러리 |
+| 2026-09-29 03:32:39 | [IIChartStandard](https://www.nuget.org/packages/IIChartStandard) | 1.1.0.1 | XuweiIntelligentTechnology | The standard edition adds visual style customization for charts on top of the b… |
 
 ## Data source
 

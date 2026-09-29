@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-09-29T03:31:42.053Z,IIChartBasic,1.1.0.1,XuweiIntelligentTechnology,"The basic edition provides only fundamental chart rendering. IIChartBasic is the basic edition of the native MFC/Win32 chart control that ports Apache ECharts through WebView2, supporting both x86 and x64 platforms. Official website: https://www.xw-industrial.com/ ; Github: https://github.com/Xuwei…"
+2026-09-29T03:31:49.467Z,siwooLib,1.1.1,siwoo,시우의 강의용 라이브러리
+2026-09-29T03:32:39.66Z,IIChartStandard,1.1.0.1,XuweiIntelligentTechnology,"The standard edition adds visual style customization for charts on top of the basic edition. IIChartStandard is the standard edition of the native MFC/Win32 chart control that ports Apache ECharts through WebView2, supporting both x86 and x64 platforms. Official website: https://www.xw-industrial.c…"
