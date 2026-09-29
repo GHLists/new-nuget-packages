@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 04:19 UTC
+## Latest list — 2026-09-29 05:19 UTC
 
-New packages created between 2026-09-29 03:20 UTC and 2026-09-29 04:19 UTC.
+New packages created between 2026-09-29 04:19 UTC and 2026-09-29 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T04-19-15-05428Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T05-19-12-971254Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 03:31:42 | [IIChartBasic](https://www.nuget.org/packages/IIChartBasic) | 1.1.0.1 | XuweiIntelligentTechnology | The basic edition provides only fundamental chart rendering. IIChartBasic is th… |
-| 2026-09-29 03:31:49 | [siwooLib](https://www.nuget.org/packages/siwooLib) | 1.1.1 | siwoo | 시우의 강의용 라이브러리 |
-| 2026-09-29 03:32:39 | [IIChartStandard](https://www.nuget.org/packages/IIChartStandard) | 1.1.0.1 | XuweiIntelligentTechnology | The standard edition adds visual style customization for charts on top of the b… |
+| 2026-09-29 04:20:12 | [Syncfusion.Blazor.A2UI](https://www.nuget.org/packages/Syncfusion.Blazor.A2UI) | 35.1.37 | Syncfusion Inc. | Syncfusion® Blazor A2UI Library is a thin Blazor renderer for the A2UI v0.9 pro… |
+| 2026-09-29 04:20:20 | [airtaxi.MonoGame.Framework.Compute.iOS](https://www.nuget.org/packages/airtaxi.MonoGame.Framework.Compute.iOS) | 3.8.3 | MonoGame Team | Unofficial iOS build of the MonoGame Compute fork runtime (cpt-max/MonoGame 3.8… |
+| 2026-09-29 04:26:02 | [ZeroAudio.Core](https://www.nuget.org/packages/ZeroAudio.Core) | 1.1.0 | Phong Võ (kzxl) | Sovereign Pure C# Audio Engineering & DSP Engine for .NET: WAV/RIFF streaming,… |
+| 2026-09-29 04:31:37 | [Netprof](https://www.nuget.org/packages/Netprof) | 0.1.0 | Alex Overstreet | .NET Instrumentation Library |
+| 2026-09-29 04:37:20 | [GreenDox.Configurations.Api.Proxy](https://www.nuget.org/packages/GreenDox.Configurations.Api.Proxy) | 1.87.0 | Configurations.Api.Proxy | Package Description |
 
 ## Data source
 
