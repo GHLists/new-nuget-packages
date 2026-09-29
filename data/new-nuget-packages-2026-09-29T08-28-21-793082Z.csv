@@ -1,0 +1,38 @@
+created_at,package,version,authors,description
+2026-09-29T07:20:58.657Z,ZhileTime.Hope.SubscriptionManagement.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.SubscriptionManagement.Application.Contracts.
+2026-09-29T07:27:59.453Z,ZhileTime.Hope.RealTime.SignalR,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RealTime.SignalR.
+2026-09-29T07:28:52.333Z,ZhileTime.Hope.AIAgentManagement.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Domain.
+2026-09-29T07:29:06.307Z,ZhileTime.Hope.Alerting.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Alerting.EntityFrameworkCore.
+2026-09-29T07:29:44.2Z,ZhileTime.Hope.PermissionManagement.Domain.ApiKey,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.PermissionManagement.Domain.ApiKey.
+2026-09-29T07:31:28.053Z,ZhileTime.Hope.BillingManagement.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Domain.
+2026-09-29T07:32:50.66Z,ZhileTime.Hope.ChatAI.Domain.Shared,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.Domain.Shared.
+2026-09-29T07:34:23.96Z,EngineeringUnits.Fast,2.2.149,Mads Kirk Foged,Struct-based EngineeringUnits: every quantity is a plain double at runtime. Unit safety is checked at compile time by the bundled analyzer.
+2026-09-29T07:35:29.85Z,ZhileTime.Docs.Common.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Docs.Common.Application.
+2026-09-29T07:38:45.877Z,ZhileTime.Hope.Gdpr.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.Application.
+2026-09-29T07:38:59.967Z,ZhileTime.Hope.Gdpr.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.EntityFrameworkCore.
+2026-09-29T07:39:13.357Z,ZhileTime.Hope.Gdpr.MongoDB,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.MongoDB.
+2026-09-29T07:40:20.073Z,ZhileTime.Hope.KnowledgeManagement.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.Application.
+2026-09-29T07:40:33.64Z,ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore.
+2026-09-29T07:40:47.607Z,ZhileTime.Hope.KnowledgeManagement.Elasticsearch,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.Elasticsearch.
+2026-09-29T07:40:58.863Z,KetPsi.Endpoints.Http,1.0.0,"KetPsi ,MohamadArsalan Imamverdi",Source-generated ASP.NET Core Minimal APIs from plain handler classes. MapGet/MapPost/… over a handler with ExecuteAsync; optional external binding config and AsParameters surrogates. Direct generated mapping with minimal runtime overhead.
+2026-09-29T07:53:20.697Z,ThinCam,1.0.0.120,Thilo Viereck,"Thin, platform-native camera frame capture and camera controls for .NET."
+2026-09-29T07:53:29.62Z,ThinCam.Avalonia,1.0.0.120,Thilo Viereck,Reusable Avalonia Skia preview controls and presentation sources for ThinCam.
+2026-09-29T07:53:40.663Z,ThinCam.SkiaSharp,1.0.0.120,Thilo Viereck,"Stride-aware SkiaSharp conversion, presentation transforms, encoding, and reusable preview buffers for ThinCam frames."
+2026-09-29T08:00:10.503Z,TGateway.Application,2.2.46,TGateway.Application,Package Description
+2026-09-29T08:00:13.3Z,TGateway.ExpressionsGenerator,2.0.45,TGateway.ExpressionsGenerator,Package Description
+2026-09-29T08:00:28.143Z,TGateway.Frontend,2.2.46,TGateway.Frontend,Package Description
+2026-09-29T08:00:30.68Z,TGateway.License.Core,2.2.46,TGateway.License.Core,Package Description
+2026-09-29T08:00:34.267Z,TGateway.NOAOTFoundation,2.2.46,TGateway.NOAOTFoundation,Package Description
+2026-09-29T08:00:38.663Z,TGateway.NOAOTPlugin,2.2.46,TGateway.NOAOTPlugin,Package Description
+2026-09-29T08:00:46.253Z,TGateway.NOAOTPROFoundation,2.2.46,TGateway.NOAOTPROFoundation,Package Description
+2026-09-29T08:00:51.003Z,TGateway.NOAOTPROPlugin,2.2.46,TGateway.NOAOTPROPlugin,Package Description
+2026-09-29T08:00:56.81Z,TGateway.PluginsGenerator,2.0.45,TGateway.PluginsGenerator,Package Description
+2026-09-29T08:04:39.347Z,Blipit,0.1.0,Louward Labs,Blipit error monitoring for .NET. Know your app broke before your users tell you.
+2026-09-29T08:06:05.97Z,Bizgo.Sdk.Comm,1.2.0,icomm-api,".NET SDK for the Bizgo Communication API: SMS/LMS/MMS, international SMS, RCS, Kakao AlimTalk/BrandMessage and Naver TalkTalk, delivery reports, message history and webhook verification. Replaces Infobank.Omni.Sdk.Cs."
+2026-09-29T08:06:06.72Z,Bizgo.Sdk.Comm.Testing,1.2.0,icomm-api,"Offline test helpers for Bizgo.Sdk.Comm: a fake HttpMessageHandler with request recording, default success responses per operation, error injection and signed webhook requests. For tests only."
+2026-09-29T08:15:53.523Z,Papuma.Kernel.Mcp,2.1.0,Harald Lapp,"Model Context Protocol (MCP) server tools for Papuma.Kernel — exposes model introspection, the Art.-30 data inventory, feed lag, failure diagnostics and document history to AI agents. Thin, read-only-by-default wrapper over the kernel's diagnostics APIs; the kernel itself stays AI-free."
+2026-09-29T08:15:54.487Z,Papuma.Kernel.Testing,2.1.0,Harald Lapp,"Integration-test support for applications on Papuma.Kernel — a PostgreSQL 18 test database (Testcontainers or an existing server) with a non-superuser application role so row-level security is actually exercised, and feed draining for change and event handlers. Test-framework agnostic."
+2026-09-29T08:15:55.407Z,Papuma.Kernel.AspNetCore,2.1.0,Harald Lapp,"Optional ASP.NET Core integration for Papuma.Kernel — tenant scope resolution middleware, change feed lag health checks, and an embedded first-look dashboard (lag, failures, throughput)."
+2026-09-29T08:15:56.243Z,Papuma.Kernel.Local,2.1.0,Harald Lapp,"SQLite-backed embedded sibling of Papuma.Kernel for single-writer desktop/local use — the same document-sourcing model (versioned documents, reversible diffs, change feed, GDPR redaction, privacy policies, schema evolution) without a server. See docs/analyses/local-kernel-sqlite-sibling.md."
+2026-09-29T08:15:57.057Z,Papuma.Kernel,2.1.0,Harald Lapp,"PostgreSQL-based document-sourced application kernel for .NET 10 — documents as the source of truth, automatically derived change feed with reversible diffs, privacy policies, schema evolution, event log, and multi-tenancy. Requires PostgreSQL 18+."
+2026-09-29T08:15:57.913Z,Papuma.Kernel.FSharp,2.1.0,Harald Lapp,"F#-idiomatic facade over Papuma Kernel's write path: Result<T,KernelError> instead of exceptions for the three expected write outcomes (ADR-003/ADR-006), and an IAsyncDisposable-safe session runner. Works with either kernel — reference Papuma.Kernel (PostgreSQL) or Papuma.Kernel.Local (SQLite) alon…"

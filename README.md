@@ -12,57 +12,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 07:20 UTC
+## Latest list — 2026-09-29 08:28 UTC
 
-New packages created between 2026-09-29 06:21 UTC and 2026-09-29 07:20 UTC.
+New packages created between 2026-09-29 07:20 UTC and 2026-09-29 08:28 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T07-20-18-772965Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T08-28-21-793082Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 06:27:26 | [Combine.DataController.Sdk](https://www.nuget.org/packages/Combine.DataController.Sdk) | 3.0.0 | Combine.DataController.Sdk | Package Description |
-| 2026-09-29 06:31:09 | [ZhileTime.Hope.Gdpr.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Domain.Shared. |
-| 2026-09-29 06:34:29 | [ZhileTime.Hope.AIAgentManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Do… |
-| 2026-09-29 06:34:43 | [ZhileTime.Hope.BillingManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Do… |
-| 2026-09-29 06:35:09 | [ZhileTime.Hope.ConsentManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.ConsentManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Do… |
-| 2026-09-29 06:35:23 | [ZhileTime.Docs.Common.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Docs.Common.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Docs.Common.Application.C… |
-| 2026-09-29 06:35:49 | [Ciphyrs.Client](https://www.nuget.org/packages/Ciphyrs.Client) | 0.1.0 | Ciphyrs Technologies Private… | Ciphyrs enforcement client for .NET: guard checks, tool checks with delegated a… |
-| 2026-09-29 06:36:03 | [ZhileTime.Hope.Gdpr.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Application.Con… |
-| 2026-09-29 06:36:16 | [ZhileTime.Hope.KnowledgeManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 06:36:31 | [Universal.Operative.Sdk.Search](https://www.nuget.org/packages/Universal.Operative.Sdk.Search) | 1.0.0 | Andrew Ong | Provider-neutral search tools for Universal.Operative agents backed by Universa… |
-| 2026-09-29 06:40:29 | [ZhileTime.Hope.AIAgentManagement.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Ap… |
-| 2026-09-29 06:40:42 | [ZhileTime.Hope.Alerting.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.Alerting.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Alerting.Domain.Shar… |
-| 2026-09-29 06:40:56 | [ZhileTime.Hope.BillingManagement.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Ap… |
-| 2026-09-29 06:41:50 | [ZhileTime.Hope.ConsentManagement.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.ConsentManagement.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Ap… |
-| 2026-09-29 06:42:04 | [ZhileTime.Hope.ContractManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.ContractManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ContractManagement.D… |
-| 2026-09-29 06:43:10 | [ZhileTime.Hope.KnowledgeManagement.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 06:43:51 | [ZhileTime.Hope.AI.Agent](https://www.nuget.org/packages/ZhileTime.Hope.AI.Agent) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AI.Agent. |
-| 2026-09-29 06:49:27 | [ZhileTime.Hope.RealTime.Caching](https://www.nuget.org/packages/ZhileTime.Hope.RealTime.Caching) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RealTime.Caching. |
-| 2026-09-29 06:50:15 | [Quartz.Weasel](https://www.nuget.org/packages/Quartz.Weasel) | 4.3.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration - shared glue that puts the ADO.NET job store's s… |
-| 2026-09-29 06:50:17 | [Quartz.Weasel.PostgreSQL](https://www.nuget.org/packages/Quartz.Weasel.PostgreSQL) | 4.3.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration for PostgreSQL - the ADO.NET job store's tables a… |
-| 2026-09-29 06:50:18 | [Quartz.Weasel.SQLite](https://www.nuget.org/packages/Quartz.Weasel.SQLite) | 4.3.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration for SQLite - the ADO.NET job store's tables as a… |
-| 2026-09-29 06:50:19 | [Quartz.Weasel.SqlServer](https://www.nuget.org/packages/Quartz.Weasel.SqlServer) | 4.3.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration for SQL Server - the ADO.NET job store's tables a… |
-| 2026-09-29 06:50:47 | [ZhileTime.Hope.BlobStoring.BackgroundJobs](https://www.nuget.org/packages/ZhileTime.Hope.BlobStoring.BackgroundJobs) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BlobStoring.Backgrou… |
-| 2026-09-29 06:51:01 | [ZhileTime.Hope.Alerting.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.Alerting.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Alerting.Application… |
-| 2026-09-29 06:54:32 | [ZhileTime.Hope.PointManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.PointManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.PointManagement.Doma… |
-| 2026-09-29 06:54:59 | [ZhileTime.Hope.RulesEngine.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.RulesEngine.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Domain.S… |
-| 2026-09-29 06:55:39 | [ZhileTime.Hope.SubscriptionManagement.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.SubscriptionManagement.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.SubscriptionManageme… |
-| 2026-09-29 06:57:14 | [ZhileTime.Hope.AI.Agent.Workflows](https://www.nuget.org/packages/ZhileTime.Hope.AI.Agent.Workflows) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AI.Agent.Workflows. |
-| 2026-09-29 06:57:33 | [SharedMemorySN](https://www.nuget.org/packages/SharedMemorySN) | 1.0.0 | Justin Stenning | Strong-named shared memory primitives for .NET Framework and .NET Standard. |
-| 2026-09-29 06:57:53 | [SevenZipLite.Native](https://www.nuget.org/packages/SevenZipLite.Native) | 0.1.0 | ilwren | 纯 C# 封装（Source-Generated COM + P/Invoke，无第三方依赖）的 7-Zip 读写库，覆盖 7z / zip / tar /… |
-| 2026-09-29 07:01:06 | [DotNetBasics.Charts](https://www.nuget.org/packages/DotNetBasics.Charts) | 1.0.0 | Sergi Ortiz Gomez | Simple charts (Bars, Columns, Pie, Lines, Ring percentage) generated as SVG fro… |
-| 2026-09-29 07:01:27 | [ZhileTime.Hope.AspNetCore.MultiStore](https://www.nuget.org/packages/ZhileTime.Hope.AspNetCore.MultiStore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AspNetCore.MultiStor… |
-| 2026-09-29 07:01:40 | [ZhileTime.Hope.AIAgentManagement.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Ht… |
-| 2026-09-29 07:01:54 | [ZhileTime.Hope.Alerting.Domain](https://www.nuget.org/packages/ZhileTime.Hope.Alerting.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Alerting.Domain. |
-| 2026-09-29 07:03:00 | [ZhileTime.Hope.BillingManagement.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Ht… |
-| 2026-09-29 07:04:42 | [SMTPing.EmailVerifier](https://www.nuget.org/packages/SMTPing.EmailVerifier) | 1.0.0 | SMTPing | SMTPing Email Verifier: official .NET SDK for the SMTPing email verification AP… |
-| 2026-09-29 07:04:50 | [DotnetKit.MetricFlow.OpenTelemetry](https://www.nuget.org/packages/DotnetKit.MetricFlow.OpenTelemetry) | 1.0.51 | Evodim | OpenTelemetry integration for MetricFlow, providing automated meter binding, OT… |
-| 2026-09-29 07:12:40 | [ZhileTime.Docs.Common.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Docs.Common.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Docs.Common.HttpApi.Clien… |
-| 2026-09-29 07:14:26 | [ZhileTime.Hope.Gdpr.Domain](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Domain. |
-| 2026-09-29 07:14:39 | [ZhileTime.Hope.Gdpr.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.HttpApi.Client. |
-| 2026-09-29 07:14:53 | [ZhileTime.Hope.Gdpr.Blazor](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Blazor) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Blazor. |
-| 2026-09-29 07:15:20 | [ZhileTime.Hope.KnowledgeManagement.Domain](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
-| 2026-09-29 07:15:33 | [ZhileTime.Hope.KnowledgeManagement.HttpApi.Client](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.HttpApi.Client) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
+| 2026-09-29 07:20:58 | [ZhileTime.Hope.SubscriptionManagement.Application.Contracts](https://www.nuget.org/packages/ZhileTime.Hope.SubscriptionManagement.Application.Contracts) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.SubscriptionManageme… |
+| 2026-09-29 07:27:59 | [ZhileTime.Hope.RealTime.SignalR](https://www.nuget.org/packages/ZhileTime.Hope.RealTime.SignalR) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.RealTime.SignalR. |
+| 2026-09-29 07:28:52 | [ZhileTime.Hope.AIAgentManagement.Domain](https://www.nuget.org/packages/ZhileTime.Hope.AIAgentManagement.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Do… |
+| 2026-09-29 07:29:06 | [ZhileTime.Hope.Alerting.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.Alerting.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Alerting.EntityFrame… |
+| 2026-09-29 07:29:44 | [ZhileTime.Hope.PermissionManagement.Domain.ApiKey](https://www.nuget.org/packages/ZhileTime.Hope.PermissionManagement.Domain.ApiKey) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.PermissionManagement… |
+| 2026-09-29 07:31:28 | [ZhileTime.Hope.BillingManagement.Domain](https://www.nuget.org/packages/ZhileTime.Hope.BillingManagement.Domain) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Do… |
+| 2026-09-29 07:32:50 | [ZhileTime.Hope.ChatAI.Domain.Shared](https://www.nuget.org/packages/ZhileTime.Hope.ChatAI.Domain.Shared) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.ChatAI.Domain.Shared. |
+| 2026-09-29 07:34:23 | [EngineeringUnits.Fast](https://www.nuget.org/packages/EngineeringUnits.Fast) | 2.2.149 | Mads Kirk Foged | Struct-based EngineeringUnits: every quantity is a plain double at runtime. Uni… |
+| 2026-09-29 07:35:29 | [ZhileTime.Docs.Common.Application](https://www.nuget.org/packages/ZhileTime.Docs.Common.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Docs.Common.Application. |
+| 2026-09-29 07:38:45 | [ZhileTime.Hope.Gdpr.Application](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.Application. |
+| 2026-09-29 07:38:59 | [ZhileTime.Hope.Gdpr.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.EntityFramework… |
+| 2026-09-29 07:39:13 | [ZhileTime.Hope.Gdpr.MongoDB](https://www.nuget.org/packages/ZhileTime.Hope.Gdpr.MongoDB) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.Gdpr.MongoDB. |
+| 2026-09-29 07:40:20 | [ZhileTime.Hope.KnowledgeManagement.Application](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.Application) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
+| 2026-09-29 07:40:33 | [ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
+| 2026-09-29 07:40:47 | [ZhileTime.Hope.KnowledgeManagement.Elasticsearch](https://www.nuget.org/packages/ZhileTime.Hope.KnowledgeManagement.Elasticsearch) | 7.0.0 | ZhileTime | HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.… |
+| 2026-09-29 07:40:58 | [KetPsi.Endpoints.Http](https://www.nuget.org/packages/KetPsi.Endpoints.Http) | 1.0.0 | KetPsi ,MohamadArsalan Imamve… | Source-generated ASP.NET Core Minimal APIs from plain handler classes. MapGet/M… |
+| 2026-09-29 07:53:20 | [ThinCam](https://www.nuget.org/packages/ThinCam) | 1.0.0.120 | Thilo Viereck | Thin, platform-native camera frame capture and camera controls for .NET. |
+| 2026-09-29 07:53:29 | [ThinCam.Avalonia](https://www.nuget.org/packages/ThinCam.Avalonia) | 1.0.0.120 | Thilo Viereck | Reusable Avalonia Skia preview controls and presentation sources for ThinCam. |
+| 2026-09-29 07:53:40 | [ThinCam.SkiaSharp](https://www.nuget.org/packages/ThinCam.SkiaSharp) | 1.0.0.120 | Thilo Viereck | Stride-aware SkiaSharp conversion, presentation transforms, encoding, and reusa… |
+| 2026-09-29 08:00:10 | [TGateway.Application](https://www.nuget.org/packages/TGateway.Application) | 2.2.46 | TGateway.Application | Package Description |
+| 2026-09-29 08:00:13 | [TGateway.ExpressionsGenerator](https://www.nuget.org/packages/TGateway.ExpressionsGenerator) | 2.0.45 | TGateway.ExpressionsGenerator | Package Description |
+| 2026-09-29 08:00:28 | [TGateway.Frontend](https://www.nuget.org/packages/TGateway.Frontend) | 2.2.46 | TGateway.Frontend | Package Description |
+| 2026-09-29 08:00:30 | [TGateway.License.Core](https://www.nuget.org/packages/TGateway.License.Core) | 2.2.46 | TGateway.License.Core | Package Description |
+| 2026-09-29 08:00:34 | [TGateway.NOAOTFoundation](https://www.nuget.org/packages/TGateway.NOAOTFoundation) | 2.2.46 | TGateway.NOAOTFoundation | Package Description |
+| 2026-09-29 08:00:38 | [TGateway.NOAOTPlugin](https://www.nuget.org/packages/TGateway.NOAOTPlugin) | 2.2.46 | TGateway.NOAOTPlugin | Package Description |
+| 2026-09-29 08:00:46 | [TGateway.NOAOTPROFoundation](https://www.nuget.org/packages/TGateway.NOAOTPROFoundation) | 2.2.46 | TGateway.NOAOTPROFoundation | Package Description |
+| 2026-09-29 08:00:51 | [TGateway.NOAOTPROPlugin](https://www.nuget.org/packages/TGateway.NOAOTPROPlugin) | 2.2.46 | TGateway.NOAOTPROPlugin | Package Description |
+| 2026-09-29 08:00:56 | [TGateway.PluginsGenerator](https://www.nuget.org/packages/TGateway.PluginsGenerator) | 2.0.45 | TGateway.PluginsGenerator | Package Description |
+| 2026-09-29 08:04:39 | [Blipit](https://www.nuget.org/packages/Blipit) | 0.1.0 | Louward Labs | Blipit error monitoring for .NET. Know your app broke before your users tell yo… |
+| 2026-09-29 08:06:05 | [Bizgo.Sdk.Comm](https://www.nuget.org/packages/Bizgo.Sdk.Comm) | 1.2.0 | icomm-api | .NET SDK for the Bizgo Communication API: SMS/LMS/MMS, international SMS, RCS,… |
+| 2026-09-29 08:06:06 | [Bizgo.Sdk.Comm.Testing](https://www.nuget.org/packages/Bizgo.Sdk.Comm.Testing) | 1.2.0 | icomm-api | Offline test helpers for Bizgo.Sdk.Comm: a fake HttpMessageHandler with request… |
+| 2026-09-29 08:15:53 | [Papuma.Kernel.Mcp](https://www.nuget.org/packages/Papuma.Kernel.Mcp) | 2.1.0 | Harald Lapp | Model Context Protocol (MCP) server tools for Papuma.Kernel — exposes model int… |
+| 2026-09-29 08:15:54 | [Papuma.Kernel.Testing](https://www.nuget.org/packages/Papuma.Kernel.Testing) | 2.1.0 | Harald Lapp | Integration-test support for applications on Papuma.Kernel — a PostgreSQL 18 te… |
+| 2026-09-29 08:15:55 | [Papuma.Kernel.AspNetCore](https://www.nuget.org/packages/Papuma.Kernel.AspNetCore) | 2.1.0 | Harald Lapp | Optional ASP.NET Core integration for Papuma.Kernel — tenant scope resolution m… |
+| 2026-09-29 08:15:56 | [Papuma.Kernel.Local](https://www.nuget.org/packages/Papuma.Kernel.Local) | 2.1.0 | Harald Lapp | SQLite-backed embedded sibling of Papuma.Kernel for single-writer desktop/local… |
+| 2026-09-29 08:15:57 | [Papuma.Kernel](https://www.nuget.org/packages/Papuma.Kernel) | 2.1.0 | Harald Lapp | PostgreSQL-based document-sourced application kernel for .NET 10 — documents as… |
+| 2026-09-29 08:15:57 | [Papuma.Kernel.FSharp](https://www.nuget.org/packages/Papuma.Kernel.FSharp) | 2.1.0 | Harald Lapp | F#-idiomatic facade over Papuma Kernel's write path: Result<T,KernelError> inst… |
 
 ## Data source
 
