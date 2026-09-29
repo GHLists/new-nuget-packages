@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-09-29T18:31:30.603Z,GitExtensions.SonetaHarfa,1.0.0,Soneta Harfa,"Soneta Harfa: Git — zmiany schematu business.xml, stan roboczy vs HEAD, opis commita i porównywanie plików w Git Extensions."
+2026-09-29T18:46:08.4Z,CodeTranspiler.Managed,0.4.1,Tarek Wasfy and contributors,"Dependency-free managed code transpiler with semantic IR, fragment fallback routing, CLI, local browser GUI, and emitters for R, Go, Python, Rust, C, C++, Zig, Julia, Nim, C#, Java, Kotlin, and Swift."
+2026-09-29T18:47:58.163Z,KUKULCAN.SharedKernel.Auth,1.0.0,Kukulcán Software Designer,"Provides authentication and authorization components for the KUKULCAN architecture, including local authentication, federated credential validation, multi-tenant identity management, user and tenant membership handling, and authentication infrastructure. Designed to provide consistent, reusable, an…"
+2026-09-29T18:49:15.817Z,GameEventScript.Tool,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:17.367Z,GameEventScript.Tool.Aot.win-x64,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:19.16Z,GameEventScript.Tool.Aot.win-arm64,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:20.613Z,GameEventScript.Tool.Aot.linux-x64,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:22.02Z,GameEventScript.Tool.Aot.linux-arm64,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:23.49Z,GameEventScript.Tool.Aot.osx-x64,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:25.247Z,GameEventScript.Tool.Aot.osx-arm64,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:49:26.31Z,GameEventScript.Tool.Aot,0.3.0,Stephan Schlöpke,Command-line entry point for Game Event Script.
+2026-09-29T18:57:09.897Z,Raukeld.Anvil,0.1.0,Anvil contributors,Server-rendered .NET application framework built on ASP.NET Core and Razor.
+2026-09-29T18:57:30.327Z,Raukeld.Anvil.Razor,0.1.0,Anvil contributors,Razor components and browser runtime for the Anvil server-rendered framework.
+2026-09-29T18:58:23.783Z,Raukeld.Anvil.Cli,0.1.0,Anvil contributors,CLI tools for Anvil applications.
+2026-09-29T19:03:16.357Z,Appouse.Safetalk.Core,1.0.0,Appouse,Core primitives of Appouse.Safetalk: request canonicalization and HMAC-SHA256 signing/verification for secure server-to-server (B2B) communication.
+2026-09-29T19:03:17.39Z,Appouse.Safetalk.Abstractions,1.0.0,Appouse,"Dependency-free contracts of Appouse.Safetalk (IHmacSignatureService, IHmacSecretProvider, IHmacReplayCache, header names). Reference this package from infrastructure/domain layers that implement secret stores or replay caches without taking a dependency on ASP.NET Core or HttpClient."
+2026-09-29T19:03:18.237Z,Appouse.Safetalk.Client,1.0.0,Appouse,"HttpClient integration for Appouse.Safetalk: a DelegatingHandler that signs outgoing requests with HMAC-SHA256 (X-Signature, X-Timestamp, X-Client-Id) and IHttpClientFactory registration helpers."
+2026-09-29T19:03:19.197Z,Appouse.Safetalk.Server,1.0.0,Appouse,"ASP.NET Core integration for Appouse.Safetalk: a middleware that verifies HMAC-SHA256 signed requests (X-Signature, X-Timestamp, X-Client-Id) with replay protection and pluggable secret providers."

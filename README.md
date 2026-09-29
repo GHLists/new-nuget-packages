@@ -12,31 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:20 UTC
+## Latest list — 2026-09-29 19:20 UTC
 
-New packages created between 2026-09-29 17:19 UTC and 2026-09-29 18:20 UTC.
+New packages created between 2026-09-29 18:20 UTC and 2026-09-29 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T18-20-08-51405Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-29T19-20-22-720316Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 17:21:16 | [FauxData](https://www.nuget.org/packages/FauxData) | 1.0.1 | Dieter Van Broeck | Fake data generator with rule-based configuration. |
-| 2026-09-29 17:25:48 | [D20Tek.BlazorComponents.Menus](https://www.nuget.org/packages/D20Tek.BlazorComponents.Menus) | 1.11.19 | DarthPedro | A Blazor component for providing a self-positioning FlyoutMenu (popover) trigge… |
-| 2026-09-29 17:30:16 | [Bladehero.Telegram.Platform.Testing](https://www.nuget.org/packages/Bladehero.Telegram.Platform.Testing) | 10.1.0 | bladehero | Component tests for Telegram bots built on Bladehero.Telegram.Platform: runs th… |
-| 2026-09-29 17:31:08 | [RedSkia.Licensing.Wpf](https://www.nuget.org/packages/RedSkia.Licensing.Wpf) | 1.1.0 | RedSkia | Activation window and start-up gate for WPF apps licensed through redskia.dev.… |
-| 2026-09-29 17:31:09 | [RedSkia.Licensing](https://www.nuget.org/packages/RedSkia.Licensing) | 1.1.0 | RedSkia | Licence activation and offline ES256 token verification for software sold on re… |
-| 2026-09-29 17:40:37 | [Idrak](https://www.nuget.org/packages/Idrak) | 0.1.0 | Ahmed Seada | Self-contained neural network library for .NET: tensors, autograd, layers and o… |
-| 2026-09-29 17:40:38 | [Idrak.AspNetCore](https://www.nuget.org/packages/Idrak.AspNetCore) | 0.1.0 | Ahmed Seada | ASP.NET Core integration for Idrak: registers an InferenceEngine in dependency… |
-| 2026-09-29 17:40:39 | [Idrak.Datasets](https://www.nuget.org/packages/Idrak.Datasets) | 0.1.0 | Ahmed Seada | Datasets for Idrak (no dependencies): read JSON Lines, JSON, CSV, text and Parq… |
-| 2026-09-29 17:40:40 | [Idrak.Datasets.Cli](https://www.nuget.org/packages/Idrak.Datasets.Cli) | 0.1.0 | Ahmed Seada | idrak-data: inspect, count, download and assemble training datasets from Huggin… |
-| 2026-09-29 17:40:42 | [Idrak.FineTuning.Cli](https://www.nuget.org/packages/Idrak.FineTuning.Cli) | 0.1.0 | Ahmed Seada | idrak-tune: fine-tune pretrained language models (LoRA / QLoRA) on any dataset… |
-| 2026-09-29 17:40:44 | [Idrak.LanguageModels](https://www.nuget.org/packages/Idrak.LanguageModels) | 0.1.0 | Ahmed Seada | Language models for Idrak (no dependencies): load Llama, Qwen, Mistral and Gemm… |
-| 2026-09-29 17:40:45 | [Idrak.Mcp](https://www.nuget.org/packages/Idrak.Mcp) | 0.1.0 | Ahmed Seada | Model Context Protocol for Idrak: use the tools of MCP servers in conversations… |
-| 2026-09-29 17:40:46 | [Idrak.Onnx](https://www.nuget.org/packages/Idrak.Onnx) | 0.1.0 | Ahmed Seada | ONNX export for Idrak models (no dependencies): networks become .onnx files tha… |
-| 2026-09-29 17:40:47 | [Idrak.Onnx.Runtime](https://www.nuget.org/packages/Idrak.Onnx.Runtime) | 0.1.0 | Ahmed Seada | Runs ONNX models (exported by Idrak.Onnx or any other tool) with ONNX Runtime a… |
-| 2026-09-29 17:44:32 | [Polhem.Core](https://www.nuget.org/packages/Polhem.Core) | 1.1.0 | Polhem contributors | Base infrastructure for the Polhem framework, including collections, serializat… |
-| 2026-09-29 18:06:22 | [tallyman](https://www.nuget.org/packages/tallyman) | 1.0.2 | Jaeymo | Tallyman counts lines in every file under a directory. |
-| 2026-09-29 18:09:24 | [OmronEip](https://www.nuget.org/packages/OmronEip) | 0.2.4 | ImThatGuy | .NET client for Omron NX/NJ Sysmac controllers over EtherNet/IP (symbolic tag a… |
+| 2026-09-29 18:31:30 | [GitExtensions.SonetaHarfa](https://www.nuget.org/packages/GitExtensions.SonetaHarfa) | 1.0.0 | Soneta Harfa | Soneta Harfa: Git — zmiany schematu business.xml, stan roboczy vs HEAD, opis co… |
+| 2026-09-29 18:46:08 | [CodeTranspiler.Managed](https://www.nuget.org/packages/CodeTranspiler.Managed) | 0.4.1 | Tarek Wasfy and contributors | Dependency-free managed code transpiler with semantic IR, fragment fallback rou… |
+| 2026-09-29 18:47:58 | [KUKULCAN.SharedKernel.Auth](https://www.nuget.org/packages/KUKULCAN.SharedKernel.Auth) | 1.0.0 | Kukulcán Software Designer | Provides authentication and authorization components for the KUKULCAN architect… |
+| 2026-09-29 18:49:15 | [GameEventScript.Tool](https://www.nuget.org/packages/GameEventScript.Tool) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:17 | [GameEventScript.Tool.Aot.win-x64](https://www.nuget.org/packages/GameEventScript.Tool.Aot.win-x64) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:19 | [GameEventScript.Tool.Aot.win-arm64](https://www.nuget.org/packages/GameEventScript.Tool.Aot.win-arm64) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:20 | [GameEventScript.Tool.Aot.linux-x64](https://www.nuget.org/packages/GameEventScript.Tool.Aot.linux-x64) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:22 | [GameEventScript.Tool.Aot.linux-arm64](https://www.nuget.org/packages/GameEventScript.Tool.Aot.linux-arm64) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:23 | [GameEventScript.Tool.Aot.osx-x64](https://www.nuget.org/packages/GameEventScript.Tool.Aot.osx-x64) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:25 | [GameEventScript.Tool.Aot.osx-arm64](https://www.nuget.org/packages/GameEventScript.Tool.Aot.osx-arm64) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:49:26 | [GameEventScript.Tool.Aot](https://www.nuget.org/packages/GameEventScript.Tool.Aot) | 0.3.0 | Stephan Schlöpke | Command-line entry point for Game Event Script. |
+| 2026-09-29 18:57:09 | [Raukeld.Anvil](https://www.nuget.org/packages/Raukeld.Anvil) | 0.1.0 | Anvil contributors | Server-rendered .NET application framework built on ASP.NET Core and Razor. |
+| 2026-09-29 18:57:30 | [Raukeld.Anvil.Razor](https://www.nuget.org/packages/Raukeld.Anvil.Razor) | 0.1.0 | Anvil contributors | Razor components and browser runtime for the Anvil server-rendered framework. |
+| 2026-09-29 18:58:23 | [Raukeld.Anvil.Cli](https://www.nuget.org/packages/Raukeld.Anvil.Cli) | 0.1.0 | Anvil contributors | CLI tools for Anvil applications. |
+| 2026-09-29 19:03:16 | [Appouse.Safetalk.Core](https://www.nuget.org/packages/Appouse.Safetalk.Core) | 1.0.0 | Appouse | Core primitives of Appouse.Safetalk: request canonicalization and HMAC-SHA256 s… |
+| 2026-09-29 19:03:17 | [Appouse.Safetalk.Abstractions](https://www.nuget.org/packages/Appouse.Safetalk.Abstractions) | 1.0.0 | Appouse | Dependency-free contracts of Appouse.Safetalk (IHmacSignatureService, IHmacSecr… |
+| 2026-09-29 19:03:18 | [Appouse.Safetalk.Client](https://www.nuget.org/packages/Appouse.Safetalk.Client) | 1.0.0 | Appouse | HttpClient integration for Appouse.Safetalk: a DelegatingHandler that signs out… |
+| 2026-09-29 19:03:19 | [Appouse.Safetalk.Server](https://www.nuget.org/packages/Appouse.Safetalk.Server) | 1.0.0 | Appouse | ASP.NET Core integration for Appouse.Safetalk: a middleware that verifies HMAC-… |
 
 ## Data source
 
