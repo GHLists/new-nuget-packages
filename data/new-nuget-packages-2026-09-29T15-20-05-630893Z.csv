@@ -1,0 +1,66 @@
+created_at,package,version,authors,description
+2026-09-29T14:20:47.673Z,Purview.ZodSharp.SystemTextJson,2.0.0,"ZodSharp Contributors,Purview-Dev Contributors","A high-performance C# port of Zod schema validation library. Features zero-allocation validation, struct-based rules, fluent API, and source generator support for maximum performance."
+2026-09-29T14:20:47.707Z,Purview.ZodSharp,2.0.0,"ZodSharp Contributors,Purview-Dev Contributors","A high-performance C# port of Zod schema validation library. Features zero-allocation validation, struct-based rules, fluent API, and source generator support for maximum performance."
+2026-09-29T14:20:47.743Z,Purview.ZodSharp.NewtonsoftJson,2.0.0,"ZodSharp Contributors,Purview-Dev Contributors","A high-performance C# port of Zod schema validation library. Features zero-allocation validation, struct-based rules, fluent API, and source generator support for maximum performance."
+2026-09-29T14:20:48.1Z,Purview.ZodSharp.AspNetCore,2.0.0,"ZodSharp Contributors,Purview-Dev Contributors",ASP.NET Core ProblemDetails integration for ZodSharp validation results.
+2026-09-29T14:24:53.48Z,NoteSpace.Storage,0.1.0,Wiesław Šoltés,"NoteSpace persistence contracts, atomic file storage, and interchange."
+2026-09-29T14:24:54.247Z,NoteSpace.Controls,0.1.0,Wiesław Šoltés,"Reusable Uno Platform notebook canvas, ribbon, navigation, and theme controls."
+2026-09-29T14:24:54.89Z,NoteSpace.Core,0.1.0,Wiesław Šoltés,Portable NoteSpace notebook document model and validated JSON interchange.
+2026-09-29T14:24:55.477Z,NoteSpace.Editor,0.1.0,Wiesław Šoltés,"Undoable NoteSpace document editing, search, and ink geometry."
+2026-09-29T14:24:59.06Z,NoteSpace.Rendering.Skia,0.1.0,Wiesław Šoltés,"Independent SkiaSharp notebook rendering, layout, and image export."
+2026-09-29T14:27:05.777Z,Maquettiste.Engine,0.1.0,Matt Cowan,"The Maquettiste model loader, validator, resolver, Scriban renderer, Jint sandbox and output writer."
+2026-09-29T14:27:06.84Z,Maquettiste.Cli.linux-arm64,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:07.883Z,Maquettiste.Cli.osx-x64,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:08.373Z,Maquettiste.Cli,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:09.34Z,Maquettiste.Cli.win-x64,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:10.14Z,Maquettiste.Cli.linux-x64,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:11.277Z,Maquettiste.Cli.win-arm64,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:12.123Z,Maquettiste.Cli.osx-arm64,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:27:12.76Z,Maquettiste.Cli.any,0.1.0,Matt Cowan,"The maquettiste command-line tool: init, validate, generate, migrate, pack new, bench and mcp."
+2026-09-29T14:31:30.76Z,MasjidPrayerApi.Repository,1.0.0,MasjidPrayerApi.Repository,Package Description
+2026-09-29T14:32:04.98Z,MasjidPrayerApi.Services,1.0.0,MasjidPrayerApi.Services,Package Description
+2026-09-29T14:32:49.383Z,PresentationSpace.Controls.Uno,0.6.0,Wiesław Šoltés,"Reusable slide viewport, filmstrip, inspector, notes, sorter and presenter controls for Uno Platform."
+2026-09-29T14:32:50.27Z,PresentationSpace.Formats,0.6.0,Wiesław Šoltés,"Bounded, dependency-free PresentationML import and editable PowerPoint export."
+2026-09-29T14:32:51.003Z,PresentationSpace.Ribbon.Uno,0.6.0,Wiesław Šoltés,"Reusable Office-style ribbon tabs, groups and command controls for Uno Platform."
+2026-09-29T14:32:51.717Z,PresentationSpace.Core,0.6.0,Wiesław Šoltés,"Immutable presentation model, geometry, editing commands and transactional undo without a UI dependency."
+2026-09-29T14:32:52.503Z,PresentationSpace.Rendering.Skia,0.6.0,Wiesław Šoltés,"Reusable SkiaSharp slide rendering, thumbnails, PNG and PDF export."
+2026-09-29T14:32:53.287Z,PresentationSpace.Editor.Uno,0.6.0,Wiesław Šoltés,Embeddable Office-style presentation editing workspace with pluggable storage for Uno Platform.
+2026-09-29T14:34:11.297Z,GitSpace.Rendering.Skia,0.1.0,Wiesław Šoltés,"Viewport-virtualized, reusable Skia unified and split Git diff renderer."
+2026-09-29T14:34:12.007Z,GitSpace.Controls.Uno,0.1.0,Wiesław Šoltés,"Custom compact Uno Git client controls: repository toolbar, change list, history, commit composer, diff viewport and resizable panels."
+2026-09-29T14:34:12.647Z,GitSpace.Diff,0.1.0,Wiesław Šoltés,"Bounded Myers line diff, split alignment, intraline spans and viewport calculations."
+2026-09-29T14:34:13.32Z,GitSpace.Core,0.1.0,Wiesław Šoltés,"Portable GitSpace repository contracts, safety validation and workspace models."
+2026-09-29T14:34:13.97Z,GitSpace.Git,0.1.0,Wiesław Šoltés,"Asynchronous safe-argument system Git backend with cancellation, repository serialization and bounded output."
+2026-09-29T14:34:14.8Z,GitSpace.Workbench.Uno,0.1.0,Wiesław Šoltés,Embeddable Git client workbench composed of reusable Uno controls and an injected repository backend.
+2026-09-29T14:34:15.53Z,GitSpace.Hosting.GitHub,0.1.0,Wiesław Šoltés,Independently reusable GitHub pull-request HTTP client with session-scoped credentials and bounded responses.
+2026-09-29T14:36:03.737Z,CodeSpace.Rendering.Skia,0.1.0,Wiesław Šoltés,"CodeSpace SkiaSharp editor renderer and viewport: cached line layout, highlighting, selections and caret drawing on any SKCanvas."
+2026-09-29T14:36:04.487Z,CodeSpace.Docking,0.1.0,Wiesław Šoltés,CodeSpace docking model: immutable split/tab editor-group layouts and layout persistence with no UI dependency.
+2026-09-29T14:36:05.277Z,CodeSpace.Workbench.Uno,0.1.0,Wiesław Šoltés,Composable VS Code-style workbench with custom Uno components.
+2026-09-29T14:36:06.1Z,CodeSpace.Extensions,0.1.0,Wiesław Šoltés,"CodeSpace extension support: VSIX inspection, VS Code API compatibility reports and extension-host RPC framing."
+2026-09-29T14:36:06.867Z,CodeSpace.Core,0.1.0,Wiesław Šoltés,"CodeSpace core engine: persistent rope-based text buffers, virtual workspace, commands and configuration with no UI dependency."
+2026-09-29T14:36:07.627Z,CodeSpace.Controls.Uno,0.1.0,Wiesław Šoltés,"Reusable custom Uno editor, input bridge, explorer, activity bar, tabs, splitter and quick-pick controls."
+2026-09-29T14:36:08.3Z,CodeSpace.Editor,0.1.0,Wiesław Šoltés,"CodeSpace editor engine: transactions, multi-selections, undo/redo history and folding indexes with no UI dependency."
+2026-09-29T14:36:08.98Z,CodeSpace.Languages,0.1.0,Wiesław Šoltés,CodeSpace language services: incremental tokenizer and lexical services for syntax highlighting with no UI dependency.
+2026-09-29T14:36:12.573Z,ControlSpace.Engineering,0.1.0,Wiesław Šoltés,"ControlSpace engineering transactions: validated edits, undo/redo, reference-safe renaming, program editing, workbench layout and editor sessions."
+2026-09-29T14:36:13.237Z,ControlSpace.Simulation,0.1.0,Wiesław Šoltés,"ControlSpace deterministic virtual PLC: scan-order execution, input image, forcing, timers/counters and bounded trace history."
+2026-09-29T14:36:13.887Z,ControlSpace.Languages,0.1.0,Wiesław Šoltés,"ControlSpace bounded SCL parser, ladder (LAD) compiler and typed intermediate representation for simulated PLC programs."
+2026-09-29T14:36:14.537Z,ControlSpace.Rendering.Skia,0.1.0,Wiesław Šoltés,"ControlSpace shared SkiaSharp vector rendering for ladder networks, hardware and HMI views, with hit regions and culling."
+2026-09-29T14:36:15.18Z,ControlSpace.Storage,0.1.0,Wiesław Šoltés,"ControlSpace persistence: versioned JSON projects, CSV tag interchange, import limits and atomic filesystem saves."
+2026-09-29T14:36:15.913Z,ControlSpace.Workbench.Uno,0.1.0,Wiesław Šoltés,"ControlSpace composable Uno Platform engineering workbench (project view, portal view, task cards, inspector) for desktop and browser hosts."
+2026-09-29T14:36:16.607Z,ControlSpace.Controls.Uno,0.1.0,Wiesław Šoltés,"ControlSpace Uno Platform controls: Skia engineering canvas, virtualized tag table, project tree, theme, pane chrome, splitters and editor bar."
+2026-09-29T14:36:17.263Z,ControlSpace.Core,0.1.0,Wiesław Šoltés,"ControlSpace typed automation-engineering model: PLC tags, programs, devices and HMI screens with validation and detached snapshots."
+2026-09-29T14:38:29.81Z,CadSpace.Geometry,0.1.0,Wiesław Šoltés,"Double-precision CAD geometry for CadSpace: vectors, transforms, OCS, rays/planes, intersections, triangulation and spatial indexing."
+2026-09-29T14:38:30.5Z,CadSpace.Engine,0.1.0,Wiesław Šoltés,"CadSpace editing engine: sessions, commands, selection, grips, snapping, undoable edits and workspace preferences."
+2026-09-29T14:38:31.273Z,CadSpace.Controls,0.1.0,Wiesław Šoltés,"Uno Platform CAD workspace controls for CadSpace: viewport, ribbon, palettes, managers, command console and navigation."
+2026-09-29T14:38:32.073Z,CadSpace.Model,0.1.0,Wiesław Šoltés,"Immutable CadSpace drawing model: geometry, styles, blocks, scene cache, spline, hatch and mesh algorithms."
+2026-09-29T14:38:32.773Z,CadSpace.Rendering,0.1.0,Wiesław Šoltés,"CadSpace rendering: cameras, SkiaSharp 2D drafting and OpenGL geometry, text, pattern and selection passes."
+2026-09-29T14:38:33.56Z,CadSpace.Dxf,0.1.0,Wiesław Šoltés,"DXF reading and writing (ASCII and binary), native CadSpace projects and a checksummed recovery journal."
+2026-09-29T14:42:05.57Z,FastParser.Language.Plsql,0.1.4,natan-sysview,FastParse plsql language extension native assets.
+2026-09-29T14:57:41.87Z,RonSijm.RepoGen,0.0.1,Ron Sijm,Public attributes for generating strongly typed Entity Framework selectors.
+2026-09-29T14:57:42.97Z,RonSijm.RepoGen.Design,0.0.1,Ron Sijm,Code-first design-time configuration API for RonSijm.RepoGen repositories.
+2026-09-29T14:57:44.073Z,RonSijm.RepoGen.EntityFrameworkCore,0.0.1,Ron Sijm,Entity Framework Core integration dependency for RonSijm.RepoGen.
+2026-09-29T14:57:45.167Z,RonSijm.RepoGen.Generator,0.0.1,Ron Sijm,Incremental source generator for RonSijm.RepoGen.
+2026-09-29T14:57:46.353Z,RonSijm.RepoGen.Tool,0.0.1,Ron Sijm,Design-time EF Core repository generator for RonSijm.RepoGen.
+2026-09-29T15:00:16.107Z,Hayou.Abp.WebExtensions,0.0.1,hayou,用户/租户/角色的 Web 层扩展：实体扩展属性的声明入口、用户详情与重置密码弹窗、列表扩展属性自动成列、账户与邮件服务替换、按域名租户 Code 的解析器。扩展属性只写 ExtraProperties，不新增数据库列。
+2026-09-29T15:06:36.92Z,nanoFramework.EspNow,1.0.6,nanoFramework,This package includes the nanoFramework.EspNow assembly for nanoFramework C# projects. This package requires a target with nanoFramework.EspNow v100.0.0.1 (checksum 0x1B1730D1).
+2026-09-29T15:07:46.843Z,DeepSharp.Verso.Api,0.3.0,H.P. Gansevoort,"An application of your own that hosts DeepSharp's notebook: Verso's engine with the notebook's parts registered by the package itself, one open notebook for each file however many views show it, every view told what changed, and its cells and what they show as plain values."
+2026-09-29T15:07:50.787Z,DeepSharp.Verso.Serve,0.3.0,H.P. Gansevoort,"DeepSharp's own server: the notebook in your browser, on Verso's engine, with nothing else to install. Run deepsharp-serve beside a notebook; it listens on this computer alone and asks for the token it prints."
