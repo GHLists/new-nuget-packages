@@ -1,0 +1,54 @@
+created_at,package,version,authors,description
+2026-09-29T08:28:28.897Z,ZhileTime.Hope.PointManagement.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.PointManagement.HttpApi.Client.
+2026-09-29T08:28:42.203Z,ZhileTime.Hope.PointManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.PointManagement.EntityFrameworkCore.
+2026-09-29T08:28:55.57Z,ZhileTime.Hope.PointManagement.MongoDB,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.PointManagement.MongoDB.
+2026-09-29T08:30:27.027Z,ZhileTime.Hope.RulesEngine.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Application.
+2026-09-29T08:30:40.75Z,ZhileTime.Hope.RulesEngine.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.HttpApi.Client.
+2026-09-29T08:30:54.16Z,ZhileTime.Hope.RulesEngine.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.EntityFrameworkCore.
+2026-09-29T08:31:07.573Z,ZhileTime.Hope.RulesEngine.MongoDB,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.MongoDB.
+2026-09-29T08:31:21.12Z,ZhileTime.Hope.RulesEngine.Blazor,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.RulesEngine.Blazor.
+2026-09-29T08:33:45.95Z,ZhileTime.Hope.SubscriptionManagement.HttpApi.Client,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.SubscriptionManagement.HttpApi.Client.
+2026-09-29T08:42:21.58Z,ZhileTime.Hope.Notifications.WeCom,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Notifications.WeCom.
+2026-09-29T08:43:01.41Z,ZhileTime.Hope.AIAgentManagement.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.Application.
+2026-09-29T08:43:16.83Z,ZhileTime.Hope.AIAgentManagement.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.HttpApi.
+2026-09-29T08:43:30.38Z,ZhileTime.Hope.AIAgentManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.AIAgentManagement.EntityFrameworkCore.
+2026-09-29T08:43:43.963Z,ZhileTime.Hope.Alerting.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Alerting.Application.
+2026-09-29T08:43:57.35Z,ZhileTime.Hope.Alerting.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Alerting.HttpApi.
+2026-09-29T08:46:34.477Z,ZhileTime.Hope.BillingManagement.Application,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.Application.
+2026-09-29T08:46:48.497Z,ZhileTime.Hope.BillingManagement.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.HttpApi.
+2026-09-29T08:47:01.897Z,ZhileTime.Hope.BillingManagement.EntityFrameworkCore,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.BillingManagement.EntityFrameworkCore.
+2026-09-29T08:49:52.643Z,ZhileTime.Hope.ChatAI.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ChatAI.Application.Contracts.
+2026-09-29T08:51:13.247Z,ZhileTime.Hope.ConsentManagement.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.Domain.
+2026-09-29T08:51:26.54Z,ZhileTime.Hope.ConsentManagement.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ConsentManagement.HttpApi.
+2026-09-29T08:51:40.1Z,ZhileTime.Hope.ContractManagement.Domain,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ContractManagement.Domain.
+2026-09-29T08:51:53.687Z,ZhileTime.Hope.ContractManagement.Application.Contracts,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.ContractManagement.Application.Contracts.
+2026-09-29T08:53:00.59Z,ZhileTime.Docs.Common.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Docs.Common.HttpApi.
+2026-09-29T08:53:15.54Z,ToucanHub.EventStore.Abstractions,0.0.1,junglistkirss,EventStore abstractions
+2026-09-29T08:53:16.31Z,ToucanHub.EventStore.Abstractions.Subscriptions,0.0.1,junglistkirss,EventStore Extensions
+2026-09-29T08:53:17.293Z,ToucanHub.EventStore.Client.Abstractions,0.0.1,junglistkirss,EventStore Client abstractions
+2026-09-29T08:53:18.08Z,ToucanHub.EventStore.InMemory,0.0.1,junglistkirss,EventStore InMemory
+2026-09-29T08:53:18.823Z,ToucanHub.EventStore.PgSql,0.0.1,junglistkirss,EventStore for PostgreSql
+2026-09-29T08:53:19.443Z,ToucanHub.EventStore.Primitive.Abstractions,0.0.1,junglistkirss,EventStore.Primitive abstractions
+2026-09-29T08:53:20.137Z,ToucanHub.EventStore.Primitive.PgSql,0.0.1,junglistkirss,EventStore.Primitive for PostgreSQL
+2026-09-29T08:53:20.75Z,ToucanHub.EventStore.ReactiveBus,0.0.1,junglistkirss,Reactive EventStore bus
+2026-09-29T08:53:21.6Z,ToucanHub.EventStore.Subscriptions.PgSql,0.0.1,junglistkirss,EventStore subscriptions for PostgreSql
+2026-09-29T08:54:19.603Z,ZhileTime.Hope.DownloaderCenter.SignalR,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.DownloaderCenter.SignalR.
+2026-09-29T08:56:05.62Z,ZhileTime.Hope.Gdpr.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Gdpr.HttpApi.
+2026-09-29T08:56:12.72Z,PowerTraces.PostgreSQL,1.0.0,PowerTraces contributors,"PostgreSQL provider for PowerTraces — exports traces/logs straight to PostgreSQL via connection string, no EF Core, tables created automatically."
+2026-09-29T08:56:13.463Z,PowerTraces,1.0.0,PowerTraces contributors,"Base package for exporting OpenTelemetry traces/logs straight to a database via connection string — no collector, no EF Core. Database-agnostic on its own; add PowerTraces.MSSQL, .PostgreSQL, .MongoDb, or .MySQL for a concrete database, or implement IStorageWriter yourself for any other one."
+2026-09-29T08:56:14.337Z,PowerTraces.Dashboard,1.0.0,PowerTraces contributors,"Traces/logs viewer UI + query API for the PowerTraces exporter. Mount with app.MapPowerTracesDashboard(connectionString) — no DI registration needed, the UI is embedded in the package."
+2026-09-29T08:56:15.13Z,PowerTraces.MySQL,1.0.0,PowerTraces contributors,"MySQL/MariaDB provider for PowerTraces — exports traces/logs straight to MySQL via connection string, no EF Core, tables created automatically."
+2026-09-29T08:56:15.933Z,PowerTraces.FileSystem,1.0.0,PowerTraces contributors,"Local-filesystem provider for PowerTraces — exports traces/logs straight to JSON files on disk (a folder per day, one file per trace), with automatic retention cleanup. No database at all; meant for local development, small deployments, or as a fallback when a real database isn't available."
+2026-09-29T08:56:19.3Z,PowerTraces.MongoDb,1.0.0,PowerTraces contributors,"MongoDB provider for PowerTraces — exports traces/logs straight to MongoDB via connection string, no EF Core, collections/indexes created automatically."
+2026-09-29T08:56:20.073Z,PowerTraces.MSSQL,1.0.0,PowerTraces contributors,"SQL Server provider for PowerTraces — exports traces/logs straight to SQL Server via connection string, no EF Core, tables created automatically."
+2026-09-29T08:58:16.883Z,ZhileTime.Hope.KnowledgeManagement.HttpApi,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.HttpApi.
+2026-09-29T08:58:30.907Z,ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore.SqlServer,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.EntityFrameworkCore.SqlServer.
+2026-09-29T08:58:44.263Z,ZhileTime.Hope.KnowledgeManagement.Identity,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.Identity.
+2026-09-29T08:58:57.547Z,ZhileTime.Hope.KnowledgeManagement.AI,7.0.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.KnowledgeManagement.AI.
+2026-09-29T09:00:26.017Z,JsoncPreserve,0.1.0,masapomu,Lossless JSONC editing with System.Text.Json integration for .NET.
+2026-09-29T09:01:44.587Z,Webority.Support.AspNetCore,0.1.0,Webority Technologies,"The customer support API for Webority products: MapWeboritySupportEndpoints adds ticket list, detail, create, reply, reopen, rating, file download and contact settings as one route group the product secures."
+2026-09-29T09:01:46.04Z,Webority.Support,0.1.0,Webority Technologies,"Customer support ticketing for Webority products: the ticket, message and attachment entities, the settings, the seams a product implements, the service contracts, and the support email templates."
+2026-09-29T09:01:47.23Z,Webority.Support.Admin,0.1.0,Webority Technologies,"The support team's pages for Webority admin portals: the ticket queue and the ticket page, in Metronic markup inside the product's own admin layout, under a Support area the product secures with one policy."
+2026-09-29T09:01:48.417Z,Webority.Support.EntityFrameworkCore,0.1.0,Webority Technologies,"Stores Webority support tickets in the product's own database: the entity configuration, the customer and agent services, attachment storage, and the table scripts a product copies into its database project."
+2026-09-29T09:04:58.527Z,Concierge.Platform.CacheClient,1.0.0,THISO,"Redis read client for THISO platform's node-type cache (platform:{nodeType}), published by PlatformService's node-sync job — the read-direction counterpart to Concierge.Platform.SyncClient's HTTP reconciliation client."
+2026-09-29T09:10:06.84Z,JwtHttpClient,1.0.0,Mahdiyeh Dehghan,JWT HTTP Client library for .NET
