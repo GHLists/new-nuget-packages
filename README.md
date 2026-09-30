@@ -12,16 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 23:21 UTC
+## Latest list — 2026-09-30 00:19 UTC
 
-New packages created between 2026-09-29 22:21 UTC and 2026-09-29 23:21 UTC.
+New packages created between 2026-09-29 23:21 UTC and 2026-09-30 00:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-29T23-21-48-773282Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-30T00-19-06-765381Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-29 22:54:27 | [FractalKVS](https://www.nuget.org/packages/FractalKVS) | 1.0.0 | alt160 | A .NET-native, file-backed durable dictionary for ulong keys and binary values,… |
-| 2026-09-29 22:59:43 | [TKWF.Ext.SecurityLog.Abstractions](https://www.nuget.org/packages/TKWF.Ext.SecurityLog.Abstractions) | 0.1.0 | LoongBa.cn 龙爸出品 | TKWF 扩展抽象：安全日志契约（ISecurityLogStore/ISecurityLogQueryService/ISecurityLogAnalyti… |
+| 2026-09-29 23:24:14 | [NHSOneLondon.AuditAndMetrics.Clients](https://www.nuget.org/packages/NHSOneLondon.AuditAndMetrics.Clients) | 0.1.0 | Intelligence Solutions for Lo… | NHSOneLondon.AuditAndMetrics.Clients provides a Standard compliant client for r… |
+| 2026-09-29 23:24:15 | [NHSOneLondon.AuditAndMetrics.Abstractions](https://www.nuget.org/packages/NHSOneLondon.AuditAndMetrics.Abstractions) | 0.1.0 | Intelligence Solutions for Lo… | NHSOneLondon.AuditAndMetrics.Abstractions provides the contracts a host impleme… |
+| 2026-09-29 23:32:05 | [Openquote](https://www.nuget.org/packages/Openquote) | 0.2.1 | iyulab | A domain-neutral engine for ongoing records kept as immutable change files: mer… |
+| 2026-09-29 23:50:35 | [Plank.Native.Zlib](https://www.nuget.org/packages/Plank.Native.Zlib) | 1.3.1.1 | Kuinox | Native zlib runtime assets for Plank. |
+| 2026-09-29 23:50:36 | [Plank.SourceGen](https://www.nuget.org/packages/Plank.SourceGen) | 0.1.0 | Kuinox | Roslyn source generators for high-performance, strongly typed Plank row readers… |
+| 2026-09-29 23:50:37 | [Plank](https://www.nuget.org/packages/Plank) | 0.1.0 | Kuinox | A high-performance Apache Parquet reader and writer for .NET. |
+| 2026-09-29 23:52:46 | [Shiny.AppFunctions](https://www.nuget.org/packages/Shiny.AppFunctions) | 5.8.0-beta-0009 | Allan Ritchie | Shiny App Functions - declare app functions once in C# and expose them to Siri,… |
+| 2026-09-29 23:54:45 | [Further.DbRivet.Contracts](https://www.nuget.org/packages/Further.DbRivet.Contracts) | 1.0.0 | yinchang0626 | Transaction-scoped database locking for ABP applications, independent of ORM an… |
+| 2026-09-29 23:54:46 | [Further.DbRivet](https://www.nuget.org/packages/Further.DbRivet) | 1.0.0 | yinchang0626 | Transaction-scoped database locking for ABP applications, independent of ORM an… |
 
 ## Data source
 
