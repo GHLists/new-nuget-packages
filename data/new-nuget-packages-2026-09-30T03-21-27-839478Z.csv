@@ -1,0 +1,80 @@
+created_at,package,version,authors,description
+2026-09-30T02:45:19.38Z,Hi.Ltd.Win32,2026.9.30.1032,chustange,Win32 P/Invoke、结构体、Windows 安全辅助（DPAPI / Registry）等
+2026-09-30T02:47:13.17Z,Sdcb.GgufWeights.Abstractions,1.0.0,sdcb,Contracts for chunked model-weight packages: segment identity (manifest) + zero-copy read.
+2026-09-30T02:49:57.73Z,FSharp.CloudEdge.Core.Api,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Core.Api: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:01.413Z,FSharp.CloudEdge.Management.AI,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.AI: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:02.637Z,FSharp.CloudEdge.Management.Browser,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Browser: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:03.95Z,FSharp.CloudEdge.Management.Compute,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Compute: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:05.067Z,FSharp.CloudEdge.Management.ContentDelivery,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.ContentDelivery: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:06.387Z,FSharp.CloudEdge.Management.Media,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Media: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:07.58Z,FSharp.CloudEdge.Management.Messaging,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Messaging: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:08.93Z,FSharp.CloudEdge.Management.Networking,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Networking: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:10.277Z,FSharp.CloudEdge.Management.Observability,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Observability: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:11.65Z,FSharp.CloudEdge.Management.Security,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Security: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:13.153Z,FSharp.CloudEdge.Management.Storage,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Management.Storage: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:14.48Z,FSharp.CloudEdge.Runtime.AIChat,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.AIChat: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:15.943Z,FSharp.CloudEdge.Support.AI.V4.Provider,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Support.AI.V4.Provider: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:17.183Z,FSharp.CloudEdge.Support.AI.V4.OpenAICompatible,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Support.AI.V4.OpenAICompatible: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:20.74Z,FSharp.CloudEdge.Runtime.AIGatewayProvider,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.AIGatewayProvider: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:22.69Z,FSharp.CloudEdge.Support.AI.V3.Provider,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Support.AI.V3.Provider: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:23.897Z,FSharp.CloudEdge.Runtime.AISearchProvider,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.AISearchProvider: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:25.147Z,FSharp.CloudEdge.Runtime.AIUtils,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.AIUtils: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:26.293Z,FSharp.CloudEdge.Runtime.Actors,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Actors: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:27.59Z,FSharp.CloudEdge.Runtime.Agents,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Agents: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:28.88Z,FSharp.CloudEdge.Runtime.AgentsAiChatAgent,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.AgentsAiChatAgent: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:30.23Z,FSharp.CloudEdge.Runtime.AgentsMcpClient,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.AgentsMcpClient: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:31.357Z,FSharp.CloudEdge.Runtime.Cabidela,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Cabidela: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:32.603Z,FSharp.CloudEdge.Runtime.Capnweb,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Capnweb: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:34.137Z,FSharp.CloudEdge.Runtime.Chanfana,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Chanfana: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:35.39Z,FSharp.CloudEdge.Runtime.CodeMode,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.CodeMode: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:36.76Z,FSharp.CloudEdge.Runtime.Computer,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Computer: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:37.903Z,FSharp.CloudEdge.Runtime.ComputerArtifacts,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.ComputerArtifacts: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:39.347Z,FSharp.CloudEdge.Runtime.Workers,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Workers: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:40.54Z,FSharp.CloudEdge.Runtime.Containers,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Containers: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:41.657Z,FSharp.CloudEdge.Runtime.DynamicWorkflows,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.DynamicWorkflows: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:42.943Z,FSharp.CloudEdge.Runtime.Flagship,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Flagship: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:44.06Z,FSharp.CloudEdge.Runtime.KvAssetHandler,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.KvAssetHandler: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:45.277Z,FSharp.CloudEdge.Runtime.PagesPluginCloudflareAccess,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.PagesPluginCloudflareAccess: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:46.48Z,FSharp.CloudEdge.Runtime.PagesPluginStaticForms,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.PagesPluginStaticForms: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:47.617Z,FSharp.CloudEdge.Runtime.PagesPluginTurnstile,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.PagesPluginTurnstile: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:48.907Z,FSharp.CloudEdge.Runtime.Sandbox,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Sandbox: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:50.143Z,FSharp.CloudEdge.Runtime.SandboxBridge,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.SandboxBridge: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:51.23Z,FSharp.CloudEdge.Runtime.Shell,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Shell: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:52.39Z,FSharp.CloudEdge.Runtime.ShellGit,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.ShellGit: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:56.773Z,FSharp.CloudEdge.Runtime.Think,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Think: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:58.04Z,FSharp.CloudEdge.Runtime.Voice,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.Voice: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:50:59.193Z,FSharp.CloudEdge.Runtime.VoiceErrors,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.VoiceErrors: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:51:00.457Z,FSharp.CloudEdge.Runtime.WorkersAIProvider,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.WorkersAIProvider: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:51:01.683Z,FSharp.CloudEdge.Runtime.WorkersOauthProvider,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Runtime.WorkersOauthProvider: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:51:02.883Z,FSharp.CloudEdge.Support.Workers,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Support.Workers: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:51:03.937Z,FSharp.CloudEdge.Tenancy,0.1.0,FSharp.CloudEdge Contributors,FSharp.CloudEdge.Tenancy: F# bindings and clients for Cloudflare. See the documentation for supported APIs and verification status.
+2026-09-30T02:53:15.127Z,Sdcb.GgufWeights.Hy-MT2-1.8B-1.25Bit.Part2,1.0.0,sdcb,Hy-MT2-1.8B-1.25Bit.gguf part 2/2. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-1.25Bit; do not reference directly.
+2026-09-30T02:54:01.867Z,Sdcb.GgufWeights.Hy-MT2-1.8B-2Bit,1.0.0,sdcb,"Hy-MT2-1.8B-2Bit.gguf as embedded .NET resources (part 1/3). Installing this package pulls in all remaining parts; Sdcb.GgufWeights.Hy_MT2_1_8B_2Bit.Weights.Model() returns the stitched, seekable GGUF stream."
+2026-09-30T02:54:26.373Z,GamesMayer.Diagnostics,0.2.1,GAMESMAYER,GAMESMAYER C# code diagnostics.
+2026-09-30T02:54:59.233Z,Sdcb.GgufWeights.Hy-MT2-1.8B-2Bit.Part2,1.0.0,sdcb,Hy-MT2-1.8B-2Bit.gguf part 2/3. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-2Bit; do not reference directly.
+2026-09-30T02:55:49.26Z,Sdcb.GgufWeights.Hy-MT2-1.8B-2Bit.Part3,1.0.0,sdcb,Hy-MT2-1.8B-2Bit.gguf part 3/3. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-2Bit; do not reference directly.
+2026-09-30T03:01:46.387Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M.Part2,1.0.0,sdcb,Hy-MT2-1.8B-Q4_K_M.gguf part 2/5. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M; do not reference directly.
+2026-09-30T03:02:43.32Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M.Part3,1.0.0,sdcb,Hy-MT2-1.8B-Q4_K_M.gguf part 3/5. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M; do not reference directly.
+2026-09-30T03:03:16.68Z,McpGuardWatch,0.3.0,matneves,"Servidor MCP somente leitura para logs, métricas, Kubernetes, APM, banco, SIEM e saúde do GuardWatch, com login LDAP."
+2026-09-30T03:03:34.9Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M.Part4,1.0.0,sdcb,Hy-MT2-1.8B-Q4_K_M.gguf part 4/5. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M; do not reference directly.
+2026-09-30T03:04:26.887Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M.Part5,1.0.0,sdcb,Hy-MT2-1.8B-Q4_K_M.gguf part 5/5. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q4_K_M; do not reference directly.
+2026-09-30T03:05:10.387Z,ClearFx.License,1.0.3,saziz,ClearFx License
+2026-09-30T03:05:15.54Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K,1.0.0,sdcb,"Hy-MT2-1.8B-Q6_K.gguf as embedded .NET resources (part 1/7). Installing this package pulls in all remaining parts; Sdcb.GgufWeights.Hy_MT2_1_8B_Q6_K.Weights.Model() returns the stitched, seekable GGUF stream."
+2026-09-30T03:05:20.48Z,ClearFx.Caching,1.0.3,saziz,ClearFx caching library
+2026-09-30T03:05:22.783Z,ClearFx.Bus.Abstractions,1.0.3,saziz,ClearFx bus abstractions
+2026-09-30T03:05:24.99Z,ClearFx.Bus,1.0.3,saziz,ClearFx bus implementation
+2026-09-30T03:05:27.2Z,ClearFx.Bus.Azure,1.0.3,saziz,ClearFx bus implementation using Azure Bus
+2026-09-30T03:05:29.483Z,ClearFx.Messaging.Delivery.Abstractions,1.0.3,saziz,ClearFx messaging delivery abstractions
+2026-09-30T03:05:31.723Z,ClearFx.Messaging.Delivery.Dal,1.0.3,saziz,ClearFx messaging delivery dal
+2026-09-30T03:05:36.84Z,ClearFx.Messaging.Delivery,1.0.3,saziz,ClearFx messaging delivery
+2026-09-30T03:05:39.117Z,ClearFx.Messaging.Delivery.Database,1.0.3,saziz,ClearFx messaging delivery database
+2026-09-30T03:05:41.437Z,ClearFx.Messaging.Bus.Abstractions,1.0.3,saziz,ClearFx messaging bus abstractions
+2026-09-30T03:05:43.983Z,ClearFx.Messaging.Bus.RabbitMq,1.0.3,saziz,ClearFx messaging bus implementation using RabbitMq
+2026-09-30T03:05:46.337Z,ClearFx.Messaging,1.0.3,saziz,ClearFx realtime messaging
+2026-09-30T03:05:48.49Z,ClearFx.License.Dal,1.0.3,saziz,ClearFx License Dal
+2026-09-30T03:05:50.723Z,ClearFx.AI.Abstractions,1.0.3,saziz,ClearFx AI Abstractions
+2026-09-30T03:05:52.903Z,ClearFx.AI,1.0.3,saziz,ClearFx AI
+2026-09-30T03:06:07.327Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K.Part2,1.0.0,sdcb,Hy-MT2-1.8B-Q6_K.gguf part 2/7. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K; do not reference directly.
+2026-09-30T03:06:58.247Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K.Part3,1.0.0,sdcb,Hy-MT2-1.8B-Q6_K.gguf part 3/7. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K; do not reference directly.
+2026-09-30T03:07:50.853Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K.Part4,1.0.0,sdcb,Hy-MT2-1.8B-Q6_K.gguf part 4/7. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q6_K; do not reference directly.
+2026-09-30T03:09:30.397Z,NecroSharper.IdentityServer10.Admin.Templates,2.2.0,NecroSharper,Templates for the administration of the IdentityServer10 and Asp.Net Core Identity
