@@ -12,25 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 07:22 UTC
+## Latest list — 2026-09-30 08:20 UTC
 
-New packages created between 2026-09-30 06:21 UTC and 2026-09-30 07:22 UTC.
+New packages created between 2026-09-30 07:22 UTC and 2026-09-30 08:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-30T07-22-13-245164Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-30T08-20-43-898782Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-30 06:33:05 | [ResponsiveWebPSourceSet](https://www.nuget.org/packages/ResponsiveWebPSourceSet) | 1.0.1 | DraganS | ResponsiveWebPSourceSet is an ASP.NET Core TagHelper that automatically convert… |
-| 2026-09-30 06:57:26 | [JamesTryand.DotnetCqrs.Telemetry.Nats](https://www.nuget.org/packages/JamesTryand.DotnetCqrs.Telemetry.Nats) | 0.17.0 | James Tryand | NATS transport for dotnetcqrs's optional telemetry push (health/telemetry contr… |
-| 2026-09-30 07:02:00 | [Amanhecer.Compression.Zstd](https://www.nuget.org/packages/Amanhecer.Compression.Zstd) | 2.0.0 | Rafael Andrade | Zstandard compression transformers for Amanhecer: compress and decompress messa… |
-| 2026-09-30 07:02:01 | [Amanhecer.Compression.LZ4](https://www.nuget.org/packages/Amanhecer.Compression.LZ4) | 2.0.0 | Rafael Andrade | LZ4 compression transformers for Amanhecer: compress and decompress message pay… |
-| 2026-09-30 07:02:02 | [Amanhecer.Extensions.Hosting](https://www.nuget.org/packages/Amanhecer.Extensions.Hosting) | 2.0.0 | Rafael Andrade | Generic-host integration for Amanhecer: runs the messaging gateway consumers as… |
-| 2026-09-30 07:02:03 | [Amanhecer.InMemory](https://www.nuget.org/packages/Amanhecer.InMemory) | 2.0.0 | Rafael Andrade | In-memory transport for Amanhecer: publish messages to channel-backed queues an… |
-| 2026-09-30 07:02:04 | [Amanhecer.Compression.Snappier](https://www.nuget.org/packages/Amanhecer.Compression.Snappier) | 2.0.0 | Rafael Andrade | Snappy compression transformers for Amanhecer: compress and decompress message… |
-| 2026-09-30 07:02:04 | [Amanhecer.Dekaf](https://www.nuget.org/packages/Amanhecer.Dekaf) | 2.0.0 | Rafael Andrade | Kafka transport for Amanhecer (Dekaf): publish messages to topics and consume t… |
-| 2026-09-30 07:02:06 | [Amanhecer.ConfluentKafka](https://www.nuget.org/packages/Amanhecer.ConfluentKafka) | 2.0.0 | Rafael Andrade | Kafka transport for Amanhecer (Confluent.Kafka): publish messages to topics and… |
-| 2026-09-30 07:02:07 | [Amanhecer.RabbitMq](https://www.nuget.org/packages/Amanhecer.RabbitMq) | 2.0.0 | Rafael Andrade | RabbitMQ transport for Amanhecer: publish messages to exchanges and consume the… |
-| 2026-09-30 07:02:08 | [Amanhecer.OpenTelemetry](https://www.nuget.org/packages/Amanhecer.OpenTelemetry) | 2.0.0 | Rafael Andrade | OpenTelemetry integration for Amanhecer: trace and metric instrumentation for t… |
+| 2026-09-30 07:32:15 | [ProduceSelf.ClientSdk.Ops](https://www.nuget.org/packages/ProduceSelf.ClientSdk.Ops) | 0.1.2 | 沧海的频道 | 诺元运维平台客户端 SDK（A 档）：设备注册与心跳、日志采集上报、崩溃补报、下行指令（SetLogLevel / PullLogFile / Collect… |
+| 2026-09-30 07:37:38 | [Syncfusion.Maui.Diagram](https://www.nuget.org/packages/Syncfusion.Maui.Diagram) | 35.1.37 | Syncfusion® Inc. | This package provides the functionality to utilize the features of Syncfusion®… |
+| 2026-09-30 07:43:15 | [NotoriousTest.Dependencies.Azure.FunctionCoreTools](https://www.nuget.org/packages/NotoriousTest.Dependencies.Azure.FunctionCoreTools) | 5.1.0 | Brice SCHUMACHER | Azure Functions Core Tools dependency for NotoriousTest infrastructures. |
+| 2026-09-30 07:43:21 | [NotoriousTest.Requirements.Docker](https://www.nuget.org/packages/NotoriousTest.Requirements.Docker) | 5.1.0 | Brice SCHUMACHER | Docker requirement for NotoriousTest infrastructures. |
+| 2026-09-30 07:43:24 | [NotoriousTest.Web.AzureFunctions](https://www.nuget.org/packages/NotoriousTest.Web.AzureFunctions) | 5.1.0 | Brice SCHUMACHER | Azure functions integration tests support for NotoriousTest. |
+| 2026-09-30 07:55:49 | [EngineeringFluids](https://www.nuget.org/packages/EngineeringFluids) | 0.1.3 | Mads Kirk Foged | Fast, unit-typed thermodynamic and transport properties for engineering fluids… |
+| 2026-09-30 08:02:42 | [NibblePoker.Win32.Mailslot](https://www.nuget.org/packages/NibblePoker.Win32.Mailslot) | 0.0.8 | NibblePoker,Herwin Bozet | A simple and 'to-the-point' library to parse launch arguments in .NET and .NET… |
+| 2026-09-30 08:04:47 | [Semi.Avalonia.MediaPlayer](https://www.nuget.org/packages/Semi.Avalonia.MediaPlayer) | 1.0.0 | IRIHI Technology Co., Ltd. | Avalonia.Controls.MediaPlayer themes inspired by Semi Design. |
+| 2026-09-30 08:05:07 | [Bimwright.Nwd.Server](https://www.nuget.org/packages/Bimwright.Nwd.Server) | 1.0.0 | Khoa Le | MCP gateway for Autodesk Navisworks Manage 2022-2027. |
+| 2026-09-30 08:08:12 | [TenonAdmin.Workflow](https://www.nuget.org/packages/TenonAdmin.Workflow) | 0.7.0 | huguodong | TenonAdmin 工作流可选包:审批定义/引擎/待办与设计器配套 API;AddTenonAdminWorkflow + UseWorkflow 启用(T… |
+| 2026-09-30 08:08:13 | [TenonAdmin.Integration](https://www.nuget.org/packages/TenonAdmin.Integration) | 0.7.0 | huguodong | TenonAdmin 第三方接入可选包:接入应用与 API Key、开放接口授权与数据范围、出站调用与可靠投递;AddTenonAdminIntegratio… |
 
 ## Data source
 
