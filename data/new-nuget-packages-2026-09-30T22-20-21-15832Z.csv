@@ -1,0 +1,366 @@
+created_at,package,version,authors,description
+2026-09-30T21:23:32.33Z,SandboxedAgents,0.2.0,grauzone-git,Standalone sandboxed-agents for Windows. Run tools/install-command.ps1 after NuGet extraction.
+2026-09-30T21:32:38.52Z,PocketCsvReader.WebLogs,2.39.0,Cédric L. Charlier,PocketCsvReader.WebLogs extends PocketCsvReader with streaming readers for Common Log Format and W3C Extended Log Format files.
+2026-09-30T21:42:47.96Z,Itp.SimpleHL7,5.0.0-preview1,mgaffigan,Package Description
+2026-09-30T21:54:37.707Z,Novolis.Templates,2026.1.1.27,Novolis,dotnet new template packs for Novolis solutions and projects.
+2026-09-30T21:55:51.597Z,Novolis.TemplateSmokeTest,2026.1.1.22,Novolis,Smoke test package for CI and NuGet publishing validation
+2026-09-30T21:56:50.33Z,Majo.TerminalUI,0.0.1,Sweety Majo,A small terminal interaction layer for .NET console applications.
+2026-09-30T21:57:12.637Z,Novolis.ThreeD.Import.Assimp,2026.1.1.10,Novolis,"Assimp-based FBX, OBJ, and glTF import into Novolis.Math.Geometry meshes and ThreeD asset data. Native Assimp runtime required."
+2026-09-30T21:57:14.02Z,Novolis.ThreeD.Scene,2026.1.1.10,Novolis,"Renderer-neutral 3D scene graph with nodes, lights, cameras, staged evaluation, mesh editing, and .nov3djson serialization."
+2026-09-30T21:57:31.01Z,Novolis.Astro.Abstractions,2026.1.0.22,Novolis,"Core stellar coordinates, hop/transit evaluation contracts for Novolis.Astro."
+2026-09-30T21:57:32.137Z,Novolis.Astro.Assessment,2026.1.0.22,Novolis,Pluggable star-system assessment scorers and deterministic SystemProfile generation (elements + economic potentials) for worldbuilding and games.
+2026-09-30T21:57:33.39Z,Novolis.Astro.Catalog,2026.1.0.22,Novolis,"Star system catalog store, queries, and import adapters."
+2026-09-30T21:57:33.39Z,Novolis.Cad.Blueprint,2026.1.0.33,Novolis,"Avalonia-free CadBlueprint companion to CadDocument — contextual walls, interiors, exteriors, and openings (doors/hatches/holes) for ships, stations, houses, and towers; HTML5 smart-sheet export contract."
+2026-09-30T21:57:34.513Z,Novolis.Astro.Catalog.Data,2026.1.0.22,Novolis,"Pregenerated stellar catalog packs (Near-Sol, local HYG slice)."
+2026-09-30T21:57:35.04Z,Novolis.Cad.Evaluation,2026.1.0.33,Novolis,"Avalonia-free staged CAD evaluation (CadDocument → meshes / phys): CadModelEvaluator, CadPhysExporter, EntityBounds."
+2026-09-30T21:57:35.417Z,Novolis.Aspire.Hosting.Signoz,2026.1.1.25,Novolis,Aspire hosting integration for SigNoz observability (multi-container local stack).
+2026-09-30T21:57:35.757Z,Novolis.Astro.Overlay,2026.1.0.22,Novolis,Alias and label overlays bound to catalog system ids.
+2026-09-30T21:57:36.197Z,Novolis.Cad.Primitives,2026.1.0.33,Novolis,"Avalonia-free CAD interchange DTOs for .cadjson / .cadphys (documents, entities, workspace enums, vec helpers). Contextual CadBlueprint lives in Novolis.Cad.Blueprint."
+2026-09-30T21:57:36.897Z,Novolis.Astro.Plotting,2026.1.0.22,Novolis,Headless stellar path projection and SVG/TSV export.
+2026-09-30T21:57:37.327Z,Novolis.Cad.SceneBridge,2026.1.0.33,Novolis,Avalonia-free CadDocument → SceneDocument bridge: tessellate solids/walls/spaces into .nov3djson meshes (Novolis.ThreeD.Scene).
+2026-09-30T21:57:37.947Z,Novolis.Astro.Routing,2026.1.0.22,Novolis,"Interstellar route graphs, pluggable hop cost/transit models, planner and accumulation."
+2026-09-30T21:57:38.977Z,Novolis.Civics.Agents,2026.1.0.17,Novolis,Heuristic fiscal/regime agents that adjust FiscalPolicy only.
+2026-09-30T21:57:39.93Z,Novolis.Civics.Core,2026.1.0.17,Novolis,"Bounded-minimum civic kernel: nation identity, fiscal intent, civic stocks, period settlement."
+2026-09-30T21:57:40.98Z,Novolis.Civics.EconomyBridge,2026.1.0.17,Novolis,Map Civics FiscalPolicy to Economy StatePolicy and bind NationId to State entities.
+2026-09-30T21:57:41.937Z,Novolis.Civics.Simulation,2026.1.0.17,Novolis,Composition root: advance civic periods over NationState.
+2026-09-30T21:57:42.437Z,Novolis.Documents,2026.1.1.28,Novolis,"Paged document model: page setup, typography, header/footer, watermark, and closed content blocks."
+2026-09-30T21:57:43.343Z,Novolis.Documents.Layout,2026.1.1.28,Novolis,"One-column pagination for PagedDocument: First/Toc/Body/Last page plans, ITextMeasurer, H1 breaks, header/footer flags, typed PDF outline."
+2026-09-30T21:57:44.437Z,Novolis.Documents.Skia,2026.1.1.28,Novolis,"SkiaSharp PDF writer for PagedDocument: layout measurement, tables, images, header/footer, watermark, outline bookmarks; embedded Liberation Serif subset."
+2026-09-30T21:57:54.717Z,Novolis.Commands.Abstractions,2026.1.1.36,Novolis,"Contracts for Novolis command parsing, envelopes, and queueing."
+2026-09-30T21:57:54.953Z,Novolis.Chat.Abstractions,2026.1.2.9,Novolis,"Chat ids, frames, events, and live-state contracts."
+2026-09-30T21:57:55.867Z,Novolis.Commands.DependencyInjection,2026.1.1.36,Novolis,Microsoft.Extensions.DependencyInjection registration for Novolis.Commands.
+2026-09-30T21:57:56.15Z,Novolis.Chat.Directory,2026.1.2.9,Novolis,"Named chat spaces and channels, rosters, devices, and SecureText group membership."
+2026-09-30T21:57:57.023Z,Novolis.Commands.Engine,2026.1.1.36,Novolis,Parse prompts into command envelopes without executing domain behavior.
+2026-09-30T21:57:57.457Z,Novolis.Chat.Hosting.AspNetCore,2026.1.2.9,Novolis,ASP.NET Core SignalR orchestration for encrypted chat conversations.
+2026-09-30T21:57:58.15Z,Novolis.Commands.Expressions,2026.1.1.36,Novolis,"Parse function-call style prompts (Name(arg, …)) into structured expression calls."
+2026-09-30T21:57:58.607Z,Novolis.Chat.Live,2026.1.2.9,Novolis,"Ephemeral chat presence, typing TTL, and receipt state."
+2026-09-30T21:57:59.27Z,Novolis.Commands.Queueing,2026.1.1.36,Novolis,Channel-backed command queue and interrupt-aware runner.
+2026-09-30T21:58:00.417Z,Novolis.Commands.Testing,2026.1.1.36,Novolis,Test doubles and helpers for Novolis.Commands.
+2026-09-30T21:58:06.223Z,Novolis.MSBuild.LibraryReference,2026.1.1.12,Novolis,"MSBuild LibraryReference item that expands to ProjectReference when a local project exists, otherwise PackageReference."
+2026-09-30T21:58:07.84Z,Novolis.Game.Humanoid,2026.1.1.29,Novolis,Game-facing humanoid clip banks and body masks over Novolis.Simulation.Humanoid.
+2026-09-30T21:58:08.85Z,Novolis.Game.Identity,2026.1.1.29,Novolis,In-memory pseudonymous player directory and external identity linker.
+2026-09-30T21:58:10.037Z,Novolis.Game.Identity.Abstractions,2026.1.1.29,Novolis,Pseudonymous player identity refs for games (no PII in platform API).
+2026-09-30T21:58:11.097Z,Novolis.Game.Identity.AspNetCore,2026.1.1.29,Novolis,Map ASP.NET claims to pseudonymous PlayerRef without platform PII storage.
+2026-09-30T21:58:12.217Z,Novolis.Game.MenuFlows,2026.1.1.29,Novolis,UI-agnostic game screen stack and menu navigation.
+2026-09-30T21:58:12.62Z,Novolis.CodeGen.Bindings,2026.1.2.47,Novolis,"Manifest fragments, merge plans, and binding codegen orchestration."
+2026-09-30T21:58:13.223Z,Novolis.Geopolitics.Conflict,2026.1.0.26,Novolis,"Territorial conflict resolution: frontier discovery, staging bonuses, and per-day battle resolution over a WorldState."
+2026-09-30T21:58:13.327Z,Novolis.Game.Multiplayer.Abstractions,2026.1.1.29,Novolis,Lobby and session abstractions for multiplayer games.
+2026-09-30T21:58:13.827Z,Novolis.CodeGen.Bindings.Roslyn,2026.1.2.47,Novolis,"Roslyn hook host, emit writer, and compilation unit comparison for binding codegen."
+2026-09-30T21:58:14.743Z,Novolis.Game.Multiplayer.AspNetCore,2026.1.1.29,Novolis,SignalR hub bases and DTOs for game lobbies.
+2026-09-30T21:58:14.743Z,Novolis.Geopolitics.Core,2026.1.0.26,Novolis,"Geopolitics kernel: polities, provinces, relations, treaties, wars, and civic/fiscal stock-flow (delegates nation civic settlement to Novolis.Civics.Core)."
+2026-09-30T21:58:14.957Z,Novolis.CodeGen.Pipeline,2026.1.2.47,Novolis,Linear step pipeline kernel with fingerprinted skip/cache and result.json.
+2026-09-30T21:58:15.833Z,Novolis.Game.Packaging.Inno,2026.1.1.29,Novolis,Inno Setup script generation helpers for Windows game installers.
+2026-09-30T21:58:16.307Z,Novolis.CodeGen.Reflection,2026.1.2.47,Novolis,"Type and reflection display helpers (friendly names, display names)."
+2026-09-30T21:58:16.307Z,Novolis.Geopolitics.Diplomacy,2026.1.0.26,Novolis,"Treaty and supranational-organization lifecycle: bilateral/multilateral instruments, acceptance rules, and monthly non-trade treaty effects."
+2026-09-30T21:58:17.36Z,Novolis.CodeGen.Reflection.ClassDiagram,2026.1.2.47,Novolis,Build Mermaid classDiagram text from assembly reflection.
+2026-09-30T21:58:18.407Z,Novolis.CodeGen.Reflection.Dump,2026.1.2.47,Novolis,Dump objects as C# initialization code for tests and debugging.
+2026-09-30T21:58:19.98Z,Novolis.Game.Procedural,2026.1.1.29,Novolis,"Seeded procedural tools for games: noise/FBM terrain, infinite chunk streaming, runner track segments, weighted spawns, difficulty ramps."
+2026-09-30T21:58:20.03Z,Novolis.Geopolitics.PolicyAgents,2026.1.0.26,Novolis,"Deterministic heuristic policy agent: fiscal-policy adjustment, diplomacy proposals, and war entry/exit heuristics, expressed purely as policy-knob mutations for Core to settle."
+2026-09-30T21:58:20.49Z,Novolis.CodeGen.Xml,2026.1.2.47,Novolis,XmlSchemaSet loading and SchemaGraph IR for XSD-driven code generation.
+2026-09-30T21:58:21.19Z,Novolis.Geopolitics.Scenarios,2026.1.0.26,Novolis,"Original fiction world seed: procedural generator, seed DTOs/loader, default embedded world, and deterministic institution (supranational) seeding."
+2026-09-30T21:58:21.537Z,Novolis.CodeGen.Xsd,2026.1.2.47,Novolis,"SchemaGraph → Roslyn SyntaxFactory emit profiles (Wire XmlSerializer, Lean records)."
+2026-09-30T21:58:22.6Z,Novolis.Geopolitics.Simulation,2026.1.0.26,Novolis,"Composition root: day/month simulation tick wiring conflict, diplomacy, trade, policy agents, and civic settlement over a WorldState from Scenarios."
+2026-09-30T21:58:23.8Z,Novolis.Geopolitics.Trade,2026.1.0.26,Novolis,"Monthly resource clearing: domestic production/consumption, common-market pooling, a GDP-weighted world market, and shortage/surplus feedback into stability and GDP."
+2026-09-30T21:58:23.903Z,Novolis.Math.Arrays,2026.1.1.45,Novolis,Volumetric dense grids and index helpers for Novolis math libraries.
+2026-09-30T21:58:23.91Z,Novolis.Mapping,2026.1.1.7,Novolis,DI-friendly object mapping definitions (migrated from Frank.Mapping).
+2026-09-30T21:58:24.187Z,Novolis.Markup.Html,2026.1.1.55,Novolis,"Fluent HTML, CSS, JavaScript (functions/classes), and SVG builders for .NET."
+2026-09-30T21:58:25.153Z,Novolis.Math.Geometry,2026.1.1.45,Novolis,"Geometry primitives, transforms, intersections, and BVH for Novolis stack libraries."
+2026-09-30T21:58:25.443Z,Novolis.Markup.Markdown,2026.1.1.55,Novolis,Fluent GitHub-flavored Markdown document builder for .NET.
+2026-09-30T21:58:26.463Z,Novolis.Math.Measure,2026.1.1.45,Novolis,"Scalar length, size, thickness, and rect measure types (points) for Novolis libraries."
+2026-09-30T21:58:27.11Z,Novolis.Markup.Markdown.Documents,2026.1.1.55,Novolis,Map Novolis.Markup.Markdown documents to Novolis.Documents PagedDocument and export PDF via Documents.Skia.
+2026-09-30T21:58:27.433Z,Novolis.Manuscript,2026.1.1.36,Novolis,"Manuscript workspace catalog, chapter metadata, and diagnostics (no PDF/audio)."
+2026-09-30T21:58:27.72Z,Novolis.Logging.Agent,2026.1.6.25,Novolis,"Agent Surface host for Novolis remote logging (snapshot tail, subscribe, setlevel/clear)."
+2026-09-30T21:58:27.74Z,Novolis.Math.Topology,2026.1.1.45,Novolis,"Connectivity primitives (polygon, face, edge) for Novolis math libraries."
+2026-09-30T21:58:28.353Z,Novolis.Markup.Markdown.Mermaid.Rendering,2026.1.1.55,Novolis,Markdown HTML rendering with headless Mermaid SVG diagrams.
+2026-09-30T21:58:28.713Z,Novolis.Logging.Contracts,2026.1.6.25,Novolis,Remote log wire DTOs and logging scope stack bridge for multi-sink hosts.
+2026-09-30T21:58:28.813Z,Novolis.Manuscript.Editorial,2026.1.1.36,Novolis,"Deterministic manuscript editorial detectors: lexicon, AI-slop patterns, and naming variants."
+2026-09-30T21:58:29.653Z,Novolis.Logging.Core,2026.1.6.25,Novolis,"In-process remote log hub, ring buffer, and ILogger provider for Novolis logging."
+2026-09-30T21:58:29.787Z,Novolis.Markup.Markdown.Rendering,2026.1.1.55,Novolis,HTML document export for Markdown source (Novolis.Markup.Markdown). PDF via Novolis.Markup.Markdown.Documents + Documents.Skia.
+2026-09-30T21:58:29.97Z,Novolis.Manuscript.Export.Audio,2026.1.1.36,Novolis,"Manuscript speech planning, voice-map YAML, audiobook pipeline, and preview."
+2026-09-30T21:58:30.49Z,Novolis.Logging.Diagnostics,2026.1.6.25,Novolis,Bounded app-private diagnostic journal and ILogger provider for mobile and desktop applications.
+2026-09-30T21:58:30.96Z,Novolis.Markup.Mermaid,2026.1.1.55,Novolis,"Fluent Mermaid diagram syntax builder and parser for .NET (flowchart, sequence, class, state, ER, gantt, mindmap, C4, Ishikawa, use case, Wardley, and more)."
+2026-09-30T21:58:31.107Z,Novolis.Manuscript.Export.Markdown,2026.1.1.36,Novolis,Manuscript Markdown/HTML export via Novolis.Markup.Markdown (Parse + MarkdownToHtmlConverter).
+2026-09-30T21:58:31.563Z,Novolis.Logging.Faster,2026.1.6.25,Novolis,Microsoft FASTER FasterLog durable sink for Novolis remote logging.
+2026-09-30T21:58:32.1Z,Novolis.Markup.Mermaid.Rendering,2026.1.1.55,Novolis,Headless Mermaid diagram export to SVG (Mermaider) and PNG (Svg.Skia) for Novolis.Markup.Mermaid builders.
+2026-09-30T21:58:32.32Z,Novolis.Manuscript.Export.Pdf,2026.1.1.36,Novolis,Manuscript PDF export via Novolis.Documents + Documents.Skia with Markdown/HTML/TXT companions.
+2026-09-30T21:58:32.617Z,Novolis.Logging.Transports,2026.1.6.25,Novolis,HTTP ingest/SSE and LocalIpc hosts for Novolis remote logging.
+2026-09-30T21:58:33.567Z,Novolis.Manuscript.IO,2026.1.1.36,Novolis,"Manuscript tree surgery, working-copy helpers, and git/GitHub façades."
+2026-09-30T21:58:33.757Z,Novolis.IO.Git,2026.1.1.34,Novolis,"Process-based Git: status, history/graph, stash, diff, branches, and multi-repo workspace batch ops."
+2026-09-30T21:58:34.397Z,Novolis.Scheduling,2026.1.1.7,Novolis,Cron job registration and scheduling (migrated from Frank.CronJobs).
+2026-09-30T21:58:34.703Z,Novolis.Manuscript.LegacyBooks,2026.1.1.36,Novolis,Legacy content/series and content/books adapter that returns NMP/1 ManuscriptSnapshot.
+2026-09-30T21:58:35.167Z,Novolis.IO.GitHub,2026.1.1.34,Novolis,GitHub OAuth device flow and sparse content/ repository mirror (Pull + Save/Commit/Push) via Octokit.
+2026-09-30T21:58:35.497Z,Novolis.Scheduling.Cron,2026.1.1.7,Novolis,"Cron expression parsing and next-occurrence calculation (MIT, from Frank.CronJobs.Cron)."
+2026-09-30T21:58:35.913Z,Novolis.Manuscript.Metrics,2026.1.1.36,Novolis,"Manuscript word-count, TODO metrics, and character-slice reports for NMP book trees."
+2026-09-30T21:58:36.443Z,Novolis.IO.Indexing,2026.1.1.34,Novolis,"In-memory, format-agnostic content index: entries, aliases, open facets, and directed links."
+2026-09-30T21:58:36.973Z,Novolis.Manuscript.Protocol,2026.1.1.36,Novolis,"NMP/1 typed manuscript protocol: workspace discovery, catalog, metadata, and diagnostics."
+2026-09-30T21:58:37.827Z,Novolis.IO.Mobile.Android,2026.1.1.34,Novolis,"Host-side Android Debug Bridge (ADB protocol via AdvancedSharpAdbClient): devices, technical stats, shell, sync, APK validate/install/verify. Requires platform-tools adb only to host the local server."
+2026-09-30T21:58:38.04Z,Novolis.Manuscript.References,2026.1.1.36,Novolis,"Domain-aware manuscript reference library built on Novolis.IO.Indexing (cards, sets, open facets — no Markdown/YAML parsing)."
+2026-09-30T21:58:39.067Z,Novolis.IO.Paths,2026.1.1.34,Novolis,Workspace root discovery helpers with caller-supplied markers.
+2026-09-30T21:58:40.33Z,Novolis.IO.Processes,2026.1.1.34,Novolis,Concurrent process job queue with process-tree cancellation.
+2026-09-30T21:58:41.593Z,Novolis.IO.Recovery,2026.1.1.34,Novolis,Content-hash draft recovery snapshots under a configurable root.
+2026-09-30T21:58:41.84Z,Novolis.Pdf.Abstractions,2026.1.1.10,Novolis,UI-neutral contracts and records for Novolis PDF reading.
+2026-09-30T21:58:42.25Z,Novolis.MachineLearning.Algorithms,2026.1.1.38,Novolis,"Classic ML.NET trainers plus typed Features<T> Naive Bayes (Gaussian/Bernoulli), FastTree, LightGBM, SDCA, time series, and recommenders."
+2026-09-30T21:58:42.837Z,Novolis.IO.Watching,2026.1.1.34,Novolis,Single-file FileSystemWatcher helpers with optional debounce.
+2026-09-30T21:58:42.917Z,Novolis.Pdf.Core,2026.1.1.10,Novolis,"Reader lifetime, limits, lazy object access, and orchestration for Novolis PDF."
+2026-09-30T21:58:43.523Z,Novolis.MachineLearning.AutoMl,2026.1.1.38,Novolis,"ML.NET AutoML experiment helpers, metrics formatting, and satellite trainer packages (FastTree, LightGBM, TimeSeries, Recommender)."
+2026-09-30T21:58:44.147Z,Novolis.Pdf.Documents,2026.1.1.10,Novolis,"Local recent-document, reading-position, and cache records for Novolis PDF hosts."
+2026-09-30T21:58:44.187Z,Novolis.IO.Workspace,2026.1.1.34,Novolis,Typed directory-root workspace abstraction with explicit file I/O capabilities.
+2026-09-30T21:58:45.037Z,Novolis.MachineLearning.Core,2026.1.1.38,Novolis,Core IO and path helpers for Novolis machine learning packages.
+2026-09-30T21:58:45.22Z,Novolis.Pdf.Parsing,2026.1.1.10,Novolis,"Ground-up PDF syntax, cross-reference, indirect-object, and stream parsing."
+2026-09-30T21:58:45.453Z,Novolis.IO.Workspace.Abstractions,2026.1.1.34,Novolis,Typed directory-root workspace abstraction.
+2026-09-30T21:58:46.003Z,Novolis.Maui.Agent,2026.1.1.28,Novolis,"In-process MAUI UI agent host: LocalIpc ui.* protocol, tree dump, screenshot, click/type/wait."
+2026-09-30T21:58:46.303Z,Novolis.MachineLearning.Dump,2026.1.1.38,Novolis,Persist neural snapshots as CodeGen dump C# fixtures and ML.NET models as zip files.
+2026-09-30T21:58:46.303Z,Novolis.Pdf.Platform,2026.1.1.10,Novolis,"Platform-neutral activation, document source, and local storage contracts for Novolis PDF hosts."
+2026-09-30T21:58:46.8Z,Novolis.IO.Workspace.Testing,2026.1.1.34,Novolis,In-memory IFileWorkspace for unit tests.
+2026-09-30T21:58:47.263Z,Novolis.Maui.Agent.Protocol,2026.1.1.28,Novolis,"MessagePack DTOs, LocalIpc helpers, and client for the MAUI UI agent protocol (ui.*)."
+2026-09-30T21:58:47.41Z,Novolis.Pdf.Rendering,2026.1.1.10,Novolis,"Host-neutral page graphics, transforms, and render-target contracts for Novolis PDF."
+2026-09-30T21:58:47.593Z,Novolis.MachineLearning.Llm.Abstractions,2026.1.1.38,Novolis,Provider-neutral contracts for local and remote language model chat generation.
+2026-09-30T21:58:48.48Z,Novolis.Pdf.Rendering.Skia,2026.1.1.10,Novolis,Contained Skia raster adapter for Novolis PDF page rendering.
+2026-09-30T21:58:48.61Z,Novolis.Maui.GraphicalProfile,2026.1.1.28,Novolis,"Required Novolis graphical profile for MAUI hosts: Merglyph palette, typography, geometry, and dynamic theme resources."
+2026-09-30T21:58:48.94Z,Novolis.MachineLearning.Neural,2026.1.1.38,Novolis,"Dense feedforward neural network implementation with training, mutation, and JSON persistence."
+2026-09-30T21:58:49.08Z,Novolis.Economy.Abstractions,2026.1.0.52,Novolis,Model-neutral economic capability contracts and actor boundary records.
+2026-09-30T21:58:49.543Z,Novolis.Pdf.Text,2026.1.1.10,Novolis,"PDF text spans, search, selection geometry, and navigation extraction."
+2026-09-30T21:58:49.827Z,Novolis.Maui.Markdown,2026.1.1.28,Novolis,MAUI Markdown viewer: Novolis.Markup HTML + Mermaid SVG in a locked-down WebView. Avalonia equivalent is Novolis.Avalonia.Markdown.
+2026-09-30T21:58:51.003Z,Novolis.Maui.Mermaid,2026.1.1.28,Novolis,MAUI Mermaid diagram view: render Mermaid source (or Novolis.Markup.Mermaid builders) to SVG via Novolis.Markup.Mermaid.Rendering.
+2026-09-30T21:58:53.403Z,Novolis.Economy.Accounting,2026.1.0.52,Novolis,"Read-only financial projections and diagnostics over Core economic state, with compatibility ledger adapters."
+2026-09-30T21:58:53.407Z,Novolis.MachineLearning.Neural.Abstractions,2026.1.1.38,Novolis,Contracts and DTOs for dense neural networks and snapshot serialization.
+2026-09-30T21:58:53.797Z,Novolis.Maui.PdfViewer,2026.1.1.28,Novolis,Local Novolis PDF viewer control for MAUI Windows and Android hosts.
+2026-09-30T21:58:54.733Z,Novolis.Economy.Agents,2026.1.0.52,Novolis,Simulation-independent rules-based and fuzzable economic actor policies.
+2026-09-30T21:58:55.13Z,Novolis.MachineLearning.SharpMind,2026.1.1.38,Novolis,Optional SharpMind-backed local LLM chat adapter for Novolis machine learning packages.
+2026-09-30T21:58:55.14Z,Novolis.Maui.WebView,2026.1.1.28,Novolis,"Locked-down MAUI WebView for locally rendered HTML (CSP, navigation policy). Avalonia equivalent is HtmlRenderer usage inside Novolis.Avalonia.Markdown."
+2026-09-30T21:58:55.227Z,Novolis.Physics,2026.1.1.47,Novolis,Force-first simulation stack for games and tools — one install for all Novolis.Physics packages.
+2026-09-30T21:58:55.82Z,Novolis.Economy.Core,2026.1.0.52,Novolis,"Bounded-minimum economic authority: immutable EconomyState, authoritative positions and claims, invariant-preserving transactions, valuation, and atomic state transitions."
+2026-09-30T21:58:56.287Z,Novolis.Physics.Abstractions,2026.1.1.47,Novolis,"Force models, static world queries, and integration contracts for Novolis.Physics."
+2026-09-30T21:58:56.91Z,Novolis.Economy.Finance,2026.1.0.52,Novolis,"Inter-firm term loans, interest accrual, and default hooks for Novolis economic simulation."
+2026-09-30T21:58:57.217Z,Novolis.Physics.Aerodynamics,2026.1.1.47,Novolis,Atmosphere density hooks and simple lift/drag force models.
+2026-09-30T21:58:57.643Z,Novolis.Messaging,2026.1.1.45,Novolis,In-process pulse messaging (PulseFlow) over channels with DI.
+2026-09-30T21:58:58.057Z,Novolis.Economy.Logistics,2026.1.0.52,Novolis,"Hub/corridor transport network, itinerary planning, and multi-leg shipments scheduled against Core transfers."
+2026-09-30T21:58:58.213Z,Novolis.Physics.Astro,2026.1.1.47,Novolis,Astronomical unit conversions (ly/pc/AU) to SI meters for physics bridging.
+2026-09-30T21:58:58.927Z,Novolis.Messaging.Abstractions,2026.1.1.45,Novolis,Message contracts above channels (Frank.Messaging.Abstractions migration).
+2026-09-30T21:58:59.14Z,Novolis.Economy.Markets,2026.1.0.52,Novolis,Market estimate and imperfect-information stubs for Novolis economic simulation.
+2026-09-30T21:58:59.22Z,Novolis.Physics.Ballistics,2026.1.1.47,Novolis,Projectile drag helpers and static-world ray/sweep queries.
+2026-09-30T21:59:00.34Z,Novolis.Economy.Models.DeterministicBounded,2026.1.0.52,Novolis,Host-neutral finite deterministic economic model for regression and teaching.
+2026-09-30T21:59:00.553Z,Novolis.Physics.Cloth,2026.1.1.47,Novolis,"Cloth / fabric simulation: particle sheets, strain limits, blade and blast cutting. Separate from ragdoll Joints."
+2026-09-30T21:59:00.567Z,Novolis.Messaging.Channels,2026.1.1.45,Novolis,System.Threading.Channels registration for Microsoft.Extensions.DependencyInjection.
+2026-09-30T21:59:00.73Z,AxaFrance.WebEngine.Cli,3.26.273.2-preview,"AxaFrance, Huaxing YUAN",WebEngine CLI and local daemon for persistent Selenium browser automation sessions.
+2026-09-30T21:59:01.507Z,Novolis.Economy.Models.SmallOpenRegionalTrade,2026.1.0.52,Novolis,Host-neutral small open regional trade economic model and named scenarios.
+2026-09-30T21:59:01.753Z,Novolis.Physics.Collision.Simple,2026.1.1.47,Novolis,Static triangle mesh with BVH and query-only IStaticWorld implementation.
+2026-09-30T21:59:02.127Z,Novolis.Messaging.Coordination.Abstractions,2026.1.1.45,Novolis,"Distributed host coordination ports (presence, tick leadership, token denylist, rate limits)."
+2026-09-30T21:59:02.57Z,Novolis.Economy.Population,2026.1.0.52,Novolis,Consumer cohort and preference stubs for Novolis economic simulation.
+2026-09-30T21:59:02.917Z,Novolis.Physics.Gravity,2026.1.1.47,Novolis,Point and spherical gravity force models for Novolis.Physics.
+2026-09-30T21:59:03.42Z,Novolis.Messaging.Coordination.InMemory,2026.1.1.45,Novolis,In-process coordination implementations for single-host and tests.
+2026-09-30T21:59:03.677Z,Novolis.Economy.Primitives,2026.1.0.52,Novolis,"Small BCL-only vocabulary for economic identities, quantities, positions, and money."
+2026-09-30T21:59:03.943Z,Novolis.Windows.Audio,2026.1.1.14,Novolis,Windows WASAPI loopback capture for interactive session hosts.
+2026-09-30T21:59:04.137Z,Novolis.Physics.Joints,2026.1.1.47,Novolis,Distance constraints between dynamic spheres for ragdolls and chains.
+2026-09-30T21:59:04.867Z,Novolis.Economy.Production,2026.1.0.52,Novolis,"Product definitions, batches, facility IDs, Quantity/time ops vocabulary, and commands/events for Novolis economic simulation."
+2026-09-30T21:59:04.893Z,Novolis.Messaging.Coordination.Redis,2026.1.1.45,Novolis,StackExchange.Redis coordination (Garnet/Redis) with configurable key prefix.
+2026-09-30T21:59:05.293Z,Novolis.Windows.Clipboard,2026.1.1.14,Novolis,Windows text clipboard access for interactive session hosts.
+2026-09-30T21:59:05.327Z,Novolis.Physics.Motion,2026.1.1.47,Novolis,"Rigid-body motion, fixed timestep helpers, and force aggregation pipeline."
+2026-09-30T21:59:06.08Z,Novolis.Economy.Simulation,2026.1.0.52,Novolis,"Economic model composition and execution: clocks, phases, agents, runs, metrics, and manifests over Core authority."
+2026-09-30T21:59:06.253Z,Novolis.Messaging.SecureText,2026.1.1.45,Novolis,"Transport-neutral authenticated envelope, replay policy, and sessions for end-to-end secure text."
+2026-09-30T21:59:06.263Z,Novolis.Physics.Orbits,2026.1.1.47,Novolis,"Central-body orbital helpers, fixed-step Leapfrog, and SoA-oriented kernels."
+2026-09-30T21:59:06.793Z,Novolis.Windows.Display,2026.1.1.14,Novolis,Windows monitor topology and DPI discovery.
+2026-09-30T21:59:07.57Z,Novolis.Messaging.ServiceBus.Abstractions,2026.1.1.45,Novolis,"Service Bus client, sender, receiver, and admin ports."
+2026-09-30T21:59:08.02Z,Novolis.Windows.Input,2026.1.1.14,Novolis,Windows pointer and keyboard input injection primitives.
+2026-09-30T21:59:08.137Z,Novolis.Storage.Abstractions,2026.1.1.36,Novolis,Entity repository and event-store contracts with AddStorage DI composition.
+2026-09-30T21:59:08.873Z,Novolis.Messaging.ServiceBus.Broker.Almost,2026.1.1.45,Novolis,AlmostServiceBus in-process broker host for local development and tests.
+2026-09-30T21:59:09.163Z,Novolis.Testing.Appium,2026.1.1.40,Novolis,TUnit Appium session helpers for Android and Windows MAUI hosts.
+2026-09-30T21:59:09.24Z,Novolis.Windows.Pdf,2026.1.1.14,Novolis,Windows user-space PDF activation and current-user file association helpers.
+2026-09-30T21:59:09.35Z,Novolis.Storage.InMemory,2026.1.1.36,Novolis,In-memory IRepository provider for tests and playtest profiles.
+2026-09-30T21:59:10.223Z,Novolis.Testing.Coverage,2026.1.1.40,Novolis,Test helpers for coverage-closing work: public API surface probes for smoke tests. Cobertura collect/analyze/gate lives in Novolis.Tools.Coverage.
+2026-09-30T21:59:10.37Z,Novolis.Messaging.ServiceBus.Client,2026.1.1.45,Novolis,Azure.Messaging.ServiceBus adapter implementing Novolis Service Bus ports.
+2026-09-30T21:59:10.723Z,Novolis.Storage.Json,2026.1.1.36,Novolis,JSON file-per-entity IRepository provider.
+2026-09-30T21:59:10.75Z,Novolis.Windows.Sessions,2026.1.1.14,Novolis,Windows interactive session discovery and session identity helpers.
+2026-09-30T21:59:11.34Z,Novolis.Testing.Logging,2026.1.1.40,Novolis,Test logging for TUnit TestContext.
+2026-09-30T21:59:11.967Z,Novolis.Storage.LiteDb,2026.1.1.36,Novolis,LiteDB-backed IRepository provider.
+2026-09-30T21:59:11.97Z,Novolis.Messaging.ServiceBus.Primitives,2026.1.1.45,Novolis,Service Bus message envelope (IMessage<T> / Message<T>) and settle primitives.
+2026-09-30T21:59:12.433Z,Novolis.Testing.ServiceBus,2026.1.1.40,Novolis,TUnit Service Bus test host over AlmostServiceBus (Novolis Client + Broker.Almost).
+2026-09-30T21:59:13.247Z,Novolis.Storage.Sqlite,2026.1.1.36,Novolis,SQLite-backed IRepository provider.
+2026-09-30T21:59:13.48Z,Novolis.Testing.TUnit,2026.1.1.40,Novolis,"TUnit test output extensions (tables, JSON, C# dump)."
+2026-09-30T21:59:14.6Z,Novolis.Testing.TestBases,2026.1.1.40,Novolis,Test host bases for integration tests (TUnit).
+2026-09-30T21:59:15.713Z,Novolis.Testing.TestServer,2026.1.1.40,Novolis,In-memory test server helpers
+2026-09-30T21:59:16.78Z,Novolis.Testing.Testcontainers,2026.1.1.40,Novolis,Testcontainers helpers
+2026-09-30T21:59:20.41Z,Novolis.Rendering,2026.1.1.70,Novolis,"Rendering composition stack — materials, scene compile, CPU/GPU backends, presentation contracts."
+2026-09-30T21:59:21.523Z,Novolis.Rendering.Abstractions,2026.1.1.70,Novolis,"Graphics-host-neutral frame buffers, cameras, and ray tracing contracts."
+2026-09-30T21:59:22.81Z,Novolis.Rendering.Backends.Cpu,2026.1.1.70,Novolis,CPU path tracing backend with progressive accumulation.
+2026-09-30T21:59:23.453Z,Novolis.WorkflowEngine,2026.1.1.8,Novolis,"Named, manually invokable workflow pipelines for .NET applications."
+2026-09-30T21:59:23.877Z,Novolis.Transports.Abstractions,2026.1.1.56,Novolis,"Transport-neutral connection, stream, datagram, and capability contracts."
+2026-09-30T21:59:24.077Z,Novolis.Rendering.Backends.Igpu,2026.1.1.70,Novolis,ILGPU ray tracing backend (GPU compute with CPU fallback).
+2026-09-30T21:59:24.66Z,Novolis.WorkflowEngine.Abstractions,2026.1.1.8,Novolis,Contracts and execution records for Novolis workflows.
+2026-09-30T21:59:25.163Z,Novolis.Transports.Datagrams,2026.1.1.56,Novolis,UDP datagram channel primitives.
+2026-09-30T21:59:25.247Z,Novolis.Rendering.Backends.TwoD.Silk,2026.1.1.70,Novolis,Silk.NET OpenGL backend for Novolis.Rendering.TwoD.
+2026-09-30T21:59:26.04Z,Novolis.WorkflowEngine.Channels,2026.1.1.8,Novolis,System.Threading.Channels trigger adapter for Novolis workflows.
+2026-09-30T21:59:26.407Z,Novolis.Rendering.Backends.Vulkan,2026.1.1.70,Novolis,Vulkan backends: compute path tracing and interactive wireframe graphics (SPIR-V).
+2026-09-30T21:59:26.49Z,Novolis.Transports.Discovery,2026.1.1.56,Novolis,Generic UDP discovery beacon primitives.
+2026-09-30T21:59:26.583Z,Novolis.Video.Abstractions,2026.1.0.23,Novolis,"Platform-neutral capture, encoded-frame, encoder, and decoder contracts."
+2026-09-30T21:59:27.04Z,Novolis.Ship.Analysis,2026.1.1.22,Novolis,"Engineering plausibility analysis for ShipDesign: mass, gravity loads, pressure, decompression, structural sanity, clearance (GREEN/YELLOW/RED heuristics)."
+2026-09-30T21:59:27.217Z,Novolis.WorkflowEngine.Hosting,2026.1.1.8,Novolis,Generic-host integration for Novolis workflows.
+2026-09-30T21:59:27.58Z,Novolis.Rendering.Compile,2026.1.1.70,Novolis,Scene compilation into flat runtime structures and BVH.
+2026-09-30T21:59:27.817Z,Novolis.Transports.Framing,2026.1.1.56,Novolis,Length-prefixed stream framing primitives.
+2026-09-30T21:59:27.993Z,Novolis.Video.Capture.Windows,2026.1.0.23,Novolis,Windows webcam capture for Novolis.Video.Rtc (SIPSorceryMedia.Windows).
+2026-09-30T21:59:28.3Z,Novolis.Ship.Design,2026.1.1.22,Novolis,"Object-first ship design model: ShipDesign graph with per-object CadDocument construction, structure factory, and cutout relationships."
+2026-09-30T21:59:28.577Z,Novolis.WorkflowEngine.Mapping,2026.1.1.8,Novolis,Novolis.Mapping adapters for workflow transformations.
+2026-09-30T21:59:28.753Z,Novolis.Rendering.DependencyInjection,2026.1.1.70,Novolis,Dependency injection registration for ray tracing backends.
+2026-09-30T21:59:29.4Z,Novolis.Video.Codecs.H264,2026.1.0.23,Novolis,Windows Media Foundation H.264 encoding and decoding.
+2026-09-30T21:59:29.58Z,Novolis.Ship.Primitives,2026.1.1.22,Novolis,"Ship CAD DTOs and property helpers (pressure volumes, airlocks, hatch pressure fields) on Novolis.Cad.Primitives."
+2026-09-30T21:59:29.837Z,Novolis.WorkflowEngine.Scheduling,2026.1.1.8,Novolis,Cron trigger adapter for Novolis workflows.
+2026-09-30T21:59:29.87Z,Novolis.Rendering.Materials,2026.1.1.70,Novolis,Authoring materials and compile-to-GpuMaterial helpers.
+2026-09-30T21:59:30.097Z,Novolis.Transports.Http,2026.1.1.56,Novolis,Package Description
+2026-09-30T21:59:30.9Z,Novolis.Video.Edit,2026.1.0.23,Novolis,"Minimal Movie Maker–style project model: collections, storyboard clips, transport, and solid-color preview frames."
+2026-09-30T21:59:31.19Z,Novolis.Ship.Structure,2026.1.1.22,Novolis,"Ship structural plate BOM/mass rollup and primary structure CadDocument builders (hull, decks, frames, longitudinals, bulkheads)."
+2026-09-30T21:59:31.373Z,Novolis.Transports.Http.Abstractions,2026.1.1.56,Novolis,Package Description
+2026-09-30T21:59:31.623Z,Novolis.Rendering.PathTrace.Demos,2026.1.1.70,Novolis,"Shared path-tracing demo scenes, async workers, and session helpers for Silk and Raylib samples."
+2026-09-30T21:59:32.047Z,Novolis.Video.Rtc,2026.1.0.23,Novolis,SIPSorcery-backed mesh RTC session implementing IRtcMeshSession.
+2026-09-30T21:59:32.513Z,Novolis.Ship.Topology,2026.1.1.22,Novolis,"Ship compartment airtightness graph: sealed volumes, vents to exterior, space.flags refresh."
+2026-09-30T21:59:32.5Z,Novolis.Transports.Http.Authentication,2026.1.1.56,Novolis,Package Description
+2026-09-30T21:59:33.13Z,Novolis.Rendering.Presentation.Abstractions,2026.1.1.70,Novolis,Host-neutral presentation contracts for CPU and GPU frame output.
+2026-09-30T21:59:33.27Z,Novolis.Simulation,2026.1.1.55,Novolis,"Simulation composition stack — worlds, views, and kinematics for Novolis apps."
+2026-09-30T21:59:33.27Z,Novolis.Video.Rtc.Abstractions,2026.1.0.23,Novolis,"RTC mesh contracts: video frames, signal messages, and IRtcMeshSession."
+2026-09-30T21:59:33.717Z,Novolis.Ship.Validation,2026.1.1.22,Novolis,"Ship CAD validation rules: hatch clearances, airlocks, orphan openings, LOA envelope."
+2026-09-30T21:59:34.017Z,Novolis.Transports.Http.Extensions,2026.1.1.56,Novolis,Package Description
+2026-09-30T21:59:34.457Z,Novolis.Simulation.Abstractions,2026.1.1.55,Novolis,"Simulation orchestration contracts (systems, state, objects)."
+2026-09-30T21:59:34.517Z,Novolis.Rendering.Presentation.Raylib,2026.1.1.70,Novolis,Present CPU ray-traced frames via Raylib textures (host adapter).
+2026-09-30T21:59:35.75Z,Novolis.Simulation.Humanoid,2026.1.1.55,Novolis,"Standard Mixamo/Unity-compatible humanoid skeleton: bind pose, FK/IK, and animation clips for rigging and mocap retarget."
+2026-09-30T21:59:36.153Z,Novolis.Transports.LocalIpc,2026.1.1.56,Novolis,Local IPC transport for typed request/response and event streams over named pipes or Unix domain sockets.
+2026-09-30T21:59:36.19Z,Novolis.Rendering.Presentation.Silk,2026.1.1.70,Novolis,Silk.NET window host and OpenGL CPU frame presenter.
+2026-09-30T21:59:36.953Z,Novolis.Simulation.Humanoid.Import,2026.1.1.55,Novolis,BVH mocap and lightweight glTF joint import retargeted into Simulation.Humanoid clips.
+2026-09-30T21:59:38.287Z,Novolis.Simulation.Humanoid.Physics,2026.1.1.55,Novolis,Bridge between Simulation.Humanoid poses and Physics.Joints ragdoll spheres.
+2026-09-30T21:59:38.553Z,Novolis.Rendering.Runtime,2026.1.1.70,Novolis,Flat runtime scene structures and ray tracing backend contracts.
+2026-09-30T21:59:38.673Z,Novolis.Transports.Quic,2026.1.1.56,Novolis,Secure QUIC stream connections and listeners for Novolis transports.
+2026-09-30T21:59:40.043Z,Novolis.Transports.Tailscale,2026.1.1.56,Novolis,Tailscale interface and IPv4 address discovery.
+2026-09-30T21:59:40.41Z,Novolis.Rendering.Scene,2026.1.1.70,Novolis,Authoring scene graph for ray tracing.
+2026-09-30T21:59:40.427Z,Novolis.Simulation.Humanoid.Skinning,2026.1.1.55,Novolis,CPU linear-blend skinning and AdaptiveMesh person hulls for Simulation.Humanoid / ragdoll graphs.
+2026-09-30T21:59:41.223Z,Novolis.Transports.Tcp,2026.1.1.56,Novolis,Transport-neutral TCP connection and listener adapters.
+2026-09-30T21:59:41.54Z,Novolis.Rendering.Testing,2026.1.1.70,Novolis,Golden test helpers for headless CPU frame output.
+2026-09-30T21:59:41.66Z,Novolis.Simulation.Kinematics,2026.1.1.55,Novolis,Composed planar agent motion (grid occupancy and BVH sweep).
+2026-09-30T21:59:42.503Z,Novolis.Transports.Tcp.Abstractions,2026.1.1.56,Novolis,TCP connection middleware pipeline and in-memory transport helpers.
+2026-09-30T21:59:42.757Z,Novolis.Rendering.TwoD,2026.1.1.70,Novolis,"Host-neutral 2D scene model: sprites, animation, static polygons, collision, HUD, and menus."
+2026-09-30T21:59:43.257Z,Novolis.Simulation.Mesh,2026.1.1.55,Novolis,"DTN/relay mesh kernel: publish, flood, TTL, mailbox, and pathfinding for delayed packet traffic."
+2026-09-30T21:59:43.78Z,Novolis.Transports.Tcp.Client,2026.1.1.56,Novolis,Package Description
+2026-09-30T21:59:44.407Z,Novolis.Simulation.Racing,2026.1.1.55,Novolis,"Headless neural-racing simulation: tracks, sensors, rewards, and tick-based race loop."
+2026-09-30T21:59:45.157Z,Novolis.Transports.Tcp.Server,2026.1.1.56,Novolis,Package Description
+2026-09-30T21:59:45.68Z,Novolis.Simulation.Replay,2026.1.1.55,Novolis,"Deterministic simulation timelines, step records, and playback helpers."
+2026-09-30T21:59:46.44Z,Novolis.Transports.Torrent,2026.1.1.56,Novolis,"BitTorrent Protocol 1.0 peer client: BEncode, .torrent metadata, HTTP/UDP trackers, peer wire, piece persistence. Ported from Frank.TorrentClient (MIT; original Aljaz Simonic / Frank R. Haugen)."
+2026-09-30T21:59:46.92Z,Novolis.Simulation.SpaceCombat,2026.1.1.55,Novolis,"Headless arcade space combat: craft flight, bolts, targeting, dual-role mission phases."
+2026-09-30T21:59:47.663Z,Novolis.Transports.Udp,2026.1.1.56,Novolis,Bounded UDP datagram channels and packet transport primitives.
+2026-09-30T21:59:48.063Z,Novolis.Simulation.Tiles,2026.1.1.55,Novolis,"Prison Architect–style layered tile maps, edge walls/doors, room flood-fill, and grid A*."
+2026-09-30T21:59:48.95Z,Novolis.Transports.WireFish,2026.1.1.56,Novolis,"Live network capture via SharpPcap, routed through Novolis.Messaging.Channels to IPacketHandler implementations."
+2026-09-30T21:59:49.37Z,Novolis.Simulation.View,2026.1.1.55,Novolis,"View controllers and poses for games, CAD, and simulation observers."
+2026-09-30T21:59:50.663Z,Novolis.Snapshots.Abstractions,2026.1.2.35,Novolis,Save/load state primitives for Novolis snapshots (not version control).
+2026-09-30T21:59:51.293Z,Novolis.Simulation.Voxels,2026.1.1.55,Novolis,"Chunked voxel world (16³), streaming, terrain fill, dig/place — Minecraft-clone capable storage."
+2026-09-30T21:59:51.92Z,Novolis.Snapshots.FileSystem,2026.1.2.35,Novolis,File-system blob snapshot store using System.IO.Abstractions.
+2026-09-30T21:59:52.593Z,Novolis.Simulation.Voxels.Meshing,2026.1.1.55,Novolis,Face-culled and greedy voxel meshing to Math.Geometry EditableMesh / TriangleMesh.
+2026-09-30T21:59:53.06Z,Novolis.Snapshots.Json,2026.1.2.35,Novolis,System.Text.Json state serializer for Novolis snapshots.
+2026-09-30T21:59:53.657Z,Novolis.Simulation.World,2026.1.1.55,Novolis,"Planar occupancy grids, LOS, and collision queries on XZ (+Y up)."
+2026-09-30T21:59:54.14Z,Novolis.Snapshots.Memory,2026.1.2.35,Novolis,In-memory snapshot store for tests and ephemeral sessions.
+2026-09-30T21:59:55.04Z,Novolis.Simulation.World.Builders,2026.1.1.55,Novolis,Build physics worlds from occupancy grids.
+2026-09-30T21:59:55.173Z,Novolis.Snapshots.Zip,2026.1.2.35,Novolis,Zip archive snapshot store for serialized state.
+2026-09-30T21:59:56.313Z,Novolis.Timeline.Abstractions,2026.1.2.35,Novolis,Branchable history graph over snapshot references (not version control).
+2026-09-30T21:59:58.617Z,Novolis.Timeline.FileSystem,2026.1.2.35,Novolis,Persists timeline graphs under a directory using System.IO.Abstractions.
+2026-09-30T21:59:58.72Z,Novolis.Xsd,2026.1.2.20,Novolis,"Shared XML serialize helpers for Novolis XSD/UBL packages (cached XmlSerializer, stream I/O)."
+2026-09-30T21:59:59.753Z,Novolis.Timeline.Memory,2026.1.2.35,Novolis,In-memory timeline for tests and ephemeral sessions.
+2026-09-30T21:59:59.817Z,Novolis.Xsd.Generator,2026.1.2.20,Novolis,XSD to C# generation host using Novolis.CodeGen.Xml SchemaGraph and Novolis.CodeGen.Xsd Roslyn Wire emit.
+2026-09-30T22:00:01.11Z,Novolis.Timeline.Presentation,2026.1.2.35,Novolis,"Tree and flat-row projections for timeline UI (Avalonia, Blazor, WPF)."
+2026-09-30T22:00:01.547Z,Novolis.Xsd.Ubl,2026.1.2.20,Novolis,Pre-generated OASIS UBL 2.1 document models and serialize helpers.
+2026-09-30T22:00:02.587Z,Novolis.Workspaces.Abstractions,2026.1.2.35,Novolis,"Workspace, project, and manifest model for editor and studio apps."
+2026-09-30T22:00:02.737Z,Novolis.Xsd.Ubl.Lean,2026.1.2.20,Novolis,UBL Invoice/CreditNote/Reminder Base records + interfaces (StripEmbedded; BinaryObjectRef metadata only).
+2026-09-30T22:00:02.913Z,Novolis.Raylib,2026.1.2.108,Novolis,"Novolis Raylib — one install for games, tools, and realtime apps (raylib + Dear ImGui)."
+2026-09-30T22:00:03.853Z,Novolis.Xsd.Ubl.Validation,2026.1.2.20,Novolis,XSD schema validation for Novolis.Xsd.Ubl documents (not Peppol Schematron).
+2026-09-30T22:00:03.98Z,Novolis.Raylib.Abstractions,2026.1.2.108,Novolis,Frame and shell contracts for Novolis.Raylib (transitive dependency; do not reference directly).
+2026-09-30T22:00:04.657Z,Novolis.Workspaces.DotNet.Abstractions,2026.1.2.35,Novolis,Typed .NET solution workspace contracts over an I/O workspace root.
+2026-09-30T22:00:04.7Z,Novolis.Avalonia.Agent,2026.1.6.192,Novolis,"In-process Avalonia UI agent host: LocalIpc ui.* protocol, tree dump, screenshot, click/type/wait."
+2026-09-30T22:00:05.293Z,Novolis.Raylib.Bindings,2026.1.2.108,Novolis,Generated raylib 6 + ImGui P/Invoke (manifest-driven; do not hand-edit Interop/*.g.cs).
+2026-09-30T22:00:05.757Z,Novolis.Workspaces.DotNet.Git,2026.1.2.35,Novolis,Explicit relationships between .NET solution and Git repository workspaces.
+2026-09-30T22:00:05.887Z,Novolis.Avalonia.Agent.Protocol,2026.1.6.192,Novolis,"MessagePack DTOs, LocalIpc helpers, and client for the Avalonia UI agent protocol (ui.*)."
+2026-09-30T22:00:06.46Z,Novolis.Raylib.Capture,2026.1.2.108,Novolis,Package Description
+2026-09-30T22:00:06.963Z,Novolis.Avalonia.Audio,2026.1.6.192,Novolis,Avalonia multi-track audio editor chrome (Music Maker / Audacity–style lightweight).
+2026-09-30T22:00:07.003Z,Novolis.Workspaces.DotNet.Indexing,2026.1.2.35,Novolis,Immutable solution catalog snapshots and generated typed exploration façades.
+2026-09-30T22:00:07.61Z,Novolis.Raylib.Game,2026.1.2.108,Novolis,Low-ceremony jam and tutorial API for Novolis.Raylib.
+2026-09-30T22:00:07.983Z,Novolis.Avalonia.Briefing,2026.1.6.192,Novolis,"Avalonia briefing primitives: radio feed, scorecard, dual metric strip, and metric tables (code-only, no XAML)."
+2026-09-30T22:00:08.08Z,Novolis.Workspaces.DotNet.MSBuild,2026.1.2.35,Novolis,Context-aware MSBuild evaluation for typed .NET solution workspaces.
+2026-09-30T22:00:08.877Z,Novolis.Raylib.Hosting,2026.1.2.108,Novolis,"IHost integration, DI, and phased game loops for Novolis.Raylib."
+2026-09-30T22:00:09.17Z,Novolis.Avalonia.Cad,2026.1.6.192,Novolis,"Shared Avalonia CAD editor/preview surface (.cadjson), Raylib model view, exports, and localhost HTTP/TCP session for LLM control."
+2026-09-30T22:00:09.693Z,Novolis.Workspaces.DotNet.Roslyn,2026.1.2.35,Novolis,Roslyn semantic projections for typed .NET solution workspaces.
+2026-09-30T22:00:10.963Z,Novolis.Workspaces.DotNet.Slnx,2026.1.2.35,Novolis,Physical .NET solution topology reader for SLNX files.
+2026-09-30T22:00:11.06Z,Novolis.Raylib.Input,2026.1.2.108,Novolis,Input source abstractions for Raylib hosts (Frank.GameEngine.Input subset).
+2026-09-30T22:00:11.693Z,Novolis.Avalonia.Cad.Ship,2026.1.6.192,Novolis,"Ship/freighter CAD chrome (exterior silhouette, ship workspace import) for Avalonia.Cad hosts."
+2026-09-30T22:00:12.97Z,Novolis.Raylib.Loaders,2026.1.2.108,Novolis,Wavefront OBJ mesh loading for Raylib samples (Frank.GameEngine.Assets subset).
+2026-09-30T22:00:13.877Z,Novolis.Avalonia.Chat,2026.1.6.192,Novolis,"DTO-bound Avalonia chat rail, Markdown thread, and presence chrome."
+2026-09-30T22:00:13.87Z,Novolis.Workspaces.FileSystem,2026.1.2.35,Novolis,Physical workspace layout on disk using System.IO.Abstractions.
+2026-09-30T22:00:13.987Z,Novolis.Raylib.Manifests,2026.1.2.108,Novolis,C#-authoritative binding manifests for Novolis.Raylib.
+2026-09-30T22:00:15.06Z,Novolis.Workspaces.Projects.Timeline,2026.1.2.35,Novolis,Project-scoped save points and restore points within a workspace.
+2026-09-30T22:00:15.23Z,Novolis.Avalonia.Controls,2026.1.6.192,Novolis,"Reusable Avalonia interaction atoms: choice/picker dialogs, marked lists, job queue panels, sortable data grid, hex dump, detail tree (code-only, no XAML)."
+2026-09-30T22:00:15.35Z,Novolis.Raylib.Native,2026.1.2.108,Novolis,"raylib 6, ImGui shim, and trace forwarder native binaries per RID (desktop); android-arm64 static libraylib.a + NativeActivity host .so (transitive; do not reference directly)."
+2026-09-30T22:00:16.27Z,Novolis.Workspaces.Snapshots,2026.1.2.35,Novolis,Zip snapshot adapter for Novolis workspaces with include/exclude policy.
+2026-09-30T22:00:16.463Z,Novolis.Raylib.Raygui,2026.1.2.108,Novolis,raygui widgets add-on for Novolis.Raylib (optional; requires novolis_raygui native).
+2026-09-30T22:00:16.933Z,Novolis.Avalonia.Controls.Sketch,2026.1.6.192,Novolis,"Excalidraw-inspired SketchControl and document model for Avalonia (code-only, no XAML)."
+2026-09-30T22:00:17.827Z,Novolis.Raylib.Raygui.Native,2026.1.2.108,Novolis,novolis_raygui native binaries per RID (transitive with Novolis.Raylib.Raygui).
+2026-09-30T22:00:17.843Z,Novolis.Workspaces.Timeline,2026.1.2.35,Novolis,Workspace save points and restore points composed from snapshots and timeline.
+2026-09-30T22:00:18.063Z,Novolis.Avalonia.Diagnostics,2026.1.6.192,Novolis,Avalonia startup exception harness and diagnostic-sharing abstractions.
+2026-09-30T22:00:18.84Z,Novolis.Raylib.Runtime,2026.1.2.108,Novolis,"Generated raylib façades, HUD, and GUI; hand-crafted shell, logging, and debug (interop in Novolis.Raylib.Bindings)."
+2026-09-30T22:00:19.3Z,Novolis.Avalonia.Gaming,2026.1.6.192,Novolis,"Avalonia game shell: Silk/TwoD viewport host with HUD and modal menu overlays, HardPause defaults for interactive UIs."
+2026-09-30T22:00:19.84Z,Novolis.Raylib.Testing,2026.1.2.108,Novolis,Offscreen raylib test harness and debug helpers (optional; for test projects only).
+2026-09-30T22:00:20.523Z,Novolis.Avalonia.Git,2026.1.6.192,Novolis,"Composable Avalonia Git chrome (commit graph, repo matrix, branches, stash, diff) bound to Novolis.IO.Git — not a product host."
+2026-09-30T22:00:21.7Z,Novolis.Avalonia.GraphicalProfile,2026.1.6.192,Novolis,"Required Novolis graphical profile for Avalonia hosts: Merglyph palette, typography, geometry, and theme resources."
+2026-09-30T22:00:23.2Z,Novolis.Avalonia.Layout,2026.1.6.192,Novolis,Avalonia layout shells (no XAML): AnalyzerWorkspace and adaptive AuthoringWorkspace (Wide/Narrow).
+2026-09-30T22:00:24.373Z,Novolis.Avalonia.Live,2026.1.6.192,Novolis,"Avalonia Live editor, DSL completion, script compiler, and visualizers for Novolis Audio Live."
+2026-09-30T22:00:25.71Z,Novolis.Avalonia.Manuscript,2026.1.6.192,Novolis,Composable Avalonia chrome panels for manuscript editors (not a product host).
+2026-09-30T22:00:26.883Z,Novolis.Avalonia.Map,2026.1.6.192,Novolis,"Provider-neutral Avalonia map viewport with geospatial markers, circles, tiles, selection, and attribution."
+2026-09-30T22:00:28.04Z,Novolis.Avalonia.Markdown,2026.1.6.192,Novolis,"Avalonia Markdown editor, live preview, and split-pane controls with line numbers and Ctrl+scroll zoom."
+2026-09-30T22:00:29.363Z,Novolis.Avalonia.Mermaid,2026.1.6.192,Novolis,Avalonia Mermaid diagram control: render Mermaid source (or Novolis.Markup.Mermaid builders) to SVG via Novolis.Markup.Mermaid.Rendering.
+2026-09-30T22:00:30.203Z,Novolis.Audio,2026.1.10.87,Novolis,Cross-platform audio (miniaudio native + manifest codegen). Install this meta package.
+2026-09-30T22:00:30.777Z,Novolis.Avalonia.Mobile,2026.1.6.192,Novolis,"Avalonia mobile/desktop platform abstractions: secure token store, app data paths, browser launcher, device-flow presenter helpers."
+2026-09-30T22:00:31.397Z,Novolis.Audio.Abstractions,2026.1.10.87,Novolis,Cross-platform audio abstractions (engine and sound handles).
+2026-09-30T22:00:32.03Z,Novolis.Avalonia.Mobile.Android,2026.1.6.192,Novolis,"Android implementations of Novolis.Avalonia.Mobile (EncryptedSharedPreferences, FilesDir, Custom Tabs)."
+2026-09-30T22:00:32.503Z,Novolis.Audio.Bindings,2026.1.10.87,Novolis,Generated novolis_audio P/Invoke (manifest-driven; do not hand-edit Interop/*.g.cs).
+2026-09-30T22:00:33.43Z,Novolis.Avalonia.Mobile.Desktop,2026.1.6.192,Novolis,"Windows desktop implementations of Novolis.Avalonia.Mobile (Credential Manager, LocalAppData, system browser)."
+2026-09-30T22:00:33.533Z,Novolis.Audio.Catalog,2026.1.10.87,Novolis,"Browse curated free/CC media collections, download/cache licensed items, and run explore transformers (PCM decode, audio→MIDI sketch). Does not scrape commercial catalogs (Artlist, Epidemic, …)."
+2026-09-30T22:00:34.447Z,Novolis.Security.Authentication,2026.1.1.46,Novolis,"Application sign-in: identity, isolated credentials, and browser sessions. Not an Identity Provider."
+2026-09-30T22:00:34.82Z,Novolis.Audio.Codecs,2026.1.10.87,Novolis,Audio codec contracts; WAV encoding lives in Core.
+2026-09-30T22:00:35.763Z,Novolis.Security.Authentication.Abstractions,2026.1.1.46,Novolis,"Global identity, credential, session, and authentication event contracts. Not an Identity Provider."
+2026-09-30T22:00:37.283Z,Novolis.Audio.Core,2026.1.10.87,Novolis,"PCM buffers, WAV read/write, and shared audio primitives."
+2026-09-30T22:00:37.583Z,Novolis.Security.Authentication.AspNetCore,2026.1.1.46,Novolis,ASP.NET Core façade for Novolis application sign-in; may map the OAuth token-mint endpoints. Not an Identity Provider.
+2026-09-30T22:00:38.773Z,Novolis.Security.Authentication.Storage,2026.1.1.46,Novolis,IRepository adapters for isolated identity-directory and credential-vault records. Not an IdP user store.
+2026-09-30T22:00:39.887Z,Novolis.Security.Authorization,2026.1.1.46,Novolis,"Tenant authorization framework: groups, roles, composite roles, default deny. Not OAuth scopes and not an IdP."
+2026-09-30T22:00:40.273Z,Novolis.Audio.Edit,2026.1.10.87,Novolis,"Lightweight multi-track arrangement editor (Music Maker / Audacity–style): library, tracks, fades, mix export."
+2026-09-30T22:00:41.443Z,Novolis.Audio.Effects,2026.1.10.87,Novolis,"PCM effect chains (dynamics, gain, coloration) and pipelines for voice and playback."
+2026-09-30T22:00:42.94Z,Novolis.Audio.Filters,2026.1.10.87,Novolis,"PCM frequency-domain filters (band-limit, future EQ)."
+2026-09-30T22:00:43.263Z,Novolis.Security.Authorization.Abstractions,2026.1.1.46,Novolis,"Tenant authorization contracts: groups, roles, permissions, and decisions. Not an Identity Provider."
+2026-09-30T22:00:44.18Z,Novolis.Audio.Live,2026.1.10.87,Novolis,"Live music runtime, compiler, scheduler, and program swap state."
+2026-09-30T22:00:44.3Z,Novolis.Security.Authorization.AspNetCore,2026.1.1.46,Novolis,"ASP.NET Core metadata, policies, and tenant context for the Novolis tenant authorization framework."
+2026-09-30T22:00:46.21Z,Novolis.Audio.Live.Dsl,2026.1.10.87,Novolis,"Discoverable DSL helpers for Novolis Audio Live programs, instruments, and effects."
+2026-09-30T22:00:46.25Z,Novolis.Security.Authorization.Storage,2026.1.1.46,Novolis,IRepository adapters for tenant authorization graphs. Not OAuth storage and not an IdP.
+2026-09-30T22:00:47.39Z,Novolis.Security.Cryptography,2026.1.1.46,Novolis,"CSPRNG, constant-time compare, and HKDF-SHA512 helpers."
+2026-09-30T22:00:48.403Z,Novolis.Audio.Live.Protocol,2026.1.10.87,Novolis,"MessagePack DTOs, IPC helpers, and REPL client for Novolis Audio Live."
+2026-09-30T22:00:48.543Z,Novolis.Security.Encryption,2026.1.1.46,Novolis,Package Description
+2026-09-30T22:00:51.79Z,Novolis.Audio.Live.Render,2026.1.10.87,Novolis,Basic NAudio oscillator synthesis for Novolis Audio Live (v0 waveforms; EffectKind ignored).
+2026-09-30T22:00:51.843Z,Novolis.Security.HaveIBeenPwned,2026.1.1.46,Novolis,Package Description
+2026-09-30T22:00:53.057Z,Novolis.Audio.Live.Visuals,2026.1.10.87,Novolis,View-model projections and visual state helpers for Novolis Audio Live.
+2026-09-30T22:00:53.067Z,Novolis.Security.OAuth,2026.1.1.46,Novolis,"OAuth access-token mint (Authorization Code + PKCE, rotating refresh, ES384 JWT). Not an OpenID Provider or IdentityServer replacement."
+2026-09-30T22:00:54.143Z,Novolis.Audio.Manifests,2026.1.10.87,Novolis,C#-authoritative binding manifests for Novolis.Audio.
+2026-09-30T22:00:54.17Z,Novolis.Security.OAuth.Abstractions,2026.1.1.46,Novolis,Contracts for the Novolis OAuth access-token mint. Not an OpenID Provider.
+2026-09-30T22:00:55.203Z,Novolis.Audio.Midi,2026.1.10.87,Novolis,"MIDI piano, music score / piano-roll model, SMF I/O, MusicXML/JSON bridges, patches, and SkiaSharp score export."
+2026-09-30T22:00:55.327Z,Novolis.Security.OAuth.AspNetCore,2026.1.1.46,Novolis,"ASP.NET Core authorize, token, revoke, JWKS, and discovery endpoints for the Novolis OAuth token mint. Not an OpenID Provider."
+2026-09-30T22:00:56.173Z,Novolis.Audio.MusicTheory,2026.1.10.87,Novolis,"Typed musical primitives for notes, chords, tempo, and instruments."
+2026-09-30T22:00:56.457Z,Novolis.Security.OAuth.Storage,2026.1.1.46,Novolis,IRepository adapters for the Novolis OAuth token-mint stores. Not an IdP user directory.
+2026-09-30T22:00:57.253Z,Novolis.Audio.MusicXml,2026.1.10.87,Novolis,Strongly typed MusicXML 4 partwise I/O plus JSON interchange (MusicJSON mirror and Novolis Score JSON).
+2026-09-30T22:00:57.51Z,Novolis.Security.PasswordHashing,2026.1.1.46,Novolis,Argon2id password hashing with PHC-encoded hashes.
+2026-09-30T22:00:58.58Z,Novolis.Audio.Native,2026.1.10.87,Novolis,novolis_audio (miniaudio) native binaries per RID (transitive; do not reference directly).
+2026-09-30T22:00:59.297Z,Novolis.Security.Secrets,2026.1.1.46,Novolis,Package Description
+2026-09-30T22:00:59.7Z,Novolis.Audio.Output.Abstractions,2026.1.10.87,Novolis,"Game audio output contract (master volume, device probe)."
+2026-09-30T22:01:00.32Z,Novolis.Security.SecureText,2026.1.1.46,Novolis,"Cryptographic primitives, device identities, and public bundles for authenticated end-to-end text transport."
+2026-09-30T22:01:00.9Z,Novolis.Audio.Output.NAudio,2026.1.10.87,Novolis,NAudio-backed game audio output probe and DI registration.
+2026-09-30T22:01:02.03Z,Novolis.Audio.Patterns,2026.1.10.87,Novolis,Immutable pattern graph primitives for live music composition.
+2026-09-30T22:01:03.223Z,Novolis.Audio.Playback,2026.1.10.87,Novolis,PCM playback and microphone capture (decoupled from miniaudio runtime).
+2026-09-30T22:01:04.297Z,Novolis.Audio.Runtime,2026.1.10.87,Novolis,Generated audio facades and MiniaudioAudioEngine host adapter.
+2026-09-30T22:01:05.363Z,Novolis.Audio.Voice,2026.1.10.87,Novolis,"Voice facade: TTS SpeakAsync and STT ListenAsync over pluggable synthesizers, effects, and PCM I/O."
+2026-09-30T22:01:06.47Z,Novolis.Audio.Voice.Abstractions,2026.1.10.87,Novolis,"TTS/STT contracts, speech model catalog, and null engines for CI."
+2026-09-30T22:01:07.66Z,Novolis.Audio.Voice.AzureSpeech,2026.1.10.87,Novolis,Thin Azure Speech synthesis client with key or Microsoft Entra credentials and MP3 output.
+2026-09-30T22:01:08.683Z,Novolis.Audio.Voice.Design,2026.1.10.87,Novolis,"Voice preset drafts, C# code export, and preview factory for voice studio tooling."
+2026-09-30T22:01:09.97Z,Novolis.Audio.Voice.Kokoro,2026.1.10.87,Novolis,KokoroSharp CPU offline TTS adapter for Novolis.Audio.Voice.
+2026-09-30T22:01:11.06Z,Novolis.Audio.Voice.Phraseology,2026.1.10.87,Novolis,ICAO-style phraseology normalization for voice pipelines.
+2026-09-30T22:01:12.167Z,Novolis.Audio.Voice.Platform.Abstractions,2026.1.10.87,Novolis,Voice synthesizer backend selection and platform speech options for OS TTS adapters.
+2026-09-30T22:01:13.47Z,Novolis.Audio.Voice.Platform.Android,2026.1.10.87,Novolis,Android TextToSpeech IVoiceService adapter for local device playback.
+2026-09-30T22:01:14.653Z,Novolis.Audio.Voice.Platform.Windows,2026.1.10.87,Novolis,Windows OS speech synthesis IVoiceService adapter (Speak only; no PCM export).
+2026-09-30T22:01:15.75Z,Novolis.Audio.Voice.Profiles,2026.1.10.87,Novolis,Neutral base-voice archetypes (catalog only). Apply via Novolis.Audio.Voice.VoiceArchetypeApplicator.
+2026-09-30T22:01:16.873Z,Novolis.Audio.Voice.SherpaOnnx,2026.1.10.87,Novolis,Sherpa-ONNX offline TTS/STT/VAD with bundled Piper and speech models.
