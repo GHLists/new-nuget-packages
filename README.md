@@ -12,40 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 17:19 UTC
+## Latest list — 2026-09-30 18:20 UTC
 
-New packages created between 2026-09-30 16:20 UTC and 2026-09-30 17:19 UTC.
+New packages created between 2026-09-30 17:19 UTC and 2026-09-30 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-30T17-19-00-694489Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-30T18-20-08-040042Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-30 16:30:27 | [Rkd.Scalar.HttpLogging.SqlServer](https://www.nuget.org/packages/Rkd.Scalar.HttpLogging.SqlServer) | 2.5.0 | Rodrigo Kmiecik | SQL Server sink for the HTTP logging of Rkd.Scalar (WithHttpLogging): writes th… |
-| 2026-09-30 16:30:37 | [Wolflog.Client.Blazor](https://www.nuget.org/packages/Wolflog.Client.Blazor) | 0.2.0 | Wolflog contributors | Audience web anonyme et santé des circuits pour Blazor Server : événements depu… |
-| 2026-09-30 16:40:12 | [Shiny.AppDeviceBridge](https://www.nuget.org/packages/Shiny.AppDeviceBridge) | 1.1.0 | aritchie,ShinyLib | The bridge server: native device services as HTTP endpoints on your app's own S… |
-| 2026-09-30 16:40:15 | [Shiny.AppDeviceBridge.Beacons](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Beacons) | 1.1.0 | aritchie,ShinyLib | Beacon endpoints for a Shiny.AppDeviceBridge web app, backed by Shiny.Beacons —… |
-| 2026-09-30 16:40:16 | [Shiny.AppDeviceBridge.Beacons.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Beacons.Client) | 1.1.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge beacons bridge — iBeac… |
-| 2026-09-30 16:40:25 | [Shiny.AppDeviceBridge.Geofencing](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Geofencing) | 1.1.0 | aritchie,ShinyLib | Geofencing endpoints for a Shiny.AppDeviceBridge web app, backed by Shiny.Geofe… |
-| 2026-09-30 16:40:25 | [Shiny.AppDeviceBridge.Geofencing.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Geofencing.Client) | 1.1.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge geofencing bridge — mo… |
-| 2026-09-30 16:40:28 | [Shiny.AppDeviceBridge.Gps](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Gps) | 1.1.0 | aritchie,ShinyLib | GPS and motion activity endpoints for a Shiny.AppDeviceBridge web app, backed b… |
-| 2026-09-30 16:40:29 | [Shiny.AppDeviceBridge.Gps.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Gps.Client) | 1.1.0 | aritchie,ShinyLib | Typed clients and contracts for the Shiny.AppDeviceBridge GPS and motion activi… |
-| 2026-09-30 16:40:42 | [Shiny.AppDeviceBridge.Tunnel](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Tunnel) | 1.1.0 | aritchie,ShinyLib | A public HTTPS address for a Shiny.AppDeviceBridge server, opened and closed wh… |
-| 2026-09-30 16:43:01 | [TheNerdCollective.Integrations.Brevo](https://www.nuget.org/packages/TheNerdCollective.Integrations.Brevo) | 1.0.0 | The Nerd Collective | Integration client for the Brevo API v3, for contacts and transactional email. |
-| 2026-09-30 16:44:18 | [Fuaran.UI.Cli](https://www.nuget.org/packages/Fuaran.UI.Cli) | 0.88.0 | Andrew J. Willshire | The Fuaran generative-UI CLI as a dotnet tool — `fuaran generate \| validate \| s… |
-| 2026-09-30 16:44:19 | [Fuaran.UI.Client](https://www.nuget.org/packages/Fuaran.UI.Client) | 0.88.0 | Andrew J. Willshire | Fuaran.UI.Client — a thin, typed F#/.NET client over the Fuaran generation endp… |
-| 2026-09-30 16:44:56 | [eQuantic.Payment](https://www.nuget.org/packages/eQuantic.Payment) | 1.0.0 | eQuantic Tech | Unified payment abstraction for Brazilian payment providers. Single request/res… |
-| 2026-09-30 16:44:57 | [eQuantic.Payment.Stripe](https://www.nuget.org/packages/eQuantic.Payment.Stripe) | 1.0.0 | eQuantic Tech | Stripe API client for eQuantic.Payment. Versioned client (REST v1, pinned Strip… |
-| 2026-09-30 16:44:58 | [eQuantic.Payment.Pagarme](https://www.nuget.org/packages/eQuantic.Payment.Pagarme) | 1.0.0 | eQuantic Tech | Pagar.me API client for eQuantic.Payment. Versioned clients (Core API v4 and v5… |
-| 2026-09-30 16:44:59 | [eQuantic.Payment.Efi](https://www.nuget.org/packages/eQuantic.Payment.Efi) | 1.0.0 | eQuantic Tech | Efí (Gerencianet) API client for eQuantic.Payment. Versioned by product: Pix AP… |
-| 2026-09-30 16:45:00 | [eQuantic.Payment.Asaas](https://www.nuget.org/packages/eQuantic.Payment.Asaas) | 1.0.0 | eQuantic Tech | Asaas API client for eQuantic.Payment. Versioned client (API v3) plus the unifi… |
-| 2026-09-30 16:45:00 | [eQuantic.Payment.PagSeguro](https://www.nuget.org/packages/eQuantic.Payment.PagSeguro) | 1.0.0 | eQuantic Tech | PagSeguro / PagBank API client for eQuantic.Payment. Modern Orders/Charges API… |
-| 2026-09-30 16:45:01 | [eQuantic.Payment.Adyen](https://www.nuget.org/packages/eQuantic.Payment.Adyen) | 1.0.0 | eQuantic Tech | Adyen Checkout API client for eQuantic.Payment. Versioned client (Checkout v71)… |
-| 2026-09-30 16:45:02 | [eQuantic.Payment.Cielo](https://www.nuget.org/packages/eQuantic.Payment.Cielo) | 1.0.0 | eQuantic Tech | Cielo E-commerce API client for eQuantic.Payment. Versioned client (API 3.0) pl… |
-| 2026-09-30 16:45:03 | [eQuantic.Payment.MercadoPago](https://www.nuget.org/packages/eQuantic.Payment.MercadoPago) | 1.0.0 | eQuantic Tech | Mercado Pago API client for eQuantic.Payment. Versioned clients (Payments API a… |
-| 2026-09-30 16:48:05 | [Kohetsu.MyLibrary](https://www.nuget.org/packages/Kohetsu.MyLibrary) | 1.0.0 | Kohetsu Matsuda | A sample library for demonstration purposes. |
-| 2026-09-30 16:51:31 | [AuthIMO](https://www.nuget.org/packages/AuthIMO) | 0.1.1 | Evotec | Cross-platform OATH OTP, provisioning, and encrypted vault engine. |
-| 2026-09-30 17:04:55 | [RepliCAT](https://www.nuget.org/packages/RepliCAT) | 1.0.0 | AbroGames | RepliCAT |
-| 2026-09-30 17:13:15 | [QuanticDigit.Server.Dispatch.Model](https://www.nuget.org/packages/QuanticDigit.Server.Dispatch.Model) | 1.0.39 | Quantic Digit S.R.L. | DTO, enum e costanti del contratto di Dispatch, il servizio di coda. |
+| 2026-09-30 17:20:35 | [QuanticDigit.Queue.Utility](https://www.nuget.org/packages/QuanticDigit.Queue.Utility) | 1.0.39 | Quantic Digit S.R.L. | Porta verso una coda di messaggi: interfaccia, contratti, errori e una coda in… |
+| 2026-09-30 17:20:38 | [QuanticDigit.Queue.Utility.Conformance](https://www.nuget.org/packages/QuanticDigit.Queue.Utility.Conformance) | 1.0.39 | Quantic Digit S.R.L. | La suite che ogni implementazione della porta di coda deve superare. |
+| 2026-09-30 17:20:38 | [QuanticDigit.Queue.Utility.Dispatch](https://www.nuget.org/packages/QuanticDigit.Queue.Utility.Dispatch) | 1.0.39 | Quantic Digit S.R.L. | La porta di coda realizzata su Dispatch, il servizio di coda di QuanticDigit. |
+| 2026-09-30 17:27:21 | [IncidentIo](https://www.nuget.org/packages/IncidentIo) | 1.0.0 | incident.io | Official .NET client for the incident.io API, generated from its published Open… |
+| 2026-09-30 17:30:22 | [SunamoComgate](https://www.nuget.org/packages/SunamoComgate) | 26.9.30.1 | www.sunamo.cz | Package Description |
+| 2026-09-30 17:42:57 | [Vrmac.Utils](https://www.nuget.org/packages/Vrmac.Utils) | 1.0.0 | ConstMe | Shared utilities consumed by other `Vrmac.*` packages |
+| 2026-09-30 17:43:38 | [Vrmac.Acme](https://www.nuget.org/packages/Vrmac.Acme) | 1.0.0 | ConstMe | A client for ACME v2 protocol |
+| 2026-09-30 17:45:53 | [Vrmac.Admin](https://www.nuget.org/packages/Vrmac.Admin) | 1.0.0 | ConstMe | Building blocks to remotely operate Linux servers over SSH |
+| 2026-09-30 17:46:55 | [Vrmac.GeoIP](https://www.nuget.org/packages/Vrmac.GeoIP) | 1.0.0 | ConstMe | Efficiently resolves IP addresses into broad geographic regions |
+| 2026-09-30 17:47:21 | [Vrmac.Html](https://www.nuget.org/packages/Vrmac.Html) | 1.0.0 | ConstMe | Runtime support for web pages served from HTML templates |
+| 2026-09-30 17:47:40 | [Vrmac.HtmlCompiler](https://www.nuget.org/packages/Vrmac.HtmlCompiler) | 1.0.0 | ConstMe | Incremental code generator to compile HTML templates into C# partial types. |
+| 2026-09-30 17:47:53 | [Vrmac.Mapper](https://www.nuget.org/packages/Vrmac.Mapper) | 1.0.0 | ConstMe | Micro-ORM for MariaDB heavily inspired by Dapper |
+| 2026-09-30 17:48:10 | [Vrmac.Markdown](https://www.nuget.org/packages/Vrmac.Markdown) | 1.0.0 | ConstMe | Renders markdown into HTML |
+| 2026-09-30 17:48:28 | [Vrmac.Pwned](https://www.nuget.org/packages/Vrmac.Pwned) | 1.0.0 | ConstMe | Library to test passwords against “Have I Been Pwned?” dataset maintained by Tr… |
+| 2026-09-30 17:48:44 | [Vrmac.RateLimits](https://www.nuget.org/packages/Vrmac.RateLimits) | 1.0.0 | ConstMe | Rate limiters for network requests |
+| 2026-09-30 17:48:58 | [Vrmac.Security](https://www.nuget.org/packages/Vrmac.Security) | 1.0.0 | ConstMe | Cryptography-related functions built on top of the standard library |
+| 2026-09-30 17:49:15 | [Vrmac.Uploads](https://www.nuget.org/packages/Vrmac.Uploads) | 1.0.0 | ConstMe | Kestrel-based server of the resumable file upload protocol |
+| 2026-09-30 17:50:33 | [Portico.Paragon](https://www.nuget.org/packages/Portico.Paragon) | 1.0.0 | PorticoSoft | Generates PDF, Word, PowerPoint and Excel reports from HTML templates and JSON… |
+| 2026-09-30 17:51:26 | [Twinbox.Templates](https://www.nuget.org/packages/Twinbox.Templates) | 1.1.0 | Twinbox contributors | dotnet new template for an ASP.NET Core app wired with Twinbox: pick a store an… |
+| 2026-09-30 17:52:41 | [Paperwork.Core.Extensions](https://www.nuget.org/packages/Paperwork.Core.Extensions) | 1.0.0 | paperwork-collective | Shared portal config, asset/map file resolution, and auth handlers for Paperwor… |
+| 2026-09-30 17:53:18 | [PokerProvide.Sdk](https://www.nuget.org/packages/PokerProvide.Sdk) | 1.1.0 | PokerProvide.Sdk | Official PokerProvide Poker-as-a-Service SDK for .NET |
+| 2026-09-30 17:57:01 | [Portico.Paragon.Designer](https://www.nuget.org/packages/Portico.Paragon.Designer) | 1.0.0 | PorticoSoft | The Paragon report designer, mounted inside your own application while you buil… |
+| 2026-09-30 18:02:00 | [AwadyLab.EFCatalyst.Abstraction](https://www.nuget.org/packages/AwadyLab.EFCatalyst.Abstraction) | 1.0.0 | Mohamed Elawady | Contracts for AwadyLab.EFCatalyst: entity interfaces (IEntity, ISoftDelete, aud… |
+| 2026-09-30 18:02:02 | [AwadyLab.EFCatalyst](https://www.nuget.org/packages/AwadyLab.EFCatalyst) | 1.0.0 | Mohamed Elawady | Entity Framework Core toolkit: auditable/soft-deletable/multi-tenant entity bas… |
+| 2026-09-30 18:02:04 | [AwadyLab.EFCatalyst.SqlServer](https://www.nuget.org/packages/AwadyLab.EFCatalyst.SqlServer) | 1.0.0 | Mohamed Elawady | SQL Server support for AwadyLab.EFCatalyst: native rowversion concurrency, dead… |
+| 2026-09-30 18:02:06 | [AwadyLab.EFCatalyst.PostgreSql](https://www.nuget.org/packages/AwadyLab.EFCatalyst.PostgreSql) | 1.0.0 | Mohamed Elawady | PostgreSQL (Npgsql) support for AwadyLab.EFCatalyst: deadlock detection and SQL… |
+| 2026-09-30 18:02:09 | [AwadyLab.EFCatalyst.Sqlite](https://www.nuget.org/packages/AwadyLab.EFCatalyst.Sqlite) | 1.0.0 | Mohamed Elawady | SQLite support for AwadyLab.EFCatalyst: sortable DateTimeOffset storage, busy/l… |
+| 2026-09-30 18:03:00 | [McpApplicationInsights](https://www.nuget.org/packages/McpApplicationInsights) | 0.1.0 | matneves | Servidor MCP somente leitura para Application Insights. A pessoa escolhe a assi… |
 
 ## Data source
 

@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-09-30T17:20:35.893Z,QuanticDigit.Queue.Utility,1.0.39,Quantic Digit S.R.L.,"Porta verso una coda di messaggi: interfaccia, contratti, errori e una coda in memoria."
+2026-09-30T17:20:38.36Z,QuanticDigit.Queue.Utility.Conformance,1.0.39,Quantic Digit S.R.L.,La suite che ogni implementazione della porta di coda deve superare.
+2026-09-30T17:20:38.7Z,QuanticDigit.Queue.Utility.Dispatch,1.0.39,Quantic Digit S.R.L.,"La porta di coda realizzata su Dispatch, il servizio di coda di QuanticDigit."
+2026-09-30T17:27:21.153Z,IncidentIo,1.0.0,incident.io,"Official .NET client for the incident.io API, generated from its published OpenAPI schema."
+2026-09-30T17:30:22Z,SunamoComgate,26.9.30.1,www.sunamo.cz,Package Description
+2026-09-30T17:42:57.673Z,Vrmac.Utils,1.0.0,ConstMe,Shared utilities consumed by other `Vrmac.*` packages
+2026-09-30T17:43:38.46Z,Vrmac.Acme,1.0.0,ConstMe,A client for ACME v2 protocol
+2026-09-30T17:45:53.03Z,Vrmac.Admin,1.0.0,ConstMe,Building blocks to remotely operate Linux servers over SSH
+2026-09-30T17:46:55.83Z,Vrmac.GeoIP,1.0.0,ConstMe,Efficiently resolves IP addresses into broad geographic regions
+2026-09-30T17:47:21.123Z,Vrmac.Html,1.0.0,ConstMe,Runtime support for web pages served from HTML templates
+2026-09-30T17:47:40.863Z,Vrmac.HtmlCompiler,1.0.0,ConstMe,Incremental code generator to compile HTML templates into C# partial types.
+2026-09-30T17:47:53.28Z,Vrmac.Mapper,1.0.0,ConstMe,Micro-ORM for MariaDB heavily inspired by Dapper
+2026-09-30T17:48:10.997Z,Vrmac.Markdown,1.0.0,ConstMe,Renders markdown into HTML
+2026-09-30T17:48:28.793Z,Vrmac.Pwned,1.0.0,ConstMe,Library to test passwords against “Have I Been Pwned?” dataset maintained by Troy Hunt.
+2026-09-30T17:48:44.143Z,Vrmac.RateLimits,1.0.0,ConstMe,Rate limiters for network requests
+2026-09-30T17:48:58.033Z,Vrmac.Security,1.0.0,ConstMe,Cryptography-related functions built on top of the standard library
+2026-09-30T17:49:15.99Z,Vrmac.Uploads,1.0.0,ConstMe,Kestrel-based server of the resumable file upload protocol
+2026-09-30T17:50:33.107Z,Portico.Paragon,1.0.0,PorticoSoft,"Generates PDF, Word, PowerPoint and Excel reports from HTML templates and JSON data."
+2026-09-30T17:51:26.953Z,Twinbox.Templates,1.1.0,Twinbox contributors,dotnet new template for an ASP.NET Core app wired with Twinbox: pick a store and a transport with dotnet new twinbox --store ... --transport ...
+2026-09-30T17:52:41.39Z,Paperwork.Core.Extensions,1.0.0,paperwork-collective,"Shared portal config, asset/map file resolution, and auth handlers for Paperwork.Core consumers (Paperwork.Service, Paperwork.CLI)."
+2026-09-30T17:53:18.87Z,PokerProvide.Sdk,1.1.0,PokerProvide.Sdk,Official PokerProvide Poker-as-a-Service SDK for .NET
+2026-09-30T17:57:01.703Z,Portico.Paragon.Designer,1.0.0,PorticoSoft,"The Paragon report designer, mounted inside your own application while you build reports."
+2026-09-30T18:02:00.267Z,AwadyLab.EFCatalyst.Abstraction,1.0.0,Mohamed Elawady,"Contracts for AwadyLab.EFCatalyst: entity interfaces (IEntity, ISoftDelete, audit, tenant, row version, active state, integrity hash), domain events, global filters, migration seeders and the service abstractions an application implements."
+2026-09-30T18:02:02.71Z,AwadyLab.EFCatalyst,1.0.0,Mohamed Elawady,"Entity Framework Core toolkit: auditable/soft-deletable/multi-tenant entity bases, named global query filters, conditional and keyset-paging LINQ extensions, SaveChanges interceptors, model conventions, column encryption, shadow-property helpers, change-tracking audit logs and migration utilities."
+2026-09-30T18:02:04.833Z,AwadyLab.EFCatalyst.SqlServer,1.0.0,Mohamed Elawady,"SQL Server support for AwadyLab.EFCatalyst: native rowversion concurrency, deadlock detection and T-SQL generation for the EFCatalyst migration operations (views, upserts, soft-delete and timestamp triggers, filtered indexes)."
+2026-09-30T18:02:06.837Z,AwadyLab.EFCatalyst.PostgreSql,1.0.0,Mohamed Elawady,"PostgreSQL (Npgsql) support for AwadyLab.EFCatalyst: deadlock detection and SQL generation for the EFCatalyst migration operations (views, functions, ON CONFLICT upserts, soft-delete and timestamp triggers, filtered indexes)."
+2026-09-30T18:02:09.203Z,AwadyLab.EFCatalyst.Sqlite,1.0.0,Mohamed Elawady,"SQLite support for AwadyLab.EFCatalyst: sortable DateTimeOffset storage, busy/locked detection and SQL generation for the EFCatalyst migration operations (views, upserts, soft-delete and timestamp triggers, filtered indexes)."
+2026-09-30T18:03:00.79Z,McpApplicationInsights,0.1.0,matneves,Servidor MCP somente leitura para Application Insights. A pessoa escolhe a assinatura e o componente visíveis no próprio login. O pacote não guarda segredo.
