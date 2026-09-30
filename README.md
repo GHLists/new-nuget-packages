@@ -12,27 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 19:21 UTC
+## Latest list — 2026-09-30 20:20 UTC
 
-New packages created between 2026-09-30 18:20 UTC and 2026-09-30 19:21 UTC.
+New packages created between 2026-09-30 19:21 UTC and 2026-09-30 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-30T19-21-11-166022Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-30T20-20-51-234116Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-30 18:33:09 | [Rkd.Scalar.FluentValidation](https://www.nuget.org/packages/Rkd.Scalar.FluentValidation) | 2.8.0 | Rodrigo Kmiecik | FluentValidation integration for Rkd.Scalar: WithFluentValidation() runs the IV… |
-| 2026-09-30 18:41:04 | [Basalt.BedrockData](https://www.nuget.org/packages/Basalt.BedrockData) | 0.1.2 | BedrockData | Generated Minecraft Bedrock data for Basalt. |
-| 2026-09-30 18:54:25 | [ZeroAlloc.Saga.Outbox.Orm](https://www.nuget.org/packages/ZeroAlloc.Saga.Outbox.Orm) | 4.1.0 | Marcel Roozekrans | Transactional outbox unit of work for ZeroAlloc.Saga.Outbox + ZeroAlloc.Saga.Or… |
-| 2026-09-30 19:01:37 | [FluxIndex.Integrations.FluxGuard](https://www.nuget.org/packages/FluxIndex.Integrations.FluxGuard) | 0.66.0 | iyulab | FluxGuard RAG security for FluxIndex — an IRetrievalGuard that runs search resu… |
-| 2026-09-30 19:03:21 | [GlmSharpRenewed](https://www.nuget.org/packages/GlmSharpRenewed) | 1.0.4 | GlmSharpRenewed | Package Description |
-| 2026-09-30 19:03:25 | [GlmSharpCompatRenewed](https://www.nuget.org/packages/GlmSharpCompatRenewed) | 1.0.4 | GlmSharpCompatRenewed | Package Description |
-| 2026-09-30 19:09:05 | [Majorsilence.Crystal.Converter](https://www.nuget.org/packages/Majorsilence.Crystal.Converter) | 0.1.0 | Peter Gill | RDL emitter and Crystal formula transpiler (Irony grammar) that converts a pars… |
-| 2026-09-30 19:09:05 | [Majorsilence.Crystal.RptEngine](https://www.nuget.org/packages/Majorsilence.Crystal.RptEngine) | 0.1.0 | Peter Gill | Renders Crystal Reports .rpt files (with runtime data/parameter/formula overrid… |
-| 2026-09-30 19:09:06 | [Majorsilence.Crystal.Runtime](https://www.nuget.org/packages/Majorsilence.Crystal.Runtime) | 0.1.0 | Peter Gill | Engine-agnostic runtime-override application and render preparation for a parse… |
-| 2026-09-30 19:09:08 | [Majorsilence.Crystal.Cli](https://www.nuget.org/packages/Majorsilence.Crystal.Cli) | 0.1.0 | Peter Gill | Batch CLI for converting Crystal Reports .rpt files to SSRS RDL and verifying t… |
-| 2026-09-30 19:09:09 | [Majorsilence.Crystal.Parser](https://www.nuget.org/packages/Majorsilence.Crystal.Parser) | 0.1.0 | Peter Gill | OLE reader, TSLV parser, AES-CFB128 decryptor, and zlib inflate for Crystal Rep… |
-| 2026-09-30 19:09:10 | [Majorsilence.Crystal.Model](https://www.nuget.org/packages/Majorsilence.Crystal.Model) | 0.1.0 | Peter Gill | Neutral object model for a parsed Crystal Reports .rpt file — ReportDefinition,… |
-| 2026-09-30 19:09:54 | [Majo.LineEditing](https://www.nuget.org/packages/Majo.LineEditing) | 0.0.3 | Sweety Majo | A small, cross-platform interactive line editor for .NET. |
+| 2026-09-30 19:25:16 | [NetPdf](https://www.nuget.org/packages/NetPdf) | 1.1.0 | Roland Aroche and NetPdf cont… | Convert HTML + CSS to PDF in pure C# / .NET 10 — no browser engine, no Chromium… |
+| 2026-09-30 19:32:47 | [ZeroI18n](https://www.nuget.org/packages/ZeroI18n) | 1.0.0 | Summpot | High-performance, zero-overhead compile-time i18n source generator for .NET. Su… |
+| 2026-09-30 19:35:42 | [UniFFISharp](https://www.nuget.org/packages/UniFFISharp) | 0.1.0 | Summpot | Zero-CLI, zero-boilerplate UniFFI binding generator and runtime for Rust + C# i… |
+| 2026-09-30 19:39:42 | [Aluna.net](https://www.nuget.org/packages/Aluna.net) | 1.0.0 | Aluna Contributors | Aluna is a .NET event sourcing toolkit with abstractions, repositories, and eve… |
+| 2026-09-30 19:41:05 | [DarkWS.Testing](https://www.nuget.org/packages/DarkWS.Testing) | 5.0.0 | Bobsans | Transportless handler testing for DarkWS |
+| 2026-09-30 19:45:25 | [s0rent.Milsymbol.Cli](https://www.nuget.org/packages/s0rent.Milsymbol.Cli) | 0.1.1 | s0rent | Spatialillusions' milsymbol JS library repackaged as a CLI application |
+| 2026-09-30 19:45:40 | [aicb-roslyn-mcp](https://www.nuget.org/packages/aicb-roslyn-mcp) | 0.5.465.11 | Gregor Dadera | Roslyn-based code intelligence for C#/.NET coding agents. This MCP server and c… |
+| 2026-09-30 19:51:56 | [Natrix.Swr](https://www.nuget.org/packages/Natrix.Swr) | 0.14.1 | miroljub1995 | Stale-while-revalidate data fetching for Natrix — a port of React SWR built on… |
+| 2026-09-30 20:03:33 | [Gulla.Optimizely.DdsExplorer](https://www.nuget.org/packages/Gulla.Optimizely.DdsExplorer) | 2.0.0 | Tomas Hensrud Gulla | Browse, inspect, edit and delete Dynamic Data Store stores and items from the S… |
+| 2026-09-30 20:05:05 | [SkiaGameRendering.Core.D3D12](https://www.nuget.org/packages/SkiaGameRendering.Core.D3D12) | 0.17.1 | SkiaGameRendering.Core.D3D12 | Engine-agnostic D3D12/Skia interop shared by D3D12-based SkiaGameRendering back… |
+| 2026-09-30 20:05:12 | [SkiaGameRendering.Stride.D3D12](https://www.nuget.org/packages/SkiaGameRendering.Stride.D3D12) | 0.17.1-beta | SkiaGameRendering.Stride.D3D12 | GPU SkiaSharp rendering into Stride Texture targets via Skia's Direct3D 12 back… |
+| 2026-09-30 20:13:30 | [Componyx.Data](https://www.nuget.org/packages/Componyx.Data) | 1.0.0 | Componyx - E.H. Daanen | A lightweight, database-first ORM for .NET built directly on ADO.NET. Write que… |
 
 ## Data source
 
