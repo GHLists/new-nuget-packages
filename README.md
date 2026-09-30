@@ -12,26 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 12:22 UTC
+## Latest list — 2026-09-30 13:20 UTC
 
-New packages created between 2026-09-30 11:20 UTC and 2026-09-30 12:22 UTC.
+New packages created between 2026-09-30 12:22 UTC and 2026-09-30 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-30T12-22-11-71265Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-30T13-20-25-610389Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-30 11:21:33 | [Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0.Part5](https://www.nuget.org/packages/Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0.Part5) | 1.0.0 | sdcb | Hy-MT2-1.8B-Q8_0.gguf part 5/8. Installed automatically by Sdcb.GgufWeights.Hy-… |
-| 2026-09-30 11:22:35 | [Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0.Part6](https://www.nuget.org/packages/Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0.Part6) | 1.0.0 | sdcb | Hy-MT2-1.8B-Q8_0.gguf part 6/8. Installed automatically by Sdcb.GgufWeights.Hy-… |
-| 2026-09-30 11:24:23 | [Aspose.PDF.Cpp.FOSS](https://www.nuget.org/packages/Aspose.PDF.Cpp.FOSS) | 1.0.1 | Aspose | Free, open-source C++20 library for working with PDF documents: open, edit and… |
-| 2026-09-30 11:25:27 | [Curiosity.Shell](https://www.nuget.org/packages/Curiosity.Shell) | 26.9.6085 | Curiosity GmbH | curio - the Curiosity Workspace admin sandbox (the one Sudo works in) from your… |
-| 2026-09-30 11:30:08 | [Routster.Studio.ModuleTool](https://www.nuget.org/packages/Routster.Studio.ModuleTool) | 1.8.0 | Orienteering Labs AB | Builds, checks, runs and signs Routster Studio modules. |
-| 2026-09-30 11:30:09 | [Routster.Studio.Sdk](https://www.nuget.org/packages/Routster.Studio.Sdk) | 1.8.0 | Orienteering Labs AB | What a Routster Studio module compiles against: the host API, and the build ste… |
-| 2026-09-30 11:30:09 | [Routster.Studio.Templates](https://www.nuget.org/packages/Routster.Studio.Templates) | 1.8.1 | Orienteering Labs AB | dotnet new routster-module: a Routster Studio module that builds, runs in Studi… |
-| 2026-09-30 11:35:19 | [Universal.HubSpot.Client](https://www.nuget.org/packages/Universal.HubSpot.Client) | 1.0.0 | Andrew Ong | Complete generated client for the HubSpot public REST API catalog. |
-| 2026-09-30 11:35:31 | [SkiaGameRendering.Fna.OGL](https://www.nuget.org/packages/SkiaGameRendering.Fna.OGL) | 0.17.0 | SkiaGameRendering.Fna.OGL | GPU SkiaSharp rendering into FNA Texture2D targets on FNA3D's OpenGL driver, wi… |
-| 2026-09-30 11:35:33 | [SkiaGameRendering.Fna.WindowsDX](https://www.nuget.org/packages/SkiaGameRendering.Fna.WindowsDX) | 0.17.0 | SkiaGameRendering.Fna.Windows… | GPU SkiaSharp rendering into FNA Texture2D targets via ANGLE on FNA3D's D3D11 d… |
-| 2026-09-30 11:42:44 | [BoTech.ApiClient.LibreTranslate](https://www.nuget.org/packages/BoTech.ApiClient.LibreTranslate) | 1.1.0 | www.botech.dev | A .net api client for https://LibreTranslate.com |
-| 2026-09-30 11:59:35 | [XlsCrypt.NativeExcelEncryption](https://www.nuget.org/packages/XlsCrypt.NativeExcelEncryption) | 1.0.0 | Sujit Tamang | Native .NET library for Excel workbook password encryption. |
+| 2026-09-30 12:24:53 | [VestaProtocol.Core](https://www.nuget.org/packages/VestaProtocol.Core) | 0.1.3 | Jesper Andersson | Shared protocol types, event/identity primitives, and conflict-resolution helpe… |
+| 2026-09-30 12:24:54 | [VestaProtocol.Client](https://www.nuget.org/packages/VestaProtocol.Client) | 0.1.3 | Jesper Andersson | .NET client library for the Vesta protocol: WebSocket connection, Ed25519 ident… |
+| 2026-09-30 12:47:02 | [Vintus.Telemetry](https://www.nuget.org/packages/Vintus.Telemetry) | 9.0.46-g9534d85c29 | Vintus | Plug-and-play OpenTelemetry for Vintus APIs: logs, traces and metrics to an OTL… |
+| 2026-09-30 12:53:28 | [AravisSharp](https://www.nuget.org/packages/AravisSharp) | 0.8.36 | Alexandre | C# bindings for the Aravis industrial camera library (GenICam/GigE Vision/USB3… |
+| 2026-09-30 12:57:24 | [Shiny.Mediator.AppFunctions](https://www.nuget.org/packages/Shiny.Mediator.AppFunctions) | 6.10.0-beta-0001 | Allan Ritchie | Shiny Mediator - expose mediator requests and commands to Siri, Shortcuts, Appl… |
+| 2026-09-30 13:06:01 | [Wang.Seamas.Shared](https://www.nuget.org/packages/Wang.Seamas.Shared) | 1.0.0 | Seamas Wang | Share with multiple projects |
+| 2026-09-30 13:11:08 | [Bannerlord.ReferenceAssemblies.GUI.v3.EarlyAccess](https://www.nuget.org/packages/Bannerlord.ReferenceAssemblies.GUI.v3.EarlyAccess) | 1.9.0.3526 | BUTR | The UI of Mount & Blade II: Bannerlord as data, for analyzers that check UI pat… |
+| 2026-09-30 13:11:09 | [Bannerlord.ReferenceAssemblies.GUI.v3](https://www.nuget.org/packages/Bannerlord.ReferenceAssemblies.GUI.v3) | 1.5.3.122374-beta | BUTR | The UI of Mount & Blade II: Bannerlord as data, for analyzers that check UI pat… |
+| 2026-09-30 13:11:10 | [Bannerlord.ReferenceAssemblies.GUI.v3.NavalDLC](https://www.nuget.org/packages/Bannerlord.ReferenceAssemblies.GUI.v3.NavalDLC) | 1.4.7.117484 | BUTR | The UI of the NavalDLC DLC of Mount & Blade II: Bannerlord as data, for analyze… |
 
 ## Data source
 
