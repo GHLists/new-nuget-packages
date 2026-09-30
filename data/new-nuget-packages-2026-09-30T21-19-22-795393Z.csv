@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-09-30T20:20:55.02Z,Glacier.Agent,1.0.0,Ian Cowley,"Pure C# .NET 10 Autonomous Agent Runtime, SIMD Radix Trie Tokenizer (>50M tok/s), Native AOT Branchless CLI, HNSW / IVF-PQ Vector Index, and MCP Event Bus."
+2026-09-30T20:22:01.6Z,Asteroid.GodotCli.CompilerTools,0.1.0,Asteroid.GodotCli.CompilerTools,Compile-time gates paired with the GodotCli tool declaration attributes.
+2026-09-30T20:23:33.663Z,Glacier.Windowing,1.0.0,Ian Cowley,"Pure C# .NET 10 Cross-Platform Windowing, Hardware Swapchain (D3D12/Vulkan/Metal), Low-Latency Audio (WASAPI/ALSA/CoreAudio), and Mobile Surface HAL. Zero third-party native dependencies."
+2026-09-30T20:41:50.63Z,Itp.WpfCamera,3.0.1,mgaffigan,"Live preview and still capture from webcams in WPF applications, using WinRT MediaCapture with a GPU-only preview path."
+2026-09-30T20:47:13.873Z,ElBruno.LocalLLMs.Decisions,0.22.0,Bruno Capuano (ElBruno),"Local System One decision models for ElBruno.LocalLLMs. Typed choice, score and yes/no decisions with probabilities in a single forward pass, running fully in-process on ONNX Runtime with no server and no Python."
+2026-09-30T20:48:16Z,Beryllium.LocalizationManager,1.6.0,Vladyslav Pysarenko,Localization manager for simple and efficient switching between languages. Reads the localization folders produced by Beryllium Localization Helper.
+2026-09-30T21:00:52.31Z,OpenApiFeatureFlags.Swashbuckle,0.1.0,Dogukan Demir,"Swashbuckle adapter for OpenApiFeatureFlags: hides gated operations, parameters and schema properties from the generated OpenAPI document."
+2026-09-30T21:00:53.34Z,OpenApiFeatureFlags.OpenFeature,0.1.0,Dogukan Demir,OpenFeature flag source for OpenApiFeatureFlags: reads flags through the CNCF vendor-neutral standard instead of a vendor SDK.
+2026-09-30T21:00:54.527Z,OpenApiFeatureFlags.FeatureManagement,0.1.0,Dogukan Demir,Microsoft.FeatureManagement flag source for OpenApiFeatureFlags: point the library at your existing IFeatureManager and one call wires the whole thing up.
+2026-09-30T21:00:55.683Z,OpenApiFeatureFlags.Abstractions,0.1.0,Dogukan Demir,"Dependency-free contracts for OpenApiFeatureFlags: the [OpenApiFeatureFlag] attribute, DocumentMode, the IFeatureFlagSource seam and the engine-agnostic document visibility plan. Reference this from contract assemblies."
+2026-09-30T21:00:56.657Z,OpenApiFeatureFlags,0.1.0,Dogukan Demir,Makes an OpenAPI document respect the feature flags the runtime already respects. The core builds an engine-agnostic visibility plan; document-engine adapters apply it.
+2026-09-30T21:09:26.727Z,PrayerTimePlus,0.3.0,abdulwahed-s,Dependency-free Islamic prayer times and Sunnah times for .NET.
