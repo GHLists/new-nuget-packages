@@ -1,0 +1,32 @@
+created_at,package,version,authors,description
+2026-09-30T05:34:33.79Z,ScreenKeyboard.Core,1.0.0,Wiesław Šoltés,"Platform-agnostic engine for professional on-screen keyboards: FlorisBoard-compatible layouts (90+ layouts, 70+ languages), key popups, shift/caps state machine, composers (Hangul, Kana, Telex), glide (swipe) typing, word suggestions and autocorrect, emoji catalog with skin tones and search, clipbo…"
+2026-09-30T05:34:35.193Z,ScreenKeyboard.Uno,1.0.0,Wiesław Šoltés,"A professional, themable on-screen keyboard control for Uno Platform (WinUI): FlorisBoard-compatible layouts for 70+ languages, glide (swipe) typing, swipe gestures, key popups, emoji panel with search and skin tones, clipboard history, text editing panel, smart suggestions and autocorrect, one-han…"
+2026-09-30T06:06:51.807Z,Afrowave.Toolbox.WhenItFails,0.1.0,Afrowave,"Structured error catalogs, runtime resolution, recovery, profiles, mapping, and diagnostics for Afrowave Toolbox."
+2026-09-30T06:06:55.663Z,Twinbox.Nats,1.0.0,Twinbox contributors,"NATS JetStream transport for Twinbox: deduplicated, acknowledged publishes and durable pull consumers that acknowledge only after the inbox has handled a message."
+2026-09-30T06:06:55.983Z,Twinbox.SqlServer,1.0.0,Twinbox contributors,SQL Server storage for Twinbox with plain ADO.NET or Dapper: save outbox messages in your own SqlTransaction.
+2026-09-30T06:06:56.31Z,Twinbox.Oracle,1.0.0,Twinbox contributors,Oracle Database storage for Twinbox with plain ADO.NET or Dapper: save outbox messages in your own OracleTransaction.
+2026-09-30T06:06:56.693Z,Twinbox,1.0.0,Twinbox contributors,Transactional outbox and inbox for .NET: reliable delivery to any message broker with built-in deduplication.
+2026-09-30T06:06:57.047Z,Twinbox.AzureServiceBus,1.0.0,Twinbox contributors,Azure Service Bus transport for Twinbox: sends outbox messages to queues and topics and feeds received messages through the inbox.
+2026-09-30T06:06:57.33Z,Twinbox.Http,1.0.0,Twinbox contributors,"HTTP transport for Twinbox: calls vendor APIs and delivers webhooks from the outbox with idempotency keys, Standard Webhooks signatures, retries and a circuit breaker."
+2026-09-30T06:06:57.65Z,Twinbox.RabbitMQ,1.0.0,Twinbox contributors,RabbitMQ transport for Twinbox: publisher-confirmed sends and quorum-queue consumers with dead-lettering.
+2026-09-30T06:06:58.013Z,Twinbox.Aspire,1.0.0,Twinbox contributors,.NET Aspire service defaults for Twinbox: OpenTelemetry tracing and metrics plus a readiness health check in one call.
+2026-09-30T06:06:58.447Z,Twinbox.InMemory,1.0.0,Twinbox contributors,"In-memory store and transport for Twinbox, for tests and local development."
+2026-09-30T06:06:58.79Z,Twinbox.EventHubs,1.0.0,Twinbox contributors,Azure Event Hubs transport for Twinbox: keyed sends and partition processors that checkpoint only after the inbox has handled an event.
+2026-09-30T06:06:59.237Z,Twinbox.RedisStreams,1.0.0,Twinbox contributors,"Redis Streams transport for Twinbox: consumer groups that acknowledge only after the inbox has handled an entry, reclaim a crashed consumer's pending entries, and park poison entries in a dead stream."
+2026-09-30T06:06:59.543Z,Twinbox.EntityFrameworkCore,1.0.0,Twinbox contributors,"EF Core storage for Twinbox: outbox messages are saved in the same SaveChanges or transaction as your data. Supports SQL Server, PostgreSQL, MySQL, Oracle and SQLite."
+2026-09-30T06:06:59.84Z,Twinbox.GooglePubSub,1.0.0,Twinbox contributors,"Google Cloud Pub/Sub transport for Twinbox: publishes to topics with optional ordering keys, and acknowledges each subscription message only after the inbox has handled it."
+2026-09-30T06:07:00.12Z,Twinbox.AzureFunctions,1.0.0,Twinbox contributors,Azure Functions (isolated worker) support for Twinbox: dispatch the outbox from a timer and feed Service Bus triggers through the inbox.
+2026-09-30T06:07:00.41Z,Twinbox.PostgreSql,1.0.0,Twinbox contributors,PostgreSQL storage for Twinbox with plain ADO.NET or Dapper: save outbox messages in your own NpgsqlTransaction.
+2026-09-30T06:07:00.733Z,Twinbox.Abstractions,1.0.0,Twinbox contributors,"Contracts for Twinbox, the transactional outbox and inbox for .NET. Zero dependencies."
+2026-09-30T06:07:01.067Z,Twinbox.Webhooks,1.0.0,Twinbox contributors,"Signed webhook ingress for Twinbox: verify, store durably and acknowledge fast, then handle with retries and deduplication."
+2026-09-30T06:07:01.49Z,Twinbox.Testing,1.0.0,Twinbox contributors,Test harness and provider conformance suite for Twinbox. Works with any test framework.
+2026-09-30T06:07:01.817Z,Twinbox.MongoDB,1.0.0,Twinbox contributors,MongoDB storage for Twinbox: save outbox messages in your own MongoDB transaction and handle inbound messages exactly once.
+2026-09-30T06:07:02.153Z,Twinbox.Kafka,1.0.0,Twinbox contributors,"Kafka transport for Twinbox: idempotent, keyed sends and consumer groups that commit only after the inbox has handled a record."
+2026-09-30T06:07:02.46Z,Twinbox.MySql,1.0.0,Twinbox contributors,MySQL storage for Twinbox with plain ADO.NET or Dapper: save outbox messages in your own MySqlTransaction.
+2026-09-30T06:07:02.79Z,Twinbox.Dashboard,1.0.0,Twinbox contributors,"Operations dashboard for Twinbox: outbox statistics, message browsing, and replay or removal of dead messages, served from your ASP.NET Core app."
+2026-09-30T06:07:03.13Z,Twinbox.Aspire.Hosting,1.0.0,Twinbox contributors,.NET Aspire AppHost integration for Twinbox: links a resource's Twinbox dashboard and adds a command to replay dead letters.
+2026-09-30T06:07:03.423Z,Twinbox.AmazonSqs,1.0.0,Twinbox contributors,"Amazon SQS and SNS transport for Twinbox: sends to queues or fans out through topics, and long-polls queues, deleting each message only after the inbox has handled it."
+2026-09-30T06:07:03.787Z,Twinbox.Pulsar,1.0.0,Twinbox contributors,"Apache Pulsar transport for Twinbox: keyed sends and subscriptions that acknowledge only after the inbox has handled a message, redeliver failures after a delay, and park poison messages in a dead-letter topic."
+2026-09-30T06:09:12.963Z,OptiCli,0.3.0,opticli contributors,Read and write local Optimizely CMS 12 sites from the command line.
+2026-09-30T06:13:39.81Z,Beans.Requestable,1.0.0,Craig Duggan (craigduggan90),Stuff I keep rewriting for lightweight CQRS.
+2026-09-30T06:14:03.16Z,Beans.Pageable,1.0.0,Craig Duggan (craigduggan90),Stuff I keep rewriting for date filtering.
