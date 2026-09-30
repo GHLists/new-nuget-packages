@@ -12,25 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 08:20 UTC
+## Latest list — 2026-09-30 09:22 UTC
 
-New packages created between 2026-09-30 07:22 UTC and 2026-09-30 08:20 UTC.
+New packages created between 2026-09-30 08:20 UTC and 2026-09-30 09:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-30T08-20-43-898782Z.csv)
+[Full CSV](data/new-nuget-packages-2026-09-30T09-22-20-735873Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-30 07:32:15 | [ProduceSelf.ClientSdk.Ops](https://www.nuget.org/packages/ProduceSelf.ClientSdk.Ops) | 0.1.2 | 沧海的频道 | 诺元运维平台客户端 SDK（A 档）：设备注册与心跳、日志采集上报、崩溃补报、下行指令（SetLogLevel / PullLogFile / Collect… |
-| 2026-09-30 07:37:38 | [Syncfusion.Maui.Diagram](https://www.nuget.org/packages/Syncfusion.Maui.Diagram) | 35.1.37 | Syncfusion® Inc. | This package provides the functionality to utilize the features of Syncfusion®… |
-| 2026-09-30 07:43:15 | [NotoriousTest.Dependencies.Azure.FunctionCoreTools](https://www.nuget.org/packages/NotoriousTest.Dependencies.Azure.FunctionCoreTools) | 5.1.0 | Brice SCHUMACHER | Azure Functions Core Tools dependency for NotoriousTest infrastructures. |
-| 2026-09-30 07:43:21 | [NotoriousTest.Requirements.Docker](https://www.nuget.org/packages/NotoriousTest.Requirements.Docker) | 5.1.0 | Brice SCHUMACHER | Docker requirement for NotoriousTest infrastructures. |
-| 2026-09-30 07:43:24 | [NotoriousTest.Web.AzureFunctions](https://www.nuget.org/packages/NotoriousTest.Web.AzureFunctions) | 5.1.0 | Brice SCHUMACHER | Azure functions integration tests support for NotoriousTest. |
-| 2026-09-30 07:55:49 | [EngineeringFluids](https://www.nuget.org/packages/EngineeringFluids) | 0.1.3 | Mads Kirk Foged | Fast, unit-typed thermodynamic and transport properties for engineering fluids… |
-| 2026-09-30 08:02:42 | [NibblePoker.Win32.Mailslot](https://www.nuget.org/packages/NibblePoker.Win32.Mailslot) | 0.0.8 | NibblePoker,Herwin Bozet | A simple and 'to-the-point' library to parse launch arguments in .NET and .NET… |
-| 2026-09-30 08:04:47 | [Semi.Avalonia.MediaPlayer](https://www.nuget.org/packages/Semi.Avalonia.MediaPlayer) | 1.0.0 | IRIHI Technology Co., Ltd. | Avalonia.Controls.MediaPlayer themes inspired by Semi Design. |
-| 2026-09-30 08:05:07 | [Bimwright.Nwd.Server](https://www.nuget.org/packages/Bimwright.Nwd.Server) | 1.0.0 | Khoa Le | MCP gateway for Autodesk Navisworks Manage 2022-2027. |
-| 2026-09-30 08:08:12 | [TenonAdmin.Workflow](https://www.nuget.org/packages/TenonAdmin.Workflow) | 0.7.0 | huguodong | TenonAdmin 工作流可选包:审批定义/引擎/待办与设计器配套 API;AddTenonAdminWorkflow + UseWorkflow 启用(T… |
-| 2026-09-30 08:08:13 | [TenonAdmin.Integration](https://www.nuget.org/packages/TenonAdmin.Integration) | 0.7.0 | huguodong | TenonAdmin 第三方接入可选包:接入应用与 API Key、开放接口授权与数据范围、出站调用与可靠投递;AddTenonAdminIntegratio… |
+| 2026-09-30 08:37:07 | [MorseCode.StagedConstruction](https://www.nuget.org/packages/MorseCode.StagedConstruction) | 0.1.0 | MorseCode Software LLC | Construction of immutable objects in ordered stages, with no access to a partly… |
+| 2026-09-30 08:43:17 | [MimeMagic](https://www.nuget.org/packages/MimeMagic) | 4.0.0 | red,si618 | .NET wrapper for libmagic, bundling native libmagic binaries for Windows, Linux… |
+| 2026-09-30 08:48:20 | [MorseCode.Mvvm](https://www.nuget.org/packages/MorseCode.Mvvm) | 0.1.0 | MorseCode Software LLC | Building blocks for view models written in a functional reactive style on SodaF… |
+| 2026-09-30 08:49:12 | [SQLSentinel.Mcp](https://www.nuget.org/packages/SQLSentinel.Mcp) | 2.3.1 | Takudzwa Mawarire | SQL Sentinel MCP Server - Advanced SQL Server monitoring and diagnostics for AI… |
+| 2026-09-30 08:53:09 | [Fusi.Docx.Encoding](https://www.nuget.org/packages/Fusi.Docx.Encoding) | 1.0.5 | Daniele Fusi | DOCX encoding conversion components. |
+| 2026-09-30 08:58:16 | [Toamaisutaa.OpenApi](https://www.nuget.org/packages/Toamaisutaa.OpenApi) | 0.8.0 | Pianonic | OpenAPI security schemes for Toamaisutaa: a bearer scheme for locally issued to… |
+| 2026-09-30 08:58:18 | [Toamaisutaa.PasswordHashing.Argon2](https://www.nuget.org/packages/Toamaisutaa.PasswordHashing.Argon2) | 0.8.0 | Pianonic | Opt-in Argon2id password hashing for Toamaisutaa. Nothing else references this… |
+| 2026-09-30 08:58:19 | [Toamaisutaa.PasswordValidation.Hibp](https://www.nuget.org/packages/Toamaisutaa.PasswordValidation.Hibp) | 0.8.0 | Pianonic | Opt-in Have I Been Pwned breach check for Toamaisutaa password validation. Wrap… |
+| 2026-09-30 08:58:20 | [Toamaisutaa.Passkeys](https://www.nuget.org/packages/Toamaisutaa.Passkeys) | 0.8.0 | Pianonic | Opt-in passkey (WebAuthn) authentication for Toamaisutaa: registration and asse… |
 
 ## Data source
 

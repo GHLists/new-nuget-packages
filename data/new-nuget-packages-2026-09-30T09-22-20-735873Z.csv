@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-09-30T08:37:07.527Z,MorseCode.StagedConstruction,0.1.0,MorseCode Software LLC,"Construction of immutable objects in ordered stages, with no access to a partly built object."
+2026-09-30T08:43:17.037Z,MimeMagic,4.0.0,"red,si618",".NET wrapper for libmagic, bundling native libmagic binaries for Windows, Linux and macOS. Fork of hey-red/Mime."
+2026-09-30T08:48:20.96Z,MorseCode.Mvvm,0.1.0,MorseCode Software LLC,Building blocks for view models written in a functional reactive style on SodaFlow.
+2026-09-30T08:49:12.773Z,SQLSentinel.Mcp,2.3.1,Takudzwa Mawarire,SQL Sentinel MCP Server - Advanced SQL Server monitoring and diagnostics for AI agents
+2026-09-30T08:53:09.297Z,Fusi.Docx.Encoding,1.0.5,Daniele Fusi,DOCX encoding conversion components.
+2026-09-30T08:58:16.973Z,Toamaisutaa.OpenApi,0.8.0,Pianonic,"OpenAPI security schemes for Toamaisutaa: a bearer scheme for locally issued tokens, an OAuth2 authorization-code scheme whose URLs come from the issuer's discovery document, applied document-wide and cleared on anonymous endpoints. A package of its own because OpenAPI is not part of the shared fra…"
+2026-09-30T08:58:18.733Z,Toamaisutaa.PasswordHashing.Argon2,0.8.0,Pianonic,"Opt-in Argon2id password hashing for Toamaisutaa. Nothing else references this package - install it only if you want the memory-hard hash instead of the in-box PBKDF2 one, and are willing to carry the dependency it needs."
+2026-09-30T08:58:19.377Z,Toamaisutaa.PasswordValidation.Hibp,0.8.0,Pianonic,"Opt-in Have I Been Pwned breach check for Toamaisutaa password validation. Wraps the length rules rather than replacing them, asks the range API with five characters of a SHA-1 hash, and lets the password through when the service is unreachable."
+2026-09-30T08:58:20.737Z,Toamaisutaa.Passkeys,0.8.0,Pianonic,"Opt-in passkey (WebAuthn) authentication for Toamaisutaa: registration and assertion endpoints, a per-user credential list, and passwordless sign-in that satisfies the two-factor policy on its own. Nothing else references this package - install it only if you want passkeys, and are willing to carry…"
