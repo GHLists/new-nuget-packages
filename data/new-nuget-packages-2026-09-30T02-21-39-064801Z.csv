@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-09-30T01:20:55.673Z,reflgen,1.0.0,29thnight,"Macro-free, attribute-driven C++20 reflection for Visual C++ projects. Installing the package wires the reflgen code generator into the build: headers only carry [[reflgen::...]] attributes, and the generated reflection is force-included at compile time. Includes the generator (reflgen.exe with lib…"
+2026-09-30T01:24:33.52Z,WASU.Plugin.Minio,26.930.9,WASU.Plugin.Minio,Package Description
+2026-09-30T01:26:34.157Z,polanes.project.Domain,0.0.1-alphabeta1,polanes.project.Domain,Package Description
+2026-09-30T01:36:50.21Z,Sitecore.XmCloud.XA.JSS.Foundation.Theming,1.10.13,Sitecore Corporation A/S,Sitecore Experience Accelerator 40.5.54
+2026-09-30T01:37:07.08Z,Sitecore.XmCloud.XA.JSS.Foundation.JSONLD,1.10.13,Sitecore Corporation A/S,Sitecore Experience Accelerator 40.5.54
+2026-09-30T01:37:45.767Z,FrameFlow.Inference.OpenVino,0.13.0,Charles Lee,"FrameFlow — cross-platform FFmpeg media pipelines for .NET: decode, encode, play back, capture from cameras, and run inference on frames. UI-agnostic core"
+2026-09-30T01:40:27.863Z,Sitecore.XmCloud.LayoutService.AgenticContext,1.10.13,Sitecore,Sitecore Layout Service Agentic Context
+2026-09-30T01:41:32.45Z,Kjt.DotNet.AzureAppServices.Extension.Splunk,1.16.0,Kyle Tully,"Zero-code tracing, metrics and logs for .NET and .NET Framework apps on Windows Azure App Service. Installs the Splunk Distribution of OpenTelemetry .NET 1.16.0 (signalfx/splunk-otel-dotnet@v1.16.0), unmodified, and activates it through applicationHost.xdt; configure it with OTEL_* App Settings. No…"
+2026-09-30T01:41:34.313Z,Kjt.DotNet.AzureAppServices.Extension,1.17.0,Kyle Tully,"Zero-code tracing, metrics and logs for .NET and .NET Framework apps on Windows Azure App Service. Installs the OpenTelemetry .NET automatic instrumentation 1.17.0 (open-telemetry/opentelemetry-dotnet-instrumentation@v1.17.0) and activates it through applicationHost.xdt; point it at any OTLP endpoi…"
+2026-09-30T01:47:31.92Z,DanceRudiments,0.2.0,Kieran Simkin,C# bindings to the DanceFlow C++ rhythmic motion library. Music: https://kieransimkin.co.uk/my-songs/
+2026-09-30T01:53:39.26Z,TKWF.Ext.Authentication,0.1.0,LoongBa.cn 龙爸出品,TKWF 扩展：认证中心——令牌体系（手写 RS256 JWT + kid 轮换 + 黑名单落库 + Refresh rotation）/ 认证矩阵 Provider（短信 + 微信）/ 登录保护 / 票据换令牌（PKCE）/ 身份适配层（JwtDomainUserParser/ITokenVerifier/IAuthorizationMapper/UserHelperBase/中间件）/ 跨系统映射 / 平台凭证
+2026-09-30T01:59:59.84Z,GtkSharp4.Sdk,4.22.4.26273,'GtkSharp Contributors',GtkSharp SDK. Enabled via the net8.0-gtk TFM.
+2026-09-30T02:00:21.857Z,Net4x.Vb6ToCSharp.XamarinGtk.UpgradeHelpers,1.0.0.26273,Vb6ToCSharp.XamarinGtk.UpgradeHelpers,"WPF controls, helpers and common dialogs for VB6 programs converted to C# by Vb6ToCSharp, compiled against the Xamarin.Forms WPF facade so a converted WPF program runs on GTK 4."
+2026-09-30T02:00:29.713Z,Net4x.Xamarin.Forms.Gtk3.Controls.Tests,5.0.0.1,Microsoft,Package Description
