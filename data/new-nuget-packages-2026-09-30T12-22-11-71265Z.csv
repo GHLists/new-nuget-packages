@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-09-30T11:21:33.51Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0.Part5,1.0.0,sdcb,Hy-MT2-1.8B-Q8_0.gguf part 5/8. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0; do not reference directly.
+2026-09-30T11:22:35.86Z,Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0.Part6,1.0.0,sdcb,Hy-MT2-1.8B-Q8_0.gguf part 6/8. Installed automatically by Sdcb.GgufWeights.Hy-MT2-1.8B-Q8_0; do not reference directly.
+2026-09-30T11:24:23.773Z,Aspose.PDF.Cpp.FOSS,1.0.1,Aspose,"Free, open-source C++20 library for working with PDF documents: open, edit and save PDFs, extract text, render pages to PNG/JPEG/BMP/TIFF, create documents with text, tables, vector graphics, annotations and AcroForm fields, encrypt/decrypt (RC4, AES-128/256) and sign (detached PKCS#7). No third-pa…"
+2026-09-30T11:25:27.05Z,Curiosity.Shell,26.9.6085,Curiosity GmbH,"curio - the Curiosity Workspace admin sandbox (the one Sudo works in) from your terminal: sessions, a two-panel file manager, the shell, and the commit review loop."
+2026-09-30T11:30:08.543Z,Routster.Studio.ModuleTool,1.8.0,Orienteering Labs AB,"Builds, checks, runs and signs Routster Studio modules."
+2026-09-30T11:30:09.13Z,Routster.Studio.Sdk,1.8.0,Orienteering Labs AB,"What a Routster Studio module compiles against: the host API, and the build step that lays out a module package."
+2026-09-30T11:30:09.887Z,Routster.Studio.Templates,1.8.1,Orienteering Labs AB,"dotnet new routster-module: a Routster Studio module that builds, runs in Studio and says what it does in four languages."
+2026-09-30T11:35:19.187Z,Universal.HubSpot.Client,1.0.0,Andrew Ong,Complete generated client for the HubSpot public REST API catalog.
+2026-09-30T11:35:31.75Z,SkiaGameRendering.Fna.OGL,0.17.0,SkiaGameRendering.Fna.OGL,"GPU SkiaSharp rendering into FNA Texture2D targets on FNA3D's OpenGL driver, with zero-copy GPU texture sharing. Requires FNA3D_FORCE_DRIVER=OpenGL."
+2026-09-30T11:35:33.473Z,SkiaGameRendering.Fna.WindowsDX,0.17.0,SkiaGameRendering.Fna.WindowsDX,"GPU SkiaSharp rendering into FNA Texture2D targets via ANGLE on FNA3D's D3D11 driver, with zero-copy GPU texture sharing. Requires FNA3D_FORCE_DRIVER=D3D11."
+2026-09-30T11:42:44.1Z,BoTech.ApiClient.LibreTranslate,1.1.0,www.botech.dev,A .net api client for https://LibreTranslate.com
+2026-09-30T11:59:35.913Z,XlsCrypt.NativeExcelEncryption,1.0.0,Sujit Tamang,Native .NET library for Excel workbook password encryption.
