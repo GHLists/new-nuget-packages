@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-01T12:45:33.37Z,AngryMonkey.CloudCommon.Models,1.0.0,Angry Monkey,"Portable money, postal address, coordinate and time interval value types."
+2026-10-01T12:45:34.677Z,AngryMonkey.CloudCommon.Geography,1.0.0,Angry Monkey,Explicit adapters between CloudCommon and existing CloudGeography value types.
+2026-10-01T12:45:36.35Z,AngryMonkey.CloudCommon.Theming,1.0.0,Angry Monkey,Complete theme resolution and portable CSS export.
+2026-10-01T12:45:37.83Z,AngryMonkey.CloudCommon.Theming.Blazor,1.0.0,Angry Monkey,Scoped Blazor integration for CloudCommon themes.
+2026-10-01T12:51:26.833Z,Wang.Seamas.Shared.Aop,1.0.0,Seamas Wang,Aop for Shared
+2026-10-01T12:53:14.807Z,Repo2C4.Cli,1.0.0,Rodrigo de Oliveira,Repo2C4 command-line architecture evidence and reviewable LikeC4 documentation tool.
+2026-10-01T12:53:16.07Z,Repo2C4.Mcp,1.0.0,Rodrigo de Oliveira,Repo2C4 local stdio Model Context Protocol server for evidence-based LikeC4 workflows.
+2026-10-01T12:53:17.943Z,Repo2C4.Agent,1.0.0,Rodrigo de Oliveira,Repo2C4 local architecture documentation agent using Microsoft Agent Framework and Repo2C4 MCP.
+2026-10-01T12:53:33.283Z,Tjidde.Logging,1.0.0,Tjidde Nieuwenhuizen,"Standardized, structured logging for .NET applications. Integrates with Microsoft.Extensions.Logging and provides consistent output, customer context, sensitive data masking, and improved exception formatting."
+2026-10-01T12:53:56.087Z,Soenneker.Holidays.Us,4.0.1,Jake Soenneker,Calculates recurring United States federal and state holiday dates.
+2026-10-01T12:54:58.85Z,Umbraco.AI.Agent.Conversations.Core,17.0.0,Umbraco,"Durable conversation/project domain, repositories, and the ChatHistoryProvider persistence bridge for Umbraco AI"
+2026-10-01T12:55:00.857Z,Umbraco.AI.Agent.Conversations.Persistence,18.0.0,Umbraco,EF Core persistence layer for Umbraco AI Conversations
+2026-10-01T12:55:02.697Z,Umbraco.AI.Agent.Conversations.Persistence.SqlServer,17.0.0,Umbraco,SQL Server migrations for Umbraco AI Conversations
+2026-10-01T12:55:04.63Z,Umbraco.AI.Agent.Conversations.Persistence.Sqlite,18.0.0,Umbraco,SQLite migrations for Umbraco AI Conversations
+2026-10-01T12:55:06.54Z,Umbraco.AI.Agent.Conversations.Web,17.0.0,Umbraco,Management API (conversations + projects) for Umbraco AI Conversations
+2026-10-01T12:55:10.647Z,Umbraco.AI.Agent.Copilot.Workspace,18.0.0,Umbraco,Copilot Workspace for Umbraco AI — full-section persisted chat with projects and reusable context attachments
+2026-10-01T12:55:12.14Z,Umbraco.AI.Agent.Copilot.Workspace.Core,17.0.0,Umbraco,"Copilot Workspace agent surface, section, and workspace services"
+2026-10-01T12:55:14.043Z,Umbraco.AI.Agent.Copilot.Workspace.Startup,18.0.0,Umbraco,Startup and DI registration for Umbraco AI Copilot Workspace
+2026-10-01T12:55:15.887Z,Umbraco.AI.Agent.Copilot.Workspace.Web,17.0.0,Umbraco,Section-gated persisted stream and file endpoints for Copilot Workspace
+2026-10-01T12:55:17.943Z,Umbraco.AI.Agent.Copilot.Workspace.Web.StaticAssets,17.0.0,Umbraco,Backoffice UI for Umbraco AI Copilot Workspace
+2026-10-01T13:08:16.43Z,McpExplorer.AspNetCore,0.2.0,devvolkankocak,"Swagger/Scalar-style interactive UI for Model Context Protocol (MCP) servers in ASP.NET Core. Add one line (app.MapMcpExplorer()) to browse all MCP tools, fill schema-generated forms, send requests with custom headers (Authorization, tokens) and inspect responses."
+2026-10-01T13:11:29.707Z,nanoFramework.Iot.Device.Pms5003,1.0.1,nanoframework,Plantower PMS5003 particulate-matter sensor over UART for .NET nanoFramework.
+2026-10-01T13:11:31.883Z,nanoFramework.Iot.Device.Pmsa003i,1.0.1,nanoframework,Plantower PMSA003I particulate-matter sensor over I2C for .NET nanoFramework.

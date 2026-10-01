@@ -12,19 +12,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 12:19 UTC
+## Latest list — 2026-10-01 13:20 UTC
 
-New packages created between 2026-10-01 11:20 UTC and 2026-10-01 12:19 UTC.
+New packages created between 2026-10-01 12:19 UTC and 2026-10-01 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T12-19-53-202579Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T13-20-55-231774Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 12:07:25 | [Lesphere.Framework.Core](https://www.nuget.org/packages/Lesphere.Framework.Core) | 1.0.0 | Lesphere | 乐枢 .NET 10 后端公共基础：异常、身份、查询分页、依赖注入、序列化、校验与通用扩展。 |
-| 2026-10-01 12:07:28 | [Lesphere.Framework.DatabaseAccessor](https://www.nuget.org/packages/Lesphere.Framework.DatabaseAccessor) | 1.0.0 | Lesphere | 乐枢 .NET 10 数据访问基础：SqlSugar 仓储、连接选择、单库事务及 SQLite 显式维护能力。 |
-| 2026-10-01 12:07:30 | [Lesphere.Framework.AspNetCore](https://www.nuget.org/packages/Lesphere.Framework.AspNetCore) | 1.0.0 | Lesphere | 乐枢 .NET 10 Web 基础：统一响应、全局异常、可信身份上下文和健康探针。 |
-| 2026-10-01 12:13:24 | [AnointedAutomation.Serialization](https://www.nuget.org/packages/AnointedAutomation.Serialization) | 1.0.0 | Anointed Automation LLC, Alex… | Shared serialization helpers: naming rules (camel, Pascal, snake and the hybrid… |
-| 2026-10-01 12:13:25 | [AnointedAutomation.Shopify](https://www.nuget.org/packages/AnointedAutomation.Shopify) | 1.0.0 | Anointed Automation LLC, Alex… | Plain Newtonsoft.Json POCO models for the Shopify Admin REST API (customers, or… |
+| 2026-10-01 12:45:33 | [AngryMonkey.CloudCommon.Models](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Models) | 1.0.0 | Angry Monkey | Portable money, postal address, coordinate and time interval value types. |
+| 2026-10-01 12:45:34 | [AngryMonkey.CloudCommon.Geography](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Geography) | 1.0.0 | Angry Monkey | Explicit adapters between CloudCommon and existing CloudGeography value types. |
+| 2026-10-01 12:45:36 | [AngryMonkey.CloudCommon.Theming](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Theming) | 1.0.0 | Angry Monkey | Complete theme resolution and portable CSS export. |
+| 2026-10-01 12:45:37 | [AngryMonkey.CloudCommon.Theming.Blazor](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Theming.Blazor) | 1.0.0 | Angry Monkey | Scoped Blazor integration for CloudCommon themes. |
+| 2026-10-01 12:51:26 | [Wang.Seamas.Shared.Aop](https://www.nuget.org/packages/Wang.Seamas.Shared.Aop) | 1.0.0 | Seamas Wang | Aop for Shared |
+| 2026-10-01 12:53:14 | [Repo2C4.Cli](https://www.nuget.org/packages/Repo2C4.Cli) | 1.0.0 | Rodrigo de Oliveira | Repo2C4 command-line architecture evidence and reviewable LikeC4 documentation… |
+| 2026-10-01 12:53:16 | [Repo2C4.Mcp](https://www.nuget.org/packages/Repo2C4.Mcp) | 1.0.0 | Rodrigo de Oliveira | Repo2C4 local stdio Model Context Protocol server for evidence-based LikeC4 wor… |
+| 2026-10-01 12:53:17 | [Repo2C4.Agent](https://www.nuget.org/packages/Repo2C4.Agent) | 1.0.0 | Rodrigo de Oliveira | Repo2C4 local architecture documentation agent using Microsoft Agent Framework… |
+| 2026-10-01 12:53:33 | [Tjidde.Logging](https://www.nuget.org/packages/Tjidde.Logging) | 1.0.0 | Tjidde Nieuwenhuizen | Standardized, structured logging for .NET applications. Integrates with Microso… |
+| 2026-10-01 12:53:56 | [Soenneker.Holidays.Us](https://www.nuget.org/packages/Soenneker.Holidays.Us) | 4.0.1 | Jake Soenneker | Calculates recurring United States federal and state holiday dates. |
+| 2026-10-01 12:54:58 | [Umbraco.AI.Agent.Conversations.Core](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Core) | 17.0.0 | Umbraco | Durable conversation/project domain, repositories, and the ChatHistoryProvider… |
+| 2026-10-01 12:55:00 | [Umbraco.AI.Agent.Conversations.Persistence](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Persistence) | 18.0.0 | Umbraco | EF Core persistence layer for Umbraco AI Conversations |
+| 2026-10-01 12:55:02 | [Umbraco.AI.Agent.Conversations.Persistence.SqlServer](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Persistence.SqlServer) | 17.0.0 | Umbraco | SQL Server migrations for Umbraco AI Conversations |
+| 2026-10-01 12:55:04 | [Umbraco.AI.Agent.Conversations.Persistence.Sqlite](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Persistence.Sqlite) | 18.0.0 | Umbraco | SQLite migrations for Umbraco AI Conversations |
+| 2026-10-01 12:55:06 | [Umbraco.AI.Agent.Conversations.Web](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Web) | 17.0.0 | Umbraco | Management API (conversations + projects) for Umbraco AI Conversations |
+| 2026-10-01 12:55:10 | [Umbraco.AI.Agent.Copilot.Workspace](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace) | 18.0.0 | Umbraco | Copilot Workspace for Umbraco AI — full-section persisted chat with projects an… |
+| 2026-10-01 12:55:12 | [Umbraco.AI.Agent.Copilot.Workspace.Core](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Core) | 17.0.0 | Umbraco | Copilot Workspace agent surface, section, and workspace services |
+| 2026-10-01 12:55:14 | [Umbraco.AI.Agent.Copilot.Workspace.Startup](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Startup) | 18.0.0 | Umbraco | Startup and DI registration for Umbraco AI Copilot Workspace |
+| 2026-10-01 12:55:15 | [Umbraco.AI.Agent.Copilot.Workspace.Web](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Web) | 17.0.0 | Umbraco | Section-gated persisted stream and file endpoints for Copilot Workspace |
+| 2026-10-01 12:55:17 | [Umbraco.AI.Agent.Copilot.Workspace.Web.StaticAssets](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Web.StaticAssets) | 17.0.0 | Umbraco | Backoffice UI for Umbraco AI Copilot Workspace |
+| 2026-10-01 13:08:16 | [McpExplorer.AspNetCore](https://www.nuget.org/packages/McpExplorer.AspNetCore) | 0.2.0 | devvolkankocak | Swagger/Scalar-style interactive UI for Model Context Protocol (MCP) servers in… |
+| 2026-10-01 13:11:29 | [nanoFramework.Iot.Device.Pms5003](https://www.nuget.org/packages/nanoFramework.Iot.Device.Pms5003) | 1.0.1 | nanoframework | Plantower PMS5003 particulate-matter sensor over UART for .NET nanoFramework. |
+| 2026-10-01 13:11:31 | [nanoFramework.Iot.Device.Pmsa003i](https://www.nuget.org/packages/nanoFramework.Iot.Device.Pmsa003i) | 1.0.1 | nanoframework | Plantower PMSA003I particulate-matter sensor over I2C for .NET nanoFramework. |
 
 ## Data source
 
