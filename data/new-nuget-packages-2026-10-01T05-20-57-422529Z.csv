@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-01T04:31:42.923Z,Zymergi.Rendering,11.1.0-alpha,Oliver Yu,"HTML, Markdown, and XSLT rendering for Zymergi. Implements Core's IMarkdownRenderer."
+2026-10-01T04:48:42.113Z,Webority.Seo.AspNetCore,0.1.0,Webority Technologies,"SEO for Webority Razor Pages websites: one options section, index protection outside Production, generated robots.txt, sitemap.xml and security.txt, .well-known and llms.txt serving, [RedirectFrom] 301s, the seo-head tag helper (title, description, canonical, robots, Open Graph, Twitter) and typed…"
+2026-10-01T04:58:40.927Z,ManInBlack.AI.Persistence.Sqlite,0.1.0,fengb3,ManInBlack.AI 的可选 SQLite 持久化包：基于 EF Core 10 + SQLite 实现 ISessionStorage、IUserStorage、IAgentStateStorage，含启动迁移与一次性 JSON→SQLite 数据迁移工具。
