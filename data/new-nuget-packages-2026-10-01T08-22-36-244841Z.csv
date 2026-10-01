@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-01T07:23:06.64Z,Shadop.Archmage.Godot,0.19.0,Shadop,"Godot .NET adapters for the Archmage game configuration system: a file system based on FileAccess, a logger that writes to the Godot output, and conversions to Godot types."
+2026-10-01T07:28:04.917Z,Darker98.PayPalServerSdk,1.0.0,Darker98,"Unofficial .NET SDK for the PayPal REST APIs (Orders v2, Payments v2, Vault v3, Transaction Search v1, Subscriptions v1), generated with APIMatic. Not affiliated with or endorsed by PayPal."
+2026-10-01T07:39:20.857Z,Adamantium.Core,0.1.0-alpha,Adamantium Studio,"Foundation of the Adamantium engine: disposable and named objects, observable collections, commands, events, data buffers and pointers, dependency injection and type parsing."
+2026-10-01T07:39:21.713Z,Adamantium.ECS,0.1.0-alpha,Adamantium Studio,"Entity-component system of the Adamantium engine: entities, components, cameras, colliders, animation and meshes."
+2026-10-01T07:39:22.55Z,Adamantium.EffectsCompiler,0.1.0-alpha,Adamantium Studio,"Compiles Adamantium effects (.fx) to SPIR-V with the Slang compiler, along with the reflection data the engine binds them by."
+2026-10-01T07:39:23.347Z,Adamantium.Engine,0.1.0-alpha,Adamantium Studio,"Rendering and entity services of the Adamantium engine: Forward+ rendering, scene managers, cameras, selection and editing tools."
+2026-10-01T07:39:24.163Z,Adamantium.Engine.Compiler,0.1.0-alpha,Adamantium Studio,"Imports 3D models - Collada, Wavefront OBJ, 3DS - into the mesh and scene data of the Adamantium engine."
+2026-10-01T07:39:25.07Z,Adamantium.Engine.Generators,0.1.0-alpha,Adamantium Studio,"Source generators of the Adamantium engine: compiles the project's effects (.fx) into typed effect classes at build time, and emits a checked constant for every content asset."
+2026-10-01T07:39:25.903Z,Adamantium.FX,0.1.0-alpha,Adamantium Studio,"Built-in effects of the Adamantium engine - basic, font, sprite, Forward+ lighting and full-screen quad - compiled into the assembly at build time."
+2026-10-01T07:39:26.717Z,Adamantium.Fonts,0.1.0-alpha,Adamantium Studio,"Reads TrueType, OpenType and CFF fonts - outlines, metrics, kerning and OpenType features - and generates multichannel signed distance field (MSDF) glyph atlases."
+2026-10-01T07:39:27.487Z,Adamantium.GameInput,0.1.0-alpha,Adamantium Studio,"Microsoft GameInput gamepads for the Adamantium engine, with the native shim that exposes the GameInput API to C#."
+2026-10-01T07:39:28.273Z,Adamantium.Graphics,0.1.0-alpha,Adamantium Studio,"The Vulkan renderer of the Adamantium engine: graphics device, swap chains, memory allocation, pipelines, effects, textures and text."
+2026-10-01T07:39:29.123Z,Adamantium.Graphics.Core,0.1.0-alpha,Adamantium Studio,"Graphics abstractions of the Adamantium engine: devices, presenters, buffers, textures, vertex layouts, meshes and the effects framework, apart from their Vulkan implementation."
+2026-10-01T07:39:29.883Z,Adamantium.Imaging,0.1.0-alpha,Adamantium Studio,"Image codecs of the Adamantium engine - PNG and APNG, JPEG, GIF, BMP, TGA, TIFF, ICO, DDS - with mipmaps, format conversion and palette quantizers."
+2026-10-01T07:39:30.633Z,Adamantium.MVVM,0.1.0-alpha,Adamantium Studio,"MVVM for Adamantium: view models with validation, sync and async commands, and the attributes its source generator reads."
+2026-10-01T07:39:31.36Z,Adamantium.MVVM.Generators,0.1.0-alpha,Adamantium Studio,"Source generator for Adamantium.MVVM: bindable properties, commands and view-model plumbing from the attributes on a view model."
+2026-10-01T07:39:32.103Z,Adamantium.MacOS,0.1.0-alpha,Adamantium Studio,"macOS interop for the Adamantium engine: application, windows and cursors through a native app wrapper."
+2026-10-01T07:39:32.91Z,Adamantium.Mathematics,0.1.0-alpha,Adamantium Studio,"Mathematics of the Adamantium engine: vectors, matrices, quaternions, colors, bounding volumes, polygon triangulation and fill rules, double-double arithmetic."
+2026-10-01T07:39:33.66Z,Adamantium.Multiverse,0.1.0-alpha,Adamantium Studio,"Hosting layer of the Adamantium engine: universes, the outputs they render to, windowing platforms and input."
+2026-10-01T07:39:34.407Z,Adamantium.ProceduralGeometry,0.1.0-alpha,Adamantium Studio,"Procedural meshes for the Adamantium engine: rectangles, ellipses, arcs, polygons, lines, cubes, spheres, cylinders, cones, capsules and grids."
+2026-10-01T07:39:35.123Z,Adamantium.Win32,0.1.0-alpha,Adamantium Studio,"Win32 interop for the Adamantium engine: windows, messages, system metrics, cursors and Shell dialogs."
+2026-10-01T07:39:35.863Z,Adamantium.XInput,0.1.0-alpha,Adamantium Studio,XInput gamepads for the Adamantium engine.
+2026-10-01T07:46:05.32Z,NGX.NET,310.9.1,qian-o,C# bindings for NVIDIA NGX.
+2026-10-01T08:02:12.98Z,CAXperts.Toolkit.Plugins.Abstractions,2026.4.0,CAXperts GmbH,"SDK for building Toolkit backend plugins: IToolkitPlugin, IPluginContext, IPluginMigrations, IPluginStartup and the plugin.json manifest model, together with the host's ToolkitDbContext and entities. This is the ONE package a partner references. See REQUIRED_DOCS/PLUGINS.md for the contract, packag…"
+2026-10-01T08:08:10.867Z,Crping.EFCore.Analyzers,10.7.0,Crping,Crping.EFCore 升级迁移分析器（CRPEF 规则族：v10 破坏性变更编译期诊断与一键改写）
