@@ -1,0 +1,40 @@
+created_at,package,version,authors,description
+2026-10-01T08:28:03.39Z,EngineeringUnits.Fast.Bridge,2.2.151,Mads Kirk Foged,"ToFast() and ToClassic() between EngineeringUnits and EngineeringUnits.Fast, so a code base can move over one project at a time. Remove it when the move is done: the compiler then lists every conversion that is left."
+2026-10-01T08:28:32.85Z,IIMMPACT.CodeQuality.Tool,0.1.0,IIMMPACT SDN BHD,Checks .NET solutions against the IIMMPACT code-quality baseline. Build warnings become gate failures only when they grow past the baseline.
+2026-10-01T08:28:33.473Z,IIMMPACT.CodeQuality,0.1.0,IIMMPACT SDN BHD,"Shared IIMMPACT C# code-quality rules: analyzer configuration, banned APIs, and thresholds for SonarAnalyzer and Microsoft.CodeAnalysis rules."
+2026-10-01T08:34:12.72Z,WinUI.AvalonDock,0.1.0-alpha,qian-o,An unofficial WinUI 3 adaptation of AvalonDock for model-driven docking workspaces.
+2026-10-01T08:37:11.883Z,CAPCOM.REDox,1.0.0,"CAPCOM CO.,LTD.",Core + JSON + JSON5 + DOX + common serializer infrastructure
+2026-10-01T08:38:18.357Z,CAPCOM.REDox.Cbor,1.0.0,"CAPCOM CO.,LTD.",CBOR parser/writer integration
+2026-10-01T08:38:40.463Z,CAPCOM.REDox.Csv,1.0.0-preview,"CAPCOM CO.,LTD.",CSV support
+2026-10-01T08:38:58.09Z,CAPCOM.REDox.Dynamic,1.0.0,"CAPCOM CO.,LTD.",dynamic access to the token DOM
+2026-10-01T08:40:13.727Z,CAPCOM.REDox.Ini,1.0.0,"CAPCOM CO.,LTD.",INI support
+2026-10-01T08:42:19.453Z,CAPCOM.REDox.Html,1.0.0-preview,"CAPCOM CO.,LTD.",Practical HTML structural parser/writer
+2026-10-01T08:42:53.04Z,CAPCOM.REDox.MessagePack,1.0.0,"CAPCOM CO.,LTD.",MessagePack parser/writer integration
+2026-10-01T08:43:07.46Z,CAPCOM.REDox.Serialization.DataContractJson,1.0.0,"CAPCOM CO.,LTD.",DataContractJsonSerializer compatibility layer
+2026-10-01T08:43:21.353Z,CAPCOM.REDox.Serialization.NewtonsoftJson,1.0.0-preview,"CAPCOM CO.,LTD.",Newtonsoft.Json compatibility layer
+2026-10-01T08:43:34.603Z,CAPCOM.REDox.Serialization.SystemTextJson,1.0.0-preview,"CAPCOM CO.,LTD.",System.Text.Json compatibility layer
+2026-10-01T08:43:46.65Z,CAPCOM.REDox.Toml,1.0.0-preview,"CAPCOM CO.,LTD.",CBOR parser/writer integration
+2026-10-01T08:43:57.473Z,CAPCOM.REDox.Xml,1.0.0-preview,"CAPCOM CO.,LTD.",XML structural parser/writer
+2026-10-01T08:51:50.35Z,loach.ArchitectureAnalyzer.Baseline,0.2.1-rc1,loach,Generate deterministic ArchitectureAnalyzer baseline files for ratcheting legacy violations.
+2026-10-01T08:52:30.133Z,Nethermind.Libp2p.Protocols.MDns,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:30.387Z,Nethermind.Libp2p.Protocols.PubsubPeerDiscovery,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:31.117Z,Nethermind.Libp2p.Protocols.WebSockets,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:31.757Z,Nethermind.Libp2p.Protocols.AutoTls,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:32.027Z,Nethermind.Libp2p.Protocols.Tls,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:32.343Z,Nethermind.Libp2p.Protocols.Pubsub,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:32.583Z,Nethermind.Libp2p.OpenTelemetry,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:32.84Z,Nethermind.Libp2p.Protocols.Noise,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:33.4Z,Nethermind.Libp2p.Protocols.Ping,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:33.687Z,Nethermind.Libp2p.Protocols.RequestResponse,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:33.94Z,Nethermind.Libp2p.Protocols.Identify,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:34.523Z,Nethermind.Libp2p.Protocols.WebRtc,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:34.793Z,Nethermind.Libp2p.Protocols.Plaintext,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:35.027Z,Nethermind.Libp2p,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:35.327Z,Nethermind.Libp2p.Protocols.Yamux,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:35.593Z,Nethermind.Libp2p.Protocols.Quic,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:36.31Z,Libp2p.Protocols.KadDht,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:36.58Z,Nethermind.Libp2p.Protocols.Relay,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:36.873Z,Nethermind.Libp2p.Protocols.IpTcp,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:37.193Z,Nethermind.Libp2p.Core,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:52:37.46Z,Nethermind.Libp2p.Protocols.Multistream,1.0.0,Nethermind,A libp2p implementation for .NET
+2026-10-01T08:56:33.63Z,Adliance.AspNetCore.Buddy.GuiKit.Infrastructure,10.2.0.12,Hannes Sachsenhofer,"Application Insights and Azure Key Vault setup for Adliance ASP.NET Core applications, enabled only when configured."

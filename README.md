@@ -12,39 +12,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 08:22 UTC
+## Latest list — 2026-10-01 09:19 UTC
 
-New packages created between 2026-10-01 07:18 UTC and 2026-10-01 08:22 UTC.
+New packages created between 2026-10-01 08:22 UTC and 2026-10-01 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T08-22-36-244841Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T09-19-37-800533Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 07:23:06 | [Shadop.Archmage.Godot](https://www.nuget.org/packages/Shadop.Archmage.Godot) | 0.19.0 | Shadop | Godot .NET adapters for the Archmage game configuration system: a file system b… |
-| 2026-10-01 07:28:04 | [Darker98.PayPalServerSdk](https://www.nuget.org/packages/Darker98.PayPalServerSdk) | 1.0.0 | Darker98 | Unofficial .NET SDK for the PayPal REST APIs (Orders v2, Payments v2, Vault v3,… |
-| 2026-10-01 07:39:20 | [Adamantium.Core](https://www.nuget.org/packages/Adamantium.Core) | 0.1.0-alpha | Adamantium Studio | Foundation of the Adamantium engine: disposable and named objects, observable c… |
-| 2026-10-01 07:39:21 | [Adamantium.ECS](https://www.nuget.org/packages/Adamantium.ECS) | 0.1.0-alpha | Adamantium Studio | Entity-component system of the Adamantium engine: entities, components, cameras… |
-| 2026-10-01 07:39:22 | [Adamantium.EffectsCompiler](https://www.nuget.org/packages/Adamantium.EffectsCompiler) | 0.1.0-alpha | Adamantium Studio | Compiles Adamantium effects (.fx) to SPIR-V with the Slang compiler, along with… |
-| 2026-10-01 07:39:23 | [Adamantium.Engine](https://www.nuget.org/packages/Adamantium.Engine) | 0.1.0-alpha | Adamantium Studio | Rendering and entity services of the Adamantium engine: Forward+ rendering, sce… |
-| 2026-10-01 07:39:24 | [Adamantium.Engine.Compiler](https://www.nuget.org/packages/Adamantium.Engine.Compiler) | 0.1.0-alpha | Adamantium Studio | Imports 3D models - Collada, Wavefront OBJ, 3DS - into the mesh and scene data… |
-| 2026-10-01 07:39:25 | [Adamantium.Engine.Generators](https://www.nuget.org/packages/Adamantium.Engine.Generators) | 0.1.0-alpha | Adamantium Studio | Source generators of the Adamantium engine: compiles the project's effects (.fx… |
-| 2026-10-01 07:39:25 | [Adamantium.FX](https://www.nuget.org/packages/Adamantium.FX) | 0.1.0-alpha | Adamantium Studio | Built-in effects of the Adamantium engine - basic, font, sprite, Forward+ light… |
-| 2026-10-01 07:39:26 | [Adamantium.Fonts](https://www.nuget.org/packages/Adamantium.Fonts) | 0.1.0-alpha | Adamantium Studio | Reads TrueType, OpenType and CFF fonts - outlines, metrics, kerning and OpenTyp… |
-| 2026-10-01 07:39:27 | [Adamantium.GameInput](https://www.nuget.org/packages/Adamantium.GameInput) | 0.1.0-alpha | Adamantium Studio | Microsoft GameInput gamepads for the Adamantium engine, with the native shim th… |
-| 2026-10-01 07:39:28 | [Adamantium.Graphics](https://www.nuget.org/packages/Adamantium.Graphics) | 0.1.0-alpha | Adamantium Studio | The Vulkan renderer of the Adamantium engine: graphics device, swap chains, mem… |
-| 2026-10-01 07:39:29 | [Adamantium.Graphics.Core](https://www.nuget.org/packages/Adamantium.Graphics.Core) | 0.1.0-alpha | Adamantium Studio | Graphics abstractions of the Adamantium engine: devices, presenters, buffers, t… |
-| 2026-10-01 07:39:29 | [Adamantium.Imaging](https://www.nuget.org/packages/Adamantium.Imaging) | 0.1.0-alpha | Adamantium Studio | Image codecs of the Adamantium engine - PNG and APNG, JPEG, GIF, BMP, TGA, TIFF… |
-| 2026-10-01 07:39:30 | [Adamantium.MVVM](https://www.nuget.org/packages/Adamantium.MVVM) | 0.1.0-alpha | Adamantium Studio | MVVM for Adamantium: view models with validation, sync and async commands, and… |
-| 2026-10-01 07:39:31 | [Adamantium.MVVM.Generators](https://www.nuget.org/packages/Adamantium.MVVM.Generators) | 0.1.0-alpha | Adamantium Studio | Source generator for Adamantium.MVVM: bindable properties, commands and view-mo… |
-| 2026-10-01 07:39:32 | [Adamantium.MacOS](https://www.nuget.org/packages/Adamantium.MacOS) | 0.1.0-alpha | Adamantium Studio | macOS interop for the Adamantium engine: application, windows and cursors throu… |
-| 2026-10-01 07:39:32 | [Adamantium.Mathematics](https://www.nuget.org/packages/Adamantium.Mathematics) | 0.1.0-alpha | Adamantium Studio | Mathematics of the Adamantium engine: vectors, matrices, quaternions, colors, b… |
-| 2026-10-01 07:39:33 | [Adamantium.Multiverse](https://www.nuget.org/packages/Adamantium.Multiverse) | 0.1.0-alpha | Adamantium Studio | Hosting layer of the Adamantium engine: universes, the outputs they render to,… |
-| 2026-10-01 07:39:34 | [Adamantium.ProceduralGeometry](https://www.nuget.org/packages/Adamantium.ProceduralGeometry) | 0.1.0-alpha | Adamantium Studio | Procedural meshes for the Adamantium engine: rectangles, ellipses, arcs, polygo… |
-| 2026-10-01 07:39:35 | [Adamantium.Win32](https://www.nuget.org/packages/Adamantium.Win32) | 0.1.0-alpha | Adamantium Studio | Win32 interop for the Adamantium engine: windows, messages, system metrics, cur… |
-| 2026-10-01 07:39:35 | [Adamantium.XInput](https://www.nuget.org/packages/Adamantium.XInput) | 0.1.0-alpha | Adamantium Studio | XInput gamepads for the Adamantium engine. |
-| 2026-10-01 07:46:05 | [NGX.NET](https://www.nuget.org/packages/NGX.NET) | 310.9.1 | qian-o | C# bindings for NVIDIA NGX. |
-| 2026-10-01 08:02:12 | [CAXperts.Toolkit.Plugins.Abstractions](https://www.nuget.org/packages/CAXperts.Toolkit.Plugins.Abstractions) | 2026.4.0 | CAXperts GmbH | SDK for building Toolkit backend plugins: IToolkitPlugin, IPluginContext, IPlug… |
-| 2026-10-01 08:08:10 | [Crping.EFCore.Analyzers](https://www.nuget.org/packages/Crping.EFCore.Analyzers) | 10.7.0 | Crping | Crping.EFCore 升级迁移分析器（CRPEF 规则族：v10 破坏性变更编译期诊断与一键改写） |
+| 2026-10-01 08:28:03 | [EngineeringUnits.Fast.Bridge](https://www.nuget.org/packages/EngineeringUnits.Fast.Bridge) | 2.2.151 | Mads Kirk Foged | ToFast() and ToClassic() between EngineeringUnits and EngineeringUnits.Fast, so… |
+| 2026-10-01 08:28:32 | [IIMMPACT.CodeQuality.Tool](https://www.nuget.org/packages/IIMMPACT.CodeQuality.Tool) | 0.1.0 | IIMMPACT SDN BHD | Checks .NET solutions against the IIMMPACT code-quality baseline. Build warning… |
+| 2026-10-01 08:28:33 | [IIMMPACT.CodeQuality](https://www.nuget.org/packages/IIMMPACT.CodeQuality) | 0.1.0 | IIMMPACT SDN BHD | Shared IIMMPACT C# code-quality rules: analyzer configuration, banned APIs, and… |
+| 2026-10-01 08:34:12 | [WinUI.AvalonDock](https://www.nuget.org/packages/WinUI.AvalonDock) | 0.1.0-alpha | qian-o | An unofficial WinUI 3 adaptation of AvalonDock for model-driven docking workspa… |
+| 2026-10-01 08:37:11 | [CAPCOM.REDox](https://www.nuget.org/packages/CAPCOM.REDox) | 1.0.0 | CAPCOM CO.,LTD. | Core + JSON + JSON5 + DOX + common serializer infrastructure |
+| 2026-10-01 08:38:18 | [CAPCOM.REDox.Cbor](https://www.nuget.org/packages/CAPCOM.REDox.Cbor) | 1.0.0 | CAPCOM CO.,LTD. | CBOR parser/writer integration |
+| 2026-10-01 08:38:40 | [CAPCOM.REDox.Csv](https://www.nuget.org/packages/CAPCOM.REDox.Csv) | 1.0.0-preview | CAPCOM CO.,LTD. | CSV support |
+| 2026-10-01 08:38:58 | [CAPCOM.REDox.Dynamic](https://www.nuget.org/packages/CAPCOM.REDox.Dynamic) | 1.0.0 | CAPCOM CO.,LTD. | dynamic access to the token DOM |
+| 2026-10-01 08:40:13 | [CAPCOM.REDox.Ini](https://www.nuget.org/packages/CAPCOM.REDox.Ini) | 1.0.0 | CAPCOM CO.,LTD. | INI support |
+| 2026-10-01 08:42:19 | [CAPCOM.REDox.Html](https://www.nuget.org/packages/CAPCOM.REDox.Html) | 1.0.0-preview | CAPCOM CO.,LTD. | Practical HTML structural parser/writer |
+| 2026-10-01 08:42:53 | [CAPCOM.REDox.MessagePack](https://www.nuget.org/packages/CAPCOM.REDox.MessagePack) | 1.0.0 | CAPCOM CO.,LTD. | MessagePack parser/writer integration |
+| 2026-10-01 08:43:07 | [CAPCOM.REDox.Serialization.DataContractJson](https://www.nuget.org/packages/CAPCOM.REDox.Serialization.DataContractJson) | 1.0.0 | CAPCOM CO.,LTD. | DataContractJsonSerializer compatibility layer |
+| 2026-10-01 08:43:21 | [CAPCOM.REDox.Serialization.NewtonsoftJson](https://www.nuget.org/packages/CAPCOM.REDox.Serialization.NewtonsoftJson) | 1.0.0-preview | CAPCOM CO.,LTD. | Newtonsoft.Json compatibility layer |
+| 2026-10-01 08:43:34 | [CAPCOM.REDox.Serialization.SystemTextJson](https://www.nuget.org/packages/CAPCOM.REDox.Serialization.SystemTextJson) | 1.0.0-preview | CAPCOM CO.,LTD. | System.Text.Json compatibility layer |
+| 2026-10-01 08:43:46 | [CAPCOM.REDox.Toml](https://www.nuget.org/packages/CAPCOM.REDox.Toml) | 1.0.0-preview | CAPCOM CO.,LTD. | CBOR parser/writer integration |
+| 2026-10-01 08:43:57 | [CAPCOM.REDox.Xml](https://www.nuget.org/packages/CAPCOM.REDox.Xml) | 1.0.0-preview | CAPCOM CO.,LTD. | XML structural parser/writer |
+| 2026-10-01 08:51:50 | [loach.ArchitectureAnalyzer.Baseline](https://www.nuget.org/packages/loach.ArchitectureAnalyzer.Baseline) | 0.2.1-rc1 | loach | Generate deterministic ArchitectureAnalyzer baseline files for ratcheting legac… |
+| 2026-10-01 08:52:30 | [Nethermind.Libp2p.Protocols.MDns](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.MDns) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:30 | [Nethermind.Libp2p.Protocols.PubsubPeerDiscovery](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.PubsubPeerDiscovery) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:31 | [Nethermind.Libp2p.Protocols.WebSockets](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.WebSockets) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:31 | [Nethermind.Libp2p.Protocols.AutoTls](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.AutoTls) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:32 | [Nethermind.Libp2p.Protocols.Tls](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Tls) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:32 | [Nethermind.Libp2p.Protocols.Pubsub](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Pubsub) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:32 | [Nethermind.Libp2p.OpenTelemetry](https://www.nuget.org/packages/Nethermind.Libp2p.OpenTelemetry) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:32 | [Nethermind.Libp2p.Protocols.Noise](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Noise) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:33 | [Nethermind.Libp2p.Protocols.Ping](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Ping) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:33 | [Nethermind.Libp2p.Protocols.RequestResponse](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.RequestResponse) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:33 | [Nethermind.Libp2p.Protocols.Identify](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Identify) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:34 | [Nethermind.Libp2p.Protocols.WebRtc](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.WebRtc) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:34 | [Nethermind.Libp2p.Protocols.Plaintext](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Plaintext) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:35 | [Nethermind.Libp2p](https://www.nuget.org/packages/Nethermind.Libp2p) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:35 | [Nethermind.Libp2p.Protocols.Yamux](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Yamux) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:35 | [Nethermind.Libp2p.Protocols.Quic](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Quic) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:36 | [Libp2p.Protocols.KadDht](https://www.nuget.org/packages/Libp2p.Protocols.KadDht) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:36 | [Nethermind.Libp2p.Protocols.Relay](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Relay) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:36 | [Nethermind.Libp2p.Protocols.IpTcp](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.IpTcp) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:37 | [Nethermind.Libp2p.Core](https://www.nuget.org/packages/Nethermind.Libp2p.Core) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:52:37 | [Nethermind.Libp2p.Protocols.Multistream](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Multistream) | 1.0.0 | Nethermind | A libp2p implementation for .NET |
+| 2026-10-01 08:56:33 | [Adliance.AspNetCore.Buddy.GuiKit.Infrastructure](https://www.nuget.org/packages/Adliance.AspNetCore.Buddy.GuiKit.Infrastructure) | 10.2.0.12 | Hannes Sachsenhofer | Application Insights and Azure Key Vault setup for Adliance ASP.NET Core applic… |
 
 ## Data source
 
