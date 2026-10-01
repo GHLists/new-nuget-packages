@@ -12,37 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 13:20 UTC
+## Latest list — 2026-10-01 14:20 UTC
 
-New packages created between 2026-10-01 12:19 UTC and 2026-10-01 13:20 UTC.
+New packages created between 2026-10-01 13:20 UTC and 2026-10-01 14:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T13-20-55-231774Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T14-20-59-988201Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 12:45:33 | [AngryMonkey.CloudCommon.Models](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Models) | 1.0.0 | Angry Monkey | Portable money, postal address, coordinate and time interval value types. |
-| 2026-10-01 12:45:34 | [AngryMonkey.CloudCommon.Geography](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Geography) | 1.0.0 | Angry Monkey | Explicit adapters between CloudCommon and existing CloudGeography value types. |
-| 2026-10-01 12:45:36 | [AngryMonkey.CloudCommon.Theming](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Theming) | 1.0.0 | Angry Monkey | Complete theme resolution and portable CSS export. |
-| 2026-10-01 12:45:37 | [AngryMonkey.CloudCommon.Theming.Blazor](https://www.nuget.org/packages/AngryMonkey.CloudCommon.Theming.Blazor) | 1.0.0 | Angry Monkey | Scoped Blazor integration for CloudCommon themes. |
-| 2026-10-01 12:51:26 | [Wang.Seamas.Shared.Aop](https://www.nuget.org/packages/Wang.Seamas.Shared.Aop) | 1.0.0 | Seamas Wang | Aop for Shared |
-| 2026-10-01 12:53:14 | [Repo2C4.Cli](https://www.nuget.org/packages/Repo2C4.Cli) | 1.0.0 | Rodrigo de Oliveira | Repo2C4 command-line architecture evidence and reviewable LikeC4 documentation… |
-| 2026-10-01 12:53:16 | [Repo2C4.Mcp](https://www.nuget.org/packages/Repo2C4.Mcp) | 1.0.0 | Rodrigo de Oliveira | Repo2C4 local stdio Model Context Protocol server for evidence-based LikeC4 wor… |
-| 2026-10-01 12:53:17 | [Repo2C4.Agent](https://www.nuget.org/packages/Repo2C4.Agent) | 1.0.0 | Rodrigo de Oliveira | Repo2C4 local architecture documentation agent using Microsoft Agent Framework… |
-| 2026-10-01 12:53:33 | [Tjidde.Logging](https://www.nuget.org/packages/Tjidde.Logging) | 1.0.0 | Tjidde Nieuwenhuizen | Standardized, structured logging for .NET applications. Integrates with Microso… |
-| 2026-10-01 12:53:56 | [Soenneker.Holidays.Us](https://www.nuget.org/packages/Soenneker.Holidays.Us) | 4.0.1 | Jake Soenneker | Calculates recurring United States federal and state holiday dates. |
-| 2026-10-01 12:54:58 | [Umbraco.AI.Agent.Conversations.Core](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Core) | 17.0.0 | Umbraco | Durable conversation/project domain, repositories, and the ChatHistoryProvider… |
-| 2026-10-01 12:55:00 | [Umbraco.AI.Agent.Conversations.Persistence](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Persistence) | 18.0.0 | Umbraco | EF Core persistence layer for Umbraco AI Conversations |
-| 2026-10-01 12:55:02 | [Umbraco.AI.Agent.Conversations.Persistence.SqlServer](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Persistence.SqlServer) | 17.0.0 | Umbraco | SQL Server migrations for Umbraco AI Conversations |
-| 2026-10-01 12:55:04 | [Umbraco.AI.Agent.Conversations.Persistence.Sqlite](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Persistence.Sqlite) | 18.0.0 | Umbraco | SQLite migrations for Umbraco AI Conversations |
-| 2026-10-01 12:55:06 | [Umbraco.AI.Agent.Conversations.Web](https://www.nuget.org/packages/Umbraco.AI.Agent.Conversations.Web) | 17.0.0 | Umbraco | Management API (conversations + projects) for Umbraco AI Conversations |
-| 2026-10-01 12:55:10 | [Umbraco.AI.Agent.Copilot.Workspace](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace) | 18.0.0 | Umbraco | Copilot Workspace for Umbraco AI — full-section persisted chat with projects an… |
-| 2026-10-01 12:55:12 | [Umbraco.AI.Agent.Copilot.Workspace.Core](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Core) | 17.0.0 | Umbraco | Copilot Workspace agent surface, section, and workspace services |
-| 2026-10-01 12:55:14 | [Umbraco.AI.Agent.Copilot.Workspace.Startup](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Startup) | 18.0.0 | Umbraco | Startup and DI registration for Umbraco AI Copilot Workspace |
-| 2026-10-01 12:55:15 | [Umbraco.AI.Agent.Copilot.Workspace.Web](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Web) | 17.0.0 | Umbraco | Section-gated persisted stream and file endpoints for Copilot Workspace |
-| 2026-10-01 12:55:17 | [Umbraco.AI.Agent.Copilot.Workspace.Web.StaticAssets](https://www.nuget.org/packages/Umbraco.AI.Agent.Copilot.Workspace.Web.StaticAssets) | 17.0.0 | Umbraco | Backoffice UI for Umbraco AI Copilot Workspace |
-| 2026-10-01 13:08:16 | [McpExplorer.AspNetCore](https://www.nuget.org/packages/McpExplorer.AspNetCore) | 0.2.0 | devvolkankocak | Swagger/Scalar-style interactive UI for Model Context Protocol (MCP) servers in… |
-| 2026-10-01 13:11:29 | [nanoFramework.Iot.Device.Pms5003](https://www.nuget.org/packages/nanoFramework.Iot.Device.Pms5003) | 1.0.1 | nanoframework | Plantower PMS5003 particulate-matter sensor over UART for .NET nanoFramework. |
-| 2026-10-01 13:11:31 | [nanoFramework.Iot.Device.Pmsa003i](https://www.nuget.org/packages/nanoFramework.Iot.Device.Pmsa003i) | 1.0.1 | nanoframework | Plantower PMSA003I particulate-matter sensor over I2C for .NET nanoFramework. |
+| 2026-10-01 13:33:32 | [NetMurmurHash3](https://www.nuget.org/packages/NetMurmurHash3) | 1.0.0 | gitPhate | MurmurHash3 (x86_32, x64_128) for .NET 8/10, built on System.IO.Hashing. |
+| 2026-10-01 13:44:51 | [makeITeasy.SystemDesign.BlazorTemplate](https://www.nuget.org/packages/makeITeasy.SystemDesign.BlazorTemplate) | 1.0.0 | makeITeasy | makeITeasy design system for Blazor Server applications: layout, navigation, Ra… |
+| 2026-10-01 13:48:38 | [AngryMonkey.CDM.FormActions](https://www.nuget.org/packages/AngryMonkey.CDM.FormActions) | 8.2.5 | Angry Monkey | CDM build-time local and server form action discovery, extraction, and registra… |
+| 2026-10-01 13:51:00 | [NBB.Application.Mediator](https://www.nuget.org/packages/NBB.Application.Mediator) | 10.1.0 | Totalsoft | Mediator (source generated mediator) integration for NBB applications: in-proce… |
+| 2026-10-01 13:51:03 | [NBB.Application.Mediator.Effects](https://www.nuget.org/packages/NBB.Application.Mediator.Effects) | 10.1.0 | Totalsoft | Effects for sending requests and publishing notifications with Mediator (source… |
+| 2026-10-01 13:51:38 | [NBB.Messaging.Mediator](https://www.nuget.org/packages/NBB.Messaging.Mediator) | 10.1.0 | Totalsoft | Mediator (source generated mediator) integration for the NBB messaging host: su… |
+| 2026-10-01 13:51:40 | [NBB.Messaging.MediatR](https://www.nuget.org/packages/NBB.Messaging.MediatR) | 10.1.0 | Totalsoft | MediatR integration for the NBB messaging host: subscriber discovery from Media… |
+| 2026-10-01 13:51:52 | [NBB.ProcessManager.Mediator](https://www.nuget.org/packages/NBB.ProcessManager.Mediator) | 10.1.0 | Totalsoft | Mediator (source generated mediator) integration for the NBB process manager: d… |
+| 2026-10-01 13:51:54 | [NBB.ProcessManager.MediatR](https://www.nuget.org/packages/NBB.ProcessManager.MediatR) | 10.1.0 | Totalsoft | MediatR integration for the NBB process manager: dispatches MediatR notificatio… |
+| 2026-10-01 13:51:57 | [NBB.ProjectR.Mediator](https://www.nuget.org/packages/NBB.ProjectR.Mediator) | 10.1.0 | Totalsoft | Mediator (source generated mediator) integration for NBB.ProjectR: dispatches M… |
+| 2026-10-01 13:51:58 | [NBB.ProjectR.MediatR](https://www.nuget.org/packages/NBB.ProjectR.MediatR) | 10.1.0 | Totalsoft | MediatR integration for NBB.ProjectR: dispatches MediatR notifications to proje… |
+| 2026-10-01 13:55:48 | [Aura3D.Pipeline.PBR.Common](https://www.nuget.org/packages/Aura3D.Pipeline.PBR.Common) | 0.0.5 | CeSun | Three Dimensional Control for Avalonia |
+| 2026-10-01 13:55:48 | [Aura3D.Pipeline.PBRForward](https://www.nuget.org/packages/Aura3D.Pipeline.PBRForward) | 0.0.5 | CeSun | Three Dimensional Control for Avalonia |
+| 2026-10-01 14:10:35 | [Gum.Topten.RichTextKit](https://www.nuget.org/packages/Gum.Topten.RichTextKit) | 0.4.167.1 | Topten Software, Victor Chela… | Temporary fork of Topten.RichTextKit 0.4.167 used by Gum.SkiaSharp, patched wit… |
+| 2026-10-01 14:11:43 | [Argon2DotnetFast](https://www.nuget.org/packages/Argon2DotnetFast) | 1.0.0 | Marius Vitkevičius | Argon2id, Argon2i and Argon2d (RFC 9106) in managed C#, with AVX-512, AVX2, NEO… |
+| 2026-10-01 14:12:20 | [DynamicEndpoints.EntityFrameworkCore](https://www.nuget.org/packages/DynamicEndpoints.EntityFrameworkCore) | 0.1.0 | Pawel Pajak | Entity Framework Core persistence for DynamicEndpoints definitions. |
+| 2026-10-01 14:12:21 | [DynamicEndpoints.FluentValidation](https://www.nuget.org/packages/DynamicEndpoints.FluentValidation) | 0.1.0 | Pawel Pajak | Use FluentValidation validators as custom validators of DynamicEndpoints. |
 
 ## Data source
 

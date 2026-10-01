@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-01T13:33:32.14Z,NetMurmurHash3,1.0.0,gitPhate,"MurmurHash3 (x86_32, x64_128) for .NET 8/10, built on System.IO.Hashing."
+2026-10-01T13:44:51.303Z,makeITeasy.SystemDesign.BlazorTemplate,1.0.0,makeITeasy,"makeITeasy design system for Blazor Server applications: layout, navigation, Radzen theme and error pages set up in two lines."
+2026-10-01T13:48:38.373Z,AngryMonkey.CDM.FormActions,8.2.5,Angry Monkey,"CDM build-time local and server form action discovery, extraction, and registration."
+2026-10-01T13:51:00.85Z,NBB.Application.Mediator,10.1.0,Totalsoft,Mediator (source generated mediator) integration for NBB applications: in-process event publishing.
+2026-10-01T13:51:03.027Z,NBB.Application.Mediator.Effects,10.1.0,Totalsoft,Effects for sending requests and publishing notifications with Mediator (source generated mediator).
+2026-10-01T13:51:38.907Z,NBB.Messaging.Mediator,10.1.0,Totalsoft,"Mediator (source generated mediator) integration for the NBB messaging host: subscriber discovery from Mediator handlers, dispatch middleware and message kind classification."
+2026-10-01T13:51:40.11Z,NBB.Messaging.MediatR,10.1.0,Totalsoft,"MediatR integration for the NBB messaging host: subscriber discovery from MediatR handlers, dispatch middleware and message kind classification."
+2026-10-01T13:51:52.86Z,NBB.ProcessManager.Mediator,10.1.0,Totalsoft,Mediator (source generated mediator) integration for the NBB process manager: dispatches Mediator notifications to process manager definitions.
+2026-10-01T13:51:54.23Z,NBB.ProcessManager.MediatR,10.1.0,Totalsoft,MediatR integration for the NBB process manager: dispatches MediatR notifications to process manager definitions.
+2026-10-01T13:51:57.113Z,NBB.ProjectR.Mediator,10.1.0,Totalsoft,Mediator (source generated mediator) integration for NBB.ProjectR: dispatches Mediator notifications to projectors.
+2026-10-01T13:51:58.193Z,NBB.ProjectR.MediatR,10.1.0,Totalsoft,MediatR integration for NBB.ProjectR: dispatches MediatR notifications to projectors.
+2026-10-01T13:55:48.283Z,Aura3D.Pipeline.PBR.Common,0.0.5,CeSun,Three Dimensional Control for Avalonia
+2026-10-01T13:55:48.51Z,Aura3D.Pipeline.PBRForward,0.0.5,CeSun,Three Dimensional Control for Avalonia
+2026-10-01T14:10:35.623Z,Gum.Topten.RichTextKit,0.4.167.1,"Topten Software, Victor Chelaru","Temporary fork of Topten.RichTextKit 0.4.167 used by Gum.SkiaSharp, patched with toptensoftware/RichTextKit#114 (round stroke joins so text halos do not spike at acute glyph corners). Gum will switch back to Topten.RichTextKit once a release includes that fix. Not intended for direct use."
+2026-10-01T14:11:43.373Z,Argon2DotnetFast,1.0.0,Marius Vitkevičius,"Argon2id, Argon2i and Argon2d (RFC 9106) in managed C#, with AVX-512, AVX2, NEON and SVE2 compression chosen at run time and no native library. PHC strings with bounded verification and NeedsRehash, secret and associated data, any tag length, and a reusable hasher that keeps its memory and lane thr…"
+2026-10-01T14:12:20Z,DynamicEndpoints.EntityFrameworkCore,0.1.0,Pawel Pajak,Entity Framework Core persistence for DynamicEndpoints definitions.
+2026-10-01T14:12:21.343Z,DynamicEndpoints.FluentValidation,0.1.0,Pawel Pajak,Use FluentValidation validators as custom validators of DynamicEndpoints.
