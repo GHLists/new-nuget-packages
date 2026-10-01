@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-01T03:33:06.06Z,XlsxCrypt.NativeExcelEncryption,1.0.0,Sujit Tamang,Native .NET library for Excel workbook password encryption.
+2026-10-01T03:46:54.027Z,Invex.Extensions.Logging.FancyConsole,0.4.0,Declan Smith,Useful utilities for Microsoft.Extensions.Logging
+2026-10-01T03:47:14.28Z,Numerics.NET.Native.Accelerate,10.8.0,ExoAnalytics Inc.,"Native macOS acceleration for Numerics.NET using Apple's system Accelerate framework. Supports x64 and ARM64 with dense BLAS, LAPACK, selected vector operations, and directly supported FFT lengths in single and double precision."
+2026-10-01T03:48:12.947Z,Numerics.NET.Native.OpenBlas.linux-x64,10.8.0,ExoAnalytics Inc.,"Native Linux x64 dense BLAS and LAPACK for Numerics.NET using OpenBLAS, with single- and double-precision support and its private GNU Fortran runtime."
+2026-10-01T03:48:39.617Z,Numerics.NET.Native.OpenBlas.win-x64,10.8.0,ExoAnalytics Inc.,"Native Windows x64 dense BLAS and LAPACK for Numerics.NET using OpenBLAS, with single- and double-precision support."
+2026-10-01T03:49:05.027Z,Numerics.NET.Native.OpenBlas.osx-x64,10.8.0,ExoAnalytics Inc.,"Native macOS Intel x64 dense BLAS and LAPACK for Numerics.NET using OpenBLAS, with single- and double-precision support."
+2026-10-01T03:49:32.017Z,Numerics.NET.Native.OpenBlas.osx-arm64,10.8.0,ExoAnalytics Inc.,"Native macOS Apple Silicon ARM64 dense BLAS and LAPACK for Numerics.NET using OpenBLAS, with single- and double-precision support."
+2026-10-01T03:49:51.197Z,Numerics.NET.osx,10.8.0,ExoAnalytics Inc.,"Numerics.NET (formerly Extreme Optimization Numerical Libraries for .NET) are a set of libraries for numerical computing and data analysis. This bundle includes the managed Numerics.NET packages and the preferred Apple Accelerate native provider for macOS, supporting Intel x64 and Apple Silicon ARM…"
+2026-10-01T04:15:26.813Z,Lingara,0.0.0,Spinning Cat Studios,Reserved for the official Lingara .NET library (under development).
+2026-10-01T04:15:46.833Z,Lingara.Embed,0.0.0,Spinning Cat Studios,Official .NET SDK for embedding Lingara in games and other platforms (under development).
