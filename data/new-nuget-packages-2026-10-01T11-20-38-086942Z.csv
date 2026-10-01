@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-01T10:44:17.287Z,LocalOrigin,0.1.0,iyulab,"Gives a local web page its own origin: origin allocation and persistence, a durable store for what the page saves, and the preview report model. No dependencies."
+2026-10-01T10:44:17.907Z,LocalOrigin.AspNetCore,0.1.0,iyulab,"Hosting for local-origin on ASP.NET Core: serving a scope's pages with a fixed security profile, the write channels and preview origins."
+2026-10-01T10:44:57.383Z,LineTrace,0.1.1,Akshay Dhola,Line-level .NET profiler: patches IL after build and writes an HTML report of time and allocations per method and per source line.
+2026-10-01T11:02:31.643Z,Ironbrain.Calendar,0.1.0,kern-services,CalDAV / iCalendar client for arbitrary self-hosted calendar servers (e.g. Mailcow SOGo). Shared by Ironbrain MailCal CLI/MCP and platform hosts.
+2026-10-01T11:02:32.57Z,Ironbrain.Email,0.1.0,kern-services,IMAP/SMTP client (MailKit) for self-hosted mail servers. Shared by Ironbrain MailCal CLI/MCP and platform hosts.
