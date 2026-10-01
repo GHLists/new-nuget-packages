@@ -1,0 +1,61 @@
+created_at,package,version,authors,description
+2026-10-01T05:32:24.607Z,NetPrints.Catalog,0.2.0,"Daniel Meza, Robin Kahlow",Catalog engine for NetPrints: builds catalogs of types and APIs from libraries. NetPrints continues the original NetPrints by Robin Kahlow (https://github.com/RobinKa/netprints).
+2026-10-01T05:32:26.32Z,NetPrints.Annotations,0.2.0,"Daniel Meza, Robin Kahlow",Roslyn analyzer and attributes for embedding NetPrints catalogs. NetPrints continues the original NetPrints by Robin Kahlow (https://github.com/RobinKa/netprints).
+2026-10-01T05:40:13.18Z,Mailhive,0.1.0,Naszat,"The official .NET SDK for Mailhive Send, the transactional and broadcast email API from Mailhive: send, batch send and look up emails, with safe retries, typed errors and webhook verification."
+2026-10-01T05:41:01.603Z,AGM.DevTools.Serilog,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:03.2Z,AGM.DevTools.Swagger,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:04.87Z,AGM.FrameworkCore,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:06.387Z,AGM.FrameworkCore.AI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:08.51Z,AGM.FrameworkCore.CrossServices,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:10.267Z,AGM.FrameworkCore.Entity,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:12.073Z,AGM.FrameworkCore.EntityFramework,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:13.887Z,AGM.FrameworkCore.SystemTask,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:15.483Z,AGM.Middlewares.Common,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:17.217Z,AGM.Modules.CMSModule.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:18.917Z,AGM.Modules.CMSModule.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:20.537Z,AGM.Plugins.AI.Agent,3.7.6,mgamal.sfi,Package Description
+2026-10-01T05:41:22.09Z,AGM.Plugins.AI.AgenticCore,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:23.647Z,AGM.Plugins.AI.AgenticUI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:25.307Z,AGM.Plugins.Attachment.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:26.99Z,AGM.Plugins.Attachments.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:28.613Z,AGM.Plugins.BackgroundServices.Hangfire,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:30.24Z,AGM.Plugins.Chatting.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:31.94Z,AGM.Plugins.Chatting.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:33.603Z,AGM.Plugins.Collaboration.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:35.183Z,AGM.Plugins.Collaboration.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:36.68Z,AGM.Plugins.Configuration.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:38.327Z,AGM.Plugins.Configuration.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:39.917Z,AGM.Plugins.DynamicData.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:41.413Z,AGM.Plugins.DynamicData.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:42.94Z,AGM.Plugins.Evaluations.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:44.617Z,AGM.Plugins.Evaluations.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:46.17Z,AGM.Plugins.Finance.Core,3.7.6,mgamal.sfi,Package Description
+2026-10-01T05:41:47.75Z,AGM.Plugins.Finance.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:49.283Z,AGM.Plugins.Identity.ActiveDirectory,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:50.857Z,AGM.Plugins.Identity.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:52.493Z,AGM.Plugins.Identity.Database,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:54.027Z,AGM.Plugins.Identity.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:55.537Z,AGM.Plugins.Localization.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:57.22Z,AGM.Plugins.Localization.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:41:58.84Z,AGM.Plugins.Logging.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:00.373Z,AGM.Plugins.Logging.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:01.94Z,AGM.Plugins.Notifications.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:03.483Z,AGM.Plugins.Notifications.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:05.143Z,AGM.Plugins.OpenIntegration.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:06.673Z,AGM.Plugins.OpenIntegration.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:08.19Z,AGM.Plugins.Reporting.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:09.773Z,AGM.Plugins.Reporting.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:11.497Z,AGM.Plugins.SSO.OpenIdServer,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:13.19Z,AGM.Plugins.Setup.Install,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:14.767Z,AGM.Plugins.SystemDiagnostics.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:16.41Z,AGM.Plugins.SystemDiagnostics.Database,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:18.073Z,AGM.Plugins.SystemDiagnostics.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:19.6Z,AGM.Plugins.SystemTask.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:21.06Z,AGM.Plugins.SystemTask.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:22.59Z,AGM.Plugins.UI.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:26.173Z,AGM.Plugins.UI.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:27.837Z,AGM.Plugins.Workflows.Core,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:29.42Z,AGM.Plugins.Workflows.UI,3.7.6,mgamal.sfi,A reusable .NET 10 framework for common functionality.
+2026-10-01T05:42:32.027Z,AGM.Resources.DefaultAGMResources,3.7.6,mgamal.sfi,"AgileModulesFramework Web Resources (JS, CSS, etc..)."
+2026-10-01T05:51:08.957Z,Basilisque.Core,1.0.0-Preview00002,Alexander Stärk,Package Description
+2026-10-01T06:08:03.233Z,Webority.Delivery.AspNetCore,0.1.0,Webority Technologies,"How a Webority Razor head ships its bytes: Brotli-first response compression, static files with the fleet cache policy (versioned assets a year, never immutable), and the Cloudflare edge-cache header middleware that makes the origin the single authority on what the edge may cache."
