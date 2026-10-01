@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-10-01T20:28:38.947Z,Humble.Umbraco.Common,18.0.0,Next Player Up,Shared utilities and licensing conduit for Humble Umbraco feature packages.
+2026-10-01T20:28:40.28Z,Humble.Umbraco.License,18.0.0,Next Player Up,"License verification for Humble Umbraco packages. Uses ECDSA P-256 (ES256), FIPS 140-2/3 compliant, native in .NET 8/10 — no extra NuGet dependencies."
+2026-10-01T20:28:41.6Z,Humble.Umbraco.ClientSideAdmin,18.0.0,Next Player Up,"A front-end editor toolbar for Umbraco: deep-link the current page into the backoffice, reveal the content and media rendered on it, and jump straight to each item's editor. Visible only to signed-in backoffice users; anonymous visitors get byte-identical HTML."
+2026-10-01T20:28:43.25Z,Humble.Umbraco.Forms,18.0.0,Next Player Up,A native Umbraco form builder that reuses element types and property editors.
+2026-10-01T20:28:44.697Z,Humble.Umbraco.Forms.Automations,18.0.0,Next Player Up,Umbraco Automate trigger for Humble Forms: fires an automation when a form is submitted.
+2026-10-01T20:28:46.16Z,Humble.Umbraco.LoginScreen,18.0.0,Next Player Up,"Brand the Umbraco backoffice sign-in page from inside the backoffice, instead of editing appsettings.json and redeploying. The background and both logos are chosen with the standard media picker, so nothing is uploaded or duplicated. Umbraco's decorative curves can be recoloured or switched off. Ch…"
+2026-10-01T20:28:47.463Z,Humble.Umbraco.MediaExtensions,18.0.0,Next Player Up,"Delivers AVIF and WebP to browsers that accept them, and caps oversized image uploads on save. For Umbraco."
+2026-10-01T20:28:48.827Z,Humble.Umbraco,18.0.0,Next Player Up,Installs the complete Humble Umbraco suite in one step. This package contains no code of its own — it is a shortcut that pulls in every published Humble package.
+2026-10-01T20:43:45.54Z,Aura3D.Angle.MacOS,0.1.0,CeSun,ANGLE (Metal backend) macOS dylibs plus the IOSurface helper for the Aura3D.Avalonia render path.
+2026-10-01T20:46:25.923Z,ScientificMethod.LegacyFormats,0.1.0,kibertoad,Bounded decoders for file formats commonly found in legacy games.
+2026-10-01T20:46:26.717Z,ScientificMethod.Core,0.1.0,kibertoad,Reusable clean-room game restoration primitives.
+2026-10-01T20:46:33.577Z,en-nuget-test,0.0.1,Evan Nearing - QSC,who knows
+2026-10-01T20:52:34.01Z,BunDotNet.Cli.win-x64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:52:45.823Z,BunDotNet.Cli.win-arm64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:52:59.24Z,BunDotNet.Cli.osx-x64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:53:15.753Z,BunDotNet.Cli.osx-arm64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:53:27.25Z,BunDotNet.Cli.linux-x64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:53:42.473Z,BunDotNet.Cli.linux-musl-x64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:54:06.73Z,BunDotNet.Cli.linux-musl-arm64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:54:16.78Z,BunDotNet.Cli.linux-arm64,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T20:54:32.403Z,BunDotNet.Cli.any,3.0.0,Samuel Meenzen,A .NET CLI tool wrapper for the Bun JavaScript runtime.
+2026-10-01T21:00:51.463Z,MonkeFrames.Extensions.Templates,2.1.2,sirkingbinx,Templates for MonkeFrames extensions
+2026-10-01T21:04:21.993Z,Cratis.OpenTelemetry,7.22.0,all contributors,"Shared OpenTelemetry hosting defaults for Cratis applications, with configuration-driven OTLP export."
+2026-10-01T21:09:52.253Z,NpgsqlCommon,4.0.0,Toshal Infotech,Talk to PostgreSQL through Npgsql with a layer that can be replaced by a fake in unit tests.
+2026-10-01T21:10:02.237Z,agenline,0.0.1,Sarthak,"API-level agent access restriction layer. Placeholder package, official release coming soon."
+2026-10-01T21:10:26.46Z,NpgsqlCommon.QueryBuilder,4.0.0,Toshal Infotech,"Build PostgreSQL select, insert, update and delete statements and their parameters in C#, with typed table and column classes. It makes SQL text and Npgsql parameters and does not talk to a server."
+2026-10-01T21:11:01.56Z,NpgsqlCommon.CoodinatorProviders,4.0.0,Toshal Infotech,A connection string provider for NpgsqlCommon that reads connection strings through the Coordinator package.
