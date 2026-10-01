@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-01T14:34:51.503Z,Eternet.AspNetCore.ServiceFabric.Swashbuckle.Legacy,1.0.0,Eternet.AspNetCore.ServiceFabric.Swashbuckle.Legacy,Package Description
+2026-10-01T14:54:36.59Z,ITBees.TicketSupport,8.0.2,ITBeesPL,"Reusable ticketing support desk for ITBees applications: tickets raised from a requester panel, conversation history worked from a desk panel, ratings and desk statistics."
+2026-10-01T14:58:46.593Z,Lebi.Titan.Fang,1.0.0,Lebi,Package Description
+2026-10-01T15:03:27.497Z,FnsNet.NpdStatus,1.0.0,ai-iskuzhin,A .NET client for the Russian Federal Tax Service public API that reports whether an INN belongs to a self-employed taxpayer (налог на профессиональный доход) on a given date.
+2026-10-01T15:07:19.34Z,PorticoSoft.Paragon,1.0.0,PorticoSoft,"Generates PDF, Word, PowerPoint and Excel reports from HTML templates and JSON data."
+2026-10-01T15:07:25.44Z,PorticoSoft.Paragon.Designer,1.0.0,PorticoSoft,"The Paragon report designer, mounted inside your own application while you build reports."
+2026-10-01T15:08:39.5Z,Lebi.Titan.Cheese,1.0.0,Lebi,Package Description
