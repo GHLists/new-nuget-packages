@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-01T01:27:22.38Z,ZeroAgent.Dialog,1.1.0,Phong Võ,Deterministic Semantic Task-Oriented Dialogue System and Multi-Tier Agentic Memory Engine (Non-LLM) for ZeroAgent.
+2026-10-01T01:27:23.58Z,ZeroAgent.Tools,1.1.0,Phong Võ,"Industrial and Operational Toolset for ZeroAgent (PLC Modbus, Gorilla TSDB Query, Host Telemetry, Columnar DataFrame, and HITL Safety Gates) in 100% pure C#."
+2026-10-01T01:35:07.087Z,Novolis.Avalonia.Packaging.Inno,2026.1.6.194,Novolis,Inno Setup script generation helpers for Novolis Avalonia installers.
+2026-10-01T01:35:08.347Z,Novolis.Avalonia.Raylib,2026.1.6.194,Novolis,Avalonia host control for embedded Raylib viewports (hidden GLFW + RGBA streaming).
+2026-10-01T01:35:09.687Z,Novolis.Avalonia.Rendering,2026.1.6.194,Novolis,Avalonia hosts for Novolis.Rendering.TwoD (OpenGL) and CPU RGBA frames.
+2026-10-01T01:35:11.817Z,Novolis.Avalonia.Ship,2026.1.6.194,Novolis,"Ship Designer Avalonia chrome: validate ship, hatch helpers, airtight overlay, deck ladder — composes Cad + Cad.Ship + Ship.*"
+2026-10-01T01:35:13.903Z,Novolis.Avalonia.Ship.Design,2026.1.6.194,Novolis,"Object-first Ship Designer Avalonia UI: PLAN/MODEL/PRESENT, ShipDesignSession, create panel, grips, object tools, scene evaluation."
+2026-10-01T01:35:15.21Z,Novolis.Avalonia.Speech,2026.1.6.194,Novolis,Application speech front for device voice playback and user-owned Azure Speech MP3 synthesis.
+2026-10-01T01:35:16.4Z,Novolis.Avalonia.StarMap,2026.1.6.194,Novolis,Avalonia pan/zoom star map control for catalog points and route edges.
+2026-10-01T01:35:17.583Z,Novolis.Avalonia.Studio,2026.1.6.194,Novolis,"Studio chrome for Avalonia editors: status, flash, busy overlay, three-column layout, and command bar."
+2026-10-01T01:35:18.963Z,Novolis.Avalonia.ThreeD,2026.1.6.194,Novolis,"Avalonia ThreeD editor surface: scene hierarchy, OpenGL wireframe viewport, mesh tools, lights, cameras, and agent session."
+2026-10-01T01:35:20.313Z,Novolis.Avalonia.Torrent,2026.1.6.194,Novolis,Avalonia torrent session chrome bound to Novolis.Transports.Torrent — not a product host.
+2026-10-01T01:35:21.5Z,Novolis.Avalonia.Video,2026.1.6.194,Novolis,"Avalonia video surface, storyboard strip, and Movie Maker preview session."
+2026-10-01T01:35:22.82Z,Novolis.Avalonia.Voice,2026.1.6.194,Novolis,"Avalonia controls for Novolis voice preset design, preview, and C# export."
+2026-10-01T01:48:05.03Z,Entitler,0.0.1,1843 Inc.,Official Entitler SDK for .NET (not yet available)
+2026-10-01T02:08:25.71Z,EmptyEngine.Serialization,0.3.1,FriendSea,Package Description
+2026-10-01T02:08:26.847Z,EmptyEngine.Serialization.Editor,0.3.1,FriendSea,Package Description
+2026-10-01T02:08:28.007Z,EmptyEngine.Serialization.Generator,0.3.1,FriendSea,Package Description
+2026-10-01T02:08:32.843Z,EmptyEngine.TypeCatalog,0.3.1,FriendSea,Package Description
+2026-10-01T02:12:14.863Z,Meziantou.Framework.Language.Css,1.0.0,meziantou,"A Roslyn-style immutable CSS syntax tree with lossless parsing and diagnostics: nesting, selectors, media, container and supports queries, cascade layers, and every other modern at-rule."

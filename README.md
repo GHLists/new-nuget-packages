@@ -12,19 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 01:21 UTC
+## Latest list — 2026-10-01 02:21 UTC
 
-New packages created between 2026-10-01 00:22 UTC and 2026-10-01 01:21 UTC.
+New packages created between 2026-10-01 01:21 UTC and 2026-10-01 02:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T01-21-42-012154Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T02-21-30-36002Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 00:49:43 | [Smartstore.FFmpeg.Source](https://www.nuget.org/packages/Smartstore.FFmpeg.Source) | 9.0.2.1 | FFmpeg developers; SmartStore… | Complete corresponding sources, licenses, build scripts and per-RID configurati… |
-| 2026-10-01 00:50:11 | [Defarm.Sdk](https://www.nuget.org/packages/Defarm.Sdk) | 0.1.0 | DeFarm | Official .NET SDK for the DeFarm partner API: ingestion (JSON rows, PNIB helper… |
-| 2026-10-01 00:54:33 | [Webority.Security.Razor](https://www.nuget.org/packages/Webority.Security.Razor) | 0.12.0 | Webority Technologies | The browser half of Webority.Security.AspNetCore for Razor websites: public-for… |
-| 2026-10-01 01:01:56 | [FullDevToolKit](https://www.nuget.org/packages/FullDevToolKit) | 1.0.0 | Carlos Fonteles | Library fundations for building applications, like websites, desktop and mobile… |
-| 2026-10-01 01:15:09 | [Smartstore.wkhtmltopdf.Native.linux-arm64](https://www.nuget.org/packages/Smartstore.wkhtmltopdf.Native.linux-arm64) | 0.12.6.1 | SmartStore AG | Unmodified wkhtmltopdf 0.12.6.1 executable with patched Qt for Linux ARM64, fro… |
+| 2026-10-01 01:27:22 | [ZeroAgent.Dialog](https://www.nuget.org/packages/ZeroAgent.Dialog) | 1.1.0 | Phong Võ | Deterministic Semantic Task-Oriented Dialogue System and Multi-Tier Agentic Mem… |
+| 2026-10-01 01:27:23 | [ZeroAgent.Tools](https://www.nuget.org/packages/ZeroAgent.Tools) | 1.1.0 | Phong Võ | Industrial and Operational Toolset for ZeroAgent (PLC Modbus, Gorilla TSDB Quer… |
+| 2026-10-01 01:35:07 | [Novolis.Avalonia.Packaging.Inno](https://www.nuget.org/packages/Novolis.Avalonia.Packaging.Inno) | 2026.1.6.194 | Novolis | Inno Setup script generation helpers for Novolis Avalonia installers. |
+| 2026-10-01 01:35:08 | [Novolis.Avalonia.Raylib](https://www.nuget.org/packages/Novolis.Avalonia.Raylib) | 2026.1.6.194 | Novolis | Avalonia host control for embedded Raylib viewports (hidden GLFW + RGBA streami… |
+| 2026-10-01 01:35:09 | [Novolis.Avalonia.Rendering](https://www.nuget.org/packages/Novolis.Avalonia.Rendering) | 2026.1.6.194 | Novolis | Avalonia hosts for Novolis.Rendering.TwoD (OpenGL) and CPU RGBA frames. |
+| 2026-10-01 01:35:11 | [Novolis.Avalonia.Ship](https://www.nuget.org/packages/Novolis.Avalonia.Ship) | 2026.1.6.194 | Novolis | Ship Designer Avalonia chrome: validate ship, hatch helpers, airtight overlay,… |
+| 2026-10-01 01:35:13 | [Novolis.Avalonia.Ship.Design](https://www.nuget.org/packages/Novolis.Avalonia.Ship.Design) | 2026.1.6.194 | Novolis | Object-first Ship Designer Avalonia UI: PLAN/MODEL/PRESENT, ShipDesignSession,… |
+| 2026-10-01 01:35:15 | [Novolis.Avalonia.Speech](https://www.nuget.org/packages/Novolis.Avalonia.Speech) | 2026.1.6.194 | Novolis | Application speech front for device voice playback and user-owned Azure Speech… |
+| 2026-10-01 01:35:16 | [Novolis.Avalonia.StarMap](https://www.nuget.org/packages/Novolis.Avalonia.StarMap) | 2026.1.6.194 | Novolis | Avalonia pan/zoom star map control for catalog points and route edges. |
+| 2026-10-01 01:35:17 | [Novolis.Avalonia.Studio](https://www.nuget.org/packages/Novolis.Avalonia.Studio) | 2026.1.6.194 | Novolis | Studio chrome for Avalonia editors: status, flash, busy overlay, three-column l… |
+| 2026-10-01 01:35:18 | [Novolis.Avalonia.ThreeD](https://www.nuget.org/packages/Novolis.Avalonia.ThreeD) | 2026.1.6.194 | Novolis | Avalonia ThreeD editor surface: scene hierarchy, OpenGL wireframe viewport, mes… |
+| 2026-10-01 01:35:20 | [Novolis.Avalonia.Torrent](https://www.nuget.org/packages/Novolis.Avalonia.Torrent) | 2026.1.6.194 | Novolis | Avalonia torrent session chrome bound to Novolis.Transports.Torrent — not a pro… |
+| 2026-10-01 01:35:21 | [Novolis.Avalonia.Video](https://www.nuget.org/packages/Novolis.Avalonia.Video) | 2026.1.6.194 | Novolis | Avalonia video surface, storyboard strip, and Movie Maker preview session. |
+| 2026-10-01 01:35:22 | [Novolis.Avalonia.Voice](https://www.nuget.org/packages/Novolis.Avalonia.Voice) | 2026.1.6.194 | Novolis | Avalonia controls for Novolis voice preset design, preview, and C# export. |
+| 2026-10-01 01:48:05 | [Entitler](https://www.nuget.org/packages/Entitler) | 0.0.1 | 1843 Inc. | Official Entitler SDK for .NET (not yet available) |
+| 2026-10-01 02:08:25 | [EmptyEngine.Serialization](https://www.nuget.org/packages/EmptyEngine.Serialization) | 0.3.1 | FriendSea | Package Description |
+| 2026-10-01 02:08:26 | [EmptyEngine.Serialization.Editor](https://www.nuget.org/packages/EmptyEngine.Serialization.Editor) | 0.3.1 | FriendSea | Package Description |
+| 2026-10-01 02:08:28 | [EmptyEngine.Serialization.Generator](https://www.nuget.org/packages/EmptyEngine.Serialization.Generator) | 0.3.1 | FriendSea | Package Description |
+| 2026-10-01 02:08:32 | [EmptyEngine.TypeCatalog](https://www.nuget.org/packages/EmptyEngine.TypeCatalog) | 0.3.1 | FriendSea | Package Description |
+| 2026-10-01 02:12:14 | [Meziantou.Framework.Language.Css](https://www.nuget.org/packages/Meziantou.Framework.Language.Css) | 1.0.0 | meziantou | A Roslyn-style immutable CSS syntax tree with lossless parsing and diagnostics:… |
 
 ## Data source
 
