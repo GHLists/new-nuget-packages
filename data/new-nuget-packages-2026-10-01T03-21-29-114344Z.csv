@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-01T02:40:14.593Z,zinc,0.1.0,zinc-framework,Command line tool for the Zinc game framework: create projects and package games for release.
+2026-10-01T02:41:35.617Z,GreatDevelopers.ApiDefender,1.0.0,GreatDevelopers.ApiDefender,"ASP.NET Core middleware that bans abusive IPs hitting an API: honeypot paths, repeated 401 / 429 / unmatched-route responses, and file-backed IP allow- and block-lists shared with GreatDevelopers.RequestDefender."
+2026-10-01T02:46:22.07Z,DuplicatePushesAreRejectedAndNotDeleted.2c3ff5419b824225afc629f0ec2f3878,1.0.9,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:46:23.37Z,E2E.EmbeddedReadmeFile.261001.024618.1213819,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.261001.024618.1213819
+2026-10-01T02:46:24.987Z,E2E.SymbolsPackage.261001.024617.9964642,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.261001.024617.9964642
+2026-10-01T02:46:25.32Z,E2E.Deprecated.261001.024618.1241801,1.0.0,EndToEndTests,Description of E2E.Deprecated.261001.024618.1241801
+2026-10-01T02:46:28.573Z,E2E.DotnetTool.261001.024618.1241801,1.0.0,E2E.DotnetTool,Package Description
+2026-10-01T02:46:28.573Z,E2E.EmbeddedIconPng.261001.024618.0735732,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.261001.024618.0735732
+2026-10-01T02:46:28.573Z,E2E.LicenseFile.261001.024618.0576325,1.0.0,EndToEndTests,Description of E2E.LicenseFile.261001.024618.0576325
+2026-10-01T02:46:28.823Z,E2E.LicenseUrl.261001.024618.0616840,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.261001.024618.0616840
+2026-10-01T02:46:28.823Z,E2E.SemVer1Stable.261001.024617.2006425,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.261001.024617.2006425
+2026-10-01T02:46:29.947Z,E2E.EmbeddedIconJpeg.261001.024618.0616840,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.261001.024618.0616840
+2026-10-01T02:46:29.947Z,E2E.FullValidation.261001.024617.9152171,1.0.0,EndToEndTests,Description of E2E.FullValidation.261001.024617.9152171
+2026-10-01T02:46:29.947Z,E2E.LicenseExpression.261001.024618.0538314,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.261001.024618.0538314
+2026-10-01T02:48:25.843Z,NuGetFunctionalTest_afd8571b495c41c397ce26e89b459131,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:48:33.953Z,ValidProtocolVersion3f5e151eae0c457e822c6c2e7b4fca45,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:48:37.993Z,InvalidScopeForVerifyf983852805384a93a8f5c92d34daf31f,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:48:40.83Z,ValidScopeForVerify5c0bad9cb81145da90b2ebd9f01ec0da,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:48:46.397Z,NuGetFunctionalTest_8a289c7334a241388bc1f6eca8a07958,1.0.0-v639264201353…,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:48:51.31Z,NuGetFunctionalTest_83e95156db3c43dbbc025a251831f6b7,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:49:11.197Z,NuGetFunctionalTest_14ae5d4f0dea483bb0c6ab85aef13cc5,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:49:31.76Z,NuGetFunctionalTest_cf0cc7a2325446d3bcc8a004744817ee,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:49:46.79Z,NuGetFunctionalTest_d833a54a0e974ca49f2c7ab890b04f5b,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:50:00.107Z,NuGetFunctionalTest_00a961b3277e4f7e801d5541ac3935bd,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:51:37.673Z,ClientVersionTooLow481b08b8d60747f698597f1340a8feee,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:51:40.253Z,ClientVersionTooLowc2c72aea65b34f15b6600c3f96c7fcca,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:51:44.443Z,GetUpdates1199RegressionTest.c36877b3a43841779e36ad8073ddf1e5,6392641.199009.6979…,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:54:03.733Z,NuGetFunctionalTest_f6512b133bc84b7aad3d50ef9912a736,1.0.0-v639264203000…,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T02:55:14.197Z,NuGetFunctionalTest_fa6a0ed3cdd0496795cd2f214ce38c98,1.0.0-v639264204337…,cloudtest,This is a test package created by the NuGet team.
+2026-10-01T03:03:50.037Z,Doconut.NETFramework.Converter,26.9.0,Smallize,"Document conversion plugin for Doconut .NET Framework 4.7.2 (convert between PDF, Word, Excel, PowerPoint, image and other formats). Requires the Doconut.NETFramework core package (the plugin binds to the core's embedded rendering engine at runtime — it ships no such engine itself)."
+2026-10-01T03:04:08.947Z,Doconut.NETFramework.Dicom,26.9.0,Smallize,DICOM (medical imaging) viewing plugin for Doconut .NET Framework 4.7.2. Adds .dcm/.ima viewing with frames and animation to the Doconut viewer. Requires the Doconut.NETFramework core package (the plugin binds to the core's embedded rendering engine at runtime — it ships no such engine itself).
+2026-10-01T03:05:37.153Z,b0698d6a763d4e47affca79a95b4781bPackageWithDotCsNames.Cs,1.0.0,cloudtest,This is a test package created by the NuGet team.
