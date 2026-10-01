@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-01T12:07:25.503Z,Lesphere.Framework.Core,1.0.0,Lesphere,乐枢 .NET 10 后端公共基础：异常、身份、查询分页、依赖注入、序列化、校验与通用扩展。
+2026-10-01T12:07:28.147Z,Lesphere.Framework.DatabaseAccessor,1.0.0,Lesphere,乐枢 .NET 10 数据访问基础：SqlSugar 仓储、连接选择、单库事务及 SQLite 显式维护能力。
+2026-10-01T12:07:30.163Z,Lesphere.Framework.AspNetCore,1.0.0,Lesphere,乐枢 .NET 10 Web 基础：统一响应、全局异常、可信身份上下文和健康探针。
+2026-10-01T12:13:24.003Z,AnointedAutomation.Serialization,1.0.0,"Anointed Automation LLC, Alexander Fields","Shared serialization helpers: naming rules (camel, Pascal, snake and the hybrid value/reference casing rule), System.Text.Json casing convention, presets and UTC DateTime converter, tolerant Newtonsoft.Json converters, and lenient JsonElement readers. No MongoDB dependency."
+2026-10-01T12:13:25.277Z,AnointedAutomation.Shopify,1.0.0,"Anointed Automation LLC, Alexander Fields","Plain Newtonsoft.Json POCO models for the Shopify Admin REST API (customers, orders, products, fulfillments, inventory, refunds, transactions, webhooks and more), derived from ShopifySharp's REST entities. Models only: no HTTP client, no services, no GraphQL types."

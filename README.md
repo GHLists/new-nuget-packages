@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 11:20 UTC
+## Latest list — 2026-10-01 12:19 UTC
 
-New packages created between 2026-10-01 10:19 UTC and 2026-10-01 11:20 UTC.
+New packages created between 2026-10-01 11:20 UTC and 2026-10-01 12:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T11-20-38-086942Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T12-19-53-202579Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 10:44:17 | [LocalOrigin](https://www.nuget.org/packages/LocalOrigin) | 0.1.0 | iyulab | Gives a local web page its own origin: origin allocation and persistence, a dur… |
-| 2026-10-01 10:44:17 | [LocalOrigin.AspNetCore](https://www.nuget.org/packages/LocalOrigin.AspNetCore) | 0.1.0 | iyulab | Hosting for local-origin on ASP.NET Core: serving a scope's pages with a fixed… |
-| 2026-10-01 10:44:57 | [LineTrace](https://www.nuget.org/packages/LineTrace) | 0.1.1 | Akshay Dhola | Line-level .NET profiler: patches IL after build and writes an HTML report of t… |
-| 2026-10-01 11:02:31 | [Ironbrain.Calendar](https://www.nuget.org/packages/Ironbrain.Calendar) | 0.1.0 | kern-services | CalDAV / iCalendar client for arbitrary self-hosted calendar servers (e.g. Mail… |
-| 2026-10-01 11:02:32 | [Ironbrain.Email](https://www.nuget.org/packages/Ironbrain.Email) | 0.1.0 | kern-services | IMAP/SMTP client (MailKit) for self-hosted mail servers. Shared by Ironbrain Ma… |
+| 2026-10-01 12:07:25 | [Lesphere.Framework.Core](https://www.nuget.org/packages/Lesphere.Framework.Core) | 1.0.0 | Lesphere | 乐枢 .NET 10 后端公共基础：异常、身份、查询分页、依赖注入、序列化、校验与通用扩展。 |
+| 2026-10-01 12:07:28 | [Lesphere.Framework.DatabaseAccessor](https://www.nuget.org/packages/Lesphere.Framework.DatabaseAccessor) | 1.0.0 | Lesphere | 乐枢 .NET 10 数据访问基础：SqlSugar 仓储、连接选择、单库事务及 SQLite 显式维护能力。 |
+| 2026-10-01 12:07:30 | [Lesphere.Framework.AspNetCore](https://www.nuget.org/packages/Lesphere.Framework.AspNetCore) | 1.0.0 | Lesphere | 乐枢 .NET 10 Web 基础：统一响应、全局异常、可信身份上下文和健康探针。 |
+| 2026-10-01 12:13:24 | [AnointedAutomation.Serialization](https://www.nuget.org/packages/AnointedAutomation.Serialization) | 1.0.0 | Anointed Automation LLC, Alex… | Shared serialization helpers: naming rules (camel, Pascal, snake and the hybrid… |
+| 2026-10-01 12:13:25 | [AnointedAutomation.Shopify](https://www.nuget.org/packages/AnointedAutomation.Shopify) | 1.0.0 | Anointed Automation LLC, Alex… | Plain Newtonsoft.Json POCO models for the Shopify Admin REST API (customers, or… |
 
 ## Data source
 
