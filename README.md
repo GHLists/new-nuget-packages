@@ -12,19 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 16:20 UTC
+## Latest list — 2026-10-01 17:19 UTC
 
-New packages created between 2026-10-01 15:21 UTC and 2026-10-01 16:20 UTC.
+New packages created between 2026-10-01 16:20 UTC and 2026-10-01 17:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T16-20-54-34655Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T17-19-34-763356Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 15:26:31 | [Euonia.Security](https://www.nuget.org/packages/Euonia.Security) | 2026.4.3 | damon | Authorization primitives: operation permission requirements and data-scope (row… |
-| 2026-10-01 15:43:22 | [TerminalMatrixNetFramework](https://www.nuget.org/packages/TerminalMatrixNetFramework) | 1.0.0 | Anders Hesselbom | A .NET Framework version of Terminal Pixel Matrix Library |
-| 2026-10-01 15:58:14 | [Beryllium.Camera](https://www.nuget.org/packages/Beryllium.Camera) | 1.5.1 | Vladyslav Pysarenko | Camera functionality. |
-| 2026-10-01 16:04:39 | [ApricotFramework.Agentic.Tools.ErrorDefinitions](https://www.nuget.org/packages/ApricotFramework.Agentic.Tools.ErrorDefinitions) | 0.1.2 | Project Apricot | Describes ApricotFramework.ErrorDefinitions errors thrown by agent tools as Apr… |
-| 2026-10-01 16:07:37 | [deniszykov.VCDiff](https://www.nuget.org/packages/deniszykov.VCDiff) | 6.0.0 | Metric,chyyran,Snowflake Auth… | A fast, pure C# implementation of the VCDIFF algorithm. |
+| 2026-10-01 16:28:18 | [GargiolasTech.MigrationToolkit](https://www.nuget.org/packages/GargiolasTech.MigrationToolkit) | 0.1.0 | gtm | gtm: creates EF Core migrations and generates idempotent SQL scripts. |
+| 2026-10-01 16:43:07 | [Cratis.Arc.Screenplay.Embedded](https://www.nuget.org/packages/Cratis.Arc.Screenplay.Embedded) | 22.44.0 | all contributors | Embeds generated Screenplay documents and hosts an opt-in event-model explorer… |
+| 2026-10-01 16:50:56 | [DeepSharp.Backends.TorchSharp](https://www.nuget.org/packages/DeepSharp.Backends.TorchSharp) | 0.5.0 | H.P. Gansevoort | A DeepSharp network's arithmetic on libtorch, through TorchSharp: TorchBackend.… |
+| 2026-10-01 16:50:58 | [DeepSharp.Import.Keras](https://www.nuget.org/packages/DeepSharp.Import.Keras) | 0.5.0 | H.P. Gansevoort | Reads a model Keras 3 saved into a DeepSharp network: the .keras archive it sav… |
+| 2026-10-01 16:50:59 | [DeepSharp.Import.Onnx](https://www.nuget.org/packages/DeepSharp.Import.Onnx) | 0.5.0 | H.P. Gansevoort | Reads an ONNX graph into a DeepSharp network: the one PyTorch's torch.onnx.expo… |
+| 2026-10-01 16:51:01 | [DeepSharp.Import.PyTorch](https://www.nuget.org/packages/DeepSharp.Import.PyTorch) | 0.5.0 | H.P. Gansevoort | Reads a network PyTorch trained into the same network written with DeepSharp: n… |
+| 2026-10-01 16:51:04 | [DeepSharp.Pipelines.Excel](https://www.nuget.org/packages/DeepSharp.Pipelines.Excel) | 0.5.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of an Excel workbook, .xlsx, .xls or .xls… |
+| 2026-10-01 16:51:06 | [DeepSharp.Pipelines.Json](https://www.nuget.org/packages/DeepSharp.Pipelines.Json) | 0.5.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of a JSON file holding an array of record… |
+| 2026-10-01 16:51:07 | [DeepSharp.Pipelines.Parquet](https://www.nuget.org/packages/DeepSharp.Pipelines.Parquet) | 0.5.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of an Apache Parquet file: .ReadParquet(p… |
+| 2026-10-01 17:07:59 | [CMK.UK.BankModulus](https://www.nuget.org/packages/CMK.UK.BankModulus) | 0.0.1 | Chris McKee | .NET Library to provide modulus checking of bank account numbers against sort-c… |
 
 ## Data source
 
