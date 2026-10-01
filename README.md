@@ -12,21 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 23:19 UTC
+## Latest list — 2026-10-01 00:22 UTC
 
-New packages created between 2026-09-30 22:20 UTC and 2026-09-30 23:19 UTC.
+New packages created between 2026-09-30 23:19 UTC and 2026-10-01 00:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-09-30T23-19-42-863776Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T00-22-48-944535Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-09-30 22:22:29 | [redb.Route.As4](https://www.nuget.org/packages/redb.Route.As4) | 4.2.0 | redbase | AS4 (OASIS ebMS 3.0 AS4 profile, eDelivery AS4 1.16 common profile) B2B transpo… |
-| 2026-09-30 22:29:55 | [TKWF.Ext.UserCenter](https://www.nuget.org/packages/TKWF.Ext.UserCenter) | 0.1.0 | LoongBa.cn 龙爸出品 | TKWF 用户中心扩展（档案面内核）——公共 Profile API + 兑换历史/我的应用经扩展间契约协作；领域逻辑（脱敏/降级/聚合）进扩展，数据源由认证… |
-| 2026-09-30 22:29:55 | [TKWF.Ext.UserCenter.Abstractions](https://www.nuget.org/packages/TKWF.Ext.UserCenter.Abstractions) | 0.1.0 | LoongBa.cn 龙爸出品 | TKWF 用户中心契约抽象（IUserProfileSource / IRedemptionHistorySource / IUserAppsSource /… |
-| 2026-09-30 22:42:03 | [HappyHakunaMatata.Messaging](https://www.nuget.org/packages/HappyHakunaMatata.Messaging) | 1.0.0 | Messaging | Package Description |
-| 2026-09-30 22:45:26 | [OpenApiFeatureFlags.AspNetCore](https://www.nuget.org/packages/OpenApiFeatureFlags.AspNetCore) | 0.2.0 | Dogukan Demir | Adapter for OpenApiFeatureFlags for the built-in Microsoft.AspNetCore.OpenApi d… |
-| 2026-09-30 23:07:32 | [Smartstore.TinyImage.Jpg.Native.linux-arm64](https://www.nuget.org/packages/Smartstore.TinyImage.Jpg.Native.linux-arm64) | 3.3.1 | Mozilla; libjpeg-turbo Projec… | Native cjpeg executable for linux-arm64 platform. |
-| 2026-09-30 23:13:19 | [Namh.Configuration.Template](https://www.nuget.org/packages/Namh.Configuration.Template) | 1.0.0 | Nam Hoang | Resolves references between values in Microsoft.Extensions.Configuration. |
+| 2026-09-30 23:20:21 | [Beryllium.Audio](https://www.nuget.org/packages/Beryllium.Audio) | 0.9.990 | Vladyslav Pysarenko | Beryllium engine audio manager |
+| 2026-09-30 23:20:50 | [SunamoGoPayApi](https://www.nuget.org/packages/SunamoGoPayApi) | 26.10.1.1 | www.sunamo.cz | Package Description |
+| 2026-09-30 23:21:27 | [Smartstore.TinyImage.Gif.Native.linux-arm64](https://www.nuget.org/packages/Smartstore.TinyImage.Gif.Native.linux-arm64) | 1.96.0 | Eddie Kohler; SmartStore AG | Native gifsicle 1.96 executable for linux-arm64 platform. |
+| 2026-09-30 23:25:57 | [Litenova.Fuse.any](https://www.nuget.org/packages/Litenova.Fuse.any) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:25:59 | [Litenova.Fuse.linux-arm64](https://www.nuget.org/packages/Litenova.Fuse.linux-arm64) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:26:01 | [Litenova.Fuse.linux-musl-arm64](https://www.nuget.org/packages/Litenova.Fuse.linux-musl-arm64) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:26:02 | [Litenova.Fuse.linux-musl-x64](https://www.nuget.org/packages/Litenova.Fuse.linux-musl-x64) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:26:04 | [Litenova.Fuse.linux-x64](https://www.nuget.org/packages/Litenova.Fuse.linux-x64) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:26:06 | [Litenova.Fuse.osx-arm64](https://www.nuget.org/packages/Litenova.Fuse.osx-arm64) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:26:07 | [Litenova.Fuse.win-x64](https://www.nuget.org/packages/Litenova.Fuse.win-x64) | 5.2.1 | Litenova Solutions | Faster .NET build and test loop for AI coding agents: reports only the compiler… |
+| 2026-09-30 23:31:19 | [Apache.Thrift.Compiler](https://www.nuget.org/packages/Apache.Thrift.Compiler) | 0.25.0 | Apache Thrift Developers | The Apache Thrift IDL compiler for Windows, installable as a .NET tool. Generat… |
+| 2026-09-30 23:33:34 | [Blossom](https://www.nuget.org/packages/Blossom) | 0.1.1 | Cosmin Crețu | Retained-mode UI framework for C# (Silk.NET + SkiaSharp), including reactive si… |
+| 2026-09-30 23:38:41 | [Brows.Win32.Windows](https://www.nuget.org/packages/Brows.Win32.Windows) | 1.0.0 | Ken Yourek | Package Description |
+| 2026-09-30 23:44:45 | [Meteion.Toolkit.WPF.SplashScreen](https://www.nuget.org/packages/Meteion.Toolkit.WPF.SplashScreen) | 1.2.2 | frogcrush | An optional native splash screen (layered window, per-pixel alpha, optional pro… |
+| 2026-10-01 00:04:48 | [Oracle.VectorData](https://www.nuget.org/packages/Oracle.VectorData) | 23.26.300 | Oracle | Oracle Database Vector Store Connector helps build AI apps with Microsoft Agent… |
 
 ## Data source
 
