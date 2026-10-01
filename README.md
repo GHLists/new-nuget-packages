@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 15:21 UTC
+## Latest list — 2026-10-01 16:20 UTC
 
-New packages created between 2026-10-01 14:20 UTC and 2026-10-01 15:21 UTC.
+New packages created between 2026-10-01 15:21 UTC and 2026-10-01 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-01T15-21-17-307095Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-01T16-20-54-34655Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-01 14:34:51 | [Eternet.AspNetCore.ServiceFabric.Swashbuckle.Legacy](https://www.nuget.org/packages/Eternet.AspNetCore.ServiceFabric.Swashbuckle.Legacy) | 1.0.0 | Eternet.AspNetCore.ServiceFab… | Package Description |
-| 2026-10-01 14:54:36 | [ITBees.TicketSupport](https://www.nuget.org/packages/ITBees.TicketSupport) | 8.0.2 | ITBeesPL | Reusable ticketing support desk for ITBees applications: tickets raised from a… |
-| 2026-10-01 14:58:46 | [Lebi.Titan.Fang](https://www.nuget.org/packages/Lebi.Titan.Fang) | 1.0.0 | Lebi | Package Description |
-| 2026-10-01 15:03:27 | [FnsNet.NpdStatus](https://www.nuget.org/packages/FnsNet.NpdStatus) | 1.0.0 | ai-iskuzhin | A .NET client for the Russian Federal Tax Service public API that reports wheth… |
-| 2026-10-01 15:07:19 | [PorticoSoft.Paragon](https://www.nuget.org/packages/PorticoSoft.Paragon) | 1.0.0 | PorticoSoft | Generates PDF, Word, PowerPoint and Excel reports from HTML templates and JSON… |
-| 2026-10-01 15:07:25 | [PorticoSoft.Paragon.Designer](https://www.nuget.org/packages/PorticoSoft.Paragon.Designer) | 1.0.0 | PorticoSoft | The Paragon report designer, mounted inside your own application while you buil… |
-| 2026-10-01 15:08:39 | [Lebi.Titan.Cheese](https://www.nuget.org/packages/Lebi.Titan.Cheese) | 1.0.0 | Lebi | Package Description |
+| 2026-10-01 15:26:31 | [Euonia.Security](https://www.nuget.org/packages/Euonia.Security) | 2026.4.3 | damon | Authorization primitives: operation permission requirements and data-scope (row… |
+| 2026-10-01 15:43:22 | [TerminalMatrixNetFramework](https://www.nuget.org/packages/TerminalMatrixNetFramework) | 1.0.0 | Anders Hesselbom | A .NET Framework version of Terminal Pixel Matrix Library |
+| 2026-10-01 15:58:14 | [Beryllium.Camera](https://www.nuget.org/packages/Beryllium.Camera) | 1.5.1 | Vladyslav Pysarenko | Camera functionality. |
+| 2026-10-01 16:04:39 | [ApricotFramework.Agentic.Tools.ErrorDefinitions](https://www.nuget.org/packages/ApricotFramework.Agentic.Tools.ErrorDefinitions) | 0.1.2 | Project Apricot | Describes ApricotFramework.ErrorDefinitions errors thrown by agent tools as Apr… |
+| 2026-10-01 16:07:37 | [deniszykov.VCDiff](https://www.nuget.org/packages/deniszykov.VCDiff) | 6.0.0 | Metric,chyyran,Snowflake Auth… | A fast, pure C# implementation of the VCDIFF algorithm. |
 
 ## Data source
 

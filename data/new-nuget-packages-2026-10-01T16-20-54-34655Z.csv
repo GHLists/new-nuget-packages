@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-01T15:26:31.913Z,Euonia.Security,2026.4.3,damon,"Authorization primitives: operation permission requirements and data-scope (row-level) policy engine for Euonia. Independent of any object model, user model and application framework; host applications declare the operation rules (callback, configuration or a custom source) and supply the user acce…"
+2026-10-01T15:43:22.007Z,TerminalMatrixNetFramework,1.0.0,Anders Hesselbom,A .NET Framework version of Terminal Pixel Matrix Library
+2026-10-01T15:58:14.953Z,Beryllium.Camera,1.5.1,Vladyslav Pysarenko,Camera functionality.
+2026-10-01T16:04:39.243Z,ApricotFramework.Agentic.Tools.ErrorDefinitions,0.1.2,Project Apricot,"Describes ApricotFramework.ErrorDefinitions errors thrown by agent tools as ApricotFramework.Agentic failures, so every surface reports a not-found, a validation failure or an outage the same way."
+2026-10-01T16:07:37.37Z,deniszykov.VCDiff,6.0.0,"Metric,chyyran,Snowflake Authors, Denis Zykov","A fast, pure C# implementation of the VCDIFF algorithm."
