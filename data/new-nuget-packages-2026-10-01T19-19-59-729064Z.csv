@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-01T18:25:01.747Z,TUtils.AI,0.0.2,TUtils.AI,Shared AI-related utilities for TUtils projects.
+2026-10-01T18:53:28.41Z,Cosmos.Network.Ftp,2.0.0,Cosmos,FTP server for Cosmos Gen3 kernels.
+2026-10-01T18:59:42.897Z,AWSSDK.EndUserMessaging,4.0.100,Amazon Web Services,AWS End User Messaging now supports Brand profiles and Notify code configurations. Brand profiles capture your sender details once to reuse across phone number registrations. Notify code configurations let you define your OTP policy and delivery settings to send passcodes in minutes.
+2026-10-01T18:59:47.58Z,AWSSDK.LambdaWeb,4.0.100,Amazon Web Services,Lambda Web Functions GA launch. Lambda Web Functions enable customers to run web applications and API backends
