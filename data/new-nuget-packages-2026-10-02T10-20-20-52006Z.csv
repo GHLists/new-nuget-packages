@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-02T09:23:45.733Z,PinguApps.Aspire.Hosting.Railway,1.0.0,PinguApps,Railway integration for Aspire.
+2026-10-02T09:30:37.87Z,BaoXia.Service.LogCenter.Defines,10.0.0,石家庄宝匣软件科技有限公司,宝匣服务，日志中心公共定义。
+2026-10-02T09:35:44.723Z,BaoXia.Service.LogCenter.Client,10.0.0,石家庄宝匣软件科技有限公司,宝匣服务，日志中心客户端。
+2026-10-02T09:49:24.493Z,NetTriage,0.2.0,Ema,"Deterministic, offline triage for .NET Framework to modern .NET migrations. Finds WebForms, server-side WCF, .NET Remoting, AppDomain, Workflow Foundation, BinaryFormatter, EF6 and other porting blockers across an entire solution or estate, then sequences the work."
+2026-10-02T09:53:26.987Z,Qianyiaz.Impeller.Static,1.0.0,Qianyiaz,Impeller static library
+2026-10-02T09:54:04.94Z,BaoXia.Service.StatisticsService.Defines,10.0.0,石家庄宝匣软件科技有限公司,宝匣服务，日志中心服务公共定义库。
+2026-10-02T10:00:27.587Z,BaoXia.Service.ServiceProvider.Client,10.0.0,石家庄宝匣软件科技有限公司,宝匣软件，服务提供商服务客户端程序。
+2026-10-02T10:03:54.663Z,com.EBS.Common.EntityFrameworkCore,1.6.8.2,EBS.Common.EntityFrameworkCore,Encrypted connect string
+2026-10-02T10:04:14.223Z,Zapqio.Runner.Module.Core,1.2.0,Zapqio,Core interfaces for creating Zapqio Runner modules. Implement IRunnerMethod to create pipeline methods and IRunnerInjection for dependency injection; use RunnerLog for levelled job logging and JobContext for per-job identifiers.
+2026-10-02T10:07:50.503Z,Nethereum.AccountAbstraction.WebAuthn,7.0.0,"Juan Blanco,Nethereum contributors",Nethereum AccountAbstraction WebAuthn - ERC-7579 WebAuthn (passkey / P-256) validator module integration for Account Abstraction
+2026-10-02T10:08:50.437Z,Nethereum.CoreChain.Freezer,7.0.0,"Juan Blanco,Nethereum contributors","Nethereum.CoreChain.Freezer - CoreChain adapter for Nethereum.Freezer: typed per-stream codecs (headers, bodies, receipts, hashes, block access lists) that turn domain block data into geth-compatible freezer item bytes"
