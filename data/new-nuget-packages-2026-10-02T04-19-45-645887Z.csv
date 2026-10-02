@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-02T03:27:55.493Z,Webority.Email.Graph,0.23.0,Webority Technologies,"Microsoft 365 inbound mail for Webority.Email over Webority.Graph: reads messages, their attachments and sent items, creates and renews mailbox subscriptions, and parses the change notifications. Shared by outreach and support."
+2026-10-02T03:44:17.913Z,CodeBrix.Platform.PlayTest.ApacheLicenseForever,1.0.275.207,Jeremy Ellis and contributors,"Playwright-style application tests on a fixed, cross-platform virtual Skia screen."
+2026-10-02T03:46:37.067Z,Webority.Support.Ai,0.4.0,Webority Technologies,"AI for Webority support: the chat tools a product's assistant uses to list, read and prepare support actions for the customer to confirm. Kept out of the core packages so a product without AI pulls in no AI dependencies."
