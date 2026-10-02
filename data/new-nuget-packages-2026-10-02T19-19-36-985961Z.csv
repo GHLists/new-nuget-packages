@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-10-02T18:24:33.813Z,Shinden.NET.DependencyInjection,0.6.7,Sniku,Dependency injection integration for Shinden.NET.
+2026-10-02T18:38:20.493Z,Intentum.Testing,1.3.2,Intentum Contributors,Testing utilities and helpers for Intentum.
+2026-10-02T18:42:03.82Z,TerseSharp.win-x64,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:42:07.177Z,TerseSharp.win-arm64,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:42:10.383Z,TerseSharp.linux-x64,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:42:13.523Z,TerseSharp.linux-arm64,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:42:16.117Z,TerseSharp.osx-x64,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:42:21.587Z,TerseSharp.osx-arm64,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:42:23.547Z,TerseSharp.any,0.73.0,amusleh,"Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and refactor a solution semantically instead of reading whole files."
+2026-10-02T18:46:29.3Z,GnOuGo.Flow.Copilot,0.20.0,GnOuGo,Bounded Copilot agent tasks through injected MCP transport and managed Copilot execution.
+2026-10-02T18:46:31.53Z,GnOuGo.Flow.Persistence,0.20.0,GnOuGo,Tenant-owned encrypted workflow execution journals with rebuildable EF Core and SQLite indexes.
+2026-10-02T18:48:16.637Z,FenecDb,0.1.8,fenecdb,"A client for fenecdb's server over HTTP: FenecQL queries, vector search, atomic batches, subscriptions and the change stream."
+2026-10-02T18:51:18.677Z,Snail.MCP.Blender,0.1.0,orldev,"MCP server that lets AI agents drive a running Blender through its Python add-on: scene, objects, modeling, materials, animation, physics, rendering, video editing and import/export. Runs over stdio for a Blender on this machine or behind an SSH tunnel, or over HTTP with a bearer token beside Blend…"
+2026-10-02T18:51:30.317Z,Webority.Ai.Chat.AspNetCore,0.3.0,Webority Technologies,"The fleet chat turn over HTTP for Webority.Ai.Chat: one call that begins the turn, streams the agent's reply as Server-Sent Events (delta, reset, actions, done, error) with the reply guard applied while it streams, stores the completed exchange, and gives the question back on any failure or disconn…"
+2026-10-02T18:51:37.14Z,Webority.Ai.Chat,0.3.0,Webority Technologies,"Server-side chat for Webority products on Webority.Ai: conversations stored in the product's own DbContext and owned by the AiActorContext actor, history replayed from the server so a browser cannot forge an earlier reply, a per-person daily message allowance reserved atomically before the model ca…"
+2026-10-02T18:52:41.29Z,Intentum.AI.SystemOne,1.3.2,Intentum Contributors,"System One (Jev-compatible) HTTP adapter for Intentum. Works with Kev, Laya, TinyJev, OpenDecision, NanoJev, OpenJevPro and any server speaking POST /v1/systemone."
+2026-10-02T18:59:53.803Z,DynamicDataCore.Common,2.1.2,César Adolfo Solís Alvarez,Package Description
+2026-10-02T18:59:58.34Z,DynamicDataCore.Abstractions,2.1.2,César Adolfo Solís Alvarez,Package Description
+2026-10-02T19:00:12.23Z,DynamicDataCore,2.1.2,César Adolfo Solís Alvarez,"Lightweight and extensible data access framework for .NET applications. Supports multi-database, keyset/cursor pagination, and async streaming via EF Core."

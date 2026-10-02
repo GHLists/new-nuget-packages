@@ -12,40 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 18:19 UTC
+## Latest list — 2026-10-02 19:19 UTC
 
-New packages created between 2026-10-02 17:22 UTC and 2026-10-02 18:19 UTC.
+New packages created between 2026-10-02 18:19 UTC and 2026-10-02 19:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T18-19-40-223413Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T19-19-36-985961Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 17:23:26 | [ProtoTest.Analyzers](https://www.nuget.org/packages/ProtoTest.Analyzers) | 1.1.0 | Matthias Seys | Roslyn analyzers for ProtoTest suites: the intent-dependent mistakes the framew… |
-| 2026-10-02 17:23:27 | [ProtoTest.Cli](https://www.nuget.org/packages/ProtoTest.Cli) | 1.1.0 | Matthias Seys | Command-line access to ProtoTest evidence: the failure digest, the feedback cha… |
-| 2026-10-02 17:23:31 | [ProtoTest.Mcp](https://www.nuget.org/packages/ProtoTest.Mcp) | 1.1.0 | Matthias Seys | Read-only MCP server over .prototrace evidence: an agent lists runs, reads a fa… |
-| 2026-10-02 17:23:33 | [ProtoTest.Traces](https://www.nuget.org/packages/ProtoTest.Traces) | 1.1.0 | Matthias Seys | Reader for .prototrace archives: the run, its tests and each test's operations… |
-| 2026-10-02 17:23:34 | [ProtoTest.Aspire](https://www.nuget.org/packages/ProtoTest.Aspire) | 1.1.0 | Matthias Seys | Run an Aspire AppHost with a ProtoTest suite: the run starts it, its resources… |
-| 2026-10-02 17:23:38 | [ProtoTest.Devices](https://www.nuget.org/packages/ProtoTest.Devices) | 1.1.0 | Matthias Seys | Talk to devices - simulators or hardware - from the same test context, lifecycl… |
-| 2026-10-02 17:23:40 | [ProtoTest.Diagnosis](https://www.nuget.org/packages/ProtoTest.Diagnosis) | 1.1.0 | Matthias Seys | Deterministic diagnosis of a .prototrace run: the causal failure summary, its c… |
-| 2026-10-02 17:23:41 | [ProtoTest.Hosting](https://www.nuget.org/packages/ProtoTest.Hosting) | 1.1.0 | Matthias Seys | Run background workers and generic hosts in-process with a ProtoTest suite. |
-| 2026-10-02 17:23:56 | [ProtoTest.Web.Pages](https://www.nuget.org/packages/ProtoTest.Web.Pages) | 1.1.0 | Matthias Seys | Shared page identity and inventory for ProtoTest web integrations. |
-| 2026-10-02 17:24:01 | [ProtoTest.Devices.Mqtt](https://www.nuget.org/packages/ProtoTest.Devices.Mqtt) | 1.1.0 | Matthias Seys | MQTT transport for ProtoTest.Devices: talk to devices over publish/subscribe ag… |
-| 2026-10-02 17:24:03 | [ProtoTest.Devices.Mqtt.Testcontainers](https://www.nuget.org/packages/ProtoTest.Devices.Mqtt.Testcontainers) | 1.1.0 | Matthias Seys | A Mosquitto MQTT broker container owned as a run-scoped resource for ProtoTest.… |
-| 2026-10-02 17:24:04 | [ProtoTest.Devices.Serial](https://www.nuget.org/packages/ProtoTest.Devices.Serial) | 1.1.0 | Matthias Seys | Serial transport for ProtoTest.Devices: talk to devices on a COM port or /dev/t… |
-| 2026-10-02 17:24:08 | [ProtoTest.Devices.Tcp](https://www.nuget.org/packages/ProtoTest.Devices.Tcp) | 1.1.0 | Matthias Seys | TCP transport for ProtoTest.Devices: talk to devices over a raw socket, connect… |
-| 2026-10-02 17:24:10 | [ProtoTest.Devices.WebSocket](https://www.nuget.org/packages/ProtoTest.Devices.WebSocket) | 1.1.0 | Matthias Seys | WebSocket transport for ProtoTest.Devices: talk to devices over ws:// or wss://. |
-| 2026-10-02 17:24:20 | [ProtoTest.Verification](https://www.nuget.org/packages/ProtoTest.Verification) | 1.1.0 | Matthias Seys | Cross-run verification over ProtoTest reports and traces: coverage deltas, spec… |
-| 2026-10-02 17:24:25 | [ProtoTest.Feedback](https://www.nuget.org/packages/ProtoTest.Feedback) | 1.1.0 | Matthias Seys | Posts a ProtoTest run's failure digest where a pull request reads it: a comment… |
-| 2026-10-02 17:24:37 | [ProtoTest.Devices.WebSocket.AspNetCore](https://www.nuget.org/packages/ProtoTest.Devices.WebSocket.AspNetCore) | 1.1.0 | Matthias Seys | In-process WebSocket device connections for ProtoTest: reach an application's e… |
-| 2026-10-02 17:24:39 | [ProtoTest.Messaging.MassTransit](https://www.nuget.org/packages/ProtoTest.Messaging.MassTransit) | 1.1.0 | Matthias Seys | MassTransit bridge for the ProtoTest messaging capability: publish and await me… |
-| 2026-10-02 17:24:42 | [ProtoTest.WireMock](https://www.nuget.org/packages/ProtoTest.WireMock) | 1.1.0 | Matthias Seys | Fake HTTP services for ProtoTest suites, backed by WireMock.Net: per-test stubs… |
-| 2026-10-02 17:44:15 | [MASS4.Attributes](https://www.nuget.org/packages/MASS4.Attributes) | 5.6.0 | Bruno Massa | Shared metadata for forms, editor tools, stable type identity and service disco… |
-| 2026-10-02 17:44:17 | [TheSingularityWorkshop.FSM_Serialization](https://www.nuget.org/packages/TheSingularityWorkshop.FSM_Serialization) | 1.0.0 | Trent Best | Binary serialization infrastructure for FSM ecosystem state, MicroBundle compos… |
-| 2026-10-02 17:50:46 | [TheSingularityWorkshop.MicroBundleDomain](https://www.nuget.org/packages/TheSingularityWorkshop.MicroBundleDomain) | 1.0.0 | Trent Best | Domain-side foundation for defining and composing loadable MicroBundle semantic… |
-| 2026-10-02 17:53:08 | [TemporalCommunity.Templates](https://www.nuget.org/packages/TemporalCommunity.Templates) | 0.5.0 | TemporalCommunity.Templates | dotnet new templates for Temporal .NET: item templates for a workflow, an activ… |
-| 2026-10-02 18:02:37 | [MsdfAtlasGen](https://www.nuget.org/packages/MsdfAtlasGen) | 1.1.0 | MsdfAtlasGen.Native contribut… | In-process MSDF/MTSDF font-atlas generation for .NET. msdf-atlas-gen and msdfge… |
-| 2026-10-02 18:08:38 | [Waher.Networking.E2ee](https://www.nuget.org/packages/Waher.Networking.E2ee) | 1.0.0 | Peter Waher | Library that defines a protocol for End-to-End encrypted binary communication o… |
-| 2026-10-02 18:10:25 | [Waher.Security.E2ee](https://www.nuget.org/packages/Waher.Security.E2ee) | 1.0.0 | Peter Waher | Class library containing a basic abstraction for End-to-End Encryption (E2EE) u… |
+| 2026-10-02 18:24:33 | [Shinden.NET.DependencyInjection](https://www.nuget.org/packages/Shinden.NET.DependencyInjection) | 0.6.7 | Sniku | Dependency injection integration for Shinden.NET. |
+| 2026-10-02 18:38:20 | [Intentum.Testing](https://www.nuget.org/packages/Intentum.Testing) | 1.3.2 | Intentum Contributors | Testing utilities and helpers for Intentum. |
+| 2026-10-02 18:42:03 | [TerseSharp.win-x64](https://www.nuget.org/packages/TerseSharp.win-x64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:42:07 | [TerseSharp.win-arm64](https://www.nuget.org/packages/TerseSharp.win-arm64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:42:10 | [TerseSharp.linux-x64](https://www.nuget.org/packages/TerseSharp.linux-x64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:42:13 | [TerseSharp.linux-arm64](https://www.nuget.org/packages/TerseSharp.linux-arm64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:42:16 | [TerseSharp.osx-x64](https://www.nuget.org/packages/TerseSharp.osx-x64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:42:21 | [TerseSharp.osx-arm64](https://www.nuget.org/packages/TerseSharp.osx-arm64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:42:23 | [TerseSharp.any](https://www.nuget.org/packages/TerseSharp.any) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
+| 2026-10-02 18:46:29 | [GnOuGo.Flow.Copilot](https://www.nuget.org/packages/GnOuGo.Flow.Copilot) | 0.20.0 | GnOuGo | Bounded Copilot agent tasks through injected MCP transport and managed Copilot… |
+| 2026-10-02 18:46:31 | [GnOuGo.Flow.Persistence](https://www.nuget.org/packages/GnOuGo.Flow.Persistence) | 0.20.0 | GnOuGo | Tenant-owned encrypted workflow execution journals with rebuildable EF Core and… |
+| 2026-10-02 18:48:16 | [FenecDb](https://www.nuget.org/packages/FenecDb) | 0.1.8 | fenecdb | A client for fenecdb's server over HTTP: FenecQL queries, vector search, atomic… |
+| 2026-10-02 18:51:18 | [Snail.MCP.Blender](https://www.nuget.org/packages/Snail.MCP.Blender) | 0.1.0 | orldev | MCP server that lets AI agents drive a running Blender through its Python add-o… |
+| 2026-10-02 18:51:30 | [Webority.Ai.Chat.AspNetCore](https://www.nuget.org/packages/Webority.Ai.Chat.AspNetCore) | 0.3.0 | Webority Technologies | The fleet chat turn over HTTP for Webority.Ai.Chat: one call that begins the tu… |
+| 2026-10-02 18:51:37 | [Webority.Ai.Chat](https://www.nuget.org/packages/Webority.Ai.Chat) | 0.3.0 | Webority Technologies | Server-side chat for Webority products on Webority.Ai: conversations stored in… |
+| 2026-10-02 18:52:41 | [Intentum.AI.SystemOne](https://www.nuget.org/packages/Intentum.AI.SystemOne) | 1.3.2 | Intentum Contributors | System One (Jev-compatible) HTTP adapter for Intentum. Works with Kev, Laya, Ti… |
+| 2026-10-02 18:59:53 | [DynamicDataCore.Common](https://www.nuget.org/packages/DynamicDataCore.Common) | 2.1.2 | César Adolfo Solís Alvarez | Package Description |
+| 2026-10-02 18:59:58 | [DynamicDataCore.Abstractions](https://www.nuget.org/packages/DynamicDataCore.Abstractions) | 2.1.2 | César Adolfo Solís Alvarez | Package Description |
+| 2026-10-02 19:00:12 | [DynamicDataCore](https://www.nuget.org/packages/DynamicDataCore) | 2.1.2 | César Adolfo Solís Alvarez | Lightweight and extensible data access framework for .NET applications. Support… |
 
 ## Data source
 
