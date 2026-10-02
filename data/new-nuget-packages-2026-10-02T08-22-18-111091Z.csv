@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-02T07:32:04.463Z,Infometeos.Hand.Service.Client,10.0.0,Infometeos,Клиент микросервиса данных HAND (Height Above Nearest Drainage)
+2026-10-02T07:36:45.01Z,MbUtils.Testcontainers.RustFS,1.0.0,Bence Molnár,"Unofficial Testcontainers module for RustFS, an S3-compatible object store."
+2026-10-02T07:46:21.377Z,FluentAvalonia.MarkdownRender,12.1.3.1,RYCBStudio,Avalonia / FluentAvalonia 风格的 Markdown 渲染组件，支持标题、列表、引用、代码高亮、图片、内联 HTML、GitHub 风格警告框（Alert）以及 GFM 表格。
+2026-10-02T07:47:23.363Z,PosInformatique.Foundations.Emailing.Mailjet,1.3.0,Gilles TOURREAU,Provides an IEmailProvider implementation for PosInformatique.Foundations.Emailing using Mailjet. Uses Mailjet.Client.IMailjetClient to send templated emails through the Mailjet API with API key/secret authentication.
+2026-10-02T08:04:52.53Z,OidcForge,4.2.0,"Brock Allen,Dominick Baier,Yaroslav Tatarenko",OpenID Connect and OAuth 2.0 Framework for ASP.NET Core (maintained fork of IdentityServer4)
+2026-10-02T08:04:53.237Z,OidcForge.AspNetIdentity,4.2.0,"Brock Allen,Dominick Baier,Yaroslav Tatarenko",ASP.NET Core Identity integration (maintained fork of IdentityServer4)
+2026-10-02T08:04:53.78Z,OidcForge.EntityFramework,4.2.0,"Brock Allen,Dominick Baier,Scott Brady,Yaroslav Tatarenko",EntityFramework persistence configuration APIs (maintained fork of IdentityServer4)
+2026-10-02T08:04:54.503Z,OidcForge.EntityFramework.Storage,4.2.0,"Brock Allen,Dominick Baier,Scott Brady,Yaroslav Tatarenko",EntityFramework persistence layer (maintained fork of IdentityServer4)
+2026-10-02T08:04:55.23Z,OidcForge.Storage,4.2.0,"Brock Allen,Dominick Baier,Yaroslav Tatarenko",Storage interfaces and models (maintained fork of IdentityServer4)

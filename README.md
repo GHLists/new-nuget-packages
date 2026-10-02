@@ -12,21 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 07:21 UTC
+## Latest list — 2026-10-02 08:22 UTC
 
-New packages created between 2026-10-02 06:20 UTC and 2026-10-02 07:21 UTC.
+New packages created between 2026-10-02 07:21 UTC and 2026-10-02 08:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T07-21-14-166969Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T08-22-18-111091Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 06:30:10 | [Rony.Net.NUnit](https://www.nuget.org/packages/Rony.Net.NUnit) | 1.1.0 | Mojtaba Kiani | NUnit integration for Rony.Net: a MockServerTest base class that starts a mock… |
-| 2026-10-02 06:30:11 | [Rony.Net.Xunit](https://www.nuget.org/packages/Rony.Net.Xunit) | 1.1.0 | Mojtaba Kiani | xUnit (v2) integration for Rony.Net: a MockServerTest base class that starts a… |
-| 2026-10-02 06:30:11 | [Rony.Net.MSTest](https://www.nuget.org/packages/Rony.Net.MSTest) | 1.1.0 | Mojtaba Kiani | MSTest (v4) integration for Rony.Net: a MockServerTest base class that starts a… |
-| 2026-10-02 07:01:30 | [SqlWright.DynamicQuery](https://www.nuget.org/packages/SqlWright.DynamicQuery) | 1.0.0 | Vishram Singh | Safe, allowlisted dynamic queries for SqlWright: turn a JSON query request (fil… |
-| 2026-10-02 07:01:30 | [SqlWright](https://www.nuget.org/packages/SqlWright) | 1.0.0 | Vishram Singh | A fast, lightweight micro-ORM for .NET. Injection-safe interpolated SQL, built-… |
-| 2026-10-02 07:15:34 | [TechTeaStudio.Auth.OAuth.Microsoft](https://www.nuget.org/packages/TechTeaStudio.Auth.OAuth.Microsoft) | 0.11.1 | Ronald Ryan | Microsoft Entra ID (Azure AD) OAuth 2.0 / OIDC provider for TechTeaStudio.Auth… |
-| 2026-10-02 07:15:36 | [TechTeaStudio.Auth.Providers.Telegram](https://www.nuget.org/packages/TechTeaStudio.Auth.Providers.Telegram) | 0.11.1 | Ronald Ryan | Telegram Login Widget sign-in for TechTeaStudio.Auth. Not OAuth: Telegram signs… |
+| 2026-10-02 07:32:04 | [Infometeos.Hand.Service.Client](https://www.nuget.org/packages/Infometeos.Hand.Service.Client) | 10.0.0 | Infometeos | Клиент микросервиса данных HAND (Height Above Nearest Drainage) |
+| 2026-10-02 07:36:45 | [MbUtils.Testcontainers.RustFS](https://www.nuget.org/packages/MbUtils.Testcontainers.RustFS) | 1.0.0 | Bence Molnár | Unofficial Testcontainers module for RustFS, an S3-compatible object store. |
+| 2026-10-02 07:46:21 | [FluentAvalonia.MarkdownRender](https://www.nuget.org/packages/FluentAvalonia.MarkdownRender) | 12.1.3.1 | RYCBStudio | Avalonia / FluentAvalonia 风格的 Markdown 渲染组件，支持标题、列表、引用、代码高亮、图片、内联 HTML、GitHub 风… |
+| 2026-10-02 07:47:23 | [PosInformatique.Foundations.Emailing.Mailjet](https://www.nuget.org/packages/PosInformatique.Foundations.Emailing.Mailjet) | 1.3.0 | Gilles TOURREAU | Provides an IEmailProvider implementation for PosInformatique.Foundations.Email… |
+| 2026-10-02 08:04:52 | [OidcForge](https://www.nuget.org/packages/OidcForge) | 4.2.0 | Brock Allen,Dominick Baier,Ya… | OpenID Connect and OAuth 2.0 Framework for ASP.NET Core (maintained fork of Ide… |
+| 2026-10-02 08:04:53 | [OidcForge.AspNetIdentity](https://www.nuget.org/packages/OidcForge.AspNetIdentity) | 4.2.0 | Brock Allen,Dominick Baier,Ya… | ASP.NET Core Identity integration (maintained fork of IdentityServer4) |
+| 2026-10-02 08:04:53 | [OidcForge.EntityFramework](https://www.nuget.org/packages/OidcForge.EntityFramework) | 4.2.0 | Brock Allen,Dominick Baier,Sc… | EntityFramework persistence configuration APIs (maintained fork of IdentityServ… |
+| 2026-10-02 08:04:54 | [OidcForge.EntityFramework.Storage](https://www.nuget.org/packages/OidcForge.EntityFramework.Storage) | 4.2.0 | Brock Allen,Dominick Baier,Sc… | EntityFramework persistence layer (maintained fork of IdentityServer4) |
+| 2026-10-02 08:04:55 | [OidcForge.Storage](https://www.nuget.org/packages/OidcForge.Storage) | 4.2.0 | Brock Allen,Dominick Baier,Ya… | Storage interfaces and models (maintained fork of IdentityServer4) |
 
 ## Data source
 
