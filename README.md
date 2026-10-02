@@ -12,29 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 22:20 UTC
+## Latest list — 2026-10-02 23:21 UTC
 
-New packages created between 2026-10-02 21:18 UTC and 2026-10-02 22:20 UTC.
+New packages created between 2026-10-02 22:20 UTC and 2026-10-02 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T22-20-36-647929Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T23-21-25-477938Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 21:43:40 | [PulseTrade.Comm.ResourceNode](https://www.nuget.org/packages/PulseTrade.Comm.ResourceNode) | 0.1.0-alpha1 | PulseTrade.Comm.ResourceNode | Package Description |
-| 2026-10-02 21:49:09 | [Anton.SourceGeneration](https://www.nuget.org/packages/Anton.SourceGeneration) | 1.0.0 | Anton Curmanschii | Package Description |
-| 2026-10-02 21:49:10 | [Anton.SourceGeneration.Sdk](https://www.nuget.org/packages/Anton.SourceGeneration.Sdk) | 1.1.0 | Anton Curmanschii | Package Description |
-| 2026-10-02 21:49:11 | [Anton.SourceGeneration.PackageTesting](https://www.nuget.org/packages/Anton.SourceGeneration.PackageTesting) | 1.0.0 | Anton Curmanschii | Test NuGet packages in temporary consumer projects, including analyzer diagnost… |
-| 2026-10-02 21:49:12 | [Anton.SourceGeneration.RoslynTesting](https://www.nuget.org/packages/Anton.SourceGeneration.RoslynTesting) | 1.0.0 | Anton Curmanschii | Build analyzer and code fix tests with typed diagnostic markers. |
-| 2026-10-02 22:03:18 | [DynamicEndpoints.Sql](https://www.nuget.org/packages/DynamicEndpoints.Sql) | 0.4.0 | Pawel Pajak | Read-only, parameterized SQL query processor for DynamicEndpoints – works with… |
-| 2026-10-02 22:03:19 | [DynamicEndpoints.Yaml](https://www.nuget.org/packages/DynamicEndpoints.Yaml) | 0.4.0 | Pawel Pajak | YAML for DynamicEndpoints: export and import definitions as YAML (GitOps) and i… |
-| 2026-10-02 22:03:20 | [DynamicEndpoints.Templates](https://www.nuget.org/packages/DynamicEndpoints.Templates) | 0.4.0 | Pawel Pajak | dotnet new template for an ASP.NET Core minimal API with DynamicEndpoints: EF C… |
-| 2026-10-02 22:03:21 | [DynamicEndpoints.OpenTelemetry](https://www.nuget.org/packages/DynamicEndpoints.OpenTelemetry) | 0.4.0 | Pawel Pajak | OpenTelemetry registration of the DynamicEndpoints metrics and traces: per-endp… |
-| 2026-10-02 22:03:22 | [DynamicEndpoints.AdminUI](https://www.nuget.org/packages/DynamicEndpoints.AdminUI) | 0.4.0 | Pawel Pajak | Ready-made admin panel for DynamicEndpoints: list, editor (with caching, rate l… |
-| 2026-10-02 22:03:23 | [DynamicEndpoints.Cli](https://www.nuget.org/packages/DynamicEndpoints.Cli) | 0.4.0 | Pawel Pajak | Command-line tool for DynamicEndpoints: list, export, diff and push endpoint de… |
-| 2026-10-02 22:05:06 | [Soenneker.Librarian.Kv](https://www.nuget.org/packages/Soenneker.Librarian.Kv) | 4.0.54 | Jake Soenneker | Librarian document storage backed by Cloudflare Workers KV snapshots. |
-| 2026-10-02 22:06:16 | [Syntrony.Wrapper](https://www.nuget.org/packages/Syntrony.Wrapper) | 1.0.0 | Syntrony Technologies Inc. | Applies Syntrony's Result<T> response contract to the ASP.NET Core pipeline: an… |
-| 2026-10-02 22:14:18 | [Chameleon.Net.Extensions.Http](https://www.nuget.org/packages/Chameleon.Net.Extensions.Http) | 0.1.0 | Allan Mercou | IHttpClientFactory and dependency-injection integration for Chameleon.Net: http… |
-| 2026-10-02 22:14:19 | [Chameleon.Net](https://www.nuget.org/packages/Chameleon.Net) | 0.1.0 | Allan Mercou | HttpClient handler and WebSocket connector whose TLS ClientHello, HTTP/2 frames… |
+| 2026-10-02 22:27:41 | [AntalErvin19.FastRouter](https://www.nuget.org/packages/AntalErvin19.FastRouter) | 1.0.0 | antalervin19 | A lightweight convention-based API router for ASP.NET Core WebApplication. Decl… |
+| 2026-10-02 22:45:47 | [Haitch.Roslyn.Testing](https://www.nuget.org/packages/Haitch.Roslyn.Testing) | 0.1.1 | Hayden Quinn | Test harness and cacheability checks for Roslyn incremental source generators. |
+| 2026-10-02 22:45:48 | [Haitch.Roslyn](https://www.nuget.org/packages/Haitch.Roslyn) | 0.1.1 | Hayden Quinn | Source-only utilities for building Roslyn incremental source generators. |
+| 2026-10-02 22:50:19 | [endor-firewall-test](https://www.nuget.org/packages/endor-firewall-test) | 1.0.0 | Mahesh Kete | Test package |
+| 2026-10-02 22:52:09 | [Novolis.Testing.Budgets](https://www.nuget.org/packages/Novolis.Testing.Budgets) | 2026.1.1.42 | Novolis | TUnit ceilings for elapsed time, allocated bytes, and throughput, plus a Benchm… |
+| 2026-10-02 22:53:43 | [Ptn.InternFileManagement.Domain.Shared](https://www.nuget.org/packages/Ptn.InternFileManagement.Domain.Shared) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:53:45 | [Ptn.InternFileManagement.Domain](https://www.nuget.org/packages/Ptn.InternFileManagement.Domain) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:53:47 | [Ptn.InternFileManagement.Application.Contracts](https://www.nuget.org/packages/Ptn.InternFileManagement.Application.Contracts) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:53:48 | [Ptn.InternFileManagement.EntityFrameworkCore](https://www.nuget.org/packages/Ptn.InternFileManagement.EntityFrameworkCore) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:53:50 | [Ptn.InternFileManagement.Application](https://www.nuget.org/packages/Ptn.InternFileManagement.Application) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:53:52 | [Ptn.InternFileManagement.HttpApi](https://www.nuget.org/packages/Ptn.InternFileManagement.HttpApi) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:53:53 | [Ptn.InternFileManagement.HttpApi.Client](https://www.nuget.org/packages/Ptn.InternFileManagement.HttpApi.Client) | 0.1.0 | mertbyd | Ptn.InternFileManagement file modul katmani. |
+| 2026-10-02 22:59:02 | [Novolis.IO.Maps](https://www.nuget.org/packages/Novolis.IO.Maps) | 2026.1.1.45 | Novolis | Provider-neutral XYZ raster map and place-search clients. |
+| 2026-10-02 22:59:05 | [Novolis.IO.Ndjson](https://www.nuget.org/packages/Novolis.IO.Ndjson) | 2026.1.1.45 | Novolis | Seekable NDJSON reader and append-only UTF-8 line writer with bounded memory an… |
+| 2026-10-02 23:14:06 | [Ptn.InternLogManagement.Domain.Shared](https://www.nuget.org/packages/Ptn.InternLogManagement.Domain.Shared) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:08 | [Ptn.InternLogManagement.Domain](https://www.nuget.org/packages/Ptn.InternLogManagement.Domain) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:09 | [Ptn.InternLogManagement.Application.Contracts](https://www.nuget.org/packages/Ptn.InternLogManagement.Application.Contracts) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:14 | [Ptn.InternLogManagement.EntityFrameworkCore](https://www.nuget.org/packages/Ptn.InternLogManagement.EntityFrameworkCore) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:15 | [Ptn.InternLogManagement.Application](https://www.nuget.org/packages/Ptn.InternLogManagement.Application) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:17 | [Ptn.InternLogManagement.HttpApi](https://www.nuget.org/packages/Ptn.InternLogManagement.HttpApi) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:19 | [Ptn.InternLogManagement.HttpApi.Client](https://www.nuget.org/packages/Ptn.InternLogManagement.HttpApi.Client) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
+| 2026-10-02 23:14:21 | [Ptn.InternLogManagement.Collector](https://www.nuget.org/packages/Ptn.InternLogManagement.Collector) | 0.1.0 | mertbyd | Ptn.InternLogManagement log modul katmani. |
 
 ## Data source
 

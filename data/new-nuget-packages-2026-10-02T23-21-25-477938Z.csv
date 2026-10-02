@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-10-02T22:27:41.847Z,AntalErvin19.FastRouter,1.0.0,antalervin19,A lightweight convention-based API router for ASP.NET Core WebApplication. Declare routes in one place; handlers are discovered automatically from your Routes folder.
+2026-10-02T22:45:47.353Z,Haitch.Roslyn.Testing,0.1.1,Hayden Quinn,Test harness and cacheability checks for Roslyn incremental source generators.
+2026-10-02T22:45:48.1Z,Haitch.Roslyn,0.1.1,Hayden Quinn,Source-only utilities for building Roslyn incremental source generators.
+2026-10-02T22:50:19.65Z,endor-firewall-test,1.0.0,Mahesh Kete,Test package
+2026-10-02T22:52:09.577Z,Novolis.Testing.Budgets,2026.1.1.42,Novolis,"TUnit ceilings for elapsed time, allocated bytes, and throughput, plus a BenchmarkDotNet JSON highlight reader."
+2026-10-02T22:53:43.95Z,Ptn.InternFileManagement.Domain.Shared,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:53:45.577Z,Ptn.InternFileManagement.Domain,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:53:47.187Z,Ptn.InternFileManagement.Application.Contracts,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:53:48.837Z,Ptn.InternFileManagement.EntityFrameworkCore,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:53:50.393Z,Ptn.InternFileManagement.Application,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:53:52.127Z,Ptn.InternFileManagement.HttpApi,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:53:53.64Z,Ptn.InternFileManagement.HttpApi.Client,0.1.0,mertbyd,Ptn.InternFileManagement file modul katmani.
+2026-10-02T22:59:02.863Z,Novolis.IO.Maps,2026.1.1.45,Novolis,Provider-neutral XYZ raster map and place-search clients.
+2026-10-02T22:59:05.22Z,Novolis.IO.Ndjson,2026.1.1.45,Novolis,Seekable NDJSON reader and append-only UTF-8 line writer with bounded memory and incremental refresh.
+2026-10-02T23:14:06.483Z,Ptn.InternLogManagement.Domain.Shared,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:08.17Z,Ptn.InternLogManagement.Domain,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:09.853Z,Ptn.InternLogManagement.Application.Contracts,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:14.187Z,Ptn.InternLogManagement.EntityFrameworkCore,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:15.987Z,Ptn.InternLogManagement.Application,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:17.79Z,Ptn.InternLogManagement.HttpApi,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:19.31Z,Ptn.InternLogManagement.HttpApi.Client,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
+2026-10-02T23:14:21.023Z,Ptn.InternLogManagement.Collector,0.1.0,mertbyd,Ptn.InternLogManagement log modul katmani.
