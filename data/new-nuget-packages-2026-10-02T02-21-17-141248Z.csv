@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-02T01:27:08.35Z,CodeBrix.Sdl3.ZlibLicenseForever,1.0.275.85,Jeremy Ellis,"C# bindings for SDL3 (Simple DirectMedia Layer 3) with the SDL3 native libraries included for Windows, macOS, Linux and Android. Window management, input, gamepads, audio, rendering, GPU and the rest of the SDL3 API from .NET, with friendly string overloads and no NuGet dependencies."
+2026-10-02T01:27:08.57Z,Akka.Serialization.V2,1.6.0-beta1,Akka.NET Team,MessagePack-backed source-generated serializers for Akka.NET SerializerV2.
+2026-10-02T01:39:20.577Z,Importable,1.0.8,Annogram,"Turns ports (interfaces) and internal services into a strongly typed, fluent IServiceCollection extension method at compile time"
+2026-10-02T02:04:53.947Z,Wang.Seamas.Shared.AspNetCore,1.0.1,Seamas Wang,"AspNetCore shared components (filters, middlewares, exception handling) for Shared"

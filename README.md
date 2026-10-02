@@ -12,22 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 01:20 UTC
+## Latest list — 2026-10-02 02:21 UTC
 
-New packages created between 2026-10-02 00:20 UTC and 2026-10-02 01:20 UTC.
+New packages created between 2026-10-02 01:20 UTC and 2026-10-02 02:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T01-20-24-961472Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T02-21-17-141248Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 00:38:50 | [Tamp.Conformance.Anthropic](https://www.nuget.org/packages/Tamp.Conformance.Anthropic) | 0.1.1 | Scott Singleton | Anthropic (Claude) bring-your-own-key adapter for Tamp.Conformance. A thin ICha… |
-| 2026-10-02 00:38:51 | [Tamp.Conformance.Bedrock](https://www.nuget.org/packages/Tamp.Conformance.Bedrock) | 0.1.1 | Scott Singleton | AWS Bedrock bring-your-own-key adapter for Tamp.Conformance. A thin IChatComple… |
-| 2026-10-02 00:38:52 | [Tamp.Conformance.OpenAiCompatible](https://www.nuget.org/packages/Tamp.Conformance.OpenAiCompatible) | 0.1.1 | Scott Singleton | OpenAI-compatible bring-your-own-key adapter for Tamp.Conformance. One thin ICh… |
-| 2026-10-02 01:01:19 | [NavierStokesEquations](https://www.nuget.org/packages/NavierStokesEquations) | 1.0.0 | LUCHER4321 | N-dimensional incompressible fluid simulator based on the Navier-Stokes equatio… |
-| 2026-10-02 01:10:27 | [Centra.Providers.Flotilla.Udp](https://www.nuget.org/packages/Centra.Providers.Flotilla.Udp) | 0.2.1 | Chad Bauers | High-throughput, microsecond-latency UDP datagram consensus pub/sub provider fo… |
-| 2026-10-02 01:10:39 | [Centra.Providers.Flotilla.Tcp](https://www.nuget.org/packages/Centra.Providers.Flotilla.Tcp) | 0.2.1 | Chad Bauers | Connection-oriented TCP streaming consensus pub/sub provider for Centra backed… |
-| 2026-10-02 01:10:40 | [Centra.Providers.Flotilla](https://www.nuget.org/packages/Centra.Providers.Flotilla) | 0.2.1 | Chad Bauers | High-throughput, microsecond-latency Raft consensus pub/sub provider for Centra… |
-| 2026-10-02 01:10:41 | [Centra.Providers.Flotilla.Grpc](https://www.nuget.org/packages/Centra.Providers.Flotilla.Grpc) | 0.2.1 | Chad Bauers | HTTP/2 gRPC consensus pub/sub provider for Centra backed by Flotilla. |
+| 2026-10-02 01:27:08 | [CodeBrix.Sdl3.ZlibLicenseForever](https://www.nuget.org/packages/CodeBrix.Sdl3.ZlibLicenseForever) | 1.0.275.85 | Jeremy Ellis | C# bindings for SDL3 (Simple DirectMedia Layer 3) with the SDL3 native librarie… |
+| 2026-10-02 01:27:08 | [Akka.Serialization.V2](https://www.nuget.org/packages/Akka.Serialization.V2) | 1.6.0-beta1 | Akka.NET Team | MessagePack-backed source-generated serializers for Akka.NET SerializerV2. |
+| 2026-10-02 01:39:20 | [Importable](https://www.nuget.org/packages/Importable) | 1.0.8 | Annogram | Turns ports (interfaces) and internal services into a strongly typed, fluent IS… |
+| 2026-10-02 02:04:53 | [Wang.Seamas.Shared.AspNetCore](https://www.nuget.org/packages/Wang.Seamas.Shared.AspNetCore) | 1.0.1 | Seamas Wang | AspNetCore shared components (filters, middlewares, exception handling) for Sha… |
 
 ## Data source
 
