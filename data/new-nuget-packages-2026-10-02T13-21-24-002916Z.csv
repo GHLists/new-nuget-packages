@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-02T12:20:47.367Z,Reports.Web.Wpf,1.0.0,Pao@Office,"Reports.Web for WPF / .NET on Windows: load report definitions (.prepdj), fill values, preview in a WPF window, print, and export PDF / SVG / PNG / print data (PREPEJ). Japanese business forms such as invoices, estimates and labels. Trial build: output carries a red ""SAMPLE"" mark until the purchase…"
+2026-10-02T12:22:32.277Z,DotnetDeployer.Fleet.Feeds,0.1.38,DotnetDeployer.Fleet.Feeds,Package Description
+2026-10-02T12:28:04.58Z,otsom.fs.OAuth.Spotify,0.1.1,otsom.fs.OAuth.Spotify,Package Description
+2026-10-02T12:37:39.03Z,iPlus.Xaml.Behaviors,12.0.7,Wiesław Šoltés,"Complete library of behaviors, actions and triggers for Avalonia applications."
+2026-10-02T12:37:40.013Z,iPlus.Xaml.Behaviors.Animations,12.0.7,Wiesław Šoltés,"Reusable Avalonia animations, composition effects, and animation helpers with no behaviors dependency."
+2026-10-02T12:37:40.88Z,iPlus.Xaml.Behaviors.Avalonia,12.0.7,Wiesław Šoltés,Meta package that bundles all Avalonia XAML Behaviors for easy installation.
+2026-10-02T12:37:41.66Z,iPlus.Xaml.Behaviors.Interactions,12.0.7,Wiesław Šoltés,Core collection of common triggers and actions for Avalonia.
+2026-10-02T12:37:42.897Z,iPlus.Xaml.Behaviors.Interactions.Custom,12.0.7,Wiesław Šoltés,Custom behaviors and actions for common Avalonia controls.
+2026-10-02T12:37:43.96Z,iPlus.Xaml.Behaviors.Interactions.DragAndDrop,12.0.7,Wiesław Šoltés,Behaviors that enable drag-and-drop support in Avalonia.
+2026-10-02T12:37:44.91Z,iPlus.Xaml.Behaviors.Interactions.DragAndDrop.DataGrid,12.0.7,Wiesław Šoltés,DataGrid-specific drag-and-drop helpers for Avalonia behaviors.
+2026-10-02T12:37:45.94Z,iPlus.Xaml.Behaviors.Interactions.Draggable,12.0.7,Wiesław Šoltés,Draggable element behaviors for moving controls around.
+2026-10-02T12:37:46.84Z,iPlus.Xaml.Behaviors.Interactions.Events,12.0.7,Wiesław Šoltés,Behaviors responding to Avalonia input and focus events.
+2026-10-02T12:37:47.9Z,iPlus.Xaml.Behaviors.Interactions.ReactiveUI,12.0.7,Wiesław Šoltés,Behaviors integrating ReactiveUI navigation patterns.
+2026-10-02T12:37:48.93Z,iPlus.Xaml.Behaviors.Interactions.Responsive,12.0.7,Wiesław Šoltés,Behaviors to assist with responsive and adaptive UI layouts.
+2026-10-02T12:37:49.86Z,iPlus.Xaml.Behaviors.Interactions.Scripting,12.0.7,Wiesław Šoltés,Execute C# scripts at runtime to add dynamic behavior.
+2026-10-02T12:37:50.93Z,iPlus.Xaml.Behaviors.Interactivity,12.0.7,Wiesław Šoltés,"Foundation library providing base classes for actions, triggers and behaviors."
+2026-10-02T12:37:52.13Z,iPlus.Xaml.Behaviors.SourceGenerators,12.0.7,Wiesław Šoltés,"Source Generators for Xaml.Behaviors to create strongly-typed, AOT-friendly actions and triggers."
+2026-10-02T12:57:00.023Z,Scrubkit.Images,2.0.0,jjopensoftworks-blip,Image EXIF metadata extractor for Scrubkit powered by MetadataExtractor.
+2026-10-02T12:57:03.457Z,Scrubkit.Pdf,2.0.0,jjopensoftworks-blip,PDF text and metadata extractor for Scrubkit powered by PdfPig.
+2026-10-02T13:01:59.767Z,PinguApps.Aspire.Hosting.Railway.Jobs,1.0.0,PinguApps,Finite release jobs and scheduled container jobs for Aspire Railway deployments.
+2026-10-02T13:05:16.613Z,Thalos.NET.Sandbox.Docker,0.14.0,Marcel Roozekrans,Docker runtime for Thalos.NET run sandboxes.
+2026-10-02T13:05:18.743Z,Thalos.NET.Sandbox,0.14.0,Marcel Roozekrans,"Run sandboxes for Thalos.NET: confine a workflow run's workspace, build and Roslyn to a per-run container."
+2026-10-02T13:05:22.177Z,Thalos.NET.Sandbox.Host,0.14.0,Marcel Roozekrans,"The in-container host for Thalos.NET run sandboxes: workspace, build and Roslyn tools over MCP."
