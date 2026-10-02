@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-10-02T17:23:26.547Z,ProtoTest.Analyzers,1.1.0,Matthias Seys,Roslyn analyzers for ProtoTest suites: the intent-dependent mistakes the framework cannot detect at runtime.
+2026-10-02T17:23:27.813Z,ProtoTest.Cli,1.1.0,Matthias Seys,"Command-line access to ProtoTest evidence: the failure digest, the feedback channels and the cross-run verdict without a browser."
+2026-10-02T17:23:31.097Z,ProtoTest.Mcp,1.1.0,Matthias Seys,"Read-only MCP server over .prototrace evidence: an agent lists runs, reads a failure and reads coverage without leaving the machine."
+2026-10-02T17:23:33.023Z,ProtoTest.Traces,1.1.0,Matthias Seys,"Reader for .prototrace archives: the run, its tests and each test's operations without a dependency on ProtoTest.Core."
+2026-10-02T17:23:34.847Z,ProtoTest.Aspire,1.1.0,Matthias Seys,"Run an Aspire AppHost with a ProtoTest suite: the run starts it, its resources become application targets, and the run releases it."
+2026-10-02T17:23:38.09Z,ProtoTest.Devices,1.1.0,Matthias Seys,"Talk to devices - simulators or hardware - from the same test context, lifecycle and trace."
+2026-10-02T17:23:40.007Z,ProtoTest.Diagnosis,1.1.0,Matthias Seys,"Deterministic diagnosis of a .prototrace run: the causal failure summary, its context package, and the digest the CLI, the MCP tools and the feedback channels share."
+2026-10-02T17:23:41.86Z,ProtoTest.Hosting,1.1.0,Matthias Seys,Run background workers and generic hosts in-process with a ProtoTest suite.
+2026-10-02T17:23:56.42Z,ProtoTest.Web.Pages,1.1.0,Matthias Seys,Shared page identity and inventory for ProtoTest web integrations.
+2026-10-02T17:24:01.1Z,ProtoTest.Devices.Mqtt,1.1.0,Matthias Seys,MQTT transport for ProtoTest.Devices: talk to devices over publish/subscribe against a real broker.
+2026-10-02T17:24:03.05Z,ProtoTest.Devices.Mqtt.Testcontainers,1.1.0,Matthias Seys,A Mosquitto MQTT broker container owned as a run-scoped resource for ProtoTest.Devices.Mqtt.
+2026-10-02T17:24:04.833Z,ProtoTest.Devices.Serial,1.1.0,Matthias Seys,Serial transport for ProtoTest.Devices: talk to devices on a COM port or /dev/tty line with the same framing as the TCP transport.
+2026-10-02T17:24:08.11Z,ProtoTest.Devices.Tcp,1.1.0,Matthias Seys,"TCP transport for ProtoTest.Devices: talk to devices over a raw socket, connecting out or listening, with framing for line, delimited and length-prefixed protocols."
+2026-10-02T17:24:10.03Z,ProtoTest.Devices.WebSocket,1.1.0,Matthias Seys,WebSocket transport for ProtoTest.Devices: talk to devices over ws:// or wss://.
+2026-10-02T17:24:20.483Z,ProtoTest.Verification,1.1.0,Matthias Seys,"Cross-run verification over ProtoTest reports and traces: coverage deltas, specification identity, run comparison and a verdict a PR gate can use."
+2026-10-02T17:24:25.087Z,ProtoTest.Feedback,1.1.0,Matthias Seys,"Posts a ProtoTest run's failure digest where a pull request reads it: a comment with the trace link, check annotations, and a webhook for a machine consumer."
+2026-10-02T17:24:37.807Z,ProtoTest.Devices.WebSocket.AspNetCore,1.1.0,Matthias Seys,"In-process WebSocket device connections for ProtoTest: reach an application's endpoint through its TestServer, no socket."
+2026-10-02T17:24:39.563Z,ProtoTest.Messaging.MassTransit,1.1.0,Matthias Seys,MassTransit bridge for the ProtoTest messaging capability: publish and await messages over the application's in-process ITestHarness.
+2026-10-02T17:24:42.723Z,ProtoTest.WireMock,1.1.0,Matthias Seys,"Fake HTTP services for ProtoTest suites, backed by WireMock.Net: per-test stubs, matched-request trace evidence and stub coverage."
+2026-10-02T17:44:15.353Z,MASS4.Attributes,5.6.0,Bruno Massa,"Shared metadata for forms, editor tools, stable type identity and service discovery. No GUI, Gaya or Turian dependency."
+2026-10-02T17:44:17.07Z,TheSingularityWorkshop.FSM_Serialization,1.0.0,Trent Best,"Binary serialization infrastructure for FSM ecosystem state, MicroBundle composition, Experience manifests, and lineage."
+2026-10-02T17:50:46.937Z,TheSingularityWorkshop.MicroBundleDomain,1.0.0,Trent Best,Domain-side foundation for defining and composing loadable MicroBundle semantic capabilities.
+2026-10-02T17:53:08.713Z,TemporalCommunity.Templates,0.5.0,TemporalCommunity.Templates,"dotnet new templates for Temporal .NET: item templates for a workflow, an activity, and a payload converter with a custom encoding; a single-project worker host; and a Worker + Client + Shared solution with optional .NET Aspire orchestration and OpenTelemetry tracing."
+2026-10-02T18:02:37.85Z,MsdfAtlasGen,1.1.0,MsdfAtlasGen.Native contributors,"In-process MSDF/MTSDF font-atlas generation for .NET. msdf-atlas-gen and msdfgen are compiled into a small native library with a C API, wrapped by an AOT-friendly managed API returning atlas pixels, glyph and font metrics, kerning, PNG encoding and JSON export. Native assets for win-x64, linux-x64,…"
+2026-10-02T18:08:38.02Z,Waher.Networking.E2ee,1.0.0,Peter Waher,"Library that defines a protocol for End-to-End encrypted binary communication over a binary transport layer, as defined in Waher.Networking and Waher.Security.E2ee."
+2026-10-02T18:10:25.74Z,Waher.Security.E2ee,1.0.0,Peter Waher,"Class library containing a basic abstraction for End-to-End Encryption (E2EE) using hybrid ciphers (consisting of pairs of symmetric and asymmetric ciphers, where the asymmetric cipher is used to derive shared secrets for the symmetric ciphers)."
