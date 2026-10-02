@@ -12,33 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 19:19 UTC
+## Latest list — 2026-10-02 20:20 UTC
 
-New packages created between 2026-10-02 18:19 UTC and 2026-10-02 19:19 UTC.
+New packages created between 2026-10-02 19:19 UTC and 2026-10-02 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T19-19-36-985961Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T20-20-56-510358Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 18:24:33 | [Shinden.NET.DependencyInjection](https://www.nuget.org/packages/Shinden.NET.DependencyInjection) | 0.6.7 | Sniku | Dependency injection integration for Shinden.NET. |
-| 2026-10-02 18:38:20 | [Intentum.Testing](https://www.nuget.org/packages/Intentum.Testing) | 1.3.2 | Intentum Contributors | Testing utilities and helpers for Intentum. |
-| 2026-10-02 18:42:03 | [TerseSharp.win-x64](https://www.nuget.org/packages/TerseSharp.win-x64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:42:07 | [TerseSharp.win-arm64](https://www.nuget.org/packages/TerseSharp.win-arm64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:42:10 | [TerseSharp.linux-x64](https://www.nuget.org/packages/TerseSharp.linux-x64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:42:13 | [TerseSharp.linux-arm64](https://www.nuget.org/packages/TerseSharp.linux-arm64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:42:16 | [TerseSharp.osx-x64](https://www.nuget.org/packages/TerseSharp.osx-x64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:42:21 | [TerseSharp.osx-arm64](https://www.nuget.org/packages/TerseSharp.osx-arm64) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:42:23 | [TerseSharp.any](https://www.nuget.org/packages/TerseSharp.any) | 0.73.0 | amusleh | Token-efficient Roslyn MCP server for C# and .NET. Navigate, read, edit and ref… |
-| 2026-10-02 18:46:29 | [GnOuGo.Flow.Copilot](https://www.nuget.org/packages/GnOuGo.Flow.Copilot) | 0.20.0 | GnOuGo | Bounded Copilot agent tasks through injected MCP transport and managed Copilot… |
-| 2026-10-02 18:46:31 | [GnOuGo.Flow.Persistence](https://www.nuget.org/packages/GnOuGo.Flow.Persistence) | 0.20.0 | GnOuGo | Tenant-owned encrypted workflow execution journals with rebuildable EF Core and… |
-| 2026-10-02 18:48:16 | [FenecDb](https://www.nuget.org/packages/FenecDb) | 0.1.8 | fenecdb | A client for fenecdb's server over HTTP: FenecQL queries, vector search, atomic… |
-| 2026-10-02 18:51:18 | [Snail.MCP.Blender](https://www.nuget.org/packages/Snail.MCP.Blender) | 0.1.0 | orldev | MCP server that lets AI agents drive a running Blender through its Python add-o… |
-| 2026-10-02 18:51:30 | [Webority.Ai.Chat.AspNetCore](https://www.nuget.org/packages/Webority.Ai.Chat.AspNetCore) | 0.3.0 | Webority Technologies | The fleet chat turn over HTTP for Webority.Ai.Chat: one call that begins the tu… |
-| 2026-10-02 18:51:37 | [Webority.Ai.Chat](https://www.nuget.org/packages/Webority.Ai.Chat) | 0.3.0 | Webority Technologies | Server-side chat for Webority products on Webority.Ai: conversations stored in… |
-| 2026-10-02 18:52:41 | [Intentum.AI.SystemOne](https://www.nuget.org/packages/Intentum.AI.SystemOne) | 1.3.2 | Intentum Contributors | System One (Jev-compatible) HTTP adapter for Intentum. Works with Kev, Laya, Ti… |
-| 2026-10-02 18:59:53 | [DynamicDataCore.Common](https://www.nuget.org/packages/DynamicDataCore.Common) | 2.1.2 | César Adolfo Solís Alvarez | Package Description |
-| 2026-10-02 18:59:58 | [DynamicDataCore.Abstractions](https://www.nuget.org/packages/DynamicDataCore.Abstractions) | 2.1.2 | César Adolfo Solís Alvarez | Package Description |
-| 2026-10-02 19:00:12 | [DynamicDataCore](https://www.nuget.org/packages/DynamicDataCore) | 2.1.2 | César Adolfo Solís Alvarez | Lightweight and extensible data access framework for .NET applications. Support… |
+| 2026-10-02 19:20:24 | [KetPsi.Results](https://www.nuget.org/packages/KetPsi.Results) | 1.0.0 | KetPsi | High-performance Result pattern library for application and infrastructure laye… |
+| 2026-10-02 19:25:22 | [Nkraft.Mopups](https://www.nuget.org/packages/Nkraft.Mopups) | 1.0.0 | Mark L, Tyson Hooker, Maksym… | Fork of Mopups (LuckyDucko/Mopups) maintained for Android and iOS only |
+| 2026-10-02 19:41:53 | [Trax.Effect.Decisions.SystemOne](https://www.nuget.org/packages/Trax.Effect.Decisions.SystemOne) | 1.58.0 | Theauxm,mark-keaton | Typed decision model adapter for Trax.Effect. Adds AddNimbleDecider(...), for B… |
+| 2026-10-02 19:57:49 | [GSharp.CodeAnalysis.Analyzers.Testing](https://www.nuget.org/packages/GSharp.CodeAnalysis.Analyzers.Testing) | 0.4.1150 | David Obando | Testing surface (GSharpAnalyzerVerifier) for GSharp diagnostic analyzers (ADR-0… |
+| 2026-10-02 19:58:38 | [SqlClone](https://www.nuget.org/packages/SqlClone) | 0.1.0 | Emmz | Clone a SQL Server database, schema and data, from one server to another under… |
+| 2026-10-02 20:00:23 | [Novolis.Agent.Core](https://www.nuget.org/packages/Novolis.Agent.Core) | 2026.1.1.31 | Novolis | Agent Surface contracts: IAgentHost, duplex channel frames, shared DTOs, and ag… |
+| 2026-10-02 20:00:24 | [Novolis.Agent.Surface](https://www.nuget.org/packages/Novolis.Agent.Surface) | 2026.1.1.31 | Novolis | Attributed agent surfaces: document generation (OpenAPI / MCP / JSON-RPC), anno… |
+| 2026-10-02 20:00:25 | [Novolis.Agent.Testing](https://www.nuget.org/packages/Novolis.Agent.Testing) | 2026.1.1.31 | Novolis | Test doubles for Novolis.Agent: fake host, in-memory channel, document asserts. |
+| 2026-10-02 20:07:03 | [QueueBox.Inbox.EntityFrameworkCore](https://www.nuget.org/packages/QueueBox.Inbox.EntityFrameworkCore) | 0.5.0 | AlterNayte | Entity Framework Core helper for QueueBox.Inbox. It builds a context on the tra… |
+| 2026-10-02 20:13:47 | [Xfs351](https://www.nuget.org/packages/Xfs351) | 1.0.4 | Xfs351 | CEN/XFS 3.00-3.50 runtime binaries and standalone settings editor for Windows x… |
 
 ## Data source
 

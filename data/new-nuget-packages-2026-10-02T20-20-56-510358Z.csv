@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-02T19:20:24.287Z,KetPsi.Results,1.0.0,KetPsi,"High-performance Result pattern library for application and infrastructure layers with structured errors, metadata capture, and functional helpers."
+2026-10-02T19:25:22.133Z,Nkraft.Mopups,1.0.0,"Mark L, Tyson Hooker, Maksym Koshovyi, Aswin P G, Kirill Lyubimov, Martijn Van Dijk, Shane Neuville",Fork of Mopups (LuckyDucko/Mopups) maintained for Android and iOS only
+2026-10-02T19:41:53.89Z,Trax.Effect.Decisions.SystemOne,1.58.0,"Theauxm,mark-keaton","Typed decision model adapter for Trax.Effect. Adds AddNimbleDecider(...), for Bespoke Labs' open-weights Nimble on a Nimble server you run, and AddSystemOneDecider(...) to the AddEffects builder, which answer a train's Decide, Switch, Gate and Scale questions through the System One request format t…"
+2026-10-02T19:57:49.46Z,GSharp.CodeAnalysis.Analyzers.Testing,0.4.1150,David Obando,Testing surface (GSharpAnalyzerVerifier) for GSharp diagnostic analyzers (ADR-0169).
+2026-10-02T19:58:38.99Z,SqlClone,0.1.0,Emmz,"Clone a SQL Server database, schema and data, from one server to another under a new name."
+2026-10-02T20:00:23.31Z,Novolis.Agent.Core,2026.1.1.31,Novolis,"Agent Surface contracts: IAgentHost, duplex channel frames, shared DTOs, and agent.* method names."
+2026-10-02T20:00:24.53Z,Novolis.Agent.Surface,2026.1.1.31,Novolis,"Attributed agent surfaces: document generation (OpenAPI / MCP / JSON-RPC), announcement, and HTTP+WebSocket / TCP JSONL / JSON-RPC / local-IPC / stdio / MCP-stdio transports for IAgentHost."
+2026-10-02T20:00:25.773Z,Novolis.Agent.Testing,2026.1.1.31,Novolis,"Test doubles for Novolis.Agent: fake host, in-memory channel, document asserts."
+2026-10-02T20:07:03.993Z,QueueBox.Inbox.EntityFrameworkCore,0.5.0,AlterNayte,"Entity Framework Core helper for QueueBox.Inbox. It builds a context on the transaction of the message, so the application write and the inbox completion commit together."
+2026-10-02T20:13:47.24Z,Xfs351,1.0.4,Xfs351,CEN/XFS 3.00-3.50 runtime binaries and standalone settings editor for Windows x86 and x64.
