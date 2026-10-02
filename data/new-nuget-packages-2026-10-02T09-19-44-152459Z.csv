@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-02T08:22:21.03Z,SapPostLog.Core,1.0.0,SapPostLog.Core,Idempotent SAP posting guard with PostgreSQL-backed request/response log. Works on both .NET Framework (ASP.NET 4) and .NET Core/.NET via netstandard2.0.
+2026-10-02T08:49:01.39Z,BarisCemant.Verimor,0.1.0,Baris Cem Ant,"Unofficial community .NET SDK for the Verimor SMS, Switch and WhatsApp APIs. Not validated against the live Verimor services."
+2026-10-02T08:51:00.83Z,VigorGlow.Dapper,1.0.0,VigorGlow.Orm,基于 Dapper 的轻量级 ORM 仓储，内置 SQL Server / MySQL / Oracle / PostgreSQL / SQLite 五种数据库驱动，开箱即用。
+2026-10-02T09:01:07.523Z,lintent.osx-arm64,0.1.1,pietervp,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T09:01:08.983Z,lintent.osx-x64,0.1.1,pietervp,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T09:01:10.79Z,lintent.linux-arm64,0.1.1,pietervp,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T09:01:12.607Z,lintent.linux-x64,0.1.1,pietervp,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T09:01:14.2Z,lintent.win-x64,0.1.1,pietervp,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T09:06:18.573Z,lintent,0.1.1,pietervp,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T09:06:34.697Z,BaoXia.Service.ServiceProvider.Defines,10.0.0,石家庄宝匣软件科技有限公司,宝匣软件，服务提供商服务公共定义库。
+2026-10-02T09:08:18.85Z,Zolotov.Samotpravil,1.0.0,samotpravil,Async .NET client for the Samotpravil email API.
+2026-10-02T09:10:20.507Z,VirtoCommerce.Otp.Core,3.1000.0,VirtoCommerce.Otp.Core,Package Description
+2026-10-02T09:10:26.073Z,VirtoCommerce.Otp.Data,3.1000.0,VirtoCommerce.Otp.Data,Package Description
