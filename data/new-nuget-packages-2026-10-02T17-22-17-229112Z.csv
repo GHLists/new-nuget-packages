@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-10-02T16:21:24.007Z,SunamoPayments,26.10.2.2,www.sunamo.cz,Package Description
+2026-10-02T16:29:39.63Z,Brows.Operations,1.0.0,Ken Yourek,Package Description
+2026-10-02T16:29:41.293Z,Brows.Operations.Composition,1.0.0,Ken Yourek,Package Description
+2026-10-02T16:29:42.817Z,Brows.Operations.Windows,1.0.0,Ken Yourek,Package Description
+2026-10-02T16:32:01.143Z,Adamantium.UI.Controls,0.1.0-alpha,Adamantium Studio,"Controls of Adamantium UI: buttons, text, lists and trees, tabs, docking, the ribbon, a tree data grid, a property grid, color pickers, shapes, and an infinite canvas for drawing and node graphs."
+2026-10-02T16:32:03.917Z,Adamantium.UI.Templates,0.1.0-alpha,Adamantium Studio,"Project templates for Adamantium UI. adamantium-app: a desktop application, a window in AUML markup and its view-model. adamantium-viewlib: a library of views with their view-models. adamantium-controllib: a library of templated controls styled in every theme."
+2026-10-02T16:32:27.17Z,Mystia.Extension.Sdk,1.0.0,Delsin-Yu,MSBuild SDK and contract for Mystia's Izakaya community mods. Unofficial. Does not modify the Steam game.
+2026-10-02T16:32:54.39Z,TeklaHelper.AssemblyResolver,1.0.0,nguyenthanguth,Finds Tekla Structures installations in the Windows Registry and loads Tekla Open API assemblies from the installation that matches the requested assembly version.
+2026-10-02T16:47:25.523Z,devprojex.linux-arm64,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:47:34.673Z,devprojex.linux-x64,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:47:43.72Z,devprojex.osx-arm64,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:47:52.647Z,devprojex.osx-x64,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:48:00.893Z,devprojex.win-arm64,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:48:08.41Z,devprojex.win-x64,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:48:13.677Z,devprojex,5.2.0,Avazbek Olimov,"Turn a folder or repository into focused context for AI from the CLI, TUI, or MCP server."
+2026-10-02T16:54:39.687Z,HeloEmail.Sdk,1.0.0,Helo Email,Helo Email API (https://helohq.com)
+2026-10-02T16:55:49.21Z,CachedEfCore.Caching.InMemory,1.0.1,henriquewr,InMemory store for CachedEfCore
+2026-10-02T16:55:49.957Z,CachedEfCore.Caching.FusionCache,1.0.1,henriquewr,FusionCache store for CachedEfCore
+2026-10-02T17:13:30.603Z,NTResult.AspNetCore.Http.FluentValidation,1.7.0,NT Technologies,Optional FluentValidation error mapping for NTResult ASP.NET Core HTTP responses.
