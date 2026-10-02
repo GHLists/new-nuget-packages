@@ -12,29 +12,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 14:19 UTC
+## Latest list — 2026-10-02 15:23 UTC
 
-New packages created between 2026-10-02 13:21 UTC and 2026-10-02 14:19 UTC.
+New packages created between 2026-10-02 14:19 UTC and 2026-10-02 15:23 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T14-19-50-387219Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T15-23-18-85346Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 13:21:59 | [CW.Assistant.Extensions.Docs](https://www.nuget.org/packages/CW.Assistant.Extensions.Docs) | 26.10.1 | CW | Versioned offline extension implementation documentation for coding agents and… |
-| 2026-10-02 13:22:23 | [CW.Assistant.Extensions.Tekla.2025](https://www.nuget.org/packages/CW.Assistant.Extensions.Tekla.2025) | 26.10.1 | CW.Assistant.Extensions.Tekla | Package Description |
-| 2026-10-02 13:22:40 | [DtoFlow.Integration](https://www.nuget.org/packages/DtoFlow.Integration) | 1.0.0 | DTO Flow | Integrate DTO Flow into your .NET application to upload and download partner fi… |
-| 2026-10-02 13:26:55 | [FS.GG.Wasm.Browser](https://www.nuget.org/packages/FS.GG.Wasm.Browser) | 0.1.1 | FS.GG Contributors | Typed, Fable-compatible browser protocol and runtime for shared FS.GG WebAssemb… |
-| 2026-10-02 13:26:55 | [FS.GG.Wasm.Contracts](https://www.nuget.org/packages/FS.GG.Wasm.Contracts) | 0.1.1 | FS.GG Contributors | Typed, Fable-compatible ABI profiles and validation contracts for shared FS.GG… |
-| 2026-10-02 13:43:32 | [otsom.fs.OAuth.Keycloak](https://www.nuget.org/packages/otsom.fs.OAuth.Keycloak) | 0.1.1 | otsom.fs.OAuth.Keycloak | Package Description |
-| 2026-10-02 13:51:36 | [VL.Installer.Inno](https://www.nuget.org/packages/VL.Installer.Inno) | 0.0.1-alpha | vvvv | Reference this pack to automatically create an installer on the export of the a… |
-| 2026-10-02 13:53:01 | [PinguApps.Aspire.Hosting.RabbitMQ.Railway](https://www.nuget.org/packages/PinguApps.Aspire.Hosting.RabbitMQ.Railway) | 1.0.0 | PinguApps | Deploy standard Aspire RabbitMQ resources to Railway with private AMQP and auth… |
-| 2026-10-02 13:54:35 | [SolutionExtender](https://www.nuget.org/packages/SolutionExtender) | 1.0.0 | SolutionExtender contributors | Capture versioned deployment metadata for PAC solutions and reconcile unmanaged… |
-| 2026-10-02 13:55:17 | [SI.WA.UI.960](https://www.nuget.org/packages/SI.WA.UI.960) | 1.0.0 | seriiiastreb@gmail.com | "Retro" 960 theme for the WA.Core Blazor UI: the fluid 960 grid system (12 colu… |
-| 2026-10-02 13:55:29 | [SI.WA.UI.Core](https://www.nuget.org/packages/SI.WA.UI.Core) | 1.0.0 | seriiiastreb@gmail.com | Theme-neutral core of the WA.Core Blazor UI: services (forms, views, charts, wo… |
-| 2026-10-02 13:55:40 | [SI.WA.UI.Public](https://www.nuget.org/packages/SI.WA.UI.Public) | 1.0.0 | seriiiastreb@gmail.com | Public site for the WA.Core Blazor UI: the landing page signed-out visitors see… |
-| 2026-10-02 13:55:51 | [SI.WA.UI.SB2](https://www.nuget.org/packages/SI.WA.UI.SB2) | 1.0.0 | seriiiastreb@gmail.com | SB Admin 2 theme for the WA.Core Blazor UI: the look of the original WA Angular… |
-| 2026-10-02 13:56:02 | [SI.WA.UI.Sneat](https://www.nuget.org/packages/SI.WA.UI.Sneat) | 1.0.0 | seriiiastreb@gmail.com | Sneat (Bootstrap 5) theme for the WA.Core Blazor UI: the shared FViewer markup… |
-| 2026-10-02 14:07:00 | [Sunsetless.Ews](https://www.nuget.org/packages/Sunsetless.Ews) | 1.0.0 | Sunsetless | Keep your EWS Managed API code and run it on Microsoft Graph. Commercial licens… |
+| 2026-10-02 14:24:21 | [Rony.Net.Xunit.v3](https://www.nuget.org/packages/Rony.Net.Xunit.v3) | 1.2.0 | Mojtaba Kiani | xUnit v3 integration for Rony.Net: a MockServerTest base class that starts a mo… |
+| 2026-10-02 14:24:35 | [XUnitAssured.RabbitMq](https://www.nuget.org/packages/XUnitAssured.RabbitMq) | 6.1.0 | Carlos Andrew Costa Bezerra | RabbitMQ testing utilities for XUnitAssured using the official RabbitMQ.Client.… |
+| 2026-10-02 14:31:11 | [Swevo.AutoBus.Analyzers](https://www.nuget.org/packages/Swevo.AutoBus.Analyzers) | 1.0.0 | Justin Bannister | Roslyn analyzers for common AutoBus reliability pitfalls: fire-and-forget bus c… |
+| 2026-10-02 14:31:54 | [DnsCheck.Client](https://www.nuget.org/packages/DnsCheck.Client) | 1.0.1 | Mark Heydon | Unofficial .NET client for the DNS Check monitoring API. Not affiliated with DN… |
+| 2026-10-02 14:42:28 | [Ahjo.Vulkan.Ngx.Native](https://www.nuget.org/packages/Ahjo.Vulkan.Ngx.Native) | 0.14.0 | Pekka Heikura | Raw P/Invoke bindings over the NVIDIA NGX (DLSS) Vulkan C API at v310.9.1, ship… |
+| 2026-10-02 14:42:30 | [Ahjo.Vulkan.Ngx](https://www.nuget.org/packages/Ahjo.Vulkan.Ngx) | 0.14.0 | Pekka Heikura | NVIDIA DLSS Super Resolution and DLAA for Ahjo.Vulkan, over the pinned NGX SDK… |
+| 2026-10-02 14:48:00 | [Ruledger](https://www.nuget.org/packages/Ruledger) | 1.0.0 | Reny | Walks a Rulealize rule set and writes down, for every state it visits, everythi… |
+| 2026-10-02 14:48:43 | [ZXUI.Svg.Core](https://www.nuget.org/packages/ZXUI.Svg.Core) | 1.0.0 | ZXUI Authors | Core SVG parsing and rendering for ZXUI.Svg. Pure .NET library — only dependenc… |
+| 2026-10-02 14:49:19 | [RonSijm.Blazyload.Components](https://www.nuget.org/packages/RonSijm.Blazyload.Components) | 1.0.0 | Ron Sijm | Resolve and lazily render Blazor components by stable logical names using Blazy… |
+| 2026-10-02 14:49:33 | [ZXUI.Svg](https://www.nuget.org/packages/ZXUI.Svg) | 1.0.0 | ZXUI Authors | Lightweight SVG icon support for Avalonia. Three components: SvgSource (IImage)… |
+| 2026-10-02 14:49:43 | [SoftZenPdf.Ocr](https://www.nuget.org/packages/SoftZenPdf.Ocr) | 1.1.0 | SoftZen Systems | OCR for SoftZenPdf with Tesseract 5: recognise text in scanned images and PDFs… |
+| 2026-10-02 14:50:22 | [SoftZenPdf.Optimizer](https://www.nuget.org/packages/SoftZenPdf.Optimizer) | 1.1.0 | SoftZen Systems | PDF size optimization for SoftZenPdf with fine-grained control: recompress stre… |
+| 2026-10-02 14:50:53 | [SoftZenPdf.Redact](https://www.nuget.org/packages/SoftZenPdf.Redact) | 1.1.0 | SoftZen Systems | Secure redaction for SoftZenPdf: find text with regular expressions or mark are… |
+| 2026-10-02 14:58:52 | [PinguApps.Aspire.Hosting.Dashboard.Railway](https://www.nuget.org/packages/PinguApps.Aspire.Hosting.Dashboard.Railway) | 1.0.0 | PinguApps | Authenticated standalone Aspire dashboard publishing for Railway. |
+| 2026-10-02 15:00:39 | [Universal.Operative.Sdk.Codex.V8](https://www.nuget.org/packages/Universal.Operative.Sdk.Codex.V8) | 1.0.0 | Andrew Ong | Optional embedded V8 JavaScript backend for Universal.Operative.Sdk.Codex. |
+| 2026-10-02 15:00:57 | [DynamicEndpoints.Testing](https://www.nuget.org/packages/DynamicEndpoints.Testing) | 0.3.0 | Pawel Pajak | Test helpers for DynamicEndpoints: in-memory store and notifications for WebApp… |
+| 2026-10-02 15:00:58 | [DynamicEndpoints.Redis](https://www.nuget.org/packages/DynamicEndpoints.Redis) | 0.3.0 | Pawel Pajak | Instant propagation of DynamicEndpoints changes across instances through Redis… |
+| 2026-10-02 15:00:59 | [DynamicEndpoints.PostgreSql](https://www.nuget.org/packages/DynamicEndpoints.PostgreSql) | 0.3.0 | Pawel Pajak | Instant propagation of DynamicEndpoints changes across instances through Postgr… |
+| 2026-10-02 15:01:36 | [Universal.Operative.Sdk.Codex](https://www.nuget.org/packages/Universal.Operative.Sdk.Codex) | 1.0.0 | Andrew Ong | Locally executed Codex-compatible tools and agent coordination for Universal.Op… |
+| 2026-10-02 15:02:30 | [JsonPatchDocumentConverter](https://www.nuget.org/packages/JsonPatchDocumentConverter) | 1.0.0 | Work First Casualty Company | Source generator for mapping DTO JSON Patch documents to entity patches and EF… |
+| 2026-10-02 15:02:30 | [JsonPatchDocumentConverter.EntityFrameworkCore](https://www.nuget.org/packages/JsonPatchDocumentConverter.EntityFrameworkCore) | 1.0.0 | Work First Casualty Company | Entity Framework Core helpers for capturing and auditing generated JSON Patch u… |
+| 2026-10-02 15:03:07 | [otsom.fs.OAuth.Storage.Mongo](https://www.nuget.org/packages/otsom.fs.OAuth.Storage.Mongo) | 0.1.1 | otsom.fs.OAuth.Storage.Mongo | Package Description |
+| 2026-10-02 15:09:25 | [Endatix.SaaS.Management](https://www.nuget.org/packages/Endatix.SaaS.Management) | 0.7.8 | Endatix team and Community co… | Commercial Endatix add-on that runs a sign-up waitlist for a hosted Endatix pla… |
 
 ## Data source
 
