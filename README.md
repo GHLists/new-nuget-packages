@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 02:21 UTC
+## Latest list — 2026-10-02 03:19 UTC
 
-New packages created between 2026-10-02 01:20 UTC and 2026-10-02 02:21 UTC.
+New packages created between 2026-10-02 02:21 UTC and 2026-10-02 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T02-21-17-141248Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T03-19-45-875897Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 01:27:08 | [CodeBrix.Sdl3.ZlibLicenseForever](https://www.nuget.org/packages/CodeBrix.Sdl3.ZlibLicenseForever) | 1.0.275.85 | Jeremy Ellis | C# bindings for SDL3 (Simple DirectMedia Layer 3) with the SDL3 native librarie… |
-| 2026-10-02 01:27:08 | [Akka.Serialization.V2](https://www.nuget.org/packages/Akka.Serialization.V2) | 1.6.0-beta1 | Akka.NET Team | MessagePack-backed source-generated serializers for Akka.NET SerializerV2. |
-| 2026-10-02 01:39:20 | [Importable](https://www.nuget.org/packages/Importable) | 1.0.8 | Annogram | Turns ports (interfaces) and internal services into a strongly typed, fluent IS… |
-| 2026-10-02 02:04:53 | [Wang.Seamas.Shared.AspNetCore](https://www.nuget.org/packages/Wang.Seamas.Shared.AspNetCore) | 1.0.1 | Seamas Wang | AspNetCore shared components (filters, middlewares, exception handling) for Sha… |
+| 2026-10-02 03:02:06 | [BrycensRanch.StaticLink.Avalonia.Native](https://www.nuget.org/packages/BrycensRanch.StaticLink.Avalonia.Native) | 12.1.3.1 | greepar | Static AvaloniaNative library for macOS Avalonia NativeAOT publishing. |
+| 2026-10-02 03:11:45 | [Gori.CompressedStatics](https://www.nuget.org/packages/Gori.CompressedStatics) | 1.0.0 | Tim Koopman | Gori.CompressedStatics can compress selected static property or method values a… |
+| 2026-10-02 03:15:17 | [Openquote.Gil](https://www.nuget.org/packages/Openquote.Gil) | 0.6.0 | iyulab | Suggested classification codes for a record being entered, learned from the vau… |
 
 ## Data source
 
