@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-02T10:24:24.953Z,AnkitRana.XrmToolBox.UnmanagedLayerFinder,1.3.0,Ankit Rana,"Find unmanaged (Active) layers on solution components in Dataverse / Dynamics 365, with when and who changed them. Filter by solution type, publisher, and component type; export to CSV. Created by Ankit Rana."
+2026-10-02T10:26:36.853Z,Themisquo.AspNetCore.Siren,0.1.0,Thomas Volden,Package Description
+2026-10-02T10:28:21.01Z,BaoXia.Service.Gateway.Client,10.0.0,石家庄宝匣软件科技有限公司,宝匣软件，服务程序。
+2026-10-02T10:35:32.8Z,BaoXia.Service.StatisticsService.Client,10.0.0,石家庄宝匣软件科技有限公司,宝匣服务，日志中心服务客户端。
+2026-10-02T10:42:12.603Z,AvaEnyo.Theme,0.1.0,drasticactions,The webOS Enyo 1.0 Onyx theme for Avalonia.
+2026-10-02T10:42:21.847Z,AvaEnyo.Services,0.1.0,drasticactions,webOS-shaped services for Avalonia.
+2026-10-02T10:42:28.58Z,AvaEnyo.Controls,0.1.0,drasticactions,Enyo 1.0 (WebOS) controls for Avalonia.
+2026-10-02T10:42:35.33Z,AvaEnyo.Animations,0.1.0,drasticactions,"Enyo 1.0 (WebOS) easing curves, durations, animation runner and scroll physics for Avalonia."
+2026-10-02T10:43:05.523Z,Uganda.AdministrativeUnits,1.0.0,Uganda.AdministrativeUnits,"Offline, dependency-free directory of Uganda's verified administrative units (July 2022): 146 districts, constituencies, subcounties/town councils, parishes and 71,230 villages, with codes, hierarchy navigation and name search."
+2026-10-02T10:44:48.393Z,Reports.Web,1.0.0,Pao@Office,"Reports.Web for .NET (C#): build PREPEJ print data from report definitions (.prepdj) and render PDF with the Reports.Web engine (C++ WebAssembly, Docker image ghcr.io/reportsweb/engine). Japanese business forms such as invoices, estimates and labels. Trial build: output carries a red SAMPLE mark un…"
+2026-10-02T10:59:08.38Z,BergamotTranslatorSharp.REDox,0.7.0,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-10-02T10:59:09.523Z,BergamotTranslatorSharp.REDox.Cbor,0.7.0,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-10-02T10:59:10.567Z,BergamotTranslatorSharp.REDox.Ini,0.7.0,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-10-02T10:59:11.66Z,BergamotTranslatorSharp.REDox.Json5,0.7.0,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-10-02T10:59:12.747Z,BergamotTranslatorSharp.REDox.MessagePack,0.7.0,Freeesia,BergamotTranslatorSharp is a tool to translate the text on the screen.
+2026-10-02T11:01:31.02Z,Zapqio.Nexo.Connection,1.1.3,Zapqio,"Shared InsERT nexo (Subiekt) connection for Zapqio Runner modules: one NexoClient singleton injected into consumer modules, plus the nexo SDK references for compiling them."
+2026-10-02T11:14:47.15Z,IT.TnDigit.ORM.JsonProvider,2.3.0,IT.TnDigit.ORM.JsonProvider,Package Description
+2026-10-02T11:14:57.123Z,IT.TnDigit.ORM.TestProvider,2.3.0,IT.TnDigit.ORM.TestProvider,Package Description
