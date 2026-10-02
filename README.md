@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 06:20 UTC
+## Latest list — 2026-10-02 07:21 UTC
 
-New packages created between 2026-10-02 05:21 UTC and 2026-10-02 06:20 UTC.
+New packages created between 2026-10-02 06:20 UTC and 2026-10-02 07:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T06-20-54-248974Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T07-21-14-166969Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 05:34:36 | [Gil.Sqlite](https://www.nuget.org/packages/Gil.Sqlite) | 0.10.0 | iyulab | Gil's telemetry, habit statistics, promotion and review logs in a single SQLite… |
-| 2026-10-02 06:12:40 | [Cratis.Arc.Screenplay.Embedded.Generation](https://www.nuget.org/packages/Cratis.Arc.Screenplay.Embedded.Generation) | 22.48.0 | all contributors | Generates the Screenplay documents a Cratis Arc application embeds - the same d… |
+| 2026-10-02 06:30:10 | [Rony.Net.NUnit](https://www.nuget.org/packages/Rony.Net.NUnit) | 1.1.0 | Mojtaba Kiani | NUnit integration for Rony.Net: a MockServerTest base class that starts a mock… |
+| 2026-10-02 06:30:11 | [Rony.Net.Xunit](https://www.nuget.org/packages/Rony.Net.Xunit) | 1.1.0 | Mojtaba Kiani | xUnit (v2) integration for Rony.Net: a MockServerTest base class that starts a… |
+| 2026-10-02 06:30:11 | [Rony.Net.MSTest](https://www.nuget.org/packages/Rony.Net.MSTest) | 1.1.0 | Mojtaba Kiani | MSTest (v4) integration for Rony.Net: a MockServerTest base class that starts a… |
+| 2026-10-02 07:01:30 | [SqlWright.DynamicQuery](https://www.nuget.org/packages/SqlWright.DynamicQuery) | 1.0.0 | Vishram Singh | Safe, allowlisted dynamic queries for SqlWright: turn a JSON query request (fil… |
+| 2026-10-02 07:01:30 | [SqlWright](https://www.nuget.org/packages/SqlWright) | 1.0.0 | Vishram Singh | A fast, lightweight micro-ORM for .NET. Injection-safe interpolated SQL, built-… |
+| 2026-10-02 07:15:34 | [TechTeaStudio.Auth.OAuth.Microsoft](https://www.nuget.org/packages/TechTeaStudio.Auth.OAuth.Microsoft) | 0.11.1 | Ronald Ryan | Microsoft Entra ID (Azure AD) OAuth 2.0 / OIDC provider for TechTeaStudio.Auth… |
+| 2026-10-02 07:15:36 | [TechTeaStudio.Auth.Providers.Telegram](https://www.nuget.org/packages/TechTeaStudio.Auth.Providers.Telegram) | 0.11.1 | Ronald Ryan | Telegram Login Widget sign-in for TechTeaStudio.Auth. Not OAuth: Telegram signs… |
 
 ## Data source
 
