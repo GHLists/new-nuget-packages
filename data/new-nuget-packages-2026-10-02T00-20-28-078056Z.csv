@@ -1,0 +1,40 @@
+created_at,package,version,authors,description
+2026-10-01T23:27:30.737Z,ScintillaSearch.LordKBX,1.0.0,LordKBX,A module for adding Search module on a Scintilla TextZone in WinForms
+2026-10-01T23:34:38.813Z,Errs,0.1.0,Takayuki Sato,A library for handling errors with reasons for C#
+2026-10-01T23:36:00.113Z,InkSharp,1.0.0,Vilder Luis,"Generador de PDF 100% nativo para .NET, sin dependencias externas. Facturas y reportes con tablas (celdas combinadas), texto, imágenes JPEG/PNG, encabezado y pie, y paginación automática."
+2026-10-01T23:40:16.717Z,Dp9ik.Tls,0.1.0,Scott J Guyton,"TLS 1.2 PSK keyed by the dp9ik session secret, as 9front tlssrv and tlsclient -a use it. Built on BouncyCastle; no OpenSSL."
+2026-10-01T23:40:17.423Z,Dp9ik,0.1.0,Scott J Guyton,"Managed 9front dp9ik primitives: passtokey, AuthPAK (SPAKE2-EE over Ed448), form1 and form0 tickets and authenticators, and the session secret. Interoperable with 9front libauthsrv; no native code."
+2026-10-01T23:40:18.16Z,Dp9ik.P9Auth,0.1.0,Scott J Guyton,"Server side of the 9front p9any/dp9ik authentication exchange over a stream, returning the authenticated user and the session secret."
+2026-10-01T23:49:45.903Z,Novolis.Analyzers.CodeLength,2026.1.1.2,Novolis,Roslyn analyzers for class and method line counts.
+2026-10-01T23:49:47.097Z,Novolis.Analyzers.Conventions,2026.1.1.2,Novolis,Roslyn analyzers for Novolis naming conventions: forbidden desk word and no leftover Frank.* namespaces.
+2026-10-01T23:49:48.31Z,Novolis.Analyzers.Licensing,2026.1.1.2,Novolis,MSBuild tasks that enforce Novolis safe licenses: own PackageLicenseExpression and dependency SPDX allowlist (MIT / Apache-2.0).
+2026-10-01T23:49:49.55Z,Novolis.Analyzers.OneTypePerFile,2026.1.1.2,Novolis,Roslyn analyzer and fixer that warn when a source file declares more than one type and move the extra types into their own files.
+2026-10-01T23:49:54.183Z,Novolis.Analyzers.StackBoundaries,2026.1.1.2,Novolis,Roslyn analyzers enforcing Novolis stack boundary rules.
+2026-10-01T23:50:54.367Z,Novolis.Install,2026.1.1.4,Novolis,Cross-platform Novolis package installer and launcher (.NET global tool).
+2026-10-01T23:51:03.277Z,Novolis.Manuscript.Cli,2026.1.1.4,Novolis,"CLI for manuscript book surgery, audiobook generation, print, metrics, and editorial lint."
+2026-10-01T23:51:04.9Z,Novolis.Solution.Tool,2026.1.1.4,Novolis,Query typed SLNX topology and solution catalogs from the command line.
+2026-10-01T23:51:05.917Z,Novolis.Tools.Android.Cli,2026.1.1.4,Novolis,dotnet tool novolis-android — reliable Android device deployment and diagnostics.
+2026-10-01T23:51:07.043Z,Novolis.Tools.Cli,2026.1.1.4,Novolis,"Shared Spectre.Console helpers for Novolis developer CLIs (REPL chrome, tables, help)."
+2026-10-01T23:51:08.02Z,Novolis.Tools.CodeLayout,2026.1.1.4,Novolis,Map and repair C# file layout across an SLNX solution.
+2026-10-01T23:51:09.323Z,Novolis.Tools.CodeLayout.Cli,2026.1.1.4,Novolis,dotnet tool novolis-code-layout — map and repair C# file layout across an SLNX solution.
+2026-10-01T23:51:10.257Z,Novolis.Tools.Coverage,2026.1.1.4,Novolis,"Collect and merge MTP Cobertura coverage across Novolis test hosts (Platform.slnx or per-repo), including CRAP risk analysis."
+2026-10-01T23:51:11.55Z,Novolis.Tools.Coverage.Cli,2026.1.1.4,Novolis,"dotnet tool novolis-coverage — Platform / org Cobertura collection, gaps, and CRAP risk reports."
+2026-10-01T23:51:12.623Z,Novolis.Tools.Docs,2026.1.1.4,Novolis,"Markdown and Mermaid builders, plus multi-repo docs/ static HTML site generation via Novolis.Markup."
+2026-10-01T23:51:13.68Z,Novolis.Tools.Docs.Cli,2026.1.1.4,Novolis,"dotnet tool novolis-docs — scaffold Markdown packs, emit .csproj graphs, and build multi-repo docs/ HTML sites."
+2026-10-01T23:51:14.703Z,Novolis.Tools.LiteDb,2026.1.1.4,Novolis,"LiteDB session helpers for CLI REPLs and scripting, aligned with Novolis.Storage.LiteDb."
+2026-10-01T23:51:15.84Z,Novolis.Tools.LiteDb.Cli,2026.1.1.4,Novolis,dotnet tool novolis-litedb — Spectre LiteDB shell REPL with pit-of-success defaults.
+2026-10-01T23:51:16.913Z,Novolis.Tools.Sqlite,2026.1.1.4,Novolis,"SQLite session helpers for CLI REPLs and scripting, aligned with Novolis.Storage.Sqlite."
+2026-10-01T23:51:18.773Z,Novolis.Tools.Sqlite.Cli,2026.1.1.4,Novolis,dotnet tool novolis-sqlite — Spectre SQLite REPL with pit-of-success defaults.
+2026-10-01T23:51:20.107Z,Novolis.Xsd.Tool,2026.1.1.4,Novolis,dotnet tool to generate C# from UBL/Peppol XSDs into Novolis.Xsd packages.
+2026-10-01T23:54:12.8Z,Fili.MudAvalonia.Theme,0.1.0,FiliArrochada,"A Material-flavoured design-token theme for Avalonia: palette, elevation, typography and geometry, in light, dark and high contrast."
+2026-10-01T23:55:13.6Z,Shaderlyn.Hlsl,0.1.0,OmojiP,Shaderlyn の HLSL のプリプロセッサ、パーサと構文木。
+2026-10-01T23:55:14.21Z,Shaderlyn.Semantics,0.1.0,OmojiP,Shaderlyn のセマンティックモデル。HLSL を見る自作ルールの基底クラス HlslRuleAnalyzer を持つ。
+2026-10-01T23:55:14.813Z,Shaderlyn.Configuration,0.1.0,OmojiP,Shaderlyn の設定ファイル (.shaderlyn.yaml) の読み取り。
+2026-10-01T23:55:15.353Z,Shaderlyn.Testing,0.1.0,OmojiP,Shaderlyn の自作ルールをテストするための ShaderRuleVerifier。
+2026-10-01T23:55:16.033Z,Shaderlyn.Cli,0.1.0,OmojiP,Shaderlyn の CLI を組み立てるライブラリ。Program.RunAsync に自作のアナライザを渡すと、自作ルール入りの CLI を作れる。
+2026-10-01T23:55:16.627Z,Shaderlyn.Core,0.1.0,OmojiP,Shaderlyn の土台。DiagnosticAnalyzer、診断、構文ノードの共通の型を持つ。
+2026-10-01T23:55:17.157Z,Shaderlyn.Rules,0.1.0,OmojiP,Shaderlyn の組み込みルール。
+2026-10-01T23:55:17.813Z,Shaderlyn.ShaderLab,0.1.0,OmojiP,Shaderlyn の ShaderLab のパーサと構文木。
+2026-10-01T23:55:18.41Z,Shaderlyn.LanguageServer,0.1.0,OmojiP,Shaderlyn の言語サーバーを組み立てるライブラリ。ShaderLanguageServer に自作のアナライザを渡すと、自作ルール入りの言語サーバーを作れる。
+2026-10-02T00:02:28.527Z,Novolis.Tools.MarkdownPdf,2026.1.1.4,Novolis,Markdown → PDF converter with named themes over Novolis.Markup.Markdown.Documents + Documents.Skia.
+2026-10-02T00:02:38.26Z,Novolis.Tools.MarkdownPdf.Cli,2026.1.1.4,Novolis,dotnet tool novolis-mdpdf — Markdown to PDF with named themes.
