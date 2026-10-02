@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 04:19 UTC
+## Latest list — 2026-10-02 06:20 UTC
 
-New packages created between 2026-10-02 03:19 UTC and 2026-10-02 04:19 UTC.
+New packages created between 2026-10-02 05:21 UTC and 2026-10-02 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-02T04-19-45-645887Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-02T06-20-54-248974Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-02 03:27:55 | [Webority.Email.Graph](https://www.nuget.org/packages/Webority.Email.Graph) | 0.23.0 | Webority Technologies | Microsoft 365 inbound mail for Webority.Email over Webority.Graph: reads messag… |
-| 2026-10-02 03:44:17 | [CodeBrix.Platform.PlayTest.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Platform.PlayTest.ApacheLicenseForever) | 1.0.275.207 | Jeremy Ellis and contributors | Playwright-style application tests on a fixed, cross-platform virtual Skia scre… |
-| 2026-10-02 03:46:37 | [Webority.Support.Ai](https://www.nuget.org/packages/Webority.Support.Ai) | 0.4.0 | Webority Technologies | AI for Webority support: the chat tools a product's assistant uses to list, rea… |
+| 2026-10-02 05:34:36 | [Gil.Sqlite](https://www.nuget.org/packages/Gil.Sqlite) | 0.10.0 | iyulab | Gil's telemetry, habit statistics, promotion and review logs in a single SQLite… |
+| 2026-10-02 06:12:40 | [Cratis.Arc.Screenplay.Embedded.Generation](https://www.nuget.org/packages/Cratis.Arc.Screenplay.Embedded.Generation) | 22.48.0 | all contributors | Generates the Screenplay documents a Cratis Arc application embeds - the same d… |
 
 ## Data source
 

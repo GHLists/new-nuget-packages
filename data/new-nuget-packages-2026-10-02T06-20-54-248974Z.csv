@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-02T05:34:36.03Z,Gil.Sqlite,0.10.0,iyulab,"Gil's telemetry, habit statistics, promotion and review logs in a single SQLite file whose tables are a contract other tools read directly."
+2026-10-02T06:12:40.917Z,Cratis.Arc.Screenplay.Embedded.Generation,22.48.0,all contributors,Generates the Screenplay documents a Cratis Arc application embeds - the same documents the embedded event model explorer serves - either for the build to embed or for a host to serve from memory.
