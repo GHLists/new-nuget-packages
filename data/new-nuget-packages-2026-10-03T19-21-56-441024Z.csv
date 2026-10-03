@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-03T18:23:07.89Z,Authorizer.GrpcCommon,10.0.4,Joseph Melberg,Package Description
+2026-10-03T18:23:08.38Z,Authorizer.Domain,10.0.4,Joseph Melberg,Package Description
+2026-10-03T18:23:08.89Z,Authorizer.GrpcClient,10.0.4,Joseph Melberg,Package Description
+2026-10-03T18:23:23.557Z,Alethic.Node,1.0.0,Jerome Haltom,"Node embedded in a .NET process through node-api-dotnet: a pool of engines, each a libnode runtime on a thread of its own, running modules loaded with Node's own require. For any host, .NET Framework included; Alethic.Node.AspNetCore builds server-side rendering for ASP.NET Core on it."
+2026-10-03T18:23:24.083Z,Alethic.Node.AspNet,1.0.0,Jerome Haltom,"Node embedded in an ASP.NET (System.Web) application on .NET Framework, over Alethic.Node's pooled engines: the application's pool, Node work done on behalf of a request with the request's own thread serving what it asks of the page, fetch answered in process by the site's own handlers, and whole p…"
+2026-10-03T18:23:24.53Z,Alethic.Node.AspNet.Components,1.0.0,Jerome Haltom,"JavaScript components hosted on ASP.NET Web Forms pages: a Component control whose props are set in markup and code and kept in view state, whose callbacks raise server commands, and which renders on the server on Node embedded in the worker process, through two functions the site's own client prov…"
+2026-10-03T18:23:24.98Z,Alethic.Node.AspNetCore,1.0.0,Jerome Haltom,"Server-side rendering for ASP.NET Core on a Node runtime embedded in the process, over Alethic.Node's pooled engines: the rendering engine over the application's fetch export, and endpoint mapping driven by the application's own route manifest."
+2026-10-03T18:23:25.46Z,Alethic.Node.Http,1.0.0,Jerome Haltom,"Serving a JavaScript application over HTTP from Node embedded in a .NET process, whatever the .NET host: the fetch(request, env, ctx) protocol, as Alethic.Node.AspNetCore and Alethic.Node.AspNet both speak it."
+2026-10-03T18:42:42.11Z,Fwd.Umbraco.WelcomePage,17.0.5,FWD Motion,Displays the private Flex client news feed in the Umbraco Content dashboard.
+2026-10-03T18:49:50.303Z,SmsProNikita,1.0.1,taalaibekdev,"DI-клиент для XML-протокола SMS-шлюза smspro.nikita.kg (отправка SMS, отчёты о доставке, инфо об абоненте, баланс счёта)."
+2026-10-03T19:00:21.04Z,Zen.Logging.Standard,1.0.9,Zen.Logging.Standard,Package Description
+2026-10-03T19:10:13.793Z,InterMW.Authorizer.GrpcCommon,10.0.11,Joseph Melberg,Package Description
+2026-10-03T19:10:14.273Z,InterMW.Authorizer.Domain,10.0.11,Joseph Melberg,Package Description
+2026-10-03T19:10:14.74Z,InterMW.Authorizer.GrpcClient,10.0.11,Joseph Melberg,Package Description
