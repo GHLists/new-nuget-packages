@@ -12,24 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 07:21 UTC
+## Latest list — 2026-10-03 08:22 UTC
 
-New packages created between 2026-10-03 06:21 UTC and 2026-10-03 07:21 UTC.
+New packages created between 2026-10-03 07:21 UTC and 2026-10-03 08:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T07-21-25-866517Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T08-22-03-952407Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 06:34:55 | [BuildMonitor](https://www.nuget.org/packages/BuildMonitor) | 1.0.0 | https://github.com/SimonCropp… | Cross platform build/CI monitor that runs in the system tray. |
-| 2026-10-03 06:38:53 | [SwartBerg.Mediator.SourceGenerator](https://www.nuget.org/packages/SwartBerg.Mediator.SourceGenerator) | 3.1.0 | SwartBerg Studio | Compile-time handler registration for SwartBerg.Mediator. Generates AddMediator… |
-| 2026-10-03 06:48:51 | [ChromaDotNet.Client.DependencyInjection](https://www.nuget.org/packages/ChromaDotNet.Client.DependencyInjection) | 2.0.0-ci-37105313564 | ChromaDB.Client.DependencyInj… | .NET SDK for Chroma database |
-| 2026-10-03 06:48:52 | [ChromaDotNet.Client](https://www.nuget.org/packages/ChromaDotNet.Client) | 2.0.0-ci-37105313564 | ChromaDB.Client | .NET SDK for Chroma database |
-| 2026-10-03 07:09:05 | [RefurbishedDinosaurs.LegacyFormats](https://www.nuget.org/packages/RefurbishedDinosaurs.LegacyFormats) | 1.0.0 | kibertoad | Bounded decoders for file formats commonly found in legacy games. |
-| 2026-10-03 07:09:06 | [RefurbishedDinosaurs.Media.Fli](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Fli) | 1.0.0 | kibertoad | Bounded indexed FLI animation decoding. |
-| 2026-10-03 07:09:06 | [RefurbishedDinosaurs.Media.Smacker](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Smacker) | 1.0.0 | kibertoad | Bounded managed Smacker container, video and packed audio decoders. |
-| 2026-10-03 07:09:07 | [RefurbishedDinosaurs.Media.Playback](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Playback) | 1.0.0 | kibertoad | Presentation clocks and sequential frame coordination. |
-| 2026-10-03 07:09:08 | [RefurbishedDinosaurs.Core](https://www.nuget.org/packages/RefurbishedDinosaurs.Core) | 1.0.0 | kibertoad | Reusable clean-room game restoration primitives. |
-| 2026-10-03 07:09:08 | [RefurbishedDinosaurs.Media.Avi](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Avi) | 1.0.0 | kibertoad | Bounded AVI, Cinepak, RLE8 and Microsoft ADPCM decoders. |
+| 2026-10-03 07:49:44 | [Universal.Operative.Sdk.Codex.OpenAI](https://www.nuget.org/packages/Universal.Operative.Sdk.Codex.OpenAI) | 1.0.0 | Andrew Ong | OpenAI image generation backend for the Codex toolset. |
+| 2026-10-03 07:50:01 | [Universal.Operative.Sdk.Codex.OpenAI.ChatGpt](https://www.nuget.org/packages/Universal.Operative.Sdk.Codex.OpenAI.ChatGpt) | 1.0.0 | Andrew Ong | Codex-token image generation backend for the Codex toolset. |
+| 2026-10-03 07:53:22 | [SegregatedStorage.AspNetCore](https://www.nuget.org/packages/SegregatedStorage.AspNetCore) | 2.0.0 | Steffen Skov | Extension to SegregatedStorage adding support for mapping REST endpoints for you |
+| 2026-10-03 08:06:41 | [PostSharp.Tool](https://www.nuget.org/packages/PostSharp.Tool) | 2027.0.2-preview | PostSharp Technologies | The postsharp command line tool: registers licence keys, reads and edits the co… |
 
 ## Data source
 
