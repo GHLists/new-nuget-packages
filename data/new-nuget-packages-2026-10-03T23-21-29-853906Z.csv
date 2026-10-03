@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-03T22:22:29.91Z,Bosak.XPath.Providers.Database,0.12.3-beta,Fytala,"Bosak: XML database REST document loaders — resolve basex://, exist://, and marklogic:// URIs through the Bosak XPath 3.1 / XSLT 3.0 / XQuery 3.1 engine's DocumentLoader hooks (BaseX / eXist / MarkLogic REST endpoints, in-memory and forward-only streaming loads)."
+2026-10-03T22:23:12.603Z,Informatique.Gulf.Base.Core,3.0.1,Mohamedmtc,"Gulf fork of the Informatique base library, targeting .NET 10."
+2026-10-03T22:23:15.17Z,Informatique.Gulf.Base.Infrastructure,3.0.1,Mohamedmtc,"Gulf fork of the Informatique base library, targeting .NET 10."
+2026-10-03T22:43:07.617Z,RefurbishedDinosaurs.Media.Audio,1.4.0,kibertoad,PCM conversion and host-owned audio resource lifetimes.
+2026-10-03T22:46:38.377Z,Shiny.Printers,5.9.0-beta-0003,Allan Ritchie,"Shiny Printers - transport and protocol agnostic thermal / receipt printing: a fluent document model, ESC/POS and TSPL encoders, barcodes, QR codes and raster images"
+2026-10-03T22:46:42.863Z,Shiny.Printers.BluetoothLE,5.9.0-beta-0003,Allan Ritchie,"Shiny Printers over Bluetooth LE - scan, connect and stream ESC/POS to BLE thermal printers with MTU-chunked writes"
+2026-10-03T22:46:52.753Z,Shiny.Printers.Network,5.9.0-beta-0003,Allan Ritchie,Shiny Printers over WiFi / Ethernet - raw TCP (JetDirect / port 9100) streaming to network thermal printers plus mDNS discovery through Shiny.Net.Discovery
+2026-10-03T22:46:59.883Z,Shiny.Printers.Blazor,5.9.0-beta-0003,Allan Ritchie,"Shiny Printers for Blazor - Web Bluetooth, Web Serial and WebUSB transports so a Blazor WebAssembly or Server app can drive an ESC/POS thermal printer directly"
+2026-10-03T22:47:06.31Z,Shiny.Printing,5.9.0-beta-0003,Allan Ritchie,"Shiny Printing - OS-native printing: hand a PDF, image, HTML or file to the platform print pipeline (AirPrint, Android PrintManager, Windows GDI+/shell, CUPS) so any installed printer can be targeted"
+2026-10-03T22:47:06.903Z,Shiny.Printing.Blazor,5.9.0-beta-0003,Allan Ritchie,"Shiny Printing for Blazor - prints PDF, image and HTML content through the browser print dialog (window.print) from Blazor WebAssembly or Server"
+2026-10-03T22:47:07.453Z,Shiny.Printing.Rendering,5.9.0-beta-0003,Allan Ritchie,Shiny Printing Rendering - renders a Shiny.Printers PrintDocument to PDF with SkiaSharp so the same receipt can be printed on any OS-native printer through Shiny.Printing
+2026-10-03T22:49:54.827Z,TreeSitter.CodeGraph,1.0.2,Jianyao,Tree-Sitter based static code graph analyzer and multi-language codebase scanner for .NET.
+2026-10-03T23:10:06.393Z,Soenneker.Librarian.Cosmos,4.0.56,Jake Soenneker,Librarian native document storage backed by Cosmos with server queries and atomic batches.
+2026-10-03T23:10:22.82Z,SunamoMsSqlLegacy,26.10.4.2,www.sunamo.cz,"Legacy layer over Microsoft SQL Server: column definitions, SQL generator and stored procedure helpers"
+2026-10-03T23:10:45.137Z,Respire.Coordination,0.7.0,Tom Hurst,"Redis coordination primitives with explicit lease, capacity, hash-field, and fencing semantics, plus distributed rate limiters."
+2026-10-03T23:10:46.167Z,Respire.Aws,0.7.0,Tom Hurst,AWS IAM credential providers for Amazon ElastiCache and MemoryDB.
+2026-10-03T23:10:50.677Z,Respire.Search,0.7.0,Tom Hurst,Typed Redis Search and query APIs for Respire.
+2026-10-03T23:10:51.843Z,Respire.Json,0.7.0,Tom Hurst,Typed RedisJSON commands and source-generated serialization for Respire.
+2026-10-03T23:10:52.977Z,Respire.Testing.Containers,0.7.0,Tom Hurst,Framework-independent Redis and Valkey Testcontainers fixtures for Respire integration tests.
+2026-10-03T23:10:53.843Z,Soenneker.Librarian.Mongo,4.0.56,Jake Soenneker,Librarian native document storage backed by Mongo with server queries and atomic batches.
+2026-10-03T23:10:54.023Z,Respire.Azure,0.7.0,Tom Hurst,Azure Managed Redis Microsoft Entra credential provider for Respire.
+2026-10-03T23:10:55.123Z,Respire.Testing,0.7.0,Tom Hurst,Deterministic in-memory RESP server for testing real Respire client code without Docker.
+2026-10-03T23:10:56.167Z,Respire.Caching.Hybrid,0.7.0,Tom Hurst,HybridCache L2 backend integration backed by Respire.
+2026-10-03T23:10:57.273Z,Respire.Probabilistic,0.7.0,Tom Hurst,Typed Redis probabilistic data structure commands for Respire.
+2026-10-03T23:10:58.33Z,Respire.DependencyInjection,0.7.0,Tom Hurst,Dependency injection integration for Respire clients in Microsoft.Extensions.DependencyInjection applications.
+2026-10-03T23:10:59.41Z,Respire.Compression.Zstd,0.7.0,Tom Hurst,Optional bounded Zstandard value compression for Respire.
+2026-10-03T23:11:00.513Z,Respire.TimeSeries,0.7.0,Tom Hurst,Typed RedisTimeSeries commands for Respire.
+2026-10-03T23:11:01.55Z,Respire.Compression.Lz4,0.7.0,Tom Hurst,Optional bounded LZ4 value compression for Respire.
+2026-10-03T23:11:02.673Z,Respire.Caching,0.7.0,Tom Hurst,IDistributedCache and IBufferDistributedCache implementations backed by Respire.
+2026-10-03T23:12:42.79Z,BTDB.Replication,35.11.0-preview,Boris Letocha,Leader-based replication of BTDB databases across disposable compute nodes with a canonical history in object storage.
+2026-10-03T23:12:45.71Z,BTDB.Replication.Azure,35.11.0-preview,Boris Letocha,"Azure Blob Storage lease, leader record and canonical storage adapters for BTDB.Replication."
+2026-10-03T23:12:48.5Z,BTDB.Replication.Http,35.11.0-preview,Boris Letocha,"ASP.NET Core hosting, health checks, metrics and the HTTP peer transport for BTDB.Replication."
