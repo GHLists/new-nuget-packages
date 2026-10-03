@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:20 UTC
+## Latest list — 2026-10-03 06:21 UTC
 
-New packages created between 2026-10-03 04:21 UTC and 2026-10-03 05:20 UTC.
+New packages created between 2026-10-03 05:20 UTC and 2026-10-03 06:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T05-20-13-296439Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T06-21-44-987065Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 05:11:44 | [AvroSharp.Aws.Glue](https://www.nuget.org/packages/AvroSharp.Aws.Glue) | 1.0.0 | zcsizmadia | A managed AWS Glue Schema Registry serializer on AvroSharp, for every platform:… |
-| 2026-10-03 05:11:45 | [AvroSharp.Aws.Glue.Kafka](https://www.nuget.org/packages/AvroSharp.Aws.Glue.Kafka) | 1.0.0 | zcsizmadia | Confluent.Kafka serializers and deserializers for AWS Glue Schema Registry on A… |
-| 2026-10-03 05:11:46 | [AvroSharp.Azure.SchemaRegistry](https://www.nuget.org/packages/AvroSharp.Azure.SchemaRegistry) | 1.0.0 | zcsizmadia | An Azure Schema Registry serializer on AvroSharp for Event Hubs and Service Bus… |
-| 2026-10-03 05:11:49 | [AvroSharp.Confluent](https://www.nuget.org/packages/AvroSharp.Confluent) | 1.0.0 | zcsizmadia | Confluent Schema Registry serializers and deserializers for Confluent.Kafka on… |
-| 2026-10-03 05:11:51 | [AvroSharp.KafkaFlow](https://www.nuget.org/packages/AvroSharp.KafkaFlow) | 1.0.0 | zcsizmadia | KafkaFlow serializers and deserializers for Confluent Schema Registry on AvroSh… |
+| 2026-10-03 05:33:59 | [IPMax](https://www.nuget.org/packages/IPMax) | 0.1.0 | IP-Max | .NET client for the IP-Max GeoIP and IP intelligence API. |
+| 2026-10-03 05:47:12 | [Webority.Ads.Microsoft](https://www.nuget.org/packages/Webority.Ads.Microsoft) | 0.2.0 | Webority Technologies | Microsoft Advertising for Webority.Ads: offline conversions through the Campaig… |
+| 2026-10-03 06:01:20 | [Polhem.JsonRpc.Payload](https://www.nuget.org/packages/Polhem.JsonRpc.Payload) | 1.0.0 | Polhem contributors | Optional payload envelope for Polhem.JsonRpc: codecs, gzip compression, AES-CBC… |
+| 2026-10-03 06:01:21 | [Polhem.JsonRpc.Payload.Server](https://www.nuget.org/packages/Polhem.JsonRpc.Payload.Server) | 1.0.0 | Polhem contributors | Server half of Polhem.JsonRpc.Payload: a dispatcher filter that opens the paylo… |
+| 2026-10-03 06:05:43 | [Webority.Ai.Judgment.AspNetCore](https://www.nuget.org/packages/Webority.Ai.Judgment.AspNetCore) | 0.6.0 | Webority Technologies | Calibrated judgments over HTTP for Webority.Ai.Judgment: one handler a product… |
+| 2026-10-03 06:05:45 | [Webority.Ai.Judgment.Ledger](https://www.nuget.org/packages/Webority.Ai.Judgment.Ledger) | 0.6.0 | Webority Technologies | The judgment ledger for Webority.Ai.Judgment: one row per judgment leg in the p… |
+| 2026-10-03 06:15:29 | [Kombine.Flex.Portal.Client](https://www.nuget.org/packages/Kombine.Flex.Portal.Client) | 0.3.3 | Kombine Technology ApS | Official typed HTTPS/JSON client from Kombine Technology ApS for the public Kom… |
 
 ## Data source
 
