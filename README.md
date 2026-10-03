@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 20:19 UTC
+## Latest list — 2026-10-03 21:18 UTC
 
-New packages created between 2026-10-03 19:21 UTC and 2026-10-03 20:19 UTC.
+New packages created between 2026-10-03 20:19 UTC and 2026-10-03 21:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T20-19-54-453079Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T21-18-43-46128Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 19:31:28 | [SqlChangeTrackingHelper](https://www.nuget.org/packages/SqlChangeTrackingHelper) | 1.0.0 | Tommy Torenius | Makes it easier to read changes from SQL Server Change Tracking the right way:… |
-| 2026-10-03 19:36:23 | [Serinus1.Chess](https://www.nuget.org/packages/Serinus1.Chess) | 1.3.0 | Geras1mleo, Serinus1 | A fork of the Gera.Chess library by Geras1mleo. This fork is maintained by Seri… |
-| 2026-10-03 20:13:56 | [Entuity.Api](https://www.nuget.org/packages/Entuity.Api) | 2.0.257-ge2e9f8b436 | Panoramic Data Limited | A .NET API for Entuity |
+| 2026-10-03 20:22:56 | [Tenantry.Caching](https://www.nuget.org/packages/Tenantry.Caching) | 0.6.0 | Tenantry Contributors | Tenant-aware caching for Tenantry: tenant.IsolateCaches() keys HybridCache entr… |
+| 2026-10-03 20:22:57 | [Tenantry.Http](https://www.nuget.org/packages/Tenantry.Http) | 0.6.0 | Tenantry Contributors | HTTP and gRPC integration for Tenantry: UseTenantry() on an HttpClient or gRPC… |
+| 2026-10-03 20:22:58 | [Tenantry.Options](https://www.nuget.org/packages/Tenantry.Options) | 0.6.0 | Tenantry Contributors | Per-tenant options for Tenantry: tenant.ConfigurePerTenant(...) makes IOptionsS… |
+| 2026-10-03 20:23:48 | [SunamoUwpApps](https://www.nuget.org/packages/SunamoUwpApps) | 26.10.3.1 | www.sunamo.cz | Helpers, popups and controls from the legacy UWP apps library, ported to WinUI 3 |
+| 2026-10-03 20:57:45 | [FullBleed.DotNet](https://www.nuget.org/packages/FullBleed.DotNet) | 0.1.1 | Fullbleed contributors | Idiomatic, dependency-free managed bindings for Fullbleed PDF Engine, including… |
 
 ## Data source
 
