@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-03T09:27:09.397Z,Bladehero.Telegram.Platform.Conversations.EntityFrameworkCore,10.4.0,bladehero,"An Entity Framework Core store for the conversations of Telegram bots built on Bladehero.Telegram.Platform: each user's flow, step, data and run kept in the app's own database, written apart from its unit of work."
+2026-10-03T09:33:52.697Z,RibbonSpace.WinUI,1.1.0,Wiesław Šoltés,"Professional Office-style Ribbon for WinUI 3 (Windows App SDK): classic and simplified layouts, adaptive group resizing, contextual tabs, backstage, Quick Access Toolbar, KeyTips, galleries, color pickers, ScreenTips, command search, customization, toolbars and full MVVM support. Themeable and look…"
+2026-10-03T09:33:52.717Z,Cosmos.Network.Http,2.0.0,Cosmos,HTTP client for Cosmos Gen3 kernels.
+2026-10-03T09:55:11.423Z,ChudoObuv.DemoExam2027.Template,1.0.0,ChudoObuv,"Шаблон решения «Чудо Обувь» (WPF .NET 8 + MS SQL Server): исходный код, скрипт БД с данными, ER-диаграмма, тесты. Установка: dotnet new install ChudoObuv.DemoExam2027.Template; развёртывание: dotnet new chudoobuv -o ChudoObuv"
+2026-10-03T09:58:48.48Z,Aore.Excel,1.0.0,WEI.ZHOU (Willis),"高性能,纯托管 .xlsx 读写库"
+2026-10-03T10:00:56.43Z,FS.GG.SDD.Knowledge,2.1.0,FS.GG,"Concise Git-backed project findings with shared capture, retrieval and history APIs."
+2026-10-03T10:03:43.867Z,Automa,1.0.0,Tezzz,An interpreter for Automating tasks around your computer.
+2026-10-03T10:10:09.083Z,RonSijm.Blazyload.Components.SourceGenerator,1.1.0,Ron Sijm,Generate component identifiers and automatically export shared models into companion contracts assemblies and NuGet packages.

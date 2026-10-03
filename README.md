@@ -12,16 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 09:20 UTC
+## Latest list — 2026-10-03 10:19 UTC
 
-New packages created between 2026-10-03 08:22 UTC and 2026-10-03 09:20 UTC.
+New packages created between 2026-10-03 09:20 UTC and 2026-10-03 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T09-20-53-886902Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T10-19-26-317855Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 08:49:27 | [M6d.Cortex](https://www.nuget.org/packages/M6d.Cortex) | 0.1.0 | M6d.Cortex | Turns an ASP.NET Core application into a Cortex dataset host: a manifest derive… |
-| 2026-10-03 08:53:11 | [EvaluatedApplications.HoloGenome](https://www.nuget.org/packages/EvaluatedApplications.HoloGenome) | 0.1.0 | Evaluated Applications | Encode DNA as phasor holograms whose geometry comes from measured DNA physics.… |
+| 2026-10-03 09:27:09 | [Bladehero.Telegram.Platform.Conversations.EntityFrameworkCore](https://www.nuget.org/packages/Bladehero.Telegram.Platform.Conversations.EntityFrameworkCore) | 10.4.0 | bladehero | An Entity Framework Core store for the conversations of Telegram bots built on… |
+| 2026-10-03 09:33:52 | [RibbonSpace.WinUI](https://www.nuget.org/packages/RibbonSpace.WinUI) | 1.1.0 | Wiesław Šoltés | Professional Office-style Ribbon for WinUI 3 (Windows App SDK): classic and sim… |
+| 2026-10-03 09:33:52 | [Cosmos.Network.Http](https://www.nuget.org/packages/Cosmos.Network.Http) | 2.0.0 | Cosmos | HTTP client for Cosmos Gen3 kernels. |
+| 2026-10-03 09:55:11 | [ChudoObuv.DemoExam2027.Template](https://www.nuget.org/packages/ChudoObuv.DemoExam2027.Template) | 1.0.0 | ChudoObuv | Шаблон решения «Чудо Обувь» (WPF .NET 8 + MS SQL Server): исходный код, скрипт… |
+| 2026-10-03 09:58:48 | [Aore.Excel](https://www.nuget.org/packages/Aore.Excel) | 1.0.0 | WEI.ZHOU (Willis) | 高性能,纯托管 .xlsx 读写库 |
+| 2026-10-03 10:00:56 | [FS.GG.SDD.Knowledge](https://www.nuget.org/packages/FS.GG.SDD.Knowledge) | 2.1.0 | FS.GG | Concise Git-backed project findings with shared capture, retrieval and history… |
+| 2026-10-03 10:03:43 | [Automa](https://www.nuget.org/packages/Automa) | 1.0.0 | Tezzz | An interpreter for Automating tasks around your computer. |
+| 2026-10-03 10:10:09 | [RonSijm.Blazyload.Components.SourceGenerator](https://www.nuget.org/packages/RonSijm.Blazyload.Components.SourceGenerator) | 1.1.0 | Ron Sijm | Generate component identifiers and automatically export shared models into comp… |
 
 ## Data source
 
