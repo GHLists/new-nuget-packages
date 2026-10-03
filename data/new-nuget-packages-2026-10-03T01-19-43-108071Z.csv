@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-10-03T00:20:27.717Z,eduter-cli,1.0.0,Eduter,"Build, validate, and publish Eduter content bundles."
+2026-10-03T00:28:03Z,Microsoft.Orleans.Clustering.TestKit,10.4.0,Microsoft,Framework-neutral direct and model-based conformance tests for Orleans membership table providers.
+2026-10-03T00:29:34.75Z,Matrix.RustSdk.Bindings,0.1.0,Samuel Meenzen,"Unofficial C# bindings for matrix-rust-sdk, generated with UniFFI. The native libraries are shipped separately in the Matrix.RustSdk.Bindings.Native.* packages. Not affiliated with The Matrix.org Foundation."
+2026-10-03T00:29:37.877Z,Matrix.RustSdk.Bindings.Native.Linux,0.1.0,Samuel Meenzen,"Unofficial native matrix-rust-sdk libraries for Matrix.RustSdk.Bindings on Linux (glibc and musl, x64 and arm64). Not affiliated with The Matrix.org Foundation."
+2026-10-03T00:29:38.077Z,Matrix.RustSdk.Bindings.Native.All,0.1.0,Samuel Meenzen,"Unofficial native matrix-rust-sdk libraries for Matrix.RustSdk.Bindings, for all supported platforms. Not affiliated with The Matrix.org Foundation."
+2026-10-03T00:29:40.617Z,Matrix.RustSdk.Bindings.Native.MacOS,0.1.0,Samuel Meenzen,Unofficial native matrix-rust-sdk libraries for Matrix.RustSdk.Bindings on macOS (x64 and arm64). Not affiliated with The Matrix.org Foundation.
+2026-10-03T00:29:42.963Z,Matrix.RustSdk.Bindings.Native.Windows,0.1.0,Samuel Meenzen,Unofficial native matrix-rust-sdk libraries for Matrix.RustSdk.Bindings on Windows (x64 and arm64). Not affiliated with The Matrix.org Foundation.
+2026-10-03T00:34:33.953Z,Novolis.Storage.Ndjson,2026.1.1.41,Novolis,Typed append-only NDJSON store with tolerant reads and atomic replacement.
+2026-10-03T00:37:00.873Z,Novolis.Logging.Ndjson,2026.1.6.29,Novolis,Reusable ILogger provider and rotating NDJSON file sink.
+2026-10-03T00:37:01.363Z,Novolis.Maui.Map,2026.1.1.57,Novolis,Provider-neutral MAUI map view with Web Mercator raster tiles and geographic overlays.
+2026-10-03T00:37:02.127Z,Novolis.Logging.Telemetry,2026.1.6.29,Novolis,Opt-in telemetry events persisted as typed NDJSON records.
+2026-10-03T00:37:04.007Z,Novolis.Maui.Ndjson,2026.1.1.57,Novolis,MAUI slice viewer for large local NDJSON files.
+2026-10-03T00:37:05.857Z,Novolis.Maui.Updates,2026.1.1.57,Novolis,"MAUI update status, notification, and platform-handoff controls for direct-distribution apps."
+2026-10-03T00:46:23.39Z,Novolis.Avalonia.Ndjson,2026.1.6.220,Novolis,Avalonia slice chrome for large local NDJSON files.
+2026-10-03T00:46:33.74Z,Novolis.Avalonia.Updates,2026.1.6.220,Novolis,"Avalonia update status, notification, and handoff controls for direct-distribution apps."
+2026-10-03T00:46:46.593Z,jcoliz.Net.FunctionalTests,1.0.1,jcoliz.FunctionalTests,Base classes and infrastructure for Playwright-based functional tests using NUnit.
+2026-10-03T01:04:45.84Z,Barisozy.Clean.Architecture.Template,1.0.1,barisozy,A .NET 10 Clean Architecture API solution template.
+2026-10-03T01:11:27.05Z,Novolis.Registry,2026.1.1.14,Novolis,"Registry catalog loading, lookup, and provider-neutral service behavior."
+2026-10-03T01:11:29.88Z,Novolis.Registry.Abstractions,2026.1.1.14,Novolis,Registry source and service contracts for package and application catalogs.
+2026-10-03T01:11:30.993Z,Novolis.Registry.GitHub,2026.1.1.14,Novolis,GitHub-hosted registry source for Novolis package and application catalogs.
+2026-10-03T01:11:32.12Z,Novolis.Registry.Primitives,2026.1.1.14,Novolis,"Provider-neutral registry documents, entries, channels, and artifact vocabulary."
+2026-10-03T01:11:33.227Z,Novolis.Registry.Updates,2026.1.1.14,Novolis,"Provider-neutral update contracts, coordination, and verified artifact handling."
+2026-10-03T01:11:35.89Z,Novolis.Time,2026.1.1.9,Novolis,Immutable local-time ranges and duration primitives.
+2026-10-03T01:11:37.017Z,Novolis.Time.Calendar,2026.1.1.9,Novolis,Immutable workday calendars and business-day arithmetic.
+2026-10-03T01:11:38.26Z,Novolis.Time.Calendar.PublicHoliday,2026.1.1.9,Novolis,Offline PublicHoliday-backed public holiday calendars for Novolis worktime.
+2026-10-03T01:11:39.17Z,Novolis.Time.Week,2026.1.1.9,Novolis,ISO and culture-aware week boundaries for immutable time values.
+2026-10-03T01:11:40.233Z,Novolis.Time.Worktime,2026.1.1.9,Novolis,Immutable expected-versus-actual worktime records and flex projections.
+2026-10-03T01:11:41.213Z,Novolis.Time.Worktime.Legal,2026.1.1.9,Novolis,Versioned legal-rule messages and worktime classifications.
