@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 08:22 UTC
+## Latest list — 2026-10-03 09:20 UTC
 
-New packages created between 2026-10-03 07:21 UTC and 2026-10-03 08:22 UTC.
+New packages created between 2026-10-03 08:22 UTC and 2026-10-03 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T08-22-03-952407Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T09-20-53-886902Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 07:49:44 | [Universal.Operative.Sdk.Codex.OpenAI](https://www.nuget.org/packages/Universal.Operative.Sdk.Codex.OpenAI) | 1.0.0 | Andrew Ong | OpenAI image generation backend for the Codex toolset. |
-| 2026-10-03 07:50:01 | [Universal.Operative.Sdk.Codex.OpenAI.ChatGpt](https://www.nuget.org/packages/Universal.Operative.Sdk.Codex.OpenAI.ChatGpt) | 1.0.0 | Andrew Ong | Codex-token image generation backend for the Codex toolset. |
-| 2026-10-03 07:53:22 | [SegregatedStorage.AspNetCore](https://www.nuget.org/packages/SegregatedStorage.AspNetCore) | 2.0.0 | Steffen Skov | Extension to SegregatedStorage adding support for mapping REST endpoints for you |
-| 2026-10-03 08:06:41 | [PostSharp.Tool](https://www.nuget.org/packages/PostSharp.Tool) | 2027.0.2-preview | PostSharp Technologies | The postsharp command line tool: registers licence keys, reads and edits the co… |
+| 2026-10-03 08:49:27 | [M6d.Cortex](https://www.nuget.org/packages/M6d.Cortex) | 0.1.0 | M6d.Cortex | Turns an ASP.NET Core application into a Cortex dataset host: a manifest derive… |
+| 2026-10-03 08:53:11 | [EvaluatedApplications.HoloGenome](https://www.nuget.org/packages/EvaluatedApplications.HoloGenome) | 0.1.0 | Evaluated Applications | Encode DNA as phasor holograms whose geometry comes from measured DNA physics.… |
 
 ## Data source
 

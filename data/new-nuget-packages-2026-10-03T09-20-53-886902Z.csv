@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-03T08:49:27.84Z,M6d.Cortex,0.1.0,M6d.Cortex,Turns an ASP.NET Core application into a Cortex dataset host: a manifest derived from the EF Core model and one governed query endpoint per dataset.
+2026-10-03T08:53:11.863Z,EvaluatedApplications.HoloGenome,0.1.0,Evaluated Applications,"Encode DNA as phasor holograms whose geometry comes from measured DNA physics. Each base is a Phasor symbol face carried on a helical phase that advances by published, sequence-dependent dinucleotide twist (Olson et al. 1998, built in), optionally with a local DNA-shape layer (minor groove width, p…"
