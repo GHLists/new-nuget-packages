@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-03T13:23:09.453Z,QuestViva.Legacy,6.0.0,Alex Warren,"Quest 4 and earlier backward-compatibility layer for Quest Viva, an open-source text adventure game engine."
+2026-10-03T13:23:09.68Z,QuestViva.PlayerCore,6.0.0,Alex Warren,Game player runtime for Quest Viva — load and query .aslx text adventure game files.
+2026-10-03T13:23:09.96Z,QuestViva.Common,6.0.0,Alex Warren,"Shared types and interfaces for Quest Viva, an open-source text adventure game engine."
+2026-10-03T13:23:10.213Z,QuestViva.Engine,6.0.0,Alex Warren,"Core game interpreter for Quest Viva — script execution, expression evaluation, game loading, and built-in functions for text adventure games."
+2026-10-03T13:25:07.523Z,Anton.CodingRules,0.1.0,Anton C.,C# coding rules with Roslyn diagnostics and code fixes.
+2026-10-03T14:11:28.283Z,Valhalla.Bindings,0.1.3,Valhalla.Bindings,Package Description

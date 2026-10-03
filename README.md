@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 13:18 UTC
+## Latest list — 2026-10-03 14:22 UTC
 
-New packages created between 2026-10-03 12:20 UTC and 2026-10-03 13:18 UTC.
+New packages created between 2026-10-03 13:18 UTC and 2026-10-03 14:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T13-18-41-455394Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T14-22-44-799589Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 12:28:15 | [JdkFind.Cli](https://www.nuget.org/packages/JdkFind.Cli) | 0.1.0 | ghostflyby | Locate installed JDKs across Windows, macOS and Linux. |
-| 2026-10-03 12:33:21 | [Shiny.BluetoothLE.Hubs.Client](https://www.nuget.org/packages/Shiny.BluetoothLE.Hubs.Client) | 1.0.0-alpha-0004-gb… | Allan Ritchie | Shiny.BluetoothLE.Hubs client - discovers BLE hub hosts and calls them through… |
-| 2026-10-03 12:33:21 | [Shiny.BluetoothLE.Hubs.Host](https://www.nuget.org/packages/Shiny.BluetoothLE.Hubs.Host) | 1.0.0-alpha-0004-gb… | Allan Ritchie | Shiny.BluetoothLE.Hubs host - SignalR style hubs served over a BLE GATT server,… |
-| 2026-10-03 12:33:22 | [Shiny.BluetoothLE.Hubs](https://www.nuget.org/packages/Shiny.BluetoothLE.Hubs) | 1.0.0-alpha-0004-gb… | Allan Ritchie | SignalR style hubs over Bluetooth LE - shared protocol and the hub source gener… |
-| 2026-10-03 12:38:36 | [SchemaArchitects.AspNetCore.Slo](https://www.nuget.org/packages/SchemaArchitects.AspNetCore.Slo) | 1.0.0 | SchemaArchitects | ASP.NET Core middleware that standardizes per-endpoint latency SLO targets via… |
-| 2026-10-03 12:39:44 | [Mikita.Godot](https://www.nuget.org/packages/Mikita.Godot) | 0.1.0-alpha | Markushonok | Godot-specific extensions and integrations for Mikita. |
-| 2026-10-03 12:40:16 | [Mikita](https://www.nuget.org/packages/Mikita) | 0.1.0-alpha | Markushonok | General-purpose library used by Inkraft. |
-| 2026-10-03 12:52:52 | [danisss9.Lite.QuickJs](https://www.nuget.org/packages/danisss9.Lite.QuickJs) | 0.0.17 | danisss9 | QuickJS native bridge and managed runtime for Lite on Windows x64. |
+| 2026-10-03 13:23:09 | [QuestViva.Legacy](https://www.nuget.org/packages/QuestViva.Legacy) | 6.0.0 | Alex Warren | Quest 4 and earlier backward-compatibility layer for Quest Viva, an open-source… |
+| 2026-10-03 13:23:09 | [QuestViva.PlayerCore](https://www.nuget.org/packages/QuestViva.PlayerCore) | 6.0.0 | Alex Warren | Game player runtime for Quest Viva — load and query .aslx text adventure game f… |
+| 2026-10-03 13:23:09 | [QuestViva.Common](https://www.nuget.org/packages/QuestViva.Common) | 6.0.0 | Alex Warren | Shared types and interfaces for Quest Viva, an open-source text adventure game… |
+| 2026-10-03 13:23:10 | [QuestViva.Engine](https://www.nuget.org/packages/QuestViva.Engine) | 6.0.0 | Alex Warren | Core game interpreter for Quest Viva — script execution, expression evaluation,… |
+| 2026-10-03 13:25:07 | [Anton.CodingRules](https://www.nuget.org/packages/Anton.CodingRules) | 0.1.0 | Anton C. | C# coding rules with Roslyn diagnostics and code fixes. |
+| 2026-10-03 14:11:28 | [Valhalla.Bindings](https://www.nuget.org/packages/Valhalla.Bindings) | 0.1.3 | Valhalla.Bindings | Package Description |
 
 ## Data source
 
