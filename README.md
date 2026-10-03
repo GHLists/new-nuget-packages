@@ -12,21 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 06:21 UTC
+## Latest list — 2026-10-03 07:21 UTC
 
-New packages created between 2026-10-03 05:20 UTC and 2026-10-03 06:21 UTC.
+New packages created between 2026-10-03 06:21 UTC and 2026-10-03 07:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T06-21-44-987065Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T07-21-25-866517Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 05:33:59 | [IPMax](https://www.nuget.org/packages/IPMax) | 0.1.0 | IP-Max | .NET client for the IP-Max GeoIP and IP intelligence API. |
-| 2026-10-03 05:47:12 | [Webority.Ads.Microsoft](https://www.nuget.org/packages/Webority.Ads.Microsoft) | 0.2.0 | Webority Technologies | Microsoft Advertising for Webority.Ads: offline conversions through the Campaig… |
-| 2026-10-03 06:01:20 | [Polhem.JsonRpc.Payload](https://www.nuget.org/packages/Polhem.JsonRpc.Payload) | 1.0.0 | Polhem contributors | Optional payload envelope for Polhem.JsonRpc: codecs, gzip compression, AES-CBC… |
-| 2026-10-03 06:01:21 | [Polhem.JsonRpc.Payload.Server](https://www.nuget.org/packages/Polhem.JsonRpc.Payload.Server) | 1.0.0 | Polhem contributors | Server half of Polhem.JsonRpc.Payload: a dispatcher filter that opens the paylo… |
-| 2026-10-03 06:05:43 | [Webority.Ai.Judgment.AspNetCore](https://www.nuget.org/packages/Webority.Ai.Judgment.AspNetCore) | 0.6.0 | Webority Technologies | Calibrated judgments over HTTP for Webority.Ai.Judgment: one handler a product… |
-| 2026-10-03 06:05:45 | [Webority.Ai.Judgment.Ledger](https://www.nuget.org/packages/Webority.Ai.Judgment.Ledger) | 0.6.0 | Webority Technologies | The judgment ledger for Webority.Ai.Judgment: one row per judgment leg in the p… |
-| 2026-10-03 06:15:29 | [Kombine.Flex.Portal.Client](https://www.nuget.org/packages/Kombine.Flex.Portal.Client) | 0.3.3 | Kombine Technology ApS | Official typed HTTPS/JSON client from Kombine Technology ApS for the public Kom… |
+| 2026-10-03 06:34:55 | [BuildMonitor](https://www.nuget.org/packages/BuildMonitor) | 1.0.0 | https://github.com/SimonCropp… | Cross platform build/CI monitor that runs in the system tray. |
+| 2026-10-03 06:38:53 | [SwartBerg.Mediator.SourceGenerator](https://www.nuget.org/packages/SwartBerg.Mediator.SourceGenerator) | 3.1.0 | SwartBerg Studio | Compile-time handler registration for SwartBerg.Mediator. Generates AddMediator… |
+| 2026-10-03 06:48:51 | [ChromaDotNet.Client.DependencyInjection](https://www.nuget.org/packages/ChromaDotNet.Client.DependencyInjection) | 2.0.0-ci-37105313564 | ChromaDB.Client.DependencyInj… | .NET SDK for Chroma database |
+| 2026-10-03 06:48:52 | [ChromaDotNet.Client](https://www.nuget.org/packages/ChromaDotNet.Client) | 2.0.0-ci-37105313564 | ChromaDB.Client | .NET SDK for Chroma database |
+| 2026-10-03 07:09:05 | [RefurbishedDinosaurs.LegacyFormats](https://www.nuget.org/packages/RefurbishedDinosaurs.LegacyFormats) | 1.0.0 | kibertoad | Bounded decoders for file formats commonly found in legacy games. |
+| 2026-10-03 07:09:06 | [RefurbishedDinosaurs.Media.Fli](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Fli) | 1.0.0 | kibertoad | Bounded indexed FLI animation decoding. |
+| 2026-10-03 07:09:06 | [RefurbishedDinosaurs.Media.Smacker](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Smacker) | 1.0.0 | kibertoad | Bounded managed Smacker container, video and packed audio decoders. |
+| 2026-10-03 07:09:07 | [RefurbishedDinosaurs.Media.Playback](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Playback) | 1.0.0 | kibertoad | Presentation clocks and sequential frame coordination. |
+| 2026-10-03 07:09:08 | [RefurbishedDinosaurs.Core](https://www.nuget.org/packages/RefurbishedDinosaurs.Core) | 1.0.0 | kibertoad | Reusable clean-room game restoration primitives. |
+| 2026-10-03 07:09:08 | [RefurbishedDinosaurs.Media.Avi](https://www.nuget.org/packages/RefurbishedDinosaurs.Media.Avi) | 1.0.0 | kibertoad | Bounded AVI, Cinepak, RLE8 and Microsoft ADPCM decoders. |
 
 ## Data source
 

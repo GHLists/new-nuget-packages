@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-03T06:34:55.3Z,BuildMonitor,1.0.0,https://github.com/SimonCropp/BuildMonitor/graphs/contributors,Cross platform build/CI monitor that runs in the system tray.
+2026-10-03T06:38:53.71Z,SwartBerg.Mediator.SourceGenerator,3.1.0,SwartBerg Studio,"Compile-time handler registration for SwartBerg.Mediator. Generates AddMediatorHandlers() so handlers are registered without reflection, making the mediator trimming and Native AOT compatible."
+2026-10-03T06:48:51.843Z,ChromaDotNet.Client.DependencyInjection,2.0.0-ci-37105313564,ChromaDB.Client.DependencyInjection,.NET SDK for Chroma database
+2026-10-03T06:48:52.597Z,ChromaDotNet.Client,2.0.0-ci-37105313564,ChromaDB.Client,.NET SDK for Chroma database
+2026-10-03T07:09:05.84Z,RefurbishedDinosaurs.LegacyFormats,1.0.0,kibertoad,Bounded decoders for file formats commonly found in legacy games.
+2026-10-03T07:09:06.4Z,RefurbishedDinosaurs.Media.Fli,1.0.0,kibertoad,Bounded indexed FLI animation decoding.
+2026-10-03T07:09:06.967Z,RefurbishedDinosaurs.Media.Smacker,1.0.0,kibertoad,"Bounded managed Smacker container, video and packed audio decoders."
+2026-10-03T07:09:07.557Z,RefurbishedDinosaurs.Media.Playback,1.0.0,kibertoad,Presentation clocks and sequential frame coordination.
+2026-10-03T07:09:08.123Z,RefurbishedDinosaurs.Core,1.0.0,kibertoad,Reusable clean-room game restoration primitives.
+2026-10-03T07:09:08.69Z,RefurbishedDinosaurs.Media.Avi,1.0.0,kibertoad,"Bounded AVI, Cinepak, RLE8 and Microsoft ADPCM decoders."
