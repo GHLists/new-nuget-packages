@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-03T01:36:49.747Z,Shiny.Controls.Keyboard.Shared,1.6.0-beta-0006,Allan Ritchie,"Host-neutral keyboard shortcut engine — gesture parsing and platform display (Ctrl+Shift+A / ⌃⇧A), a Primary modifier that is Cmd on Apple and Ctrl elsewhere, layout-aware matching, chords, scopes with modal precedence, repeat and release tracking, and native key-code tables for Windows, macOS, X11…"
+2026-10-03T01:49:44.69Z,EasyAdminBlazor.Upgrade,2.4.0-preview,gudufy,EasyAdminBlazor 应用在线升级扩展：逐版本增量升级、发布即出包。 不引用本扩展就没有升级功能（footer 不出现「检查更新」、不注册 /health）。
+2026-10-03T02:01:33.137Z,Novolis.Storage.AzureTables,2026.1.1.42,Novolis,Azure Table Storage IRepository provider.
