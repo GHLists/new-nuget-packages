@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-03T12:28:15.28Z,JdkFind.Cli,0.1.0,ghostflyby,"Locate installed JDKs across Windows, macOS and Linux."
+2026-10-03T12:33:21.427Z,Shiny.BluetoothLE.Hubs.Client,1.0.0-alpha-0004-gb…,Allan Ritchie,"Shiny.BluetoothLE.Hubs client - discovers BLE hub hosts and calls them through generated, strongly typed proxies"
+2026-10-03T12:33:21.933Z,Shiny.BluetoothLE.Hubs.Host,1.0.0-alpha-0004-gb…,Allan Ritchie,"Shiny.BluetoothLE.Hubs host - SignalR style hubs served over a BLE GATT server, plus L2CAP file transfers"
+2026-10-03T12:33:22.9Z,Shiny.BluetoothLE.Hubs,1.0.0-alpha-0004-gb…,Allan Ritchie,SignalR style hubs over Bluetooth LE - shared protocol and the hub source generator
+2026-10-03T12:38:36.353Z,SchemaArchitects.AspNetCore.Slo,1.0.0,SchemaArchitects,"ASP.NET Core middleware that standardizes per-endpoint latency SLO targets via appsettings.json and reports them (APM ID, HTTP method, route template, target) to Dynatrace OneAgent with zero SDK dependencies."
+2026-10-03T12:39:44.283Z,Mikita.Godot,0.1.0-alpha,Markushonok,Godot-specific extensions and integrations for Mikita.
+2026-10-03T12:40:16.697Z,Mikita,0.1.0-alpha,Markushonok,General-purpose library used by Inkraft.
+2026-10-03T12:52:52.893Z,danisss9.Lite.QuickJs,0.0.17,danisss9,QuickJS native bridge and managed runtime for Lite on Windows x64.

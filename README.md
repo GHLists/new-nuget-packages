@@ -12,23 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 12:20 UTC
+## Latest list — 2026-10-03 13:18 UTC
 
-New packages created between 2026-10-03 11:20 UTC and 2026-10-03 12:20 UTC.
+New packages created between 2026-10-03 12:20 UTC and 2026-10-03 13:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T12-20-48-479745Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T13-18-41-455394Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 11:22:51 | [RtspViewer](https://www.nuget.org/packages/RtspViewer) | 1.0.2 | GreatBear | RTSP视频显示与录制控件(纯FFmpeg实现,零第三方依赖,H.264高压缩录制,自带ffmpeg.exe,装包即用) |
-| 2026-10-03 11:26:18 | [PRC.Server.Bundle](https://www.nuget.org/packages/PRC.Server.Bundle) | 1.746.0 | Johannes Braumann | Parametric Robot Control (PRC) Server, bundled: the complete, runnable PRC Serv… |
-| 2026-10-03 11:28:54 | [DataFac.Storage.LocalFS](https://www.nuget.org/packages/DataFac.Storage.LocalFS) | 4.0.15-dev | DataFac Contributors | Storage interfaces, types and helpers. |
-| 2026-10-03 11:38:39 | [SumOffice](https://www.nuget.org/packages/SumOffice) | 2026.4.3 | Office SDK | Create and edit XLSX, DOCX and PPTX without Office; use the server to show them… |
-| 2026-10-03 11:46:56 | [AndroidLibrary](https://www.nuget.org/packages/AndroidLibrary) | 0.1.0 | dong | phục vụ cho tool android. c#: u2, advancedshaftadbclient, adb, cdp |
-| 2026-10-03 12:04:23 | [SubZeroDev.Platform.Updater](https://www.nuget.org/packages/SubZeroDev.Platform.Updater) | 0.1.0 | SubZeroDev | UI-independent update lifecycle for Windows .NET applications using public GitH… |
-| 2026-10-03 12:06:30 | [LukasMoeller.Configuration.Toml](https://www.nuget.org/packages/LukasMoeller.Configuration.Toml) | 1.0.0 | Lukas Moeller | TOML configuration provider for Microsoft.Extensions.Configuration, built on To… |
-| 2026-10-03 12:13:20 | [JdkFind](https://www.nuget.org/packages/JdkFind) | 0.1.0 | ghostflyby | Locate installed JDKs across Windows, macOS and Linux. |
-| 2026-10-03 12:14:47 | [Rony.Net.Cli](https://www.nuget.org/packages/Rony.Net.Cli) | 1.4.0 | Mojtaba Kiani | The rony command-line tool for Rony.Net: run a TCP, TLS, UDP or Unix socket moc… |
+| 2026-10-03 12:28:15 | [JdkFind.Cli](https://www.nuget.org/packages/JdkFind.Cli) | 0.1.0 | ghostflyby | Locate installed JDKs across Windows, macOS and Linux. |
+| 2026-10-03 12:33:21 | [Shiny.BluetoothLE.Hubs.Client](https://www.nuget.org/packages/Shiny.BluetoothLE.Hubs.Client) | 1.0.0-alpha-0004-gb… | Allan Ritchie | Shiny.BluetoothLE.Hubs client - discovers BLE hub hosts and calls them through… |
+| 2026-10-03 12:33:21 | [Shiny.BluetoothLE.Hubs.Host](https://www.nuget.org/packages/Shiny.BluetoothLE.Hubs.Host) | 1.0.0-alpha-0004-gb… | Allan Ritchie | Shiny.BluetoothLE.Hubs host - SignalR style hubs served over a BLE GATT server,… |
+| 2026-10-03 12:33:22 | [Shiny.BluetoothLE.Hubs](https://www.nuget.org/packages/Shiny.BluetoothLE.Hubs) | 1.0.0-alpha-0004-gb… | Allan Ritchie | SignalR style hubs over Bluetooth LE - shared protocol and the hub source gener… |
+| 2026-10-03 12:38:36 | [SchemaArchitects.AspNetCore.Slo](https://www.nuget.org/packages/SchemaArchitects.AspNetCore.Slo) | 1.0.0 | SchemaArchitects | ASP.NET Core middleware that standardizes per-endpoint latency SLO targets via… |
+| 2026-10-03 12:39:44 | [Mikita.Godot](https://www.nuget.org/packages/Mikita.Godot) | 0.1.0-alpha | Markushonok | Godot-specific extensions and integrations for Mikita. |
+| 2026-10-03 12:40:16 | [Mikita](https://www.nuget.org/packages/Mikita) | 0.1.0-alpha | Markushonok | General-purpose library used by Inkraft. |
+| 2026-10-03 12:52:52 | [danisss9.Lite.QuickJs](https://www.nuget.org/packages/danisss9.Lite.QuickJs) | 0.0.17 | danisss9 | QuickJS native bridge and managed runtime for Lite on Windows x64. |
 
 ## Data source
 
