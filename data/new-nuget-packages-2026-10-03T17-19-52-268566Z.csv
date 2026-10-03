@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-03T16:36:39.17Z,SunamoWshShortcut,26.10.3.1,www.sunamo.cz,Package Description
+2026-10-03T16:39:42.89Z,Swevo.AutoAuth.Analyzers,1.0.0,Justin Bannister,Roslyn analyzers for insecure AutoAuth/OpenIddict configuration patterns.
+2026-10-03T16:51:24.263Z,Config233,0.2.0,neko233-com,"Atomic configuration snapshots, JSON/TSV readers, typed indexes and cross-table validation for C# game services."
+2026-10-03T16:53:25.143Z,Ioc233,0.2.0,neko233-com,Explicit-instance dependency injection and deterministic startup lifecycle for C# game frameworks.
+2026-10-03T16:54:45.553Z,Rpc233,0.2.0,neko233-com,"Bounded binary HTTP RPC, method dispatch, deadlines and cancellation for C# game services."
+2026-10-03T16:55:40.167Z,ByteMsg233.Server,1.1.0,neko233-com,"Bounded ByteMsg233 binary serialization runtime for C# game servers, with Go wire interoperability."
+2026-10-03T16:57:03.843Z,ByteMsg233.Unity,1.1.0,neko233-com,"ByteMsg233 binary serialization runtime for Unity and C#, with reusable buffers and bounded decoding."
+2026-10-03T17:14:31.187Z,SRF.Gpt.Testing,0.8.0,John P Kosh,"Test support for SRF.Gpt consumers: scripted fake chat, embedding, image and speech clients, a record/replay transport for the OpenAI pipeline with secret redaction, a LiveGptFact attribute that skips unless a live key is configured, and an evaluation harness on Microsoft.Extensions.AI.Evaluation.…"
+2026-10-03T17:14:32.43Z,SRF.Gpt.Azure,0.8.0,John P Kosh,"Azure OpenAI profiles for SRF.Gpt: the unified /openai/v1/ endpoint with Microsoft Entra ID (DefaultAzureCredential or managed identity) through the same OpenAI SDK, so one SRF.Gpt configuration serves OpenAI-direct and Azure-governed consumers. Depends only on SRF.Gpt and Azure.Identity."
