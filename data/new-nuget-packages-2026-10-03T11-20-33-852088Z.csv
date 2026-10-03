@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-03T10:24:18.163Z,ChudoObuv.DemoExam2027.Project,1.0.0,ChudoObuv,Проект «Чудо Обувь» (WPF .NET Framework 4.8 + Entity Framework 6 + MS SQL Server) для демоэкзамена 09.02.07. Установите пакет в пустой проект «Приложение WPF (.NET Framework)» (формат packages.config) — все файлы проекта будут добавлены автоматически. Затем выполните скрипт БД и подключите модель A…
+2026-10-03T10:40:15.817Z,KeelMatrix.MetricBudget,0.1.0,KeelMatrix,"Verify observed metric cardinality in .NET tests and CI. Observe the metric series the exercised workload actually emits, count the distinct values each tag key produced, and fail when an instrument exceeds an explicit observed-series or per-tag distinct-value budget."
+2026-10-03T11:02:40.487Z,isRock.VoiceInput,1.0.0,isRock.VoiceInput,Windows console push-to-talk dictation using MAI-Transcribe-2 with Taiwan Traditional Chinese conversion.
+2026-10-03T11:11:05.177Z,Botassembly.ThinkThen,0.1.1,ThinkThen contributors,Linux C ABI facade; install matching native archive separately
+2026-10-03T11:13:32.703Z,Novolis.Storage.AzureCombinedStorage,2026.1.1.48,Novolis,Preview aggregate storage over Azure Table Storage and Azure Blob Storage.
+2026-10-03T11:13:35.963Z,Novolis.Storage.Indexing,2026.1.1.48,Novolis,Experimental revision-aware indexing infrastructure for Novolis storage providers.
+2026-10-03T11:13:40.027Z,Novolis.Storage.Query,2026.1.1.48,Novolis,Provider-independent query contracts and finite query execution for Novolis storage.

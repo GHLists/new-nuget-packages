@@ -12,22 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 10:19 UTC
+## Latest list — 2026-10-03 11:20 UTC
 
-New packages created between 2026-10-03 09:20 UTC and 2026-10-03 10:19 UTC.
+New packages created between 2026-10-03 10:19 UTC and 2026-10-03 11:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T10-19-26-317855Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T11-20-33-852088Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 09:27:09 | [Bladehero.Telegram.Platform.Conversations.EntityFrameworkCore](https://www.nuget.org/packages/Bladehero.Telegram.Platform.Conversations.EntityFrameworkCore) | 10.4.0 | bladehero | An Entity Framework Core store for the conversations of Telegram bots built on… |
-| 2026-10-03 09:33:52 | [RibbonSpace.WinUI](https://www.nuget.org/packages/RibbonSpace.WinUI) | 1.1.0 | Wiesław Šoltés | Professional Office-style Ribbon for WinUI 3 (Windows App SDK): classic and sim… |
-| 2026-10-03 09:33:52 | [Cosmos.Network.Http](https://www.nuget.org/packages/Cosmos.Network.Http) | 2.0.0 | Cosmos | HTTP client for Cosmos Gen3 kernels. |
-| 2026-10-03 09:55:11 | [ChudoObuv.DemoExam2027.Template](https://www.nuget.org/packages/ChudoObuv.DemoExam2027.Template) | 1.0.0 | ChudoObuv | Шаблон решения «Чудо Обувь» (WPF .NET 8 + MS SQL Server): исходный код, скрипт… |
-| 2026-10-03 09:58:48 | [Aore.Excel](https://www.nuget.org/packages/Aore.Excel) | 1.0.0 | WEI.ZHOU (Willis) | 高性能,纯托管 .xlsx 读写库 |
-| 2026-10-03 10:00:56 | [FS.GG.SDD.Knowledge](https://www.nuget.org/packages/FS.GG.SDD.Knowledge) | 2.1.0 | FS.GG | Concise Git-backed project findings with shared capture, retrieval and history… |
-| 2026-10-03 10:03:43 | [Automa](https://www.nuget.org/packages/Automa) | 1.0.0 | Tezzz | An interpreter for Automating tasks around your computer. |
-| 2026-10-03 10:10:09 | [RonSijm.Blazyload.Components.SourceGenerator](https://www.nuget.org/packages/RonSijm.Blazyload.Components.SourceGenerator) | 1.1.0 | Ron Sijm | Generate component identifiers and automatically export shared models into comp… |
+| 2026-10-03 10:24:18 | [ChudoObuv.DemoExam2027.Project](https://www.nuget.org/packages/ChudoObuv.DemoExam2027.Project) | 1.0.0 | ChudoObuv | Проект «Чудо Обувь» (WPF .NET Framework 4.8 + Entity Framework 6 + MS SQL Serve… |
+| 2026-10-03 10:40:15 | [KeelMatrix.MetricBudget](https://www.nuget.org/packages/KeelMatrix.MetricBudget) | 0.1.0 | KeelMatrix | Verify observed metric cardinality in .NET tests and CI. Observe the metric ser… |
+| 2026-10-03 11:02:40 | [isRock.VoiceInput](https://www.nuget.org/packages/isRock.VoiceInput) | 1.0.0 | isRock.VoiceInput | Windows console push-to-talk dictation using MAI-Transcribe-2 with Taiwan Tradi… |
+| 2026-10-03 11:11:05 | [Botassembly.ThinkThen](https://www.nuget.org/packages/Botassembly.ThinkThen) | 0.1.1 | ThinkThen contributors | Linux C ABI facade; install matching native archive separately |
+| 2026-10-03 11:13:32 | [Novolis.Storage.AzureCombinedStorage](https://www.nuget.org/packages/Novolis.Storage.AzureCombinedStorage) | 2026.1.1.48 | Novolis | Preview aggregate storage over Azure Table Storage and Azure Blob Storage. |
+| 2026-10-03 11:13:35 | [Novolis.Storage.Indexing](https://www.nuget.org/packages/Novolis.Storage.Indexing) | 2026.1.1.48 | Novolis | Experimental revision-aware indexing infrastructure for Novolis storage provide… |
+| 2026-10-03 11:13:40 | [Novolis.Storage.Query](https://www.nuget.org/packages/Novolis.Storage.Query) | 2026.1.1.48 | Novolis | Provider-independent query contracts and finite query execution for Novolis sto… |
 
 ## Data source
 
