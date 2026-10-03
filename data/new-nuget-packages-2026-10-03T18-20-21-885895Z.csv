@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-03T17:22:55.243Z,McpSpan,0.1.0,Kacper Zatoń,"Self-hosted analytics for MCP servers: which tools, resources and prompts get used, by which client, how fast, and why they fail."
+2026-10-03T17:30:30.103Z,DaffyDuo,0.1.0,TroBeeOne LLC,"A SQL Server gateway that gives one client connection up to three SQL Server connections behind it. Clients connect to DaffyDuo as if it were SQL Server, with a DaffyDuo login; each login starts on its default connection and switches with EXEC daffy.connect 'name' - in SSMS, in code, in any client.…"
+2026-10-03T17:33:28.933Z,SourceGenMediator.Abstractions,1.0.0,Ramesh Kumar,"Public contracts for SourceGenMediator: requests, commands, queries, notifications, streams, and pipeline behaviors."
+2026-10-03T17:33:29.233Z,SourceGenMediator,1.0.0,Ramesh Kumar,"Compile-time, reflection-free, NativeAOT-safe mediator. Install this package to get the abstractions, runtime, DI integration, and source generator."
+2026-10-03T17:33:29.54Z,SourceGenMediator.Generator,1.0.0,Ramesh Kumar,Roslyn source generator for SourceGenMediator: discovers handlers and emits the dispatch map and DI registrations.
+2026-10-03T17:33:29.77Z,SourceGenMediator.DependencyInjection,1.0.0,Ramesh Kumar,Dependency-injection integration for SourceGenMediator (Microsoft.Extensions.DependencyInjection).
+2026-10-03T17:33:30.09Z,SourceGenMediator.Runtime,1.0.0,Ramesh Kumar,AOT-safe runtime for SourceGenMediator: generated-dispatch mediator and notification publishers.
+2026-10-03T17:55:05.06Z,ManagedCode.Storage.Cartograph,10.0.15,ManagedCode,Read-only Storage provider for files inside Cartograph artifacts.
+2026-10-03T18:03:29.08Z,Benten.PassCode,1.0.0,Huzefa Karachiwala,"Benten's native passcode engine for .NET, part of the Benten Authentication and Authorization Platform. Includes prebuilt native binaries for Windows x64 (.NET 8), Android and iOS (.NET 9)."
+2026-10-03T18:13:46.69Z,Humanizexternity,0.1.0,Eduardo Zitinho,Humanize any measure. 1024 MB to 1 GB. 1500 g to 1.5 kg. 3661 s to 1 h 1 min 1 s.

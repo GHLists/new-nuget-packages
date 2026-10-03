@@ -12,23 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 17:19 UTC
+## Latest list — 2026-10-03 18:20 UTC
 
-New packages created between 2026-10-03 16:21 UTC and 2026-10-03 17:19 UTC.
+New packages created between 2026-10-03 17:19 UTC and 2026-10-03 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T17-19-52-268566Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T18-20-21-885895Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 16:36:39 | [SunamoWshShortcut](https://www.nuget.org/packages/SunamoWshShortcut) | 26.10.3.1 | www.sunamo.cz | Package Description |
-| 2026-10-03 16:39:42 | [Swevo.AutoAuth.Analyzers](https://www.nuget.org/packages/Swevo.AutoAuth.Analyzers) | 1.0.0 | Justin Bannister | Roslyn analyzers for insecure AutoAuth/OpenIddict configuration patterns. |
-| 2026-10-03 16:51:24 | [Config233](https://www.nuget.org/packages/Config233) | 0.2.0 | neko233-com | Atomic configuration snapshots, JSON/TSV readers, typed indexes and cross-table… |
-| 2026-10-03 16:53:25 | [Ioc233](https://www.nuget.org/packages/Ioc233) | 0.2.0 | neko233-com | Explicit-instance dependency injection and deterministic startup lifecycle for… |
-| 2026-10-03 16:54:45 | [Rpc233](https://www.nuget.org/packages/Rpc233) | 0.2.0 | neko233-com | Bounded binary HTTP RPC, method dispatch, deadlines and cancellation for C# gam… |
-| 2026-10-03 16:55:40 | [ByteMsg233.Server](https://www.nuget.org/packages/ByteMsg233.Server) | 1.1.0 | neko233-com | Bounded ByteMsg233 binary serialization runtime for C# game servers, with Go wi… |
-| 2026-10-03 16:57:03 | [ByteMsg233.Unity](https://www.nuget.org/packages/ByteMsg233.Unity) | 1.1.0 | neko233-com | ByteMsg233 binary serialization runtime for Unity and C#, with reusable buffers… |
-| 2026-10-03 17:14:31 | [SRF.Gpt.Testing](https://www.nuget.org/packages/SRF.Gpt.Testing) | 0.8.0 | John P Kosh | Test support for SRF.Gpt consumers: scripted fake chat, embedding, image and sp… |
-| 2026-10-03 17:14:32 | [SRF.Gpt.Azure](https://www.nuget.org/packages/SRF.Gpt.Azure) | 0.8.0 | John P Kosh | Azure OpenAI profiles for SRF.Gpt: the unified /openai/v1/ endpoint with Micros… |
+| 2026-10-03 17:22:55 | [McpSpan](https://www.nuget.org/packages/McpSpan) | 0.1.0 | Kacper Zatoń | Self-hosted analytics for MCP servers: which tools, resources and prompts get u… |
+| 2026-10-03 17:30:30 | [DaffyDuo](https://www.nuget.org/packages/DaffyDuo) | 0.1.0 | TroBeeOne LLC | A SQL Server gateway that gives one client connection up to three SQL Server co… |
+| 2026-10-03 17:33:28 | [SourceGenMediator.Abstractions](https://www.nuget.org/packages/SourceGenMediator.Abstractions) | 1.0.0 | Ramesh Kumar | Public contracts for SourceGenMediator: requests, commands, queries, notificati… |
+| 2026-10-03 17:33:29 | [SourceGenMediator](https://www.nuget.org/packages/SourceGenMediator) | 1.0.0 | Ramesh Kumar | Compile-time, reflection-free, NativeAOT-safe mediator. Install this package to… |
+| 2026-10-03 17:33:29 | [SourceGenMediator.Generator](https://www.nuget.org/packages/SourceGenMediator.Generator) | 1.0.0 | Ramesh Kumar | Roslyn source generator for SourceGenMediator: discovers handlers and emits the… |
+| 2026-10-03 17:33:29 | [SourceGenMediator.DependencyInjection](https://www.nuget.org/packages/SourceGenMediator.DependencyInjection) | 1.0.0 | Ramesh Kumar | Dependency-injection integration for SourceGenMediator (Microsoft.Extensions.De… |
+| 2026-10-03 17:33:30 | [SourceGenMediator.Runtime](https://www.nuget.org/packages/SourceGenMediator.Runtime) | 1.0.0 | Ramesh Kumar | AOT-safe runtime for SourceGenMediator: generated-dispatch mediator and notific… |
+| 2026-10-03 17:55:05 | [ManagedCode.Storage.Cartograph](https://www.nuget.org/packages/ManagedCode.Storage.Cartograph) | 10.0.15 | ManagedCode | Read-only Storage provider for files inside Cartograph artifacts. |
+| 2026-10-03 18:03:29 | [Benten.PassCode](https://www.nuget.org/packages/Benten.PassCode) | 1.0.0 | Huzefa Karachiwala | Benten's native passcode engine for .NET, part of the Benten Authentication and… |
+| 2026-10-03 18:13:46 | [Humanizexternity](https://www.nuget.org/packages/Humanizexternity) | 0.1.0 | Eduardo Zitinho | Humanize any measure. 1024 MB to 1 GB. 1500 g to 1.5 kg. 3661 s to 1 h 1 min 1… |
 
 ## Data source
 
