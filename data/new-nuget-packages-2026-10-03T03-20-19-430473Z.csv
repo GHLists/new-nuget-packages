@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-03T02:43:42.847Z,BYO.Integrations,0.38.0-g44c8ceaa36,BYO.Integrations,Package Description
+2026-10-03T02:45:40.223Z,GamePassStorage,0.1.1,Christopher van Rooyen,"A game-agnostic reader/writer for Xbox Connected Storage (wgs) save folders used by Game Pass titles: containers.index, container manifests, blobs, ETag and sync-state handling, snapshots, orphan discovery and safe write ordering. Game-specific payload handling plugs in through adapter interfaces."
+2026-10-03T02:45:40.93Z,GamePassStorage.Tool,0.1.1,Christopher van Rooyen,"Command-line tool for Game Pass (Xbox Connected Storage, ""wgs"") save folders: list containers, diagnose health, extract and replace blobs, take whole-folder backups, and fingerprint a store before and after a cloud sync."
+2026-10-03T02:45:41.557Z,GamePassStorage.Adapters.AbioticFactor,0.1.1,Christopher van Rooyen,"Game adapter for Abiotic Factor's Game Pass saves: classifies containers, reads a world bundle's table of contents without decompressing it, decodes the settings ini, names orphaned worlds and refuses writes while the game runs."

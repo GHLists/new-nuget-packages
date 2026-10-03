@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 02:20 UTC
+## Latest list — 2026-10-03 03:20 UTC
 
-New packages created between 2026-10-03 01:19 UTC and 2026-10-03 02:20 UTC.
+New packages created between 2026-10-03 02:20 UTC and 2026-10-03 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T02-20-31-653596Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T03-20-19-430473Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 01:36:49 | [Shiny.Controls.Keyboard.Shared](https://www.nuget.org/packages/Shiny.Controls.Keyboard.Shared) | 1.6.0-beta-0006 | Allan Ritchie | Host-neutral keyboard shortcut engine — gesture parsing and platform display (C… |
-| 2026-10-03 01:49:44 | [EasyAdminBlazor.Upgrade](https://www.nuget.org/packages/EasyAdminBlazor.Upgrade) | 2.4.0-preview | gudufy | EasyAdminBlazor 应用在线升级扩展：逐版本增量升级、发布即出包。 不引用本扩展就没有升级功能（footer 不出现「检查更新」、不注册 /hea… |
-| 2026-10-03 02:01:33 | [Novolis.Storage.AzureTables](https://www.nuget.org/packages/Novolis.Storage.AzureTables) | 2026.1.1.42 | Novolis | Azure Table Storage IRepository provider. |
+| 2026-10-03 02:43:42 | [BYO.Integrations](https://www.nuget.org/packages/BYO.Integrations) | 0.38.0-g44c8ceaa36 | BYO.Integrations | Package Description |
+| 2026-10-03 02:45:40 | [GamePassStorage](https://www.nuget.org/packages/GamePassStorage) | 0.1.1 | Christopher van Rooyen | A game-agnostic reader/writer for Xbox Connected Storage (wgs) save folders use… |
+| 2026-10-03 02:45:40 | [GamePassStorage.Tool](https://www.nuget.org/packages/GamePassStorage.Tool) | 0.1.1 | Christopher van Rooyen | Command-line tool for Game Pass (Xbox Connected Storage, "wgs") save folders: l… |
+| 2026-10-03 02:45:41 | [GamePassStorage.Adapters.AbioticFactor](https://www.nuget.org/packages/GamePassStorage.Adapters.AbioticFactor) | 0.1.1 | Christopher van Rooyen | Game adapter for Abiotic Factor's Game Pass saves: classifies containers, reads… |
 
 ## Data source
 
