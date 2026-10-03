@@ -12,21 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 11:20 UTC
+## Latest list — 2026-10-03 12:20 UTC
 
-New packages created between 2026-10-03 10:19 UTC and 2026-10-03 11:20 UTC.
+New packages created between 2026-10-03 11:20 UTC and 2026-10-03 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T11-20-33-852088Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T12-20-48-479745Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 10:24:18 | [ChudoObuv.DemoExam2027.Project](https://www.nuget.org/packages/ChudoObuv.DemoExam2027.Project) | 1.0.0 | ChudoObuv | Проект «Чудо Обувь» (WPF .NET Framework 4.8 + Entity Framework 6 + MS SQL Serve… |
-| 2026-10-03 10:40:15 | [KeelMatrix.MetricBudget](https://www.nuget.org/packages/KeelMatrix.MetricBudget) | 0.1.0 | KeelMatrix | Verify observed metric cardinality in .NET tests and CI. Observe the metric ser… |
-| 2026-10-03 11:02:40 | [isRock.VoiceInput](https://www.nuget.org/packages/isRock.VoiceInput) | 1.0.0 | isRock.VoiceInput | Windows console push-to-talk dictation using MAI-Transcribe-2 with Taiwan Tradi… |
-| 2026-10-03 11:11:05 | [Botassembly.ThinkThen](https://www.nuget.org/packages/Botassembly.ThinkThen) | 0.1.1 | ThinkThen contributors | Linux C ABI facade; install matching native archive separately |
-| 2026-10-03 11:13:32 | [Novolis.Storage.AzureCombinedStorage](https://www.nuget.org/packages/Novolis.Storage.AzureCombinedStorage) | 2026.1.1.48 | Novolis | Preview aggregate storage over Azure Table Storage and Azure Blob Storage. |
-| 2026-10-03 11:13:35 | [Novolis.Storage.Indexing](https://www.nuget.org/packages/Novolis.Storage.Indexing) | 2026.1.1.48 | Novolis | Experimental revision-aware indexing infrastructure for Novolis storage provide… |
-| 2026-10-03 11:13:40 | [Novolis.Storage.Query](https://www.nuget.org/packages/Novolis.Storage.Query) | 2026.1.1.48 | Novolis | Provider-independent query contracts and finite query execution for Novolis sto… |
+| 2026-10-03 11:22:51 | [RtspViewer](https://www.nuget.org/packages/RtspViewer) | 1.0.2 | GreatBear | RTSP视频显示与录制控件(纯FFmpeg实现,零第三方依赖,H.264高压缩录制,自带ffmpeg.exe,装包即用) |
+| 2026-10-03 11:26:18 | [PRC.Server.Bundle](https://www.nuget.org/packages/PRC.Server.Bundle) | 1.746.0 | Johannes Braumann | Parametric Robot Control (PRC) Server, bundled: the complete, runnable PRC Serv… |
+| 2026-10-03 11:28:54 | [DataFac.Storage.LocalFS](https://www.nuget.org/packages/DataFac.Storage.LocalFS) | 4.0.15-dev | DataFac Contributors | Storage interfaces, types and helpers. |
+| 2026-10-03 11:38:39 | [SumOffice](https://www.nuget.org/packages/SumOffice) | 2026.4.3 | Office SDK | Create and edit XLSX, DOCX and PPTX without Office; use the server to show them… |
+| 2026-10-03 11:46:56 | [AndroidLibrary](https://www.nuget.org/packages/AndroidLibrary) | 0.1.0 | dong | phục vụ cho tool android. c#: u2, advancedshaftadbclient, adb, cdp |
+| 2026-10-03 12:04:23 | [SubZeroDev.Platform.Updater](https://www.nuget.org/packages/SubZeroDev.Platform.Updater) | 0.1.0 | SubZeroDev | UI-independent update lifecycle for Windows .NET applications using public GitH… |
+| 2026-10-03 12:06:30 | [LukasMoeller.Configuration.Toml](https://www.nuget.org/packages/LukasMoeller.Configuration.Toml) | 1.0.0 | Lukas Moeller | TOML configuration provider for Microsoft.Extensions.Configuration, built on To… |
+| 2026-10-03 12:13:20 | [JdkFind](https://www.nuget.org/packages/JdkFind) | 0.1.0 | ghostflyby | Locate installed JDKs across Windows, macOS and Linux. |
+| 2026-10-03 12:14:47 | [Rony.Net.Cli](https://www.nuget.org/packages/Rony.Net.Cli) | 1.4.0 | Mojtaba Kiani | The rony command-line tool for Rony.Net: run a TCP, TLS, UDP or Unix socket moc… |
 
 ## Data source
 
