@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-02T23:21:58.507Z,ManagedCode.SkillOpt,0.1.0,ManagedCode,In-process text-space skill optimization using Microsoft.Extensions.AI.
+2026-10-02T23:28:39.37Z,ManagedCode.Presidio.Evaluation,0.0.2,ManagedCode,Presidio evidence sanitization and Microsoft.Extensions.AI response privacy evaluation.
+2026-10-02T23:29:07.52Z,Periphery.Ble.InTheHand,5.0.0,Charles Lee,"ADR-0085: joins a Periphery DeviceInfo for a Bluetooth LE device to 32feet's InTheHand.BluetoothLE BluetoothDevice, for GATT access, on Windows and Linux. On Windows, target net10.0-windows10.0.19041.0 or later. InTheHand.BluetoothLE is a third-party runtime dependency of this package only."
+2026-10-02T23:33:28.403Z,Majorsilence.Forms.Essentials,26.6.0,Majorsilence,"Platform capabilities that carry per-platform dependencies the Majorsilence.Forms core deliberately avoids: secure storage (Android Keystore, iOS Keychain, Windows Credential Manager, macOS Keychain Services, Linux Secret Service) and text to speech (Android TextToSpeech, iOS AVSpeechSynthesizer, a…"
+2026-10-03T00:10:05.133Z,NodeAec.Licensing.Lite,0.1.0,Node.aec,"Offline Ed25519 verification with no network for Node.aec Revit plugins (fail-closed, no HTTP)."
+2026-10-03T00:12:40.437Z,NodeAec.Templates.RevitPlugin,0.1.0,Node.aec,"Autodesk Revit add-in template with Node.aec offline license verification built in (shared Node.aec tab, fail-closed gate, RevitYear matrix 2023-2027, release + installer scripts)."
