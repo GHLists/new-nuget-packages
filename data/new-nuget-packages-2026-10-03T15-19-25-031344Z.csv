@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-03T14:25:30.937Z,StyleCopNext.Analyzers,1.0.1,"Sam Harwell et. al., Alexander Efremov",StyleCop's rules as Roslyn analyzers and code fixes. A maintained continuation of StyleCop.Analyzers (https://github.com/DotNetAnalyzers/StyleCopAnalyzers) with the same SA rules and stylecop.json settings.
+2026-10-03T14:45:27.407Z,2dog.android-arm64,4.7.2.15,Moritz Voss,Experimental Android arm64 runtime variants. Requires 2dog.android for Java host support.
+2026-10-03T14:45:29.963Z,2dog.android-arm64.debug,4.7.2.15,Moritz Voss,Experimental Android arm64 debug Godot JNI runtime and C++ runtime for .NET Android hosts.
+2026-10-03T14:45:32.32Z,2dog.android-arm64.release,4.7.2.15,Moritz Voss,Experimental Android arm64 release Godot JNI runtime and C++ runtime for .NET Android hosts.
+2026-10-03T14:45:33.283Z,2dog.android-x64,4.7.2.15,Moritz Voss,Experimental Android x64 runtime variants. Requires 2dog.android for Java host support.
+2026-10-03T14:45:35.623Z,2dog.android-x64.debug,4.7.2.15,Moritz Voss,Experimental Android x64 debug Godot JNI runtime and C++ runtime for .NET Android hosts.
+2026-10-03T14:45:38.06Z,2dog.android-x64.release,4.7.2.15,Moritz Voss,Experimental Android x64 release Godot JNI runtime and C++ runtime for .NET Android hosts.
+2026-10-03T14:45:39.34Z,2dog.android,4.7.2.15,Moritz Voss,Experimental Android Java host and APK build targets for 2dog. Requires an Android runtime meta package and 2dog.engine.
+2026-10-03T15:04:10.57Z,PolyhydraGames.Auth.Abstractions,1.1.7,Polyhydra Games,OAuth contracts and token models shared by PolyhydraGames auth flows.
+2026-10-03T15:04:12.43Z,PolyhydraGames.Platforms.Abstractions,1.1.7,Polyhydra Games,Shared platform identity and user primitives for PolyhydraGames adapters.
+2026-10-03T15:04:14.55Z,PolyhydraGames.Chat.Abstractions,1.1.7,Polyhydra Games,Chat DTOs shared by PolyhydraGames chat adapters and services.
+2026-10-03T15:04:16.33Z,PolyhydraGames.Commands.Core,1.1.7,Polyhydra Games,Command parsing and command outcome helpers for PolyhydraGames chat surfaces.
+2026-10-03T15:04:18.173Z,PolyhydraGames.PostOffice.Abstractions,1.1.7,Polyhydra Games,Contracts for routing inbound and outbound messages across platform adapters.
+2026-10-03T15:04:20.007Z,PolyhydraGames.PostOffice.Core,1.1.7,Polyhydra Games,Core Post Office routing and sink/source helpers for PolyhydraGames adapters.
+2026-10-03T15:05:32.38Z,PolyhydraGames.APi.Youtube,2.0.0,Breadcrumb,A set of helpers to simplify analyzing youtube channel videos.

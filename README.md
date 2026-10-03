@@ -12,20 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 14:22 UTC
+## Latest list — 2026-10-03 15:19 UTC
 
-New packages created between 2026-10-03 13:18 UTC and 2026-10-03 14:22 UTC.
+New packages created between 2026-10-03 14:22 UTC and 2026-10-03 15:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-03T14-22-44-799589Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-03T15-19-25-031344Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-03 13:23:09 | [QuestViva.Legacy](https://www.nuget.org/packages/QuestViva.Legacy) | 6.0.0 | Alex Warren | Quest 4 and earlier backward-compatibility layer for Quest Viva, an open-source… |
-| 2026-10-03 13:23:09 | [QuestViva.PlayerCore](https://www.nuget.org/packages/QuestViva.PlayerCore) | 6.0.0 | Alex Warren | Game player runtime for Quest Viva — load and query .aslx text adventure game f… |
-| 2026-10-03 13:23:09 | [QuestViva.Common](https://www.nuget.org/packages/QuestViva.Common) | 6.0.0 | Alex Warren | Shared types and interfaces for Quest Viva, an open-source text adventure game… |
-| 2026-10-03 13:23:10 | [QuestViva.Engine](https://www.nuget.org/packages/QuestViva.Engine) | 6.0.0 | Alex Warren | Core game interpreter for Quest Viva — script execution, expression evaluation,… |
-| 2026-10-03 13:25:07 | [Anton.CodingRules](https://www.nuget.org/packages/Anton.CodingRules) | 0.1.0 | Anton C. | C# coding rules with Roslyn diagnostics and code fixes. |
-| 2026-10-03 14:11:28 | [Valhalla.Bindings](https://www.nuget.org/packages/Valhalla.Bindings) | 0.1.3 | Valhalla.Bindings | Package Description |
+| 2026-10-03 14:25:30 | [StyleCopNext.Analyzers](https://www.nuget.org/packages/StyleCopNext.Analyzers) | 1.0.1 | Sam Harwell et. al., Alexande… | StyleCop's rules as Roslyn analyzers and code fixes. A maintained continuation… |
+| 2026-10-03 14:45:27 | [2dog.android-arm64](https://www.nuget.org/packages/2dog.android-arm64) | 4.7.2.15 | Moritz Voss | Experimental Android arm64 runtime variants. Requires 2dog.android for Java hos… |
+| 2026-10-03 14:45:29 | [2dog.android-arm64.debug](https://www.nuget.org/packages/2dog.android-arm64.debug) | 4.7.2.15 | Moritz Voss | Experimental Android arm64 debug Godot JNI runtime and C++ runtime for .NET And… |
+| 2026-10-03 14:45:32 | [2dog.android-arm64.release](https://www.nuget.org/packages/2dog.android-arm64.release) | 4.7.2.15 | Moritz Voss | Experimental Android arm64 release Godot JNI runtime and C++ runtime for .NET A… |
+| 2026-10-03 14:45:33 | [2dog.android-x64](https://www.nuget.org/packages/2dog.android-x64) | 4.7.2.15 | Moritz Voss | Experimental Android x64 runtime variants. Requires 2dog.android for Java host… |
+| 2026-10-03 14:45:35 | [2dog.android-x64.debug](https://www.nuget.org/packages/2dog.android-x64.debug) | 4.7.2.15 | Moritz Voss | Experimental Android x64 debug Godot JNI runtime and C++ runtime for .NET Andro… |
+| 2026-10-03 14:45:38 | [2dog.android-x64.release](https://www.nuget.org/packages/2dog.android-x64.release) | 4.7.2.15 | Moritz Voss | Experimental Android x64 release Godot JNI runtime and C++ runtime for .NET And… |
+| 2026-10-03 14:45:39 | [2dog.android](https://www.nuget.org/packages/2dog.android) | 4.7.2.15 | Moritz Voss | Experimental Android Java host and APK build targets for 2dog. Requires an Andr… |
+| 2026-10-03 15:04:10 | [PolyhydraGames.Auth.Abstractions](https://www.nuget.org/packages/PolyhydraGames.Auth.Abstractions) | 1.1.7 | Polyhydra Games | OAuth contracts and token models shared by PolyhydraGames auth flows. |
+| 2026-10-03 15:04:12 | [PolyhydraGames.Platforms.Abstractions](https://www.nuget.org/packages/PolyhydraGames.Platforms.Abstractions) | 1.1.7 | Polyhydra Games | Shared platform identity and user primitives for PolyhydraGames adapters. |
+| 2026-10-03 15:04:14 | [PolyhydraGames.Chat.Abstractions](https://www.nuget.org/packages/PolyhydraGames.Chat.Abstractions) | 1.1.7 | Polyhydra Games | Chat DTOs shared by PolyhydraGames chat adapters and services. |
+| 2026-10-03 15:04:16 | [PolyhydraGames.Commands.Core](https://www.nuget.org/packages/PolyhydraGames.Commands.Core) | 1.1.7 | Polyhydra Games | Command parsing and command outcome helpers for PolyhydraGames chat surfaces. |
+| 2026-10-03 15:04:18 | [PolyhydraGames.PostOffice.Abstractions](https://www.nuget.org/packages/PolyhydraGames.PostOffice.Abstractions) | 1.1.7 | Polyhydra Games | Contracts for routing inbound and outbound messages across platform adapters. |
+| 2026-10-03 15:04:20 | [PolyhydraGames.PostOffice.Core](https://www.nuget.org/packages/PolyhydraGames.PostOffice.Core) | 1.1.7 | Polyhydra Games | Core Post Office routing and sink/source helpers for PolyhydraGames adapters. |
+| 2026-10-03 15:05:32 | [PolyhydraGames.APi.Youtube](https://www.nuget.org/packages/PolyhydraGames.APi.Youtube) | 2.0.0 | Breadcrumb | A set of helpers to simplify analyzing youtube channel videos. |
 
 ## Data source
 
