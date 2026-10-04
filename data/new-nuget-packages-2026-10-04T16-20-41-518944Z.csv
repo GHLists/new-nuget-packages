@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-04T15:29:06.35Z,Plugin.Maui.NativeContextMenus,1.0.0,Ed Giardina,Plugin.Maui.NativeContextMenus provides the ability to create native context menus in your .NET MAUI application.
+2026-10-04T15:37:18.997Z,DeltaNetcode,0.0.2,DeltaNetcode,Engine-independent networking for .NET applications.
+2026-10-04T15:37:39.523Z,Banned.CodeDiff,0.1.0,banned,"Core Git diff parsing, models, transformations, and syntax highlighting."
+2026-10-04T15:37:40.513Z,Banned.CodeDiff.Avalonia,0.1.0,banned,Avalonia controls for rendering unified diffs in split and unified layouts.
+2026-10-04T15:45:11.613Z,Vestigium.Controls.QueryBar,1.0.0,Vestigium,"WPF query bar for a KQL session: text, clear, saved queries, and completion."
+2026-10-04T16:04:32.983Z,Shells.Endpoints.Swachbuckle,3.0.0,Ignjat Koicki,Swagger integration for Shells.Endpoints.
