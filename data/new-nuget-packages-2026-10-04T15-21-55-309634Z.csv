@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-04T14:33:09.99Z,Delta.Diagnostics,0.0.6,Artromskiy,"Implementation-neutral diagnostics, logging, and profiling APIs for .NET."
+2026-10-04T14:33:29.627Z,Regira.Entities.Validation.FluentValidation,6.5.0,Regira bv,FluentValidation integration for Regira entity validation: AbstractValidator rules run in the entity write pipeline. Free tier included — a license key removes the free-tier limits.
+2026-10-04T14:45:56.603Z,ArkMirage.NetherNet.Endpoint,1.0.0,BE-Community-Dev,"HTTP signaling endpoints for NetherNet, providing client and server implementations of the /v1/join handshake."
+2026-10-04T14:45:57.13Z,ArkMirage.NetherNet.Discovery,1.0.0,BE-Community-Dev,"LAN discovery signaling for NetherNet, broadcasting encrypted server information over UDP port 7551."
+2026-10-04T14:45:57.68Z,ArkMirage.NetherNet,1.0.0,BE-Community-Dev,"A pure C# implementation of the NetherNet networking protocol for Minecraft Bedrock and real-time applications, providing peer-to-peer message transport over WebRTC data channels."
+2026-10-04T14:54:44.203Z,Nihil,0.1.0,Alice,minimalist C# game engine
+2026-10-04T15:01:46.4Z,Pondhawk.Logging.CloudWatch,1.0.21,Pond Hawk Technologies Inc.,"Amazon CloudWatch Logs provider for Pondhawk.Logging: a ZLogger-based Microsoft.Extensions.Logging provider that writes each event as one JSON object Logs Insights can filter on, creates its own stream (and a missing group), and never blocks or stops the host when CloudWatch is unreachable."
