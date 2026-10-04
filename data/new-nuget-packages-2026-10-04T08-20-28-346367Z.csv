@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-04T07:22:06.227Z,NacosNetX,2.0.0,NacosNetX,"NacosNetX is a production-oriented .NET SDK for Nacos configuration, naming, gRPC runtime, and ASP.NET Core integration."
+2026-10-04T07:23:36.88Z,Webority.Email.Outreach.Ai,0.29.0,Webority Technologies,"AI reply classification for Webority.Email.Outreach over Webority.Ai judgment: screens each reply for instructions aimed at an AI, then marks it Interested, NotInterested or Other. Kept out of the outreach package so a product without AI pulls in no AI dependencies."
+2026-10-04T07:24:17.487Z,Webority.Ai.Anthropic,0.8.0,Webority Technologies,"The Anthropic transport for Webority.Ai: agents run on Claude models hosted in Azure AI Foundry (AddWeborityAiAnthropic), signed in with Entra ID, under the core's retry, spend cap, instrumentation and tool audit. Its own package, so a product on Azure OpenAI never carries the Anthropic SDK."
+2026-10-04T07:26:42.637Z,ZL.Simulator.Cli,1.1.0,UseThink,工业仪器仿真器平台：用软件仿真 DMM/电源/电子负载/SCPI/Modbus/自定义协议设备，支持多会话、可配置协议 JSON、gRPC 无头控制面与 AI 训练数据生成。
+2026-10-04T07:28:23.34Z,Bitzsoft.Integrations.DocumentPreview.All,1.0.0,Bitzsoft,文档预览聚合包 — 包含文档预览抽象层、官方自托管实现与 Polly 弹性重试依赖注入扩展
+2026-10-04T07:28:24.837Z,Bitzsoft.Integrations.DocumentPreview.SelfHosted,1.0.0,Bitzsoft,文档预览自托管官方实现 — HMAC-SHA256 签名计算、短时效门票签发与高可用状态轮询探针
+2026-10-04T07:28:26.183Z,Bitzsoft.Integrations.DocumentPreview,1.0.0,Bitzsoft,文档预览抽象层 — 统一接口定义与基础模型（IDocumentPreviewProvider / PreviewRequest / PreviewTicket / PreviewStatus）
+2026-10-04T07:31:33.277Z,Vestigium.Helpers.Kql,1.0.1,Vestigium,KQL-inspired filter dialect and field catalog.
+2026-10-04T07:48:30.397Z,EzyBoardViewer,0.1.0,Loshop-Studio,".NET port of EzyBoardViewer: parse Suibian (随身答) board zips and cloud notes, export SVG / PDF, render video."
+2026-10-04T08:00:48.16Z,Fizzy.McapSharp,0.1.0,Fizzy,File-based .NET bindings to the official Rust MCAP implementation.
+2026-10-04T08:14:53.103Z,DotFramework.Core.Data.SqlServer,4.5.0,dotFramework,"Stored-procedure data access for SQL Server on Dapper and Microsoft.Data.SqlClient, registered per named database."
