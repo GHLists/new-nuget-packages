@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-10-04T01:28:16.713Z,Syntrony.EntityFrameworkCore.Repositories,1.0.0,Syntrony Technologies Inc.,"EF Core implementation of the Syntrony.Repositories contract: EfCoreRepositoryBase<TDbContext,TEntity,TKey>, automatic registration of the generic repository (both IRepository<TEntity,TKey> and the IRepository<TEntity> shortcut) and the IUnitOfWorkParticipant that enlists a DbContext in Syntrony's…"
+2026-10-04T01:30:33.287Z,Themia.Storage.Cloudflare,0.30.3,Sarawut Phaekuntod,"Cloudflare cache-purge implementation of Themia.Storage's ICdnPurger: after a public object is deleted, purge its URL from the edge. Uses its own Zone/Cache Purge token, which is never logged."
+2026-10-04T01:37:20.45Z,Patware.Pipeline.Persistence.EntityFrameworkCore,0.1.0,Patware,"Persist .NET workflow history and execution state in SQL Server with Entity Framework Core persistence for pipeline runs, step outputs, and logs."
+2026-10-04T01:37:57.387Z,Patware.Pipeline.Hangfire,0.1.0,Patware,"Power .NET workflows with Hangfire processing, scheduled polling, and recovery of unfinished pipeline runs using in-memory or SQL Server storage."
+2026-10-04T01:38:21.483Z,Patware.Pipeline.Blazor,0.1.0,Patware,"Bring .NET workflows into view with Blazor pages for pipeline run history, job and step progress, formatted logs, and retry controls."
+2026-10-04T01:40:08.653Z,Nimblesite.DataProvider.Migration.SqlServer,0.10.0-beta,ChristianFindlay,SQL Server DDL generator and schema inspector for Nimblesite.DataProvider.Migration.Core
+2026-10-04T01:49:00.037Z,CISS.SideMenu.Oqtane,2.2.23,Dao Hung,"Build polished Oqtane 10.2.1 sites with the ACME theme, CISS Menu Builder, Auto Demo Site, AI Content and AI Menu Assistant. Includes 104 sample page layouts, 50 structured content blocks, 120 Oqtane Razor views, 30 CSS palettes and six submenu patterns. Trial sites can use the full page library an…"
+2026-10-04T02:02:27.59Z,ova.EntityNexus.Abstractions,10.7.1,ovaataaridotru,Domain model for EntityNexus DSL Framework is absract model for implementing by CodeFirst Entity Framework
+2026-10-04T02:12:11.62Z,Elsa.Bpmn,3.9.0,Elsa Workflows Community,Provides BPMN execution support by wiring the Bpmn.Model and Bpmn.Semantics libraries into Elsa.
+2026-10-04T02:12:11.907Z,Elsa.Bpmn.Interchange,3.9.0,Elsa Workflows Community,Provides BPMN XML interchange support by wiring the Bpmn.Interchange library into Elsa.
+2026-10-04T02:12:13.743Z,Elsa.Diagnostics.ConsoleLogs,3.9.0,Elsa Workflows Community,Provides live raw console log streaming for Elsa hosts.
+2026-10-04T02:12:35.97Z,Elsa.UserTasks,3.9.0,Elsa Workflows Community,"Provides identity-neutral, workflow-bound human user tasks."
+2026-10-04T02:12:36.31Z,Elsa.UserTasks.Persistence.EFCore,3.9.0,Elsa Workflows Community,Provides Entity Framework Core persistence for Elsa user tasks.
+2026-10-04T02:12:36.35Z,Elsa.UserTasks.Persistence.EFCore.MySql,3.9.0,Elsa Workflows Community,Provides MySQL EF Core persistence for Elsa user tasks.
+2026-10-04T02:12:37.227Z,Elsa.UserTasks.Persistence.EFCore.Oracle,3.9.0,Elsa Workflows Community,Provides Oracle EF Core persistence for Elsa user tasks.
+2026-10-04T02:12:37.36Z,Elsa.UserTasks.Persistence.EFCore.PostgreSql,3.9.0,Elsa Workflows Community,Provides PostgreSQL EF Core persistence for Elsa user tasks.
+2026-10-04T02:12:37.693Z,Elsa.UserTasks.Persistence.EFCore.SqlServer,3.9.0,Elsa Workflows Community,Provides SQL Server EF Core persistence for Elsa user tasks.
+2026-10-04T02:12:37.72Z,Elsa.UserTasks.Persistence.EFCore.Sqlite,3.9.0,Elsa Workflows Community,Provides SQLite EF Core persistence for Elsa user tasks.
+2026-10-04T02:12:38.62Z,Elsa.UserTasks.Persistence.VNext,3.9.0,Elsa Workflows Community,Provides provider-neutral experimental persistence for Elsa user tasks.
