@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-04T10:21:14.387Z,Elarion.Migrations.EntityFrameworkCore,0.2.8,Simon Wimmesberger,"EF Core migrations as steps of the Elarion migration plan (ADR-0081): every EF migration of a DbContext becomes one version-ordered step beside the application's SQL scripts and code migrations, so an expand migration, a C# backfill and a contract migration run in one release in one ordered sequenc…"
+2026-10-04T10:21:14.75Z,Elarion.Settings.DataProtection,0.2.8,Simon Wimmesberger,"ASP.NET Core Data Protection implementation of the Elarion settings protector: secret settings are encrypted at rest with a purpose per setting, re-protected after key rotation, and never stored as plaintext. The opt-in companion to Elarion.Settings."
+2026-10-04T10:35:39.093Z,Mayordomo.Core,1.0.20261004.17,Alfonso Lara Ramos and Mayordomo Engine contributors,"Reusable deterministic server-authoritative board-game engine with replay, simulation, invariants, and stable public contracts."
+2026-10-04T10:49:17.113Z,WeApi.Cli,1.0.0,WeApi Contributors,Production-ready cross-platform CLI tool to generate Clean Architecture .NET 10 Web API backends.
+2026-10-04T10:49:17.77Z,WeApi.Template,1.0.0,WeApi Contributors,"Production-ready Clean Architecture .NET 10 Web API template with JWT authentication, EF Core (SQL Server / PostgreSQL), FluentValidation, Serilog, and OpenAPI."
+2026-10-04T11:05:35.5Z,Sujithaa.PalindromeUtility,1.0.1,Sujithaa,A reusable C# library for checking palindromes and reversing strings.
