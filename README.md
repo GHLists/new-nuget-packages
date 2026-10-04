@@ -12,27 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 09:22 UTC
+## Latest list — 2026-10-04 10:19 UTC
 
-New packages created between 2026-10-04 08:20 UTC and 2026-10-04 09:22 UTC.
+New packages created between 2026-10-04 09:22 UTC and 2026-10-04 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-04T09-22-33-158443Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-04T10-19-52-389207Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-04 08:32:09 | [Vorticity.Zstd](https://www.nuget.org/packages/Vorticity.Zstd) | 0.4.0 | Evariops | A Zstandard (RFC 8878) decompressor and compressor in fully managed C#: no nati… |
-| 2026-10-04 08:41:54 | [MentalDesk.Tui](https://www.nuget.org/packages/MentalDesk.Tui) | 0.1.0 | James Crosswell | Shared Terminal.Gui building blocks for MentalDesk TUI apps: themes, commands a… |
-| 2026-10-04 08:46:17 | [Gua.Testing.Snapshots](https://www.nuget.org/packages/Gua.Testing.Snapshots) | 1.1.0 | Gua contributors | Deterministic semantic UI and optional World snapshot baselines for Gua tests. |
-| 2026-10-04 08:53:01 | [MintOsuAPI](https://www.nuget.org/packages/MintOsuAPI) | 0.1.0 | Tsurumaki-kokoro | osu! API client for .NET — v2 (OAuth2) and legacy v1 (API key), with on-disk to… |
-| 2026-10-04 08:57:36 | [Webority.Ai.Actions](https://www.nuget.org/packages/Webority.Ai.Actions) | 0.9.0 | Webority Technologies | Deferred agent actions for Webority products on Webority.Ai: a tool records a p… |
-| 2026-10-04 08:57:39 | [Drenalol.Enrichment](https://www.nuget.org/packages/Drenalol.Enrichment) | 0.1.0 | Enrichment contributors | Data enrichers load is reused by FluentValidation contextual validators and Med… |
-| 2026-10-04 08:57:40 | [Webority.Ai.Knowledge](https://www.nuget.org/packages/Webority.Ai.Knowledge) | 0.9.0 | Webority Technologies | Retrieval over a product's own content for Webority.Ai: corpora a product regis… |
-| 2026-10-04 08:57:41 | [Webority.Ai.Knowledge.Sql](https://www.nuget.org/packages/Webority.Ai.Knowledge.Sql) | 0.9.0 | Webority Technologies | The SQL Server store for Webority.Ai.Knowledge: the AiKnowledgeChunk table in t… |
-| 2026-10-04 08:57:42 | [Webority.Ai.Knowledge.AzureSearch](https://www.nuget.org/packages/Webority.Ai.Knowledge.AzureSearch) | 0.9.0 | Webority Technologies | The Azure AI Search store for Webority.Ai.Knowledge: one index of chunks, searc… |
-| 2026-10-04 08:57:44 | [Webority.Ai.Actions.AspNetCore](https://www.nuget.org/packages/Webority.Ai.Actions.AspNetCore) | 0.9.0 | Webority Technologies | Agent action decisions over HTTP for Webority.Ai.Actions: one handler a product… |
-| 2026-10-04 09:05:50 | [Webority.CsCheck](https://www.nuget.org/packages/Webority.CsCheck) | 0.1.0 | Webority Technologies | Fast, small C# compile checker for coding agents: one shared background process… |
-| 2026-10-04 09:06:42 | [Orbyss.Foundation.Build](https://www.nuget.org/packages/Orbyss.Foundation.Build) | 0.1.0 | Orbyss | Publisher-owned feature descriptor production for Foundation-compatible package… |
-| 2026-10-04 09:09:37 | [Sunsetless.Ews.NETStandard](https://www.nuget.org/packages/Sunsetless.Ews.NETStandard) | 1.1.0 | Sunsetless | Keep your async EWS Managed API code (Microsoft.Exchange.WebServices.NETStandar… |
+| 2026-10-04 09:37:57 | [SideEffect.Data](https://www.nuget.org/packages/SideEffect.Data) | 0.6.0 | Artsiom Marzavin | A general-purpose library with models for data storage. |
+| 2026-10-04 09:41:56 | [Novolis.Time.Workday](https://www.nuget.org/packages/Novolis.Time.Workday) | 2026.1.1.11 | Novolis | Immutable workday calendars and business-day arithmetic. |
+| 2026-10-04 09:42:48 | [MTNMoMo.OpenApi](https://www.nuget.org/packages/MTNMoMo.OpenApi) | 1.0.0 | MTNMoMo Contributors | Production-ready MTN Mobile Money (MoMo) Open API .NET SDK — Collection, Disbur… |
+| 2026-10-04 09:45:07 | [Beardmouse.Thoth.Json.Core](https://www.nuget.org/packages/Beardmouse.Thoth.Json.Core) | 0.9.1 | Maxime Mangel | Elm-inspired encoder and decoder for JSON, this package is the core library whi… |
+| 2026-10-04 10:09:53 | [Packata.DataPackage](https://www.nuget.org/packages/Packata.DataPackage) | 0.45.2 | Cédric L. Charlier | Packata's native Data Package v2 document model, serialization, validation, and… |
 
 ## Data source
 

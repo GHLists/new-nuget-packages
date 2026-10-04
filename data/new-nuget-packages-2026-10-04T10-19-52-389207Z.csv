@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-04T09:37:57.16Z,SideEffect.Data,0.6.0,Artsiom Marzavin,A general-purpose library with models for data storage.
+2026-10-04T09:41:56.973Z,Novolis.Time.Workday,2026.1.1.11,Novolis,Immutable workday calendars and business-day arithmetic.
+2026-10-04T09:42:48.503Z,MTNMoMo.OpenApi,1.0.0,MTNMoMo Contributors,"Production-ready MTN Mobile Money (MoMo) Open API .NET SDK — Collection, Disbursement, Remittance, typed callbacks, bulk orchestration, HttpClientFactory resilience, statistics, and structured logging. Shared DTOs/enums ship in the same package."
+2026-10-04T09:45:07.21Z,Beardmouse.Thoth.Json.Core,0.9.1,Maxime Mangel,"Elm-inspired encoder and decoder for JSON, this package is the core library which can be used on any F# project. Pick the right additional package for your runtime: - Thoth.Json.JavaScript - Thoth.Json.Python - Thoth.Json.Newtonsoft - Thoth.Json.System.Text.Json"
+2026-10-04T10:09:53.863Z,Packata.DataPackage,0.45.2,Cédric L. Charlier,"Packata's native Data Package v2 document model, serialization, validation, and adapter."
