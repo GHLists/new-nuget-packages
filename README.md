@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 04:20 UTC
+## Latest list — 2026-10-04 05:20 UTC
 
-New packages created between 2026-10-04 03:21 UTC and 2026-10-04 04:20 UTC.
+New packages created between 2026-10-04 04:20 UTC and 2026-10-04 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-04T04-20-32-720301Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-04T05-20-25-213732Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-04 03:24:38 | [StdUnit.Sharp7](https://www.nuget.org/packages/StdUnit.Sharp7) | 0.7.3 | StdUnit.Sharp7 | Package Description |
-| 2026-10-04 03:35:09 | [UniverseGenerator](https://www.nuget.org/packages/UniverseGenerator) | 1.0.0 | Mark Rogers | Seeded universe, galaxy, star system, planet and moon generator for games and f… |
-| 2026-10-04 03:42:19 | [myNOC.Remootio](https://www.nuget.org/packages/myNOC.Remootio) | 1.0.1 | myNOC LLC | A .NET client library for the Remootio smart gate/garage door controller WebSoc… |
-| 2026-10-04 03:49:54 | [Elsa.Actors.ProtoActor.PubSub.Redis](https://www.nuget.org/packages/Elsa.Actors.ProtoActor.PubSub.Redis) | 3.9.0 | Elsa Workflows Community | Provides Redis-backed storage for Proto.Actor Pub/Sub subscribers. |
-| 2026-10-04 03:50:10 | [Elsa.Ldap](https://www.nuget.org/packages/Elsa.Ldap) | 3.9.0 | Elsa Workflows Community | Provides LDAP activities for integrations to LDAP servers (e.g. Active Director… |
-| 2026-10-04 03:50:15 | [Elsa.Mqtt](https://www.nuget.org/packages/Elsa.Mqtt) | 3.9.0 | Elsa Workflows Community | Provides an integration to send and receive messages via MQTT. |
+| 2026-10-04 04:22:38 | [jaytwo.Ergonomics.Images](https://www.nuget.org/packages/jaytwo.Ergonomics.Images) | 0.1.0-beta-20261003… | jaytwo.Ergonomics.Images | Ergonomic resize and rotation for still images, on NetVips. |
+| 2026-10-04 04:40:48 | [SyntaxCircus.Cmsify.Infrastructure.Sqlite](https://www.nuget.org/packages/SyntaxCircus.Cmsify.Infrastructure.Sqlite) | 0.8.8 | Syntax Circus LLC | Optional SQLite persistence registration and schema-only migrations for Cmsify. |
+| 2026-10-04 04:49:29 | [LibTab](https://www.nuget.org/packages/LibTab) | 0.1.0 | Scott J Guyton | Pure C# libtab reader/writer for Plan 9 ndb-shaped tables with compatible HASHE… |
+| 2026-10-04 04:51:36 | [UE.Toolkit.SandfallTypes](https://www.nuget.org/packages/UE.Toolkit.SandfallTypes) | 1.0.2 | Rirurin | UE Toolkit generated classes and structs for Clair Obscur: Expedition 33 |
 
 ## Data source
 

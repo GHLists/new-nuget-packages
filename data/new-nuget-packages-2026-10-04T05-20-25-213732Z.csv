@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-04T04:22:38.89Z,jaytwo.Ergonomics.Images,0.1.0-beta-20261003…,jaytwo.Ergonomics.Images,"Ergonomic resize and rotation for still images, on NetVips."
+2026-10-04T04:40:48.133Z,SyntaxCircus.Cmsify.Infrastructure.Sqlite,0.8.8,Syntax Circus LLC,Optional SQLite persistence registration and schema-only migrations for Cmsify.
+2026-10-04T04:49:29.183Z,LibTab,0.1.0,Scott J Guyton,"Pure C# libtab reader/writer for Plan 9 ndb-shaped tables with compatible HASHED, SIGNED, and ENCRYPTED cells."
+2026-10-04T04:51:36.887Z,UE.Toolkit.SandfallTypes,1.0.2,Rirurin,UE Toolkit generated classes and structs for Clair Obscur: Expedition 33
