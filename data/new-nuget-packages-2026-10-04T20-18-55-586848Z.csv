@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-04T19:31:32.353Z,NetWasm.System.Formats.Cbor,0.6.0,Zion Sati,NetWasm netwasm0.1 implementation of System.Formats.Cbor.
+2026-10-04T19:43:13.463Z,Localisation.Avalonia,2.0.0,Chris Pulman,Localisation libraries for WPF and Avalonia
+2026-10-04T19:55:15.75Z,Structly.AI,0.2.0,menk-dev,"Typed, structured LLM output for automated .NET workflows."
+2026-10-04T19:55:16.39Z,Structly.AI.Hosting,0.2.0,menk-dev,Dependency injection and configuration integration for Structly.AI.
+2026-10-04T19:58:07.977Z,Cave.Logging.Database,4.0.9,Andreas Rohleder,This package contains classes for using the database logging.
+2026-10-04T20:02:39.557Z,Mics.CodeAnalysis,1.0.0,Eduardo Zitinho,Turn C# source code into music. Roslyn-based parser and mapper for the Mics ecosystem.
+2026-10-04T20:07:21.58Z,Localisation.Avalonia.Reactive,2.0.0,Chris Pulman,Localisation libraries for WPF and Avalonia
+2026-10-04T20:07:23.807Z,Localisation.WPF.Reactive,2.0.0,Chris Pulman,Localisation libraries for WPF and Avalonia
