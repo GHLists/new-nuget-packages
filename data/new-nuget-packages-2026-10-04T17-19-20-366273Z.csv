@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-04T16:33:02.797Z,DynCMS.Plugins.Sdk,0.1.0,DynCMS,"The DynCMS plugin SDK: the plugin contract, the shared admin UI building blocks and the MSBuild packaging for plugins. A plugin references only this package."
+2026-10-04T16:33:03.997Z,DynCMS.Core,0.1.0,DynCMS,"DynCMS core: content model, SQLite/SQL Server persistence, services, registries and security (CMouss.IdentityFramework)."
+2026-10-04T16:33:05.18Z,DynCMS.UI,0.1.0,DynCMS,"DynCMS Blazor components: admin back office, property editors and content rendering."
+2026-10-04T16:33:06.253Z,DynCMS.Host,0.1.0,DynCMS,"DynCMS host: turns an empty ASP.NET Core web project into a running CMS (services, pipeline, Blazor shell, catch-all page and a starter site)."
+2026-10-04T16:33:35.433Z,Stride.CrashReporter,5.0.0,Stride contributors,Package Description
+2026-10-04T16:38:39.683Z,IronAuth.Domain,0.2.2-preview,AfterBurner Team,"Reusable authentication library for .NET APIs — Domain layer (entities, enums, interfaces)"
+2026-10-04T16:38:40.17Z,IronAuth.AspNetCore,0.2.2-preview,AfterBurner Team,"Reusable authentication library for .NET APIs — ASP.NET Core layer (controllers, middleware, JWT, authorization)"
+2026-10-04T16:38:40.627Z,IronAuth.Infrastructure,0.2.2-preview,AfterBurner Team,"Reusable authentication library for .NET APIs — Infrastructure layer (EF Core DbContext, services, repositories)"
+2026-10-04T16:38:41.17Z,IronAuth.Application,0.2.2-preview,AfterBurner Team,"Reusable authentication library for .NET APIs — Application layer (service interfaces, DTOs, options)"
+2026-10-04T16:58:22.67Z,Mics.Cli,0.1.0,Eduardo Zitinho,Music In C Sharp. Turn C# source code into music.
+2026-10-04T17:03:20.02Z,Novolis.Testing.Playwright,2026.1.1.49,Novolis,"Walkthrough video, frames, and HTML on top of TUnit.Playwright PageTest."
