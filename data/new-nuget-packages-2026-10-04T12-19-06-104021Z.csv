@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-04T11:24:04.303Z,Calcifer.Microservice.Api.Template,2.0.0,Rakibul Hasan Rabbi,"A production-ready .NET 8 Web API microservice template designed for enterprise software. Features built-in JWT authentication, ASP.NET Core Identity, permission-based RBAC, per-user logging with audit trail, and Redis/in-memory caching."
+2026-10-04T11:31:29.35Z,Krivodeling.Localization.Avalonia,1.0.1,Krivodeling,"Shared JSON localization, English fallback, and live Avalonia bindings."
+2026-10-04T11:36:01.46Z,getAddress.Nz.Sdk,1.0.1,getAddress(),".NET client for the getAddress() New Zealand address API: autocomplete, full LINZ address look-up, nearest addresses, locality and postcode locations, typeahead, validate, distance, and usage. The same shape as the UK getAddress.Sdk."
+2026-10-04T11:37:24.977Z,Krysalis-Database-Repository,1.0.0,Krysalis.DBInfrastructure,Package Description
+2026-10-04T11:45:16.74Z,SecureRedact.AzureDataExplorer,1.0.0,Sanket Singh,Azure Data Explorer (ADX / Kusto) integration for SecureRedact. Wraps IKustoIngestClient with a single .WithSecureRedact() call so all streams and files are transparently PII-masked before ingestion. Zero changes to your KQL queries or table schemas.
+2026-10-04T11:45:39.95Z,Company.Shared.Contracts,1.0.0,Company.Shared.Contracts,Package Description
+2026-10-04T11:46:54.54Z,Company.Shared.Messaging,1.0.0,Edrees Dbwon,Enterprise-grade dynamic messaging framework wrapping MassTransit and RabbitMQ.
+2026-10-04T11:49:04.023Z,NetCraft.ModBuild.Tools,0.1.0,NetCraft Contributors,NetCraft mod development helper tools
+2026-10-04T11:49:13.273Z,NetCraft.ModsProjectType,0.1.0,NetCraft Contributors,NetCraft 模组项目模板 用 dotnet new ncm 创建
+2026-10-04T12:10:10.323Z,Soenneker.Threads.OpenApiClient,4.0.1,Jake Soenneker,A generated OpenAPI client for the Meta Threads API.
+2026-10-04T12:10:20.527Z,Soenneker.Threads.HttpClients,4.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Threads's OpenAPI integration.
