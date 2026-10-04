@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-04T22:32:43.51Z,Tracera.Core,1.0.0,Tracera <contact@tracera.dev>,"Tracera Autotest adapter core for .NET (HTTP, flush, log, dotenv, Env, session, steps)."
+2026-10-04T22:33:22.27Z,Tracera.NUnit,1.0.0,Tracera <contact@tracera.dev>,Tracera Autotest adapter for NUnit
+2026-10-04T22:33:59.123Z,Tracera.Xunit,1.0.0,Tracera <contact@tracera.dev>,Tracera Autotest adapter for xUnit.net v3
+2026-10-04T22:34:30.13Z,Tracera.Reqnroll,1.0.0,Tracera <contact@tracera.dev>,Tracera Autotest adapter for Reqnroll
+2026-10-04T22:35:59.74Z,NousToolCalling,0.1.0,Murat Ay,"Prompt-based (Nous-style) tool calling for IChatClient. Makes on-prem / OpenAI-compatible models (Qwen, Hermes, DeepSeek via vLLM, llama.cpp, Ollama) that emit <tool_call> XML in plain text work with FunctionInvokingChatClient and Microsoft Agent Framework tools."
+2026-10-04T22:36:00.457Z,NousToolCalling.AgentFramework,0.1.0,Murat Ay,Composition helpers for Nous-style tool calling with Microsoft Agent Framework: a one-call ChatClientAgent pipeline for on-prem OpenAI-compatible models and an MCP tool host that exposes server tools as AIFunctions.
+2026-10-04T22:48:46.117Z,StreamNest,1.0.0,Esmail Almarrani,"A high-performance, zero-dependency asynchronous stream collection for .NET supporting multiple concurrent and hierarchically nested contributors (producers)."
+2026-10-04T22:49:53.357Z,KafkaWrapper,1.0.0-CI-20261004-2…,KafkaWrapper,Package Description
+2026-10-04T22:54:31.58Z,Bullmark.Sdk,0.1.0,Bullmark,"Honour a Bullmark voucher from your own checkout — inspect, redeem, release, and verify the seal yourself."
+2026-10-04T22:55:31.7Z,EncDotNet.S100.Collections,0.24.0,Phillip Hoff,Libraries for manipulating S-100 based nautical charts.
+2026-10-04T23:04:07.567Z,Arjo.Umbraco.WeglotTranslator,1.0.0,Arjo.dev,"Weglot-powered machine translation for Umbraco 17+: translated pages served from language-prefixed URLs, backoffice-managed languages and a drop-in language switcher. A licence is required for production use."
+2026-10-04T23:09:33.387Z,PanoramicData.Aruba.Api,1.1.2,Panoramic Data Limited,".NET 10 API client for HPE Aruba Networking Central (New Central): monitoring, notifications, reporting, services and troubleshooting. OAuth 2.0 client-credentials auth with automatic token refresh, retry/back-off and read-only safety."
+2026-10-04T23:13:02.357Z,Senviok,1.0.0,Senviok,"Official .NET SDK for the Senviok API - Transactional Email, SMS, WhatsApp, OTP, Webhooks, Templates, Audiences, and Domains."
