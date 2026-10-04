@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-04T03:24:38.487Z,StdUnit.Sharp7,0.7.3,StdUnit.Sharp7,Package Description
+2026-10-04T03:35:09Z,UniverseGenerator,1.0.0,Mark Rogers,"Seeded universe, galaxy, star system, planet and moon generator for games and fiction. One seed gives the same galaxy on every platform and runtime (.NET, .NET Framework, Unity Mono and IL2CPP): names, star types, planets, moons, lanes, regions, danger and story tags, as plain records with no depen…"
+2026-10-04T03:42:19.787Z,myNOC.Remootio,1.0.1,myNOC LLC,"A .NET client library for the Remootio smart gate/garage door controller WebSocket API. Ports the remootio-api-client-node protocol (AES-CBC + HMAC-SHA256 encryption, auth flow, state events) to C#."
+2026-10-04T03:49:54.147Z,Elsa.Actors.ProtoActor.PubSub.Redis,3.9.0,Elsa Workflows Community,Provides Redis-backed storage for Proto.Actor Pub/Sub subscribers.
+2026-10-04T03:50:10.573Z,Elsa.Ldap,3.9.0,Elsa Workflows Community,Provides LDAP activities for integrations to LDAP servers (e.g. Active Directory).
+2026-10-04T03:50:15.71Z,Elsa.Mqtt,3.9.0,Elsa Workflows Community,Provides an integration to send and receive messages via MQTT.
