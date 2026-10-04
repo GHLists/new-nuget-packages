@@ -12,25 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 08:20 UTC
+## Latest list — 2026-10-04 09:22 UTC
 
-New packages created between 2026-10-04 07:20 UTC and 2026-10-04 08:20 UTC.
+New packages created between 2026-10-04 08:20 UTC and 2026-10-04 09:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-04T08-20-28-346367Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-04T09-22-33-158443Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-04 07:22:06 | [NacosNetX](https://www.nuget.org/packages/NacosNetX) | 2.0.0 | NacosNetX | NacosNetX is a production-oriented .NET SDK for Nacos configuration, naming, gR… |
-| 2026-10-04 07:23:36 | [Webority.Email.Outreach.Ai](https://www.nuget.org/packages/Webority.Email.Outreach.Ai) | 0.29.0 | Webority Technologies | AI reply classification for Webority.Email.Outreach over Webority.Ai judgment:… |
-| 2026-10-04 07:24:17 | [Webority.Ai.Anthropic](https://www.nuget.org/packages/Webority.Ai.Anthropic) | 0.8.0 | Webority Technologies | The Anthropic transport for Webority.Ai: agents run on Claude models hosted in… |
-| 2026-10-04 07:26:42 | [ZL.Simulator.Cli](https://www.nuget.org/packages/ZL.Simulator.Cli) | 1.1.0 | UseThink | 工业仪器仿真器平台：用软件仿真 DMM/电源/电子负载/SCPI/Modbus/自定义协议设备，支持多会话、可配置协议 JSON、gRPC 无头控制面与 AI… |
-| 2026-10-04 07:28:23 | [Bitzsoft.Integrations.DocumentPreview.All](https://www.nuget.org/packages/Bitzsoft.Integrations.DocumentPreview.All) | 1.0.0 | Bitzsoft | 文档预览聚合包 — 包含文档预览抽象层、官方自托管实现与 Polly 弹性重试依赖注入扩展 |
-| 2026-10-04 07:28:24 | [Bitzsoft.Integrations.DocumentPreview.SelfHosted](https://www.nuget.org/packages/Bitzsoft.Integrations.DocumentPreview.SelfHosted) | 1.0.0 | Bitzsoft | 文档预览自托管官方实现 — HMAC-SHA256 签名计算、短时效门票签发与高可用状态轮询探针 |
-| 2026-10-04 07:28:26 | [Bitzsoft.Integrations.DocumentPreview](https://www.nuget.org/packages/Bitzsoft.Integrations.DocumentPreview) | 1.0.0 | Bitzsoft | 文档预览抽象层 — 统一接口定义与基础模型（IDocumentPreviewProvider / PreviewRequest / PreviewTicket… |
-| 2026-10-04 07:31:33 | [Vestigium.Helpers.Kql](https://www.nuget.org/packages/Vestigium.Helpers.Kql) | 1.0.1 | Vestigium | KQL-inspired filter dialect and field catalog. |
-| 2026-10-04 07:48:30 | [EzyBoardViewer](https://www.nuget.org/packages/EzyBoardViewer) | 0.1.0 | Loshop-Studio | .NET port of EzyBoardViewer: parse Suibian (随身答) board zips and cloud notes, ex… |
-| 2026-10-04 08:00:48 | [Fizzy.McapSharp](https://www.nuget.org/packages/Fizzy.McapSharp) | 0.1.0 | Fizzy | File-based .NET bindings to the official Rust MCAP implementation. |
-| 2026-10-04 08:14:53 | [DotFramework.Core.Data.SqlServer](https://www.nuget.org/packages/DotFramework.Core.Data.SqlServer) | 4.5.0 | dotFramework | Stored-procedure data access for SQL Server on Dapper and Microsoft.Data.SqlCli… |
+| 2026-10-04 08:32:09 | [Vorticity.Zstd](https://www.nuget.org/packages/Vorticity.Zstd) | 0.4.0 | Evariops | A Zstandard (RFC 8878) decompressor and compressor in fully managed C#: no nati… |
+| 2026-10-04 08:41:54 | [MentalDesk.Tui](https://www.nuget.org/packages/MentalDesk.Tui) | 0.1.0 | James Crosswell | Shared Terminal.Gui building blocks for MentalDesk TUI apps: themes, commands a… |
+| 2026-10-04 08:46:17 | [Gua.Testing.Snapshots](https://www.nuget.org/packages/Gua.Testing.Snapshots) | 1.1.0 | Gua contributors | Deterministic semantic UI and optional World snapshot baselines for Gua tests. |
+| 2026-10-04 08:53:01 | [MintOsuAPI](https://www.nuget.org/packages/MintOsuAPI) | 0.1.0 | Tsurumaki-kokoro | osu! API client for .NET — v2 (OAuth2) and legacy v1 (API key), with on-disk to… |
+| 2026-10-04 08:57:36 | [Webority.Ai.Actions](https://www.nuget.org/packages/Webority.Ai.Actions) | 0.9.0 | Webority Technologies | Deferred agent actions for Webority products on Webority.Ai: a tool records a p… |
+| 2026-10-04 08:57:39 | [Drenalol.Enrichment](https://www.nuget.org/packages/Drenalol.Enrichment) | 0.1.0 | Enrichment contributors | Data enrichers load is reused by FluentValidation contextual validators and Med… |
+| 2026-10-04 08:57:40 | [Webority.Ai.Knowledge](https://www.nuget.org/packages/Webority.Ai.Knowledge) | 0.9.0 | Webority Technologies | Retrieval over a product's own content for Webority.Ai: corpora a product regis… |
+| 2026-10-04 08:57:41 | [Webority.Ai.Knowledge.Sql](https://www.nuget.org/packages/Webority.Ai.Knowledge.Sql) | 0.9.0 | Webority Technologies | The SQL Server store for Webority.Ai.Knowledge: the AiKnowledgeChunk table in t… |
+| 2026-10-04 08:57:42 | [Webority.Ai.Knowledge.AzureSearch](https://www.nuget.org/packages/Webority.Ai.Knowledge.AzureSearch) | 0.9.0 | Webority Technologies | The Azure AI Search store for Webority.Ai.Knowledge: one index of chunks, searc… |
+| 2026-10-04 08:57:44 | [Webority.Ai.Actions.AspNetCore](https://www.nuget.org/packages/Webority.Ai.Actions.AspNetCore) | 0.9.0 | Webority Technologies | Agent action decisions over HTTP for Webority.Ai.Actions: one handler a product… |
+| 2026-10-04 09:05:50 | [Webority.CsCheck](https://www.nuget.org/packages/Webority.CsCheck) | 0.1.0 | Webority Technologies | Fast, small C# compile checker for coding agents: one shared background process… |
+| 2026-10-04 09:06:42 | [Orbyss.Foundation.Build](https://www.nuget.org/packages/Orbyss.Foundation.Build) | 0.1.0 | Orbyss | Publisher-owned feature descriptor production for Foundation-compatible package… |
+| 2026-10-04 09:09:37 | [Sunsetless.Ews.NETStandard](https://www.nuget.org/packages/Sunsetless.Ews.NETStandard) | 1.1.0 | Sunsetless | Keep your async EWS Managed API code (Microsoft.Exchange.WebServices.NETStandar… |
 
 ## Data source
 
