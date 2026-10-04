@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-03T23:23:13.23Z,SunamoSlnGen,26.10.4.2,www.sunamo.cz,Helper for reading project paths from Visual Studio solution files via Microsoft.Build
+2026-10-03T23:24:08.523Z,AlienFx.Api,1.0.1,Panoramic Data Limited,A .NET API client for controlling AlienFX lighting zones on Alienware devices.
+2026-10-03T23:24:22.6Z,SunamoNTextCat,26.10.4.1,www.sunamo.cz,Language detection (Czech/English) built on NTextCat with an embedded Wikipedia language profile
+2026-10-03T23:26:00.08Z,AgencyDotNet.Indexer,0.1.207-g22b1d0f8ed,Emre Aydinceren,Command-line semantic indexer for agents: incrementally indexes a folder of text documents into SQLite or PostgreSQL/pgvector and answers semantic queries as JSON. Ships an agent skill (SKILL.md) installed with `agency-index install-skill`.
+2026-10-03T23:27:07.307Z,Beetech.OmniAutoId.Client,1.0.0,Beetech Auto-ID Engineering Team,"Official .NET client library for Beetech OmniAuto-ID and Adv.SmartSdk Edge Gateway. Enables real-time streaming of RFID tags, PLC automation triggers, and AI camera vision events with built-in zero-hardware simulation fallback."
+2026-10-03T23:27:12.423Z,Beetech.OmniAutoId.Templates,1.0.0,Beetech Auto-ID Engineering Team,Official dotnet new templates for scaffolding high-speed Beetech OmniAuto-ID and Adv.SmartSdk RFID gate services and workers.
+2026-10-03T23:28:29.3Z,SunamoTranslate,26.10.4.1,www.sunamo.cz,"Translation helpers (Google Cloud Translation, cache of translated sentences, detection of translatable strings)"
+2026-10-03T23:43:40.48Z,ClaudeCodeBridge,1.0.0,Isaias Gomes,"Integrates any .NET 8 application with the Claude Code CLI via subprocess. Provides dependency injection, streaming progress events, and a clean abstraction over the Claude agent execution model."
