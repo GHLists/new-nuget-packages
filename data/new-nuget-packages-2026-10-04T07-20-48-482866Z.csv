@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-04T06:34:54.067Z,JKToolKit.CodexSDK.Runtime.linux-arm64,0.160.0,"JKamsker,OpenAI",Optional Codex CLI 0.160.0 runtime for linux-arm64. Contains OpenAI Codex and its bundled helpers.
+2026-10-04T06:34:59.373Z,JKToolKit.CodexSDK.Runtime.linux-x64,0.160.0,"JKamsker,OpenAI",Optional Codex CLI 0.160.0 runtime for linux-x64. Contains OpenAI Codex and its bundled helpers.
+2026-10-04T06:35:05.543Z,JKToolKit.CodexSDK.Runtime.osx-arm64,0.160.0,"JKamsker,OpenAI",Optional Codex CLI 0.160.0 runtime for osx-arm64. Contains OpenAI Codex and its bundled helpers.
+2026-10-04T06:35:12.06Z,JKToolKit.CodexSDK.Runtime.osx-x64,0.160.0,"JKamsker,OpenAI",Optional Codex CLI 0.160.0 runtime for osx-x64. Contains OpenAI Codex and its bundled helpers.
+2026-10-04T06:35:17.587Z,JKToolKit.CodexSDK.Runtime.win-arm64,0.160.0,"JKamsker,OpenAI",Optional Codex CLI 0.160.0 runtime for win-arm64. Contains OpenAI Codex and its bundled helpers.
+2026-10-04T06:35:24.093Z,JKToolKit.CodexSDK.Runtime.win-x64,0.160.0,"JKamsker,OpenAI",Optional Codex CLI 0.160.0 runtime for win-x64. Contains OpenAI Codex and its bundled helpers.
+2026-10-04T06:38:04.203Z,Knmdb.TrackAndTrace,1.0.0,KNMDB,"Кроссплатформенный SDK и DI-сервис для Track and Trace API системы KNMDB / KNDDB: аутентификация OAuth2 (password / refresh_token), автопродление токена, смена пользователя «на ходу», все методы API, типизированные модели и перечисления. Один пакет подключается в ASP.NET Core, .NET MAUI, WPF, WinFo…"
+2026-10-04T07:02:09.07Z,StdMrrDetector,1.0.0,Nornion,Library to check whether STDF file has MRR record.
+2026-10-04T07:10:57.563Z,Webority.Domain.Abstractions,0.1.0,Webority Technologies,"Shared domain contracts for Webority products, with no dependencies so a product's Domain project may reference it: IAuditableEntity, IHasPublicId, BusinessRuleValidationException, and the Webority.Domain.India rules for Aadhaar (Verhoeff), PAN, GSTIN (check character), IFSC, PIN code and money in…"
+2026-10-04T07:10:58.743Z,Webority.Domain.EntityFrameworkCore,0.1.0,Webority Technologies,"Entity Framework Core companion to Webority.Domain.Abstractions: the AuditInterceptor that stamps IAuditableEntity's four fields with the acting user the product supplies (IAuditableEntityActorAccessor), and AddWeborityDomainConventions(), which marks the audit columns required and gives every IHas…"
+2026-10-04T07:12:52.693Z,Orvano,0.2.0,Orvano,"The Orvano SDK for .NET: server code for Orvano, the open source backend you host yourself."
+2026-10-04T07:13:43.423Z,ReactiveUI.Validation.AndroidX.Reactive,8.0.0,ReactiveUI and Contributors,"Provides ReactiveUI.Validation.Reactive extensions for the AndroidX Library, for apps that use ReactiveUI.Reactive."
+2026-10-04T07:13:44.303Z,ReactiveUI.Validation.Reactive,8.0.0,ReactiveUI and Contributors,"Validations library for ReactiveUI.Reactive, the System.Reactive flavour of ReactiveUI."
