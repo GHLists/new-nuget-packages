@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-10-04T17:54:57.307Z,Mics.Core,0.3.0,Eduardo Zitinho,"Fluent sound composition library. Build tones, melodies, chords, and multi-voice songs from plain C#."
