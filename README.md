@@ -12,25 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 12:19 UTC
+## Latest list — 2026-10-04 13:19 UTC
 
-New packages created between 2026-10-04 11:19 UTC and 2026-10-04 12:19 UTC.
+New packages created between 2026-10-04 12:19 UTC and 2026-10-04 13:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-04T12-19-06-104021Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-04T13-19-07-316264Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-04 11:24:04 | [Calcifer.Microservice.Api.Template](https://www.nuget.org/packages/Calcifer.Microservice.Api.Template) | 2.0.0 | Rakibul Hasan Rabbi | A production-ready .NET 8 Web API microservice template designed for enterprise… |
-| 2026-10-04 11:31:29 | [Krivodeling.Localization.Avalonia](https://www.nuget.org/packages/Krivodeling.Localization.Avalonia) | 1.0.1 | Krivodeling | Shared JSON localization, English fallback, and live Avalonia bindings. |
-| 2026-10-04 11:36:01 | [getAddress.Nz.Sdk](https://www.nuget.org/packages/getAddress.Nz.Sdk) | 1.0.1 | getAddress() | .NET client for the getAddress() New Zealand address API: autocomplete, full LI… |
-| 2026-10-04 11:37:24 | [Krysalis-Database-Repository](https://www.nuget.org/packages/Krysalis-Database-Repository) | 1.0.0 | Krysalis.DBInfrastructure | Package Description |
-| 2026-10-04 11:45:16 | [SecureRedact.AzureDataExplorer](https://www.nuget.org/packages/SecureRedact.AzureDataExplorer) | 1.0.0 | Sanket Singh | Azure Data Explorer (ADX / Kusto) integration for SecureRedact. Wraps IKustoIng… |
-| 2026-10-04 11:45:39 | [Company.Shared.Contracts](https://www.nuget.org/packages/Company.Shared.Contracts) | 1.0.0 | Company.Shared.Contracts | Package Description |
-| 2026-10-04 11:46:54 | [Company.Shared.Messaging](https://www.nuget.org/packages/Company.Shared.Messaging) | 1.0.0 | Edrees Dbwon | Enterprise-grade dynamic messaging framework wrapping MassTransit and RabbitMQ. |
-| 2026-10-04 11:49:04 | [NetCraft.ModBuild.Tools](https://www.nuget.org/packages/NetCraft.ModBuild.Tools) | 0.1.0 | NetCraft Contributors | NetCraft mod development helper tools |
-| 2026-10-04 11:49:13 | [NetCraft.ModsProjectType](https://www.nuget.org/packages/NetCraft.ModsProjectType) | 0.1.0 | NetCraft Contributors | NetCraft 模组项目模板 用 dotnet new ncm 创建 |
-| 2026-10-04 12:10:10 | [Soenneker.Threads.OpenApiClient](https://www.nuget.org/packages/Soenneker.Threads.OpenApiClient) | 4.0.1 | Jake Soenneker | A generated OpenAPI client for the Meta Threads API. |
-| 2026-10-04 12:10:20 | [Soenneker.Threads.HttpClients](https://www.nuget.org/packages/Soenneker.Threads.HttpClients) | 4.0.1 | Jake Soenneker | A thread-safe singleton HttpClient for Threads's OpenAPI integration. |
+| 2026-10-04 12:24:04 | [Weasel.Firebird](https://www.nuget.org/packages/Weasel.Firebird) | 9.39.0 | Jeremy D. Miller,Babu Annamal… | Firebird 3, 4 and 5 Support and Schema Migration for Weasel |
+| 2026-10-04 12:30:07 | [Soenneker.Threads.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Threads.OpenApiClientUtil) | 4.0.2 | Jake Soenneker | A thread-safe utility for obtaining Threads's OpenApiClient singleton. |
+| 2026-10-04 12:44:04 | [Pmad.Git.CliEmulator](https://www.nuget.org/packages/Pmad.Git.CliEmulator) | 0.2.7 | Julien Etelain | Managed Git CLI emulator for AI agents. Wraps Pmad.Git with a git-command surfa… |
+| 2026-10-04 12:44:05 | [Pmad.Git.CliEmulator.AI](https://www.nuget.org/packages/Pmad.Git.CliEmulator.AI) | 0.2.7 | Julien Etelain | Microsoft.Extensions.AI integration for Pmad.Git.CliEmulator. Exposes the Git C… |
+| 2026-10-04 12:44:17 | [I18Next.Net.Generators](https://www.nuget.org/packages/I18Next.Net.Generators) | 2.0.0 | DarkLiKally | Source generator creating typed translation keys and accessors from i18next JSO… |
+| 2026-10-04 12:44:17 | [I18Next.Net.Yaml](https://www.nuget.org/packages/I18Next.Net.Yaml) | 2.0.0 | DarkLiKally | Backend for I18Next.Net reading YAML translation files. |
+| 2026-10-04 12:57:13 | [HFAsif.WinUIShell.Maui](https://www.nuget.org/packages/HFAsif.WinUIShell.Maui) | 1.0.1 | HFAsif | Reusable Windows 11 / WinUI 3 inspired shell for .NET MAUI. Provides adaptive n… |
+| 2026-10-04 13:01:20 | [tryAGI.WebRTC](https://www.nuget.org/packages/tryAGI.WebRTC) | 0.1.1 | tryAGI and contributors | MIT WebRTC transport for .NET 10: bounded ICE/STUN/TURN, fingerprint-authentica… |
+| 2026-10-04 13:04:13 | [Cybrex.Core](https://www.nuget.org/packages/Cybrex.Core) | 1.0.1 | Revekhrell | Ядро фреймворка Cybrex |
+| 2026-10-04 13:04:49 | [Novolis.Maui.Activation](https://www.nuget.org/packages/Novolis.Maui.Activation) | 2026.1.1.58 | Novolis | Generic MAUI file-activation inbox and pending-publish bridge for single-projec… |
+| 2026-10-04 13:08:10 | [KirisameY.BindingBridge.NotifiableCollections](https://www.nuget.org/packages/KirisameY.BindingBridge.NotifiableCollections) | 0.0.1 | KirisameY.BindingBridge.Notif… | Package Description |
+| 2026-10-04 13:09:13 | [Plain.HttpClientFactory](https://www.nuget.org/packages/Plain.HttpClientFactory) | 1.0.0 | Dmitrii Bychenko | A simple and lightweight HttpClientFactory implementation for .NET |
+| 2026-10-04 13:11:10 | [Epsilon.LinearAlgebra](https://www.nuget.org/packages/Epsilon.LinearAlgebra) | 1.0.0 | Max Zakharov | Linear algebra for the Epsilon symbolic math library: immutable matrices and ve… |
 
 ## Data source
 
