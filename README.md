@@ -12,26 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 20:20 UTC
+## Latest list — 2026-10-05 21:21 UTC
 
-New packages created between 2026-10-05 19:21 UTC and 2026-10-05 20:20 UTC.
+New packages created between 2026-10-05 20:20 UTC and 2026-10-05 21:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-05T20-20-21-748185Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-05T21-21-12-976861Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-05 19:29:56 | [Eternet.Banks.Movements.Firebird.Contracts](https://www.nuget.org/packages/Eternet.Banks.Movements.Firebird.Contracts) | 1.0.0 | Eternet | Gateway contracts for legacy bank movement operations. |
-| 2026-10-05 19:51:38 | [DataStar.Tools](https://www.nuget.org/packages/DataStar.Tools) | 3.1.0 | Absolute Technology Limited | DataStar command line interface: builds deployment packages from source control… |
-| 2026-10-05 19:52:27 | [Canducci.FileUpload.FluentValidation](https://www.nuget.org/packages/Canducci.FileUpload.FluentValidation) | 1.0.0.3 | Canducci.FileUpload.FluentVal… | Package Description |
-| 2026-10-05 19:54:44 | [Serilog.Ui.Domain](https://www.nuget.org/packages/Serilog.Ui.Domain) | 4.0.0 | Mohsen Esmailpour | Simple web UI for several Serilog sinks. |
-| 2026-10-05 20:02:12 | [DataStar.Tools.win-x64](https://www.nuget.org/packages/DataStar.Tools.win-x64) | 3.1.0 | Absolute Technology Limited | DataStar command line interface: builds deployment packages from source control… |
-| 2026-10-05 20:02:44 | [DataStar.Tools.osx-x64](https://www.nuget.org/packages/DataStar.Tools.osx-x64) | 3.1.0 | Absolute Technology Limited | DataStar command line interface: builds deployment packages from source control… |
-| 2026-10-05 20:02:59 | [Brows.Win32.Interop](https://www.nuget.org/packages/Brows.Win32.Interop) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-05 20:03:00 | [Brows.Win32.Interop.Composition](https://www.nuget.org/packages/Brows.Win32.Interop.Composition) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-05 20:03:05 | [Brows.Win32.Interop.Operations](https://www.nuget.org/packages/Brows.Win32.Interop.Operations) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-05 20:03:13 | [DataStar.Tools.osx-arm64](https://www.nuget.org/packages/DataStar.Tools.osx-arm64) | 3.1.0 | Absolute Technology Limited | DataStar command line interface: builds deployment packages from source control… |
-| 2026-10-05 20:03:42 | [DataStar.Tools.linux-x64](https://www.nuget.org/packages/DataStar.Tools.linux-x64) | 3.1.0 | Absolute Technology Limited | DataStar command line interface: builds deployment packages from source control… |
-| 2026-10-05 20:04:03 | [DataStar.Tools.linux-arm64](https://www.nuget.org/packages/DataStar.Tools.linux-arm64) | 3.1.0 | Absolute Technology Limited | DataStar command line interface: builds deployment packages from source control… |
+| 2026-10-05 20:20:50 | [Durable.InMemory](https://www.nuget.org/packages/Durable.InMemory) | 0.4.0 | jchristn,joshclopton | In-memory backend for Durable ORM: the reference IRepositoryBackend implementat… |
+| 2026-10-05 20:20:52 | [Durable.Conformance](https://www.nuget.org/packages/Durable.Conformance) | 0.4.0 | jchristn,joshclopton | Conformance kit for Durable ORM backends. Implement IConformanceTarget for your… |
+| 2026-10-05 20:27:05 | [AuthV4](https://www.nuget.org/packages/AuthV4) | 4.0.2 | Authris | Authris license client SDK |
+| 2026-10-05 20:30:39 | [Archestack.Cli](https://www.nuget.org/packages/Archestack.Cli) | 1.0.1 | Archestack | Build, test, plan and deploy an Archestack repository from a pipeline: a throwa… |
+| 2026-10-05 20:33:11 | [Bambi.Yarp.Ntlm](https://www.nuget.org/packages/Bambi.Yarp.Ntlm) | 2.3.0 | Bambi på hal is | Yarp.ReverseProxy extension that enables proxying connection-based Windows auth… |
+| 2026-10-05 20:39:08 | [Crono.Licenciamiento](https://www.nuget.org/packages/Crono.Licenciamiento) | 1.0.0 | Eduardo Rojas Ochante | Verificador de licencias de los módulos de Crono. |
+| 2026-10-05 21:10:02 | [Mathesis.Validation](https://www.nuget.org/packages/Mathesis.Validation) | 0.1.0 | Damien Gilbert | DataAnnotations validation attributes for mathematical input: exact numbers, ra… |
+| 2026-10-05 21:10:41 | [Mathesis.Symbolics](https://www.nuget.org/packages/Mathesis.Symbolics) | 0.1.0 | Damien Gilbert | The Mathesis expression tree: parser, printers, normalizer, assumptions, patter… |
+| 2026-10-05 21:11:08 | [Mathesis.Numerics](https://www.nuget.org/packages/Mathesis.Numerics) | 0.1.0 | Damien Gilbert | Numerical analysis for Mathesis: root finding, quadrature, differentiation, int… |
+| 2026-10-05 21:11:45 | [Mathesis.LinearAlgebra](https://www.nuget.org/packages/Mathesis.LinearAlgebra) | 0.1.0 | Damien Gilbert | Dense vectors and matrices for Mathesis with exact row reduction, determinants… |
+| 2026-10-05 21:12:04 | [dxCompany.Script](https://www.nuget.org/packages/dxCompany.Script) | 2026.10.5.1 | dxCompany | Write a dxScript: a C# file that runs on its own, in dxStudio, or under dxAgent… |
+| 2026-10-05 21:12:09 | [Mathesis.Knowledge](https://www.nuget.org/packages/Mathesis.Knowledge) | 0.1.0 | Damien Gilbert | The Mathesis knowledge catalog: verified laws, formulas and theorems with their… |
+| 2026-10-05 21:12:40 | [Mathesis.Core](https://www.nuget.org/packages/Mathesis.Core) | 0.1.0 | Damien Gilbert | Exact numbers (BigRational, complex, dual, interval), results with budgets and… |
+| 2026-10-05 21:13:09 | [Mathesis](https://www.nuget.org/packages/Mathesis) | 0.1.0 | Damien Gilbert | A computer algebra library for .NET with step-by-step explanations: simplify, d… |
+| 2026-10-05 21:13:55 | [ShotDetector.Cli](https://www.nuget.org/packages/ShotDetector.Cli) | 0.3.0 | Jakob Boman | shotdetect: shot/cut detection from the command line, with the same results as… |
+| 2026-10-05 21:15:46 | [MessageLoop.Web.Common](https://www.nuget.org/packages/MessageLoop.Web.Common) | 1.0.0 | Daniil Dudin | Provides a set of controllers for managing long-running operations and custom m… |
 
 ## Data source
 

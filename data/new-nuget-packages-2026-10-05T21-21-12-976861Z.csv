@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-05T20:20:50.923Z,Durable.InMemory,0.4.0,"jchristn,joshclopton","In-memory backend for Durable ORM: the reference IRepositoryBackend implementation with snapshot-isolation transactions, value converters, JSON columns, includes and full LINQ query evaluation. Ideal for tests and prototyping."
+2026-10-05T20:20:52.57Z,Durable.Conformance,0.4.0,"jchristn,joshclopton","Conformance kit for Durable ORM backends. Implement IConformanceTarget for your IRepository<T> backend (SQL, document store, search engine, graph store, in-memory) and run the capability-aware Touchstone suites from ConformanceSuites.Build to prove CRUD, querying, includes, grouping, projections, q…"
+2026-10-05T20:27:05.79Z,AuthV4,4.0.2,Authris,Authris license client SDK
+2026-10-05T20:30:39.837Z,Archestack.Cli,1.0.1,Archestack,"Build, test, plan and deploy an Archestack repository from a pipeline: a throwaway Archestack as the compiler, the packages' tests, and a reviewed plan applied to test, acceptance and production."
+2026-10-05T20:33:11.83Z,Bambi.Yarp.Ntlm,2.3.0,Bambi på hal is,Yarp.ReverseProxy extension that enables proxying connection-based Windows authentication (NTLM and Kerberos/Negotiate) to destination servers
+2026-10-05T20:39:08.643Z,Crono.Licenciamiento,1.0.0,Eduardo Rojas Ochante,Verificador de licencias de los módulos de Crono.
+2026-10-05T21:10:02.07Z,Mathesis.Validation,0.1.0,Damien Gilbert,"DataAnnotations validation attributes for mathematical input: exact numbers, ranges, expressions, equations, polynomials and matrices, with error codes, source spans and suggestions."
+2026-10-05T21:10:41.397Z,Mathesis.Symbolics,0.1.0,Damien Gilbert,"The Mathesis expression tree: parser, printers, normalizer, assumptions, pattern matching, rewrite engine and power series."
+2026-10-05T21:11:08.027Z,Mathesis.Numerics,0.1.0,Damien Gilbert,"Numerical analysis for Mathesis: root finding, quadrature, differentiation, interpolation, optimization and ODE solvers over generic floating-point types."
+2026-10-05T21:11:45.26Z,Mathesis.LinearAlgebra,0.1.0,Damien Gilbert,"Dense vectors and matrices for Mathesis with exact row reduction, determinants and inverses over the rationals and numeric decompositions."
+2026-10-05T21:12:04.957Z,dxCompany.Script,2026.10.5.1,dxCompany,"Write a dxScript: a C# file that runs on its own, in dxStudio, or under dxAgent, and always ends with a report."
+2026-10-05T21:12:09.267Z,Mathesis.Knowledge,0.1.0,Damien Gilbert,"The Mathesis knowledge catalog: verified laws, formulas and theorems with their conditions, levels and explanations."
+2026-10-05T21:12:40.183Z,Mathesis.Core,0.1.0,Damien Gilbert,"Exact numbers (BigRational, complex, dual, interval), results with budgets and provisos, polynomials and the shared contracts of Mathesis."
+2026-10-05T21:13:09.663Z,Mathesis,0.1.0,Damien Gilbert,"A computer algebra library for .NET with step-by-step explanations: simplify, differentiate, integrate, solve and look up the law behind every step."
+2026-10-05T21:13:55.253Z,ShotDetector.Cli,0.3.0,Jakob Boman,"shotdetect: shot/cut detection from the command line, with the same results as PySceneDetect's scenedetect (list-scenes, stats, save-images, split-video). Needs ffmpeg."
+2026-10-05T21:15:46.84Z,MessageLoop.Web.Common,1.0.0,Daniil Dudin,Provides a set of controllers for managing long-running operations and custom messages.
