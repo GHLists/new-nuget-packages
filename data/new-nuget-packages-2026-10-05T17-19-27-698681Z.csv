@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-05T16:20:51.36Z,TriQL.Client.Compression,1.0.0,TriQL Contributors,"LZ4 and Zstandard codec support for the TriQL Trino spooled protocol, isolated from the dependency-free core client."
+2026-10-05T16:20:51.847Z,TriQL.Data.ADO,1.0.0,TriQL Contributors,"An ADO.NET provider (DbConnection, DbCommand, DbDataReader) for Trino, built on the TriQL client."
+2026-10-05T16:20:52.19Z,TriQL.Client,1.0.0,TriQL Contributors,"A .NET client and SDK for Trino (formerly Presto): session management, streaming query execution, and the Trino type system."
+2026-10-05T16:20:52.65Z,TriQL.Client.Auth,1.0.0,TriQL Contributors,"Cloud and enterprise authentication providers (Microsoft Entra ID, OAuth 2.0) for the TriQL .NET client for Trino."
+2026-10-05T16:22:11.533Z,Ternary.Data.Core,0.1.2,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-05T16:22:16.747Z,Marey.Anim,0.3.0,Marey contributors,"Animation as a pure function of time: a seekable, composable Anim<'a> with a verified algebra, the easing catalogue, and arc-length path morphing. Depends only on Marey.Core."
+2026-10-05T16:22:19.707Z,Marey.Toolchain,0.3.0,Marey contributors,Resolution and invocation of the external programs Marey drives but does not ship. Zero dependencies.
+2026-10-05T16:22:20.677Z,Marey.Backend.Skia,0.3.0,Marey contributors,"PNG and PDF output through SkiaSharp, with real text shaping via HarfBuzz. The first Marey backend that measures text rather than estimating it."
+2026-10-05T16:22:21.64Z,Marey.Tools.Video,0.3.0,Marey contributors,Encode a rendered frame sequence to video by shelling out to ffmpeg. Degrades to the numbered frames when ffmpeg is absent.
+2026-10-05T16:22:22.75Z,Marey.Tools.Tex,0.3.0,Marey contributors,"Mathematical typesetting for Marey figures: TeX source on a scene's text runs becomes vector outlines, by shelling out to latex and dvisvgm. Degrades to plain text when TeX is absent."
+2026-10-05T16:22:23.913Z,Ternary.Data.Csv,0.1.2,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-05T16:22:55.803Z,Ternary.Data.MsSql,0.1.2,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-05T16:22:59.877Z,DecisionsDotNet,0.0.1-preview,Adam Holm,"Type-safe .NET client for TypeSafe AI Jev models and the OpenRouter Decisions API, with typed decision questions and responses, dependency injection, cancellation, and bounded HTTP retries."
+2026-10-05T16:23:29.863Z,Ternary.Data.SqlLite,0.1.2,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-05T16:38:23.573Z,tryAGI.Muse,0.0.0-dev,tryAGI and contributors,"C# SDK for the Muse Gadget API -- device API, encrypted multiplexed transport, and streamed chat."
+2026-10-05T16:49:54.01Z,Arjo.UmbracoVisualEditor,18.0.0,Richard Ockerby,"Edit Umbraco content on the page itself: the Visual editor renders your real front end, with unsaved changes, and lets editors change text in place, move, add and edit blocks, and use Umbraco's own property editors beside the page."
