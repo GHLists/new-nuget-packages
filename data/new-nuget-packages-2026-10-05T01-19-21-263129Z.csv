@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-05T00:26:52.84Z,Mopups.JimmyPun610,1.3.5,"Tyson Hooker,Maksym Koshovyi,Aswin P G, Kirill Lyubimov, Martijn Van Dijk, Shane Neuville","Popups for MAUI, Temperary build for fixing iOS 27 crash"
+2026-10-05T00:45:35.753Z,VpnHood.AppUi.Hosting.Abstractions,8.2.853.11-prerelea…,VpnHood.AppUi.Hosting.Abstractions,"What a desktop host and a desktop UI agree on - IDesktopUi and what the host hands it - so that UI packages and hosts both reference this, and neither references the other"
+2026-10-05T00:45:40.463Z,VpnHood.AppUi.Hosting.Avalonia.Ios,8.2.853.11-prerelea…,VpnHood.AppUi.Hosting.Avalonia.Ios,Hosts the VpnHood Avalonia UI in an iOS app: the application delegate a head's AppDelegate derives from
+2026-10-05T00:45:43.373Z,VpnHood.AppUi.Hosting.Cli.Windows,8.2.853.11-prerelea…,VpnHood.AppUi.Hosting.Cli.Windows,"The VpnHood command line on Windows: a LocalSystem service is the app, ProgramData is its storage, and the window, the tray and the commands run as whoever is signed in. Everything the commands themselves do is VpnHood.AppUi.Hosting.Cli"
+2026-10-05T00:56:03.68Z,StdUnit.Tags.Templates,0.5.0,itminus,Templates for StdUnit.Tags project

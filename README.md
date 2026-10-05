@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 00:21 UTC
+## Latest list — 2026-10-05 01:19 UTC
 
-New packages created between 2026-10-04 23:21 UTC and 2026-10-05 00:21 UTC.
+New packages created between 2026-10-05 00:21 UTC and 2026-10-05 01:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-05T00-21-40-139143Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-05T01-19-21-263129Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-04 23:31:29 | [Myscotek.DataCompare](https://www.nuget.org/packages/Myscotek.DataCompare) | 1.2026.10.2 | Myscotek | XrmToolBox tool. Connect to the environment the data came from (primary) and th… |
-| 2026-10-04 23:47:39 | [Structly.AI.Testing](https://www.nuget.org/packages/Structly.AI.Testing) | 0.4.0 | menk-dev | Typed, structured LLM output for automated .NET workflows. |
-| 2026-10-04 23:56:45 | [Atlas.Sdk](https://www.nuget.org/packages/Atlas.Sdk) | 1.0.0 | Atlas | Official .NET / C# backend SDK for the Atlas authentication platform. A typed,… |
+| 2026-10-05 00:26:52 | [Mopups.JimmyPun610](https://www.nuget.org/packages/Mopups.JimmyPun610) | 1.3.5 | Tyson Hooker,Maksym Koshovyi,… | Popups for MAUI, Temperary build for fixing iOS 27 crash |
+| 2026-10-05 00:45:35 | [VpnHood.AppUi.Hosting.Abstractions](https://www.nuget.org/packages/VpnHood.AppUi.Hosting.Abstractions) | 8.2.853.11-prerelea… | VpnHood.AppUi.Hosting.Abstrac… | What a desktop host and a desktop UI agree on - IDesktopUi and what the host ha… |
+| 2026-10-05 00:45:40 | [VpnHood.AppUi.Hosting.Avalonia.Ios](https://www.nuget.org/packages/VpnHood.AppUi.Hosting.Avalonia.Ios) | 8.2.853.11-prerelea… | VpnHood.AppUi.Hosting.Avaloni… | Hosts the VpnHood Avalonia UI in an iOS app: the application delegate a head's… |
+| 2026-10-05 00:45:43 | [VpnHood.AppUi.Hosting.Cli.Windows](https://www.nuget.org/packages/VpnHood.AppUi.Hosting.Cli.Windows) | 8.2.853.11-prerelea… | VpnHood.AppUi.Hosting.Cli.Win… | The VpnHood command line on Windows: a LocalSystem service is the app, ProgramD… |
+| 2026-10-05 00:56:03 | [StdUnit.Tags.Templates](https://www.nuget.org/packages/StdUnit.Tags.Templates) | 0.5.0 | itminus | Templates for StdUnit.Tags project |
 
 ## Data source
 
