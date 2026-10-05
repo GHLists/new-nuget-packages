@@ -12,26 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 11:20 UTC
+## Latest list — 2026-10-05 12:21 UTC
 
-New packages created between 2026-10-05 10:20 UTC and 2026-10-05 11:20 UTC.
+New packages created between 2026-10-05 11:20 UTC and 2026-10-05 12:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-05T11-20-08-880653Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-05T12-21-02-783083Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-05 10:38:34 | [ShotDetector](https://www.nuget.org/packages/ShotDetector) | 0.1.0 | Jakob Boman | Shot/cut detection for video, a faithful C# port of PySceneDetect's ContentDete… |
-| 2026-10-05 10:38:35 | [ShotDetector.FastYuv](https://www.nuget.org/packages/ShotDetector.FastYuv) | 0.1.0 | Jakob Boman | Optional fast path for ShotDetector: a bit-exact port of FFmpeg's yuv420p to BG… |
-| 2026-10-05 10:43:13 | [ASTrio.ScanBridge](https://www.nuget.org/packages/ASTrio.ScanBridge) | 1.0.0 | ASTrio | A .NET library for integrating USB-COM/Serial and USB HID Keyboard barcode scan… |
-| 2026-10-05 10:47:47 | [DCS.WebDav.AspNetCore.Server](https://www.nuget.org/packages/DCS.WebDav.AspNetCore.Server) | 1.0.0 | Daniel Calin Stanus | Fork of Dav.AspNetCore.Server (MIT) providing a WebDav implementation for ASP.N… |
-| 2026-10-05 10:47:47 | [DCS.WebDav.AspNetCore.Server.Extensions.SqlServer](https://www.nuget.org/packages/DCS.WebDav.AspNetCore.Server.Extensions.SqlServer) | 1.0.0 | Daniel Calin Stanus | SQL Server lock manager and property store for DCS.WebDav.AspNetCore.Server. Ba… |
-| 2026-10-05 10:47:48 | [DCS.WebDav.AspNetCore.Server.Extensions.Sqlite](https://www.nuget.org/packages/DCS.WebDav.AspNetCore.Server.Extensions.Sqlite) | 1.0.0 | Daniel Calin Stanus | SQLite lock manager and property store for DCS.WebDav.AspNetCore.Server. Based… |
-| 2026-10-05 10:47:49 | [DCS.WebDav.AspNetCore.Server.Extensions.Npgsql](https://www.nuget.org/packages/DCS.WebDav.AspNetCore.Server.Extensions.Npgsql) | 1.0.0 | Daniel Calin Stanus | PostgreSQL (Npgsql) lock manager and property store for DCS.WebDav.AspNetCore.S… |
-| 2026-10-05 10:55:53 | [Rewloy](https://www.nuget.org/packages/Rewloy) | 0.2.3 | Rewloy | The official .NET library for the Rewloy API (digital loyalty cards in Apple Wa… |
-| 2026-10-05 10:57:41 | [PowerCLI](https://www.nuget.org/packages/PowerCLI) | 1.0.1 | Raffaele Rialdi (@raffaeler) | A console-independent interactive terminal library with fluent commands, quote-… |
-| 2026-10-05 10:58:05 | [PowerCLI.AspNetCore](https://www.nuget.org/packages/PowerCLI.AspNetCore) | 1.0.1 | Raffaele Rialdi (@raffaeler) | Dependency injection registrations and a terminal background service for integr… |
-| 2026-10-05 11:00:09 | [RS.DeLucru](https://www.nuget.org/packages/RS.DeLucru) | 1.2.0 | Romanian Software | RS.DeLucru |
-| 2026-10-05 11:09:34 | [MiSeal.Core](https://www.nuget.org/packages/MiSeal.Core) | 2.2.1 | ck_yeun9 | 涉密信息加密工具（常用于证件号码、联系方式、住址等隐私信息），基于咖啡与网络(Java&Net) 的 EncryptTools 2.0.1.1（MIT）评估与… |
+| 2026-10-05 11:32:10 | [Darker98.MaxioAdvancedBilling](https://www.nuget.org/packages/Darker98.MaxioAdvancedBilling) | 1.0.0 | Darker98 | Unofficial .NET SDK for the Maxio Advanced Billing (Chargify) REST API, generat… |
+| 2026-10-05 11:43:12 | [Delta1Labs.Nebula.Tool](https://www.nuget.org/packages/Delta1Labs.Nebula.Tool) | 1.1.3 | Delta-1 Labs | Cross-platform .NET obfuscation & hardening CLI (the `nebula` dotnet tool). Ren… |
+| 2026-10-05 11:43:14 | [EasyAdsIntegrationValidator](https://www.nuget.org/packages/EasyAdsIntegrationValidator) | 1.0.0 | techdigga | Static Unity AppLovin MAX and Unity LevelPlay mediation validator for CLI, CI,… |
+| 2026-10-05 11:43:16 | [EasyAdsIntegrationValidator.Mcp](https://www.nuget.org/packages/EasyAdsIntegrationValidator.Mcp) | 1.0.0 | techdigga | Local stdio MCP server for static Unity AppLovin MAX and Unity LevelPlay mediat… |
+| 2026-10-05 11:46:12 | [SigmaOrigo.Diagnostics.Simulation](https://www.nuget.org/packages/SigmaOrigo.Diagnostics.Simulation) | 2.0.0 | sigmaorigo | Sigma Origo Diagnostics Simulation SDK [2.0.0.17666-20261005.2] |
+| 2026-10-05 11:49:45 | [ZeroOcr.Inference](https://www.nuget.org/packages/ZeroOcr.Inference) | 1.1.0 | Phong Võ (kzxl) | Sovereign cross-platform Deep Learning OCR Engine (DBNet++ Detection and RepSVT… |
+| 2026-10-05 11:51:53 | [Mabang.Sdk.Gateway.Client](https://www.nuget.org/packages/Mabang.Sdk.Gateway.Client) | 0.1.0 | Mabang SDK Contributors | Mabang.Sdk.Gateway 开放通道（/open/**）的强类型 HTTP 客户端。 |
+| 2026-10-05 11:51:54 | [Mabang.Sdk.Gateway.Contracts](https://www.nuget.org/packages/Mabang.Sdk.Gateway.Contracts) | 0.1.0 | Mabang SDK Contributors | Mabang.Sdk.Gateway 开放通道（/open/**）的请求/响应契约，供 Gateway 服务端与客户端共享。 |
+| 2026-10-05 11:54:07 | [Mabang.Sdk](https://www.nuget.org/packages/Mabang.Sdk) | 0.1.0 | Mabang SDK Contributors | 面向 .NET 10 的马帮客户端 SDK，统一封装马帮公开 API 与已授权网页接口调用。 |
+| 2026-10-05 11:54:08 | [Mabang.Sdk.DependencyInjection](https://www.nuget.org/packages/Mabang.Sdk.DependencyInjection) | 0.1.0 | Mabang SDK Contributors | Mabang.Sdk 在 .NET 10 上的依赖注入集成。 |
+| 2026-10-05 11:54:10 | [Mabang.Sdk.Redis](https://www.nuget.org/packages/Mabang.Sdk.Redis) | 0.1.0 | Mabang SDK Contributors | 基于 Redis 的 Mabang.Sdk 账号注册与网页会话存储适配器。 |
+| 2026-10-05 11:54:11 | [Mabang.Sdk.Sqlite](https://www.nuget.org/packages/Mabang.Sdk.Sqlite) | 0.1.0 | Mabang SDK Contributors | 基于 SQLite 的 Mabang.Sdk 账号注册与网页会话存储适配器。 |
+| 2026-10-05 11:56:47 | [Cli.Generator](https://www.nuget.org/packages/Cli.Generator) | 1.0.0 | honey the codewitch | Incremental source generator for command line argument parsing. |
+| 2026-10-05 11:57:38 | [Xxfast.Kotlin.Native.Interop](https://www.nuget.org/packages/Xxfast.Kotlin.Native.Interop) | 0.9.0 | xxfast | Shared exception and presence contracts for Kotlin/Native NuGet bindings. |
+| 2026-10-05 12:03:04 | [Ram3Ex](https://www.nuget.org/packages/Ram3Ex) | 1.0.0 | Me | This is a test nupkg. |
+| 2026-10-05 12:07:36 | [SurveyJS.Core](https://www.nuget.org/packages/SurveyJS.Core) | 3.1.2 | DevSoft Baltic OU | SurveyJS Form Library core: survey model, CSS, and theme adapters (Bootstrap, M… |
+| 2026-10-05 12:09:00 | [SurveyJS.JsUi](https://www.nuget.org/packages/SurveyJS.JsUi) | 3.1.2 | DevSoft Baltic OU | SurveyJS Form Library vanilla JavaScript / jQuery renderer. Depends on SurveyJS… |
+| 2026-10-05 12:09:23 | [SurveyJS](https://www.nuget.org/packages/SurveyJS) | 3.1.2 | DevSoft Baltic OU | SurveyJS Form Library for ASP.NET Core and Blazor. Pulls SurveyJS.Core and Surv… |
+| 2026-10-05 12:09:58 | [Soenneker.OpenZl.Linux](https://www.nuget.org/packages/Soenneker.OpenZl.Linux) | 4.0.1 | Jake Soenneker | Bundled native OpenZL shared library for Linux x64. |
+| 2026-10-05 12:10:03 | [Soenneker.OpenZl.Windows](https://www.nuget.org/packages/Soenneker.OpenZl.Windows) | 4.0.1 | Jake Soenneker | Bundled native OpenZL shared library for Windows x64. |
 
 ## Data source
 

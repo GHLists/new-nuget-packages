@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-05T11:32:10.343Z,Darker98.MaxioAdvancedBilling,1.0.0,Darker98,"Unofficial .NET SDK for the Maxio Advanced Billing (Chargify) REST API, generated with APIMatic. Not affiliated with or endorsed by Maxio."
+2026-10-05T11:43:12.123Z,Delta1Labs.Nebula.Tool,1.1.3,Delta-1 Labs,"Cross-platform .NET obfuscation & hardening CLI (the `nebula` dotnet tool). Renaming, control-flow obfuscation, string/constant/resource/method encryption, reference (proxy-call) obfuscation, anti-debug/anti-tamper and metadata hardening for .NET Framework 4.8 through .NET 10 — for Windows, Linux a…"
+2026-10-05T11:43:14.793Z,EasyAdsIntegrationValidator,1.0.0,techdigga,"Static Unity AppLovin MAX and Unity LevelPlay mediation validator for CLI, CI, MCP, Codex, Claude, and game development workflows."
+2026-10-05T11:43:16.107Z,EasyAdsIntegrationValidator.Mcp,1.0.0,techdigga,"Local stdio MCP server for static Unity AppLovin MAX and Unity LevelPlay mediation reports in Codex, Claude, and compatible coding agents."
+2026-10-05T11:46:12.717Z,SigmaOrigo.Diagnostics.Simulation,2.0.0,sigmaorigo,Sigma Origo Diagnostics Simulation SDK [2.0.0.17666-20261005.2]
+2026-10-05T11:49:45.667Z,ZeroOcr.Inference,1.1.0,Phong Võ (kzxl),Sovereign cross-platform Deep Learning OCR Engine (DBNet++ Detection and RepSVTR Recognition) powered by ZeroInference and ZeroTensor for ZeroPlatform.
+2026-10-05T11:51:53Z,Mabang.Sdk.Gateway.Client,0.1.0,Mabang SDK Contributors,Mabang.Sdk.Gateway 开放通道（/open/**）的强类型 HTTP 客户端。
+2026-10-05T11:51:54.297Z,Mabang.Sdk.Gateway.Contracts,0.1.0,Mabang SDK Contributors,Mabang.Sdk.Gateway 开放通道（/open/**）的请求/响应契约，供 Gateway 服务端与客户端共享。
+2026-10-05T11:54:07.703Z,Mabang.Sdk,0.1.0,Mabang SDK Contributors,面向 .NET 10 的马帮客户端 SDK，统一封装马帮公开 API 与已授权网页接口调用。
+2026-10-05T11:54:08.647Z,Mabang.Sdk.DependencyInjection,0.1.0,Mabang SDK Contributors,Mabang.Sdk 在 .NET 10 上的依赖注入集成。
+2026-10-05T11:54:10.45Z,Mabang.Sdk.Redis,0.1.0,Mabang SDK Contributors,基于 Redis 的 Mabang.Sdk 账号注册与网页会话存储适配器。
+2026-10-05T11:54:11.883Z,Mabang.Sdk.Sqlite,0.1.0,Mabang SDK Contributors,基于 SQLite 的 Mabang.Sdk 账号注册与网页会话存储适配器。
+2026-10-05T11:56:47.047Z,Cli.Generator,1.0.0,honey the codewitch,Incremental source generator for command line argument parsing.
+2026-10-05T11:57:38.863Z,Xxfast.Kotlin.Native.Interop,0.9.0,xxfast,Shared exception and presence contracts for Kotlin/Native NuGet bindings.
+2026-10-05T12:03:04.22Z,Ram3Ex,1.0.0,Me,This is a test nupkg.
+2026-10-05T12:07:36.56Z,SurveyJS.Core,3.1.2,DevSoft Baltic OU,"SurveyJS Form Library core: survey model, CSS, and theme adapters (Bootstrap, MUI, shadcn). Pair with SurveyJS.JsUi or the SurveyJS metapackage to render. Corresponds to the survey-core npm package."
+2026-10-05T12:09:00.17Z,SurveyJS.JsUi,3.1.2,DevSoft Baltic OU,SurveyJS Form Library vanilla JavaScript / jQuery renderer. Depends on SurveyJS.Core. Corresponds to the survey-js-ui npm package.
+2026-10-05T12:09:23.643Z,SurveyJS,3.1.2,DevSoft Baltic OU,SurveyJS Form Library for ASP.NET Core and Blazor. Pulls SurveyJS.Core and SurveyJS.JsUi (survey-core + survey-js-ui).
+2026-10-05T12:09:58.95Z,Soenneker.OpenZl.Linux,4.0.1,Jake Soenneker,Bundled native OpenZL shared library for Linux x64.
+2026-10-05T12:10:03.303Z,Soenneker.OpenZl.Windows,4.0.1,Jake Soenneker,Bundled native OpenZL shared library for Windows x64.
