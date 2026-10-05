@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-05T04:01:46.86Z,Godex,0.1.2,altamkp,Extension library for Godot in C#.
+2026-10-05T04:01:47.61Z,Godex.Async,0.1.2,altamkp,Asynchronous extension library for Godot in C#.
+2026-10-05T04:01:48.42Z,Godex.Hosting,0.1.2,altamkp,Hosting extension library for Godot in C#.
+2026-10-05T04:07:09.247Z,Depa.Cozo,0.1.0,Depa,Thin .NET binding for the Cozo native C API.
+2026-10-05T04:13:35.797Z,Depa.Datalog.Core,0.1.0,Depa,"Portable Datalog parser, validator, normalized IR, and diagnostics."
+2026-10-05T04:13:37.69Z,Depa.Datalog.Cozo,0.1.0,Depa,CozoScript backend for Depa Datalog IR.
+2026-10-05T04:13:40.307Z,Depa.Ontology,0.1.0,Depa,Depa object-model and ontology runtime.
+2026-10-05T04:13:42.297Z,Depa.Ontology.Portability.Yaml,0.1.0,Depa,Safe YAML adapter for Depa ontology behavior manifests.
+2026-10-05T04:13:44.243Z,Depa.Ontology.Scripting.Jint,0.1.0,Depa,Optional Jint adapter for Depa ontology callbacks.
