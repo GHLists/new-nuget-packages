@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-05T18:31:36.173Z,cap.dotnetdoctor,1.1.0,DotnetDoctor,A .NET global tool for diagnosing .NET development environments.
+2026-10-05T18:43:52.54Z,Menchul.GeoNames.org.MSSQL,3.0.0,Ivan Perehynets,Package Description
+2026-10-05T18:43:53.907Z,Menchul.GeoNames.org.PostgreSQL,3.0.0,Ivan Perehynets,Package Description
+2026-10-05T18:43:55.223Z,Menchul.GeoNames.org.SQLite,3.0.0,Ivan Perehynets,Package Description
+2026-10-05T18:47:32.613Z,Asteroid.Validation.CompilerTools,0.1.0,Asteroid.Validation.CompilerTools,Source generator paired with Asteroid.Validation (registration-closure plan emission).
+2026-10-05T18:47:34.733Z,Asteroid.UiScene.CompilerTools,0.1.0,Asteroid.UiScene.CompilerTools,Source generator paired with Asteroid UiToolkit scene localization ([UiScene]/[Text]).
+2026-10-05T18:47:55.533Z,JuffMa.Controls.Acrylic,1.0.0,Julian Rossbach,Simple and minimal acrylic/frosted glass controls for AvaloniaUI.
+2026-10-05T18:53:39.607Z,Novolis.Silk,2026.1.1.2,Novolis,Novolis Silk — one install for GLFW/OpenGL hosts. Pins Silk.NET transitively. Does not reference Rendering.
+2026-10-05T18:53:40.543Z,Novolis.Silk.Capture,2026.1.1.2,Novolis,OpenGL framebuffer readback for Novolis.Silk hosts (Rgba32 pixels).
+2026-10-05T18:53:41.47Z,Novolis.Silk.Compute,2026.1.1.2,Novolis,Silk.NET Vulkan + Shaderc compute helpers over BCL/Math buffers. Does not reference Novolis.Rendering.
+2026-10-05T18:53:42.403Z,Novolis.Silk.Game,2026.1.1.2,Novolis,"Jam loop for Novolis.Silk — Run(title, size, update) with no scene types."
+2026-10-05T18:53:43.28Z,Novolis.Silk.Runtime,2026.1.1.2,Novolis,"Silk.NET window, OpenGL context, input, planar quad batch, and CPU-pixel blit. The only Novolis assembly that references Silk.NET OpenGL/windowing."
+2026-10-05T18:54:14.227Z,Sharp.Tui,0.1.0,Goshya,"A small, dependency-free, NativeAOT-clean TUI framework for .NET built around The Elm Architecture (Model-Update-View)."
+2026-10-05T19:04:02.33Z,FT.AmoCRM,1.0.3,FT.AmoCRM contributors,".NET Standard client for the amoCRM API v4 with OAuth, typed CRM resources, filters, custom fields, tasks and webhooks."
+2026-10-05T19:07:35.01Z,replay.blackice.msgpack,1.0.2,replay,replay.re BlackICE Script SDK -- Visit docs.replay.re for more information
+2026-10-05T19:07:36.49Z,replay.blackice.shared,1.0.2,replay,replay.re BlackICE Script SDK -- Visit docs.replay.re for more information
