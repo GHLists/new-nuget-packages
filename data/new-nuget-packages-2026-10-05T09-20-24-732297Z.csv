@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-05T08:21:31.573Z,umBlogGenerator,1.0.0,OSKI solutions,"Generate SEO comparison blogs in Umbraco with AI — peer research, logos, and Block Grid publishing."
+2026-10-05T08:34:48.66Z,LilyDesignSystem.Blazor.SearchPicker,0.1.0,Joel Parker Henderson,"Lily Design System Blazor search picker: a magnifying-glass icon button opening a search field and a return-symbol submit button that navigates to /?query. Headless, SSR-safe, no CSS."
+2026-10-05T08:45:57.497Z,cef.runtime.win-arm64,154.0.33,The Chromium Embedded Framework Authors,Chromium Embedded Framework (CEF) Release Distribution NOTE: This package is maintained on behalf of the CEF authors by DEON
+2026-10-05T08:46:05.627Z,cef.runtime.win-x64,154.0.33,The Chromium Embedded Framework Authors,Chromium Embedded Framework (CEF) Release Distribution NOTE: This package is maintained on behalf of the CEF authors by DEON
+2026-10-05T08:47:21.587Z,Stimulsoft.WebP,2026.4.1,Stimulsoft,A library for decoding WebP images in Stimulsoft products.
+2026-10-05T08:49:35.977Z,MirrorPulse.Adapter.Sdk,0.2.1,MirrorPulse Team,Canonical public contracts and runtime for MirrorPulse Adapter Workers.
+2026-10-05T08:50:53.427Z,WinUia,0.0.1,Buning Software,"Automate Windows applications through UI Automation: launch, attach, find and interact."
+2026-10-05T08:50:54.543Z,WinUia.Core,0.0.1,Buning Software,A dependency-free .NET wrapper around the Windows UI Automation (UIA3) COM API.
+2026-10-05T08:50:55.56Z,WinUia.Input,0.0.1,Buning Software,"Physical mouse and keyboard input (SendInput) in physical pixels, for WinUia."
+2026-10-05T08:50:56.723Z,WinUia.NUnit,0.0.1,Buning Software,"NUnit integration for WinUia: [UiTest], which gives each UI test the desktop to itself, and Eventually for asynchronous UI state."
+2026-10-05T09:00:48.31Z,EmbedIO-Neo.DependencyInjection,1.0.1,"William Smith,EmbedIO contributors",Optional dependency injection and Generic Host integration for EmbedIO-Neo.
+2026-10-05T09:05:18.597Z,Appliman.LongTaskNotifier,1.2.12,Appliman,Composants Blazor pour la notification et le suivi de tâches longues dans les applications Appliman.
+2026-10-05T09:05:20.27Z,Appliman.LongTaskNotifier.Abstractions,1.2.12,Appliman,Abstractions pour la notification de tâches longues dans Appliman. Contient les interfaces et modèles partagés.
+2026-10-05T09:05:21.623Z,Appliman.MetaEntityGenerator,1.0.7,Appliman,Meta Entity Generator
+2026-10-05T09:05:22.69Z,Appliman.MetaEntityGenerator.Abstraction,1.0.7,Appliman,Meta Entity Generator Abstraction
+2026-10-05T09:05:29.883Z,Astroway.Sdk,0.1.0,AstroWay,"Official .NET client for the AstroWay astrology API: natal charts, synastry, transits, Vedic dashas, Human Design, Tarot, numerology, SVG chart wheels and 700+ more endpoints."
