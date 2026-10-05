@@ -12,60 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:20 UTC
+## Latest list — 2026-10-05 23:19 UTC
 
-New packages created between 2026-10-05 21:21 UTC and 2026-10-05 22:20 UTC.
+New packages created between 2026-10-05 22:20 UTC and 2026-10-05 23:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-05T22-20-42-944475Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-05T23-19-19-660487Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-05 21:24:59 | [HerrGeneral.Primitives](https://www.nuget.org/packages/HerrGeneral.Primitives) | 1.6.0 | HerrGeneral.Primitives | Lightweight functional primitives and transaction boundaries for HerrGeneral. |
-| 2026-10-05 21:40:49 | [HerrGeneral.OpenTelemetry](https://www.nuget.org/packages/HerrGeneral.OpenTelemetry) | 1.6.0 | Codeve Soft | OpenTelemetry instrumentation extensions for HerrGeneral CQRS library |
-| 2026-10-05 21:40:50 | [HerrGeneral.Testing](https://www.nuget.org/packages/HerrGeneral.Testing) | 1.6.0 | Codeve Soft | Testing utilities and fluent assertion extensions for HerrGeneral CQRS applicat… |
-| 2026-10-05 21:41:40 | [Libmem.NET](https://www.nuget.org/packages/Libmem.NET) | 2.0.0 | xiaohei7972 | Windows x64 / .NET 8 C++/CLI wrapper for rdbo/libmem, providing managed process… |
-| 2026-10-05 21:43:57 | [Kkdev92.Tisilia.Explorer](https://www.nuget.org/packages/Kkdev92.Tisilia.Explorer) | 0.1.0-alpha | kkdev92 | The Tisilia Explorer for ASP.NET Core: an API explorer page on an authorized ro… |
-| 2026-10-05 21:43:57 | [Kkdev92.Tisilia.Abstractions](https://www.nuget.org/packages/Kkdev92.Tisilia.Abstractions) | 0.1.0-alpha | kkdev92 | Tisilia's contract model: the contract, binding descriptors and the records the… |
-| 2026-10-05 21:43:58 | [Kkdev92.Tisilia.Tool](https://www.nuget.org/packages/Kkdev92.Tisilia.Tool) | 0.1.0-alpha | kkdev92 | The Tisilia CLI: export an ASP.NET Core API's contract, generate and check its… |
-| 2026-10-05 21:43:58 | [Kkdev92.Tisilia.AspNetCore](https://www.nuget.org/packages/Kkdev92.Tisilia.AspNetCore) | 0.1.0-alpha | kkdev92 | Tisilia for ASP.NET Core: register the operations a TypeScript client should se… |
-| 2026-10-05 21:43:59 | [Kkdev92.Tisilia.Generator](https://www.nuget.org/packages/Kkdev92.Tisilia.Generator) | 0.1.0-alpha | kkdev92 | Tisilia's contract validation (schemas and the SV01–SV54 rules), canonical hash… |
-| 2026-10-05 21:48:26 | [ToastDock](https://www.nuget.org/packages/ToastDock) | 1.1.0 | Mahmoud Yusuf | Lightweight WinForms toast notifications with queueing, RTL, themes, multi-moni… |
-| 2026-10-05 21:56:13 | [NSail.Background](https://www.nuget.org/packages/NSail.Background) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Background, part of NSail Stack: a .NET modular-monolith framework (messa… |
-| 2026-10-05 21:56:13 | [NSail.Data.Testing](https://www.nuget.org/packages/NSail.Data.Testing) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Data.Testing, part of NSail Stack: a .NET modular-monolith framework (mes… |
-| 2026-10-05 21:56:14 | [NSail.BaseServices.WebApi](https://www.nuget.org/packages/NSail.BaseServices.WebApi) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.BaseServices.WebApi, part of NSail Stack: a .NET modular-monolith framewo… |
-| 2026-10-05 21:56:15 | [NSail.Messaging.SourceGenerator](https://www.nuget.org/packages/NSail.Messaging.SourceGenerator) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.SourceGenerator, part of NSail Stack: a .NET modular-monolith framework (… |
-| 2026-10-05 21:56:15 | [NSail.BclExtensions](https://www.nuget.org/packages/NSail.BclExtensions) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.BclExtensions, part of NSail Stack: a .NET modular-monolith framework (me… |
-| 2026-10-05 21:56:16 | [NSail.Security.Annotations](https://www.nuget.org/packages/NSail.Security.Annotations) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Security.Annotations, part of NSail Stack: a .NET modular-monolith framew… |
-| 2026-10-05 21:56:17 | [NSail.Metadata](https://www.nuget.org/packages/NSail.Metadata) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Metadata, part of NSail Stack: a .NET modular-monolith framework (messagi… |
-| 2026-10-05 21:56:17 | [NSail.Messaging.Annotations](https://www.nuget.org/packages/NSail.Messaging.Annotations) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.Annotations, part of NSail Stack: a .NET modular-monolith frame… |
-| 2026-10-05 21:56:18 | [NSail.Security](https://www.nuget.org/packages/NSail.Security) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Security, part of NSail Stack: a .NET modular-monolith framework (messagi… |
-| 2026-10-05 21:56:18 | [NSail.Messaging.Http](https://www.nuget.org/packages/NSail.Messaging.Http) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.Http, part of NSail Stack: a .NET modular-monolith framework (m… |
-| 2026-10-05 21:56:19 | [NSail.Data](https://www.nuget.org/packages/NSail.Data) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Data, part of NSail Stack: a .NET modular-monolith framework (messaging,… |
-| 2026-10-05 21:56:20 | [NSail.Components.Mud](https://www.nuget.org/packages/NSail.Components.Mud) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Components.Mud, part of NSail Stack: a .NET modular-monolith framework (m… |
-| 2026-10-05 21:56:21 | [NSail.Backup](https://www.nuget.org/packages/NSail.Backup) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Backup, part of NSail Stack: a .NET modular-monolith framework (messaging… |
-| 2026-10-05 21:56:22 | [NSail.Mapping.Annotations](https://www.nuget.org/packages/NSail.Mapping.Annotations) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Mapping.Annotations, part of NSail Stack: a .NET modular-monolith framewo… |
-| 2026-10-05 21:56:23 | [NSail.SourceGeneration.Annotations](https://www.nuget.org/packages/NSail.SourceGeneration.Annotations) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.SourceGeneration.Annotations, part of NSail Stack: a .NET modular-monolit… |
-| 2026-10-05 21:56:24 | [NSail.Components.DaisyUI](https://www.nuget.org/packages/NSail.Components.DaisyUI) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Components.DaisyUI, part of NSail Stack: a .NET modular-monolith framewor… |
-| 2026-10-05 21:56:25 | [NSail.Settings](https://www.nuget.org/packages/NSail.Settings) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Settings, part of NSail Stack: a .NET modular-monolith framework (messagi… |
-| 2026-10-05 21:56:26 | [NSail.Localization](https://www.nuget.org/packages/NSail.Localization) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Localization, part of NSail Stack: a .NET modular-monolith framework (mes… |
-| 2026-10-05 21:56:26 | [NSail.BaseServices.WebApp](https://www.nuget.org/packages/NSail.BaseServices.WebApp) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.BaseServices.WebApp, part of NSail Stack: a .NET modular-monolith framewo… |
-| 2026-10-05 21:56:27 | [NSail.Messaging](https://www.nuget.org/packages/NSail.Messaging) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Messaging, part of NSail Stack: a .NET modular-monolith framework (messag… |
-| 2026-10-05 21:56:28 | [NSail.Configuration](https://www.nuget.org/packages/NSail.Configuration) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Configuration, part of NSail Stack: a .NET modular-monolith framework (me… |
-| 2026-10-05 21:56:29 | [NSail.Caching.Annotations](https://www.nuget.org/packages/NSail.Caching.Annotations) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Caching.Annotations, part of NSail Stack: a .NET modular-monolith framewo… |
-| 2026-10-05 21:56:29 | [NSail.Components](https://www.nuget.org/packages/NSail.Components) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Components, part of NSail Stack: a .NET modular-monolith framework (messa… |
-| 2026-10-05 21:56:30 | [NSail.TypeScriptGenerator](https://www.nuget.org/packages/NSail.TypeScriptGenerator) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.TypeScriptGenerator, part of NSail Stack: a .NET modular-monolith framewo… |
-| 2026-10-05 21:56:33 | [NSail.Messaging.SignalR](https://www.nuget.org/packages/NSail.Messaging.SignalR) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.SignalR, part of NSail Stack: a .NET modular-monolith framework… |
-| 2026-10-05 21:56:34 | [NSail.BaseServices.Wasm](https://www.nuget.org/packages/NSail.BaseServices.Wasm) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.BaseServices.Wasm, part of NSail Stack: a .NET modular-monolith framework… |
-| 2026-10-05 21:56:35 | [NSail.SourceGeneration.Testing](https://www.nuget.org/packages/NSail.SourceGeneration.Testing) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.SourceGeneration.Testing, part of NSail Stack: a .NET modular-monolith fr… |
-| 2026-10-05 21:56:36 | [NSail.Caching](https://www.nuget.org/packages/NSail.Caching) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Caching, part of NSail Stack: a .NET modular-monolith framework (messagin… |
-| 2026-10-05 21:56:36 | [NSail.Types](https://www.nuget.org/packages/NSail.Types) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Types, part of NSail Stack: a .NET modular-monolith framework (messaging,… |
-| 2026-10-05 21:56:37 | [NSail.Messaging.Runtime](https://www.nuget.org/packages/NSail.Messaging.Runtime) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.Runtime, part of NSail Stack: a .NET modular-monolith framework… |
-| 2026-10-05 21:56:37 | [NSail.Messaging.WebApi](https://www.nuget.org/packages/NSail.Messaging.WebApi) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.WebApi, part of NSail Stack: a .NET modular-monolith framework… |
-| 2026-10-05 21:56:38 | [NSail.Injection.Annotations](https://www.nuget.org/packages/NSail.Injection.Annotations) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Injection.Annotations, part of NSail Stack: a .NET modular-monolith frame… |
-| 2026-10-05 21:56:39 | [NSail.Mapping](https://www.nuget.org/packages/NSail.Mapping) | 0.1.14 | Leonardo Porro,Emmanuel Arias | NSail.Mapping, part of NSail Stack: a .NET modular-monolith framework (messagin… |
-| 2026-10-05 21:57:09 | [LibraDex](https://www.nuget.org/packages/LibraDex) | 1.0.0 | alt160 | A .NET-native identity-index catalog for durable or memory-only typed key-to-id… |
-| 2026-10-05 21:59:13 | [qawolf-socket-nuget2](https://www.nuget.org/packages/qawolf-socket-nuget2) | 1.0.0 | QA Wolf | NuGet test package for QA Wolf automation |
-| 2026-10-05 22:05:24 | [Packet.Fbb](https://www.nuget.org/packages/Packet.Fbb) | 0.1.0 | packet-net | FBB BBS forwarding (B1F and B2F compressed, both the calling and the answering… |
+| 2026-10-05 22:21:15 | [ClangABI.Generator](https://www.nuget.org/packages/ClangABI.Generator) | 1.0.0-alpha | SuRGeoNix | C-to-C# ABI binding generator powered by ClangSharp, with support for records,… |
+| 2026-10-05 22:30:21 | [E2E.EmbeddedIconJpeg.261005.223020.2306007](https://www.nuget.org/packages/E2E.EmbeddedIconJpeg.261005.223020.2306007) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconJpeg.261005.223020.2306007 |
+| 2026-10-05 22:30:21 | [E2E.EmbeddedIconPng.261005.223020.2420481](https://www.nuget.org/packages/E2E.EmbeddedIconPng.261005.223020.2420481) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconPng.261005.223020.2420481 |
+| 2026-10-05 22:30:21 | [E2E.FullValidation.261005.223020.1651188](https://www.nuget.org/packages/E2E.FullValidation.261005.223020.1651188) | 1.0.0 | EndToEndTests | Description of E2E.FullValidation.261005.223020.1651188 |
+| 2026-10-05 22:30:21 | [E2E.LicenseExpression.261005.223020.2220612](https://www.nuget.org/packages/E2E.LicenseExpression.261005.223020.2220612) | 1.0.0 | EndToEndTests | Description of E2E.LicenseExpression.261005.223020.2220612 |
+| 2026-10-05 22:30:21 | [E2E.LicenseUrl.261005.223020.2285781](https://www.nuget.org/packages/E2E.LicenseUrl.261005.223020.2285781) | 1.0.0 | EndToEndTests | Description of E2E.LicenseUrl.261005.223020.2285781 |
+| 2026-10-05 22:30:22 | [E2E.SemVer1Stable.261005.223019.4058357](https://www.nuget.org/packages/E2E.SemVer1Stable.261005.223019.4058357) | 1.0.0 | EndToEndTests | Description of E2E.SemVer1Stable.261005.223019.4058357 |
+| 2026-10-05 22:30:22 | [E2E.Deprecated.261005.223020.2539346](https://www.nuget.org/packages/E2E.Deprecated.261005.223020.2539346) | 1.0.0 | EndToEndTests | Description of E2E.Deprecated.261005.223020.2539346 |
+| 2026-10-05 22:30:23 | [E2E.LicenseFile.261005.223020.2265563](https://www.nuget.org/packages/E2E.LicenseFile.261005.223020.2265563) | 1.0.0 | EndToEndTests | Description of E2E.LicenseFile.261005.223020.2265563 |
+| 2026-10-05 22:30:23 | [E2E.EmbeddedReadmeFile.261005.223020.2440742](https://www.nuget.org/packages/E2E.EmbeddedReadmeFile.261005.223020.2440742) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedReadmeFile.261005.223020.2440742 |
+| 2026-10-05 22:30:24 | [E2E.SymbolsPackage.261005.223020.2099298](https://www.nuget.org/packages/E2E.SymbolsPackage.261005.223020.2099298) | 1.0.0 | EndToEndTests | Description of E2E.SymbolsPackage.261005.223020.2099298 |
+| 2026-10-05 22:30:25 | [E2E.DotnetTool.261005.223020.2539346](https://www.nuget.org/packages/E2E.DotnetTool.261005.223020.2539346) | 1.0.0 | E2E.DotnetTool | Package Description |
+| 2026-10-05 22:31:26 | [InductorParser](https://www.nuget.org/packages/InductorParser) | 1.0.1067 | Eric Zinda | A PEG parser library where grammars are readable rules instead of regex. Design… |
+| 2026-10-05 22:34:19 | [NotificationHub.Contracts](https://www.nuget.org/packages/NotificationHub.Contracts) | 1.0.0 | Carlos-DV | Sobre de eventos que los servicios publican al hub de notificaciones. |
+| 2026-10-05 22:47:31 | [Metaport.Agent.DotNetClassic](https://www.nuget.org/packages/Metaport.Agent.DotNetClassic) | 1.0.0 | Dcentrica | Generates a CycloneDX SBOM for a .NET Framework 4.x application and sends it to… |
+| 2026-10-05 22:58:07 | [Inertia.Net](https://www.nuget.org/packages/Inertia.Net) | 1.0.0 | Inertia.Net contributors | Core Inertia.js v3 server adapter for ASP.NET Core (Native AOT compatible). |
+| 2026-10-05 22:58:10 | [Inertia.Net.FastEndpoints](https://www.nuget.org/packages/Inertia.Net.FastEndpoints) | 1.0.0 | Inertia.Net contributors | FastEndpoints integration for Inertia.Net. |
+| 2026-10-05 22:58:13 | [Inertia.Net.Mvc](https://www.nuget.org/packages/Inertia.Net.Mvc) | 1.0.0 | Inertia.Net contributors | MVC integration for Inertia.Net: ModelState errors filter, Razor root view and… |
+| 2026-10-05 22:58:16 | [Inertia.Net.Testing](https://www.nuget.org/packages/Inertia.Net.Testing) | 1.0.0 | Inertia.Net contributors | Test helpers for Inertia.js responses (fluent assertions over JSON and HTML pag… |
 
 ## Data source
 

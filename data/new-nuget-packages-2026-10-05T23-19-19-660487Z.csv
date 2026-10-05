@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-10-05T22:21:15.937Z,ClangABI.Generator,1.0.0-alpha,SuRGeoNix,"C-to-C# ABI binding generator powered by ClangSharp, with support for records, enums, functions, callbacks, macros, inline functions, and customizable post-processing."
+2026-10-05T22:30:21.053Z,E2E.EmbeddedIconJpeg.261005.223020.2306007,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.261005.223020.2306007
+2026-10-05T22:30:21.413Z,E2E.EmbeddedIconPng.261005.223020.2420481,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.261005.223020.2420481
+2026-10-05T22:30:21.4Z,E2E.FullValidation.261005.223020.1651188,1.0.0,EndToEndTests,Description of E2E.FullValidation.261005.223020.1651188
+2026-10-05T22:30:21.563Z,E2E.LicenseExpression.261005.223020.2220612,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.261005.223020.2220612
+2026-10-05T22:30:21.56Z,E2E.LicenseUrl.261005.223020.2285781,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.261005.223020.2285781
+2026-10-05T22:30:22.093Z,E2E.SemVer1Stable.261005.223019.4058357,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.261005.223019.4058357
+2026-10-05T22:30:22.3Z,E2E.Deprecated.261005.223020.2539346,1.0.0,EndToEndTests,Description of E2E.Deprecated.261005.223020.2539346
+2026-10-05T22:30:23.917Z,E2E.LicenseFile.261005.223020.2265563,1.0.0,EndToEndTests,Description of E2E.LicenseFile.261005.223020.2265563
+2026-10-05T22:30:23.923Z,E2E.EmbeddedReadmeFile.261005.223020.2440742,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.261005.223020.2440742
+2026-10-05T22:30:24.543Z,E2E.SymbolsPackage.261005.223020.2099298,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.261005.223020.2099298
+2026-10-05T22:30:25.78Z,E2E.DotnetTool.261005.223020.2539346,1.0.0,E2E.DotnetTool,Package Description
+2026-10-05T22:31:26.573Z,InductorParser,1.0.1067,Eric Zinda,"A PEG parser library where grammars are readable rules instead of regex. Designed around Unicode, safe against pathological input by default, and able to run under Unity IL2CPP and WebGL."
+2026-10-05T22:34:19.953Z,NotificationHub.Contracts,1.0.0,Carlos-DV,Sobre de eventos que los servicios publican al hub de notificaciones.
+2026-10-05T22:47:31.783Z,Metaport.Agent.DotNetClassic,1.0.0,Dcentrica,Generates a CycloneDX SBOM for a .NET Framework 4.x application and sends it to a Metaport server. Runs on any machine with .NET Framework 4.0 or later.
+2026-10-05T22:58:07.343Z,Inertia.Net,1.0.0,Inertia.Net contributors,Core Inertia.js v3 server adapter for ASP.NET Core (Native AOT compatible).
+2026-10-05T22:58:10.3Z,Inertia.Net.FastEndpoints,1.0.0,Inertia.Net contributors,FastEndpoints integration for Inertia.Net.
+2026-10-05T22:58:13.553Z,Inertia.Net.Mvc,1.0.0,Inertia.Net contributors,"MVC integration for Inertia.Net: ModelState errors filter, Razor root view and tag helpers (not Native AOT compatible)."
+2026-10-05T22:58:16.773Z,Inertia.Net.Testing,1.0.0,Inertia.Net contributors,Test helpers for Inertia.js responses (fluent assertions over JSON and HTML pages).
