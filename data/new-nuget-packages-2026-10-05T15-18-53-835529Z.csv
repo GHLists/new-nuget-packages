@@ -1,0 +1,31 @@
+created_at,package,version,authors,description
+2026-10-05T14:21:38.41Z,Tai.Notifications.Application,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:21:41.623Z,Tai.Notifications.Application.Contracts,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:21:45.307Z,Tai.Notifications.Domain,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:21:48.457Z,Tai.Notifications.Domain.Shared,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:21:51.523Z,Tai.Notifications.EntityFrameworkCore,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:21:54.83Z,Tai.Notifications.HttpApi,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:21:57.9Z,Tai.Notifications.HttpApi.Client,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:22:03.317Z,Tai.Notifications.Identity,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:22:06.5Z,Tai.Notifications.Provider.DingTalk,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:22:10.323Z,Tai.Notifications.Provider.Email,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:22:13.943Z,Tai.Notifications.Provider.Sms,0.1.0,Tai,Independent ABP notification module
+2026-10-05T14:22:16.95Z,Tai.Payment.Application,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:20.04Z,Tai.Payment.Application.Contracts,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:23.177Z,Tai.Payment.Domain,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:26.153Z,Tai.Payment.Domain.Shared,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:29.207Z,Tai.Payment.EntityFrameworkCore,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:32.04Z,Tai.Payment.HttpApi,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:35.02Z,Tai.Payment.HttpApi.Client,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:38.04Z,Tai.Payment.Provider.Alipay,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:40.977Z,Tai.Payment.Provider.Stripe,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:22:43.84Z,Tai.Payment.Provider.WeChat,0.1.0,Tai,Independent ABP payment module
+2026-10-05T14:23:55.723Z,DynamicDave.Umbraco.EnvironmentIndicator,17.0.0,DynamicDave,"Shows a colored environment banner (LOCAL, ACCEPTANCE/STAGING, PRODUCTION) in the Umbraco backoffice so editors always know which environment they are in."
+2026-10-05T14:25:37.197Z,DynamicDave.Umbraco.ContentSchedule,17.0.0,DynamicDave,"See what is scheduled to publish or unpublish in the Umbraco backoffice: a dashboard with today, next 7 days, next 30 days and overdue items."
+2026-10-05T14:30:42.133Z,Structly.AI.Mistral,0.7.0,menk-dev,"Typed, structured LLM output for automated .NET workflows."
+2026-10-05T14:30:43.16Z,Structly.AI.OpenAI,0.7.0,menk-dev,"Typed, structured LLM output for automated .NET workflows."
+2026-10-05T14:32:06.817Z,DynamicDave.Umbraco.UrlInspector,17.0.0,DynamicDave,"Inspect a document's URLs, incoming and outgoing redirects and canonical URL from the Umbraco backoffice, and test a URL's status code without following redirects."
+2026-10-05T14:35:46.04Z,DynamicDave.Umbraco.QuickContentTools,17.0.0,DynamicDave,"Quick content tools for the Umbraco backoffice: copy a content item's node ID, key and more with one click."
+2026-10-05T14:45:06.24Z,VL.Mcro.Devices.SpaceMouse,1.0.0-pre1,David Morasz,A native implementation for reading 3DConnexion Space Mice from HID directly
+2026-10-05T14:57:03.877Z,WpfSeasonalAnimations,1.0.0,nafrolov,Customizable WPF controls with animation for each season
+2026-10-05T15:05:42.293Z,Durable.Sql,0.3.0,"jchristn,joshclopton","Shared SQL engine for Durable ORM providers (dialect abstraction, LINQ-to-SQL translation, materialization, includes). Referenced by Durable.Sqlite, Durable.Postgres, Durable.MySql and Durable.SqlServer."
