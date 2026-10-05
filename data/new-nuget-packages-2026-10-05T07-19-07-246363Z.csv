@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-10-05T06:55:23.173Z,Zyga.SeriRestClient,0.1.0,Szymon Zywert,A logging-enhanced REST client that wraps RestSharp with Serilog logging capabilities
