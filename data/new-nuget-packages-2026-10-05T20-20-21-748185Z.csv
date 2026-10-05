@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-05T19:29:56.89Z,Eternet.Banks.Movements.Firebird.Contracts,1.0.0,Eternet,Gateway contracts for legacy bank movement operations.
+2026-10-05T19:51:38.56Z,DataStar.Tools,3.1.0,Absolute Technology Limited,"DataStar command line interface: builds deployment packages from source control, deploys them, and generates reversal scripts."
+2026-10-05T19:52:27.707Z,Canducci.FileUpload.FluentValidation,1.0.0.3,Canducci.FileUpload.FluentValidation,Package Description
+2026-10-05T19:54:44.65Z,Serilog.Ui.Domain,4.0.0,Mohsen Esmailpour,Simple web UI for several Serilog sinks.
+2026-10-05T20:02:12.22Z,DataStar.Tools.win-x64,3.1.0,Absolute Technology Limited,"DataStar command line interface: builds deployment packages from source control, deploys them, and generates reversal scripts."
+2026-10-05T20:02:44.643Z,DataStar.Tools.osx-x64,3.1.0,Absolute Technology Limited,"DataStar command line interface: builds deployment packages from source control, deploys them, and generates reversal scripts."
+2026-10-05T20:02:59.03Z,Brows.Win32.Interop,1.0.0,Ken Yourek,Package Description
+2026-10-05T20:03:00.353Z,Brows.Win32.Interop.Composition,1.0.0,Ken Yourek,Package Description
+2026-10-05T20:03:05.963Z,Brows.Win32.Interop.Operations,1.0.0,Ken Yourek,Package Description
+2026-10-05T20:03:13.873Z,DataStar.Tools.osx-arm64,3.1.0,Absolute Technology Limited,"DataStar command line interface: builds deployment packages from source control, deploys them, and generates reversal scripts."
+2026-10-05T20:03:42.28Z,DataStar.Tools.linux-x64,3.1.0,Absolute Technology Limited,"DataStar command line interface: builds deployment packages from source control, deploys them, and generates reversal scripts."
+2026-10-05T20:04:03.04Z,DataStar.Tools.linux-arm64,3.1.0,Absolute Technology Limited,"DataStar command line interface: builds deployment packages from source control, deploys them, and generates reversal scripts."
