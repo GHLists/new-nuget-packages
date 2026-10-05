@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-05T09:58:23.823Z,A2v10.CheckUpdates,10.1.8668,Oleksandr Kukhtin,A2v10: build-time warning when a newer platform generation is published
+2026-10-05T10:01:37.94Z,A2v10.Mcp,10.1.8668,Oleksandr Kukhtin,A2v10 MCP server with its OAuth authorization server
+2026-10-05T10:03:09.683Z,AgentMemory.Gate,1.9.0,Jose Luis Latorre Millas,"Experimental gate for AgentMemory for .NET: a judge at the fan-in that decides, memory by memory, what a recall puts in front of the assistant, and a judge on the write path that decides what a new memory replaces. Speaks the System One decision protocol (online or local). Opt-in; every public type…"
