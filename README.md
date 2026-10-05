@@ -12,44 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 15:18 UTC
+## Latest list — 2026-10-05 16:19 UTC
 
-New packages created between 2026-10-05 14:19 UTC and 2026-10-05 15:18 UTC.
+New packages created between 2026-10-05 15:18 UTC and 2026-10-05 16:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-05T15-18-53-835529Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-05T16-19-51-062023Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-05 14:21:38 | [Tai.Notifications.Application](https://www.nuget.org/packages/Tai.Notifications.Application) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:21:41 | [Tai.Notifications.Application.Contracts](https://www.nuget.org/packages/Tai.Notifications.Application.Contracts) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:21:45 | [Tai.Notifications.Domain](https://www.nuget.org/packages/Tai.Notifications.Domain) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:21:48 | [Tai.Notifications.Domain.Shared](https://www.nuget.org/packages/Tai.Notifications.Domain.Shared) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:21:51 | [Tai.Notifications.EntityFrameworkCore](https://www.nuget.org/packages/Tai.Notifications.EntityFrameworkCore) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:21:54 | [Tai.Notifications.HttpApi](https://www.nuget.org/packages/Tai.Notifications.HttpApi) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:21:57 | [Tai.Notifications.HttpApi.Client](https://www.nuget.org/packages/Tai.Notifications.HttpApi.Client) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:22:03 | [Tai.Notifications.Identity](https://www.nuget.org/packages/Tai.Notifications.Identity) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:22:06 | [Tai.Notifications.Provider.DingTalk](https://www.nuget.org/packages/Tai.Notifications.Provider.DingTalk) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:22:10 | [Tai.Notifications.Provider.Email](https://www.nuget.org/packages/Tai.Notifications.Provider.Email) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:22:13 | [Tai.Notifications.Provider.Sms](https://www.nuget.org/packages/Tai.Notifications.Provider.Sms) | 0.1.0 | Tai | Independent ABP notification module |
-| 2026-10-05 14:22:16 | [Tai.Payment.Application](https://www.nuget.org/packages/Tai.Payment.Application) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:20 | [Tai.Payment.Application.Contracts](https://www.nuget.org/packages/Tai.Payment.Application.Contracts) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:23 | [Tai.Payment.Domain](https://www.nuget.org/packages/Tai.Payment.Domain) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:26 | [Tai.Payment.Domain.Shared](https://www.nuget.org/packages/Tai.Payment.Domain.Shared) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:29 | [Tai.Payment.EntityFrameworkCore](https://www.nuget.org/packages/Tai.Payment.EntityFrameworkCore) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:32 | [Tai.Payment.HttpApi](https://www.nuget.org/packages/Tai.Payment.HttpApi) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:35 | [Tai.Payment.HttpApi.Client](https://www.nuget.org/packages/Tai.Payment.HttpApi.Client) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:38 | [Tai.Payment.Provider.Alipay](https://www.nuget.org/packages/Tai.Payment.Provider.Alipay) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:40 | [Tai.Payment.Provider.Stripe](https://www.nuget.org/packages/Tai.Payment.Provider.Stripe) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:22:43 | [Tai.Payment.Provider.WeChat](https://www.nuget.org/packages/Tai.Payment.Provider.WeChat) | 0.1.0 | Tai | Independent ABP payment module |
-| 2026-10-05 14:23:55 | [DynamicDave.Umbraco.EnvironmentIndicator](https://www.nuget.org/packages/DynamicDave.Umbraco.EnvironmentIndicator) | 17.0.0 | DynamicDave | Shows a colored environment banner (LOCAL, ACCEPTANCE/STAGING, PRODUCTION) in t… |
-| 2026-10-05 14:25:37 | [DynamicDave.Umbraco.ContentSchedule](https://www.nuget.org/packages/DynamicDave.Umbraco.ContentSchedule) | 17.0.0 | DynamicDave | See what is scheduled to publish or unpublish in the Umbraco backoffice: a dash… |
-| 2026-10-05 14:30:42 | [Structly.AI.Mistral](https://www.nuget.org/packages/Structly.AI.Mistral) | 0.7.0 | menk-dev | Typed, structured LLM output for automated .NET workflows. |
-| 2026-10-05 14:30:43 | [Structly.AI.OpenAI](https://www.nuget.org/packages/Structly.AI.OpenAI) | 0.7.0 | menk-dev | Typed, structured LLM output for automated .NET workflows. |
-| 2026-10-05 14:32:06 | [DynamicDave.Umbraco.UrlInspector](https://www.nuget.org/packages/DynamicDave.Umbraco.UrlInspector) | 17.0.0 | DynamicDave | Inspect a document's URLs, incoming and outgoing redirects and canonical URL fr… |
-| 2026-10-05 14:35:46 | [DynamicDave.Umbraco.QuickContentTools](https://www.nuget.org/packages/DynamicDave.Umbraco.QuickContentTools) | 17.0.0 | DynamicDave | Quick content tools for the Umbraco backoffice: copy a content item's node ID,… |
-| 2026-10-05 14:45:06 | [VL.Mcro.Devices.SpaceMouse](https://www.nuget.org/packages/VL.Mcro.Devices.SpaceMouse) | 1.0.0-pre1 | David Morasz | A native implementation for reading 3DConnexion Space Mice from HID directly |
-| 2026-10-05 14:57:03 | [WpfSeasonalAnimations](https://www.nuget.org/packages/WpfSeasonalAnimations) | 1.0.0 | nafrolov | Customizable WPF controls with animation for each season |
-| 2026-10-05 15:05:42 | [Durable.Sql](https://www.nuget.org/packages/Durable.Sql) | 0.3.0 | jchristn,joshclopton | Shared SQL engine for Durable ORM providers (dialect abstraction, LINQ-to-SQL t… |
+| 2026-10-05 15:20:27 | [BugFixer.Core](https://www.nuget.org/packages/BugFixer.Core) | 0.1.1 | Murat Bolulu | Framework-agnostic BugFixer core: options, recursive sensitive-data masking, de… |
+| 2026-10-05 15:20:28 | [BugFixer.Abstractions](https://www.nuget.org/packages/BugFixer.Abstractions) | 0.1.1 | Murat Bolulu | Transport-neutral contracts (bug event model, publisher, fingerprint and maskin… |
+| 2026-10-05 15:20:29 | [BugFixer.AspNetCore](https://www.nuget.org/packages/BugFixer.AspNetCore) | 0.1.1 | Murat Bolulu | Drop-in production exception collection for ASP.NET Core. Implements IException… |
+| 2026-10-05 15:20:30 | [BugFixer.Client](https://www.nuget.org/packages/BugFixer.Client) | 0.1.1 | Murat Bolulu | HTTP transport for BugFixer: resilient typed client that ships bug events and s… |
+| 2026-10-05 15:24:25 | [Umbraco.Community.RichDictionary](https://www.nuget.org/packages/Umbraco.Community.RichDictionary) | 1.0.0 | Jack Stunell | Edit Umbraco dictionary values with a rich text (Tiptap) or Markdown editor ins… |
+| 2026-10-05 15:24:36 | [SandBottle.NET](https://www.nuget.org/packages/SandBottle.NET) | 1.0.1 | Newton | ASP.NET Core 的結構化紀錄：Loki、請求紀錄、SQL 指令紀錄與例外通報。 |
+| 2026-10-05 15:24:42 | [Atlas.AspNetCore](https://www.nuget.org/packages/Atlas.AspNetCore) | 1.0.0 | Atlas | Framework-native ASP.NET Core authentication, DI, and authorization for Atlas —… |
+| 2026-10-05 15:26:53 | [Nyxel](https://www.nuget.org/packages/Nyxel) | 0.0.1 | Nyxel contributors | Reserved for Nyxel, a game scripting language that compiles to ordinary .NET as… |
+| 2026-10-05 15:27:47 | [Hubertech.Belgium](https://www.nuget.org/packages/Hubertech.Belgium) | 0.1.0 | Dampsey | Belgian administrative identifiers and rules for .NET: enterprise number (BCE/K… |
+| 2026-10-05 15:35:32 | [SysMaster.Library](https://www.nuget.org/packages/SysMaster.Library) | 1.0.1 | Winnigames2024 | SysMaster is designed for the convenient management of the system and additiona… |
+| 2026-10-05 15:56:07 | [AnkitRana.XrmToolBox.DeploymentDoctor](https://www.nuget.org/packages/AnkitRana.XrmToolBox.DeploymentDoctor) | 1.0.0 | Ankit Rana | Find out why a form, view, web resource, workflow or cloud flow deployed with a… |
 
 ## Data source
 
