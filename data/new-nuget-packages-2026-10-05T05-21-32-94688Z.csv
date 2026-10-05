@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-05T04:26:38.113Z,SchemaIR,0.1.0,SchemaIR contributors,.NET implementation of the language-independent SchemaIR protocol.
+2026-10-05T04:27:49.413Z,NinePSharp.Core.FSharp,0.2.0,NinePSharp Contributors,"NinePSharp.Core.FSharp is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:27:50.703Z,NinePSharp.Namespaces,0.2.0,NinePSharp Contributors,"NinePSharp.Namespaces is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:27:52.01Z,NinePSharp.Namespaces.Authorization,0.2.0,NinePSharp Contributors,"NinePSharp.Namespaces.Authorization is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:27:53.24Z,NinePSharp.Namespaces.Orleans,0.2.0,NinePSharp Contributors,"NinePSharp.Namespaces.Orleans is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:27:54.633Z,NinePSharp.Namespaces.Orleans.Abstractions,0.2.0,NinePSharp Contributors,"NinePSharp.Namespaces.Orleans.Abstractions is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:27:55.92Z,NinePSharp.Namespaces.Orleans.Server,0.2.0,NinePSharp Contributors,"NinePSharp.Namespaces.Orleans.Server is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:27:58.077Z,NinePSharp.Server,0.2.0,NinePSharp Contributors,"NinePSharp.Server is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:28:00.23Z,NinePSharp.Server.FSharp,0.2.0,NinePSharp Contributors,"NinePSharp.Server.FSharp is part of NinePSharp, a modular 9P protocol toolkit and backend plugin ecosystem."
+2026-10-05T04:49:21.29Z,Spider.Pipelines.Web,2.2.1,Elysium Coding,Graphical web renderer for Spider.Pipelines architecture manifests.
