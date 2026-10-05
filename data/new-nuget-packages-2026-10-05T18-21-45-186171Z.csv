@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-05T17:22:13.223Z,Scowalt.NoCommentsAnalyzer,0.1.0,Scott Walters,"FSharp.Analyzers.SDK analyzer that reports every comment token (//, ///, (* *)) except machine-read directives, generated files, and shebangs, with configurable directive prefixes and exemption globs."
+2026-10-05T17:41:21.373Z,ResilienceLab,0.5.0,ResilienceLab contributors,"Educational .NET resilience: result and exception retry, fallback, rate limiting, hedging, timeout and circuit breaker."
+2026-10-05T17:41:25.04Z,ResilienceLab.Http,0.5.0,ResilienceLab contributors,"Reintentos HTTP con backoff, jitter, Retry-After, cancelación y registro tipado de IHttpClientFactory."
+2026-10-05T17:42:53.843Z,BetaCalendars.CalendarFixtureKit,0.1.0,Beta Calendars,"Deterministic .NET calendar fixtures, month-grid validation, regression diffs, and DateOnly test helpers."
+2026-10-05T17:59:30.59Z,Axelerate.Revit.ExtensibleStorage,2026.0.0,Axelerate,Attribute-based mapping of classes to Revit Extensible Storage schemas and entities
+2026-10-05T18:05:08.89Z,Meshmakers.Common.Observability,4.3.0,meshmakers GmbH and Contributors,"NLog layout renderers that expose OpenTelemetry trace context, for correlating log records with traces."
