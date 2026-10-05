@@ -1,0 +1,31 @@
+created_at,package,version,authors,description
+2026-10-05T12:28:09.233Z,Ram4Ex,1.0.0,Me,This is a test nupkg.
+2026-10-05T12:32:20.32Z,SurveyJS.Analytics,3.1.2,DevSoft Baltic OU,"SurveyJS Dashboard: visualize and analyze survey results. Depends on SurveyJS.Core. Corresponds to the survey-analytics npm package. Commercial license. Chart.js, Plotly, ApexCharts, and Tabulator are not included; load them from a CDN if needed."
+2026-10-05T12:32:20.7Z,SurveyJS.Creator,3.1.2,DevSoft Baltic OU,Survey Creator for ASP.NET Core and Blazor. Pulls SurveyJS.Creator.JsUi and its dependencies. Commercial license.
+2026-10-05T12:32:21.113Z,SurveyJS.Creator.Core,3.1.2,DevSoft Baltic OU,Survey Creator model and CSS (platform-independent). Depends on SurveyJS.Core. Corresponds to the survey-creator-core npm package. Commercial license.
+2026-10-05T12:32:21.377Z,SurveyJS.Creator.JsUi,3.1.2,DevSoft Baltic OU,Survey Creator vanilla JavaScript renderer. Depends on SurveyJS.Creator.Core and SurveyJS.JsUi. Corresponds to the survey-creator-js npm package. Commercial license.
+2026-10-05T12:32:21.703Z,SurveyJS.Pdf,3.1.2,DevSoft Baltic OU,SurveyJS PDF Generator. Depends on SurveyJS.Core. Corresponds to the survey-pdf npm package. Commercial license. jsPDF is not included; load it from a CDN if needed.
+2026-10-05T12:32:55.993Z,Ram3Ex,1.0.2,Me,This is a test nupkg.
+2026-10-05T12:36:58.06Z,Toxide,0.1.0,Rosario Marino,"A fully managed .NET implementation of the Tox protocol, wire-compatible with toxcore and qTox: DHT, onion routing, net_crypto sessions, friend requests, messages with read receipts, presence, file transfers and toxcore/qTox profiles (including encrypted toxEsave profiles). No native dependencies."
+2026-10-05T12:39:57.757Z,Soenneker.OpenZl.Util,4.0.2,Jake Soenneker,"Direct P/Invoke bindings for native OpenZL compression, typed data, graphs, dictionaries, and frame inspection."
+2026-10-05T12:40:54.35Z,Baidai.NotificationCenter.Client,1.0.0,Baidai.NotificationCenter,Typed HTTP client for Notification Center.
+2026-10-05T12:44:01.1Z,Baidai.NotificationSdk,1.0.0,Baidai.NotificationCenter,Notification SDK core scaffolding.
+2026-10-05T12:44:02.373Z,Baidai.NotificationSdk.Abstractions,1.0.0,Baidai.NotificationCenter,Provider-neutral contracts for sending notifications.
+2026-10-05T12:44:03.757Z,Baidai.NotificationSdk.DingTalk,1.0.0,Baidai.NotificationCenter,DingTalk notification channel provider for the Baidai Notification SDK.
+2026-10-05T12:44:05.017Z,Baidai.NotificationSdk.Feishu,1.0.0,Baidai.NotificationCenter,Feishu (Lark) notification channel provider for the Baidai Notification SDK.
+2026-10-05T12:44:06.437Z,Baidai.NotificationSdk.Telegram,1.0.0,Baidai.NotificationCenter,Telegram notification channel provider for the Baidai Notification SDK.
+2026-10-05T12:44:07.71Z,Baidai.NotificationSdk.WeCom,1.0.0,Baidai.NotificationCenter,WeCom (WeChat Work) notification channel provider for the Baidai Notification SDK.
+2026-10-05T12:44:09.01Z,Baidai.NotificationSdk.Webhook,1.0.0,Baidai.NotificationCenter,Generic Webhook notification channel provider for the Baidai Notification SDK.
+2026-10-05T12:44:55.407Z,ShinyPDF.Markdown,2.1.0,LM Development,"Markdown rendering for ShinyPDF: turn Markdown text into PDF content with a single fluent call, laid out by the ShinyPDF engine."
+2026-10-05T12:47:00.993Z,Veida,0.1.0,Veida,"Generate images from .NET with no API key and no account, via the free tier of veida.ai."
+2026-10-05T12:53:34.27Z,CISS.SideMenu.Oqtane.Module,2.2.32,Dao Hung,"Build polished Oqtane 10.2.1 sites with the ACME theme, CISS Menu Builder, Auto Demo Site, AI Content and AI Menu Assistant. Includes 104 sample page layouts, 50 structured content blocks, 120 Oqtane Razor views, 30 CSS palettes and six submenu patterns. Trial sites can use the full page library an…"
+2026-10-05T12:56:58.42Z,SayMaker,0.1.0,SayMaker,"Generate images and video from .NET on SayMaker: Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2, GPT Image 2.5 and more with one API key."
+2026-10-05T13:02:04.843Z,Rinkink.RazorLight,3.0.0,"toddams, rinkink",Fork of RazorLight 2.3.1 retargeted to net8.0 with pinned Razor 6.0.36. Use Razor to build HTML from Razor strings.
+2026-10-05T13:06:24.9Z,Akaule.NimBus.Resolver.Host,4.3.0,NimBus,"The NimBus Resolver as a standalone worker, runnable as a dotnet tool for local development."
+2026-10-05T13:06:27.493Z,Akaule.NimBus.ServiceBusEmulator,4.3.0,NimBus,"A local, in-memory Azure Service Bus emulator for NimBus development (sessions, scheduling, deferral, dead-lettering), runnable as a dotnet tool."
+2026-10-05T13:06:28.24Z,Akaule.NimBus.AspireHosting,4.3.0,NimBus,"Aspire hosting for a local NimBus stack from NuGet packages: the Resolver, the WebApp and topology provisioning, run as dotnet tools, alongside the Service Bus emulator."
+2026-10-05T13:06:35.69Z,Akaule.NimBus.Extensions.Http,4.3.0,NimBus,"HTTP helpers for NimBus adapters: a cached Microsoft Entra bearer-token handler for Dataverse, Business Central, F&O and other external-system clients."
+2026-10-05T13:06:36.427Z,Akaule.NimBus.ServiceDefaults,4.3.0,NimBus,"Aspire service defaults for NimBus hosts and adapters: OpenTelemetry with NimBus instrumentation, health checks and service discovery, with an opt-in standard HTTP resilience handler."
+2026-10-05T13:06:38.81Z,Akaule.NimBus.WebApp,4.3.0,NimBus,"The NimBus management WebApp, runnable as a dotnet tool for local development."
+2026-10-05T13:07:32.68Z,Polhem.JsonRpc.Payload.Client,1.2.0,Polhem contributors,"Client half of Polhem.JsonRpc.Payload: PayloadConnector seals the parameters of each call into the payload envelope and opens its result, so an encrypted call is made like a plain one."
+2026-10-05T13:12:59.507Z,Doka.EntityFrameworkCore.SafeMigrations.SqlServer,10.4.6,Dominic Kalkbrenner,"SQL Server provider for Doka.EntityFrameworkCore.SafeMigrations - safe, idempotent, provider-aware EF Core migration operations."

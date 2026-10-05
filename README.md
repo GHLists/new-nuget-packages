@@ -12,34 +12,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 12:21 UTC
+## Latest list — 2026-10-05 13:22 UTC
 
-New packages created between 2026-10-05 11:20 UTC and 2026-10-05 12:21 UTC.
+New packages created between 2026-10-05 12:21 UTC and 2026-10-05 13:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-05T12-21-02-783083Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-05T13-22-42-937239Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-05 11:32:10 | [Darker98.MaxioAdvancedBilling](https://www.nuget.org/packages/Darker98.MaxioAdvancedBilling) | 1.0.0 | Darker98 | Unofficial .NET SDK for the Maxio Advanced Billing (Chargify) REST API, generat… |
-| 2026-10-05 11:43:12 | [Delta1Labs.Nebula.Tool](https://www.nuget.org/packages/Delta1Labs.Nebula.Tool) | 1.1.3 | Delta-1 Labs | Cross-platform .NET obfuscation & hardening CLI (the `nebula` dotnet tool). Ren… |
-| 2026-10-05 11:43:14 | [EasyAdsIntegrationValidator](https://www.nuget.org/packages/EasyAdsIntegrationValidator) | 1.0.0 | techdigga | Static Unity AppLovin MAX and Unity LevelPlay mediation validator for CLI, CI,… |
-| 2026-10-05 11:43:16 | [EasyAdsIntegrationValidator.Mcp](https://www.nuget.org/packages/EasyAdsIntegrationValidator.Mcp) | 1.0.0 | techdigga | Local stdio MCP server for static Unity AppLovin MAX and Unity LevelPlay mediat… |
-| 2026-10-05 11:46:12 | [SigmaOrigo.Diagnostics.Simulation](https://www.nuget.org/packages/SigmaOrigo.Diagnostics.Simulation) | 2.0.0 | sigmaorigo | Sigma Origo Diagnostics Simulation SDK [2.0.0.17666-20261005.2] |
-| 2026-10-05 11:49:45 | [ZeroOcr.Inference](https://www.nuget.org/packages/ZeroOcr.Inference) | 1.1.0 | Phong Võ (kzxl) | Sovereign cross-platform Deep Learning OCR Engine (DBNet++ Detection and RepSVT… |
-| 2026-10-05 11:51:53 | [Mabang.Sdk.Gateway.Client](https://www.nuget.org/packages/Mabang.Sdk.Gateway.Client) | 0.1.0 | Mabang SDK Contributors | Mabang.Sdk.Gateway 开放通道（/open/**）的强类型 HTTP 客户端。 |
-| 2026-10-05 11:51:54 | [Mabang.Sdk.Gateway.Contracts](https://www.nuget.org/packages/Mabang.Sdk.Gateway.Contracts) | 0.1.0 | Mabang SDK Contributors | Mabang.Sdk.Gateway 开放通道（/open/**）的请求/响应契约，供 Gateway 服务端与客户端共享。 |
-| 2026-10-05 11:54:07 | [Mabang.Sdk](https://www.nuget.org/packages/Mabang.Sdk) | 0.1.0 | Mabang SDK Contributors | 面向 .NET 10 的马帮客户端 SDK，统一封装马帮公开 API 与已授权网页接口调用。 |
-| 2026-10-05 11:54:08 | [Mabang.Sdk.DependencyInjection](https://www.nuget.org/packages/Mabang.Sdk.DependencyInjection) | 0.1.0 | Mabang SDK Contributors | Mabang.Sdk 在 .NET 10 上的依赖注入集成。 |
-| 2026-10-05 11:54:10 | [Mabang.Sdk.Redis](https://www.nuget.org/packages/Mabang.Sdk.Redis) | 0.1.0 | Mabang SDK Contributors | 基于 Redis 的 Mabang.Sdk 账号注册与网页会话存储适配器。 |
-| 2026-10-05 11:54:11 | [Mabang.Sdk.Sqlite](https://www.nuget.org/packages/Mabang.Sdk.Sqlite) | 0.1.0 | Mabang SDK Contributors | 基于 SQLite 的 Mabang.Sdk 账号注册与网页会话存储适配器。 |
-| 2026-10-05 11:56:47 | [Cli.Generator](https://www.nuget.org/packages/Cli.Generator) | 1.0.0 | honey the codewitch | Incremental source generator for command line argument parsing. |
-| 2026-10-05 11:57:38 | [Xxfast.Kotlin.Native.Interop](https://www.nuget.org/packages/Xxfast.Kotlin.Native.Interop) | 0.9.0 | xxfast | Shared exception and presence contracts for Kotlin/Native NuGet bindings. |
-| 2026-10-05 12:03:04 | [Ram3Ex](https://www.nuget.org/packages/Ram3Ex) | 1.0.0 | Me | This is a test nupkg. |
-| 2026-10-05 12:07:36 | [SurveyJS.Core](https://www.nuget.org/packages/SurveyJS.Core) | 3.1.2 | DevSoft Baltic OU | SurveyJS Form Library core: survey model, CSS, and theme adapters (Bootstrap, M… |
-| 2026-10-05 12:09:00 | [SurveyJS.JsUi](https://www.nuget.org/packages/SurveyJS.JsUi) | 3.1.2 | DevSoft Baltic OU | SurveyJS Form Library vanilla JavaScript / jQuery renderer. Depends on SurveyJS… |
-| 2026-10-05 12:09:23 | [SurveyJS](https://www.nuget.org/packages/SurveyJS) | 3.1.2 | DevSoft Baltic OU | SurveyJS Form Library for ASP.NET Core and Blazor. Pulls SurveyJS.Core and Surv… |
-| 2026-10-05 12:09:58 | [Soenneker.OpenZl.Linux](https://www.nuget.org/packages/Soenneker.OpenZl.Linux) | 4.0.1 | Jake Soenneker | Bundled native OpenZL shared library for Linux x64. |
-| 2026-10-05 12:10:03 | [Soenneker.OpenZl.Windows](https://www.nuget.org/packages/Soenneker.OpenZl.Windows) | 4.0.1 | Jake Soenneker | Bundled native OpenZL shared library for Windows x64. |
+| 2026-10-05 12:28:09 | [Ram4Ex](https://www.nuget.org/packages/Ram4Ex) | 1.0.0 | Me | This is a test nupkg. |
+| 2026-10-05 12:32:20 | [SurveyJS.Analytics](https://www.nuget.org/packages/SurveyJS.Analytics) | 3.1.2 | DevSoft Baltic OU | SurveyJS Dashboard: visualize and analyze survey results. Depends on SurveyJS.C… |
+| 2026-10-05 12:32:20 | [SurveyJS.Creator](https://www.nuget.org/packages/SurveyJS.Creator) | 3.1.2 | DevSoft Baltic OU | Survey Creator for ASP.NET Core and Blazor. Pulls SurveyJS.Creator.JsUi and its… |
+| 2026-10-05 12:32:21 | [SurveyJS.Creator.Core](https://www.nuget.org/packages/SurveyJS.Creator.Core) | 3.1.2 | DevSoft Baltic OU | Survey Creator model and CSS (platform-independent). Depends on SurveyJS.Core.… |
+| 2026-10-05 12:32:21 | [SurveyJS.Creator.JsUi](https://www.nuget.org/packages/SurveyJS.Creator.JsUi) | 3.1.2 | DevSoft Baltic OU | Survey Creator vanilla JavaScript renderer. Depends on SurveyJS.Creator.Core an… |
+| 2026-10-05 12:32:21 | [SurveyJS.Pdf](https://www.nuget.org/packages/SurveyJS.Pdf) | 3.1.2 | DevSoft Baltic OU | SurveyJS PDF Generator. Depends on SurveyJS.Core. Corresponds to the survey-pdf… |
+| 2026-10-05 12:32:55 | [Ram3Ex](https://www.nuget.org/packages/Ram3Ex) | 1.0.2 | Me | This is a test nupkg. |
+| 2026-10-05 12:36:58 | [Toxide](https://www.nuget.org/packages/Toxide) | 0.1.0 | Rosario Marino | A fully managed .NET implementation of the Tox protocol, wire-compatible with t… |
+| 2026-10-05 12:39:57 | [Soenneker.OpenZl.Util](https://www.nuget.org/packages/Soenneker.OpenZl.Util) | 4.0.2 | Jake Soenneker | Direct P/Invoke bindings for native OpenZL compression, typed data, graphs, dic… |
+| 2026-10-05 12:40:54 | [Baidai.NotificationCenter.Client](https://www.nuget.org/packages/Baidai.NotificationCenter.Client) | 1.0.0 | Baidai.NotificationCenter | Typed HTTP client for Notification Center. |
+| 2026-10-05 12:44:01 | [Baidai.NotificationSdk](https://www.nuget.org/packages/Baidai.NotificationSdk) | 1.0.0 | Baidai.NotificationCenter | Notification SDK core scaffolding. |
+| 2026-10-05 12:44:02 | [Baidai.NotificationSdk.Abstractions](https://www.nuget.org/packages/Baidai.NotificationSdk.Abstractions) | 1.0.0 | Baidai.NotificationCenter | Provider-neutral contracts for sending notifications. |
+| 2026-10-05 12:44:03 | [Baidai.NotificationSdk.DingTalk](https://www.nuget.org/packages/Baidai.NotificationSdk.DingTalk) | 1.0.0 | Baidai.NotificationCenter | DingTalk notification channel provider for the Baidai Notification SDK. |
+| 2026-10-05 12:44:05 | [Baidai.NotificationSdk.Feishu](https://www.nuget.org/packages/Baidai.NotificationSdk.Feishu) | 1.0.0 | Baidai.NotificationCenter | Feishu (Lark) notification channel provider for the Baidai Notification SDK. |
+| 2026-10-05 12:44:06 | [Baidai.NotificationSdk.Telegram](https://www.nuget.org/packages/Baidai.NotificationSdk.Telegram) | 1.0.0 | Baidai.NotificationCenter | Telegram notification channel provider for the Baidai Notification SDK. |
+| 2026-10-05 12:44:07 | [Baidai.NotificationSdk.WeCom](https://www.nuget.org/packages/Baidai.NotificationSdk.WeCom) | 1.0.0 | Baidai.NotificationCenter | WeCom (WeChat Work) notification channel provider for the Baidai Notification S… |
+| 2026-10-05 12:44:09 | [Baidai.NotificationSdk.Webhook](https://www.nuget.org/packages/Baidai.NotificationSdk.Webhook) | 1.0.0 | Baidai.NotificationCenter | Generic Webhook notification channel provider for the Baidai Notification SDK. |
+| 2026-10-05 12:44:55 | [ShinyPDF.Markdown](https://www.nuget.org/packages/ShinyPDF.Markdown) | 2.1.0 | LM Development | Markdown rendering for ShinyPDF: turn Markdown text into PDF content with a sin… |
+| 2026-10-05 12:47:00 | [Veida](https://www.nuget.org/packages/Veida) | 0.1.0 | Veida | Generate images from .NET with no API key and no account, via the free tier of… |
+| 2026-10-05 12:53:34 | [CISS.SideMenu.Oqtane.Module](https://www.nuget.org/packages/CISS.SideMenu.Oqtane.Module) | 2.2.32 | Dao Hung | Build polished Oqtane 10.2.1 sites with the ACME theme, CISS Menu Builder, Auto… |
+| 2026-10-05 12:56:58 | [SayMaker](https://www.nuget.org/packages/SayMaker) | 0.1.0 | SayMaker | Generate images and video from .NET on SayMaker: Veo 3.1, Kling 3.0, Seedance 2… |
+| 2026-10-05 13:02:04 | [Rinkink.RazorLight](https://www.nuget.org/packages/Rinkink.RazorLight) | 3.0.0 | toddams, rinkink | Fork of RazorLight 2.3.1 retargeted to net8.0 with pinned Razor 6.0.36. Use Raz… |
+| 2026-10-05 13:06:24 | [Akaule.NimBus.Resolver.Host](https://www.nuget.org/packages/Akaule.NimBus.Resolver.Host) | 4.3.0 | NimBus | The NimBus Resolver as a standalone worker, runnable as a dotnet tool for local… |
+| 2026-10-05 13:06:27 | [Akaule.NimBus.ServiceBusEmulator](https://www.nuget.org/packages/Akaule.NimBus.ServiceBusEmulator) | 4.3.0 | NimBus | A local, in-memory Azure Service Bus emulator for NimBus development (sessions,… |
+| 2026-10-05 13:06:28 | [Akaule.NimBus.AspireHosting](https://www.nuget.org/packages/Akaule.NimBus.AspireHosting) | 4.3.0 | NimBus | Aspire hosting for a local NimBus stack from NuGet packages: the Resolver, the… |
+| 2026-10-05 13:06:35 | [Akaule.NimBus.Extensions.Http](https://www.nuget.org/packages/Akaule.NimBus.Extensions.Http) | 4.3.0 | NimBus | HTTP helpers for NimBus adapters: a cached Microsoft Entra bearer-token handler… |
+| 2026-10-05 13:06:36 | [Akaule.NimBus.ServiceDefaults](https://www.nuget.org/packages/Akaule.NimBus.ServiceDefaults) | 4.3.0 | NimBus | Aspire service defaults for NimBus hosts and adapters: OpenTelemetry with NimBu… |
+| 2026-10-05 13:06:38 | [Akaule.NimBus.WebApp](https://www.nuget.org/packages/Akaule.NimBus.WebApp) | 4.3.0 | NimBus | The NimBus management WebApp, runnable as a dotnet tool for local development. |
+| 2026-10-05 13:07:32 | [Polhem.JsonRpc.Payload.Client](https://www.nuget.org/packages/Polhem.JsonRpc.Payload.Client) | 1.2.0 | Polhem contributors | Client half of Polhem.JsonRpc.Payload: PayloadConnector seals the parameters of… |
+| 2026-10-05 13:12:59 | [Doka.EntityFrameworkCore.SafeMigrations.SqlServer](https://www.nuget.org/packages/Doka.EntityFrameworkCore.SafeMigrations.SqlServer) | 10.4.6 | Dominic Kalkbrenner | SQL Server provider for Doka.EntityFrameworkCore.SafeMigrations - safe, idempot… |
 
 ## Data source
 
