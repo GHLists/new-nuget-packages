@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-04T23:31:29.563Z,Myscotek.DataCompare,1.2026.10.2,Myscotek,"XrmToolBox tool. Connect to the environment the data came from (primary) and the one it was migrated to (secondary), pick an entity and one of its views, and Data Compare reads every record of the view in both environments, matches them on their GUID and shows each one coloured: missing from the se…"
+2026-10-04T23:47:39.8Z,Structly.AI.Testing,0.4.0,menk-dev,"Typed, structured LLM output for automated .NET workflows."
+2026-10-04T23:56:45.443Z,Atlas.Sdk,1.0.0,Atlas,"Official .NET / C# backend SDK for the Atlas authentication platform. A typed, secret-key management client (users, sessions, organizations, roles, SSO, SCIM, FGA, and more) plus local session-JWT verification against instance JWKS."
