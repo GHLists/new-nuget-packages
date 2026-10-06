@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-06T06:21:47.25Z,Invex.Extensions.Logging.Utils,0.5.0,Declan Smith,Useful utilities for Microsoft.Extensions.Logging
+2026-10-06T06:25:20.973Z,ConnectivityProbe,1.0.0,Fatih Umut Memişoğlu,"Lets an application test, from inside each of its own pods/instances, whether it can reach other servers (telnet-style TCP check), and discover how many instances run behind a service. Exposes two endpoints: /connectivity-probe/discover and /connectivity-probe/identity. Works with ASP.NET Core 2.1-…"
+2026-10-06T06:27:19.12Z,MarketSDK,1.0.0,Focussoft HQ LLC,The MarketSDK client for .NET.
+2026-10-06T06:31:35.63Z,DP.Blazor.MapLibre.ProjPlugin,2.1.0,Denis Polagaev,Any-projection plugin for DP.Blazor.MapLibre (maplibre-proj / backproj / proj-wasm / wasmts vendored).
+2026-10-06T06:31:36.583Z,DP.Blazor.MapLibre.PmtilesPlugin,2.1.0,Denis Polagaev,PMTiles protocol plugin for DP.Blazor.MapLibre (pmtiles:// sources via HTTP Range).
+2026-10-06T06:45:22.553Z,InstrumentComponents,0.1.1,josh-hemphill,High-level instrument discovery and typed IVI-inspired classes — VISA-agnostic core with mock fixtures for CI.
+2026-10-06T06:45:23.873Z,InstrumentComponents.Visa,0.1.1,josh-hemphill,NI-VISA / Keysight VISA backend for InstrumentComponents over vendor-neutral IviFoundation.Visa.
+2026-10-06T06:45:44.993Z,CookiesRegTech.Umbraco,1.0.0,SKYNET TECHNOLOGIES USA LLC,"CookiesRegTech cookie consent: guided connect, banner with automatic tracker blocking, Google Consent Mode, cookie scanner, and consent log."
+2026-10-06T07:10:38.91Z,Leander.Configuration,1.0.1,Leander Tilsted Jul Withen,"Configuration contracts: every key with its primitive, presence and description, read and validated at once into an immutable snapshot."
+2026-10-06T07:10:42.22Z,SI.WA.UI.Aether,1.1.0,seriiiastreb@gmail.com,"Aether theme for the WA.Core Blazor UI: the AetherUI component library (Kit/, copied from Aether.Blazor by tools/ui-sync/aether_kit.py: markup, CSS isolation, design tokens, light/dark), the FViewer markup written on those components and an AetherMainLayout shell. No JavaScript. Built on SI.WA.UI.C…"
+2026-10-06T07:14:08.37Z,FEB.EventSourcing.TestKit,9.2.1,FEB Solutions,Test helpers for FEB.EventSourcing: snapshot contract roundtrip assertions for all [AutoSnapshot] aggregates.
+2026-10-06T07:14:09.26Z,FEB.EventSourcing.Sql,9.2.1,FEB Solutions,"Relational persistence core for FEB.EventSourcing (events, snapshots, outbox) over ADO.NET. Use with FEB.EventSourcing.Postgres or FEB.EventSourcing.SqlServer."
+2026-10-06T07:14:12.42Z,FEB.EventSourcing.StateContracts,9.2.1,FEB Solutions,"Aggregate state contracts shared by snapshotting and caching ([AutoSnapshot], [IgnoreSnapshot], snapshot metadata and serializers). Includes the fail-closed snapshot source generator."
+2026-10-06T07:14:12.853Z,FEB.EventSourcing.SqlServer,9.2.1,FEB Solutions,"SQL Server persistence for FEB.EventSourcing (events, snapshots, outbox) via Microsoft.Data.SqlClient."
+2026-10-06T07:14:13.287Z,FEB.EventSourcing.Postgres,9.2.1,FEB Solutions,"PostgreSQL persistence for FEB.EventSourcing (events, snapshots, outbox) via Npgsql."
