@@ -12,22 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 19:19 UTC
+## Latest list — 2026-10-06 20:19 UTC
 
-New packages created between 2026-10-06 18:20 UTC and 2026-10-06 19:19 UTC.
+New packages created between 2026-10-06 19:19 UTC and 2026-10-06 20:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T19-19-29-954953Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T20-19-06-78448Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 18:26:25 | [AlchiwebApp.Client.Core](https://www.nuget.org/packages/AlchiwebApp.Client.Core) | 0.6.2.5 | Alchiweb | AlchiwebApp.Client.Core |
-| 2026-10-06 18:26:43 | [AlchiwebApp.Core](https://www.nuget.org/packages/AlchiwebApp.Core) | 0.6.2.5 | Alchiweb | AlchiwebApp.Core |
-| 2026-10-06 18:27:07 | [AlchiwebApp.PagingFiltering](https://www.nuget.org/packages/AlchiwebApp.PagingFiltering) | 0.6.2.5 | Alchiweb | AlchiwebApp.PagingFiltering |
-| 2026-10-06 18:35:02 | [MSTYZ.Herald.Abstractions](https://www.nuget.org/packages/MSTYZ.Herald.Abstractions) | 1.0.0 | Muhammed Sefa Tayaz | Contracts for the Herald mediator library: request, handler, notification and p… |
-| 2026-10-06 18:36:35 | [MSTYZ.Herald](https://www.nuget.org/packages/MSTYZ.Herald) | 1.0.0 | Muhammed Sefa Tayaz | A lightweight mediator library for .NET with requests and handlers, notificatio… |
-| 2026-10-06 18:40:03 | [Samhammer.AspNetCore.StringTrimming](https://www.nuget.org/packages/Samhammer.AspNetCore.StringTrimming) | 1.0.0 | Samhammer AG | Common parts of the Samhammer string trimming for ASP.NET Core MVC: [NoTrim] at… |
-| 2026-10-06 18:40:03 | [Samhammer.AspNetCore.StringTrimming.SystemTextJson](https://www.nuget.org/packages/Samhammer.AspNetCore.StringTrimming.SystemTextJson) | 1.0.0 | Samhammer AG | System.Text.Json support for the Samhammer string trimming: trims leading and t… |
-| 2026-10-06 18:40:04 | [Samhammer.AspNetCore.StringTrimming.NewtonsoftJson](https://www.nuget.org/packages/Samhammer.AspNetCore.StringTrimming.NewtonsoftJson) | 1.0.0 | Samhammer AG | Newtonsoft.Json support for Samhammer.AspNetCore.StringTrimming: trims leading… |
+| 2026-10-06 19:21:39 | [Natrix.Composables.Dom](https://www.nuget.org/packages/Natrix.Composables.Dom) | 0.16.0 | miroljub1995 | DOM composables for Natrix components, in the spirit of VueUse. |
+| 2026-10-06 19:23:45 | [Achai.Client](https://www.nuget.org/packages/Achai.Client) | 2.0.1 | guavovic | Cliente .NET da achaí-API (CEP, logradouro, cidades, lote, consenso, coordenada… |
+| 2026-10-06 19:30:07 | [CircleAI](https://www.nuget.org/packages/CircleAI) | 3.8.0 | The Geek Network | Circle AI — the on-device assistant runtime: inference, memory, skills, voice,… |
+| 2026-10-06 19:33:29 | [Meridian.Brighter.Postgres](https://www.nuget.org/packages/Meridian.Brighter.Postgres) | 0.1.1 | Max Anstey | Fixes and additions for running Paramore Brighter on PostgreSQL: a distributed… |
+| 2026-10-06 19:36:35 | [RG3.ClosedXML.IO](https://www.nuget.org/packages/RG3.ClosedXML.IO) | 10.1.1 | rg@rg1008.com | 1、基于 RG3.ClosedXML 二次调整依赖包，把包名从 RG3.ClosedXML.IO改成RG3.ClosedXML.IO 2、excel处理，基于… |
+| 2026-10-06 19:39:13 | [TDeboutte.Common.Services.Abstractions](https://www.nuget.org/packages/TDeboutte.Common.Services.Abstractions) | 0.4.0 | Thibault Deboutte | Package Description |
+| 2026-10-06 19:42:55 | [rpi](https://www.nuget.org/packages/rpi) | 20.0.0.8 | Sub Systems, Inc. | RTF to PDF Converter |
+| 2026-10-06 20:02:36 | [MergeIt-RecordMergerForDataverse](https://www.nuget.org/packages/MergeIt-RecordMergerForDataverse) | 1.0.0 | AmraouiH | Merge two active Dynamics 365 / Dataverse records field by field with MergeIt f… |
+| 2026-10-06 20:03:22 | [StanzaSharp.Cpu.Linux](https://www.nuget.org/packages/StanzaSharp.Cpu.Linux) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for Linux x64 only. Use instead of StanzaShar… |
+| 2026-10-06 20:03:22 | [StanzaSharp.Cpu.MacOS](https://www.nuget.org/packages/StanzaSharp.Cpu.MacOS) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for macOS on Apple Silicon (arm64) only. Use… |
+| 2026-10-06 20:03:23 | [StanzaSharp.Cpu.Windows](https://www.nuget.org/packages/StanzaSharp.Cpu.Windows) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for Windows x64 only. Use instead of StanzaSh… |
+| 2026-10-06 20:03:23 | [StanzaSharp.Cpu.WindowsArm64](https://www.nuget.org/packages/StanzaSharp.Cpu.WindowsArm64) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for Windows on Arm64 only. TorchSharp-cpu has… |
 
 ## Data source
 

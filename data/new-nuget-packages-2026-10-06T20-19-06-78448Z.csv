@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-06T19:21:39.907Z,Natrix.Composables.Dom,0.16.0,miroljub1995,"DOM composables for Natrix components, in the spirit of VueUse."
+2026-10-06T19:23:45.463Z,Achai.Client,2.0.1,guavovic,"Cliente .NET da achaí-API (CEP, logradouro, cidades, lote, consenso, coordenadas, distância e status), gerado a partir do OpenAPI."
+2026-10-06T19:30:07.857Z,CircleAI,3.8.0,The Geek Network,"Circle AI — the on-device assistant runtime: inference, memory, skills, voice, vision and the device substrate, in one assembly."
+2026-10-06T19:33:29.53Z,Meridian.Brighter.Postgres,0.1.1,Max Anstey,"Fixes and additions for running Paramore Brighter on PostgreSQL: a distributed lock that works across replicas, an outbox sweeper that survives failed sweeps, dead-letter re-drive and retention per message type, and inbox cleanup."
+2026-10-06T19:36:35.833Z,RG3.ClosedXML.IO,10.1.1,rg@rg1008.com,1、基于 RG3.ClosedXML 二次调整依赖包，把包名从 RG3.ClosedXML.IO改成RG3.ClosedXML.IO 2、excel处理，基于.netcore 10
+2026-10-06T19:39:13.497Z,TDeboutte.Common.Services.Abstractions,0.4.0,Thibault Deboutte,Package Description
+2026-10-06T19:42:55.137Z,rpi,20.0.0.8,"Sub Systems, Inc.",RTF to PDF Converter
+2026-10-06T20:02:36.277Z,MergeIt-RecordMergerForDataverse,1.0.0,AmraouiH,"Merge two active Dynamics 365 / Dataverse records field by field with MergeIt for XrmToolBox. Compare values side by side, choose which values the Master keeps, then use a transaction-based manual merge or Dataverse's native merge for account, contact, lead, and incident. Optionally reassign relate…"
+2026-10-06T20:03:22.427Z,StanzaSharp.Cpu.Linux,0.3.0,Jakob Boman,"StanzaSharp plus the CPU libtorch for Linux x64 only. Use instead of StanzaSharp + TorchSharp-cpu, which restores libtorch for Linux, Windows and macOS (about 265 MB of downloads); this restores one platform's."
+2026-10-06T20:03:22.903Z,StanzaSharp.Cpu.MacOS,0.3.0,Jakob Boman,"StanzaSharp plus the CPU libtorch for macOS on Apple Silicon (arm64) only. Use instead of StanzaSharp + TorchSharp-cpu, which restores libtorch for Linux, Windows and macOS (about 265 MB of downloads); this restores one platform's. Needs Homebrew's OpenMP: brew install libomp."
+2026-10-06T20:03:23.41Z,StanzaSharp.Cpu.Windows,0.3.0,Jakob Boman,"StanzaSharp plus the CPU libtorch for Windows x64 only. Use instead of StanzaSharp + TorchSharp-cpu, which restores libtorch for Linux, Windows and macOS (about 265 MB of downloads); this restores one platform's."
+2026-10-06T20:03:23.883Z,StanzaSharp.Cpu.WindowsArm64,0.3.0,Jakob Boman,"StanzaSharp plus the CPU libtorch for Windows on Arm64 only. TorchSharp-cpu has no Windows Arm64 libtorch, so on Windows on Arm this is the package to use."
