@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-10-06T08:22:52.607Z,ProfilesApi.Application,1.0.0,ProfilesApi.Application,Package Description
+2026-10-06T08:37:23.647Z,Tronzap.Sdk,1.0.0,Tron Energy Market,"Official .NET SDK for TronZap.com. The TRON Energy API lets you buy energy and bandwidth to lower USDT (TRC20) transfer fees, activate TRON addresses and run AML checks. Documentation: https://docs.tronzap.com/"
+2026-10-06T08:48:26.02Z,com.noahjutz.hellogrpcunitycontract,1.0.0-dev01,Noah Jutz,Package Description
+2026-10-06T08:48:48.287Z,Electron2D,0.1.0-alpha,Eduard Gushchin,Typed C# runtime for building cross-platform 2D games. Add Electron2D platform packages for native dependencies.
+2026-10-06T08:48:52.553Z,Electron2D.Android,0.1.0-alpha,Eduard Gushchin,Native Android libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:48:55.927Z,Electron2D.Linux,0.1.0-alpha,Eduard Gushchin,Native Linux libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:48:57.023Z,Electron2D.MacOS,0.1.0-alpha,Eduard Gushchin,Native MacOS libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:48:57.83Z,Electron2D.Web,0.1.0-alpha,Eduard Gushchin,Native Web libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:48:58.983Z,Electron2D.Windows,0.1.0-alpha,Eduard Gushchin,Native Windows libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:49:00.23Z,Electron2D.iOS,0.1.0-alpha,Eduard Gushchin,Native iOS libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:49:01.78Z,Electron2D.tvOS,0.1.0-alpha,Eduard Gushchin,Native tvOS libraries for Electron2D 0.1.0-alpha or later. Install this package alongside Electron2D.
+2026-10-06T08:51:42.11Z,Silence.GB3838,1.0.0,Silence.GB3838,GB 3838—2002 地表水标准指标目录、规则查询与单指标水质类别判定。
+2026-10-06T08:53:10.007Z,WinterRose.Formatting,26.3.0,TheSnowOwl,"A small library providing formatters to make DateTime, TimeSpan, numbers, colors, and paths better readable for humans"
+2026-10-06T08:57:12.48Z,Reimaginate.DataHub.VirtualTables.Abstractions,1.4.4,Reimaginate,Abstractions for DataHub virtual table integrations and mediator-based virtual table request contracts.
+2026-10-06T09:03:13.073Z,AetherNet,3.1.0,The Other Bhengu (Pty) Ltd t/a The Geek Network,"AetherNet — a serverless mesh protocol for phones: messaging, transports, crypto, storage and Aether Aware, in one reference."
+2026-10-06T09:03:20.433Z,AetherNet.Node,3.1.0,The Other Bhengu (Pty) Ltd t/a The Geek Network,"AetherNet.Node — talk to AetherNetService: one device identity, its radios, Quiet help and Aether Aware, over an Android binder or a Windows named pipe."
+2026-10-06T09:03:23.413Z,AetherNet.Sqlite,3.1.0,The Other Bhengu (Pty) Ltd t/a The Geek Network,AetherNet.Sqlite — SQLite-backed content and map stores for AetherNet. Optional.
+2026-10-06T09:03:25.943Z,AetherNet.WebRtc,3.1.0,The Other Bhengu (Pty) Ltd t/a The Geek Network,"AetherNet.WebRtc — a WebRTC transport for AetherNet, over SIPSorcery. Optional."
+2026-10-06T09:09:37.973Z,WpfDataGrid.Enhancements,0.9.0,WpfDataGrid.Enhancements Team,"Lightweight DataGrid enhancement library for WPF: multi-column filtering, theming, CSV export and integration foundations (Open Source Edition, MIT)."
