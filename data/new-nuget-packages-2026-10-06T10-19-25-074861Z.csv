@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-06T09:31:16.92Z,Lokad.Jq,0.1.0,Lokad,Embeddable jq runtime for .NET with host-mediated IO. See docs/COMPATIBILITY_MATRIX.md for the jq 1.8.2 conformance inventory; compatibility is incomplete.
+2026-10-06T09:40:56.523Z,CardCQ.Engine.Abstractions,0.1.0,Thomas Volden,"Abstractions (commands, queries, events and handlers) for the CardCQ engine. Used to develop packages for CardCQ."
+2026-10-06T09:53:53.087Z,Ansight.Motion,1.7.0,Ansight AI,App-fed shake and accelerometer evidence for Ansight.
+2026-10-06T10:06:27.983Z,OnTheFlySettings.AWSSecretManager.Client,1.0.0,Shantanu,Client for OnTheFlySettings endpoints.
