@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-06T05:19:53.207Z,PolyhydraGames.Discord,1.0.8,PolyhydraGames,"Discord bot integration for Polyhydra/ChannelCheevos. Discord.Net client for real-time chat, commands, slash commands, and role synchronization."
+2026-10-06T05:55:54.403Z,Scout.linux-musl-arm64,0.7.0,willibrandon,Feature-complete port of ripgrep to .NET Native AOT.
+2026-10-06T05:58:12.023Z,CalWin.Client,8.1.3.3,CalWin AS,A .NET HTTP client library for consuming the CalWin window and door platform API.
+2026-10-06T05:58:44.107Z,Asim.CleanArchitecture.Template,1.0.0,Asim,"A .NET 10 Clean Architecture Web API template with Domain, Application, Infrastructure and API layers, Generic Repository, Unit of Work, EF Core, SQL Server, Dependency Injection, Global Exception Handling and JWT Authentication."
+2026-10-06T06:10:48Z,KeyGrant.Licensing,0.1.0,KeyGrant,"KeyGrant licensing for .NET desktop apps: signed leases verified offline, activation, trials and renewals, failing in favour of the paying customer."

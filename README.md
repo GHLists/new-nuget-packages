@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 05:19 UTC
+## Latest list — 2026-10-06 06:20 UTC
 
-New packages created between 2026-10-06 04:21 UTC and 2026-10-06 05:19 UTC.
+New packages created between 2026-10-06 05:19 UTC and 2026-10-06 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T05-19-49-63251Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T06-20-33-505521Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 04:31:06 | [DataAccessProvider.Oracle](https://www.nuget.org/packages/DataAccessProvider.Oracle) | 1.4.0 | Habib Shakibanejad | Package Description |
-| 2026-10-06 04:47:07 | [Exsited](https://www.nuget.org/packages/Exsited) | 0.0.1 | WebAlive | .NET SDK for the Exsited REST API. |
-| 2026-10-06 04:47:11 | [WebCommander](https://www.nuget.org/packages/WebCommander) | 0.0.1 | WebAlive | .NET SDK for the WebCommander REST API. |
-| 2026-10-06 04:47:12 | [EventBookings](https://www.nuget.org/packages/EventBookings) | 0.0.1 | WebAlive | .NET SDK for the EventBookings REST API. |
-| 2026-10-06 04:47:12 | [Novolis.Rendering.Appearance](https://www.nuget.org/packages/Novolis.Rendering.Appearance) | 2026.1.1.76 | Novolis | Declarative appearance stacks (surface, volume, light, effect, post) with a CPU… |
-| 2026-10-06 04:47:13 | [Umerang](https://www.nuget.org/packages/Umerang) | 0.0.1 | WebAlive | .NET SDK for the Umerang REST API. |
-| 2026-10-06 05:09:15 | [DataverseToCode.Cli](https://www.nuget.org/packages/DataverseToCode.Cli) | 0.16.1 | Simon Allport | dvschema: Dataverse schema as YAML in Git (pull, validate, plan, push, drift, d… |
+| 2026-10-06 05:19:53 | [PolyhydraGames.Discord](https://www.nuget.org/packages/PolyhydraGames.Discord) | 1.0.8 | PolyhydraGames | Discord bot integration for Polyhydra/ChannelCheevos. Discord.Net client for re… |
+| 2026-10-06 05:55:54 | [Scout.linux-musl-arm64](https://www.nuget.org/packages/Scout.linux-musl-arm64) | 0.7.0 | willibrandon | Feature-complete port of ripgrep to .NET Native AOT. |
+| 2026-10-06 05:58:12 | [CalWin.Client](https://www.nuget.org/packages/CalWin.Client) | 8.1.3.3 | CalWin AS | A .NET HTTP client library for consuming the CalWin window and door platform AP… |
+| 2026-10-06 05:58:44 | [Asim.CleanArchitecture.Template](https://www.nuget.org/packages/Asim.CleanArchitecture.Template) | 1.0.0 | Asim | A .NET 10 Clean Architecture Web API template with Domain, Application, Infrast… |
+| 2026-10-06 06:10:48 | [KeyGrant.Licensing](https://www.nuget.org/packages/KeyGrant.Licensing) | 0.1.0 | KeyGrant | KeyGrant licensing for .NET desktop apps: signed leases verified offline, activ… |
 
 ## Data source
 
