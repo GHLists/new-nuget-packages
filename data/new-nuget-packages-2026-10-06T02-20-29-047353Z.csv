@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-06T01:59:49.427Z,Waybill,0.1.0-alpha,Joseleno,"Transactional outbox and inbox for .NET: the event written with your data reaches the broker, and the consumer's database effect is applied once. Core contracts; depends only on Microsoft.Extensions.*."
+2026-10-06T01:59:49.907Z,Waybill.Testing,0.1.0-alpha,Joseleno,"Test doubles for Waybill: an in-memory outbox and inbox with assertions, so application code that enqueues or consumes messages can be tested without PostgreSQL. Reference it from test projects only."
+2026-10-06T01:59:50.477Z,Waybill.RabbitMQ,0.1.0-alpha,Joseleno,"RabbitMQ transport for Waybill: publisher confirms, persistent messages and mandatory routing."
+2026-10-06T01:59:51.14Z,Waybill.EntityFrameworkCore.PostgreSql,0.1.0-alpha,Joseleno,"EF Core and PostgreSQL persistence for Waybill: outbox capture in the same transaction, migrations, and the dispatcher claim."

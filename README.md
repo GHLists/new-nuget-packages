@@ -12,21 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 01:21 UTC
+## Latest list — 2026-10-06 02:20 UTC
 
-New packages created between 2026-10-06 00:20 UTC and 2026-10-06 01:21 UTC.
+New packages created between 2026-10-06 01:21 UTC and 2026-10-06 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T01-21-02-999869Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T02-20-29-047353Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 00:27:47 | [WASU.SDK.FormEngine](https://www.nuget.org/packages/WASU.SDK.FormEngine) | 26.1006.8 | WASU.SDK.FormEngine | Package Description |
-| 2026-10-06 00:31:39 | [EasyCheckBoxList](https://www.nuget.org/packages/EasyCheckBoxList) | 1.0.0 | EasyCheckBoxList | EasyCheckBoxList is an ASP.NET Core Tag Helper that transforms standard checkbo… |
-| 2026-10-06 00:43:03 | [LsMsgPack.Mcp](https://www.nuget.org/packages/LsMsgPack.Mcp) | 2026.10.6.4 | Louis Somers | MsgPack for AI agents: an MCP server (stdio) and command line tool that decode… |
-| 2026-10-06 00:56:40 | [CoreCli.DateTime](https://www.nuget.org/packages/CoreCli.DateTime) | 2.0.1 | Jan Ruhlaender | Format the current date and time from the command line. |
-| 2026-10-06 00:56:41 | [CoreCli.IpInfo](https://www.nuget.org/packages/CoreCli.IpInfo) | 2.0.1 | Jan Ruhlaender | Show public and local IP addresses from the command line. |
-| 2026-10-06 00:56:42 | [CoreCli.UpInfo](https://www.nuget.org/packages/CoreCli.UpInfo) | 2.0.1 | Jan Ruhlaender | Show system uptime and boot time from the command line. |
-| 2026-10-06 01:07:30 | [Hymma.ZeroBounce](https://www.nuget.org/packages/Hymma.ZeroBounce) | 1.0.0 | Hymma | A modern .NET client library for the ZeroBounce email validation API (v2). Asyn… |
+| 2026-10-06 01:59:49 | [Waybill](https://www.nuget.org/packages/Waybill) | 0.1.0-alpha | Joseleno | Transactional outbox and inbox for .NET: the event written with your data reach… |
+| 2026-10-06 01:59:49 | [Waybill.Testing](https://www.nuget.org/packages/Waybill.Testing) | 0.1.0-alpha | Joseleno | Test doubles for Waybill: an in-memory outbox and inbox with assertions, so app… |
+| 2026-10-06 01:59:50 | [Waybill.RabbitMQ](https://www.nuget.org/packages/Waybill.RabbitMQ) | 0.1.0-alpha | Joseleno | RabbitMQ transport for Waybill: publisher confirms, persistent messages and man… |
+| 2026-10-06 01:59:51 | [Waybill.EntityFrameworkCore.PostgreSql](https://www.nuget.org/packages/Waybill.EntityFrameworkCore.PostgreSql) | 0.1.0-alpha | Joseleno | EF Core and PostgreSQL persistence for Waybill: outbox capture in the same tran… |
 
 ## Data source
 
