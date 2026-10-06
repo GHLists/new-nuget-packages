@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-06T11:05:31.703Z,iPlus.Avalonia.iOS,12.2.903,iPlus,"iPlus fork of Avalonia - a cross-platform UI framework for .NET providing a flexible styling system and supporting a wide range of Operating Systems such as Windows, Linux, macOS and with experimental support for Android, iOS and WebAssembly. Based on AvaloniaUI/Avalonia with iPlus-specific modific…"
+2026-10-06T11:06:05.02Z,iPlus.Avalonia.WinUI,12.2.903,iPlus,"Windows App SDK (WinUI 3) integration for Avalonia, enabling Avalonia content to be hosted inside WinUI applications on Windows."
+2026-10-06T11:07:57.82Z,StanzaSharp,0.1.0,Jakob Boman,"Stanza's English NLP pipeline in .NET: tokenization and sentence splitting, multi-word token expansion, part-of-speech tags and morphological features, lemmas, dependency parsing, named entities, constituency parsing and sentence sentiment. Runs Stanza's own pretrained models through TorchSharp, wi…"
