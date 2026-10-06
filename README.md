@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 00:20 UTC
+## Latest list — 2026-10-06 01:21 UTC
 
-New packages created between 2026-10-05 23:19 UTC and 2026-10-06 00:20 UTC.
+New packages created between 2026-10-06 00:20 UTC and 2026-10-06 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T00-20-05-932728Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T01-21-02-999869Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-05 23:41:35 | [JasperFx.Events.InMemory](https://www.nuget.org/packages/JasperFx.Events.InMemory) | 2.81.0 | Jeremy D. Miller,Jaedyn Tonee | An in-memory document and event store for prototyping a Critter Stack applicati… |
-| 2026-10-06 00:10:09 | [WASU.Plugin.FormEngine](https://www.nuget.org/packages/WASU.Plugin.FormEngine) | 26.1006.8 | WASU.Plugin.FormEngine | Package Description |
-| 2026-10-06 00:13:14 | [WASU.Plugin.DNC](https://www.nuget.org/packages/WASU.Plugin.DNC) | 26.1006.8 | WASU.Plugin.DNC | Package Description |
+| 2026-10-06 00:27:47 | [WASU.SDK.FormEngine](https://www.nuget.org/packages/WASU.SDK.FormEngine) | 26.1006.8 | WASU.SDK.FormEngine | Package Description |
+| 2026-10-06 00:31:39 | [EasyCheckBoxList](https://www.nuget.org/packages/EasyCheckBoxList) | 1.0.0 | EasyCheckBoxList | EasyCheckBoxList is an ASP.NET Core Tag Helper that transforms standard checkbo… |
+| 2026-10-06 00:43:03 | [LsMsgPack.Mcp](https://www.nuget.org/packages/LsMsgPack.Mcp) | 2026.10.6.4 | Louis Somers | MsgPack for AI agents: an MCP server (stdio) and command line tool that decode… |
+| 2026-10-06 00:56:40 | [CoreCli.DateTime](https://www.nuget.org/packages/CoreCli.DateTime) | 2.0.1 | Jan Ruhlaender | Format the current date and time from the command line. |
+| 2026-10-06 00:56:41 | [CoreCli.IpInfo](https://www.nuget.org/packages/CoreCli.IpInfo) | 2.0.1 | Jan Ruhlaender | Show public and local IP addresses from the command line. |
+| 2026-10-06 00:56:42 | [CoreCli.UpInfo](https://www.nuget.org/packages/CoreCli.UpInfo) | 2.0.1 | Jan Ruhlaender | Show system uptime and boot time from the command line. |
+| 2026-10-06 01:07:30 | [Hymma.ZeroBounce](https://www.nuget.org/packages/Hymma.ZeroBounce) | 1.0.0 | Hymma | A modern .NET client library for the ZeroBounce email validation API (v2). Asyn… |
 
 ## Data source
 
