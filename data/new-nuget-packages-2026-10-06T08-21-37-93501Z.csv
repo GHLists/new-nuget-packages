@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-06T07:33:26.313Z,ZL.IotHub.Server,2.2.14,ZL,SCADA / Web API 实时通信服务端：基于 SignalR Server，对接 ZL.IotHub 采集内核。
+2026-10-06T08:12:28.577Z,Wslc.Testcontainers,0.2.0,Nick Nadolski,"Testcontainers-style ephemeral WSL containers for .NET integration tests, built on the Microsoft.WSL.Containers API."
+2026-10-06T08:12:29.89Z,Wslc.Testcontainers.Modules.MariaDb,0.2.0,Nick Nadolski,MariaDB module for Wslc.Testcontainers: typed builder and connection string.
+2026-10-06T08:12:30.703Z,Wslc.Testcontainers.Modules.PostgreSql,0.2.0,Nick Nadolski,PostgreSQL module for Wslc.Testcontainers: typed builder and connection string.
+2026-10-06T08:12:32.047Z,Wslc.Testcontainers.Modules.RabbitMq,0.2.0,Nick Nadolski,RabbitMQ module for Wslc.Testcontainers: typed builder and AMQP connection string.
+2026-10-06T08:12:32.89Z,Wslc.Testcontainers.Modules.Redis,0.2.0,Nick Nadolski,Redis module for Wslc.Testcontainers: typed builder and connection string.
+2026-10-06T08:12:34.183Z,Wslc.Testcontainers.Modules.Valkey,0.2.0,Nick Nadolski,Valkey module for Wslc.Testcontainers: typed builder and endpoint helper.
+2026-10-06T08:15:25.32Z,Google.Apis.Compute.preview,1.77.0.4282,Google LLC,Google APIs Client Library for working with Compute preview. Product documentation is available at: https://cloud.google.com/compute/ API reference documentation for this package is available at: https://googleapis.dev/dotnet/Google.Apis.Compute.preview/latest/api/Google.Apis.Compute.preview.html T…
