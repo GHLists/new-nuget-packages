@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-06T04:31:06.557Z,DataAccessProvider.Oracle,1.4.0,Habib Shakibanejad,Package Description
+2026-10-06T04:47:07.943Z,Exsited,0.0.1,WebAlive,.NET SDK for the Exsited REST API.
+2026-10-06T04:47:11.113Z,WebCommander,0.0.1,WebAlive,.NET SDK for the WebCommander REST API.
+2026-10-06T04:47:12.577Z,EventBookings,0.0.1,WebAlive,.NET SDK for the EventBookings REST API.
+2026-10-06T04:47:12.64Z,Novolis.Rendering.Appearance,2026.1.1.76,Novolis,"Declarative appearance stacks (surface, volume, light, effect, post) with a CPU evaluator. No host, no bitmaps required."
+2026-10-06T04:47:13.913Z,Umerang,0.0.1,WebAlive,.NET SDK for the Umerang REST API.
+2026-10-06T05:09:15.453Z,DataverseToCode.Cli,0.16.1,Simon Allport,"dvschema: Dataverse schema as YAML in Git (pull, validate, plan, push, drift, docs, seed, export, import, MCP server). Works with Microsoft Dataverse; not a Microsoft product."
