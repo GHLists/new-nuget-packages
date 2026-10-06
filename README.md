@@ -12,22 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 13:22 UTC
+## Latest list — 2026-10-06 14:21 UTC
 
-New packages created between 2026-10-06 12:20 UTC and 2026-10-06 13:22 UTC.
+New packages created between 2026-10-06 13:22 UTC and 2026-10-06 14:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T13-22-43-454596Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T14-21-21-637126Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 12:22:43 | [kdyf.umbraco14.headless](https://www.nuget.org/packages/kdyf.umbraco14.headless) | 1.6.0 | VssAdministrator | Description |
-| 2026-10-06 12:32:39 | [Sunsetless.EwsScan](https://www.nuget.org/packages/Sunsetless.EwsScan) | 1.0.0 | Sunsetless | Lists the EWS Managed API calls in compiled .NET assemblies and shows what each… |
-| 2026-10-06 12:33:07 | [LocaleNames.Core](https://www.nuget.org/packages/LocaleNames.Core) | 48.1.0 | Jiri Slachta | Code of the LocaleNames library - lookup of localized names of languages, count… |
-| 2026-10-06 12:33:27 | [LocaleNames.Data](https://www.nuget.org/packages/LocaleNames.Data) | 48.1.0 | Jiri Slachta | Unicode CLDR data (names of languages, countries and currencies) for the Locale… |
-| 2026-10-06 12:34:01 | [LocaleNames.Embed](https://www.nuget.org/packages/LocaleNames.Embed) | 48.1.0 | Jiri Slachta | Embeds the LocaleNames CLDR data (names of languages, countries and currencies)… |
-| 2026-10-06 12:37:41 | [VisioForge.DotNet.Core.UI.WebForms](https://www.nuget.org/packages/VisioForge.DotNet.Core.UI.WebForms) | 2026.10.6 | VisioForge | VisioForge Controls UI Wrappers for ASP.NET Web Forms |
-| 2026-10-06 12:50:34 | [Luxoft.Framework.Configuration.Environment](https://www.nuget.org/packages/Luxoft.Framework.Configuration.Environment) | 28.0.5 | Luxoft BSS | Package Description |
-| 2026-10-06 13:03:24 | [Soenneker.Compression.OpenZl](https://www.nuget.org/packages/Soenneker.Compression.OpenZl) | 4.0.1 | Jake Soenneker | A dependency-free managed C# implementation of OpenZL compression. |
+| 2026-10-06 13:22:43 | [OnnxRuntimeSharp](https://www.nuget.org/packages/OnnxRuntimeSharp) | 0.1.0 | nietras | Low-level ONNX Runtime C API interop in modern C#. Cross-platform, trimmable an… |
+| 2026-10-06 13:29:15 | [Corner49.CosmosDB](https://www.nuget.org/packages/Corner49.CosmosDB) | 10.0.142 | Corner49.CosmosDB | Package Description |
+| 2026-10-06 13:29:23 | [Corner49.ServiceBus](https://www.nuget.org/packages/Corner49.ServiceBus) | 10.0.142 | Corner49.ServiceBus | Package Description |
+| 2026-10-06 13:30:51 | [Kurrent.Pulumi.KurrentCloud](https://www.nuget.org/packages/Kurrent.Pulumi.KurrentCloud) | 0.3.1 | Kurrent | A Pulumi package for creating and managing Kurrent Cloud resources. |
+| 2026-10-06 13:35:47 | [RG3.ClosedXML](https://www.nuget.org/packages/RG3.ClosedXML) | 10.1.1 | rg@rg1008.com | 1、基于 ClosedXML 二次调整依赖包，把包名从 ClosedXML改成RG3.ClosedXML 2、excel处理，基于.netcore 10 |
+| 2026-10-06 13:36:58 | [AnsiSharp](https://www.nuget.org/packages/AnsiSharp) | 0.1.0 | AnsiSharp Contributors | A cross-platform ANSI terminal library for .NET providing colors, styles, curso… |
+| 2026-10-06 13:38:11 | [OmniEurope.Performance](https://www.nuget.org/packages/OmniEurope.Performance) | 0.1.0 | OmniEurope contributors | A minimal, unstyled ASP.NET Core page that measures the request performance of… |
+| 2026-10-06 13:41:43 | [E2E](https://www.nuget.org/packages/E2E) | 0.1.2 | hardkoded | Community .NET port of the e2e agentic testing framework. Describe a goal, driv… |
+| 2026-10-06 13:41:44 | [E2E.Cli](https://www.nuget.org/packages/E2E.Cli) | 0.1.2 | hardkoded | The e2e command for the E2E .NET port: sign in to a model subscription (ChatGPT… |
+| 2026-10-06 13:41:45 | [E2E.NUnit](https://www.nuget.org/packages/E2E.NUnit) | 0.1.2 | hardkoded | NUnit fixture for the E2E .NET port. Each test gets an engine session, and the… |
+| 2026-10-06 13:46:28 | [CodeMaster.XshlFramework.Foundation](https://www.nuget.org/packages/CodeMaster.XshlFramework.Foundation) | 1.0.0 | CodeMaster | CodeMaster Ref |
+| 2026-10-06 14:14:32 | [NetArcaWs](https://www.nuget.org/packages/NetArcaWs) | 0.5.0 | NetArcaWs .NET contributors | Native .NET 10 multitenant ARCA clients, WSAA, complete typed SOAP contracts, d… |
+| 2026-10-06 14:14:34 | [NetArcaWs.Tool](https://www.nuget.org/packages/NetArcaWs.Tool) | 0.5.0 | NetArcaWs .NET contributors | CLI para generar solicitudes locales de certificados ARCA y consultar certifica… |
 
 ## Data source
 

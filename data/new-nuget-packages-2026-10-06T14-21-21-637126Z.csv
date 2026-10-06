@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-06T13:22:43.913Z,OnnxRuntimeSharp,0.1.0,nietras,"Low-level ONNX Runtime C API interop in modern C#. Cross-platform, trimmable and AOT/NativeAOT compatible."
+2026-10-06T13:29:15.657Z,Corner49.CosmosDB,10.0.142,Corner49.CosmosDB,Package Description
+2026-10-06T13:29:23.443Z,Corner49.ServiceBus,10.0.142,Corner49.ServiceBus,Package Description
+2026-10-06T13:30:51.6Z,Kurrent.Pulumi.KurrentCloud,0.3.1,Kurrent,A Pulumi package for creating and managing Kurrent Cloud resources.
+2026-10-06T13:35:47.413Z,RG3.ClosedXML,10.1.1,rg@rg1008.com,1、基于 ClosedXML 二次调整依赖包，把包名从 ClosedXML改成RG3.ClosedXML 2、excel处理，基于.netcore 10
+2026-10-06T13:36:58.243Z,AnsiSharp,0.1.0,AnsiSharp Contributors,"A cross-platform ANSI terminal library for .NET providing colors, styles, cursor control, screen control, hyperlinks, progress bars, spinners and tables."
+2026-10-06T13:38:11.19Z,OmniEurope.Performance,0.1.0,OmniEurope contributors,"A minimal, unstyled ASP.NET Core page that measures the request performance of the site it is mounted in: the slowest calls and per-route percentiles over a configurable window, in at most 2 MiB of memory."
+2026-10-06T13:41:43.557Z,E2E,0.1.2,hardkoded,"Community .NET port of the e2e agentic testing framework. Describe a goal, drive the app with Playwright, and check it with locators. Not an official TesterArmy product."
+2026-10-06T13:41:44.407Z,E2E.Cli,0.1.2,hardkoded,"The e2e command for the E2E .NET port: sign in to a model subscription (ChatGPT, GitHub Copilot, OpenCode Console, SuperGrok), sign out, and list the models a login serves."
+2026-10-06T13:41:45.13Z,E2E.NUnit,0.1.2,hardkoded,"NUnit fixture for the E2E .NET port. Each test gets an engine session, and the replay cache commits from the NUnit result."
+2026-10-06T13:46:28.577Z,CodeMaster.XshlFramework.Foundation,1.0.0,CodeMaster,CodeMaster Ref
+2026-10-06T14:14:32.617Z,NetArcaWs,0.5.0,NetArcaWs .NET contributors,"Native .NET 10 multitenant ARCA clients, WSAA, complete typed SOAP contracts, durable invoicing and opt-in health checks."
+2026-10-06T14:14:34.223Z,NetArcaWs.Tool,0.5.0,NetArcaWs .NET contributors,CLI para generar solicitudes locales de certificados ARCA y consultar certificados.
