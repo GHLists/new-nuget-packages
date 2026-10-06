@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-06T11:34:52.583Z,Pronaos.FX.Templates,1.0.0,Pronaos.FX Team,"Template de microservico Pronaos.FX — Arquitetura Hexagonal/Clean, autenticacao OAuth2/JWT e identidade embutida (standalone/oauth2) ou Keycloak."
+2026-10-06T11:43:30.697Z,DoNotUseTheGreaterThanSign.Analyzer.Net,0.0.1,Llewellyn Falco,Roslyn analyzer and code fix that replaces '>' and '>=' with '<' and '<=' as a pure refactoring.
+2026-10-06T11:47:34.133Z,ZEventAggregator,1.0.0-rc,Albin Sjöström,EventAggregator using interfaces with support for ref structs
+2026-10-06T12:05:00.593Z,ClickUp.Net,1.0.0,zahid94,A strongly typed .NET 6 client library for the ClickUp API v2.

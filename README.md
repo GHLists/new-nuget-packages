@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 11:19 UTC
+## Latest list — 2026-10-06 12:20 UTC
 
-New packages created between 2026-10-06 10:19 UTC and 2026-10-06 11:19 UTC.
+New packages created between 2026-10-06 11:19 UTC and 2026-10-06 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T11-19-19-962165Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T12-20-37-431445Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 11:05:31 | [iPlus.Avalonia.iOS](https://www.nuget.org/packages/iPlus.Avalonia.iOS) | 12.2.903 | iPlus | iPlus fork of Avalonia - a cross-platform UI framework for .NET providing a fle… |
-| 2026-10-06 11:06:05 | [iPlus.Avalonia.WinUI](https://www.nuget.org/packages/iPlus.Avalonia.WinUI) | 12.2.903 | iPlus | Windows App SDK (WinUI 3) integration for Avalonia, enabling Avalonia content t… |
-| 2026-10-06 11:07:57 | [StanzaSharp](https://www.nuget.org/packages/StanzaSharp) | 0.1.0 | Jakob Boman | Stanza's English NLP pipeline in .NET: tokenization and sentence splitting, mul… |
+| 2026-10-06 11:34:52 | [Pronaos.FX.Templates](https://www.nuget.org/packages/Pronaos.FX.Templates) | 1.0.0 | Pronaos.FX Team | Template de microservico Pronaos.FX — Arquitetura Hexagonal/Clean, autenticacao… |
+| 2026-10-06 11:43:30 | [DoNotUseTheGreaterThanSign.Analyzer.Net](https://www.nuget.org/packages/DoNotUseTheGreaterThanSign.Analyzer.Net) | 0.0.1 | Llewellyn Falco | Roslyn analyzer and code fix that replaces '>' and '>=' with '<' and '<=' as a… |
+| 2026-10-06 11:47:34 | [ZEventAggregator](https://www.nuget.org/packages/ZEventAggregator) | 1.0.0-rc | Albin Sjöström | EventAggregator using interfaces with support for ref structs |
+| 2026-10-06 12:05:00 | [ClickUp.Net](https://www.nuget.org/packages/ClickUp.Net) | 1.0.0 | zahid94 | A strongly typed .NET 6 client library for the ClickUp API v2. |
 
 ## Data source
 
