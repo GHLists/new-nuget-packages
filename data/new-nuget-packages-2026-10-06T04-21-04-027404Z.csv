@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-06T03:37:39.67Z,CodeWF.Markdown.Export,13.0.0,沙漠尽头的狼,Export capability package for CodeWF.Markdown: PNG / PDF / Word export and social-platform clipboard HTML.
+2026-10-06T03:37:41.22Z,CodeWF.Markdown.Highlighting,13.0.0,沙漠尽头的狼,TextMate-based code syntax highlighting capability package for CodeWF.Markdown.
+2026-10-06T03:37:42.6Z,CodeWF.Markdown.Images,13.0.0,沙漠尽头的狼,"Image rendering capability package for CodeWF.Markdown (SVG/GIF preview, async loading with cancellation, click-to-preview)."
+2026-10-06T03:37:43.997Z,CodeWF.Markdown.Math,13.0.0,沙漠尽头的狼,Math formula rendering capability package for CodeWF.Markdown (CSharpMath based).
+2026-10-06T03:37:45.327Z,CodeWF.Markdown.Mermaid,13.0.0,沙漠尽头的狼,"Mermaid diagram rendering capability package for CodeWF.Markdown (pure .NET via Mermaider, no JavaScript)."
+2026-10-06T03:46:23.723Z,FragmentDonor.Sdk,0.1.0,Fragment Donor,Independent .NET client for the public Fragment Donor Stars and Premium API.
+2026-10-06T03:48:43.177Z,DragoAnt.Roslyn.Shared.Sources,1.0.0,DragoAnt,"Source-only helpers for Roslyn analyzers, source generators and code fixes: each component compiles its own internal copy, so no helper assembly has to load next to it."
+2026-10-06T03:55:30.38Z,CollectionGenerator,1.1.0,CollectionGenerator,Generates collections from members in C#.
