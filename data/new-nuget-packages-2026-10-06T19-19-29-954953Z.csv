@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-06T18:26:25.943Z,AlchiwebApp.Client.Core,0.6.2.5,Alchiweb,AlchiwebApp.Client.Core
+2026-10-06T18:26:43.257Z,AlchiwebApp.Core,0.6.2.5,Alchiweb,AlchiwebApp.Core
+2026-10-06T18:27:07.37Z,AlchiwebApp.PagingFiltering,0.6.2.5,Alchiweb,AlchiwebApp.PagingFiltering
+2026-10-06T18:35:02.31Z,MSTYZ.Herald.Abstractions,1.0.0,Muhammed Sefa Tayaz,"Contracts for the Herald mediator library: request, handler, notification and pipeline behavior interfaces and the Unit type. Has no dependencies, so application and infrastructure layers can reference it."
+2026-10-06T18:36:35.54Z,MSTYZ.Herald,1.0.0,Muhammed Sefa Tayaz,"A lightweight mediator library for .NET with requests and handlers, notifications and pipeline behaviors. Register it with AddHerald on Microsoft.Extensions.DependencyInjection."
+2026-10-06T18:40:03.207Z,Samhammer.AspNetCore.StringTrimming,1.0.0,Samhammer AG,"Common parts of the Samhammer string trimming for ASP.NET Core MVC: [NoTrim] attribute and the model binder for route, query and form values. Use Samhammer.AspNetCore.StringTrimming.SystemTextJson or Samhammer.AspNetCore.StringTrimming.NewtonsoftJson for JSON bodies."
+2026-10-06T18:40:03.9Z,Samhammer.AspNetCore.StringTrimming.SystemTextJson,1.0.0,Samhammer AG,"System.Text.Json support for the Samhammer string trimming: trims leading and trailing whitespace of all string inputs of ASP.NET Core MVC (JSON body, route, query and form values)."
+2026-10-06T18:40:04.683Z,Samhammer.AspNetCore.StringTrimming.NewtonsoftJson,1.0.0,Samhammer AG,Newtonsoft.Json support for Samhammer.AspNetCore.StringTrimming: trims leading and trailing whitespace of all string inputs of ASP.NET Core MVC.
