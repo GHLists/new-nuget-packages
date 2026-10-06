@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-06T02:23:31.173Z,TaskDaemon.Handler,0.1.2,Jonathan James,TaskDaemon handler SDK for C#
+2026-10-06T02:23:33.177Z,Kommander.RocksDB,11.8.1.9001,"Curiosity GmbH, Warren Falk",".NET bindings for RocksDB, including the matching native libraries for Linux, Windows and macOS. The Linux glibc libraries are built with io_uring support."
+2026-10-06T02:28:30.497Z,Digger.Debugger.any,0.1.0,Digger contributors,Debug Adapter Protocol server for .NET (CoreCLR) applications.
+2026-10-06T02:28:31.82Z,Digger.Debugger.linux-arm64,0.1.0,Digger contributors,Debug Adapter Protocol server for .NET (CoreCLR) applications.
+2026-10-06T02:28:33.01Z,Digger.Debugger.linux-x64,0.1.0,Digger contributors,Debug Adapter Protocol server for .NET (CoreCLR) applications.
+2026-10-06T02:28:34.253Z,Digger.Debugger.osx-arm64,0.1.0,Digger contributors,Debug Adapter Protocol server for .NET (CoreCLR) applications.
+2026-10-06T02:28:35.447Z,Digger.Debugger.osx-x64,0.1.0,Digger contributors,Debug Adapter Protocol server for .NET (CoreCLR) applications.
+2026-10-06T02:28:36.34Z,Digger.Debugger,0.1.0,Digger contributors,Debug Adapter Protocol server for .NET (CoreCLR) applications.
+2026-10-06T02:28:39.34Z,StdUnit.Tags.WinUsbKeyboardCodeScanners,0.16.0,StdUnit.Tags.WinUsbKeyboardCodeScanners,Package Description
+2026-10-06T02:40:09.85Z,UnitSystem,1.0.0,LateefKareem,"A lightweight .NET library for converting units across length, mass, temperature, energy, fluid density, and custom compound dimensions."
+2026-10-06T02:42:07.33Z,OSK.Extensions.Petra.Math.Provisions,0.1.0,BlankDev117,An extension that combines the math formulas with provisions to accomodate economy provision scaling
+2026-10-06T02:42:07.9Z,OSK.Petra.Math.Formulas,0.1.0,BlankDev117,"A set of math functions, formulas, and the like to help with math calculations within a game or similar application"
+2026-10-06T02:44:27.993Z,dotnetreport.frontend,6.3.5,Dotnet Report Builder,"Front end only for Dotnet Report, the embedded analytics and ad-hoc reporting solution for ASP.NET Core. This package contains the report builder and dashboard UI: the JavaScript, CSS, images and Razor views, the two page controllers that serve those views, and the gulpfile and npm package list for…"
+2026-10-06T02:44:28.96Z,dotnetreport.backend,6.3.5,Dotnet Report Builder,"Back end only for Dotnet Report, the embedded analytics and ad-hoc reporting solution for ASP.NET Core. This package contains the server code: the API controller, the report model with Excel, Word and PDF export, and the scheduled report job, along with the NuGet libraries they need. It has no Java…"
+2026-10-06T02:51:50.41Z,Asteroid.Statuses.CompilerTools,0.1.0,Asteroid.Statuses.CompilerTools,Source generator paired with Asteroid.Statuses variable declarations ([StatusDefVariable]).
+2026-10-06T03:01:01.713Z,Hs.LangSense,1.0.0,Hs.LangSense Contributors,"Practical multilingual text and value intelligence for .NET: conversion, normalization, validation, detection, extraction, Persian and Iranian data, security and ASP.NET Core."
+2026-10-06T03:10:54.96Z,SCScheduledPublish,10.5.0,Nehemiah Jeyakumar,"Schedule publish and unpublish of Sitecore items. Items ship as Items as Resources (IAR) files, so no Installation Wizard or Package Designer is required."
