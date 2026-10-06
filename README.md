@@ -12,30 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 22:20 UTC
+## Latest list — 2026-10-06 23:21 UTC
 
-New packages created between 2026-10-06 21:18 UTC and 2026-10-06 22:20 UTC.
+New packages created between 2026-10-06 22:20 UTC and 2026-10-06 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T22-20-40-01831Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T23-21-50-927384Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 21:20:18 | [Cashera](https://www.nuget.org/packages/Cashera) | 1.0.0 | Flam3y | Payment gateway cashera.cash - accepting payments with USDT settlement |
-| 2026-10-06 21:20:29 | [Cashera.AspNetCore](https://www.nuget.org/packages/Cashera.AspNetCore) | 1.0.0 | Flam3y | Cashera support for ASP.NET Core |
-| 2026-10-06 21:23:21 | [Reimaginate.DataHub.Dataverse.VirtualTables.Abstractions](https://www.nuget.org/packages/Reimaginate.DataHub.Dataverse.VirtualTables.Abstractions) | 1.4.5 | Reimaginate | Abstractions for DataHub Dataverse virtual table integrations and mediator-base… |
-| 2026-10-06 21:29:17 | [Crono.ffmpeg.Nativo.win-x64](https://www.nuget.org/packages/Crono.ffmpeg.Nativo.win-x64) | 1.0.0 | Crono | Ejecutable nativo ffmpeg para plataforma win-x64 |
-| 2026-10-06 21:29:48 | [Crono.tesseract.Nativo.win-x64](https://www.nuget.org/packages/Crono.tesseract.Nativo.win-x64) | 1.0.0 | Crono | Ejecutable nativo tesseract para plataforma win-x64 |
-| 2026-10-06 21:56:21 | [Axiom.LWSE.Testing](https://www.nuget.org/packages/Axiom.LWSE.Testing) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Runs an LWSE server in memory for tests: the applicat… |
-| 2026-10-06 21:56:33 | [uaParser.Net.AspNetCore](https://www.nuget.org/packages/uaParser.Net.AspNetCore) | 2.0.0 | Dariuosh | ASP.NET Core integration for uaParser.Net: an injectable, per-request ClientInf… |
-| 2026-10-06 21:57:03 | [Axiom.LWSE.Http](https://www.nuget.org/packages/Axiom.LWSE.Http) | 0.1.0 | DeadMoon0 | Part of the Axiom family. The HTTP/1.1 module of LWSE: compiled URI-template ro… |
-| 2026-10-06 22:00:26 | [AStarDev.FunctionalParadigm](https://www.nuget.org/packages/AStarDev.FunctionalParadigm) | 0.1.4 | Jason Barden | A collection of useful functional programming extensions. |
-| 2026-10-06 22:04:11 | [Arkheide.Essential.Culture.Blazor](https://www.nuget.org/packages/Arkheide.Essential.Culture.Blazor) | 1.3.0 | ArkheideSystem | Scoped localization and reactive text components for server-rendered Blazor app… |
-| 2026-10-06 22:04:18 | [Axiom.LWSE.Hosting](https://www.nuget.org/packages/Axiom.LWSE.Hosting) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Runs an LWSE server in the .NET generic host: ports,… |
-| 2026-10-06 22:04:24 | [Axiom.LWSE.Auth.Usci](https://www.nuget.org/packages/Axiom.LWSE.Auth.Usci) | 0.1.0 | DeadMoon0 | Part of the Axiom family. USCI tokens for LWSE: signed bearer tokens whose key… |
-| 2026-10-06 22:04:34 | [Axiom.LWSE.WebSockets](https://www.nuget.org/packages/Axiom.LWSE.WebSockets) | 0.1.0 | DeadMoon0 | Part of the Axiom family. WebSockets for LWSE: upgrade endpoints on the HTTP mo… |
-| 2026-10-06 22:04:44 | [Axiom.LWSE.ReverseProxy](https://www.nuget.org/packages/Axiom.LWSE.ReverseProxy) | 0.1.0 | DeadMoon0 | Part of the Axiom family. A reverse proxy for LWSE: routes and clusters in code… |
-| 2026-10-06 22:04:54 | [Axiom.LWSE.ApiDocs](https://www.nuget.org/packages/Axiom.LWSE.ApiDocs) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Documents a server's HTTP API: an explorer page and O… |
-| 2026-10-06 22:07:25 | [Axiom.LDB.Core](https://www.nuget.org/packages/Axiom.LDB.Core) | 0.1.0 | DeadMoon0 | Part of the Axiom family. The LDB database: tables with typed columns in fixed-… |
+| 2026-10-06 22:22:43 | [Axnic.Pulumi.PocketId](https://www.nuget.org/packages/Axnic.Pulumi.PocketId) | 0.1.0 | axnic | A Pulumi provider for Pocket-ID, a passkey-only OIDC provider. |
+| 2026-10-06 22:28:55 | [Arkheide.Flourish.Core](https://www.nuget.org/packages/Arkheide.Flourish.Core) | 1.1.1 | ArkheideSystem | Platform-neutral contracts and application services for Flourish. |
+| 2026-10-06 22:28:57 | [Arkheide.Flourish.Blazor.Abstract](https://www.nuget.org/packages/Arkheide.Flourish.Blazor.Abstract) | 1.1.1 | ArkheideSystem | Public contracts for the Blazor application shell and optional design. |
+| 2026-10-06 22:28:58 | [Arkheide.Flourish.Extensions.Culture.Blazor](https://www.nuget.org/packages/Arkheide.Flourish.Extensions.Culture.Blazor) | 1.1.1 | ArkheideSystem | Optional scoped text integration between Flourish.Blazor and Essential.Culture.… |
+| 2026-10-06 22:28:59 | [Arkheide.Flourish.Blazor.Framework](https://www.nuget.org/packages/Arkheide.Flourish.Blazor.Framework) | 1.1.1 | ArkheideSystem | Native Blazor components and functional browser behavior without a visual skin. |
+| 2026-10-06 22:29:00 | [Arkheide.Flourish.Blazor.Design](https://www.nuget.org/packages/Arkheide.Flourish.Blazor.Design) | 1.1.1 | ArkheideSystem | Explicit optional visual foundations and theme runtime for Blazor components. |
+| 2026-10-06 22:29:01 | [Arkheide.Flourish.Blazor](https://www.nuget.org/packages/Arkheide.Flourish.Blazor) | 1.1.1 | ArkheideSystem | Convenience package for Blazor contracts, framework, design and scoped Culture… |
+| 2026-10-06 22:29:46 | [Kkhay](https://www.nuget.org/packages/Kkhay) | 1.0.0 | K Khay | Official C# and .NET SDK for K Khay Sovereign Crypto Payment Gateway |
+| 2026-10-06 22:39:32 | [WebDriverBiDi.Extensions](https://www.nuget.org/packages/WebDriverBiDi.Extensions) | 0.0.63 | WebDriverBiDi.NET Committers | Convenience methods and an input action builder for the WebDriver BiDi .NET cli… |
+| 2026-10-06 22:51:53 | [Purview.SourceGeneratorFramework](https://www.nuget.org/packages/Purview.SourceGeneratorFramework) | 1.0.0 | Purview Contributors | Purview SourceGeneratorFramework libraries for building and testing incremental… |
+| 2026-10-06 22:51:53 | [Purview.SourceGeneratorFramework.Testing](https://www.nuget.org/packages/Purview.SourceGeneratorFramework.Testing) | 1.0.0 | Purview Contributors | Purview SourceGeneratorFramework libraries for building and testing incremental… |
+| 2026-10-06 22:51:53 | [Purview.SourceGeneratorFramework.Testing.TUnit](https://www.nuget.org/packages/Purview.SourceGeneratorFramework.Testing.TUnit) | 1.0.0 | Purview Contributors | Purview SourceGeneratorFramework libraries for building and testing incremental… |
+| 2026-10-06 22:52:34 | [OverShell.Terminal.Wpf](https://www.nuget.org/packages/OverShell.Terminal.Wpf) | 1.25.260302.1 | MoaidHathot | The Windows Terminal WPF control - Microsoft.Terminal.Wpf (managed HwndHost) an… |
+| 2026-10-06 23:02:54 | [Ritten.OpenTelemetry](https://www.nuget.org/packages/Ritten.OpenTelemetry) | 0.21.0 | Tom Wolfe | OpenTelemetry for Ritten workflows. |
+| 2026-10-06 23:03:02 | [Vestigium.Helpers.LogParser](https://www.nuget.org/packages/Vestigium.Helpers.LogParser) | 1.0.0 | Vestigium.Helpers.LogParser | Package Description |
+| 2026-10-06 23:06:04 | [FixPortal.FixAtdl.Contracts](https://www.nuget.org/packages/FixPortal.FixAtdl.Contracts) | 1.3.0 | FixPortal contributors | JSON contract for @fix-portal/fixatdl-react: DTO records, a mapper from the par… |
+| 2026-10-06 23:07:36 | [SatisMVVM](https://www.nuget.org/packages/SatisMVVM) | 0.0.1 | satisplexity | A lightweight MVVM library with observable objects, relay commands, asynchronou… |
+| 2026-10-06 23:10:49 | [Voidwell.Common.Authentication](https://www.nuget.org/packages/Voidwell.Common.Authentication) | 1.0.0 | VoidwellLabs | Authenticated HttpClient support with client-credentials bearer tokens, and JWT… |
+| 2026-10-06 23:10:50 | [Voidwell.Common.Logging](https://www.nuget.org/packages/Voidwell.Common.Logging) | 1.0.0 | VoidwellLabs | Serilog-based logging setup for host applications. |
+| 2026-10-06 23:10:50 | [Voidwell.Common.Configuration](https://www.nuget.org/packages/Voidwell.Common.Configuration) | 1.0.0 | VoidwellLabs | Configuration helpers, such as reading the application name. |
+| 2026-10-06 23:10:51 | [Voidwell.Common.Swagger](https://www.nuget.org/packages/Voidwell.Common.Swagger) | 1.0.0 | VoidwellLabs | Swagger / OpenAPI setup for APIs, with optional bearer authentication. |
+| 2026-10-06 23:10:52 | [Voidwell.Common.Cache](https://www.nuget.org/packages/Voidwell.Common.Cache) | 1.0.0 | VoidwellLabs | A FusionCache-based cache with optional Redis support and set-like lists. |
 
 ## Data source
 

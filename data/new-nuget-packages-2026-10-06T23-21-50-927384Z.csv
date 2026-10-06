@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-10-06T22:22:43.94Z,Axnic.Pulumi.PocketId,0.1.0,axnic,"A Pulumi provider for Pocket-ID, a passkey-only OIDC provider."
+2026-10-06T22:28:55.87Z,Arkheide.Flourish.Core,1.1.1,ArkheideSystem,Platform-neutral contracts and application services for Flourish.
+2026-10-06T22:28:57.12Z,Arkheide.Flourish.Blazor.Abstract,1.1.1,ArkheideSystem,Public contracts for the Blazor application shell and optional design.
+2026-10-06T22:28:58.243Z,Arkheide.Flourish.Extensions.Culture.Blazor,1.1.1,ArkheideSystem,Optional scoped text integration between Flourish.Blazor and Essential.Culture.Blazor.
+2026-10-06T22:28:59.583Z,Arkheide.Flourish.Blazor.Framework,1.1.1,ArkheideSystem,Native Blazor components and functional browser behavior without a visual skin.
+2026-10-06T22:29:00.78Z,Arkheide.Flourish.Blazor.Design,1.1.1,ArkheideSystem,Explicit optional visual foundations and theme runtime for Blazor components.
+2026-10-06T22:29:01.843Z,Arkheide.Flourish.Blazor,1.1.1,ArkheideSystem,"Convenience package for Blazor contracts, framework, design and scoped Culture integration. Register design and Culture services explicitly."
+2026-10-06T22:29:46.317Z,Kkhay,1.0.0,K Khay,Official C# and .NET SDK for K Khay Sovereign Crypto Payment Gateway
+2026-10-06T22:39:32.813Z,WebDriverBiDi.Extensions,0.0.63,WebDriverBiDi.NET Committers,Convenience methods and an input action builder for the WebDriver BiDi .NET client library.
+2026-10-06T22:51:53.383Z,Purview.SourceGeneratorFramework,1.0.0,Purview Contributors,Purview SourceGeneratorFramework libraries for building and testing incremental C# source generators.
+2026-10-06T22:51:53.41Z,Purview.SourceGeneratorFramework.Testing,1.0.0,Purview Contributors,Purview SourceGeneratorFramework libraries for building and testing incremental C# source generators.
+2026-10-06T22:51:53.427Z,Purview.SourceGeneratorFramework.Testing.TUnit,1.0.0,Purview Contributors,Purview SourceGeneratorFramework libraries for building and testing incremental C# source generators.
+2026-10-06T22:52:34.573Z,OverShell.Terminal.Wpf,1.25.260302.1,MoaidHathot,"The Windows Terminal WPF control - Microsoft.Terminal.Wpf (managed HwndHost) and Microsoft.Terminal.Control (the native parser, buffer and AtlasEngine renderer) - built from source by OverShell's fork of microsoft/terminal, for OverShell. The README names the upstream commit it was built from and e…"
+2026-10-06T23:02:54.473Z,Ritten.OpenTelemetry,0.21.0,Tom Wolfe,OpenTelemetry for Ritten workflows.
+2026-10-06T23:03:02.96Z,Vestigium.Helpers.LogParser,1.0.0,Vestigium.Helpers.LogParser,Package Description
+2026-10-06T23:06:04.72Z,FixPortal.FixAtdl.Contracts,1.3.0,FixPortal contributors,"JSON contract for @fix-portal/fixatdl-react: DTO records, a mapper from the parsed FixPortal.FixAtdl model, and the FIXatdl state-rule AST builder and evaluator. Headless. Maintained by FixPortal."
+2026-10-06T23:07:36.437Z,SatisMVVM,0.0.1,satisplexity,"A lightweight MVVM library with observable objects, relay commands, asynchronous commands and navigation."
+2026-10-06T23:10:49.387Z,Voidwell.Common.Authentication,1.0.0,VoidwellLabs,"Authenticated HttpClient support with client-credentials bearer tokens, and JWT / reference-token authentication for services."
+2026-10-06T23:10:50.08Z,Voidwell.Common.Logging,1.0.0,VoidwellLabs,Serilog-based logging setup for host applications.
+2026-10-06T23:10:50.863Z,Voidwell.Common.Configuration,1.0.0,VoidwellLabs,"Configuration helpers, such as reading the application name."
+2026-10-06T23:10:51.58Z,Voidwell.Common.Swagger,1.0.0,VoidwellLabs,"Swagger / OpenAPI setup for APIs, with optional bearer authentication."
+2026-10-06T23:10:52.343Z,Voidwell.Common.Cache,1.0.0,VoidwellLabs,A FusionCache-based cache with optional Redis support and set-like lists.
