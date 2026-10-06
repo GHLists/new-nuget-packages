@@ -12,27 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 14:21 UTC
+## Latest list — 2026-10-06 15:22 UTC
 
-New packages created between 2026-10-06 13:22 UTC and 2026-10-06 14:21 UTC.
+New packages created between 2026-10-06 14:21 UTC and 2026-10-06 15:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T14-21-21-637126Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T15-22-04-997159Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 13:22:43 | [OnnxRuntimeSharp](https://www.nuget.org/packages/OnnxRuntimeSharp) | 0.1.0 | nietras | Low-level ONNX Runtime C API interop in modern C#. Cross-platform, trimmable an… |
-| 2026-10-06 13:29:15 | [Corner49.CosmosDB](https://www.nuget.org/packages/Corner49.CosmosDB) | 10.0.142 | Corner49.CosmosDB | Package Description |
-| 2026-10-06 13:29:23 | [Corner49.ServiceBus](https://www.nuget.org/packages/Corner49.ServiceBus) | 10.0.142 | Corner49.ServiceBus | Package Description |
-| 2026-10-06 13:30:51 | [Kurrent.Pulumi.KurrentCloud](https://www.nuget.org/packages/Kurrent.Pulumi.KurrentCloud) | 0.3.1 | Kurrent | A Pulumi package for creating and managing Kurrent Cloud resources. |
-| 2026-10-06 13:35:47 | [RG3.ClosedXML](https://www.nuget.org/packages/RG3.ClosedXML) | 10.1.1 | rg@rg1008.com | 1、基于 ClosedXML 二次调整依赖包，把包名从 ClosedXML改成RG3.ClosedXML 2、excel处理，基于.netcore 10 |
-| 2026-10-06 13:36:58 | [AnsiSharp](https://www.nuget.org/packages/AnsiSharp) | 0.1.0 | AnsiSharp Contributors | A cross-platform ANSI terminal library for .NET providing colors, styles, curso… |
-| 2026-10-06 13:38:11 | [OmniEurope.Performance](https://www.nuget.org/packages/OmniEurope.Performance) | 0.1.0 | OmniEurope contributors | A minimal, unstyled ASP.NET Core page that measures the request performance of… |
-| 2026-10-06 13:41:43 | [E2E](https://www.nuget.org/packages/E2E) | 0.1.2 | hardkoded | Community .NET port of the e2e agentic testing framework. Describe a goal, driv… |
-| 2026-10-06 13:41:44 | [E2E.Cli](https://www.nuget.org/packages/E2E.Cli) | 0.1.2 | hardkoded | The e2e command for the E2E .NET port: sign in to a model subscription (ChatGPT… |
-| 2026-10-06 13:41:45 | [E2E.NUnit](https://www.nuget.org/packages/E2E.NUnit) | 0.1.2 | hardkoded | NUnit fixture for the E2E .NET port. Each test gets an engine session, and the… |
-| 2026-10-06 13:46:28 | [CodeMaster.XshlFramework.Foundation](https://www.nuget.org/packages/CodeMaster.XshlFramework.Foundation) | 1.0.0 | CodeMaster | CodeMaster Ref |
-| 2026-10-06 14:14:32 | [NetArcaWs](https://www.nuget.org/packages/NetArcaWs) | 0.5.0 | NetArcaWs .NET contributors | Native .NET 10 multitenant ARCA clients, WSAA, complete typed SOAP contracts, d… |
-| 2026-10-06 14:14:34 | [NetArcaWs.Tool](https://www.nuget.org/packages/NetArcaWs.Tool) | 0.5.0 | NetArcaWs .NET contributors | CLI para generar solicitudes locales de certificados ARCA y consultar certifica… |
+| 2026-10-06 14:31:36 | [TedToolkit.CppBindings.Manifold.Windows](https://www.nuget.org/packages/TedToolkit.CppBindings.Manifold.Windows) | 2026.10.6 | TedToolkit | Generated finite-profile Manifold bindings for the locked Windows x64 native ar… |
+| 2026-10-06 14:31:36 | [TedToolkit.CppBindings.Cgal.Windows](https://www.nuget.org/packages/TedToolkit.CppBindings.Cgal.Windows) | 2026.10.6 | TedToolkit | Generated finite-profile CGAL bindings for the locked Windows x64 native artifa… |
+| 2026-10-06 14:31:36 | [TedToolkit.CppBindings.Fcl.Windows](https://www.nuget.org/packages/TedToolkit.CppBindings.Fcl.Windows) | 2026.10.6 | TedToolkit | Generated finite-profile FCL bindings for the locked Windows x64 native artifac… |
+| 2026-10-06 14:31:40 | [ExolveNet](https://www.nuget.org/packages/ExolveNet) | 0.1.0 | ExolveNet contributors | Unofficial .NET SDK for the MTS Exolve platform. Covers the Number Lookup (HLR)… |
+| 2026-10-06 14:33:38 | [Corner49.Storage](https://www.nuget.org/packages/Corner49.Storage) | 10.0.143 | Corner49.Storage | Package Description |
+| 2026-10-06 14:35:00 | [Shiny.Mobile.InAppPurchases.Server](https://www.nuget.org/packages/Shiny.Mobile.InAppPurchases.Server) | 5.9.0-beta-0011 | Allan Ritchie | ASP.NET Core backend for Shiny.Mobile.InAppPurchases - App Store Server Notific… |
+| 2026-10-06 14:35:03 | [Shiny.Mobile.InAppPurchases](https://www.nuget.org/packages/Shiny.Mobile.InAppPurchases) | 5.9.0-beta-0011 | Allan Ritchie | Cross-platform in-app purchases - consumables, non-consumables and auto-renewab… |
+| 2026-10-06 14:39:52 | [ToolUp.AI.UiAwareness.Client](https://www.nuget.org/packages/ToolUp.AI.UiAwareness.Client) | 0.24.1 | Andrew J. Willshire | ToolUp.AI.UiAwareness (Client tier) — Fable executor for the _platform.ui.inspe… |
+| 2026-10-06 14:39:53 | [ToolUp.AI.UiAwareness.Core](https://www.nuget.org/packages/ToolUp.AI.UiAwareness.Core) | 0.24.1 | Andrew J. Willshire | ToolUp.AI.UiAwareness (Core tier) — the tool name and result vocabulary shared… |
+| 2026-10-06 14:39:54 | [ToolUp.AI.UiAwareness.Server](https://www.nuget.org/packages/ToolUp.AI.UiAwareness.Server) | 0.24.1 | Andrew J. Willshire | ToolUp.AI.UiAwareness (Server tier) — opt-in registration of the read-only, cli… |
+| 2026-10-06 14:40:13 | [CircleAI.Audio](https://www.nuget.org/packages/CircleAI.Audio) | 3.7.0 | The Geek Network | The engine-free half of CircleAI's voice stack: sample formats, microphone and… |
+| 2026-10-06 14:40:34 | [ToolUp.Calendar.Google](https://www.nuget.org/packages/ToolUp.Calendar.Google) | 0.24.1 | Andrew J. Willshire | Google Calendar ICalendarBridge for ToolUp.Scheduling — the Calendar v3 REST su… |
+| 2026-10-06 14:40:35 | [ToolUp.Calendar.Microsoft](https://www.nuget.org/packages/ToolUp.Calendar.Microsoft) | 0.24.1 | Andrew J. Willshire | Microsoft Graph ICalendarBridge for ToolUp.Scheduling — Outlook / Microsoft 365… |
+| 2026-10-06 14:41:04 | [ToolUp.FactStores.Postgres](https://www.nuget.org/packages/ToolUp.FactStores.Postgres) | 0.24.1 | Andrew J. Willshire | PostgreSQL-backed IFactStore for ToolUp.Facts. Facts are rows; point reads, lin… |
+| 2026-10-06 14:41:05 | [ToolUp.Facts.Client](https://www.nuget.org/packages/ToolUp.Facts.Client) | 0.24.1 | Andrew J. Willshire | ToolUp.Facts Client — the fact browse companion: a multi-page Feliz module over… |
+| 2026-10-06 14:41:08 | [ToolUp.Facts.Shared](https://www.nuget.org/packages/ToolUp.Facts.Shared) | 0.24.1 | Andrew J. Willshire | ToolUp.Facts Shared — the Fable-safe wire tier of the fact companion: the IFact… |
+| 2026-10-06 14:41:43 | [ToolUp.NotificationChannels.WhatsApp.MetaCloud](https://www.nuget.org/packages/ToolUp.NotificationChannels.WhatsApp.MetaCloud) | 0.24.1 | Andrew J. Willshire | Meta WhatsApp Business Cloud API INotificationSink for ToolUp.Platform — Graph… |
+| 2026-10-06 14:41:44 | [ToolUp.NotificationChannels.WhatsApp.Twilio](https://www.nuget.org/packages/ToolUp.NotificationChannels.WhatsApp.Twilio) | 0.24.1 | Andrew J. Willshire | Twilio WhatsApp INotificationSink for ToolUp.Platform — pure HTTP REST against… |
+| 2026-10-06 14:41:58 | [ToolUp.Platform.Transport](https://www.nuget.org/packages/ToolUp.Platform.Transport) | 0.24.1 | Andrew J. Willshire | ToolUp.Platform.Transport — the lowest tier of the ToolUp SDK: the portable out… |
+| 2026-10-06 14:42:24 | [ToolUp.SparseIndices.Postgres](https://www.nuget.org/packages/ToolUp.SparseIndices.Postgres) | 0.24.1 | Andrew J. Willshire | PostgreSQL full-text ISparseIndex for ToolUp.RAG. The keyword leg of hybrid ret… |
+| 2026-10-06 14:44:31 | [Toshal.Template.Cli](https://www.nuget.org/packages/Toshal.Template.Cli) | 2.0.0 | Toshal Infotech | The toshal-template tool: turns .ctt templates (one file, or every file of a fo… |
+| 2026-10-06 14:44:57 | [Toshal.Template](https://www.nuget.org/packages/Toshal.Template) | 2.0.0 | Toshal Infotech | A text template engine with ASP style tags such as <%=Name%>, IF, FOREACH, WITH… |
+| 2026-10-06 14:45:13 | [Vernext](https://www.nuget.org/packages/Vernext) | 1.0.0 | zeekmeta | Composable application update primitives for modern .NET desktop applications. |
+| 2026-10-06 14:45:18 | [Toshal.Template.Compiled](https://www.nuget.org/packages/Toshal.Template.Compiled) | 2.0.0 | Toshal Infotech | Run time of compiled Toshal templates: the base class of the C# classes that To… |
+| 2026-10-06 14:45:31 | [Toshal.Template.Generator](https://www.nuget.org/packages/Toshal.Template.Generator) | 2.0.0 | Toshal Infotech | Turns .ctt templates into C# classes at build time: a Roslyn source generator f… |
+| 2026-10-06 14:45:54 | [ArgyleConcepts.FSharp.Actor](https://www.nuget.org/packages/ArgyleConcepts.FSharp.Actor) | 1.0.0 | Argyle Concepts | An Elm-style actor for F#: a single-threaded update loop over a Channel mailbox… |
+| 2026-10-06 15:06:18 | [NarrativeTrace.Skills](https://www.nuget.org/packages/NarrativeTrace.Skills) | 0.2.0 | Empower Agile | The NarrativeTrace agent skills carrier: narrativetrace-doctor and add-narrativ… |
+| 2026-10-06 15:06:19 | [NarrativeTrace.Tooling](https://www.nuget.org/packages/NarrativeTrace.Tooling) | 0.2.0 | Empower Agile | Package Description |
 
 ## Data source
 
