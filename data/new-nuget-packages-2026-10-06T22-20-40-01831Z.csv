@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-06T21:20:18Z,Cashera,1.0.0,Flam3y,Payment gateway cashera.cash - accepting payments with USDT settlement
+2026-10-06T21:20:29.59Z,Cashera.AspNetCore,1.0.0,Flam3y,Cashera support for ASP.NET Core
+2026-10-06T21:23:21.947Z,Reimaginate.DataHub.Dataverse.VirtualTables.Abstractions,1.4.5,Reimaginate,Abstractions for DataHub Dataverse virtual table integrations and mediator-based virtual table request contracts.
+2026-10-06T21:29:17.453Z,Crono.ffmpeg.Nativo.win-x64,1.0.0,Crono,Ejecutable nativo ffmpeg para plataforma win-x64
+2026-10-06T21:29:48.43Z,Crono.tesseract.Nativo.win-x64,1.0.0,Crono,Ejecutable nativo tesseract para plataforma win-x64
+2026-10-06T21:56:21.953Z,Axiom.LWSE.Testing,0.1.0,DeadMoon0,"Part of the Axiom family. Runs an LWSE server in memory for tests: the application's own description, ports and certificates included, with HttpClient and ClientWebSocket wired to it and no socket bound."
+2026-10-06T21:56:33.513Z,uaParser.Net.AspNetCore,2.0.0,Dariuosh,"ASP.NET Core integration for uaParser.Net: an injectable, per-request ClientInfo, HttpContext.GetClientInfo(), an optional middleware and a shared cache for repeated user agents."
+2026-10-06T21:57:03.103Z,Axiom.LWSE.Http,0.1.0,DeadMoon0,"Part of the Axiom family. The HTTP/1.1 module of LWSE: compiled URI-template routing, class-based APIs checked by a source generator, endpoint contributions from any module, safe defaults for the open internet."
+2026-10-06T22:00:26.01Z,AStarDev.FunctionalParadigm,0.1.4,Jason Barden,A collection of useful functional programming extensions.
+2026-10-06T22:04:11.847Z,Arkheide.Essential.Culture.Blazor,1.3.0,ArkheideSystem,Scoped localization and reactive text components for server-rendered Blazor applications.
+2026-10-06T22:04:18.19Z,Axiom.LWSE.Hosting,0.1.0,DeadMoon0,"Part of the Axiom family. Runs an LWSE server in the .NET generic host: ports, TLS files, allowed hosts, admission and drain from configuration (unknown keys are errors), started and drained with the host."
+2026-10-06T22:04:24.4Z,Axiom.LWSE.Auth.Usci,0.1.0,DeadMoon0,"Part of the Axiom family. USCI tokens for LWSE: signed bearer tokens whose key id decides the algorithm, encrypted per-token secrets, a revocation seam, a bounded verify cache, and single-use tickets for browser WebSockets."
+2026-10-06T22:04:34.823Z,Axiom.LWSE.WebSockets,0.1.0,DeadMoon0,"Part of the Axiom family. WebSockets for LWSE: upgrade endpoints on the HTTP module's routes, socket classes checked by a source generator, rooms with bounded fan-out, origin checks and slow-consumer limits."
+2026-10-06T22:04:44.813Z,Axiom.LWSE.ReverseProxy,0.1.0,DeadMoon0,"Part of the Axiom family. A reverse proxy for LWSE: routes and clusters in code or configuration (reloaded while running, refused whole when wrong), load balancing, health checks, retries, WebSocket tunnels; upstreams fixed by configuration, never by the request."
+2026-10-06T22:04:54.527Z,Axiom.LWSE.ApiDocs,0.1.0,DeadMoon0,"Part of the Axiom family. Documents a server's HTTP API: an explorer page and OpenAPI 3.1 and Markdown exports, built from what the endpoints state (signatures, doc comments, authentication, limits) and always matching the routes served now."
+2026-10-06T22:07:25.3Z,Axiom.LDB.Core,0.1.0,DeadMoon0,"Part of the Axiom family. The LDB database: tables with typed columns in fixed-size rows, a heap for values of any size, B+ tree indexes, unique and foreign keys, transactions across tables, predicates with a planner, and aggregates, on the LDB storage engine."

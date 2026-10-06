@@ -12,28 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 21:18 UTC
+## Latest list — 2026-10-06 22:20 UTC
 
-New packages created between 2026-10-06 20:19 UTC and 2026-10-06 21:18 UTC.
+New packages created between 2026-10-06 21:18 UTC and 2026-10-06 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T21-18-56-595636Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T22-20-40-01831Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 20:22:17 | [Dloizides.Analyzers](https://www.nuget.org/packages/Dloizides.Analyzers) | 0.1.0 | DLoizides | Roslyn analyzers for a no-comments code style: DLZ0001 bans line/block comments… |
-| 2026-10-06 20:34:56 | [TheoryNexus.Helm](https://www.nuget.org/packages/TheoryNexus.Helm) | 0.1.0 | Theory Nexus | Report a product's usage, payments, subscriptions and costs to Helm in one stan… |
-| 2026-10-06 20:53:29 | [Soenneker.Librarian.IndexedDb](https://www.nuget.org/packages/Soenneker.Librarian.IndexedDb) | 4.0.68 | Jake Soenneker | Librarian document storage for IndexedDb. |
-| 2026-10-06 20:55:41 | [Soenneker.Librarian.LocalStorage](https://www.nuget.org/packages/Soenneker.Librarian.LocalStorage) | 4.0.68 | Jake Soenneker | Librarian document storage for LocalStorage. |
-| 2026-10-06 20:56:33 | [Soenneker.Librarian.SessionStorage](https://www.nuget.org/packages/Soenneker.Librarian.SessionStorage) | 4.0.69 | Jake Soenneker | Librarian document storage for SessionStorage. |
-| 2026-10-06 20:56:41 | [Microsoft.AI.IsolationSession.SDK](https://www.nuget.org/packages/Microsoft.AI.IsolationSession.SDK) | 0.202610.5 | Microsoft | Pipeline-generated SDK for Windows.AI.IsolationSession. Contains both WinMD met… |
-| 2026-10-06 20:57:25 | [Soenneker.Librarian.Browser](https://www.nuget.org/packages/Soenneker.Librarian.Browser) | 4.0.69 | Jake Soenneker | Librarian document storage for Browser. |
-| 2026-10-06 20:57:50 | [Troolio.Agents](https://www.nuget.org/packages/Troolio.Agents) | 10.0.6 | Fifty3North (F3N Limited) | Agent and run event-sourced actor contracts and orchestration primitives for Tr… |
-| 2026-10-06 20:57:52 | [Troolio.SqlServer](https://www.nuget.org/packages/Troolio.SqlServer) | 10.0.6 | Fifty3North (F3N Limited) | SQL Server integration components for Troolio event-sourced actor applications. |
-| 2026-10-06 20:57:53 | [Troolio.KurrentDB](https://www.nuget.org/packages/Troolio.KurrentDB) | 10.0.6 | Fifty3North (F3N Limited) | KurrentDB integration components for Troolio event-sourced actor applications. |
-| 2026-10-06 20:57:55 | [Troolio.KurrentDB.SqlServer](https://www.nuget.org/packages/Troolio.KurrentDB.SqlServer) | 10.0.6 | Fifty3North (F3N Limited) | SQL Server support components for Troolio KurrentDB integrations. |
-| 2026-10-06 21:01:45 | [Soenneker.Librarian.Maui.Secure](https://www.nuget.org/packages/Soenneker.Librarian.Maui.Secure) | 4.0.69 | Jake Soenneker | Librarian document storage for Maui.Secure. |
-| 2026-10-06 21:07:00 | [Grist4NET.Kiota](https://www.nuget.org/packages/Grist4NET.Kiota) | 1.0.1 | djsime1 | Kiota-generated API client from Grist's OpenAPI spec. |
-| 2026-10-06 21:07:33 | [Grist4NET](https://www.nuget.org/packages/Grist4NET) | 0.1.0 | djsime1 | Interface with Grist documents. |
+| 2026-10-06 21:20:18 | [Cashera](https://www.nuget.org/packages/Cashera) | 1.0.0 | Flam3y | Payment gateway cashera.cash - accepting payments with USDT settlement |
+| 2026-10-06 21:20:29 | [Cashera.AspNetCore](https://www.nuget.org/packages/Cashera.AspNetCore) | 1.0.0 | Flam3y | Cashera support for ASP.NET Core |
+| 2026-10-06 21:23:21 | [Reimaginate.DataHub.Dataverse.VirtualTables.Abstractions](https://www.nuget.org/packages/Reimaginate.DataHub.Dataverse.VirtualTables.Abstractions) | 1.4.5 | Reimaginate | Abstractions for DataHub Dataverse virtual table integrations and mediator-base… |
+| 2026-10-06 21:29:17 | [Crono.ffmpeg.Nativo.win-x64](https://www.nuget.org/packages/Crono.ffmpeg.Nativo.win-x64) | 1.0.0 | Crono | Ejecutable nativo ffmpeg para plataforma win-x64 |
+| 2026-10-06 21:29:48 | [Crono.tesseract.Nativo.win-x64](https://www.nuget.org/packages/Crono.tesseract.Nativo.win-x64) | 1.0.0 | Crono | Ejecutable nativo tesseract para plataforma win-x64 |
+| 2026-10-06 21:56:21 | [Axiom.LWSE.Testing](https://www.nuget.org/packages/Axiom.LWSE.Testing) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Runs an LWSE server in memory for tests: the applicat… |
+| 2026-10-06 21:56:33 | [uaParser.Net.AspNetCore](https://www.nuget.org/packages/uaParser.Net.AspNetCore) | 2.0.0 | Dariuosh | ASP.NET Core integration for uaParser.Net: an injectable, per-request ClientInf… |
+| 2026-10-06 21:57:03 | [Axiom.LWSE.Http](https://www.nuget.org/packages/Axiom.LWSE.Http) | 0.1.0 | DeadMoon0 | Part of the Axiom family. The HTTP/1.1 module of LWSE: compiled URI-template ro… |
+| 2026-10-06 22:00:26 | [AStarDev.FunctionalParadigm](https://www.nuget.org/packages/AStarDev.FunctionalParadigm) | 0.1.4 | Jason Barden | A collection of useful functional programming extensions. |
+| 2026-10-06 22:04:11 | [Arkheide.Essential.Culture.Blazor](https://www.nuget.org/packages/Arkheide.Essential.Culture.Blazor) | 1.3.0 | ArkheideSystem | Scoped localization and reactive text components for server-rendered Blazor app… |
+| 2026-10-06 22:04:18 | [Axiom.LWSE.Hosting](https://www.nuget.org/packages/Axiom.LWSE.Hosting) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Runs an LWSE server in the .NET generic host: ports,… |
+| 2026-10-06 22:04:24 | [Axiom.LWSE.Auth.Usci](https://www.nuget.org/packages/Axiom.LWSE.Auth.Usci) | 0.1.0 | DeadMoon0 | Part of the Axiom family. USCI tokens for LWSE: signed bearer tokens whose key… |
+| 2026-10-06 22:04:34 | [Axiom.LWSE.WebSockets](https://www.nuget.org/packages/Axiom.LWSE.WebSockets) | 0.1.0 | DeadMoon0 | Part of the Axiom family. WebSockets for LWSE: upgrade endpoints on the HTTP mo… |
+| 2026-10-06 22:04:44 | [Axiom.LWSE.ReverseProxy](https://www.nuget.org/packages/Axiom.LWSE.ReverseProxy) | 0.1.0 | DeadMoon0 | Part of the Axiom family. A reverse proxy for LWSE: routes and clusters in code… |
+| 2026-10-06 22:04:54 | [Axiom.LWSE.ApiDocs](https://www.nuget.org/packages/Axiom.LWSE.ApiDocs) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Documents a server's HTTP API: an explorer page and O… |
+| 2026-10-06 22:07:25 | [Axiom.LDB.Core](https://www.nuget.org/packages/Axiom.LDB.Core) | 0.1.0 | DeadMoon0 | Part of the Axiom family. The LDB database: tables with typed columns in fixed-… |
 
 ## Data source
 
