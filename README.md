@@ -12,26 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 20:19 UTC
+## Latest list — 2026-10-06 21:18 UTC
 
-New packages created between 2026-10-06 19:19 UTC and 2026-10-06 20:19 UTC.
+New packages created between 2026-10-06 20:19 UTC and 2026-10-06 21:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T20-19-06-78448Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-06T21-18-56-595636Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 19:21:39 | [Natrix.Composables.Dom](https://www.nuget.org/packages/Natrix.Composables.Dom) | 0.16.0 | miroljub1995 | DOM composables for Natrix components, in the spirit of VueUse. |
-| 2026-10-06 19:23:45 | [Achai.Client](https://www.nuget.org/packages/Achai.Client) | 2.0.1 | guavovic | Cliente .NET da achaí-API (CEP, logradouro, cidades, lote, consenso, coordenada… |
-| 2026-10-06 19:30:07 | [CircleAI](https://www.nuget.org/packages/CircleAI) | 3.8.0 | The Geek Network | Circle AI — the on-device assistant runtime: inference, memory, skills, voice,… |
-| 2026-10-06 19:33:29 | [Meridian.Brighter.Postgres](https://www.nuget.org/packages/Meridian.Brighter.Postgres) | 0.1.1 | Max Anstey | Fixes and additions for running Paramore Brighter on PostgreSQL: a distributed… |
-| 2026-10-06 19:36:35 | [RG3.ClosedXML.IO](https://www.nuget.org/packages/RG3.ClosedXML.IO) | 10.1.1 | rg@rg1008.com | 1、基于 RG3.ClosedXML 二次调整依赖包，把包名从 RG3.ClosedXML.IO改成RG3.ClosedXML.IO 2、excel处理，基于… |
-| 2026-10-06 19:39:13 | [TDeboutte.Common.Services.Abstractions](https://www.nuget.org/packages/TDeboutte.Common.Services.Abstractions) | 0.4.0 | Thibault Deboutte | Package Description |
-| 2026-10-06 19:42:55 | [rpi](https://www.nuget.org/packages/rpi) | 20.0.0.8 | Sub Systems, Inc. | RTF to PDF Converter |
-| 2026-10-06 20:02:36 | [MergeIt-RecordMergerForDataverse](https://www.nuget.org/packages/MergeIt-RecordMergerForDataverse) | 1.0.0 | AmraouiH | Merge two active Dynamics 365 / Dataverse records field by field with MergeIt f… |
-| 2026-10-06 20:03:22 | [StanzaSharp.Cpu.Linux](https://www.nuget.org/packages/StanzaSharp.Cpu.Linux) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for Linux x64 only. Use instead of StanzaShar… |
-| 2026-10-06 20:03:22 | [StanzaSharp.Cpu.MacOS](https://www.nuget.org/packages/StanzaSharp.Cpu.MacOS) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for macOS on Apple Silicon (arm64) only. Use… |
-| 2026-10-06 20:03:23 | [StanzaSharp.Cpu.Windows](https://www.nuget.org/packages/StanzaSharp.Cpu.Windows) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for Windows x64 only. Use instead of StanzaSh… |
-| 2026-10-06 20:03:23 | [StanzaSharp.Cpu.WindowsArm64](https://www.nuget.org/packages/StanzaSharp.Cpu.WindowsArm64) | 0.3.0 | Jakob Boman | StanzaSharp plus the CPU libtorch for Windows on Arm64 only. TorchSharp-cpu has… |
+| 2026-10-06 20:22:17 | [Dloizides.Analyzers](https://www.nuget.org/packages/Dloizides.Analyzers) | 0.1.0 | DLoizides | Roslyn analyzers for a no-comments code style: DLZ0001 bans line/block comments… |
+| 2026-10-06 20:34:56 | [TheoryNexus.Helm](https://www.nuget.org/packages/TheoryNexus.Helm) | 0.1.0 | Theory Nexus | Report a product's usage, payments, subscriptions and costs to Helm in one stan… |
+| 2026-10-06 20:53:29 | [Soenneker.Librarian.IndexedDb](https://www.nuget.org/packages/Soenneker.Librarian.IndexedDb) | 4.0.68 | Jake Soenneker | Librarian document storage for IndexedDb. |
+| 2026-10-06 20:55:41 | [Soenneker.Librarian.LocalStorage](https://www.nuget.org/packages/Soenneker.Librarian.LocalStorage) | 4.0.68 | Jake Soenneker | Librarian document storage for LocalStorage. |
+| 2026-10-06 20:56:33 | [Soenneker.Librarian.SessionStorage](https://www.nuget.org/packages/Soenneker.Librarian.SessionStorage) | 4.0.69 | Jake Soenneker | Librarian document storage for SessionStorage. |
+| 2026-10-06 20:56:41 | [Microsoft.AI.IsolationSession.SDK](https://www.nuget.org/packages/Microsoft.AI.IsolationSession.SDK) | 0.202610.5 | Microsoft | Pipeline-generated SDK for Windows.AI.IsolationSession. Contains both WinMD met… |
+| 2026-10-06 20:57:25 | [Soenneker.Librarian.Browser](https://www.nuget.org/packages/Soenneker.Librarian.Browser) | 4.0.69 | Jake Soenneker | Librarian document storage for Browser. |
+| 2026-10-06 20:57:50 | [Troolio.Agents](https://www.nuget.org/packages/Troolio.Agents) | 10.0.6 | Fifty3North (F3N Limited) | Agent and run event-sourced actor contracts and orchestration primitives for Tr… |
+| 2026-10-06 20:57:52 | [Troolio.SqlServer](https://www.nuget.org/packages/Troolio.SqlServer) | 10.0.6 | Fifty3North (F3N Limited) | SQL Server integration components for Troolio event-sourced actor applications. |
+| 2026-10-06 20:57:53 | [Troolio.KurrentDB](https://www.nuget.org/packages/Troolio.KurrentDB) | 10.0.6 | Fifty3North (F3N Limited) | KurrentDB integration components for Troolio event-sourced actor applications. |
+| 2026-10-06 20:57:55 | [Troolio.KurrentDB.SqlServer](https://www.nuget.org/packages/Troolio.KurrentDB.SqlServer) | 10.0.6 | Fifty3North (F3N Limited) | SQL Server support components for Troolio KurrentDB integrations. |
+| 2026-10-06 21:01:45 | [Soenneker.Librarian.Maui.Secure](https://www.nuget.org/packages/Soenneker.Librarian.Maui.Secure) | 4.0.69 | Jake Soenneker | Librarian document storage for Maui.Secure. |
+| 2026-10-06 21:07:00 | [Grist4NET.Kiota](https://www.nuget.org/packages/Grist4NET.Kiota) | 1.0.1 | djsime1 | Kiota-generated API client from Grist's OpenAPI spec. |
+| 2026-10-06 21:07:33 | [Grist4NET](https://www.nuget.org/packages/Grist4NET) | 0.1.0 | djsime1 | Interface with Grist documents. |
 
 ## Data source
 

@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-06T20:22:17.453Z,Dloizides.Analyzers,0.1.0,DLoizides,"Roslyn analyzers for a no-comments code style: DLZ0001 bans line/block comments, DLZ0002 allows doc comments only on public/protected members, DLZ0003 caps a doc comment at 3 lines of summary/param/returns."
+2026-10-06T20:34:56.667Z,TheoryNexus.Helm,0.1.0,Theory Nexus,"Report a product's usage, payments, subscriptions and costs to Helm in one standard way. Sends in the background, never slows down or breaks the product, and does nothing until it is configured."
+2026-10-06T20:53:29.35Z,Soenneker.Librarian.IndexedDb,4.0.68,Jake Soenneker,Librarian document storage for IndexedDb.
+2026-10-06T20:55:41.283Z,Soenneker.Librarian.LocalStorage,4.0.68,Jake Soenneker,Librarian document storage for LocalStorage.
+2026-10-06T20:56:33.087Z,Soenneker.Librarian.SessionStorage,4.0.69,Jake Soenneker,Librarian document storage for SessionStorage.
+2026-10-06T20:56:41.203Z,Microsoft.AI.IsolationSession.SDK,0.202610.5,Microsoft,Pipeline-generated SDK for Windows.AI.IsolationSession. Contains both WinMD metadata files plus the signed x64 IsoSessionApp activation shim and completed runtime manifest consumed by MXC.
+2026-10-06T20:57:25.907Z,Soenneker.Librarian.Browser,4.0.69,Jake Soenneker,Librarian document storage for Browser.
+2026-10-06T20:57:50.283Z,Troolio.Agents,10.0.6,Fifty3North (F3N Limited),Agent and run event-sourced actor contracts and orchestration primitives for Troolio.Core and Microsoft Orleans.
+2026-10-06T20:57:52.067Z,Troolio.SqlServer,10.0.6,Fifty3North (F3N Limited),SQL Server integration components for Troolio event-sourced actor applications.
+2026-10-06T20:57:53.853Z,Troolio.KurrentDB,10.0.6,Fifty3North (F3N Limited),KurrentDB integration components for Troolio event-sourced actor applications.
+2026-10-06T20:57:55.53Z,Troolio.KurrentDB.SqlServer,10.0.6,Fifty3North (F3N Limited),SQL Server support components for Troolio KurrentDB integrations.
+2026-10-06T21:01:45.32Z,Soenneker.Librarian.Maui.Secure,4.0.69,Jake Soenneker,Librarian document storage for Maui.Secure.
+2026-10-06T21:07:00.847Z,Grist4NET.Kiota,1.0.1,djsime1,Kiota-generated API client from Grist's OpenAPI spec.
+2026-10-06T21:07:33.843Z,Grist4NET,0.1.0,djsime1,Interface with Grist documents.
