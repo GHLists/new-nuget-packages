@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-10-07T14:33:53.433Z,Dataverse.ModellingMcp.Setup,1.22.0,crossvertise,"Dataverse Modelling MCP server and its setup wizard: run ""dataverse-modelling-mcp"" to configure, ""dataverse-modelling-mcp server"" to start the MCP server."
+2026-10-07T14:35:49.253Z,PepperDash.Essentials.Plugins.Barco.G60,2.0.0,PepperDash Technologies,This software is a plugin designed to work as a part of PepperDash Essentials for Crestron control processors. It provides control and feedback for Barco G60 Projector.
+2026-10-07T14:36:54.407Z,Luthor.Generator,5.1.0,honey the codewitch,Incremental source generator that builds DFA lexers from [Rule] attributes.
+2026-10-07T14:38:55.04Z,Soenneker.Maui.Permissioners.ExactAlarm,4.0.4,Jake Soenneker,Android exact alarm permission checking and requesting for .NET MAUI applications.
+2026-10-07T14:40:31.02Z,Soenneker.Maui.Permissioners.Notifications,4.0.3,Jake Soenneker,Notification permission checking and requesting for .NET MAUI applications.
+2026-10-07T14:44:42.273Z,PoshTools.Iseberg.Core,0.0.3,Adam Driscoll,"PowerShell execution, completion, debugging, and editor services for Iseberg."
+2026-10-07T14:44:43.207Z,PoshTools.Iseberg.Editor,0.0.3,Adam Driscoll,Engine-independent PowerShell editing and explicit host-provided diagnostics for Avalonia 12. No execution or workbench.
+2026-10-07T14:44:44.2Z,PoshTools.ISEBerg,0.0.3,Adam Driscoll,Avalonia PowerShell editor and workbench.
+2026-10-07T14:45:03.633Z,Soenneker.Maui.Permissioners.BatteryOptimizationDisabled,4.0.3,Jake Soenneker,Android battery optimization exemption checking and requesting for .NET MAUI applications.
+2026-10-07T14:45:17.707Z,LunaticPanel.Core.Abstraction,0.0.11,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T14:46:21.167Z,Remote.Linq.Protobuf,8.0.0-alpha-001,Christof Senn,Provides schema-first Google.Protobuf serialization for Remote.Linq types.
+2026-10-07T14:46:23.137Z,Remote.Linq.MessagePack,8.0.0-alpha-001,Christof Senn,Provides MessagePack serialization for Remote.Linq types.
+2026-10-07T14:53:19.63Z,LunaticPanel.Core.PluginValidator,0.0.11,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T14:55:31.15Z,ScuroGuardiano.Phoenix,1.0.0,ScuroGuardiano,Thin wrapper on execve on Unix-like systems and prctl on Linux
+2026-10-07T14:56:04.25Z,Bfocus.Monitor,0.1.2,Berni Software,"Monitoramento de erros do bFocus para .NET: captura os erros não tratados do sistema (AppDomain, tarefas, ASP.NET Core) e manda para o bFocus, onde o mesmo erro é agrupado entre todos os clientes e vira demanda para a equipe. Sem dependências."
+2026-10-07T14:56:05.507Z,Bfocus.Monitor.AspNetCore,0.1.2,Berni Software,"Integração ASP.NET Core do monitoramento de erros do bFocus: app.UseBfocusMonitor() captura o erro da requisição (com método, rota e identidade da própria requisição) e relança."
+2026-10-07T14:58:18.093Z,XingGui.QingNiao,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:18.997Z,LunaticPanel.Core,0.0.11,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T14:58:20.617Z,XingGui.QingNiao.BLE,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:24.143Z,XingGui.QingNiao.Bluetooth,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:26.517Z,XingGui.QingNiao.Bridge,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:29.02Z,XingGui.QingNiao.Builder,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:31.15Z,XingGui.QingNiao.Envoy,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:33.037Z,XingGui.QingNiao.Envoy.SourceGenerator,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:34.84Z,XingGui.QingNiao.Parser,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-10-07T14:58:36.66Z,XingGui.QingNiao.Protocol,1.0.0,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
