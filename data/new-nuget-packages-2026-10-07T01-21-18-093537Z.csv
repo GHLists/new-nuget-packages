@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-07T00:24:55.027Z,Troolio.Projection.Redis,10.0.2,Fifty3North (F3N Limited),Redis derived read models and partition change feeds for Troolio applications.
+2026-10-07T00:46:46.387Z,Ourogen.Templates,0.0.1-alpha,Scott Sanderson,Package Description
+2026-10-07T00:57:03.863Z,Shiny.GameCenter,5.9.0-beta-0012,Allan Ritchie,"Shiny Game Center - achievements and leaderboards over Apple Game Center (iOS, Mac Catalyst, macOS) and Google Play Games Services v2 (Android), with one set of logical keys and a durable offline queue"
+2026-10-07T01:08:35.23Z,ZeroBus.Core,1.1.0,Phong Võ,"Pure C# Industrial Motion Fieldbus: Real-Time CAN / CANopen (CiA 301 & CiA 402 Servo Drive Profile), EtherCAT Master (ESM, CoE Mailbox, Cyclic Synchronous Position CSP) for .NET."
+2026-10-07T01:08:40.037Z,ZeroMotion.Core,1.1.0,Phong Võ,"Pure C# Industrial Robotics Kinematics (6-Axis, SCARA, Delta, Cartesian), CCD & Analytical Inverse Kinematics, 7-Phase Jerk-Limited S-Curve Trajectory Planning, and ROS URDF model parser for .NET."
+2026-10-07T01:08:42.557Z,ZeroScan3D.Core,1.0.0,Phong Võ,"Pure C# 3D spatial scanning, Visual SLAM, RGB-D point cloud unprojector, spatial voxel grid integration, TSDF volume, and Marching Cubes 3D mesh reconstruction for .NET."
+2026-10-07T01:09:36.257Z,Epiforge.Extensions.Blazor,1.0.0,Epiforge,This package re-renders Blazor components when the objects they read announce changes.
