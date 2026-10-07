@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-07T21:33:34.987Z,Cosmos.Kernel.Drivers,3.0.90,CosmosOS,"The drivers Cosmos ships, written over the driver kit: the PCI host, the PCI Express root port, E1000E, the virtio transports, virtio-net, virtio-input, virtio-blk, the virtio-gpu and VMware SVGA II display drivers, the AHCI and NVMe storage drivers, the xHCI host controller, USB hub, HID boot keyb…"
+2026-10-07T21:42:31.263Z,Cosmos.Network.Telnet,1.0.0,Cosmos,Telnet server for Cosmos Gen3 kernels: every client gets a console session and a shell of its own.
+2026-10-07T21:46:59.353Z,VungleSDKForWPF,7.1.2,"Liftoff,Inc.","To get up and running with Vungle, you'll need to create an account with Vungle and add an application to the Vungle Dashboard."
+2026-10-07T21:57:11.583Z,Fantury.SimpleMediator,1.0.0,Fantury Software,"Simple mediator implementation in .NET, In-process messaging with no dependencies."
+2026-10-07T22:05:25.553Z,Lasagna,0.0.1-beta,Lasagna contributors,Save and reuse individual files and file bundles in .NET projects.
