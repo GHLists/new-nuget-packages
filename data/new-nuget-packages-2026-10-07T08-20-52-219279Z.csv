@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-07T07:23:41.33Z,Inheto,1.0.0,alt160,"A .NET-native, low-allocation binary serializer with shared and circular reference preservation, broad built-in type coverage, selective property-path reads, and compatible-type hydration."
+2026-10-07T07:26:24.253Z,JorgeCostaMacia.Http.ForwardedHeaders,4.1.0,JorgeCostaMacia,"Default forwarded-headers policy for a service behind a reverse proxy on the same host or Docker's default bridge, as an options extension applied from the host's Configure<ForwardedHeadersOptions>"
+2026-10-07T07:47:44.7Z,Orbyss.Foundation.Authentication.Core,0.3.0,Orbyss,Provider-neutral validated account identity and authentication protocol constants.
+2026-10-07T07:47:48.81Z,Orbyss.Foundation.Collections.Core,0.3.0,Orbyss,Owned ordered collection values with structural equality.
+2026-10-07T07:47:52.447Z,Orbyss.Foundation.Execution,0.3.0,Orbyss,TimeProvider-backed monotonic operation deadlines and shell registration.
+2026-10-07T07:47:53.517Z,Orbyss.Foundation.Execution.Core,0.3.0,Orbyss,Provider-neutral monotonic operation deadline contracts.
+2026-10-07T07:47:58.203Z,Orbyss.Foundation.PostgreSql,0.3.0,Orbyss,"Shell-owned PostgreSQL datasources, nonpooled EF context units and native deadline projection."
+2026-10-07T07:48:04.423Z,Orbyss.Foundation.Web.ProblemDetails.Core,0.3.0,Orbyss,Framework-neutral bounded problem definitions and application mapping contracts.
+2026-10-07T07:54:16.153Z,WrapPro,1.0.0,Winnigames2024,WrapPro
