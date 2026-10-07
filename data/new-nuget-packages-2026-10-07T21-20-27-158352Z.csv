@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-07T20:29:41.493Z,Dloizides.Testing,0.2.0,DLoizides,A [MethodUnderTest] attribute plus a two-line guard that fails the build when a test-name prefix has no business description. No package dependencies.
+2026-10-07T20:29:44.473Z,Dloizides.Testing.Postgres,0.2.0,DLoizides,A PostgreSQL Testcontainers fixture for xUnit v2 whose connect and command timeouts survive Docker Desktop port-forward stalls.
+2026-10-07T20:30:38.16Z,Quartz.Weasel.Firebird,4.4.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration for Firebird - the ADO.NET job store's tables as a Weasel model, applied by db-apply, resources setup or at startup; Quartz Scheduling Framework for .NET"
+2026-10-07T20:30:39.173Z,Quartz.Weasel.MySQL,4.4.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration for MySQL - the ADO.NET job store's tables as a Weasel model, applied under a named user lock by db-apply, resources setup or at startup; Quartz Scheduling Framework for .NET"
+2026-10-07T20:30:40.18Z,Quartz.Weasel.Oracle,4.4.0,"Marko Lahma, Quartz.NET","Quartz.NET Weasel integration for Oracle - the ADO.NET job store's tables as a Weasel model, in the session's current schema, applied by db-apply, resources setup or at startup; Quartz Scheduling Framework for .NET"
+2026-10-07T20:45:10.98Z,OverShell,0.1.0,Moaid Hathot,"Overseer Shell - a Windows terminal built on the Windows Terminal engine that watches the AI coding agents in its tabs: who is working, who needs you, who finished."
+2026-10-07T20:45:23.64Z,CuriousDev.LabKit,1.0.0,Vlad Timchenko,Lab endpoints for Curious Dev courses: lets the course platform verify the service you deployed to Cloud Run. Plumbing only: it never implements what a lab teaches.
+2026-10-07T20:54:14.73Z,Ivanngoc.EventDrivenDesign,0.1.0,Tran Ngoc Anh,Package Description
+2026-10-07T20:56:02.3Z,Dloizides.Testing.Report,0.2.0,DLoizides,"dotnet tool test-report: turns the .trx files of a test run into a static HTML report (problems first, feature and method grouping, [MethodUnderTest] descriptions, search, light/dark) plus a runs index and latest.html."
+2026-10-07T20:59:18.37Z,Bitbound.ComputerUseDotnet,0.1.7,Jared Goodwin,"A Model Context Protocol (MCP) server that lets an agent see the screen and simulate input on Windows, macOS, and Linux (X11 and Wayland)."
+2026-10-07T20:59:37.997Z,Avorix.Sefhs.Client,3.1.0,Avorix,file handling microservice integration sdk for Avorix internal use only.
+2026-10-07T21:13:59.9Z,RonCS,0.1.0,CriusNyx,Package Description

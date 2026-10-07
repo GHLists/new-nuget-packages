@@ -12,24 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 20:22 UTC
+## Latest list — 2026-10-07 21:20 UTC
 
-New packages created between 2026-10-07 19:20 UTC and 2026-10-07 20:22 UTC.
+New packages created between 2026-10-07 20:22 UTC and 2026-10-07 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T20-22-13-900913Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T21-20-27-158352Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 19:21:06 | [Coree.Analyzers.CodeClarity](https://www.nuget.org/packages/Coree.Analyzers.CodeClarity) | 0.1.4 | Carsten Riedel | Roslyn analyzer for C# readability. CCCRC001 flags a return expression that exc… |
-| 2026-10-07 19:34:53 | [ShotDetector.Native.linux-arm64](https://www.nuget.org/packages/ShotDetector.Native.linux-arm64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for linux-arm64, built for decoding only (no en… |
-| 2026-10-07 19:34:54 | [ShotDetector.Native.linux-musl-x64](https://www.nuget.org/packages/ShotDetector.Native.linux-musl-x64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for linux-musl-x64, built for decoding only (no… |
-| 2026-10-07 19:34:55 | [ShotDetector.Native.linux-x64](https://www.nuget.org/packages/ShotDetector.Native.linux-x64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for linux-x64, built for decoding only (no enco… |
-| 2026-10-07 19:34:56 | [ShotDetector.Native.osx-arm64](https://www.nuget.org/packages/ShotDetector.Native.osx-arm64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for osx-arm64, built for decoding only (no enco… |
-| 2026-10-07 19:34:57 | [ShotDetector.Native.win-x64](https://www.nuget.org/packages/ShotDetector.Native.win-x64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for win-x64, built for decoding only (no encode… |
-| 2026-10-07 19:50:20 | [OpenFeature.Providers.Flagd.Core](https://www.nuget.org/packages/OpenFeature.Providers.Flagd.Core) | 1.0.0 | Todd Baert | In-process flagd flag evaluation engine for .NET, for use by flagd providers |
-| 2026-10-07 19:51:31 | [CodeBrix.Platform.PlayTest.OpenGL.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Platform.PlayTest.OpenGL.ApacheLicenseForever) | 1.0.280.1176 | Jeremy Ellis and contributors | Real OpenGL contexts for PlayTest runs of applications that use the Graphics3DG… |
-| 2026-10-07 19:51:47 | [CQRSharp.RabbitMQ](https://www.nuget.org/packages/CQRSharp.RabbitMQ) | 5.1.0 | BisocM | A Native-AOT-compatible RabbitMQ transport for CQRSharp. Durable notifications… |
-| 2026-10-07 19:51:59 | [MobiOne.Security.Contracts](https://www.nuget.org/packages/MobiOne.Security.Contracts) | 5.0.1 | MobiOne.Security.Contracts | MobiOne application role and authorization contracts. |
+| 2026-10-07 20:29:41 | [Dloizides.Testing](https://www.nuget.org/packages/Dloizides.Testing) | 0.2.0 | DLoizides | A [MethodUnderTest] attribute plus a two-line guard that fails the build when a… |
+| 2026-10-07 20:29:44 | [Dloizides.Testing.Postgres](https://www.nuget.org/packages/Dloizides.Testing.Postgres) | 0.2.0 | DLoizides | A PostgreSQL Testcontainers fixture for xUnit v2 whose connect and command time… |
+| 2026-10-07 20:30:38 | [Quartz.Weasel.Firebird](https://www.nuget.org/packages/Quartz.Weasel.Firebird) | 4.4.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration for Firebird - the ADO.NET job store's tables as… |
+| 2026-10-07 20:30:39 | [Quartz.Weasel.MySQL](https://www.nuget.org/packages/Quartz.Weasel.MySQL) | 4.4.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration for MySQL - the ADO.NET job store's tables as a W… |
+| 2026-10-07 20:30:40 | [Quartz.Weasel.Oracle](https://www.nuget.org/packages/Quartz.Weasel.Oracle) | 4.4.0 | Marko Lahma, Quartz.NET | Quartz.NET Weasel integration for Oracle - the ADO.NET job store's tables as a… |
+| 2026-10-07 20:45:10 | [OverShell](https://www.nuget.org/packages/OverShell) | 0.1.0 | Moaid Hathot | Overseer Shell - a Windows terminal built on the Windows Terminal engine that w… |
+| 2026-10-07 20:45:23 | [CuriousDev.LabKit](https://www.nuget.org/packages/CuriousDev.LabKit) | 1.0.0 | Vlad Timchenko | Lab endpoints for Curious Dev courses: lets the course platform verify the serv… |
+| 2026-10-07 20:54:14 | [Ivanngoc.EventDrivenDesign](https://www.nuget.org/packages/Ivanngoc.EventDrivenDesign) | 0.1.0 | Tran Ngoc Anh | Package Description |
+| 2026-10-07 20:56:02 | [Dloizides.Testing.Report](https://www.nuget.org/packages/Dloizides.Testing.Report) | 0.2.0 | DLoizides | dotnet tool test-report: turns the .trx files of a test run into a static HTML… |
+| 2026-10-07 20:59:18 | [Bitbound.ComputerUseDotnet](https://www.nuget.org/packages/Bitbound.ComputerUseDotnet) | 0.1.7 | Jared Goodwin | A Model Context Protocol (MCP) server that lets an agent see the screen and sim… |
+| 2026-10-07 20:59:37 | [Avorix.Sefhs.Client](https://www.nuget.org/packages/Avorix.Sefhs.Client) | 3.1.0 | Avorix | file handling microservice integration sdk for Avorix internal use only. |
+| 2026-10-07 21:13:59 | [RonCS](https://www.nuget.org/packages/RonCS) | 0.1.0 | CriusNyx | Package Description |
 
 ## Data source
 
