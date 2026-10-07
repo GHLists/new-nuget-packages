@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-07T08:24:45.743Z,DotGuard.Cli,0.1.4,DotGuard,.NET Production Readiness and Security Auditor
+2026-10-07T08:25:30.557Z,Corner49.Infra.AzureCosmosDB,10.0.146,Frank Vanderlinden,"Opinionated repository layer for Azure Cosmos DB: automatic container creation, paging, bulk operations, change feed and RU monitoring. Part of the Corner49.Infra packages"
+2026-10-07T08:25:31.367Z,Corner49.Infra.AzureServiceBus,10.0.146,Frank Vanderlinden,"Opinionated messaging on Azure Service Bus: auto-provisioned queues and topics, typed messages and hosted handlers. Part of the Corner49.Infra packages"
+2026-10-07T08:25:32.02Z,Corner49.Infra.AzureStorage,10.0.146,Frank Vanderlinden,Opinionated wrappers for Azure Blob Storage and Azure File Shares. Part of the Corner49.Infra packages
+2026-10-07T08:25:32.743Z,Corner49.Infra.CLI,10.0.146,Frank Vanderlinden,"Opinionated bootstrap for .NET console apps, workers and containerised jobs: configuration, logging, named jobs and System.CommandLine. Part of the Corner49.Infra packages"
+2026-10-07T08:25:33.423Z,Corner49.Infra.Core,10.0.146,Frank Vanderlinden,"Shared abstractions and utilities for the Corner49.Infra packages, a set of packages that provide opinionated tooling for infrastructure in .NET applications"
+2026-10-07T08:33:09.883Z,Expresso.Rendering.Linq,0.10.0,itorgashov,"Render Expresso expression trees to LINQ predicates and sort keys for IQueryable providers and in-memory LINQ-to-objects, with SQL-equivalent null logic."
+2026-10-07T08:33:39.447Z,Expresso.Rendering.EntityFramework,0.10.0,itorgashov,"Render Expresso filters and sorts to Entity Framework 6 predicates and sort keys, using canonical DbFunctions so results match the Expresso SQL renderers."
+2026-10-07T08:33:53.317Z,Expresso.Rendering.EntityFrameworkCore,0.10.0,itorgashov,"Render Expresso filters and sorts to EF Core predicates and sort keys, with provider overrides so results match the Expresso SQL renderers."
+2026-10-07T08:41:31.333Z,Testinium.DevicePark,1.0.0,Device Park Team,"Official .NET SDK for the Device Park public APIs. Discover devices, manage pools, reserve devices, run test sessions and store mobile application artifacts. Targets .NET Framework 4.7.2+, .NET Core 3.1+ and .NET 5 through 10 with zero package dependencies."
+2026-10-07T08:46:13.92Z,Nexus.Casp.Sdk,2026.10.7,Quantoz Technology,.NET client and dependency injection support for the Quantoz Nexus CASP API.
+2026-10-07T09:02:32.797Z,Moberg.Beacon.AI,4.5.0.2,Moberg,"Beacon AI extensions library providing LLM-powered documentation generation, alert creation, and AI actors. Optional add-on for Beacon core."

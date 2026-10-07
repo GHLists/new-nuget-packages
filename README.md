@@ -12,23 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 08:20 UTC
+## Latest list — 2026-10-07 09:19 UTC
 
-New packages created between 2026-10-07 07:20 UTC and 2026-10-07 08:20 UTC.
+New packages created between 2026-10-07 08:20 UTC and 2026-10-07 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T08-20-52-219279Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T09-19-50-539293Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 07:23:41 | [Inheto](https://www.nuget.org/packages/Inheto) | 1.0.0 | alt160 | A .NET-native, low-allocation binary serializer with shared and circular refere… |
-| 2026-10-07 07:26:24 | [JorgeCostaMacia.Http.ForwardedHeaders](https://www.nuget.org/packages/JorgeCostaMacia.Http.ForwardedHeaders) | 4.1.0 | JorgeCostaMacia | Default forwarded-headers policy for a service behind a reverse proxy on the sa… |
-| 2026-10-07 07:47:44 | [Orbyss.Foundation.Authentication.Core](https://www.nuget.org/packages/Orbyss.Foundation.Authentication.Core) | 0.3.0 | Orbyss | Provider-neutral validated account identity and authentication protocol constan… |
-| 2026-10-07 07:47:48 | [Orbyss.Foundation.Collections.Core](https://www.nuget.org/packages/Orbyss.Foundation.Collections.Core) | 0.3.0 | Orbyss | Owned ordered collection values with structural equality. |
-| 2026-10-07 07:47:52 | [Orbyss.Foundation.Execution](https://www.nuget.org/packages/Orbyss.Foundation.Execution) | 0.3.0 | Orbyss | TimeProvider-backed monotonic operation deadlines and shell registration. |
-| 2026-10-07 07:47:53 | [Orbyss.Foundation.Execution.Core](https://www.nuget.org/packages/Orbyss.Foundation.Execution.Core) | 0.3.0 | Orbyss | Provider-neutral monotonic operation deadline contracts. |
-| 2026-10-07 07:47:58 | [Orbyss.Foundation.PostgreSql](https://www.nuget.org/packages/Orbyss.Foundation.PostgreSql) | 0.3.0 | Orbyss | Shell-owned PostgreSQL datasources, nonpooled EF context units and native deadl… |
-| 2026-10-07 07:48:04 | [Orbyss.Foundation.Web.ProblemDetails.Core](https://www.nuget.org/packages/Orbyss.Foundation.Web.ProblemDetails.Core) | 0.3.0 | Orbyss | Framework-neutral bounded problem definitions and application mapping contracts. |
-| 2026-10-07 07:54:16 | [WrapPro](https://www.nuget.org/packages/WrapPro) | 1.0.0 | Winnigames2024 | WrapPro |
+| 2026-10-07 08:24:45 | [DotGuard.Cli](https://www.nuget.org/packages/DotGuard.Cli) | 0.1.4 | DotGuard | .NET Production Readiness and Security Auditor |
+| 2026-10-07 08:25:30 | [Corner49.Infra.AzureCosmosDB](https://www.nuget.org/packages/Corner49.Infra.AzureCosmosDB) | 10.0.146 | Frank Vanderlinden | Opinionated repository layer for Azure Cosmos DB: automatic container creation,… |
+| 2026-10-07 08:25:31 | [Corner49.Infra.AzureServiceBus](https://www.nuget.org/packages/Corner49.Infra.AzureServiceBus) | 10.0.146 | Frank Vanderlinden | Opinionated messaging on Azure Service Bus: auto-provisioned queues and topics,… |
+| 2026-10-07 08:25:32 | [Corner49.Infra.AzureStorage](https://www.nuget.org/packages/Corner49.Infra.AzureStorage) | 10.0.146 | Frank Vanderlinden | Opinionated wrappers for Azure Blob Storage and Azure File Shares. Part of the… |
+| 2026-10-07 08:25:32 | [Corner49.Infra.CLI](https://www.nuget.org/packages/Corner49.Infra.CLI) | 10.0.146 | Frank Vanderlinden | Opinionated bootstrap for .NET console apps, workers and containerised jobs: co… |
+| 2026-10-07 08:25:33 | [Corner49.Infra.Core](https://www.nuget.org/packages/Corner49.Infra.Core) | 10.0.146 | Frank Vanderlinden | Shared abstractions and utilities for the Corner49.Infra packages, a set of pac… |
+| 2026-10-07 08:33:09 | [Expresso.Rendering.Linq](https://www.nuget.org/packages/Expresso.Rendering.Linq) | 0.10.0 | itorgashov | Render Expresso expression trees to LINQ predicates and sort keys for IQueryabl… |
+| 2026-10-07 08:33:39 | [Expresso.Rendering.EntityFramework](https://www.nuget.org/packages/Expresso.Rendering.EntityFramework) | 0.10.0 | itorgashov | Render Expresso filters and sorts to Entity Framework 6 predicates and sort key… |
+| 2026-10-07 08:33:53 | [Expresso.Rendering.EntityFrameworkCore](https://www.nuget.org/packages/Expresso.Rendering.EntityFrameworkCore) | 0.10.0 | itorgashov | Render Expresso filters and sorts to EF Core predicates and sort keys, with pro… |
+| 2026-10-07 08:41:31 | [Testinium.DevicePark](https://www.nuget.org/packages/Testinium.DevicePark) | 1.0.0 | Device Park Team | Official .NET SDK for the Device Park public APIs. Discover devices, manage poo… |
+| 2026-10-07 08:46:13 | [Nexus.Casp.Sdk](https://www.nuget.org/packages/Nexus.Casp.Sdk) | 2026.10.7 | Quantoz Technology | .NET client and dependency injection support for the Quantoz Nexus CASP API. |
+| 2026-10-07 09:02:32 | [Moberg.Beacon.AI](https://www.nuget.org/packages/Moberg.Beacon.AI) | 4.5.0.2 | Moberg | Beacon AI extensions library providing LLM-powered documentation generation, al… |
 
 ## Data source
 
