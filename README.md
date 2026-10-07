@@ -12,23 +12,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 03:22 UTC
+## Latest list — 2026-10-07 04:21 UTC
 
-New packages created between 2026-10-07 02:19 UTC and 2026-10-07 03:22 UTC.
+New packages created between 2026-10-07 03:22 UTC and 2026-10-07 04:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T03-22-13-562667Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T04-21-43-363776Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 02:44:23 | [AvaloniaUIKit](https://www.nuget.org/packages/AvaloniaUIKit) | 0.1.0 | supermomonga | Avalonia themes that reproduce the look and motion of GPUI Kit components. |
-| 2026-10-07 02:44:24 | [AvaloniaUIKit.ColorPicker](https://www.nuget.org/packages/AvaloniaUIKit.ColorPicker) | 0.1.0 | supermomonga | GPUI Kit's ColorPicker and ColorSelect looks for Avalonia.Controls.ColorPicker,… |
-| 2026-10-07 02:44:24 | [AvaloniaUIKit.Dock](https://www.nuget.org/packages/AvaloniaUIKit.Dock) | 0.1.0 | supermomonga | GPUI Kit's Dock look for Dock.Avalonia, on top of AvaloniaUIKit's UIKitTheme. |
-| 2026-10-07 02:44:25 | [AvaloniaUIKit.DataGrid](https://www.nuget.org/packages/AvaloniaUIKit.DataGrid) | 0.1.0 | supermomonga | GPUI Kit's DataTable look for Avalonia.Controls.DataGrid, on top of AvaloniaUIK… |
-| 2026-10-07 02:45:31 | [lucnd.icloud.maui.Realm.Refurbished](https://www.nuget.org/packages/lucnd.icloud.maui.Realm.Refurbished) | 6.10.70 | Lucy | Tiện ích hỗ trợ truy cập Realm Database |
-| 2026-10-07 02:47:43 | [Eternet.Inbox.Contracts](https://www.nuget.org/packages/Eternet.Inbox.Contracts) | 1.0.0 | Eternet.Inbox.Contracts | Package Description |
-| 2026-10-07 02:48:09 | [Eternet.Sec.TsAs.Public.Contracts](https://www.nuget.org/packages/Eternet.Sec.TsAs.Public.Contracts) | 1.0.0 | Sec.TsAs.Public.Contracts | Package Description |
-| 2026-10-07 02:51:48 | [Vard](https://www.nuget.org/packages/Vard) | 1.0.0 | Junior Schröder | Toolkit de resiliência sem atrito, type-safe, com zero dependências externas pa… |
-| 2026-10-07 03:08:53 | [CoreSystem.Correlation](https://www.nuget.org/packages/CoreSystem.Correlation) | 1.0.0 | Federin Pastor Gutierrez Ortiz | Correlation-id propagation middleware for ASP.NET Core, usable standalone or al… |
+| 2026-10-07 03:33:58 | [Mibo.Markup](https://www.nuget.org/packages/Mibo.Markup) | 6.0.0 | Mibo.Markup | Package Description |
+| 2026-10-07 03:38:19 | [SmartPipe.Extensions.Channels](https://www.nuget.org/packages/SmartPipe.Extensions.Channels) | 2.2.0 | SmartPipe | Channel merge primitives for SmartPipe.Core. |
+| 2026-10-07 03:38:21 | [SmartPipe.Extensions.Transforms](https://www.nuget.org/packages/SmartPipe.Extensions.Transforms) | 2.2.0 | SmartPipe | Composable transforms for SmartPipe.Core. |
+| 2026-10-07 03:38:22 | [SmartPipe.Extensions.Logging](https://www.nuget.org/packages/SmartPipe.Extensions.Logging) | 2.2.0 | SmartPipe | Logging sinks for SmartPipe.Core. |
+| 2026-10-07 03:38:24 | [SmartPipe.Extensions.Csv](https://www.nuget.org/packages/SmartPipe.Extensions.Csv) | 2.2.0 | SmartPipe | Strict, bounded CSV sources and sinks for SmartPipe.Core. |
+| 2026-10-07 03:38:25 | [SmartPipe.Extensions.Dapper](https://www.nuget.org/packages/SmartPipe.Extensions.Dapper) | 2.2.0 | SmartPipe | Explicit-SQL Dapper sources and sinks for SmartPipe.Core. |
+| 2026-10-07 03:38:26 | [SmartPipe.Extensions.EntityFrameworkCore](https://www.nuget.org/packages/SmartPipe.Extensions.EntityFrameworkCore) | 2.2.0 | SmartPipe | Provider-neutral Entity Framework Core query sources for SmartPipe.Core. |
+| 2026-10-07 03:38:28 | [SmartPipe.Extensions.Mapster](https://www.nuget.org/packages/SmartPipe.Extensions.Mapster) | 2.2.0 | SmartPipe | Mapster object-mapping transforms for SmartPipe.Core with composition-time conf… |
+| 2026-10-07 03:38:29 | [SmartPipe.Extensions.Polly](https://www.nuget.org/packages/SmartPipe.Extensions.Polly) | 2.2.0 | SmartPipe | Polly resilience decorator for SmartPipe.Core transforms with explicit inner-tr… |
+| 2026-10-07 03:38:30 | [SmartPipe.Extensions.Http](https://www.nuget.org/packages/SmartPipe.Extensions.Http) | 2.2.0 | SmartPipe | Streaming HTTP sources and sinks for SmartPipe.Core. |
+| 2026-10-07 03:38:32 | [SmartPipe.Testing](https://www.nuget.org/packages/SmartPipe.Testing) | 2.2.0 | SmartPipe | Framework-neutral helpers for testing SmartPipe.Core sources and activations. |
+| 2026-10-07 03:38:33 | [SmartPipe.Extensions.Http.Json](https://www.nuget.org/packages/SmartPipe.Extensions.Http.Json) | 2.2.0 | SmartPipe | Source-generated JSON codecs for streaming SmartPipe.Core HTTP pipelines. |
+| 2026-10-07 03:38:34 | [SmartPipe.Extensions.DependencyInjection](https://www.nuget.org/packages/SmartPipe.Extensions.DependencyInjection) | 2.2.0 | SmartPipe | SmartPipe framework integration package for SmartPipe.Extensions.DependencyInje… |
+| 2026-10-07 03:38:35 | [SmartPipe.Extensions.OpenTelemetry](https://www.nuget.org/packages/SmartPipe.Extensions.OpenTelemetry) | 2.2.0 | SmartPipe | Exporter-neutral OpenTelemetry registration for SmartPipe pipeline metrics and… |
+| 2026-10-07 03:38:37 | [SmartPipe.Extensions.Hosting](https://www.nuget.org/packages/SmartPipe.Extensions.Hosting) | 2.2.0 | SmartPipe | SmartPipe host integration package for SmartPipe.Extensions.Hosting. |
+| 2026-10-07 03:38:38 | [SmartPipe.Extensions.HealthChecks](https://www.nuget.org/packages/SmartPipe.Extensions.HealthChecks) | 2.2.0 | SmartPipe | Key-based liveness and readiness health checks for canonical SmartPipe pipeline… |
+| 2026-10-07 03:38:39 | [SmartPipe.Extensions.DataAnnotations](https://www.nuget.org/packages/SmartPipe.Extensions.DataAnnotations) | 2.2.0 | SmartPipe | DataAnnotations validation transforms for SmartPipe.Core. |
+| 2026-10-07 03:38:42 | [SmartPipe.Extensions.PostgreSql](https://www.nuget.org/packages/SmartPipe.Extensions.PostgreSql) | 2.2.0 | SmartPipe | PostgreSQL-native SmartPipe components: binary COPY streaming source, binary CO… |
+| 2026-10-07 03:55:26 | [CrestronHomeDevTools.Automation](https://www.nuget.org/packages/CrestronHomeDevTools.Automation) | 1.25.0 | Neil Colvin | Durable Crestron Home submission workflow and shared test-session implementatio… |
+| 2026-10-07 03:56:02 | [Carbon.WebAuthn](https://www.nuget.org/packages/Carbon.WebAuthn) | 0.1.0 | Carbon.WebAuthn | Package Description |
+| 2026-10-07 03:57:43 | [CrestronHomeDevTools.SubmissionTests](https://www.nuget.org/packages/CrestronHomeDevTools.SubmissionTests) | 1.25.0 | Neil Colvin | Shared NUnit 5 submission fixture for running the same Crestron driver tests in… |
 
 ## Data source
 

@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-10-07T03:33:58.583Z,Mibo.Markup,6.0.0,Mibo.Markup,Package Description
+2026-10-07T03:38:19.593Z,SmartPipe.Extensions.Channels,2.2.0,SmartPipe,Channel merge primitives for SmartPipe.Core.
+2026-10-07T03:38:21.02Z,SmartPipe.Extensions.Transforms,2.2.0,SmartPipe,Composable transforms for SmartPipe.Core.
+2026-10-07T03:38:22.25Z,SmartPipe.Extensions.Logging,2.2.0,SmartPipe,Logging sinks for SmartPipe.Core.
+2026-10-07T03:38:24.437Z,SmartPipe.Extensions.Csv,2.2.0,SmartPipe,"Strict, bounded CSV sources and sinks for SmartPipe.Core."
+2026-10-07T03:38:25.703Z,SmartPipe.Extensions.Dapper,2.2.0,SmartPipe,Explicit-SQL Dapper sources and sinks for SmartPipe.Core.
+2026-10-07T03:38:26.993Z,SmartPipe.Extensions.EntityFrameworkCore,2.2.0,SmartPipe,Provider-neutral Entity Framework Core query sources for SmartPipe.Core.
+2026-10-07T03:38:28.277Z,SmartPipe.Extensions.Mapster,2.2.0,SmartPipe,Mapster object-mapping transforms for SmartPipe.Core with composition-time configuration isolation.
+2026-10-07T03:38:29.603Z,SmartPipe.Extensions.Polly,2.2.0,SmartPipe,Polly resilience decorator for SmartPipe.Core transforms with explicit inner-transform ownership.
+2026-10-07T03:38:30.79Z,SmartPipe.Extensions.Http,2.2.0,SmartPipe,Streaming HTTP sources and sinks for SmartPipe.Core.
+2026-10-07T03:38:32.067Z,SmartPipe.Testing,2.2.0,SmartPipe,Framework-neutral helpers for testing SmartPipe.Core sources and activations.
+2026-10-07T03:38:33.393Z,SmartPipe.Extensions.Http.Json,2.2.0,SmartPipe,Source-generated JSON codecs for streaming SmartPipe.Core HTTP pipelines.
+2026-10-07T03:38:34.693Z,SmartPipe.Extensions.DependencyInjection,2.2.0,SmartPipe,SmartPipe framework integration package for SmartPipe.Extensions.DependencyInjection.
+2026-10-07T03:38:35.923Z,SmartPipe.Extensions.OpenTelemetry,2.2.0,SmartPipe,Exporter-neutral OpenTelemetry registration for SmartPipe pipeline metrics and tracing.
+2026-10-07T03:38:37.19Z,SmartPipe.Extensions.Hosting,2.2.0,SmartPipe,SmartPipe host integration package for SmartPipe.Extensions.Hosting.
+2026-10-07T03:38:38.607Z,SmartPipe.Extensions.HealthChecks,2.2.0,SmartPipe,Key-based liveness and readiness health checks for canonical SmartPipe pipelines.
+2026-10-07T03:38:39.927Z,SmartPipe.Extensions.DataAnnotations,2.2.0,SmartPipe,DataAnnotations validation transforms for SmartPipe.Core.
+2026-10-07T03:38:42.173Z,SmartPipe.Extensions.PostgreSql,2.2.0,SmartPipe,"PostgreSQL-native SmartPipe components: binary COPY streaming source, binary COPY batch sink and LISTEN/NOTIFY notification source on an application-owned NpgsqlDataSource."
+2026-10-07T03:55:26.25Z,CrestronHomeDevTools.Automation,1.25.0,Neil Colvin,Durable Crestron Home submission workflow and shared test-session implementation.
+2026-10-07T03:56:02.73Z,Carbon.WebAuthn,0.1.0,Carbon.WebAuthn,Package Description
+2026-10-07T03:57:43.157Z,CrestronHomeDevTools.SubmissionTests,1.25.0,Neil Colvin,Shared NUnit 5 submission fixture for running the same Crestron driver tests in IDEs and CI.
