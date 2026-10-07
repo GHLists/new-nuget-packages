@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-07T10:27:56.783Z,Juit.Jurisprudence,1.0.0,loud-technology and contributors,"Modern, strongly typed .NET SDK for Juit Jurisprudence search and artifact downloads, generated from OpenAPI with AutoSDK."
+2026-10-07T10:28:50.137Z,Hexalith.Parties.AdminPortal,1.2.1,Hexalith Contributors,FrontComposer-hosted Blazor administration portal for Hexalith.Parties.
+2026-10-07T10:28:50.503Z,Hexalith.Parties.ConsumerPortal,1.2.1,Hexalith Contributors,FrontComposer-hosted Blazor consumer portal for Hexalith.Parties.
+2026-10-07T10:36:21.29Z,EpcQr.Net,1.0.0,Israel Iyonsi,"Correct, zero-dependency builder and parser for the EPC069-12 ""Scan2Pay"" QR payload (GiroCode / EPC QR) that encodes a SEPA Credit Transfer across the Eurozone. Strict line order, version 001/002 rules, EUR amount formatting, deterministic, offline, Native AOT clean. The European SEPA twin of Merch…"
+2026-10-07T10:36:25.273Z,SwiftMt.Net,1.0.0,Israel Iyonsi,"Correct, zero-dependency parser for SWIFT FIN MT messages (MT103, MT101, MT202). A general block and field tokenizer plus typed views, with comma-decimal amount parsing done right. Pure string parsing, deterministic, offline, Native AOT clean."
+2026-10-07T10:38:36.453Z,FrogLogic,0.1.0,FrogLogic contributors,"Lightweight, generic, single-pass data cleaning and diagnostics for IEnumerable<T>."
+2026-10-07T10:45:00.487Z,Saci,0.17.0,saci,"saci - Software Agent for Continuous Improvement: autonomous triager, developer, reviewer and tester agents for GitHub repositories, powered by Claude Code."
+2026-10-07T10:45:35.01Z,LilyDesignSystem.Blazor.LinkPicker,0.1.0,Joel Parker Henderson,"Lily Design System Blazor link picker: an icon button (a home icon) opening a disclosure of app-defined page links. Headless, SSR-safe, no CSS."
