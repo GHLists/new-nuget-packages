@@ -12,30 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 06:21 UTC
+## Latest list — 2026-10-07 07:20 UTC
 
-New packages created between 2026-10-07 05:19 UTC and 2026-10-07 06:21 UTC.
+New packages created between 2026-10-07 06:21 UTC and 2026-10-07 07:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T06-21-54-944316Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T07-20-06-738943Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 05:25:09 | [ComponentSpace.Saml2.Net.Extension.Database](https://www.nuget.org/packages/ComponentSpace.Saml2.Net.Extension.Database) | 1.0.0 | ComponentSpace | Adds support for storing SAML session state in a database. Production use requi… |
-| 2026-10-07 05:28:51 | [EGO.Nimozyn](https://www.nuget.org/packages/EGO.Nimozyn) | 0.1.6-alpha | EGO.Nimozyn | Package Description |
-| 2026-10-07 05:29:57 | [SheetizeMCPServer](https://www.nuget.org/packages/SheetizeMCPServer) | 26.9.0-beta | Smallize | An MCP server using the MCP C# SDK. |
-| 2026-10-07 06:03:27 | [StanzaSharp.Tool](https://www.nuget.org/packages/StanzaSharp.Tool) | 0.4.0 | Jakob Boman | The stanzasharp command: downloads Stanza's English models for StanzaSharp, che… |
-| 2026-10-07 06:07:32 | [SentenceTransformers.EmbeddingGemma2](https://www.nuget.org/packages/SentenceTransformers.EmbeddingGemma2) | 26.10.6445 | Curiosity GmbH | A 100% managed, dependency-free (no LiteRT / TFLite runtime, no native tokenize… |
-| 2026-10-07 06:10:18 | [Deskling.Core](https://www.nuget.org/packages/Deskling.Core) | 0.1.1 | Vlad Mihalachi | Pure building blocks for little desktop apps: an interval scheduler with active… |
-| 2026-10-07 06:10:19 | [Deskling.Windows](https://www.nuget.org/packages/Deskling.Windows) | 0.1.1 | Vlad Mihalachi | Windows services for little tray apps: a raw Shell_NotifyIcon tray icon host wi… |
-| 2026-10-07 06:12:35 | [Mori.SkyScope.Blazor](https://www.nuget.org/packages/Mori.SkyScope.Blazor) | 0.1.0 | Cristian Mori | Blazor components for Mori.SkyScope (TrendChart, Gauge, Chart, SceneView) with… |
-| 2026-10-07 06:12:35 | [Mori.SkyScope.Core](https://www.nuget.org/packages/Mori.SkyScope.Core) | 0.1.0 | Cristian Mori | Headless engine for Mori.SkyScope: ring buffers, M4 decimation, SkyScopeFrame c… |
-| 2026-10-07 06:12:36 | [Mori.SkyScope.Render.OpenTK](https://www.nuget.org/packages/Mori.SkyScope.Render.OpenTK) | 0.1.0 | Cristian Mori | OpenGL (OpenTK) 3D painter for Mori.SkyScope: GlPainter3D implements IPainter3D… |
-| 2026-10-07 06:12:36 | [Mori.SkyScope.Render.Skia](https://www.nuget.org/packages/Mori.SkyScope.Render.Skia) | 0.1.0 | Cristian Mori | SkiaSharp painter for Mori.SkyScope (desktop rendering, offscreen snapshots). |
-| 2026-10-07 06:12:37 | [Mori.SkyScope.Sources.Mqtt](https://www.nuget.org/packages/Mori.SkyScope.Sources.Mqtt) | 0.1.0 | Cristian Mori | MQTT source plugin for Mori.SkyScope: topic filters with JSON-path extraction i… |
-| 2026-10-07 06:12:37 | [Mori.SkyScope.Sources.Ros2](https://www.nuget.org/packages/Mori.SkyScope.Sources.Ros2) | 0.1.0 | Cristian Mori | ROS 2 source plugin for Mori.SkyScope: subscribes to topics through Mori.Ros2Sh… |
-| 2026-10-07 06:12:38 | [Mori.SkyScope.Streaming](https://www.nuget.org/packages/Mori.SkyScope.Streaming) | 0.1.0 | Cristian Mori | ASP.NET Core WebSocket broadcaster for Mori.SkyScope frames and scene layers. |
-| 2026-10-07 06:12:38 | [Mori.SkyScope.WinForms](https://www.nuget.org/packages/Mori.SkyScope.WinForms) | 0.1.0 | Cristian Mori | Windows Forms controls for Mori.SkyScope: TrendChartControl with designer prope… |
-| 2026-10-07 06:12:39 | [Mori.SkyScope.Wpf](https://www.nuget.org/packages/Mori.SkyScope.Wpf) | 0.1.0 | Cristian Mori | WPF controls for Mori.SkyScope: TrendChartControl, GaugeControl, ChartControl,… |
+| 2026-10-07 06:23:22 | [Polochon.Messaging.AzureQueue](https://www.nuget.org/packages/Polochon.Messaging.AzureQueue) | 0.5.0 | Shinboku.io | Azure Queue Storage messaging integration for the Polochon kernel. |
+| 2026-10-07 06:23:23 | [Polochon.Validation.FluentValidation](https://www.nuget.org/packages/Polochon.Validation.FluentValidation) | 0.5.0 | Shinboku.io | FluentValidation integration for the Polochon kernel's message validation. |
+| 2026-10-07 06:23:24 | [Polochon.FeatureManagement.Azure](https://www.nuget.org/packages/Polochon.FeatureManagement.Azure) | 0.5.0 | Shinboku.io | Azure App Configuration feature flags for the Polochon kernel: host-level sourc… |
+| 2026-10-07 06:23:25 | [Polochon.Telemetry.AzureMonitor](https://www.nuget.org/packages/Polochon.Telemetry.AzureMonitor) | 0.5.0 | Shinboku.io | Azure Monitor (Application Insights) export of the Polochon kernel's OpenTeleme… |
+| 2026-10-07 06:23:26 | [Polochon.Telemetry.OpenTelemetry](https://www.nuget.org/packages/Polochon.Telemetry.OpenTelemetry) | 0.5.0 | Shinboku.io | OpenTelemetry export (OTLP, console) of the Polochon kernel's traces, metrics a… |
+| 2026-10-07 06:23:27 | [Polochon.Persistence.SqlServer](https://www.nuget.org/packages/Polochon.Persistence.SqlServer) | 0.5.0 | Shinboku.io | SQL Server persistence integration for the Polochon kernel. |
+| 2026-10-07 06:23:27 | [Polochon.Abstractions](https://www.nuget.org/packages/Polochon.Abstractions) | 0.5.0 | Shinboku.io | Shared interfaces and DTOs for the Polochon kernel. |
+| 2026-10-07 06:23:28 | [Polochon.Serilog](https://www.nuget.org/packages/Polochon.Serilog) | 0.5.0 | Shinboku.io | Serilog logging integration for the Polochon kernel. |
+| 2026-10-07 06:23:29 | [Polochon](https://www.nuget.org/packages/Polochon) | 0.5.0 | Shinboku.io | Core Polochon kernel: shared domain, application, and infrastructure contracts. |
+| 2026-10-07 06:30:15 | [Tai.Wallet.MongoDB](https://www.nuget.org/packages/Tai.Wallet.MongoDB) | 0.1.9 | Tai | ABP wallet balances, ledger and withdrawal module |
+| 2026-10-07 06:50:33 | [Egov.Extensions.WalletValidation](https://www.nuget.org/packages/Egov.Extensions.WalletValidation) | 10.0.4 | egov.md | OpenID4VP mdoc request creation and wallet response validation for .NET, includ… |
+| 2026-10-07 06:56:35 | [Purview.ValueObjects](https://www.nuget.org/packages/Purview.ValueObjects) | 1.0.0 | Kieron Lanning | Source-generated scalar and complex value objects for .NET. Brings F#-style sin… |
+| 2026-10-07 07:09:30 | [ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build199417](https://www.nuget.org/packages/ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build199417) | 1.0.199417 | Microsoft | Disposable package used to validate NuGet publishing through ESRP Release. |
 
 ## Data source
 
