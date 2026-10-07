@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-07T18:22:53.527Z,ElBruno.LocalEmbeddings.EmbeddingGemma,1.6.4,Bruno Capuano,Local text embedding generation using Google's EmbeddingGemma 2 model and ONNX Runtime
+2026-10-07T18:28:44.207Z,Bitenovac.RemoteBuildTool,0.0.1,Radivoje Milutinovic,"Content-hashed build, test and coverage pipeline for the Bitenovac repository."
+2026-10-07T18:33:27.37Z,ContractWatcher.Common,1.0.0,a1unade,Shared contracts and common types used by ContractWatcher SDK and Core services.
+2026-10-07T18:38:38.533Z,VerizonApimaticV4SDK,0.0.1,Muhammad Rafay,Sample SDKs for Verizon by APIMatic
+2026-10-07T18:39:30.123Z,NucleusSms,1.0.1,Nucleus,"Provider-agnostic SMS send abstractions, options, provider registry, and DI extensions for Nucleus backend services. Consumers depend on ISmsSender / ISmsSenderFactory; each provider package (e.g. NucleusSmsTwilio) registers itself with its own extension (AddNucleusSmsTwilio). This package does not…"
+2026-10-07T18:39:34.067Z,NucleusSmsTwilio,1.0.1,Nucleus,Twilio provider package for NucleusSms — sends SMS through Twilio Programmable Messaging with an instance-scoped TwilioRestClient. Implements ISmsSender and registers itself with services.AddNucleusSmsTwilio(configuration). Depends on NucleusSms.
+2026-10-07T18:42:17.533Z,NucleusOtp,1.0.1,Nucleus,"Typed client for the Nucleus platform service nucleus-otp-service (challenges, verify, resend, consume proof) with Entra ID client credentials, automatic Idempotency-Key, minimal retries, and typed RFC 7807 errors."
+2026-10-07T18:51:48.147Z,VzimaticV4SDK,0.0.2,Muhammad Rafay,Sample SDKs for Verizon by APIMatic
+2026-10-07T18:54:18.08Z,LunaticPanel.DebugTool,0.0.18,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T19:02:22.067Z,Genocs.Fonet,3.0.1,Nocco Giovanni Emanuele,Fonet library to build PDFs by transforming XML documents through XSLT.
+2026-10-07T19:02:22.657Z,Genocs.Fonet.XsltTransformer,3.0.1,Nocco Giovanni Emanuele,Fonet XSLT to PDF Transformer library.
+2026-10-07T19:06:17.683Z,MediaInfo.Analysis.Rtsp,26.10.0,yartat,MediaInfo(Lib) is a convenient unified display of the most relevant technical and tag data for video and audio files. MediaInfo .NET wrapper with support network AV streams.
