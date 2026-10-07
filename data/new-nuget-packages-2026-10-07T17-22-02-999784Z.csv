@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-07T16:44:51.387Z,Microsoft.Testing.Extensions.PackagedApp.MSBuild,2.5.1,Microsoft,"Run packaged Windows test applications through a full-trust Microsoft.Testing.Platform controller. This package supplies the controller executable, its runtime dependencies, and shared MSBuild targets for WinUI, modern UWP, and classic UWP. Microsoft Testing is a set of platform, framework and prot…"
+2026-10-07T16:45:03.747Z,MSTest.Windows.UIAutomation,4.5.1,Microsoft,MSTest lifecycle integration for Windows desktop UI Automation tests. MSTest is Microsoft supported Test Framework.
+2026-10-07T16:54:10.877Z,Soenneker.Librarian.AzureBlob,4.0.71,Jake Soenneker,Librarian document storage backed by Azure Blob Storage snapshots.
+2026-10-07T17:03:32.45Z,NymBroker.Idempotency.Sqlite,0.9.1,nymankla@gmail.com,Durable SQLite idempotency store (idempotent receiver) for NymBroker. Single host only.
+2026-10-07T17:03:33.323Z,NymBroker.Idempotency.Postgres,0.9.1,nymankla@gmail.com,Durable PostgreSQL idempotency store (idempotent receiver) for NymBroker.
+2026-10-07T17:03:34.087Z,NymBroker.Endpoint.AzureServiceBus,0.9.1,nymankla@gmail.com,"Azure Service Bus endpoint add-on for NymBroker, with native dead-lettering."
+2026-10-07T17:03:34.83Z,NymBroker.Endpoint.SqlServer,0.9.1,nymankla@gmail.com,SQL Server endpoint add-on for NymBroker.
+2026-10-07T17:03:35.63Z,NymBroker.Endpoint.Postgres,0.9.1,nymankla@gmail.com,PostgreSQL endpoint add-on for NymBroker.
+2026-10-07T17:03:36.38Z,NymBroker.Idempotency.SqlServer,0.9.1,nymankla@gmail.com,Durable SQL Server idempotency store (idempotent receiver) for NymBroker.
+2026-10-07T17:03:37.1Z,NymBroker,0.9.1,nymankla@gmail.com,A .NET 10 enterprise message processing framework.
+2026-10-07T17:03:37.873Z,NymBroker.Endpoint.Sqlite,0.9.1,nymankla@gmail.com,SQLite endpoint add-on for NymBroker.
+2026-10-07T17:03:38.62Z,NymBroker.Endpoint.RabbitMq,0.9.1,nymankla@gmail.com,RabbitMQ endpoint add-on for NymBroker.
+2026-10-07T17:13:59.187Z,Brindletap,2.1.0,Brindletap,Roslyn CompletionProvider для C# и XAML-сниппетов из демо-экзамена. Совместим с .NET Framework 4.8.
