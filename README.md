@@ -12,36 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 23:21 UTC
+## Latest list — 2026-10-07 00:20 UTC
 
-New packages created between 2026-10-06 22:20 UTC and 2026-10-06 23:21 UTC.
+New packages created between 2026-10-06 23:21 UTC and 2026-10-07 00:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-06T23-21-50-927384Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T00-20-47-650314Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-06 22:22:43 | [Axnic.Pulumi.PocketId](https://www.nuget.org/packages/Axnic.Pulumi.PocketId) | 0.1.0 | axnic | A Pulumi provider for Pocket-ID, a passkey-only OIDC provider. |
-| 2026-10-06 22:28:55 | [Arkheide.Flourish.Core](https://www.nuget.org/packages/Arkheide.Flourish.Core) | 1.1.1 | ArkheideSystem | Platform-neutral contracts and application services for Flourish. |
-| 2026-10-06 22:28:57 | [Arkheide.Flourish.Blazor.Abstract](https://www.nuget.org/packages/Arkheide.Flourish.Blazor.Abstract) | 1.1.1 | ArkheideSystem | Public contracts for the Blazor application shell and optional design. |
-| 2026-10-06 22:28:58 | [Arkheide.Flourish.Extensions.Culture.Blazor](https://www.nuget.org/packages/Arkheide.Flourish.Extensions.Culture.Blazor) | 1.1.1 | ArkheideSystem | Optional scoped text integration between Flourish.Blazor and Essential.Culture.… |
-| 2026-10-06 22:28:59 | [Arkheide.Flourish.Blazor.Framework](https://www.nuget.org/packages/Arkheide.Flourish.Blazor.Framework) | 1.1.1 | ArkheideSystem | Native Blazor components and functional browser behavior without a visual skin. |
-| 2026-10-06 22:29:00 | [Arkheide.Flourish.Blazor.Design](https://www.nuget.org/packages/Arkheide.Flourish.Blazor.Design) | 1.1.1 | ArkheideSystem | Explicit optional visual foundations and theme runtime for Blazor components. |
-| 2026-10-06 22:29:01 | [Arkheide.Flourish.Blazor](https://www.nuget.org/packages/Arkheide.Flourish.Blazor) | 1.1.1 | ArkheideSystem | Convenience package for Blazor contracts, framework, design and scoped Culture… |
-| 2026-10-06 22:29:46 | [Kkhay](https://www.nuget.org/packages/Kkhay) | 1.0.0 | K Khay | Official C# and .NET SDK for K Khay Sovereign Crypto Payment Gateway |
-| 2026-10-06 22:39:32 | [WebDriverBiDi.Extensions](https://www.nuget.org/packages/WebDriverBiDi.Extensions) | 0.0.63 | WebDriverBiDi.NET Committers | Convenience methods and an input action builder for the WebDriver BiDi .NET cli… |
-| 2026-10-06 22:51:53 | [Purview.SourceGeneratorFramework](https://www.nuget.org/packages/Purview.SourceGeneratorFramework) | 1.0.0 | Purview Contributors | Purview SourceGeneratorFramework libraries for building and testing incremental… |
-| 2026-10-06 22:51:53 | [Purview.SourceGeneratorFramework.Testing](https://www.nuget.org/packages/Purview.SourceGeneratorFramework.Testing) | 1.0.0 | Purview Contributors | Purview SourceGeneratorFramework libraries for building and testing incremental… |
-| 2026-10-06 22:51:53 | [Purview.SourceGeneratorFramework.Testing.TUnit](https://www.nuget.org/packages/Purview.SourceGeneratorFramework.Testing.TUnit) | 1.0.0 | Purview Contributors | Purview SourceGeneratorFramework libraries for building and testing incremental… |
-| 2026-10-06 22:52:34 | [OverShell.Terminal.Wpf](https://www.nuget.org/packages/OverShell.Terminal.Wpf) | 1.25.260302.1 | MoaidHathot | The Windows Terminal WPF control - Microsoft.Terminal.Wpf (managed HwndHost) an… |
-| 2026-10-06 23:02:54 | [Ritten.OpenTelemetry](https://www.nuget.org/packages/Ritten.OpenTelemetry) | 0.21.0 | Tom Wolfe | OpenTelemetry for Ritten workflows. |
-| 2026-10-06 23:03:02 | [Vestigium.Helpers.LogParser](https://www.nuget.org/packages/Vestigium.Helpers.LogParser) | 1.0.0 | Vestigium.Helpers.LogParser | Package Description |
-| 2026-10-06 23:06:04 | [FixPortal.FixAtdl.Contracts](https://www.nuget.org/packages/FixPortal.FixAtdl.Contracts) | 1.3.0 | FixPortal contributors | JSON contract for @fix-portal/fixatdl-react: DTO records, a mapper from the par… |
-| 2026-10-06 23:07:36 | [SatisMVVM](https://www.nuget.org/packages/SatisMVVM) | 0.0.1 | satisplexity | A lightweight MVVM library with observable objects, relay commands, asynchronou… |
-| 2026-10-06 23:10:49 | [Voidwell.Common.Authentication](https://www.nuget.org/packages/Voidwell.Common.Authentication) | 1.0.0 | VoidwellLabs | Authenticated HttpClient support with client-credentials bearer tokens, and JWT… |
-| 2026-10-06 23:10:50 | [Voidwell.Common.Logging](https://www.nuget.org/packages/Voidwell.Common.Logging) | 1.0.0 | VoidwellLabs | Serilog-based logging setup for host applications. |
-| 2026-10-06 23:10:50 | [Voidwell.Common.Configuration](https://www.nuget.org/packages/Voidwell.Common.Configuration) | 1.0.0 | VoidwellLabs | Configuration helpers, such as reading the application name. |
-| 2026-10-06 23:10:51 | [Voidwell.Common.Swagger](https://www.nuget.org/packages/Voidwell.Common.Swagger) | 1.0.0 | VoidwellLabs | Swagger / OpenAPI setup for APIs, with optional bearer authentication. |
-| 2026-10-06 23:10:52 | [Voidwell.Common.Cache](https://www.nuget.org/packages/Voidwell.Common.Cache) | 1.0.0 | VoidwellLabs | A FusionCache-based cache with optional Redis support and set-like lists. |
+| 2026-10-06 23:25:37 | [Vestigium.Helpers.LogParser.Har](https://www.nuget.org/packages/Vestigium.Helpers.LogParser.Har) | 1.0.0 | Vestigium.Helpers.LogParser.H… | Package Description |
+| 2026-10-06 23:27:18 | [NGB.Platform.Attachments](https://www.nuget.org/packages/NGB.Platform.Attachments) | 3.1.0 | NGB Platform | NGB Platform Attachments capability. |
+| 2026-10-06 23:27:19 | [NGB.Platform.Notes](https://www.nuget.org/packages/NGB.Platform.Notes) | 3.1.0 | NGB Platform | NGB Platform Notes capability. |
+| 2026-10-06 23:27:20 | [NGB.Platform.Attachments.MinIO](https://www.nuget.org/packages/NGB.Platform.Attachments.MinIO) | 3.1.0 | NGB Platform | NGB Platform Attachments.MinIO capability. |
+| 2026-10-06 23:43:23 | [Salt.Api](https://www.nuget.org/packages/Salt.Api) | 1.0.10 | Panoramic Data Limited | A typed, read-only-by-option .NET client for the Salt Project REST API (rest_ch… |
+| 2026-10-06 23:43:25 | [CSharpEssentials.AspNetCore.OpenApi](https://www.nuget.org/packages/CSharpEssentials.AspNetCore.OpenApi) | 5.0.0 | senrecep | Microsoft.AspNetCore.OpenApi integration for the CSharpEssentials enum conventi… |
+| 2026-10-06 23:43:27 | [CSharpEssentials.AspNetCore.Swashbuckle](https://www.nuget.org/packages/CSharpEssentials.AspNetCore.Swashbuckle) | 5.0.0 | senrecep | Swashbuckle (Swagger) integration for CSharpEssentials.AspNetCore: versioned Sw… |
+| 2026-10-06 23:43:40 | [Vestigium.Helpers.LogParser.Url](https://www.nuget.org/packages/Vestigium.Helpers.LogParser.Url) | 1.0.0 | Vestigium.Helpers.LogParser.U… | Package Description |
+| 2026-10-06 23:45:12 | [Microsoft.CopyOnWrite](https://www.nuget.org/packages/Microsoft.CopyOnWrite) | 0.5.1 | Microsoft | A .NET library that encapsulates OS and filesystem differences for creating Cop… |
+| 2026-10-06 23:50:33 | [Ten99.Aria.Mcp.Ado](https://www.nuget.org/packages/Ten99.Aria.Mcp.Ado) | 1.0.693 | 1099 Ventures Inc | ARIA's native C# Azure DevOps MCP server — multi-org, lean responses, registry-… |
+| 2026-10-06 23:50:34 | [Ten99.Aria.Mcp.Codecks](https://www.nuget.org/packages/Ten99.Aria.Mcp.Codecks) | 1.0.693 | 1099 Ventures Inc | Model Context Protocol (MCP) server for Codecks project management: cards, deck… |
+| 2026-10-06 23:50:36 | [Ten99.Aria.Mcp.Email.Imap](https://www.nuget.org/packages/Ten99.Aria.Mcp.Email.Imap) | 1.0.693 | 1099 Ventures Inc | ARIA's IMAP/SMTP (MailKit) email MCP server — read/filter/triage a mailbox over… |
+| 2026-10-06 23:50:38 | [Ten99.Aria.Mcp.Email.O365](https://www.nuget.org/packages/Ten99.Aria.Mcp.Email.O365) | 1.0.693 | 1099 Ventures Inc | ARIA's Microsoft 365 (Outlook/Graph) email MCP server — read/filter/triage a ma… |
+| 2026-10-06 23:50:41 | [Ten99.Aria.Mcp.LocalFiles](https://www.nuget.org/packages/Ten99.Aria.Mcp.LocalFiles) | 1.0.693 | 1099 Ventures Inc | Model Context Protocol (MCP) server for local filesystem operations: read, writ… |
+| 2026-10-06 23:50:42 | [Ten99.Aria.Common](https://www.nuget.org/packages/Ten99.Aria.Common) | 1.0.693 | 1099 Ventures Inc | Dependency-light generic primitives shared by the ARIA projects and MCP servers… |
+| 2026-10-06 23:50:44 | [Ten99.Aria.Hosting.Mcp.Core](https://www.nuget.org/packages/Ten99.Aria.Hosting.Mcp.Core) | 1.0.693 | 1099 Ventures Inc | Reusable host for running a Model Context Protocol (MCP) server over stdio: a o… |
+| 2026-10-07 00:06:34 | [Ilmek.Skills](https://www.nuget.org/packages/Ilmek.Skills) | 0.1.0 | AimTune | Agent Skills for ilmek — load SKILL.md folders, expose them to a model with pro… |
+| 2026-10-07 00:06:36 | [Ilmek.Mcp](https://www.nuget.org/packages/Ilmek.Mcp) | 0.1.0 | AimTune | MCP for ilmek — consume Model Context Protocol servers as replay-safe tools, re… |
+| 2026-10-07 00:06:37 | [Ilmek.A2A](https://www.nuget.org/packages/Ilmek.A2A) | 0.1.0 | AimTune | A2A for ilmek — call Agent2Agent agents from a graph, replay-safe, with human-i… |
+| 2026-10-07 00:06:44 | [ElephantSqlDb.Data](https://www.nuget.org/packages/ElephantSqlDb.Data) | 1.0.189 | ElephantSqlDB, Inc: DevOps | Client API needed to interact with the ElephantSqlDB cloud database storage ser… |
 
 ## Data source
 
