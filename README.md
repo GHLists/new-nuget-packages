@@ -12,40 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 15:20 UTC
+## Latest list — 2026-10-07 16:20 UTC
 
-New packages created between 2026-10-07 14:20 UTC and 2026-10-07 15:20 UTC.
+New packages created between 2026-10-07 15:20 UTC and 2026-10-07 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T15-20-02-557431Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T16-20-44-052873Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 14:33:53 | [Dataverse.ModellingMcp.Setup](https://www.nuget.org/packages/Dataverse.ModellingMcp.Setup) | 1.22.0 | crossvertise | Dataverse Modelling MCP server and its setup wizard: run "dataverse-modelling-m… |
-| 2026-10-07 14:35:49 | [PepperDash.Essentials.Plugins.Barco.G60](https://www.nuget.org/packages/PepperDash.Essentials.Plugins.Barco.G60) | 2.0.0 | PepperDash Technologies | This software is a plugin designed to work as a part of PepperDash Essentials f… |
-| 2026-10-07 14:36:54 | [Luthor.Generator](https://www.nuget.org/packages/Luthor.Generator) | 5.1.0 | honey the codewitch | Incremental source generator that builds DFA lexers from [Rule] attributes. |
-| 2026-10-07 14:38:55 | [Soenneker.Maui.Permissioners.ExactAlarm](https://www.nuget.org/packages/Soenneker.Maui.Permissioners.ExactAlarm) | 4.0.4 | Jake Soenneker | Android exact alarm permission checking and requesting for .NET MAUI applicatio… |
-| 2026-10-07 14:40:31 | [Soenneker.Maui.Permissioners.Notifications](https://www.nuget.org/packages/Soenneker.Maui.Permissioners.Notifications) | 4.0.3 | Jake Soenneker | Notification permission checking and requesting for .NET MAUI applications. |
-| 2026-10-07 14:44:42 | [PoshTools.Iseberg.Core](https://www.nuget.org/packages/PoshTools.Iseberg.Core) | 0.0.3 | Adam Driscoll | PowerShell execution, completion, debugging, and editor services for Iseberg. |
-| 2026-10-07 14:44:43 | [PoshTools.Iseberg.Editor](https://www.nuget.org/packages/PoshTools.Iseberg.Editor) | 0.0.3 | Adam Driscoll | Engine-independent PowerShell editing and explicit host-provided diagnostics fo… |
-| 2026-10-07 14:44:44 | [PoshTools.ISEBerg](https://www.nuget.org/packages/PoshTools.ISEBerg) | 0.0.3 | Adam Driscoll | Avalonia PowerShell editor and workbench. |
-| 2026-10-07 14:45:03 | [Soenneker.Maui.Permissioners.BatteryOptimizationDisabled](https://www.nuget.org/packages/Soenneker.Maui.Permissioners.BatteryOptimizationDisabled) | 4.0.3 | Jake Soenneker | Android battery optimization exemption checking and requesting for .NET MAUI ap… |
-| 2026-10-07 14:45:17 | [LunaticPanel.Core.Abstraction](https://www.nuget.org/packages/LunaticPanel.Core.Abstraction) | 0.0.11 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
-| 2026-10-07 14:46:21 | [Remote.Linq.Protobuf](https://www.nuget.org/packages/Remote.Linq.Protobuf) | 8.0.0-alpha-001 | Christof Senn | Provides schema-first Google.Protobuf serialization for Remote.Linq types. |
-| 2026-10-07 14:46:23 | [Remote.Linq.MessagePack](https://www.nuget.org/packages/Remote.Linq.MessagePack) | 8.0.0-alpha-001 | Christof Senn | Provides MessagePack serialization for Remote.Linq types. |
-| 2026-10-07 14:53:19 | [LunaticPanel.Core.PluginValidator](https://www.nuget.org/packages/LunaticPanel.Core.PluginValidator) | 0.0.11 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
-| 2026-10-07 14:55:31 | [ScuroGuardiano.Phoenix](https://www.nuget.org/packages/ScuroGuardiano.Phoenix) | 1.0.0 | ScuroGuardiano | Thin wrapper on execve on Unix-like systems and prctl on Linux |
-| 2026-10-07 14:56:04 | [Bfocus.Monitor](https://www.nuget.org/packages/Bfocus.Monitor) | 0.1.2 | Berni Software | Monitoramento de erros do bFocus para .NET: captura os erros não tratados do si… |
-| 2026-10-07 14:56:05 | [Bfocus.Monitor.AspNetCore](https://www.nuget.org/packages/Bfocus.Monitor.AspNetCore) | 0.1.2 | Berni Software | Integração ASP.NET Core do monitoramento de erros do bFocus: app.UseBfocusMonit… |
-| 2026-10-07 14:58:18 | [XingGui.QingNiao](https://www.nuget.org/packages/XingGui.QingNiao) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:18 | [LunaticPanel.Core](https://www.nuget.org/packages/LunaticPanel.Core) | 0.0.11 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
-| 2026-10-07 14:58:20 | [XingGui.QingNiao.BLE](https://www.nuget.org/packages/XingGui.QingNiao.BLE) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:24 | [XingGui.QingNiao.Bluetooth](https://www.nuget.org/packages/XingGui.QingNiao.Bluetooth) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:26 | [XingGui.QingNiao.Bridge](https://www.nuget.org/packages/XingGui.QingNiao.Bridge) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:29 | [XingGui.QingNiao.Builder](https://www.nuget.org/packages/XingGui.QingNiao.Builder) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:31 | [XingGui.QingNiao.Envoy](https://www.nuget.org/packages/XingGui.QingNiao.Envoy) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:33 | [XingGui.QingNiao.Envoy.SourceGenerator](https://www.nuget.org/packages/XingGui.QingNiao.Envoy.SourceGenerator) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:34 | [XingGui.QingNiao.Parser](https://www.nuget.org/packages/XingGui.QingNiao.Parser) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
-| 2026-10-07 14:58:36 | [XingGui.QingNiao.Protocol](https://www.nuget.org/packages/XingGui.QingNiao.Protocol) | 1.0.0 | XingGui | 星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信… |
+| 2026-10-07 15:41:56 | [Microsoft.Windows.AI.MachineLearning.LibLlama.Core](https://www.nuget.org/packages/Microsoft.Windows.AI.MachineLearning.LibLlama.Core) | 0.5.0.2022-experime… | Microsoft | llama.cpp runtime for Windows ML on x64 and ARM64: the Windows ML llama.cpp ada… |
+| 2026-10-07 15:45:07 | [MDY.AbstractFilter](https://www.nuget.org/packages/MDY.AbstractFilter) | 1.0.0 | Davidson Moura | Biblioteca para abstração de filtros com o banco de dados. |
+| 2026-10-07 15:46:34 | [TGateway.Foundation](https://www.nuget.org/packages/TGateway.Foundation) | 2.3.8 | TGateway.Foundation | Package Description |
+| 2026-10-07 15:47:08 | [TGateway.Plugin](https://www.nuget.org/packages/TGateway.Plugin) | 2.3.8 | TGateway.Plugin | Package Description |
+| 2026-10-07 15:59:07 | [AnointedAutomation.SSO](https://www.nuget.org/packages/AnointedAutomation.SSO) | 1.0.0 | Anointed Automation LLC, Alex… | Sign in with Anointed Automation for ASP.NET Core: an OpenID Connect handler pr… |
+| 2026-10-07 16:01:28 | [Toxic.Umbraco.WelcomeDashboard](https://www.nuget.org/packages/Toxic.Umbraco.WelcomeDashboard) | 1.0.0 | Toxic | A welcome dashboard for Umbraco 17 that gives editors a clear overview of recen… |
 
 ## Data source
 

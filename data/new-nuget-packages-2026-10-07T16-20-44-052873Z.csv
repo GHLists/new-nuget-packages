@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-07T15:41:56.327Z,Microsoft.Windows.AI.MachineLearning.LibLlama.Core,0.5.0.2022-experime…,Microsoft,"llama.cpp runtime for Windows ML on x64 and ARM64: the Windows ML llama.cpp adapter, the llama.cpp core, and the CPU backend. Add a Microsoft.Windows.AI.MachineLearning.LibLlama backend package for GPU acceleration."
+2026-10-07T15:45:07.41Z,MDY.AbstractFilter,1.0.0,Davidson Moura,Biblioteca para abstração de filtros com o banco de dados.
+2026-10-07T15:46:34.85Z,TGateway.Foundation,2.3.8,TGateway.Foundation,Package Description
+2026-10-07T15:47:08.113Z,TGateway.Plugin,2.3.8,TGateway.Plugin,Package Description
+2026-10-07T15:59:07.143Z,AnointedAutomation.SSO,1.0.0,"Anointed Automation LLC, Alexander Fields","Sign in with Anointed Automation for ASP.NET Core: an OpenID Connect handler preset (authorization code + PKCE S256, verified email only), a back-channel logout endpoint with Logout Token validation and replay protection, and a fail-open session status client."
+2026-10-07T16:01:28.053Z,Toxic.Umbraco.WelcomeDashboard,1.0.0,Toxic,A welcome dashboard for Umbraco 17 that gives editors a clear overview of recent backoffice activity directly in the Content section.
