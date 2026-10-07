@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-07T13:25:49.003Z,DanishFriendlyIds,0.1.0,Kim Lindhard,"Human-friendly Danish identifiers: ""glade danser"" for a person, ""blå kasse"" for an object. Every word comes from the official Danish word registers (COR, CC0) and is hand-reviewed, so no identifier is ever negative. Two or three words, an optional number, and Danish, ASCII or URL-slug spelling."
+2026-10-07T13:31:48.127Z,Umbraco.Community.DocumentBlueprintsInContent,1.0.0,Gheorghe Efros,"Adds Document Blueprints to the Umbraco Content section, behind a dedicated user group permission, so editors can manage them without access to Settings. The Settings tree is left untouched."
+2026-10-07T13:44:22.72Z,MavLinkSharp.Cli,1.14.0,TekLot,"MAVLink diagnostic CLI: capture, inspect, replay, and dialect introspection."
+2026-10-07T13:47:31.143Z,Richardbmk.IncidentTracker.Core,1.0.0,Richardbmk,Shared models and utilities for the Incident Tracker application.
+2026-10-07T13:51:05.457Z,LunaticPanel.Core.Analyzer,0.0.9,LunaticPanel.Core.Analyzer,Package Description
+2026-10-07T13:55:31.017Z,nightmaregaurav.schedulite,1.0.1,Gaurav Nyaupane,A lightweight and flexible scheduling library for .NET applications.
+2026-10-07T13:56:10.037Z,Nesco.Server.Contracts,0.1.0,Nesco,"The routes, headers and records of the wire between a product installation and Nesco Server. No dependencies."
+2026-10-07T13:56:30.947Z,Balikobot,0.1.0,M1chlCZ,"A C#/.NET client for the Balikobot shipping API v2: packages, labels, tracking, pickups, and carrier capabilities."
+2026-10-07T14:05:44.827Z,CK.AppIdentity.Cris.AuthCenter,2.0.0,Signature Code,Package Description
