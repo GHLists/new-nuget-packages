@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-10-07T12:22:57.397Z,Squash,1.0.0,https://github.com/SimonCropp/Squash/graphs/contributors,"Removes unreachable IL from a library at build time, using the .NET IL linker (illink). The public surface is untouched; non-public types and members nothing reaches are trimmed."
+2026-10-07T12:25:23.373Z,SkynetTechnologies.AllinOneAccessibility.Kentico,1.0.0,Skynet Technologies USA LLC,"Adds the All in One Accessibility® widget (WCAG, ADA, EAA) to every Xperience by Kentico website channel and a widget settings application to the Xperience administration."
+2026-10-07T12:26:42.71Z,Arc56.Generated.LoafPickleWW.wen-tools,1.0.1.2026100712,LoafPickleWW,Generated ARC-56 Algorand smart-contract clients for LoafPickleWW/wen-tools.
+2026-10-07T12:29:32.807Z,StswExpress.Sql,0.24.0,Karol Staszewski,This package offers SQL database utilities for StswExpress.
+2026-10-07T12:30:06.95Z,StswExpress.Wpf.Themes,0.24.0,Karol Staszewski,Additional themes for StswExpress.Wpf controls.
+2026-10-07T12:59:27.477Z,CSharpExt.Core,1.0.0,Dio Liew,An extension to C# to ease functional code style.
+2026-10-07T12:59:55.06Z,Copper.Retry,0.0.2,Copper.Retry,Package Description
+2026-10-07T13:04:19.947Z,Xylocopadream.EasyResu,0.1.0,Zergoma,"Lightweight result types (Resu, Resu<T>) carrying a success, warning or error status instead of throwing."
+2026-10-07T13:04:22.007Z,Xylocopadream.EasySecureStorage,0.1.0,Zergoma,Platform-agnostic abstraction (IEasySecureStorage) to store small secrets such as tokens.
+2026-10-07T13:04:23.907Z,Xylocopadream.EasySecureStorage.Maui,0.1.0,Zergoma,".NET MAUI implementation of IEasySecureStorage, backed by MAUI SecureStorage."
+2026-10-07T13:04:25.843Z,Xylocopadream.EasySecureStorage.Windows,0.1.0,Zergoma,"Windows implementation of IEasySecureStorage, encrypted with DPAPI (current user scope)."
+2026-10-07T13:04:27.65Z,Xylocopadream.UiNavigation,0.1.0,Zergoma,"Strongly-typed, UI-framework-agnostic page navigation driven by dependency injection."
+2026-10-07T13:04:29.72Z,Xylocopadream.UserNotification,0.1.0,Zergoma,"UI-agnostic abstraction (INotificationService) to show error, warning and info messages to the user."
+2026-10-07T13:04:31.623Z,Xylocopadream.UserNotification.Maui,0.1.0,Zergoma,".NET MAUI implementation of INotificationService, using alert dialogs."
+2026-10-07T13:04:33.633Z,Xylocopadream.Otp.AspNetCore.Infrastructure,0.1.0,Zergoma,ASP.NET Core middleware propagating an X-Correlation-Id header and logging scope.
+2026-10-07T13:04:35.867Z,Xylocopadream.Otp.Authenticate.Application,0.1.0,Zergoma,"Use cases of the Xylocopadream OTP authentication server: OTP codes, JWT issuing, refresh tokens and user administration."
+2026-10-07T13:04:37.693Z,Xylocopadream.Otp.Authenticate.Contracts,0.1.0,Zergoma,Request/response contracts and FluentValidation validators shared by the Xylocopadream OTP server and its clients.
+2026-10-07T13:04:39.51Z,Xylocopadream.Otp.Authenticate.Domain,0.1.0,Zergoma,Domain entities and models of the Xylocopadream OTP authentication server.
+2026-10-07T13:04:41.38Z,Xylocopadream.Otp.Authenticate.Infrastructure,0.1.0,Zergoma,"EF Core persistence (ASP.NET Identity, OTP codes, refresh tokens) and SMTP e-mail sending (MailKit) of the Xylocopadream OTP authentication server."
+2026-10-07T13:04:43.417Z,Xylocopadream.Otp.Authenticate.Server,0.1.0,Zergoma,One-call registration of the Xylocopadream OTP authentication server in an ASP.NET Core application.
+2026-10-07T13:04:45.327Z,Xylocopadream.Otp.Client,0.1.0,Zergoma,"Client for the Xylocopadream OTP server: passwordless e-mail login, JWT storage and automatic token refresh."
+2026-10-07T13:13:06.45Z,LcdDriver.TrofeoVisionLy,4.0.0,machi_pon,Thermalright Trofeo Vision LY controller.
