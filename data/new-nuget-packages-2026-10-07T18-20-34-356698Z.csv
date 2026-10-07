@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-07T17:23:43.997Z,Confluent.SchemaRegistry.Encryption.AliCloud,2.16.0,Confluent Inc.,Provides field-level encryption for use with Confluent Schema Registry using Alibaba Cloud KMS
+2026-10-07T17:24:30.32Z,YetAnotherClaudeAgentSdk,1.0.0,"Elias Bachaalany,macsux",".NET SDK for the Claude Code CLI: QueryAsync(), a bidirectional client, hooks, tool permissions and in-process MCP servers. A fork of 0xeb/claude-agent-sdk-dotnet (MIT) maintained at github.com/macsux/claude-agent-sdk-dotnet; same namespaces (Claude.AgentSdk)."
+2026-10-07T17:25:21.463Z,LunaticPanel.Core.Utils.Abstraction,0.0.18,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T17:32:23.277Z,LunaticPanel.Core.Utils,0.0.18,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T17:39:49Z,Bakobo.Fiki,0.0.1,Bakobo,Name reserved for fiki (RFC 9421 HTTP message signatures). Empty placeholder; see the repository.
+2026-10-07T17:41:17.08Z,LunaticPanel.Package.Server,0.0.18,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T17:46:58.703Z,LunaticPanel.PackageManager.Keys,0.0.18,LunaticPanel.PackageManager.Keys,Package Description
+2026-10-07T17:52:24.09Z,LunaticPanel.Engine.Keys,0.0.18,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-07T17:52:45.15Z,CommunityAbp.ProgressiveDelivery.OpenIddict,0.3.0,Kori Francis,OpenIddict integration for CommunityAbp.ProgressiveDelivery: find Client subjects by client id or display name in the admin UI's subject pickers.
+2026-10-07T17:53:17.587Z,SudokuGen,1.0.0,kw.dev gmbh,A fast sudoku puzzle generator. .NET port of petewritescode/sudoku-gen: transforms known seed puzzles into new ones.
+2026-10-07T17:57:02.513Z,YellowDogMan.Splat.NET,1.0.0,Splat.NET,Package Description
+2026-10-07T17:58:22.07Z,Singulink.FulcrumFS.Local,2.0.0,Singulink,Local file system implementation of the FulcrumFS repository.
+2026-10-07T17:59:04.307Z,nuget-manager,0.1.0,ManagedCode,Review and update NuGet package families in .NET workspaces.

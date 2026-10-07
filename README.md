@@ -12,27 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 17:22 UTC
+## Latest list — 2026-10-07 18:20 UTC
 
-New packages created between 2026-10-07 16:20 UTC and 2026-10-07 17:22 UTC.
+New packages created between 2026-10-07 17:22 UTC and 2026-10-07 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T17-22-02-999784Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T18-20-34-356698Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 16:44:51 | [Microsoft.Testing.Extensions.PackagedApp.MSBuild](https://www.nuget.org/packages/Microsoft.Testing.Extensions.PackagedApp.MSBuild) | 2.5.1 | Microsoft | Run packaged Windows test applications through a full-trust Microsoft.Testing.P… |
-| 2026-10-07 16:45:03 | [MSTest.Windows.UIAutomation](https://www.nuget.org/packages/MSTest.Windows.UIAutomation) | 4.5.1 | Microsoft | MSTest lifecycle integration for Windows desktop UI Automation tests. MSTest is… |
-| 2026-10-07 16:54:10 | [Soenneker.Librarian.AzureBlob](https://www.nuget.org/packages/Soenneker.Librarian.AzureBlob) | 4.0.71 | Jake Soenneker | Librarian document storage backed by Azure Blob Storage snapshots. |
-| 2026-10-07 17:03:32 | [NymBroker.Idempotency.Sqlite](https://www.nuget.org/packages/NymBroker.Idempotency.Sqlite) | 0.9.1 | nymankla@gmail.com | Durable SQLite idempotency store (idempotent receiver) for NymBroker. Single ho… |
-| 2026-10-07 17:03:33 | [NymBroker.Idempotency.Postgres](https://www.nuget.org/packages/NymBroker.Idempotency.Postgres) | 0.9.1 | nymankla@gmail.com | Durable PostgreSQL idempotency store (idempotent receiver) for NymBroker. |
-| 2026-10-07 17:03:34 | [NymBroker.Endpoint.AzureServiceBus](https://www.nuget.org/packages/NymBroker.Endpoint.AzureServiceBus) | 0.9.1 | nymankla@gmail.com | Azure Service Bus endpoint add-on for NymBroker, with native dead-lettering. |
-| 2026-10-07 17:03:34 | [NymBroker.Endpoint.SqlServer](https://www.nuget.org/packages/NymBroker.Endpoint.SqlServer) | 0.9.1 | nymankla@gmail.com | SQL Server endpoint add-on for NymBroker. |
-| 2026-10-07 17:03:35 | [NymBroker.Endpoint.Postgres](https://www.nuget.org/packages/NymBroker.Endpoint.Postgres) | 0.9.1 | nymankla@gmail.com | PostgreSQL endpoint add-on for NymBroker. |
-| 2026-10-07 17:03:36 | [NymBroker.Idempotency.SqlServer](https://www.nuget.org/packages/NymBroker.Idempotency.SqlServer) | 0.9.1 | nymankla@gmail.com | Durable SQL Server idempotency store (idempotent receiver) for NymBroker. |
-| 2026-10-07 17:03:37 | [NymBroker](https://www.nuget.org/packages/NymBroker) | 0.9.1 | nymankla@gmail.com | A .NET 10 enterprise message processing framework. |
-| 2026-10-07 17:03:37 | [NymBroker.Endpoint.Sqlite](https://www.nuget.org/packages/NymBroker.Endpoint.Sqlite) | 0.9.1 | nymankla@gmail.com | SQLite endpoint add-on for NymBroker. |
-| 2026-10-07 17:03:38 | [NymBroker.Endpoint.RabbitMq](https://www.nuget.org/packages/NymBroker.Endpoint.RabbitMq) | 0.9.1 | nymankla@gmail.com | RabbitMQ endpoint add-on for NymBroker. |
-| 2026-10-07 17:13:59 | [Brindletap](https://www.nuget.org/packages/Brindletap) | 2.1.0 | Brindletap | Roslyn CompletionProvider для C# и XAML-сниппетов из демо-экзамена. Совместим с… |
+| 2026-10-07 17:23:43 | [Confluent.SchemaRegistry.Encryption.AliCloud](https://www.nuget.org/packages/Confluent.SchemaRegistry.Encryption.AliCloud) | 2.16.0 | Confluent Inc. | Provides field-level encryption for use with Confluent Schema Registry using Al… |
+| 2026-10-07 17:24:30 | [YetAnotherClaudeAgentSdk](https://www.nuget.org/packages/YetAnotherClaudeAgentSdk) | 1.0.0 | Elias Bachaalany,macsux | .NET SDK for the Claude Code CLI: QueryAsync(), a bidirectional client, hooks,… |
+| 2026-10-07 17:25:21 | [LunaticPanel.Core.Utils.Abstraction](https://www.nuget.org/packages/LunaticPanel.Core.Utils.Abstraction) | 0.0.18 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
+| 2026-10-07 17:32:23 | [LunaticPanel.Core.Utils](https://www.nuget.org/packages/LunaticPanel.Core.Utils) | 0.0.18 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
+| 2026-10-07 17:39:49 | [Bakobo.Fiki](https://www.nuget.org/packages/Bakobo.Fiki) | 0.0.1 | Bakobo | Name reserved for fiki (RFC 9421 HTTP message signatures). Empty placeholder; s… |
+| 2026-10-07 17:41:17 | [LunaticPanel.Package.Server](https://www.nuget.org/packages/LunaticPanel.Package.Server) | 0.0.18 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
+| 2026-10-07 17:46:58 | [LunaticPanel.PackageManager.Keys](https://www.nuget.org/packages/LunaticPanel.PackageManager.Keys) | 0.0.18 | LunaticPanel.PackageManager.K… | Package Description |
+| 2026-10-07 17:52:24 | [LunaticPanel.Engine.Keys](https://www.nuget.org/packages/LunaticPanel.Engine.Keys) | 0.0.18 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
+| 2026-10-07 17:52:45 | [CommunityAbp.ProgressiveDelivery.OpenIddict](https://www.nuget.org/packages/CommunityAbp.ProgressiveDelivery.OpenIddict) | 0.3.0 | Kori Francis | OpenIddict integration for CommunityAbp.ProgressiveDelivery: find Client subjec… |
+| 2026-10-07 17:53:17 | [SudokuGen](https://www.nuget.org/packages/SudokuGen) | 1.0.0 | kw.dev gmbh | A fast sudoku puzzle generator. .NET port of petewritescode/sudoku-gen: transfo… |
+| 2026-10-07 17:57:02 | [YellowDogMan.Splat.NET](https://www.nuget.org/packages/YellowDogMan.Splat.NET) | 1.0.0 | Splat.NET | Package Description |
+| 2026-10-07 17:58:22 | [Singulink.FulcrumFS.Local](https://www.nuget.org/packages/Singulink.FulcrumFS.Local) | 2.0.0 | Singulink | Local file system implementation of the FulcrumFS repository. |
+| 2026-10-07 17:59:04 | [nuget-manager](https://www.nuget.org/packages/nuget-manager) | 0.1.0 | ManagedCode | Review and update NuGet package families in .NET workspaces. |
 
 ## Data source
 
