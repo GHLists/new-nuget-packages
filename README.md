@@ -12,38 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 02:19 UTC
+## Latest list — 2026-10-07 03:22 UTC
 
-New packages created between 2026-10-07 01:21 UTC and 2026-10-07 02:19 UTC.
+New packages created between 2026-10-07 02:19 UTC and 2026-10-07 03:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T02-19-55-658977Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T03-22-13-562667Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 01:32:50 | [Meshmakers.Octo.Services.ArtifactStorage](https://www.nuget.org/packages/Meshmakers.Octo.Services.ArtifactStorage) | 3.4.148 | meshmakers GmbH and Contribut… | Artifact storage abstraction (IArtifactStore) for OctoMesh services with file s… |
-| 2026-10-07 01:32:53 | [Vali-Flow.NoSql.CosmosDb](https://www.nuget.org/packages/Vali-Flow.NoSql.CosmosDb) | 1.1.0 | Felipe Rafael Montenegro Morr… | Azure Cosmos DB (SQL API) adapter for Vali-Flow.NoSql — translates the provider… |
-| 2026-10-07 01:32:54 | [Vali-Flow.NoSql.Couchbase](https://www.nuget.org/packages/Vali-Flow.NoSql.Couchbase) | 1.1.0 | Felipe Rafael Montenegro Morr… | Couchbase adapter for Vali-Flow.NoSql — translates the provider-agnostic IR tre… |
-| 2026-10-07 01:32:56 | [Vali-Flow.NoSql.Firestore](https://www.nuget.org/packages/Vali-Flow.NoSql.Firestore) | 1.1.0 | Felipe Rafael Montenegro Morr… | Google Cloud Firestore adapter for Vali-Flow.NoSql — translates the provider-ag… |
-| 2026-10-07 01:40:59 | [Microsoft.Mxc.Sdk](https://www.nuget.org/packages/Microsoft.Mxc.Sdk) | 1.0.0 | Microsoft | .NET SDK for MXC (Microsoft eXecution Container), including Windows, Linux, and… |
-| 2026-10-07 01:41:01 | [NetArcaWs.EntityFrameworkCore](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore) | 0.6.0 | NetArcaWs .NET contributors | Optional Entity Framework Core invoice journal and encrypted shared WSAA ticket… |
-| 2026-10-07 01:41:03 | [NetArcaWs.EntityFrameworkCore.MySql](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.MySql) | 0.6.0 | NetArcaWs .NET contributors | Optional MySQL and MariaDB Entity Framework Core provider integration for NetAr… |
-| 2026-10-07 01:41:04 | [NetArcaWs.EntityFrameworkCore.PostgreSql](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.PostgreSql) | 0.6.0 | NetArcaWs .NET contributors | Optional PostgreSQL Entity Framework Core provider integration for NetArcaWs pe… |
-| 2026-10-07 01:41:05 | [NetArcaWs.EntityFrameworkCore.SqlServer](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.SqlServer) | 0.6.0 | NetArcaWs .NET contributors | Optional SQL Server Entity Framework Core provider integration for NetArcaWs pe… |
-| 2026-10-07 01:41:07 | [NetArcaWs.EntityFrameworkCore.Migrations.Sqlite](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.Migrations.Sqlite) | 0.6.0 | NetArcaWs .NET contributors | Official SQLite migrations for NetArcaWs Entity Framework Core persistence modu… |
-| 2026-10-07 01:41:08 | [NetArcaWs.EntityFrameworkCore.Migrations.MySql](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.Migrations.MySql) | 0.6.0 | NetArcaWs .NET contributors | Official MySQL migrations for NetArcaWs Entity Framework Core persistence modul… |
-| 2026-10-07 01:41:09 | [NetArcaWs.EntityFrameworkCore.Migrations.MariaDb](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.Migrations.MariaDb) | 0.6.0 | NetArcaWs .NET contributors | Official MariaDB migrations for NetArcaWs Entity Framework Core persistence mod… |
-| 2026-10-07 01:41:11 | [NetArcaWs.EntityFrameworkCore.Migrations.PostgreSql](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.Migrations.PostgreSql) | 0.6.0 | NetArcaWs .NET contributors | Official PostgreSQL migrations for NetArcaWs Entity Framework Core persistence… |
-| 2026-10-07 01:41:12 | [NetArcaWs.EntityFrameworkCore.Migrations.SqlServer](https://www.nuget.org/packages/NetArcaWs.EntityFrameworkCore.Migrations.SqlServer) | 0.6.0 | NetArcaWs .NET contributors | Official SQL Server migrations for NetArcaWs Entity Framework Core persistence… |
-| 2026-10-07 01:53:33 | [Wslc.Testcontainers.Modules.ClickHouse](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.ClickHouse) | 0.3.0 | Nick Nadolski | ClickHouse module for Wslc.Testcontainers: typed builder, HTTP/native ports and… |
-| 2026-10-07 01:53:36 | [Wslc.Testcontainers.Modules.Elasticsearch](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Elasticsearch) | 0.3.0 | Nick Nadolski | Elasticsearch module for Wslc.Testcontainers: typed builder and HTTP endpoint. |
-| 2026-10-07 01:53:42 | [Wslc.Testcontainers.Modules.Keycloak](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Keycloak) | 0.3.0 | Nick Nadolski | Keycloak module for Wslc.Testcontainers: typed builder, HTTP endpoint and admin… |
-| 2026-10-07 01:53:43 | [Wslc.Testcontainers.Modules.MailPit](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.MailPit) | 0.3.0 | Nick Nadolski | Mailpit module for Wslc.Testcontainers: typed builder and SMTP/HTTP endpoints. |
-| 2026-10-07 01:53:45 | [Wslc.Testcontainers.Modules.MongoDb](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.MongoDb) | 0.3.0 | Nick Nadolski | MongoDB module for Wslc.Testcontainers: typed builder and connection string. |
-| 2026-10-07 01:53:46 | [Wslc.Testcontainers.Modules.Nats](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Nats) | 0.3.0 | Nick Nadolski | NATS module for Wslc.Testcontainers: typed builder and connection string. |
-| 2026-10-07 01:53:48 | [Wslc.Testcontainers.Modules.Qdrant](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Qdrant) | 0.3.0 | Nick Nadolski | Qdrant module for Wslc.Testcontainers: typed builder, HTTP/gRPC ports and HTTP… |
-| 2026-10-07 01:53:51 | [Wslc.Testcontainers.Modules.RustFs](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.RustFs) | 0.3.0 | Nick Nadolski | RustFS module for Wslc.Testcontainers: typed builder and S3 endpoint. |
-| 2026-10-07 01:53:53 | [Wslc.Testcontainers.Modules.Vault](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Vault) | 0.3.0 | Nick Nadolski | Vault module for Wslc.Testcontainers: typed builder and dev-mode address. |
-| 2026-10-07 01:53:54 | [Wslc.Testcontainers.Modules.WireMock](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.WireMock) | 0.3.0 | Nick Nadolski | WireMock module for Wslc.Testcontainers: typed builder and HTTP endpoint for th… |
+| 2026-10-07 02:44:23 | [AvaloniaUIKit](https://www.nuget.org/packages/AvaloniaUIKit) | 0.1.0 | supermomonga | Avalonia themes that reproduce the look and motion of GPUI Kit components. |
+| 2026-10-07 02:44:24 | [AvaloniaUIKit.ColorPicker](https://www.nuget.org/packages/AvaloniaUIKit.ColorPicker) | 0.1.0 | supermomonga | GPUI Kit's ColorPicker and ColorSelect looks for Avalonia.Controls.ColorPicker,… |
+| 2026-10-07 02:44:24 | [AvaloniaUIKit.Dock](https://www.nuget.org/packages/AvaloniaUIKit.Dock) | 0.1.0 | supermomonga | GPUI Kit's Dock look for Dock.Avalonia, on top of AvaloniaUIKit's UIKitTheme. |
+| 2026-10-07 02:44:25 | [AvaloniaUIKit.DataGrid](https://www.nuget.org/packages/AvaloniaUIKit.DataGrid) | 0.1.0 | supermomonga | GPUI Kit's DataTable look for Avalonia.Controls.DataGrid, on top of AvaloniaUIK… |
+| 2026-10-07 02:45:31 | [lucnd.icloud.maui.Realm.Refurbished](https://www.nuget.org/packages/lucnd.icloud.maui.Realm.Refurbished) | 6.10.70 | Lucy | Tiện ích hỗ trợ truy cập Realm Database |
+| 2026-10-07 02:47:43 | [Eternet.Inbox.Contracts](https://www.nuget.org/packages/Eternet.Inbox.Contracts) | 1.0.0 | Eternet.Inbox.Contracts | Package Description |
+| 2026-10-07 02:48:09 | [Eternet.Sec.TsAs.Public.Contracts](https://www.nuget.org/packages/Eternet.Sec.TsAs.Public.Contracts) | 1.0.0 | Sec.TsAs.Public.Contracts | Package Description |
+| 2026-10-07 02:51:48 | [Vard](https://www.nuget.org/packages/Vard) | 1.0.0 | Junior Schröder | Toolkit de resiliência sem atrito, type-safe, com zero dependências externas pa… |
+| 2026-10-07 03:08:53 | [CoreSystem.Correlation](https://www.nuget.org/packages/CoreSystem.Correlation) | 1.0.0 | Federin Pastor Gutierrez Ortiz | Correlation-id propagation middleware for ASP.NET Core, usable standalone or al… |
 
 ## Data source
 
