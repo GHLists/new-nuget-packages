@@ -12,26 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 19:20 UTC
+## Latest list — 2026-10-07 20:22 UTC
 
-New packages created between 2026-10-07 18:20 UTC and 2026-10-07 19:20 UTC.
+New packages created between 2026-10-07 19:20 UTC and 2026-10-07 20:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T19-20-01-040081Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T20-22-13-900913Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 18:22:53 | [ElBruno.LocalEmbeddings.EmbeddingGemma](https://www.nuget.org/packages/ElBruno.LocalEmbeddings.EmbeddingGemma) | 1.6.4 | Bruno Capuano | Local text embedding generation using Google's EmbeddingGemma 2 model and ONNX… |
-| 2026-10-07 18:28:44 | [Bitenovac.RemoteBuildTool](https://www.nuget.org/packages/Bitenovac.RemoteBuildTool) | 0.0.1 | Radivoje Milutinovic | Content-hashed build, test and coverage pipeline for the Bitenovac repository. |
-| 2026-10-07 18:33:27 | [ContractWatcher.Common](https://www.nuget.org/packages/ContractWatcher.Common) | 1.0.0 | a1unade | Shared contracts and common types used by ContractWatcher SDK and Core services. |
-| 2026-10-07 18:38:38 | [VerizonApimaticV4SDK](https://www.nuget.org/packages/VerizonApimaticV4SDK) | 0.0.1 | Muhammad Rafay | Sample SDKs for Verizon by APIMatic |
-| 2026-10-07 18:39:30 | [NucleusSms](https://www.nuget.org/packages/NucleusSms) | 1.0.1 | Nucleus | Provider-agnostic SMS send abstractions, options, provider registry, and DI ext… |
-| 2026-10-07 18:39:34 | [NucleusSmsTwilio](https://www.nuget.org/packages/NucleusSmsTwilio) | 1.0.1 | Nucleus | Twilio provider package for NucleusSms — sends SMS through Twilio Programmable… |
-| 2026-10-07 18:42:17 | [NucleusOtp](https://www.nuget.org/packages/NucleusOtp) | 1.0.1 | Nucleus | Typed client for the Nucleus platform service nucleus-otp-service (challenges,… |
-| 2026-10-07 18:51:48 | [VzimaticV4SDK](https://www.nuget.org/packages/VzimaticV4SDK) | 0.0.2 | Muhammad Rafay | Sample SDKs for Verizon by APIMatic |
-| 2026-10-07 18:54:18 | [LunaticPanel.DebugTool](https://www.nuget.org/packages/LunaticPanel.DebugTool) | 0.0.18 | Maksim Shimshon | Core Package for Lunatic Panel's PLugin |
-| 2026-10-07 19:02:22 | [Genocs.Fonet](https://www.nuget.org/packages/Genocs.Fonet) | 3.0.1 | Nocco Giovanni Emanuele | Fonet library to build PDFs by transforming XML documents through XSLT. |
-| 2026-10-07 19:02:22 | [Genocs.Fonet.XsltTransformer](https://www.nuget.org/packages/Genocs.Fonet.XsltTransformer) | 3.0.1 | Nocco Giovanni Emanuele | Fonet XSLT to PDF Transformer library. |
-| 2026-10-07 19:06:17 | [MediaInfo.Analysis.Rtsp](https://www.nuget.org/packages/MediaInfo.Analysis.Rtsp) | 26.10.0 | yartat | MediaInfo(Lib) is a convenient unified display of the most relevant technical a… |
+| 2026-10-07 19:21:06 | [Coree.Analyzers.CodeClarity](https://www.nuget.org/packages/Coree.Analyzers.CodeClarity) | 0.1.4 | Carsten Riedel | Roslyn analyzer for C# readability. CCCRC001 flags a return expression that exc… |
+| 2026-10-07 19:34:53 | [ShotDetector.Native.linux-arm64](https://www.nuget.org/packages/ShotDetector.Native.linux-arm64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for linux-arm64, built for decoding only (no en… |
+| 2026-10-07 19:34:54 | [ShotDetector.Native.linux-musl-x64](https://www.nuget.org/packages/ShotDetector.Native.linux-musl-x64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for linux-musl-x64, built for decoding only (no… |
+| 2026-10-07 19:34:55 | [ShotDetector.Native.linux-x64](https://www.nuget.org/packages/ShotDetector.Native.linux-x64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for linux-x64, built for decoding only (no enco… |
+| 2026-10-07 19:34:56 | [ShotDetector.Native.osx-arm64](https://www.nuget.org/packages/ShotDetector.Native.osx-arm64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for osx-arm64, built for decoding only (no enco… |
+| 2026-10-07 19:34:57 | [ShotDetector.Native.win-x64](https://www.nuget.org/packages/ShotDetector.Native.win-x64) | 0.7.0 | Jakob Boman | FFmpeg 8.1.3's shared libraries for win-x64, built for decoding only (no encode… |
+| 2026-10-07 19:50:20 | [OpenFeature.Providers.Flagd.Core](https://www.nuget.org/packages/OpenFeature.Providers.Flagd.Core) | 1.0.0 | Todd Baert | In-process flagd flag evaluation engine for .NET, for use by flagd providers |
+| 2026-10-07 19:51:31 | [CodeBrix.Platform.PlayTest.OpenGL.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Platform.PlayTest.OpenGL.ApacheLicenseForever) | 1.0.280.1176 | Jeremy Ellis and contributors | Real OpenGL contexts for PlayTest runs of applications that use the Graphics3DG… |
+| 2026-10-07 19:51:47 | [CQRSharp.RabbitMQ](https://www.nuget.org/packages/CQRSharp.RabbitMQ) | 5.1.0 | BisocM | A Native-AOT-compatible RabbitMQ transport for CQRSharp. Durable notifications… |
+| 2026-10-07 19:51:59 | [MobiOne.Security.Contracts](https://www.nuget.org/packages/MobiOne.Security.Contracts) | 5.0.1 | MobiOne.Security.Contracts | MobiOne application role and authorization contracts. |
 
 ## Data source
 
