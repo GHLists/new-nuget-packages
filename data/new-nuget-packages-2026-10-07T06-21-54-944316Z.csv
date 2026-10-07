@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-07T05:25:09.683Z,ComponentSpace.Saml2.Net.Extension.Database,1.0.0,ComponentSpace,Adds support for storing SAML session state in a database. Production use requires a commercial license.
+2026-10-07T05:28:51.13Z,EGO.Nimozyn,0.1.6-alpha,EGO.Nimozyn,Package Description
+2026-10-07T05:29:57.933Z,SheetizeMCPServer,26.9.0-beta,Smallize,An MCP server using the MCP C# SDK.
+2026-10-07T06:03:27.16Z,StanzaSharp.Tool,0.4.0,Jakob Boman,"The stanzasharp command: downloads Stanza's English models for StanzaSharp, checked against their MD5s, e.g. in a Dockerfile or CI. ""stanzasharp download DIR [--package default_fast] [--processors tokenize,mwt,pos]"". Needs no native libtorch."
+2026-10-07T06:07:32.68Z,SentenceTransformers.EmbeddingGemma2,26.10.6445,Curiosity GmbH,"A 100% managed, dependency-free (no LiteRT / TFLite runtime, no native tokenizer) port of Google's EmbeddingGemma 2 multimodal embedding family: embeddinggemma-2-text-270m, embeddinggemma-2-text-vision-440m and embeddinggemma-2-740m. Loads the official LiteRT-LM (.litertlm) bundles and runs the Sen…"
+2026-10-07T06:10:18.893Z,Deskling.Core,0.1.1,Vlad Mihalachi,"Pure building blocks for little desktop apps: an interval scheduler with active hours, quiet hours, idle reset and busy hold; clock, idle and busy provider interfaces; a seeded random source. No OS or UI dependencies."
+2026-10-07T06:10:19.383Z,Deskling.Windows,0.1.1,Vlad Mihalachi,"Windows services for little tray apps: a raw Shell_NotifyIcon tray icon host with a native menu, RegisterHotKey, GetLastInputInfo idle time, call and full-screen detection without opening a device, power source, output mute, appearance and session-lock signals, StartupTask, LocalSettings store, WAV…"
+2026-10-07T06:12:35.147Z,Mori.SkyScope.Blazor,0.1.0,Cristian Mori,"Blazor components for Mori.SkyScope (TrendChart, Gauge, Chart, SceneView) with the bundled web engine."
+2026-10-07T06:12:35.773Z,Mori.SkyScope.Core,0.1.0,Cristian Mori,"Headless engine for Mori.SkyScope: ring buffers, M4 decimation, SkyScopeFrame codec, scales, painter contract, trend chart, gauges, analytic charts, scene layers and source-plugin contracts."
+2026-10-07T06:12:36.3Z,Mori.SkyScope.Render.OpenTK,0.1.0,Cristian Mori,OpenGL (OpenTK) 3D painter for Mori.SkyScope: GlPainter3D implements IPainter3D with the same shaders as the WebGL2 renderer.
+2026-10-07T06:12:36.803Z,Mori.SkyScope.Render.Skia,0.1.0,Cristian Mori,"SkiaSharp painter for Mori.SkyScope (desktop rendering, offscreen snapshots)."
+2026-10-07T06:12:37.307Z,Mori.SkyScope.Sources.Mqtt,0.1.0,Cristian Mori,MQTT source plugin for Mori.SkyScope: topic filters with JSON-path extraction into signal channels (MQTTnet).
+2026-10-07T06:12:37.85Z,Mori.SkyScope.Sources.Ros2,0.1.0,Cristian Mori,ROS 2 source plugin for Mori.SkyScope: subscribes to topics through Mori.Ros2Sharp (pure managed RTPS) and feeds signals and scene layers.
+2026-10-07T06:12:38.35Z,Mori.SkyScope.Streaming,0.1.0,Cristian Mori,ASP.NET Core WebSocket broadcaster for Mori.SkyScope frames and scene layers.
+2026-10-07T06:12:38.87Z,Mori.SkyScope.WinForms,0.1.0,Cristian Mori,"Windows Forms controls for Mori.SkyScope: TrendChartControl with designer properties, GaugeControl, ChartControl, SceneControl, SignalTreeControl on SkiaSharp (CPU or OpenGL), SceneControl3D on OpenGL."
+2026-10-07T06:12:39.463Z,Mori.SkyScope.Wpf,0.1.0,Cristian Mori,"WPF controls for Mori.SkyScope: TrendChartControl, GaugeControl, ChartControl, SceneControl on SkiaSharp, SceneControl3D on OpenGL."
