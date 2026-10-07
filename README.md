@@ -12,22 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:20 UTC
+## Latest list — 2026-10-07 12:20 UTC
 
-New packages created between 2026-10-07 10:21 UTC and 2026-10-07 11:20 UTC.
+New packages created between 2026-10-07 11:20 UTC and 2026-10-07 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T11-20-57-779865Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-07T12-20-51-160502Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 10:27:56 | [Juit.Jurisprudence](https://www.nuget.org/packages/Juit.Jurisprudence) | 1.0.0 | loud-technology and contribut… | Modern, strongly typed .NET SDK for Juit Jurisprudence search and artifact down… |
-| 2026-10-07 10:28:50 | [Hexalith.Parties.AdminPortal](https://www.nuget.org/packages/Hexalith.Parties.AdminPortal) | 1.2.1 | Hexalith Contributors | FrontComposer-hosted Blazor administration portal for Hexalith.Parties. |
-| 2026-10-07 10:28:50 | [Hexalith.Parties.ConsumerPortal](https://www.nuget.org/packages/Hexalith.Parties.ConsumerPortal) | 1.2.1 | Hexalith Contributors | FrontComposer-hosted Blazor consumer portal for Hexalith.Parties. |
-| 2026-10-07 10:36:21 | [EpcQr.Net](https://www.nuget.org/packages/EpcQr.Net) | 1.0.0 | Israel Iyonsi | Correct, zero-dependency builder and parser for the EPC069-12 "Scan2Pay" QR pay… |
-| 2026-10-07 10:36:25 | [SwiftMt.Net](https://www.nuget.org/packages/SwiftMt.Net) | 1.0.0 | Israel Iyonsi | Correct, zero-dependency parser for SWIFT FIN MT messages (MT103, MT101, MT202)… |
-| 2026-10-07 10:38:36 | [FrogLogic](https://www.nuget.org/packages/FrogLogic) | 0.1.0 | FrogLogic contributors | Lightweight, generic, single-pass data cleaning and diagnostics for IEnumerable… |
-| 2026-10-07 10:45:00 | [Saci](https://www.nuget.org/packages/Saci) | 0.17.0 | saci | saci - Software Agent for Continuous Improvement: autonomous triager, developer… |
-| 2026-10-07 10:45:35 | [LilyDesignSystem.Blazor.LinkPicker](https://www.nuget.org/packages/LilyDesignSystem.Blazor.LinkPicker) | 0.1.0 | Joel Parker Henderson | Lily Design System Blazor link picker: an icon button (a home icon) opening a d… |
+| 2026-10-07 11:21:16 | [PaySuite.Sdk](https://www.nuget.org/packages/PaySuite.Sdk) | 0.1.1 | Lazaro Magaia | SDK .NET não oficial (comunitário) para a API PaySuite: pagamentos (M-Pesa, e-M… |
+| 2026-10-07 11:29:17 | [Mizzle.Generators](https://www.nuget.org/packages/Mizzle.Generators) | 0.1.0 | Jeff Sheldon | Roslyn generators and analyzers for Mizzle schema records, ordinal mappers, Hyb… |
+| 2026-10-07 11:29:17 | [Mizzle.Postgres](https://www.nuget.org/packages/Mizzle.Postgres) | 0.1.0 | Jeff Sheldon | PostgreSQL dialect, emitter, and Npgsql execute path for Mizzle. |
+| 2026-10-07 11:29:18 | [Mizzle.SqlServer](https://www.nuget.org/packages/Mizzle.SqlServer) | 0.1.0 | Jeff Sheldon | SQL Server dialect, emitter, and SqlClient execute path for Mizzle. |
+| 2026-10-07 11:29:18 | [Mizzle](https://www.nuget.org/packages/Mizzle) | 0.1.0 | Jeff Sheldon | Fluent SQL compiler core for Mizzle: immutable IR, builders, and dialect capabi… |
+| 2026-10-07 11:29:19 | [Mizzle.Cli](https://www.nuget.org/packages/Mizzle.Cli) | 0.1.0 | Jeff Sheldon | Command line tools for inspecting databases and generating Mizzle table classes. |
+| 2026-10-07 11:46:20 | [Xylocopadream.UI.Avalonia](https://www.nuget.org/packages/Xylocopadream.UI.Avalonia) | 0.1.5 | Xylocopadream | Avalonia theme and controls inspired by JetBrains Rider: dark palette, 16 px li… |
+| 2026-10-07 12:02:42 | [mu88.Shared.Testing](https://www.nuget.org/packages/mu88.Shared.Testing) | 8.5.0 | mu88 | This is a little helper NuGet package providing reusable test infrastructure sh… |
+| 2026-10-07 12:12:19 | [Durable.CosmosDb](https://www.nuget.org/packages/Durable.CosmosDb) | 0.7.0 | jchristn,joshclopton | Azure Cosmos DB for NoSQL backend for Durable ORM: store entities as JSON docum… |
+| 2026-10-07 12:12:20 | [Durable.DuckDb](https://www.nuget.org/packages/Durable.DuckDb) | 0.7.0 | jchristn,joshclopton | DuckDB provider for the Durable ORM (DuckDB.NET): dialect, embedded in-process… |
+| 2026-10-07 12:12:25 | [Durable.MongoDb](https://www.nuget.org/packages/Durable.MongoDb) | 0.7.0 | jchristn,joshclopton | MongoDB backend for Durable ORM: store entities in MongoDB collections with the… |
+| 2026-10-07 12:12:27 | [Durable.Oracle](https://www.nuget.org/packages/Durable.Oracle) | 0.7.0 | jchristn,joshclopton | Oracle Database provider for the Durable ORM (Oracle.ManagedDataAccess.Core): d… |
+| 2026-10-07 12:12:39 | [EpubManager.Writers.Literotica](https://www.nuget.org/packages/EpubManager.Writers.Literotica) | 1.0.0 | IrisDev | Literotica writer plugin for EpubManager. Auto-discovered; no setup needed. |
+| 2026-10-07 12:13:16 | [EpubManager](https://www.nuget.org/packages/EpubManager) | 1.0.0 | IrisDev | Build EPUBs from online stories. Install an EpubManager.Writers.* package for e… |
 
 ## Data source
 
