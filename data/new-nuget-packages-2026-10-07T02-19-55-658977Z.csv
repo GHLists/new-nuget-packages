@@ -1,0 +1,25 @@
+created_at,package,version,authors,description
+2026-10-07T01:32:50.287Z,Meshmakers.Octo.Services.ArtifactStorage,3.4.148,meshmakers GmbH and Contributors,"Artifact storage abstraction (IArtifactStore) for OctoMesh services with file system, S3 and Azure Blob providers"
+2026-10-07T01:32:53.723Z,Vali-Flow.NoSql.CosmosDb,1.1.0,Felipe Rafael Montenegro Morriberon,"Azure Cosmos DB (SQL API) adapter for Vali-Flow.NoSql — translates the provider-agnostic IR tree into a parameterized Cosmos SQL WHERE clause fragment. Use .ToCosmosDb() on any ValiFlow<T> or Expression<Func<T, bool>>."
+2026-10-07T01:32:54.72Z,Vali-Flow.NoSql.Couchbase,1.1.0,Felipe Rafael Montenegro Morriberon,"Couchbase adapter for Vali-Flow.NoSql — translates the provider-agnostic IR tree into a parameterized N1QL (SQL++) WHERE clause fragment. Use .ToCouchbase() on any ValiFlow<T> or Expression<Func<T, bool>>."
+2026-10-07T01:32:56.94Z,Vali-Flow.NoSql.Firestore,1.1.0,Felipe Rafael Montenegro Morriberon,"Google Cloud Firestore adapter for Vali-Flow.NoSql — translates the provider-agnostic IR tree into a native Google.Cloud.Firestore.Filter. Use .ToFirestore() on any ValiFlow<T> or Expression<Func<T, bool>>."
+2026-10-07T01:40:59.34Z,Microsoft.Mxc.Sdk,1.0.0,Microsoft,".NET SDK for MXC (Microsoft eXecution Container), including Windows, Linux, and macOS native runtime assets."
+2026-10-07T01:41:01.843Z,NetArcaWs.EntityFrameworkCore,0.6.0,NetArcaWs .NET contributors,Optional Entity Framework Core invoice journal and encrypted shared WSAA ticket store for NetArcaWs. Consumers select modules and manage schema migrations explicitly.
+2026-10-07T01:41:03.117Z,NetArcaWs.EntityFrameworkCore.MySql,0.6.0,NetArcaWs .NET contributors,Optional MySQL and MariaDB Entity Framework Core provider integration for NetArcaWs persistence.
+2026-10-07T01:41:04.35Z,NetArcaWs.EntityFrameworkCore.PostgreSql,0.6.0,NetArcaWs .NET contributors,Optional PostgreSQL Entity Framework Core provider integration for NetArcaWs persistence.
+2026-10-07T01:41:05.777Z,NetArcaWs.EntityFrameworkCore.SqlServer,0.6.0,NetArcaWs .NET contributors,Optional SQL Server Entity Framework Core provider integration for NetArcaWs persistence.
+2026-10-07T01:41:07.103Z,NetArcaWs.EntityFrameworkCore.Migrations.Sqlite,0.6.0,NetArcaWs .NET contributors,Official SQLite migrations for NetArcaWs Entity Framework Core persistence modules.
+2026-10-07T01:41:08.43Z,NetArcaWs.EntityFrameworkCore.Migrations.MySql,0.6.0,NetArcaWs .NET contributors,Official MySQL migrations for NetArcaWs Entity Framework Core persistence modules.
+2026-10-07T01:41:09.74Z,NetArcaWs.EntityFrameworkCore.Migrations.MariaDb,0.6.0,NetArcaWs .NET contributors,Official MariaDB migrations for NetArcaWs Entity Framework Core persistence modules.
+2026-10-07T01:41:11.22Z,NetArcaWs.EntityFrameworkCore.Migrations.PostgreSql,0.6.0,NetArcaWs .NET contributors,Official PostgreSQL migrations for NetArcaWs Entity Framework Core persistence modules.
+2026-10-07T01:41:12.507Z,NetArcaWs.EntityFrameworkCore.Migrations.SqlServer,0.6.0,NetArcaWs .NET contributors,Official SQL Server migrations for NetArcaWs Entity Framework Core persistence modules.
+2026-10-07T01:53:33.777Z,Wslc.Testcontainers.Modules.ClickHouse,0.3.0,Nick Nadolski,"ClickHouse module for Wslc.Testcontainers: typed builder, HTTP/native ports and a client connection string."
+2026-10-07T01:53:36.583Z,Wslc.Testcontainers.Modules.Elasticsearch,0.3.0,Nick Nadolski,Elasticsearch module for Wslc.Testcontainers: typed builder and HTTP endpoint.
+2026-10-07T01:53:42.797Z,Wslc.Testcontainers.Modules.Keycloak,0.3.0,Nick Nadolski,"Keycloak module for Wslc.Testcontainers: typed builder, HTTP endpoint and admin credentials."
+2026-10-07T01:53:43.98Z,Wslc.Testcontainers.Modules.MailPit,0.3.0,Nick Nadolski,Mailpit module for Wslc.Testcontainers: typed builder and SMTP/HTTP endpoints.
+2026-10-07T01:53:45.99Z,Wslc.Testcontainers.Modules.MongoDb,0.3.0,Nick Nadolski,MongoDB module for Wslc.Testcontainers: typed builder and connection string.
+2026-10-07T01:53:46.97Z,Wslc.Testcontainers.Modules.Nats,0.3.0,Nick Nadolski,NATS module for Wslc.Testcontainers: typed builder and connection string.
+2026-10-07T01:53:48.66Z,Wslc.Testcontainers.Modules.Qdrant,0.3.0,Nick Nadolski,"Qdrant module for Wslc.Testcontainers: typed builder, HTTP/gRPC ports and HTTP API endpoint."
+2026-10-07T01:53:51.2Z,Wslc.Testcontainers.Modules.RustFs,0.3.0,Nick Nadolski,RustFS module for Wslc.Testcontainers: typed builder and S3 endpoint.
+2026-10-07T01:53:53.07Z,Wslc.Testcontainers.Modules.Vault,0.3.0,Nick Nadolski,Vault module for Wslc.Testcontainers: typed builder and dev-mode address.
+2026-10-07T01:53:54.377Z,Wslc.Testcontainers.Modules.WireMock,0.3.0,Nick Nadolski,WireMock module for Wslc.Testcontainers: typed builder and HTTP endpoint for the WireMock API mock server.
