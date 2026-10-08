@@ -12,25 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 06:19 UTC
+## Latest list — 2026-10-08 07:19 UTC
 
-New packages created between 2026-10-08 05:20 UTC and 2026-10-08 06:19 UTC.
+New packages created between 2026-10-08 06:19 UTC and 2026-10-08 07:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T06-19-43-840948Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T07-19-06-991052Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 05:21:17 | [Jazmin.AspNetCore](https://www.nuget.org/packages/Jazmin.AspNetCore) | 1.2.0 | SmithSoft Pty Ltd | ASP.NET Core endpoints for JAZMIN (.jzm) files: MapJazminFiles serves a file's… |
-| 2026-10-08 05:28:45 | [DotNetCore.AiguilleUnit.Chinese](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Chinese) | 1.2.0 | DotNetCore.AiguilleUnit.Chine… | DotNetCore AiguilleUnit Chinese unit library |
-| 2026-10-08 05:28:51 | [DotNetCore.AiguilleUnit.Geo](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Geo) | 1.2.0 | DotNetCore.AiguilleUnit.Geo | DotNetCore AiguilleUnit geodetic and navigational unit library |
-| 2026-10-08 05:28:54 | [DotNetCore.AiguilleUnit.Imperial](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Imperial) | 1.2.0 | DotNetCore.AiguilleUnit.Imper… | DotNetCore AiguilleUnit Imperial unit library |
-| 2026-10-08 05:28:56 | [DotNetCore.AiguilleUnit.Science](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Science) | 1.2.0 | DotNetCore.AiguilleUnit.Scien… | DotNetCore AiguilleUnit scientific unit library |
-| 2026-10-08 05:34:01 | [PocketCsvReader.Json](https://www.nuget.org/packages/PocketCsvReader.Json) | 2.43.0 | Cédric L. Charlier | PocketCsvReader.Json is a lightweight streaming JSON document reader that expos… |
-| 2026-10-08 05:34:30 | [BrowserShell.WebView.Wpf](https://www.nuget.org/packages/BrowserShell.WebView.Wpf) | 2.0.0 | FlyingEyeOrg | BrowserShell：在 WindowChromeKit 的 ChromeWindow 上承载 WebView2 的桌面 Web 外壳类库。提供窗口创建与… |
-| 2026-10-08 05:37:29 | [Carbon.Data.Sql.Mocking](https://www.nuget.org/packages/Carbon.Data.Sql.Mocking) | 0.1.0 | Carbon.Data.Sql.Mocking | An in-memory MySQL fake for testing queries without a server. |
-| 2026-10-08 05:42:12 | [Jtext103.CFET2.Things.UniversalModbusThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.UniversalModbusThing) | 2.2.1 | Jtext103 | Configuration-driven Modbus RTU/TCP Thing for CFET2. |
-| 2026-10-08 05:57:33 | [RepoDb.Sqlite.Ahtola](https://www.nuget.org/packages/RepoDb.Sqlite.Ahtola) | 0.0.1-alpha1 | RepoDb.Sqlite.Ahtola | A hybrid .NET ORM library for Ahtola, a pure managed SQLite-compatible engine (… |
-| 2026-10-08 05:58:08 | [RepoDb.Sqlite.Turso](https://www.nuget.org/packages/RepoDb.Sqlite.Turso) | 0.0.1-alpha1 | RepoDb.Sqlite.Turso | A hybrid .NET ORM library for Turso (using Turso.Data.Sqlite.Provider). |
+| 2026-10-08 06:21:30 | [Database.Oracle](https://www.nuget.org/packages/Database.Oracle) | 1.0.0 | Dio Liew | An Oracle databse package wrapper. |
+| 2026-10-08 06:22:56 | [Database.Services](https://www.nuget.org/packages/Database.Services) | 1.0.0 | Dio Liew | A generic databse package wrapper. |
+| 2026-10-08 06:28:18 | [Beckhoff.TwinCAT.HMI.Industries.Utils.FaceplateObject](https://www.nuget.org/packages/Beckhoff.TwinCAT.HMI.Industries.Utils.FaceplateObject) | 1.0.3 | Beckhoff Automation GmbH & Co… | TwinCAT HMI is a development environment for web-based HMIs (Human Machine Inte… |
+| 2026-10-08 06:31:51 | [Org.Limitless.Seqeron](https://www.nuget.org/packages/Org.Limitless.Seqeron) | 0.11.0 | Fredrik Dahlberg | The seqeron client tier: follow a seqeron cluster's ordered stream and submit t… |
+| 2026-10-08 06:36:23 | [Galosys.Foundation.Elastic.Clients.Elasticsearch](https://www.nuget.org/packages/Galosys.Foundation.Elastic.Clients.Elasticsearch) | 26.10.8.1 | Galosys | Galosys.Foundation快速开发库 |
+| 2026-10-08 06:41:53 | [ProCode.Engine.Model](https://www.nuget.org/packages/ProCode.Engine.Model) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:41:55 | [ProCode.Plugin](https://www.nuget.org/packages/ProCode.Plugin) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:41:57 | [ProCode.License](https://www.nuget.org/packages/ProCode.License) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:41:59 | [ProCode.Engine.ML.Contracts](https://www.nuget.org/packages/ProCode.Engine.ML.Contracts) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:42:02 | [ProCode.Core](https://www.nuget.org/packages/ProCode.Core) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:42:04 | [ProCode.Engine](https://www.nuget.org/packages/ProCode.Engine) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:42:06 | [ProCode.Engine.ML.Client](https://www.nuget.org/packages/ProCode.Engine.ML.Client) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:42:08 | [ProCode.Engine.ML.Onnx](https://www.nuget.org/packages/ProCode.Engine.ML.Onnx) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:42:10 | [ProCode.Engine.Identity](https://www.nuget.org/packages/ProCode.Engine.Identity) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:42:12 | [ProCode.Mvc](https://www.nuget.org/packages/ProCode.Mvc) | 7.0.0.1 | ProCode | Package Description |
+| 2026-10-08 06:46:52 | [IFSBA](https://www.nuget.org/packages/IFSBA) | 2026.10.8.64641 | IFSBA | Package Description |
 
 ## Data source
 
