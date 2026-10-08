@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-08T14:27:02.47Z,EvaluatedApplications.Blazier,1.0.0,Evaluated Applications,"Lazy, scaffold-first Blazor WebAssembly for static hosts. Generates static HTML shells for your pages at publish time with HtmlRenderer, so a visitor sees real content in under a second without downloading the .NET runtime; boots the runtime only on intent (click, visibility, idle or immediately) w…"
+2026-10-08T14:31:42.57Z,Umbraco.Community.LogExplorer,18.0.0,Jack Stunell,A rich log explorer for the Umbraco backoffice and a drop-in replacement for the built-in Log Viewer.
+2026-10-08T14:31:43.157Z,Umbraco.Community.LogExplorer.Core,18.0.0,Jack Stunell,Provider contracts and shared logic for Umbraco Log Explorer. Reference this to write a log source provider.
+2026-10-08T14:31:55.22Z,tsr-StackedFlow,0.5.0,tesuri,RPN like Stacked pipeline for F#
+2026-10-08T14:36:29.1Z,VersionControlService.TextDiff,0.2.0,Caroline Ott,Pure incremental text decoding and scanning primitives for VersionControlService.
+2026-10-08T14:39:29.313Z,TechStrap.Client,0.1.0,Syntax Circus LLC,"Client SDK for TechStrap: submit support tickets to a TechStrap API from any .NET app, with an API key, retries and typed errors."
+2026-10-08T14:39:30.057Z,TechStrap.Contracts,0.1.0,Syntax Circus LLC,"Wire contracts for TechStrap: request and response types, header names, routes and limits shared by the API, the portal, the admin and the client SDK."
+2026-10-08T14:39:30.72Z,TechStrap.Client.Maui,0.1.0,Syntax Circus LLC,"Device and app metadata capture and a submit-ticket helper for MAUI apps, on top of TechStrap.Client."
+2026-10-08T14:47:01.8Z,ariankordi.OpenCvSharp4.runtime.ios,4.13.0.20261007,ariankordi,"Internal implementation package for OpenCvSharp to work on ios-arm64 and iossimulator-arm64. Modules: core,imgproc,imgcodecs"
+2026-10-08T14:49:17.167Z,uSync.AI.Complete,17.0.0,Kevin Jump,"Push and pull Umbraco.AI settings, prompts and agents between servers with uSync.Complete, and Umbraco.AI agent tools that drive the uSync.Complete publisher."
+2026-10-08T14:49:17.85Z,uSync.AI.Prompt,17.0.0,Kevin Jump,uSync handlers and serializers for Umbraco.AI.Prompt prompts.
+2026-10-08T14:55:44.3Z,uSync.Complete.AI,17.0.0,Kevin Jump,uSync.Complete for Umbraco.AI. Installs uSync.AI plus publisher push/pull and agent tools for uSync.Complete.
+2026-10-08T14:55:45.243Z,uSync.AI.Agent,17.0.0,Kevin Jump,uSync handlers and serializers for Umbraco.AI.Agent agents.
+2026-10-08T14:55:46.177Z,uSync.AI.Sync,17.0.0,Kevin Jump,"uSync handlers and serializers for Umbraco.AI connections, profiles, contexts, guardrails and settings."
+2026-10-08T14:55:47.007Z,uSync.AI,17.0.0,Kevin Jump,"uSync for Umbraco.AI. Installs settings, prompt and agent sync plus the uSync agent tools."
+2026-10-08T14:55:47.643Z,uSync.AI.Tools,17.0.0,Kevin Jump,"Umbraco.AI agent tools that run uSync reports, exports and imports, gated by the acting user's uSync permissions."
+2026-10-08T14:59:40.377Z,Shylonamylo.Tui,0.1.0,Shylonamylo,Simple TUI framework
+2026-10-08T15:00:27.79Z,Corner49.Infra.Hangfire,10.0.150,Corner49.Infra.Hangfire,Package Description
