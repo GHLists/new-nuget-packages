@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-08T10:22:05.6Z,TLio.Extensions.Looping,1.1.0,Frans van Ek,"TLio looping extension commands: forEach, while. Format-agnostic via INodeAdapter."
+2026-10-08T10:22:07.807Z,TLio.JsonPath,1.1.0,Frans van Ek,"Drop-in replacement for Newtonsoft's SelectToken/SelectTokens on System.Text.Json.Nodes.JsonNode: the same paths give the same nodes, in the same order, with the same errors — verified against Newtonsoft.Json itself. Full RFC 9535 (function extensions, I-Regexp) is there when you want the standard.…"
+2026-10-08T10:39:59.84Z,Packata-cli,0.43.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-08T10:41:48.49Z,Patware.Pipeline.Contracts,0.3.0,Patware,Transport-independent contracts for monitoring pipeline runs.
+2026-10-08T10:43:30.313Z,Patware.Pipeline.AspNetCore,0.3.0,Patware,ASP.NET Core endpoints for pipeline monitoring and retry.
+2026-10-08T10:43:45.647Z,Patware.Pipeline.HttpClient,0.3.0,Patware,HTTP client integration for remote pipeline monitoring.
+2026-10-08T10:56:00.987Z,mimic-browser,0.1.0,Mimic.Sdk,Verified Mimic runtime management and typed CDP extensions.
+2026-10-08T10:58:52.303Z,Pinqponq.Configuration.Vault,1.0.0,Pinqponq,"HashiCorp Vault configuration provider: loads one KV v2 record shaped like appsettings.json into IConfiguration at startup. Resolves the token the way the Vault CLI does (configuration, VAULT_TOKEN, ~/.vault-token)."
+2026-10-08T10:59:41.97Z,TALXIS.Platform.Metadata.DataMigration,0.12.0,TALXIS.Platform.Metadata.DataMigration,"Configuration Migration Tool (CMT) package model for Dataverse data migration: roundtrip-safe read/write of data_schema.xml and data.xml, schema building from a solution workspace, package merge and import order. Tooling only; the runtime does not load it."
+2026-10-08T11:01:49.17Z,OptimizelyCms13ReadinessScanner,1.0.0,Adnan Zameer,Pre-flight static analysis scanner for auditing Optimizely CMS 12 codebases ahead of CMS 13 upgrades.
+2026-10-08T11:04:26.66Z,Lycen,0.4.4,NRTH,"Lycen runtime licensing for .NET: signed entitlements, grants, installation identity, offline licensing and runtime enforcement."
+2026-10-08T11:04:27.88Z,Lycen.AspNetCore,0.4.4,NRTH,Lycen ASP.NET Core integration for runtime licensing headers and domain validation.
+2026-10-08T11:04:29.073Z,Lycen.Remote,0.4.4,NRTH,Remote and hybrid certificate delivery for Lycen. Optional — only required for Online and Hybrid delivery modes.
+2026-10-08T11:04:36.497Z,Lycen.Grants,0.4.4,NRTH,Lycen grant models and abstractions for runtime licensing entitlements and usage.
+2026-10-08T11:04:37.753Z,Lycen.Metering,0.4.4,NRTH,Lycen usage metering abstractions and local ledger implementations for runtime licensing.
+2026-10-08T11:04:39Z,Lycen.Storage,0.4.4,NRTH,"Lycen provider-neutral client-side storage abstractions for artifacts, grants, usage, imports, and caches."
+2026-10-08T11:04:40.173Z,Lycen.Storage.EntityFramework,0.4.4,NRTH,Lycen provider-neutral Entity Framework Core storage support for runtime licensing.
+2026-10-08T11:04:43.097Z,Lycen.Sync,0.4.4,NRTH,"Lycen issuer activation, synchronization, and usage upload contracts for runtime licensing."
