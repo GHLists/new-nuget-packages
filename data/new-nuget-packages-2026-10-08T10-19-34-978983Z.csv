@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-08T09:31:53.183Z,nanoFramework.Iot.Device.Text2Speech,1.0.1,nanoFramework,"Language-neutral integer formant speech synthesis, PCM streaming, segmentation contracts, and WAV support for .NET nanoFramework C# projects."
+2026-10-08T09:32:00.123Z,Sermofur,0.1.1,Jonathan Rouquette,"Local cognitive runtime: isolated, contestable epistemic memory with a CLI and inspectable storage."
+2026-10-08T09:32:12.363Z,nanoFramework.Iot.Device.Text2Speech.English,1.0.1,nanoFramework,"Text2Speech core plus compact English normalization, number expansion, spelling-to-phoneme rules, and acoustic definitions for Text2Speech on .NET nanoFramework."
+2026-10-08T09:32:15.737Z,nanoFramework.Iot.Device.Text2Speech.French,1.0.1,nanoFramework,"Text2Speech core plus compact French normalization, cardinal expansion, spelling-to-phoneme rules, and acoustic definitions for Text2Speech on .NET nanoFramework."
+2026-10-08T09:36:07.6Z,Weathercloud,1.0.0,MauroDruwel,C# SDK for the Weathercloud API
+2026-10-08T09:50:13.117Z,PocketCsvReader.Arrow,2.45.0,Cédric L. Charlier,Streams PocketCsvReader inputs as typed Apache Arrow record batches.
+2026-10-08T09:56:51.913Z,OBaseSign,26.10.11,Oesam Technology,"Sign language for the OBase Framework: text to sign (instruction steps played by a stick-figure avatar) and sign to text (camera keypoints in the browser, nearest recorded sample on the server)."
+2026-10-08T10:04:35.273Z,StockSharp.DesktopDriver.Avalonia,1.0.0,StockSharp,"Reads, drives and pictures Avalonia controls for StockSharp DesktopDriver."
+2026-10-08T10:04:36.09Z,StockSharp.DesktopDriver.Avalonia.Dock,1.0.0,StockSharp,"Reads a Dock.Avalonia workspace for StockSharp DesktopDriver: its groups, its panels and where each panel's content is."
+2026-10-08T10:04:36.95Z,StockSharp.DesktopDriver.Avalonia.Headless,1.0.0,StockSharp,"Input backend for headless Avalonia, used by tests rather than by shipped applications."
+2026-10-08T10:04:37.747Z,StockSharp.DesktopDriver.Avalonia.ProDataGrid,1.0.0,StockSharp,"Reads an Avalonia DataGrid from ProDataGrid as a table for StockSharp DesktopDriver: columns, the rows it shows, groups and cells."
+2026-10-08T10:04:38.613Z,StockSharp.DesktopDriver.Bootstrap.Avalonia,1.0.0,StockSharp,"Turns an Avalonia application into one that can be driven, when it is started that way."
+2026-10-08T10:04:39.463Z,StockSharp.DesktopDriver.Bootstrap.Maui,1.0.0,StockSharp,Turns a MAUI application into one that can be driven.
+2026-10-08T10:04:40.27Z,StockSharp.DesktopDriver.Bootstrap.Wpf,1.0.0,StockSharp,Turns a WPF application into one that can be driven.
+2026-10-08T10:04:41.197Z,StockSharp.DesktopDriver.Cli,1.0.0,StockSharp,Reads and drives a running desktop application from a command line.
+2026-10-08T10:04:41.993Z,StockSharp.DesktopDriver.Client,1.0.0,StockSharp,"The typed client a test, a command line or an agent talks to an application through."
+2026-10-08T10:04:42.867Z,StockSharp.DesktopDriver.Contracts,1.0.0,StockSharp,Transport-neutral contracts of the StockSharp DesktopDriver protocol.
+2026-10-08T10:04:43.697Z,StockSharp.DesktopDriver.Host,1.0.0,StockSharp,The local endpoint an application opens when it is started for automation.
+2026-10-08T10:04:44.493Z,StockSharp.DesktopDriver.Maui,1.0.0,StockSharp,"Reads, drives and pictures MAUI controls for StockSharp DesktopDriver."
+2026-10-08T10:04:45.507Z,StockSharp.DesktopDriver.Mcp,1.0.0,StockSharp,Lets an agent read and drive desktop applications over MCP.
+2026-10-08T10:04:46.303Z,StockSharp.DesktopDriver.Runner,1.0.0,StockSharp,"Finds, starts and reaches the desktop applications that can be driven."
+2026-10-08T10:04:47.14Z,StockSharp.DesktopDriver.Runtime,1.0.0,StockSharp,"Reading, identity, revisions and waiting: the toolkit-neutral core of StockSharp DesktopDriver."
+2026-10-08T10:04:47.923Z,StockSharp.DesktopDriver.Testing,1.0.0,StockSharp,What a test needs on top of the runner: reporting a machine that will not accept input.
+2026-10-08T10:04:48.75Z,StockSharp.DesktopDriver.Wpf,1.0.0,StockSharp,"Reads, drives and pictures WPF controls for StockSharp DesktopDriver."
+2026-10-08T10:09:52.197Z,Bimo.Tools,1.1.0,BIMO Tools,A library containing common types and abstractions for BIMO tools.
