@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-08T04:22:58.333Z,PiSharp.Compatibility.Node,0.99.1,PiSharp contributors,Optional Node.js bridge for Pi TypeScript extensions in PiSharp. Requires Node.js. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:22:58.907Z,PiSharp.Rpc,0.99.1,PiSharp contributors,JSON RPC protocol over stdin/stdout for PiSharp. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:22:59.36Z,PiSharp.Contracts,0.99.1,PiSharp contributors,"Shared message, streaming and JSON contracts for PiSharp. Compatibility is limited to recorded acceptance evidence."
+2026-10-08T04:22:59.88Z,PiSharp.AI,0.99.1,PiSharp contributors,Streaming LLM provider transports and model catalog for PiSharp. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:00.38Z,PiSharp.CodingAgent,0.99.1,PiSharp contributors,Coding-agent profile with persistent sessions and recovery for PiSharp. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:00.973Z,PiSharp.Extensions.Abstractions,0.99.1,PiSharp contributors,Native .NET extension contracts for PiSharp. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:01.447Z,PiSharp.Tools,0.99.1,PiSharp contributors,Built-in file and process tools for PiSharp. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:02.073Z,PiSharp.Tui,0.99.1,PiSharp contributors,"Terminal UI components, input and rendering for PiSharp. Compatibility is limited to recorded acceptance evidence."
+2026-10-08T04:23:02.57Z,PiSharp.Extensions.Runtime,0.99.1,PiSharp contributors,"Native .NET extension discovery, loading and dispatch for PiSharp. Compatibility is limited to recorded acceptance evidence."
+2026-10-08T04:23:03.25Z,PiSharp.Cli,0.99.1,PiSharp contributors,Independent native .NET 10 port of Pi; preview compatibility remains scoped to recorded evidence.
+2026-10-08T04:23:03.73Z,PiSharp.PromptTemplates.Yaml,0.99.1,PiSharp contributors,YAML frontmatter support for PiSharp prompt templates. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:04.28Z,PiSharp.Extensions.Agent,0.99.1,PiSharp contributors,Connects PiSharp extension hooks to the agent loop. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:04.813Z,PiSharp.ExtensionHost,0.99.1,PiSharp contributors,Supervised out-of-process extension workers for PiSharp. Compatibility is limited to recorded acceptance evidence.
+2026-10-08T04:23:05.323Z,PiSharp.Agent,0.99.1,PiSharp contributors,"Agent loop, tool invocation and input queues for PiSharp. Compatibility is limited to recorded acceptance evidence."
+2026-10-08T04:23:05.78Z,PiSharp.Sessions,0.99.1,PiSharp contributors,"Tree-structured session storage, compaction and context for PiSharp. Compatibility is limited to recorded acceptance evidence."
+2026-10-08T04:43:24.477Z,SubtitleExtractslator.Cli.linux-arm64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:26.523Z,SubtitleExtractslator.Cli.linux-musl-arm64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:28.67Z,SubtitleExtractslator.Cli.linux-musl-x64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:31Z,SubtitleExtractslator.Cli.linux-x64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:34.853Z,SubtitleExtractslator.Cli.osx-arm64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:36.57Z,SubtitleExtractslator.Cli.osx-x64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:38.913Z,SubtitleExtractslator.Cli.win-arm64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:43:41.107Z,SubtitleExtractslator.Cli.win-x64,0.2.1-beta,Wayne Wang 韦恩卑鄙,"SubtitleExtractslator portable CLI runtime for subtitle probe, extraction, OpenSubtitles lookup, and translation workflows."
+2026-10-08T04:52:57.67Z,Dapplo.Windows.Automation,3.3.5,Dapplo,"UI Automation helpers for Dapplo.Windows, e.g. scrolling windows which draw their own scroll bars (browsers, Electron, WPF, WinUI, Office) for a scrolling capture. Uses the native UI Automation COM API, no WPF needed."
+2026-10-08T05:02:05.973Z,myra-export,1.6.7,MyraTeam,"UI Library for MonoGame, FNA and Stride"
