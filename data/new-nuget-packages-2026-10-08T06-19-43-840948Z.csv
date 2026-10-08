@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-08T05:21:17.77Z,Jazmin.AspNetCore,1.2.0,SmithSoft Pty Ltd,"ASP.NET Core endpoints for JAZMIN (.jzm) files: MapJazminFiles serves a file's embedded files (invoices, photos, videos) per key, with byte ranges, ETags and a sandbox for stored pages."
+2026-10-08T05:28:45.643Z,DotNetCore.AiguilleUnit.Chinese,1.2.0,DotNetCore.AiguilleUnit.Chinese,DotNetCore AiguilleUnit Chinese unit library
+2026-10-08T05:28:51.087Z,DotNetCore.AiguilleUnit.Geo,1.2.0,DotNetCore.AiguilleUnit.Geo,DotNetCore AiguilleUnit geodetic and navigational unit library
+2026-10-08T05:28:54.157Z,DotNetCore.AiguilleUnit.Imperial,1.2.0,DotNetCore.AiguilleUnit.Imperial,DotNetCore AiguilleUnit Imperial unit library
+2026-10-08T05:28:56.507Z,DotNetCore.AiguilleUnit.Science,1.2.0,DotNetCore.AiguilleUnit.Science,DotNetCore AiguilleUnit scientific unit library
+2026-10-08T05:34:01.46Z,PocketCsvReader.Json,2.43.0,Cédric L. Charlier,PocketCsvReader.Json is a lightweight streaming JSON document reader that exposes top-level objects and array elements through IDataReader and the PocketCsvReader materialization APIs.
+2026-10-08T05:34:30.963Z,BrowserShell.WebView.Wpf,2.0.0,FlyingEyeOrg,BrowserShell：在 WindowChromeKit 的 ChromeWindow 上承载 WebView2 的桌面 Web 外壳类库。提供窗口创建与跟踪、导航、加载呈现、关闭裁决与页面控制桥；不含任何业务协议。需要 Windows 10 及以上（含 Windows 11）。
+2026-10-08T05:37:29.54Z,Carbon.Data.Sql.Mocking,0.1.0,Carbon.Data.Sql.Mocking,An in-memory MySQL fake for testing queries without a server.
+2026-10-08T05:42:12.307Z,Jtext103.CFET2.Things.UniversalModbusThing,2.2.1,Jtext103,Configuration-driven Modbus RTU/TCP Thing for CFET2.
+2026-10-08T05:57:33.043Z,RepoDb.Sqlite.Ahtola,0.0.1-alpha1,RepoDb.Sqlite.Ahtola,"A hybrid .NET ORM library for Ahtola, a pure managed SQLite-compatible engine (using Devolutions.Ahtola.Data.Sqlite)."
+2026-10-08T05:58:08.433Z,RepoDb.Sqlite.Turso,0.0.1-alpha1,RepoDb.Sqlite.Turso,A hybrid .NET ORM library for Turso (using Turso.Data.Sqlite.Provider).
