@@ -12,28 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:20 UTC
+## Latest list — 2026-10-08 00:18 UTC
 
-New packages created between 2026-10-07 22:20 UTC and 2026-10-07 23:20 UTC.
+New packages created between 2026-10-07 23:20 UTC and 2026-10-08 00:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-07T23-20-33-88202Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T00-18-54-334471Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 22:27:01 | [TKWF.Federation.DingTalk](https://www.nuget.org/packages/TKWF.Federation.DingTalk) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：钉钉开放平台双向网关（新 OAuth2 身份获取 +… |
-| 2026-10-07 22:27:01 | [TKWF.Federation.Google](https://www.nuget.org/packages/TKWF.Federation.Google) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：Google 平台网关——基于通用 OIDC 基座（… |
-| 2026-10-07 22:27:01 | [TKWF.Federation.Microsoft](https://www.nuget.org/packages/TKWF.Federation.Microsoft) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：Microsoft Entra ID 平台网关——基… |
-| 2026-10-07 22:27:02 | [TKWF.Federation.Oidc](https://www.nuget.org/packages/TKWF.Federation.Oidc) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关基座库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：通用 OIDC 通道基座（Discovery 配… |
-| 2026-10-07 22:27:02 | [TKWF.Federation.QQ](https://www.nuget.org/packages/TKWF.Federation.QQ) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：QQ 互联身份获取网关（出站-only——OAuth… |
-| 2026-10-07 22:27:02 | [TKWF.Federation.WeChat](https://www.nuget.org/packages/TKWF.Federation.WeChat) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：微信公众平台双向网关（OAuth 身份获取 + 事件… |
-| 2026-10-07 22:27:03 | [TKWF.Federation.WeCom](https://www.nuget.org/packages/TKWF.Federation.WeCom) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：企业微信（WeCom）双向网关（双授权流 Webvi… |
-| 2026-10-07 22:39:44 | [FSharp.Astro.Fits](https://www.nuget.org/packages/FSharp.Astro.Fits) | 0.1.0 | Leo Conforti | A FITS (Flexible Image Transport System) library for F#. Strict by default, laz… |
-| 2026-10-07 22:39:44 | [FSharp.Astro.Units](https://www.nuget.org/packages/FSharp.Astro.Units) | 0.1.0 | Leo Conforti | Units of measure for astronomy in F#: parsecs, arcseconds, janskys, solar masse… |
-| 2026-10-07 22:41:31 | [Komento.OpenFeature.AspNetCore](https://www.nuget.org/packages/Komento.OpenFeature.AspNetCore) | 0.3.0-alpha | yanpitangui | Per-request OpenFeature transaction context built from Komento's ASP.NET Core e… |
-| 2026-10-07 22:41:33 | [Komento.Sinks](https://www.nuget.org/packages/Komento.Sinks) | 0.3.0-alpha | yanpitangui | Batched, isolated sinks for Komento exposures and conversions. |
-| 2026-10-07 22:47:45 | [Fable.Giraffe.Beam](https://www.nuget.org/packages/Fable.Giraffe.Beam) | 5.5.1 | Fable.Giraffe.Beam | Giraffe for Fable BEAM (Cowboy) |
-| 2026-10-07 22:56:33 | [Snail.Toolkit.SignalR.Reactive.Client](https://www.nuget.org/packages/Snail.Toolkit.SignalR.Reactive.Client) | 2.0.0 | Toolkit | The client side of reactive SignalR transfers: a sender and a receiver over a H… |
-| 2026-10-07 22:56:33 | [Snail.Toolkit.SignalR.Reactive.Server](https://www.nuget.org/packages/Snail.Toolkit.SignalR.Reactive.Server) | 2.0.0 | Toolkit | The hub side of reactive SignalR transfers: the routing hub, the transfers it h… |
+| 2026-10-07 23:33:49 | [HyperTabular](https://www.nuget.org/packages/HyperTabular) | 0.7.0 | Brian Buvinghausen | Forward-only delimited text (CSV, TSV, any ASCII separator) and workbooks (XLSX… |
+| 2026-10-07 23:43:03 | [Narula.Data.Abstractions](https://www.nuget.org/packages/Narula.Data.Abstractions) | 1.0.0 | John Narula | Common contracts for Narula data access: IDataSource, IMigration, MigrationRunn… |
+| 2026-10-07 23:43:15 | [Narula.Data.Sqlite](https://www.nuget.org/packages/Narula.Data.Sqlite) | 1.0.0 | John Narula | SQLite implementation of Narula.Data.Abstractions: SqliteDataSource with WAL mo… |
+| 2026-10-07 23:48:47 | [AdvanceSoftware.ExcelCreator.Xlsx.CreatorExpress.Linux](https://www.nuget.org/packages/AdvanceSoftware.ExcelCreator.Xlsx.CreatorExpress.Linux) | 12.0.4 | AdvanceSoftware | ExcelCreator は、プログラム上で Excel ファイルを高速に生成する Excel ファイル生成コンポーネントです。独自の技術で Excel ファ… |
+| 2026-10-07 23:49:15 | [AdvanceSoftware.ExcelCreator.Creator.Linux](https://www.nuget.org/packages/AdvanceSoftware.ExcelCreator.Creator.Linux) | 12.0.4 | AdvanceSoftware | ExcelCreator は、プログラム上で Excel ファイルを高速に生成する Excel ファイル生成コンポーネントです。独自の技術で Excel ファ… |
+| 2026-10-07 23:49:43 | [AdvanceSoftware.ExcelCreator.BarCode.Linux](https://www.nuget.org/packages/AdvanceSoftware.ExcelCreator.BarCode.Linux) | 12.0.4 | AdvanceSoftware | ExcelCreator は、プログラム上で Excel ファイルを高速に生成する Excel ファイル生成コンポーネントです。独自の技術で Excel ファ… |
+| 2026-10-07 23:53:32 | [AdvanceSoftware.ASReport.CellReport.Linux](https://www.nuget.org/packages/AdvanceSoftware.ASReport.CellReport.Linux) | 12.0.4 | AdvanceSoftware | AS-Report は、帳票レイアウトを Excel で作成し、プログラム上でデータの差し込みや出力を行う帳票ツールです。帳票ツール独自のデザイナ機能を覚える… |
+| 2026-10-07 23:53:59 | [AdvanceSoftware.ASReport.BarCode.Linux](https://www.nuget.org/packages/AdvanceSoftware.ASReport.BarCode.Linux) | 12.0.4 | AdvanceSoftware | AS-Report は、帳票レイアウトを Excel で作成し、プログラム上でデータの差し込みや出力を行う帳票ツールです。帳票ツール独自のデザイナ機能を覚える… |
+| 2026-10-07 23:58:45 | [AdvanceSoftware.ASDataReport.Core](https://www.nuget.org/packages/AdvanceSoftware.ASDataReport.Core) | 1.0.0 | AdvanceSoftware | AS-DataReport は、帳票レイアウトを Excel で作成し、プログラム上でデータの差し込みや出力を行う帳票ツールです。帳票ツール独自のデザイナ機能… |
+| 2026-10-08 00:01:03 | [CP.ReactiveUI.Primitives.Windows](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows) | 1.0.0 | Chris Pulman | Composable Windows desktop capabilities with observable messages, input, device… |
+| 2026-10-08 00:01:05 | [CP.ReactiveUI.Primitives.Windows.Core](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows.Core) | 1.0.0 | Chris Pulman | Foundational Windows primitives, native interop, safe handles, registry monitor… |
+| 2026-10-08 00:01:06 | [CP.ReactiveUI.Primitives.Windows.Integrations](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows.Integrations) | 1.0.0 | Chris Pulman | Optional Windows integrations for Citrix lifecycle, virtual-channel IPC, CCM/WT… |
+| 2026-10-08 00:01:07 | [CP.ReactiveUI.Primitives.Windows.Reactive](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows.Reactive) | 1.0.0 | Chris Pulman | System.Reactive-flavoured build of the composable Windows desktop capabilities. |
+| 2026-10-08 00:11:09 | [TL.KeysetPagination](https://www.nuget.org/packages/TL.KeysetPagination) | 0.5.0 | Thaylon Lopes | Biblioteca para paginação avançada (Offset e Cursor) e composição booleana de f… |
+| 2026-10-08 00:12:39 | [Eryri.WriteAheadLog](https://www.nuget.org/packages/Eryri.WriteAheadLog) | 1.0.0 | Osian Linton | A lightweight, high-performance **write-ahead log (WAL)** for .NET applications… |
 
 ## Data source
 
