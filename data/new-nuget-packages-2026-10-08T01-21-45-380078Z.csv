@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-08T00:39:33.003Z,SejilSQL,3.1.4,"Alaa Masoud, Dany Côté","Collect the logs of your ASP.NET Core applications in SQL Server (Serilog) and browse, search and filter them in a web viewer served by the application itself. Fork of Sejil by Alaa Masoud."
+2026-10-08T00:57:51.103Z,CodeBrix.TomlParse.BsdLicenseForever,1.0.281.57,Jeremy Ellis,"A fully managed, high-performance TOML 1.1 library for .NET: read, parse, update and create .toml files. A lossless, round-trippable syntax tree, an untyped TomlTable document model, and a System.Text.Json-style object serializer with attributes, converters, polymorphism and precise error locations…"
+2026-10-08T01:13:26.933Z,CodeBrix.Platform.GameEngine.CardsAndDice.MitLicenseForever,1.0.281.72,Jeremy Ellis,"Cards, decks, dice, animated tabletop interactions, and embedded SVG artwork for CodeBrix.Platform.GameEngine."

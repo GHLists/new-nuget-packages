@@ -12,29 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 00:18 UTC
+## Latest list — 2026-10-08 01:21 UTC
 
-New packages created between 2026-10-07 23:20 UTC and 2026-10-08 00:18 UTC.
+New packages created between 2026-10-08 00:18 UTC and 2026-10-08 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T00-18-54-334471Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T01-21-45-380078Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-07 23:33:49 | [HyperTabular](https://www.nuget.org/packages/HyperTabular) | 0.7.0 | Brian Buvinghausen | Forward-only delimited text (CSV, TSV, any ASCII separator) and workbooks (XLSX… |
-| 2026-10-07 23:43:03 | [Narula.Data.Abstractions](https://www.nuget.org/packages/Narula.Data.Abstractions) | 1.0.0 | John Narula | Common contracts for Narula data access: IDataSource, IMigration, MigrationRunn… |
-| 2026-10-07 23:43:15 | [Narula.Data.Sqlite](https://www.nuget.org/packages/Narula.Data.Sqlite) | 1.0.0 | John Narula | SQLite implementation of Narula.Data.Abstractions: SqliteDataSource with WAL mo… |
-| 2026-10-07 23:48:47 | [AdvanceSoftware.ExcelCreator.Xlsx.CreatorExpress.Linux](https://www.nuget.org/packages/AdvanceSoftware.ExcelCreator.Xlsx.CreatorExpress.Linux) | 12.0.4 | AdvanceSoftware | ExcelCreator は、プログラム上で Excel ファイルを高速に生成する Excel ファイル生成コンポーネントです。独自の技術で Excel ファ… |
-| 2026-10-07 23:49:15 | [AdvanceSoftware.ExcelCreator.Creator.Linux](https://www.nuget.org/packages/AdvanceSoftware.ExcelCreator.Creator.Linux) | 12.0.4 | AdvanceSoftware | ExcelCreator は、プログラム上で Excel ファイルを高速に生成する Excel ファイル生成コンポーネントです。独自の技術で Excel ファ… |
-| 2026-10-07 23:49:43 | [AdvanceSoftware.ExcelCreator.BarCode.Linux](https://www.nuget.org/packages/AdvanceSoftware.ExcelCreator.BarCode.Linux) | 12.0.4 | AdvanceSoftware | ExcelCreator は、プログラム上で Excel ファイルを高速に生成する Excel ファイル生成コンポーネントです。独自の技術で Excel ファ… |
-| 2026-10-07 23:53:32 | [AdvanceSoftware.ASReport.CellReport.Linux](https://www.nuget.org/packages/AdvanceSoftware.ASReport.CellReport.Linux) | 12.0.4 | AdvanceSoftware | AS-Report は、帳票レイアウトを Excel で作成し、プログラム上でデータの差し込みや出力を行う帳票ツールです。帳票ツール独自のデザイナ機能を覚える… |
-| 2026-10-07 23:53:59 | [AdvanceSoftware.ASReport.BarCode.Linux](https://www.nuget.org/packages/AdvanceSoftware.ASReport.BarCode.Linux) | 12.0.4 | AdvanceSoftware | AS-Report は、帳票レイアウトを Excel で作成し、プログラム上でデータの差し込みや出力を行う帳票ツールです。帳票ツール独自のデザイナ機能を覚える… |
-| 2026-10-07 23:58:45 | [AdvanceSoftware.ASDataReport.Core](https://www.nuget.org/packages/AdvanceSoftware.ASDataReport.Core) | 1.0.0 | AdvanceSoftware | AS-DataReport は、帳票レイアウトを Excel で作成し、プログラム上でデータの差し込みや出力を行う帳票ツールです。帳票ツール独自のデザイナ機能… |
-| 2026-10-08 00:01:03 | [CP.ReactiveUI.Primitives.Windows](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows) | 1.0.0 | Chris Pulman | Composable Windows desktop capabilities with observable messages, input, device… |
-| 2026-10-08 00:01:05 | [CP.ReactiveUI.Primitives.Windows.Core](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows.Core) | 1.0.0 | Chris Pulman | Foundational Windows primitives, native interop, safe handles, registry monitor… |
-| 2026-10-08 00:01:06 | [CP.ReactiveUI.Primitives.Windows.Integrations](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows.Integrations) | 1.0.0 | Chris Pulman | Optional Windows integrations for Citrix lifecycle, virtual-channel IPC, CCM/WT… |
-| 2026-10-08 00:01:07 | [CP.ReactiveUI.Primitives.Windows.Reactive](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows.Reactive) | 1.0.0 | Chris Pulman | System.Reactive-flavoured build of the composable Windows desktop capabilities. |
-| 2026-10-08 00:11:09 | [TL.KeysetPagination](https://www.nuget.org/packages/TL.KeysetPagination) | 0.5.0 | Thaylon Lopes | Biblioteca para paginação avançada (Offset e Cursor) e composição booleana de f… |
-| 2026-10-08 00:12:39 | [Eryri.WriteAheadLog](https://www.nuget.org/packages/Eryri.WriteAheadLog) | 1.0.0 | Osian Linton | A lightweight, high-performance **write-ahead log (WAL)** for .NET applications… |
+| 2026-10-08 00:39:33 | [SejilSQL](https://www.nuget.org/packages/SejilSQL) | 3.1.4 | Alaa Masoud, Dany Côté | Collect the logs of your ASP.NET Core applications in SQL Server (Serilog) and… |
+| 2026-10-08 00:57:51 | [CodeBrix.TomlParse.BsdLicenseForever](https://www.nuget.org/packages/CodeBrix.TomlParse.BsdLicenseForever) | 1.0.281.57 | Jeremy Ellis | A fully managed, high-performance TOML 1.1 library for .NET: read, parse, updat… |
+| 2026-10-08 01:13:26 | [CodeBrix.Platform.GameEngine.CardsAndDice.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.Platform.GameEngine.CardsAndDice.MitLicenseForever) | 1.0.281.72 | Jeremy Ellis | Cards, decks, dice, animated tabletop interactions, and embedded SVG artwork fo… |
 
 ## Data source
 
