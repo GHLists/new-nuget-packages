@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-08T11:22:33.953Z,mimic-browser.Playwright,0.1.0,Mimic.Playwright,Package Description
+2026-10-08T11:28:00.133Z,mimic-browser.PuppeteerSharp,0.1.0,Mimic.PuppeteerSharp,Package Description
+2026-10-08T11:31:16.03Z,E2E.XUnit.V3,0.2.0,hardkoded,"xUnit v3 fixture for the E2E .NET port. Each test gets an engine session, and the replay cache commits from the xUnit result."
+2026-10-08T11:31:32.96Z,GonFox.GameBoy.Platform.Android,1.0.0,machi_pon,"Android host support for GonFox.GameBoy (AudioTrack output, storage, haptics, rumble)"
+2026-10-08T11:31:33.81Z,GonFox.GameBoy.Platform.Windows,1.0.0,machi_pon,"Windows host support for GonFox.GameBoy (WASAPI audio output, storage, settings)"
+2026-10-08T11:31:34.603Z,GonFox.GameBoy.Core,1.0.0,machi_pon,Game Boy (DMG) emulator core
+2026-10-08T11:31:35.407Z,GonFox.GameBoy.Platform.Shared,1.0.0,machi_pon,"Platform-neutral host support for GonFox.GameBoy (run thread, session, frames, audio queue, saves, state slots)"
+2026-10-08T11:44:01.12Z,SuperScrapers.Contracts,1.3.11,Appliman,"Public requests, responses and contracts for the SuperScrapers network."
+2026-10-08T11:44:02.14Z,SuperScrapers.Client,1.3.11,Appliman,Typed client for the SuperScrapers network.
+2026-10-08T11:46:48.063Z,ThrottleDebounce.SourceGenerators,1.0.2,Carlos,Prism MVVM ThrottleDebounceCommandGenerator
+2026-10-08T11:47:48.923Z,DotNetBrowser.AgentSkills,4.3.3,TeamDev Ltd.,"The DotNetBrowser agent skill for AI coding agents such as Claude Code, Codex, Cursor, and GitHub Copilot: rules, the API reference, and an offline copy of the DotNetBrowser documentation for the same version as this package. The package adds no assemblies to your application. Set DotNetBrowserAgen…"
+2026-10-08T11:50:20.447Z,MonoGame.Runtime.Linux.DesktopGL4,3.8.6,MonoGame Team,Package Description
+2026-10-08T11:50:26.173Z,MonoGame.Runtime.Windows.DesktopGL4,3.8.6,MonoGame Team,Package Description
+2026-10-08T11:50:29.25Z,MonoGame.Runtime.Mac.DesktopGL4,3.8.6,MonoGame Team,Package Description
+2026-10-08T11:56:25Z,Autodesk.Revit.Sdk.Refs.2027,2.0.0,dosymep,The Software Development Toolkit (SDK) provides extensive .NET code samples and documentation to help you get started developing with the Revit API.
+2026-10-08T12:00:14.02Z,Delibera.Redis,10.5.1,Victor Buzin,Redis-backed distributed debate execution for the Delibera multi-model AI council framework. RedisDebateOrchestrator publishes every completed round to a Redis Stream so multiple workers can share one debate and survive each other's restarts; RedisDebateCache adds shared result caching with TTLs; D…
+2026-10-08T12:00:15.123Z,Delibera.Server,10.5.1,Victor Buzin,"ASP.NET Core host for the Delibera multi-model AI council framework: debate, scenario, corpus, SSE streaming and MCP endpoints mountable inside an existing application through AddDeliberaServer/UseDeliberaServer. All routes live under /api/v1 so they cannot collide with your own endpoints. Depends…"
+2026-10-08T12:10:12.81Z,PANiXiDA.Core.Infrastructure.Storage.S3,1.0.2,PANiXiDA,"S3-compatible file storage adapter for PANiXiDA.Core applications, providing uploads, downloads, deletion and presigned URLs."
