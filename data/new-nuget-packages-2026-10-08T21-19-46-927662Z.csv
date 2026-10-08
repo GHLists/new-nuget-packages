@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-08T20:21:20.933Z,Albatross.Collections,8.0.2,Rushui Guan,Extension classes and data structures related to collections
+2026-10-08T20:21:21.847Z,Albatross.Collections.Intervals,8.0.2,Rushui Guan,An utility library for management of Continuous and non overlapping intervals.
+2026-10-08T20:21:24.48Z,MiniLibrary,1.0.4,dziezak,Mini library example
+2026-10-08T20:22:18.163Z,Narula.AI.SystemOne.SDK.Clef,1.0.0,Narula,"Provider-neutral .NET SDK for decision models (Cloudflare Clef via OpenRouter or Workers AI, SystemOne/Jev-compatible endpoints). No config files; all settings are passed in."
+2026-10-08T20:44:02.11Z,RaiGuard.Analyzer,4.5.5,Rainer Burkhardt,Opinionated Roslyn analyzer and code-fix provider enforcing framework physics and conventions across RAIkeep solutions.
+2026-10-08T20:44:03.107Z,RaiGuard,4.5.5,Rainer Burkhardt,"Official .NET Global Tool CLI for RaiGuard opinionated Roslyn guardrails. Audits, verifies, and automatically refactors framework physics violations across solutions."
+2026-10-08T20:47:35.79Z,CodeSugar.System.SourceGenerator,1.0.0-Prv-20261008-…,Vicente Penades,Source generator that emits useful extension methods for: - System - System.Text
+2026-10-08T20:52:04.3Z,Csla.Testing,10.2.0,Marimer LLC,"Supporting types for unit testing CSLA .NET business classes, business rules, and other business logic. This package is intended for use in test projects; it is not required by, or intended for use in, production application code."
+2026-10-08T20:52:06.07Z,Csla.Avalonia,10.2.0,Marimer LLC,UI helpers for using CSLA .NET business types with Avalonia.
+2026-10-08T20:54:57.02Z,VenEl.MCP.FileManager,1.0.1,VenEl,"An interactive, AI-powered file management MCP plugin. Bring your local file system natively into your AI IDEs with zero-click embedded UIs, fast search, and rich previews."
+2026-10-08T21:04:13.767Z,Icod.Pty,1.0.0,Timothy J. Bruce,Cross-platform pseudoterminal process hosting for .NET.
+2026-10-08T21:09:59.317Z,DevOp.DK.Plus,0.2.0,Þorvaldur Hafdal (DevOp),Modern typed .NET client for the DK Plus v1 and v2 APIs.
+2026-10-08T21:13:57.703Z,ZBRA.MessageTrace.Client.Soap,1.6.3,ZBRA,SOAP (WCF) instrumentation for ZBRA MessageTrace. Install alongside ZBRA.MessageTrace.Client.AspNetCore to record outbound SOAP calls; the WCF dependency stays out of services that do not make them.

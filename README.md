@@ -12,43 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 20:21 UTC
+## Latest list — 2026-10-08 21:19 UTC
 
-New packages created between 2026-10-08 19:18 UTC and 2026-10-08 20:21 UTC.
+New packages created between 2026-10-08 20:21 UTC and 2026-10-08 21:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T20-21-19-509161Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T21-19-46-927662Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 19:19:03 | [PersistentWorkflows.EntityFrameworkCore.SqlServer](https://www.nuget.org/packages/PersistentWorkflows.EntityFrameworkCore.SqlServer) | 1.0.0 | Sasan Rezaeifars | Durable workflows for .NET with SQL Server persistence, migrations, and backgro… |
-| 2026-10-08 19:19:53 | [TestDetta](https://www.nuget.org/packages/TestDetta) | 0.1.0 | TestDetta | Run only the .NET tests a change can affect: test impact analysis from your git… |
-| 2026-10-08 19:38:06 | [Toon.Format](https://www.nuget.org/packages/Toon.Format) | 0.2.0 | Johann Schopplich | Token-Oriented Object Notation (TOON) - a token-efficient JSON alternative for… |
-| 2026-10-08 19:40:31 | [TaiApimaticSDK](https://www.nuget.org/packages/TaiApimaticSDK) | 0.0.1 | Muhammad Rafay | Sample SDKs for tAI by APIMatic |
-| 2026-10-08 19:43:10 | [Orleans.Lattice.Apps](https://www.nuget.org/packages/Orleans.Lattice.Apps) | 10.0.0 | Orleans.Lattice.Apps | Opt-in installable apps for Orleans.Lattice: embedded JSON manifests declaring… |
-| 2026-10-08 19:52:04 | [Orleans.Lattice.Api.Mcp.Apps](https://www.nuget.org/packages/Orleans.Lattice.Api.Mcp.Apps) | 10.0.0 | Orleans.Lattice.Api.Mcp.Apps | Installable-app tool surface for Orleans.Lattice.Api.Mcp. Exposes every enabled… |
-| 2026-10-08 19:52:38 | [Orleans.Lattice.Api.Apps.Grpc](https://www.nuget.org/packages/Orleans.Lattice.Api.Apps.Grpc) | 10.0.0 | Orleans.Lattice.Api.Apps.Grpc | Code-first gRPC transport and strongly typed clients for app lifecycle, consent… |
-| 2026-10-08 19:52:53 | [Orleans.Lattice.Explorer.AppKit](https://www.nuget.org/packages/Orleans.Lattice.Explorer.AppKit) | 10.0.0 | Orleans.Lattice.Explorer.AppK… | The Orleans.Lattice Explorer AppKit: the static assets that run inside a Lattic… |
-| 2026-10-08 19:53:35 | [CodeBrix.Android.AdvancedTextEdit.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.AdvancedTextEdit.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The AdvancedTextEdit add-in for CodeBrix.Android applications: the platform-neu… |
-| 2026-10-08 19:54:12 | [Orleans.Lattice.Api.Apps](https://www.nuget.org/packages/Orleans.Lattice.Api.Apps) | 10.0.0 | Orleans.Lattice.Api.Apps | Transport-agnostic app lifecycle, consent, catalogue, workspace, role-binding,… |
-| 2026-10-08 19:54:25 | [CodeBrix.Android.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | Native Android apps from CodeBrix.Platform C# and XAML: pages written for CodeB… |
-| 2026-10-08 19:54:40 | [CodeBrix.Android.AppSettings.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.AppSettings.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The AppSettings add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:54:58 | [CodeBrix.Android.AudioPlayer.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.AudioPlayer.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The AudioPlayer add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:55:11 | [CodeBrix.Android.CommandBar.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.CommandBar.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The CommandBar add-in for CodeBrix.Android applications: the platform-neutral a… |
-| 2026-10-08 19:55:23 | [CodeBrix.Android.FlexPanel.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.FlexPanel.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The FlexPanel add-in for CodeBrix.Android applications: the platform-neutral as… |
-| 2026-10-08 19:55:40 | [CodeBrix.Android.Graphics2DSK.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.Graphics2DSK.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The Graphics2DSK add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:55:53 | [CodeBrix.Android.Graphics3DGL.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.Graphics3DGL.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The Graphics3DGL add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:56:07 | [CodeBrix.Android.Lottie.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.Lottie.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The Lottie add-in for CodeBrix.Android applications: the platform-neutral assem… |
-| 2026-10-08 19:56:21 | [CodeBrix.Android.MediaPlayer.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.MediaPlayer.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The MediaPlayer add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:56:34 | [CodeBrix.Android.PlotterView.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.PlotterView.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The PlotterView add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:56:49 | [CodeBrix.Android.SkiaSharp.Views.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.SkiaSharp.Views.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The SkiaSharp.Views add-in for CodeBrix.Android applications: the platform-neut… |
-| 2026-10-08 19:57:06 | [CodeBrix.Android.Svg.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.Svg.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The Svg add-in for CodeBrix.Android applications: the platform-neutral assembly… |
-| 2026-10-08 19:57:21 | [CodeBrix.Android.TerminalView.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.TerminalView.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The TerminalView add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:57:35 | [CodeBrix.Android.TextLayout.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.TextLayout.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The TextLayout add-in for CodeBrix.Android applications: the platform-neutral a… |
-| 2026-10-08 19:57:49 | [CodeBrix.Android.VideoPlayer.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.VideoPlayer.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The VideoPlayer add-in for CodeBrix.Android applications: the platform-neutral… |
-| 2026-10-08 19:58:04 | [CodeBrix.Android.WebView.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.Android.WebView.ApacheLicenseForever) | 1.0.281.1188 | Jeremy Ellis | The WebView add-in for CodeBrix.Android applications: the platform-neutral asse… |
-| 2026-10-08 20:02:32 | [mvdmio.Basic](https://www.nuget.org/packages/mvdmio.Basic) | 0.1.0 | Michiel van der Meer | Small .NET utilities: injectable clock and calendar abstractions, time zone hel… |
-| 2026-10-08 20:08:33 | [TKWF.Ext.AuthSurface](https://www.nuget.org/packages/TKWF.Ext.AuthSurface) | 0.1.1 | LoongBa.cn 龙爸出品 | TKWF 扩展：授权面——口令兑换体系（code/redemption/grant/batch + 管理端 v0.2.0）+ 我的应用聚合（跨扩展 VEnti… |
-| 2026-10-08 20:09:50 | [Inter.Client](https://www.nuget.org/packages/Inter.Client) | 0.0.1 | Pierre Brito | SDK para integração com o Banco Inter. |
+| 2026-10-08 20:21:20 | [Albatross.Collections](https://www.nuget.org/packages/Albatross.Collections) | 8.0.2 | Rushui Guan | Extension classes and data structures related to collections |
+| 2026-10-08 20:21:21 | [Albatross.Collections.Intervals](https://www.nuget.org/packages/Albatross.Collections.Intervals) | 8.0.2 | Rushui Guan | An utility library for management of Continuous and non overlapping intervals. |
+| 2026-10-08 20:21:24 | [MiniLibrary](https://www.nuget.org/packages/MiniLibrary) | 1.0.4 | dziezak | Mini library example |
+| 2026-10-08 20:22:18 | [Narula.AI.SystemOne.SDK.Clef](https://www.nuget.org/packages/Narula.AI.SystemOne.SDK.Clef) | 1.0.0 | Narula | Provider-neutral .NET SDK for decision models (Cloudflare Clef via OpenRouter o… |
+| 2026-10-08 20:44:02 | [RaiGuard.Analyzer](https://www.nuget.org/packages/RaiGuard.Analyzer) | 4.5.5 | Rainer Burkhardt | Opinionated Roslyn analyzer and code-fix provider enforcing framework physics a… |
+| 2026-10-08 20:44:03 | [RaiGuard](https://www.nuget.org/packages/RaiGuard) | 4.5.5 | Rainer Burkhardt | Official .NET Global Tool CLI for RaiGuard opinionated Roslyn guardrails. Audit… |
+| 2026-10-08 20:47:35 | [CodeSugar.System.SourceGenerator](https://www.nuget.org/packages/CodeSugar.System.SourceGenerator) | 1.0.0-Prv-20261008-… | Vicente Penades | Source generator that emits useful extension methods for: - System - System.Text |
+| 2026-10-08 20:52:04 | [Csla.Testing](https://www.nuget.org/packages/Csla.Testing) | 10.2.0 | Marimer LLC | Supporting types for unit testing CSLA .NET business classes, business rules, a… |
+| 2026-10-08 20:52:06 | [Csla.Avalonia](https://www.nuget.org/packages/Csla.Avalonia) | 10.2.0 | Marimer LLC | UI helpers for using CSLA .NET business types with Avalonia. |
+| 2026-10-08 20:54:57 | [VenEl.MCP.FileManager](https://www.nuget.org/packages/VenEl.MCP.FileManager) | 1.0.1 | VenEl | An interactive, AI-powered file management MCP plugin. Bring your local file sy… |
+| 2026-10-08 21:04:13 | [Icod.Pty](https://www.nuget.org/packages/Icod.Pty) | 1.0.0 | Timothy J. Bruce | Cross-platform pseudoterminal process hosting for .NET. |
+| 2026-10-08 21:09:59 | [DevOp.DK.Plus](https://www.nuget.org/packages/DevOp.DK.Plus) | 0.2.0 | Þorvaldur Hafdal (DevOp) | Modern typed .NET client for the DK Plus v1 and v2 APIs. |
+| 2026-10-08 21:13:57 | [ZBRA.MessageTrace.Client.Soap](https://www.nuget.org/packages/ZBRA.MessageTrace.Client.Soap) | 1.6.3 | ZBRA | SOAP (WCF) instrumentation for ZBRA MessageTrace. Install alongside ZBRA.Messag… |
 
 ## Data source
 
