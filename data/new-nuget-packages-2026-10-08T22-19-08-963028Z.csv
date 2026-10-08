@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-08T21:29:53.587Z,Stormware.Mpohoda.OpenApi.Client.GraphQl,20.0.0,Stormware,"Strawberry Shake GraphQL SDK client for the mPohoda Open API, shared by Czech and Slovak deployments."
+2026-10-08T21:29:56.787Z,Stormware.Mpohoda.OpenApi.Client.Transport,20.0.0,Stormware,"Transport layer (authentication handlers, OAuth token client, shared connection pool, resilience pipelines, client options) shared by the mPohoda Open API clients. Refit- and transport-agnostic so both the REST client and a GraphQL/MCP consumer can reuse the same auth and resilience. DO NOT use thi…"
+2026-10-08T21:34:40.69Z,Altinn.Authorization.RepoCtl.Checks,2.0.0,Altinn.Authorization.RepoCtl.Checks,Package Description
+2026-10-08T21:34:42.837Z,Altinn.Authorization.RepoCtl.GitHub,2.0.0,Altinn.Authorization.RepoCtl.GitHub,Package Description
+2026-10-08T21:34:44.073Z,Altinn.Authorization.RepoCtl.MsBuild,2.0.0,Altinn.Authorization.RepoCtl.MsBuild,Package Description
+2026-10-08T21:41:04.87Z,BepInExUtilities,0.1.0,BepInExUtilities,Package Description
+2026-10-08T21:43:27.637Z,Altinn.Authorization.RepoCtl.Cli,2.0.0,repoctl,Package Description
+2026-10-08T22:04:54.3Z,DragonFly.Assets.SkiaSharp,1.0.40,usercode,Headless CMS based on ASP.NET Core and Blazor
