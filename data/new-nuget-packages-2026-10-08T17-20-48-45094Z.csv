@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-08T16:29:34.023Z,SubtitleToolkit,1.0.3,SubtitleToolkit Contributors,"Lightweight, zero-dependency .NET library for parsing, converting, and time-shifting SRT, WebVTT, ASS, and SSA subtitles."
+2026-10-08T16:40:32.527Z,Kapusch.PostHog.Android,0.1.1,Kapusch,Thin JNI interop for the official PostHog Android SDK with native disk persistence.
+2026-10-08T16:48:57.073Z,Kapusch.PostHog.iOS,0.1.0,Kapusch,Thin interop for the official PostHog iOS SDK with native disk persistence.
+2026-10-08T17:10:14.21Z,EFCore.SchemaSync,0.1.0,Ross Slaney,"Your EF model is your schema. Deploy an EF Core model directly to SQL Server with Microsoft DacFx, with one method call and no migration files."
