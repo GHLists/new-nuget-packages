@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-08T08:24:09.21Z,BcsUniversal.EntityFrameworkCore.SqlServer,1.3.3,cmm,MicroCloud SqlServer 数据库组件，封装基于 Microsoft.EntityFrameworkCore.SqlServer 的数据访问功能的实现。
+2026-10-08T08:30:04.417Z,NKChinh.WinFormMarkup,0.2.1,nkchinh,Fluent markup syntax for Windows Forms creation with localization support. Fork of https://www.nuget.org/packages/WinFormMarkup
+2026-10-08T08:33:35.173Z,chd.Hub.Base.Server,2.0.26281.157,chd.Hub.Base.Server,Package Description
+2026-10-08T08:39:48.863Z,FrameFlux.FFmpeg.NativeAssets.Android,0.1.3,FrameFlux,Android native FFmpeg runtime assets for FrameFlux.
+2026-10-08T08:39:51.523Z,FrameFlux.FFmpeg.NativeAssets.Linux,0.1.3,FrameFlux,Linux native FFmpeg runtime assets for FrameFlux.
+2026-10-08T08:39:53.327Z,FrameFlux.FFmpeg.NativeAssets.Windows,0.1.3,FrameFlux,Windows native FFmpeg runtime assets for FrameFlux.
+2026-10-08T08:48:24.54Z,Camcs,0.0.1,Camcs,actor
+2026-10-08T08:51:03.787Z,Speechwarp,0.3.4,The speechwarp contributors,Nonlinear speed-up for speech: listen faster and still follow it. Packages Google's Speedy algorithm and the Sonic library. Not an official Google product.
+2026-10-08T08:52:34.47Z,SAEA.Socket5,26.10.8.1,yswenli,SOCKS5 Server and Client Based on SAEA.Socket.SAEA.Socket5是基于SAEA.Socket实现的SOCKS5服务器与客户端，支持无认证与用户名密码鉴权，支持CONNECT、BIND与UDP ASSOCIATE。 https://github.com/yswenli/SAEA
+2026-10-08T08:58:04.453Z,Nryan.TimeManager.Exceptions,1.0.0,nryan201,"Exceptions métier de TimeManager (introuvable, conflit, validation, règle métier), traduites en codes HTTP par l'API."
+2026-10-08T09:07:46.883Z,DuraIT.FastBinaryJson,0.1.0,Ben de Bruijn,"Binary JSON serializer for .NET with attribute-free runtime polymorphism. Maintained fork of mgholam/fastBinaryJSON, wire-format compatible with it."
