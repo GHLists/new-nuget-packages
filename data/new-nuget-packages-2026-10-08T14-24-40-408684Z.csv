@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-08T13:22:47.48Z,Allpaqa.MultilingualKatakana,0.5.0,allpaqa,"Zero-dependency, ultra-fast multilingual (English/Chinese/Korean/Russian/Spanish/French/Vietnamese/Thai/slang) to Japanese Katakana converter for Japanese TTS engines, powered by a native Rust core."
+2026-10-08T13:24:11.347Z,KD.Avalonia.Rice,26.10.3,k0zi,Frameless Avalonia window with a custom title bar and Linux distro inspired themes.
+2026-10-08T13:33:48.377Z,InfiniAnalytics.Sdk,0.1.0,InfiniAnalytics,"Official .NET SDK for InfiniAnalytics: registers the start, events, warnings, errors and end of your automation executions without a network failure ever breaking the robot."
+2026-10-08T13:35:43.34Z,RoushTech.Asio.Forwarding,0.6.0,William Roush,Satellite-to-host log forwarding for RoushTech.Asio over any transport: streams job sessions and the app-log tail through a consumer-supplied IAsioForwardingTransport. Bounded drop-oldest buffering; consecutive same-session appends are coalesced into a single frame.
+2026-10-08T13:37:51.043Z,Notato.Maui,0.1.0,Notato contributors,"Figma-style comments for a running .NET MAUI app. Tap an element, write a note, and it reaches your coding agent (Claude Code, Codex, Cursor and others) over MCP through a Notato server."
+2026-10-08T13:45:29.317Z,RekTHOR.TypedSettings,0.1.0,RekTHOR,"Strongly typed, validated settings on top of the Options pattern: the type names its own configuration section, DI hands out the plain settings object, and an enum picks the reload behaviour."
+2026-10-08T13:59:15.02Z,pvNugsLoggerNc10Hybrid,10.0.0,Pierre Van Wallendael,Package Description

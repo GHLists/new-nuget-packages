@@ -12,33 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 13:22 UTC
+## Latest list — 2026-10-08 14:24 UTC
 
-New packages created between 2026-10-08 12:22 UTC and 2026-10-08 13:22 UTC.
+New packages created between 2026-10-08 13:22 UTC and 2026-10-08 14:24 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T13-22-16-247241Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T14-24-40-408684Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 12:29:18 | [Ocr.Common.Models.Paddle.Cyrillic](https://www.nuget.org/packages/Ocr.Common.Models.Paddle.Cyrillic) | 0.2.0 | OCR model packaging contribut… | Модели Paddle PP-OCRv5: детекторы mobile/server и кириллический mobile-recogniz… |
-| 2026-10-08 12:49:49 | [Nexttag.Chat.Meta](https://www.nuget.org/packages/Nexttag.Chat.Meta) | 1.0.0 | Nexttag - Jonathan Schenker | Adaptadores da Meta para Nexttag.Chat (IChatChannel): WhatsApp Cloud API, Insta… |
-| 2026-10-08 12:49:52 | [Nexttag.Observability.Metrics](https://www.nuget.org/packages/Nexttag.Observability.Metrics) | 1.0.0 | Nexttag - Jonathan Schenker | Metricas OpenTelemetry (via collector, raspavel pelo Prometheus) |
-| 2026-10-08 12:49:53 | [Nexttag.Observability.Tracing](https://www.nuget.org/packages/Nexttag.Observability.Tracing) | 1.0.0 | Nexttag - Jonathan Schenker | Traces OpenTelemetry para o Tempo da Nexttag |
-| 2026-10-08 12:53:03 | [pvNugsLoggerNc10PgSql](https://www.nuget.org/packages/pvNugsLoggerNc10PgSql) | 10.0.0 | Pierre Van Wallendael | Package Description |
-| 2026-10-08 12:54:30 | [Plugin.Maui.Spine.BackgroundTasks](https://www.nuget.org/packages/Plugin.Maui.Spine.BackgroundTasks) | 0.1.13 | Jonatan Söderberg | Background tasks for .NET MAUI: [BackgroundTask] classes discovered at startup… |
-| 2026-10-08 12:54:31 | [Plugin.Maui.Spine.Barcodes](https://www.nuget.org/packages/Plugin.Maui.Spine.Barcodes) | 0.1.13 | Jonatan Söderberg | Barcodes for .NET: QR, Data Matrix, Aztec, PDF417 and the common 1D codes as a… |
-| 2026-10-08 12:54:38 | [Plugin.Maui.Spine.Controls.MeshBackground](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.MeshBackground) | 0.1.13 | Jonatan Söderberg | MeshBackground for .NET MAUI: a mesh gradient on SkiaSharp, a grid of coloured… |
-| 2026-10-08 12:54:41 | [Plugin.Maui.Spine.Images](https://www.nuget.org/packages/Plugin.Maui.Spine.Images) | 0.1.13 | Jonatan Söderberg | Remote images for .NET MAUI: a memory and disk cache with downsampling to the v… |
-| 2026-10-08 12:54:43 | [Plugin.Maui.Spine.Scanner](https://www.nuget.org/packages/Plugin.Maui.Spine.Scanner) | 0.1.13 | Jonatan Söderberg | Camera barcode scanning for .NET MAUI: a BarcodeScannerView and a ready-made sc… |
-| 2026-10-08 12:57:16 | [Io.Cdktn.Providers.Azapi](https://www.nuget.org/packages/Io.Cdktn.Providers.Azapi) | 1.0.0 | CDK Terrain Maintainers | Prebuilt azapi Provider for CDK Terrain (cdktn) (Stability: Stable) |
-| 2026-10-08 13:08:37 | [Telerik.Reporting.CLITemplates](https://www.nuget.org/packages/Telerik.Reporting.CLITemplates) | 20.2.26.1007 | Progress Software Corporation | This package contains ready-to-run Progress® Telerik® Reporting project templat… |
-| 2026-10-08 13:09:17 | [Aibysitter.Cli](https://www.nuget.org/packages/Aibysitter.Cli) | 0.4.1 | Jon Bailey | Lints rules files for AI coding agents (CLAUDE.md, AGENTS.md, Cursor rules, Cop… |
-| 2026-10-08 13:13:39 | [AmwalPay.Ecr](https://www.nuget.org/packages/AmwalPay.Ecr) | 1.0.0 | Amwal Pay | Amwal POS terminal ECR SDK for .NET (v1.0.0): sale, void, refund, inquiry by ST… |
-| 2026-10-08 13:13:54 | [WhatsAppCloud.Net](https://www.nuget.org/packages/WhatsAppCloud.Net) | 1.0.0 | Eslam Ashraf,Github Contribut… | The missing .NET SDK for Meta's WhatsApp Business Cloud API. Send text, templat… |
-| 2026-10-08 13:14:14 | [SENESO.Paymob.Net](https://www.nuget.org/packages/SENESO.Paymob.Net) | 1.0.0 | Eslam Ashraf,Github Contribut… | The missing .NET SDK for Paymob — Egypt's leading payment gateway. Auth, orders… |
-| 2026-10-08 13:14:36 | [Fawry.Net](https://www.nuget.org/packages/Fawry.Net) | 1.0.0 | Eslam Ashraf | The complete .NET SDK for Fawry payments — charge (Pay-at-Fawry, cards, mobile… |
-| 2026-10-08 13:14:59 | [Zatca.Net](https://www.nuget.org/packages/Zatca.Net) | 1.0.0 | Eslam Ashraf,Github Contribut… | A clean, modern .NET SDK for Saudi Arabia's ZATCA e-invoicing (Fatoora) Phase 2… |
-| 2026-10-08 13:15:34 | [EgyptId.Net](https://www.nuget.org/packages/EgyptId.Net) | 1.0.0 | Eslam Ashraf | Egyptian national ID validation & parsing, Egyptian phone number utilities, and… |
+| 2026-10-08 13:22:47 | [Allpaqa.MultilingualKatakana](https://www.nuget.org/packages/Allpaqa.MultilingualKatakana) | 0.5.0 | allpaqa | Zero-dependency, ultra-fast multilingual (English/Chinese/Korean/Russian/Spanis… |
+| 2026-10-08 13:24:11 | [KD.Avalonia.Rice](https://www.nuget.org/packages/KD.Avalonia.Rice) | 26.10.3 | k0zi | Frameless Avalonia window with a custom title bar and Linux distro inspired the… |
+| 2026-10-08 13:33:48 | [InfiniAnalytics.Sdk](https://www.nuget.org/packages/InfiniAnalytics.Sdk) | 0.1.0 | InfiniAnalytics | Official .NET SDK for InfiniAnalytics: registers the start, events, warnings, e… |
+| 2026-10-08 13:35:43 | [RoushTech.Asio.Forwarding](https://www.nuget.org/packages/RoushTech.Asio.Forwarding) | 0.6.0 | William Roush | Satellite-to-host log forwarding for RoushTech.Asio over any transport: streams… |
+| 2026-10-08 13:37:51 | [Notato.Maui](https://www.nuget.org/packages/Notato.Maui) | 0.1.0 | Notato contributors | Figma-style comments for a running .NET MAUI app. Tap an element, write a note,… |
+| 2026-10-08 13:45:29 | [RekTHOR.TypedSettings](https://www.nuget.org/packages/RekTHOR.TypedSettings) | 0.1.0 | RekTHOR | Strongly typed, validated settings on top of the Options pattern: the type name… |
+| 2026-10-08 13:59:15 | [pvNugsLoggerNc10Hybrid](https://www.nuget.org/packages/pvNugsLoggerNc10Hybrid) | 10.0.0 | Pierre Van Wallendael | Package Description |
 
 ## Data source
 
