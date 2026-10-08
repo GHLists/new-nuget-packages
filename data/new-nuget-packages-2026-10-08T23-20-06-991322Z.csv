@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-08T22:30:54.613Z,Luminy,1.0.1,Samuel Alexandre Vidal,Math and Scientific reports in SVG/Html with zero-dependency
+2026-10-08T22:39:06.207Z,Barisozy.CleanArchitecture.Template,1.1.3,barisozy,A .NET 10 Clean Architecture API solution template.
+2026-10-08T22:40:19.61Z,Phoney,0.1.0,Mattias Sundström,"Fast, easy and flexible fake data for .NET: 77 locales imported from faker.js, convention-based object population, fluent rules, deterministic seeds and a source generator for reflection-free, AOT-safe generation."
+2026-10-08T22:42:09.043Z,Larroy.Kokoro.runtime.win-arm64,0.1.0,larroy,kokoro.dll for win-arm64 (ONNX Runtime: Microsoft.ML.OnnxRuntime). Used by Larroy.Kokoro.
+2026-10-08T22:42:10.757Z,Larroy.Kokoro.runtime.win-x64,0.1.0,larroy,kokoro.dll for win-x64 (ONNX Runtime: Microsoft.ML.OnnxRuntime). Used by Larroy.Kokoro.
+2026-10-08T22:42:12.153Z,Larroy.Kokoro.runtime.win-x64.cuda,0.1.0,larroy,Optional CUDA support for Larroy.Kokoro on win-x64 via Microsoft.ML.OnnxRuntime.Gpu.Windows.
+2026-10-08T22:42:14.05Z,Larroy.Kokoro,0.1.0,larroy,Kokoro TTS (kokoro.cpp) for .NET: managed wrapper over the kokoro C API. Natives for win-x64 and win-arm64 come from the runtime packages.
+2026-10-08T22:43:00.737Z,Brack.NET,1.0.0,hsshss,".NET binding of brack.dll (libbrack.so on Linux, libbrack.dylib on macOS): host CLAP, VST3 and VST2 instruments, route MIDI to them and their audio to outputs."
+2026-10-08T22:44:15.693Z,Trellis.Asp.Templates,1.0.151-alpha,Xavier John,"A dotnet new template for creating ASP.NET services using the Trellis framework with Railway-Oriented Programming (ROP) and Domain-Driven Design (DDD). Includes solution structure, build system, test infrastructure, agent-neutral AGENTS.md instructions, and API reference."
+2026-10-08T23:03:43.75Z,JB.UIConfigManager,1.0.40,John Bell,"Metadata driven forms display, field loading and saving with form templates"
+2026-10-08T23:13:54.73Z,NovaCore.Agents.Browser,4.0.0,NovaCore,"Browser use for NovaCore.Agents with any model: the library's browser tools over a CDP engine (page rendering, actions, slow-page waiting, downloads) and a Playwright launcher."
+2026-10-08T23:13:56.127Z,NovaCore.Agents.Browser.LiveView,4.0.0,NovaCore,"Transport-neutral live-view primitives for NovaCore.Agents browser sessions: screencast frame hub with per-subscriber backpressure, input command model, and a human-in-the-loop input gate. No ASP.NET Core dependency, no prescribed auth or transport."
+2026-10-08T23:13:57.15Z,NovaCore.Agents.ComputerUse,4.0.0,NovaCore,"Native computer use for NovaCore.Agents: the OpenAI computer tool and the Anthropic computer toolset over a screen (a CDP browser tab or your own), chosen from the model's capabilities."
+2026-10-08T23:13:58.173Z,NovaCore.Agents.Hosting,4.0.0,NovaCore,"Optional hosting layer for NovaCore.Agents: durable sessions, conversation stores, steering, approvals, agent-to-agent messaging and the chatbot Agent."
+2026-10-08T23:13:59.447Z,NovaCore.Agents.Hosting.EntityFramework,4.0.0,NovaCore,"EF Core conversation store for NovaCore.Agents.Hosting, with its own tables included into a host DbContext."
