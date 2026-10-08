@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-08T07:21:15.767Z,Idearia.CommonDomain,1.0.1,Idearia Soluciones,Modelos compartidos entre las aplicaciones de Idearia.
+2026-10-08T07:40:32.387Z,Speckle.Bundle.Spec,1.4.0,Speckle,"Speckle bundle format vocabulary: generated Rel/NodeKind enums, catalog rows, table schemas, column indices and row records. BundleSpec.SchemaVersion equals the package version."
+2026-10-08T07:52:04.14Z,Velsigil.Client,1.0.1,Velsigil,"Official .NET client for the Velsigil license server: online validation with Ed25519-signed responses, device secrets, offline leases, update checks and verified downloads."
