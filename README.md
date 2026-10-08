@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 01:21 UTC
+## Latest list — 2026-10-08 02:20 UTC
 
-New packages created between 2026-10-08 00:18 UTC and 2026-10-08 01:21 UTC.
+New packages created between 2026-10-08 01:21 UTC and 2026-10-08 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T01-21-45-380078Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T02-20-56-617326Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 00:39:33 | [SejilSQL](https://www.nuget.org/packages/SejilSQL) | 3.1.4 | Alaa Masoud, Dany Côté | Collect the logs of your ASP.NET Core applications in SQL Server (Serilog) and… |
-| 2026-10-08 00:57:51 | [CodeBrix.TomlParse.BsdLicenseForever](https://www.nuget.org/packages/CodeBrix.TomlParse.BsdLicenseForever) | 1.0.281.57 | Jeremy Ellis | A fully managed, high-performance TOML 1.1 library for .NET: read, parse, updat… |
-| 2026-10-08 01:13:26 | [CodeBrix.Platform.GameEngine.CardsAndDice.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.Platform.GameEngine.CardsAndDice.MitLicenseForever) | 1.0.281.72 | Jeremy Ellis | Cards, decks, dice, animated tabletop interactions, and embedded SVG artwork fo… |
+| 2026-10-08 01:23:45 | [ZXUI.Controls](https://www.nuget.org/packages/ZXUI.Controls) | 0.2.21-alpha | ZXUI Authors | Logic-only control library for Avalonia. Pair with a ZXUI.Themes.* package for… |
+| 2026-10-08 01:24:40 | [ZXUI.Themes.Sample](https://www.nuget.org/packages/ZXUI.Themes.Sample) | 0.2.21-alpha | ZXUI Authors | Simple minimal line-style theme for ZXUI.Controls, built on Avalonia FluentThem… |
 
 ## Data source
 
