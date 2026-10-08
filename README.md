@@ -12,21 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 03:20 UTC
+## Latest list — 2026-10-08 04:20 UTC
 
-New packages created between 2026-10-08 02:20 UTC and 2026-10-08 03:20 UTC.
+New packages created between 2026-10-08 03:20 UTC and 2026-10-08 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T03-20-49-67046Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T04-20-07-724131Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 02:22:29 | [Promete.Web](https://www.nuget.org/packages/Promete.Web) | 2.1.0 | Ebise Lutica | Browser (.NET WebAssembly + WebGL2) backend for Promete |
-| 2026-10-08 02:27:14 | [Blazor.Ink](https://www.nuget.org/packages/Blazor.Ink) | 1.0.0 | Blazor.Ink contributors | Blazor-native terminal UI. Not yet full Ink 8 parity. |
-| 2026-10-08 02:33:00 | [Brows.Sys](https://www.nuget.org/packages/Brows.Sys) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-08 02:33:01 | [Brows.Sys.Composition](https://www.nuget.org/packages/Brows.Sys.Composition) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-08 02:33:03 | [Brows.Sys.Win32](https://www.nuget.org/packages/Brows.Sys.Win32) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-08 02:33:04 | [Brows.Sys.Win32.Windows](https://www.nuget.org/packages/Brows.Sys.Win32.Windows) | 1.0.0 | Ken Yourek | Package Description |
-| 2026-10-08 02:33:26 | [CodeBrix.PostgresClient.PostgreSqlLicenseForever](https://www.nuget.org/packages/CodeBrix.PostgresClient.PostgreSqlLicenseForever) | 1.0.281.152 | Jeremy Ellis | A fully managed ADO.NET data provider for PostgreSQL, with connection pooling,… |
+| 2026-10-08 03:28:48 | [Ling.Configuration.Database](https://www.nuget.org/packages/Ling.Configuration.Database) | 0.1.0 | Ling | Database backed Microsoft.Extensions.Configuration provider with polling reload… |
+| 2026-10-08 03:31:05 | [Database.LiteDb](https://www.nuget.org/packages/Database.LiteDb) | 1.0.0 | Dio Liew | A LiteDb databse package wrapper. |
+| 2026-10-08 03:33:37 | [Taskblockslip](https://www.nuget.org/packages/Taskblockslip) | 0.1.0 | jay-tank | Static analyzer that flags the classic .NET "sync over async" footgun: a direct… |
+| 2026-10-08 03:37:49 | [AnyCAD.Robot.NET](https://www.nuget.org/packages/AnyCAD.Robot.NET) | 2026.10.8.1124 | AnyCAD Inc. | The professional graphics toolkit for .NET developers. |
+| 2026-10-08 04:12:45 | [TurtlePath.Automations.AspNetCore](https://www.nuget.org/packages/TurtlePath.Automations.AspNetCore) | 1.11.0 | Elysium Coding | ASP.NET Core endpoint integration for TurtlePath automation profiles. |
+| 2026-10-08 04:12:46 | [TurtlePath.Automations.Pigeon](https://www.nuget.org/packages/TurtlePath.Automations.Pigeon) | 1.11.0 | Elysium Coding | Pigeon consumer integration for TurtlePath automation profiles. |
 
 ## Data source
 

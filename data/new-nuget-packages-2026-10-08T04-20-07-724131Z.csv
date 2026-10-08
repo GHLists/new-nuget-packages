@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-08T03:28:48.177Z,Ling.Configuration.Database,0.1.0,Ling,Database backed Microsoft.Extensions.Configuration provider with polling reload support.
+2026-10-08T03:31:05.517Z,Database.LiteDb,1.0.0,Dio Liew,A LiteDb databse package wrapper.
+2026-10-08T03:33:37.023Z,Taskblockslip,0.1.0,jay-tank,"Static analyzer that flags the classic .NET ""sync over async"" footgun: a direct '.Result' property access, '.Wait()'/'.Wait(timeout)' method call, or a '.GetAwaiter().GetResult()' chain, on an expression whose static type is Task/Task<T> -- instead of 'await'ing it. Blocking on async code this way…"
+2026-10-08T03:37:49.46Z,AnyCAD.Robot.NET,2026.10.8.1124,AnyCAD Inc.,The professional graphics toolkit for .NET developers.
+2026-10-08T04:12:45.153Z,TurtlePath.Automations.AspNetCore,1.11.0,Elysium Coding,ASP.NET Core endpoint integration for TurtlePath automation profiles.
+2026-10-08T04:12:46.57Z,TurtlePath.Automations.Pigeon,1.11.0,Elysium Coding,Pigeon consumer integration for TurtlePath automation profiles.
