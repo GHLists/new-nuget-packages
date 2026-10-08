@@ -12,32 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:22 UTC
+## Latest list — 2026-10-08 13:22 UTC
 
-New packages created between 2026-10-08 11:19 UTC and 2026-10-08 12:22 UTC.
+New packages created between 2026-10-08 12:22 UTC and 2026-10-08 13:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T12-22-15-208514Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T13-22-16-247241Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 11:22:33 | [mimic-browser.Playwright](https://www.nuget.org/packages/mimic-browser.Playwright) | 0.1.0 | Mimic.Playwright | Package Description |
-| 2026-10-08 11:28:00 | [mimic-browser.PuppeteerSharp](https://www.nuget.org/packages/mimic-browser.PuppeteerSharp) | 0.1.0 | Mimic.PuppeteerSharp | Package Description |
-| 2026-10-08 11:31:16 | [E2E.XUnit.V3](https://www.nuget.org/packages/E2E.XUnit.V3) | 0.2.0 | hardkoded | xUnit v3 fixture for the E2E .NET port. Each test gets an engine session, and t… |
-| 2026-10-08 11:31:32 | [GonFox.GameBoy.Platform.Android](https://www.nuget.org/packages/GonFox.GameBoy.Platform.Android) | 1.0.0 | machi_pon | Android host support for GonFox.GameBoy (AudioTrack output, storage, haptics, r… |
-| 2026-10-08 11:31:33 | [GonFox.GameBoy.Platform.Windows](https://www.nuget.org/packages/GonFox.GameBoy.Platform.Windows) | 1.0.0 | machi_pon | Windows host support for GonFox.GameBoy (WASAPI audio output, storage, settings) |
-| 2026-10-08 11:31:34 | [GonFox.GameBoy.Core](https://www.nuget.org/packages/GonFox.GameBoy.Core) | 1.0.0 | machi_pon | Game Boy (DMG) emulator core |
-| 2026-10-08 11:31:35 | [GonFox.GameBoy.Platform.Shared](https://www.nuget.org/packages/GonFox.GameBoy.Platform.Shared) | 1.0.0 | machi_pon | Platform-neutral host support for GonFox.GameBoy (run thread, session, frames,… |
-| 2026-10-08 11:44:01 | [SuperScrapers.Contracts](https://www.nuget.org/packages/SuperScrapers.Contracts) | 1.3.11 | Appliman | Public requests, responses and contracts for the SuperScrapers network. |
-| 2026-10-08 11:44:02 | [SuperScrapers.Client](https://www.nuget.org/packages/SuperScrapers.Client) | 1.3.11 | Appliman | Typed client for the SuperScrapers network. |
-| 2026-10-08 11:46:48 | [ThrottleDebounce.SourceGenerators](https://www.nuget.org/packages/ThrottleDebounce.SourceGenerators) | 1.0.2 | Carlos | Prism MVVM ThrottleDebounceCommandGenerator |
-| 2026-10-08 11:47:48 | [DotNetBrowser.AgentSkills](https://www.nuget.org/packages/DotNetBrowser.AgentSkills) | 4.3.3 | TeamDev Ltd. | The DotNetBrowser agent skill for AI coding agents such as Claude Code, Codex,… |
-| 2026-10-08 11:50:20 | [MonoGame.Runtime.Linux.DesktopGL4](https://www.nuget.org/packages/MonoGame.Runtime.Linux.DesktopGL4) | 3.8.6 | MonoGame Team | Package Description |
-| 2026-10-08 11:50:26 | [MonoGame.Runtime.Windows.DesktopGL4](https://www.nuget.org/packages/MonoGame.Runtime.Windows.DesktopGL4) | 3.8.6 | MonoGame Team | Package Description |
-| 2026-10-08 11:50:29 | [MonoGame.Runtime.Mac.DesktopGL4](https://www.nuget.org/packages/MonoGame.Runtime.Mac.DesktopGL4) | 3.8.6 | MonoGame Team | Package Description |
-| 2026-10-08 11:56:25 | [Autodesk.Revit.Sdk.Refs.2027](https://www.nuget.org/packages/Autodesk.Revit.Sdk.Refs.2027) | 2.0.0 | dosymep | The Software Development Toolkit (SDK) provides extensive .NET code samples and… |
-| 2026-10-08 12:00:14 | [Delibera.Redis](https://www.nuget.org/packages/Delibera.Redis) | 10.5.1 | Victor Buzin | Redis-backed distributed debate execution for the Delibera multi-model AI counc… |
-| 2026-10-08 12:00:15 | [Delibera.Server](https://www.nuget.org/packages/Delibera.Server) | 10.5.1 | Victor Buzin | ASP.NET Core host for the Delibera multi-model AI council framework: debate, sc… |
-| 2026-10-08 12:10:12 | [PANiXiDA.Core.Infrastructure.Storage.S3](https://www.nuget.org/packages/PANiXiDA.Core.Infrastructure.Storage.S3) | 1.0.2 | PANiXiDA | S3-compatible file storage adapter for PANiXiDA.Core applications, providing up… |
+| 2026-10-08 12:29:18 | [Ocr.Common.Models.Paddle.Cyrillic](https://www.nuget.org/packages/Ocr.Common.Models.Paddle.Cyrillic) | 0.2.0 | OCR model packaging contribut… | Модели Paddle PP-OCRv5: детекторы mobile/server и кириллический mobile-recogniz… |
+| 2026-10-08 12:49:49 | [Nexttag.Chat.Meta](https://www.nuget.org/packages/Nexttag.Chat.Meta) | 1.0.0 | Nexttag - Jonathan Schenker | Adaptadores da Meta para Nexttag.Chat (IChatChannel): WhatsApp Cloud API, Insta… |
+| 2026-10-08 12:49:52 | [Nexttag.Observability.Metrics](https://www.nuget.org/packages/Nexttag.Observability.Metrics) | 1.0.0 | Nexttag - Jonathan Schenker | Metricas OpenTelemetry (via collector, raspavel pelo Prometheus) |
+| 2026-10-08 12:49:53 | [Nexttag.Observability.Tracing](https://www.nuget.org/packages/Nexttag.Observability.Tracing) | 1.0.0 | Nexttag - Jonathan Schenker | Traces OpenTelemetry para o Tempo da Nexttag |
+| 2026-10-08 12:53:03 | [pvNugsLoggerNc10PgSql](https://www.nuget.org/packages/pvNugsLoggerNc10PgSql) | 10.0.0 | Pierre Van Wallendael | Package Description |
+| 2026-10-08 12:54:30 | [Plugin.Maui.Spine.BackgroundTasks](https://www.nuget.org/packages/Plugin.Maui.Spine.BackgroundTasks) | 0.1.13 | Jonatan Söderberg | Background tasks for .NET MAUI: [BackgroundTask] classes discovered at startup… |
+| 2026-10-08 12:54:31 | [Plugin.Maui.Spine.Barcodes](https://www.nuget.org/packages/Plugin.Maui.Spine.Barcodes) | 0.1.13 | Jonatan Söderberg | Barcodes for .NET: QR, Data Matrix, Aztec, PDF417 and the common 1D codes as a… |
+| 2026-10-08 12:54:38 | [Plugin.Maui.Spine.Controls.MeshBackground](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.MeshBackground) | 0.1.13 | Jonatan Söderberg | MeshBackground for .NET MAUI: a mesh gradient on SkiaSharp, a grid of coloured… |
+| 2026-10-08 12:54:41 | [Plugin.Maui.Spine.Images](https://www.nuget.org/packages/Plugin.Maui.Spine.Images) | 0.1.13 | Jonatan Söderberg | Remote images for .NET MAUI: a memory and disk cache with downsampling to the v… |
+| 2026-10-08 12:54:43 | [Plugin.Maui.Spine.Scanner](https://www.nuget.org/packages/Plugin.Maui.Spine.Scanner) | 0.1.13 | Jonatan Söderberg | Camera barcode scanning for .NET MAUI: a BarcodeScannerView and a ready-made sc… |
+| 2026-10-08 12:57:16 | [Io.Cdktn.Providers.Azapi](https://www.nuget.org/packages/Io.Cdktn.Providers.Azapi) | 1.0.0 | CDK Terrain Maintainers | Prebuilt azapi Provider for CDK Terrain (cdktn) (Stability: Stable) |
+| 2026-10-08 13:08:37 | [Telerik.Reporting.CLITemplates](https://www.nuget.org/packages/Telerik.Reporting.CLITemplates) | 20.2.26.1007 | Progress Software Corporation | This package contains ready-to-run Progress® Telerik® Reporting project templat… |
+| 2026-10-08 13:09:17 | [Aibysitter.Cli](https://www.nuget.org/packages/Aibysitter.Cli) | 0.4.1 | Jon Bailey | Lints rules files for AI coding agents (CLAUDE.md, AGENTS.md, Cursor rules, Cop… |
+| 2026-10-08 13:13:39 | [AmwalPay.Ecr](https://www.nuget.org/packages/AmwalPay.Ecr) | 1.0.0 | Amwal Pay | Amwal POS terminal ECR SDK for .NET (v1.0.0): sale, void, refund, inquiry by ST… |
+| 2026-10-08 13:13:54 | [WhatsAppCloud.Net](https://www.nuget.org/packages/WhatsAppCloud.Net) | 1.0.0 | Eslam Ashraf,Github Contribut… | The missing .NET SDK for Meta's WhatsApp Business Cloud API. Send text, templat… |
+| 2026-10-08 13:14:14 | [SENESO.Paymob.Net](https://www.nuget.org/packages/SENESO.Paymob.Net) | 1.0.0 | Eslam Ashraf,Github Contribut… | The missing .NET SDK for Paymob — Egypt's leading payment gateway. Auth, orders… |
+| 2026-10-08 13:14:36 | [Fawry.Net](https://www.nuget.org/packages/Fawry.Net) | 1.0.0 | Eslam Ashraf | The complete .NET SDK for Fawry payments — charge (Pay-at-Fawry, cards, mobile… |
+| 2026-10-08 13:14:59 | [Zatca.Net](https://www.nuget.org/packages/Zatca.Net) | 1.0.0 | Eslam Ashraf,Github Contribut… | A clean, modern .NET SDK for Saudi Arabia's ZATCA e-invoicing (Fatoora) Phase 2… |
+| 2026-10-08 13:15:34 | [EgyptId.Net](https://www.nuget.org/packages/EgyptId.Net) | 1.0.0 | Eslam Ashraf | Egyptian national ID validation & parsing, Egyptian phone number utilities, and… |
 
 ## Data source
 
