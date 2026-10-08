@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-08T18:24:11.553Z,Gondwana.Video.Widgets,2.6.1,Mike Adkins,Optional interactive and draggable video widgets composing Gondwana Video and Widgets for desktop games.
+2026-10-08T18:32:45.707Z,NBTerminal,0.1.0,postmium,"A lightweight, event-driven .NET terminal library with non-blocking input, independent rendering, and page management."
+2026-10-08T18:35:31.863Z,FluxLector.Client,0.1.1,IntegralByte,Wrapper .NET oficial para la API de Flux Lector (lectura automatica de medidores de gas por foto).
+2026-10-08T18:46:46.663Z,Lait.Umbraco.Awesome.SEO,1.0.0,"LAIT, Anders Bootsmann Overvad","SEO report and action plan inside the Umbraco 17 backoffice. Crawls your site and up to 5 competitors on a schedule, runs 38 SEO checks (indexing, technical, on-page, content), gives a health score, shows what changed since last time, compares you side by side with your competitors and builds a pri…"
+2026-10-08T18:57:52.913Z,SinkSharp.Core,1.0.0,SinkSharp,"High-performance structured logging for .NET 9. Striped async channel queue, MessageTemplate caching, object pooling, PII masking, correlation ID auto-propagation, per-category log levels, and built-in ASP.NET Core health check. MEL ILogger<T> compatible — drop-in replacement for Serilog/NLog."
