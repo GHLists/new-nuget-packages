@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 02:20 UTC
+## Latest list — 2026-10-08 03:20 UTC
 
-New packages created between 2026-10-08 01:21 UTC and 2026-10-08 02:20 UTC.
+New packages created between 2026-10-08 02:20 UTC and 2026-10-08 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-08T02-20-56-617326Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-08T03-20-49-67046Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-08 01:23:45 | [ZXUI.Controls](https://www.nuget.org/packages/ZXUI.Controls) | 0.2.21-alpha | ZXUI Authors | Logic-only control library for Avalonia. Pair with a ZXUI.Themes.* package for… |
-| 2026-10-08 01:24:40 | [ZXUI.Themes.Sample](https://www.nuget.org/packages/ZXUI.Themes.Sample) | 0.2.21-alpha | ZXUI Authors | Simple minimal line-style theme for ZXUI.Controls, built on Avalonia FluentThem… |
+| 2026-10-08 02:22:29 | [Promete.Web](https://www.nuget.org/packages/Promete.Web) | 2.1.0 | Ebise Lutica | Browser (.NET WebAssembly + WebGL2) backend for Promete |
+| 2026-10-08 02:27:14 | [Blazor.Ink](https://www.nuget.org/packages/Blazor.Ink) | 1.0.0 | Blazor.Ink contributors | Blazor-native terminal UI. Not yet full Ink 8 parity. |
+| 2026-10-08 02:33:00 | [Brows.Sys](https://www.nuget.org/packages/Brows.Sys) | 1.0.0 | Ken Yourek | Package Description |
+| 2026-10-08 02:33:01 | [Brows.Sys.Composition](https://www.nuget.org/packages/Brows.Sys.Composition) | 1.0.0 | Ken Yourek | Package Description |
+| 2026-10-08 02:33:03 | [Brows.Sys.Win32](https://www.nuget.org/packages/Brows.Sys.Win32) | 1.0.0 | Ken Yourek | Package Description |
+| 2026-10-08 02:33:04 | [Brows.Sys.Win32.Windows](https://www.nuget.org/packages/Brows.Sys.Win32.Windows) | 1.0.0 | Ken Yourek | Package Description |
+| 2026-10-08 02:33:26 | [CodeBrix.PostgresClient.PostgreSqlLicenseForever](https://www.nuget.org/packages/CodeBrix.PostgresClient.PostgreSqlLicenseForever) | 1.0.281.152 | Jeremy Ellis | A fully managed ADO.NET data provider for PostgreSQL, with connection pooling,… |
 
 ## Data source
 
