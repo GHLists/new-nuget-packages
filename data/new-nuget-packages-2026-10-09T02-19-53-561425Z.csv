@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-09T01:20:57.543Z,PdfiumWrapper.Processing,2.0.1,Emmanuel Hameyie,"Worker pool for PdfiumWrapper: runs PDF conversions in a dynamically sized set of worker processes so that rendering runs in parallel and a native failure costs one job, not the service. Page count, PNG, JPEG, TIFF and text extraction through a typed API."
+2026-10-09T01:23:07.707Z,Iyu.MainServer.GraphQL,0.37.0,iyulab,iyu-framework-v5: OData + GraphQL runtime framework for .NET 10.
+2026-10-09T01:40:27.117Z,QuartzPlugin,1.0.0,Dio Liew,A package to simplify the setting of Quartz v3 into main project of appsettings.json
+2026-10-09T01:43:55.547Z,Wslc.Testcontainers.Modules.Kafka,0.5.0,Nick Nadolski,Kafka module for Wslc.Testcontainers: typed single-node builder and bootstrap servers string.
+2026-10-09T01:52:38.487Z,SourceGenerators.Toolkit.Prism,1.0.5,Carlos,SourceGenerators.Toolkit.Prism

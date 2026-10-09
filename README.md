@@ -12,25 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 01:19 UTC
+## Latest list — 2026-10-09 02:19 UTC
 
-New packages created between 2026-10-09 00:21 UTC and 2026-10-09 01:19 UTC.
+New packages created between 2026-10-09 01:19 UTC and 2026-10-09 02:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T01-19-54-38469Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T02-19-53-561425Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 00:27:25 | [NickStrupat.AsyncLock](https://www.nuget.org/packages/NickStrupat.AsyncLock) | 0.0.1 | Nick Strupat | A thread-safe, FIFO, allocation-free async lock for .NET, with a Roslyn analyze… |
-| 2026-10-09 00:40:43 | [Webority.Imaging](https://www.nuget.org/packages/Webority.Imaging) | 0.1.0 | Webority Technologies | Decodes, encodes and processes images in JPEG, PNG, WebP, GIF, BMP and TIFF for… |
-| 2026-10-09 00:44:59 | [RVM.TcgDex](https://www.nuget.org/packages/RVM.TcgDex) | 1.0.0 | Rafael Veneroso Morici | C# SDK for the TCGdex API (Pokémon TCG): cards, sets, series, prices and images… |
-| 2026-10-09 00:46:30 | [FluentGwt.AspNetCore](https://www.nuget.org/packages/FluentGwt.AspNetCore) | 1.0.0 | Tommy Long | FluentGwt hosts for ASP.NET Core: the real entry point or a test composition, a… |
-| 2026-10-09 00:46:30 | [FluentGwt.Http](https://www.nuget.org/packages/FluentGwt.Http) | 1.0.0 | Tommy Long | FluentGwt HTTP redirection: replace the primary handler of HttpClientFactory cl… |
-| 2026-10-09 00:46:31 | [FluentGwt](https://www.nuget.org/packages/FluentGwt) | 1.0.0 | Tommy Long | Given/When/Then for .NET tests: chains that read as one expression, a ServiceFi… |
-| 2026-10-09 00:46:32 | [FluentGwt.Bogus](https://www.nuget.org/packages/FluentGwt.Bogus) | 1.0.0 | Tommy Long | FluentGwt with Bogus: fixture.Fake and fixture.Random, seeded from the fixture… |
-| 2026-10-09 00:46:33 | [FluentGwt.Moq](https://www.nuget.org/packages/FluentGwt.Moq) | 1.0.0 | Tommy Long | FluentGwt with Moq: Services.Stub<Service>() registers a mock that replaces eve… |
-| 2026-10-09 00:46:33 | [FluentGwt.Xunit](https://www.nuget.org/packages/FluentGwt.Xunit) | 1.0.0 | Tommy Long | FluentGwt for xunit v3: the test cancellation token and identity, integration t… |
-| 2026-10-09 00:59:00 | [MaksimShimshon.Mediator](https://www.nuget.org/packages/MaksimShimshon.Mediator) | 1.0.0 | MaksimShimshon.Mediator | Core Package for Lunatic Panel's PLugin |
-| 2026-10-09 01:03:58 | [Shirubasoft.Aspire.Tailscale](https://www.nuget.org/packages/Shirubasoft.Aspire.Tailscale) | 1.0.0 | Shirubasoft | Expose Aspire resources privately on a Tailscale tailnet through sidecar contai… |
+| 2026-10-09 01:20:57 | [PdfiumWrapper.Processing](https://www.nuget.org/packages/PdfiumWrapper.Processing) | 2.0.1 | Emmanuel Hameyie | Worker pool for PdfiumWrapper: runs PDF conversions in a dynamically sized set… |
+| 2026-10-09 01:23:07 | [Iyu.MainServer.GraphQL](https://www.nuget.org/packages/Iyu.MainServer.GraphQL) | 0.37.0 | iyulab | iyu-framework-v5: OData + GraphQL runtime framework for .NET 10. |
+| 2026-10-09 01:40:27 | [QuartzPlugin](https://www.nuget.org/packages/QuartzPlugin) | 1.0.0 | Dio Liew | A package to simplify the setting of Quartz v3 into main project of appsettings… |
+| 2026-10-09 01:43:55 | [Wslc.Testcontainers.Modules.Kafka](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Kafka) | 0.5.0 | Nick Nadolski | Kafka module for Wslc.Testcontainers: typed single-node builder and bootstrap s… |
+| 2026-10-09 01:52:38 | [SourceGenerators.Toolkit.Prism](https://www.nuget.org/packages/SourceGenerators.Toolkit.Prism) | 1.0.5 | Carlos | SourceGenerators.Toolkit.Prism |
 
 ## Data source
 
