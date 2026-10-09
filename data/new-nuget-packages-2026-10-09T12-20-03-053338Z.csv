@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-09T11:28:25.603Z,Speechwarp.Voice,0.3.7,The speechwarp contributors,"Text read aloud by Apple's voices (Eloquence and the rest) and sped up by speechwarp, rendered a little ahead of playback, for iOS. Not an official Apple or Google product."
+2026-10-09T11:36:06.13Z,Assertions.Web.Serializers.NewtonsoftJson,3.0.0,Adrian Iftode,"Newtonsoft.Json based serializer for FluentAssertions.Web, AwesomeAssertions.Web and Shouldly.Web"
+2026-10-09T11:41:21.34Z,Bexio.DotNet,2.0.0,Emanuel Mistretta,".NET client for the bexio API (2.0, 3.0 and 4.0) with personal access token and OAuth2 support, async, retry on rate limits and dependency injection."
+2026-10-09T11:42:36.15Z,Avd.Price.Client,0.0.1,AVD,gRPC client and contracts for AVD Price & Catalog Service
+2026-10-09T11:53:23.44Z,BlockAuth.Sdk,0.5.0,Block-Auth.io Team,BlockAuth Auth SDK (.NET) — blockchain-based authentication client.
+2026-10-09T12:03:21.143Z,Audacia.UnitTest.Dependency,1.0.0,Audacia,A helper library for generating target classes. Install this NuGet package to easily create test targets with realistic instances.
+2026-10-09T12:03:23.607Z,Audacia.UnitTest.Dependency.Azure,1.0.0,Audacia,"A helper library for creating blueprints for Azure clients. Install this NuGet package to provide fake instances of Azure Service Bus, Storage Queue and Blob Storage dependencies."
+2026-10-09T12:03:25.837Z,Audacia.UnitTest.Dependency.Http,1.0.0,Audacia,A helper library for creating blueprints for HttpClient. Install this NuGet package to provide a fake instance of HttpClient or HttpClientFactory.
+2026-10-09T12:06:27.2Z,JoMo.CmdArgs,1.0.0,jmorgenroth,Simple C# command line argument interpreter
