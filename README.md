@@ -12,23 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:20 UTC
+## Latest list — 2026-10-09 13:20 UTC
 
-New packages created between 2026-10-09 11:19 UTC and 2026-10-09 12:20 UTC.
+New packages created between 2026-10-09 12:20 UTC and 2026-10-09 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T12-20-03-053338Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T13-20-29-109951Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 11:28:25 | [Speechwarp.Voice](https://www.nuget.org/packages/Speechwarp.Voice) | 0.3.7 | The speechwarp contributors | Text read aloud by Apple's voices (Eloquence and the rest) and sped up by speec… |
-| 2026-10-09 11:36:06 | [Assertions.Web.Serializers.NewtonsoftJson](https://www.nuget.org/packages/Assertions.Web.Serializers.NewtonsoftJson) | 3.0.0 | Adrian Iftode | Newtonsoft.Json based serializer for FluentAssertions.Web, AwesomeAssertions.We… |
-| 2026-10-09 11:41:21 | [Bexio.DotNet](https://www.nuget.org/packages/Bexio.DotNet) | 2.0.0 | Emanuel Mistretta | .NET client for the bexio API (2.0, 3.0 and 4.0) with personal access token and… |
-| 2026-10-09 11:42:36 | [Avd.Price.Client](https://www.nuget.org/packages/Avd.Price.Client) | 0.0.1 | AVD | gRPC client and contracts for AVD Price & Catalog Service |
-| 2026-10-09 11:53:23 | [BlockAuth.Sdk](https://www.nuget.org/packages/BlockAuth.Sdk) | 0.5.0 | Block-Auth.io Team | BlockAuth Auth SDK (.NET) — blockchain-based authentication client. |
-| 2026-10-09 12:03:21 | [Audacia.UnitTest.Dependency](https://www.nuget.org/packages/Audacia.UnitTest.Dependency) | 1.0.0 | Audacia | A helper library for generating target classes. Install this NuGet package to e… |
-| 2026-10-09 12:03:23 | [Audacia.UnitTest.Dependency.Azure](https://www.nuget.org/packages/Audacia.UnitTest.Dependency.Azure) | 1.0.0 | Audacia | A helper library for creating blueprints for Azure clients. Install this NuGet… |
-| 2026-10-09 12:03:25 | [Audacia.UnitTest.Dependency.Http](https://www.nuget.org/packages/Audacia.UnitTest.Dependency.Http) | 1.0.0 | Audacia | A helper library for creating blueprints for HttpClient. Install this NuGet pac… |
-| 2026-10-09 12:06:27 | [JoMo.CmdArgs](https://www.nuget.org/packages/JoMo.CmdArgs) | 1.0.0 | jmorgenroth | Simple C# command line argument interpreter |
+| 2026-10-09 12:22:55 | [Filestar.win-x64](https://www.nuget.org/packages/Filestar.win-x64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for win-x64. Install the tool package 'Filestar' instead. |
+| 2026-10-09 12:23:02 | [Filestar.win-x86](https://www.nuget.org/packages/Filestar.win-x86) | 30.0.0 | Bosma Interactive AB | Filestar CLI for win-x86. Install the tool package 'Filestar' instead. |
+| 2026-10-09 12:23:08 | [Filestar.osx-x64](https://www.nuget.org/packages/Filestar.osx-x64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for osx-x64. Install the tool package 'Filestar' instead. |
+| 2026-10-09 12:23:14 | [Filestar.osx-arm64](https://www.nuget.org/packages/Filestar.osx-arm64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for osx-arm64. Install the tool package 'Filestar' instead. |
+| 2026-10-09 12:23:30 | [Filestar.linux-x64](https://www.nuget.org/packages/Filestar.linux-x64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for linux-x64. Install the tool package 'Filestar' instead. |
+| 2026-10-09 12:23:48 | [Filestar](https://www.nuget.org/packages/Filestar) | 30.0.0 | Bosma Interactive AB | Filestar converts, compresses, resizes, renames and transforms files: thousands… |
+| 2026-10-09 12:36:02 | [FS.GG.Governance.Config](https://www.nuget.org/packages/FS.GG.Governance.Config) | 0.3.0 | FS-GG | Package Description |
+| 2026-10-09 12:59:15 | [TensionDev.UUID.v8.CryptographicHash](https://www.nuget.org/packages/TensionDev.UUID.v8.CryptographicHash) | 0.1.0 | TensionDev amsga | TensionDev.UUID.v8.CryptographicHash is a .NET library that supports UUID versi… |
+| 2026-10-09 13:00:06 | [GreatUtilities.Web.Api](https://www.nuget.org/packages/GreatUtilities.Web.Api) | 0.1.569-beta | Rodrigo Leal | Essencial tools to agile development. |
 
 ## Data source
 
