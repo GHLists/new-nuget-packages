@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-09T02:22:54.59Z,FreeDotnetImageSharp,2.1.14,"Six Labors and contributors, FreeDotnetImageSharp contributors","Community-maintained, Apache-2.0 licensed fork of SixLabors.ImageSharp 2.1.13 with security fixes. Assembly name and namespaces are unchanged (drop-in replacement for SixLabors.ImageSharp 2.1.x). Not affiliated with or endorsed by Six Labors."
+2026-10-09T02:40:38.497Z,DSLToolsGen,1.0.0,Ghost4Man,Tool that generates editor support and an AST definition (as C# code) for a DSL (from an ANTLR grammar)
+2026-10-09T02:41:25.623Z,WolfAuth,1.0.0,Elysium Coding,"Core authentication subject contracts, claims mapping, and in-memory support for WolfAuth."
+2026-10-09T02:41:26.713Z,WolfAuth.AspNetCore,1.0.0,Elysium Coding,"ASP.NET Core authentication subject binding, current-subject access, and middleware for WolfAuth."
+2026-10-09T02:41:28.067Z,WolfAuth.Microsoft.EntraId,1.0.0,Elysium Coding,Microsoft Entra ID claims and group mapping adapter for WolfAuth authentication integrations.
+2026-10-09T02:41:29.397Z,WolfAuth.OpenIdConnect,1.0.0,Elysium Coding,OpenID Connect claims-to-subject provisioning mapper for WolfAuth authentication integrations.
+2026-10-09T02:49:46.997Z,Foxit.PDFConversionSDK.Dotnet.Linux64,4.0.0,Foxit Software Incorporated,Foxit PDF Conversion SDK managed and native libraries for .NET Core on Linux x64.
+2026-10-09T02:50:05.287Z,FreeDotnetPOI,2.7.7,"Tony Qu,NPOI Contributors,FreeDotnetPOI Contributors","Community-maintained, Apache-2.0 licensed fork of NPOI 2.7.6 (.NET port of Apache POI). Not affiliated with or endorsed by Nissl Lab or the Apache Software Foundation."
+2026-10-09T02:50:59.257Z,Thunderduck.Data,0.1.0,thunderduck,ADO.NET provider and async client for thunderduck (Dapper-compatible).
+2026-10-09T02:56:46.3Z,Foxit.PDFConversionSDK.Dotnet.LinuxArm,4.0.0,Foxit Software Incorporated,Foxit PDF Conversion SDK managed and native libraries for .NET Core on Linux ARM (armv7 and armv8).
+2026-10-09T02:58:00.14Z,CustomWin.Utils,3.0.0,鱼塘泛舟、404,CustomWin.Utils 是一个 C# WinForms 控件与工具库，聚合 Core / Drawing / Interop / WinForms 四个程序集，提供统一引用入口。
+2026-10-09T03:05:45.41Z,Foxit.PDFConversionSDK.Dotnet.Windows,4.0.0,Foxit Software Incorporated,Foxit PDF Conversion SDK managed and native libraries for .NET Core on Windows (x86 and x64).
+2026-10-09T03:07:59.227Z,Nooks,0.0.1,Nooks,lib

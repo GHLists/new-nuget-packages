@@ -12,19 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 02:19 UTC
+## Latest list — 2026-10-09 03:19 UTC
 
-New packages created between 2026-10-09 01:19 UTC and 2026-10-09 02:19 UTC.
+New packages created between 2026-10-09 02:19 UTC and 2026-10-09 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T02-19-53-561425Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T03-19-03-509844Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 01:20:57 | [PdfiumWrapper.Processing](https://www.nuget.org/packages/PdfiumWrapper.Processing) | 2.0.1 | Emmanuel Hameyie | Worker pool for PdfiumWrapper: runs PDF conversions in a dynamically sized set… |
-| 2026-10-09 01:23:07 | [Iyu.MainServer.GraphQL](https://www.nuget.org/packages/Iyu.MainServer.GraphQL) | 0.37.0 | iyulab | iyu-framework-v5: OData + GraphQL runtime framework for .NET 10. |
-| 2026-10-09 01:40:27 | [QuartzPlugin](https://www.nuget.org/packages/QuartzPlugin) | 1.0.0 | Dio Liew | A package to simplify the setting of Quartz v3 into main project of appsettings… |
-| 2026-10-09 01:43:55 | [Wslc.Testcontainers.Modules.Kafka](https://www.nuget.org/packages/Wslc.Testcontainers.Modules.Kafka) | 0.5.0 | Nick Nadolski | Kafka module for Wslc.Testcontainers: typed single-node builder and bootstrap s… |
-| 2026-10-09 01:52:38 | [SourceGenerators.Toolkit.Prism](https://www.nuget.org/packages/SourceGenerators.Toolkit.Prism) | 1.0.5 | Carlos | SourceGenerators.Toolkit.Prism |
+| 2026-10-09 02:22:54 | [FreeDotnetImageSharp](https://www.nuget.org/packages/FreeDotnetImageSharp) | 2.1.14 | Six Labors and contributors,… | Community-maintained, Apache-2.0 licensed fork of SixLabors.ImageSharp 2.1.13 w… |
+| 2026-10-09 02:40:38 | [DSLToolsGen](https://www.nuget.org/packages/DSLToolsGen) | 1.0.0 | Ghost4Man | Tool that generates editor support and an AST definition (as C# code) for a DSL… |
+| 2026-10-09 02:41:25 | [WolfAuth](https://www.nuget.org/packages/WolfAuth) | 1.0.0 | Elysium Coding | Core authentication subject contracts, claims mapping, and in-memory support fo… |
+| 2026-10-09 02:41:26 | [WolfAuth.AspNetCore](https://www.nuget.org/packages/WolfAuth.AspNetCore) | 1.0.0 | Elysium Coding | ASP.NET Core authentication subject binding, current-subject access, and middle… |
+| 2026-10-09 02:41:28 | [WolfAuth.Microsoft.EntraId](https://www.nuget.org/packages/WolfAuth.Microsoft.EntraId) | 1.0.0 | Elysium Coding | Microsoft Entra ID claims and group mapping adapter for WolfAuth authentication… |
+| 2026-10-09 02:41:29 | [WolfAuth.OpenIdConnect](https://www.nuget.org/packages/WolfAuth.OpenIdConnect) | 1.0.0 | Elysium Coding | OpenID Connect claims-to-subject provisioning mapper for WolfAuth authenticatio… |
+| 2026-10-09 02:49:46 | [Foxit.PDFConversionSDK.Dotnet.Linux64](https://www.nuget.org/packages/Foxit.PDFConversionSDK.Dotnet.Linux64) | 4.0.0 | Foxit Software Incorporated | Foxit PDF Conversion SDK managed and native libraries for .NET Core on Linux x6… |
+| 2026-10-09 02:50:05 | [FreeDotnetPOI](https://www.nuget.org/packages/FreeDotnetPOI) | 2.7.7 | Tony Qu,NPOI Contributors,Fre… | Community-maintained, Apache-2.0 licensed fork of NPOI 2.7.6 (.NET port of Apac… |
+| 2026-10-09 02:50:59 | [Thunderduck.Data](https://www.nuget.org/packages/Thunderduck.Data) | 0.1.0 | thunderduck | ADO.NET provider and async client for thunderduck (Dapper-compatible). |
+| 2026-10-09 02:56:46 | [Foxit.PDFConversionSDK.Dotnet.LinuxArm](https://www.nuget.org/packages/Foxit.PDFConversionSDK.Dotnet.LinuxArm) | 4.0.0 | Foxit Software Incorporated | Foxit PDF Conversion SDK managed and native libraries for .NET Core on Linux AR… |
+| 2026-10-09 02:58:00 | [CustomWin.Utils](https://www.nuget.org/packages/CustomWin.Utils) | 3.0.0 | 鱼塘泛舟、404 | CustomWin.Utils 是一个 C# WinForms 控件与工具库，聚合 Core / Drawing / Interop / WinForms 四… |
+| 2026-10-09 03:05:45 | [Foxit.PDFConversionSDK.Dotnet.Windows](https://www.nuget.org/packages/Foxit.PDFConversionSDK.Dotnet.Windows) | 4.0.0 | Foxit Software Incorporated | Foxit PDF Conversion SDK managed and native libraries for .NET Core on Windows… |
+| 2026-10-09 03:07:59 | [Nooks](https://www.nuget.org/packages/Nooks) | 0.0.1 | Nooks | lib |
 
 ## Data source
 
