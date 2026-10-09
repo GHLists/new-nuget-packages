@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-09T10:38:48.27Z,MonixOne.Inbox,1.1.1,Shulyakovsky.E,"Ordered inbox for .NET 10, EF Core, PostgreSQL and NATS JetStream with transactional handlers, per-key ordering, deduplication, retries and dead-letter storage."
+2026-10-09T10:58:44.253Z,SimplyWorks.Bitween.Adapters,10.0.59,Simplify9,"The Bitween adapter contract: the kinds of adapter Bitween runs (handler, mapper, validator, receiver), what it calls on each, and the payloads it exchanges with them."
+2026-10-09T11:03:24.47Z,DijkstraFast,1.0.0,Oleksandr Semeniuk,"Fast Dijkstra and A* shortest-path search for graphs with integer node indices. Finds the cheapest path between two nodes, the nearest node matching a condition, or the cheapest paths to every node. Optional weighted A* trades a bounded amount of path quality for speed. No dependencies."
