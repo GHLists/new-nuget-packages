@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-09T22:23:55.8Z,Packata-cli.linux-arm64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:23:57.177Z,Packata-cli.linux-musl-arm64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:23:58.437Z,Packata-cli.linux-musl-x64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:23:59.713Z,Packata-cli.linux-x64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:24:00.84Z,Packata-cli.osx-arm64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:24:01.883Z,Packata-cli.osx-x64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:24:03.117Z,Packata-cli.win-arm64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:24:04.277Z,Packata-cli.win-x64,0.45.0,Cédric L. Charlier,Cross-platform command-line interface for Packata.
+2026-10-09T22:32:22.45Z,ElBruno.AI.Decisions,0.6.1,Bruno Capuano (ElBruno),"Provider-neutral .NET 10 abstractions for AI decision models: Choice, Score, and Assess with calibrated probabilities. Providers: Microsoft-Decision-1 on Foundry, Ollama, and Jev."
+2026-10-09T22:32:23.557Z,ElBruno.AI.Decisions.Jev,0.6.1,Bruno Capuano (ElBruno),"Tentative early-access .NET 10 client for TypeSafe AI Jev and local Laya typed decisions: Choice, Score, Noul, model discovery, and Microsoft.Extensions.AI tools, routing and assessments. Live TypeSafe compatibility is unverified; evaluate before production use."
+2026-10-09T22:32:24.777Z,ElBruno.AI.Decisions.Foundry,0.6.1,Bruno Capuano (ElBruno),"Microsoft-Decision-1 on Microsoft Foundry for ElBruno.AI.Decisions: Choice, Score, and Assess through the Microsoft SystemOne API. Early-access SDK; validate model calibration for your workload."
+2026-10-09T22:32:26.19Z,ElBruno.AI.Decisions.Ollama,0.6.1,Bruno Capuano (ElBruno),"Local System One decision models for ElBruno.AI.Decisions through Ollama v0.35.0 or later: native Choice, Score, and Assess probabilities. Confidence is not calibrated correctness. Tentative early access."
+2026-10-09T22:54:14.95Z,AdminForge.EntityFrameworkCore,0.7.0,Adam Verner,Serves AdminForge tables from an EF Core DbContext.
+2026-10-09T22:54:15.443Z,AdminForge.Mcp,0.7.0,Adam Verner,Serves an AdminForge panel as MCP tools behind the panel's own OAuth.
+2026-10-09T23:03:46.26Z,AbpMcp,0.2.1-alpha,tekthar and abp-mcp contributors,"Auto-generates a Model Context Protocol (MCP) server from an ABP Framework application's Application Services. In-process, permission-aware, tenancy-aware."
+2026-10-09T23:10:09.85Z,Cendia.CMS,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.CMS."
