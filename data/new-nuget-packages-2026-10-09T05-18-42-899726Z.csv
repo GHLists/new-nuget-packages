@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-09T04:28:37.943Z,LumoAuth,1.0.0,LumoAuth,"The official LumoAuth SDK for .NET: RBAC, Zanzibar and ABAC authorization checks, OAuth 2.1 / OIDC sign-in, AI-agent identity (approvals, Just-in-Time permissions, delegation) and AAuth RFC 9421 request signing. Add LumoAuth.AspNetCore for ASP.NET Core integration."
+2026-10-09T04:28:48.803Z,LumoAuth.AspNetCore,1.0.0,LumoAuth,"ASP.NET Core integration for the LumoAuth SDK: dependency injection from configuration, a bearer-token authentication scheme, OpenID Connect sign-in, [RequirePermission] / [RequireRelation] / [RequireAbac] authorization policies, and a health check."
+2026-10-09T04:28:51.72Z,NSail.Messaging.Sse,0.1.65,"Leonardo Porro,Emmanuel Arias","NSail.Messaging.Sse, part of NSail Stack: a .NET modular-monolith framework (messaging, data, security, Blazor and React clients)."
+2026-10-09T04:42:59.353Z,DotNetCore.AiguilleUnit.Serialization,1.3.0,DotNetCore.AiguilleUnit.Serialization,DotNetCore AiguilleUnit Serialization unit library
+2026-10-09T04:43:03.923Z,DotNetCore.AiguilleUnit.Serialization.NewtonsoftJson,1.3.0,DotNetCore.AiguilleUnit.Serialization.NewtonsoftJson,DotNetCore AiguilleUnit Newtonsoft.Json serialization support
+2026-10-09T04:44:50.257Z,PluginExtension.Common,1.0.0,Xanvil,插件包管理：浏览/安装/卸载基于Nuget包格式的插件包
+2026-10-09T05:00:44.887Z,Cratis.Screenplay.Contracts,4.103.0,all contributors,"Machine-readable Screenplay language and tool contract, independent of an MCP connection"

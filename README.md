@@ -12,27 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 04:18 UTC
+## Latest list — 2026-10-09 05:18 UTC
 
-New packages created between 2026-10-09 03:19 UTC and 2026-10-09 04:18 UTC.
+New packages created between 2026-10-09 04:18 UTC and 2026-10-09 05:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T04-18-53-096642Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T05-18-42-899726Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 03:27:52 | [JupiterScheduler.OperationClient](https://www.nuget.org/packages/JupiterScheduler.OperationClient) | 1.0.0 | JupiterScheduler.OperationCli… | SeaDate operation client adapter for Jupiter Scheduler. |
-| 2026-10-09 03:29:57 | [HuangyuCN.Atlas.Sdk](https://www.nuget.org/packages/HuangyuCN.Atlas.Sdk) | 0.7.0 | huangyuCN | Atlas 帧协议 C# 客户端 SDK（Unity 优先）：四通道 + dual + 双层心跳 + 重连 + 三编码 |
-| 2026-10-09 03:31:34 | [Web.Authentication](https://www.nuget.org/packages/Web.Authentication) | 1.0.0 | Dio Liew | A package to ease the configuration of JWT Authentication. |
-| 2026-10-09 03:32:04 | [MorseCode.Avalonia.Controls](https://www.nuget.org/packages/MorseCode.Avalonia.Controls) | 0.1.0 | MorseCode Software LLC | Avalonia controls and converters for views that bind to view models written in… |
-| 2026-10-09 03:32:16 | [Web.Authorization](https://www.nuget.org/packages/Web.Authorization) | 1.0.0 | Dio Liew | A package to ease the configuration of Authorization. |
-| 2026-10-09 03:33:02 | [Web.Configuration](https://www.nuget.org/packages/Web.Configuration) | 1.0.0 | Dio Liew | A package to ease the configuration of Web. |
-| 2026-10-09 03:33:41 | [Web.Exception](https://www.nuget.org/packages/Web.Exception) | 1.0.0 | Dio Liew | A package to ease the configuration of Web Exception. |
-| 2026-10-09 03:34:15 | [Web.JWT](https://www.nuget.org/packages/Web.JWT) | 1.0.0 | Dio Liew | A package to ease the configuration of JWT configuration. |
-| 2026-10-09 03:34:56 | [Web.OpenApi](https://www.nuget.org/packages/Web.OpenApi) | 1.0.0 | Dio Liew | A package to ease the configuration of OpenApi. |
-| 2026-10-09 03:45:52 | [Manjalabs.Core](https://www.nuget.org/packages/Manjalabs.Core) | 1.0.0-pre-release | Manjalabs | Manjalabs core library: auth, caching, Camunda, logging, middleware, repository… |
-| 2026-10-09 03:46:20 | [Manjalabs.Core.MySql](https://www.nuget.org/packages/Manjalabs.Core.MySql) | 1.0.0-pre-release | Manjalabs | MySQL (EF Core + Pomelo) data store for Manjalabs.Core: IRepoClient implementat… |
-| 2026-10-09 03:49:21 | [GreatUtilities.JwtAuthenticationHelper](https://www.nuget.org/packages/GreatUtilities.JwtAuthenticationHelper) | 0.1.568-beta | Rodrigo Leal | Essencial tools to agile development. |
-| 2026-10-09 03:56:02 | [Webority.Testing](https://www.nuget.org/packages/Webority.Testing) | 0.1.0 | Webority Technologies | Golden-file comparison and byte-pin checks for MSTest tests: Golden.Match compa… |
+| 2026-10-09 04:28:37 | [LumoAuth](https://www.nuget.org/packages/LumoAuth) | 1.0.0 | LumoAuth | The official LumoAuth SDK for .NET: RBAC, Zanzibar and ABAC authorization check… |
+| 2026-10-09 04:28:48 | [LumoAuth.AspNetCore](https://www.nuget.org/packages/LumoAuth.AspNetCore) | 1.0.0 | LumoAuth | ASP.NET Core integration for the LumoAuth SDK: dependency injection from config… |
+| 2026-10-09 04:28:51 | [NSail.Messaging.Sse](https://www.nuget.org/packages/NSail.Messaging.Sse) | 0.1.65 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.Sse, part of NSail Stack: a .NET modular-monolith framework (me… |
+| 2026-10-09 04:42:59 | [DotNetCore.AiguilleUnit.Serialization](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Serialization) | 1.3.0 | DotNetCore.AiguilleUnit.Seria… | DotNetCore AiguilleUnit Serialization unit library |
+| 2026-10-09 04:43:03 | [DotNetCore.AiguilleUnit.Serialization.NewtonsoftJson](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Serialization.NewtonsoftJson) | 1.3.0 | DotNetCore.AiguilleUnit.Seria… | DotNetCore AiguilleUnit Newtonsoft.Json serialization support |
+| 2026-10-09 04:44:50 | [PluginExtension.Common](https://www.nuget.org/packages/PluginExtension.Common) | 1.0.0 | Xanvil | 插件包管理：浏览/安装/卸载基于Nuget包格式的插件包 |
+| 2026-10-09 05:00:44 | [Cratis.Screenplay.Contracts](https://www.nuget.org/packages/Cratis.Screenplay.Contracts) | 4.103.0 | all contributors | Machine-readable Screenplay language and tool contract, independent of an MCP c… |
 
 ## Data source
 
