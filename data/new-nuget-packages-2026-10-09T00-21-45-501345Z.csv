@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-08T23:26:39.157Z,OpenRecite,1.0.0,ArabidopsisDev,"Platform-independent study review SDK with FSRS-6, SM-2, Leitner, project persistence, answer evaluation, and review-session generation."
+2026-10-09T00:04:26.777Z,diegoschagas.api.infrastructure,1.5.43,Diego Struk Chagas,"Infrastructure services, authentication integration and technical implementations for DSC microservices."
+2026-10-09T00:12:34.53Z,AlphaQuantum.SellDataToAI,1.0.0,Alpha Quantum,".NET client for the Data Asset Score API from selldatatoai.com: score company domains 0 to 100 for the data AI buyers want, singly or in batches of 100."
