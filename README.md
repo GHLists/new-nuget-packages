@@ -12,25 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 07:20 UTC
+## Latest list — 2026-10-09 08:19 UTC
 
-New packages created between 2026-10-09 06:20 UTC and 2026-10-09 07:20 UTC.
+New packages created between 2026-10-09 07:20 UTC and 2026-10-09 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T07-20-19-708341Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T08-19-53-583843Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 06:22:39 | [LogicLooper.Diagnostics](https://www.nuget.org/packages/LogicLooper.Diagnostics) | 1.7.0 | Cysharp | Provides diagnostic and monitoring support for LogicLooper. |
-| 2026-10-09 06:36:18 | [HoneyPlayBox.OpenSDK](https://www.nuget.org/packages/HoneyPlayBox.OpenSDK) | 1.0.1-beta | HoneyPlayBox | HoneyPlayBox BLE toy SDK for .NET |
-| 2026-10-09 06:50:00 | [GroveGames.Database](https://www.nuget.org/packages/GroveGames.Database) | 0.1.0 | Grove Games | Fast, crash-safe local document database for games on .NET, Unity and Godot |
-| 2026-10-09 07:05:10 | [Packata.ResourceReaders.Database](https://www.nuget.org/packages/Packata.ResourceReaders.Database) | 0.44.0 | Cédric L. Charlier | Database resource reader provider for Packata. |
-| 2026-10-09 07:05:12 | [Packata.ResourceReaders.Excel](https://www.nuget.org/packages/Packata.ResourceReaders.Excel) | 0.44.0 | Cédric L. Charlier | Excel resource reader provider for Packata. |
-| 2026-10-09 07:05:13 | [Packata.ResourceReaders.FixedWidth](https://www.nuget.org/packages/Packata.ResourceReaders.FixedWidth) | 0.44.0 | Cédric L. Charlier | Fixed-width resource reader provider for Packata. |
-| 2026-10-09 07:05:15 | [Packata.ResourceReaders.KeyValue](https://www.nuget.org/packages/Packata.ResourceReaders.KeyValue) | 0.44.0 | Cédric L. Charlier | LTSV and logfmt resource reader providers for Packata. |
-| 2026-10-09 07:05:16 | [Packata.ResourceReaders.Ndjson](https://www.nuget.org/packages/Packata.ResourceReaders.Ndjson) | 0.44.0 | Cédric L. Charlier | NDJSON resource reader provider for Packata. |
-| 2026-10-09 07:05:18 | [Packata.ResourceReaders.Parquet](https://www.nuget.org/packages/Packata.ResourceReaders.Parquet) | 0.44.0 | Cédric L. Charlier | Parquet resource reader provider for Packata. |
-| 2026-10-09 07:05:19 | [Packata.ResourceReaders.WebLogs](https://www.nuget.org/packages/Packata.ResourceReaders.WebLogs) | 0.44.0 | Cédric L. Charlier | Common and W3C web-log resource reader providers for Packata. |
-| 2026-10-09 07:10:46 | [Blazor.Untranslated](https://www.nuget.org/packages/Blazor.Untranslated) | 0.1.0 | Vlad Mihalachi | Fails the build when a Blazor component (.razor) renders literal text instead o… |
+| 2026-10-09 07:31:13 | [Universe.MemoryPack.Generator](https://www.nuget.org/packages/Universe.MemoryPack.Generator) | 1.30.0 | Cysharp,Ryan Martin | Code generator for MemoryPack. |
+| 2026-10-09 07:31:52 | [Universe.MemoryPack](https://www.nuget.org/packages/Universe.MemoryPack) | 1.30.0 | Cysharp,Ryan Martin | Zero encoding extreme performance binary serializer for C#. |
+| 2026-10-09 08:08:36 | [VL.MediaControls.HDE](https://www.nuget.org/packages/VL.MediaControls.HDE) | 1.0.0 | vvvv | Control your media sessions from the vvvv editor |
 
 ## Data source
 
