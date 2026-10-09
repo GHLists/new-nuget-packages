@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-09T18:21:33.157Z,ErtisAuth.Sdk.AspNetCore,10.0.0,Ertuğrul Özcan,ErtisAuth SDK AspNetCore Extension
+2026-10-09T18:27:32.507Z,ManagedCode.Prostir.Cli.linux-x64,0.4.261009.3,ManagedCode,Prostir creator worker and MCP command-line tool.
+2026-10-09T18:27:40.29Z,ManagedCode.Prostir.Cli.win-x64,0.4.261009.3,ManagedCode,Prostir creator worker and MCP command-line tool.
+2026-10-09T18:27:49.027Z,ManagedCode.Prostir.Cli.osx-x64,0.4.261009.3,ManagedCode,Prostir creator worker and MCP command-line tool.
+2026-10-09T18:27:58.547Z,ManagedCode.Prostir.Cli.osx-arm64,0.4.261009.3,ManagedCode,Prostir creator worker and MCP command-line tool.
+2026-10-09T18:27:59.817Z,ManagedCode.Prostir.Cli,0.4.261009.3,ManagedCode,Prostir creator worker and MCP command-line tool.
+2026-10-09T18:47:23.993Z,Cendia.SchemaGenerator,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.SchemaGenerator."
+2026-10-09T18:47:24.66Z,Cendia.Storage.AzureBlob,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.Storage.AzureBlob."
+2026-10-09T18:47:25.19Z,Cendia.Templates,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.Templates."
+2026-10-09T18:47:25.8Z,Cendia.UI,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.UI."
+2026-10-09T18:47:26.383Z,Cendia.AspNetCore,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.AspNetCore."
+2026-10-09T18:47:26.903Z,Cendia.Captcha.Turnstile,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.Captcha.Turnstile."
+2026-10-09T18:47:27.44Z,Cendia.Core,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.Core."
+2026-10-09T18:47:27.933Z,Cendia.Data,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.Data."
+2026-10-09T18:47:28.437Z,Cendia.License,0.0.1,Cendia,"Placeholder. Cendia packages are not distributed on nuget.org. Add the Cendia feed, https://nuget.cendia.com/index.json, as a package source to install Cendia.License."
+2026-10-09T18:56:12.573Z,Sxnnyside.Pollux,0.1.0,Sxnnyside Project,Deterministic Execution Authority and Sandboxing SDK for the .NET Runtime
+2026-10-09T18:59:15.673Z,Agile.Maui.PdfGen,1.2.0,Micael Otowicz,"Biblioteca open source de geração de PDF para .NET MAUI com API fluente inspirada no QuestPDF. Motor de layout independente de plataforma; renderização via APIs nativas (Android PdfDocument, iOS/Mac CGContextPDF) e escritor PDF gerenciado. Fontes TrueType/OTF embutidas com Unicode e subsetting, gra…"
+2026-10-09T19:02:33.687Z,CommunityToolkit.VectorData.Chroma,1.0.0-preview,"Microsoft.Toolkit,dotnetfoundation,Community Toolkit",Chroma provider for Microsoft.Extensions.VectorData by the .NET Community Toolkit
+2026-10-09T19:07:00.473Z,HexDB.EntityFrameworkCore,1.0.0,Dream In Hex,"Entity Framework Core provider for HexDB: LINQ queries translated to HexDB's filters, sorting and paging; SaveChanges as one atomic HexDB transaction."
+2026-10-09T19:07:00.973Z,HexDB.Client,1.0.0,Dream In Hex,"Client for HexDB, the hexagonal document database."
