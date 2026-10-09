@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 21:22 UTC
+## Latest list — 2026-10-09 22:22 UTC
 
-New packages created between 2026-10-09 20:21 UTC and 2026-10-09 21:22 UTC.
+New packages created between 2026-10-09 21:22 UTC and 2026-10-09 22:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T21-22-15-407821Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T22-22-02-070136Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 20:37:24 | [Egodystonic.TinyFFR.ImGui](https://www.nuget.org/packages/Egodystonic.TinyFFR.ImGui) | 1.0.0-rc001 | Ben Bowen | A Tiny Fixed Function Rendering library for C#. Dear ImGui integration package. |
-| 2026-10-09 20:56:40 | [Ollaya.Client](https://www.nuget.org/packages/Ollaya.Client) | 1.0.0 | Amir | A simple .NET client for Ollaya - local decision models API |
+| 2026-10-09 22:09:07 | [Shawboy278.Meh](https://www.nuget.org/packages/Shawboy278.Meh) | 0.1.0 | Jason Shaw | My Extendable Hack (meh): an extendable command-line utility to help automate w… |
+| 2026-10-09 22:09:08 | [Shawboy278.Meh.Core](https://www.nuget.org/packages/Shawboy278.Meh.Core) | 0.1.0 | Jason Shaw | Core abstractions for building command modules for meh (My Extendable Hack). |
 
 ## Data source
 
