@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-09T13:26:27.55Z,JRK.JevRunner,0.0.2,Jeppe Roi Kristensen,"Unofficial .NET client for Jev and the TypeSafe System One API. Submit application state and named questions, and consume typed responses."
+2026-10-09T13:29:45.957Z,SI.WA.Import,1.0.0,seriiiastreb@gmail.com,"Data import for WA.Core: reads flat files (Excel, CSV, JSON, XML, HTML, Markdown, DBF), maps their columns to a WA.FM table and converts every value to the target column type, reporting errors per row and column."
+2026-10-09T13:33:13.427Z,RAGToolkit.AI.VectorData.Abstractions,1.0.1,gimmick,Experimental sparse vector abstractions for RAG vector providers.
+2026-10-09T13:33:17.06Z,RAGToolkit.AI.VectorData.Tei,1.0.1,gimmick,Text Embeddings Inference provider for sparse embedding generation.
+2026-10-09T13:33:19.96Z,RAGToolkit.AI.VectorData.Qdrant,1.0.1,gimmick,"Experimental Qdrant vector store provider for RAGToolkit.AI.VectorData, based on the Semantic Kernel Qdrant connector."
+2026-10-09T13:34:12.643Z,aliyun-net-sdk-airegistry,1.0.0,Alibaba Cloud,Alibaba Cloud SDK for .NET
+2026-10-09T13:34:19.86Z,ExcelRenderer.Mapping,1.8.0,akrym1582,Map C# objects and JSON into Excel templates with nested row arrays.
+2026-10-09T13:41:38.117Z,fairflip,1.0.0,CarbonNeuron,A command-line coin flipper with cryptographic and comparison strategies.
+2026-10-09T13:52:34.3Z,DanishCvr,1.0.0,Michael Vivet,"Search and retrieve company, production unit, person and relation information from the Danish Central Business Register (CVR), including status, business type, industry, employment, addresses and ownership. Includes a batch service for exporting the full register."
+2026-10-09T13:54:26.873Z,RAGToolkit.AI.DataRetrieval.Abstractions,1.0.0,gimmick,Retrieval abstractions for RAG pipelines.
+2026-10-09T13:54:29.687Z,RAGToolkit.AI.DataRetrieval,1.0.0,gimmick,Retrieval pipeline utilities for RAG.
+2026-10-09T13:54:32.417Z,RAGToolkit.AI.DataRetrieval.Tei,1.0.0,gimmick,Text Embeddings Inference provider for RAGToolkit.AI.DataRetrieval.
+2026-10-09T13:54:35.03Z,RAGToolkit.AI.DataRetrieval.Cohere,1.0.0,gimmick,Cohere Rerank API provider for RAGToolkit.AI.DataRetrieval.
+2026-10-09T14:02:32.547Z,Snappiest,0.9.0,zcsizmadia,"High-performance Snappy compression for .NET 8+, using SIMD and hardware intrinsics on x64 and arm64. API-compatible with Snappier: switch the namespace from Snappier to Snappiest."
+2026-10-09T14:12:47.293Z,Meridian.Sluice,0.2.0,Max Anstey,"Dependency-tracking invalidation for FusionCache. A cached value records what it read while it was computed, and a write evicts only the values that read what it changed."
+2026-10-09T14:12:48.047Z,Meridian.Sluice.EntityFrameworkCore,0.2.0,Max Anstey,"EF Core integration for Sluice: read helpers that take their dependencies from the EF model, strict reads inside a compute, and invalidation of tracked writes once they commit."
+2026-10-09T14:14:03.303Z,Backlot.Studio,0.2.0,Jeroen Wijdeven Holding B.V.,Embeddable admin UI for Backlot. Call AddBacklotStudio() and MapBacklotStudio() to mount the Studio Razor Pages inside any ASP.NET Core host.
+2026-10-09T14:14:04.4Z,Backlot.Testing.Defaults,0.2.0,Jeroen Wijdeven Holding B.V.,Package Description

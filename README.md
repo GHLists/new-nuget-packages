@@ -12,23 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 13:20 UTC
+## Latest list — 2026-10-09 14:20 UTC
 
-New packages created between 2026-10-09 12:20 UTC and 2026-10-09 13:20 UTC.
+New packages created between 2026-10-09 13:20 UTC and 2026-10-09 14:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T13-20-29-109951Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T14-20-22-28661Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 12:22:55 | [Filestar.win-x64](https://www.nuget.org/packages/Filestar.win-x64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for win-x64. Install the tool package 'Filestar' instead. |
-| 2026-10-09 12:23:02 | [Filestar.win-x86](https://www.nuget.org/packages/Filestar.win-x86) | 30.0.0 | Bosma Interactive AB | Filestar CLI for win-x86. Install the tool package 'Filestar' instead. |
-| 2026-10-09 12:23:08 | [Filestar.osx-x64](https://www.nuget.org/packages/Filestar.osx-x64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for osx-x64. Install the tool package 'Filestar' instead. |
-| 2026-10-09 12:23:14 | [Filestar.osx-arm64](https://www.nuget.org/packages/Filestar.osx-arm64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for osx-arm64. Install the tool package 'Filestar' instead. |
-| 2026-10-09 12:23:30 | [Filestar.linux-x64](https://www.nuget.org/packages/Filestar.linux-x64) | 30.0.0 | Bosma Interactive AB | Filestar CLI for linux-x64. Install the tool package 'Filestar' instead. |
-| 2026-10-09 12:23:48 | [Filestar](https://www.nuget.org/packages/Filestar) | 30.0.0 | Bosma Interactive AB | Filestar converts, compresses, resizes, renames and transforms files: thousands… |
-| 2026-10-09 12:36:02 | [FS.GG.Governance.Config](https://www.nuget.org/packages/FS.GG.Governance.Config) | 0.3.0 | FS-GG | Package Description |
-| 2026-10-09 12:59:15 | [TensionDev.UUID.v8.CryptographicHash](https://www.nuget.org/packages/TensionDev.UUID.v8.CryptographicHash) | 0.1.0 | TensionDev amsga | TensionDev.UUID.v8.CryptographicHash is a .NET library that supports UUID versi… |
-| 2026-10-09 13:00:06 | [GreatUtilities.Web.Api](https://www.nuget.org/packages/GreatUtilities.Web.Api) | 0.1.569-beta | Rodrigo Leal | Essencial tools to agile development. |
+| 2026-10-09 13:26:27 | [JRK.JevRunner](https://www.nuget.org/packages/JRK.JevRunner) | 0.0.2 | Jeppe Roi Kristensen | Unofficial .NET client for Jev and the TypeSafe System One API. Submit applicat… |
+| 2026-10-09 13:29:45 | [SI.WA.Import](https://www.nuget.org/packages/SI.WA.Import) | 1.0.0 | seriiiastreb@gmail.com | Data import for WA.Core: reads flat files (Excel, CSV, JSON, XML, HTML, Markdow… |
+| 2026-10-09 13:33:13 | [RAGToolkit.AI.VectorData.Abstractions](https://www.nuget.org/packages/RAGToolkit.AI.VectorData.Abstractions) | 1.0.1 | gimmick | Experimental sparse vector abstractions for RAG vector providers. |
+| 2026-10-09 13:33:17 | [RAGToolkit.AI.VectorData.Tei](https://www.nuget.org/packages/RAGToolkit.AI.VectorData.Tei) | 1.0.1 | gimmick | Text Embeddings Inference provider for sparse embedding generation. |
+| 2026-10-09 13:33:19 | [RAGToolkit.AI.VectorData.Qdrant](https://www.nuget.org/packages/RAGToolkit.AI.VectorData.Qdrant) | 1.0.1 | gimmick | Experimental Qdrant vector store provider for RAGToolkit.AI.VectorData, based o… |
+| 2026-10-09 13:34:12 | [aliyun-net-sdk-airegistry](https://www.nuget.org/packages/aliyun-net-sdk-airegistry) | 1.0.0 | Alibaba Cloud | Alibaba Cloud SDK for .NET |
+| 2026-10-09 13:34:19 | [ExcelRenderer.Mapping](https://www.nuget.org/packages/ExcelRenderer.Mapping) | 1.8.0 | akrym1582 | Map C# objects and JSON into Excel templates with nested row arrays. |
+| 2026-10-09 13:41:38 | [fairflip](https://www.nuget.org/packages/fairflip) | 1.0.0 | CarbonNeuron | A command-line coin flipper with cryptographic and comparison strategies. |
+| 2026-10-09 13:52:34 | [DanishCvr](https://www.nuget.org/packages/DanishCvr) | 1.0.0 | Michael Vivet | Search and retrieve company, production unit, person and relation information f… |
+| 2026-10-09 13:54:26 | [RAGToolkit.AI.DataRetrieval.Abstractions](https://www.nuget.org/packages/RAGToolkit.AI.DataRetrieval.Abstractions) | 1.0.0 | gimmick | Retrieval abstractions for RAG pipelines. |
+| 2026-10-09 13:54:29 | [RAGToolkit.AI.DataRetrieval](https://www.nuget.org/packages/RAGToolkit.AI.DataRetrieval) | 1.0.0 | gimmick | Retrieval pipeline utilities for RAG. |
+| 2026-10-09 13:54:32 | [RAGToolkit.AI.DataRetrieval.Tei](https://www.nuget.org/packages/RAGToolkit.AI.DataRetrieval.Tei) | 1.0.0 | gimmick | Text Embeddings Inference provider for RAGToolkit.AI.DataRetrieval. |
+| 2026-10-09 13:54:35 | [RAGToolkit.AI.DataRetrieval.Cohere](https://www.nuget.org/packages/RAGToolkit.AI.DataRetrieval.Cohere) | 1.0.0 | gimmick | Cohere Rerank API provider for RAGToolkit.AI.DataRetrieval. |
+| 2026-10-09 14:02:32 | [Snappiest](https://www.nuget.org/packages/Snappiest) | 0.9.0 | zcsizmadia | High-performance Snappy compression for .NET 8+, using SIMD and hardware intrin… |
+| 2026-10-09 14:12:47 | [Meridian.Sluice](https://www.nuget.org/packages/Meridian.Sluice) | 0.2.0 | Max Anstey | Dependency-tracking invalidation for FusionCache. A cached value records what i… |
+| 2026-10-09 14:12:48 | [Meridian.Sluice.EntityFrameworkCore](https://www.nuget.org/packages/Meridian.Sluice.EntityFrameworkCore) | 0.2.0 | Max Anstey | EF Core integration for Sluice: read helpers that take their dependencies from… |
+| 2026-10-09 14:14:03 | [Backlot.Studio](https://www.nuget.org/packages/Backlot.Studio) | 0.2.0 | Jeroen Wijdeven Holding B.V. | Embeddable admin UI for Backlot. Call AddBacklotStudio() and MapBacklotStudio()… |
+| 2026-10-09 14:14:04 | [Backlot.Testing.Defaults](https://www.nuget.org/packages/Backlot.Testing.Defaults) | 0.2.0 | Jeroen Wijdeven Holding B.V. | Package Description |
 
 ## Data source
 
