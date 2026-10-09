@@ -12,25 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 15:21 UTC
+## Latest list — 2026-10-09 16:21 UTC
 
-New packages created between 2026-10-09 14:20 UTC and 2026-10-09 15:21 UTC.
+New packages created between 2026-10-09 15:21 UTC and 2026-10-09 16:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T15-21-07-636002Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T16-21-09-346943Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 14:26:37 | [IronMarten.Bearing.Connect](https://www.nuget.org/packages/IronMarten.Bearing.Connect) | 1.0.0 | Iron Marten | Package Description |
-| 2026-10-09 14:32:28 | [Filoroch.Template.Solution](https://www.nuget.org/packages/Filoroch.Template.Solution) | 1.0.0 | Filipe Dhunior | Template reutilizável para projetos .NET com Clean Architecture, DDD, OpenTelem… |
-| 2026-10-09 14:40:56 | [FreeDotnetFonts](https://www.nuget.org/packages/FreeDotnetFonts) | 1.0.2 | Six Labors and contributors,… | Community-maintained, Apache-2.0 licensed fork of SixLabors.Fonts 1.0.1. Assemb… |
-| 2026-10-09 14:41:41 | [Crumpled.VerifyOwnership](https://www.nuget.org/packages/Crumpled.VerifyOwnership) | 1.0.0 | Crumpled Dog | Google Search Console site-ownership verification for Umbraco - automatically s… |
-| 2026-10-09 14:42:42 | [Zhytech.FactoryCenter](https://www.nuget.org/packages/Zhytech.FactoryCenter) | 1.2.0 | zhytech | 配置驱动 + 动态路由的通用工厂编排引擎。业务(BizList)经路由(BizToFactory)编排多个工厂(FactoryList)，入参按获取方式装配上… |
-| 2026-10-09 14:49:03 | [Bfs.Seed.Functions.Core](https://www.nuget.org/packages/Bfs.Seed.Functions.Core) | 0.1.0 | Black Forest Sentinel | Grundausstattung für Azure Functions (dotnet-isolated) in Sentinel-Seed-Projekt… |
-| 2026-10-09 15:07:20 | [Shiny.Net.HttpServer.FileSync](https://www.nuget.org/packages/Shiny.Net.HttpServer.FileSync) | 2.1.0 | aritchie,ShinyLib | Dropbox-style file sync for Shiny.Net.HttpServer. Files are split into content-… |
-| 2026-10-09 15:07:20 | [Shiny.Net.HttpServer.NuGet](https://www.nuget.org/packages/Shiny.Net.HttpServer.NuGet) | 2.1.0 | aritchie,ShinyLib | A private NuGet feed for Shiny.Net.HttpServer — the NuGet V3 protocol (service… |
-| 2026-10-09 15:07:29 | [Shiny.Net.HttpServer.FileSync.Client](https://www.nuget.org/packages/Shiny.Net.HttpServer.FileSync.Client) | 2.1.0 | aritchie,ShinyLib | The client for Shiny.Net.HttpServer.FileSync: keeps a local folder and the serv… |
-| 2026-10-09 15:07:31 | [Shiny.Net.HttpServer.Npm](https://www.nuget.org/packages/Shiny.Net.HttpServer.Npm) | 2.1.0 | aritchie,ShinyLib | A private npm registry for Shiny.Net.HttpServer — the registry API npm, pnpm an… |
-| 2026-10-09 15:13:40 | [AnthoDingo.Setup.Providers](https://www.nuget.org/packages/AnthoDingo.Setup.Providers) | 3.0.0 | AnthoDingo | Pilotes SQL Server, MySQL/MariaDB, PostgreSQL et SQLite pour AnthoDingo.Setup :… |
+| 2026-10-09 15:22:52 | [Vestigium.Helpers.Watch.Dns](https://www.nuget.org/packages/Vestigium.Helpers.Watch.Dns) | 1.0.2 | Vestigium | Elevated DNS watch. Windowless. Clock 5 to 180 seconds. No console. |
+| 2026-10-09 15:23:04 | [SharpCell](https://www.nuget.org/packages/SharpCell) | 0.1.0 | Mark Shvabenlandt | Excel formula engine for .NET: parser, dependency graph, recalculation, dynamic… |
+| 2026-10-09 15:23:04 | [SharpCell.Xlsx](https://www.nuget.org/packages/SharpCell.Xlsx) | 0.1.0 | Mark Shvabenlandt | Reads .xlsx files into SharpCell workbooks: values, formulas, cached results, d… |
+| 2026-10-09 15:39:05 | [Zzdats.Lgp.Common.Csso](https://www.nuget.org/packages/Zzdats.Lgp.Common.Csso) | 10.2.0 | Zzdats.Lgp.Common.Csso | LGP CSSO components |
+| 2026-10-09 15:40:42 | [Shiny.AppDeviceBridge.Database](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Database) | 1.2.0 | aritchie,ShinyLib | A database client for a Shiny.AppDeviceBridge web app: schemas, SQL scripts wit… |
+| 2026-10-09 15:40:43 | [Shiny.AppDeviceBridge.Database.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Database.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge database bridge — sche… |
+| 2026-10-09 15:40:45 | [Shiny.AppDeviceBridge.DocumentGeofencing](https://www.nuget.org/packages/Shiny.AppDeviceBridge.DocumentGeofencing) | 1.2.0 | aritchie,ShinyLib | Document geofencing endpoints for a Shiny.AppDeviceBridge web app, backed by Sh… |
+| 2026-10-09 15:40:45 | [Shiny.AppDeviceBridge.DocumentGeofencing.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.DocumentGeofencing.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge document geofencing br… |
+| 2026-10-09 15:40:50 | [Shiny.AppDeviceBridge.InAppPurchases](https://www.nuget.org/packages/Shiny.AppDeviceBridge.InAppPurchases) | 1.2.0 | aritchie,ShinyLib | In-app purchases for a Shiny.AppDeviceBridge web app, backed by Shiny.Mobile.In… |
+| 2026-10-09 15:40:51 | [Shiny.AppDeviceBridge.InAppPurchases.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.InAppPurchases.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge in-app purchases bridg… |
+| 2026-10-09 15:40:52 | [Shiny.AppDeviceBridge.LiveActivities](https://www.nuget.org/packages/Shiny.AppDeviceBridge.LiveActivities) | 1.2.0 | aritchie,ShinyLib | Live activities for a Shiny.AppDeviceBridge web app, backed by Shiny.Mobile.Liv… |
+| 2026-10-09 15:40:52 | [Shiny.AppDeviceBridge.LiveActivities.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.LiveActivities.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge live activities bridge… |
+| 2026-10-09 15:40:58 | [Shiny.AppDeviceBridge.Printers](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printers) | 1.2.0 | aritchie,ShinyLib | Receipt and label printers for a Shiny.AppDeviceBridge web app, backed by Shiny… |
+| 2026-10-09 15:40:59 | [Shiny.AppDeviceBridge.Printers.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printers.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge receipt printer bridge… |
+| 2026-10-09 15:40:59 | [Shiny.AppDeviceBridge.Printing](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printing) | 1.2.0 | aritchie,ShinyLib | The operating system's own printing for a Shiny.AppDeviceBridge web app, backed… |
+| 2026-10-09 15:41:00 | [Shiny.AppDeviceBridge.Printing.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printing.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge printing bridge — prin… |
+| 2026-10-09 15:41:35 | [DDCSharp.Linux](https://www.nuget.org/packages/DDCSharp.Linux) | 0.2.0 | Laurynas Gailius | Linux implementation for DDCSharp providing monitor enumeration and DDC/CI over… |
+| 2026-10-09 15:42:55 | [Sagara.NuGetDiff.Tool](https://www.nuget.org/packages/Sagara.NuGetDiff.Tool) | 1.0.0 | Jon Sagara | Builds a ready-to-run git commit command listing the NuGet packages upgraded, d… |
+| 2026-10-09 16:05:25 | [Google.DevicesAndServices.Health.V4Beta](https://www.nuget.org/packages/Google.DevicesAndServices.Health.V4Beta) | 1.0.0-beta01 | Google LLC | The Google Health API lets you view and manage health and fitness metrics and m… |
+| 2026-10-09 16:12:30 | [YesodScript.Engine](https://www.nuget.org/packages/YesodScript.Engine) | 0.7.0 | John Jimenez | Lightweight interpreted Domain Specific Language (DSL) engine for games. |
 
 ## Data source
 
