@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-09T06:22:39.037Z,LogicLooper.Diagnostics,1.7.0,Cysharp,Provides diagnostic and monitoring support for LogicLooper.
+2026-10-09T06:36:18.443Z,HoneyPlayBox.OpenSDK,1.0.1-beta,HoneyPlayBox,HoneyPlayBox BLE toy SDK for .NET
+2026-10-09T06:50:00.81Z,GroveGames.Database,0.1.0,Grove Games,"Fast, crash-safe local document database for games on .NET, Unity and Godot"
+2026-10-09T07:05:10.86Z,Packata.ResourceReaders.Database,0.44.0,Cédric L. Charlier,Database resource reader provider for Packata.
+2026-10-09T07:05:12.09Z,Packata.ResourceReaders.Excel,0.44.0,Cédric L. Charlier,Excel resource reader provider for Packata.
+2026-10-09T07:05:13.377Z,Packata.ResourceReaders.FixedWidth,0.44.0,Cédric L. Charlier,Fixed-width resource reader provider for Packata.
+2026-10-09T07:05:15.44Z,Packata.ResourceReaders.KeyValue,0.44.0,Cédric L. Charlier,LTSV and logfmt resource reader providers for Packata.
+2026-10-09T07:05:16.693Z,Packata.ResourceReaders.Ndjson,0.44.0,Cédric L. Charlier,NDJSON resource reader provider for Packata.
+2026-10-09T07:05:18.027Z,Packata.ResourceReaders.Parquet,0.44.0,Cédric L. Charlier,Parquet resource reader provider for Packata.
+2026-10-09T07:05:19.3Z,Packata.ResourceReaders.WebLogs,0.44.0,Cédric L. Charlier,Common and W3C web-log resource reader providers for Packata.
+2026-10-09T07:10:46.47Z,Blazor.Untranslated,0.1.0,Vlad Mihalachi,"Fails the build when a Blazor component (.razor) renders literal text instead of a localized resource: markup, text content, visible attributes and text parameters of components. Rule UNT001. No support: built for my own projects and shared as is; issues and pull requests aren't monitored, and any…"
