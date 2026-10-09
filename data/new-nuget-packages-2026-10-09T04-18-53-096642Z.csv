@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-09T03:27:52.5Z,JupiterScheduler.OperationClient,1.0.0,JupiterScheduler.OperationClient,SeaDate operation client adapter for Jupiter Scheduler.
+2026-10-09T03:29:57.653Z,HuangyuCN.Atlas.Sdk,0.7.0,huangyuCN,Atlas 帧协议 C# 客户端 SDK（Unity 优先）：四通道 + dual + 双层心跳 + 重连 + 三编码
+2026-10-09T03:31:34.96Z,Web.Authentication,1.0.0,Dio Liew,A package to ease the configuration of JWT Authentication.
+2026-10-09T03:32:04.19Z,MorseCode.Avalonia.Controls,0.1.0,MorseCode Software LLC,Avalonia controls and converters for views that bind to view models written in a functional reactive style on SodaFlow.
+2026-10-09T03:32:16.613Z,Web.Authorization,1.0.0,Dio Liew,A package to ease the configuration of Authorization.
+2026-10-09T03:33:02.117Z,Web.Configuration,1.0.0,Dio Liew,A package to ease the configuration of Web.
+2026-10-09T03:33:41.503Z,Web.Exception,1.0.0,Dio Liew,A package to ease the configuration of Web Exception.
+2026-10-09T03:34:15.56Z,Web.JWT,1.0.0,Dio Liew,A package to ease the configuration of JWT configuration.
+2026-10-09T03:34:56.297Z,Web.OpenApi,1.0.0,Dio Liew,A package to ease the configuration of OpenApi.
+2026-10-09T03:45:52.437Z,Manjalabs.Core,1.0.0-pre-release,Manjalabs,"Manjalabs core library: auth, caching, Camunda, logging, middleware, repository skeleton. Database-agnostic — add Manjalabs.Core.MySql or Manjalabs.Core.MongoDB for a data store."
+2026-10-09T03:46:20.82Z,Manjalabs.Core.MySql,1.0.0-pre-release,Manjalabs,"MySQL (EF Core + Pomelo) data store for Manjalabs.Core: IRepoClient implementation, DBContextBase with change auditing, bulk upsert, health check."
+2026-10-09T03:49:21.75Z,GreatUtilities.JwtAuthenticationHelper,0.1.568-beta,Rodrigo Leal,Essencial tools to agile development.
+2026-10-09T03:56:02.14Z,Webority.Testing,0.1.0,Webority Technologies,"Golden-file comparison and byte-pin checks for MSTest tests: Golden.Match compares a structured value with a reviewed JSON file beside the test, and BytePins.Check compares the SHA-256 of output bytes with pins kept in the test."
