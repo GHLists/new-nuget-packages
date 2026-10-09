@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-09T00:27:25.983Z,NickStrupat.AsyncLock,0.0.1,Nick Strupat,"A thread-safe, FIFO, allocation-free async lock for .NET, with a Roslyn analyzer that catches lock statements and Monitor calls mistakenly applied to it."
+2026-10-09T00:40:43.633Z,Webority.Imaging,0.1.0,Webority Technologies,"Decodes, encodes and processes images in JPEG, PNG, WebP, GIF, BMP and TIFF formats, with resize, crop, rotate and colour profile support."
+2026-10-09T00:44:59.47Z,RVM.TcgDex,1.0.0,Rafael Veneroso Morici,"C# SDK for the TCGdex API (Pokémon TCG): cards, sets, series, prices and images, in 18 languages."
+2026-10-09T00:46:30.133Z,FluentGwt.AspNetCore,1.0.0,Tommy Long,"FluentGwt hosts for ASP.NET Core: the real entry point or a test composition, arranged per test, with stubbed authentication, host-to-host redirection and real sockets."
+2026-10-09T00:46:30.853Z,FluentGwt.Http,1.0.0,Tommy Long,"FluentGwt HTTP redirection: replace the primary handler of HttpClientFactory clients beneath their pipeline, and record every request."
+2026-10-09T00:46:31.653Z,FluentGwt,1.0.0,Tommy Long,"Given/When/Then for .NET tests: chains that read as one expression, a ServiceFixture whose container refuses late registrations, overrides, configuration, seeded test data, time control and teardown."
+2026-10-09T00:46:32.293Z,FluentGwt.Bogus,1.0.0,Tommy Long,"FluentGwt with Bogus: fixture.Fake and fixture.Random, seeded from the fixture so a failing test can be replayed."
+2026-10-09T00:46:33.07Z,FluentGwt.Moq,1.0.0,Tommy Long,FluentGwt with Moq: Services.Stub<Service>() registers a mock that replaces every registration of the service.
+2026-10-09T00:46:33.747Z,FluentGwt.Xunit,1.0.0,Tommy Long,"FluentGwt for xunit v3: the test cancellation token and identity, integration tests gated at build time with a stated justification, theory data built from the fixture, and test output."
+2026-10-09T00:59:00.743Z,MaksimShimshon.Mediator,1.0.0,MaksimShimshon.Mediator,Core Package for Lunatic Panel's PLugin
+2026-10-09T01:03:58.34Z,Shirubasoft.Aspire.Tailscale,1.0.0,Shirubasoft,Expose Aspire resources privately on a Tailscale tailnet through sidecar containers with HTTPS.
