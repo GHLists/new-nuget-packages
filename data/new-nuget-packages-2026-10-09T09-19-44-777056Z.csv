@@ -1,0 +1,59 @@
+created_at,package,version,authors,description
+2026-10-09T08:21:08.123Z,RustODotnet.Models.PPOCRv6.Medium.Int8,0.3.0,RustO Contributors,PP-OCRv6 Medium INT8 pre-trained models for RustODotnet (~76 MB highest accuracy)
+2026-10-09T08:21:11.037Z,RustODotnet.Models.PPOCRv6.Small.Int8,0.3.0,RustO Contributors,PP-OCRv6 Small INT8 pre-trained models for RustODotnet (~16 MB balanced)
+2026-10-09T08:21:13.25Z,RustODotnet.Models.PPOCRv6.Tiny.Int8,0.3.0,RustO Contributors,PP-OCRv6 Tiny INT8 pre-trained models for RustODotnet (~3.4 MB lightweight)
+2026-10-09T08:21:26.183Z,ZeppelinForms,0.13.1,YD359Team,"A cross-platform UI framework drawn with SkiaSharp: controls, layout, themes, input, animation and accessibility. Add the package of your platform — ZeppelinForms.Windows, .Linux, .Android or .Browser — to run it."
+2026-10-09T08:24:42.193Z,SourceCrafter.LiteSpeedLink.Abstractions,2.26.282.164,Pedro Gil Mora,"LiteSpeedLink contracts: IServiceUnit, response status, processors, retry and cache attributes."
+2026-10-09T08:24:43.72Z,SourceCrafter.LiteSpeedLink.Client,2.26.282.164,Pedro Gil Mora,"LiteSpeedLink client runtime: Memory, UDS, QUIC, TCP and UDP connections for generated clients."
+2026-10-09T08:24:45.47Z,SourceCrafter.LiteSpeedLink.ClientGenerator,2.26.282.164,Pedro Gil Mora,"Client generator for LiteSpeedLink services using Memory, UDS, QUIC, TCP and UDP"
+2026-10-09T08:24:46.737Z,SourceCrafter.LiteSpeedLink.Core,2.26.282.164,Pedro Gil Mora,LiteSpeedLink wire framing shared by the generated clients and hosts.
+2026-10-09T08:24:48.617Z,SourceCrafter.LiteSpeedLink.Server,2.26.282.164,Pedro Gil Mora,"LiteSpeedLink host runtime: Memory, UDS, QUIC, TCP and UDP servers for generated hosts."
+2026-10-09T08:24:50.183Z,SourceCrafter.LiteSpeedLink.ServerGenerator,2.26.282.164,Pedro Gil Mora,"Host generator for LiteSpeedLink services using Memory, UDS, QUIC, TCP and UDP"
+2026-10-09T08:39:38.91Z,Phoney.TUnit,0.3.0,Mattias Sundström,"Phoney fake data for TUnit tests: [FakeData] fills test method parameters, constructor parameters and properties with realistic, reproducible values that agree with each other."
+2026-10-09T08:44:11.303Z,Entra.EventHandlers.Security,1.0.0,Jakub Szubarga,"Security extensions for Microsoft Entra External ID Authentication Event Handlers. Provides PasswordSubmit encrypted password context decryption, Azure Key Vault certificate integration, RSA private key extraction, certificate caching, and production-ready implementations of IPasswordContextDecrypt…"
+2026-10-09T08:57:02.55Z,AStarDev.InfrastructureAppDb,0.1.1,"AStar Development, Jason Barden","Shared EF Core AppDbContext, entities, configuration and migrations for the AStar OneDrive Sync / Wallpaper Scraper desktop apps."
+2026-10-09T09:01:26.297Z,Coworkee.AuthServer,0.0.1.11,fgilde,"OpenIddict auth server with login, registration, two factor and external sign-in."
+2026-10-09T09:01:27.02Z,Coworkee.Notifications,0.0.1.11,fgilde,In app notifications with digests.
+2026-10-09T09:01:27.823Z,Coworkee.ResponseFilters,0.0.1.11,fgilde,Permission dependent response filters on Nextended.ResponseFilters.
+2026-10-09T09:01:28.52Z,Coworkee.Domain,0.0.1.11,fgilde,"Entity and AggregateRoot with domain events, markers for audit, soft delete, tenants and concurrency."
+2026-10-09T09:01:29.177Z,Coworkee.Contracts,0.0.1.11,fgilde,"DTOs, permission names and paging records shared by server and clients."
+2026-10-09T09:01:29.833Z,Coworkee.BackgroundJobs,0.0.1.11,fgilde,"Hangfire jobs with queues, retries and delayed follow-ups."
+2026-10-09T09:01:30.477Z,Coworkee.Theming,0.0.1.11,fgilde,"Themes with palettes, fonts, layout and app options per tenant, editable at runtime."
+2026-10-09T09:01:31.073Z,Coworkee.Bff,0.0.1.11,fgilde,"Backend for frontend for Blazor WebAssembly: cookie session, token handling and API forwarding."
+2026-10-09T09:01:31.767Z,Coworkee.Social,0.0.1.11,fgilde,"Comments, tags and ratings for any entity, with realtime updates and notifications."
+2026-10-09T09:01:32.617Z,Coworkee.Ai,0.0.1.11,fgilde,"AI assistant over the tools of all modules, MCP server and tool call audit."
+2026-10-09T09:01:33.477Z,Coworkee.Application,0.0.1.11,fgilde,"Dispatcher for commands and queries with logging, validation, permission, caching and unit of work middleware."
+2026-10-09T09:01:34.14Z,Coworkee.Storage,0.0.1.11,fgilde,"Blob storage on the file system, S3 or Azure."
+2026-10-09T09:01:34.973Z,Coworkee.EventBus,0.0.1.11,fgilde,"Integration events between apps and services through the transactional outbox, with an inbox for idempotent handlers. Works without a broker."
+2026-10-09T09:01:35.733Z,Coworkee.Client.Blazor,0.0.1.11,fgilde,"MudBlazor shell for Blazor WebAssembly: navigation, data tables, account and admin pages, theming."
+2026-10-09T09:01:36.41Z,Coworkee.Files,0.0.1.11,fgilde,"Folders and files with preview, download, upload and per-folder permissions, kept in the blob storage."
+2026-10-09T09:01:37.06Z,Coworkee.Features,0.0.1.11,fgilde,"Feature management with editions and per tenant overrides, tenant administration, [RequiresFeature] and feature gates for Blazor."
+2026-10-09T09:01:37.743Z,Coworkee.ExtendedAttributes,0.0.1.11,fgilde,Extra attributes for any entity without schema changes.
+2026-10-09T09:01:38.357Z,Coworkee.Settings,0.0.1.11,fgilde,"Typed settings per global, tenant and user scope with encrypted secrets."
+2026-10-09T09:01:38.96Z,Coworkee.Templates,0.0.1.11,fgilde,"dotnet new template for Coworkee applications (coworkee): Aspire app host, API, auth server, Blazor WebAssembly with BFF and Postgres."
+2026-10-09T09:01:39.45Z,Coworkee.OData,0.0.1.11,fgilde,"OData set per entity with facets, row filters and hidden properties."
+2026-10-09T09:01:40.233Z,Coworkee.Localization,0.0.1.11,fgilde,"Languages and translations stored in the database, machine translation and live updates."
+2026-10-09T09:01:40.903Z,Coworkee.AspNetCore,0.0.1.11,fgilde,"AddCoworkee<TRoot>() for ASP.NET Core hosts: problem details, API groups, bearer authentication, OpenAPI and Swagger UI."
+2026-10-09T09:01:41.533Z,Coworkee.Mailing,0.0.1.11,fgilde,Scriban mail templates with overrides and queued SMTP delivery.
+2026-10-09T09:01:42.12Z,Coworkee.Core,0.0.1.11,fgilde,"Module system with [DependsOn], Result and Error, current user and ambient user scope."
+2026-10-09T09:01:42.81Z,Coworkee.Realtime,0.0.1.11,fgilde,"SignalR push for entity changes, notifications and app events."
+2026-10-09T09:01:43.44Z,Coworkee.Account,0.0.1.11,fgilde,Account pages and self service for the Coworkee auth server.
+2026-10-09T09:01:44.01Z,Coworkee.Auditing,0.0.1.11,fgilde,"Audit trail queries, entity history and restore."
+2026-10-09T09:01:44.593Z,Coworkee.Cli,0.0.1.11,fgilde,"Coworkee command line: create a Coworkee application, run it, add migrations and modules, update the packages."
+2026-10-09T09:01:45.217Z,Coworkee.Infrastructure,0.0.1.11,fgilde,"CoworkeeDbContext with tenants, soft delete, field level audit trail and transactional outbox."
+2026-10-09T09:01:45.9Z,Coworkee.Backup,0.0.1.11,fgilde,Database backups and restore from the admin pages.
+2026-10-09T09:01:46.473Z,Coworkee.Search,0.0.1.11,fgilde,Search index abstraction for Coworkee entities.
+2026-10-09T09:01:47.72Z,Coworkee.Search.Elasticsearch,0.0.1.11,fgilde,Elasticsearch provider for Coworkee.Search.
+2026-10-09T09:01:48.42Z,Coworkee.EventBus.RabbitMq,0.0.1.11,fgilde,"RabbitMQ transport for Coworkee.EventBus with publisher confirms, quorum queues and dead lettering."
+2026-10-09T09:01:49.07Z,Coworkee.Identity,0.0.1.11,fgilde,"Users, roles, groups, tenants and permission grants with resource level checks."
+2026-10-09T09:01:49.8Z,Coworkee.Chat,0.0.1.11,fgilde,Direct and group chat with realtime delivery.
+2026-10-09T09:01:50.52Z,Coworkee.Testing,0.0.1.11,fgilde,"Postgres test container fixture, test users and a web application factory for Coworkee apps."
+2026-10-09T09:01:51.203Z,Coworkee.Client,0.0.1.11,fgilde,Base for typed .NET clients (SDKs) of Coworkee APIs: JSON calls and problem details as exceptions.
+2026-10-09T09:02:55.94Z,ZeppelinForms.Skia,0.13.1,YD359Team,"The SkiaSharp renderer of ZeppelinForms, shared by the platform packages."
+2026-10-09T09:03:31.853Z,kesi-sdk-gts,1.0.0,kesi,kesi sdk GTS 版
+2026-10-09T09:03:49.533Z,ZeppelinForms.Windows,0.13.1,YD359Team,"The Windows platform of ZeppelinForms: Win32 windows and input, clipboard, drag and drop, the system theme, and UI Automation for screen readers."
+2026-10-09T09:04:22.303Z,ZeppelinForms.Linux,0.13.1,YD359Team,"The Linux platform of ZeppelinForms: X11 windows and input, and the system theme through the XDG desktop portal."
+2026-10-09T09:04:40.877Z,ZeppelinForms.Browser,0.13.1,YD359Team,"The WebAssembly platform of ZeppelinForms: a canvas hosting the forms, pointer and keyboard input, and an ARIA mirror for screen readers. The page needs the zf.js module, attached to every release."
+2026-10-09T09:04:55Z,ZeppelinForms.Android,0.13.1,YD359Team,"The Android platform of ZeppelinForms: a view hosting the forms, touch input, the on-screen keyboard, the application lifecycle and the system theme."
+2026-10-09T09:05:30.003Z,Galosys.Foundation.EntityFrameworkCore.Dm,26.10.9.1,Galosys,Galosys.Foundation快速开发库
+2026-10-09T09:11:40.56Z,SyncCronA.Contracts,0.0.1,Rinker-Informatik,Shared contracts and gRPC definitions for SyncCronA.
