@@ -12,34 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 16:21 UTC
+## Latest list — 2026-10-09 17:20 UTC
 
-New packages created between 2026-10-09 15:21 UTC and 2026-10-09 16:21 UTC.
+New packages created between 2026-10-09 16:21 UTC and 2026-10-09 17:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T16-21-09-346943Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T17-20-17-563909Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 15:22:52 | [Vestigium.Helpers.Watch.Dns](https://www.nuget.org/packages/Vestigium.Helpers.Watch.Dns) | 1.0.2 | Vestigium | Elevated DNS watch. Windowless. Clock 5 to 180 seconds. No console. |
-| 2026-10-09 15:23:04 | [SharpCell](https://www.nuget.org/packages/SharpCell) | 0.1.0 | Mark Shvabenlandt | Excel formula engine for .NET: parser, dependency graph, recalculation, dynamic… |
-| 2026-10-09 15:23:04 | [SharpCell.Xlsx](https://www.nuget.org/packages/SharpCell.Xlsx) | 0.1.0 | Mark Shvabenlandt | Reads .xlsx files into SharpCell workbooks: values, formulas, cached results, d… |
-| 2026-10-09 15:39:05 | [Zzdats.Lgp.Common.Csso](https://www.nuget.org/packages/Zzdats.Lgp.Common.Csso) | 10.2.0 | Zzdats.Lgp.Common.Csso | LGP CSSO components |
-| 2026-10-09 15:40:42 | [Shiny.AppDeviceBridge.Database](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Database) | 1.2.0 | aritchie,ShinyLib | A database client for a Shiny.AppDeviceBridge web app: schemas, SQL scripts wit… |
-| 2026-10-09 15:40:43 | [Shiny.AppDeviceBridge.Database.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Database.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge database bridge — sche… |
-| 2026-10-09 15:40:45 | [Shiny.AppDeviceBridge.DocumentGeofencing](https://www.nuget.org/packages/Shiny.AppDeviceBridge.DocumentGeofencing) | 1.2.0 | aritchie,ShinyLib | Document geofencing endpoints for a Shiny.AppDeviceBridge web app, backed by Sh… |
-| 2026-10-09 15:40:45 | [Shiny.AppDeviceBridge.DocumentGeofencing.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.DocumentGeofencing.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge document geofencing br… |
-| 2026-10-09 15:40:50 | [Shiny.AppDeviceBridge.InAppPurchases](https://www.nuget.org/packages/Shiny.AppDeviceBridge.InAppPurchases) | 1.2.0 | aritchie,ShinyLib | In-app purchases for a Shiny.AppDeviceBridge web app, backed by Shiny.Mobile.In… |
-| 2026-10-09 15:40:51 | [Shiny.AppDeviceBridge.InAppPurchases.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.InAppPurchases.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge in-app purchases bridg… |
-| 2026-10-09 15:40:52 | [Shiny.AppDeviceBridge.LiveActivities](https://www.nuget.org/packages/Shiny.AppDeviceBridge.LiveActivities) | 1.2.0 | aritchie,ShinyLib | Live activities for a Shiny.AppDeviceBridge web app, backed by Shiny.Mobile.Liv… |
-| 2026-10-09 15:40:52 | [Shiny.AppDeviceBridge.LiveActivities.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.LiveActivities.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge live activities bridge… |
-| 2026-10-09 15:40:58 | [Shiny.AppDeviceBridge.Printers](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printers) | 1.2.0 | aritchie,ShinyLib | Receipt and label printers for a Shiny.AppDeviceBridge web app, backed by Shiny… |
-| 2026-10-09 15:40:59 | [Shiny.AppDeviceBridge.Printers.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printers.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge receipt printer bridge… |
-| 2026-10-09 15:40:59 | [Shiny.AppDeviceBridge.Printing](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printing) | 1.2.0 | aritchie,ShinyLib | The operating system's own printing for a Shiny.AppDeviceBridge web app, backed… |
-| 2026-10-09 15:41:00 | [Shiny.AppDeviceBridge.Printing.Client](https://www.nuget.org/packages/Shiny.AppDeviceBridge.Printing.Client) | 1.2.0 | aritchie,ShinyLib | Typed client and contracts for the Shiny.AppDeviceBridge printing bridge — prin… |
-| 2026-10-09 15:41:35 | [DDCSharp.Linux](https://www.nuget.org/packages/DDCSharp.Linux) | 0.2.0 | Laurynas Gailius | Linux implementation for DDCSharp providing monitor enumeration and DDC/CI over… |
-| 2026-10-09 15:42:55 | [Sagara.NuGetDiff.Tool](https://www.nuget.org/packages/Sagara.NuGetDiff.Tool) | 1.0.0 | Jon Sagara | Builds a ready-to-run git commit command listing the NuGet packages upgraded, d… |
-| 2026-10-09 16:05:25 | [Google.DevicesAndServices.Health.V4Beta](https://www.nuget.org/packages/Google.DevicesAndServices.Health.V4Beta) | 1.0.0-beta01 | Google LLC | The Google Health API lets you view and manage health and fitness metrics and m… |
-| 2026-10-09 16:12:30 | [YesodScript.Engine](https://www.nuget.org/packages/YesodScript.Engine) | 0.7.0 | John Jimenez | Lightweight interpreted Domain Specific Language (DSL) engine for games. |
+| 2026-10-09 16:21:18 | [Cogworks.Umbraco.FormsGuard.UmbracoAI](https://www.nuget.org/packages/Cogworks.Umbraco.FormsGuard.UmbracoAI) | 1.0.0 | Cogworks | Optional Forms Guard decision provider that answers spam and triage questions w… |
+| 2026-10-09 16:30:57 | [Doka.NestedSet](https://www.nuget.org/packages/Doka.NestedSet) | 10.0.0 | Dominic Kalkbrenner | ORM-independent nested-set bounds and node predicates. |
+| 2026-10-09 16:30:58 | [Doka.EntityFrameworkCore.NestedSet](https://www.nuget.org/packages/Doka.EntityFrameworkCore.NestedSet) | 10.0.0 | Dominic Kalkbrenner | Nested-set hierarchy operations for Entity Framework Core. |
+| 2026-10-09 16:42:25 | [SlideRule.Cli](https://www.nuget.org/packages/SlideRule.Cli) | 0.1.0 | Andrew Gray | SlideRule is a .NET architecture checker that enforces one C# spec and renders… |
+| 2026-10-09 16:42:25 | [SlideRule.Analyzers](https://www.nuget.org/packages/SlideRule.Analyzers) | 0.1.0 | Andrew Gray | SlideRule.Analyzers is the SlideRule build analyzer. It reports a broken archit… |
+| 2026-10-09 16:42:26 | [SlideRule](https://www.nuget.org/packages/SlideRule) | 0.1.0 | Andrew Gray | SlideRule is the spec contract: the fluent builder and reified rule model an ar… |
+| 2026-10-09 16:42:27 | [SlideRule.Xunit](https://www.nuget.org/packages/SlideRule.Xunit) | 0.1.0 | Andrew Gray | SlideRule.Xunit is the SlideRule xUnit adapter: every rule in an architecture s… |
+| 2026-10-09 16:45:55 | [SignalGate](https://www.nuget.org/packages/SignalGate) | 0.1.0 | SignalGate | Official .NET backend SDK for SignalGate: send fraud checks and events from you… |
+| 2026-10-09 16:51:16 | [PixieLib](https://www.nuget.org/packages/PixieLib) | 0.1.0 | Rafael Sakamoto | Primitives and math with the same names, memory layout and bits as their C++ si… |
+| 2026-10-09 16:58:42 | [DataForge.Generators](https://www.nuget.org/packages/DataForge.Generators) | 0.1.0 | DataForge Contributors | Built-in entity generators for DataForge (person, address, company, customer, c… |
+| 2026-10-09 16:58:42 | [DataForge.CountryProviders](https://www.nuget.org/packages/DataForge.CountryProviders) | 0.1.0 | DataForge Contributors | Country-specific data providers for DataForge (Portugal, Spain, United Kingdom,… |
+| 2026-10-09 17:00:02 | [DataForge.Abstractions](https://www.nuget.org/packages/DataForge.Abstractions) | 0.1.0 | DataForge Contributors | Core abstractions, domain models and extensibility contracts for DataForge, a d… |
+| 2026-10-09 17:00:03 | [DataForge.Extensions](https://www.nuget.org/packages/DataForge.Extensions) | 0.1.0 | DataForge Contributors | Convenience extensions for DataForge, including string-based deterministic seed… |
 
 ## Data source
 
