@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-09T17:22:00.84Z,KnOwl.WolfAuth,2.3.0,Elysium Coding,WolfAuth authentication integration helpers for KnOwl hosts.
+2026-10-09T17:36:26.133Z,Pacem.Domotics.Onvif,0.10.18-venn,Cristian Merighi,"Pacem domotics: ONVIF cameras on the LAN — WS-Discovery, their streams and snapshots, Digest authentication for the snapshot URLs."
+2026-10-09T17:41:44.82Z,Devlooped.DataAnnotations.NativeValidation,0.1.0-alpha,Daniel Cazzulino,AOT-safe validation for System.ComponentModel.DataAnnotations attributes.
+2026-10-09T17:44:19.11Z,Glimpse.Capture,0.1.0,Purin Tavilsup,"Render any UI or diagram to a PNG so an agent can see it, critique it, and iterate."
+2026-10-09T17:55:22.247Z,DataForger.CountryProviders,0.1.0,DataForger Contributors,"Country-specific data providers for DataForger (Portugal, Spain, United Kingdom, France, Germany, United States, Brazil)."
+2026-10-09T17:55:22.833Z,DataForger.Generators,0.1.0,DataForger Contributors,"Built-in entity generators for DataForger (person, address, company, customer, contract, product)."
+2026-10-09T17:55:23.41Z,DataForger.Abstractions,0.1.0,DataForger Contributors,"Core abstractions, domain models and extensibility contracts for DataForger, a deterministic synthetic test data generator."
+2026-10-09T17:55:23.987Z,DataForger.Extensions,0.1.0,DataForger Contributors,"Convenience extensions for DataForger, including string-based deterministic seeds."
+2026-10-09T17:55:24.49Z,DataForger,0.1.0,DataForger Contributors,"DataForger is a lightweight, extensible, enterprise-ready synthetic test data generator for .NET with deterministic, country-specific data."
+2026-10-09T18:11:39.29Z,VerifyBlind.Server,1.0.0,VerifyBlind,"Server-side verification of VerifyBlind result tokens, webhooks and callbacks for .NET: RSA-PSS signature check, single-use nonce, asked-condition check, demo-card rejection and pattern B decryption."

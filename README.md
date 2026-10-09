@@ -12,27 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 17:20 UTC
+## Latest list — 2026-10-09 18:20 UTC
 
-New packages created between 2026-10-09 16:21 UTC and 2026-10-09 17:20 UTC.
+New packages created between 2026-10-09 17:20 UTC and 2026-10-09 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T17-20-17-563909Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T18-20-55-186976Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 16:21:18 | [Cogworks.Umbraco.FormsGuard.UmbracoAI](https://www.nuget.org/packages/Cogworks.Umbraco.FormsGuard.UmbracoAI) | 1.0.0 | Cogworks | Optional Forms Guard decision provider that answers spam and triage questions w… |
-| 2026-10-09 16:30:57 | [Doka.NestedSet](https://www.nuget.org/packages/Doka.NestedSet) | 10.0.0 | Dominic Kalkbrenner | ORM-independent nested-set bounds and node predicates. |
-| 2026-10-09 16:30:58 | [Doka.EntityFrameworkCore.NestedSet](https://www.nuget.org/packages/Doka.EntityFrameworkCore.NestedSet) | 10.0.0 | Dominic Kalkbrenner | Nested-set hierarchy operations for Entity Framework Core. |
-| 2026-10-09 16:42:25 | [SlideRule.Cli](https://www.nuget.org/packages/SlideRule.Cli) | 0.1.0 | Andrew Gray | SlideRule is a .NET architecture checker that enforces one C# spec and renders… |
-| 2026-10-09 16:42:25 | [SlideRule.Analyzers](https://www.nuget.org/packages/SlideRule.Analyzers) | 0.1.0 | Andrew Gray | SlideRule.Analyzers is the SlideRule build analyzer. It reports a broken archit… |
-| 2026-10-09 16:42:26 | [SlideRule](https://www.nuget.org/packages/SlideRule) | 0.1.0 | Andrew Gray | SlideRule is the spec contract: the fluent builder and reified rule model an ar… |
-| 2026-10-09 16:42:27 | [SlideRule.Xunit](https://www.nuget.org/packages/SlideRule.Xunit) | 0.1.0 | Andrew Gray | SlideRule.Xunit is the SlideRule xUnit adapter: every rule in an architecture s… |
-| 2026-10-09 16:45:55 | [SignalGate](https://www.nuget.org/packages/SignalGate) | 0.1.0 | SignalGate | Official .NET backend SDK for SignalGate: send fraud checks and events from you… |
-| 2026-10-09 16:51:16 | [PixieLib](https://www.nuget.org/packages/PixieLib) | 0.1.0 | Rafael Sakamoto | Primitives and math with the same names, memory layout and bits as their C++ si… |
-| 2026-10-09 16:58:42 | [DataForge.Generators](https://www.nuget.org/packages/DataForge.Generators) | 0.1.0 | DataForge Contributors | Built-in entity generators for DataForge (person, address, company, customer, c… |
-| 2026-10-09 16:58:42 | [DataForge.CountryProviders](https://www.nuget.org/packages/DataForge.CountryProviders) | 0.1.0 | DataForge Contributors | Country-specific data providers for DataForge (Portugal, Spain, United Kingdom,… |
-| 2026-10-09 17:00:02 | [DataForge.Abstractions](https://www.nuget.org/packages/DataForge.Abstractions) | 0.1.0 | DataForge Contributors | Core abstractions, domain models and extensibility contracts for DataForge, a d… |
-| 2026-10-09 17:00:03 | [DataForge.Extensions](https://www.nuget.org/packages/DataForge.Extensions) | 0.1.0 | DataForge Contributors | Convenience extensions for DataForge, including string-based deterministic seed… |
+| 2026-10-09 17:22:00 | [KnOwl.WolfAuth](https://www.nuget.org/packages/KnOwl.WolfAuth) | 2.3.0 | Elysium Coding | WolfAuth authentication integration helpers for KnOwl hosts. |
+| 2026-10-09 17:36:26 | [Pacem.Domotics.Onvif](https://www.nuget.org/packages/Pacem.Domotics.Onvif) | 0.10.18-venn | Cristian Merighi | Pacem domotics: ONVIF cameras on the LAN — WS-Discovery, their streams and snap… |
+| 2026-10-09 17:41:44 | [Devlooped.DataAnnotations.NativeValidation](https://www.nuget.org/packages/Devlooped.DataAnnotations.NativeValidation) | 0.1.0-alpha | Daniel Cazzulino | AOT-safe validation for System.ComponentModel.DataAnnotations attributes. |
+| 2026-10-09 17:44:19 | [Glimpse.Capture](https://www.nuget.org/packages/Glimpse.Capture) | 0.1.0 | Purin Tavilsup | Render any UI or diagram to a PNG so an agent can see it, critique it, and iter… |
+| 2026-10-09 17:55:22 | [DataForger.CountryProviders](https://www.nuget.org/packages/DataForger.CountryProviders) | 0.1.0 | DataForger Contributors | Country-specific data providers for DataForger (Portugal, Spain, United Kingdom… |
+| 2026-10-09 17:55:22 | [DataForger.Generators](https://www.nuget.org/packages/DataForger.Generators) | 0.1.0 | DataForger Contributors | Built-in entity generators for DataForger (person, address, company, customer,… |
+| 2026-10-09 17:55:23 | [DataForger.Abstractions](https://www.nuget.org/packages/DataForger.Abstractions) | 0.1.0 | DataForger Contributors | Core abstractions, domain models and extensibility contracts for DataForger, a… |
+| 2026-10-09 17:55:23 | [DataForger.Extensions](https://www.nuget.org/packages/DataForger.Extensions) | 0.1.0 | DataForger Contributors | Convenience extensions for DataForger, including string-based deterministic see… |
+| 2026-10-09 17:55:24 | [DataForger](https://www.nuget.org/packages/DataForger) | 0.1.0 | DataForger Contributors | DataForger is a lightweight, extensible, enterprise-ready synthetic test data g… |
+| 2026-10-09 18:11:39 | [VerifyBlind.Server](https://www.nuget.org/packages/VerifyBlind.Server) | 1.0.0 | VerifyBlind | Server-side verification of VerifyBlind result tokens, webhooks and callbacks f… |
 
 ## Data source
 
