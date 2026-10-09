@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-09T05:24:53.41Z,XAvalonia.Bootstrap,0.1.0,Karen Liliou,"XAvalonia shell bootstrap — plugin loader, lifecycle manager, DI wiring, and core service implementations."
+2026-10-09T05:24:54.923Z,XAvalonia.IconProviders,0.1.0,Karen Liliou,XAvalonia icon providers — Material icon set implementation for IIconProvider.
+2026-10-09T05:24:56.513Z,XAvalonia.LogViewer,0.1.0,Karen Liliou,XAvalonia log viewer plugin — Output panel that displays log messages at Debug/Info/Warning/Error severity levels.
+2026-10-09T05:24:59.023Z,XAvalonia.MainWindow,0.1.0,Karen Liliou,"XAvalonia default docking layout plugin — Explorer, Documents, Properties, and Output panels with File/View/Help menus."
+2026-10-09T05:25:01.607Z,XAvalonia.PluginBrowser,0.1.0,Karen Liliou,"XAvalonia plugin browser — lists installed plugins, versions, and checks NuGet for updates."
+2026-10-09T05:25:07.997Z,XAvalonia.Shell.Abstractions,0.1.0,Karen Liliou,Plugin contract library for XAvalonia — interfaces and contribution models that plugins reference. Zero dependency on framework internals.
+2026-10-09T05:44:08.67Z,Kayisoft.Abp.DicomRecycle.Consumer,5.3.7,virtual,Kayisoft DicomRecycle file deletion consumers
+2026-10-09T05:44:12.643Z,Kayisoft.Abp.DicomRecycle.Consumer.ActiveMQ,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:17.687Z,Kayisoft.Abp.DicomRecycle.Consumer.Kafka,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:20.417Z,Kayisoft.Abp.DicomRecycle.Consumer.PostgreSql,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:24.037Z,Kayisoft.Abp.DicomRecycle.Consumer.RabbitMQ,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:42.753Z,Kayisoft.Abp.DicomRecycle.Producer.ActiveMQ,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:45.757Z,Kayisoft.Abp.DicomRecycle.Producer.Kafka,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:50.233Z,Kayisoft.Abp.DicomRecycle.Producer.PostgreSql,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:44:57.797Z,Kayisoft.Abp.DicomRecycle.Producer.RabbitMQ,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:45:01.217Z,Kayisoft.Abp.DicomRecycle.Protocols,5.3.7,virtual,Kayisoft DicomRecycle Module
+2026-10-09T05:49:46.377Z,Fluence.Wpf,0.9.2-pre,Dan Cunningham,"Windows 11 Fluent Design controls and theming for WPF (.NET Framework 4.7.2, .NET 8, and .NET 10)"
+2026-10-09T06:12:27.947Z,KillerScan.Engine,1.8.0,Steve the Killer,"The network scanning engine behind KillerScan: local network detection, ARP and ping discovery, port scanning, service fingerprinting, mDNS and SSDP discovery, device classification, offline MAC vendor lookup, and a speed test client, for .NET Framework 4.8 and .NET 10."

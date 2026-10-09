@@ -12,21 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 05:18 UTC
+## Latest list — 2026-10-09 06:20 UTC
 
-New packages created between 2026-10-09 04:18 UTC and 2026-10-09 05:18 UTC.
+New packages created between 2026-10-09 05:18 UTC and 2026-10-09 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-09T05-18-42-899726Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-09T06-20-20-352766Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-09 04:28:37 | [LumoAuth](https://www.nuget.org/packages/LumoAuth) | 1.0.0 | LumoAuth | The official LumoAuth SDK for .NET: RBAC, Zanzibar and ABAC authorization check… |
-| 2026-10-09 04:28:48 | [LumoAuth.AspNetCore](https://www.nuget.org/packages/LumoAuth.AspNetCore) | 1.0.0 | LumoAuth | ASP.NET Core integration for the LumoAuth SDK: dependency injection from config… |
-| 2026-10-09 04:28:51 | [NSail.Messaging.Sse](https://www.nuget.org/packages/NSail.Messaging.Sse) | 0.1.65 | Leonardo Porro,Emmanuel Arias | NSail.Messaging.Sse, part of NSail Stack: a .NET modular-monolith framework (me… |
-| 2026-10-09 04:42:59 | [DotNetCore.AiguilleUnit.Serialization](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Serialization) | 1.3.0 | DotNetCore.AiguilleUnit.Seria… | DotNetCore AiguilleUnit Serialization unit library |
-| 2026-10-09 04:43:03 | [DotNetCore.AiguilleUnit.Serialization.NewtonsoftJson](https://www.nuget.org/packages/DotNetCore.AiguilleUnit.Serialization.NewtonsoftJson) | 1.3.0 | DotNetCore.AiguilleUnit.Seria… | DotNetCore AiguilleUnit Newtonsoft.Json serialization support |
-| 2026-10-09 04:44:50 | [PluginExtension.Common](https://www.nuget.org/packages/PluginExtension.Common) | 1.0.0 | Xanvil | 插件包管理：浏览/安装/卸载基于Nuget包格式的插件包 |
-| 2026-10-09 05:00:44 | [Cratis.Screenplay.Contracts](https://www.nuget.org/packages/Cratis.Screenplay.Contracts) | 4.103.0 | all contributors | Machine-readable Screenplay language and tool contract, independent of an MCP c… |
+| 2026-10-09 05:24:53 | [XAvalonia.Bootstrap](https://www.nuget.org/packages/XAvalonia.Bootstrap) | 0.1.0 | Karen Liliou | XAvalonia shell bootstrap — plugin loader, lifecycle manager, DI wiring, and co… |
+| 2026-10-09 05:24:54 | [XAvalonia.IconProviders](https://www.nuget.org/packages/XAvalonia.IconProviders) | 0.1.0 | Karen Liliou | XAvalonia icon providers — Material icon set implementation for IIconProvider. |
+| 2026-10-09 05:24:56 | [XAvalonia.LogViewer](https://www.nuget.org/packages/XAvalonia.LogViewer) | 0.1.0 | Karen Liliou | XAvalonia log viewer plugin — Output panel that displays log messages at Debug/… |
+| 2026-10-09 05:24:59 | [XAvalonia.MainWindow](https://www.nuget.org/packages/XAvalonia.MainWindow) | 0.1.0 | Karen Liliou | XAvalonia default docking layout plugin — Explorer, Documents, Properties, and… |
+| 2026-10-09 05:25:01 | [XAvalonia.PluginBrowser](https://www.nuget.org/packages/XAvalonia.PluginBrowser) | 0.1.0 | Karen Liliou | XAvalonia plugin browser — lists installed plugins, versions, and checks NuGet… |
+| 2026-10-09 05:25:07 | [XAvalonia.Shell.Abstractions](https://www.nuget.org/packages/XAvalonia.Shell.Abstractions) | 0.1.0 | Karen Liliou | Plugin contract library for XAvalonia — interfaces and contribution models that… |
+| 2026-10-09 05:44:08 | [Kayisoft.Abp.DicomRecycle.Consumer](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Consumer) | 5.3.7 | virtual | Kayisoft DicomRecycle file deletion consumers |
+| 2026-10-09 05:44:12 | [Kayisoft.Abp.DicomRecycle.Consumer.ActiveMQ](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Consumer.ActiveMQ) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:17 | [Kayisoft.Abp.DicomRecycle.Consumer.Kafka](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Consumer.Kafka) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:20 | [Kayisoft.Abp.DicomRecycle.Consumer.PostgreSql](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Consumer.PostgreSql) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:24 | [Kayisoft.Abp.DicomRecycle.Consumer.RabbitMQ](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Consumer.RabbitMQ) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:42 | [Kayisoft.Abp.DicomRecycle.Producer.ActiveMQ](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Producer.ActiveMQ) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:45 | [Kayisoft.Abp.DicomRecycle.Producer.Kafka](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Producer.Kafka) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:50 | [Kayisoft.Abp.DicomRecycle.Producer.PostgreSql](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Producer.PostgreSql) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:44:57 | [Kayisoft.Abp.DicomRecycle.Producer.RabbitMQ](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Producer.RabbitMQ) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:45:01 | [Kayisoft.Abp.DicomRecycle.Protocols](https://www.nuget.org/packages/Kayisoft.Abp.DicomRecycle.Protocols) | 5.3.7 | virtual | Kayisoft DicomRecycle Module |
+| 2026-10-09 05:49:46 | [Fluence.Wpf](https://www.nuget.org/packages/Fluence.Wpf) | 0.9.2-pre | Dan Cunningham | Windows 11 Fluent Design controls and theming for WPF (.NET Framework 4.7.2, .N… |
+| 2026-10-09 06:12:27 | [KillerScan.Engine](https://www.nuget.org/packages/KillerScan.Engine) | 1.8.0 | Steve the Killer | The network scanning engine behind KillerScan: local network detection, ARP and… |
 
 ## Data source
 
