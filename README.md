@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 04:18 UTC
+## Latest list — 2026-10-10 05:20 UTC
 
-New packages created between 2026-10-10 03:20 UTC and 2026-10-10 04:18 UTC.
+New packages created between 2026-10-10 04:18 UTC and 2026-10-10 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T04-18-51-829331Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T05-20-53-180799Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 03:51:02 | [Loathesoft.Equatables](https://www.nuget.org/packages/Loathesoft.Equatables) | 0.0.1-alpha | Scott Sanderson | Package Description |
-| 2026-10-10 03:56:08 | [WebHop.Gateway](https://www.nuget.org/packages/WebHop.Gateway) | 2.0.0 | elebree | The WebHop gateway as ASP.NET Core middleware: accept public HTTP traffic and f… |
-| 2026-10-10 03:56:09 | [webhop](https://www.nuget.org/packages/webhop) | 2.0.0 | elebree | Package Description |
-| 2026-10-10 03:56:10 | [WebHop.Origin](https://www.nuget.org/packages/WebHop.Origin) | 2.0.0 | elebree | Serve an ASP.NET Core app through a WebHop gateway from behind NAT or a firewal… |
-| 2026-10-10 03:59:13 | [NickStrupat.Atomic](https://www.nuget.org/packages/NickStrupat.Atomic) | 0.1.0 | Nick Strupat | A generic atomic cell for .NET. Read, Write and Exchange allocate nothing, for… |
+| 2026-10-10 04:21:49 | [Webority.Email.Outreach.Apollo](https://www.nuget.org/packages/Webority.Email.Outreach.Apollo) | 0.39.0 | Webority Technologies | Apollo contact provider for Webority.Email.Outreach over Apollo's REST API: lis… |
+| 2026-10-10 04:27:38 | [XUnitAssured.Playwright.AspNetCore](https://www.nuget.org/packages/XUnitAssured.Playwright.AspNetCore) | 6.4.1 | Carlos Andrew Costa Bezerra | Browser tests against your own ASP.NET Core API with XUnitAssured.Playwright: a… |
+| 2026-10-10 04:49:21 | [AnyCAD.Interop3D.Win64](https://www.nuget.org/packages/AnyCAD.Interop3D.Win64) | 2026.10.10.1221 | AnyCAD Inc. | Interop3D runtimes for Windows. |
 
 ## Data source
 

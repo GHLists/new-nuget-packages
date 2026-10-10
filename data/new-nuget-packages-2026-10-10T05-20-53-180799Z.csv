@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-10T04:21:49.84Z,Webority.Email.Outreach.Apollo,0.39.0,Webority Technologies,"Apollo contact provider for Webority.Email.Outreach over Apollo's REST API: lists the saved contact lists, reads the contacts of one list for import, and records each contact's outreach outcome back in Apollo as a list. Never sends mail through Apollo."
+2026-10-10T04:27:38.483Z,XUnitAssured.Playwright.AspNetCore,6.4.1,Carlos Andrew Costa Bezerra,"Browser tests against your own ASP.NET Core API with XUnitAssured.Playwright: a fixture that hosts the API on a real port with WebApplicationFactory and serves a built front-end on another, so browser tests run with dotnet test alone — in CI, with real cross-origin rules."
+2026-10-10T04:49:21.483Z,AnyCAD.Interop3D.Win64,2026.10.10.1221,AnyCAD Inc.,Interop3D runtimes for Windows.
