@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-10T13:21:34.47Z,JsonGuard,0.1.0,JsonGuard,"An efficient, allocation free JSON validation library for System.Text.Json, based on Source Generation."
+2026-10-10T13:23:59.78Z,NCXUtilityStandard.ArubaMail,1.20.2026.1,NeocodeX Srl,Utility Libraries per Mail aruba
+2026-10-10T13:26:10.733Z,ExtendedArithmetic.GenericMatrix,3000.0.0.283,Adam White,"A generic Matrix numeric type. Supports: Scalar arithmetic, vector arithmetic, square root, dot product, normal, reflection, distance, lerp, sum of squares and cosine similarity."
+2026-10-10T13:34:34.127Z,CodeWF.Avalonia.Log,12.1.4.1,沙漠尽头的狼,面向 Avalonia 的日志查看控件与桌面通知：基于轻量日志核心展示实时日志、级别过滤与界面友好内容，适合桌面应用内嵌日志观察台。Avalonia log viewer control with desktop notifications on top of the lightweight logging core.
+2026-10-10T13:47:58.003Z,LibGit2CS,0.1.5-dev,LibGit2CS,A managed C# port of libgit2.
+2026-10-10T13:51:27.46Z,KofTwentyTwo.AppKit.Updates,0.1.0,James Maes,"Velopack self-update for KofTwentyTwo Windows apps: startup hook handling, a never-throwing update service fed by GitHub Releases with stable/dev channel selection, and the framework-free ""check for updates"" dialog flow."
+2026-10-10T13:51:28.123Z,KofTwentyTwo.AppKit.WinUI,0.1.0,James Maes,"WinUI 3 shell pieces for KofTwentyTwo Windows apps: branded splash overlay, About dialog, live log viewer, crash safety net, single-dialog guard, theme and window helpers, and the update-dialog adapter. Built in code, so it works in packaged and unpackaged (Velopack) apps alike."
+2026-10-10T13:51:28.79Z,KofTwentyTwo.AppKit,0.1.0,James Maes,"UI-framework-free foundation for KofTwentyTwo Windows apps: app identity, per-user data paths, build version display, crash-safe file logging, JSON settings, Windows Credential Manager secret storage, and the user-prompt seam the UI packages implement."
+2026-10-10T13:51:29.517Z,KofTwentyTwo.AppKit.Wpf,0.1.0,James Maes,"WPF shell pieces for KofTwentyTwo Windows apps: branded splash overlay, About window, live log viewer, crash safety net, Fluent theme switching, and the update-dialog adapter."
+2026-10-10T14:00:32.387Z,LoupixDeck.PluginTool,1.31.1,RadiatorTwo,"Command line tool for LoupixDeck plugin development: scaffolds a plugin against the latest LoupixDeck.PluginSdk, packs it in the Plugin Store format and installs it locally."
+2026-10-10T14:00:33.077Z,LoupixDeck.PluginTool.linux-x64,1.31.1,RadiatorTwo,"Command line tool for LoupixDeck plugin development: scaffolds a plugin against the latest LoupixDeck.PluginSdk, packs it in the Plugin Store format and installs it locally."
+2026-10-10T14:00:34.033Z,LoupixDeck.PluginTool.osx-arm64,1.31.1,RadiatorTwo,"Command line tool for LoupixDeck plugin development: scaffolds a plugin against the latest LoupixDeck.PluginSdk, packs it in the Plugin Store format and installs it locally."
+2026-10-10T14:00:34.82Z,LoupixDeck.PluginTool.osx-x64,1.31.1,RadiatorTwo,"Command line tool for LoupixDeck plugin development: scaffolds a plugin against the latest LoupixDeck.PluginSdk, packs it in the Plugin Store format and installs it locally."
+2026-10-10T14:00:35.477Z,LoupixDeck.PluginTool.win-x64,1.31.1,RadiatorTwo,"Command line tool for LoupixDeck plugin development: scaffolds a plugin against the latest LoupixDeck.PluginSdk, packs it in the Plugin Store format and installs it locally."
+2026-10-10T14:12:58.907Z,Zongsoft.Externals.Etcd,0.1.0,Zongsoft Studio(zongsoft@qq.com),This is a library about Etcd SDK.
+2026-10-10T14:13:42.023Z,Zongsoft.Externals.OpenXml,0.3.0,Zongsoft Studio(zongsoft@qq.com),This is a library about OpenXml SDK.
+2026-10-10T14:14:52.33Z,Zongsoft.Upgrading.Upgrader,0.1.0,Zongsoft Studio(zongsoft@qq.com),This is a upgrader for automatic upgrading.
