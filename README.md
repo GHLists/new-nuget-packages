@@ -12,24 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 03:20 UTC
+## Latest list — 2026-10-10 04:18 UTC
 
-New packages created between 2026-10-10 02:19 UTC and 2026-10-10 03:20 UTC.
+New packages created between 2026-10-10 03:20 UTC and 2026-10-10 04:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T03-20-53-305283Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T04-18-51-829331Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 02:28:15 | [SpectraUtils.AspNetCore](https://www.nuget.org/packages/SpectraUtils.AspNetCore) | 3.0.0 | Oğuzhan KARAGÜZEL | ASP.NET Core add-ons for SpectraUtils: file upload validation (allowed extensio… |
-| 2026-10-10 02:37:33 | [Equatables](https://www.nuget.org/packages/Equatables) | 0.0.1-alpha | Scott Sanderson | Package Description |
-| 2026-10-10 03:04:55 | [LogVue.Data](https://www.nuget.org/packages/LogVue.Data) | 1.0.0 | Matt Gordon | Provider-agnostic data model for the LogVue log dashboard. |
-| 2026-10-10 03:05:13 | [LogVue.Services](https://www.nuget.org/packages/LogVue.Services) | 1.0.0 | Matt Gordon | Query engine, services and Serilog sink for the LogVue log dashboard. |
-| 2026-10-10 03:05:30 | [LogVue.Data.Npgsql](https://www.nuget.org/packages/LogVue.Data.Npgsql) | 1.0.0 | Matt Gordon | PostgreSQL storage for the LogVue log dashboard. |
-| 2026-10-10 03:05:44 | [LogVue](https://www.nuget.org/packages/LogVue) | 1.0.0 | Matt Gordon | An in-process Blazor dashboard for viewing, querying and deleting your ASP.NET… |
-| 2026-10-10 03:06:00 | [LogVue.Data.MySql](https://www.nuget.org/packages/LogVue.Data.MySql) | 1.0.0 | Matt Gordon | MySQL storage for the LogVue log dashboard. |
-| 2026-10-10 03:06:23 | [LogVue.Data.Sql](https://www.nuget.org/packages/LogVue.Data.Sql) | 1.0.0 | Matt Gordon | SQL Server storage for the LogVue log dashboard. |
-| 2026-10-10 03:06:43 | [LogVue.Data.Sqlite](https://www.nuget.org/packages/LogVue.Data.Sqlite) | 1.0.0 | Matt Gordon | SQLite storage for the LogVue log dashboard. |
-| 2026-10-10 03:11:20 | [Webority.Insights](https://www.nuget.org/packages/Webority.Insights) | 0.1.0 | Webority Technologies | Product insights a product hosts on its own data: daily collectors for PostHog… |
+| 2026-10-10 03:51:02 | [Loathesoft.Equatables](https://www.nuget.org/packages/Loathesoft.Equatables) | 0.0.1-alpha | Scott Sanderson | Package Description |
+| 2026-10-10 03:56:08 | [WebHop.Gateway](https://www.nuget.org/packages/WebHop.Gateway) | 2.0.0 | elebree | The WebHop gateway as ASP.NET Core middleware: accept public HTTP traffic and f… |
+| 2026-10-10 03:56:09 | [webhop](https://www.nuget.org/packages/webhop) | 2.0.0 | elebree | Package Description |
+| 2026-10-10 03:56:10 | [WebHop.Origin](https://www.nuget.org/packages/WebHop.Origin) | 2.0.0 | elebree | Serve an ASP.NET Core app through a WebHop gateway from behind NAT or a firewal… |
+| 2026-10-10 03:59:13 | [NickStrupat.Atomic](https://www.nuget.org/packages/NickStrupat.Atomic) | 0.1.0 | Nick Strupat | A generic atomic cell for .NET. Read, Write and Exchange allocate nothing, for… |
 
 ## Data source
 
