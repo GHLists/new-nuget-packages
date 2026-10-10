@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-10T14:23:30.797Z,KenyanCloud.Sdk,0.6.1,Kenyan Cloud,Typed clients for the Kenyan Cloud control plane and Lango database proxy fleet.
+2026-10-10T14:23:33.333Z,KenyanCloud.Cli,0.6.1,Kenyan Cloud,Command-line client for the Kenyan Cloud control plane.
+2026-10-10T14:23:36.657Z,KenyanCloud.McpServer,0.6.1,Kenyan Cloud,Governed stdio MCP server for the Kenyan Cloud control plane.
+2026-10-10T14:28:35.54Z,XUnitAssured.Http.AspNetCore,6.5.0,Carlos Andrew Costa Bezerra,"HTTP tests against your own ASP.NET Core API with XUnitAssured.Http: ApiFixture hosts the API in memory with WebApplicationFactory and hands out a shared client, a new client per identity, clients with and without cookies, the API's services and its logs — one instance for the whole suite through a…"
+2026-10-10T14:34:53.477Z,KanjiVariants.Cli,1.2.0,Koichi Kobayashi,"A .NET tool for checking educational and Joyo kanji in UTF-8 TXT files and SRT subtitles, with grade selection, JSON output, and duplicate grouping."
+2026-10-10T14:41:12.787Z,PulseTrade.Comm.ResourceNode.Line,0.1.0-alpha8,PulseTrade.Comm.ResourceNode.Line,"RN-owned encrypted LINE admission, durable single reply claim and signed gateway dispatch."
+2026-10-10T14:41:21.907Z,PulseTrade.Comm.Spa.Host.LINE.Client,0.1.0-alpha5,PulseTrade.Comm.Spa.Host.LINE.Client,Package Description
+2026-10-10T14:49:27.163Z,Lycen.Storage.EntityFramework.PostgreSql,0.5.1,NRTH,Lycen PostgreSQL integration for runtime persistence.
+2026-10-10T14:49:28.577Z,Lycen.Storage.EntityFramework.SqlServer,0.5.1,NRTH,Lycen SQL Server integration for runtime persistence.
+2026-10-10T14:49:29.767Z,Lycen.Storage.EntityFramework.MySql,0.5.1,NRTH,Lycen MySQL and MariaDB integration for runtime persistence.
+2026-10-10T14:49:30.997Z,Lycen.Storage.Redis,0.5.1,NRTH,Lycen optional shared Redis certificate and artifact caching.
+2026-10-10T14:55:06.833Z,Meziantou.Framework.Imaging,1.0.0,meziantou,"Fully managed, performance-oriented image library for .NET: PNG, APNG, GIF, JPEG, WebP, QOI, BMP, TGA, Netpbm, TIFF and ICO/CUR decoding/encoding, animation-aware processing, and bounded-memory streaming."
+2026-10-10T14:55:53.23Z,Lantean.Roslyn.Workbench.Mcp.Plugins,1.0.0,Lantean Code,Trusted in-process plugin contracts and authoring diagnostics for Roslyn Workbench MCP.
+2026-10-10T14:59:44.167Z,Vamp808.Localization.KeysGenerator,0.1.0,Vamp808,Source generator: strongly-typed constants for .resx localization keys.
+2026-10-10T15:00:19.457Z,Fizzy.ImageViewer.Cuda,1.2.0,Fizzy.ImageViewer.Cuda,Optional CUDA image display and pixel queries with consumer-owned execution scopes.
