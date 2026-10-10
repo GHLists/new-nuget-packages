@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-10T12:22:51.1Z,Kusachius.QueryMapper,1.4.1,Aldis Arust,LINQ-style SQL query mapping extensions for Entity Framework Core and PostgreSQL.
+2026-10-10T12:25:14.917Z,CodeWF.Avalonia.Controls,12.1.4,沙漠尽头的狼,Avalonia 基础自定义控件库：控件 API、状态模型、绘制逻辑、标记扩展与转换器，内置 Semi 主题资源（引导、传输列表、状态徽标、标题栏等）。Core custom control library for Avalonia with built-in Semi theme resources.
+2026-10-10T12:25:15.917Z,CodeWF.Avalonia.DataGrid,12.1.4,沙漠尽头的狼,官方 Avalonia DataGrid 的增强扩展：三态排序（升/降/取消）、自然排序比较器与智能 ToolTip，内置 Semi 主题入口。Enhancements for the Avalonia DataGrid control with a built-in Semi theme entry.
+2026-10-10T12:25:16.99Z,CodeWF.Avalonia.Dock,12.1.4,沙漠尽头的狼,基于开源 Dock.Avalonia 的布局扩展控件与 Semi 风格主题：GridDock 布局适配、梯形页签与中英文本地化资源。Dock layout extensions with a Semi-styled theme on top of the open-source Dock.Avalonia.
+2026-10-10T12:25:18.957Z,CodeWF.Avalonia.Lang.Generator,12.1.4,沙漠尽头的狼,Avalonia 多语言方案的编译期源生成器：从语言资源生成强类型资源 Key。Compile-time source generator producing strongly-typed language keys.
+2026-10-10T12:25:18Z,CodeWF.Avalonia.Lang,12.1.4,沙漠尽头的狼,Avalonia 插件化多语言方案：I18n 标记扩展、运行时切换文化、父文化回退，内置 Json/Xml/Resx 三种资源加载器，附强类型 Key 源生成器。Plugin-based i18n solution for Avalonia with built-in Json/Xml/Resx resource loaders.
+2026-10-10T12:25:20.873Z,CodeWF.Avalonia.Markdown,12.1.4,沙漠尽头的狼,"Markdown 完整包：在 Lite 渲染引擎之上提供图片（GIF/SVG/预览）、数学公式、Mermaid 图表、TextMate 代码高亮、PNG/PDF/Word/公众号 HTML 导出，以及源码编辑器与单栏实时编辑（所见即所得）控件，并内置能力控件主题。Full Markdown package: images, math, mermaid, highlighting, export and editors on top of the Lite engine."
+2026-10-10T12:25:21.933Z,CodeWF.Avalonia.Markdown.Lite,12.1.4,沙漠尽头的狼,"Markdown 渲染基础包：基于 Avalonia 与 Markdig 的解析渲染引擎，只渲染常规元素（标题/段落/列表/引用/表格/链接/代码块单色/图片替代文本/公式原文），并内置 18 套排版主题。Markdown rendering engine with built-in typography themes, no heavy capability dependencies."
+2026-10-10T12:25:25.687Z,CodeWF.Avalonia.TreeDataGrid,12.1.4,沙漠尽头的狼,社区版 TreeDataGrid.Avalonia 的增强扩展：三态排序（升/降/取消）、Ctrl+A 全选与智能 ToolTip，内置 Semi 主题（本地 vendor 副本，不依赖商业版 TreeDataGrid）。Enhancements for the community TreeDataGrid.Avalonia control with a vendored Semi theme.
+2026-10-10T12:53:07.15Z,RAGToolkit.AI.Evaluation,0.1.0,gimmick,"Offline retrieval evaluation for RAG: Hit, Recall@K, Precision@K, MRR, nDCG@K and MAP, with an adapter for Microsoft.Extensions.AI.Evaluation so the numbers sit next to LLM judges in one report."
+2026-10-10T13:01:48.923Z,BringYourOwnAgent,0.0.2,ultrathinker,Early draft reference implementation of BYOA (Bring Your Own Agent): manifest validation and the call gate.
+2026-10-10T13:03:31.37Z,LanDX.Templates,1.0.0,LanDX,LanDX .NET project templates
