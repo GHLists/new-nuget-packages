@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-10T11:24:07.08Z,ETLBox.AI.Html,3.11.1,ETLBoxperts GmbH,"This is the HTML connector for ETLBox.AI. It converts HTML resources to Markdown and then into a Microsoft IngestionDocument. ETLBox is a complete ETL (Extract, Transform, Load) library and data integration toolbox for .NET. # Build scalable, code-first ETL pipelines for SQL, NoSQL, APIs, and flat…"
+2026-10-10T11:24:20.957Z,ETLBox.AI.Pdf,3.11.1,ETLBoxperts GmbH,"This is the PDF connector for ETLBox.AI. It reads PDF resources and converts each document into a Microsoft IngestionDocument. ETLBox is a complete ETL (Extract, Transform, Load) library and data integration toolbox for .NET. # Build scalable, code-first ETL pipelines for SQL, NoSQL, APIs, and flat…"
+2026-10-10T11:29:06.123Z,Mapping_Tools.Core,2.0.0,Mapping_Tools.Core,Package Description
+2026-10-10T11:29:07.293Z,Mapping_Tools.Application,2.0.0,Mapping_Tools.Application,Package Description
+2026-10-10T11:29:08.907Z,Mapping_Tools.Infrastructure,2.0.0,Mapping_Tools.Infrastructure,Package Description
+2026-10-10T11:29:10.333Z,Mapping_Tools.Desktop,2.0.0,Mapping_Tools.Desktop,Package Description
+2026-10-10T11:29:50.48Z,NetAI.ResxTranslator.Tasks,1.0.1,Stephan Emmermann,MSBuild-Task zur KI-gestÃ¼tzten Ãœbersetzung von .resx-Ressourcendateien (emineo-net).
+2026-10-10T11:41:39.11Z,Kusachius.Fakedata,1.4.2,Aldis Arust,"Random Lithuanian person, company, and address data for tests and development."
+2026-10-10T11:44:44.877Z,Sezzlee.AspNetCore,0.1.0,Sezzlee.AspNetCore,"Embeds an MCP layer into an existing ASP.NET Core backend: search-first tool discovery over your real endpoints, dispatched through your own pipeline so authentication and authorization keep working unchanged."
+2026-10-10T11:46:47.76Z,PageCurl.Core,0.1.0,Marius Muntean,"Platform-independent page-turn interaction, navigation and developable page geometry."
+2026-10-10T11:47:25.95Z,PageCurl.Maui,0.1.0,Marius Muntean,"Interactive stiff-paper page turns for images, live .NET MAUI views and two-page spreads."
