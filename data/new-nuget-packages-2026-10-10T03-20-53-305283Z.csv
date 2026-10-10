@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-10T02:28:15.48Z,SpectraUtils.AspNetCore,3.0.0,Oğuzhan KARAGÜZEL,ASP.NET Core add-ons for SpectraUtils: file upload validation (allowed extensions and maximum size) for IFormFile and IFormFileCollection.
+2026-10-10T02:37:33.107Z,Equatables,0.0.1-alpha,Scott Sanderson,Package Description
+2026-10-10T03:04:55.837Z,LogVue.Data,1.0.0,Matt Gordon,Provider-agnostic data model for the LogVue log dashboard.
+2026-10-10T03:05:13.92Z,LogVue.Services,1.0.0,Matt Gordon,"Query engine, services and Serilog sink for the LogVue log dashboard."
+2026-10-10T03:05:30.197Z,LogVue.Data.Npgsql,1.0.0,Matt Gordon,PostgreSQL storage for the LogVue log dashboard.
+2026-10-10T03:05:44.8Z,LogVue,1.0.0,Matt Gordon,"An in-process Blazor dashboard for viewing, querying and deleting your ASP.NET Core application's Serilog events."
+2026-10-10T03:06:00.257Z,LogVue.Data.MySql,1.0.0,Matt Gordon,MySQL storage for the LogVue log dashboard.
+2026-10-10T03:06:23.677Z,LogVue.Data.Sql,1.0.0,Matt Gordon,SQL Server storage for the LogVue log dashboard.
+2026-10-10T03:06:43.397Z,LogVue.Data.Sqlite,1.0.0,Matt Gordon,SQLite storage for the LogVue log dashboard.
+2026-10-10T03:11:20.47Z,Webority.Insights,0.1.0,Webority Technologies,"Product insights a product hosts on its own data: daily collectors for PostHog usage, funnels and retention, Microsoft Clarity and Google Search Console, the rollup tables they write, and the run log. The product owns its DbContext, its migrations and its keys."
