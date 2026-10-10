@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 00:19 UTC
+## Latest list — 2026-10-10 01:22 UTC
 
-New packages created between 2026-10-09 23:19 UTC and 2026-10-10 00:19 UTC.
+New packages created between 2026-10-10 00:19 UTC and 2026-10-10 01:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T00-19-28-524175Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T01-22-02-242313Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 00:09:34 | [Zaldaryon.Pharos.Cli](https://www.nuget.org/packages/Zaldaryon.Pharos.Cli) | 0.6.0 | Zaldaryon | The pharos command: smoke-test a Vintage Story mod (boot, join, play, fail on e… |
-| 2026-10-10 00:10:41 | [TenaBill.Sdk](https://www.nuget.org/packages/TenaBill.Sdk) | 0.1.4 | Cyntrix | Typed application SDK for TenaBill merchant payment capabilities. |
-| 2026-10-10 00:10:42 | [TenaBill.Sdk.Mobile](https://www.nuget.org/packages/TenaBill.Sdk.Mobile) | 0.1.3 | Cyntrix | App-neutral mobile payment collection contracts for TenaBill provider adapters. |
-| 2026-10-10 00:12:53 | [TenancyEngine.Sdk.Maui.Auth](https://www.nuget.org/packages/TenancyEngine.Sdk.Maui.Auth) | 0.4.3 | Cyntrix | Platform-agnostic core of the TenancyEngine mobile OIDC/PKCE auth client for .N… |
-| 2026-10-10 00:12:55 | [TenancyEngine.Sdk](https://www.nuget.org/packages/TenancyEngine.Sdk) | 2.0.2 | Cyntrix | TenancyEngine platform SDK for ISV applications (.NET) — typed client for the o… |
-| 2026-10-10 00:12:56 | [TenancyEngine.Sdk.Maui](https://www.nuget.org/packages/TenancyEngine.Sdk.Maui) | 0.4.3 | Cyntrix | Ready-to-use TenancyEngine OIDC/PKCE auth client for .NET MAUI apps (iOS/Androi… |
+| 2026-10-10 00:31:12 | [Widgentic.Mcp](https://www.nuget.org/packages/Widgentic.Mcp) | 0.9.0 | Diego Hoyos | BETA, render-only. widgentic widgets for .NET MCP servers: runs the published @… |
+| 2026-10-10 00:48:21 | [PiSharp.Codemode](https://www.nuget.org/packages/PiSharp.Codemode) | 1.1.0.2 | PiSharp contributors | Codemode for PiSharp: model-written JavaScript in a Jint sandbox that calls the… |
+| 2026-10-10 00:48:29 | [PiSharp.Tools.Skia](https://www.nuget.org/packages/PiSharp.Tools.Skia) | 1.1.0.2 | PiSharp contributors | SkiaSharp image codec for the PiSharp read tool: decoding, resizing and re-enco… |
+| 2026-10-10 00:48:45 | [Tracepoint](https://www.nuget.org/packages/Tracepoint) | 0.1.0 | konnta0 | Declarative System.Diagnostics.Activity tracing for C# methods. |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-10T00:31:12.133Z,Widgentic.Mcp,0.9.0,Diego Hoyos,"BETA, render-only. widgentic widgets for .NET MCP servers: runs the published @widgentic/mcp host bundle on V8 and wires list_widgets, render_widget and the MCP Apps template onto the C# MCP SDK. Renders are byte-identical to the Node server's (no image inlining). Widgentic.Mcp X.Y.* embeds @widgen…"
+2026-10-10T00:48:21.5Z,PiSharp.Codemode,1.1.0.2,PiSharp contributors,Codemode for PiSharp: model-written JavaScript in a Jint sandbox that calls the session's tools. Compatibility is limited to recorded acceptance evidence.
+2026-10-10T00:48:29.72Z,PiSharp.Tools.Skia,1.1.0.2,PiSharp contributors,"SkiaSharp image codec for the PiSharp read tool: decoding, resizing and re-encoding as Pi does. Compatibility is limited to recorded acceptance evidence."
+2026-10-10T00:48:45.94Z,Tracepoint,0.1.0,konnta0,Declarative System.Diagnostics.Activity tracing for C# methods.
