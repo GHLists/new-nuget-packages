@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-10T06:21:31.253Z,UO.Graphs.Cli,0.9.0,UO.Graphs contributors,Local C# evidence graph CLI; requires a prepared .NET SDK and explicit MSBuild trust.
+2026-10-10T06:35:11.56Z,Singleton.Godot,1.0.0,Gatongone,"Build a singleton in Godot without a base type: a partial class, an attribute, and an Instance which is the same one every time it is read."
+2026-10-10T07:09:52.65Z,SinkSharp.Enrichers.Azure,1.0.0,SinkSharp,"Azure context enricher for SinkSharp. Stamps region, resource group, deployment slot, and pod name on every log event. Reads Azure environment variables once at startup — zero runtime cost."
+2026-10-10T07:11:29.283Z,Bielu.AspNetCore.AsyncApi.Wolverine,1.1.0,Arkadiusz Biel,"Wolverine integration for Bielu.AspNetCore.AsyncApi. Builds AsyncAPI channels, operations and messages from Wolverine's own message routing (SignalR, Kafka and any other transport), so the document follows the routing configuration instead of repeating it in attributes."
