@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-10-10T16:21:16.033Z,SharpCoreDB.HybridSearch,2.1.0,MPCoreDeveloper,Hybrid (lexical + vector) retrieval for SharpCoreDB: runs the BM25 lexical leg and the vector leg and fuses them by rank with reciprocal-rank fusion. Pure managed C# 15 / .NET 11.
+2026-10-10T16:21:18.223Z,SharpCoreDB.Search,2.1.0,MPCoreDeveloper,"Lexical (full-text) search for SharpCoreDB — a classifying tokenizer, PostgreSQL-16 English stop words, an English word-only stemmer and a BM25 inverted index. Pure managed C# 15 / .NET 11."
+2026-10-10T16:31:42.473Z,Bfs.Seed.Mcp,0.3.0,Black Forest Sentinel,"MCP-Server für Azure Functions (dotnet-isolated) in Sentinel-Seed-Projekten: Endpunkt /api/mcp (Streamable HTTP, zustandslos), Metadaten nach RFC 9728, Werkzeuge per Attribut mit Capabilities aus Bfs.Seed.Auth."
+2026-10-10T16:31:43.26Z,Bfs.Seed.Storage,0.3.0,Black Forest Sentinel,"Datenhaltung für Azure Functions (dotnet-isolated) in Sentinel-Seed-Projekten: Clients für Table, Blob und Queue per Managed Identity oder Azurite, Table-Repository mit ETag, Partitionen je Person oder Tenant."
+2026-10-10T16:36:19.307Z,g0v0.Framework,2026.1011.0,ppy Pty Ltd & GooGuTeam,"A 2D application/game framework written with rhythm games in mind. A community project based on the osu!framework codebase, originally developed by ppy Pty Ltd and modified/maintained by GooGuTeam."
+2026-10-10T16:43:04.44Z,Gravicode.Finance.Core,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:05.303Z,Gravicode.Finance.Math,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:06.283Z,Gravicode.Finance.DataFrame,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:07.21Z,Gravicode.Finance.TimeSeries,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:08.177Z,Gravicode.Finance.MarketData,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:09.123Z,Gravicode.Finance.AlternativeData,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:10.077Z,Gravicode.Finance.Pricing,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:11.117Z,Gravicode.Finance.Risk,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:12.117Z,Gravicode.Finance.Portfolio,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:13.063Z,Gravicode.Finance.Backtesting,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:14.023Z,Gravicode.Finance.Execution,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:15.19Z,Gravicode.Finance.ML,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:16.487Z,Gravicode.Finance.LLM,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:17.56Z,Gravicode.Finance.NewsAnalytics,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:18.52Z,Gravicode.Finance.Visualization,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:19.487Z,Gravicode.Finance.GPU,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T16:43:20.513Z,Gravicode.Finance.RustBridge,0.1.0,Gravicode Studios,"Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-10-10T17:03:04.63Z,Holwon.SharpDb.Mcp,0.1.0,SharpDb,Read-only MCP server that lets an AI agent inspect a relational database and run read-only queries. One install serves MySQL and SQLite; the database type is chosen at startup from the client's environment block.
+2026-10-10T17:04:44.357Z,metalTools.ConnectionManagement.NetMq,26.10.10.1232,Daniel T. Houck,"NetMQ request ownership, discovery, heartbeat supervision and client session leases for .NET 10."
+2026-10-10T17:04:46.503Z,metalTools.LoggerLite.Hosting,26.10.10.1232,Daniel T. Houck,Optional .NET Generic Host integration for metalTools.LoggerLite.
+2026-10-10T17:04:48.63Z,metalTools.ServiceDiscovery,26.10.10.1232,Daniel T. Houck,"JSON-backed service registration, heartbeats and discovery for .NET 10."
+2026-10-10T17:04:49.9Z,metalTools.ServiceDiscovery.Hosting,26.10.10.1232,Daniel T. Houck,Optional .NET Generic Host integration for metalTools.ServiceDiscovery.
+2026-10-10T17:08:17.527Z,Yaffle.Runtime,0.0.1,Noah,Runtime for C# code generated by the yaffle compiler.

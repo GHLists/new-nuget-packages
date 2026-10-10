@@ -12,19 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 16:20 UTC
+## Latest list — 2026-10-10 17:19 UTC
 
-New packages created between 2026-10-10 15:20 UTC and 2026-10-10 16:20 UTC.
+New packages created between 2026-10-10 16:20 UTC and 2026-10-10 17:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T16-20-11-101764Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T17-19-18-856088Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 15:21:32 | [StanzaSharp.Cuda](https://www.nuget.org/packages/StanzaSharp.Cuda) | 1.0.0 | Jakob Boman | The TorchSharp (libtorch) backend for StanzaSharp: runs Stanza's English pipeli… |
-| 2026-10-10 15:29:59 | [MarkdownRenderX.Avalonia](https://www.nuget.org/packages/MarkdownRenderX.Avalonia) | 12.1.3.2 | RYCBStudio | 面向 Avalonia 的 Markdown 渲染组件，不依赖 FluentAvalonia。支持标题、列表、引用、代码高亮、图片、内联 HTML、GitHu… |
-| 2026-10-10 15:39:23 | [Kun.Authorization](https://www.nuget.org/packages/Kun.Authorization) | 2026.10.9 | Kun Framework Contributors | 权限判定、数据与字段策略端口；权限引擎由宿主提供。 |
-| 2026-10-10 15:39:26 | [Kun.Configuration.Apollo](https://www.nuget.org/packages/Kun.Configuration.Apollo) | 2026.10.9 | Kun Framework Contributors | Apollo HTTP 配置源：长轮询、AccessKey 签名、多 namespace 合并与本地缓存。 |
-| 2026-10-10 15:54:07 | [DiScope](https://www.nuget.org/packages/DiScope) | 0.1.1 | DiScope contributors | See your .NET dependency injection graph. Finds captive dependencies, missing r… |
+| 2026-10-10 16:21:16 | [SharpCoreDB.HybridSearch](https://www.nuget.org/packages/SharpCoreDB.HybridSearch) | 2.1.0 | MPCoreDeveloper | Hybrid (lexical + vector) retrieval for SharpCoreDB: runs the BM25 lexical leg… |
+| 2026-10-10 16:21:18 | [SharpCoreDB.Search](https://www.nuget.org/packages/SharpCoreDB.Search) | 2.1.0 | MPCoreDeveloper | Lexical (full-text) search for SharpCoreDB — a classifying tokenizer, PostgreSQ… |
+| 2026-10-10 16:31:42 | [Bfs.Seed.Mcp](https://www.nuget.org/packages/Bfs.Seed.Mcp) | 0.3.0 | Black Forest Sentinel | MCP-Server für Azure Functions (dotnet-isolated) in Sentinel-Seed-Projekten: En… |
+| 2026-10-10 16:31:43 | [Bfs.Seed.Storage](https://www.nuget.org/packages/Bfs.Seed.Storage) | 0.3.0 | Black Forest Sentinel | Datenhaltung für Azure Functions (dotnet-isolated) in Sentinel-Seed-Projekten:… |
+| 2026-10-10 16:36:19 | [g0v0.Framework](https://www.nuget.org/packages/g0v0.Framework) | 2026.1011.0 | ppy Pty Ltd & GooGuTeam | A 2D application/game framework written with rhythm games in mind. A community… |
+| 2026-10-10 16:43:04 | [Gravicode.Finance.Core](https://www.nuget.org/packages/Gravicode.Finance.Core) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:05 | [Gravicode.Finance.Math](https://www.nuget.org/packages/Gravicode.Finance.Math) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:06 | [Gravicode.Finance.DataFrame](https://www.nuget.org/packages/Gravicode.Finance.DataFrame) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:07 | [Gravicode.Finance.TimeSeries](https://www.nuget.org/packages/Gravicode.Finance.TimeSeries) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:08 | [Gravicode.Finance.MarketData](https://www.nuget.org/packages/Gravicode.Finance.MarketData) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:09 | [Gravicode.Finance.AlternativeData](https://www.nuget.org/packages/Gravicode.Finance.AlternativeData) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:10 | [Gravicode.Finance.Pricing](https://www.nuget.org/packages/Gravicode.Finance.Pricing) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:11 | [Gravicode.Finance.Risk](https://www.nuget.org/packages/Gravicode.Finance.Risk) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:12 | [Gravicode.Finance.Portfolio](https://www.nuget.org/packages/Gravicode.Finance.Portfolio) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:13 | [Gravicode.Finance.Backtesting](https://www.nuget.org/packages/Gravicode.Finance.Backtesting) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:14 | [Gravicode.Finance.Execution](https://www.nuget.org/packages/Gravicode.Finance.Execution) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:15 | [Gravicode.Finance.ML](https://www.nuget.org/packages/Gravicode.Finance.ML) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:16 | [Gravicode.Finance.LLM](https://www.nuget.org/packages/Gravicode.Finance.LLM) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:17 | [Gravicode.Finance.NewsAnalytics](https://www.nuget.org/packages/Gravicode.Finance.NewsAnalytics) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:18 | [Gravicode.Finance.Visualization](https://www.nuget.org/packages/Gravicode.Finance.Visualization) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:19 | [Gravicode.Finance.GPU](https://www.nuget.org/packages/Gravicode.Finance.GPU) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 16:43:20 | [Gravicode.Finance.RustBridge](https://www.nuget.org/packages/Gravicode.Finance.RustBridge) | 0.1.0 | Gravicode Studios | Finance.Net - complete quantitative finance library for .NET 10. Dibuat oleh Gr… |
+| 2026-10-10 17:03:04 | [Holwon.SharpDb.Mcp](https://www.nuget.org/packages/Holwon.SharpDb.Mcp) | 0.1.0 | SharpDb | Read-only MCP server that lets an AI agent inspect a relational database and ru… |
+| 2026-10-10 17:04:44 | [metalTools.ConnectionManagement.NetMq](https://www.nuget.org/packages/metalTools.ConnectionManagement.NetMq) | 26.10.10.1232 | Daniel T. Houck | NetMQ request ownership, discovery, heartbeat supervision and client session le… |
+| 2026-10-10 17:04:46 | [metalTools.LoggerLite.Hosting](https://www.nuget.org/packages/metalTools.LoggerLite.Hosting) | 26.10.10.1232 | Daniel T. Houck | Optional .NET Generic Host integration for metalTools.LoggerLite. |
+| 2026-10-10 17:04:48 | [metalTools.ServiceDiscovery](https://www.nuget.org/packages/metalTools.ServiceDiscovery) | 26.10.10.1232 | Daniel T. Houck | JSON-backed service registration, heartbeats and discovery for .NET 10. |
+| 2026-10-10 17:04:49 | [metalTools.ServiceDiscovery.Hosting](https://www.nuget.org/packages/metalTools.ServiceDiscovery.Hosting) | 26.10.10.1232 | Daniel T. Houck | Optional .NET Generic Host integration for metalTools.ServiceDiscovery. |
+| 2026-10-10 17:08:17 | [Yaffle.Runtime](https://www.nuget.org/packages/Yaffle.Runtime) | 0.0.1 | Noah | Runtime for C# code generated by the yaffle compiler. |
 
 ## Data source
 
