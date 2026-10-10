@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-10T22:27:37.32Z,NativeValidation,0.1.0,Daniel Cazzulino,AOT-safe validation for System.ComponentModel.DataAnnotations attributes.
+2026-10-10T22:27:55.407Z,WizardKit,1.0.1,Thomas Loeb,A reusable Windows Forms installation-wizard control (TabControl-style multi-step flow with Next/Previous/Skip/Cancel/Finish).
+2026-10-10T22:28:07.29Z,WizardKit.Templates,1.0.1,Thomas Loeb,"Reusable, front-end-only wizard pages for WizardKit. Consumers instantiate a page and bind its exposed field values."
+2026-10-10T23:01:48.833Z,PlatformHeads,0.1.0,https://github.com/SimonCropp/PlatformHeads/graphs/contributors,The build and packaging half of an app with one head per platform: publishes a head for each runtime identifier and bundles them into one package.
