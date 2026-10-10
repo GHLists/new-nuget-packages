@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-10T01:56:59.723Z,CodeBrix.RustTools.MitLicenseForever,1.0.283.116,Jeremy Ellis,"A .NET library for inspecting, license-checking, building and running Rust applications with the Rust toolchain already installed on the local machine. Detects rustup, cargo, rustc and the C toolchain and returns operating-system-specific install guidance instead of installing anything; reads Cargo…"
+2026-10-10T01:57:26.497Z,CodeBrix.RustTools.Docker.MitLicenseForever,1.0.283.116,Jeremy Ellis,"A .NET library for building Rust applications inside a Linux Docker container, so the machine needs a running Docker engine but no Rust tools. Checks that the engine is reachable and returns operating-system-specific guidance when it is not; prepares the build image from the official rust image wit…"
+2026-10-10T02:09:30.68Z,IPluginBase,0.0.4,Jaffoo,Package Description

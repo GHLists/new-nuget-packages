@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 01:22 UTC
+## Latest list — 2026-10-10 02:19 UTC
 
-New packages created between 2026-10-10 00:19 UTC and 2026-10-10 01:22 UTC.
+New packages created between 2026-10-10 01:22 UTC and 2026-10-10 02:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T01-22-02-242313Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T02-19-35-101579Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 00:31:12 | [Widgentic.Mcp](https://www.nuget.org/packages/Widgentic.Mcp) | 0.9.0 | Diego Hoyos | BETA, render-only. widgentic widgets for .NET MCP servers: runs the published @… |
-| 2026-10-10 00:48:21 | [PiSharp.Codemode](https://www.nuget.org/packages/PiSharp.Codemode) | 1.1.0.2 | PiSharp contributors | Codemode for PiSharp: model-written JavaScript in a Jint sandbox that calls the… |
-| 2026-10-10 00:48:29 | [PiSharp.Tools.Skia](https://www.nuget.org/packages/PiSharp.Tools.Skia) | 1.1.0.2 | PiSharp contributors | SkiaSharp image codec for the PiSharp read tool: decoding, resizing and re-enco… |
-| 2026-10-10 00:48:45 | [Tracepoint](https://www.nuget.org/packages/Tracepoint) | 0.1.0 | konnta0 | Declarative System.Diagnostics.Activity tracing for C# methods. |
+| 2026-10-10 01:56:59 | [CodeBrix.RustTools.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.RustTools.MitLicenseForever) | 1.0.283.116 | Jeremy Ellis | A .NET library for inspecting, license-checking, building and running Rust appl… |
+| 2026-10-10 01:57:26 | [CodeBrix.RustTools.Docker.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.RustTools.Docker.MitLicenseForever) | 1.0.283.116 | Jeremy Ellis | A .NET library for building Rust applications inside a Linux Docker container,… |
+| 2026-10-10 02:09:30 | [IPluginBase](https://www.nuget.org/packages/IPluginBase) | 0.0.4 | Jaffoo | Package Description |
 
 ## Data source
 
