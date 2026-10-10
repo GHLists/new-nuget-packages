@@ -12,32 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 21:20 UTC
+## Latest list — 2026-10-10 22:20 UTC
 
-New packages created between 2026-10-10 20:21 UTC and 2026-10-10 21:20 UTC.
+New packages created between 2026-10-10 21:20 UTC and 2026-10-10 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T21-20-33-94214Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T22-20-50-124593Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 20:24:56 | [AppShell.Core](https://www.nuget.org/packages/AppShell.Core) | 0.2.0 | MrMontana1889 | UI-agnostic application-shell contracts and infrastructure. |
-| 2026-10-10 20:25:06 | [AppShell.Wpf](https://www.nuget.org/packages/AppShell.Wpf) | 0.2.0 | MrMontana1889 | WPF projections and integrations for the application-shell infrastructure. |
-| 2026-10-10 20:28:38 | [Dfx-lite](https://www.nuget.org/packages/Dfx-lite) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:28:38 | [dfx-lite](https://www.nuget.org/packages/dfx-lite) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:28:39 | [Dfx-cpu](https://www.nuget.org/packages/Dfx-cpu) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:28:39 | [dfx-cpu](https://www.nuget.org/packages/dfx-cpu) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:29:43 | [Dfx-cuda-windows](https://www.nuget.org/packages/Dfx-cuda-windows) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:29:43 | [dfx-cuda-windows](https://www.nuget.org/packages/dfx-cuda-windows) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:29:45 | [Dfx-cuda-linux](https://www.nuget.org/packages/Dfx-cuda-linux) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:29:45 | [dfx-cuda-linux](https://www.nuget.org/packages/dfx-cuda-linux) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:30:41 | [Dfx-cuda](https://www.nuget.org/packages/Dfx-cuda) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:30:41 | [dfx-cuda](https://www.nuget.org/packages/dfx-cuda) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
-| 2026-10-10 20:53:00 | [YonatanMankovich.WhatsOnLan.Core](https://www.nuget.org/packages/YonatanMankovich.WhatsOnLan.Core) | 1.1.0 | Yonatan Mankovich | A scanner library to find basic networking information about devices on the loc… |
-| 2026-10-10 20:54:20 | [Soenneker.JavaScript.Minifier](https://www.nuget.org/packages/Soenneker.JavaScript.Minifier) | 4.0.2 | Jake Soenneker | A utility for minifying JavaScript |
-| 2026-10-10 20:58:55 | [CropAndWebP.TagHelper](https://www.nuget.org/packages/CropAndWebP.TagHelper) | 1.0.0 | DraganS | Crop JPG, JPEG, PNG, and GIF images and automatically convert them to WebP. Sup… |
-| 2026-10-10 21:04:13 | [InPoint.Cloud.OpenBarcode](https://www.nuget.org/packages/InPoint.Cloud.OpenBarcode) | 0.1.0 | InPoint.Cloud | Pure managed .NET barcode reader for images (PNG, JPEG, BMP, GIF, TIFF, ...) an… |
-| 2026-10-10 21:04:47 | [Somepoi.Atlyss.GameLibs](https://www.nuget.org/packages/Somepoi.Atlyss.GameLibs) | 0.21474249.0 | somepoi | All stripped ATLYSS managed game, Unity and third-party compile references from… |
-| 2026-10-10 21:11:23 | [KetPsi.Endpoints.Http.Abstractions](https://www.nuget.org/packages/KetPsi.Endpoints.Http.Abstractions) | 1.1.0 | KetPsi ,MohamadArsalan Imamve… | Abstraction for the HTTP endpoint configuration in ASP.NET Core Minimal APIs. |
+| 2026-10-10 21:47:37 | [ParallelGpu](https://www.nuget.org/packages/ParallelGpu) | 0.1.0 | Valery Asiryan | Typed GPU parallel loops with automatic lambda compilation and collection trans… |
+| 2026-10-10 21:50:31 | [CShells.Nuplane](https://www.nuget.org/packages/CShells.Nuplane) | 0.0.30 | Sipke Schoorstra | Optional integration that discovers loaded Nuplane package features and refresh… |
+| 2026-10-10 21:52:24 | [Cogito.MassTransit.Scheduler.Hangfire](https://www.nuget.org/packages/Cogito.MassTransit.Scheduler.Hangfire) | 3.0.0 | Alethic Solutions | Publishes MassTransit periodic messages on a schedule kept by Hangfire. |
+| 2026-10-10 21:52:24 | [Cogito.MassTransit.Scheduler.Quartz](https://www.nuget.org/packages/Cogito.MassTransit.Scheduler.Quartz) | 3.0.0 | Alethic Solutions | Publishes MassTransit periodic messages on a schedule kept by Quartz. |
+| 2026-10-10 22:03:19 | [FormEventExplorer](https://www.nuget.org/packages/FormEventExplorer) | 1.0.0 | Sushant-Salunkhe | Inspect main form events, field OnChange handlers and business rules. |
+| 2026-10-10 22:04:37 | [RoguelikeToolkit.StateMachine](https://www.nuget.org/packages/RoguelikeToolkit.StateMachine) | 0.4.0 | RoguelikeToolkit Contributors | Finite state machine with shared context, guards, entry/exit actions, and trans… |
+| 2026-10-10 22:06:06 | [Lustral.Api](https://www.nuget.org/packages/Lustral.Api) | 0.1.0 | Lustral Team | The public API for Lustral mods. |
+| 2026-10-10 22:06:07 | [Lustral.Sdk](https://www.nuget.org/packages/Lustral.Sdk) | 0.1.0 | Lustral Team | MSBuild SDK for Lustral mods. Locates the game, references its assemblies, gene… |
+| 2026-10-10 22:06:08 | [Lustral.Templates](https://www.nuget.org/packages/Lustral.Templates) | 0.1.0 | Lustral Team | Project templates for Lustral mods. Usage: dotnet new lustral-mod --game "Game… |
+| 2026-10-10 22:14:30 | [RoguelikeToolkit.EventAggregator](https://www.nuget.org/packages/RoguelikeToolkit.EventAggregator) | 0.3.0 | RoguelikeToolkit Contributors | Lightweight synchronous in-process event aggregator (publish/subscribe messagin… |
 
 ## Data source
 

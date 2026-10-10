@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-10T21:47:37Z,ParallelGpu,0.1.0,Valery Asiryan,"Typed GPU parallel loops with automatic lambda compilation and collection transfers, powered by ILGPU."
+2026-10-10T21:50:31.34Z,CShells.Nuplane,0.0.30,Sipke Schoorstra,Optional integration that discovers loaded Nuplane package features and refreshes the CShells feature catalog.
+2026-10-10T21:52:24.203Z,Cogito.MassTransit.Scheduler.Hangfire,3.0.0,Alethic Solutions,Publishes MassTransit periodic messages on a schedule kept by Hangfire.
+2026-10-10T21:52:24.707Z,Cogito.MassTransit.Scheduler.Quartz,3.0.0,Alethic Solutions,Publishes MassTransit periodic messages on a schedule kept by Quartz.
+2026-10-10T22:03:19.853Z,FormEventExplorer,1.0.0,Sushant-Salunkhe,"Inspect main form events, field OnChange handlers and business rules."
+2026-10-10T22:04:37.013Z,RoguelikeToolkit.StateMachine,0.4.0,RoguelikeToolkit Contributors,"Finite state machine with shared context, guards, entry/exit actions, and transition sink for .NET."
+2026-10-10T22:06:06.197Z,Lustral.Api,0.1.0,Lustral Team,The public API for Lustral mods.
+2026-10-10T22:06:07.35Z,Lustral.Sdk,0.1.0,Lustral Team,"MSBuild SDK for Lustral mods. Locates the game, references its assemblies, generates the mod manifest and deploys the mod on build."
+2026-10-10T22:06:08.58Z,Lustral.Templates,0.1.0,Lustral Team,"Project templates for Lustral mods. Usage: dotnet new lustral-mod --game ""Game Name""."
+2026-10-10T22:14:30.243Z,RoguelikeToolkit.EventAggregator,0.3.0,RoguelikeToolkit Contributors,Lightweight synchronous in-process event aggregator (publish/subscribe messaging) for .NET.
