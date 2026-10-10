@@ -12,30 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 20:21 UTC
+## Latest list — 2026-10-10 21:20 UTC
 
-New packages created between 2026-10-10 19:20 UTC and 2026-10-10 20:21 UTC.
+New packages created between 2026-10-10 20:21 UTC and 2026-10-10 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T20-21-57-307077Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T21-20-33-94214Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 19:25:03 | [NuvTools.Security.Biometrics.Serpro](https://www.nuget.org/packages/NuvTools.Security.Biometrics.Serpro) | 10.0.0 | Nuv Tools | SERPRO Datavalid implementation of the NuvTools.Security facial verification co… |
-| 2026-10-10 19:25:12 | [NuvTools.Security.Certificate.Lacuna](https://www.nuget.org/packages/NuvTools.Security.Certificate.Lacuna) | 10.0.0 | Nuv Tools | Lacuna REST PKI implementation of the NuvTools.Security certificate authenticat… |
-| 2026-10-10 19:33:15 | [DaffyReplay](https://www.nuget.org/packages/DaffyReplay) | 0.1.0 | TroBeeOne LLC | Replays a DaffyTee recording of real SQL Server traffic against a test or pre-p… |
-| 2026-10-10 19:34:53 | [exuarch](https://www.nuget.org/packages/exuarch) | 1.40.0 | olebru | Check, assemble and run ExuArch machine packages from the command line: the mac… |
-| 2026-10-10 19:49:23 | [KestrelAcme](https://www.nuget.org/packages/KestrelAcme) | 0.1.0 | KestrelAcme contributors | Automatic HTTPS for ASP.NET Core: issues and renews Let's Encrypt (ACME) certif… |
-| 2026-10-10 19:51:10 | [SharpCell.Grid.Avalonia](https://www.nuget.org/packages/SharpCell.Grid.Avalonia) | 0.1.0 | Mark Shvabenlandt | Excel-like spreadsheet control for Avalonia UI that shows SharpCell workbooks.… |
-| 2026-10-10 19:51:11 | [SharpCell.Grid](https://www.nuget.org/packages/SharpCell.Grid) | 0.1.0 | Mark Shvabenlandt | Excel-like spreadsheet grid for SharpCell workbooks, independent of any UI fram… |
-| 2026-10-10 19:53:23 | [Elarion.EntityFrameworkCore.LeasedWork](https://www.nuget.org/packages/Elarion.EntityFrameworkCore.LeasedWork) | 0.2.12 | Simon Wimmesberger | EF Core leased work rows for Elarion (ADR-0073): a provider-neutral claim / lea… |
-| 2026-10-10 19:53:25 | [Elarion.AspNetCore.ProxyIdentity](https://www.nuget.org/packages/Elarion.AspNetCore.ProxyIdentity) | 0.2.12 | Simon Wimmesberger | Optional ASP.NET Core authentication for Elarion apps behind an authenticating… |
-| 2026-10-10 19:56:55 | [Pz.Connector.ClickHouse](https://www.nuget.org/packages/Pz.Connector.ClickHouse) | 0.1.0 | PipelineZ contributors | ClickHouse source and sink connector for PipelineZ (pz), served out of process:… |
-| 2026-10-10 20:01:48 | [Raffinert.Expressions.EntityFrameworkCore](https://www.nuget.org/packages/Raffinert.Expressions.EntityFrameworkCore) | 1.2.0 | Yevhen Cherkes | EF Core 10 async condition operators and opt-in expression expansion before nat… |
-| 2026-10-10 20:03:23 | [Soenneker.Esbuild.Util](https://www.nuget.org/packages/Soenneker.Esbuild.Util) | 4.0.1 | Jake Soenneker | A C# utility for installing and running esbuild builds, transforms, and increme… |
-| 2026-10-10 20:07:00 | [Yukat.UpdateVerify](https://www.nuget.org/packages/Yukat.UpdateVerify) | 0.2.0 | MinoriSama | Verify RSA-PSS signed update metadata, expiry and local package integrity. |
-| 2026-10-10 20:08:48 | [Yukat.UpdateVerify.Tool](https://www.nuget.org/packages/Yukat.UpdateVerify.Tool) | 0.2.0 | MinoriSama | Verify signed update metadata and local package integrity without execution. |
-| 2026-10-10 20:11:54 | [Rhino.Scripting.QrCode](https://www.nuget.org/packages/Rhino.Scripting.QrCode) | 0.2.0 | GoswinR | Create QR codes as Rhino3D Meshes or Hatches, using ZXing.Net |
-| 2026-10-10 20:13:04 | [2dog.repl](https://www.nuget.org/packages/2dog.repl) | 4.7.2.112 | Moritz Voss | A terminal C# REPL inside a running Godot engine, with completion, highlighting… |
+| 2026-10-10 20:24:56 | [AppShell.Core](https://www.nuget.org/packages/AppShell.Core) | 0.2.0 | MrMontana1889 | UI-agnostic application-shell contracts and infrastructure. |
+| 2026-10-10 20:25:06 | [AppShell.Wpf](https://www.nuget.org/packages/AppShell.Wpf) | 0.2.0 | MrMontana1889 | WPF projections and integrations for the application-shell infrastructure. |
+| 2026-10-10 20:28:38 | [Dfx-lite](https://www.nuget.org/packages/Dfx-lite) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:28:38 | [dfx-lite](https://www.nuget.org/packages/dfx-lite) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:28:39 | [Dfx-cpu](https://www.nuget.org/packages/Dfx-cpu) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:28:39 | [dfx-cpu](https://www.nuget.org/packages/dfx-cpu) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:29:43 | [Dfx-cuda-windows](https://www.nuget.org/packages/Dfx-cuda-windows) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:29:43 | [dfx-cuda-windows](https://www.nuget.org/packages/dfx-cuda-windows) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:29:45 | [Dfx-cuda-linux](https://www.nuget.org/packages/Dfx-cuda-linux) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:29:45 | [dfx-cuda-linux](https://www.nuget.org/packages/dfx-cuda-linux) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:30:41 | [Dfx-cuda](https://www.nuget.org/packages/Dfx-cuda) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:30:41 | [dfx-cuda](https://www.nuget.org/packages/dfx-cuda) | 1.0.8 | Atılım Güneş Baydin, Don Syme… | Dfx is a tensor library with support for differentiable programming. It is desi… |
+| 2026-10-10 20:53:00 | [YonatanMankovich.WhatsOnLan.Core](https://www.nuget.org/packages/YonatanMankovich.WhatsOnLan.Core) | 1.1.0 | Yonatan Mankovich | A scanner library to find basic networking information about devices on the loc… |
+| 2026-10-10 20:54:20 | [Soenneker.JavaScript.Minifier](https://www.nuget.org/packages/Soenneker.JavaScript.Minifier) | 4.0.2 | Jake Soenneker | A utility for minifying JavaScript |
+| 2026-10-10 20:58:55 | [CropAndWebP.TagHelper](https://www.nuget.org/packages/CropAndWebP.TagHelper) | 1.0.0 | DraganS | Crop JPG, JPEG, PNG, and GIF images and automatically convert them to WebP. Sup… |
+| 2026-10-10 21:04:13 | [InPoint.Cloud.OpenBarcode](https://www.nuget.org/packages/InPoint.Cloud.OpenBarcode) | 0.1.0 | InPoint.Cloud | Pure managed .NET barcode reader for images (PNG, JPEG, BMP, GIF, TIFF, ...) an… |
+| 2026-10-10 21:04:47 | [Somepoi.Atlyss.GameLibs](https://www.nuget.org/packages/Somepoi.Atlyss.GameLibs) | 0.21474249.0 | somepoi | All stripped ATLYSS managed game, Unity and third-party compile references from… |
+| 2026-10-10 21:11:23 | [KetPsi.Endpoints.Http.Abstractions](https://www.nuget.org/packages/KetPsi.Endpoints.Http.Abstractions) | 1.1.0 | KetPsi ,MohamadArsalan Imamve… | Abstraction for the HTTP endpoint configuration in ASP.NET Core Minimal APIs. |
 
 ## Data source
 
