@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 05:20 UTC
+## Latest list — 2026-10-10 06:18 UTC
 
-New packages created between 2026-10-10 04:18 UTC and 2026-10-10 05:20 UTC.
+New packages created between 2026-10-10 05:20 UTC and 2026-10-10 06:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-10T05-20-53-180799Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-10T06-18-52-185731Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-10 04:21:49 | [Webority.Email.Outreach.Apollo](https://www.nuget.org/packages/Webority.Email.Outreach.Apollo) | 0.39.0 | Webority Technologies | Apollo contact provider for Webority.Email.Outreach over Apollo's REST API: lis… |
-| 2026-10-10 04:27:38 | [XUnitAssured.Playwright.AspNetCore](https://www.nuget.org/packages/XUnitAssured.Playwright.AspNetCore) | 6.4.1 | Carlos Andrew Costa Bezerra | Browser tests against your own ASP.NET Core API with XUnitAssured.Playwright: a… |
-| 2026-10-10 04:49:21 | [AnyCAD.Interop3D.Win64](https://www.nuget.org/packages/AnyCAD.Interop3D.Win64) | 2026.10.10.1221 | AnyCAD Inc. | Interop3D runtimes for Windows. |
+| 2026-10-10 05:33:20 | [TKWF.Ext.TrustCenter](https://www.nuget.org/packages/TKWF.Ext.TrustCenter) | 0.1.0 | LoongBa.cn 龙爸出品 | TKWF 扩展：信任中心（TrustCenter，纯信任内核——2026-10-09 自 Federation 剥离）——应用注册（SsoClientEnti… |
+| 2026-10-10 05:33:21 | [TKWF.Ext.TrustCenter.Abstractions](https://www.nuget.org/packages/TKWF.Ext.TrustCenter.Abstractions) | 0.1.0 | LoongBa.cn 龙爸出品 | TKWF 信任中心契约抽象（TrustCenter——ISsoChannel / IToken2Service / IAccessCodeService +… |
+| 2026-10-10 05:40:54 | [ProfitDLL4Dotnet](https://www.nuget.org/packages/ProfitDLL4Dotnet) | 1.0.0 | Willisnou | Wrapper .NET não oficial para a ProfitDLL da Nelogica (versão suportada da DLL:… |
+| 2026-10-10 05:47:12 | [TKWF.Federation.Alipay](https://www.nuget.org/packages/TKWF.Federation.Alipay) | 0.1.1 | LoongBa.cn 龙爸出品 | TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：支付宝开放平台身份获取网关（出站-only——OAu… |
+| 2026-10-10 05:51:25 | [HHO.LV.NetClaw.Web](https://www.nuget.org/packages/HHO.LV.NetClaw.Web) | 1.0.0 | HuyHo | Package Description |
+| 2026-10-10 06:02:30 | [HHO.LV.NetClaw.Testing](https://www.nuget.org/packages/HHO.LV.NetClaw.Testing) | 1.0.0 | HuyHo | Package Description |
+| 2026-10-10 06:11:13 | [DotnetBaseKit.Cli](https://www.nuget.org/packages/DotnetBaseKit.Cli) | 1.0.0 | Rafael Fraga | Interactive CLI to initialize and manage projects with the DotnetBaseKit framew… |
 
 ## Data source
 

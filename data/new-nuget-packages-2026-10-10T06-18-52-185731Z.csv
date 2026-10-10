@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-10T05:33:20.957Z,TKWF.Ext.TrustCenter,0.1.0,LoongBa.cn 龙爸出品,TKWF 扩展：信任中心（TrustCenter，纯信任内核——2026-10-09 自 Federation 剥离）——应用注册（SsoClientEntity）/ token2（ES256 独立密钥域 + JWKS）/ accesscode（授权码）+ ISsoChannel 契约（Abstractions）；内网中枢零外部协议依赖（Federation 对外连接层经契约消费）
+2026-10-10T05:33:21.587Z,TKWF.Ext.TrustCenter.Abstractions,0.1.0,LoongBa.cn 龙爸出品,TKWF 信任中心契约抽象（TrustCenter——ISsoChannel / IToken2Service / IAccessCodeService + DTO）——依赖倒置（ADR48 D7 / TrustCenter 剥离）：信任内核主包实现契约，Federation 连接层与平台库经契约消费（零实体、零 SG1、不引主包）
+2026-10-10T05:40:54.59Z,ProfitDLL4Dotnet,1.0.0,Willisnou,Wrapper .NET não oficial para a ProfitDLL da Nelogica (versão suportada da DLL: 4.0.0.42). Não inclui o binário ProfitDLL.dll.
+2026-10-10T05:47:12.893Z,TKWF.Federation.Alipay,0.1.1,LoongBa.cn 龙爸出品,TKWF 平台网关库（纯库——无 Initializer 无 [TKWFExtension] 无持久化）：支付宝开放平台身份获取网关（出站-only——OAuth 跳转/扫码/H5 授权 auth_code→user_id；RSA2 双向签名）；AlipayApiClient 出站 API 客户端（gateway.do）+ AlipayOptions 配置（TKWF:Federation:Alipay 节）+ AlipayOauthChannel（ISsoChannel alipay_oauth）+ AlipaySignService（签名/验签）【N4 支付宝平台网关库】
+2026-10-10T05:51:25.74Z,HHO.LV.NetClaw.Web,1.0.0,HuyHo,Package Description
+2026-10-10T06:02:30.927Z,HHO.LV.NetClaw.Testing,1.0.0,HuyHo,Package Description
+2026-10-10T06:11:13.547Z,DotnetBaseKit.Cli,1.0.0,Rafael Fraga,Interactive CLI to initialize and manage projects with the DotnetBaseKit framework.
