@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-10T09:22:14.43Z,potluckdb.runtime.osx,0.1.0,potluckdb,potluckdb native runtime assets for macOS and Mac Catalyst
+2026-10-10T09:22:24.343Z,potluckdb.runtime.win,0.1.0,potluckdb,potluckdb native runtime assets for Windows
+2026-10-10T09:22:26.72Z,potluckdb,0.1.0,potluckdb,potluckdb application SDK with native runtime assets
+2026-10-10T09:35:53.017Z,NetAI.TestGenerator.Tasks,1.0.0,Stephan Emmermann,MSBuild-Task zum Generieren von KI-gestützten Unit-Tests für .NET-Projekte (emineo-net).
+2026-10-10T09:43:17.557Z,Webority.Insights.Ai,0.2.0,Webority Technologies,"The weekly AI review over a product's Webority Insights rollups: a 28-day pack built from the product's own tables, one Webority.Ai agent run per lens (product, experience, search), and evidence-backed proposals handed to the product's sink as draft work items. The product schedules it."
+2026-10-10T09:49:40.387Z,KinTN.CTUWCS.ModbusLib,1.0.1,ZhangGuoWei,Modbus TCP / 串口通信库，封装堆垛机(巷道)PLC协议：任务下发(D100-D209)、任务完成信号(D260-D264)、监控/报警/统计数据读取，兼容汇川与西门子PLC
+2026-10-10T09:49:47.027Z,Balsoft.Hive.Installer.Windows,1.0.0,Ertugrul Balveren,"A Windows installer for .NET products, built in WPF: a per-machine Setup.exe with a wizard, silent modes, upgrades with rollback, a Windows service, shortcuts, an ""Apps & features"" entry and its own uninstaller. The program files are embedded at build time. Accepts the Inno Setup command line (/SIL…"
+2026-10-10T09:52:18.533Z,MaksIT.Core.Desktop,0.1.0,Maksym Sadovnychyy,"Shared desktop helpers for MaksIT apps: crash-report text and log files, What's New markdown parsing, and screenshot-tour command-line flags. No UI toolkit."
+2026-10-10T09:52:33.347Z,MaksIT.Core.UI,0.1.0,Maksym Sadovnychyy,"Avalonia windows shared by MaksIT desktop apps: About, What's New, logs, the crash dialog, and screenshot capture. Depends on MaksIT.Core.Desktop."
+2026-10-10T10:00:27.403Z,InvoiceXml.Zugferd.XRechnung,1.0.0,InvoiceXML,"Create, validate, embed, render and read ZUGFeRD and XRechnung e-invoices from C# and .NET. A thin, typed client for the InvoiceXML REST API: EN 16931 invoice model in, ZUGFeRD PDF/A-3 or XRechnung XML out, validated against the official rule sets before delivery. Rule sets are updated on their leg…"
