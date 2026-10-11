@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-11T01:39:50.007Z,EvaluatedApplications.PleromaMind,1.0.0,Evaluated Applications,"A persistent conversational unit built on exact holograms. It speaks with a subword base model (exact next-subword counts for contexts of up to six subwords, mixed by backoff shares learned on leave-one-out counts), learns every exchange it hears and says onto Pleroma pages in a durable, larger-tha…"
+2026-10-11T01:42:21.56Z,Novolis.WorkflowEngine.Flow,2026.1.1.19,Novolis,Renderer-independent typed ports and flow contracts for Novolis workflows.
+2026-10-11T01:42:22.76Z,Novolis.WorkflowEngine.FlowGraph,2026.1.1.19,Novolis,Typed immutable flow graphs built from Novolis graph and flow contracts.
+2026-10-11T01:42:23.983Z,Novolis.WorkflowEngine.Graph,2026.1.1.19,Novolis,Immutable graph topology and deterministic graph analysis for Novolis workflows.
+2026-10-11T01:42:26.863Z,Novolis.WorkflowEngine.Pipeline,2026.1.1.19,Novolis,Typed linear pipeline composition with explicit result short-circuiting.
