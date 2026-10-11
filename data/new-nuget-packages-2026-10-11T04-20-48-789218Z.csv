@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-11T04:03:15.92Z,LoaderKit.Core,1.0.0,Mai Trung Duc,"Loading indicators described as data: the LoaderKit spec model, validation and the reference evaluator, shared by the LoaderKit platform renderers."
+2026-10-11T04:03:16.81Z,LoaderKit.WinUI,1.0.0,Mai Trung Duc,"Loading indicators described as data, rendered with Microsoft.UI.Composition: the LoaderKitIndicator control and the LoaderKitProgress control (50 progress designs drawn with Win2D) for WinUI 3 and the Windows App SDK."
+2026-10-11T04:14:57.82Z,HotKV.Client,1.0.0,HotKV Ltd,"A high-performance .NET client for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features."
