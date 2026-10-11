@@ -12,17 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 05:19 UTC
+## Latest list — 2026-10-11 06:21 UTC
 
-New packages created between 2026-10-11 04:20 UTC and 2026-10-11 05:19 UTC.
+New packages created between 2026-10-11 05:19 UTC and 2026-10-11 06:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-11T05-19-47-687691Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-11T06-21-07-493663Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-11 04:22:47 | [Rulealize.Plugin.Text](https://www.nuget.org/packages/Rulealize.Plugin.Text) | 1.0.0 | Reny | Questions about text for a Rulealize rule set, the same on every runtime: str.t… |
-| 2026-10-11 05:06:18 | [CodeBrix.Audio.FlacWriter.BsdLicenseForever](https://www.nuget.org/packages/CodeBrix.Audio.FlacWriter.BsdLicenseForever) | 1.0.284.304 | Jeremy Ellis | Lossless FLAC encoding for CodeBrix.Audio. FlacEncoder turns float or integer s… |
-| 2026-10-11 05:11:30 | [OneAuth.Client.AspNetCore](https://www.nuget.org/packages/OneAuth.Client.AspNetCore) | 0.3.0 | OneAuth | OneAuth 统一身份权限中心的 ASP.NET Core 接入 SDK：按用户有效权限注水（PermissionClaimsTransformer + E… |
+| 2026-10-11 05:21:02 | [Rulebearing.Rules](https://www.nuget.org/packages/Rulebearing.Rules) | 0.1.3 | Ben Bahrenburg | Rulebearing's framework presets as a versioned library: extends: rulebearing-ru… |
+| 2026-10-11 05:22:12 | [CodeBrix.VideoEncoding.Av1.BsdLicenseForever](https://www.nuget.org/packages/CodeBrix.VideoEncoding.Av1.BsdLicenseForever) | 1.0.284.321 | Jeremy Ellis | AV1 video encoding for CodeBrix.VideoProcessing. Av1Encoder turns planar I420,… |
+| 2026-10-11 05:27:01 | [NAPS2.Jpeg.Binaries](https://www.nuget.org/packages/NAPS2.Jpeg.Binaries) | 1.0.0 | Ben Olden-Cooligan | jpegli JPEG encoder binaries for NAPS2.Sdk |
+| 2026-10-11 05:33:25 | [MJCZone.Realtime.Contract](https://www.nuget.org/packages/MJCZone.Realtime.Contract) | 0.1.0 | MJCZone, Inc. | Channel grammar, envelope and tenant guard for the realtime backbone. |
+| 2026-10-11 05:33:25 | [MJCZone.Realtime.Tokens](https://www.nuget.org/packages/MJCZone.Realtime.Tokens) | 0.1.0 | MJCZone, Inc. | Mint Centrifugo connection and subscription JWTs (ES256), serve their JWKS, and… |
+| 2026-10-11 05:33:26 | [MJCZone.Realtime.Publisher](https://www.nuget.org/packages/MJCZone.Realtime.Publisher) | 0.1.0 | MJCZone, Inc. | Publish envelopes to the realtime backbone over Centrifugo's gRPC API, with per… |
+| 2026-10-11 05:33:27 | [MJCZone.Realtime.AgUi](https://www.nuget.org/packages/MJCZone.Realtime.AgUi) | 0.1.0 | MJCZone, Inc. | Publish an AG-UI agent run (from any AG-UI event source) to the realtime backbo… |
+| 2026-10-11 05:33:27 | [MJCZone.Realtime.AgUi.AgentFramework](https://www.nuget.org/packages/MJCZone.Realtime.AgUi.AgentFramework) | 0.1.0 | MJCZone, Inc. | Microsoft Agent Framework as an AG-UI event source for MJCZone.Realtime.AgUi. |
+| 2026-10-11 06:00:46 | [SpawnDev.AI](https://www.nuget.org/packages/SpawnDev.AI) | 1.1.0 | LostBeard | Core contracts for the SpawnDev AI stack: chat sessions, Ollama/OpenAI-compatib… |
+| 2026-10-11 06:00:47 | [SpawnDev.AI.Server](https://www.nuget.org/packages/SpawnDev.AI.Server) | 1.1.0 | LostBeard | Ollama/OpenAI-compatible model server on the SpawnDev.ILGPU.ML inference engine… |
+| 2026-10-11 06:05:09 | [PulseSharp.Abstractions](https://www.nuget.org/packages/PulseSharp.Abstractions) | 0.0.1-alpha | Waqas Ahmad | Contracts for PulseSharp, lightweight events and jobs for .NET. Reference this… |
+| 2026-10-11 06:05:10 | [PulseSharp](https://www.nuget.org/packages/PulseSharp) | 0.0.1-alpha | Waqas Ahmad | PulseSharp: lightweight events and jobs for .NET, from the device to the cloud.… |
 
 ## Data source
 
