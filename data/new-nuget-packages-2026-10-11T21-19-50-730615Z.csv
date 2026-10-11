@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-11T20:29:27.967Z,KetPsi.Extensions.Logging.Abstractions,1.0.0,"KetPsi ,MohamadArsalan Imamverdi","Core interfaces, compile-time interpolated string handlers, and types for KetPsi's zero-allocation logging framework. Bypasses standard object arrays and boxing to enable absolute zero-allocation structured logging in high-throughput .NET applications."
+2026-10-11T20:31:23.76Z,KetPsi.Extensions.Logging.OpenTelemetry,1.0.0,"KetPsi ,MohamadArsalan Imamverdi","A zero-allocation OpenTelemetry (OTLP) log exporter for .NET. Bypasses the official SDK to serialize logs directly into raw Protobuf bytes via a lock-free batcher, delivering 22x faster execution and zero GC pressure for extreme-throughput microservices."
+2026-10-11T20:31:27.013Z,TencentCloudSDKIntlEN.Databuddy,3.0.1407,Tencent Cloud API Team,Tencent Cloud API 3.0 SDK for .NET
+2026-10-11T20:32:24.847Z,KetPsi.Extensions.Logging.Console,1.0.0,"KetPsi ,MohamadArsalan Imamverdi","A hyper-optimized, zero-allocation console logger for .NET. Writes structured logs and interpolated strings directly to standard output streams without heap allocations, boxing, or garbage collection overhead."
+2026-10-11T20:41:27.89Z,ManagedCompressions.Lz4,0.1.0,Evariops,"The LZ4 block format in fully managed C#: no native code, no P/Invoke."
+2026-10-11T20:41:28.643Z,ManagedCompressions.Zstd,0.1.0,Evariops,"A Zstandard (RFC 8878) decompressor and compressor in fully managed C#: no native code, no P/Invoke."
+2026-10-11T20:49:57.193Z,AhmedHakami,1.0.0,Ahmed Hakami,Official author metadata and core .NET library by Ahmed Hakami.
+2026-10-11T20:56:44.203Z,Bobcat.NUnit,0.39.0,Jeremy D. Miller,"Bobcat + NUnit — projects ordinary [Test] methods into the Bobcat model, so an existing suite renders as specifications without changing runners."
+2026-10-11T20:56:46.29Z,Bobcat.MSTest,0.39.0,Jeremy D. Miller,"Bobcat + MSTest — projects ordinary [TestMethod] methods into the Bobcat model, so an existing suite renders as specifications without changing runners."
