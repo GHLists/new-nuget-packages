@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-11T02:29:20.62Z,nugetgo.github.com.google.uuid,1.6.0,go2cs conversion,"unofficial go2cs C# conversion of github.com/google/uuid v1.6.0, built on the Go 1.24.13 standard library; not affiliated with or endorsed by Google Inc. or the Go project. Security: that standard library carries no Go security fixes issued after Go 1.24.13; review before any production use."
+2026-10-11T02:43:04.13Z,CSharpLoad,0.1.1,Xavier Raboteur,CSharp-first load and performance testing framework for .NET.
+2026-10-11T02:43:05.023Z,CSharpLoad.Cli,0.1.1,Xavier Raboteur,Command-line tooling for CSharpLoad reports and performance baselines.
+2026-10-11T02:43:05.837Z,CSharpLoad.Distributed,0.1.1,Xavier Raboteur,"Distributed coordinator, agent contracts and result aggregation for CSharpLoad."
+2026-10-11T02:43:06.673Z,CSharpLoad.Distributed.AspNetCore,0.1.1,Xavier Raboteur,ASP.NET Core agent host for CSharpLoad distributed execution.
+2026-10-11T02:43:07.487Z,CSharpLoad.Grpc,0.1.1,Xavier Raboteur,gRPC load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:43:08.313Z,CSharpLoad.Http,0.1.1,Xavier Raboteur,HTTP protocol helpers and metrics for CSharpLoad.
+2026-10-11T02:43:09.13Z,CSharpLoad.Kafka,0.1.1,Xavier Raboteur,Kafka load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:43:09.97Z,CSharpLoad.OpenTelemetry,0.1.1,Xavier Raboteur,OpenTelemetry tracing and metrics integration for CSharpLoad.
+2026-10-11T02:43:10.797Z,CSharpLoad.RabbitMq,0.1.1,Xavier Raboteur,RabbitMQ load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:43:11.62Z,CSharpLoad.Redis,0.1.1,Xavier Raboteur,Redis load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:43:12.447Z,CSharpLoad.SignalR,0.1.1,Xavier Raboteur,SignalR load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:43:13.31Z,CSharpLoad.Sql,0.1.1,Xavier Raboteur,ADO.NET SQL load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:43:14.137Z,CSharpLoad.Templates,0.1.1,Xavier Raboteur,dotnet new templates for CSharpLoad load-testing projects.
+2026-10-11T02:43:14.98Z,CSharpLoad.WebSockets,0.1.1,Xavier Raboteur,WebSocket load-testing steps and metrics for CSharpLoad.
+2026-10-11T02:55:25.34Z,DataMapper.Extensions,1.0.0,Scotty Hudson <scotty@scottyhudson.org>,"Extension methods that map IDataReader, DataTable and DataRow rows onto POCOs, map POCOs back into a DataTable or DbDataReader, and bind parameters from an object onto a DbCommand."
+2026-10-11T03:02:06.693Z,HunterAhlquist.Solo.Shared,1.8.0,Hunter Ahlquist,"DTOs and the client-side seams a Solo extension's pages compile against: the host's API client, task drawer, task picker, context menu, live topics, and the attributes that place components in the app."
+2026-10-11T03:02:08.113Z,HunterAhlquist.Solo.Extensibility,1.8.0,Hunter Ahlquist,"The contract a Solo extension's server half compiles against: the entry point, operation hooks, domain events, caller-scoped reads of core data, and a DbContext in the extension's own schema."
+2026-10-11T03:15:26.99Z,Floci.Testcontainers.Core,1.0.0,Floci and its contributors,"Shared core of the Floci Testcontainers modules for .NET: the cloud descriptor, Docker socket detection and the per-service config base. Use a cloud package such as Floci.Testcontainers.Aws."
+2026-10-11T03:15:27.573Z,Floci.Testcontainers.Aws,1.0.0,Floci and its contributors,"A Testcontainers for .NET module for Floci, the free, open-source local AWS emulator (floci/floci)."
