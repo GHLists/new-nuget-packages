@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-11T14:40:47.933Z,Kreisverkehr.TsDecoder,4.0.0-beta1,"Lewis Kirkaldie,Kreisverkehr","Unofficial fork of Cinegy.TsDecoder, an MPEG2 Transport Stream decoder for .NET 10."
+2026-10-11T14:44:02.717Z,Junexis.Studio.Platform.Binaries,0.1.0,Junexis,Prebuilt Junexis platform assemblies required by the public Junexis Studio repository.
+2026-10-11T14:46:53.823Z,FilexUI.CommunityToolkit.Mvvm.Extension.WPF,1.0.0,wenke,当前库是CommunityToolkit.Mvvm.Extension 的 WPF 版本，提供 Dialog、Module、Navigation 功能扩展
+2026-10-11T14:49:29.173Z,metalTools.DiscoveryHost,26.10.11.1,Daniel T. Houck,Deploys the independent .NET 10 discovery host beside applications for automatic local startup.
+2026-10-11T14:50:27.083Z,LicenseChain.VB.SDK,1.0.1,LicenseChain Team,Official LicenseChain VB.NET SDK for license management and validation
+2026-10-11T14:59:42.89Z,Asgard.Heimdall.Client,5.5.3,BenLampson,"Heimdall OAuth/PKCE, device authorization, JWT/opaque tokens, MCP authentication and read-only directory client."
+2026-10-11T15:08:36.76Z,FilexUI.CommunityToolkit.Mvvm.Extension,1.0.0,wenke,当前库是CommunityToolkit.Mvvm的核心扩展包，提供 Dialog、Module、Navigation 插件
+2026-10-11T15:08:42.513Z,Jadi.Framework.Utilities,1.0.1,Jadi AB,"General purpose utilities, extension methods, collections and helpers."

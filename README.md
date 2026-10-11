@@ -12,34 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 14:21 UTC
+## Latest list — 2026-10-11 15:19 UTC
 
-New packages created between 2026-10-11 13:20 UTC and 2026-10-11 14:21 UTC.
+New packages created between 2026-10-11 14:21 UTC and 2026-10-11 15:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-11T14-21-26-210459Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-11T15-19-46-7001Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-11 13:21:51 | [Altruist.Gaming.Lobbies](https://www.nuget.org/packages/Altruist.Gaming.Lobbies) | 0.9.9-beta | Lobbies | Package Description |
-| 2026-10-11 13:21:52 | [Altruist.Gaming.Matchmaking](https://www.nuget.org/packages/Altruist.Gaming.Matchmaking) | 0.9.9-beta | Matchmaking | Package Description |
-| 2026-10-11 13:21:52 | [Altruist.Gaming.Rooms](https://www.nuget.org/packages/Altruist.Gaming.Rooms) | 0.9.9-beta | Rooms | Package Description |
-| 2026-10-11 13:22:12 | [Gravicode.HFNet.GraviTransformers.Vision](https://www.nuget.org/packages/Gravicode.HFNet.GraviTransformers.Vision) | 0.9.0 | Gravicode Studios | GraviTransformers.Vision - ViT image classification and CLIP zero-shot classifi… |
-| 2026-10-11 13:26:51 | [miniClockLibrary](https://www.nuget.org/packages/miniClockLibrary) | 1.0.0 | Tracy Software | Live analog clock for any country or time zone, in one line of code. Show it as… |
-| 2026-10-11 13:30:15 | [Kebechet.Api.ToMcp](https://www.nuget.org/packages/Kebechet.Api.ToMcp) | 2.0.0 | Kebechet | A C# source generator that transforms ASP.NET Core API endpoints into MCP (Mode… |
-| 2026-10-11 13:44:01 | [Labcoat](https://www.nuget.org/packages/Labcoat) | 1.0.0 | Erik Lieben | A web UI for Microsoft.Testing.Platform: browse, run and watch your MSTest, NUn… |
-| 2026-10-11 13:44:02 | [Labcoat.Aspire.Hosting](https://www.nuget.org/packages/Labcoat.Aspire.Hosting) | 1.0.0 | Erik Lieben | Aspire hosting integration for Labcoat, a web UI for Microsoft.Testing.Platform… |
-| 2026-10-11 13:44:03 | [Labcoat.Testing](https://www.nuget.org/packages/Labcoat.Testing) | 1.0.0 | Erik Lieben | Test-side core for Labcoat, framework neutral: per-test OpenTelemetry traces fo… |
-| 2026-10-11 13:44:04 | [Labcoat.Testing.MSTest](https://www.nuget.org/packages/Labcoat.Testing.MSTest) | 1.0.0 | Erik Lieben | MSTest adapter for Labcoat.Testing: per-test OpenTelemetry traces for MSTest +… |
-| 2026-10-11 13:44:05 | [Labcoat.Testing.TUnit](https://www.nuget.org/packages/Labcoat.Testing.TUnit) | 1.0.0 | Erik Lieben | TUnit adapter for Labcoat.Testing: per-test OpenTelemetry traces for TUnit + As… |
-| 2026-10-11 13:44:06 | [Labcoat.Testing.NUnit](https://www.nuget.org/packages/Labcoat.Testing.NUnit) | 1.0.0 | Erik Lieben | NUnit adapter for Labcoat.Testing: per-test OpenTelemetry traces for NUnit + As… |
-| 2026-10-11 13:44:07 | [Labcoat.Testing.XUnit](https://www.nuget.org/packages/Labcoat.Testing.XUnit) | 1.0.0 | Erik Lieben | xUnit v3 adapter for Labcoat.Testing: per-test OpenTelemetry traces for xUnit v… |
-| 2026-10-11 13:44:08 | [Labcoat.TestingPlatform](https://www.nuget.org/packages/Labcoat.TestingPlatform) | 1.0.0 | Erik Lieben | Microsoft.Testing.Platform extension for Labcoat: 'dotnet run -- --labcoat' ope… |
-| 2026-10-11 13:50:06 | [ClamGauge](https://www.nuget.org/packages/ClamGauge) | 0.9.0 | machi_pon | MAUI circular gauge rendered with SkiaSharp |
-| 2026-10-11 13:50:30 | [lucaslgt.WorkflowContext](https://www.nuget.org/packages/lucaslgt.WorkflowContext) | 0.1.0 | Lucas Lenglet | Lightweight helpers for building workflow contexts and execution pipelines. |
-| 2026-10-11 13:53:32 | [MacOSX.SDK](https://www.nuget.org/packages/MacOSX.SDK) | 26.1.12 | Apple Inc.,DotNet-AGPL | Filtered macOS SDK 26.1 (from joseluisq/macosx-sdks) for cross-compiling Native… |
-| 2026-10-11 13:58:54 | [SharpAbp.Abp.AspNetCore.IpAccessControl](https://www.nuget.org/packages/SharpAbp.Abp.AspNetCore.IpAccessControl) | 6.0.1 | virtual | SharpAbp ASP.NET Core IP access control module |
-| 2026-10-11 13:59:04 | [SharpAbp.Abp.ConcurrencyLimiting](https://www.nuget.org/packages/SharpAbp.Abp.ConcurrencyLimiting) | 6.0.1 | virtual | ABP process-local execution concurrency limiting |
-| 2026-10-11 14:00:49 | [SharpAbp.Abp.OperationRateLimiting](https://www.nuget.org/packages/SharpAbp.Abp.OperationRateLimiting) | 6.0.1 | virtual | ABP operation count limiting with replaceable atomic storage |
+| 2026-10-11 14:40:47 | [Kreisverkehr.TsDecoder](https://www.nuget.org/packages/Kreisverkehr.TsDecoder) | 4.0.0-beta1 | Lewis Kirkaldie,Kreisverkehr | Unofficial fork of Cinegy.TsDecoder, an MPEG2 Transport Stream decoder for .NET… |
+| 2026-10-11 14:44:02 | [Junexis.Studio.Platform.Binaries](https://www.nuget.org/packages/Junexis.Studio.Platform.Binaries) | 0.1.0 | Junexis | Prebuilt Junexis platform assemblies required by the public Junexis Studio repo… |
+| 2026-10-11 14:46:53 | [FilexUI.CommunityToolkit.Mvvm.Extension.WPF](https://www.nuget.org/packages/FilexUI.CommunityToolkit.Mvvm.Extension.WPF) | 1.0.0 | wenke | 当前库是CommunityToolkit.Mvvm.Extension 的 WPF 版本，提供 Dialog、Module、Navigation 功能扩展 |
+| 2026-10-11 14:49:29 | [metalTools.DiscoveryHost](https://www.nuget.org/packages/metalTools.DiscoveryHost) | 26.10.11.1 | Daniel T. Houck | Deploys the independent .NET 10 discovery host beside applications for automati… |
+| 2026-10-11 14:50:27 | [LicenseChain.VB.SDK](https://www.nuget.org/packages/LicenseChain.VB.SDK) | 1.0.1 | LicenseChain Team | Official LicenseChain VB.NET SDK for license management and validation |
+| 2026-10-11 14:59:42 | [Asgard.Heimdall.Client](https://www.nuget.org/packages/Asgard.Heimdall.Client) | 5.5.3 | BenLampson | Heimdall OAuth/PKCE, device authorization, JWT/opaque tokens, MCP authenticatio… |
+| 2026-10-11 15:08:36 | [FilexUI.CommunityToolkit.Mvvm.Extension](https://www.nuget.org/packages/FilexUI.CommunityToolkit.Mvvm.Extension) | 1.0.0 | wenke | 当前库是CommunityToolkit.Mvvm的核心扩展包，提供 Dialog、Module、Navigation 插件 |
+| 2026-10-11 15:08:42 | [Jadi.Framework.Utilities](https://www.nuget.org/packages/Jadi.Framework.Utilities) | 1.0.1 | Jadi AB | General purpose utilities, extension methods, collections and helpers. |
 
 ## Data source
 
