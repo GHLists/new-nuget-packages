@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-11T22:22:25.047Z,KatzibuildParser,1.0.0,AaronoLW,Simple library for parsing KATZIBUILD files
+2026-10-11T22:37:03.35Z,VetCore.FDMV.Importer,0.1.1,VetCoreSolution,"Une bibliothèque .NET qui lit les fichiers tarif au format FDMV (« Gestion des tarifs distributeurs vétérinaires ») publiés par les centrales vétérinaires, et les restitue dans des records immutables fidèles à la spécification"
+2026-10-11T22:38:01.843Z,SqlBlame,0.0.1,Uros Milic,"Interactive terminal tool for browsing the change history of SQL Server stored procedures from a DDL audit log, with colored diffs between versions."
+2026-10-11T22:40:08.027Z,QuanticDigit.Common.Utility.Model,9.1.0,Quantic Digit S.R.L.,"Libreria di utility comuni: contratti dei modelli di trasporto (marcatori, involucro di risposta, voce d'errore, chiamante), usati da server e client"
+2026-10-11T22:48:00.113Z,Qubic.WalletConnect,1.0.0,Qubic.NET Contributors,"WalletConnect v2 wallet side for Qubic (namespace ""qubic""): pairing, session approval and the official Qubic method set, on top of Reown WalletKit and Qubic.Services signing review."
+2026-10-11T23:02:13.063Z,Stormancer.Server.Plugins.Analytics.Outputs.Elasticsearch,1.0.0-pre,Stormancer,Stores analytics in elasticsearch.
+2026-10-11T23:08:28.23Z,hippo.osx-arm64,0.1.0,Alister Pineda,Indexes a markdown workspace into a local SQLite cache and answers structural questions about it.
+2026-10-11T23:08:28.837Z,hippo.osx-x64,0.1.0,Alister Pineda,Indexes a markdown workspace into a local SQLite cache and answers structural questions about it.
+2026-10-11T23:08:29.463Z,hippo.linux-x64,0.1.0,Alister Pineda,Indexes a markdown workspace into a local SQLite cache and answers structural questions about it.
+2026-10-11T23:08:30.13Z,hippo.linux-musl-x64,0.1.0,Alister Pineda,Indexes a markdown workspace into a local SQLite cache and answers structural questions about it.
+2026-10-11T23:08:30.75Z,hippo.win-x64,0.1.0,Alister Pineda,Indexes a markdown workspace into a local SQLite cache and answers structural questions about it.
+2026-10-11T23:08:32.15Z,hippo,0.1.0,Alister Pineda,Indexes a markdown workspace into a local SQLite cache and answers structural questions about it.
