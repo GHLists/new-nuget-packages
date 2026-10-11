@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-11T08:31:07.657Z,PulseSharp.Sqlite,0.3.0-alpha,Waqas Ahmad,"SQLite store for PulseSharp: durable events and jobs for desktop, mobile and small server apps. Depends only on Microsoft.Data.Sqlite."
+2026-10-11T08:35:42.02Z,Kusachius.View2Pdf,1.4.0,Aldis Arust,Razor view rendering and HTML-to-PDF conversion services for ASP.NET Core applications.
+2026-10-11T08:40:50.03Z,Tai.Wallet.Voucher.Domain,0.1.0,Tai,ABP module that redeems voucher codes and prepaid cards into Tai.Wallet balances
+2026-10-11T08:40:50.75Z,Tai.Wallet.Voucher.Application.Contracts,0.1.0,Tai,ABP module that redeems voucher codes and prepaid cards into Tai.Wallet balances
+2026-10-11T08:40:51.3Z,Tai.Wallet.Voucher.EntityFrameworkCore,0.1.0,Tai,ABP module that redeems voucher codes and prepaid cards into Tai.Wallet balances
+2026-10-11T08:40:52.1Z,Tai.Wallet.Voucher.Application,0.1.0,Tai,ABP module that redeems voucher codes and prepaid cards into Tai.Wallet balances
+2026-10-11T08:40:52.833Z,Tai.Wallet.Voucher.HttpApi,0.1.0,Tai,ABP module that redeems voucher codes and prepaid cards into Tai.Wallet balances
+2026-10-11T08:40:53.457Z,Tai.Wallet.Voucher.Domain.Shared,0.1.0,Tai,ABP module that redeems voucher codes and prepaid cards into Tai.Wallet balances
+2026-10-11T08:41:22.493Z,PromptPack,1.1.0-preview-0003,Your Name,AI-friendly repository context packer for .NET
+2026-10-11T08:57:01.513Z,Umbraco.Community.UmbraDesktop.Accessories,17.3.0,Luuk Peters,"The small tools for UmbraDesktop. An optional add-on that puts Notepad, Paint, Sticky Notes, Calculator, Character Map, Clock, Screen Saver, Disk Cleanup and System Information on the desktop, each in a window of its own and themed along with the rest of it."
+2026-10-11T09:00:37.3Z,Kusachius.PagingResponses,1.4.0,Aldis Arust,"Paging, sorting, and filtering helpers for ASP.NET Core and Entity Framework Core APIs, with a paged JSON response envelope."
+2026-10-11T09:06:25.66Z,TouchSocketPro.S7,4.3.10,若汝棋茗,TouchSocketPro.S7 provides a native TouchSocket-style S7comm client over ISO-on-TCP.
