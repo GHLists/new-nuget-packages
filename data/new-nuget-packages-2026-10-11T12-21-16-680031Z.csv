@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-11T11:19:21.77Z,ELF.Modules.Hosting.Sidecar,0.8.0,"ELF INTERNATIONAL EXPRESS CO., LTD.",讓 ASP.NET Core 宿主以桌面殼（Tauri、Electron）子行程執行：127.0.0.1 隨機埠、stdout 交握埠號、stdin 關閉或父行程消失即結束。
+2026-10-11T11:19:23.78Z,GameFrameX.Foundation.Logger.GrafanaLoki,5.0.0,"AlianBlank,GameFrameX,Blank","GameFrameX.Foundation.Logger.GrafanaLoki,GameFrameX 框架的基础设施框架库,提供日志的 Grafana Loki Sink 组件化外部插入与适配.框架文档主页: https://gameframex.doc.alianblank.com"
+2026-10-11T11:19:24.477Z,GameFrameX.Foundation.Logger.MongoDB,5.0.0,"AlianBlank,GameFrameX,Blank","GameFrameX.Foundation.Logger.MongoDB,GameFrameX 框架的基础设施框架库,提供日志的 MongoDB Sink 组件化外部插入与适配.框架文档主页: https://gameframex.doc.alianblank.com"
+2026-10-11T11:26:01.293Z,ZYC.Framework.Core,1.5.5,ZYC.Framework.Core,Package Description
+2026-10-11T11:36:36.453Z,BIDS.Server,6.6.3-commit-b25682…,Performa Software Pty Ltd,PowerShell module for managing BIDS Servers
+2026-10-11T11:36:38.7Z,BIDS.Studio,6.6.3-commit-b25682…,Performa Software Pty Ltd,PowerShell module for installing BIDS Studio
+2026-10-11T11:48:19.997Z,CodoMetis.TypeKit.Serilog,1.5.0,CaffeinatedCoder,"Serilog integration for CodoMetis.TypeKit: value objects are logged as what they print, so a destructured value object or a record holding one never exposes a value its ToString() masks."
+2026-10-11T11:48:20.563Z,CodoMetis.TypeKit.Testing,1.5.0,CaffeinatedCoder,"Test assertions for CodoMetis.TypeKit's Option and Result: hand a test the value or the error it expects, or fail with what the outcome was instead. No test framework dependency."
+2026-10-11T11:52:50.583Z,SjolystInnovation.AppKit.Vipps,0.1.1,Sjølyst Innovation AS,"A client for the Vipps MobilePay Recurring, ePayment, Userinfo and Webhooks APIs, with webhook signature checks."
+2026-10-11T11:55:29.55Z,Arc56.Generated.tolgazorlu.nftmap,1.0.1.2026101111,tolgazorlu,Generated ARC-56 Algorand smart-contract clients for tolgazorlu/nftmap.
+2026-10-11T12:15:51.983Z,GaussStylization,0.1.0,Nicholas Chieppa,"Managed C# port of Gauss Stylization (mesh stylization from preferred surface normals). Arrays in, arrays out; no native dependencies."
