@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-11T21:20:43.863Z,Bulud.Authentication.Jwt,2.1.0,BuludWeb,JWT authentication integration for Bulud.NET.
+2026-10-11T21:22:55.673Z,Bulud.Communication.Abstractions,2.1.0,BuludWeb,Shared email and SMS contracts for Bulud.NET communication providers.
+2026-10-11T21:24:47.19Z,Bulud.Core,2.1.0,BuludWeb,Dependency-free shared primitives for Bulud.NET packages.
+2026-10-11T21:31:21.137Z,Novolis.Rendering.FrameGraph,2026.1.1.78,Novolis,"Renderer-owned frame graph contracts for typed resources, pass ordering, barriers, and target capabilities."
+2026-10-11T21:31:23.817Z,Novolis.Rendering.Planar,2026.1.1.78,Novolis,"Host-neutral 2D scene model: sprites, animation, static polygons, collision, HUD, and menus."
+2026-10-11T21:37:21.69Z,Bulud.Exporting,2.1.0,BuludWeb,Export orchestration for Bulud.NET.
+2026-10-11T21:39:46.07Z,Bulud.Exporting.Abstractions,2.1.0,BuludWeb,Contracts for Bulud.NET exporting providers.
+2026-10-11T21:40:46.17Z,Bulud.Exporting.Csv,2.1.0,BuludWeb,CSV exporting provider for Bulud.NET.
+2026-10-11T21:41:41.11Z,Bulud.Exporting.Pdf,2.1.0,BuludWeb,PDF exporting provider for Bulud.NET.
+2026-10-11T21:43:01.74Z,Bulud.FileStorage.Abstractions,2.1.0,BuludWeb,Contracts and shared models for Bulud.NET file storage providers.
+2026-10-11T21:46:12.463Z,Bulud.EntityFrameworkCore,2.1.0,BuludWeb,Entity Framework Core persistence infrastructure for Bulud.NET.
+2026-10-11T21:47:16.097Z,Bulud.Security.Otp.Abstractions,2.1.0,BuludWeb,Contracts and shared models for the Bulud.NET OTP capability.
+2026-10-11T21:47:35.38Z,Bulud.Security.Otp.InMemory,2.1.0,BuludWeb,Bulud.Security.Otp.InMemory is a lightweight .NET library providing an in-memory implementation of OTP (One-Time Password) service for Bulud.Security.Otp.Abstractions interfaces. Features include: - Generate and validate OTP codes in memory - Fully compatible with Bulud.Security.Otp.Abstractions in…
+2026-10-11T21:48:26.88Z,Bulud.AspNetCore,2.1.0,BuludWeb,ASP.NET Core integration for Bulud.NET capabilities.
+2026-10-11T21:49:08.923Z,NuvTools.Security.Signing.Azure,10.0.0,Nuv Tools,"Azure Key Vault implementation of the NuvTools.Security signing key contract: tokens are signed by a key that never leaves the vault, and a rotated key is picked up without a restart."
+2026-10-11T21:51:39.73Z,LuaCsForBarotraumaPlugin.Server,0.0.0-manual,Luatrauma,"LuaCs API for Barotrauma mods. Reference this package to use the LuaCs services, events and Lua integration from your own assembly mod (Server)."
+2026-10-11T21:51:40.893Z,LuaCsForBarotraumaPlugin.Client,0.0.0-manual,Luatrauma,"LuaCs API for Barotrauma mods. Reference this package to use the LuaCs services, events and Lua integration from your own assembly mod (Client)."
+2026-10-11T21:59:01.18Z,AzurePolicyDocs.Core,1.0.0,Gijs Reijn,Builds documentation models from Azure Policy definition and policy set definition JSON and renders them with Scriban templates. The library behind the azurepolicydocs CLI.
+2026-10-11T21:59:02.663Z,AzurePolicyDocs.Cli,1.0.0,Gijs Reijn,"Command-line tool that generates Markdown documentation for Azure Policy definitions and policy set definitions from their JSON, using built-in or custom Scriban templates. Install with: dotnet tool install --global AzurePolicyDocs.Cli"
+2026-10-11T21:59:14.547Z,mcpgateway,0.1.0,ManagedCode,"Command-line MCP gateway discovery, schema inspection, and invocation using the official MCP .NET SDK."
+2026-10-11T21:59:36.007Z,Kuwantima.DataGrid,1.8.0,Cole Larson,"A styled DataGrid for Kuwantima, Avalonia's glass-glow design system. Ships separately so the core Kuwantima package stays free of the Avalonia.Controls.DataGrid dependency."
+2026-10-11T22:10:37.977Z,Novolis.Game.Scenes,2026.1.1.33,Novolis,"Host-agnostic game scene helpers over Rendering. Games take this plus a host (Silk, Avalonia, MAUI, Web)."
+2026-10-11T22:15:29.57Z,Benten.SDK,1.0.0,Huzefa Karachiwala,"Client SDK for the Benten Authentication and Authorization Platform. Enables applications to request user approval for login, credit card transactions, IoT setting changes, and generic notifications via push notification."
