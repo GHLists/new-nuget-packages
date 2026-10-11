@@ -1,0 +1,50 @@
+created_at,package,version,authors,description
+2026-10-11T17:30:51.993Z,Deskling.Companion,0.5.0,Vlad Mihalachi,"The pure companion layer for desk-companion apps, mirrored from the Swift DesklingCompanion: a phrase bank and picker (lines, jokes in beats, tunes; skins, flavors and languages), chatter cadence presets, quiet rules and mood, write-through settings, a coordinator that replays exactly from a seed,…"
+2026-10-11T17:30:52.557Z,Deskling.Testing,0.5.0,Vlad Mihalachi,"Test support for apps built on Deskling.Core and Deskling.Companion, mirrored from the Swift DesklingTesting: mock clock, idle, busy and random sources; conformance helpers (finding the vectors folder, dates, names); the replay bodies that check an app's companion vectors (phrases, settings, picker…"
+2026-10-11T17:45:33.477Z,MARI.Framework.Bag.DebugTools,1.0.0,Kaonomi,MARI vgrains bag used to carry debug tools.
+2026-10-11T17:45:57.283Z,MARI.Framework.Bag.Toolbox,1.0.0,Kaonomi,MARI bag that provide generic tool vgrain tools
+2026-10-11T17:46:36.997Z,MARI.Framework.Bag.Toolbox.Abstractions,1.0.0,Kaonomi,MARI bag that provide generic tool vgrain tools
+2026-10-11T17:46:52.243Z,MARI.Framework.Bag.Web,1.0.0,Kaonomi,MARI vgrains bag related to web manipulation.
+2026-10-11T17:47:06.38Z,MARI.Framework.Bag.Web.Abstractions,1.0.0,Kaonomi,MARI vgrains abstraction bag related to web manipulation.
+2026-10-11T17:47:22.173Z,MARI.Framework.Builders,1.0.0,Kaonomi,"MARI library use to build definitions Sequence, Signal, Trigger ..."
+2026-10-11T17:47:52.717Z,MARI.Framework.Client.Abstractions,1.0.0,Kaonomi,MARI client abstract library used to consume mari cluster nodes.
+2026-10-11T17:48:07.807Z,MARI.Framework.Cluster,1.0.0,Kaonomi,MARI common cluster library use by node and client side.
+2026-10-11T17:48:28.563Z,MARI.Framework.Cluster.Abstractions,1.0.0,Kaonomi,MARI generic cluster library use by node and client side.
+2026-10-11T17:48:44.547Z,MARI.Framework.Core.CodeGenerator,1.0.0,MARI.Framework.Core.CodeGenerator,MARI core code generator.
+2026-10-11T17:49:06.547Z,MARI.Framework.DataModel,1.0.0,Kaonomi,MARI generic data model.
+2026-10-11T17:49:23.51Z,MARI.Framework.Extensions.Docker,1.0.0,Kaonomi,MARI extension cluster library using docker.
+2026-10-11T17:49:40.11Z,MARI.Framework.Extensions.Docker.Abstractions,1.0.0,Kaonomi,MARI extension cluster library using Docker.
+2026-10-11T17:49:53.533Z,MARI.Framework.Extensions.Docker.Builders,1.0.0,Kaonomi,MARI extension used to build docker usage definitions.
+2026-10-11T17:50:28.893Z,MARI.Framework.Extensions.Mongo,1.0.0,Kaonomi,MARI extension cluster library using mongDB.
+2026-10-11T17:50:31.127Z,Pondhawk.Logging.AspNetCore,1.0.33,Pond Hawk Technologies Inc.,"ASP.NET Core request diagnostics for Pondhawk.Logging: a correlation id, subject and tenant on every event of a request, a begin/end bracket with status and elapsed time, and an opt-in dump of the whole request. Logs through Microsoft.Extensions.Logging, so it works with any provider."
+2026-10-11T17:50:45.2Z,MARI.Framework.Extensions.Mongo.Builders,1.0.0,Kaonomi,"MARI extension cluster library using mongDB tools to save definitions, interfaces ..."
+2026-10-11T17:51:06.05Z,MARI.Framework.Node,1.0.0,Kaonomi,MARI cluster node server part.
+2026-10-11T17:51:27.547Z,MARI.Framework.Node.Abstractions,1.0.0,Kaonomi,MARI abstract cluster node server part.
+2026-10-11T17:51:46.247Z,MARI.Framework.Node.Blackboard,1.0.0,Kaonomi,MARI node extension providing blackboard algorithme to mari cluster.<br. />A blackboard is a shared memory space with a controller that managed and react based on data.
+2026-10-11T17:51:59.123Z,MARI.Framework.Node.Blackboard.Abstractions,1.0.0,Kaonomi,MARI node abstraction part extension providing blackboard algorithme to mari cluster.<br. />A blackboard is a shared memory space with a controller that managed and react based on data.
+2026-10-11T17:52:13.447Z,RoguelikeToolkit.Determinism,0.1.0,RoguelikeToolkit Contributors,"Building blocks for replayable simulations: a seeded, snapshot-able random generator with order-independent derived streams, and a thread-safe sequenced queue with a single-thread drain."
+2026-10-11T17:52:22.387Z,MARI.Framework.Node.Blackboard.Builders,1.0.0,Kaonomi,MARI node builder part extension providing blackboard algorithme to mari cluster.<br. />A blackboard is a shared memory space with a controller that managed and react based on data.
+2026-10-11T17:52:29.847Z,KetPsi.Mediator.Abstractions,1.0.0,ketpsi-net,"Core interfaces for KetPsi.Mediator (IMediator, ICommand, IQuery, handlers)."
+2026-10-11T17:52:47.787Z,MARI.Framework.Node.Cron,1.0.0,Kaonomi,MARI node extension used to enable cron trigger in the cluster.
+2026-10-11T17:53:06.713Z,MARI.Framework.Node.Signals,1.0.0,Kaonomi,MARI node extension used to enable signal in the cluster.
+2026-10-11T17:53:39.91Z,MARI.Framework.Node.StreamQueue,1.0.0,Kaonomi,MARI node extension used to enable streaming/queuing in the cluster.
+2026-10-11T17:54:04.427Z,MARI.UnitTests.ToolKit,1.0.0,Kaonomi,Package Description
+2026-10-11T17:54:24.59Z,MARI.Toolbox.WPF.UI.Avalon,1.0.0,Kaonomi,ToolBox that contains extention for WPF dev. UI Part linked to Avalon View dependency
+2026-10-11T17:54:43.88Z,MARI.Toolbox.WPF.UI,1.0.0,Kaonomi,ToolBox that contains extention for WPF dev. UI Part
+2026-10-11T17:54:56.563Z,MARI.Toolbox.WPF.Abstractions,1.0.0,Kaonomi,ToolBox that contains extention for WPF dev. Abstract Part
+2026-10-11T17:55:13.737Z,MARI.Toolbox.Configuration,1.0.0,Kaonomi,ToolBox that contains extention for Microsoft.Configuration by adding par example templating.
+2026-10-11T17:55:34.4Z,MARI.Toolbox.ComServer.Abstraction.Test,1.0.0,MARI.Toolbox.ComServer.Abstraction.Test,Package Description
+2026-10-11T17:55:35.72Z,PomeloCore.EfCore.MySql,1.0.0,pomelocore,"ASP.NET Core 8 MVC CRUD with MySQL (Pomelo EF Core), cascading dropdowns, file upload, and pagination guide."
+2026-10-11T17:55:49.837Z,MARI.Toolbox.Abstractions,1.0.0,Kaonomi,ToolBox that contains description's tool and model that could be used on any .net project.
+2026-10-11T17:56:12.597Z,MARI.Toolbox,1.0.0,Kaonomi,ToolBox that contains implementation's tools and model that could be used on any .net project.
+2026-10-11T17:56:56.913Z,dfx-Dfx.Core,1.0.10,"Atılım Güneş Baydin, Don Syme, Barak A. Pearlmutter, Jeffrey Siskind, and DiffSharp and dfx contrib…","dfx is a tensor library with support for differentiable programming. It is designed for use in machine learning, probabilistic programming, optimization and other domains. For documentation and installation instructions visit: https://dfx-org.github.io/dfx/"
+2026-10-11T17:56:57.697Z,dfx-Dfx.Data,1.0.10,"Atılım Güneş Baydin, Don Syme, Barak A. Pearlmutter, Jeffrey Siskind, and DiffSharp and dfx contrib…","dfx is a tensor library with support for differentiable programming. It is designed for use in machine learning, probabilistic programming, optimization and other domains. For documentation and installation instructions visit: https://dfx-org.github.io/dfx/"
+2026-10-11T17:56:59.353Z,dfx-Dfx.Backends.Reference,1.0.10,"Atılım Güneş Baydin, Don Syme, Barak A. Pearlmutter, Jeffrey Siskind, and DiffSharp and dfx contrib…","dfx is a tensor library with support for differentiable programming. It is designed for use in machine learning, probabilistic programming, optimization and other domains. For documentation and installation instructions visit: https://dfx-org.github.io/dfx/"
+2026-10-11T17:57:00.67Z,dfx-Dfx.Backends.Torch,1.0.10,"Atılım Güneş Baydin, Don Syme, Barak A. Pearlmutter, Jeffrey Siskind, and DiffSharp and dfx contrib…","dfx is a tensor library with support for differentiable programming. It is designed for use in machine learning, probabilistic programming, optimization and other domains. For documentation and installation instructions visit: https://dfx-org.github.io/dfx/"
+2026-10-11T17:59:27.193Z,MARI.Framework.Core,1.0.0,Kaonomi,MARI core use by all mari parts.
+2026-10-11T17:59:56.81Z,MARI.Framework.Core.Abstractions,1.0.0,Kaonomi,MARI core abstract information use by all mari parts.
+2026-10-11T18:03:24.847Z,MARI.Framework.Extensions.Mongo.Abstractions,1.0.0,Kaonomi,"MARI extension cluster library using mongDB (abstraction part) with all the definitions, interfaces ..."
+2026-10-11T18:05:54.567Z,BlackDigital.Domain,26.10.11.1,BlackDigital,BlackDigital Domain - Reusable infrastructure and security building blocks for any .NET backend
+2026-10-11T18:06:34.647Z,KetPsi.Mediator,1.0.0,ketpsi-net,High-performance mediator powered by C# interceptors and source generators. Call sites of IMediator.Send are rewritten to invoke handlers directly.
+2026-10-11T18:08:09.347Z,MARI.Toolbox.UnitTests.ToolKit,1.0.0,Kaonomi,Package Description
+2026-10-11T18:08:52.52Z,MARI.Toolbox.WPF,1.0.0,Kaonomi,ToolBox that contains extention for WPF dev.
