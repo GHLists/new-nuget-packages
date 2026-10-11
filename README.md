@@ -12,22 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 13:20 UTC
+## Latest list — 2026-10-11 14:21 UTC
 
-New packages created between 2026-10-11 12:21 UTC and 2026-10-11 13:20 UTC.
+New packages created between 2026-10-11 13:20 UTC and 2026-10-11 14:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-11T13-20-34-99008Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-11T14-21-26-210459Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-11 12:33:49 | [XmltvDigital3d.Mcp](https://www.nuget.org/packages/XmltvDigital3d.Mcp) | 1.0.9 | Digital3D | MCP server for the French TV guide of xmltv.digital3d.com: channels, schedules… |
-| 2026-10-11 12:56:15 | [Filemaster.Domain](https://www.nuget.org/packages/Filemaster.Domain) | 2.0.0 | Gabriele Vianello | Filemaster.Domain: ID tipizzati, entita' ed eccezioni del client per l'API HTTP… |
-| 2026-10-11 12:56:16 | [Filemaster.Application](https://www.nuget.org/packages/Filemaster.Application) | 2.0.0 | Gabriele Vianello | Filemaster.Application: porte (interfacce), modelli di richiesta ed estensioni… |
-| 2026-10-11 12:56:17 | [Filemaster.Infrastructure](https://www.nuget.org/packages/Filemaster.Infrastructure) | 2.0.0 | Gabriele Vianello | Filemaster.Infrastructure: adapter HTTP, trasporto (timeout e retry) e serializ… |
-| 2026-10-11 12:56:18 | [Filemaster](https://www.nuget.org/packages/Filemaster) | 2.0.0 | Gabriele Vianello | Filemaster: client .NET per l'API HTTP di Sharp-a-File (registrazione DI e fact… |
-| 2026-10-11 13:02:23 | [Meshmakers.Octo.ConstructionKit.Models.System.Files](https://www.nuget.org/packages/Meshmakers.Octo.ConstructionKit.Models.System.Files) | 3.5.12 | meshmakers GmbH and Contribut… | OctoMesh System.Files construction kit model (platform file system) |
-| 2026-10-11 13:06:15 | [Gravicode.Finance.LLM.Local](https://www.nuget.org/packages/Gravicode.Finance.LLM.Local) | 0.2.0 | Gravicode Studios | Finance.Net local model inference: FinBERT financial sentiment run in-process t… |
-| 2026-10-11 13:08:40 | [Shiny.AppStore](https://www.nuget.org/packages/Shiny.AppStore) | 6.0.0-beta-0002 | Allan Ritchie | Shiny App Store - check the store for a newer version of the running app, deep-… |
+| 2026-10-11 13:21:51 | [Altruist.Gaming.Lobbies](https://www.nuget.org/packages/Altruist.Gaming.Lobbies) | 0.9.9-beta | Lobbies | Package Description |
+| 2026-10-11 13:21:52 | [Altruist.Gaming.Matchmaking](https://www.nuget.org/packages/Altruist.Gaming.Matchmaking) | 0.9.9-beta | Matchmaking | Package Description |
+| 2026-10-11 13:21:52 | [Altruist.Gaming.Rooms](https://www.nuget.org/packages/Altruist.Gaming.Rooms) | 0.9.9-beta | Rooms | Package Description |
+| 2026-10-11 13:22:12 | [Gravicode.HFNet.GraviTransformers.Vision](https://www.nuget.org/packages/Gravicode.HFNet.GraviTransformers.Vision) | 0.9.0 | Gravicode Studios | GraviTransformers.Vision - ViT image classification and CLIP zero-shot classifi… |
+| 2026-10-11 13:26:51 | [miniClockLibrary](https://www.nuget.org/packages/miniClockLibrary) | 1.0.0 | Tracy Software | Live analog clock for any country or time zone, in one line of code. Show it as… |
+| 2026-10-11 13:30:15 | [Kebechet.Api.ToMcp](https://www.nuget.org/packages/Kebechet.Api.ToMcp) | 2.0.0 | Kebechet | A C# source generator that transforms ASP.NET Core API endpoints into MCP (Mode… |
+| 2026-10-11 13:44:01 | [Labcoat](https://www.nuget.org/packages/Labcoat) | 1.0.0 | Erik Lieben | A web UI for Microsoft.Testing.Platform: browse, run and watch your MSTest, NUn… |
+| 2026-10-11 13:44:02 | [Labcoat.Aspire.Hosting](https://www.nuget.org/packages/Labcoat.Aspire.Hosting) | 1.0.0 | Erik Lieben | Aspire hosting integration for Labcoat, a web UI for Microsoft.Testing.Platform… |
+| 2026-10-11 13:44:03 | [Labcoat.Testing](https://www.nuget.org/packages/Labcoat.Testing) | 1.0.0 | Erik Lieben | Test-side core for Labcoat, framework neutral: per-test OpenTelemetry traces fo… |
+| 2026-10-11 13:44:04 | [Labcoat.Testing.MSTest](https://www.nuget.org/packages/Labcoat.Testing.MSTest) | 1.0.0 | Erik Lieben | MSTest adapter for Labcoat.Testing: per-test OpenTelemetry traces for MSTest +… |
+| 2026-10-11 13:44:05 | [Labcoat.Testing.TUnit](https://www.nuget.org/packages/Labcoat.Testing.TUnit) | 1.0.0 | Erik Lieben | TUnit adapter for Labcoat.Testing: per-test OpenTelemetry traces for TUnit + As… |
+| 2026-10-11 13:44:06 | [Labcoat.Testing.NUnit](https://www.nuget.org/packages/Labcoat.Testing.NUnit) | 1.0.0 | Erik Lieben | NUnit adapter for Labcoat.Testing: per-test OpenTelemetry traces for NUnit + As… |
+| 2026-10-11 13:44:07 | [Labcoat.Testing.XUnit](https://www.nuget.org/packages/Labcoat.Testing.XUnit) | 1.0.0 | Erik Lieben | xUnit v3 adapter for Labcoat.Testing: per-test OpenTelemetry traces for xUnit v… |
+| 2026-10-11 13:44:08 | [Labcoat.TestingPlatform](https://www.nuget.org/packages/Labcoat.TestingPlatform) | 1.0.0 | Erik Lieben | Microsoft.Testing.Platform extension for Labcoat: 'dotnet run -- --labcoat' ope… |
+| 2026-10-11 13:50:06 | [ClamGauge](https://www.nuget.org/packages/ClamGauge) | 0.9.0 | machi_pon | MAUI circular gauge rendered with SkiaSharp |
+| 2026-10-11 13:50:30 | [lucaslgt.WorkflowContext](https://www.nuget.org/packages/lucaslgt.WorkflowContext) | 0.1.0 | Lucas Lenglet | Lightweight helpers for building workflow contexts and execution pipelines. |
+| 2026-10-11 13:53:32 | [MacOSX.SDK](https://www.nuget.org/packages/MacOSX.SDK) | 26.1.12 | Apple Inc.,DotNet-AGPL | Filtered macOS SDK 26.1 (from joseluisq/macosx-sdks) for cross-compiling Native… |
+| 2026-10-11 13:58:54 | [SharpAbp.Abp.AspNetCore.IpAccessControl](https://www.nuget.org/packages/SharpAbp.Abp.AspNetCore.IpAccessControl) | 6.0.1 | virtual | SharpAbp ASP.NET Core IP access control module |
+| 2026-10-11 13:59:04 | [SharpAbp.Abp.ConcurrencyLimiting](https://www.nuget.org/packages/SharpAbp.Abp.ConcurrencyLimiting) | 6.0.1 | virtual | ABP process-local execution concurrency limiting |
+| 2026-10-11 14:00:49 | [SharpAbp.Abp.OperationRateLimiting](https://www.nuget.org/packages/SharpAbp.Abp.OperationRateLimiting) | 6.0.1 | virtual | ABP operation count limiting with replaceable atomic storage |
 
 ## Data source
 
