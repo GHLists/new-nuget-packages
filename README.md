@@ -12,25 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 12:21 UTC
+## Latest list — 2026-10-11 13:20 UTC
 
-New packages created between 2026-10-11 11:19 UTC and 2026-10-11 12:21 UTC.
+New packages created between 2026-10-11 12:21 UTC and 2026-10-11 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-11T12-21-16-680031Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-11T13-20-34-99008Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-11 11:19:21 | [ELF.Modules.Hosting.Sidecar](https://www.nuget.org/packages/ELF.Modules.Hosting.Sidecar) | 0.8.0 | ELF INTERNATIONAL EXPRESS CO.… | 讓 ASP.NET Core 宿主以桌面殼（Tauri、Electron）子行程執行：127.0.0.1 隨機埠、stdout 交握埠號、stdin 關閉或父… |
-| 2026-10-11 11:19:23 | [GameFrameX.Foundation.Logger.GrafanaLoki](https://www.nuget.org/packages/GameFrameX.Foundation.Logger.GrafanaLoki) | 5.0.0 | AlianBlank,GameFrameX,Blank | GameFrameX.Foundation.Logger.GrafanaLoki,GameFrameX 框架的基础设施框架库,提供日志的 Grafana Lo… |
-| 2026-10-11 11:19:24 | [GameFrameX.Foundation.Logger.MongoDB](https://www.nuget.org/packages/GameFrameX.Foundation.Logger.MongoDB) | 5.0.0 | AlianBlank,GameFrameX,Blank | GameFrameX.Foundation.Logger.MongoDB,GameFrameX 框架的基础设施框架库,提供日志的 MongoDB Sink 组… |
-| 2026-10-11 11:26:01 | [ZYC.Framework.Core](https://www.nuget.org/packages/ZYC.Framework.Core) | 1.5.5 | ZYC.Framework.Core | Package Description |
-| 2026-10-11 11:36:36 | [BIDS.Server](https://www.nuget.org/packages/BIDS.Server) | 6.6.3-commit-b25682… | Performa Software Pty Ltd | PowerShell module for managing BIDS Servers |
-| 2026-10-11 11:36:38 | [BIDS.Studio](https://www.nuget.org/packages/BIDS.Studio) | 6.6.3-commit-b25682… | Performa Software Pty Ltd | PowerShell module for installing BIDS Studio |
-| 2026-10-11 11:48:19 | [CodoMetis.TypeKit.Serilog](https://www.nuget.org/packages/CodoMetis.TypeKit.Serilog) | 1.5.0 | CaffeinatedCoder | Serilog integration for CodoMetis.TypeKit: value objects are logged as what the… |
-| 2026-10-11 11:48:20 | [CodoMetis.TypeKit.Testing](https://www.nuget.org/packages/CodoMetis.TypeKit.Testing) | 1.5.0 | CaffeinatedCoder | Test assertions for CodoMetis.TypeKit's Option and Result: hand a test the valu… |
-| 2026-10-11 11:52:50 | [SjolystInnovation.AppKit.Vipps](https://www.nuget.org/packages/SjolystInnovation.AppKit.Vipps) | 0.1.1 | Sjølyst Innovation AS | A client for the Vipps MobilePay Recurring, ePayment, Userinfo and Webhooks API… |
-| 2026-10-11 11:55:29 | [Arc56.Generated.tolgazorlu.nftmap](https://www.nuget.org/packages/Arc56.Generated.tolgazorlu.nftmap) | 1.0.1.2026101111 | tolgazorlu | Generated ARC-56 Algorand smart-contract clients for tolgazorlu/nftmap. |
-| 2026-10-11 12:15:51 | [GaussStylization](https://www.nuget.org/packages/GaussStylization) | 0.1.0 | Nicholas Chieppa | Managed C# port of Gauss Stylization (mesh stylization from preferred surface n… |
+| 2026-10-11 12:33:49 | [XmltvDigital3d.Mcp](https://www.nuget.org/packages/XmltvDigital3d.Mcp) | 1.0.9 | Digital3D | MCP server for the French TV guide of xmltv.digital3d.com: channels, schedules… |
+| 2026-10-11 12:56:15 | [Filemaster.Domain](https://www.nuget.org/packages/Filemaster.Domain) | 2.0.0 | Gabriele Vianello | Filemaster.Domain: ID tipizzati, entita' ed eccezioni del client per l'API HTTP… |
+| 2026-10-11 12:56:16 | [Filemaster.Application](https://www.nuget.org/packages/Filemaster.Application) | 2.0.0 | Gabriele Vianello | Filemaster.Application: porte (interfacce), modelli di richiesta ed estensioni… |
+| 2026-10-11 12:56:17 | [Filemaster.Infrastructure](https://www.nuget.org/packages/Filemaster.Infrastructure) | 2.0.0 | Gabriele Vianello | Filemaster.Infrastructure: adapter HTTP, trasporto (timeout e retry) e serializ… |
+| 2026-10-11 12:56:18 | [Filemaster](https://www.nuget.org/packages/Filemaster) | 2.0.0 | Gabriele Vianello | Filemaster: client .NET per l'API HTTP di Sharp-a-File (registrazione DI e fact… |
+| 2026-10-11 13:02:23 | [Meshmakers.Octo.ConstructionKit.Models.System.Files](https://www.nuget.org/packages/Meshmakers.Octo.ConstructionKit.Models.System.Files) | 3.5.12 | meshmakers GmbH and Contribut… | OctoMesh System.Files construction kit model (platform file system) |
+| 2026-10-11 13:06:15 | [Gravicode.Finance.LLM.Local](https://www.nuget.org/packages/Gravicode.Finance.LLM.Local) | 0.2.0 | Gravicode Studios | Finance.Net local model inference: FinBERT financial sentiment run in-process t… |
+| 2026-10-11 13:08:40 | [Shiny.AppStore](https://www.nuget.org/packages/Shiny.AppStore) | 6.0.0-beta-0002 | Allan Ritchie | Shiny App Store - check the store for a newer version of the running app, deep-… |
 
 ## Data source
 
