@@ -1,0 +1,32 @@
+created_at,package,version,authors,description
+2026-10-11T15:29:35.197Z,LinML.Catalog,0.1.0,LinML Contributors,"Execution provider catalog for ONNX Runtime on Linux: installs pinned plugin EPs, registers them with ORT, and appends their devices to sessions. The Linux counterpart to the Windows ML ExecutionProviderCatalog."
+2026-10-11T15:29:35.9Z,LinML.Contracts,0.1.0,LinML Contributors,"LinML contracts: provider discovery, selection, and inference abstractions."
+2026-10-11T15:30:15.637Z,GodotDataEditor.Attributes,0.1.0,GodotDataEditor contributors,"Metadata attributes and schema-profile contracts shared by the game, mods and the schema scanner."
+2026-10-11T15:30:21.313Z,GodotDataEditor.Scanner,0.1.0,GodotDataEditor contributors,Schema scanner CLI: reads a target assembly + XML docs and writes schema.json for the GDScript data editor.
+2026-10-11T15:32:51.233Z,Puntjes.Sdk,1.0.0,Puntjes,"The official .NET client for the Puntjes loyalty API: customers, transactions, rewards, vouchers and campaigns."
+2026-10-11T15:41:54.543Z,Jadi.Wpf.Controls.FilterListView,1.0.2,Jadi AB,"WPF ListView with column filtering, sorting, favourites and Excel export."
+2026-10-11T15:46:49.86Z,JoyfulReaperLib,0.0.12,Kyle Givler,Lightweight shared utility helpers.
+2026-10-11T15:46:51.053Z,JoyfulReaperLib.Sqlite,0.0.10,Kyle Givler,Shared SQLite provider initialization and connection string helpers for JoyfulReaperLib optional packages.
+2026-10-11T15:46:52.153Z,JoyfulReaperLib.Caching.Sqlite,0.0.10,Kyle Givler,SQLite-backed IDistributedCache support for JoyfulReaperLib.
+2026-10-11T15:46:53.677Z,JoyfulReaperLib.WebStats.Sqlite,0.0.10,Kyle Givler,SQLite-backed reusable hit counting and web stats for JoyfulReaperLib.
+2026-10-11T15:46:54.857Z,JoyfulReaperLib.MissionControl,0.0.3,Kyle Givler,Best-effort HTTP event publishing client for Mission Control.
+2026-10-11T15:46:56.007Z,JoyfulReaperLib.Ntfy,0.0.1,Kyle Givler,Lightweight ntfy notification publishing for .NET applications.
+2026-10-11T15:46:57.187Z,JoyfulReaperLib.TcpServer,0.0.5,Kyle Givler,Lightweight Generic Host infrastructure for bounded TCP servers.
+2026-10-11T15:52:29.8Z,Blobatar.Net.Avalonia,2.7.0,MilaDesign,Avalonia adapter for blobatar — deterministic geometric avatars.
+2026-10-11T15:52:30.89Z,Blobatar.Net.Core,2.7.0,MilaDesign,Deterministic geometric blobatars from any string. No dependencies.
+2026-10-11T15:52:31.693Z,Blobatar.Net.Godot,2.7.0,MilaDesign,"Godot .NET BlobatarControl with expressions, idle animation and viewport-wide mouse gaze."
+2026-10-11T15:52:32.57Z,Blobatar.Net.Maui,2.7.0,MilaDesign,"MAUI BlobatarControl with vector rendering, expressions, animation, and pointer/touch gaze."
+2026-10-11T15:52:33.423Z,Blobatar.Net.UnoPlatform,2.7.0,MilaDesign,Uno Platform adapter for blobatar — deterministic geometric avatars.
+2026-10-11T15:52:34.52Z,Blobatar.Net.WinForms,2.7.0,MilaDesign,Windows Forms adapter for blobatar — deterministic geometric avatars.
+2026-10-11T15:52:35.473Z,Blobatar.Net.Wpf,2.7.0,MilaDesign,WPF adapter for blobatar — deterministic geometric avatars.
+2026-10-11T15:53:23.21Z,Demolite.Core,0.1.0,Demolite,Shared Code for the Demolite packages.
+2026-10-11T15:55:54.177Z,SI.WA.UI.Material3,1.3.0,seriiiastreb@gmail.com,"Material Design 3 theme for the WA.Core Blazor UI, made to look like Google's own apps: top app bar with the main menu as one M3 menu, account menu, outlined text fields with floating labels, filled / tonal / outlined buttons, dialogs, snackbars and menus of M3 Expressive, Google Sans and Material…"
+2026-10-11T16:02:33.397Z,TcfOss.DatabaseManager.Core.Hosting,0.8.0,Thomas C. Flanagan,"Convenience startup, configuration loading, logging, and dependency-injection setup for the DatabaseManager Core library."
+2026-10-11T16:02:34.287Z,TcfOss.DatabaseManager.MariaDb.Hosting,0.8.0,Thomas C. Flanagan,"Convenience startup, configuration loading, logging, and dependency-injection setup for the DatabaseManager MariaDB provider."
+2026-10-11T16:02:35.193Z,TcfOss.DatabaseManager.MsSql.Hosting,0.8.0,Thomas C. Flanagan,"Convenience startup, configuration loading, logging, and dependency-injection setup for the DatabaseManager SQL Server parsing and formatting provider."
+2026-10-11T16:02:36.223Z,TcfOss.DatabaseManager.MySql.Hosting,0.8.0,Thomas C. Flanagan,"Convenience startup, configuration loading, logging, and dependency-injection setup for the DatabaseManager MySQL provider."
+2026-10-11T16:02:55.503Z,ReportForge.Core,1.0.0,Gajendra Paliwal,Modern reporting engine core for .NET and ASP.NET Core. An RDLC-friendly alternative for applications moving from RDLC and ReportViewer to modern .NET reporting.
+2026-10-11T16:02:56.347Z,ReportForge.Data.SqlServer,1.0.0,Gajendra Paliwal,"SQL Server data provider for ReportForge, a modern .NET reporting engine and RDLC-friendly alternative for ASP.NET Core applications."
+2026-10-11T16:02:57.267Z,ReportForge.Rendering.Html,1.0.0,Gajendra Paliwal,"HTML report renderer for ReportForge, providing modern .NET and ASP.NET Core reporting for applications migrating from RDLC and ReportViewer."
+2026-10-11T16:02:58.317Z,ReportForge.Rendering.Excel,1.0.0,Gajendra Paliwal,"Excel report renderer for ReportForge, a modern .NET reporting engine and RDLC-friendly alternative for business reports and exports."
+2026-10-11T16:02:59.347Z,ReportForge.AspNetCore,1.0.0,Gajendra Paliwal,"ASP.NET Core integration for ReportForge, a modern reporting engine and RDLC/ReportViewer alternative with SQL Server, parameters, tables, grouping, totals, charts, HTML viewing and Excel export."
