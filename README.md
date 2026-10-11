@@ -12,26 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 06:21 UTC
+## Latest list — 2026-10-11 07:22 UTC
 
-New packages created between 2026-10-11 05:19 UTC and 2026-10-11 06:21 UTC.
+New packages created between 2026-10-11 06:21 UTC and 2026-10-11 07:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-11T06-21-07-493663Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-11T07-22-03-528337Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-11 05:21:02 | [Rulebearing.Rules](https://www.nuget.org/packages/Rulebearing.Rules) | 0.1.3 | Ben Bahrenburg | Rulebearing's framework presets as a versioned library: extends: rulebearing-ru… |
-| 2026-10-11 05:22:12 | [CodeBrix.VideoEncoding.Av1.BsdLicenseForever](https://www.nuget.org/packages/CodeBrix.VideoEncoding.Av1.BsdLicenseForever) | 1.0.284.321 | Jeremy Ellis | AV1 video encoding for CodeBrix.VideoProcessing. Av1Encoder turns planar I420,… |
-| 2026-10-11 05:27:01 | [NAPS2.Jpeg.Binaries](https://www.nuget.org/packages/NAPS2.Jpeg.Binaries) | 1.0.0 | Ben Olden-Cooligan | jpegli JPEG encoder binaries for NAPS2.Sdk |
-| 2026-10-11 05:33:25 | [MJCZone.Realtime.Contract](https://www.nuget.org/packages/MJCZone.Realtime.Contract) | 0.1.0 | MJCZone, Inc. | Channel grammar, envelope and tenant guard for the realtime backbone. |
-| 2026-10-11 05:33:25 | [MJCZone.Realtime.Tokens](https://www.nuget.org/packages/MJCZone.Realtime.Tokens) | 0.1.0 | MJCZone, Inc. | Mint Centrifugo connection and subscription JWTs (ES256), serve their JWKS, and… |
-| 2026-10-11 05:33:26 | [MJCZone.Realtime.Publisher](https://www.nuget.org/packages/MJCZone.Realtime.Publisher) | 0.1.0 | MJCZone, Inc. | Publish envelopes to the realtime backbone over Centrifugo's gRPC API, with per… |
-| 2026-10-11 05:33:27 | [MJCZone.Realtime.AgUi](https://www.nuget.org/packages/MJCZone.Realtime.AgUi) | 0.1.0 | MJCZone, Inc. | Publish an AG-UI agent run (from any AG-UI event source) to the realtime backbo… |
-| 2026-10-11 05:33:27 | [MJCZone.Realtime.AgUi.AgentFramework](https://www.nuget.org/packages/MJCZone.Realtime.AgUi.AgentFramework) | 0.1.0 | MJCZone, Inc. | Microsoft Agent Framework as an AG-UI event source for MJCZone.Realtime.AgUi. |
-| 2026-10-11 06:00:46 | [SpawnDev.AI](https://www.nuget.org/packages/SpawnDev.AI) | 1.1.0 | LostBeard | Core contracts for the SpawnDev AI stack: chat sessions, Ollama/OpenAI-compatib… |
-| 2026-10-11 06:00:47 | [SpawnDev.AI.Server](https://www.nuget.org/packages/SpawnDev.AI.Server) | 1.1.0 | LostBeard | Ollama/OpenAI-compatible model server on the SpawnDev.ILGPU.ML inference engine… |
-| 2026-10-11 06:05:09 | [PulseSharp.Abstractions](https://www.nuget.org/packages/PulseSharp.Abstractions) | 0.0.1-alpha | Waqas Ahmad | Contracts for PulseSharp, lightweight events and jobs for .NET. Reference this… |
-| 2026-10-11 06:05:10 | [PulseSharp](https://www.nuget.org/packages/PulseSharp) | 0.0.1-alpha | Waqas Ahmad | PulseSharp: lightweight events and jobs for .NET, from the device to the cloud.… |
+| 2026-10-11 06:32:00 | [Coworkee.Reporting](https://www.nuget.org/packages/Coworkee.Reporting) | 0.0.1.15 | fgilde | Reports and dashboards over OData entity sets: server side aggregation, sharing… |
+| 2026-10-11 06:32:01 | [Coworkee.Client.Blazor.Reporting](https://www.nuget.org/packages/Coworkee.Client.Blazor.Reporting) | 0.0.1.15 | fgilde | Report designer for Blazor WebAssembly: GridStack layout, ApexCharts, KPI, tabl… |
+| 2026-10-11 06:36:12 | [Alternet.Studio.Scripter.Communication](https://www.nuget.org/packages/Alternet.Studio.Scripter.Communication) | 11.0.1 | AlterNET Software | Alternet.Studio.Scripter.Communication |
+| 2026-10-11 06:37:35 | [NuGetSecurityInfoDoc](https://www.nuget.org/packages/NuGetSecurityInfoDoc) | 1.0.0-alpha2 | Informatica Documental S.A.S | Validacion del JWT de Keycloak y de su vinculo con el emisor (gateway o certifi… |
+| 2026-10-11 06:39:19 | [Catalyst.Rampart](https://www.nuget.org/packages/Catalyst.Rampart) | 26.10.6591 | Curiosity GmbH | Rampart for .NET: on-device PII detection and reversible redaction. A native C#… |
+| 2026-10-11 06:56:36 | [DocuLift](https://www.nuget.org/packages/DocuLift) | 1.0.0 | DocuLift | Lift text out of txt, rtf, pdf, docx, and pptx into a string or a TXT file. |
+| 2026-10-11 07:15:10 | [Fayakun.AspNetCore.Authentication.JwtBearer](https://www.nuget.org/packages/Fayakun.AspNetCore.Authentication.JwtBearer) | 1.0.0 | Fayakun Services | A lightweight, modular, and high-performance extension package for ASP.NET Core… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-11T06:32:00.19Z,Coworkee.Reporting,0.0.1.15,fgilde,"Reports and dashboards over OData entity sets: server side aggregation, sharing with roles, favorites and live updates."
+2026-10-11T06:32:01.993Z,Coworkee.Client.Blazor.Reporting,0.0.1.15,fgilde,"Report designer for Blazor WebAssembly: GridStack layout, ApexCharts, KPI, tables, pivot, filters, cross filters, drill-down and export."
+2026-10-11T06:36:12.953Z,Alternet.Studio.Scripter.Communication,11.0.1,AlterNET Software,Alternet.Studio.Scripter.Communication
+2026-10-11T06:37:35.117Z,NuGetSecurityInfoDoc,1.0.0-alpha2,Informatica Documental S.A.S,Validacion del JWT de Keycloak y de su vinculo con el emisor (gateway o certificado mTLS) para las APIs .NET. Configuracion por tenant leida de tenants_config.
+2026-10-11T06:39:19.23Z,Catalyst.Rampart,26.10.6591,Curiosity GmbH,"Rampart for .NET: on-device PII detection and reversible redaction. A native C# port of National Design Studio's Rampart (deterministic recognizers + a 4-bit MiniLM token classifier), with the model embedded."
+2026-10-11T06:56:36.413Z,DocuLift,1.0.0,DocuLift,"Lift text out of txt, rtf, pdf, docx, and pptx into a string or a TXT file."
+2026-10-11T07:15:10.34Z,Fayakun.AspNetCore.Authentication.JwtBearer,1.0.0,Fayakun Services,"A lightweight, modular, and high-performance extension package for ASP.NET Core that streamlines JWT Bearer token generation, verification, and service registration across multiple .NET versions."
