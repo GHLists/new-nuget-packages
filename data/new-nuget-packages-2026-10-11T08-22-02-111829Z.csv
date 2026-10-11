@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-11T07:28:35.9Z,DotNetCore.Collections,7.1.0,"AlexLEWIS,dotnetcore",High-performance LINQ engine with value-type enumerators and zero-allocation hot paths for .NET.
+2026-10-11T07:48:03.173Z,ContextKit,1.0.0-preview-0015,ContextKit.Cli,Package Description
+2026-10-11T07:48:04.813Z,ContextKit.Mcp,1.0.0-preview-0015,ContextKit.Mcp.Host,Package Description
+2026-10-11T07:52:26.333Z,Marey.Sim,0.6.0,Marey contributors,"Simulation for Marey: ODE integrators typed by units of measure (Euler, RK4, Dormand-Prince, velocity Verlet, leapfrog), trajectories that seek like any other animation, invariants, events and collisions, Poincare sections, pathlines and particles, finite-difference heat, wave and Poisson solvers,…"
+2026-10-11T07:57:09.533Z,Caveman.Compliance,1.0.0,Francesco Paolo Passaro,"AI compliance engine for LLM gateways: one rule registry (risk, action, scope) over PII, secrets, prompt-injection, agent-policy, toxicity, PHI, data-residency and code-vulnerability controls; a traceability matrix to EU AI Act / GDPR / NIS 2 / ISO 42001 articles; a hash-chained audit trail (Art. 1…"
