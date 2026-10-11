@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-11T09:33:59.543Z,Tai.Wallet.Voucher.Recharge,0.2.0,Tai,Optional integration that lets Tai.Wallet.Recharge accept Tai.Wallet.Voucher recharge coupons
+2026-10-11T09:52:53.32Z,GitExtensions.GitLab.MergeRequests,2.0.0,"ahmet.urun, Alain Corchia","GitLab plugin for Git Extensions: create, review, comment, approve and merge GitLab merge requests."
+2026-10-11T10:05:15.177Z,ChartForgeX.Markup.Cli,2.0.0,Evotec,Command-line renderer and code generator for ChartForgeX markup.
+2026-10-11T10:05:18.957Z,ChartForgeX.Stories,2.0.0,Evotec,"Deterministic visual stories, terminal playback, motion and GIF/APNG encoding over ChartForgeX."
+2026-10-11T10:05:20.847Z,ChartForgeX.Visuals,2.0.0,Evotec,"Dependency-free static canvas, image composition, factual tiles, tables, lists and watermark decoration over ChartForgeX."
+2026-10-11T10:05:33.9Z,StudioElf.Module.CRM.LicenseHub,1.0.0,StudioElf,"**Oqtane Marketplace order ingestion, license and trial lifecycle, with customer communications.** ## What it does An Oqtane Marketplace order posts to one webhook. License Hub verifies it against a shared secret, stores the order with its license and trial dates, matches the buyer to a CRM contact…"
+2026-10-11T10:11:36.767Z,ELF.Modules.Diagnostics.ErrorReporting.AspNetCore,0.8.0,"ELF INTERNATIONAL EXPRESS CO., LTD.",錯誤回報 ASP.NET Core 整合：未處理例外中介軟體（500 附 errorId）與最近 30 筆請求軌跡。
+2026-10-11T10:11:38.483Z,ELF.Modules.Diagnostics.ErrorReporting.GitHub,0.8.0,"ELF INTERNATIONAL EXPRESS CO., LTD.",錯誤回報 GitHub sink（伺服器端用）：以指紋找既有 issue，沒有就開、有就留言，同指紋每天最多一則，遵守限流。
+2026-10-11T10:11:39.68Z,ELF.Modules.Diagnostics.ErrorReporting,0.8.0,"ELF INTERNATIONAL EXPRESS CO., LTD.",錯誤回報核心：回報格式（JSON Schema v1）、去個資、指紋、本機佇列與 HTTP 中繼 sink、ILogger 擷取。
