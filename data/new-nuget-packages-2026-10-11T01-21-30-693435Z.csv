@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-11T00:22:20.877Z,CodeBrix.VideoProcessing.Core.MitLicenseForever,1.0.284.20,Jeremy Ellis,"The engine-neutral contract for video processing in .NET: analyse media files, read decoded video frames and audio samples, write standard MP4 (H.264 or HEVC with AAC) video from your own frames and sound, and transcode, trim and join files - through one interface that a separate engine package imp…"
+2026-10-11T00:54:46.723Z,Rayscale.Foundation,0.1.0,Rayscale,"Foundational abstractions, primitives, and shared utilities"
+2026-10-11T00:59:52.29Z,EgyptianToolkit,1.0.0,Mahmoud Yusuf,"Egypt-focused .NET library for Egyptian national ID parsing and validation, age and generation metadata, mobile and landline normalization, governorates and regions, special numbers, and Arabic/Persian digit and search normalization."
+2026-10-11T01:08:41.963Z,Nur.Store2026.Access,1.0.0,joseco,Package Description
+2026-10-11T01:09:01.18Z,Nur.Store2026.Access.Catalog,1.0.0,joseco,Package Description
+2026-10-11T01:09:14.173Z,Nur.Store2026.Access.Contracts,1.0.0,joseco,Package Description
+2026-10-11T01:09:54.4Z,Nur.Store2026.Access.Identity,1.0.0,joseco,Package Description
+2026-10-11T01:10:08.923Z,Nur.Store2026.Access.Inventory,1.0.0,joseco,Package Description
+2026-10-11T01:10:24.693Z,Nur.Store2026.Access.Orders,1.0.0,joseco,Package Description
+2026-10-11T01:10:39.23Z,Nur.Store2026.Access.Payments,1.0.0,joseco,Package Description
+2026-10-11T01:10:53.407Z,Nur.Store2026.Security,1.0.0,joseco,Package Description
+2026-10-11T01:11:19.74Z,Nur.Store2026.Integration,1.0.0,joseco,Package Description
