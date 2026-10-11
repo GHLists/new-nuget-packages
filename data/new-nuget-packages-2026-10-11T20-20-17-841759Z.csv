@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-11T19:20:36.833Z,KaizenIO.Jev,0.1.0,"Kaizenio, Inc.",".NET client for the Jev API (POST /v1/systemone): ask noul (yes/no), choice and score questions about a piece of state in one parallel request."
+2026-10-11T19:23:00.187Z,NextcloudNotesClient,1.0.0,NextcloudNotesClient,Package Description
+2026-10-11T19:29:08.993Z,NatureRemo,0.1.0,C,C# client for Nature Remo API (port of morinokami/nature-remo)
+2026-10-11T19:32:57.063Z,MIG.Audio,1.0.0,G-Labs,"Local speech recognition and synthesis for MIG and HomeGenie, powered by Whisper.net and Piper via sherpa-onnx."
+2026-10-11T19:38:30.8Z,clbfc,1.100.0,clbfc,Package Description
+2026-10-11T20:03:09.04Z,Hateoas.AspNetCore,2.1.1,Yahya Erdogan,"ASP.NET Core integration for Hateoas: one LinkProvider per resource type applied automatically to every endpoint response by an endpoint filter (items, lists, pages, nested), route-name based hrefs that fail loudly when unresolvable, state- and permission-aware conditional links, CURIE-prefixed ext…"
+2026-10-11T20:03:09.87Z,Hateoas.Hal,2.1.1,Yahya Erdogan,"Framework-agnostic building blocks for HAL hypermedia (HATEOAS): Link, a LinkCollection that serializes as HAL ""_links"" with CURIEs, IANA LinkRelations, and LinkedResponse / LinkedRecord base types whose ""_links"" are omitted until a link is added. Pair with Hateoas.AspNetCore."
+2026-10-11T20:05:43.483Z,LibrusApixNet,1.6.0-beta1,LibrusApixNet contributors,"Unofficial cross-platform .NET 10 port of RustySnek/librus-apix for Librus Synergia. Provides authentication, grades, attendance, timetables, messages and notifications."
+2026-10-11T20:07:02.337Z,KlabTranslations.Generator.Blazor,1.1.0,Burak Kizilkaya,Package Description
+2026-10-11T20:07:02.88Z,KlabTranslations.Cli,1.1.0,Burak Kizilkaya,Package Description
