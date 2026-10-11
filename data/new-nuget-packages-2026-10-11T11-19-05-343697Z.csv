@@ -1,0 +1,59 @@
+created_at,package,version,authors,description
+2026-10-11T10:34:01.107Z,Relay.FeatureBuilder.Abstractions,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:35:05.46Z,Relay.Dispatcher,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:35:26.75Z,Relay.Dispatcher.Adapters.InMemory,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:35:40.713Z,Relay.Mapper,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:36:03.54Z,Relay.Mapper.Adapters.InMemory,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:36:20.6Z,FpmlToolKit.Fpml40,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.0.
+2026-10-11T10:36:20.837Z,FpmlToolKit.Fpml41,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.1.
+2026-10-11T10:36:21.173Z,FpmlToolKit.Fpml48,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.8.
+2026-10-11T10:36:21.68Z,FpmlToolKit.Fpml59,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.9, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:22.17Z,FpmlToolKit.Fpml510,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.10, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:22.49Z,FpmlToolKit.Fpml50,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.0, one assembly per view: confirmation, reporting."
+2026-10-11T10:36:22.857Z,FpmlToolKit.Fpml58,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.8, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting."
+2026-10-11T10:36:23.283Z,FpmlToolKit.Fpml56,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.6, one assembly per view: confirmation, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:23.93Z,FpmlToolKit.Fpml57,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.7, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:24.19Z,FpmlToolKit.Fpml46,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.6.
+2026-10-11T10:36:24.44Z,FpmlToolKit.Fpml44,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.4.
+2026-10-11T10:36:24.933Z,FpmlToolKit.Fpml511,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.11, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:25.21Z,FpmlToolKit.Fpml45,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.5.
+2026-10-11T10:36:25.563Z,FpmlToolKit.Fpml53,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.3, one assembly per view: confirmation, recordkeeping, reporting, transparency."
+2026-10-11T10:36:25.773Z,Relay.Validation,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:36:26.013Z,FpmlToolKit.Fpml513,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.13, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:26.26Z,FpmlToolKit.Fpml49,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.9.
+2026-10-11T10:36:26.66Z,FpmlToolKit.Fpml55,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.5, one assembly per view: confirmation, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:26.92Z,FpmlToolKit.Fpml43,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.3.
+2026-10-11T10:36:27.177Z,FpmlToolKit.Fpml410,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.10.
+2026-10-11T10:36:27.68Z,FpmlToolKit.Fpml512,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.12, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:27.893Z,FpmlToolKit.Fpml42,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.2.
+2026-10-11T10:36:28.197Z,FpmlToolKit.Fpml52,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.2, one assembly per view: confirmation, reporting."
+2026-10-11T10:36:28.687Z,FpmlToolKit.Fpml514,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.14, one assembly per view: confirmation, legal, pretrade, recordkeeping, reporting, transparency."
+2026-10-11T10:36:28.967Z,FpmlToolKit.Fpml51,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.1, one assembly per view: confirmation, reporting."
+2026-10-11T10:36:29.353Z,FpmlToolKit.Fpml54,2.0.0,Erhan Hosca,"Strongly typed LINQ to XSD classes for FpML 5.4, one assembly per view: confirmation, recordkeeping, reporting, transparency."
+2026-10-11T10:36:29.62Z,FpmlToolKit.Fpml47,2.0.0,Erhan Hosca,Strongly typed LINQ to XSD classes for FpML 4.7.
+2026-10-11T10:36:39.59Z,Relay.Validation.Adapters.InMemory,1.0.0,mohamadrezant,A modular .NET library providing reusable application infrastructure.
+2026-10-11T10:37:01.197Z,Relay.DependencyInjection,1.0.0,mohamadrezant,"A modular .NET library providing Dispatcher, Mapper, and Validation features."
+2026-10-11T10:41:54.19Z,AdNoctem.Substrate.Core,0.1.0,Ad Noctem Collective,Reusable Core APIs for Windows administration and automation.
+2026-10-11T10:41:54.777Z,AdNoctem.Substrate.Diagnostics,0.1.0,Ad Noctem Collective,Reusable Diagnostics APIs for Windows administration and automation.
+2026-10-11T10:41:55.537Z,AdNoctem.Substrate.Interop,0.1.0,Ad Noctem Collective,Reusable Interop APIs for Windows administration and automation.
+2026-10-11T10:41:56.4Z,AdNoctem.Substrate.IO,0.1.0,Ad Noctem Collective,Reusable IO APIs for Windows administration and automation.
+2026-10-11T10:41:56.96Z,AdNoctem.Substrate.Networking,0.1.0,Ad Noctem Collective,Reusable Networking APIs for Windows administration and automation.
+2026-10-11T10:41:57.853Z,AdNoctem.Substrate.Office,0.1.0,Ad Noctem Collective,Reusable Office APIs for Windows administration and automation.
+2026-10-11T10:41:58.563Z,AdNoctem.Substrate.Packages,0.1.0,Ad Noctem Collective,Reusable Packages APIs for Windows administration and automation.
+2026-10-11T10:41:59.19Z,AdNoctem.Substrate.Policies,0.1.0,Ad Noctem Collective,Reusable Policies APIs for Windows administration and automation.
+2026-10-11T10:41:59.813Z,AdNoctem.Substrate.Registry,0.1.0,Ad Noctem Collective,Reusable Registry APIs for Windows administration and automation.
+2026-10-11T10:42:00.447Z,AdNoctem.Substrate.Security,0.1.0,Ad Noctem Collective,Reusable Security APIs for Windows administration and automation.
+2026-10-11T10:42:01.193Z,AdNoctem.Substrate.Windows,0.1.0,Ad Noctem Collective,Reusable Windows APIs for Windows administration and automation.
+2026-10-11T10:48:57.707Z,ModScope.ModbusMaster,1.1.0,Bharat Sabne,"High-performance, cross-platform Modbus RTU, Modbus ASCII, and Modbus TCP master library for .NET with raw frame tracking, industrial endianness converters (Float32, Double64, ASCII, Int64), and cancellation support."
+2026-10-11T10:49:01.613Z,Somepoi.Elin.GameLibs,0.25859432.0,somepoi,"All Elin managed game, Unity and third-party compile references from Steam build 25859432. Full DLLs."
+2026-10-11T11:06:45.503Z,OvoUi.AvaloniaEdit,1.0.0,tiouo,OvoUi code block and themed AvaloniaEdit integration with TextMate highlighting.
+2026-10-11T11:06:48.73Z,OvoUi.AvaloniaEdit.Showcase,1.0.0,tiouo,Preview and highlighted axaml source presentation for OvoUi controls.
+2026-10-11T11:06:49.617Z,OvoUi.AvaloniaEdit.Showcase.Generator,1.0.0,tiouo,Generates axaml source for OvoUi ControlShowcase previews.
+2026-10-11T11:06:50.583Z,OvoUi.Fonts,1.0.0,tiouo,Font resources for OvoUi Avalonia applications.
+2026-10-11T11:06:51.053Z,OvoUi,1.0.0,tiouo,An Avalonia UI control library and theme.
+2026-10-11T11:06:51.79Z,OvoUi.Platform,1.0.0,tiouo,Native macOS and Windows platform integrations for Avalonia applications.
+2026-10-11T11:07:54.06Z,repodrive.win-x64,0.1.0,Howon Lee,"Synchronizes Git repositories, including their .git folders, with the OneDrive app folder while respecting .gitignore."
+2026-10-11T11:07:57.34Z,repodrive.win-x86,0.1.0,Howon Lee,"Synchronizes Git repositories, including their .git folders, with the OneDrive app folder while respecting .gitignore."
+2026-10-11T11:08:00.943Z,repodrive.win-arm64,0.1.0,Howon Lee,"Synchronizes Git repositories, including their .git folders, with the OneDrive app folder while respecting .gitignore."
+2026-10-11T11:08:03.827Z,repodrive.any,0.1.0,Howon Lee,"Synchronizes Git repositories, including their .git folders, with the OneDrive app folder while respecting .gitignore."
+2026-10-11T11:08:07.937Z,repodrive,0.1.0,Howon Lee,"Synchronizes Git repositories, including their .git folders, with the OneDrive app folder while respecting .gitignore."
