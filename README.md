@@ -12,23 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 04:19 UTC
+## Latest list — 2026-10-12 05:20 UTC
 
-New packages created between 2026-10-12 03:20 UTC and 2026-10-12 04:19 UTC.
+New packages created between 2026-10-12 04:19 UTC and 2026-10-12 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T04-19-27-798788Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T05-20-21-932078Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 03:44:10 | [VL.PRC](https://www.nuget.org/packages/VL.PRC) | 1.0.0-rc1 | Amir Bastan | Parametric Robot Control (PRC) for vvvv gamma. |
-| 2026-10-12 03:50:09 | [NanoBus.Transports.Demo](https://www.nuget.org/packages/NanoBus.Transports.Demo) | 0.1.0 | Wayland Young | Lightweight, AOT-first demo/learning transport for NanoBus. |
-| 2026-10-12 03:50:29 | [NanoBus.Transports.InMemory](https://www.nuget.org/packages/NanoBus.Transports.InMemory) | 0.1.0 | Wayland Young | Lightweight, AOT-first in-memory transport for NanoBus. |
-| 2026-10-12 03:54:01 | [LibFuseSharp](https://www.nuget.org/packages/LibFuseSharp) | 1.0.0 | PureLogicCode.com | FUSE 3 high-level mount library for .NET on Linux (libfuse3) and macOS (macFUSE… |
-| 2026-10-12 04:00:05 | [TCIS.Consul.Registration](https://www.nuget.org/packages/TCIS.Consul.Registration) | 1.0.2 | TCIS Core Community and Contr… | TCIS Core Framework is an application framework for building modular, multi-ten… |
-| 2026-10-12 04:00:12 | [MainframeEngine](https://www.nuget.org/packages/MainframeEngine) | 1.1.1 | Mainframe Games | A modular C# game engine on Vulkan: Godot-style scene tree with source-generate… |
-| 2026-10-12 04:00:13 | [MainframeEngine.Templates](https://www.nuget.org/packages/MainframeEngine.Templates) | 1.1.1 | Mainframe Games | dotnet new templates for Mainframe Engine games: mfgame (game library + GameHos… |
-| 2026-10-12 04:07:04 | [SkiaExtensions](https://www.nuget.org/packages/SkiaExtensions) | 0.0.1 | machi_pon | Extensions for SkiaSharp. This is a placeholder release and contains no functio… |
-| 2026-10-12 04:12:22 | [Kite.Abp](https://www.nuget.org/packages/Kite.Abp) | 2.2.0 | SpringLee | 基于.NET10 and Abp Vnext 10.x |
+| 2026-10-12 04:23:33 | [BusyMeter.Plugins](https://www.nuget.org/packages/BusyMeter.Plugins) | 0.2.1 | The Busy Meter authors | Client for the Busy Meter status light's local plugin API (127.0.0.1 only). No… |
+| 2026-10-12 04:27:48 | [FastReport.Plugins.Transport.Demo](https://www.nuget.org/packages/FastReport.Plugins.Transport.Demo) | 2027.1.0 | Fast Reports Inc. | Provides a plugin that integrates cloud transports with FastReport .NET, FastRe… |
+| 2026-10-12 04:27:49 | [FastReport.Transport.Demo](https://www.nuget.org/packages/FastReport.Transport.Demo) | 2027.1.0 | Fast Reports Inc. | Provides transports for saving and loading reports in cloud storage services. |
+| 2026-10-12 04:55:43 | [AioFrameworkWps](https://www.nuget.org/packages/AioFrameworkWps) | 1.0.0 | zhangchuncheng | All in one Framework |
+| 2026-10-12 04:56:41 | [sdo-launcher](https://www.nuget.org/packages/sdo-launcher) | 1.21.0 | naz-hage | sdo-launcher has migrated to sdo-launcher. Install the sdo-launcher package for… |
+| 2026-10-12 05:02:56 | [Activities.YiHaiJiaLi.ComLib](https://www.nuget.org/packages/Activities.YiHaiJiaLi.ComLib) | 1.0.5 | zhangchuncheng | My package description. |
 
 ## Data source
 

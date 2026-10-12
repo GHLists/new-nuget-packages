@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-12T04:23:33.727Z,BusyMeter.Plugins,0.2.1,The Busy Meter authors,Client for the Busy Meter status light's local plugin API (127.0.0.1 only). No third-party packages.
+2026-10-12T04:27:48.85Z,FastReport.Plugins.Transport.Demo,2027.1.0,Fast Reports Inc.,"Provides a plugin that integrates cloud transports with FastReport .NET, FastReport WPF and FastReport Avalonia. Requirements: Any FastReport 2027.1.0.0+ package, NuGet Client 3.4.4+."
+2026-10-12T04:27:49.843Z,FastReport.Transport.Demo,2027.1.0,Fast Reports Inc.,Provides transports for saving and loading reports in cloud storage services.
+2026-10-12T04:55:43.09Z,AioFrameworkWps,1.0.0,zhangchuncheng,All in one Framework
+2026-10-12T04:56:41.72Z,sdo-launcher,1.21.0,naz-hage,"sdo-launcher has migrated to sdo-launcher. Install the sdo-launcher package for the current library. This versatile library simplifies tasks like launching executables, downloading files, executing shell commands, and checking process elevation."
+2026-10-12T05:02:56.143Z,Activities.YiHaiJiaLi.ComLib,1.0.5,zhangchuncheng,My package description.
