@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:20 UTC
+## Latest list — 2026-10-12 03:20 UTC
 
-New packages created between 2026-10-12 01:19 UTC and 2026-10-12 02:20 UTC.
+New packages created between 2026-10-12 02:20 UTC and 2026-10-12 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T02-20-53-608594Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T03-20-34-968717Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 01:25:19 | [YH_SDK_HX_CAMERA](https://www.nuget.org/packages/YH_SDK_HX_CAMERA) | 1.0.2 | YH_SDK_HX_CAMERA | Package Description |
-| 2026-10-12 01:33:59 | [LogCarver.Mcp](https://www.nuget.org/packages/LogCarver.Mcp) | 0.1.0 | Derek | Read-only MCP server that recovers deleted SQL Server rows from the active tran… |
-| 2026-10-12 02:01:00 | [Zeeq.Biome](https://www.nuget.org/packages/Zeeq.Biome) | 1.0.0 | Zeeq | Terse, readable test scenario setup: recreate your entity graph in miniature wi… |
-| 2026-10-12 02:01:03 | [Zeeq.Biome.EntityFrameworkCore](https://www.nuget.org/packages/Zeeq.Biome.EntityFrameworkCore) | 1.0.0 | Zeeq | Entity Framework Core store for Zeeq.Biome: persist a biome's entity graph with… |
+| 2026-10-12 02:28:59 | [HoistDotnet](https://www.nuget.org/packages/HoistDotnet) | 0.1.1 | drezni01 | HoistDotnet: the hoist-core server endpoints hoist-react apps need, as a plugin… |
+| 2026-10-12 02:51:25 | [Components.Maui.Controls](https://www.nuget.org/packages/Components.Maui.Controls) | 1.49.0 | machi_pon | Controls for MAUI application |
+| 2026-10-12 02:52:57 | [IcebergDb](https://www.nuget.org/packages/IcebergDb) | 0.1.0 | Ankush, Iceberg DB | Official .NET C# client for Iceberg Vector Database |
+| 2026-10-12 03:02:43 | [ArchiGeoSharp.Basic](https://www.nuget.org/packages/ArchiGeoSharp.Basic) | 0.1.1 | ArchiFrog | Cross-platform C# geometry kernel for architectural and computational design (.… |
 
 ## Data source
 

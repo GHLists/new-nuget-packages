@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-12T02:28:59.82Z,HoistDotnet,0.1.1,drezni01,"HoistDotnet: the hoist-core server endpoints hoist-react apps need, as a plugin for a .NET host app (AddHoist, UseHoist, MapHoist)."
+2026-10-12T02:51:25.887Z,Components.Maui.Controls,1.49.0,machi_pon,Controls for MAUI application
+2026-10-12T02:52:57.043Z,IcebergDb,0.1.0,"Ankush, Iceberg DB",Official .NET C# client for Iceberg Vector Database
+2026-10-12T03:02:43.183Z,ArchiGeoSharp.Basic,0.1.1,ArchiFrog,"Cross-platform C# geometry kernel for architectural and computational design (.NET 7+). Points, curves, planes, transforms, meshes, and solids. Also targets net48 for .NET Framework on Windows."
