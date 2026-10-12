@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-12T21:22:44.633Z,TheBuilder.SchemaCity,0.1.2,Daniel Schmidt,"See your Umbraco content model as a 3D city in the backoffice, with the relationships between Document Types, schema checks, content usage, change impact and snapshot comparison."
+2026-10-12T21:58:44.457Z,G9SyncData.Server.SnapshotFiles,1.3.0,Iman Kari,"G9SyncData snapshot files for the server (ADR-0072): a subscription's large first download built once as a SQLite file with the device's own DDL, cached by what it holds, and streamed in independently Brotli-compressed, resumable segments that the device copies b-tree to b-tree instead of inserting…"
+2026-10-12T22:02:58.93Z,Squirrel.Integration.Wolverine,1.0.0-preview-0007,Squirrel.Integration.Wolverine,Reusable .NET building blocks for cloud-native applications.
+2026-10-12T22:03:00.08Z,Squirrel.Integration.Wolverine.InMemory,1.0.0-preview-0007,Squirrel.Integration.Wolverine.InMemory,Reusable .NET building blocks for cloud-native applications.
+2026-10-12T22:03:02.897Z,Squirrel.Web,1.0.0-preview-0007,Squirrel.Web,Reusable .NET building blocks for cloud-native applications.
+2026-10-12T22:03:05.107Z,Squirrel.SerilogLogging,1.0.0-preview-0007,Squirrel.SerilogLogging,Reusable .NET building blocks for cloud-native applications.
+2026-10-12T22:03:06.707Z,Squirrel.Security,1.0.0-preview-0007,Squirrel.Security,Reusable .NET building blocks for cloud-native applications.
+2026-10-12T22:14:58.467Z,Gripe.QualityAssurancePack.Github,2.1.34,dpvreony,Collection of packages for assisting in QA during .NET software development on Github.
+2026-10-12T22:15:00.77Z,Gripe.TestAssurancePack.GithubActions,2.1.34,dpvreony,Collection of packages for assisting in Testing .NET Code on Github Actions.
