@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-12T07:40:38.703Z,OpenEmail,0.0.1,OpenEmail,"The official .NET SDK for the OpenEmail API. Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppressions, files, API keys, roles, members, mailbox imports and disposable inboxes from C#."
+2026-10-12T07:46:21.163Z,Xtra.Shared,2.0.2,Xtra.Shared,Package Description
+2026-10-12T07:46:56.293Z,TheNerdCollective.Integrations.Umbraco.Brevo,1.0.0,The Nerd Collective,"Brevo backoffice section, dashboard, and CMS settings reader for Umbraco CMS."
+2026-10-12T07:55:16.783Z,Hexabox.Sdk,2.10.0,Massive Dynamic,"SDK des extensions .NET de Hexabox : commandes du lanceur HexaLauncher, fenêtres d'atelier, widgets d'hexaboard, éléments compacts et alertes de l'hexabox."
+2026-10-12T07:55:18.53Z,Hexabox.Sdk.Ui,2.10.0,Massive Dynamic,"Kit d'interface WinUI des fenêtres d'atelier des extensions Hexabox : contrôles déjà thémés (HxTheme) qui suivent le thème et l'accent de l'hôte, et graphiques (barres, courbes, carte de chaleur, sparkline, tuile chiffre)."
+2026-10-12T08:05:31.5Z,GPSR.Core,1.0.8-alpha,GPSR.Core,Package Description
+2026-10-12T08:05:31.96Z,GPSR.Utils,1.0.8-alpha,GPSR.Utils,Package Description
+2026-10-12T08:05:32.42Z,GPSR.Data,1.0.8-alpha,GPSR.Data,Package Description
+2026-10-12T08:05:33.15Z,GPSR.Runner,1.0.8-alpha,GPSR.Runner,Package Description

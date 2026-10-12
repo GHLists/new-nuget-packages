@@ -12,17 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 07:21 UTC
+## Latest list — 2026-10-12 08:19 UTC
 
-New packages created between 2026-10-12 06:20 UTC and 2026-10-12 07:21 UTC.
+New packages created between 2026-10-12 07:21 UTC and 2026-10-12 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T07-21-15-525087Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T08-19-59-134656Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 06:48:26 | [Plex.MassTransit](https://www.nuget.org/packages/Plex.MassTransit) | 8.0.3 | Tom Lee | A lightweight .NET 8 message bus library with pluggable transports (InMemory an… |
-| 2026-10-12 07:06:20 | [PalindromeLibraryVisalini](https://www.nuget.org/packages/PalindromeLibraryVisalini) | 1.0.0 | Visalini | Package Description |
-| 2026-10-12 07:08:00 | [LogCarverGuard.Local](https://www.nuget.org/packages/LogCarverGuard.Local) | 0.1.0 | Derek | Local MCP server that puts a statement guard, an optional read-only mode and an… |
+| 2026-10-12 07:40:38 | [OpenEmail](https://www.nuget.org/packages/OpenEmail) | 0.0.1 | OpenEmail | The official .NET SDK for the OpenEmail API. Send email and broadcasts, work wi… |
+| 2026-10-12 07:46:21 | [Xtra.Shared](https://www.nuget.org/packages/Xtra.Shared) | 2.0.2 | Xtra.Shared | Package Description |
+| 2026-10-12 07:46:56 | [TheNerdCollective.Integrations.Umbraco.Brevo](https://www.nuget.org/packages/TheNerdCollective.Integrations.Umbraco.Brevo) | 1.0.0 | The Nerd Collective | Brevo backoffice section, dashboard, and CMS settings reader for Umbraco CMS. |
+| 2026-10-12 07:55:16 | [Hexabox.Sdk](https://www.nuget.org/packages/Hexabox.Sdk) | 2.10.0 | Massive Dynamic | SDK des extensions .NET de Hexabox : commandes du lanceur HexaLauncher, fenêtre… |
+| 2026-10-12 07:55:18 | [Hexabox.Sdk.Ui](https://www.nuget.org/packages/Hexabox.Sdk.Ui) | 2.10.0 | Massive Dynamic | Kit d'interface WinUI des fenêtres d'atelier des extensions Hexabox : contrôles… |
+| 2026-10-12 08:05:31 | [GPSR.Core](https://www.nuget.org/packages/GPSR.Core) | 1.0.8-alpha | GPSR.Core | Package Description |
+| 2026-10-12 08:05:31 | [GPSR.Utils](https://www.nuget.org/packages/GPSR.Utils) | 1.0.8-alpha | GPSR.Utils | Package Description |
+| 2026-10-12 08:05:32 | [GPSR.Data](https://www.nuget.org/packages/GPSR.Data) | 1.0.8-alpha | GPSR.Data | Package Description |
+| 2026-10-12 08:05:33 | [GPSR.Runner](https://www.nuget.org/packages/GPSR.Runner) | 1.0.8-alpha | GPSR.Runner | Package Description |
 
 ## Data source
 
