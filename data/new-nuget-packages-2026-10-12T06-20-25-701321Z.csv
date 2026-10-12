@@ -1,0 +1,298 @@
+created_at,package,version,authors,description
+2026-10-12T05:26:12.067Z,Fdw.Agents.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:12.483Z,Fdw.Services.Workspaces.Tds,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:13.4Z,Fdw.Services.Credentials.Sql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:13.977Z,Fdw.Orchestration.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:13Z,Fdw.Services.EtlMappers.Pooled,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:14.293Z,Fdw.Types.MsSql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:14.63Z,Fdw.Services.Resiliency.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:14.957Z,Fdw.Aegis,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:15.303Z,Fdw.Services.Pipelines,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:15.65Z,Fdw.Services.Notifications.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:15.983Z,Fdw.Services.Credentials,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:16.35Z,Fdw.Services.Authorization.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:16.72Z,Fdw.Aui.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:17.063Z,Fdw.Services.Connections.RoslynWorkspace.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:17.453Z,Fdw.Data.MsSql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:17.83Z,Fdw.Collections,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:18.13Z,Fdw.Registration.SourceGenerators,1.2.0,Fdw Team,Lightweight source generator for cross-assembly TypeOption and Implementation registration. Generates module initializers that register options with their collections when assemblies are loaded. Designed to be embedded transitively in consuming NuGet packages.
+2026-10-12T05:26:18.313Z,Fdw.Configuration.SourceGenerators,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:18.533Z,Fdw.Services.Registration.SourceGenerators,1.2.0,Fdw Team,"Opt-in source generator that discovers every [ServiceTypeCollection] domain, builds a cross-domain dependency graph from Configure/Register/Initialize call sites, and emits a module initializer that registers each domain into PlatformServices in a dependency-safe order."
+2026-10-12T05:26:18.723Z,Fdw.Web.Clients.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:19.08Z,Fdw.Services.Registration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:19.433Z,Fdw.Data.Http,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:19.753Z,Fdw.Services.Execution.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:20.113Z,Fdw.Services.ExternalIdentityProviders,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:20.513Z,Fdw.Sql.Commands,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:20.863Z,Fdw.SourceGenerators,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:21.287Z,Fdw.Web.Search.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:21.783Z,Fdw.Data.SourceGenerators,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:21.98Z,Fdw.Configuration.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:22.3Z,Fdw.Hosting.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:22.623Z,Fdw.Services.Authorization.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:23.233Z,Fdw.VsCodeShell,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:23.54Z,Fdw.Data.RowSources.Json,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:23.917Z,Fdw.Data.PostgreSql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:24.307Z,Fdw.Calculations,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:24.727Z,Fdw.Services.Data.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:25.307Z,Fdw.Services.Authentication.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:25.73Z,Fdw.TUI.Management,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:26.23Z,Fdw.Services.Etl.Projects.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:26.623Z,Fdw.Roslyn.Commands.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:27.02Z,Fdw.Web.Http.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:27.37Z,Fdw.DevSession.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:27.687Z,Fdw.UI.Pipelines.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:28.03Z,Fdw.Web.Search.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:28.413Z,Fdw.CodeBuilder.Analysis,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:28.727Z,Fdw.Data.SchemaImporters.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:29.36Z,Fdw.Operations,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:29.743Z,Fdw.Services.EtlMappers,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:30.203Z,Fdw.Commands.Data.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:30.69Z,Fdw.Data.DataNodes,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:32.007Z,Fdw.UI.Pipelines.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:32.41Z,Fdw.Services.EtlMappers.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:32.75Z,Fdw.DevSession,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:33.127Z,Fdw.UI.Themes.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:33.67Z,Fdw.MessageLogging.SourceGenerators,1.2.0,Fdw Team,Source generator for logging methods that return IGenericMessage. Fork of Microsoft.Extensions.Logging generators with extended return type support.
+2026-10-12T05:26:33.947Z,Fdw.Results.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:34.297Z,Fdw.WebMcp.Mcp,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:34.713Z,Fdw.Calculations.SignalR,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:35.04Z,Fdw.Services.Multitenancy.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:35.893Z,Fdw.Services.Data.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:36.307Z,Fdw.Data.RowSources.FixedWidth.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:36.63Z,Fdw.UI,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:36.937Z,Fdw.WebMcp.Hosting,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:37.293Z,Fdw.Services.Settings,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:37.797Z,Fdw.Services,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:38.223Z,Fdw.Services.Etl.JobTriggerSources,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:38.52Z,Fdw.Types.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:38.877Z,Fdw.Validation.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:39.223Z,Fdw.Services.Pipelines.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:39.787Z,Fdw.Services.Resiliency.RetryNotify,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:41.223Z,Fdw.CodeBuilder.CSharp,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:42.073Z,Fdw.Data.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:42.46Z,Fdw.Services.Connections.Http,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:42.96Z,Fdw.StateCollections,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:43.31Z,Fdw.Services.Connections,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:43.693Z,Fdw.Services.SessionState.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:44.053Z,Fdw.Services.Data.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:44.44Z,Fdw.Services.SessionState,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:44.86Z,Fdw.Collections.SourceGenerators,1.2.0,Fdw Team,Source generators for TypeCollections including cross-assembly discovery. Enables type options to be distributed across multiple NuGet packages.
+2026-10-12T05:26:45.08Z,Fdw.Services.Notifications.System,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:45.483Z,Fdw.Services.Etl.Projects.Registration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:45.91Z,Fdw.Services.Identity.ClientCredentials,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:46.29Z,Fdw.Messages,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:46.64Z,Fdw.Services.Credentials.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:47.083Z,Fdw.Validation.FastEndpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:47.8Z,Fdw.Services.Users.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:49.007Z,Fdw.Services.SecretManagers,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:49.91Z,Fdw.Data.Files,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:50.31Z,Fdw.DevSession.McpServer,1.2.0,Fdw Team,"Stdio MCP server exposing development sessions: isolated copies (branch or worktree), session lifecycle, and strand fencing for concurrent agents working in one session."
+2026-10-12T05:26:50.693Z,Fdw.Web.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:50.987Z,Fdw.Services.Telemetry,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:51.373Z,Fdw.Schema.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:51.767Z,Fdw.VsCodeShell.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:52.143Z,Fdw.UI.Lineage.Clients.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:52.51Z,Fdw.Protocols.Tds,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:52.83Z,Fdw.Web.Analytics.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:53.26Z,Fdw.Aegis.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:53.637Z,Fdw.Services.Authentication.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:54.13Z,Fdw.Services.Connections.Http.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:54.553Z,Fdw.Services.TokenManagers,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:55.007Z,Fdw.Operations.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:55.463Z,Fdw.UI.Themes.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:55.807Z,Fdw.Services.TokenManagers.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:56.253Z,Fdw.UI.Themes.Registration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:56.64Z,Fdw.UI.Components.TUI,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:57.047Z,Fdw.Claims.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:57.363Z,Fdw.Data.Serialization,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:57.717Z,Fdw.Data.DataSets.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:58.05Z,Fdw.Commands.Development.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:58.347Z,Fdw.Services.Authorization.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:58.73Z,Fdw.Services.Agents.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:59.107Z,Fdw.Web.RestEndpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:59.523Z,Fdw.Services.Connections.RoslynWorkspace.Registration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:26:59.82Z,Fdw.Data.Transformations.Injection,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:00.177Z,Fdw.Services.Notifications.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:00.547Z,Fdw.Services.Scheduling.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:00.92Z,Fdw.Services.Connections.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:01.637Z,Fdw.Services.Authorization,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:02.137Z,Fdw.Conventions.FileSplitter,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:02.43Z,Fdw.UI.Themes.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:02.823Z,Fdw.Data.RowSources.FixedWidth,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:03.143Z,Fdw.Services.Pipelines.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:03.56Z,Fdw.Services.Etl.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:03.973Z,Fdw.Data.RowSources,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:04.287Z,Fdw.Data.Lineage,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:04.59Z,Fdw.Data.JsonSchema,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:04.98Z,Fdw.Processors.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:05.29Z,Fdw.Calculations.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:05.63Z,Fdw.Data.Transformations.Numeric,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:06.05Z,Fdw.Services.Notifications.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:06.39Z,Fdw.Security.Hashing,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:06.717Z,Fdw.Services.Users,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:07.137Z,Fdw.Services.Users.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:07.59Z,Fdw.Aegis.McpServer,1.2.0,Fdw Team,The Aegis Gateway's stdio MCP tool surface and host wiring: deterministic approval-policy evaluation and secret-below-the-boundary injection. The entry point that hosts it lives in reference-servicetypes.
+2026-10-12T05:27:07.97Z,Fdw.Services.Catalog.Clients.Models,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:08.237Z,Fdw.Configuration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:08.613Z,Fdw.Services.DataVault.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:08.993Z,Fdw.Services.Data.Clients.Models,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:09.327Z,Fdw.UI.Pipelines.Clients.Models,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:09.677Z,Fdw.Services.Multitenancy,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:10.077Z,Fdw.Services.Etl.Projects,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:10.503Z,Fdw.Mcp.Bus,1.2.0,Fdw Team,MCP event bus implementation. In-memory ring + append-only segmented file durability. Publishers/sinks use the IMcpEventBus contract from Fdw.Mcp.Bus.Abstractions.
+2026-10-12T05:27:10.837Z,Fdw.Services.RateLimiting.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:11.153Z,Fdw.Services.Settings.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:11.54Z,Fdw.Data.DataContainers.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:11.867Z,Fdw.Mcp.Hosting,1.2.0,Fdw Team,"Base MCP server host. Wires the ModelContextProtocol server and composes its tools from the McpToolTypes TypeCollection, so a server gains a tool set by referencing a tool package rather than naming each tool class in Program.cs."
+2026-10-12T05:27:12.2Z,Fdw.Services.Pipelines.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:12.607Z,Fdw.Data.RowSources.DataReader,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:12.953Z,Fdw.Services.Multitenancy.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:13.327Z,Fdw.Orchestration.Pipelines,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:14.227Z,Fdw.Services.EtlMappers.Dynamic,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:14.613Z,Fdw.Hosting.Cli,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:14.98Z,Fdw.UI.Themes,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:15.38Z,Fdw.Services.Settings.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:15.783Z,Fdw.Commands.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:16.17Z,Fdw.Services.Scheduling.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:16.543Z,Fdw.Data,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:16.87Z,Fdw.Services.Transformations.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:17.21Z,Fdw.Results,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:17.527Z,Fdw.Aui,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:17.843Z,Fdw.Web.Http.Authentication,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:18.263Z,Fdw.Data.RowSources.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:18.667Z,Fdw.Services.Connections.RoslynWorkspace,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:19.01Z,Fdw.Intelligence,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:19.343Z,Fdw.Services.SessionState.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:19.693Z,Fdw.Services.Identity.JwtAssertion,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:20.08Z,Fdw.Tds.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:20.477Z,Fdw.Validation,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:20.777Z,Fdw.Data.RowSources.Delimited,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:21.073Z,Fdw.Services.Resiliency.PrimaryBackup,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:21.433Z,Fdw.Services.Catalog.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:21.9Z,Fdw.Services.Connections.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:22.28Z,Fdw.Operations.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:22.7Z,Fdw.Services.Workspaces.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:23.083Z,Fdw.Security.Encryption,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:23.48Z,Fdw.Services.Identity.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:23.81Z,Fdw.Services.Workspaces,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:24.177Z,Fdw.Services.Hosts,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:24.54Z,Fdw.Schema.Ddl,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:24.903Z,Fdw.Services.SecretManagers.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:25.25Z,Fdw.Services.Workspaces.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:25.553Z,Fdw.Operations.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:25.917Z,Fdw.Services.Hosts.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:26.3Z,Fdw.UI.Web.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:26.63Z,Fdw.Services.SecretManagers.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:27.223Z,Fdw.Services.SecretManagers.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:27.61Z,Fdw.Web.Calculations.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:27.997Z,Fdw.Schema.Clients.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:28.3Z,Fdw.Services.Messaging.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:28.63Z,Fdw.UI.Services,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:28.95Z,Fdw.Services.Resiliency,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:29.307Z,Fdw.Services.Logging.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:29.66Z,Fdw.Sql.Commands.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:29.98Z,Fdw.Expressions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:30.333Z,Fdw.Data.DataStores.SqlServer,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:30.723Z,Fdw.Data.Transformations.Boolean,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:31.07Z,Fdw.Services.Agents,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:31.45Z,Fdw.UI.Abstractions,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:31.763Z,Fdw.Configuration.Endpoints,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:32.07Z,Fdw.Services.SessionState.Clients.Registration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:32.457Z,Fdw.Services.Telemetry.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:32.877Z,Fdw.Services.Connections.MsSql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:33.387Z,Fdw.Services.Connections.PostgreSql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:33.84Z,Fdw.Data.Transformations,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:34.243Z,Fdw.MessageLogging.Abstractions,1.2.0,Fdw Team,Extended logging abstractions with IGenericMessage return types. Fork of Microsoft.Extensions.Logging.Abstractions with return value support.
+2026-10-12T05:27:34.573Z,Fdw.Services.Messaging.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:35.01Z,Fdw.Data.Transformations.Text,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:35.383Z,Fdw.Commands.Data.Fluency,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:35.787Z,Fdw.Services.Scheduling.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:36.297Z,Fdw.Data.Transformations.Conditional,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:36.713Z,Fdw.Services.Connections.Sql,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:37.08Z,Fdw.UI.Rendering.Spectre,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:37.45Z,Fdw.CodeBuilder.Analysis.CSharp,1.2.0,Fdw Team,C# testing utilities for Fdw CodeBuilder - compile and test generated code
+2026-10-12T05:27:37.79Z,Fdw.SignalR,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:38.077Z,Fdw.Services.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:38.45Z,Fdw.Configuration.UI.SourceGenerators,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:41.447Z,Fdw.Services.Identity.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:41.947Z,Fdw.Services.Logging,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:42.333Z,Fdw.Services.Data,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:42.797Z,Fdw.Services.Quality.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:43.213Z,Fdw.Services.Etl,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:43.647Z,Fdw.Data.Sqlite,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:44.29Z,Fdw.Services.Messaging,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:44.59Z,Fdw.Data.OpenApi,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:44.937Z,Fdw.Data.OData,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:45.343Z,Fdw.Services.Resiliency.Polly,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:45.72Z,Fdw.Data.RowSources.Xml,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:46.087Z,Fdw.Services.Notifications,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:46.483Z,Fdw.Services.ExternalIdentityProviders.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:47.493Z,Fdw.Data.Configuration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:48.723Z,Fdw.Roslyn.Commands,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:49.367Z,Fdw.Schema.Abstractions,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:49.677Z,Fdw.Data.Builders,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:50.013Z,Fdw.UI.Components.RazorConsole,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:50.41Z,Fdw.UI.Components.RazorConsole.SourceGenerators,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:50.747Z,Fdw.Data.DataStores.Rest,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:51.177Z,Fdw.Aegis.Configuration,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:51.533Z,Fdw.Data.DataSets,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:51.92Z,Fdw.UI.Schema.Clients.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:52.273Z,Fdw.Services.Quality,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:52.673Z,Fdw.Data.Transformations.DateTime,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:53.043Z,Fdw.Services.Identity,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:53.44Z,Fdw.Services.Multitenancy.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:53.853Z,Fdw.Services.Quality.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:54.353Z,Fdw.Services.Messaging.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:54.69Z,Fdw.Services.Scheduling,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:55.287Z,Fdw.Schema.Endpoints,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:56.053Z,Fdw.Data.DataPaths,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:56.373Z,Fdw.Services.RateLimiting,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:56.677Z,Fdw.Web.Calculations.Clients.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:57.05Z,Fdw.Etl.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:57.41Z,Fdw.StateCollections.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:57.747Z,Fdw.Services.Users.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:58.167Z,Fdw.Mcp.Bus.Abstractions,1.2.0,Fdw Team,"MCP event bus abstractions — McpEvent, ViewIntent, IMcpEventBus. Publisher/subscriber surface with replay-by-id and replay-by-time. Implementations live in Fdw.Mcp.Bus."
+2026-10-12T05:27:58.483Z,Fdw.CodeBuilder.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:58.82Z,Fdw.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:59.143Z,Fdw.Web.Analytics.Clients.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:59.477Z,Fdw.Calculations.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:27:59.853Z,Fdw.Web.Search.Clients.Models,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:00.127Z,Fdw.Services.Connections.Sqlite,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:00.52Z,Fdw.Data.RowSources.Http,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:00.817Z,Fdw.Services.Calculations,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:01.19Z,Fdw.Intelligence.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:01.47Z,Fdw.Commands.Data,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:01.77Z,Fdw.Workspace.Management,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:02.06Z,Fdw.Services.Data.SignalR,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:02.753Z,Fdw.Workspace.Roslyn,1.2.0,Fdw Team,Roslyn workspace management with snapshot/rollback capabilities for Fdw development tools.
+2026-10-12T05:28:03.037Z,Fdw.Schema.Ddl.MsSql,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:03.407Z,Fdw.Services.Calculations.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:03.763Z,Fdw.Services.Terminal.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:04.08Z,Fdw.Services.Quality.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:04.407Z,Fdw.Services.Catalog.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:04.787Z,Fdw.Web.Api,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:05.247Z,Fdw.Calculations.Aggregations,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:05.637Z,Fdw.UI.Components,1.2.0,Fdw,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:05.933Z,Fdw.WebMcp.Abstractions,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:06.217Z,Fdw.Services.DataVault,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:06.577Z,Fdw.Sql.Workspace,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:06.947Z,Fdw.Services.Authentication,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:07.303Z,Fdw.Web.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:28:07.667Z,Fdw.Services.Connections.Clients,1.2.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-10-12T05:37:32.247Z,Octopus.Nuke.Build,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:37:39.41Z,Octopus.Nuke.Build.Shared,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:37:49.457Z,Octopus.Nuke.Common,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:37:57.357Z,Octopus.Nuke.Components,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:16.343Z,Octopus.Nuke.GlobalTool,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:26.707Z,Octopus.Nuke.ProjectModel,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:34.31Z,Octopus.Nuke.SolutionModel,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:36.467Z,Octopus.Nuke.Tooling,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:38.91Z,Octopus.Nuke.Utilities,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:46.253Z,Octopus.Nuke.Utilities.IO.Compression,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:38:54.133Z,Octopus.Nuke.Utilities.IO.Globbing,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:39:01.12Z,Octopus.Nuke.Utilities.Net,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:39:02.95Z,Octopus.Nuke.Utilities.Text.Json,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T05:39:09.497Z,Octopus.Nuke.Utilities.Text.Yaml,10.1.99,Matthias Koch and contributors,The AKEless Build System for C#/.NET
+2026-10-12T06:07:56.317Z,LeXtudio.DevFlow.Agent.Jalium,0.3.1,LeXtudio.DevFlow.Agent.Jalium,Package Description
+2026-10-12T06:14:03.413Z,LeXtudio.DevFlow.Broker,0.3.1,LeXtudio.DevFlow.Broker,Broker daemon that manages DevFlow agent registration and port assignment across multiple running apps.
