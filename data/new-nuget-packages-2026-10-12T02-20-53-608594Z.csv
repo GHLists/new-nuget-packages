@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-12T01:25:19.267Z,YH_SDK_HX_CAMERA,1.0.2,YH_SDK_HX_CAMERA,Package Description
+2026-10-12T01:33:59.107Z,LogCarver.Mcp,0.1.0,Derek,Read-only MCP server that recovers deleted SQL Server rows from the active transaction log (fn_dblog). No Audit/CDC/Change Tracking needed.
+2026-10-12T02:01:00.947Z,Zeeq.Biome,1.0.0,Zeeq,"Terse, readable test scenario setup: recreate your entity graph in miniature with blueprints, typed parent/child chaining, sequences, and a pluggable store."
+2026-10-12T02:01:03.31Z,Zeeq.Biome.EntityFrameworkCore,1.0.0,Zeeq,Entity Framework Core store for Zeeq.Biome: persist a biome's entity graph with a DbContext in one SaveChanges.

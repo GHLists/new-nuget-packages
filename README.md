@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 01:19 UTC
+## Latest list — 2026-10-12 02:20 UTC
 
-New packages created between 2026-10-12 00:20 UTC and 2026-10-12 01:19 UTC.
+New packages created between 2026-10-12 01:19 UTC and 2026-10-12 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T01-19-52-279837Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T02-20-53-608594Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 00:21:54 | [Ourogen](https://www.nuget.org/packages/Ourogen) | 0.0.1-alpha | Scott Sanderson | Package Description |
-| 2026-10-12 00:30:10 | [StaxiChat.Maui](https://www.nuget.org/packages/StaxiChat.Maui) | 1.0.0 | NhatNL | SDK chat Staxi cho MAUI: một WebView engine gắn cố định vào Grid của ứng dụng c… |
-| 2026-10-12 01:02:24 | [VsMcpBridge](https://www.nuget.org/packages/VsMcpBridge) | 1.0.0 | ric-ros | MCP server that lets AI coding agents drive a running Visual Studio on Windows:… |
+| 2026-10-12 01:25:19 | [YH_SDK_HX_CAMERA](https://www.nuget.org/packages/YH_SDK_HX_CAMERA) | 1.0.2 | YH_SDK_HX_CAMERA | Package Description |
+| 2026-10-12 01:33:59 | [LogCarver.Mcp](https://www.nuget.org/packages/LogCarver.Mcp) | 0.1.0 | Derek | Read-only MCP server that recovers deleted SQL Server rows from the active tran… |
+| 2026-10-12 02:01:00 | [Zeeq.Biome](https://www.nuget.org/packages/Zeeq.Biome) | 1.0.0 | Zeeq | Terse, readable test scenario setup: recreate your entity graph in miniature wi… |
+| 2026-10-12 02:01:03 | [Zeeq.Biome.EntityFrameworkCore](https://www.nuget.org/packages/Zeeq.Biome.EntityFrameworkCore) | 1.0.0 | Zeeq | Entity Framework Core store for Zeeq.Biome: persist a biome's entity graph with… |
 
 ## Data source
 
