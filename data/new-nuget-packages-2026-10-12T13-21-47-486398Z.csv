@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-10-12T12:20:12.693Z,MYear.ODA.Adapter.Access,3.0.0,Robin.zhu,MYear.ODA.Adapter.Access 是 MYear.ODA ORM组件用于访问 Access 数据库的适配器，也可以单独使用;
+2026-10-12T12:21:07.533Z,MYear.ODA.Adapter.DB2,3.0.0,Robin.zhu,MYear.ODA.Adapter.DB2 是 MYear.ODA ORM组件用于访问 DB2 数据库的适配器，也可以单独使用;
+2026-10-12T12:22:14.78Z,MYear.ODA.Adapter.MsSql,3.0.0,Robin.zhu,"MYear.ODA 是数据库访问的 ORM 组件,配合开发工具生成业务服务的模型代，规范项目数据库访问代码、减少bug、提高开发效率、提高数据访问性能。 3.0版本以后，不同数据库访问适配器单独开。目前已有 SqlServer、MySql、Oracle、 DB2 、QLite、Access、sybase、informix 等适配器 ;"
+2026-10-12T12:22:49.57Z,MYear.ODA.Adapter.MySql,3.0.0,Robin.zhu,MYear.ODA.Adapter.MySql 是 MYear.ODA ORM组件用于访问 MySql 数据库的适配器，也可以单独使用;功能与 MYear.ODA.Adapter.MySql2一样，区在于使用ADO.net的驱动不同
+2026-10-12T12:23:25.09Z,MYear.ODA.Adapter.MySql2,3.0.0,Robin.zhu,MYear.ODA.Adapter.MySql2 是 MYear.ODA ORM组件用于访问 MySql 数据库的适配器，也可以单独使用;功能与 MYear.ODA.Adapter.MySql一样，区在于使用ADO.net的驱动不同
+2026-10-12T12:23:50.237Z,MYear.ODA.Adapter.Informix,3.0.0,Robin.zhu,MYear.ODA.Adapter.Informix 是 MYear.ODA ORM组件用于访问 Informix 数据库的适配器，也可以单独使用;
+2026-10-12T12:25:29.67Z,MYear.ODA.Adapter.Oracle,3.0.0,Robin.zhu,MYear.ODA.Adapter.Oracle 是 MYear.ODA ORM组件用于访问 Oracle 数据库的适配器，也可以单独使用;
+2026-10-12T12:25:52.65Z,MYear.ODA.Adapter.PostgreSQL,3.0.0,Robin.zhu,MYear.ODA.Adapter.PostgreSQL 是 MYear.ODA ORM组件用于访问 PostgreSQL 数据库的适配器，也可以单独使用;
+2026-10-12T12:26:15.16Z,MYear.ODA.Adapter.SQLite,3.0.0,Robin.zhu,MYear.ODA.Adapter.SQLite 是 MYear.ODA ORM组件用于访问 SQLite 数据库的适配器，也可以单独使用;
+2026-10-12T12:26:42.367Z,MYear.ODA.Adapter.Sybase,3.0.0,Robin.zhu,MYear.ODA.Adapter.Sybase 是 MYear.ODA ORM组件用于访问 Sybase 数据库的适配器，也可以单独使用;
+2026-10-12T12:27:59.09Z,Umbraco.Community.RecentMediaPicker,1.0.0,Crumpled Dog,An alternative Umbraco Media Picker that surfaces recently uploaded media first - by you or by anyone - so editors don't have to remember which folder they put it in.
+2026-10-12T12:28:40.517Z,Bitenovac.DecompressionAlgorithms.BuhlmannZhl16c,10.0.0,Radivoje Milutinovic,The Bühlmann ZHL-16C decompression model with gradient factors for the Bitenovac dive planner.
+2026-10-12T12:28:42.183Z,Bitenovac.DecompressionAlgorithms.Core,10.0.0,Radivoje Milutinovic,"Model-independent dive planning for the Bitenovac decompression libraries: dive plans, gas, oxygen exposure and reserve calculations."
+2026-10-12T12:28:45Z,Bitenovac.DecompressionAlgorithms.Units,10.0.0,Radivoje Milutinovic,"Strongly typed depth, pressure and volume units for the Bitenovac decompression libraries."
+2026-10-12T12:28:48.013Z,Bitenovac.DecompressionCalculator.Export,10.0.0,Radivoje Milutinovic,"Profile charts, PDF dive sheets and text summaries of Bitenovac dive plans."
+2026-10-12T12:28:50.85Z,Bitenovac.DecompressionCalculator.Model,10.0.0,Radivoje Milutinovic,"Dive plan documents, validation, unit conversion and calculation for apps built on the Bitenovac decompression libraries."
+2026-10-12T12:49:03.48Z,nanoFramework.Iot.Device.Max30100,1.0.1,nanoframework,MAX30100 pulse oximeter and heart-rate sensor over I2C for .NET nanoFramework.
+2026-10-12T12:52:58.967Z,SecureFileUpload,0.1.0,Mohamed Talaat Mansour,A reusable library for secure file uploads in ASP.NET Core.
+2026-10-12T12:55:56.817Z,Sia.Spirv.Compiler,0.0.23,Sia.Spirv.Compiler,Package Description
+2026-10-12T13:06:20.597Z,Unclaimable.FluentValidation,0.8.4,Perry3D.nl,FluentValidation rules for Unclaimable username and identifier checks.
+2026-10-12T13:11:56.563Z,NCoreUtils.Maybe.Analyzers,3.4.0,Artyom Antyipin,Roslyn analyzers for NCoreUtils.Maybe. Referenced automatically by the NCoreUtils.Maybe package.
