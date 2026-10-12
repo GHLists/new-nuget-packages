@@ -12,26 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 17:21 UTC
+## Latest list — 2026-10-12 18:22 UTC
 
-New packages created between 2026-10-12 16:21 UTC and 2026-10-12 17:21 UTC.
+New packages created between 2026-10-12 17:21 UTC and 2026-10-12 18:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T17-21-11-376653Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T18-22-07-126594Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 16:37:00 | [ClassSaver2](https://www.nuget.org/packages/ClassSaver2) | 0.1.2 | nglamdev | Fast compile-time binary serialization source generator for C#. |
-| 2026-10-12 16:47:37 | [LuxMediator](https://www.nuget.org/packages/LuxMediator) | 1.0.0 | Anonymous | (●'◡'●) |
-| 2026-10-12 16:53:57 | [Aspose.PSD.FOSS](https://www.nuget.org/packages/Aspose.PSD.FOSS) | 26.10.0 | Aspose | Aspose.PSD FOSS for .NET provides open-source solution for PSD and PSB file rea… |
-| 2026-10-12 17:02:04 | [Ais.Net.Broadcaster](https://www.nuget.org/packages/Ais.Net.Broadcaster) | 1.0.0 | Endjin Limited | Broadcasts NMEA AIS sentences to TCP and WebSocket clients: replay a recording… |
-| 2026-10-12 17:02:06 | [Ais.Net.Broadcaster.Cli](https://www.nuget.org/packages/Ais.Net.Broadcaster.Cli) | 1.0.0 | Endjin Limited | Command-line NMEA AIS broadcaster: replays a recording or relays a live feed to… |
-| 2026-10-12 17:02:08 | [Ais.Net.Receiver.Benchmarks](https://www.nuget.org/packages/Ais.Net.Receiver.Benchmarks) | 1.0.0 | Ais.Net.Receiver.Benchmarks | Package Description |
-| 2026-10-12 17:03:56 | [ClassSaver2Test](https://www.nuget.org/packages/ClassSaver2Test) | 1.0.0 | ClassSaver2Test | Package Description |
-| 2026-10-12 17:05:26 | [VintranExternalV2.Grpc.Contracts](https://www.nuget.org/packages/VintranExternalV2.Grpc.Contracts) | 1.6.0 | Vintran Ltd | gRPC service contracts, generated stubs for VantPay, VtPass, and the shared ext… |
-| 2026-10-12 17:08:22 | [VenEl.ModularMCP.ServiceNow](https://www.nuget.org/packages/VenEl.ModularMCP.ServiceNow) | 1.0.0 | VenEl | VenEl Modular MCP Plugin - VenEl.ModularMCP.ServiceNow |
-| 2026-10-12 17:09:53 | [Egov.Integrations.MPay.Soap](https://www.nuget.org/packages/Egov.Integrations.MPay.Soap) | 10.0.1 | E-Governance Agency (EGA) | A reusable library that helps service providers integrate with MPay using the S… |
-| 2026-10-12 17:12:24 | [Parsley.Runtime](https://www.nuget.org/packages/Parsley.Runtime) | 1.0.0 | honey the codewitch | The runtime for the Parsley parser synthesizer |
-| 2026-10-12 17:12:59 | [Parsley.Generator](https://www.nuget.org/packages/Parsley.Generator) | 1.0.0 | honey the codewitch | Synthesizes a Parsley parser, lexer and evaluator into a partial class marked [… |
+| 2026-10-12 17:25:45 | [Fuaran.Core.Unit](https://www.nuget.org/packages/Fuaran.Core.Unit) | 0.37.0 | Andrew J. Willshire | Fuaran.Core.Unit — a unit is a value: the runtime dimension algebra over a stat… |
+| 2026-10-12 17:30:46 | [Bfs.Seed.OpenApi](https://www.nuget.org/packages/Bfs.Seed.OpenApi) | 0.5.0 | Black Forest Sentinel | OpenAPI 2.0 (Swagger) für Azure Functions (dotnet-isolated) in Sentinel-Seed-Pr… |
+| 2026-10-12 17:32:12 | [XAvalonia.Splashscreen](https://www.nuget.org/packages/XAvalonia.Splashscreen) | 0.2.0 | Karen Liliou | XAvalonia splash screen plugin — displays an image defined in the technical con… |
+| 2026-10-12 17:45:04 | [LiteRtLmSharp.runtime.linux-arm64](https://www.nuget.org/packages/LiteRtLmSharp.runtime.linux-arm64) | 1.3.0 | LiteRtLmSharp contributors | Native LiteRT-LM runtime (linux-arm64) for LiteRtLmSharp. Built from LiteRT-LM… |
+| 2026-10-12 17:45:07 | [LiteRtLmSharp.runtime.android-x64](https://www.nuget.org/packages/LiteRtLmSharp.runtime.android-x64) | 1.3.0 | LiteRtLmSharp contributors | Native LiteRT-LM runtime (android-x64) for LiteRtLmSharp. Built from LiteRT-LM… |
+| 2026-10-12 17:47:17 | [CloudySkySoftware.Pulumi.FlyMachines](https://www.nuget.org/packages/CloudySkySoftware.Pulumi.FlyMachines) | 0.0.8 | Cloudy Sky Software | A Pulumi package for creating and managing FlyMachines resources. |
+| 2026-10-12 17:48:10 | [Stellaegis.Blobs](https://www.nuget.org/packages/Stellaegis.Blobs) | 1.0.1 | FRi | A storage abstraction for opaque binary content: IBlobStore, addressed by holde… |
+| 2026-10-12 17:48:10 | [Stellaegis.Blobs.FileSystem](https://www.nuget.org/packages/Stellaegis.Blobs.FileSystem) | 1.0.1 | FRi | Filesystem adapter for Stellaegis.Blobs: one directory per holder and blob spac… |
+| 2026-10-12 17:53:02 | [DevX.Cli](https://www.nuget.org/packages/DevX.Cli) | 1.7.0 | DevX.Cli | Package Description |
+| 2026-10-12 17:54:40 | [Eternet.Data.ReadReplica](https://www.nuget.org/packages/Eternet.Data.ReadReplica) | 1.0.0 | Eternet.Data.ReadReplica | Routes read-only HTTP endpoints (generated OData reads) to the PostgreSQL read-… |
+| 2026-10-12 18:12:48 | [Novolis.Transports.Ed2k](https://www.nuget.org/packages/Novolis.Transports.Ed2k) | 2026.1.11.75 | Novolis | Clean-room eD2k server and peer protocol client with file identifiers, source d… |
+| 2026-10-12 18:12:51 | [Novolis.Transports.Kad](https://www.nuget.org/packages/Novolis.Transports.Kad) | 2026.1.11.75 | Novolis | Clean-room eMule Kad discovery and routing primitives over UDP. |
+| 2026-10-12 18:12:53 | [Novolis.Transports.NetworkPath](https://www.nuget.org/packages/Novolis.Transports.NetworkPath) | 2026.1.11.75 | Novolis | Cross-platform network adapter, route, and bound-path probing. |
+| 2026-10-12 18:14:23 | [EasySsf.Receiver.Hosting](https://www.nuget.org/packages/EasySsf.Receiver.Hosting) | 0.6.0 | easyssf contributors | Hosting integration of the easyssf SSF receiver: options, dependency injection,… |
+| 2026-10-12 18:14:23 | [EasySsf.Receiver.Data](https://www.nuget.org/packages/EasySsf.Receiver.Data) | 0.6.0 | easyssf contributors | Database stores of the easyssf SSF receiver on ADO.NET: processed SETs, revocat… |
+| 2026-10-12 18:14:24 | [EasySsf.Receiver.AspNetCore](https://www.nuget.org/packages/EasySsf.Receiver.AspNetCore) | 0.6.0 | easyssf contributors | ASP.NET Core integration of the easyssf SSF receiver: the push endpoint for SET… |
+| 2026-10-12 18:14:24 | [EasySsf.Core](https://www.nuget.org/packages/EasySsf.Core) | 0.6.0 | easyssf contributors | The vocabulary of the OpenID Shared Signals Framework for .NET: Security Event… |
+| 2026-10-12 18:14:24 | [EasySsf.Receiver](https://www.nuget.org/packages/EasySsf.Receiver) | 0.6.0 | easyssf contributors | The easyssf SSF receiver without a framework: SET verification, de-duplication,… |
+| 2026-10-12 18:14:25 | [EasySsf.Testing](https://www.nuget.org/packages/EasySsf.Testing) | 0.6.0 | easyssf contributors | Test support for easyssf receivers: an in-process transmitter that signs SETs,… |
+| 2026-10-12 18:14:39 | [WhatsAppBridge](https://www.nuget.org/packages/WhatsAppBridge) | 1.0.0 | Heavy-Lift | Puente genérico para enviar plantillas de WhatsApp a través de un webhook de n8… |
 
 ## Data source
 
