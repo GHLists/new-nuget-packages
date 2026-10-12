@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-12T22:26:43.263Z,StoveDotnet.SchemaRegistry,0.1.6,cokceken,"Confluent Schema Registry system for StoveDotnet, with setup migrations and existing-registry support."
+2026-10-12T22:26:47.34Z,StoveDotnet.Kafka.Avro,0.1.6,cokceken,Typed Avro publishing and observation for StoveDotnet Kafka using Confluent Schema Registry.
