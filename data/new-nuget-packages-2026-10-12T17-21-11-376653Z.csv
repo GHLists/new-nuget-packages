@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-12T16:37:00.997Z,ClassSaver2,0.1.2,nglamdev,Fast compile-time binary serialization source generator for C#.
+2026-10-12T16:47:37.333Z,LuxMediator,1.0.0,Anonymous,(●'◡'●)
+2026-10-12T16:53:57.693Z,Aspose.PSD.FOSS,26.10.0,Aspose,Aspose.PSD FOSS for .NET provides open-source solution for PSD and PSB file reading and editing without requiring Adobe Photoshop.
+2026-10-12T17:02:04.91Z,Ais.Net.Broadcaster,1.0.0,Endjin Limited,"Broadcasts NMEA AIS sentences to TCP and WebSocket clients: replay a recording or relay a live feed, with pacing and fault injection for testing AIS receivers. The sink-side counterpart of Ais.Net.Receiver. Sponsored by endjin."
+2026-10-12T17:02:06.143Z,Ais.Net.Broadcaster.Cli,1.0.0,Endjin Limited,"Command-line NMEA AIS broadcaster: replays a recording or relays a live feed to TCP and WebSocket clients, with pacing and fault injection. Sponsored by endjin."
+2026-10-12T17:02:08.093Z,Ais.Net.Receiver.Benchmarks,1.0.0,Ais.Net.Receiver.Benchmarks,Package Description
+2026-10-12T17:03:56.997Z,ClassSaver2Test,1.0.0,ClassSaver2Test,Package Description
+2026-10-12T17:05:26.997Z,VintranExternalV2.Grpc.Contracts,1.6.0,Vintran Ltd,"gRPC service contracts, generated stubs for VantPay, VtPass, and the shared external-v2 messages."
+2026-10-12T17:08:22.533Z,VenEl.ModularMCP.ServiceNow,1.0.0,VenEl,VenEl Modular MCP Plugin - VenEl.ModularMCP.ServiceNow
+2026-10-12T17:09:53.36Z,Egov.Integrations.MPay.Soap,10.0.1,E-Governance Agency (EGA),"A reusable library that helps service providers integrate with MPay using the SOAP protocol. It verifies the signature of incoming MPay requests, signs the responses and builds MPay redirect addresses."
+2026-10-12T17:12:24.46Z,Parsley.Runtime,1.0.0,honey the codewitch,The runtime for the Parsley parser synthesizer
+2026-10-12T17:12:59.21Z,Parsley.Generator,1.0.0,honey the codewitch,"Synthesizes a Parsley parser, lexer and evaluator into a partial class marked [Parsley(""grammar.xbnf"")]"
