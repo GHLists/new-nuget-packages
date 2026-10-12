@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-12T08:21:12Z,OpenLog,1.0.0,OpenLog Contributors,"Production-ready structured logging for .NET 8+ Web APIs. Console, rolling file, and SQL Server sinks with async pipeline, enrichment, filtering, and built-in security redaction. Drop-in Microsoft.Extensions.Logging provider."
+2026-10-12T08:21:28.46Z,ediri.DockerAgent,0.1.1,dirien,"A Pulumi provider for Docker Agent (docker-agent): define AI agent configurations as typed, validated code and share them as OCI artifacts, the same way `docker agent share push` does."
+2026-10-12T08:39:48.593Z,Eternet.Build.Workspaces,2.0.0,Eternet,Evaluated project graphs and warm analysis workspaces shared by EAC and ETP.
+2026-10-12T08:39:50.493Z,Eternet.Build.Workspaces.Worker,2.0.0,Eternet,Owner-scoped workspace worker server for SDK-selected EAC and ETP hosts.
+2026-10-12T08:56:20.267Z,Notato.Aspire,0.2.0,Notato contributors,"Notato in a .NET Aspire app host. AddNotato() runs the Notato board, the server your apps' notes go to and MCP for your coding agents (Claude Code, Codex, Cursor and others); WithReference(notato) turns Notato on in the apps that use it."
+2026-10-12T08:58:29.59Z,AppDeployHub.Forge.PcAgent,1.1.0,Cezar Wagenheimer,AppDeployHub Forge PC Agent (Windows): installs and runs Android builds from the Forge on devices connected to this PC.
+2026-10-12T09:00:20.777Z,NepalPayments.FonePay,0.1.0,Siraj Oli,"Unofficial .NET client for the Fonepay Checkout intent API: bank list, intent QR generation and payment status, with token handling and request signing built in."
+2026-10-12T09:06:11.35Z,AutoUpdater.Net,1.0.0,EL01,A .NET library developed and maintained by EL01.
+2026-10-12T09:13:39.453Z,CymruBlazor.Testing,1.13.0,CymruBlazor Contributors,"bUnit helpers for testing apps built with CymruBlazor: a test context with the library registered, and markup checks for ids, ARIA references, accessible names and heading levels. No browser needed."
+2026-10-12T09:13:40.13Z,CymruBlazor.Testing.Axe,1.13.0,CymruBlazor Contributors,"Browser accessibility tests for apps built with CymruBlazor: renders a component with bUnit, loads it with the library's own CSS into Chromium through Playwright, and scans it with axe-core in the light, dark and high-contrast themes."

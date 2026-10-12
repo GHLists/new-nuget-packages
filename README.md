@@ -12,23 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 08:19 UTC
+## Latest list — 2026-10-12 09:22 UTC
 
-New packages created between 2026-10-12 07:21 UTC and 2026-10-12 08:19 UTC.
+New packages created between 2026-10-12 08:19 UTC and 2026-10-12 09:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T08-19-59-134656Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T09-22-26-103917Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 07:40:38 | [OpenEmail](https://www.nuget.org/packages/OpenEmail) | 0.0.1 | OpenEmail | The official .NET SDK for the OpenEmail API. Send email and broadcasts, work wi… |
-| 2026-10-12 07:46:21 | [Xtra.Shared](https://www.nuget.org/packages/Xtra.Shared) | 2.0.2 | Xtra.Shared | Package Description |
-| 2026-10-12 07:46:56 | [TheNerdCollective.Integrations.Umbraco.Brevo](https://www.nuget.org/packages/TheNerdCollective.Integrations.Umbraco.Brevo) | 1.0.0 | The Nerd Collective | Brevo backoffice section, dashboard, and CMS settings reader for Umbraco CMS. |
-| 2026-10-12 07:55:16 | [Hexabox.Sdk](https://www.nuget.org/packages/Hexabox.Sdk) | 2.10.0 | Massive Dynamic | SDK des extensions .NET de Hexabox : commandes du lanceur HexaLauncher, fenêtre… |
-| 2026-10-12 07:55:18 | [Hexabox.Sdk.Ui](https://www.nuget.org/packages/Hexabox.Sdk.Ui) | 2.10.0 | Massive Dynamic | Kit d'interface WinUI des fenêtres d'atelier des extensions Hexabox : contrôles… |
-| 2026-10-12 08:05:31 | [GPSR.Core](https://www.nuget.org/packages/GPSR.Core) | 1.0.8-alpha | GPSR.Core | Package Description |
-| 2026-10-12 08:05:31 | [GPSR.Utils](https://www.nuget.org/packages/GPSR.Utils) | 1.0.8-alpha | GPSR.Utils | Package Description |
-| 2026-10-12 08:05:32 | [GPSR.Data](https://www.nuget.org/packages/GPSR.Data) | 1.0.8-alpha | GPSR.Data | Package Description |
-| 2026-10-12 08:05:33 | [GPSR.Runner](https://www.nuget.org/packages/GPSR.Runner) | 1.0.8-alpha | GPSR.Runner | Package Description |
+| 2026-10-12 08:21:12 | [OpenLog](https://www.nuget.org/packages/OpenLog) | 1.0.0 | OpenLog Contributors | Production-ready structured logging for .NET 8+ Web APIs. Console, rolling file… |
+| 2026-10-12 08:21:28 | [ediri.DockerAgent](https://www.nuget.org/packages/ediri.DockerAgent) | 0.1.1 | dirien | A Pulumi provider for Docker Agent (docker-agent): define AI agent configuratio… |
+| 2026-10-12 08:39:48 | [Eternet.Build.Workspaces](https://www.nuget.org/packages/Eternet.Build.Workspaces) | 2.0.0 | Eternet | Evaluated project graphs and warm analysis workspaces shared by EAC and ETP. |
+| 2026-10-12 08:39:50 | [Eternet.Build.Workspaces.Worker](https://www.nuget.org/packages/Eternet.Build.Workspaces.Worker) | 2.0.0 | Eternet | Owner-scoped workspace worker server for SDK-selected EAC and ETP hosts. |
+| 2026-10-12 08:56:20 | [Notato.Aspire](https://www.nuget.org/packages/Notato.Aspire) | 0.2.0 | Notato contributors | Notato in a .NET Aspire app host. AddNotato() runs the Notato board, the server… |
+| 2026-10-12 08:58:29 | [AppDeployHub.Forge.PcAgent](https://www.nuget.org/packages/AppDeployHub.Forge.PcAgent) | 1.1.0 | Cezar Wagenheimer | AppDeployHub Forge PC Agent (Windows): installs and runs Android builds from th… |
+| 2026-10-12 09:00:20 | [NepalPayments.FonePay](https://www.nuget.org/packages/NepalPayments.FonePay) | 0.1.0 | Siraj Oli | Unofficial .NET client for the Fonepay Checkout intent API: bank list, intent Q… |
+| 2026-10-12 09:06:11 | [AutoUpdater.Net](https://www.nuget.org/packages/AutoUpdater.Net) | 1.0.0 | EL01 | A .NET library developed and maintained by EL01. |
+| 2026-10-12 09:13:39 | [CymruBlazor.Testing](https://www.nuget.org/packages/CymruBlazor.Testing) | 1.13.0 | CymruBlazor Contributors | bUnit helpers for testing apps built with CymruBlazor: a test context with the… |
+| 2026-10-12 09:13:40 | [CymruBlazor.Testing.Axe](https://www.nuget.org/packages/CymruBlazor.Testing.Axe) | 1.13.0 | CymruBlazor Contributors | Browser accessibility tests for apps built with CymruBlazor: renders a componen… |
 
 ## Data source
 
