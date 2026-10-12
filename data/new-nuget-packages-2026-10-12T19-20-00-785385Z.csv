@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-12T18:34:41.9Z,Novolis.Avalonia.AssetStudio,2026.1.6.240,Novolis,"Reusable Avalonia editor surfaces for Asset Studio graph, stack, source, diagnostics, and preview workflows."
+2026-10-12T18:34:57.123Z,Novolis.Avalonia.Modeling,2026.1.6.240,Novolis,"Avalonia Modeling editor surface: scene hierarchy, OpenGL wireframe viewport, mesh tools, lights, cameras, and agent session."
+2026-10-12T18:38:17.31Z,Ruvio.AspNetCore.DistributedLock,0.1.0,Salih Cantekin,"Distributed mutual-exclusion locks for Ruvio, plus an ASP.NET Core [RuvioLock] endpoint attribute that serialises requests per resource, cancels them when the lock is lost and reports metrics."
+2026-10-12T18:41:02.697Z,Medalbot.Render,0.1.0,Medalbot,"Await CS2 skin renders with typed views, automatic polling, retries, and public image URLs."
+2026-10-12T18:44:00.557Z,NextLevel.Tenancy,1.0.0,NextLevel,Tenancy mode and the current OperatorId (tenant) for NextLevel backend services.
+2026-10-12T18:55:44.34Z,AWSSDK.SageMakerTrainingSessionRuntime,4.0.100,Amazon Web Services,"Amazon SageMaker Training Session Runtime provides APIs for executing operations within active training sessions, including asynchronous training operations, sampling and inference requests, and streaming real-time model responses, enabling programmatic control over the training loop."
