@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-12T00:21:54.813Z,Ourogen,0.0.1-alpha,Scott Sanderson,Package Description
+2026-10-12T00:30:10.527Z,StaxiChat.Maui,1.0.0,NhatNL,"SDK chat Staxi cho MAUI: một WebView engine gắn cố định vào Grid của ứng dụng chủ, API phòng chat và sự kiện."
+2026-10-12T01:02:24.46Z,VsMcpBridge,1.0.0,ric-ros,"MCP server that lets AI coding agents drive a running Visual Studio on Windows: build, read the real Error List, inspect solutions and open documents, through DTE COM automation. No VSIX required."

@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 00:20 UTC
+## Latest list — 2026-10-12 01:19 UTC
 
-New packages created between 2026-10-11 23:19 UTC and 2026-10-12 00:20 UTC.
+New packages created between 2026-10-12 00:20 UTC and 2026-10-12 01:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T00-20-43-706893Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T01-19-52-279837Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-11 23:38:19 | [Shaunebu.MAUI.Navigation.Analyzers](https://www.nuget.org/packages/Shaunebu.MAUI.Navigation.Analyzers) | 1.0.0 | Shaunebu | Roslyn analyzers and code fixes for enforcing safe navigation practices in .NET… |
-| 2026-10-11 23:38:21 | [Shaunebu.MAUI.Navigation.CodeFixes](https://www.nuget.org/packages/Shaunebu.MAUI.Navigation.CodeFixes) | 1.0.0 | Shaunebu | Roslyn code fixes for Shaunebu.MAUI.Navigation analyzers. |
-| 2026-10-11 23:38:22 | [Shaunebu.MAUI.Navigation](https://www.nuget.org/packages/Shaunebu.MAUI.Navigation) | 1.0.0 | Shaunebu | Enterprise-grade typed navigation orchestration for .NET MAUI. Provides strongl… |
-| 2026-10-11 23:38:24 | [Shaunebu.MAUI.Navigation.Debugger](https://www.nuget.org/packages/Shaunebu.MAUI.Navigation.Debugger) | 1.0.0 | Shaunebu | Optional navigation diagnostics platform for Shaunebu.MAUI.Navigation. Provides… |
-| 2026-10-11 23:38:26 | [Shaunebu.MAUI.Navigation.Generators](https://www.nuget.org/packages/Shaunebu.MAUI.Navigation.Generators) | 1.0.0 | Shaunebu | Incremental source generators for strongly typed navigation infrastructure in .… |
-| 2026-10-11 23:50:33 | [NGB.Platform.Templates](https://www.nuget.org/packages/NGB.Platform.Templates) | 3.2.0 | NGB Platform | Official independently buildable NGB application template with API, Migrator, B… |
-| 2026-10-11 23:58:55 | [ModRelease](https://www.nuget.org/packages/ModRelease) | 1.0.0 | nianeyna | Release pipeline for BepInEx mods: clean build against the installed game, meta… |
+| 2026-10-12 00:21:54 | [Ourogen](https://www.nuget.org/packages/Ourogen) | 0.0.1-alpha | Scott Sanderson | Package Description |
+| 2026-10-12 00:30:10 | [StaxiChat.Maui](https://www.nuget.org/packages/StaxiChat.Maui) | 1.0.0 | NhatNL | SDK chat Staxi cho MAUI: một WebView engine gắn cố định vào Grid của ứng dụng c… |
+| 2026-10-12 01:02:24 | [VsMcpBridge](https://www.nuget.org/packages/VsMcpBridge) | 1.0.0 | ric-ros | MCP server that lets AI coding agents drive a running Visual Studio on Windows:… |
 
 ## Data source
 
