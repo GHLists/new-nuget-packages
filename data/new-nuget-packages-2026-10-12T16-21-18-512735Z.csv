@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-12T15:36:23.12Z,SjolystInnovation.AppKit.Auth,0.1.0,Sjølyst Innovation AS,"JWT access tokens, rotating refresh tokens with reuse detection, and password reset and email verification codes for ASP.NET Core Identity apps."
+2026-10-12T15:38:52.797Z,NextGenSoftware.OASIS.API.Providers.HoloOASIS.Edge,1.0.0,David Ellams (NextGen Software Ltd),Lightweight Holochain 0.7 domain replication target for OASIS Edge Runtime.
+2026-10-12T15:56:00.623Z,Sdcb.HyMT2Sharp,2.0.0,sdcb,"Hy-MT2 hunyuan-dense inference: GGUF, tokenize, KV cache, CPU (SIMD), Metal and Vulkan backends."
+2026-10-12T16:04:26.17Z,YamlD,0.0.1,Infologique.net,"Native, allocation-free YAML 1.2.2 parser for .NET 10 with YAML 1.1 merge keys (<<), modelled on System.Text.Json: a pull reader over UTF-8 spans (Utf8YamlReader), a pooled read-only DOM (YamlDocument/YamlElement) and a deserializer to objects (YamlSerializer). Passes the whole official yaml-test-s…"
+2026-10-12T16:12:46.64Z,Umbraco.Community.FrontendBlockPreview,17.0.0,Busra Sengul,"Preview Block List and Block Grid blocks in the Umbraco backoffice, rendered by your real frontend: a headless frontend through the Content Delivery API or your own API, or Razor views for MVC sites. Uses the editor's unsaved values."

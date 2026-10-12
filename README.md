@@ -12,23 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 15:20 UTC
+## Latest list — 2026-10-12 16:21 UTC
 
-New packages created between 2026-10-12 14:20 UTC and 2026-10-12 15:20 UTC.
+New packages created between 2026-10-12 15:20 UTC and 2026-10-12 16:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T15-20-14-541133Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T16-21-18-512735Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 14:29:57 | [Iyu.Conventions.Testing.Snippets](https://www.nuget.org/packages/Iyu.Conventions.Testing.Snippets) | 0.9.0 | iyulab | Compiles the C# examples in a repository's Markdown (README, docs) from its own… |
-| 2026-10-12 14:36:59 | [NymBroker.Endpoint.AwsSqs](https://www.nuget.org/packages/NymBroker.Endpoint.AwsSqs) | 0.11.0 | nymankla@gmail.com | Amazon SQS endpoint add-on for NymBroker: standard and FIFO queues, long pollin… |
-| 2026-10-12 14:37:00 | [NymBroker.Idempotency.MySql](https://www.nuget.org/packages/NymBroker.Idempotency.MySql) | 0.11.0 | nymankla@gmail.com | Durable MySQL / MariaDB idempotency store (idempotent receiver) for NymBroker. |
-| 2026-10-12 14:37:01 | [NymBroker.Endpoint.Http](https://www.nuget.org/packages/NymBroker.Endpoint.Http) | 0.11.0 | nymankla@gmail.com | HTTP / webhook endpoint add-on for NymBroker: delivers messages to a URL with r… |
-| 2026-10-12 14:37:03 | [NymBroker.Endpoint.MySql](https://www.nuget.org/packages/NymBroker.Endpoint.MySql) | 0.11.0 | nymankla@gmail.com | MySQL / MariaDB queue-table endpoint add-on for NymBroker. |
-| 2026-10-12 14:42:05 | [parsley-tool](https://www.nuget.org/packages/parsley-tool) | 1.0.0 | honey the codewitch | An advanced LL parser synthesizer for C# |
-| 2026-10-12 14:42:34 | [parsley-luthor](https://www.nuget.org/packages/parsley-luthor) | 1.0.0 | parsley-luthor | Luthor lexer generator in a Parsley friendly package |
-| 2026-10-12 14:50:08 | [TensorSharp.Knowledge](https://www.nuget.org/packages/TensorSharp.Knowledge) | 2026.10.11 | Zhongkai Fu | Durable local knowledge collections, bounded ingestion, hybrid retrieval, and s… |
-| 2026-10-12 14:55:10 | [ITBees.Lantic](https://www.nuget.org/packages/ITBees.Lantic) | 8.0.1 | ITBees | Client library for Inveo LanTick Ethernet I/O modules (PE-8-0, PE-0-4, PE-4-4,… |
+| 2026-10-12 15:36:23 | [SjolystInnovation.AppKit.Auth](https://www.nuget.org/packages/SjolystInnovation.AppKit.Auth) | 0.1.0 | Sjølyst Innovation AS | JWT access tokens, rotating refresh tokens with reuse detection, and password r… |
+| 2026-10-12 15:38:52 | [NextGenSoftware.OASIS.API.Providers.HoloOASIS.Edge](https://www.nuget.org/packages/NextGenSoftware.OASIS.API.Providers.HoloOASIS.Edge) | 1.0.0 | David Ellams (NextGen Softwar… | Lightweight Holochain 0.7 domain replication target for OASIS Edge Runtime. |
+| 2026-10-12 15:56:00 | [Sdcb.HyMT2Sharp](https://www.nuget.org/packages/Sdcb.HyMT2Sharp) | 2.0.0 | sdcb | Hy-MT2 hunyuan-dense inference: GGUF, tokenize, KV cache, CPU (SIMD), Metal and… |
+| 2026-10-12 16:04:26 | [YamlD](https://www.nuget.org/packages/YamlD) | 0.0.1 | Infologique.net | Native, allocation-free YAML 1.2.2 parser for .NET 10 with YAML 1.1 merge keys… |
+| 2026-10-12 16:12:46 | [Umbraco.Community.FrontendBlockPreview](https://www.nuget.org/packages/Umbraco.Community.FrontendBlockPreview) | 17.0.0 | Busra Sengul | Preview Block List and Block Grid blocks in the Umbraco backoffice, rendered by… |
 
 ## Data source
 
