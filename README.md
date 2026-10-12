@@ -12,37 +12,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 20:18 UTC
+## Latest list — 2026-10-12 21:20 UTC
 
-New packages created between 2026-10-12 19:20 UTC and 2026-10-12 20:18 UTC.
+New packages created between 2026-10-12 20:18 UTC and 2026-10-12 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-12T20-18-52-157607Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-12T21-20-27-81294Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-12 19:20:38 | [Belin.FreeMobile.FSharp](https://www.nuget.org/packages/Belin.FreeMobile.FSharp) | 1.0.0 | CedX | Send SMS messages to your Free Mobile device. |
-| 2026-10-12 19:21:26 | [DnsToolkit.Net](https://www.nuget.org/packages/DnsToolkit.Net) | 1.0.0 | Alexander Reinert, Matheis1992 | A complete managed .Net DNS and DNSSEC client, a DNS server (UDP, TCP, TLS), DA… |
-| 2026-10-12 19:23:30 | [Shiny.AspNet.DocumentDb](https://www.nuget.org/packages/Shiny.AspNet.DocumentDb) | 1.0.0 | aritchie,ShinyLib | REST and live-query (SSE) endpoints for Shiny.DocumentDb on ASP.NET Core — a do… |
-| 2026-10-12 19:23:31 | [Shiny.AspNet.Ssh](https://www.nuget.org/packages/Shiny.AspNet.Ssh) | 1.0.0 | aritchie,ShinyLib | SSH remote port forwarding for ASP.NET Core. Publishes a Kestrel app through an… |
-| 2026-10-12 19:23:31 | [Shiny.AspNet.Acme](https://www.nuget.org/packages/Shiny.AspNet.Acme) | 1.0.0 | aritchie,ShinyLib | Automatic TLS certificates for ASP.NET Core and Kestrel from Let's Encrypt, Zer… |
-| 2026-10-12 19:23:32 | [Shiny.AspNet.Idempotency](https://www.nuget.org/packages/Shiny.AspNet.Idempotency) | 1.0.0 | aritchie,ShinyLib | Idempotency-Key (draft-ietf-httpapi-idempotency-key-header) middleware for ASP.… |
-| 2026-10-12 19:23:32 | [Shiny.AspNet.Discovery](https://www.nuget.org/packages/Shiny.AspNet.Discovery) | 1.0.0 | aritchie,ShinyLib | mDNS/DNS-SD (Bonjour) discovery for ASP.NET Core — advertises the app on the lo… |
-| 2026-10-12 19:23:33 | [Shiny.AspNet.ContentDigest](https://www.nuget.org/packages/Shiny.AspNet.ContentDigest) | 1.0.0 | aritchie,ShinyLib | RFC 9530 Content-Digest and Repr-Digest for ASP.NET Core - verifies request bod… |
-| 2026-10-12 19:23:33 | [Shiny.AspNet.Npm](https://www.nuget.org/packages/Shiny.AspNet.Npm) | 1.0.0 | aritchie,ShinyLib | A private npm registry for ASP.NET Core - the registry API npm, pnpm and Yarn s… |
-| 2026-10-12 19:23:34 | [Shiny.AspNet.NuGet](https://www.nuget.org/packages/Shiny.AspNet.NuGet) | 1.0.0 | aritchie,ShinyLib | A private NuGet feed for ASP.NET Core - the NuGet V3 protocol (service index, p… |
-| 2026-10-12 19:23:34 | [Shiny.AspNet.Tunnels](https://www.nuget.org/packages/Shiny.AspNet.Tunnels) | 1.0.0 | aritchie,ShinyLib | Agent-backed tunnels for ASP.NET Core — publishes a Kestrel app through cloudfl… |
-| 2026-10-12 19:23:35 | [Shiny.AspNet.WebDav](https://www.nuget.org/packages/Shiny.AspNet.WebDav) | 1.0.0 | aritchie,ShinyLib | A WebDAV (RFC 4918) class 1 and 2 server for ASP.NET Core - mount a directory i… |
-| 2026-10-12 19:23:35 | [Shiny.AspNet.JsonPatch](https://www.nuget.org/packages/Shiny.AspNet.JsonPatch) | 1.0.0 | aritchie,ShinyLib | RFC 6902 JSON Patch for ASP.NET Core over System.Text.Json.Nodes — an RFC 6901… |
-| 2026-10-12 19:23:36 | [Shiny.AspNet.Tus](https://www.nuget.org/packages/Shiny.AspNet.Tus) | 1.0.0 | aritchie,ShinyLib | Resumable uploads for ASP.NET Core over the tus 1.0.0 protocol — a phone upload… |
-| 2026-10-12 19:23:36 | [Shiny.AspNet.FileSync](https://www.nuget.org/packages/Shiny.AspNet.FileSync) | 1.0.0 | aritchie,ShinyLib | Dropbox-style file sync for ASP.NET Core. Files are split into content-defined… |
-| 2026-10-12 19:23:36 | [Shiny.AspNet.WebHosting](https://www.nuget.org/packages/Shiny.AspNet.WebHosting) | 1.0.0 | aritchie,ShinyLib | Web hosting module infrastructure for ASP.NET Core applications |
-| 2026-10-12 19:23:37 | [Shiny.AspNet.Webhooks](https://www.nuget.org/packages/Shiny.AspNet.Webhooks) | 1.0.0 | aritchie,ShinyLib | Webhook signature verification and signing for ASP.NET Core - GitHub, Stripe, S… |
-| 2026-10-12 19:23:37 | [Shiny.AspNet.CalDav](https://www.nuget.org/packages/Shiny.AspNet.CalDav) | 1.0.0 | aritchie,ShinyLib | CalDAV (RFC 4791) and CardDAV (RFC 6352) for ASP.NET Core - serve calendars and… |
-| 2026-10-12 19:25:17 | [Shiny.Geofencing.Regions](https://www.nuget.org/packages/Shiny.Geofencing.Regions) | 6.1.0 | Allan Ritchie | Shiny Region Geofencing - GPS-driven geofencing over unlimited polygon, radius… |
-| 2026-10-12 19:25:36 | [Shiny.Geofencing.Regions.DocumentDb](https://www.nuget.org/packages/Shiny.Geofencing.Regions.DocumentDb) | 6.1.0 | Allan Ritchie | Shiny Region Geofencing provider for Shiny.DocumentDb on SQLite - monitor polyg… |
-| 2026-10-12 19:32:03 | [PdfPecker](https://www.nuget.org/packages/PdfPecker) | 1.0.0 | Moonwalker1307 | Fast, dependency-free HTML and Markdown to PDF converter for .NET. Its own HTML… |
-| 2026-10-12 19:36:48 | [Glacier.Inference.Distributed.Cli](https://www.nuget.org/packages/Glacier.Inference.Distributed.Cli) | 1.1.0 | Ian Cowley | Command-line interface (glacier-distributed) for the Glacier Distributed MoE Cl… |
-| 2026-10-12 19:36:49 | [Glacier.Inference.Distributed](https://www.nuget.org/packages/Glacier.Inference.Distributed) | 1.1.0 | Ian Cowley | Distributed heterogeneous pipeline inference, cluster activation transport, and… |
+| 2026-10-12 20:19:37 | [CanopyX](https://www.nuget.org/packages/CanopyX) | 0.1.0 | Evotec | Dependency-free tree and flat-grid definitions, typed queries, the versioned ca… |
+| 2026-10-12 20:19:39 | [CanopyX.Html](https://www.nuget.org/packages/CanopyX.Html) | 0.1.0 | Evotec | Self-contained tree and flat-grid browser runtimes with virtual rows, typed que… |
+| 2026-10-12 20:21:27 | [DevHub.Sdk](https://www.nuget.org/packages/DevHub.Sdk) | 1.5.0 | Naurid | DevHub plugin Sdk: IPlugin, base classes for ViewModels, documents, tool window… |
+| 2026-10-12 20:21:28 | [DevHub.Sdk.Core](https://www.nuget.org/packages/DevHub.Sdk.Core) | 1.5.0 | Naurid | DevHub plugin Sdk, no UI: the plugin model, settings sections, marketplace type… |
+| 2026-10-12 20:32:08 | [Squirrel.Persistence.EfCore.AzurePostgres](https://www.nuget.org/packages/Squirrel.Persistence.EfCore.AzurePostgres) | 1.0.0-preview-0006 | Squirrel.Persistence.EfCore.A… | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:10 | [Squirrel.Persistence.EfCore.AzureCosmosDB](https://www.nuget.org/packages/Squirrel.Persistence.EfCore.AzureCosmosDB) | 1.0.0-preview-0006 | Squirrel.Persistence.EfCore.A… | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:25 | [Squirrel.Email](https://www.nuget.org/packages/Squirrel.Email) | 1.0.0-preview-0006 | Squirrel.Email | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:28 | [Squirrel.Validation](https://www.nuget.org/packages/Squirrel.Validation) | 1.0.0-preview-0006 | Squirrel.Validation | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:28 | [Squirrel.Caching.AzureRedis](https://www.nuget.org/packages/Squirrel.Caching.AzureRedis) | 1.0.0-preview-0006 | Squirrel.Caching.AzureRedis | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:29 | [Squirrel.Persistence.Mongo](https://www.nuget.org/packages/Squirrel.Persistence.Mongo) | 1.0.0-preview-0006 | Squirrel.Persistence.Mongo | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:30 | [Squirrel.Serialization](https://www.nuget.org/packages/Squirrel.Serialization) | 1.0.0-preview-0006 | Squirrel.Serialization | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:31 | [Squirrel.HealthCheck](https://www.nuget.org/packages/Squirrel.HealthCheck) | 1.0.0-preview-0006 | Squirrel.HealthCheck | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:32 | [Squirrel.OpenApi](https://www.nuget.org/packages/Squirrel.OpenApi) | 1.0.0-preview-0006 | Squirrel.OpenApi | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:34 | [Squirrel.Persistence.EfCore.Postgres](https://www.nuget.org/packages/Squirrel.Persistence.EfCore.Postgres) | 1.0.0-preview-0006 | Squirrel.Persistence.EfCore.P… | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:35 | [Squirrel.Abstractions](https://www.nuget.org/packages/Squirrel.Abstractions) | 1.0.0-preview-0006 | Squirrel.Abstractions | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:32:36 | [Squirrel.Resiliency](https://www.nuget.org/packages/Squirrel.Resiliency) | 1.0.0-preview-0006 | Squirrel.Resiliency | Reusable .NET building blocks for cloud-native applications. |
+| 2026-10-12 20:39:05 | [BTDB.Replication.EventSourcing](https://www.nuget.org/packages/BTDB.Replication.EventSourcing) | 35.11.1-preview | Boris Letocha | Typed event publishing, synchronous validation, Layer2 serialization, ambient O… |
+| 2026-10-12 20:39:39 | [Fatoority](https://www.nuget.org/packages/Fatoority) | 0.4.2 | mqqz | C# bindings for the Fatoora ZATCA SDK. |
+| 2026-10-12 20:41:50 | [dotnet-slnx-items](https://www.nuget.org/packages/dotnet-slnx-items) | 0.1.1 | Adrian Joaquin Naum | Add non-project files and folders to .sln/.slnx solutions as Solution Items fro… |
+| 2026-10-12 20:50:21 | [Gravicode.Finance.LLM.Ocr](https://www.nuget.org/packages/Gravicode.Finance.LLM.Ocr) | 0.10.0 | Gravicode Studios | Finance.Net OCR for scanned reports: printed-text line detection and TrOCR reco… |
+| 2026-10-12 20:53:07 | [PolishOpenData.Regon](https://www.nuget.org/packages/PolishOpenData.Regon) | 1.2.0 | JacekSmi | Typed .NET client for the Polish REGON register (GUS BIR1.2 web service): searc… |
+| 2026-10-12 21:08:42 | [CodeBeam.UltimateAuth.Authentication.EntityFrameworkCore](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Authentication.EntityFrameworkCore) | 0.1.0 | CodeBeam | Entity Framework Core authentication persistence for UltimateAuth. Provides dur… |
+| 2026-10-12 21:08:43 | [CodeBeam.UltimateAuth.Authentication.InMemory](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Authentication.InMemory) | 0.1.0 | CodeBeam | In-memory authentication persistence for UltimateAuth. Provides lightweight sto… |
+| 2026-10-12 21:08:44 | [CodeBeam.UltimateAuth.Authorization](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Authorization) | 0.1.0 | CodeBeam | Authorization module for UltimateAuth. Provides orchestration, abstractions and… |
+| 2026-10-12 21:08:46 | [CodeBeam.UltimateAuth.Authorization.Contracts](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Authorization.Contracts) | 0.1.0 | CodeBeam | Shared contracts and cross-boundary types for UltimateAuth Authorization module… |
+| 2026-10-12 21:08:47 | [CodeBeam.UltimateAuth.Authorization.EntityFrameworkCore](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Authorization.EntityFrameworkCore) | 0.1.0 | CodeBeam | Entity Framework Core persistence implementation for UltimateAuth Authorization… |
+| 2026-10-12 21:08:48 | [CodeBeam.UltimateAuth.Authorization.InMemory](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Authorization.InMemory) | 0.1.0 | CodeBeam | In-memory persistence implementation for UltimateAuth Authorization module. Pro… |
+| 2026-10-12 21:08:50 | [CodeBeam.UltimateAuth.Client](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Client) | 0.1.0 | CodeBeam | Core client engine for UltimateAuth. Provides platform-agnostic authentication… |
+| 2026-10-12 21:08:51 | [CodeBeam.UltimateAuth.Client.AspNetCore](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Client.AspNetCore) | 0.1.0 | CodeBeam | Provides ASP.NET Core compatibility layer for UltimateAuth client applications.… |
+| 2026-10-12 21:08:52 | [CodeBeam.UltimateAuth.Client.Blazor](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Client.Blazor) | 0.1.0 | CodeBeam | Blazor client integration for UltimateAuth. Provides authentication state manag… |
+| 2026-10-12 21:08:54 | [CodeBeam.UltimateAuth.Core](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Core) | 0.1.0 | CodeBeam | Core domain primitives and abstractions for UltimateAuth. This package is not i… |
+| 2026-10-12 21:08:55 | [CodeBeam.UltimateAuth.Credentials](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Credentials) | 0.1.0 | CodeBeam | Credentials module for UltimateAuth. Provides orchestration, abstractions and d… |
+| 2026-10-12 21:08:57 | [CodeBeam.UltimateAuth.Credentials.EntityFrameworkCore](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Credentials.EntityFrameworkCore) | 0.1.0 | CodeBeam | Entity Framework Core persistence implementation for UltimateAuth Credentials m… |
+| 2026-10-12 21:08:59 | [CodeBeam.UltimateAuth.Credentials.Reference](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Credentials.Reference) | 0.1.0 | CodeBeam | Default reference implementation for the UltimateAuth Credentials module. Provi… |
+| 2026-10-12 21:09:01 | [CodeBeam.UltimateAuth.EntityFrameworkCore](https://www.nuget.org/packages/CodeBeam.UltimateAuth.EntityFrameworkCore) | 0.1.0 | CodeBeam | Shared Entity Framework Core infrastructure for UltimateAuth. Provides base imp… |
+| 2026-10-12 21:09:06 | [CodeBeam.UltimateAuth.InMemory.Bundle](https://www.nuget.org/packages/CodeBeam.UltimateAuth.InMemory.Bundle) | 0.1.0 | CodeBeam | Provides a complete in-memory setup for UltimateAuth. This package includes ref… |
+| 2026-10-12 21:09:08 | [CodeBeam.UltimateAuth.Policies](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Policies) | 0.1.0 | CodeBeam | Policy evaluation module for UltimateAuth. Provides reusable authorization poli… |
+| 2026-10-12 21:09:09 | [CodeBeam.UltimateAuth.Reference.Bundle](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Reference.Bundle) | 0.1.0 | CodeBeam | Provides a bundled setup of all UltimateAuth reference implementations. It wire… |
+| 2026-10-12 21:09:11 | [CodeBeam.UltimateAuth.Security.Argon2](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Security.Argon2) | 0.1.0 | CodeBeam | Argon2 password hashing provider for UltimateAuth. Provides a secure implementa… |
+| 2026-10-12 21:09:12 | [CodeBeam.UltimateAuth.Server](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Server) | 0.1.0 | CodeBeam | Main server package for UltimateAuth. Includes authentication, authorization, u… |
+| 2026-10-12 21:09:14 | [CodeBeam.UltimateAuth.Sessions.EntityFrameworkCore](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Sessions.EntityFrameworkCore) | 0.1.0 | CodeBeam | Entity Framework Core session persistence for UltimateAuth. Provides durable st… |
+| 2026-10-12 21:09:18 | [CodeBeam.UltimateAuth.Users](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Users) | 0.1.0 | CodeBeam | Users module for UltimateAuth. Provides orchestration, abstractions and depende… |
+| 2026-10-12 21:09:19 | [CodeBeam.UltimateAuth.Users.Contracts](https://www.nuget.org/packages/CodeBeam.UltimateAuth.Users.Contracts) | 0.1.0 | CodeBeam | Shared contracts and cross-boundary types for UltimateAuth Users module. This p… |
 
 ## Data source
 
