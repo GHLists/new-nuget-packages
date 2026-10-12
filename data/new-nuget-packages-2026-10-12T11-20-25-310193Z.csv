@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-12T10:24:46.417Z,LunaticPanel.Package.Tool,0.1.3,Maksim Shimshon,Lunatic Panel Development Tool for Plugins
+2026-10-12T10:29:31.333Z,AR51.Net,3.0.302,AR 51 LTD,"Connect a .NET application to an AR 51 motion capture system: live skeletons and objects, server control, cameras (calibration values, preview, settings), camera calibration, recording and connected devices. No Unity required."
+2026-10-12T10:31:38.52Z,Assay.Refactoring,0.9.0,Magne Moss Helleborg,"Assay's refactoring engine — symbol-addressed rename and safe delete, analyzer diagnostics and code fixes, with compile verification and test reach, over the CodeGraph and a Roslyn workspace built from the same project inputs."
+2026-10-12T10:39:02.457Z,Synvro.Modulus.Authorization.EntityFrameworkCore,1.4.0,synvro,"EF Core persistence for Modulus authorization: permission grants, org hierarchy and placement, delegation, feature entitlements, and audit records."
+2026-10-12T11:04:56.33Z,LanAgent.Terminal,1.0.2,LanAgent,LanAgent terminal AI agent with Hyperlight microVM CodeAct execution for Windows x64.
+2026-10-12T11:05:58.99Z,CodeBrix.VideoProcessing.Android.MitLicenseForever,1.0.285.663,Jeremy Ellis,"The Android engine for CodeBrix.VideoProcessing.Core: analyse media files, decode video frames (I420, NV12, RGBA or Gray, at 8 bits or - where the device decoder outputs 10-bit P010 - 10 bits) and audio samples, write standard MP4 video (H.264, or HEVC where the device has an encoder, with AAC audi…"
+2026-10-12T11:06:12.233Z,BbQ.ChatWidgets.Blazor,1.1.0,Jean Marc Mbouma,Blazor components library for BbQ Chat Widgets - provides reusable UI components for rendering interactive chat widgets in Blazor applications
+2026-10-12T11:06:13.127Z,BbQ.LlamaCpp,1.1.0,Jean Marc Mbouma,Verified llama.cpp installer and supervised local runtime for schema-first BbQ.ChatWidgets.
