@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-11T23:38:19.843Z,Shaunebu.MAUI.Navigation.Analyzers,1.0.0,Shaunebu,Roslyn analyzers and code fixes for enforcing safe navigation practices in .NET MAUI applications using Shaunebu.MAUI.Navigation.
+2026-10-11T23:38:21.44Z,Shaunebu.MAUI.Navigation.CodeFixes,1.0.0,Shaunebu,Roslyn code fixes for Shaunebu.MAUI.Navigation analyzers.
+2026-10-11T23:38:22.707Z,Shaunebu.MAUI.Navigation,1.0.0,Shaunebu,"Enterprise-grade typed navigation orchestration for .NET MAUI. Provides strongly typed navigation, flow management, modal handling, root switching, navigation guards, back handling, overlays, diagnostics, and testable navigation abstractions."
+2026-10-11T23:38:24.157Z,Shaunebu.MAUI.Navigation.Debugger,1.0.0,Shaunebu,"Optional navigation diagnostics platform for Shaunebu.MAUI.Navigation. Provides live stack inspection, operation timelines, flow visualization, overlay monitoring, runtime warnings, session recording, and exportable diagnostics. Intended for Debug builds only; safe to exclude from Release packages."
+2026-10-11T23:38:26.043Z,Shaunebu.MAUI.Navigation.Generators,1.0.0,Shaunebu,Incremental source generators for strongly typed navigation infrastructure in .NET MAUI applications.
+2026-10-11T23:50:33.183Z,NGB.Platform.Templates,3.2.0,NGB Platform,"Official independently buildable NGB application template with API, Migrator, Background Jobs and Vue."
+2026-10-11T23:58:55.21Z,ModRelease,1.0.0,nianeyna,"Release pipeline for BepInEx mods: clean build against the installed game, metadata verification, reproducible archive, GitHub release and a kit for posting to Nexus."
