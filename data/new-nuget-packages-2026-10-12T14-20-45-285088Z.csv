@@ -1,0 +1,32 @@
+created_at,package,version,authors,description
+2026-10-12T13:28:28.433Z,Crypto.Net.Templates,1.1.0,"Gravicode Studios, Kang Fadhil","dotnet new templates for Crypto.Net: cnet-console, cnet-worker, cnet-webapi, cnet-lib and cnet-test. Built by Gravicode Studios, led by Kang Fadhil."
+2026-10-12T13:31:45.61Z,EfCore.TamperEvident.AspNetCore,2.0.0,Furkan Akca,"ASP.NET Core integration for EfCore.TamperEvident: a Liquid Glass audit dashboard (trail, diffs, record history, verification, exports), scheduled incremental verification, a health check, and HTTP user and request metadata."
+2026-10-12T13:31:46.523Z,EfCore.TamperEvident.Cli,2.0.0,Furkan Akca,"A .NET tool for auditors: verifies EfCore.TamperEvident evidence bundles offline (every hash, link, redaction, signed chain head and anchor), summarizes them, and generates strong secret keys."
+2026-10-12T13:33:12.86Z,EAC.Plugin.FeatureFolder,1.0.1,EAC.Plugin.FeatureFolder,Roslyn analyzer and codefix for feature-folder namespace placement conventions.
+2026-10-12T13:33:17.617Z,EAC.Plugin.Localization,1.0.1,EAC.Plugin.Localization,Roslyn analyzers for localization adoption and hardcoded user-facing message sinks.
+2026-10-12T13:33:22.76Z,EAC.Plugin.Naming,1.0.1,EAC.Plugin.Naming,Roslyn analyzers and code fixes for deterministic naming conventions.
+2026-10-12T13:33:31.88Z,Eternet.Agents.Control.Plans.Abstractions,2.0.18,Eternet,"Host-neutral contracts for EAC plan execution, backends, diagnostics, and evidence."
+2026-10-12T13:33:40.68Z,EAC.Plugin.BuiltInRecipes,1.0.1,Eternet,Built-in EAC recipe and guidance suggestion plugin contributions.
+2026-10-12T13:33:46.417Z,EAC.Plugin.Contracts,1.0.1,EAC.Plugin.Contracts,"Roslyn analyzers, code fixes, and runtime remediation for public contract guidance."
+2026-10-12T13:33:51.827Z,EAC.Plugin.Crud.Relational,1.0.1,Eternet,EAC plugin with relational pipeline migration and manual retry migration transformers.
+2026-10-12T13:33:56.41Z,EAC.Plugin.DependencyInjection,1.0.1,EAC.Plugin.DependencyInjection,Roslyn analyzers and runtime metadata for semantic dependency-injection registration inventory.
+2026-10-12T13:34:01.217Z,EAC.Plugin.DotNet,1.0.1,EAC.Plugin.DotNet,Roslyn analyzers and runtime metadata for EAC-owned .NET reliability diagnostics.
+2026-10-12T13:34:08.223Z,EAC.Plugin.EternetMediatorGenerator,1.0.1,EAC.Plugin.EternetMediatorGenerator,Runtime recipes and compatibility remediation for diagnostics emitted by Eternet.Mediator.Generator.
+2026-10-12T13:34:12.94Z,EAC.Plugin.Git,1.0.1,Eternet,Built-in Git repository maintenance runtime plugin for nested EAC CLI operations.
+2026-10-12T13:34:17.69Z,EAC.Plugin.Maintenance,1.0.1,Eternet,Built-in repository normalization and .NET code maintenance operations for EAC.
+2026-10-12T13:34:22.927Z,EAC.Plugin.Mediator,1.0.1,EAC.Plugin.Mediator,"Roslyn analyzers, code fixes, and runtime transformations for Eternet.Mediator guidance."
+2026-10-12T13:34:29.323Z,EAC.Plugin.Networking,1.0.1,Eternet,EAC plugin for networking diagnostics and HttpClient lifetime remediation recipes.
+2026-10-12T13:34:33.547Z,EAC.Plugin.OData,1.0.1,EAC.Plugin.OData,Roslyn analyzers for Eternet OData and query-service read-shape rules.
+2026-10-12T13:34:38.963Z,EAC.Plugin.Outbox,1.0.1,Eternet,EAC plugin for target-agnostic outbox diagnostics.
+2026-10-12T13:34:43.673Z,EAC.Plugin.Plans,1.0.1,Eternet,Built-in EAC plan-folder plugin operations and compatibility metadata.
+2026-10-12T13:34:49.653Z,EAC.Plugin.Review,1.0.1,Eternet,EAC plugin with source-only review diagnostics such as repo-root portability detection.
+2026-10-12T13:34:56.35Z,EAC.Plugin.Search,1.0.1,Eternet,"Built-in knowledge search runtime plugin for hybrid lexical and semantic retrieval across EAC capabilities, guidance, contracts, and plugins."
+2026-10-12T13:35:01.44Z,EAC.Plugin.Validation,1.0.1,Eternet,EAC plugin that reserves validation remediation metadata and built-in capability discovery.
+2026-10-12T13:35:35.953Z,Eternet.Agents.Control.WorkspaceHost,2.1.1,Eternet,Private prepared diagnostic worker host for EAC plan and workspace sessions.
+2026-10-12T13:35:41.57Z,EAC.Plugin.AnalyzerCatalog,1.0.1,Eternet,EAC Analyzer catalog plugin that declares the analyzer packages required by EAC diagnostics.
+2026-10-12T13:45:07.03Z,ESCPOS_NET_J,0.1.0,"Jonathan Soderberg, Luke Paireepinart",.NET 10 implementation of ESC/POS command generation and integration with thermal printers. Allows creating receipts with all common functionality supported.
+2026-10-12T13:45:25.727Z,Termin.Graphics,0.5.2,Termin contributors,Windows x64 D3D11 runtime and C# bindings for Termin Graphics.
+2026-10-12T13:47:10.46Z,RP.WpfStyledWindow,1.0.0,Roman Padura,"A customizable WPF Window with rounded corners, a styled title bar and configurable minimize / maximize / close buttons. Supports .NET Framework 4.6.1+ and .NET 6 - 10."
+2026-10-12T13:48:09.96Z,DynamicDave.Umbraco.ContentHealth,18.0.2,DynamicDave,"Finds broken internal links in Umbraco content: links to deleted, trashed or unpublished pages and media. A dashboard lists them with filters and CSV export, and every document shows its broken links and the pages that link to it."
+2026-10-12T13:51:25.513Z,Dijitalya.Imaging,1.0.0,Dijitalya,"Image codecs and processing in pure C# with no dependencies and no native code. Decodes JPEG, PNG, GIF, BMP and WebP (lossy, lossless, alpha, the first frame of animations); encodes JPEG, PNG, WebP, GIF and BMP. Reads picture sizes from headers, keeps ICC colour profiles, applies EXIF orientation,…"
+2026-10-12T13:53:00.357Z,Termin.Graphics.Wpf,0.5.2,Termin contributors,WPF hosts for the Termin Graphics Windows D3D11 runtime.
