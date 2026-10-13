@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-13T11:55:33.66Z,SU2.C15e.Infrastructure.Http,2.0.3,SU2 Platform,External HTTP client foundation with destination validation and safe transport defaults.
+2026-10-13T11:56:11.417Z,SU2.C15e.UseCases.Data,2.0.3,SU2 Platform,Opt-in EF Core and Dapper application data ports.
+2026-10-13T12:00:18.74Z,aio,0.3.0,asantamariaplainconcepts,"AI Orchestrator: the loop that takes an issue to a merged pull request, in your browser."
