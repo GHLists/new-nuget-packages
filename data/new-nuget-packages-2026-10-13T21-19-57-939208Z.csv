@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-13T20:26:57.943Z,yaspire,0.1.0,Daniel Reis,.NET Yaspire: write Aspire AppHosts in YAML and drive them with the Aspire CLI.
+2026-10-13T20:27:20.89Z,DBVT.WPF.Effects,0.1.0,Daniel Benjamin Veit,The 'DBVT WPF Effects Kit' is a kit with broad range of effects for use in Windows Presentation Foundation (WPF).
+2026-10-13T20:30:14.14Z,PepperDash.Essentials.Plugins.Megapixel.Helios,2.0.0,PepperDash Technology,Package Description
+2026-10-13T20:32:39.703Z,DumpKit,1.0.0,Thomas Skovsende,"LINQPad-style Dump() for single-file C# programs: renders values to a self-contained HTML report, with charts."
+2026-10-13T20:41:21.013Z,E2e4.Chess.OpenSeal,1.0.1,Th3Snark,"C# implementation of the FICS timeseal/openseal handshake encoder, derived from openseal.c by Marcello Mamino (GPL v2 or later)."
+2026-10-13T20:45:37.403Z,SkiaUi.Maui.CommunityToolkit,1.0.0-Prerelease11,Rafal Kukla,CommunityToolkit.Maui integration for SkiaUi.Maui: drawn pickers (and other drawn controls with popups) show their popups in the toolkit's Popup.
+2026-10-13T21:08:41.097Z,XamlG.Syntax,0.1.0,Wiesław Šoltés,"Source-preserving XAML syntax, error recovery, namespace scopes and incremental parsing."
+2026-10-13T21:08:41.787Z,XamlG.Automation,0.1.0,Wiesław Šoltés,"Reusable typed IDE automation contracts, tool catalog, validation and permission policies."
+2026-10-13T21:08:42.5Z,XamlG.Generator,0.1.0,Wiesław Šoltés,Incremental XAML-to-C# source generator and MSBuild integration for XamlG.
+2026-10-13T21:08:43.123Z,XamlG.IntelligentUI,0.1.0,Wiesław Šoltés,"Catalog-validated intelligent XAML, bounded C# expressions, revisioned interactive state and reusable automation integration."
+2026-10-13T21:08:43.71Z,XamlG.AvaloniaRuntime,0.1.0,Wiesław Šoltés,"Avalonia bindings, resources, visual inspection, input dispatch and state-preserving reload for compiled XAML."
+2026-10-13T21:08:44.397Z,XamlG.Agents.Anthropic,0.1.0,Wiesław Šoltés,Official Anthropic C# Messages SDK adapter for the reusable XamlG coding-agent harness.
+2026-10-13T21:08:45.09Z,XamlG.LanguageServer,0.1.0,Wiesław Šoltés,"Reusable XAML language server with JSON-RPC, document overlays, diagnostics and cancellation-safe publication."
+2026-10-13T21:08:46.72Z,XamlG.Cli,0.1.0,Wiesław Šoltés,"Compile, validate and inspect XAML using the reusable XamlG Roslyn compiler."
+2026-10-13T21:08:47.59Z,XamlG.ProjectSystem,0.1.0,Wiesław Šoltés,"Portable solution/project inspection, transactional virtual files and project creation for XamlG Studio."
+2026-10-13T21:08:48.227Z,XamlG.Agents,0.1.0,Wiesław Šoltés,Reusable provider-independent coding agent orchestration over typed IDE automation.
+2026-10-13T21:08:48.823Z,XamlG.IntelligentUI.Avalonia,0.1.0,Wiesław Šoltés,Native Avalonia rendering and keyed reconciliation for intelligent XAML surfaces.
+2026-10-13T21:08:49.43Z,XamlG.Compiler,0.1.0,Wiesław Šoltés,"Framework-independent XAML semantic compiler with typed construction, conversion and resource operations."
+2026-10-13T21:08:51.34Z,XamlG.Studio.Host,0.1.0,Wiesław Šoltés,Loopback MCP and coding-agent companion for the XamlG Dockyard IDE.
+2026-10-13T21:08:52.1Z,XamlG.Frameworks,0.1.0,Wiesław Šoltés,Symbol-only framework profiles and semantic adapters for XamlG.
+2026-10-13T21:08:52.75Z,XamlG.Avalonia,0.1.0,Wiesław Šoltés,"Single-reference Avalonia integration for the XamlG source compiler, build targets and runtime."
+2026-10-13T21:08:53.453Z,XamlG.Agents.OpenAI,0.1.0,Wiesław Šoltés,Official OpenAI C# Responses SDK adapter for the reusable XamlG coding-agent harness.
+2026-10-13T21:08:54.14Z,XamlG.Workspaces,0.1.0,Wiesław Šoltés,"MSBuild and Roslyn workspace loading, project snapshots, resource inputs and watched refresh for XamlG."
+2026-10-13T21:08:54.77Z,XamlG.Runtime,0.1.0,Wiesław Šoltés,"Runtime services, namescopes, resource exports, initialization and reload primitives for compiled XAML."
+2026-10-13T21:08:55.343Z,XamlG.Roslyn,0.1.0,Wiesław Šoltés,"Roslyn symbol binding, namespace metadata and type/member resolution for XAML compilers."
+2026-10-13T21:08:56.827Z,XamlG.Lsp,0.1.0,Wiesław Šoltés,Stdio language server for the Roslyn-native XamlG compiler.
+2026-10-13T21:08:57.88Z,XamlG.CSharp,0.1.0,Wiesław Šoltés,"C# emission, project compilation, resource linking and source mapping for XamlG."
+2026-10-13T21:08:58.867Z,XamlG.Tooling,0.1.0,Wiesław Šoltés,"XAML project analysis, navigation, source inspection and transactional designer editing."
+2026-10-13T21:08:59.817Z,XamlG.Mcp,0.1.0,Wiesław Šoltés,Official MCP SDK adapters for reusable XamlG automation hosts.
+2026-10-13T21:09:00.523Z,XamlG.Agents.Gemini,0.1.0,Wiesław Šoltés,Official Google Gen AI C# SDK adapter for the reusable XamlG coding-agent harness.
+2026-10-13T21:10:49.847Z,ApiGeneratorCli,1.0.0,ApiGeneratorCli,Package Description
+2026-10-13T21:10:59.637Z,TextViewControl,1.0.0,Manuel Steinhilber,"Fast read-only text viewer control for WinUI 3 (Win2D) for very large log files: millions of lines, word wrap, regex syntax highlighting, color filter, live appending with scrollback buffer, search."
