@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-13T18:36:50.407Z,SjolystInnovation.AppKit.Email,0.1.0,Sjølyst Innovation AS,"Transactional email through Brevo, with reply-to, attachments, a send result instead of exceptions, and delivery statistics."
+2026-10-13T18:47:09.47Z,Blacus.DataTools,1.0.1,Blacus,"A lightweight, zero-dependency, and highly optimized .NET 10 library designed to streamline data binding, pagination, multi-column sorting, advanced dynamic filtering, and object state comparison."
