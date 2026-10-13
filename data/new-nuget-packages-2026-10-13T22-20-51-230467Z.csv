@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-13T21:33:17.363Z,Raycoon.RayMigrator.Repository.ReadModel,0.17.0,RAYCOON.com GmbH,"Technology-neutral read model of the RayMigrator repository: the table and column names of every database engine, one record type per table, the schema version and a row mapper for ADO.NET results. No EF Core and no database driver. Licensed under BUSL-1.1 with Additional Use Grant — see LICENSE.md."
+2026-10-13T21:33:44.557Z,Rustyprint,1.0.0,Ryan Verschuren,"rustyprint renders HTML and CSS to PDF with a layout engine of its own, written in Rust: no browser, no external runtime and no network access unless allowed."
+2026-10-13T21:43:42.857Z,Vespertan.VisualStudio.AgentProxy.Client,0.9.0,Vespertan,Command-line client for the local VS Agent Proxy Visual Studio extension.
+2026-10-13T21:46:49.54Z,MetatraderSharp,1.0.0,Rosamund Holder,A C# wrapper library which simplifies the use of MTsocketAPI for MT4 and MT5
+2026-10-13T21:49:13.557Z,Kentico.Xperience.Labs.ComponentRegistry.Admin,3.0.0-prerelease-1,Kentico Software,Adds Administration Module for Xperience Component Registry Module.
+2026-10-13T21:49:15.91Z,Kentico.Xperience.Labs.ComponentRegistry.MCP,3.0.0-prerelease-1,Kentico Software,Adds MCP tools for Xperience Component Registry.
+2026-10-13T21:49:18.22Z,Kentico.Xperience.Labs.ComponentRegistry,3.0.0-prerelease-1,Kentico Software,Adds services for Xperience Component Registry.
+2026-10-13T21:50:25.187Z,Belin.Akismet.FSharp,1.0.0,CedX,Prevent comment spam using the Akismet service.
+2026-10-13T22:06:56.417Z,Switchknife.Journal,0.1.0,Yehor Hrabovskyi,"A durable step journal on SQLite: each side effect of a flow records its intent before it runs and its result after, so a process that restarts finishes or cleans up what it left. Native AOT compatible."
+2026-10-13T22:08:17.68Z,Ontos.Core,1.0.0,Pdawg,Attributes and enums consumed by Ontos decoder generators.
+2026-10-13T22:08:18.107Z,Ontos.ARM32,1.0.0,Pdawg,ARM32 decoder source generator for Ontos.
+2026-10-13T22:12:17.283Z,Authio.Testing,0.7.0,auth.io,"Test an application that uses Authio without an Authio server: an in-memory fake Authio served through an HttpMessageHandler (discovery, JWKS, the authorization endpoint with PKCE and web_message, every token grant, ID tokens with nonce and at_hash, JWE to a client's own key, introspection, revocat…"
+2026-10-13T22:12:58.587Z,CacheAnalyzer.Core,0.1.1,vadiks93,Advisory response analysis for discovering caching opportunities without modifying HTTP responses.
+2026-10-13T22:12:59.833Z,CacheAnalyzerHelper,0.1.1,vadiks93,Advisory response analysis for discovering caching opportunities without modifying HTTP responses.
+2026-10-13T22:13:01.293Z,CacheAnalyzer.AspNetCore,0.1.1,vadiks93,Advisory response analysis for discovering caching opportunities without modifying HTTP responses.
