@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-13T16:28:05.27Z,VideoLAN.LibVLC.Mac.GPL,3.1.3.2,VideoLAN,"LibVLC is a modular multimedia framework that can render video and output audio as well as encode and stream. As it is native code, you will need to use a wrapper library such as LibVLCSharp to use it from .NET. This package contains GPL plugins from official releases. Make sure you comply with the…"
+2026-10-13T16:28:05.327Z,Metalama.Extensions.Interceptors,2027.0.4-preview,PostSharp Technologies,An extension to Metalama.Framework that lets aspects and fabrics intercept the uses of methods.
+2026-10-13T16:28:06.83Z,Metalama.Extensions.Interceptors.Redist,2027.0.4-preview,PostSharp Technologies,"The redistributable package for Metalama.Extensions.Interceptors, which does not force projects to implicitly use the Metalama compiler."
+2026-10-13T16:30:58.723Z,EggSharp.Storage,13.0.0,DavidArthurCole,"Byte-level storage envelope with gzip, brotli and dictionary zstd."
+2026-10-13T16:31:08.963Z,HandyUI.Controls,2.1.0,davpnuser,Platform-agnostic-at-its-core code-only C# UI framework powered by SkiaSharp.
+2026-10-13T16:32:58.69Z,SjolystInnovation.AppKit.Hosting,0.1.0,Sjølyst Innovation AS,"Forwarded headers from trusted proxies only, per-IP rate limiting, security headers, HTTPS and health checks for ASP.NET Core APIs behind an ingress."
+2026-10-13T16:47:50.127Z,Vortex.Rimworld.Ref,1.7.4977,Vortex,RimWorld 1.7 reference assemblies. Compile mods without referencing the game.
