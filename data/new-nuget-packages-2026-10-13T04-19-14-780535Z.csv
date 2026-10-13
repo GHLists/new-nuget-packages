@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-13T03:20:42.97Z,TeaQL.Telemetry.OpenTelemetry,0.3.1,TeaQL,TeaQL runtime and data services for .NET
+2026-10-13T03:54:05.777Z,DocWeave,0.1.0,Francois Roux,"Fluent API and JSON templates for exporting and importing Excel (.xlsx) and CSV files, built on the Open XML SDK. Supports styled tables, formulas, charts, pivot tables, data validation and typed CSV import."
+2026-10-13T03:55:02.203Z,DocWeaveNS,0.1.0,Francois Roux,.NET Standard 2.0 compatible variant of DocWeave for importing and exporting Excel (.xlsx) and CSV files from .NET Framework applications.
+2026-10-13T04:04:44.637Z,AVCoders.Alarm,2026.10.2,AV Coders,"Alarm panel, area, zone and relay base classes for the AV Coders device library."
+2026-10-13T04:09:28.823Z,Pmmux.Extensions.Management.Models,0.0.2,Lenny Kean,PMMux management API models.
+2026-10-13T04:09:29.57Z,Pmmux.Extensions.Management.Abstractions,0.0.2,Lenny Kean,PMMux management API extension contracts.
+2026-10-13T04:09:30.19Z,Pmmux.Extensions.Acme.Abstractions,0.0.2,Lenny Kean,PMMux ACME challenge contracts.
+2026-10-13T04:09:30.743Z,Pmmux.Abstractions,0.0.2,Lenny Kean,PMMux extension contracts.
+2026-10-13T04:09:31.313Z,Pmmux.Extensions.Tls.Abstractions,0.0.2,Lenny Kean,PMMux TLS certificate contracts.
