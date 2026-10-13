@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-13T04:32:32.01Z,Fleans.Plugins.CamundaExternalTask,0.6.0,nightBaker,"Fleans Camunda 7 External Task compatibility plugin — queues <serviceTask type=""camunda:topic""> in a table and serves the Camunda 7 /external-task REST API so existing external-task workers keep working unchanged."
+2026-10-13T04:36:11.143Z,Andras.Result,1.0.0,André Melchior,Biblioteca compartilhada para implementação do Result Pattern em aplicações .NET.
+2026-10-13T04:55:44.387Z,Soenneker.TikTok.OpenApiClientUtil,4.0.9,Jake Soenneker,A thread-safe utility for obtaining TikTok's OpenApiClient singleton.
+2026-10-13T05:07:31.257Z,ISL.NetFramework.Payment.Driver,1.0.0,ISL.com,"Single-package multi-gateway payment driver for ISL services: one-call registration, IPaymentDriver API (client token, payment, capture, refund, cancel, webhook), REST endpoints, background reconciliation, and the database schema."
+2026-10-13T05:14:06.12Z,EasyAdminBlazor.CodeGenerator,2.4.0,gudufy,EasyAdminBlazor CRUD 代码生成器扩展
+2026-10-13T05:14:08.69Z,EasyAdminBlazor.Print,2.4.0,gudufy,EasyAdminBlazor 打印模板与报表设计器扩展

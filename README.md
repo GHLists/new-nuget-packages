@@ -12,23 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 04:19 UTC
+## Latest list — 2026-10-13 05:19 UTC
 
-New packages created between 2026-10-13 03:20 UTC and 2026-10-13 04:19 UTC.
+New packages created between 2026-10-13 04:19 UTC and 2026-10-13 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-13T04-19-14-780535Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-13T05-19-52-261695Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-13 03:20:42 | [TeaQL.Telemetry.OpenTelemetry](https://www.nuget.org/packages/TeaQL.Telemetry.OpenTelemetry) | 0.3.1 | TeaQL | TeaQL runtime and data services for .NET |
-| 2026-10-13 03:54:05 | [DocWeave](https://www.nuget.org/packages/DocWeave) | 0.1.0 | Francois Roux | Fluent API and JSON templates for exporting and importing Excel (.xlsx) and CSV… |
-| 2026-10-13 03:55:02 | [DocWeaveNS](https://www.nuget.org/packages/DocWeaveNS) | 0.1.0 | Francois Roux | .NET Standard 2.0 compatible variant of DocWeave for importing and exporting Ex… |
-| 2026-10-13 04:04:44 | [AVCoders.Alarm](https://www.nuget.org/packages/AVCoders.Alarm) | 2026.10.2 | AV Coders | Alarm panel, area, zone and relay base classes for the AV Coders device library. |
-| 2026-10-13 04:09:28 | [Pmmux.Extensions.Management.Models](https://www.nuget.org/packages/Pmmux.Extensions.Management.Models) | 0.0.2 | Lenny Kean | PMMux management API models. |
-| 2026-10-13 04:09:29 | [Pmmux.Extensions.Management.Abstractions](https://www.nuget.org/packages/Pmmux.Extensions.Management.Abstractions) | 0.0.2 | Lenny Kean | PMMux management API extension contracts. |
-| 2026-10-13 04:09:30 | [Pmmux.Extensions.Acme.Abstractions](https://www.nuget.org/packages/Pmmux.Extensions.Acme.Abstractions) | 0.0.2 | Lenny Kean | PMMux ACME challenge contracts. |
-| 2026-10-13 04:09:30 | [Pmmux.Abstractions](https://www.nuget.org/packages/Pmmux.Abstractions) | 0.0.2 | Lenny Kean | PMMux extension contracts. |
-| 2026-10-13 04:09:31 | [Pmmux.Extensions.Tls.Abstractions](https://www.nuget.org/packages/Pmmux.Extensions.Tls.Abstractions) | 0.0.2 | Lenny Kean | PMMux TLS certificate contracts. |
+| 2026-10-13 04:32:32 | [Fleans.Plugins.CamundaExternalTask](https://www.nuget.org/packages/Fleans.Plugins.CamundaExternalTask) | 0.6.0 | nightBaker | Fleans Camunda 7 External Task compatibility plugin — queues <serviceTask type=… |
+| 2026-10-13 04:36:11 | [Andras.Result](https://www.nuget.org/packages/Andras.Result) | 1.0.0 | André Melchior | Biblioteca compartilhada para implementação do Result Pattern em aplicações .NE… |
+| 2026-10-13 04:55:44 | [Soenneker.TikTok.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.TikTok.OpenApiClientUtil) | 4.0.9 | Jake Soenneker | A thread-safe utility for obtaining TikTok's OpenApiClient singleton. |
+| 2026-10-13 05:07:31 | [ISL.NetFramework.Payment.Driver](https://www.nuget.org/packages/ISL.NetFramework.Payment.Driver) | 1.0.0 | ISL.com | Single-package multi-gateway payment driver for ISL services: one-call registra… |
+| 2026-10-13 05:14:06 | [EasyAdminBlazor.CodeGenerator](https://www.nuget.org/packages/EasyAdminBlazor.CodeGenerator) | 2.4.0 | gudufy | EasyAdminBlazor CRUD 代码生成器扩展 |
+| 2026-10-13 05:14:08 | [EasyAdminBlazor.Print](https://www.nuget.org/packages/EasyAdminBlazor.Print) | 2.4.0 | gudufy | EasyAdminBlazor 打印模板与报表设计器扩展 |
 
 ## Data source
 
