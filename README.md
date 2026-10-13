@@ -12,20 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 05:19 UTC
+## Latest list — 2026-10-13 06:19 UTC
 
-New packages created between 2026-10-13 04:19 UTC and 2026-10-13 05:19 UTC.
+New packages created between 2026-10-13 05:19 UTC and 2026-10-13 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-13T05-19-52-261695Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-13T06-19-22-829474Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-13 04:32:32 | [Fleans.Plugins.CamundaExternalTask](https://www.nuget.org/packages/Fleans.Plugins.CamundaExternalTask) | 0.6.0 | nightBaker | Fleans Camunda 7 External Task compatibility plugin — queues <serviceTask type=… |
-| 2026-10-13 04:36:11 | [Andras.Result](https://www.nuget.org/packages/Andras.Result) | 1.0.0 | André Melchior | Biblioteca compartilhada para implementação do Result Pattern em aplicações .NE… |
-| 2026-10-13 04:55:44 | [Soenneker.TikTok.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.TikTok.OpenApiClientUtil) | 4.0.9 | Jake Soenneker | A thread-safe utility for obtaining TikTok's OpenApiClient singleton. |
-| 2026-10-13 05:07:31 | [ISL.NetFramework.Payment.Driver](https://www.nuget.org/packages/ISL.NetFramework.Payment.Driver) | 1.0.0 | ISL.com | Single-package multi-gateway payment driver for ISL services: one-call registra… |
-| 2026-10-13 05:14:06 | [EasyAdminBlazor.CodeGenerator](https://www.nuget.org/packages/EasyAdminBlazor.CodeGenerator) | 2.4.0 | gudufy | EasyAdminBlazor CRUD 代码生成器扩展 |
-| 2026-10-13 05:14:08 | [EasyAdminBlazor.Print](https://www.nuget.org/packages/EasyAdminBlazor.Print) | 2.4.0 | gudufy | EasyAdminBlazor 打印模板与报表设计器扩展 |
+| 2026-10-13 05:26:34 | [PulseSharp.PostgreSql](https://www.nuget.org/packages/PulseSharp.PostgreSql) | 0.4.0-alpha | Waqas Ahmad | PostgreSQL store for PulseSharp: durable events and jobs for servers, with seve… |
+| 2026-10-13 05:29:14 | [chd.Hub.Base.Contracts](https://www.nuget.org/packages/chd.Hub.Base.Contracts) | 2.0.26286.160 | chd.Hub.Base.Contracts | Package Description |
+| 2026-10-13 05:33:05 | [vinstall](https://www.nuget.org/packages/vinstall) | 1.0.0 | vinstall | Package Description |
+| 2026-10-13 05:58:37 | [Tapis.Core.Reminders](https://www.nuget.org/packages/Tapis.Core.Reminders) | 1.0.0 | Tapis Organization | Tapis.Core notlar ve hatırlatıcılar modülü: kişisel notlar, hatırlatıcılar, ala… |
+| 2026-10-13 06:03:37 | [Cronitor.TickerQ](https://www.nuget.org/packages/Cronitor.TickerQ) | 10.4.76 | gonace | Reports every TickerQ cron job to Cronitor: run when it starts, complete when i… |
+| 2026-10-13 06:08:03 | [PixieInspector.ImGui](https://www.nuget.org/packages/PixieInspector.ImGui) | 0.1.0 | Rafael Sakamoto | The Dear ImGui view of PixieInspector, on Hexa.NET.ImGui: draws an inspector as… |
+| 2026-10-13 06:08:03 | [PixieInspector](https://www.nuget.org/packages/PixieInspector) | 0.1.0 | Rafael Sakamoto | A reflection-based object inspector for .NET: point it at a type, bind one or m… |
+| 2026-10-13 06:08:04 | [PixieInspector.Avalonia](https://www.nuget.org/packages/PixieInspector.Avalonia) | 0.1.0 | Rafael Sakamoto | The Avalonia view of PixieInspector: a property grid for an inspector, and the… |
+| 2026-10-13 06:08:05 | [PixieInspector.Wpf](https://www.nuget.org/packages/PixieInspector.Wpf) | 0.1.0 | Rafael Sakamoto | The WPF view of PixieInspector: a property grid for an inspector, and the conve… |
+| 2026-10-13 06:08:05 | [PixieInspector.WinForms](https://www.nuget.org/packages/PixieInspector.WinForms) | 0.1.0 | Rafael Sakamoto | The WinForms view of PixieInspector: a property grid for an inspector, and the… |
+| 2026-10-13 06:13:56 | [KnOwl.ButterMorph.SampleTypes](https://www.nuget.org/packages/KnOwl.ButterMorph.SampleTypes) | 2.4.0 | Elysium Coding | Sample C# custom language types for KnOwl ButterMorph type bundle validation. |
 
 ## Data source
 

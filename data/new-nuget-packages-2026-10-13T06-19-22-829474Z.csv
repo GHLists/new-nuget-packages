@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-13T05:26:34.123Z,PulseSharp.PostgreSql,0.4.0-alpha,Waqas Ahmad,"PostgreSQL store for PulseSharp: durable events and jobs for servers, with several app instances sharing one database. Depends only on Npgsql."
+2026-10-13T05:29:14.873Z,chd.Hub.Base.Contracts,2.0.26286.160,chd.Hub.Base.Contracts,Package Description
+2026-10-13T05:33:05.303Z,vinstall,1.0.0,vinstall,Package Description
+2026-10-13T05:58:37.76Z,Tapis.Core.Reminders,1.0.0,Tapis Organization,"Tapis.Core notlar ve hatırlatıcılar modülü: kişisel notlar, hatırlatıcılar, alarm zamanlayıcı, uygulama içi bildirimler (SignalR) ve ekler. Her ürün kendi veritabanında barındırır. Publicly distributed proprietary software. Usage is subject to LICENSE.txt."
+2026-10-13T06:03:37.423Z,Cronitor.TickerQ,10.4.76,gonace,"Reports every TickerQ cron job to Cronitor: run when it starts, complete when it succeeds and fail when it fails."
+2026-10-13T06:08:03.397Z,PixieInspector.ImGui,0.1.0,Rafael Sakamoto,"The Dear ImGui view of PixieInspector, on Hexa.NET.ImGui: draws an inspector as a two-column table inside the host's ImGui frame. The host must use the same ImGui binding and version."
+2026-10-13T06:08:03.913Z,PixieInspector,0.1.0,Rafael Sakamoto,"A reflection-based object inspector for .NET: point it at a type, bind one or more objects, and it builds a tree of the members, reads and writes them, and reports what it could not do. The core knows no UI framework; a view package shows the tree and edits it."
+2026-10-13T06:08:04.567Z,PixieInspector.Avalonia,0.1.0,Rafael Sakamoto,"The Avalonia view of PixieInspector: a property grid for an inspector, and the conversions of the PixieLib primitives with Avalonia types."
+2026-10-13T06:08:05.29Z,PixieInspector.Wpf,0.1.0,Rafael Sakamoto,"The WPF view of PixieInspector: a property grid for an inspector, and the conversions of the PixieLib primitives with WPF types. Windows only."
+2026-10-13T06:08:05.947Z,PixieInspector.WinForms,0.1.0,Rafael Sakamoto,"The WinForms view of PixieInspector: a property grid for an inspector, and the conversions of the PixieLib primitives with WinForms types. Windows only."
+2026-10-13T06:13:56.053Z,KnOwl.ButterMorph.SampleTypes,2.4.0,Elysium Coding,Sample C# custom language types for KnOwl ButterMorph type bundle validation.
