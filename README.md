@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 08:19 UTC
+## Latest list — 2026-10-13 09:19 UTC
 
-New packages created between 2026-10-13 07:21 UTC and 2026-10-13 08:19 UTC.
+New packages created between 2026-10-13 08:19 UTC and 2026-10-13 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-13T08-19-32-637067Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-13T09-19-11-019337Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-13 07:28:47 | [Webority.Delivery](https://www.nuget.org/packages/Webority.Delivery) | 0.12.0 | Webority Technologies | Versioned links to a product's authored static assets, the files listed in the… |
-| 2026-10-13 07:54:53 | [CSStack.DDD](https://www.nuget.org/packages/CSStack.DDD) | 0.1.1 | Uta Sugane | A lightweight toolkit of building blocks for Domain-Driven Design (DDD) in C#.… |
+| 2026-10-13 08:34:47 | [Wiknap.Testcontainers.GreenMail](https://www.nuget.org/packages/Wiknap.Testcontainers.GreenMail) | 1.0.2 | Wiknap | Testcontainers for GreenMail |
+| 2026-10-13 08:43:26 | [NtvLibs.OnnxRuntime.CPU.cuda12.Tensorrt.onnxruntime_providers_cuda.runtime.linux-x64.f02](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.cuda12.Tensorrt.onnxruntime_providers_cuda.runtime.linux-x64.f02) | 1.31.0 | nietras | native library runtime specific fragment 2/3 package |
+| 2026-10-13 08:47:06 | [Dot0.Jibit](https://www.nuget.org/packages/Dot0.Jibit) | 10.0.1 | Dot0.Jibit | Jibit.ir HTTP client for .NET |
+| 2026-10-13 08:51:06 | [Fungusware.Nfs](https://www.nuget.org/packages/Fungusware.Nfs) | 2026.10.13.850 | Fungusware | A managed, async NFS client for .NET. Connect to NFSv3 servers and NAS devices,… |
+| 2026-10-13 08:55:21 | [RestExceptions.FluentValidation](https://www.nuget.org/packages/RestExceptions.FluentValidation) | 10.1.0 | Stratis-Dermanoutsos | FluentValidation integration for RestExceptions. Maps ValidationException to RF… |
 
 ## Data source
 

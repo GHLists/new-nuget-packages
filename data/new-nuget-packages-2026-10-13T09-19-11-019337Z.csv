@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-13T08:34:47.52Z,Wiknap.Testcontainers.GreenMail,1.0.2,Wiknap,Testcontainers for GreenMail
+2026-10-13T08:43:26.61Z,NtvLibs.OnnxRuntime.CPU.cuda12.Tensorrt.onnxruntime_providers_cuda.runtime.linux-x64.f02,1.31.0,nietras,native library runtime specific fragment 2/3 package
+2026-10-13T08:47:06.527Z,Dot0.Jibit,10.0.1,Dot0.Jibit,Jibit.ir HTTP client for .NET
+2026-10-13T08:51:06.387Z,Fungusware.Nfs,2026.10.13.850,Fungusware,"A managed, async NFS client for .NET. Connect to NFSv3 servers and NAS devices, list, read and write files with ordinary paths, with parallel transfers. No operating system NFS client, administrator rights or native code required."
+2026-10-13T08:55:21.237Z,RestExceptions.FluentValidation,10.1.0,Stratis-Dermanoutsos,"FluentValidation integration for RestExceptions. Maps ValidationException to RFC7807-compliant HTTP responses, picking the status code from each rule's ErrorCode."
