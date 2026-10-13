@@ -1,10 +1,10 @@
 {
   "list": {
-    "count": 11,
-    "from": "2026-10-13T05:19:52.261695Z",
-    "path": "data/new-nuget-packages-2026-10-13T06-19-22-829474Z.csv",
-    "to": "2026-10-13T06:19:22.829474Z"
+    "count": 46,
+    "from": "2026-10-13T06:19:22.829474Z",
+    "path": "data/new-nuget-packages-2026-10-13T07-21-54-8702Z.csv",
+    "to": "2026-10-13T07:21:54.8702Z"
   },
   "source_truncated": false,
-  "window": "2026-10-13T06:19:22.829474Z"
+  "window": "2026-10-13T07:21:54.8702Z"
 }
