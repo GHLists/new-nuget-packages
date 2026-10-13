@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-13T12:26:34.9Z,LightUi,1.0.2,vvsnow,轻量 WPF 控件库：把 WPF 自带控件统一重刷成现代扁平外观，并提供 Flyout / MenuFlyout / DropDownButton / ToggleSwitch / FontIcon 等扩展控件，以及一套不依赖 WindowChrome 的无边框窗口方案。
+2026-10-13T12:28:06.893Z,Nimblesite.Sync.SqlServer,0.11.0-beta,ChristianFindlay,Package Description
+2026-10-13T12:32:41.89Z,Ternary.Data.LiteDb,10.0.1,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-13T12:40:24.66Z,MemoryPack.Generator.DateTimeOffsetPatch,1.21.4.1,"aminparsa18,Cysharp",Unofficial patched build of the MemoryPack source generator (based on Cysharp/MemoryPack 1.21.4) that adds DateTimeOffset support to the TypeScript generator (fixes MEMPACK031). Drop-in replacement for MemoryPack.Generator; see Cysharp/MemoryPack PR #459. Use together with the official MemoryPack.C…
+2026-10-13T13:09:58.01Z,PowerTraces.Sqlite,1.4.0,PowerTraces contributors,"SQLite provider for PowerTraces — exports traces/logs to a local SQLite file, no database server, tables created automatically."
