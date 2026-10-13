@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-13T02:40:35.59Z,Meridian.Context,1.0.0,Angel Hernandez,Ambient execution context primitives shared across every Meridian subsystem.
+2026-10-13T02:41:00.417Z,Meridian.Knowledge,1.0.0,Angel Hernandez,"Embeddings, a pluggable semantic store, and retrieval (RAG) built on top of Meridian.Models."
+2026-10-13T02:41:08.88Z,Meridian.Agents,1.0.0,Angel Hernandez,"Agent construction, tools, memory and sequential/parallel workflows, built on the Microsoft Agent Framework (MAF)."
+2026-10-13T02:41:17.513Z,Meridian.Observability,1.0.0,Angel Hernandez,"Tracing (ActivitySource), metrics (Meter) and lightweight response evaluation shared across Meridian."
+2026-10-13T02:41:24.77Z,Meridian.Hosting,1.0.0,Angel Hernandez,"The services.AddMeridian(...) front door: wires Models, Knowledge, Agents and Observability into an IServiceCollection with one opinionated, fluent builder."
+2026-10-13T02:46:32.7Z,HcmIdentityProvisioning.Domain,1.1.0,Mateus Ferreira,Enterprise Domain Models and Ports for HCM Identity Provisioning
+2026-10-13T02:46:33.373Z,HcmIdentityProvisioning.Application,1.1.0,Mateus Ferreira,Enterprise Application Use Cases and Services for HCM Identity Provisioning
+2026-10-13T02:46:37.283Z,HcmIdentityProvisioning,1.1.0,Mateus Ferreira,Enterprise Microsoft Entra ID SCIM/HCM Provisioning & Reconciliation Engine
+2026-10-13T02:49:52.267Z,Hedgehog.MSTest,1.0.0,"Andrii Chebukin, Alexey Raga",Hedgehog with convenience attributes for MSTest. - Test method arguments generated with a custom Gen.auto... - ...or with a custom Generator. - Property.check called for each test.
