@@ -1,0 +1,30 @@
+created_at,package,version,authors,description
+2026-10-13T00:23:35.75Z,Magikarp,0.1.2,Magikarp,".NET bindings for Google's Magika, generated with UniFFI."
+2026-10-13T00:25:28.52Z,StayFn.Runtime,0.9.0,On Demand Solutions,"Function registry, invoker, middleware pipeline, variables, idempotency, scheduler."
+2026-10-13T00:25:29.097Z,StayFn.Data,0.9.0,On Demand Solutions,"EF Core DbContext, entities, migrations, row-level security interceptor."
+2026-10-13T00:25:30.203Z,StayFn.Ohip.Generated,0.9.0,On Demand Solutions,Kiota-generated OHIP module clients. Generated from tools/ohip-specs; never hand-edited.
+2026-10-13T00:25:30.733Z,StayFn.Events,0.9.0,On Demand Solutions,"Inbox/outbox, deduplication, outbox dispatcher, typed event contracts, streaming ingest, webhook signatures."
+2026-10-13T00:25:32.42Z,stayfn,0.9.0,On Demand Solutions,"stayfn command-line tool: new, catalog, sdk, validate, run, replay, ohip ping, dev."
+2026-10-13T00:25:33.033Z,StayFn.Abstractions,0.9.0,On Demand Solutions,"StayFn function contracts: attributes, context interfaces and identifiers. No dependencies beyond logging abstractions."
+2026-10-13T00:25:33.62Z,StayFn.Ohip,0.9.0,On Demand Solutions,"OHIP client: token provider, rate-limit governor, delegating handler chain, error mapping, module façade."
+2026-10-13T00:25:34.247Z,StayFn.Client,0.9.0,On Demand Solutions,"Runtime of the SDKs `stayfn sdk generate --lang csharp` writes: a typed HttpClient wrapper over the StayFn function API (tenant key, hotel, correlation and idempotency headers, RFC 9457 problems as StayFnProblemException, bounded Retry-After retries on 429/503, the invocation id on every result). N…"
+2026-10-13T00:25:34.89Z,StayFn.Testing,0.9.0,On Demand Solutions,"Test host for StayFn functions: a real IOhipClient over WireMock plus an in-memory IFunctionContext, so function tests run the same pipeline as the host (plan §9 test template; scaffolded tests reference this package)."
+2026-10-13T00:25:35.507Z,StayFn.Analyzers,0.9.0,On Demand Solutions,"Roslyn analyzers for StayFn function classes: no HttpClient/DbContext/IConfiguration, function signatures, serialisable contracts, areas in shipping assemblies (plan T3.9); and FunctionClientGenerator, the typed in-host function client ctx.Functions.Rsv()… (ADR-0004 A1)."
+2026-10-13T00:35:46.29Z,jattac.libs.database_access,0.2.0,Nyingi Maina,"Strongly typed MySQL access through plain classes (POCOs): tables and columns are checked against your classes, every value is a parameter, and queries are built with Jattac.Libraries.QBuilder."
+2026-10-13T00:38:35.317Z,HHNY.NET.Base.Pure,1.0.0,HHNY,让 .NET 开发更简单，更通用，更流行。
+2026-10-13T00:53:18.24Z,Bellerophon.Tool,0.4.0,Donald Airey,The bell command for Bellerophon models: bell validate <path to bellerophon.json> reports every model error with its line and column. Install with: dotnet tool install --global Bellerophon.Tool
+2026-10-13T00:53:18.577Z,Bellerophon,0.4.0,Donald Airey,"Model-driven code generation for .NET: a Roslyn incremental source generator that turns one JSON model (bellerophon.json) into a multi-tenant, in-memory ledger with transactions, constraints, an ASP.NET Core API, write-behind persistence, a change feed, and rules-engine facts. Reference Bellerophon…"
+2026-10-13T00:53:18.987Z,Bellerophon.SqlServer,0.4.0,Donald Airey,"SQL Server persistence for Bellerophon models: referencing it makes the generator emit the model's bulk writer (table-valued parameters, one round trip per cut) and its loader for recovery at startup. Includes Microsoft Entra authentication for Azure SQL."
+2026-10-13T00:53:19.91Z,Bellerophon.Rules.NRules,0.4.0,Donald Airey,"Connects NRules to Bellerophon's rules host: one NRules session per tenant, compiled once from your rule repository."
+2026-10-13T00:53:20.443Z,Bellerophon.Rules,0.4.0,Donald Airey,"The rules engine host for Bellerophon models: one session per tenant, fed by the tenant's change feed and latest values, evaluated in cycles, with each cycle's decisions committed in one transaction. Referencing it makes the generator emit the model's rules adapters. Connect an engine with Bellerop…"
+2026-10-13T00:53:20.973Z,Bellerophon.Runtime,0.4.0,Donald Airey,"The fixed server code Bellerophon's generated code calls: OAuth scope and identity claim checks, tenant membership authorization, the model contract (version and fingerprint, 426 on mismatch), the batch endpoint's request types, and service registration."
+2026-10-13T01:04:30.11Z,GlimpsePlayer.API,0.1.0,aquagoose,The official API for the Glimpse Music Player.
+2026-10-13T01:05:15.823Z,EggSharp.GameData.Assets,1.0.0,DavidArthurCole,"Egg, Inc. artifact and mission-target images as static web assets, served at _content/EggSharp.GameData.Assets/."
+2026-10-13T01:05:16.507Z,EggSharp.GameData,1.0.0,DavidArthurCole,"Egg, Inc. game data extracted from the binary: effect families, catalogs, folding and artifact definitions."
+2026-10-13T01:05:17.01Z,EggSharp.Core,1.0.0,DavidArthurCole,"Egg, Inc. wire primitives: EID, version triple, signing, framing, host map."
+2026-10-13T01:05:17.64Z,EggSharp.Testing,1.0.0,DavidArthurCole,"Test doubles for Egg, Inc. clients: a stub auxbrain HTTP handler, an endpoint fixture loader and a fake IEggIncApi."
+2026-10-13T01:05:18.533Z,EggSharp.Storage,1.0.0,DavidArthurCole,"Byte-level storage envelope with gzip, brotli and dictionary zstd."
+2026-10-13T01:05:19.243Z,EggSharp.Protos,1.0.0,DavidArthurCole,"Egg, Inc. ei.proto and common.proto as package content, exposed through and ."
+2026-10-13T01:05:19.963Z,EggSharp.Ei.ProtobufNet,1.0.0,DavidArthurCole,"Generates the EggIncProtoPath proto into the consuming assembly as protobuf-net types in namespace Ei through protogen, with an IEiCodec binding."
+2026-10-13T01:05:20.567Z,EggSharp.Api,1.0.0,DavidArthurCole,"Egg, Inc. API client over IHttpClientFactory, with per-consumer presets."
+2026-10-13T01:05:21.217Z,EggSharp.Ei.Google,1.0.0,DavidArthurCole,"Compiles $(EggIncProtoPath) into the consuming assembly as Google.Protobuf types in namespace Ei, with an IEiCodec binding and typed EggSharp.Api helpers."
