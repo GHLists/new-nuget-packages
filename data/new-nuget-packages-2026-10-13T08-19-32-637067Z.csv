@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-13T07:28:47.543Z,Webority.Delivery,0.12.0,Webority Technologies,"Versioned links to a product's authored static assets, the files listed in the repo's .webority/static.json and stored on Cloudflare R2, from any .NET host: IAuthoredAssets.Url(key) returns the authored origin, the key and ?v= with the first 12 hex of the file's sha256. A host without pages (Azure…"
+2026-10-13T07:54:53.27Z,CSStack.DDD,0.1.1,Uta Sugane,"A lightweight toolkit of building blocks for Domain-Driven Design (DDD) in C#. It provides interfaces and base classes for value objects, entities, aggregate roots, domain events, repositories and the unit of work, with no dependency on any persistence technology."
