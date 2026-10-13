@@ -1,0 +1,60 @@
+created_at,package,version,authors,description
+2026-10-13T09:37:48.4Z,Synvro.Modulus.Cli,1.5.0,synvro,"Command-line interface for the Modulus framework. Scaffold modular-monolith applications, add modules, and generate CRUD code."
+2026-10-13T09:44:08.15Z,Chrome.DevTools.Automation.Appium,0.1.0,Wiesław Šoltés,Appium driver and test setup orchestration support for Chrome DevTools Protocol (CDP) and Avalonia UI.
+2026-10-13T09:44:09.15Z,Chrome.DevTools.Automation.Headless,0.1.0,Wiesław Šoltés,Headless driver and test helper support for Chrome DevTools Protocol (CDP) and Avalonia UI.
+2026-10-13T09:44:10.33Z,Chrome.DevTools.Automation.OS,0.1.0,Wiesław Šoltés,Cross-platform operating system automation and accessibility provider for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:11.3Z,Chrome.DevTools.Automation.Selenium,0.1.0,Wiesław Šoltés,Selenium driver and test setup orchestration support for Chrome DevTools Protocol (CDP) and Avalonia UI.
+2026-10-13T09:44:12.35Z,Chrome.DevTools.Avalonia,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) diagnostics server support for Avalonia UI.
+2026-10-13T09:44:13.377Z,Chrome.DevTools.Avalonia.Rdp,0.1.0,Wiesław Šoltés,Avalonia UI custom controls and CDP diagnostic integration for Remote Desktop Protocol (RDP) sessions.
+2026-10-13T09:44:14.727Z,Chrome.DevTools.Avalonia.v11,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) diagnostics server support for Avalonia UI v11.
+2026-10-13T09:44:15.683Z,Chrome.DevTools.CSharp.LanguageServer,0.1.0,Wiesław Šoltés,C# Language Server Protocol (LSP) implementation using Microsoft.CodeAnalysis.CSharp (Roslyn) parsing.
+2026-10-13T09:44:19.453Z,Chrome.DevTools.Cli,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) client CLI for Avalonia UI applications.
+2026-10-13T09:44:20.773Z,Chrome.DevTools.Css.Parser,0.1.0,Wiesław Šoltés,CSS stylesheets and selectors parser library.
+2026-10-13T09:44:21.71Z,Chrome.DevTools.DiagnosticTools,0.1.0,Wiesław Šoltés,In-process CDP diagnostic inspector tool integration for Avalonia UI applications.
+2026-10-13T09:44:22.65Z,Chrome.DevTools.Document.Editor,0.1.0,Wiesław Šoltés,"Interactive rich document editor canvas for Avalonia applications (DOCX, RTF, PPTX, XLSX)."
+2026-10-13T09:44:23.61Z,Chrome.DevTools.Document.Parser,0.1.0,Wiesław Šoltés,"Document syntax/AST parser library supporting DOCX, RTF, PPTX, and XLSX formats."
+2026-10-13T09:44:24.557Z,Chrome.DevTools.Document.Renderer,0.1.0,Wiesław Šoltés,"SkiaSharp-based document renderer for DOCX, RTF, PPTX, and XLSX ASTs."
+2026-10-13T09:44:25.507Z,Chrome.DevTools.Editor.Minimap,0.1.0,Wiesław Šoltés,Standalone Minimap and Inline Editor Extensions for AvaloniaEdit.
+2026-10-13T09:44:26.463Z,Chrome.DevTools.Editor.Nodes,0.1.0,Wiesław Šoltés,"Standalone, generic graph node editor control for Avalonia UI."
+2026-10-13T09:44:27.36Z,Chrome.DevTools.Editor.Nodes.Msagl,0.1.0,Wiesław Šoltés,Microsoft MSAGL layout integration for standalone graph node editor.
+2026-10-13T09:44:28.297Z,Chrome.DevTools.Editor.Splits,0.1.0,Wiesław Šoltés,Dynamic binary split layout container for Avalonia applications.
+2026-10-13T09:44:29.21Z,Chrome.DevTools.FluentNavigation,0.1.0,Wiesław Šoltés,Custom Fluent NavigationView and navigation controls library for Avalonia.
+2026-10-13T09:44:30.103Z,Chrome.DevTools.Html.Parser,0.1.0,Wiesław Šoltés,HTML DOM parser library matching Markdown AST concepts.
+2026-10-13T09:44:31.04Z,Chrome.DevTools.Html.Renderer,0.1.0,Wiesław Šoltés,"SkiaSharp-based HTML/CSS rendering engine supporting style cascade, box tree layouts, and flexbox."
+2026-10-13T09:44:41.857Z,Chrome.DevTools.Inspector,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) client inspector for Avalonia UI applications.
+2026-10-13T09:44:42.823Z,Chrome.DevTools.Inspector.Controls,0.1.0,Wiesław Šoltés,Custom controls for the CDP Inspector client.
+2026-10-13T09:44:43.993Z,Chrome.DevTools.Inspector.Shared,0.1.0,Wiesław Šoltés,Shared UI components and view models for the CDP Inspector client.
+2026-10-13T09:44:44.997Z,Chrome.DevTools.Inspector.Wysiwyg,0.1.0,Wiesław Šoltés,WYSIWYG designer controls for the CDP Inspector client.
+2026-10-13T09:44:45.967Z,Chrome.DevTools.Integration.Core,0.1.0,Wiesław Šoltés,Core integrations facade and contracts for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:46.87Z,Chrome.DevTools.Integration.Qase,0.1.0,Wiesław Šoltés,Qase integration provider for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:47.76Z,Chrome.DevTools.Integration.TestMo,0.1.0,Wiesław Šoltés,TestMo integration provider for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:48.683Z,Chrome.DevTools.Integration.TestRail,0.1.0,Wiesław Šoltés,TestRail integration provider for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:49.837Z,Chrome.DevTools.Integration.Xray,0.1.0,Wiesław Šoltés,Xray integration provider for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:50.75Z,Chrome.DevTools.Integration.Zephyr,0.1.0,Wiesław Šoltés,Zephyr integration provider for Chrome DevTools Protocol (CDP).
+2026-10-13T09:44:51.833Z,Chrome.DevTools.JavaScript.LanguageServer,0.1.0,Wiesław Šoltés,Embedded Microsoft TypeScript language service for JavaScript and TypeScript editor tooling.
+2026-10-13T09:44:52.717Z,Chrome.DevTools.Markdown.Editor,0.1.0,Wiesław Šoltés,Interactive Markdown editor canvas for Avalonia applications.
+2026-10-13T09:44:53.607Z,Chrome.DevTools.Markdown.Parser,0.1.0,Wiesław Šoltés,GFM-compatible Markdown parser with custom AST and round-trip serializer.
+2026-10-13T09:44:54.493Z,Chrome.DevTools.Markdown.Renderer,0.1.0,Wiesław Šoltés,"SkiaSharp-based Markdown rendering engine with layout, hit-testing, and caret support."
+2026-10-13T09:44:55.37Z,Chrome.DevTools.Pdf.Editor,0.1.0,Wiesław Šoltés,State of the art interactive PDF rendering and editing canvas for Avalonia applications based on PdfPig and SkiaSharp.
+2026-10-13T09:44:56.303Z,Chrome.DevTools.Profiling.Analysis,0.1.0,Wiesław Šoltés,Standalone library for parsing and analyzing dotTrace .dtp and dotMemory .dmw profiles.
+2026-10-13T09:44:57.27Z,Chrome.DevTools.Protocol,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) core server and session logic.
+2026-10-13T09:44:58.227Z,Chrome.DevTools.Protocol.Automation,0.1.0,Wiesław Šoltés,"Optional client, OS automation, YAML, and reporting features for Chrome.DevTools.Protocol."
+2026-10-13T09:44:59.173Z,Chrome.DevTools.Protocol.Extensions,0.1.0,Wiesław Šoltés,"Optional automation, Jint, Skia, profiling, YAML, and XAML composition for Chrome.DevTools.Protocol."
+2026-10-13T09:45:00.11Z,Chrome.DevTools.Protocol.Jint,0.1.0,Wiesław Šoltés,Optional Jint evaluation and remote-object adapter for Chrome.DevTools.Protocol.
+2026-10-13T09:45:01.03Z,Chrome.DevTools.Protocol.Profiling,0.1.0,Wiesław Šoltés,Optional EventPipe and JetBrains profiling domains for Chrome.DevTools.Protocol.
+2026-10-13T09:45:01.98Z,Chrome.DevTools.Protocol.Skia,0.1.0,Wiesław Šoltés,Optional Skia screencast processing for Chrome.DevTools.Protocol.
+2026-10-13T09:45:02.89Z,Chrome.DevTools.Rdp,0.1.0,Wiesław Šoltés,"Core Remote Desktop Protocol (RDP) client library handling TPKT/X.224 connection negotiation, NLA/TLS security handshakes, virtual channels, input serialization, and frame updates for Chrome DevTools Protocol integration."
+2026-10-13T09:45:03.78Z,Chrome.DevTools.Rdp.Rendering,0.1.0,Wiesław Šoltés,"SkiaSharp-based RDP frame buffer rendering, double-buffering, tile compositing, and dirty region tracking engine for RDP client sessions."
+2026-10-13T09:45:07.597Z,Chrome.DevTools.Runner,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) headless runner for Avalonia UI applications.
+2026-10-13T09:45:08.557Z,Chrome.DevTools.Uno,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) diagnostics server support for Uno Platform.
+2026-10-13T09:45:09.503Z,Chrome.DevTools.WinUI,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) diagnostics server support for WinUI.
+2026-10-13T09:45:10.477Z,Chrome.DevTools.Wpf,0.1.0,Wiesław Šoltés,Chrome DevTools Protocol (CDP) diagnostics server support for WPF.
+2026-10-13T09:45:13.26Z,Chrome.DevTools.Xaml.Compiler,0.1.0,Wiesław Šoltés,"Core XAML Type System, Lossless AST Parser, and Mutation Engine."
+2026-10-13T09:45:14.173Z,Chrome.DevTools.Xaml.LanguageServer,0.1.0,Wiesław Šoltés,XAML Language Server Protocol (LSP) implementation utilizing the XAML compiler AST.
+2026-10-13T09:51:20.513Z,NextGenSoftware.OASIS.Providers.Shared.CrossChain,1.0.0,David Ellams (NextGen Software Ltd),Shared transfer model and tracking contract implemented by the OASIS cross-chain bridge providers. https://oasisomniverse.one
+2026-10-13T09:51:21.683Z,NextGenSoftware.OASIS.Providers.Shared.KeyValueStorage,1.0.0,David Ellams (NextGen Software Ltd),"Complete OASIS storage provider implementation (avatars, avatar details, holons, parent/child links, search, import/export) over any key-value or blob service. Used by the edge KV and blob storage providers. https://oasisomniverse.one"
+2026-10-13T10:03:17.967Z,XY.Core,0.1.0,alonsoalon,"ASP.NET Core host infrastructure for the XY framework, including authentication, responses, logging, OpenAPI and middleware integration."
+2026-10-13T10:13:11.347Z,Synvro.Modulus.AspNetCore.Hosting,0.9.0,synvro,"Hosting defaults for Modulus apps: response compression, security headers and a Content-Security-Policy with a per-request nonce, a health endpoint, and OpenTelemetry traces, metrics and logs."
+2026-10-13T10:13:23.113Z,Synvro.Modulus.AspNetCore.Mvc,0.9.0,synvro,"Modulus UI for ASP.NET Core MVC and Razor Pages: tag helpers that render the Ant Design DOM, the admin shell layout, htmx helpers and Alpine widgets."
+2026-10-13T10:13:49.333Z,Synvro.Modulus.Documents,0.9.0,synvro,"Office files for Modulus UI: xlsx in and out of the spreadsheet (ClosedXML), docx in and out of the document editor (Open XML SDK), PDF out of the document model (QuestPDF), and the editor-independent document model."
+2026-10-13T10:14:12.827Z,Sonde.Cli,0.1.0,Sonde contributors,"Command-line front door to Sonde: launch a process with the probe, then eval C# inside it."
