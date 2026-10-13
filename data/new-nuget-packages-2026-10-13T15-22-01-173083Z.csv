@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-13T14:27:43.61Z,Ternary.Data.Conversion,10.0.1,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-13T14:28:10.333Z,Maranics.AppStore.SDK.AspNetCore,1.0.0,Maranics.AppStore.SDK.AspNetCore,Maranics App Store SDK for ASP.NET Core: require AppStore's signed token on an application's notification endpoint
+2026-10-13T14:42:50.483Z,Hasbati.Percentage.Calculator,1.0.1,Hasbati,"A lightweight utility for percentage calculations. For the fully interactive graphical tool, visit our official website."
+2026-10-13T14:54:38.433Z,Linq2Dashboard.AI,0.2.111-beta,Joakim Dangården,"Agent tools for Linq2Dashboard: one dashboard as describe, query and show functions for Microsoft.Extensions.AI, which Agent Framework, Semantic Kernel, IChatClient and MCP servers take. Filters in Gridify syntax; errors returned so the model can correct itself."
+2026-10-13T15:00:10.223Z,ToddHenderson.Maui.MacIdiom.Compatibility,0.0.3,Todd Henderson,Compatibility handlers for .NET MAUI applications using the Mac Catalyst Mac UI idiom.
+2026-10-13T15:02:21.637Z,13371337,1.7.0,AIOKO,13371337: autonomous offline CPU AI and project tools for Visual Studio 2022.
