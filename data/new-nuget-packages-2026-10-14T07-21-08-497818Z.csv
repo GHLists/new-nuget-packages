@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-14T06:22:46.54Z,ChsBuffer.SkiaSharp.Static.osx-x64,4.153.1,ChsBuffer,SkiaSharp static library
+2026-10-14T06:22:52.333Z,ChsBuffer.SkiaSharp.Static.osx-arm64,4.153.1,ChsBuffer,SkiaSharp static library
+2026-10-14T06:26:48.75Z,ChsBuffer.Avalonia.Native.Static.osx-arm64,12.1.3,ChsBuffer,AvaloniaNative static library for macOS NativeAOT
+2026-10-14T06:26:50.577Z,ChsBuffer.Avalonia.Native.Static.osx-x64,12.1.3,ChsBuffer,AvaloniaNative static library for macOS NativeAOT
+2026-10-14T06:26:57.147Z,ChsBuffer.SkiaSharp.Static,4.153.1,ChsBuffer,Static SkiaSharp libraries for NativeAOT on all supported RIDs.
+2026-10-14T06:26:59.893Z,ChsBuffer.Avalonia.Native.Static,12.1.3,ChsBuffer,Static Avalonia.Native libraries for NativeAOT on all supported RIDs.
+2026-10-14T06:27:01.46Z,ChsBuffer.Angle.Static,2.1.27548.20260419,ChsBuffer,Static Angle libraries for NativeAOT on all supported RIDs.
+2026-10-14T06:31:29.58Z,CodeBrix.WebGpu.Skia.MitLicenseForever,1.0.287.390,Jeremy Ellis,"WebGPU rendering straight into SkiaSharp surfaces. Give it an SKSurface, an SKCanvas, a GRContext or nothing at all and it picks the fastest way to get WebGPU pixels onto it - zero copy when the surface lives on the same GPU device (Vulkan, Direct3D 12 or Metal), one GPU-side draw when it lives on…"
+2026-10-14T06:31:48.363Z,CodeBrix.WebGpu.Graphics.MitLicenseForever,1.0.287.390,Jeremy Ellis,"A friendly graphics layer over WebGPU for .NET: one context object owning (or sharing) the GPU device, typed buffers, textures, samplers, bind groups and WGSL shaders with readable compile errors, render and compute pipeline builders with vertex layouts derived from your structs, a batched 2D sprit…"
+2026-10-14T07:04:33.81Z,IkeMtz.AspNetCore.OpenApi,10.0.12-dev,Microsoft,Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations. This package was built from the source code at https://github.com/dotnet/aspnetcore/tree/cb21a42eafcd44cc35fad48d99dc82ff7512ce2f
+2026-10-14T07:07:48.937Z,IdIot.Mqtt.Cloud,1.3.3,IdIot,"Облачная сторона IdIot MQTT: несколько брокеров одновременно, реестр устройств и ACL Mosquitto, восемь каналов в обе стороны и мониторинг. Не зависит ни от EF Core, ни от провайдера БД."
+2026-10-14T07:07:51.5Z,IdIot.Mqtt.Cloud.Postgres,1.3.3,IdIot,"Хранилище облачного Hub IdIot MQTT на PostgreSQL и EF Core поверх существующего DbContext приложения: UsePostgresDbContext<TContext>(), схема mqtt_hub и общая транзакция с бизнес-данными."
+2026-10-14T07:07:54.22Z,IdIot.Mqtt.Core,1.3.3,IdIot,"Общая основа библиотек IdIot MQTT: wire-протокол v1, типизированные контракты, транспорт поверх MQTTnet и абстрактные контракты хранения. Приходит зависимостью IdIot.Mqtt.Cloud и IdIot.Mqtt.Device."
+2026-10-14T07:07:56.58Z,IdIot.Mqtt.Device,1.3.3,IdIot,"Сторона устройства IdIot MQTT: один брокер, восстановление связи и подписок, восемь каналов в обе стороны, durable outbox и inbox. Не зависит ни от EF Core, ни от провайдера БД."
+2026-10-14T07:07:58.96Z,IdIot.Mqtt.Device.Sqlite,1.3.3,IdIot,"Хранилище устройства IdIot MQTT на SQLite и EF Core поверх существующего DbContext приложения: UseSqliteDbContext<TContext>(), таблицы MqttDevice_* и общая транзакция с бизнес-данными."
