@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-14T13:39:58.357Z,Switchknife.Testing.Http,0.1.0,Yehor Hrabovskyi,"A stub HttpMessageHandler for tests: answers each request from a function or a scripted sequence, and records every request with its body and headers, read before the caller disposes it. No test-framework dependency. Native AOT compatible."
+2026-10-14T13:40:01.803Z,Switchknife.Migrations,0.1.0,Yehor Hrabovskyi,"Applies SQL scripts embedded in an assembly to PostgreSQL with DbUp, once each, in name order, journalled in the database. Creates the database when it is missing, writes DbUp's log to an ILogger, and throws naming the script that failed."
+2026-10-14T13:40:05.487Z,Switchknife.Testing.Postgres,0.1.0,Yehor Hrabovskyi,"A PostgreSQL server in a Testcontainers container for integration tests: started once per run, optionally migrated by a callback, with a database per test or a truncate of every table between tests. No test-framework dependency."
+2026-10-14T13:40:06.683Z,Switchknife.Hosting,0.1.0,Yehor Hrabovskyi,"A polling BackgroundService that never stops the host: polls on start and then every interval, logs a failed poll and tries again with exponential backoff, reports each outcome to optional hooks whose own failures are logged, and stops cleanly on shutdown. Uses TimeProvider. Native AOT compatible."
+2026-10-14T13:49:44.493Z,RonSijm.FluidHumidifier,0.1.26700,Ron Sijm,A fluent factory API for composing AWS CloudFormation resources with RonSijm.Humidifier.
+2026-10-14T13:57:20.283Z,SshSharp,0.3.0,SshSharp,"Managed-only, async-first SSH client library for .NET with known_hosts and ssh_config support."
+2026-10-14T14:05:57.573Z,DatabaseSharp.SQLServer,1.0.1,Kristian Skov Johansen,A DatabaseSharp connector for SQL Server
+2026-10-14T14:06:01.933Z,DatabaseSharp.PostgreSQL,1.0.1,Kristian Skov Johansen,A DatabaseSharp connector for PostgreSQL
+2026-10-14T14:06:06.053Z,DatabaseSharp.MySQL,1.0.1,Kristian Skov Johansen,A DatabaseSharp connector for MySQL
