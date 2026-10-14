@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-14T17:23:25.807Z,CPMForge.Browser.Profiles,0.1.3,Christian Prior-Mamulyan,Bare Chrome and Edge user data folder templates for deterministic UiPath browser automation.
+2026-10-14T17:32:42.25Z,Bennewitz.Ninja.XamlQuality.ThemeRuntime,2026.4.1014,Brian Bennewitz,"The runtime half of the XamlQuality theme audit, as source files an Avalonia test project compiles against its own Avalonia. It builds each audited theme and variant in the running application, asks Application.TryGetResource for every key a consumer references, and reports where Avalonia's answer…"
+2026-10-14T17:33:26.44Z,XperienceCommunity.UsageApplications,0.2.0,BlueModus,Admin applications for Xperience by Kentico that report how many content items use each content type and where each Page Builder widget is used.
+2026-10-14T17:41:13.5Z,CodeWF.Avalonia.MindView,12.1.4.16,沙漠尽头的狼,"Avalonia mind map editor, Markdown viewer, import/export and light/dark accent themes in one package."
+2026-10-14T17:43:49.667Z,budul.ChainFinder,1.0.0,budul100,Generic helper library to build chains (connected paths) from directed elements such as track segments or graph edges.
+2026-10-14T18:00:08.033Z,Stellaegis.Messaging.MailKit,1.0.0,FRi,"SMTP transport for Stellaegis.Messaging, on MailKit: Basic or client-certificate authentication, explicit envelope sender."
+2026-10-14T18:00:08.7Z,Stellaegis.Messaging.PostgreSQL,1.0.0,FRi,"Durable outbox for Stellaegis.Messaging on PostgreSQL: payload encrypted at rest with pgcrypto, two-slot key rotation, idempotent enqueue."
+2026-10-14T18:00:09.413Z,Stellaegis.Messaging,1.0.0,FRi,"Stellaegis messaging core: EmailMessage/IEmailSender contracts, configuration per space, from-policy and a reliable outbox."
+2026-10-14T18:00:10.06Z,Stellaegis.Messaging.Secrets,1.0.0,FRi,"Messaging configuration per compartment in a Stellaegis.Secrets vault, for Stellaegis.Messaging: cached resolution, eviction by secret path, and an editing store that masks credentials."
+2026-10-14T18:02:14.377Z,MyMc.Net,0.1.0,Eric Hill,"A .Net port of MyMC, an open-source utility for managing PS2 memory card images (.ps2)"

@@ -12,20 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 17:21 UTC
+## Latest list — 2026-10-14 18:21 UTC
 
-New packages created between 2026-10-14 16:20 UTC and 2026-10-14 17:21 UTC.
+New packages created between 2026-10-14 17:21 UTC and 2026-10-14 18:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T17-21-55-624114Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T18-21-40-516252Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 16:28:16 | [SchlumpfSoft.GeometryNET](https://www.nuget.org/packages/SchlumpfSoft.GeometryNET) | 1.2026.1 | Andreas Sauer | NET-Bibliothek für mathematische Berechnungen in der Ebenen- und Raumgeometrie |
-| 2026-10-14 16:39:50 | [FryWorld.Sdk](https://www.nuget.org/packages/FryWorld.Sdk) | 0.0.1 | Code Fry Dev | Cross-platform SDK and microkernel for building plugins, workspaces, and tools… |
-| 2026-10-14 16:41:25 | [JAPagination](https://www.nuget.org/packages/JAPagination) | 1.0.0 | José Augusto | Simple, immutable pagination results for collections and synchronous LINQ queri… |
-| 2026-10-14 16:50:12 | [JAPagination.EntityFrameworkCore](https://www.nuget.org/packages/JAPagination.EntityFrameworkCore) | 1.0.0 | José Augusto | Optional asynchronous Entity Framework Core integration for JAPagination, prese… |
-| 2026-10-14 16:50:35 | [SheetStream.NET](https://www.nuget.org/packages/SheetStream.NET) | 0.4.0 | P4 Software | Lightweight, dependency-free, MIT-licensed .xlsx library for .NET: streaming wr… |
-| 2026-10-14 17:12:01 | [Allors.Documents.Reflection](https://www.nuget.org/packages/Allors.Documents.Reflection) | 2.1.0 | allors | Bind Allors Documents templates to plain classes and dictionaries through refle… |
+| 2026-10-14 17:23:25 | [CPMForge.Browser.Profiles](https://www.nuget.org/packages/CPMForge.Browser.Profiles) | 0.1.3 | Christian Prior-Mamulyan | Bare Chrome and Edge user data folder templates for deterministic UiPath browse… |
+| 2026-10-14 17:32:42 | [Bennewitz.Ninja.XamlQuality.ThemeRuntime](https://www.nuget.org/packages/Bennewitz.Ninja.XamlQuality.ThemeRuntime) | 2026.4.1014 | Brian Bennewitz | The runtime half of the XamlQuality theme audit, as source files an Avalonia te… |
+| 2026-10-14 17:33:26 | [XperienceCommunity.UsageApplications](https://www.nuget.org/packages/XperienceCommunity.UsageApplications) | 0.2.0 | BlueModus | Admin applications for Xperience by Kentico that report how many content items… |
+| 2026-10-14 17:41:13 | [CodeWF.Avalonia.MindView](https://www.nuget.org/packages/CodeWF.Avalonia.MindView) | 12.1.4.16 | 沙漠尽头的狼 | Avalonia mind map editor, Markdown viewer, import/export and light/dark accent… |
+| 2026-10-14 17:43:49 | [budul.ChainFinder](https://www.nuget.org/packages/budul.ChainFinder) | 1.0.0 | budul100 | Generic helper library to build chains (connected paths) from directed elements… |
+| 2026-10-14 18:00:08 | [Stellaegis.Messaging.MailKit](https://www.nuget.org/packages/Stellaegis.Messaging.MailKit) | 1.0.0 | FRi | SMTP transport for Stellaegis.Messaging, on MailKit: Basic or client-certificat… |
+| 2026-10-14 18:00:08 | [Stellaegis.Messaging.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Messaging.PostgreSQL) | 1.0.0 | FRi | Durable outbox for Stellaegis.Messaging on PostgreSQL: payload encrypted at res… |
+| 2026-10-14 18:00:09 | [Stellaegis.Messaging](https://www.nuget.org/packages/Stellaegis.Messaging) | 1.0.0 | FRi | Stellaegis messaging core: EmailMessage/IEmailSender contracts, configuration p… |
+| 2026-10-14 18:00:10 | [Stellaegis.Messaging.Secrets](https://www.nuget.org/packages/Stellaegis.Messaging.Secrets) | 1.0.0 | FRi | Messaging configuration per compartment in a Stellaegis.Secrets vault, for Stel… |
+| 2026-10-14 18:02:14 | [MyMc.Net](https://www.nuget.org/packages/MyMc.Net) | 0.1.0 | Eric Hill | A .Net port of MyMC, an open-source utility for managing PS2 memory card images… |
 
 ## Data source
 
