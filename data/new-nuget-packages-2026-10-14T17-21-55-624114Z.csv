@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-14T16:28:16.187Z,SchlumpfSoft.GeometryNET,1.2026.1,Andreas Sauer,NET-Bibliothek für mathematische Berechnungen in der Ebenen- und Raumgeometrie
+2026-10-14T16:39:50.063Z,FryWorld.Sdk,0.0.1,Code Fry Dev,"Cross-platform SDK and microkernel for building plugins, workspaces, and tools for FryWorld."
+2026-10-14T16:41:25.92Z,JAPagination,1.0.0,José Augusto,"Simple, immutable pagination results for collections and synchronous LINQ queries. No EF Core or web framework dependency."
+2026-10-14T16:50:12.687Z,JAPagination.EntityFrameworkCore,1.0.0,José Augusto,"Optional asynchronous Entity Framework Core integration for JAPagination, preserving server-side queries and consumer tracking."
+2026-10-14T16:50:35.827Z,SheetStream.NET,0.4.0,P4 Software,"Lightweight, dependency-free, MIT-licensed .xlsx library for .NET: streaming writer with tables, charts, pictures, conditional formatting, validation, protection and AutoFit, plus a streaming reader. A free alternative to EPPlus."
+2026-10-14T17:12:01.797Z,Allors.Documents.Reflection,2.1.0,allors,Bind Allors Documents templates to plain classes and dictionaries through reflection.
