@@ -12,24 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 18:21 UTC
+## Latest list — 2026-10-14 19:20 UTC
 
-New packages created between 2026-10-14 17:21 UTC and 2026-10-14 18:21 UTC.
+New packages created between 2026-10-14 18:21 UTC and 2026-10-14 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T18-21-40-516252Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T19-20-03-421746Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 17:23:25 | [CPMForge.Browser.Profiles](https://www.nuget.org/packages/CPMForge.Browser.Profiles) | 0.1.3 | Christian Prior-Mamulyan | Bare Chrome and Edge user data folder templates for deterministic UiPath browse… |
-| 2026-10-14 17:32:42 | [Bennewitz.Ninja.XamlQuality.ThemeRuntime](https://www.nuget.org/packages/Bennewitz.Ninja.XamlQuality.ThemeRuntime) | 2026.4.1014 | Brian Bennewitz | The runtime half of the XamlQuality theme audit, as source files an Avalonia te… |
-| 2026-10-14 17:33:26 | [XperienceCommunity.UsageApplications](https://www.nuget.org/packages/XperienceCommunity.UsageApplications) | 0.2.0 | BlueModus | Admin applications for Xperience by Kentico that report how many content items… |
-| 2026-10-14 17:41:13 | [CodeWF.Avalonia.MindView](https://www.nuget.org/packages/CodeWF.Avalonia.MindView) | 12.1.4.16 | 沙漠尽头的狼 | Avalonia mind map editor, Markdown viewer, import/export and light/dark accent… |
-| 2026-10-14 17:43:49 | [budul.ChainFinder](https://www.nuget.org/packages/budul.ChainFinder) | 1.0.0 | budul100 | Generic helper library to build chains (connected paths) from directed elements… |
-| 2026-10-14 18:00:08 | [Stellaegis.Messaging.MailKit](https://www.nuget.org/packages/Stellaegis.Messaging.MailKit) | 1.0.0 | FRi | SMTP transport for Stellaegis.Messaging, on MailKit: Basic or client-certificat… |
-| 2026-10-14 18:00:08 | [Stellaegis.Messaging.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Messaging.PostgreSQL) | 1.0.0 | FRi | Durable outbox for Stellaegis.Messaging on PostgreSQL: payload encrypted at res… |
-| 2026-10-14 18:00:09 | [Stellaegis.Messaging](https://www.nuget.org/packages/Stellaegis.Messaging) | 1.0.0 | FRi | Stellaegis messaging core: EmailMessage/IEmailSender contracts, configuration p… |
-| 2026-10-14 18:00:10 | [Stellaegis.Messaging.Secrets](https://www.nuget.org/packages/Stellaegis.Messaging.Secrets) | 1.0.0 | FRi | Messaging configuration per compartment in a Stellaegis.Secrets vault, for Stel… |
-| 2026-10-14 18:02:14 | [MyMc.Net](https://www.nuget.org/packages/MyMc.Net) | 0.1.0 | Eric Hill | A .Net port of MyMC, an open-source utility for managing PS2 memory card images… |
+| 2026-10-14 18:26:06 | [nugetgo.github.com.spf13.pflag](https://www.nuget.org/packages/nugetgo.github.com.spf13.pflag) | 1.0.9 | go2cs conversion | unofficial go2cs C# conversion of github.com/spf13/pflag v1.0.9, built on the G… |
+| 2026-10-14 18:26:40 | [hakamiroot](https://www.nuget.org/packages/hakamiroot) | 1.0.0 | Ahmed Hakami | Core libraries for hakamiroot. |
+| 2026-10-14 18:31:06 | [IkeMtz.AspNetCore.Http.Results](https://www.nuget.org/packages/IkeMtz.AspNetCore.Http.Results) | 10.0.13.3-dev | Microsoft | ASP.NET Core types that implement Microsoft.AspNetCore.Http.IResult. This packa… |
+| 2026-10-14 18:33:37 | [RzR.MinimalResultMessage](https://www.nuget.org/packages/RzR.MinimalResultMessage) | 1.0.0 | RzR | A minimal F# result model for methods and processes: a success or failure, an o… |
+| 2026-10-14 18:38:41 | [Fuaran.UI.Core.Function](https://www.nuget.org/packages/Fuaran.UI.Core.Function) | 0.94.0 | Andrew J. Willshire | The projection of a Fuaran UI fragment's hole value-spaces and effect classes o… |
+| 2026-10-14 18:39:13 | [SC.StatePie](https://www.nuget.org/packages/SC.StatePie) | 1.0.0 | S. van Cauter | A lightweight .NET state-management library for immutable application state, bu… |
+| 2026-10-14 18:42:51 | [DotCourier](https://www.nuget.org/packages/DotCourier) | 0.1.0 | Valossa515 | CQRS + Mediator for .NET with batteries included: pipeline behaviors (logging,… |
+| 2026-10-14 18:42:52 | [DotCourier.AspNetCore](https://www.nuget.org/packages/DotCourier.AspNetCore) | 0.1.0 | Valossa515 | ASP.NET Core integration for DotCourier: turn a Response<T> into an IResult (Mi… |
 
 ## Data source
 
