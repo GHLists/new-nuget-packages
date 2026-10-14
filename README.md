@@ -12,26 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 21:22 UTC
+## Latest list — 2026-10-14 22:22 UTC
 
-New packages created between 2026-10-14 20:19 UTC and 2026-10-14 21:22 UTC.
+New packages created between 2026-10-14 21:22 UTC and 2026-10-14 22:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T21-22-23-441308Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T22-22-37-945463Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 20:24:02 | [Lunarium.Common](https://www.nuget.org/packages/Lunarium.Common) | 1.0.0 | Cyanflower | A zero-dependency .NET common library: character-set constants, NanoID and lock… |
-| 2026-10-14 20:34:06 | [Shiny.Mobile.CallDirectory](https://www.nuget.org/packages/Shiny.Mobile.CallDirectory) | 6.3.0 | Allan Ritchie | Call blocking and caller identification for .NET - an iOS Call Directory extens… |
-| 2026-10-14 20:39:04 | [Ozakboy.Notify.Telegram](https://www.nuget.org/packages/Ozakboy.Notify.Telegram) | 0.1.0 | ozakboy | 建構在 Ozakboy.Http 之上的 Telegram Bot 告警推播,取代 Telegram.Bot:訊息分級(Info / Warning / Cr… |
-| 2026-10-14 20:45:53 | [Rldc.Inference.Ollama](https://www.nuget.org/packages/Rldc.Inference.Ollama) | 0.5.0 | Rldc contributors | Ollama chat and System One inference without ONNX runtime dependencies. |
-| 2026-10-14 20:49:02 | [PiwiTests.Instrumentation.Coverage](https://www.nuget.org/packages/PiwiTests.Instrumentation.Coverage) | 0.53.0 | piwitests | Per-test server code coverage for Piwi Dashboard: records which code each HTTP… |
-| 2026-10-14 20:51:35 | [BorrowedTorch.Audio](https://www.nuget.org/packages/BorrowedTorch.Audio) | 0.9.991 | Vladyslav Pysarenko | Borrowed Torch audio manager |
-| 2026-10-14 20:56:40 | [TheBuilder.AppTranslations](https://www.nuget.org/packages/TheBuilder.AppTranslations) | 0.1.0 | Daniel Schmidt | Manage application translation overrides from the Umbraco backoffice. |
-| 2026-10-14 21:07:27 | [McpKafka](https://www.nuget.org/packages/McpKafka) | 0.1.0 | matneves | Servidor MCP especialista em Kafka UI (somente leitura): tópicos e mensagens. S… |
-| 2026-10-14 21:08:08 | [Tuinet](https://www.nuget.org/packages/Tuinet) | 0.1.0 | Lukasz Maslanka | Performance-first immediate-mode terminal UI library: zero-allocation frames, m… |
-| 2026-10-14 21:08:09 | [Tuinet.Testing](https://www.nuget.org/packages/Tuinet.Testing) | 0.1.0 | Lukasz Maslanka | Test helpers for Tuinet apps: styled screen snapshots, a terminal that takes sc… |
-| 2026-10-14 21:10:17 | [wordnet](https://www.nuget.org/packages/wordnet) | 1.0.0 | Armen Kirakosyan | Word conversion for .NET: DOC/DOCX exchanges with PDF, Markdown, text, EPUB, MO… |
-| 2026-10-14 21:12:07 | [Belin.Which](https://www.nuget.org/packages/Belin.Which) | 2026.10.0 | CedX | Find the instances of an executable in the system path. Like the `which` Linux… |
+| 2026-10-14 21:25:00 | [Kododo.Reiho.AspNetCore.Mcp](https://www.nuget.org/packages/Kododo.Reiho.AspNetCore.Mcp) | 2.0.0 | Kododo | Offers Reiho requests as tools to AI agents over the Model Context Protocol. |
+| 2026-10-14 21:27:04 | [BorrowedTorch.Camera](https://www.nuget.org/packages/BorrowedTorch.Camera) | 1.5.2 | Vladyslav Pysarenko | Camera functionality. |
+| 2026-10-14 21:32:00 | [LagomEvent](https://www.nuget.org/packages/LagomEvent) | 1.0.0 | Devseesharp | A lightweight generic event handler with disposable subscriptions for publishin… |
+| 2026-10-14 21:34:19 | [Trax.Api.Dashboard](https://www.nuget.org/packages/Trax.Api.Dashboard) | 1.63.1 | Theauxm | The Trax .NET operations dashboard as a single-page app your Trax.Api host serv… |
+| 2026-10-14 21:46:17 | [DotCourier.FluentValidation](https://www.nuget.org/packages/DotCourier.FluentValidation) | 0.3.0 | Valossa515 | FluentValidation integration for DotCourier: IValidator<T> runs in the pipeline… |
+| 2026-10-14 21:58:24 | [Belin.Which.FSharp](https://www.nuget.org/packages/Belin.Which.FSharp) | 2026.10.0 | CedX | Find the instances of an executable in the system path. Like the `which` Linux… |
 
 ## Data source
 

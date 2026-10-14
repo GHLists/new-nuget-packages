@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-14T21:25:00.033Z,Kododo.Reiho.AspNetCore.Mcp,2.0.0,Kododo,Offers Reiho requests as tools to AI agents over the Model Context Protocol.
+2026-10-14T21:27:04.95Z,BorrowedTorch.Camera,1.5.2,Vladyslav Pysarenko,Camera functionality.
+2026-10-14T21:32:00.293Z,LagomEvent,1.0.0,Devseesharp,A lightweight generic event handler with disposable subscriptions for publishing values to registered subscribers.
+2026-10-14T21:34:19.223Z,Trax.Api.Dashboard,1.63.1,Theauxm,"The Trax .NET operations dashboard as a single-page app your Trax.Api host serves: runs, the work queue, dead letters, manifests, logs, trains, effects and state machines, read and changed through the host's Trax GraphQL operations surface. The built app ships inside the package, so the host needs…"
+2026-10-14T21:46:17.63Z,DotCourier.FluentValidation,0.3.0,Valossa515,"FluentValidation integration for DotCourier: IValidator<T> runs in the pipeline's validation step, and FluentValidation's ValidationException becomes a 400 response instead of a 500."
+2026-10-14T21:58:24.917Z,Belin.Which.FSharp,2026.10.0,CedX,Find the instances of an executable in the system path. Like the `which` Linux command.
