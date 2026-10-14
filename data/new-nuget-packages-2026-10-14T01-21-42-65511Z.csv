@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-14T00:28:51.517Z,ACM,1.0.10,ACM,Package Description
+2026-10-14T00:37:28.207Z,HunterAhlquist.Solo.Templates,1.9.0,Hunter Ahlquist,"Project templates for extensions to Solo, the self-hosted project management app. Adds ""Solo Extension"" to dotnet new, Visual Studio and Rider."
+2026-10-14T01:05:08.283Z,ShotDetector.Native,2.1.0,Jakob Boman,"FFmpeg's shared libraries for ShotDetector and FrameReader on every platform: depends on ShotDetector.Native.win-x64, linux-x64, linux-arm64, linux-musl-x64 and osx-arm64 at this version. A publish for one runtime (-r linux-x64) copies only that platform's libraries; reference a single ShotDetector…"
+2026-10-14T01:13:26.673Z,VigorGlow.Dapr,1.0.0,VigorGlow,VigorGlow Dapr IoC 聚合模块，包含 Common、ProxyGenerator、Client、Server、Mesh 全部程序集
