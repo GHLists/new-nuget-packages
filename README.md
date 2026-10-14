@@ -12,20 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 02:20 UTC
+## Latest list — 2026-10-14 03:19 UTC
 
-New packages created between 2026-10-14 01:21 UTC and 2026-10-14 02:20 UTC.
+New packages created between 2026-10-14 02:20 UTC and 2026-10-14 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T02-20-23-830536Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T03-19-36-092091Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 01:30:15 | [CompanyHQ.Services.Sales.Contracts](https://www.nuget.org/packages/CompanyHQ.Services.Sales.Contracts) | 2.1.0 | CompanyHQ | Package Description |
-| 2026-10-14 01:38:42 | [CloudySkySoftware.Pulumi.Render](https://www.nuget.org/packages/CloudySkySoftware.Pulumi.Render) | 0.6.0 | Cloudy Sky Software | A Pulumi package for creating and managing Render resources. |
-| 2026-10-14 01:52:06 | [TinyMCE.Premium](https://www.nuget.org/packages/TinyMCE.Premium) | 8.10.0 | Ephox Corporation DBA Tiny Te… | Premium plugins for the TinyMCE rich text editor |
-| 2026-10-14 02:02:06 | [Swipewalk.any](https://www.nuget.org/packages/Swipewalk.any) | 0.6.0 | Swipewalk | Accessibility scanner for running Android and iOS apps, tried on native Android… |
-| 2026-10-14 02:02:36 | [Swipewalk.osx-arm64](https://www.nuget.org/packages/Swipewalk.osx-arm64) | 0.6.0 | Swipewalk | Accessibility scanner for running Android and iOS apps, tried on native Android… |
-| 2026-10-14 02:02:41 | [Swipewalk.osx-x64](https://www.nuget.org/packages/Swipewalk.osx-x64) | 0.6.0 | Swipewalk | Accessibility scanner for running Android and iOS apps, tried on native Android… |
+| 2026-10-14 02:48:32 | [PrintLog.SlicerSettings](https://www.nuget.org/packages/PrintLog.SlicerSettings) | 0.1.0 | Christopher Hoffman | Parses the settings OrcaSlicer, PrusaSlicer, Bambu Studio, FLSun Slicer and Any… |
+| 2026-10-14 02:50:19 | [LlamaLogic.TuningDescriptions](https://www.nuget.org/packages/LlamaLogic.TuningDescriptions) | 1.0.0 | LlamaLogic | Read the tuning descriptions (TDESCs) Maxis publishes for The Sims 4. |
+| 2026-10-14 02:59:12 | [iTool.ObjectStorage](https://www.nuget.org/packages/iTool.ObjectStorage) | 4.0.0 | Jian Zhu | Protocol-neutral object storage with Redis compatibility and an S3 provider. |
+| 2026-10-14 03:02:13 | [m2nj.Utilities](https://www.nuget.org/packages/m2nj.Utilities) | 1.0.0 | m2nj | Utility helpers for SMTP email sending in .NET. |
+| 2026-10-14 03:04:47 | [iTool.LuceneStore.Storage](https://www.nuget.org/packages/iTool.LuceneStore.Storage) | 4.0.0 | Jian Zhu | Index storage based on Redis and Garnet. |
+| 2026-10-14 03:08:38 | [iTool.Framework.Storage](https://www.nuget.org/packages/iTool.Framework.Storage) | 4.0.0 | iTool.Framework.Storage | Protocol-neutral stream storage contracts with an S3-compatible provider. |
+| 2026-10-14 03:12:04 | [iTool.DataFabric.Provider](https://www.nuget.org/packages/iTool.DataFabric.Provider) | 4.0.0 | iTool.DataFabric.Provider | Unified State/List/Aggregate/Batch data provider with Orleans hot-state compati… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-14T02:48:32.447Z,PrintLog.SlicerSettings,0.1.0,Christopher Hoffman,"Parses the settings OrcaSlicer, PrusaSlicer, Bambu Studio, FLSun Slicer and Anycubic Slicer Next write into G-code, and renders the 3D Print Log note templates from them."
+2026-10-14T02:50:19.527Z,LlamaLogic.TuningDescriptions,1.0.0,LlamaLogic,Read the tuning descriptions (TDESCs) Maxis publishes for The Sims 4.
+2026-10-14T02:59:12.427Z,iTool.ObjectStorage,4.0.0,Jian Zhu,Protocol-neutral object storage with Redis compatibility and an S3 provider.
+2026-10-14T03:02:13.53Z,m2nj.Utilities,1.0.0,m2nj,Utility helpers for SMTP email sending in .NET.
+2026-10-14T03:04:47.94Z,iTool.LuceneStore.Storage,4.0.0,Jian Zhu,Index storage based on Redis and Garnet.
+2026-10-14T03:08:38.993Z,iTool.Framework.Storage,4.0.0,iTool.Framework.Storage,Protocol-neutral stream storage contracts with an S3-compatible provider.
+2026-10-14T03:12:04.83Z,iTool.DataFabric.Provider,4.0.0,iTool.DataFabric.Provider,Unified State/List/Aggregate/Batch data provider with Orleans hot-state compatibility and bounded Redis monitoring.
