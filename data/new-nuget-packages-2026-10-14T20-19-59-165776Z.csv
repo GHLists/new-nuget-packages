@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-14T19:22:08.937Z,BorrowedTorch.InputBinder,2.0.1,Vladyslav Pysarenko,Class library for managing various types of input binding to game actions.
+2026-10-14T19:22:50.533Z,Fuuga.Server.cpu,1.0.41,Tuomas Hietanen,"This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to be used from tools like OpenCode."
+2026-10-14T19:23:04.523Z,Flip7,0.1.0,Leo Conforti,"The card game Flip 7 in F#: a rules engine that plays whole games, the odds a hand busts and what hitting it is worth, an exact search of the decision, strategies to play against, and inference of the strategy a player is using."
+2026-10-14T19:23:38.477Z,Fuuga.Server.cpu.linux-x64,1.0.41,Tuomas Hietanen,"This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to be used from tools like OpenCode."
+2026-10-14T19:24:25.7Z,Fuuga.Server.cpu.osx-arm64,1.0.41,Tuomas Hietanen,"This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to be used from tools like OpenCode."
+2026-10-14T19:24:59.64Z,Fuuga.Server.cpu.win-x64,1.0.41,Tuomas Hietanen,"This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to be used from tools like OpenCode."
+2026-10-14T19:26:08.063Z,TechStyle.JsonCompress.Cli,1.0.3,Ejaz Hussain Arain,"Command line for json-compress: compress, restore, measure, minify, beautify and validate JSON documents. Install with dotnet tool install --global TechStyle.JsonCompress.Cli."
+2026-10-14T19:27:58.833Z,TrustList.Badge,0.1.0,TrustList,"Show your TrustList rank badge on your website: builds the badge image URL, the ranking it links to, and a ready-to-print HTML snippet."
+2026-10-14T19:30:28.827Z,TechStyle.SecureKeystore.Cli,3.0.0,Ejaz Hussain Arain,"Command line for secure-keystore: encrypted secrets at rest, with no service to run."
+2026-10-14T19:31:03.07Z,TechStyle.SecureKeystore,3.0.0,Ejaz Hussain Arain,"Encrypted secrets at rest for .NET, with no service to run. Two-layer AES-256-GCM over PBKDF2-SHA256 and HKDF-SHA256, a documented cross-language format, and no dependencies."
+2026-10-14T19:47:20.493Z,ZeroFactor.Aspire.Hosting,0.1.0,Caleb Bertsch,"Aspire hosting integration for 0factor, a mock OIDC provider for local development that swaps in for Keycloak with one line."
+2026-10-14T19:50:46.62Z,SkyBellSharp,0.1.1,Xavier A.,"Unofficial .NET client for the SkyBell Gen5 cloud API (devices, live WebRTC sessions, snapshots, activity history, settings, sharing, webhooks, tones, locations) plus local UDP doorbell/motion events and Wi-Fi provisioning."
+2026-10-14T20:13:47.927Z,Vali-Bucket,1.0.0,Felipe Rafael Montenegro Morriberon,"Vali-Bucket groups timestamps into fixed-size time buckets for reporting and analytics — bucketize raw timestamps, aggregate numeric values per bucket (Sum/Average/Count/Min/Max), or look up the bucket a single timestamp falls into."
