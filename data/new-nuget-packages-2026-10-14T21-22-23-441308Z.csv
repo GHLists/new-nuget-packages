@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-14T20:24:02.487Z,Lunarium.Common,1.0.0,Cyanflower,"A zero-dependency .NET common library: character-set constants, NanoID and lock-free snowflake ID generation, dirty/CTS-based debouncers, and a debounced JSON file-backed key-value cache store. Native AOT compatible."
+2026-10-14T20:34:06.24Z,Shiny.Mobile.CallDirectory,6.3.0,Allan Ritchie,"Call blocking and caller identification for .NET - an iOS Call Directory extension built without an Xcode project, and an Android CallScreeningService, both fed from a SQLite list the app owns."
+2026-10-14T20:39:04.72Z,Ozakboy.Notify.Telegram,0.1.0,ozakboy,"建構在 Ozakboy.Http 之上的 Telegram Bot 告警推播,取代 Telegram.Bot:訊息分級(Info / Warning / Critical)顯示在開頭、超過 4096 字元依行切分且不切斷字素、純文字送出不因跳脫字元被拒、依 System.Threading.RateLimiting 做每聊天節流、429 依回應中的 retry_after 等待後重送、暫時性失敗「至少送達一次」。Bot 權杖位於網址路徑,本套件把它登記為 Ozakboy.Http 管線的已知祕密(管線移除 HttpClientFactory 預設日誌,記下的位址遮罩權杖),並在所有回傳的錯誤…"
+2026-10-14T20:45:53.777Z,Rldc.Inference.Ollama,0.5.0,Rldc contributors,Ollama chat and System One inference without ONNX runtime dependencies.
+2026-10-14T20:49:02.563Z,PiwiTests.Instrumentation.Coverage,0.53.0,piwitests,"Per-test server code coverage for Piwi Dashboard: records which code each HTTP request executed in a build compiled with -p:PiwiCoverage=true, no ASP.NET Core dependency"
+2026-10-14T20:51:35.623Z,BorrowedTorch.Audio,0.9.991,Vladyslav Pysarenko,Borrowed Torch audio manager
+2026-10-14T20:56:40.037Z,TheBuilder.AppTranslations,0.1.0,Daniel Schmidt,Manage application translation overrides from the Umbraco backoffice.
+2026-10-14T21:07:27.9Z,McpKafka,0.1.0,matneves,Servidor MCP especialista em Kafka UI (somente leitura): tópicos e mensagens. Sem produce nem delete. Credenciais só no ambiente do cliente.
+2026-10-14T21:08:08.85Z,Tuinet,0.1.0,Lukasz Maslanka,"Performance-first immediate-mode terminal UI library: zero-allocation frames, minimal tty bytes, stateless widgets."
+2026-10-14T21:08:09.86Z,Tuinet.Testing,0.1.0,Lukasz Maslanka,"Test helpers for Tuinet apps: styled screen snapshots, a terminal that takes scripted keys and mouse input, text search and an allocation check. Test-framework agnostic."
+2026-10-14T21:10:17.43Z,wordnet,1.0.0,Armen Kirakosyan,"Word conversion for .NET: DOC/DOCX exchanges with PDF, Markdown, text, EPUB, MOBI and AZW3, plus XPS output and local English OCR. Explicit fidelity diagnostics and bounded document processing."
+2026-10-14T21:12:07.267Z,Belin.Which,2026.10.0,CedX,Find the instances of an executable in the system path. Like the `which` Linux command.

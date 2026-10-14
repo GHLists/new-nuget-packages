@@ -12,27 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 20:19 UTC
+## Latest list — 2026-10-14 21:22 UTC
 
-New packages created between 2026-10-14 19:20 UTC and 2026-10-14 20:19 UTC.
+New packages created between 2026-10-14 20:19 UTC and 2026-10-14 21:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T20-19-59-165776Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T21-22-23-441308Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 19:22:08 | [BorrowedTorch.InputBinder](https://www.nuget.org/packages/BorrowedTorch.InputBinder) | 2.0.1 | Vladyslav Pysarenko | Class library for managing various types of input binding to game actions. |
-| 2026-10-14 19:22:50 | [Fuuga.Server.cpu](https://www.nuget.org/packages/Fuuga.Server.cpu) | 1.0.41 | Tuomas Hietanen | This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to… |
-| 2026-10-14 19:23:04 | [Flip7](https://www.nuget.org/packages/Flip7) | 0.1.0 | Leo Conforti | The card game Flip 7 in F#: a rules engine that plays whole games, the odds a h… |
-| 2026-10-14 19:23:38 | [Fuuga.Server.cpu.linux-x64](https://www.nuget.org/packages/Fuuga.Server.cpu.linux-x64) | 1.0.41 | Tuomas Hietanen | This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to… |
-| 2026-10-14 19:24:25 | [Fuuga.Server.cpu.osx-arm64](https://www.nuget.org/packages/Fuuga.Server.cpu.osx-arm64) | 1.0.41 | Tuomas Hietanen | This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to… |
-| 2026-10-14 19:24:59 | [Fuuga.Server.cpu.win-x64](https://www.nuget.org/packages/Fuuga.Server.cpu.win-x64) | 1.0.41 | Tuomas Hietanen | This package contains OpenAI and Anthropic compatible HTTP server for Fuuga, to… |
-| 2026-10-14 19:26:08 | [TechStyle.JsonCompress.Cli](https://www.nuget.org/packages/TechStyle.JsonCompress.Cli) | 1.0.3 | Ejaz Hussain Arain | Command line for json-compress: compress, restore, measure, minify, beautify an… |
-| 2026-10-14 19:27:58 | [TrustList.Badge](https://www.nuget.org/packages/TrustList.Badge) | 0.1.0 | TrustList | Show your TrustList rank badge on your website: builds the badge image URL, the… |
-| 2026-10-14 19:30:28 | [TechStyle.SecureKeystore.Cli](https://www.nuget.org/packages/TechStyle.SecureKeystore.Cli) | 3.0.0 | Ejaz Hussain Arain | Command line for secure-keystore: encrypted secrets at rest, with no service to… |
-| 2026-10-14 19:31:03 | [TechStyle.SecureKeystore](https://www.nuget.org/packages/TechStyle.SecureKeystore) | 3.0.0 | Ejaz Hussain Arain | Encrypted secrets at rest for .NET, with no service to run. Two-layer AES-256-G… |
-| 2026-10-14 19:47:20 | [ZeroFactor.Aspire.Hosting](https://www.nuget.org/packages/ZeroFactor.Aspire.Hosting) | 0.1.0 | Caleb Bertsch | Aspire hosting integration for 0factor, a mock OIDC provider for local developm… |
-| 2026-10-14 19:50:46 | [SkyBellSharp](https://www.nuget.org/packages/SkyBellSharp) | 0.1.1 | Xavier A. | Unofficial .NET client for the SkyBell Gen5 cloud API (devices, live WebRTC ses… |
-| 2026-10-14 20:13:47 | [Vali-Bucket](https://www.nuget.org/packages/Vali-Bucket) | 1.0.0 | Felipe Rafael Montenegro Morr… | Vali-Bucket groups timestamps into fixed-size time buckets for reporting and an… |
+| 2026-10-14 20:24:02 | [Lunarium.Common](https://www.nuget.org/packages/Lunarium.Common) | 1.0.0 | Cyanflower | A zero-dependency .NET common library: character-set constants, NanoID and lock… |
+| 2026-10-14 20:34:06 | [Shiny.Mobile.CallDirectory](https://www.nuget.org/packages/Shiny.Mobile.CallDirectory) | 6.3.0 | Allan Ritchie | Call blocking and caller identification for .NET - an iOS Call Directory extens… |
+| 2026-10-14 20:39:04 | [Ozakboy.Notify.Telegram](https://www.nuget.org/packages/Ozakboy.Notify.Telegram) | 0.1.0 | ozakboy | 建構在 Ozakboy.Http 之上的 Telegram Bot 告警推播,取代 Telegram.Bot:訊息分級(Info / Warning / Cr… |
+| 2026-10-14 20:45:53 | [Rldc.Inference.Ollama](https://www.nuget.org/packages/Rldc.Inference.Ollama) | 0.5.0 | Rldc contributors | Ollama chat and System One inference without ONNX runtime dependencies. |
+| 2026-10-14 20:49:02 | [PiwiTests.Instrumentation.Coverage](https://www.nuget.org/packages/PiwiTests.Instrumentation.Coverage) | 0.53.0 | piwitests | Per-test server code coverage for Piwi Dashboard: records which code each HTTP… |
+| 2026-10-14 20:51:35 | [BorrowedTorch.Audio](https://www.nuget.org/packages/BorrowedTorch.Audio) | 0.9.991 | Vladyslav Pysarenko | Borrowed Torch audio manager |
+| 2026-10-14 20:56:40 | [TheBuilder.AppTranslations](https://www.nuget.org/packages/TheBuilder.AppTranslations) | 0.1.0 | Daniel Schmidt | Manage application translation overrides from the Umbraco backoffice. |
+| 2026-10-14 21:07:27 | [McpKafka](https://www.nuget.org/packages/McpKafka) | 0.1.0 | matneves | Servidor MCP especialista em Kafka UI (somente leitura): tópicos e mensagens. S… |
+| 2026-10-14 21:08:08 | [Tuinet](https://www.nuget.org/packages/Tuinet) | 0.1.0 | Lukasz Maslanka | Performance-first immediate-mode terminal UI library: zero-allocation frames, m… |
+| 2026-10-14 21:08:09 | [Tuinet.Testing](https://www.nuget.org/packages/Tuinet.Testing) | 0.1.0 | Lukasz Maslanka | Test helpers for Tuinet apps: styled screen snapshots, a terminal that takes sc… |
+| 2026-10-14 21:10:17 | [wordnet](https://www.nuget.org/packages/wordnet) | 1.0.0 | Armen Kirakosyan | Word conversion for .NET: DOC/DOCX exchanges with PDF, Markdown, text, EPUB, MO… |
+| 2026-10-14 21:12:07 | [Belin.Which](https://www.nuget.org/packages/Belin.Which) | 2026.10.0 | CedX | Find the instances of an executable in the system path. Like the `which` Linux… |
 
 ## Data source
 
