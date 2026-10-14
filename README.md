@@ -12,25 +12,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 12:20 UTC
+## Latest list — 2026-10-14 13:20 UTC
 
-New packages created between 2026-10-14 11:20 UTC and 2026-10-14 12:20 UTC.
+New packages created between 2026-10-14 12:20 UTC and 2026-10-14 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T12-20-15-769204Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T13-20-43-548061Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 11:33:48 | [AwsSecrets](https://www.nuget.org/packages/AwsSecrets) | 1.0.0 | Qantler | AWS Secrets Manager helper library with appsettings fallback. |
-| 2026-10-14 11:38:10 | [Fadenstack.Agents](https://www.nuget.org/packages/Fadenstack.Agents) | 0.2.0 | Emagin8 UG (haftungsbeschränk… | Agents on Fadenstack: the agent builder, the tool loop with host tools, tool mo… |
-| 2026-10-14 11:38:23 | [Fadenstack.Client](https://www.nuget.org/packages/Fadenstack.Client) | 0.2.0 | Emagin8 UG (haftungsbeschränk… | The Fadenstack core client: an IChatClient for the gateway (agent-scoped or pla… |
-| 2026-10-14 11:39:42 | [Fadenstack.Mcp](https://www.nuget.org/packages/Fadenstack.Mcp) | 0.2.0 | Emagin8 UG (haftungsbeschränk… | MCP for Fadenstack agents: local MCP servers as agent tools, under the agent's… |
-| 2026-10-14 11:43:27 | [Fadenstack.UI](https://www.nuget.org/packages/Fadenstack.UI) | 0.2.0 | Emagin8 UG (haftungsbeschränk… | Platform-neutral view models for Fadenstack agents: the chat, streamed markdown… |
-| 2026-10-14 11:43:47 | [Fadenstack.UI.Wpf](https://www.nuget.org/packages/Fadenstack.UI.Wpf) | 0.2.0 | Emagin8 UG (haftungsbeschränk… | The WPF skin for Fadenstack.UI: a chat panel for Fadenstack agents in WPF hosts… |
-| 2026-10-14 11:50:53 | [Sa.Data.TempFolder](https://www.nuget.org/packages/Sa.Data.TempFolder) | 0.16.0 | dundich | Temporary directory management: path-guarded subfolders, debounced activity mar… |
-| 2026-10-14 11:57:32 | [Samwizardry.ExpressionParser](https://www.nuget.org/packages/Samwizardry.ExpressionParser) | 1.0.0 | samwizardry | A lightweight string filter parser that compiles text expressions into strongly… |
-| 2026-10-14 11:58:13 | [SesliOkuma.Engine](https://www.nuget.org/packages/SesliOkuma.Engine) | 2.0.0 | Koray Orhun | Read-aloud engine for Windows (.NET Framework 4.8, no UI framework): grabs the… |
-| 2026-10-14 12:02:28 | [Esatto.Umbraco.Backoffice.TreeDragAndDrop](https://www.nuget.org/packages/Esatto.Umbraco.Backoffice.TreeDragAndDrop) | 1.0.0 | Carl Schéle | Drag-and-drop and keyboard "grab & place" moving for the Umbraco 17/18 backoffi… |
-| 2026-10-14 12:04:19 | [MoeinSoft.TaxCollectData.Library](https://www.nuget.org/packages/MoeinSoft.TaxCollectData.Library) | 2.0.32 | Mostafa.Nazuri | Package Description |
+| 2026-10-14 12:21:11 | [Fluently.Core](https://www.nuget.org/packages/Fluently.Core) | 0.1.0 | taner04 | Async, view-model-first navigation with back and forward history and rollback o… |
+| 2026-10-14 12:23:30 | [TheBuilder.ApiOidc](https://www.nuget.org/packages/TheBuilder.ApiOidc) | 0.2.0 | Daniel Schmidt | Let Vercel, GitHub Actions and other workloads call the Umbraco Delivery API an… |
+| 2026-10-14 12:25:03 | [Plan9.Utf](https://www.nuget.org/packages/Plan9.Utf) | 0.1.0 | Scott J Guyton | 9front's UTF-8: libc's rune and utf functions, and a System.Text.Encoding that… |
+| 2026-10-14 12:26:50 | [DemaConsulting.DocDown.PowerPoint.Rendering](https://www.nuget.org/packages/DemaConsulting.DocDown.PowerPoint.Rendering) | 0.2.0 | DEMA Consulting | Optional PowerPoint slide rendering (rasterization) for DEMA Consulting DocDown |
+| 2026-10-14 12:26:53 | [DemaConsulting.DocDown.Visio.Rendering](https://www.nuget.org/packages/DemaConsulting.DocDown.Visio.Rendering) | 0.2.0 | DEMA Consulting | Optional Visio page rendering (rasterization) for DEMA Consulting DocDown |
+| 2026-10-14 12:37:46 | [Dagger.Analyzers](https://www.nuget.org/packages/Dagger.Analyzers) | 0.1.0 | Dagger contributors | Shared C# analyzers and editorconfig. Enables the SDK recommended rules and bun… |
+| 2026-10-14 12:38:52 | [DamianH.Http.ForwardedHeaders](https://www.nuget.org/packages/DamianH.Http.ForwardedHeaders) | 0.1.0 | Damian Hickey | RFC 7239 Forwarded header parsing and trusted-proxy middleware for ASP.NET Core. |
+| 2026-10-14 12:40:50 | [Bibui.Raster.Skia](https://www.nuget.org/packages/Bibui.Raster.Skia) | 0.9.0 | Navisurg ApS | Bibui's SkiaSharp raster backend. Referencing it makes Skia the default for new… |
+| 2026-10-14 12:40:50 | [Bibui.Platform.Silk](https://www.nuget.org/packages/Bibui.Platform.Silk) | 0.9.0 | Navisurg ApS | Bibui cross-platform window host: GLFW + OpenGL through Silk.NET, clipboard thr… |
+| 2026-10-14 12:40:51 | [Bibui.Raster.Managed.Backend](https://www.nuget.org/packages/Bibui.Raster.Managed.Backend) | 0.9.0 | Navisurg ApS | bibui's IRasterBackend on the managed rasterizer, with text from Bibui.Text.Fre… |
+| 2026-10-14 12:40:51 | [Bibui](https://www.nuget.org/packages/Bibui) | 0.9.0 | Navisurg ApS | Bibui, a code-first native UI library: nodes, layout, the painter and BibuiRend… |
+| 2026-10-14 12:40:51 | [Bibui.Raster.Managed](https://www.nuget.org/packages/Bibui.Raster.Managed) | 0.9.0 | Navisurg ApS | A deterministic managed CPU rasterizer for bibui: analytic-coverage path fill,… |
+| 2026-10-14 12:40:51 | [Bibui.Platform.Wayland](https://www.nuget.org/packages/Bibui.Platform.Wayland) | 0.9.0 | Navisurg ApS | Bibui window host for Wayland compositors: xdg-shell toplevel, wl_shm buffers,… |
+| 2026-10-14 12:40:52 | [Bibui.Text.FreeType](https://www.nuget.org/packages/Bibui.Text.FreeType) | 0.9.0 | Navisurg ApS | bibui text on the system FreeType and HarfBuzz: shaping, exact subpixel measuri… |
+| 2026-10-14 12:40:52 | [Bibui.Testing](https://www.nuget.org/packages/Bibui.Testing) | 0.9.0 | Navisurg ApS | Playwright-style semantic testing API for Bibui apps. Provides BibuiPage and IB… |
+| 2026-10-14 12:48:11 | [A2A.Grpc](https://www.nuget.org/packages/A2A.Grpc) | 1.0.0-preview3 | Community Contributors | gRPC client and protocol mapping for the Agent2Agent (A2A) protocol. |
+| 2026-10-14 12:48:11 | [A2A.Grpc.AspNetCore](https://www.nuget.org/packages/A2A.Grpc.AspNetCore) | 1.0.0-preview3 | Community Contributors | ASP.NET Core gRPC server host for the Agent2Agent (A2A) protocol. |
+| 2026-10-14 12:49:30 | [XiaQue.QQBot.Connector](https://www.nuget.org/packages/XiaQue.QQBot.Connector) | 1.0.0 | XiaQue | Unofficial .NET QR connector for QQ Bot agent onboarding. |
+| 2026-10-14 13:00:04 | [HostLoom.NodeLeasing](https://www.nuget.org/packages/HostLoom.NodeLeasing) | 0.16.0 | Aleksandr Pavlov | Lease-based node-ID leasing for HostLoom over the distributed lock: one elector… |
+| 2026-10-14 13:00:05 | [HostLoom.NodeLeasing.DependencyInjection](https://www.nuget.org/packages/HostLoom.NodeLeasing.DependencyInjection) | 0.16.0 | Aleksandr Pavlov | Microsoft.Extensions.DependencyInjection registration, keyed pools, options val… |
+| 2026-10-14 13:00:06 | [HostLoom.NodeLeasing.Testing](https://www.nuget.org/packages/HostLoom.NodeLeasing.Testing) | 0.16.0 | Aleksandr Pavlov | A scripted INodeLeasing for testing node-ID consumers of HostLoom without an el… |
+| 2026-10-14 13:04:09 | [EingabeAussen](https://www.nuget.org/packages/EingabeAussen) | 1.0.0 | Sandra Gangelmaier | EingabeAussen: ASP.NET Core MVC Projektvorlage (Einträge, Kategorien, Eintragst… |
+| 2026-10-14 13:06:48 | [Umbraco.Community.SearchManager.UmbracoSearch](https://www.nuget.org/packages/Umbraco.Community.SearchManager.UmbracoSearch) | 17.0.0 | Jack Stunell | Adds Umbraco Search indexes to Umbraco Search Manager. Install it on sites that… |
 
 ## Data source
 

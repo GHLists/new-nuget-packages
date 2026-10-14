@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-14T12:21:11.86Z,Fluently.Core,0.1.0,taner04,"Async, view-model-first navigation with back and forward history and rollback on failed navigation."
+2026-10-14T12:23:30.467Z,TheBuilder.ApiOidc,0.2.0,Daniel Schmidt,"Let Vercel, GitHub Actions and other workloads call the Umbraco Delivery API and your own API endpoints with their OIDC token instead of a shared API key."
+2026-10-14T12:25:03.313Z,Plan9.Utf,0.1.0,Scott J Guyton,"9front's UTF-8: libc's rune and utf functions, and a System.Text.Encoding that reads and writes text as Plan 9 does."
+2026-10-14T12:26:50.77Z,DemaConsulting.DocDown.PowerPoint.Rendering,0.2.0,DEMA Consulting,Optional PowerPoint slide rendering (rasterization) for DEMA Consulting DocDown
+2026-10-14T12:26:53.017Z,DemaConsulting.DocDown.Visio.Rendering,0.2.0,DEMA Consulting,Optional Visio page rendering (rasterization) for DEMA Consulting DocDown
+2026-10-14T12:37:46.487Z,Dagger.Analyzers,0.1.0,Dagger contributors,"Shared C# analyzers and editorconfig. Enables the SDK recommended rules and bundles Roslynator, Meziantou, threading, async, and disposal analyzers. Open source only."
+2026-10-14T12:38:52.63Z,DamianH.Http.ForwardedHeaders,0.1.0,Damian Hickey,RFC 7239 Forwarded header parsing and trusted-proxy middleware for ASP.NET Core.
+2026-10-14T12:40:50.377Z,Bibui.Raster.Skia,0.9.0,Navisurg ApS,Bibui's SkiaSharp raster backend. Referencing it makes Skia the default for new BibuiRenderer() and new BibuiRuntime().
+2026-10-14T12:40:50.673Z,Bibui.Platform.Silk,0.9.0,Navisurg ApS,"Bibui cross-platform window host: GLFW + OpenGL through Silk.NET, clipboard through TextCopy. new BibuiWindow(runtime, new SilkPlatformHost())."
+2026-10-14T12:40:51.287Z,Bibui.Raster.Managed.Backend,0.9.0,Navisurg ApS,"bibui's IRasterBackend on the managed rasterizer, with text from Bibui.Text.FreeType: draws with no SkiaSharp."
+2026-10-14T12:40:51.663Z,Bibui,0.9.0,Navisurg ApS,"Bibui, a code-first native UI library: nodes, layout, the painter and BibuiRenderer over an IRasterBackend, text, theming, the runtime (BibuiRuntime, BibuiWindow and the platform-host seam) and the components. Add Bibui.Platform.Silk (GLFW + OpenGL, cross-platform) or Bibui.Platform.Wayland for a w…"
+2026-10-14T12:40:51.953Z,Bibui.Raster.Managed,0.9.0,Navisurg ApS,"A deterministic managed CPU rasterizer for bibui: analytic-coverage path fill, clips, layers and hairlines over premultiplied 32-bit pixels."
+2026-10-14T12:40:51Z,Bibui.Platform.Wayland,0.9.0,Navisurg ApS,"Bibui window host for Wayland compositors: xdg-shell toplevel, wl_shm buffers, frame-callback pacing."
+2026-10-14T12:40:52.277Z,Bibui.Text.FreeType,0.9.0,Navisurg ApS,"bibui text on the system FreeType and HarfBuzz: shaping, exact subpixel measuring, a glyph coverage cache and gamma-correct compositing."
+2026-10-14T12:40:52.547Z,Bibui.Testing,0.9.0,Navisurg ApS,Playwright-style semantic testing API for Bibui apps. Provides BibuiPage and IBibuiPage for headless component testing.
+2026-10-14T12:48:11.49Z,A2A.Grpc,1.0.0-preview3,Community Contributors,gRPC client and protocol mapping for the Agent2Agent (A2A) protocol.
+2026-10-14T12:48:11.94Z,A2A.Grpc.AspNetCore,1.0.0-preview3,Community Contributors,ASP.NET Core gRPC server host for the Agent2Agent (A2A) protocol.
+2026-10-14T12:49:30.467Z,XiaQue.QQBot.Connector,1.0.0,XiaQue,Unofficial .NET QR connector for QQ Bot agent onboarding.
+2026-10-14T13:00:04.35Z,HostLoom.NodeLeasing,0.16.0,Aleksandr Pavlov,"Lease-based node-ID leasing for HostLoom over the distributed lock: one elector per pool, sticky scan, explicit renewal, an assignment token, and the honest guarantee statement."
+2026-10-14T13:00:05.707Z,HostLoom.NodeLeasing.DependencyInjection,0.16.0,Aleksandr Pavlov,"Microsoft.Extensions.DependencyInjection registration, keyed pools, options validation, and hosting for HostLoom node-ID leasing."
+2026-10-14T13:00:06.953Z,HostLoom.NodeLeasing.Testing,0.16.0,Aleksandr Pavlov,A scripted INodeLeasing for testing node-ID consumers of HostLoom without an elector or a lock backend.
+2026-10-14T13:04:09.377Z,EingabeAussen,1.0.0,Sandra Gangelmaier,"EingabeAussen: ASP.NET Core MVC Projektvorlage (Einträge, Kategorien, Eintragstypen, Statistik) mit EF Core und SQL Server. Der Code wird beim Build einmalig ins Projekt kopiert."
+2026-10-14T13:06:48.793Z,Umbraco.Community.SearchManager.UmbracoSearch,17.0.0,Jack Stunell,Adds Umbraco Search indexes to Umbraco Search Manager. Install it on sites that use Umbraco Search.
