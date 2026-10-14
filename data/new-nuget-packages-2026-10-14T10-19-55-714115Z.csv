@@ -1,0 +1,25 @@
+created_at,package,version,authors,description
+2026-10-14T09:24:24.287Z,Falcon.NET,1.0.0,Falcon.NET,Package Description
+2026-10-14T09:24:40.517Z,Falcon.Data.MySql,1.0.0,Falcon.Data.MySql,Package Description
+2026-10-14T09:24:53.22Z,Falcon.Data.PostgreSql,1.0.0,Falcon.Data.PostgreSql,Package Description
+2026-10-14T09:25:07.613Z,Falcon.Data.Sqlite,1.0.0,Falcon.Data.Sqlite,Package Description
+2026-10-14T09:25:21.8Z,Falcon.Data.SqlServer,1.0.0,Falcon.Data.SqlServer,Package Description
+2026-10-14T09:46:55.153Z,Tessellate.Messaging,1.0.44-preview,Tessellate,"Messaging abstractions for the Tessellate framework: IPublisher, IConsumer, HandleContext, and publish options."
+2026-10-14T09:46:55.653Z,Tessellate.Messaging.AzureServiceBus,1.0.44-preview,Tessellate,Azure Service Bus messaging provider for the Tessellate microservice framework.
+2026-10-14T09:46:56.11Z,Tessellate.Messaging.AmazonMq,1.0.44-preview,Tessellate,Amazon MQ (RabbitMQ engine) messaging provider for the Tessellate microservice framework.
+2026-10-14T09:46:56.587Z,Tessellate.Messaging.ActiveMq,1.0.44-preview,Tessellate,Apache ActiveMQ Artemis messaging provider for the Tessellate microservice framework.
+2026-10-14T09:46:57.01Z,Tessellate.SDK,1.0.43-preview,Tessellate,"Host bootstrapping, background services, and consumer discovery for the Tessellate microservice framework."
+2026-10-14T09:46:57.49Z,Tessellate.Messaging.CloudAmqp,1.0.44-preview,Tessellate,CloudAMQP (managed RabbitMQ) messaging provider for the Tessellate microservice framework.
+2026-10-14T09:46:57.98Z,Tessellate.Integrations.Stripe,1.0.44-preview,Tessellate,Stripe payment integration module for the Tessellate microservice framework.
+2026-10-14T09:46:58.397Z,Tessellate.Web,1.0.44-preview,Tessellate,ASP.NET Core integration module for the Tessellate microservice framework.
+2026-10-14T09:46:58.917Z,Tessellate.Messaging.LavinMq,1.0.44-preview,Tessellate,LavinMQ messaging provider for the Tessellate microservice framework.
+2026-10-14T09:46:59.43Z,Tessellate.Foundations,1.0.44-preview,Tessellate,"Core abstractions for the Tessellate microservice framework: settings, environment, outbox, module interface, and database context."
+2026-10-14T09:46:59.96Z,Tessellate.Integrations.Zapier,1.0.44-preview,Tessellate,Zapier integration for the Tessellate microservice framework — send outgoing webhook payloads and receive incoming Zapier triggers via your normal consumer pipeline.
+2026-10-14T09:47:00.49Z,Tessellate.Logging.Seq,1.0.44-preview,Tessellate,Seq structured logging module for the Tessellate microservice framework.
+2026-10-14T09:47:01.05Z,Tessellate.Messaging.RabbitMq,1.0.44-preview,Tessellate,RabbitMQ messaging provider for the Tessellate microservice framework.
+2026-10-14T09:47:25.63Z,Tessellate,1.0.44-preview,Tessellate,"Host bootstrapping, background services, and consumer discovery for the Tessellate microservice framework."
+2026-10-14T09:56:55.01Z,Ternary.Data.MongoDb,10.0.1,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-14T09:57:24.96Z,PolishOpenData.BialaLista.Offline,1.3.0,JacekSmi,"Offline check of a Polish VAT taxpayer and bank account against the Ministry of Finance daily plik płaski (flat file): downloads and indexes the file once per day, then answers Active, Exempt or NotFound locally without the REST API's request limit. Unofficial; not affiliated with the Polish govern…"
+2026-10-14T09:57:29.093Z,Ternary.Data.PgSql,10.0.1,Jacob Dahlke,"A framework to simplify working with data from multiple sources, including files, databases and APIs."
+2026-10-14T09:58:31.353Z,Jalium.UI.MacOS,26.11.0,Jal,Jalium.UI native AppKit and Metal entry package for Apple Silicon macOS.
+2026-10-14T10:03:35.497Z,Samwizardry.LdapHelper,1.0.2,samwizardry,"A modern, high-performance .NET library for Active Directory and LDAP operations built on System.DirectoryServices.Protocols. Features automatic LDAP pagination, RFC 4515 injection-safe filter building, user queries, password management, authentication, and Dependency Injection integration."
