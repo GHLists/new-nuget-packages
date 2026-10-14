@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-14T22:36:57.54Z,IodreamVault,0.3.1,IODream,"IODream Vault command line. Sign in, then run any app with its secrets as environment variables (nothing written to disk), get, list, set and delete secrets, and scan code for leaked secrets with an optional git pre-commit hook. Command: iodreamvault."
+2026-10-14T22:42:37.963Z,Tokenway.Client,0.1.0,iyulab,"Client for Tokenway: read and manage wallets, lots, caps and the event feed, and read what Tokenway adds to model calls made with the vendors' own SDKs — the request id, the balance after the hold, and a refusal's machine-readable detail."
