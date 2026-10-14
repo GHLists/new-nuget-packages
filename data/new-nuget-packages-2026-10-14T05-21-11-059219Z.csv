@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-10-14T04:36:58.417Z,Dflat.System.Client.Test,1.7.2.66,Dflat,"Classes de base des tests du client HTTP du module System et des clients générés (MSTest) : SystemClientTest, GenericClientTest. À référencer par les seuls projets de tests."
+2026-10-14T04:37:14.017Z,Dflat.Kernel.Business,1.7.2.66,Dflat,"Couche métier générique du socle Dflat (sécurité, mail, SMS, cache, localisation, décodage d'erreur SQL) sans dépendance au module System."
+2026-10-14T04:37:15.517Z,Dflat.Kernel.Core,1.7.2.66,Dflat,"Composants transverses du socle Dflat : extensions, helpers, CSV."
+2026-10-14T04:37:16.77Z,Dflat.Kernel.Data,1.7.2.66,Dflat,"Accès aux données et connecteur SQL Server du socle Dflat (cache, sessions, services de données). Les connecteurs Oracle, MySQL, FTP et SFTP sont dans les packages Dflat.Kernel.Data.Oracle, .MySQL, .FTP et .SFTP."
+2026-10-14T04:37:18.087Z,Dflat.Kernel.Data.FTP,1.7.2.66,Dflat,Client FTP/FTPS (FluentFTP) du socle Dflat : envoi et téléchargement de fichiers.
+2026-10-14T04:37:19.66Z,Dflat.Kernel.Data.MySQL,1.7.2.66,Dflat,"Connecteur MySQL (MySql.Data) du socle Dflat, à référencer par les seuls projets qui accèdent à une base MySQL."
+2026-10-14T04:37:22.563Z,Dflat.Kernel.Data.Oracle,1.7.2.66,Dflat,"Connecteur Oracle (Oracle.ManagedDataAccess) du socle Dflat : contexte, aide à la connexion et correspondance des types."
+2026-10-14T04:37:27.287Z,Dflat.Kernel.Data.SFTP,1.7.2.66,Dflat,Client SFTP (SSH.NET) du socle Dflat : envoi et téléchargement de fichiers.
+2026-10-14T04:37:29.433Z,Dflat.Kernel.Data.Test,1.7.2.66,Dflat,"Classes de base des tests d'entités et de modèles Dflat (MSTest) : tests CRUD, tests d'entités, couverture des procédures. À référencer par les seuls projets de tests."
+2026-10-14T04:37:31.127Z,Dflat.Kernel.Excel,1.7.2.66,Dflat,Génération et lecture de rapports Excel/CSV pour le socle Dflat.
+2026-10-14T04:37:32.62Z,Dflat.Kernel.Model,1.7.2.66,Dflat,"Modèles de domaine, ViewModels et validation du socle Dflat."
+2026-10-14T04:37:33.897Z,Dflat.Kernel.Web,1.7.2.66,Dflat,"Contrats et infrastructure Web ASP.NET Core génériques du socle Dflat (middlewares, résultats MVC, helpers, hub de notifications)."
+2026-10-14T04:37:35.07Z,Dflat.Kernel.WebClient,1.7.2.66,Dflat,Client HTTP générique pour consommer les API du socle Dflat.
+2026-10-14T04:37:36.153Z,Dflat.Kernel.WebClient.Test,1.7.2.66,Dflat,"Classes de base des tests de clients HTTP Dflat (MSTest) : BaseClientTest, InitializeClientTestClass, TestHelper. À référencer par les seuls projets de tests."
+2026-10-14T05:01:36.56Z,CodeWF.Toolkit.Lang,1.0.0.13,沙漠尽头的狼,"UI-independent localization with JSON, XML and RESX resources, culture fallback and runtime language switching."
+2026-10-14T05:02:03.607Z,CvSharp,1.0.0,GreatBear,专为 C# / .NET 8 打造的轻量高效计算机视觉库 —— OpenCvSharp 替代方案。 单一原生 DLL（cvsharp_native.dll，C++17/AVX2/静态 CRT，仅数百 KB），纯 P/Invoke 无 C++/CLI，可裁剪可 AOT。 几何类型零撞名（PointI/SizeI/RectI），图像 IO 走 Windows WIC 原生支持中文路径， 绘图走 GDI 抗锯齿字体（PutText 支持中文）。 算子覆盖：滤波/形态学/阈值/几何变换/Canny/轮廓/连通域/霍夫/角点/透视变换/缺陷修复， 内置旋转模板匹配 ShapeMatcher（金字塔+多…
+2026-10-14T05:02:10.057Z,CodeBrix.WebGpu.Native.MitLicenseForever,1.0.287.301,Jeremy Ellis,"Thin, generated .NET bindings over a native WebGPU implementation (the wgpu engine) shipped inside the package: every C function as a blittable LibraryImport, every C struct with its exact layout (checked against the native library at load time), enums, bitflags, object handles and callback-info st…"
+2026-10-14T05:09:24.193Z,MyGameEngine.MetaYoga.Native.android-arm64,3.2.1.1,MyGameEngine,MyGameEngine native MetaYoga runtime for android-arm64. Independently built; not an official upstream package.
+2026-10-14T05:10:05.96Z,MyGameEngine.MetaYoga.Native.android-x64,3.2.1.1,MyGameEngine,MyGameEngine native MetaYoga runtime for android-x64. Independently built; not an official upstream package.
+2026-10-14T05:10:25.977Z,MyGameEngine.FreeType.Native.win-x64,2.14.3.1,MyGameEngine,MyGameEngine native FreeType runtime for win-x64. Independently built; not an official upstream package.
+2026-10-14T05:10:30.917Z,MyGameEngine.FreeType.Native.android-arm64,2.14.3.1,MyGameEngine,MyGameEngine native FreeType runtime for android-arm64. Independently built; not an official upstream package.
+2026-10-14T05:10:37.07Z,MyGameEngine.FreeType.Native.android-x64,2.14.3.1,MyGameEngine,MyGameEngine native FreeType runtime for android-x64. Independently built; not an official upstream package.
+2026-10-14T05:10:54.453Z,MyGameEngine.OpusFile.Native.win-x64,0.12.0.1,MyGameEngine,MyGameEngine native OpusFile runtime for win-x64. Independently built; not an official upstream package.
+2026-10-14T05:11:02.177Z,MyGameEngine.OpusFile.Native.android-arm64,0.12.0.1,MyGameEngine,MyGameEngine native OpusFile runtime for android-arm64. Independently built; not an official upstream package.
+2026-10-14T05:11:25.33Z,MyGameEngine.OpusFile.Native.android-x64,0.12.0.1,MyGameEngine,MyGameEngine native OpusFile runtime for android-x64. Independently built; not an official upstream package.
+2026-10-14T05:12:35.317Z,MyGameEngine.BasisUniversal.Native.win-x64,2.50.0.1,MyGameEngine,MyGameEngine native BasisUniversal runtime for win-x64. Independently built; not an official upstream package.
+2026-10-14T05:12:54.33Z,MyGameEngine.BasisUniversal.Native.android-arm64,2.50.0.1,MyGameEngine,MyGameEngine native BasisUniversal runtime for android-arm64. Independently built; not an official upstream package.

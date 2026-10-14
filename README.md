@@ -12,28 +12,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 04:19 UTC
+## Latest list — 2026-10-14 05:21 UTC
 
-New packages created between 2026-10-14 03:19 UTC and 2026-10-14 04:19 UTC.
+New packages created between 2026-10-14 04:19 UTC and 2026-10-14 05:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-14T04-19-56-003738Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-14T05-21-11-059219Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-14 03:29:26 | [SiliconTwin.Abstractions](https://www.nuget.org/packages/SiliconTwin.Abstractions) | 0.1.0 | Iván Montiel Cardona | Shared, dependency-free contracts for microcontroller emulators: cycle-budgeted… |
-| 2026-10-14 03:38:12 | [Namsiz.WPF.Window.Ribbon](https://www.nuget.org/packages/Namsiz.WPF.Window.Ribbon) | 1.0.0 | Namsiz.T | 带 Ribbon 菜单的通用 WPF 工具窗口库：内置日志 Tab、数据表格 Tab（筛选/行号/虚拟化/校验着色）、状态栏与忙碌遮罩，引用后只需声明菜单按钮… |
-| 2026-10-14 03:46:07 | [CompanyHQ.Services.Shipping.Contracts](https://www.nuget.org/packages/CompanyHQ.Services.Shipping.Contracts) | 2.1.0 | CompanyHQ | Package Description |
-| 2026-10-14 03:48:09 | [BarakoCMS.Secrets.Aws](https://www.nuget.org/packages/BarakoCMS.Secrets.Aws) | 5.0.0 | Arnel Robles | Loads barakoCMS configuration values, such as JWT:Key, Secrets:Key and module c… |
-| 2026-10-14 03:48:11 | [CompanyHQ.Services.Sales](https://www.nuget.org/packages/CompanyHQ.Services.Sales) | 2.1.0 | CompanyHQ | Package Description |
-| 2026-10-14 03:48:14 | [BarakoCMS.Secrets.Gcp](https://www.nuget.org/packages/BarakoCMS.Secrets.Gcp) | 5.0.0 | Arnel Robles | Loads barakoCMS configuration values, such as JWT:Key, Secrets:Key and module c… |
-| 2026-10-14 03:48:15 | [CompanyHQ.Services.Shipping](https://www.nuget.org/packages/CompanyHQ.Services.Shipping) | 2.1.0 | CompanyHQ | Package Description |
-| 2026-10-14 03:57:14 | [iTool.MyScriptRuntimes.AgentSurface](https://www.nuget.org/packages/iTool.MyScriptRuntimes.AgentSurface) | 4.0.0 | iTool.MyScriptRuntimes.AgentS… | Agent-facing surface of the neutral iTool Runtime: the standard development-too… |
-| 2026-10-14 03:58:16 | [iTool.MyAuthentication](https://www.nuget.org/packages/iTool.MyAuthentication) | 4.0.0 | iTool.MyAuthentication | Package Description |
-| 2026-10-14 03:59:15 | [iTool.KnowledgeHub](https://www.nuget.org/packages/iTool.KnowledgeHub) | 4.0.0 | iTool.KnowledgeHub | Business-neutral world knowledge protocol, evolution runtime and AgentKernel to… |
-| 2026-10-14 03:59:44 | [PerformanceStudio.Cli](https://www.nuget.org/packages/PerformanceStudio.Cli) | 1.30.0 | Erik Darling | Command-line SQL Server execution plan analyzer from Performance Studio. Reads… |
-| 2026-10-14 03:59:54 | [iTool.AgentKernel.Persistence](https://www.nuget.org/packages/iTool.AgentKernel.Persistence) | 4.0.0 | iTool.AgentKernel.Persistence | Package Description |
-| 2026-10-14 04:00:32 | [iTool.AgentKernel.Orleans](https://www.nuget.org/packages/iTool.AgentKernel.Orleans) | 4.0.0 | iTool.AgentKernel.Orleans | Distributed Orleans host for the business-neutral iTool AgentKernel runtime. |
-| 2026-10-14 04:10:48 | [iTool.AgentKernel](https://www.nuget.org/packages/iTool.AgentKernel) | 4.0.0 | iTool.AgentKernel | Business-neutral agent runtime built on Microsoft Agent Framework with ChatClie… |
+| 2026-10-14 04:36:58 | [Dflat.System.Client.Test](https://www.nuget.org/packages/Dflat.System.Client.Test) | 1.7.2.66 | Dflat | Classes de base des tests du client HTTP du module System et des clients généré… |
+| 2026-10-14 04:37:14 | [Dflat.Kernel.Business](https://www.nuget.org/packages/Dflat.Kernel.Business) | 1.7.2.66 | Dflat | Couche métier générique du socle Dflat (sécurité, mail, SMS, cache, localisatio… |
+| 2026-10-14 04:37:15 | [Dflat.Kernel.Core](https://www.nuget.org/packages/Dflat.Kernel.Core) | 1.7.2.66 | Dflat | Composants transverses du socle Dflat : extensions, helpers, CSV. |
+| 2026-10-14 04:37:16 | [Dflat.Kernel.Data](https://www.nuget.org/packages/Dflat.Kernel.Data) | 1.7.2.66 | Dflat | Accès aux données et connecteur SQL Server du socle Dflat (cache, sessions, ser… |
+| 2026-10-14 04:37:18 | [Dflat.Kernel.Data.FTP](https://www.nuget.org/packages/Dflat.Kernel.Data.FTP) | 1.7.2.66 | Dflat | Client FTP/FTPS (FluentFTP) du socle Dflat : envoi et téléchargement de fichier… |
+| 2026-10-14 04:37:19 | [Dflat.Kernel.Data.MySQL](https://www.nuget.org/packages/Dflat.Kernel.Data.MySQL) | 1.7.2.66 | Dflat | Connecteur MySQL (MySql.Data) du socle Dflat, à référencer par les seuls projet… |
+| 2026-10-14 04:37:22 | [Dflat.Kernel.Data.Oracle](https://www.nuget.org/packages/Dflat.Kernel.Data.Oracle) | 1.7.2.66 | Dflat | Connecteur Oracle (Oracle.ManagedDataAccess) du socle Dflat : contexte, aide à… |
+| 2026-10-14 04:37:27 | [Dflat.Kernel.Data.SFTP](https://www.nuget.org/packages/Dflat.Kernel.Data.SFTP) | 1.7.2.66 | Dflat | Client SFTP (SSH.NET) du socle Dflat : envoi et téléchargement de fichiers. |
+| 2026-10-14 04:37:29 | [Dflat.Kernel.Data.Test](https://www.nuget.org/packages/Dflat.Kernel.Data.Test) | 1.7.2.66 | Dflat | Classes de base des tests d'entités et de modèles Dflat (MSTest) : tests CRUD,… |
+| 2026-10-14 04:37:31 | [Dflat.Kernel.Excel](https://www.nuget.org/packages/Dflat.Kernel.Excel) | 1.7.2.66 | Dflat | Génération et lecture de rapports Excel/CSV pour le socle Dflat. |
+| 2026-10-14 04:37:32 | [Dflat.Kernel.Model](https://www.nuget.org/packages/Dflat.Kernel.Model) | 1.7.2.66 | Dflat | Modèles de domaine, ViewModels et validation du socle Dflat. |
+| 2026-10-14 04:37:33 | [Dflat.Kernel.Web](https://www.nuget.org/packages/Dflat.Kernel.Web) | 1.7.2.66 | Dflat | Contrats et infrastructure Web ASP.NET Core génériques du socle Dflat (middlewa… |
+| 2026-10-14 04:37:35 | [Dflat.Kernel.WebClient](https://www.nuget.org/packages/Dflat.Kernel.WebClient) | 1.7.2.66 | Dflat | Client HTTP générique pour consommer les API du socle Dflat. |
+| 2026-10-14 04:37:36 | [Dflat.Kernel.WebClient.Test](https://www.nuget.org/packages/Dflat.Kernel.WebClient.Test) | 1.7.2.66 | Dflat | Classes de base des tests de clients HTTP Dflat (MSTest) : BaseClientTest, Init… |
+| 2026-10-14 05:01:36 | [CodeWF.Toolkit.Lang](https://www.nuget.org/packages/CodeWF.Toolkit.Lang) | 1.0.0.13 | 沙漠尽头的狼 | UI-independent localization with JSON, XML and RESX resources, culture fallback… |
+| 2026-10-14 05:02:03 | [CvSharp](https://www.nuget.org/packages/CvSharp) | 1.0.0 | GreatBear | 专为 C# / .NET 8 打造的轻量高效计算机视觉库 —— OpenCvSharp 替代方案。 单一原生 DLL（cvsharp_native.dll，C… |
+| 2026-10-14 05:02:10 | [CodeBrix.WebGpu.Native.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.WebGpu.Native.MitLicenseForever) | 1.0.287.301 | Jeremy Ellis | Thin, generated .NET bindings over a native WebGPU implementation (the wgpu eng… |
+| 2026-10-14 05:09:24 | [MyGameEngine.MetaYoga.Native.android-arm64](https://www.nuget.org/packages/MyGameEngine.MetaYoga.Native.android-arm64) | 3.2.1.1 | MyGameEngine | MyGameEngine native MetaYoga runtime for android-arm64. Independently built; no… |
+| 2026-10-14 05:10:05 | [MyGameEngine.MetaYoga.Native.android-x64](https://www.nuget.org/packages/MyGameEngine.MetaYoga.Native.android-x64) | 3.2.1.1 | MyGameEngine | MyGameEngine native MetaYoga runtime for android-x64. Independently built; not… |
+| 2026-10-14 05:10:25 | [MyGameEngine.FreeType.Native.win-x64](https://www.nuget.org/packages/MyGameEngine.FreeType.Native.win-x64) | 2.14.3.1 | MyGameEngine | MyGameEngine native FreeType runtime for win-x64. Independently built; not an o… |
+| 2026-10-14 05:10:30 | [MyGameEngine.FreeType.Native.android-arm64](https://www.nuget.org/packages/MyGameEngine.FreeType.Native.android-arm64) | 2.14.3.1 | MyGameEngine | MyGameEngine native FreeType runtime for android-arm64. Independently built; no… |
+| 2026-10-14 05:10:37 | [MyGameEngine.FreeType.Native.android-x64](https://www.nuget.org/packages/MyGameEngine.FreeType.Native.android-x64) | 2.14.3.1 | MyGameEngine | MyGameEngine native FreeType runtime for android-x64. Independently built; not… |
+| 2026-10-14 05:10:54 | [MyGameEngine.OpusFile.Native.win-x64](https://www.nuget.org/packages/MyGameEngine.OpusFile.Native.win-x64) | 0.12.0.1 | MyGameEngine | MyGameEngine native OpusFile runtime for win-x64. Independently built; not an o… |
+| 2026-10-14 05:11:02 | [MyGameEngine.OpusFile.Native.android-arm64](https://www.nuget.org/packages/MyGameEngine.OpusFile.Native.android-arm64) | 0.12.0.1 | MyGameEngine | MyGameEngine native OpusFile runtime for android-arm64. Independently built; no… |
+| 2026-10-14 05:11:25 | [MyGameEngine.OpusFile.Native.android-x64](https://www.nuget.org/packages/MyGameEngine.OpusFile.Native.android-x64) | 0.12.0.1 | MyGameEngine | MyGameEngine native OpusFile runtime for android-x64. Independently built; not… |
+| 2026-10-14 05:12:35 | [MyGameEngine.BasisUniversal.Native.win-x64](https://www.nuget.org/packages/MyGameEngine.BasisUniversal.Native.win-x64) | 2.50.0.1 | MyGameEngine | MyGameEngine native BasisUniversal runtime for win-x64. Independently built; no… |
+| 2026-10-14 05:12:54 | [MyGameEngine.BasisUniversal.Native.android-arm64](https://www.nuget.org/packages/MyGameEngine.BasisUniversal.Native.android-arm64) | 2.50.0.1 | MyGameEngine | MyGameEngine native BasisUniversal runtime for android-arm64. Independently bui… |
 
 ## Data source
 
