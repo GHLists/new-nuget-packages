@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-14T10:37:01.24Z,Aml.Editor.Plugin.MtpControl,1.0.1,Vincent Schmitt,This plugin makes it possible to monitor or operate a single MTP-compliant Process Equipment Assembly over OPC UA.
+2026-10-14T10:43:20.72Z,Pythia.Tagger.LiteDB,12.1.1,Daniele Fusi,Pythia taggers LiteDB components.
+2026-10-14T10:44:02.71Z,SheetStream.AspNetCore,0.3.0,P4 Software,"ASP.NET Core helpers for SheetStream: return a streamed .xlsx download from a minimal API or controller in one line, with flat memory and no synchronous I/O."
+2026-10-14T10:46:18.59Z,Amakora.Nexra,1.0.0,Amakora Group,"Client for the Nexra platform API: integrations, flows, runs, connections, triggers, reconciliation, approvals and signed event webhooks. Typed from the OpenAPI document, with retries, typed errors, cursor pages and webhook signature checks."
+2026-10-14T10:47:06.7Z,MailMartinSil,1.0.0,Martin Šíl,".NET SDK for mail-martinsil, a Resend-compatible email API on Amazon SES."
+2026-10-14T11:00:16.053Z,Asico.EmailService.Test2,1.0.5,Vasudevan,Asico Mail Service [TEST2]
+2026-10-14T11:07:08.85Z,CorvusRE,2.0.2,Albasha0x0,"MCP server and command line for reverse engineering .NET assemblies and native PE, ELF and Mach-O binaries: decompile, search, compare builds, patch and save. Nothing is executed."
