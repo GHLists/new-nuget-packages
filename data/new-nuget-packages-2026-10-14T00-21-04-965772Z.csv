@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-13T23:31:05.657Z,Penghou.Workflow.Abstractions,1.0.0,Penghou contributors,"Product-neutral, bounded execution authorization contracts for replaceable workflow runtimes and authority adapters."
+2026-10-13T23:33:32.053Z,FaroHQ.AspNetCore,0.2.1,FaroHQ,Envia os erros de aplicações ASP.NET Core para o FaroHQ (análise de causa raiz lendo o seu código).
+2026-10-13T23:34:19.303Z,Penghou.Cangjie.Sqlite,1.0.0,Penghou.Cangjie contributors,Local-first SQLite and FTS5 implementation of Penghou.Cangjie context storage.
+2026-10-13T23:34:19.56Z,Penghou.Cangjie,1.0.0,Penghou.Cangjie contributors,"Framework-agnostic context, provenance, relation, and retrieval abstractions for .NET AI applications."
+2026-10-13T23:34:19.787Z,Penghou.Cangjie.Testing,1.0.0,Penghou.Cangjie contributors,Reusable conformance tests for Penghou.Cangjie context stores.
+2026-10-13T23:35:46.477Z,OpenDebug.Net.linux-x64,0.0.2,OpenDebug.Net contributors,A fast Native AOT Debug Adapter Protocol server for live managed .NET processes.
+2026-10-13T23:38:17.213Z,Penghou.IO.Identity.Abstractions,1.0.0,Penghou.IO contributors,Data-only request and identity contracts for Penghou I/O protocol schema v1. No provider or authorization capabilities.
+2026-10-13T23:38:18.56Z,Penghou.IO.Protocols,1.0.0,Penghou.IO contributors,Versioned resource identity and path protocol implementations shared by Penghou I/O contracts and providers.
+2026-10-13T23:39:06.063Z,Penghou.Siming,1.0.0,Penghou.Siming contributors,"Provider-neutral tamper-evident append-only event ledger contracts, canonical payloads, verification, and checkpoints."
+2026-10-13T23:39:06.73Z,Penghou.Siming.Cryptography,1.0.0,Penghou.Siming contributors,Optional detached Ed25519 checkpoint signing and public-key verification for Penghou.Siming.
+2026-10-13T23:39:07.4Z,Penghou.Siming.Sqlite,1.0.0,Penghou.Siming contributors,Transactional SQLite persistence for the Penghou.Siming tamper-evident append-only ledger.
+2026-10-13T23:39:08.277Z,Penghou.Siming.Testing,1.0.0,Penghou.Siming contributors,Reusable provider conformance checks for Penghou.Siming ledger implementations.
+2026-10-13T23:39:10.017Z,Penghou.Siming.Verify,1.0.0,Penghou.Siming contributors,Command-line verification for Penghou.Siming SQLite ledgers and signed or unsigned checkpoints.
+2026-10-14T00:03:32.657Z,SharpNinja.McpServer.Director,0.6.26,SharpNinja,"CLI management tool for McpServer. Provides workspace management, agent orchestration, compliance policy editing, Keycloak OIDC auth, and an interactive Terminal.Gui TUI with 7 tabbed screens. 18 CLI commands via System.CommandLine."
+2026-10-14T00:10:38.38Z,SharpNinja.McpServer.Web,0.6.26,SharpNinja,SharpNinja.McpServer.Web
