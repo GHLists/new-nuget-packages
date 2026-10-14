@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-14T01:30:15.22Z,CompanyHQ.Services.Sales.Contracts,2.1.0,CompanyHQ,Package Description
+2026-10-14T01:38:42.123Z,CloudySkySoftware.Pulumi.Render,0.6.0,Cloudy Sky Software,A Pulumi package for creating and managing Render resources.
+2026-10-14T01:52:06.503Z,TinyMCE.Premium,8.10.0,"Ephox Corporation DBA Tiny Technologies, Inc",Premium plugins for the TinyMCE rich text editor
+2026-10-14T02:02:06.787Z,Swipewalk.any,0.6.0,Swipewalk,"Accessibility scanner for running Android and iOS apps, tried on native Android (Views, Jetpack Compose), native iOS (UIKit, SwiftUI) and .NET MAUI apps, with extra help for .NET MAUI. Wraps Apple's accessibility audit and Google's Accessibility Test Framework, can capture what TalkBack says on And…"
+2026-10-14T02:02:36.367Z,Swipewalk.osx-arm64,0.6.0,Swipewalk,"Accessibility scanner for running Android and iOS apps, tried on native Android (Views, Jetpack Compose), native iOS (UIKit, SwiftUI) and .NET MAUI apps, with extra help for .NET MAUI. Wraps Apple's accessibility audit and Google's Accessibility Test Framework, can capture what TalkBack says on And…"
+2026-10-14T02:02:41.747Z,Swipewalk.osx-x64,0.6.0,Swipewalk,"Accessibility scanner for running Android and iOS apps, tried on native Android (Views, Jetpack Compose), native iOS (UIKit, SwiftUI) and .NET MAUI apps, with extra help for .NET MAUI. Wraps Apple's accessibility audit and Google's Accessibility Test Framework, can capture what TalkBack says on And…"
