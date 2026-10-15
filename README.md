@@ -12,55 +12,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 03:22 UTC
+## Latest list — 2026-10-15 04:22 UTC
 
-New packages created between 2026-10-15 02:19 UTC and 2026-10-15 03:22 UTC.
+New packages created between 2026-10-15 03:22 UTC and 2026-10-15 04:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T03-22-17-800851Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T04-22-06-311575Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 02:36:47 | [AntChain.SDK.DATACOLLECTION](https://www.nuget.org/packages/AntChain.SDK.DATACOLLECTION) | 1.0.1 | Ant Chain, Inc | Ant Chain DATACOLLECTION SDK Library for .NET |
-| 2026-10-15 02:55:11 | [Timbn.GraveyardKeeperTwo.Templates](https://www.nuget.org/packages/Timbn.GraveyardKeeperTwo.Templates) | 1.0.0 | Timbn | A dotnet new template for a Graveyard Keeper 2 mod built on Timbn Core. Run dot… |
-| 2026-10-15 02:55:42 | [Dignite.Abp.AspNetCore.Mcp](https://www.nuget.org/packages/Dignite.Abp.AspNetCore.Mcp) | 10.7.0 | Dignite | Hosts one Model Context Protocol (MCP) server inside an ABP Framework applicati… |
-| 2026-10-15 02:55:43 | [Dignite.Abp.BlobStoring.Imaging](https://www.nuget.org/packages/Dignite.Abp.BlobStoring.Imaging) | 10.7.0 | Dignite | Image resize and compress IBlobPipelineContributors for ABP BlobStoring, on ABP… |
-| 2026-10-15 02:55:44 | [Dignite.Abp.BlobStoring.Pipeline](https://www.nuget.org/packages/Dignite.Abp.BlobStoring.Pipeline) | 10.7.0 | Dignite | Everyday IBlobPipelineContributor implementations for ABP BlobStoring: size cap… |
-| 2026-10-15 02:55:45 | [Dignite.Abp.FlexFields.Abstractions](https://www.nuget.org/packages/Dignite.Abp.FlexFields.Abstractions) | 10.7.0 | Dignite | Constraint-kernel contracts and built-in field types for Dignite.Abp.FlexFields… |
-| 2026-10-15 02:55:46 | [Dignite.Abp.FlexFields.CKEditor](https://www.nuget.org/packages/Dignite.Abp.FlexFields.CKEditor) | 10.7.0 | Dignite | CKEditor field type for Dignite.Abp.FlexFields - lets a flex field be edited wi… |
-| 2026-10-15 02:55:46 | [Dignite.Abp.FlexFields.CKEditor.Web](https://www.nuget.org/packages/Dignite.Abp.FlexFields.CKEditor.Web) | 10.7.0 | Dignite | Default <flex-field-view> rendering (Dignite.Abp.FlexFields.Web) for the CKEdit… |
-| 2026-10-15 02:55:47 | [Dignite.Abp.FlexFields.Domain](https://www.nuget.org/packages/Dignite.Abp.FlexFields.Domain) | 10.7.0 | Dignite | Domain-layer seams for Dignite.Abp.FlexFields: IFlexField (the Entity contract… |
-| 2026-10-15 02:55:48 | [Dignite.Abp.FlexFields.Domain.Shared](https://www.nuget.org/packages/Dignite.Abp.FlexFields.Domain.Shared) | 10.7.0 | Dignite | Column-length constants shared by Dignite.Abp.FlexFields' domain and every pers… |
-| 2026-10-15 02:55:49 | [Dignite.Abp.FlexFields.EntityFrameworkCore](https://www.nuget.org/packages/Dignite.Abp.FlexFields.EntityFrameworkCore) | 10.7.0 | Dignite | EF Core support (not ownership) for Dignite.Abp.FlexFields: EntityTypeBuilder e… |
-| 2026-10-15 02:55:50 | [Dignite.Abp.FlexFields.Installer](https://www.nuget.org/packages/Dignite.Abp.FlexFields.Installer) | 10.7.0 | Dignite | ABP Studio / ABP Suite module installer entry point for Dignite.Abp.FlexFields. |
-| 2026-10-15 02:55:51 | [Dignite.Abp.FlexFields.MongoDB](https://www.nuget.org/packages/Dignite.Abp.FlexFields.MongoDB) | 10.7.0 | Dignite | MongoDB support (not ownership) for Dignite.Abp.FlexFields: MongoFlexFieldIndex… |
-| 2026-10-15 02:55:52 | [Dignite.Abp.FlexFields.Web](https://www.nuget.org/packages/Dignite.Abp.FlexFields.Web) | 10.7.0 | Dignite | Server-side (Razor) display and search rendering for Dignite.Abp.FlexFields: th… |
-| 2026-10-15 02:55:54 | [Dignite.Abp.Notifications.Abstractions](https://www.nuget.org/packages/Dignite.Abp.Notifications.Abstractions) | 10.7.0 | Dignite | The contracts of Dignite.Abp.Notifications: notification definitions and routin… |
-| 2026-10-15 02:55:55 | [Dignite.Abp.Notifications.Client](https://www.nuget.org/packages/Dignite.Abp.Notifications.Client) | 10.7.0 | Dignite | Remote publishing for Dignite.Abp.Notifications: an INotificationPublisher that… |
-| 2026-10-15 02:55:56 | [Dignite.Abp.Notifications.Domain](https://www.nuget.org/packages/Dignite.Abp.Notifications.Domain) | 10.7.0 | Dignite | The notification definition store of Dignite.Abp.Notifications, after ABP's per… |
-| 2026-10-15 02:55:57 | [Dignite.Abp.Notifications.Domain.Shared](https://www.nuget.org/packages/Dignite.Abp.Notifications.Domain.Shared) | 10.7.0 | Dignite | Constants and event contracts of the Dignite.Abp.Notifications definition store… |
-| 2026-10-15 02:55:58 | [Dignite.Abp.Notifications.Emailing](https://www.nuget.org/packages/Dignite.Abp.Notifications.Emailing) | 10.7.0 | Dignite | Email notifier for Dignite.Abp.Notifications via ABP's IEmailSender. |
-| 2026-10-15 02:55:58 | [Dignite.Abp.Notifications.Emailing.Identity](https://www.nuget.org/packages/Dignite.Abp.Notifications.Emailing.Identity) | 10.7.0 | Dignite | ABP Identity-backed email address resolver for Dignite.Abp.Notifications.Emaili… |
-| 2026-10-15 02:55:59 | [Dignite.Abp.Notifications.EntityFrameworkCore](https://www.nuget.org/packages/Dignite.Abp.Notifications.EntityFrameworkCore) | 10.7.0 | Dignite | EF Core tables of the Dignite.Abp.Notifications definition store (NotifDefiniti… |
-| 2026-10-15 02:56:01 | [Dignite.Abp.Notifications.MongoDB](https://www.nuget.org/packages/Dignite.Abp.Notifications.MongoDB) | 10.7.0 | Dignite | MongoDB collections of the Dignite.Abp.Notifications definition store (NotifDef… |
-| 2026-10-15 02:56:02 | [Dignite.Abp.Notifications.Push](https://www.nuget.org/packages/Dignite.Abp.Notifications.Push) | 10.7.0 | Dignite | Device push notifier for Dignite.Abp.Notifications. Delivery goes through a plu… |
-| 2026-10-15 02:56:03 | [Dignite.Abp.Notifications.Push.Expo](https://www.nuget.org/packages/Dignite.Abp.Notifications.Push.Expo) | 10.7.0 | Dignite | Expo Push Service provider for the Dignite.Abp.Notifications device push notifi… |
-| 2026-10-15 02:56:04 | [Dignite.Abp.Notifications.SignalR](https://www.nuget.org/packages/Dignite.Abp.Notifications.SignalR) | 10.7.0 | Dignite | Real-time push notifier for Dignite.Abp.Notifications via an ABP SignalR hub at… |
-| 2026-10-15 02:56:05 | [Dignite.NotificationCenter.Application](https://www.nuget.org/packages/Dignite.NotificationCenter.Application) | 10.7.0 | Dignite | Application service implementations for the Dignite Notification Center's inbox… |
-| 2026-10-15 02:56:06 | [Dignite.NotificationCenter.Application.Contracts](https://www.nuget.org/packages/Dignite.NotificationCenter.Application.Contracts) | 10.7.0 | Dignite | DTOs and application service interfaces for the Dignite Notification Center's i… |
-| 2026-10-15 02:56:07 | [Dignite.NotificationCenter.Domain](https://www.nuget.org/packages/Dignite.NotificationCenter.Domain) | 10.7.0 | Dignite | Aggregates for the Dignite Notification Center: Notification, UserNotification,… |
-| 2026-10-15 02:56:08 | [Dignite.NotificationCenter.Domain.Shared](https://www.nuget.org/packages/Dignite.NotificationCenter.Domain.Shared) | 10.7.0 | Dignite | Shared enums and constants (NotificationSeverity, UserNotificationState) for th… |
-| 2026-10-15 02:56:09 | [Dignite.NotificationCenter.EntityFrameworkCore](https://www.nuget.org/packages/Dignite.NotificationCenter.EntityFrameworkCore) | 10.7.0 | Dignite | INotificationStore implementation for the Dignite Notification Center backed by… |
-| 2026-10-15 02:56:10 | [Dignite.NotificationCenter.HttpApi](https://www.nuget.org/packages/Dignite.NotificationCenter.HttpApi) | 10.7.0 | Dignite | REST API controllers for the Dignite Notification Center at /api/notifications. |
-| 2026-10-15 02:56:13 | [Dignite.NotificationCenter.HttpApi.Client](https://www.nuget.org/packages/Dignite.NotificationCenter.HttpApi.Client) | 10.7.0 | Dignite | C# HTTP client proxies for remote consumers of the Dignite Notification Center… |
-| 2026-10-15 02:56:14 | [Dignite.NotificationCenter.Installer](https://www.nuget.org/packages/Dignite.NotificationCenter.Installer) | 10.7.0 | Dignite | ABP Studio / ABP Suite module installer entry point for Dignite.NotificationCen… |
-| 2026-10-15 02:56:15 | [Dignite.NotificationCenter.MongoDB](https://www.nuget.org/packages/Dignite.NotificationCenter.MongoDB) | 10.7.0 | Dignite | INotificationStore implementation for the Dignite Notification Center backed by… |
-| 2026-10-15 02:56:16 | [Dignite.NotificationCenter.Push](https://www.nuget.org/packages/Dignite.NotificationCenter.Push) | 10.7.0 | Dignite | Connects the Dignite.Abp.Notifications push channel to the Notification Center'… |
-| 2026-10-15 02:56:17 | [Dignite.NotificationCenter.Push.Identity](https://www.nuget.org/packages/Dignite.NotificationCenter.Push.Identity) | 10.7.0 | Dignite | Stops pushing to a device once the ABP Identity login session it registered und… |
-| 2026-10-15 02:56:18 | [Dignite.NotificationCenter.Web](https://www.nuget.org/packages/Dignite.NotificationCenter.Web) | 10.7.0 | Dignite | MVC UI library for the Dignite Notification Center: a notification-bell view co… |
-| 2026-10-15 02:56:40 | [Consoul.Cli](https://www.nuget.org/packages/Consoul.Cli) | 3.0.0 | tbm0115 | Optional command-line application helpers for Consoul MVC-style console apps. |
-| 2026-10-15 02:56:41 | [Consoul.Extensions.Configuration](https://www.nuget.org/packages/Consoul.Extensions.Configuration) | 3.0.0 | tbm0115 | Optional Microsoft.Extensions.Configuration integration for Consoul routines. |
-| 2026-10-15 02:56:42 | [Consoul.Extensions.Logging](https://www.nuget.org/packages/Consoul.Extensions.Logging) | 3.0.0 | tbm0115 | Optional Microsoft.Extensions.Logging integration for Consoul. |
-| 2026-10-15 02:56:44 | [Consoul.Text.Json](https://www.nuget.org/packages/Consoul.Text.Json) | 3.0.0 | tbm0115 | Optional System.Text.Json integration for Consoul form/object editor value rend… |
+| 2026-10-15 03:31:13 | [Webority.Azure.Monitor](https://www.nuget.org/packages/Webority.Azure.Monitor) | 0.22.0 | Webority.Azure.Monitor | Shared Azure Monitor readers for Webority libraries: the logs query API, platfo… |
+| 2026-10-15 03:39:53 | [Webority.Push.Broadcasts](https://www.nuget.org/packages/Webority.Push.Broadcasts) | 0.5.0 | Webority Technologies | Marketing push broadcasts a product hosts on its own database: broadcasts with… |
+| 2026-10-15 03:39:55 | [Webority.Push.Broadcasts.AspNetCore](https://www.nuget.org/packages/Webority.Push.Broadcasts.AspNetCore) | 0.5.0 | Webority Technologies | ASP.NET Core endpoints and wire contracts for the marketing push broadcast cons… |
+| 2026-10-15 03:48:45 | [Atlas.ProviderAdapterContracts](https://www.nuget.org/packages/Atlas.ProviderAdapterContracts) | 0.1.3 | Atlas.ProviderAdapterContracts | The public Atlas provider adapter boundary. |
+| 2026-10-15 03:51:44 | [Shiny.UniversalHubs.Client](https://www.nuget.org/packages/Shiny.UniversalHubs.Client) | 1.0.0-beta-0003 | Allan Ritchie | Shiny.UniversalHubs client - finds hub hosts over Bluetooth LE and mDNS and con… |
+| 2026-10-15 03:51:45 | [Shiny.UniversalHubs.Host](https://www.nuget.org/packages/Shiny.UniversalHubs.Host) | 1.0.0-beta-0003 | Allan Ritchie | Shiny.UniversalHubs host - serves your Shiny.BluetoothLE.Hubs hubs over Wi-Fi (… |
+| 2026-10-15 03:51:45 | [Shiny.UniversalHubs](https://www.nuget.org/packages/Shiny.UniversalHubs) | 1.0.0-beta-0003 | Allan Ritchie | Shiny.UniversalHubs - Shiny.BluetoothLE.Hubs over Wi-Fi as well as Bluetooth LE… |
+| 2026-10-15 03:52:48 | [uTPro.Feature.AIPageBuilder](https://www.nuget.org/packages/uTPro.Feature.AIPageBuilder) | 1.0.0 | T4VN | AI-assisted page building inside the Umbraco backoffice (Umbraco 16, 17, 18). A… |
+| 2026-10-15 04:08:35 | [Dignite.FlexFields.Site](https://www.nuget.org/packages/Dignite.FlexFields.Site) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:36 | [Dignite.Site.Admin.Application](https://www.nuget.org/packages/Dignite.Site.Admin.Application) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:37 | [Dignite.Site.Admin.Application.Contracts](https://www.nuget.org/packages/Dignite.Site.Admin.Application.Contracts) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:37 | [Dignite.Site.Admin.HttpApi](https://www.nuget.org/packages/Dignite.Site.Admin.HttpApi) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:38 | [Dignite.Site.Admin.HttpApi.Client](https://www.nuget.org/packages/Dignite.Site.Admin.HttpApi.Client) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:38 | [Dignite.Site.Application](https://www.nuget.org/packages/Dignite.Site.Application) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:42 | [Dignite.Site.Application.Contracts](https://www.nuget.org/packages/Dignite.Site.Application.Contracts) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:42 | [Dignite.Site.Common.Application](https://www.nuget.org/packages/Dignite.Site.Common.Application) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:43 | [Dignite.Site.Common.Application.Contracts](https://www.nuget.org/packages/Dignite.Site.Common.Application.Contracts) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:44 | [Dignite.Site.Common.HttpApi](https://www.nuget.org/packages/Dignite.Site.Common.HttpApi) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:44 | [Dignite.Site.Common.HttpApi.Client](https://www.nuget.org/packages/Dignite.Site.Common.HttpApi.Client) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:45 | [Dignite.Site.Domain](https://www.nuget.org/packages/Dignite.Site.Domain) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:45 | [Dignite.Site.Domain.Shared](https://www.nuget.org/packages/Dignite.Site.Domain.Shared) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:46 | [Dignite.Site.EntityFrameworkCore](https://www.nuget.org/packages/Dignite.Site.EntityFrameworkCore) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:47 | [Dignite.Site.HttpApi](https://www.nuget.org/packages/Dignite.Site.HttpApi) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:47 | [Dignite.Site.HttpApi.Client](https://www.nuget.org/packages/Dignite.Site.HttpApi.Client) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:48 | [Dignite.Site.Installer](https://www.nuget.org/packages/Dignite.Site.Installer) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:48 | [Dignite.Site.Mcp](https://www.nuget.org/packages/Dignite.Site.Mcp) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:49 | [Dignite.Site.MongoDB](https://www.nuget.org/packages/Dignite.Site.MongoDB) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:49 | [Dignite.Site.Public.Application](https://www.nuget.org/packages/Dignite.Site.Public.Application) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:50 | [Dignite.Site.Public.Application.Contracts](https://www.nuget.org/packages/Dignite.Site.Public.Application.Contracts) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:50 | [Dignite.Site.Public.HttpApi](https://www.nuget.org/packages/Dignite.Site.Public.HttpApi) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:51 | [Dignite.Site.Public.HttpApi.Client](https://www.nuget.org/packages/Dignite.Site.Public.HttpApi.Client) | 1.0.0 | Dignite | Package Description |
+| 2026-10-15 04:08:52 | [Dignite.Site.Public.Web](https://www.nuget.org/packages/Dignite.Site.Public.Web) | 1.0.0 | Dignite | Package Description |
 
 ## Data source
 
