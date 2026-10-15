@@ -12,38 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 21:22 UTC
+## Latest list — 2026-10-15 22:20 UTC
 
-New packages created between 2026-10-15 20:21 UTC and 2026-10-15 21:22 UTC.
+New packages created between 2026-10-15 21:22 UTC and 2026-10-15 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T21-22-17-427951Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T22-20-56-815462Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 20:22:28 | [RuleLoom](https://www.nuget.org/packages/RuleLoom) | 0.5.0 | Stefan Totev | RuleLoom: an event-driven business rule engine for .NET. Rules are written as J… |
-| 2026-10-15 20:22:29 | [RuleLoom.Extensions.DependencyInjection](https://www.nuget.org/packages/RuleLoom.Extensions.DependencyInjection) | 0.5.0 | Stefan Totev | Microsoft.Extensions.DependencyInjection integration for RuleLoom: services.Add… |
-| 2026-10-15 20:22:30 | [RuleLoom.Abstractions](https://www.nuget.org/packages/RuleLoom.Abstractions) | 0.5.0 | Stefan Totev | Contracts and models for RuleLoom: rule definitions, conditions, actions, resul… |
-| 2026-10-15 20:30:12 | [AffluentAssertions](https://www.nuget.org/packages/AffluentAssertions) | 7.2.0 | Dennis Doomen,Jonas Nyrup | A very extensive set of extension methods that allow you to more naturally spec… |
-| 2026-10-15 20:42:43 | [Themis.Common](https://www.nuget.org/packages/Themis.Common) | 1.0.0 | Rldc contributors | Shared request, response, and typed-answer contracts for the Themis library. |
-| 2026-10-15 20:42:45 | [Themis.Core](https://www.nuget.org/packages/Themis.Core) | 1.0.0 | Rldc contributors | Decision routing and provider abstractions for applications built on Themis. |
-| 2026-10-15 20:42:47 | [Themis.Inference](https://www.nuget.org/packages/Themis.Inference) | 1.0.0 | Rldc contributors | Prepared ONNX and Laya GGUF inference, bundle validation, and model packing for… |
-| 2026-10-15 20:42:49 | [Themis.Inference.Ollama](https://www.nuget.org/packages/Themis.Inference.Ollama) | 1.0.0 | Rldc contributors | Ollama chat and System One inference without ONNX runtime dependencies. |
-| 2026-10-15 20:42:51 | [Themis](https://www.nuget.org/packages/Themis) | 1.0.0 | Rldc contributors | Typed model decisions for .NET apps, with dependency-injection registration and… |
-| 2026-10-15 20:42:53 | [Themis.Maf](https://www.nuget.org/packages/Themis.Maf) | 1.0.0 | Rldc contributors | Expose Themis conversational inference through Microsoft.Extensions.AI and Micr… |
-| 2026-10-15 20:42:55 | [Themis.Inference.WinML](https://www.nuget.org/packages/Themis.Inference.WinML) | 1.0.0 | Rldc contributors | Optional Windows ML execution-provider integration for Themis ONNX inference. |
-| 2026-10-15 20:44:59 | [ITSOL.Basal.Client](https://www.nuget.org/packages/ITSOL.Basal.Client) | 0.1.0 | IT SOL | HTTP client for the native Basal API, with typed decisions and asynchronous req… |
-| 2026-10-15 20:45:24 | [Cackle.PrettyFluentMail](https://www.nuget.org/packages/Cackle.PrettyFluentMail) | 2.0.1 | Will Branch | Pretty HTML email from MJML and Scriban templates, composed with a Fluent API a… |
-| 2026-10-15 20:45:25 | [Cackle.PrettyFluentMail.Extensions.DependencyInjection](https://www.nuget.org/packages/Cackle.PrettyFluentMail.Extensions.DependencyInjection) | 2.0.1 | Will Branch | Dependency injection for Cackle.PrettyFluentMail: one AddPrettyFluentMail call… |
-| 2026-10-15 20:47:19 | [Pondhawk.Logging.Migration](https://www.nuget.org/packages/Pondhawk.Logging.Migration) | 1.0.62 | Pond Hawk Technologies Inc. | Roslyn analyzer and code fixes that rewrite Fabrica.Watch logging calls to Micr… |
-| 2026-10-15 20:47:42 | [Haley.Helpers.Identity](https://www.nuget.org/packages/Haley.Helpers.Identity) | 0.1.0 | The Haley Project | Reusable accounts, credentials, MFA and opaque sessions with embedded or remote… |
-| 2026-10-15 20:47:43 | [Haley.Helpers.Identity.Server](https://www.nuget.org/packages/Haley.Helpers.Identity.Server) | 0.1.0 | The Haley Project | Reusable accounts, credentials, MFA and opaque sessions with embedded or remote… |
-| 2026-10-15 20:48:25 | [SyntaxCircus.Seo.Analysis](https://www.nuget.org/packages/SyntaxCircus.Seo.Analysis) | 0.1.1 | Syntax Circus LLC | Headless content preparation and focused SEO authoring analysis. |
-| 2026-10-15 20:51:00 | [SteamKitSDK.Windows](https://www.nuget.org/packages/SteamKitSDK.Windows) | 0.9.1 | pat2381 | Windows desktop authentication helpers for SteamKitSDK, with UI-agnostic prompt… |
-| 2026-10-15 20:51:01 | [SteamKitSDK](https://www.nuget.org/packages/SteamKitSDK) | 0.9.1 | pat2381 | Modern .NET SDK for authorized Steam application-content and Workshop downloads… |
-| 2026-10-15 21:03:28 | [Cogito.MassTransit.DependencyInjection](https://www.nuget.org/packages/Cogito.MassTransit.DependencyInjection) | 3.1.0 | Alethic Solutions | Registers MassTransit consumers, sagas and activities from attributes, onto any… |
-| 2026-10-15 21:03:29 | [Cogito.MassTransit.EntityFrameworkCore.DependencyInjection](https://www.nuget.org/packages/Cogito.MassTransit.EntityFrameworkCore.DependencyInjection) | 3.1.0 | Alethic Solutions | Keeps MassTransit saga instances in Entity Framework Core, registered from an a… |
-| 2026-10-15 21:09:31 | [PA.CacheAside.Core](https://www.nuget.org/packages/PA.CacheAside.Core) | 1.0.0 | PA.CacheAside.Core | Package Description |
-| 2026-10-15 21:16:01 | [DotCourier.SourceGenerator](https://www.nuget.org/packages/DotCourier.SourceGenerator) | 0.10.0 | Valossa515 | Compile-time registration for DotCourier: generates the handler registrations a… |
+| 2026-10-15 21:24:35 | [Lakerfield.HttpServer](https://www.nuget.org/packages/Lakerfield.HttpServer) | 1.0.0 | Michael Lakerveld | A simple static file HTTP server with interactive TUI and CLI modes. Serves the… |
+| 2026-10-15 21:28:23 | [Conduit.Client.Authentication.OAuth2](https://www.nuget.org/packages/Conduit.Client.Authentication.OAuth2) | 0.1.3 | NRTH | Conduit service connections for personal and business use under the Conduit Com… |
+| 2026-10-15 21:36:18 | [BatInspectorPublisher](https://www.nuget.org/packages/BatInspectorPublisher) | 0.1.0 | Simon Köhler | Publishes bat acoustic-monitoring observations from BatInspector to citizen-sci… |
+| 2026-10-15 21:39:41 | [Tungsten.Runtime](https://www.nuget.org/packages/Tungsten.Runtime) | 0.1.2 | Prince Boachie | The runtime of the C# SDKs generated by tungsten: pre-flight validation, auth,… |
+| 2026-10-15 21:43:28 | [2dog.maui](https://www.nuget.org/packages/2dog.maui) | 4.7.2.122 | Moritz Voss | Embed Godot in .NET MAUI on Windows and Android with GPU presentation and MAUI… |
+| 2026-10-15 21:53:23 | [Converger.Agent](https://www.nuget.org/packages/Converger.Agent) | 0.1.1 | Converger contributors | Converger agent SDK for .NET: a bot backend that answers the conversations of a… |
+| 2026-10-15 21:56:44 | [LapViz.Devices.Protocol](https://www.nuget.org/packages/LapViz.Devices.Protocol) | 1.0.0 | Pierre Mengal | Decoders and encoders of the LapViz timing devices: Bluetooth broadcast frames,… |
+| 2026-10-15 21:56:46 | [DataverseSecurityToolkit](https://www.nuget.org/packages/DataverseSecurityToolkit) | 1.0.0 | abdelkayoumd | One place for Dataverse / Dynamics 365 security administration. Explore who has… |
+| 2026-10-15 21:58:57 | [Aviationexam.GeneratedJsonConverters.Abstractions.NetStandard](https://www.nuget.org/packages/Aviationexam.GeneratedJsonConverters.Abstractions.NetStandard) | 0.7.1 | Aviationexam.GeneratedJsonCon… | Package Description |
+| 2026-10-15 21:59:34 | [Aviationexam.GeneratedJsonConverters.Abstractions](https://www.nuget.org/packages/Aviationexam.GeneratedJsonConverters.Abstractions) | 0.7.1 | Aviationexam.GeneratedJsonCon… | Package Description |
+| 2026-10-15 22:00:03 | [Ternwire](https://www.nuget.org/packages/Ternwire) | 0.1.0 | Ternwire | C# client for the Ternwire transactional email API |
+| 2026-10-15 22:03:00 | [PELock.LuaVirtualizer](https://www.nuget.org/packages/PELock.LuaVirtualizer) | 1.0.0 | Bartosz Wójcik | Lua Virtualizer Web API client for .NET — obfuscate and protect Lua .lua source… |
+| 2026-10-15 22:13:26 | [MasterX.Builder](https://www.nuget.org/packages/MasterX.Builder) | 3.0.3 | master-X (Marco Sena) | Integrated part of master-X.NetCore |
+| 2026-10-15 22:13:29 | [MasterX.Common](https://www.nuget.org/packages/MasterX.Common) | 3.0.3 | master-X (Marco Sena) | Integrated part of master-X.NetCore |
+| 2026-10-15 22:13:37 | [MasterX.Hosting](https://www.nuget.org/packages/MasterX.Hosting) | 3.0.3 | master-X (Marco Sena) | Integrated part of master-X.NetCore |
 
 ## Data source
 
