@@ -1,0 +1,58 @@
+created_at,package,version,authors,description
+2026-10-15T04:22:35.453Z,Flowery.Integrations.WinUI,1.2.0,tobitege,"External user management integrations for FlowKanban (Teams, Slack, GitHub, OAuth)."
+2026-10-15T04:22:36.533Z,Flowery.WinUI,1.2.0,tobitege,Themed native WinUI 3 controls for Windows.
+2026-10-15T04:22:37.56Z,Flowery.WinUI.Kanban,1.2.0,tobitege,Native WinUI 3 Kanban controls for Flowery.
+2026-10-15T04:22:38.567Z,Flowery.WinUI.Win2D,1.2.0,tobitege,Native Win2D effects for Flowery WinUI 3 controls.
+2026-10-15T04:25:13.267Z,Ahwoo.BRUTAL.Concurrency,2026.10.1,Ahwoo Limited,A job scheduling and execution framework for managing parallel work.
+2026-10-15T04:25:13.697Z,CrowRx.Trigger,1.0.0,newhory,A Trigger utility library for CrowRx. This package is intended for use with Unity3D 6.0 or newer only.
+2026-10-15T04:25:31.57Z,Ahwoo.BRUTAL.Box2D,2026.10.1,Ahwoo Limited,"Modern C# bindings for the Box2D API, enabling 2D physics."
+2026-10-15T04:25:41.52Z,Ahwoo.BRUTAL.Collections,2026.10.1,Ahwoo Limited,Useful collection types for applications built with BRUTAL.
+2026-10-15T04:26:26.32Z,Ahwoo.BRUTAL.Interop,2026.10.1,Ahwoo Limited,"Core interop primitives for Brutal: P/Invoke helpers, native pointer types, and FFI utilities."
+2026-10-15T04:26:39.833Z,Ahwoo.BRUTAL.ImPlot,2026.10.2,Ahwoo Limited,"Modern C# bindings for the ImPlot API, a graph plotting extension for Dear ImGui."
+2026-10-15T04:26:52.92Z,Ahwoo.BRUTAL.ImGui.FreeType,2026.10.2,Ahwoo Limited,Modern C# bindings for the Dear ImGui FreeType font rasterizer.
+2026-10-15T04:27:17.36Z,Ahwoo.BRUTAL.ImGui.Extensions,2026.10.2,Ahwoo Limited,Extensions and helper utilities for working with Dear ImGui.
+2026-10-15T04:27:27.043Z,Ahwoo.BRUTAL.ImGui.Backends,2026.10.2,Ahwoo Limited,Off-the-shelf platform and renderer backends for Dear ImGui.
+2026-10-15T04:27:36.83Z,Ahwoo.BRUTAL.ImGui.Abstractions,2026.10.2,Ahwoo Limited,Additional abstractions and shared interfaces for Dear ImGui.
+2026-10-15T04:27:56.587Z,Ahwoo.BRUTAL.ImGui,2026.10.2,Ahwoo Limited,"Modern C# bindings for the Dear ImGui API, an immediate mode GUI library."
+2026-10-15T04:28:05.723Z,Ahwoo.BRUTAL.Gltf,2026.10.2,Ahwoo Limited,Modern C# support for loading and working with glTF assets.
+2026-10-15T04:28:15.81Z,Ahwoo.BRUTAL.Gli,2026.10.1,Ahwoo Limited,"Modern C# bindings for the GLI API, a texture library."
+2026-10-15T04:28:26.75Z,Ahwoo.BRUTAL.Glfw,2026.10.4,Ahwoo Limited,"Modern C# bindings for the GLFW API, enabling cross-platform window creation and input handling."
+2026-10-15T04:28:40.377Z,Ahwoo.BRUTAL.FreeType,2026.10.1,Ahwoo Limited,Native FreeType and libpng binaries for use with Brutal packages.
+2026-10-15T04:28:51.53Z,Ahwoo.BRUTAL.Fmod,2026.10.3,Ahwoo Limited,"Modern C# bindings for the FMOD API, an audio library."
+2026-10-15T04:29:16.16Z,Ahwoo.BRUTAL.RenderDoc.ImGui,2026.10.2,Ahwoo Limited,"Additional GUI widgets for the Brutal.RenderDoc package, implemented with Dear ImGui."
+2026-10-15T04:29:26Z,Ahwoo.BRUTAL.RenderDoc,2026.10.2,Ahwoo Limited,"Modern C# bindings for the RenderDoc API, a graphics-profiling tool."
+2026-10-15T04:29:41.27Z,Ahwoo.BRUTAL.Render.Mesh,2026.10.1,Ahwoo Limited,Utilities for rendering meshes with BRUTAL.
+2026-10-15T04:29:50.33Z,Ahwoo.BRUTAL.Render.Debug,2026.10.1,Ahwoo Limited,Utiltities for rendering gizmos and other debug primitives with BRUTAL.
+2026-10-15T04:29:58.587Z,Ahwoo.BRUTAL.Render.Common,2026.10.1,Ahwoo Limited,Common libraries for the Brutal.Render packages.
+2026-10-15T04:30:10.597Z,Ahwoo.BRUTAL.RakNet,2026.10.2,Ahwoo Limited,"Modern C# bindings for the RakNet API, a low-level networking library."
+2026-10-15T04:30:19.047Z,Ahwoo.BRUTAL.OpenGl,2026.10.1,Ahwoo Limited,"Modern C# bindings for the OpenGL API, a low-level rendering library."
+2026-10-15T04:30:33.49Z,Ahwoo.BRUTAL.OpenAl,2026.10.2,Ahwoo Limited,"Modern C# bindings for OpenAL (OpenAL Soft), for cross-platform 3D and streamed audio."
+2026-10-15T04:30:42.61Z,Ahwoo.BRUTAL.Numerics,2026.10.1,Ahwoo Limited,Core numeric types for applications built with BRUTAL.
+2026-10-15T04:31:00.96Z,Ahwoo.BRUTAL.NotCurses,2026.10.0,Ahwoo Limited,Package Description
+2026-10-15T04:31:11.407Z,Ahwoo.BRUTAL.NativeFileDialog,2026.10.2,Ahwoo Limited,"Modern C# bindings for the Native File Dialog API, enabling applications to browse and select files using the OS file system."
+2026-10-15T04:31:24.413Z,Ahwoo.BRUTAL.Monitor.Host,2026.10.2,Ahwoo Limited,"Provides the monitoring host-process responsible for observing applications, collecting crash dumps, and writing diagnostic logs."
+2026-10-15T04:31:56.993Z,Ahwoo.BRUTAL.Monitor.Common,2026.10.2,Ahwoo Limited,Shared types and utilities used by the Brutal.Monitor and Brutal.Monitor.Host packages.
+2026-10-15T04:32:07.627Z,Ahwoo.BRUTAL.MeshOptimizer,2026.10.1,Ahwoo Limited,Modern C# bindings for the MeshOptimizer Library.
+2026-10-15T04:32:16.13Z,Ahwoo.BRUTAL.Memory,2026.10.1,Ahwoo Limited,Memory management utilities for applications built with BRUTAL.
+2026-10-15T04:32:26.427Z,Ahwoo.BRUTAL.Maths,2026.10.1,Ahwoo Limited,"Mathematics library for the BRUTAL framework, built on the Brutal.Numerics types."
+2026-10-15T04:32:36.653Z,Ahwoo.BRUTAL.Logging,2026.10.2,Ahwoo Limited,Logging utilities and abstractions for applications built with BRUTAL.
+2026-10-15T04:32:47.833Z,Ahwoo.BRUTAL.Localization,2026.10.2,Ahwoo Limited,Localization support for applications built with BRUTAL.
+2026-10-15T04:33:00.593Z,Ahwoo.BRUTAL.Ktx,2026.10.1,Ahwoo Limited,"Modern C# bindings for the Khronos KTX-Software library, also known as the KTX texture format."
+2026-10-15T04:33:18.157Z,Ahwoo.BRUTAL.Jolt,2026.10.2,Ahwoo Limited,Modern C# bindings for the Jolt Physics library.
+2026-10-15T04:33:31.653Z,Ahwoo.BRUTAL.Sdl.Ttf,2026.10.2,Ahwoo Limited,"Modern C# bindings for SDL_ttf, SDL3's TrueType font rendering library."
+2026-10-15T04:33:41.21Z,Ahwoo.BRUTAL.Sdl.Mixer,2026.10.2,Ahwoo Limited,"Modern C# bindings for SDL_mixer, SDL3's audio mixing library."
+2026-10-15T04:33:52.133Z,Ahwoo.BRUTAL.Sdl.Image,2026.10.2,Ahwoo Limited,"Modern C# bindings for SDL_image, SDL3's image loading library."
+2026-10-15T04:34:08.987Z,Ahwoo.BRUTAL.Sdl,2026.10.2,Ahwoo Limited,"Modern C# bindings for SDL3, enabling cross-platform windowing, input, and multimedia."
+2026-10-15T04:34:41.937Z,Ahwoo.BRUTAL.ShaderC,2026.10.2,Ahwoo Limited,"Modern C# bindings for the shaderc API, a shader-compiling library."
+2026-10-15T04:34:52.773Z,Ahwoo.BRUTAL.ZLib,2026.10.1,Ahwoo Limited,ZLib native library for use with Brutal packages.
+2026-10-15T04:35:02.05Z,Ahwoo.BRUTAL.Vulkan.Vma,2026.10.2,Ahwoo Limited,"Modern C# bindings for the Vulkan Memory Allocator (VMA), a memory management library for Vulkan."
+2026-10-15T04:35:10.137Z,Ahwoo.BRUTAL.Vulkan.Abstractions,2026.10.2,Ahwoo Limited,Additional abstractions for working with Brutal.Vulkan.
+2026-10-15T04:35:19.927Z,Ahwoo.BRUTAL.Vulkan,2026.10.2,Ahwoo Limited,"Modern C# bindings for the Vulkan API, a low-level rendering library."
+2026-10-15T04:35:27.213Z,Ahwoo.BRUTAL.Texture.Abstractions,2026.10.2,Ahwoo Limited,Additional abstractions for working with Brutal.Texture.
+2026-10-15T04:35:36.913Z,Ahwoo.BRUTAL.Texture,2026.10.2,Ahwoo Limited,General utilities and implementations for working with texture resources.
+2026-10-15T04:35:59.87Z,Ahwoo.BRUTAL.Stb,2026.10.2,Ahwoo Limited,"Modern C# bindings for the STB library, a collection of single-file headers commonly used for image loading and processing."
+2026-10-15T04:36:48.357Z,Ahwoo.BRUTAL.Slang,2026.10.1,Ahwoo Limited,"Modern C# bindings for the Slang API, a shader-compiling library."
+2026-10-15T04:54:45.37Z,Prayag.TrialLogger.Demo20261014,1.0.0,Trial Package Author,A simple logger created to practise NuGet package creation and publishing.
+2026-10-15T05:08:34.91Z,MFT.BuildingBlocks.Infrastructure.Persistence.EFCore,0.1.10-alpha,Mehdi Farokh Tabar,"Reusable Clean Architecture / DDD building blocks for .NET, including infrastructure persistence support for Entity Framework Core."
+2026-10-15T05:09:21.207Z,CompanyHQ.ServiceCatalog.Contracts,3.1.1,CompanyHQ,Package Description
+2026-10-15T05:09:38.477Z,CompanyHQ.ServiceCatalog,3.1.1,CompanyHQ,Package Description
