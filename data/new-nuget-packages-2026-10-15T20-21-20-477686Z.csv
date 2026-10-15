@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-15T19:41:56.937Z,DotCourier.Outbox.EntityFrameworkCore,0.8.0,Valossa515,"Transactional outbox for DotCourier on EF Core: notifications are stored in the same transaction as your data and delivered afterwards, at least once, by a background processor."
+2026-10-15T19:47:39.287Z,Cackle.FedEx.Tracking,2.1.1,Will Branch,"Client for the FedEx Basic Integrated Visibility (formerly Track API) REST API: OAuth token caching, typed requests and responses, and dependency injection support."
+2026-10-15T20:02:32.937Z,Respire.Resilience,0.9.0,Tom Hurst,Run Respire operations through Polly v8 resilience pipelines with one command retry owner.
+2026-10-15T20:02:35.333Z,Respire.Streaming.Dashboard,0.9.0,Tom Hurst,Authorized ASP.NET Core operator dashboard for Redis streams and reliable job queues.
+2026-10-15T20:07:30.73Z,DotCourier.Kafka,0.8.0,Valossa515,"Delivers DotCourier's transactional outbox to Kafka: the stored events are published to topics (acks=all, idempotent producer) instead of the in-process handlers, so other services can consume them."
