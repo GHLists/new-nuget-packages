@@ -12,21 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 01:22 UTC
+## Latest list — 2026-10-15 02:19 UTC
 
-New packages created between 2026-10-15 00:19 UTC and 2026-10-15 01:22 UTC.
+New packages created between 2026-10-15 01:22 UTC and 2026-10-15 02:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T01-22-36-327924Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T02-19-57-566052Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 00:30:35 | [Spek.NET](https://www.nuget.org/packages/Spek.NET) | 0.1.0 | Derek Yang | Spek's spectrogram analysis for .NET. Decodes audio with ffmpeg and turns it in… |
-| 2026-10-15 00:30:36 | [Spek.NET.WinUI](https://www.nuget.org/packages/Spek.NET.WinUI) | 0.1.0 | Derek Yang | A WinUI 3 control that draws Spek's spectrogram of an audio file with Win2D as… |
-| 2026-10-15 00:35:57 | [OdinsHand.Templates](https://www.nuget.org/packages/OdinsHand.Templates) | 0.3.1 | n8daniels | dotnet new template that adds an Odin's Hand in-game test harness plugin to a V… |
-| 2026-10-15 00:36:00 | [OdinsHand](https://www.nuget.org/packages/OdinsHand) | 0.3.1 | n8daniels | An in-game test harness for Valheim (BepInEx 5) mods. Launches the real game, l… |
-| 2026-10-15 00:50:05 | [Gori.Common.Roslyn](https://www.nuget.org/packages/Gori.Common.Roslyn) | 1.0.0 | Gori.Common.Roslyn | Package Description |
-| 2026-10-15 00:50:25 | [Gori.Common.Roslyn.Test](https://www.nuget.org/packages/Gori.Common.Roslyn.Test) | 1.0.0 | Gori.Common.Roslyn.Test | Package Description |
-| 2026-10-15 01:12:35 | [Webority.Analyzers](https://www.nuget.org/packages/Webority.Analyzers) | 0.2.0 | Webority Technologies | The fleet's banned-API rules at build time: one list of banned types, members a… |
+| 2026-10-15 01:30:30 | [Net4x.DatabaseEditor](https://www.nuget.org/packages/Net4x.DatabaseEditor) | 1.0.0.26285 | DatabaseEditor | Package Description |
+| 2026-10-15 01:31:34 | [Net4x.TrayBrowserLib](https://www.nuget.org/packages/Net4x.TrayBrowserLib) | 1.0.0.26285 | TrayBrowserLib | Package Description |
+| 2026-10-15 01:31:36 | [Net4x.WcfLibrary](https://www.nuget.org/packages/Net4x.WcfLibrary) | 1.0.0.26284 | WcfLibrary | Package Description |
+| 2026-10-15 01:31:44 | [Net4x.WrapperGeneratorLibrary](https://www.nuget.org/packages/Net4x.WrapperGeneratorLibrary) | 1.2.0.26286 | WrapperGeneratorLibrary | Package Description |
+| 2026-10-15 01:38:50 | [CSEPDI.SmartRoadPython](https://www.nuget.org/packages/CSEPDI.SmartRoadPython) | 1.0.26.1014 | CSEPDI | 智能道路设计算法（Cython 编译 .pyd 产物 + Python 运行期依赖，源码不外泄） |
+| 2026-10-15 01:38:59 | [WeDonekRpc.EmitMapper](https://www.nuget.org/packages/WeDonekRpc.EmitMapper) | 1.0.0 | WeDonekRpc.EmitMapper | Package Description |
+| 2026-10-15 01:45:09 | [Iyu.MainServer.OpenIdConnect](https://www.nuget.org/packages/Iyu.MainServer.OpenIdConnect) | 0.39.0 | iyulab | iyu-framework-v5: OData + GraphQL runtime framework for .NET 10. |
 
 ## Data source
 
