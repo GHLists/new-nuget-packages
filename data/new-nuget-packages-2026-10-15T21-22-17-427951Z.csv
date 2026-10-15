@@ -1,0 +1,25 @@
+created_at,package,version,authors,description
+2026-10-15T20:22:28.987Z,RuleLoom,0.5.0,Stefan Totev,"RuleLoom: an event-driven business rule engine for .NET. Rules are written as JSON (or built in code) and run against .NET objects or JSON state, with built-in operators, actions, scheduling calculation and validation."
+2026-10-15T20:22:29.71Z,RuleLoom.Extensions.DependencyInjection,0.5.0,Stefan Totev,"Microsoft.Extensions.DependencyInjection integration for RuleLoom: services.AddRuleLoom(...) registers the engine, operators, actions and validator."
+2026-10-15T20:22:30.517Z,RuleLoom.Abstractions,0.5.0,Stefan Totev,"Contracts and models for RuleLoom: rule definitions, conditions, actions, results, the JSON rule parser and value comparison. No dependencies outside the .NET base library."
+2026-10-15T20:30:12.037Z,AffluentAssertions,7.2.0,"Dennis Doomen,Jonas Nyrup","A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, .NET 6, as well as .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, XUnit3, MSpec and TUnit. Sup…"
+2026-10-15T20:42:43.567Z,Themis.Common,1.0.0,Rldc contributors,"Shared request, response, and typed-answer contracts for the Themis library."
+2026-10-15T20:42:45.4Z,Themis.Core,1.0.0,Rldc contributors,Decision routing and provider abstractions for applications built on Themis.
+2026-10-15T20:42:47.37Z,Themis.Inference,1.0.0,Rldc contributors,"Prepared ONNX and Laya GGUF inference, bundle validation, and model packing for Themis."
+2026-10-15T20:42:49.313Z,Themis.Inference.Ollama,1.0.0,Rldc contributors,Ollama chat and System One inference without ONNX runtime dependencies.
+2026-10-15T20:42:51.28Z,Themis,1.0.0,Rldc contributors,"Typed model decisions for .NET apps, with dependency-injection registration and a default ONNX runtime."
+2026-10-15T20:42:53.263Z,Themis.Maf,1.0.0,Rldc contributors,Expose Themis conversational inference through Microsoft.Extensions.AI and Microsoft Agent Framework.
+2026-10-15T20:42:55.227Z,Themis.Inference.WinML,1.0.0,Rldc contributors,Optional Windows ML execution-provider integration for Themis ONNX inference.
+2026-10-15T20:44:59.577Z,ITSOL.Basal.Client,0.1.0,IT SOL,"HTTP client for the native Basal API, with typed decisions and asynchronous requests."
+2026-10-15T20:45:24.42Z,Cackle.PrettyFluentMail,2.0.1,Will Branch,"Pretty HTML email from MJML and Scriban templates, composed with a Fluent API and delivered as Mail over SMTP with MailKit."
+2026-10-15T20:45:25.23Z,Cackle.PrettyFluentMail.Extensions.DependencyInjection,2.0.1,Will Branch,"Dependency injection for Cackle.PrettyFluentMail: one AddPrettyFluentMail call registers a validated, thread-safe mail sender in ASP.NET Core, worker services and any .NET generic host."
+2026-10-15T20:47:19.563Z,Pondhawk.Logging.Migration,1.0.62,Pond Hawk Technologies Inc.,Roslyn analyzer and code fixes that rewrite Fabrica.Watch logging calls to Microsoft.Extensions.Logging and the Pondhawk.Logging API. A development-only reference: nothing ships with the application.
+2026-10-15T20:47:42.66Z,Haley.Helpers.Identity,0.1.0,The Haley Project,"Reusable accounts, credentials, MFA and opaque sessions with embedded or remote access."
+2026-10-15T20:47:43.747Z,Haley.Helpers.Identity.Server,0.1.0,The Haley Project,"Reusable accounts, credentials, MFA and opaque sessions with embedded or remote access."
+2026-10-15T20:48:25.513Z,SyntaxCircus.Seo.Analysis,0.1.1,Syntax Circus LLC,Headless content preparation and focused SEO authoring analysis.
+2026-10-15T20:51:00.49Z,SteamKitSDK.Windows,0.9.1,pat2381,"Windows desktop authentication helpers for SteamKitSDK, with UI-agnostic prompts and DPAPI-protected credential persistence."
+2026-10-15T20:51:01.113Z,SteamKitSDK,0.9.1,pat2381,"Modern .NET SDK for authorized Steam application-content and Workshop downloads, Steam Guard authentication, branch queries, progress reporting, and local-file verification, powered by SteamKit2."
+2026-10-15T21:03:28.67Z,Cogito.MassTransit.DependencyInjection,3.1.0,Alethic Solutions,"Registers MassTransit consumers, sagas and activities from attributes, onto any bus."
+2026-10-15T21:03:29.533Z,Cogito.MassTransit.EntityFrameworkCore.DependencyInjection,3.1.0,Alethic Solutions,"Keeps MassTransit saga instances in Entity Framework Core, registered from an attribute on the saga."
+2026-10-15T21:09:31.83Z,PA.CacheAside.Core,1.0.0,PA.CacheAside.Core,Package Description
+2026-10-15T21:16:01.54Z,DotCourier.SourceGenerator,0.10.0,Valossa515,"Compile-time registration for DotCourier: generates the handler registrations and dispatch wrappers of your assembly, so AddCourier does not scan it with reflection at startup."
