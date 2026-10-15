@@ -1,0 +1,42 @@
+created_at,package,version,authors,description
+2026-10-15T17:23:49.023Z,Soenneker.Atomics.ValueResources,4.0.1,Jake Soenneker,"Inline, thread-safe lazy creation, replacement, and teardown of reference-type resources."
+2026-10-15T17:24:48.57Z,NuGetFunctionalTest_08fead0b24c64fb79a879a5d7e916697,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:25:39.44Z,Samplab.UrlTools,0.1.1,bbwdadfg,"Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK."
+2026-10-15T17:25:43.903Z,StudyGuideMaker.UrlTools,0.1.1,bbwdadfg,"Offline URL builder for Study Guide Maker source, audience, flashcard, and quiz pages. Not an official SDK."
+2026-10-15T17:25:45.593Z,DuplicatePushesAreRejectedAndNotDeleted.7746787924ff4b2fb67c93cabf725146,1.0.9,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:26:40.367Z,TryStencil.UrlTools,0.1.1,bbwdadfg,"Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK."
+2026-10-15T17:26:45.61Z,AiAutoCropper.UrlTools,0.1.1,bbwdadfg,Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.
+2026-10-15T17:26:58.533Z,VirtualStaging.UrlTools,0.1.1,bbwdadfg,Offline URL builder for Virtual Staging tool pages and rental-listing guides. Not an official SDK.
+2026-10-15T17:27:23.86Z,E2E.Deprecated.261015.172722.8909836,1.0.0,EndToEndTests,Description of E2E.Deprecated.261015.172722.8909836
+2026-10-15T17:27:23.887Z,E2E.LicenseFile.261015.172722.8512493,1.0.0,EndToEndTests,Description of E2E.LicenseFile.261015.172722.8512493
+2026-10-15T17:27:25.59Z,E2E.SemVer1Stable.261015.172722.4125218,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.261015.172722.4125218
+2026-10-15T17:27:26.523Z,E2E.LicenseExpression.261015.172722.8494811,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.261015.172722.8494811
+2026-10-15T17:27:26.52Z,E2E.EmbeddedIconPng.261015.172722.8849083,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.261015.172722.8849083
+2026-10-15T17:27:26.687Z,E2E.LicenseUrl.261015.172722.8532744,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.261015.172722.8532744
+2026-10-15T17:27:27.543Z,E2E.EmbeddedIconJpeg.261015.172722.8552983,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.261015.172722.8552983
+2026-10-15T17:27:27.543Z,E2E.EmbeddedReadmeFile.261015.172722.8889582,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.261015.172722.8889582
+2026-10-15T17:27:31.36Z,E2E.SymbolsPackage.261015.172722.8314850,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.261015.172722.8314850
+2026-10-15T17:27:32.343Z,E2E.DotnetTool.261015.172722.8930094,1.0.0,E2E.DotnetTool,Package Description
+2026-10-15T17:27:42.38Z,E2E.FullValidation.261015.172722.7639738,1.0.0,EndToEndTests,Description of E2E.FullValidation.261015.172722.7639738
+2026-10-15T17:28:20.71Z,NuGetFunctionalTest_71a17c7282b147f191a904c3d732c8a9,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:05.833Z,NuGetFunctionalTest_0acbcfc468c64e78a199c0c2e947c6b8,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:27.763Z,NuGetFunctionalTest_3d2483699f9d4791bb819fd41b0f87f8,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:32.54Z,ValidProtocolVersion274496b1809c4bd9a88b17cd882d1df9,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:36.29Z,InvalidScopeForVerifyac711e07ccb6436e99b6eaf1696d955e,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:38.333Z,NuGetFunctionalTest_b182feb817ea40cabac9453d0ef8a230,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:41.823Z,ValidScopeForVerify34cf4133b1194aba9195605cbd142576,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:47.607Z,NuGetFunctionalTest_644030952aa54f00a59b4e0aba11c819,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:29:48.677Z,NuGetFunctionalTest_b20b58d5238543fd831947e7c9f5a0cf,1.0.0-v639276825825…,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:30:40.81Z,Pixata.Blazor.Grid.Excel,1.0.0,Avrohom Yisroel Silver,"Excel export for the PixataGrid component in Pixata.Blazor, using ClosedXML."
+2026-10-15T17:33:14.997Z,ClientVersionTooLow9679f7109a484ab8a8d57f5559d9a40a,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:33:18.42Z,ClientVersionTooLow34f173961ad94f65ae5f6b41d37ceb2f,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:33:30.78Z,GetUpdates1199RegressionTest.fe3d3748c69e4e46a97e53e82c349428,6392761.823995.3991…,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:35:19.27Z,NuGetFunctionalTest_a2a850fce9d94e268ed0a9cf282dbfae,1.0.0-v639276827154…,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:36:03.7Z,NuGetFunctionalTest_482ae0100f924dc5a68978a847dcdd53,1.0.0-v639276827639…,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:37:12.26Z,SjolystInnovation.AppKit.SiteSettings,0.1.0,Sjølyst Innovation AS,"Admin-managed company details and site branding for ASP.NET Core apps: settings, public company info and logo and icon uploads, with Norwegian organisation number and postal code checks."
+2026-10-15T17:43:02.05Z,Lemmabase.Lemma.Engine,0.10.1,Lemma,Lemma rules engine for .NET
+2026-10-15T17:45:43.787Z,Docustay.Api,0.1.0,Docustay,Official Docustay API client: send documents for signature and follow them from your own software. https://docustay.app/docs
+2026-10-15T17:46:27.193Z,73c777c040234a6591971267fc9767f7PackageWithDotCsNames.Cs,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-10-15T17:47:05.117Z,Medina_ReportGenerato,1.1.2,Lucas Medina Dev,Biblioteca de geração de relatórios.
+2026-10-15T17:47:25.257Z,PA.CacheAside,1.0.0,PA.CacheAside,Package Description
+2026-10-15T18:04:41.567Z,Concord.Host.Adapter,0.26.0,Concord.Host.Adapter,"Optional body-replacement backend for Concord, for hosts running the WaylithCLR fork of CoreCLR. A host side-loads it and keeps Concord's native detour backend when the fork is absent."
