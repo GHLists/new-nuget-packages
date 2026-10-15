@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-15T00:30:35.833Z,Spek.NET,0.1.0,Derek Yang,"Spek's spectrogram analysis for .NET. Decodes audio with ffmpeg and turns it into columns of dB values, one per pixel, with Spek's palettes, window functions and rulers."
+2026-10-15T00:30:36.557Z,Spek.NET.WinUI,0.1.0,Derek Yang,"A WinUI 3 control that draws Spek's spectrogram of an audio file with Win2D as it decodes, and saves it as a PNG."
+2026-10-15T00:35:57.943Z,OdinsHand.Templates,0.3.1,n8daniels,dotnet new template that adds an Odin's Hand in-game test harness plugin to a Valheim (BepInEx) mod.
+2026-10-15T00:36:00.913Z,OdinsHand,0.3.1,n8daniels,"An in-game test harness for Valheim (BepInEx 5) mods. Launches the real game, loads a disposable character and world, runs your test cases against live game objects, takes screenshots and prints a pass/fail report."
+2026-10-15T00:50:05.923Z,Gori.Common.Roslyn,1.0.0,Gori.Common.Roslyn,Package Description
+2026-10-15T00:50:25.21Z,Gori.Common.Roslyn.Test,1.0.0,Gori.Common.Roslyn.Test,Package Description
+2026-10-15T01:12:35.477Z,Webority.Analyzers,0.2.0,Webority Technologies,"The fleet's banned-API rules at build time: one list of banned types, members and namespaces, each with the rule it breaks, enforced by the banned API analyzer in every project that references the package, plus a file-precise, shrink-only baseline (.webority/banned-api-baseline.txt) for the hits a…"
