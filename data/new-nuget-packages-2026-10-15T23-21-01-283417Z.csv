@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-15T22:23:45.353Z,ReportHub.Client,0.1.0,David Santos,"Cliente oficial da API do Report Hub: gera PDF, CSV e Excel a partir de templates, com retry automático e jobs transparentes para relatórios grandes."
+2026-10-15T22:33:27.46Z,DynamicDisorder.CliUtils,0.1.0,dynamic-disorder,"Shared console output utilities for CLI applications: colored output helpers, Spectre.Console wrappers, and an in-memory logger."
+2026-10-15T22:58:55.78Z,PulseTrade.Comm.Spa.Host.ProcControl.Client,0.1.0-alpha3,PulseTrade.Comm.Spa.Host.ProcControl.Client,Package Description
+2026-10-15T22:59:24.96Z,WolverineFx.Pubsub.Http,6.51.0,"Jeremy D. Miller,Babu Annamalai,Jaedyn Tonee","Receive Google Cloud Platform Pub/Sub push subscriptions through Wolverine.HTTP, for serverless Wolverine applications"
