@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-15T09:25:31.5Z,UKHO.ADDS.Clients.SalesCatalogueService,1.1.61015,UKHO.ADDS.Clients.SalesCatalogueService,ADDS Shared Clients
+2026-10-15T09:25:54.753Z,BorrowedTorch.FabricSimulator,1.0.0,Vladyslav Pysarenko,"GPU cloth solver for MonoGame: a compute shader integrates the particles, relaxes the constraints and computes the normals, and the positions never leave the GPU. Verlet integration with Jacobi relaxation, plastic bending so creases stay, long-range attachments, colliders with friction, self-collis…"
+2026-10-15T09:30:13.343Z,Webority.Email.Outbox.AzureStorage,0.55.0,Webority Technologies,"Azure Blob Storage for queued email attachments: implements IEmailOutboxAttachmentStore over Webority.Azure.Storage, so the outbox row holds a key instead of the file."
+2026-10-15T09:34:26.777Z,BorrowedTorch.RayTracing,1.0.0,Vladyslav Pysarenko,"Ray casting for MonoGame (compute fork): a binned-SAH BVH, per-mesh bottom-level and per-scene top-level acceleration structures, their GPU upload, a stackless any-hit traversal in HLSL, and the depth/normal G-buffer the traced passes start from."
+2026-10-15T09:42:55.697Z,Robentex.Fanuc.OpcUa,1.0.0,Robentex,Secure-by-default .NET 9 client library for FANUC OPC UA HMI Device Communication.
+2026-10-15T09:54:14.887Z,Claustrum,0.1.0,Dario Orlovich,"Harness-neutral coding-agent delegation: one binary that runs role-based agent jobs on claude, opencode, cursor or copilot, as a CLI and as an MCP server."
+2026-10-15T10:00:26.04Z,ITBees.Prestashop,8.0.2,ITBees,"PrestaShop (8.x) Webservice API client for FAS applications: orders, order states and history, tracking numbers, products, combinations, stock, categories, customers, addresses and dictionaries, with admin-editable settings (shop URL, webservice key, shop id) stored in the host database - settings…"
+2026-10-15T10:00:58.52Z,AgentRouter,1.0.0-preview-0001,AgentRouter.Cli,Agent Router: model gateway and local control plane for coding agents.
+2026-10-15T10:02:13.02Z,MAFUtils.SqlServer,0.4.0,Dean Chalk,Session-scoped SQL Server metadata catalogs and dependency graph tools for Microsoft Agent Framework and .NET applications.
+2026-10-15T10:04:29.5Z,Aiursoft.AgentKit.Evaluator,10.0.0,Aiursoft,"Deterministic assertion, evidence, JSON matching, and scoring primitives for agent evaluation."
+2026-10-15T10:04:31.5Z,Aiursoft.AgentKit.AgentRunner,10.0.0,Aiursoft,Provider-neutral AgentKit runtime entry points and ordered approval execution.
+2026-10-15T10:04:33.47Z,Aiursoft.AgentKit.Mcp,10.0.0,Aiursoft,Official MCP SDK adapters for Aiursoft.AgentKit.
+2026-10-15T10:04:35.497Z,Aiursoft.AgentKit,10.0.0,Aiursoft,"Provider-neutral contracts, messages, cloning, and transcript validation for agent applications."
+2026-10-15T10:07:24.7Z,com.IvanMurzak.Rql,0.1.0,Ivan Murzak,"RQL: a compact pipeline language for AI agents to query and safely change live .NET object graphs (game worlds, application state) — sources, filters, projections, set / call mutations, type adapters. Contains Rql.Execution, Rql.Parser and Rql.Contracts."

@@ -12,23 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 09:22 UTC
+## Latest list — 2026-10-15 10:20 UTC
 
-New packages created between 2026-10-15 08:19 UTC and 2026-10-15 09:22 UTC.
+New packages created between 2026-10-15 09:22 UTC and 2026-10-15 10:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T09-22-04-679039Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T10-20-41-12423Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 08:20:02 | [Esatto.Umbraco.Backoffice.BlockPreview](https://www.nuget.org/packages/Esatto.Umbraco.Backoffice.BlockPreview) | 1.0.1 | Carl Schéle | Live frontend previews for Umbraco 17/18 Block List blocks in the backoffice: e… |
-| 2026-10-15 08:25:50 | [Dynamicweb.ServiceApi](https://www.nuget.org/packages/Dynamicweb.ServiceApi) | 10.25.1-BETA001 | Dynamicweb Software A/S | RESTful Service API for Dynamicweb 10 administration: CRUD endpoints for produc… |
-| 2026-10-15 08:34:56 | [PulseSharp.Sync.Server](https://www.nuget.org/packages/PulseSharp.Sync.Server) | 0.5.0-alpha | Waqas Ahmad | The server side of PulseSharp sync: an ASP.NET Core endpoint that receives even… |
-| 2026-10-15 08:34:58 | [PulseSharp.Sync](https://www.nuget.org/packages/PulseSharp.Sync) | 0.5.0-alpha | Waqas Ahmad | Device to cloud sync for PulseSharp: the device keeps working offline and sends… |
-| 2026-10-15 08:36:06 | [HeroKit](https://www.nuget.org/packages/HeroKit) | 1.0.0 | Emre Akdemir | Extension methods for everyday .NET types: validation, conversion and manipulat… |
-| 2026-10-15 09:00:46 | [Blueprint.Hangfire](https://www.nuget.org/packages/Blueprint.Hangfire) | 1.0.8 | Symprex | Hangfire integration for Blueprint background and recurring tasks. |
-| 2026-10-15 09:01:16 | [Blueprint.HttpClient](https://www.nuget.org/packages/Blueprint.HttpClient) | 1.0.8 | Symprex | A typed HTTP client for calling Blueprint APIs using their operation types. |
-| 2026-10-15 09:01:45 | [Parlem.Crm.Drivers](https://www.nuget.org/packages/Parlem.Crm.Drivers) | 10.0.1 | Parlem.Crm.Drivers | Package Description |
-| 2026-10-15 09:02:47 | [Blueprint.Marten](https://www.nuget.org/packages/Blueprint.Marten) | 1.0.8 | Symprex | Marten integration for Blueprint: a unit of work for generated pipelines and do… |
+| 2026-10-15 09:25:31 | [UKHO.ADDS.Clients.SalesCatalogueService](https://www.nuget.org/packages/UKHO.ADDS.Clients.SalesCatalogueService) | 1.1.61015 | UKHO.ADDS.Clients.SalesCatalo… | ADDS Shared Clients |
+| 2026-10-15 09:25:54 | [BorrowedTorch.FabricSimulator](https://www.nuget.org/packages/BorrowedTorch.FabricSimulator) | 1.0.0 | Vladyslav Pysarenko | GPU cloth solver for MonoGame: a compute shader integrates the particles, relax… |
+| 2026-10-15 09:30:13 | [Webority.Email.Outbox.AzureStorage](https://www.nuget.org/packages/Webority.Email.Outbox.AzureStorage) | 0.55.0 | Webority Technologies | Azure Blob Storage for queued email attachments: implements IEmailOutboxAttachm… |
+| 2026-10-15 09:34:26 | [BorrowedTorch.RayTracing](https://www.nuget.org/packages/BorrowedTorch.RayTracing) | 1.0.0 | Vladyslav Pysarenko | Ray casting for MonoGame (compute fork): a binned-SAH BVH, per-mesh bottom-leve… |
+| 2026-10-15 09:42:55 | [Robentex.Fanuc.OpcUa](https://www.nuget.org/packages/Robentex.Fanuc.OpcUa) | 1.0.0 | Robentex | Secure-by-default .NET 9 client library for FANUC OPC UA HMI Device Communicati… |
+| 2026-10-15 09:54:14 | [Claustrum](https://www.nuget.org/packages/Claustrum) | 0.1.0 | Dario Orlovich | Harness-neutral coding-agent delegation: one binary that runs role-based agent… |
+| 2026-10-15 10:00:26 | [ITBees.Prestashop](https://www.nuget.org/packages/ITBees.Prestashop) | 8.0.2 | ITBees | PrestaShop (8.x) Webservice API client for FAS applications: orders, order stat… |
+| 2026-10-15 10:00:58 | [AgentRouter](https://www.nuget.org/packages/AgentRouter) | 1.0.0-preview-0001 | AgentRouter.Cli | Agent Router: model gateway and local control plane for coding agents. |
+| 2026-10-15 10:02:13 | [MAFUtils.SqlServer](https://www.nuget.org/packages/MAFUtils.SqlServer) | 0.4.0 | Dean Chalk | Session-scoped SQL Server metadata catalogs and dependency graph tools for Micr… |
+| 2026-10-15 10:04:29 | [Aiursoft.AgentKit.Evaluator](https://www.nuget.org/packages/Aiursoft.AgentKit.Evaluator) | 10.0.0 | Aiursoft | Deterministic assertion, evidence, JSON matching, and scoring primitives for ag… |
+| 2026-10-15 10:04:31 | [Aiursoft.AgentKit.AgentRunner](https://www.nuget.org/packages/Aiursoft.AgentKit.AgentRunner) | 10.0.0 | Aiursoft | Provider-neutral AgentKit runtime entry points and ordered approval execution. |
+| 2026-10-15 10:04:33 | [Aiursoft.AgentKit.Mcp](https://www.nuget.org/packages/Aiursoft.AgentKit.Mcp) | 10.0.0 | Aiursoft | Official MCP SDK adapters for Aiursoft.AgentKit. |
+| 2026-10-15 10:04:35 | [Aiursoft.AgentKit](https://www.nuget.org/packages/Aiursoft.AgentKit) | 10.0.0 | Aiursoft | Provider-neutral contracts, messages, cloning, and transcript validation for ag… |
+| 2026-10-15 10:07:24 | [com.IvanMurzak.Rql](https://www.nuget.org/packages/com.IvanMurzak.Rql) | 0.1.0 | Ivan Murzak | RQL: a compact pipeline language for AI agents to query and safely change live… |
 
 ## Data source
 
