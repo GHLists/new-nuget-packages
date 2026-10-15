@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-15T08:20:02.983Z,Esatto.Umbraco.Backoffice.BlockPreview,1.0.1,Carl Schéle,"Live frontend previews for Umbraco 17/18 Block List blocks in the backoffice: each block shows its real Razor partial, rendered with the site's own CSS and JavaScript in a sandboxed, auto-sized iframe that updates as the editor types. Also ships configurable video and code preview elements."
+2026-10-15T08:25:50.767Z,Dynamicweb.ServiceApi,10.25.1-BETA001,Dynamicweb Software A/S,"RESTful Service API for Dynamicweb 10 administration: CRUD endpoints for products, variants, stock, prices, orders, shops, users and more under /admin/serviceapi, with OpenAPI documentation. Installs as an add-in; API updates hot-reload without an application recycle. Requires Dynamicweb 10.25.7 or…"
+2026-10-15T08:34:56.877Z,PulseSharp.Sync.Server,0.5.0-alpha,Waqas Ahmad,The server side of PulseSharp sync: an ASP.NET Core endpoint that receives events from devices and sends them the server's events.
+2026-10-15T08:34:58.46Z,PulseSharp.Sync,0.5.0-alpha,Waqas Ahmad,"Device to cloud sync for PulseSharp: the device keeps working offline and sends its events to the server, and receives the server's events, when it is online. No dependencies beyond PulseSharp."
+2026-10-15T08:36:06.253Z,HeroKit,1.0.0,Emre Akdemir,"Extension methods for everyday .NET types: validation, conversion and manipulation helpers for arrays, booleans, strings, dates, enums, GUIDs, objects, types and more."
+2026-10-15T09:00:46.943Z,Blueprint.Hangfire,1.0.8,Symprex,Hangfire integration for Blueprint background and recurring tasks.
+2026-10-15T09:01:16.05Z,Blueprint.HttpClient,1.0.8,Symprex,A typed HTTP client for calling Blueprint APIs using their operation types.
+2026-10-15T09:01:45.22Z,Parlem.Crm.Drivers,10.0.1,Parlem.Crm.Drivers,Package Description
+2026-10-15T09:02:47.78Z,Blueprint.Marten,1.0.8,Symprex,Marten integration for Blueprint: a unit of work for generated pipelines and domain-event dispatch from Marten sessions.
