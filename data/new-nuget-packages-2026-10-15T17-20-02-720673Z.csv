@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-15T16:26:08.45Z,hostfix,1.0.2,Puviraj,"Fast, project-aware developer machine diagnostics, PATH sanitizer, and environment repair CLI."
+2026-10-15T16:31:55.543Z,Maanfee.WebSocket,1.0.0,Maanfee Team (MF),A comprehensive WebSocket library for .NET providing both client and server implementations with support for multiple application types.
+2026-10-15T16:40:59.31Z,NetCoreApiKit,3.4.0,NetCore_API_Structure,"Asistente paso a paso para crear APIs ASP.NET Core con el kit NetCore_API_Structure: Controllers, EF Core (Repository + Unit of Work), Identity local + JWT opcional, SQL Server o PostgreSQL, guía para IA incluida."
+2026-10-15T16:41:45.14Z,bpool,0.1.0,CarbonNeuron,"A colorful live terminal monitor for OpenZFS pool, disk, ARC, and L2ARC statistics."
+2026-10-15T16:42:22.947Z,Qyl.Orchestration,13.1.0,ancplua,Compose and supervise local .NET services and executables with qyl's process orchestrator.
+2026-10-15T17:06:32.917Z,E2e4.Chess.Fics.Client,1.0.0,th3snark,"Cross-platform client library for the Free Internet Chess Server (FICS): framing, typed message parsing, style-12 boards and an optional pluggable timeseal codec. Unofficial; not affiliated with FICS."
+2026-10-15T17:10:36.853Z,Linq2GraphQL.Client.AI,1.0.60-prerelease,"Joakim Dangården,Magnus Ahlberg","Agent mode for Linq2GraphQL: expose a scoped, validated GraphQL schema to AI agents"
