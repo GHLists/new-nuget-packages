@@ -12,28 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 10:20 UTC
+## Latest list — 2026-10-15 11:20 UTC
 
-New packages created between 2026-10-15 09:22 UTC and 2026-10-15 10:20 UTC.
+New packages created between 2026-10-15 10:20 UTC and 2026-10-15 11:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T10-20-41-12423Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T11-20-05-586938Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 09:25:31 | [UKHO.ADDS.Clients.SalesCatalogueService](https://www.nuget.org/packages/UKHO.ADDS.Clients.SalesCatalogueService) | 1.1.61015 | UKHO.ADDS.Clients.SalesCatalo… | ADDS Shared Clients |
-| 2026-10-15 09:25:54 | [BorrowedTorch.FabricSimulator](https://www.nuget.org/packages/BorrowedTorch.FabricSimulator) | 1.0.0 | Vladyslav Pysarenko | GPU cloth solver for MonoGame: a compute shader integrates the particles, relax… |
-| 2026-10-15 09:30:13 | [Webority.Email.Outbox.AzureStorage](https://www.nuget.org/packages/Webority.Email.Outbox.AzureStorage) | 0.55.0 | Webority Technologies | Azure Blob Storage for queued email attachments: implements IEmailOutboxAttachm… |
-| 2026-10-15 09:34:26 | [BorrowedTorch.RayTracing](https://www.nuget.org/packages/BorrowedTorch.RayTracing) | 1.0.0 | Vladyslav Pysarenko | Ray casting for MonoGame (compute fork): a binned-SAH BVH, per-mesh bottom-leve… |
-| 2026-10-15 09:42:55 | [Robentex.Fanuc.OpcUa](https://www.nuget.org/packages/Robentex.Fanuc.OpcUa) | 1.0.0 | Robentex | Secure-by-default .NET 9 client library for FANUC OPC UA HMI Device Communicati… |
-| 2026-10-15 09:54:14 | [Claustrum](https://www.nuget.org/packages/Claustrum) | 0.1.0 | Dario Orlovich | Harness-neutral coding-agent delegation: one binary that runs role-based agent… |
-| 2026-10-15 10:00:26 | [ITBees.Prestashop](https://www.nuget.org/packages/ITBees.Prestashop) | 8.0.2 | ITBees | PrestaShop (8.x) Webservice API client for FAS applications: orders, order stat… |
-| 2026-10-15 10:00:58 | [AgentRouter](https://www.nuget.org/packages/AgentRouter) | 1.0.0-preview-0001 | AgentRouter.Cli | Agent Router: model gateway and local control plane for coding agents. |
-| 2026-10-15 10:02:13 | [MAFUtils.SqlServer](https://www.nuget.org/packages/MAFUtils.SqlServer) | 0.4.0 | Dean Chalk | Session-scoped SQL Server metadata catalogs and dependency graph tools for Micr… |
-| 2026-10-15 10:04:29 | [Aiursoft.AgentKit.Evaluator](https://www.nuget.org/packages/Aiursoft.AgentKit.Evaluator) | 10.0.0 | Aiursoft | Deterministic assertion, evidence, JSON matching, and scoring primitives for ag… |
-| 2026-10-15 10:04:31 | [Aiursoft.AgentKit.AgentRunner](https://www.nuget.org/packages/Aiursoft.AgentKit.AgentRunner) | 10.0.0 | Aiursoft | Provider-neutral AgentKit runtime entry points and ordered approval execution. |
-| 2026-10-15 10:04:33 | [Aiursoft.AgentKit.Mcp](https://www.nuget.org/packages/Aiursoft.AgentKit.Mcp) | 10.0.0 | Aiursoft | Official MCP SDK adapters for Aiursoft.AgentKit. |
-| 2026-10-15 10:04:35 | [Aiursoft.AgentKit](https://www.nuget.org/packages/Aiursoft.AgentKit) | 10.0.0 | Aiursoft | Provider-neutral contracts, messages, cloning, and transcript validation for ag… |
-| 2026-10-15 10:07:24 | [com.IvanMurzak.Rql](https://www.nuget.org/packages/com.IvanMurzak.Rql) | 0.1.0 | Ivan Murzak | RQL: a compact pipeline language for AI agents to query and safely change live… |
+| 2026-10-15 10:40:53 | [Arc56.Generated.joe-p.algokit-monorepo-ts](https://www.nuget.org/packages/Arc56.Generated.joe-p.algokit-monorepo-ts) | 1.0.1.2026101510 | joe-p | Generated ARC-56 Algorand smart-contract clients for joe-p/algokit-monorepo-ts. |
+| 2026-10-15 10:40:54 | [NSail.Exporting](https://www.nuget.org/packages/NSail.Exporting) | 0.1.118 | Leonardo Porro,Emmanuel Arias | NSail.Exporting, part of NSail Stack: a .NET modular-monolith framework (messag… |
+| 2026-10-15 10:40:56 | [NSail.Exporting.Excel](https://www.nuget.org/packages/NSail.Exporting.Excel) | 0.1.118 | Leonardo Porro,Emmanuel Arias | NSail.Exporting.Excel, part of NSail Stack: a .NET modular-monolith framework (… |
+| 2026-10-15 10:41:08 | [Arc56.Generated.Marshal-AM.x500-algorand](https://www.nuget.org/packages/Arc56.Generated.Marshal-AM.x500-algorand) | 1.0.1.2026101510 | Marshal-AM | Generated ARC-56 Algorand smart-contract clients for Marshal-AM/x500-algorand. |
+| 2026-10-15 10:52:17 | [AStarDev.VelopackPublishingAvalonia](https://www.nuget.org/packages/AStarDev.VelopackPublishingAvalonia) | 0.1.0 | Jason Barden | Shared Avalonia update-available dialog, view model, and notification services… |
+| 2026-10-15 10:59:47 | [Mud.HttpUtils.Redis](https://www.nuget.org/packages/Mud.HttpUtils.Redis) | 3.0.7 | Mud Studio | Mud.HttpUtils 官方分布式令牌存储（F-3）：基于 StackExchange.Redis 的 ITokenStore 实现，键前缀 mud:ht… |
+| 2026-10-15 10:59:50 | [Mud.HttpUtils.Testing](https://www.nuget.org/packages/Mud.HttpUtils.Testing) | 3.0.7 | Mud Studio | Mud HttpUtils 测试辅助包，提供 StubHttp mock 服务器、路由匹配、网络行为模拟。 |
+| 2026-10-15 11:04:33 | [SMSGate](https://www.nuget.org/packages/SMSGate) | 1.0.0 | Armen Kirakosyan | A lightweight SMPP 3.4 client and server library for .NET. Send and receive SMS… |
 
 ## Data source
 
