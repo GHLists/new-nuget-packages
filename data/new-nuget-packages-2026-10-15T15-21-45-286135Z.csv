@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-15T14:22:54.873Z,Czechia.Cli,0.1.0,rkotulan,Neoficiální CLI pro správu DNS přes REST API CZECHIA.
+2026-10-15T14:23:16.11Z,MVUish.Avalonia,1.0.0,MVUish.Avalonia,Package Description
+2026-10-15T14:23:16.757Z,MVUish.Avalonia.Templates,1.0.0,Angel D. Munoz,dotnet new project templates for MVUish.Avalonia apps in F# and C#.
+2026-10-15T14:40:22.393Z,ApiGuardrails.AspNetCore,1.0.0,Tirth Shah,"ApiGuardrails for ASP.NET Core: Standardizes error contracts (RFC 7807 ProblemDetails) across endpoints (Products, Orders, Payments), propagates correlation IDs, validates endpoint conventions, and provides opt-in enforcement."
+2026-10-15T14:44:39.917Z,Bitenovac.RemoteBuildTool.Service,1.3.0,Radivoje Milutinovic,"The optional service for Bitenovac.RemoteBuildTool. It fills the shared build cache from merged pull requests, rebuilds it nightly, records every build from GitHub Actions, and compacts build telemetry into Parquet that DuckDB can query. It includes every Bitenovac.RemoteBuildTool command."
+2026-10-15T14:47:09.207Z,WitchLab.Diagnostics,1.0.1,WitchLab,"Automatic HTTP 5xx error capturing, PostgreSQL diagnostics storage, and throttled email alerting for ASP.NET Core (.NET 8 and .NET 10)."
+2026-10-15T14:55:27.35Z,YngveHestem.Quill.Abstractions,1.0.0,Yngve J. K. Hestem,This library contains DTO's and other abstractions that is used in YngveHestem.Quill.Blazor

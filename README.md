@@ -12,24 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 14:22 UTC
+## Latest list — 2026-10-15 15:21 UTC
 
-New packages created between 2026-10-15 13:23 UTC and 2026-10-15 14:22 UTC.
+New packages created between 2026-10-15 14:22 UTC and 2026-10-15 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T14-22-09-341699Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T15-21-45-286135Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 13:32:27 | [Org.Cdk8s.Plus36](https://www.nuget.org/packages/Org.Cdk8s.Plus36) | 2.0.0 | Amazon Web Services | cdk8s+ is a software development framework that provides high level abstraction… |
-| 2026-10-15 13:43:27 | [SaxonCS-HE](https://www.nuget.org/packages/SaxonCS-HE) | 13.1.0 | Saxonica Ltd. | SaxonCS-HE is a high-performance XPath, XQuery, and XSLT processor. |
-| 2026-10-15 13:49:46 | [Aml.Editor.Plugin.MtpVerification](https://www.nuget.org/packages/Aml.Editor.Plugin.MtpVerification) | 1.0.1 | Vincent Schmitt | This plugin provides tools to open MTP files and validate them against the Semo… |
-| 2026-10-15 13:53:34 | [Muslim.GenericService.Interface](https://www.nuget.org/packages/Muslim.GenericService.Interface) | 10.0.1 | mazen | Service abstraction for Muslim.GenericService: IService<TEntity> and the interf… |
-| 2026-10-15 14:01:58 | [DotCourier.Caching](https://www.nuget.org/packages/DotCourier.Caching) | 0.4.0 | Valossa515 | Query caching, idempotent commands and cache invalidation for DotCourier, on Mi… |
-| 2026-10-15 14:04:31 | [PolishOpenData.Geo.Core](https://www.nuget.org/packages/PolishOpenData.Geo.Core) | 1.4.0 | JacekSmi | Typed Polish coordinates: PL-1992 (EPSG:2180) and WGS-84 points with a built-in… |
-| 2026-10-15 14:04:32 | [PolishOpenData.Uug](https://www.nuget.org/packages/PolishOpenData.Uug) | 1.4.0 | JacekSmi | Typed .NET client for UUG (the address geocoder at services.gugik.gov.pl/uug) o… |
-| 2026-10-15 14:04:33 | [PolishOpenData.Uldk](https://www.nuget.org/packages/PolishOpenData.Uldk) | 1.4.0 | JacekSmi | Typed .NET client for ULDK (Usługa Lokalizacji Działek Katastralnych, uldk.gugi… |
-| 2026-10-15 14:04:56 | [FellowshipAnalyzer.Codex.SDK](https://www.nuget.org/packages/FellowshipAnalyzer.Codex.SDK) | 1.0.12 | Seriousnes | The documents the Fellowship data export is written as and read back through, t… |
-| 2026-10-15 14:14:16 | [MIPIDesignSystem.ext2](https://www.nuget.org/packages/MIPIDesignSystem.ext2) | 1.0.7.5 | Berezhnoi A.I. | Дизайн-система для WPF-приложений Pilot-BIM: контролы, стили, токены и встроенн… |
+| 2026-10-15 14:22:54 | [Czechia.Cli](https://www.nuget.org/packages/Czechia.Cli) | 0.1.0 | rkotulan | Neoficiální CLI pro správu DNS přes REST API CZECHIA. |
+| 2026-10-15 14:23:16 | [MVUish.Avalonia](https://www.nuget.org/packages/MVUish.Avalonia) | 1.0.0 | MVUish.Avalonia | Package Description |
+| 2026-10-15 14:23:16 | [MVUish.Avalonia.Templates](https://www.nuget.org/packages/MVUish.Avalonia.Templates) | 1.0.0 | Angel D. Munoz | dotnet new project templates for MVUish.Avalonia apps in F# and C#. |
+| 2026-10-15 14:40:22 | [ApiGuardrails.AspNetCore](https://www.nuget.org/packages/ApiGuardrails.AspNetCore) | 1.0.0 | Tirth Shah | ApiGuardrails for ASP.NET Core: Standardizes error contracts (RFC 7807 ProblemD… |
+| 2026-10-15 14:44:39 | [Bitenovac.RemoteBuildTool.Service](https://www.nuget.org/packages/Bitenovac.RemoteBuildTool.Service) | 1.3.0 | Radivoje Milutinovic | The optional service for Bitenovac.RemoteBuildTool. It fills the shared build c… |
+| 2026-10-15 14:47:09 | [WitchLab.Diagnostics](https://www.nuget.org/packages/WitchLab.Diagnostics) | 1.0.1 | WitchLab | Automatic HTTP 5xx error capturing, PostgreSQL diagnostics storage, and throttl… |
+| 2026-10-15 14:55:27 | [YngveHestem.Quill.Abstractions](https://www.nuget.org/packages/YngveHestem.Quill.Abstractions) | 1.0.0 | Yngve J. K. Hestem | This library contains DTO's and other abstractions that is used in YngveHestem.… |
 
 ## Data source
 
