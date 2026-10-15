@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-15T07:25:39.503Z,DotJpegli,1.0.0,Edward Miller,"Safe, portable managed JPEG encoder based on Google's Jpegli, compatible with trimming and NativeAOT."
+2026-10-15T07:32:26.57Z,Webority.Diagnostics,0.2.1,Webority Technologies,"The Diagnostics engine for Webority products: the build-time infra slice, secret masking, the collection runner a Functions timer calls, history in monthly Azure Tables, and the core sources (Azure metrics and alerts, App Insights, Cloudflare, GitHub, cost, package drift, Webority OS, Crashlytics)."
+2026-10-15T07:32:29.223Z,Webority.Diagnostics.Abstractions,0.2.1,Webority Technologies,"The contract a Webority library implements to report into a product's Diagnostics console: contributors (in-process facts, checks, links, expiries, actions), sources (external readings collected on a schedule) and log metrics (KQL the App Insights source runs). References only the base class librar…"
+2026-10-15T07:32:31.96Z,Webority.Diagnostics.Admin,0.2.1,Webority Technologies,"The Diagnostics console for Webority admin portals: overview, runtime, edge, mobile, web, services, delivery, cost, usage and releases tabs, in Webority.Ui.Razor markup inside the product's own admin layout, under a Diagnostics area the product secures with one policy."
+2026-10-15T07:32:55.417Z,FxLink.EntityFramework,2.0.0,Quy Vu,"EF Core backend for FxLink's reliable-messaging patterns (Outbox, Inbox) and state machine persistence"
+2026-10-15T07:45:40.207Z,Access.It.Mcp,10.9.0,Access-It Tech Lead Task Force,"Serveur MCP exposant la documentation des packages Access.It (catalogue, API publique, guides) aux agents IA. Versionné avec les packages : la doc servie est celle de la version installée."
+2026-10-15T07:45:43.797Z,Kai.Shared.Logging,0.1.0,Kai,Host-owned Serilog JSON console logging for shared .NET services.
+2026-10-15T07:45:46.583Z,Kai.Shared.Oracle,0.1.0,Kai.Shared.Oracle,"Scoped Oracle repositories, audit, transactions and data operations for consumer-owned EF Core models."
+2026-10-15T07:45:49.36Z,Kai.Shared.Postgres,0.1.0,Kai.Shared.Postgres,"PostgreSQL repositories, audit, transactions, SQL, batch and atomic COPY for consumer-owned EF Core models."
+2026-10-15T07:53:53.12Z,qdrant_edge_cs,0.10.0,electroglyph,Idiomatic C# interface for qdrant_edge (embedded single-shard vector search). Native engine via stable C ABI; managed DTOs with source-generated JSON.
+2026-10-15T08:03:10.217Z,Cumber,0.1.0,Mark Wrenford,Hierarchical command-line parsing driven by readable help text.
+2026-10-15T08:04:46.583Z,2dog.gdunit,4.7.2.120,Moritz Voss,Run isolated GDScript gdUnit tests through embedded Godot and Microsoft.Testing.Platform.
+2026-10-15T08:04:47.947Z,2dog.gdunit.double,4.7.2.120,Moritz Voss,Run isolated GDScript gdUnit tests through embedded Godot and Microsoft.Testing.Platform.
+2026-10-15T08:07:08.84Z,Drawspan.Client.V1,1.0.0,Coded Constructs,"Drawspan licensing client for AEC desktop plugins (Revit, Rhino/Grasshopper). One assembly, zero dependencies, Windows."

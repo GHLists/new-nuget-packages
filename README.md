@@ -12,52 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 07:21 UTC
+## Latest list — 2026-10-15 08:19 UTC
 
-New packages created between 2026-10-15 06:22 UTC and 2026-10-15 07:21 UTC.
+New packages created between 2026-10-15 07:21 UTC and 2026-10-15 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-15T07-21-45-506477Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-15T08-19-24-00641Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 06:42:35 | [AUModding.Templates](https://www.nuget.org/packages/AUModding.Templates) | 1.0.0 | AUModding | Among Us mod project templates. |
-| 2026-10-15 06:42:35 | [TruSql](https://www.nuget.org/packages/TruSql) | 1.0.0 | Indra Putra Gemilang | TruSql is a SQL query builder for dynamically constructing and validating queri… |
-| 2026-10-15 06:53:01 | [combit.ListLabel32](https://www.nuget.org/packages/combit.ListLabel32) | 32.0.0 | combit | Provides access to the reporting tool List & Label. Please note that a List & L… |
-| 2026-10-15 06:53:07 | [combit.ListLabel32.AdhocDesign.Web](https://www.nuget.org/packages/combit.ListLabel32.AdhocDesign.Web) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required fo… |
-| 2026-10-15 06:53:09 | [combit.ListLabel32.CassandraDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CassandraDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:11 | [combit.ListLabel32.CosmosDBDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CosmosDBDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:12 | [combit.ListLabel32.FirebirdConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.FirebirdConnectionDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:14 | [combit.ListLabel32.MongoDBDataProvider](https://www.nuget.org/packages/combit.ListLabel32.MongoDBDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:16 | [combit.ListLabel32.MySqlConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.MySqlConnectionDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:18 | [combit.ListLabel32.NpgsqlConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.NpgsqlConnectionDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:20 | [combit.ListLabel32.NuoDbConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.NuoDbConnectionDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:26 | [combit.ListLabel32.OpenXmlXlsDataProvider](https://www.nuget.org/packages/combit.ListLabel32.OpenXmlXlsDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:28 | [combit.ListLabel32.RedisDataProvider](https://www.nuget.org/packages/combit.ListLabel32.RedisDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:30 | [combit.ListLabel32.ReportServerIntegration](https://www.nuget.org/packages/combit.ListLabel32.ReportServerIntegration) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package enables intero… |
-| 2026-10-15 06:53:34 | [combit.ListLabel32.SchemaAwareJsonDataProvider](https://www.nuget.org/packages/combit.ListLabel32.SchemaAwareJsonDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:36 | [combit.ListLabel32.SqlConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.SqlConnectionDataProvider) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package is required to… |
-| 2026-10-15 06:53:52 | [combit.ListLabel32.Wpf](https://www.nuget.org/packages/combit.ListLabel32.Wpf) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package contains contr… |
-| 2026-10-15 06:53:54 | [combit.ReportServer32.ClientApi](https://www.nuget.org/packages/combit.ReportServer32.ClientApi) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package contains class… |
-| 2026-10-15 06:53:56 | [combit.ReportServer32.SharedTypes](https://www.nuget.org/packages/combit.ReportServer32.SharedTypes) | 32.0.0 | combit | Provides access to the reporting tool List & Label. This package contains types… |
-| 2026-10-15 06:55:38 | [combit.ListLabel32.CrossPlatform.AI](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.AI) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:40 | [combit.ListLabel32.CrossPlatform.CassandraDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.CassandraDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:42 | [combit.ListLabel32.CrossPlatform.CosmosDBDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.CosmosDBDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:44 | [combit.ListLabel32.CrossPlatform.Export.OpenXml](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.Export.OpenXml) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:46 | [combit.ListLabel32.CrossPlatform.FirebirdConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.FirebirdConnectionDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:48 | [combit.ListLabel32.CrossPlatform.MongoDBDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.MongoDBDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:53 | [combit.ListLabel32.CrossPlatform.MySqlConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.MySqlConnectionDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:55 | [combit.ListLabel32.CrossPlatform.NpgsqlConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.NpgsqlConnectionDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:57 | [combit.ListLabel32.CrossPlatform.NuoDbConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.NuoDbConnectionDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:55:59 | [combit.ListLabel32.CrossPlatform.Object.Chart](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.Object.Chart) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:56:06 | [combit.ListLabel32.CrossPlatform.OpenXmlXlsDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.OpenXmlXlsDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:56:11 | [combit.ListLabel32.CrossPlatform.RedisDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.RedisDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:56:15 | [combit.ListLabel32.CrossPlatform.SchemaAwareJsonDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.SchemaAwareJsonDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:56:17 | [combit.ListLabel32.CrossPlatform.SqlConnectionDataProvider](https://www.nuget.org/packages/combit.ListLabel32.CrossPlatform.SqlConnectionDataProvider) | 32.0.0 | combit | Provides cross platform access to the reporting tool List & Label. This package… |
-| 2026-10-15 06:57:27 | [PictureSharp](https://www.nuget.org/packages/PictureSharp) | 0.5.2 | Artur Pelzak | A pure managed image processing library for .NET. No native dependencies. |
-| 2026-10-15 07:03:06 | [AvCharts](https://www.nuget.org/packages/AvCharts) | 0.1.1 | AvCharts | The charting model behind AvCharts - axes, data transforms, series and the draw… |
-| 2026-10-15 07:03:06 | [AvCharts.Controls](https://www.nuget.org/packages/AvCharts.Controls) | 0.1.1 | AvCharts.Controls | The Avalonia controls, data tips, legends and colour tokens of AvCharts. |
-| 2026-10-15 07:06:31 | [AuthEndpoints.External.OAuth](https://www.nuget.org/packages/AuthEndpoints.External.OAuth) | 4.0.0 | madeyoga | Forwarding shim. The external OAuth endpoints moved into AuthEndpoints 4.0. Rem… |
-| 2026-10-15 07:06:32 | [AuthEndpoints.OAuth.GitHub](https://www.nuget.org/packages/AuthEndpoints.OAuth.GitHub) | 4.0.0 | madeyoga | GitHub OAuth provider for AuthEndpoints. Registers the GitHub handler only. Map… |
+| 2026-10-15 07:25:39 | [DotJpegli](https://www.nuget.org/packages/DotJpegli) | 1.0.0 | Edward Miller | Safe, portable managed JPEG encoder based on Google's Jpegli, compatible with t… |
+| 2026-10-15 07:32:26 | [Webority.Diagnostics](https://www.nuget.org/packages/Webority.Diagnostics) | 0.2.1 | Webority Technologies | The Diagnostics engine for Webority products: the build-time infra slice, secre… |
+| 2026-10-15 07:32:29 | [Webority.Diagnostics.Abstractions](https://www.nuget.org/packages/Webority.Diagnostics.Abstractions) | 0.2.1 | Webority Technologies | The contract a Webority library implements to report into a product's Diagnosti… |
+| 2026-10-15 07:32:31 | [Webority.Diagnostics.Admin](https://www.nuget.org/packages/Webority.Diagnostics.Admin) | 0.2.1 | Webority Technologies | The Diagnostics console for Webority admin portals: overview, runtime, edge, mo… |
+| 2026-10-15 07:32:55 | [FxLink.EntityFramework](https://www.nuget.org/packages/FxLink.EntityFramework) | 2.0.0 | Quy Vu | EF Core backend for FxLink's reliable-messaging patterns (Outbox, Inbox) and st… |
+| 2026-10-15 07:45:40 | [Access.It.Mcp](https://www.nuget.org/packages/Access.It.Mcp) | 10.9.0 | Access-It Tech Lead Task Force | Serveur MCP exposant la documentation des packages Access.It (catalogue, API pu… |
+| 2026-10-15 07:45:43 | [Kai.Shared.Logging](https://www.nuget.org/packages/Kai.Shared.Logging) | 0.1.0 | Kai | Host-owned Serilog JSON console logging for shared .NET services. |
+| 2026-10-15 07:45:46 | [Kai.Shared.Oracle](https://www.nuget.org/packages/Kai.Shared.Oracle) | 0.1.0 | Kai.Shared.Oracle | Scoped Oracle repositories, audit, transactions and data operations for consume… |
+| 2026-10-15 07:45:49 | [Kai.Shared.Postgres](https://www.nuget.org/packages/Kai.Shared.Postgres) | 0.1.0 | Kai.Shared.Postgres | PostgreSQL repositories, audit, transactions, SQL, batch and atomic COPY for co… |
+| 2026-10-15 07:53:53 | [qdrant_edge_cs](https://www.nuget.org/packages/qdrant_edge_cs) | 0.10.0 | electroglyph | Idiomatic C# interface for qdrant_edge (embedded single-shard vector search). N… |
+| 2026-10-15 08:03:10 | [Cumber](https://www.nuget.org/packages/Cumber) | 0.1.0 | Mark Wrenford | Hierarchical command-line parsing driven by readable help text. |
+| 2026-10-15 08:04:46 | [2dog.gdunit](https://www.nuget.org/packages/2dog.gdunit) | 4.7.2.120 | Moritz Voss | Run isolated GDScript gdUnit tests through embedded Godot and Microsoft.Testing… |
+| 2026-10-15 08:04:47 | [2dog.gdunit.double](https://www.nuget.org/packages/2dog.gdunit.double) | 4.7.2.120 | Moritz Voss | Run isolated GDScript gdUnit tests through embedded Godot and Microsoft.Testing… |
+| 2026-10-15 08:07:08 | [Drawspan.Client.V1](https://www.nuget.org/packages/Drawspan.Client.V1) | 1.0.0 | Coded Constructs | Drawspan licensing client for AEC desktop plugins (Revit, Rhino/Grasshopper). O… |
 
 ## Data source
 
