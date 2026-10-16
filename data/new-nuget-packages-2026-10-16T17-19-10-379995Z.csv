@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-16T16:33:51.363Z,Kaladel.Kiota.ImportExtensionFix.TypeScript,1.0.0,Kaladel,"Post-processes Kiota-generated TypeScript clients to strip the unnecessary "".js"" extensions (and redundant ""/index"" segments) that Kiota adds to relative import/export specifiers, which can otherwise confuse IDE type resolution for the generated "".ts"" files."
+2026-10-16T16:56:27.047Z,Paradise.Assets.Packing,0.61.0,ParadiseEngine,"Seekable, independently compressed Zstandard asset packs exposed as a read-only Zio filesystem."
+2026-10-16T16:58:07.227Z,D365KnowledgeBase.ERParser,1.0.0,D365KnowledgeBase.ERParser,"Parser for Dynamics 365 Finance and Operations Electronic Reporting configuration exports: envelope, data model, model mapping and format, with embedded labels and the data source paths read by each formula."
+2026-10-16T17:01:32.787Z,Luces.DI,1.0.0,Anonymous,DI Tools
+2026-10-16T17:02:06.957Z,Qyl.Telemetry.Testing,1.0.0,ANcpLua,Trace-isolated OTLP evidence for native MSTest tests.
+2026-10-16T17:04:02.023Z,SI.Rosetta.Aggregates.KurrentDB,1.29.0,SI.Rosetta.Aggregates.KurrentDB,Package Description
+2026-10-16T17:04:16.483Z,SI.Rosetta.Aggregates.MongoDB,1.29.0,SI.Rosetta.Aggregates.MongoDB,Package Description
+2026-10-16T17:04:50.68Z,SI.Rosetta.Persistence.KurrentDB,1.29.0,SI.Rosetta.Persistence.KurrentDB,Package Description
+2026-10-16T17:05:30.643Z,SI.Rosetta.Projections.KurrentDB,1.29.0,SI.Rosetta.Projections.KurrentDB,Package Description
+2026-10-16T17:06:09.213Z,SI.Rosetta.TestKit.Upcasting,1.29.0,SI.Informational.Systems,Test Kit for SI.Rosetta event upcasters
+2026-10-16T17:09:04.71Z,RippleFx.Engine.Native,1.5.0,ConnectingTheDots,"The Ripple Effect engine for RippleFx.Engine, with its Python interpreter: Windows, macOS and Linux (x64, arm64), Android (arm64, x86_64), iOS (device and simulator, static)."
+2026-10-16T17:09:06.043Z,RippleFx.Engine.Native.NoPython,1.5.0,ConnectingTheDots,"The Ripple Effect engine for RippleFx.Engine, without Python — smaller, and plays every campaign exported with ""Needs no Python"": Windows, macOS and Linux (x64, arm64), Android (arm64, x86_64), iOS (device and simulator, static)."
+2026-10-16T17:09:06.823Z,RippleFx.Engine,1.5.0,ConnectingTheDots,"C# bindings of the Ripple Effect engine: open a compiled campaign, play it through a session or a player, and drive its soundscapes through a speaker of your own. Add RippleFx.Engine.Native (or .NoPython) for the engine itself."
