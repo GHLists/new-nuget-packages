@@ -12,27 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:19 UTC
+## Latest list — 2026-10-16 18:19 UTC
 
-New packages created between 2026-10-16 16:21 UTC and 2026-10-16 17:19 UTC.
+New packages created between 2026-10-16 17:19 UTC and 2026-10-16 18:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T17-19-10-379995Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T18-19-20-306391Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-16 16:33:51 | [Kaladel.Kiota.ImportExtensionFix.TypeScript](https://www.nuget.org/packages/Kaladel.Kiota.ImportExtensionFix.TypeScript) | 1.0.0 | Kaladel | Post-processes Kiota-generated TypeScript clients to strip the unnecessary ".js… |
-| 2026-10-16 16:56:27 | [Paradise.Assets.Packing](https://www.nuget.org/packages/Paradise.Assets.Packing) | 0.61.0 | ParadiseEngine | Seekable, independently compressed Zstandard asset packs exposed as a read-only… |
-| 2026-10-16 16:58:07 | [D365KnowledgeBase.ERParser](https://www.nuget.org/packages/D365KnowledgeBase.ERParser) | 1.0.0 | D365KnowledgeBase.ERParser | Parser for Dynamics 365 Finance and Operations Electronic Reporting configurati… |
-| 2026-10-16 17:01:32 | [Luces.DI](https://www.nuget.org/packages/Luces.DI) | 1.0.0 | Anonymous | DI Tools |
-| 2026-10-16 17:02:06 | [Qyl.Telemetry.Testing](https://www.nuget.org/packages/Qyl.Telemetry.Testing) | 1.0.0 | ANcpLua | Trace-isolated OTLP evidence for native MSTest tests. |
-| 2026-10-16 17:04:02 | [SI.Rosetta.Aggregates.KurrentDB](https://www.nuget.org/packages/SI.Rosetta.Aggregates.KurrentDB) | 1.29.0 | SI.Rosetta.Aggregates.Kurrent… | Package Description |
-| 2026-10-16 17:04:16 | [SI.Rosetta.Aggregates.MongoDB](https://www.nuget.org/packages/SI.Rosetta.Aggregates.MongoDB) | 1.29.0 | SI.Rosetta.Aggregates.MongoDB | Package Description |
-| 2026-10-16 17:04:50 | [SI.Rosetta.Persistence.KurrentDB](https://www.nuget.org/packages/SI.Rosetta.Persistence.KurrentDB) | 1.29.0 | SI.Rosetta.Persistence.Kurren… | Package Description |
-| 2026-10-16 17:05:30 | [SI.Rosetta.Projections.KurrentDB](https://www.nuget.org/packages/SI.Rosetta.Projections.KurrentDB) | 1.29.0 | SI.Rosetta.Projections.Kurren… | Package Description |
-| 2026-10-16 17:06:09 | [SI.Rosetta.TestKit.Upcasting](https://www.nuget.org/packages/SI.Rosetta.TestKit.Upcasting) | 1.29.0 | SI.Informational.Systems | Test Kit for SI.Rosetta event upcasters |
-| 2026-10-16 17:09:04 | [RippleFx.Engine.Native](https://www.nuget.org/packages/RippleFx.Engine.Native) | 1.5.0 | ConnectingTheDots | The Ripple Effect engine for RippleFx.Engine, with its Python interpreter: Wind… |
-| 2026-10-16 17:09:06 | [RippleFx.Engine.Native.NoPython](https://www.nuget.org/packages/RippleFx.Engine.Native.NoPython) | 1.5.0 | ConnectingTheDots | The Ripple Effect engine for RippleFx.Engine, without Python — smaller, and pla… |
-| 2026-10-16 17:09:06 | [RippleFx.Engine](https://www.nuget.org/packages/RippleFx.Engine) | 1.5.0 | ConnectingTheDots | C# bindings of the Ripple Effect engine: open a compiled campaign, play it thro… |
+| 2026-10-16 17:27:28 | [NFe.Danfe.PdfSharp](https://www.nuget.org/packages/NFe.Danfe.PdfSharp) | 1.0.0 | Bruno Moreno (bsmoreno2910),A… | Gerador de DANFE NFe modelo 55 em PDF, sem SixLabors.ImageSharp. Fork do Danfe.… |
+| 2026-10-16 17:32:36 | [wordnet.Fonts](https://www.nuget.org/packages/wordnet.Fonts) | 1.1.0 | wordnet.Fonts | OFL-licensed Liberation, Carlito and Caladea fallback font resources for wordne… |
+| 2026-10-16 17:32:39 | [wordnet.Ocr](https://www.nuget.org/packages/wordnet.Ocr) | 1.1.0 | wordnet.Ocr | Optional native PDF import and local English OCR providers for wordnet. Managed… |
+| 2026-10-16 17:36:12 | [NsdRpc](https://www.nuget.org/packages/NsdRpc) | 0.1.0 | Chase Huegel | A zero-dependency nsd based C# RPC framework and library. |
+| 2026-10-16 17:36:14 | [NsdRpc.Generators](https://www.nuget.org/packages/NsdRpc.Generators) | 0.1.0 | Chase Huegel | Source generator for NsdRpc: emits typed service clients from [RpcService] inte… |
+| 2026-10-16 17:36:15 | [NsdRpc.Tcp](https://www.nuget.org/packages/NsdRpc.Tcp) | 0.1.0 | Chase Huegel | A TCP transport for the nsd-rpc framework. |
+| 2026-10-16 17:44:13 | [Hipcall.Sdk.Deneme](https://www.nuget.org/packages/Hipcall.Sdk.Deneme) | 1.0.2 | Abdulvahap Fansa, Hipcall | Hipcall API'leri ile entegrasyon sağlamak için resmi C# .NET 8 SDK'si. OAuth2 d… |
+| 2026-10-16 17:54:29 | [Timbn.GraveyardKeeperTwo.Core](https://www.nuget.org/packages/Timbn.GraveyardKeeperTwo.Core) | 2.0.0 | Timbn | Shared framework for Graveyard Keeper 2 (BepInEx 5) mods. A plugin base class w… |
+| 2026-10-16 18:02:06 | [Msixpkg.Build](https://www.nuget.org/packages/Msixpkg.Build) | 0.1.0 | Elipese568 | Build-time MSBuild task that packs a signed single-project MSIX into a .msixpkg… |
+| 2026-10-16 18:06:22 | [qianshipoi.FlowLauncher.Plugin.S3](https://www.nuget.org/packages/qianshipoi.FlowLauncher.Plugin.S3) | 1.0.4 | qianshipoi | Flow Launcher 插件：S3 兼容对象存储文件上传、下载、浏览与元数据管理。 |
+| 2026-10-16 18:08:24 | [EmbedIO-Neo.Jwt](https://www.nuget.org/packages/EmbedIO-Neo.Jwt) | 2.2.0 | William Smith,EmbedIO contrib… | Optional explicit-key JWT bearer validation for EmbedIO-Neo. |
+| 2026-10-16 18:11:50 | [BbQ.Outcome.AspNetCore](https://www.nuget.org/packages/BbQ.Outcome.AspNetCore) | 1.2.0 | Jean | Explicit HTTP and Problem Details mapping for BbQ.Outcome. |
+| 2026-10-16 18:11:50 | [BbQ.Outcome.Diagnostics](https://www.nuget.org/packages/BbQ.Outcome.Diagnostics) | 1.2.0 | Jean | Opt-in structured logging and Activity instrumentation for BbQ.Outcome. |
+| 2026-10-16 18:11:51 | [BbQ.Outcome.SystemTextJson](https://www.nuget.org/packages/BbQ.Outcome.SystemTextJson) | 1.2.0 | Jean | Explicit, Native AOT-compatible System.Text.Json contracts for BbQ.Outcome. |
+| 2026-10-16 18:13:12 | [BbQ.Cqrs.Outcome](https://www.nuget.org/packages/BbQ.Cqrs.Outcome) | 1.3.0 | Jean | Optional type-safe validation behaviors and response factories for BbQ.Cqrs and… |
+| 2026-10-16 18:13:13 | [BbQ.Cqrs.Outcome.FluentValidation](https://www.nuget.org/packages/BbQ.Cqrs.Outcome.FluentValidation) | 1.3.0 | Jean | Async FluentValidation adapter for BbQ.Cqrs Outcome validation. |
 
 ## Data source
 
