@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-16T19:28:06.403Z,ColumnWeaver.NET,1.0.0-beta,Hitesh Bhanushali,"Client-specific object-to-string formatting for .NET Framework 4.8. Reuse one transformation engine across products and customers with configurable columns, formulas, conditions, variables, separators, fixed-width output, null rules, replacements, JSON/XML schemas, and streaming batches."
+2026-10-16T19:46:49.623Z,DeployAngel.Hangfire,0.1.0,Jordan Owens,"DeployAngel for Hangfire: job runs, failures, running jobs, and recurring job schedules."
+2026-10-16T19:46:50.257Z,DeployAngel,0.1.0,Jordan Owens,"DeployAngel agent for ASP.NET Core: verifies every deploy from aggregated HTTP, job, and exception telemetry."
+2026-10-16T19:46:50.79Z,DeployAngel.Tool,0.1.0,Jordan Owens,"The deployangel command and MCP server: check a deploy's verdict, register deploys, and give coding agents DeployAngel's tools."
+2026-10-16T19:53:14.817Z,AbraxasDB,1.0.0,alt160,"An embedded, .NET-native object recordbase with durable records, maintained indexes, selective value reads, and low-ceremony application types. Open-source edition."
+2026-10-16T19:55:37.52Z,OSK.Petra.Godot.Acquisitions,0.1.0,BlankDev117,"Provides an implementation for configuration and related data structures for Acquisition items, tech, tech trees, etc. for use within Godot"
