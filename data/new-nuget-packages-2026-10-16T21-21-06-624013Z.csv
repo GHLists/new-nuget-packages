@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-16T20:26:01.28Z,Fuxion.Tool.Sdk,0.6.1,Oscar Jimenez,"MSBuild SDK of the Fuxion workspace tool (fx): versioning from git, static metadata, references between repositories and what fx generates from dotnet.yaml. It adds its own Fx* settings and leaves the rest of the build to the repository."
+2026-10-16T20:42:26.827Z,RoguelikeToolkit.Entities.Scripting.Jint,6.0.3,Michael Yarichuk,"Jint (JavaScript) scripts for RoguelikeToolkit.Entities templates: pre-parsed, shared, AOT-safe script components."
+2026-10-16T20:43:49.577Z,FmpReader,0.30.3,axiom-nz,"Read-only .NET reader for FileMaker Pro .fp7 and .fmp12 database files. Lists tables and columns, streams typed cell values and reads globals without FileMaker Pro, an ODBC driver or a running host."
+2026-10-16T21:01:26.88Z,SimplArchive.Messenger,0.1.0,Hebel Consulting,"The SimplArchive Messenger module: conversations sealed to their members' hardware keys, stored as ciphertext."
+2026-10-16T21:01:27.537Z,SimplArchive.Messenger.Client,0.2.0,Hebel Consulting,"The SimplArchive Messenger's client library: end-to-end sealed messages and conversation keys, free of any user interface."
+2026-10-16T21:01:28.023Z,SimplArchive.Messenger.Views,0.1.0,Hebel Consulting,"The SimplArchive Messenger's screens for a cross-platform app: conversations, the thread and the people picker."
+2026-10-16T21:07:55.023Z,OneYaml,1.0.0,"Recursive AI, LLC","Pure C# YAML 1.2 that edits a file and keeps its comments, with a System.Text.Json-style serializer."
+2026-10-16T21:07:55.577Z,OneYaml.Compat.SharpYaml,1.0.0,"Recursive AI, LLC","A compatibility adapter for code written against the SharpYaml 3 serializer (YamlSerializer, YamlSerializerOptions, attributes), running on OneYaml. Every difference is listed."
+2026-10-16T21:07:56.16Z,OneYaml.Compat.YamlDotNet,1.0.0,"Recursive AI, LLC","A compatibility adapter for code written against YamlDotNet 18 (serializer builders and representation model), running on OneYaml. Every difference is listed."
