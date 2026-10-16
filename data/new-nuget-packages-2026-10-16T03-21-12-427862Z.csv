@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-16T02:30:56.213Z,Kable.Engine.Disruptor,1.8.2,Johnny,Ultra-low-latency Lock-Free SPSC RingBuffer and CPU Affinity execution engine for Kable.
+2026-10-16T02:30:57.347Z,Kable.Generators,1.8.2,Johnny,Roslyn Source Generator for Kable declarative commands and RPC contracts.
+2026-10-16T02:30:58.437Z,Kable.Grpc,1.8.2,Johnny,High-performance gRPC bidirectional streaming transport adapter for Kable over System.IO.Pipelines.
+2026-10-16T02:30:59.583Z,Kable.Melsec,1.8.2,Kable Authors,High-performance zero-allocation Mitsubishi SLMP / MC Protocol 3E binary frame client for Kable.
+2026-10-16T02:31:00.747Z,Kable.Modbus,1.8.2,Kable Authors,High-performance zero-allocation Modbus-TCP and Modbus-RTU protocol codecs and master client for Kable.
+2026-10-16T02:31:01.857Z,Kable.Mqtt,1.8.2,Kable Authors,High-performance MQTT telemetry publisher and connection context over MQTTnet for Kable.
+2026-10-16T02:31:02.973Z,Kable.Observability.OpenTelemetry,1.8.2,Johnny,OpenTelemetry and System.Diagnostics.Metrics bridge adapter for Kable reactive communication engine.
+2026-10-16T02:31:04.013Z,Kable.OpcUa,1.8.2,Kable Authors,High-performance OPC UA client bridge and node subscription adapter over OPCFoundation.NetStandard.Opc.Ua for Kable.
+2026-10-16T02:31:05.25Z,Kable.SharedMemory,1.8.2,Kable Authors,Ultra-low-latency Inter-Process Communication (IPC) and high-frequency waveform ring buffer over MemoryMappedFile for Kable.
+2026-10-16T02:31:06.373Z,Kable.Transport.Ipc,1.8.2,Johnny,High-performance Out-of-Process IPC transport (Named Pipes and Shared Memory) for Kable.
+2026-10-16T02:31:07.49Z,Kable.UI.Wpf,1.8.2,Johnny,"Ready-made WPF UserControls for real-time hardware communication monitoring, Wireshark-style hex dump inspection, and manual command injection."
+2026-10-16T02:32:43.713Z,AscUI,1.0.0,AscUI,"A Turbo Vision style console windowing framework for .NET. Reproduces the look and feel of Borland's DOS-era Turbo C++ IDE: windows, dialogs, menus, drop shadows and the original CGA palette, with full keyboard and mouse support."
+2026-10-16T02:33:40.72Z,Soenneker.OneSignal.HttpClients,4.0.1,Jake Soenneker,A thread-safe singleton HttpClient for OneSignal's OpenAPI integration.
+2026-10-16T02:33:41.007Z,Soenneker.OneSignal.OpenApiClient,4.0.1,Jake Soenneker,A generated OpenAPI client for OneSignal.
+2026-10-16T02:43:38.127Z,OSK.Petra.Godot.Math.Formulas,0.1.0,BlankDev117,Provides
+2026-10-16T02:45:13.447Z,Soenneker.OneSignal.OpenApiClientUtil,4.0.2,Jake Soenneker,A thread-safe utility for obtaining OneSignal's OpenApiClient singleton.
+2026-10-16T02:51:34.207Z,Authway.Client,0.1.0,iyulab,"Client for Authway's administration API — register applications, invite users, read users and their claims, manage webhooks and a tenant's terms — with typed refusals (RFC 9457 problem details) and verification of Standard Webhooks deliveries. Signing users in stays with your framework's OpenID Con…"
