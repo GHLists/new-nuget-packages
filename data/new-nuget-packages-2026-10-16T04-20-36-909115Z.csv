@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-16T03:45:06.217Z,MPointCloud,1.0.0,Mekneo,"High-performance point-cloud data I/O for .NET with PCD, XYZ, PLY, and PTS support."
+2026-10-16T03:51:48.277Z,gigatoken_cs,0.12.0,Gigatoken contributors,High-throughput BPE / SentencePiece tokenizer (.NET 10 port of gigatoken).
