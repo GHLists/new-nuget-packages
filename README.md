@@ -12,21 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 10:20 UTC
+## Latest list — 2026-10-16 11:21 UTC
 
-New packages created between 2026-10-16 09:20 UTC and 2026-10-16 10:20 UTC.
+New packages created between 2026-10-16 10:20 UTC and 2026-10-16 11:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T10-20-15-554457Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T11-21-25-436469Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-16 09:29:40 | [KetPsi.Endpoints.Grpc](https://www.nuget.org/packages/KetPsi.Endpoints.Grpc) | 1.3.0 | KetPsi ,MohamadArsalan Imamve… | Code-first gRPC endpoints for KetPsi (compile-time codecs, no protobuf-net) |
-| 2026-10-16 09:43:07 | [xRMProducts.HealthScan](https://www.nuget.org/packages/xRMProducts.HealthScan) | 0.6.0.1 | xRM PRODUCTS | Free read-only Dataverse health scan for XrmToolBox. Unpublished local test: da… |
-| 2026-10-16 09:51:13 | [ApiForge.Application](https://www.nuget.org/packages/ApiForge.Application) | 1.0.2 | Pilar Pérez de Inestrosa Sánc… | ApiForge.ApplicationCore is the core library of the ApiForge application, provi… |
-| 2026-10-16 09:51:13 | [ApiForge.Generator](https://www.nuget.org/packages/ApiForge.Generator) | 1.0.2 | Pilar Pérez de Inestrosa Sánc… | Generates a typed C# client solution (Domain/Application/Infrastructure/Client)… |
-| 2026-10-16 09:51:13 | [ApiForge.Domain](https://www.nuget.org/packages/ApiForge.Domain) | 1.0.2 | Pilar Pérez de Inestrosa Sánc… | ApiForge.Domain is the core library of the ApiForge application, providing esse… |
-| 2026-10-16 09:51:14 | [ApiForge.Infrastructure](https://www.nuget.org/packages/ApiForge.Infrastructure) | 1.0.2 | Pilar Pérez de Inestrosa Sánc… | ApiForge.Infrastructure is the infrastructure library of the ApiForge applicati… |
-| 2026-10-16 10:05:15 | [XUnitAssured.Camunda](https://www.nuget.org/packages/XUnitAssured.Camunda) | 6.21.3 | Carlos Andrew Costa Bezerra | Camunda 8 process testing for XUnitAssured. Deploys BPMN, starts real process i… |
+| 2026-10-16 10:28:10 | [Arc56.Generated.sambhavverma2004.aircargo-provenance](https://www.nuget.org/packages/Arc56.Generated.sambhavverma2004.aircargo-provenance) | 1.0.1.2026101610 | sambhavverma2004 | Generated ARC-56 Algorand smart-contract clients for sambhavverma2004/aircargo-… |
+| 2026-10-16 10:28:25 | [Arc56.Generated.joe-p.algosdk-future-ts](https://www.nuget.org/packages/Arc56.Generated.joe-p.algosdk-future-ts) | 1.0.1.2026101610 | joe-p | Generated ARC-56 Algorand smart-contract clients for joe-p/algosdk-future-ts. |
+| 2026-10-16 10:36:18 | [AiDotNet.Evolution.Ptx](https://www.nuget.org/packages/AiDotNet.Evolution.Ptx) | 0.4.0 | AiDotNet.Evolution.Ptx | Optional PTX kernel evolution for AiDotNet.Evolution: contract-driven JIT check… |
+| 2026-10-16 10:44:44 | [AlienFruit.Otml.Configuration.Keyraft](https://www.nuget.org/packages/AlienFruit.Otml.Configuration.Keyraft) | 1.3.0 | Alexander Prokopovich | Keyraft secrets storage adapter for AlienFruit.Otml.Configuration: resolves {{s… |
+| 2026-10-16 10:48:05 | [StandardTrace](https://www.nuget.org/packages/StandardTrace) | 1.0.0 | Mario Kx | Records HTTP traces, logs, and metrics for .NET 10 applications. |
+| 2026-10-16 10:52:20 | [AppWeaver.Helpers](https://www.nuget.org/packages/AppWeaver.Helpers) | 1.0.0 | Team AppWeaver | Helper utilities and common functions for the AppWeaver framework. Includes env… |
+| 2026-10-16 11:00:48 | [UnicoreSoftwareSolutions.Base.Business.Interface](https://www.nuget.org/packages/UnicoreSoftwareSolutions.Base.Business.Interface) | 1.0.0 | Unicore Software Solutions | Package Description |
+| 2026-10-16 11:01:00 | [Casper.Network.SDK.CES](https://www.nuget.org/packages/Casper.Network.SDK.CES) | 3.3.0 | make-software | Casper Event Standard (CES) schema and event parsing for the Casper .NET SDK. |
+| 2026-10-16 11:02:39 | [Pdfxport.Net](https://www.nuget.org/packages/Pdfxport.Net) | 7.0.0 | Gaspard Petit | An MIT-licensed fork of PDFsharp for creating and processing PDF files. Indepen… |
+| 2026-10-16 11:02:40 | [Pdfxport.Net.MigraDoc](https://www.nuget.org/packages/Pdfxport.Net.MigraDoc) | 7.0.0 | Gaspard Petit | MigraDoc document layout for the Pdfxport.Net PDFsharp fork. Independent MIT-li… |
+| 2026-10-16 11:09:20 | [MinimalKafka.Dashboard](https://www.nuget.org/packages/MinimalKafka.Dashboard) | 0.18.0-alpha002 | Patrick Evers | MinimalKafka is a simple and efficient Kafka consumer library designed to work… |
 
 ## Data source
 
