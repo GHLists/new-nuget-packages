@@ -12,23 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 21:21 UTC
+## Latest list — 2026-10-16 22:20 UTC
 
-New packages created between 2026-10-16 20:20 UTC and 2026-10-16 21:21 UTC.
+New packages created between 2026-10-16 21:21 UTC and 2026-10-16 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T21-21-06-624013Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T22-20-25-333203Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-16 20:26:01 | [Fuxion.Tool.Sdk](https://www.nuget.org/packages/Fuxion.Tool.Sdk) | 0.6.1 | Oscar Jimenez | MSBuild SDK of the Fuxion workspace tool (fx): versioning from git, static meta… |
-| 2026-10-16 20:42:26 | [RoguelikeToolkit.Entities.Scripting.Jint](https://www.nuget.org/packages/RoguelikeToolkit.Entities.Scripting.Jint) | 6.0.3 | Michael Yarichuk | Jint (JavaScript) scripts for RoguelikeToolkit.Entities templates: pre-parsed,… |
-| 2026-10-16 20:43:49 | [FmpReader](https://www.nuget.org/packages/FmpReader) | 0.30.3 | axiom-nz | Read-only .NET reader for FileMaker Pro .fp7 and .fmp12 database files. Lists t… |
-| 2026-10-16 21:01:26 | [SimplArchive.Messenger](https://www.nuget.org/packages/SimplArchive.Messenger) | 0.1.0 | Hebel Consulting | The SimplArchive Messenger module: conversations sealed to their members' hardw… |
-| 2026-10-16 21:01:27 | [SimplArchive.Messenger.Client](https://www.nuget.org/packages/SimplArchive.Messenger.Client) | 0.2.0 | Hebel Consulting | The SimplArchive Messenger's client library: end-to-end sealed messages and con… |
-| 2026-10-16 21:01:28 | [SimplArchive.Messenger.Views](https://www.nuget.org/packages/SimplArchive.Messenger.Views) | 0.1.0 | Hebel Consulting | The SimplArchive Messenger's screens for a cross-platform app: conversations, t… |
-| 2026-10-16 21:07:55 | [OneYaml](https://www.nuget.org/packages/OneYaml) | 1.0.0 | Recursive AI, LLC | Pure C# YAML 1.2 that edits a file and keeps its comments, with a System.Text.J… |
-| 2026-10-16 21:07:55 | [OneYaml.Compat.SharpYaml](https://www.nuget.org/packages/OneYaml.Compat.SharpYaml) | 1.0.0 | Recursive AI, LLC | A compatibility adapter for code written against the SharpYaml 3 serializer (Ya… |
-| 2026-10-16 21:07:56 | [OneYaml.Compat.YamlDotNet](https://www.nuget.org/packages/OneYaml.Compat.YamlDotNet) | 1.0.0 | Recursive AI, LLC | A compatibility adapter for code written against YamlDotNet 18 (serializer buil… |
+| 2026-10-16 21:25:05 | [Dock.Avalonia.AvalonDock](https://www.nuget.org/packages/Dock.Avalonia.AvalonDock) | 12.1.0.11 | Wiesław Šoltés | AvalonDock API adapters backed by Dock's Avalonia models and controls. |
+| 2026-10-16 21:28:26 | [Jakar.Spans](https://www.nuget.org/packages/Jakar.Spans) | 10.1.0 | Tyler Stegmaier | Dependency-free, allocation-free span primitives: ValueStringBuilder (UTF-16),… |
+| 2026-10-16 21:28:26 | [DTree.Encoding](https://www.nuget.org/packages/DTree.Encoding) | 1.5.0 | Enis Olgac | DTree: incremental encoding of directed trees by two projections (Q1, Q2) with… |
+| 2026-10-16 21:33:22 | [NMX.SudokuGen.Cli.any](https://www.nuget.org/packages/NMX.SudokuGen.Cli.any) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:23 | [NMX.SudokuGen.Cli.linux-arm64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.linux-arm64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:24 | [NMX.SudokuGen.Cli.linux-x64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.linux-x64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:25 | [NMX.SudokuGen.Cli.osx-arm64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.osx-arm64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:26 | [NMX.SudokuGen.Cli.osx-x64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.osx-x64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:28 | [NMX.SudokuGen.Cli.win-arm64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.win-arm64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:29 | [NMX.SudokuGen.Cli.win-x64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.win-x64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:30 | [NMX.SudokuGen.Cli.win-x86](https://www.nuget.org/packages/NMX.SudokuGen.Cli.win-x86) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:33:31 | [NMX.SudokuGen.Cli](https://www.nuget.org/packages/NMX.SudokuGen.Cli) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
+| 2026-10-16 21:41:14 | [Jakar.Json](https://www.nuget.org/packages/Jakar.Json) | 10.1.0 | Tyler Stegmaier | A reflection-free, allocation-free JSON serializer: [JsonModel] source-generate… |
+| 2026-10-16 21:45:25 | [NovaUI.WinForms](https://www.nuget.org/packages/NovaUI.WinForms) | 1.0.0 | FALAH FATHEL | Modern WinForms control library with 9,000+ embedded icons across 26 icon packs… |
+| 2026-10-16 21:47:50 | [AzureStorage.QueueService.Blobs](https://www.nuget.org/packages/AzureStorage.QueueService.Blobs) | 3.1.0 | Unifinity Software Corporation | Sends Azure Storage queue messages over the 64 KiB limit by keeping their bodie… |
+| 2026-10-16 21:47:51 | [AzureStorage.QueueService.HealthChecks](https://www.nuget.org/packages/AzureStorage.QueueService.HealthChecks) | 3.1.0 | Unifinity Software Corporation | ASP.NET Core health checks for AzureStorage.QueueService: one that reports whet… |
+| 2026-10-16 21:48:31 | [Zyga.HikIsapiClient](https://www.nuget.org/packages/Zyga.HikIsapiClient) | 0.1.0 | Szymon Zywert | A Hikvision ISAPI client with Serilog logging, session management, and DI integ… |
+| 2026-10-16 21:49:49 | [CloudySkySoftware.Pulumi.TailscaleNative](https://www.nuget.org/packages/CloudySkySoftware.Pulumi.TailscaleNative) | 0.2.0 | Cloudy Sky Software | A native Pulumi package for creating and managing Tailscale resources. |
+| 2026-10-16 21:54:07 | [Jakar.Json.AspNetCore](https://www.nuget.org/packages/Jakar.Json.AspNetCore) | 10.1.0 | Tyler Stegmaier | Jakar.Json as ASP.NET Core's JSON serializer for [JsonModel] types: MVC input/o… |
 
 ## Data source
 
