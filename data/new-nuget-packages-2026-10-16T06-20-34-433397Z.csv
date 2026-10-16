@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-16T05:26:19.567Z,ORT,1.0.0,GreatBear,"Clean ONNX Runtime 1.31.0 repack: net8.0 / .NET Framework 4.6.1 managed assemblies with win-x64 native binaries only. No Android/iOS/Linux/macOS/ARM64 payloads. Contains ONNX Runtime binaries (MIT License, © Microsoft Corporation)."
+2026-10-16T05:51:09.34Z,Gil.Tree,0.20.0,iyulab,"Gil's experimental tree judgment path: a resolver that answers repeated LLM requests from a memory of confirmed answers or a small tree of one-token judgments, generates only what they cannot settle, and promotes recurring answers to habits for review."
+2026-10-16T06:04:19.927Z,Esatto.Umbraco.Backoffice.AICosts,1.0.0,Carl Schéle,"Estimated AI costs for Umbraco.AI in the backoffice: a Costs tab next to Analytics → Usage that prices the tokens Umbraco.AI records per model, in your currency — with cost by model, profile, user and provider, a monthly budget and forecast, CSV export and period comparison."
+2026-10-16T06:06:32.087Z,MonixOne.OpenObservability,1.0.0,Shulyakovsky.E,"Central OpenTelemetry logs, traces, metrics, Sentry, HTTP body masking and automatic exception diagnostics for .NET services."
+2026-10-16T06:12:16.81Z,Bitzsoft.Integrations.DocumentGeneration,1.0.1,Bitzsoft,文档生成抽象层 — 统一接口定义与基础模型（IDocumentGenerationProvider / GenerateDocumentRequest / GenerateDocumentTicket / BatchGenerationRequest）
+2026-10-16T06:12:19.647Z,Bitzsoft.Integrations.DocumentGeneration.SelfHosted,1.0.1,Bitzsoft,文档生成自托管官方实现 — 针对 Gateway/Compose 微服务的 HTTP 通信、状态探针与 ProblemDetails 异常解析
+2026-10-16T06:12:22.663Z,Bitzsoft.Integrations.DocumentGeneration.All,1.0.1,Bitzsoft,文档生成聚合包 — 包含文档生成抽象层、官方自托管实现与 Polly 弹性重试依赖注入扩展
+2026-10-16T06:13:00.783Z,Kentico.Xperience.Labs.VirtualInbox.Admin,2.0.0,Kentico Software,Adds Administration application UI for Xperience by Kentico Virtual Inbox.
+2026-10-16T06:13:02.923Z,Kentico.Xperience.Labs.VirtualInbox.MCP,2.0.0,Kentico Software,Adds MCP server tools for Xperience by Kentico Virtual Inbox.
+2026-10-16T06:13:05.21Z,Kentico.Xperience.Labs.VirtualInbox,2.0.0,Kentico Software,Adds core object types and services for Xperience by Kentico Virtual Inbox.
