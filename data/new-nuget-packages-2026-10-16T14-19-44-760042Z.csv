@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-10-16T13:24:56.567Z,AlphaAppTools.UsefulProvidersImpl,10.7.0,AlphaAppTools,"Providers that put an injectable interface in front of BCL statics so tests can substitute a fake: DateTimeProvider and DateTimeOffsetProvider over the UTC system clock and GuidProvider over Guid.NewGuid(), each with a trivial default implementation, plus their Autofac registration (RegisterProvide…"
+2026-10-16T13:27:40.18Z,TimeTug.Engine,1.6.3,Binary Companion,"The TimeTug engine (calendar sources, takeover scheduling, duplicate detection) for Windows apps: the native engine for win-x64 and win-arm64 and a managed wrapper over its C interface, with the C header and the golden fixtures of its JSON contract."
+2026-10-16T13:48:01.177Z,SimplArchive.ModuleAbi,1.18.0,Hebel Consulting,"The contract industry modules build against: registration, mask seeding, facts, transitions, and the archive facade (ADR 0741)."
+2026-10-16T13:48:10.247Z,XUnitAssured.Camunda.Testcontainers,6.27.1,Carlos Andrew Costa Bezerra,"Starts Camunda 8.10 inside dotnet test for XUnitAssured.Camunda: CamundaContainerFixture runs camunda/camunda in Docker with Testcontainers (H2 in memory, search flushed at once, a random password) and hands its address and credentials to every chain, so a CI runner with Docker needs no Camunda of…"
+2026-10-16T13:56:44.04Z,Frida.NET.Runtime.linux-arm32,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:45.77Z,Frida.NET.Runtime.linux-mips64,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:47.427Z,Frida.NET.Runtime.linux-x86,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:51.373Z,Frida.NET.Runtime.linux-arm64,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:52.73Z,Frida.NET.Runtime.osx-x64,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:54.813Z,Frida.NET.Runtime.osx-arm64,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:56.123Z,Frida.NET.Runtime.win-x86,17.24.0,Frida Developers,Package Description
+2026-10-16T13:56:58.357Z,Frida.NET.Runtime.linux-x64,17.24.0,Frida Developers,Package Description
+2026-10-16T13:57:04.637Z,Frida.NET.Runtime.win-arm64,17.24.0,Frida Developers,Package Description
+2026-10-16T13:57:04.897Z,Frida.NET,17.24.0,Frida Developers,Package Description
+2026-10-16T14:00:23.25Z,GeminiToApi,26.10.6868,theolivenbaum,"Local OpenAI-, Claude- and Gemini-compatible API server backed by the Gemini web app and your browser session."
+2026-10-16T14:01:27.637Z,Soenneker.Locks.Files,4.0.1,Jake Soenneker,Cross-process filesystem locking with disposable leases.
+2026-10-16T14:06:02.77Z,BqLog,2.7.0,Tencent,"Lightweight, high-performance, cross-language logging library."
+2026-10-16T14:06:27.963Z,SimplArchive.Keys,0.1.0,Hebel Consulting,"Open CMS envelopes with a PIV hardware key: an APDU-level PIV session, RSA key transport and elliptic-curve key agreement, over a transport the app supplies."
+2026-10-16T14:07:13.487Z,KeelMatrix.FixtureVault,0.1.0,KeelMatrix,"Audit snapshot and golden files for stale artifacts, leaked secrets, orphaned baselines, portability problems, and CI policy drift."
+2026-10-16T14:10:38.697Z,Plugin.Maui.Spine.AI,0.1.15,Jonatan Söderberg,"AI in a Spine app without keys in the app: one IChatClient per named feature that streams from the app's Spine.Server.AI backend, can try an on-device model first, answers ""off"", budget and rate limits in one shape, and counts on-device usage on the device."
+2026-10-16T14:10:41.437Z,Plugin.Maui.Spine.Authentication.Google,0.1.15,Jonatan Söderberg,"Sign in with Google for a Spine app: Credential Manager's own sheet on Android, and the server's broker in the browser on iOS, Mac Catalyst and Windows. Adds a.AddGoogle() to Plugin.Maui.Spine.Authentication."
+2026-10-16T14:10:45.7Z,Plugin.Maui.Spine.Biometrics,0.1.15,Jonatan Söderberg,"Face ID, Touch ID, Android biometrics and Windows Hello for .NET MAUI: IBiometricAuth, and [RequiresUnlock] on a Spine page or command, which asks before the page opens or the command runs."
+2026-10-16T14:10:57.9Z,Plugin.Maui.Spine.Controls.Voice,0.1.15,Jonatan Söderberg,"VoiceView for Spine.Voice: a voice conversation drawn as it happens, with SkiaSharp. Built-in Orb, duplex Bars, Ring and a simple Avatar that follow the levels, the 24 bands and visemes; a plug-in contract for visuals of your own, drawn on the canvas or hosted in a view of their own."
+2026-10-16T14:11:06.997Z,Plugin.Maui.Spine.Server.AI.Assets,0.1.15,Jonatan Söderberg,"Generated images for Spine's server, made once and served from blob storage: a lookup answers with the image's URL or orders it, a Spine messaging handler generates it through a metered, budgeted Server.AI feature, checks it and archives it under a versioned path. A version bump remakes images lazi…"
+2026-10-16T14:11:10.79Z,Plugin.Maui.Spine.Server.Messaging.AzureStorage,0.1.15,Jonatan Söderberg,"Azure Storage for Spine messaging: Storage Queues as the simple, cheap transport, and blob storage for large payloads, failed messages and markers (used by every transport). Runs under Aspire on Azurite."
+2026-10-16T14:11:14.927Z,Plugin.Maui.Spine.Voice,0.1.15,Jonatan Söderberg,"Voice for Spine apps: a full-duplex audio engine with the platform's echo cancellation, PCM16 in and out at a provider's rate, a playback queue that can be flushed when the user talks over the answer, and levels and 24 bands each way for visuals. The base for realtime voice AI."
