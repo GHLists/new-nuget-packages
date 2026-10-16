@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-16T04:25:37.333Z,Milvus.Client,2.6.0,Milvus.Client,Milvus C# SDK
+2026-10-16T04:52:26.483Z,Kewl.Metrics,1.0.0,KewlMetrics,A library for generating logs that are workflow oriented. Instead of logging as you go along and having the logs all mixed together and interwoven this library builds up details of an operation and logs those details all together. Mainly intended to be used in service side code to help make clear w…
+2026-10-16T04:59:53.07Z,Coworkee.Workflows.Elsa,0.0.1.26,fgilde,"Elsa Workflows 3 for Coworkee apps: hosted in the app database, with activities and triggers for Coworkee workflows and approvals."
+2026-10-16T04:59:55.61Z,Coworkee.Webhooks,0.0.1.26,fgilde,"Outgoing webhooks: signed events about entity changes, workflow transitions and app events, with retries and a delivery log."
+2026-10-16T04:59:56.783Z,Coworkee.Workflows,0.0.1.26,fgilde,"States, transitions and approvals with deadlines, reminders and a history for any entity."
+2026-10-16T05:00:22.51Z,NSmithy.Protocols.RpcV2,0.13.0,Thomas Laich,"Routing, errors, and event streams shared by the Smithy RPC v2 protocols in NSmithy."
+2026-10-16T05:00:25.75Z,NSmithy.Protocols.RpcV2Json,0.13.0,Thomas Laich,Smithy rpcv2Json protocol for NSmithy clients and ASP.NET Core servers.
