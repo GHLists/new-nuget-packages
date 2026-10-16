@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-15T23:30:30.863Z,Couchbase.OperationalInsightsClient,1.0.0,"Couchbase, Inc.",The Official Couchbase OperationalInsights .NET SDK
+2026-10-15T23:35:00.357Z,OpenDebug.Net.linux-arm64,0.0.11,OpenDebug.Net contributors,A fast Native AOT Debug Adapter Protocol server for live managed .NET processes.
+2026-10-15T23:35:01.82Z,OpenDebug.Net.osx-arm64,0.0.11,OpenDebug.Net contributors,A fast Native AOT Debug Adapter Protocol server for live managed .NET processes.
+2026-10-15T23:35:02.69Z,OpenDebug.Net.osx-x64,0.0.11,OpenDebug.Net contributors,A fast Native AOT Debug Adapter Protocol server for live managed .NET processes.
+2026-10-15T23:35:03.627Z,OpenDebug.Net.win-arm64,0.0.11,OpenDebug.Net contributors,A fast Native AOT Debug Adapter Protocol server for live managed .NET processes.
+2026-10-15T23:35:04.667Z,OpenDebug.Net.win-x64,0.0.11,OpenDebug.Net contributors,A fast Native AOT Debug Adapter Protocol server for live managed .NET processes.
+2026-10-15T23:42:53.49Z,DinaCSharp,3.0.0,LACOMBE Dominique,DinaCSharp est un framework développé par LACOMBE Dominique et réalisé à partir de MonoGame.
+2026-10-15T23:46:16.137Z,Soenneker.HuggingFace.HttpClients,4.0.1,Jake Soenneker,A thread-safe singleton HttpClient for HuggingFace's OpenAPI integration.
+2026-10-15T23:48:20.65Z,Soenneker.HuggingFace.OpenApiClient,4.0.1,Jake Soenneker,A generated OpenAPI client for the Hugging Face Hub API.
+2026-10-16T00:04:36.187Z,PDFjet,9.0.9,PDFjet Software,"Fast, dependency-free PDF generation: text in many scripts with TrueType and OpenType fonts embedded as subsets, tables, charts, barcodes, SVG and Markdown, PDF/UA and PDF/A, merging and AES-256. The same API in Java, Go and Swift."
