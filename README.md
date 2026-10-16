@@ -12,24 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 00:19 UTC
+## Latest list — 2026-10-16 01:20 UTC
 
-New packages created between 2026-10-15 23:21 UTC and 2026-10-16 00:19 UTC.
+New packages created between 2026-10-16 00:19 UTC and 2026-10-16 01:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T00-19-16-834481Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T01-20-44-859573Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-15 23:30:30 | [Couchbase.OperationalInsightsClient](https://www.nuget.org/packages/Couchbase.OperationalInsightsClient) | 1.0.0 | Couchbase, Inc. | The Official Couchbase OperationalInsights .NET SDK |
-| 2026-10-15 23:35:00 | [OpenDebug.Net.linux-arm64](https://www.nuget.org/packages/OpenDebug.Net.linux-arm64) | 0.0.11 | OpenDebug.Net contributors | A fast Native AOT Debug Adapter Protocol server for live managed .NET processes. |
-| 2026-10-15 23:35:01 | [OpenDebug.Net.osx-arm64](https://www.nuget.org/packages/OpenDebug.Net.osx-arm64) | 0.0.11 | OpenDebug.Net contributors | A fast Native AOT Debug Adapter Protocol server for live managed .NET processes. |
-| 2026-10-15 23:35:02 | [OpenDebug.Net.osx-x64](https://www.nuget.org/packages/OpenDebug.Net.osx-x64) | 0.0.11 | OpenDebug.Net contributors | A fast Native AOT Debug Adapter Protocol server for live managed .NET processes. |
-| 2026-10-15 23:35:03 | [OpenDebug.Net.win-arm64](https://www.nuget.org/packages/OpenDebug.Net.win-arm64) | 0.0.11 | OpenDebug.Net contributors | A fast Native AOT Debug Adapter Protocol server for live managed .NET processes. |
-| 2026-10-15 23:35:04 | [OpenDebug.Net.win-x64](https://www.nuget.org/packages/OpenDebug.Net.win-x64) | 0.0.11 | OpenDebug.Net contributors | A fast Native AOT Debug Adapter Protocol server for live managed .NET processes. |
-| 2026-10-15 23:42:53 | [DinaCSharp](https://www.nuget.org/packages/DinaCSharp) | 3.0.0 | LACOMBE Dominique | DinaCSharp est un framework développé par LACOMBE Dominique et réalisé à partir… |
-| 2026-10-15 23:46:16 | [Soenneker.HuggingFace.HttpClients](https://www.nuget.org/packages/Soenneker.HuggingFace.HttpClients) | 4.0.1 | Jake Soenneker | A thread-safe singleton HttpClient for HuggingFace's OpenAPI integration. |
-| 2026-10-15 23:48:20 | [Soenneker.HuggingFace.OpenApiClient](https://www.nuget.org/packages/Soenneker.HuggingFace.OpenApiClient) | 4.0.1 | Jake Soenneker | A generated OpenAPI client for the Hugging Face Hub API. |
-| 2026-10-16 00:04:36 | [PDFjet](https://www.nuget.org/packages/PDFjet) | 9.0.9 | PDFjet Software | Fast, dependency-free PDF generation: text in many scripts with TrueType and Op… |
+| 2026-10-16 00:39:07 | [DotCourier.Caching.Redis](https://www.nuget.org/packages/DotCourier.Caching.Redis) | 0.12.0 | Valossa515 | Redis lock for DotCourier's [Idempotent] requests: a duplicate runs once even w… |
+| 2026-10-16 00:42:30 | [MFT.LogFile](https://www.nuget.org/packages/MFT.LogFile) | 2026.10.1 | Eric R. Zimmerman | Parses NTFS $LogFile: restart areas, log record pages and NTFS log records (red… |
+| 2026-10-16 00:44:03 | [sts2-mcp](https://www.nuget.org/packages/sts2-mcp) | 0.1.0 | PixeliciousLLC | MCP server for testing Slay the Spire 2 mods: launch local co-op test copies, r… |
 
 ## Data source
 

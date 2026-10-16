@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-16T00:39:07.103Z,DotCourier.Caching.Redis,0.12.0,Valossa515,Redis lock for DotCourier's [Idempotent] requests: a duplicate runs once even when it reaches several application instances at the same time.
+2026-10-16T00:42:30.66Z,MFT.LogFile,2026.10.1,Eric R. Zimmerman,"Parses NTFS $LogFile: restart areas, log record pages and NTFS log records (redo/undo operations), with file records, attributes and index entries decoded"
+2026-10-16T00:44:03.363Z,sts2-mcp,0.1.0,PixeliciousLLC,"MCP server for testing Slay the Spire 2 mods: launch local co-op test copies, read game state, press buttons, run dev console commands, and inspect the game's code. Fan-made; not affiliated with Mega Crit."
