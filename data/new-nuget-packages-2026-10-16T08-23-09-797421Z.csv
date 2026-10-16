@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-16T07:44:33.88Z,Plugboard.Endpoints,0.1.0,Nouwan,Source-generated endpoint registration for ASP.NET Core minimal APIs
+2026-10-16T07:57:36.527Z,Tessio.Verifier.Core.Mdoc.Zk,0.21.0,Triple Down AB,"Zero knowledge age proof verification for Tessio.Verifier.Core.Mdoc: checks Longfellow (longfellow-libzk-v1) proofs of ISO 18013-5 mdoc presentations, as the EU age verification profile defines them, through Google's Longfellow ZK library. Linux x64."
+2026-10-16T08:16:24.033Z,YtSoft.Gmc.Core.Config,1.0.0,YtSoft,统一 Nacos 配置中心 SDK。业务服务引用后，从 Nacos 拉取 Database / Gateway / Middleware 三份配置并绑定为强类型选项，也可把服务实例注册到 Nacos。
