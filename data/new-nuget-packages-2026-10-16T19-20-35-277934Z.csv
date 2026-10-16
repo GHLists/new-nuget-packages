@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-16T18:21:44.59Z,CData.OracleHCM.EntityFrameworkCore10,26.0.9770,"CData Software, Inc.","Enables you to use standard drivers to connect to Oracle Fusion Cloud HCM objects. Just specify your credentials and access tables like Jobs, Tasks, Salaries, etc."
+2026-10-16T18:22:46.567Z,TSpec.Architecture.CSharp,1.0.0,Joakim Sigvald,Architecture rules on the code of a TSpec build: each project's source files and the types they declare
+2026-10-16T18:23:19.533Z,WoW2.Sdk.Beta.Be.Testing,10.0.67-beta,WoW Two,"WoW Two be sdk test helpers (beta-forever mono-lib) — assertions, fakes, Verify, WireMock, Testcontainers fixtures. Reference from test projects only."
+2026-10-16T18:23:22.367Z,WoW2.Sdk.Beta.Be.Data.Abstractions,10.0.67-beta,WoW Two,WoW Two be sdk data abstractions (beta-forever) — BCL-only entity/repository contracts and the Dapper connection seam (IDbConnectionFactory). Web-free so CLI tools can consume it without ASP.NET.
+2026-10-16T18:23:24.497Z,WoW2.Sdk.Beta.Be.Data.Migrations.Cli,10.0.67-beta,WoW Two,"Web-free SQL migrator CLI (`wow-migrate`) over the WoW Two be sdk bespoke migrator — status, apply (+--dry-run), new, promote, rollback, verify (+--repair) against a Postgres database."
+2026-10-16T18:24:02.74Z,CData.SAPBusinessWarehouse,26.0.9770,"CData Software, Inc.",The CData SAP Business Warehouse Data Provider allows you to connect to SAP Business Warehouse XMLA sources just like SQL tables. Just specify your credentials and access data from any SAP Business Warehouse source.
+2026-10-16T18:24:03.87Z,CData.SAPBusinessWarehouse.EntityFrameworkCore8,26.0.9770,"CData Software, Inc.",The CData SAP Business Warehouse Data Provider allows you to connect to SAP Business Warehouse XMLA sources just like SQL tables. Just specify your credentials and access data from any SAP Business Warehouse source.
+2026-10-16T18:24:05.063Z,CData.SAPBusinessWarehouse.EntityFrameworkCore10,26.0.9770,"CData Software, Inc.",The CData SAP Business Warehouse Data Provider allows you to connect to SAP Business Warehouse XMLA sources just like SQL tables. Just specify your credentials and access data from any SAP Business Warehouse source.
+2026-10-16T18:25:50.46Z,CData.Square.EntityFrameworkCore10,26.0.9770,"CData Software, Inc.",Enables you to use standard drivers to access the Square Connect API
+2026-10-16T18:39:01.207Z,UnicoreSoftwareSolutions.Base.Data,1.0.0,Unicore Software Solutions,Package Description
+2026-10-16T18:45:22.68Z,BorrowedTorch.UIDPGenerator,1.0.0,Pysarenko Vladyslav,Generates BorrowedTorch.UI dependency properties and style classes from .dpg files before every build.
+2026-10-16T18:50:02.077Z,UnicoreSoftwareSolutions.Base.Business,1.0.0,Unicore Software Solutions,Package Description
+2026-10-16T19:07:42.337Z,AkkaFsiMcpServer,1.4.2,AkkaFsiMcpServer,Package Description
+2026-10-16T19:08:16.673Z,AkkaFsiMcpServer.ProcSupervisorHost,1.571.101.400-win34,AkkaFsiMcpServer.ProcSupervisorHost,Package Description
