@@ -12,33 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 22:20 UTC
+## Latest list — 2026-10-16 23:19 UTC
 
-New packages created between 2026-10-16 21:21 UTC and 2026-10-16 22:20 UTC.
+New packages created between 2026-10-16 22:20 UTC and 2026-10-16 23:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T22-20-25-333203Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T23-19-58-161582Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-16 21:25:05 | [Dock.Avalonia.AvalonDock](https://www.nuget.org/packages/Dock.Avalonia.AvalonDock) | 12.1.0.11 | Wiesław Šoltés | AvalonDock API adapters backed by Dock's Avalonia models and controls. |
-| 2026-10-16 21:28:26 | [Jakar.Spans](https://www.nuget.org/packages/Jakar.Spans) | 10.1.0 | Tyler Stegmaier | Dependency-free, allocation-free span primitives: ValueStringBuilder (UTF-16),… |
-| 2026-10-16 21:28:26 | [DTree.Encoding](https://www.nuget.org/packages/DTree.Encoding) | 1.5.0 | Enis Olgac | DTree: incremental encoding of directed trees by two projections (Q1, Q2) with… |
-| 2026-10-16 21:33:22 | [NMX.SudokuGen.Cli.any](https://www.nuget.org/packages/NMX.SudokuGen.Cli.any) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:23 | [NMX.SudokuGen.Cli.linux-arm64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.linux-arm64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:24 | [NMX.SudokuGen.Cli.linux-x64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.linux-x64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:25 | [NMX.SudokuGen.Cli.osx-arm64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.osx-arm64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:26 | [NMX.SudokuGen.Cli.osx-x64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.osx-x64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:28 | [NMX.SudokuGen.Cli.win-arm64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.win-arm64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:29 | [NMX.SudokuGen.Cli.win-x64](https://www.nuget.org/packages/NMX.SudokuGen.Cli.win-x64) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:30 | [NMX.SudokuGen.Cli.win-x86](https://www.nuget.org/packages/NMX.SudokuGen.Cli.win-x86) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:33:31 | [NMX.SudokuGen.Cli](https://www.nuget.org/packages/NMX.SudokuGen.Cli) | 1.1.1 | AnimaxNeil | Sudoku generator and solver for the command line: the sudokugen tool creates, s… |
-| 2026-10-16 21:41:14 | [Jakar.Json](https://www.nuget.org/packages/Jakar.Json) | 10.1.0 | Tyler Stegmaier | A reflection-free, allocation-free JSON serializer: [JsonModel] source-generate… |
-| 2026-10-16 21:45:25 | [NovaUI.WinForms](https://www.nuget.org/packages/NovaUI.WinForms) | 1.0.0 | FALAH FATHEL | Modern WinForms control library with 9,000+ embedded icons across 26 icon packs… |
-| 2026-10-16 21:47:50 | [AzureStorage.QueueService.Blobs](https://www.nuget.org/packages/AzureStorage.QueueService.Blobs) | 3.1.0 | Unifinity Software Corporation | Sends Azure Storage queue messages over the 64 KiB limit by keeping their bodie… |
-| 2026-10-16 21:47:51 | [AzureStorage.QueueService.HealthChecks](https://www.nuget.org/packages/AzureStorage.QueueService.HealthChecks) | 3.1.0 | Unifinity Software Corporation | ASP.NET Core health checks for AzureStorage.QueueService: one that reports whet… |
-| 2026-10-16 21:48:31 | [Zyga.HikIsapiClient](https://www.nuget.org/packages/Zyga.HikIsapiClient) | 0.1.0 | Szymon Zywert | A Hikvision ISAPI client with Serilog logging, session management, and DI integ… |
-| 2026-10-16 21:49:49 | [CloudySkySoftware.Pulumi.TailscaleNative](https://www.nuget.org/packages/CloudySkySoftware.Pulumi.TailscaleNative) | 0.2.0 | Cloudy Sky Software | A native Pulumi package for creating and managing Tailscale resources. |
-| 2026-10-16 21:54:07 | [Jakar.Json.AspNetCore](https://www.nuget.org/packages/Jakar.Json.AspNetCore) | 10.1.0 | Tyler Stegmaier | Jakar.Json as ASP.NET Core's JSON serializer for [JsonModel] types: MVC input/o… |
+| 2026-10-16 22:26:38 | [PlatformHeads.WindowsForms](https://www.nuget.org/packages/PlatformHeads.WindowsForms) | 0.3.0 | https://github.com/SimonCropp… | The WinForms shell of an app with one head per platform: a form pumped by the a… |
+| 2026-10-16 22:30:41 | [mcpmysite](https://www.nuget.org/packages/mcpmysite) | 0.1.2 | Amir Pournasserian | Command-line indexer: crawls a website and builds a search index for the MCP my… |
+| 2026-10-16 22:41:09 | [PostSharp.Testing.AspectTesting](https://www.nuget.org/packages/PostSharp.Testing.AspectTesting) | 2027.0.5-preview | PostSharp Technologies | A test framework for PostSharp aspects, based on xunit.v3: each source file of… |
+| 2026-10-16 22:50:46 | [MSTKit.MigrationRunner](https://www.nuget.org/packages/MSTKit.MigrationRunner) | 1.0.1 | MSTbat | A beautiful, Enterprise-grade standalone FluentMigrator runner powered by Spect… |
+| 2026-10-16 22:52:22 | [Org.Cdk8s.Plus37](https://www.nuget.org/packages/Org.Cdk8s.Plus37) | 2.0.0 | Amazon Web Services | cdk8s+ is a software development framework that provides high level abstraction… |
+| 2026-10-16 22:58:28 | [Gravicode.Science.SciNet](https://www.nuget.org/packages/Gravicode.Science.SciNet) | 1.2.0 | Gravicode Studios | SciNet - SciPy for .NET: special functions, optimisation, integration and ODEs,… |
+| 2026-10-16 23:00:34 | [Shubbak.Ipc](https://www.nuget.org/packages/Shubbak.Ipc) | 0.11.0 | Moaid Hathot | Talk to the Shubbak tiling window manager over its named pipe: send commands an… |
+| 2026-10-16 23:04:27 | [Budiff.Avalonia](https://www.nuget.org/packages/Budiff.Avalonia) | 0.1.0 | budiff contributors | Avalonia side-by-side diff control for budiff. |
+| 2026-10-16 23:04:28 | [Budiff.Avalonia.Markdown](https://www.nuget.org/packages/Budiff.Avalonia.Markdown) | 0.1.0 | budiff contributors | Markdown preview (formatted, with changes marked) for Budiff.Avalonia. |
+| 2026-10-16 23:04:29 | [Budiff.Avalonia.TextMate](https://www.nuget.org/packages/Budiff.Avalonia.TextMate) | 0.1.0 | budiff contributors | TextMate syntax highlighter for Budiff.Avalonia. |
+| 2026-10-16 23:04:30 | [Budiff.Core](https://www.nuget.org/packages/Budiff.Core) | 0.1.0 | budiff contributors | Pure diff engine and binary/size policy for budiff. |
+| 2026-10-16 23:04:32 | [budiff.any](https://www.nuget.org/packages/budiff.any) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:33 | [budiff.linux-arm64](https://www.nuget.org/packages/budiff.linux-arm64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:35 | [budiff.linux-musl-arm64](https://www.nuget.org/packages/budiff.linux-musl-arm64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:36 | [budiff.linux-musl-x64](https://www.nuget.org/packages/budiff.linux-musl-x64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:37 | [budiff.linux-x64](https://www.nuget.org/packages/budiff.linux-x64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:39 | [budiff.osx-arm64](https://www.nuget.org/packages/budiff.osx-arm64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:40 | [budiff.osx-x64](https://www.nuget.org/packages/budiff.osx-x64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:42 | [budiff.win-arm64](https://www.nuget.org/packages/budiff.win-arm64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:44 | [budiff.win-x64](https://www.nuget.org/packages/budiff.win-x64) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:04:45 | [budiff](https://www.nuget.org/packages/budiff) | 0.1.0 | budiff contributors | ls for diffs: a folder-scoped terminal diff viewer. |
+| 2026-10-16 23:06:13 | [ConvoGen.SDK](https://www.nuget.org/packages/ConvoGen.SDK) | 0.0.3 | ConvoGen | Runtime SDK for executing ConvoGen conversation graphs (CVG v1 archives) in .NE… |
+| 2026-10-16 23:10:14 | [RequestFlow](https://www.nuget.org/packages/RequestFlow) | 1.0.0 | Illia Filippov | Request/handler mediator for .NET with Task and ValueTask dispatch, startup val… |
+| 2026-10-16 23:10:14 | [RequestFlow.Abstractions](https://www.nuget.org/packages/RequestFlow.Abstractions) | 1.0.0 | Illia Filippov | Contracts for RequestFlow Task and ValueTask requests, handlers, stages, stream… |
+| 2026-10-16 23:10:14 | [RequestFlow.Cqrs](https://www.nuget.org/packages/RequestFlow.Cqrs) | 1.0.0 | Illia Filippov | Type-enforced CQRS for RequestFlow with Task and ValueTask command/query dispat… |
+| 2026-10-16 23:10:15 | [RequestFlow.Cqrs.Abstractions](https://www.nuget.org/packages/RequestFlow.Cqrs.Abstractions) | 1.0.0 | Illia Filippov | CQRS contracts for RequestFlow Task and ValueTask commands and queries, stream… |
 
 ## Data source
 

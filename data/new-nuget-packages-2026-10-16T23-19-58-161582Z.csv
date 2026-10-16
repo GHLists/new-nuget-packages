@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-10-16T22:26:38.847Z,PlatformHeads.WindowsForms,0.3.0,https://github.com/SimonCropp/PlatformHeads/graphs/contributors,"The WinForms shell of an app with one head per platform: a form pumped by the app's own frame loop, which idles on the message queue, hides rather than closes, opens where it was left, and keeps frames coming inside user32's modal loops."
+2026-10-16T22:30:41.577Z,mcpmysite,0.1.2,Amir Pournasserian,Command-line indexer: crawls a website and builds a search index for the MCP my site server.
+2026-10-16T22:41:09.803Z,PostSharp.Testing.AspectTesting,2027.0.5-preview,PostSharp Technologies,"A test framework for PostSharp aspects, based on xunit.v3: each source file of the test project is a test, which is compiled, woven, verified and executed."
+2026-10-16T22:50:46.127Z,MSTKit.MigrationRunner,1.0.1,MSTbat,"A beautiful, Enterprise-grade standalone FluentMigrator runner powered by Spectre.Console."
+2026-10-16T22:52:22.643Z,Org.Cdk8s.Plus37,2.0.0,Amazon Web Services,cdk8s+ is a software development framework that provides high level abstractions for authoring Kubernetes applications. cdk8s-plus-37 synthesizes Kubernetes manifests for Kubernetes 1.37.0 (Stability: Stable)
+2026-10-16T22:58:28.2Z,Gravicode.Science.SciNet,1.2.0,Gravicode Studios,"SciNet - SciPy for .NET: special functions, optimisation, integration and ODEs, interpolation, statistics, signal processing, FFT, sparse matrices and solvers, spatial algorithms, clustering, n-dimensional image processing, physical constants and scientific file formats. Dibuat oleh Gravicode Studi…"
+2026-10-16T23:00:34.743Z,Shubbak.Ipc,0.11.0,Moaid Hathot,"Talk to the Shubbak tiling window manager over its named pipe: send commands and queries, subscribe to its events, hold a context, read a signal. The protocol and its client, with no other dependency."
+2026-10-16T23:04:27.533Z,Budiff.Avalonia,0.1.0,budiff contributors,Avalonia side-by-side diff control for budiff.
+2026-10-16T23:04:28.623Z,Budiff.Avalonia.Markdown,0.1.0,budiff contributors,"Markdown preview (formatted, with changes marked) for Budiff.Avalonia."
+2026-10-16T23:04:29.713Z,Budiff.Avalonia.TextMate,0.1.0,budiff contributors,TextMate syntax highlighter for Budiff.Avalonia.
+2026-10-16T23:04:30.703Z,Budiff.Core,0.1.0,budiff contributors,Pure diff engine and binary/size policy for budiff.
+2026-10-16T23:04:32.16Z,budiff.any,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:33.667Z,budiff.linux-arm64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:35.02Z,budiff.linux-musl-arm64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:36.49Z,budiff.linux-musl-x64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:37.88Z,budiff.linux-x64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:39.283Z,budiff.osx-arm64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:40.52Z,budiff.osx-x64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:42.293Z,budiff.win-arm64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:44.653Z,budiff.win-x64,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:04:45.807Z,budiff,0.1.0,budiff contributors,ls for diffs: a folder-scoped terminal diff viewer.
+2026-10-16T23:06:13.2Z,ConvoGen.SDK,0.0.3,ConvoGen,"Runtime SDK for executing ConvoGen conversation graphs (CVG v1 archives) in .NET, Unity, and Godot."
+2026-10-16T23:10:14.13Z,RequestFlow,1.0.0,Illia Filippov,"Request/handler mediator for .NET with Task and ValueTask dispatch, startup validation, application-defined validation rules, stages, streaming, events, and frozen dispatch plans. MIT, with no compiler plugin or generated dispatch code."
+2026-10-16T23:10:14.47Z,RequestFlow.Abstractions,1.0.0,Illia Filippov,"Contracts for RequestFlow Task and ValueTask requests, handlers, stages, streaming, events, dispatch, and startup validation rules. Reference this from domain and application layers without taking the runtime."
+2026-10-16T23:10:14.78Z,RequestFlow.Cqrs,1.0.0,Illia Filippov,"Type-enforced CQRS for RequestFlow with Task and ValueTask command/query dispatchers, stream-query dispatch, and startup validation through AddCqrs. Includes the RequestFlow runtime."
+2026-10-16T23:10:15.1Z,RequestFlow.Cqrs.Abstractions,1.0.0,Illia Filippov,"CQRS contracts for RequestFlow Task and ValueTask commands and queries, stream queries, handlers, and typed dispatchers. Reference this from domain and application layers without taking the runtime."
