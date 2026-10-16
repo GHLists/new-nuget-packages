@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-16T01:26:34.837Z,RevitTestHost.Sdk,0.1.0,mahach666,SDK with attributes and contracts for writing tests that run inside live Revit via RevitTestHost.
+2026-10-16T01:26:36.1Z,RevitUITesting,0.1.0,mahach666,"Library for end-to-end UI tests of Revit plugins: UI Automation waits and actions, step log, configuration, failure artifacts. Runs outside the Revit process and does not reference the Revit API."
+2026-10-16T01:31:09.657Z,SyntaxCircus.Seo.Analysis.Yoast,0.1.0,Syntax Circus LLC,Server-side Yoast companion client for SyntaxCircus SEO analysis.
+2026-10-16T01:43:52.917Z,Afic.Minimal,2026.10.32,nuoyi.cc,Minimal components for Afic.Net
+2026-10-16T01:43:55.547Z,Afic.Minimal.Generator,2026.10.32,nuoyi.cc,Minimal components for Afic.Net
+2026-10-16T01:43:58.333Z,Afic.MinimalHost,2026.10.32,nuoyi.cc,Minimal components for Afic.Net
+2026-10-16T01:54:24.27Z,OSK.Petra.Acquisitions,0.1.0,BlankDev117,"Provides a system that handles acquiring things in an application or game - that is, handling data such as tech upgrades, tech trees, unit purchasing, queue/build system, and more."
+2026-10-16T01:54:36.033Z,VenEl.MCP.Decompiler,1.0.0,VenEl,Decompilation and binary code analysis module for VenEl MCP Assistant.
+2026-10-16T01:56:30.837Z,Mud.AI.Abstractions,1.0.0,Mud Studio,Mud.AI 平台无关端口与工具面契约：会话端口 / 授权链骨架端口 / 通道抽象 / 审批状态机接口；声明契约族（[AgentTool]/[ToolParameter]/[ToolHandler]，任何声明工具的程序集可见——CS0433 教训的产品族解法）；工具面引导契约（ISdkToolProfile/[SdkToolProfile]/SdkTokenKind/TokenKindDerivationStrategy/InterfaceIdentity，供 Mud.AI.Generator 引擎按剖面驱动发现）。v2.3 自飞书 AI 族与组件仓 Mud.HttpUtils 中立化迁入。
+2026-10-16T01:56:31.497Z,Mud.AI.Generator,1.0.0,Mud Studio,Mud.AI 工具面源生成引擎（ToolSurface 竖井）：把 [SdkToolProfile] 剖面驱动的工具特性接口编译为「模型可调用工具」的全部编译期产物（Schema/golden、Args 解包器、域注册器、能力目录、guidance/affordance 资产）。v2.3 自组件仓 Mud.HttpUtils.Generator 迁入飞书仓（调优期仓内闭环，P3 上游化），命名空间 Mud.HttpUtils.* → Mud.AI.*。
+2026-10-16T01:56:32.15Z,Mud.AI.Agent,1.0.0,Mud Studio,Mud.AI 运行期：工具执行骨架区（ToolExecutor / ToolPagination / ToolDryRun / ToolResult / ToolApiOutcome / ToolResultPipeline / ToolErrorFactory / ToolErrorText / ToolErrorClassifier 等，v2.3 自 Mud.Feishu.AI.Tools 执行器层中立化上移——决策⑥「授权执行链尾两段：强类型直连 + 结果裁剪/错误回填」的承载）；会话管线 / 授权执行链骨架实现随 P1-H 移植。net8.0+ 原生 AOT 兼容。
+2026-10-16T01:59:02.533Z,Sacloud.Sdk.Shared,0.1.8,SAKURA internet Inc.,.NET Client for SAKURA Cloud Shared Routines
