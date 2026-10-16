@@ -12,40 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 14:19 UTC
+## Latest list — 2026-10-16 15:21 UTC
 
-New packages created between 2026-10-16 13:20 UTC and 2026-10-16 14:19 UTC.
+New packages created between 2026-10-16 14:19 UTC and 2026-10-16 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T14-19-44-760042Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T15-21-06-199202Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-16 13:24:56 | [AlphaAppTools.UsefulProvidersImpl](https://www.nuget.org/packages/AlphaAppTools.UsefulProvidersImpl) | 10.7.0 | AlphaAppTools | Providers that put an injectable interface in front of BCL statics so tests can… |
-| 2026-10-16 13:27:40 | [TimeTug.Engine](https://www.nuget.org/packages/TimeTug.Engine) | 1.6.3 | Binary Companion | The TimeTug engine (calendar sources, takeover scheduling, duplicate detection)… |
-| 2026-10-16 13:48:01 | [SimplArchive.ModuleAbi](https://www.nuget.org/packages/SimplArchive.ModuleAbi) | 1.18.0 | Hebel Consulting | The contract industry modules build against: registration, mask seeding, facts,… |
-| 2026-10-16 13:48:10 | [XUnitAssured.Camunda.Testcontainers](https://www.nuget.org/packages/XUnitAssured.Camunda.Testcontainers) | 6.27.1 | Carlos Andrew Costa Bezerra | Starts Camunda 8.10 inside dotnet test for XUnitAssured.Camunda: CamundaContain… |
-| 2026-10-16 13:56:44 | [Frida.NET.Runtime.linux-arm32](https://www.nuget.org/packages/Frida.NET.Runtime.linux-arm32) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:45 | [Frida.NET.Runtime.linux-mips64](https://www.nuget.org/packages/Frida.NET.Runtime.linux-mips64) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:47 | [Frida.NET.Runtime.linux-x86](https://www.nuget.org/packages/Frida.NET.Runtime.linux-x86) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:51 | [Frida.NET.Runtime.linux-arm64](https://www.nuget.org/packages/Frida.NET.Runtime.linux-arm64) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:52 | [Frida.NET.Runtime.osx-x64](https://www.nuget.org/packages/Frida.NET.Runtime.osx-x64) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:54 | [Frida.NET.Runtime.osx-arm64](https://www.nuget.org/packages/Frida.NET.Runtime.osx-arm64) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:56 | [Frida.NET.Runtime.win-x86](https://www.nuget.org/packages/Frida.NET.Runtime.win-x86) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:56:58 | [Frida.NET.Runtime.linux-x64](https://www.nuget.org/packages/Frida.NET.Runtime.linux-x64) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:57:04 | [Frida.NET.Runtime.win-arm64](https://www.nuget.org/packages/Frida.NET.Runtime.win-arm64) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 13:57:04 | [Frida.NET](https://www.nuget.org/packages/Frida.NET) | 17.24.0 | Frida Developers | Package Description |
-| 2026-10-16 14:00:23 | [GeminiToApi](https://www.nuget.org/packages/GeminiToApi) | 26.10.6868 | theolivenbaum | Local OpenAI-, Claude- and Gemini-compatible API server backed by the Gemini we… |
-| 2026-10-16 14:01:27 | [Soenneker.Locks.Files](https://www.nuget.org/packages/Soenneker.Locks.Files) | 4.0.1 | Jake Soenneker | Cross-process filesystem locking with disposable leases. |
-| 2026-10-16 14:06:02 | [BqLog](https://www.nuget.org/packages/BqLog) | 2.7.0 | Tencent | Lightweight, high-performance, cross-language logging library. |
-| 2026-10-16 14:06:27 | [SimplArchive.Keys](https://www.nuget.org/packages/SimplArchive.Keys) | 0.1.0 | Hebel Consulting | Open CMS envelopes with a PIV hardware key: an APDU-level PIV session, RSA key… |
-| 2026-10-16 14:07:13 | [KeelMatrix.FixtureVault](https://www.nuget.org/packages/KeelMatrix.FixtureVault) | 0.1.0 | KeelMatrix | Audit snapshot and golden files for stale artifacts, leaked secrets, orphaned b… |
-| 2026-10-16 14:10:38 | [Plugin.Maui.Spine.AI](https://www.nuget.org/packages/Plugin.Maui.Spine.AI) | 0.1.15 | Jonatan Söderberg | AI in a Spine app without keys in the app: one IChatClient per named feature th… |
-| 2026-10-16 14:10:41 | [Plugin.Maui.Spine.Authentication.Google](https://www.nuget.org/packages/Plugin.Maui.Spine.Authentication.Google) | 0.1.15 | Jonatan Söderberg | Sign in with Google for a Spine app: Credential Manager's own sheet on Android,… |
-| 2026-10-16 14:10:45 | [Plugin.Maui.Spine.Biometrics](https://www.nuget.org/packages/Plugin.Maui.Spine.Biometrics) | 0.1.15 | Jonatan Söderberg | Face ID, Touch ID, Android biometrics and Windows Hello for .NET MAUI: IBiometr… |
-| 2026-10-16 14:10:57 | [Plugin.Maui.Spine.Controls.Voice](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Voice) | 0.1.15 | Jonatan Söderberg | VoiceView for Spine.Voice: a voice conversation drawn as it happens, with SkiaS… |
-| 2026-10-16 14:11:06 | [Plugin.Maui.Spine.Server.AI.Assets](https://www.nuget.org/packages/Plugin.Maui.Spine.Server.AI.Assets) | 0.1.15 | Jonatan Söderberg | Generated images for Spine's server, made once and served from blob storage: a… |
-| 2026-10-16 14:11:10 | [Plugin.Maui.Spine.Server.Messaging.AzureStorage](https://www.nuget.org/packages/Plugin.Maui.Spine.Server.Messaging.AzureStorage) | 0.1.15 | Jonatan Söderberg | Azure Storage for Spine messaging: Storage Queues as the simple, cheap transpor… |
-| 2026-10-16 14:11:14 | [Plugin.Maui.Spine.Voice](https://www.nuget.org/packages/Plugin.Maui.Spine.Voice) | 0.1.15 | Jonatan Söderberg | Voice for Spine apps: a full-duplex audio engine with the platform's echo cance… |
+| 2026-10-16 14:22:30 | [Activout.DatabaseClient.Extensions.DependencyInjection](https://www.nuget.org/packages/Activout.DatabaseClient.Extensions.DependencyInjection) | 5.0.0-rc5 | Activout.DatabaseClient.Exten… | Microsoft.Extensions.DependencyInjection extensions for Activout.DatabaseClient. |
+| 2026-10-16 14:22:31 | [Activout.DatabaseClient.Dapper.Extensions.DependencyInjection](https://www.nuget.org/packages/Activout.DatabaseClient.Dapper.Extensions.DependencyInjection) | 5.0.0-rc5 | Activout.DatabaseClient.Dappe… | Microsoft.Extensions.DependencyInjection extensions for Activout.DatabaseClient… |
+| 2026-10-16 14:29:35 | [NWERP.ControleOperacional](https://www.nuget.org/packages/NWERP.ControleOperacional) | 1.0.1 | NWERP.ControleOperacional | Protocolo e admissão coordenada dos processos NWERP. |
+| 2026-10-16 14:34:50 | [Engarde.Testing](https://www.nuget.org/packages/Engarde.Testing) | 1.0.0 | Artem Ovechko | Compile-time generated guard overrides for Engarde tests. |
+| 2026-10-16 14:41:47 | [En-Garde](https://www.nuget.org/packages/En-Garde) | 1.0.0 | Artem Ovechko | En garde! Prepare your code to guard against unwanted access. Put feature toggl… |
+| 2026-10-16 14:41:48 | [En-Garde.Testing](https://www.nuget.org/packages/En-Garde.Testing) | 1.0.0 | Artem Ovechko | Compile-time generated guard overrides for Engarde tests. |
+| 2026-10-16 14:55:33 | [Aiursoft.NiBot.Archive](https://www.nuget.org/packages/Aiursoft.NiBot.Archive) | 10.0.1 | Aiursoft.NiBot.Archive | Incremental image archiving into existing visual categories. |
+| 2026-10-16 15:09:45 | [BorrowedTorch.ECS](https://www.nuget.org/packages/BorrowedTorch.ECS) | 1.0.0 | Vladyslav Pysarenko | A small, dependency-free entity component system: generational entity handles,… |
 
 ## Data source
 

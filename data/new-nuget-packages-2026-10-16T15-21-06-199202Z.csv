@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-16T14:22:30.29Z,Activout.DatabaseClient.Extensions.DependencyInjection,5.0.0-rc5,Activout.DatabaseClient.Extensions.DependencyInjection,Microsoft.Extensions.DependencyInjection extensions for Activout.DatabaseClient.
+2026-10-16T14:22:31.03Z,Activout.DatabaseClient.Dapper.Extensions.DependencyInjection,5.0.0-rc5,Activout.DatabaseClient.Dapper.Extensions.DependencyInjection,Microsoft.Extensions.DependencyInjection extensions for Activout.DatabaseClient.Dapper.
+2026-10-16T14:29:35.87Z,NWERP.ControleOperacional,1.0.1,NWERP.ControleOperacional,Protocolo e admissão coordenada dos processos NWERP.
+2026-10-16T14:34:50.66Z,Engarde.Testing,1.0.0,Artem Ovechko,Compile-time generated guard overrides for Engarde tests.
+2026-10-16T14:41:47.81Z,En-Garde,1.0.0,Artem Ovechko,"En garde! Prepare your code to guard against unwanted access. Put feature toggles (flags) guards anywhere in the code: class, method, property or field. Engarde compiles feature toggle names into attributes and injectable services. Reuse toggle guards configured once with Engarde. Define failed tog…"
+2026-10-16T14:41:48.303Z,En-Garde.Testing,1.0.0,Artem Ovechko,Compile-time generated guard overrides for Engarde tests.
+2026-10-16T14:55:33.86Z,Aiursoft.NiBot.Archive,10.0.1,Aiursoft.NiBot.Archive,Incremental image archiving into existing visual categories.
+2026-10-16T15:09:45.41Z,BorrowedTorch.ECS,1.0.0,Vladyslav Pysarenko,"A small, dependency-free entity component system: generational entity handles, sparse-set component stores packed for cache-friendly iteration, by-reference queries over one to three component types, and type-erased access for editors and tooling."
