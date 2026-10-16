@@ -12,25 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 12:22 UTC
+## Latest list — 2026-10-16 13:20 UTC
 
-New packages created between 2026-10-16 11:21 UTC and 2026-10-16 12:22 UTC.
+New packages created between 2026-10-16 12:22 UTC and 2026-10-16 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-16T12-22-23-518711Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-16T13-20-09-30912Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-16 11:30:37 | [Termina.Demo.Inline](https://www.nuget.org/packages/Termina.Demo.Inline) | 0.17.0 | Aaron Stannard | Reactive terminal UI (TUI) framework for .NET with custom ANSI rendering, MVVM… |
-| 2026-10-16 11:40:07 | [MAFUtils.Tools](https://www.nuget.org/packages/MAFUtils.Tools) | 0.5.1 | Dean Chalk | Offline inspection of names, descriptions and input schemas for Microsoft.Exten… |
-| 2026-10-16 11:45:06 | [KeelMatrix.LogSchema](https://www.nuget.org/packages/KeelMatrix.LogSchema) | 0.1.0 | KeelMatrix | Detects breaking changes in source-generated .NET structured logging contracts.… |
-| 2026-10-16 11:46:01 | [Deidentify](https://www.nuget.org/packages/Deidentify) | 1.0.1 | Deidentify.NET contributors | A .NET port of Presidio: local, in-process PII and PHI detection and de-identif… |
-| 2026-10-16 11:46:04 | [Deidentify.Imaging](https://www.nuget.org/packages/Deidentify.Imaging) | 1.0.1 | Deidentify.NET contributors | Image, PDF and DICOM redaction for Deidentify.NET, the .NET port of Presidio: l… |
-| 2026-10-16 11:46:35 | [SGuard.AspNetCore](https://www.nuget.org/packages/SGuard.AspNetCore) | 1.0.0 | Selçuk Güral | Returns SGuard guard failures from ASP.NET Core as 400 Bad Request validation p… |
-| 2026-10-16 12:00:12 | [ErinnTask](https://www.nuget.org/packages/ErinnTask) | 1.0.0 | Molth Nevin | Lightweight task-like asynchronous primitives and timer scheduling for .NET. |
-| 2026-10-16 12:08:33 | [BTDB.LSM](https://www.nuget.org/packages/BTDB.LSM) | 35.11.3-preview | Boris Letocha | Log-structured merge tree implementation of the BTDB key value database stored… |
-| 2026-10-16 12:08:36 | [BTDB.LSM.Azure](https://www.nuget.org/packages/BTDB.LSM.Azure) | 35.11.3-preview | Boris Letocha | Azure Blob Storage adapter for BTDB.LSM. |
-| 2026-10-16 12:13:03 | [Xeniorn.ProcessTools](https://www.nuget.org/packages/Xeniorn.ProcessTools) | 0.1.0 | Juraj Ahel | Cross-platform (Windows, Linux) process monitoring: select processes by PID, na… |
-| 2026-10-16 12:13:03 | [Xeniorn.ProcessTools.Persistence.Sqlite](https://www.nuget.org/packages/Xeniorn.ProcessTools.Persistence.Sqlite) | 0.1.0 | Juraj Ahel | SQLite storage for Xeniorn.ProcessTools: an EF Core DbContext designed to be in… |
+| 2026-10-16 12:24:17 | [DigitalWonderlab.Licensing](https://www.nuget.org/packages/DigitalWonderlab.Licensing) | 1.0.0 | Digital Wonderlab | Offline licence checking for Digital Wonderlab packages: verifies RSA-signed li… |
+| 2026-10-16 12:24:45 | [Benevia.Core.Automation](https://www.nuget.org/packages/Benevia.Core.Automation) | 0.10.3 | Benevia Software | Triggers and subscribers: queue background work when business records change. |
+| 2026-10-16 12:30:53 | [libfabric.win-x64](https://www.nuget.org/packages/libfabric.win-x64) | 2.6.13.107 | Intel Corporation | libfabric libfabric |
+| 2026-10-16 12:32:03 | [libfabric.linux-x64](https://www.nuget.org/packages/libfabric.linux-x64) | 2.6.13.112 | Intel Corporation | libfabric libfabric |
+| 2026-10-16 12:45:46 | [Coworkee.Workflows.Elsa.Studio](https://www.nuget.org/packages/Coworkee.Workflows.Elsa.Studio) | 0.0.1.28 | fgilde | Elsa Studio, the visual workflow designer, as an app of its own that signs in a… |
+| 2026-10-16 12:45:58 | [Polhem.Api.Server](https://www.nuget.org/packages/Polhem.Api.Server) | 1.7.0 | Polhem contributors | The server side of the Polhem JSON-RPC API: the dispatcher setup, the access an… |
+| 2026-10-16 12:46:13 | [Polhem.UI.ApiBridge](https://www.nuget.org/packages/Polhem.UI.ApiBridge) | 1.7.0 | Polhem contributors | Connects Polhem front ends to a Polhem backend: the client connection state and… |
+| 2026-10-16 12:47:44 | [deppoc.linux-arm64](https://www.nuget.org/packages/deppoc.linux-arm64) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 12:47:54 | [deppoc.linux-x64](https://www.nuget.org/packages/deppoc.linux-x64) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 12:48:01 | [deppoc.osx-arm64](https://www.nuget.org/packages/deppoc.osx-arm64) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 12:48:09 | [deppoc.osx-x64](https://www.nuget.org/packages/deppoc.osx-x64) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 12:48:19 | [deppoc.win-arm64](https://www.nuget.org/packages/deppoc.win-arm64) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 12:48:29 | [deppoc.win-x64](https://www.nuget.org/packages/deppoc.win-x64) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 12:48:30 | [deppoc](https://www.nuget.org/packages/deppoc) | 0.0.1 | Roman Jámbor | Unsafe experimental tool. Do not use. |
+| 2026-10-16 13:01:26 | [BoustrophedonDotnetWrapper](https://www.nuget.org/packages/BoustrophedonDotnetWrapper) | 0.1.3 | BoustrophedonDotnetWrapper | Cartesian coverage paths using the Boustrophedon C core. Linux x64. |
 
 ## Data source
 

@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-16T12:24:17.563Z,DigitalWonderlab.Licensing,1.0.0,Digital Wonderlab,"Offline licence checking for Digital Wonderlab packages: verifies RSA-signed licence keys against a public key built into each package, with no network calls. Installed automatically as a dependency; you do not need to reference it yourself."
+2026-10-16T12:24:45.633Z,Benevia.Core.Automation,0.10.3,Benevia Software,Triggers and subscribers: queue background work when business records change.
+2026-10-16T12:30:53.293Z,libfabric.win-x64,2.6.13.107,Intel Corporation,libfabric libfabric
+2026-10-16T12:32:03.293Z,libfabric.linux-x64,2.6.13.112,Intel Corporation,libfabric libfabric
+2026-10-16T12:45:46.78Z,Coworkee.Workflows.Elsa.Studio,0.0.1.28,fgilde,"Elsa Studio, the visual workflow designer, as an app of its own that signs in at the Coworkee auth server."
+2026-10-16T12:45:58.96Z,Polhem.Api.Server,1.7.0,Polhem contributors,"The server side of the Polhem JSON-RPC API: the dispatcher setup, the access and payload filters, API key and authorization checks, and the exception mapping."
+2026-10-16T12:46:13.713Z,Polhem.UI.ApiBridge,1.7.0,Polhem contributors,Connects Polhem front ends to a Polhem backend: the client connection state and the API-backed implementations of the Polhem.UI.Core services.
+2026-10-16T12:47:44.24Z,deppoc.linux-arm64,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T12:47:54.523Z,deppoc.linux-x64,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T12:48:01.687Z,deppoc.osx-arm64,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T12:48:09.333Z,deppoc.osx-x64,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T12:48:19.323Z,deppoc.win-arm64,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T12:48:29.347Z,deppoc.win-x64,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T12:48:30.697Z,deppoc,0.0.1,Roman Jámbor,Unsafe experimental tool. Do not use.
+2026-10-16T13:01:26.153Z,BoustrophedonDotnetWrapper,0.1.3,BoustrophedonDotnetWrapper,Cartesian coverage paths using the Boustrophedon C core. Linux x64.
