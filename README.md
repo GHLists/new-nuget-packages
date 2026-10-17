@@ -12,35 +12,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 21:20 UTC
+## Latest list — 2026-10-17 22:20 UTC
 
-New packages created between 2026-10-17 20:18 UTC and 2026-10-17 21:20 UTC.
+New packages created between 2026-10-17 21:20 UTC and 2026-10-17 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T21-20-41-760724Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T22-20-17-209675Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 20:20:33 | [Neomoth.RTLogging](https://www.nuget.org/packages/Neomoth.RTLogging) | 1.0.1 | neomoth | Hierarchical, named "sawmill" loggers built on Serilog, with console and file h… |
-| 2026-10-17 20:21:14 | [SaneTui.Sane](https://www.nuget.org/packages/SaneTui.Sane) | 0.1.0 | Mark Parker | Scan from .NET on Linux through SANE, the scanner framework most Linux scanner… |
-| 2026-10-17 20:25:32 | [PaperDoll.Core](https://www.nuget.org/packages/PaperDoll.Core) | 1.0.0 | Rathinosk | Engine-free 2D puppet runtime: loads Inochi2D INP1 puppets (.inp, .inx). |
-| 2026-10-17 20:25:33 | [PaperDoll.MonoGame](https://www.nuget.org/packages/PaperDoll.MonoGame) | 1.0.0 | Rathinosk | Draws PaperDoll puppets through MonoGame (DesktopGL or WindowsDX). |
-| 2026-10-17 20:25:33 | [PaperDoll.FNA](https://www.nuget.org/packages/PaperDoll.FNA) | 1.0.0 | Rathinosk | Draws PaperDoll puppets through FNA. |
-| 2026-10-17 20:26:30 | [IBeam.Management](https://www.nuget.org/packages/IBeam.Management) | 2.15.0 | MedPACTech | Reusable IBeam management contracts. |
-| 2026-10-17 20:26:30 | [IBeam.Management.Api](https://www.nuget.org/packages/IBeam.Management.Api) | 2.15.0 | MedPACTech | Reusable IBeam management API endpoints. |
-| 2026-10-17 20:26:31 | [IBeam.Management.Diagnostics.Api](https://www.nuget.org/packages/IBeam.Management.Diagnostics.Api) | 2.15.0 | MedPACTech | Reusable IBeam management API endpoints. |
-| 2026-10-17 20:26:31 | [IBeam.Management.Identity.Api](https://www.nuget.org/packages/IBeam.Management.Identity.Api) | 2.15.0 | MedPACTech | Optional support-only Identity HTTP and JWT authentication adapter. |
-| 2026-10-17 20:26:32 | [IBeam.Management.Identity.Services](https://www.nuget.org/packages/IBeam.Management.Identity.Services) | 2.15.0 | MedPACTech | Optional isolated IBeam Identity integration for management hosts. |
-| 2026-10-17 20:26:32 | [IBeam.Management.Repositories.AzureTable](https://www.nuget.org/packages/IBeam.Management.Repositories.AzureTable) | 2.15.0 | MedPACTech | Entity-focused Azure Table repositories for IBeam Management. |
-| 2026-10-17 20:26:33 | [IBeam.Management.Secrets.AzureKeyVault](https://www.nuget.org/packages/IBeam.Management.Secrets.AzureKeyVault) | 2.15.0 | MedPACTech | Optional Azure Key Vault secret store for IBeam Management connections. |
-| 2026-10-17 20:26:33 | [IBeam.Management.Services](https://www.nuget.org/packages/IBeam.Management.Services) | 2.15.0 | MedPACTech | Reusable IBeam management services. |
-| 2026-10-17 20:27:31 | [VetCore.Bdpm](https://www.nuget.org/packages/VetCore.Bdpm) | 0.1.0 | VetCoreSolution | Modèles immutables et lecture des cinq fichiers structurés de la Base de donnée… |
-| 2026-10-17 20:39:13 | [Flare.Components.Gantt](https://www.nuget.org/packages/Flare.Components.Gantt) | 0.45.0 | FrigaT | Flare Gantt timeline for the Flare Blazor component library: task trees, resour… |
-| 2026-10-17 20:39:40 | [MusicTheory.Guitar.Blazor](https://www.nuget.org/packages/MusicTheory.Guitar.Blazor) | 1.7.0 | phmatray | Blazor add-on for MusicTheory.Guitar: light chord playback (plucked-string Web… |
-| 2026-10-17 20:40:34 | [Patware.Diagnostics.ApplicationEvents.Core](https://www.nuget.org/packages/Patware.Diagnostics.ApplicationEvents.Core) | 0.0.1 | Patware | Package Description |
-| 2026-10-17 20:40:35 | [Patware.Diagnostics.ApplicationEvents.Hosting](https://www.nuget.org/packages/Patware.Diagnostics.ApplicationEvents.Hosting) | 0.0.1 | Patware | Automatic application lifecycle events for the .NET Generic Host. |
-| 2026-10-17 20:54:32 | [Bfs.Seed.Extension](https://www.nuget.org/packages/Bfs.Seed.Extension) | 0.7.0 | Black Forest Sentinel | Update-Endpunkt für selbst gehostete Browser-Erweiterungen (Edge, Chrome) in Se… |
-| 2026-10-17 21:00:28 | [AllFromZero.Core](https://www.nuget.org/packages/AllFromZero.Core) | 0.0.3 | AllFromZero | AllFromZero.Core是一个通用的C#库，基于.net开发 |
-| 2026-10-17 21:06:28 | [aweXpect.Snapshots](https://www.nuget.org/packages/aweXpect.Snapshots) | 0.2.0 | aweXpect | Snapshot testing for aweXpect. |
+| 2026-10-17 21:23:53 | [Oadm.Sdk.Client](https://www.nuget.org/packages/Oadm.Sdk.Client) | 3.5.0 | OADM contributors | The client plugin SDK of OADM: dialogs, pages, toolbar entries and the shared A… |
+| 2026-10-17 21:23:54 | [Oadm.Tools](https://www.nuget.org/packages/Oadm.Tools) | 3.5.0 | OADM contributors | The oadm command for OADM plugin developers: a development server, deploy and d… |
+| 2026-10-17 21:23:54 | [Oadm.Plugin.Sdk](https://www.nuget.org/packages/Oadm.Plugin.Sdk) | 3.5.0 | OADM contributors | MSBuild project SDK for OADM plugins: references, plugin.json and the plugin fo… |
+| 2026-10-17 21:23:54 | [Oadm.Sdk.Testing](https://www.nuget.org/packages/Oadm.Sdk.Testing) | 3.5.0 | OADM contributors | Test helpers for OADM plugins: a fake camera, device and the server's plugin co… |
+| 2026-10-17 21:23:54 | [Oadm.Sdk](https://www.nuget.org/packages/Oadm.Sdk) | 3.5.0 | OADM contributors | The plugin SDK of OADM (Open AXIS Device Management): task plugins, core plugin… |
+| 2026-10-17 21:23:55 | [Oadm.Plugin.Templates](https://www.nuget.org/packages/Oadm.Plugin.Templates) | 3.5.0 | OADM contributors | Templates for OADM plugins: a task with a dialog, a page, an event rule action,… |
+| 2026-10-17 21:24:18 | [LJShole.Mediator](https://www.nuget.org/packages/LJShole.Mediator) | 0.1.1 | Lehlohonolo Jairus Shole | An implementation of the mediator design pattern. |
+| 2026-10-17 21:27:19 | [OpenPX.Sdk](https://www.nuget.org/packages/OpenPX.Sdk) | 0.0.1 | OpenPX | OpenPX SDK (early release): the OpenPX schema for describing products once and… |
+| 2026-10-17 21:27:20 | [OpenPX.Cli](https://www.nuget.org/packages/OpenPX.Cli) | 0.0.1 | OpenPX | OpenPX command line (early release). |
+| 2026-10-17 21:27:21 | [OpenPX](https://www.nuget.org/packages/OpenPX) | 0.0.1 | OpenPX | OpenPX (early release): brings in the OpenPX SDK. Install the openpx command wi… |
+| 2026-10-17 21:27:22 | [Starlings.Acquisition](https://www.nuget.org/packages/Starlings.Acquisition) | 0.2.0 | StarlingHq | Explicit, verified acquisition of model assets: downloads the files of an immut… |
+| 2026-10-17 21:27:23 | [Starlings.Runtime.Onnx](https://www.nuget.org/packages/Starlings.Runtime.Onnx) | 0.2.0 | StarlingHq | ONNX Runtime session ownership, execution-provider validation and diagnostics f… |
+| 2026-10-17 21:27:23 | [Starlings.Generation.OnnxGenAI](https://www.nuget.org/packages/Starlings.Generation.OnnxGenAI) | 0.2.0 | StarlingHq | Text generation on ONNX Runtime GenAI 0.17.1 behind a Starling adapter: model l… |
+| 2026-10-17 21:27:24 | [Starlings.Models.E5](https://www.nuget.org/packages/Starlings.Models.E5) | 0.2.0 | StarlingHq | intfloat/multilingual-e5-small (revision 614241f6) sentence embeddings on ONNX… |
+| 2026-10-17 21:27:24 | [Starlings.Models.Gliner2](https://www.nuget.org/packages/Starlings.Models.Gliner2) | 0.2.0 | StarlingHq | fastino/gliner2-base-v1 (revision f9634218, GLiNER2 2.0.0) English entity extra… |
+| 2026-10-17 21:27:25 | [Starlings.Models.EmbeddingGemma2](https://www.nuget.org/packages/Starlings.Models.EmbeddingGemma2) | 0.2.0 | StarlingHq | google/embeddinggemma-2 (revision 914f7f89) text and image embeddings on ONNX R… |
+| 2026-10-17 21:27:26 | [Starlings.Models.Qwen35](https://www.nuget.org/packages/Starlings.Models.Qwen35) | 0.2.0 | StarlingHq | Qwen/Qwen3.5-0.8B (revision 2fc06364) chat generation in-process on ONNX Runtim… |
+| 2026-10-17 21:27:26 | [Starlings.Models.E5.Extensions.AI](https://www.nuget.org/packages/Starlings.Models.E5.Extensions.AI) | 0.2.0 | StarlingHq | Microsoft.Extensions.AI IEmbeddingGenerator<string, Embedding<float>> over the… |
+| 2026-10-17 21:27:27 | [Starlings.Models.E5.MLNet](https://www.nuget.org/packages/Starlings.Models.E5.MLNet) | 0.2.0 | StarlingHq | ML.NET estimator and transformer for the multilingual-e5-small text embedder (S… |
+| 2026-10-17 21:27:28 | [Starlings.Models.EmbeddingGemma2.Extensions.AI](https://www.nuget.org/packages/Starlings.Models.EmbeddingGemma2.Extensions.AI) | 0.2.0 | StarlingHq | Microsoft.Extensions.AI IEmbeddingGenerator<string, Embedding<float>> over the… |
+| 2026-10-17 21:27:28 | [Starlings.Models.EmbeddingGemma2.Imaging.SkiaSharp](https://www.nuget.org/packages/Starlings.Models.EmbeddingGemma2.Imaging.SkiaSharp) | 0.2.0 | StarlingHq | Decodes image files and streams (PNG, JPEG, GIF, BMP and WebP experimental; GIF… |
+| 2026-10-17 21:27:29 | [Starlings.Models.EmbeddingGemma2.MLNet](https://www.nuget.org/packages/Starlings.Models.EmbeddingGemma2.MLNet) | 0.2.0 | StarlingHq | ML.NET estimator and transformer for the EmbeddingGemma 2 text embedder (Starli… |
+| 2026-10-17 21:27:30 | [Starlings.Models.EmbeddingGemma2.Video.FFmpeg](https://www.nuget.org/packages/Starlings.Models.EmbeddingGemma2.Video.FFmpeg) | 0.2.0 | StarlingHq | Decodes video files and streams into Starlings.Models.EmbeddingGemma2 videos th… |
+| 2026-10-17 21:27:31 | [Starlings.Models.EmbeddingGemma2.Video.FFmpeg9](https://www.nuget.org/packages/Starlings.Models.EmbeddingGemma2.Video.FFmpeg9) | 0.2.0 | StarlingHq | The FFmpeg 9 counterpart of Starlings.Models.EmbeddingGemma2.Video.FFmpeg: deco… |
+| 2026-10-17 21:27:32 | [Starlings.Models.Qwen35.Extensions.AI](https://www.nuget.org/packages/Starlings.Models.Qwen35.Extensions.AI) | 0.2.0 | StarlingHq | Microsoft.Extensions.AI IChatClient over the Qwen/Qwen3.5-0.8B chat model (Star… |
+| 2026-10-17 21:28:12 | [SpiceLogic.HtmlEditor.Avalonia](https://www.nuget.org/packages/SpiceLogic.HtmlEditor.Avalonia) | 1.0.0 | SpiceLogic Inc. | Rich HTML editing for Avalonia desktop applications. |
+| 2026-10-17 21:35:15 | [Bielu.AspNetCore.AsyncApi.Scalar.Broker](https://www.nuget.org/packages/Bielu.AspNetCore.AsyncApi.Scalar.Broker) | 1.4.0 | Arkadiusz Biel | Interactive message-broker console for the Scalar API Reference in ASP.NET Core… |
+| 2026-10-17 21:35:16 | [Bielu.AspNetCore.AsyncApi.Scalar.Broker.Kafka](https://www.nuget.org/packages/Bielu.AspNetCore.AsyncApi.Scalar.Broker.Kafka) | 1.4.0 | Arkadiusz Biel | Kafka driver for the interactive Scalar broker console. Lets the console publis… |
+| 2026-10-17 21:35:16 | [Bielu.AspNetCore.ApiDescriptions](https://www.nuget.org/packages/Bielu.AspNetCore.ApiDescriptions) | 1.4.0 | Arkadiusz Biel | Shared build-time document generation for the Bielu API-description packages. L… |
+| 2026-10-17 21:41:37 | [Ravn.Dotnet.DeepClean](https://www.nuget.org/packages/Ravn.Dotnet.DeepClean) | 0.4.0 | Henrik Ravn | Command-line tool for really cleaning .NET project directories. |
+| 2026-10-17 21:43:20 | [Atypical.Kaldor](https://www.nuget.org/packages/Atypical.Kaldor) | 1.0.0 | Atypical Consulting | Intent/code review guard for Claude Code: no agent commit enters the repository… |
+| 2026-10-17 22:12:39 | [NetPace.win-x64](https://www.nuget.org/packages/NetPace.win-x64) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
+| 2026-10-17 22:12:39 | [NetPace.win-arm64](https://www.nuget.org/packages/NetPace.win-arm64) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
+| 2026-10-17 22:12:41 | [NetPace.linux-x64](https://www.nuget.org/packages/NetPace.linux-x64) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
+| 2026-10-17 22:12:42 | [NetPace.linux-arm64](https://www.nuget.org/packages/NetPace.linux-arm64) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
+| 2026-10-17 22:12:42 | [NetPace.osx-x64](https://www.nuget.org/packages/NetPace.osx-x64) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
+| 2026-10-17 22:12:43 | [NetPace.osx-arm64](https://www.nuget.org/packages/NetPace.osx-arm64) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
+| 2026-10-17 22:12:44 | [NetPace](https://www.nuget.org/packages/NetPace) | 0.28.0-rc1 | Frank Ray | Cross-platform network speed testing CLI. Measures latency, download and upload… |
 
 ## Data source
 
