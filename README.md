@@ -12,28 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 12:20 UTC
+## Latest list — 2026-10-17 13:21 UTC
 
-New packages created between 2026-10-17 11:19 UTC and 2026-10-17 12:20 UTC.
+New packages created between 2026-10-17 12:20 UTC and 2026-10-17 13:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T12-20-30-857359Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T13-21-37-022996Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 11:24:54 | [aweXpect.Xml](https://www.nuget.org/packages/aweXpect.Xml) | 0.1.1 | aweXpect | Expectations for XML for aweXpect. |
-| 2026-10-17 11:25:57 | [Vericairn.Daemon](https://www.nuget.org/packages/Vericairn.Daemon) | 0.7.1 | Jason Furr | The Vericairn daemon host: one process owns one open estate and serves the vers… |
-| 2026-10-17 11:25:58 | [Vericairn.Mcp](https://www.nuget.org/packages/Vericairn.Mcp) | 0.7.1 | Jason Furr | A Model Context Protocol server over the Vericairn API: a client adapter that e… |
-| 2026-10-17 11:25:59 | [Vericairn.Protocol](https://www.nuget.org/packages/Vericairn.Protocol) | 0.7.1 | Jason Furr | The versioned Vericairn API contract: operations, requests, responses, state la… |
-| 2026-10-17 11:26:00 | [Vericairn.Records](https://www.nuget.org/packages/Vericairn.Records) | 0.7.1 | Jason Furr | Vericairn record format: canonical JSON, identifiers, hashing, validation and e… |
-| 2026-10-17 11:26:01 | [Vericairn.Runtime](https://www.nuget.org/packages/Vericairn.Runtime) | 0.7.1 | Jason Furr | Vericairn runtime: the live store, content-addressed objects, storage profiles,… |
-| 2026-10-17 11:26:02 | [Vericairn.Sdk](https://www.nuget.org/packages/Vericairn.Sdk) | 0.7.1 | Jason Furr | The typed client of the Vericairn API over a local socket, a named pipe or pinn… |
-| 2026-10-17 11:32:40 | [SyntaxCircus.Maui.AgeAssurance](https://www.nuget.org/packages/SyntaxCircus.Maui.AgeAssurance) | 0.1.0 | Syntax Circus LLC | Platform age signals for MAUI apps on iOS (Apple Declared Age Range) and Androi… |
-| 2026-10-17 11:38:01 | [LMSupply.Decider](https://www.nuget.org/packages/LMSupply.Decider) | 0.125.0 | iyulab | Typed decisions for .NET from a local model: give a state and named questions (… |
-| 2026-10-17 11:42:47 | [RoarUI](https://www.nuget.org/packages/RoarUI) | 1.0.0 | Blazor School | RoarUI is a Blazor component library for .NET 10 built on WebAwesome, with stro… |
-| 2026-10-17 11:46:14 | [aweXpect.Logging](https://www.nuget.org/packages/aweXpect.Logging) | 0.1.1 | aweXpect | Expectations for logging with Microsoft.Extensions.Logging for aweXpect. |
-| 2026-10-17 11:54:21 | [JamesTryand.DotnetCqrs.Retention](https://www.nuget.org/packages/JamesTryand.DotnetCqrs.Retention) | 0.31.0 | James Tryand | Governed erasure for dotnetcqrs, opt-in: a request to erase a data subject is h… |
-| 2026-10-17 11:54:30 | [SharpDeps.Cli](https://www.nuget.org/packages/SharpDeps.Cli) | 0.2.0 | SharpDeps.Cli | Explicit trusted indexing and saved graph queries for SharpDeps. |
-| 2026-10-17 11:54:31 | [SharpDeps.Mcp](https://www.nuget.org/packages/SharpDeps.Mcp) | 0.2.0 | SharpDeps.Mcp | Optional stdio adapter for SharpDeps saved Query and explicitly trusted updates. |
+| 2026-10-17 12:35:47 | [RodriOliveira.AdrGuard.Mcp](https://www.nuget.org/packages/RodriOliveira.AdrGuard.Mcp) | 1.0.0 | Rodrigo de Oliveira | Expose bounded, read-only Architecture Decision Record discovery, validation, i… |
+| 2026-10-17 12:39:28 | [VL.AdvancedGlassWindow](https://www.nuget.org/packages/VL.AdvancedGlassWindow) | 1.0.0 | murxylink; torinos-yt | Transparent Stride and Skia windows for vvvv gamma 7.4. Includes SceneWindow (G… |
+| 2026-10-17 12:39:38 | [cheqi-sdk](https://www.nuget.org/packages/cheqi-sdk) | 3.0.0 | Cheqi | Official .NET SDK for Cheqi - End-to-end encrypted digital receipt processing |
+| 2026-10-17 12:45:06 | [Mpgsql.Protocol](https://www.nuget.org/packages/Mpgsql.Protocol) | 1.0.0 | Belov Ilya and contributors | Minimalistic standalone PostgreSQL protocol 3.0 message codecs, binary type con… |
+| 2026-10-17 12:45:23 | [WpfDesignGuard.Cli](https://www.nuget.org/packages/WpfDesignGuard.Cli) | 0.2.1 | WpfDesignGuard contributors | WpfDesignGuard governance CLI: dual-layer ratchet gate (hard-zero domains + glo… |
+| 2026-10-17 12:45:23 | [WpfDesignGuard.Analyzers](https://www.nuget.org/packages/WpfDesignGuard.Analyzers) | 0.2.1 | WpfDesignGuard contributors | WPF design-system violations at compile time: XAML incremental generator consum… |
+| 2026-10-17 12:45:24 | [WpfDesignGuard.Core](https://www.nuget.org/packages/WpfDesignGuard.Core) | 0.2.1 | WpfDesignGuard contributors | WpfDesignGuard rule engine: XAML model parsing, designguard.json model, exempti… |
+| 2026-10-17 12:53:38 | [GerardSmit.FtpServer.Sockets](https://www.nuget.org/packages/GerardSmit.FtpServer.Sockets) | 0.0.1 | Gerard Smit | Raw-socket hosting for GerardSmit.FtpServer.Core, as an IHostedService. |
+| 2026-10-17 12:53:38 | [GerardSmit.FtpServer.Core](https://www.nuget.org/packages/GerardSmit.FtpServer.Core) | 0.0.1 | Gerard Smit | FTP(S) server protocol implementation for .NET: commands, sessions, data connec… |
+| 2026-10-17 12:53:39 | [GerardSmit.FtpServer.Kestrel](https://www.nuget.org/packages/GerardSmit.FtpServer.Kestrel) | 0.0.1 | Gerard Smit | Kestrel hosting for GerardSmit.FtpServer.Core: serve FTP from an ASP.NET Core a… |
+| 2026-10-17 12:58:38 | [Prowl.Graphite.Debugger](https://www.nuget.org/packages/Prowl.Graphite.Debugger) | 3.8.0 | Prowl Contributors | Records Graphite graph executions into a serializable trace and replays them do… |
+| 2026-10-17 12:58:42 | [Prowl.Prism](https://www.nuget.org/packages/Prowl.Prism) | 3.8.0 | Prowl Contributors | A GLSL to SPIR-V compiler for the Prowl engine. Parses GLSL (preprocessor, toke… |
+| 2026-10-17 13:01:23 | [EluciusFTW.SpectreTuff.Elmish](https://www.nuget.org/packages/EluciusFTW.SpectreTuff.Elmish) | 0.14.14 | Guy Buss, Daniel Muckelbauer | Run Elmish applications on SpectreTuff: key and tick subscriptions, terminal se… |
+| 2026-10-17 13:01:47 | [Corvo.Nfse](https://www.nuget.org/packages/Corvo.Nfse) | 0.1.1 | Corvo Technology | .NET SDK for the Corvo NFS-e API: issue Brazilian service invoices, calculate t… |
 
 ## Data source
 
