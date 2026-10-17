@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-17T18:21:26.79Z,Hexalith.McpCli.Abstractions,1.0.0,Hexalith Contributors,Attributes and naming helpers for declaring Hexalith agent operations.
+2026-10-17T18:38:22.127Z,Zwergenland.CleanMessageBus.Hosting,1.0.0,Florian Königsmann,"Minimal-API-style event handler registration, consume/publish pipelines and built-in OpenTelemetry instrumentation for CleanMessageBus."
+2026-10-17T18:52:01.693Z,Anybox,0.9.0,ethereal,"one API for the most popular passthrough boxes, over the anybox C ABI"
+2026-10-17T19:04:57.643Z,DirectUpload.Blazor,0.1.0,Sjoerd Lemmen,"Blazor side of BlazorDirectUpload: uploads large files from the browser straight to S3-compatible storage via presigned multipart URLs. The bytes never touch the .NET server or WASM memory. Works in WebAssembly, Server and Auto render modes."
+2026-10-17T19:04:58.237Z,DirectUpload.Server,0.1.0,Sjoerd Lemmen,"Server side of BlazorDirectUpload: minimal-API endpoints that orchestrate presigned S3 multipart uploads (AWS S3, Cloudflare R2, MinIO, Backblaze B2, Wasabi) so large files go straight from the browser to object storage."
+2026-10-17T19:05:47.72Z,Lokad.Svg,0.1.0,Lokad,A pure managed SVG to PNG renderer for .NET.
