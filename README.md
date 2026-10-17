@@ -12,28 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 10:20 UTC
+## Latest list — 2026-10-17 11:19 UTC
 
-New packages created between 2026-10-17 09:20 UTC and 2026-10-17 10:20 UTC.
+New packages created between 2026-10-17 10:20 UTC and 2026-10-17 11:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T10-20-58-277084Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T11-19-58-817025Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 09:20:55 | [MisarPost](https://www.nuget.org/packages/MisarPost) | 1.0.0 | Misar.AI | .NET client for MisarPost's social publishing API: schedule and publish posts a… |
-| 2026-10-17 09:36:01 | [Micser.Audio](https://www.nuget.org/packages/Micser.Audio) | 0.19.0 | Lucas Loreggia | The plugin SDK of Micser, an audio router for Windows and Linux: audio modules,… |
-| 2026-10-17 09:50:06 | [TraceX.AspNetCore](https://www.nuget.org/packages/TraceX.AspNetCore) | 1.0.1 | TraceX | Official TraceX ASP.NET Core middleware and exception boundary SDK for real-tim… |
-| 2026-10-17 09:50:07 | [TraceX.Core](https://www.nuget.org/packages/TraceX.Core) | 1.0.1 | TraceX | Core client and protocol engine for TraceX telemetry, exception tracking, and c… |
-| 2026-10-17 09:55:53 | [monosmith.osx-x64](https://www.nuget.org/packages/monosmith.osx-x64) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 09:55:54 | [monosmith.osx-arm64](https://www.nuget.org/packages/monosmith.osx-arm64) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 09:55:54 | [monosmith.linux-x64](https://www.nuget.org/packages/monosmith.linux-x64) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 09:55:55 | [monosmith.linux-arm64](https://www.nuget.org/packages/monosmith.linux-arm64) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 09:55:56 | [monosmith.win-x64](https://www.nuget.org/packages/monosmith.win-x64) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 09:55:56 | [monosmith.win-arm64](https://www.nuget.org/packages/monosmith.win-arm64) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 09:55:57 | [monosmith](https://www.nuget.org/packages/monosmith) | 1.3.1 | monosmith-app | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 10:00:47 | [Arc56.Generated.algorandfoundation.algosdk-future-ts](https://www.nuget.org/packages/Arc56.Generated.algorandfoundation.algosdk-future-ts) | 1.0.1.2026101709 | algorandfoundation | Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algosdk… |
-| 2026-10-17 10:01:56 | [Hua.Sort](https://www.nuget.org/packages/Hua.Sort) | 1.0.0 | isHuaMouRen | C# implementation of various sorting algorithms |
-| 2026-10-17 10:15:48 | [MadeIt.PixelArt](https://www.nuget.org/packages/MadeIt.PixelArt) | 0.1.0 | TamKungZ_ <dev@tamkungz.me> | Managed .NET binding for the madeitpx pixel-art image conversion library. |
+| 2026-10-17 10:27:36 | [CarroKV](https://www.nuget.org/packages/CarroKV) | 0.1.0 | mcxiaoke | Cross-platform, strictly deterministic embedded Key-Value database conforming t… |
+| 2026-10-17 10:37:30 | [PinataLabs.ImageSharp](https://www.nuget.org/packages/PinataLabs.ImageSharp) | 2.1.14 | Pinata Labs | A fully managed, cross-platform 2D graphics library for .NET. A community fork… |
+| 2026-10-17 10:38:02 | [SSOIntegration](https://www.nuget.org/packages/SSOIntegration) | 1.1.21 | Westren Eadge | SSO Integration package for easy implementation |
+| 2026-10-17 10:43:10 | [com.IvanMurzak.Brutal.MCP](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP) | 0.1.0 | Ivan Murzak | AI Game Developer (MCP) plugin for games built on the BRUTAL C# framework: runs… |
+| 2026-10-17 10:43:11 | [com.IvanMurzak.Brutal.MCP.ImGui](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.ImGui) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.ImGui: pumps BrutalMcp.Tick() from an ImG… |
+| 2026-10-17 10:43:13 | [com.IvanMurzak.Brutal.MCP.Glfw](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Glfw) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Glfw: exposes GLFW windows (title, positi… |
+| 2026-10-17 10:43:17 | [com.IvanMurzak.Brutal.MCP.Sdl](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Sdl) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Sdl: exposes the SDL windows of the game… |
+| 2026-10-17 10:43:19 | [com.IvanMurzak.Brutal.MCP.Jolt](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Jolt) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Jolt: exposes live Jolt physics to AI age… |
+| 2026-10-17 10:43:20 | [com.IvanMurzak.Brutal.MCP.Box2D](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Box2D) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Box2D: exposes live Box2D physics to AI a… |
+| 2026-10-17 10:43:22 | [com.IvanMurzak.Brutal.MCP.Fmod](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Fmod) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Fmod: FMOD Studio (banks, events, live in… |
+| 2026-10-17 10:43:23 | [com.IvanMurzak.Brutal.MCP.RakNet](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.RakNet) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.RakNet: RakNet peers and connections (pin… |
+| 2026-10-17 10:43:24 | [com.IvanMurzak.Brutal.MCP.Vma](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Vma) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Vulkan.Vma: Vulkan Memory Allocator (devi… |
+| 2026-10-17 10:43:25 | [com.IvanMurzak.Brutal.MCP.RenderDoc](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.RenderDoc) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.RenderDoc: RenderDoc in-application API (… |
+| 2026-10-17 10:51:22 | [TedToolkit.Specifications.Sql.PostgreSql](https://www.nuget.org/packages/TedToolkit.Specifications.Sql.PostgreSql) | 2026.10.17 | TedToolkit | PostgreSQL SQL translation of TedToolkit selections and specifications. |
+| 2026-10-17 10:51:22 | [TedToolkit.Specifications.Sql.Sqlite](https://www.nuget.org/packages/TedToolkit.Specifications.Sql.Sqlite) | 2026.10.17 | TedToolkit | SQLite SQL translation of TedToolkit selections and specifications. |
+| 2026-10-17 10:51:22 | [TedToolkit.Specifications](https://www.nuget.org/packages/TedToolkit.Specifications) | 2026.10.17 | TedToolkit | Composable business specifications with generated typed member selections and c… |
+| 2026-10-17 10:51:22 | [TedToolkit.Specifications.Sql](https://www.nuget.org/packages/TedToolkit.Specifications.Sql) | 2026.10.17 | TedToolkit | Parameterized SQLite and PostgreSQL translation of TedToolkit specifications. |
+| 2026-10-17 11:11:18 | [SharpCorePDF](https://www.nuget.org/packages/SharpCorePDF) | 1.0.0 | MPCoreDeveloper | The package to install: a dependency-injection first, domain-driven PDF library… |
+| 2026-10-17 11:11:18 | [SharpCorePDF.Application](https://www.nuget.org/packages/SharpCorePDF.Application) | 1.0.0 | MPCoreDeveloper | Application layer for SharpCorePDF: the merging and inspection use cases that o… |
+| 2026-10-17 11:11:18 | [SharpCorePDF.DependencyInjection](https://www.nuget.org/packages/SharpCorePDF.DependencyInjection) | 1.0.0 | MPCoreDeveloper | Microsoft.Extensions.DependencyInjection registration for SharpCorePDF: one Add… |
+| 2026-10-17 11:11:19 | [SharpCorePDF.Domain](https://www.nuget.org/packages/SharpCorePDF.Domain) | 1.0.0 | MPCoreDeveloper | Domain model and contracts for composing PDF documents: the immutable MergePlan… |
+| 2026-10-17 11:11:19 | [SharpCorePDF.Infrastructure](https://www.nuget.org/packages/SharpCorePDF.Infrastructure) | 1.0.0 | MPCoreDeveloper | Self-contained PDF engine for SharpCorePDF: reader (classic cross-reference tab… |
 
 ## Data source
 
