@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-10-17T20:20:33.223Z,Neomoth.RTLogging,1.0.1,neomoth,"Hierarchical, named ""sawmill"" loggers built on Serilog, with console and file handlers."
+2026-10-17T20:21:14.28Z,SaneTui.Sane,0.1.0,Mark Parker,"Scan from .NET on Linux through SANE, the scanner framework most Linux scanner drivers use. List scanners, read and set their options, scan a page or a whole document feeder, and get the pixels back. Calls libsane directly with no dependencies, and puts SANE's single-threaded, global-state design b…"
+2026-10-17T20:25:32.133Z,PaperDoll.Core,1.0.0,Rathinosk,"Engine-free 2D puppet runtime: loads Inochi2D INP1 puppets (.inp, .inx)."
+2026-10-17T20:25:33.12Z,PaperDoll.MonoGame,1.0.0,Rathinosk,Draws PaperDoll puppets through MonoGame (DesktopGL or WindowsDX).
+2026-10-17T20:25:33.903Z,PaperDoll.FNA,1.0.0,Rathinosk,Draws PaperDoll puppets through FNA.
+2026-10-17T20:26:30.037Z,IBeam.Management,2.15.0,MedPACTech,Reusable IBeam management contracts.
+2026-10-17T20:26:30.547Z,IBeam.Management.Api,2.15.0,MedPACTech,Reusable IBeam management API endpoints.
+2026-10-17T20:26:31.047Z,IBeam.Management.Diagnostics.Api,2.15.0,MedPACTech,Reusable IBeam management API endpoints.
+2026-10-17T20:26:31.543Z,IBeam.Management.Identity.Api,2.15.0,MedPACTech,Optional support-only Identity HTTP and JWT authentication adapter.
+2026-10-17T20:26:32.063Z,IBeam.Management.Identity.Services,2.15.0,MedPACTech,Optional isolated IBeam Identity integration for management hosts.
+2026-10-17T20:26:32.567Z,IBeam.Management.Repositories.AzureTable,2.15.0,MedPACTech,Entity-focused Azure Table repositories for IBeam Management.
+2026-10-17T20:26:33.093Z,IBeam.Management.Secrets.AzureKeyVault,2.15.0,MedPACTech,Optional Azure Key Vault secret store for IBeam Management connections.
+2026-10-17T20:26:33.63Z,IBeam.Management.Services,2.15.0,MedPACTech,Reusable IBeam management services.
+2026-10-17T20:27:31.333Z,VetCore.Bdpm,0.1.0,VetCoreSolution,Modèles immutables et lecture des cinq fichiers structurés de la Base de données publique des médicaments (BDPM).
+2026-10-17T20:39:13.587Z,Flare.Components.Gantt,0.45.0,FrigaT,"Flare Gantt timeline for the Flare Blazor component library: task trees, resource lanes and roadmaps on one time axis."
+2026-10-17T20:39:40.07Z,MusicTheory.Guitar.Blazor,1.7.0,phmatray,"Blazor add-on for MusicTheory.Guitar: light chord playback (plucked-string Web Audio, no WASM) for guitar voicings or any MIDI notes."
+2026-10-17T20:40:34.697Z,Patware.Diagnostics.ApplicationEvents.Core,0.0.1,Patware,Package Description
+2026-10-17T20:40:35.837Z,Patware.Diagnostics.ApplicationEvents.Hosting,0.0.1,Patware,Automatic application lifecycle events for the .NET Generic Host.
+2026-10-17T20:54:32.47Z,Bfs.Seed.Extension,0.7.0,Black Forest Sentinel,"Update-Endpunkt für selbst gehostete Browser-Erweiterungen (Edge, Chrome) in Sentinel-Seed-Projekten: updates.xml im gupdate-Format und signierte CRX-Pakete aus dem Container extension, wie die Seed-Pipeline sie veröffentlicht."
+2026-10-17T21:00:28.49Z,AllFromZero.Core,0.0.3,AllFromZero,AllFromZero.Core是一个通用的C#库，基于.net开发
+2026-10-17T21:06:28.117Z,aweXpect.Snapshots,0.2.0,aweXpect,Snapshot testing for aweXpect.
