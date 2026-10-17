@@ -12,30 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 16:19 UTC
+## Latest list — 2026-10-17 17:22 UTC
 
-New packages created between 2026-10-17 15:19 UTC and 2026-10-17 16:19 UTC.
+New packages created between 2026-10-17 16:19 UTC and 2026-10-17 17:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T16-19-50-314493Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T17-22-07-618882Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 15:30:19 | [Ybd.AbpLite.Jwt](https://www.nuget.org/packages/Ybd.AbpLite.Jwt) | 1.0.0 | ybd | ABP 模块：开箱即用的 JWT 签发与校验。过期时间可按秒/分/时/天/月/年配置，可通过继承 JwtModel 把自己的对象存进 token，不带任何用户… |
-| 2026-10-17 15:30:22 | [Ybd.AbpLite.Configuration](https://www.nuget.org/packages/Ybd.AbpLite.Configuration) | 1.0.0 | ybd | 把配置拆成多个 JSON 文件（例如 Configs/oss.json、Configs/pay.json）并自动加载：目录、文件、环境后缀都可配置，优先级正确… |
-| 2026-10-17 15:31:01 | [LithoSharp.CodeFixes](https://www.nuget.org/packages/LithoSharp.CodeFixes) | 2.0.0 | LithoSharp.CodeFixes | Conservative IDE fixes for generated LithoSharp page references. Requires the m… |
-| 2026-10-17 15:31:02 | [LithoSharp.Analyzers](https://www.nuget.org/packages/LithoSharp.Analyzers) | 2.0.0 | Htkym | Compiler-safe LithoSharp static API and HTML interpolation context diagnostics. |
-| 2026-10-17 15:32:15 | [fksegundo.Hangfire.Dashboard.JobSearch](https://www.nuget.org/packages/fksegundo.Hangfire.Dashboard.JobSearch) | 1.1.0 | fksegundo | Hangfire Dashboard extension: searchable, filterable, sortable job indexing wit… |
-| 2026-10-17 15:35:41 | [Hexalith.Works.Contracts](https://www.nuget.org/packages/Hexalith.Works.Contracts) | 1.0.1 | Hexalith Contributors | Stable Hexalith Works contract types for work item commands, events, query mode… |
-| 2026-10-17 15:35:43 | [Hexalith.Works.Server](https://www.nuget.org/packages/Hexalith.Works.Server) | 1.0.1 | Hexalith Contributors | Hexalith work item domain module for .NET |
-| 2026-10-17 15:35:45 | [Hexalith.Works.Projections](https://www.nuget.org/packages/Hexalith.Works.Projections) | 1.0.1 | Hexalith Contributors | Hexalith work item domain module for .NET |
-| 2026-10-17 15:35:46 | [Hexalith.Works.Reactor](https://www.nuget.org/packages/Hexalith.Works.Reactor) | 1.0.1 | Hexalith Contributors | Hexalith work item domain module for .NET |
-| 2026-10-17 15:35:48 | [Hexalith.Works.Testing](https://www.nuget.org/packages/Hexalith.Works.Testing) | 1.0.1 | Hexalith Contributors | Hexalith work item domain module for .NET |
-| 2026-10-17 15:42:44 | [Ybd.AbpLite.Template](https://www.nuget.org/packages/Ybd.AbpLite.Template) | 1.3.0 | ybd | ABP 8.3.4 分层后端脚手架（干净起步，不含用户 / 登录业务）：MySQL / SQL Server 可选，JWT（独立包 Ybd.AbpLite.J… |
-| 2026-10-17 15:57:41 | [Brows.Win32.STAThreadPool.Composition](https://www.nuget.org/packages/Brows.Win32.STAThreadPool.Composition) | 1.4.0 | Ken Yourek | Composition factory contract for a reusable single-threaded apartment thread po… |
-| 2026-10-17 15:57:42 | [Brows.Win32.STAThreadPool.Composition.Exports](https://www.nuget.org/packages/Brows.Win32.STAThreadPool.Composition.Exports) | 1.4.0 | Ken Yourek | The Windows factory for a reusable single-threaded apartment thread pool. The i… |
-| 2026-10-17 16:06:37 | [GameBanking](https://www.nuget.org/packages/GameBanking) | 0.5.0 | GameBanking | Server-side SDK for the Game Banking Engine API. |
-| 2026-10-17 16:10:08 | [reeutils](https://www.nuget.org/packages/reeutils) | 1.6.0 | reeutils | RE Engine pak and resource tooling, including an MCP server for AI coding assis… |
-| 2026-10-17 16:11:45 | [CodeBrix.LibGit2.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.LibGit2.MitLicenseForever) | 1.0.290.970 | Jeremy Ellis | A managed .NET wrapper around the libgit2 native Git library, with the native l… |
+| 2026-10-17 16:29:24 | [PictureSharp.Heif](https://www.nuget.org/packages/PictureSharp.Heif) | 0.5.0 | Artur Pelzak | HEIC/HEIF format plugin for PictureSharp, written entirely in C#. No native dep… |
+| 2026-10-17 16:36:58 | [Xapi.Core](https://www.nuget.org/packages/Xapi.Core) | 0.2.0 | Nurullah Türkoğlu | Experience API (xAPI 2.0, IEEE 9274.1.1, and 1.0.3) models for .NET: strict JSO… |
+| 2026-10-17 16:36:58 | [Xapi.Client](https://www.nuget.org/packages/Xapi.Client) | 0.2.0 | Nurullah Türkoğlu | Experience API (xAPI 2.0, IEEE 9274.1.1, and 1.0.3) client for .NET: Statements… |
+| 2026-10-17 16:36:59 | [Xapi.Lrs.PostgreSql](https://www.nuget.org/packages/Xapi.Lrs.PostgreSql) | 0.2.0 | Nurullah Türkoğlu | PostgreSQL storage for the Xapi.Lrs Learning Record Store: UsePostgreSql(connec… |
+| 2026-10-17 16:36:59 | [Xapi.Lrs.Sqlite](https://www.nuget.org/packages/Xapi.Lrs.Sqlite) | 0.2.0 | Nurullah Türkoğlu | SQLite storage for the Xapi.Lrs Learning Record Store: UseSqlite(connectionStri… |
+| 2026-10-17 16:36:59 | [Xapi.Client.Outbox](https://www.nuget.org/packages/Xapi.Client.Outbox) | 0.2.0 | Nurullah Türkoğlu | Durable outbox for Experience API (xAPI 2.0 and 1.0.3) statements on top of Xap… |
+| 2026-10-17 16:37:00 | [Xapi.Lrs](https://www.nuget.org/packages/Xapi.Lrs) | 0.2.0 | Nurullah Türkoğlu | An embeddable xAPI Learning Record Store (xAPI 2.0, IEEE 9274.1.1, and 1.0.3) f… |
+| 2026-10-17 16:44:49 | [Starlings.Tokenizers](https://www.nuget.org/packages/Starlings.Tokenizers) | 0.3.0 | StarlingHq | Managed .NET tokenizer for Hugging Face tokenizer.json files (format 1.0): Unig… |
+| 2026-10-17 16:46:07 | [SimplArchive.Cli](https://www.nuget.org/packages/SimplArchive.Cli) | 0.47.0 | saconsole | saconsole — administrative CLI for a SimplArchive installation: sign in, provis… |
+| 2026-10-17 17:03:23 | [NetAmpowering.AspNet](https://www.nuget.org/packages/NetAmpowering.AspNet) | 1.0.0 | Gaetan Delpierre | Zero-config OpenTelemetry APM for classic ASP.NET (WebForms and MVC 5) on .NET… |
+| 2026-10-17 17:06:07 | [NetAmpowering.AspNet.Mvc](https://www.nuget.org/packages/NetAmpowering.AspNet.Mvc) | 1.0.0 | Gaetan Delpierre | ASP.NET MVC 5 action tracing for the NetAmpowering APM. Registers a global filt… |
+| 2026-10-17 17:07:58 | [NetAmpowering.AspNet.WebApi](https://www.nuget.org/packages/NetAmpowering.AspNet.WebApi) | 1.0.0 | Gaetan Delpierre | ASP.NET Web API 2 action tracing for the NetAmpowering APM (.NET Framework 4.7.… |
+| 2026-10-17 17:08:39 | [NetAmpowering.AspNetCore](https://www.nuget.org/packages/NetAmpowering.AspNetCore) | 1.0.0 | Gaetan Delpierre | Codeless OpenTelemetry APM for ASP.NET Core (.NET 8) Web APIs, controllers and… |
+| 2026-10-17 17:09:25 | [NetAmpowering.Coverage](https://www.nuget.org/packages/NetAmpowering.Coverage) | 1.0.0 | Gaetan Delpierre | Fody IL weaver that instruments every .NET method at compile time for productio… |
+| 2026-10-17 17:09:59 | [NetAmpowering.Coverage.AspNet](https://www.nuget.org/packages/NetAmpowering.Coverage.AspNet) | 1.0.0 | Gaetan Delpierre | Starts NetAmpowering production code coverage in classic ASP.NET (.NET Framewor… |
+| 2026-10-17 17:10:35 | [NetAmpowering.Coverage.Core](https://www.nuget.org/packages/NetAmpowering.Coverage.Core) | 1.0.0 | Gaetan Delpierre | Host-agnostic runtime registry for NetAmpowering production code coverage (nets… |
+| 2026-10-17 17:11:10 | [NetAmpowering.Coverage.Runtime](https://www.nuget.org/packages/NetAmpowering.Coverage.Runtime) | 1.0.0 | Gaetan Delpierre | Runtime registry and OpenTelemetry/Prometheus exporter for production code cove… |
+| 2026-10-17 17:11:44 | [NetAmpowering.Observability](https://www.nuget.org/packages/NetAmpowering.Observability) | 1.0.0 | Gaetan Delpierre | Codeless OpenTelemetry instrumentation for Blazor Server. Automatic tracing for… |
+| 2026-10-17 17:12:33 | [NetAmpowering.Observability.Core](https://www.nuget.org/packages/NetAmpowering.Observability.Core) | 1.0.0 | Gaetan Delpierre | Host-agnostic core of the NetAmpowering APM (netstandard2.0, usable from .NET F… |
+| 2026-10-17 17:13:06 | [NetAmpowering.Observability.EntityFramework6](https://www.nuget.org/packages/NetAmpowering.Observability.EntityFramework6) | 1.0.0 | Gaetan Delpierre | OpenTelemetry tracing for Entity Framework 6 (.NET Framework 4.7.2+ and .NET 8)… |
+| 2026-10-17 17:13:27 | [NetAlign](https://www.nuget.org/packages/NetAlign) | 1.0.0 | NetAlign | Alignment analyzer and code fixer for dotnet format. |
+| 2026-10-17 17:14:10 | [NetAmpowering.Observability.NHibernate](https://www.nuget.org/packages/NetAmpowering.Observability.NHibernate) | 1.0.0 | Gaetan Delpierre | OpenTelemetry tracing for NHibernate 5.5+ (.NET Framework 4.7.2+ and .NET 8): o… |
 
 ## Data source
 
