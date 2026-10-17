@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-17T07:24:10.117Z,Drenalol.Telegram.Bot.Forms,1.0.0,Bogdan Yanysh,"Chat-first Telegram bot framework for Telegram.Bot: DI-scoped forms, per-chat navigation history with a Back action, paginated list forms, free-text commands, per-chat localization and BotFather profile sync."
+2026-10-17T07:27:43.99Z,SLVZ.CoreDb,1.0.0,SLVZ,"Embedded local database for .NET (net8.0+, Windows / Android / anything). No dependencies. Pages + B+Tree storage, attribute-based indexes, XOR-ed files, crash-safe (write-ahead log), thread-safe."
+2026-10-17T07:39:29.14Z,mGO.Log.Abstractions,1.0.0,MarioGO,Public contracts and immutable events for mGO.Log.
+2026-10-17T07:40:17.71Z,mGO.Log,1.0.0,MarioGO,Bounded asynchronous structured logging engine and rotating file sink for .NET 8.
+2026-10-17T07:40:29.76Z,mGO.Log.Extensions.Hosting,1.0.0,MarioGO,"Dependency injection, configuration and host lifecycle integration for mGO.Log."
