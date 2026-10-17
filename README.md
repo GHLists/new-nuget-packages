@@ -12,36 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:19 UTC
+## Latest list — 2026-10-17 12:20 UTC
 
-New packages created between 2026-10-17 10:20 UTC and 2026-10-17 11:19 UTC.
+New packages created between 2026-10-17 11:19 UTC and 2026-10-17 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T11-19-58-817025Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T12-20-30-857359Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 10:27:36 | [CarroKV](https://www.nuget.org/packages/CarroKV) | 0.1.0 | mcxiaoke | Cross-platform, strictly deterministic embedded Key-Value database conforming t… |
-| 2026-10-17 10:37:30 | [PinataLabs.ImageSharp](https://www.nuget.org/packages/PinataLabs.ImageSharp) | 2.1.14 | Pinata Labs | A fully managed, cross-platform 2D graphics library for .NET. A community fork… |
-| 2026-10-17 10:38:02 | [SSOIntegration](https://www.nuget.org/packages/SSOIntegration) | 1.1.21 | Westren Eadge | SSO Integration package for easy implementation |
-| 2026-10-17 10:43:10 | [com.IvanMurzak.Brutal.MCP](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP) | 0.1.0 | Ivan Murzak | AI Game Developer (MCP) plugin for games built on the BRUTAL C# framework: runs… |
-| 2026-10-17 10:43:11 | [com.IvanMurzak.Brutal.MCP.ImGui](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.ImGui) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.ImGui: pumps BrutalMcp.Tick() from an ImG… |
-| 2026-10-17 10:43:13 | [com.IvanMurzak.Brutal.MCP.Glfw](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Glfw) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Glfw: exposes GLFW windows (title, positi… |
-| 2026-10-17 10:43:17 | [com.IvanMurzak.Brutal.MCP.Sdl](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Sdl) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Sdl: exposes the SDL windows of the game… |
-| 2026-10-17 10:43:19 | [com.IvanMurzak.Brutal.MCP.Jolt](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Jolt) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Jolt: exposes live Jolt physics to AI age… |
-| 2026-10-17 10:43:20 | [com.IvanMurzak.Brutal.MCP.Box2D](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Box2D) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Box2D: exposes live Box2D physics to AI a… |
-| 2026-10-17 10:43:22 | [com.IvanMurzak.Brutal.MCP.Fmod](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Fmod) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Fmod: FMOD Studio (banks, events, live in… |
-| 2026-10-17 10:43:23 | [com.IvanMurzak.Brutal.MCP.RakNet](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.RakNet) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.RakNet: RakNet peers and connections (pin… |
-| 2026-10-17 10:43:24 | [com.IvanMurzak.Brutal.MCP.Vma](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.Vma) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.Vulkan.Vma: Vulkan Memory Allocator (devi… |
-| 2026-10-17 10:43:25 | [com.IvanMurzak.Brutal.MCP.RenderDoc](https://www.nuget.org/packages/com.IvanMurzak.Brutal.MCP.RenderDoc) | 0.1.0 | Ivan Murzak | Brutal-MCP extension for Ahwoo.BRUTAL.RenderDoc: RenderDoc in-application API (… |
-| 2026-10-17 10:51:22 | [TedToolkit.Specifications.Sql.PostgreSql](https://www.nuget.org/packages/TedToolkit.Specifications.Sql.PostgreSql) | 2026.10.17 | TedToolkit | PostgreSQL SQL translation of TedToolkit selections and specifications. |
-| 2026-10-17 10:51:22 | [TedToolkit.Specifications.Sql.Sqlite](https://www.nuget.org/packages/TedToolkit.Specifications.Sql.Sqlite) | 2026.10.17 | TedToolkit | SQLite SQL translation of TedToolkit selections and specifications. |
-| 2026-10-17 10:51:22 | [TedToolkit.Specifications](https://www.nuget.org/packages/TedToolkit.Specifications) | 2026.10.17 | TedToolkit | Composable business specifications with generated typed member selections and c… |
-| 2026-10-17 10:51:22 | [TedToolkit.Specifications.Sql](https://www.nuget.org/packages/TedToolkit.Specifications.Sql) | 2026.10.17 | TedToolkit | Parameterized SQLite and PostgreSQL translation of TedToolkit specifications. |
-| 2026-10-17 11:11:18 | [SharpCorePDF](https://www.nuget.org/packages/SharpCorePDF) | 1.0.0 | MPCoreDeveloper | The package to install: a dependency-injection first, domain-driven PDF library… |
-| 2026-10-17 11:11:18 | [SharpCorePDF.Application](https://www.nuget.org/packages/SharpCorePDF.Application) | 1.0.0 | MPCoreDeveloper | Application layer for SharpCorePDF: the merging and inspection use cases that o… |
-| 2026-10-17 11:11:18 | [SharpCorePDF.DependencyInjection](https://www.nuget.org/packages/SharpCorePDF.DependencyInjection) | 1.0.0 | MPCoreDeveloper | Microsoft.Extensions.DependencyInjection registration for SharpCorePDF: one Add… |
-| 2026-10-17 11:11:19 | [SharpCorePDF.Domain](https://www.nuget.org/packages/SharpCorePDF.Domain) | 1.0.0 | MPCoreDeveloper | Domain model and contracts for composing PDF documents: the immutable MergePlan… |
-| 2026-10-17 11:11:19 | [SharpCorePDF.Infrastructure](https://www.nuget.org/packages/SharpCorePDF.Infrastructure) | 1.0.0 | MPCoreDeveloper | Self-contained PDF engine for SharpCorePDF: reader (classic cross-reference tab… |
+| 2026-10-17 11:24:54 | [aweXpect.Xml](https://www.nuget.org/packages/aweXpect.Xml) | 0.1.1 | aweXpect | Expectations for XML for aweXpect. |
+| 2026-10-17 11:25:57 | [Vericairn.Daemon](https://www.nuget.org/packages/Vericairn.Daemon) | 0.7.1 | Jason Furr | The Vericairn daemon host: one process owns one open estate and serves the vers… |
+| 2026-10-17 11:25:58 | [Vericairn.Mcp](https://www.nuget.org/packages/Vericairn.Mcp) | 0.7.1 | Jason Furr | A Model Context Protocol server over the Vericairn API: a client adapter that e… |
+| 2026-10-17 11:25:59 | [Vericairn.Protocol](https://www.nuget.org/packages/Vericairn.Protocol) | 0.7.1 | Jason Furr | The versioned Vericairn API contract: operations, requests, responses, state la… |
+| 2026-10-17 11:26:00 | [Vericairn.Records](https://www.nuget.org/packages/Vericairn.Records) | 0.7.1 | Jason Furr | Vericairn record format: canonical JSON, identifiers, hashing, validation and e… |
+| 2026-10-17 11:26:01 | [Vericairn.Runtime](https://www.nuget.org/packages/Vericairn.Runtime) | 0.7.1 | Jason Furr | Vericairn runtime: the live store, content-addressed objects, storage profiles,… |
+| 2026-10-17 11:26:02 | [Vericairn.Sdk](https://www.nuget.org/packages/Vericairn.Sdk) | 0.7.1 | Jason Furr | The typed client of the Vericairn API over a local socket, a named pipe or pinn… |
+| 2026-10-17 11:32:40 | [SyntaxCircus.Maui.AgeAssurance](https://www.nuget.org/packages/SyntaxCircus.Maui.AgeAssurance) | 0.1.0 | Syntax Circus LLC | Platform age signals for MAUI apps on iOS (Apple Declared Age Range) and Androi… |
+| 2026-10-17 11:38:01 | [LMSupply.Decider](https://www.nuget.org/packages/LMSupply.Decider) | 0.125.0 | iyulab | Typed decisions for .NET from a local model: give a state and named questions (… |
+| 2026-10-17 11:42:47 | [RoarUI](https://www.nuget.org/packages/RoarUI) | 1.0.0 | Blazor School | RoarUI is a Blazor component library for .NET 10 built on WebAwesome, with stro… |
+| 2026-10-17 11:46:14 | [aweXpect.Logging](https://www.nuget.org/packages/aweXpect.Logging) | 0.1.1 | aweXpect | Expectations for logging with Microsoft.Extensions.Logging for aweXpect. |
+| 2026-10-17 11:54:21 | [JamesTryand.DotnetCqrs.Retention](https://www.nuget.org/packages/JamesTryand.DotnetCqrs.Retention) | 0.31.0 | James Tryand | Governed erasure for dotnetcqrs, opt-in: a request to erase a data subject is h… |
+| 2026-10-17 11:54:30 | [SharpDeps.Cli](https://www.nuget.org/packages/SharpDeps.Cli) | 0.2.0 | SharpDeps.Cli | Explicit trusted indexing and saved graph queries for SharpDeps. |
+| 2026-10-17 11:54:31 | [SharpDeps.Mcp](https://www.nuget.org/packages/SharpDeps.Mcp) | 0.2.0 | SharpDeps.Mcp | Optional stdio adapter for SharpDeps saved Query and explicitly trusted updates. |
 
 ## Data source
 

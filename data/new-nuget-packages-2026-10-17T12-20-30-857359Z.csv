@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-17T11:24:54.27Z,aweXpect.Xml,0.1.1,aweXpect,Expectations for XML for aweXpect.
+2026-10-17T11:25:57.543Z,Vericairn.Daemon,0.7.1,Jason Furr,The Vericairn daemon host: one process owns one open estate and serves the versioned API over a local socket or named pipe.
+2026-10-17T11:25:58.46Z,Vericairn.Mcp,0.7.1,Jason Furr,"A Model Context Protocol server over the Vericairn API: a client adapter that exposes an estate to coding agents as tools, never a second owner."
+2026-10-17T11:25:59.4Z,Vericairn.Protocol,0.7.1,Jason Furr,"The versioned Vericairn API contract: operations, requests, responses, state language and error codes shared by every client."
+2026-10-17T11:26:00.453Z,Vericairn.Records,0.7.1,Jason Furr,"Vericairn record format: canonical JSON, identifiers, hashing, validation and estate layout."
+2026-10-17T11:26:01.5Z,Vericairn.Runtime,0.7.1,Jason Furr,"Vericairn runtime: the live store, content-addressed objects, storage profiles, export and restore."
+2026-10-17T11:26:02.453Z,Vericairn.Sdk,0.7.1,Jason Furr,"The typed client of the Vericairn API over a local socket, a named pipe or pinned loopback TLS."
+2026-10-17T11:32:40.38Z,SyntaxCircus.Maui.AgeAssurance,0.1.0,Syntax Circus LLC,"Platform age signals for MAUI apps on iOS (Apple Declared Age Range) and Android (Google Play Age Signals), normalized into one policy-free result model: status, eligibility, restriction, approval and regulatory requirements. Includes a restriction state machine and a fake provider for tests. No ap…"
+2026-10-17T11:38:01.643Z,LMSupply.Decider,0.125.0,iyulab,"Typed decisions for .NET from a local model: give a state and named questions (choice, yes/no, score), get a typed answer with probabilities for each. Native decision models run on llama-server's decision endpoint; instruct models are read from their next-token probabilities."
+2026-10-17T11:42:47.997Z,RoarUI,1.0.0,Blazor School,"RoarUI is a Blazor component library for .NET 10 built on WebAwesome, with strongly typed C# APIs, flexible string values, custom theming, and Blazor form validation. Supports Interactive Server and standalone WebAssembly."
+2026-10-17T11:46:14.68Z,aweXpect.Logging,0.1.1,aweXpect,Expectations for logging with Microsoft.Extensions.Logging for aweXpect.
+2026-10-17T11:54:21.91Z,JamesTryand.DotnetCqrs.Retention,0.31.0,James Tryand,"Governed erasure for dotnetcqrs, opt-in: a request to erase a data subject is held while a retention duty or a legal hold stands, and approved once none does. A business-owned retention policy, and a governor that drives each request to a conclusion. Builds on the core dataSubject aggregate in Dotn…"
+2026-10-17T11:54:30.043Z,SharpDeps.Cli,0.2.0,SharpDeps.Cli,Explicit trusted indexing and saved graph queries for SharpDeps.
+2026-10-17T11:54:31.72Z,SharpDeps.Mcp,0.2.0,SharpDeps.Mcp,Optional stdio adapter for SharpDeps saved Query and explicitly trusted updates.
