@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-17T08:23:05.217Z,TempLock,0.9.1,Volker Hänsel,"Hardened trial/evaluation licensing for Windows desktop apps: time-limited trial with tamper, clock-rollback and reinstall protection."
+2026-10-17T08:41:20.053Z,Orbyss.Foundation.Web.Presentation,0.3.6,Orbyss,"Selectable native browser recovery pages, admitted error presentation and shared authentication controls."
+2026-10-17T09:03:52.537Z,Aiursoft.AlertCenter.SDK,10.0.0,Aiursoft.AlertCenter.SDK,Report alerts to Aiursoft AlertCenter using AiurProtocol.
+2026-10-17T09:04:57.183Z,Oscova.Agents.Plugins.Browser,2.0.0,Oscova,"Visible browser navigation, page reading and interaction for Oscova Agents."
+2026-10-17T09:05:01.757Z,Oscova.Agents.Plugins.Docker,2.0.0,Oscova,"Docker execution for shell commands run by Oscova Agents, with shared image management."
+2026-10-17T09:05:04.03Z,Oscova.Agents.Plugins.ElevenLabs,2.0.0,Oscova,"ElevenLabs speech recognition and synthesis for Oscova Agents, using a saved ElevenLabs credential."
+2026-10-17T09:05:17.32Z,Oscova.Agents.Plugins.LocalSpeechRecognition,2.0.0,Oscova,Oscova Agents plugin providing local Whisper recognition.
+2026-10-17T09:05:19.86Z,Oscova.Agents.Plugins.LocalSpeechRecognition.Cuda,2.0.0,Oscova,"NVIDIA CUDA local speech recognition for Windows x64 and Linux x64. Requires an NVIDIA GPU, CUDA 13.0.1 or later in the CUDA 13 family, and cuDNN 9. Replaces Oscova Local Speech Recognition after restarting Oscova. GPU prerequisites are installed separately."
+2026-10-17T09:05:22.21Z,Oscova.Agents.Plugins.LocalSpeechSynthesis,2.0.0,Oscova,Oscova Agents plugin providing local Kokoro synthesis.
+2026-10-17T09:05:24.503Z,Oscova.Agents.Plugins.LocalSpeechSynthesis.Cuda,2.0.0,Oscova,"NVIDIA CUDA local speech synthesis for Windows x64 and Linux x64. Requires an NVIDIA GPU, CUDA 13.0.1 or later in the CUDA 13 family, and cuDNN 9. Replaces Oscova Local Speech Synthesis after restarting Oscova. GPU prerequisites are installed separately."
+2026-10-17T09:05:29.127Z,Oscova.Agents.Plugins.Mxc,2.0.0,Oscova,Microsoft MXC operating-system containment for shell commands run by Oscova Agents.
+2026-10-17T09:05:31.563Z,Oscova.Agents.Plugins.OpenAI,2.0.0,Oscova,"OpenAI speech recognition and synthesis for Oscova Agents, using a saved OpenAI credential."
+2026-10-17T09:06:22.567Z,Oscova.Agents.App.osx-x64,3.3.0,Oscova,"The oscova command that installs, starts and manages Oscova, a self-hosted AI agent OS. Run `oscova start` after installing."

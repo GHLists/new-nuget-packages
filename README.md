@@ -12,19 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 08:19 UTC
+## Latest list — 2026-10-17 09:20 UTC
 
-New packages created between 2026-10-17 07:21 UTC and 2026-10-17 08:19 UTC.
+New packages created between 2026-10-17 08:19 UTC and 2026-10-17 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T08-19-30-240294Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T09-20-35-725478Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 07:24:10 | [Drenalol.Telegram.Bot.Forms](https://www.nuget.org/packages/Drenalol.Telegram.Bot.Forms) | 1.0.0 | Bogdan Yanysh | Chat-first Telegram bot framework for Telegram.Bot: DI-scoped forms, per-chat n… |
-| 2026-10-17 07:27:43 | [SLVZ.CoreDb](https://www.nuget.org/packages/SLVZ.CoreDb) | 1.0.0 | SLVZ | Embedded local database for .NET (net8.0+, Windows / Android / anything). No de… |
-| 2026-10-17 07:39:29 | [mGO.Log.Abstractions](https://www.nuget.org/packages/mGO.Log.Abstractions) | 1.0.0 | MarioGO | Public contracts and immutable events for mGO.Log. |
-| 2026-10-17 07:40:17 | [mGO.Log](https://www.nuget.org/packages/mGO.Log) | 1.0.0 | MarioGO | Bounded asynchronous structured logging engine and rotating file sink for .NET… |
-| 2026-10-17 07:40:29 | [mGO.Log.Extensions.Hosting](https://www.nuget.org/packages/mGO.Log.Extensions.Hosting) | 1.0.0 | MarioGO | Dependency injection, configuration and host lifecycle integration for mGO.Log. |
+| 2026-10-17 08:23:05 | [TempLock](https://www.nuget.org/packages/TempLock) | 0.9.1 | Volker Hänsel | Hardened trial/evaluation licensing for Windows desktop apps: time-limited tria… |
+| 2026-10-17 08:41:20 | [Orbyss.Foundation.Web.Presentation](https://www.nuget.org/packages/Orbyss.Foundation.Web.Presentation) | 0.3.6 | Orbyss | Selectable native browser recovery pages, admitted error presentation and share… |
+| 2026-10-17 09:03:52 | [Aiursoft.AlertCenter.SDK](https://www.nuget.org/packages/Aiursoft.AlertCenter.SDK) | 10.0.0 | Aiursoft.AlertCenter.SDK | Report alerts to Aiursoft AlertCenter using AiurProtocol. |
+| 2026-10-17 09:04:57 | [Oscova.Agents.Plugins.Browser](https://www.nuget.org/packages/Oscova.Agents.Plugins.Browser) | 2.0.0 | Oscova | Visible browser navigation, page reading and interaction for Oscova Agents. |
+| 2026-10-17 09:05:01 | [Oscova.Agents.Plugins.Docker](https://www.nuget.org/packages/Oscova.Agents.Plugins.Docker) | 2.0.0 | Oscova | Docker execution for shell commands run by Oscova Agents, with shared image man… |
+| 2026-10-17 09:05:04 | [Oscova.Agents.Plugins.ElevenLabs](https://www.nuget.org/packages/Oscova.Agents.Plugins.ElevenLabs) | 2.0.0 | Oscova | ElevenLabs speech recognition and synthesis for Oscova Agents, using a saved El… |
+| 2026-10-17 09:05:17 | [Oscova.Agents.Plugins.LocalSpeechRecognition](https://www.nuget.org/packages/Oscova.Agents.Plugins.LocalSpeechRecognition) | 2.0.0 | Oscova | Oscova Agents plugin providing local Whisper recognition. |
+| 2026-10-17 09:05:19 | [Oscova.Agents.Plugins.LocalSpeechRecognition.Cuda](https://www.nuget.org/packages/Oscova.Agents.Plugins.LocalSpeechRecognition.Cuda) | 2.0.0 | Oscova | NVIDIA CUDA local speech recognition for Windows x64 and Linux x64. Requires an… |
+| 2026-10-17 09:05:22 | [Oscova.Agents.Plugins.LocalSpeechSynthesis](https://www.nuget.org/packages/Oscova.Agents.Plugins.LocalSpeechSynthesis) | 2.0.0 | Oscova | Oscova Agents plugin providing local Kokoro synthesis. |
+| 2026-10-17 09:05:24 | [Oscova.Agents.Plugins.LocalSpeechSynthesis.Cuda](https://www.nuget.org/packages/Oscova.Agents.Plugins.LocalSpeechSynthesis.Cuda) | 2.0.0 | Oscova | NVIDIA CUDA local speech synthesis for Windows x64 and Linux x64. Requires an N… |
+| 2026-10-17 09:05:29 | [Oscova.Agents.Plugins.Mxc](https://www.nuget.org/packages/Oscova.Agents.Plugins.Mxc) | 2.0.0 | Oscova | Microsoft MXC operating-system containment for shell commands run by Oscova Age… |
+| 2026-10-17 09:05:31 | [Oscova.Agents.Plugins.OpenAI](https://www.nuget.org/packages/Oscova.Agents.Plugins.OpenAI) | 2.0.0 | Oscova | OpenAI speech recognition and synthesis for Oscova Agents, using a saved OpenAI… |
+| 2026-10-17 09:06:22 | [Oscova.Agents.App.osx-x64](https://www.nuget.org/packages/Oscova.Agents.App.osx-x64) | 3.3.0 | Oscova | The oscova command that installs, starts and manages Oscova, a self-hosted AI a… |
 
 ## Data source
 
