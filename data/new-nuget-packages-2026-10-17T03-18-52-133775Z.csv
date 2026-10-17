@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-17T02:19:20.577Z,PiSharp.Durable,1.2.0.1,PiSharp contributors,"EXPERIMENTAL. Durable agent harness for PiSharp, a port of Pi's pi-durable: sessions, tasks, memory and JSONL storage that commit every step before showing it and resume after a crash. The API may change in any release; opt in by suppressing PISHARP_DURABLE001."
+2026-10-17T02:19:22.29Z,PiSharp.Durable.Tools,1.2.0.1,PiSharp contributors,"EXPERIMENTAL. Execution environment, coding tools, tool_search and code mode for PiSharp.Durable. The API may change in any release; opt in by suppressing PISHARP_DURABLE001."
+2026-10-17T02:19:22.793Z,PiSharp.Durable.Sqlite,1.2.0.1,PiSharp contributors,EXPERIMENTAL. SQLite storage for PiSharp.Durable on Microsoft.Data.Sqlite with SQLitePCLRaw's e_sqlite3 native library. The API may change in any release; opt in by suppressing PISHARP_DURABLE001.
+2026-10-17T02:29:06.133Z,EasyCore.Agent.GraphRAG,8.3.4,WZHY,Configurable model-assisted entity and relationship extraction for graph retrieval applications.
+2026-10-17T02:30:46.35Z,EasyCore.Graph.Abstractions,8.3.4,WZHY,"Provider-neutral property graph contracts, typed metadata, and configurable traversal for .NET."
+2026-10-17T02:32:00.7Z,EasyCore.Graph.ArangoDB,8.3.4,WZHY,"ArangoDB property graph persistence with injectable HTTP transport, JSON metadata, parameterized queries, pagination, and traversal."
+2026-10-17T02:32:22.43Z,EasyCore.Graph.FalkorDB,8.3.4,WZHY,FalkorDB graph storage and parameterized Cypher queries with caller-owned Redis connections for .NET.
+2026-10-17T02:32:41.983Z,EasyCore.Graph.Gremlin,8.3.4,WZHY,"Configurable Apache TinkerPop Gremlin graph persistence with injected clients, namespaces, parameterized queries, and portable graph records."
+2026-10-17T02:33:05.093Z,EasyCore.Graph.Neo4j,8.3.4,WZHY,"Neo4j graph persistence, typed entities and relationships, configurable traversal, and transactions for .NET."
+2026-10-17T02:35:52.09Z,EasyCore.Workflow,8.3.4,WZHY,"Typed state graphs with conditional routing, fan-out, reducers, durable checkpoints, interrupts, subgraphs, and streaming events."
+2026-10-17T03:06:13.387Z,Meziantou.Framework.QRCode.Imaging,1.0.0,meziantou,Renders QR codes and barcodes of Meziantou.Framework.QRCode as Meziantou.Framework.Imaging images
+2026-10-17T03:06:38.6Z,WindowStateManager,1.0.0,WindowStateManager,"WindowStateManager is a lightweight WinUI 3 utility that automatically saves, restores, and optionally locks the window’s size and position. It supports DPI‑aware scaling, persistent state storage via ApplicationData.Current.LocalSettings, and simple integration—just call Attach() in your MainWindo…"
+2026-10-17T03:07:00.463Z,ELF.Modules.Http.ResumableDownload,0.9.0,"ELF INTERNATIONAL EXPRESS CO., LTD.",續傳大檔下載器：多來源備援、HTTP Range 續傳、sha256 驗證、跨行程鎖檔與進度回報。
+2026-10-17T03:12:27.737Z,Zpdf,0.1.0,Zpdf,"A PDF writer and text reader (zpdf, in Zig) for .NET."

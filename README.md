@@ -12,22 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 02:18 UTC
+## Latest list — 2026-10-17 03:18 UTC
 
-New packages created between 2026-10-17 01:19 UTC and 2026-10-17 02:18 UTC.
+New packages created between 2026-10-17 02:18 UTC and 2026-10-17 03:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T02-18-56-785643Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T03-18-52-133775Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 01:41:38 | [XiaQue.Sdk.QQBot](https://www.nuget.org/packages/XiaQue.Sdk.QQBot) | 0.1.1 | XiaQue | 面向 QQ 机器人官方接口和网关 WebSocket 协议的非官方 .NET 开发工具包，提供身份认证、接口调用和网关事件接收能力。 |
-| 2026-10-17 01:43:42 | [XiaQue.Sdk.QQBot.Connector](https://www.nuget.org/packages/XiaQue.Sdk.QQBot.Connector) | 1.1.1 | XiaQue | 面向 QQ 机器人第三方智能体接入的非官方 .NET 扫码连接器，通过扫码绑定获取机器人应用凭据，可独立于主开发工具包使用。 |
-| 2026-10-17 01:43:52 | [Moquestra.CaseConverter](https://www.nuget.org/packages/Moquestra.CaseConverter) | 1.0.0 | Moquestra | A string extension library for PascalCase, camelCase, and snake_case conversion. |
-| 2026-10-17 01:50:11 | [CamusDB.OpenTelemetry](https://www.nuget.org/packages/CamusDB.OpenTelemetry) | 0.15.4 | CamusDB | CamusDB.OpenTelemetry registers the CamusDB.Client activity source and meter wi… |
-| 2026-10-17 01:58:58 | [Fuxion.Tool](https://www.nuget.org/packages/Fuxion.Tool) | 0.7.2 | Oscar Jimenez | fx, the tool of the Fuxion workspace: its repositories, the shared build of .NE… |
-| 2026-10-17 01:59:40 | [OvoUi.Tab](https://www.nuget.org/packages/OvoUi.Tab) | 1.0.2 | tiouo | Animated, detachable tab hosts and tab windows for Avalonia applications. |
-| 2026-10-17 01:59:41 | [OvoUi.SmoothScroll](https://www.nuget.org/packages/OvoUi.SmoothScroll) | 1.0.2 | tiouo | Smooth scrolling, panning, multi-touch zoom, elastic overscroll and composition… |
-| 2026-10-17 02:01:54 | [Meziantou.Framework.SnapshotTesting.Imaging](https://www.nuget.org/packages/Meziantou.Framework.SnapshotTesting.Imaging) | 1.0.0 | meziantou | Enables verification of images using file-based snapshots, based on Meziantou.F… |
+| 2026-10-17 02:19:20 | [PiSharp.Durable](https://www.nuget.org/packages/PiSharp.Durable) | 1.2.0.1 | PiSharp contributors | EXPERIMENTAL. Durable agent harness for PiSharp, a port of Pi's pi-durable: ses… |
+| 2026-10-17 02:19:22 | [PiSharp.Durable.Tools](https://www.nuget.org/packages/PiSharp.Durable.Tools) | 1.2.0.1 | PiSharp contributors | EXPERIMENTAL. Execution environment, coding tools, tool_search and code mode fo… |
+| 2026-10-17 02:19:22 | [PiSharp.Durable.Sqlite](https://www.nuget.org/packages/PiSharp.Durable.Sqlite) | 1.2.0.1 | PiSharp contributors | EXPERIMENTAL. SQLite storage for PiSharp.Durable on Microsoft.Data.Sqlite with… |
+| 2026-10-17 02:29:06 | [EasyCore.Agent.GraphRAG](https://www.nuget.org/packages/EasyCore.Agent.GraphRAG) | 8.3.4 | WZHY | Configurable model-assisted entity and relationship extraction for graph retrie… |
+| 2026-10-17 02:30:46 | [EasyCore.Graph.Abstractions](https://www.nuget.org/packages/EasyCore.Graph.Abstractions) | 8.3.4 | WZHY | Provider-neutral property graph contracts, typed metadata, and configurable tra… |
+| 2026-10-17 02:32:00 | [EasyCore.Graph.ArangoDB](https://www.nuget.org/packages/EasyCore.Graph.ArangoDB) | 8.3.4 | WZHY | ArangoDB property graph persistence with injectable HTTP transport, JSON metada… |
+| 2026-10-17 02:32:22 | [EasyCore.Graph.FalkorDB](https://www.nuget.org/packages/EasyCore.Graph.FalkorDB) | 8.3.4 | WZHY | FalkorDB graph storage and parameterized Cypher queries with caller-owned Redis… |
+| 2026-10-17 02:32:41 | [EasyCore.Graph.Gremlin](https://www.nuget.org/packages/EasyCore.Graph.Gremlin) | 8.3.4 | WZHY | Configurable Apache TinkerPop Gremlin graph persistence with injected clients,… |
+| 2026-10-17 02:33:05 | [EasyCore.Graph.Neo4j](https://www.nuget.org/packages/EasyCore.Graph.Neo4j) | 8.3.4 | WZHY | Neo4j graph persistence, typed entities and relationships, configurable travers… |
+| 2026-10-17 02:35:52 | [EasyCore.Workflow](https://www.nuget.org/packages/EasyCore.Workflow) | 8.3.4 | WZHY | Typed state graphs with conditional routing, fan-out, reducers, durable checkpo… |
+| 2026-10-17 03:06:13 | [Meziantou.Framework.QRCode.Imaging](https://www.nuget.org/packages/Meziantou.Framework.QRCode.Imaging) | 1.0.0 | meziantou | Renders QR codes and barcodes of Meziantou.Framework.QRCode as Meziantou.Framew… |
+| 2026-10-17 03:06:38 | [WindowStateManager](https://www.nuget.org/packages/WindowStateManager) | 1.0.0 | WindowStateManager | WindowStateManager is a lightweight WinUI 3 utility that automatically saves, r… |
+| 2026-10-17 03:07:00 | [ELF.Modules.Http.ResumableDownload](https://www.nuget.org/packages/ELF.Modules.Http.ResumableDownload) | 0.9.0 | ELF INTERNATIONAL EXPRESS CO.… | 續傳大檔下載器：多來源備援、HTTP Range 續傳、sha256 驗證、跨行程鎖檔與進度回報。 |
+| 2026-10-17 03:12:27 | [Zpdf](https://www.nuget.org/packages/Zpdf) | 0.1.0 | Zpdf | A PDF writer and text reader (zpdf, in Zig) for .NET. |
 
 ## Data source
 
