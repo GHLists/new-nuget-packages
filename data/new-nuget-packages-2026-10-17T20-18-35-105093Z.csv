@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-17T19:43:04.177Z,Pinqponq.Billing.RevenueCat,1.0.0,Pinqponq,"RevenueCat webhook handling: payload model, Authorization header verification and event dispatch, with persistence left to the consuming product."
+2026-10-17T19:45:20.577Z,DataverseRecordRecovery,1.0.0,AmraouiH,"Dataverse Record Recovery brings back Dynamics 365 / Dataverse records that were deleted by mistake, using the audit history of the environment. Records come back with their original GUID, so links, integrations and URLs that point to them keep working. Pick a table, optionally the user who deleted…"
+2026-10-17T19:50:12.62Z,PanoramicData.SoundPrint,1.0.1,Panoramic Data Limited,"Landmark-based audio fingerprinting for .NET: streaming spectral-peak hashing, offset-histogram matching and an in-memory fingerprint store."
+2026-10-17T19:50:13.39Z,PanoramicData.SoundPrint.Postgres,1.0.1,Panoramic Data Limited,"PostgreSQL fingerprint store for PanoramicData.SoundPrint, built on EF Core."
+2026-10-17T20:03:19.2Z,MusicTheory.Guitar,1.6.0,phmatray,"Guitar companion to MusicTheory: tunings, chord voicings and framework-agnostic chord diagram geometry. No UI dependency."
+2026-10-17T20:06:12.923Z,PulseTrade.Comm.ResourceNode.Dynamic,0.1.0-alpha4,PulseTrade.Comm.ResourceNode.Dynamic,Package Description
+2026-10-17T20:07:14.95Z,Neomoth.IoC,1.0.0,neomoth,"A small static IoC container with [Dependency] field injection, plus Roslyn analyzers that catch common misuse."
+2026-10-17T20:13:23.767Z,Jove.Tooling.CMakeSDK,1.0.0,Jove.Tooling.CMakeSDK,"MSBuild SDK for CMake projects on macOS, with Nix-provisioned build tools."

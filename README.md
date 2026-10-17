@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 19:18 UTC
+## Latest list — 2026-10-17 20:18 UTC
 
-New packages created between 2026-10-17 18:20 UTC and 2026-10-17 19:18 UTC.
+New packages created between 2026-10-17 19:18 UTC and 2026-10-17 20:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T19-18-57-955863Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T20-18-35-105093Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 18:21:26 | [Hexalith.McpCli.Abstractions](https://www.nuget.org/packages/Hexalith.McpCli.Abstractions) | 1.0.0 | Hexalith Contributors | Attributes and naming helpers for declaring Hexalith agent operations. |
-| 2026-10-17 18:38:22 | [Zwergenland.CleanMessageBus.Hosting](https://www.nuget.org/packages/Zwergenland.CleanMessageBus.Hosting) | 1.0.0 | Florian Königsmann | Minimal-API-style event handler registration, consume/publish pipelines and bui… |
-| 2026-10-17 18:52:01 | [Anybox](https://www.nuget.org/packages/Anybox) | 0.9.0 | ethereal | one API for the most popular passthrough boxes, over the anybox C ABI |
-| 2026-10-17 19:04:57 | [DirectUpload.Blazor](https://www.nuget.org/packages/DirectUpload.Blazor) | 0.1.0 | Sjoerd Lemmen | Blazor side of BlazorDirectUpload: uploads large files from the browser straigh… |
-| 2026-10-17 19:04:58 | [DirectUpload.Server](https://www.nuget.org/packages/DirectUpload.Server) | 0.1.0 | Sjoerd Lemmen | Server side of BlazorDirectUpload: minimal-API endpoints that orchestrate presi… |
-| 2026-10-17 19:05:47 | [Lokad.Svg](https://www.nuget.org/packages/Lokad.Svg) | 0.1.0 | Lokad | A pure managed SVG to PNG renderer for .NET. |
+| 2026-10-17 19:43:04 | [Pinqponq.Billing.RevenueCat](https://www.nuget.org/packages/Pinqponq.Billing.RevenueCat) | 1.0.0 | Pinqponq | RevenueCat webhook handling: payload model, Authorization header verification a… |
+| 2026-10-17 19:45:20 | [DataverseRecordRecovery](https://www.nuget.org/packages/DataverseRecordRecovery) | 1.0.0 | AmraouiH | Dataverse Record Recovery brings back Dynamics 365 / Dataverse records that wer… |
+| 2026-10-17 19:50:12 | [PanoramicData.SoundPrint](https://www.nuget.org/packages/PanoramicData.SoundPrint) | 1.0.1 | Panoramic Data Limited | Landmark-based audio fingerprinting for .NET: streaming spectral-peak hashing,… |
+| 2026-10-17 19:50:13 | [PanoramicData.SoundPrint.Postgres](https://www.nuget.org/packages/PanoramicData.SoundPrint.Postgres) | 1.0.1 | Panoramic Data Limited | PostgreSQL fingerprint store for PanoramicData.SoundPrint, built on EF Core. |
+| 2026-10-17 20:03:19 | [MusicTheory.Guitar](https://www.nuget.org/packages/MusicTheory.Guitar) | 1.6.0 | phmatray | Guitar companion to MusicTheory: tunings, chord voicings and framework-agnostic… |
+| 2026-10-17 20:06:12 | [PulseTrade.Comm.ResourceNode.Dynamic](https://www.nuget.org/packages/PulseTrade.Comm.ResourceNode.Dynamic) | 0.1.0-alpha4 | PulseTrade.Comm.ResourceNode.… | Package Description |
+| 2026-10-17 20:07:14 | [Neomoth.IoC](https://www.nuget.org/packages/Neomoth.IoC) | 1.0.0 | neomoth | A small static IoC container with [Dependency] field injection, plus Roslyn ana… |
+| 2026-10-17 20:13:23 | [Jove.Tooling.CMakeSDK](https://www.nuget.org/packages/Jove.Tooling.CMakeSDK) | 1.0.0 | Jove.Tooling.CMakeSDK | MSBuild SDK for CMake projects on macOS, with Nix-provisioned build tools. |
 
 ## Data source
 
