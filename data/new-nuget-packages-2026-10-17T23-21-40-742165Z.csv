@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-17T22:23:03.563Z,DubUrl.Application,0.31.1,Cédric L. Charlier,"Transport-neutral application services for validating, rendering, and deploying DubUrl schema documents."
+2026-10-17T22:23:08.577Z,DubUrl.Schema.Documents,0.31.1,Cédric L. Charlier,Versioned YAML and JSON schema documents for DubUrl.
+2026-10-17T22:23:10.69Z,DubUrl-cli,0.31.1,Cédric L. Charlier,Package Description
+2026-10-17T22:23:12.92Z,DubUrl-cli.linux-musl-x64,0.31.1,Cédric L. Charlier,Package Description
+2026-10-17T22:23:15.06Z,DubUrl-cli.linux-x64,0.31.1,Cédric L. Charlier,Package Description
+2026-10-17T22:23:17.183Z,DubUrl-cli.win-arm64,0.31.1,Cédric L. Charlier,Package Description
+2026-10-17T22:23:19.44Z,DubUrl-cli.win-x64,0.31.1,Cédric L. Charlier,Package Description
+2026-10-17T22:32:56.947Z,Losol.Spark.Store.PostgreSQL,0.1.0,Losol AS,PostgreSQL Storage Implementation for Spark
+2026-10-17T23:04:53.31Z,TKWF.Federation.WeChat.MessageGateway,0.1.1,LoongBa.cn 龙爸出品,TKWF 运行库（纯逻辑零实体零持久化——微信公众号消息网关核心判定，对齐 DataPort/Tagging 运行库提炼先例）：路由规则判定 / 幂等键规范化 / 转发决策与降级链 / 熔断状态机（三态纯内存）；零 AspNetCore 零 FreeSql 零扩展引用
+2026-10-17T23:07:56.997Z,KeysetEngine.Core,1.0.0,Paul Abib Camano,"High-performance, database-agnostic keyset pagination, expression tree builders, and universal search for Entity Framework Core."
+2026-10-17T23:07:58.263Z,KeysetEngine.DataProtection,1.0.0,Paul Abib Camano,Cryptographic ASP.NET Core Data Protection cursor tokens with purpose and entity isolation for KeysetEngine.
+2026-10-17T23:07:59.747Z,KeysetEngine.PostgreSql,1.0.0,Paul Abib Camano,PostgreSQL dialect search adapters for KeysetEngine using EF.Functions.ILike and tsvector full-text search.
+2026-10-17T23:08:01.1Z,KeysetEngine.SqlServer,1.0.0,Paul Abib Camano,"Microsoft SQL Server dialect search adapters for KeysetEngine using EF.Functions.FreeText, CONTAINS, and collation strategies."
