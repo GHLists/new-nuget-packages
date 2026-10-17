@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-17T05:31:28.717Z,ELF.Modules.Excel.Abstractions,0.9.1,"ELF INTERNATIONAL EXPRESS CO., LTD.",Excel 匯入匯出契約與模型，不含任何 Excel 函式庫依賴。
+2026-10-17T05:31:29.877Z,ELF.Modules.Excel,0.9.1,"ELF INTERNATIONAL EXPRESS CO., LTD.",Excel 匯入匯出實作：ClosedXML 全量、MiniExcel 流式與模板、ExcelDataReader 讀取，另支援 CSV／TSV／固定寬度文字檔。
+2026-10-17T05:32:22.867Z,ResoLoop,0.1.0,orange3134,Agent-first CLI loop for Resonite development through ResoniteLink and Flux-SDK.
+2026-10-17T05:38:29.3Z,Lagosystem.Modules.NET,0.1.3,Lagosystem,"Open-source .NET library providing reusable modules, extensions, helpers, and utilities for modern applications."
+2026-10-17T05:55:16.137Z,Themia.ETax.Withholding.Testing,0.33.0,Sarawut Phaekuntod,"Conformance tests for Themia.ETax.Withholding's IWithholdingCertificateStore: inherit the abstract class from your own xUnit project, supply a store factory, and your store gets the same key, cancel and payer-scope semantics as every other adopter's."
+2026-10-17T05:55:30.92Z,Themia.ETax.Withholding.Data,0.33.0,Sarawut Phaekuntod,"Database helpers for Themia.ETax.Withholding: the required immutability trigger, same-payer replacement key and issue-key uniqueness (FluentMigrator, PostgreSQL) for an app's own withholding certificate table, and the gapless certificate-number source over Themia's transactional sequence allocator."
+2026-10-17T05:55:39.483Z,Themia.ETax.Withholding,0.33.0,Sarawut Phaekuntod,"Neutral Thai withholding tax certificate (50 bis) core: withholding math in satang, certificate snapshot with integrity hash, validator, versioned income-type catalogue structure and Thai baht text."
