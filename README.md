@@ -12,24 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 01:19 UTC
+## Latest list — 2026-10-17 02:18 UTC
 
-New packages created between 2026-10-17 00:20 UTC and 2026-10-17 01:19 UTC.
+New packages created between 2026-10-17 01:19 UTC and 2026-10-17 02:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T01-19-25-084583Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T02-18-56-785643Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 00:57:17 | [Tharga.Team.Email](https://www.nuget.org/packages/Tharga.Team.Email) | 3.29.0 | Daniel Bohlin | E-mail for Tharga Team — reading over IMAP, sending over SMTP and MIME handling… |
-| 2026-10-17 00:58:52 | [Snail.Sdk](https://www.nuget.org/packages/Snail.Sdk) | 0.1.0 | orldev | The base MSBuild SDK of every Snail library and server: the build rules, the an… |
-| 2026-10-17 00:58:53 | [Snail.Sdk.Analyzers](https://www.nuget.org/packages/Snail.Sdk.Analyzers) | 0.1.0 | orldev | The owner's code rules as Roslyn analyzers: unpack long LINQ chains, create bef… |
-| 2026-10-17 00:58:54 | [Snail.Sdk.Library](https://www.nuget.org/packages/Snail.Sdk.Library) | 0.1.0 | orldev | The MSBuild SDK of a Snail library: Snail.Sdk, plus the public API kept in Publ… |
-| 2026-10-17 00:58:56 | [Snail.Sdk.Mcp](https://www.nuget.org/packages/Snail.Sdk.Mcp) | 0.1.0 | orldev | The MSBuild SDK of a Snail MCP server: Snail.Sdk, plus a dotnet tool of the Mcp… |
-| 2026-10-17 00:58:57 | [Snail.Sdk.Mcp.Hosting](https://www.nuget.org/packages/Snail.Sdk.Mcp.Hosting) | 0.1.0 | orldev | What every Snail MCP server starts from: the empty host with log lines on stder… |
-| 2026-10-17 00:58:58 | [Snail.Sdk.Mcp.Http](https://www.nuget.org/packages/Snail.Sdk.Mcp.Http) | 0.1.0 | orldev | One Snail MCP server for every session of the machine: the empty web host on a… |
-| 2026-10-17 00:59:00 | [Snail.Sdk.Mcp.Testing](https://www.nuget.org/packages/Snail.Sdk.Mcp.Testing) | 0.1.0 | orldev | Starts a Snail MCP server under test the way a client starts it — the dll besid… |
-| 2026-10-17 00:59:01 | [Snail.Sdk.Templates](https://www.nuget.org/packages/Snail.Sdk.Templates) | 0.1.0 | orldev | The templates of a Snail library (dotnet new s3l-lib) and a Snail MCP server (d… |
-| 2026-10-17 01:08:30 | [EmberLlm](https://www.nuget.org/packages/EmberLlm) | 0.1.0 | Michael Smith | A .NET client for local LLM servers (LM Studio, Ollama, llama.cpp, vLLM), built… |
+| 2026-10-17 01:41:38 | [XiaQue.Sdk.QQBot](https://www.nuget.org/packages/XiaQue.Sdk.QQBot) | 0.1.1 | XiaQue | 面向 QQ 机器人官方接口和网关 WebSocket 协议的非官方 .NET 开发工具包，提供身份认证、接口调用和网关事件接收能力。 |
+| 2026-10-17 01:43:42 | [XiaQue.Sdk.QQBot.Connector](https://www.nuget.org/packages/XiaQue.Sdk.QQBot.Connector) | 1.1.1 | XiaQue | 面向 QQ 机器人第三方智能体接入的非官方 .NET 扫码连接器，通过扫码绑定获取机器人应用凭据，可独立于主开发工具包使用。 |
+| 2026-10-17 01:43:52 | [Moquestra.CaseConverter](https://www.nuget.org/packages/Moquestra.CaseConverter) | 1.0.0 | Moquestra | A string extension library for PascalCase, camelCase, and snake_case conversion. |
+| 2026-10-17 01:50:11 | [CamusDB.OpenTelemetry](https://www.nuget.org/packages/CamusDB.OpenTelemetry) | 0.15.4 | CamusDB | CamusDB.OpenTelemetry registers the CamusDB.Client activity source and meter wi… |
+| 2026-10-17 01:58:58 | [Fuxion.Tool](https://www.nuget.org/packages/Fuxion.Tool) | 0.7.2 | Oscar Jimenez | fx, the tool of the Fuxion workspace: its repositories, the shared build of .NE… |
+| 2026-10-17 01:59:40 | [OvoUi.Tab](https://www.nuget.org/packages/OvoUi.Tab) | 1.0.2 | tiouo | Animated, detachable tab hosts and tab windows for Avalonia applications. |
+| 2026-10-17 01:59:41 | [OvoUi.SmoothScroll](https://www.nuget.org/packages/OvoUi.SmoothScroll) | 1.0.2 | tiouo | Smooth scrolling, panning, multi-touch zoom, elastic overscroll and composition… |
+| 2026-10-17 02:01:54 | [Meziantou.Framework.SnapshotTesting.Imaging](https://www.nuget.org/packages/Meziantou.Framework.SnapshotTesting.Imaging) | 1.0.0 | meziantou | Enables verification of images using file-based snapshots, based on Meziantou.F… |
 
 ## Data source
 

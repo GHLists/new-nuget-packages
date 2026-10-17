@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-17T01:41:38.02Z,XiaQue.Sdk.QQBot,0.1.1,XiaQue,面向 QQ 机器人官方接口和网关 WebSocket 协议的非官方 .NET 开发工具包，提供身份认证、接口调用和网关事件接收能力。
+2026-10-17T01:43:42.72Z,XiaQue.Sdk.QQBot.Connector,1.1.1,XiaQue,面向 QQ 机器人第三方智能体接入的非官方 .NET 扫码连接器，通过扫码绑定获取机器人应用凭据，可独立于主开发工具包使用。
+2026-10-17T01:43:52.103Z,Moquestra.CaseConverter,1.0.0,Moquestra,"A string extension library for PascalCase, camelCase, and snake_case conversion."
+2026-10-17T01:50:11.427Z,CamusDB.OpenTelemetry,0.15.4,CamusDB,CamusDB.OpenTelemetry registers the CamusDB.Client activity source and meter with the OpenTelemetry SDK.
+2026-10-17T01:58:58.623Z,Fuxion.Tool,0.7.2,Oscar Jimenez,"fx, the tool of the Fuxion workspace: its repositories, the shared build of .NET (with Fuxion.Tool.Sdk), the instructions for the coding agents and the versions, from the configuration in _fx/. A native executable for each platform."
+2026-10-17T01:59:40.403Z,OvoUi.Tab,1.0.2,tiouo,"Animated, detachable tab hosts and tab windows for Avalonia applications."
+2026-10-17T01:59:41.953Z,OvoUi.SmoothScroll,1.0.2,tiouo,"Smooth scrolling, panning, multi-touch zoom, elastic overscroll and composition interaction tracking for Avalonia."
+2026-10-17T02:01:54.033Z,Meziantou.Framework.SnapshotTesting.Imaging,1.0.0,meziantou,"Enables verification of images using file-based snapshots, based on Meziantou.Framework.Imaging"
