@@ -12,28 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 03:18 UTC
+## Latest list — 2026-10-17 04:18 UTC
 
-New packages created between 2026-10-17 02:18 UTC and 2026-10-17 03:18 UTC.
+New packages created between 2026-10-17 03:18 UTC and 2026-10-17 04:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-17T03-18-52-133775Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-17T04-18-44-43808Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-17 02:19:20 | [PiSharp.Durable](https://www.nuget.org/packages/PiSharp.Durable) | 1.2.0.1 | PiSharp contributors | EXPERIMENTAL. Durable agent harness for PiSharp, a port of Pi's pi-durable: ses… |
-| 2026-10-17 02:19:22 | [PiSharp.Durable.Tools](https://www.nuget.org/packages/PiSharp.Durable.Tools) | 1.2.0.1 | PiSharp contributors | EXPERIMENTAL. Execution environment, coding tools, tool_search and code mode fo… |
-| 2026-10-17 02:19:22 | [PiSharp.Durable.Sqlite](https://www.nuget.org/packages/PiSharp.Durable.Sqlite) | 1.2.0.1 | PiSharp contributors | EXPERIMENTAL. SQLite storage for PiSharp.Durable on Microsoft.Data.Sqlite with… |
-| 2026-10-17 02:29:06 | [EasyCore.Agent.GraphRAG](https://www.nuget.org/packages/EasyCore.Agent.GraphRAG) | 8.3.4 | WZHY | Configurable model-assisted entity and relationship extraction for graph retrie… |
-| 2026-10-17 02:30:46 | [EasyCore.Graph.Abstractions](https://www.nuget.org/packages/EasyCore.Graph.Abstractions) | 8.3.4 | WZHY | Provider-neutral property graph contracts, typed metadata, and configurable tra… |
-| 2026-10-17 02:32:00 | [EasyCore.Graph.ArangoDB](https://www.nuget.org/packages/EasyCore.Graph.ArangoDB) | 8.3.4 | WZHY | ArangoDB property graph persistence with injectable HTTP transport, JSON metada… |
-| 2026-10-17 02:32:22 | [EasyCore.Graph.FalkorDB](https://www.nuget.org/packages/EasyCore.Graph.FalkorDB) | 8.3.4 | WZHY | FalkorDB graph storage and parameterized Cypher queries with caller-owned Redis… |
-| 2026-10-17 02:32:41 | [EasyCore.Graph.Gremlin](https://www.nuget.org/packages/EasyCore.Graph.Gremlin) | 8.3.4 | WZHY | Configurable Apache TinkerPop Gremlin graph persistence with injected clients,… |
-| 2026-10-17 02:33:05 | [EasyCore.Graph.Neo4j](https://www.nuget.org/packages/EasyCore.Graph.Neo4j) | 8.3.4 | WZHY | Neo4j graph persistence, typed entities and relationships, configurable travers… |
-| 2026-10-17 02:35:52 | [EasyCore.Workflow](https://www.nuget.org/packages/EasyCore.Workflow) | 8.3.4 | WZHY | Typed state graphs with conditional routing, fan-out, reducers, durable checkpo… |
-| 2026-10-17 03:06:13 | [Meziantou.Framework.QRCode.Imaging](https://www.nuget.org/packages/Meziantou.Framework.QRCode.Imaging) | 1.0.0 | meziantou | Renders QR codes and barcodes of Meziantou.Framework.QRCode as Meziantou.Framew… |
-| 2026-10-17 03:06:38 | [WindowStateManager](https://www.nuget.org/packages/WindowStateManager) | 1.0.0 | WindowStateManager | WindowStateManager is a lightweight WinUI 3 utility that automatically saves, r… |
-| 2026-10-17 03:07:00 | [ELF.Modules.Http.ResumableDownload](https://www.nuget.org/packages/ELF.Modules.Http.ResumableDownload) | 0.9.0 | ELF INTERNATIONAL EXPRESS CO.… | 續傳大檔下載器：多來源備援、HTTP Range 續傳、sha256 驗證、跨行程鎖檔與進度回報。 |
-| 2026-10-17 03:12:27 | [Zpdf](https://www.nuget.org/packages/Zpdf) | 0.1.0 | Zpdf | A PDF writer and text reader (zpdf, in Zig) for .NET. |
+| 2026-10-17 03:19:05 | [NTDLS.Localization](https://www.nuget.org/packages/NTDLS.Localization) | 1.0.1 | NetworkDLS | Localization from a SQLite translation database: one row per phrase, one column… |
+| 2026-10-17 03:29:18 | [Opsiva.Arabulucu](https://www.nuget.org/packages/Opsiva.Arabulucu) | 1.0.2 | Opsiva | Uygulama içi istek/bildirim arabulucusu (mediator): istekler ve işleyicileri, b… |
+| 2026-10-17 03:47:42 | [Annotype](https://www.nuget.org/packages/Annotype) | 0.1.0 | Sebastien Ros | Move invariants from instances to types. Compile-time enforced, reflection-free… |
+| 2026-10-17 04:13:40 | [Meteion.WpfTesting.Mcp](https://www.nuget.org/packages/Meteion.WpfTesting.Mcp) | 0.1.0 | Meteion | An MCP server that lets AI agents drive a WPF application through UI Automation… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-17T03:19:05.857Z,NTDLS.Localization,1.0.1,NetworkDLS,"Localization from a SQLite translation database: one row per phrase, one column per language."
+2026-10-17T03:29:18.783Z,Opsiva.Arabulucu,1.0.2,Opsiva,"Uygulama içi istek/bildirim arabulucusu (mediator): istekler ve işleyicileri, bildirimler ve ara katman (pipeline). Hafif, tek bağımlılıklı (Microsoft.Extensions.DependencyInjection.Abstractions). Lightweight in-process mediator: requests, handlers, notifications and pipeline behaviors."
+2026-10-17T03:47:42.94Z,Annotype,0.1.0,Sebastien Ros,"Move invariants from instances to types. Compile-time enforced, reflection-free type metadata for .NET: interfaces declare required attributes, an analyzer enforces them, and a source generator emits a registry to read them back without reflection."
+2026-10-17T04:13:40.967Z,Meteion.WpfTesting.Mcp,0.1.0,Meteion,An MCP server that lets AI agents drive a WPF application through UI Automation (FlaUI UIA3) to run UI tests.
