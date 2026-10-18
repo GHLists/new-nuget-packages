@@ -12,22 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 02:21 UTC
+## Latest list — 2026-10-18 03:21 UTC
 
-New packages created between 2026-10-18 01:19 UTC and 2026-10-18 02:21 UTC.
+New packages created between 2026-10-18 02:21 UTC and 2026-10-18 03:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T02-21-51-611303Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T03-21-46-384128Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 01:28:51 | [Soenneker.Firmware.SeaPilot](https://www.nuget.org/packages/Soenneker.Firmware.SeaPilot) | 4.0.2 | Jake Soenneker | Seagate firmware discovery and downloads using OpenSeaChest and stealth browser… |
-| 2026-10-18 01:29:18 | [Codyps.Zpl](https://www.nuget.org/packages/Codyps.Zpl) | 0.3.1 | Cody P Schafer | Local ZPL parsing and rendering to PNG, SVG, PDF and grayscale, powered by the… |
-| 2026-10-18 01:32:29 | [DevWithMJ.QuickBooks.Mcp](https://www.nuget.org/packages/DevWithMJ.QuickBooks.Mcp) | 0.1.1 | quickbooks-mcp | MCP server for QuickBooks Desktop (Windows). Read-only by default. |
-| 2026-10-18 01:58:15 | [PilotTestHost.Sdk](https://www.nuget.org/packages/PilotTestHost.Sdk) | 0.2.0 | mahach666 | Контракты и атрибуты для тестов, выполняющихся внутри клиента Pilot |
-| 2026-10-18 01:58:17 | [PilotUITesting](https://www.nuget.org/packages/PilotUITesting) | 0.2.0 | mahach666 | Библиотека для сквозных UI-тестов модулей Pilot-ICE / Pilot-BIM: запуск клиента… |
-| 2026-10-18 02:11:47 | [PgTtl](https://www.nuget.org/packages/PgTtl) | 0.1.0 | PgTtl contributors | Deletes expired rows from PostgreSQL tables with a ttl_expires_at timestamp col… |
-| 2026-10-18 02:13:06 | [Mesa.Templates.Framework](https://www.nuget.org/packages/Mesa.Templates.Framework) | 1.0.0 | Rayscale | Project template for creating Mesa frameworks. |
-| 2026-10-18 02:13:48 | [UnicoreSoftwareSolutions.ProjectTemplate.Web](https://www.nuget.org/packages/UnicoreSoftwareSolutions.ProjectTemplate.Web) | 1.0.0 | Unicore Software Solutions | A template for creating ASP.NET Core web applications. |
+| 2026-10-18 02:22:08 | [Darkspyre.ML.Tokenizers](https://www.nuget.org/packages/Darkspyre.ML.Tokenizers) | 2.0.1.1 | Microsoft,Darkspyre Studios | Darkspyre's source-compatible Microsoft.ML.Tokenizers fork with corrected Sente… |
+| 2026-10-18 02:32:43 | [Mesa.Foundation](https://www.nuget.org/packages/Mesa.Foundation) | 1.0.0 | Rayscale | Foundational abstractions, primitives, and shared utilities |
+| 2026-10-18 02:48:40 | [ZXingCpp.Angle](https://www.nuget.org/packages/ZXingCpp.Angle) | 1.0.0 | hixiong123 | Unofficial fork of zxing-cpp 3.1.1 / ZXingCpp 0.5.3: adds linear barcode detect… |
+| 2026-10-18 03:03:35 | [ReportWright.Data.Json](https://www.nuget.org/packages/ReportWright.Data.Json) | 1.0.0 | ReportWright contributors | REST/JSON and JSON-file data provider for ReportWright reports, with an element… |
+| 2026-10-18 03:03:36 | [ReportWright.Design](https://www.nuget.org/packages/ReportWright.Design) | 1.0.0 | ReportWright contributors | Designer-side model services over the DocWright report definition: reversible c… |
+| 2026-10-18 03:03:36 | [ReportWright.Blazor.Designer](https://www.nuget.org/packages/ReportWright.Blazor.Designer) | 1.0.0 | ReportWright contributors | The ReportWright report designer component for Blazor WebAssembly: design surfa… |
+| 2026-10-18 03:03:37 | [ReportWright.Blazor](https://www.nuget.org/packages/ReportWright.Blazor) | 1.0.0 | ReportWright contributors | Shared Blazor chrome for the ReportWright viewer and designer: the inline SVG i… |
+| 2026-10-18 03:03:38 | [ReportWright.Data.SystemData](https://www.nuget.org/packages/ReportWright.Data.SystemData) | 1.0.0 | ReportWright contributors | Bridges System.Data (DataTable, DataSet, IDataReader) to ReportWright reports a… |
+| 2026-10-18 03:03:39 | [ReportWright.Blazor.Viewer](https://www.nuget.org/packages/ReportWright.Blazor.Viewer) | 1.0.0 | ReportWright contributors | The ReportWright report viewer component for Blazor WebAssembly and Blazor Serv… |
+| 2026-10-18 03:03:39 | [ReportWright.AspNetCore](https://www.nuget.org/packages/ReportWright.AspNetCore) | 1.0.0 | ReportWright contributors | ASP.NET Core host for ReportWright: MapReportWright endpoints for report load a… |
+| 2026-10-18 03:03:40 | [ReportWright.Data.SqlServer](https://www.nuget.org/packages/ReportWright.Data.SqlServer) | 1.0.0 | ReportWright contributors | Microsoft SQL Server and Azure SQL data provider for ReportWright reports: para… |
+| 2026-10-18 03:03:41 | [ReportWright.Data.Csv](https://www.nuget.org/packages/ReportWright.Data.Csv) | 1.0.0 | ReportWright contributors | CSV and delimited-file data provider for ReportWright reports, with type infere… |
+| 2026-10-18 03:03:42 | [ReportWright.Data.Abstractions](https://www.nuget.org/packages/ReportWright.Data.Abstractions) | 1.0.0 | ReportWright contributors | The data-source seam ReportWright providers implement: connect, test and discov… |
+| 2026-10-18 03:03:43 | [ReportWright.Data.Xml](https://www.nuget.org/packages/ReportWright.Data.Xml) | 1.0.0 | ReportWright contributors | XML data provider for ReportWright reports: the XmlData a report embeds in its… |
+| 2026-10-18 03:11:36 | [JWTConfig](https://www.nuget.org/packages/JWTConfig) | 1.0.0 | JWTConfig | Package Description |
 
 ## Data source
 
