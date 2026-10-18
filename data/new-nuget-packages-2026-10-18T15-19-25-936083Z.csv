@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-18T14:30:12.953Z,E2e4.OpenXml.Wrappers,1.0.0,E2e4,"A Word-object-model-like API (Range, Paragraphs, Tables, Bookmarks, Comments, Fields, Sections, Styles and more) over the Open XML SDK, so that code for .docx files reads like the Word VBA macros it replaces."
+2026-10-18T14:33:10.35Z,CHOCore.chodatabase,8.0.0,CHOCore.chodatabase,Package Description
+2026-10-18T14:33:32.857Z,Esgo,0.1.1,ESGO Logistics UG (haftungsbeschränkt),Official .NET SDK for the ESGO API: matching search for empty truck runs and open transport requests.
+2026-10-18T14:40:40.617Z,Laminar,0.1.0,Jaxel Rojas,"Small, composable, operation-first resilience for .NET delegates."
+2026-10-18T14:59:44.15Z,Coworkee.Retention,0.0.1.34,fgilde,"Retention: days to keep per kind of data (audit trail, outbox, logs, deleted records, files, tokens), a nightly cleanup and an admin page."
+2026-10-18T14:59:52.17Z,CxAgent.Plugins.Abstractions,3.0.0,Nikolaos Protopapas,"The contract a cxagent plugin implements: IPlugin, its manifest, and the job types a tool exchanges."
