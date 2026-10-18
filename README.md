@@ -12,23 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 12:19 UTC
+## Latest list — 2026-10-18 13:19 UTC
 
-New packages created between 2026-10-18 11:18 UTC and 2026-10-18 12:19 UTC.
+New packages created between 2026-10-18 12:19 UTC and 2026-10-18 13:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T12-19-54-882218Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T13-19-44-680221Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 11:29:54 | [Insiyab.Avalonia](https://www.nuget.org/packages/Insiyab.Avalonia) | 0.2.0 | Mohammad Diab | Insiyab for Avalonia: the glass, RTL-first design system as Avalonia themes. |
-| 2026-10-18 11:32:44 | [Authway.Native](https://www.nuget.org/packages/Authway.Native) | 0.1.0 | iyulab | Sign a desktop or command-line app's user in with the system browser (OAuth 2.0… |
-| 2026-10-18 11:44:15 | [sf-DiscordRPC-NativeAOT](https://www.nuget.org/packages/sf-DiscordRPC-NativeAOT) | 1.6.1 | Lachee,AlphaBs | .NET 10 and NativeAOT compatible Discord Rich Presence client using System.Text… |
-| 2026-10-18 11:52:38 | [SlipeServer.Net.Core](https://www.nuget.org/packages/SlipeServer.Net.Core) | 0.1.0-CI-20261018-1… | Slipe | Interfaces and enums for the Slipe Server MTA San Andreas net library wrapper |
-| 2026-10-18 11:52:41 | [SlipeServer.Net.MtaBinaries](https://www.nuget.org/packages/SlipeServer.Net.MtaBinaries) | 0.1.0-CI-20261018-1… | Slipe | MTA San Andreas net library binaries and NetWrapper implementation for Slipe Se… |
-| 2026-10-18 12:03:31 | [D365KnowledgeBase.Devbox](https://www.nuget.org/packages/D365KnowledgeBase.Devbox) | 1.0.0 | D365KnowledgeBase.Devbox | Where Dynamics 365 Finance and Operations metadata lives on a development box a… |
-| 2026-10-18 12:04:03 | [D365KnowledgeBase.Labels](https://www.nuget.org/packages/D365KnowledgeBase.Labels) | 1.0.0 | D365KnowledgeBase.Labels | Dynamics 365 Finance and Operations label files: reading and writing the .label… |
-| 2026-10-18 12:04:17 | [D365KnowledgeBase.Metadata](https://www.nuget.org/packages/D365KnowledgeBase.Metadata) | 1.0.0 | D365KnowledgeBase.Metadata | Dynamics 365 Finance and Operations metadata elements read from their XML files… |
-| 2026-10-18 12:09:53 | [Vestigium.Helpers.Kql.ActiveSetup](https://www.nuget.org/packages/Vestigium.Helpers.Kql.ActiveSetup) | 1.0.0 | Vestigium | Active Setup field catalog and session for Vestigium.Helpers.Kql. |
+| 2026-10-18 12:32:43 | [KeelMatrix.ResilienceSpec](https://www.nuget.org/packages/KeelMatrix.ResilienceSpec) | 0.1.0 | KeelMatrix | Verify how your real .NET HttpClient resilience chain retries, delays, times ou… |
+| 2026-10-18 13:00:03 | [ErinnArrayQueue](https://www.nuget.org/packages/ErinnArrayQueue) | 1.0.0 | Molth Nevin | Bounded multi-producer, multi-consumer array queue with fixed capacity. |
+| 2026-10-18 13:03:02 | [Novolis.IO.SystemMetrics](https://www.nuget.org/packages/Novolis.IO.SystemMetrics) | 2026.1.1.56 | Novolis | Cross-platform system resource inventory and time-series metrics capture. |
+| 2026-10-18 13:11:57 | [Xingqiao.SDK.Tools](https://www.nuget.org/packages/Xingqiao.SDK.Tools) | 1.0.0-alpha | CuPhoenix | 提供智能体工具封装、工具集合管理、自动发现及 OpenAI Responses 工具定义导出。 |
 
 ## Data source
 

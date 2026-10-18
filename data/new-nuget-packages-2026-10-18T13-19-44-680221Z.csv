@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-18T12:32:43.27Z,KeelMatrix.ResilienceSpec,0.1.0,KeelMatrix,"Verify how your real .NET HttpClient resilience chain retries, delays, times out, and finishes under deterministic scripted failures for testing and CI."
+2026-10-18T13:00:03.907Z,ErinnArrayQueue,1.0.0,Molth Nevin,"Bounded multi-producer, multi-consumer array queue with fixed capacity."
+2026-10-18T13:03:02.02Z,Novolis.IO.SystemMetrics,2026.1.1.56,Novolis,Cross-platform system resource inventory and time-series metrics capture.
+2026-10-18T13:11:57.457Z,Xingqiao.SDK.Tools,1.0.0-alpha,CuPhoenix,提供智能体工具封装、工具集合管理、自动发现及 OpenAI Responses 工具定义导出。
