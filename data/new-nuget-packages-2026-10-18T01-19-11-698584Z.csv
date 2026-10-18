@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-18T00:56:46.383Z,Webority.Documents,0.1.0,Webority Technologies,"Document text extraction (PDF, Word, PowerPoint, HTML, plain text), PDF page layout and PDF merge for Webority products, over streams."
+2026-10-18T00:56:46.527Z,Webority.Books,0.1.0,Webority Technologies,"Books (accounting ledger) contracts for Webority products: reader, writer, e-invoicing and a call gate, in vendor-neutral types."
+2026-10-18T00:56:48.96Z,Webority.Books.Zoho,0.1.0,Webority Technologies,"Zoho Books adapter for Webority.Books: OAuth grants, pacing, resilience and the Zoho Books v3 API."
+2026-10-18T01:00:43.11Z,VeriSec,1.0.0,VeriSec Labs,"The official .NET library for the VeriSec API: identity (KYC) and Financial checks, with typed requests and answers, images from files, safe retries and webhook verification."
