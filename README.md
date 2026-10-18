@@ -12,19 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 10:21 UTC
+## Latest list — 2026-10-18 11:18 UTC
 
-New packages created between 2026-10-18 09:19 UTC and 2026-10-18 10:21 UTC.
+New packages created between 2026-10-18 10:21 UTC and 2026-10-18 11:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T10-21-28-123748Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T11-18-33-943299Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 09:25:16 | [Meshmakers.Octo.Services.Methods](https://www.nuget.org/packages/Meshmakers.Octo.Services.Methods) | 3.5.30 | meshmakers GmbH and Contribut… | CK method handler SDK: typed handlers on top of the OctoMesh CK method wire con… |
-| 2026-10-18 09:51:09 | [Ruben2776.R3](https://www.nuget.org/packages/Ruben2776.R3) | 1.3.1 | Cysharp | The evolution of dotnet/reactive and UniRx. |
-| 2026-10-18 09:55:51 | [AuthGuard.Sdk](https://www.nuget.org/packages/AuthGuard.Sdk) | 1.0.0 | AuthGuard | Client SDK for AuthGuard, a software licensing platform. Every server reply is… |
-| 2026-10-18 10:11:39 | [a2n.Vista.Adapters.TanStackTable](https://www.nuget.org/packages/a2n.Vista.Adapters.TanStackTable) | 0.0.5 | Anwar Minarso | Vista adapter for TanStack Table (React, Vue, Solid). |
-| 2026-10-18 10:12:43 | [Arc56.Generated.shashank6-alt.Vaarush](https://www.nuget.org/packages/Arc56.Generated.shashank6-alt.Vaarush) | 1.0.1.2026101810 | shashank6-alt | Generated ARC-56 Algorand smart-contract clients for shashank6-alt/Vaarush. |
+| 2026-10-18 10:22:21 | [dotnet-nuget-content.win-x64](https://www.nuget.org/packages/dotnet-nuget-content.win-x64) | 1.0.0 | Martin Koch | Windows command-line tool for creating and maintaining immutable NuGet packages… |
+| 2026-10-18 10:22:32 | [dotnet-nuget-content](https://www.nuget.org/packages/dotnet-nuget-content) | 1.0.0 | Martin Koch | Windows command-line tool for creating and maintaining immutable NuGet packages… |
+| 2026-10-18 10:28:43 | [DubUrl.Worker](https://www.nuget.org/packages/DubUrl.Worker) | 1.1.0 | Cédric L. Charlier | Persistent JSON-RPC worker infrastructure for DubUrl application services. |
+| 2026-10-18 10:28:45 | [DubUrl.Worker.linux-musl-x64](https://www.nuget.org/packages/DubUrl.Worker.linux-musl-x64) | 1.1.0 | Cédric L. Charlier | Persistent JSON-RPC worker infrastructure for DubUrl application services. |
+| 2026-10-18 10:28:47 | [DubUrl.Worker.linux-x64](https://www.nuget.org/packages/DubUrl.Worker.linux-x64) | 1.1.0 | Cédric L. Charlier | Persistent JSON-RPC worker infrastructure for DubUrl application services. |
+| 2026-10-18 10:28:49 | [DubUrl.Worker.win-arm64](https://www.nuget.org/packages/DubUrl.Worker.win-arm64) | 1.1.0 | Cédric L. Charlier | Persistent JSON-RPC worker infrastructure for DubUrl application services. |
+| 2026-10-18 10:28:51 | [DubUrl.Worker.win-x64](https://www.nuget.org/packages/DubUrl.Worker.win-x64) | 1.1.0 | Cédric L. Charlier | Persistent JSON-RPC worker infrastructure for DubUrl application services. |
+| 2026-10-18 10:29:31 | [Egami.Svg](https://www.nuget.org/packages/Egami.Svg) | 1.0.0 | Lars Dytterud | SVG for Egami: reads SVG 1.1 and SVG 2 files into an editable element tree, sav… |
+| 2026-10-18 10:29:31 | [Egami.Drawing](https://www.nuget.org/packages/Egami.Drawing) | 1.0.0 | Lars Dytterud | Antialiased paths, shapes, strokes, clips, images, paints, layers, meshes and r… |
+| 2026-10-18 10:29:32 | [Egami.Css](https://www.nuget.org/packages/Egami.Css) | 1.0.0 | Lars Dytterud | CSS for Egami: the CSS Syntax 3 tokenizer and parser, Selectors 4 matching, the… |
+| 2026-10-18 10:29:33 | [Egami.Fonts](https://www.nuget.org/packages/Egami.Fonts) | 1.0.0 | Lars Dytterud | TrueType and OpenType (CFF) fonts for Egami: faces, glyph outlines, metrics, ke… |
+| 2026-10-18 10:29:33 | [Egami](https://www.nuget.org/packages/Egami) | 1.0.0 | Lars Dytterud | A fully managed, MIT-licensed 2D imaging library for .NET. |
+| 2026-10-18 10:29:34 | [VikashKumar.XrmToolBox.ThemeMigrator](https://www.nuget.org/packages/VikashKumar.XrmToolBox.ThemeMigrator) | 1.2026.10.1 | Vikash Kumar | XrmToolBox tool that migrates model-driven app themes from a source to a target… |
+| 2026-10-18 10:32:47 | [NN.FeatureFlags](https://www.nuget.org/packages/NN.FeatureFlags) | 1.0.0 | nicknad | A small, dependency-light feature-flag library for .NET: synchronous evaluation… |
+| 2026-10-18 10:40:56 | [s4ndr0ne.SimpleMediator.Outbox](https://www.nuget.org/packages/s4ndr0ne.SimpleMediator.Outbox) | 4.2.0 | s4ndr0ne | Provider-agnostic transactional outbox contracts and hosted dispatcher for Simp… |
+| 2026-10-18 10:42:47 | [PseudoNet.Templates](https://www.nuget.org/packages/PseudoNet.Templates) | 0.1.0 | Malek AIT OUARET | dotnet new templates for Pseudo.NET: free-form pseudocode compiled to C# by a l… |
+| 2026-10-18 10:48:25 | [ContactCenterALM.XrmToolBox](https://www.nuget.org/packages/ContactCenterALM.XrmToolBox) | 0.1.26 | Peter Ruiter | Compare and move Dynamics 365 Contact Center configuration between environments… |
+| 2026-10-18 10:56:11 | [Emrtd](https://www.nuget.org/packages/Emrtd) | 0.1.0 | Chamnan Nop | Reads the chip of ICAO 9303 ePassports and eID cards over PC/SC (NFC): PACE and… |
+| 2026-10-18 10:59:16 | [Zongsoft.Diagnostics](https://www.nuget.org/packages/Zongsoft.Diagnostics) | 1.13.0 | Zongsoft Studio(zongsoft@qq.c… | This is a class library for OpenTelemetry protocols. |
+| 2026-10-18 10:59:28 | [CryptoBase.IO](https://www.nuget.org/packages/CryptoBase.IO) | 5.0.0 | HMBSbige | Stream and file I/O for CryptoBase. |
+| 2026-10-18 11:00:05 | [OmarAyyad.XrmToolBox.FieldDependencies](https://www.nuget.org/packages/OmarAyyad.XrmToolBox.FieldDependencies) | 1.8.0.2 | Omar Mohamed Ayyad | Field Dependencies helps Dynamics 365 and Dataverse developers identify where f… |
+| 2026-10-18 11:03:22 | [SystemJobsDoctor](https://www.nuget.org/packages/SystemJobsDoctor) | 1.0.0 | AmraouiH | System Jobs Doctor helps Dynamics 365 / Dataverse developers, support teams and… |
 
 ## Data source
 
