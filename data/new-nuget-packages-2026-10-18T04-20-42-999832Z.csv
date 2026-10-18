@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-18T03:50:46.423Z,CodeGenNew.Cli,0.1.0,ericwood8,"Generates stored procedures, entities, APIs and WinUI3 / React / Angular screens from a database schema with T4 templates."
+2026-10-18T04:01:03.58Z,NetPowerON.UI.FileModel,0.0.0.12,Darren King,Package Description
+2026-10-18T04:01:03.9Z,NetPowerON.UI.Session,0.0.0.12,Darren King,Package Description
+2026-10-18T04:01:04.173Z,NetPowerON.UI.Session.Abstractions,0.0.0.12,Darren King,Package Description
+2026-10-18T04:01:04.41Z,NetPowerON.UI,0.0.0.12,Darren King,Package Description
+2026-10-18T04:01:04.7Z,NetPowerON.UI.FileModel.Abstractions,0.0.0.12,Darren King,Package Description
+2026-10-18T04:01:04.967Z,NetPowerON.UI.Abstractions,0.0.0.12,Darren King,Package Description
+2026-10-18T04:08:33.033Z,PrintedJs.HeadlessWebView,0.2.0,PrintedJS Contributors,Cross-platform headless webview and vector PDF rendering library for .NET powered by Wry and OS-native web engines.
+2026-10-18T04:12:07.503Z,Navs.CSharp,2.0.0,Angel Munoz and contributors,Package Description
+2026-10-18T04:12:08.11Z,UrlTemplates.CSharp,2.0.0,Angel Munoz and contributors,Package Description

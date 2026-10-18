@@ -12,29 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 03:21 UTC
+## Latest list — 2026-10-18 04:20 UTC
 
-New packages created between 2026-10-18 02:21 UTC and 2026-10-18 03:21 UTC.
+New packages created between 2026-10-18 03:21 UTC and 2026-10-18 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T03-21-46-384128Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T04-20-42-999832Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 02:22:08 | [Darkspyre.ML.Tokenizers](https://www.nuget.org/packages/Darkspyre.ML.Tokenizers) | 2.0.1.1 | Microsoft,Darkspyre Studios | Darkspyre's source-compatible Microsoft.ML.Tokenizers fork with corrected Sente… |
-| 2026-10-18 02:32:43 | [Mesa.Foundation](https://www.nuget.org/packages/Mesa.Foundation) | 1.0.0 | Rayscale | Foundational abstractions, primitives, and shared utilities |
-| 2026-10-18 02:48:40 | [ZXingCpp.Angle](https://www.nuget.org/packages/ZXingCpp.Angle) | 1.0.0 | hixiong123 | Unofficial fork of zxing-cpp 3.1.1 / ZXingCpp 0.5.3: adds linear barcode detect… |
-| 2026-10-18 03:03:35 | [ReportWright.Data.Json](https://www.nuget.org/packages/ReportWright.Data.Json) | 1.0.0 | ReportWright contributors | REST/JSON and JSON-file data provider for ReportWright reports, with an element… |
-| 2026-10-18 03:03:36 | [ReportWright.Design](https://www.nuget.org/packages/ReportWright.Design) | 1.0.0 | ReportWright contributors | Designer-side model services over the DocWright report definition: reversible c… |
-| 2026-10-18 03:03:36 | [ReportWright.Blazor.Designer](https://www.nuget.org/packages/ReportWright.Blazor.Designer) | 1.0.0 | ReportWright contributors | The ReportWright report designer component for Blazor WebAssembly: design surfa… |
-| 2026-10-18 03:03:37 | [ReportWright.Blazor](https://www.nuget.org/packages/ReportWright.Blazor) | 1.0.0 | ReportWright contributors | Shared Blazor chrome for the ReportWright viewer and designer: the inline SVG i… |
-| 2026-10-18 03:03:38 | [ReportWright.Data.SystemData](https://www.nuget.org/packages/ReportWright.Data.SystemData) | 1.0.0 | ReportWright contributors | Bridges System.Data (DataTable, DataSet, IDataReader) to ReportWright reports a… |
-| 2026-10-18 03:03:39 | [ReportWright.Blazor.Viewer](https://www.nuget.org/packages/ReportWright.Blazor.Viewer) | 1.0.0 | ReportWright contributors | The ReportWright report viewer component for Blazor WebAssembly and Blazor Serv… |
-| 2026-10-18 03:03:39 | [ReportWright.AspNetCore](https://www.nuget.org/packages/ReportWright.AspNetCore) | 1.0.0 | ReportWright contributors | ASP.NET Core host for ReportWright: MapReportWright endpoints for report load a… |
-| 2026-10-18 03:03:40 | [ReportWright.Data.SqlServer](https://www.nuget.org/packages/ReportWright.Data.SqlServer) | 1.0.0 | ReportWright contributors | Microsoft SQL Server and Azure SQL data provider for ReportWright reports: para… |
-| 2026-10-18 03:03:41 | [ReportWright.Data.Csv](https://www.nuget.org/packages/ReportWright.Data.Csv) | 1.0.0 | ReportWright contributors | CSV and delimited-file data provider for ReportWright reports, with type infere… |
-| 2026-10-18 03:03:42 | [ReportWright.Data.Abstractions](https://www.nuget.org/packages/ReportWright.Data.Abstractions) | 1.0.0 | ReportWright contributors | The data-source seam ReportWright providers implement: connect, test and discov… |
-| 2026-10-18 03:03:43 | [ReportWright.Data.Xml](https://www.nuget.org/packages/ReportWright.Data.Xml) | 1.0.0 | ReportWright contributors | XML data provider for ReportWright reports: the XmlData a report embeds in its… |
-| 2026-10-18 03:11:36 | [JWTConfig](https://www.nuget.org/packages/JWTConfig) | 1.0.0 | JWTConfig | Package Description |
+| 2026-10-18 03:50:46 | [CodeGenNew.Cli](https://www.nuget.org/packages/CodeGenNew.Cli) | 0.1.0 | ericwood8 | Generates stored procedures, entities, APIs and WinUI3 / React / Angular screen… |
+| 2026-10-18 04:01:03 | [NetPowerON.UI.FileModel](https://www.nuget.org/packages/NetPowerON.UI.FileModel) | 0.0.0.12 | Darren King | Package Description |
+| 2026-10-18 04:01:03 | [NetPowerON.UI.Session](https://www.nuget.org/packages/NetPowerON.UI.Session) | 0.0.0.12 | Darren King | Package Description |
+| 2026-10-18 04:01:04 | [NetPowerON.UI.Session.Abstractions](https://www.nuget.org/packages/NetPowerON.UI.Session.Abstractions) | 0.0.0.12 | Darren King | Package Description |
+| 2026-10-18 04:01:04 | [NetPowerON.UI](https://www.nuget.org/packages/NetPowerON.UI) | 0.0.0.12 | Darren King | Package Description |
+| 2026-10-18 04:01:04 | [NetPowerON.UI.FileModel.Abstractions](https://www.nuget.org/packages/NetPowerON.UI.FileModel.Abstractions) | 0.0.0.12 | Darren King | Package Description |
+| 2026-10-18 04:01:04 | [NetPowerON.UI.Abstractions](https://www.nuget.org/packages/NetPowerON.UI.Abstractions) | 0.0.0.12 | Darren King | Package Description |
+| 2026-10-18 04:08:33 | [PrintedJs.HeadlessWebView](https://www.nuget.org/packages/PrintedJs.HeadlessWebView) | 0.2.0 | PrintedJS Contributors | Cross-platform headless webview and vector PDF rendering library for .NET power… |
+| 2026-10-18 04:12:07 | [Navs.CSharp](https://www.nuget.org/packages/Navs.CSharp) | 2.0.0 | Angel Munoz and contributors | Package Description |
+| 2026-10-18 04:12:08 | [UrlTemplates.CSharp](https://www.nuget.org/packages/UrlTemplates.CSharp) | 2.0.0 | Angel Munoz and contributors | Package Description |
 
 ## Data source
 
