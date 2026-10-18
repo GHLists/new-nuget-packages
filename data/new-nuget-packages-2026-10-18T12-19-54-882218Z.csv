@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-18T11:29:54.82Z,Insiyab.Avalonia,0.2.0,Mohammad Diab,"Insiyab for Avalonia: the glass, RTL-first design system as Avalonia themes."
+2026-10-18T11:32:44.807Z,Authway.Native,0.1.0,iyulab,"Sign a desktop or command-line app's user in with the system browser (OAuth 2.0 for Native Apps: loopback redirect + PKCE), keep the tokens in a store the app chooses, and refresh them before they expire. Standard OpenID Connect discovery — written for Authway, works with any OpenID provider."
+2026-10-18T11:44:15.167Z,sf-DiscordRPC-NativeAOT,1.6.1,"Lachee,AlphaBs",.NET 10 and NativeAOT compatible Discord Rich Presence client using System.Text.Json.
+2026-10-18T11:52:38.647Z,SlipeServer.Net.Core,0.1.0-CI-20261018-1…,Slipe,Interfaces and enums for the Slipe Server MTA San Andreas net library wrapper
+2026-10-18T11:52:41.66Z,SlipeServer.Net.MtaBinaries,0.1.0-CI-20261018-1…,Slipe,MTA San Andreas net library binaries and NetWrapper implementation for Slipe Server
+2026-10-18T12:03:31.733Z,D365KnowledgeBase.Devbox,1.0.0,D365KnowledgeBase.Devbox,"Where Dynamics 365 Finance and Operations metadata lives on a development box and how it is laid out: PackagesLocalDirectory detection, packages, model descriptors, element files, Visual Studio solutions and projects, and the conventions of the metadata XML files."
+2026-10-18T12:04:03.7Z,D365KnowledgeBase.Labels,1.0.0,D365KnowledgeBase.Labels,"Dynamics 365 Finance and Operations label files: reading and writing the .label.txt resources exactly as Visual Studio does, label file descriptors and their languages, label references and ids, and the SYS label file."
+2026-10-18T12:04:17.897Z,D365KnowledgeBase.Metadata,1.0.0,D365KnowledgeBase.Metadata,"Dynamics 365 Finance and Operations metadata elements read from their XML files: tables (fields, relations and their constraints) and data entities (fields, data source tree, joins, ranges, primary key), with the relation lookup that resolves a data source join."
+2026-10-18T12:09:53.687Z,Vestigium.Helpers.Kql.ActiveSetup,1.0.0,Vestigium,Active Setup field catalog and session for Vestigium.Helpers.Kql.
