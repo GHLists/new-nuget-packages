@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-18T16:37:07.787Z,Zongsoft.Tools.Containerizer,1.0.0,Popeye Zhong(zongsoft@qq.com),The Zongsoft Containerization .NET Tool.
+2026-10-18T16:43:11.073Z,Ezacloud.Sdk,0.2.0,Eza Cloud,"Official .NET client library for Eza Cloud (PayEdge M-Pesa STK push, Transactional Email, Webhook Verification)."
+2026-10-18T17:07:58.553Z,Calysto.Huawei.Push,1.0.4,Calysto,"Provided as-is, no warranty of any kind."
+2026-10-18T17:07:58.667Z,SMSPool,0.1.0,SMSPool,Official .NET client for the SMSPool API (https://api.smspool.net/docs).
+2026-10-18T17:08:54.057Z,Suncaomei.AdminNetBasic.FullStack.Templates,1.0.0,suncaomei,Admin.NET.Pro 精简后的 .NET 10 后端与 Naive UI 前端全栈模板。
+2026-10-18T17:08:55.583Z,Suncaomei.AdminNetBasic.Templates,1.0.0,suncaomei,Admin.NET.Pro 精简后的 .NET 10 基础管理后端模板。
+2026-10-18T17:15:58.78Z,Tai.Account.Extension.OAuth.Cli,1.1.0,Tai,"Reusable ABP module for WeChat/SMS user login, opt-in tenant-bound OAuth client credentials, and user-delegated CLI login (device flow and PKCE)."
