@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-18T13:20:31.437Z,Egami.Metafiles,1.0.0,Lars Dytterud,"Windows metafiles for Egami: plays WMF, EMF and EMF+ pictures onto Egami.Drawing's canvas, so they stay vectors in PDF and SVG output and rasterize on any OS, in managed code."
+2026-10-18T13:20:31.59Z,VL.NetTopologySuite.GeoJSON,0.0.1-alpha,VL.NetTopologySuite.GeoJSON Contributors,"EARLY - not ready for real work yet. GeoJSON for VL.NetTopologySuite. Read GeoJSON turns GeoJSON text into a spread of NetTopologySuite features; Write GeoJSON turns features back into text. GeoJSONReader (Reactive) reads a file on another thread, with progress and cancellation, so a big file does…"
+2026-10-18T13:21:10.367Z,InterpraticVPK,1.0.0,Aether,"A fast, modern .NET 10.0 library for reading, extracting, and packing Valve VPK archives."
+2026-10-18T13:25:11.117Z,IcodeNet.FluentSpecification,1.1.1,Icode.net Ltd,"A lightweight implementation of the Specification pattern. Express business rules as reusable objects and combine them with And, Or and Not."
+2026-10-18T13:30:04.77Z,OneStopAntibot,0.2.0,onestopantibot,"OneStop Antibot SDK: generate Akamai, SBSD, Pixel, DataDome, Cloudflare, Kasada and Imperva payloads through the /generate API."
+2026-10-18T13:30:40.757Z,DubUrl-cli.osx-arm64,0.36.0,Cédric L. Charlier,Package Description
+2026-10-18T13:30:42.66Z,DubUrl-cli.osx-x64,0.36.0,Cédric L. Charlier,Package Description
+2026-10-18T13:30:50.74Z,DubUrl.Worker.osx-arm64,0.36.0,Cédric L. Charlier,Persistent JSON-RPC worker infrastructure for DubUrl application services.
+2026-10-18T13:30:54.243Z,DubUrl.Worker.osx-x64,0.36.0,Cédric L. Charlier,Persistent JSON-RPC worker infrastructure for DubUrl application services.
+2026-10-18T13:35:09.383Z,LYSoft.Libs.OpenApiClient,10.0.4,LYSoft,Package Description
+2026-10-18T13:37:53.03Z,DotSexpr,0.0.1,ts696,An S-expression parser and deserializer for .NET Standard 2.1 and .NET 10.
+2026-10-18T13:51:52.57Z,Novolis.Testing.Timeline,2026.1.1.58,Novolis,"Framework-neutral evidence timelines with portable frames, events, telemetry, logs, Markdown, and HTML output."
+2026-10-18T13:57:52.367Z,Bit.Blex.Testing,11.0.0-pre-10,bit platform,Testing helpers for Bit.Blex: an action-recording harness and assertions for stores and the manager.
+2026-10-18T13:57:53.743Z,Bit.Blex.Generators,11.0.0-pre-10,bit platform,"The Roslyn source generator for Bit.Blex: turns [BlexStore] classes into reactive stores with generated state properties, memoized computed values, action and effect wrappers, and JSON snapshots."
+2026-10-18T13:57:54.84Z,Bit.Bmage.Core,11.0.0-pre-10,bit platform,"Browser-independent image processing engine of bit Bmage: pixel buffers, transforms, adjustments, filters, drawing, annotations, EXIF metadata, managed PNG/JPEG/BMP/GIF codecs and composable non-destructive pipelines."
+2026-10-18T13:57:55.523Z,Bit.Blex,11.0.0-pre-10,bit platform,"Lightweight, source-generator-powered reactive state management for Blazor and .NET MAUI, with computed state, effects, middleware, persistence, undo/redo and Redux DevTools time-travel. Add Bit.Blex.Generators next to it for the source generator."
+2026-10-18T14:00:28.293Z,BevyCSharp.Templates,0.5.105,EggyStudio,"Templates for a game on BevyCSharp, Bevy written in C#: `dotnet new bevycsharp` makes a window with a turning cube, a behavior and the one line that runs it, and `dotnet new bevycsharp-empty` an empty window."
+2026-10-18T14:00:42.34Z,3DEngine.Templates,5.2.43,EggyStudio,"Templates for a game on 3DEngine: `dotnet new 3dengine` for a program of plain calls, and `dotnet new 3dengine-ecs` for one whose state is in behaviors."
+2026-10-18T14:12:07.217Z,Meziantou.Framework.WebPlatform.Imaging,1.0.0,meziantou,"Rasterizes the documents of Meziantou.Framework.WebPlatform with the fully managed drawing API of Meziantou.Framework.Imaging (a RenderingBackend): screenshots of the pages and of the elements, 2D canvases, image decoding and encoding."
+2026-10-18T14:12:07.423Z,Meziantou.Framework.WebPlatform.Jint,1.0.0,meziantou,Runs the scripts of the documents of Meziantou.Framework.WebPlatform with the Jint JavaScript engine (a ScriptEngine with the WebIDL bindings of the DOM).
+2026-10-18T14:12:07.537Z,Meziantou.Framework.WebPlatform.Wasmtime,1.0.0,meziantou,Runs the WebAssembly modules of the scripts of Meziantou.Framework.WebPlatform with Wasmtime (a WebAssemblyRuntime for the WebAssembly JavaScript API).
+2026-10-18T14:14:50.043Z,Novolis.MSBuild.BuildReference,2026.1.1.16,Novolis,Evaluation-time build-only package references with private MSBuild assets by default.
+2026-10-18T14:14:51.06Z,Novolis.MSBuild.CodeGen,2026.1.1.16,Novolis,Reusable incremental MSBuild lifecycle for file-generating code generators.
+2026-10-18T14:14:52.73Z,Novolis.MSBuild.Packaging,2026.1.1.16,Novolis,"Reusable README, icon, documentation, and package-content MSBuild conventions."
+2026-10-18T14:15:05.853Z,Robovue.Sdk,0.2.0,Robovue,"Report RPA and scripted bot runs to Robovue: signed requests, retries, checks before sending and dry runs."
