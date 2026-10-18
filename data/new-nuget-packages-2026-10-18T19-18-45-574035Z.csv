@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-18T18:28:41.957Z,RzR.Infrastructure.DependencyResolver,2.0.0,RzR,"A straightforward, lightweight, minimalistic implementation of Dependency Injection (DI) that avoids redundant class instance initialization and promotes a cleaner, more maintainable code."
+2026-10-18T18:28:49.49Z,RA.Utilities.Dispatcher,10.0.0,Redon Alla,"Provides a lightweight, source-generated mediator (dispatcher) for CQRS, including Result-based request and notification dispatch, pipeline behaviors, validation, and automatic handler registration."
+2026-10-18T18:35:45.24Z,Egami.Fonts.Substitutes,1.0.0,Lars Dytterud,"Open, metric-compatible substitutes for the fonts documents name most, for Egami.Fonts: Liberation Sans, Serif and Mono for Helvetica, Arial, Times, Times New Roman, Courier and Courier New, Carlito for Calibri and Caladea for Cambria (SIL OFL 1.1)."
+2026-10-18T18:57:27.19Z,Novolis.IO.ConnectedDevices,2026.1.1.60,Novolis,Cross-platform HID connected-device discovery and raw input streams.
+2026-10-18T18:57:34.693Z,DotnetCronner.OpenTelemetry,0.2.0,Malte,OpenTelemetry instrumentation for DotnetCronner: registers the scheduler's metrics and traces with a single AddCronnerInstrumentation() call.
+2026-10-18T19:03:09.677Z,DesharpCore,1.0.0,rsobrepena,"DesharpCore - C#/VB .NET debuging utility to dump or log structured variables, exceptions, stack traces and much more into console, Visual Studio console, into HTML web response as a floating window or into html/text log files on HDD. Download and install Visual Studio code snippets for DesharpCore…"
+2026-10-18T19:06:01.717Z,FrApp42.WPF.Pwsh,1.0.0,FrApp42,WPF control hosting a real PowerShell session through ConPTY
+2026-10-18T19:09:18.66Z,Wyrd,0.3.0,Amin Chouaibi,"Deterministic event-driven processes for .NET: pure deciders, declarative sagas, versioned integration contracts, framework-owned side effects."
+2026-10-18T19:09:19.54Z,Wyrd.Tool,0.3.0,Amin Chouaibi,Generate AsyncAPI and Mermaid documentation from Wyrd contracts and processes.
+2026-10-18T19:09:20.493Z,Wyrd.Testing,0.3.0,Amin Chouaibi,Testing for Wyrd: Given/When/Then scenarios for slices and projections that read like business specifications. Works with any test framework.
