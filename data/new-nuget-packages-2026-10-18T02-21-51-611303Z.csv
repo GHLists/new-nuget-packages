@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-18T01:28:51.417Z,Soenneker.Firmware.SeaPilot,4.0.2,Jake Soenneker,Seagate firmware discovery and downloads using OpenSeaChest and stealth browser automation.
+2026-10-18T01:29:18.267Z,Codyps.Zpl,0.3.1,Cody P Schafer,"Local ZPL parsing and rendering to PNG, SVG, PDF and grayscale, powered by the Rust zpl renderer."
+2026-10-18T01:32:29.51Z,DevWithMJ.QuickBooks.Mcp,0.1.1,quickbooks-mcp,MCP server for QuickBooks Desktop (Windows). Read-only by default.
+2026-10-18T01:58:15.68Z,PilotTestHost.Sdk,0.2.0,mahach666,"Контракты и атрибуты для тестов, выполняющихся внутри клиента Pilot"
+2026-10-18T01:58:17.033Z,PilotUITesting,0.2.0,mahach666,"Библиотека для сквозных UI-тестов модулей Pilot-ICE / Pilot-BIM: запуск клиента, вход, открытие вкладок модулей, стандартные диалоги Pilot, тестовые данные через Server API."
+2026-10-18T02:11:47.127Z,PgTtl,0.1.0,PgTtl contributors,Deletes expired rows from PostgreSQL tables with a ttl_expires_at timestamp column.
+2026-10-18T02:13:06.827Z,Mesa.Templates.Framework,1.0.0,Rayscale,Project template for creating Mesa frameworks.
+2026-10-18T02:13:48.427Z,UnicoreSoftwareSolutions.ProjectTemplate.Web,1.0.0,Unicore Software Solutions,A template for creating ASP.NET Core web applications.
