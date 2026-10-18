@@ -12,31 +12,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 22:20 UTC
+## Latest list — 2026-10-18 23:19 UTC
 
-New packages created between 2026-10-18 21:20 UTC and 2026-10-18 22:20 UTC.
+New packages created between 2026-10-18 22:20 UTC and 2026-10-18 23:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T22-20-56-425738Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T23-19-30-707392Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 21:22:40 | [SharpKind.Emulation](https://www.nuget.org/packages/SharpKind.Emulation) | 2.0.0 | Andy Hawkins | Software emulation of the MOS 6502 CPU and the C64 SID sound chip for SharpKind… |
-| 2026-10-18 21:22:41 | [SharpKind.Security.Cryptography.Cryptanalysis](https://www.nuget.org/packages/SharpKind.Security.Cryptography.Cryptanalysis) | 2.0.0 | Andy Hawkins | Cryptanalysis of the SharpKind classical ciphers: Caesar by letter frequencies,… |
-| 2026-10-18 21:23:41 | [InferenceEngine.ROCm.Runtime.linux-x64](https://www.nuget.org/packages/InferenceEngine.ROCm.Runtime.linux-x64) | 1.24.1.41 | intel-agency | ROCm-accelerated ONNX Runtime native libraries for Linux x64 (AMD GPU) using MI… |
-| 2026-10-18 21:30:57 | [XamlVisualEditor.SourceControl.UI](https://www.nuget.org/packages/XamlVisualEditor.SourceControl.UI) | 0.3.0 | Wiesław Šoltés | Source control UI building blocks: unified diff editor, diff lines and data gri… |
-| 2026-10-18 21:35:55 | [Pinqponq.Push.Fcm](https://www.nuget.org/packages/Pinqponq.Push.Fcm) | 1.1.0 | Pinqponq | Firebase Cloud Messaging sender: notification and data-only pushes to device to… |
-| 2026-10-18 21:37:40 | [Novolis.Game.Sudoku](https://www.nuget.org/packages/Novolis.Game.Sudoku) | 2026.1.1.36 | Novolis | Host-neutral classic Sudoku boards, solving, generation, and difficulty analysi… |
-| 2026-10-18 21:38:44 | [Fuaran.UI.Design.Seam](https://www.nuget.org/packages/Fuaran.UI.Design.Seam) | 0.97.0 | Andrew J. Willshire | The design-provider seam of Fuaran UI: the records a design tool and the langua… |
-| 2026-10-18 21:49:37 | [Frisket](https://www.nuget.org/packages/Frisket) | 0.1.0 | Frederic Derenty | A document engine with no third-party dependencies: JSON templates and data kep… |
-| 2026-10-18 21:49:38 | [Frisket.Import](https://www.nuget.org/packages/Frisket.Import) | 0.1.0 | Frederic Derenty | Reads one page out of an existing PDF and hands it to Frisket, which lays it ou… |
-| 2026-10-18 21:49:38 | [Frisket.Fonts](https://www.nuget.org/packages/Frisket.Fonts) | 0.1.0 | Frederic Derenty | The typefaces Frisket draws with when it is given none: Mulish, the default, th… |
-| 2026-10-18 21:51:08 | [Bit.BlazeDb.Generators](https://www.nuget.org/packages/Bit.BlazeDb.Generators) | 11.0.0-pre-10 | bit platform | The Roslyn source generator for Bit.BlazeDb: turns [BlazeDbTable] types into ta… |
-| 2026-10-18 21:51:10 | [Bit.BlazeDb](https://www.nuget.org/packages/Bit.BlazeDb) | 11.0.0-pre-10 | bit platform | Bit.BlazeDb |
-| 2026-10-18 21:51:11 | [Bit.Bsqlite.Storage.IndexedDb](https://www.nuget.org/packages/Bit.Bsqlite.Storage.IndexedDb) | 11.0.0-pre-10 | bit platform | IndexedDB storage for bit Bsqlite, using wa-sqlite's IDBBatchAtomicVFS: persist… |
-| 2026-10-18 21:51:13 | [Bit.Bsqlite.Storage.Opfs](https://www.nuget.org/packages/Bit.Bsqlite.Storage.Opfs) | 11.0.0-pre-10 | bit platform | OPFS storage for bit Bsqlite, using wa-sqlite's OPFSCoopSyncVFS: persistent, mu… |
-| 2026-10-18 21:51:15 | [Bit.BlazeDb.Browser](https://www.nuget.org/packages/Bit.BlazeDb.Browser) | 11.0.0-pre-10 | bit platform | Bit.BlazeDb.Browser |
-| 2026-10-18 21:51:16 | [Bit.Bsqlite.Storage.CacheStorage](https://www.nuget.org/packages/Bit.Bsqlite.Storage.CacheStorage) | 11.0.0-pre-10 | bit platform | Cache Storage for bit Bsqlite: block-based and journal-committed, and the migra… |
-| 2026-10-18 22:06:10 | [JRK.JevRunner.Image](https://www.nuget.org/packages/JRK.JevRunner.Image) | 0.5.0-preview-01 | Jeppe Roi Kristensen | Optional SkiaSharp image helpers for JRK.JevRunner. Render normalized Jev bound… |
+| 2026-10-18 22:20:58 | [TruthWeaver.AspNetCore](https://www.nuget.org/packages/TruthWeaver.AspNetCore) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | ASP.NET Core authorization for TruthWeaver rules: a rule requirement and its ha… |
+| 2026-10-18 22:20:58 | [TruthWeaver.Abstractions](https://www.nuget.org/packages/TruthWeaver.Abstractions) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | Dependency-free contracts for TruthWeaver: TruthValue, Decision, Fault, IPredic… |
+| 2026-10-18 22:20:59 | [TruthWeaver.Testing](https://www.nuget.org/packages/TruthWeaver.Testing) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | Test support for TruthWeaver: Decision assertions, rule equivalence and rewrite… |
+| 2026-10-18 22:21:00 | [TruthWeaver.Tool.Tui](https://www.nuget.org/packages/TruthWeaver.Tool.Tui) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | The truthweaver-tui terminal workbench: edit a TruthWeaver rule in rule text, J… |
+| 2026-10-18 22:21:01 | [TruthWeaver.Policies](https://www.nuget.org/packages/TruthWeaver.Policies) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | Policy sets for TruthWeaver: policies with a target, an effect and a priority,… |
+| 2026-10-18 22:21:02 | [TruthWeaver.Generators](https://www.nuget.org/packages/TruthWeaver.Generators) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | Roslyn source generator for TruthWeaver: mark a static method with [Predicate]… |
+| 2026-10-18 22:21:03 | [TruthWeaver.Tool](https://www.nuget.org/packages/TruthWeaver.Tool) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | The truthweaver command line: validate, convert, format, print, export, report,… |
+| 2026-10-18 22:21:04 | [TruthWeaver.Yaml](https://www.nuget.org/packages/TruthWeaver.Yaml) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | YAML support for TruthWeaver: read and write rule trees and query YAML document… |
+| 2026-10-18 22:21:04 | [TruthWeaver](https://www.nuget.org/packages/TruthWeaver) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | Compile-once, evaluate-many Strong Kleene (K3) rule engine for .NET: parse a ru… |
+| 2026-10-18 22:21:05 | [TruthWeaver.DataSources.Json](https://www.nuget.org/packages/TruthWeaver.DataSources.Json) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | JSON data source for TruthWeaver variable references: JsonDataSource answers JS… |
+| 2026-10-18 22:21:06 | [TruthWeaver.Predicates](https://www.nuget.org/packages/TruthWeaver.Predicates) | 1.0.0-prealpha-2026… | Robert H. Engelhardt | Ready-made predicates for TruthWeaver covering strings, numbers, dates, collect… |
+| 2026-10-18 22:21:29 | [Novolis.Scripting.CSharp](https://www.nuget.org/packages/Novolis.Scripting.CSharp) | 2026.1.1.6 | Novolis | Hosted C# script execution with controlled references, imports, globals, and di… |
+| 2026-10-18 22:21:31 | [Novolis.Scripting.Completion](https://www.nuget.org/packages/Novolis.Scripting.Completion) | 2026.1.1.6 | Novolis | C# script diagnostics and completion-oriented source analysis. |
+| 2026-10-18 22:21:32 | [Novolis.Scripting.Hosting](https://www.nuget.org/packages/Novolis.Scripting.Hosting) | 2026.1.1.6 | Novolis | Composition options and host services for controlled C# scripting. |
+| 2026-10-18 22:21:34 | [Novolis.Inspection](https://www.nuget.org/packages/Novolis.Inspection) | 2026.1.1.6 | Novolis | UI-independent inspection documents and trees. |
+| 2026-10-18 22:21:35 | [Novolis.Inspection.Http](https://www.nuget.org/packages/Novolis.Inspection.Http) | 2026.1.1.6 | Novolis | HTTP message inspection document formatter. |
+| 2026-10-18 22:21:36 | [Novolis.Inspection.Json](https://www.nuget.org/packages/Novolis.Inspection.Json) | 2026.1.1.6 | Novolis | JSON inspection document formatter. |
+| 2026-10-18 22:21:37 | [Novolis.Inspection.ObjectGraph](https://www.nuget.org/packages/Novolis.Inspection.ObjectGraph) | 2026.1.1.6 | Novolis | Reflection-based object graph inspection formatter. |
+| 2026-10-18 22:21:38 | [Novolis.Inspection.Xml](https://www.nuget.org/packages/Novolis.Inspection.Xml) | 2026.1.1.6 | Novolis | XML inspection document formatter. |
+| 2026-10-18 22:21:39 | [Novolis.Http.Authentication](https://www.nuget.org/packages/Novolis.Http.Authentication) | 2026.1.1.6 | Novolis | DelegatingHandler authentication for named Novolis HTTP clients. |
+| 2026-10-18 22:21:41 | [Novolis.Http.Client](https://www.nuget.org/packages/Novolis.Http.Client) | 2026.1.1.6 | Novolis | Named HttpClient registration and document send helpers for IHttpClientFactory. |
+| 2026-10-18 22:21:41 | [Novolis.Language.Diagnostics](https://www.nuget.org/packages/Novolis.Language.Diagnostics) | 2026.1.1.6 | Novolis | Structured diagnostics and faults for Novolis language pipelines. |
+| 2026-10-18 22:21:42 | [Novolis.Language.Execution](https://www.nuget.org/packages/Novolis.Language.Execution) | 2026.1.1.6 | Novolis | Inspectable execution snapshots, stepping, and structured runtime faults. |
+| 2026-10-18 22:21:42 | [Novolis.Http.Documents](https://www.nuget.org/packages/Novolis.Http.Documents) | 2026.1.1.6 | Novolis | Presentation-free HTTP request documents and scoped environments. |
+| 2026-10-18 22:21:43 | [Novolis.Inference.Abstractions](https://www.nuget.org/packages/Novolis.Inference.Abstractions) | 2026.1.1.6 | Novolis | Provider-neutral chat and model-inference contracts. |
+| 2026-10-18 22:21:43 | [Novolis.Language.RoboSharp](https://www.nuget.org/packages/Novolis.Language.RoboSharp) | 2026.1.1.6 | Novolis | RoboSharp language lexer, command compiler, teaching IL, and deterministic inte… |
+| 2026-10-18 22:21:43 | [Novolis.Http.Variables](https://www.nuget.org/packages/Novolis.Http.Variables) | 2026.1.1.6 | Novolis | Asynchronous variable resolution for Novolis HTTP request documents. |
+| 2026-10-18 22:21:44 | [Novolis.Inference.AgentFramework](https://www.nuget.org/packages/Novolis.Inference.AgentFramework) | 2026.1.1.6 | Novolis | Microsoft Agent Framework adapters for Novolis inference contracts. |
+| 2026-10-18 22:21:44 | [Novolis.Language.Syntax](https://www.nuget.org/packages/Novolis.Language.Syntax) | 2026.1.1.6 | Novolis | Token, syntax, and compilation-stage primitives for Novolis languages. |
+| 2026-10-18 22:21:45 | [Novolis.Inference.Images](https://www.nuget.org/packages/Novolis.Inference.Images) | 2026.1.1.6 | Novolis | Provider-neutral image generation contracts and results. |
+| 2026-10-18 22:21:45 | [Novolis.Language.Text](https://www.nuget.org/packages/Novolis.Language.Text) | 2026.1.1.6 | Novolis | Source text, spans, and locations for Novolis language tooling. |
+| 2026-10-18 22:21:46 | [Novolis.Inference.Ollama](https://www.nuget.org/packages/Novolis.Inference.Ollama) | 2026.1.1.6 | Novolis | Ollama local chat inference for Novolis contracts. |
+| 2026-10-18 22:21:46 | [Novolis.Inference.Onnx](https://www.nuget.org/packages/Novolis.Inference.Onnx) | 2026.1.1.6 | Novolis | ONNX Runtime image inference adapter for Novolis. |
+| 2026-10-18 22:21:47 | [Novolis.Inference.Safety](https://www.nuget.org/packages/Novolis.Inference.Safety) | 2026.1.1.6 | Novolis | Provider-neutral image safety classification contracts and policies. |
+| 2026-10-18 22:21:48 | [Novolis.Inference.SharpMind](https://www.nuget.org/packages/Novolis.Inference.SharpMind) | 2026.1.1.6 | Novolis | SharpMind local chat inference adapter. |
+| 2026-10-18 22:27:35 | [E2E.TestMu](https://www.nuget.org/packages/E2E.TestMu) | 0.5.0 | hardkoded | TestMu AI (formerly LambdaTest) hosted browsers for the community .NET port of… |
+| 2026-10-18 22:27:36 | [E2E.Mobile.DevFlow](https://www.nuget.org/packages/E2E.Mobile.DevFlow) | 0.5.0 | hardkoded | .NET MAUI apps driven through the MAUI DevFlow agent, for the community .NET po… |
+| 2026-10-18 22:27:38 | [E2E.Eas](https://www.nuget.org/packages/E2E.Eas) | 0.5.0 | hardkoded | EAS hosted iOS and Android simulators (Expo Application Services) for the commu… |
+| 2026-10-18 22:27:39 | [E2E.Limrun](https://www.nuget.org/packages/E2E.Limrun) | 0.5.0 | hardkoded | Limrun cloud iOS and Android simulators for the community .NET port of the e2e… |
+| 2026-10-18 22:27:40 | [E2E.Kernel](https://www.nuget.org/packages/E2E.Kernel) | 0.5.0 | hardkoded | Kernel hosted browsers for the community .NET port of the e2e agentic testing f… |
+| 2026-10-18 22:28:24 | [CachedEfCore.PostgreSQL](https://www.nuget.org/packages/CachedEfCore.PostgreSQL) | 1.1.0-rc1 | henriquewr | PostgreSQL database provider for CachedEfCore |
+| 2026-10-18 22:30:41 | [Pinqponq.Storage.S3](https://www.nuget.org/packages/Pinqponq.Storage.S3) | 1.0.0 | Pinqponq | S3 and S3-compatible object storage (AWS S3, Cloudflare R2, MinIO): upload, dow… |
+| 2026-10-18 22:34:50 | [Novolis.Commands.Navigation](https://www.nuget.org/packages/Novolis.Commands.Navigation) | 2026.1.1.42 | Novolis | Headless menu-tree and mobile navigation contracts for Novolis hosts. |
+| 2026-10-18 22:35:38 | [Novolis.Markup.Svg](https://www.nuget.org/packages/Novolis.Markup.Svg) | 2026.1.1.72 | Novolis | Type-safe, fluent SVG document and shape builders for .NET. |
+| 2026-10-18 22:42:49 | [Novolis.Modeling.Import.Assimp](https://www.nuget.org/packages/Novolis.Modeling.Import.Assimp) | 2026.1.1.18 | Novolis | Assimp-based FBX, OBJ, and glTF import into Novolis.Math.Geometry meshes and Mo… |
+| 2026-10-18 22:42:50 | [Novolis.Modeling.Scene](https://www.nuget.org/packages/Novolis.Modeling.Scene) | 2026.1.1.18 | Novolis | Renderer-neutral 3D scene graph with nodes, lights, cameras, staged evaluation,… |
+| 2026-10-18 22:45:29 | [TheAppManager.Testing](https://www.nuget.org/packages/TheAppManager.Testing) | 3.0.0 | Atypical Consulting | Test helpers for TheAppManager: a production-faithful, TestServer-backed AppMod… |
+| 2026-10-18 22:59:08 | [FVNever.Fabricator.Secrets.KeePass](https://www.nuget.org/packages/FVNever.Fabricator.Secrets.KeePass) | 0.6.0 | Fabricator.Secrets.KeePass | KeePass secret storage for Fabricator, an infrastructure automation framework. |
+| 2026-10-18 23:09:33 | [Novolis.Maui.Navigation](https://www.nuget.org/packages/Novolis.Maui.Navigation) | 2026.1.1.69 | Novolis | Native MAUI mobile navigation shell over the shared Novolis menu tree. |
+| 2026-10-18 23:11:54 | [Novolis.Avalonia.Navigation](https://www.nuget.org/packages/Novolis.Avalonia.Navigation) | 2026.1.6.247 | Novolis | Avalonia mobile navigation shell over the shared Novolis menu tree. |
 
 ## Data source
 

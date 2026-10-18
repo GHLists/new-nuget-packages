@@ -1,0 +1,51 @@
+created_at,package,version,authors,description
+2026-10-18T22:20:58.06Z,TruthWeaver.AspNetCore,1.0.0-prealpha-2026…,Robert H. Engelhardt,"ASP.NET Core authorization for TruthWeaver rules: a rule requirement and its handler for named policies and resource-based checks, an authorization context with claim, role, authentication and owner predicates, fail-closed results that keep the Decision, and problem-details responses."
+2026-10-18T22:20:58.903Z,TruthWeaver.Abstractions,1.0.0-prealpha-2026…,Robert H. Engelhardt,"Dependency-free contracts for TruthWeaver: TruthValue, Decision, Fault, IPredicate and the predicate schema types, for a project that only implements predicates."
+2026-10-18T22:20:59.63Z,TruthWeaver.Testing,1.0.0-prealpha-2026…,Robert H. Engelhardt,"Test support for TruthWeaver: Decision assertions, rule equivalence and rewrite assertions, a predicate harness, a rule fuzzer, fake predicates, and declarative YAML rule tests with stub values."
+2026-10-18T22:21:00.987Z,TruthWeaver.Tool.Tui,1.0.0-prealpha-2026…,Robert H. Engelhardt,"The truthweaver-tui terminal workbench: edit a TruthWeaver rule in rule text, JSON or YAML with live diagnostics, undo and redo, format, and a linked canonical view."
+2026-10-18T22:21:01.703Z,TruthWeaver.Policies,1.0.0-prealpha-2026…,Robert H. Engelhardt,"Policy sets for TruthWeaver: policies with a target, an effect and a priority, combined by deny-overrides, permit-overrides or first-applicable under Strong Kleene logic, with a fail-closed decision that never turns Unknown into a permit."
+2026-10-18T22:21:02.52Z,TruthWeaver.Generators,1.0.0-prealpha-2026…,Robert H. Engelhardt,"Roslyn source generator for TruthWeaver: mark a static method with [Predicate] and the generator emits the registration code and predicate schema at compile time, with no reflection."
+2026-10-18T22:21:03.303Z,TruthWeaver.Tool,1.0.0-prealpha-2026…,Robert H. Engelhardt,"The truthweaver command line: validate, convert, format, print, export, report, diff, evaluate and test TruthWeaver rules in rule text, JSON or YAML, with stub values for the predicates."
+2026-10-18T22:21:04.01Z,TruthWeaver.Yaml,1.0.0-prealpha-2026…,Robert H. Engelhardt,"YAML support for TruthWeaver: read and write rule trees and query YAML documents as a data source, isolated in its own package so only consumers of YAML take the YamlDotNet dependency."
+2026-10-18T22:21:04.73Z,TruthWeaver,1.0.0-prealpha-2026…,Robert H. Engelhardt,"Compile-once, evaluate-many Strong Kleene (K3) rule engine for .NET: parse a rule from text, JSON or a builder into an immutable tree, analyze it and evaluate it with True, False and Unknown."
+2026-10-18T22:21:05.45Z,TruthWeaver.DataSources.Json,1.0.0-prealpha-2026…,Robert H. Engelhardt,JSON data source for TruthWeaver variable references: JsonDataSource answers JSONPath (RFC 9535) queries against a JSON document and JsonQueryValidator checks a query when a rule compiles.
+2026-10-18T22:21:06.27Z,TruthWeaver.Predicates,1.0.0-prealpha-2026…,Robert H. Engelhardt,"Ready-made predicates for TruthWeaver covering strings, numbers, dates, collections, regular expressions and types, built on TruthWeaver.Abstractions alone."
+2026-10-18T22:21:29.98Z,Novolis.Scripting.CSharp,2026.1.1.6,Novolis,"Hosted C# script execution with controlled references, imports, globals, and diagnostics."
+2026-10-18T22:21:31.097Z,Novolis.Scripting.Completion,2026.1.1.6,Novolis,C# script diagnostics and completion-oriented source analysis.
+2026-10-18T22:21:32.26Z,Novolis.Scripting.Hosting,2026.1.1.6,Novolis,Composition options and host services for controlled C# scripting.
+2026-10-18T22:21:34.84Z,Novolis.Inspection,2026.1.1.6,Novolis,UI-independent inspection documents and trees.
+2026-10-18T22:21:35.643Z,Novolis.Inspection.Http,2026.1.1.6,Novolis,HTTP message inspection document formatter.
+2026-10-18T22:21:36.513Z,Novolis.Inspection.Json,2026.1.1.6,Novolis,JSON inspection document formatter.
+2026-10-18T22:21:37.34Z,Novolis.Inspection.ObjectGraph,2026.1.1.6,Novolis,Reflection-based object graph inspection formatter.
+2026-10-18T22:21:38.313Z,Novolis.Inspection.Xml,2026.1.1.6,Novolis,XML inspection document formatter.
+2026-10-18T22:21:39.96Z,Novolis.Http.Authentication,2026.1.1.6,Novolis,DelegatingHandler authentication for named Novolis HTTP clients.
+2026-10-18T22:21:41.163Z,Novolis.Http.Client,2026.1.1.6,Novolis,Named HttpClient registration and document send helpers for IHttpClientFactory.
+2026-10-18T22:21:41.173Z,Novolis.Language.Diagnostics,2026.1.1.6,Novolis,Structured diagnostics and faults for Novolis language pipelines.
+2026-10-18T22:21:42.11Z,Novolis.Language.Execution,2026.1.1.6,Novolis,"Inspectable execution snapshots, stepping, and structured runtime faults."
+2026-10-18T22:21:42.417Z,Novolis.Http.Documents,2026.1.1.6,Novolis,Presentation-free HTTP request documents and scoped environments.
+2026-10-18T22:21:43.267Z,Novolis.Inference.Abstractions,2026.1.1.6,Novolis,Provider-neutral chat and model-inference contracts.
+2026-10-18T22:21:43.3Z,Novolis.Language.RoboSharp,2026.1.1.6,Novolis,"RoboSharp language lexer, command compiler, teaching IL, and deterministic interpreter."
+2026-10-18T22:21:43.547Z,Novolis.Http.Variables,2026.1.1.6,Novolis,Asynchronous variable resolution for Novolis HTTP request documents.
+2026-10-18T22:21:44.14Z,Novolis.Inference.AgentFramework,2026.1.1.6,Novolis,Microsoft Agent Framework adapters for Novolis inference contracts.
+2026-10-18T22:21:44.36Z,Novolis.Language.Syntax,2026.1.1.6,Novolis,"Token, syntax, and compilation-stage primitives for Novolis languages."
+2026-10-18T22:21:45.11Z,Novolis.Inference.Images,2026.1.1.6,Novolis,Provider-neutral image generation contracts and results.
+2026-10-18T22:21:45.553Z,Novolis.Language.Text,2026.1.1.6,Novolis,"Source text, spans, and locations for Novolis language tooling."
+2026-10-18T22:21:46.043Z,Novolis.Inference.Ollama,2026.1.1.6,Novolis,Ollama local chat inference for Novolis contracts.
+2026-10-18T22:21:46.937Z,Novolis.Inference.Onnx,2026.1.1.6,Novolis,ONNX Runtime image inference adapter for Novolis.
+2026-10-18T22:21:47.78Z,Novolis.Inference.Safety,2026.1.1.6,Novolis,Provider-neutral image safety classification contracts and policies.
+2026-10-18T22:21:48.643Z,Novolis.Inference.SharpMind,2026.1.1.6,Novolis,SharpMind local chat inference adapter.
+2026-10-18T22:27:35.93Z,E2E.TestMu,0.5.0,hardkoded,TestMu AI (formerly LambdaTest) hosted browsers for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-10-18T22:27:36.66Z,E2E.Mobile.DevFlow,0.5.0,hardkoded,".NET MAUI apps driven through the MAUI DevFlow agent, for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product."
+2026-10-18T22:27:38.73Z,E2E.Eas,0.5.0,hardkoded,EAS hosted iOS and Android simulators (Expo Application Services) for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-10-18T22:27:39.387Z,E2E.Limrun,0.5.0,hardkoded,Limrun cloud iOS and Android simulators for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-10-18T22:27:40.077Z,E2E.Kernel,0.5.0,hardkoded,Kernel hosted browsers for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-10-18T22:28:24.073Z,CachedEfCore.PostgreSQL,1.1.0-rc1,henriquewr,PostgreSQL database provider for CachedEfCore
+2026-10-18T22:30:41.56Z,Pinqponq.Storage.S3,1.0.0,Pinqponq,"S3 and S3-compatible object storage (AWS S3, Cloudflare R2, MinIO): upload, download, presigned URLs, metadata, copy, delete and a bucket health check."
+2026-10-18T22:34:50.833Z,Novolis.Commands.Navigation,2026.1.1.42,Novolis,Headless menu-tree and mobile navigation contracts for Novolis hosts.
+2026-10-18T22:35:38.32Z,Novolis.Markup.Svg,2026.1.1.72,Novolis,"Type-safe, fluent SVG document and shape builders for .NET."
+2026-10-18T22:42:49.52Z,Novolis.Modeling.Import.Assimp,2026.1.1.18,Novolis,"Assimp-based FBX, OBJ, and glTF import into Novolis.Math.Geometry meshes and Modeling asset data. Native Assimp runtime required."
+2026-10-18T22:42:50.46Z,Novolis.Modeling.Scene,2026.1.1.18,Novolis,"Renderer-neutral 3D scene graph with nodes, lights, cameras, staged evaluation, mesh editing, and .nov3djson serialization."
+2026-10-18T22:45:29.287Z,TheAppManager.Testing,3.0.0,Atypical Consulting,"Test helpers for TheAppManager: a production-faithful, TestServer-backed AppModuleTestHost and WebApplicationFactory module replacement."
+2026-10-18T22:59:08.993Z,FVNever.Fabricator.Secrets.KeePass,0.6.0,Fabricator.Secrets.KeePass,"KeePass secret storage for Fabricator, an infrastructure automation framework."
+2026-10-18T23:09:33.99Z,Novolis.Maui.Navigation,2026.1.1.69,Novolis,Native MAUI mobile navigation shell over the shared Novolis menu tree.
+2026-10-18T23:11:54.88Z,Novolis.Avalonia.Navigation,2026.1.6.247,Novolis,Avalonia mobile navigation shell over the shared Novolis menu tree.
