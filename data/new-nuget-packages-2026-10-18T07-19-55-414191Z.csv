@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-18T06:38:42.753Z,AvaloniaWebview.React,0.16.2,Avalonia.React contributors,Build React frontends hosted in Avalonia 12 using Avalonia's native WebView and a typed JavaScript bridge.
+2026-10-18T06:38:43.49Z,AvaloniaWebview.React.SourceGenerator,0.16.2,Avalonia.React contributors,Generates C# API interfaces from TypeScript declaration files for AvaloniaWebview.React.
+2026-10-18T06:38:44.013Z,AvaloniaWebview.React.Vite,0.16.2,Avalonia.React contributors,Vite development server integration for AvaloniaWebview.React desktop apps.
+2026-10-18T06:44:48.167Z,aweXpect.Snapshots.PublicApi,0.3.0,aweXpect,Public API snapshots for aweXpect.
+2026-10-18T06:45:04.61Z,aweXpect.Snapshots.DiffEngine,0.3.0,aweXpect,Opens a diff tool with DiffEngine for snapshots of aweXpect.Snapshots that are missing or different.
+2026-10-18T06:57:05.483Z,Tedd.SMB3,1.0.0,tedd,"Managed SMB 3.1.1 client and file server for .NET 10 on Windows and Linux, with NTLMv2 authentication, signing, and encryption."
+2026-10-18T07:14:46.09Z,TauriKit.Credentials,0.22.0,iyulab,"Secrets in the Windows Credential Manager under the same entries the tauri-kit-credentials crate uses — the same names and the same separation of test, development and release builds — so a desktop app's shell and its .NET backend can share one secret."
