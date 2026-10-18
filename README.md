@@ -12,21 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 07:19 UTC
+## Latest list — 2026-10-18 08:19 UTC
 
-New packages created between 2026-10-18 06:20 UTC and 2026-10-18 07:19 UTC.
+New packages created between 2026-10-18 07:19 UTC and 2026-10-18 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T07-19-55-414191Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T08-19-25-202286Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 06:38:42 | [AvaloniaWebview.React](https://www.nuget.org/packages/AvaloniaWebview.React) | 0.16.2 | Avalonia.React contributors | Build React frontends hosted in Avalonia 12 using Avalonia's native WebView and… |
-| 2026-10-18 06:38:43 | [AvaloniaWebview.React.SourceGenerator](https://www.nuget.org/packages/AvaloniaWebview.React.SourceGenerator) | 0.16.2 | Avalonia.React contributors | Generates C# API interfaces from TypeScript declaration files for AvaloniaWebvi… |
-| 2026-10-18 06:38:44 | [AvaloniaWebview.React.Vite](https://www.nuget.org/packages/AvaloniaWebview.React.Vite) | 0.16.2 | Avalonia.React contributors | Vite development server integration for AvaloniaWebview.React desktop apps. |
-| 2026-10-18 06:44:48 | [aweXpect.Snapshots.PublicApi](https://www.nuget.org/packages/aweXpect.Snapshots.PublicApi) | 0.3.0 | aweXpect | Public API snapshots for aweXpect. |
-| 2026-10-18 06:45:04 | [aweXpect.Snapshots.DiffEngine](https://www.nuget.org/packages/aweXpect.Snapshots.DiffEngine) | 0.3.0 | aweXpect | Opens a diff tool with DiffEngine for snapshots of aweXpect.Snapshots that are… |
-| 2026-10-18 06:57:05 | [Tedd.SMB3](https://www.nuget.org/packages/Tedd.SMB3) | 1.0.0 | tedd | Managed SMB 3.1.1 client and file server for .NET 10 on Windows and Linux, with… |
-| 2026-10-18 07:14:46 | [TauriKit.Credentials](https://www.nuget.org/packages/TauriKit.Credentials) | 0.22.0 | iyulab | Secrets in the Windows Credential Manager under the same entries the tauri-kit-… |
+| 2026-10-18 07:31:35 | [Eternet.Agents.Control.Cli.any](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.any) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:32:05 | [Eternet.Agents.Control.Cli.linux-arm64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.linux-arm64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:32:41 | [Eternet.Agents.Control.Cli.linux-musl-arm64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.linux-musl-arm64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:33:08 | [Eternet.Agents.Control.Cli.linux-musl-x64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.linux-musl-x64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:33:33 | [InertiaCore.TypeGen](https://www.nuget.org/packages/InertiaCore.TypeGen) | 0.3.0 | Creator-Solutions | Generates TypeScript declarations for InertiaCore [InertiaPage] props. |
+| 2026-10-18 07:33:37 | [Eternet.Agents.Control.Cli.linux-x64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.linux-x64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:33:48 | [Eternet.Agents.Control.Cli.osx-arm64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.osx-arm64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:34:14 | [Eternet.Agents.Control.Cli.win-arm64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.win-arm64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:35:07 | [Eternet.Agents.Control.Cli.win-x64](https://www.nuget.org/packages/Eternet.Agents.Control.Cli.win-x64) | 3.0.2 | Eternet | Local deterministic agent harness CLI for Eternet mediator diagnostics and reme… |
+| 2026-10-18 07:37:14 | [Lagun271.RobotStudio.PcSdk.Ref](https://www.nuget.org/packages/Lagun271.RobotStudio.PcSdk.Ref) | 26.3.11794 | Lagun271 | Compile-time reference assemblies for the ABB PC SDK (ABB.Robotics.Controllers.… |
+| 2026-10-18 07:37:16 | [Lagun271.RobotStudio.RspakTool](https://www.nuget.org/packages/Lagun271.RobotStudio.RspakTool) | 26.3.11794 | Lagun271 | RobotStudio distribution package tool (RspakTool.exe) from the ABB RobotStudio… |
+| 2026-10-18 07:37:23 | [Lagun271.RobotStudio.Sdk.Ref](https://www.nuget.org/packages/Lagun271.RobotStudio.Sdk.Ref) | 26.3.11794 | Lagun271 | Compile-time reference assemblies from the ABB RobotStudio SDK (ABB.Robotics.Ro… |
 
 ## Data source
 

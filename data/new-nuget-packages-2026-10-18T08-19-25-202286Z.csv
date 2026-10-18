@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-18T07:31:35.337Z,Eternet.Agents.Control.Cli.any,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:32:05.97Z,Eternet.Agents.Control.Cli.linux-arm64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:32:41.52Z,Eternet.Agents.Control.Cli.linux-musl-arm64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:33:08.313Z,Eternet.Agents.Control.Cli.linux-musl-x64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:33:33.113Z,InertiaCore.TypeGen,0.3.0,Creator-Solutions,Generates TypeScript declarations for InertiaCore [InertiaPage] props.
+2026-10-18T07:33:37.457Z,Eternet.Agents.Control.Cli.linux-x64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:33:48.193Z,Eternet.Agents.Control.Cli.osx-arm64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:34:14.223Z,Eternet.Agents.Control.Cli.win-arm64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:35:07.597Z,Eternet.Agents.Control.Cli.win-x64,3.0.2,Eternet,Local deterministic agent harness CLI for Eternet mediator diagnostics and remediation planning.
+2026-10-18T07:37:14.117Z,Lagun271.RobotStudio.PcSdk.Ref,26.3.11794,Lagun271,Compile-time reference assemblies for the ABB PC SDK (ABB.Robotics.Controllers.PC) as shipped with the RobotStudio SDK. Not redistributable; private feed only. RobotStudio provides these assemblies at runtime.
+2026-10-18T07:37:16.71Z,Lagun271.RobotStudio.RspakTool,26.3.11794,Lagun271,"RobotStudio distribution package tool (RspakTool.exe) from the ABB RobotStudio SDK, for building .rspak files. Defines the MSBuild property RspakToolPath. Not redistributable; private feed only. Requires the .NET 10 runtime."
+2026-10-18T07:37:23.143Z,Lagun271.RobotStudio.Sdk.Ref,26.3.11794,Lagun271,"Compile-time reference assemblies from the ABB RobotStudio SDK (ABB.Robotics.RobotStudio.*, ABB.Robotics.Math). Not redistributable; private feed only. RobotStudio provides these assemblies at runtime."
