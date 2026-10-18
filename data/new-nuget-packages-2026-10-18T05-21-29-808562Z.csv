@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-18T04:59:50.147Z,SevenMLabs.Astrology,1.0.0,SevenMLabs.Astrology,"7mlabs Astro SDK: offline astrology calculations, IANA birth-time conversion and modular SVG charts."
+2026-10-18T05:00:14.973Z,ErinnTimer,1.0.0,Molth Nevin,Caller-driven timer scheduling with typed callback storage.
+2026-10-18T05:01:40.963Z,com.IvanMurzak.CodeExec,0.1.0,Ivan Murzak,"Run short C# snippets inside a live host process (game engines, editors, any .NET app). Roslyn-version-agnostic: add com.IvanMurzak.CodeExec.Roslyn and your own Microsoft.CodeAnalysis.CSharp."
+2026-10-18T05:01:41.94Z,com.IvanMurzak.CodeExec.Roslyn,0.1.0,Ivan Murzak,Source-only Roslyn compiler for com.IvanMurzak.CodeExec. Compiles inside your project against YOUR Microsoft.CodeAnalysis.CSharp (3.8 or newer) — add that package yourself.
