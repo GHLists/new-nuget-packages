@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-18T17:22:55.6Z,Plugin.Maui.SignaturePad,0.1.0,Mykhailo Davydenko,"A signature pad for .NET MAUI with natural, pen-like ink: the stroke width follows velocity and pen pressure. Strokes keep their timestamps and pressure, and export as lossless JSON, SVG, PNG and JPEG. Android, iOS, Mac Catalyst and Windows; pure managed code."
+2026-10-18T17:26:45.937Z,Raghom.Toolkit,1.0.0,Raghom Technologies,"A lightweight, production-ready .NET utility toolkit providing reusable extensions, helpers, security utilities, HTTP services, OTP generation, and numeric/text processing tools."
+2026-10-18T17:32:10.093Z,Egap.Documents,1.1.0,Lars Dytterud,"Flow documents for .NET: one editable document model with Markdown, DOCX and HTML readers and writers and a page layout engine that draws onto any Egami canvas."
+2026-10-18T17:32:10.703Z,Egap.Pdf.Conversion,1.1.0,Lars Dytterud,"The bridge between Egap.Documents and Egap.Pdf: flow documents saved as PDF with links, outline and tags, and PDF pages analysed back into flow documents."
+2026-10-18T17:32:11.413Z,Egap.Pdf,1.4.0,Lars Dytterud,"A fully managed, MIT-licensed PDF library for .NET."
+2026-10-18T17:35:19.03Z,AHSW.EventLog.Contracts,1.0.0,Alex Holenko,"Interfaces, enums, and shared contracts for the EventLog library."
+2026-10-18T17:37:26.4Z,DataverseCartographer,1.0.0,AmraouiH,"Dataverse Cartographer draws an interactive map of a Dynamics 365 / Dataverse organization, so that you can understand a data model in minutes, document a solution or a model-driven app, and prepare an impact analysis before a change. Data model: tables and their 1:N, N:1 and N:N relationships, dra…"
+2026-10-18T17:52:28.447Z,Modern.Ribbon.Additional,2.2.0,YYXIsLucky,Modern.Ribbon is a WPF Ribbon control library that provides a modern and customizable ribbon interface for Windows applications.
+2026-10-18T18:10:37.337Z,Egorozh.Windows.ImageOperations,10.0.0,Egorozh,Windows image operations

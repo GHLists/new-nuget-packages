@@ -12,21 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:19 UTC
+## Latest list — 2026-10-18 18:19 UTC
 
-New packages created between 2026-10-18 16:21 UTC and 2026-10-18 17:19 UTC.
+New packages created between 2026-10-18 17:19 UTC and 2026-10-18 18:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-18T17-19-27-892766Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-18T18-19-28-825794Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-18 16:37:07 | [Zongsoft.Tools.Containerizer](https://www.nuget.org/packages/Zongsoft.Tools.Containerizer) | 1.0.0 | Popeye Zhong(zongsoft@qq.com) | The Zongsoft Containerization .NET Tool. |
-| 2026-10-18 16:43:11 | [Ezacloud.Sdk](https://www.nuget.org/packages/Ezacloud.Sdk) | 0.2.0 | Eza Cloud | Official .NET client library for Eza Cloud (PayEdge M-Pesa STK push, Transactio… |
-| 2026-10-18 17:07:58 | [Calysto.Huawei.Push](https://www.nuget.org/packages/Calysto.Huawei.Push) | 1.0.4 | Calysto | Provided as-is, no warranty of any kind. |
-| 2026-10-18 17:07:58 | [SMSPool](https://www.nuget.org/packages/SMSPool) | 0.1.0 | SMSPool | Official .NET client for the SMSPool API (https://api.smspool.net/docs). |
-| 2026-10-18 17:08:54 | [Suncaomei.AdminNetBasic.FullStack.Templates](https://www.nuget.org/packages/Suncaomei.AdminNetBasic.FullStack.Templates) | 1.0.0 | suncaomei | Admin.NET.Pro 精简后的 .NET 10 后端与 Naive UI 前端全栈模板。 |
-| 2026-10-18 17:08:55 | [Suncaomei.AdminNetBasic.Templates](https://www.nuget.org/packages/Suncaomei.AdminNetBasic.Templates) | 1.0.0 | suncaomei | Admin.NET.Pro 精简后的 .NET 10 基础管理后端模板。 |
-| 2026-10-18 17:15:58 | [Tai.Account.Extension.OAuth.Cli](https://www.nuget.org/packages/Tai.Account.Extension.OAuth.Cli) | 1.1.0 | Tai | Reusable ABP module for WeChat/SMS user login, opt-in tenant-bound OAuth client… |
+| 2026-10-18 17:22:55 | [Plugin.Maui.SignaturePad](https://www.nuget.org/packages/Plugin.Maui.SignaturePad) | 0.1.0 | Mykhailo Davydenko | A signature pad for .NET MAUI with natural, pen-like ink: the stroke width foll… |
+| 2026-10-18 17:26:45 | [Raghom.Toolkit](https://www.nuget.org/packages/Raghom.Toolkit) | 1.0.0 | Raghom Technologies | A lightweight, production-ready .NET utility toolkit providing reusable extensi… |
+| 2026-10-18 17:32:10 | [Egap.Documents](https://www.nuget.org/packages/Egap.Documents) | 1.1.0 | Lars Dytterud | Flow documents for .NET: one editable document model with Markdown, DOCX and HT… |
+| 2026-10-18 17:32:10 | [Egap.Pdf.Conversion](https://www.nuget.org/packages/Egap.Pdf.Conversion) | 1.1.0 | Lars Dytterud | The bridge between Egap.Documents and Egap.Pdf: flow documents saved as PDF wit… |
+| 2026-10-18 17:32:11 | [Egap.Pdf](https://www.nuget.org/packages/Egap.Pdf) | 1.4.0 | Lars Dytterud | A fully managed, MIT-licensed PDF library for .NET. |
+| 2026-10-18 17:35:19 | [AHSW.EventLog.Contracts](https://www.nuget.org/packages/AHSW.EventLog.Contracts) | 1.0.0 | Alex Holenko | Interfaces, enums, and shared contracts for the EventLog library. |
+| 2026-10-18 17:37:26 | [DataverseCartographer](https://www.nuget.org/packages/DataverseCartographer) | 1.0.0 | AmraouiH | Dataverse Cartographer draws an interactive map of a Dynamics 365 / Dataverse o… |
+| 2026-10-18 17:52:28 | [Modern.Ribbon.Additional](https://www.nuget.org/packages/Modern.Ribbon.Additional) | 2.2.0 | YYXIsLucky | Modern.Ribbon is a WPF Ribbon control library that provides a modern and custom… |
+| 2026-10-18 18:10:37 | [Egorozh.Windows.ImageOperations](https://www.nuget.org/packages/Egorozh.Windows.ImageOperations) | 10.0.0 | Egorozh | Windows image operations |
 
 ## Data source
 
