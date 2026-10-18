@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-18T05:29:05.447Z,Osirion.Blazor.Templates,4.2.0,Dejan Demonjić,"Project templates for Osirion.Blazor, served with static server-side rendering: `dotnet new osirion-blog` for a Markdown blog, `dotnet new osirion-docs` for a documentation site and `dotnet new osirion-site` for a product site."
+2026-10-18T05:34:13.5Z,Obelisk.Abstractions,0.1.0,Taegyun Eom,"Obelisk.Abstractions for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:14.983Z,Obelisk.Graphics2D,0.1.0,Taegyun Eom,"Obelisk.Graphics2D for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:16.453Z,Obelisk.Runtime,0.1.0,Taegyun Eom,"Obelisk.Runtime for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:18.047Z,Obelisk.Assets,0.1.0,Taegyun Eom,"Obelisk.Assets for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:19.533Z,Obelisk.Plugin,0.1.0,Taegyun Eom,"Obelisk.Plugin for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:22.22Z,Obelisk.Platform.Sdl3,0.1.0,Taegyun Eom,"Obelisk.Platform.Sdl3 for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:23.793Z,Obelisk.Plugins.Images,0.1.0,Taegyun Eom,"Obelisk.Plugins.Images for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:34:25.503Z,Obelisk.Vanilla,0.1.0,Taegyun Eom,"Obelisk.Vanilla for Obelisk Engine, an experimental .NET 10 2D game engine targeting Windows x64."
+2026-10-18T05:35:11.13Z,Obelisk.Cli,0.1.0,Taegyun Eom,Obelisk Engine project creation and development CLI.
+2026-10-18T05:54:53.877Z,Omasharp.Analyzers,0.1.0,Luis Rudge,"Compile-time checks for omasharp apps (C# + QML on Omarchy): names QML can't take, members it can't see, setters that never tell QML, types that can't cross. Referenced by apps made with `dotnet new omarchy-app`."
+2026-10-18T05:54:54.71Z,Omasharp.Templates,0.1.0,Luis Rudge,dotnet new omarchy-app: C# + QML apps for Omarchy. Window apps compile to one native (AOT) binary on the system Qt; shell panels run C# safely outside omarchy-shell. Includes an agent skill (.agents/skills/omasharp).
+2026-10-18T06:11:38.017Z,Tezz.Auth,1.0.0,TezzCorp Pvt. Ltd.,Official .NET Client SDK for Tezz Auth
