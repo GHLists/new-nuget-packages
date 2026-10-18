@@ -1,0 +1,40 @@
+created_at,package,version,authors,description
+2026-10-18T20:28:44.47Z,DubUrl.Connector.PostgreSql.Npgsql,0.38.0,Cédric L. Charlier,PostgreSQL connector module for DubUrl backed by Npgsql.
+2026-10-18T20:28:46.373Z,DubUrl.Core,0.38.0,Cédric L. Charlier,Provider-neutral contracts and deterministic provider catalog for DubUrl.
+2026-10-18T20:28:49.467Z,DubUrl.Provider.Access,0.38.0,Cédric L. Charlier,Microsoft Access database metadata and dialect for DubUrl.
+2026-10-18T20:28:50.6Z,DubUrl.Provider.Db2,0.38.0,Cédric L. Charlier,"IBM DB2 dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:28:51.717Z,DubUrl.Provider.Drill,0.38.0,Cédric L. Charlier,Apache Drill database metadata and dialect for DubUrl.
+2026-10-18T20:28:52.927Z,DubUrl.Provider.DuckDb,0.38.0,Cédric L. Charlier,"DuckDB dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:28:54.14Z,DubUrl.Provider.Excel,0.38.0,Cédric L. Charlier,Microsoft Excel database metadata and dialect for DubUrl.
+2026-10-18T20:28:55.47Z,DubUrl.Provider.FirebirdSql,0.38.0,Cédric L. Charlier,"Firebird SQL dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:28:56.74Z,DubUrl.Provider.MySql,0.38.0,Cédric L. Charlier,"MySQL-family dialects, mapping, and rewriting for DubUrl."
+2026-10-18T20:28:57.9Z,DubUrl.Provider.Odbc,0.38.0,Cédric L. Charlier,"ODBC mapping, rewriting, discovery, and prerequisites for DubUrl providers."
+2026-10-18T20:28:59.057Z,DubUrl.Provider.Oracle,0.38.0,Cédric L. Charlier,"Oracle dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:00.243Z,DubUrl.Provider.PostgreSql,0.38.0,Cédric L. Charlier,"PostgreSQL-family dialects, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:01.44Z,DubUrl.Provider.Snowflake,0.38.0,Cédric L. Charlier,"Snowflake dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:02.65Z,DubUrl.Provider.Sqlite,0.38.0,Cédric L. Charlier,"SQLite dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:03.873Z,DubUrl.Provider.SqlServer,0.38.0,Cédric L. Charlier,"SQL Server dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:05.02Z,DubUrl.Provider.Teradata,0.38.0,Cédric L. Charlier,"Teradata dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:06.16Z,DubUrl.Provider.Text,0.38.0,Cédric L. Charlier,Text-file database metadata and dialect for DubUrl.
+2026-10-18T20:29:07.36Z,DubUrl.Provider.Trino,0.38.0,Cédric L. Charlier,"Trino dialect, mapping, and rewriting for DubUrl."
+2026-10-18T20:29:09.23Z,DubUrl.Providers,0.38.0,Cédric L. Charlier,Curated metadata for database providers listed by DubUrl.
+2026-10-18T20:39:29.03Z,CilInstructionCounter.RunTime,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:30.103Z,CilComplexityAnalyzer.Facade,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:31.137Z,CilInjection.Core,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:32.217Z,CilComplexityAnalyzer.ContainerWorkerUtils,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:33.333Z,CilInstructionCounter.Provider,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:34.457Z,CilComplexityAnalyzer.ContainerWorker,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:35.51Z,CilComplexityAnalyzer.Contract,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:36.663Z,CilComplexityAnalyzer.LibCilInjection,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:39:37.74Z,CilComplexityAnalyzer.TestExecutor,0.1.0,CIL Complexity Analyzer Team,Package Description
+2026-10-18T20:48:16.777Z,Visionary.AspNetCore,0.4.0,styropyr0,"Request logs, system metrics, spans and errors from ASP.NET Core into the Visionary tables (Cloudflare D1, PostgreSQL, MySQL or SQLite)."
+2026-10-18T21:10:15.727Z,ExGrid,0.1.0,AkiraMisawa,"An Excel-like grid for Blazor: virtualised on both axes, with pinned columns, rectangular selection, the keyboard and the clipboard as a spreadsheet user expects them. The Consumer owns the data, sorting and filtering; the grid displays and notifies."
+2026-10-18T21:10:16.11Z,ExGrid.Data,0.1.0,AkiraMisawa,"The Ex family's immutable data: a Snapshot of tabular data held column by column — text as a dictionary, money as exact scaled integers — built from objects, a CSV read under a declared Schema, a DbDataReader or columns, and moved on by Change Batches keyed by a Record Key. No dependency."
+2026-10-18T21:10:16.483Z,ExSheet,0.1.0,AkiraMisawa,"ExSheet: a general-purpose sheet for Blazor, drawn by ExGrid as that grid's Consumer. It holds a Sheet of Entries computed by ExSheet.Engine, shows Excel's extent with Headings, a Formula Bar and a Name Box, and hands the application a Sheet Document to persist."
+2026-10-18T21:10:16.88Z,ExPivot.MudBlazor,0.1.0,AkiraMisawa,"MudBlazor for ExPivot: a Chrome that draws the PivotTable Fields pane, its menus and panels, the Pivot Toolbar with its report filter band, Show Details' tabs and dialog, and the Stale Report's notice with MudBlazor's own controls, and a stylesheet mapping ExPivot's tokens onto the MudBlazor palett…"
+2026-10-18T21:10:17.267Z,ExGrid.MudBlazor,0.1.0,AkiraMisawa,"MudBlazor for ExGrid: a paper, a Chrome and a stylesheet that put the grid inside a MudBlazor application, with MudBlazor's own controls in the grid's menus, filter panel and editor. Ships at the same version as ExGrid and depends on exactly that version."
+2026-10-18T21:10:17.683Z,ExPivot.Engine,0.1.0,AkiraMisawa,"The pivot engine of ExPivot: a Snapshot's columns aggregated under a serialisable Pivot Layout into a Pivot Report, with Excel's PivotTable semantics — Items, Hidden Items, Sum to Varp with money summed exactly, subtotals, grand totals, the three report forms and Show Values As — and the bundled Pi…"
+2026-10-18T21:10:18.097Z,ExSheet.MudBlazor,0.1.0,AkiraMisawa,"MudBlazor for ExSheet: a Chrome that draws ExSheet's Format Cells as a MudDialog, with MudBlazor's colour picker for More Colours, and ExGrid.MudBlazor's controls in every seam of the grid. Ships at the same version as ExSheet and depends on exactly that version."
+2026-10-18T21:10:18.523Z,ExSheet.Engine,0.1.0,AkiraMisawa,"The formula engine of ExSheet: a Sheet of Entries, Excel's formula syntax and a declared set of functions that answer as Excel does or give #NAME?, incremental recalculation, number formats, and the versioned Sheet Document. No UI and no dependency: a server computes the same Values the screen show…"
+2026-10-18T21:10:18.89Z,ExPivot,0.1.0,AkiraMisawa,"ExPivot: Excel's PivotTable for Blazor, drawn by ExGrid as that grid's Consumer. The user builds a report from the application's own records in the PivotTable Fields pane — Filters, Columns, Rows, Values, drag and drop — and reads it with ExGrid's selection, keyboard and clipboard; the application…"
+2026-10-18T21:10:19.26Z,ExGrid.Data.Arrow,0.1.0,AkiraMisawa,"A Snapshot of ExGrid.Data as Apache Arrow: read from Arrow's IPC stream or file format (Feather 2), as pyarrow, DuckDB and Polars write them, and written as an uncompressed IPC stream with the Snapshot's captions, Record Key and version. Ships at the same version as ExGrid.Data and depends on exact…"
