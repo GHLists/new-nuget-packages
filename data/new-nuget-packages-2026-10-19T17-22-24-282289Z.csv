@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-10-19T16:20:47.397Z,Moonwell.Objects,0.1.1,mdlsvensson,"Warcraft III's standard units, abilities, items, buffs and other objects as C# classes to inherit, for Moonwell."
+2026-10-19T16:20:47.92Z,Moonwell.Templates,0.1.1,mdlsvensson,The Moonwell map project template: dotnet new moonwell.
+2026-10-19T16:20:48.46Z,Moonwell,0.1.1,mdlsvensson,"The Moonwell runtime for Warcraft III maps in C#: units, components, reactions, buffs and timers, with its C# source for the Lua build and the multiplayer analyzer."
+2026-10-19T16:20:48.96Z,Moonwell.Natives,0.1.1,mdlsvensson,"Warcraft III's natives as C#, for Moonwell."
+2026-10-19T16:20:49.843Z,Moonwell.Cli,0.1.1,mdlsvensson,The moonwell command: builds a Moonwell map project into a Warcraft III map and starts the game with it.
+2026-10-19T16:23:49.133Z,Phoney.WireMock,1.2.0,Mattias Sundström,"Phoney fake data for WireMock.Net mocks: Response.Create().WithFakeJson(Fake.For<Customer>()) answers every request with a realistic JSON body that belongs to its URL, so /customers/42 is the same customer in every request, run and machine."
+2026-10-19T16:28:00.35Z,HtmlForgeX.AspNetCore,2.0.0,HtmlForgeX.AspNetCore,Package Description
+2026-10-19T16:28:02.42Z,HtmlForgeX.CanopyX,2.0.0,Przemyslaw Klys,"Optional CanopyX integration for HtmlForgeX. Hosts tree grids, flat data grids and materialized report explorers, with document-managed assets, the Evotec theme and script-free grid snapshots."
+2026-10-19T16:28:05.687Z,HtmlForgeX.ChartForgeX.Stories,3.0.0,Przemyslaw Klys,"Optional typed story, transcript and completed-image components over ChartForgeX.Stories for HtmlForgeX."
+2026-10-19T16:28:07.273Z,HtmlForgeX.ChartForgeX.Visuals,3.0.0,Przemyslaw Klys,Optional static grid and canvas components over ChartForgeX.Visuals for HtmlForgeX.
+2026-10-19T16:28:08.99Z,HtmlForgeX.CodeGlyphX,2.0.0,Przemyslaw Klys,"Optional CodeGlyphX integration for HtmlForgeX. Renders accessible, theme-aware QR codes and linear barcodes as script-free inline SVG."
+2026-10-19T16:28:10.877Z,HtmlForgeX.DbaClientX,2.0.0,Przemyslaw Klys,"Optional DbaClientX integration for HtmlForgeX. Answers report queries (ReportQuery) from a database table through DbaClientX: parameterized, paged SQL with the columns of the report dataset as the allowlist, and rows streamed into sidecar chunks."
+2026-10-19T16:28:13.6Z,HtmlForgeX.Pdf,2.0.0,Przemyslaw Klys,"Optional PDF export for HtmlForgeX reports: renders the report's print version with Chromium through HtmlTinkerX, processes it with OfficeIMO.Pdf under timeouts and size caps, and verifies the expected printed sections and table rows."
+2026-10-19T16:31:16.757Z,Egami.Barcodes,1.0.0,Lars Dytterud,"Barcodes for Egami: writes and reads 1D and 2D barcodes, drawn onto Egami.Drawing's canvas or read from rasters, in managed code."
+2026-10-19T17:02:51.257Z,Relevox.Contracts,1.0.0,Tunahan Ali Ozturk,"Request, notification and handler interfaces for Relevox. No dependencies, so domain and application projects can reference them without pulling in a container or the source generator."
+2026-10-19T17:02:52.07Z,Relevox,1.0.0,Tunahan Ali Ozturk,"A mediator for .NET whose dispatch is written by a source generator at build time, with the same handler signatures as MediatR 12. MIT licensed."
+2026-10-19T17:05:26.9Z,Xsl3,0.2.0-alpha,Xsl3 contributors,"XSLT 3.0, XSLT 2.0 and XPath 3.1 processor for .NET, compiled to IL. Built on the engine behind System.Xml.Xsl.XslCompiledTransform and keeps its API, so XSLT 1.0 stylesheets run unchanged with identical output. Adds maps, arrays and higher-order functions, xsl:try, xsl:iterate, xsl:merge, accumula…"
+2026-10-19T17:08:37.01Z,rhym,2026.1019.0,flustix,An extensible file format for music-based software.
+2026-10-19T17:11:28.11Z,Neph.GenericLibs.Net.CopilotLib,0.1.0,Neph,"GitHub Copilot SDK wrapper with a service, DI registration and a reusable ASP.NET Core chatbot controller."

@@ -12,30 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 16:20 UTC
+## Latest list — 2026-10-19 17:22 UTC
 
-New packages created between 2026-10-19 15:19 UTC and 2026-10-19 16:20 UTC.
+New packages created between 2026-10-19 16:20 UTC and 2026-10-19 17:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T16-20-06-836973Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T17-22-24-282289Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 15:36:59 | [Tsfm.Forecasting.T0](https://www.nuget.org/packages/Tsfm.Forecasting.T0) | 0.2.0 | Mark Hammond | Native .NET inference for The Forecasting Company's t0 family (t0-alpha, t0-bet… |
-| 2026-10-19 15:37:19 | [Tsfm.Forecasting.Timestral](https://www.nuget.org/packages/Tsfm.Forecasting.Timestral) | 0.2.0 | Mark Hammond | Native .NET inference for Mistral AI's Timestral family (5M, 28M, 123M, 209M):… |
-| 2026-10-19 15:39:38 | [AVADS.FlowBuffer](https://www.nuget.org/packages/AVADS.FlowBuffer) | 2.0.0 | АВАДС СОФТ | Вспомогательная библиотека для драйвера для компактной и высокоскоростной базы… |
-| 2026-10-19 15:39:53 | [BDTest.Contracts](https://www.nuget.org/packages/BDTest.Contracts) | 3.0.0 | Tom Longhurst | Immutable, versioned BDTest report contracts independent of test execution. |
-| 2026-10-19 15:39:54 | [BDTest.Reporting](https://www.nuget.org/packages/BDTest.Reporting) | 3.0.0 | Tom Longhurst | JSON and self-contained HTML reports and report-server uploads for BDTest runs. |
-| 2026-10-19 15:39:56 | [BDTest.Reports.Storage.FileSystem](https://www.nuget.org/packages/BDTest.Reports.Storage.FileSystem) | 3.0.0 | Tom Longhurst | Persistent directory-based BDTest report and run index storage with atomic writ… |
-| 2026-10-19 15:40:00 | [BDTest.TUnit](https://www.nuget.org/packages/BDTest.TUnit) | 3.0.0 | Tom Longhurst | A TUnit Extension for BDTest |
-| 2026-10-19 15:40:02 | [BDTest.Rendering](https://www.nuget.org/packages/BDTest.Rendering) | 3.0.0 | Tom Longhurst | Self-contained HTML reports and shared report fragments over immutable BDTest c… |
-| 2026-10-19 15:40:03 | [BDTest.Reports.Storage.AzureBlob](https://www.nuget.org/packages/BDTest.Reports.Storage.AzureBlob) | 3.0.0 | Tom Longhurst | Persistent Azure Blob storage for BDTest reports, run indexes and attachments. |
-| 2026-10-19 15:40:40 | [Tsfm.Forecasting.Timestral.Weights.5M](https://www.nuget.org/packages/Tsfm.Forecasting.Timestral.Weights.5M) | 0.2.0 | Mark Hammond | Timestral-5M (5.2M) weights for Tsfm.Forecasting.Timestral, embedded as assembl… |
-| 2026-10-19 15:40:40 | [AVADS.TSDBConnector](https://www.nuget.org/packages/AVADS.TSDBConnector) | 2.0.0 | АВАДС СОФТ | Драйвер для компактной и высокоскоростной базы данных временных рядов (TSDB) дл… |
-| 2026-10-19 15:40:59 | [Tsfm.Forecasting.Timestral.Weights.28M](https://www.nuget.org/packages/Tsfm.Forecasting.Timestral.Weights.28M) | 0.2.0 | Mark Hammond | Timestral-28M (27.8M) weights for Tsfm.Forecasting.Timestral, embedded as assem… |
-| 2026-10-19 15:42:05 | [AVADS.MecTypes](https://www.nuget.org/packages/AVADS.MecTypes) | 2.0.0 | АВАДС СОФТ | Вспомогательная библиотека для драйвера для компактной и высокоскоростной базы… |
-| 2026-10-19 15:47:49 | [EcalonIT.Umbraco.Backoffice](https://www.nuget.org/packages/EcalonIT.Umbraco.Backoffice) | 1.0.0 | EcalonIT | Shared Umbraco 17 backoffice foundation for EcalonIT products: a unified sectio… |
-| 2026-10-19 15:57:59 | [AVS.Replace](https://www.nuget.org/packages/AVS.Replace) | 9.0.0 | Artem Vertii | Package Description |
-| 2026-10-19 15:58:09 | [CamusDB.Extensions.Abstractions](https://www.nuget.org/packages/CamusDB.Extensions.Abstractions) | 0.16.0 | CamusDB | The contract for CamusDB C# extensions: attributes and interfaces for SQL scala… |
+| 2026-10-19 16:20:47 | [Moonwell.Objects](https://www.nuget.org/packages/Moonwell.Objects) | 0.1.1 | mdlsvensson | Warcraft III's standard units, abilities, items, buffs and other objects as C#… |
+| 2026-10-19 16:20:47 | [Moonwell.Templates](https://www.nuget.org/packages/Moonwell.Templates) | 0.1.1 | mdlsvensson | The Moonwell map project template: dotnet new moonwell. |
+| 2026-10-19 16:20:48 | [Moonwell](https://www.nuget.org/packages/Moonwell) | 0.1.1 | mdlsvensson | The Moonwell runtime for Warcraft III maps in C#: units, components, reactions,… |
+| 2026-10-19 16:20:48 | [Moonwell.Natives](https://www.nuget.org/packages/Moonwell.Natives) | 0.1.1 | mdlsvensson | Warcraft III's natives as C#, for Moonwell. |
+| 2026-10-19 16:20:49 | [Moonwell.Cli](https://www.nuget.org/packages/Moonwell.Cli) | 0.1.1 | mdlsvensson | The moonwell command: builds a Moonwell map project into a Warcraft III map and… |
+| 2026-10-19 16:23:49 | [Phoney.WireMock](https://www.nuget.org/packages/Phoney.WireMock) | 1.2.0 | Mattias Sundström | Phoney fake data for WireMock.Net mocks: Response.Create().WithFakeJson(Fake.Fo… |
+| 2026-10-19 16:28:00 | [HtmlForgeX.AspNetCore](https://www.nuget.org/packages/HtmlForgeX.AspNetCore) | 2.0.0 | HtmlForgeX.AspNetCore | Package Description |
+| 2026-10-19 16:28:02 | [HtmlForgeX.CanopyX](https://www.nuget.org/packages/HtmlForgeX.CanopyX) | 2.0.0 | Przemyslaw Klys | Optional CanopyX integration for HtmlForgeX. Hosts tree grids, flat data grids… |
+| 2026-10-19 16:28:05 | [HtmlForgeX.ChartForgeX.Stories](https://www.nuget.org/packages/HtmlForgeX.ChartForgeX.Stories) | 3.0.0 | Przemyslaw Klys | Optional typed story, transcript and completed-image components over ChartForge… |
+| 2026-10-19 16:28:07 | [HtmlForgeX.ChartForgeX.Visuals](https://www.nuget.org/packages/HtmlForgeX.ChartForgeX.Visuals) | 3.0.0 | Przemyslaw Klys | Optional static grid and canvas components over ChartForgeX.Visuals for HtmlFor… |
+| 2026-10-19 16:28:08 | [HtmlForgeX.CodeGlyphX](https://www.nuget.org/packages/HtmlForgeX.CodeGlyphX) | 2.0.0 | Przemyslaw Klys | Optional CodeGlyphX integration for HtmlForgeX. Renders accessible, theme-aware… |
+| 2026-10-19 16:28:10 | [HtmlForgeX.DbaClientX](https://www.nuget.org/packages/HtmlForgeX.DbaClientX) | 2.0.0 | Przemyslaw Klys | Optional DbaClientX integration for HtmlForgeX. Answers report queries (ReportQ… |
+| 2026-10-19 16:28:13 | [HtmlForgeX.Pdf](https://www.nuget.org/packages/HtmlForgeX.Pdf) | 2.0.0 | Przemyslaw Klys | Optional PDF export for HtmlForgeX reports: renders the report's print version… |
+| 2026-10-19 16:31:16 | [Egami.Barcodes](https://www.nuget.org/packages/Egami.Barcodes) | 1.0.0 | Lars Dytterud | Barcodes for Egami: writes and reads 1D and 2D barcodes, drawn onto Egami.Drawi… |
+| 2026-10-19 17:02:51 | [Relevox.Contracts](https://www.nuget.org/packages/Relevox.Contracts) | 1.0.0 | Tunahan Ali Ozturk | Request, notification and handler interfaces for Relevox. No dependencies, so d… |
+| 2026-10-19 17:02:52 | [Relevox](https://www.nuget.org/packages/Relevox) | 1.0.0 | Tunahan Ali Ozturk | A mediator for .NET whose dispatch is written by a source generator at build ti… |
+| 2026-10-19 17:05:26 | [Xsl3](https://www.nuget.org/packages/Xsl3) | 0.2.0-alpha | Xsl3 contributors | XSLT 3.0, XSLT 2.0 and XPath 3.1 processor for .NET, compiled to IL. Built on t… |
+| 2026-10-19 17:08:37 | [rhym](https://www.nuget.org/packages/rhym) | 2026.1019.0 | flustix | An extensible file format for music-based software. |
+| 2026-10-19 17:11:28 | [Neph.GenericLibs.Net.CopilotLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.CopilotLib) | 0.1.0 | Neph | GitHub Copilot SDK wrapper with a service, DI registration and a reusable ASP.N… |
 
 ## Data source
 
