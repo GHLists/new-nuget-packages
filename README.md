@@ -12,19 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 12:20 UTC
+## Latest list — 2026-10-19 13:20 UTC
 
-New packages created between 2026-10-19 11:22 UTC and 2026-10-19 12:20 UTC.
+New packages created between 2026-10-19 12:20 UTC and 2026-10-19 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T12-20-01-501829Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T13-20-23-403716Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 11:24:09 | [SatorImaging.Threading](https://www.nuget.org/packages/SatorImaging.Threading) | 1.9.0 | Sator Imaging | SatorImaging.Threading from Sator Imaging |
-| 2026-10-19 11:26:24 | [Astrea.DataTables](https://www.nuget.org/packages/Astrea.DataTables) | 1.0.0 | Gautam Soni | DataTables for ASP.NET Core |
-| 2026-10-19 11:43:30 | [UnicoreSoftwareSolutions.Tool.GenCRUD](https://www.nuget.org/packages/UnicoreSoftwareSolutions.Tool.GenCRUD) | 1.0.0 | Unicore Software Solutions | A tool for generating CRUD UI and API code for ASP.NET Core applications. |
-| 2026-10-19 11:43:55 | [Arc56.Generated.HashMapsData2Value.zebgen](https://www.nuget.org/packages/Arc56.Generated.HashMapsData2Value.zebgen) | 1.0.1.2026101911 | HashMapsData2Value | Generated ARC-56 Algorand smart-contract clients for HashMapsData2Value/zebgen. |
-| 2026-10-19 11:48:03 | [WopiServer](https://www.nuget.org/packages/WopiServer) | 0.1.0 | https://github.com/Papyrine/W… | The host side of the Web Application Open Platform Interface (WOPI) for ASP.NET… |
+| 2026-10-19 12:28:20 | [Umbraco.AI.TypeSafe](https://www.nuget.org/packages/Umbraco.AI.TypeSafe) | 18.0.0 | Umbraco | TypeSafe AI provider for Umbraco AI |
+| 2026-10-19 12:30:30 | [XxmiLang.Core](https://www.nuget.org/packages/XxmiLang.Core) | 0.1.1 | xxmi-lang contributors | The shared definitions of the xxmi-lang .NET library: diagnostics, locations, e… |
+| 2026-10-19 12:30:32 | [XxmiLang.Native.linux-arm64](https://www.nuget.org/packages/XxmiLang.Native.linux-arm64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for linux-arm64, for the XxmiLan… |
+| 2026-10-19 12:30:35 | [XxmiLang.Native.linux-x64](https://www.nuget.org/packages/XxmiLang.Native.linux-x64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for linux-x64, for the XxmiLang… |
+| 2026-10-19 12:30:37 | [XxmiLang.Native.osx-arm64](https://www.nuget.org/packages/XxmiLang.Native.osx-arm64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for osx-arm64, for the XxmiLang… |
+| 2026-10-19 12:30:39 | [XxmiLang.Native.osx-x64](https://www.nuget.org/packages/XxmiLang.Native.osx-x64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for osx-x64, for the XxmiLang pa… |
+| 2026-10-19 12:30:42 | [XxmiLang.Native.win-arm64](https://www.nuget.org/packages/XxmiLang.Native.win-arm64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for win-arm64, for the XxmiLang… |
+| 2026-10-19 12:30:44 | [XxmiLang.Native.win-x64](https://www.nuget.org/packages/XxmiLang.Native.win-x64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for win-x64, for the XxmiLang pa… |
+| 2026-10-19 12:30:45 | [XxmiLang](https://www.nuget.org/packages/XxmiLang) | 0.1.1 | xxmi-lang contributors | Typed .NET client for the xxmi-lang tooling: lint and analyse XXMI / 3DMigoto m… |
+| 2026-10-19 12:31:50 | [Sintef.Scoop.Utilities.Framework](https://www.nuget.org/packages/Sintef.Scoop.Utilities.Framework) | 2.0.6 | SINTEF Mathematics and Cybern… | Package Description |
+| 2026-10-19 12:33:47 | [AscendantWare.PSIpenta.COM](https://www.nuget.org/packages/AscendantWare.PSIpenta.COM) | 1.0.1 | AscendantWare.PSIpenta.COM | Eine moderne C#-Wrapper-Bibliothek für die PSIpenta COM-Schnittstelle, die eine… |
+| 2026-10-19 12:43:39 | [LogiPluginApi](https://www.nuget.org/packages/LogiPluginApi) | 6.4.2.3567 | Logitech | Logi Plugin API for developing Logi Plugin Service plugins. |
+| 2026-10-19 13:04:45 | [ChohyoPdf](https://www.nuget.org/packages/ChohyoPdf) | 0.1.0 | Ringoacid | MIT ライセンスの PDF 生成ライブラリ。日本語テキスト（TrueType サブセット埋め込み・禁則処理）、表、画像、図形、自動折り返し・自動改ページに対… |
 
 ## Data source
 
