@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-19T05:30:17.56Z,Meziantou.Framework.Fonts,1.0.0,meziantou,"Fully managed OpenType font reader and text shaper shared by Meziantou.Framework.Imaging and Meziantou.Framework.WebPlatform: TrueType, CFF and CFF2 outlines, WOFF and WOFF2, variable fonts, color fonts, and the shaping of complex scripts. Its API is internal to these packages."
+2026-10-19T05:30:20.627Z,RasterNet.Core,0.26.4301,Jürgen Gstaltmaier,"Fully managed, thread-safe, high-performance reader for georeferenced raster data (GeoTIFF/COG, Arc/Info Binary Grid, JPEG2000)."
+2026-10-19T05:56:53.853Z,CanadaRidingTagger,0.2.1,Jake Landau,"Identifies the Canadian federal riding and province/territory electoral district containing a WGS84 latitude/longitude, from bundled electoral-boundary shapefiles."
+2026-10-19T05:57:42.177Z,AvaUnion.Controls,6.8.0.3,drasticactions,"Controls that Qt Quick Controls, Kirigami and QtWidgets have and Avalonia does not, with KDE Union ControlThemes: dial, range slider, delay button, busy indicator, tumbler, swipe delegate, dialog, date and time spin boxes, heading, action text field, calendar parts and a tree with columns. Use with…"
+2026-10-19T05:57:52.453Z,AvaUnion.BreezeIcons,6.8.0.3,drasticactions,Breeze icons for AvaUnion
+2026-10-19T06:15:55.787Z,Wp.Utils.AutoAppSettings,0.0.1-alpha,WuPan,根据appsettings.json生成AppSettings类文件

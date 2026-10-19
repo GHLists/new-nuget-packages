@@ -12,21 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 05:20 UTC
+## Latest list — 2026-10-19 06:21 UTC
 
-New packages created between 2026-10-19 04:20 UTC and 2026-10-19 05:20 UTC.
+New packages created between 2026-10-19 05:20 UTC and 2026-10-19 06:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T05-20-13-157722Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T06-21-50-687111Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 04:22:05 | [Dora.Dapper.Dm](https://www.nuget.org/packages/Dora.Dapper.Dm) | 1.0.2 | Hwx | Dora.Dapper 达梦数据库驱动适配包 |
-| 2026-10-19 04:23:16 | [Dora.Dapper.PostgreSql](https://www.nuget.org/packages/Dora.Dapper.PostgreSql) | 1.0.2 | Hwx | Dora.Dapper PostgreSQL 数据库驱动适配包 |
-| 2026-10-19 04:24:07 | [KeyboardCore](https://www.nuget.org/packages/KeyboardCore) | 1.0.0 | Xioa_nu | Shared floating on-screen keyboard for WPF and Windows Forms, with numeric and… |
-| 2026-10-19 04:32:21 | [ScanAndPay](https://www.nuget.org/packages/ScanAndPay) | 0.0.1 | Scan & Pay | Official Scan & Pay .NET SDK: accept PayTo PayID payments with QR code-based in… |
-| 2026-10-19 04:53:18 | [SqlNative](https://www.nuget.org/packages/SqlNative) | 1.0.0 | Peyman Jahanbazi | Package Description |
-| 2026-10-19 04:53:19 | [SqlNative.Core](https://www.nuget.org/packages/SqlNative.Core) | 1.0.0 | Peyman | Core helpers for SqlNative: engine identifier helpers, CLR type mappers, and th… |
-| 2026-10-19 04:53:21 | [SqlNative.ModelGenerator](https://www.nuget.org/packages/SqlNative.ModelGenerator) | 1.0.0 | Peyman Jahanbazi | Package Description |
+| 2026-10-19 05:30:17 | [Meziantou.Framework.Fonts](https://www.nuget.org/packages/Meziantou.Framework.Fonts) | 1.0.0 | meziantou | Fully managed OpenType font reader and text shaper shared by Meziantou.Framewor… |
+| 2026-10-19 05:30:20 | [RasterNet.Core](https://www.nuget.org/packages/RasterNet.Core) | 0.26.4301 | Jürgen Gstaltmaier | Fully managed, thread-safe, high-performance reader for georeferenced raster da… |
+| 2026-10-19 05:56:53 | [CanadaRidingTagger](https://www.nuget.org/packages/CanadaRidingTagger) | 0.2.1 | Jake Landau | Identifies the Canadian federal riding and province/territory electoral distric… |
+| 2026-10-19 05:57:42 | [AvaUnion.Controls](https://www.nuget.org/packages/AvaUnion.Controls) | 6.8.0.3 | drasticactions | Controls that Qt Quick Controls, Kirigami and QtWidgets have and Avalonia does… |
+| 2026-10-19 05:57:52 | [AvaUnion.BreezeIcons](https://www.nuget.org/packages/AvaUnion.BreezeIcons) | 6.8.0.3 | drasticactions | Breeze icons for AvaUnion |
+| 2026-10-19 06:15:55 | [Wp.Utils.AutoAppSettings](https://www.nuget.org/packages/Wp.Utils.AutoAppSettings) | 0.0.1-alpha | WuPan | 根据appsettings.json生成AppSettings类文件 |
 
 ## Data source
 
