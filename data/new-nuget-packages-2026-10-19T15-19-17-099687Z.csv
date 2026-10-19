@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-19T14:28:55.937Z,ElBruno.MarkItDotNet.Markdown,0.9.3,Bruno Capuano (ElBruno),Parse Markdown into structured MarkItDotNet documents using Markdig.
+2026-10-19T14:30:18.703Z,DevOpsTest.AiExternalNetLibrary,1.0.4,CH Robinson,Test Net External Library
+2026-10-19T14:41:53.033Z,CanopyX.Data,0.2.1,Evotec,"Server-side execution of the CanopyX remote grid protocol: typed request parsing with safety limits, column allow-lists, IQueryable translation (EF Core, LINQ to objects, any LINQ provider), value lists, multi-level grouping and aggregates, streamed CSV export, a provider interface for raw SQL back…"
+2026-10-19T14:41:55.013Z,CanopyX.AspNetCore,0.2.1,Evotec,"Minimal-API endpoints for the CanopyX remote grid protocol: query, value-list, summary, streamed export and commit routes over IQueryable or a custom data provider, with a separate write policy, plus the browser source script."
+2026-10-19T14:45:29.413Z,Dloizides.ArchitectureTests,1.0.0,DLoizides,"House architecture rules as xUnit tests on ArchUnitNET. PAT-LAYER-1: Domain depends on no other layer of the service, Application only on Domain, Infrastructure not on Web. A service adds one class HouseArchitectureTests : HouseRules<TAnyTypeInWebAssembly>."
+2026-10-19T14:49:56.043Z,CriticalManufacturing.CLI.Core,6.0.0,CriticalManufacturing,These are the core classes from Critical Manufacturing CLI. They serve as a base for building CLI plugins.
+2026-10-19T14:50:39.45Z,ManagedCode.Orleans.RapidMembership,10.4.0,"ManagedCode,Reuben Bond","Self-hosted quorum membership and gateway discovery for Microsoft Orleans, based on Reuben Bond's RapidCluster."
+2026-10-19T14:50:40.5Z,ManagedCode.Orleans.RapidMembership.Grpc,10.4.0,"ManagedCode,Reuben Bond","gRPC transport for RAPID membership, based on Reuben Bond’s RapidCluster."
+2026-10-19T14:50:41.677Z,ManagedCode.Orleans.RapidMembership.Protocol,10.4.0,"ManagedCode,Reuben Bond","RAPID group membership protocol from Reuben Bond’s RapidCluster, used by ManagedCode.Orleans.RapidMembership."
+2026-10-19T15:06:28.17Z,AlchiwebApp.Cli,0.6.2.8,Alchiweb,AlchiwebApp.Cli
+2026-10-19T15:06:37.9Z,Pixata.AspNetCore.Pdf.Playwright,1.0.0,Avrohom Yisroel Silver,"Playwright and Chromium PDF converter for Pixata.AspNetCore's DocumentTemplateHelper. Chromium is copied into the app's build and publish output, so nothing needs installing on the server"
+2026-10-19T15:08:17.63Z,RaTeX,1.0.0,Sylinko,"Unofficial .NET bindings for the RaTeX (LaTeX math layout engine), providing immutable display lists and native libraries for Windows, macOS, and Linux."
+2026-10-19T15:08:18.717Z,RaTeX.Avalonia,1.0.0,Sylinko,"Render LaTeX math in Avalonia with RaTeX, including a formula control, reusable drawing resources, bundled math fonts, and system font fallback."
+2026-10-19T15:08:31.193Z,AlchiwebApp.Cli.Core,0.6.2.8,Alchiweb,AlchiwebApp.Cli.Core
+2026-10-19T15:09:00.083Z,Palanca.Client,0.1.0,Yann Roux,"Client for Palanca, a self-hosted on/off feature flag service. Serves flags from memory, polls for changes, and falls back to code defaults, so the flag service never takes the application down."
+2026-10-19T15:14:14.383Z,NanosSharp.Shared,0.2.0,DasDarki,.NET scripting API shared by nanos world servers and game clients.

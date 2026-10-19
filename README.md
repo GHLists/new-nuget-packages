@@ -12,20 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:22 UTC
+## Latest list — 2026-10-19 15:19 UTC
 
-New packages created between 2026-10-19 13:20 UTC and 2026-10-19 14:22 UTC.
+New packages created between 2026-10-19 14:22 UTC and 2026-10-19 15:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T14-22-31-312379Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T15-19-17-099687Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 13:24:23 | [ContractWatcher.SDK](https://www.nuget.org/packages/ContractWatcher.SDK) | 1.0.0 | a1unade | .NET SDK for integrating applications with ContractWatcher. |
-| 2026-10-19 13:33:04 | [Meziantou.Framework.HumanReadableSerializer.Html](https://www.nuget.org/packages/Meziantou.Framework.HumanReadableSerializer.Html) | 1.0.0 | meziantou | Formats the HTML values (text/html) serialized by Meziantou.Framework.HumanRead… |
-| 2026-10-19 13:38:58 | [Nordiska.PdfEngine.Native](https://www.nuget.org/packages/Nordiska.PdfEngine.Native) | 0.1.0 | Nordiska Team 2 | Native pdf_engine library (PDF generation + signing) for win-x64 and linux-x64.… |
-| 2026-10-19 13:43:43 | [Beresta.Markdown.Wpf](https://www.nuget.org/packages/Beresta.Markdown.Wpf) | 0.8.0 | Porohkun | Fast native Markdown viewer for WPF, no browser or FlowDocument: virtualized fo… |
-| 2026-10-19 13:53:19 | [NMF-AnyText-AspnetCore](https://www.nuget.org/packages/NMF-AnyText-AspnetCore) | 3.0.10 | Georg Hinkel | This package contains the AnyText bindings for ASP.NET Core |
-| 2026-10-19 13:58:26 | [Aiursoft.Kanban.Client](https://www.nuget.org/packages/Aiursoft.Kanban.Client) | 10.0.0 | kanban | Manage Kanban boards, columns and cards using a personal API key. |
+| 2026-10-19 14:28:55 | [ElBruno.MarkItDotNet.Markdown](https://www.nuget.org/packages/ElBruno.MarkItDotNet.Markdown) | 0.9.3 | Bruno Capuano (ElBruno) | Parse Markdown into structured MarkItDotNet documents using Markdig. |
+| 2026-10-19 14:30:18 | [DevOpsTest.AiExternalNetLibrary](https://www.nuget.org/packages/DevOpsTest.AiExternalNetLibrary) | 1.0.4 | CH Robinson | Test Net External Library |
+| 2026-10-19 14:41:53 | [CanopyX.Data](https://www.nuget.org/packages/CanopyX.Data) | 0.2.1 | Evotec | Server-side execution of the CanopyX remote grid protocol: typed request parsin… |
+| 2026-10-19 14:41:55 | [CanopyX.AspNetCore](https://www.nuget.org/packages/CanopyX.AspNetCore) | 0.2.1 | Evotec | Minimal-API endpoints for the CanopyX remote grid protocol: query, value-list,… |
+| 2026-10-19 14:45:29 | [Dloizides.ArchitectureTests](https://www.nuget.org/packages/Dloizides.ArchitectureTests) | 1.0.0 | DLoizides | House architecture rules as xUnit tests on ArchUnitNET. PAT-LAYER-1: Domain dep… |
+| 2026-10-19 14:49:56 | [CriticalManufacturing.CLI.Core](https://www.nuget.org/packages/CriticalManufacturing.CLI.Core) | 6.0.0 | CriticalManufacturing | These are the core classes from Critical Manufacturing CLI. They serve as a bas… |
+| 2026-10-19 14:50:39 | [ManagedCode.Orleans.RapidMembership](https://www.nuget.org/packages/ManagedCode.Orleans.RapidMembership) | 10.4.0 | ManagedCode,Reuben Bond | Self-hosted quorum membership and gateway discovery for Microsoft Orleans, base… |
+| 2026-10-19 14:50:40 | [ManagedCode.Orleans.RapidMembership.Grpc](https://www.nuget.org/packages/ManagedCode.Orleans.RapidMembership.Grpc) | 10.4.0 | ManagedCode,Reuben Bond | gRPC transport for RAPID membership, based on Reuben Bond’s RapidCluster. |
+| 2026-10-19 14:50:41 | [ManagedCode.Orleans.RapidMembership.Protocol](https://www.nuget.org/packages/ManagedCode.Orleans.RapidMembership.Protocol) | 10.4.0 | ManagedCode,Reuben Bond | RAPID group membership protocol from Reuben Bond’s RapidCluster, used by Manage… |
+| 2026-10-19 15:06:28 | [AlchiwebApp.Cli](https://www.nuget.org/packages/AlchiwebApp.Cli) | 0.6.2.8 | Alchiweb | AlchiwebApp.Cli |
+| 2026-10-19 15:06:37 | [Pixata.AspNetCore.Pdf.Playwright](https://www.nuget.org/packages/Pixata.AspNetCore.Pdf.Playwright) | 1.0.0 | Avrohom Yisroel Silver | Playwright and Chromium PDF converter for Pixata.AspNetCore's DocumentTemplateH… |
+| 2026-10-19 15:08:17 | [RaTeX](https://www.nuget.org/packages/RaTeX) | 1.0.0 | Sylinko | Unofficial .NET bindings for the RaTeX (LaTeX math layout engine), providing im… |
+| 2026-10-19 15:08:18 | [RaTeX.Avalonia](https://www.nuget.org/packages/RaTeX.Avalonia) | 1.0.0 | Sylinko | Render LaTeX math in Avalonia with RaTeX, including a formula control, reusable… |
+| 2026-10-19 15:08:31 | [AlchiwebApp.Cli.Core](https://www.nuget.org/packages/AlchiwebApp.Cli.Core) | 0.6.2.8 | Alchiweb | AlchiwebApp.Cli.Core |
+| 2026-10-19 15:09:00 | [Palanca.Client](https://www.nuget.org/packages/Palanca.Client) | 0.1.0 | Yann Roux | Client for Palanca, a self-hosted on/off feature flag service. Serves flags fro… |
+| 2026-10-19 15:14:14 | [NanosSharp.Shared](https://www.nuget.org/packages/NanosSharp.Shared) | 0.2.0 | DasDarki | .NET scripting API shared by nanos world servers and game clients. |
 
 ## Data source
 
