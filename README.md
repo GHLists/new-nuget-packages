@@ -12,30 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 15:19 UTC
+## Latest list — 2026-10-19 16:20 UTC
 
-New packages created between 2026-10-19 14:22 UTC and 2026-10-19 15:19 UTC.
+New packages created between 2026-10-19 15:19 UTC and 2026-10-19 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T15-19-17-099687Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T16-20-06-836973Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 14:28:55 | [ElBruno.MarkItDotNet.Markdown](https://www.nuget.org/packages/ElBruno.MarkItDotNet.Markdown) | 0.9.3 | Bruno Capuano (ElBruno) | Parse Markdown into structured MarkItDotNet documents using Markdig. |
-| 2026-10-19 14:30:18 | [DevOpsTest.AiExternalNetLibrary](https://www.nuget.org/packages/DevOpsTest.AiExternalNetLibrary) | 1.0.4 | CH Robinson | Test Net External Library |
-| 2026-10-19 14:41:53 | [CanopyX.Data](https://www.nuget.org/packages/CanopyX.Data) | 0.2.1 | Evotec | Server-side execution of the CanopyX remote grid protocol: typed request parsin… |
-| 2026-10-19 14:41:55 | [CanopyX.AspNetCore](https://www.nuget.org/packages/CanopyX.AspNetCore) | 0.2.1 | Evotec | Minimal-API endpoints for the CanopyX remote grid protocol: query, value-list,… |
-| 2026-10-19 14:45:29 | [Dloizides.ArchitectureTests](https://www.nuget.org/packages/Dloizides.ArchitectureTests) | 1.0.0 | DLoizides | House architecture rules as xUnit tests on ArchUnitNET. PAT-LAYER-1: Domain dep… |
-| 2026-10-19 14:49:56 | [CriticalManufacturing.CLI.Core](https://www.nuget.org/packages/CriticalManufacturing.CLI.Core) | 6.0.0 | CriticalManufacturing | These are the core classes from Critical Manufacturing CLI. They serve as a bas… |
-| 2026-10-19 14:50:39 | [ManagedCode.Orleans.RapidMembership](https://www.nuget.org/packages/ManagedCode.Orleans.RapidMembership) | 10.4.0 | ManagedCode,Reuben Bond | Self-hosted quorum membership and gateway discovery for Microsoft Orleans, base… |
-| 2026-10-19 14:50:40 | [ManagedCode.Orleans.RapidMembership.Grpc](https://www.nuget.org/packages/ManagedCode.Orleans.RapidMembership.Grpc) | 10.4.0 | ManagedCode,Reuben Bond | gRPC transport for RAPID membership, based on Reuben Bond’s RapidCluster. |
-| 2026-10-19 14:50:41 | [ManagedCode.Orleans.RapidMembership.Protocol](https://www.nuget.org/packages/ManagedCode.Orleans.RapidMembership.Protocol) | 10.4.0 | ManagedCode,Reuben Bond | RAPID group membership protocol from Reuben Bond’s RapidCluster, used by Manage… |
-| 2026-10-19 15:06:28 | [AlchiwebApp.Cli](https://www.nuget.org/packages/AlchiwebApp.Cli) | 0.6.2.8 | Alchiweb | AlchiwebApp.Cli |
-| 2026-10-19 15:06:37 | [Pixata.AspNetCore.Pdf.Playwright](https://www.nuget.org/packages/Pixata.AspNetCore.Pdf.Playwright) | 1.0.0 | Avrohom Yisroel Silver | Playwright and Chromium PDF converter for Pixata.AspNetCore's DocumentTemplateH… |
-| 2026-10-19 15:08:17 | [RaTeX](https://www.nuget.org/packages/RaTeX) | 1.0.0 | Sylinko | Unofficial .NET bindings for the RaTeX (LaTeX math layout engine), providing im… |
-| 2026-10-19 15:08:18 | [RaTeX.Avalonia](https://www.nuget.org/packages/RaTeX.Avalonia) | 1.0.0 | Sylinko | Render LaTeX math in Avalonia with RaTeX, including a formula control, reusable… |
-| 2026-10-19 15:08:31 | [AlchiwebApp.Cli.Core](https://www.nuget.org/packages/AlchiwebApp.Cli.Core) | 0.6.2.8 | Alchiweb | AlchiwebApp.Cli.Core |
-| 2026-10-19 15:09:00 | [Palanca.Client](https://www.nuget.org/packages/Palanca.Client) | 0.1.0 | Yann Roux | Client for Palanca, a self-hosted on/off feature flag service. Serves flags fro… |
-| 2026-10-19 15:14:14 | [NanosSharp.Shared](https://www.nuget.org/packages/NanosSharp.Shared) | 0.2.0 | DasDarki | .NET scripting API shared by nanos world servers and game clients. |
+| 2026-10-19 15:36:59 | [Tsfm.Forecasting.T0](https://www.nuget.org/packages/Tsfm.Forecasting.T0) | 0.2.0 | Mark Hammond | Native .NET inference for The Forecasting Company's t0 family (t0-alpha, t0-bet… |
+| 2026-10-19 15:37:19 | [Tsfm.Forecasting.Timestral](https://www.nuget.org/packages/Tsfm.Forecasting.Timestral) | 0.2.0 | Mark Hammond | Native .NET inference for Mistral AI's Timestral family (5M, 28M, 123M, 209M):… |
+| 2026-10-19 15:39:38 | [AVADS.FlowBuffer](https://www.nuget.org/packages/AVADS.FlowBuffer) | 2.0.0 | АВАДС СОФТ | Вспомогательная библиотека для драйвера для компактной и высокоскоростной базы… |
+| 2026-10-19 15:39:53 | [BDTest.Contracts](https://www.nuget.org/packages/BDTest.Contracts) | 3.0.0 | Tom Longhurst | Immutable, versioned BDTest report contracts independent of test execution. |
+| 2026-10-19 15:39:54 | [BDTest.Reporting](https://www.nuget.org/packages/BDTest.Reporting) | 3.0.0 | Tom Longhurst | JSON and self-contained HTML reports and report-server uploads for BDTest runs. |
+| 2026-10-19 15:39:56 | [BDTest.Reports.Storage.FileSystem](https://www.nuget.org/packages/BDTest.Reports.Storage.FileSystem) | 3.0.0 | Tom Longhurst | Persistent directory-based BDTest report and run index storage with atomic writ… |
+| 2026-10-19 15:40:00 | [BDTest.TUnit](https://www.nuget.org/packages/BDTest.TUnit) | 3.0.0 | Tom Longhurst | A TUnit Extension for BDTest |
+| 2026-10-19 15:40:02 | [BDTest.Rendering](https://www.nuget.org/packages/BDTest.Rendering) | 3.0.0 | Tom Longhurst | Self-contained HTML reports and shared report fragments over immutable BDTest c… |
+| 2026-10-19 15:40:03 | [BDTest.Reports.Storage.AzureBlob](https://www.nuget.org/packages/BDTest.Reports.Storage.AzureBlob) | 3.0.0 | Tom Longhurst | Persistent Azure Blob storage for BDTest reports, run indexes and attachments. |
+| 2026-10-19 15:40:40 | [Tsfm.Forecasting.Timestral.Weights.5M](https://www.nuget.org/packages/Tsfm.Forecasting.Timestral.Weights.5M) | 0.2.0 | Mark Hammond | Timestral-5M (5.2M) weights for Tsfm.Forecasting.Timestral, embedded as assembl… |
+| 2026-10-19 15:40:40 | [AVADS.TSDBConnector](https://www.nuget.org/packages/AVADS.TSDBConnector) | 2.0.0 | АВАДС СОФТ | Драйвер для компактной и высокоскоростной базы данных временных рядов (TSDB) дл… |
+| 2026-10-19 15:40:59 | [Tsfm.Forecasting.Timestral.Weights.28M](https://www.nuget.org/packages/Tsfm.Forecasting.Timestral.Weights.28M) | 0.2.0 | Mark Hammond | Timestral-28M (27.8M) weights for Tsfm.Forecasting.Timestral, embedded as assem… |
+| 2026-10-19 15:42:05 | [AVADS.MecTypes](https://www.nuget.org/packages/AVADS.MecTypes) | 2.0.0 | АВАДС СОФТ | Вспомогательная библиотека для драйвера для компактной и высокоскоростной базы… |
+| 2026-10-19 15:47:49 | [EcalonIT.Umbraco.Backoffice](https://www.nuget.org/packages/EcalonIT.Umbraco.Backoffice) | 1.0.0 | EcalonIT | Shared Umbraco 17 backoffice foundation for EcalonIT products: a unified sectio… |
+| 2026-10-19 15:57:59 | [AVS.Replace](https://www.nuget.org/packages/AVS.Replace) | 9.0.0 | Artem Vertii | Package Description |
+| 2026-10-19 15:58:09 | [CamusDB.Extensions.Abstractions](https://www.nuget.org/packages/CamusDB.Extensions.Abstractions) | 0.16.0 | CamusDB | The contract for CamusDB C# extensions: attributes and interfaces for SQL scala… |
 
 ## Data source
 
