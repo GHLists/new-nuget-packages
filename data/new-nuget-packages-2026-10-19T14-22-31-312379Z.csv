@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-19T13:24:23.12Z,ContractWatcher.SDK,1.0.0,a1unade,.NET SDK for integrating applications with ContractWatcher.
+2026-10-19T13:33:04.19Z,Meziantou.Framework.HumanReadableSerializer.Html,1.0.0,meziantou,"Formats the HTML values (text/html) serialized by Meziantou.Framework.HumanReadableSerializer, using the spec-compliant HTML parser of Meziantou.Framework.WebPlatform"
+2026-10-19T13:38:58.26Z,Nordiska.PdfEngine.Native,0.1.0,Nordiska Team 2,Native pdf_engine library (PDF generation + signing) for win-x64 and linux-x64. All third-party dependencies are statically linked; no system packages required.
+2026-10-19T13:43:43.173Z,Beresta.Markdown.Wpf,0.8.0,Porohkun,"Fast native Markdown viewer for WPF, no browser or FlowDocument: virtualized for huge documents, live updates for previews and streamed answers, selection across blocks, themeable and extensible. On Markdig."
+2026-10-19T13:53:19.907Z,NMF-AnyText-AspnetCore,3.0.10,Georg Hinkel,This package contains the AnyText bindings for ASP.NET Core
+2026-10-19T13:58:26.647Z,Aiursoft.Kanban.Client,10.0.0,kanban,"Manage Kanban boards, columns and cards using a personal API key."

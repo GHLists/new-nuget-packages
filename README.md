@@ -12,27 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 13:20 UTC
+## Latest list — 2026-10-19 14:22 UTC
 
-New packages created between 2026-10-19 12:20 UTC and 2026-10-19 13:20 UTC.
+New packages created between 2026-10-19 13:20 UTC and 2026-10-19 14:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T13-20-23-403716Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T14-22-31-312379Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 12:28:20 | [Umbraco.AI.TypeSafe](https://www.nuget.org/packages/Umbraco.AI.TypeSafe) | 18.0.0 | Umbraco | TypeSafe AI provider for Umbraco AI |
-| 2026-10-19 12:30:30 | [XxmiLang.Core](https://www.nuget.org/packages/XxmiLang.Core) | 0.1.1 | xxmi-lang contributors | The shared definitions of the xxmi-lang .NET library: diagnostics, locations, e… |
-| 2026-10-19 12:30:32 | [XxmiLang.Native.linux-arm64](https://www.nuget.org/packages/XxmiLang.Native.linux-arm64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for linux-arm64, for the XxmiLan… |
-| 2026-10-19 12:30:35 | [XxmiLang.Native.linux-x64](https://www.nuget.org/packages/XxmiLang.Native.linux-x64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for linux-x64, for the XxmiLang… |
-| 2026-10-19 12:30:37 | [XxmiLang.Native.osx-arm64](https://www.nuget.org/packages/XxmiLang.Native.osx-arm64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for osx-arm64, for the XxmiLang… |
-| 2026-10-19 12:30:39 | [XxmiLang.Native.osx-x64](https://www.nuget.org/packages/XxmiLang.Native.osx-x64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for osx-x64, for the XxmiLang pa… |
-| 2026-10-19 12:30:42 | [XxmiLang.Native.win-arm64](https://www.nuget.org/packages/XxmiLang.Native.win-arm64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for win-arm64, for the XxmiLang… |
-| 2026-10-19 12:30:44 | [XxmiLang.Native.win-x64](https://www.nuget.org/packages/XxmiLang.Native.win-x64) | 0.1.1 | xxmi-lang contributors | The xxmi command-line tool and language server for win-x64, for the XxmiLang pa… |
-| 2026-10-19 12:30:45 | [XxmiLang](https://www.nuget.org/packages/XxmiLang) | 0.1.1 | xxmi-lang contributors | Typed .NET client for the xxmi-lang tooling: lint and analyse XXMI / 3DMigoto m… |
-| 2026-10-19 12:31:50 | [Sintef.Scoop.Utilities.Framework](https://www.nuget.org/packages/Sintef.Scoop.Utilities.Framework) | 2.0.6 | SINTEF Mathematics and Cybern… | Package Description |
-| 2026-10-19 12:33:47 | [AscendantWare.PSIpenta.COM](https://www.nuget.org/packages/AscendantWare.PSIpenta.COM) | 1.0.1 | AscendantWare.PSIpenta.COM | Eine moderne C#-Wrapper-Bibliothek für die PSIpenta COM-Schnittstelle, die eine… |
-| 2026-10-19 12:43:39 | [LogiPluginApi](https://www.nuget.org/packages/LogiPluginApi) | 6.4.2.3567 | Logitech | Logi Plugin API for developing Logi Plugin Service plugins. |
-| 2026-10-19 13:04:45 | [ChohyoPdf](https://www.nuget.org/packages/ChohyoPdf) | 0.1.0 | Ringoacid | MIT ライセンスの PDF 生成ライブラリ。日本語テキスト（TrueType サブセット埋め込み・禁則処理）、表、画像、図形、自動折り返し・自動改ページに対… |
+| 2026-10-19 13:24:23 | [ContractWatcher.SDK](https://www.nuget.org/packages/ContractWatcher.SDK) | 1.0.0 | a1unade | .NET SDK for integrating applications with ContractWatcher. |
+| 2026-10-19 13:33:04 | [Meziantou.Framework.HumanReadableSerializer.Html](https://www.nuget.org/packages/Meziantou.Framework.HumanReadableSerializer.Html) | 1.0.0 | meziantou | Formats the HTML values (text/html) serialized by Meziantou.Framework.HumanRead… |
+| 2026-10-19 13:38:58 | [Nordiska.PdfEngine.Native](https://www.nuget.org/packages/Nordiska.PdfEngine.Native) | 0.1.0 | Nordiska Team 2 | Native pdf_engine library (PDF generation + signing) for win-x64 and linux-x64.… |
+| 2026-10-19 13:43:43 | [Beresta.Markdown.Wpf](https://www.nuget.org/packages/Beresta.Markdown.Wpf) | 0.8.0 | Porohkun | Fast native Markdown viewer for WPF, no browser or FlowDocument: virtualized fo… |
+| 2026-10-19 13:53:19 | [NMF-AnyText-AspnetCore](https://www.nuget.org/packages/NMF-AnyText-AspnetCore) | 3.0.10 | Georg Hinkel | This package contains the AnyText bindings for ASP.NET Core |
+| 2026-10-19 13:58:26 | [Aiursoft.Kanban.Client](https://www.nuget.org/packages/Aiursoft.Kanban.Client) | 10.0.0 | kanban | Manage Kanban boards, columns and cards using a personal API key. |
 
 ## Data source
 
