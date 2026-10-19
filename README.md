@@ -12,30 +12,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:20 UTC
+## Latest list — 2026-10-19 10:22 UTC
 
-New packages created between 2026-10-19 08:22 UTC and 2026-10-19 09:20 UTC.
+New packages created between 2026-10-19 09:20 UTC and 2026-10-19 10:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T09-20-35-355614Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T10-22-32-305856Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 08:22:52 | [Beresta](https://www.nuget.org/packages/Beresta) | 2.1.0 | Beresta.NET | Берёста — DOM-библиотека XML на C++17: DOM, XPath 1.0, XML Schema, DTD (обёртка… |
-| 2026-10-19 08:28:13 | [X-Ray.PS](https://www.nuget.org/packages/X-Ray.PS) | 26.10.6966 | Curiosity GmbH | Pure managed PostScript, EPS and XPS reader for .NET: a PostScript interpreter,… |
-| 2026-10-19 08:28:16 | [X-Ray.Psd.Skia](https://www.nuget.org/packages/X-Ray.Psd.Skia) | 26.10.6966 | Curiosity GmbH | SkiaSharp interop for XRay.Psd: SKBitmap/SKImage conversion, thumbnail decoding… |
-| 2026-10-19 08:28:19 | [X-Ray.Psd.Text](https://www.nuget.org/packages/X-Ray.Psd.Text) | 26.10.6966 | Curiosity GmbH | Type-layer re-rendering for XRay.Psd: lays out PSD text from the parsed model (… |
-| 2026-10-19 08:30:54 | [X-Ray.Office.Text](https://www.nuget.org/packages/X-Ray.Office.Text) | 26.10.6965 | Curiosity GmbH | Font resolution and metrics, text shaping, Unicode line breaking and paragraph… |
-| 2026-10-19 08:30:57 | [X-Ray.Office.Vector](https://www.nuget.org/packages/X-Ray.Office.Vector) | 26.10.6965 | Curiosity GmbH | Importers for embedded vector graphics: WMF, EMF, EMF+ and SVG, decoded into th… |
-| 2026-10-19 08:30:59 | [X-Ray.Office.WordProcessing](https://www.nuget.org/packages/X-Ray.Office.WordProcessing) | 26.10.6965 | Curiosity GmbH | Word-processing documents (the LibreOffice Writer equivalent): DOCX/DOCM/DOTX/D… |
-| 2026-10-19 08:31:02 | [X-Ray.Office](https://www.nuget.org/packages/X-Ray.Office) | 26.10.6965 | Curiosity GmbH | Renders Word, Excel and PowerPoint documents, with their legacy binary, OpenDoc… |
-| 2026-10-19 08:44:47 | [Bibui.App.WaylandManaged](https://www.nuget.org/packages/Bibui.App.WaylandManaged) | 0.10.0 | Navisurg ApS | A bibui app in one package: bibui, a native Wayland window drawn by bibui's man… |
-| 2026-10-19 08:44:47 | [Bibui.App.SilkSkiaGl](https://www.nuget.org/packages/Bibui.App.SilkSkiaGl) | 0.10.0 | Navisurg ApS | A bibui app in one package: bibui, a Silk window drawn by Skia on its GL contex… |
-| 2026-10-19 08:44:48 | [Bibui.App.SilkManaged](https://www.nuget.org/packages/Bibui.App.SilkManaged) | 0.10.0 | Navisurg ApS | A bibui app in one package: bibui, a Silk window drawn by bibui's managed raste… |
-| 2026-10-19 08:44:48 | [Bibui.Gl](https://www.nuget.org/packages/Bibui.Gl) | 0.10.0 | Navisurg ApS | Bibui's GL layer: the GL framebuffer a platform presents (GlTarget) and the GL… |
-| 2026-10-19 08:44:49 | [Bibui.App.WaylandSkiaCpu](https://www.nuget.org/packages/Bibui.App.WaylandSkiaCpu) | 0.10.0 | Navisurg ApS | A bibui app in one package: bibui, a native Wayland window drawn by Skia on the… |
-| 2026-10-19 08:44:49 | [Bibui.App.SilkSkiaCpu](https://www.nuget.org/packages/Bibui.App.SilkSkiaCpu) | 0.10.0 | Navisurg ApS | A bibui app in one package: bibui, a Silk window drawn by Skia on the CPU, show… |
-| 2026-10-19 08:55:09 | [Axial.Hosting.AspNetCore](https://www.nuget.org/packages/Axial.Hosting.AspNetCore) | 0.11.1 | Adam Davies | [Experimental] ASP.NET Core hosting for schema-driven Axial Flow endpoints, wit… |
-| 2026-10-19 08:55:11 | [Axial.Hosting.GenHttp](https://www.nuget.org/packages/Axial.Hosting.GenHttp) | 0.11.1 | Adam Davies | [Experimental] GenHTTP hosting for schema-driven Axial Flow endpoints, with tru… |
+| 2026-10-19 09:31:56 | [CastleGuard.Sdk](https://www.nuget.org/packages/CastleGuard.Sdk) | 0.1.0 | Nextria | A .NET SDK for interacting with CastleGuard APIs. |
+| 2026-10-19 09:32:10 | [Magpie.Extensions.Tv](https://www.nuget.org/packages/Magpie.Extensions.Tv) | 0.1.0 | Magpie.Extensions.Tv | Package Description |
+| 2026-10-19 09:32:11 | [Magpie.Extensions.Wikidata](https://www.nuget.org/packages/Magpie.Extensions.Wikidata) | 0.1.0 | Magpie.Extensions.Wikidata | Package Description |
+| 2026-10-19 09:32:11 | [Magpie.Extensions.Music](https://www.nuget.org/packages/Magpie.Extensions.Music) | 0.1.0 | Magpie.Extensions.Music | Package Description |
+| 2026-10-19 09:32:11 | [Magpie.Extensions.MediaInfo.FFProbe](https://www.nuget.org/packages/Magpie.Extensions.MediaInfo.FFProbe) | 0.1.0 | Magpie.Extensions.MediaInfo.F… | Package Description |
+| 2026-10-19 09:32:12 | [Magpie.Extensions.Books](https://www.nuget.org/packages/Magpie.Extensions.Books) | 0.1.0 | Magpie.Extensions.Books | Package Description |
+| 2026-10-19 09:32:12 | [Magpie.Extensions.Cardigann](https://www.nuget.org/packages/Magpie.Extensions.Cardigann) | 0.1.0 | Magpie.Extensions.Cardigann | Package Description |
+| 2026-10-19 09:32:12 | [Magpie.Extensions.Tmdb](https://www.nuget.org/packages/Magpie.Extensions.Tmdb) | 0.1.0 | Magpie.Extensions.Tmdb | Package Description |
+| 2026-10-19 09:32:12 | [Magpie.Extensions.Jellyfin](https://www.nuget.org/packages/Magpie.Extensions.Jellyfin) | 0.1.0 | Magpie.Extensions.Jellyfin | Package Description |
+| 2026-10-19 09:32:13 | [Magpie.Extensions.Tvmaze](https://www.nuget.org/packages/Magpie.Extensions.Tvmaze) | 0.1.0 | Magpie.Extensions.Tvmaze | Package Description |
+| 2026-10-19 09:32:13 | [Magpie.Extensions.Qbittorrent](https://www.nuget.org/packages/Magpie.Extensions.Qbittorrent) | 0.1.0 | Magpie.Extensions.Qbittorrent | Package Description |
+| 2026-10-19 09:32:13 | [Magpie.Extensions.MusicBrainz](https://www.nuget.org/packages/Magpie.Extensions.MusicBrainz) | 0.1.0 | Magpie.Extensions.MusicBrainz | Package Description |
+| 2026-10-19 09:32:14 | [Magpie.Extensions.Movies](https://www.nuget.org/packages/Magpie.Extensions.Movies) | 0.1.0 | Magpie.Extensions.Movies | Package Description |
+| 2026-10-19 09:32:14 | [Magpie.Extensions.OpenLibrary](https://www.nuget.org/packages/Magpie.Extensions.OpenLibrary) | 0.1.0 | Magpie.Extensions.OpenLibrary | Package Description |
+| 2026-10-19 09:32:14 | [Magpie.Models](https://www.nuget.org/packages/Magpie.Models) | 0.1.0 | Magpie.Models | Package Description |
+| 2026-10-19 09:32:15 | [Magpie.Sdk](https://www.nuget.org/packages/Magpie.Sdk) | 0.1.0 | Magpie.Sdk | Package Description |
+| 2026-10-19 09:32:50 | [HeroKit.FileTypes.AspNetCore](https://www.nuget.org/packages/HeroKit.FileTypes.AspNetCore) | 3.7.0 | Emre Akdemir | ASP.NET Core integration for HeroKit.FileTypes: safe upload checks for IFormFil… |
+| 2026-10-19 09:38:52 | [Puppet.Core.Wpf](https://www.nuget.org/packages/Puppet.Core.Wpf) | 1.4.2 | Xiaoyuvax | Puppet Agent 操控框架 |
+| 2026-10-19 09:41:15 | [Azure.Provisioning.ContainerService](https://www.nuget.org/packages/Azure.Provisioning.ContainerService) | 1.0.0 | Microsoft | Azure.Provisioning.ContainerService simplifies declarative resource provisionin… |
+| 2026-10-19 09:45:18 | [Graphene.OdooTool](https://www.nuget.org/packages/Graphene.OdooTool) | 1.26.10.19 | OdooTool | Odoo ERP control agent tool for AIOrchestrator: discover models and fields, sea… |
+| 2026-10-19 09:46:07 | [Pobuca.DataverseAuditManager.XrmToolBox](https://www.nuget.org/packages/Pobuca.DataverseAuditManager.XrmToolBox) | 1.4.4 | KostasSavvopoulos | Dataverse Audit Manager is an XrmToolBox plugin for inspecting and managing env… |
+| 2026-10-19 09:47:51 | [BGCS.ParserRuntime.osx-x64](https://www.nuget.org/packages/BGCS.ParserRuntime.osx-x64) | 3.0.0 | FLwolfy | Locked LLVM 20 parser runtime for the BGCS Intel macOS generator host. |
+| 2026-10-19 09:47:52 | [BGCS.Contracts](https://www.nuget.org/packages/BGCS.Contracts) | 3.0.0 | FLwolfy | Dependency-free binding intermediate representation shared by BindGen-CS emitte… |
+| 2026-10-19 09:48:13 | [BindGen-CS.osx-x64](https://www.nuget.org/packages/BindGen-CS.osx-x64) | 3.0.0 | FLwolfy | Command-line tool for generating C# bindings from C/C++ headers with BindGen-CS. |
+| 2026-10-19 09:54:40 | [Utilvo.Shield.Filters](https://www.nuget.org/packages/Utilvo.Shield.Filters) | 1.0.0 | Utilvo | Zero-dependency parser and domain suffix matcher for Adblock Plus 2.0 and uBloc… |
 
 ## Data source
 

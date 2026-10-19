@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-19T09:31:56.503Z,CastleGuard.Sdk,0.1.0,Nextria,A .NET SDK for interacting with CastleGuard APIs.
+2026-10-19T09:32:10.72Z,Magpie.Extensions.Tv,0.1.0,Magpie.Extensions.Tv,Package Description
+2026-10-19T09:32:11.04Z,Magpie.Extensions.Wikidata,0.1.0,Magpie.Extensions.Wikidata,Package Description
+2026-10-19T09:32:11.36Z,Magpie.Extensions.Music,0.1.0,Magpie.Extensions.Music,Package Description
+2026-10-19T09:32:11.65Z,Magpie.Extensions.MediaInfo.FFProbe,0.1.0,Magpie.Extensions.MediaInfo.FFProbe,Package Description
+2026-10-19T09:32:12.08Z,Magpie.Extensions.Books,0.1.0,Magpie.Extensions.Books,Package Description
+2026-10-19T09:32:12.413Z,Magpie.Extensions.Cardigann,0.1.0,Magpie.Extensions.Cardigann,Package Description
+2026-10-19T09:32:12.727Z,Magpie.Extensions.Tmdb,0.1.0,Magpie.Extensions.Tmdb,Package Description
+2026-10-19T09:32:12.987Z,Magpie.Extensions.Jellyfin,0.1.0,Magpie.Extensions.Jellyfin,Package Description
+2026-10-19T09:32:13.26Z,Magpie.Extensions.Tvmaze,0.1.0,Magpie.Extensions.Tvmaze,Package Description
+2026-10-19T09:32:13.57Z,Magpie.Extensions.Qbittorrent,0.1.0,Magpie.Extensions.Qbittorrent,Package Description
+2026-10-19T09:32:13.91Z,Magpie.Extensions.MusicBrainz,0.1.0,Magpie.Extensions.MusicBrainz,Package Description
+2026-10-19T09:32:14.213Z,Magpie.Extensions.Movies,0.1.0,Magpie.Extensions.Movies,Package Description
+2026-10-19T09:32:14.513Z,Magpie.Extensions.OpenLibrary,0.1.0,Magpie.Extensions.OpenLibrary,Package Description
+2026-10-19T09:32:14.813Z,Magpie.Models,0.1.0,Magpie.Models,Package Description
+2026-10-19T09:32:15.057Z,Magpie.Sdk,0.1.0,Magpie.Sdk,Package Description
+2026-10-19T09:32:50.84Z,HeroKit.FileTypes.AspNetCore,3.7.0,Emre Akdemir,"ASP.NET Core integration for HeroKit.FileTypes: safe upload checks for IFormFile, an [AllowedFileTypes] attribute for MVC and Razor Pages models, and a ValidateUploads() endpoint filter for minimal APIs that returns 400 with the reason."
+2026-10-19T09:38:52.003Z,Puppet.Core.Wpf,1.4.2,Xiaoyuvax,Puppet Agent 操控框架
+2026-10-19T09:41:15.9Z,Azure.Provisioning.ContainerService,1.0.0,Microsoft,Azure.Provisioning.ContainerService simplifies declarative resource provisioning in .NET.
+2026-10-19T09:45:18.547Z,Graphene.OdooTool,1.26.10.19,OdooTool,"Odoo ERP control agent tool for AIOrchestrator: discover models and fields, search, create, update, delete records, call model methods, and read grouped aggregates over the Odoo JSON-2 external API."
+2026-10-19T09:46:07.107Z,Pobuca.DataverseAuditManager.XrmToolBox,1.4.4,KostasSavvopoulos,"Dataverse Audit Manager is an XrmToolBox plugin for inspecting and managing environment, table, and column auditing. It stages configuration changes before publishing, verifies effective settings, reports audit storage by table, provides field-activity drill-downs, and offers a separately guarded a…"
+2026-10-19T09:47:51.17Z,BGCS.ParserRuntime.osx-x64,3.0.0,FLwolfy,Locked LLVM 20 parser runtime for the BGCS Intel macOS generator host.
+2026-10-19T09:47:52.303Z,BGCS.Contracts,3.0.0,FLwolfy,Dependency-free binding intermediate representation shared by BindGen-CS emitters.
+2026-10-19T09:48:13.313Z,BindGen-CS.osx-x64,3.0.0,FLwolfy,Command-line tool for generating C# bindings from C/C++ headers with BindGen-CS.
+2026-10-19T09:54:40.87Z,Utilvo.Shield.Filters,1.0.0,Utilvo,Zero-dependency parser and domain suffix matcher for Adblock Plus 2.0 and uBlock Origin static network filter rules.
