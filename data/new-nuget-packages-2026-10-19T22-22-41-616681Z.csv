@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-19T21:22:39.307Z,CodeBinder.CLang.Sdk,0.1.0,CodeBinder.CLang,CodeBinder .NET SDK for native API wrapper generation
+2026-10-19T21:24:02.96Z,PersonalUI.Blazor,1.0.0,Andreas Liepins Krusager,"Custom tactile dark-mode UI library for Blazor: windows, 3D buttons, inputs, modals, toasts, and loaders."
+2026-10-19T21:27:43.45Z,Trellis.AgentDocs.Packaging,1.0.2,Xavier John,Build-only helper for packing versioned coding-agent documentation into NuGet packages.
+2026-10-19T21:27:44.38Z,Trellis.AgentDocs,1.0.2,Xavier John,Opt-in repository installer for versioned NuGet package guidance for coding agents.
+2026-10-19T21:30:29.95Z,GameHost.Keys,0.0.109,Maksim Shimshon,Core Package for Lunatic Panel's PLugin
+2026-10-19T21:42:04.407Z,Programaris.Tenancy.Abstractions,0.1.0,PROGRAMARIS,Public tenant context contracts for PROGRAMARIS integration clients.
+2026-10-19T21:48:34.05Z,JJConsulting.DbUp,1.0.0,JJConsulting,SQL Server migrations and versionable database objects using DbUp and DbUpX.
+2026-10-19T21:51:54.03Z,Trellis.ServiceLevelIndicators,10.0.0,Xavier John,"Core library for emitting Service Level Indicator (SLI) latency metrics in milliseconds from .NET applications via System.Diagnostics.Metrics and OpenTelemetry. Provides measured operation scopes, result-based outcome helpers, custom dimensions, and opt-in latency threshold counters."
+2026-10-19T21:51:54.44Z,Trellis.ServiceLevelIndicators.Asp,10.0.0,Xavier John,"ASP.NET Core middleware for emitting Service Level Indicator (SLI) latency metrics in milliseconds for MVC and Minimal API endpoints. Supports endpoint exclusions, service-specific dimensions, configurable HTTP outcomes, abort telemetry, and opt-in latency threshold counts."
+2026-10-19T21:51:54.687Z,Trellis.ServiceLevelIndicators.Asp.ApiVersioning,10.0.0,Xavier John,"Adds the resolved API version as the http.api.version SLI dimension when the ASP.NET Core app uses Asp.Versioning, including aborted requests and opt-in threshold counts. Extension package for Trellis.ServiceLevelIndicators.Asp."
+2026-10-19T21:56:54.347Z,Programaris.Tenancy,0.1.0,PROGRAMARIS,Core tenant identifier validation for PROGRAMARIS integrations.
+2026-10-19T21:56:55.567Z,Programaris.Tenancy.AspNetCore,0.1.0,PROGRAMARIS,ASP.NET Core tenant header selection helpers for PROGRAMARIS integrations.
+2026-10-19T21:57:08.853Z,RazorPlus.AspNetCore,0.3.0,RazorPlus contributors,Explicit Razor model metadata and a TypeScript client runtime.
+2026-10-19T22:05:55.987Z,VpnHood.AppUi.Hosting.Desktop.Abstractions,9.0.856,VpnHood.AppUi.Hosting.Desktop.Abstractions,"What a desktop host and a desktop UI agree on - IDesktopUi, what the host hands it, and where a UI's window opens - so that UI packages and hosts both reference this, and neither references the other"
+2026-10-19T22:07:21.343Z,CosmicChimps.Aspire.Hosting.Caravana,0.1.0,Cosmic Chimps,"Caravana deployment integration for Aspire: `aspire deploy` publishes the AppHost to Caravana (a self-hosted PaaS on Nomad) as one app, with secrets, volumes, domains, health checks and backups."
