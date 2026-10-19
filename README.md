@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 18:22 UTC
+## Latest list — 2026-10-19 19:22 UTC
 
-New packages created between 2026-10-19 17:22 UTC and 2026-10-19 18:22 UTC.
+New packages created between 2026-10-19 18:22 UTC and 2026-10-19 19:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T18-22-49-526846Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T19-22-47-084785Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 17:29:41 | [Stormancer.Server.Plugins.Voice](https://www.nuget.org/packages/Stormancer.Server.Plugins.Voice) | 0.1.0-pre | Stormancer | Voice plugin for Stormancer server applications. |
-| 2026-10-19 17:43:11 | [AxiosNet](https://www.nuget.org/packages/AxiosNet) | 1.0.0 | sunyuliang | 用 .NET 实现的 axios 风格 HTTP 客户端：API 与 JS axios 一一对应，内置按 origin 隔离的连接池（连接复用、并发上限、空闲… |
-| 2026-10-19 17:49:01 | [E2E.Mobile.NUnit](https://www.nuget.org/packages/E2E.Mobile.NUnit) | 0.6.0 | hardkoded | MobileAppTest for the E2E .NET port: a ready base class that installs the app,… |
-| 2026-10-19 17:49:04 | [E2E.Mobile.XUnit.V3](https://www.nuget.org/packages/E2E.Mobile.XUnit.V3) | 0.6.0 | hardkoded | MobileAppTest for the E2E .NET port: a ready base class that installs the app,… |
-| 2026-10-19 17:55:21 | [DaisyBlazor.Charts.Server](https://www.nuget.org/packages/DaisyBlazor.Charts.Server) | 0.7.0 | DaisyBlazor contributors | Server rendering for DaisyBlazor.Charts: runs the charts' bundled D3 layouts in… |
-| 2026-10-19 18:13:46 | [AlphaQuantum.CipaWebFiltering](https://www.nuget.org/packages/AlphaQuantum.CipaWebFiltering) | 1.0.0 | Alpha Quantum | .NET client for the CIPA Web Filtering lookup API: web-filtering categories for… |
+| 2026-10-19 18:26:11 | [Alvecta.Foundation.Application.Ports.Testing](https://www.nuget.org/packages/Alvecta.Foundation.Application.Ports.Testing) | 6.3.64 | Alvecta | Moq helpers for testing code written against Alvecta.Foundation.Application.Por… |
+| 2026-10-19 18:26:24 | [LondonDataServices.OlidsToFhirMapper.STU3](https://www.nuget.org/packages/LondonDataServices.OlidsToFhirMapper.STU3) | 0.2.1 | North East London ICB | LondonDataServices.OlidsToFhirMapper.STU3 provides mapper conversions from OLID… |
+| 2026-10-19 18:30:14 | [NewEdenKit.Sde](https://www.nuget.org/packages/NewEdenKit.Sde) | 0.1.0 | SimplyUnnamed | Downloads, caches and reads the EVE Online Static Data Export (SDE), and loads… |
+| 2026-10-19 18:34:58 | [OpBlazorUI.Charts](https://www.nuget.org/packages/OpBlazorUI.Charts) | 2.0.2 | OpenNG | Charts for OpBlazorUI, built on Blazor-ApexCharts. |
+| 2026-10-19 18:34:58 | [OpBlazorUI](https://www.nuget.org/packages/OpBlazorUI) | 2.0.2 | OpenNG | Optimus UI components for Blazor. |
+| 2026-10-19 18:45:15 | [diagnostic-hooks](https://www.nuget.org/packages/diagnostic-hooks) | 0.0.1-preview1 | diagnostic-hooks | Package Description |
+| 2026-10-19 18:49:22 | [VoiceTel.Sdk](https://www.nuget.org/packages/VoiceTel.Sdk) | 2.2.17 | VoiceTel | Official C# / .NET SDK for the VoiceTel REST API (v2.2.17). Provision numbers,… |
+| 2026-10-19 18:50:25 | [VoiceML](https://www.nuget.org/packages/VoiceML) | 0.9.3 | VoiceTel | Official .NET SDK for VoiceML — VoiceTel's outbound voice + AMD service with a… |
+| 2026-10-19 18:57:18 | [Umbraco.Community.WhoIsHere](https://www.nuget.org/packages/Umbraco.Community.WhoIsHere) | 0.9.0 | Lee Mills | Shows, live on the document edit screen, which other backoffice users have the… |
 
 ## Data source
 

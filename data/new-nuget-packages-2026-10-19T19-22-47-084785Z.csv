@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-19T18:26:11.96Z,Alvecta.Foundation.Application.Ports.Testing,6.3.64,Alvecta,"Moq helpers for testing code written against Alvecta.Foundation.Application.Ports: SetupReads points a mocked IQueryableRepository's Where and ByKey at its Query, so a test sets up Query with in-memory data only. Reference it from a test project."
+2026-10-19T18:26:24.007Z,LondonDataServices.OlidsToFhirMapper.STU3,0.2.1,North East London ICB,"LondonDataServices.OlidsToFhirMapper.STU3 provides mapper conversions from OLIDS data to FHIR R3 resources. It is designed to facilitate the integration of OLIDS data into FHIR-compliant systems, enabling seamless data exchange and interoperability within healthcare applications."
+2026-10-19T18:30:14.92Z,NewEdenKit.Sde,0.1.0,SimplyUnnamed,"Downloads, caches and reads the EVE Online Static Data Export (SDE), and loads it into your own storage through a simple import interface."
+2026-10-19T18:34:58.573Z,OpBlazorUI.Charts,2.0.2,OpenNG,"Charts for OpBlazorUI, built on Blazor-ApexCharts."
+2026-10-19T18:34:58.913Z,OpBlazorUI,2.0.2,OpenNG,Optimus UI components for Blazor.
+2026-10-19T18:45:15.623Z,diagnostic-hooks,0.0.1-preview1,diagnostic-hooks,Package Description
+2026-10-19T18:49:22.24Z,VoiceTel.Sdk,2.2.17,VoiceTel,"Official C# / .NET SDK for the VoiceTel REST API (v2.2.17). Provision numbers, place orders, validate e911, send messages, and manage your account."
+2026-10-19T18:50:25.897Z,VoiceML,0.9.3,VoiceTel,Official .NET SDK for VoiceML — VoiceTel's outbound voice + AMD service with a Twilio-compatible REST surface.
+2026-10-19T18:57:18.377Z,Umbraco.Community.WhoIsHere,0.9.0,Lee Mills,"Shows, live on the document edit screen, which other backoffice users have the same document open and which field they are in. A soft lock: it warns but never blocks."
