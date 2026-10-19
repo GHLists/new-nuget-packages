@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-19T17:29:41.267Z,Stormancer.Server.Plugins.Voice,0.1.0-pre,Stormancer,Voice plugin for Stormancer server applications.
+2026-10-19T17:43:11.66Z,AxiosNet,1.0.0,sunyuliang,用 .NET 实现的 axios 风格 HTTP 客户端：API 与 JS axios 一一对应，内置按 origin 隔离的连接池（连接复用、并发上限、空闲驱逐、可观测统计），零第三方运行时依赖。单目标 net6.0，适用于 .NET 6 及以上的全部运行时（6/7/8/9/10/11…）。An axios-style HTTP client for .NET.
+2026-10-19T17:49:01.043Z,E2E.Mobile.NUnit,0.6.0,hardkoded,"MobileAppTest for the E2E .NET port: a ready base class that installs the app, launches it fresh before each test, and shares one hosted device per run."
+2026-10-19T17:49:04.21Z,E2E.Mobile.XUnit.V3,0.6.0,hardkoded,"MobileAppTest for the E2E .NET port: a ready base class that installs the app, launches it fresh before each test, and shares one hosted device per run."
+2026-10-19T17:55:21.763Z,DaisyBlazor.Charts.Server,0.7.0,DaisyBlazor contributors,"Server rendering for DaisyBlazor.Charts: runs the charts' bundled D3 layouts in-process with Jint (a JavaScript interpreter written in .NET, no Node), so charts render their full SVG during prerendering and static server rendering."
+2026-10-19T18:13:46.427Z,AlphaQuantum.CipaWebFiltering,1.0.0,Alpha Quantum,".NET client for the CIPA Web Filtering lookup API: web-filtering categories for 100M+ domains, batch lookups of 1,000 and policy presets for school and library filters."
