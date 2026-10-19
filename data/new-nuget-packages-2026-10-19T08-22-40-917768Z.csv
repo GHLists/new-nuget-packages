@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-19T07:36:59.64Z,Sacloud.Sdk.APIGateway,0.1.1,SAKURA internet Inc.,.NET Client for SAKURA Cloud API Gateway
+2026-10-19T07:37:08.21Z,Sacloud.Sdk.AddOn,0.1.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud AddOn
+2026-10-19T07:37:16.953Z,Sacloud.Sdk.AppRunDedicated,0.4.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud AppRun Dedicated
+2026-10-19T07:37:24.88Z,Sacloud.Sdk.AppRunShared,0.4.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud AppRun Shared
+2026-10-19T07:37:32.933Z,Sacloud.Sdk.CloudHSM,0.1.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud CloudHSM
+2026-10-19T07:37:41.23Z,Sacloud.Sdk.EventBus,0.1.5,SAKURA internet Inc.,.NET Client for SAKURA Cloud EventBus
+2026-10-19T07:37:49.413Z,Sacloud.Sdk.IAM,0.4.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud IAM
+2026-10-19T07:37:57.41Z,Sacloud.Sdk.KMS,0.1.4,SAKURA internet Inc.,.NET Client for SAKURA Cloud KMS
+2026-10-19T07:38:05.733Z,Sacloud.Sdk.MonitoringSuite,0.2.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud Monitoring Suite
+2026-10-19T07:38:13.947Z,Sacloud.Sdk.NetworkingSuite,0.1.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud Networking Suite
+2026-10-19T07:38:22.663Z,Sacloud.Sdk.ObjectStorage,0.2.0,SAKURA internet Inc.,.NET Client for SAKURA Cloud Object Storage
+2026-10-19T07:38:31.667Z,Sacloud.Sdk.SecretManager,0.1.4,SAKURA internet Inc.,Package Description
+2026-10-19T07:38:41.473Z,Sacloud.Sdk.SimpleMQ,0.1.3,SAKURA internet Inc.,.NET Client for SAKURA Cloud SimpleMQ
+2026-10-19T07:38:49.683Z,Sacloud.Sdk.SimpleNotification,0.1.5,SAKURA internet Inc.,.NET Client for SAKURA Cloud Simple Notification
+2026-10-19T07:38:58.72Z,Sacloud.Sdk.Workflows,0.2.2,SAKURA internet Inc.,.NET Client for SAKURA Cloud Workflows
+2026-10-19T07:48:44.6Z,X-Ray.Email,26.10.6963,Curiosity GmbH,"Dependency-free .NET library for Outlook MSG files, Compound File Binary (CFB) containers and EML/MIME messages: read, create, edit and convert between MSG and EML. Part of the X-Ray family."
+2026-10-19T07:48:47.86Z,X-Ray.Ics,26.10.6963,Curiosity GmbH,"Dependency-free .NET library for iCalendar (.ics, RFC 5545, iTIP RFC 5546) and vCalendar 1.0: tolerant reader, typed events/to-dos/journals, time zones, recurrence expansion, writer, and appointment extraction to HTML, text and Markdown. Part of the X-Ray family."
+2026-10-19T07:48:51.237Z,X-Ray.OneNote,26.10.6963,Curiosity GmbH,"Pure managed reader for Microsoft OneNote section files (.one) for .NET: parses the MS-ONESTORE revision store and the MS-ONE object model into a document tree (pages, outlines, rich text with formatting runs, images, tables, attached files, note tags, numbered lists, page history) and exports page…"
+2026-10-19T07:48:54.407Z,X-Ray.PS.Skia,26.10.6963,Curiosity GmbH,"SkiaSharp raster writer for X-Ray.PS: anti-aliased PostScript, EPS and XPS rendering with gradients, opacity, image brushes and font rasterization, matching the default output of the library X-Ray.PS was ported from."
+2026-10-19T07:53:18.113Z,X-Ray.Office.Containers,26.10.6964,Curiosity GmbH,"Container formats underlying office documents: OLE2/CFB compound files, ZIP, OPC (OOXML) and ODF packages, plus password-protected document decryption. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:23.087Z,X-Ray.Office.Markup,26.10.6964,Curiosity GmbH,"Structured text output: a semantic XHTML writer over the shared content tree, and a GitHub-Flavored Markdown writer over that XHTML. Depends on X-Ray.Office.Core alone. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whol…"
+2026-10-19T07:53:25.763Z,X-Ray.Office.MsBinary,26.10.6964,Curiosity GmbH,"Shared legacy Microsoft binary-format infrastructure: Escher/MS-ODRAW drawings, OLE property sets, legacy codepages and record-stream readers. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:28.39Z,X-Ray.Office.Ooxml,26.10.6964,Curiosity GmbH,"Shared Office Open XML infrastructure: DrawingML shapes and geometry, themes and colour transforms, VML, and relationship/part resolution. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:31.08Z,X-Ray.Office.OpenDocument,26.10.6964,Curiosity GmbH,"Shared OpenDocument Format infrastructure: style families and resolution, common ODF attributes, and flat-XML (.fo*) handling. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:33.61Z,X-Ray.Office.Presentations,26.10.6964,Curiosity GmbH,"Presentation documents (the LibreOffice Impress equivalent): PPTX/PPTM/POTX/POTM/PPSX/PPSM, PPT/POT/PPS, ODP/OTP/FODP. Includes slide rendering. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:36.607Z,X-Ray.Office.Rendering,26.10.6964,Curiosity GmbH,"Rendering backends that consume the X-Ray.Office display list: a SkiaSharp rasteriser (PNG, JPEG) and a PDF writer with embedded subset fonts and real text. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:39.83Z,X-Ray.Office.Spreadsheets,26.10.6964,Curiosity GmbH,"Spreadsheet documents (the LibreOffice Calc equivalent): XLSX/XLSM/XLTX/XLTM/XLSB, XLS/XLT, ODS/OTS/FODS, CSV. Includes the formula engine and cell rendering. Part of X-Ray.Office, a pure C# port of LibreOffice's document import and rendering; install the X-Ray.Office package for the whole set."
+2026-10-19T07:53:54.207Z,PulseTrade.Tagging.Contracts,0.1.0-alpha1,PulseTrade.Tagging.Contracts,"Domain-neutral tagging target, extra-info and time-frame contracts."
+2026-10-19T07:54:30.327Z,PulseTrade.Tagging.SqlServer,0.1.0-alpha1,PulseTrade.Tagging.SqlServer,Revisioned SQL Server store for domain-neutral tagging extra information.
+2026-10-19T07:55:00.14Z,PulseTrade.Comm.ResourceNode.Decisions,0.1.1-alpha3,PulseTrade.Comm.ResourceNode.Decisions,Durable PTC decisions with fixed participant snapshots and unique vote outcomes.
+2026-10-19T08:00:01.953Z,crossbeam-queue,1.0.0,Molth Nevin,"Bounded and unbounded multi-producer, multi-consumer queues."
+2026-10-19T08:05:40.4Z,Kompressr.Sdk,0.1.0,Kompressr,"Async .NET client for Kompressr uploads, delivery, asset lifecycle and scoped identities."
