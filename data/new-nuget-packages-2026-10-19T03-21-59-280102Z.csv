@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-19T02:44:17.26Z,Ebitex.Data.Delivery,0.1.11,ebitex software LLC,"Server-side client for the ebitex Data Delivery API: list the models a key can read, then list, filter, sort, facet and page records, follow references, and read records by key."
+2026-10-19T02:44:32.743Z,HtmlToPdfDotNet,1.0.0,Guillermo Castillo,"A fully managed library for converting HTML and CSS to PDF in .NET, with no browser or native dependencies."
+2026-10-19T02:47:56.4Z,FaQemSharp,0.1.0,Frédéric Lopez,"Independent C# FA-QEM implementation: GLB simplification, successive mapping, compact UV islands, lossless atlas baking and quality reports."
+2026-10-19T03:13:02.76Z,Aiursoft.AlertCenter.Client,10.4.0,alertcenter,"Create, query, resolve and change severity of application-scoped AlertCenter incidents."
