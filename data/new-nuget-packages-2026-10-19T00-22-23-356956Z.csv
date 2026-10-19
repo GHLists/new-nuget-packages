@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-18T23:35:22.36Z,PulseTrade.Comm.Mcp.Server,0.1.1,PulseTrade,Archived PulseTrade.Comm MCP executable retained for migration and backend extraction.
+2026-10-18T23:39:06.51Z,RebolParse,0.2.0,kealist,"A REBOL-style parse dialect for C#. Match strings or lists of values with a fluent rule builder or REBOL-style rule text, with captures, marks, recursion and named actions."
+2026-10-18T23:54:30.29Z,SharpView.Export.Mermaid,0.0.1,Stanislav Tadtaev,"Formats SharpView project maps and call diagrams as Mermaid flowcharts in Markdown, with source-evidence tables."
+2026-10-18T23:54:31.473Z,SharpView,0.0.1,Stanislav Tadtaev,"Source-backed analysis of ASP.NET Core Web APIs for people and agents: the MSBuild project reference map with build settings, where exceptions are thrown, caught, miscaught or may escape an action, call paths and reachability from controller actions, and Mermaid diagrams. Uses Roslyn and your insta…"
+2026-10-18T23:54:32.133Z,SharpView.Core,0.0.1,Stanislav Tadtaev,"Fact model and queries behind SharpView: call-graph reachability and paths, exception throw/catch/escape analysis, MSBuild project map and layer rules, over an immutable snapshot of a C# program. No Roslyn dependency; snapshots can be loaded from JSON."
+2026-10-18T23:54:32.717Z,SharpView.Graph,0.0.1,Stanislav Tadtaev,"Small generic immutable directed multigraph for .NET: out/in edges, breadth-first search with shortest paths, reachability, quotient graphs and strongly connected components. Deterministic by construction; independent of C# and Roslyn."
+2026-10-18T23:54:33.32Z,SharpView.Roslyn,0.0.1,Stanislav Tadtaev,"Loads .csproj, .sln and .slnx inputs with MSBuild and Roslyn and extracts the SharpView fact snapshot (types, callables, call sites, throws, catches, project settings). Uses the installed .NET SDK; never restores, builds or edits the analysed code."
+2026-10-18T23:55:08.253Z,Liturgy.Godot,0.1.0,Oddness,"Attribute-based global hooks for Godot C#. Mark static methods with [Rite.OnReady], [Rite.OnButtonPressed], [Rite.OnProcess] and more, and Liturgy wires them up across the whole scene tree. No addon, no autoload, no setup."
+2026-10-18T23:58:12.213Z,IKVM.Templates,8.16.3,"Jeroen Frijters,Jerome Haltom",Templates for creating Java projects compiled to .NET by IKVM.NET.Sdk.
+2026-10-19T00:01:17.37Z,GetOpts.NET,1.3.0,Latency McLaughlin,A callback-based program option parser for C#.
+2026-10-19T00:03:40.68Z,ZeroDev.Kora,3.1.1,Zero Development,Official .NET SDK for Kora licensing
