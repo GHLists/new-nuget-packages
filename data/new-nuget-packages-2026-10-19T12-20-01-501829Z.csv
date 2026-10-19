@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-19T11:24:09.53Z,SatorImaging.Threading,1.9.0,Sator Imaging,SatorImaging.Threading from Sator Imaging
+2026-10-19T11:26:24.28Z,Astrea.DataTables,1.0.0,Gautam Soni,DataTables for ASP.NET Core
+2026-10-19T11:43:30.72Z,UnicoreSoftwareSolutions.Tool.GenCRUD,1.0.0,Unicore Software Solutions,A tool for generating CRUD UI and API code for ASP.NET Core applications.
+2026-10-19T11:43:55.647Z,Arc56.Generated.HashMapsData2Value.zebgen,1.0.1.2026101911,HashMapsData2Value,Generated ARC-56 Algorand smart-contract clients for HashMapsData2Value/zebgen.
+2026-10-19T11:48:03.33Z,WopiServer,0.1.0,https://github.com/Papyrine/WopiServer/graphs/contributors,"The host side of the Web Application Open Platform Interface (WOPI) for ASP.NET Core: lets WOPI clients such as Collabora Online, ONLYOFFICE or Office for the web open and save files from any storage."
