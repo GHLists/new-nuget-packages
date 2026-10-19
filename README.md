@@ -12,23 +12,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:22 UTC
+## Latest list — 2026-10-19 20:23 UTC
 
-New packages created between 2026-10-19 18:22 UTC and 2026-10-19 19:22 UTC.
+New packages created between 2026-10-19 19:22 UTC and 2026-10-19 20:23 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-19T19-22-47-084785Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-19T20-23-07-277113Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 18:26:11 | [Alvecta.Foundation.Application.Ports.Testing](https://www.nuget.org/packages/Alvecta.Foundation.Application.Ports.Testing) | 6.3.64 | Alvecta | Moq helpers for testing code written against Alvecta.Foundation.Application.Por… |
-| 2026-10-19 18:26:24 | [LondonDataServices.OlidsToFhirMapper.STU3](https://www.nuget.org/packages/LondonDataServices.OlidsToFhirMapper.STU3) | 0.2.1 | North East London ICB | LondonDataServices.OlidsToFhirMapper.STU3 provides mapper conversions from OLID… |
-| 2026-10-19 18:30:14 | [NewEdenKit.Sde](https://www.nuget.org/packages/NewEdenKit.Sde) | 0.1.0 | SimplyUnnamed | Downloads, caches and reads the EVE Online Static Data Export (SDE), and loads… |
-| 2026-10-19 18:34:58 | [OpBlazorUI.Charts](https://www.nuget.org/packages/OpBlazorUI.Charts) | 2.0.2 | OpenNG | Charts for OpBlazorUI, built on Blazor-ApexCharts. |
-| 2026-10-19 18:34:58 | [OpBlazorUI](https://www.nuget.org/packages/OpBlazorUI) | 2.0.2 | OpenNG | Optimus UI components for Blazor. |
-| 2026-10-19 18:45:15 | [diagnostic-hooks](https://www.nuget.org/packages/diagnostic-hooks) | 0.0.1-preview1 | diagnostic-hooks | Package Description |
-| 2026-10-19 18:49:22 | [VoiceTel.Sdk](https://www.nuget.org/packages/VoiceTel.Sdk) | 2.2.17 | VoiceTel | Official C# / .NET SDK for the VoiceTel REST API (v2.2.17). Provision numbers,… |
-| 2026-10-19 18:50:25 | [VoiceML](https://www.nuget.org/packages/VoiceML) | 0.9.3 | VoiceTel | Official .NET SDK for VoiceML — VoiceTel's outbound voice + AMD service with a… |
-| 2026-10-19 18:57:18 | [Umbraco.Community.WhoIsHere](https://www.nuget.org/packages/Umbraco.Community.WhoIsHere) | 0.9.0 | Lee Mills | Shows, live on the document edit screen, which other backoffice users have the… |
+| 2026-10-19 19:24:28 | [CodeBinder.Sdk.Redist](https://www.nuget.org/packages/CodeBinder.Sdk.Redist) | 0.1.0 | CodeBinder.Sdk.Redist | CodeBinder .NET SDK for native API wrapper generation |
+| 2026-10-19 19:25:04 | [CodeBinder.Sdk](https://www.nuget.org/packages/CodeBinder.Sdk) | 0.1.0 | CodeBinder.Sdk | CodeBinder .NET SDK for native API wrapper generation |
+| 2026-10-19 19:26:47 | [Kiban.Workfloo](https://www.nuget.org/packages/Kiban.Workfloo) | 1.0.0 | kiban | SDK de la API pública de workfloo de kiban cloud. |
+| 2026-10-19 19:30:42 | [Facturexa.ZugferdReader](https://www.nuget.org/packages/Facturexa.ZugferdReader) | 7.3.0 | Zanyar Systems | Reads ZUGFeRD / Factur-X and XRechnung e-invoices (XML or PDF with embedded XML… |
+| 2026-10-19 19:36:23 | [Riddersholm.Money.EntityFrameworkCore](https://www.nuget.org/packages/Riddersholm.Money.EntityFrameworkCore) | 1.0.0 | Jesper Bruhn Riddersholm | Entity Framework Core integration for Riddersholm.Money: complex-type mapping,… |
+| 2026-10-19 19:36:23 | [Riddersholm.Money](https://www.nuget.org/packages/Riddersholm.Money) | 1.0.0 | Jesper Bruhn Riddersholm | A modern, immutable Money value object for .NET with complete ISO 4217 currency… |
+| 2026-10-19 19:36:24 | [Riddersholm.Money.Generators](https://www.nuget.org/packages/Riddersholm.Money.Generators) | 1.0.0 | Jesper Bruhn Riddersholm | Roslyn incremental source generator that turns an ISO 4217 currency definition… |
+| 2026-10-19 19:38:13 | [Themis.Inference.OpenVINO](https://www.nuget.org/packages/Themis.Inference.OpenVINO) | 1.5.1 | Themis contributors | Optional OpenVINO execution-provider integration for Themis ONNX inference. |
+| 2026-10-19 19:50:45 | [SkiaGameRendering.Kni.Android](https://www.nuget.org/packages/SkiaGameRendering.Kni.Android) | 0.19.0 | SkiaGameRendering.Kni.Android | GPU SkiaSharp rendering into KNI Android (GLES) Texture2D targets, with zero-co… |
+| 2026-10-19 20:02:30 | [Allors.Documents.Barcodes](https://www.nuget.org/packages/Allors.Documents.Barcodes) | 4.0.0 | allors | Draw barcodes into the picture frames of Allors Documents templates. |
+| 2026-10-19 20:02:30 | [Allors.Documents.Imaging](https://www.nuget.org/packages/Allors.Documents.Imaging) | 4.0.0 | allors | Scale the pictures of Allors Documents templates to their frames. |
+| 2026-10-19 20:03:49 | [Microsoft.iOS.Ref.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Ref.net10.0_27.1) | 27.1.10018 | Microsoft | Microsoft iOS reference assemblies. Please do not reference directly. |
+| 2026-10-19 20:03:52 | [Microsoft.iOS.Ref.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Ref.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Microsoft iOS reference assemblies. Please do not reference directly. |
+| 2026-10-19 20:03:54 | [Microsoft.iOS.Ref.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Ref.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Microsoft iOS reference assemblies. Please do not reference directly. |
+| 2026-10-19 20:03:57 | [Microsoft.iOS.Ref.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Ref.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Microsoft iOS reference assemblies. Please do not reference directly. |
+| 2026-10-19 20:03:59 | [Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for ios-arm64. Please do not reference directly. |
+| 2026-10-19 20:04:02 | [Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for ios-arm64. Please do not reference directly. |
+| 2026-10-19 20:04:04 | [Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for ios-arm64. Please do not reference directly. |
+| 2026-10-19 20:04:07 | [Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for ios-arm64. Please do not reference directly. |
+| 2026-10-19 20:04:10 | [Microsoft.iOS.Runtime.ios.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios.net10.0_27.1) | 27.1.10018 | Microsoft | Microsoft iOS managed runtime pack for ios. Please do not reference directly. |
+| 2026-10-19 20:04:13 | [Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Microsoft iOS managed runtime pack for ios. Please do not reference directly. |
+| 2026-10-19 20:04:17 | [Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Microsoft iOS managed runtime pack for ios. Please do not reference directly. |
+| 2026-10-19 20:04:21 | [Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Microsoft iOS managed runtime pack for ios. Please do not reference directly. |
+| 2026-10-19 20:04:23 | [Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference dire… |
+| 2026-10-19 20:04:26 | [Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference dire… |
+| 2026-10-19 20:04:29 | [Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference dire… |
+| 2026-10-19 20:04:31 | [Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference dire… |
+| 2026-10-19 20:04:34 | [Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-x64. Please do not reference direct… |
+| 2026-10-19 20:04:36 | [Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-x64. Please do not reference direct… |
+| 2026-10-19 20:04:38 | [Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-x64. Please do not reference direct… |
+| 2026-10-19 20:04:40 | [Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Microsoft iOS runtime pack for iossimulator-x64. Please do not reference direct… |
+| 2026-10-19 20:04:47 | [Microsoft.iOS.Sdk.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Sdk.net10.0_27.1) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:04:52 | [Microsoft.iOS.Sdk.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Sdk.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:04:56 | [Microsoft.iOS.Sdk.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Sdk.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:05:00 | [Microsoft.iOS.Sdk.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Sdk.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:05:12 | [Microsoft.iOS.Windows.Sdk.net10.0_27.1](https://www.nuget.org/packages/Microsoft.iOS.Windows.Sdk.net10.0_27.1) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:05:14 | [Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.arm64](https://www.nuget.org/packages/Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.arm64) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:05:17 | [Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.x64](https://www.nuget.org/packages/Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.x64) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
+| 2026-10-19 20:05:20 | [Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.x86](https://www.nuget.org/packages/Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.x86) | 27.1.10018 | Microsoft | Managed Tools and Bindings for the iOS SDK |
 
 ## Data source
 

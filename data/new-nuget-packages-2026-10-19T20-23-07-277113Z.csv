@@ -1,0 +1,40 @@
+created_at,package,version,authors,description
+2026-10-19T19:24:28.073Z,CodeBinder.Sdk.Redist,0.1.0,CodeBinder.Sdk.Redist,CodeBinder .NET SDK for native API wrapper generation
+2026-10-19T19:25:04.627Z,CodeBinder.Sdk,0.1.0,CodeBinder.Sdk,CodeBinder .NET SDK for native API wrapper generation
+2026-10-19T19:26:47.307Z,Kiban.Workfloo,1.0.0,kiban,SDK de la API pública de workfloo de kiban cloud.
+2026-10-19T19:30:42.827Z,Facturexa.ZugferdReader,7.3.0,Zanyar Systems,"Reads ZUGFeRD / Factur-X and XRechnung e-invoices (XML or PDF with embedded XML) for .NET; profiles: XRechnung, EN 16931, Extended and more; syntax: CII and UBL; exposes all invoice fields as a view model and renders a readable PDF view. Free license."
+2026-10-19T19:36:23.203Z,Riddersholm.Money.EntityFrameworkCore,1.0.0,Jesper Bruhn Riddersholm,"Entity Framework Core integration for Riddersholm.Money: complex-type mapping, value converters and comparers, and precision helpers that stop decimal amounts being silently truncated."
+2026-10-19T19:36:23.983Z,Riddersholm.Money,1.0.0,Jesper Bruhn Riddersholm,"A modern, immutable Money value object for .NET with complete ISO 4217 currency support, exact decimal arithmetic, sum-preserving allocation, allocation-free formatting and parsing, System.Text.Json support, and full trimming/NativeAOT compatibility."
+2026-10-19T19:36:24.75Z,Riddersholm.Money.Generators,1.0.0,Jesper Bruhn Riddersholm,"Roslyn incremental source generator that turns an ISO 4217 currency definition file into strongly typed Currency members. Reference this package to define your own currencies (crypto, in-game, historic) with no reflection and no runtime registry."
+2026-10-19T19:38:13.237Z,Themis.Inference.OpenVINO,1.5.1,Themis contributors,Optional OpenVINO execution-provider integration for Themis ONNX inference.
+2026-10-19T19:50:45.34Z,SkiaGameRendering.Kni.Android,0.19.0,SkiaGameRendering.Kni.Android,"GPU SkiaSharp rendering into KNI Android (GLES) Texture2D targets, with zero-copy GPU texture sharing."
+2026-10-19T20:02:30.437Z,Allors.Documents.Barcodes,4.0.0,allors,Draw barcodes into the picture frames of Allors Documents templates.
+2026-10-19T20:02:30.833Z,Allors.Documents.Imaging,4.0.0,allors,Scale the pictures of Allors Documents templates to their frames.
+2026-10-19T20:03:49.99Z,Microsoft.iOS.Ref.net10.0_27.1,27.1.10018,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-10-19T20:03:52.7Z,Microsoft.iOS.Ref.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-10-19T20:03:54.97Z,Microsoft.iOS.Ref.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-10-19T20:03:57.46Z,Microsoft.iOS.Ref.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-10-19T20:03:59.97Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1,27.1.10018,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-10-19T20:04:02.38Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-10-19T20:04:04.74Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-10-19T20:04:07.087Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-10-19T20:04:10.993Z,Microsoft.iOS.Runtime.ios.net10.0_27.1,27.1.10018,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-10-19T20:04:13.92Z,Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-10-19T20:04:17.787Z,Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-10-19T20:04:21.393Z,Microsoft.iOS.Runtime.ios.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-10-19T20:04:23.837Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-10-19T20:04:26.253Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-10-19T20:04:29.207Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-10-19T20:04:31.387Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-10-19T20:04:34.23Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-10-19T20:04:36.4Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-10-19T20:04:38.55Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-10-19T20:04:40.737Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-10-19T20:04:47.59Z,Microsoft.iOS.Sdk.net10.0_27.1,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:04:52.073Z,Microsoft.iOS.Sdk.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:04:56.017Z,Microsoft.iOS.Sdk.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:05:00.443Z,Microsoft.iOS.Sdk.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:05:12.03Z,Microsoft.iOS.Windows.Sdk.net10.0_27.1,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:05:14.66Z,Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.arm64,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:05:17.76Z,Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.x64,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-10-19T20:05:20.247Z,Microsoft.iOS.Windows.Sdk.net10.0_27.1.Msi.x86,27.1.10018,Microsoft,Managed Tools and Bindings for the iOS SDK
