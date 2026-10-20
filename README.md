@@ -12,17 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 13:21 UTC
+## Latest list — 2026-10-20 14:20 UTC
 
-New packages created between 2026-10-20 12:22 UTC and 2026-10-20 13:21 UTC.
+New packages created between 2026-10-20 13:21 UTC and 2026-10-20 14:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T13-21-42-687139Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T14-20-05-182952Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 12:42:12 | [BorrowedTorch.Randomness](https://www.nuget.org/packages/BorrowedTorch.Randomness) | 1.1.0 | Borrowed Torch | Seeded random streams that give the same numbers on every platform and .NET ver… |
-| 2026-10-20 13:03:51 | [EtAlii.Lark](https://www.nuget.org/packages/EtAlii.Lark) | 0.1.0 | Peter Vrenken | A full-featured port of the Lark parsing toolkit to .NET: Lark EBNF grammars, E… |
-| 2026-10-20 13:05:37 | [ASEI.general-helpers](https://www.nuget.org/packages/ASEI.general-helpers) | 1.0.0 | ASEI | General helper library for Crestron SIMPL# and SIMPL# Pro control systems. Prov… |
+| 2026-10-20 13:33:38 | [Projection.DependencyInjection](https://www.nuget.org/packages/Projection.DependencyInjection) | 1.0.0 | HashGrove | Microsoft.Extensions.DependencyInjection integration for the Projection object… |
+| 2026-10-20 13:33:39 | [Projection](https://www.nuget.org/packages/Projection) | 1.0.0 | HashGrove | A simple, fast object-to-object mapper for .NET. Map entities to DTOs by conven… |
+| 2026-10-20 13:35:08 | [Tlib.Diagnostics](https://www.nuget.org/packages/Tlib.Diagnostics) | 0.19.0 | Tomm2000 | Package Description |
+| 2026-10-20 13:35:10 | [Tlib.Utils](https://www.nuget.org/packages/Tlib.Utils) | 0.19.0 | Tomm2000 | Package Description |
+| 2026-10-20 13:50:53 | [AvaloniaFluentUI.Fonts](https://www.nuget.org/packages/AvaloniaFluentUI.Fonts) | 1.0.0 | AvaloniaFluentUI.Fonts | Package Description |
+| 2026-10-20 13:50:54 | [DataStreamGenerator](https://www.nuget.org/packages/DataStreamGenerator) | 1.0.0 | DataStreamGenerator | Package Description |
+| 2026-10-20 13:52:54 | [VMA.ImageProcessor](https://www.nuget.org/packages/VMA.ImageProcessor) | 1.0.0 | VMA | SkiaSharp-based image resizing for .NET. Provides a low-level ImageResizer (fit… |
+| 2026-10-20 14:00:09 | [Regira.Web.HTML.RazorComponents](https://www.nuget.org/packages/Regira.Web.HTML.RazorComponents) | 6.6.0 | Regira bv | Renders compiled Razor components to HTML with ASP.NET Core's HtmlRenderer for… |
+| 2026-10-20 14:00:48 | [SjolystInnovation.AppKit.Pdf](https://www.nuget.org/packages/SjolystInnovation.AppKit.Pdf) | 1.0.0 | Sjølyst Innovation AS | HTML to PDF through headless Chromium with PuppeteerSharp: A4 with backgrounds,… |
+| 2026-10-20 14:01:35 | [Regira.Office.Mail.MailKit](https://www.nuget.org/packages/Regira.Office.Mail.MailKit) | 6.6.0 | Regira bv | Mail sending to any SMTP server via MailKit for Regira Office. |
+| 2026-10-20 14:02:16 | [Regira.Office.PDF.Gotenberg](https://www.nuget.org/packages/Regira.Office.PDF.Gotenberg) | 6.6.0 | Regira bv | HTML to PDF conversion through the Chromium route of a Gotenberg server for Reg… |
+| 2026-10-20 14:02:25 | [Regira.Office.PDF.MiniPdf](https://www.nuget.org/packages/Regira.Office.PDF.MiniPdf) | 6.6.0 | Regira bv | Word, Excel and PowerPoint to PDF conversion in-process using MiniPdf for Regir… |
+| 2026-10-20 14:02:33 | [Regira.Office.PDF.PdfPig](https://www.nuget.org/packages/Regira.Office.PDF.PdfPig) | 6.6.0 | Regira bv | PDF operations for Regira Office: merge, split, page removal, text extraction a… |
+| 2026-10-20 14:02:59 | [PulseSharp.Testing](https://www.nuget.org/packages/PulseSharp.Testing) | 0.6.0-alpha | Waqas Ahmad | Test helpers for apps that use PulseSharp: a recording IPulse, ready-made handl… |
+| 2026-10-20 14:04:19 | [Regira.Entities.Mediator](https://www.nuget.org/packages/Regira.Entities.Mediator) | 6.6.0 | Regira bv | HTTP-neutral entity operations for Regira entities: details, list, search, save… |
+| 2026-10-20 14:04:39 | [Xalosoftware.Sekiwa](https://www.nuget.org/packages/Xalosoftware.Sekiwa) | 0.1.0 | Xalo Software | Sekiwa licensing SDK for .NET: offline-verified, signed licences for desktop an… |
 
 ## Data source
 

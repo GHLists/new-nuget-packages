@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-20T13:33:38.787Z,Projection.DependencyInjection,1.0.0,HashGrove,Microsoft.Extensions.DependencyInjection integration for the Projection object mapper: register your maps with services.AddMapper(...) and inject IMapper.
+2026-10-20T13:33:39.153Z,Projection,1.0.0,HashGrove,"A simple, fast object-to-object mapper for .NET. Map entities to DTOs by convention or with a fluent API (CreateMap, ForMember, MapFrom, Ignore), with nested objects, collections, automatic type conversion, configuration validation and detailed errors. Maps are compiled with expression trees."
+2026-10-20T13:35:08.85Z,Tlib.Diagnostics,0.19.0,Tomm2000,Package Description
+2026-10-20T13:35:10.77Z,Tlib.Utils,0.19.0,Tomm2000,Package Description
+2026-10-20T13:50:53.62Z,AvaloniaFluentUI.Fonts,1.0.0,AvaloniaFluentUI.Fonts,Package Description
+2026-10-20T13:50:54.427Z,DataStreamGenerator,1.0.0,DataStreamGenerator,Package Description
+2026-10-20T13:52:54.36Z,VMA.ImageProcessor,1.0.0,VMA,SkiaSharp-based image resizing for .NET. Provides a low-level ImageResizer (fit-in and fill-in/crop JPEG output) and a high-level ImageProcessorService that produces a main image and a thumbnail from a single stream.
+2026-10-20T14:00:09.42Z,Regira.Web.HTML.RazorComponents,6.6.0,Regira bv,Renders compiled Razor components to HTML with ASP.NET Core's HtmlRenderer for Regira.
+2026-10-20T14:00:48.5Z,SjolystInnovation.AppKit.Pdf,1.0.0,Sjølyst Innovation AS,"HTML to PDF through headless Chromium with PuppeteerSharp: A4 with backgrounds, one browser reused across calls, scripts and network requests off by default, the sandbox on, and a render timeout."
+2026-10-20T14:01:35.947Z,Regira.Office.Mail.MailKit,6.6.0,Regira bv,Mail sending to any SMTP server via MailKit for Regira Office.
+2026-10-20T14:02:16.597Z,Regira.Office.PDF.Gotenberg,6.6.0,Regira bv,HTML to PDF conversion through the Chromium route of a Gotenberg server for Regira Office.
+2026-10-20T14:02:25.817Z,Regira.Office.PDF.MiniPdf,6.6.0,Regira bv,"Word, Excel and PowerPoint to PDF conversion in-process using MiniPdf for Regira Office."
+2026-10-20T14:02:33.01Z,Regira.Office.PDF.PdfPig,6.6.0,Regira bv,"PDF operations for Regira Office: merge, split, page removal, text extraction and images to PDF using PdfPig, and page images using PDFtoImage (PDFium)."
+2026-10-20T14:02:59.993Z,PulseSharp.Testing,0.6.0-alpha,Waqas Ahmad,"Test helpers for apps that use PulseSharp: a recording IPulse, ready-made handler contexts, and a test host with the real engine that waits until every handler is done. Works with any test framework."
+2026-10-20T14:04:19.447Z,Regira.Entities.Mediator,6.6.0,Regira bv,"HTTP-neutral entity operations for Regira entities: details, list, search, save, patch and delete as requests sent through IEntitySender, with the paging, refetch-after-save and DTO mapping the generated endpoints apply. The controllers send through it, and so can jobs, seeders and a consumer's own…"
+2026-10-20T14:04:39.737Z,Xalosoftware.Sekiwa,0.1.0,Xalo Software,"Sekiwa licensing SDK for .NET: offline-verified, signed licences for desktop and server apps."
