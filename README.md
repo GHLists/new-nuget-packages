@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 03:20 UTC
+## Latest list — 2026-10-20 04:21 UTC
 
-New packages created between 2026-10-20 02:21 UTC and 2026-10-20 03:20 UTC.
+New packages created between 2026-10-20 03:20 UTC and 2026-10-20 04:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T03-20-03-566712Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T04-21-23-182004Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 02:38:19 | [SiameseCat.Communication](https://www.nuget.org/packages/SiameseCat.Communication) | 0.9.0 | RabitLogic | Industrial communication library for .NET: Modbus RTU/TCP, Siemens S7, pluggabl… |
-| 2026-10-20 02:46:38 | [TX.Stdf4Net](https://www.nuget.org/packages/TX.Stdf4Net) | 1.0.0 | TX.Stdf4Net | Package Description |
-| 2026-10-20 02:49:56 | [Parlot.SourceGenerator](https://www.nuget.org/packages/Parlot.SourceGenerator) | 2.0.0 | Sebastien Ros | Roslyn source generator for compiling Parlot parser combinators into optimized… |
-| 2026-10-20 02:52:59 | [OfficePDF.Sdk](https://www.nuget.org/packages/OfficePDF.Sdk) | 1.0.0 | OfficePDF | OfficePDF — high-fidelity Word to PDF conversion (cloud API and on-premise serv… |
-| 2026-10-20 03:02:15 | [YH_SDK_RM_PRINTER](https://www.nuget.org/packages/YH_SDK_RM_PRINTER) | 1.0.0 | YH_SDK_RM_PRINTER | Package Description |
+| 2026-10-20 03:53:51 | [DeepSharp.Pipelines.Images](https://www.nuget.org/packages/DeepSharp.Pipelines.Images) | 0.13.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of a folder of pictures, a folder to each… |
+| 2026-10-20 03:53:54 | [DeepSharp.Pipelines.Sound](https://www.nuget.org/packages/DeepSharp.Pipelines.Sound) | 0.13.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of a folder of recordings, a folder to ea… |
+| 2026-10-20 03:56:46 | [Hosihikari.Plugin.Template](https://www.nuget.org/packages/Hosihikari.Plugin.Template) | 0.1.0 | 星光 | dotnet new template for a precompiled Hosihikari plugin. |
+| 2026-10-20 04:16:10 | [DeidSharp.Fhir](https://www.nuget.org/packages/DeidSharp.Fhir) | 1.0.0 | Valentin Burkin | FHIR R4 de-identification for DeidSharp: Safe Harbor or pseudonymized resources… |
+| 2026-10-20 04:16:11 | [DeidSharp](https://www.nuget.org/packages/DeidSharp) | 1.0.0 | Valentin Burkin | De-identification of health data: HIPAA Safe Harbor transforms, pseudonymizatio… |
 
 ## Data source
 
