@@ -1,0 +1,136 @@
+created_at,package,version,authors,description
+2026-10-20T22:21:38.487Z,Musictopia2.BasicAspNetServerLibrary,10.0.1,BasicAspNetServerLibrary,Package Description
+2026-10-20T22:22:33.87Z,Musictopia2.BasicConsoleLibrary,10.0.1,BasicConsoleLibrary,Package Description
+2026-10-20T22:23:02.723Z,Musictopia2.BasicEmojiLibrary,10.0.1,BasicEmojiLibrary,Package Description
+2026-10-20T22:23:27.86Z,Musictopia2.BasicGameFrameworkLibrary,10.0.2,BasicGameFrameworkLibrary,Package Description
+2026-10-20T22:23:57.227Z,Musictopia2.BasicTransferAOEOFilesLibrary,10.0.1,BasicTransferAOEOFilesLibrary,Package Description
+2026-10-20T22:24:20.893Z,Musictopia2.BibleContentLibrary,10.0.1,BibleContentLibrary,Package Description
+2026-10-20T22:24:56.06Z,Musictopia2.BibleDatabaseLibrary,10.0.1,BibleDatabaseLibrary,Package Description
+2026-10-20T22:25:31.64Z,Musictopia2.BibleICBTranslationLibrary,10.0.1,BibleICBTranslationLibrary,Package Description
+2026-10-20T22:25:57.293Z,Musictopia2.BibleKJVTranslationLibrary,10.0.1,BibleKJVTranslationLibrary,Package Description
+2026-10-20T22:26:23.917Z,Musictopia2.BibleNIVTranslationLibrary,10.0.1,BibleNIVTranslationLibrary,Package Description
+2026-10-20T22:27:01.783Z,Musictopia2.BibleNKJVTranslationLibrary,10.0.1,BibleNKJVTranslationLibrary,Package Description
+2026-10-20T22:27:40.84Z,Musictopia2.BibleNLTTranslationLibrary,10.0.1,BibleNLTTranslationLibrary,Package Description
+2026-10-20T22:28:07.563Z,Musictopia2.BibleTranslationsGenerator,1.0.1,musictopia,Source generator to do search for book and translations. Plus create extension to register bible data service.
+2026-10-20T22:28:32.513Z,Musictopia2.BlazorHtmlString.Generator,1.0.1,musictopia,Description
+2026-10-20T22:28:38.077Z,Moonwell.Damage,0.2.0,mdlsvensson,"A complete damage system for Moonwell maps: every stage of a hit, damage dealt from code, and no endless loops."
+2026-10-20T22:28:54.513Z,Musictopia2.ChangeTrackingModelGenerator,1.0.1,musictopia,Description
+2026-10-20T22:29:22.31Z,Musictopia2.CommandsGenerator,1.0.1,CommandsGenerator,Package Description
+2026-10-20T22:30:13.26Z,Musictopia2.CommonRoslynHelpersLibrary,10.0.1,CommonRoslynHelpersLibrary,Package Description
+2026-10-20T22:30:43.68Z,Musictopia2.CommonRoslynNetStandardHelpers,1.0.1,CommonRoslynNetStandardHelpers,Package Description
+2026-10-20T22:31:07.74Z,Musictopia2.CommonSourceGeneratorsHelpers,1.0.3,musictopia,Package Description
+2026-10-20T22:31:29.517Z,Musictopia2.ContactManager.CoreLibrary,10.0.1,ContactManager.CoreLibrary,Package Description
+2026-10-20T22:31:52.303Z,Musictopia2.CreateSqliteDatabaseGenerator,1.0.1,musictopia,Description
+2026-10-20T22:32:10.417Z,Zelf.Sdk,1.0.0,Zelf,.NET client for the ZelfAI APIs
+2026-10-20T22:32:16.553Z,Musictopia2.CssClassConstGenerator,1.0.1,musictopia,Description
+2026-10-20T22:32:41.063Z,Musictopia2.CsvToListGenerator,1.0.1,musictopia,A source generator that takes text files that has a list separated by a return carriage and gets either a list of integers or a list of strings as c# code to maximize performance
+2026-10-20T22:33:10.223Z,Musictopia2.DictionarySerializationGenerator,1.0.1,musictopia,Description
+2026-10-20T22:33:32.407Z,Microsoft.Azure.Cosmos.ServiceInterop,1.0.5,Microsoft,Pre-built native Azure Cosmos DB ServiceInterop library for Windows x64.
+2026-10-20T22:33:37.45Z,Musictopia2.DictionarySerializationLibrary,10.0.1,DictionarySerializationLibrary,Package Description
+2026-10-20T22:34:08.297Z,Musictopia2.DocumentDbLibrary,10.0.1,DocumentDbLibrary,Package Description
+2026-10-20T22:34:34.44Z,Musictopia2.EnumParserGenerator,1.0.1,musictopia,Description
+2026-10-20T22:35:08.41Z,Musictopia2.EventAggregatorGenerator,1.0.2,musictopia,Description
+2026-10-20T22:35:12.82Z,ManagedCode.LlmTestServer,1.0.0,ManagedCode,Deterministic scenario runtime for LLM API compatibility tests.
+2026-10-20T22:35:13.77Z,ManagedCode.LlmTestServer.Anthropic,1.0.0,ManagedCode,Anthropic Messages compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:15.14Z,ManagedCode.LlmTestServer.Aspire,1.0.0,ManagedCode,Aspire AppHost resource extensions for ManagedCode.LlmTestServer provider emulation.
+2026-10-20T22:35:16.053Z,ManagedCode.LlmTestServer.AzureOpenAI,1.0.0,ManagedCode,Azure OpenAI compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:17.013Z,ManagedCode.LlmTestServer.Bedrock,1.0.0,ManagedCode,Amazon Bedrock compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:17.95Z,ManagedCode.LlmTestServer.Client,1.0.0,ManagedCode,Typed control client and assertion helpers for ManagedCode.LlmTestServer test hosts.
+2026-10-20T22:35:18.867Z,ManagedCode.LlmTestServer.Cloudflare,1.0.0,ManagedCode,Native Cloudflare decision API compatibility for ManagedCode.LlmTestServer.
+2026-10-20T22:35:19.823Z,ManagedCode.LlmTestServer.Cohere,1.0.0,ManagedCode,Cohere compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:20.773Z,ManagedCode.LlmTestServer.DeepSeek,1.0.0,ManagedCode,DeepSeek compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:21.703Z,ManagedCode.LlmTestServer.Foundry,1.0.0,ManagedCode,Microsoft Foundry compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:22.65Z,ManagedCode.LlmTestServer.Gemini,1.0.0,ManagedCode,Gemini compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:23.547Z,ManagedCode.LlmTestServer.Groq,1.0.0,ManagedCode,Groq compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:24.59Z,ManagedCode.LlmTestServer.Hosting,1.0.0,ManagedCode,ASP.NET Core endpoint mapping for ManagedCode.LlmTestServer provider emulation and control APIs.
+2026-10-20T22:35:25.537Z,ManagedCode.LlmTestServer.Mistral,1.0.0,ManagedCode,Mistral compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:26.47Z,ManagedCode.LlmTestServer.Ollama,1.0.0,ManagedCode,Ollama compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:27.43Z,ManagedCode.LlmTestServer.OpenAI,1.0.0,ManagedCode,OpenAI-compatible wire models and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:28.34Z,ManagedCode.LlmTestServer.OpenRouter,1.0.0,ManagedCode,OpenRouter compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:29.26Z,ManagedCode.LlmTestServer.Perplexity,1.0.0,ManagedCode,Perplexity compatibility profile and adapters for ManagedCode.LlmTestServer.
+2026-10-20T22:35:30.263Z,ManagedCode.LlmTestServer.SystemOne,1.0.0,ManagedCode,Native SystemOne decision API compatibility for ManagedCode.LlmTestServer.
+2026-10-20T22:35:33.743Z,Musictopia2.FarmSim.Blazor,10.0.2,FarmSim.Blazor,Package Description
+2026-10-20T22:35:58.99Z,Musictopia2.FarmSim.Content.Country,10.0.1,FarmSim.Content.Country,Package Description
+2026-10-20T22:36:22.017Z,Musictopia2.FarmSim.Content.Tropical,10.0.1,FarmSim.Content.Tropical,Package Description
+2026-10-20T22:36:47.51Z,Musictopia2.FarmSim.Domain,10.0.1,FarmSim.Domain,Package Description
+2026-10-20T22:40:06.23Z,Musictopia2.FarmSim.Images.Country,10.0.1,FarmSim.Images.Country,Package Description
+2026-10-20T22:41:42.417Z,Musictopia2.FarmSim.Images.Standard,10.0.1,FarmSim.Images.Standard,Package Description
+2026-10-20T22:45:03.79Z,Musictopia2.FarmSim.Images.Tropical,10.0.1,FarmSim.Images.Tropical,Package Description
+2026-10-20T22:45:35.527Z,Musictopia2.FarmSim.Runtime,10.0.1,FarmSim.Runtime,Package Description
+2026-10-20T22:46:00.847Z,Musictopia2.FarmSim.Runtime.Hosted,10.0.1,FarmSim.Runtime.Hosted,Package Description
+2026-10-20T22:46:27.28Z,Musictopia2.FastEnumGenerator,1.0.1,musictopia,Source generator to create fast enum record structs
+2026-10-20T22:46:37.823Z,Ai.Tlbx.VoiceAssistant.Provider.Mistral,11.6.0,TLBX,Mistral Voxtral 3 speech pipeline via OpenRouter or the native Mistral API.
+2026-10-20T22:46:43.427Z,TKWF.Federation.Abstractions,0.2.0,LoongBa.cn 龙爸出品,TKWF 联邦通道编排契约抽象（Federation.Abstractions——IChannelRegistry / IChannelSource / ChannelConfig / IEventReplyHandler / IEventOrchestrator + DTO）——依赖倒置（ADR48 D7 / 2026-10-18 ④ 裁定）：联邦连接契约收口，Federation 主包实现契约、平台库与扩展经契约消费（零实体、零 SG1、零 Initializer；namespace 保持 TKWF.Ext.Federation——跨程序集同 namespace，消费方零 using 迁…
+2026-10-20T22:46:53.557Z,Musictopia2.FileToolingLibrary,10.0.1,FileToolingLibrary,Package Description
+2026-10-20T22:47:15.81Z,Musictopia2.FileUploadGenerator,1.0.1,musictopia,Description
+2026-10-20T22:47:40.57Z,HPD-Agent.Audio.LiveKit.NativeAssets,0.9.0,"HPD-Research,Einstein Essibu","Pinned, execution-qualified native LiveKit FFI asset for HPD Agent Audio."
+2026-10-20T22:47:41.247Z,HPD-Agent.Bots.Abstractions,0.9.0,"HPD-Research,Einstein Essibu","Contracts, attributes, and source generator for building HPD platform adapters (Slack, Teams, Discord, etc.)."
+2026-10-20T22:47:41.923Z,HPD-Agent.Bots.AspNetCore,0.9.0,"HPD-Research,Einstein Essibu","ASP.NET Core integration for HPD platform adapters. Provides webhook signature verification, endpoint mapping, and MapHPDBots() convenience extension."
+2026-10-20T22:47:42.39Z,Musictopia2.FlatDataGenerator,1.0.1,musictopia,Description
+2026-10-20T22:47:42.58Z,HPD-Agent.Bots.Discord,0.9.0,"HPD-Research,Einstein Essibu",Discord adapter for HPD agents. Connects an HPD agent to Discord via HTTP Interactions and optional Gateway events.
+2026-10-20T22:47:43.237Z,HPD-Agent.Bots.Slack,0.9.0,"HPD-Research,Einstein Essibu","Slack adapter for HPD agents. Connects an HPD agent to Slack via Events API and Block Kit — webhook routing, streaming (PostAndEdit and native chatStream), slash commands, modals, permissions, and file uploads."
+2026-10-20T22:47:43.917Z,HPD-Agent.Bots.Teams,0.9.0,"HPD-Research,Einstein Essibu",Microsoft Teams bot bridge for HPD agents using the Microsoft 365 Agents SDK.
+2026-10-20T22:47:44.613Z,HPD-Agent.Bots.Telegram,0.9.0,"HPD-Research,Einstein Essibu",Telegram bot adapter for HPD agents. Connects HPD agents to Telegram via webhooks or long polling.
+2026-10-20T22:47:45.29Z,HPD-Agent.Bots.WhatsApp,0.9.0,"HPD-Research,Einstein Essibu",WhatsApp Business Cloud API bot adapter for HPD agents.
+2026-10-20T22:48:05.343Z,HPD-Agent.ToolHarness.FileSystem,0.9.0,"HPD-Research,Einstein Essibu","File system toolharness for HPD-Agent. Provides AI functions for reading, writing, editing, searching, and discovering files."
+2026-10-20T22:48:10.66Z,Musictopia2.GameLoaderBlazorLibrary,10.0.2,GameLoaderBlazorLibrary,Package Description
+2026-10-20T22:48:38.637Z,Musictopia2.GamePackageDIGenerator,1.0.1,GamePackageDIGenerator,Package Description
+2026-10-20T22:49:06.753Z,Musictopia2.GamePackageObservableGenerator,1.0.2,musictopia,Description
+2026-10-20T22:49:35.68Z,Musictopia2.GamePackageSerializeGenerator,1.0.1,GamePackageSerializeGenerator,Package Description
+2026-10-20T22:50:04.947Z,Musictopia2.GamePackageSignalRClasses,10.0.2,GamePackageSignalRClasses,Package Description
+2026-10-20T22:50:32.707Z,Musictopia2.GenerateHelperLibraries,1.0.1,musictopia,This is intended to be used from another source generator. Has 2 purposes. The first purpose is to create utilities that gets added to a client project. The second purpose is to create helper libraries to be used on many projects to make up for the difficulty of referencing nuget packages.
+2026-10-20T22:51:02.587Z,Musictopia2.ImageToolsWindowsLibrary,10.0.1,ImageToolsWindowsLibrary,Package Description
+2026-10-20T22:51:24.083Z,Musictopia2.JobApplication.CoreLibrary,10.0.1,JobApplication.CoreLibrary,Package Description
+2026-10-20T22:51:51.07Z,Musictopia2.JsonDeserializeResourceSourceGenerator,1.0.1,musictopia2,Source generator to translate json files to objects without using resource files for faster performance.
+2026-10-20T22:52:20.01Z,Musictopia2.JsonSerializerContextGenerator,1.0.1,JsonSerializerContextGenerator,Source generator that creates JsonSerializerContext classes from any class using attributes or fluent style
+2026-10-20T22:52:45.27Z,Musictopia2.JsonTextResourceGenerator,1.0.1,musictopia,Description
+2026-10-20T22:53:10.59Z,Musictopia2.LabelGridGenerator,1.0.1,LabelGridGenerator,Package Description
+2026-10-20T22:53:37.39Z,Musictopia2.MahjongTilesBlazor,10.0.2,MahjongTilesBlazor,Package Description
+2026-10-20T22:54:02.27Z,Musictopia2.MappingCloningExtensions,1.0.1,musictopia,Description
+2026-10-20T22:54:35.743Z,Musictopia2.MealPlanner.CoreLibrary,10.0.1,MealPlanner.CoreLibrary,Package Description
+2026-10-20T22:54:59.777Z,Musictopia2.MediaHelpers.CoreLibrary,10.0.1,MediaHelpers.CoreLibrary,Package Description
+2026-10-20T22:55:22.573Z,Musictopia2.MediaHelpers.MediaLengthCoreLibrary,10.0.1,MediaHelpers.MediaLengthCoreLibrary,Package Description
+2026-10-20T22:55:48.14Z,Musictopia2.MediaHelpers.WPFCoreLibrary,10.0.1,MediaHelpers.WPFCoreLibrary,Package Description
+2026-10-20T22:56:18.563Z,Musictopia2.MediaHelpers.YouTubeLibrary,10.0.1,MediaHelpers.YouTubeLibrary,Package Description
+2026-10-20T22:56:43.967Z,Musictopia2.MessengingHelpers,10.0.1,musictopia,Event Aggravation without reflection. Intended to use a source geoerator with it to hook up the different actions to subscribe.
+2026-10-20T22:57:08.94Z,Musictopia2.MongoHelpersGenerator,1.0.1,musictopia,Description
+2026-10-20T22:57:36.417Z,Musictopia2.MultiplayerGamesBlazorLoaderLibrary,10.0.2,MultiplayerGamesBlazorLoaderLibrary,Package Description
+2026-10-20T22:58:01.6Z,Musictopia2.MultiplayerSignalRHubClasses,10.0.2,MultiplayerSignalRHubClasses,Package Description
+2026-10-20T22:58:28.287Z,Musictopia2.MySQLHelperLibraries,10.0.1,MySQLHelperLibraries,Package Description
+2026-10-20T22:59:05.92Z,Musictopia2.PngImageStaticWebAsset,10.0.1,PngImageStaticWebAsset,Package Description
+2026-10-20T22:59:32.713Z,Musictopia2.ProjectCelesteBarUtilitiesLibrary,10.0.1,ProjectCelesteBarUtilitiesLibrary,Package Description
+2026-10-20T23:00:00.91Z,Musictopia2.QuestTesterLibrary,10.0.1,QuestTesterLibrary,Package Description
+2026-10-20T23:00:30.567Z,Musictopia2.Reminders.CoreLibrary,10.0.1,Reminders.CoreLibrary,Package Description
+2026-10-20T23:01:04.32Z,Musictopia2.Reminders.WindowsSoundRepeaterLibrary,10.0.1,Reminders.WindowsSoundRepeaterLibrary,Package Description
+2026-10-20T23:01:30.933Z,Musictopia2.Reminders.WPFCoreLibrary,10.0.1,Reminders.WPFCoreLibrary,Package Description
+2026-10-20T23:02:02.697Z,Musictopia2.RemoteControl.CoreLibrary,10.0.1,RemoteControl.CoreLibrary,Package Description
+2026-10-20T23:02:27.75Z,Musictopia2.RemoteControl.HubLibrary,10.0.1,RemoteControl.HubLibrary,Package Description
+2026-10-20T23:02:55.88Z,Musictopia2.RentManager.CoreLibrary,10.0.3,RentManager.CoreLibrary,Package Description
+2026-10-20T23:03:24.253Z,Musictopia2.ScoreBoardGenerator,1.0.1,ScoreBoardGenerator,Package Description
+2026-10-20T23:03:48.777Z,Musictopia2.SimpleJwtServerAuthenticationLibrary,10.0.1,SimpleJwtServerAuthenticationLibrary,Package Description
+2026-10-20T23:04:12.667Z,Musictopia2.SourceGeneratorsAttributesLibrary,1.0.1,musictopia,This is a library that has common attributes that can be used to generate source code. This is intended for source generators projects
+2026-10-20T23:04:38.71Z,Musictopia2.SqlCrudRepositoryGenerator,1.0.1,musictopia,Description
+2026-10-20T23:05:06.58Z,Musictopia2.SqlDocumentDatabaseHelpersGenerator,1.0.1,musictopia,Description
+2026-10-20T23:05:31.69Z,Musictopia2.SQLiteHelperLibraries,10.0.1,SQLiteHelperLibraries,Package Description
+2026-10-20T23:05:55.393Z,Musictopia2.SQLServerHelperLibraries,10.0.2,SQLServerHelperLibraries,Package Description
+2026-10-20T23:06:18.74Z,Musictopia2.StaticWebAssetToolingLibrary,10.0.1,StaticWebAssetToolingLibrary,Package Description
+2026-10-20T23:06:45.887Z,Musictopia2.SvgHelper.Blazor,10.0.1,musictopia,SVG Helpers For Blazor
+2026-10-20T23:07:12.807Z,Musictopia2.SvgHelper.Generator,1.0.1,musictopia,SVG Helper that works with SVGHelper.Blazor to generate SVG without reflection.
+2026-10-20T23:07:47.907Z,Musictopia2.TestDataBasicGenerator,1.0.1,musictopia,Description
+2026-10-20T23:08:11.587Z,Musictopia2.TestDataUSBasicLibrary,10.0.1,TestDataUSBasicLibrary,Package Description
+2026-10-20T23:08:33.197Z,Musictopia2.ToDos.CoreLibrary,10.0.1,ToDos.CoreLibrary,Package Description
+2026-10-20T23:08:57.84Z,Kjs.AppLife.Update.Engine.Core,6.0.5,"Kinetic Jump Software, LLC",AppLife Update Engine Core library for .NET Framework applications
+2026-10-20T23:09:00.123Z,Musictopia2.TxtToListGenerator,1.0.2,musictopia,A source generator that takes text files that has a list separated by a return carriage and gets either a list of integers or a list of strings as c# code to maximize performance
+2026-10-20T23:09:22.33Z,Musictopia2.UpdateManager.AppManagementCoreLibrary,10.0.1,UpdateManager.AppManagementCoreLibrary,Package Description
+2026-10-20T23:09:43.61Z,Musictopia2.UpdateManager.CoreLibrary,10.0.3,UpdateManager.CoreLibrary,Package Description
+2026-10-20T23:10:10.387Z,Musictopia2.UpdateManager.DotNetUpgradeLibrary,10.0.1,UpdateManager.DotNetUpgradeLibrary,Package Description
+2026-10-20T23:10:32.933Z,Musictopia2.UpdateManager.ExperimentPackageLibrary,10.0.1,UpdateManager.ExperimentPackageLibrary,Package Description
+2026-10-20T23:11:05.073Z,Musictopia2.UpdateManager.PackageManagementCoreLibrary,10.0.5,UpdateManager.PackageManagementCoreLibrary,Package Description
+2026-10-20T23:11:31.37Z,Musictopia2.UpdateManager.TemplateManagementCoreLibrary,10.0.1,UpdateManager.TemplateManagementCoreLibrary,Package Description
+2026-10-20T23:11:57.267Z,Musictopia2.UpdateManager.ToolManagementCoreLibrary,10.0.3,UpdateManager.ToolManagementCoreLibrary,Package Description
+2026-10-20T23:12:25.153Z,Musictopia2.WindowsAutoClickerLibrary,10.0.1,WindowsAutoClickerLibrary,Package Description
+2026-10-20T23:12:48.82Z,Musictopia2.WindowsGenericPopups.CoreLibrary,10.0.1,WindowsGenericPopups.CoreLibrary,Package Description
+2026-10-20T23:13:13.963Z,Musictopia2.WindowsGenericPopups.WPFCoreLibrary,10.0.1,WindowsGenericPopups.WPFCoreLibrary,Package Description
+2026-10-20T23:14:10.403Z,Musictopia2.WPFStartupLibrary,10.0.1,WPFStartupLibrary,Package Description
+2026-10-20T23:14:34.773Z,Musictopia2.YouTubeBlazorLibrary,10.0.1,YouTubeBlazorLibrary,Package Description
+2026-10-20T23:16:13.5Z,Musictopia2.LearningSolutionTool,10.0.1,LearningSolutionTool,Package Description
