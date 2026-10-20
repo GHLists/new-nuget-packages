@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-19T23:26:50.137Z,QimErp.Shared.DataIntegrity,1.0.0,IAmQwame,"DATA-06 nightly loose-link integrity checks for QimErp services. Discovers references without foreign keys from each DbContext's EF Core model, runs read-only tenant-grouped orphan, tenant-mismatch, deleted-target and local-copy version checks from a Temporal Schedule, and reports counts and sample…"
+2026-10-19T23:35:51.213Z,Smartstore.EmbeddedSass.Net,1.2.1,gumbarros and EmbeddedSass.Net contributors,Asynchronous .NET host for the Embedded Sass Protocol.
+2026-10-19T23:35:53.123Z,Smartstore.EmbeddedSass.Net.Compiler,1.2.1,gumbarros and EmbeddedSass.Net contributors,"Bundled Dart Sass compilers for EmbeddedSass.Net on Windows, macOS, and Linux."
+2026-10-19T23:40:55.447Z,Rorix.Registry.GaFixture,0.1.0,Authaz,Harmless fixture for Rorix Registry admission and recovery tests.
+2026-10-19T23:48:12.71Z,Novolis.Transports.Torrent.Trackers,2026.1.11.83,Novolis,HTTP clients and aggregation for maintained public BitTorrent tracker lists.
+2026-10-19T23:48:14.517Z,TALXIS.DevKit.AgentBox.CLI,1.4.0,NETWORG,"Makes any machine or container ready for coding agents working on Power Platform / Dataverse: checks, installs and updates the prerequisites, and sets up the agent harnesses."
+2026-10-20T00:08:16.163Z,Kiji.Templates,0.1.0,zzzkan,"Project templates for Kiji, a static site generator for .NET."
+2026-10-20T00:09:36.723Z,NuExt.Tools.ProjectMerger,1.0.0,ivanvoyager,Merges project files into one or more text files suitable for AI analysis.
