@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 04:21 UTC
+## Latest list — 2026-10-20 05:19 UTC
 
-New packages created between 2026-10-20 03:20 UTC and 2026-10-20 04:21 UTC.
+New packages created between 2026-10-20 04:21 UTC and 2026-10-20 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T04-21-23-182004Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T05-19-27-947222Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 03:53:51 | [DeepSharp.Pipelines.Images](https://www.nuget.org/packages/DeepSharp.Pipelines.Images) | 0.13.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of a folder of pictures, a folder to each… |
-| 2026-10-20 03:53:54 | [DeepSharp.Pipelines.Sound](https://www.nuget.org/packages/DeepSharp.Pipelines.Sound) | 0.13.0 | H.P. Gansevoort | Reads a DeepSharp pipeline's rows out of a folder of recordings, a folder to ea… |
-| 2026-10-20 03:56:46 | [Hosihikari.Plugin.Template](https://www.nuget.org/packages/Hosihikari.Plugin.Template) | 0.1.0 | 星光 | dotnet new template for a precompiled Hosihikari plugin. |
-| 2026-10-20 04:16:10 | [DeidSharp.Fhir](https://www.nuget.org/packages/DeidSharp.Fhir) | 1.0.0 | Valentin Burkin | FHIR R4 de-identification for DeidSharp: Safe Harbor or pseudonymized resources… |
-| 2026-10-20 04:16:11 | [DeidSharp](https://www.nuget.org/packages/DeidSharp) | 1.0.0 | Valentin Burkin | De-identification of health data: HIPAA Safe Harbor transforms, pseudonymizatio… |
+| 2026-10-20 04:42:06 | [NexusSdk.Contracts](https://www.nuget.org/packages/NexusSdk.Contracts) | 1.0.0 | NexusCLI | Contratos compartidos de la API pública Nexus v1. |
+| 2026-10-20 04:42:08 | [NexusSdk.DotNet](https://www.nuget.org/packages/NexusSdk.DotNet) | 1.0.0 | NexusCLI | Cliente tipado de la API propia Nexus v1, con streaming y operaciones cancelabl… |
+| 2026-10-20 04:42:51 | [NUnit.Extension.Net10PluggableAgent](https://www.nuget.org/packages/NUnit.Extension.Net10PluggableAgent) | 4.0.0 | Charlie Poole, Rob Prouse | This extension allow the NUnit engine to run tests under .NET 10.0. |
 
 ## Data source
 

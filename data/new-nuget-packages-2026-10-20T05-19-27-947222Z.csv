@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-20T04:42:06.6Z,NexusSdk.Contracts,1.0.0,NexusCLI,Contratos compartidos de la API pública Nexus v1.
+2026-10-20T04:42:08.193Z,NexusSdk.DotNet,1.0.0,NexusCLI,"Cliente tipado de la API propia Nexus v1, con streaming y operaciones cancelables."
+2026-10-20T04:42:51.97Z,NUnit.Extension.Net10PluggableAgent,4.0.0,"Charlie Poole, Rob Prouse",This extension allow the NUnit engine to run tests under .NET 10.0.
