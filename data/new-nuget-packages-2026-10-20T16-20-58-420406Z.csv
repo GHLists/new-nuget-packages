@@ -1,0 +1,47 @@
+created_at,package,version,authors,description
+2026-10-20T15:24:22.21Z,JeffOps.Authentication.Testing,0.1.0-alpha,JeffOps,"Test helpers for JeffOps.Authentication consumers: an in-memory token issuer that resource services trust in tests, and fakes for the current user and access context."
+2026-10-20T15:24:23.093Z,JeffOps.Authorization.Application,0.1.0-alpha,JeffOps,"Authorization management use cases (vertical slices): roles, assignments, approvals, policies, scopes, governance."
+2026-10-20T15:24:23.92Z,JeffOps.Authentication.Enterprise.SqlServer,0.1.0-alpha,JeffOps,SQL Server persistence and migrations for JeffOps enterprise features.
+2026-10-20T15:24:24.703Z,JeffOps.Security.AspNetCore,0.1.0-alpha,JeffOps,"ASP.NET Core hardening: security headers, forwarded headers, CORS defaults, Data Protection, rate-limit partitions."
+2026-10-20T15:24:25.417Z,JeffOps.Authentication.SharedKernel,0.1.0-alpha,JeffOps,"Shared kernel for JeffOps libraries: Result and Error, handler and validator interfaces, decorators, domain events, entity base types."
+2026-10-20T15:24:26.267Z,JeffOps.Authentication.Bff.Yarp,0.1.0-alpha,JeffOps,"YARP integration for the JeffOps BFF: cookie stripping, bearer forwarding, PAT exchange at the edge."
+2026-10-20T15:24:27.19Z,JeffOps.Authentication.Delegation.SqlServer,0.1.0-alpha,JeffOps,SQL Server persistence and migrations for JeffOps delegated access.
+2026-10-20T15:24:28.087Z,JeffOps.Authentication.Delegation,0.1.0-alpha,JeffOps,"Delegated access for the JeffOps token server: impersonation with target approval and break-glass, lockbox tenant access, and tenant switch."
+2026-10-20T15:24:28.907Z,JeffOps.Authentication.Domain,0.1.0-alpha,JeffOps,"Domain model of the JeffOps token server: accounts, external logins, personal access tokens, signing keys."
+2026-10-20T15:24:29.723Z,JeffOps.Entitlements,0.1.0-alpha,JeffOps,Entitlement (licensing) checks for ASP.NET Core endpoints.
+2026-10-20T15:24:30.563Z,JeffOps.Authorization.AspNetCore,0.1.0-alpha,JeffOps,"Permission-based authorization for ASP.NET Core resource services: policy provider, handlers, cached resolver."
+2026-10-20T15:24:31.48Z,JeffOps.Authorization.Endpoints,0.1.0-alpha,JeffOps,Minimal API endpoints of JeffOps authorization management.
+2026-10-20T15:24:35.253Z,JeffOps.Authentication.Bff,0.1.0-alpha,JeffOps,"Backend-for-frontend for browser apps: server-side sessions, cookie-to-bearer, CSRF protection."
+2026-10-20T15:24:36.28Z,JeffOps.Authentication.Federation.Entra,0.1.0-alpha,JeffOps,Microsoft Entra ID identity provider for the JeffOps token server.
+2026-10-20T15:24:37.23Z,JeffOps.Authentication.Persistence.SqlServer,0.1.0-alpha,JeffOps,SQL Server persistence and migrations for the JeffOps token server.
+2026-10-20T15:24:38.047Z,JeffOps.Authentication.Federation.Oidc,0.1.0-alpha,JeffOps,Generic OpenID Connect and OAuth 2.0 identity providers for the JeffOps token server.
+2026-10-20T15:24:38.783Z,JeffOps.Authentication.UI,0.1.0-alpha,JeffOps,"Hosted login UI of the JeffOps token server (Razor components, static SSR)."
+2026-10-20T15:24:39.517Z,JeffOps.Authentication.Abstractions,0.1.0-alpha,JeffOps,"Public contracts of JeffOps.Authentication: ICurrentUser, claim names, host ports, HTTP contracts and integration events."
+2026-10-20T15:24:40.32Z,JeffOps.Authentication.Enterprise,0.1.0-alpha,JeffOps,"Enterprise features for the JeffOps token server: verified tenant domains, per-tenant single sign-on policy, and SCIM provisioning."
+2026-10-20T15:24:41.207Z,JeffOps.Authentication.LocalAccounts.SqlServer,0.1.0-alpha,JeffOps,SQL Server persistence and migrations for JeffOps local accounts.
+2026-10-20T15:24:41.973Z,JeffOps.Authentication.Tenancy,0.1.0-alpha,JeffOps,"Tenancy for the JeffOps token server: tenants, memberships (linked directories, invitations, tenant SSO, SCIM), tenant administrators and platform operators."
+2026-10-20T15:24:42.753Z,JeffOps.Authorization.Contracts,0.1.0-alpha,JeffOps,Wire contracts of JeffOps authorization: read-API DTOs and integration events shared by the management service and resource services.
+2026-10-20T15:24:43.493Z,JeffOps.Authentication.Application,0.1.0-alpha,JeffOps,"Use cases (vertical slices) of the JeffOps token server: grants, accounts, personal access tokens, sessions, federation."
+2026-10-20T15:24:44.28Z,JeffOps.Authorization.Persistence.SqlServer,0.1.0-alpha,JeffOps,SQL Server persistence and migrations for JeffOps authorization management.
+2026-10-20T15:24:45.077Z,JeffOps.Authorization.Domain,0.1.0-alpha,JeffOps,"Authorization model and decision engine: permissions, roles, assignments, scope hierarchy, ABAC policies, ceilings."
+2026-10-20T15:24:45.89Z,JeffOps.Authorization.Infrastructure,0.1.0-alpha,JeffOps,"Infrastructure for JeffOps authorization management: EF Core, change interception, sweepers, seeding."
+2026-10-20T15:24:46.58Z,JeffOps.Authentication.Client,0.1.0-alpha,JeffOps,"JWT bearer authentication, current user and service-to-service tokens for resource services using JeffOps.Authentication."
+2026-10-20T15:24:47.41Z,JeffOps.Authentication.Endpoints,0.1.0-alpha,JeffOps,Minimal API endpoints of the JeffOps token server.
+2026-10-20T15:24:48.213Z,JeffOps.Authentication.KeyVault,0.1.0-alpha,JeffOps,Azure Key Vault / Managed HSM signing key provider for the JeffOps token server.
+2026-10-20T15:24:48.993Z,JeffOps.Authentication.Federation.Saml,0.1.0-alpha,JeffOps,"SAML 2.0 identity providers (ADFS, Okta, Entra, Ping, ...) for the JeffOps token server."
+2026-10-20T15:24:49.813Z,JeffOps.Authentication.LocalAccounts,0.1.0-alpha,JeffOps,"Local accounts for the JeffOps token server: passwords, passkeys, TOTP, lockout, reset and verification."
+2026-10-20T15:24:50.65Z,JeffOps.Authentication.Tenancy.SqlServer,0.1.0-alpha,JeffOps,SQL Server persistence and migrations for JeffOps tenancy.
+2026-10-20T15:24:51.487Z,JeffOps.Authentication.Infrastructure,0.1.0-alpha,JeffOps,"Infrastructure for the JeffOps token server: OpenIddict, EF Core, signing keys, hashing, background services."
+2026-10-20T15:26:08.16Z,LicenseMan.Sdk,0.1.5,LicenseManager,"C# client for the LicenseManager API: products, policies, customers, licenses, machines and releases."
+2026-10-20T15:31:26.367Z,AvroCodeGen,1.0.0,AvroCodeGen,Package Description
+2026-10-20T15:31:26.93Z,AvroCodeGen.Tool,1.0.0,AvroCodeGen.Cli,Package Description
+2026-10-20T15:44:33.427Z,Musictopia2.BasicBlazorLibrary,10.0.1,BasicBlazorLibrary,Package Description
+2026-10-20T15:55:46.42Z,Facturexa.ZugferdCreator,7.3.0,Zanyar Systems,"Creates ZUGFeRD / Factur-X e-invoices for .NET; profiles: XRechnung, EN 16931, Extended and more; syntax: CII (all profiles) and UBL (EN 16931, XRechnung)."
+2026-10-20T15:56:00.947Z,BorrowedTorch.Architecture,0.0.1,Vladyslav Pysarenko,"Procedural level architecture for grid- and tile-based games: cell-space footprint masks, grid layouts whose edges are walls, openings or doors, a seeded perfect-maze generator (recursive backtracker) with distance and dead-end queries, and tilers that turn a layout into a thick-wall or thin-wall t…"
+2026-10-20T15:56:21.843Z,LinKit.Outbox,1.0.0,Linh Nguyen,Transactional Outbox and Idempotent Inbox patterns for LinKit. 100% Native AOT compatible with zero reflection.
+2026-10-20T15:56:26.503Z,LinKit.Caching,1.0.0,Linh Nguyen,"High-performance, Zero-Reflection, Native AOT compatible hybrid caching abstractions and providers for LinKit."
+2026-10-20T15:56:30.583Z,LinKit.Resilience,1.0.0,Linh Nguyen,"Zero-allocation, compile-time resilience primitives (Retry, Circuit Breaker, Timeout) for LinKit. 100% Native AOT compatible."
+2026-10-20T15:56:33.413Z,LinKit.Tenancy,1.0.0,Linh Nguyen,SaaS Multi-Tenancy context and propagation for LinKit. 100% Native AOT compatible.
+2026-10-20T15:56:36.473Z,LinKit.Sagas,1.0.0,Linh Nguyen,Distributed Saga Orchestration and automated compensation workflow for LinKit. 100% Native AOT compatible.
+2026-10-20T16:08:57.827Z,PanoramicData.MusicGeneration.SoundFonts,0.1.14,Panoramic Data Limited,"Optional SoundFont instrument-bank rendering for PanoramicData.MusicGeneration using MeltySynth. Caller-supplied SF2 assets, inspectable replay metadata and independent stems."
+2026-10-20T16:10:11.707Z,OCI.DotNetSDK.Generativeaisandbox,150.0.0,Oracle Cloud Infrastructure,Oracle Cloud Infrastructure Cloud Generative Ai Sandbox Service
