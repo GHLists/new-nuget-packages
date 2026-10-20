@@ -12,22 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 00:20 UTC
+## Latest list — 2026-10-20 01:21 UTC
 
-New packages created between 2026-10-19 23:20 UTC and 2026-10-20 00:20 UTC.
+New packages created between 2026-10-20 00:20 UTC and 2026-10-20 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T00-20-29-385477Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T01-21-39-301519Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-19 23:26:50 | [QimErp.Shared.DataIntegrity](https://www.nuget.org/packages/QimErp.Shared.DataIntegrity) | 1.0.0 | IAmQwame | DATA-06 nightly loose-link integrity checks for QimErp services. Discovers refe… |
-| 2026-10-19 23:35:51 | [Smartstore.EmbeddedSass.Net](https://www.nuget.org/packages/Smartstore.EmbeddedSass.Net) | 1.2.1 | gumbarros and EmbeddedSass.Ne… | Asynchronous .NET host for the Embedded Sass Protocol. |
-| 2026-10-19 23:35:53 | [Smartstore.EmbeddedSass.Net.Compiler](https://www.nuget.org/packages/Smartstore.EmbeddedSass.Net.Compiler) | 1.2.1 | gumbarros and EmbeddedSass.Ne… | Bundled Dart Sass compilers for EmbeddedSass.Net on Windows, macOS, and Linux. |
-| 2026-10-19 23:40:55 | [Rorix.Registry.GaFixture](https://www.nuget.org/packages/Rorix.Registry.GaFixture) | 0.1.0 | Authaz | Harmless fixture for Rorix Registry admission and recovery tests. |
-| 2026-10-19 23:48:12 | [Novolis.Transports.Torrent.Trackers](https://www.nuget.org/packages/Novolis.Transports.Torrent.Trackers) | 2026.1.11.83 | Novolis | HTTP clients and aggregation for maintained public BitTorrent tracker lists. |
-| 2026-10-19 23:48:14 | [TALXIS.DevKit.AgentBox.CLI](https://www.nuget.org/packages/TALXIS.DevKit.AgentBox.CLI) | 1.4.0 | NETWORG | Makes any machine or container ready for coding agents working on Power Platfor… |
-| 2026-10-20 00:08:16 | [Kiji.Templates](https://www.nuget.org/packages/Kiji.Templates) | 0.1.0 | zzzkan | Project templates for Kiji, a static site generator for .NET. |
-| 2026-10-20 00:09:36 | [NuExt.Tools.ProjectMerger](https://www.nuget.org/packages/NuExt.Tools.ProjectMerger) | 1.0.0 | ivanvoyager | Merges project files into one or more text files suitable for AI analysis. |
+| 2026-10-20 00:38:42 | [VerifyAnything](https://www.nuget.org/packages/VerifyAnything) | 0.1.0 | OpenVerify contributors | VerifyAnything DRAFT VCP and Provider Contract wire SDK |
+| 2026-10-20 00:39:20 | [ghts.MoleculasDeDesarrollo](https://www.nuget.org/packages/ghts.MoleculasDeDesarrollo) | 1.0.0 | Ulises-Farias | Development Molecules: a small pattern + DI helper to add the client's post-MVP… |
+| 2026-10-20 00:46:32 | [LiquidGlass.Maui](https://www.nuget.org/packages/LiquidGlass.Maui) | 1.0.0 | shayann07 | .NET MAUI adapter for LiquidGlass: a GlassSurface view that refracts the app's… |
+| 2026-10-20 00:59:19 | [Gravicode.Biotech.Net.Workflows](https://www.nuget.org/packages/Gravicode.Biotech.Net.Workflows) | 0.2.0 | Gravicode Studios | Snakemake/Nextflow-style workflow engine in C#: rules with file and in-memory i… |
+| 2026-10-20 00:59:29 | [Gravicode.Biotech.Net.Data](https://www.nuget.org/packages/Gravicode.Biotech.Net.Data) | 0.2.0 | Gravicode Studios | Cloud data connectors for NCBI E-utilities, UniProt, RCSB PDB, AlphaFold DB and… |
+| 2026-10-20 00:59:30 | [Gravicode.Biotech.Net.Gpu](https://www.nuget.org/packages/Gravicode.Biotech.Net.Gpu) | 0.2.0 | Gravicode Studios | GPU kernels on ILGPU (CUDA, OpenCL, CPU accelerator): all-vs-all Smith-Waterman… |
+| 2026-10-20 01:05:03 | [CommonExceptionsTest](https://www.nuget.org/packages/CommonExceptionsTest) | 1.0.0 | circle08 | Package Description |
+| 2026-10-20 01:05:15 | [SmartTableSync](https://www.nuget.org/packages/SmartTableSync) | 0.5.0 | Ruslan Sidoriako | A self-configuring sync engine for SQL tables Azure SQL Data Sync can't handle… |
+| 2026-10-20 01:05:17 | [SmartTableSync.Scaffold](https://www.nuget.org/packages/SmartTableSync.Scaffold) | 0.5.0 | Ruslan Sidoriako | Manual schema-scaffolding CLI for SmartTableSync - introspects a table (or gene… |
 
 ## Data source
 
