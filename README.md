@@ -12,22 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 09:21 UTC
+## Latest list — 2026-10-20 10:19 UTC
 
-New packages created between 2026-10-20 08:22 UTC and 2026-10-20 09:21 UTC.
+New packages created between 2026-10-20 09:21 UTC and 2026-10-20 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T09-21-51-018148Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T10-19-40-428119Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 08:44:51 | [Rays.Avalonias](https://www.nuget.org/packages/Rays.Avalonias) | 1.1.70.1020 | Rays.Avalonias | Package Description |
-| 2026-10-20 08:46:27 | [Rays.Sukis](https://www.nuget.org/packages/Rays.Sukis) | 1.1.70.1020 | Rays.Sukis | Package Description |
-| 2026-10-20 08:47:22 | [SmartTableSync.Templates](https://www.nuget.org/packages/SmartTableSync.Templates) | 0.5.1 | Ruslan Sidoriako | dotnet new template for SmartTableSync: an Azure Function that syncs tables fro… |
-| 2026-10-20 08:56:50 | [XFiler.YandexDisk.Client](https://www.nuget.org/packages/XFiler.YandexDisk.Client) | 9.0.0 | XFiler Community | .NET library wrapper of Yandex Desktop RestAPI. See https://tech.yandex.ru/disk… |
-| 2026-10-20 08:59:00 | [Wisdom.Office](https://www.nuget.org/packages/Wisdom.Office) | 1.0.0 | Wisdom | Word/Excel/PDF 统一读写与转换门面。Unified facade for reading, writing and converting Wor… |
-| 2026-10-20 08:59:38 | [Wisdom.Pdf](https://www.nuget.org/packages/Wisdom.Pdf) | 1.0.0 | Wisdom | 自研 PDF 生成、解析、文本表格提取与字体嵌入。Self-contained PDF writer, renderer, font subsetter an… |
-| 2026-10-20 08:59:53 | [Wisdom.Word](https://www.nuget.org/packages/Wisdom.Word) | 1.0.0 | Wisdom | 自研 DOCX 读写、模板填充与旧版 DOC 读取。Self-contained DOCX reader/writer, template engine an… |
-| 2026-10-20 09:09:26 | [Rays.Shell.Abstractions](https://www.nuget.org/packages/Rays.Shell.Abstractions) | 1.0.0 | Rays.Shell.Abstractions | Package Description |
+| 2026-10-20 09:27:21 | [MDNN](https://www.nuget.org/packages/MDNN) | 2.0.0 | SilM4r | Neural network library for C#, written from scratch: Dense, Conv, MaxPool and R… |
+| 2026-10-20 09:27:29 | [MDNN.Plotting](https://www.nuget.org/packages/MDNN.Plotting) | 2.0.0 | SilM4r | Loss charts for MDNN training runs (ScottPlot). Call model.Train.UseLossChart()… |
+| 2026-10-20 09:28:18 | [Yatros.Common.Data](https://www.nuget.org/packages/Yatros.Common.Data) | 0.1.0 | Yatros | Tầng truy cập dữ liệu dùng chung cho nền tảng Yatros: phiên làm việc với DB, ra… |
+| 2026-10-20 09:29:00 | [Yatros.Common.Data.Oracle](https://www.nuget.org/packages/Yatros.Common.Data.Oracle) | 0.1.0 | Yatros | Phần hỗ trợ Oracle cho Yatros.Common.Data: nạp ngữ cảnh audit qua application c… |
+| 2026-10-20 09:38:02 | [EJoyer.SDK.User](https://www.nuget.org/packages/EJoyer.SDK.User) | 1.0.0 | Javxp | private sdk |
+| 2026-10-20 10:00:21 | [Loglet](https://www.nuget.org/packages/Loglet) | 1.0.0 | AscendantWare e.K. | Loglet – A lightweight, high-performance logging library for .NET, designed for… |
+| 2026-10-20 10:10:05 | [Moberg.Beacon.AI.Embeddings.Onnx](https://www.nuget.org/packages/Moberg.Beacon.AI.Embeddings.Onnx) | 4.6.0 | Moberg | Local in-process ONNX text embeddings for Beacon semantic retrieval. Optional a… |
 
 ## Data source
 
