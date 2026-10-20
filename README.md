@@ -12,32 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:22 UTC
+## Latest list — 2026-10-20 20:21 UTC
 
-New packages created between 2026-10-20 18:22 UTC and 2026-10-20 19:22 UTC.
+New packages created between 2026-10-20 19:22 UTC and 2026-10-20 20:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T19-22-30-414084Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T20-21-23-44667Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 18:24:01 | [CareJobs](https://www.nuget.org/packages/CareJobs) | 1.0.0 | CareJobs.Now | .NET client for the free CareJobs.Now US healthcare jobs API: search open jobs,… |
-| 2026-10-20 18:27:08 | [Sight.Serialization](https://www.nuget.org/packages/Sight.Serialization) | 0.1.0 | Arthur Ferre | Schema-driven binary and text serialization (SBDL format). |
-| 2026-10-20 18:28:28 | [Canducci.FileUpload.Mongo](https://www.nuget.org/packages/Canducci.FileUpload.Mongo) | 1.0.0.7 | Fulvio Canducci | MongoDB integration for Canducci.FileUpload. |
-| 2026-10-20 18:32:36 | [FocusRgb.PluginSdk](https://www.nuget.org/packages/FocusRgb.PluginSdk) | 1.0.0 | Devantix | Optional .NET process-plugin SDK for the stable FocusRGB 1.x JSON-RPC protocol. |
-| 2026-10-20 18:38:08 | [Krafs.Rimworld.Ref.Local](https://www.nuget.org/packages/Krafs.Rimworld.Ref.Local) | 1.0.0 | krafs | Use alongside Krafs.Rimworld.Ref: in Debug builds, compiles your mod against yo… |
-| 2026-10-20 18:38:56 | [Trax.StateMachine](https://www.nuget.org/packages/Trax.StateMachine) | 1.68.0 | Theauxm,mark-keaton | Portable, resumable snapshot state-machine engine. Pure: no database or I/O. Re… |
-| 2026-10-20 18:38:59 | [Trax.StateMachine.Persistence](https://www.nuget.org/packages/Trax.StateMachine.Persistence) | 1.68.0 | Theauxm,mark-keaton | Persistence for the Trax .NET snapshot state-machine engine: a user-scoped snap… |
-| 2026-10-20 18:39:03 | [Trax.StateMachine.Testing](https://www.nuget.org/packages/Trax.StateMachine.Testing) | 1.68.0 | Theauxm,mark-keaton | Cross-runtime differential conformance for Trax .NET state machines: replay a g… |
-| 2026-10-20 18:50:13 | [KamuIlanlar.Core.ServiceBus](https://www.nuget.org/packages/KamuIlanlar.Core.ServiceBus) | 1.0.1 | KamuIlanlar.com, Contributors | Transport-independent service bus contracts. |
-| 2026-10-20 18:50:14 | [KamuIlanlar.Core.ServiceBus.Wolverine](https://www.nuget.org/packages/KamuIlanlar.Core.ServiceBus.Wolverine) | 1.0.1 | KamuIlanlar.com, Contributors | Wolverine RabbitMQ transport for Core.ServiceBus. |
-| 2026-10-20 18:53:46 | [NextLevel.GameStarter](https://www.nuget.org/packages/NextLevel.GameStarter) | 1.0.0 | NextLevel | Everything a NextLevel game backend starts with, behind one AddGameStarter call… |
-| 2026-10-20 19:08:03 | [Fickl](https://www.nuget.org/packages/Fickl) | 0.1.0 | Alfonso García-Caro Núñez,Fab… | Fickl: a performance-focused fork of the Fable F# compiler |
-| 2026-10-20 19:09:35 | [Plugin.Maui.Spine.AI.Functions](https://www.nuget.org/packages/Plugin.Maui.Spine.AI.Functions) | 0.1.16 | Jonatan Söderberg | Functions the model calls, declared once for a Spine app and its server: where… |
-| 2026-10-20 19:09:39 | [Plugin.Maui.Spine.Authentication.Passkeys](https://www.nuget.org/packages/Plugin.Maui.Spine.Authentication.Passkeys) | 0.1.16 | Jonatan Söderberg | Passkeys for Spine sign-in: sign in, sign up and add a passkey to an account th… |
-| 2026-10-20 19:09:41 | [Plugin.Maui.Spine.Avatar.Tool](https://www.nuget.org/packages/Plugin.Maui.Spine.Avatar.Tool) | 0.1.16 | Jonatan Söderberg | The spine-avatar command for .spineavatar files: inspect a package, validate it… |
-| 2026-10-20 19:09:47 | [Plugin.Maui.Spine.Controls.Avatar](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Avatar) | 0.1.16 | Jonatan Söderberg | AvatarView for Spine: animated characters and ambient visuals from .spineavatar… |
-| 2026-10-20 19:09:49 | [Plugin.Maui.Spine.Controls.Avatar.Core](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Avatar.Core) | 0.1.16 | Jonatan Söderberg | The core of Spine's avatars, without MAUI: the .spineavatar format 1.0 (a safe… |
-| 2026-10-20 19:10:09 | [Plugin.Maui.Spine.Speech](https://www.nuget.org/packages/Plugin.Maui.Spine.Speech) | 0.1.16 | Jonatan Söderberg | Text-to-speech for Spine apps with what a caption or an avatar needs to follow… |
+| 2026-10-20 19:25:47 | [IsWiX.WindowsInstaller](https://www.nuget.org/packages/IsWiX.WindowsInstaller) | 0.1.3 | IsWiX LLC | Read and write Windows Installer (.msi) databases without msi.dll. A managed re… |
+| 2026-10-20 19:27:47 | [AgentConnector](https://www.nuget.org/packages/AgentConnector) | 0.1.0 | AgentConnector | Native, embeddable ASP.NET Core connector runtime. |
+| 2026-10-20 19:34:09 | [Plugin.Maui.Spine.Controls.Charts](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Charts) | 0.1.17 | Jonatan Söderberg | Small charts for dashboards in .NET MAUI: RingChart (a share as a ring, clockwi… |
+| 2026-10-20 19:34:12 | [Stellaegis.Primitives.Hosting](https://www.nuget.org/packages/Stellaegis.Primitives.Hosting) | 5.0.0 | FRi | Stellaegis primitives for an application assembled by a host, with or without A… |
+| 2026-10-20 19:51:07 | [BeaconSDK](https://www.nuget.org/packages/BeaconSDK) | 0.1.0 | Tavstal | A .NET library for building Minecraft launchers. Handles Microsoft authenticati… |
+| 2026-10-20 19:52:54 | [Sight.Logging.Extensions](https://www.nuget.org/packages/Sight.Logging.Extensions) | 0.1.0 | Arthur Ferre | Bridge between Microsoft.Extensions.Logging and Sight.Logging. |
+| 2026-10-20 19:59:21 | [Alcove](https://www.nuget.org/packages/Alcove) | 0.0.1-alpha | Adam Schiavone | Alcove: install plugins from NuGet feeds and load them into isolated cells (Ass… |
+| 2026-10-20 19:59:22 | [Alcove.Autofac](https://www.nuget.org/packages/Alcove.Autofac) | 0.0.1-alpha | Adam Schiavone | Autofac add-on for Alcove: builder.AddPlugins(), constructor injection for exte… |
+| 2026-10-20 19:59:23 | [Alcove.DependencyInjection](https://www.nuget.org/packages/Alcove.DependencyInjection) | 0.0.1-alpha | Adam Schiavone | Microsoft.Extensions.DependencyInjection add-on for Alcove: services.AddPlugins… |
+| 2026-10-20 19:59:23 | [Alcove.Abstractions](https://www.nuget.org/packages/Alcove.Abstractions) | 0.0.1-alpha | Adam Schiavone | The plugin-facing API of Alcove: IPlugin, IPluginContext, IExtensionRegistrar,… |
+| 2026-10-20 19:59:24 | [Alcove.Wpf](https://www.nuget.org/packages/Alcove.Wpf) | 0.0.1-alpha | Adam Schiavone | WPF add-on for Alcove: options.UseWpf(app) pre-loads plugins' XAML assemblies,… |
+| 2026-10-20 19:59:25 | [Alcove.Sdk](https://www.nuget.org/packages/Alcove.Sdk) | 0.0.1-alpha | Adam Schiavone | Build support for Alcove plugins: sets the plugin PackageType, generates the pl… |
+| 2026-10-20 20:03:25 | [Sight.Tweening](https://www.nuget.org/packages/Sight.Tweening) | 1.0.0 | Arthur Ferre | Standalone C# library to make animations with tweens. |
+| 2026-10-20 20:03:52 | [SqlNative.AspNetCore](https://www.nuget.org/packages/SqlNative.AspNetCore) | 0.3.1 | Peyman Jahanbazi | ASP.NET Core integration for SqlNative. Provides DI extension methods to regist… |
 
 ## Data source
 
