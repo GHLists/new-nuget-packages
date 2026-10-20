@@ -12,30 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 14:20 UTC
+## Latest list — 2026-10-20 15:20 UTC
 
-New packages created between 2026-10-20 13:21 UTC and 2026-10-20 14:20 UTC.
+New packages created between 2026-10-20 14:20 UTC and 2026-10-20 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T14-20-05-182952Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T15-20-15-324723Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 13:33:38 | [Projection.DependencyInjection](https://www.nuget.org/packages/Projection.DependencyInjection) | 1.0.0 | HashGrove | Microsoft.Extensions.DependencyInjection integration for the Projection object… |
-| 2026-10-20 13:33:39 | [Projection](https://www.nuget.org/packages/Projection) | 1.0.0 | HashGrove | A simple, fast object-to-object mapper for .NET. Map entities to DTOs by conven… |
-| 2026-10-20 13:35:08 | [Tlib.Diagnostics](https://www.nuget.org/packages/Tlib.Diagnostics) | 0.19.0 | Tomm2000 | Package Description |
-| 2026-10-20 13:35:10 | [Tlib.Utils](https://www.nuget.org/packages/Tlib.Utils) | 0.19.0 | Tomm2000 | Package Description |
-| 2026-10-20 13:50:53 | [AvaloniaFluentUI.Fonts](https://www.nuget.org/packages/AvaloniaFluentUI.Fonts) | 1.0.0 | AvaloniaFluentUI.Fonts | Package Description |
-| 2026-10-20 13:50:54 | [DataStreamGenerator](https://www.nuget.org/packages/DataStreamGenerator) | 1.0.0 | DataStreamGenerator | Package Description |
-| 2026-10-20 13:52:54 | [VMA.ImageProcessor](https://www.nuget.org/packages/VMA.ImageProcessor) | 1.0.0 | VMA | SkiaSharp-based image resizing for .NET. Provides a low-level ImageResizer (fit… |
-| 2026-10-20 14:00:09 | [Regira.Web.HTML.RazorComponents](https://www.nuget.org/packages/Regira.Web.HTML.RazorComponents) | 6.6.0 | Regira bv | Renders compiled Razor components to HTML with ASP.NET Core's HtmlRenderer for… |
-| 2026-10-20 14:00:48 | [SjolystInnovation.AppKit.Pdf](https://www.nuget.org/packages/SjolystInnovation.AppKit.Pdf) | 1.0.0 | Sjølyst Innovation AS | HTML to PDF through headless Chromium with PuppeteerSharp: A4 with backgrounds,… |
-| 2026-10-20 14:01:35 | [Regira.Office.Mail.MailKit](https://www.nuget.org/packages/Regira.Office.Mail.MailKit) | 6.6.0 | Regira bv | Mail sending to any SMTP server via MailKit for Regira Office. |
-| 2026-10-20 14:02:16 | [Regira.Office.PDF.Gotenberg](https://www.nuget.org/packages/Regira.Office.PDF.Gotenberg) | 6.6.0 | Regira bv | HTML to PDF conversion through the Chromium route of a Gotenberg server for Reg… |
-| 2026-10-20 14:02:25 | [Regira.Office.PDF.MiniPdf](https://www.nuget.org/packages/Regira.Office.PDF.MiniPdf) | 6.6.0 | Regira bv | Word, Excel and PowerPoint to PDF conversion in-process using MiniPdf for Regir… |
-| 2026-10-20 14:02:33 | [Regira.Office.PDF.PdfPig](https://www.nuget.org/packages/Regira.Office.PDF.PdfPig) | 6.6.0 | Regira bv | PDF operations for Regira Office: merge, split, page removal, text extraction a… |
-| 2026-10-20 14:02:59 | [PulseSharp.Testing](https://www.nuget.org/packages/PulseSharp.Testing) | 0.6.0-alpha | Waqas Ahmad | Test helpers for apps that use PulseSharp: a recording IPulse, ready-made handl… |
-| 2026-10-20 14:04:19 | [Regira.Entities.Mediator](https://www.nuget.org/packages/Regira.Entities.Mediator) | 6.6.0 | Regira bv | HTTP-neutral entity operations for Regira entities: details, list, search, save… |
-| 2026-10-20 14:04:39 | [Xalosoftware.Sekiwa](https://www.nuget.org/packages/Xalosoftware.Sekiwa) | 0.1.0 | Xalo Software | Sekiwa licensing SDK for .NET: offline-verified, signed licences for desktop an… |
+| 2026-10-20 14:21:50 | [UniOne](https://www.nuget.org/packages/UniOne) | 2.1.3 | UniOne | UniOne Web API client library for .NET |
+| 2026-10-20 14:21:55 | [AllAgent.NET.Terminal](https://www.nuget.org/packages/AllAgent.NET.Terminal) | 1.0.8 | AllAgent.NET | AllAgent.NET terminal AI agent with Hyperlight microVM CodeAct execution for Wi… |
+| 2026-10-20 14:21:58 | [AllAgent.NET.Terminal.arm64](https://www.nuget.org/packages/AllAgent.NET.Terminal.arm64) | 1.0.8 | AllAgent.NET | AllAgent.NET terminal AI agent with CodeAct execution for Windows ARM64. |
+| 2026-10-20 14:23:02 | [Transitio.Logging](https://www.nuget.org/packages/Transitio.Logging) | 1.4.0 | Transitio | Structured, correlation-aware logging context on top of Microsoft.Extensions.Lo… |
+| 2026-10-20 14:25:33 | [CoinSelection](https://www.nuget.org/packages/CoinSelection) | 0.1.0 | Dávid Molnár,CoinSelection co… | Dependency-free, deterministic coin selection for integer-valued candidates, wi… |
+| 2026-10-20 14:27:55 | [CoinSelection.NBitcoin](https://www.nuget.org/packages/CoinSelection.NBitcoin) | 0.1.0 | Dávid Molnár,CoinSelection co… | NBitcoin adapter for changeless payment coin selection, with fee rates, caller-… |
+| 2026-10-20 14:33:32 | [UniOne.AspNetCore](https://www.nuget.org/packages/UniOne.AspNetCore) | 2.1.3 | UniOne | UniOne Web API for ASP.NET Core: API client in DI, webhook endpoint |
+| 2026-10-20 14:33:53 | [Wirtschaftsspionage](https://www.nuget.org/packages/Wirtschaftsspionage) | 1.0.0 | AscendantWare e.K. | Ihre Anwendung weiß mehr, als sie zugibt. |
+| 2026-10-20 14:37:40 | [Theneo.AspNetCore](https://www.nuget.org/packages/Theneo.AspNetCore) | 0.1.0 | Theneo | ASP.NET Core integration for the Theneo API Reference viewer. Serve a beautiful… |
+| 2026-10-20 14:37:51 | [CohoCms.Codegen](https://www.nuget.org/packages/CohoCms.Codegen) | 2026.1.0 | Coho CMS | Generates a typed content library from your Coho CMS content types. |
+| 2026-10-20 14:37:52 | [CohoCms.Templates](https://www.nuget.org/packages/CohoCms.Templates) | 2026.1.0 | Coho CMS | dotnet new coho-library: creates your Coho CMS content library, a .NET library… |
+| 2026-10-20 14:37:52 | [CohoCms.Delivery](https://www.nuget.org/packages/CohoCms.Delivery) | 2026.1.0 | Coho CMS | The Coho CMS delivery client, and the runtime that generated content libraries… |
+| 2026-10-20 14:44:10 | [CohoCms.Razor](https://www.nuget.org/packages/CohoCms.Razor) | 2026.1.0 | Coho CMS | Razor components and tag helpers for Coho CMS content: images resized at the ed… |
+| 2026-10-20 14:48:21 | [Musictopia2.CommonBasicLibraries](https://www.nuget.org/packages/Musictopia2.CommonBasicLibraries) | 10.0.1 | musictopia | This has lots of common standard libraries New Collection Classes, Extensions,… |
+| 2026-10-20 14:55:09 | [NuVersions](https://www.nuget.org/packages/NuVersions) | 0.3.0 | Alastair Lundy | Unlist NuGet package versions programmatically with ease. |
+| 2026-10-20 15:07:54 | [Tooq.Tech.MD.BinaryProtocol](https://www.nuget.org/packages/Tooq.Tech.MD.BinaryProtocol) | 3.5.4 | Tooq Technology S.A. | Tooq Technology Market Data Binary Protocol |
+| 2026-10-20 15:08:44 | [Tooq.Tech.FH.ClientLib](https://www.nuget.org/packages/Tooq.Tech.FH.ClientLib) | 8.0.1 | Tooq Technology S.A. | Tooq FH C# Client Library |
+| 2026-10-20 15:10:58 | [Umbraco.Community.UmbraDesktop.Services.Arcade](https://www.nuget.org/packages/Umbraco.Community.UmbraDesktop.Services.Arcade) | 17.4.0 | Luuk Peters | High scores and leaderboards for UmbraDesktop games. A service package: you get… |
+| 2026-10-20 15:10:59 | [Umbraco.Community.UmbraDesktop.Services.Media](https://www.nuget.org/packages/Umbraco.Community.UmbraDesktop.Services.Media) | 17.4.0 | Luuk Peters | Opening and saving media library files for UmbraDesktop apps. A service package… |
+| 2026-10-20 15:13:04 | [Delta3.ByteSize](https://www.nuget.org/packages/Delta3.ByteSize) | 1.0.0 | Lucas Teles - me@lucasteles.d… | Represents a byte size value |
 
 ## Data source
 

@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-20T14:21:50.06Z,UniOne,2.1.3,UniOne,UniOne Web API client library for .NET
+2026-10-20T14:21:55.5Z,AllAgent.NET.Terminal,1.0.8,AllAgent.NET,AllAgent.NET terminal AI agent with Hyperlight microVM CodeAct execution for Windows x64.
+2026-10-20T14:21:58.013Z,AllAgent.NET.Terminal.arm64,1.0.8,AllAgent.NET,AllAgent.NET terminal AI agent with CodeAct execution for Windows ARM64.
+2026-10-20T14:23:02.02Z,Transitio.Logging,1.4.0,Transitio,"Structured, correlation-aware logging context on top of Microsoft.Extensions.Logging for .NET"
+2026-10-20T14:25:33.057Z,CoinSelection,0.1.0,"Dávid Molnár,CoinSelection contributors","Dependency-free, deterministic coin selection for integer-valued candidates, with search budgets, per-candidate costs, input limits, and asymmetric target tolerances."
+2026-10-20T14:27:55.303Z,CoinSelection.NBitcoin,0.1.0,"Dávid Molnár,CoinSelection contributors","NBitcoin adapter for changeless payment coin selection, with fee rates, caller-supplied input virtual sizes, and asymmetric target tolerances."
+2026-10-20T14:33:32.08Z,UniOne.AspNetCore,2.1.3,UniOne,"UniOne Web API for ASP.NET Core: API client in DI, webhook endpoint"
+2026-10-20T14:33:53.783Z,Wirtschaftsspionage,1.0.0,AscendantWare e.K.,"Ihre Anwendung weiß mehr, als sie zugibt."
+2026-10-20T14:37:40.537Z,Theneo.AspNetCore,0.1.0,Theneo,"ASP.NET Core integration for the Theneo API Reference viewer. Serve a beautiful OpenAPI reference UI from your app with a single `app.MapTheneoApiReference()` call. The JavaScript bundle is embedded as a static resource, so it works for air-gapped / enterprise installs with no CDN dependency."
+2026-10-20T14:37:51.687Z,CohoCms.Codegen,2026.1.0,Coho CMS,Generates a typed content library from your Coho CMS content types.
+2026-10-20T14:37:52.16Z,CohoCms.Templates,2026.1.0,Coho CMS,"dotnet new coho-library: creates your Coho CMS content library, a .NET library generated from your project's content types."
+2026-10-20T14:37:52.463Z,CohoCms.Delivery,2026.1.0,Coho CMS,"The Coho CMS delivery client, and the runtime that generated content libraries call."
+2026-10-20T14:44:10.007Z,CohoCms.Razor,2026.1.0,Coho CMS,"Razor components and tag helpers for Coho CMS content: images resized at the edge, and links to download assets."
+2026-10-20T14:48:21.04Z,Musictopia2.CommonBasicLibraries,10.0.1,musictopia,"This has lots of common standard libraries New Collection Classes, Extensions, Exceptions, and Random Functions"
+2026-10-20T14:55:09.083Z,NuVersions,0.3.0,Alastair Lundy,Unlist NuGet package versions programmatically with ease.
+2026-10-20T15:07:54.877Z,Tooq.Tech.MD.BinaryProtocol,3.5.4,Tooq Technology S.A.,Tooq Technology Market Data Binary Protocol
+2026-10-20T15:08:44.877Z,Tooq.Tech.FH.ClientLib,8.0.1,Tooq Technology S.A.,Tooq FH C# Client Library
+2026-10-20T15:10:58.69Z,Umbraco.Community.UmbraDesktop.Services.Arcade,17.4.0,Luuk Peters,"High scores and leaderboards for UmbraDesktop games. A service package: you get it with a game that uses it, such as the UmbraDesktop Entertainment Add-on, and do not need to install it yourself."
+2026-10-20T15:10:59.027Z,Umbraco.Community.UmbraDesktop.Services.Media,17.4.0,Luuk Peters,"Opening and saving media library files for UmbraDesktop apps. A service package: you get it with an add-on that uses it, such as the UmbraDesktop Accessories Add-on, and do not need to install it yourself."
+2026-10-20T15:13:04.65Z,Delta3.ByteSize,1.0.0,Lucas Teles - me@lucasteles.dev,Represents a byte size value
