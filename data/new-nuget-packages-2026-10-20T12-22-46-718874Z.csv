@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-20T11:46:32.133Z,Bit.Bcrdt.Server,11.0.0-pre-10,bit platform,"The ASP.NET Core relays for bit Bcrdt: the SignalR hub the Bit.Bcrdt.SignalR transport talks to, and the WebSocket endpoint the built-in WebSocket transport talks to. Both only relay - neither decodes a message nor holds a replica."
+2026-10-20T11:46:34.617Z,Bit.Bcrdt.Testing,11.0.0-pre-10,bit platform,"Test support for bit Bcrdt: a deterministic, seeded network simulator with loss, duplication, reordering, partitions and offline peers; random operation generators; a convergence harness; and an update corrupter for fuzzing the wire format. Framework-neutral, so it works with MSTest, xUnit or NUnit."
+2026-10-20T11:46:35.973Z,Bit.BevTools.Server,11.0.0-pre-10,bit platform,"Blazor Server (interactive server / circuits) instrumentation for bit BevTools: circuit lifecycle, connection state, inbound activity and an active circuit overview."
+2026-10-20T11:46:38.62Z,Bit.Belemetry.Hangfire,11.0.0-pre-10,bit platform,Bit.Belemetry.Hangfire
+2026-10-20T11:46:43.597Z,Bit.Borm.FluentValidation,11.0.0-pre-10,bit platform,FluentValidation integration for Bit.Borm. UseFluentValidation() runs a model's FluentValidation validator alongside the schema's own rules and puts every failure on the field its property path names.
+2026-10-20T11:49:02.093Z,Devinno.UI,0.1.0,Devinno,SkiaSharp 기반 .NET UI 라이브러리 (산업용 HMI 터치 패널·일반 앱). XML 마크업 + CSS 식 인라인 style + C# 뷰모델 바인딩. 창에 띄우려면 어댑터 Devinno.UI.OpenTK 또는 Devinno.UI.WinForms 를 함께 씁니다.
+2026-10-20T11:49:03.03Z,Devinno.UI.OpenTK,0.1.0,Devinno,"Devinno.UI 의 OpenTK 창 어댑터 — ViewWindow 로 DvApp 을 창에 띄웁니다(터치 우선, 가상 키보드, CPU·OpenGL 그리기)."
+2026-10-20T11:49:03.923Z,Devinno.UI.WinForms,0.1.0,Devinno,"Devinno.UI 의 WinForms 어댑터 — ViewControl 로 DvApp 을 폼에 올립니다(한글 IME 입력, 터치 모드 선택)."
+2026-10-20T12:03:54.427Z,EasyTdd.Mcp,6.0.2,kazys,"EasyTdd MCP server — AI-assistant-driven TDD code generation (builders, fluent mocks, test classes) for .NET solutions."
+2026-10-20T12:09:29.927Z,KeyGuard,0.1.0,KeyGuard,"Official .NET SDK for KeyGuard license verification (verify, hardware fingerprint, offline ed25519 license files)"
+2026-10-20T12:15:45.127Z,Zyga.SeriRestClient.Spectre,0.2.0,Szymon Zywert,Spectre.Console-based pretty JSON formatter for Zyga.SeriRestClient logs
