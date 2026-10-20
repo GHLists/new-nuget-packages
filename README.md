@@ -12,36 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 17:21 UTC
+## Latest list — 2026-10-20 18:22 UTC
 
-New packages created between 2026-10-20 16:20 UTC and 2026-10-20 17:21 UTC.
+New packages created between 2026-10-20 17:21 UTC and 2026-10-20 18:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T17-21-05-403694Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T18-22-16-711783Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 16:22:32 | [Theneo.AspNetCore.Scanning](https://www.nuget.org/packages/Theneo.AspNetCore.Scanning) | 0.1.0 | Theneo | Zero-config auto-scan for the Theneo.AspNetCore reference viewer. Adds `MapThen… |
-| 2026-10-20 16:22:32 | [Theneo.OpenApiScanner](https://www.nuget.org/packages/Theneo.OpenApiScanner) | 0.1.0 | Theneo | Scan an ASP.NET Core project's source code with Roslyn and generate an OpenAPI… |
-| 2026-10-20 16:22:34 | [Theneo.OpenApiScanner.Cli](https://www.nuget.org/packages/Theneo.OpenApiScanner.Cli) | 0.1.0 | Theneo | CLI for Theneo.OpenApiScanner. Generate an OpenAPI 3.1 document from an ASP.NET… |
-| 2026-10-20 16:28:05 | [StorageGO.Client](https://www.nuget.org/packages/StorageGO.Client) | 1.2.2 | StorageGO | .NET 8 wrapper for the StorageGO native SMB client. |
-| 2026-10-20 16:34:23 | [GabrielPatatt.BulkStepBuilder](https://www.nuget.org/packages/GabrielPatatt.BulkStepBuilder) | 0.1.7 | Gabriel Patatt | Build multiple Microsoft Dataverse plugin steps for one selected class. Inspect… |
-| 2026-10-20 16:48:36 | [MDAT.Core](https://www.nuget.org/packages/MDAT.Core) | 2.0.0 | anisite | Markdown Auto-Tests core for .net 8+: markdown/YAML test case parsing and JSON… |
-| 2026-10-20 16:48:51 | [MDAT.TUnit](https://www.nuget.org/packages/MDAT.TUnit) | 2.0.0 | anisite | Markdown Auto-Tests for TUnit (.net 8+): markdown test cases as TUnit data sour… |
-| 2026-10-20 16:49:55 | [Pacem.Domotics.Legrand](https://www.nuget.org/packages/Pacem.Domotics.Legrand) | 0.10.19-bombelli | Cristian Merighi | Pacem domotics implementation for the Legrand Smarther v2.0 cloud API, i.e. BTi… |
-| 2026-10-20 16:50:36 | [BulkStepBuilder](https://www.nuget.org/packages/BulkStepBuilder) | 1.0.0 | Gabriel Patatt | Build multiple Microsoft Dataverse plugin steps for one selected class. Inspect… |
-| 2026-10-20 16:54:03 | [avs-replace](https://www.nuget.org/packages/avs-replace) | 9.0.2 | Artem Vertii | Package Description |
-| 2026-10-20 17:05:11 | [Nullean.Entities.Argh](https://www.nuget.org/packages/Nullean.Entities.Argh) | 0.1.0 | Nullean and contributors | Validates the option objects a Nullean.Argh command receives against Nullean.En… |
-| 2026-10-20 17:05:11 | [Nullean.Entities.Extensions.DependencyInjection](https://www.nuget.org/packages/Nullean.Entities.Extensions.DependencyInjection) | 0.1.0 | Nullean and contributors | Registers Nullean.Entities constraint sets with Microsoft.Extensions.Dependency… |
-| 2026-10-20 17:05:11 | [Nullean.Entities](https://www.nuget.org/packages/Nullean.Entities) | 0.1.0 | Nullean and contributors | Domain entity constraints: named rules, violation reporting, and safe mutation… |
-| 2026-10-20 17:05:12 | [Nullean.Entities.CsCheck.AutoBogus](https://www.nuget.org/packages/Nullean.Entities.CsCheck.AutoBogus) | 0.1.0 | Nullean and contributors | An AutoBogus-backed CsCheck generator for Nullean.Entities.CsCheck: plausible B… |
-| 2026-10-20 17:05:12 | [Nullean.Entities.CsCheck](https://www.nuget.org/packages/Nullean.Entities.CsCheck) | 0.1.0 | Nullean and contributors | CsCheck property testing integration for Nullean.Entities: state-machine explor… |
-| 2026-10-20 17:05:12 | [Nullean.Entities.CsCheck.Reactive](https://www.nuget.org/packages/Nullean.Entities.CsCheck.Reactive) | 0.1.0 | Nullean and contributors | Rx scheduler scripts for Nullean.Entities.CsCheck: SampleWith, RunWith and Samp… |
-| 2026-10-20 17:05:13 | [Nullean.Entities.FileSystem](https://www.nuget.org/packages/Nullean.Entities.FileSystem) | 0.1.0 | Nullean and contributors | Constraint shapes for files and directories (exists, stays inside a root, not a… |
-| 2026-10-20 17:05:13 | [Nullean.Entities.CsCheck.FileSystem](https://www.nuget.org/packages/Nullean.Entities.CsCheck.FileSystem) | 0.1.0 | Nullean and contributors | Generated file-system worlds for Nullean.Entities.CsCheck: AutoGen builds IFile… |
-| 2026-10-20 17:05:13 | [Nullean.Entities.Reactive](https://www.nuget.org/packages/Nullean.Entities.Reactive) | 0.1.0 | Nullean and contributors | Reactive temporal constraints over IObservable streams for live monitoring and… |
-| 2026-10-20 17:05:13 | [Nullean.Entities.AspNetCore](https://www.nuget.org/packages/Nullean.Entities.AspNetCore) | 0.1.0 | Nullean and contributors | ASP.NET Core integration for Nullean.Entities: endpoint filters, a global excep… |
-| 2026-10-20 17:10:27 | [ModernLibs.FileHelpers](https://www.nuget.org/packages/ModernLibs.FileHelpers) | 4.8.0 | ModernLibs Contributors | Modern, AOT-ready rewrite of FileHelpers 3.x for .NET 10. Reads and writes deli… |
-| 2026-10-20 17:13:09 | [ktsu.ImGui.Rendering](https://www.nuget.org/packages/ktsu.ImGui.Rendering) | 3.76.0 | ktsu.dev contributors | The backend-agnostic 3D rendering contract for the ktsu ImGui suite: IRenderer3… |
+| 2026-10-20 17:24:45 | [APIVerve.API.BarcodeReader](https://www.nuget.org/packages/APIVerve.API.BarcodeReader) | 1.2.1 | APIVerve | Barcode Reader decodes 1D barcodes from an uploaded image or an image URL, incl… |
+| 2026-10-20 17:25:05 | [SafeMigrations.Core](https://www.nuget.org/packages/SafeMigrations.Core) | 0.1.0 | rahulnagrikar | Inspect EF Core migrations for production safety risks. |
+| 2026-10-20 17:26:08 | [SafeMigrations.Rules](https://www.nuget.org/packages/SafeMigrations.Rules) | 0.1.0 | rahulnagrikar | Inspect EF Core migrations for production safety risks. |
+| 2026-10-20 17:26:36 | [SafeMigrations.EFCore](https://www.nuget.org/packages/SafeMigrations.EFCore) | 0.1.0 | rahulnagrikar | Inspect EF Core migrations for production safety risks. |
+| 2026-10-20 17:28:04 | [Prowl.Origami.CSharp](https://www.nuget.org/packages/Prowl.Origami.CSharp) | 3.8.7 | Prowl Contributors | Roslyn backed C# language services for the Origami CodeEditor: completion, quic… |
+| 2026-10-20 17:35:50 | [PowerForge.Web.Protocols](https://www.nuget.org/packages/PowerForge.Web.Protocols) | 3.0.171 | Przemyslaw Klys | Dependency-free web interchange: IndexNow, sitemaps, syndication feeds and JSON… |
+| 2026-10-20 17:41:25 | [OmniEurope.Documents](https://www.nuget.org/packages/OmniEurope.Documents) | 1.0.0 | OmniEurope contributors | Create, edit, convert and read Word, Excel, PDF, Markdown and CSV documents, wi… |
+| 2026-10-20 17:43:17 | [Metronome.OpenAPI](https://www.nuget.org/packages/Metronome.OpenAPI) | 0.1.0 | OpenAPI, Jamie Howarth | A .NET library for accessing Metronome's OpenAPI-compatible API endpoints |
+| 2026-10-20 17:48:36 | [FinClient](https://www.nuget.org/packages/FinClient) | 0.1.1 | BizJaya TechLab S/B | Official .NET SDK for the FinCopy public API: hosted MetaTrader accounts, tradi… |
+| 2026-10-20 17:49:01 | [IBeam.Management.Identity.Target.Api](https://www.nuget.org/packages/IBeam.Management.Identity.Target.Api) | 2.16.0 | MedPACTech | Optional target API for app-scoped customer Identity management. |
+| 2026-10-20 17:49:02 | [IBeam.Management.Identity.Target.Services](https://www.nuget.org/packages/IBeam.Management.Identity.Target.Services) | 2.16.0 | MedPACTech | Optional app-scoped customer Identity management services, separate from suppor… |
+| 2026-10-20 17:50:39 | [ResXLocalization.MessageFormat](https://www.nuget.org/packages/ResXLocalization.MessageFormat) | 2.0.0 | David Liebeherr, rent-a-devel… | The opt-in ICU MessageFormat formatter for ResXLocalization: plural and select… |
+| 2026-10-20 18:03:58 | [JJConsulting.DbUp.Cli](https://www.nuget.org/packages/JJConsulting.DbUp.Cli) | 1.0.1 | JJConsulting | Local and CI SQL Server migration commands using JJConsulting.DbUp. |
 
 ## Data source
 

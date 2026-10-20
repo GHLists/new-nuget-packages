@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-20T17:24:45.35Z,APIVerve.API.BarcodeReader,1.2.1,APIVerve,"Barcode Reader decodes 1D barcodes from an uploaded image or an image URL, including EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, ITF, Codabar and GS1 DataBar. It returns the decoded value and the symbology. Paid plans add the GTIN, the barcode's orientation and corners, and every barco…"
+2026-10-20T17:25:05.503Z,SafeMigrations.Core,0.1.0,rahulnagrikar,Inspect EF Core migrations for production safety risks.
+2026-10-20T17:26:08.697Z,SafeMigrations.Rules,0.1.0,rahulnagrikar,Inspect EF Core migrations for production safety risks.
+2026-10-20T17:26:36.017Z,SafeMigrations.EFCore,0.1.0,rahulnagrikar,Inspect EF Core migrations for production safety risks.
+2026-10-20T17:28:04.477Z,Prowl.Origami.CSharp,3.8.7,Prowl Contributors,"Roslyn backed C# language services for the Origami CodeEditor: completion, quick info, signature help, diagnostics, semantic colouring, navigation, code actions, formatting and rename."
+2026-10-20T17:35:50.907Z,PowerForge.Web.Protocols,3.0.171,Przemyslaw Klys,"Dependency-free web interchange: IndexNow, sitemaps, syndication feeds and JSON-LD serialization."
+2026-10-20T17:41:25.71Z,OmniEurope.Documents,1.0.0,OmniEurope contributors,"Create, edit, convert and read Word, Excel, PDF, Markdown and CSV documents, without OCR, without UI and without any dependency."
+2026-10-20T17:43:17.597Z,Metronome.OpenAPI,0.1.0,"OpenAPI, Jamie Howarth",A .NET library for accessing Metronome's OpenAPI-compatible API endpoints
+2026-10-20T17:48:36.337Z,FinClient,0.1.1,BizJaya TechLab S/B,"Official .NET SDK for the FinCopy public API: hosted MetaTrader accounts, trading, the change feed and webhooks."
+2026-10-20T17:49:01.9Z,IBeam.Management.Identity.Target.Api,2.16.0,MedPACTech,Optional target API for app-scoped customer Identity management.
+2026-10-20T17:49:02.93Z,IBeam.Management.Identity.Target.Services,2.16.0,MedPACTech,"Optional app-scoped customer Identity management services, separate from support Identity."
+2026-10-20T17:50:39.77Z,ResXLocalization.MessageFormat,2.0.0,"David Liebeherr, rent-a-developer","The opt-in ICU MessageFormat formatter for ResXLocalization: plural and select messages for every localized text, in code and in XAML. Activated with Localizer.Current.UseMessageFormat()."
+2026-10-20T18:03:58Z,JJConsulting.DbUp.Cli,1.0.1,JJConsulting,Local and CI SQL Server migration commands using JJConsulting.DbUp.
