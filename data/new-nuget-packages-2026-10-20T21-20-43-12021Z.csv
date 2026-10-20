@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-20T20:28:43.87Z,LATec.MAUI.Yandex.Ads,1.0.1,Aleh Ladyka,Yandex Mobile Ads banner control (AdBannerView) for .NET MAUI on Android and iOS.
+2026-10-20T20:32:42.963Z,Capastrum.Acp.Protocol,1.0.0,Capastrum contributors,Agent Client Protocol v1 contracts for Capastrum.
+2026-10-20T20:32:43.737Z,Capastrum.Mcp.Protocol,1.0.0,Capastrum contributors,Model Context Protocol 2026-07-28 contracts for Capastrum.
+2026-10-20T20:32:44.527Z,Capastrum.Mcp,1.0.0,Capastrum contributors,"MCP server with tools, resources and prompts."
+2026-10-20T20:32:45.293Z,Capastrum.JsonRpc,1.0.0,Capastrum contributors,"JSON-RPC 2.0 peer, message model and transports for Capastrum."
+2026-10-20T20:32:46.703Z,Capastrum.Mcp.Client,1.0.0,Capastrum contributors,MCP client for connecting C# applications to external tool servers.
+2026-10-20T20:32:46Z,Capastrum.Acp.Server,1.0.0,Capastrum contributors,ACP agent server for exposing a C# application as an agent.
+2026-10-20T20:32:47.373Z,Capastrum.Acp,1.0.0,Capastrum contributors,ACP host for launching and orchestrating AI agents with human-in-the-loop control.
+2026-10-20T20:47:27.943Z,Programaris.Tenancy.Http,0.2.0,PROGRAMARIS,"Opt-in, destination-restricted outbound tenant context propagation for HttpClient."
+2026-10-20T20:55:43.653Z,SlipeServer.Net.Managed,0.1.0-CI-20261020-2…,Slipe,"A managed C# implementation of the MTA San Andreas net layer for Slipe Server, with no native dependency."
+2026-10-20T20:56:02.917Z,Incursa.Platform.Sqlite,6.0.10,Incursa,"Single-host SQLite provider for Incursa Platform scheduling, messaging, coordination, operations, and audit."
+2026-10-20T21:02:16.07Z,Archevolt,0.1.0,Stephan van Stekelenburg,"A standalone, Bevy-inspired entity component system for .NET 10 and C# 14."

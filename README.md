@@ -12,28 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 20:21 UTC
+## Latest list — 2026-10-20 21:20 UTC
 
-New packages created between 2026-10-20 19:22 UTC and 2026-10-20 20:21 UTC.
+New packages created between 2026-10-20 20:21 UTC and 2026-10-20 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T20-21-23-44667Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T21-20-43-12021Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 19:25:47 | [IsWiX.WindowsInstaller](https://www.nuget.org/packages/IsWiX.WindowsInstaller) | 0.1.3 | IsWiX LLC | Read and write Windows Installer (.msi) databases without msi.dll. A managed re… |
-| 2026-10-20 19:27:47 | [AgentConnector](https://www.nuget.org/packages/AgentConnector) | 0.1.0 | AgentConnector | Native, embeddable ASP.NET Core connector runtime. |
-| 2026-10-20 19:34:09 | [Plugin.Maui.Spine.Controls.Charts](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Charts) | 0.1.17 | Jonatan Söderberg | Small charts for dashboards in .NET MAUI: RingChart (a share as a ring, clockwi… |
-| 2026-10-20 19:34:12 | [Stellaegis.Primitives.Hosting](https://www.nuget.org/packages/Stellaegis.Primitives.Hosting) | 5.0.0 | FRi | Stellaegis primitives for an application assembled by a host, with or without A… |
-| 2026-10-20 19:51:07 | [BeaconSDK](https://www.nuget.org/packages/BeaconSDK) | 0.1.0 | Tavstal | A .NET library for building Minecraft launchers. Handles Microsoft authenticati… |
-| 2026-10-20 19:52:54 | [Sight.Logging.Extensions](https://www.nuget.org/packages/Sight.Logging.Extensions) | 0.1.0 | Arthur Ferre | Bridge between Microsoft.Extensions.Logging and Sight.Logging. |
-| 2026-10-20 19:59:21 | [Alcove](https://www.nuget.org/packages/Alcove) | 0.0.1-alpha | Adam Schiavone | Alcove: install plugins from NuGet feeds and load them into isolated cells (Ass… |
-| 2026-10-20 19:59:22 | [Alcove.Autofac](https://www.nuget.org/packages/Alcove.Autofac) | 0.0.1-alpha | Adam Schiavone | Autofac add-on for Alcove: builder.AddPlugins(), constructor injection for exte… |
-| 2026-10-20 19:59:23 | [Alcove.DependencyInjection](https://www.nuget.org/packages/Alcove.DependencyInjection) | 0.0.1-alpha | Adam Schiavone | Microsoft.Extensions.DependencyInjection add-on for Alcove: services.AddPlugins… |
-| 2026-10-20 19:59:23 | [Alcove.Abstractions](https://www.nuget.org/packages/Alcove.Abstractions) | 0.0.1-alpha | Adam Schiavone | The plugin-facing API of Alcove: IPlugin, IPluginContext, IExtensionRegistrar,… |
-| 2026-10-20 19:59:24 | [Alcove.Wpf](https://www.nuget.org/packages/Alcove.Wpf) | 0.0.1-alpha | Adam Schiavone | WPF add-on for Alcove: options.UseWpf(app) pre-loads plugins' XAML assemblies,… |
-| 2026-10-20 19:59:25 | [Alcove.Sdk](https://www.nuget.org/packages/Alcove.Sdk) | 0.0.1-alpha | Adam Schiavone | Build support for Alcove plugins: sets the plugin PackageType, generates the pl… |
-| 2026-10-20 20:03:25 | [Sight.Tweening](https://www.nuget.org/packages/Sight.Tweening) | 1.0.0 | Arthur Ferre | Standalone C# library to make animations with tweens. |
-| 2026-10-20 20:03:52 | [SqlNative.AspNetCore](https://www.nuget.org/packages/SqlNative.AspNetCore) | 0.3.1 | Peyman Jahanbazi | ASP.NET Core integration for SqlNative. Provides DI extension methods to regist… |
+| 2026-10-20 20:28:43 | [LATec.MAUI.Yandex.Ads](https://www.nuget.org/packages/LATec.MAUI.Yandex.Ads) | 1.0.1 | Aleh Ladyka | Yandex Mobile Ads banner control (AdBannerView) for .NET MAUI on Android and iO… |
+| 2026-10-20 20:32:42 | [Capastrum.Acp.Protocol](https://www.nuget.org/packages/Capastrum.Acp.Protocol) | 1.0.0 | Capastrum contributors | Agent Client Protocol v1 contracts for Capastrum. |
+| 2026-10-20 20:32:43 | [Capastrum.Mcp.Protocol](https://www.nuget.org/packages/Capastrum.Mcp.Protocol) | 1.0.0 | Capastrum contributors | Model Context Protocol 2026-07-28 contracts for Capastrum. |
+| 2026-10-20 20:32:44 | [Capastrum.Mcp](https://www.nuget.org/packages/Capastrum.Mcp) | 1.0.0 | Capastrum contributors | MCP server with tools, resources and prompts. |
+| 2026-10-20 20:32:45 | [Capastrum.JsonRpc](https://www.nuget.org/packages/Capastrum.JsonRpc) | 1.0.0 | Capastrum contributors | JSON-RPC 2.0 peer, message model and transports for Capastrum. |
+| 2026-10-20 20:32:46 | [Capastrum.Mcp.Client](https://www.nuget.org/packages/Capastrum.Mcp.Client) | 1.0.0 | Capastrum contributors | MCP client for connecting C# applications to external tool servers. |
+| 2026-10-20 20:32:46 | [Capastrum.Acp.Server](https://www.nuget.org/packages/Capastrum.Acp.Server) | 1.0.0 | Capastrum contributors | ACP agent server for exposing a C# application as an agent. |
+| 2026-10-20 20:32:47 | [Capastrum.Acp](https://www.nuget.org/packages/Capastrum.Acp) | 1.0.0 | Capastrum contributors | ACP host for launching and orchestrating AI agents with human-in-the-loop contr… |
+| 2026-10-20 20:47:27 | [Programaris.Tenancy.Http](https://www.nuget.org/packages/Programaris.Tenancy.Http) | 0.2.0 | PROGRAMARIS | Opt-in, destination-restricted outbound tenant context propagation for HttpClie… |
+| 2026-10-20 20:55:43 | [SlipeServer.Net.Managed](https://www.nuget.org/packages/SlipeServer.Net.Managed) | 0.1.0-CI-20261020-2… | Slipe | A managed C# implementation of the MTA San Andreas net layer for Slipe Server,… |
+| 2026-10-20 20:56:02 | [Incursa.Platform.Sqlite](https://www.nuget.org/packages/Incursa.Platform.Sqlite) | 6.0.10 | Incursa | Single-host SQLite provider for Incursa Platform scheduling, messaging, coordin… |
+| 2026-10-20 21:02:16 | [Archevolt](https://www.nuget.org/packages/Archevolt) | 0.1.0 | Stephan van Stekelenburg | A standalone, Bevy-inspired entity component system for .NET 10 and C# 14. |
 
 ## Data source
 
