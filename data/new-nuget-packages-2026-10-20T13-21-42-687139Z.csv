@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-20T12:42:12.933Z,BorrowedTorch.Randomness,1.1.0,Borrowed Torch,"Seeded random streams that give the same numbers on every platform and .NET version: PCG32 with forkable sub-streams and stable string hashing, for procedural generation."
+2026-10-20T13:03:51.8Z,EtAlii.Lark,0.1.0,Peter Vrenken,"A full-featured port of the Lark parsing toolkit to .NET: Lark EBNF grammars, Earley/LALR(1)/CYK parsers, basic/contextual/dynamic lexers, tree building, transformers and visitors, plus a Roslyn source generator that turns a grammar into a type-safe parser."
+2026-10-20T13:05:37.877Z,ASEI.general-helpers,1.0.0,ASEI,"General helper library for Crestron SIMPL# and SIMPL# Pro control systems. Provides IP communications (TCP, SSH, UDP, Telnet, WebSockets, WOL), display power management, level ramping, event scheduling, file operations, math utilities, and SIMPL+ integration adapters."
