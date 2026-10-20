@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 02:21 UTC
+## Latest list — 2026-10-20 03:20 UTC
 
-New packages created between 2026-10-20 01:21 UTC and 2026-10-20 02:21 UTC.
+New packages created between 2026-10-20 02:21 UTC and 2026-10-20 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T02-21-55-701423Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T03-20-03-566712Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 02:00:59 | [RockBot.Llm.Anthropic](https://www.nuget.org/packages/RockBot.Llm.Anthropic) | 0.16.14 | Marimer LLC | Native Anthropic (Claude API) LLM provider for RockBot, with prompt caching, ex… |
-| 2026-10-20 02:07:41 | [Cosmos.OpenTelemetry.Functions](https://www.nuget.org/packages/Cosmos.OpenTelemetry.Functions) | 0.1.0 | Cosmos | Configuración OpenTelemetry del worker aislado de Azure Functions para los boun… |
+| 2026-10-20 02:38:19 | [SiameseCat.Communication](https://www.nuget.org/packages/SiameseCat.Communication) | 0.9.0 | RabitLogic | Industrial communication library for .NET: Modbus RTU/TCP, Siemens S7, pluggabl… |
+| 2026-10-20 02:46:38 | [TX.Stdf4Net](https://www.nuget.org/packages/TX.Stdf4Net) | 1.0.0 | TX.Stdf4Net | Package Description |
+| 2026-10-20 02:49:56 | [Parlot.SourceGenerator](https://www.nuget.org/packages/Parlot.SourceGenerator) | 2.0.0 | Sebastien Ros | Roslyn source generator for compiling Parlot parser combinators into optimized… |
+| 2026-10-20 02:52:59 | [OfficePDF.Sdk](https://www.nuget.org/packages/OfficePDF.Sdk) | 1.0.0 | OfficePDF | OfficePDF — high-fidelity Word to PDF conversion (cloud API and on-premise serv… |
+| 2026-10-20 03:02:15 | [YH_SDK_RM_PRINTER](https://www.nuget.org/packages/YH_SDK_RM_PRINTER) | 1.0.0 | YH_SDK_RM_PRINTER | Package Description |
 
 ## Data source
 

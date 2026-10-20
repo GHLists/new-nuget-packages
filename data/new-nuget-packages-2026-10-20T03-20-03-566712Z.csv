@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-20T02:38:19.25Z,SiameseCat.Communication,0.9.0,RabitLogic,"Industrial communication library for .NET: Modbus RTU/TCP, Siemens S7, pluggable PLC drivers, TCP/UDP/serial transports, Modbus and S7 slaves, dependency injection, health checks and metrics."
+2026-10-20T02:46:38.65Z,TX.Stdf4Net,1.0.0,TX.Stdf4Net,Package Description
+2026-10-20T02:49:56.38Z,Parlot.SourceGenerator,2.0.0,Sebastien Ros,Roslyn source generator for compiling Parlot parser combinators into optimized C# code.
+2026-10-20T02:52:59.313Z,OfficePDF.Sdk,1.0.0,OfficePDF,OfficePDF — high-fidelity Word to PDF conversion (cloud API and on-premise server).
+2026-10-20T03:02:15.39Z,YH_SDK_RM_PRINTER,1.0.0,YH_SDK_RM_PRINTER,Package Description
