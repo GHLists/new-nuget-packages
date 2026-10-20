@@ -12,29 +12,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 07:21 UTC
+## Latest list — 2026-10-20 08:22 UTC
 
-New packages created between 2026-10-20 06:21 UTC and 2026-10-20 07:21 UTC.
+New packages created between 2026-10-20 07:21 UTC and 2026-10-20 08:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T07-21-28-474517Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T08-22-04-769413Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 06:21:15 | [WebFilez.Storage.AmazonS3](https://www.nuget.org/packages/WebFilez.Storage.AmazonS3) | 1.0.0 | Matt Gordon | Amazon S3 provider for WebFilez. Register it with AddWebFilezAmazonS3(). |
-| 2026-10-20 06:21:29 | [WebFilez.Storage.AzureBlob](https://www.nuget.org/packages/WebFilez.Storage.AzureBlob) | 1.0.0 | Matt Gordon | Azure Blob Storage provider for WebFilez. Register it with AddWebFilezAzureBlob… |
-| 2026-10-20 06:21:46 | [WebFilez.Storage.GoogleCloud](https://www.nuget.org/packages/WebFilez.Storage.GoogleCloud) | 1.0.0 | Matt Gordon | Google Cloud Storage provider for WebFilez. Register it with AddWebFilezGoogleC… |
-| 2026-10-20 06:22:05 | [WebFilez.Plugins.FileRobot](https://www.nuget.org/packages/WebFilez.Plugins.FileRobot) | 1.0.0 | Matt Gordon | Optional FileRobot image editor for WebFilez. Load filerobot.js and map its id… |
-| 2026-10-20 06:22:22 | [WebFilez.Plugins.FortuneSheet](https://www.nuget.org/packages/WebFilez.Plugins.FortuneSheet) | 1.0.0 | Matt Gordon | Optional Fortune Sheet editor for WebFilez. Load fortunesheet.js and map its id… |
-| 2026-10-20 06:22:37 | [WebFilez.Plugins.SuperDoc](https://www.nuget.org/packages/WebFilez.Plugins.SuperDoc) | 1.0.0 | Matt Gordon | Optional SuperDoc editor for WebFilez. Load superdoc.js and map its id with the… |
-| 2026-10-20 06:37:20 | [Frontmatec.UpdateManagement](https://www.nuget.org/packages/Frontmatec.UpdateManagement) | 0.1.1 | Frontmatec | Updates of an installed app, whatever installed it: check, download, apply and… |
-| 2026-10-20 06:37:21 | [Frontmatec.UpdateManagement.Velopack](https://www.nuget.org/packages/Frontmatec.UpdateManagement.Velopack) | 0.1.1 | Frontmatec | Updates of an app installed with Velopack, from its update feed in the Frontmat… |
-| 2026-10-20 06:37:22 | [Frontmatec.UpdateManagement.Windows](https://www.nuget.org/packages/Frontmatec.UpdateManagement.Windows) | 0.1.1 | Frontmatec | The update check, question and progress of a WPF app, in English and Danish. |
-| 2026-10-20 06:45:58 | [Majo.Command](https://www.nuget.org/packages/Majo.Command) | 0.0.1 | Sweety Majo | A lightweight, typed command-tree library for .NET. |
-| 2026-10-20 06:48:46 | [NewLife.JT1078](https://www.nuget.org/packages/NewLife.JT1078) | 1.0.2026.1020-beta0… | 新生命开发团队 | JT/T 1078 视频通讯协议核心实现，包括RTP报文解析、音视频编解码、H.264解析 |
-| 2026-10-20 06:48:47 | [NewLife.JT1078.Server](https://www.nuget.org/packages/NewLife.JT1078.Server) | 1.0.2026.1020-beta0… | 新生命开发团队 | 基于NewLife.Net的JT1078 TCP服务端，支持RTP分包合并和设备会话管理 |
-| 2026-10-20 06:59:28 | [NewLife.JT808](https://www.nuget.org/packages/NewLife.JT808) | 1.1.2026.1020-beta0… | 新生命开发团队 | JT/T 808车辆定位协议完整实现，支持2011/2013/2019版本 |
-| 2026-10-20 07:06:09 | [ClamChart](https://www.nuget.org/packages/ClamChart) | 1.0.0 | machi_pon | MAUI charts for dashboards and widgets rendered with SkiaSharp |
-| 2026-10-20 07:12:52 | [devdeer.Libraries.AspNetCore.Blazor](https://www.nuget.org/packages/devdeer.Libraries.AspNetCore.Blazor) | 0.1.0-alpha | DEVDEER GmbH | Initialization and configuration including useful base types for ASP.NET Core B… |
+| 2026-10-20 07:22:43 | [Pickstack.Abstractions](https://www.nuget.org/packages/Pickstack.Abstractions) | 1.0.0 | Pickstack.Abstractions | Package Description |
+| 2026-10-20 07:22:57 | [Pickstack](https://www.nuget.org/packages/Pickstack) | 1.0.0 | Pickstack | Package Description |
+| 2026-10-20 07:23:14 | [Pickstack.FileManager](https://www.nuget.org/packages/Pickstack.FileManager) | 1.0.0 | Pickstack.FileManager | Package Description |
+| 2026-10-20 07:23:31 | [Pickstack.FileManager.elFinder](https://www.nuget.org/packages/Pickstack.FileManager.elFinder) | 1.0.0 | Pickstack.FileManager.elFinder | Package Description |
+| 2026-10-20 07:23:44 | [Pickstack.FileManager.ResponsiveFileManager](https://www.nuget.org/packages/Pickstack.FileManager.ResponsiveFileManager) | 1.0.0 | Pickstack.FileManager.Respons… | Package Description |
+| 2026-10-20 07:23:57 | [Pickstack.FileManager.WebFilez](https://www.nuget.org/packages/Pickstack.FileManager.WebFilez) | 1.0.0 | Pickstack.FileManager.WebFilez | Package Description |
+| 2026-10-20 07:24:08 | [Pickstack.RichTextEditor](https://www.nuget.org/packages/Pickstack.RichTextEditor) | 1.0.0 | Pickstack.RichTextEditor | Package Description |
+| 2026-10-20 07:24:21 | [Pickstack.RichTextEditor.CkEditor](https://www.nuget.org/packages/Pickstack.RichTextEditor.CkEditor) | 1.0.0 | Pickstack.RichTextEditor.CkEd… | Package Description |
+| 2026-10-20 07:24:37 | [Pickstack.RichTextEditor.Froala](https://www.nuget.org/packages/Pickstack.RichTextEditor.Froala) | 1.0.0 | Pickstack.RichTextEditor.Froa… | Package Description |
+| 2026-10-20 07:24:53 | [Pickstack.RichTextEditor.Froala5](https://www.nuget.org/packages/Pickstack.RichTextEditor.Froala5) | 1.0.0 | Pickstack.RichTextEditor.Froa… | Package Description |
+| 2026-10-20 07:25:06 | [Pickstack.RichTextEditor.TinyMce](https://www.nuget.org/packages/Pickstack.RichTextEditor.TinyMce) | 1.0.0 | Pickstack.RichTextEditor.Tiny… | Package Description |
+| 2026-10-20 07:25:13 | [LayerHop](https://www.nuget.org/packages/LayerHop) | 0.6.0 | LayerHop | C# client for the LayerHop cross-chain swap and crypto payments API (.NET and U… |
+| 2026-10-20 07:25:24 | [Pickstack.RichTextEditor.TinyMce5](https://www.nuget.org/packages/Pickstack.RichTextEditor.TinyMce5) | 1.0.0 | Pickstack.RichTextEditor.Tiny… | Package Description |
+| 2026-10-20 07:25:42 | [Pickstack.RichTextEditor.TinyMce6](https://www.nuget.org/packages/Pickstack.RichTextEditor.TinyMce6) | 1.0.0 | Pickstack.RichTextEditor.Tiny… | Package Description |
+| 2026-10-20 07:26:02 | [Pickstack.RichTextEditor.TinyMce7](https://www.nuget.org/packages/Pickstack.RichTextEditor.TinyMce7) | 1.0.0 | Pickstack.RichTextEditor.Tiny… | Package Description |
+| 2026-10-20 07:28:16 | [Formbase.Formdown](https://www.nuget.org/packages/Formbase.Formdown) | 0.28.0 | iyulab | formdown input adapter for formbase — turns a formdown schema (getSchema() JSON… |
+| 2026-10-20 07:29:21 | [DWIS.RigOS.Common.Model](https://www.nuget.org/packages/DWIS.RigOS.Common.Model) | 1.0.6 | Eric Cayeux | Package Description |
+| 2026-10-20 07:30:32 | [DWIS.RigOS.Common.LookupTableModel](https://www.nuget.org/packages/DWIS.RigOS.Common.LookupTableModel) | 1.0.6 | Eric Cayeux | Package Description |
+| 2026-10-20 07:31:40 | [DWIS.RigOS.Capabilities.LogicalStatement.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.LogicalStatement.Model) | 1.0.6 | Eric Cayeux | Package Description |
+| 2026-10-20 07:32:53 | [DWIS.RigOS.Common.FunctionalEquipment](https://www.nuget.org/packages/DWIS.RigOS.Common.FunctionalEquipment) | 1.0.6 | Eric Cayeux | Package Description |
+| 2026-10-20 07:33:55 | [DWIS.RigOS.Capabilities.FSA.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.FSA.Model) | 1.0.6 | Eric Cayeux | Package Description |
+| 2026-10-20 07:40:21 | [DWIS.RigOS.Common.Worker](https://www.nuget.org/packages/DWIS.RigOS.Common.Worker) | 1.0.6 | Eric Cayeux | Package Description |
+| 2026-10-20 07:56:33 | [Wisdom.Excel](https://www.nuget.org/packages/Wisdom.Excel) | 0.1.0 | Wisdom | 自研 XLSX 读写与旧版 XLS (BIFF8) 读取。Self-contained XLSX reader/writer and legacy XLS (… |
+| 2026-10-20 07:56:35 | [VelociTex.Core](https://www.nuget.org/packages/VelociTex.Core) | 1.0.0-preview5 | VelociTex contributors | Compact single-formula TeX parsing and layout using locked KaTeX 0.19.0 rules. |
+| 2026-10-20 07:56:36 | [VelociTex.Rendering.Direct2D](https://www.nuget.org/packages/VelociTex.Rendering.Direct2D) | 1.0.0-preview5 | VelociTex contributors | TeX formula typesetting with KaTeX 0.19.0 rules, native Windows rendering, and… |
+| 2026-10-20 07:56:36 | [VelociTex.WinUI](https://www.nuget.org/packages/VelociTex.WinUI) | 1.0.0-preview5 | VelociTex contributors | TeX formula typesetting with KaTeX 0.19.0 rules, native Windows rendering, and… |
+| 2026-10-20 08:05:46 | [csfmt.osx-arm64](https://www.nuget.org/packages/csfmt.osx-arm64) | 1.9.3 | Sator Imaging | csfmt from Sator Imaging |
+| 2026-10-20 08:05:47 | [csfmt.any](https://www.nuget.org/packages/csfmt.any) | 1.9.3 | Sator Imaging | csfmt from Sator Imaging |
+| 2026-10-20 08:05:48 | [csfmt.win-arm64](https://www.nuget.org/packages/csfmt.win-arm64) | 1.9.3 | Sator Imaging | csfmt from Sator Imaging |
+| 2026-10-20 08:05:48 | [csfmt.linux-arm64](https://www.nuget.org/packages/csfmt.linux-arm64) | 1.9.3 | Sator Imaging | csfmt from Sator Imaging |
+| 2026-10-20 08:05:49 | [csfmt.linux-x64](https://www.nuget.org/packages/csfmt.linux-x64) | 1.9.3 | Sator Imaging | csfmt from Sator Imaging |
+| 2026-10-20 08:05:50 | [csfmt.win-x64](https://www.nuget.org/packages/csfmt.win-x64) | 1.9.3 | Sator Imaging | csfmt from Sator Imaging |
+| 2026-10-20 08:07:06 | [LM-Kit.NET.Backend.Cuda12.Windows.Part0](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda12.Windows.Part0) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda12.Windows, which references it: install LM-Kit.… |
+| 2026-10-20 08:07:14 | [LM-Kit.NET.Backend.Cuda12.Windows.Part1](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda12.Windows.Part1) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda12.Windows, which references it: install LM-Kit.… |
+| 2026-10-20 08:07:27 | [LM-Kit.NET.Backend.Cuda12.Linux.Part1](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda12.Linux.Part1) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda12.Linux, which references it: install LM-Kit.NE… |
+| 2026-10-20 08:07:35 | [LM-Kit.NET.Backend.Cuda12.linux-arm64.Part0](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda12.linux-arm64.Part0) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda12.linux-arm64, which references it: install LM-… |
+| 2026-10-20 08:07:40 | [LM-Kit.NET.Backend.Cuda12.linux-arm64.Part1](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda12.linux-arm64.Part1) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda12.linux-arm64, which references it: install LM-… |
+| 2026-10-20 08:07:48 | [LM-Kit.NET.Backend.Cuda13.linux-arm64.Part0](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda13.linux-arm64.Part0) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda13.linux-arm64, which references it: install LM-… |
+| 2026-10-20 08:07:52 | [LM-Kit.NET.Backend.Cuda13.linux-arm64.Part1](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda13.linux-arm64.Part1) | 2026.10.6 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda13.linux-arm64, which references it: install LM-… |
 
 ## Data source
 

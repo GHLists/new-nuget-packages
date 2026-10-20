@@ -1,0 +1,40 @@
+created_at,package,version,authors,description
+2026-10-20T07:22:43.66Z,Pickstack.Abstractions,1.0.0,Pickstack.Abstractions,Package Description
+2026-10-20T07:22:57.667Z,Pickstack,1.0.0,Pickstack,Package Description
+2026-10-20T07:23:14.383Z,Pickstack.FileManager,1.0.0,Pickstack.FileManager,Package Description
+2026-10-20T07:23:31.51Z,Pickstack.FileManager.elFinder,1.0.0,Pickstack.FileManager.elFinder,Package Description
+2026-10-20T07:23:44.547Z,Pickstack.FileManager.ResponsiveFileManager,1.0.0,Pickstack.FileManager.ResponsiveFileManager,Package Description
+2026-10-20T07:23:57.343Z,Pickstack.FileManager.WebFilez,1.0.0,Pickstack.FileManager.WebFilez,Package Description
+2026-10-20T07:24:08.927Z,Pickstack.RichTextEditor,1.0.0,Pickstack.RichTextEditor,Package Description
+2026-10-20T07:24:21.9Z,Pickstack.RichTextEditor.CkEditor,1.0.0,Pickstack.RichTextEditor.CkEditor,Package Description
+2026-10-20T07:24:37.35Z,Pickstack.RichTextEditor.Froala,1.0.0,Pickstack.RichTextEditor.Froala,Package Description
+2026-10-20T07:24:53.647Z,Pickstack.RichTextEditor.Froala5,1.0.0,Pickstack.RichTextEditor.Froala5,Package Description
+2026-10-20T07:25:06.45Z,Pickstack.RichTextEditor.TinyMce,1.0.0,Pickstack.RichTextEditor.TinyMce,Package Description
+2026-10-20T07:25:13.43Z,LayerHop,0.6.0,LayerHop,C# client for the LayerHop cross-chain swap and crypto payments API (.NET and Unity). Fetches quotes and builds unsigned transactions; never holds keys or signs.
+2026-10-20T07:25:24.203Z,Pickstack.RichTextEditor.TinyMce5,1.0.0,Pickstack.RichTextEditor.TinyMce5,Package Description
+2026-10-20T07:25:42.283Z,Pickstack.RichTextEditor.TinyMce6,1.0.0,Pickstack.RichTextEditor.TinyMce6,Package Description
+2026-10-20T07:26:02.69Z,Pickstack.RichTextEditor.TinyMce7,1.0.0,Pickstack.RichTextEditor.TinyMce7,Package Description
+2026-10-20T07:28:16.867Z,Formbase.Formdown,0.28.0,iyulab,"formdown input adapter for formbase — turns a formdown schema (getSchema() JSON) into field hints and formdown form data into typed documents, and reports what the hint vocabulary cannot carry."
+2026-10-20T07:29:21.777Z,DWIS.RigOS.Common.Model,1.0.6,Eric Cayeux,Package Description
+2026-10-20T07:30:32.57Z,DWIS.RigOS.Common.LookupTableModel,1.0.6,Eric Cayeux,Package Description
+2026-10-20T07:31:40.197Z,DWIS.RigOS.Capabilities.LogicalStatement.Model,1.0.6,Eric Cayeux,Package Description
+2026-10-20T07:32:53.75Z,DWIS.RigOS.Common.FunctionalEquipment,1.0.6,Eric Cayeux,Package Description
+2026-10-20T07:33:55.93Z,DWIS.RigOS.Capabilities.FSA.Model,1.0.6,Eric Cayeux,Package Description
+2026-10-20T07:40:21.537Z,DWIS.RigOS.Common.Worker,1.0.6,Eric Cayeux,Package Description
+2026-10-20T07:56:33.303Z,Wisdom.Excel,0.1.0,Wisdom,自研 XLSX 读写与旧版 XLS (BIFF8) 读取。Self-contained XLSX reader/writer and legacy XLS (BIFF8) reader.
+2026-10-20T07:56:35.123Z,VelociTex.Core,1.0.0-preview5,VelociTex contributors,Compact single-formula TeX parsing and layout using locked KaTeX 0.19.0 rules.
+2026-10-20T07:56:36.017Z,VelociTex.Rendering.Direct2D,1.0.0-preview5,VelociTex contributors,"TeX formula typesetting with KaTeX 0.19.0 rules, native Windows rendering, and PNG, SVG and MathML export. Code is MIT; bundled fonts are OFL-1.1."
+2026-10-20T07:56:36.917Z,VelociTex.WinUI,1.0.0-preview5,VelociTex contributors,"TeX formula typesetting with KaTeX 0.19.0 rules, native Windows rendering, and PNG, SVG and MathML export. Code is MIT; bundled fonts are OFL-1.1."
+2026-10-20T08:05:46.837Z,csfmt.osx-arm64,1.9.3,Sator Imaging,csfmt from Sator Imaging
+2026-10-20T08:05:47.21Z,csfmt.any,1.9.3,Sator Imaging,csfmt from Sator Imaging
+2026-10-20T08:05:48.157Z,csfmt.win-arm64,1.9.3,Sator Imaging,csfmt from Sator Imaging
+2026-10-20T08:05:48.887Z,csfmt.linux-arm64,1.9.3,Sator Imaging,csfmt from Sator Imaging
+2026-10-20T08:05:49.94Z,csfmt.linux-x64,1.9.3,Sator Imaging,csfmt from Sator Imaging
+2026-10-20T08:05:50.72Z,csfmt.win-x64,1.9.3,Sator Imaging,csfmt from Sator Imaging
+2026-10-20T08:07:06.63Z,LM-Kit.NET.Backend.Cuda12.Windows.Part0,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda12.Windows, which references it: install LM-Kit.NET.Backend.Cuda12.Windows instead of this package."
+2026-10-20T08:07:14.033Z,LM-Kit.NET.Backend.Cuda12.Windows.Part1,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda12.Windows, which references it: install LM-Kit.NET.Backend.Cuda12.Windows instead of this package."
+2026-10-20T08:07:27.49Z,LM-Kit.NET.Backend.Cuda12.Linux.Part1,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda12.Linux, which references it: install LM-Kit.NET.Backend.Cuda12.Linux instead of this package."
+2026-10-20T08:07:35.2Z,LM-Kit.NET.Backend.Cuda12.linux-arm64.Part0,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda12.linux-arm64, which references it: install LM-Kit.NET.Backend.Cuda12.linux-arm64 instead of this package."
+2026-10-20T08:07:40.963Z,LM-Kit.NET.Backend.Cuda12.linux-arm64.Part1,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda12.linux-arm64, which references it: install LM-Kit.NET.Backend.Cuda12.linux-arm64 instead of this package."
+2026-10-20T08:07:48.047Z,LM-Kit.NET.Backend.Cuda13.linux-arm64.Part0,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda13.linux-arm64, which references it: install LM-Kit.NET.Backend.Cuda13.linux-arm64 instead of this package."
+2026-10-20T08:07:52.913Z,LM-Kit.NET.Backend.Cuda13.linux-arm64.Part1,2026.10.6,LM-Kit Authors,"Part of LM-Kit.NET.Backend.Cuda13.linux-arm64, which references it: install LM-Kit.NET.Backend.Cuda13.linux-arm64 instead of this package."
