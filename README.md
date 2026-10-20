@@ -12,27 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:22 UTC
+## Latest list — 2026-10-20 19:22 UTC
 
-New packages created between 2026-10-20 17:21 UTC and 2026-10-20 18:22 UTC.
+New packages created between 2026-10-20 18:22 UTC and 2026-10-20 19:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-20T18-22-16-711783Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-20T19-22-30-414084Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 17:24:45 | [APIVerve.API.BarcodeReader](https://www.nuget.org/packages/APIVerve.API.BarcodeReader) | 1.2.1 | APIVerve | Barcode Reader decodes 1D barcodes from an uploaded image or an image URL, incl… |
-| 2026-10-20 17:25:05 | [SafeMigrations.Core](https://www.nuget.org/packages/SafeMigrations.Core) | 0.1.0 | rahulnagrikar | Inspect EF Core migrations for production safety risks. |
-| 2026-10-20 17:26:08 | [SafeMigrations.Rules](https://www.nuget.org/packages/SafeMigrations.Rules) | 0.1.0 | rahulnagrikar | Inspect EF Core migrations for production safety risks. |
-| 2026-10-20 17:26:36 | [SafeMigrations.EFCore](https://www.nuget.org/packages/SafeMigrations.EFCore) | 0.1.0 | rahulnagrikar | Inspect EF Core migrations for production safety risks. |
-| 2026-10-20 17:28:04 | [Prowl.Origami.CSharp](https://www.nuget.org/packages/Prowl.Origami.CSharp) | 3.8.7 | Prowl Contributors | Roslyn backed C# language services for the Origami CodeEditor: completion, quic… |
-| 2026-10-20 17:35:50 | [PowerForge.Web.Protocols](https://www.nuget.org/packages/PowerForge.Web.Protocols) | 3.0.171 | Przemyslaw Klys | Dependency-free web interchange: IndexNow, sitemaps, syndication feeds and JSON… |
-| 2026-10-20 17:41:25 | [OmniEurope.Documents](https://www.nuget.org/packages/OmniEurope.Documents) | 1.0.0 | OmniEurope contributors | Create, edit, convert and read Word, Excel, PDF, Markdown and CSV documents, wi… |
-| 2026-10-20 17:43:17 | [Metronome.OpenAPI](https://www.nuget.org/packages/Metronome.OpenAPI) | 0.1.0 | OpenAPI, Jamie Howarth | A .NET library for accessing Metronome's OpenAPI-compatible API endpoints |
-| 2026-10-20 17:48:36 | [FinClient](https://www.nuget.org/packages/FinClient) | 0.1.1 | BizJaya TechLab S/B | Official .NET SDK for the FinCopy public API: hosted MetaTrader accounts, tradi… |
-| 2026-10-20 17:49:01 | [IBeam.Management.Identity.Target.Api](https://www.nuget.org/packages/IBeam.Management.Identity.Target.Api) | 2.16.0 | MedPACTech | Optional target API for app-scoped customer Identity management. |
-| 2026-10-20 17:49:02 | [IBeam.Management.Identity.Target.Services](https://www.nuget.org/packages/IBeam.Management.Identity.Target.Services) | 2.16.0 | MedPACTech | Optional app-scoped customer Identity management services, separate from suppor… |
-| 2026-10-20 17:50:39 | [ResXLocalization.MessageFormat](https://www.nuget.org/packages/ResXLocalization.MessageFormat) | 2.0.0 | David Liebeherr, rent-a-devel… | The opt-in ICU MessageFormat formatter for ResXLocalization: plural and select… |
-| 2026-10-20 18:03:58 | [JJConsulting.DbUp.Cli](https://www.nuget.org/packages/JJConsulting.DbUp.Cli) | 1.0.1 | JJConsulting | Local and CI SQL Server migration commands using JJConsulting.DbUp. |
+| 2026-10-20 18:24:01 | [CareJobs](https://www.nuget.org/packages/CareJobs) | 1.0.0 | CareJobs.Now | .NET client for the free CareJobs.Now US healthcare jobs API: search open jobs,… |
+| 2026-10-20 18:27:08 | [Sight.Serialization](https://www.nuget.org/packages/Sight.Serialization) | 0.1.0 | Arthur Ferre | Schema-driven binary and text serialization (SBDL format). |
+| 2026-10-20 18:28:28 | [Canducci.FileUpload.Mongo](https://www.nuget.org/packages/Canducci.FileUpload.Mongo) | 1.0.0.7 | Fulvio Canducci | MongoDB integration for Canducci.FileUpload. |
+| 2026-10-20 18:32:36 | [FocusRgb.PluginSdk](https://www.nuget.org/packages/FocusRgb.PluginSdk) | 1.0.0 | Devantix | Optional .NET process-plugin SDK for the stable FocusRGB 1.x JSON-RPC protocol. |
+| 2026-10-20 18:38:08 | [Krafs.Rimworld.Ref.Local](https://www.nuget.org/packages/Krafs.Rimworld.Ref.Local) | 1.0.0 | krafs | Use alongside Krafs.Rimworld.Ref: in Debug builds, compiles your mod against yo… |
+| 2026-10-20 18:38:56 | [Trax.StateMachine](https://www.nuget.org/packages/Trax.StateMachine) | 1.68.0 | Theauxm,mark-keaton | Portable, resumable snapshot state-machine engine. Pure: no database or I/O. Re… |
+| 2026-10-20 18:38:59 | [Trax.StateMachine.Persistence](https://www.nuget.org/packages/Trax.StateMachine.Persistence) | 1.68.0 | Theauxm,mark-keaton | Persistence for the Trax .NET snapshot state-machine engine: a user-scoped snap… |
+| 2026-10-20 18:39:03 | [Trax.StateMachine.Testing](https://www.nuget.org/packages/Trax.StateMachine.Testing) | 1.68.0 | Theauxm,mark-keaton | Cross-runtime differential conformance for Trax .NET state machines: replay a g… |
+| 2026-10-20 18:50:13 | [KamuIlanlar.Core.ServiceBus](https://www.nuget.org/packages/KamuIlanlar.Core.ServiceBus) | 1.0.1 | KamuIlanlar.com, Contributors | Transport-independent service bus contracts. |
+| 2026-10-20 18:50:14 | [KamuIlanlar.Core.ServiceBus.Wolverine](https://www.nuget.org/packages/KamuIlanlar.Core.ServiceBus.Wolverine) | 1.0.1 | KamuIlanlar.com, Contributors | Wolverine RabbitMQ transport for Core.ServiceBus. |
+| 2026-10-20 18:53:46 | [NextLevel.GameStarter](https://www.nuget.org/packages/NextLevel.GameStarter) | 1.0.0 | NextLevel | Everything a NextLevel game backend starts with, behind one AddGameStarter call… |
+| 2026-10-20 19:08:03 | [Fickl](https://www.nuget.org/packages/Fickl) | 0.1.0 | Alfonso García-Caro Núñez,Fab… | Fickl: a performance-focused fork of the Fable F# compiler |
+| 2026-10-20 19:09:35 | [Plugin.Maui.Spine.AI.Functions](https://www.nuget.org/packages/Plugin.Maui.Spine.AI.Functions) | 0.1.16 | Jonatan Söderberg | Functions the model calls, declared once for a Spine app and its server: where… |
+| 2026-10-20 19:09:39 | [Plugin.Maui.Spine.Authentication.Passkeys](https://www.nuget.org/packages/Plugin.Maui.Spine.Authentication.Passkeys) | 0.1.16 | Jonatan Söderberg | Passkeys for Spine sign-in: sign in, sign up and add a passkey to an account th… |
+| 2026-10-20 19:09:41 | [Plugin.Maui.Spine.Avatar.Tool](https://www.nuget.org/packages/Plugin.Maui.Spine.Avatar.Tool) | 0.1.16 | Jonatan Söderberg | The spine-avatar command for .spineavatar files: inspect a package, validate it… |
+| 2026-10-20 19:09:47 | [Plugin.Maui.Spine.Controls.Avatar](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Avatar) | 0.1.16 | Jonatan Söderberg | AvatarView for Spine: animated characters and ambient visuals from .spineavatar… |
+| 2026-10-20 19:09:49 | [Plugin.Maui.Spine.Controls.Avatar.Core](https://www.nuget.org/packages/Plugin.Maui.Spine.Controls.Avatar.Core) | 0.1.16 | Jonatan Söderberg | The core of Spine's avatars, without MAUI: the .spineavatar format 1.0 (a safe… |
+| 2026-10-20 19:10:09 | [Plugin.Maui.Spine.Speech](https://www.nuget.org/packages/Plugin.Maui.Spine.Speech) | 0.1.16 | Jonatan Söderberg | Text-to-speech for Spine apps with what a caption or an avatar needs to follow… |
 
 ## Data source
 
