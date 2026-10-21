@@ -12,26 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 05:20 UTC
+## Latest list — 2026-10-21 06:21 UTC
 
-New packages created between 2026-10-21 04:20 UTC and 2026-10-21 05:20 UTC.
+New packages created between 2026-10-21 05:20 UTC and 2026-10-21 06:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-21T05-20-08-365203Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-21T06-21-00-6927Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-21 04:44:35 | [NyaXZ](https://www.nuget.org/packages/NyaXZ) | 1.0.0 | Alexey Sonkin | .NET XZ (LZMA2) compress/decompress library |
-| 2026-10-21 04:50:06 | [Bitzsoft.Integrations.Translation.Abstractions](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.Abstractions) | 1.0.0 | Bitzsoft | 翻译服务抽象层 — 统一 ITranslationProvider / IAiTranslationProvider 接口、领域错误码与 11 家多供应商工厂… |
-| 2026-10-21 04:58:37 | [Stellaegis.Trash.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Trash.PostgreSQL) | 5.0.0 | FRi | PostgreSQL store for Stellaegis.Trash (schema trash): items per compartment or… |
-| 2026-10-21 04:58:37 | [Stellaegis.Trash.AspNetCore](https://www.nuget.org/packages/Stellaegis.Trash.AspNetCore) | 5.0.0 | FRi | ASP.NET Core endpoints for Stellaegis.Trash: put, list, read, restore and delet… |
-| 2026-10-21 04:58:37 | [Stellaegis.Trash](https://www.nuget.org/packages/Stellaegis.Trash) | 5.0.0 | FRi | A generic trash for an application: a serialized object goes in with its identi… |
-| 2026-10-21 05:00:38 | [Archie](https://www.nuget.org/packages/Archie) | 0.0.1 | Mattias Sundström | Architecture rules for .NET, enforced at compile time by Roslyn analyzers. |
-| 2026-10-21 05:00:40 | [Robbiblubber.Util.ConsoleToolkit](https://www.nuget.org/packages/Robbiblubber.Util.ConsoleToolkit) | 1.0.9 | Alexander Lang | The robbiblubber.org Console Utility Library provides console application utili… |
-| 2026-10-21 05:02:19 | [Bitzsoft.Integrations.Translation.Aliyun](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.Aliyun) | 1.0.0 | Bitzsoft | 阿里云机器翻译（alimt）实现 — 专业版 / 通用版 Translate，POP RPC v1 HMAC-SHA1 签名，支持 auto 源语言检测 |
-| 2026-10-21 05:05:31 | [RuleScript.LanguageServer](https://www.nuget.org/packages/RuleScript.LanguageServer) | 0.2.0 | Mick | Language Server Protocol server for RuleScript (.rules) files. |
-| 2026-10-21 05:07:13 | [Bitzsoft.Integrations.Translation.Baidu](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.Baidu) | 1.0.0 | Bitzsoft | 百度翻译开放平台实现 — 通用翻译 API（AppId + 密钥 MD5 签名），支持 auto 源语言与批量顺序翻译 |
-| 2026-10-21 05:09:54 | [LabelTool](https://www.nuget.org/packages/LabelTool) | 1.0.0 | GreatBear | WinForms 深度学习图像标注用户控件：seg 语义分割多边形、det 多边形/点/圆、负样本标记、缩略图三态进度，标注自动保存到 PNG tEXt 块（… |
-| 2026-10-21 05:12:12 | [Bitzsoft.Integrations.Translation.Tencent](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.Tencent) | 1.0.0 | Bitzsoft | 腾讯云机器翻译（TMT）实现 — TextTranslate / TextTranslateBatch / TextDetect，TC3-HMAC-SHA25… |
+| 2026-10-21 05:21:12 | [Stellaegis.Backplane.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Backplane.PostgreSQL) | 5.0.1 | FRi | Stellaegis backplane journal on PostgreSQL: the events the hub relayed, kept in… |
+| 2026-10-21 05:21:13 | [Stellaegis.Backplane.Client](https://www.nuget.org/packages/Stellaegis.Backplane.Client) | 5.0.1 | FRi | Stellaegis backplane client: the bus of a host that reaches the hub of the appl… |
+| 2026-10-21 05:21:13 | [Stellaegis.Backplane.Server](https://www.nuget.org/packages/Stellaegis.Backplane.Server) | 5.0.1 | FRi | Stellaegis backplane hub: a SignalR hub mapped in the application's host, under… |
+| 2026-10-21 05:21:14 | [Stellaegis.Backplane](https://www.nuget.org/packages/Stellaegis.Backplane) | 5.0.1 | FRi | Stellaegis backplane: the internal event bus of an application assembled from s… |
+| 2026-10-21 05:21:36 | [Bitzsoft.Integrations.Translation.DeepL](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.DeepL) | 1.0.0 | Bitzsoft | DeepL API 实现 — v2/translate 原生批量与 detected_source_language 回显，glossary / contex… |
+| 2026-10-21 05:22:29 | [Stellaegis.Operations.AspNetCore](https://www.nuget.org/packages/Stellaegis.Operations.AspNetCore) | 5.0.0 | FRi | ASP.NET Core endpoints for Stellaegis.Operations: launch, follow and cancel the… |
+| 2026-10-21 05:22:29 | [Stellaegis.Operations.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Operations.PostgreSQL) | 5.0.0 | FRi | PostgreSQL stores for Stellaegis.Operations (schema ops): the jobs, claimed ato… |
+| 2026-10-21 05:22:30 | [Stellaegis.Operations](https://www.nuget.org/packages/Stellaegis.Operations) | 5.0.0 | FRi | Jobs run outside requests, in a compartment or on the assembly: launched by a u… |
+| 2026-10-21 05:26:26 | [Bitzsoft.Integrations.Translation.Google](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.Google) | 1.0.0 | Bitzsoft | Google Cloud Translation v2 官方 API 实现（非免费网关）— q 数组原生批量、detect 检测含置信度、languages… |
+| 2026-10-21 05:31:27 | [Bitzsoft.Integrations.Translation.AI.Tongyi](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.AI.Tongyi) | 1.0.0 | Bitzsoft | 阿里云百炼通义翻译（Qwen-MT）实现 — OpenAI 兼容端点 + translation_options 原生术语干预（terms）与领域提示（dom… |
+| 2026-10-21 05:38:59 | [GameSharp.Random](https://www.nuget.org/packages/GameSharp.Random) | 1.0.0 | willbldn | High-performance, zero-allocation random generation and procedural tools for .N… |
+| 2026-10-21 05:39:15 | [Bitzsoft.Integrations.Translation.AI.Baidu](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.AI.Baidu) | 1.0.0 | Bitzsoft | 百度大模型文本翻译实现 — 翻译指令（reference）注入风格与术语约束、控制台术语库干预（needIntervene）、llm/nmt 双引擎，实现 I… |
+| 2026-10-21 05:44:40 | [Bitzsoft.Integrations.Translation.AI.Volcengine](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.AI.Volcengine) | 1.0.0 | Bitzsoft | 火山引擎机器翻译大模型实现 — matx_translate 端点原生批量（单次 16 条）与术语直传（corpus.glossary_list / 控制台术… |
+| 2026-10-21 05:48:50 | [Bitzsoft.Integrations.Translation.AI.OpenAI](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.AI.OpenAI) | 1.0.0 | Bitzsoft | OpenAI 兼容网关大模型翻译实现 — 通吃 OpenAI / 智谱 GLM / DeepSeek / Kimi / 通义千问 compatible 端点，… |
+| 2026-10-21 05:53:06 | [Indiko.Blocks.AI.OpenRouter](https://www.nuget.org/packages/Indiko.Blocks.AI.OpenRouter) | 4.3.1 | INDIKO | Building Blocks AI OpenRouter: one API key for hundreds of models, with provide… |
+| 2026-10-21 05:53:31 | [Bitzsoft.Integrations.Translation.AI.Anthropic](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.AI.Anthropic) | 1.0.0 | Bitzsoft | Anthropic Claude 大模型翻译实现 — 复用既有 AI.Anthropic 原生 Messages 适配器，法律术语约束提示词 + 分段回拼 +… |
+| 2026-10-21 05:57:13 | [CSEPDI.LicenseGenDll](https://www.nuget.org/packages/CSEPDI.LicenseGenDll) | 1.0.0 | Eziriz | .NET Reactor License Gen SDK，支持 .NET Framework 4.x / .NET Core / .NET 5+ |
+| 2026-10-21 05:58:20 | [Bitzsoft.Integrations.Translation.All](https://www.nuget.org/packages/Bitzsoft.Integrations.Translation.All) | 1.0.0 | Bitzsoft | 翻译服务聚合包 — 传统机翻（阿里云 / 百度 / 腾讯云 / 有道 / DeepL / Google 官方）+ AI 翻译（通义 Qwen-MT / 百度大… |
 
 ## Data source
 
