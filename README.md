@@ -12,19 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 00:21 UTC
+## Latest list — 2026-10-21 01:20 UTC
 
-New packages created between 2026-10-20 23:22 UTC and 2026-10-21 00:21 UTC.
+New packages created between 2026-10-21 00:21 UTC and 2026-10-21 01:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-21T00-21-41-740253Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-21T01-20-14-983746Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-20 23:25:11 | [Oracle.ManagedDataAccess.DependencyInjection](https://www.nuget.org/packages/Oracle.ManagedDataAccess.DependencyInjection) | 23.26.400 | Oracle | PLACEHOLDER: This NuGet package supports dependency injection for ODP.NET Core. |
-| 2026-10-21 00:01:09 | [FiveM.Nui.Contracts](https://www.nuget.org/packages/FiveM.Nui.Contracts) | 1.0.0 | Rainbe | Generates TypeScript contract declarations from C# NUI DTOs. |
-| 2026-10-21 00:01:28 | [FiveM.Nui](https://www.nuget.org/packages/FiveM.Nui) | 1.0.0 | Rainbe | Modern, high-performance, strongly typed bridge between C# client scripts and N… |
-| 2026-10-21 00:06:24 | [TikTokShop.Api](https://www.nuget.org/packages/TikTokShop.Api) | 0.1.0 | Isaac Kogan | TikTok Shop API client for .NET 8+: signed requests, shop cipher handling, the… |
-| 2026-10-21 00:12:47 | [Microsoft.PowerApps.AppInsights.BatchedTelemetry](https://www.nuget.org/packages/Microsoft.PowerApps.AppInsights.BatchedTelemetry) | 4.0.46 | Microsoft | This package contains the assemblies required for logging telemetry to Applicat… |
+| 2026-10-21 00:48:06 | [heirowDebug.ProjectZ](https://www.nuget.org/packages/heirowDebug.ProjectZ) | 2026.10.20.1 | heirowDebug.ProjectZ | Native Project-Z live object inspection, editing, typed timelines and bounded s… |
+| 2026-10-21 00:48:08 | [heirowDebug.WPF](https://www.nuget.org/packages/heirowDebug.WPF) | 2026.10.20.1 | heirowDebug.WPF | Live visual debugging for WPF applications with heirowDebug. |
+| 2026-10-21 00:49:18 | [APIVerve.API.Magic8Ball](https://www.nuget.org/packages/APIVerve.API.Magic8Ball) | 1.2.2 | APIVerve | Magic 8-Ball is a fun tool that provides random predictions and answers like th… |
+| 2026-10-21 00:49:21 | [APIVerve.API.JobPostings](https://www.nuget.org/packages/APIVerve.API.JobPostings) | 1.2.2 | APIVerve | Job Postings is a jobs API that returns the open positions on a company's publi… |
+| 2026-10-21 00:49:25 | [APIVerve.API.TickerNews](https://www.nuget.org/packages/APIVerve.API.TickerNews) | 1.2.2 | APIVerve | Ticker News is a stock news API that returns the latest news stories about one… |
+| 2026-10-21 00:49:35 | [APIVerve.API.IBondRates](https://www.nuget.org/packages/APIVerve.API.IBondRates) | 1.2.2 | APIVerve | I-Bond Rates provides current and historical interest rates for US Series I Sav… |
+| 2026-10-21 00:49:45 | [APIVerve.API.JobSearch](https://www.nuget.org/packages/APIVerve.API.JobSearch) | 1.2.2 | APIVerve | Job Search is a jobs API that searches the open positions at thousands of compa… |
+| 2026-10-21 00:49:48 | [APIVerve.API.BalanceSheet](https://www.nuget.org/packages/APIVerve.API.BalanceSheet) | 1.2.2 | APIVerve | Balance Sheet is a stock balance sheet API that returns the statement of financ… |
+| 2026-10-21 00:49:54 | [APIVerve.API.DTCLookup](https://www.nuget.org/packages/APIVerve.API.DTCLookup) | 1.2.2 | APIVerve | DTC Lookup explains OBD-II diagnostic trouble codes such as P0301 or U0100. It… |
+| 2026-10-21 00:50:03 | [APIVerve.API.TickerSymbols](https://www.nuget.org/packages/APIVerve.API.TickerSymbols) | 1.2.2 | APIVerve | Ticker Symbols identifies what a ticker symbol is and where it trades. Look up… |
+| 2026-10-21 00:54:52 | [Vestigium.Helpers.FileSystemPaths](https://www.nuget.org/packages/Vestigium.Helpers.FileSystemPaths) | 1.4.0 | Vestigium | Path meaning: resolve, sanitize, tokenize, and long-path handling. |
+| 2026-10-21 01:03:35 | [Haukcode.SigNet](https://www.nuget.org/packages/Haukcode.SigNet) | 0.1.4 | Hakan Lindestaf | A Sig-Net (secure CoAP-based DMX512 over IP) library for .NET: Sender role and… |
+| 2026-10-21 01:09:29 | [Paicore.DocumentAPI](https://www.nuget.org/packages/Paicore.DocumentAPI) | 1.0.1 | Paicore | Document API for ASP.NET Core |
 
 ## Data source
 
