@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-21T04:44:35.513Z,NyaXZ,1.0.0,Alexey Sonkin,.NET XZ (LZMA2) compress/decompress library
+2026-10-21T04:50:06.4Z,Bitzsoft.Integrations.Translation.Abstractions,1.0.0,Bitzsoft,翻译服务抽象层 — 统一 ITranslationProvider / IAiTranslationProvider 接口、领域错误码与 11 家多供应商工厂（阿里云 / 百度 / 腾讯云 / 有道 / DeepL / Google / OpenAI 兼容 / Anthropic / 通义 / 百度大模型 / 火山引擎）
+2026-10-21T04:58:37.043Z,Stellaegis.Trash.PostgreSQL,5.0.0,FRi,"PostgreSQL store for Stellaegis.Trash (schema trash): items per compartment or shared, payloads encrypted with pgcrypto, row-level security, the schema installed and verified through Stellaegis.Primitives.Data."
+2026-10-21T04:58:37.493Z,Stellaegis.Trash.AspNetCore,5.0.0,FRi,"ASP.NET Core endpoints for Stellaegis.Trash: put, list, read, restore and delete, mapped on a group the host provides in the space the host resolves; the purges apart, as administration acting on compartments."
+2026-10-21T04:58:37.86Z,Stellaegis.Trash,5.0.0,FRi,"A generic trash for an application: a serialized object goes in with its identity, comes back out to be recreated under the same identity, or is purged after its deadline. Isolated per compartment or shared, every call under an actor."
+2026-10-21T05:00:38.32Z,Archie,0.0.1,Mattias Sundström,"Architecture rules for .NET, enforced at compile time by Roslyn analyzers."
+2026-10-21T05:00:40.407Z,Robbiblubber.Util.ConsoleToolkit,1.0.9,Alexander Lang,The robbiblubber.org Console Utility Library provides console application utility classes.
+2026-10-21T05:02:19.187Z,Bitzsoft.Integrations.Translation.Aliyun,1.0.0,Bitzsoft,阿里云机器翻译（alimt）实现 — 专业版 / 通用版 Translate，POP RPC v1 HMAC-SHA1 签名，支持 auto 源语言检测
+2026-10-21T05:05:31.713Z,RuleScript.LanguageServer,0.2.0,Mick,Language Server Protocol server for RuleScript (.rules) files.
+2026-10-21T05:07:13.4Z,Bitzsoft.Integrations.Translation.Baidu,1.0.0,Bitzsoft,百度翻译开放平台实现 — 通用翻译 API（AppId + 密钥 MD5 签名），支持 auto 源语言与批量顺序翻译
+2026-10-21T05:09:54.887Z,LabelTool,1.0.0,GreatBear,WinForms 深度学习图像标注用户控件：seg 语义分割多边形、det 多边形/点/圆、负样本标记、缩略图三态进度，标注自动保存到 PNG tEXt 块（关键字 Label）。嵌入 AnnotationPanel 即可使用。
+2026-10-21T05:12:12.64Z,Bitzsoft.Integrations.Translation.Tencent,1.0.0,Bitzsoft,腾讯云机器翻译（TMT）实现 — TextTranslate / TextTranslateBatch / TextDetect，TC3-HMAC-SHA256 签名，原生批量与独立语言检测
