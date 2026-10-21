@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-21T02:31:40.753Z,Octeka.Ui.Wpf.WidgetsPanel,1.0.0,Patrick Robichaud,"Modular, restylable WPF widget dashboard panel control with flexible 24-column grid layout, drag-and-drop snapping, multi-edge resizing, and collision avoidance."
+2026-10-21T02:31:41.397Z,Octeka.Ui.Wpf.WidgetsPanel.Abstractions,1.0.0,Patrick Robichaud,"Core abstractions, interfaces, and contracts for the Octeka WidgetsPanel framework including IWidget and IWidgetsGridEngine."
+2026-10-21T02:36:16.883Z,Boss.OpenApi.Extract,2026.10.5,nuoyi.cc,星桥项目开放服务取值组件
+2026-10-21T02:42:18.11Z,Snail.Toolkit.Cleanup,0.1.0,orldev,"The part of cleaning up what agents and tasks leave behind that does not depend on where it runs: who owns what and how that is known, what a cleanup may remove, and in which order. No dependencies; the places resources live in are the host's."
+2026-10-21T02:58:23.467Z,Azalea.Native,1.0.0,hominglesi,Bindings for native libraries used in Azalea projects.
+2026-10-21T02:58:23.47Z,Snail.Toolkit.Nomad,0.3.0,orldev,"Typed client for the HashiCorp Nomad HTTP API over IHttpClientFactory: parse HCL2 jobs with variables, register, read, list, scale and stop jobs, read allocations, evaluations, nodes and task logs."
+2026-10-21T03:01:05.89Z,Musictopia2.A21DiceGame,10.0.1,A21DiceGame,Package Description
+2026-10-21T03:01:31.957Z,Musictopia2.A8RoundRummy,10.0.1,A8RoundRummy,Package Description
+2026-10-21T03:01:54.333Z,Musictopia2.AccordianSolitaire,10.0.1,AccordianSolitaire,Package Description
+2026-10-21T03:02:19.123Z,Musictopia2.Aggravation,10.0.1,Aggravation,Package Description
+2026-10-21T03:02:48.28Z,Musictopia2.AgnesSolitaire,10.0.1,AgnesSolitaire,Package Description
+2026-10-21T03:03:18.87Z,Musictopia2.AlternationSolitaire,10.0.1,AlternationSolitaire,Package Description
+2026-10-21T03:03:44.99Z,Musictopia2.Backgammon,10.0.1,Backgammon,Package Description
+2026-10-21T03:04:13.71Z,Musictopia2.BakersDozenSolitaire,10.0.1,BakersDozenSolitaire,Package Description
+2026-10-21T03:04:37.72Z,Musictopia2.Battleship,10.0.1,Battleship,Package Description
+2026-10-21T03:05:01.41Z,Musictopia2.BattleshipLite,10.0.1,BattleshipLite,Package Description
+2026-10-21T03:05:27.057Z,Musictopia2.BeleaguredCastle,10.0.1,BeleaguredCastle,Package Description
+2026-10-21T03:05:53.897Z,Musictopia2.Bingo,10.0.1,Bingo,Package Description
+2026-10-21T03:06:23.067Z,Musictopia2.BisleySolitaire,10.0.1,BisleySolitaire,Package Description
+2026-10-21T03:06:50.827Z,Musictopia2.Blackjack,10.0.1,Blackjack,Package Description
+2026-10-21T03:07:21.543Z,Musictopia2.BladesOfSteel,10.0.1,BladesOfSteel,Package Description
+2026-10-21T03:07:49.787Z,Musictopia2.BlockElevenSolitaire,10.0.1,BlockElevenSolitaire,Package Description
+2026-10-21T03:08:10.693Z,Musictopia2.BowlingDiceGame,10.0.1,BowlingDiceGame,Package Description
+2026-10-21T03:08:34.217Z,Musictopia2.CalculationSolitaire,10.0.1,CalculationSolitaire,Package Description
+2026-10-21T03:08:58.827Z,Musictopia2.CaliforniaJack,10.0.1,CaliforniaJack,Package Description
+2026-10-21T03:09:27.177Z,Musictopia2.Candyland,10.0.1,Candyland,Package Description
+2026-10-21T03:09:49.333Z,Musictopia2.CaptiveQueensSolitaire,10.0.1,CaptiveQueensSolitaire,Package Description
+2026-10-21T03:10:20.127Z,Musictopia2.CarpetSolitaire,10.0.1,CarpetSolitaire,Package Description
+2026-10-21T03:10:50.02Z,Musictopia2.Checkers,10.0.1,Checkers,Package Description
+2026-10-21T03:11:16.543Z,Musictopia2.Chess,10.0.1,Chess,Package Description
+2026-10-21T03:11:38.89Z,Musictopia2.Chinazo,10.0.1,Chinazo,Package Description
+2026-10-21T03:12:34.123Z,Musictopia2.ClockSolitaire,10.0.1,ClockSolitaire,Package Description
