@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-21T01:23:59.203Z,Inertia.Net.Templates,1.4.0,Inertia.Net contributors,"dotnet new templates for Inertia.js v3 apps on ASP.NET Core with Inertia.Net: React, Vue or Svelte with Vite."
+2026-10-21T01:55:10.193Z,HYS.Core.MassTransit,3.1.0,HYS,HYS.Core MassTransit 消息基础设施模块，提供 RabbitMQ + EF Core Transactional Outbox 集成
+2026-10-21T01:55:38.287Z,HYS.Core.OpenTelemetry,3.1.0,yyl,OpenTelemetry 可观测性基础设施，支持 Traces、Metrics、Logs 三大支柱
+2026-10-21T01:59:24.783Z,CCP.RoleAccessScanner,1.0.0,CCP Team,Scan and log ASP.NET Core controller/action/role info to centralized database.
+2026-10-21T02:05:56.513Z,Authsignal.Maui,0.1.0,Authsignal,Authsignal SDK for .NET MAUI. Wraps the Authsignal iOS and Android SDKs.
+2026-10-21T02:05:58.48Z,Authsignal.Maui.Binding.iOS,0.1.0,Authsignal,Native iOS binding used by Authsignal.Maui. Reference Authsignal.Maui instead.
+2026-10-21T02:06:01.94Z,Authsignal.Maui.Binding.Android,0.1.0,Authsignal,Native Android binding used by Authsignal.Maui. Reference Authsignal.Maui instead.
