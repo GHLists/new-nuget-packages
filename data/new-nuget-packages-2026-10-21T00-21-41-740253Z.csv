@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-20T23:25:11.13Z,Oracle.ManagedDataAccess.DependencyInjection,23.26.400,Oracle,PLACEHOLDER: This NuGet package supports dependency injection for ODP.NET Core.
+2026-10-21T00:01:09.43Z,FiveM.Nui.Contracts,1.0.0,Rainbe,Generates TypeScript contract declarations from C# NUI DTOs.
+2026-10-21T00:01:28.547Z,FiveM.Nui,1.0.0,Rainbe,"Modern, high-performance, strongly typed bridge between C# client scripts and NUI frontends for FiveM."
+2026-10-21T00:06:24.263Z,TikTokShop.Api,0.1.0,Isaac Kogan,"TikTok Shop API client for .NET 8+: signed requests, shop cipher handling, the OAuth helper, webhook verification with typed events, and typed models for every Partner API operation. Unofficial. Not affiliated with or endorsed by TikTok or ByteDance."
+2026-10-21T00:12:47.27Z,Microsoft.PowerApps.AppInsights.BatchedTelemetry,4.0.46,Microsoft,This package contains the assemblies required for logging telemetry to Application Insights.
