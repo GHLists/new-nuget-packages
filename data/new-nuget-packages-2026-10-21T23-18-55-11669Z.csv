@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-21T22:22:53.113Z,rmg.UpdateClient,3.7.61021.1,Jonathan Dewalt,Startup update check and updater bootstrap for rmg WPF applications that update from a network share via rmg.AppUpdater.
+2026-10-21T22:24:58.74Z,Respire.RateLimiting,0.11.0,Tom Hurst,Redis-backed named and partitioned ASP.NET Core rate limiting policies.
+2026-10-21T22:24:59.817Z,Respire.Gcp,0.11.0,Tom Hurst,Google Cloud Memorystore IAM credential provider for Respire.
+2026-10-21T22:25:24.147Z,Respire.Templates,0.11.0,Tom Hurst,Project templates for applications using Respire and Redis.
+2026-10-21T22:25:36.25Z,Respire.Testing.StackExchangeCompat,0.11.0,Tom Hurst,In-memory test fixtures for the supported StackExchange.Redis compatibility subset.
+2026-10-21T22:50:45.92Z,StructuredConcurrency,0.1.0,Gokhan Ertogan,"Structured concurrency for .NET: child tasks run inside a scope that completes only when all of them have finished, and the first failure cancels the rest."
+2026-10-21T22:51:41.59Z,Basic.Reference.Assemblies.Net481,1.8.13,jaredpar,This package provides reference assemblies for use with Roslyn Compilation objects. This greatly simplifies the work involved in doing in-memory compilations with the Microsoft.CodeAnalysis API. Developers can now create correct Compilations with reference sets from all of the major target framewor…
+2026-10-21T22:51:58.17Z,Sudzekai.WebOs.Core,1.0.0,Sudzekai,"Sudzekai WebOS plugin core types, descriptors, and utilities."
+2026-10-21T22:51:58.813Z,Sudzekai.WebOs.Hosting,1.0.0,Sudzekai,Sudzekai WebOS plugin host infrastructure for ASP.NET Core applications.
+2026-10-21T22:51:59.363Z,Sudzekai.WebOs.Plugin,1.0.0,Sudzekai,Sudzekai WebOS plugin builder and SDK for creating native plugins.
+2026-10-21T22:56:25.69Z,OwlDomain.SDL3.Image.Native,3.4.8,OwlDomain,Native libraries for SDL3_Image.
+2026-10-21T23:01:45.337Z,SocialPoster.Posting,0.5.0,Isaac Levin,"Post text and media to X, Bluesky, LinkedIn, Mastodon and Threads from any .NET app. No database, UI or ASP.NET required."
+2026-10-21T23:02:20.683Z,SocialPoster.Core,0.5.0,Isaac Levin,"Reusable SocialPoster app services: SQLite storage, contacts, scheduling and the Copilot account finder. Posting itself lives in SocialPoster.Posting."
+2026-10-21T23:02:33.903Z,Riddler.Uxid,1.0.0,John Thornton,"Prefixed, K-sortable identifiers a person can read: random, deterministic and monotonic generation, decoding and validity checks. Follows the uxid wire format and passes its conformance corpus. No dependencies; netstandard2.0 and net10.0."
+2026-10-21T23:02:40.72Z,SocialPoster.Components,0.5.0,Isaac Levin,Embeddable SocialPoster Blazor components and routed UI for interactive server hosts.
