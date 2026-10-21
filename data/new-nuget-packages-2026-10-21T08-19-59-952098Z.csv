@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-21T07:27:16.803Z,MyStackBlazor.Calendar,1.4.0,Vilas Sagar,"Full-featured calendar and scheduler component for MyStackBlazor. Supports Day, Week, WorkWeek, Month, Year, Agenda, and Timeline views. Includes recurring events, multi-person calendars, category filtering, mini-calendar sidebar, and add/edit/delete dialogs. Works with Blazor WASM, Blazor Server,…"
+2026-10-21T07:43:50.557Z,CSEPDI.Update,1.0.26.1021,CSEPDI,系统更新
+2026-10-21T07:48:45.587Z,Sallyport,0.1.0,Jiarong Gu,"An OpenVPN-compatible client in pure .NET: one profile's tunnel inside your process, with a loopback SOCKS5 proxy, an HttpClient handler and DNS through it — no driver, no administrator, no package beyond the base library. Written from the protocol, not OpenVPN's code. Not affiliated with OpenVPN I…"
+2026-10-21T08:00:46.547Z,TheBuilder.AIImageDisclosure,0.1.0,Daniel Schmidt,Classify fully AI-generated and partially AI-modified Umbraco images from C2PA Content Credentials.
+2026-10-21T08:00:48.333Z,TheBuilder.AIImageDisclosure.OpenAI,0.1.0,Daniel Schmidt,Optional OpenAI SynthID verification fallback for AI Image Disclosure.
+2026-10-21T08:00:51.94Z,TheBuilder.AIImageDisclosure.OpenAI.UmbracoAI,0.1.0,Daniel Schmidt,Optional Umbraco.AI connection adapter for AI Image Disclosure OpenAI provenance.
+2026-10-21T08:11:38.223Z,seedunk.net,0.9.0.2610,seedunk,暂无

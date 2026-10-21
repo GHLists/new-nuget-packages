@@ -12,26 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 07:22 UTC
+## Latest list — 2026-10-21 08:19 UTC
 
-New packages created between 2026-10-21 06:21 UTC and 2026-10-21 07:22 UTC.
+New packages created between 2026-10-21 07:22 UTC and 2026-10-21 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-21T07-22-38-969082Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-21T08-19-59-952098Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-21 06:27:35 | [MyLibery](https://www.nuget.org/packages/MyLibery) | 1.1.2.12 | jack.chang | Some useful function. |
-| 2026-10-21 06:38:52 | [Blazor.AI.Core](https://www.nuget.org/packages/Blazor.AI.Core) | 1.0.0 | Gravicode Studios | Blazor.AI core runtime: multi-provider IChatClient factory (OpenAI, Azure OpenA… |
-| 2026-10-21 06:38:53 | [Blazor.AI.RAG](https://www.nuget.org/packages/Blazor.AI.RAG) | 1.0.0 | Gravicode Studios | Blazor.AI retrieval-augmented generation: document ingestion (PDF, text, markdo… |
-| 2026-10-21 06:38:53 | [Blazor.AI.Decision](https://www.nuget.org/packages/Blazor.AI.Decision) | 1.0.0 | Gravicode Studios | Blazor.AI decision intelligence: rules engine, DMN-style decision tables, decis… |
-| 2026-10-21 06:38:54 | [Blazor.AI.Visualization](https://www.nuget.org/packages/Blazor.AI.Visualization) | 1.0.0 | Gravicode Studios | Blazor.AI visual analytics: AI dashboards, realtime, prediction and forecast ch… |
-| 2026-10-21 06:38:54 | [Blazor.AI.Bio](https://www.nuget.org/packages/Blazor.AI.Bio) | 1.0.0 | Gravicode Studios | Blazor.AI biology analysis components powered by Biotech.Net: DNA sequence anal… |
-| 2026-10-21 06:38:55 | [Blazor.AI.Analytics](https://www.nuget.org/packages/Blazor.AI.Analytics) | 1.0.0 | Gravicode Studios | Blazor.AI machine learning, data science and reinforcement learning workbenches… |
-| 2026-10-21 06:38:55 | [Blazor.AI.Abstractions](https://www.nuget.org/packages/Blazor.AI.Abstractions) | 1.0.0 | Gravicode Studios | Blazor.AI contracts: provider options, vector index, smart-component contracts,… |
-| 2026-10-21 06:38:56 | [Blazor.AI.Components](https://www.nuget.org/packages/Blazor.AI.Components) | 1.0.0 | Gravicode Studios | Blazor.AI Razor components: Smart Components (SmartPaste, SmartTextArea, SmartC… |
-| 2026-10-21 06:38:56 | [Blazor.AI.Agents](https://www.nuget.org/packages/Blazor.AI.Agents) | 1.0.0 | Gravicode Studios | Blazor.AI agents: agent studio, tool calling, task board, memory viewer, debugg… |
-| 2026-10-21 06:38:57 | [Blazor.AI.Templates](https://www.nuget.org/packages/Blazor.AI.Templates) | 1.0.0 | Gravicode Studios | dotnet new templates for Blazor.AI: a Blazor Web App wired with AI providers, c… |
-| 2026-10-21 06:38:57 | [Blazor.AI.LocalModels](https://www.nuget.org/packages/Blazor.AI.LocalModels) | 1.0.0 | Gravicode Studios | Blazor.AI Hugging Face and local models: model hub browser, downloader, inferen… |
+| 2026-10-21 07:27:16 | [MyStackBlazor.Calendar](https://www.nuget.org/packages/MyStackBlazor.Calendar) | 1.4.0 | Vilas Sagar | Full-featured calendar and scheduler component for MyStackBlazor. Supports Day,… |
+| 2026-10-21 07:43:50 | [CSEPDI.Update](https://www.nuget.org/packages/CSEPDI.Update) | 1.0.26.1021 | CSEPDI | 系统更新 |
+| 2026-10-21 07:48:45 | [Sallyport](https://www.nuget.org/packages/Sallyport) | 0.1.0 | Jiarong Gu | An OpenVPN-compatible client in pure .NET: one profile's tunnel inside your pro… |
+| 2026-10-21 08:00:46 | [TheBuilder.AIImageDisclosure](https://www.nuget.org/packages/TheBuilder.AIImageDisclosure) | 0.1.0 | Daniel Schmidt | Classify fully AI-generated and partially AI-modified Umbraco images from C2PA… |
+| 2026-10-21 08:00:48 | [TheBuilder.AIImageDisclosure.OpenAI](https://www.nuget.org/packages/TheBuilder.AIImageDisclosure.OpenAI) | 0.1.0 | Daniel Schmidt | Optional OpenAI SynthID verification fallback for AI Image Disclosure. |
+| 2026-10-21 08:00:51 | [TheBuilder.AIImageDisclosure.OpenAI.UmbracoAI](https://www.nuget.org/packages/TheBuilder.AIImageDisclosure.OpenAI.UmbracoAI) | 0.1.0 | Daniel Schmidt | Optional Umbraco.AI connection adapter for AI Image Disclosure OpenAI provenanc… |
+| 2026-10-21 08:11:38 | [seedunk.net](https://www.nuget.org/packages/seedunk.net) | 0.9.0.2610 | seedunk | 暂无 |
 
 ## Data source
 
