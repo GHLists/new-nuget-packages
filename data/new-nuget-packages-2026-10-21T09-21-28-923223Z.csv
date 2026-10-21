@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-21T08:20:28.893Z,Umbraco.Community.PropertyAuditTool,0.4.0,Kim Gordon Taanning,"Read-only Umbraco backoffice audit for finding incomplete or matching content across document types, element types, pages and blocks."
+2026-10-21T08:29:45.05Z,VOCsReminder,1.0.0,Estrella Zhang,VOCs色谱设备备忘录中心库可帮助您便捷实现磁盘容量不足告警和设备模块维护到期提醒，并通过清晰的接口与应用层 UI 集成。支持 SQLite 本地数据存储及检测，后续计划扩展更多提醒类型和通知能力。
+2026-10-21T08:30:01.697Z,PCHMI.NativeSQLite,1.0.0,GreatBear,Minimal SQLite wrapper for .NET with win-x64 and win-x86 native binaries. Works on net8.0 and .NET Framework 4.6.1 (x86 and x64 both supported). Zero dependencies. No Linux/macOS payloads. Contains SQLite binaries (public domain).
+2026-10-21T08:35:58.9Z,ProduceSelf.Base.Compression,2.1.0,沧海的频道,沧海的频道基础工具类库的压缩部分：基于 SharpCompress 的多格式压缩解压与进度回调。
+2026-10-21T08:42:47.12Z,SourceOrrery,0.1.1,James Melvin,"Read secrets from a SourceOrrery vault. Secrets belong to the runtime, not the repository."
+2026-10-21T09:07:20.33Z,Devinno.Communication,0.1.0,Devinno,"Industrial device communication library for .NET 8 — Modbus RTU/TCP, LS CNet/FEnet, Mitsubishi MC, Siemens S7, Omron FINS, TextComm, MQTT, SECS/GEM (HSMS, SECS-I, GEM equipment and host, E30). XML configuration with XSD schemas."
+2026-10-21T09:08:13.963Z,Umbraco.Community.Unlog,18.0.1,skttl,Retention rules for Umbraco's Serilog file logs.
+2026-10-21T09:09:10.953Z,NativeSQLite,1.0.0,GreatBear,Minimal SQLite wrapper for .NET with win-x64 and win-x86 native binaries. Works on net8.0 and .NET Framework 4.6.1 (x86 and x64 both supported). Zero dependencies. No Linux/macOS payloads. Contains SQLite binaries (public domain).
+2026-10-21T09:12:59.627Z,NetQuota.Firestore,1.0.0,Mihai Dumitru,Google Cloud Firestore transactional storage adapter for NetQuota with TTL expiration and server-side clock protection.
+2026-10-21T09:13:02.403Z,NetQuota.Postgres,1.0.0,Mihai Dumitru,"PostgreSQL storage adapter for NetQuota with row-locked transactions, promotions, pre-paid credits, cross-identity merges and audit logs."
+2026-10-21T09:13:03.12Z,NetQuota,1.0.0,Mihai Dumitru,"Production-ready subscription quota and hybrid rate-limiting engine for .NET (anniversary billing, prorated tier changes, forever credits, period-scoped distinct keys, tiered storage, promotions, merge user, and OpenTelemetry metrics)."
+2026-10-21T09:13:03.93Z,NetQuota.Redis,1.0.0,Mihai Dumitru,"Redis storage adapter for NetQuota using atomic Lua scripts for quotas, pre-paid credits, promotions and rate limiting."
+2026-10-21T09:13:05.42Z,NetQuota.Billing,1.0.0,Mihai Dumitru,"Billing webhook integrations for NetQuota: Stripe and RevenueCat parsing, verification, checkout helpers, transfers and rate limiting."
