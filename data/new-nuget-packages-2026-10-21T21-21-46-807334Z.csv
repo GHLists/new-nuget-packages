@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-21T20:25:41.19Z,BorrowedTorch.UI,1.0.0,Vladyslav Pysarenko,"UI framework for MonoGame games on Windows (DesktopGL and WindowsDX): WPF-style measure and arrange layout with margins, alignments and fit-to-content sizes; dependency properties that are set by hand, by styles or bound to view models; and ready-made controls such as buttons, check boxes, sliders,…"
+2026-10-21T20:31:25.263Z,RifVenezuela,0.0.1,Wilmer Ferreira,"Validation, parsing, and formatting for Venezuelan tax identification numbers (RIF)."
+2026-10-21T20:32:02.097Z,Umbraco.Community.AI.Pinecone,0.9.0,Lee Mills,"An Umbraco AI embeddings provider that generates vectors with Pinecone's hosted embedding models, so Umbraco AI Search and anything else that needs embeddings can use Pinecone."
+2026-10-21T20:39:26.33Z,Carbon.MicroData,0.1.0,Carbon.MicroData,"Reads HTML microdata (itemscope, itemprop) into a tree of nodes"
+2026-10-21T20:41:07.303Z,AmoosedWeb.Native,0.23.0,Juhapekka Piiroinen,Native AmoosedWeb reader runtime for Windows x64 .NET applications.
+2026-10-21T20:41:15.6Z,Blazor.AI.MediaPipe,1.2.0,Gravicode Studios,"Real-time computer-vision components for Blazor on MediaPipe.NET (native .NET MediaPipe Tasks on ONNX Runtime): camera viewer and overlays, face detection, 478-point face mesh and blendshapes, attendance and verification, hand tracking and gestures, sign language, pose and exercise analytics, holis…"
+2026-10-21T20:55:17.9Z,VpnHood.Manager.Api,4.0.417,VpnHood.Manager.Api,VpnHood! MANAGER API
+2026-10-21T21:01:58.163Z,XtudioPdf.Core,1.1.0,TELCOMDEV S.A.C.S.,"XtudioPdf engine: JSON template contract and its own layout and PDF engine on SkiaSharp. Tables that span pages, charts, QR and barcodes, PDF/A, digital signatures with timestamps and file attachments (e-invoice XML)."
+2026-10-21T21:02:02.13Z,XtudioPdf.AspNetCore,1.1.0,TELCOMDEV S.A.C.S.,"XtudioPdf visual designer for ASP.NET Core: drag-and-drop template editor inside your app (Development only), DTO scanner and live PDF preview."
+2026-10-21T21:02:04.787Z,XtudioPdf.Templates,1.1.0,TELCOMDEV S.A.C.S.,"XtudioPdf document template (dotnet new xtudiopdf): creates the .pdfx template, its sample data, the DTO and the report class."
+2026-10-21T21:03:23.107Z,XtudioPdf.Tool,1.1.0,TELCOMDEV S.A.C.S.,XtudioPdf tool: opens a .pdfx template in the designer (double click from Visual Studio) and creates new reports.
+2026-10-21T21:05:26.303Z,Wkp,0.6.0,kodonnell,Well Known Polylines - fast and compact encoding of geometries to strings using the Google Polylines algorithm.
