@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-21T16:33:27.557Z,DevXStream.DADS.Cli,1.0.1,DevXStream,Package Description
+2026-10-21T16:35:52.663Z,Stellaegis.Access.PostgreSQL,5.0.0,FRi,"The PostgreSQL stores of Stellaegis.Access: the effective rights of the three domains — persons in a compartment, operators of the platform, M2M clients — in the schema authz, with the declaration of the database for its installation and its verification at startup."
+2026-10-21T16:35:53.06Z,Stellaegis.Access.Client,5.0.0,FRi,"Stellaegis Access for a resource server apart: the decision asked over HTTP of the host that holds Access, under the same port as in process, with a cache of the decisions that the events of Access invalidate."
+2026-10-21T16:35:53.447Z,Stellaegis.Access,5.0.0,FRi,"Stellaegis Access: the decision point of an application assembled on Stellaegis.Primitives — an actor, a space, an operation; yes or no. It holds the effective rights a registry projects into it, in three domains: persons in a compartment, operators of the platform, M2M clients. It knows neither ac…"
+2026-10-21T16:35:53.853Z,Stellaegis.Access.AspNetCore,5.0.0,FRi,"Stellaegis Access in an ASP.NET Core host: the rights system that answers the policy per operation Stellaegis.Primitives.AspNetCore attaches to a module's routes — the actor and the space read from the request, the decision asked of Access in process or over HTTP —, the three decision routes a reso…"
+2026-10-21T16:38:58.11Z,MuteDeck.PluginClient,1.0.2,MuteDeck,"Client for the MuteDeck plugin protocol v2 (WebSocket), with fallback to v1."
+2026-10-21T16:40:40.907Z,T.Molodoy.Compose.Net.Navigation,0.0.2,T. Molodoy,Navigation for Compose.Net.
+2026-10-21T16:40:50.053Z,Nt.Parser,1.0.4,Domain,Parser that can be customized
+2026-10-21T16:50:49.35Z,SoriTrading.WatchTogether,0.1.1,Value Connect Global Inc.,Client for the SoriTrading agent's local API: WATCH TOGETHER signals and exchange rate-limit coordination.
+2026-10-21T17:04:12.493Z,PiiMask,0.1.0,Rahul,"Dependency-free PII masking for strings, log text, and System.Text.Json on .NET 10, 9, and 8."
