@@ -12,27 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:21 UTC
+## Latest list — 2026-10-21 10:21 UTC
 
-New packages created between 2026-10-21 08:19 UTC and 2026-10-21 09:21 UTC.
+New packages created between 2026-10-21 09:21 UTC and 2026-10-21 10:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-21T09-21-28-923223Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-21T10-21-51-098402Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-21 08:20:28 | [Umbraco.Community.PropertyAuditTool](https://www.nuget.org/packages/Umbraco.Community.PropertyAuditTool) | 0.4.0 | Kim Gordon Taanning | Read-only Umbraco backoffice audit for finding incomplete or matching content a… |
-| 2026-10-21 08:29:45 | [VOCsReminder](https://www.nuget.org/packages/VOCsReminder) | 1.0.0 | Estrella Zhang | VOCs色谱设备备忘录中心库可帮助您便捷实现磁盘容量不足告警和设备模块维护到期提醒，并通过清晰的接口与应用层 UI 集成。支持 SQLite 本地数据存储及检… |
-| 2026-10-21 08:30:01 | [PCHMI.NativeSQLite](https://www.nuget.org/packages/PCHMI.NativeSQLite) | 1.0.0 | GreatBear | Minimal SQLite wrapper for .NET with win-x64 and win-x86 native binaries. Works… |
-| 2026-10-21 08:35:58 | [ProduceSelf.Base.Compression](https://www.nuget.org/packages/ProduceSelf.Base.Compression) | 2.1.0 | 沧海的频道 | 沧海的频道基础工具类库的压缩部分：基于 SharpCompress 的多格式压缩解压与进度回调。 |
-| 2026-10-21 08:42:47 | [SourceOrrery](https://www.nuget.org/packages/SourceOrrery) | 0.1.1 | James Melvin | Read secrets from a SourceOrrery vault. Secrets belong to the runtime, not the… |
-| 2026-10-21 09:07:20 | [Devinno.Communication](https://www.nuget.org/packages/Devinno.Communication) | 0.1.0 | Devinno | Industrial device communication library for .NET 8 — Modbus RTU/TCP, LS CNet/FE… |
-| 2026-10-21 09:08:13 | [Umbraco.Community.Unlog](https://www.nuget.org/packages/Umbraco.Community.Unlog) | 18.0.1 | skttl | Retention rules for Umbraco's Serilog file logs. |
-| 2026-10-21 09:09:10 | [NativeSQLite](https://www.nuget.org/packages/NativeSQLite) | 1.0.0 | GreatBear | Minimal SQLite wrapper for .NET with win-x64 and win-x86 native binaries. Works… |
-| 2026-10-21 09:12:59 | [NetQuota.Firestore](https://www.nuget.org/packages/NetQuota.Firestore) | 1.0.0 | Mihai Dumitru | Google Cloud Firestore transactional storage adapter for NetQuota with TTL expi… |
-| 2026-10-21 09:13:02 | [NetQuota.Postgres](https://www.nuget.org/packages/NetQuota.Postgres) | 1.0.0 | Mihai Dumitru | PostgreSQL storage adapter for NetQuota with row-locked transactions, promotion… |
-| 2026-10-21 09:13:03 | [NetQuota](https://www.nuget.org/packages/NetQuota) | 1.0.0 | Mihai Dumitru | Production-ready subscription quota and hybrid rate-limiting engine for .NET (a… |
-| 2026-10-21 09:13:03 | [NetQuota.Redis](https://www.nuget.org/packages/NetQuota.Redis) | 1.0.0 | Mihai Dumitru | Redis storage adapter for NetQuota using atomic Lua scripts for quotas, pre-pai… |
-| 2026-10-21 09:13:05 | [NetQuota.Billing](https://www.nuget.org/packages/NetQuota.Billing) | 1.0.0 | Mihai Dumitru | Billing webhook integrations for NetQuota: Stripe and RevenueCat parsing, verif… |
+| 2026-10-21 09:22:40 | [Zooper.Ant](https://www.nuget.org/packages/Zooper.Ant) | 1.0.0 | Daniel Martin | Caller-selected paging for .NET: continuable, counted and capped pages over any… |
+| 2026-10-21 09:22:43 | [Zooper.Ant.AspNetCore](https://www.nuget.org/packages/Zooper.Ant.AspNetCore) | 1.0.0 | Daniel Martin | ASP.NET Core companion of Zooper.Ant: query binding for the five paging paramet… |
+| 2026-10-21 09:24:53 | [Escorp.Atom.Web.Services](https://www.nuget.org/packages/Escorp.Atom.Web.Services) | 0.0.1 | Yuriy Yesin, Escorp Labs | Package Description |
+| 2026-10-21 09:44:46 | [Frontmatec.Net.SqlServer](https://www.nuget.org/packages/Frontmatec.Net.SqlServer) | 2.0.6 | Frontmatec | A SQL Server endpoint for your application: return data from simple methods and… |
+| 2026-10-21 09:45:12 | [AgentFrameworkToolkit.Codex](https://www.nuget.org/packages/AgentFrameworkToolkit.Codex) | 1.25.2 | Rasmus Wulff Jensen | Codex app-server coding agents for Microsoft Agent Framework. |
+| 2026-10-21 09:49:51 | [Escorp.Atom.Web.Services.Proxies](https://www.nuget.org/packages/Escorp.Atom.Web.Services.Proxies) | 0.0.1 | Yuriy Yesin, Escorp Labs | Package Description |
+| 2026-10-21 09:50:34 | [PictureSharp.Tiff](https://www.nuget.org/packages/PictureSharp.Tiff) | 0.3.0 | Artur Pelzak | TIFF format plugin for PictureSharp, written entirely in C#. No native dependen… |
+| 2026-10-21 10:00:07 | [DiNet.CliToolkit](https://www.nuget.org/packages/DiNet.CliToolkit) | 0.0.1 | DifolderyXXL | Cli toolkit for One-command-call. Supports native DI. |
+| 2026-10-21 10:06:10 | [ICOT.Core](https://www.nuget.org/packages/ICOT.Core) | 1.0.1 | ICOT.Core | Package Description |
+| 2026-10-21 10:10:43 | [Vespertan.Ssms.AgentProxy.Contracts](https://www.nuget.org/packages/Vespertan.Ssms.AgentProxy.Contracts) | 1.0.0 | Vespertan | Shared SSMS Agent Proxy contracts, independent of SSMS and VS SDK. |
+| 2026-10-21 10:11:06 | [Vespertan.Ssms.AgentProxy.Client](https://www.nuget.org/packages/Vespertan.Ssms.AgentProxy.Client) | 0.10.5 | Vespertan | Command-line client for SSMS results, Messages, timing, XML plans, SQL buffers,… |
 
 ## Data source
 

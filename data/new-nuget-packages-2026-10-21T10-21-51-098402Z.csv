@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-21T09:22:40.313Z,Zooper.Ant,1.0.0,Daniel Martin,"Caller-selected paging for .NET: continuable, counted and capped pages over any store, with keyset continuation behind protected tokens."
+2026-10-21T09:22:43.227Z,Zooper.Ant.AspNetCore,1.0.0,Daniel Martin,"ASP.NET Core companion of Zooper.Ant: query binding for the five paging parameters, a 400 problem handler for paging refusals, and the OpenAPI description of Page<T> responses."
+2026-10-21T09:24:53.087Z,Escorp.Atom.Web.Services,0.0.1,"Yuriy Yesin, Escorp Labs",Package Description
+2026-10-21T09:44:46.487Z,Frontmatec.Net.SqlServer,2.0.6,Frontmatec,"A SQL Server endpoint for your application: return data from simple methods and query it with sqlcmd, SSMS or SqlClient."
+2026-10-21T09:45:12.68Z,AgentFrameworkToolkit.Codex,1.25.2,Rasmus Wulff Jensen,Codex app-server coding agents for Microsoft Agent Framework.
+2026-10-21T09:49:51.173Z,Escorp.Atom.Web.Services.Proxies,0.0.1,"Yuriy Yesin, Escorp Labs",Package Description
+2026-10-21T09:50:34.973Z,PictureSharp.Tiff,0.3.0,Artur Pelzak,"TIFF format plugin for PictureSharp, written entirely in C#. No native dependencies."
+2026-10-21T10:00:07.333Z,DiNet.CliToolkit,0.0.1,DifolderyXXL,Cli toolkit for One-command-call. Supports native DI.
+2026-10-21T10:06:10.203Z,ICOT.Core,1.0.1,ICOT.Core,Package Description
+2026-10-21T10:10:43.25Z,Vespertan.Ssms.AgentProxy.Contracts,1.0.0,Vespertan,"Shared SSMS Agent Proxy contracts, independent of SSMS and VS SDK."
+2026-10-21T10:11:06.227Z,Vespertan.Ssms.AgentProxy.Client,0.10.5,Vespertan,"Command-line client for SSMS results, Messages, timing, XML plans, SQL buffers, profiling connections and native query execution."
