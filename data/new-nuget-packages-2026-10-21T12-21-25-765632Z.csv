@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-10-21T11:21:20.533Z,DotSee.SchemaMapper,17.0.2,DotSee Web Services,"Backoffice dashboard for configuring schema.org JSON-LD structured data output per Umbraco content type, without writing code."
+2026-10-21T11:24:56.667Z,Coject.Core.Database.Oracle,1.0.5,Akwad Arabia,Oracle runtime provider for Coject.Core.Database.
+2026-10-21T11:29:18.497Z,SVBony.SDK,1.13.11,SVBony.SDK,"Implements accessing SVBONY cameras (the SVBCameraSDK line: SV305, SV405CC, SV505C, SV605CC, SV705C, SV905C, SC432M) using .NET"
+2026-10-21T11:30:10.64Z,Deterministic.Generators.Common,0.1.0,deterministic-code,Parser and validators for the deterministic-specifications contract.
+2026-10-21T11:31:07.583Z,OfficeHost,0.3.0,https://github.com/Papyrine/OfficeHost/graphs/contributors,"The host side of the Office document protocols for ASP.NET Core (formerly WopiServer): WOPI, which lets WOPI clients such as Collabora Online, ONLYOFFICE or Office for the web open and save files from any storage, and, in preview, MS-FSSHTTP, which lets desktop Word, Excel and PowerPoint open, save…"
+2026-10-21T11:36:16.6Z,SharpBind,0.1.0,Mateusz Skarupski,Generate Python and C ABI bindings for annotated .NET libraries.
+2026-10-21T11:36:19.167Z,Datasources,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:21.393Z,Datasources.Json,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:23.67Z,Datasources.Memory,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:25.423Z,Datasources.Sqlite,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:27.467Z,Datasources.Xml,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:29.46Z,Datasources.Yaml,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:31.643Z,Datasources.Mysql,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:33.79Z,Datasources.SqlServer,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:36Z,Datasources.Postgres,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:38.333Z,Datasources.Oracle,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:40.42Z,Datasources.MongoDb,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:36:42.71Z,Datasources.DynamoDb,0.1.2,deterministic-code,Data-access and object-relational mapper with generated repositories.
+2026-10-21T11:40:31.133Z,Rymote.Quantum.Awk,0.1.0,Rymote,An awk interpreter for .NET.
+2026-10-21T11:40:31.963Z,Rymote.Quantum.Caching,0.1.0,Rymote,"Shell state, scratch storage and read tracking on IDistributedCache."
+2026-10-21T11:40:32.72Z,Rymote.Quantum.FileSystem,0.1.0,Rymote,Permission-aware virtual filesystem with mountable providers for AI agents.
+2026-10-21T11:40:33.437Z,Rymote.Quantum.Jq,0.1.0,Rymote,A jq interpreter for .NET.
+2026-10-21T11:40:34.237Z,Rymote.Quantum.Records,0.1.0,Rymote,"Project application records into folders, control files, action folders and gated writes."
+2026-10-21T11:40:34.92Z,Rymote.Quantum.Shell,0.1.0,Rymote,"A bash-subset shell over a virtual filesystem, with standard Unix text tools."
+2026-10-21T11:40:35.713Z,Rymote.Quantum.Tools,0.1.0,Rymote,Model-facing shell and file tools with output limits and read tracking.
+2026-10-21T11:49:37.14Z,TabletopCardEngine.OpenTelemetry,1.0.0,Mikhail Khrapunov,OpenTelemetry instrumentation for TabletopCardEngine: one call adds the engine's traces and metrics to a tracer or meter provider.
+2026-10-21T11:49:37.463Z,TabletopCardEngine.InMemory,1.0.0,Mikhail Khrapunov,"Entity Framework Core in-memory provider for TabletopCardEngine, for tests and prototypes rather than production."
+2026-10-21T11:49:37.767Z,TabletopCardEngine.AspNetCore,1.0.0,Mikhail Khrapunov,ASP.NET Core integration for TabletopCardEngine: registers the engine in a host and exposes it over HTTP with schema health checks and a REST API.
+2026-10-21T11:49:38.08Z,TabletopCardEngine.PostgreSql,1.0.0,Mikhail Khrapunov,"PostgreSQL provider for TabletopCardEngine, with the engine's schema migrations for Npgsql."
+2026-10-21T11:49:38.383Z,TabletopCardEngine.SqlServer,1.0.0,Mikhail Khrapunov,"SQL Server provider for TabletopCardEngine, with the engine's schema migrations for Microsoft SQL Server."
+2026-10-21T11:49:38.7Z,TabletopCardEngine.Sqlite,1.0.0,Mikhail Khrapunov,"SQLite provider for TabletopCardEngine, with the engine's schema migrations, for development, prototypes and small deployments."
+2026-10-21T11:49:39.03Z,TabletopCardEngine,1.0.0,Mikhail Khrapunov,"No-Limit Texas Hold'em cash-game engine for .NET: betting rules, blinds, side pots and showdown, persisted through Entity Framework Core and driven by a single async command method. Add a provider package (Sqlite, PostgreSql, SqlServer or InMemory) for the database."
+2026-10-21T11:50:44.547Z,Nt.SyntaxParser,1.2.1,Natvs,Library containing tools for parsing grammars.
+2026-10-21T11:56:31.043Z,TransitStop,0.1.0,Baltermia Clopath,"A development-time web UI for MassTransit: lists every message type your app knows about, lets you search them and publish or send them with an editable JSON payload. Works with any transport (RabbitMQ, in-memory, ...)."
+2026-10-21T12:01:48.657Z,ufadev.NPOI,2.7.7,"Tony Qu,NPOI Contributors,ufadev","Unofficial fork of NPOI (.NET port of Apache POI) taken from the last upstream revision that carried no maintenance-fee EULA. Apache-2.0 only, no fee for any use. Not affiliated with or endorsed by the NPOI project or Nissl Lab."

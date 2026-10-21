@@ -12,34 +12,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 11:19 UTC
+## Latest list — 2026-10-21 12:21 UTC
 
-New packages created between 2026-10-21 10:21 UTC and 2026-10-21 11:19 UTC.
+New packages created between 2026-10-21 11:19 UTC and 2026-10-21 12:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-21T11-19-44-131329Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-21T12-21-25-765632Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-21 10:26:44 | [Fdw.Services.Data.Etl](https://www.nuget.org/packages/Fdw.Services.Data.Etl) | 1.4.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
-| 2026-10-21 10:26:47 | [Hosihikari.Plugin.Abstractions](https://www.nuget.org/packages/Hosihikari.Plugin.Abstractions) | 1.0.0 | HosihikariFramework | Plugin contract for the Hosihikari framework: IPlugin, IPluginContext, IPluginL… |
-| 2026-10-21 10:27:27 | [Hosihikari.Plugin.Templates](https://www.nuget.org/packages/Hosihikari.Plugin.Templates) | 1.0.0 | 星光 | dotnet new template for a precompiled Hosihikari plugin. |
-| 2026-10-21 10:28:10 | [nanoFramework.Iot.Device.Cst816D](https://www.nuget.org/packages/nanoFramework.Iot.Device.Cst816D) | 1.0.1 | nanoFramework | CST816D single-point capacitive touch controller binding for .NET nanoFramework… |
-| 2026-10-21 10:32:11 | [Zhomfr.Validation.Rules](https://www.nuget.org/packages/Zhomfr.Validation.Rules) | 0.2.1 | zhuolyan (Oleg Zhuravskiy) | Package Description |
-| 2026-10-21 10:32:11 | [Zhomfr.Validation.Rules.Abstractions](https://www.nuget.org/packages/Zhomfr.Validation.Rules.Abstractions) | 0.2.1 | zhuolyan (Oleg Zhuravskiy) | Package Description |
-| 2026-10-21 10:34:59 | [DeepSharp.Export.Onnx](https://www.nuget.org/packages/DeepSharp.Export.Onnx) | 0.14.0 | H.P. Gansevoort | Writes a DeepSharp network as an ONNX graph that any ONNX runtime answers throu… |
-| 2026-10-21 10:38:00 | [Manasija.Drishti](https://www.nuget.org/packages/Manasija.Drishti) | 1.0.0 | Manasija | Official .NET client for the Drishti market-intelligence API: news, announcemen… |
-| 2026-10-21 10:38:44 | [Stellaegis.Identity.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Identity.PostgreSQL) | 5.0.0 | FRi | The PostgreSQL stores of Stellaegis.Identity: the accounts, their second factor… |
-| 2026-10-21 10:38:45 | [Stellaegis.Identity.Server](https://www.nuget.org/packages/Stellaegis.Identity.Server) | 5.0.0 | FRi | The pages a person signs in and manages their account with — login, second fact… |
-| 2026-10-21 10:38:45 | [Stellaegis.Identity](https://www.nuget.org/packages/Stellaegis.Identity) | 5.0.0 | FRi | Stellaegis Identity: the accounts of an application assembled on Stellaegis.Pri… |
-| 2026-10-21 10:38:46 | [Stellaegis.Identity.Client](https://www.nuget.org/packages/Stellaegis.Identity.Client) | 5.0.0 | FRi | The HTTP client of Stellaegis.Identity for a resource server apart from the hos… |
-| 2026-10-21 10:38:46 | [Stellaegis.Identity.AspNetCore](https://www.nuget.org/packages/Stellaegis.Identity.AspNetCore) | 5.0.0 | FRi | Stellaegis Identity in an ASP.NET Core host: the cookie a person signs in with,… |
-| 2026-10-21 10:39:52 | [ClassicEPPlus](https://www.nuget.org/packages/ClassicEPPlus) | 4.5.3 | GreatBear | EPPlus 4.5.3.3 (the last LGPL version) rebuilt from source with bug fixes, targ… |
-| 2026-10-21 10:41:34 | [Monq.Plugins.Extensions](https://www.nuget.org/packages/Monq.Plugins.Extensions) | 1.0.0 | Yaroslav Lobov | Reusable extensions, parsers and utilities for MONQ Agent plugins. |
-| 2026-10-21 10:46:07 | [Moberg.Beacon.AI.Bedrock](https://www.nuget.org/packages/Moberg.Beacon.AI.Bedrock) | 5.0.0 | Moberg | Amazon Bedrock LLM provider for Beacon AI. Optional add-on for Beacon AI. |
-| 2026-10-21 10:46:21 | [Moberg.Beacon.Doctor](https://www.nuget.org/packages/Moberg.Beacon.Doctor) | 5.0.0 | Moberg | Checks a deployed Beacon MCP endpoint the way an MCP client (Claude's connector… |
-| 2026-10-21 10:46:22 | [Moberg.Beacon.Gateway](https://www.nuget.org/packages/Moberg.Beacon.Gateway) | 5.0.0 | Moberg | Beacon as the MCP gateway for an existing ASP.NET Core application: one call wi… |
-| 2026-10-21 10:46:24 | [Moberg.Beacon.Testing](https://www.nuget.org/packages/Moberg.Beacon.Testing) | 5.0.0 | Moberg | Test helpers for a host that embeds Beacon as its MCP gateway: Entra-shaped tes… |
-| 2026-10-21 10:58:16 | [nanoFramework.Iot.Device.Qmi8658](https://www.nuget.org/packages/nanoFramework.Iot.Device.Qmi8658) | 1.0.1 | nanoFramework | QMI8658 six-axis accelerometer and gyroscope binding for .NET nanoFramework, in… |
+| 2026-10-21 11:21:20 | [DotSee.SchemaMapper](https://www.nuget.org/packages/DotSee.SchemaMapper) | 17.0.2 | DotSee Web Services | Backoffice dashboard for configuring schema.org JSON-LD structured data output… |
+| 2026-10-21 11:24:56 | [Coject.Core.Database.Oracle](https://www.nuget.org/packages/Coject.Core.Database.Oracle) | 1.0.5 | Akwad Arabia | Oracle runtime provider for Coject.Core.Database. |
+| 2026-10-21 11:29:18 | [SVBony.SDK](https://www.nuget.org/packages/SVBony.SDK) | 1.13.11 | SVBony.SDK | Implements accessing SVBONY cameras (the SVBCameraSDK line: SV305, SV405CC, SV5… |
+| 2026-10-21 11:30:10 | [Deterministic.Generators.Common](https://www.nuget.org/packages/Deterministic.Generators.Common) | 0.1.0 | deterministic-code | Parser and validators for the deterministic-specifications contract. |
+| 2026-10-21 11:31:07 | [OfficeHost](https://www.nuget.org/packages/OfficeHost) | 0.3.0 | https://github.com/Papyrine/O… | The host side of the Office document protocols for ASP.NET Core (formerly WopiS… |
+| 2026-10-21 11:36:16 | [SharpBind](https://www.nuget.org/packages/SharpBind) | 0.1.0 | Mateusz Skarupski | Generate Python and C ABI bindings for annotated .NET libraries. |
+| 2026-10-21 11:36:19 | [Datasources](https://www.nuget.org/packages/Datasources) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:21 | [Datasources.Json](https://www.nuget.org/packages/Datasources.Json) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:23 | [Datasources.Memory](https://www.nuget.org/packages/Datasources.Memory) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:25 | [Datasources.Sqlite](https://www.nuget.org/packages/Datasources.Sqlite) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:27 | [Datasources.Xml](https://www.nuget.org/packages/Datasources.Xml) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:29 | [Datasources.Yaml](https://www.nuget.org/packages/Datasources.Yaml) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:31 | [Datasources.Mysql](https://www.nuget.org/packages/Datasources.Mysql) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:33 | [Datasources.SqlServer](https://www.nuget.org/packages/Datasources.SqlServer) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:36 | [Datasources.Postgres](https://www.nuget.org/packages/Datasources.Postgres) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:38 | [Datasources.Oracle](https://www.nuget.org/packages/Datasources.Oracle) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:40 | [Datasources.MongoDb](https://www.nuget.org/packages/Datasources.MongoDb) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:36:42 | [Datasources.DynamoDb](https://www.nuget.org/packages/Datasources.DynamoDb) | 0.1.2 | deterministic-code | Data-access and object-relational mapper with generated repositories. |
+| 2026-10-21 11:40:31 | [Rymote.Quantum.Awk](https://www.nuget.org/packages/Rymote.Quantum.Awk) | 0.1.0 | Rymote | An awk interpreter for .NET. |
+| 2026-10-21 11:40:31 | [Rymote.Quantum.Caching](https://www.nuget.org/packages/Rymote.Quantum.Caching) | 0.1.0 | Rymote | Shell state, scratch storage and read tracking on IDistributedCache. |
+| 2026-10-21 11:40:32 | [Rymote.Quantum.FileSystem](https://www.nuget.org/packages/Rymote.Quantum.FileSystem) | 0.1.0 | Rymote | Permission-aware virtual filesystem with mountable providers for AI agents. |
+| 2026-10-21 11:40:33 | [Rymote.Quantum.Jq](https://www.nuget.org/packages/Rymote.Quantum.Jq) | 0.1.0 | Rymote | A jq interpreter for .NET. |
+| 2026-10-21 11:40:34 | [Rymote.Quantum.Records](https://www.nuget.org/packages/Rymote.Quantum.Records) | 0.1.0 | Rymote | Project application records into folders, control files, action folders and gat… |
+| 2026-10-21 11:40:34 | [Rymote.Quantum.Shell](https://www.nuget.org/packages/Rymote.Quantum.Shell) | 0.1.0 | Rymote | A bash-subset shell over a virtual filesystem, with standard Unix text tools. |
+| 2026-10-21 11:40:35 | [Rymote.Quantum.Tools](https://www.nuget.org/packages/Rymote.Quantum.Tools) | 0.1.0 | Rymote | Model-facing shell and file tools with output limits and read tracking. |
+| 2026-10-21 11:49:37 | [TabletopCardEngine.OpenTelemetry](https://www.nuget.org/packages/TabletopCardEngine.OpenTelemetry) | 1.0.0 | Mikhail Khrapunov | OpenTelemetry instrumentation for TabletopCardEngine: one call adds the engine'… |
+| 2026-10-21 11:49:37 | [TabletopCardEngine.InMemory](https://www.nuget.org/packages/TabletopCardEngine.InMemory) | 1.0.0 | Mikhail Khrapunov | Entity Framework Core in-memory provider for TabletopCardEngine, for tests and… |
+| 2026-10-21 11:49:37 | [TabletopCardEngine.AspNetCore](https://www.nuget.org/packages/TabletopCardEngine.AspNetCore) | 1.0.0 | Mikhail Khrapunov | ASP.NET Core integration for TabletopCardEngine: registers the engine in a host… |
+| 2026-10-21 11:49:38 | [TabletopCardEngine.PostgreSql](https://www.nuget.org/packages/TabletopCardEngine.PostgreSql) | 1.0.0 | Mikhail Khrapunov | PostgreSQL provider for TabletopCardEngine, with the engine's schema migrations… |
+| 2026-10-21 11:49:38 | [TabletopCardEngine.SqlServer](https://www.nuget.org/packages/TabletopCardEngine.SqlServer) | 1.0.0 | Mikhail Khrapunov | SQL Server provider for TabletopCardEngine, with the engine's schema migrations… |
+| 2026-10-21 11:49:38 | [TabletopCardEngine.Sqlite](https://www.nuget.org/packages/TabletopCardEngine.Sqlite) | 1.0.0 | Mikhail Khrapunov | SQLite provider for TabletopCardEngine, with the engine's schema migrations, fo… |
+| 2026-10-21 11:49:39 | [TabletopCardEngine](https://www.nuget.org/packages/TabletopCardEngine) | 1.0.0 | Mikhail Khrapunov | No-Limit Texas Hold'em cash-game engine for .NET: betting rules, blinds, side p… |
+| 2026-10-21 11:50:44 | [Nt.SyntaxParser](https://www.nuget.org/packages/Nt.SyntaxParser) | 1.2.1 | Natvs | Library containing tools for parsing grammars. |
+| 2026-10-21 11:56:31 | [TransitStop](https://www.nuget.org/packages/TransitStop) | 0.1.0 | Baltermia Clopath | A development-time web UI for MassTransit: lists every message type your app kn… |
+| 2026-10-21 12:01:48 | [ufadev.NPOI](https://www.nuget.org/packages/ufadev.NPOI) | 2.7.7 | Tony Qu,NPOI Contributors,ufa… | Unofficial fork of NPOI (.NET port of Apache POI) taken from the last upstream… |
 
 ## Data source
 
