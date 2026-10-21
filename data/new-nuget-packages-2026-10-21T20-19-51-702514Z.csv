@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-21T19:30:24.197Z,T.Molodoy.Compose.Net.Patcher,0.0.2,T. Molodoy,Assembly patcher for Compose.Net.
+2026-10-21T19:32:35.757Z,Meziantou.Framework.JavaScriptEngine,1.0.0,meziantou,"An ECMAScript engine written in .NET: a parser, a bytecode compiler and an interpreter, validated by test262."
+2026-10-21T19:32:36.32Z,Kododo.ConfigWay.FeatureManagement,2.1.0,Kododo,"Feature flags for ConfigWay. Manage Microsoft.FeatureManagement flags from the ConfigWay web UI without redeploying: switches, percentage rollouts, time windows and targeting."
+2026-10-21T19:32:53.183Z,Meziantou.Framework.WebPlatform.JavaScript,1.0.0,meziantou,Runs the scripts of the documents of Meziantou.Framework.WebPlatform with Meziantou.Framework.JavaScriptEngine (a ScriptEngine with the WebIDL bindings of the DOM).
+2026-10-21T19:42:50.683Z,BidiLint,0.1.0,Abdullah Hakim,"Lint Arabic/English localization files for bidi pitfalls: missing keys, unisolated Latin runs, mixed numeral systems, unbalanced isolates."
+2026-10-21T19:58:46.63Z,Proxylayer.EARM,0.3.0,Proxylayer,"ARM-style JSON templates for Microsoft Entra ID, deployed through the Microsoft Graph API."
+2026-10-21T20:01:16.803Z,DotNetMono.Core,0.1.0,dotnet-mono-api contributors,"HTTP infrastructure, safe errors, health checks and OpenAPI for DotNetMono modules."
+2026-10-21T20:01:21.663Z,DotNetMono.Data.Abstractions,0.1.0,dotnet-mono-api contributors,Small provider-neutral SQL execution and transaction contracts.
+2026-10-21T20:01:26.627Z,DotNetMono.Data.Dapper,0.1.0,dotnet-mono-api contributors,"Dapper SQL Server execution, connections, transactions and explicit migrations."
+2026-10-21T20:01:30.7Z,DotNetMono.Email,0.1.0,dotnet-mono-api contributors,Replaceable asynchronous SMTP email delivery with TLS and simple templates.
+2026-10-21T20:01:34.51Z,DotNetMono.Users,0.1.0,dotnet-mono-api contributors,"Identity-backed user accounts, secure cookies, verification and password reset Minimal APIs."
+2026-10-21T20:01:38.83Z,DotNetMono.Users.Dapper,0.1.0,dotnet-mono-api contributors,SQL Server persistence adapter for the DotNetMono Users module.
+2026-10-21T20:03:49.57Z,Smpl.Mediatr,2.0.0,Ekin Bulut,"A lightweight mediator for commands, queries and notifications with pipeline behaviors."
