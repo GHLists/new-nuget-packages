@@ -1,0 +1,52 @@
+created_at,package,version,authors,description
+2026-10-21T15:23:04.933Z,DevXStream.DADS.AspNetCore,1.0.0,DevXStream,Package Description
+2026-10-21T15:23:32.613Z,Leistd.Email.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:32.86Z,Leistd.BackgroundJobs.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:33.12Z,Leistd.Notifications.Email,1.0.0,zengql,Package Description
+2026-10-21T15:23:33.393Z,Leistd.Authorization.Resource.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:33.617Z,Leistd.ExceptionHandling.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:33.857Z,Leistd.Data.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:34.13Z,Leistd.Localization.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:34.383Z,Leistd.Notifications.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:34.623Z,Leistd.ServiceClient.OAuth,1.0.0,zengql,Package Description
+2026-10-21T15:23:34.9Z,Leistd.MultiTenancy.Management,1.0.0,zengql,Package Description
+2026-10-21T15:23:35.133Z,Leistd.BackgroundJobs.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:36.11Z,Leistd.Data,1.0.0,zengql,Package Description
+2026-10-21T15:23:36.863Z,Leistd.BackgroundJobs.InProcess,1.0.0,zengql,Package Description
+2026-10-21T15:23:37.45Z,Leistd.MultiTenancy.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:37.793Z,Leistd.UnitOfWork.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:38.08Z,Leistd.ServiceClient.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:38.343Z,Leistd.MultiTenancy.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:38.617Z,Leistd.Settings.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:38.9Z,Leistd.OperationRecords.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:39.14Z,Leistd.ExceptionHandling.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:39.353Z,Leistd.Email.Smtp,1.0.0,zengql,Package Description
+2026-10-21T15:23:39.61Z,Leistd.MultiTenancy.ServiceClient,1.0.0,zengql,Package Description
+2026-10-21T15:23:39.877Z,Leistd.OperationRecords.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:40.76Z,Leistd.Authorization.Resource.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:41.393Z,Leistd.OperationRecords.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:41.683Z,Leistd.Authorization.DataScope.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:41.933Z,Leistd.OperationRecords.Logging,1.0.0,zengql,Package Description
+2026-10-21T15:23:42.653Z,Leistd.Security.OneTimeCodes,1.0.0,zengql,Package Description
+2026-10-21T15:23:43.127Z,Leistd.Notifications.Settings,1.0.0,zengql,Package Description
+2026-10-21T15:23:43.877Z,Leistd.Security.OpenIddict.Validation,1.0.0,zengql,Package Description
+2026-10-21T15:23:44.377Z,Leistd.Settings.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:46.043Z,Leistd.Settings.Hosting,1.0.0,zengql,Package Description
+2026-10-21T15:23:46.727Z,Leistd.ServiceClient.Refit,1.0.0,zengql,Package Description
+2026-10-21T15:23:46.967Z,Leistd.Settings.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:47.68Z,Leistd.Localization.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:47.953Z,Leistd.Authorization.Resource.EntityFrameworkCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:56.217Z,Leistd.MultiTenancy.Core,1.0.0,zengql,Package Description
+2026-10-21T15:23:56.483Z,Leistd.ServiceClient.AspNetCore,1.0.0,zengql,Package Description
+2026-10-21T15:23:57.007Z,Leistd.Security.OpenIddict.Server,1.0.0,zengql,Package Description
+2026-10-21T15:23:57.49Z,Leistd.AspNetCore.SignalR,1.0.0,zengql,Package Description
+2026-10-21T15:24:30.343Z,Budoom.MessagingQueues.OpenTelemetry,0.3.1-beta,bayazidahmed,"OpenTelemetry registration for Budoom.MessagingQueues: one AddMessagingQueuesInstrumentation() call records a span per handled message, joined to the trace of whoever published it, plus the broker client's publish spans."
+2026-10-21T15:28:29.813Z,2dog.qt,4.7.2.132,Moritz Voss,"Embed Godot in a Qt Quick (QML) application built with Qt Bridge for C#. The TwoDog QML module's GodotView item shows the engine inside the scene, so QML items can render on top of the running game."
+2026-10-21T15:37:34.92Z,Prowl.Origami.Graphite,3.8.8,Prowl Contributors,"Graphite shader language services for the Origami CodeEditor: highlighting, completion, hover, signature help, navigation, references and compiler diagnostics for .shader, .glsl and .compute files."
+2026-10-21T15:39:04.873Z,Pmad.AI,0.0.1,Julien Etelain,"Core AI utilities and protocol transforms for .NET, including tool-call payload healing, argument JSON sanitization, and zero-allocation heuristic token estimation."
+2026-10-21T15:39:05.507Z,Pmad.AI.AotSmokeTest,0.0.1,Pmad.AI.AotSmokeTest,Package Description
+2026-10-21T15:39:06.137Z,Pmad.AI.LlamaSharp,0.0.1,Julien Etelain,"Microsoft.Extensions.AI adapter for local LLamaSharp (llama.cpp) inference, supporting streaming, multimodal vision, tool calling, and open-weights chat formatting."
+2026-10-21T15:39:06.853Z,Pmad.AI.SourceGenerators,0.0.1,Pmad.AI.SourceGenerators,Package Description
+2026-10-21T15:39:18.993Z,Leistd.Templates,1.0.0,zengql,.NET 10 + Angular 22 全栈项目模板（dotnet new fullstack-app）：DDD 四层架构，Identity、Standalone 与 Resource 三种服务形态，按参数裁剪可选能力，消费 Leistd.* 框架包。
+2026-10-21T15:51:30.917Z,PolyhydraGames.Api.Steam,2.0.0.11,PolyhydraGames.Api.Steam,Package Description
+2026-10-21T16:08:10.917Z,Progress.Sitefinity.OptimizationHub,15.4.8640,Progress Software Corporation,Sitefinity Optimization Hub module.
