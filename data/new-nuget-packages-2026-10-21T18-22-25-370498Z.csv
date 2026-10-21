@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-21T17:21:29.107Z,CanFxGen,0.2.0,Oğuzhan Can,canfxgen: CanFx çözümlerinde entity'den CRUD (CQRS) kodu üreten komut satırı aracı.
+2026-10-21T17:30:02.993Z,JagPav.Pipeline,1.0.0,Mario Pavlović,"A compensable pipeline for .NET, built on TPL Dataflow: thread a model through ordered steps, auto-compensating completed steps in reverse order on failure. Every step shares the same model-and-cancellation-token contract, so the resulting code is much more readable and the business flow is easier…"
+2026-10-21T17:30:39.81Z,WarpClient.DependencyInjection,26.10.21.7751,Vitalii Kotenko,Dependency injection and IHttpClientFactory integration for WarpClient.
+2026-10-21T17:30:40.327Z,WarpClient,26.10.21.7751,Vitalii Kotenko,"Cloudflare WARP for .NET: send TCP, UDP, and HTTP traffic through WARP over MASQUE (HTTP/2 or HTTP/3) or WireGuard, without a VPN or elevated privileges."
+2026-10-21T17:35:12.84Z,Irihi.Branding,0.1.0,"IRIHI Technology Co., Ltd.","Irihi brand icon library: native Avalonia drawing with built-in light/dark palette, plus SVG/PNG exporters."
+2026-10-21T17:39:52.367Z,NewLife.AI.Extensions,1.6.2026.1021-beta1…,新生命开发团队,基于 NewLife.AI 基础库的扩展模块，提供中间件、依赖注入、缓存等企业级扩展能力
+2026-10-21T18:02:27.947Z,Rayscale.Web.Styles,1.0.0,Rayscale,Shared styles and design tokens implementing the Human Interface Guidelines.
+2026-10-21T18:11:56.017Z,MorseCode.Analyzers,0.1.0,MorseCode Software LLC,"Roslyn analyzers for the conventions that MorseCode Software writes C# with, such as named arguments in the order of the parameters."

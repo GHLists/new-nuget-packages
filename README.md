@@ -12,24 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 17:21 UTC
+## Latest list — 2026-10-21 18:22 UTC
 
-New packages created between 2026-10-21 16:21 UTC and 2026-10-21 17:21 UTC.
+New packages created between 2026-10-21 17:21 UTC and 2026-10-21 18:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-21T17-21-17-519675Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-21T18-22-25-370498Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-21 16:33:27 | [DevXStream.DADS.Cli](https://www.nuget.org/packages/DevXStream.DADS.Cli) | 1.0.1 | DevXStream | Package Description |
-| 2026-10-21 16:35:52 | [Stellaegis.Access.PostgreSQL](https://www.nuget.org/packages/Stellaegis.Access.PostgreSQL) | 5.0.0 | FRi | The PostgreSQL stores of Stellaegis.Access: the effective rights of the three d… |
-| 2026-10-21 16:35:53 | [Stellaegis.Access.Client](https://www.nuget.org/packages/Stellaegis.Access.Client) | 5.0.0 | FRi | Stellaegis Access for a resource server apart: the decision asked over HTTP of… |
-| 2026-10-21 16:35:53 | [Stellaegis.Access](https://www.nuget.org/packages/Stellaegis.Access) | 5.0.0 | FRi | Stellaegis Access: the decision point of an application assembled on Stellaegis… |
-| 2026-10-21 16:35:53 | [Stellaegis.Access.AspNetCore](https://www.nuget.org/packages/Stellaegis.Access.AspNetCore) | 5.0.0 | FRi | Stellaegis Access in an ASP.NET Core host: the rights system that answers the p… |
-| 2026-10-21 16:38:58 | [MuteDeck.PluginClient](https://www.nuget.org/packages/MuteDeck.PluginClient) | 1.0.2 | MuteDeck | Client for the MuteDeck plugin protocol v2 (WebSocket), with fallback to v1. |
-| 2026-10-21 16:40:40 | [T.Molodoy.Compose.Net.Navigation](https://www.nuget.org/packages/T.Molodoy.Compose.Net.Navigation) | 0.0.2 | T. Molodoy | Navigation for Compose.Net. |
-| 2026-10-21 16:40:50 | [Nt.Parser](https://www.nuget.org/packages/Nt.Parser) | 1.0.4 | Domain | Parser that can be customized |
-| 2026-10-21 16:50:49 | [SoriTrading.WatchTogether](https://www.nuget.org/packages/SoriTrading.WatchTogether) | 0.1.1 | Value Connect Global Inc. | Client for the SoriTrading agent's local API: WATCH TOGETHER signals and exchan… |
-| 2026-10-21 17:04:12 | [PiiMask](https://www.nuget.org/packages/PiiMask) | 0.1.0 | Rahul | Dependency-free PII masking for strings, log text, and System.Text.Json on .NET… |
+| 2026-10-21 17:21:29 | [CanFxGen](https://www.nuget.org/packages/CanFxGen) | 0.2.0 | Oğuzhan Can | canfxgen: CanFx çözümlerinde entity'den CRUD (CQRS) kodu üreten komut satırı ar… |
+| 2026-10-21 17:30:02 | [JagPav.Pipeline](https://www.nuget.org/packages/JagPav.Pipeline) | 1.0.0 | Mario Pavlović | A compensable pipeline for .NET, built on TPL Dataflow: thread a model through… |
+| 2026-10-21 17:30:39 | [WarpClient.DependencyInjection](https://www.nuget.org/packages/WarpClient.DependencyInjection) | 26.10.21.7751 | Vitalii Kotenko | Dependency injection and IHttpClientFactory integration for WarpClient. |
+| 2026-10-21 17:30:40 | [WarpClient](https://www.nuget.org/packages/WarpClient) | 26.10.21.7751 | Vitalii Kotenko | Cloudflare WARP for .NET: send TCP, UDP, and HTTP traffic through WARP over MAS… |
+| 2026-10-21 17:35:12 | [Irihi.Branding](https://www.nuget.org/packages/Irihi.Branding) | 0.1.0 | IRIHI Technology Co., Ltd. | Irihi brand icon library: native Avalonia drawing with built-in light/dark pale… |
+| 2026-10-21 17:39:52 | [NewLife.AI.Extensions](https://www.nuget.org/packages/NewLife.AI.Extensions) | 1.6.2026.1021-beta1… | 新生命开发团队 | 基于 NewLife.AI 基础库的扩展模块，提供中间件、依赖注入、缓存等企业级扩展能力 |
+| 2026-10-21 18:02:27 | [Rayscale.Web.Styles](https://www.nuget.org/packages/Rayscale.Web.Styles) | 1.0.0 | Rayscale | Shared styles and design tokens implementing the Human Interface Guidelines. |
+| 2026-10-21 18:11:56 | [MorseCode.Analyzers](https://www.nuget.org/packages/MorseCode.Analyzers) | 0.1.0 | MorseCode Software LLC | Roslyn analyzers for the conventions that MorseCode Software writes C# with, su… |
 
 ## Data source
 
