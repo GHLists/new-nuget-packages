@@ -1,0 +1,48 @@
+created_at,package,version,authors,description
+2026-10-22T12:24:50.257Z,PdfPinata.ImageSharp4,0.5.0,Stefan Steiger and Contributors,"ImageSharp 4 imaging and font backend for PdfPinata. Provides ImageSharpImageSource, ImageSharpFontResolver and ImageSharpGlyphOutlineProvider, built against SixLabors.ImageSharp 4.x and SixLabors.Fonts 3.x. Those packages are under the Six Labors Split License, not Apache-2.0. An application that…"
+2026-10-22T12:33:33.287Z,Purview.Architecture.Testing.Cli,1.2.0,Kieron Lanning,"Runs the Purview architecture policy outside TUnit: validates the policy document against its schema and integrity rules, lists the policy's waivers, and compares compiled assemblies with a committed API surface baseline."
+2026-10-22T12:40:08.07Z,AdmiralRadzen.Icons,1.0.3,irlyk,Full Admiral DS SVG icon pack and lazy inline SVG adapter for Radzen Blazor components.
+2026-10-22T12:40:09.913Z,AdmiralRadzen.Themes,1.1.2,irlyk,Admiral Design System light and dark themes for Radzen Blazor.
+2026-10-22T12:40:11.01Z,AdmiralRadzen.Components,1.2.2,irlyk,Reusable Admiral Design System compositions for Radzen Blazor.
+2026-10-22T12:40:36.8Z,SyZero.Authentication.ApiKey,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:37.06Z,SyZero.Authorization,9.1.0,HaitaoJin,SyZero 鉴权与授权模块（ASP.NET Core Identity + ABP 风格 RBAC + JWT），存储基于 SyZero.Core 仓储抽象
+2026-10-22T12:40:37.34Z,SyZero.Authorization.AspNetCore,9.1.0,HaitaoJin,"SyZero ASP.NET Core 授权适配：将 [Authorize(Policy = ""perm"")] 桥接到 SyZero.IPermissionChecker。"
+2026-10-22T12:40:38.373Z,SyZero.BackgroundJobs,9.1.0,HaitaoJin,SyZero 后台任务模块：IBackgroundJobManager 抽象 + 基于 Channel 的内存默认实现 + IHostedService Worker。可通过子模块（Hangfire / Quartz）替换为持久化与 Cron 调度。
+2026-10-22T12:40:38.64Z,SyZero.BackgroundJobs.Quartz,9.1.0,HaitaoJin,SyZero 后台任务的 Quartz 适配：Cron / 调度托管，复用 IBackgroundJob<TArgs> 抽象。
+2026-10-22T12:40:38.917Z,SyZero.Core,9.1.0,HaitaoJin,SyZero Core
+2026-10-22T12:40:39.247Z,SyZero.DataProtection,9.1.0,HaitaoJin,SyZero 数据保护模块：基于 ASP.NET Core Data Protection 提供 IFieldEncryptor 抽象与 [Encrypted] 标记的字段级加解密辅助；可对 DTO / 配置中的敏感字段进行可逆加密。
+2026-10-22T12:40:39.523Z,SyZero.Diagnostics,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:39.793Z,SyZero.DistributedTransaction,9.1.0,HaitaoJin,SyZero 分布式事务：Outbox 投递 + 简易 Saga 编排（基于 IEventBus）
+2026-10-22T12:40:40.08Z,SyZero.DistributedTransaction.EntityFrameworkCore,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:41.19Z,SyZero.EventBus.Kafka,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:41.48Z,SyZero.EventBus.RabbitMQ,9.1.0,HaitaoJin,SyZero-RabbitMQ
+2026-10-22T12:40:41.757Z,SyZero.FeatureManagement,9.1.0,HaitaoJin,SyZero 特性开关：包装 Microsoft.FeatureManagement，提供 ISyFeatureManager 抽象与默认实现。
+2026-10-22T12:40:42.29Z,SyZero.Files,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:42.54Z,SyZero.Gateway.Abstractions,9.1.0,HaitaoJin,SyZero 网关抽象层（IGateway / IGatewayConfigurationStore / IGatewayConfigurationApplier / GatewayConfiguration / GatewayRoute / GatewaySwaggerEndPoint 等），不绑定具体网关实现。Ocelot / YARP 等具体实现以及 SyZero.Gateway.Admin 管理面板均依赖本包。
+2026-10-22T12:40:42.82Z,SyZero.Gateway.Admin,9.1.0,HaitaoJin,SyZero 网关的可视化管理面板（Routes / SwaggerEndPoints CRUD），含 Razor Pages UI、Basic Auth、配置读写。仅依赖 SyZero.Gateway.Abstractions 暴露的 IGateway / IGatewayConfigurationStore 抽象，不绑定具体网关实现。
+2026-10-22T12:40:43.073Z,SyZero.Gateway.Ocelot,9.1.0,HaitaoJin,SyZero 网关模块的 Ocelot 实现，提供 IGateway / IGatewayConfigurationStore / IGatewayConfigurationApplier 的 Ocelot 后端。原名 SyZero.Ocelot，自 v1.6.0 起改名为 SyZero.Gateway.Ocelot 以与抽象包 SyZero.Gateway.Abstractions、面板包 SyZero.Gateway.Admin、YARP 实现包 SyZero.Gateway.YARP 在命名上对齐。
+2026-10-22T12:40:43.343Z,SyZero.Gateway.YARP,9.1.0,HaitaoJin,SyZero 网关模块的 YARP（Yet Another Reverse Proxy）实现，提供 IGateway / IGatewayConfigurationStore / IGatewayConfigurationApplier 的 YARP 后端，与 SyZero.Gateway.Ocelot 同级互斥。原名 SyZero.YARP，自 v1.6.0 起改名为 SyZero.Gateway.YARP。
+2026-10-22T12:40:43.6Z,SyZero.GraphQL,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:43.843Z,SyZero.HealthChecks,9.1.0,HaitaoJin,SyZero 健康检查模块：包装 Microsoft.Extensions.Diagnostics.HealthChecks，提供 /health/live 与 /health/ready Kubernetes 探针端点，支持注册自定义检查器与数据库/缓存检查器。
+2026-10-22T12:40:44.09Z,SyZero.Idempotency,9.1.0,HaitaoJin,SyZero 幂等性中间件 + 抽象存储（默认内存，Redis 后端在 SyZero.Redis 中提供）
+2026-10-22T12:40:44.427Z,SyZero.Localization,9.1.0,HaitaoJin,SyZero 多语言资源抽象：包装 Microsoft.Extensions.Localization，提供 ISyStringLocalizer。
+2026-10-22T12:40:44.69Z,SyZero.Logging.Log4Net,9.1.0,HaitaoJin,SyZero-Log4Net
+2026-10-22T12:40:44.933Z,SyZero.Mail,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:45.513Z,SyZero.MultiTenancy,9.1.0,HaitaoJin,SyZero 多租户模块：ICurrentTenant / ITenantStore / ITenantResolver（Header / Domain / Claim） + ASP.NET Core 中间件，单库 Filter 默认实现，可扩展到分库
+2026-10-22T12:40:45.81Z,SyZero.MultiTenancy.EntityFrameworkCore,9.1.0,HaitaoJin,SyZero 多租户 EF Core 持久化扩展：EfCoreTenantStore + 全局查询过滤辅助。
+2026-10-22T12:40:46.107Z,SyZero.ObjectMapping.AutoMapper,9.1.0,HaitaoJin,SyZero AutoMapper integration - Object-to-object mapping with automatic profile scanning
+2026-10-22T12:40:46.38Z,SyZero.ObjectMapping.Mapster,9.1.0,HaitaoJin,SyZero-Mapster: 基于 Mapster 的 IObjectMapper 实现，作为 SyZero.ObjectMapping.AutoMapper 的轻量、MIT 许可替代方案。
+2026-10-22T12:40:46.65Z,SyZero.Observability.OpenTelemetry,9.1.0,HaitaoJin,SyZero-OpenTelemetry
+2026-10-22T12:40:46.91Z,SyZero.RateLimiting,9.1.0,HaitaoJin,SyZero 限流模块：包装 .NET 内置 System.Threading.RateLimiting 与 ASP.NET Core RateLimiter 中间件，提供按用户 / 按租户 / 按 IP 的命名分区限流策略；分布式限流可由 SyZero.Redis 实现 IDistributedRateLimiter 提供。
+2026-10-22T12:40:47.227Z,SyZero.Realtime,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:47.77Z,SyZero.Resilience,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:48.013Z,SyZero.Sdk,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:48.287Z,SyZero.ServiceDiscovery.Consul,9.1.0,HaitaoJin,SyZero-Consul
+2026-10-22T12:40:48.593Z,SyZero.ServiceDiscovery.Nacos,9.1.0,HaitaoJin,SyZero-Nacos
+2026-10-22T12:40:48.843Z,SyZero.Sms,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:40:49.11Z,SyZero.SourceGenerator,9.1.0,HaitaoJin,Package Description
+2026-10-22T12:44:41.573Z,DndKit.Blazor,1.0.0,DndKit.Blazor contributors,A .NET 10 Razor Class Library adapter for dnd-kit DOM drag-and-drop behavior in Blazor WebAssembly and Server applications.
+2026-10-22T12:47:49.82Z,Elvia.Adms.Events.Switchingplan,1.0.0,adms-extensions-lib-switchingplan,Package Description
+2026-10-22T12:54:15.343Z,BetterRedsys.Simulator,1.0.0,"Jose Sagasta, BetterRedsys Contributors","Interactive in-memory local simulator, UI sandbox, and mock server for Redsys and Bizum payment gateway in ASP.NET Core. Facilitates local end-to-end development, webhook dispatching, and direct REST operation simulation without ngrok or real bank connectivity."
+2026-10-22T12:54:15.937Z,BetterRedsys,1.0.0,"Jose Sagasta, BetterRedsys Contributors","Modern, strongly-typed, high-performance, and Native AOT library for Redsys and Bizum payment gateway in ASP.NET Core and .NET 10. Designed for both traditional backends and decoupled architectures (React, Next.js, Blazor, Vue, Mobile). Librería moderna de pagos Redsys y Bizum."
+2026-10-22T12:57:01.55Z,VibeDxf.Wpf,0.2.0,Yoav Miller and contributors,"Embeddable Windows/WPF DXF viewer with prepared text geometry, document traversal, layer controls and double-precision distance measurement."
