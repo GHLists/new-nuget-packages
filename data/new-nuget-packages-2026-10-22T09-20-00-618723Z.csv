@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-22T08:22:50.397Z,SemanticMapper.Jev,0.1.1,Akbar Dizaji,TypeSafe Jev semantic field matcher for SemanticMapper. Calls the TypeSafe System One API directly with your own API key.
+2026-10-22T08:26:50.6Z,DWIS.RigOS.Capabilities.SOE.Model,1.0.1,Eric Cayeux,Package Description
+2026-10-22T08:27:19.407Z,DWIS.RigOS.Capabilities.Controller.Model,1.0.4,Eric Cayeux,Package Description
+2026-10-22T08:27:30.31Z,DWIS.RigOS.Capabilities.FDIR.Model,0.0.2,Eric Cayeux,Package Description
+2026-10-22T08:27:34.737Z,DWIS.RigOS.Capabilities.Procedure.Model,1.0.1,Eric Cayeux,Package Description
+2026-10-22T08:39:28.943Z,DWIS.RigOS.Capabilities.Service.Model,0.0.1,Eric Cayeux,Package Description
+2026-10-22T08:50:30.173Z,FryWorld.Plugin.Circuit,2.0.8,"PrashantUnity,Code Fry Dev",Interactive analog and digital circuit schematic CAD and real-time MNA simulation studio for FryWorld
+2026-10-22T08:52:09.127Z,JvmBridge.Tool,26.10.22.4199,void-community,"The jvmbridge command: disassemble class files, preview what an agent's patches would change, and pack a native agent into a jar that java -javaagent can start."
+2026-10-22T09:01:08.913Z,Xsl3.Build,1.0.0,Xsl3 contributors,"Compiles XSLT stylesheets ahead of time for Xsl3 (XslCompiledTransform.Load(Type)), so they load without compiling and run under NativeAOT."
+2026-10-22T09:01:10.01Z,Xsl3.Cli,1.0.0,Xsl3 contributors,"Command-line tool for Xsl3, the XSLT 3.0, XSLT 2.0 and XPath 3.1 processor for .NET: run transformations and explain what a stylesheet compiles to."
+2026-10-22T09:06:41.97Z,3CGroup.Core.Infrastructure.ApplicationLogging,1.0.11,3CGroup,Shared structured application logging primitives for 3CGroup services.
+2026-10-22T09:06:44Z,3CGroup.Core.Infrastructure.ApplicationLogging.AspNetCore,1.0.11,3CGroup,ASP.NET Core correlation and request logging middleware for 3CGroup services.
+2026-10-22T09:06:46.113Z,3CGroup.Core.Infrastructure.ApplicationLogging.MassTransit,1.0.11,3CGroup,MassTransit consumer correlation and retry logging for 3CGroup services.
+2026-10-22T09:07:40.93Z,xsi.osx-arm64,1.11.0,Alexandre Mutel,"CodeAlta Desktop: a desktop workspace for agentic AI coding on your local projects, with session tabs you can split, a file editor, model providers, MCP servers, skills and plugins. Start it with the alta command."
+2026-10-22T09:08:03.64Z,xsi,1.11.0,Alexandre Mutel,"CodeAlta Desktop: a desktop workspace for agentic AI coding on your local projects, with session tabs you can split, a file editor, model providers, MCP servers, skills and plugins. Start it with the alta command."
+2026-10-22T09:08:10.42Z,xsi.osx-x64,1.11.0,Alexandre Mutel,"CodeAlta Desktop: a desktop workspace for agentic AI coding on your local projects, with session tabs you can split, a file editor, model providers, MCP servers, skills and plugins. Start it with the alta command."
+2026-10-22T09:10:04.047Z,Shells.TypeMapper,1.1.0,Datamit,Class model mapper between entities in .NET.
+2026-10-22T09:10:27.49Z,VitalWatch.AspNetCore,0.1.0,CestnyTR,"VitalWatch Hub için ASP.NET Core raporlayıcı — yakalanmamış hatalar, 5xx yanıtlar, yavaş istekler, yavaş SQL sorguları (EF Core, SqlClient, Npgsql) ve çöken arka plan servisleri. Çalışma zamanı bağımlılığı yok."

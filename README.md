@@ -12,28 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 08:21 UTC
+## Latest list — 2026-10-22 09:20 UTC
 
-New packages created between 2026-10-22 07:20 UTC and 2026-10-22 08:21 UTC.
+New packages created between 2026-10-22 08:21 UTC and 2026-10-22 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T08-21-41-521585Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T09-20-00-618723Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 07:30:00 | [RavenDB.Zstd.Native](https://www.nuget.org/packages/RavenDB.Zstd.Native) | 1.5.7 | RavenDB | Native libzstd v1.5.7 (https://github.com/facebook/zstd) for win-x86, win-x64,… |
-| 2026-10-22 07:33:57 | [Envisia.EmbeddedNodeJs26.Native.linux-arm64](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26.Native.linux-arm64) | 0.6.0 | Embedded NodeJS | Embedded Node.js runtime for linux-arm64. |
-| 2026-10-22 07:33:57 | [Envisia.EmbeddedNodeJs26](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26) | 0.6.0 | Embedded NodeJS | Embeds prebuilt Node.js binaries (win/linux/mac, x64/arm64) for use by JavaScri… |
-| 2026-10-22 07:33:59 | [Envisia.EmbeddedNodeJs26.Native.win-x64](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26.Native.win-x64) | 0.6.0 | Embedded NodeJS | Embedded Node.js runtime for win-x64. |
-| 2026-10-22 07:34:01 | [Envisia.EmbeddedNodeJs26.Native.win-arm64](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26.Native.win-arm64) | 0.6.0 | Embedded NodeJS | Embedded Node.js runtime for win-arm64. |
-| 2026-10-22 07:34:03 | [Envisia.EmbeddedNodeJs26.Native.osx-x64](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26.Native.osx-x64) | 0.6.0 | Embedded NodeJS | Embedded Node.js runtime for osx-x64. |
-| 2026-10-22 07:34:06 | [Envisia.EmbeddedNodeJs26.Native.osx-arm64](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26.Native.osx-arm64) | 0.6.0 | Embedded NodeJS | Embedded Node.js runtime for osx-arm64. |
-| 2026-10-22 07:34:08 | [Envisia.EmbeddedNodeJs26.Native.linux-x64](https://www.nuget.org/packages/Envisia.EmbeddedNodeJs26.Native.linux-x64) | 0.6.0 | Embedded NodeJS | Embedded Node.js runtime for linux-x64. |
-| 2026-10-22 07:53:43 | [RustNetRuntime](https://www.nuget.org/packages/RustNetRuntime) | 0.1.0 | Gravicode Studios | RustNetRuntime: a .NET runtime (RustCLR) written in Rust. The rustnet command b… |
-| 2026-10-22 07:54:29 | [Webority.Jobs](https://www.nuget.org/packages/Webority.Jobs) | 0.27.0 | Webority.Jobs | DestructiveRunGuard: one brake for scheduled jobs that delete data or remove ac… |
-| 2026-10-22 07:58:55 | [FS.GG.SDD.Commands](https://www.nuget.org/packages/FS.GG.SDD.Commands) | 2.3.0 | FS.GG | Native lifecycle command workflow contracts for FS.GG.SDD. |
-| 2026-10-22 07:59:44 | [Hosihikari.Testing](https://www.nuget.org/packages/Hosihikari.Testing) | 1.0.0 | HosihikariFramework | Test host and in-memory host services for Hosihikari plugins. |
-| 2026-10-22 07:59:44 | [Hosihikari.Plugin.Build](https://www.nuget.org/packages/Hosihikari.Plugin.Build) | 1.0.0 | HosihikariFramework | MSBuild PackPlugin target for Hosihikari plugin packages. |
-| 2026-10-22 08:03:24 | [mdu](https://www.nuget.org/packages/mdu) | 5.0.0 | Jan Ruhlaender | MDU (Markdown Documentation Utility) for linting and rendering Markdown documen… |
+| 2026-10-22 08:22:50 | [SemanticMapper.Jev](https://www.nuget.org/packages/SemanticMapper.Jev) | 0.1.1 | Akbar Dizaji | TypeSafe Jev semantic field matcher for SemanticMapper. Calls the TypeSafe Syst… |
+| 2026-10-22 08:26:50 | [DWIS.RigOS.Capabilities.SOE.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.SOE.Model) | 1.0.1 | Eric Cayeux | Package Description |
+| 2026-10-22 08:27:19 | [DWIS.RigOS.Capabilities.Controller.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.Controller.Model) | 1.0.4 | Eric Cayeux | Package Description |
+| 2026-10-22 08:27:30 | [DWIS.RigOS.Capabilities.FDIR.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.FDIR.Model) | 0.0.2 | Eric Cayeux | Package Description |
+| 2026-10-22 08:27:34 | [DWIS.RigOS.Capabilities.Procedure.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.Procedure.Model) | 1.0.1 | Eric Cayeux | Package Description |
+| 2026-10-22 08:39:28 | [DWIS.RigOS.Capabilities.Service.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.Service.Model) | 0.0.1 | Eric Cayeux | Package Description |
+| 2026-10-22 08:50:30 | [FryWorld.Plugin.Circuit](https://www.nuget.org/packages/FryWorld.Plugin.Circuit) | 2.0.8 | PrashantUnity,Code Fry Dev | Interactive analog and digital circuit schematic CAD and real-time MNA simulati… |
+| 2026-10-22 08:52:09 | [JvmBridge.Tool](https://www.nuget.org/packages/JvmBridge.Tool) | 26.10.22.4199 | void-community | The jvmbridge command: disassemble class files, preview what an agent's patches… |
+| 2026-10-22 09:01:08 | [Xsl3.Build](https://www.nuget.org/packages/Xsl3.Build) | 1.0.0 | Xsl3 contributors | Compiles XSLT stylesheets ahead of time for Xsl3 (XslCompiledTransform.Load(Typ… |
+| 2026-10-22 09:01:10 | [Xsl3.Cli](https://www.nuget.org/packages/Xsl3.Cli) | 1.0.0 | Xsl3 contributors | Command-line tool for Xsl3, the XSLT 3.0, XSLT 2.0 and XPath 3.1 processor for… |
+| 2026-10-22 09:06:41 | [3CGroup.Core.Infrastructure.ApplicationLogging](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.ApplicationLogging) | 1.0.11 | 3CGroup | Shared structured application logging primitives for 3CGroup services. |
+| 2026-10-22 09:06:44 | [3CGroup.Core.Infrastructure.ApplicationLogging.AspNetCore](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.ApplicationLogging.AspNetCore) | 1.0.11 | 3CGroup | ASP.NET Core correlation and request logging middleware for 3CGroup services. |
+| 2026-10-22 09:06:46 | [3CGroup.Core.Infrastructure.ApplicationLogging.MassTransit](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.ApplicationLogging.MassTransit) | 1.0.11 | 3CGroup | MassTransit consumer correlation and retry logging for 3CGroup services. |
+| 2026-10-22 09:07:40 | [xsi.osx-arm64](https://www.nuget.org/packages/xsi.osx-arm64) | 1.11.0 | Alexandre Mutel | CodeAlta Desktop: a desktop workspace for agentic AI coding on your local proje… |
+| 2026-10-22 09:08:03 | [xsi](https://www.nuget.org/packages/xsi) | 1.11.0 | Alexandre Mutel | CodeAlta Desktop: a desktop workspace for agentic AI coding on your local proje… |
+| 2026-10-22 09:08:10 | [xsi.osx-x64](https://www.nuget.org/packages/xsi.osx-x64) | 1.11.0 | Alexandre Mutel | CodeAlta Desktop: a desktop workspace for agentic AI coding on your local proje… |
+| 2026-10-22 09:10:04 | [Shells.TypeMapper](https://www.nuget.org/packages/Shells.TypeMapper) | 1.1.0 | Datamit | Class model mapper between entities in .NET. |
+| 2026-10-22 09:10:27 | [VitalWatch.AspNetCore](https://www.nuget.org/packages/VitalWatch.AspNetCore) | 0.1.0 | CestnyTR | VitalWatch Hub için ASP.NET Core raporlayıcı — yakalanmamış hatalar, 5xx yanıtl… |
 
 ## Data source
 
