@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-22T01:29:23.58Z,OwlDomain.SDL3.Mixer.Native,3.2.4,OwlDomain,Native binaries for SDL3_mixer.
+2026-10-22T02:01:37.557Z,NuvTools.Security.Verification.Twilio,10.0.0,Nuv Tools,"Twilio Verify implementation of the NuvTools.Security phone verification contract: a one-time code is sent by text message or call, and checked, without the application ever holding it."
+2026-10-22T02:07:26.027Z,Icod.Dedit,1.0.0,Timothy J. Bruce,"Tabbed terminal text editor for .NET 8, 9 and 10."
+2026-10-22T02:11:04.64Z,PrintService.Core,1.0.0,Paicore,PrintService for ASP.NET Core
+2026-10-22T02:11:09.613Z,Fickl.AST,0.5.2,"Alfonso García-Caro Núñez,Fable contributors,Fickl contributors",Fable AST
+2026-10-22T02:11:12.367Z,Fickl.Core,0.5.2,"Alfonso García-Caro Núñez,Fable contributors,Fickl contributors",Fable Core Library
+2026-10-22T02:11:28.55Z,Fickl.Compiler,0.5.2,"Alfonso García-Caro Núñez,Fable contributors,Fickl contributors",Package Description
+2026-10-22T02:14:17.197Z,Fickl.PublishUtils,0.5.2,"Alfonso García-Caro Núñez,Fable contributors,Fickl contributors",Package Description
