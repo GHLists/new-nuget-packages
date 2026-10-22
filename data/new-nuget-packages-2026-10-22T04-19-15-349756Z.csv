@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-22T03:22:33.703Z,NetSlice.Cli,1.0.0,x64silva,Enterprise CLI tool to scaffold Vertical Slice Architecture endpoints in NetSlice projects.
+2026-10-22T03:22:37.41Z,Rocket.Surgery.AssemblyInfo,2026.10.3,"David Driscoll,Rocket Surgeons Guild contributors",Package Description
+2026-10-22T03:43:08.217Z,JvmBridge.Testing,26.10.22.2272,void-community,"Test helpers for JvmBridge agents on xUnit v3: checksum-pinned JDKs, javac and java runners, published-agent lookup, and class-file assertions."
+2026-10-22T03:43:09.553Z,JvmBridge.Templates,26.10.22.2272,void-community,"The jvmbridge-agent template for dotnet new: a NativeAOT JVM agent with a declarative class patch, a Java helper, unit and JVM tests, and a CI matrix that publishes every platform."
+2026-10-22T03:47:29.877Z,accesskit-dotnet,0.23.1.8,drasticactions,.NET bindings for AccessKit
+2026-10-22T03:47:45.873Z,accesskit-dotnet.avalonia,0.23.1.8,drasticactions,Avalonia AccessKit Support
+2026-10-22T03:52:29.13Z,Egap.Documents.Html,2.0.0,Lars Dytterud,"HTML for Egap.Documents: HTML and XHTML read into the document model through the CSS cascade and written from it, with @page rules and margin boxes, HTML to PDF, and HTML stamps and page bands."
+2026-10-22T03:52:29.63Z,Egap.Documents.Markdown,2.0.0,Lars Dytterud,"Markdown for Egap.Documents: CommonMark and GitHub Markdown read into the document model and written from it, with front matter, images and Markdown to PDF."
+2026-10-22T03:59:39.97Z,TedToolkit.DependencyInjection,2026.10.22,TedToolkit,Compile-time service registration and dependency modules for Microsoft.Extensions.DependencyInjection.
+2026-10-22T04:03:55.53Z,VikashKumar.XrmToolBox.DiagnosticsWorkbench,1.2026.10.1,Vikash Kumar,"Dataverse Developer Diagnostics Workbench turns plug-in trace logs into actionable diagnostics. Load logs by date range, table, message and plugin type, then review recurring errors grouped by a normalized exception fingerprint, slow executions against configurable thresholds, correlation chains re…"
+2026-10-22T04:03:56.51Z,AcnhModding.BfevLibrary,1.0.0,Arch Leaders,ACNH Modding fork of BfevLibrary with EventFlowToCode serialization fixes. Based on BfevLibrary by Arch Leaders and evfl by Léo Lam.
+2026-10-22T04:11:40.067Z,Zhomfr.Helpers.SmartFile,0.4.0,zhuolyan (Oleg Zhuravskiy),Helpers for working with file streams.
