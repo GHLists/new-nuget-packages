@@ -1,0 +1,31 @@
+created_at,package,version,authors,description
+2026-10-22T10:33:41.593Z,CrestronHomeDriver.Easee.Charger,1.0.2,Neil Colvin,Crestron Home Entity V2 Easee charger driver distribution containing the final .pkg payload.
+2026-10-22T10:42:03.907Z,Octeka.Configuration,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:04.563Z,Octeka.Configuration.Abstractions,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:05.177Z,Octeka.Configuration.Mapper,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:05.913Z,Octeka.Configuration.Mapper.Abstractions,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:06.683Z,Octeka.Configuration.Providers.CommandLine,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:07.407Z,Octeka.Configuration.Providers.EnvironmentVariables,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:08.05Z,Octeka.Configuration.Providers.Ini,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:08.857Z,Octeka.Configuration.Providers.Json,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:09.643Z,Octeka.Configuration.Providers.KeyPerFile,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:10.41Z,Octeka.Configuration.Providers.Memory,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:11.117Z,Octeka.Configuration.Providers.Xml,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T10:42:12.067Z,Octeka.Configuration.Providers.Yaml,1.0.0,Patrick Robichaud,Package Description
+2026-10-22T11:00:51.19Z,Pi.Agent,1.0.4,xuzeyu91,"Agent runtime: the agent state machine with dual queues, the agent-loop main loop, and sequential / parallel tool execution with abort and reset."
+2026-10-22T11:00:52.387Z,Pi.Ai,1.0.4,xuzeyu91,"Unified multi-provider LLM API for .NET: 10 native API implementations, a 42-provider catalog, streaming events, tool calls, thinking budgets, image generation, and OAuth login flows."
+2026-10-22T11:00:53.577Z,Pi.Chord,1.0.4,xuzeyu91,"Standalone application orchestration runtime: services, replicated state, RPC, and the facets dependency graph with topological activation."
+2026-10-22T11:00:54.69Z,Pi.Client,1.0.4,xuzeyu91,"RPC client: connection management, transports, and the request/response promise map used to drive a remote Pi server."
+2026-10-22T11:00:55.813Z,Pi.Codemode,1.0.4,xuzeyu91,"Sandboxed JavaScript execution whose only capability is calling injected tools, with a replaceable ICodemodeJsEngine seam and a default Jint VM."
+2026-10-22T11:00:56.957Z,Pi.CodingAgent,1.0.4,xuzeyu91,"The interactive coding agent: session runtime, built-in tools, skills, themes, RPC mode, and compiled .NET extensions."
+2026-10-22T11:00:58.243Z,Pi.Durable,1.0.4,xuzeyu91,"Durable sessions, task graphs, and recovery, with memory / SQLite / JSONL-file storage backends and a coding-agent harness."
+2026-10-22T11:00:59.337Z,Pi.Env,1.0.4,xuzeyu91,Remote execution environments over SSH: the pi-env daemon client and the framed protocol it speaks.
+2026-10-22T11:01:00.46Z,Pi.Mcp,1.0.4,xuzeyu91,"Model Context Protocol client: JSON-RPC protocol layer, in-memory / stdio / streamable-http transports, and the full OAuth layer (metadata discovery, PKCE, dynamic registration)."
+2026-10-22T11:01:01.553Z,Pi.Protocol,1.0.4,xuzeyu91,"CBOR wire protocol: framing, codec, and the definite-length strict subset with JS safe-integer boundaries. Wire-compatible with the TypeScript implementation."
+2026-10-22T11:01:02.723Z,Pi.Server,1.0.4,xuzeyu91,"RPC server: session router, request dispatch, cancellation, push, and transports including Unix domain sockets and local server discovery."
+2026-10-22T11:01:03.873Z,Pi.Telemetry,1.0.4,xuzeyu91,"Vendor-neutral telemetry contracts: typed schemas, a reference adapter, and a conformance test suite."
+2026-10-22T11:01:04.94Z,Pi.Tui,1.0.4,xuzeyu91,"Terminal UI framework: differential rendering, grapheme-aware layout and wrapping, ANSI/OSC parsing, Kitty keyboard protocol, overlays, focus management, and a full-screen alternate-screen renderer."
+2026-10-22T11:05:40.76Z,EPCM.I.Sdk,1.0.0,digitales bauen,"SDK for authoring C# command extensions for the EPCM.I Revit add-in. Implement IRevitTask, build a DLL, drop it into the extensions folder — no host rebuild. Works with Revit 2025, 2026 and 2027."
+2026-10-22T11:05:43.143Z,CleanArch.Create,1.0.0,Pierre-MarieMarchio,"Creates a .NET 10 HTTP API on Clean Architecture from the CleanArch.WebApi.Templates package by asking for each option, or adds a web app or a web package to a project it generated: dnx CleanArch.Create."
+2026-10-22T11:05:43.893Z,CleanArch.WebApi.Templates,1.0.0,Pierre-MarieMarchio,"dotnet new templates for a .NET 10 HTTP API on Clean Architecture, meant to be kept: cleanarch-webapi generates the solution (EF Core on PostgreSQL, SQL Server or SQLite, local, external or no authentication, Files, jobs, mail, architecture tests, CI and documentation, each part chosen by an option…"
+2026-10-22T11:06:39.21Z,Wallaby.Aspire.Hosting,1.4.0,JT,"Aspire AppHost integration for Wallaby: enables logical replication on Aspire's Postgres container and adds a dashboard resource that shows a Wallaby installation's slots, backfill progress and suspension state, with commands to backfill, suspend, resume and widen publications."
