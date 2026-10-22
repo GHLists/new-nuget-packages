@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-22T02:24:45.44Z,Bitbound.GitNotesMcp,0.1.7,Jared Goodwin,"A Model Context Protocol (MCP) server for creating, reading, editing, and searching markdown notes stored in a git repository."
+2026-10-22T02:28:05.373Z,ConvexDecomposition.NET,1.0.0,David Katz,"Core of the .NET convex decomposition packages (CuACD.NET, CoACD.NET, VHACD.NET): Mesh and IConvexDecomposer, plus backend-independent tools: GPU-to-CPU fallback, result caching, hull post-processing (hull count and vertex limits, margins), convex hulls, mass properties, mesh checks and OBJ I/O."
+2026-10-22T02:28:06.037Z,VHACD.NET,4.1.0,David Katz,".NET bindings for V-HACD 4 (Voxelized Hierarchical Approximate Convex Decomposition), the decomposition behind many game engine and physics toolchains. Fast and voxel-based; runs on the CPU with no extra runtime dependencies."
+2026-10-22T02:28:06.86Z,CoACD.NET,1.0.14,David Katz,".NET bindings for CoACD (Approximate Convex Decomposition for 3D Meshes with Collision-Aware Concavity and Tree Search, SIGGRAPH 2022). Built from source with an exception-safe native shim; runs on the CPU with no extra runtime dependencies."
+2026-10-22T02:28:09.06Z,CuACD.NET,0.1.0,David Katz,".NET bindings for CuACD, a fully GPU-resident approximate convex decomposition (ACD) of 3D meshes. A CUDA-accelerated alternative to CoACD, typically 50-100x faster. Requires an NVIDIA GPU and driver; no CUDA toolkit needed."
+2026-10-22T02:38:36.633Z,OpenXmlForge,1.0.0,Matheus Medeiros,"Modern, high-performance .NET 10+ Word (DOCX) template engine built on OpenXML with low memory allocation and streaming-first design."
+2026-10-22T02:41:23.097Z,DuckByte.Titanium.ModAPI,0.1.0,Dan,Modding API for Titanium.
+2026-10-22T02:51:18.443Z,Bitzsoft.Integrations.SyntheticData,1.0.4,Bitzsoft,Bitzsoft 智能合成数据与 Mock 引擎核心 — 支持无锁单调雪花 ID、DDD 实体穿透绑定、防碰撞唯一性保障与级联不变量
+2026-10-22T03:00:18.67Z,ZeroMapper.Abstractions,1.0.0,ZeroMapper contributors,"A strict, source-generated object mapper for .NET with protected members and explicit update allow-lists."
+2026-10-22T03:00:58.36Z,ZeroMapper.Generator,1.0.0,ZeroMapper contributors,"A strict, source-generated object mapper for .NET with protected members and explicit update allow-lists."
+2026-10-22T03:01:33.673Z,ZeroMapper,1.0.0,ZeroMapper contributors,"A strict, source-generated object mapper for .NET with protected members and explicit update allow-lists."
+2026-10-22T03:12:16.253Z,Chime,0.0.1,v.la@live.cn,Chime
