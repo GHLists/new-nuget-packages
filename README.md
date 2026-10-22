@@ -12,32 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 05:20 UTC
+## Latest list — 2026-10-22 06:19 UTC
 
-New packages created between 2026-10-22 04:19 UTC and 2026-10-22 05:20 UTC.
+New packages created between 2026-10-22 05:20 UTC and 2026-10-22 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T05-20-45-214496Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T06-19-48-795082Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 04:20:04 | [AcnhModding.EventFlowToCode.Core](https://www.nuget.org/packages/AcnhModding.EventFlowToCode.Core) | 1.0.0 | ACNH Modding | Compiler and decompiler for readable Nintendo EventFlow (.bfevfl) source. |
-| 2026-10-22 04:26:10 | [GJJ.Keystone.Strategy](https://www.nuget.org/packages/GJJ.Keystone.Strategy) | 1.0.0 | GJJ.Keystone.Strategy | 业务启停策略契约与时间、渠道、工作日日历判断 |
-| 2026-10-22 04:26:14 | [GJJ.Keystone.AspNetCore.Strategy](https://www.nuget.org/packages/GJJ.Keystone.AspNetCore.Strategy) | 1.0.0 | GJJ.Keystone.AspNetCore.Strat… | 业务启停策略执行、缓存及接口目录 |
-| 2026-10-22 04:34:14 | [Tern.Cli.win-x64](https://www.nuget.org/packages/Tern.Cli.win-x64) | 0.1.0 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
-| 2026-10-22 04:34:16 | [Tern.Cli.linux-x64](https://www.nuget.org/packages/Tern.Cli.linux-x64) | 0.1.1 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
-| 2026-10-22 04:34:19 | [Tern.Cli.osx-x64](https://www.nuget.org/packages/Tern.Cli.osx-x64) | 0.1.1 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
-| 2026-10-22 04:34:20 | [Tern.Cli](https://www.nuget.org/packages/Tern.Cli) | 0.1.1 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
-| 2026-10-22 04:42:41 | [Polhem.DbManager](https://www.nuget.org/packages/Polhem.DbManager) | 1.8.0 | Polhem contributors | Polhem database manager, a dotnet tool invoked as `polhem-db`. Creates, checks… |
-| 2026-10-22 04:42:45 | [Polhem.DefineEditor](https://www.nuget.org/packages/Polhem.DefineEditor) | 1.8.0 | Polhem contributors | Polhem DefineEditor, the desktop editor for Polhem definition files, as a dotne… |
-| 2026-10-22 04:42:52 | [Polhem.Templates](https://www.nuget.org/packages/Polhem.Templates) | 1.8.0 | Polhem contributors | Project templates for Polhem. `dotnet new polhem-avalonia` creates an applicati… |
-| 2026-10-22 04:42:56 | [Polhem.UI.Avalonia.Shell](https://www.nuget.org/packages/Polhem.UI.Avalonia.Shell) | 1.8.0 | Polhem contributors | A ready-made Avalonia front end for a Polhem backend: connect, sign in to a com… |
-| 2026-10-22 04:47:31 | [NativeImpl](https://www.nuget.org/packages/NativeImpl) | 0.5.0 | dewf | Language-agnostic native bindings generator |
-| 2026-10-22 05:01:47 | [DeBlasis.GhosttyVt](https://www.nuget.org/packages/DeBlasis.GhosttyVt) | 1.4.0 | Alessandro De Blasis | Unofficial .NET bindings for libghostty-vt — the standalone VT parser from the… |
-| 2026-10-22 05:07:26 | [Oicana.Native.win-x64](https://www.nuget.org/packages/Oicana.Native.win-x64) | 0.10.0 | Oicana | Native library of Oicana for win-x64. The Oicana package references it; referen… |
-| 2026-10-22 05:07:28 | [Oicana.Native.linux-arm64](https://www.nuget.org/packages/Oicana.Native.linux-arm64) | 0.10.0 | Oicana | Native library of Oicana for linux-arm64. The Oicana package references it; ref… |
-| 2026-10-22 05:07:29 | [Oicana.Native.osx-x64](https://www.nuget.org/packages/Oicana.Native.osx-x64) | 0.10.0 | Oicana | Native library of Oicana for osx-x64. The Oicana package references it; referen… |
-| 2026-10-22 05:07:29 | [Oicana.Core](https://www.nuget.org/packages/Oicana.Core) | 0.10.0 | Oicana | Managed part of Oicana, without native libraries. Either reference the Oicana p… |
-| 2026-10-22 05:07:30 | [Oicana.Native.win-arm64](https://www.nuget.org/packages/Oicana.Native.win-arm64) | 0.10.0 | Oicana | Native library of Oicana for win-arm64. The Oicana package references it; refer… |
+| 2026-10-22 05:23:36 | [HamsterWheel.HLinq.Lang.Pl](https://www.nuget.org/packages/HamsterWheel.HLinq.Lang.Pl) | 0.13.0 | HamsterWheel.HLinq.Lang.Pl | Package Description |
+| 2026-10-22 05:23:37 | [HamsterWheel.HLinq.SqlServer](https://www.nuget.org/packages/HamsterWheel.HLinq.SqlServer) | 0.13.0 | HamsterWheel.HLinq.SqlServer | Package Description |
+| 2026-10-22 05:23:38 | [HamsterWheel.HLinq.Sqlite](https://www.nuget.org/packages/HamsterWheel.HLinq.Sqlite) | 0.13.0 | HamsterWheel.HLinq.Sqlite | Package Description |
+| 2026-10-22 05:23:39 | [HamsterWheel.HLinq.MariaDb](https://www.nuget.org/packages/HamsterWheel.HLinq.MariaDb) | 0.13.0 | HamsterWheel.HLinq.MariaDb | Package Description |
+| 2026-10-22 05:23:40 | [HamsterWheel.HLinq.MySql](https://www.nuget.org/packages/HamsterWheel.HLinq.MySql) | 0.13.0 | HamsterWheel.HLinq.MySql | Package Description |
+| 2026-10-22 05:34:11 | [JvmBridge.Logging](https://www.nuget.org/packages/JvmBridge.Logging) | 26.10.22.2987 | void-community | Microsoft.Extensions.Logging adapters for JvmBridge agents: an ILogger that wri… |
+| 2026-10-22 05:52:21 | [Runic.CommandLine](https://www.nuget.org/packages/Runic.CommandLine) | 0.8.0 | RunicArtifex | Parser-neutral command catalog, execution, host integration, and output kernel… |
+| 2026-10-22 05:52:22 | [Runic.CommandLine.Processes](https://www.nuget.org/packages/Runic.CommandLine.Processes) | 0.8.0 | RunicArtifex | Bounded and cancellable local process execution for command-line clients. |
+| 2026-10-22 05:52:23 | [Runic.CommandLine.Spectre](https://www.nuget.org/packages/Runic.CommandLine.Spectre) | 0.8.0 | RunicArtifex | Spectre.Console presentation for Runic Command Line applications. |
+| 2026-10-22 05:52:24 | [Runic.CommandLine.Testing](https://www.nuget.org/packages/Runic.CommandLine.Testing) | 0.8.0 | RunicArtifex | Deterministic test helpers for Runic Command Line applications. |
+| 2026-10-22 06:06:16 | [Tern.Cli.win-arm64](https://www.nuget.org/packages/Tern.Cli.win-arm64) | 0.1.2 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
+| 2026-10-22 06:06:19 | [Tern.Cli.linux-arm64](https://www.nuget.org/packages/Tern.Cli.linux-arm64) | 0.1.2 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
+| 2026-10-22 06:06:22 | [Tern.Cli.osx-arm64](https://www.nuget.org/packages/Tern.Cli.osx-arm64) | 0.1.2 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
 
 ## Data source
 
