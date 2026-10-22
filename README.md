@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 22:22 UTC
+## Latest list — 2026-10-22 23:21 UTC
 
-New packages created between 2026-10-22 21:19 UTC and 2026-10-22 22:22 UTC.
+New packages created between 2026-10-22 22:22 UTC and 2026-10-22 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T22-22-22-256745Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T23-21-56-23101Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 21:24:52 | [SpCraft.Net.Common.Http.Correlation](https://www.nuget.org/packages/SpCraft.Net.Common.Http.Correlation) | 2.0.42 | SpCraft.Net.Common.Http.Corre… | Package Description |
-| 2026-10-22 21:31:38 | [RecursiveAI.OneImage.Text](https://www.nuget.org/packages/RecursiveAI.OneImage.Text) | 1.2.0 | Recursive AI, LLC | Fonts and text for OneImage: loads TrueType, OpenType (CFF), TrueType Collectio… |
-| 2026-10-22 21:35:23 | [EzeIO.Keylogger](https://www.nuget.org/packages/EzeIO.Keylogger) | 1.1.0 | Eze-IO | A library that uses the Windows low-level keyboard hook (WH_KEYBOARD_LL) to rai… |
-| 2026-10-22 21:43:51 | [Sakura.Framework.Android](https://www.nuget.org/packages/Sakura.Framework.Android) | 2026.1023.0 | HelloYeew | Runs a Sakura Framework app on Android: the activity, window, touch, lifecycle… |
+| 2026-10-22 22:24:42 | [StructuredConcurrency.Hosting](https://www.nuget.org/packages/StructuredConcurrency.Hosting) | 0.6.0 | Gokhan Ertogan | A BackgroundService whose work runs in a StructuredConcurrency TaskGroup: on sh… |
+| 2026-10-22 22:34:26 | [CuteDB.Browser](https://www.nuget.org/packages/CuteDB.Browser) | 2.2.0 | Gravicode Studios, Kang Fadhil | CuteDB Browser: a desktop workbench for CuteDB databases. Browse collections an… |
+| 2026-10-22 22:36:14 | [Lissic](https://www.nuget.org/packages/Lissic) | 0.1.0 | Gary Gende | A templating library for .NET |
+| 2026-10-22 22:42:27 | [Microsoft.Agents.CopilotStudio.Sync](https://www.nuget.org/packages/Microsoft.Agents.CopilotStudio.Sync) | 1.9.19 | Microsoft | Shared library for cloning, synchronizing, and projecting Microsoft Copilot Stu… |
+| 2026-10-22 22:44:15 | [Coss](https://www.nuget.org/packages/Coss) | 0.1.0 | coss.com | The coss.com SDK for .NET: every endpoint of the coss.com API, typed, with retr… |
 
 ## Data source
 

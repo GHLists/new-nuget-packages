@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-22T22:24:42.183Z,StructuredConcurrency.Hosting,0.6.0,Gokhan Ertogan,"A BackgroundService whose work runs in a StructuredConcurrency TaskGroup: on shutdown every child task is cancelled and awaited, and a failing child stops the service with its real exception instead of leaving work running in the background."
+2026-10-22T22:34:26.317Z,CuteDB.Browser,2.2.0,"Gravicode Studios, Kang Fadhil","CuteDB Browser: a desktop workbench for CuteDB databases. Browse collections and their inferred fields, write CuteQL or LINQ with the generated CuteQL and the query plan shown beside the rows, and ask Jack, an LLM assistant that reads the real schema before writing a query. Built on Avalonia."
+2026-10-22T22:36:14.473Z,Lissic,0.1.0,Gary Gende,A templating library for .NET
+2026-10-22T22:42:27.657Z,Microsoft.Agents.CopilotStudio.Sync,1.9.19,Microsoft,"Shared library for cloning, synchronizing, and projecting Microsoft Copilot Studio agent workspaces."
+2026-10-22T22:44:15.417Z,Coss,0.1.0,coss.com,"The coss.com SDK for .NET: every endpoint of the coss.com API, typed, with retries, idempotency keys and webhook verification."
