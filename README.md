@@ -12,34 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 18:19 UTC
+## Latest list — 2026-10-22 19:21 UTC
 
-New packages created between 2026-10-22 17:19 UTC and 2026-10-22 18:19 UTC.
+New packages created between 2026-10-22 18:19 UTC and 2026-10-22 19:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T18-19-31-328563Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T19-21-36-831848Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 17:19:56 | [Tapline.Wasm](https://www.nuget.org/packages/Tapline.Wasm) | 0.1.0 | Mark Hammond | Tapline's WebAssembly, run by Wasmtime: a data provider's folds, finalizers and… |
-| 2026-10-22 17:20:24 | [Tapline.Client.Opaque](https://www.nuget.org/packages/Tapline.Client.Opaque) | 0.1.0 | Mark Hammond | A .NET client's password sign-in to Tapline by OPAQUE (RFC 9807), the password… |
-| 2026-10-22 17:21:08 | [Tapline.Client](https://www.nuget.org/packages/Tapline.Client) | 0.1.0 | Mark Hammond | Tapline's core and its .NET client: shared state fanned out to many clients, pr… |
-| 2026-10-22 17:33:48 | [Runic.Translations](https://www.nuget.org/packages/Runic.Translations) | 0.8.0 | RunicArtifex | Runtime contracts for compiled Runic Translations. |
-| 2026-10-22 17:33:48 | [Runic.Translations.Build](https://www.nuget.org/packages/Runic.Translations.Build) | 0.8.0 | RunicArtifex | Deterministic MSBuild integration for Runic.Translations translation artifacts. |
-| 2026-10-22 17:33:49 | [Runic.Translations.CommandLine](https://www.nuget.org/packages/Runic.Translations.CommandLine) | 0.8.0 | RunicArtifex | Translates Runic.CommandLine help, errors and faults with Runic Translations, w… |
-| 2026-10-22 17:33:49 | [Runic.Translations.Tooling](https://www.nuget.org/packages/Runic.Translations.Tooling) | 0.8.0 | RunicArtifex | MF2 compiler, interchange, and transactional authoring facade for Runic Transla… |
-| 2026-10-22 17:33:50 | [Runic.Translations.Wpf](https://www.nuget.org/packages/Runic.Translations.Wpf) | 0.8.0 | RunicArtifex | WPF inline and document rendering for compiled RMF2 messages. |
-| 2026-10-22 17:33:51 | [Runic.Translations.Templates](https://www.nuget.org/packages/Runic.Translations.Templates) | 0.8.0 | RunicArtifex | .NET project and item templates for Runic Translations. |
-| 2026-10-22 17:33:51 | [dotnet-runic-translations](https://www.nuget.org/packages/dotnet-runic-translations) | 0.8.0 | RunicArtifex | Deterministic validation and generation tool for Runic Translations. |
-| 2026-10-22 17:38:50 | [Scarlet.AspNetCore.Components.WebView.Win32Aot](https://www.nuget.org/packages/Scarlet.AspNetCore.Components.WebView.Win32Aot) | 1.2.1 | ScarletKuro | Build native Win32 apps with Blazor and WebView2, NativeAOT and trimming friend… |
-| 2026-10-22 18:03:48 | [Aurix.Server](https://www.nuget.org/packages/Aurix.Server) | 1.8.1 | Aurix contributors | Server-side (game backend) SDK for the Aurix voice platform REST API: token iss… |
-| 2026-10-22 18:05:20 | [Lowline](https://www.nuget.org/packages/Lowline) | 0.1.0 | iyulab | A form engine that learns from the records people confirm: suggestions for a fo… |
-| 2026-10-22 18:05:20 | [Lowline.Sqlite](https://www.nuget.org/packages/Lowline.Sqlite) | 0.1.0 | iyulab | A SQLite store for the Lowline engine: the settled records and the tuning of ea… |
-| 2026-10-22 18:05:21 | [Lowline.AspNetCore](https://www.nuget.org/packages/Lowline.AspNetCore) | 0.1.0 | iyulab | ASP.NET Core endpoints for the Lowline engine: AddLowline and MapLowline put a… |
-| 2026-10-22 18:09:26 | [RateLimitEngine.AspNetCore](https://www.nuget.org/packages/RateLimitEngine.AspNetCore) | 1.0.1 | Peyman Salimi | ASP.NET Core middleware integration for RateLimitEngine with in-memory and Redi… |
-| 2026-10-22 18:09:26 | [RateLimitEngine.Core](https://www.nuget.org/packages/RateLimitEngine.Core) | 1.0.1 | Peyman Salimi | Core abstractions, models, timing, observability, and contracts for RateLimitEn… |
-| 2026-10-22 18:09:27 | [RateLimitEngine.Algorithms](https://www.nuget.org/packages/RateLimitEngine.Algorithms) | 1.0.1 | Peyman Salimi | In-memory rate limiting algorithms for RateLimitEngine, including Fixed Window,… |
-| 2026-10-22 18:09:28 | [RateLimitEngine.Redis](https://www.nuget.org/packages/RateLimitEngine.Redis) | 1.0.1 | Peyman Salimi | Redis-backed distributed rate limiting infrastructure for RateLimitEngine. |
-| 2026-10-22 18:11:34 | [JsonPropertyAttribute](https://www.nuget.org/packages/JsonPropertyAttribute) | 0.0.1 | AXCWG | Store complex CLR properties in a single TEXT column with System.Text.Json: mar… |
+| 2026-10-22 18:19:39 | [NetApiFlow.Storage.SqlServer](https://www.nuget.org/packages/NetApiFlow.Storage.SqlServer) | 0.1.0 | Douglas Lima | Package Description |
+| 2026-10-22 18:19:39 | [NetApiFlow.EntityFrameworkCore](https://www.nuget.org/packages/NetApiFlow.EntityFrameworkCore) | 0.1.0 | Douglas Lima | Package Description |
+| 2026-10-22 18:19:40 | [NetApiFlow.Storage.PostgreSql](https://www.nuget.org/packages/NetApiFlow.Storage.PostgreSql) | 0.1.0 | Douglas Lima | Package Description |
+| 2026-10-22 18:19:41 | [NetApiFlow](https://www.nuget.org/packages/NetApiFlow) | 0.1.0 | Douglas Lima | Package Description |
+| 2026-10-22 18:19:41 | [NetApiFlow.Dashboard](https://www.nuget.org/packages/NetApiFlow.Dashboard) | 0.1.0 | Douglas Lima | Package Description |
+| 2026-10-22 18:19:42 | [NetApiFlow.MediatR](https://www.nuget.org/packages/NetApiFlow.MediatR) | 0.1.0 | Douglas Lima | Package Description |
+| 2026-10-22 18:20:34 | [Octeka.CodeAnalysis.Strings](https://www.nuget.org/packages/Octeka.CodeAnalysis.Strings) | 1.0.0 | Patrick Robichaud | Fast, flexible template string expansion library with configurable delimiters a… |
+| 2026-10-22 18:20:34 | [Octeka.CodeAnalysis.Strings.Abstractions](https://www.nuget.org/packages/Octeka.CodeAnalysis.Strings.Abstractions) | 1.0.0 | Patrick Robichaud | Core abstractions and contracts for template string expansion and property reso… |
+| 2026-10-22 18:26:06 | [SFSharp.Protocol](https://www.nuget.org/packages/SFSharp.Protocol) | 5.0.0 | AllahPower | Native-free SA-MP packet and RPC models, parsers and RakNet-compatible managed… |
+| 2026-10-22 18:26:07 | [SFSharp.Abstractions](https://www.nuget.org/packages/SFSharp.Abstractions) | 5.0.0 | AllahPower | Managed plugin contracts for SF: GTA and SA-MP services, module lifecycle, stor… |
+| 2026-10-22 18:28:00 | [InitializeNL.Dapper.TypeMapping](https://www.nuget.org/packages/InitializeNL.Dapper.TypeMapping) | 1.0.0 | Frank Hommers | Explicit column mapping for Dapper. Scans assemblies for types marked with [Tab… |
+| 2026-10-22 18:36:22 | [Egami.Heic](https://www.nuget.org/packages/Egami.Heic) | 1.1.0 | Lars Dytterud | HEIC for Egami: reads HEIF files with HEVC-coded images, such as iPhone and And… |
+| 2026-10-22 18:36:23 | [Egami.Cli](https://www.nuget.org/packages/Egami.Cli) | 1.1.0 | Lars Dytterud | The egami command: convert, inspect, resize and edit images from a shell or a b… |
+| 2026-10-22 18:51:59 | [Egap.Preview](https://www.nuget.org/packages/Egap.Preview) | 2.1.0 | Lars Dytterud | egap-preview: a live preview of Egap documents on a local web page. It shows th… |
+| 2026-10-22 18:58:40 | [Google.Apis.DisplayVideo.v5](https://www.nuget.org/packages/Google.Apis.DisplayVideo.v5) | 1.77.0.4309 | Google LLC | Google APIs Client Library for working with Displayvideo v5. Product documentat… |
+| 2026-10-22 18:58:45 | [PdfPecker.Fluent](https://www.nuget.org/packages/PdfPecker.Fluent) | 1.19.0 | Moonwalker1307 | Fluent C# API for building PDFs with PdfPecker: pages, headers, footers, column… |
+| 2026-10-22 18:58:52 | [AWSSDK.Continuum](https://www.nuget.org/packages/AWSSDK.Continuum) | 4.0.100 | Amazon Web Services | Releasing Continuum for Code Vulnerabilities APIs for SDKs |
+| 2026-10-22 19:04:16 | [WpfToolkitAutoCompleteBoxExtended](https://www.nuget.org/packages/WpfToolkitAutoCompleteBoxExtended) | 1.0.0 | gszobi | The WPF Toolkit AutoCompleteBox (Ms-PL) for .NET 8 and .NET Framework 4.8, with… |
+| 2026-10-22 19:05:21 | [JJMasterData.Data.SourceGenerators](https://www.nuget.org/packages/JJMasterData.Data.SourceGenerators) | 5.0.16 | JJMasterData.Data.SourceGener… | Incremental SQL result materializers for JJMasterData DataAccess. |
+| 2026-10-22 19:13:18 | [Themis.Inference.Foundry](https://www.nuget.org/packages/Themis.Inference.Foundry) | 1.7.0 | Themis contributors | Optional Microsoft Foundry remote provider for typed Themis decisions. |
 
 ## Data source
 

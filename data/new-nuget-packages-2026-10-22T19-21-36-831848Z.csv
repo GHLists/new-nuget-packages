@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-22T18:19:39.1Z,NetApiFlow.Storage.SqlServer,0.1.0,Douglas Lima,Package Description
+2026-10-22T18:19:39.85Z,NetApiFlow.EntityFrameworkCore,0.1.0,Douglas Lima,Package Description
+2026-10-22T18:19:40.49Z,NetApiFlow.Storage.PostgreSql,0.1.0,Douglas Lima,Package Description
+2026-10-22T18:19:41.13Z,NetApiFlow,0.1.0,Douglas Lima,Package Description
+2026-10-22T18:19:41.887Z,NetApiFlow.Dashboard,0.1.0,Douglas Lima,Package Description
+2026-10-22T18:19:42.577Z,NetApiFlow.MediatR,0.1.0,Douglas Lima,Package Description
+2026-10-22T18:20:34.177Z,Octeka.CodeAnalysis.Strings,1.0.0,Patrick Robichaud,"Fast, flexible template string expansion library with configurable delimiters and pluggable property resolvers."
+2026-10-22T18:20:34.84Z,Octeka.CodeAnalysis.Strings.Abstractions,1.0.0,Patrick Robichaud,Core abstractions and contracts for template string expansion and property resolution.
+2026-10-22T18:26:06.367Z,SFSharp.Protocol,5.0.0,AllahPower,"Native-free SA-MP packet and RPC models, parsers and RakNet-compatible managed bitstreams."
+2026-10-22T18:26:07Z,SFSharp.Abstractions,5.0.0,AllahPower,"Managed plugin contracts for SF: GTA and SA-MP services, module lifecycle, storage and network observation."
+2026-10-22T18:28:00.87Z,InitializeNL.Dapper.TypeMapping,1.0.0,Frank Hommers,Explicit column mapping for Dapper. Scans assemblies for types marked with [Table] or [QueryResult] and maps result columns to properties and record constructor parameters using [Column] attributes.
+2026-10-22T18:36:22.15Z,Egami.Heic,1.1.0,Lars Dytterud,"HEIC for Egami: reads HEIF files with HEVC-coded images, such as iPhone and Android photos, in managed code. HEVC is covered by patents; Egami's authors grant no patent rights and are not lawyers. Whether you need a patent licence depends on your country and on how you use and distribute this packa…"
+2026-10-22T18:36:23.927Z,Egami.Cli,1.1.0,Lars Dytterud,"The egami command: convert, inspect, resize and edit images from a shell or a build script with Egami, a fully managed imaging library. Single commands, chained steps, JSON workflows and parallel batches."
+2026-10-22T18:51:59.25Z,Egap.Preview,2.1.0,Lars Dytterud,"egap-preview: a live preview of Egap documents on a local web page. It shows the pages a program sends with Document.ShowPreview() as the program runs under dotnet watch, or a DOCX file, drawn again whenever it changes."
+2026-10-22T18:58:40.353Z,Google.Apis.DisplayVideo.v5,1.77.0.4309,Google LLC,Google APIs Client Library for working with Displayvideo v5. Product documentation is available at: https://developers.google.com/display-video/ API reference documentation for this package is available at: https://googleapis.dev/dotnet/Google.Apis.DisplayVideo.v5/latest/api/Google.Apis.DisplayVide…
+2026-10-22T18:58:45.62Z,PdfPecker.Fluent,1.19.0,Moonwalker1307,"Fluent C# API for building PDFs with PdfPecker: pages, headers, footers, columns, rows, tables, text, images and barcodes in code. It writes HTML and CSS and renders them with PdfPecker, so it needs no browser and no native binaries."
+2026-10-22T18:58:52.887Z,AWSSDK.Continuum,4.0.100,Amazon Web Services,Releasing Continuum for Code Vulnerabilities APIs for SDKs
+2026-10-22T19:04:16.583Z,WpfToolkitAutoCompleteBoxExtended,1.0.0,gszobi,"The WPF Toolkit AutoCompleteBox (Ms-PL) for .NET 8 and .NET Framework 4.8, with popup placement and theming fixes."
+2026-10-22T19:05:21.32Z,JJMasterData.Data.SourceGenerators,5.0.16,JJMasterData.Data.SourceGenerators,Incremental SQL result materializers for JJMasterData DataAccess.
+2026-10-22T19:13:18.067Z,Themis.Inference.Foundry,1.7.0,Themis contributors,Optional Microsoft Foundry remote provider for typed Themis decisions.
