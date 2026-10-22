@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-22T04:20:04.07Z,AcnhModding.EventFlowToCode.Core,1.0.0,ACNH Modding,Compiler and decompiler for readable Nintendo EventFlow (.bfevfl) source.
+2026-10-22T04:26:10.64Z,GJJ.Keystone.Strategy,1.0.0,GJJ.Keystone.Strategy,业务启停策略契约与时间、渠道、工作日日历判断
+2026-10-22T04:26:14.637Z,GJJ.Keystone.AspNetCore.Strategy,1.0.0,GJJ.Keystone.AspNetCore.Strategy,业务启停策略执行、缓存及接口目录
+2026-10-22T04:34:14.63Z,Tern.Cli.win-x64,0.1.0,Mark Gibbons,"Drop-in, Native AOT replacement for the Sitecore CLI."
+2026-10-22T04:34:16.403Z,Tern.Cli.linux-x64,0.1.1,Mark Gibbons,"Drop-in, Native AOT replacement for the Sitecore CLI."
+2026-10-22T04:34:19.793Z,Tern.Cli.osx-x64,0.1.1,Mark Gibbons,"Drop-in, Native AOT replacement for the Sitecore CLI."
+2026-10-22T04:34:20.637Z,Tern.Cli,0.1.1,Mark Gibbons,"Drop-in, Native AOT replacement for the Sitecore CLI."
+2026-10-22T04:42:41.83Z,Polhem.DbManager,1.8.0,Polhem contributors,"Polhem database manager, a dotnet tool invoked as `polhem-db`. Creates, checks and upgrades the databases a Polhem definition folder describes, for SQL Server, PostgreSQL, MySQL, Oracle and SQLite, without an application project."
+2026-10-22T04:42:45.273Z,Polhem.DefineEditor,1.8.0,Polhem contributors,"Polhem DefineEditor, the desktop editor for Polhem definition files, as a dotnet tool invoked as `polhem-define [DefinePath]`. Imports forms from Excel workbooks and runs the project's database upgrade command."
+2026-10-22T04:42:52.893Z,Polhem.Templates,1.8.0,Polhem contributors,"Project templates for Polhem. `dotnet new polhem-avalonia` creates an application whose server references the Polhem packages and the driver of the chosen database, with a definition folder, the DefineEditor and DbManager tools, and VS Code tasks that initialize the database and open DefineEditor."
+2026-10-22T04:42:56.13Z,Polhem.UI.Avalonia.Shell,1.8.0,Polhem contributors,"A ready-made Avalonia front end for a Polhem backend: connect, sign in to a company, and open every form of the server's menu. Shared by the desktop, browser, iOS and Android heads."
+2026-10-22T04:47:31.143Z,NativeImpl,0.5.0,dewf,Language-agnostic native bindings generator
+2026-10-22T05:01:47.947Z,DeBlasis.GhosttyVt,1.4.0,Alessandro De Blasis,"Unofficial .NET bindings for libghostty-vt — the standalone VT parser from the Ghostty terminal emulator. Parse VT escape sequences, inspect the terminal grid, and encode keyboard/mouse input from any .NET application. Community port; not affiliated with the Ghostty project."
+2026-10-22T05:07:26.817Z,Oicana.Native.win-x64,0.10.0,Oicana,Native library of Oicana for win-x64. The Oicana package references it; reference it directly next to Oicana.Core for a smaller install.
+2026-10-22T05:07:28.427Z,Oicana.Native.linux-arm64,0.10.0,Oicana,Native library of Oicana for linux-arm64. The Oicana package references it; reference it directly next to Oicana.Core for a smaller install.
+2026-10-22T05:07:29.237Z,Oicana.Native.osx-x64,0.10.0,Oicana,Native library of Oicana for osx-x64. The Oicana package references it; reference it directly next to Oicana.Core for a smaller install.
+2026-10-22T05:07:29.73Z,Oicana.Core,0.10.0,Oicana,"Managed part of Oicana, without native libraries. Either reference the Oicana package instead or reference Oicana.Core together with the Oicana.Native.<rid> packages you deploy to for a smaller install."
+2026-10-22T05:07:30.53Z,Oicana.Native.win-arm64,0.10.0,Oicana,Native library of Oicana for win-arm64. The Oicana package references it; reference it directly next to Oicana.Core for a smaller install.
