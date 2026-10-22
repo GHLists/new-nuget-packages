@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-22T21:24:52.797Z,SpCraft.Net.Common.Http.Correlation,2.0.42,SpCraft.Net.Common.Http.Correlation,Package Description
+2026-10-22T21:31:38.127Z,RecursiveAI.OneImage.Text,1.2.0,"Recursive AI, LLC","Fonts and text for OneImage: loads TrueType, OpenType (CFF), TrueType Collection, WOFF and WOFF2 fonts, measures and lays out text, and draws it onto images and canvases through the vector drawing layer."
+2026-10-22T21:35:23.003Z,EzeIO.Keylogger,1.1.0,Eze-IO,"A library that uses the Windows low-level keyboard hook (WH_KEYBOARD_LL) to raise an event on key presses, with COM support."
+2026-10-22T21:43:51.433Z,Sakura.Framework.Android,2026.1023.0,HelloYeew,"Runs a Sakura Framework app on Android: the activity, window, touch, lifecycle and the platform's performance and audio services."
