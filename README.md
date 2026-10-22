@@ -12,42 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 16:20 UTC
+## Latest list — 2026-10-22 17:19 UTC
 
-New packages created between 2026-10-22 15:20 UTC and 2026-10-22 16:20 UTC.
+New packages created between 2026-10-22 16:20 UTC and 2026-10-22 17:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T16-20-38-267054Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T17-19-31-277928Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 15:25:42 | [EncySoftware.ToolsMcp](https://www.nuget.org/packages/EncySoftware.ToolsMcp) | 0.3.0 | EncySoftware | MCP server for Cursor, Claude Code and Codex: find cutting tools on tools.encyc… |
-| 2026-10-22 15:25:43 | [Hexalith.Projects](https://www.nuget.org/packages/Hexalith.Projects) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
-| 2026-10-22 15:25:44 | [Hexalith.Projects.Contracts](https://www.nuget.org/packages/Hexalith.Projects.Contracts) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
-| 2026-10-22 15:25:44 | [Hexalith.Projects.Testing](https://www.nuget.org/packages/Hexalith.Projects.Testing) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
-| 2026-10-22 15:25:44 | [Hexalith.Projects.Client](https://www.nuget.org/packages/Hexalith.Projects.Client) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
-| 2026-10-22 15:32:59 | [CheapHelpers.Auth](https://www.nuget.org/packages/CheapHelpers.Auth) | 4.0.0 | CheapNud | Authentication building blocks for ASP.NET Core: Plex and OAuth sign-in, API ke… |
-| 2026-10-22 15:33:02 | [CheapHelpers.Barcodes](https://www.nuget.org/packages/CheapHelpers.Barcodes) | 4.0.0 | CheapNud | Barcode generation and reading on ZXing.Net with no native image dependency |
-| 2026-10-22 15:33:07 | [CheapHelpers.Llm](https://www.nuget.org/packages/CheapHelpers.Llm) | 4.0.0 | CheapNud | LLM client for Anthropic and OpenAI-compatible providers with structured output… |
-| 2026-10-22 15:34:21 | [Xperience.Telemetry](https://www.nuget.org/packages/Xperience.Telemetry) | 0.1.0 | AJ Hoffer | Memory and GC telemetry for ASP.NET Core apps, intended for Xperience by Kentic… |
-| 2026-10-22 15:34:22 | [Xperience.Telemetry.Kentico](https://www.nuget.org/packages/Xperience.Telemetry.Kentico) | 0.1.0 | AJ Hoffer | What Xperience.Telemetry reports that needs the Kentico SDK: how many entries K… |
-| 2026-10-22 15:41:06 | [org.anosys.Core](https://www.nuget.org/packages/org.anosys.Core) | 1.1.16 | Anosys | The core library of Anosys. |
-| 2026-10-22 15:48:29 | [LinKit.Data](https://www.nuget.org/packages/LinKit.Data) | 1.1.0 | Linh Nguyen | Source-generated ADO.NET data access and additive schema synchronization for Li… |
-| 2026-10-22 15:48:40 | [LinKit.Outbox.Data](https://www.nuget.org/packages/LinKit.Outbox.Data) | 1.1.0 | Linh Nguyen | Provider-neutral ADO.NET durable stores for LinKit Outbox and Inbox. |
-| 2026-10-22 15:53:42 | [Meziantou.Framework.Unicode.Dictionaries](https://www.nuget.org/packages/Meziantou.Framework.Unicode.Dictionaries) | 1.0.0 | meziantou | The word lists of ICU (Chinese and Japanese, Thai, Lao, Khmer and Burmese) and… |
-| 2026-10-22 15:55:13 | [DNDHinwil.Lib](https://www.nuget.org/packages/DNDHinwil.Lib) | 0.0.9.26292 | codespirals,Elitarate | A library of classes and interfaces to use in my small DND tracker. |
-| 2026-10-22 16:00:15 | [org.anosys.Core.Source](https://www.nuget.org/packages/org.anosys.Core.Source) | 1.1.16 | Anosys | The core library of Anosys. |
-| 2026-10-22 16:00:16 | [org.anosys.Core.Composition](https://www.nuget.org/packages/org.anosys.Core.Composition) | 1.1.16 | Anosys | Library for registering and resolving instances of objects. |
-| 2026-10-22 16:00:18 | [org.anosys.Core.Composition.Source](https://www.nuget.org/packages/org.anosys.Core.Composition.Source) | 1.1.16 | Anosys | Library for registering and resolving instances of objects. |
-| 2026-10-22 16:00:19 | [org.anosys.Core.Composition.Autofac](https://www.nuget.org/packages/org.anosys.Core.Composition.Autofac) | 1.1.16 | Anosys | Autofac adapter for org.anosys.Core.Composition. |
-| 2026-10-22 16:00:20 | [org.anosys.Core.Composition.Autofac.Source](https://www.nuget.org/packages/org.anosys.Core.Composition.Autofac.Source) | 1.1.16 | Anosys | Autofac adapter for org.anosys.Core.Composition. |
-| 2026-10-22 16:00:22 | [org.anosys.Core.Composition.MsDependencyInjection](https://www.nuget.org/packages/org.anosys.Core.Composition.MsDependencyInjection) | 1.1.16 | Anosys | Microsoft.Extensions.DependencyInjection adapter for org.anosys.Core.Compositio… |
-| 2026-10-22 16:00:23 | [org.anosys.Core.Composition.MsDependencyInjection.Source](https://www.nuget.org/packages/org.anosys.Core.Composition.MsDependencyInjection.Source) | 1.1.16 | Anosys | Microsoft.Extensions.DependencyInjection adapter for org.anosys.Core.Compositio… |
-| 2026-10-22 16:00:25 | [org.anosys.Core.Serialization](https://www.nuget.org/packages/org.anosys.Core.Serialization) | 1.1.16 | Anosys | The core serialization library of Anosys Framework. |
-| 2026-10-22 16:00:26 | [org.anosys.Core.Serialization.Source](https://www.nuget.org/packages/org.anosys.Core.Serialization.Source) | 1.1.16 | Anosys | The core serialization library of Anosys Framework. |
-| 2026-10-22 16:00:27 | [org.anosys.Core.Serialization.SystemTextJson](https://www.nuget.org/packages/org.anosys.Core.Serialization.SystemTextJson) | 1.1.16 | Anosys | System.Text.Json adapter for org.anosys.Core.Serialization. |
-| 2026-10-22 16:02:17 | [NathansQol.KeyBindings](https://www.nuget.org/packages/NathansQol.KeyBindings) | 0.1.1 | NateBuzz | Public API of the NathansQol_KeyBindings mod for Valheim: lets mods list their… |
-| 2026-10-22 16:03:40 | [RecursiveAI.OneImage](https://www.nuget.org/packages/RecursiveAI.OneImage) | 1.0.0 | Recursive AI, LLC | A pure-managed .NET image library: one-line thumbnails, crops and conversions,… |
-| 2026-10-22 16:10:05 | [ITBees.Mikrotik](https://www.nuget.org/packages/ITBees.Mikrotik) | 8.0.1 | ITBees | Provisioning library for MikroTik routers used on Octopark parking sites (RB960… |
+| 2026-10-22 16:22:15 | [Rag.NET.Parsers.AzureDocumentIntelligence](https://www.nuget.org/packages/Rag.NET.Parsers.AzureDocumentIntelligence) | 1.2.0 | Marcel Roozekrans | Azure Document Intelligence document parser for Rag.NET: TIFF and HEIF scans, w… |
+| 2026-10-22 16:26:37 | [wwosik.DocLibs.DocumentConversions](https://www.nuget.org/packages/wwosik.DocLibs.DocumentConversions) | 2610.22.18.1 | Wojciech Wosik | Converts .pdf, .docx and .pptx into Markdown plus their images, and Markdown to… |
+| 2026-10-22 16:26:38 | [wwosik.DocLibs.DocumentGeneration.Pptx](https://www.nuget.org/packages/wwosik.DocLibs.DocumentGeneration.Pptx) | 2610.22.18.1 | Wojciech Wosik | Generates PowerPoint presentations (.pptx) from Markdown, on the built-in maste… |
+| 2026-10-22 16:26:39 | [wwosik.DocLibs.DocumentGeneration.Diagrams](https://www.nuget.org/packages/wwosik.DocLibs.DocumentGeneration.Diagrams) | 2610.22.18.1 | Wojciech Wosik | Mermaid diagrams for the wwosik.DocLibs document generators: vector graphics in… |
+| 2026-10-22 16:26:39 | [wwosik.DocLibs.DocumentGeneration](https://www.nuget.org/packages/wwosik.DocLibs.DocumentGeneration) | 2610.22.18.1 | Wojciech Wosik | Brands for the wwosik.DocLibs document generators: colours, fonts, logo, footer… |
+| 2026-10-22 16:26:40 | [wwosik.DocLibs.DocumentGeneration.Pdf](https://www.nuget.org/packages/wwosik.DocLibs.DocumentGeneration.Pdf) | 2610.22.18.1 | Wojciech Wosik | Generates PDF/A-2b documents from Markdown in a brand's colours, fonts and imag… |
+| 2026-10-22 16:26:41 | [wwosik.DocLibs.DocumentConversions.WindowsOnly](https://www.nuget.org/packages/wwosik.DocLibs.DocumentConversions.WindowsOnly) | 2610.22.18.1 | Wojciech Wosik | Converts .doc, .rtf, .xls and .xlsx into Markdown through Office automation. Wi… |
+| 2026-10-22 16:41:25 | [CamusDB.Aspire.Client](https://www.nuget.org/packages/CamusDB.Aspire.Client) | 0.1.0 | CamusDB | Aspire client integration for CamusDB: AddCamusDBClient() registers CamusDB.Cli… |
+| 2026-10-22 16:41:44 | [CamusDB.Aspire.EntityFrameworkCore](https://www.nuget.org/packages/CamusDB.Aspire.EntityFrameworkCore) | 0.1.0 | CamusDB | Aspire client integration for the CamusDB Entity Framework Core provider: AddCa… |
+| 2026-10-22 16:44:24 | [CamusDB.Aspire.Hosting](https://www.nuget.org/packages/CamusDB.Aspire.Hosting) | 0.1.0 | CamusDB | Aspire hosting integration for CamusDB: AddCamusDB() runs a CamusDB server cont… |
+| 2026-10-22 16:44:58 | [Seq.App.Nebula](https://www.nuget.org/packages/Seq.App.Nebula) | 0.1.0 | Nebula | Turn Seq errors into deduplicated Jira bugs using Codex CLI through OpenRouter. |
+| 2026-10-22 16:53:42 | [DotQR.Core](https://www.nuget.org/packages/DotQR.Core) | 1.0.0 | Edgar Aquino | DotQR.Core generates QR code module data. It has no graphics dependencies; pair… |
+| 2026-10-22 16:54:47 | [DotQR.ByteRenderers](https://www.nuget.org/packages/DotQR.ByteRenderers) | 1.0.0 | Edgar Aquino | DotQR.ByteRenderers renders QR codes to PNG, BMP, PDF, SVG, PostScript and ASCI… |
+| 2026-10-22 16:55:06 | [DotQR.SkiaSharp](https://www.nuget.org/packages/DotQR.SkiaSharp) | 1.0.0 | Edgar Aquino | DotQR.SkiaSharp renders QR codes to SKBitmap using SkiaSharp, including icon co… |
+| 2026-10-22 17:04:37 | [Vetta.Connector](https://www.nuget.org/packages/Vetta.Connector) | 0.1.0 | Vettvangur | Auðkenni app and phone authentication for .NET websites using Vetta. |
+| 2026-10-22 17:04:38 | [Vetta.Connector.AspNetCore](https://www.nuget.org/packages/Vetta.Connector.AspNetCore) | 0.1.0 | Vettvangur | ASP.NET Core endpoints and a browser helper for Vetta authentication. |
 
 ## Data source
 

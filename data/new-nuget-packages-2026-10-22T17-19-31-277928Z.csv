@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-22T16:22:15.92Z,Rag.NET.Parsers.AzureDocumentIntelligence,1.2.0,Marcel Roozekrans,"Azure Document Intelligence document parser for Rag.NET: TIFF and HEIF scans, with opt-in PDF, image, Office and HTML formats"
+2026-10-22T16:26:37.887Z,wwosik.DocLibs.DocumentConversions,2610.22.18.1,Wojciech Wosik,"Converts .pdf, .docx and .pptx into Markdown plus their images, and Markdown to and from JIRA wiki markup."
+2026-10-22T16:26:38.547Z,wwosik.DocLibs.DocumentGeneration.Pptx,2610.22.18.1,Wojciech Wosik,"Generates PowerPoint presentations (.pptx) from Markdown, on the built-in master in a brand's design or on a caller's template."
+2026-10-22T16:26:39.217Z,wwosik.DocLibs.DocumentGeneration.Diagrams,2610.22.18.1,Wojciech Wosik,"Mermaid diagrams for the wwosik.DocLibs document generators: vector graphics in PDFs and editable shapes in decks, in a brand's colours and fonts. Built on Mermaider; no browser or Node.js needed."
+2026-10-22T16:26:39.887Z,wwosik.DocLibs.DocumentGeneration,2610.22.18.1,Wojciech Wosik,"Brands for the wwosik.DocLibs document generators: colours, fonts, logo, footer and cover images, in code or as brand packs (brand.json plus files), and the vector drawing model code-block renderers produce. Shared by the PPTX and PDF generators."
+2026-10-22T16:26:40.593Z,wwosik.DocLibs.DocumentGeneration.Pdf,2610.22.18.1,Wojciech Wosik,"Generates PDF/A-2b documents from Markdown in a brand's colours, fonts and images, with embedded fonts (Liberation by default)."
+2026-10-22T16:26:41.27Z,wwosik.DocLibs.DocumentConversions.WindowsOnly,2610.22.18.1,Wojciech Wosik,"Converts .doc, .rtf, .xls and .xlsx into Markdown through Office automation. Windows only, with Word and Excel installed."
+2026-10-22T16:41:25.737Z,CamusDB.Aspire.Client,0.1.0,CamusDB,"Aspire client integration for CamusDB: AddCamusDBClient() registers CamusDB.Client connections in dependency injection, with health checks, tracing and metrics."
+2026-10-22T16:41:44.257Z,CamusDB.Aspire.EntityFrameworkCore,0.1.0,CamusDB,"Aspire client integration for the CamusDB Entity Framework Core provider: AddCamusDBDbContext() registers a pooled DbContext, with retries, health checks, tracing and metrics."
+2026-10-22T16:44:24.31Z,CamusDB.Aspire.Hosting,0.1.0,CamusDB,Aspire hosting integration for CamusDB: AddCamusDB() runs a CamusDB server container in an Aspire AppHost and AddDatabase() creates its databases.
+2026-10-22T16:44:58.943Z,Seq.App.Nebula,0.1.0,Nebula,Turn Seq errors into deduplicated Jira bugs using Codex CLI through OpenRouter.
+2026-10-22T16:53:42.56Z,DotQR.Core,1.0.0,Edgar Aquino,"DotQR.Core generates QR code module data. It has no graphics dependencies; pair it with DotQR.ByteRenderers, DotQR.SkiaSharp, or your own renderer."
+2026-10-22T16:54:47.383Z,DotQR.ByteRenderers,1.0.0,Edgar Aquino,"DotQR.ByteRenderers renders QR codes to PNG, BMP, PDF, SVG, PostScript and ASCII with no graphics library dependency."
+2026-10-22T16:55:06.7Z,DotQR.SkiaSharp,1.0.0,Edgar Aquino,"DotQR.SkiaSharp renders QR codes to SKBitmap using SkiaSharp, including icon compositing."
+2026-10-22T17:04:37.57Z,Vetta.Connector,0.1.0,Vettvangur,Auðkenni app and phone authentication for .NET websites using Vetta.
+2026-10-22T17:04:38.253Z,Vetta.Connector.AspNetCore,0.1.0,Vettvangur,ASP.NET Core endpoints and a browser helper for Vetta authentication.
