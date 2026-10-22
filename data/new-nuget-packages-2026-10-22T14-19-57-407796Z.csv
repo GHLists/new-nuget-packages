@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-22T13:21:28.593Z,Pathway.Components,0.1.1,Ministry Brands,"Pathway Design System UI components as framework-agnostic Web Components. Works in Blazor, Razor, Angular, Vue, or plain HTML — add one script tag and use pathway-button, pathway-top-nav, pathway-side-nav, pathway-nav-shell, and pathway-page-template as HTML elements."
+2026-10-22T13:25:40.78Z,Pycom.Platform.Auth,0.1.0,Pycom,Outbound OAuth 2.0 client-credentials tokens for Pycom Platform Auth.
+2026-10-22T13:25:52.95Z,Pycom.Scheduler.Client,0.1.0,Pycom,Strongly typed client for the Pycom Scheduler runtime API.
+2026-10-22T13:25:55.693Z,Pycom.Zalo.Client,0.1.0,Pycom,Strongly typed client for the Pycom Zalo Gateway domain API.
+2026-10-22T13:25:58.18Z,Pycom.ObjectContext.Client,0.1.0,Pycom,Strongly typed client for the Pycom Object Context Service runtime API.
+2026-10-22T13:26:00.4Z,Pycom.Notification.Client,0.1.0,Pycom,Strongly typed client for the Pycom Unified Notification Platform runtime API.
+2026-10-22T13:28:16.577Z,TriQL.EntityFrameworkCore,1.1.0,TriQL Contributors,"An Entity Framework Core provider for Trino, built on the TriQL ADO.NET provider."
+2026-10-22T13:28:54.193Z,Arc4u.Cli.2026.1.linux-arm64,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:28:55.85Z,Arc4u.Cli.2026.1.linux-x64,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:28:57.387Z,Arc4u.Cli.2026.1.osx-arm64,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:28:59.167Z,Arc4u.Cli.2026.1.osx-x64,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:29:00.367Z,Arc4u.Cli.2026.1.win-arm64,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:29:02.357Z,Arc4u.Cli.2026.1.win-x64,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:29:03.133Z,Arc4u.Cli.2026.1,2026.1.0-pre01,Gilles Flisch,Package Description
+2026-10-22T13:35:47.41Z,JetPack.Wpf,0.4.0,Martin Kirk,"The JetPack theme from Silverlight 4, rebuilt as a complete WPF controls library for .NET 8+: styles for every standard control plus JetPackWindow, dialogs, ToggleSwitch, NumericUpDown, Flyout, HamburgerMenu, InfoBar and more."
+2026-10-22T13:39:16.24Z,ShipStationApi,0.1.0,ShipStation,"The official ShipStation API v2 SDK for .NET. Create shipments, shop rates, purchase labels, track packages, and manage warehouses, inventory, and webhooks."
+2026-10-22T13:43:50.623Z,Optionus,0.9.0,"Jonathan Pryor,Federico Di Gregorio,Rolf Bjarne Kvinge,vdasus",Getopt::Long-inspired command-line option parser. Fork of Mono.Options / NDesk.Options.
+2026-10-22T13:44:48.83Z,UruFactura.EntityFrameworkCore,1.1.0,MathiasGonzalez,Persistencia con Entity Framework Core para UruFactura: CAE con numeración atómica entre instancias y registro de CFE emitidos para el reporte diario.
+2026-10-22T13:44:49.977Z,UruFactura.Lite.EntityFrameworkCore,1.1.0,MathiasGonzalez,Persistencia con Entity Framework Core para UruFactura.Lite: CAE con numeración atómica entre instancias y registro de CFE emitidos para el reporte diario.
+2026-10-22T13:50:43.36Z,Comentality.Icons,1.0.0,Comentality,"Put a proper icon on a Dataverse table: pick one from six bundled icon libraries, and the tool uploads and publishes it. Searches Fluent, Phosphor, Lucide, Tabler, Font Awesome and Solar icons, writes the SVG web resource, points the table at it and publishes, all without leaving XrmToolBox."
+2026-10-22T13:51:45.343Z,NetEscapades.ProjectInfo,0.1.0-beta1,Andrew Lock,A source generator for exposing information about your project at compile time
+2026-10-22T13:52:41.257Z,Pushizo,0.1.0,Pushizo,"Pushizo sunucu SDK'sı: bildirim gönderme, kullanıcı/abonelik yönetimi, segment/şablon/kampanya ve webhook imza doğrulaması."
+2026-10-22T13:56:18.87Z,EscPosKit.Printers,1.0.0,EscPosKit contributors,"Printer transports for EscPosKit: network (TCP), serial, file, Samba share and in-memory printers with status monitoring."
