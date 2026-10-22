@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-22T19:27:46.437Z,Verstappen,0.1.1,Diogo Martins,"A synchronous HTTP/1.1 server for Linux: one pinned epoll reactor per core, handlers that run inline on it, and no allocation per request."
+2026-10-22T19:29:37.82Z,Ninjasoft.ReportCreator,0.0.1-alpha,Ninjasoft,Create labels
+2026-10-22T19:31:17.817Z,RecursiveAI.OneImage.Web,1.1.0,"Recursive AI, LLC","ASP.NET Core middleware for on-the-fly image processing and caching: resize, crop, convert and recompress images through URL commands, with a disk cache, conditional requests, signed URLs and request limits. Built on the OneImage library."
+2026-10-22T19:31:43.69Z,Dapr.Vector,1.19.0,dapr.io,Dapr Vector SDK for .NET (alpha API).
+2026-10-22T19:31:44.66Z,Dapr.Search,1.19.0,dapr.io,Dapr Search SDK for .NET (alpha API).
+2026-10-22T19:31:48.857Z,Dapr.BinaryStore,1.19.0,dapr.io,Dapr Binary Store SDK for .NET
+2026-10-22T19:37:52.59Z,Pmad.Markitdown,0.0.1,Julien Etelain,"Pure managed .NET library to convert HTML, PDF, and DOCX documents into clean Markdown."
+2026-10-22T19:37:52Z,Pmad.MarkdownFetch,0.0.1,Julien Etelain,Small CLI to download any web resource as a markdown (with markitdown-api).
+2026-10-22T19:45:51.65Z,Javxp.MFAAuthenticator,1.0.0,Javxp.MFAAuthenticator,Package Description
+2026-10-22T20:09:55.717Z,Meteion.Toolkit.Templates,1.8.0,frogcrush,"dotnet new templates for Meteion.Toolkit: a RESX item template, a WPF application template, and a WPF application template with localization."

@@ -12,34 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 19:21 UTC
+## Latest list — 2026-10-22 20:18 UTC
 
-New packages created between 2026-10-22 18:19 UTC and 2026-10-22 19:21 UTC.
+New packages created between 2026-10-22 19:21 UTC and 2026-10-22 20:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T19-21-36-831848Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T20-18-58-357842Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 18:19:39 | [NetApiFlow.Storage.SqlServer](https://www.nuget.org/packages/NetApiFlow.Storage.SqlServer) | 0.1.0 | Douglas Lima | Package Description |
-| 2026-10-22 18:19:39 | [NetApiFlow.EntityFrameworkCore](https://www.nuget.org/packages/NetApiFlow.EntityFrameworkCore) | 0.1.0 | Douglas Lima | Package Description |
-| 2026-10-22 18:19:40 | [NetApiFlow.Storage.PostgreSql](https://www.nuget.org/packages/NetApiFlow.Storage.PostgreSql) | 0.1.0 | Douglas Lima | Package Description |
-| 2026-10-22 18:19:41 | [NetApiFlow](https://www.nuget.org/packages/NetApiFlow) | 0.1.0 | Douglas Lima | Package Description |
-| 2026-10-22 18:19:41 | [NetApiFlow.Dashboard](https://www.nuget.org/packages/NetApiFlow.Dashboard) | 0.1.0 | Douglas Lima | Package Description |
-| 2026-10-22 18:19:42 | [NetApiFlow.MediatR](https://www.nuget.org/packages/NetApiFlow.MediatR) | 0.1.0 | Douglas Lima | Package Description |
-| 2026-10-22 18:20:34 | [Octeka.CodeAnalysis.Strings](https://www.nuget.org/packages/Octeka.CodeAnalysis.Strings) | 1.0.0 | Patrick Robichaud | Fast, flexible template string expansion library with configurable delimiters a… |
-| 2026-10-22 18:20:34 | [Octeka.CodeAnalysis.Strings.Abstractions](https://www.nuget.org/packages/Octeka.CodeAnalysis.Strings.Abstractions) | 1.0.0 | Patrick Robichaud | Core abstractions and contracts for template string expansion and property reso… |
-| 2026-10-22 18:26:06 | [SFSharp.Protocol](https://www.nuget.org/packages/SFSharp.Protocol) | 5.0.0 | AllahPower | Native-free SA-MP packet and RPC models, parsers and RakNet-compatible managed… |
-| 2026-10-22 18:26:07 | [SFSharp.Abstractions](https://www.nuget.org/packages/SFSharp.Abstractions) | 5.0.0 | AllahPower | Managed plugin contracts for SF: GTA and SA-MP services, module lifecycle, stor… |
-| 2026-10-22 18:28:00 | [InitializeNL.Dapper.TypeMapping](https://www.nuget.org/packages/InitializeNL.Dapper.TypeMapping) | 1.0.0 | Frank Hommers | Explicit column mapping for Dapper. Scans assemblies for types marked with [Tab… |
-| 2026-10-22 18:36:22 | [Egami.Heic](https://www.nuget.org/packages/Egami.Heic) | 1.1.0 | Lars Dytterud | HEIC for Egami: reads HEIF files with HEVC-coded images, such as iPhone and And… |
-| 2026-10-22 18:36:23 | [Egami.Cli](https://www.nuget.org/packages/Egami.Cli) | 1.1.0 | Lars Dytterud | The egami command: convert, inspect, resize and edit images from a shell or a b… |
-| 2026-10-22 18:51:59 | [Egap.Preview](https://www.nuget.org/packages/Egap.Preview) | 2.1.0 | Lars Dytterud | egap-preview: a live preview of Egap documents on a local web page. It shows th… |
-| 2026-10-22 18:58:40 | [Google.Apis.DisplayVideo.v5](https://www.nuget.org/packages/Google.Apis.DisplayVideo.v5) | 1.77.0.4309 | Google LLC | Google APIs Client Library for working with Displayvideo v5. Product documentat… |
-| 2026-10-22 18:58:45 | [PdfPecker.Fluent](https://www.nuget.org/packages/PdfPecker.Fluent) | 1.19.0 | Moonwalker1307 | Fluent C# API for building PDFs with PdfPecker: pages, headers, footers, column… |
-| 2026-10-22 18:58:52 | [AWSSDK.Continuum](https://www.nuget.org/packages/AWSSDK.Continuum) | 4.0.100 | Amazon Web Services | Releasing Continuum for Code Vulnerabilities APIs for SDKs |
-| 2026-10-22 19:04:16 | [WpfToolkitAutoCompleteBoxExtended](https://www.nuget.org/packages/WpfToolkitAutoCompleteBoxExtended) | 1.0.0 | gszobi | The WPF Toolkit AutoCompleteBox (Ms-PL) for .NET 8 and .NET Framework 4.8, with… |
-| 2026-10-22 19:05:21 | [JJMasterData.Data.SourceGenerators](https://www.nuget.org/packages/JJMasterData.Data.SourceGenerators) | 5.0.16 | JJMasterData.Data.SourceGener… | Incremental SQL result materializers for JJMasterData DataAccess. |
-| 2026-10-22 19:13:18 | [Themis.Inference.Foundry](https://www.nuget.org/packages/Themis.Inference.Foundry) | 1.7.0 | Themis contributors | Optional Microsoft Foundry remote provider for typed Themis decisions. |
+| 2026-10-22 19:27:46 | [Verstappen](https://www.nuget.org/packages/Verstappen) | 0.1.1 | Diogo Martins | A synchronous HTTP/1.1 server for Linux: one pinned epoll reactor per core, han… |
+| 2026-10-22 19:29:37 | [Ninjasoft.ReportCreator](https://www.nuget.org/packages/Ninjasoft.ReportCreator) | 0.0.1-alpha | Ninjasoft | Create labels |
+| 2026-10-22 19:31:17 | [RecursiveAI.OneImage.Web](https://www.nuget.org/packages/RecursiveAI.OneImage.Web) | 1.1.0 | Recursive AI, LLC | ASP.NET Core middleware for on-the-fly image processing and caching: resize, cr… |
+| 2026-10-22 19:31:43 | [Dapr.Vector](https://www.nuget.org/packages/Dapr.Vector) | 1.19.0 | dapr.io | Dapr Vector SDK for .NET (alpha API). |
+| 2026-10-22 19:31:44 | [Dapr.Search](https://www.nuget.org/packages/Dapr.Search) | 1.19.0 | dapr.io | Dapr Search SDK for .NET (alpha API). |
+| 2026-10-22 19:31:48 | [Dapr.BinaryStore](https://www.nuget.org/packages/Dapr.BinaryStore) | 1.19.0 | dapr.io | Dapr Binary Store SDK for .NET |
+| 2026-10-22 19:37:52 | [Pmad.Markitdown](https://www.nuget.org/packages/Pmad.Markitdown) | 0.0.1 | Julien Etelain | Pure managed .NET library to convert HTML, PDF, and DOCX documents into clean M… |
+| 2026-10-22 19:37:52 | [Pmad.MarkdownFetch](https://www.nuget.org/packages/Pmad.MarkdownFetch) | 0.0.1 | Julien Etelain | Small CLI to download any web resource as a markdown (with markitdown-api). |
+| 2026-10-22 19:45:51 | [Javxp.MFAAuthenticator](https://www.nuget.org/packages/Javxp.MFAAuthenticator) | 1.0.0 | Javxp.MFAAuthenticator | Package Description |
+| 2026-10-22 20:09:55 | [Meteion.Toolkit.Templates](https://www.nuget.org/packages/Meteion.Toolkit.Templates) | 1.8.0 | frogcrush | dotnet new templates for Meteion.Toolkit: a RESX item template, a WPF applicati… |
 
 ## Data source
 
