@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-22T06:36:06.023Z,AfterBurnerSharp,1.0.0,Magnus Leatti,"AfterBurnerSharp is a static class that reads MSI Afterburner's hardware monitoring shared memory (MAHM) and exposes every sensor through Dictionaries, Lists and JSON. Not affiliated with MSI."
+2026-10-22T06:36:23.773Z,BimTeam.Markdig,1.4.2.1,"Alexandre Mutel,BimTeam",BimTeam fork of Markdig for .NET Framework and modern .NET without runtime package dependencies.
+2026-10-22T06:36:25.837Z,BimTeam.Markdig.Wpf,1.4.2.1,BimTeam,Dependency-light Markdown rendering to WPF FlowDocument and a reusable Markdown viewer.
+2026-10-22T06:44:49.99Z,Elync.Mes.Translator.Abstractions,1.0.1,hans_wen(elync),elync 内部测试
+2026-10-22T06:57:41.873Z,PocketCsvReader.Chrononuensis,2.49.0,Cédric L. Charlier,Opt-in span-based Chrononuensis temporal parsers for PocketCsvReader.

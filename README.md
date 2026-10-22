@@ -12,27 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 06:19 UTC
+## Latest list — 2026-10-22 07:20 UTC
 
-New packages created between 2026-10-22 05:20 UTC and 2026-10-22 06:19 UTC.
+New packages created between 2026-10-22 06:19 UTC and 2026-10-22 07:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T06-19-48-795082Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T07-20-27-68346Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 05:23:36 | [HamsterWheel.HLinq.Lang.Pl](https://www.nuget.org/packages/HamsterWheel.HLinq.Lang.Pl) | 0.13.0 | HamsterWheel.HLinq.Lang.Pl | Package Description |
-| 2026-10-22 05:23:37 | [HamsterWheel.HLinq.SqlServer](https://www.nuget.org/packages/HamsterWheel.HLinq.SqlServer) | 0.13.0 | HamsterWheel.HLinq.SqlServer | Package Description |
-| 2026-10-22 05:23:38 | [HamsterWheel.HLinq.Sqlite](https://www.nuget.org/packages/HamsterWheel.HLinq.Sqlite) | 0.13.0 | HamsterWheel.HLinq.Sqlite | Package Description |
-| 2026-10-22 05:23:39 | [HamsterWheel.HLinq.MariaDb](https://www.nuget.org/packages/HamsterWheel.HLinq.MariaDb) | 0.13.0 | HamsterWheel.HLinq.MariaDb | Package Description |
-| 2026-10-22 05:23:40 | [HamsterWheel.HLinq.MySql](https://www.nuget.org/packages/HamsterWheel.HLinq.MySql) | 0.13.0 | HamsterWheel.HLinq.MySql | Package Description |
-| 2026-10-22 05:34:11 | [JvmBridge.Logging](https://www.nuget.org/packages/JvmBridge.Logging) | 26.10.22.2987 | void-community | Microsoft.Extensions.Logging adapters for JvmBridge agents: an ILogger that wri… |
-| 2026-10-22 05:52:21 | [Runic.CommandLine](https://www.nuget.org/packages/Runic.CommandLine) | 0.8.0 | RunicArtifex | Parser-neutral command catalog, execution, host integration, and output kernel… |
-| 2026-10-22 05:52:22 | [Runic.CommandLine.Processes](https://www.nuget.org/packages/Runic.CommandLine.Processes) | 0.8.0 | RunicArtifex | Bounded and cancellable local process execution for command-line clients. |
-| 2026-10-22 05:52:23 | [Runic.CommandLine.Spectre](https://www.nuget.org/packages/Runic.CommandLine.Spectre) | 0.8.0 | RunicArtifex | Spectre.Console presentation for Runic Command Line applications. |
-| 2026-10-22 05:52:24 | [Runic.CommandLine.Testing](https://www.nuget.org/packages/Runic.CommandLine.Testing) | 0.8.0 | RunicArtifex | Deterministic test helpers for Runic Command Line applications. |
-| 2026-10-22 06:06:16 | [Tern.Cli.win-arm64](https://www.nuget.org/packages/Tern.Cli.win-arm64) | 0.1.2 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
-| 2026-10-22 06:06:19 | [Tern.Cli.linux-arm64](https://www.nuget.org/packages/Tern.Cli.linux-arm64) | 0.1.2 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
-| 2026-10-22 06:06:22 | [Tern.Cli.osx-arm64](https://www.nuget.org/packages/Tern.Cli.osx-arm64) | 0.1.2 | Mark Gibbons | Drop-in, Native AOT replacement for the Sitecore CLI. |
+| 2026-10-22 06:36:06 | [AfterBurnerSharp](https://www.nuget.org/packages/AfterBurnerSharp) | 1.0.0 | Magnus Leatti | AfterBurnerSharp is a static class that reads MSI Afterburner's hardware monito… |
+| 2026-10-22 06:36:23 | [BimTeam.Markdig](https://www.nuget.org/packages/BimTeam.Markdig) | 1.4.2.1 | Alexandre Mutel,BimTeam | BimTeam fork of Markdig for .NET Framework and modern .NET without runtime pack… |
+| 2026-10-22 06:36:25 | [BimTeam.Markdig.Wpf](https://www.nuget.org/packages/BimTeam.Markdig.Wpf) | 1.4.2.1 | BimTeam | Dependency-light Markdown rendering to WPF FlowDocument and a reusable Markdown… |
+| 2026-10-22 06:44:49 | [Elync.Mes.Translator.Abstractions](https://www.nuget.org/packages/Elync.Mes.Translator.Abstractions) | 1.0.1 | hans_wen(elync) | elync 内部测试 |
+| 2026-10-22 06:57:41 | [PocketCsvReader.Chrononuensis](https://www.nuget.org/packages/PocketCsvReader.Chrononuensis) | 2.49.0 | Cédric L. Charlier | Opt-in span-based Chrononuensis temporal parsers for PocketCsvReader. |
 
 ## Data source
 
