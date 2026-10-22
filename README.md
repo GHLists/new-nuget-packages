@@ -12,32 +12,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 09:20 UTC
+## Latest list — 2026-10-22 10:19 UTC
 
-New packages created between 2026-10-22 08:21 UTC and 2026-10-22 09:20 UTC.
+New packages created between 2026-10-22 09:20 UTC and 2026-10-22 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T09-20-00-618723Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T10-19-43-698589Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 08:22:50 | [SemanticMapper.Jev](https://www.nuget.org/packages/SemanticMapper.Jev) | 0.1.1 | Akbar Dizaji | TypeSafe Jev semantic field matcher for SemanticMapper. Calls the TypeSafe Syst… |
-| 2026-10-22 08:26:50 | [DWIS.RigOS.Capabilities.SOE.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.SOE.Model) | 1.0.1 | Eric Cayeux | Package Description |
-| 2026-10-22 08:27:19 | [DWIS.RigOS.Capabilities.Controller.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.Controller.Model) | 1.0.4 | Eric Cayeux | Package Description |
-| 2026-10-22 08:27:30 | [DWIS.RigOS.Capabilities.FDIR.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.FDIR.Model) | 0.0.2 | Eric Cayeux | Package Description |
-| 2026-10-22 08:27:34 | [DWIS.RigOS.Capabilities.Procedure.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.Procedure.Model) | 1.0.1 | Eric Cayeux | Package Description |
-| 2026-10-22 08:39:28 | [DWIS.RigOS.Capabilities.Service.Model](https://www.nuget.org/packages/DWIS.RigOS.Capabilities.Service.Model) | 0.0.1 | Eric Cayeux | Package Description |
-| 2026-10-22 08:50:30 | [FryWorld.Plugin.Circuit](https://www.nuget.org/packages/FryWorld.Plugin.Circuit) | 2.0.8 | PrashantUnity,Code Fry Dev | Interactive analog and digital circuit schematic CAD and real-time MNA simulati… |
-| 2026-10-22 08:52:09 | [JvmBridge.Tool](https://www.nuget.org/packages/JvmBridge.Tool) | 26.10.22.4199 | void-community | The jvmbridge command: disassemble class files, preview what an agent's patches… |
-| 2026-10-22 09:01:08 | [Xsl3.Build](https://www.nuget.org/packages/Xsl3.Build) | 1.0.0 | Xsl3 contributors | Compiles XSLT stylesheets ahead of time for Xsl3 (XslCompiledTransform.Load(Typ… |
-| 2026-10-22 09:01:10 | [Xsl3.Cli](https://www.nuget.org/packages/Xsl3.Cli) | 1.0.0 | Xsl3 contributors | Command-line tool for Xsl3, the XSLT 3.0, XSLT 2.0 and XPath 3.1 processor for… |
-| 2026-10-22 09:06:41 | [3CGroup.Core.Infrastructure.ApplicationLogging](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.ApplicationLogging) | 1.0.11 | 3CGroup | Shared structured application logging primitives for 3CGroup services. |
-| 2026-10-22 09:06:44 | [3CGroup.Core.Infrastructure.ApplicationLogging.AspNetCore](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.ApplicationLogging.AspNetCore) | 1.0.11 | 3CGroup | ASP.NET Core correlation and request logging middleware for 3CGroup services. |
-| 2026-10-22 09:06:46 | [3CGroup.Core.Infrastructure.ApplicationLogging.MassTransit](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.ApplicationLogging.MassTransit) | 1.0.11 | 3CGroup | MassTransit consumer correlation and retry logging for 3CGroup services. |
-| 2026-10-22 09:07:40 | [xsi.osx-arm64](https://www.nuget.org/packages/xsi.osx-arm64) | 1.11.0 | Alexandre Mutel | CodeAlta Desktop: a desktop workspace for agentic AI coding on your local proje… |
-| 2026-10-22 09:08:03 | [xsi](https://www.nuget.org/packages/xsi) | 1.11.0 | Alexandre Mutel | CodeAlta Desktop: a desktop workspace for agentic AI coding on your local proje… |
-| 2026-10-22 09:08:10 | [xsi.osx-x64](https://www.nuget.org/packages/xsi.osx-x64) | 1.11.0 | Alexandre Mutel | CodeAlta Desktop: a desktop workspace for agentic AI coding on your local proje… |
-| 2026-10-22 09:10:04 | [Shells.TypeMapper](https://www.nuget.org/packages/Shells.TypeMapper) | 1.1.0 | Datamit | Class model mapper between entities in .NET. |
-| 2026-10-22 09:10:27 | [VitalWatch.AspNetCore](https://www.nuget.org/packages/VitalWatch.AspNetCore) | 0.1.0 | CestnyTR | VitalWatch Hub için ASP.NET Core raporlayıcı — yakalanmamış hatalar, 5xx yanıtl… |
+| 2026-10-22 09:20:12 | [AxiosNet.DependencyInjection](https://www.nuget.org/packages/AxiosNet.DependencyInjection) | 1.1.0 | sunyuliang | AxiosNet / AxiosNet.WebAPI 的 .NET 依赖注入扩展：AddAxiosClient 把 AxiosClient 注册为单例，Add… |
+| 2026-10-22 09:21:22 | [Growwer.Api](https://www.nuget.org/packages/Growwer.Api) | 1.0.1 | Growwer Support | Official client for the Growwer API: orders, projects, the media catalogue, sel… |
+| 2026-10-22 09:21:59 | [3CGroup.Core.Infrastructure.Common](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.Common) | 1.0.13 | 3CGroup | Common infrastructure utilities for 3CGroup services. |
+| 2026-10-22 09:22:08 | [3CGroup.Core.Infrastructure.Storage](https://www.nuget.org/packages/3CGroup.Core.Infrastructure.Storage) | 1.0.13 | 3CGroup | Azure Blob Storage infrastructure integration for 3CGroup services. |
+| 2026-10-22 09:31:21 | [Leuchter.SE.CodingStandards](https://www.nuget.org/packages/Leuchter.SE.CodingStandards) | 0.1.0 | Leuchter SE | .NET coding conventions and analyzer settings. |
+| 2026-10-22 09:36:12 | [Bit.BevTools](https://www.nuget.org/packages/Bit.BevTools) | 10.7.0-pre-02 | bit platform | Runtime instrumentation and in-app developer tools for Blazor: component tree,… |
+| 2026-10-22 09:36:13 | [Bit.Bdnd](https://www.nuget.org/packages/Bit.Bdnd) | 10.7.0-pre-02 | bit platform | Bit.Bdnd |
+| 2026-10-22 09:36:13 | [Bit.Bcrdt](https://www.nuget.org/packages/Bit.Bcrdt) | 10.7.0-pre-02 | bit platform | Real-time collaborative editing for .NET and Blazor, written natively in C#: a… |
+| 2026-10-22 09:36:13 | [Bit.Bink](https://www.nuget.org/packages/Bit.Bink) | 10.7.0-pre-02 | bit platform | Bit.Bink |
+| 2026-10-22 09:36:14 | [Bit.Bsqlite.Testing](https://www.nuget.org/packages/Bit.Bsqlite.Testing) | 10.7.0-pre-02 | bit platform | Test support for bit Bsqlite: an in-process IBsqliteTransport backed by Microso… |
+| 2026-10-22 09:36:14 | [Bit.Belemetry](https://www.nuget.org/packages/Bit.Belemetry) | 10.7.0-pre-02 | bit platform | Bit.Belemetry |
+| 2026-10-22 09:36:15 | [Bit.Bmage](https://www.nuget.org/packages/Bit.Bmage) | 10.7.0-pre-02 | bit platform | bit Bmage: browser-side image processing for Blazor. Load, transform, annotate… |
+| 2026-10-22 09:36:16 | [Bit.BlazeDb.EntityFrameworkCore](https://www.nuget.org/packages/Bit.BlazeDb.EntityFrameworkCore) | 10.7.0-pre-02 | bit platform | Bit.BlazeDb.EntityFrameworkCore |
+| 2026-10-22 09:36:17 | [Bit.Blex.Maui](https://www.nuget.org/packages/Bit.Blex.Maui) | 10.7.0-pre-02 | bit platform | .NET MAUI integration for Bit.Blex: Preferences-backed persistence, automatic s… |
+| 2026-10-22 09:36:17 | [Bit.Bonboarding](https://www.nuget.org/packages/Bit.Bonboarding) | 10.7.0-pre-02 | bit platform | Bit.Bonboarding |
+| 2026-10-22 09:36:17 | [Bit.Blow](https://www.nuget.org/packages/Bit.Blow) | 10.7.0-pre-02 | bit platform | Bit.Blow |
+| 2026-10-22 09:36:18 | [Bit.BevTools.Loader](https://www.nuget.org/packages/Bit.BevTools.Loader) | 10.7.0-pre-02 | bit platform | Lets a Blazor app load bit BevTools on demand: startup hooks (component activat… |
+| 2026-10-22 09:36:19 | [Bit.Belemetry.EntityFrameworkCore](https://www.nuget.org/packages/Bit.Belemetry.EntityFrameworkCore) | 10.7.0-pre-02 | bit platform | Bit.Belemetry.EntityFrameworkCore |
+| 2026-10-22 09:36:20 | [Bit.Bortable](https://www.nuget.org/packages/Bit.Bortable) | 10.7.0-pre-02 | bit platform | Bit.Bortable |
+| 2026-10-22 09:36:20 | [Bit.Borm](https://www.nuget.org/packages/Bit.Borm) | 10.7.0-pre-02 | bit platform | A schema-driven form engine for Blazor: render forms from C# types, a fluent bu… |
+| 2026-10-22 09:36:21 | [Bit.BbScanner](https://www.nuget.org/packages/Bit.BbScanner) | 10.7.0-pre-02 | bit platform | Bit.BbScanner |
+| 2026-10-22 09:36:22 | [Bit.Balette](https://www.nuget.org/packages/Bit.Balette) | 10.7.0-pre-02 | bit platform | A Blazor-native, accessible, keyboard-first command palette (Ctrl+K / Cmd+K): f… |
+| 2026-10-22 09:36:22 | [Bit.Bcrdt.SignalR](https://www.nuget.org/packages/Bit.Bcrdt.SignalR) | 10.7.0-pre-02 | bit platform | The SignalR client transport for bit Bcrdt. It carries no ASP.NET Core server d… |
+| 2026-10-22 09:36:23 | [Bit.Bsqlite](https://www.nuget.org/packages/Bit.Bsqlite) | 10.7.0-pre-02 | bit platform | bit Bsqlite: SQLite in the browser for Blazor, with EF Core on top. The ADO.NET… |
+| 2026-10-22 09:36:30 | [NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime.runtime.json](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime.runtime.json) | 1.31.0 | nietras | native library meta package |
+| 2026-10-22 09:36:32 | [NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime.runtime.win-x64](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime.runtime.win-x64) | 1.31.0 | nietras | native library runtime specific package |
+| 2026-10-22 09:36:33 | [NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_openvino.runtime.json](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_openvino.runtime.json) | 1.31.0 | nietras | native library meta package |
+| 2026-10-22 09:36:34 | [NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_openvino.runtime.win-x64](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_openvino.runtime.win-x64) | 1.31.0 | nietras | native library runtime specific package |
+| 2026-10-22 09:36:35 | [NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_shared.runtime.json](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_shared.runtime.json) | 1.31.0 | nietras | native library meta package |
+| 2026-10-22 09:36:36 | [NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_shared.runtime.win-x64](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_shared.runtime.win-x64) | 1.31.0 | nietras | native library runtime specific package |
+| 2026-10-22 09:36:37 | [NtvLibs.OnnxRuntime.CPU.OpenVino.runtime.json](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.runtime.json) | 1.31.0 | nietras | meta package |
+| 2026-10-22 09:36:38 | [NtvLibs.OnnxRuntime.CPU.OpenVino.runtime.win-x64](https://www.nuget.org/packages/NtvLibs.OnnxRuntime.CPU.OpenVino.runtime.win-x64) | 1.31.0 | nietras | meta package |
+| 2026-10-22 09:42:55 | [Audacia.UnitTest.Dependency.Mediator](https://www.nuget.org/packages/Audacia.UnitTest.Dependency.Mediator) | 1.0.2 | Audacia | A helper library for testing code that uses Audacia.Mediator. Install this NuGe… |
+| 2026-10-22 09:42:57 | [FocusMinecraftCore](https://www.nuget.org/packages/FocusMinecraftCore) | 1.0.0 | Voltucit | FMCore：面向 .NET 10 / Windows 启动器开发者的 Minecraft Java 版 SDK，提供下载、版本、Java Runtime、安… |
+| 2026-10-22 09:45:33 | [Solipsis](https://www.nuget.org/packages/Solipsis) | 0.1.0 | Kaibutsu | Hot-reloadable C# plugins: point it at a folder of .cs files and call into it t… |
+| 2026-10-22 09:45:34 | [Solipsis.Compiler.Bundled](https://www.nuget.org/packages/Solipsis.Compiler.Bundled) | 0.1.0 | Kaibutsu | Roslyn for Solipsis, bundled (Brotli-compressed) for offline machines without t… |
+| 2026-10-22 09:53:40 | [OpenSheet](https://www.nuget.org/packages/OpenSheet) | 1.0.0 | OpenFern | Free, Apache-2.0 spreadsheet library for .NET: read, write and edit XLSX, XLS,… |
+| 2026-10-22 09:58:08 | [Arc4u.AspNetCore.Versioning](https://www.nuget.org/packages/Arc4u.AspNetCore.Versioning) | 9.0.0-preview38 | Gilles Flisch | Package Description |
 
 ## Data source
 

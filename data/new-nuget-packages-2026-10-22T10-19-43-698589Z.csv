@@ -1,0 +1,39 @@
+created_at,package,version,authors,description
+2026-10-22T09:20:12.883Z,AxiosNet.DependencyInjection,1.1.0,sunyuliang,AxiosNet / AxiosNet.WebAPI 的 .NET 依赖注入扩展：AddAxiosClient 把 AxiosClient 注册为单例，AddApiClient 把 ApiClient 注册为单例（自建 / 门面 / 命名多站点三种模式），多站点经 IApiClientResolver 按键取用；连接池、拦截器与实例默认值随容器生命周期共享。除两个 AxiosNet 包外仅依赖微软第一方 Microsoft.Extensions.DependencyInjection.Abstractions，无第三方运行时依赖。DI extensions for AxiosNet and…
+2026-10-22T09:21:22.04Z,Growwer.Api,1.0.1,Growwer Support,"Official client for the Growwer API: orders, projects, the media catalogue, seller medias and wallets."
+2026-10-22T09:21:59.357Z,3CGroup.Core.Infrastructure.Common,1.0.13,3CGroup,Common infrastructure utilities for 3CGroup services.
+2026-10-22T09:22:08.923Z,3CGroup.Core.Infrastructure.Storage,1.0.13,3CGroup,Azure Blob Storage infrastructure integration for 3CGroup services.
+2026-10-22T09:31:21.767Z,Leuchter.SE.CodingStandards,0.1.0,Leuchter SE,.NET coding conventions and analyzer settings.
+2026-10-22T09:36:12.017Z,Bit.BevTools,10.7.0-pre-02,bit platform,"Runtime instrumentation and in-app developer tools for Blazor: component tree, render profiler, event timeline, state, network, JS interop, errors, DI inspector and diagnostics, plus the extension API (panels, state providers, diagnostic rules, commands, timeline events) libraries use to integrate…"
+2026-10-22T09:36:13.207Z,Bit.Bdnd,10.7.0-pre-02,bit platform,Bit.Bdnd
+2026-10-22T09:36:13.5Z,Bit.Bcrdt,10.7.0-pre-02,bit platform,"Real-time collaborative editing for .NET and Blazor, written natively in C#: a YATA-based CRDT engine (text, arrays, maps and sets), a synchronization protocol with jittered reconnection, presence and awareness, offline-first persistence, selective undo, input bindings and the in-memory and WebSock…"
+2026-10-22T09:36:13.79Z,Bit.Bink,10.7.0-pre-02,bit platform,Bit.Bink
+2026-10-22T09:36:14.393Z,Bit.Bsqlite.Testing,10.7.0-pre-02,bit platform,"Test support for bit Bsqlite: an in-process IBsqliteTransport backed by Microsoft.Data.Sqlite, so the stack can be unit-tested on desktop .NET without a browser, and the MSTest conformance kit every storage provider must pass - inherit its test classes in your provider's test project and hand them…"
+2026-10-22T09:36:14.79Z,Bit.Belemetry,10.7.0-pre-02,bit platform,Bit.Belemetry
+2026-10-22T09:36:15.96Z,Bit.Bmage,10.7.0-pre-02,bit platform,"bit Bmage: browser-side image processing for Blazor. Load, transform, annotate and export images on the user's device from strongly typed C#, with browser-native WebP and AVIF codecs, capability detection, IBrowserFile/clipboard/camera input and dependency injection wiring. Works in WebAssembly, Se…"
+2026-10-22T09:36:16.303Z,Bit.BlazeDb.EntityFrameworkCore,10.7.0-pre-02,bit platform,Bit.BlazeDb.EntityFrameworkCore
+2026-10-22T09:36:17.123Z,Bit.Blex.Maui,10.7.0-pre-02,bit platform,".NET MAUI integration for Bit.Blex: Preferences-backed persistence, automatic startup hydration, and XAML-bindable stores for native (non-Blazor) MAUI apps."
+2026-10-22T09:36:17.447Z,Bit.Bonboarding,10.7.0-pre-02,bit platform,Bit.Bonboarding
+2026-10-22T09:36:17.833Z,Bit.Blow,10.7.0-pre-02,bit platform,Bit.Blow
+2026-10-22T09:36:18.463Z,Bit.BevTools.Loader,10.7.0-pre-02,bit platform,"Lets a Blazor app load bit BevTools on demand: startup hooks (component activator, HTTP pipeline, service collection, framework diagnostics) that cost next to nothing until BevTools is attached, a service that lazy loads Bit.BevTools.wasm, attaches it to the running app and opens it, and a componen…"
+2026-10-22T09:36:19.47Z,Bit.Belemetry.EntityFrameworkCore,10.7.0-pre-02,bit platform,Bit.Belemetry.EntityFrameworkCore
+2026-10-22T09:36:20.327Z,Bit.Bortable,10.7.0-pre-02,bit platform,Bit.Bortable
+2026-10-22T09:36:20.707Z,Bit.Borm,10.7.0-pre-02,bit platform,"A schema-driven form engine for Blazor: render forms from C# types, a fluent builder or JSON Schema, with validation, conditional visibility, requiredness and read-only state, computed values, cascading options, multi-step wizards and array/repeater fields. Every decision runs in C#; the renderers…"
+2026-10-22T09:36:21.39Z,Bit.BbScanner,10.7.0-pre-02,bit platform,Bit.BbScanner
+2026-10-22T09:36:22.25Z,Bit.Balette,10.7.0-pre-02,bit platform,"A Blazor-native, accessible, keyboard-first command palette (Ctrl+K / Cmd+K): fzf-style fuzzy search, nested pages, prefix modes, async sources, recents and frecency, global shortcuts and sequences, multi-select, prompts, theming and full templating. Matching, ranking and every decision run in C#;…"
+2026-10-22T09:36:22.943Z,Bit.Bcrdt.SignalR,10.7.0-pre-02,bit platform,"The SignalR client transport for bit Bcrdt. It carries no ASP.NET Core server dependency, so it runs in Blazor WebAssembly, Server and Hybrid alike; map the matching hub from Bit.Bcrdt.Server on the server."
+2026-10-22T09:36:23.267Z,Bit.Bsqlite,10.7.0-pre-02,bit platform,"bit Bsqlite: SQLite in the browser for Blazor, with EF Core on top. The ADO.NET surface with live queries, the worker transport (storage selection, engine-build negotiation, binary framing, batching, lifecycle), the storage provider contract, the EF Core integration (UseBitBsqlite() on the stock SQ…"
+2026-10-22T09:36:30.213Z,NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime.runtime.json,1.31.0,nietras,native library meta package
+2026-10-22T09:36:32.37Z,NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime.runtime.win-x64,1.31.0,nietras,native library runtime specific package
+2026-10-22T09:36:33.34Z,NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_openvino.runtime.json,1.31.0,nietras,native library meta package
+2026-10-22T09:36:34.92Z,NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_openvino.runtime.win-x64,1.31.0,nietras,native library runtime specific package
+2026-10-22T09:36:35.88Z,NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_shared.runtime.json,1.31.0,nietras,native library meta package
+2026-10-22T09:36:36.953Z,NtvLibs.OnnxRuntime.CPU.OpenVino.onnxruntime_providers_shared.runtime.win-x64,1.31.0,nietras,native library runtime specific package
+2026-10-22T09:36:37.887Z,NtvLibs.OnnxRuntime.CPU.OpenVino.runtime.json,1.31.0,nietras,meta package
+2026-10-22T09:36:38.83Z,NtvLibs.OnnxRuntime.CPU.OpenVino.runtime.win-x64,1.31.0,nietras,meta package
+2026-10-22T09:42:55.797Z,Audacia.UnitTest.Dependency.Mediator,1.0.2,Audacia,"A helper library for testing code that uses Audacia.Mediator. Install this NuGet package to send requests through the real mediator pipeline, with handlers and behaviours built by the TestTargetBuilder."
+2026-10-22T09:42:57.337Z,FocusMinecraftCore,1.0.0,Voltucit,FMCore：面向 .NET 10 / Windows 启动器开发者的 Minecraft Java 版 SDK，提供下载、版本、Java Runtime、安装、账号、启动、加载器、Mod 与整合包 API。
+2026-10-22T09:45:33.373Z,Solipsis,0.1.0,Kaibutsu,Hot-reloadable C# plugins: point it at a folder of .cs files and call into it through an interface.
+2026-10-22T09:45:34.53Z,Solipsis.Compiler.Bundled,0.1.0,Kaibutsu,"Roslyn for Solipsis, bundled (Brotli-compressed) for offline machines without the .NET SDK. Add it next to Solipsis."
+2026-10-22T09:53:40.963Z,OpenSheet,1.0.0,OpenFern,"Free, Apache-2.0 spreadsheet library for .NET: read, write and edit XLSX, XLS, CSV/TSV, JSON and XML with formulas, styles, charts, images, tables, data validation and AES-256 encryption. No license key, no telemetry. Built on NPOI."
+2026-10-22T09:58:08.18Z,Arc4u.AspNetCore.Versioning,9.0.0-preview38,Gilles Flisch,Package Description
