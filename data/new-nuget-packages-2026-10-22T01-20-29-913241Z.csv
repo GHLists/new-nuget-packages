@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-22T00:19:41.987Z,Zhomfr.Validation.Rules.Database,0.3.0,zhuolyan (Oleg Zhuravskiy),Package Description
+2026-10-22T00:23:46.647Z,Asteroid.AgentTools.CompilerTools,0.1.0,Asteroid.AgentTools.CompilerTools,Source generator and analyzer for [AgentPlayFace] typed play tool projection.
+2026-10-22T00:47:13.963Z,Tracescribe.Query,0.3.0-alpha,Senthil Sekar,"Read traces from Jaeger, Grafana Tempo or OTLP/JSON files and turn them into Tracescribe triage digests. No dependencies beyond the BCL."
+2026-10-22T00:47:14.657Z,Tracescribe,0.3.0-alpha,Senthil Sekar,"Triage-ready instrumentation for .NET on top of System.Diagnostics.Activity: intent, expected vs. actual outcome, failure classes, decisions, redaction and agent-readable trace digests. No dependencies beyond the BCL."
+2026-10-22T00:47:15.513Z,Tracescribe.Mcp,0.3.0-alpha,Senthil Sekar,"MCP server and CLI that give AI agents triage digests of traces and intent-keyed log search over Jaeger, Grafana Tempo and Loki, Azure Monitor / Application Insights, or OTLP/JSON files."
+2026-10-22T00:47:16.27Z,Tracescribe.OpenTelemetry,0.3.0-alpha,Senthil Sekar,"OpenTelemetry .NET integration for Tracescribe: a span processor that infers failure classes, sets default outcomes and redacts business context before export."
+2026-10-22T00:47:17.017Z,Tracescribe.Extensions.AI,0.3.0-alpha,Senthil Sekar,"Microsoft.Extensions.AI middleware that wraps chat calls in Tracescribe operations: intent, finish-reason handling, failure classes and pluggable outcome checks that catch semantically wrong responses."
+2026-10-22T00:47:17.807Z,Tracescribe.SemanticConventions,0.3.0-alpha,Senthil Sekar,"Attribute, event and enum constants for the Tracescribe semantic conventions."
+2026-10-22T00:47:18.513Z,Tracescribe.Generators,0.3.0-alpha,Senthil Sekar,Source generator for Tracescribe: writes the body of [Scribe] partial methods so every call is a triage-ready span. Use with the Tracescribe package.
+2026-10-22T01:07:06.013Z,TemporaryDiagnostics.AspNetCore,1.0.2,csvkse,"ASP.NET Core integration for TemporaryDiagnostics: Middleware, Minimal APIs, embedded Vue 3 SPA UI, and OpenAPI docs."
+2026-10-22T01:07:07.117Z,TemporaryDiagnostics.Core,1.0.2,csvkse,"Core contracts, models, state machines and options for TemporaryDiagnostics middleware."
+2026-10-22T01:07:08.213Z,TemporaryDiagnostics.Infrastructure,1.0.2,csvkse,"Infrastructure implementation for TemporaryDiagnostics: PTY engines, IL Emit fast invoker, system adapters, ring-buffer logging, and MCP engine."
+2026-10-22T01:08:49.053Z,BYFoundation.ZWCAD.2026,1.1.2,Dawsen,Helper classes and functions for ZWCAD 2026
