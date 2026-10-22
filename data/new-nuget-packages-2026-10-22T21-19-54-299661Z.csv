@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-22T20:20:38.737Z,Wolfe.Lab,1.0.109,Tom Wolfe,Plz do not use. Thx.
+2026-10-22T20:21:34.29Z,ASEI.DSP-SUITE,1.0.0,ASEI,Library for controlling DSP's
+2026-10-22T20:35:50.99Z,Blazor.Lexical,0.52.1,BananaBlazor,"A Blazor Razor Class Library that wraps the Lexical rich-text editor behind a single <LexicalEditor> component: rich text with history/undo, lists, links, and get/set of plain text, HTML, Markdown, or canonical editor-state JSON. Works with Blazor Server and WebAssembly; JS glue ships as a self-con…"
+2026-10-22T20:42:04.663Z,LowCodeHub.Outcomes,0.0.1,Ahmed Abuelnour,"Result type for ASP.NET Core built on C# 15 unions: Outcome<T> is either a value or a ProblemDetails, with Problems builders, error codes, and Map/Bind/Match helpers."
+2026-10-22T20:51:18.297Z,Octeka.Logging,1.2.0,Octeka.Logging,Package Description
+2026-10-22T20:51:18.96Z,Octeka.Logging.Abstractions,1.2.0,Octeka.Logging.Abstractions,Package Description
+2026-10-22T20:51:19.56Z,Octeka.Logging.Configurations,1.2.0,Octeka.Logging.Configurations,Package Description
+2026-10-22T20:51:20.237Z,Octeka.Logging.Configurations.Abstractions,1.2.0,Octeka.Logging.Configurations.Abstractions,Package Description
+2026-10-22T20:51:20.857Z,Octeka.Logging.Configurations.Json,1.2.0,Octeka.Logging.Configurations.Json,Package Description
+2026-10-22T20:51:21.533Z,Octeka.Logging.Configurations.Yaml,1.2.0,Octeka.Logging.Configurations.Yaml,Package Description
+2026-10-22T20:51:22.23Z,Octeka.Logging.Enrichers.Environment,1.2.0,Octeka.Logging.Enrichers.Environment,Package Description
+2026-10-22T20:51:22.88Z,Octeka.Logging.Enrichers.Metrics,1.2.0,Octeka.Logging.Enrichers.Metrics,Package Description
+2026-10-22T20:51:23.7Z,Octeka.Logging.Enrichers.Networking,1.2.0,Octeka.Logging.Enrichers.Networking,Package Description
+2026-10-22T20:51:24.383Z,Octeka.Logging.Enrichers.Process,1.2.0,Octeka.Logging.Enrichers.Process,Package Description
+2026-10-22T20:51:24.947Z,Octeka.Logging.Enrichers.Properties,1.2.0,Octeka.Logging.Enrichers.Properties,Package Description
+2026-10-22T20:51:25.6Z,Octeka.Logging.Extensions.Configuration,1.2.0,Octeka.Logging.Extensions.Configuration,Package Description
+2026-10-22T20:51:26.213Z,Octeka.Logging.Filters,1.2.0,Octeka.Logging.Filters,Package Description
+2026-10-22T20:51:26.9Z,Octeka.Logging.Formatters.TemplateMessage,1.2.0,Octeka.Logging.Formatters.TemplateMessage,Package Description
+2026-10-22T20:51:27.68Z,Octeka.Logging.Handlers.Console,1.2.0,Octeka.Logging.Handlers.Console,Package Description
+2026-10-22T20:51:28.253Z,Octeka.Logging.Handlers.Debug,1.2.0,Octeka.Logging.Handlers.Debug,Package Description
+2026-10-22T20:51:28.977Z,Octeka.Logging.Handlers.FileSystem,1.2.0,Octeka.Logging.Handlers.FileSystem,Package Description
+2026-10-22T20:51:29.643Z,Octeka.Logging.Handlers.Http,1.2.0,Octeka.Logging.Handlers.Http,Package Description
+2026-10-22T20:51:30.213Z,Octeka.Logging.Handlers.Memory,1.2.0,Octeka.Logging.Handlers.Memory,Package Description
+2026-10-22T21:02:48.193Z,Eternet.Celebrations.Contracts,1.0.0,Eternet,"Public contracts, read models and endpoint manifest of Eternet.Celebrations."
+2026-10-22T21:03:29.587Z,DimensionalQuantities,1.0.0,GoSim,Compile-time dimensional quantities with generated aliases and arithmetic.
