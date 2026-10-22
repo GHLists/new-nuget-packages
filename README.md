@@ -12,37 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:19 UTC
+## Latest list — 2026-10-22 15:20 UTC
 
-New packages created between 2026-10-22 13:20 UTC and 2026-10-22 14:19 UTC.
+New packages created between 2026-10-22 14:19 UTC and 2026-10-22 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T14-19-57-407796Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T15-20-48-457543Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 13:21:28 | [Pathway.Components](https://www.nuget.org/packages/Pathway.Components) | 0.1.1 | Ministry Brands | Pathway Design System UI components as framework-agnostic Web Components. Works… |
-| 2026-10-22 13:25:40 | [Pycom.Platform.Auth](https://www.nuget.org/packages/Pycom.Platform.Auth) | 0.1.0 | Pycom | Outbound OAuth 2.0 client-credentials tokens for Pycom Platform Auth. |
-| 2026-10-22 13:25:52 | [Pycom.Scheduler.Client](https://www.nuget.org/packages/Pycom.Scheduler.Client) | 0.1.0 | Pycom | Strongly typed client for the Pycom Scheduler runtime API. |
-| 2026-10-22 13:25:55 | [Pycom.Zalo.Client](https://www.nuget.org/packages/Pycom.Zalo.Client) | 0.1.0 | Pycom | Strongly typed client for the Pycom Zalo Gateway domain API. |
-| 2026-10-22 13:25:58 | [Pycom.ObjectContext.Client](https://www.nuget.org/packages/Pycom.ObjectContext.Client) | 0.1.0 | Pycom | Strongly typed client for the Pycom Object Context Service runtime API. |
-| 2026-10-22 13:26:00 | [Pycom.Notification.Client](https://www.nuget.org/packages/Pycom.Notification.Client) | 0.1.0 | Pycom | Strongly typed client for the Pycom Unified Notification Platform runtime API. |
-| 2026-10-22 13:28:16 | [TriQL.EntityFrameworkCore](https://www.nuget.org/packages/TriQL.EntityFrameworkCore) | 1.1.0 | TriQL Contributors | An Entity Framework Core provider for Trino, built on the TriQL ADO.NET provide… |
-| 2026-10-22 13:28:54 | [Arc4u.Cli.2026.1.linux-arm64](https://www.nuget.org/packages/Arc4u.Cli.2026.1.linux-arm64) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:28:55 | [Arc4u.Cli.2026.1.linux-x64](https://www.nuget.org/packages/Arc4u.Cli.2026.1.linux-x64) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:28:57 | [Arc4u.Cli.2026.1.osx-arm64](https://www.nuget.org/packages/Arc4u.Cli.2026.1.osx-arm64) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:28:59 | [Arc4u.Cli.2026.1.osx-x64](https://www.nuget.org/packages/Arc4u.Cli.2026.1.osx-x64) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:29:00 | [Arc4u.Cli.2026.1.win-arm64](https://www.nuget.org/packages/Arc4u.Cli.2026.1.win-arm64) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:29:02 | [Arc4u.Cli.2026.1.win-x64](https://www.nuget.org/packages/Arc4u.Cli.2026.1.win-x64) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:29:03 | [Arc4u.Cli.2026.1](https://www.nuget.org/packages/Arc4u.Cli.2026.1) | 2026.1.0-pre01 | Gilles Flisch | Package Description |
-| 2026-10-22 13:35:47 | [JetPack.Wpf](https://www.nuget.org/packages/JetPack.Wpf) | 0.4.0 | Martin Kirk | The JetPack theme from Silverlight 4, rebuilt as a complete WPF controls librar… |
-| 2026-10-22 13:39:16 | [ShipStationApi](https://www.nuget.org/packages/ShipStationApi) | 0.1.0 | ShipStation | The official ShipStation API v2 SDK for .NET. Create shipments, shop rates, pur… |
-| 2026-10-22 13:43:50 | [Optionus](https://www.nuget.org/packages/Optionus) | 0.9.0 | Jonathan Pryor,Federico Di Gr… | Getopt::Long-inspired command-line option parser. Fork of Mono.Options / NDesk.… |
-| 2026-10-22 13:44:48 | [UruFactura.EntityFrameworkCore](https://www.nuget.org/packages/UruFactura.EntityFrameworkCore) | 1.1.0 | MathiasGonzalez | Persistencia con Entity Framework Core para UruFactura: CAE con numeración atóm… |
-| 2026-10-22 13:44:49 | [UruFactura.Lite.EntityFrameworkCore](https://www.nuget.org/packages/UruFactura.Lite.EntityFrameworkCore) | 1.1.0 | MathiasGonzalez | Persistencia con Entity Framework Core para UruFactura.Lite: CAE con numeración… |
-| 2026-10-22 13:50:43 | [Comentality.Icons](https://www.nuget.org/packages/Comentality.Icons) | 1.0.0 | Comentality | Put a proper icon on a Dataverse table: pick one from six bundled icon librarie… |
-| 2026-10-22 13:51:45 | [NetEscapades.ProjectInfo](https://www.nuget.org/packages/NetEscapades.ProjectInfo) | 0.1.0-beta1 | Andrew Lock | A source generator for exposing information about your project at compile time |
-| 2026-10-22 13:52:41 | [Pushizo](https://www.nuget.org/packages/Pushizo) | 0.1.0 | Pushizo | Pushizo sunucu SDK'sı: bildirim gönderme, kullanıcı/abonelik yönetimi, segment/… |
-| 2026-10-22 13:56:18 | [EscPosKit.Printers](https://www.nuget.org/packages/EscPosKit.Printers) | 1.0.0 | EscPosKit contributors | Printer transports for EscPosKit: network (TCP), serial, file, Samba share and… |
+| 2026-10-22 14:20:23 | [org.anosys.in.DevOps](https://www.nuget.org/packages/org.anosys.in.DevOps) | 1.0.0 | Anosys | Shared PowerShell commands for planning, validating and publishing NuGet releas… |
+| 2026-10-22 14:33:04 | [Transmitly.ContentTemplate.Contentful](https://www.nuget.org/packages/Transmitly.ContentTemplate.Contentful) | 0.4.5 | Code Impressions | A extension to enable content from Contentful to be used as channel content tem… |
+| 2026-10-22 14:34:10 | [Tesserae.Themes.Stratus](https://www.nuget.org/packages/Tesserae.Themes.Stratus) | 26.10.72651 | Curiosity GmbH | An aerospace-grade design language as a Tesserae custom theme: deep navy accent… |
+| 2026-10-22 14:34:21 | [Tesserae.Themes.RetroOS](https://www.nuget.org/packages/Tesserae.Themes.RetroOS) | 26.10.72651 | Curiosity GmbH | A Tesserae custom theme inspired by the original 1984 Macintosh System Software… |
+| 2026-10-22 14:34:59 | [Bitzsoft.Integrations.SyntheticData.Enterprise](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.Enterprise) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据企业与协同垂直扩展包 — 包含层级部门树、职级职能、审批流任务单与公文流转语料 |
+| 2026-10-22 14:35:28 | [Bitzsoft.Integrations.SyntheticData.Web](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.Web) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据门户与媒体垂直扩展包 — 包含栏目分类树、深度资讯文章、轮播Banner与免版税视觉资产语料 |
+| 2026-10-22 14:36:04 | [Bitzsoft.Integrations.SyntheticData.Legal](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.Legal) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据司法垂直扩展包 — 包含审级法院、司法案号、案由事实、裁判文书、法条与律师执业资质语料 |
+| 2026-10-22 14:38:40 | [EsOptionGamma.Core](https://www.nuget.org/packages/EsOptionGamma.Core) | 0.2.8 | PulseTrade M:/YT Team | Core Domain, CME Trading Calendar, and IEs1kOhlcvProvider contract |
+| 2026-10-22 14:41:00 | [Umbraco.Community.AI.Search.Pinecone](https://www.nuget.org/packages/Umbraco.Community.AI.Search.Pinecone) | 18.0.0 | Lee Mills | A vector store for Umbraco AI Search that keeps its embeddings in a Pinecone se… |
 
 ## Data source
 

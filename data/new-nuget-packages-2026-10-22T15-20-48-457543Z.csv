@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-22T14:20:23.25Z,org.anosys.in.DevOps,1.0.0,Anosys,"Shared PowerShell commands for planning, validating and publishing NuGet releases."
+2026-10-22T14:33:04.48Z,Transmitly.ContentTemplate.Contentful,0.4.5,Code Impressions,A extension to enable content from Contentful to be used as channel content templates.
+2026-10-22T14:34:10.363Z,Tesserae.Themes.Stratus,26.10.72651,Curiosity GmbH,"An aerospace-grade design language as a Tesserae custom theme: deep navy accent, cool-grey neutrals, filled inputs with a bottom rule, small 3px corners, tiered elevation and Inter with Roboto Mono."
+2026-10-22T14:34:21.42Z,Tesserae.Themes.RetroOS,26.10.72651,Curiosity GmbH,"A Tesserae custom theme inspired by the original 1984 Macintosh System Software: 1-bit black and white, dithered greys, pinstriped title bars, hard drop shadows and pixel fonts."
+2026-10-22T14:34:59.58Z,Bitzsoft.Integrations.SyntheticData.Enterprise,1.0.4,Bitzsoft,Bitzsoft 智能合成数据企业与协同垂直扩展包 — 包含层级部门树、职级职能、审批流任务单与公文流转语料
+2026-10-22T14:35:28.503Z,Bitzsoft.Integrations.SyntheticData.Web,1.0.4,Bitzsoft,Bitzsoft 智能合成数据门户与媒体垂直扩展包 — 包含栏目分类树、深度资讯文章、轮播Banner与免版税视觉资产语料
+2026-10-22T14:36:04.313Z,Bitzsoft.Integrations.SyntheticData.Legal,1.0.4,Bitzsoft,Bitzsoft 智能合成数据司法垂直扩展包 — 包含审级法院、司法案号、案由事实、裁判文书、法条与律师执业资质语料
+2026-10-22T14:38:40.357Z,EsOptionGamma.Core,0.2.8,PulseTrade M:/YT Team,"Core Domain, CME Trading Calendar, and IEs1kOhlcvProvider contract"
+2026-10-22T14:41:00.027Z,Umbraco.Community.AI.Search.Pinecone,18.0.0,Lee Mills,A vector store for Umbraco AI Search that keeps its embeddings in a Pinecone serverless index instead of the CMS database. Works with any Umbraco AI embedding provider.
