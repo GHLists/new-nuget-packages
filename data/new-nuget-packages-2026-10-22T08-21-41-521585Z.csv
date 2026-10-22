@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-22T07:30:00.87Z,RavenDB.Zstd.Native,1.5.7,RavenDB,"Native libzstd v1.5.7 (https://github.com/facebook/zstd) for win-x86, win-x64, win-arm64, linux-x64, linux-arm, linux-arm64 and osx-arm64, used by RavenDB.Client and the RavenDB server for zstd compression."
+2026-10-22T07:33:57.22Z,Envisia.EmbeddedNodeJs26.Native.linux-arm64,0.6.0,Embedded NodeJS,Embedded Node.js runtime for linux-arm64.
+2026-10-22T07:33:57.7Z,Envisia.EmbeddedNodeJs26,0.6.0,Embedded NodeJS,"Embeds prebuilt Node.js binaries (win/linux/mac, x64/arm64) for use by JavaScriptEngineSwitcher.Node or other hosts."
+2026-10-22T07:33:59.9Z,Envisia.EmbeddedNodeJs26.Native.win-x64,0.6.0,Embedded NodeJS,Embedded Node.js runtime for win-x64.
+2026-10-22T07:34:01.63Z,Envisia.EmbeddedNodeJs26.Native.win-arm64,0.6.0,Embedded NodeJS,Embedded Node.js runtime for win-arm64.
+2026-10-22T07:34:03.863Z,Envisia.EmbeddedNodeJs26.Native.osx-x64,0.6.0,Embedded NodeJS,Embedded Node.js runtime for osx-x64.
+2026-10-22T07:34:06.223Z,Envisia.EmbeddedNodeJs26.Native.osx-arm64,0.6.0,Embedded NodeJS,Embedded Node.js runtime for osx-arm64.
+2026-10-22T07:34:08.433Z,Envisia.EmbeddedNodeJs26.Native.linux-x64,0.6.0,Embedded NodeJS,Embedded Node.js runtime for linux-x64.
+2026-10-22T07:53:43.19Z,RustNetRuntime,0.1.0,Gravicode Studios,"RustNetRuntime: a .NET runtime (RustCLR) written in Rust. The rustnet command builds, runs, debugs, profiles, inspects and disassembles .NET assemblies on RustCLR, on Windows, Linux and macOS (x64 and arm64). Built by Gravicode Studios, led by Kang Fadhil."
+2026-10-22T07:54:29.43Z,Webority.Jobs,0.27.0,Webority.Jobs,"DestructiveRunGuard: one brake for scheduled jobs that delete data or remove access. It refuses an empty population, a plan over the per-run cap and a plan over a share of the population, always for the whole plan, and binds and validates each job's limits on start."
+2026-10-22T07:58:55.393Z,FS.GG.SDD.Commands,2.3.0,FS.GG,Native lifecycle command workflow contracts for FS.GG.SDD.
+2026-10-22T07:59:44.293Z,Hosihikari.Testing,1.0.0,HosihikariFramework,Test host and in-memory host services for Hosihikari plugins.
+2026-10-22T07:59:44.86Z,Hosihikari.Plugin.Build,1.0.0,HosihikariFramework,MSBuild PackPlugin target for Hosihikari plugin packages.
+2026-10-22T08:03:24.707Z,mdu,5.0.0,Jan Ruhlaender,MDU (Markdown Documentation Utility) for linting and rendering Markdown documentation
