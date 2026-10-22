@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-10-22T15:25:42.313Z,EncySoftware.ToolsMcp,0.3.0,EncySoftware,"MCP server for Cursor, Claude Code and Codex: find cutting tools on tools.encycam.com, build kits and fill your ENCY tool libraries"
+2026-10-22T15:25:43.743Z,Hexalith.Projects,1.2.0,Hexalith Contributors,Tenant-scoped project workspace and context-resolution module for .NET built on Hexalith.EventStore.
+2026-10-22T15:25:44.26Z,Hexalith.Projects.Contracts,1.2.0,Hexalith Contributors,Tenant-scoped project workspace and context-resolution module for .NET built on Hexalith.EventStore.
+2026-10-22T15:25:44.68Z,Hexalith.Projects.Testing,1.2.0,Hexalith Contributors,Tenant-scoped project workspace and context-resolution module for .NET built on Hexalith.EventStore.
+2026-10-22T15:25:44Z,Hexalith.Projects.Client,1.2.0,Hexalith Contributors,Tenant-scoped project workspace and context-resolution module for .NET built on Hexalith.EventStore.
+2026-10-22T15:32:59.793Z,CheapHelpers.Auth,4.0.0,CheapNud,"Authentication building blocks for ASP.NET Core: Plex and OAuth sign-in, API keys, shared-secret auth, forwarded headers and Data Protection setup"
+2026-10-22T15:33:02.61Z,CheapHelpers.Barcodes,4.0.0,CheapNud,Barcode generation and reading on ZXing.Net with no native image dependency
+2026-10-22T15:33:07.147Z,CheapHelpers.Llm,4.0.0,CheapNud,LLM client for Anthropic and OpenAI-compatible providers with structured output and a usage cap
+2026-10-22T15:34:21.52Z,Xperience.Telemetry,0.1.0,AJ Hoffer,"Memory and GC telemetry for ASP.NET Core apps, intended for Xperience by Kentico SaaS environments, to get more robust statistics than the Xperience Portal provides: GC and memory metrics, a probe that reports what is pinned in the heap, a watchdog that compacts the heap and, if switched on, restar…"
+2026-10-22T15:34:22.1Z,Xperience.Telemetry.Kentico,0.1.0,AJ Hoffer,"What Xperience.Telemetry reports that needs the Kentico SDK: how many entries Kentico's in-memory cache holds and which key families they belong to, plus debug endpoints that list and measure them. Depends on Kentico.Xperience.Core, so keep it at the version of the app it runs in."
+2026-10-22T15:41:06.367Z,org.anosys.Core,1.1.16,Anosys,The core library of Anosys.
+2026-10-22T15:48:29.463Z,LinKit.Data,1.1.0,Linh Nguyen,Source-generated ADO.NET data access and additive schema synchronization for LinKit; selected paths are covered by Native AOT smoke tests.
+2026-10-22T15:48:40.387Z,LinKit.Outbox.Data,1.1.0,Linh Nguyen,Provider-neutral ADO.NET durable stores for LinKit Outbox and Inbox.
+2026-10-22T15:53:42.057Z,Meziantou.Framework.Unicode.Dictionaries,1.0.0,meziantou,"The word lists of ICU (Chinese and Japanese, Thai, Lao, Khmer and Burmese) and ports of the dictionary break engines of ICU, which find the words of the scripts that are written without spaces between words."
+2026-10-22T15:55:13.527Z,DNDHinwil.Lib,0.0.9.26292,"codespirals,Elitarate",A library of classes and interfaces to use in my small DND tracker.
+2026-10-22T16:00:15.017Z,org.anosys.Core.Source,1.1.16,Anosys,The core library of Anosys.
+2026-10-22T16:00:16.637Z,org.anosys.Core.Composition,1.1.16,Anosys,Library for registering and resolving instances of objects.
+2026-10-22T16:00:18.08Z,org.anosys.Core.Composition.Source,1.1.16,Anosys,Library for registering and resolving instances of objects.
+2026-10-22T16:00:19.373Z,org.anosys.Core.Composition.Autofac,1.1.16,Anosys,Autofac adapter for org.anosys.Core.Composition.
+2026-10-22T16:00:20.957Z,org.anosys.Core.Composition.Autofac.Source,1.1.16,Anosys,Autofac adapter for org.anosys.Core.Composition.
+2026-10-22T16:00:22.4Z,org.anosys.Core.Composition.MsDependencyInjection,1.1.16,Anosys,Microsoft.Extensions.DependencyInjection adapter for org.anosys.Core.Composition.
+2026-10-22T16:00:23.747Z,org.anosys.Core.Composition.MsDependencyInjection.Source,1.1.16,Anosys,Microsoft.Extensions.DependencyInjection adapter for org.anosys.Core.Composition.
+2026-10-22T16:00:25.073Z,org.anosys.Core.Serialization,1.1.16,Anosys,The core serialization library of Anosys Framework.
+2026-10-22T16:00:26.36Z,org.anosys.Core.Serialization.Source,1.1.16,Anosys,The core serialization library of Anosys Framework.
+2026-10-22T16:00:27.69Z,org.anosys.Core.Serialization.SystemTextJson,1.1.16,Anosys,System.Text.Json adapter for org.anosys.Core.Serialization.
+2026-10-22T16:02:17.13Z,NathansQol.KeyBindings,0.1.1,NateBuzz,Public API of the NathansQol_KeyBindings mod for Valheim: lets mods list their hotkeys in the Key Bindings tab of the game settings.
+2026-10-22T16:03:40.61Z,RecursiveAI.OneImage,1.0.0,"Recursive AI, LLC","A pure-managed .NET image library: one-line thumbnails, crops and conversions, and lazy, tiled, streaming load, edit and render on the same engine."
+2026-10-22T16:10:05.953Z,ITBees.Mikrotik,8.0.1,ITBees,"Provisioning library for MikroTik routers used on Octopark parking sites (RB960PGS hEX PoE + Huawei E3372 LTE modem). MNDP discovery (like Winbox, independent of IP addressing), RouterOS API client (TCP 8728/8729, IPv4 and IPv6 link-local), login scan across discovered devices, idempotent configura…"

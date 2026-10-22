@@ -12,23 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 15:20 UTC
+## Latest list — 2026-10-22 16:20 UTC
 
-New packages created between 2026-10-22 14:19 UTC and 2026-10-22 15:20 UTC.
+New packages created between 2026-10-22 15:20 UTC and 2026-10-22 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T15-20-48-457543Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T16-20-38-267054Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 14:20:23 | [org.anosys.in.DevOps](https://www.nuget.org/packages/org.anosys.in.DevOps) | 1.0.0 | Anosys | Shared PowerShell commands for planning, validating and publishing NuGet releas… |
-| 2026-10-22 14:33:04 | [Transmitly.ContentTemplate.Contentful](https://www.nuget.org/packages/Transmitly.ContentTemplate.Contentful) | 0.4.5 | Code Impressions | A extension to enable content from Contentful to be used as channel content tem… |
-| 2026-10-22 14:34:10 | [Tesserae.Themes.Stratus](https://www.nuget.org/packages/Tesserae.Themes.Stratus) | 26.10.72651 | Curiosity GmbH | An aerospace-grade design language as a Tesserae custom theme: deep navy accent… |
-| 2026-10-22 14:34:21 | [Tesserae.Themes.RetroOS](https://www.nuget.org/packages/Tesserae.Themes.RetroOS) | 26.10.72651 | Curiosity GmbH | A Tesserae custom theme inspired by the original 1984 Macintosh System Software… |
-| 2026-10-22 14:34:59 | [Bitzsoft.Integrations.SyntheticData.Enterprise](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.Enterprise) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据企业与协同垂直扩展包 — 包含层级部门树、职级职能、审批流任务单与公文流转语料 |
-| 2026-10-22 14:35:28 | [Bitzsoft.Integrations.SyntheticData.Web](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.Web) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据门户与媒体垂直扩展包 — 包含栏目分类树、深度资讯文章、轮播Banner与免版税视觉资产语料 |
-| 2026-10-22 14:36:04 | [Bitzsoft.Integrations.SyntheticData.Legal](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.Legal) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据司法垂直扩展包 — 包含审级法院、司法案号、案由事实、裁判文书、法条与律师执业资质语料 |
-| 2026-10-22 14:38:40 | [EsOptionGamma.Core](https://www.nuget.org/packages/EsOptionGamma.Core) | 0.2.8 | PulseTrade M:/YT Team | Core Domain, CME Trading Calendar, and IEs1kOhlcvProvider contract |
-| 2026-10-22 14:41:00 | [Umbraco.Community.AI.Search.Pinecone](https://www.nuget.org/packages/Umbraco.Community.AI.Search.Pinecone) | 18.0.0 | Lee Mills | A vector store for Umbraco AI Search that keeps its embeddings in a Pinecone se… |
+| 2026-10-22 15:25:42 | [EncySoftware.ToolsMcp](https://www.nuget.org/packages/EncySoftware.ToolsMcp) | 0.3.0 | EncySoftware | MCP server for Cursor, Claude Code and Codex: find cutting tools on tools.encyc… |
+| 2026-10-22 15:25:43 | [Hexalith.Projects](https://www.nuget.org/packages/Hexalith.Projects) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
+| 2026-10-22 15:25:44 | [Hexalith.Projects.Contracts](https://www.nuget.org/packages/Hexalith.Projects.Contracts) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
+| 2026-10-22 15:25:44 | [Hexalith.Projects.Testing](https://www.nuget.org/packages/Hexalith.Projects.Testing) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
+| 2026-10-22 15:25:44 | [Hexalith.Projects.Client](https://www.nuget.org/packages/Hexalith.Projects.Client) | 1.2.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
+| 2026-10-22 15:32:59 | [CheapHelpers.Auth](https://www.nuget.org/packages/CheapHelpers.Auth) | 4.0.0 | CheapNud | Authentication building blocks for ASP.NET Core: Plex and OAuth sign-in, API ke… |
+| 2026-10-22 15:33:02 | [CheapHelpers.Barcodes](https://www.nuget.org/packages/CheapHelpers.Barcodes) | 4.0.0 | CheapNud | Barcode generation and reading on ZXing.Net with no native image dependency |
+| 2026-10-22 15:33:07 | [CheapHelpers.Llm](https://www.nuget.org/packages/CheapHelpers.Llm) | 4.0.0 | CheapNud | LLM client for Anthropic and OpenAI-compatible providers with structured output… |
+| 2026-10-22 15:34:21 | [Xperience.Telemetry](https://www.nuget.org/packages/Xperience.Telemetry) | 0.1.0 | AJ Hoffer | Memory and GC telemetry for ASP.NET Core apps, intended for Xperience by Kentic… |
+| 2026-10-22 15:34:22 | [Xperience.Telemetry.Kentico](https://www.nuget.org/packages/Xperience.Telemetry.Kentico) | 0.1.0 | AJ Hoffer | What Xperience.Telemetry reports that needs the Kentico SDK: how many entries K… |
+| 2026-10-22 15:41:06 | [org.anosys.Core](https://www.nuget.org/packages/org.anosys.Core) | 1.1.16 | Anosys | The core library of Anosys. |
+| 2026-10-22 15:48:29 | [LinKit.Data](https://www.nuget.org/packages/LinKit.Data) | 1.1.0 | Linh Nguyen | Source-generated ADO.NET data access and additive schema synchronization for Li… |
+| 2026-10-22 15:48:40 | [LinKit.Outbox.Data](https://www.nuget.org/packages/LinKit.Outbox.Data) | 1.1.0 | Linh Nguyen | Provider-neutral ADO.NET durable stores for LinKit Outbox and Inbox. |
+| 2026-10-22 15:53:42 | [Meziantou.Framework.Unicode.Dictionaries](https://www.nuget.org/packages/Meziantou.Framework.Unicode.Dictionaries) | 1.0.0 | meziantou | The word lists of ICU (Chinese and Japanese, Thai, Lao, Khmer and Burmese) and… |
+| 2026-10-22 15:55:13 | [DNDHinwil.Lib](https://www.nuget.org/packages/DNDHinwil.Lib) | 0.0.9.26292 | codespirals,Elitarate | A library of classes and interfaces to use in my small DND tracker. |
+| 2026-10-22 16:00:15 | [org.anosys.Core.Source](https://www.nuget.org/packages/org.anosys.Core.Source) | 1.1.16 | Anosys | The core library of Anosys. |
+| 2026-10-22 16:00:16 | [org.anosys.Core.Composition](https://www.nuget.org/packages/org.anosys.Core.Composition) | 1.1.16 | Anosys | Library for registering and resolving instances of objects. |
+| 2026-10-22 16:00:18 | [org.anosys.Core.Composition.Source](https://www.nuget.org/packages/org.anosys.Core.Composition.Source) | 1.1.16 | Anosys | Library for registering and resolving instances of objects. |
+| 2026-10-22 16:00:19 | [org.anosys.Core.Composition.Autofac](https://www.nuget.org/packages/org.anosys.Core.Composition.Autofac) | 1.1.16 | Anosys | Autofac adapter for org.anosys.Core.Composition. |
+| 2026-10-22 16:00:20 | [org.anosys.Core.Composition.Autofac.Source](https://www.nuget.org/packages/org.anosys.Core.Composition.Autofac.Source) | 1.1.16 | Anosys | Autofac adapter for org.anosys.Core.Composition. |
+| 2026-10-22 16:00:22 | [org.anosys.Core.Composition.MsDependencyInjection](https://www.nuget.org/packages/org.anosys.Core.Composition.MsDependencyInjection) | 1.1.16 | Anosys | Microsoft.Extensions.DependencyInjection adapter for org.anosys.Core.Compositio… |
+| 2026-10-22 16:00:23 | [org.anosys.Core.Composition.MsDependencyInjection.Source](https://www.nuget.org/packages/org.anosys.Core.Composition.MsDependencyInjection.Source) | 1.1.16 | Anosys | Microsoft.Extensions.DependencyInjection adapter for org.anosys.Core.Compositio… |
+| 2026-10-22 16:00:25 | [org.anosys.Core.Serialization](https://www.nuget.org/packages/org.anosys.Core.Serialization) | 1.1.16 | Anosys | The core serialization library of Anosys Framework. |
+| 2026-10-22 16:00:26 | [org.anosys.Core.Serialization.Source](https://www.nuget.org/packages/org.anosys.Core.Serialization.Source) | 1.1.16 | Anosys | The core serialization library of Anosys Framework. |
+| 2026-10-22 16:00:27 | [org.anosys.Core.Serialization.SystemTextJson](https://www.nuget.org/packages/org.anosys.Core.Serialization.SystemTextJson) | 1.1.16 | Anosys | System.Text.Json adapter for org.anosys.Core.Serialization. |
+| 2026-10-22 16:02:17 | [NathansQol.KeyBindings](https://www.nuget.org/packages/NathansQol.KeyBindings) | 0.1.1 | NateBuzz | Public API of the NathansQol_KeyBindings mod for Valheim: lets mods list their… |
+| 2026-10-22 16:03:40 | [RecursiveAI.OneImage](https://www.nuget.org/packages/RecursiveAI.OneImage) | 1.0.0 | Recursive AI, LLC | A pure-managed .NET image library: one-line thumbnails, crops and conversions,… |
+| 2026-10-22 16:10:05 | [ITBees.Mikrotik](https://www.nuget.org/packages/ITBees.Mikrotik) | 8.0.1 | ITBees | Provisioning library for MikroTik routers used on Octopark parking sites (RB960… |
 
 ## Data source
 
