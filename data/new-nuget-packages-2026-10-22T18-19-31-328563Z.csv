@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-22T17:19:56.773Z,Tapline.Wasm,0.1.0,Mark Hammond,"Tapline's WebAssembly, run by Wasmtime: a data provider's folds, finalizers and stale-data functions as sandboxed modules, fuel- and memory-bounded on the router; and password sign-in by OPAQUE (RFC 9807), a module of Tapline's authentication in which the password never leaves the client — on the s…"
+2026-10-22T17:20:24.64Z,Tapline.Client.Opaque,0.1.0,Mark Hammond,"A .NET client's password sign-in to Tapline by OPAQUE (RFC 9807), the password never leaving it: opaque-ke 4 (ristretto255, Argon2id) as WebAssembly, run by Wasmtime — the module Tapline.Wasm's sign-in serves the browser."
+2026-10-22T17:21:08.763Z,Tapline.Client,0.1.0,Mark Hammond,"Tapline's core and its .NET client: shared state fanned out to many clients, prioritised, conflated and ack-clocked, with ordered messaging beside it; the client's replicas of what it subscribed to, acknowledged frame by frame, resynced and resumed; and MagicOnion (gRPC) to carry it."
+2026-10-22T17:33:48.007Z,Runic.Translations,0.8.0,RunicArtifex,Runtime contracts for compiled Runic Translations.
+2026-10-22T17:33:48.64Z,Runic.Translations.Build,0.8.0,RunicArtifex,Deterministic MSBuild integration for Runic.Translations translation artifacts.
+2026-10-22T17:33:49.287Z,Runic.Translations.CommandLine,0.8.0,RunicArtifex,"Translates Runic.CommandLine help, errors and faults with Runic Translations, with built-in English and German text."
+2026-10-22T17:33:49.94Z,Runic.Translations.Tooling,0.8.0,RunicArtifex,"MF2 compiler, interchange, and transactional authoring facade for Runic Translations."
+2026-10-22T17:33:50.503Z,Runic.Translations.Wpf,0.8.0,RunicArtifex,WPF inline and document rendering for compiled RMF2 messages.
+2026-10-22T17:33:51.117Z,Runic.Translations.Templates,0.8.0,RunicArtifex,.NET project and item templates for Runic Translations.
+2026-10-22T17:33:51.803Z,dotnet-runic-translations,0.8.0,RunicArtifex,Deterministic validation and generation tool for Runic Translations.
+2026-10-22T17:38:50.57Z,Scarlet.AspNetCore.Components.WebView.Win32Aot,1.2.1,ScarletKuro,"Build native Win32 apps with Blazor and WebView2, NativeAOT and trimming friendly. Built on WebView2Aot (no WinForms/WPF, no built-in COM)."
+2026-10-22T18:03:48.043Z,Aurix.Server,1.8.1,Aurix contributors,"Server-side (game backend) SDK for the Aurix voice platform REST API: token issuance, channels, moderation, analytics, webhooks and the SSE event stream. Generated from api/openapi.json."
+2026-10-22T18:05:20.25Z,Lowline,0.1.0,iyulab,"A form engine that learns from the records people confirm: suggestions for a form's decided fields from the records already confirmed, what each rests on, and the account of what a person did with them. The .NET host over the Rust engine."
+2026-10-22T18:05:20.867Z,Lowline.Sqlite,0.1.0,iyulab,"A SQLite store for the Lowline engine: the settled records and the tuning of each form and memory space, in tables of their own."
+2026-10-22T18:05:21.5Z,Lowline.AspNetCore,0.1.0,iyulab,ASP.NET Core endpoints for the Lowline engine: AddLowline and MapLowline put a form's suggestions and saves behind two routes.
+2026-10-22T18:09:26.143Z,RateLimitEngine.AspNetCore,1.0.1,Peyman Salimi,ASP.NET Core middleware integration for RateLimitEngine with in-memory and Redis-backed rate limiting.
+2026-10-22T18:09:26.743Z,RateLimitEngine.Core,1.0.1,Peyman Salimi,"Core abstractions, models, timing, observability, and contracts for RateLimitEngine."
+2026-10-22T18:09:27.37Z,RateLimitEngine.Algorithms,1.0.1,Peyman Salimi,"In-memory rate limiting algorithms for RateLimitEngine, including Fixed Window, Token Bucket, Sliding Window, and GCRA."
+2026-10-22T18:09:28Z,RateLimitEngine.Redis,1.0.1,Peyman Salimi,Redis-backed distributed rate limiting infrastructure for RateLimitEngine.
+2026-10-22T18:11:34.12Z,JsonPropertyAttribute,0.0.1,AXCWG,Store complex CLR properties in a single TEXT column with System.Text.Json: mark a property with [DbJsonSerialize] and call modelBuilder.UseJsonSerializeAttribute<TContext>() in OnModelCreating.
