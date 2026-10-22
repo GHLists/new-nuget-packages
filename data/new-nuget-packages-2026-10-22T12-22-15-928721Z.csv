@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-22T11:25:16.37Z,Wisdom.Markdown,1.0.0,Wisdom,自研 Markdown 解析与渲染，接入统一文档模型。Self-contained Markdown parser and renderer bridged into the unified document model.
+2026-10-22T11:26:55.3Z,Wisdom.Ppt,1.0.0,Wisdom,自研 PPTX 演示文稿读写。Self-contained PPTX presentation reader and writer.
+2026-10-22T11:27:07.2Z,PasswordHasher.Abstractions,0.1.0,S.T.A.R.T.S.E.V.,Core interfaces and result types for the PasswordHasher library.
+2026-10-22T11:28:31.86Z,OxyKit.Render.Client,0.1.0,OxyKit.Render,Typed HttpClient SDK for OxyKit.Render Local and Cloud APIs.
+2026-10-22T11:28:32.62Z,OxyKit.Render.Contracts,0.1.0,OxyKit.Render,Shared request/response contracts for OxyKit.Render Local and Cloud.
+2026-10-22T11:28:58.07Z,OxyKit.Mail.Client,0.1.0,OxyKit.Mail,Typed HttpClient SDK for OxyKit.Mail send (API key / Bearer). Not a dashboard client.
+2026-10-22T11:28:58.733Z,OxyKit.Mail.Contracts,0.1.0,OxyKit.Mail,Shared send request/response contracts for OxyKit.Mail (API key / integrator surface).
+2026-10-22T11:36:53.66Z,Dut00.AppInfo,1.0.0,Kuba,"Adds an /appinfo endpoint to ASP.NET Core applications that returns JSON describing the running application: name, version, environment, owner and custom properties."
+2026-10-22T11:36:54.457Z,Dut00.AppInfo.Build,1.0.0,Kuba,"Extends the Dut00.AppInfo /appinfo endpoint with build details: informational version, commit, branch and build ID."
+2026-10-22T11:36:55.26Z,Dut00.AppInfo.Configuration,1.0.0,Kuba,Extends the Dut00.AppInfo /appinfo endpoint with the list of configuration files the application loaded.
+2026-10-22T11:36:56.077Z,Dut00.AppInfo.ConnectionStrings,1.0.0,Kuba,"Extends the Dut00.AppInfo /appinfo endpoint with the application's connection strings, with passwords, keys and other secrets masked."
+2026-10-22T11:36:57.013Z,Dut00.AppInfo.Container,1.0.0,Kuba,"Extends the Dut00.AppInfo /appinfo endpoint with container and Kubernetes details: whether the app runs in a container or pod, pod name, namespace and node."
+2026-10-22T11:36:57.827Z,Dut00.AppInfo.Environment,1.0.0,Kuba,"Extends the Dut00.AppInfo /appinfo endpoint with process details (ID, start time, uptime), host name, content root path and entry assembly location."
+2026-10-22T11:36:58.597Z,Dut00.AppInfo.Runtime,1.0.0,Kuba,"Extends the Dut00.AppInfo /appinfo endpoint with the .NET runtime, runtime identifier, operating system and architectures."
+2026-10-22T11:36:59.42Z,Dut00.AppInfo.Server,1.0.0,Kuba,Extends the Dut00.AppInfo /appinfo endpoint with the addresses the server listens on.
+2026-10-22T11:41:17.243Z,DmiLib.001,1.0.0,Bam4000,Package Description
+2026-10-22T11:52:56.09Z,Moongate.Hosting,0.20.0,Squid Development,"Generic host layer for Moongate applications: startup services, event bus, plugin registry, TOML configuration sections, and the contracts of the loop, timers, diagnostics, and shutdown."
+2026-10-22T11:55:33.597Z,TstackApimaticSDK,0.0.1,Muhammad Rafay,Sample SDKs for Tstack by APIMatic
+2026-10-22T12:00:55.8Z,AppWeaver.Core,1.0.0,Team AppWeaver,"Core abstractions and services for building component-based applications in the AppWeaver framework. Provides foundational interfaces and implementations for component registration, building, and querying, enabling modular and extensible architecture patterns."
+2026-10-22T12:01:01.57Z,BlackSharp.Platform.Startup,1.2.4,BlackSharp.Platform.Startup,Cross-platform startup services for applications.

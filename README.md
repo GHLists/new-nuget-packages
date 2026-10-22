@@ -12,44 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 11:20 UTC
+## Latest list — 2026-10-22 12:22 UTC
 
-New packages created between 2026-10-22 10:19 UTC and 2026-10-22 11:20 UTC.
+New packages created between 2026-10-22 11:20 UTC and 2026-10-22 12:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-22T11-20-50-012675Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-22T12-22-15-928721Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 10:33:41 | [CrestronHomeDriver.Easee.Charger](https://www.nuget.org/packages/CrestronHomeDriver.Easee.Charger) | 1.0.2 | Neil Colvin | Crestron Home Entity V2 Easee charger driver distribution containing the final… |
-| 2026-10-22 10:42:03 | [Octeka.Configuration](https://www.nuget.org/packages/Octeka.Configuration) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:04 | [Octeka.Configuration.Abstractions](https://www.nuget.org/packages/Octeka.Configuration.Abstractions) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:05 | [Octeka.Configuration.Mapper](https://www.nuget.org/packages/Octeka.Configuration.Mapper) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:05 | [Octeka.Configuration.Mapper.Abstractions](https://www.nuget.org/packages/Octeka.Configuration.Mapper.Abstractions) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:06 | [Octeka.Configuration.Providers.CommandLine](https://www.nuget.org/packages/Octeka.Configuration.Providers.CommandLine) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:07 | [Octeka.Configuration.Providers.EnvironmentVariables](https://www.nuget.org/packages/Octeka.Configuration.Providers.EnvironmentVariables) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:08 | [Octeka.Configuration.Providers.Ini](https://www.nuget.org/packages/Octeka.Configuration.Providers.Ini) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:08 | [Octeka.Configuration.Providers.Json](https://www.nuget.org/packages/Octeka.Configuration.Providers.Json) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:09 | [Octeka.Configuration.Providers.KeyPerFile](https://www.nuget.org/packages/Octeka.Configuration.Providers.KeyPerFile) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:10 | [Octeka.Configuration.Providers.Memory](https://www.nuget.org/packages/Octeka.Configuration.Providers.Memory) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:11 | [Octeka.Configuration.Providers.Xml](https://www.nuget.org/packages/Octeka.Configuration.Providers.Xml) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 10:42:12 | [Octeka.Configuration.Providers.Yaml](https://www.nuget.org/packages/Octeka.Configuration.Providers.Yaml) | 1.0.0 | Patrick Robichaud | Package Description |
-| 2026-10-22 11:00:51 | [Pi.Agent](https://www.nuget.org/packages/Pi.Agent) | 1.0.4 | xuzeyu91 | Agent runtime: the agent state machine with dual queues, the agent-loop main lo… |
-| 2026-10-22 11:00:52 | [Pi.Ai](https://www.nuget.org/packages/Pi.Ai) | 1.0.4 | xuzeyu91 | Unified multi-provider LLM API for .NET: 10 native API implementations, a 42-pr… |
-| 2026-10-22 11:00:53 | [Pi.Chord](https://www.nuget.org/packages/Pi.Chord) | 1.0.4 | xuzeyu91 | Standalone application orchestration runtime: services, replicated state, RPC,… |
-| 2026-10-22 11:00:54 | [Pi.Client](https://www.nuget.org/packages/Pi.Client) | 1.0.4 | xuzeyu91 | RPC client: connection management, transports, and the request/response promise… |
-| 2026-10-22 11:00:55 | [Pi.Codemode](https://www.nuget.org/packages/Pi.Codemode) | 1.0.4 | xuzeyu91 | Sandboxed JavaScript execution whose only capability is calling injected tools,… |
-| 2026-10-22 11:00:56 | [Pi.CodingAgent](https://www.nuget.org/packages/Pi.CodingAgent) | 1.0.4 | xuzeyu91 | The interactive coding agent: session runtime, built-in tools, skills, themes,… |
-| 2026-10-22 11:00:58 | [Pi.Durable](https://www.nuget.org/packages/Pi.Durable) | 1.0.4 | xuzeyu91 | Durable sessions, task graphs, and recovery, with memory / SQLite / JSONL-file… |
-| 2026-10-22 11:00:59 | [Pi.Env](https://www.nuget.org/packages/Pi.Env) | 1.0.4 | xuzeyu91 | Remote execution environments over SSH: the pi-env daemon client and the framed… |
-| 2026-10-22 11:01:00 | [Pi.Mcp](https://www.nuget.org/packages/Pi.Mcp) | 1.0.4 | xuzeyu91 | Model Context Protocol client: JSON-RPC protocol layer, in-memory / stdio / str… |
-| 2026-10-22 11:01:01 | [Pi.Protocol](https://www.nuget.org/packages/Pi.Protocol) | 1.0.4 | xuzeyu91 | CBOR wire protocol: framing, codec, and the definite-length strict subset with… |
-| 2026-10-22 11:01:02 | [Pi.Server](https://www.nuget.org/packages/Pi.Server) | 1.0.4 | xuzeyu91 | RPC server: session router, request dispatch, cancellation, push, and transport… |
-| 2026-10-22 11:01:03 | [Pi.Telemetry](https://www.nuget.org/packages/Pi.Telemetry) | 1.0.4 | xuzeyu91 | Vendor-neutral telemetry contracts: typed schemas, a reference adapter, and a c… |
-| 2026-10-22 11:01:04 | [Pi.Tui](https://www.nuget.org/packages/Pi.Tui) | 1.0.4 | xuzeyu91 | Terminal UI framework: differential rendering, grapheme-aware layout and wrappi… |
-| 2026-10-22 11:05:40 | [EPCM.I.Sdk](https://www.nuget.org/packages/EPCM.I.Sdk) | 1.0.0 | digitales bauen | SDK for authoring C# command extensions for the EPCM.I Revit add-in. Implement… |
-| 2026-10-22 11:05:43 | [CleanArch.Create](https://www.nuget.org/packages/CleanArch.Create) | 1.0.0 | Pierre-MarieMarchio | Creates a .NET 10 HTTP API on Clean Architecture from the CleanArch.WebApi.Temp… |
-| 2026-10-22 11:05:43 | [CleanArch.WebApi.Templates](https://www.nuget.org/packages/CleanArch.WebApi.Templates) | 1.0.0 | Pierre-MarieMarchio | dotnet new templates for a .NET 10 HTTP API on Clean Architecture, meant to be… |
-| 2026-10-22 11:06:39 | [Wallaby.Aspire.Hosting](https://www.nuget.org/packages/Wallaby.Aspire.Hosting) | 1.4.0 | JT | Aspire AppHost integration for Wallaby: enables logical replication on Aspire's… |
+| 2026-10-22 11:25:16 | [Wisdom.Markdown](https://www.nuget.org/packages/Wisdom.Markdown) | 1.0.0 | Wisdom | 自研 Markdown 解析与渲染，接入统一文档模型。Self-contained Markdown parser and renderer bridged… |
+| 2026-10-22 11:26:55 | [Wisdom.Ppt](https://www.nuget.org/packages/Wisdom.Ppt) | 1.0.0 | Wisdom | 自研 PPTX 演示文稿读写。Self-contained PPTX presentation reader and writer. |
+| 2026-10-22 11:27:07 | [PasswordHasher.Abstractions](https://www.nuget.org/packages/PasswordHasher.Abstractions) | 0.1.0 | S.T.A.R.T.S.E.V. | Core interfaces and result types for the PasswordHasher library. |
+| 2026-10-22 11:28:31 | [OxyKit.Render.Client](https://www.nuget.org/packages/OxyKit.Render.Client) | 0.1.0 | OxyKit.Render | Typed HttpClient SDK for OxyKit.Render Local and Cloud APIs. |
+| 2026-10-22 11:28:32 | [OxyKit.Render.Contracts](https://www.nuget.org/packages/OxyKit.Render.Contracts) | 0.1.0 | OxyKit.Render | Shared request/response contracts for OxyKit.Render Local and Cloud. |
+| 2026-10-22 11:28:58 | [OxyKit.Mail.Client](https://www.nuget.org/packages/OxyKit.Mail.Client) | 0.1.0 | OxyKit.Mail | Typed HttpClient SDK for OxyKit.Mail send (API key / Bearer). Not a dashboard c… |
+| 2026-10-22 11:28:58 | [OxyKit.Mail.Contracts](https://www.nuget.org/packages/OxyKit.Mail.Contracts) | 0.1.0 | OxyKit.Mail | Shared send request/response contracts for OxyKit.Mail (API key / integrator su… |
+| 2026-10-22 11:36:53 | [Dut00.AppInfo](https://www.nuget.org/packages/Dut00.AppInfo) | 1.0.0 | Kuba | Adds an /appinfo endpoint to ASP.NET Core applications that returns JSON descri… |
+| 2026-10-22 11:36:54 | [Dut00.AppInfo.Build](https://www.nuget.org/packages/Dut00.AppInfo.Build) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with build details: informational v… |
+| 2026-10-22 11:36:55 | [Dut00.AppInfo.Configuration](https://www.nuget.org/packages/Dut00.AppInfo.Configuration) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with the list of configuration file… |
+| 2026-10-22 11:36:56 | [Dut00.AppInfo.ConnectionStrings](https://www.nuget.org/packages/Dut00.AppInfo.ConnectionStrings) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with the application's connection s… |
+| 2026-10-22 11:36:57 | [Dut00.AppInfo.Container](https://www.nuget.org/packages/Dut00.AppInfo.Container) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with container and Kubernetes detai… |
+| 2026-10-22 11:36:57 | [Dut00.AppInfo.Environment](https://www.nuget.org/packages/Dut00.AppInfo.Environment) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with process details (ID, start tim… |
+| 2026-10-22 11:36:58 | [Dut00.AppInfo.Runtime](https://www.nuget.org/packages/Dut00.AppInfo.Runtime) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with the .NET runtime, runtime iden… |
+| 2026-10-22 11:36:59 | [Dut00.AppInfo.Server](https://www.nuget.org/packages/Dut00.AppInfo.Server) | 1.0.0 | Kuba | Extends the Dut00.AppInfo /appinfo endpoint with the addresses the server liste… |
+| 2026-10-22 11:41:17 | [DmiLib.001](https://www.nuget.org/packages/DmiLib.001) | 1.0.0 | Bam4000 | Package Description |
+| 2026-10-22 11:52:56 | [Moongate.Hosting](https://www.nuget.org/packages/Moongate.Hosting) | 0.20.0 | Squid Development | Generic host layer for Moongate applications: startup services, event bus, plug… |
+| 2026-10-22 11:55:33 | [TstackApimaticSDK](https://www.nuget.org/packages/TstackApimaticSDK) | 0.0.1 | Muhammad Rafay | Sample SDKs for Tstack by APIMatic |
+| 2026-10-22 12:00:55 | [AppWeaver.Core](https://www.nuget.org/packages/AppWeaver.Core) | 1.0.0 | Team AppWeaver | Core abstractions and services for building component-based applications in the… |
+| 2026-10-22 12:01:01 | [BlackSharp.Platform.Startup](https://www.nuget.org/packages/BlackSharp.Platform.Startup) | 1.2.4 | BlackSharp.Platform.Startup | Cross-platform startup services for applications. |
 
 ## Data source
 
