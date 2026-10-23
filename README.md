@@ -12,29 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:22 UTC
+## Latest list — 2026-10-23 21:20 UTC
 
-New packages created between 2026-10-23 19:20 UTC and 2026-10-23 20:22 UTC.
+New packages created between 2026-10-23 20:22 UTC and 2026-10-23 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T20-22-24-499444Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T21-20-22-407799Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 19:21:12 | [Octeka.CodeAnalysis.CommandLine](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine) | 2.0.0 | Patrick Robichaud (operating… | Hierarchical command-line parser engine with infinite subparser chaining and dy… |
-| 2026-10-23 19:21:13 | [Octeka.CodeAnalysis.CommandLine.Abstractions](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Abstractions) | 2.0.0 | Patrick Robichaud (operating… | Core abstractions, contracts, and extension interfaces for Octeka.CodeAnalysis.… |
-| 2026-10-23 19:21:14 | [Octeka.CodeAnalysis.CommandLine.Extensions.Help](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Extensions.Help) | 2.0.0 | Patrick Robichaud (operating… | Rich, beautifully formatted help screens and contextual error diagnostics for O… |
-| 2026-10-23 19:21:14 | [Octeka.CodeAnalysis.CommandLine.Extensions.Logo](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Extensions.Logo) | 2.0.0 | Patrick Robichaud (operating… | Terminal logo, application header, and banner rendering extension with --nologo… |
-| 2026-10-23 19:21:15 | [Octeka.CodeAnalysis.CommandLine.Mapping](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Mapping) | 2.0.0 | Patrick Robichaud (operating… | Declarative object mapping and execution pipeline for Octeka.CodeAnalysis.Comma… |
-| 2026-10-23 19:29:07 | [FromToken](https://www.nuget.org/packages/FromToken) | 1.0.0 | s.t.a.r.t.s.e.v. | A library for working with tokens in ASP.NET Core. |
-| 2026-10-23 19:33:12 | [Mecesoft.Mediator](https://www.nuget.org/packages/Mecesoft.Mediator) | 1.0.0 | Mecesoft | A lightweight, dependency-injection-friendly mediator library for .NET. |
-| 2026-10-23 19:33:54 | [ConnPool](https://www.nuget.org/packages/ConnPool) | 1.0.4 | Mikhail Ilyushin | Generic connection pool for .NET (sync + async), dependency-free (netstandard2.… |
-| 2026-10-23 19:36:05 | [Playtest](https://www.nuget.org/packages/Playtest) | 0.0.0 | Archont561 | Reserved placeholder for playtest polyglot testing framework |
-| 2026-10-23 19:45:11 | [Goo.SpellCheck](https://www.nuget.org/packages/Goo.SpellCheck) | 0.10.0 | Xaz | Optional system spell checking and editor suggestions for Goo. |
-| 2026-10-23 19:45:13 | [Goo.SpellCheck.Hunspell](https://www.nuget.org/packages/Goo.SpellCheck.Hunspell) | 0.10.0 | Xaz | Opt-in system Hunspell backend for Goo.SpellCheck. No bundled libraries or dict… |
-| 2026-10-23 19:45:14 | [Goo.SpellCheck.Android](https://www.nuget.org/packages/Goo.SpellCheck.Android) | 0.10.0 | Xaz | Optional Android SpellCheckerSession backend for Goo.SpellCheck. |
-| 2026-10-23 19:45:15 | [Goo.Printing](https://www.nuget.org/packages/Goo.Printing) | 0.10.0 | Xaz | Optional paginated raster PDF export and native printing for Goo. |
-| 2026-10-23 19:45:16 | [Goo.Printing.Android](https://www.nuget.org/packages/Goo.Printing.Android) | 0.10.0 | Xaz | Optional Android PrintManager adapter for Goo.Printing. |
-| 2026-10-23 20:00:29 | [BeneficialStrategies.Iso20022.Validation.Xml](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Validation.Xml) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Validate ISO 20022 XML straight from text, a document or an element: every prob… |
+| 2026-10-23 20:27:45 | [Aarkam.Kdouja.Primitives](https://www.nuget.org/packages/Aarkam.Kdouja.Primitives) | 1.0.6 | Aarkam Team - Kdouja LSM Prim… | Zero-allocation, hardware-accelerated storage engine primitives engineered for… |
+| 2026-10-23 20:39:37 | [Stellaegis.Registry.SqlServer](https://www.nuget.org/packages/Stellaegis.Registry.SqlServer) | 6.0.0 | FRi | The SQL Server stores of Stellaegis.Registry: the compartments, the users, the… |
+| 2026-10-23 20:40:05 | [Bsa.Exchange.WebServices](https://www.nuget.org/packages/Bsa.Exchange.WebServices) | 2.2.2 | Microsoft Corporation (origin… | Exchange Web Services (EWS) Managed API 2.2, перенесённый на .NET 6 с сохранени… |
+| 2026-10-23 20:40:29 | [Sufficit.Telephony.Panel.Core](https://www.nuget.org/packages/Sufficit.Telephony.Panel.Core) | 1.26.1023.2040 | Hugo Castro de Deco | Package Description |
+| 2026-10-23 20:46:00 | [NorthGomel.ElectrumXClient.Abstractions](https://www.nuget.org/packages/NorthGomel.ElectrumXClient.Abstractions) | 1.0.0-rc-1 | eudjien | Shared Electrum Cash Protocol JSON-RPC method names, wire-format models, client… |
+| 2026-10-23 20:46:23 | [NorthGomel.ElectrumXClient](https://www.nuget.org/packages/NorthGomel.ElectrumXClient) | 1.0.0-rc-1 | eudjien | A .NET Standard 2.1 client for Electrum Cash Protocol servers, with typed JSON-… |
+| 2026-10-23 20:47:45 | [BeneficialStrategies.Iso20022.Messages.Validation](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Messages.Validation) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | FluentValidation validators for the interfaces of the ISO 20022 messages, compo… |
+| 2026-10-23 20:50:16 | [BeneficialStrategies.Iso20022.Validation.Xml.Payloads](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Validation.Xml.Payloads) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Validate raw ISO 20022 XML or JSON payloads as they arrive from a queue, an HTT… |
+| 2026-10-23 20:56:39 | [ConventionMapper.SourceGenerator](https://www.nuget.org/packages/ConventionMapper.SourceGenerator) | 1.2.0 | Katragadda | Build-time object mapping for .NET. Declare partial mapping methods in a [Gener… |
+| 2026-10-23 21:02:02 | [IdentityNexus](https://www.nuget.org/packages/IdentityNexus) | 1.0.0 | IdentityNexus | A Blazor UI for administering ASP.NET Core Identity users and roles. |
+| 2026-10-23 21:02:06 | [IdentityNexus.Services](https://www.nuget.org/packages/IdentityNexus.Services) | 1.0.0 | IdentityNexus.Services | Services for administering an ASP.NET Core Identity store. |
+| 2026-10-23 21:05:03 | [Shade](https://www.nuget.org/packages/Shade) | 0.1.0 | Dominik Jurasek | A dark-first design system for Avalonia desktop apps, with a live light mode: c… |
+| 2026-10-23 21:06:02 | [Sakura.Framework.iOS](https://www.nuget.org/packages/Sakura.Framework.iOS) | 2026.1024.0 | HelloYeew | Runs a Sakura Framework app on iOS |
+| 2026-10-23 21:14:28 | [OneAddress.PartnerSdk](https://www.nuget.org/packages/OneAddress.PartnerSdk) | 0.2.0 | OneAddress | Official .NET SDK for OneAddress partner integrations — webhook signature verif… |
 
 ## Data source
 
