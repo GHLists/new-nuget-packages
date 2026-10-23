@@ -12,28 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 00:18 UTC
+## Latest list — 2026-10-23 01:22 UTC
 
-New packages created between 2026-10-22 23:21 UTC and 2026-10-23 00:18 UTC.
+New packages created between 2026-10-23 00:18 UTC and 2026-10-23 01:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T00-18-46-87838Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T01-22-00-276611Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-22 23:23:54 | [Musictopia2.BasicDependencyInjectionLibrary](https://www.nuget.org/packages/Musictopia2.BasicDependencyInjectionLibrary) | 10.0.1 | BasicDependencyInjectionLibra… | Package Description |
-| 2026-10-22 23:24:20 | [Musictopia2.BasicTesseractOcrLibrary](https://www.nuget.org/packages/Musictopia2.BasicTesseractOcrLibrary) | 10.0.1 | BasicTesseractOcrLibrary | Package Description |
-| 2026-10-22 23:26:44 | [Musictopia2.WindowsImageAbstractionsLibrary](https://www.nuget.org/packages/Musictopia2.WindowsImageAbstractionsLibrary) | 10.0.1 | WindowsImageAbstractionsLibra… | Package Description |
-| 2026-10-22 23:27:09 | [Musictopia2.WindowsScreenCaptureLibrary](https://www.nuget.org/packages/Musictopia2.WindowsScreenCaptureLibrary) | 10.0.1 | WindowsScreenCaptureLibrary | Package Description |
-| 2026-10-22 23:28:32 | [ThomasFazzari.RoslynBridge.linux-arm64](https://www.nuget.org/packages/ThomasFazzari.RoslynBridge.linux-arm64) | 1.2.1 | Thomas Fazzari | Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the o… |
-| 2026-10-22 23:28:34 | [ThomasFazzari.RoslynBridge.linux-x64](https://www.nuget.org/packages/ThomasFazzari.RoslynBridge.linux-x64) | 1.2.1 | Thomas Fazzari | Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the o… |
-| 2026-10-22 23:28:36 | [ThomasFazzari.RoslynBridge.osx-arm64](https://www.nuget.org/packages/ThomasFazzari.RoslynBridge.osx-arm64) | 1.2.1 | Thomas Fazzari | Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the o… |
-| 2026-10-22 23:28:38 | [ThomasFazzari.RoslynBridge.osx-x64](https://www.nuget.org/packages/ThomasFazzari.RoslynBridge.osx-x64) | 1.2.1 | Thomas Fazzari | Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the o… |
-| 2026-10-22 23:28:39 | [ThomasFazzari.RoslynBridge.win-x64](https://www.nuget.org/packages/ThomasFazzari.RoslynBridge.win-x64) | 1.2.1 | Thomas Fazzari | Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the o… |
-| 2026-10-22 23:28:40 | [ThomasFazzari.RoslynBridge](https://www.nuget.org/packages/ThomasFazzari.RoslynBridge) | 1.2.1 | Thomas Fazzari | Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the o… |
-| 2026-10-22 23:35:57 | [Bitzsoft.Integrations.SyntheticData.All](https://www.nuget.org/packages/Bitzsoft.Integrations.SyntheticData.All) | 1.0.4 | Bitzsoft | Bitzsoft 智能合成数据全量聚合包 — 一键装配核心引擎与司法（Legal）、企业（Enterprise）、门户（Web）全量垂直语料 |
-| 2026-10-22 23:42:43 | [OnionArchitecture.Templates](https://www.nuget.org/packages/OnionArchitecture.Templates) | 1.0.1 | Gökhan Ertoğan | Production-ready .NET 10 microservice template: Onion/Clean architecture, DDD,… |
-| 2026-10-23 00:04:07 | [Swiftsoft.Shield](https://www.nuget.org/packages/Swiftsoft.Shield) | 1.0.6 | Swiftsoft (Jospin Chimi) | Encrypts and signs the data exchanged by an ASP.NET Core API, so that it stays… |
-| 2026-10-23 00:06:14 | [NAPS2.Windows.Printing](https://www.nuget.org/packages/NAPS2.Windows.Printing) | 0.9.0 | Ben Olden-Cooligan | Print images with the Windows print dialog, including its print preview. Works… |
+| 2026-10-23 00:35:58 | [Pitwall.AspNetCore](https://www.nuget.org/packages/Pitwall.AspNetCore) | 0.1.0 | Ivo Braatz | Connects an ASP.NET Core product to Pitwall: the support bridge, server error r… |
+| 2026-10-23 00:51:15 | [Xcellerator.Forge](https://www.nuget.org/packages/Xcellerator.Forge) | 1.0.132 | KyaMedia | Forge capture and content-seed tool for Xcellerator. |
+| 2026-10-23 00:51:17 | [Xcellerator.Forge.Engine](https://www.nuget.org/packages/Xcellerator.Forge.Engine) | 1.0.132 | KyaMedia | Forge document, compose, and asset services used by Xcellerator.Admin. |
+| 2026-10-23 00:51:19 | [Xcellerator.Mcp](https://www.nuget.org/packages/Xcellerator.Mcp) | 1.0.132 | KyaMedia | Repository-local Xcellerator engineering assistant. |
+| 2026-10-23 00:52:38 | [DGZ.PhotinoBlazor.App](https://www.nuget.org/packages/DGZ.PhotinoBlazor.App) | 1.0.0 | DGZ | 基于 PhotinoX.Blazor 5.3.5 的跨平台 Blazor 桌面应用模板，支持 Windows / macOS / Linux。 |
+| 2026-10-23 00:53:23 | [Microsoft.CognitiveServices.Speech.Extension.MAS.AEC.Model](https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech.Extension.MAS.AEC.Model) | 1.53.0 | Microsoft | This NuGet package provides the Microsoft Audio Stack Acoustic Echo Cancellatio… |
 
 ## Data source
 
