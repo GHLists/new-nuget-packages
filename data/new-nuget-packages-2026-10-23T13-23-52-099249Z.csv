@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-23T12:38:03.42Z,WordReplace.Core,1.0.0,WordReplace.Core,Package Description
+2026-10-23T12:41:19.427Z,Hexalith.Parties.Aspire,1.6.0,Hexalith Contributors,Aspire composition helper for the Hexalith Parties domain service. The server is launched from root workspace source and is not a package dependency.
+2026-10-23T12:53:41.693Z,SyZero.AI,10.0.0,HaitaoJin,Package Description
+2026-10-23T12:53:54.753Z,Octeka.Networking.Http.Rest,2.0.0,Patrick Robichaud,"High-performance, zero-allocation, resilient REST client framework for modern .NET applications with native JSON serialization, streaming, rate limiting, and OpenTelemetry instrumentation."
+2026-10-23T12:53:56.643Z,Octeka.Networking.Http.Rest.Extensions.ActivitySource,2.0.0,Patrick Robichaud,OpenTelemetry and System.Diagnostics.ActivitySource observability extensions for Octeka.Networking.Http.Rest.
+2026-10-23T12:53:56Z,Octeka.Networking.Http.Rest.Abstractions,2.0.0,Patrick Robichaud,"Core abstractions, interfaces, and contracts for the Octeka.Networking.Http.Rest client framework."
+2026-10-23T12:53:57.173Z,Octeka.Networking.Http.Rest.QueryString,2.0.0,Patrick Robichaud,"High-performance, allocation-free query string builder and parameter serializer for Octeka.Networking.Http.Rest."
+2026-10-23T12:53:57.647Z,SyZero.Notifications,10.0.0,HaitaoJin,SyZero 统一通知编排，支持邮件、短信及可扩展通道。
+2026-10-23T12:53:57.843Z,Octeka.Networking.Http.Rest.QueryString.Abstractions,2.0.0,Patrick Robichaud,Abstractions and interfaces for query string builders and converters in Octeka.Networking.Http.Rest.
+2026-10-23T13:03:43.727Z,Transferetto.Cli,2.0.2,Transferetto.Cli,Command-line file and object transfers through Transferetto endpoints.
+2026-10-23T13:17:25.74Z,Engobe.Core,2.0.0,Marcel Kummerow,"Core engine of the Engobe static site generator (build, serve, scaffold, deploy)."
