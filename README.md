@@ -12,31 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:20 UTC
+## Latest list — 2026-10-23 19:20 UTC
 
-New packages created between 2026-10-23 17:20 UTC and 2026-10-23 18:20 UTC.
+New packages created between 2026-10-23 18:20 UTC and 2026-10-23 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T18-20-04-07491Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T19-20-26-324353Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 17:23:51 | [PgProj.Engine](https://www.nuget.org/packages/PgProj.Engine) | 0.1.0 | Cory Maass | pgproj as a library: build a PostgreSQL schema project from SQL files, compare… |
-| 2026-10-23 17:30:26 | [pgproj](https://www.nuget.org/packages/pgproj) | 0.1.0 | Cory Maass | PostgreSQL database project compiler: builds a schema from SQL files, compares… |
-| 2026-10-23 17:39:45 | [Gil.Review](https://www.nuget.org/packages/Gil.Review) | 0.1.0 | iyulab | Review statistics for checking automated decisions by hand: seeded stratified s… |
-| 2026-10-23 17:47:20 | [ZeroCdp](https://www.nuget.org/packages/ZeroCdp) | 0.1.0-alpha | ZeroCDP contributors | Zero-allocation, NativeAOT-friendly Chrome DevTools Protocol client for .NET. |
-| 2026-10-23 17:48:25 | [Daml.Codegen.CSharp.MSBuild](https://www.nuget.org/packages/Daml.Codegen.CSharp.MSBuild) | 0.7.1 | Peaceful Studio OÜ | MSBuild integration for the Daml C# code generator. A <DamlArchive> item (or a… |
-| 2026-10-23 18:01:15 | [SystemOne](https://www.nuget.org/packages/SystemOne) | 0.1.0 | orlys | Typed .NET client for System One decision models (noul / choice / score / box):… |
-| 2026-10-23 18:01:16 | [SystemOne.Abstractions](https://www.nuget.org/packages/SystemOne.Abstractions) | 0.1.0 | orlys | Contracts for System One decision-model providers: ISystemOne, the SystemOnePro… |
-| 2026-10-23 18:01:16 | [SystemOne.ModelSources.HuggingFace](https://www.nuget.org/packages/SystemOne.ModelSources.HuggingFace) | 0.1.0 | orlys | SystemOne.ModelSources.FromHuggingFace: zero-dependency, cached download of mod… |
-| 2026-10-23 18:01:17 | [SystemOne.Providers.Clef](https://www.nuget.org/packages/SystemOne.Providers.Clef) | 0.1.0 | orlys | Shortcut for a self-hosted clef server (e.g. clef-mlx) for SystemOne: SystemOne… |
-| 2026-10-23 18:01:18 | [SystemOne.Providers.Cloudflare](https://www.nuget.org/packages/SystemOne.Providers.Cloudflare) | 0.1.0 | orlys | Cloudflare Workers AI clef for SystemOne: account-scoped URL and the success/re… |
-| 2026-10-23 18:01:18 | [SystemOne.Providers.OpenRouter](https://www.nuget.org/packages/SystemOne.Providers.OpenRouter) | 0.1.0 | orlys | OpenRouter gateway for SystemOne decision models (Jev, clef). SystemOne.Provide… |
-| 2026-10-23 18:01:19 | [SystemOne.Providers.TypeSafe](https://www.nuget.org/packages/SystemOne.Providers.TypeSafe) | 0.1.0 | orlys | TypeSafe-hosted Jev for SystemOne: assets-style images and the danger-zone head… |
-| 2026-10-23 18:01:20 | [SystemOne.Providers.Vercel](https://www.nuget.org/packages/SystemOne.Providers.Vercel) | 0.1.0 | orlys | Vercel AI Gateway (TypeSafe-compatible endpoint) for SystemOne decision models.… |
-| 2026-10-23 18:01:20 | [SystemOne.Testing](https://www.nuget.org/packages/SystemOne.Testing) | 0.1.0 | orlys | MockSystemOneProvider, a configurable and recording test double for System One… |
-| 2026-10-23 18:03:17 | [Octeka.UI.Wpf.TreeGrid](https://www.nuget.org/packages/Octeka.UI.Wpf.TreeGrid) | 1.0.0 | Patrick Robichaud | High-performance, virtualized multi-column tree data grid control for modern WP… |
-| 2026-10-23 18:13:00 | [Mkx.Templates.React](https://www.nuget.org/packages/Mkx.Templates.React) | 0.2.0 | Mkx | Agent-first .NET 10 and React TypeScript ASP.NET Core hosted solution template. |
-| 2026-10-23 18:13:40 | [MJCZone.DapperMatic.GraphQL](https://www.nuget.org/packages/MJCZone.DapperMatic.GraphQL) | 0.2.0 | MJCZone Inc. | Adds a GraphQL endpoint to DapperMatic's ASP.NET Core integration, built with G… |
+| 2026-10-23 18:23:03 | [WebSvc.PayLink.Abstractions](https://www.nuget.org/packages/WebSvc.PayLink.Abstractions) | 0.3.0 | WebSvc | Contracts for PayLink payment connectors: manifest, configuration schema, attem… |
+| 2026-10-23 18:23:05 | [WebSvc.PayLink.Connector.CCAvenue](https://www.nuget.org/packages/WebSvc.PayLink.Connector.CCAvenue) | 0.1.0 | WebSvc | CCAvenue for PayLink: encrypted (AES) hosted checkout, order status tracker and… |
+| 2026-10-23 18:23:08 | [WebSvc.PayLink.Connector.PayPal](https://www.nuget.org/packages/WebSvc.PayLink.Connector.PayPal) | 0.1.0 | WebSvc | PayPal for PayLink: Orders v2 checkout with capture on return, verified webhook… |
+| 2026-10-23 18:23:10 | [WebSvc.PayLink.Connector.PayU](https://www.nuget.org/packages/WebSvc.PayLink.Connector.PayU) | 0.1.0 | WebSvc | PayU for PayLink: hosted checkout by form post with SHA-512 hashes, verify_paym… |
+| 2026-10-23 18:23:12 | [WebSvc.PayLink.Connector.PhonePe](https://www.nuget.org/packages/WebSvc.PayLink.Connector.PhonePe) | 0.1.0 | WebSvc | PhonePe for PayLink: Standard Checkout v2 (OAuth) or the older salt-key API, st… |
+| 2026-10-23 18:23:15 | [WebSvc.PayLink.Connector.Razorpay](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Razorpay) | 0.2.0 | WebSvc | Razorpay for PayLink: Payment Links checkout, signed callbacks and webhooks, st… |
+| 2026-10-23 18:23:17 | [WebSvc.PayLink.Connector.Simulator](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Simulator) | 0.1.0 | WebSvc | PayLink's built-in test connector: the checkout offers Succeed, Fail and Stay p… |
+| 2026-10-23 18:23:19 | [WebSvc.PayLink.Connector.Stripe](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Stripe) | 0.1.0 | WebSvc | Stripe for PayLink: Checkout Sessions, signed webhooks, status checks, refunds… |
+| 2026-10-23 18:23:22 | [WebSvc.PayLink.Connector.Upi](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Upi) | 0.1.0 | WebSvc | PayLink UPI: a free method that shows a upi://pay QR code paying straight to th… |
+| 2026-10-23 18:23:24 | [WebSvc.PayLink.Storage](https://www.nuget.org/packages/WebSvc.PayLink.Storage) | 0.5.0 | WebSvc | Engine-neutral storage for PayLink: SQLite, MySQL and PostgreSQL connections, S… |
+| 2026-10-23 18:30:27 | [NORM.CorrelationId](https://www.nuget.org/packages/NORM.CorrelationId) | 1.0.3 | İlhan Enes Daniş | Lightweight, allocation-conscious correlation ID primitives for .NET 6 through… |
+| 2026-10-23 18:30:29 | [NORM.CorrelationId.AspNetCore](https://www.nuget.org/packages/NORM.CorrelationId.AspNetCore) | 1.0.3 | İlhan Enes Daniş | ASP.NET Core middleware for NORM.CorrelationId (.NET 6 - .NET 10): reads, valid… |
+| 2026-10-23 18:33:48 | [Samabase.Data.OracleClient](https://www.nuget.org/packages/Samabase.Data.OracleClient) | 10.0.2 | Samabase | General purpose OracleClient library that allows you to communicate with Oracle… |
+| 2026-10-23 18:35:22 | [Samabase.Data.OracleRepositories](https://www.nuget.org/packages/Samabase.Data.OracleRepositories) | 1.9.2 | Samabase | General purpose OracleRepositories library that allows you to communicate with… |
+| 2026-10-23 18:40:44 | [BeneficialStrategies.Iso20022.Messages.Samples](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Messages.Samples) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Named, valid ISO 20022 objects for tests, and a generated minimal valid object… |
+| 2026-10-23 18:58:10 | [Cesium.Net](https://www.nuget.org/packages/Cesium.Net) | 1.0.0 | Gravicode Studios (Kang Fadhi… | Cesium.Net core: a host-agnostic .NET API for CesiumJS (3D globes, maps, terrai… |
+| 2026-10-23 18:58:10 | [Cesium.Net.Blazor](https://www.nuget.org/packages/Cesium.Net.Blazor) | 1.0.0 | Gravicode Studios (Kang Fadhi… | Blazor components for Cesium.Net — embed a CesiumJS 3D globe/map in Blazor Serv… |
+| 2026-10-23 18:58:11 | [Cesium.Net.Avalonia](https://www.nuget.org/packages/Cesium.Net.Avalonia) | 1.0.0 | Gravicode Studios (Kang Fadhi… | Avalonia UI control for Cesium.Net — a native-WebView hosted CesiumJS 3D globe/… |
+| 2026-10-23 19:03:34 | [Cratis.Screenplay.Matching](https://www.nuget.org/packages/Cratis.Screenplay.Matching) | 4.241.0 | Cratis | Portable linear-time pattern matching for Screenplay applications |
+| 2026-10-23 19:05:27 | [Oracle.ManagedDataAccess.SQLScriptExecution](https://www.nuget.org/packages/Oracle.ManagedDataAccess.SQLScriptExecution) | 23.26.400 | Oracle | This NuGet package supports .SQL Script Execution for ODP.NET Core. |
 
 ## Data source
 
