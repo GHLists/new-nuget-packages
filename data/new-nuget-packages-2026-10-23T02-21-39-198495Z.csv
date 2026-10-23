@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-23T01:26:30.823Z,Acme.LabHub.Contracts,0.0.1,Tran Khac Tuan,LabHub multi-lab and team management framework: Contracts.
+2026-10-23T01:26:31.523Z,Acme.LabHub.Infrastructure,0.0.1,Tran Khac Tuan,LabHub multi-lab and team management framework: Infrastructure.
+2026-10-23T01:26:32.21Z,Acme.LabHub.Web,0.0.1,Tran Khac Tuan,LabHub multi-lab and team management framework: Web.
+2026-10-23T01:26:32.78Z,Acme.LabHub.Core,0.0.1,Tran Khac Tuan,LabHub multi-lab and team management framework: Core.
+2026-10-23T01:26:33.543Z,Acme.LabHub.Hosting,0.0.1,Tran Khac Tuan,LabHub multi-lab and team management framework: Hosting.
+2026-10-23T01:26:34.297Z,Acme.LabHub.UseCases,0.0.1,Tran Khac Tuan,LabHub multi-lab and team management framework: UseCases.
+2026-10-23T01:35:15.233Z,Base.Extensions,1.0.3,Can,Base 项目扩展库
+2026-10-23T01:40:51.957Z,M0LTE.HfChannel,0.1.0,Tom Fanning M0LTE,"An HF channel simulator for measuring modems: the Watterson tapped-delay-line model of MIL-STD-188-110D Appendix E (Rayleigh-fading or static paths with a Gaussian Doppler spectrum, AWGN calibrated as SNR in a 3 kHz bandwidth, the ITU-R F.1487 Poor geometry) and impulse noise (static crashes) calib…"
+2026-10-23T01:48:50.527Z,Dispattchr,1.0.5,Dispattchr,lightweight dispatcher library for handling dispatchables and events in .NET applications.
+2026-10-23T01:56:17.77Z,A1Force.MauiObfuscate,0.0.1,A1Force,Rename obfuscator for .NET MAUI projects. Chooses types and members by source-file groups.
+2026-10-23T01:58:48.24Z,XT.S7netplus,1.0.0,"Derek Heiser,Michele Cattafesta,Michael Croes,Raphael Schlameuß",A continuation of Juergen1969's Siemens communication library.
+2026-10-23T02:13:16.2Z,Our.Umbraco.ConditionalDisplayers.Deploy,17.0.0-beta1,Mario Lopez,Umbraco Deploy connector that transfers Conditional Displayers visibility rules between environments.
+2026-10-23T02:13:16.907Z,Our.Umbraco.ConditionalDisplayers.uSync,17.0.0-beta1,Mario Lopez,uSync handler that exports and imports Conditional Displayers visibility rules.

@@ -12,20 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 01:22 UTC
+## Latest list — 2026-10-23 02:21 UTC
 
-New packages created between 2026-10-23 00:18 UTC and 2026-10-23 01:22 UTC.
+New packages created between 2026-10-23 01:22 UTC and 2026-10-23 02:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T01-22-00-276611Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T02-21-39-198495Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 00:35:58 | [Pitwall.AspNetCore](https://www.nuget.org/packages/Pitwall.AspNetCore) | 0.1.0 | Ivo Braatz | Connects an ASP.NET Core product to Pitwall: the support bridge, server error r… |
-| 2026-10-23 00:51:15 | [Xcellerator.Forge](https://www.nuget.org/packages/Xcellerator.Forge) | 1.0.132 | KyaMedia | Forge capture and content-seed tool for Xcellerator. |
-| 2026-10-23 00:51:17 | [Xcellerator.Forge.Engine](https://www.nuget.org/packages/Xcellerator.Forge.Engine) | 1.0.132 | KyaMedia | Forge document, compose, and asset services used by Xcellerator.Admin. |
-| 2026-10-23 00:51:19 | [Xcellerator.Mcp](https://www.nuget.org/packages/Xcellerator.Mcp) | 1.0.132 | KyaMedia | Repository-local Xcellerator engineering assistant. |
-| 2026-10-23 00:52:38 | [DGZ.PhotinoBlazor.App](https://www.nuget.org/packages/DGZ.PhotinoBlazor.App) | 1.0.0 | DGZ | 基于 PhotinoX.Blazor 5.3.5 的跨平台 Blazor 桌面应用模板，支持 Windows / macOS / Linux。 |
-| 2026-10-23 00:53:23 | [Microsoft.CognitiveServices.Speech.Extension.MAS.AEC.Model](https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech.Extension.MAS.AEC.Model) | 1.53.0 | Microsoft | This NuGet package provides the Microsoft Audio Stack Acoustic Echo Cancellatio… |
+| 2026-10-23 01:26:30 | [Acme.LabHub.Contracts](https://www.nuget.org/packages/Acme.LabHub.Contracts) | 0.0.1 | Tran Khac Tuan | LabHub multi-lab and team management framework: Contracts. |
+| 2026-10-23 01:26:31 | [Acme.LabHub.Infrastructure](https://www.nuget.org/packages/Acme.LabHub.Infrastructure) | 0.0.1 | Tran Khac Tuan | LabHub multi-lab and team management framework: Infrastructure. |
+| 2026-10-23 01:26:32 | [Acme.LabHub.Web](https://www.nuget.org/packages/Acme.LabHub.Web) | 0.0.1 | Tran Khac Tuan | LabHub multi-lab and team management framework: Web. |
+| 2026-10-23 01:26:32 | [Acme.LabHub.Core](https://www.nuget.org/packages/Acme.LabHub.Core) | 0.0.1 | Tran Khac Tuan | LabHub multi-lab and team management framework: Core. |
+| 2026-10-23 01:26:33 | [Acme.LabHub.Hosting](https://www.nuget.org/packages/Acme.LabHub.Hosting) | 0.0.1 | Tran Khac Tuan | LabHub multi-lab and team management framework: Hosting. |
+| 2026-10-23 01:26:34 | [Acme.LabHub.UseCases](https://www.nuget.org/packages/Acme.LabHub.UseCases) | 0.0.1 | Tran Khac Tuan | LabHub multi-lab and team management framework: UseCases. |
+| 2026-10-23 01:35:15 | [Base.Extensions](https://www.nuget.org/packages/Base.Extensions) | 1.0.3 | Can | Base 项目扩展库 |
+| 2026-10-23 01:40:51 | [M0LTE.HfChannel](https://www.nuget.org/packages/M0LTE.HfChannel) | 0.1.0 | Tom Fanning M0LTE | An HF channel simulator for measuring modems: the Watterson tapped-delay-line m… |
+| 2026-10-23 01:48:50 | [Dispattchr](https://www.nuget.org/packages/Dispattchr) | 1.0.5 | Dispattchr | lightweight dispatcher library for handling dispatchables and events in .NET ap… |
+| 2026-10-23 01:56:17 | [A1Force.MauiObfuscate](https://www.nuget.org/packages/A1Force.MauiObfuscate) | 0.0.1 | A1Force | Rename obfuscator for .NET MAUI projects. Chooses types and members by source-f… |
+| 2026-10-23 01:58:48 | [XT.S7netplus](https://www.nuget.org/packages/XT.S7netplus) | 1.0.0 | Derek Heiser,Michele Cattafes… | A continuation of Juergen1969's Siemens communication library. |
+| 2026-10-23 02:13:16 | [Our.Umbraco.ConditionalDisplayers.Deploy](https://www.nuget.org/packages/Our.Umbraco.ConditionalDisplayers.Deploy) | 17.0.0-beta1 | Mario Lopez | Umbraco Deploy connector that transfers Conditional Displayers visibility rules… |
+| 2026-10-23 02:13:16 | [Our.Umbraco.ConditionalDisplayers.uSync](https://www.nuget.org/packages/Our.Umbraco.ConditionalDisplayers.uSync) | 17.0.0-beta1 | Mario Lopez | uSync handler that exports and imports Conditional Displayers visibility rules. |
 
 ## Data source
 
