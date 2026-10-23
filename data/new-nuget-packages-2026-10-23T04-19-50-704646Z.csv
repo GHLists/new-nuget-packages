@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-23T03:20:12.913Z,ArgentSea.Orleans.Pg,2.1.0,ArgentSea.Orleans.Pg,"Extension to enable ArgentSea to serve as a data provider for Microsoft Orleans, using standard PostgreSQL tables, functions and procedures."
+2026-10-23T03:24:14.84Z,Cratis.Specifications.TUnit,4.2.0,Cratis,"Specification by Example (BDD) for .NET with TUnit - Given/When/Then specifications in the style of Machine.Specifications, running on the TUnit test framework."
+2026-10-23T03:24:15.697Z,Cratis.Specifications.XUnit.v3,4.2.0,Cratis,"Specification by Example (BDD) for .NET with xUnit v3 - Given/When/Then specifications in the style of Machine.Specifications, running on the xUnit v3 test framework."
+2026-10-23T03:24:16.67Z,Cratis.Specifications.NUnit5,4.2.0,Cratis,"Specification by Example (BDD) for .NET with NUnit 5 - Given/When/Then specifications in the style of Machine.Specifications, running on the NUnit 5 test framework. For NUnit 4 use Cratis.Specifications.NUnit."
+2026-10-23T03:25:54.897Z,dotnet-nsis,0.1.0,dotnet-nsis contributors,将已发布的应用目录打包为 Windows NSIS 安装程序。
+2026-10-23T03:32:49.487Z,BinToss.XmlSourceGenerator,0.0.1-DUMMY,"Saivineeth,Noah Sherwin","High-performance XML serialization via source generation with XmlSerializer feature parity. Supports attributes, enums, collections, inheritance, and custom formatting."
+2026-10-23T03:32:51.74Z,BinToss.XmlSourceGenerator.Abstractions,0.0.1-DUMMY,"Saivineeth,Noah Sherwin","Runtime abstractions for XmlSourceGenerator - attributes, interfaces, and utilities for XML serialization"
+2026-10-23T03:34:05.96Z,BeneficialStrategies.Iso20022.Primitives,1.0.0-alpha,"Jeff Ward,Beneficial Strategies","The ISO 20022 primitive data types, code sets and external codes, with their format validation and JSON converters, without the message records."
+2026-10-23T03:43:47.233Z,SafeQuery,0.0.1,Llewellyn Falco,"Read-only SQL Server query CLI that rejects anything but SELECT, plus a schema-to-Mermaid diagram generator."
+2026-10-23T03:52:21.55Z,A1Force.MauiObfuscate.Build,1.0.1,A1Force,MSBuild targets that run maui-obfuscate after a Release build. Install the A1Force.MauiObfuscate tool as well.
