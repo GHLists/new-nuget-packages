@@ -12,25 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 09:22 UTC
+## Latest list — 2026-10-23 10:20 UTC
 
-New packages created between 2026-10-23 08:21 UTC and 2026-10-23 09:22 UTC.
+New packages created between 2026-10-23 09:22 UTC and 2026-10-23 10:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T09-22-20-520308Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T10-20-21-922553Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 08:21:22 | [LocalizationRuntime](https://www.nuget.org/packages/LocalizationRuntime) | 0.1.0 | FlyingEyeOrg | 编译期固化多语言资源的 .NET 本地化运行时：运行时零文件 IO，按 CultureInfo 链回退取值。 |
-| 2026-10-23 08:21:24 | [LocalizationRuntime.Generator](https://www.nuget.org/packages/LocalizationRuntime.Generator) | 0.1.0 | FlyingEyeOrg | LocalizationRuntime 的 Roslyn 增量生成器：把 Localization/*.json 编译成常量数组。 |
-| 2026-10-23 08:28:27 | [UVision.Client](https://www.nuget.org/packages/UVision.Client) | 0.4.0 | iyulab | Typed HTTP client for the U-Vision judgment engine, generated from its OpenAPI… |
-| 2026-10-23 08:32:19 | [Bathos.Platform](https://www.nuget.org/packages/Bathos.Platform) | 1.0.0 | Bathos Labs | Toolkit-independent native capability contracts and atomic staged file publicat… |
-| 2026-10-23 08:32:20 | [Bathos.Platform.Linux](https://www.nuget.org/packages/Bathos.Platform.Linux) | 1.0.0 | Bathos Labs | Experimental Linux native capabilities for .NET 10: statx regular-file inspecti… |
-| 2026-10-23 08:32:20 | [Bathos.Platform.MacOS](https://www.nuget.org/packages/Bathos.Platform.MacOS) | 1.0.0 | Bathos Labs | macOS native capabilities for .NET 10: atomic file rename and replacement, regu… |
-| 2026-10-23 08:32:21 | [Bathos.Platform.Windows](https://www.nuget.org/packages/Bathos.Platform.Windows) | 1.0.0 | Bathos Labs | Windows native capabilities for .NET 10: atomic file rename and replacement, re… |
-| 2026-10-23 08:45:44 | [ShellIcons.Avalonia](https://www.nuget.org/packages/ShellIcons.Avalonia) | 0.2.0-alpha | shellui-dev | Lucide-derived icons for Avalonia, drawn straight to the DrawingContext. Typed… |
-| 2026-10-23 08:45:47 | [ShellIcons.Maui](https://www.nuget.org/packages/ShellIcons.Maui) | 0.2.0-alpha | shellui-dev | Lucide-derived icons for .NET MAUI as native Path shapes. Typed controls, an Ic… |
-| 2026-10-23 08:47:07 | [TTT.Azure.Vault.ConfigurationBuilder](https://www.nuget.org/packages/TTT.Azure.Vault.ConfigurationBuilder) | 1.0.0 | TTT.Azure.Vault.Configuration… | Package Description |
-| 2026-10-23 08:54:56 | [MeroMiti](https://www.nuget.org/packages/MeroMiti) | 1.0.0 | Inline Tech Solution | Universal Bikram Sambat (B.S.) Nepali calendar engine and date converter for .N… |
+| 2026-10-23 09:22:28 | [Localisation.Core](https://www.nuget.org/packages/Localisation.Core) | 3.0.0 | Chris Pulman | Localisation libraries for WPF and Avalonia |
+| 2026-10-23 09:22:29 | [Localisation.Generators](https://www.nuget.org/packages/Localisation.Generators) | 3.0.0 | Chris Pulman | Localisation libraries for WPF and Avalonia |
+| 2026-10-23 09:22:40 | [Weard](https://www.nuget.org/packages/Weard) | 0.0.1-placeholder | Weard | AgenticGuard SDK for .NET: tamper-evident records of what AI agents do. Placeho… |
+| 2026-10-23 09:23:09 | [Weard.AgenticGuard](https://www.nuget.org/packages/Weard.AgenticGuard) | 0.0.1-placeholder | Weard | AgenticGuard SDK for .NET: tamper-evident records of what AI agents do. Placeho… |
+| 2026-10-23 09:36:32 | [LiteSpec.Analyzers](https://www.nuget.org/packages/LiteSpec.Analyzers) | 2.0.0 | Litenova Solutions | Roslyn analyzers that check a .NET application against the LiteSpec standard: l… |
+| 2026-10-23 09:36:33 | [LiteSpec.Cli](https://www.nuget.org/packages/LiteSpec.Cli) | 2.0.0 | Litenova Solutions | The LiteSpec command line: authoring checks, the provision index, consumer and… |
+| 2026-10-23 09:39:03 | [SystemD.Crystal](https://www.nuget.org/packages/SystemD.Crystal) | 1.0.0 | SystemD.Crystal contributors | An embeddable storage engine for .NET, built on a write-ahead log over RocksDB:… |
+| 2026-10-23 09:52:43 | [Beresta.Markdown.Wpf.Editor](https://www.nuget.org/packages/Beresta.Markdown.Wpf.Editor) | 0.9.0 | Porohkun | Markdown editor for WPF on Beresta.Markdown.Wpf: edits the source right inside… |
+| 2026-10-23 10:03:53 | [Licentivo.Launch](https://www.nuget.org/packages/Licentivo.Launch) | 0.1.1 | Licentivo Launch | Launch merchant accounts with official Licentivo runtime authorization. |
+| 2026-10-23 10:05:38 | [NextLevel.DWH](https://www.nuget.org/packages/NextLevel.DWH) | 1.1.0 | NextLevel | The NextLevel data-warehouse channel in one package: a producer side that turns… |
+| 2026-10-23 10:06:24 | [PolishOpenData.Rcn](https://www.nuget.org/packages/PolishOpenData.Rcn) | 1.6.0 | JacekSmi | Typed .NET client for RCN (Rejestr Cen Nieruchomości) of GUGiK: real-estate tra… |
+| 2026-10-23 10:08:01 | [InternalClock](https://www.nuget.org/packages/InternalClock) | 1.0.0 | YourName | 进程内软件时钟。时间由调用方委托提供，两次校准之间用 Stopwatch 推算，不读本机墙钟。 |
 
 ## Data source
 

@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-10-23T09:22:28.1Z,Localisation.Core,3.0.0,Chris Pulman,Localisation libraries for WPF and Avalonia
+2026-10-23T09:22:29.31Z,Localisation.Generators,3.0.0,Chris Pulman,Localisation libraries for WPF and Avalonia
+2026-10-23T09:22:40.17Z,Weard,0.0.1-placeholder,Weard,"AgenticGuard SDK for .NET: tamper-evident records of what AI agents do. Placeholder release, first release coming soon."
+2026-10-23T09:23:09.147Z,Weard.AgenticGuard,0.0.1-placeholder,Weard,"AgenticGuard SDK for .NET: tamper-evident records of what AI agents do. Placeholder release, first release coming soon."
+2026-10-23T09:36:32.72Z,LiteSpec.Analyzers,2.0.0,Litenova Solutions,"Roslyn analyzers that check a .NET application against the LiteSpec standard: layer boundaries, Domain modeling and naming. Every diagnostic links to the provision it enforces."
+2026-10-23T09:36:33.953Z,LiteSpec.Cli,2.0.0,Litenova Solutions,"The LiteSpec command line: authoring checks, the provision index, consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-10-23T09:39:03.873Z,SystemD.Crystal,1.0.0,SystemD.Crystal contributors,"An embeddable storage engine for .NET, built on a write-ahead log over RocksDB: databases, boxes (named ordered key spaces) and records; atomic batches across boxes; snapshots and bounded ordered scans; durability you choose; primary/standby replication; incremental online backup and restore; forma…"
+2026-10-23T09:52:43.113Z,Beresta.Markdown.Wpf.Editor,0.9.0,Porohkun,"Markdown editor for WPF on Beresta.Markdown.Wpf: edits the source right inside the rendered document, block by block or all at once, with AvalonEdit doing the typing."
+2026-10-23T10:03:53.56Z,Licentivo.Launch,0.1.1,Licentivo Launch,Launch merchant accounts with official Licentivo runtime authorization.
+2026-10-23T10:05:38.067Z,NextLevel.DWH,1.1.0,NextLevel,"The NextLevel data-warehouse channel in one package: a producer side that turns any object into a warehouse row and sends it, and a consumer side that writes those rows into ClickHouse tables that create and grow themselves. Domain-agnostic: tenancy and any other stamped field are parameters, not b…"
+2026-10-23T10:06:24.053Z,PolishOpenData.Rcn,1.6.0,JacekSmi,"Typed .NET client for RCN (Rejestr Cen Nieruchomości) of GUGiK: real-estate transaction prices of premises, parcels and buildings from the national WFS, with price-per-square-metre statistics. Unofficial; not affiliated with the Polish government."
+2026-10-23T10:08:01.91Z,InternalClock,1.0.0,YourName,进程内软件时钟。时间由调用方委托提供，两次校准之间用 Stopwatch 推算，不读本机墙钟。
