@@ -12,26 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 10:20 UTC
+## Latest list — 2026-10-23 11:20 UTC
 
-New packages created between 2026-10-23 09:22 UTC and 2026-10-23 10:20 UTC.
+New packages created between 2026-10-23 10:20 UTC and 2026-10-23 11:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T10-20-21-922553Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T11-20-19-200623Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 09:22:28 | [Localisation.Core](https://www.nuget.org/packages/Localisation.Core) | 3.0.0 | Chris Pulman | Localisation libraries for WPF and Avalonia |
-| 2026-10-23 09:22:29 | [Localisation.Generators](https://www.nuget.org/packages/Localisation.Generators) | 3.0.0 | Chris Pulman | Localisation libraries for WPF and Avalonia |
-| 2026-10-23 09:22:40 | [Weard](https://www.nuget.org/packages/Weard) | 0.0.1-placeholder | Weard | AgenticGuard SDK for .NET: tamper-evident records of what AI agents do. Placeho… |
-| 2026-10-23 09:23:09 | [Weard.AgenticGuard](https://www.nuget.org/packages/Weard.AgenticGuard) | 0.0.1-placeholder | Weard | AgenticGuard SDK for .NET: tamper-evident records of what AI agents do. Placeho… |
-| 2026-10-23 09:36:32 | [LiteSpec.Analyzers](https://www.nuget.org/packages/LiteSpec.Analyzers) | 2.0.0 | Litenova Solutions | Roslyn analyzers that check a .NET application against the LiteSpec standard: l… |
-| 2026-10-23 09:36:33 | [LiteSpec.Cli](https://www.nuget.org/packages/LiteSpec.Cli) | 2.0.0 | Litenova Solutions | The LiteSpec command line: authoring checks, the provision index, consumer and… |
-| 2026-10-23 09:39:03 | [SystemD.Crystal](https://www.nuget.org/packages/SystemD.Crystal) | 1.0.0 | SystemD.Crystal contributors | An embeddable storage engine for .NET, built on a write-ahead log over RocksDB:… |
-| 2026-10-23 09:52:43 | [Beresta.Markdown.Wpf.Editor](https://www.nuget.org/packages/Beresta.Markdown.Wpf.Editor) | 0.9.0 | Porohkun | Markdown editor for WPF on Beresta.Markdown.Wpf: edits the source right inside… |
-| 2026-10-23 10:03:53 | [Licentivo.Launch](https://www.nuget.org/packages/Licentivo.Launch) | 0.1.1 | Licentivo Launch | Launch merchant accounts with official Licentivo runtime authorization. |
-| 2026-10-23 10:05:38 | [NextLevel.DWH](https://www.nuget.org/packages/NextLevel.DWH) | 1.1.0 | NextLevel | The NextLevel data-warehouse channel in one package: a producer side that turns… |
-| 2026-10-23 10:06:24 | [PolishOpenData.Rcn](https://www.nuget.org/packages/PolishOpenData.Rcn) | 1.6.0 | JacekSmi | Typed .NET client for RCN (Rejestr Cen Nieruchomości) of GUGiK: real-estate tra… |
-| 2026-10-23 10:08:01 | [InternalClock](https://www.nuget.org/packages/InternalClock) | 1.0.0 | YourName | 进程内软件时钟。时间由调用方委托提供，两次校准之间用 Stopwatch 推算，不读本机墙钟。 |
+| 2026-10-23 10:24:52 | [Frontmatec.Net.SqlServer.SqlClient](https://www.nuget.org/packages/Frontmatec.Net.SqlServer.SqlClient) | 2.0.7 | Frontmatec | Forwards the changes of a Frontmatec.Net.SqlServer endpoint to a SQL Server, th… |
+| 2026-10-23 10:46:54 | [EluciusFTW.Tui48](https://www.nuget.org/packages/EluciusFTW.Tui48) | 0.1.4 | Guy Buss | A 2048-style sliding tile game as an Elmish component: host it in any SpectreTu… |
+| 2026-10-23 10:57:59 | [ZYC.Framework.Modules.TilePyramid](https://www.nuget.org/packages/ZYC.Framework.Modules.TilePyramid) | 1.0.0 | ZYC.Framework.Modules.TilePyr… | Package Description |
+| 2026-10-23 10:58:12 | [ZYC.Framework.Modules.TilePyramid.Abstractions](https://www.nuget.org/packages/ZYC.Framework.Modules.TilePyramid.Abstractions) | 1.0.0 | ZYC.Framework.Modules.TilePyr… | Package Description |
+| 2026-10-23 11:01:45 | [NArchitecture.Core.Mediator](https://www.nuget.org/packages/NArchitecture.Core.Mediator) | 2.0.0 | Kodlama.io, Contributors | Lightweight, dependency-free mediator (request/response, streaming and pipeline… |
+| 2026-10-23 11:04:03 | [Plagx.Preflight](https://www.nuget.org/packages/Plagx.Preflight) | 0.1.2 | Plagiarism Checker X | Free draft checker for .NET: word count, citation and reference list checks, pu… |
+| 2026-10-23 11:12:54 | [Byta.Bindings](https://www.nuget.org/packages/Byta.Bindings) | 0.1.0 | Hub-Game-develop | 由 Khronos gl.xml 生成的 OpenGL 绑定：2651 条命令编译成 delegate* unmanaged 函数指针字段（无 DllImpo… |
 
 ## Data source
 

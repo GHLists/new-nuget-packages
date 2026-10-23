@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-23T10:24:52.863Z,Frontmatec.Net.SqlServer.SqlClient,2.0.7,Frontmatec,"Forwards the changes of a Frontmatec.Net.SqlServer endpoint to a SQL Server, through a queue on disk."
+2026-10-23T10:46:54.69Z,EluciusFTW.Tui48,0.1.4,Guy Buss,"A 2048-style sliding tile game as an Elmish component: host it in any SpectreTuff.Elmish program, e.g. as a pop-up game, with pluggable highscore storage."
+2026-10-23T10:57:59.783Z,ZYC.Framework.Modules.TilePyramid,1.0.0,ZYC.Framework.Modules.TilePyramid,Package Description
+2026-10-23T10:58:12.81Z,ZYC.Framework.Modules.TilePyramid.Abstractions,1.0.0,ZYC.Framework.Modules.TilePyramid.Abstractions,Package Description
+2026-10-23T11:01:45.513Z,NArchitecture.Core.Mediator,2.0.0,"Kodlama.io, Contributors","Lightweight, dependency-free mediator (request/response, streaming and pipeline behaviors) for NArchitecture. Drop-in replacement for the MediatR surface used by NArchitecture."
+2026-10-23T11:04:03.633Z,Plagx.Preflight,0.1.2,Plagiarism Checker X,"Free draft checker for .NET: word count, citation and reference list checks, punctuation and basic grammar suggestions, readability stats. Runs offline. By Plagiarism Checker X."
+2026-10-23T11:12:54.333Z,Byta.Bindings,0.1.0,Hub-Game-develop,由 Khronos gl.xml 生成的 OpenGL 绑定：2651 条命令编译成 delegate* unmanaged 函数指针字段（无 DllImport stub、无可空引用类型、无反射），6073 个常量。通常不需要直接引用本包，请用 Byta.GL。
