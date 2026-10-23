@@ -12,41 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 05:19 UTC
+## Latest list — 2026-10-23 06:20 UTC
 
-New packages created between 2026-10-23 04:19 UTC and 2026-10-23 05:19 UTC.
+New packages created between 2026-10-23 05:19 UTC and 2026-10-23 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T05-19-58-052426Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T06-20-21-537757Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 04:29:45 | [Kiwi.Native](https://www.nuget.org/packages/Kiwi.Native) | 0.1.0 | fuseraft | Write Kiwi native extensions in C#. Mark static methods with [KiwiFunction] and… |
-| 2026-10-23 04:32:43 | [Minos.NET.Recording](https://www.nuget.org/packages/Minos.NET.Recording) | 1.3.0 | Marcel Roozekrans | A decision recorder for Minos.NET: every decision is written, with its question… |
-| 2026-10-23 04:35:45 | [Ahwoo.BRUTAL.Box2D.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Box2D.Native) | 2026.10.2 | Ahwoo Limited | Native Box2D libraries. |
-| 2026-10-23 04:35:51 | [Ahwoo.BRUTAL.Glfw.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Glfw.Native) | 2026.10.5 | Ahwoo Limited | Native GLFW libraries. |
-| 2026-10-23 04:35:53 | [Ahwoo.BRUTAL.Gli.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Gli.Native) | 2026.10.2 | Ahwoo Limited | Native GLI libraries. |
-| 2026-10-23 04:35:58 | [Ahwoo.BRUTAL.ImGui.FreeType.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ImGui.FreeType.Native) | 2026.10.3 | Ahwoo Limited | Native Dear ImGui FreeType font rasterizer library. |
-| 2026-10-23 04:35:59 | [Ahwoo.BRUTAL.ImGui.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ImGui.Native) | 2026.10.3 | Ahwoo Limited | Native Dear ImGui library. |
-| 2026-10-23 04:36:03 | [Ahwoo.BRUTAL.ImPlot.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ImPlot.Native) | 2026.10.3 | Ahwoo Limited | Native ImPlot library. |
-| 2026-10-23 04:36:06 | [Ahwoo.BRUTAL.Jolt.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Jolt.Native) | 2026.10.4 | Ahwoo Limited | Native Jolt Physics libraries. |
-| 2026-10-23 04:36:08 | [Ahwoo.BRUTAL.Ktx.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Ktx.Native) | 2026.10.2 | Ahwoo Limited | Native KTX-Software (libktx) libraries. |
-| 2026-10-23 04:36:13 | [Ahwoo.BRUTAL.MeshOptimizer.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.MeshOptimizer.Native) | 2026.10.2 | Ahwoo Limited | Native meshoptimizer libraries. |
-| 2026-10-23 04:36:16 | [Ahwoo.BRUTAL.NativeFileDialog.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.NativeFileDialog.Native) | 2026.10.3 | Ahwoo Limited | Native nativefiledialog-extended libraries. |
-| 2026-10-23 04:36:18 | [Ahwoo.BRUTAL.NotCurses.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.NotCurses.Native) | 2026.10.1 | Ahwoo Limited | Native notcurses libraries. |
-| 2026-10-23 04:36:21 | [Ahwoo.BRUTAL.OpenAl.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.OpenAl.Native) | 2026.10.3 | Ahwoo Limited | Native OpenAL Soft libraries. |
-| 2026-10-23 04:36:22 | [Ahwoo.BRUTAL.OpenGl.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.OpenGl.Native) | 2026.10.2 | Ahwoo Limited | Native glad OpenGL loader library. |
-| 2026-10-23 04:36:24 | [Ahwoo.BRUTAL.RakNet.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.RakNet.Native) | 2026.10.3 | Ahwoo Limited | Native RakNet libraries. |
-| 2026-10-23 04:36:30 | [Ahwoo.BRUTAL.Sdl.Image.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Image.Native) | 2026.10.3 | Ahwoo Limited | Native SDL_image libraries. |
-| 2026-10-23 04:36:32 | [Ahwoo.BRUTAL.Sdl.Mixer.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Mixer.Native) | 2026.10.3 | Ahwoo Limited | Native SDL_mixer libraries. |
-| 2026-10-23 04:36:33 | [Ahwoo.BRUTAL.Sdl.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Native) | 2026.10.3 | Ahwoo Limited | Native SDL3 libraries. |
-| 2026-10-23 04:36:36 | [Ahwoo.BRUTAL.Sdl.Ttf.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Ttf.Native) | 2026.10.3 | Ahwoo Limited | Native SDL_ttf libraries. |
-| 2026-10-23 04:36:38 | [Ahwoo.BRUTAL.ShaderC.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ShaderC.Native) | 2026.10.3 | Ahwoo Limited | Native shaderc libraries. |
-| 2026-10-23 04:36:42 | [Ahwoo.BRUTAL.Slang.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Slang.Native) | 2026.10.3 | Ahwoo Limited | Native Slang libraries. |
-| 2026-10-23 04:36:44 | [Ahwoo.BRUTAL.Stb.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Stb.Native) | 2026.10.3 | Ahwoo Limited | Native stb libraries. |
-| 2026-10-23 04:36:48 | [Ahwoo.BRUTAL.Vulkan.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Vulkan.Native) | 2026.10.3 | Ahwoo Limited | Native VulkanEx helper libraries for the Vulkan API bindings. |
-| 2026-10-23 04:36:50 | [Ahwoo.BRUTAL.Vulkan.Vma.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Vulkan.Vma.Native) | 2026.10.3 | Ahwoo Limited | Native Vulkan Memory Allocator (VMA) libraries. |
-| 2026-10-23 04:44:12 | [BeneficialStrategies.Iso20022.Factory](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Factory) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Objects for the ISO 20022 interfaces, made at run time: ask for an interface an… |
-| 2026-10-23 04:48:13 | [SilverDigits.DotNet.PostBuildSigning](https://www.nuget.org/packages/SilverDigits.DotNet.PostBuildSigning) | 1.0.0 | SilverDigits | Conditionally Authenticode-signs .NET assemblies after build with a code-signin… |
+| 2026-10-23 05:31:37 | [RecursiveAI.OneImage.Psd](https://www.nuget.org/packages/RecursiveAI.OneImage.Psd) | 1.4.0 | Recursive AI, LLC | Photoshop PSD and PSB support for OneImage: reads the merged composite as an im… |
+| 2026-10-23 05:32:49 | [IO3.__SERVICE_NAME__.Service.SDK](https://www.nuget.org/packages/IO3.__SERVICE_NAME__.Service.SDK) | 3.0.0 | IO3.__SERVICE_NAME__.Service.… | Package Description |
+| 2026-10-23 05:35:07 | [Jtext103.CFET2.MQTTCommunicationModule](https://www.nuget.org/packages/Jtext103.CFET2.MQTTCommunicationModule) | 1.0.0 | Jtext103 | CFET2 MQTT event communication using an external broker; observation control is… |
+| 2026-10-23 05:49:11 | [BeneficialStrategies.Iso20022.Messages](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Messages) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | An interface for every ISO 20022 message, component and choice, with the verbat… |
+| 2026-10-23 06:03:42 | [DWIS.RigOS.Contracts.DownholeMechanical](https://www.nuget.org/packages/DWIS.RigOS.Contracts.DownholeMechanical) | 1.0.0 | DWIS.RigOS.Contracts.Downhole… | Vendor-neutral distributed downhole mechanical measurements and equipment/posit… |
+| 2026-10-23 06:05:15 | [DWIS.RigOS.DownholeMechanical.Bridge](https://www.nuget.org/packages/DWIS.RigOS.DownholeMechanical.Bridge) | 1.0.0 | DWIS.RigOS.DownholeMechanical… | Shared subscription-based downhole mechanical bridge runtime for DWIS providers. |
+| 2026-10-23 06:06:58 | [FluentUI.Svg2Font.Tools](https://www.nuget.org/packages/FluentUI.Svg2Font.Tools) | 6.5.3 | ema | MSBuild props that expose pointing to the bundled svg2font.exe. Use it from Exe… |
+| 2026-10-23 06:11:05 | [Teknosol.DataReconciler.Core](https://www.nuget.org/packages/Teknosol.DataReconciler.Core) | 1.0.1 | Teknosol.DataReconciler.Core | Cross-service replica reconciliation engine (scan, promote, heal, dedupe, daily… |
+| 2026-10-23 06:12:31 | [Nexusq](https://www.nuget.org/packages/Nexusq) | 4.1.1 | lecodev-26 | Thin P/Invoke bindings over the NEXUS-Q C SDK (libnexusq): post-quantum vault,… |
 
 ## Data source
 

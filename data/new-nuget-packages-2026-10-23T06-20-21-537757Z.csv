@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-23T05:31:37.247Z,RecursiveAI.OneImage.Psd,1.4.0,"Recursive AI, LLC","Photoshop PSD and PSB support for OneImage: reads the merged composite as an image format, loads and saves the layer tree as a OneImage layered document."
+2026-10-23T05:32:49.453Z,IO3.__SERVICE_NAME__.Service.SDK,3.0.0,IO3.__SERVICE_NAME__.Service.SDK,Package Description
+2026-10-23T05:35:07.607Z,Jtext103.CFET2.MQTTCommunicationModule,1.0.0,Jtext103,CFET2 MQTT event communication using an external broker; observation control is a separate stage.
+2026-10-23T05:49:11.01Z,BeneficialStrategies.Iso20022.Messages,1.0.0-alpha,"Jeff Ward,Beneficial Strategies","An interface for every ISO 20022 message, component and choice, with the verbatim ISO descriptions: the contract that readers, validators and implementations are written against."
+2026-10-23T06:03:42.97Z,DWIS.RigOS.Contracts.DownholeMechanical,1.0.0,DWIS.RigOS.Contracts.DownholeMechanical,Vendor-neutral distributed downhole mechanical measurements and equipment/position snapshots.
+2026-10-23T06:05:15.903Z,DWIS.RigOS.DownholeMechanical.Bridge,1.0.0,DWIS.RigOS.DownholeMechanical.Bridge,Shared subscription-based downhole mechanical bridge runtime for DWIS providers.
+2026-10-23T06:06:58.87Z,FluentUI.Svg2Font.Tools,6.5.3,ema,MSBuild props that expose pointing to the bundled svg2font.exe. Use it from Exec targets in your csproj to generate font files.
+2026-10-23T06:11:05.193Z,Teknosol.DataReconciler.Core,1.0.1,Teknosol.DataReconciler.Core,"Cross-service replica reconciliation engine (scan, promote, heal, dedupe, daily run + mail report model)"
+2026-10-23T06:12:31.393Z,Nexusq,4.1.1,lecodev-26,"Thin P/Invoke bindings over the NEXUS-Q C SDK (libnexusq): post-quantum vault, version and error surface"
