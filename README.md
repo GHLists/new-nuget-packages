@@ -12,34 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:20 UTC
+## Latest list — 2026-10-23 20:22 UTC
 
-New packages created between 2026-10-23 18:20 UTC and 2026-10-23 19:20 UTC.
+New packages created between 2026-10-23 19:20 UTC and 2026-10-23 20:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T19-20-26-324353Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T20-22-24-499444Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 18:23:03 | [WebSvc.PayLink.Abstractions](https://www.nuget.org/packages/WebSvc.PayLink.Abstractions) | 0.3.0 | WebSvc | Contracts for PayLink payment connectors: manifest, configuration schema, attem… |
-| 2026-10-23 18:23:05 | [WebSvc.PayLink.Connector.CCAvenue](https://www.nuget.org/packages/WebSvc.PayLink.Connector.CCAvenue) | 0.1.0 | WebSvc | CCAvenue for PayLink: encrypted (AES) hosted checkout, order status tracker and… |
-| 2026-10-23 18:23:08 | [WebSvc.PayLink.Connector.PayPal](https://www.nuget.org/packages/WebSvc.PayLink.Connector.PayPal) | 0.1.0 | WebSvc | PayPal for PayLink: Orders v2 checkout with capture on return, verified webhook… |
-| 2026-10-23 18:23:10 | [WebSvc.PayLink.Connector.PayU](https://www.nuget.org/packages/WebSvc.PayLink.Connector.PayU) | 0.1.0 | WebSvc | PayU for PayLink: hosted checkout by form post with SHA-512 hashes, verify_paym… |
-| 2026-10-23 18:23:12 | [WebSvc.PayLink.Connector.PhonePe](https://www.nuget.org/packages/WebSvc.PayLink.Connector.PhonePe) | 0.1.0 | WebSvc | PhonePe for PayLink: Standard Checkout v2 (OAuth) or the older salt-key API, st… |
-| 2026-10-23 18:23:15 | [WebSvc.PayLink.Connector.Razorpay](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Razorpay) | 0.2.0 | WebSvc | Razorpay for PayLink: Payment Links checkout, signed callbacks and webhooks, st… |
-| 2026-10-23 18:23:17 | [WebSvc.PayLink.Connector.Simulator](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Simulator) | 0.1.0 | WebSvc | PayLink's built-in test connector: the checkout offers Succeed, Fail and Stay p… |
-| 2026-10-23 18:23:19 | [WebSvc.PayLink.Connector.Stripe](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Stripe) | 0.1.0 | WebSvc | Stripe for PayLink: Checkout Sessions, signed webhooks, status checks, refunds… |
-| 2026-10-23 18:23:22 | [WebSvc.PayLink.Connector.Upi](https://www.nuget.org/packages/WebSvc.PayLink.Connector.Upi) | 0.1.0 | WebSvc | PayLink UPI: a free method that shows a upi://pay QR code paying straight to th… |
-| 2026-10-23 18:23:24 | [WebSvc.PayLink.Storage](https://www.nuget.org/packages/WebSvc.PayLink.Storage) | 0.5.0 | WebSvc | Engine-neutral storage for PayLink: SQLite, MySQL and PostgreSQL connections, S… |
-| 2026-10-23 18:30:27 | [NORM.CorrelationId](https://www.nuget.org/packages/NORM.CorrelationId) | 1.0.3 | İlhan Enes Daniş | Lightweight, allocation-conscious correlation ID primitives for .NET 6 through… |
-| 2026-10-23 18:30:29 | [NORM.CorrelationId.AspNetCore](https://www.nuget.org/packages/NORM.CorrelationId.AspNetCore) | 1.0.3 | İlhan Enes Daniş | ASP.NET Core middleware for NORM.CorrelationId (.NET 6 - .NET 10): reads, valid… |
-| 2026-10-23 18:33:48 | [Samabase.Data.OracleClient](https://www.nuget.org/packages/Samabase.Data.OracleClient) | 10.0.2 | Samabase | General purpose OracleClient library that allows you to communicate with Oracle… |
-| 2026-10-23 18:35:22 | [Samabase.Data.OracleRepositories](https://www.nuget.org/packages/Samabase.Data.OracleRepositories) | 1.9.2 | Samabase | General purpose OracleRepositories library that allows you to communicate with… |
-| 2026-10-23 18:40:44 | [BeneficialStrategies.Iso20022.Messages.Samples](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Messages.Samples) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Named, valid ISO 20022 objects for tests, and a generated minimal valid object… |
-| 2026-10-23 18:58:10 | [Cesium.Net](https://www.nuget.org/packages/Cesium.Net) | 1.0.0 | Gravicode Studios (Kang Fadhi… | Cesium.Net core: a host-agnostic .NET API for CesiumJS (3D globes, maps, terrai… |
-| 2026-10-23 18:58:10 | [Cesium.Net.Blazor](https://www.nuget.org/packages/Cesium.Net.Blazor) | 1.0.0 | Gravicode Studios (Kang Fadhi… | Blazor components for Cesium.Net — embed a CesiumJS 3D globe/map in Blazor Serv… |
-| 2026-10-23 18:58:11 | [Cesium.Net.Avalonia](https://www.nuget.org/packages/Cesium.Net.Avalonia) | 1.0.0 | Gravicode Studios (Kang Fadhi… | Avalonia UI control for Cesium.Net — a native-WebView hosted CesiumJS 3D globe/… |
-| 2026-10-23 19:03:34 | [Cratis.Screenplay.Matching](https://www.nuget.org/packages/Cratis.Screenplay.Matching) | 4.241.0 | Cratis | Portable linear-time pattern matching for Screenplay applications |
-| 2026-10-23 19:05:27 | [Oracle.ManagedDataAccess.SQLScriptExecution](https://www.nuget.org/packages/Oracle.ManagedDataAccess.SQLScriptExecution) | 23.26.400 | Oracle | This NuGet package supports .SQL Script Execution for ODP.NET Core. |
+| 2026-10-23 19:21:12 | [Octeka.CodeAnalysis.CommandLine](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine) | 2.0.0 | Patrick Robichaud (operating… | Hierarchical command-line parser engine with infinite subparser chaining and dy… |
+| 2026-10-23 19:21:13 | [Octeka.CodeAnalysis.CommandLine.Abstractions](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Abstractions) | 2.0.0 | Patrick Robichaud (operating… | Core abstractions, contracts, and extension interfaces for Octeka.CodeAnalysis.… |
+| 2026-10-23 19:21:14 | [Octeka.CodeAnalysis.CommandLine.Extensions.Help](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Extensions.Help) | 2.0.0 | Patrick Robichaud (operating… | Rich, beautifully formatted help screens and contextual error diagnostics for O… |
+| 2026-10-23 19:21:14 | [Octeka.CodeAnalysis.CommandLine.Extensions.Logo](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Extensions.Logo) | 2.0.0 | Patrick Robichaud (operating… | Terminal logo, application header, and banner rendering extension with --nologo… |
+| 2026-10-23 19:21:15 | [Octeka.CodeAnalysis.CommandLine.Mapping](https://www.nuget.org/packages/Octeka.CodeAnalysis.CommandLine.Mapping) | 2.0.0 | Patrick Robichaud (operating… | Declarative object mapping and execution pipeline for Octeka.CodeAnalysis.Comma… |
+| 2026-10-23 19:29:07 | [FromToken](https://www.nuget.org/packages/FromToken) | 1.0.0 | s.t.a.r.t.s.e.v. | A library for working with tokens in ASP.NET Core. |
+| 2026-10-23 19:33:12 | [Mecesoft.Mediator](https://www.nuget.org/packages/Mecesoft.Mediator) | 1.0.0 | Mecesoft | A lightweight, dependency-injection-friendly mediator library for .NET. |
+| 2026-10-23 19:33:54 | [ConnPool](https://www.nuget.org/packages/ConnPool) | 1.0.4 | Mikhail Ilyushin | Generic connection pool for .NET (sync + async), dependency-free (netstandard2.… |
+| 2026-10-23 19:36:05 | [Playtest](https://www.nuget.org/packages/Playtest) | 0.0.0 | Archont561 | Reserved placeholder for playtest polyglot testing framework |
+| 2026-10-23 19:45:11 | [Goo.SpellCheck](https://www.nuget.org/packages/Goo.SpellCheck) | 0.10.0 | Xaz | Optional system spell checking and editor suggestions for Goo. |
+| 2026-10-23 19:45:13 | [Goo.SpellCheck.Hunspell](https://www.nuget.org/packages/Goo.SpellCheck.Hunspell) | 0.10.0 | Xaz | Opt-in system Hunspell backend for Goo.SpellCheck. No bundled libraries or dict… |
+| 2026-10-23 19:45:14 | [Goo.SpellCheck.Android](https://www.nuget.org/packages/Goo.SpellCheck.Android) | 0.10.0 | Xaz | Optional Android SpellCheckerSession backend for Goo.SpellCheck. |
+| 2026-10-23 19:45:15 | [Goo.Printing](https://www.nuget.org/packages/Goo.Printing) | 0.10.0 | Xaz | Optional paginated raster PDF export and native printing for Goo. |
+| 2026-10-23 19:45:16 | [Goo.Printing.Android](https://www.nuget.org/packages/Goo.Printing.Android) | 0.10.0 | Xaz | Optional Android PrintManager adapter for Goo.Printing. |
+| 2026-10-23 20:00:29 | [BeneficialStrategies.Iso20022.Validation.Xml](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Validation.Xml) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Validate ISO 20022 XML straight from text, a document or an element: every prob… |
 
 ## Data source
 

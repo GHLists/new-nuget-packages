@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-23T19:21:12.853Z,Octeka.CodeAnalysis.CommandLine,2.0.0,Patrick Robichaud (operating as OCTEKA),Hierarchical command-line parser engine with infinite subparser chaining and dynamic command handler support for .NET.
+2026-10-23T19:21:13.523Z,Octeka.CodeAnalysis.CommandLine.Abstractions,2.0.0,Patrick Robichaud (operating as OCTEKA),"Core abstractions, contracts, and extension interfaces for Octeka.CodeAnalysis.CommandLine."
+2026-10-23T19:21:14.173Z,Octeka.CodeAnalysis.CommandLine.Extensions.Help,2.0.0,Patrick Robichaud (operating as OCTEKA),"Rich, beautifully formatted help screens and contextual error diagnostics for Octeka.CodeAnalysis.CommandLine powered by Octeka.Text.Components."
+2026-10-23T19:21:14.727Z,Octeka.CodeAnalysis.CommandLine.Extensions.Logo,2.0.0,Patrick Robichaud (operating as OCTEKA),"Terminal logo, application header, and banner rendering extension with --nologo support for Octeka.CodeAnalysis.CommandLine powered by Octeka.Text.Components."
+2026-10-23T19:21:15.323Z,Octeka.CodeAnalysis.CommandLine.Mapping,2.0.0,Patrick Robichaud (operating as OCTEKA),Declarative object mapping and execution pipeline for Octeka.CodeAnalysis.CommandLine.
+2026-10-23T19:29:07.617Z,FromToken,1.0.0,s.t.a.r.t.s.e.v.,A library for working with tokens in ASP.NET Core.
+2026-10-23T19:33:12.67Z,Mecesoft.Mediator,1.0.0,Mecesoft,"A lightweight, dependency-injection-friendly mediator library for .NET."
+2026-10-23T19:33:54.523Z,ConnPool,1.0.4,Mikhail Ilyushin,"Generic connection pool for .NET (sync + async), dependency-free (netstandard2.1). Pools anything a small factory can create, validate, reset and close: DB drivers, HTTP clients, SSH sessions, sockets."
+2026-10-23T19:36:05.87Z,Playtest,0.0.0,Archont561,Reserved placeholder for playtest polyglot testing framework
+2026-10-23T19:45:11.747Z,Goo.SpellCheck,0.10.0,Xaz,Optional system spell checking and editor suggestions for Goo.
+2026-10-23T19:45:13.007Z,Goo.SpellCheck.Hunspell,0.10.0,Xaz,Opt-in system Hunspell backend for Goo.SpellCheck. No bundled libraries or dictionaries.
+2026-10-23T19:45:14.17Z,Goo.SpellCheck.Android,0.10.0,Xaz,Optional Android SpellCheckerSession backend for Goo.SpellCheck.
+2026-10-23T19:45:15.317Z,Goo.Printing,0.10.0,Xaz,Optional paginated raster PDF export and native printing for Goo.
+2026-10-23T19:45:16.44Z,Goo.Printing.Android,0.10.0,Xaz,Optional Android PrintManager adapter for Goo.Printing.
+2026-10-23T20:00:29.217Z,BeneficialStrategies.Iso20022.Validation.Xml,1.0.0-alpha,"Jeff Ward,Beneficial Strategies","Validate ISO 20022 XML straight from text, a document or an element: every problem in the XML is reported with its path, then the FluentValidation rules run on what was read. Needs only the Primitives package, not the message definitions."
