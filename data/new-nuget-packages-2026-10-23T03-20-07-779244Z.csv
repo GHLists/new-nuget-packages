@@ -1,0 +1,185 @@
+created_at,package,version,authors,description
+2026-10-23T02:37:42.98Z,Lyo.Algorithms,3.0.0,Matthew Wherry,"Keyed algorithm registry: startup C# strategies, compile-once expressions, and a versioned catalog (latest, pin, or label) with in-memory, Postgres, and SQLite stores."
+2026-10-23T02:37:45.207Z,Lyo.Algorithms.Api,3.0.0,Matthew Wherry,"HTTP API surface for the Lyo algorithm catalog: definitions, revisions, revert, and labels."
+2026-10-23T02:37:46.307Z,Lyo.Algorithms.Client,3.0.0,Matthew Wherry,HTTP client for the Lyo algorithm catalog API.
+2026-10-23T02:37:47.32Z,Lyo.Algorithms.Models,3.0.0,Matthew Wherry,Request and response DTOs and route constants for the Lyo Algorithms catalog API.
+2026-10-23T02:37:48.33Z,Lyo.Algorithms.Postgres,3.0.0,Matthew Wherry,"PostgreSQL catalog for Lyo.Algorithms. Schema algorithms, append-only revisions, and mutable or immutable labels."
+2026-10-23T02:37:49.343Z,Lyo.Algorithms.Seed,3.0.0,Matthew Wherry,"EF seed of algorithm definitions, revisions, and labels."
+2026-10-23T02:37:50.31Z,Lyo.Algorithms.Sqlite,3.0.0,Matthew Wherry,"SQLite catalog for Lyo.Algorithms. Same IAlgorithmDefinitionStore as Postgres, for embedded and local hosts."
+2026-10-23T02:37:51.323Z,Lyo.Algorithms.Web.Components,3.0.0,Matthew Wherry,"Blazor workbench for authoring algorithm revisions, typed context bags, and live breakdown previews."
+2026-10-23T02:37:55.86Z,Lyo.Api.Export.Toml,3.0.0,Matthew Wherry,TOML export format handler for Lyo.Api export service.
+2026-10-23T02:37:58.533Z,Lyo.Api.Export.Xml,3.0.0,Matthew Wherry,XML export format handler for Lyo.Api export service.
+2026-10-23T02:37:59.523Z,Lyo.Api.Export.Yaml,3.0.0,Matthew Wherry,YAML export format handler for Lyo.Api export service.
+2026-10-23T02:38:01.91Z,Lyo.Api.Import,3.0.0,Matthew Wherry,"Import API for Lyo. JSON is built in. YAML, XML, TOML, CSV, and XLSX register as addon handlers. The endpoint returns rows and does not write a store."
+2026-10-23T02:38:02.983Z,Lyo.Api.Import.Csv,3.0.0,Matthew Wherry,CSV import format handler for Lyo.Api.Import.
+2026-10-23T02:38:04.067Z,Lyo.Api.Import.Toml,3.0.0,Matthew Wherry,TOML import format handler for Lyo.Api.Import.
+2026-10-23T02:38:05.017Z,Lyo.Api.Import.Xlsx,3.0.0,Matthew Wherry,XLSX import format handler for Lyo.Api.Import.
+2026-10-23T02:38:06.01Z,Lyo.Api.Import.Xml,3.0.0,Matthew Wherry,XML import format handler for Lyo.Api.Import.
+2026-10-23T02:38:07.107Z,Lyo.Api.Import.Yaml,3.0.0,Matthew Wherry,YAML import format handler for Lyo.Api.Import.
+2026-10-23T02:38:08.853Z,Lyo.Audiobook,3.0.0,Matthew Wherry,"Domain contracts for an audiobook catalog: works, series, chapters, credits, identifiers, and IAudiobookStore."
+2026-10-23T02:38:09.88Z,Lyo.Audiobook.Postgres,3.0.0,Matthew Wherry,"PostgreSQL implementation of Lyo.Audiobook using Entity Framework Core. Stores works, series, chapters, credits, and identifiers."
+2026-10-23T02:38:10.867Z,Lyo.Audiobook.Seed,3.0.0,Matthew Wherry,"EF seed of audiobook genres, one series, and works with a narrator, an ISBN, and a chapter."
+2026-10-23T02:38:11.9Z,Lyo.Audiobook.Web.Components,3.0.0,Matthew Wherry,Blazor components for browsing an audiobook catalog: search and work detail.
+2026-10-23T02:38:14.323Z,Lyo.Audit.Seed,3.0.0,Matthew Wherry,EF seed of audit events and change rows.
+2026-10-23T02:38:18.677Z,Lyo.Authentication.Entra,3.0.0,Matthew Wherry,Microsoft Entra SAML profile for Lyo.Authentication.Saml. Uses the app federation metadata URL with appid. Request verification and assertion encryption stay off.
+2026-10-23T02:38:21.817Z,Lyo.Authentication.Okta,3.0.0,Matthew Wherry,Okta SAML profile for Lyo.Authentication.Saml. Uses the public exk metadata URL. Request signing and assertion encryption stay off.
+2026-10-23T02:38:24.25Z,Lyo.Authentication.Saml,3.0.0,Matthew Wherry,SAML 2.0 service provider for Lyo.Authentication.Sso. SP-initiated HTTP-Redirect login and HTTP-POST assertion consumption. Unsigned AuthnRequests. Encrypted assertions are rejected.
+2026-10-23T02:38:25.44Z,Lyo.Authentication.Seed,3.0.0,Matthew Wherry,"EF seed of local users, expired tokens, linked identities, claims, scopes, and events."
+2026-10-23T02:38:26.89Z,Lyo.Authentication.Sso,3.0.0,Matthew Wherry,"Protocol-neutral SSO host for Lyo.Authentication. Maps /auth login, callback, handoff, token, refresh, and logout, then links an external subject to a Lyo user and mints one Lyo JWT. OpenID Connect and SAML plug in as protocols."
+2026-10-23T02:38:30.157Z,Lyo.Authorization,3.0.0,Matthew Wherry,Resource grants. A check asks whether a subject may perform an action on a resource. It does not sign anyone in and it does not parse tokens.
+2026-10-23T02:38:31.243Z,Lyo.Authorization.AspNetCore,3.0.0,Matthew Wherry,ASP.NET Core grant authorization. RequireGrant works on controllers and minimal APIs. It does not reference Lyo.Authentication.
+2026-10-23T02:38:32.32Z,Lyo.Authorization.Postgres,3.0.0,Matthew Wherry,"PostgreSQL grant store. Schema authorization, table grant. One active row per subject, action, resource, and tenant."
+2026-10-23T02:38:33.4Z,Lyo.Authorization.Web.Components,3.0.0,Matthew Wherry,"Blazor grant list, editor, and check form. Talks to IGrantStore in-process."
+2026-10-23T02:38:34.47Z,Lyo.Avalonia.Components,3.0.0,Matthew Wherry,Shared Avalonia controls for Lyo desktop apps. Tool windows dock inside a window. A window can dock to a screen edge.
+2026-10-23T02:38:38.83Z,Lyo.Billing,3.0.0,Matthew Wherry,"Billing contracts: unbilled charges, invoices, payments. Books change only by posting to ILedgerStore."
+2026-10-23T02:38:39.883Z,Lyo.Billing.Api,3.0.0,Matthew Wherry,"HTTP API surface for Lyo Billing: charges, invoices, issue/void/pay. No PDF."
+2026-10-23T02:38:40.91Z,Lyo.Billing.Client,3.0.0,Matthew Wherry,HTTP client for the Lyo Billing API.
+2026-10-23T02:38:41.887Z,Lyo.Billing.Postgres,3.0.0,Matthew Wherry,"PostgreSQL storage for Lyo.Billing: charges, invoices, payments, and encrypted bill-to snapshots."
+2026-10-23T02:38:42.89Z,Lyo.Billing.Seed,3.0.0,Matthew Wherry,"EF seed of billing clients, each with one draft invoice and one line."
+2026-10-23T02:38:44.01Z,Lyo.Billing.Web.Components,3.0.0,Matthew Wherry,"Blazor billing dashboard: clients, charges, invoices, payments, and ledger views built on Lyo grids and dialogs."
+2026-10-23T02:38:45.13Z,Lyo.Book,3.0.0,Matthew Wherry,"Domain contracts for a library catalog: books, series, genres, types, formats, identifiers, contributors, chapters, and searchable pages."
+2026-10-23T02:38:46.19Z,Lyo.Book.Postgres,3.0.0,Matthew Wherry,"PostgreSQL implementation of Lyo.Book using Entity Framework Core. Stores catalog books, series, lookups, chapters, and searchable page text."
+2026-10-23T02:38:50.09Z,Lyo.ChangeTracker.Seed,3.0.0,Matthew Wherry,EF seed of change tracker entries.
+2026-10-23T02:38:51.09Z,Lyo.ClamAv.Client,3.0.0,Matthew Wherry,HTTP client for a self-hosted clamav-rest scan service.
+2026-10-23T02:38:56.353Z,Lyo.Comment.Seed,3.0.0,Matthew Wherry,EF seed of comments on a fixed seed subject.
+2026-10-23T02:39:08.143Z,Lyo.Config.Seed,3.0.0,Matthew Wherry,EF seed of plaintext config definitions and one binding each.
+2026-10-23T02:39:11.227Z,Lyo.ContactUs.Seed,3.0.0,Matthew Wherry,EF seed of contact-form submissions.
+2026-10-23T02:39:13.063Z,Lyo.ContentThreatScan.ClamAv,3.0.0,Matthew Wherry,Maps clamav-rest scan verdicts into Lyo content-threat reputation envelopes.
+2026-10-23T02:39:18.123Z,Lyo.Desktop,3.0.0,Matthew Wherry,"Shared desktop helpers for Linux and Windows apps: global hotkeys, clipboard, window list and activate, and mouse and key input."
+2026-10-23T02:39:21.28Z,Lyo.Diagram,3.0.0,Matthew Wherry,"Build a diagram from pages and cells, and read or write it as an uncompressed or compressed draw.io mxfile."
+2026-10-23T02:39:22.303Z,Lyo.Diagram.Models,3.0.0,Matthew Wherry,"Diagram contracts: pages, cells, geometry, and the store used to save them."
+2026-10-23T02:39:23.32Z,Lyo.Diagram.Postgres,3.0.0,Matthew Wherry,PostgreSQL persistence for Lyo diagram documents (page and cell JSONB) using Entity Framework Core.
+2026-10-23T02:39:27.96Z,Lyo.Discord.Seed,3.0.0,Matthew Wherry,"EF seed of Discord guilds and their users, members, channels, roles, emojis, messages, attachments, reactions, and interactions."
+2026-10-23T02:39:28.923Z,Lyo.Docx,3.0.0,Matthew Wherry,Reads WordprocessingML documents and fills {Token} placeholders.
+2026-10-23T02:39:33.527Z,Lyo.Drift.Seed,3.0.0,Matthew Wherry,"EF seed of drift instances, structure snapshots, diffs, and change events."
+2026-10-23T02:39:36.517Z,Lyo.Email.Seed,3.0.0,Matthew Wherry,EF seed of email logs and attachment logs.
+2026-10-23T02:39:37.507Z,Lyo.Email.SendGrid,3.0.0,Matthew Wherry,Twilio SendGrid implementation of Lyo.Email.
+2026-10-23T02:39:38.52Z,Lyo.Email.Smtp,3.0.0,Matthew Wherry,MailKit SMTP implementation of Lyo.Email.
+2026-10-23T02:39:44.473Z,Lyo.Endato.Seed,3.0.0,Matthew Wherry,EF seed of Endato person-search and contact-enrichment queries.
+2026-10-23T02:39:50.513Z,Lyo.FantasyFootball,3.0.0,Matthew Wherry,"Fantasy football chats, trades, and league roster stored apart from the ESPN client."
+2026-10-23T02:39:51.52Z,Lyo.FantasyFootball.Api,3.0.0,Matthew Wherry,HTTP API for fantasy football chats and trades. Reads the plugin store and syncs through the ESPN client.
+2026-10-23T02:39:52.54Z,Lyo.FantasyFootball.Postgres,3.0.0,Matthew Wherry,"PostgreSQL persistence for fantasy football chats, trades, and rosters. Schema fantasy_football."
+2026-10-23T02:39:53.68Z,Lyo.FantasyFootball.Web.Components,3.0.0,Matthew Wherry,Blazor workbench for fantasy football chats and trades. Talks to the FantasyFootball HTTP API.
+2026-10-23T02:39:56.227Z,Lyo.Favorite.Seed,3.0.0,Matthew Wherry,EF seed of favorites on a fixed seed subject.
+2026-10-23T02:39:57.32Z,Lyo.FeatureFlags,3.0.0,Matthew Wherry,"Named feature flags for apps and hosts: on, off, percentage rollout, and caller rules."
+2026-10-23T02:39:58.383Z,Lyo.FeatureFlags.AspNetCore,3.0.0,Matthew Wherry,ASP.NET Core feature-flag gate. RequireFeature returns 404 when the flag is off.
+2026-10-23T02:39:59.53Z,Lyo.FeatureFlags.Web.Components,3.0.0,Matthew Wherry,Blazor switch list and show/hide wrapper for feature flags.
+2026-10-23T02:40:00.567Z,Lyo.FileManager,3.0.0,Matthew Wherry,Desktop file manager session for a remote FileStorage API or a local disk store.
+2026-10-23T02:40:02.99Z,Lyo.FileMetadataStore.Seed,3.0.0,Matthew Wherry,"EF seed of file metadata, blobs, revisions, audit events, multipart sessions, and download links."
+2026-10-23T02:40:12.663Z,Lyo.FileSystemWatcher.Seed,3.0.0,Matthew Wherry,"EF seed of file system watches, snapshots, and changes."
+2026-10-23T02:40:13.803Z,Lyo.FileTags,3.0.0,Matthew Wherry,"Generic file tag catalog and dispatcher. Providers for audio, video, and pictures live in sibling packages."
+2026-10-23T02:40:14.94Z,Lyo.FileTags.FFmpeg,3.0.0,Matthew Wherry,ffprobe and stream-copy ffmpeg provider for audio and video file tags.
+2026-10-23T02:40:16.14Z,Lyo.FileTags.Images,3.0.0,Matthew Wherry,EXIF provider for picture file tags. Pixel size and format stay on Lyo.Images.
+2026-10-23T02:40:18.027Z,Lyo.Formatter.Algorithms,3.0.0,Matthew Wherry,"Formatter addon that evaluates Algo(""key"") and score(""key"") through Lyo.Algorithms. Base Lyo.Formatter does not reference this package."
+2026-10-23T02:40:22.637Z,Lyo.Geolocation.Seed,3.0.0,Matthew Wherry,EF seed of geolocation addresses.
+2026-10-23T02:40:24.647Z,Lyo.Google.Youtube.Client,3.0.0,Matthew Wherry,YouTube Data API client. Returns Lyo.Google.Youtube.Models types.
+2026-10-23T02:40:25.95Z,Lyo.Google.Youtube.Models,3.0.0,Matthew Wherry,"YouTube Data API models: video links, videos, channels, and playlist items."
+2026-10-23T02:40:29.753Z,Lyo.HomeInventory.FileStorage,3.0.0,Matthew Wherry,Optional IFileStorageService helper that saves inventory attachments and writes HomeInventory attachment rows.
+2026-10-23T02:40:30.913Z,Lyo.HomeInventory.Models,3.0.0,Matthew Wherry,"Shared request/response DTOs, enums, and route constants for the Lyo HomeInventory API and Blazor clients."
+2026-10-23T02:40:32.62Z,Lyo.HomeInventory.Seed,3.0.0,Matthew Wherry,"EF seed of a home-inventory category, location, items, stock, and movements."
+2026-10-23T02:40:33.72Z,Lyo.HomeInventory.Web.Components,3.0.0,Matthew Wherry,"Blazor / MudBlazor workbench for household inventory: items, rooms, categories, stock, notes, tags, and FileStorage attachments."
+2026-10-23T02:40:34.763Z,Lyo.Html,3.0.0,Matthew Wherry,"Parses HTML, returns visible text, and sanitizes with an allowlist."
+2026-10-23T02:40:39.22Z,Lyo.Idempotency,3.0.0,Matthew Wherry,"Shared idempotency store. A scope and key claim one in-progress row; the same request hash replays the stored result, and a different hash does not run the work again."
+2026-10-23T02:40:40.2Z,Lyo.Idempotency.AspNetCore,3.0.0,Matthew Wherry,ASP.NET Core idempotency middleware. Place it after UseRouting. It honors RequireIdempotencyKey on controllers and minimal APIs.
+2026-10-23T02:40:41.143Z,Lyo.Idempotency.Postgres,3.0.0,Matthew Wherry,"PostgreSQL persistence for Lyo.Idempotency. Schema idempotency, table entry. API claims and outbox rows share one unique index."
+2026-10-23T02:40:50.54Z,Lyo.Job.Seed,3.0.0,Matthew Wherry,"EF seed of disabled job definitions, one parameter and one schedule each."
+2026-10-23T02:40:53.17Z,Lyo.Job.Workers.Notification,3.0.0,Matthew Wherry,"Job workers that send notifications as workflow steps: webhook POST, email, and SMS. A send failure fails the job run so the queue's retry, backoff, and DLQ apply."
+2026-10-23T02:40:54.16Z,Lyo.Json,3.0.0,Matthew Wherry,"JSON parse and export for a typed document: file, stream, string, and bytes, over System.Text.Json and the Lyo JSON contract."
+2026-10-23T02:40:57.08Z,Lyo.Law,3.0.0,Matthew Wherry,State statute store contract. Federal law is a separate database and is rejected here.
+2026-10-23T02:40:58.16Z,Lyo.Law.Api,3.0.0,Matthew Wherry,"HTTP API surface for state statutes: query, jurisdiction and code CRUD, and node upsert."
+2026-10-23T02:40:59.183Z,Lyo.Law.Client,3.0.0,Matthew Wherry,"HTTP client for Law node upsert, citation lookup, children, ancestors, and detail. Query stays on IApiClient."
+2026-10-23T02:41:00.25Z,Lyo.Law.Models,3.0.0,Matthew Wherry,"Shared request/response DTOs, enums, and route constants for state statute storage and the Law HTTP API."
+2026-10-23T02:41:01.387Z,Lyo.Law.Postgres,3.0.0,Matthew Wherry,PostgreSQL storage for US state statutes (EF Core). Federal law is a separate database.
+2026-10-23T02:41:02.37Z,Lyo.Law.Seed,3.0.0,Matthew Wherry,"EF seed of law jurisdictions, codes, nodes, annotations, and revisions."
+2026-10-23T02:41:03.303Z,Lyo.Law.Web.Components,3.0.0,Matthew Wherry,Blazor components for browsing and editing state statute nodes.
+2026-10-23T02:41:04.173Z,Lyo.Leaderboard,3.0.0,Matthew Wherry,"Leaderboard domain: custom scoring properties, membership, invites, entries, and standings."
+2026-10-23T02:41:05.247Z,Lyo.Leaderboard.Api,3.0.0,Matthew Wherry,HTTP API for Lyo.Leaderboard. Embed via AddLeaderboardApi / MapLeaderboardApiEndpoints.
+2026-10-23T02:41:06.337Z,Lyo.Leaderboard.Api.Client,3.0.0,Matthew Wherry,HTTP client for the Lyo Leaderboard API.
+2026-10-23T02:41:07.437Z,Lyo.Leaderboard.Api.Models,3.0.0,Matthew Wherry,Wire contracts for the Lyo Leaderboard HTTP API.
+2026-10-23T02:41:08.45Z,Lyo.Leaderboard.Postgres,3.0.0,Matthew Wherry,"PostgreSQL persistence for Lyo.Leaderboard (boards, scoring properties, members, invites, entries, standings)."
+2026-10-23T02:41:09.473Z,Lyo.Leaderboard.Seed,3.0.0,Matthew Wherry,"EF seed of leaderboard boards, members, entries, and standings."
+2026-10-23T02:41:12.817Z,Lyo.Leaderboard.Web.Components,3.0.0,Matthew Wherry,"Blazor / MudBlazor dashboard for Lyo.Leaderboard. Add LeaderboardManagement to a host page for boards, standings, entries, verification, and invites against ILeaderboardApiClient."
+2026-10-23T02:41:14.08Z,Lyo.Ledger,3.0.0,Matthew Wherry,"Double-entry ledger contracts: chart of accounts, journals, post/void, and client AR balance."
+2026-10-23T02:41:15.137Z,Lyo.Ledger.Api,3.0.0,Matthew Wherry,"HTTP API surface for Lyo Ledger: chart of accounts, journals, post/void, and AR balance."
+2026-10-23T02:41:16.303Z,Lyo.Ledger.Postgres,3.0.0,Matthew Wherry,"PostgreSQL storage for Lyo.Ledger (EF Core): chart of accounts, journals, and journal lines."
+2026-10-23T02:41:17.36Z,Lyo.Ledger.Seed,3.0.0,Matthew Wherry,"EF seed of a cash account, a revenue account, and balanced journals."
+2026-10-23T02:41:27.577Z,Lyo.Music,3.0.0,Matthew Wherry,"Domain contracts for a music catalog: release groups, releases, tracks, credits, identifiers, and IMusicStore."
+2026-10-23T02:41:28.607Z,Lyo.Music.Postgres,3.0.0,Matthew Wherry,"PostgreSQL implementation of Lyo.Music using Entity Framework Core. Stores release groups, releases, tracks, credits, and identifiers."
+2026-10-23T02:41:29.65Z,Lyo.Music.Seed,3.0.0,Matthew Wherry,"EF seed of music genres, formats, release groups, releases, tracks, and credits."
+2026-10-23T02:41:30.76Z,Lyo.Music.Web.Components,3.0.0,Matthew Wherry,Blazor components for browsing music releases: search and a release detail with tracks and credits.
+2026-10-23T02:41:31.693Z,Lyo.Nfc,3.0.0,Matthew Wherry,Type 2 NFC tag access and NDEF read/write. Page I/O is behind INfcTag so a PC/SC driver or an in-memory tag can sit underneath.
+2026-10-23T02:41:32.84Z,Lyo.Nfc.Pcsc,3.0.0,Matthew Wherry,PC/SC driver for Lyo.Nfc. Reads and writes Type 2 pages through an ACR122U-style reader. Linux needs pcscd and libpcsclite. This driver does not speak ISO 15693.
+2026-10-23T02:41:35.257Z,Lyo.Note.Seed,3.0.0,Matthew Wherry,EF seed of notes on a fixed seed subject.
+2026-10-23T02:41:36.827Z,Lyo.OpenSubtitles.Client,3.0.0,Matthew Wherry,Typed HTTP client for the OpenSubtitles consumer REST API.
+2026-10-23T02:41:37.847Z,Lyo.Outbox,3.0.0,Matthew Wherry,Outbox contract. Enqueue records a message on the caller's transaction. Publishing is a separate dispatcher.
+2026-10-23T02:41:38.84Z,Lyo.Outbox.Dispatcher,3.0.0,Matthew Wherry,Outbox dispatcher. Claims due rows from the idempotency store and publishes them through IMqService. At-least-once.
+2026-10-23T02:41:39.84Z,Lyo.Outbox.Postgres,3.0.0,Matthew Wherry,Postgres outbox. Enqueue writes kind=outbox through the shared idempotency store on the caller's transaction.
+2026-10-23T02:41:42.357Z,Lyo.PackageMetadata.Seed,3.0.0,Matthew Wherry,EF seed of package metadata rows and stack prefixes.
+2026-10-23T02:41:44.14Z,Lyo.Payments,3.0.0,Matthew Wherry,Payment collector contracts and an internal (non-Stripe) implementation for workbenches.
+2026-10-23T02:41:50.013Z,Lyo.Podcast,3.0.0,Matthew Wherry,"Domain contracts for a podcast catalog: shows, seasons, episodes, credits, identifiers, and IPodcastStore."
+2026-10-23T02:41:51.027Z,Lyo.Podcast.Postgres,3.0.0,Matthew Wherry,"PostgreSQL implementation of Lyo.Podcast using Entity Framework Core. Stores shows, seasons, episodes, credits, and identifiers."
+2026-10-23T02:41:52.107Z,Lyo.Podcast.Seed,3.0.0,Matthew Wherry,"EF seed of podcast genres, one show, a season, and two episodes."
+2026-10-23T02:41:53.167Z,Lyo.Podcast.Web.Components,3.0.0,Matthew Wherry,Blazor components for browsing a podcast catalog: search and show detail.
+2026-10-23T02:42:01.627Z,Lyo.Query.Postgres,3.0.0,Matthew Wherry,PostgreSQL translation for Lyo.Query Fuzzy operators via pg_trgm similarity().
+2026-10-23T02:42:02.62Z,Lyo.Query.Sql,3.0.0,Matthew Wherry,"Translates Lyo concrete, projection, and root query requests into parameterized Postgres SQL without an IQueryable or EF query pipeline."
+2026-10-23T02:42:04.27Z,Lyo.RateLimit,3.0.0,Matthew Wherry,"Quota rate limiting for a single process: fixed window, sliding window, and token bucket."
+2026-10-23T02:42:05.553Z,Lyo.RateLimit.Redis,3.0.0,Matthew Wherry,"Redis quota store. Same fixed, sliding, and token-bucket rules as Lyo.RateLimit, shared by every host on the connection."
+2026-10-23T02:42:07.957Z,Lyo.Rating.Seed,3.0.0,Matthew Wherry,EF seed of ratings on a fixed seed subject.
+2026-10-23T02:42:08.907Z,Lyo.Recipe,3.0.0,Matthew Wherry,"Household recipes: catalog ingredients, ordered steps, hierarchical categories, and FileStorage attachments. Persistence facade is IRecipeStore."
+2026-10-23T02:42:09.863Z,Lyo.Recipe.Api,3.0.0,Matthew Wherry,"HTTP API surface for Lyo Recipe: categories, ingredients, recipes, lines, steps, attachments, notes, and tags."
+2026-10-23T02:42:10.79Z,Lyo.Recipe.Client,3.0.0,Matthew Wherry,"HTTP client for extra Recipe routes: ingredient lines, steps, notes, tags, and attachment upload."
+2026-10-23T02:42:11.943Z,Lyo.Recipe.FileStorage,3.0.0,Matthew Wherry,Optional IFileStorageService helper that saves recipe attachments and writes Recipe attachment rows.
+2026-10-23T02:42:13.04Z,Lyo.Recipe.Models,3.0.0,Matthew Wherry,"Shared request/response DTOs, enums, and route constants for the Lyo Recipe API and Blazor clients."
+2026-10-23T02:42:13.983Z,Lyo.Recipe.Postgres,3.0.0,Matthew Wherry,"PostgreSQL storage for Lyo.Recipe (EF Core): recipes, ingredients, categories, lines, steps, and attachments."
+2026-10-23T02:42:15.08Z,Lyo.Recipe.Seed,3.0.0,Matthew Wherry,"EF seed of a recipe category, ingredients, recipes, lines, steps, links, and attachments."
+2026-10-23T02:42:16.07Z,Lyo.Recipe.Web.Components,3.0.0,Matthew Wherry,"Blazor / MudBlazor workbench for household recipes: recipes, ingredients, categories, lines, steps, notes, tags, and FileStorage attachments."
+2026-10-23T02:42:17.667Z,RecursiveAI.OneImage.Svg,1.3.0,"Recursive AI, LLC","SVG support for OneImage: reads static SVG (shapes, paths, gradients, patterns, clipping, masks, markers, filters and text) as an image format, rendered directly at the requested output size."
+2026-10-23T02:42:19.847Z,Lyo.Reporting.Seed,3.0.0,Matthew Wherry,EF seed of the report design sample definitions.
+2026-10-23T02:42:22.277Z,Lyo.RequestSigning,3.0.0,Matthew Wherry,Timestamped HMAC request signatures. The HMAC key comes from configuration.
+2026-10-23T02:42:23.37Z,Lyo.RequestSigning.AspNetCore,3.0.0,Matthew Wherry,ASP.NET Core middleware that checks a timestamped HMAC request signature.
+2026-10-23T02:42:25.733Z,Lyo.Rfid,3.0.0,Matthew Wherry,ISO 15693 RFID access. IRfidTag reads and writes blocks. IIso15693Transceiver sends one command frame that already includes the CRC. A PN5180-class reader implements it. Type 2 NFC readers do not.
+2026-10-23T02:42:26.787Z,Lyo.Rfid.Tonie,3.0.0,Matthew Wherry,"Toniebox SLIX-L helpers: UID content path, privacy-password XOR from the tag random, and ISO 15693 frames for a custom tag. Custom tags use the NXP factory privacy password 0F0F0F0F. A 15693 reader is required to reach a figure; NFC Type 2 readers cannot."
+2026-10-23T02:42:31.933Z,Lyo.Screenshot,3.0.0,Matthew Wherry,"Region screen capture for Linux and Windows, with still PNG, animated GIF, and scrolling receipt stitch."
+2026-10-23T02:42:32.997Z,Lyo.Search.Postgres,3.0.0,Matthew Wherry,Shared Postgres full-text mapping: a stored tsvector column and a GIN index.
+2026-10-23T02:42:36.953Z,Lyo.ShortUrl.Seed,3.0.0,Matthew Wherry,EF seed of short URLs and one click each.
+2026-10-23T02:42:40.02Z,Lyo.Sms.Seed,3.0.0,Matthew Wherry,EF seed of SMS logs.
+2026-10-23T02:42:42.43Z,Lyo.Sms.Twilio.Seed,3.0.0,Matthew Wherry,EF seed of Twilio SMS logs.
+2026-10-23T02:42:44.91Z,Lyo.StateMachine,3.0.0,Matthew Wherry,"Strongly typed, reusable state machine: immutable definitions with typed trigger payloads, guards, hooks, hierarchical states, observers, versioned snapshots, and Mermaid/DOT export."
+2026-10-23T02:42:45.893Z,Lyo.StateMachine.Models,3.0.0,Matthew Wherry,"Contracts for Lyo state machines: versioned state snapshots, transition results and records, and the state store abstraction. No runtime dependency."
+2026-10-23T02:42:46.927Z,Lyo.StateMachine.Postgres,3.0.0,Matthew Wherry,"PostgreSQL state store for Lyo state machines with optimistic concurrency and transition history, using Entity Framework Core."
+2026-10-23T02:42:47.933Z,Lyo.StateMachine.Seed,3.0.0,Matthew Wherry,"EF seed of state machine definitions, instances, and transitions."
+2026-10-23T02:42:49.007Z,Lyo.Story,3.0.0,Matthew Wherry,"Play-graph contracts for interactive stories and quests: nodes, choices, named actions, trigger/condition/response rules, optional presentation, and IStoryStore."
+2026-10-23T02:42:50.78Z,Lyo.Story.Api,3.0.0,Matthew Wherry,"HTTP API surface for Lyo Story: graph CRUD, playthrough play routes, and aggregate graph save."
+2026-10-23T02:42:51.86Z,Lyo.Story.Client,3.0.0,Matthew Wherry,"HTTP client for the Lyo Story API: graph save and load, delete, and play."
+2026-10-23T02:42:53.11Z,Lyo.Story.Models,3.0.0,Matthew Wherry,Request and response DTOs and route constants for the Lyo Story API.
+2026-10-23T02:42:54.21Z,Lyo.Story.Postgres,3.0.0,Matthew Wherry,"PostgreSQL implementation of Lyo.Story using Entity Framework Core. Stores play graphs, optional presentation, and playthrough logs."
+2026-10-23T02:42:55.133Z,Lyo.Story.Sqlite,3.0.0,Matthew Wherry,"Local SQLite storage for Lyo.Story (EF Core): the same story graph and playthrough tables as the Postgres store, for offline desktop games and tools."
+2026-10-23T02:42:58.49Z,Lyo.Story.Web.Components,3.0.0,Matthew Wherry,"Blazor story builder for the Lyo Story API: library, play graph, and playthrough."
+2026-10-23T02:43:02.92Z,Lyo.Tag.Seed,3.0.0,Matthew Wherry,EF seed of tags on a fixed seed subject.
+2026-10-23T02:43:04.63Z,Lyo.Toml,3.0.0,Matthew Wherry,"TOML parse and export for a typed document, and conversion to and from JSON, over Tomlyn and the Lyo JSON contract."
+2026-10-23T02:43:05.647Z,Lyo.Trakt.Client,3.0.0,Matthew Wherry,Typed HTTP client for the Trakt catalog and OAuth APIs.
+2026-10-23T02:43:17.71Z,Lyo.Validation.Seed,3.0.0,Matthew Wherry,EF seed of validation schemas.
+2026-10-23T02:43:18.69Z,Lyo.Video,3.0.0,Matthew Wherry,"Domain contracts for a movie and television catalog: titles, seasons, episodes, credits, identifiers, and IVideoStore."
+2026-10-23T02:43:19.85Z,Lyo.Video.Postgres,3.0.0,Matthew Wherry,"PostgreSQL implementation of Lyo.Video using Entity Framework Core. Stores movies, series, seasons, episodes, credits, and identifiers."
+2026-10-23T02:43:21.42Z,Lyo.Video.Seed,3.0.0,Matthew Wherry,"EF seed of video genres, a collection, and series titles with seasons and episodes."
+2026-10-23T02:43:22.53Z,Lyo.Video.Web.Components,3.0.0,Matthew Wherry,"Blazor components for browsing movies and series: search, season and episode lists, and movie detail."
+2026-10-23T02:43:24.313Z,Lyo.Web.Automation.Api,3.0.0,Matthew Wherry,HTTP API that runs an automation plan on a host-supplied browser session and serves the run log and viewport snapshots.
+2026-10-23T02:43:25.297Z,Lyo.Web.Automation.Client,3.0.0,Matthew Wherry,HTTP client for starting an automation plan run and reading its log and viewport snapshots.
+2026-10-23T02:43:26.417Z,Lyo.Web.Automation.FileStorage,3.0.0,Matthew Wherry,Stores automation step screenshots through a host-configured IFileStorageService.
+2026-10-23T02:43:28.177Z,Lyo.Web.Automation.Postgres,3.0.0,Matthew Wherry,"PostgreSQL store for automation plans, with a query endpoint for the plan grid."
+2026-10-23T02:43:29.28Z,Lyo.Web.Automation.PuppeteerSharp,3.0.0,Matthew Wherry,"PuppeteerSharp automation: Chromium sessions, tabs, frames, dialogs, keyboard helpers, JSON automation plans, DI registration, and metrics (aligned with Lyo.Web.Automation.Playwright)."
+2026-10-23T02:43:31.19Z,Lyo.Web.Automation.Web.Components,3.0.0,Matthew Wherry,Blazor workbench for editing an automation plan and running it through the automation HTTP API.
+2026-10-23T02:43:34.693Z,Lyo.Web.Components.Export.Toml,3.0.0,Matthew Wherry,TOML export menu item for Lyo data grids.
+2026-10-23T02:43:36.577Z,Lyo.Web.Components.Export.Xml,3.0.0,Matthew Wherry,XML export menu item for Lyo data grids.
+2026-10-23T02:43:37.733Z,Lyo.Web.Components.Export.Yaml,3.0.0,Matthew Wherry,YAML export menu item for Lyo data grids.
+2026-10-23T02:43:38.727Z,Lyo.Web.Components.Import,3.0.0,Matthew Wherry,Import preview UI. JSON is built in. The host persists returned rows.
+2026-10-23T02:43:39.827Z,Lyo.Web.Components.Import.Csv,3.0.0,Matthew Wherry,CSV format choice for the import workbench.
+2026-10-23T02:43:41Z,Lyo.Web.Components.Import.Toml,3.0.0,Matthew Wherry,TOML format choice for the import workbench.
+2026-10-23T02:43:42.077Z,Lyo.Web.Components.Import.Xlsx,3.0.0,Matthew Wherry,XLSX format choice for the import workbench.
+2026-10-23T02:43:43.15Z,Lyo.Web.Components.Import.Xml,3.0.0,Matthew Wherry,XML format choice for the import workbench.
+2026-10-23T02:43:46.05Z,Lyo.Web.WebRenderer.Models,3.0.0,Matthew Wherry,Serializable HTML capture request and response for Lyo.Web.WebRenderer. No Blazor and no browser dependency.
+2026-10-23T02:43:49.68Z,Lyo.Yaml,3.0.0,Matthew Wherry,"YAML parse and export for a typed document, and conversion to and from JSON, over YamlDotNet and the Lyo JSON contract."
+2026-10-23T03:08:05.947Z,VBaseFramework.Core.Contracts,0.0.1,VBaseFramework.Core.Contracts,Package Description
+2026-10-23T03:09:58.04Z,Lyo.Web.Components.Import.Yaml,3.0.0,Matthew Wherry,YAML format choice for the import workbench.
+2026-10-23T03:10:00.273Z,Lyo.Xml,3.0.0,Matthew Wherry,"XML parse and export for a typed document, and conversion to and from JSON, over System.Xml.Linq and the Lyo JSON contract."
+2026-10-23T03:11:34.723Z,CYS.Extensions.Hosting.Testing,1.0.0,Chris Trout,Provides integration testing support for applications built on the .NET Generic Host.
