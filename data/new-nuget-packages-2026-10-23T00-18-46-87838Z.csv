@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-22T23:23:54.12Z,Musictopia2.BasicDependencyInjectionLibrary,10.0.1,BasicDependencyInjectionLibrary,Package Description
+2026-10-22T23:24:20.3Z,Musictopia2.BasicTesseractOcrLibrary,10.0.1,BasicTesseractOcrLibrary,Package Description
+2026-10-22T23:26:44.7Z,Musictopia2.WindowsImageAbstractionsLibrary,10.0.1,WindowsImageAbstractionsLibrary,Package Description
+2026-10-22T23:27:09.187Z,Musictopia2.WindowsScreenCaptureLibrary,10.0.1,WindowsScreenCaptureLibrary,Package Description
+2026-10-22T23:28:32.993Z,ThomasFazzari.RoslynBridge.linux-arm64,1.2.1,Thomas Fazzari,"Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the official Roslyn language server."
+2026-10-22T23:28:34.643Z,ThomasFazzari.RoslynBridge.linux-x64,1.2.1,Thomas Fazzari,"Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the official Roslyn language server."
+2026-10-22T23:28:36.363Z,ThomasFazzari.RoslynBridge.osx-arm64,1.2.1,Thomas Fazzari,"Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the official Roslyn language server."
+2026-10-22T23:28:38.027Z,ThomasFazzari.RoslynBridge.osx-x64,1.2.1,Thomas Fazzari,"Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the official Roslyn language server."
+2026-10-22T23:28:39.733Z,ThomasFazzari.RoslynBridge.win-x64,1.2.1,Thomas Fazzari,"Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the official Roslyn language server."
+2026-10-22T23:28:40.893Z,ThomasFazzari.RoslynBridge,1.2.1,Thomas Fazzari,"Lightweight MCP for C# diagnostics, navigation and refactoring, backed by the official Roslyn language server."
+2026-10-22T23:35:57.333Z,Bitzsoft.Integrations.SyntheticData.All,1.0.4,Bitzsoft,Bitzsoft 智能合成数据全量聚合包 — 一键装配核心引擎与司法（Legal）、企业（Enterprise）、门户（Web）全量垂直语料
+2026-10-22T23:42:43.95Z,OnionArchitecture.Templates,1.0.1,Gökhan Ertoğan,"Production-ready .NET 10 microservice template: Onion/Clean architecture, DDD, CQRS, zero third-party dependencies."
+2026-10-23T00:04:07.337Z,Swiftsoft.Shield,1.0.6,Swiftsoft (Jospin Chimi),"Encrypts and signs the data exchanged by an ASP.NET Core API, so that it stays unreadable and tamper-proof, even in logs, proxies or debugging tools."
+2026-10-23T00:06:14.46Z,NAPS2.Windows.Printing,0.9.0,Ben Olden-Cooligan,"Print images with the Windows print dialog, including its print preview. Works with WinForms, WPF and other .NET apps on Windows."
