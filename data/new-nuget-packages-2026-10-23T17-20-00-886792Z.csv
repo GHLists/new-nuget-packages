@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-23T16:31:27.267Z,PeachDrawing.PDF,0.9.24,PeachDrawing.PDF,"A PDF Canvas for PeachDrawing.Core: draw shapes, text, images, gradients and effects and write them as PDF, with fonts embedded and subset, PDF/A and PDF/X conformance, encryption and tagged output, in pure .NET."
+2026-10-23T16:31:28.597Z,PeachDrawing.Svg,0.9.24,PeachDrawing.Svg,"A vector SVG Canvas for PeachDrawing.Core - draw shapes, gradients, clips, text and images and save them as SVG, with paths, curves, gradients and glyph outlines kept as vector content and no PDF, HTML or CSS involved."
+2026-10-23T16:31:30.387Z,PeachBrackets,0.9.24,PeachBrackets,"Parses HTML, CSS, SVG and MathML, resolves the cascade and lays the document out into pages, then paints them onto any PeachDrawing canvas: PDF, a bitmap, or your own."
+2026-10-23T16:35:11.69Z,BGCS.Extension.Android,4.0.0,FLwolfy,Explicit optional source-generation extension for BGCS; consumer builds remain external.
+2026-10-23T16:35:12.79Z,BGCS.Extension.AppleMobile,4.0.0,FLwolfy,Explicit optional source-generation extension for BGCS; consumer builds remain external.
+2026-10-23T16:35:14.01Z,BGCS.Extension.BrowserWasm,4.0.0,FLwolfy,Explicit optional source-generation extension for BGCS; consumer builds remain external.
+2026-10-23T16:35:15.14Z,BGCS.Extension.FreeBsd,4.0.0,FLwolfy,Explicit optional source-generation extension for BGCS; consumer builds remain external.
+2026-10-23T16:35:16.52Z,BGCS.Extension.NativeAot,4.0.0,FLwolfy,Explicit optional source-generation extension for BGCS; consumer builds remain external.
+2026-10-23T16:40:02.477Z,DubUrl.Provider.DuckDb.Adbc,0.45.0,Cédric L. Charlier,DuckDB ADBC provider factory and installed native-driver discovery for DubUrl.
