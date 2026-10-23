@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-23T07:27:22.137Z,NuKnip,0.1.0,Harris Foster,A CI-friendly .NET tool that detects potentially unused top-level NuGet package references.
+2026-10-23T07:38:12.893Z,BigSurCorp.Propus,0.1.0,BigSur Corp.,"Official .NET client for Propus (BigSur Corp.) — SQL, cache, streams, objects and search in one server."
+2026-10-23T07:40:32.807Z,Bsft.Hosting.BackgroundWork,2.2.0,Bochmann Software GmbH,"BSFT Framework background work without the web stack: run-once startup operations with retry, and bounded, never-blocking batching pipelines. No ASP.NET Core, Swashbuckle or API-versioning dependency, so a console tool or CLI can use it."
+2026-10-23T07:42:50.93Z,XtremeIdiots.Redirect.Api.Client.Testing,1.0.1,XtremeIdiots,Thread-safe fake and DTO factory for XI Redirect Manager consumers.
+2026-10-23T07:42:51.987Z,XtremeIdiots.Redirect.Api.Abstractions.V1,1.0.1,XtremeIdiots,Version one contracts for XI Redirect Manager.
+2026-10-23T07:42:52.98Z,XtremeIdiots.Redirect.Api.Client.V1,1.0.1,XtremeIdiots,Typed MX API client for XI Redirect Manager.
+2026-10-23T07:49:30.757Z,BeneficialStrategies.Iso20022.Messages.Records,1.0.0-alpha,"Jeff Ward,Beneficial Strategies","The records of every ISO 20022 message, component and choice, written at compile time from the interfaces of iso-20022-messages by a Roslyn source generator: immutable, compared by value, read and written as XML and JSON."
+2026-10-23T08:03:01.973Z,Glubus.MinaCalc,1.0.0,MinaCalc,.NET bindings for MinaCalc's stable Rust C ABI
+2026-10-23T08:10:23.347Z,Ansight.Pencil,1.9.0,Ansight AI,"Optional, explicitly enabled Pencil input simulation for Ansight on iOS Simulator."
+2026-10-23T08:11:55.32Z,Yzl.Extensions.Cache.Redis,0.2.0,YZL,Redis backend for Yzl.Extensions.Cache
