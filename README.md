@@ -12,46 +12,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 15:21 UTC
+## Latest list — 2026-10-23 16:20 UTC
 
-New packages created between 2026-10-23 14:21 UTC and 2026-10-23 15:21 UTC.
+New packages created between 2026-10-23 15:21 UTC and 2026-10-23 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T15-21-02-100734Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T16-20-33-64607Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 14:21:24 | [Shiny.Net.Vpn](https://www.nuget.org/packages/Shiny.Net.Vpn) | 6.4.0-beta-0002 | Allan Ritchie | Shiny VPN - save, connect, disconnect and monitor the operating system's built-… |
-| 2026-10-23 14:24:02 | [Octeka.Text.Components](https://www.nuget.org/packages/Octeka.Text.Components) | 2.0.0 | Patrick Robichaud (operating… | Unified, WPF-inspired ASCII layout engine, 2D character canvas, rich components… |
-| 2026-10-23 14:24:03 | [Octeka.Text.Components.Abstractions](https://www.nuget.org/packages/Octeka.Text.Components.Abstractions) | 2.0.0 | Patrick Robichaud (operating… | Core abstractions, primitives, layout contracts, and styling models for the Oct… |
-| 2026-10-23 14:26:28 | [Activout.Banking](https://www.nuget.org/packages/Activout.Banking) | 0.1.0 | Activout AB | Read-only bank account information (Enable Banking AIS) with a local SQLite arc… |
-| 2026-10-23 14:26:30 | [Activout.Banking.Cli](https://www.nuget.org/packages/Activout.Banking.Cli) | 0.1.0 | Activout AB | The bank command: archive and export your own bank transactions through Enable… |
-| 2026-10-23 14:28:04 | [ChatFlow](https://www.nuget.org/packages/ChatFlow) | 0.1.4 | ChatFlow | Package Description |
-| 2026-10-23 14:30:08 | [Skail.Platform.Analyzer](https://www.nuget.org/packages/Skail.Platform.Analyzer) | 2.2.2 | Skail | Skail Platform analyzers package. |
-| 2026-10-23 14:30:39 | [Skail.Platform.Runtime](https://www.nuget.org/packages/Skail.Platform.Runtime) | 2.2.2 | Skail | Skail Runtime |
-| 2026-10-23 14:31:02 | [Skail.Platform.Runtime.Build](https://www.nuget.org/packages/Skail.Platform.Runtime.Build) | 2.2.2 | Skail | Base build package for projects that use Skail as runtime. |
-| 2026-10-23 14:31:49 | [Skail.Platform.Runtime.Standard](https://www.nuget.org/packages/Skail.Platform.Runtime.Standard) | 2.2.2 | Skail | Package Description |
-| 2026-10-23 14:32:56 | [nsoftware.C2PASDK](https://www.nuget.org/packages/nsoftware.C2PASDK) | 26.0.9756-beta | /n software inc. | Components for creating and validating C2PA Content Credentials, the signed con… |
-| 2026-10-23 14:33:00 | [nsoftware.EDISDK](https://www.nuget.org/packages/nsoftware.EDISDK) | 26.0.9786-beta | /n software inc. | Components for EDI reading, writing, and translation, providing high performanc… |
-| 2026-10-23 14:33:12 | [nsoftware.PDFSDK](https://www.nuget.org/packages/nsoftware.PDFSDK) | 26.0.9788-beta | /n software inc. | Components for PDF creation, conversion, form management, editing, and inspecti… |
-| 2026-10-23 14:33:55 | [nsoftware.IPWorksPGP](https://www.nuget.org/packages/nsoftware.IPWorksPGP) | 26.0.9786 | /n software inc. | Components offering implementations of PGP (Pretty Good Privacy) and OpenPGP en… |
-| 2026-10-23 14:34:50 | [nsoftware.IPWorksLLM](https://www.nuget.org/packages/nsoftware.IPWorksLLM) | 26.0.9786-beta | /n software inc. | Components for building applications powered by large language models (LLMs), w… |
-| 2026-10-23 14:34:54 | [nsoftware.CloudConnectors](https://www.nuget.org/packages/nsoftware.CloudConnectors) | 26.0.9788-beta | /n software inc. | TBD. |
-| 2026-10-23 14:36:13 | [nsoftware.IPWorksWeb](https://www.nuget.org/packages/nsoftware.IPWorksWeb) | 26.0.9784-beta | /n software inc. | A lightweight high-performance web server with simple configuration options. |
-| 2026-10-23 14:36:17 | [nsoftware.IPWorksCData](https://www.nuget.org/packages/nsoftware.IPWorksCData) | 26.0.9784-beta | /n software inc. | IPWorksCData. |
-| 2026-10-23 14:36:23 | [nsoftware.IPWorksMWD](https://www.nuget.org/packages/nsoftware.IPWorksMWD) | 26.0.9784-beta | /n software inc. | IPWorksMWD. |
-| 2026-10-23 14:39:05 | [MedConverse.Demo.MyFirstPackage](https://www.nuget.org/packages/MedConverse.Demo.MyFirstPackage) | 1.0.0 | MyFirstPackage | This package usefull for adding two package |
-| 2026-10-23 14:44:50 | [Csag.WorkloadIdentity](https://www.nuget.org/packages/Csag.WorkloadIdentity) | 0.1.0 | collana solutions AG | Passwordless access tokens for Azure SQL and Azure Blob Storage from the applic… |
-| 2026-10-23 14:46:12 | [Daventry.Agi](https://www.nuget.org/packages/Daventry.Agi) | 0.1.0-alpha | Daventry contributors | Sierra AGI interpreter, ported from ScummVM. |
-| 2026-10-23 14:46:13 | [Daventry.Audio](https://www.nuget.org/packages/Daventry.Audio) | 0.1.0-alpha | Daventry contributors | Audio mixer and sound chip emulation shared by the Daventry AGI and SCI interpr… |
-| 2026-10-23 14:46:14 | [Daventry.Core](https://www.nuget.org/packages/Daventry.Core) | 0.1.0-alpha | Daventry contributors | Host contract and shared primitives for the Daventry Sierra AGI and SCI interpr… |
-| 2026-10-23 14:46:16 | [Daventry.Host.Browser](https://www.nuget.org/packages/Daventry.Host.Browser) | 0.1.0-alpha | Daventry contributors | Browser host for the Daventry interpreters: a canvas, Web Audio, keyboard and m… |
-| 2026-10-23 14:46:17 | [Daventry.Host.Sdl](https://www.nuget.org/packages/Daventry.Host.Sdl) | 0.1.0-alpha | Daventry contributors | SDL3 host for the Daventry interpreters: window, input and audio. |
-| 2026-10-23 14:46:19 | [Daventry.Player](https://www.nuget.org/packages/Daventry.Player) | 0.1.0-alpha | Daventry contributors | Command line player for Sierra AGI and SCI games: dotnet tool install -g Davent… |
-| 2026-10-23 14:46:20 | [Daventry.Sci](https://www.nuget.org/packages/Daventry.Sci) | 0.1.0-alpha | Daventry contributors | Sierra SCI interpreter, ported from ScummVM. |
-| 2026-10-23 14:51:06 | [BareWire.InMemory](https://www.nuget.org/packages/BareWire.InMemory) | 3.0.0 | Artur Sawicki | Single-call registration bundle for BareWire with the in-memory transport. Refe… |
-| 2026-10-23 14:51:12 | [BareWire.Transport.InMemory](https://www.nuget.org/packages/BareWire.Transport.InMemory) | 3.0.0 | Artur Sawicki | In-memory, single-process, at-most-once transport for BareWire with manual topo… |
-| 2026-10-23 15:02:19 | [EfMigrationPack.Tools](https://www.nuget.org/packages/EfMigrationPack.Tools) | 1.0.0 | Paul Oliver | Package Manager Console commands for packing EF Core migrations: Compress-Migra… |
-| 2026-10-23 15:02:19 | [EfMigrationPack](https://www.nuget.org/packages/EfMigrationPack) | 10.0.0 | Paul Oliver | Runtime for packed EF Core migrations: applies each original migration inside a… |
+| 2026-10-23 15:25:21 | [Activout.MemberData](https://www.nuget.org/packages/Activout.MemberData) | 1.0.0 | Activout AB | Client for LinkedIn's Member Data Portability (Member) snapshot and changelog A… |
+| 2026-10-23 15:25:23 | [Activout.MemberData.Cli](https://www.nuget.org/packages/Activout.MemberData.Cli) | 1.0.0 | Activout AB | The member command: sync your own LinkedIn Member Data Portability data into a… |
+| 2026-10-23 15:29:35 | [Solvano.Sdk](https://www.nuget.org/packages/Solvano.Sdk) | 0.0.1 | Solvano | Reserved for the Solvano SDK — https://solvano.ai |
+| 2026-10-23 15:32:02 | [ReactiveDomain.PolicyTool](https://www.nuget.org/packages/ReactiveDomain.PolicyTool) | 0.19.0 | Reactive Domain Group | Command-line tool for administering ReactiveDomain identity and policy streams.… |
+| 2026-10-23 15:32:05 | [ReactiveDomain.Policy.Core](https://www.nuget.org/packages/ReactiveDomain.Policy.Core) | 0.19.0 | Reactive Domain Group | Policies, roles and permissions for ReactiveDomain, with the dispatcher that au… |
+| 2026-10-23 15:32:05 | [ReactiveDomain.IdentityStorage](https://www.nuget.org/packages/ReactiveDomain.IdentityStorage) | 0.19.0 | Reactive Domain Group | Event-sourced identity storage for ReactiveDomain: users, subjects and clients,… |
+| 2026-10-23 15:41:27 | [RecursiveAI.OneImage.Pdf](https://www.nuget.org/packages/RecursiveAI.OneImage.Pdf) | 1.6.0 | Recursive AI, LLC | PDF support for OneImage: renders PDF pages as an image format, drawn on demand… |
+| 2026-10-23 15:44:57 | [PowerTraces.Sdk](https://www.nuget.org/packages/PowerTraces.Sdk) | 1.0.1 | PowerTraces | OpenTelemetry for ASP.NET Core, set up for PowerTraces in one line: traces, log… |
+| 2026-10-23 15:45:17 | [K9o.Core](https://www.nuget.org/packages/K9o.Core) | 1.0.0 | Kilimanjaro | Kilimanjaro platform SDK — createClient + data DSL + projects + gate + Studio (… |
+| 2026-10-23 15:45:22 | [K9o.Kibo](https://www.nuget.org/packages/K9o.Kibo) | 1.0.0 | Kilimanjaro | Kibo Zero-Knowledge BYOK/HYOK vault SDK for .NET — client-side encrypt/decrypt… |
+| 2026-10-23 15:46:41 | [MetuCom.Testy.MySecondPackage](https://www.nuget.org/packages/MetuCom.Testy.MySecondPackage) | 1.0.0 | MySecondPackage | Package Description |
+| 2026-10-23 15:46:54 | [DubUrl.Adbc](https://www.nuget.org/packages/DubUrl.Adbc) | 0.44.0 | Cédric L. Charlier | ADBC provider integration for DubUrl's ADO.NET connection and querying APIs. |
+| 2026-10-23 15:48:55 | [SLVZ.Billing.Myket](https://www.nuget.org/packages/SLVZ.Billing.Myket) | 1.0.0 | Ashkan SLVZ | A lightweight library for Android developers that make you able to purchase in… |
+| 2026-10-23 15:49:18 | [SLVZ.Billing.Bazaar](https://www.nuget.org/packages/SLVZ.Billing.Bazaar) | 1.0.0 | Ashkan SLVZ | A lightweight library for Android developers that make you able to purchase in… |
+| 2026-10-23 15:50:32 | [ConventionMapper](https://www.nuget.org/packages/ConventionMapper) | 1.0.0 | Katragadda | A convention-based object-object mapper for .NET. Flattening, unflattening (Rev… |
+| 2026-10-23 15:51:55 | [FireShop.Net.Hub](https://www.nuget.org/packages/FireShop.Net.Hub) | 1.2026.0 | FIRESOFT ITALIA SRL | Contratti condivisi fra il servizio di FireShop.Net per i dispositivi (hub) e i… |
+| 2026-10-23 15:54:04 | [Stellaegis.Identity.SqlServer](https://www.nuget.org/packages/Stellaegis.Identity.SqlServer) | 6.0.0 | FRi | The SQL Server stores of Stellaegis.Identity: the accounts, their second factor… |
+| 2026-10-23 16:05:01 | [CodeCrush.Meshtastic.Core](https://www.nuget.org/packages/CodeCrush.Meshtastic.Core) | 0.1.1 | CodeCrush | Transport-agnostic Meshtastic client: streaming API handshake, text messages, n… |
+| 2026-10-23 16:05:03 | [CodeCrush.Meshtastic.Protobufs](https://www.nuget.org/packages/CodeCrush.Meshtastic.Protobufs) | 0.1.1 | CodeCrush | Generated C# types for the official Meshtastic protobuf definitions. |
+| 2026-10-23 16:05:04 | [CodeCrush.Meshtastic.Serial](https://www.nuget.org/packages/CodeCrush.Meshtastic.Serial) | 0.1.1 | CodeCrush | USB serial transport for CodeCrush.Meshtastic.Core. |
+| 2026-10-23 16:13:16 | [DigitalWonderlab.ImageResizer](https://www.nuget.org/packages/DigitalWonderlab.ImageResizer) | 1.0.0 | Digital Wonderlab | Backoffice dashboard that finds oversized images in the media library, resizes… |
 
 ## Data source
 

@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-10-23T15:25:21.873Z,Activout.MemberData,1.0.0,Activout AB,Client for LinkedIn's Member Data Portability (Member) snapshot and changelog APIs. Unofficial; not affiliated with LinkedIn.
+2026-10-23T15:25:23.54Z,Activout.MemberData.Cli,1.0.0,Activout AB,The member command: sync your own LinkedIn Member Data Portability data into a local SQLite database and query it.
+2026-10-23T15:29:35.41Z,Solvano.Sdk,0.0.1,Solvano,Reserved for the Solvano SDK — https://solvano.ai
+2026-10-23T15:32:02.707Z,ReactiveDomain.PolicyTool,0.19.0,Reactive Domain Group,Command-line tool for administering ReactiveDomain identity and policy streams. Install with dotnet tool install and invoke as policytool.
+2026-10-23T15:32:05.59Z,ReactiveDomain.Policy.Core,0.19.0,Reactive Domain Group,"Policies, roles and permissions for ReactiveDomain, with the dispatcher that authorizes a command against them."
+2026-10-23T15:32:05.963Z,ReactiveDomain.IdentityStorage,0.19.0,Reactive Domain Group,"Event-sourced identity storage for ReactiveDomain: users, subjects and clients, with associated read models."
+2026-10-23T15:41:27.3Z,RecursiveAI.OneImage.Pdf,1.6.0,"Recursive AI, LLC","PDF support for OneImage: renders PDF pages as an image format, drawn on demand per tile from OnePDF display lists."
+2026-10-23T15:44:57.407Z,PowerTraces.Sdk,1.0.1,PowerTraces,"OpenTelemetry for ASP.NET Core, set up for PowerTraces in one line: traces, logs and metrics, clean span names, header and user enrichment, and package-list reporting for vulnerability checks."
+2026-10-23T15:45:17.283Z,K9o.Core,1.0.0,Kilimanjaro,Kilimanjaro platform SDK — createClient + data DSL + projects + gate + Studio (workflows/dashboards) + Compute.Llms + Realtime subscriptions + KError. .NET idiomatic (PascalCase Async methods; throw KError : Exception; HttpClient; IAsyncEnumerable for SSE).
+2026-10-23T15:45:22.763Z,K9o.Kibo,1.0.0,Kilimanjaro,Kibo Zero-Knowledge BYOK/HYOK vault SDK for .NET — client-side encrypt/decrypt against your own KMS over the audited Rust core (kibo-kms-rest-ffi) via the uniffi-bindgen-cs binding. The platform never sees plaintext. K9o.Kibo.Kibo.Encrypt/Decrypt; throws K9o.KError.
+2026-10-23T15:46:41.767Z,MetuCom.Testy.MySecondPackage,1.0.0,MySecondPackage,Package Description
+2026-10-23T15:46:54.43Z,DubUrl.Adbc,0.44.0,Cédric L. Charlier,ADBC provider integration for DubUrl's ADO.NET connection and querying APIs.
+2026-10-23T15:48:55.92Z,SLVZ.Billing.Myket,1.0.0,Ashkan SLVZ,A lightweight library for Android developers that make you able to purchase in app using Myket
+2026-10-23T15:49:18.34Z,SLVZ.Billing.Bazaar,1.0.0,Ashkan SLVZ,A lightweight library for Android developers that make you able to purchase in app using Cafe Bazaar
+2026-10-23T15:50:32.41Z,ConventionMapper,1.0.0,Katragadda,"A convention-based object-object mapper for .NET. Flattening, unflattening (ReverseMap), profiles, value resolvers, type converters, value converters, conditions, before/after map actions, inheritance (Include/IncludeBase), constructor mapping, collections, dictionaries, enums, IQueryable projectio…"
+2026-10-23T15:51:55.08Z,FireShop.Net.Hub,1.2026.0,FIRESOFT ITALIA SRL,Contratti condivisi fra il servizio di FireShop.Net per i dispositivi (hub) e i suoi client
+2026-10-23T15:54:04.273Z,Stellaegis.Identity.SqlServer,6.0.0,FRi,"The SQL Server stores of Stellaegis.Identity: the accounts, their second factors, recovery codes, e-mail verifications, password reset tokens and login events in the schema ident, with the declaration of the database for its installation and its verification at startup."
+2026-10-23T16:05:01.757Z,CodeCrush.Meshtastic.Core,0.1.1,CodeCrush,"Transport-agnostic Meshtastic client: streaming API handshake, text messages, node/channel model and local radio administration."
+2026-10-23T16:05:03.26Z,CodeCrush.Meshtastic.Protobufs,0.1.1,CodeCrush,Generated C# types for the official Meshtastic protobuf definitions.
+2026-10-23T16:05:04.817Z,CodeCrush.Meshtastic.Serial,0.1.1,CodeCrush,USB serial transport for CodeCrush.Meshtastic.Core.
+2026-10-23T16:13:16.897Z,DigitalWonderlab.ImageResizer,1.0.0,Digital Wonderlab,"Backoffice dashboard that finds oversized images in the media library, resizes them to a maximum width and compresses them. Supports Umbraco 13, 15, 16 and 17."
