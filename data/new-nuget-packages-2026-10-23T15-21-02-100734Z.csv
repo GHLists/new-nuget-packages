@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-23T14:21:24.99Z,Shiny.Net.Vpn,6.4.0-beta-0002,Allan Ritchie,"Shiny VPN - save, connect, disconnect and monitor the operating system's built-in IKEv2 VPN client (shared secret, username/password or certificate) on iOS, Mac Catalyst, macOS and Android"
+2026-10-23T14:24:02.38Z,Octeka.Text.Components,2.0.0,Patrick Robichaud (operating as OCTEKA),"Unified, WPF-inspired ASCII layout engine, 2D character canvas, rich components (Border, StackPanel, Grid, Tabs, Table, Checkbox, ProgressBar), and text modifiers for modern .NET."
+2026-10-23T14:24:03.18Z,Octeka.Text.Components.Abstractions,2.0.0,Patrick Robichaud (operating as OCTEKA),"Core abstractions, primitives, layout contracts, and styling models for the Octeka ASCII text layout and component framework."
+2026-10-23T14:26:28.987Z,Activout.Banking,0.1.0,Activout AB,Read-only bank account information (Enable Banking AIS) with a local SQLite archive.
+2026-10-23T14:26:30.01Z,Activout.Banking.Cli,0.1.0,Activout AB,The bank command: archive and export your own bank transactions through Enable Banking.
+2026-10-23T14:28:04.3Z,ChatFlow,0.1.4,ChatFlow,Package Description
+2026-10-23T14:30:08.41Z,Skail.Platform.Analyzer,2.2.2,Skail,Skail Platform analyzers package.
+2026-10-23T14:30:39.62Z,Skail.Platform.Runtime,2.2.2,Skail,Skail Runtime
+2026-10-23T14:31:02.007Z,Skail.Platform.Runtime.Build,2.2.2,Skail,Base build package for projects that use Skail as runtime.
+2026-10-23T14:31:49.917Z,Skail.Platform.Runtime.Standard,2.2.2,Skail,Package Description
+2026-10-23T14:32:56.567Z,nsoftware.C2PASDK,26.0.9756-beta,/n software inc.,"Components for creating and validating C2PA Content Credentials, the signed content provenance manifests that record how an asset was produced and whether AI was involved."
+2026-10-23T14:33:00.557Z,nsoftware.EDISDK,26.0.9786-beta,/n software inc.,"Components for EDI reading, writing, and translation, providing high performance implementations of X12 and EDIFACT through simple, easy-to-use, and intuitive APIs."
+2026-10-23T14:33:12.363Z,nsoftware.PDFSDK,26.0.9788-beta,/n software inc.,"Components for PDF creation, conversion, form management, editing, and inspection through simple, easy-to-use, and intuitive APIs."
+2026-10-23T14:33:55.317Z,nsoftware.IPWorksPGP,26.0.9786,/n software inc.,"Components offering implementations of PGP (Pretty Good Privacy) and OpenPGP encryption, decryption, signing, verification, and key managemeng operations through simple, easy-to-use, and intuitive APIs."
+2026-10-23T14:34:50.55Z,nsoftware.IPWorksLLM,26.0.9786-beta,/n software inc.,"Components for building applications powered by large language models (LLMs), with native support for the OpenAI, Anthropic, and Google Gemini APIs, including any OpenAI-compatible endpoint, and for creating and validating C2PA Content Credentials that record how content was produced and whether AI…"
+2026-10-23T14:34:54.077Z,nsoftware.CloudConnectors,26.0.9788-beta,/n software inc.,TBD.
+2026-10-23T14:36:13.373Z,nsoftware.IPWorksWeb,26.0.9784-beta,/n software inc.,A lightweight high-performance web server with simple configuration options.
+2026-10-23T14:36:17.023Z,nsoftware.IPWorksCData,26.0.9784-beta,/n software inc.,IPWorksCData.
+2026-10-23T14:36:23.003Z,nsoftware.IPWorksMWD,26.0.9784-beta,/n software inc.,IPWorksMWD.
+2026-10-23T14:39:05.34Z,MedConverse.Demo.MyFirstPackage,1.0.0,MyFirstPackage,This package usefull for adding two package
+2026-10-23T14:44:50.02Z,Csag.WorkloadIdentity,0.1.0,collana solutions AG,"Passwordless access tokens for Azure SQL and Azure Blob Storage from the application's workload identity: an Azure managed identity, or a Google identity through workload identity federation with Microsoft Entra ID."
+2026-10-23T14:46:12.643Z,Daventry.Agi,0.1.0-alpha,Daventry contributors,"Sierra AGI interpreter, ported from ScummVM."
+2026-10-23T14:46:13.793Z,Daventry.Audio,0.1.0-alpha,Daventry contributors,Audio mixer and sound chip emulation shared by the Daventry AGI and SCI interpreters.
+2026-10-23T14:46:14.923Z,Daventry.Core,0.1.0-alpha,Daventry contributors,Host contract and shared primitives for the Daventry Sierra AGI and SCI interpreters.
+2026-10-23T14:46:16.097Z,Daventry.Host.Browser,0.1.0-alpha,Daventry contributors,"Browser host for the Daventry interpreters: a canvas, Web Audio, keyboard and mouse, and saved games in local storage, as a Blazor component."
+2026-10-23T14:46:17.227Z,Daventry.Host.Sdl,0.1.0-alpha,Daventry contributors,"SDL3 host for the Daventry interpreters: window, input and audio."
+2026-10-23T14:46:19.15Z,Daventry.Player,0.1.0-alpha,Daventry contributors,"Command line player for Sierra AGI and SCI games: dotnet tool install -g Daventry.Player, then daventry <game folder>."
+2026-10-23T14:46:20.29Z,Daventry.Sci,0.1.0-alpha,Daventry contributors,"Sierra SCI interpreter, ported from ScummVM."
+2026-10-23T14:51:06.347Z,BareWire.InMemory,3.0.0,Artur Sawicki,Single-call registration bundle for BareWire with the in-memory transport. References both the BareWire core and BareWire.Transport.InMemory and exposes AddBareWireWithInMemory.
+2026-10-23T14:51:12.453Z,BareWire.Transport.InMemory,3.0.0,Artur Sawicki,"In-memory, single-process, at-most-once transport for BareWire with manual topology, bounded queues and non-blocking admission."
+2026-10-23T15:02:19.51Z,EfMigrationPack.Tools,1.0.0,Paul Oliver,Package Manager Console commands for packing EF Core migrations: Compress-Migrations and Expand-Migrations. Works with EF Core 6 and later; projects reference the EfMigrationPack runtime package.
+2026-10-23T15:02:19.933Z,EfMigrationPack,10.0.0,Paul Oliver,"Runtime for packed EF Core migrations: applies each original migration inside a pack only if the database hasn't recorded it, and reports every migration as it runs. Use the package version whose major matches your EF Core major. Pack and unpack with the dotnet-ef-pack tool or the EfMigrationPack.T…"

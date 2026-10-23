@@ -12,33 +12,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 14:21 UTC
+## Latest list — 2026-10-23 15:21 UTC
 
-New packages created between 2026-10-23 13:23 UTC and 2026-10-23 14:21 UTC.
+New packages created between 2026-10-23 14:21 UTC and 2026-10-23 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T14-21-24-667523Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T15-21-02-100734Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 13:32:43 | [LM-Kit.NET.Backend.Cuda13.Windows.Part0](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda13.Windows.Part0) | 2026.10.7 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda13.Windows, which references it: install LM-Kit.… |
-| 2026-10-23 13:32:47 | [LM-Kit.NET.Backend.Cuda13.Windows.Part1](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda13.Windows.Part1) | 2026.10.7 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda13.Windows, which references it: install LM-Kit.… |
-| 2026-10-23 13:33:01 | [LM-Kit.NET.Backend.Cuda13.Linux.Part0](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda13.Linux.Part0) | 2026.10.7 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda13.Linux, which references it: install LM-Kit.NE… |
-| 2026-10-23 13:33:05 | [LM-Kit.NET.Backend.Cuda13.Linux.Part1](https://www.nuget.org/packages/LM-Kit.NET.Backend.Cuda13.Linux.Part1) | 2026.10.7 | LM-Kit Authors | Part of LM-Kit.NET.Backend.Cuda13.Linux, which references it: install LM-Kit.NE… |
-| 2026-10-23 13:33:06 | [Soenneker.Twilio.Deactivations](https://www.nuget.org/packages/Soenneker.Twilio.Deactivations) | 4.0.2 | Jake Soenneker | A utility for working with Twilio phone number deactivations. |
-| 2026-10-23 13:33:42 | [Engobe.Plugin.EmailProtect](https://www.nuget.org/packages/Engobe.Plugin.EmailProtect) | 2.0.0 | PepperPix | JS-obfuscated email protection Content-Plugin for Engobe static sites. |
-| 2026-10-23 13:37:59 | [Kanject.Core.Events.Abstractions](https://www.nuget.org/packages/Kanject.Core.Events.Abstractions) | 0.1.0 | Akinsanya Omogbolahan | Kanject Core events abstractions — the transport-neutral contract a Library pub… |
-| 2026-10-23 13:38:01 | [Kanject.Core.Events](https://www.nuget.org/packages/Kanject.Core.Events) | 0.1.0 | Akinsanya Omogbolahan | Kanject Core events — the in-process default IEventPublisher: handlers run befo… |
-| 2026-10-23 13:38:03 | [Kanject.Core.Events.Annotations](https://www.nuget.org/packages/Kanject.Core.Events.Annotations) | 0.1.0 | Akinsanya Omogbolahan | Roslyn source generator for Kanject Core events — for each [EventTopic] type it… |
-| 2026-10-23 13:38:05 | [Kanject.Core.Events.TestKit](https://www.nuget.org/packages/Kanject.Core.Events.TestKit) | 0.1.0 | Akinsanya Omogbolahan | Kanject Core events contract suite (xUnit): EventPublisherContractTests, the te… |
-| 2026-10-23 13:38:46 | [Zhomfr.Validation.Rules.Files](https://www.nuget.org/packages/Zhomfr.Validation.Rules.Files) | 0.5.0 | zhuolyan (Oleg Zhuravskiy) | A powerful, intuitive collection of custom validation attributes built directly… |
-| 2026-10-23 13:44:41 | [DotCelery.Abstractions](https://www.nuget.org/packages/DotCelery.Abstractions) | 1.1.0 | Aleksandr Pavlov | Abstractions, models, and configuration contracts for DotCelery |
-| 2026-10-23 13:45:24 | [FeetCode](https://www.nuget.org/packages/FeetCode) | 0.1.0 | Ella Gyurkovská | Fetch public LeetCode user stats from F#. |
-| 2026-10-23 13:58:25 | [TopCharge.Sdk](https://www.nuget.org/packages/TopCharge.Sdk) | 1.0.0 | TopCharge | Official .NET SDK for the TopCharge merchant API. |
-| 2026-10-23 14:07:11 | [Tessera.WpfStyles](https://www.nuget.org/packages/Tessera.WpfStyles) | 0.1.0 | Timbuhtuk | Reusable Tessera themes, controls, typography and motion for .NET 8 WPF applica… |
-| 2026-10-23 14:09:03 | [Bluehands.EventSourcing.Commands](https://www.nuget.org/packages/Bluehands.EventSourcing.Commands) | 1.1.0 | Implemented with 💙 by bluehan… | Functional command pattern for Bluehands.EventSourcing |
-| 2026-10-23 14:10:39 | [Bluehands.EventSourcing.Persistence.Postgres](https://www.nuget.org/packages/Bluehands.EventSourcing.Persistence.Postgres) | 1.1.0 | Implemented with 💙 by bluehan… | PostgreSQL persistence for EventSourcing |
-| 2026-10-23 14:15:23 | [Switchyard](https://www.nuget.org/packages/Switchyard) | 0.1.0 | Pekka Ylenius | Run the services you work on locally and route the rest to dev, staging or prod… |
-| 2026-10-23 14:15:29 | [Stellaegis.Issuer.SqlServer](https://www.nuget.org/packages/Stellaegis.Issuer.SqlServer) | 5.1.0 | FRi | The SQL Server stores of Stellaegis.Issuer: the OpenIddict applications, author… |
+| 2026-10-23 14:21:24 | [Shiny.Net.Vpn](https://www.nuget.org/packages/Shiny.Net.Vpn) | 6.4.0-beta-0002 | Allan Ritchie | Shiny VPN - save, connect, disconnect and monitor the operating system's built-… |
+| 2026-10-23 14:24:02 | [Octeka.Text.Components](https://www.nuget.org/packages/Octeka.Text.Components) | 2.0.0 | Patrick Robichaud (operating… | Unified, WPF-inspired ASCII layout engine, 2D character canvas, rich components… |
+| 2026-10-23 14:24:03 | [Octeka.Text.Components.Abstractions](https://www.nuget.org/packages/Octeka.Text.Components.Abstractions) | 2.0.0 | Patrick Robichaud (operating… | Core abstractions, primitives, layout contracts, and styling models for the Oct… |
+| 2026-10-23 14:26:28 | [Activout.Banking](https://www.nuget.org/packages/Activout.Banking) | 0.1.0 | Activout AB | Read-only bank account information (Enable Banking AIS) with a local SQLite arc… |
+| 2026-10-23 14:26:30 | [Activout.Banking.Cli](https://www.nuget.org/packages/Activout.Banking.Cli) | 0.1.0 | Activout AB | The bank command: archive and export your own bank transactions through Enable… |
+| 2026-10-23 14:28:04 | [ChatFlow](https://www.nuget.org/packages/ChatFlow) | 0.1.4 | ChatFlow | Package Description |
+| 2026-10-23 14:30:08 | [Skail.Platform.Analyzer](https://www.nuget.org/packages/Skail.Platform.Analyzer) | 2.2.2 | Skail | Skail Platform analyzers package. |
+| 2026-10-23 14:30:39 | [Skail.Platform.Runtime](https://www.nuget.org/packages/Skail.Platform.Runtime) | 2.2.2 | Skail | Skail Runtime |
+| 2026-10-23 14:31:02 | [Skail.Platform.Runtime.Build](https://www.nuget.org/packages/Skail.Platform.Runtime.Build) | 2.2.2 | Skail | Base build package for projects that use Skail as runtime. |
+| 2026-10-23 14:31:49 | [Skail.Platform.Runtime.Standard](https://www.nuget.org/packages/Skail.Platform.Runtime.Standard) | 2.2.2 | Skail | Package Description |
+| 2026-10-23 14:32:56 | [nsoftware.C2PASDK](https://www.nuget.org/packages/nsoftware.C2PASDK) | 26.0.9756-beta | /n software inc. | Components for creating and validating C2PA Content Credentials, the signed con… |
+| 2026-10-23 14:33:00 | [nsoftware.EDISDK](https://www.nuget.org/packages/nsoftware.EDISDK) | 26.0.9786-beta | /n software inc. | Components for EDI reading, writing, and translation, providing high performanc… |
+| 2026-10-23 14:33:12 | [nsoftware.PDFSDK](https://www.nuget.org/packages/nsoftware.PDFSDK) | 26.0.9788-beta | /n software inc. | Components for PDF creation, conversion, form management, editing, and inspecti… |
+| 2026-10-23 14:33:55 | [nsoftware.IPWorksPGP](https://www.nuget.org/packages/nsoftware.IPWorksPGP) | 26.0.9786 | /n software inc. | Components offering implementations of PGP (Pretty Good Privacy) and OpenPGP en… |
+| 2026-10-23 14:34:50 | [nsoftware.IPWorksLLM](https://www.nuget.org/packages/nsoftware.IPWorksLLM) | 26.0.9786-beta | /n software inc. | Components for building applications powered by large language models (LLMs), w… |
+| 2026-10-23 14:34:54 | [nsoftware.CloudConnectors](https://www.nuget.org/packages/nsoftware.CloudConnectors) | 26.0.9788-beta | /n software inc. | TBD. |
+| 2026-10-23 14:36:13 | [nsoftware.IPWorksWeb](https://www.nuget.org/packages/nsoftware.IPWorksWeb) | 26.0.9784-beta | /n software inc. | A lightweight high-performance web server with simple configuration options. |
+| 2026-10-23 14:36:17 | [nsoftware.IPWorksCData](https://www.nuget.org/packages/nsoftware.IPWorksCData) | 26.0.9784-beta | /n software inc. | IPWorksCData. |
+| 2026-10-23 14:36:23 | [nsoftware.IPWorksMWD](https://www.nuget.org/packages/nsoftware.IPWorksMWD) | 26.0.9784-beta | /n software inc. | IPWorksMWD. |
+| 2026-10-23 14:39:05 | [MedConverse.Demo.MyFirstPackage](https://www.nuget.org/packages/MedConverse.Demo.MyFirstPackage) | 1.0.0 | MyFirstPackage | This package usefull for adding two package |
+| 2026-10-23 14:44:50 | [Csag.WorkloadIdentity](https://www.nuget.org/packages/Csag.WorkloadIdentity) | 0.1.0 | collana solutions AG | Passwordless access tokens for Azure SQL and Azure Blob Storage from the applic… |
+| 2026-10-23 14:46:12 | [Daventry.Agi](https://www.nuget.org/packages/Daventry.Agi) | 0.1.0-alpha | Daventry contributors | Sierra AGI interpreter, ported from ScummVM. |
+| 2026-10-23 14:46:13 | [Daventry.Audio](https://www.nuget.org/packages/Daventry.Audio) | 0.1.0-alpha | Daventry contributors | Audio mixer and sound chip emulation shared by the Daventry AGI and SCI interpr… |
+| 2026-10-23 14:46:14 | [Daventry.Core](https://www.nuget.org/packages/Daventry.Core) | 0.1.0-alpha | Daventry contributors | Host contract and shared primitives for the Daventry Sierra AGI and SCI interpr… |
+| 2026-10-23 14:46:16 | [Daventry.Host.Browser](https://www.nuget.org/packages/Daventry.Host.Browser) | 0.1.0-alpha | Daventry contributors | Browser host for the Daventry interpreters: a canvas, Web Audio, keyboard and m… |
+| 2026-10-23 14:46:17 | [Daventry.Host.Sdl](https://www.nuget.org/packages/Daventry.Host.Sdl) | 0.1.0-alpha | Daventry contributors | SDL3 host for the Daventry interpreters: window, input and audio. |
+| 2026-10-23 14:46:19 | [Daventry.Player](https://www.nuget.org/packages/Daventry.Player) | 0.1.0-alpha | Daventry contributors | Command line player for Sierra AGI and SCI games: dotnet tool install -g Davent… |
+| 2026-10-23 14:46:20 | [Daventry.Sci](https://www.nuget.org/packages/Daventry.Sci) | 0.1.0-alpha | Daventry contributors | Sierra SCI interpreter, ported from ScummVM. |
+| 2026-10-23 14:51:06 | [BareWire.InMemory](https://www.nuget.org/packages/BareWire.InMemory) | 3.0.0 | Artur Sawicki | Single-call registration bundle for BareWire with the in-memory transport. Refe… |
+| 2026-10-23 14:51:12 | [BareWire.Transport.InMemory](https://www.nuget.org/packages/BareWire.Transport.InMemory) | 3.0.0 | Artur Sawicki | In-memory, single-process, at-most-once transport for BareWire with manual topo… |
+| 2026-10-23 15:02:19 | [EfMigrationPack.Tools](https://www.nuget.org/packages/EfMigrationPack.Tools) | 1.0.0 | Paul Oliver | Package Manager Console commands for packing EF Core migrations: Compress-Migra… |
+| 2026-10-23 15:02:19 | [EfMigrationPack](https://www.nuget.org/packages/EfMigrationPack) | 10.0.0 | Paul Oliver | Runtime for packed EF Core migrations: applies each original migration inside a… |
 
 ## Data source
 
