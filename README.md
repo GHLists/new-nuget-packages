@@ -12,24 +12,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 04:19 UTC
+## Latest list — 2026-10-23 05:19 UTC
 
-New packages created between 2026-10-23 03:20 UTC and 2026-10-23 04:19 UTC.
+New packages created between 2026-10-23 04:19 UTC and 2026-10-23 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T04-19-50-704646Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T05-19-58-052426Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 03:20:12 | [ArgentSea.Orleans.Pg](https://www.nuget.org/packages/ArgentSea.Orleans.Pg) | 2.1.0 | ArgentSea.Orleans.Pg | Extension to enable ArgentSea to serve as a data provider for Microsoft Orleans… |
-| 2026-10-23 03:24:14 | [Cratis.Specifications.TUnit](https://www.nuget.org/packages/Cratis.Specifications.TUnit) | 4.2.0 | Cratis | Specification by Example (BDD) for .NET with TUnit - Given/When/Then specificat… |
-| 2026-10-23 03:24:15 | [Cratis.Specifications.XUnit.v3](https://www.nuget.org/packages/Cratis.Specifications.XUnit.v3) | 4.2.0 | Cratis | Specification by Example (BDD) for .NET with xUnit v3 - Given/When/Then specifi… |
-| 2026-10-23 03:24:16 | [Cratis.Specifications.NUnit5](https://www.nuget.org/packages/Cratis.Specifications.NUnit5) | 4.2.0 | Cratis | Specification by Example (BDD) for .NET with NUnit 5 - Given/When/Then specific… |
-| 2026-10-23 03:25:54 | [dotnet-nsis](https://www.nuget.org/packages/dotnet-nsis) | 0.1.0 | dotnet-nsis contributors | 将已发布的应用目录打包为 Windows NSIS 安装程序。 |
-| 2026-10-23 03:32:49 | [BinToss.XmlSourceGenerator](https://www.nuget.org/packages/BinToss.XmlSourceGenerator) | 0.0.1-DUMMY | Saivineeth,Noah Sherwin | High-performance XML serialization via source generation with XmlSerializer fea… |
-| 2026-10-23 03:32:51 | [BinToss.XmlSourceGenerator.Abstractions](https://www.nuget.org/packages/BinToss.XmlSourceGenerator.Abstractions) | 0.0.1-DUMMY | Saivineeth,Noah Sherwin | Runtime abstractions for XmlSourceGenerator - attributes, interfaces, and utili… |
-| 2026-10-23 03:34:05 | [BeneficialStrategies.Iso20022.Primitives](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Primitives) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | The ISO 20022 primitive data types, code sets and external codes, with their fo… |
-| 2026-10-23 03:43:47 | [SafeQuery](https://www.nuget.org/packages/SafeQuery) | 0.0.1 | Llewellyn Falco | Read-only SQL Server query CLI that rejects anything but SELECT, plus a schema-… |
-| 2026-10-23 03:52:21 | [A1Force.MauiObfuscate.Build](https://www.nuget.org/packages/A1Force.MauiObfuscate.Build) | 1.0.1 | A1Force | MSBuild targets that run maui-obfuscate after a Release build. Install the A1Fo… |
+| 2026-10-23 04:29:45 | [Kiwi.Native](https://www.nuget.org/packages/Kiwi.Native) | 0.1.0 | fuseraft | Write Kiwi native extensions in C#. Mark static methods with [KiwiFunction] and… |
+| 2026-10-23 04:32:43 | [Minos.NET.Recording](https://www.nuget.org/packages/Minos.NET.Recording) | 1.3.0 | Marcel Roozekrans | A decision recorder for Minos.NET: every decision is written, with its question… |
+| 2026-10-23 04:35:45 | [Ahwoo.BRUTAL.Box2D.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Box2D.Native) | 2026.10.2 | Ahwoo Limited | Native Box2D libraries. |
+| 2026-10-23 04:35:51 | [Ahwoo.BRUTAL.Glfw.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Glfw.Native) | 2026.10.5 | Ahwoo Limited | Native GLFW libraries. |
+| 2026-10-23 04:35:53 | [Ahwoo.BRUTAL.Gli.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Gli.Native) | 2026.10.2 | Ahwoo Limited | Native GLI libraries. |
+| 2026-10-23 04:35:58 | [Ahwoo.BRUTAL.ImGui.FreeType.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ImGui.FreeType.Native) | 2026.10.3 | Ahwoo Limited | Native Dear ImGui FreeType font rasterizer library. |
+| 2026-10-23 04:35:59 | [Ahwoo.BRUTAL.ImGui.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ImGui.Native) | 2026.10.3 | Ahwoo Limited | Native Dear ImGui library. |
+| 2026-10-23 04:36:03 | [Ahwoo.BRUTAL.ImPlot.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ImPlot.Native) | 2026.10.3 | Ahwoo Limited | Native ImPlot library. |
+| 2026-10-23 04:36:06 | [Ahwoo.BRUTAL.Jolt.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Jolt.Native) | 2026.10.4 | Ahwoo Limited | Native Jolt Physics libraries. |
+| 2026-10-23 04:36:08 | [Ahwoo.BRUTAL.Ktx.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Ktx.Native) | 2026.10.2 | Ahwoo Limited | Native KTX-Software (libktx) libraries. |
+| 2026-10-23 04:36:13 | [Ahwoo.BRUTAL.MeshOptimizer.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.MeshOptimizer.Native) | 2026.10.2 | Ahwoo Limited | Native meshoptimizer libraries. |
+| 2026-10-23 04:36:16 | [Ahwoo.BRUTAL.NativeFileDialog.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.NativeFileDialog.Native) | 2026.10.3 | Ahwoo Limited | Native nativefiledialog-extended libraries. |
+| 2026-10-23 04:36:18 | [Ahwoo.BRUTAL.NotCurses.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.NotCurses.Native) | 2026.10.1 | Ahwoo Limited | Native notcurses libraries. |
+| 2026-10-23 04:36:21 | [Ahwoo.BRUTAL.OpenAl.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.OpenAl.Native) | 2026.10.3 | Ahwoo Limited | Native OpenAL Soft libraries. |
+| 2026-10-23 04:36:22 | [Ahwoo.BRUTAL.OpenGl.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.OpenGl.Native) | 2026.10.2 | Ahwoo Limited | Native glad OpenGL loader library. |
+| 2026-10-23 04:36:24 | [Ahwoo.BRUTAL.RakNet.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.RakNet.Native) | 2026.10.3 | Ahwoo Limited | Native RakNet libraries. |
+| 2026-10-23 04:36:30 | [Ahwoo.BRUTAL.Sdl.Image.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Image.Native) | 2026.10.3 | Ahwoo Limited | Native SDL_image libraries. |
+| 2026-10-23 04:36:32 | [Ahwoo.BRUTAL.Sdl.Mixer.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Mixer.Native) | 2026.10.3 | Ahwoo Limited | Native SDL_mixer libraries. |
+| 2026-10-23 04:36:33 | [Ahwoo.BRUTAL.Sdl.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Native) | 2026.10.3 | Ahwoo Limited | Native SDL3 libraries. |
+| 2026-10-23 04:36:36 | [Ahwoo.BRUTAL.Sdl.Ttf.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Sdl.Ttf.Native) | 2026.10.3 | Ahwoo Limited | Native SDL_ttf libraries. |
+| 2026-10-23 04:36:38 | [Ahwoo.BRUTAL.ShaderC.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.ShaderC.Native) | 2026.10.3 | Ahwoo Limited | Native shaderc libraries. |
+| 2026-10-23 04:36:42 | [Ahwoo.BRUTAL.Slang.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Slang.Native) | 2026.10.3 | Ahwoo Limited | Native Slang libraries. |
+| 2026-10-23 04:36:44 | [Ahwoo.BRUTAL.Stb.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Stb.Native) | 2026.10.3 | Ahwoo Limited | Native stb libraries. |
+| 2026-10-23 04:36:48 | [Ahwoo.BRUTAL.Vulkan.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Vulkan.Native) | 2026.10.3 | Ahwoo Limited | Native VulkanEx helper libraries for the Vulkan API bindings. |
+| 2026-10-23 04:36:50 | [Ahwoo.BRUTAL.Vulkan.Vma.Native](https://www.nuget.org/packages/Ahwoo.BRUTAL.Vulkan.Vma.Native) | 2026.10.3 | Ahwoo Limited | Native Vulkan Memory Allocator (VMA) libraries. |
+| 2026-10-23 04:44:12 | [BeneficialStrategies.Iso20022.Factory](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Factory) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | Objects for the ISO 20022 interfaces, made at run time: ask for an interface an… |
+| 2026-10-23 04:48:13 | [SilverDigits.DotNet.PostBuildSigning](https://www.nuget.org/packages/SilverDigits.DotNet.PostBuildSigning) | 1.0.0 | SilverDigits | Conditionally Authenticode-signs .NET assemblies after build with a code-signin… |
 
 ## Data source
 

@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-10-23T04:29:45.203Z,Kiwi.Native,0.1.0,fuseraft,Write Kiwi native extensions in C#. Mark static methods with [KiwiFunction] and publish with native AOT; a source generator exports kiwi_ext_init and converts arguments and results.
+2026-10-23T04:32:43.603Z,Minos.NET.Recording,1.3.0,Marcel Roozekrans,"A decision recorder for Minos.NET: every decision is written, with its question set, state, answers and usage, to a JSONL file or your own sink, and the file is read back with its outcomes and erasures applied. Native AOT-compatible."
+2026-10-23T04:35:45.65Z,Ahwoo.BRUTAL.Box2D.Native,2026.10.2,Ahwoo Limited,Native Box2D libraries.
+2026-10-23T04:35:51.72Z,Ahwoo.BRUTAL.Glfw.Native,2026.10.5,Ahwoo Limited,Native GLFW libraries.
+2026-10-23T04:35:53.29Z,Ahwoo.BRUTAL.Gli.Native,2026.10.2,Ahwoo Limited,Native GLI libraries.
+2026-10-23T04:35:58.7Z,Ahwoo.BRUTAL.ImGui.FreeType.Native,2026.10.3,Ahwoo Limited,Native Dear ImGui FreeType font rasterizer library.
+2026-10-23T04:35:59.71Z,Ahwoo.BRUTAL.ImGui.Native,2026.10.3,Ahwoo Limited,Native Dear ImGui library.
+2026-10-23T04:36:03.68Z,Ahwoo.BRUTAL.ImPlot.Native,2026.10.3,Ahwoo Limited,Native ImPlot library.
+2026-10-23T04:36:06.667Z,Ahwoo.BRUTAL.Jolt.Native,2026.10.4,Ahwoo Limited,Native Jolt Physics libraries.
+2026-10-23T04:36:08.53Z,Ahwoo.BRUTAL.Ktx.Native,2026.10.2,Ahwoo Limited,Native KTX-Software (libktx) libraries.
+2026-10-23T04:36:13.167Z,Ahwoo.BRUTAL.MeshOptimizer.Native,2026.10.2,Ahwoo Limited,Native meshoptimizer libraries.
+2026-10-23T04:36:16.393Z,Ahwoo.BRUTAL.NativeFileDialog.Native,2026.10.3,Ahwoo Limited,Native nativefiledialog-extended libraries.
+2026-10-23T04:36:18.377Z,Ahwoo.BRUTAL.NotCurses.Native,2026.10.1,Ahwoo Limited,Native notcurses libraries.
+2026-10-23T04:36:21.327Z,Ahwoo.BRUTAL.OpenAl.Native,2026.10.3,Ahwoo Limited,Native OpenAL Soft libraries.
+2026-10-23T04:36:22.963Z,Ahwoo.BRUTAL.OpenGl.Native,2026.10.2,Ahwoo Limited,Native glad OpenGL loader library.
+2026-10-23T04:36:24.607Z,Ahwoo.BRUTAL.RakNet.Native,2026.10.3,Ahwoo Limited,Native RakNet libraries.
+2026-10-23T04:36:30.75Z,Ahwoo.BRUTAL.Sdl.Image.Native,2026.10.3,Ahwoo Limited,Native SDL_image libraries.
+2026-10-23T04:36:32.5Z,Ahwoo.BRUTAL.Sdl.Mixer.Native,2026.10.3,Ahwoo Limited,Native SDL_mixer libraries.
+2026-10-23T04:36:33.853Z,Ahwoo.BRUTAL.Sdl.Native,2026.10.3,Ahwoo Limited,Native SDL3 libraries.
+2026-10-23T04:36:36.033Z,Ahwoo.BRUTAL.Sdl.Ttf.Native,2026.10.3,Ahwoo Limited,Native SDL_ttf libraries.
+2026-10-23T04:36:38.27Z,Ahwoo.BRUTAL.ShaderC.Native,2026.10.3,Ahwoo Limited,Native shaderc libraries.
+2026-10-23T04:36:42.65Z,Ahwoo.BRUTAL.Slang.Native,2026.10.3,Ahwoo Limited,Native Slang libraries.
+2026-10-23T04:36:44.243Z,Ahwoo.BRUTAL.Stb.Native,2026.10.3,Ahwoo Limited,Native stb libraries.
+2026-10-23T04:36:48.98Z,Ahwoo.BRUTAL.Vulkan.Native,2026.10.3,Ahwoo Limited,Native VulkanEx helper libraries for the Vulkan API bindings.
+2026-10-23T04:36:50.543Z,Ahwoo.BRUTAL.Vulkan.Vma.Native,2026.10.3,Ahwoo Limited,Native Vulkan Memory Allocator (VMA) libraries.
+2026-10-23T04:44:12.99Z,BeneficialStrategies.Iso20022.Factory,1.0.0-alpha,"Jeff Ward,Beneficial Strategies","Objects for the ISO 20022 interfaces, made at run time: ask for an interface and the Factory builds a class that implements it, fills it from XML or JSON, and gives it value equality."
+2026-10-23T04:48:13.34Z,SilverDigits.DotNet.PostBuildSigning,1.0.0,SilverDigits,Conditionally Authenticode-signs .NET assemblies after build with a code-signing certificate from the Windows certificate store.
