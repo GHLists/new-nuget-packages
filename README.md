@@ -12,24 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 08:21 UTC
+## Latest list — 2026-10-23 09:22 UTC
 
-New packages created between 2026-10-23 07:20 UTC and 2026-10-23 08:21 UTC.
+New packages created between 2026-10-23 08:21 UTC and 2026-10-23 09:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-23T08-21-14-989096Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-23T09-22-20-520308Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-23 07:27:22 | [NuKnip](https://www.nuget.org/packages/NuKnip) | 0.1.0 | Harris Foster | A CI-friendly .NET tool that detects potentially unused top-level NuGet package… |
-| 2026-10-23 07:38:12 | [BigSurCorp.Propus](https://www.nuget.org/packages/BigSurCorp.Propus) | 0.1.0 | BigSur Corp. | Official .NET client for Propus (BigSur Corp.) — SQL, cache, streams, objects a… |
-| 2026-10-23 07:40:32 | [Bsft.Hosting.BackgroundWork](https://www.nuget.org/packages/Bsft.Hosting.BackgroundWork) | 2.2.0 | Bochmann Software GmbH | BSFT Framework background work without the web stack: run-once startup operatio… |
-| 2026-10-23 07:42:50 | [XtremeIdiots.Redirect.Api.Client.Testing](https://www.nuget.org/packages/XtremeIdiots.Redirect.Api.Client.Testing) | 1.0.1 | XtremeIdiots | Thread-safe fake and DTO factory for XI Redirect Manager consumers. |
-| 2026-10-23 07:42:51 | [XtremeIdiots.Redirect.Api.Abstractions.V1](https://www.nuget.org/packages/XtremeIdiots.Redirect.Api.Abstractions.V1) | 1.0.1 | XtremeIdiots | Version one contracts for XI Redirect Manager. |
-| 2026-10-23 07:42:52 | [XtremeIdiots.Redirect.Api.Client.V1](https://www.nuget.org/packages/XtremeIdiots.Redirect.Api.Client.V1) | 1.0.1 | XtremeIdiots | Typed MX API client for XI Redirect Manager. |
-| 2026-10-23 07:49:30 | [BeneficialStrategies.Iso20022.Messages.Records](https://www.nuget.org/packages/BeneficialStrategies.Iso20022.Messages.Records) | 1.0.0-alpha | Jeff Ward,Beneficial Strategi… | The records of every ISO 20022 message, component and choice, written at compil… |
-| 2026-10-23 08:03:01 | [Glubus.MinaCalc](https://www.nuget.org/packages/Glubus.MinaCalc) | 1.0.0 | MinaCalc | .NET bindings for MinaCalc's stable Rust C ABI |
-| 2026-10-23 08:10:23 | [Ansight.Pencil](https://www.nuget.org/packages/Ansight.Pencil) | 1.9.0 | Ansight AI | Optional, explicitly enabled Pencil input simulation for Ansight on iOS Simulat… |
-| 2026-10-23 08:11:55 | [Yzl.Extensions.Cache.Redis](https://www.nuget.org/packages/Yzl.Extensions.Cache.Redis) | 0.2.0 | YZL | Redis backend for Yzl.Extensions.Cache |
+| 2026-10-23 08:21:22 | [LocalizationRuntime](https://www.nuget.org/packages/LocalizationRuntime) | 0.1.0 | FlyingEyeOrg | 编译期固化多语言资源的 .NET 本地化运行时：运行时零文件 IO，按 CultureInfo 链回退取值。 |
+| 2026-10-23 08:21:24 | [LocalizationRuntime.Generator](https://www.nuget.org/packages/LocalizationRuntime.Generator) | 0.1.0 | FlyingEyeOrg | LocalizationRuntime 的 Roslyn 增量生成器：把 Localization/*.json 编译成常量数组。 |
+| 2026-10-23 08:28:27 | [UVision.Client](https://www.nuget.org/packages/UVision.Client) | 0.4.0 | iyulab | Typed HTTP client for the U-Vision judgment engine, generated from its OpenAPI… |
+| 2026-10-23 08:32:19 | [Bathos.Platform](https://www.nuget.org/packages/Bathos.Platform) | 1.0.0 | Bathos Labs | Toolkit-independent native capability contracts and atomic staged file publicat… |
+| 2026-10-23 08:32:20 | [Bathos.Platform.Linux](https://www.nuget.org/packages/Bathos.Platform.Linux) | 1.0.0 | Bathos Labs | Experimental Linux native capabilities for .NET 10: statx regular-file inspecti… |
+| 2026-10-23 08:32:20 | [Bathos.Platform.MacOS](https://www.nuget.org/packages/Bathos.Platform.MacOS) | 1.0.0 | Bathos Labs | macOS native capabilities for .NET 10: atomic file rename and replacement, regu… |
+| 2026-10-23 08:32:21 | [Bathos.Platform.Windows](https://www.nuget.org/packages/Bathos.Platform.Windows) | 1.0.0 | Bathos Labs | Windows native capabilities for .NET 10: atomic file rename and replacement, re… |
+| 2026-10-23 08:45:44 | [ShellIcons.Avalonia](https://www.nuget.org/packages/ShellIcons.Avalonia) | 0.2.0-alpha | shellui-dev | Lucide-derived icons for Avalonia, drawn straight to the DrawingContext. Typed… |
+| 2026-10-23 08:45:47 | [ShellIcons.Maui](https://www.nuget.org/packages/ShellIcons.Maui) | 0.2.0-alpha | shellui-dev | Lucide-derived icons for .NET MAUI as native Path shapes. Typed controls, an Ic… |
+| 2026-10-23 08:47:07 | [TTT.Azure.Vault.ConfigurationBuilder](https://www.nuget.org/packages/TTT.Azure.Vault.ConfigurationBuilder) | 1.0.0 | TTT.Azure.Vault.Configuration… | Package Description |
+| 2026-10-23 08:54:56 | [MeroMiti](https://www.nuget.org/packages/MeroMiti) | 1.0.0 | Inline Tech Solution | Universal Bikram Sambat (B.S.) Nepali calendar engine and date converter for .N… |
 
 ## Data source
 
