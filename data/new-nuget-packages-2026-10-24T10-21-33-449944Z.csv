@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-24T09:20:42.013Z,DWIS.RigOS.Contracts.WellBoreArchitecture,1.0.0,DWIS.RigOS.Contracts.WellBoreArchitecture,"Versioned OSDC WellBoreArchitecture Blackboard JSON schema, metadata and document URLs."
+2026-10-24T09:33:49.56Z,Wpf.Zen.Ui,1.0.0,thezendev.com,"WPF controls, themes, navigation, and dialogs for .NET Framework 4.7.2 and .NET 8 or later. An independently maintained and refactored fork of WPF UI."
+2026-10-24T09:33:59.403Z,Wpf.Zen.Ui.DependencyInjection,1.0.0,thezendev.com,Dependency injection for the WPF Zen UI.
+2026-10-24T09:51:18.52Z,SlashMark.NuGetSuite,1.0.0,Slash Mark IT Solutions,".NET Package Intelligence Suite: 30 advanced terminal tools for NuGet supply-chain security, license governance, dependency analysis, public API diffs, AOT readiness, upgrade planning and CI policy gates. Zero dependencies, --json on every tool."
+2026-10-24T09:57:33.05Z,OfficeIMO.JavaScript.Assets,3.5.2,Przemyslaw Klys,Embedded classic scripts and standalone modules built from the OfficeIMO TypeScript document libraries.
+2026-10-24T10:00:33.73Z,Tarjamot,0.1.1,Filip Navara,"Local machine translation with the Firefox Translations (Bergamot) models in pure .NET: int8 Marian inference matching Firefox's engine, model download from Mozilla, pivoting through English, and HTML with inline markup."
+2026-10-24T10:05:43.193Z,Arc56.Generated.Purnesh24.Pit-Crew,1.0.1.2026102410,Purnesh24,Generated ARC-56 Algorand smart-contract clients for Purnesh24/Pit-Crew.
+2026-10-24T10:05:58.04Z,Arc56.Generated.vyas-t.algosphere,1.0.1.2026102410,vyas-t,Generated ARC-56 Algorand smart-contract clients for vyas-t/algosphere.
+2026-10-24T10:06:05.543Z,MitMediator.InMemoryCache.Abstractions,10.0.0-alfa,MitMediator.InMemoryCache.Abstractions,An attribute-driven in-memory caching extension for the MitMediator
+2026-10-24T10:10:42.033Z,Juice.EventBus.NATS,10.5.1,Creatorflow.io,NATS JetStream implementation for EventBus
+2026-10-24T10:10:49.067Z,Bsa.SyslogNet.Client,6.0.0,"Andrew Smith,Bsa",".NET 6 / .NET Standard 2.0 fork of SyslogNet.Client — .Net Syslog client. Supports both RFC 3164 and RFC 5424 Syslog standards as well as UDP, TCP and encrypted TCP (TLS) transports. Drop-in replacement: keeps the SyslogNet.Client assembly name and namespace."
