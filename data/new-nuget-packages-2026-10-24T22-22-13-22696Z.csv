@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-24T21:20:16.72Z,LightReactive.Avalonia,1.0.0,LightReactive.Avalonia contributors,"A lightweight reactive core for Avalonia: notifying objects and the [Reactive] generator, subjects and operators, property observation, validation, commands and a collection with batch operations"
+2026-10-24T21:27:41.647Z,NGB.Platform.Mcp,3.3.0,NGB Platform,Read-only Model Context Protocol integration for NGB Platform.
+2026-10-24T21:27:42.763Z,NGB.Platform.Mcp.AspNetCore,3.3.0,NGB Platform,Read-only Model Context Protocol integration for NGB Platform.
+2026-10-24T21:27:43.83Z,NGB.Platform.AiAssistant,3.3.0,NGB Platform,NGB Platform AI Assistant.
+2026-10-24T21:27:45.013Z,NGB.Platform.AiAssistant.AspNetCore,3.3.0,NGB Platform,NGB Platform AI Assistant AspNetCore.
+2026-10-24T21:27:46.263Z,NGB.Platform.AiAssistant.Ollama,3.3.0,NGB Platform,NGB Platform AI Assistant Ollama.
+2026-10-24T21:27:47.477Z,NGB.Platform.AiAssistant.OpenAI,3.3.0,NGB Platform,NGB Platform AI Assistant OpenAI.
+2026-10-24T21:27:48.61Z,NGB.Platform.AiAssistant.Anthropic,3.3.0,NGB Platform,NGB Platform AI Assistant Anthropic.
+2026-10-24T21:27:49.78Z,NGB.Platform.AiAssistant.Bedrock,3.3.0,NGB Platform,NGB Platform AI Assistant Bedrock.
+2026-10-24T21:29:55.67Z,webresource_generator,1.1.296.1303,Jono,"Generate HTML/CSS and image web resources: design form banners and buttons, write custom HTML/CSS with a live preview, create icons and SVG icons, upload images, and browse existing web resources."
+2026-10-24T21:33:28.403Z,MasoApps.Messaging.Nats,6.0.0,Maso Apps,"NATS JetStream messaging for .NET hosts: attribute-based durable consumers, acked publishing with retries, message schedules, a dead-letter stream with replay, health checks and OpenTelemetry."
+2026-10-24T21:35:46.667Z,Mecesoft.ObjectMapper,1.0.0,Mecesoft,"Minimal, reflection-based object mapper for .NET."
+2026-10-24T21:35:47.85Z,Mecesoft.ObjectMapper.DependencyInjection,1.0.0,Mecesoft,Microsoft.Extensions.DependencyInjection integration for Mecesoft.ObjectMapper.
+2026-10-24T21:44:49.607Z,XmlAuditfile,0.0.2-alpha,XML-auditfile,"Streaming reader for Dutch tax audit files (XAF and related), following auditfile-spec."
+2026-10-24T21:44:50.4Z,XmlAuditfile.Memory,0.0.2-alpha,XML-auditfile,"In-memory sink for XmlAuditfile: keeps all rows per table. Useful for tests, small files and the browser."
+2026-10-24T21:50:25.073Z,Codemetr.CSharp.Tool,0.0.1,codemetr,"codemetr-csharp command line: C# code metrics per class and member as JSON, with a guard and ratchet baseline for local runs and CI."
+2026-10-24T21:54:25.763Z,Workes.ConsoleSystem.Microsoft.Extensions.Logging,1.0.0,Workes,Microsoft.Extensions.Logging provider that forwards records to Workes.ConsoleSystem.
+2026-10-24T21:59:02.18Z,PlatformHeads.Linux,0.7.0,https://github.com/SimonCropp/PlatformHeads/graphs/contributors,"The Linux tray of an app with one head per platform: a StatusNotifierItem with a dbusmenu, over D-Bus in managed code, with no GTK."
+2026-10-24T22:12:39.55Z,Arc4u.Cyphertool.linux-arm64,2.0.0-pre01,Gilles Flisch,Package Description
+2026-10-24T22:12:40.657Z,Arc4u.Cyphertool.linux-x64,2.0.0-pre01,Gilles Flisch,Package Description
+2026-10-24T22:12:41.613Z,Arc4u.Cyphertool.osx-arm64,2.0.0-pre01,Gilles Flisch,Package Description
+2026-10-24T22:12:42.627Z,Arc4u.Cyphertool.osx-x64,2.0.0-pre01,Gilles Flisch,Package Description
+2026-10-24T22:14:30.59Z,WpfVisualTreeMcp.Automation,0.18.0,faze79,"Drive and inspect WPF applications from C# tests: attach, AutomationId locators, mouse and touch actions, exact property waits, recording and replay."
