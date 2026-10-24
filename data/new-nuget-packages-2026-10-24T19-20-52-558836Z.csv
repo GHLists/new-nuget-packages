@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-24T18:35:02.527Z,SLD.Serialization.Binary,2.3.18,Andreas Hassmann,Simple serialization of object graphs
+2026-10-24T18:35:04.83Z,SLD.Serialization.Compression,2.3.18,Andreas Hassmann,Wrapper around stdzstd compression implemented by
+2026-10-24T18:35:07.15Z,SLD.Serialization.Hash,2.3.18,"Crauzer, Andreas Hassmann","XXHash3 algorithm SLD namespacing fork of XXHash3.NET by Crauzer, adding streams"
+2026-10-24T18:36:24.747Z,SLD.Generative.Code.Generator,1.0.31,Andreas Hassmann,SLD Code Generation
+2026-10-24T18:36:27.15Z,SLD.Generative.MetaModel,1.0.31,Andreas Hassmann,SLD MetaModel
+2026-10-24T18:36:29.91Z,SLD.Generative.Model,1.0.31,Andreas Hassmann,Code Generation for Models
+2026-10-24T18:39:25.153Z,Adamantium.Vulkan.ShaderObjectLayer,1.0.0,Adamantium Studio,"Khronos' VK_LAYER_KHRONOS_shader_object (Vulkan-ExtensionLayer), built for Windows x64, Linux x64 and macOS arm64: VK_EXT_shader_object on a driver that does not have it, over pipelines it makes itself. Copied beside the application under vulkan/layers/<rid>/. Apache-2.0 - see THIRD-PARTY-NOTICES.m…"
+2026-10-24T19:00:49.68Z,AfrenAI.Mosaic,0.3.0,AFREN AI,"Bounded tool workflow execution with host-owned capability checks, protocol hosting, and process workers."
+2026-10-24T19:00:50.21Z,AfrenAI.Mosaic.Mcp,0.3.0,AFREN AI,MCP server tool adapter for the MOSAIC bounded workflow engine.
+2026-10-24T19:03:55.18Z,Newfoundcodes.Amaquet,0.1.0,Newfoundcodes,"Official .NET client SDK for the Amaquet data server, including native TCP/TLS communication, typed data operations, and HTTP administration."
+2026-10-24T19:06:33.29Z,CurlDotNet,9.8.0,"Jacob Mellor,IronSoftware,Daniel Stenberg and curl contributors","🚀 THE KILLER FEATURE: Copy and paste any curl command - it just works! CurlDotNet brings the power of curl to .NET. Simply paste any curl command string and execute it directly. No translation needed, no shell execution, pure .NET. ✨ Key Features: • Paste ANY curl command - works with or without ""c…"
