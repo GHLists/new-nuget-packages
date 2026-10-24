@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-10-24T04:25:23.897Z,Webority.Delivery.EntityFrameworkCore,0.18.0,Webority Technologies,"The scoped factory in front of a pooled EF Core context factory that runs per-request lease initializers on every borrowed context, with the raw pool kept under a key for long-lived services."
+2026-10-24T04:28:07.153Z,NacreCraft.ModBuild.Tools,1.7.0,NacreCraft Contributors,NacreCraft mod development helper tools
+2026-10-24T04:28:10.917Z,NacreCraft.ModsProjectType,1.7.0,NacreCraft Contributors,"NacreCraft mod project template, create with dotnet new ncm"
+2026-10-24T04:33:23.22Z,Octeka.Cartographer,1.0.0,Patrick Robichaud (operating as OCTEKA),"Multi-language REST API client library generator CLI from OpenAPI, Swagger, and TypeSpec specifications."
+2026-10-24T04:33:23.817Z,Octeka.Cartographer.Abstractions,1.0.0,Patrick Robichaud (operating as OCTEKA),"Core abstractions, domain models, driver and writer contracts for the Octeka.Cartographer API generator engine."
+2026-10-24T04:33:24.407Z,Octeka.Cartographer.Core,1.0.0,Patrick Robichaud (operating as OCTEKA),"Core generation engine, OpenAPI reader, and orchestration for Octeka.Cartographer."
+2026-10-24T04:33:25.047Z,Octeka.Cartographer.Drivers.C.LibCurl,1.0.0,Patrick Robichaud (operating as OCTEKA),C libcurl and cJSON client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:25.74Z,Octeka.Cartographer.Drivers.Cpp.Cpr,1.0.0,Patrick Robichaud (operating as OCTEKA),C++ CPR (libcurl-based) client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:26.313Z,Octeka.Cartographer.Drivers.Go.Standard,1.0.0,Patrick Robichaud (operating as OCTEKA),Go standard library net/http client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:26.92Z,Octeka.Cartographer.Drivers.HttpClient,1.0.0,Patrick Robichaud (operating as OCTEKA),Standard System.Net.Http.HttpClient code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:27.593Z,Octeka.Cartographer.Drivers.OctekaRest,1.0.0,Patrick Robichaud (operating as OCTEKA),Octeka.Networking.Http.Rest client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:28.243Z,Octeka.Cartographer.Drivers.Python.Httpx,1.0.0,Patrick Robichaud (operating as OCTEKA),Python httpx client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:28.877Z,Octeka.Cartographer.Drivers.RestSharp,1.0.0,Patrick Robichaud (operating as OCTEKA),RestSharp client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:29.52Z,Octeka.Cartographer.Drivers.Ruby.Faraday,1.0.0,Patrick Robichaud (operating as OCTEKA),Ruby Faraday HTTP client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:30.18Z,Octeka.Cartographer.Drivers.Rust.Reqwest,1.0.0,Patrick Robichaud (operating as OCTEKA),Rust reqwest HTTP client code generation driver for Octeka.Cartographer.
+2026-10-24T04:33:30.767Z,Octeka.Cartographer.Drivers.TypeScript.Fetch,1.0.0,Patrick Robichaud (operating as OCTEKA),TypeScript standard Fetch HTTP driver for Octeka.Cartographer.
+2026-10-24T04:33:31.35Z,Octeka.Cartographer.Writers.C.Flat,1.0.0,Patrick Robichaud (operating as OCTEKA),Pure C procedural client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:32.01Z,Octeka.Cartographer.Writers.Cpp.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),Modern C++ fluent client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:32.57Z,Octeka.Cartographer.Writers.Flat,1.0.0,Patrick Robichaud (operating as OCTEKA),Flat API client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:33.13Z,Octeka.Cartographer.Writers.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),Fluent API client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:33.737Z,Octeka.Cartographer.Writers.Go.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),Go fluent client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:34.367Z,Octeka.Cartographer.Writers.Python.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),Python fluent client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:35.06Z,Octeka.Cartographer.Writers.Ruby.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),Ruby fluent client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:35.68Z,Octeka.Cartographer.Writers.Rust.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),Rust fluent client library code writer for Octeka.Cartographer.
+2026-10-24T04:33:36.3Z,Octeka.Cartographer.Writers.TypeScript.Fluent,1.0.0,Patrick Robichaud (operating as OCTEKA),TypeScript fluent client library code writer for Octeka.Cartographer.
+2026-10-24T05:08:00.05Z,Vompa.McpTime,0.1.0,vompa,MCP server (stdio) with two read-only tools: current time in an IANA timezone and time conversion between timezones.
