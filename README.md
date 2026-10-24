@@ -12,30 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 15:21 UTC
+## Latest list — 2026-10-24 16:20 UTC
 
-New packages created between 2026-10-24 14:20 UTC and 2026-10-24 15:21 UTC.
+New packages created between 2026-10-24 15:21 UTC and 2026-10-24 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-24T15-21-42-041738Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-24T16-20-38-333003Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 14:25:02 | [MultiPlug.Ext.ModbusTCP](https://www.nuget.org/packages/MultiPlug.Ext.ModbusTCP) | 0.0.1 | 4IR.UK | Use Modbus TCP with this MultiPlug Extension |
-| 2026-10-24 14:47:45 | [Squora.Forms.Blazor.MudBlazorComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.MudBlazorComponents) | 1.1.0 | Squora | MudBlazor implementation of the Squora Forms Blazor components. |
-| 2026-10-24 14:47:45 | [Squora.Forms.Ai.Mcp](https://www.nuget.org/packages/Squora.Forms.Ai.Mcp) | 1.1.0 | Squora | MCP (Model Context Protocol) adapter for SquoraForms Hub. Exposes form definiti… |
-| 2026-10-24 14:47:46 | [Squora.Forms.Blazor.Extensions](https://www.nuget.org/packages/Squora.Forms.Blazor.Extensions) | 1.1.0 | Squora | Dependency-injection registration (`AddSquoraForms`) and component registry for… |
-| 2026-10-24 14:47:46 | [Squora.Forms.Blazor.SyncfusionComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.SyncfusionComponents) | 1.1.0 | Squora | Syncfusion implementation of the Squora Forms Blazor components. Requires your… |
-| 2026-10-24 14:47:47 | [Squora.Forms.Blazor.Actions](https://www.nuget.org/packages/Squora.Forms.Blazor.Actions) | 1.1.0 | Squora | Form action components (submit, reset, custom actions) for Squora Forms on Blaz… |
-| 2026-10-24 14:47:47 | [Squora.Forms.Core](https://www.nuget.org/packages/Squora.Forms.Core) | 1.1.0 | Squora | Framework-neutral form model, rules engine and parsing for Squora Forms. No Bla… |
-| 2026-10-24 14:47:47 | [Squora.Forms.UISchema](https://www.nuget.org/packages/Squora.Forms.UISchema) | 1.1.0 | Squora | UI Schema model, builders and converters describing how a form is laid out in S… |
-| 2026-10-24 14:47:48 | [Squora.Forms.Common](https://www.nuget.org/packages/Squora.Forms.Common) | 1.1.0 | Squora | Shared enums and helpers used by the Squora Forms packages. |
-| 2026-10-24 14:47:48 | [Squora.Forms.Blazor](https://www.nuget.org/packages/Squora.Forms.Blazor) | 1.1.0 | Squora | Blazor renderer base for Squora Forms: form component, layout and state service… |
-| 2026-10-24 14:47:49 | [Squora.Forms.Contracts](https://www.nuget.org/packages/Squora.Forms.Contracts) | 1.1.0 | Squora | Interfaces for Squora Forms schema and scope providers. |
-| 2026-10-24 14:47:49 | [Squora.Forms.Blazor.HtmlComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.HtmlComponents) | 1.1.0 | Squora | Plain HTML implementation of the Squora Forms Blazor components. No third-party… |
-| 2026-10-24 14:47:49 | [Squora.Forms.JsonSchema](https://www.nuget.org/packages/Squora.Forms.JsonSchema) | 1.1.0 | Squora | JSON Schema generation and handling for Squora Forms. |
-| 2026-10-24 14:47:50 | [Squora.Forms.Ai.OpenAiTools](https://www.nuget.org/packages/Squora.Forms.Ai.OpenAiTools) | 1.1.0 | Squora | OpenAI and Anthropic tool definition generator for SquoraForms Hub forms. Auto-… |
-| 2026-10-24 14:47:50 | [Squora.Forms.Blazor.RadzenComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.RadzenComponents) | 1.1.0 | Squora | Radzen implementation of the Squora Forms Blazor components. |
-| 2026-10-24 14:47:51 | [Squora.Forms.Blazor.Components](https://www.nuget.org/packages/Squora.Forms.Blazor.Components) | 1.1.0 | Squora | Abstract Blazor field and layout components that the Squora Forms UI framework… |
+| 2026-10-24 15:32:15 | [HaramFarooq.MyMathLibrary](https://www.nuget.org/packages/HaramFarooq.MyMathLibrary) | 1.0.0 | Haramlibrary | A reusable C# math library. |
+| 2026-10-24 15:32:26 | [AvaloniaLight.Reactive](https://www.nuget.org/packages/AvaloniaLight.Reactive) | 1.0.0 | AvaloniaLight.Reactive contri… | A lightweight reactive core for Avalonia: notifying objects and the [Reactive]… |
+| 2026-10-24 15:39:53 | [BlockCount](https://www.nuget.org/packages/BlockCount) | 1.17.0 | Farshadudheen k | Add powerful validation rules to Umbraco Block List content, helping editors en… |
+| 2026-10-24 15:41:26 | [ISO22900.II-Sharp.Abstractions](https://www.nuget.org/packages/ISO22900.II-Sharp.Abstractions) | 1.4.0-beta | Joerg Frank | Interfaces (IDiagPduApiOneSysLevel, IModule, IComLogicalLink, IComPrimitive), d… |
+| 2026-10-24 15:54:22 | [Specrig.Reqnroll](https://www.nuget.org/packages/Specrig.Reqnroll) | 0.1.0 | Denis Daschenko | Binds the specrig harness to Reqnroll: the step a record belongs to, the checks… |
+| 2026-10-24 15:54:23 | [Specrig.Surface](https://www.nuget.org/packages/Specrig.Surface) | 0.1.0 | Denis Daschenko | The Roslyn pass behind specrig's tests/surface.yaml and tests/checks.yaml: what… |
+| 2026-10-24 15:54:23 | [Specrig.Postgres](https://www.nuget.org/packages/Specrig.Postgres) | 0.1.0 | Denis Daschenko | Postgres as a specrig resource: a real database in a container, provisioned onc… |
+| 2026-10-24 15:54:24 | [Specrig.RabbitMQ](https://www.nuget.org/packages/Specrig.RabbitMQ) | 0.1.0 | Denis Daschenko | Events in and out over RabbitMQ.Client for the specrig harness, in process: wha… |
+| 2026-10-24 15:54:24 | [Specrig.Grpc](https://www.nuget.org/packages/Specrig.Grpc) | 0.1.0 | Denis Daschenko | gRPC both ways for the specrig harness: a typed client to the service, and a ne… |
+| 2026-10-24 15:54:25 | [Specrig.Tool](https://www.nuget.org/packages/Specrig.Tool) | 0.1.0 | Denis Daschenko | The specrig dotnet tool: init lays a specification-first suite out beside a ser… |
+| 2026-10-24 15:54:26 | [Specrig.Hosting](https://www.nuget.org/packages/Specrig.Hosting) | 0.1.0 | Denis Daschenko | The specrig harness for any service on the Generic Host: boots Program, answers… |
+| 2026-10-24 15:54:26 | [Specrig](https://www.nuget.org/packages/Specrig) | 0.1.0 | Denis Daschenko | The core of specrig for .NET, independent of the host: the records, the contrac… |
+| 2026-10-24 15:54:26 | [Specrig.Redis](https://www.nuget.org/packages/Specrig.Redis) | 0.1.0 | Denis Daschenko | Redis as a specrig resource: a real server in a container, provisioned once per… |
+| 2026-10-24 15:54:27 | [Specrig.Quartz](https://www.nuget.org/packages/Specrig.Quartz) | 0.1.0 | Denis Daschenko | A Quartz job run in a specrig case as the scheduler runs it, with the detail th… |
+| 2026-10-24 15:54:44 | [AnointedAutomation.SSO.UI](https://www.nuget.org/packages/AnointedAutomation.SSO.UI) | 1.0.0 | Anointed Automation LLC, Alex… | Front end for Sign in with Anointed Automation in ASP.NET Core: brand-styled ac… |
+| 2026-10-24 15:54:45 | [AnointedAutomation.Templates](https://www.nuget.org/packages/AnointedAutomation.Templates) | 1.0.0 | Anointed Automation LLC, Alex… | dotnet new templates for Sign in with Anointed Automation: anointed-razor (Razo… |
+| 2026-10-24 15:54:51 | [AnointedAutomation.SSO.Owin](https://www.nuget.org/packages/AnointedAutomation.SSO.Owin) | 1.0.0 | Anointed Automation LLC, Alex… | Sign in with Anointed Automation for classic ASP.NET (.NET Framework 4.7.2+, MV… |
+| 2026-10-24 16:00:14 | [Hipsy.Net](https://www.nuget.org/packages/Hipsy.Net) | 1.0.0 | Paul Appeldoorn | Unofficial typed .NET client for the Hipsy API (https://docs.hipsy.nl). Not aff… |
+| 2026-10-24 16:08:51 | [PinkRooster.Extensions.AI.Antigravity](https://www.nuget.org/packages/PinkRooster.Extensions.AI.Antigravity) | 0.1.0 | PinkRooster | Microsoft.Extensions.AI chat client for Google Antigravity (agy). |
+| 2026-10-24 16:08:53 | [Blasphemous.FrameRateUnlimiter](https://www.nuget.org/packages/Blasphemous.FrameRateUnlimiter) | 1.0.0 | NewbieElton | Enables frame rate customization (fixed/variable FPS) |
 
 ## Data source
 
