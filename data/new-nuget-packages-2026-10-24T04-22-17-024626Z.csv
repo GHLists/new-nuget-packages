@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-24T03:25:26.75Z,AnyCAD.Engineering.NET,2026.10.24.1110,AnyCAD Inc.,The professional engineering (FEM) toolkit for .NET developers.
+2026-10-24T03:25:30.11Z,AnyCAD.Manufacturing.NET,2026.10.24.1110,AnyCAD Inc.,The professional CAM toolpath toolkit for .NET developers.
+2026-10-24T03:51:29.633Z,Rulealize.Plugin.SqliteStore,1.0.0,Reny,"A store for a Rulealize rule set that keeps instances: every state document in one SQLite table, each with a version, so that two transitions that raced are told apart on commit and a position is where it was when the process starts again."
+2026-10-24T04:02:30.473Z,Divisionz.Scaffold.DB.Oracle,1.0.0-rc857,Isaychev Konstantin Mikhailovich,Package Description
+2026-10-24T04:10:51.747Z,Zespy.EzPlan.Integration.Client,1.1.1,Zespy,Management API-key client for ezPlan partner integrations.
+2026-10-24T04:10:54.717Z,Zespy.EzPlan.Integration.Contracts,1.1.1,Zespy,Partner-facing ezPlan integration contracts.
