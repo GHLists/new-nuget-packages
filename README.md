@@ -12,20 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 11:21 UTC
+## Latest list — 2026-10-24 12:21 UTC
 
-New packages created between 2026-10-24 10:21 UTC and 2026-10-24 11:21 UTC.
+New packages created between 2026-10-24 11:21 UTC and 2026-10-24 12:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-24T11-21-55-053645Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-24T12-21-45-961921Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 10:33:08 | [Snk.Net.Forms](https://www.nuget.org/packages/Snk.Net.Forms) | 10.4.0 | SNK | SNK .NET Forms - a UI-free form engine: versioned JSON form definitions, condit… |
-| 2026-10-24 10:33:22 | [Snk.Net.Server](https://www.nuget.org/packages/Snk.Net.Server) | 10.4.0 | SNK | SNK .NET Server Library |
-| 2026-10-24 10:40:06 | [Mentis.AI.Contracts](https://www.nuget.org/packages/Mentis.AI.Contracts) | 1.0.0 | Mentis.AI Contributors | gRPC contract (proto files and generated C# client/server stubs) of the Mentis.… |
-| 2026-10-24 10:52:49 | [SjolystInnovation.AppKit.Consent](https://www.nuget.org/packages/SjolystInnovation.AppKit.Consent) | 1.0.0 | Sjølyst Innovation AS | A pseudonymous, append-only log of the cookie consent choices a site's banner s… |
-| 2026-10-24 10:57:45 | [EfMigrationPack.Cli](https://www.nuget.org/packages/EfMigrationPack.Cli) | 1.0.3 | Paul Oliver | Command-line tool for packing EF Core migrations: "dotnet ef-pack pack" packs m… |
-| 2026-10-24 11:12:32 | [ThinkBase.AI.MPP](https://www.nuget.org/packages/ThinkBase.AI.MPP) | 1.0.2 | ThinkBase.AI | The server side of the Machine Payments Protocol (MPP) for ASP.NET Core MCP ser… |
+| 2026-10-24 11:29:02 | [AgentCrystal](https://www.nuget.org/packages/AgentCrystal) | 0.3.2 | YELANDAOKONG | Core provider-neutral contracts for text and multimodal model access, embedding… |
+| 2026-10-24 11:29:03 | [AgentCrystal.Agents](https://www.nuget.org/packages/AgentCrystal.Agents) | 0.3.2 | YELANDAOKONG | Text and multimodal model and tool loops with caller-configured limits. |
+| 2026-10-24 11:29:04 | [AgentCrystal.Decorators](https://www.nuget.org/packages/AgentCrystal.Decorators) | 0.3.2 | YELANDAOKONG | Middleware wrappers that preserve current Crystal client contracts and capabili… |
+| 2026-10-24 11:29:05 | [AgentCrystal.Harness](https://www.nuget.org/packages/AgentCrystal.Harness) | 0.3.2 | YELANDAOKONG | Composition of named Agents with shared caller-configured limits. |
+| 2026-10-24 11:29:06 | [AgentCrystal.Pipelines](https://www.nuget.org/packages/AgentCrystal.Pipelines) | 0.3.2 | YELANDAOKONG | Generic caller-owned middleware for typed asynchronous operations and event str… |
+| 2026-10-24 11:29:07 | [AgentCrystal.Tools](https://www.nuget.org/packages/AgentCrystal.Tools) | 0.3.2 | YELANDAOKONG | Text and multimodal tool registration, policy, and execution. Crystal supplies… |
+| 2026-10-24 11:29:08 | [AgentCrystal.Workflows](https://www.nuget.org/packages/AgentCrystal.Workflows) | 0.3.2 | YELANDAOKONG | Caller-defined typed workflow graphs with conditional edges and bounded concurr… |
+| 2026-10-24 11:29:41 | [WifiManager.MacVendors](https://www.nuget.org/packages/WifiManager.MacVendors) | 1.0.0 | exendahal | Names the manufacturer of a network adapter from its MAC address, offline, usin… |
+| 2026-10-24 11:31:58 | [Tarjamot.BergamotMarkup](https://www.nuget.org/packages/Tarjamot.BergamotMarkup) | 0.1.10 | Filip Navara | Firefox's HTML translation for Tarjamot: a port of Bergamot's HTML mode, which… |
+| 2026-10-24 11:32:22 | [Fable.Temporal](https://www.nuget.org/packages/Fable.Temporal) | 0.1.0 | Oliver Coad | Strongly typed Fable bindings for JavaScript Temporal, independent of compiler… |
+| 2026-10-24 11:41:25 | [Eryph.Mcp.Server](https://www.nuget.org/packages/Eryph.Mcp.Server) | 0.1.1 | dbosoft | stdio MCP server for eryph: create, run and inspect catlets with the user's ery… |
+| 2026-10-24 11:50:57 | [BitMagic.ClaudeBox.Cli](https://www.nuget.org/packages/BitMagic.ClaudeBox.Cli) | 0.1.1 | Yazwh0 | Named, colour-coded Claude Code sessions in Windows Terminal tabs that come bac… |
+| 2026-10-24 11:53:51 | [HotChocolate.CostAnalysis.Core](https://www.nuget.org/packages/HotChocolate.CostAnalysis.Core) | 16.7.0 | ChilliCream authors and contr… | The shared implementation of the IBM GraphQL cost specification: schema indexes… |
 
 ## Data source
 

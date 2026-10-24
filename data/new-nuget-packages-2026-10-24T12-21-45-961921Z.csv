@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-24T11:29:02.78Z,AgentCrystal,0.3.2,YELANDAOKONG,"Core provider-neutral contracts for text and multimodal model access, embeddings, media values, generation, and live media sessions."
+2026-10-24T11:29:03.687Z,AgentCrystal.Agents,0.3.2,YELANDAOKONG,Text and multimodal model and tool loops with caller-configured limits.
+2026-10-24T11:29:04.6Z,AgentCrystal.Decorators,0.3.2,YELANDAOKONG,Middleware wrappers that preserve current Crystal client contracts and capability profiles.
+2026-10-24T11:29:05.547Z,AgentCrystal.Harness,0.3.2,YELANDAOKONG,Composition of named Agents with shared caller-configured limits.
+2026-10-24T11:29:06.5Z,AgentCrystal.Pipelines,0.3.2,YELANDAOKONG,Generic caller-owned middleware for typed asynchronous operations and event streams.
+2026-10-24T11:29:07.463Z,AgentCrystal.Tools,0.3.2,YELANDAOKONG,"Text and multimodal tool registration, policy, and execution. Crystal supplies no concrete tools."
+2026-10-24T11:29:08.403Z,AgentCrystal.Workflows,0.3.2,YELANDAOKONG,Caller-defined typed workflow graphs with conditional edges and bounded concurrent steps.
+2026-10-24T11:29:41.44Z,WifiManager.MacVendors,1.0.0,exendahal,"Names the manufacturer of a network adapter from its MAC address, offline, using the IEEE MA-L registry (about 40,000 prefixes). No dependencies; works on any .NET platform: .NET Framework 4.6.1+, .NET 5 to 10, MAUI, WPF, WinForms, ASP.NET, Unity and Xamarin."
+2026-10-24T11:31:58.65Z,Tarjamot.BergamotMarkup,0.1.10,Filip Navara,"Firefox's HTML translation for Tarjamot: a port of Bergamot's HTML mode, which places the markup of HTML fragments along the model's alignments exactly as Firefox does. Use it with TranslationOptions.MarkupTranslator = BergamotMarkupTranslator.Instance."
+2026-10-24T11:32:22.317Z,Fable.Temporal,0.1.0,Oliver Coad,"Strongly typed Fable bindings for JavaScript Temporal, independent of compiler DateTime mappings."
+2026-10-24T11:41:25.973Z,Eryph.Mcp.Server,0.1.1,dbosoft,"stdio MCP server for eryph: create, run and inspect catlets with the user's eryph client credentials."
+2026-10-24T11:50:57.943Z,BitMagic.ClaudeBox.Cli,0.1.1,Yazwh0,"Named, colour-coded Claude Code sessions in Windows Terminal tabs that come back after a reboot."
+2026-10-24T11:53:51.797Z,HotChocolate.CostAnalysis.Core,16.7.0,ChilliCream authors and contributors,"The shared implementation of the IBM GraphQL cost specification: schema indexes, compiled cost plans and the pluggable analysis algebra consumed by HotChocolate and Fusion."
