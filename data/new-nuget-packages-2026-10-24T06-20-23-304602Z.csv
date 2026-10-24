@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-24T05:27:00.833Z,Douze.any,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:02.777Z,Douze.linux-arm64,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:04.74Z,Douze.linux-x64,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:06.683Z,Douze.osx-arm64,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:08.633Z,Douze.osx-x64,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:14.363Z,Douze.win-arm64,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:16.75Z,Douze.win-x64,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:27:17.8Z,Douze,0.2.0,Sebastien Ros,"Stupidly simple, blazing fast static site generator."
+2026-10-24T05:57:53.34Z,Qualithm.Platform,0.1.0,Qualithm,"C# client for the Qualithm Platform API, generated from its OpenAPI spec."
+2026-10-24T06:06:01.047Z,Tickwork.Utilities,1.0.0,Xavier Klausener,"The entities, managers and contracts of Tickwork, a background job scheduler for cron and time-based jobs in .NET. Forked from TickerQ 10.4.0."
+2026-10-24T06:06:01.833Z,Tickwork.Instrumentation.OpenTelemetry,1.0.0,Xavier Klausener,OpenTelemetry tracing for Tickwork jobs. Forked from TickerQ 10.4.0.
+2026-10-24T06:06:02.347Z,Tickwork,1.0.0,Xavier Klausener,"Tickwork is a background job scheduler for .NET: cron and time-based jobs, retries, priorities and chained jobs, persisted in memory or in your own database through EF Core. Forked from TickerQ 10.4.0."
+2026-10-24T06:10:32.353Z,Webority.Delivery.SpaHost,0.19.0,Webority Technologies,"A shared host for React single-page apps: serves the app's built files and applies its rules from spa-host.json in code, the same on Windows and Linux App Service. Deep-link fallback with excluded paths, rewrites, per-route Content-Security-Policy, cache and CORS paths, inline-script hashes compute…"
