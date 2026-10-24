@@ -12,19 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:20 UTC
+## Latest list — 2026-10-24 15:21 UTC
 
-New packages created between 2026-10-24 13:20 UTC and 2026-10-24 14:20 UTC.
+New packages created between 2026-10-24 14:20 UTC and 2026-10-24 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-24T14-20-41-001697Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-24T15-21-42-041738Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 13:37:02 | [Bitzsoft.Integrations.MobilePush](https://www.nuget.org/packages/Bitzsoft.Integrations.MobilePush) | 1.0.0 | Bitzsoft | 移动推送抽象层 — 统一通知、透传消息、设备查询与消息撤回契约（阿里云 EMAS） |
-| 2026-10-24 13:41:28 | [Bitzsoft.Integrations.MobilePush.Aliyun](https://www.nuget.org/packages/Bitzsoft.Integrations.MobilePush.Aliyun) | 1.0.0 | Bitzsoft | 阿里云移动推送（EMAS Push）实现 — 通知、透传消息、设备查询与消息撤回 |
-| 2026-10-24 13:45:53 | [HKW.FastMember.Generater](https://www.nuget.org/packages/HKW.FastMember.Generater) | 1.3.1 | HKW | Source-generated member access with an independent runtime. |
-| 2026-10-24 13:45:54 | [HKW.FastMember.Abstractions](https://www.nuget.org/packages/HKW.FastMember.Abstractions) | 1.3.1 | HKW | Backend-independent member access contracts and immutable metadata. |
-| 2026-10-24 13:46:28 | [Bitzsoft.Integrations.MobilePush.All](https://www.nuget.org/packages/Bitzsoft.Integrations.MobilePush.All) | 1.0.0 | Bitzsoft | 移动推送聚合包 — 按配置注册阿里云移动推送实现 |
+| 2026-10-24 14:25:02 | [MultiPlug.Ext.ModbusTCP](https://www.nuget.org/packages/MultiPlug.Ext.ModbusTCP) | 0.0.1 | 4IR.UK | Use Modbus TCP with this MultiPlug Extension |
+| 2026-10-24 14:47:45 | [Squora.Forms.Blazor.MudBlazorComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.MudBlazorComponents) | 1.1.0 | Squora | MudBlazor implementation of the Squora Forms Blazor components. |
+| 2026-10-24 14:47:45 | [Squora.Forms.Ai.Mcp](https://www.nuget.org/packages/Squora.Forms.Ai.Mcp) | 1.1.0 | Squora | MCP (Model Context Protocol) adapter for SquoraForms Hub. Exposes form definiti… |
+| 2026-10-24 14:47:46 | [Squora.Forms.Blazor.Extensions](https://www.nuget.org/packages/Squora.Forms.Blazor.Extensions) | 1.1.0 | Squora | Dependency-injection registration (`AddSquoraForms`) and component registry for… |
+| 2026-10-24 14:47:46 | [Squora.Forms.Blazor.SyncfusionComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.SyncfusionComponents) | 1.1.0 | Squora | Syncfusion implementation of the Squora Forms Blazor components. Requires your… |
+| 2026-10-24 14:47:47 | [Squora.Forms.Blazor.Actions](https://www.nuget.org/packages/Squora.Forms.Blazor.Actions) | 1.1.0 | Squora | Form action components (submit, reset, custom actions) for Squora Forms on Blaz… |
+| 2026-10-24 14:47:47 | [Squora.Forms.Core](https://www.nuget.org/packages/Squora.Forms.Core) | 1.1.0 | Squora | Framework-neutral form model, rules engine and parsing for Squora Forms. No Bla… |
+| 2026-10-24 14:47:47 | [Squora.Forms.UISchema](https://www.nuget.org/packages/Squora.Forms.UISchema) | 1.1.0 | Squora | UI Schema model, builders and converters describing how a form is laid out in S… |
+| 2026-10-24 14:47:48 | [Squora.Forms.Common](https://www.nuget.org/packages/Squora.Forms.Common) | 1.1.0 | Squora | Shared enums and helpers used by the Squora Forms packages. |
+| 2026-10-24 14:47:48 | [Squora.Forms.Blazor](https://www.nuget.org/packages/Squora.Forms.Blazor) | 1.1.0 | Squora | Blazor renderer base for Squora Forms: form component, layout and state service… |
+| 2026-10-24 14:47:49 | [Squora.Forms.Contracts](https://www.nuget.org/packages/Squora.Forms.Contracts) | 1.1.0 | Squora | Interfaces for Squora Forms schema and scope providers. |
+| 2026-10-24 14:47:49 | [Squora.Forms.Blazor.HtmlComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.HtmlComponents) | 1.1.0 | Squora | Plain HTML implementation of the Squora Forms Blazor components. No third-party… |
+| 2026-10-24 14:47:49 | [Squora.Forms.JsonSchema](https://www.nuget.org/packages/Squora.Forms.JsonSchema) | 1.1.0 | Squora | JSON Schema generation and handling for Squora Forms. |
+| 2026-10-24 14:47:50 | [Squora.Forms.Ai.OpenAiTools](https://www.nuget.org/packages/Squora.Forms.Ai.OpenAiTools) | 1.1.0 | Squora | OpenAI and Anthropic tool definition generator for SquoraForms Hub forms. Auto-… |
+| 2026-10-24 14:47:50 | [Squora.Forms.Blazor.RadzenComponents](https://www.nuget.org/packages/Squora.Forms.Blazor.RadzenComponents) | 1.1.0 | Squora | Radzen implementation of the Squora Forms Blazor components. |
+| 2026-10-24 14:47:51 | [Squora.Forms.Blazor.Components](https://www.nuget.org/packages/Squora.Forms.Blazor.Components) | 1.1.0 | Squora | Abstract Blazor field and layout components that the Squora Forms UI framework… |
 
 ## Data source
 

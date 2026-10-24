@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-24T14:25:02.293Z,MultiPlug.Ext.ModbusTCP,0.0.1,4IR.UK,Use Modbus TCP with this MultiPlug Extension
+2026-10-24T14:47:45.38Z,Squora.Forms.Blazor.MudBlazorComponents,1.1.0,Squora,MudBlazor implementation of the Squora Forms Blazor components.
+2026-10-24T14:47:45.833Z,Squora.Forms.Ai.Mcp,1.1.0,Squora,MCP (Model Context Protocol) adapter for SquoraForms Hub. Exposes form definitions as MCP resources with JSON Schema contracts for AI agent tool-calling.
+2026-10-24T14:47:46.23Z,Squora.Forms.Blazor.Extensions,1.1.0,Squora,Dependency-injection registration (`AddSquoraForms`) and component registry for Squora Forms on Blazor.
+2026-10-24T14:47:46.633Z,Squora.Forms.Blazor.SyncfusionComponents,1.1.0,Squora,Syncfusion implementation of the Squora Forms Blazor components. Requires your own Syncfusion license.
+2026-10-24T14:47:47.053Z,Squora.Forms.Blazor.Actions,1.1.0,Squora,"Form action components (submit, reset, custom actions) for Squora Forms on Blazor."
+2026-10-24T14:47:47.437Z,Squora.Forms.Core,1.1.0,Squora,"Framework-neutral form model, rules engine and parsing for Squora Forms. No Blazor dependency, so the same form definition can be used from Blazor, React or any other host."
+2026-10-24T14:47:47.843Z,Squora.Forms.UISchema,1.1.0,Squora,"UI Schema model, builders and converters describing how a form is laid out in Squora Forms."
+2026-10-24T14:47:48.26Z,Squora.Forms.Common,1.1.0,Squora,Shared enums and helpers used by the Squora Forms packages.
+2026-10-24T14:47:48.643Z,Squora.Forms.Blazor,1.1.0,Squora,"Blazor renderer base for Squora Forms: form component, layout and state services."
+2026-10-24T14:47:49.043Z,Squora.Forms.Contracts,1.1.0,Squora,Interfaces for Squora Forms schema and scope providers.
+2026-10-24T14:47:49.453Z,Squora.Forms.Blazor.HtmlComponents,1.1.0,Squora,Plain HTML implementation of the Squora Forms Blazor components. No third-party UI library required.
+2026-10-24T14:47:49.82Z,Squora.Forms.JsonSchema,1.1.0,Squora,JSON Schema generation and handling for Squora Forms.
+2026-10-24T14:47:50.21Z,Squora.Forms.Ai.OpenAiTools,1.1.0,Squora,OpenAI and Anthropic tool definition generator for SquoraForms Hub forms. Auto-generates function-calling tool definitions from JSON Schema form contracts.
+2026-10-24T14:47:50.617Z,Squora.Forms.Blazor.RadzenComponents,1.1.0,Squora,Radzen implementation of the Squora Forms Blazor components.
+2026-10-24T14:47:51.02Z,Squora.Forms.Blazor.Components,1.1.0,Squora,Abstract Blazor field and layout components that the Squora Forms UI framework packages implement.
