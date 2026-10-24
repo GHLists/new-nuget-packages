@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-24T06:34:22.037Z,ThreeYPay.SDK,1.1.0,3YPay Team,3ypay (汇联支付) C# SDK - 统一支付、查询、退款、转账、分账等
+2026-10-24T06:36:18.357Z,TKCode.StreamMark.Theme.AtomUI,0.1.0,StreamMark contributors,"Maps StreamMark Md.* resources onto AtomUI design tokens, so Markdown follows the AtomUI theme (light/dark, primary color, fonts)."
+2026-10-24T06:36:18.69Z,TKCode.StreamMark.Avalonia,0.1.0,StreamMark contributors,"StreamMark Avalonia controls: self-drawn Markdown blocks, virtualizing transcript panel and selection."
+2026-10-24T06:36:18.947Z,TKCode.StreamMark.Core,0.1.0,StreamMark contributors,"StreamMark core: streaming Markdown source buffer, incomplete-markdown repair, segmenter, block model and pacing. No UI dependency."
+2026-10-24T06:36:19.203Z,TKCode.StreamMark.Mermaid,0.1.0,StreamMark contributors,"Mermaid diagram rendering for StreamMark (Mermaider + Svg.Skia), no browser required."
+2026-10-24T06:36:19.703Z,TKCode.StreamMark.RaTeX,0.1.0,StreamMark contributors,LaTeX math rendering for StreamMark via the RaTeX native engine (KaTeX-compatible layout).
+2026-10-24T06:36:19.96Z,TKCode.StreamMark.Highlighting.TextMate,0.1.0,StreamMark contributors,TextMate-based incremental syntax highlighting for StreamMark code blocks.
+2026-10-24T06:37:33.743Z,Kekincai.JiebaNet.Segmenter,1.0.0,"andersc,kekincai",Chinese text segmentation for .NET 10 with embedded dictionaries and no third-party runtime dependencies.
+2026-10-24T06:37:34.697Z,Kekincai.JiebaNet.Analyser,1.0.0,"andersc,kekincai",TF-IDF and TextRank keyword extraction for .NET 10.
+2026-10-24T06:38:19.67Z,XCode.SonnetDB,11.25.2026.1024,新生命开发团队,"Provides embedded and remote SonnetDB driver integration, SQL dialect and automatic modeling support for XCode. 为 XCode 提供 SonnetDB 嵌入式和远程数据库驱动接入、SQL方言与自动建模支持。"
+2026-10-24T06:57:24.593Z,DataOil.Client,0.2.2,MaxDragon Technology,"The Data Oil client for .NET: one statement over rows, vectors, keywords and relationships, streamed as NDJSON, with the two tenancy headers, typed errors and the retry a lost race needs built in."
+2026-10-24T06:57:26.12Z,SwedishTestSsn.Client,2.0.0,Ferenyl,Client for getting Swedish social security numbers for testing from Skatteverket's public API. They are not used for any real person.
+2026-10-24T06:57:51.077Z,DataOil.EntityFrameworkCore,0.1.4,MaxDragon Technology,"The Entity Framework Core provider for Data Oil. It learns each database's schema at run time over the engine's own API, validates the application's model against it, translates LINQ to the engine's dialect, and saves with the record version as the concurrency token."
+2026-10-24T06:58:14.603Z,DataOil.LINQPad,0.1.5,MaxDragon Technology,"The LINQPad 9 driver for Data Oil. Connect to a database and its types become a typed Entity Framework Core context, read from the schema as your credential may read it; queries run through DataOil.EntityFrameworkCore, and the statements it sends appear in the SQL tab."
+2026-10-24T07:01:05.55Z,ZeroMayo.ppy.osu.Framework.NativeLibs,26.0.0,ppy Pty Ltd,Native libraries for osu!framework
+2026-10-24T07:02:53.873Z,Goo.AppHost,0.15.0,Xaz,Optional desktop activation and single-instance hosting for Goo.
+2026-10-24T07:10:30.333Z,Joy.AbpUi.Domain.Shared,1.0.0,Joy,ABP localization module providing UI and Menus resources for joy-abpui-angular. Includes English and Simplified Chinese translations.

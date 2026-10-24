@@ -12,27 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 06:20 UTC
+## Latest list — 2026-10-24 07:18 UTC
 
-New packages created between 2026-10-24 05:21 UTC and 2026-10-24 06:20 UTC.
+New packages created between 2026-10-24 06:20 UTC and 2026-10-24 07:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-24T06-20-23-304602Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-24T07-18-58-209233Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 05:27:00 | [Douze.any](https://www.nuget.org/packages/Douze.any) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:02 | [Douze.linux-arm64](https://www.nuget.org/packages/Douze.linux-arm64) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:04 | [Douze.linux-x64](https://www.nuget.org/packages/Douze.linux-x64) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:06 | [Douze.osx-arm64](https://www.nuget.org/packages/Douze.osx-arm64) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:08 | [Douze.osx-x64](https://www.nuget.org/packages/Douze.osx-x64) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:14 | [Douze.win-arm64](https://www.nuget.org/packages/Douze.win-arm64) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:16 | [Douze.win-x64](https://www.nuget.org/packages/Douze.win-x64) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:27:17 | [Douze](https://www.nuget.org/packages/Douze) | 0.2.0 | Sebastien Ros | Stupidly simple, blazing fast static site generator. |
-| 2026-10-24 05:57:53 | [Qualithm.Platform](https://www.nuget.org/packages/Qualithm.Platform) | 0.1.0 | Qualithm | C# client for the Qualithm Platform API, generated from its OpenAPI spec. |
-| 2026-10-24 06:06:01 | [Tickwork.Utilities](https://www.nuget.org/packages/Tickwork.Utilities) | 1.0.0 | Xavier Klausener | The entities, managers and contracts of Tickwork, a background job scheduler fo… |
-| 2026-10-24 06:06:01 | [Tickwork.Instrumentation.OpenTelemetry](https://www.nuget.org/packages/Tickwork.Instrumentation.OpenTelemetry) | 1.0.0 | Xavier Klausener | OpenTelemetry tracing for Tickwork jobs. Forked from TickerQ 10.4.0. |
-| 2026-10-24 06:06:02 | [Tickwork](https://www.nuget.org/packages/Tickwork) | 1.0.0 | Xavier Klausener | Tickwork is a background job scheduler for .NET: cron and time-based jobs, retr… |
-| 2026-10-24 06:10:32 | [Webority.Delivery.SpaHost](https://www.nuget.org/packages/Webority.Delivery.SpaHost) | 0.19.0 | Webority Technologies | A shared host for React single-page apps: serves the app's built files and appl… |
+| 2026-10-24 06:34:22 | [ThreeYPay.SDK](https://www.nuget.org/packages/ThreeYPay.SDK) | 1.1.0 | 3YPay Team | 3ypay (汇联支付) C# SDK - 统一支付、查询、退款、转账、分账等 |
+| 2026-10-24 06:36:18 | [TKCode.StreamMark.Theme.AtomUI](https://www.nuget.org/packages/TKCode.StreamMark.Theme.AtomUI) | 0.1.0 | StreamMark contributors | Maps StreamMark Md.* resources onto AtomUI design tokens, so Markdown follows t… |
+| 2026-10-24 06:36:18 | [TKCode.StreamMark.Avalonia](https://www.nuget.org/packages/TKCode.StreamMark.Avalonia) | 0.1.0 | StreamMark contributors | StreamMark Avalonia controls: self-drawn Markdown blocks, virtualizing transcri… |
+| 2026-10-24 06:36:18 | [TKCode.StreamMark.Core](https://www.nuget.org/packages/TKCode.StreamMark.Core) | 0.1.0 | StreamMark contributors | StreamMark core: streaming Markdown source buffer, incomplete-markdown repair,… |
+| 2026-10-24 06:36:19 | [TKCode.StreamMark.Mermaid](https://www.nuget.org/packages/TKCode.StreamMark.Mermaid) | 0.1.0 | StreamMark contributors | Mermaid diagram rendering for StreamMark (Mermaider + Svg.Skia), no browser req… |
+| 2026-10-24 06:36:19 | [TKCode.StreamMark.RaTeX](https://www.nuget.org/packages/TKCode.StreamMark.RaTeX) | 0.1.0 | StreamMark contributors | LaTeX math rendering for StreamMark via the RaTeX native engine (KaTeX-compatib… |
+| 2026-10-24 06:36:19 | [TKCode.StreamMark.Highlighting.TextMate](https://www.nuget.org/packages/TKCode.StreamMark.Highlighting.TextMate) | 0.1.0 | StreamMark contributors | TextMate-based incremental syntax highlighting for StreamMark code blocks. |
+| 2026-10-24 06:37:33 | [Kekincai.JiebaNet.Segmenter](https://www.nuget.org/packages/Kekincai.JiebaNet.Segmenter) | 1.0.0 | andersc,kekincai | Chinese text segmentation for .NET 10 with embedded dictionaries and no third-p… |
+| 2026-10-24 06:37:34 | [Kekincai.JiebaNet.Analyser](https://www.nuget.org/packages/Kekincai.JiebaNet.Analyser) | 1.0.0 | andersc,kekincai | TF-IDF and TextRank keyword extraction for .NET 10. |
+| 2026-10-24 06:38:19 | [XCode.SonnetDB](https://www.nuget.org/packages/XCode.SonnetDB) | 11.25.2026.1024 | 新生命开发团队 | Provides embedded and remote SonnetDB driver integration, SQL dialect and autom… |
+| 2026-10-24 06:57:24 | [DataOil.Client](https://www.nuget.org/packages/DataOil.Client) | 0.2.2 | MaxDragon Technology | The Data Oil client for .NET: one statement over rows, vectors, keywords and re… |
+| 2026-10-24 06:57:26 | [SwedishTestSsn.Client](https://www.nuget.org/packages/SwedishTestSsn.Client) | 2.0.0 | Ferenyl | Client for getting Swedish social security numbers for testing from Skatteverke… |
+| 2026-10-24 06:57:51 | [DataOil.EntityFrameworkCore](https://www.nuget.org/packages/DataOil.EntityFrameworkCore) | 0.1.4 | MaxDragon Technology | The Entity Framework Core provider for Data Oil. It learns each database's sche… |
+| 2026-10-24 06:58:14 | [DataOil.LINQPad](https://www.nuget.org/packages/DataOil.LINQPad) | 0.1.5 | MaxDragon Technology | The LINQPad 9 driver for Data Oil. Connect to a database and its types become a… |
+| 2026-10-24 07:01:05 | [ZeroMayo.ppy.osu.Framework.NativeLibs](https://www.nuget.org/packages/ZeroMayo.ppy.osu.Framework.NativeLibs) | 26.0.0 | ppy Pty Ltd | Native libraries for osu!framework |
+| 2026-10-24 07:02:53 | [Goo.AppHost](https://www.nuget.org/packages/Goo.AppHost) | 0.15.0 | Xaz | Optional desktop activation and single-instance hosting for Goo. |
+| 2026-10-24 07:10:30 | [Joy.AbpUi.Domain.Shared](https://www.nuget.org/packages/Joy.AbpUi.Domain.Shared) | 1.0.0 | Joy | ABP localization module providing UI and Menus resources for joy-abpui-angular.… |
 
 ## Data source
 
