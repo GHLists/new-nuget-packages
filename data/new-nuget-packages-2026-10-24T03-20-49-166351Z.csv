@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-10-24T03:04:57.12Z,RecursiveAI.OneFont,1.0.0,"Recursive AI, LLC","Fonts and text shaping with no dependency beyond .NET: loads TrueType, OpenType (CFF) and TrueType Collection fonts, shapes text with OpenType GSUB and GPOS (Arabic, Indic, Southeast Asian and universal shapers), and provides the Unicode bidirectional, line breaking and grapheme algorithms and font…"
