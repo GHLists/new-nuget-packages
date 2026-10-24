@@ -12,29 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 20:19 UTC
+## Latest list — 2026-10-24 21:19 UTC
 
-New packages created between 2026-10-24 19:20 UTC and 2026-10-24 20:19 UTC.
+New packages created between 2026-10-24 20:19 UTC and 2026-10-24 21:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-24T20-19-33-551153Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-24T21-19-18-258138Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 19:30:18 | [SharpView.Cli](https://www.nuget.org/packages/SharpView.Cli) | 0.3.0 | Stanislav Tadtaev | Source-backed analysis of ASP.NET Core Web APIs for people and agents: the MSBu… |
-| 2026-10-24 19:30:30 | [Nyra.DSharpPlus](https://www.nuget.org/packages/Nyra.DSharpPlus) | 0.2.0 | Akinori107 | DSharpPlus adapter for Nyra, a Lavalink v4.2+ and NodeLink v3.9+ client. |
-| 2026-10-24 19:30:30 | [Nyra.DSharpPlus.Nightly](https://www.nuget.org/packages/Nyra.DSharpPlus.Nightly) | 0.2.0 | Akinori107 | DSharpPlus Nightly adapter for Nyra, a Lavalink v4.2+ and NodeLink v3.9+ client. |
-| 2026-10-24 19:30:31 | [Nyra.DiscordNet](https://www.nuget.org/packages/Nyra.DiscordNet) | 0.2.0 | Akinori107 | Discord.Net adapter for Nyra, a Lavalink v4.2+ and NodeLink v3.9+ client. |
-| 2026-10-24 19:36:47 | [Meziantou.Framework.Pdf](https://www.nuget.org/packages/Meziantou.Framework.Pdf) | 1.0.0 | meziantou | Fully managed PDF library for .NET, written from ISO 32000-2: an object model,… |
-| 2026-10-24 19:36:56 | [Meziantou.Framework.WebPlatform.PdfRendering](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.PdfRendering) | 1.0.0 | meziantou | Prints the documents of Meziantou.Framework.WebPlatform to PDF with Meziantou.F… |
-| 2026-10-24 19:42:38 | [LANCommander.Plugins.GOG](https://www.nuget.org/packages/LANCommander.Plugins.GOG) | 1.0.0 | LANCommander | Links GOG accounts to a LANCommander server and imports the games they own. |
-| 2026-10-24 19:45:18 | [LocalRun](https://www.nuget.org/packages/LocalRun) | 0.1.0 | Salefou | Try a library change in the services that consume it as a NuGet package, across… |
-| 2026-10-24 19:46:21 | [Caly.PdfPig.Fonts](https://www.nuget.org/packages/Caly.PdfPig.Fonts) | 1.0.0 | BobLd | Substitute font programs for the 14 PDF Standard fonts (Foxit and Liberation). |
-| 2026-10-24 19:51:41 | [MMCA.Common.Aws](https://www.nuget.org/packages/MMCA.Common.Aws) | 1.255.0 | Ivan Ball | MMCA framework: the AWS adapter. S3-compatible file storage (AWS S3, Cloudflare… |
-| 2026-10-24 19:51:41 | [MMCA.Common.Azure](https://www.nuget.org/packages/MMCA.Common.Azure) | 1.255.0 | Ivan Ball | MMCA framework: the Microsoft Azure adapter. Key Vault configuration, the Blob… |
-| 2026-10-24 19:51:44 | [MMCA.Common.Testing.Azure](https://www.nuget.org/packages/MMCA.Common.Testing.Azure) | 1.255.0 | Ivan Ball | MMCA framework Azure test infrastructure: the Service Bus emulator broker-parit… |
-| 2026-10-24 20:00:43 | [MintPlayer.Versioning.MSBuild](https://www.nuget.org/packages/MintPlayer.Versioning.MSBuild) | 1.0.0 | MintPlayer | Sets a project's Version from the highest <PackageId>/v<version> git tag reacha… |
-| 2026-10-24 20:06:52 | [CFGBINManager](https://www.nuget.org/packages/CFGBINManager) | 1.0.0 | The-RealBobi | Managed T2B and RDBNP record API with lossless CFG interchange. |
-| 2026-10-24 20:09:22 | [Packata.Database](https://www.nuget.org/packages/Packata.Database) | 0.49.0 | Cédric L. Charlier | Shared database connections, provider composition and curated connector acquisi… |
+| 2026-10-24 20:25:30 | [m2nj.MarkdownConverter](https://www.nuget.org/packages/m2nj.MarkdownConverter) | 1.0.0 | m2nj | A dependency-free .NET library for converting HTML to Markdown and Markdown to… |
+| 2026-10-24 20:29:16 | [RootBlocks.AspNetCore.OpenApi](https://www.nuget.org/packages/RootBlocks.AspNetCore.OpenApi) | 0.5.0 | Sébastien de Salvador | OpenAPI document transformers (JSON Patch examples) for the built-in Microsoft.… |
+| 2026-10-24 20:32:38 | [TextToVoice.Engines.Voxtral](https://www.nuget.org/packages/TextToVoice.Engines.Voxtral) | 0.3.0 | Robert Krogh | Voxtral (Mistral AI) engine for TextToVoice. Cloud-based TTS with streaming and… |
+| 2026-10-24 21:12:12 | [E2E.WinApp.NUnit](https://www.nuget.org/packages/E2E.WinApp.NUnit) | 0.7.0 | hardkoded | WinAppTest for the E2E .NET port: a ready base class that launches a Windows de… |
+| 2026-10-24 21:12:13 | [E2E.WinApp](https://www.nuget.org/packages/E2E.WinApp) | 0.7.0 | hardkoded | Windows app engine for the community .NET port of the e2e agentic testing frame… |
+| 2026-10-24 21:12:16 | [E2E.WinApp.XUnit.V3](https://www.nuget.org/packages/E2E.WinApp.XUnit.V3) | 0.7.0 | hardkoded | WinAppTest for the E2E .NET port: a ready base class that launches a Windows de… |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-24T20:25:30.773Z,m2nj.MarkdownConverter,1.0.0,m2nj,"A dependency-free .NET library for converting HTML to Markdown and Markdown to HTML, including links, lists, code, blockquotes, and simple tables."
+2026-10-24T20:29:16.793Z,RootBlocks.AspNetCore.OpenApi,0.5.0,Sébastien de Salvador,"OpenAPI document transformers (JSON Patch examples) for the built-in Microsoft.AspNetCore.OpenApi document generation and any UI (Scalar, Swagger UI, Redoc)."
+2026-10-24T20:32:38.617Z,TextToVoice.Engines.Voxtral,0.3.0,Robert Krogh,Voxtral (Mistral AI) engine for TextToVoice. Cloud-based TTS with streaming and voice cloning via the Mistral API.
+2026-10-24T21:12:12.8Z,E2E.WinApp.NUnit,0.7.0,hardkoded,WinAppTest for the E2E .NET port: a ready base class that launches a Windows desktop app fresh before each test and drives it through UI Automation.
+2026-10-24T21:12:13.963Z,E2E.WinApp,0.7.0,hardkoded,Windows app engine for the community .NET port of the e2e agentic testing framework: drives a desktop app through Windows UI Automation. Not an official TesterArmy product.
+2026-10-24T21:12:16.027Z,E2E.WinApp.XUnit.V3,0.7.0,hardkoded,WinAppTest for the E2E .NET port: a ready base class that launches a Windows desktop app fresh before each test and drives it through UI Automation.
