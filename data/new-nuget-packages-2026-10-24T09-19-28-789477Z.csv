@@ -1,0 +1,69 @@
+created_at,package,version,authors,description
+2026-10-24T08:29:35.17Z,dowsing-rod,0.3.0,Dowsing Rod contributors,Structural refactoring intelligence for source code.
+2026-10-24T08:37:43.263Z,MahaMS.HealthBundleDiff,1.0.0-beta,Maha M. Shawkat,"Compares two FHIR R4 bundles, detects added/removed/modified resources and fields, and generates plain-language explanations of clinically significant changes via Gemini."
+2026-10-24T08:44:39.55Z,AIGuiders.Platform.Modeling.Agent,0.1.0,AI Guiders,"Agent modeling: response envelope, detail tier, next hints (IR.Agent port; IntentOutcome stays execution-side)."
+2026-10-24T08:44:40.54Z,AIGuiders.Platform.Modeling.Build,0.1.0,AI Guiders,Neutral build-result model — diagnostics as RelationSpec.Diag witnesses.
+2026-10-24T08:44:41.597Z,AIGuiders.Platform.Modeling.Catalog,0.1.0,AI Guiders,"Profile-driven catalog index algebra — collision policies, layer merge."
+2026-10-24T08:44:42.72Z,AIGuiders.Platform.Modeling.Cockpit.Cds,0.1.0,AI Guiders,"CDS routing decision shapes — attention, desk detail, go-map (F# SSOT)."
+2026-10-24T08:44:43.823Z,AIGuiders.Platform.Modeling.Cockpit.Channels,0.1.0,AI Guiders,"Cockpit channel M-shapes — annunciator lamp algebra, ER/IdeHealth CCU decision/snapshot forms (F# SSOT, CIDE ADR 0036/0063/0089)."
+2026-10-24T08:44:44.907Z,AIGuiders.Platform.Modeling.Cockpit.Composition,0.1.0,AI Guiders,"Cockpit composition M-schema — seats/tiles surface scene descriptors (F# SSOT, CIDE ADR 0036)."
+2026-10-24T08:44:45.933Z,AIGuiders.Platform.Modeling.Cockpit.DataBus,0.1.0,AI Guiders,"Cockpit DataBus schema — event catalog, dispatch policy, projection graph (F# SSOT)."
+2026-10-24T08:44:47.057Z,AIGuiders.Platform.Modeling.Cockpit.Ids,0.1.0,AI Guiders,"Ids palette hit shape — one IDS feature hit for the search seam (F# SSOT, CIDE ADR 0079)."
+2026-10-24T08:44:48.19Z,AIGuiders.Platform.Modeling.Cockpit.Rules,0.1.0,AI Guiders,Headless cockpit rule evaluation — traceable rule id + matched when.
+2026-10-24T08:44:49.21Z,AIGuiders.Platform.Modeling.CodeCenter,0.1.0,AI Guiders,"Federation Code Center document session SSOT — structural edits, Λ_doc ledger, replay undo."
+2026-10-24T08:44:50.363Z,AIGuiders.Platform.Modeling.Combinations,0.1.0,AI Guiders,"Combinations — merge semantics DU, combinator alias, ordered fold laws (F# SSOT)."
+2026-10-24T08:44:51.393Z,AIGuiders.Platform.Modeling.CommandPlane,0.1.0,AI Guiders,"CommandPlane M-shapes — prefix-arm match algebra, constructor definitions, locale date parse (F# SSOT, ADR-0003 §4.6, GUIDERS-ADR-0037/0038)."
+2026-10-24T08:44:52.45Z,AIGuiders.Platform.Modeling.Configurations,0.1.0,AI Guiders,Config quarry IR — *.config.gdl document model (F# SSOT).
+2026-10-24T08:44:53.47Z,AIGuiders.Platform.Modeling.Conformance,0.1.0,AI Guiders,"Conformance spec wire shapes — navigation/policy spec documents and expectation vectors (F# SSOT, ADR-0003 §4.9)."
+2026-10-24T08:44:54.59Z,AIGuiders.Platform.Modeling.Core,0.1.0,AI Guiders,"Cross-product intent envelope shapes — IntentOutcome, RoutedIntent, pulse rules."
+2026-10-24T08:44:55.687Z,AIGuiders.Platform.Modeling.Documentation.Correspondence,0.1.0,AI Guiders,"Documentation correspondence wire shapes — CRS model, forward/reverse map shapes (F# SSOT)."
+2026-10-24T08:44:56.75Z,AIGuiders.Platform.Modeling.Gdl.Authoring,0.1.0,AI Guiders,GDL authoring lexical kit — F# mirror of Platform Authoring.Core.
+2026-10-24T08:44:57.957Z,AIGuiders.Platform.Modeling.Gdl.Command,0.1.0,AI Guiders,"GDL command modeling: descriptor, arg-tail policy, catalog route entry (IR.Command port)."
+2026-10-24T08:44:59.03Z,AIGuiders.Platform.Modeling.Gdl.Command.Binding,0.1.0,AI Guiders,"GDL binding modeling: descriptor, target kinds, well-known keys, normalized gesture entry (IR.Binding port)."
+2026-10-24T08:45:00.06Z,AIGuiders.Platform.Modeling.Gdl.Command.Melody,0.1.0,AI Guiders,"GDL melody modeling: articulation, line profiles, steps, descriptor (IR.Melody port)."
+2026-10-24T08:45:01.09Z,AIGuiders.Platform.Modeling.Gdl.Core,0.1.0,AI Guiders,GDL spine types — discriminated union project model (Guiders federation).
+2026-10-24T08:45:02.277Z,AIGuiders.Platform.Modeling.Gdl.Expression,0.1.0,AI Guiders,"Shared GDL expression IR — literals, compares, boolean ops, fact refs."
+2026-10-24T08:45:03.39Z,AIGuiders.Platform.Modeling.Gdl.Parse.Catalog,0.1.0,AI Guiders,"GDL catalog quarry parser — F# mirror of Platform Authoring.Command.Catalog (phase 1: structure + spine mapping). Parity gaps vs C# authoring emit path: profile bundle resolution (ICatalogBundleLibrary / CatalogProfileResolver), command-profile cross-validation, import-alias bundle path resolution,…"
+2026-10-24T08:45:04.71Z,AIGuiders.Platform.Modeling.Gdl.Parse.CockpitLogic,0.1.0,AI Guiders,"Cockpit logic quarry IR — annunciation rules, projectors, principles."
+2026-10-24T08:45:05.74Z,AIGuiders.Platform.Modeling.Gdl.Parse.Config,0.1.0,AI Guiders,*.config.gdl parser — F# SSOT mirror of config quarry SAT pilot.
+2026-10-24T08:45:06.977Z,AIGuiders.Platform.Modeling.Gdl.Parse.Deck,0.1.0,AI Guiders,GDL deck quarry parser — F# mirror of Platform Authoring.Deck.
+2026-10-24T08:45:08.19Z,AIGuiders.Platform.Modeling.Gdl.Parse.IdeSession,0.1.0,AI Guiders,ide-session *.catalog.gdl gates table parser — F# SSOT mirror of Sat.IdeSession quarry.
+2026-10-24T08:45:09.31Z,AIGuiders.Platform.Modeling.Gdl.Presentation,0.1.0,AI Guiders,GDL presentation IR — F# mirror of Platform IR.Presentation + TopologyNotation.
+2026-10-24T08:45:10.407Z,AIGuiders.Platform.Modeling.Gdl.Validation,0.1.0,AI Guiders,GDL project validation — cross-ref and quarry rules.
+2026-10-24T08:45:11.503Z,AIGuiders.Platform.Modeling.Ide.Session,0.1.0,AI Guiders,"IDE solution session graph IR — projects, capabilities, lifecycle, validation (F# SSOT)."
+2026-10-24T08:45:12.663Z,AIGuiders.Platform.Modeling.Ide.Session.Ports.DotNet,0.1.0,AI Guiders,slnx/sln/csproj → SolutionGraph port (DotNetWorkspace.Core).
+2026-10-24T08:45:13.813Z,AIGuiders.Platform.Modeling.Ide.Session.Ports.Workspace,0.1.0,AI Guiders,md/json/toml/yaml document tree + navigation links → WorkspaceGraph (physical layer port).
+2026-10-24T08:45:14.88Z,AIGuiders.Platform.Modeling.IdeSession.GateCatalog,0.1.0,AI Guiders,IDE session gate catalog IR — *.catalog.gdl gates table (F# SSOT).
+2026-10-24T08:45:15.933Z,AIGuiders.Platform.Modeling.Language,0.1.0,AI Guiders,Language Resolver Center kernel — shared verb envelopes for federation IDE language services.
+2026-10-24T08:45:17.04Z,AIGuiders.Platform.Modeling.Language.Adapters.Fcs,0.1.0,AI Guiders,F# Compiler Service backend for Language Resolver Center.
+2026-10-24T08:45:18.29Z,AIGuiders.Platform.Modeling.Language.Adapters.Gdl,0.1.0,AI Guiders,GDL quarry backend for Language Resolver Center.
+2026-10-24T08:45:19.47Z,AIGuiders.Platform.Modeling.Language.Adapters.Sql,0.1.0,AI Guiders,SQL sql.script backends for Language Resolver Center.
+2026-10-24T08:45:20.7Z,AIGuiders.Platform.Modeling.LanguageIntelligence.Relations,0.1.0,AI Guiders,Federation RelationSpec kernel — typed relation witness before Resolve/Materialize.
+2026-10-24T08:45:21.823Z,AIGuiders.Platform.Modeling.Navigation,0.1.0,AI Guiders,"Navigation scene IR — anchor, nodes, edges, caps (F# SSOT)."
+2026-10-24T08:45:23.08Z,AIGuiders.Platform.Modeling.Navigation.Policy,0.1.0,AI Guiders,"Navigation policy — related kinds, presets, merge, kind filter, profile (F# SSOT)."
+2026-10-24T08:45:24.143Z,AIGuiders.Platform.Modeling.Notations.Argument,0.1.0,AI Guiders,Neutral argument slot schema and normalized invocation args (GUIDERS-ADR-0021).
+2026-10-24T08:45:25.123Z,AIGuiders.Platform.Modeling.Notations.Bracket,0.1.0,AI Guiders,"Bracket notation profile IR — axis shapes, wire normalization."
+2026-10-24T08:45:26.47Z,AIGuiders.Platform.Modeling.Notations.Command,0.1.0,AI Guiders,"Command notation wire and invocation surfaces SSOT (GUIDERS-ADR-0021, ADR-0008)."
+2026-10-24T08:45:27.737Z,AIGuiders.Platform.Modeling.Notations.Core,0.1.0,AI Guiders,"Notations shared primitives — KV atom, bracket-aware list split (GUIDERS-ADR-0021 port, ADR-0003 §4.4)."
+2026-10-24T08:45:28.8Z,AIGuiders.Platform.Modeling.Notations.Keyboard,0.1.0,AI Guiders,"Keyboard notation wire model: normalized key sequences, chord steps (Neutral port; normalizer stays execution-side)."
+2026-10-24T08:45:29.83Z,AIGuiders.Platform.Modeling.Paths,0.1.0,AI Guiders,Logical repo paths and physical path boundary (GUIDERS-ADR-0050).
+2026-10-24T08:45:30.983Z,AIGuiders.Platform.Modeling.Routing,0.1.0,AI Guiders,Route refusal algebra — shared helpers for intent organs.
+2026-10-24T08:48:56.323Z,EraTech.Shared.Hosting.Settings.WebAuthServer,2.2.37,EraTech,Package Description
+2026-10-24T08:54:24.023Z,Aggregates.Sagas.MSSP,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:24.43Z,Aggregates.Policies,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:24.83Z,Aggregates.KurrentDB,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:25.21Z,Aggregates.Projections,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:25.65Z,Aggregates.Subscriptions,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:26.087Z,Aggregates.Projections.Sql,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:26.477Z,Aggregates.Sagas.KurrentDB,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:27.17Z,Aggregates.Analyzers,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:27.457Z,Aggregates.Policies.MSSP,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:27.85Z,Aggregates.KurrentDB.Migration,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:28.237Z,Aggregates.Projections.KurrentDB,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:28.62Z,Aggregates.Policies.KurrentDB,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:29.54Z,Aggregates.Sagas,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:29.94Z,Aggregates.MSSP,1.0.0,Wouter Naessens,Package Description
+2026-10-24T08:54:30.317Z,Aggregates.Projections.MSSP,1.0.0,Wouter Naessens,Package Description
+2026-10-24T09:01:07.75Z,Hand.Generators.Tidy,0.3.1-alpha,jiangxiangji,Package Description
+2026-10-24T09:04:08.517Z,Hand.GenerateEnumeration,0.3.1,jiangxiangji,Package Description
+2026-10-24T09:04:47.673Z,Hand.Generators.Enumerations,0.3.1,jiangxiangji,Package Description
