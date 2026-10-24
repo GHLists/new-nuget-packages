@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-24T16:22:53.377Z,LeanToDotNet.Runtime,0.3.1,Keith Adler,"The small runtime a lean2il assembly calls into: Lean's Nat and Int on BigInteger, fixed-width integers with Lean's meaning, List, Option and Array, and System.Decimal marshaling."
+2026-10-24T16:22:55.023Z,lean2il,0.3.1,Keith Adler,"Compile Lean 4 definitions to a .NET assembly, after re-checking every proof about them with Tenet."
+2026-10-24T16:22:56.61Z,LeanToDotNet.Build,0.3.1,Keith Adler,"Compile Lean 4 definitions into your .NET project on every build: runs lake build and lean2il (Tenet re-check, IL, docs, differential test) and references the proven assembly."
+2026-10-24T16:24:52.74Z,OBaseRTC,26.10.34,Oesam Technology,"Live video between two screens of a Blazor Server app for the OBase Framework: WebRTC peer to peer in the browser, the signaling passed on by a room service on the server."
+2026-10-24T16:42:40.34Z,AnAspect.Mediator.Notification,1.0.0,Pouria Riyahi,"A lightweight, high-performance notification and domain-event publisher for .NET. Features a custom awaitable with Result Pattern support, detailed execution breakdown (Total, Succeeded, Failed, Unprocessed), sequential and concurrent dispatch strategies, zero async exception rethrow overhead via S…"
+2026-10-24T16:44:59.127Z,BitMagic.X16E.linux-x64,0.1.74,Yazwh0,BitMagic's Commander X16 emulator.
+2026-10-24T16:44:59.637Z,BitMagic.X16E,0.1.74,Yazwh0,BitMagic's Commander X16 emulator.
+2026-10-24T16:45:03.34Z,BitMagic.X16E.win-x64,0.1.74,Yazwh0,BitMagic's Commander X16 emulator.
