@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-24T12:50:52.71Z,HeimdallFramework.Rendering,4.0.0,Bradley Ables,Server-side HTML rendering primitives and FluentHtml builders for Heimdall.
+2026-10-24T13:02:36.727Z,CSharpScript.Extension.Common,0.0.5,Xanvil,脚本设置、引用解析、NuGet / COM 与 Runner 协议等共享能力。
+2026-10-24T13:02:51.683Z,CSharpScript.Extension.Globals,0.0.5,Xanvil,脚本 Globals 契约（ICsxGlobalObject 等），供宿主与分析侧共享。
+2026-10-24T13:03:06.327Z,CSharpScript.Extension.Host,0.0.5,Xanvil,在宿主应用内嵌入 C# 脚本（.acsx 进程内 / .csx 经 dotnet-csx 工具）。
+2026-10-24T13:04:09.61Z,CSharpScript.Extension.Runner,0.0.5,Xanvil,进程外 Runner（dotnet tool 命令 dotnet-csx，仅 net8.0）；供 Host 与编辑器扩展启动 .csx。
