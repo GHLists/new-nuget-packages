@@ -12,25 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:20 UTC
+## Latest list — 2026-10-24 20:19 UTC
 
-New packages created between 2026-10-24 18:20 UTC and 2026-10-24 19:20 UTC.
+New packages created between 2026-10-24 19:20 UTC and 2026-10-24 20:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-24T19-20-52-558836Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-24T20-19-33-551153Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 18:35:02 | [SLD.Serialization.Binary](https://www.nuget.org/packages/SLD.Serialization.Binary) | 2.3.18 | Andreas Hassmann | Simple serialization of object graphs |
-| 2026-10-24 18:35:04 | [SLD.Serialization.Compression](https://www.nuget.org/packages/SLD.Serialization.Compression) | 2.3.18 | Andreas Hassmann | Wrapper around stdzstd compression implemented by |
-| 2026-10-24 18:35:07 | [SLD.Serialization.Hash](https://www.nuget.org/packages/SLD.Serialization.Hash) | 2.3.18 | Crauzer, Andreas Hassmann | XXHash3 algorithm SLD namespacing fork of XXHash3.NET by Crauzer, adding streams |
-| 2026-10-24 18:36:24 | [SLD.Generative.Code.Generator](https://www.nuget.org/packages/SLD.Generative.Code.Generator) | 1.0.31 | Andreas Hassmann | SLD Code Generation |
-| 2026-10-24 18:36:27 | [SLD.Generative.MetaModel](https://www.nuget.org/packages/SLD.Generative.MetaModel) | 1.0.31 | Andreas Hassmann | SLD MetaModel |
-| 2026-10-24 18:36:29 | [SLD.Generative.Model](https://www.nuget.org/packages/SLD.Generative.Model) | 1.0.31 | Andreas Hassmann | Code Generation for Models |
-| 2026-10-24 18:39:25 | [Adamantium.Vulkan.ShaderObjectLayer](https://www.nuget.org/packages/Adamantium.Vulkan.ShaderObjectLayer) | 1.0.0 | Adamantium Studio | Khronos' VK_LAYER_KHRONOS_shader_object (Vulkan-ExtensionLayer), built for Wind… |
-| 2026-10-24 19:00:49 | [AfrenAI.Mosaic](https://www.nuget.org/packages/AfrenAI.Mosaic) | 0.3.0 | AFREN AI | Bounded tool workflow execution with host-owned capability checks, protocol hos… |
-| 2026-10-24 19:00:50 | [AfrenAI.Mosaic.Mcp](https://www.nuget.org/packages/AfrenAI.Mosaic.Mcp) | 0.3.0 | AFREN AI | MCP server tool adapter for the MOSAIC bounded workflow engine. |
-| 2026-10-24 19:03:55 | [Newfoundcodes.Amaquet](https://www.nuget.org/packages/Newfoundcodes.Amaquet) | 0.1.0 | Newfoundcodes | Official .NET client SDK for the Amaquet data server, including native TCP/TLS… |
-| 2026-10-24 19:06:33 | [CurlDotNet](https://www.nuget.org/packages/CurlDotNet) | 9.8.0 | Jacob Mellor,IronSoftware,Dan… | 🚀 THE KILLER FEATURE: Copy and paste any curl command - it just works! CurlDotN… |
+| 2026-10-24 19:30:18 | [SharpView.Cli](https://www.nuget.org/packages/SharpView.Cli) | 0.3.0 | Stanislav Tadtaev | Source-backed analysis of ASP.NET Core Web APIs for people and agents: the MSBu… |
+| 2026-10-24 19:30:30 | [Nyra.DSharpPlus](https://www.nuget.org/packages/Nyra.DSharpPlus) | 0.2.0 | Akinori107 | DSharpPlus adapter for Nyra, a Lavalink v4.2+ and NodeLink v3.9+ client. |
+| 2026-10-24 19:30:30 | [Nyra.DSharpPlus.Nightly](https://www.nuget.org/packages/Nyra.DSharpPlus.Nightly) | 0.2.0 | Akinori107 | DSharpPlus Nightly adapter for Nyra, a Lavalink v4.2+ and NodeLink v3.9+ client. |
+| 2026-10-24 19:30:31 | [Nyra.DiscordNet](https://www.nuget.org/packages/Nyra.DiscordNet) | 0.2.0 | Akinori107 | Discord.Net adapter for Nyra, a Lavalink v4.2+ and NodeLink v3.9+ client. |
+| 2026-10-24 19:36:47 | [Meziantou.Framework.Pdf](https://www.nuget.org/packages/Meziantou.Framework.Pdf) | 1.0.0 | meziantou | Fully managed PDF library for .NET, written from ISO 32000-2: an object model,… |
+| 2026-10-24 19:36:56 | [Meziantou.Framework.WebPlatform.PdfRendering](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.PdfRendering) | 1.0.0 | meziantou | Prints the documents of Meziantou.Framework.WebPlatform to PDF with Meziantou.F… |
+| 2026-10-24 19:42:38 | [LANCommander.Plugins.GOG](https://www.nuget.org/packages/LANCommander.Plugins.GOG) | 1.0.0 | LANCommander | Links GOG accounts to a LANCommander server and imports the games they own. |
+| 2026-10-24 19:45:18 | [LocalRun](https://www.nuget.org/packages/LocalRun) | 0.1.0 | Salefou | Try a library change in the services that consume it as a NuGet package, across… |
+| 2026-10-24 19:46:21 | [Caly.PdfPig.Fonts](https://www.nuget.org/packages/Caly.PdfPig.Fonts) | 1.0.0 | BobLd | Substitute font programs for the 14 PDF Standard fonts (Foxit and Liberation). |
+| 2026-10-24 19:51:41 | [MMCA.Common.Aws](https://www.nuget.org/packages/MMCA.Common.Aws) | 1.255.0 | Ivan Ball | MMCA framework: the AWS adapter. S3-compatible file storage (AWS S3, Cloudflare… |
+| 2026-10-24 19:51:41 | [MMCA.Common.Azure](https://www.nuget.org/packages/MMCA.Common.Azure) | 1.255.0 | Ivan Ball | MMCA framework: the Microsoft Azure adapter. Key Vault configuration, the Blob… |
+| 2026-10-24 19:51:44 | [MMCA.Common.Testing.Azure](https://www.nuget.org/packages/MMCA.Common.Testing.Azure) | 1.255.0 | Ivan Ball | MMCA framework Azure test infrastructure: the Service Bus emulator broker-parit… |
+| 2026-10-24 20:00:43 | [MintPlayer.Versioning.MSBuild](https://www.nuget.org/packages/MintPlayer.Versioning.MSBuild) | 1.0.0 | MintPlayer | Sets a project's Version from the highest <PackageId>/v<version> git tag reacha… |
+| 2026-10-24 20:06:52 | [CFGBINManager](https://www.nuget.org/packages/CFGBINManager) | 1.0.0 | The-RealBobi | Managed T2B and RDBNP record API with lossless CFG interchange. |
+| 2026-10-24 20:09:22 | [Packata.Database](https://www.nuget.org/packages/Packata.Database) | 0.49.0 | Cédric L. Charlier | Shared database connections, provider composition and curated connector acquisi… |
 
 ## Data source
 
