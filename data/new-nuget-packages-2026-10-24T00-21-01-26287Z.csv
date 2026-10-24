@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-23T23:43:49.13Z,DesktopHost.Diagnostics,0.4.0,iyulab,"What a long-running local .NET host can say about its own health: a monitor, on a thread of its own, that notices when the thread pool stops starting work and reports how long it waited and how deep the queue was — the signal a slow-but-alive host otherwise never gives before it is restarted."
+2026-10-23T23:43:50.323Z,DesktopHost.Signatures,0.4.0,iyulab,"Whether a file a local .NET host is about to run comes from the publisher it expects: a valid Authenticode signature checked the way Windows checks it (WinVerifyTrust, offline), and the verified signer's certificate subject matched against the publishers the caller names — so a renewed certificate…"
+2026-10-24T00:14:13.63Z,MyWebTree.Core,1.0.0,Matt Gordon,"Family tree models, layout and the rules for adding and removing relatives."
+2026-10-24T00:14:23.237Z,MyWebTree.Components,1.0.0,Matt Gordon,Blazor family tree. Drop it into a Blazor app and hand it a list of people.
+2026-10-24T00:14:27.4Z,MyWebTree.Data,1.0.0,Matt Gordon,Provider-agnostic data model for MyWebTree. Tables live in the webtree schema.
+2026-10-24T00:14:33.763Z,MyWebTree.Data.MySql,1.0.0,Matt Gordon,MySQL storage for MyWebTree.
+2026-10-24T00:14:38.947Z,MyWebTree.Data.Npgsql,1.0.0,Matt Gordon,PostgreSQL storage for MyWebTree.
+2026-10-24T00:14:43.68Z,MyWebTree.Data.Sql,1.0.0,Matt Gordon,SQL Server storage for MyWebTree.
+2026-10-24T00:14:48.18Z,MyWebTree.Data.Sqlite,1.0.0,Matt Gordon,SQLite storage for MyWebTree.
+2026-10-24T00:14:52.903Z,MyWebTree.Services,1.0.0,Matt Gordon,"Services behind MyWebTree: trees, people and the relationships between them."
