@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-24T10:33:08.54Z,Snk.Net.Forms,10.4.0,SNK,"SNK .NET Forms - a UI-free form engine: versioned JSON form definitions, conditional show/hide/require rules, answer validation, an extensible field-type registry and designer data operations. Rendered by web (Blazor) and native (MAUI) front ends."
+2026-10-24T10:33:22.533Z,Snk.Net.Server,10.4.0,SNK,SNK .NET Server Library
+2026-10-24T10:40:06.09Z,Mentis.AI.Contracts,1.0.0,Mentis.AI Contributors,gRPC contract (proto files and generated C# client/server stubs) of the Mentis.AI Manager.
+2026-10-24T10:52:49.39Z,SjolystInnovation.AppKit.Consent,1.0.0,Sjølyst Innovation AS,"A pseudonymous, append-only log of the cookie consent choices a site's banner sends, for ASP.NET Core apps: an anonymous endpoint that adds each choice with the server's time, no IP address and no user agent, and a daily job that deletes old rows."
+2026-10-24T10:57:45.083Z,EfMigrationPack.Cli,1.0.3,Paul Oliver,"Command-line tool for packing EF Core migrations: ""dotnet ef-pack pack"" packs migrations into one migration and archives the originals in a zip; ""dotnet ef-pack unpack"" restores them. Works with EF Core 6 and later; projects reference the EfMigrationPack runtime package."
+2026-10-24T11:12:32.44Z,ThinkBase.AI.MPP,1.0.2,ThinkBase.AI,"The server side of the Machine Payments Protocol (MPP) for ASP.NET Core MCP servers: 402 payment challenges, settlement through Stripe or a Tempo stablecoin transfer, per tool prices held in MongoDB and the /openapi.json discovery document."
