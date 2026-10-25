@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-25T02:22:02.653Z,Silex.Sdk,1.0.0,Silex,"Client and IConfiguration provider for Silex (silex.sh), the encrypted secrets manager."
+2026-10-25T02:29:54.55Z,MajProtocol.Standard,2.0.0,"re-poem, fumiko",Packet types and property constants for the MajProtocol binary protocol. Ships the packet serialization source generator as an analyzer.
+2026-10-25T02:30:04.63Z,MajProtocol.Client.WebSocketSharp,2.0.0,"re-poem, fumiko","WebSocket client implementation of MajProtocol, used by an editor to drive the playback state of a player."
+2026-10-25T02:30:21.88Z,MajProtocol.Server.WebSocketSharp,2.0.0,"re-poem, fumiko","WebSocket server implementation of MajProtocol, used by a player to receive playback control from a client."
+2026-10-25T03:14:09.713Z,GoldMeridian.Reflection,1.0.0,Stephen Thiebaud et al.,"Reflection helpers for .NET; expression syntax for obtaining Reflection member info, reified events through type-safe objects."
