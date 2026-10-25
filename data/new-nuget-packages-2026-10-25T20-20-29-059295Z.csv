@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-25T19:24:21.857Z,Heossi.Saar,1.3.0,HEOSSI (Pte.) Ltd.,Thin .NET client over the Saar command-line interface.
+2026-10-25T19:35:05.557Z,MonoDetour.Interop.HarmonyX,0.7.17,Hamunii,Hooks HarmonyX at runtime to make it and MonoDetour play nice together.
+2026-10-25T19:37:26.02Z,Nanov.Kafka,2.16.0.2,Confluent Inc.;Andreas Heider;Dimitar Nanov,Nanov.Confluent.Kafka under the Nanov.Kafka namespace for use side by side with Confluent.Kafka.
+2026-10-25T19:40:31.417Z,haveno-dotnet,0.0.1,atsamd21,A library used to interact with the Haveno gRPC API
+2026-10-25T20:11:37.83Z,Efizzy.Doc2Pdf,1.0.0,Efizzy,"High-performance, zero-dependency .NET library to convert Word (.docx, .doc), HTML, Markdown, RTF, ODT, LaTeX, XML, and plain text documents to high-fidelity PDF directly in-process via native Rust engine."
