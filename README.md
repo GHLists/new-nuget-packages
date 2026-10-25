@@ -12,25 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 10:19 UTC
+## Latest list — 2026-10-25 11:21 UTC
 
-New packages created between 2026-10-25 09:19 UTC and 2026-10-25 10:19 UTC.
+New packages created between 2026-10-25 10:19 UTC and 2026-10-25 11:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-25T10-19-37-69509Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-25T11-21-20-173015Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-25 09:26:57 | [QuantumMatter.Application](https://www.nuget.org/packages/QuantumMatter.Application) | 1.0.0 | olgerd007 | Quantum simulation workflows, algorithms, terminal sampling and noisy trajector… |
-| 2026-10-25 09:26:58 | [QuantumMatter.Core](https://www.nuget.org/packages/QuantumMatter.Core) | 1.0.0 | olgerd007 | Quantum circuit and state models, mathematical invariants, and backend extensio… |
-| 2026-10-25 09:26:59 | [QuantumMatter.Infrastructure](https://www.nuget.org/packages/QuantumMatter.Infrastructure) | 1.0.0 | olgerd007 | Scalar CPU, parallel/SIMD CPU, NVIDIA CUDA and stochastic noise reference kerne… |
-| 2026-10-25 09:29:53 | [StructuredDecisions.Base](https://www.nuget.org/packages/StructuredDecisions.Base) | 26.10.7239 | Curiosity GmbH, Convai Innova… | The shared base of the StructuredDecisions models: the decision-model interface… |
-| 2026-10-25 09:29:56 | [StructuredDecisions.Laya.Catalyst](https://www.nuget.org/packages/StructuredDecisions.Laya.Catalyst) | 26.10.7239 | Curiosity GmbH, Convai Innova… | Statistical language identification for Laya's router, backed by Catalyst's lan… |
-| 2026-10-25 09:29:59 | [StructuredDecisions.Laya.Training](https://www.nuget.org/packages/StructuredDecisions.Laya.Training) | 26.10.7239 | Curiosity GmbH, Convai Innova… | Fine-tuning for Laya decision checkpoints on the CPU: backpropagation through M… |
-| 2026-10-25 09:30:03 | [StructuredDecisions.Laya](https://www.nuget.org/packages/StructuredDecisions.Laya) | 26.10.7239 | Curiosity GmbH, Convai Innova… | Laya: fast, non-autoregressive System 1 decisions with calibrated probabilities… |
-| 2026-10-25 09:30:06 | [StructuredDecisions.Mica](https://www.nuget.org/packages/StructuredDecisions.Mica) | 26.10.7239 | Curiosity GmbH, Convai Innova… | Mica v0.5 4B on the CPU: a Qwen3.5 decoder (Gated DeltaNet + gated attention) t… |
-| 2026-10-25 10:01:16 | [Synvro.Modulus.Testing.Authorization](https://www.nuget.org/packages/Synvro.Modulus.Testing.Authorization) | 1.6.0 | synvro | Conformance kit for an app's permission grants (TEST-1): the truth table every… |
-| 2026-10-25 10:01:29 | [Synvro.Modulus.Secrets.OpenBao](https://www.nuget.org/packages/Synvro.Modulus.Secrets.OpenBao) | 1.6.0 | synvro | OpenBao (Vault-compatible) secret provider for Modulus: KV v2 reads and check-a… |
-| 2026-10-25 10:12:45 | [SharpMediaInfo](https://www.nuget.org/packages/SharpMediaInfo) | 25.10.0 | Simone Bortolin | Package Description |
+| 2026-10-25 10:21:24 | [Plover.Protocol](https://www.nuget.org/packages/Plover.Protocol) | 1.0.0 | Bas Mulder | Package Description |
+| 2026-10-25 10:21:24 | [Plover.Client](https://www.nuget.org/packages/Plover.Client) | 1.0.0 | Bas Mulder | Package Description |
+| 2026-10-25 10:38:45 | [Proteus.Tui](https://www.nuget.org/packages/Proteus.Tui) | 0.1.0 | Przemyslaw Rachwal | Fast ANSI/VT terminal renderer for .NET: frame buffer, cell-level diff renderer… |
+| 2026-10-25 10:38:46 | [Proteus.Tui.Testing](https://www.nuget.org/packages/Proteus.Tui.Testing) | 0.1.0 | Przemyslaw Rachwal | Headless testing pilot for Proteus.Tui: drive controls with keys, mouse and res… |
+| 2026-10-25 10:38:46 | [Proteus.Tui.Mvvm](https://www.nuget.org/packages/Proteus.Tui.Mvvm) | 0.1.0 | Przemyslaw Rachwal | Minimal MVVM helpers for Proteus.Tui: ViewModelBase (INotifyPropertyChanged) an… |
+| 2026-10-25 10:38:47 | [Proteus.Tui.Controls](https://www.nuget.org/packages/Proteus.Tui.Controls) | 0.1.0 | Przemyslaw Rachwal | Retained-mode TUI controls for .NET: window, layouts (stack, grid, dock), butto… |
+| 2026-10-25 10:38:48 | [Proteus.Tui.Abstractions](https://www.nuget.org/packages/Proteus.Tui.Abstractions) | 0.1.0 | Przemyslaw Rachwal | Core abstractions for Proteus.Tui: terminal and frame-buffer interfaces, cells,… |
+| 2026-10-25 10:51:38 | [Kinetix.Services.DependencyInjection](https://www.nuget.org/packages/Kinetix.Services.DependencyInjection) | 10.1.0 | JabX | Injection de dépendances avec interception pour Kinetix. |
+| 2026-10-25 10:52:31 | [RabbitMcp.Contracts](https://www.nuget.org/packages/RabbitMcp.Contracts) | 1.0.0 | lazogio | [MessageContract] attribute for rabbit-mcp contract assemblies: every contract… |
+| 2026-10-25 10:52:31 | [RabbitMcp.Server](https://www.nuget.org/packages/RabbitMcp.Server) | 1.0.0 | lazogio | Contract-first MCP server for RabbitMQ: one typed tool per message contract (Ma… |
+| 2026-10-25 10:56:16 | [JavaScriptEventRegistrationAuditor](https://www.nuget.org/packages/JavaScriptEventRegistrationAuditor) | 1.2026.10.1 | Gagan Deep Singh | XrmToolBox plugin that audits JavaScript form event registrations in Microsoft… |
+| 2026-10-25 11:01:10 | [DimensionalQuantities.Extensions.Imperial](https://www.nuget.org/packages/DimensionalQuantities.Extensions.Imperial) | 2.0.0 | GoSim | Named Imperial and US customary conversions for dimensional quantities. |
+| 2026-10-25 11:01:11 | [DimensionalQuantities.Extensions.CgsEmag](https://www.nuget.org/packages/DimensionalQuantities.Extensions.CgsEmag) | 2.0.0 | GoSim | Named CGS electromagnetic and mechanical conversions for dimensional quantities. |
+| 2026-10-25 11:01:12 | [DimensionalQuantities.Extensions.Nautical](https://www.nuget.org/packages/DimensionalQuantities.Extensions.Nautical) | 2.0.0 | GoSim | Named nautical conversions for dimensional quantities. |
+| 2026-10-25 11:01:13 | [DimensionalQuantities.Extensions.Metric](https://www.nuget.org/packages/DimensionalQuantities.Extensions.Metric) | 2.0.0 | GoSim | Named metric conversions for dimensional quantities. |
+| 2026-10-25 11:11:43 | [DrewSoft.Collections](https://www.nuget.org/packages/DrewSoft.Collections) | 1.0.0 | DrewSoft | A bucketed priority queue collection for .NET. |
 
 ## Data source
 

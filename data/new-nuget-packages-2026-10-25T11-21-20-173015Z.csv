@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-25T10:21:24.017Z,Plover.Protocol,1.0.0,Bas Mulder,Package Description
+2026-10-25T10:21:24.567Z,Plover.Client,1.0.0,Bas Mulder,Package Description
+2026-10-25T10:38:45.23Z,Proteus.Tui,0.1.0,Przemyslaw Rachwal,"Fast ANSI/VT terminal renderer for .NET: frame buffer, cell-level diff renderer, alternate-screen virtual screen, raw input parser, color-depth downgrade and grapheme/emoji-aware layout."
+2026-10-25T10:38:46.037Z,Proteus.Tui.Testing,0.1.0,Przemyslaw Rachwal,"Headless testing pilot for Proteus.Tui: drive controls with keys, mouse and resize events and assert on the rendered text without a real terminal."
+2026-10-25T10:38:46.68Z,Proteus.Tui.Mvvm,0.1.0,Przemyslaw Rachwal,Minimal MVVM helpers for Proteus.Tui: ViewModelBase (INotifyPropertyChanged) and RelayCommand (ICommand).
+2026-10-25T10:38:47.387Z,Proteus.Tui.Controls,0.1.0,Przemyslaw Rachwal,"Retained-mode TUI controls for .NET: window, layouts (stack, grid, dock), buttons, text boxes, lists, tables, trees, menus, dialogs, charts, themes and style sheets."
+2026-10-25T10:38:48.087Z,Proteus.Tui.Abstractions,0.1.0,Przemyslaw Rachwal,"Core abstractions for Proteus.Tui: terminal and frame-buffer interfaces, cells, colors, rectangles and input events (keyboard, mouse, paste, focus)."
+2026-10-25T10:51:38.57Z,Kinetix.Services.DependencyInjection,10.1.0,JabX,Injection de dépendances avec interception pour Kinetix.
+2026-10-25T10:52:31.317Z,RabbitMcp.Contracts,1.0.0,lazogio,[MessageContract] attribute for rabbit-mcp contract assemblies: every contract becomes a typed MCP tool for RabbitMQ / MassTransit.
+2026-10-25T10:52:31.92Z,RabbitMcp.Server,1.0.0,lazogio,"Contract-first MCP server for RabbitMQ: one typed tool per message contract (MassTransit, plain JSON or AsyncAPI), safe error-queue recovery, audit and roles."
+2026-10-25T10:56:16.9Z,JavaScriptEventRegistrationAuditor,1.2026.10.1,Gagan Deep Singh,XrmToolBox plugin that audits JavaScript form event registrations in Microsoft Dataverse and exports an Excel report. Developed by Gagan Deep Singh - https://www.linkedin.com/in/glowofsky/
+2026-10-25T11:01:10.687Z,DimensionalQuantities.Extensions.Imperial,2.0.0,GoSim,Named Imperial and US customary conversions for dimensional quantities.
+2026-10-25T11:01:11.917Z,DimensionalQuantities.Extensions.CgsEmag,2.0.0,GoSim,Named CGS electromagnetic and mechanical conversions for dimensional quantities.
+2026-10-25T11:01:12.71Z,DimensionalQuantities.Extensions.Nautical,2.0.0,GoSim,Named nautical conversions for dimensional quantities.
+2026-10-25T11:01:13.537Z,DimensionalQuantities.Extensions.Metric,2.0.0,GoSim,Named metric conversions for dimensional quantities.
+2026-10-25T11:11:43.277Z,DrewSoft.Collections,1.0.0,DrewSoft,A bucketed priority queue collection for .NET.
