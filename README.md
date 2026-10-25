@@ -12,24 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 05:18 UTC
+## Latest list — 2026-10-25 06:22 UTC
 
-New packages created between 2026-10-25 04:20 UTC and 2026-10-25 05:18 UTC.
+New packages created between 2026-10-25 05:18 UTC and 2026-10-25 06:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-25T05-18-56-409439Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-25T06-22-13-241461Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-25 04:27:29 | [HyperCodecs](https://www.nuget.org/packages/HyperCodecs) | 1.0.0 | Glenn Watson | Sound and video containers and codecs written in managed C#: no native library… |
-| 2026-10-25 04:27:30 | [HyperCodecs.Platform](https://www.nuget.org/packages/HyperCodecs.Platform) | 1.0.0 | Glenn Watson | Operating system sound output and hardware video decoding for HyperCodecs: WASA… |
-| 2026-10-25 04:27:32 | [HyperCodecs.Platform.Linux](https://www.nuget.org/packages/HyperCodecs.Platform.Linux) | 1.0.0 | Glenn Watson | PulseAudio (and PipeWire) sound output and VA-API hardware video decoding for H… |
-| 2026-10-25 04:33:46 | [SeatsChart.Client](https://www.nuget.org/packages/SeatsChart.Client) | 0.1.1 | SeatsChart | Official SeatsChart .NET SDK for the SeatsChart seating API: seat maps, holds,… |
-| 2026-10-25 04:50:38 | [Octeka.Messaging](https://www.nuget.org/packages/Octeka.Messaging) | 1.2.0 | Patrick Robichaud | In-memory registry and message routing infrastructure for the Octeka Messaging… |
-| 2026-10-25 04:50:38 | [Octeka.Messaging.Abstractions](https://www.nuget.org/packages/Octeka.Messaging.Abstractions) | 1.2.0 | Patrick Robichaud | Core messaging abstractions and interfaces for the Octeka Messaging framework. |
-| 2026-10-25 04:50:39 | [Octeka.Messaging.Ipc](https://www.nuget.org/packages/Octeka.Messaging.Ipc) | 1.2.0 | Patrick Robichaud | High-throughput inter-process communication (IPC) client and server messaging v… |
-| 2026-10-25 04:50:39 | [Octeka.Messaging.Local](https://www.nuget.org/packages/Octeka.Messaging.Local) | 1.2.0 | Patrick Robichaud | High-performance in-memory local messenger for the Octeka Messaging framework. |
-| 2026-10-25 04:50:40 | [Octeka.Messaging.Serialization.Json](https://www.nuget.org/packages/Octeka.Messaging.Serialization.Json) | 1.2.0 | Patrick Robichaud | UTF-8 JSON message serializer for the Octeka Messaging framework. |
-| 2026-10-25 04:50:41 | [Octeka.Messaging.Tcp](https://www.nuget.org/packages/Octeka.Messaging.Tcp) | 1.2.0 | Patrick Robichaud | Reliable socket-based TCP client and server messaging with binary envelope fram… |
+| 2026-10-25 05:27:40 | [LilyDesignSystem.Blazor.TimeZonePicker](https://www.nuget.org/packages/LilyDesignSystem.Blazor.TimeZonePicker) | 0.1.0 | Joel Parker Henderson | Lily Design System Blazor time zone picker: an icon button opening an APG listb… |
+| 2026-10-25 05:28:52 | [Meziantou.Framework.WebPlatform.Playwright](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.Playwright) | 1.0.0 | meziantou | A Playwright server for Meziantou.Framework.WebPlatform: the Playwright clients… |
+| 2026-10-25 05:28:54 | [Meziantou.Framework.WebPlatform.Playwright.Tool](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.Playwright.Tool) | 1.0.0 | meziantou | CLI that runs a Playwright server whose browser is Meziantou.Framework.WebPlatf… |
+| 2026-10-25 05:32:16 | [Sharphy.Cli](https://www.nuget.org/packages/Sharphy.Cli) | 1.0.2 | Bahar Maulidi | Global CLI and MCP server executable bridge for Sharphy CLR Intelligence. |
+| 2026-10-25 05:32:18 | [Sharphy.Core](https://www.nuget.org/packages/Sharphy.Core) | 1.0.2 | Bahar Maulidi | Core diagnostics, decompiler, ECMA-335 metadata, and CIL mutation engines for S… |
+| 2026-10-25 05:32:19 | [Sharphy.Server](https://www.nuget.org/packages/Sharphy.Server) | 1.0.2 | Bahar Maulidi | Model Context Protocol (MCP) server dispatcher and protocol handlers for Sharph… |
+| 2026-10-25 05:53:40 | [Egami.Video](https://www.nuget.org/packages/Egami.Video) | 1.0.0 | Lars Dytterud | A fully managed, MIT-licensed video and audio library for .NET built on Egami:… |
+| 2026-10-25 06:14:12 | [Egami.Video.Cli](https://www.nuget.org/packages/Egami.Video.Cli) | 1.0.0 | Lars Dytterud | The egami-video command: inspect, remux, cut, join, export frames, make clips a… |
+| 2026-10-25 06:15:52 | [Egami.Video.H264](https://www.nuget.org/packages/Egami.Video.H264) | 1.0.0 | Lars Dytterud | H.264 (AVC) decoding for Egami.Video, in managed code: progressive Constrained… |
 
 ## Data source
 
