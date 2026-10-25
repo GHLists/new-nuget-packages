@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-25T20:24:26.613Z,Sidub.Platform.Search,1.12.0,Sidub Inc.,Package Description
+2026-10-25T20:24:28.077Z,Sidub.Platform.Search.AzureSearch,1.12.0,Sidub Inc.,Package Description
+2026-10-25T20:32:16.54Z,aspneticons,1.0.0,aspneticons,"391 classic 16x16 ASP.NET Icons as GIFs, PNGs, and a CSS sprite sheet for classic ASP.NET applications."
+2026-10-25T20:32:37.943Z,aspneticons.AspNetCore,1.0.0,aspneticons,"391 classic 16x16 ASP.NET Icons as GIFs, PNGs, and a CSS sprite sheet for ASP.NET Core applications."
+2026-10-25T20:51:59.51Z,Tesserae.Themes.Zeitung,26.10.72826,Curiosity GmbH,"A broadsheet-newspaper Tesserae custom theme: off-white newsprint, serif text, hairline column rules, small-caps labels and one spot red."
+2026-10-25T20:52:09.767Z,Tesserae.Themes.Blaupause,26.10.72826,Curiosity GmbH,"An engineering-blueprint Tesserae custom theme: Prussian-blue drafting paper with a faint grid, white linework, dimension-line borders and stencil capitals."
+2026-10-25T20:52:20.053Z,Tesserae.Themes.Phosphor,26.10.72826,Curiosity GmbH,"A character-terminal Tesserae custom theme: green phosphor on black glass with scanlines in dark mode, a green-bar line-printer printout in light mode; monospace type, box-drawing frames and an inverse-video block cursor."
+2026-10-25T20:52:30.183Z,Tesserae.Themes.Glas,26.10.72826,Curiosity GmbH,"A frosted-glass Tesserae custom theme: translucent blurred panels over a soft colour field, specular edges and generous radii."
+2026-10-25T20:52:43.32Z,Tesserae.Themes.Kontrast,26.10.72826,Curiosity GmbH,"A high-contrast, accessibility-first Tesserae custom theme: AAA contrast, thick focus rings, underlined links, no meaning by colour alone, forced-colors aware."
+2026-10-25T20:52:53.327Z,Tesserae.Themes.Memphis,26.10.72826,Curiosity GmbH,"A 1980s Memphis-style Tesserae custom theme: squiggles and confetti patterns, clashing pastels, thick black outlines and offset solid shadows."
+2026-10-25T20:53:04.53Z,Tesserae.Themes.Washi,26.10.72826,Curiosity GmbH,"A Japanese paper-and-ink Tesserae custom theme: rice-paper texture, sumi-ink black, a vermilion seal-stamp accent and generous whitespace."
+2026-10-25T20:53:17.73Z,Tesserae.Themes.Graustufe,26.10.72826,Curiosity GmbH,"An e-paper Tesserae custom theme: pure greys, no motion at all, dithered shadows and crisp 1px rules, built for a slow refresh."
+2026-10-25T20:53:29.433Z,Tesserae.Themes.Kristall,26.10.72826,Curiosity GmbH,"A desktop-glass Tesserae custom theme after the translucent macOS look: vibrancy sidebars and toolbars over a wallpaper, window chrome, system-blue accent and native-feeling controls."
+2026-10-25T21:00:59.27Z,JetPack.Web,0.1.0,Martin Kirk,"The JetPack theme of JetPack.Wpf for ASP.NET Core: CSS for every control, a dependency-free script for drop-downs, calendars, menus, tabs, flyouts and dialogs, tag helpers named after the WPF controls, and Material Design Icons."
+2026-10-25T21:05:43.433Z,BulletSharp.Double,1.0.0,vojnar-autonomous,"Idiomatic, SWIG-like double-precision C# binding for the Bullet Physics Library (bullet3), compiled with USE_DOUBLE_PRECISION and closely following bullet3's own naming and conventions. Bundles native runtimes for win-x64, win-arm64, linux-x64, linux-arm64, osx-x64 and osx-arm64. Covers collision s…"
+2026-10-25T21:09:54.79Z,PCox.ServiceDefaults,0.1.0,Peter Cox,Shared Aspire service defaults for ASP.NET Core applications.
