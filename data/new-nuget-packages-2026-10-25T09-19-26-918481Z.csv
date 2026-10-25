@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-25T08:27:28.247Z,Parlam.ContentHub.Umbraco,0.0.10,Parlam,"Backoffice extension that opens the Parlam Content Hub translation app from Umbraco 17: translate documents and dictionary items, and open the Parlam queue, setup and publishing screens."
+2026-10-25T08:39:56.5Z,dotVault.Cli,2026.10.25.81,software.tirol,"CLI für den Secrets-Tresor dotVault: Anmeldung im Browser, Werte lesen und schreiben, Befehle mit Werten und dynamischen Zugängen starten. Command line for the dotVault secrets vault: browser login, read and write secrets, run commands with secrets and dynamic credentials."
+2026-10-25T08:46:06.39Z,Nextmail,0.0.1,Nextmail,"The official .NET SDK for the Nextmail API. Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppressions, files, API keys, roles, members, mailbox imports and disposable inboxes from C#."
+2026-10-25T08:59:13.563Z,OlmaxPdf,1.3.1,Oleg Maximenko,Tool to view and perform common modifications to PDFs. Based on PDFium.
