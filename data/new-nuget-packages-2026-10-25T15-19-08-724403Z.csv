@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-25T14:22:37.86Z,MBW.Utilities.ManagedSqlite,0.12.0,LordMike,"SQLite3 library in managed C# that can read sqlite db files: the binary database, its tables and rows, and the table definitions from the schema's CREATE statements."
+2026-10-25T14:25:34.917Z,Mycopunk.GameLibs.Steam,2.0.3.26165957,Vilsol,Stripped and publicized game libraries for modding Mycopunk. Compile-time reference only.
+2026-10-25T14:33:34.237Z,ComplexityAnalysis.Tool,1.0.0,Rodrigo de Oliveira,"Deterministic project-level C# complexity reports, snapshots, regression comparison, quality gates, and SARIF export."
+2026-10-25T14:46:33.78Z,MMCA.Common.Gcp,1.257.0,Ivan Ball,"MMCA framework: the Google Cloud adapter. Google Cloud Storage file storage, Secret Manager configuration, the Cloud Storage DataProtection key ring with optional Cloud KMS encryption, FCM native push over a Firestore installation registry, Cloud SQL IAM authentication for PostgreSQL and the Teleme…"
+2026-10-25T14:47:07.117Z,Nite.Cli,0.5.0,Tim McQueen,Package Description
+2026-10-25T14:47:07.573Z,Nite,0.5.0,Tim McQueen,"Run TypeScript, JSX and React islands from ASP.NET Core without a Node.js toolchain."
+2026-10-25T14:49:08.193Z,MicrosoftNugetPack.Model.QwenCoder.Part6,1.9.1,AIOKO; Qwen Team,"Bundled Qwen2.5-Coder 1.5B Instruct (Q4_K_M, CPU) model, part Part6. Automatically restored by MicrosoftNugetPack; no manual setup."
+2026-10-25T14:49:47.523Z,Valtuutus.Data.MySql,2.2.0,Valtuutus,"Valtuutus MySQL and MariaDB support; Valtuutus is a high-performance Relationship-Based Access Control (ReBAC) authorization library for .NET inspired by Google Zanzibar, for fine-grained permissions in ASP.NET Core and .NET applications."
+2026-10-25T14:49:47.95Z,MicrosoftNugetPack.Model.QwenCoder.Part5,1.9.1,AIOKO; Qwen Team,"Bundled Qwen2.5-Coder 1.5B Instruct (Q4_K_M, CPU) model, part Part5. Automatically restored by MicrosoftNugetPack; no manual setup."
+2026-10-25T14:50:28.633Z,MicrosoftNugetPack.Model.QwenCoder.Part4,1.9.1,AIOKO; Qwen Team,"Bundled Qwen2.5-Coder 1.5B Instruct (Q4_K_M, CPU) model, part Part4. Automatically restored by MicrosoftNugetPack; no manual setup."
+2026-10-25T14:50:31.497Z,Adliance.AspNetCore.Buddy.Npgsql,10.0.0.2,Hannes Sachsenhofer,"PostgreSQL support for ASP.NET Core and Entity Framework Core, including passwordless authentication via Microsoft Entra ID and migration helpers."
+2026-10-25T14:52:05Z,MicrosoftNugetPack.Model.QwenCoder.Part3,1.9.1,AIOKO; Qwen Team,"Bundled Qwen2.5-Coder 1.5B Instruct (Q4_K_M, CPU) model, part Part3. Automatically restored by MicrosoftNugetPack; no manual setup."
+2026-10-25T14:52:38.92Z,MicrosoftNugetPack.Model.QwenCoder.Part2,1.9.1,AIOKO; Qwen Team,"Bundled Qwen2.5-Coder 1.5B Instruct (Q4_K_M, CPU) model, part Part2. Automatically restored by MicrosoftNugetPack; no manual setup."
+2026-10-25T14:53:20.33Z,MicrosoftNugetPack.Model.QwenCoder.Part1,1.9.1,AIOKO; Qwen Team,"Bundled Qwen2.5-Coder 1.5B Instruct (Q4_K_M, CPU) model, part Part1. Automatically restored by MicrosoftNugetPack; no manual setup."
+2026-10-25T14:54:06.867Z,Guamian.BetterGI.NcnnShim,0.1.0,bettergi-ncnn-shim,BetterGI ncnn Vulkan 胶水层原生库（C ABI shim，静态链接 ncnn + glslang + SPIRV）
+2026-10-25T14:54:51.873Z,Snail.MCP.AfterEffects,0.1.0,orldev,"MCP server that lets AI agents drive a running Adobe After Effects through its ExtendScript bridge: projects, compositions, layers, properties, keyframes, expressions, effects, text, shapes and rendering. Runs over stdio beside After Effects on this machine."
+2026-10-25T15:03:04.2Z,RecursiveAI.OneAudio,1.0.0,"Recursive AI, LLC","Audio decode, encode, resample, mix and analyse for .NET, with no dependencies beyond the base class library."
