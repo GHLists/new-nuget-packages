@@ -12,29 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 00:21 UTC
+## Latest list — 2026-10-25 01:21 UTC
 
-New packages created between 2026-10-24 23:20 UTC and 2026-10-25 00:21 UTC.
+New packages created between 2026-10-25 00:21 UTC and 2026-10-25 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-25T00-21-52-292217Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-25T01-21-18-940735Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-24 23:26:02 | [DotNetPip](https://www.nuget.org/packages/DotNetPip) | 1.0.0 | Jaime Olivares | Universal In-Process C# - Python Interoperability Engine for .NET 10 |
-| 2026-10-24 23:27:34 | [KDesktop.Assistant.Sdk](https://www.nuget.org/packages/KDesktop.Assistant.Sdk) | 1.0.0 | Kobayashi82 | The SDK for writing assistants for K-Desktop: characters that live on top of yo… |
-| 2026-10-24 23:27:36 | [KDesktop.Assistant.Templates](https://www.nuget.org/packages/KDesktop.Assistant.Templates) | 1.0.0 | Kobayashi82 | dotnet new template for a K-Desktop assistant (kdassistant): the smallest compl… |
-| 2026-10-24 23:37:46 | [KatziDrip](https://www.nuget.org/packages/KatziDrip) | 1.0.8 | AaronoLW | Theme library for Katzi software |
-| 2026-10-24 23:38:50 | [Bts.Login.AspNetCore](https://www.nuget.org/packages/Bts.Login.AspNetCore) | 1.0.1 | Bellga Tech Solutions | "Entrar com BTS" para sites e APIs ASP.NET Core: login OpenID Connect com PKCE… |
-| 2026-10-24 23:38:51 | [Bts.Login.Cliente](https://www.nuget.org/packages/Bts.Login.Cliente) | 1.0.1 | Bellga Tech Solutions | "Entrar com BTS" para apps (.NET, MAUI, desktop): Authorization Code + PKCE pel… |
-| 2026-10-24 23:38:53 | [Bts.Login.Maui](https://www.nuget.org/packages/Bts.Login.Maui) | 1.0.1 | Bellga Tech Solutions | "Entrar com BTS" para apps .NET MAUI: login pelo navegador do sistema (WebAuthe… |
-| 2026-10-24 23:49:29 | [Vanara.PInvoke.WebAuthn](https://www.nuget.org/packages/Vanara.PInvoke.WebAuthn) | 5.0.8 | David Hall | PInvoke API (methods, structures and constants) imported from the WebAuthn API. |
-| 2026-10-24 23:57:24 | [VertaIT.WPF.NetTheme](https://www.nuget.org/packages/VertaIT.WPF.NetTheme) | 1.0.0 | Verta IT | Free and easy-to-use light and dark themes for WPF applications |
-| 2026-10-24 23:57:24 | [VertaIT.WPF.Theme](https://www.nuget.org/packages/VertaIT.WPF.Theme) | 1.0.0 | Verta IT | Free and easy-to-use light and dark themes for WPF applications |
-| 2026-10-25 00:06:23 | [IBKR.Net](https://www.nuget.org/packages/IBKR.Net) | 0.1.0 | LimitlessSoft | A from-scratch .NET client for the Interactive Brokers TWS / IB Gateway socket… |
-| 2026-10-25 00:06:24 | [IBKR.Net.Contracts](https://www.nuget.org/packages/IBKR.Net.Contracts) | 0.1.0 | LimitlessSoft | Models and options of IBKR.Net, a from-scratch client for the Interactive Broke… |
-| 2026-10-25 00:10:59 | [Tharga.Team.Support.Anthropic](https://www.nuget.org/packages/Tharga.Team.Support.Anthropic) | 4.4.0 | Daniel Bohlin | Lets each team's support assistant answer through its own Neurolito key, over t… |
-| 2026-10-25 00:12:50 | [Shaderlyn.CFamily](https://www.nuget.org/packages/Shaderlyn.CFamily) | 0.3.0 | OmojiP | Shaderlyn の C 系のシェーダー言語 (HLSL / GLSL / Slang など) に共通の部分。字句解析、トークン、プリプロセッサ、取り込みの… |
-| 2026-10-25 00:12:55 | [Shaderlyn.Glsl](https://www.nuget.org/packages/Shaderlyn.Glsl) | 0.3.0 | OmojiP | Shaderlyn の GLSL の構文解析 (GLSL に固有の構文)。 |
+| 2026-10-25 00:28:25 | [VQ](https://www.nuget.org/packages/VQ) | 0.0.1 | JRBlockkop, AaronoLW | C# Bindings for the VizQuick library |
+| 2026-10-25 00:46:23 | [Web3TotalButton](https://www.nuget.org/packages/Web3TotalButton) | 1.0.1 | Steven-Carol | A beautiful and customizable Button control for WinUI 3 applications. |
+| 2026-10-25 00:50:35 | [Nops.Core](https://www.nuget.org/packages/Nops.Core) | 1.0.0 | Nops Contributors | In-process SOPS decryption for .NET - format parsing, MAC verification, and age… |
+| 2026-10-25 00:50:35 | [Nops.Configuration](https://www.nuget.org/packages/Nops.Configuration) | 1.0.0 | Nops Contributors | Microsoft.Extensions.Configuration provider for SOPS-encrypted files (YAML, JSO… |
+| 2026-10-25 00:50:35 | [Nops.Core.AwsKms](https://www.nuget.org/packages/Nops.Core.AwsKms) | 1.0.0 | Nops Contributors | AWS KMS master key provider for Nops - in-process SOPS decryption. |
+| 2026-10-25 00:50:35 | [Nops.Core.GcpKms](https://www.nuget.org/packages/Nops.Core.GcpKms) | 1.0.0 | Nops Contributors | GCP KMS master key provider for Nops - in-process SOPS decryption. |
+| 2026-10-25 00:50:36 | [Nops.Core.Azkv](https://www.nuget.org/packages/Nops.Core.Azkv) | 1.0.0 | Nops Contributors | Azure Key Vault master key provider for Nops - in-process SOPS decryption. |
+| 2026-10-25 00:50:36 | [Nops.Core.Vault](https://www.nuget.org/packages/Nops.Core.Vault) | 1.0.0 | Nops Contributors | HashiCorp Vault Transit master key provider for Nops - in-process SOPS decrypti… |
+| 2026-10-25 01:09:01 | [Dloizides.Payments.Abstractions](https://www.nuget.org/packages/Dloizides.Payments.Abstractions) | 1.0.0 | DLoizides | Stripe-free merchant payment value objects (MerchantStripeCredentials, Merchant… |
+| 2026-10-25 01:12:38 | [Workes.ConsoleSystem.Unity.Logging](https://www.nuget.org/packages/Workes.ConsoleSystem.Unity.Logging) | 1.0.0 | Workes | Optional Unity application log callback adapter for Workes.ConsoleSystem with N… |
 
 ## Data source
 

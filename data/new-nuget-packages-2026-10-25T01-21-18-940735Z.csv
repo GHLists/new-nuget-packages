@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-25T00:28:25.47Z,VQ,0.0.1,"JRBlockkop, AaronoLW",C# Bindings for the VizQuick library
+2026-10-25T00:46:23.977Z,Web3TotalButton,1.0.1,Steven-Carol,A beautiful and customizable Button control for WinUI 3 applications.
+2026-10-25T00:50:35.023Z,Nops.Core,1.0.0,Nops Contributors,"In-process SOPS decryption for .NET - format parsing, MAC verification, and age/PGP master keys with zero native dependencies."
+2026-10-25T00:50:35.35Z,Nops.Configuration,1.0.0,Nops Contributors,"Microsoft.Extensions.Configuration provider for SOPS-encrypted files (YAML, JSON, dotenv, INI) with reload on change. Works with ASP.NET Core, the generic host and console apps."
+2026-10-25T00:50:35.66Z,Nops.Core.AwsKms,1.0.0,Nops Contributors,AWS KMS master key provider for Nops - in-process SOPS decryption.
+2026-10-25T00:50:35.97Z,Nops.Core.GcpKms,1.0.0,Nops Contributors,GCP KMS master key provider for Nops - in-process SOPS decryption.
+2026-10-25T00:50:36.27Z,Nops.Core.Azkv,1.0.0,Nops Contributors,Azure Key Vault master key provider for Nops - in-process SOPS decryption.
+2026-10-25T00:50:36.573Z,Nops.Core.Vault,1.0.0,Nops Contributors,HashiCorp Vault Transit master key provider for Nops - in-process SOPS decryption.
+2026-10-25T01:09:01.697Z,Dloizides.Payments.Abstractions,1.0.0,DLoizides,"Stripe-free merchant payment value objects (MerchantStripeCredentials, MerchantStripeKey, MerchantStripeSecrets) for domain projects that must not reference ASP.NET Core or Stripe.net."
+2026-10-25T01:12:38.663Z,Workes.ConsoleSystem.Unity.Logging,1.0.0,Workes,Optional Unity application log callback adapter for Workes.ConsoleSystem with NuGet and Unity Package Manager delivery paths.
