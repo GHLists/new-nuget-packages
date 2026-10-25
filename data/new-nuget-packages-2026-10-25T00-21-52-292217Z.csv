@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-10-24T23:26:02.957Z,DotNetPip,1.0.0,Jaime Olivares,Universal In-Process C# - Python Interoperability Engine for .NET 10
+2026-10-24T23:27:34.683Z,KDesktop.Assistant.Sdk,1.0.0,Kobayashi82,"The SDK for writing assistants for K-Desktop: characters that live on top of your windows, talk with their own voice, think with a local AI and run your K-Desktop commands with visible gestures. Building an assistant project makes its .kai package (signed, when you have a key)."
+2026-10-24T23:27:36.08Z,KDesktop.Assistant.Templates,1.0.0,Kobayashi82,"dotnet new template for a K-Desktop assistant (kdassistant): the smallest complete assistant with code, which builds into a .kai package."
+2026-10-24T23:37:46.59Z,KatziDrip,1.0.8,AaronoLW,Theme library for Katzi software
+2026-10-24T23:38:50.85Z,Bts.Login.AspNetCore,1.0.1,Bellga Tech Solutions,"""Entrar com BTS"" para sites e APIs ASP.NET Core: login OpenID Connect com PKCE na Bellga Tech Solutions, dados da pessoa e níveis de verificação, validação de tokens na API e o botão oficial."
+2026-10-24T23:38:51.973Z,Bts.Login.Cliente,1.0.1,Bellga Tech Solutions,"""Entrar com BTS"" para apps (.NET, MAUI, desktop): Authorization Code + PKCE pelo navegador do sistema, validação do id_token, renovação e saída. Inclui o retorno local (127.0.0.1) para apps de computador."
+2026-10-24T23:38:53.14Z,Bts.Login.Maui,1.0.1,Bellga Tech Solutions,"""Entrar com BTS"" para apps .NET MAUI: login pelo navegador do sistema (WebAuthenticator no Android/iOS, retorno local no Windows) e o botão oficial BotaoBts."
+2026-10-24T23:49:29.82Z,Vanara.PInvoke.WebAuthn,5.0.8,David Hall,"PInvoke API (methods, structures and constants) imported from the WebAuthn API."
+2026-10-24T23:57:24.02Z,VertaIT.WPF.NetTheme,1.0.0,Verta IT,Free and easy-to-use light and dark themes for WPF applications
+2026-10-24T23:57:24.517Z,VertaIT.WPF.Theme,1.0.0,Verta IT,Free and easy-to-use light and dark themes for WPF applications
+2026-10-25T00:06:23.84Z,IBKR.Net,0.1.0,LimitlessSoft,A from-scratch .NET client for the Interactive Brokers TWS / IB Gateway socket API. Contains no Interactive Brokers code.
+2026-10-25T00:06:24.41Z,IBKR.Net.Contracts,0.1.0,LimitlessSoft,"Models and options of IBKR.Net, a from-scratch client for the Interactive Brokers TWS / IB Gateway socket API."
+2026-10-25T00:10:59.58Z,Tharga.Team.Support.Anthropic,4.4.0,Daniel Bohlin,"Lets each team's support assistant answer through its own Neurolito key, over the Anthropic Messages API — the one package that takes the Anthropic SDK."
+2026-10-25T00:12:50.637Z,Shaderlyn.CFamily,0.3.0,OmojiP,Shaderlyn の C 系のシェーダー言語 (HLSL / GLSL / Slang など) に共通の部分。字句解析、トークン、プリプロセッサ、取り込みの解決と使い回し。
+2026-10-25T00:12:55.423Z,Shaderlyn.Glsl,0.3.0,OmojiP,Shaderlyn の GLSL の構文解析 (GLSL に固有の構文)。
