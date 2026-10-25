@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-10-25T15:19:55.903Z,WinAnonymizer,0.1.0,Florian Gilde,"Contracts and WPF window extensions to partially anonymize WPF applications. Managed-only, no native code. Install WinAnonymizer.Native for the real implementation."
+2026-10-25T15:19:57.113Z,WinAnonymizer.Native,0.1.0,Florian Gilde,"Native (P/Invoke) IAnonymizer implementation for WinAnonymizer: window title spoofing, PEB image-path spoofing, parent-process spoofing. Opt-in; may trigger antivirus heuristics. See the readme."
+2026-10-25T15:22:19.813Z,Octeka.Configuration.Secrets,1.3.0,Patrick Robichaud,Package Description
+2026-10-25T15:22:20.4Z,Octeka.Configuration.Secrets.Abstractions,1.3.0,Patrick Robichaud,Package Description
+2026-10-25T15:22:20.997Z,Octeka.Configuration.Secrets.Providers.LinuxSecretStore,1.3.0,Patrick Robichaud,Package Description
+2026-10-25T15:22:21.62Z,Octeka.Configuration.Secrets.Providers.WindowsCredentials,1.3.0,Patrick Robichaud,Package Description
+2026-10-25T15:27:38.29Z,DWIS.RigOS.Contracts.RigJob,1.0.0,DWIS.RigOS.Contracts.RigJob,"Versioned OSDC RigJob Blackboard JSON schema, metadata and document URLs."
+2026-10-25T15:27:44.757Z,DWIS.RigOS.Contracts.Rig,1.0.0,DWIS.RigOS.Contracts.Rig,"Versioned OSDC Rig Blackboard JSON schema, metadata and document URLs."
+2026-10-25T15:28:30.07Z,Trellis.Templates,0.1.0,Trellis contributors,"A rich-DDD, Clean Architecture .NET 10 solution template: feature-based minimal APIs, separate Infrastructure and Persistence, Aspire orchestration, Blazor UI, and an AI-friendly repository."
+2026-10-25T15:29:21.67Z,STTech.BytesIO.Bluetooth,3.3.2-alpha61025,Guijie Lee,STTech.BytesIO 蓝牙扩展库，支持经典蓝牙 (Classic Bluetooth / RFCOMM / SPP) 与低功耗蓝牙 (BLE / GATT)，内置设备发现管理器 (BluetoothManager) 与统一的 BytesClient 通信模型。
+2026-10-25T15:33:07.723Z,MoqNet.Native,0.3.17,konnta0,MIT-licensed MoQ .NET/Unity FFI bindings with embedded native runtime. Bundles moq native binaries licensed under MIT OR Apache-2.0.
+2026-10-25T15:33:24.367Z,Themis.Inference.Shared,2.0.3,Themis contributors,"Shared model artifact, tokenizer, and decision-mapping utilities for Themis inference packages."
+2026-10-25T15:33:28.887Z,Themis.Inference.Gguf,2.0.3,Themis contributors,Optional GGUF and llama.cpp inference providers and model packing for Themis.
+2026-10-25T15:33:34.013Z,Themis.Inference.CoreML,2.0.3-preview,Themis contributors,Optional Core ML execution-provider integration for Themis ONNX inference.
+2026-10-25T15:33:35.303Z,Themis.Inference.Cuda,2.0.3-preview,Themis contributors,Optional NVIDIA CUDA execution-provider integration for Themis ONNX inference on Linux x64.
+2026-10-25T15:33:38.46Z,Themis.Inference.QNN,2.0.3-preview,Themis contributors,Optional Qualcomm QNN NPU execution-provider integration for Themis ONNX inference through Windows ML.
+2026-10-25T15:33:39.81Z,Themis.Inference.TensorRT,2.0.3-preview,Themis contributors,Experimental optional ONNX Runtime TensorRT integration for Themis on Linux x64.
+2026-10-25T15:33:41.11Z,Themis.Inference.WebGpu,2.0.3-preview,Themis contributors,Optional ONNX Runtime WebGPU plugin integration for Themis on Linux x64.
+2026-10-25T15:34:02.357Z,MoqNet.Client,0.3.17,konnta0,"MIT-licensed high-level async MoQ client for .NET 8.0+. Depends on MoqNet.Native, which bundles moq native binaries licensed under MIT OR Apache-2.0."
+2026-10-25T15:34:33.47Z,AtomUI.Fonts.AlibabaPuHuiTi,6.2.9,Qinware Technologies Ltd.,"AtomUI is an Ant Design 6 component system for Avalonia/.NET desktop applications, including themed controls, design tokens, icons, native window integration and optional DataGrid, ColorPicker and Extras packages."
+2026-10-25T15:37:36.62Z,RecursiveAI.OneShader.Build,1.0.0,"Recursive AI, LLC","Compiles HLSL shaders during dotnet build: SPIR-V embedded in the assembly, shader errors as build errors on the HLSL line, and generated C# structs and binding constants laid out to match each shader."
+2026-10-25T15:37:36.947Z,RecursiveAI.OneShader,1.0.0,"Recursive AI, LLC","A HLSL compiler for .NET written in C# with no dependencies: vertex, pixel and compute shaders to SPIR-V for Vulkan, with reflection. Runtime compiler and the support types used by RecursiveAI.OneShader.Build."
+2026-10-25T15:42:41.007Z,VGUI2.Avalonia,0.0.1,ApertureScienceTeam,Classic VGUI2 (Source engine style) control set for Avalonia 12.
+2026-10-25T15:52:40.687Z,Sdcb.Arithmetic,1.0.0,sdcb,"High-performance, pure managed C# arbitrary-precision arithmetic: big integers and rationals plus correctly-rounded arbitrary-precision floating point (five rounding modes, NaN/Inf/signed zero, elementary and transcendental functions). SIMD-accelerated with portable fallbacks, no native dependencie…"
+2026-10-25T16:11:35.227Z,JAG.Capsule.Native.SDL3,3.4.18,JAG Studios,"SDL3 for Windows, Linux and macOS, built by Capsule for its desktop host, and the sdl2-compat bridge the host's current graphics substrate loads as SDL2. A game never references it: JAG.Capsule.Runtime.Desktop does."
+2026-10-25T16:11:37.65Z,JAG.Capsule.ShaderTools,1.0.0,JAG Studios,"The DirectX Shader Compiler (DXC) and SPIRV-Cross, built by Capsule for Windows, Linux and macOS workstations, which Capsule's asset build compiles a game's shaders with. A game never references it: JAG.Capsule does."
+2026-10-25T16:11:59.1Z,Felix.Client,0.6.2,Felix contributors,"C# client for the Felix streaming broker, a binding over the Felix C ABI. The package carries the native library for Linux, macOS and Windows on x64 and arm64."
