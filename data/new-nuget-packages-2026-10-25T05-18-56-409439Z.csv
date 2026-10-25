@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-25T04:27:29.233Z,HyperCodecs,1.0.0,Glenn Watson,Sound and video containers and codecs written in managed C#: no native library is loaded. Everything reads and writes spans and is safe to trim and compile ahead of time.
+2026-10-25T04:27:30.61Z,HyperCodecs.Platform,1.0.0,Glenn Watson,"Operating system sound output and hardware video decoding for HyperCodecs: WASAPI and Media Foundation on Windows, Audio Toolbox and VideoToolbox on Apple systems, AudioTrack and MediaCodec on Android, and a plain build with none. Linux has its own package, HyperCodecs.Platform.Linux. Each build ho…"
+2026-10-25T04:27:32.303Z,HyperCodecs.Platform.Linux,1.0.0,Glenn Watson,PulseAudio (and PipeWire) sound output and VA-API hardware video decoding for HyperCodecs on Linux.
+2026-10-25T04:33:46.377Z,SeatsChart.Client,0.1.1,SeatsChart,"Official SeatsChart .NET SDK for the SeatsChart seating API: seat maps, holds, reservations and ticketing inventory, with automatic retries and idempotency keys."
+2026-10-25T04:50:38.27Z,Octeka.Messaging,1.2.0,Patrick Robichaud,In-memory registry and message routing infrastructure for the Octeka Messaging framework.
+2026-10-25T04:50:38.853Z,Octeka.Messaging.Abstractions,1.2.0,Patrick Robichaud,Core messaging abstractions and interfaces for the Octeka Messaging framework.
+2026-10-25T04:50:39.487Z,Octeka.Messaging.Ipc,1.2.0,Patrick Robichaud,High-throughput inter-process communication (IPC) client and server messaging via Named Pipes.
+2026-10-25T04:50:39.983Z,Octeka.Messaging.Local,1.2.0,Patrick Robichaud,High-performance in-memory local messenger for the Octeka Messaging framework.
+2026-10-25T04:50:40.693Z,Octeka.Messaging.Serialization.Json,1.2.0,Patrick Robichaud,UTF-8 JSON message serializer for the Octeka Messaging framework.
+2026-10-25T04:50:41.29Z,Octeka.Messaging.Tcp,1.2.0,Patrick Robichaud,Reliable socket-based TCP client and server messaging with binary envelope framing.
