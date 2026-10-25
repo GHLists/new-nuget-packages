@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-25T18:29:18.91Z,PCox.Authentication.EntityFrameworkCore,0.1.0,Peter Cox,Shared ASP.NET Core authentication and persisted browser sessions.
+2026-10-25T18:29:19.403Z,PCox.Authentication,0.1.0,Peter Cox,Shared ASP.NET Core authentication and persisted browser sessions.
+2026-10-25T18:29:50.4Z,Kododo.MonitorWay,2.0.0-preview,Kododo,"The telemetry of an ASP.NET Core application in a panel served by the application itself: an OpenTelemetry exporter that keeps the logs, traces and metrics in memory with their own retention, groups the exceptions, and reads log files of any size."
+2026-10-25T18:29:51.34Z,Kododo.MonitorWay.Core,2.0.0-preview,Kododo,"Core model of MonitorWay: log entries, traces and their queries."
+2026-10-25T18:29:52.14Z,Kododo.MonitorWay.Mcp,2.0.0-preview,Kododo,"Lets AI agents read the telemetry kept by MonitorWay over the Model Context Protocol: the overview of the HTTP endpoints, logs with search and context, traces with their spans, errors grouped with their occurrences, and metrics as time series."
+2026-10-25T18:29:52.913Z,Kododo.MonitorWay.Otlp,2.0.0-preview,Kododo,"OTLP/HTTP receiver of MonitorWay: other services, in any language, send their traces, metrics and logs to the application's MonitorWay, in protobuf or JSON."
+2026-10-25T18:29:53.68Z,Kododo.MonitorWay.UI,2.0.0-preview,Kododo,"Web UI of MonitorWay: the telemetry of the application in a panel served by the application itself, in Way.Shell; no separate deployment required."
+2026-10-25T18:35:22.2Z,PulseAnalytics.DataIngestor.Contracts,1.0.0,Ilya Ovsyannikov,Message contracts of the events published by the Pulse Analytics Data Ingestor.
+2026-10-25T18:37:44.533Z,Net.Leksi.Mvc.RegexRouting,1.0.0,Alexey Zakharov <leksi@leksi.net>,The package is designed for routing in ASP.NET Core MVC using regular expressions applied to controller namespaces.
+2026-10-25T18:38:04.737Z,TickerQ.Integrations,10.5.0,Arcenox LLC,"Optional Slack, Teams and custom webhook integrations for TickerQ, with dynamic routing and dashboard management."
+2026-10-25T18:38:09.237Z,TickerQ.MongoDB,11.5.0,"Arcenox,Alex Brown","MongoDB persistence provider for TickerQ. Uses the official MongoDB.Driver — no EF Core, no ODM."
+2026-10-25T18:47:58.433Z,Nccurry.MtgMcp.linux-x64,0.10.0,Nick Curry,An evidence-first C#/.NET MCP server with revisioned local Magic: The Gathering deck workflows.
+2026-10-25T18:48:00.93Z,Nccurry.MtgMcp.osx-arm64,0.10.0,Nick Curry,An evidence-first C#/.NET MCP server with revisioned local Magic: The Gathering deck workflows.
+2026-10-25T18:48:03.3Z,Nccurry.MtgMcp.win-x64,0.10.0,Nick Curry,An evidence-first C#/.NET MCP server with revisioned local Magic: The Gathering deck workflows.
+2026-10-25T18:50:29.26Z,Hassle.Free.Galactic.Api,1.0.67,Moon Mining Inc.,Клиент галактического сервиса рыночных цен и индексов стоимости производственных работ.
+2026-10-25T19:03:05.3Z,bc.Combinatorics,0.0.1,bc.Combinatorics,Package Description
+2026-10-25T19:07:24.923Z,Kavchat,0.0.5,maxsave,"Kavchat server SDK for .NET: identity tokens, webhook verification and the Server API."
+2026-10-25T19:13:00.257Z,Mecesoft.Data.Abstractions,1.0.0,Mecesoft,Provider-independent data access abstractions for Mecesoft.Data.
+2026-10-25T19:13:02.403Z,Mecesoft.Data.EntityFrameworkCore,1.0.0,Mecesoft,EF Core relational integration for Mecesoft.Data.
+2026-10-25T19:13:04.2Z,Mecesoft.Data.EntityFrameworkCore.SqlServer.Tenancy,1.0.0,Mecesoft,SQL Server production tenant collation verification for Mecesoft.Data.
