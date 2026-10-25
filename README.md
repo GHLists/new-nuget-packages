@@ -12,23 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:22 UTC
+## Latest list — 2026-10-25 07:20 UTC
 
-New packages created between 2026-10-25 05:18 UTC and 2026-10-25 06:22 UTC.
+New packages created between 2026-10-25 06:22 UTC and 2026-10-25 07:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-25T06-22-13-241461Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-25T07-20-35-338889Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-25 05:27:40 | [LilyDesignSystem.Blazor.TimeZonePicker](https://www.nuget.org/packages/LilyDesignSystem.Blazor.TimeZonePicker) | 0.1.0 | Joel Parker Henderson | Lily Design System Blazor time zone picker: an icon button opening an APG listb… |
-| 2026-10-25 05:28:52 | [Meziantou.Framework.WebPlatform.Playwright](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.Playwright) | 1.0.0 | meziantou | A Playwright server for Meziantou.Framework.WebPlatform: the Playwright clients… |
-| 2026-10-25 05:28:54 | [Meziantou.Framework.WebPlatform.Playwright.Tool](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.Playwright.Tool) | 1.0.0 | meziantou | CLI that runs a Playwright server whose browser is Meziantou.Framework.WebPlatf… |
-| 2026-10-25 05:32:16 | [Sharphy.Cli](https://www.nuget.org/packages/Sharphy.Cli) | 1.0.2 | Bahar Maulidi | Global CLI and MCP server executable bridge for Sharphy CLR Intelligence. |
-| 2026-10-25 05:32:18 | [Sharphy.Core](https://www.nuget.org/packages/Sharphy.Core) | 1.0.2 | Bahar Maulidi | Core diagnostics, decompiler, ECMA-335 metadata, and CIL mutation engines for S… |
-| 2026-10-25 05:32:19 | [Sharphy.Server](https://www.nuget.org/packages/Sharphy.Server) | 1.0.2 | Bahar Maulidi | Model Context Protocol (MCP) server dispatcher and protocol handlers for Sharph… |
-| 2026-10-25 05:53:40 | [Egami.Video](https://www.nuget.org/packages/Egami.Video) | 1.0.0 | Lars Dytterud | A fully managed, MIT-licensed video and audio library for .NET built on Egami:… |
-| 2026-10-25 06:14:12 | [Egami.Video.Cli](https://www.nuget.org/packages/Egami.Video.Cli) | 1.0.0 | Lars Dytterud | The egami-video command: inspect, remux, cut, join, export frames, make clips a… |
-| 2026-10-25 06:15:52 | [Egami.Video.H264](https://www.nuget.org/packages/Egami.Video.H264) | 1.0.0 | Lars Dytterud | H.264 (AVC) decoding for Egami.Video, in managed code: progressive Constrained… |
+| 2026-10-25 06:33:31 | [Zoorce.Web.UI](https://www.nuget.org/packages/Zoorce.Web.UI) | 1.0.0 | Zoorce.Web.UI | Reusable Razor Pages web shell and UI components for ASP.NET Core applications. |
+| 2026-10-25 06:33:32 | [Zoorce.Web.UI.Abstractions](https://www.nuget.org/packages/Zoorce.Web.UI.Abstractions) | 1.0.0 | Zoorce.Web.UI.Abstractions | Host-facing contracts for the Zoorce Razor Pages UI package. |
+| 2026-10-25 06:33:33 | [Zoorce.Web.UI.Charts](https://www.nuget.org/packages/Zoorce.Web.UI.Charts) | 1.0.0 | Zoorce.Web.UI.Charts | Composable native-SVG charts for Zoorce web UI. |
+| 2026-10-25 06:33:34 | [Zoorce.Web.UI.Data](https://www.nuget.org/packages/Zoorce.Web.UI.Data) | 1.0.0 | Zoorce.Web.UI.Data | Transport-neutral data lifecycle runtime for Zoorce web UI components. |
+| 2026-10-25 06:33:35 | [Zoorce.Web.UI.DataGrid](https://www.nuget.org/packages/Zoorce.Web.UI.DataGrid) | 1.0.0 | Zoorce.Web.UI.DataGrid | Composable data grid components for Zoorce web UI. |
+| 2026-10-25 06:33:36 | [Zoorce.Web.UI.Diagrams](https://www.nuget.org/packages/Zoorce.Web.UI.Diagrams) | 1.0.0 | Zoorce.Web.UI.Diagrams | Interactive, importable and exportable diagram components for Zoorce web UI. |
+| 2026-10-25 06:33:37 | [Zoorce.Web.UI.Forms](https://www.nuget.org/packages/Zoorce.Web.UI.Forms) | 1.0.0 | Zoorce.Web.UI.Forms | Reusable and independently configurable form controls for Zoorce web UI. |
+| 2026-10-25 06:33:38 | [Zoorce.Web.UI.Layout](https://www.nuget.org/packages/Zoorce.Web.UI.Layout) | 1.0.0 | Zoorce.Web.UI.Layout | Reusable application shell and layout components for Zoorce web UI. |
+| 2026-10-25 06:33:38 | [Zoorce.Web.UI.Foundation](https://www.nuget.org/packages/Zoorce.Web.UI.Foundation) | 1.0.0 | Zoorce.Web.UI.Foundation | Reusable visual primitives and asynchronous feedback components for Zoorce web… |
+| 2026-10-25 06:33:39 | [Zoorce.Web.UI.Navigation](https://www.nuget.org/packages/Zoorce.Web.UI.Navigation) | 1.0.0 | Zoorce.Web.UI.Navigation | Navigation and workflow progression components for Zoorce web UI. |
+| 2026-10-25 06:33:40 | [Zoorce.Web.UI.Realtime.SignalR](https://www.nuget.org/packages/Zoorce.Web.UI.Realtime.SignalR) | 1.0.0 | Zoorce.Web.UI.Realtime.SignalR | Optional SignalR adapter for transport-neutral Zoorce data invalidations. |
+| 2026-10-25 06:33:41 | [Zoorce.Web.UI.Theming](https://www.nuget.org/packages/Zoorce.Web.UI.Theming) | 1.0.0 | Zoorce.Web.UI.Theming | Dynamic semantic theming runtime for Zoorce web UI components. |
+| 2026-10-25 06:33:42 | [Zoorce.Web.UI.Timelines](https://www.nuget.org/packages/Zoorce.Web.UI.Timelines) | 1.0.0 | Zoorce.Web.UI.Timelines | Composable, data-aware timeline components for Zoorce web UI. |
+| 2026-10-25 06:56:32 | [Alexpivo394.Revit.ParamCheck](https://www.nuget.org/packages/Alexpivo394.Revit.ParamCheck) | 2027.1.0 | Alexpivo394 | UI-free Revit parameter fill (LOI) check: detached opening, rule-based element… |
+| 2026-10-25 06:56:39 | [Alexpivo394.Revit.ParamCheck.Profiles](https://www.nuget.org/packages/Alexpivo394.Revit.ParamCheck.Profiles) | 1.0.0 | Alexpivo394 | ParamChecker profiles without the Revit API: check rules, JSON format of the Pa… |
+| 2026-10-25 07:04:04 | [Simorgh.AI.Abstractions](https://www.nuget.org/packages/Simorgh.AI.Abstractions) | 0.1.0 | Simorgh AI Contributors | Public contracts and shared types for the Simorgh.AI framework. |
+| 2026-10-25 07:04:05 | [Simorgh.AI.Core](https://www.nuget.org/packages/Simorgh.AI.Core) | 0.1.0 | Simorgh AI Contributors | Core runtime and orchestration components for the Simorgh.AI framework. |
+| 2026-10-25 07:04:05 | [Simorgh.AI.Extensions](https://www.nuget.org/packages/Simorgh.AI.Extensions) | 0.1.0 | Simorgh AI Contributors | Built-in extensions for the Simorgh.AI framework, such as ready-made tool-calli… |
+| 2026-10-25 07:04:06 | [Simorgh.AI.Integrations](https://www.nuget.org/packages/Simorgh.AI.Integrations) | 0.1.0 | Simorgh AI Contributors | Provider and service integrations for the Simorgh.AI framework. |
 
 ## Data source
 
