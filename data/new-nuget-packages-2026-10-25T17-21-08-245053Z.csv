@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-25T16:24:56.22Z,Istok.WebGPU.Native.Linux,0.0.5-preview,zvasya,"Native WebGPU runtime (Google Dawn) for Linux (x64, arm64): libwebgpu_dawn.so, packaged for use with Istok.WebGPU."
+2026-10-25T16:24:58.39Z,Istok.WebGPU.Native.macOS,0.0.5-preview,zvasya,"Native WebGPU runtime (Google Dawn) for macOS (universal arm64 + x64): libwebgpu_dawn.dylib, packaged for use with Istok.WebGPU."
+2026-10-25T16:25:00.83Z,Istok.WebGPU.Native.Win32,0.0.5-preview,zvasya,"Native WebGPU runtime (Google Dawn) for Windows (x64, x86, arm64): webgpu_dawn.dll, packaged for use with Istok.WebGPU."
+2026-10-25T16:28:09.913Z,Adiakys.FeelingLucky,0.3.0,FeelingLucky,"Multiplayer blackjack and Texas Hold'em tables for the feeling-lucky library, as ASP.NET Core endpoints."
+2026-10-25T16:31:10.637Z,Dotnetstore.BaseModel,0.1.0,Hans Sjödin,Common base models
+2026-10-25T16:31:21.747Z,Workes.ConsoleSystem.Godot.Logging,1.0.0,Workes,Optional Godot 4.7.2 C# logger adapter for Workes.ConsoleSystem.
+2026-10-25T16:35:39.76Z,Octeka.Settings,1.0.0,Patrick Robichaud (operating as OCTEKA),"High-level, bidirectional, scoped application settings and state persistence framework for .NET with secret vault integration and real-time live synchronization."
+2026-10-25T16:35:40.43Z,Octeka.Settings.Abstractions,1.0.0,Patrick Robichaud (operating as OCTEKA),"Core abstractions, interfaces, scope taxonomy, and secret attributes for Octeka.Settings."
+2026-10-25T16:35:41.09Z,Octeka.Settings.Extensions.Configuration,1.0.0,Patrick Robichaud (operating as OCTEKA),Octeka.Configuration integration extensions for feeding configuration into Octeka.Settings.
+2026-10-25T16:35:41.683Z,Octeka.Settings.Stores.SecretService,1.0.0,Patrick Robichaud (operating as OCTEKA),Linux FreeDesktop Secret Service secret store backend provider for Octeka.Settings via libsecret.
+2026-10-25T16:35:42.257Z,Octeka.Settings.Stores.WindowsCredentialManager,1.0.0,Patrick Robichaud (operating as OCTEKA),Windows Credential Manager secret store backend provider for Octeka.Settings via Advapi32.
+2026-10-25T16:36:50.53Z,Nite.Templates,0.6.0,Tim McQueen,"dotnet new templates for Nite: a React single-page app (nite-spa) and Razor Pages with React islands (nite-islands), with no Node.js toolchain."
+2026-10-25T16:51:38.413Z,Nullable.Extended.Mcp,1.18.0,Nullable.Extended.Mcp,"MCP server to find, review and justify null-forgiving operators in large C# code bases."
+2026-10-25T17:00:07.873Z,WinToAws.Cli,1.0.0,VENKATESHWAR REDDY VURUMALLA,Command-line tool for the WinToAws library: analyse a Windows application and generate AWS artefacts.
