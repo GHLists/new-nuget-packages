@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-25T22:31:17.303Z,Trazos.UI,1.0.0,carandev,"A warm, artisanal, hand-crafted Blazor component library and design system with organic sketch borders, warm paper/parchment tones, and accessible primitives."
+2026-10-25T22:34:03.75Z,FlaUI.Window.Extensions,1.0.3,chrisvasqm,"Playwright-style locators, auto-waiting actions, and state queries for FlaUI."
+2026-10-25T22:40:11.067Z,ComplexityAnalysis.Mcp,1.0.0,Rodrigo de Oliveira,"Local read-only MCP server for deterministic C# project complexity analysis, member evidence, and snapshot comparison."
+2026-10-25T22:41:14.09Z,MonoSmith.Plugin.Sdk,0.1.0,Eduardo Russo,"The C# SDK for writing smith plugins: the protocol's types, the serve loop, a host to test a plugin with, the conformance checks of smith plugin check, [[ ]] templating and key-order-keeping JSON editing. No dependencies."
+2026-10-25T22:45:37.11Z,Singulink.Net.Http.Api.Client.WinUI,4.0.0,Singulink,Passkey (WebAuthn) support and session token storage for WinUI 3 and Uno Platform apps built with the Singulink HTTP API Toolkit.
+2026-10-25T22:45:38.833Z,Singulink.Net.Http.Api.Service.Passkeys,4.0.0,Singulink,Passkey (WebAuthn) ceremonies and a passkey hand-off page for services built with the Singulink HTTP API Toolkit.
+2026-10-25T22:45:39.94Z,Singulink.Net.Http.Api.Service.Cloudflare,4.0.0,Singulink,Cloudflare support for services built with the Singulink HTTP API Toolkit: trusts the client address and scheme that Cloudflare forwards.
+2026-10-25T22:45:40.783Z,Singulink.Net.Http.Api.Service.Testing,4.0.0,Singulink,"Test helpers for services built with the Singulink HTTP API Toolkit: a session context for testing endpoint code without a request, a software passkey authenticator, uploaded files for testing upload handlers, checks of the guarantees of upload stores, and a message handler that injects network fau…"
+2026-10-25T22:57:23.327Z,Clashawaun.Pkie.Agent.Runtime,1.0.0,Clashawaun,"The pki.ie signing agent as a library: hold a CA key on this host, long-poll pki.ie for work and sign on demand. Hosts it in any process — the pkiie console, a Guardian worker, a Windows service."
+2026-10-25T22:57:23.697Z,Clashawaun.Pkie.Contracts,1.0.0,Clashawaun,"Wire contracts shared by the pki.ie server, SDK and signing agents."
+2026-10-25T22:57:24.03Z,Clashawaun.Pkie.Crypto,1.0.0,Clashawaun,"Key custody providers, X.509 assembly, CRL/OCSP and ceremony bundle handling for pki.ie."
+2026-10-25T22:57:24.387Z,Clashawaun.Pkie.Sdk,1.0.0,Clashawaun,"Client SDK for pki.ie — certificate enrolment, trust distribution and signing agent transport."
+2026-10-25T23:00:45.123Z,SimplArchive.Sapass,0.52.0,sapass,"sapass — a pass-like store of passwords and secrets, sealed on your machine and opened only with your hardware key: list, search, read, add, generate, edit and re-seal entries from the terminal, and serve the browser autofill."
