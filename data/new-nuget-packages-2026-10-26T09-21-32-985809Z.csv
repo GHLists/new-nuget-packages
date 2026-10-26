@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-26T08:24:08.35Z,McpFramework,1.0.0,McpFramework,通用 MCP 框架：引用后把方法标成 [McpServerTool]，一行 McpServer.StartAsync 即可把任意 .NET 程序（Console / Web / WinForms / WPF）开放为 MCP 工具，供 Agent 控制。基于官方 ModelContextProtocol SDK，支持 Stdio、Streamable HTTP 与遗留 SSE。
+2026-10-26T08:55:50.72Z,Juice.Storage.Azure,10.3.0,Creatorflow.io,Azure Blob Storage provider on backend
+2026-10-26T08:55:52.44Z,Juice.Storage.S3,10.3.0,Creatorflow.io,"Amazon S3 and S3 compatible (MinIO, Ceph...) storage provider on backend"
+2026-10-26T08:58:04.423Z,Sortition,0.1.0,"Small Gear Lab,Marie","Fair, repeatable and verifiable random lotteries (draws without replacement). A .NET binding of libsortition; it loads the native library."
+2026-10-26T09:01:18.64Z,Photino.Cerberus,0.1.0,txrbo,"Custom window chrome for Photino.Blazor: title bar, resize borders, rounded corners and native move/resize on Windows, Linux (X11/Wayland) and macOS."
+2026-10-26T09:02:16.28Z,Cerberus.UI,0.1.0,txrbo,"Blazor component library with light/dark theming: buttons, cards, forms, dialogs, menus, tabs, tables, snackbars and more. No JavaScript, and the stylesheet is inlined, so it also runs on hosts such as Photino."
