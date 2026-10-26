@@ -1,0 +1,46 @@
+created_at,package,version,authors,description
+2026-10-26T17:25:52.15Z,Native.Minhook,0.0.1,WinsentShame,"A lightweight, high-performance C# wrapper for MinHook, designed specifically for Native AOT applications. Supports x86/x64 static linking."
+2026-10-26T17:26:46.9Z,SqlLinqer.Diagnostics,2.3.0,Kyle Leddy,Optional ILogger and ActivitySource instrumentation for SqlLinqer.
+2026-10-26T17:26:47.607Z,SqlLinqer.Extensions.DependencyInjection,2.3.0,Kyle Leddy,Dependency injection registrations for SqlLinqer connectors.
+2026-10-26T17:31:22.68Z,RecursiveAI.OneGame.Sync,1.0.0,"Recursive AI, LLC","Nodes, scopes, loopback transport, saves, command log, replay and drift hashes."
+2026-10-26T17:31:23.26Z,RecursiveAI.OneGame.Render3D,1.0.0,"Recursive AI, LLC","Physically based 3D renderer: glTF materials, clustered forward lighting, image-based lighting, bloom and tone mapping on the render graph."
+2026-10-26T17:31:23.73Z,RecursiveAI.OneGame.Purchases,1.0.0,"Recursive AI, LLC","In-app purchases: one store-neutral API over StoreKit, Google Play Billing and a scriptable fake store."
+2026-10-26T17:31:24.277Z,RecursiveAI.OneGame.Gpu.WebGpu,1.0.0,"Recursive AI, LLC","WebGPU backend of the graphics layer, for the browser."
+2026-10-26T17:31:24.82Z,RecursiveAI.OneGame.Testing,1.0.0,"Recursive AI, LLC","The C# test API: in-process clusters, scenarios, recordings and captures."
+2026-10-26T17:31:25.397Z,RecursiveAI.OneGame.Net,1.0.0,"Recursive AI, LLC","Network transports behind the message-channel seam: reliable UDP, WebSocket, and a network conditioner for tests."
+2026-10-26T17:31:25.917Z,RecursiveAI.OneGame.Server.Plugins,1.0.0,"Recursive AI, LLC","Loads server plugins into collectible load contexts. CoreCLR only: it uses reflection and assembly loading, so NativeAOT hosts leave it out."
+2026-10-26T17:31:26.477Z,RecursiveAI.OneGame.Host,1.0.0,"Recursive AI, LLC","The game host: window, input, fixed-step simulation, UI and render stage for one game, windowed or headless."
+2026-10-26T17:31:27.543Z,RecursiveAI.OneGame.Control,1.0.0,"Recursive AI, LLC","The control layer shared by the command line, the test API and live control."
+2026-10-26T17:31:27Z,RecursiveAI.OneGame.Steam,1.0.0,"Recursive AI, LLC","Steamworks binding and the store-neutral services (achievements, stats, cloud saves, presence, overlay, ownership) that sit in front of it."
+2026-10-26T17:31:28.157Z,RecursiveAI.OneGame.Core,1.0.0,"Recursive AI, LLC","Entity runtime: fixed-point numbers, random streams and the attributes that declare entities."
+2026-10-26T17:31:28.73Z,RecursiveAI.OneGame.Gpu.Metal,1.0.0,"Recursive AI, LLC",Metal backend of the graphics layer.
+2026-10-26T17:31:29.257Z,RecursiveAI.OneGame.UI,1.0.0,"Recursive AI, LLC",Retained UI tree with CSS-model styling and flex layout.
+2026-10-26T17:31:29.83Z,RecursiveAI.OneGame.Atlas,1.0.0,"Recursive AI, LLC",Atlas pages and the SVG and image atlas for the 2D renderer.
+2026-10-26T17:31:30.377Z,RecursiveAI.OneGame.Server,1.0.0,"Recursive AI, LLC","The headless server host: fixed-step scopes, YAML configuration, logging, and the plugin API."
+2026-10-26T17:31:31.04Z,RecursiveAI.OneGame.Platform,1.0.0,"Recursive AI, LLC","Windows, input, controllers and the app lifecycle per operating system."
+2026-10-26T17:31:31.633Z,RecursiveAI.OneGame.Text,1.0.0,"Recursive AI, LLC","Text for the UI: font library, shaping, measurement and the glyph atlas."
+2026-10-26T17:31:32.217Z,RecursiveAI.OneGame.Gpu,1.0.0,"Recursive AI, LLC",Graphics API abstraction and render graph.
+2026-10-26T17:31:32.777Z,RecursiveAI.OneGame.Audio,1.0.0,"Recursive AI, LLC",Audio device output and the audio service that drives a mixer.
+2026-10-26T17:31:33.323Z,RecursiveAI.OneGame.Live,1.0.0,"Recursive AI, LLC","Development-build tools of a running game: live control over MCP, scenario runs, captures and replays. Release builds do not reference this project."
+2026-10-26T17:31:33.91Z,RecursiveAI.OneGame.Gpu.Backends,1.0.0,"Recursive AI, LLC","Picks the graphics backend for the machine: Metal on Apple platforms, WebGPU in a browser, Vulkan elsewhere."
+2026-10-26T17:31:34.497Z,RecursiveAI.OneGame.Render2D,1.0.0,"Recursive AI, LLC","Sprite, tilemap and text renderer."
+2026-10-26T17:31:35.073Z,RecursiveAI.OneGame.Server.Live,1.0.0,"Recursive AI, LLC",Live control of a running game server over the same MCP surface as a development game: plugin and scope operations.
+2026-10-26T17:31:35.64Z,RecursiveAI.OneGame.Gltf,1.0.0,"Recursive AI, LLC","glTF 2.0 import: scenes, meshes, materials, skins and animations, safe on untrusted input."
+2026-10-26T17:31:36.29Z,RecursiveAI.OneGame.UI.Kit,1.0.0,"Recursive AI, LLC","Base UI component kit: buttons, tables, lists, tabs, text input and more, themed with tokens."
+2026-10-26T17:31:36.887Z,RecursiveAI.OneGame.Gpu.Vulkan,1.0.0,"Recursive AI, LLC",Vulkan backend of the graphics layer.
+2026-10-26T17:38:29.69Z,Precept.Dashboard,0.13.0,autom3tion,"A local dashboard for Precept: watch runs as they happen, with every test as it starts and finishes and its log as it is written, and run a test, a suite or a whole project from it. Start it with `precept-dashboard`; it finds the runs of the projects you list and keeps them."
+2026-10-26T17:38:57.39Z,Fleans.Streaming.Kafka,0.9.0,Fleans contributors,Kafka stream provider for Fleans silos and plugin hosts: AddKafkaStreams with implicit subscriptions only.
+2026-10-26T17:45:26.12Z,Witcher3StringEditor.MCP.win-x64,0.1.0-beta,Witcher3StringEditor.MCP,MCP server for reading and editing The Witcher 3 .w3strings localization files.
+2026-10-26T17:49:43.027Z,Respire.Aspire.DistributedCaching,0.12.0,Tom Hurst,Distributed caching on an existing default or keyed Aspire Respire client.
+2026-10-26T17:49:44.63Z,Respire.Aspire.OutputCaching,0.12.0,Tom Hurst,ASP.NET Core output caching on an existing default or keyed Aspire Respire client.
+2026-10-26T17:49:45.39Z,Respire.Aspire,0.12.0,Tom Hurst,"Respire client registration, configuration, health checks and telemetry for .NET Aspire."
+2026-10-26T17:49:53.123Z,Respire.Aspire.HybridCaching,0.12.0,Tom Hurst,HybridCache on an existing default or keyed Aspire Respire client.
+2026-10-26T17:49:57.47Z,QwertyIPC,1.0.0,QwertyIPC,Package Description
+2026-10-26T17:50:07.223Z,Gravicode.GDAL.Net.Avalonia,1.0.0,Gravicode Studios (Kang Fadhil),"Avalonia UI desktop controls for GDAL.Net: GdalMapView (raster + vector map with smooth pan/zoom, hillshading, hit testing, scale bar), GdalAttributeGrid, GdalHistogramChart, GdalColorLegend, GdalDatasetInfoPanel and GdalSrsExplorer (EPSG search, WKT2/PROJJSON, coordinate transformation). Windows,…"
+2026-10-26T17:50:07.897Z,Gravicode.GDAL.Net,1.0.0,Gravicode Studios (Kang Fadhil),"Modern, high-performance .NET 10 wrapper for GDAL/OGR/OSR (GDAL 3.13): raster & vector I/O for 200+ formats, reprojection, warping, DEM analysis, band math (NDVI/NDWI), vector geoprocessing, OGR SQL, VRT, cloud virtual file systems, multidimensional arrays and the GDAL utility suite (gdalinfo, gdal…"
+2026-10-26T17:50:08.467Z,Gravicode.GDAL.Net.Blazor,1.0.0,Gravicode Studios (Kang Fadhil),"Blazor (Interactive Server) components for GDAL.Net: a pan/zoom map that renders rasters server-side and vectors as SVG, attribute table, histogram, color legend, dataset inspector, CRS explorer (EPSG search, WKT2/PROJJSON, point transformation) and progress bar. Themeable through CSS variables. Cr…"
+2026-10-26T17:50:34.073Z,ArchLinterNet.Annotations,0.10.0,Eugene Malashchuk,Optional source-only compile-time architecture annotations for ArchLinterNet 0.10.x. No runtime assembly is shipped.
+2026-10-26T17:53:28.18Z,Hasim.Injectify.Features,0.1.0,NID BOUBKER Houssine,"Dynamic feature management for Hasim.Injectify: enable or disable business features at runtime, without restarting the application."
+2026-10-26T17:56:39.49Z,Hasim.Injectify.Features.AspNetCore,0.1.0,NID BOUBKER Houssine,"ASP.NET Core integration for Hasim.Injectify.Features: hide UI and protect MVC, Razor Pages, Blazor and minimal API endpoints according to feature state."
+2026-10-26T18:00:14.53Z,Hasim.Injectify.Features.EntityFrameworkCore,0.1.0,NID BOUBKER Houssine,Entity Framework Core persistence for Hasim.Injectify.Features. Provider-independent: the application chooses its database engine and generates its own migrations.
+2026-10-26T18:00:38.167Z,go.internal.runtime.gc,1.26.10.1,go2cs Authors,internal.runtime.gc (net10.0 - Release) -- C# project converted from Go source
