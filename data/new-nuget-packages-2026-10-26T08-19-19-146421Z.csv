@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-10-26T07:27:13.48Z,Oktaf.Messaging,1.0.0,Oktaf.Messaging,Package Description
+2026-10-26T07:27:14.277Z,Oktaf.Stock.Client,10.0.9,Oktaf.Stock.Client,"Stock quote and price-history client for Oktaf sites (Marketstack end-of-day prices). Follows the Oktaf client pattern: IStockClient over GenericClient, a StockClientConfig section, and a bootstrap. Snapshots are cached in memory, and the last good one is served while Marketstack is failing. Needs…"
+2026-10-26T07:27:16.7Z,Oktaf.UI.Components,10.0.2,Oktaf.UI.Components,"The Oktaf UI components of the ComponentBuilder pages (containers, headers, navigation, sliders, loops, blocks) and their scripts, served under _content/Oktaf.UI.Components."
+2026-10-26T07:27:19.077Z,PertaminaPge.Web.Api.Client,1.0.8,PertaminaPge.Web.Api.Client,Package Description
+2026-10-26T07:27:28.607Z,Oktaf.Saga,1.2.2,Oktaf.Saga,"Server-orchestrated, durable saga pattern for Oktaf backend services: an ordered series of steps with reverse-order compensation, EF Core persisted state, crash recovery, and a pluggable in-process / Oktaf.Messaging signalling channel."
+2026-10-26T07:27:29.413Z,Oktaf.Stock.Shared,10.0.4,Oktaf.Stock.Shared,"Models shared by the Oktaf.Stock.Client and its consumers: the stock request and the snapshot (price, volume, 52-week range and price series per range)."
+2026-10-26T07:27:30.73Z,Oktaf.UI.Assets,10.0.2,Oktaf.UI.Assets,"Static assets of the Oktaf UI: the compiled public and admin stylesheets, fonts, images and scripts, served under _content/Oktaf.UI.Assets. Rebuild the client/ npm project before packing: the package carries the files committed under wwwroot."
+2026-10-26T07:27:31.543Z,Oktaf.UI.ContentBuilder,10.0.33,Oktaf.UI.ContentBuilder,Package Description
+2026-10-26T07:27:32.78Z,Oktaf.UI.Icon,10.0.9,Oktaf.UI.Icon,Package Description
+2026-10-26T07:27:34.01Z,PertaminaPge.Notification.Client,1.0.3,PertaminaPge.Notification.Client,"Wara-Wara notification client (email + WhatsApp) for the PGE website. Follows the Oktaf client pattern: IWara2NotificationClient over GenericClient, a Wara2ClientConfig section, and a bootstrap. Needs Wara2:AppToken."
+2026-10-26T07:27:34.823Z,PertaminaPge.Web.Shared,1.0.5,PertaminaPge.Web.Shared,Package Description
+2026-10-26T07:32:14.58Z,GedcomSharp,1.0.0,Matt Gordon,"Read and write GEDCOM 5.5, 5.5.1, 5.5.5 and 7.0 (including GEDZIP), and GEDCOM X JSON, XML and .gedx files. Lossless round-trips, tolerant reading of real-world files, and typed records over the raw structure tree."
+2026-10-26T07:38:53.81Z,AzureTableContext,1.0.0,Vignesh Pandian,EF-style context for Azure Table Storage
+2026-10-26T07:50:11.297Z,Strider,0.10.0,Strider,"A read-only MCP server that lets AI coding agents navigate .NET code the way the compiler sees it. It loads a solution into Roslyn and answers who calls a method, what implements an interface or what breaks when a signature changes, with short, capped JSON. Symbols from NuGet packages and the frame…"
+2026-10-26T07:52:00.28Z,Zhomfr.Cache.InMemory,0.7.0,zhuolyan (Oleg Zhuravskiy),This library provides an InMemory implementation of the `Zhomfr.Cache.Abstractions` cache contract.
+2026-10-26T07:52:01.72Z,Zhomfr.Cache.Abstractions,0.7.0,zhuolyan (Oleg Zhuravskiy),A lightweight and flexible .NET library providing a unified contract for cahce functions.
+2026-10-26T07:52:02.597Z,Zhomfr.Cache.Database,0.7.0,zhuolyan (Oleg Zhuravskiy),This library provides a Database implementation of the `Zhomfr.Cache.Abstractions` cache contract.
+2026-10-26T07:52:03.193Z,Zhomfr.Cache.Redis,0.7.0,zhuolyan (Oleg Zhuravskiy),This library provides an Redis implementation of the `Zhomfr.Cache.Abstractions` cache contract.
+2026-10-26T07:55:59.18Z,Devolutions.Agent.Channel,2026.9.25,Devolutions Inc.,gRPC and Protobuf types for the Devolutions Agent channel
+2026-10-26T07:56:00.08Z,Devolutions.AgentIdentity,2026.10.20,Devolutions Inc.,Agent-facing protocol rules shared by every Devolutions Agent Identity authority
+2026-10-26T07:57:41.76Z,Ybd.AbpLite.UnifiedResponse.Abstractions,1.0.0,ybd,Ybd.AbpLite.UnifiedResponse 的轻量契约：SkipUnifiedResponseAttribute、IApiResponse 标记、请求/响应头常量。不依赖 ASP.NET Core，Application.Contracts 可以安全引用。
+2026-10-26T07:57:48.7Z,Ybd.AbpLite.UnifiedResponse,1.0.0,ybd,"ABP 统一返回模块：默认把 /api/app 的成功与异常包装为 { success, data, error }，支持 401/403、参数校验、本地化、ABP 原生格式透传（X-Unified-Response: native）以及可替换的信封构造器。"
+2026-10-26T07:57:51.06Z,MicrosoftNugetPack,1.9.1,AIOKO,"Independent AIOKO tools for NuGet dependency recovery, PostgreSQL schema preparation and offline AI-assisted ASP.NET Core project generation."
+2026-10-26T07:57:54.333Z,Ybd.AbpLite.UnifiedResponse.Client,1.0.0,ybd,配合 Ybd.AbpLite.UnifiedResponse 使用的 ABP 客户端包：自动给动态代理请求加 X-Unified-Response: native，使共享 Application.Contracts 的 ABP 客户端拿到裸 DTO，而不是统一信封。
+2026-10-26T08:02:02.46Z,WoW2.Sdk.Beta.Be.Abstractions,10.0.77-beta,WoW Two,"WoW Two be sdk kernel (beta-forever) — BCL-only Result and AppError value types, the IEvent marker and the ICurrentUserService seam, shared by the core mono-lib and every domain contract."
+2026-10-26T08:03:33.3Z,ZhileTime.Hope.Map,11.2.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Map.
+2026-10-26T08:08:04.96Z,ZhileTime.Hope.Map.AMap,11.2.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Map.AMap.
+2026-10-26T08:08:17.303Z,ZhileTime.Hope.Map.Baidu,11.2.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Map.Baidu.
+2026-10-26T08:08:29.66Z,ZhileTime.Hope.Map.Tencent,11.2.0,ZhileTime,HOPE modular application framework package: ZhileTime.Hope.Map.Tencent.
+2026-10-26T08:09:06.033Z,CsvLite,1.0.0,FlyingEyeOrg,轻量、高速、并发安全的 .NET CSV 写入库。无行集合/索引/列模型，打开 14 GB 文件与 14 KB 文件代价相同；追加以行对象进行，字段自动转义；每个生产者独享环形缓冲，热路径无锁无共享计数器；表头可编辑且不触碰数据行；支持 GBK 等 ANSI 编码，中文 Excel 直接打开不乱码。
+2026-10-26T08:09:06.83Z,AutoDomain.Modules.IO.Blazor,4.3.71,bunsen,A field-level precise permission management system for the MES production management system in manufacturing. Flexible and free table object design approac
+2026-10-26T08:09:08.5Z,ImageControl.Avalonia,1.0.0,ImageControl Contributors,基于 Avalonia 的图像显示控件：支持缩放/平移、鼠标位置与像素值实时显示，以及矩形、圆形、椭圆、多边形、可旋转矩形、直线等 ROI 的绘制与属性获取。
