@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-26T09:23:08.137Z,Konstera.Sdk.Contexts,1.0.1,Konstera,"Typed constants for the Konstera Standard Context Pack v1 — canonical glossary / skill / ontology-entity names that every retail-core seed pack guarantees. Agent authors reference ContextTerms.RefundWindowDays instead of magic strings so typos fail at build time, not install. Generated from sdk/sch…"
+2026-10-26T09:43:29.383Z,ai-proxy.osx-arm64,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:43:31.41Z,ai-proxy.linux-x64,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:43:33.527Z,ai-proxy.win-x64,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:43:36.82Z,ai-proxy.win-arm64,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:43:39.377Z,ai-proxy.linux-arm64,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:43:42.207Z,ai-proxy.linux-musl-x64,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:43:44.103Z,ai-proxy,0.15.2,Rafał Araszkiewicz,A machine-wide local HTTP(S) forward proxy that inspects canonical LLM provider traffic and passes all other destinations through.
+2026-10-26T09:46:10.523Z,Skyline.DataMiner.QAOps.Admin,3.1.0-staging1,SkylineCommunications,QAOps administrative access client
+2026-10-26T10:05:38.26Z,csharpc.linux-arm64,0.1.0-spike,csharpc contributors,csharpc: a C# compiler front-end for LLVM (Roslyn -> LLVM IR -> native).
+2026-10-26T10:05:45.03Z,csharpc.linux-x64,0.1.0-spike,csharpc contributors,csharpc: a C# compiler front-end for LLVM (Roslyn -> LLVM IR -> native).
+2026-10-26T10:05:48.127Z,csharpc.osx-arm64,0.1.0-spike,csharpc contributors,csharpc: a C# compiler front-end for LLVM (Roslyn -> LLVM IR -> native).
+2026-10-26T10:05:52.04Z,csharpc,0.1.0-spike,csharpc contributors,csharpc: a C# compiler front-end for LLVM (Roslyn -> LLVM IR -> native). RID-specific NativeAOT tool; install with dotnet tool install -g csharpc.
+2026-10-26T10:07:56.74Z,CodeAlta.Cli,2.1.0,Alexandre Mutel,"CodeAlta CLI: the CodeAlta harness without a window, for scripts, CI jobs, containers and benchmarks. Run a prompt to its end with altacli run, with text or JSONL output and exit codes that tell how it ended."
+2026-10-26T10:08:09.93Z,CodeAlta.Cli.linux-arm64,2.1.0,Alexandre Mutel,"CodeAlta CLI: the CodeAlta harness without a window, for scripts, CI jobs, containers and benchmarks. Run a prompt to its end with altacli run, with text or JSONL output and exit codes that tell how it ended."
+2026-10-26T10:08:11.353Z,CodeAlta.Cli.linux-x64,2.1.0,Alexandre Mutel,"CodeAlta CLI: the CodeAlta harness without a window, for scripts, CI jobs, containers and benchmarks. Run a prompt to its end with altacli run, with text or JSONL output and exit codes that tell how it ended."
+2026-10-26T10:13:33.493Z,DcsvIo.D2.Pagination.EntityFrameworkCore,0.6.8,DCSV,EF Core multi-mode list-page helpers for D2 - SortCatalog and ToListPageAsync.
