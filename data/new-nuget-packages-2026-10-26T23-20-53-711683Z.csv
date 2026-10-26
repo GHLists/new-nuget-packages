@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-10-26T22:38:58.9Z,Gravicode.SiWare.Ai,0.1.0,Gravicode Studios,"Advisory natural-language interpretation of SiWare.NET spectra and chemometric results: Hugging Face router (or any OpenAI-compatible endpoint) and local models through HF.Net. Facts are computed deterministically; model output is labelled AI-generated. Created by Gravicode Studios, led by Kang Fad…"
+2026-10-26T22:38:59.873Z,Gravicode.SiWare.Analysis,0.1.0,Gravicode Studios,"Chemometrics for SiWare.NET built on GravicodeScience: Savitzky-Golay smoothing and derivatives, multiplicative scatter correction, PCA, PLS regression with cross-validated calibration, and DataFrame export. Created by Gravicode Studios, led by Kang Fadhil."
+2026-10-26T22:39:00.877Z,Gravicode.SiWare.Sdk,0.1.0,Gravicode Studios,".NET 10 SDK for Si-Ware spectral sensors: validated spectrum model, deterministic simulator, vendor-driver bridge, calibration (dark/reference/absorbance), SNV and smoothing, JSON/CSV exchange, and optional Rust DSP kernels. Created by Gravicode Studios, led by Kang Fadhil. Not affiliated with Si-W…"
+2026-10-26T22:39:01.837Z,Gravicode.SiWare.Visualization,0.1.0,Gravicode Studios,"Publication-quality spectrum, PCA, and calibration charts for SiWare.NET, rendered headlessly to PNG, SVG, or PDF with Visual.Net (Matplotlib.Net). Created by Gravicode Studios, led by Kang Fadhil."
+2026-10-26T22:55:46.657Z,Musictopia2.FileSnapshotBackupTool,10.0.3,FileSnapshotBackupTool,Package Description
+2026-10-26T22:56:20.587Z,Musictopia2.SQLiteBackupTool,10.0.2,SQLiteBackupTool,Package Description
+2026-10-26T22:56:44.64Z,Musictopia2.VsFolderBackupTool,10.0.1,VsFolderBackupTool,Package Description
+2026-10-26T22:57:07.537Z,Musictopia2.WindowsTaskRunnerTool,10.0.2,WindowsTaskRunnerTool,Package Description
+2026-10-26T22:57:33.697Z,Musictopia2.WindowsTaskSchedulerTool,10.0.4,WindowsTaskSchedulerTool,Package Description
+2026-10-26T23:04:17.22Z,Musictopia2.FiveDayBibleReading.CoreLibrary,10.0.1,FiveDayBibleReading.CoreLibrary,Package Description
+2026-10-26T23:04:44.59Z,Musictopia2.FiveDayBibleReading.ReaderLibrary,10.0.4,FiveDayBibleReading.ReaderLibrary,Package Description
+2026-10-26T23:06:08.767Z,Musictopia2.ToDos.SqlDataAccessLibrary,10.0.1,ToDos.SqlDataAccessLibrary,Package Description
+2026-10-26T23:07:22.103Z,BrianRandell.Demo.TechoramaNL26.Widgets,1.0.0,Brian Randell,"Demo package for the Techorama NL 2026 session ""Your Pipeline Is the Target"". Not for production use."
+2026-10-26T23:08:37.177Z,Musictopia2.BlazorServerTemplate,10.0.1,musictopia,BlazorServerTemplate
+2026-10-26T23:09:08.14Z,Musictopia2.PublicNugetBasicSourceGenerators,10.0.1,musictopia,PublicNugetBasicSourceGenerators
+2026-10-26T23:09:37.6Z,Musictopia2.SampleSimpleRoslyn,10.0.1,musictopia,SampleSimpleRoslyn
+2026-10-26T23:09:40.36Z,SkyrimForge,0.1.0,Wessley Mitchell,"Write Skyrim plugins in C#. SkyrimForge hosts .NET inside the game and exposes the game's events, Papyrus, quests, scenes, dialogue, and function hooks to plugins, with bindings generated from CommonLibSSE-NG. One build runs on Skyrim Special Edition, Anniversary Edition, and VR."
+2026-10-26T23:09:59.067Z,FlexibleQuery.CQRS,2.0.0,FlexibleQuery,Strongly typed MediatR integration for FlexibleQuery.
+2026-10-26T23:09:59.51Z,FlexibleQuery.PostgreSql,2.0.0,FlexibleQuery,PostgreSQL provider for FlexibleQuery.
+2026-10-26T23:09:59.763Z,FlexibleQuery.MySql,2.0.0,FlexibleQuery,MySQL provider for FlexibleQuery.
+2026-10-26T23:10:00.037Z,FlexibleQuery.SqlServer,2.0.0,FlexibleQuery,SQL Server provider for FlexibleQuery.
+2026-10-26T23:10:02.65Z,SkyrimForge.PluginTemplate,0.1.0,Wessley Mitchell,"The dotnet new template for a SkyrimForge plugin: a .NET 10 class library that references the SkyrimForge package, with a plugin class that shows a notification each time a save finishes loading."
+2026-10-26T23:10:02.82Z,Musictopia2.SimpleAndroidMauiBlazorTemplate,10.0.1,musictopia,SimpleAndroidMauiBlazorTemplate
+2026-10-26T23:10:26.563Z,Musictopia2.SimpleWPFBlazorApp,10.0.1,musictopia,SimpleWPFBlazorApp
+2026-10-26T23:10:50.52Z,Musictopia2.TestingSourceGenerators,10.0.1,musictopia,TestingSourceGenerators
