@@ -12,27 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 16:22 UTC
+## Latest list — 2026-10-26 17:21 UTC
 
-New packages created between 2026-10-26 15:21 UTC and 2026-10-26 16:22 UTC.
+New packages created between 2026-10-26 16:22 UTC and 2026-10-26 17:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T16-22-36-731785Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T17-21-30-212362Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 15:24:11 | [PlaidClient](https://www.nuget.org/packages/PlaidClient) | 1.0.0 | Tuomas Hietanen | Plaid open banking client: Link tokens, item linking, transactions sync and ver… |
-| 2026-10-26 15:25:39 | [Webority.Azure.KeyVault](https://www.nuget.org/packages/Webority.Azure.KeyVault) | 0.29.0 | Webority.Azure.KeyVault | Loads an app's secrets from its own Azure Key Vault at startup for the Webority… |
-| 2026-10-26 15:25:49 | [Webority.Cloudflare.R2](https://www.nuget.org/packages/Webority.Cloudflare.R2) | 0.29.0 | Webority.Cloudflare.R2 | Cloudflare R2 object storage for the Webority fleet: put, delete, exists and li… |
-| 2026-10-26 15:34:45 | [HttpClient.Resilience.Analyzers.Scan](https://www.nuget.org/packages/HttpClient.Resilience.Analyzers.Scan) | 0.1.213 | George Wall | Scan any .NET solution for HttpClient, IHttpClientFactory, typed-client, Polly,… |
-| 2026-10-26 15:36:17 | [MrKWatkins.OakPsg.AY38912](https://www.nuget.org/packages/MrKWatkins.OakPsg.AY38912) | 0.1.0 | Kevin Watkins | Package Description |
-| 2026-10-26 15:36:18 | [MrKWatkins.OakPsg.Audio](https://www.nuget.org/packages/MrKWatkins.OakPsg.Audio) | 0.1.0 | Kevin Watkins | Package Description |
-| 2026-10-26 15:36:19 | [MrKWatkins.OakPsg.ZXSpectrumBeeper](https://www.nuget.org/packages/MrKWatkins.OakPsg.ZXSpectrumBeeper) | 0.1.0 | Kevin Watkins | Package Description |
-| 2026-10-26 15:38:02 | [Maniacal](https://www.nuget.org/packages/Maniacal) | 0.1.0-alpha | Maniacal contributors | Command line player for Maniac Mansion (Commodore 64, DOS 1987 and 1988): dotne… |
-| 2026-10-26 15:38:03 | [Maniacal.Scumm](https://www.nuget.org/packages/Maniacal.Scumm) | 0.1.0-alpha | Maniacal contributors | The SCUMM interpreter for Maniac Mansion (V0, V1 and V2), ported from ScummVM. |
-| 2026-10-26 15:44:27 | [SoulRipper](https://www.nuget.org/packages/SoulRipper) | 0.1.1 | SuperJMN | Rips the music, jingles and sound effects of NES and Game Boy ROMs to VGM files… |
-| 2026-10-26 15:47:20 | [MicroGauge.Avalonia](https://www.nuget.org/packages/MicroGauge.Avalonia) | 1.1.0.2 | Galen Blakeman | MicroGauge controls for Avalonia |
-| 2026-10-26 15:54:43 | [FactSet.SDK.Conversational](https://www.nuget.org/packages/FactSet.SDK.Conversational) | 1.0.0 | FactSet Research Systems | Conversational client library for .NET |
-| 2026-10-26 16:06:34 | [LIghtJUNction.Jlib](https://www.nuget.org/packages/LIghtJUNction.Jlib) | 0.1.0 | Peter Han,LIghtJUNction | Standalone shared PLib-compatible library for Oxygen Not Included mods. Install… |
+| 2026-10-26 16:27:17 | [PuneethDC.DotNetSearch](https://www.nuget.org/packages/PuneethDC.DotNetSearch) | 1.0.3 | Puneeth DC | Token-efficient MCP server for codebase search, NuGet decompilation, and deep P… |
+| 2026-10-26 16:28:34 | [SoulRipper.Tool](https://www.nuget.org/packages/SoulRipper.Tool) | 0.1.3 | SuperJMN | Rips the music, jingles and sound effects of NES and Game Boy ROMs to VGM files… |
+| 2026-10-26 16:28:54 | [RepoDocsCli](https://www.nuget.org/packages/RepoDocsCli) | 0.2.2 | RepoDocsCli | Agent docs (CLAUDE.md-style) stored as YAML feature files inside your repositor… |
+| 2026-10-26 16:44:10 | [VisioForge.DotNet.Core.Redist.Base.arm64](https://www.nuget.org/packages/VisioForge.DotNet.Core.Redist.Base.arm64) | 2026.10.26 | VisioForge | Core DirectShow filters for the VisioForge .NET SDKs (Windows engines) on Windo… |
+| 2026-10-26 16:44:43 | [VisioForge.DotNet.Core.Redist.VirtualCamera.arm64](https://www.nuget.org/packages/VisioForge.DotNet.Core.Redist.VirtualCamera.arm64) | 2026.10.26 | VisioForge | VisioForge Virtual Camera and virtual audio card DirectShow filters, with the a… |
+| 2026-10-26 16:44:52 | [VisioForge.DotNet.Core.Redist.VLC.arm64](https://www.nuget.org/packages/VisioForge.DotNet.Core.Redist.VLC.arm64) | 2026.10.26 | VisioForge | libVLC and the VisioForge VLC Source DirectShow filter for the VisioForge .NET… |
+| 2026-10-26 16:48:23 | [Pagehaus.Ssi](https://www.nuget.org/packages/Pagehaus.Ssi) | 0.1.0 | Pagehaus | Server Side Includes as Apache's mod_include does them (include, echo, set, con… |
+| 2026-10-26 16:48:25 | [pagehaus](https://www.nuget.org/packages/pagehaus) | 0.1.0 | Pagehaus | Preview plain HTML sites with Server Side Includes, check them for broken links… |
+| 2026-10-26 16:51:13 | [AiMetadataCleaner.UrlTools](https://www.nuget.org/packages/AiMetadataCleaner.UrlTools) | 0.1.0 | wangneo276-lgtm | Offline URL builder for AI Metadata Cleaner image, video, and PDF metadata page… |
+| 2026-10-26 17:04:48 | [Octeka.Mirror](https://www.nuget.org/packages/Octeka.Mirror) | 1.0.0 | Patrick Robichaud | Command-line interface and console package manager for Octeka.Mirror. |
+| 2026-10-26 17:04:50 | [Octeka.Mirror.Integration](https://www.nuget.org/packages/Octeka.Mirror.Integration) | 1.0.0 | Patrick Robichaud | Client integration library for applications managed by Octeka.Mirror, providing… |
 
 ## Data source
 
