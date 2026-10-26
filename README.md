@@ -12,35 +12,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 01:19 UTC
+## Latest list — 2026-10-26 02:19 UTC
 
-New packages created between 2026-10-26 00:21 UTC and 2026-10-26 01:19 UTC.
+New packages created between 2026-10-26 01:19 UTC and 2026-10-26 02:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T01-19-26-618558Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T02-19-35-857915Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 00:21:26 | [StockSharp.Designer.Avalonia](https://www.nuget.org/packages/StockSharp.Designer.Avalonia) | 5.0.0 | StockSharp Platform LLC https… | Avalonia designer application. More info on web site https://stocksharp.com/sto… |
-| 2026-10-26 00:21:27 | [StockSharp.Hydra.Core.Avalonia](https://www.nuget.org/packages/StockSharp.Hydra.Core.Avalonia) | 5.0.0 | StockSharp Platform LLC https… | Hydra core components. More info on web site https://stocksharp.com/store/ |
-| 2026-10-26 00:21:27 | [StockSharp.Hydra.ViewModels](https://www.nuget.org/packages/StockSharp.Hydra.ViewModels) | 5.0.0 | StockSharp Platform LLC https… | Hydra view models. More info on web site https://stocksharp.com/store/ |
-| 2026-10-26 00:21:28 | [StockSharp.Terminal.Avalonia](https://www.nuget.org/packages/StockSharp.Terminal.Avalonia) | 5.0.0 | StockSharp Platform LLC https… | Terminal Avalonia application. More info on web site https://stocksharp.com/sto… |
-| 2026-10-26 00:21:28 | [StockSharp.Hydra.Avalonia](https://www.nuget.org/packages/StockSharp.Hydra.Avalonia) | 5.0.0 | StockSharp Platform LLC https… | Avalonia Hydra application. More info on web site https://stocksharp.com/store/ |
-| 2026-10-26 00:26:52 | [Privatus.Analytics.AspNetCore](https://www.nuget.org/packages/Privatus.Analytics.AspNetCore) | 1.0.0 | Two Phase LLC | Adds the cookieless Privatus Analytics tracking script to ASP.NET Core apps. Ta… |
-| 2026-10-26 00:40:48 | [StockSharp.UdpDumper.ViewModels](https://www.nuget.org/packages/StockSharp.UdpDumper.ViewModels) | 5.0.0 | StockSharp Platform LLC https… | UI-independent application model for the StockSharp UDP Dumper. More info on we… |
-| 2026-10-26 00:40:49 | [StockSharp.FastParser](https://www.nuget.org/packages/StockSharp.FastParser) | 5.0.0 | StockSharp Platform LLC https… | FastParser More info on web site https://stocksharp.com/store/ |
-| 2026-10-26 00:53:38 | [SiameseCat.Communication.All](https://www.nuget.org/packages/SiameseCat.Communication.All) | 0.9.2 | RabitLogic | Convenience package that references every SiameseCat.Communication package. |
-| 2026-10-26 00:53:39 | [SiameseCat.Communication.Core](https://www.nuget.org/packages/SiameseCat.Communication.Core) | 0.9.2 | RabitLogic | Core contracts, device model, driver runtime, transports and diagnostics for Si… |
-| 2026-10-26 00:53:40 | [SiameseCat.Communication.Hosting](https://www.nuget.org/packages/SiameseCat.Communication.Hosting) | 0.9.2 | RabitLogic | Dependency injection, health checks, slave hosting and logging integration for… |
-| 2026-10-26 00:53:41 | [SiameseCat.Communication.Modbus](https://www.nuget.org/packages/SiameseCat.Communication.Modbus) | 0.9.2 | RabitLogic | Modbus RTU/TCP clients, driver and MBAP framing for SiameseCat. |
-| 2026-10-26 00:53:42 | [SiameseCat.Communication.S7](https://www.nuget.org/packages/SiameseCat.Communication.S7) | 0.9.2 | RabitLogic | S7 (ISO-on-TCP + COTP + S7 PDU) client and driver for SiameseCat. |
-| 2026-10-26 00:53:44 | [SiameseCat.Communication.Simulation.Modbus](https://www.nuget.org/packages/SiameseCat.Communication.Simulation.Modbus) | 0.9.2 | RabitLogic | In-process Modbus TCP/RTU slaves for SiameseCat. |
-| 2026-10-26 00:53:45 | [SiameseCat.Communication.Simulation.S7](https://www.nuget.org/packages/SiameseCat.Communication.Simulation.S7) | 0.9.2 | RabitLogic | In-process S7 (ISO-on-TCP) slave for SiameseCat. |
-| 2026-10-26 00:53:46 | [SiameseCat.Communication.Tcp](https://www.nuget.org/packages/SiameseCat.Communication.Tcp) | 0.9.2 | RabitLogic | Protocol-agnostic TCP framing, connection core, client and server for SiameseCa… |
-| 2026-10-26 00:56:19 | [Octeka.Options](https://www.nuget.org/packages/Octeka.Options) | 1.0.0 | Patrick Robichaud (operating… | High-performance, zero-allocation reactive options engine featuring lock-free a… |
-| 2026-10-26 00:56:20 | [Octeka.Options.Abstractions](https://www.nuget.org/packages/Octeka.Options.Abstractions) | 1.0.0 | Patrick Robichaud (operating… | Core abstractions, contracts, diffing interfaces, and negotiation lifecycle pro… |
-| 2026-10-26 00:56:21 | [Octeka.Options.Extensions.Configuration](https://www.nuget.org/packages/Octeka.Options.Extensions.Configuration) | 1.0.0 | Patrick Robichaud (operating… | Octeka.Configuration.Mapper integration extensions for bridging reactive config… |
-| 2026-10-26 00:56:21 | [Octeka.Options.Extensions.Settings](https://www.nuget.org/packages/Octeka.Options.Extensions.Settings) | 1.0.0 | Patrick Robichaud (operating… | Octeka.Settings integration extensions for bridging scoped persistent settings… |
-| 2026-10-26 01:07:38 | [Ashlar.Bricks.GitHub](https://www.nuget.org/packages/Ashlar.Bricks.GitHub) | 0.4.0-rc1 | Ian Frelinger | GitHub operations bricks for Ashlar: what is blocking a pull request or release… |
+| 2026-10-26 01:24:04 | [Ling.Mapper.Generator](https://www.nuget.org/packages/Ling.Mapper.Generator) | 1.3.0 | yanhuuo | Explicit-pair C# source generator for Ling.Mapper Native AOT mapping. |
+| 2026-10-26 01:25:00 | [Galaxy.QQBot](https://www.nuget.org/packages/Galaxy.QQBot) | 0.0.1 | 银河Galaxy | .net10实现的QQ官方机器人架子，目前仅支持websocket私聊、群聊以及按钮响应 |
+| 2026-10-26 01:34:00 | [Miko.Testing](https://www.nuget.org/packages/Miko.Testing) | 0.1.0 | Miko | Testing utilities for Miko: render components and inspect layout in unit tests.… |
+| 2026-10-26 01:34:01 | [Miko.Components](https://www.nuget.org/packages/Miko.Components) | 0.1.0 | Miko | Native player components for Miko. |
+| 2026-10-26 01:34:02 | [Miko.Native](https://www.nuget.org/packages/Miko.Native) | 0.1.0 | Miko | Cross-platform native capability abstractions for Miko (app, camera, clipboard,… |
+| 2026-10-26 01:38:27 | [Afic.Define](https://www.nuget.org/packages/Afic.Define) | 2026.10.34 | nuoyi.cc | Common DTO, VO and entity interfaces for Afic.Net. |
+| 2026-10-26 01:38:30 | [Afic.Define.StringIdEntity](https://www.nuget.org/packages/Afic.Define.StringIdEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with string identifiers in Afic.Net. |
+| 2026-10-26 01:38:32 | [Afic.Define.LongIdEntity](https://www.nuget.org/packages/Afic.Define.LongIdEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with ulong identifiers in Afic.Net. |
+| 2026-10-26 01:38:35 | [Afic.Define.GuidEntity](https://www.nuget.org/packages/Afic.Define.GuidEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with Guid identifiers in Afic.Net. |
+| 2026-10-26 01:38:38 | [Afic.Define.SnowflakeEntity](https://www.nuget.org/packages/Afic.Define.SnowflakeEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with snowflake identifiers in Afic.Net. |
+| 2026-10-26 01:38:41 | [Afic.Common](https://www.nuget.org/packages/Afic.Common) | 2026.10.34 | nuoyi.cc | Common base entity and data core types for Afic.Net. |
+| 2026-10-26 01:38:43 | [Afic.Common.StringIdEntity](https://www.nuget.org/packages/Afic.Common.StringIdEntity) | 2026.10.34 | nuoyi.cc | Base entity types with string identifiers for Afic.Net. |
+| 2026-10-26 01:38:46 | [Afic.Common.LongIdEntity](https://www.nuget.org/packages/Afic.Common.LongIdEntity) | 2026.10.34 | nuoyi.cc | Base entity types with ulong identifiers for Afic.Net. |
+| 2026-10-26 01:38:48 | [Afic.Common.GuidEntity](https://www.nuget.org/packages/Afic.Common.GuidEntity) | 2026.10.34 | nuoyi.cc | Base entity types with Guid identifiers for Afic.Net. |
+| 2026-10-26 01:38:51 | [Afic.Common.SnowflakeEntity](https://www.nuget.org/packages/Afic.Common.SnowflakeEntity) | 2026.10.34 | nuoyi.cc | Base entity types with snowflake identifiers for Afic.Net. |
+| 2026-10-26 01:44:16 | [StockSharp.Installer.Core](https://www.nuget.org/packages/StockSharp.Installer.Core) | 5.0.0 | StockSharp Platform LLC https… | Installer core. More info on web site https://stocksharp.com/store/ |
+| 2026-10-26 01:44:17 | [StockSharp.Installer.UI.ViewModels](https://www.nuget.org/packages/StockSharp.Installer.UI.ViewModels) | 5.0.0 | StockSharp Platform LLC https… | Installer UI view models. More info on web site https://stocksharp.com/store/ |
+| 2026-10-26 01:44:19 | [StockSharp.Installer.UI.Avalonia](https://www.nuget.org/packages/StockSharp.Installer.UI.Avalonia) | 5.0.0 | StockSharp Platform LLC https… | Avalonia installer application. More info on web site https://stocksharp.com/st… |
+| 2026-10-26 02:07:17 | [OfficeHost.AzureBlob](https://www.nuget.org/packages/OfficeHost.AzureBlob) | 0.4.0 | https://github.com/Papyrine/O… | An Azure Blob Storage storage for OfficeHost: the files in a blob container, sh… |
+| 2026-10-26 02:07:19 | [OfficeHost.SqlServer](https://www.nuget.org/packages/OfficeHost.SqlServer) | 0.4.0 | https://github.com/Papyrine/O… | SQL Server stores for OfficeHost: the files, the WOPI locks, the state of deskt… |
+| 2026-10-26 02:07:19 | [OfficeHost.SqlServer.Install](https://www.nuget.org/packages/OfficeHost.SqlServer.Install) | 0.4.0 | https://github.com/Papyrine/O… | Creates the SQL Server tables of OfficeHost.SqlServer, from a deployment or mig… |
 
 ## Data source
 

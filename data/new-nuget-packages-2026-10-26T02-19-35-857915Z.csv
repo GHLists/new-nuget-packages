@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-10-26T01:24:04.163Z,Ling.Mapper.Generator,1.3.0,yanhuuo,Explicit-pair C# source generator for Ling.Mapper Native AOT mapping.
+2026-10-26T01:25:00.793Z,Galaxy.QQBot,0.0.1,银河Galaxy,.net10实现的QQ官方机器人架子，目前仅支持websocket私聊、群聊以及按钮响应
+2026-10-26T01:34:00.68Z,Miko.Testing,0.1.0,Miko,Testing utilities for Miko: render components and inspect layout in unit tests. Preview; the API may change.
+2026-10-26T01:34:01.943Z,Miko.Components,0.1.0,Miko,Native player components for Miko.
+2026-10-26T01:34:02.837Z,Miko.Native,0.1.0,Miko,"Cross-platform native capability abstractions for Miko (app, camera, clipboard, filesystem, geolocation, notifications, and more). Platform packages supply the implementations. Preview in 1.0: the API may change."
+2026-10-26T01:38:27.703Z,Afic.Define,2026.10.34,nuoyi.cc,"Common DTO, VO and entity interfaces for Afic.Net."
+2026-10-26T01:38:30.243Z,Afic.Define.StringIdEntity,2026.10.34,nuoyi.cc,DTO and VO definitions for entities with string identifiers in Afic.Net.
+2026-10-26T01:38:32.81Z,Afic.Define.LongIdEntity,2026.10.34,nuoyi.cc,DTO and VO definitions for entities with ulong identifiers in Afic.Net.
+2026-10-26T01:38:35.353Z,Afic.Define.GuidEntity,2026.10.34,nuoyi.cc,DTO and VO definitions for entities with Guid identifiers in Afic.Net.
+2026-10-26T01:38:38.553Z,Afic.Define.SnowflakeEntity,2026.10.34,nuoyi.cc,DTO and VO definitions for entities with snowflake identifiers in Afic.Net.
+2026-10-26T01:38:41.163Z,Afic.Common,2026.10.34,nuoyi.cc,Common base entity and data core types for Afic.Net.
+2026-10-26T01:38:43.693Z,Afic.Common.StringIdEntity,2026.10.34,nuoyi.cc,Base entity types with string identifiers for Afic.Net.
+2026-10-26T01:38:46.343Z,Afic.Common.LongIdEntity,2026.10.34,nuoyi.cc,Base entity types with ulong identifiers for Afic.Net.
+2026-10-26T01:38:48.973Z,Afic.Common.GuidEntity,2026.10.34,nuoyi.cc,Base entity types with Guid identifiers for Afic.Net.
+2026-10-26T01:38:51.58Z,Afic.Common.SnowflakeEntity,2026.10.34,nuoyi.cc,Base entity types with snowflake identifiers for Afic.Net.
+2026-10-26T01:44:16.753Z,StockSharp.Installer.Core,5.0.0,StockSharp Platform LLC https://stocksharp.com,Installer core. More info on web site https://stocksharp.com/store/
+2026-10-26T01:44:17.77Z,StockSharp.Installer.UI.ViewModels,5.0.0,StockSharp Platform LLC https://stocksharp.com,Installer UI view models. More info on web site https://stocksharp.com/store/
+2026-10-26T01:44:19.077Z,StockSharp.Installer.UI.Avalonia,5.0.0,StockSharp Platform LLC https://stocksharp.com,Avalonia installer application. More info on web site https://stocksharp.com/store/
+2026-10-26T02:07:17.997Z,OfficeHost.AzureBlob,0.4.0,https://github.com/Papyrine/OfficeHost/graphs/contributors,"An Azure Blob Storage storage for OfficeHost: the files in a blob container, shared by all the instances of the application, with no other service."
+2026-10-26T02:07:19.05Z,OfficeHost.SqlServer,0.4.0,https://github.com/Papyrine/OfficeHost/graphs/contributors,"SQL Server stores for OfficeHost: the files, the WOPI locks, the state of desktop Office coauthoring and the user info, shared by all the instances of the application. The tables are created by OfficeHost.SqlServer.Install."
+2026-10-26T02:07:19.587Z,OfficeHost.SqlServer.Install,0.4.0,https://github.com/Papyrine/OfficeHost/graphs/contributors,"Creates the SQL Server tables of OfficeHost.SqlServer, from a deployment or migration step, so that the application itself needs no rights to change the schema."
