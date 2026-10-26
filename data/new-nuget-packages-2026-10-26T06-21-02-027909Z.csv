@@ -1,0 +1,44 @@
+created_at,package,version,authors,description
+2026-10-26T05:23:01.643Z,EsUtil.Feature.ColumnPacking.Core,0.1.0,tomokuni,複数のアイテムを複数列へ配置し、最大列高さを最小化する UI 非依存のレイアウト計算層（貪欲法・動的計画法・二分探索）。
+2026-10-26T05:23:02.93Z,EsUtil.Feature.Loupe.Core,0.1.0,tomokuni,ルーペ（選択範囲の拡大表示）の UI 非依存の計算層。
+2026-10-26T05:23:04.183Z,EsUtil.Feature.Loupe.Presenter,0.1.0,tomokuni,ルーペの外観・描画計画・ラベル計画を単一所有する UI 非依存の提示層。
+2026-10-26T05:23:05.43Z,EsUtil.Feature.Marquee.Core,0.1.0,tomokuni,マーキー選択（ドラッグ矩形の選択・移動・リサイズ）の UI 非依存の計算層。
+2026-10-26T05:23:06.577Z,EsUtil.Feature.Marquee.Presenter,0.1.0,tomokuni,マーキーの外観・描画手順を単一所有する UI 非依存の提示層。
+2026-10-26T05:23:07.683Z,EsUtil.Feature.Thumbnail.Core,0.1.0,tomokuni,サムネイル一覧（折り返し配置・選択・可視範囲）の UI 非依存の計算層。
+2026-10-26T05:23:08.747Z,EsUtil.Feature.Thumbnail.Presenter,0.1.0,tomokuni,サムネイルの外観・影・描画計画・ラベル計画を単一所有する UI 非依存の提示層。
+2026-10-26T05:23:09.887Z,EsUtil.Feature.ZenHan.Core,0.1.0,tomokuni,全角・半角・ひらがな・カタカナ・記号の相互変換（CSV から生成した定義を不変リストで保持する）。
+2026-10-26T05:23:10.963Z,EsUtil.Platform.Core,0.1.0,tomokuni,UI フレームワーク非依存の共通基盤（キーと入力・幾何・座標変換・画像・OS サービス抽象）。
+2026-10-26T05:23:12.023Z,EsUtil.Platform.Core.Windows,0.1.0,tomokuni,System.Drawing.Bitmap と EsUtil.Platform.Core の画像型を相互変換する Windows 専用の拡張。
+2026-10-26T05:23:13.233Z,EsUtil.Ui.WinForms.Loupe,0.1.0,tomokuni,ルーペの WinForms 版コントロール。
+2026-10-26T05:23:14.393Z,EsUtil.Ui.WinForms.Marquee,0.1.0,tomokuni,マーキーの WinForms 版コントロール。
+2026-10-26T05:23:15.62Z,EsUtil.Ui.WinForms.Thumbnail,0.1.0,tomokuni,サムネイル一覧の WinForms 版コントロール。
+2026-10-26T05:23:16.77Z,EsUtil.Ui.WinUI3.ColorComboBox,0.1.0,tomokuni,色選択の WinUI 3 版コントロール。
+2026-10-26T05:23:17.883Z,EsUtil.Ui.WinUI3.ColumnPacking,0.1.0,tomokuni,縦方向のマルチカラム配置を行う WinUI 3 のパネル（最大列高さを最小化するレイアウト計算は EsUtil.Feature.ColumnPacking.Core が単一所有する）。
+2026-10-26T05:23:18.99Z,EsUtil.Ui.WinUI3.Loupe,0.1.0,tomokuni,ルーペの WinUI 3 版コントロール。
+2026-10-26T05:23:20.2Z,EsUtil.Ui.WinUI3.Marquee,0.1.0,tomokuni,マーキーの WinUI 3 版コントロール。
+2026-10-26T05:23:21.457Z,EsUtil.Ui.WinUI3.Thumbnail,0.1.0,tomokuni,サムネイル一覧の WinUI 3 版コントロール。
+2026-10-26T05:23:22.81Z,EsUtil.Ui.AvaloniaUI.ColorComboBox,0.1.0,tomokuni,Avalonia UI の色選択コントロール（色名の解決・入力の検証・不透明度の編集）。
+2026-10-26T05:23:23.95Z,EsUtil.Ui.AvaloniaUI.Loupe,0.1.0,tomokuni,ルーペの Avalonia UI 版コントロール。
+2026-10-26T05:23:25.247Z,EsUtil.Ui.AvaloniaUI.Marquee,0.1.0,tomokuni,マーキーの Avalonia UI 版コントロール。
+2026-10-26T05:23:26.453Z,EsUtil.Ui.AvaloniaUI.Thumbnail,0.1.0,tomokuni,サムネイル一覧の Avalonia UI 版コントロール。
+2026-10-26T05:23:27.75Z,EsUtil.Ui.MewUI.ColorComboBox,0.1.0,tomokuni,MewUI の色選択コントロール（色名の一覧・入力の検証・カラーピッカー）。
+2026-10-26T05:23:28.773Z,EsUtil.Ui.MewUI.Loupe,0.1.0,tomokuni,ルーペの MewUI 版コントロール。
+2026-10-26T05:23:29.913Z,EsUtil.Ui.MewUI.Marquee,0.1.0,tomokuni,マーキーの MewUI 版コントロール。
+2026-10-26T05:23:31.37Z,EsUtil.Ui.MewUI.Thumbnail,0.1.0,tomokuni,サムネイル一覧の MewUI 版コントロール。
+2026-10-26T05:28:26.77Z,Tint,0.0.1,Sébastien Ros,"TextMate syntax colorization for .NET: VS Code grammars and themes compiled by a source generator, regexes by GregsEx, NativeAOT and trimming safe."
+2026-10-26T05:28:27.86Z,Tint.Grammars,0.0.1,Sébastien Ros,"The TextMate grammars of Visual Studio Code, compiled for Tint: one class per grammar, TintGrammars.All and TintGrammars.Find. Trimming keeps only the grammars an application uses."
+2026-10-26T05:28:29.097Z,Tint.Grammars.Sources,0.0.1,Sébastien Ros,"The TextMate grammar files of Visual Studio Code (JSON and plist, with their manifest) for the Tint source generator: reference the package, include the grammars you want as TintGrammar items from $(TintGrammarsSourcesPath), and the generator compiles exactly those into your assembly with your own…"
+2026-10-26T05:28:30.013Z,Tint.Themes,0.0.1,Sébastien Ros,"The color themes of Visual Studio Code, compiled for Tint: one class per theme, TintThemes.All and TintThemes.Find. Trimming keeps only the themes an application uses."
+2026-10-26T05:28:31.117Z,Tint.Themes.Sources,0.0.1,Sébastien Ros,"The color theme files of Visual Studio Code (with their includes and manifest) for the Tint source generator: reference the package, include the themes you want as TintTheme items from $(TintThemesSourcesPath), and the generator compiles exactly those into your assembly. Development dependency: not…"
+2026-10-26T05:44:20.327Z,NCache.DistributedLock,5.3.800,Alachisoft,NCache integration for Distributed Lock.
+2026-10-26T05:49:44.277Z,Octeka.Ui.Wpf.DrillDownMenu,1.0.0,Patrick Robichaud,"Hierarchical, in-place transition drill-down menu control for modern WPF applications."
+2026-10-26T05:49:53.863Z,NextLevel.Maintenance,1.0.0,NextLevel,"Maintenance contracts shared by games (NextLevel.GameStarter) and the admin: the update state, the messages and the communicator channels they travel on."
+2026-10-26T05:58:15.57Z,EsUtil.Ui.AvaloniaUI.Interop,0.1.0,tomokuni,Avalonia UI と EsUtil の型（キー・幾何・色・ウィンドウ状態・画像）を相互変換するブリッジ。
+2026-10-26T05:58:17.02Z,EsUtil.Ui.MewUI.Interop,0.1.0,tomokuni,MewUI と EsUtil の型（キー・幾何・色・ウィンドウ状態・画像）を相互変換するブリッジ。
+2026-10-26T05:58:18.433Z,EsUtil.Ui.WinForms.Interop,0.1.0,tomokuni,WinForms と EsUtil の型（キー・幾何・色・ウィンドウ状態・画像）を相互変換するブリッジ。
+2026-10-26T05:58:19.863Z,EsUtil.Ui.WinUI3.Interop,0.1.0,tomokuni,WinUI 3 と EsUtil の型（キー・幾何・色・ウィンドウ状態・画像）を相互変換するブリッジ。
+2026-10-26T05:59:30.913Z,Astrea.Components,0.8.0,Astrea contributors,Astrea Blazor UI components for .NET 6: Tree and ResourceTable.
+2026-10-26T06:13:13.223Z,EdiMorph.Abstractions,0.1.0,"Tural Suleymani, suleymani.2ral@gmail.com","Contracts for specification requests, diagnostics, and rule handlers."
+2026-10-26T06:13:15.37Z,EdiMorph.Specifications,0.1.0,"Tural Suleymani, suleymani.2ral@gmail.com","Catalog, resolver, and compiler that produce an immutable EDI specification."
+2026-10-26T06:13:17.587Z,EdiMorph.Specifications.X12,0.1.0,"Tural Suleymani, suleymani.2ral@gmail.com","X12 004010 rule documents, syntax handlers, and the typed 204 transaction."
+2026-10-26T06:13:22.69Z,EdiMorph.X12,0.1.0,"Tural Suleymani, suleymani.2ral@gmail.com",X12 reader for a compiled 004010 204 interchange.
