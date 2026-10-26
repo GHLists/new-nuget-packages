@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-26T19:24:31.67Z,BinReader.NPoint,1.0.1,RobinClaesson,A .NET client for reading and caching JSON bins from https://www.npoint.io/
+2026-10-26T19:42:52.333Z,NUnit.Tools.TestExplorerDump,1.0.0,Terje Sandstrom,"Internal NUnit tool: dumps the Visual Studio Test Explorer tree as text, and drives Visual Studio (start, build, run tests, close) for testing the NUnit VS adapter. Windows only."
+2026-10-26T19:44:20.617Z,RecursiveAI.OneGame.Sdk,1.1.0,"Recursive AI, LLC","MSBuild SDK for onegame games: references, rules and export targets, so a game builds from nuget.org without an engine checkout."
+2026-10-26T19:44:23.4Z,RecursiveAI.OneGame.Cli,1.1.0,"Recursive AI, LLC","The onegame command: create, build, run, test, capture and replay games."
+2026-10-26T19:45:20.307Z,Bebop.JsonPath,1.0.0,Alexander Jesner,RFC 9535 compliant JSONPath implementation for .NET

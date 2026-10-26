@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 19:21 UTC
+## Latest list — 2026-10-26 20:21 UTC
 
-New packages created between 2026-10-26 18:21 UTC and 2026-10-26 19:21 UTC.
+New packages created between 2026-10-26 19:21 UTC and 2026-10-26 20:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T19-21-58-946914Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T20-21-12-328412Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 18:27:29 | [Senseble.Maui.BottomSheet](https://www.nuget.org/packages/Senseble.Maui.BottomSheet) | 0.1.1 | Senseble B.V. | Lightweight modal bottom sheet for .NET MAUI (Android and iOS). The sheet is sh… |
-| 2026-10-26 18:34:06 | [ConventionMapper.Testing](https://www.nuget.org/packages/ConventionMapper.Testing) | 1.8.0 | Katragadda | Test helpers for ConventionMapper and ConventionMapper.SourceGenerator mappings… |
-| 2026-10-26 18:44:44 | [SparkStudio.RoomRelay.Api.Client](https://www.nuget.org/packages/SparkStudio.RoomRelay.Api.Client) | 0.1.1857 | SparkStudio | C# clients for SparkStudio RoomRelay. |
-| 2026-10-26 18:44:46 | [SparkStudio.RoomRelay.Client](https://www.nuget.org/packages/SparkStudio.RoomRelay.Client) | 0.1.1857 | SparkStudio | One RoomRelay client for room management, WebSocket broadcasts, and UDP room me… |
-| 2026-10-26 18:44:47 | [SparkStudio.RoomRelay.Udp.Client](https://www.nuget.org/packages/SparkStudio.RoomRelay.Udp.Client) | 0.1.1857 | SparkStudio | C# clients for SparkStudio RoomRelay. |
-| 2026-10-26 18:44:48 | [SparkStudio.RoomRelay.WebSocket.Client](https://www.nuget.org/packages/SparkStudio.RoomRelay.WebSocket.Client) | 0.1.1857 | SparkStudio | C# clients for SparkStudio RoomRelay. |
+| 2026-10-26 19:24:31 | [BinReader.NPoint](https://www.nuget.org/packages/BinReader.NPoint) | 1.0.1 | RobinClaesson | A .NET client for reading and caching JSON bins from https://www.npoint.io/ |
+| 2026-10-26 19:42:52 | [NUnit.Tools.TestExplorerDump](https://www.nuget.org/packages/NUnit.Tools.TestExplorerDump) | 1.0.0 | Terje Sandstrom | Internal NUnit tool: dumps the Visual Studio Test Explorer tree as text, and dr… |
+| 2026-10-26 19:44:20 | [RecursiveAI.OneGame.Sdk](https://www.nuget.org/packages/RecursiveAI.OneGame.Sdk) | 1.1.0 | Recursive AI, LLC | MSBuild SDK for onegame games: references, rules and export targets, so a game… |
+| 2026-10-26 19:44:23 | [RecursiveAI.OneGame.Cli](https://www.nuget.org/packages/RecursiveAI.OneGame.Cli) | 1.1.0 | Recursive AI, LLC | The onegame command: create, build, run, test, capture and replay games. |
+| 2026-10-26 19:45:20 | [Bebop.JsonPath](https://www.nuget.org/packages/Bebop.JsonPath) | 1.0.0 | Alexander Jesner | RFC 9535 compliant JSONPath implementation for .NET |
 
 ## Data source
 
