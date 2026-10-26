@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-10-26T00:21:26.903Z,StockSharp.Designer.Avalonia,5.0.0,StockSharp Platform LLC https://stocksharp.com,Avalonia designer application. More info on web site https://stocksharp.com/store/
+2026-10-26T00:21:27.37Z,StockSharp.Hydra.Core.Avalonia,5.0.0,StockSharp Platform LLC https://stocksharp.com,Hydra core components. More info on web site https://stocksharp.com/store/
+2026-10-26T00:21:27.787Z,StockSharp.Hydra.ViewModels,5.0.0,StockSharp Platform LLC https://stocksharp.com,Hydra view models. More info on web site https://stocksharp.com/store/
+2026-10-26T00:21:28.25Z,StockSharp.Terminal.Avalonia,5.0.0,StockSharp Platform LLC https://stocksharp.com,Terminal Avalonia application. More info on web site https://stocksharp.com/store/
+2026-10-26T00:21:28.69Z,StockSharp.Hydra.Avalonia,5.0.0,StockSharp Platform LLC https://stocksharp.com,Avalonia Hydra application. More info on web site https://stocksharp.com/store/
+2026-10-26T00:26:52.373Z,Privatus.Analytics.AspNetCore,1.0.0,Two Phase LLC,"Adds the cookieless Privatus Analytics tracking script to ASP.NET Core apps. Tag helpers, HTML helpers, a Blazor component and an optional middleware. It only prints HTML and never sends events from your server."
+2026-10-26T00:40:48.737Z,StockSharp.UdpDumper.ViewModels,5.0.0,StockSharp Platform LLC https://stocksharp.com,UI-independent application model for the StockSharp UDP Dumper. More info on web site https://stocksharp.com/store/
+2026-10-26T00:40:49.8Z,StockSharp.FastParser,5.0.0,StockSharp Platform LLC https://stocksharp.com,FastParser More info on web site https://stocksharp.com/store/
+2026-10-26T00:53:38.1Z,SiameseCat.Communication.All,0.9.2,RabitLogic,Convenience package that references every SiameseCat.Communication package.
+2026-10-26T00:53:39.19Z,SiameseCat.Communication.Core,0.9.2,RabitLogic,"Core contracts, device model, driver runtime, transports and diagnostics for SiameseCat."
+2026-10-26T00:53:40.23Z,SiameseCat.Communication.Hosting,0.9.2,RabitLogic,"Dependency injection, health checks, slave hosting and logging integration for SiameseCat."
+2026-10-26T00:53:41.33Z,SiameseCat.Communication.Modbus,0.9.2,RabitLogic,"Modbus RTU/TCP clients, driver and MBAP framing for SiameseCat."
+2026-10-26T00:53:42.28Z,SiameseCat.Communication.S7,0.9.2,RabitLogic,S7 (ISO-on-TCP + COTP + S7 PDU) client and driver for SiameseCat.
+2026-10-26T00:53:44.113Z,SiameseCat.Communication.Simulation.Modbus,0.9.2,RabitLogic,In-process Modbus TCP/RTU slaves for SiameseCat.
+2026-10-26T00:53:45.19Z,SiameseCat.Communication.Simulation.S7,0.9.2,RabitLogic,In-process S7 (ISO-on-TCP) slave for SiameseCat.
+2026-10-26T00:53:46.18Z,SiameseCat.Communication.Tcp,0.9.2,RabitLogic,"Protocol-agnostic TCP framing, connection core, client and server for SiameseCat."
+2026-10-26T00:56:19.973Z,Octeka.Options,1.0.0,Patrick Robichaud (operating as OCTEKA),"High-performance, zero-allocation reactive options engine featuring lock-free access, property-level diffing, and cooperative reload negotiation."
+2026-10-26T00:56:20.66Z,Octeka.Options.Abstractions,1.0.0,Patrick Robichaud (operating as OCTEKA),"Core abstractions, contracts, diffing interfaces, and negotiation lifecycle protocols for Octeka.Options."
+2026-10-26T00:56:21.27Z,Octeka.Options.Extensions.Configuration,1.0.0,Patrick Robichaud (operating as OCTEKA),Octeka.Configuration.Mapper integration extensions for bridging reactive configuration bindings into Octeka.Options.
+2026-10-26T00:56:21.847Z,Octeka.Options.Extensions.Settings,1.0.0,Patrick Robichaud (operating as OCTEKA),Octeka.Settings integration extensions for bridging scoped persistent settings into Octeka.Options with automated false-save suppression.
+2026-10-26T01:07:38.673Z,Ashlar.Bricks.GitHub,0.4.0-rc1,Ian Frelinger,"GitHub operations bricks for Ashlar: what is blocking a pull request or release (with evidence links and explicit unknowns), pull request status and CI status for a ref, built on Octokit behind the Ashlar egress guard."
