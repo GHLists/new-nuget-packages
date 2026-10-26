@@ -12,22 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 13:22 UTC
+## Latest list — 2026-10-26 14:22 UTC
 
-New packages created between 2026-10-26 12:20 UTC and 2026-10-26 13:22 UTC.
+New packages created between 2026-10-26 13:22 UTC and 2026-10-26 14:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T13-22-22-01229Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T14-22-21-17468Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 12:23:28 | [Devolutions.Agent.Identity.Authority](https://www.nuget.org/packages/Devolutions.Agent.Identity.Authority) | 2026.10.26 | Devolutions Inc. | Agent-facing protocol rules shared by every Devolutions Agent Identity authority |
-| 2026-10-26 12:27:00 | [ALKsPersonalUI](https://www.nuget.org/packages/ALKsPersonalUI) | 1.0.1 | Andreas Liepins Krusager | Custom tactile dark-mode UI library for Blazor: windows, 3D buttons, inputs, mo… |
-| 2026-10-26 12:34:18 | [Indigina.Dcm.Packer.Client](https://www.nuget.org/packages/Indigina.Dcm.Packer.Client) | 1.0.0 | Indigina | Package contains client for Dcm.Packer service. |
-| 2026-10-26 12:34:19 | [Indigina.Dcm.Packer.WebApi](https://www.nuget.org/packages/Indigina.Dcm.Packer.WebApi) | 1.0.0 | Indigina | Package contains web api for Dcm.Packer service. |
-| 2026-10-26 12:40:12 | [CodeCrush.MeshCore.Core](https://www.nuget.org/packages/CodeCrush.MeshCore.Core) | 0.1.0 | Emmanuel Robles | Transport-agnostic MeshCore companion-protocol client: framing, channel message… |
-| 2026-10-26 12:40:13 | [CodeCrush.MeshCore.Serial](https://www.nuget.org/packages/CodeCrush.MeshCore.Serial) | 0.1.0 | Emmanuel Robles | USB serial transport for CodeCrush.MeshCore.Core. |
-| 2026-10-26 12:59:07 | [PlcSimulator.Lite](https://www.nuget.org/packages/PlcSimulator.Lite) | 2.2.10 | UseThink | PLC Simulator Lite - lightweight industrial protocol simulation engine for net4… |
-| 2026-10-26 13:12:10 | [Tqsdk.net](https://www.nuget.org/packages/Tqsdk.net) | 1.0.0 | zhuoxiaoqiang | 天勤 TqSdk 的 C# 复刻。第一阶段：行情服务器通信（WebSocket + 认证 + 行情订阅）。 |
+| 2026-10-26 13:33:18 | [Xrm.DataManager.Framework.ApplicationInsights](https://www.nuget.org/packages/Xrm.DataManager.Framework.ApplicationInsights) | 2026.0.2 | Aymeric Mouillé | Application Insights logger for Xrm.DataManager.Framework |
+| 2026-10-26 13:33:19 | [Xrm.DataManager.Framework.Tds](https://www.nuget.org/packages/Xrm.DataManager.Framework.Tds) | 2026.0.2 | Aymeric Mouillé | Retrieve Dataverse records with SQL (TDS endpoint) for Xrm.DataManager.Framework |
+| 2026-10-26 13:39:11 | [CvSharp.PSD](https://www.nuget.org/packages/CvSharp.PSD) | 1.0.0 | GreatBear | Standalone 8/16-bit PSD reader/writer for .NET built on CvSharp. |
+| 2026-10-26 13:41:03 | [FoundWell.Umbraco](https://www.nuget.org/packages/FoundWell.Umbraco) | 1.0.0 | Datapad | Connects an Umbraco site to FoundWell (redirects, llms.txt and JSON-LD written… |
+| 2026-10-26 13:41:26 | [ParakeetSharp](https://www.nuget.org/packages/ParakeetSharp) | 26.10.7330 | Parakeet contributors | Pure C# (.NET 10) inference for NVIDIA Parakeet TDT speech recognition (FastCon… |
+| 2026-10-26 13:50:08 | [Acplite](https://www.nuget.org/packages/Acplite) | 0.1.0 | Cristi Pufu | CLI and stdio ACP bridge server for Claude Code, OpenAI Codex, Grok, and Google… |
+| 2026-10-26 13:50:09 | [Acplite.Sdk](https://www.nuget.org/packages/Acplite.Sdk) | 0.1.0 | Cristi Pufu | Native C# / NativeAOT Agent Client Protocol (ACP) SDK and provider bridges for… |
+| 2026-10-26 13:52:17 | [JsonRepairNet](https://www.nuget.org/packages/JsonRepairNet) | 0.1.0 | composehk | Unofficial .NET port of json_repair: Repair malformed JSON from LLMs, APIs, and… |
+| 2026-10-26 13:52:19 | [JsonRepairNet.Cli](https://www.nuget.org/packages/JsonRepairNet.Cli) | 0.1.0 | composehk | Unofficial .NET port of json_repair: Dotnet tool that repairs malformed JSON. C… |
+| 2026-10-26 13:56:56 | [EBitSaaS.DynamicCrud](https://www.nuget.org/packages/EBitSaaS.DynamicCrud) | 0.0.1 | System Administrator | Core services and infrastructure for EBit SaaS platform for dynamic CRUD operat… |
+| 2026-10-26 14:12:44 | [Dynatrace.OpenFeature](https://www.nuget.org/packages/Dynatrace.OpenFeature) | 0.0.2-alpha | Dynatrace | The official Dynatrace OpenFeature provider for .NET. |
 
 ## Data source
 

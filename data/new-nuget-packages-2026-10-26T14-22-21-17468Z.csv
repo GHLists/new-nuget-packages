@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-26T13:33:18.24Z,Xrm.DataManager.Framework.ApplicationInsights,2026.0.2,Aymeric Mouillé,Application Insights logger for Xrm.DataManager.Framework
+2026-10-26T13:33:19.463Z,Xrm.DataManager.Framework.Tds,2026.0.2,Aymeric Mouillé,Retrieve Dataverse records with SQL (TDS endpoint) for Xrm.DataManager.Framework
+2026-10-26T13:39:11.6Z,CvSharp.PSD,1.0.0,GreatBear,Standalone 8/16-bit PSD reader/writer for .NET built on CvSharp.
+2026-10-26T13:41:03.563Z,FoundWell.Umbraco,1.0.0,Datapad,"Connects an Umbraco site to FoundWell (redirects, llms.txt and JSON-LD written by FoundWell) and adds AEO/GEO auditing, schema.org and /llms.txt to the backoffice."
+2026-10-26T13:41:26.127Z,ParakeetSharp,26.10.7330,Parakeet contributors,"Pure C# (.NET 10) inference for NVIDIA Parakeet TDT speech recognition (FastConformer encoder + Token-and-Duration Transducer), loading the official .nemo checkpoint or the ONNX export, with no native dependencies."
+2026-10-26T13:50:08.727Z,Acplite,0.1.0,Cristi Pufu,"CLI and stdio ACP bridge server for Claude Code, OpenAI Codex, Grok, and Google Antigravity."
+2026-10-26T13:50:09.833Z,Acplite.Sdk,0.1.0,Cristi Pufu,"Native C# / NativeAOT Agent Client Protocol (ACP) SDK and provider bridges for Claude Code, OpenAI Codex, Grok, and Google Antigravity."
+2026-10-26T13:52:17.753Z,JsonRepairNet,0.1.0,composehk,"Unofficial .NET port of json_repair: Repair malformed JSON from LLMs, APIs, and logs. A .NET 8 port of the core repair behavior from json_repair."
+2026-10-26T13:52:19.827Z,JsonRepairNet.Cli,0.1.0,composehk,Unofficial .NET port of json_repair: Dotnet tool that repairs malformed JSON. Command name: json-repair.
+2026-10-26T13:56:56.193Z,EBitSaaS.DynamicCrud,0.0.1,System Administrator,Core services and infrastructure for EBit SaaS platform for dynamic CRUD operations and runtime report generation.
+2026-10-26T14:12:44.523Z,Dynatrace.OpenFeature,0.0.2-alpha,Dynatrace,The official Dynatrace OpenFeature provider for .NET.
