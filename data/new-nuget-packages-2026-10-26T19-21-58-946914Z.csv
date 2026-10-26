@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-26T18:27:29.98Z,Senseble.Maui.BottomSheet,0.1.1,Senseble B.V.,"Lightweight modal bottom sheet for .NET MAUI (Android and iOS). The sheet is shown on top of the whole window, dims the background including the status bar and closes when the dimmed area is tapped."
+2026-10-26T18:34:06.327Z,ConventionMapper.Testing,1.8.0,Katragadda,"Test helpers for ConventionMapper and ConventionMapper.SourceGenerator mappings: MapperAssert.WritesExactly fills a source object and checks exactly which destination members a map writes (or compares with the generator's WriteSets), and MapperAssert.AllMethodsCovered fails when a mapping method is…"
+2026-10-26T18:44:44.84Z,SparkStudio.RoomRelay.Api.Client,0.1.1857,SparkStudio,C# clients for SparkStudio RoomRelay.
+2026-10-26T18:44:46.05Z,SparkStudio.RoomRelay.Client,0.1.1857,SparkStudio,"One RoomRelay client for room management, WebSocket broadcasts, and UDP room messages."
+2026-10-26T18:44:47.23Z,SparkStudio.RoomRelay.Udp.Client,0.1.1857,SparkStudio,C# clients for SparkStudio RoomRelay.
+2026-10-26T18:44:48.463Z,SparkStudio.RoomRelay.WebSocket.Client,0.1.1857,SparkStudio,C# clients for SparkStudio RoomRelay.
