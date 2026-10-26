@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-26T21:25:16.663Z,ArcKids.AlibabaCloud.OSS.V2,0.3.0,ArcKids,Alibaba Cloud OSS SDK for .NET V2
+2026-10-26T21:32:21.35Z,Wayfinder.Umbraco.Starter,6.1.0,Jonny Muir,"Try Wayfinder on a fresh Umbraco site with no code: a home page, a sample service with a public and a staff queue, demo staff sign-in, and the MCP authoring endpoint wired up so you can design a service in conversation with an AI assistant. For local development only, never install it on a real sit…"
+2026-10-26T21:42:12.107Z,Patterns.DDD.MassTransit,1.0.0,Nugi Gigauri,"Publishes Patterns.DDD aggregates' domain events as integration events through MassTransit's EF Core transactional outbox, in the same transaction as the aggregate's changes, with MassTransit's inbox for idempotent consumers. Built on MassTransit v8 (Apache 2.0)."
+2026-10-26T21:42:12.82Z,Patterns.DDD,1.0.0,Nugi Gigauri,"Small, dependency-free DDD building blocks for .NET: Entity, AggregateRoot, domain events, Result/Error and composable business rules."
+2026-10-26T21:42:13.583Z,Patterns.DDD.Application,1.0.0,Nugi Gigauri,"Application-layer contracts for Patterns.DDD: unit of work, integration events and the domain-to-integration event map. No third-party dependencies."
+2026-10-26T21:43:48.18Z,EntMap,0.0.1,WssIDs,Source generator and runtime infrastructure for high-performance mapping
+2026-10-26T21:58:23.653Z,RuleLoom.AspNetCore,0.7.0,Stefan Totev,"ASP.NET Core endpoints for RuleLoom: app.MapRuleLoom(""/rules"") serves the catalog document and validates rules for a rule-authoring UI."
