@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-26T10:33:51.53Z,AdvancedComponents.NET,1.0.0,Cristian Caciagli,Libreria di componenti Blazor riutilizzabili.
+2026-10-26T10:34:57.29Z,ProtoCross,0.8.0,Isaac Sherman,"The ProtoCross compiler. Write the business methods of your protobuf messages once, in a small language with defined, tested cross-language semantics, and generate them as C# and C++, with their tests."
+2026-10-26T10:41:56.163Z,Render.NET,0.1.1,Vadim Belov,"Foundation package for Render.NET, a .NET rendering library. This initial release is an empty placeholder; rendering APIs are not implemented yet."
+2026-10-26T10:54:03.89Z,BBTree,0.1.0,Lukasz Rozmej,Fast ordered maps for .NET on a B+-tree whose nodes search inline keys with SIMD: a map for one thread and a lock-free-read concurrent map. A C# port of the bbtree crate.
+2026-10-26T10:55:52.417Z,Render.NET.Mesh,0.1.1,Vadim Belov,Foundation package for fully managed 3D model rendering with Render.NET. This initial release establishes the package structure; model loading and rendering APIs are not implemented yet.
+2026-10-26T10:59:06.377Z,Konstera.Sdk,0.3.0,Konstera,"Konstera Agent SDK for .NET. Mirror of konstera-sdk (Python). Wraps the MCP callback protocol and the /invoke HTTP contract so agent authors write business logic, not plumbing."
