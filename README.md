@@ -12,35 +12,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 02:19 UTC
+## Latest list — 2026-10-26 03:19 UTC
 
-New packages created between 2026-10-26 01:19 UTC and 2026-10-26 02:19 UTC.
+New packages created between 2026-10-26 02:19 UTC and 2026-10-26 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T02-19-35-857915Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T03-19-42-531939Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 01:24:04 | [Ling.Mapper.Generator](https://www.nuget.org/packages/Ling.Mapper.Generator) | 1.3.0 | yanhuuo | Explicit-pair C# source generator for Ling.Mapper Native AOT mapping. |
-| 2026-10-26 01:25:00 | [Galaxy.QQBot](https://www.nuget.org/packages/Galaxy.QQBot) | 0.0.1 | 银河Galaxy | .net10实现的QQ官方机器人架子，目前仅支持websocket私聊、群聊以及按钮响应 |
-| 2026-10-26 01:34:00 | [Miko.Testing](https://www.nuget.org/packages/Miko.Testing) | 0.1.0 | Miko | Testing utilities for Miko: render components and inspect layout in unit tests.… |
-| 2026-10-26 01:34:01 | [Miko.Components](https://www.nuget.org/packages/Miko.Components) | 0.1.0 | Miko | Native player components for Miko. |
-| 2026-10-26 01:34:02 | [Miko.Native](https://www.nuget.org/packages/Miko.Native) | 0.1.0 | Miko | Cross-platform native capability abstractions for Miko (app, camera, clipboard,… |
-| 2026-10-26 01:38:27 | [Afic.Define](https://www.nuget.org/packages/Afic.Define) | 2026.10.34 | nuoyi.cc | Common DTO, VO and entity interfaces for Afic.Net. |
-| 2026-10-26 01:38:30 | [Afic.Define.StringIdEntity](https://www.nuget.org/packages/Afic.Define.StringIdEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with string identifiers in Afic.Net. |
-| 2026-10-26 01:38:32 | [Afic.Define.LongIdEntity](https://www.nuget.org/packages/Afic.Define.LongIdEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with ulong identifiers in Afic.Net. |
-| 2026-10-26 01:38:35 | [Afic.Define.GuidEntity](https://www.nuget.org/packages/Afic.Define.GuidEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with Guid identifiers in Afic.Net. |
-| 2026-10-26 01:38:38 | [Afic.Define.SnowflakeEntity](https://www.nuget.org/packages/Afic.Define.SnowflakeEntity) | 2026.10.34 | nuoyi.cc | DTO and VO definitions for entities with snowflake identifiers in Afic.Net. |
-| 2026-10-26 01:38:41 | [Afic.Common](https://www.nuget.org/packages/Afic.Common) | 2026.10.34 | nuoyi.cc | Common base entity and data core types for Afic.Net. |
-| 2026-10-26 01:38:43 | [Afic.Common.StringIdEntity](https://www.nuget.org/packages/Afic.Common.StringIdEntity) | 2026.10.34 | nuoyi.cc | Base entity types with string identifiers for Afic.Net. |
-| 2026-10-26 01:38:46 | [Afic.Common.LongIdEntity](https://www.nuget.org/packages/Afic.Common.LongIdEntity) | 2026.10.34 | nuoyi.cc | Base entity types with ulong identifiers for Afic.Net. |
-| 2026-10-26 01:38:48 | [Afic.Common.GuidEntity](https://www.nuget.org/packages/Afic.Common.GuidEntity) | 2026.10.34 | nuoyi.cc | Base entity types with Guid identifiers for Afic.Net. |
-| 2026-10-26 01:38:51 | [Afic.Common.SnowflakeEntity](https://www.nuget.org/packages/Afic.Common.SnowflakeEntity) | 2026.10.34 | nuoyi.cc | Base entity types with snowflake identifiers for Afic.Net. |
-| 2026-10-26 01:44:16 | [StockSharp.Installer.Core](https://www.nuget.org/packages/StockSharp.Installer.Core) | 5.0.0 | StockSharp Platform LLC https… | Installer core. More info on web site https://stocksharp.com/store/ |
-| 2026-10-26 01:44:17 | [StockSharp.Installer.UI.ViewModels](https://www.nuget.org/packages/StockSharp.Installer.UI.ViewModels) | 5.0.0 | StockSharp Platform LLC https… | Installer UI view models. More info on web site https://stocksharp.com/store/ |
-| 2026-10-26 01:44:19 | [StockSharp.Installer.UI.Avalonia](https://www.nuget.org/packages/StockSharp.Installer.UI.Avalonia) | 5.0.0 | StockSharp Platform LLC https… | Avalonia installer application. More info on web site https://stocksharp.com/st… |
-| 2026-10-26 02:07:17 | [OfficeHost.AzureBlob](https://www.nuget.org/packages/OfficeHost.AzureBlob) | 0.4.0 | https://github.com/Papyrine/O… | An Azure Blob Storage storage for OfficeHost: the files in a blob container, sh… |
-| 2026-10-26 02:07:19 | [OfficeHost.SqlServer](https://www.nuget.org/packages/OfficeHost.SqlServer) | 0.4.0 | https://github.com/Papyrine/O… | SQL Server stores for OfficeHost: the files, the WOPI locks, the state of deskt… |
-| 2026-10-26 02:07:19 | [OfficeHost.SqlServer.Install](https://www.nuget.org/packages/OfficeHost.SqlServer.Install) | 0.4.0 | https://github.com/Papyrine/O… | Creates the SQL Server tables of OfficeHost.SqlServer, from a deployment or mig… |
+| 2026-10-26 02:32:35 | [HackerOs.App.Abstractions](https://www.nuget.org/packages/HackerOs.App.Abstractions) | 2.1.0 | Benoit Robin | HackerOs App SDK contracts: AppDefinition and [AppManifest], the schema-v1 app… |
+| 2026-10-26 02:32:36 | [HackerOs.App.Build](https://www.nuget.org/packages/HackerOs.App.Build) | 2.1.0 | Benoit Robin | Build integration of HackerOS apps: generated manifest.json, SDK boundary check… |
+| 2026-10-26 02:32:37 | [HackerOs.AppSdk](https://www.nuget.org/packages/HackerOs.AppSdk) | 2.1.0 | Benoit Robin | HackerOS App SDK: the Hack* APIs an app uses (HackFile, HackStream, HackDirecto… |
+| 2026-10-26 02:32:38 | [HackerOs.AppSdk.Blazor](https://www.nuget.org/packages/HackerOs.AppSdk.Blazor) | 2.1.0 | Benoit Robin | HackerOS App SDK for window apps: HackComponentBase, window base classes, dialo… |
+| 2026-10-26 02:32:40 | [HackerOs.AppSdk.Icons](https://www.nuget.org/packages/HackerOs.AppSdk.Icons) | 2.1.0 | Benoit Robin | Framework-independent icon catalog and native Blazor SVG renderer used by Hacke… |
+| 2026-10-26 02:32:41 | [HackerOs.AppSdk.Terminal](https://www.nuget.org/packages/HackerOs.AppSdk.Terminal) | 2.1.0 | Benoit Robin | HackerOS App SDK for terminal commands and the embeddable terminal contract (IH… |
+| 2026-10-26 02:32:42 | [HackerOs.AppSdk.VirtualKeyboard](https://www.nuget.org/packages/HackerOs.AppSdk.VirtualKeyboard) | 2.1.0 | Benoit Robin | A reusable, host-agnostic on-screen keyboard and a keyboard-aware split contain… |
+| 2026-10-26 02:32:43 | [HackerOs.AppSdk.Web](https://www.nuget.org/packages/HackerOs.AppSdk.Web) | 2.1.0 | Benoit Robin | ASP.Hack: MVC-like web sites hosted inside HackerOS (controllers, routing, mode… |
+| 2026-10-26 02:32:44 | [HackerOs.AppSdk.Web.Blazor](https://www.nuget.org/packages/HackerOs.AppSdk.Web.Blazor) | 2.1.0 | Benoit Robin | Interactive Blazor sites of ASP.Hack: site router, navigation and the view the… |
+| 2026-10-26 02:32:48 | [HackerOs.Apps.Browser](https://www.nuget.org/packages/HackerOs.Apps.Browser) | 2.1.0 | Benoit Robin | The base HackerOS web browser app, to include in an OS host (ProjectReference o… |
+| 2026-10-26 02:32:50 | [HackerOs.Apps.Calculator](https://www.nuget.org/packages/HackerOs.Apps.Calculator) | 2.1.0 | Benoit Robin | The base HackerOS calculator app, to include in an OS host (ProjectReference or… |
+| 2026-10-26 02:32:51 | [HackerOs.Apps.CodeEditor](https://www.nuget.org/packages/HackerOs.Apps.CodeEditor) | 2.1.0 | Benoit Robin | The base HackerOS code editor workbench app, to include in an OS host (ProjectR… |
+| 2026-10-26 02:32:52 | [HackerOs.Apps.Desktop](https://www.nuget.org/packages/HackerOs.Apps.Desktop) | 2.1.0 | Benoit Robin | The HackerOS desktop: the icons of ~/Desktop, Home and Trash, drawn by the shel… |
+| 2026-10-26 02:32:53 | [HackerOs.Apps.Diagnostic](https://www.nuget.org/packages/HackerOs.Apps.Diagnostic) | 2.1.0 | Benoit Robin | The base HackerOS diagnostic tool app, to include in an OS host (ProjectReferen… |
+| 2026-10-26 02:32:54 | [HackerOs.Apps.ErrorLogViewer](https://www.nuget.org/packages/HackerOs.Apps.ErrorLogViewer) | 2.1.0 | Benoit Robin | The base HackerOS log viewer app, to include in an OS host (ProjectReference or… |
+| 2026-10-26 02:32:56 | [HackerOs.Apps.FileExplorer](https://www.nuget.org/packages/HackerOs.Apps.FileExplorer) | 2.1.0 | Benoit Robin | The base HackerOS file explorer app, to include in an OS host (ProjectReference… |
+| 2026-10-26 02:32:57 | [HackerOs.Apps.HackPaint](https://www.nuget.org/packages/HackerOs.Apps.HackPaint) | 2.1.0 | Benoit Robin | The base HackerOS Hack Paint image editor app, to include in an OS host (Projec… |
+| 2026-10-26 02:32:58 | [HackerOs.Apps.IconViewer](https://www.nuget.org/packages/HackerOs.Apps.IconViewer) | 2.1.0 | Benoit Robin | The base HackerOS icon viewer app, to include in an OS host (ProjectReference o… |
+| 2026-10-26 02:32:59 | [HackerOs.Apps.Settings](https://www.nuget.org/packages/HackerOs.Apps.Settings) | 2.1.0 | Benoit Robin | The base HackerOS Settings app, to include in an OS host (ProjectReference or P… |
+| 2026-10-26 02:33:00 | [HackerOs.Apps.SystemMonitor](https://www.nuget.org/packages/HackerOs.Apps.SystemMonitor) | 2.1.0 | Benoit Robin | The base HackerOS system monitor (task manager) app, to include in an OS host (… |
+| 2026-10-26 02:33:01 | [HackerOs.Apps.Terminal](https://www.nuget.org/packages/HackerOs.Apps.Terminal) | 2.1.0 | Benoit Robin | The base HackerOS terminal app, to include in an OS host (ProjectReference or P… |
+| 2026-10-26 02:33:02 | [HackerOs.Apps.TextEditor](https://www.nuget.org/packages/HackerOs.Apps.TextEditor) | 2.1.0 | Benoit Robin | The base HackerOS text editor app, to include in an OS host (ProjectReference o… |
+| 2026-10-26 02:33:04 | [HackerOs.Apps.ThemeEditor](https://www.nuget.org/packages/HackerOs.Apps.ThemeEditor) | 2.1.0 | Benoit Robin | The base HackerOS Theme Editor app, to include in an OS host (ProjectReference… |
+| 2026-10-26 02:33:05 | [HackerOs.Apps.WebServer](https://www.nuget.org/packages/HackerOs.Apps.WebServer) | 2.1.0 | Benoit Robin | The base HackerOS hackwebd web server and Web Server Manager app, to include in… |
+| 2026-10-26 02:33:06 | [HackerOs.Commands](https://www.nuget.org/packages/HackerOs.Commands) | 2.1.0 | Benoit Robin | The built-in HackerOS terminal commands (ls, cat, grep, curl, nano...), one laz… |
+| 2026-10-26 02:33:07 | [HackerOs.Ecosystem.Host](https://www.nuget.org/packages/HackerOs.Ecosystem.Host) | 2.1.0 | Benoit Robin | The HackerOS host: desktop shell, boot coordinator, service composition and bro… |
+| 2026-10-26 02:33:08 | [HackerOs.Infrastructure.Browser](https://www.nuget.org/packages/HackerOs.Infrastructure.Browser) | 2.1.0 | Benoit Robin | Browser infrastructure of HackerOS: IndexedDB storage, Web Worker runtime and t… |
+| 2026-10-26 02:33:09 | [HackerOs.MobileShell.Blazor](https://www.nuget.org/packages/HackerOs.MobileShell.Blazor) | 2.1.0 | Benoit Robin | Mobile shell chrome Razor components driven entirely by host-supplied contracts… |
+| 2026-10-26 02:33:10 | [HackerOs.Platform.Blazor](https://www.nuget.org/packages/HackerOs.Platform.Blazor) | 2.1.0 | Benoit Robin | HackerOS Blazor shell: desktop, launcher, window launching, dialogs and lazy ap… |
+| 2026-10-26 02:33:12 | [HackerOs.Platform.Core](https://www.nuget.org/packages/HackerOs.Platform.Core) | 2.1.0 | Benoit Robin | HackerOS platform core: app catalog, process manager, policy, shell, settings a… |
+| 2026-10-26 02:33:13 | [HackerOs.Platform.RemoteRendering](https://www.nuget.org/packages/HackerOs.Platform.RemoteRendering) | 2.1.0 | Benoit Robin | Trial of HackerOS window apps rendered in a Web Worker (ADR 0129, ADR 0133): a… |
+| 2026-10-26 02:33:14 | [HackerOs.Platform.ResourceAccounting](https://www.nuget.org/packages/HackerOs.Platform.ResourceAccounting) | 2.1.0 | Benoit Robin | Optional measured CPU time and process memory for HackerOS (ADR 0066). Referenc… |
+| 2026-10-26 02:33:15 | [HackerOs.Platform.WorkerHost](https://www.nuget.org/packages/HackerOs.Platform.WorkerHost) | 2.1.0 | Benoit Robin | Headless HackerOS processes (commands, services) in Web Workers: worker pool, r… |
+| 2026-10-26 02:33:16 | [HackerOs.Server.Contracts](https://www.nuget.org/packages/HackerOs.Server.Contracts) | 2.1.0 | Benoit Robin | Shared API versioning, sync record envelope, and proxy request/response contrac… |
+| 2026-10-26 02:33:22 | [HackerOs.Simulation.Abstractions](https://www.nuget.org/packages/HackerOs.Simulation.Abstractions) | 2.1.0 | Benoit Robin | Contracts of the simulated machine (file system, processes, sessions, network,… |
+| 2026-10-26 02:33:23 | [HackerOs.Taskbar.Blazor](https://www.nuget.org/packages/HackerOs.Taskbar.Blazor) | 2.1.0 | Benoit Robin | A taskbar Razor component driven entirely by host-supplied contracts (window so… |
+| 2026-10-26 02:33:25 | [HackerOs.Templates](https://www.nuget.org/packages/HackerOs.Templates) | 2.1.0 | Benoit Robin | dotnet new templates for HackerOS: window app, terminal command, service, ASP.H… |
+| 2026-10-26 02:33:26 | [HackerOs.Theming.Abstractions](https://www.nuget.org/packages/HackerOs.Theming.Abstractions) | 2.1.0 | Benoit Robin | Framework-neutral HackerOS theme catalog, identifiers, form factors, and persis… |
+| 2026-10-26 02:33:27 | [HackerOs.Theming.Blazor](https://www.nuget.org/packages/HackerOs.Theming.Blazor) | 2.1.0 | Benoit Robin | Theme scope and token-driven previews shared by HackerOS shell surfaces and reu… |
+| 2026-10-26 02:33:28 | [HackerOs.Windowing.Abstractions](https://www.nuget.org/packages/HackerOs.Windowing.Abstractions) | 2.1.0 | Benoit Robin | Renderer- and host-independent window contracts: identity, geometry, constraint… |
+| 2026-10-26 02:33:29 | [HackerOs.Windowing.Blazor](https://www.nuget.org/packages/HackerOs.Windowing.Blazor) | 2.1.0 | Benoit Robin | Razor components (DesktopArea, WindowHost, WindowChrome) that render a HackerOs… |
+| 2026-10-26 02:33:31 | [HackerOs.Windowing.Core](https://www.nuget.org/packages/HackerOs.Windowing.Core) | 2.1.0 | Benoit Robin | Headless, renderer-independent window manager engine: applies HackerOs.Windowin… |
+| 2026-10-26 03:01:52 | [Octeka.Scripting](https://www.nuget.org/packages/Octeka.Scripting) | 1.0.0 | Patrick Robichaud | Modular, high-performance runtime C# script compilation and assembly emitting f… |
+| 2026-10-26 03:01:53 | [Octeka.Scripting.Abstractions](https://www.nuget.org/packages/Octeka.Scripting.Abstractions) | 1.0.0 | Patrick Robichaud | Core abstractions, attributes, and contracts for the Octeka Scripting runtime c… |
+| 2026-10-26 03:05:09 | [Mezon.Net.Sdk.Sfu](https://www.nuget.org/packages/Mezon.Net.Sdk.Sfu) | 1.8.0 | Mezon.Net Contributors | Client for the Mezon meeting SFU (mezon-sfu): join rooms, publish Opus audio an… |
 
 ## Data source
 
