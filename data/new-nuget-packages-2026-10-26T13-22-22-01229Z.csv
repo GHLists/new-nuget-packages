@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-26T12:23:28.387Z,Devolutions.Agent.Identity.Authority,2026.10.26,Devolutions Inc.,Agent-facing protocol rules shared by every Devolutions Agent Identity authority
+2026-10-26T12:27:00.167Z,ALKsPersonalUI,1.0.1,Andreas Liepins Krusager,"Custom tactile dark-mode UI library for Blazor: windows, 3D buttons, inputs, modals, toasts, sliders, and planetary loaders."
+2026-10-26T12:34:18.733Z,Indigina.Dcm.Packer.Client,1.0.0,Indigina,Package contains client for Dcm.Packer service.
+2026-10-26T12:34:19.277Z,Indigina.Dcm.Packer.WebApi,1.0.0,Indigina,Package contains web api for Dcm.Packer service.
+2026-10-26T12:40:12.01Z,CodeCrush.MeshCore.Core,0.1.0,Emmanuel Robles,"Transport-agnostic MeshCore companion-protocol client: framing, channel messages, channel and radio administration."
+2026-10-26T12:40:13.95Z,CodeCrush.MeshCore.Serial,0.1.0,Emmanuel Robles,USB serial transport for CodeCrush.MeshCore.Core.
+2026-10-26T12:59:07.023Z,PlcSimulator.Lite,2.2.10,UseThink,PLC Simulator Lite - lightweight industrial protocol simulation engine for net48 and netstandard2.0 consumers.
+2026-10-26T13:12:10.013Z,Tqsdk.net,1.0.0,zhuoxiaoqiang,天勤 TqSdk 的 C# 复刻。第一阶段：行情服务器通信（WebSocket + 认证 + 行情订阅）。
