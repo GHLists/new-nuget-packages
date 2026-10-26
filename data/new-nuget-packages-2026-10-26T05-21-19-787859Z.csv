@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-26T04:24:08.457Z,AutoModeCodeGenerator.Conventions.SqlSugar,1.0.1,mccj,Optional SqlSugar-oriented string templates and mixin snippets for AutoModeCodeGenerator. No SqlSugar assembly dependency.
+2026-10-26T04:31:02.813Z,PinataLabs.Typography,0.1.0,PinataLabs,A cross-platform library for loading and laying out fonts for processing and measuring; written in C#
+2026-10-26T04:50:02.69Z,NextLevel.Communicator,1.0.0,NextLevel,"Channels between NextLevel services on MassTransit and RabbitMQ: broadcast with a queue per service, owned queues, and queues partitioned by any value."
+2026-10-26T04:52:43.4Z,Meziantou.Framework.Barcodes,1.0.0,meziantou,"QR and barcode generation with SVG, PNG, and console renderers"
+2026-10-26T04:52:43.58Z,Meziantou.Framework.Imaging.Barcodes,1.0.0,meziantou,"Renders and draws the QR codes and barcodes of Meziantou.Framework.Barcodes with Meziantou.Framework.Imaging: images in any format, or vector drawing on a canvas"
+2026-10-26T04:58:40.277Z,cmd.Interactive.MenusCore,0.1.0,JuliHyro Studios,"A flexible interactive menu library for .NET console applications, featuring nested menus, navigation, and customizable menu behavior."
+2026-10-26T05:06:38.317Z,Wslc.Testcontainers.Modules.Azurite,0.7.0,Nick Nadolski,"Azurite module for Wslc.Testcontainers: typed builder, Azure Storage endpoints and connection string."
