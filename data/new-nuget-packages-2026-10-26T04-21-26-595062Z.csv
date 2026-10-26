@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-26T03:37:39.26Z,Shiny.Maui.Controls.Foldables,2.1.0-beta-0008,Allan Ritchie,"Fold and hinge posture for Shiny.Maui.Controls: built-in providers for Android foldables (Jetpack WindowManager) and iPhone Duo (iOS 27.1 UIHinge and reserved regions), so FlyoutView snaps to the fold, dialogs, overlays and toasts move off it, and FloatingPanel gains a tabletop detent."
+2026-10-26T03:53:08.453Z,EnvParse.Kit,1.0.0,Nick,Lightweight environment file loader for .NET
+2026-10-26T04:02:26.873Z,DotEnv.Lite,1.0.0,Nick,Lightweight environment file loader for .NET
+2026-10-26T04:02:29.867Z,Hardhat.Env,1.0.0,Nick,Lightweight environment file loader for .NET
+2026-10-26T04:02:32.357Z,Mcp.EnvTools,1.0.0,Nick,Layered configuration helper for .NET applications
