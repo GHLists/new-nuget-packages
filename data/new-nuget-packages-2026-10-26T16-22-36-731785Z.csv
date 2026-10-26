@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-26T15:24:11.533Z,PlaidClient,1.0.0,Tuomas Hietanen,"Plaid open banking client: Link tokens, item linking, transactions sync and verified webhooks, with a replaceable storage layer."
+2026-10-26T15:25:39.903Z,Webority.Azure.KeyVault,0.29.0,Webority.Azure.KeyVault,"Loads an app's secrets from its own Azure Key Vault at startup for the Webority fleet, signed in as the app's managed identity or the developer's Azure sign-in, and stops startup when the vault is missing, unreadable, or a secret is also set in a settings file."
+2026-10-26T15:25:49.507Z,Webority.Cloudflare.R2,0.29.0,Webority.Cloudflare.R2,"Cloudflare R2 object storage for the Webority fleet: put, delete, exists and list across a product's R2 buckets through R2's S3-compatible API, with the account and keys bound from configuration and validated on start."
+2026-10-26T15:34:45.787Z,HttpClient.Resilience.Analyzers.Scan,0.1.213,George Wall,"Scan any .NET solution for HttpClient, IHttpClientFactory, typed-client, Polly, and Microsoft.Extensions.Http.Resilience problems without changing its project files. HCR Scan builds the solution with the HttpClient.Resilience.Analyzers analyzers injected, then reports the rules that fired, where th…"
+2026-10-26T15:36:17.303Z,MrKWatkins.OakPsg.AY38912,0.1.0,Kevin Watkins,Package Description
+2026-10-26T15:36:18.34Z,MrKWatkins.OakPsg.Audio,0.1.0,Kevin Watkins,Package Description
+2026-10-26T15:36:19.343Z,MrKWatkins.OakPsg.ZXSpectrumBeeper,0.1.0,Kevin Watkins,Package Description
+2026-10-26T15:38:02.81Z,Maniacal,0.1.0-alpha,Maniacal contributors,"Command line player for Maniac Mansion (Commodore 64, DOS 1987 and 1988): dotnet tool install -g Maniacal, then maniacal <game folder>."
+2026-10-26T15:38:03.803Z,Maniacal.Scumm,0.1.0-alpha,Maniacal contributors,"The SCUMM interpreter for Maniac Mansion (V0, V1 and V2), ported from ScummVM."
+2026-10-26T15:44:27.98Z,SoulRipper,0.1.1,SuperJMN,"Rips the music, jingles and sound effects of NES and Game Boy ROMs to VGM files, with no per-game setup: it finds the game's sound requests by itself and names the tracks from community rips."
+2026-10-26T15:47:20.333Z,MicroGauge.Avalonia,1.1.0.2,Galen Blakeman,MicroGauge controls for Avalonia
+2026-10-26T15:54:43.393Z,FactSet.SDK.Conversational,1.0.0,FactSet Research Systems,Conversational client library for .NET
+2026-10-26T16:06:34.647Z,LIghtJUNction.Jlib,0.1.0,"Peter Han,LIghtJUNction",Standalone shared PLib-compatible library for Oxygen Not Included mods. Install and enable the Jlib Workshop mod once. Consumer mods reference Jlib.dll without embedding it.

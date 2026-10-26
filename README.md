@@ -12,28 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:21 UTC
+## Latest list — 2026-10-26 16:22 UTC
 
-New packages created between 2026-10-26 14:22 UTC and 2026-10-26 15:21 UTC.
+New packages created between 2026-10-26 15:21 UTC and 2026-10-26 16:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T15-21-29-528081Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T16-22-36-731785Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 14:33:06 | [Tesserae.Lauschwerk](https://www.nuget.org/packages/Tesserae.Lauschwerk) | 26.10.72871 | Curiosity GmbH | Tesserae.Lauschwerk is a Tesserae (Transpose C# to JavaScript) wrapper around t… |
-| 2026-10-26 14:38:45 | [Hlibz.Redoc.Extensions.Core](https://www.nuget.org/packages/Hlibz.Redoc.Extensions.Core) | 2.0.0 | Hlib Zinchenko | The host-agnostic engine behind the Hlibz ReDoc extensions: a dark theme with a… |
-| 2026-10-26 14:38:45 | [Hlibz.Redoc.Extensions.RedocAspNetCore](https://www.nuget.org/packages/Hlibz.Redoc.Extensions.RedocAspNetCore) | 2.0.0 | Hlib Zinchenko | Add-ons for Redoc.AspNetCore's ReDoc UI middleware: a drop-in dark theme with a… |
-| 2026-10-26 14:38:46 | [Hlibz.Redoc.Extensions.Swashbuckle](https://www.nuget.org/packages/Hlibz.Redoc.Extensions.Swashbuckle) | 2.0.0 | Hlib Zinchenko | Add-ons for Swashbuckle.AspNetCore.ReDoc's ReDoc UI middleware: a drop-in dark… |
-| 2026-10-26 14:38:47 | [Hlibz.Redoc.AspNetCore](https://www.nuget.org/packages/Hlibz.Redoc.AspNetCore) | 2.0.0 | Hlib Zinchenko | ReDoc 3 for ASP.NET Core: middleware and endpoint routing that serve an embedde… |
-| 2026-10-26 14:45:53 | [VirtoCommerce.MFA.Core](https://www.nuget.org/packages/VirtoCommerce.MFA.Core) | 3.1000.0 | VirtoCommerce.MFA.Core | Package Description |
-| 2026-10-26 14:45:55 | [VirtoCommerce.MFA.Data](https://www.nuget.org/packages/VirtoCommerce.MFA.Data) | 3.1000.0 | VirtoCommerce.MFA.Data | Package Description |
-| 2026-10-26 14:51:37 | [Tedd.SQLite3.Native](https://www.nuget.org/packages/Tedd.SQLite3.Native) | 0.1.15-preview | Tedd | NativeAOT C ABI builds of the C# SQLite engine. Preview compatibility; see READ… |
-| 2026-10-26 14:51:37 | [Tedd.SQLite3](https://www.nuget.org/packages/Tedd.SQLite3) | 0.1.17-preview | Tedd | SQLite 3 engine implemented in C# for .NET 10. Preview SQL, storage and C ABI c… |
-| 2026-10-26 14:57:54 | [Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.Identity](https://www.nuget.org/packages/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.Identity) | 10.0.14 | Roberto Fernández Salinas | OpenIddict infrastructure implementations |
-| 2026-10-26 15:03:29 | [Amazon.CDK.LambdaLayer.KubectlV37](https://www.nuget.org/packages/Amazon.CDK.LambdaLayer.KubectlV37) | 2.0.0 | Amazon Web Services | A Lambda Layer that contains kubectl v1.37 (Stability: Experimental) |
-| 2026-10-26 15:12:13 | [Smaoin.Shared.Imaging](https://www.nuget.org/packages/Smaoin.Shared.Imaging) | 1.0.94 | Smaoin Ltd | Image resizing with auto-orient, EXIF strip, and JPEG + WebP output for ASP.NET… |
-| 2026-10-26 15:12:15 | [Smaoin.Shared.QrCode](https://www.nuget.org/packages/Smaoin.Shared.QrCode) | 1.0.94 | Smaoin Ltd | SVG QR code generation for ASP.NET Core. |
-| 2026-10-26 15:12:16 | [Smaoin.Shared.SafeBrowsing](https://www.nuget.org/packages/Smaoin.Shared.SafeBrowsing) | 1.0.94 | Smaoin Ltd | Google Safe Browsing API client for ASP.NET Core. |
+| 2026-10-26 15:24:11 | [PlaidClient](https://www.nuget.org/packages/PlaidClient) | 1.0.0 | Tuomas Hietanen | Plaid open banking client: Link tokens, item linking, transactions sync and ver… |
+| 2026-10-26 15:25:39 | [Webority.Azure.KeyVault](https://www.nuget.org/packages/Webority.Azure.KeyVault) | 0.29.0 | Webority.Azure.KeyVault | Loads an app's secrets from its own Azure Key Vault at startup for the Webority… |
+| 2026-10-26 15:25:49 | [Webority.Cloudflare.R2](https://www.nuget.org/packages/Webority.Cloudflare.R2) | 0.29.0 | Webority.Cloudflare.R2 | Cloudflare R2 object storage for the Webority fleet: put, delete, exists and li… |
+| 2026-10-26 15:34:45 | [HttpClient.Resilience.Analyzers.Scan](https://www.nuget.org/packages/HttpClient.Resilience.Analyzers.Scan) | 0.1.213 | George Wall | Scan any .NET solution for HttpClient, IHttpClientFactory, typed-client, Polly,… |
+| 2026-10-26 15:36:17 | [MrKWatkins.OakPsg.AY38912](https://www.nuget.org/packages/MrKWatkins.OakPsg.AY38912) | 0.1.0 | Kevin Watkins | Package Description |
+| 2026-10-26 15:36:18 | [MrKWatkins.OakPsg.Audio](https://www.nuget.org/packages/MrKWatkins.OakPsg.Audio) | 0.1.0 | Kevin Watkins | Package Description |
+| 2026-10-26 15:36:19 | [MrKWatkins.OakPsg.ZXSpectrumBeeper](https://www.nuget.org/packages/MrKWatkins.OakPsg.ZXSpectrumBeeper) | 0.1.0 | Kevin Watkins | Package Description |
+| 2026-10-26 15:38:02 | [Maniacal](https://www.nuget.org/packages/Maniacal) | 0.1.0-alpha | Maniacal contributors | Command line player for Maniac Mansion (Commodore 64, DOS 1987 and 1988): dotne… |
+| 2026-10-26 15:38:03 | [Maniacal.Scumm](https://www.nuget.org/packages/Maniacal.Scumm) | 0.1.0-alpha | Maniacal contributors | The SCUMM interpreter for Maniac Mansion (V0, V1 and V2), ported from ScummVM. |
+| 2026-10-26 15:44:27 | [SoulRipper](https://www.nuget.org/packages/SoulRipper) | 0.1.1 | SuperJMN | Rips the music, jingles and sound effects of NES and Game Boy ROMs to VGM files… |
+| 2026-10-26 15:47:20 | [MicroGauge.Avalonia](https://www.nuget.org/packages/MicroGauge.Avalonia) | 1.1.0.2 | Galen Blakeman | MicroGauge controls for Avalonia |
+| 2026-10-26 15:54:43 | [FactSet.SDK.Conversational](https://www.nuget.org/packages/FactSet.SDK.Conversational) | 1.0.0 | FactSet Research Systems | Conversational client library for .NET |
+| 2026-10-26 16:06:34 | [LIghtJUNction.Jlib](https://www.nuget.org/packages/LIghtJUNction.Jlib) | 0.1.0 | Peter Han,LIghtJUNction | Standalone shared PLib-compatible library for Oxygen Not Included mods. Install… |
 
 ## Data source
 
