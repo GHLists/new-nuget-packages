@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-26T06:32:40.803Z,dotnet-fdg,0.1.0,tianvan,Applies the Framework Design Guidelines analyzers' automatic fixes to C# projects: dotnet fdg fix.
+2026-10-26T06:32:41.473Z,FrameworkDesignGuidelines.Analyzers,0.1.0,tianvan,"Roslyn analyzers and per-profile analyzer configuration distilled from Framework Design Guidelines, 3rd edition."
+2026-10-26T06:59:10.023Z,BusinessCentralDeploymentTool,1.0.0,Maksym Kravchenko,"Local MCP server that deploys Business Central per-tenant extensions, inspects installed apps and operations, and downloads AL symbols through the Admin Center API."
+2026-10-26T07:02:56.02Z,Dotnetstore.Security.Tool,1.0.0,Hans Sjödin,Command-line tool that generates keys and secrets for Dotnetstore.Security and calibrates Argon2 settings
+2026-10-26T07:02:56.483Z,Dotnetstore.Security,1.0.0,Hans Sjödin,Common functions to secure the app
+2026-10-26T07:02:57.197Z,Dotnetstore.Security.AspNetCore,1.0.0,Hans Sjödin,ASP.NET Core JWT bearer authentication for Dotnetstore.Security
+2026-10-26T07:11:05.897Z,Workhorse,0.10.0,Stablemates,The Workhorse client and worker for .NET: a durable task queue on PostgreSQL.
+2026-10-26T07:11:06.827Z,Workhorse.Hosting,0.10.0,Stablemates,"Dependency injection, options, the hosted worker, and health checks for Workhorse on the .NET Generic Host."
+2026-10-26T07:11:07.823Z,Workhorse.EntityFrameworkCore,0.10.0,Stablemates,Gives Workhorse the Npgsql connection and the transaction of an EF Core DbContext.
+2026-10-26T07:11:08.92Z,Workhorse.AspNetCore,0.10.0,Stablemates,The embedded Workhorse dashboard backend for ASP.NET Core.
