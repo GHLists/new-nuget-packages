@@ -12,27 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:22 UTC
+## Latest list — 2026-10-26 00:21 UTC
 
-New packages created between 2026-10-25 22:20 UTC and 2026-10-25 23:22 UTC.
+New packages created between 2026-10-25 23:22 UTC and 2026-10-26 00:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-25T23-22-31-621414Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T00-21-25-43395Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-25 22:31:17 | [Trazos.UI](https://www.nuget.org/packages/Trazos.UI) | 1.0.0 | carandev | A warm, artisanal, hand-crafted Blazor component library and design system with… |
-| 2026-10-25 22:34:03 | [FlaUI.Window.Extensions](https://www.nuget.org/packages/FlaUI.Window.Extensions) | 1.0.3 | chrisvasqm | Playwright-style locators, auto-waiting actions, and state queries for FlaUI. |
-| 2026-10-25 22:40:11 | [ComplexityAnalysis.Mcp](https://www.nuget.org/packages/ComplexityAnalysis.Mcp) | 1.0.0 | Rodrigo de Oliveira | Local read-only MCP server for deterministic C# project complexity analysis, me… |
-| 2026-10-25 22:41:14 | [MonoSmith.Plugin.Sdk](https://www.nuget.org/packages/MonoSmith.Plugin.Sdk) | 0.1.0 | Eduardo Russo | The C# SDK for writing smith plugins: the protocol's types, the serve loop, a h… |
-| 2026-10-25 22:45:37 | [Singulink.Net.Http.Api.Client.WinUI](https://www.nuget.org/packages/Singulink.Net.Http.Api.Client.WinUI) | 4.0.0 | Singulink | Passkey (WebAuthn) support and session token storage for WinUI 3 and Uno Platfo… |
-| 2026-10-25 22:45:38 | [Singulink.Net.Http.Api.Service.Passkeys](https://www.nuget.org/packages/Singulink.Net.Http.Api.Service.Passkeys) | 4.0.0 | Singulink | Passkey (WebAuthn) ceremonies and a passkey hand-off page for services built wi… |
-| 2026-10-25 22:45:39 | [Singulink.Net.Http.Api.Service.Cloudflare](https://www.nuget.org/packages/Singulink.Net.Http.Api.Service.Cloudflare) | 4.0.0 | Singulink | Cloudflare support for services built with the Singulink HTTP API Toolkit: trus… |
-| 2026-10-25 22:45:40 | [Singulink.Net.Http.Api.Service.Testing](https://www.nuget.org/packages/Singulink.Net.Http.Api.Service.Testing) | 4.0.0 | Singulink | Test helpers for services built with the Singulink HTTP API Toolkit: a session… |
-| 2026-10-25 22:57:23 | [Clashawaun.Pkie.Agent.Runtime](https://www.nuget.org/packages/Clashawaun.Pkie.Agent.Runtime) | 1.0.0 | Clashawaun | The pki.ie signing agent as a library: hold a CA key on this host, long-poll pk… |
-| 2026-10-25 22:57:23 | [Clashawaun.Pkie.Contracts](https://www.nuget.org/packages/Clashawaun.Pkie.Contracts) | 1.0.0 | Clashawaun | Wire contracts shared by the pki.ie server, SDK and signing agents. |
-| 2026-10-25 22:57:24 | [Clashawaun.Pkie.Crypto](https://www.nuget.org/packages/Clashawaun.Pkie.Crypto) | 1.0.0 | Clashawaun | Key custody providers, X.509 assembly, CRL/OCSP and ceremony bundle handling fo… |
-| 2026-10-25 22:57:24 | [Clashawaun.Pkie.Sdk](https://www.nuget.org/packages/Clashawaun.Pkie.Sdk) | 1.0.0 | Clashawaun | Client SDK for pki.ie — certificate enrolment, trust distribution and signing a… |
-| 2026-10-25 23:00:45 | [SimplArchive.Sapass](https://www.nuget.org/packages/SimplArchive.Sapass) | 0.52.0 | sapass | sapass — a pass-like store of passwords and secrets, sealed on your machine and… |
+| 2026-10-25 23:31:17 | [LibTmux.Workspace.Cli](https://www.nuget.org/packages/LibTmux.Workspace.Cli) | 0.1.0 | Tony Narlock | A native tmux workspace manager with tmuxp-compatible commands. |
+| 2026-10-25 23:31:17 | [LibTmux.FSharp](https://www.nuget.org/packages/LibTmux.FSharp) | 0.1.0 | Tony Narlock | F# task functions and pure snapshot queries over LibTmux handles. |
+| 2026-10-25 23:31:18 | [LibTmux.Testing](https://www.nuget.org/packages/LibTmux.Testing) | 0.1.0 | Tony Narlock | Scoped tmux servers, sessions and windows that clean themselves up, for testing… |
+| 2026-10-25 23:31:18 | [LibTmux](https://www.nuget.org/packages/LibTmux) | 0.1.0 | Tony Narlock | A typed, async-first client for the tmux terminal multiplexer. Drive servers, s… |
+| 2026-10-25 23:31:19 | [LibTmux.Mcp](https://www.nuget.org/packages/LibTmux.Mcp) | 0.1.0 | Tony Narlock | A Model Context Protocol server that lets an assistant drive tmux through LibTm… |
+| 2026-10-25 23:31:19 | [LibTmux.Extensions.DependencyInjection](https://www.nuget.org/packages/LibTmux.Extensions.DependencyInjection) | 0.1.0 | Tony Narlock | Registers a LibTmux server handle and its options with Microsoft.Extensions.Dep… |
+| 2026-10-25 23:31:20 | [LibTmux.Workspace](https://www.nuget.org/packages/LibTmux.Workspace) | 0.1.0 | Tony Narlock | Builds tmux sessions from tmuxp workspace files, on top of LibTmux. |
+| 2026-10-25 23:31:20 | [LibTmux.Query.Json](https://www.nuget.org/packages/LibTmux.Query.Json) | 0.1.0 | Tony Narlock | System.Text.Json support for LibTmux query documents. The core library does not… |
+| 2026-10-25 23:44:31 | [Morph.Wopi](https://www.nuget.org/packages/Morph.Wopi) | 1.23.0 | https://github.com/Papyrine/M… | Morph's editor as a WOPI client for ASP.NET Core: the discovery a WOPI host rea… |
+| 2026-10-26 00:13:34 | [Snail.Toolkit.RabbitMQ.Workflow](https://www.nuget.org/packages/Snail.Toolkit.RabbitMQ.Workflow) | 0.1.0 | orldev | Step-by-step workflows over RabbitMQ queues on top of Snail.Toolkit.RabbitMQ: a… |
+| 2026-10-26 00:16:14 | [LVGL.Net.Templates](https://www.nuget.org/packages/LVGL.Net.Templates) | 0.2.0 | Kang Fadhil (Gravicode Studio… | dotnet new templates for LVGL.Net: an LVGL application that runs in a desktop w… |
 
 ## Data source
 

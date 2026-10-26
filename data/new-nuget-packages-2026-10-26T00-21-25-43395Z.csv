@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-25T23:31:17.697Z,LibTmux.Workspace.Cli,0.1.0,Tony Narlock,A native tmux workspace manager with tmuxp-compatible commands.
+2026-10-25T23:31:17.987Z,LibTmux.FSharp,0.1.0,Tony Narlock,F# task functions and pure snapshot queries over LibTmux handles.
+2026-10-25T23:31:18.463Z,LibTmux.Testing,0.1.0,Tony Narlock,"Scoped tmux servers, sessions and windows that clean themselves up, for testing code that drives tmux. Kept out of LibTmux so test scaffolding does not ship in an application."
+2026-10-25T23:31:18.987Z,LibTmux,0.1.0,Tony Narlock,"A typed, async-first client for the tmux terminal multiplexer. Drive servers, sessions, windows, panes, options, hooks, and buffers from .NET."
+2026-10-25T23:31:19.673Z,LibTmux.Mcp,0.1.0,Tony Narlock,A Model Context Protocol server that lets an assistant drive tmux through LibTmux.
+2026-10-25T23:31:19.967Z,LibTmux.Extensions.DependencyInjection,0.1.0,Tony Narlock,Registers a LibTmux server handle and its options with Microsoft.Extensions.DependencyInjection.
+2026-10-25T23:31:20.45Z,LibTmux.Workspace,0.1.0,Tony Narlock,"Builds tmux sessions from tmuxp workspace files, on top of LibTmux."
+2026-10-25T23:31:20.873Z,LibTmux.Query.Json,0.1.0,Tony Narlock,"System.Text.Json support for LibTmux query documents. The core library does not reference it, so a caller who does not want a JSON dependency does not get one."
+2026-10-25T23:44:31.587Z,Morph.Wopi,1.23.0,https://github.com/Papyrine/Morph/graphs/contributors,"Morph's editor as a WOPI client for ASP.NET Core: the discovery a WOPI host reads, the page it opens a file in, and the requests to the host, signed with proof keys."
+2026-10-26T00:13:34.577Z,Snail.Toolkit.RabbitMQ.Workflow,0.1.0,orldev,"Step-by-step workflows over RabbitMQ queues on top of Snail.Toolkit.RabbitMQ: a plan of typed steps where each step declares what it accepts and what it produces, checked when the application starts, with per-job cancellation and deadlines and a failure path that never retries a job it has already…"
+2026-10-26T00:16:14.31Z,LVGL.Net.Templates,0.2.0,Kang Fadhil (Gravicode Studios),"dotnet new templates for LVGL.Net: an LVGL application that runs in a desktop window and on a Raspberry Pi display, and a screen item template. Di port oleh Kang Fadhil dari Gravicode Studios."
