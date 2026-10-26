@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-26T14:33:06.15Z,Tesserae.Lauschwerk,26.10.72871,Curiosity GmbH,"Tesserae.Lauschwerk is a Tesserae (Transpose C# to JavaScript) wrapper around the lauschwerk web SDK: on-device voice isolation, voice activity, wake words and voiceprints in the browser, as typed C# and ready-made Tesserae components."
+2026-10-26T14:38:45.58Z,Hlibz.Redoc.Extensions.Core,2.0.0,Hlib Zinchenko,"The host-agnostic engine behind the Hlibz ReDoc extensions: a dark theme with an optional Light/System/Dark switcher and accent color customization, font control, a print stylesheet, and a multi-document picker. This package on its own does nothing — install the adapter for your ReDoc host: Hlibz.R…"
+2026-10-26T14:38:45.997Z,Hlibz.Redoc.Extensions.RedocAspNetCore,2.0.0,Hlib Zinchenko,"Add-ons for Redoc.AspNetCore's ReDoc UI middleware: a drop-in dark theme with an optional Light/System/Dark switcher and accent color customization, plus a document picker that serves multiple OpenAPI documents as ReDoc pages with a dropdown to switch between them, like Swagger UI's definition sele…"
+2026-10-26T14:38:46.42Z,Hlibz.Redoc.Extensions.Swashbuckle,2.0.0,Hlib Zinchenko,"Add-ons for Swashbuckle.AspNetCore.ReDoc's ReDoc UI middleware: a drop-in dark theme with an optional Light/System/Dark switcher and accent color customization, plus a document picker that serves multiple OpenAPI documents as ReDoc pages with a dropdown to switch between them, like Swagger UI's def…"
+2026-10-26T14:38:47.007Z,Hlibz.Redoc.AspNetCore,2.0.0,Hlib Zinchenko,"ReDoc 3 for ASP.NET Core: middleware and endpoint routing that serve an embedded ReDoc 3 bundle from your own app, with a picker for multiple OpenAPI documents, per-page authorization, long-lived cache headers and a page that needs no inline script. No dependency on Redoc.AspNetCore or Swashbuckle.…"
+2026-10-26T14:45:53.727Z,VirtoCommerce.MFA.Core,3.1000.0,VirtoCommerce.MFA.Core,Package Description
+2026-10-26T14:45:55.06Z,VirtoCommerce.MFA.Data,3.1000.0,VirtoCommerce.MFA.Data,Package Description
+2026-10-26T14:51:37.17Z,Tedd.SQLite3.Native,0.1.15-preview,Tedd,NativeAOT C ABI builds of the C# SQLite engine. Preview compatibility; see README.
+2026-10-26T14:51:37.697Z,Tedd.SQLite3,0.1.17-preview,Tedd,"SQLite 3 engine implemented in C# for .NET 10. Preview SQL, storage and C ABI compatibility."
+2026-10-26T14:57:54.12Z,Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.Identity,10.0.14,Roberto Fernández Salinas,OpenIddict infrastructure implementations
+2026-10-26T15:03:29.693Z,Amazon.CDK.LambdaLayer.KubectlV37,2.0.0,Amazon Web Services,A Lambda Layer that contains kubectl v1.37 (Stability: Experimental)
+2026-10-26T15:12:13.84Z,Smaoin.Shared.Imaging,1.0.94,Smaoin Ltd,"Image resizing with auto-orient, EXIF strip, and JPEG + WebP output for ASP.NET Core."
+2026-10-26T15:12:15.547Z,Smaoin.Shared.QrCode,1.0.94,Smaoin Ltd,SVG QR code generation for ASP.NET Core.
+2026-10-26T15:12:16.793Z,Smaoin.Shared.SafeBrowsing,1.0.94,Smaoin Ltd,Google Safe Browsing API client for ASP.NET Core.

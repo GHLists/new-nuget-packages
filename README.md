@@ -12,25 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:22 UTC
+## Latest list — 2026-10-26 15:21 UTC
 
-New packages created between 2026-10-26 13:22 UTC and 2026-10-26 14:22 UTC.
+New packages created between 2026-10-26 14:22 UTC and 2026-10-26 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-26T14-22-21-17468Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-26T15-21-29-528081Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 13:33:18 | [Xrm.DataManager.Framework.ApplicationInsights](https://www.nuget.org/packages/Xrm.DataManager.Framework.ApplicationInsights) | 2026.0.2 | Aymeric Mouillé | Application Insights logger for Xrm.DataManager.Framework |
-| 2026-10-26 13:33:19 | [Xrm.DataManager.Framework.Tds](https://www.nuget.org/packages/Xrm.DataManager.Framework.Tds) | 2026.0.2 | Aymeric Mouillé | Retrieve Dataverse records with SQL (TDS endpoint) for Xrm.DataManager.Framework |
-| 2026-10-26 13:39:11 | [CvSharp.PSD](https://www.nuget.org/packages/CvSharp.PSD) | 1.0.0 | GreatBear | Standalone 8/16-bit PSD reader/writer for .NET built on CvSharp. |
-| 2026-10-26 13:41:03 | [FoundWell.Umbraco](https://www.nuget.org/packages/FoundWell.Umbraco) | 1.0.0 | Datapad | Connects an Umbraco site to FoundWell (redirects, llms.txt and JSON-LD written… |
-| 2026-10-26 13:41:26 | [ParakeetSharp](https://www.nuget.org/packages/ParakeetSharp) | 26.10.7330 | Parakeet contributors | Pure C# (.NET 10) inference for NVIDIA Parakeet TDT speech recognition (FastCon… |
-| 2026-10-26 13:50:08 | [Acplite](https://www.nuget.org/packages/Acplite) | 0.1.0 | Cristi Pufu | CLI and stdio ACP bridge server for Claude Code, OpenAI Codex, Grok, and Google… |
-| 2026-10-26 13:50:09 | [Acplite.Sdk](https://www.nuget.org/packages/Acplite.Sdk) | 0.1.0 | Cristi Pufu | Native C# / NativeAOT Agent Client Protocol (ACP) SDK and provider bridges for… |
-| 2026-10-26 13:52:17 | [JsonRepairNet](https://www.nuget.org/packages/JsonRepairNet) | 0.1.0 | composehk | Unofficial .NET port of json_repair: Repair malformed JSON from LLMs, APIs, and… |
-| 2026-10-26 13:52:19 | [JsonRepairNet.Cli](https://www.nuget.org/packages/JsonRepairNet.Cli) | 0.1.0 | composehk | Unofficial .NET port of json_repair: Dotnet tool that repairs malformed JSON. C… |
-| 2026-10-26 13:56:56 | [EBitSaaS.DynamicCrud](https://www.nuget.org/packages/EBitSaaS.DynamicCrud) | 0.0.1 | System Administrator | Core services and infrastructure for EBit SaaS platform for dynamic CRUD operat… |
-| 2026-10-26 14:12:44 | [Dynatrace.OpenFeature](https://www.nuget.org/packages/Dynatrace.OpenFeature) | 0.0.2-alpha | Dynatrace | The official Dynatrace OpenFeature provider for .NET. |
+| 2026-10-26 14:33:06 | [Tesserae.Lauschwerk](https://www.nuget.org/packages/Tesserae.Lauschwerk) | 26.10.72871 | Curiosity GmbH | Tesserae.Lauschwerk is a Tesserae (Transpose C# to JavaScript) wrapper around t… |
+| 2026-10-26 14:38:45 | [Hlibz.Redoc.Extensions.Core](https://www.nuget.org/packages/Hlibz.Redoc.Extensions.Core) | 2.0.0 | Hlib Zinchenko | The host-agnostic engine behind the Hlibz ReDoc extensions: a dark theme with a… |
+| 2026-10-26 14:38:45 | [Hlibz.Redoc.Extensions.RedocAspNetCore](https://www.nuget.org/packages/Hlibz.Redoc.Extensions.RedocAspNetCore) | 2.0.0 | Hlib Zinchenko | Add-ons for Redoc.AspNetCore's ReDoc UI middleware: a drop-in dark theme with a… |
+| 2026-10-26 14:38:46 | [Hlibz.Redoc.Extensions.Swashbuckle](https://www.nuget.org/packages/Hlibz.Redoc.Extensions.Swashbuckle) | 2.0.0 | Hlib Zinchenko | Add-ons for Swashbuckle.AspNetCore.ReDoc's ReDoc UI middleware: a drop-in dark… |
+| 2026-10-26 14:38:47 | [Hlibz.Redoc.AspNetCore](https://www.nuget.org/packages/Hlibz.Redoc.AspNetCore) | 2.0.0 | Hlib Zinchenko | ReDoc 3 for ASP.NET Core: middleware and endpoint routing that serve an embedde… |
+| 2026-10-26 14:45:53 | [VirtoCommerce.MFA.Core](https://www.nuget.org/packages/VirtoCommerce.MFA.Core) | 3.1000.0 | VirtoCommerce.MFA.Core | Package Description |
+| 2026-10-26 14:45:55 | [VirtoCommerce.MFA.Data](https://www.nuget.org/packages/VirtoCommerce.MFA.Data) | 3.1000.0 | VirtoCommerce.MFA.Data | Package Description |
+| 2026-10-26 14:51:37 | [Tedd.SQLite3.Native](https://www.nuget.org/packages/Tedd.SQLite3.Native) | 0.1.15-preview | Tedd | NativeAOT C ABI builds of the C# SQLite engine. Preview compatibility; see READ… |
+| 2026-10-26 14:51:37 | [Tedd.SQLite3](https://www.nuget.org/packages/Tedd.SQLite3) | 0.1.17-preview | Tedd | SQLite 3 engine implemented in C# for .NET 10. Preview SQL, storage and C ABI c… |
+| 2026-10-26 14:57:54 | [Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.Identity](https://www.nuget.org/packages/Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore.Identity) | 10.0.14 | Roberto Fernández Salinas | OpenIddict infrastructure implementations |
+| 2026-10-26 15:03:29 | [Amazon.CDK.LambdaLayer.KubectlV37](https://www.nuget.org/packages/Amazon.CDK.LambdaLayer.KubectlV37) | 2.0.0 | Amazon Web Services | A Lambda Layer that contains kubectl v1.37 (Stability: Experimental) |
+| 2026-10-26 15:12:13 | [Smaoin.Shared.Imaging](https://www.nuget.org/packages/Smaoin.Shared.Imaging) | 1.0.94 | Smaoin Ltd | Image resizing with auto-orient, EXIF strip, and JPEG + WebP output for ASP.NET… |
+| 2026-10-26 15:12:15 | [Smaoin.Shared.QrCode](https://www.nuget.org/packages/Smaoin.Shared.QrCode) | 1.0.94 | Smaoin Ltd | SVG QR code generation for ASP.NET Core. |
+| 2026-10-26 15:12:16 | [Smaoin.Shared.SafeBrowsing](https://www.nuget.org/packages/Smaoin.Shared.SafeBrowsing) | 1.0.94 | Smaoin Ltd | Google Safe Browsing API client for ASP.NET Core. |
 
 ## Data source
 
