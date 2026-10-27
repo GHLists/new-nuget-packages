@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-27T08:34:48.09Z,Zucchetti.SDH.DCA.Client,1.0.2,Zucchetti Software Spain S.L.U.,"Cliente .NET Standard 2.0 para la SDH DCA API (Documento de Control Administrativo, Orden FOM/2861/2012). Gestiona la autenticación mediante certificado de cliente (mTLS) y la cabecera CompanyId requerida por SdhProductionAuthentication, o mediante OAuth2 (Azure AD) con certificado o secreto de cli…"
+2026-10-27T08:40:20.827Z,Pycom.Agent.Platform,0.1.0,Pycom,Strongly typed client for the Pycom Agent Platform runtime API.
+2026-10-27T08:48:08.243Z,Transformations.Sql,3.0.0,"opentail.net, Dmitri Rechetilov","SQL Server transient fault classification shared by the Transformations data packages (Dapper, EntityFramework)."
+2026-10-27T08:50:18.01Z,Fable.NodaTime.Thoth,0.1.0,Oliver Coad,Backend-independent Thoth.Json.Core codecs for Fable.NodaTime.
+2026-10-27T08:50:18.657Z,Fable.NodaTime,0.1.0,Oliver Coad,"Shared ISO datetime API for .NET and Fable, backed by NodaTime and Temporal."
+2026-10-27T08:50:19.25Z,Fable.NodaTime.TypedJson,0.1.0,Oliver Coad,Backend-independent Fable.TypedJson codecs for Fable.NodaTime.
+2026-10-27T08:54:56.54Z,UnifiedBlazor.Extensions.FastReport.OpenSource,0.1.0,TW1225,UnifiedBlazor框架的FastReport开源版扩展库
