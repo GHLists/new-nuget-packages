@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-26T23:22:10.85Z,Microsoft.StateKeeper,0.1.12,Microsoft,Async synchronization tools for safely managing concurrent access to shared state.
+2026-10-26T23:27:10.453Z,Zaldaryon.Pharos.Templates,0.8.0,Zaldaryon,"dotnet new templates for Pharos: pharos-mod-tests, a test project for a Vintage Story mod, and pharos-ci, a GitHub Actions workflow that runs it on Linux and Windows."
+2026-10-26T23:27:10.953Z,Zaldaryon.Pharos.Verify,0.8.0,Zaldaryon,"Snapshot testing of Vintage Story game state with Verify, for Pharos."
+2026-10-26T23:29:09.19Z,Krut.Netcode,0.1.0,William Eklund,"Authoritative-server netcode for .NET on LiteNetLib: handshake, fixed tick clock, time sync, client prediction and reconciliation, snapshot interpolation and a link simulator."
+2026-10-26T23:39:30.02Z,Capital,0.1.0,robert-walsh-hrri,"Typed data structures for the economic categories of Karl Marx's Capital, Volume I (1867): value and its forms, money, circulation, surplus value, wages, accumulation."
+2026-10-26T23:43:38.223Z,Lers.Core,3.68.0-beta,Lers.Core,Package Description
+2026-10-26T23:51:49.3Z,NetProxy.PluginApi,3.1.0,NetworkDLS,"The API for writing NetProxy plug-ins: derive from NpPlugin, override the events you want, and load the assembly from the NetProxy console. No dependencies."
+2026-10-27T00:02:42.04Z,Render.NET.Pdf,0.3.4,Vadim Belov,"Managed PDF page rendering to RGBA and PNG for .NET. Vector paths, font outlines, images, clipping, transparency, page selection, and configurable resolution without native graphics libraries."
