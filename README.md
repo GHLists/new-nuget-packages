@@ -12,39 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 12:18 UTC
+## Latest list — 2026-10-27 13:21 UTC
 
-New packages created between 2026-10-27 11:20 UTC and 2026-10-27 12:18 UTC.
+New packages created between 2026-10-27 12:18 UTC and 2026-10-27 13:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T12-18-58-243516Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T13-21-33-125329Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 11:28:08 | [Snail.Toolkit.Web](https://www.nuget.org/packages/Snail.Toolkit.Web) | 0.1.0 | Toolkit | Shared web-client behaviour: identity and proxy rotation, per-host politeness,… |
-| 2026-10-27 11:28:10 | [Snail.Toolkit.Web.Scraping](https://www.nuget.org/packages/Snail.Toolkit.Web.Scraping) | 0.1.0 | Toolkit | Answers "what does this page say?" — takes a URL, drives a real browser and ret… |
-| 2026-10-27 11:28:11 | [Snail.Toolkit.Web.Scraping.Agent](https://www.nuget.org/packages/Snail.Toolkit.Web.Scraping.Agent) | 0.1.0 | Toolkit | Answers "what does this page say once someone has filled the form in?" — types,… |
-| 2026-10-27 11:28:12 | [Snail.Toolkit.Web.Search](https://www.nuget.org/packages/Snail.Toolkit.Web.Search) | 0.1.0 | Toolkit | Answers "where is this written about?" — takes a query and returns links, aggre… |
-| 2026-10-27 11:28:13 | [Snail.Toolkit.Web.Search.Browser](https://www.nuget.org/packages/Snail.Toolkit.Web.Search.Browser) | 0.1.0 | Toolkit | Search providers that need a real browser, such as engines behind a consent wal… |
-| 2026-10-27 11:28:15 | [Snail.Toolkit.Web.Search.Browser.Agent](https://www.nuget.org/packages/Snail.Toolkit.Web.Search.Browser.Agent) | 0.1.0 | Toolkit | Search providers that answer only a form filled in by hand rather than a result… |
-| 2026-10-27 11:28:37 | [Lemon.Pet.Core](https://www.nuget.org/packages/Lemon.Pet.Core) | 1.0.0 | Tracy Ma | The Lemon pet for any Avalonia app: sign-in, the panel, the pet on the desktop… |
-| 2026-10-27 11:40:11 | [ExeConfigManager](https://www.nuget.org/packages/ExeConfigManager) | 1.0.0 | christianvasquez | A lightweight, strongly-typed library to create, read, update, and remove local… |
-| 2026-10-27 11:40:30 | [AzureSignTool.Cli](https://www.nuget.org/packages/AzureSignTool.Cli) | 2026.11027.11159 | Ismail Hassani | AzureSignTool.Cli - sign files and NuGet packages with Azure Key Vault certific… |
-| 2026-10-27 11:43:29 | [WmV4ApisSDK](https://www.nuget.org/packages/WmV4ApisSDK) | 0.0.1 | Muhammad Rafay | Sample SDKs for wm by APIMatic |
-| 2026-10-27 11:44:16 | [SensitiveDataGateway](https://www.nuget.org/packages/SensitiveDataGateway) | 0.1.0 | Jonatha Panni | The SensitiveDataGateway pipeline: the stages that turn a document bundle into… |
-| 2026-10-27 11:44:16 | [SensitiveDataGateway.Documents.Mime](https://www.nuget.org/packages/SensitiveDataGateway.Documents.Mime) | 0.1.0 | Jonatha Panni | Turns an RFC 5322 message into a SensitiveDataGateway bundle: headers, every bo… |
-| 2026-10-27 11:44:17 | [SensitiveDataGateway.Providers.DecisionKit](https://www.nuget.org/packages/SensitiveDataGateway.Providers.DecisionKit) | 0.1.0 | Jonatha Panni | Adapts SensitiveDataGateway to DecisionKit. A validated payload becomes a Decis… |
-| 2026-10-27 11:44:18 | [SensitiveDataGateway.Documents.Pdf](https://www.nuget.org/packages/SensitiveDataGateway.Documents.Pdf) | 0.1.0 | Jonatha Panni | Turns a PDF into a SensitiveDataGateway bundle: one segment per page of extract… |
-| 2026-10-27 11:44:19 | [SensitiveDataGateway.Documents.OpenXml](https://www.nuget.org/packages/SensitiveDataGateway.Documents.OpenXml) | 0.1.0 | Jonatha Panni | Turns a Word or Excel document into SensitiveDataGateway segments: paragraphs,… |
-| 2026-10-27 11:44:20 | [SensitiveDataGateway.Detection.Presidio](https://www.nuget.org/packages/SensitiveDataGateway.Detection.Presidio) | 0.1.0 | Jonatha Panni | Adapts SensitiveDataGateway to a Presidio analyzer you deploy and operate yours… |
-| 2026-10-27 11:44:21 | [SensitiveDataGateway.Core](https://www.nuget.org/packages/SensitiveDataGateway.Core) | 0.1.0 | Jonatha Panni | The provider-independent core of SensitiveDataGateway: the domain types and the… |
-| 2026-10-27 11:44:22 | [SensitiveDataGateway.Testing](https://www.nuget.org/packages/SensitiveDataGateway.Testing) | 0.1.0 | Jonatha Panni | Test doubles and leakage assertions for SensitiveDataGateway: recording and fai… |
-| 2026-10-27 11:44:23 | [SensitiveDataGateway.Extensions](https://www.nuget.org/packages/SensitiveDataGateway.Extensions) | 0.1.0 | Jonatha Panni | Composes SensitiveDataGateway into a dependency injection container and reads a… |
-| 2026-10-27 11:47:09 | [TamgaSoft.Iys](https://www.nuget.org/packages/TamgaSoft.Iys) | 1.0.0 | TamgaSoft | İleti Yönetim Sistemi (İYS) için .NET istemcisi: OAuth2 token yönetimi, tekli v… |
-| 2026-10-27 12:04:51 | [Ternary.Data.Api](https://www.nuget.org/packages/Ternary.Data.Api) | 10.0.2 | Jacob Dahlke | A framework to simplify working with data from multiple sources, including file… |
-| 2026-10-27 12:07:59 | [Ternary.Data.MySql](https://www.nuget.org/packages/Ternary.Data.MySql) | 10.0.2 | Jacob Dahlke | A framework to simplify working with data from multiple sources, including file… |
-| 2026-10-27 12:08:47 | [Ternary.Data.Spreadsheet](https://www.nuget.org/packages/Ternary.Data.Spreadsheet) | 10.0.2 | Jacob Dahlke | A framework to simplify working with data from multiple sources, including file… |
-| 2026-10-27 12:10:05 | [Ternary.Code.Core](https://www.nuget.org/packages/Ternary.Code.Core) | 10.0.2 | Jacob Dahlke | Turns a JSON spec into C# code, a project and a compiled assembly, and reads C#… |
-| 2026-10-27 12:12:01 | [JmaXml](https://www.nuget.org/packages/JmaXml) | 1.0.0 | oruponu | 気象庁防災情報XMLの電文を、公式の XML スキーマと辞書から生成した型に読み込む .NET ライブラリ。 A .NET library that pars… |
+| 2026-10-27 12:20:35 | [Fizzy.ImageViewer.Cuda11](https://www.nuget.org/packages/Fizzy.ImageViewer.Cuda11) | 1.3.0 | Fizzy.ImageViewer.Cuda | Optional CUDA image display and pixel queries with consumer-owned execution sco… |
+| 2026-10-27 12:21:06 | [NacreCraft.WebApp](https://www.nuget.org/packages/NacreCraft.WebApp) | 0.2.4 | NacreCraftDev | Desktop and command line client for NacreCraft accounts. |
+| 2026-10-27 12:24:44 | [KeyTD.Manat](https://www.nuget.org/packages/KeyTD.Manat) | 0.1.0 | KeyTD | One API for Azerbaijani online payment providers: Kapital Bank, Azericard, Payr… |
+| 2026-10-27 12:27:08 | [Fizzy.ImageViewer.Cuda12](https://www.nuget.org/packages/Fizzy.ImageViewer.Cuda12) | 1.3.0 | Fizzy.ImageViewer.Cuda | Optional CUDA image display and pixel queries with consumer-owned execution sco… |
+| 2026-10-27 12:27:15 | [JSNet.Runtime](https://www.nuget.org/packages/JSNet.Runtime) | 0.1.1 | Gravicode Studios (Kang Fadhi… | JS.Net runtime support: console, JSON, Math, Promise, Date, fetch, timers, Java… |
+| 2026-10-27 12:27:17 | [JSNet.AI](https://www.nuget.org/packages/JSNet.AI) | 0.1.1 | Gravicode Studios (Kang Fadhi… | JS.Net AI-native features: `ai function` and `prompt` declarations backed by Mi… |
+| 2026-10-27 12:27:19 | [JSNet.Sdk](https://www.nuget.org/packages/JSNet.Sdk) | 0.1.1 | Gravicode Studios (Kang Fadhi… | MSBuild project SDK for JS.Net: <Project Sdk="JSNet.Sdk/0.1.1"> compiles .jsn f… |
+| 2026-10-27 12:27:20 | [JSNet.Cli](https://www.nuget.org/packages/JSNet.Cli) | 0.1.1 | Gravicode Studios (Kang Fadhi… | The jsnet command-line tool: compile, run, check, emit and format JS.Net code,… |
+| 2026-10-27 12:27:21 | [JSNet.Templates](https://www.nuget.org/packages/JSNet.Templates) | 0.1.1 | Gravicode Studios (Kang Fadhi… | dotnet new templates for JS.Net: console (jsnet), classlib, webapi, web, blazor… |
+| 2026-10-27 12:33:02 | [Fizzy.ImageViewer.Cuda13](https://www.nuget.org/packages/Fizzy.ImageViewer.Cuda13) | 1.3.0 | Fizzy.ImageViewer.Cuda | Optional CUDA image display and pixel queries with consumer-owned execution sco… |
+| 2026-10-27 12:47:32 | [Superroute.SMap](https://www.nuget.org/packages/Superroute.SMap) | 1.0.0 | Goodneo Solutions | Maps from Superroute's sMap service: options, tokens, nearest node, styles, lay… |
+| 2026-10-27 12:47:34 | [Superroute.SMap.WinForms](https://www.nuget.org/packages/Superroute.SMap.WinForms) | 1.0.0 | Goodneo Solutions | Maps from Superroute's sMap service in a WinForms control: vector basemaps in f… |
+| 2026-10-27 12:47:35 | [Superroute.SMap.Wpf](https://www.nuget.org/packages/Superroute.SMap.Wpf) | 1.0.0 | Goodneo Solutions | Maps from Superroute's sMap service in a WPF control: vector basemaps in five c… |
+| 2026-10-27 12:53:44 | [Nethermind.OpenVM.Runtime](https://www.nuget.org/packages/Nethermind.OpenVM.Runtime) | 2.1.0.56 | Nethermind | OpenVM zkVM accelerators for the Nethermind guest for OpenVM |
+| 2026-10-27 12:57:38 | [AppWeaver.ProblemDetails](https://www.nuget.org/packages/AppWeaver.ProblemDetails) | 1.0.0 | Team AppWeaver | ProblemDetails utilities for AppWeaver: options and factories to map exceptions… |
+| 2026-10-27 13:03:33 | [NCache.Dapper](https://www.nuget.org/packages/NCache.Dapper) | 5.3.800 | Alachisoft | NCache extension for Dapper providing distributed caching of database queries. |
+| 2026-10-27 13:05:32 | [GriffinClient](https://www.nuget.org/packages/GriffinClient) | 1.0.0 | Tuomas Hietanen | Griffin banking-as-a-service client: onboarding (legal persons, claims, verific… |
+| 2026-10-27 13:05:35 | [CritterWatch.Aspire](https://www.nuget.org/packages/CritterWatch.Aspire) | 1.1.0 | JasperFx Software, LLC | .NET Aspire hosting integration for CritterWatch: AddCritterWatch() for the con… |
 
 ## Data source
 
