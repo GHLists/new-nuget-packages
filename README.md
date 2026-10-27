@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 04:20 UTC
+## Latest list — 2026-10-27 05:20 UTC
 
-New packages created between 2026-10-27 03:20 UTC and 2026-10-27 04:20 UTC.
+New packages created between 2026-10-27 04:20 UTC and 2026-10-27 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T04-20-07-869238Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T05-20-27-952Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 03:25:42 | [RytaPDF](https://www.nuget.org/packages/RytaPDF) | 0.1.0 | ryantavan | A lightweight, QuestPDF-inspired PDF document layout engine for .NET with a flu… |
-| 2026-10-27 03:43:21 | [CSJS.Templates](https://www.nuget.org/packages/CSJS.Templates) | 0.2.0 | Gravicode Studios | `dotnet new` templates for CSJS, the C#-to-JavaScript transpiler: a browser app… |
-| 2026-10-27 03:43:23 | [CSJS.Build](https://www.nuget.org/packages/CSJS.Build) | 0.2.0 | Gravicode Studios | MSBuild integration for CSJS: `dotnet build` transpiles the project's C# to mod… |
-| 2026-10-27 03:48:07 | [PeroTools2.AccessKing](https://www.nuget.org/packages/PeroTools2.AccessKing) | 0.3.0 | PeroperoGames | Event Bus & Command Bus |
-| 2026-10-27 03:50:50 | [SolariumDb](https://www.nuget.org/packages/SolariumDb) | 0.1.1 | Andres Gutierrez | An embedded key-value store for .NET with RocksDB's API and semantics: column f… |
-| 2026-10-27 03:51:03 | [SolariumDb.Kommander](https://www.nuget.org/packages/SolariumDb.Kommander) | 0.1.1 | Andres Gutierrez | A Kommander write-ahead log (IWAL) on Solarium, an embedded key-value store for… |
-| 2026-10-27 03:51:12 | [SolariumDb.Kahuna](https://www.nuget.org/packages/SolariumDb.Kahuna) | 0.1.1 | Andres Gutierrez | A Kahuna storage engine on Solarium, an embedded key-value store for .NET with… |
-| 2026-10-27 03:51:22 | [SolariumDb.IoUring](https://www.nuget.org/packages/SolariumDb.IoUring) | 0.1.1 | Andres Gutierrez | An io_uring storage environment for Solarium on Linux 6.1 or later, on the ioxi… |
+| 2026-10-27 04:23:59 | [Pacem.AspNetCore](https://www.nuget.org/packages/Pacem.AspNetCore) | 0.10.19-fermi | Cristian Merighi | ASP.NET Core utilities in Pacem Ecosystem: API exception handler and problem re… |
+| 2026-10-27 04:24:06 | [Pacem.AspNetCore.Acme](https://www.nuget.org/packages/Pacem.AspNetCore.Acme) | 0.10.19-fermi | Cristian Merighi | ACME utilities for certificates renewal in Pacem Ecosystem. |
+| 2026-10-27 04:24:11 | [Pacem.AspNetCore.CookiePolicy](https://www.nuget.org/packages/Pacem.AspNetCore.CookiePolicy) | 0.10.19-fermi | Cristian Merighi | Cookie Policy (GDPR-compliant) handling in Pacem Ecosystem. |
+| 2026-10-27 04:38:58 | [LMail](https://www.nuget.org/packages/LMail) | 0.1.0 | LMail contributors | One lightweight email-sending API for SMTP, Microsoft Graph, Cloudflare, Brevo,… |
+| 2026-10-27 04:52:26 | [Lemon.Pet.Look](https://www.nuget.org/packages/Lemon.Pet.Look) | 1.0.0 | Tracy Ma | How the Lemon pet looks: its models, names, pictures and the control that draws… |
+| 2026-10-27 05:00:41 | [AppWeaver.Results](https://www.nuget.org/packages/AppWeaver.Results) | 1.0.0 | Team AppWeaver | Result primitives for AppWeaver: Result<T>, Unit Result, Error model, and funct… |
 
 ## Data source
 

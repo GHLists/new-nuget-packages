@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-27T04:23:59.867Z,Pacem.AspNetCore,0.10.19-fermi,Cristian Merighi,ASP.NET Core utilities in Pacem Ecosystem: API exception handler and problem results.
+2026-10-27T04:24:06.19Z,Pacem.AspNetCore.Acme,0.10.19-fermi,Cristian Merighi,ACME utilities for certificates renewal in Pacem Ecosystem.
+2026-10-27T04:24:11.3Z,Pacem.AspNetCore.CookiePolicy,0.10.19-fermi,Cristian Merighi,Cookie Policy (GDPR-compliant) handling in Pacem Ecosystem.
+2026-10-27T04:38:58.94Z,LMail,0.1.0,LMail contributors,"One lightweight email-sending API for SMTP, Microsoft Graph, Cloudflare, Brevo, Mailtrap, Resend, Maileroo, and Amazon SES."
+2026-10-27T04:52:26.29Z,Lemon.Pet.Look,1.0.0,Tracy Ma,"How the Lemon pet looks: its models, names, pictures and the control that draws it."
+2026-10-27T05:00:41.23Z,AppWeaver.Results,1.0.0,Team AppWeaver,"Result primitives for AppWeaver: Result<T>, Unit Result, Error model, and functional composition combinators."
