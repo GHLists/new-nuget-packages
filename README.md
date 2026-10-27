@@ -12,37 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 07:18 UTC
+## Latest list — 2026-10-27 08:20 UTC
 
-New packages created between 2026-10-27 06:21 UTC and 2026-10-27 07:18 UTC.
+New packages created between 2026-10-27 07:18 UTC and 2026-10-27 08:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T07-18-58-613173Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T08-20-15-901533Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 06:28:39 | [ilspycmd.win-x64](https://www.nuget.org/packages/ilspycmd.win-x64) | 11.2.0.10050 | ILSpy Team | Command-line decompiler using the ILSpy decompilation engine |
-| 2026-10-27 06:29:05 | [ilspycmd.linux-x64](https://www.nuget.org/packages/ilspycmd.linux-x64) | 11.2.0.10050 | ILSpy Team | Command-line decompiler using the ILSpy decompilation engine |
-| 2026-10-27 06:29:23 | [ilspycmd.any](https://www.nuget.org/packages/ilspycmd.any) | 11.2.0.10050 | ILSpy Team | Command-line decompiler using the ILSpy decompilation engine |
-| 2026-10-27 06:41:02 | [RecursiveAI.OneGame.Particles](https://www.nuget.org/packages/RecursiveAI.OneGame.Particles) | 1.4.0 | Recursive AI, LLC | Particle emitters: a seedable, allocation-free simulation for sparks, smoke, du… |
-| 2026-10-27 06:42:22 | [DicomKit](https://www.nuget.org/packages/DicomKit) | 1.0.0 | PrologicSign Technology | High-throughput, low-allocation, fuzz-resistant DICOM toolkit for .NET: Part 10… |
-| 2026-10-27 06:42:25 | [DicomKit.Imaging](https://www.nuget.org/packages/DicomKit.Imaging) | 1.0.0 | PrologicSign Technology | Decode and render DICOM images with DicomKit: native and compressed pixel data… |
-| 2026-10-27 06:42:28 | [DicomKit.Web](https://www.nuget.org/packages/DicomKit.Web) | 1.0.0 | PrologicSign Technology | DICOMweb for DicomKit: DICOM JSON Model and Native DICOM Model (XML) serializer… |
-| 2026-10-27 06:42:31 | [DicomKit.Web.AspNetCore](https://www.nuget.org/packages/DicomKit.Web.AspNetCore) | 1.0.0 | PrologicSign Technology | DICOMweb (PS3.18) server building blocks for ASP.NET Core on DicomKit: app.MapD… |
-| 2026-10-27 06:42:35 | [DicomKit.Cli](https://www.nuget.org/packages/DicomKit.Cli) | 1.0.0 | PrologicSign Technology | Free command-line tool built on DicomKit: C-ECHO, C-STORE, C-FIND (Patient / St… |
-| 2026-10-27 06:42:38 | [DicomKit.Activator](https://www.nuget.org/packages/DicomKit.Activator) | 1.0.1 | PrologicSign Technology | Activates DicomKit licenses on the machine that runs your application: shows th… |
-| 2026-10-27 07:05:02 | [WoW2.Sdk.Beta.Be.Identity.Auth](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Auth) | 10.0.0-beta | WoW 2.0 | Identity edge: cookie and API-key authentication, allowlist authorization, gues… |
-| 2026-10-27 07:05:02 | [WoW2.Sdk.Beta.Be.Identity.Providers](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Providers) | 10.0.0-beta | WoW 2.0 | Identity providers: OAuth sign-in with 17 upstream providers, the Google ID-tok… |
-| 2026-10-27 07:05:03 | [WoW2.Sdk.Beta.Be.Identity.Testing](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Testing) | 10.0.0-beta | WoW 2.0 | Identity test kit: fakes over the Identity contract and the conformance bases e… |
-| 2026-10-27 07:05:03 | [WoW2.Sdk.Beta.Be.Identity.Server](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Server) | 10.0.0-beta | WoW 2.0 | Identity server: the OIDC provider role the Identity service runs over the Form… |
-| 2026-10-27 07:05:03 | [WoW2.Sdk.Beta.Be.Identity.Module](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Module) | 10.0.0-beta | WoW 2.0 | Identity Form 1: user accounts and their slices, OTP over email, SMS, Telegram… |
-| 2026-10-27 07:05:04 | [WoW2.Sdk.Beta.Be.Identity.Client](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Client) | 10.0.0-beta | WoW 2.0 | Identity Forms 2 and 3: the OIDC client (Authorization Code + PKCE) a product s… |
-| 2026-10-27 07:05:04 | [WoW2.Sdk.Beta.Be.Identity.Abstractions](https://www.nuget.org/packages/WoW2.Sdk.Beta.Be.Identity.Abstractions) | 10.0.0-beta | WoW 2.0 | Identity contract: the error codes and their ru/uz texts, and the organization… |
-| 2026-10-27 07:08:58 | [Easy.WorkFlow.Abstractions](https://www.nuget.org/packages/Easy.WorkFlow.Abstractions) | 1.0.0 | Easy.WorkFlow contributors | 工作流核心抽象：上下文、步骤、执行结果、回调与存储接口，供其他项目引用。 |
-| 2026-10-27 07:09:08 | [Easy.WorkFlow.Definitions](https://www.nuget.org/packages/Easy.WorkFlow.Definitions) | 1.0.0 | Easy.WorkFlow contributors | 声明式工作流定义加载：把 JSON/YAML 文档编译成可执行的流程模型，并校验步骤和条件名称。 |
-| 2026-10-27 07:09:11 | [Easy.WorkFlow.Runtime](https://www.nuget.org/packages/Easy.WorkFlow.Runtime) | 1.0.0 | Easy.WorkFlow contributors | 工作流运行时：执行引擎、检查点持久化、断点恢复、审批、取消、补偿、跨进程租约、动态跳转、循环、子流程、扇出、原生步骤、自动恢复、终态清理和内置遥测。 |
-| 2026-10-27 07:09:16 | [Easy.WorkFlow.Storage.EntityFrameworkCore](https://www.nuget.org/packages/Easy.WorkFlow.Storage.EntityFrameworkCore) | 1.0.0 | Easy.WorkFlow contributors | 基于 Entity Framework Core 的工作流存储：提供与数据库提供程序无关的 DbContext、实例存储、跨进程租约、远程取消和终态清理，迁移… |
-| 2026-10-27 07:09:19 | [Easy.WorkFlow.Storage.Sqlite](https://www.nuget.org/packages/Easy.WorkFlow.Storage.Sqlite) | 1.0.0 | Easy.WorkFlow contributors | SQLite 工作流存储：原子创建实例、持久化检查点，通过数据库租约支持多进程安全执行，并支持跨节点远程取消请求。 |
-| 2026-10-27 07:09:47 | [Tawfir.Tafqit](https://www.nuget.org/packages/Tawfir.Tafqit) | 1.0.2 | wael EL azizy | Spell plain numbers, currency amounts, and ages in Arabic, English, Persian, an… |
+| 2026-10-27 07:19:29 | [Render.NET.Jpeg2000](https://www.nuget.org/packages/Render.NET.Jpeg2000) | 0.3.10 | Vadim Belov | Managed JPEG 2000 Part 1 decoding from JP2 containers and raw J2K codestreams w… |
+| 2026-10-27 07:27:40 | [Cyan.Design.Core](https://www.nuget.org/packages/Cyan.Design.Core) | 1.0.0 | CyanFlag | Cyan.Design Core — 基于 Avalonia 12.0 的 UI 控件库核心包，包含按钮、输入框、布局、导航、反馈等 60+ 控件 |
+| 2026-10-27 07:28:28 | [Cyan.Design.Themes](https://www.nuget.org/packages/Cyan.Design.Themes) | 1.0.0 | CyanFlag | Cyan.Design Themes — 28 套主题样式包（AntDesign/Shadcn/ParkUI/Mantine/Skeleton×23），含 L… |
+| 2026-10-27 07:34:55 | [ControlResell.Sdk](https://www.nuget.org/packages/ControlResell.Sdk) | 1.0.0 | ControlResell | .NET client for the ControlResell public API: typed operations generated from i… |
+| 2026-10-27 07:52:10 | [Easy.WorkFlow.CoreKit](https://www.nuget.org/packages/Easy.WorkFlow.CoreKit) | 1.0.2 | Easy.WorkFlow contributors | 工作流核心模型：链式编排 DSL、流程中间表示、上下文序列化与定义版本计算。 |
+| 2026-10-27 07:53:46 | [Azure.ResourceManager.CloudHealth](https://www.nuget.org/packages/Azure.ResourceManager.CloudHealth) | 1.0.0 | Microsoft | Azure Resource Manager client SDK for Azure resource provider CloudHealth. |
+| 2026-10-27 07:54:39 | [Zyga.NetDaemon.Fluent.Entities](https://www.nuget.org/packages/Zyga.NetDaemon.Fluent.Entities) | 0.1.0 | Szymon Zywert | An unofficial, community-maintained fluent device/entity mapping framework for… |
+| 2026-10-27 07:57:48 | [VwV.Sms](https://www.nuget.org/packages/VwV.Sms) | 1.0.0 | Vira Web Vorna (VwV) | Independent SMS contracts, explicit tenant routing and guarded Kavenegar facili… |
+| 2026-10-27 07:57:49 | [VwV.Sms.Kavenegar](https://www.nuget.org/packages/VwV.Sms.Kavenegar) | 1.0.0 | Vira Web Vorna (VwV) | Independent SMS contracts, explicit tenant routing and guarded Kavenegar facili… |
+| 2026-10-27 07:57:50 | [VwV.Sms.DependencyInjection](https://www.nuget.org/packages/VwV.Sms.DependencyInjection) | 1.0.0 | Vira Web Vorna (VwV) | Independent SMS contracts, explicit tenant routing and guarded Kavenegar facili… |
+| 2026-10-27 08:03:34 | [Render.NET.Jbig2](https://www.nuget.org/packages/Render.NET.Jbig2) | 0.3.10 | Vadim Belov | Managed JBIG2 decoding for standalone files and embedded PDF image streams, inc… |
 
 ## Data source
 

@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-27T07:19:29.933Z,Render.NET.Jpeg2000,0.3.10,Vadim Belov,Managed JPEG 2000 Part 1 decoding from JP2 containers and raw J2K codestreams without native or third-party runtime dependencies.
+2026-10-27T07:27:40.013Z,Cyan.Design.Core,1.0.0,CyanFlag,Cyan.Design Core — 基于 Avalonia 12.0 的 UI 控件库核心包，包含按钮、输入框、布局、导航、反馈等 60+ 控件
+2026-10-27T07:28:28.01Z,Cyan.Design.Themes,1.0.0,CyanFlag,Cyan.Design Themes — 28 套主题样式包（AntDesign/Shadcn/ParkUI/Mantine/Skeleton×23），含 Light/Dark 双模式
+2026-10-27T07:34:55.53Z,ControlResell.Sdk,1.0.0,ControlResell,".NET client for the ControlResell public API: typed operations generated from its OpenAPI document, with retries, idempotency keys, cursor pagination and typed errors."
+2026-10-27T07:52:10.023Z,Easy.WorkFlow.CoreKit,1.0.2,Easy.WorkFlow contributors,工作流核心模型：链式编排 DSL、流程中间表示、上下文序列化与定义版本计算。
+2026-10-27T07:53:46.313Z,Azure.ResourceManager.CloudHealth,1.0.0,Microsoft,Azure Resource Manager client SDK for Azure resource provider CloudHealth.
+2026-10-27T07:54:39.903Z,Zyga.NetDaemon.Fluent.Entities,0.1.0,Szymon Zywert,"An unofficial, community-maintained fluent device/entity mapping framework for NetDaemon apps. Not affiliated with the NetDaemon project."
+2026-10-27T07:57:48.873Z,VwV.Sms,1.0.0,Vira Web Vorna (VwV),"Independent SMS contracts, explicit tenant routing and guarded Kavenegar facilities."
+2026-10-27T07:57:49.8Z,VwV.Sms.Kavenegar,1.0.0,Vira Web Vorna (VwV),"Independent SMS contracts, explicit tenant routing and guarded Kavenegar facilities."
+2026-10-27T07:57:50.843Z,VwV.Sms.DependencyInjection,1.0.0,Vira Web Vorna (VwV),"Independent SMS contracts, explicit tenant routing and guarded Kavenegar facilities."
+2026-10-27T08:03:34.643Z,Render.NET.Jbig2,0.3.10,Vadim Belov,"Managed JBIG2 decoding for standalone files and embedded PDF image streams, including shared symbol dictionaries, without native or third-party runtime dependencies."
