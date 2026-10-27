@@ -12,30 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 03:20 UTC
+## Latest list — 2026-10-27 04:20 UTC
 
-New packages created between 2026-10-27 02:20 UTC and 2026-10-27 03:20 UTC.
+New packages created between 2026-10-27 03:20 UTC and 2026-10-27 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T03-20-23-862583Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T04-20-07-869238Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 02:43:57 | [udpi30-mcp](https://www.nuget.org/packages/udpi30-mcp) | 1.15.1 | UDP | MCP server exposing UDPI30 operations as tools for Claude Code, Cursor, and oth… |
-| 2026-10-27 02:43:57 | [udpi30](https://www.nuget.org/packages/udpi30) | 1.15.1 | UDP | Project definition for Microsoft Unified Data Platform — declarative CI/CD for… |
-| 2026-10-27 02:47:14 | [nugetgo.github.com.spf13.cobra](https://www.nuget.org/packages/nugetgo.github.com.spf13.cobra) | 1.10.2 | go2cs conversion | unofficial go2cs C# conversion of github.com/spf13/cobra v1.10.2, built on the… |
-| 2026-10-27 02:53:05 | [Soenneker.QrCodes.Generator](https://www.nuget.org/packages/Soenneker.QrCodes.Generator) | 11.0.1 | Jake Soenneker | A utility for generating QR codes. |
-| 2026-10-27 02:53:44 | [AppPortal.Abstractions](https://www.nuget.org/packages/AppPortal.Abstractions) | 3.0.384 | AvantiPoint | Shared contracts for AppPortal consent, application context, and telemetry capa… |
-| 2026-10-27 02:53:58 | [Soenneker.QrCodes.Reader](https://www.nuget.org/packages/Soenneker.QrCodes.Reader) | 11.0.1 | Jake Soenneker | A utility for reading QR codes. |
-| 2026-10-27 02:54:13 | [AppPortal.Telemetry.Maui](https://www.nuget.org/packages/AppPortal.Telemetry.Maui) | 3.0.384 | AvantiPoint | AppPortal telemetry integration for .NET MAUI, including dependency injection a… |
-| 2026-10-27 02:54:40 | [AppPortal.Telemetry](https://www.nuget.org/packages/AppPortal.Telemetry) | 3.0.384 | AvantiPoint | AppPortal analytics, crash reporting, structured logs, sessions, and real user… |
-| 2026-10-27 02:54:57 | [AppPortal.Telemetry.Prism.Logging](https://www.nuget.org/packages/AppPortal.Telemetry.Prism.Logging) | 3.0.384 | AvantiPoint | AppPortal telemetry provider for Prism Plugin Logging. |
-| 2026-10-27 02:55:12 | [AppPortal.Telemetry.Prism.Navigation](https://www.nuget.org/packages/AppPortal.Telemetry.Prism.Navigation) | 3.0.384 | AvantiPoint | AppPortal screen analytics and navigation performance monitoring for Prism regi… |
-| 2026-10-27 02:55:31 | [AppPortal.Telemetry.Uno](https://www.nuget.org/packages/AppPortal.Telemetry.Uno) | 3.0.384 | AvantiPoint | AppPortal telemetry integration for Uno Platform applications using the Skia re… |
-| 2026-10-27 02:55:47 | [AppPortal.TestKit](https://www.nuget.org/packages/AppPortal.TestKit) | 3.0.384 | AvantiPoint | AppPortal test doubles and recorded-call assertions for unit testing .NET appli… |
-| 2026-10-27 02:59:12 | [RecursiveAI.OneAudio.Devices](https://www.nuget.org/packages/RecursiveAI.OneAudio.Devices) | 1.2.0 | Recursive AI, LLC | Audio device playback and capture for OneAudio: WASAPI, Core Audio and ALSA ove… |
-| 2026-10-27 03:02:46 | [LogVue.Providers.Abstractions](https://www.nuget.org/packages/LogVue.Providers.Abstractions) | 1.1.0 | Matt Gordon | Contracts for writing events into the LogVue log dashboard. A provider package… |
-| 2026-10-27 03:02:50 | [LogVue.Providers.Serilog](https://www.nuget.org/packages/LogVue.Providers.Serilog) | 1.1.0 | Matt Gordon | Serilog sink for the LogVue log dashboard. Reference this only when the host lo… |
-| 2026-10-27 03:06:04 | [Meziantou.Framework.SnapshotTesting.Pdf](https://www.nuget.org/packages/Meziantou.Framework.SnapshotTesting.Pdf) | 1.0.0 | meziantou | Enables verification of PDF documents using file-based snapshots: each page is… |
+| 2026-10-27 03:25:42 | [RytaPDF](https://www.nuget.org/packages/RytaPDF) | 0.1.0 | ryantavan | A lightweight, QuestPDF-inspired PDF document layout engine for .NET with a flu… |
+| 2026-10-27 03:43:21 | [CSJS.Templates](https://www.nuget.org/packages/CSJS.Templates) | 0.2.0 | Gravicode Studios | `dotnet new` templates for CSJS, the C#-to-JavaScript transpiler: a browser app… |
+| 2026-10-27 03:43:23 | [CSJS.Build](https://www.nuget.org/packages/CSJS.Build) | 0.2.0 | Gravicode Studios | MSBuild integration for CSJS: `dotnet build` transpiles the project's C# to mod… |
+| 2026-10-27 03:48:07 | [PeroTools2.AccessKing](https://www.nuget.org/packages/PeroTools2.AccessKing) | 0.3.0 | PeroperoGames | Event Bus & Command Bus |
+| 2026-10-27 03:50:50 | [SolariumDb](https://www.nuget.org/packages/SolariumDb) | 0.1.1 | Andres Gutierrez | An embedded key-value store for .NET with RocksDB's API and semantics: column f… |
+| 2026-10-27 03:51:03 | [SolariumDb.Kommander](https://www.nuget.org/packages/SolariumDb.Kommander) | 0.1.1 | Andres Gutierrez | A Kommander write-ahead log (IWAL) on Solarium, an embedded key-value store for… |
+| 2026-10-27 03:51:12 | [SolariumDb.Kahuna](https://www.nuget.org/packages/SolariumDb.Kahuna) | 0.1.1 | Andres Gutierrez | A Kahuna storage engine on Solarium, an embedded key-value store for .NET with… |
+| 2026-10-27 03:51:22 | [SolariumDb.IoUring](https://www.nuget.org/packages/SolariumDb.IoUring) | 0.1.1 | Andres Gutierrez | An io_uring storage environment for Solarium on Linux 6.1 or later, on the ioxi… |
 
 ## Data source
 

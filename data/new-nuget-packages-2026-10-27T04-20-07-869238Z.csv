@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-27T03:25:42.423Z,RytaPDF,0.1.0,ryantavan,"A lightweight, QuestPDF-inspired PDF document layout engine for .NET with a fluent API, pagination, tables, images, and page numbers."
+2026-10-27T03:43:21.943Z,CSJS.Templates,0.2.0,Gravicode Studios,"`dotnet new` templates for CSJS, the C#-to-JavaScript transpiler: a browser app (csjs-app), an npm library (csjs-lib), ASP.NET Core with C# client code (csjs-aspnet), Blazor Server with CSJS interactivity (csjs-blazor), and a console program that runs in the browser (csjs-console)."
+2026-10-27T03:43:23.67Z,CSJS.Build,0.2.0,Gravicode Studios,"MSBuild integration for CSJS: `dotnet build` transpiles the project's C# to modern ESNext JavaScript with TypeScript declarations and source maps. CSJS errors appear in the IDE error list, and `dotnet run` serves the result."
+2026-10-27T03:48:07.46Z,PeroTools2.AccessKing,0.3.0,PeroperoGames,Event Bus & Command Bus
+2026-10-27T03:50:50.17Z,SolariumDb,0.1.1,Andres Gutierrez,"An embedded key-value store for .NET with RocksDB's API and semantics: column families, atomic batches, range deletes, flushes and compaction."
+2026-10-27T03:51:03.013Z,SolariumDb.Kommander,0.1.1,Andres Gutierrez,"A Kommander write-ahead log (IWAL) on Solarium, an embedded key-value store for .NET with RocksDB's API."
+2026-10-27T03:51:12.777Z,SolariumDb.Kahuna,0.1.1,Andres Gutierrez,"A Kahuna storage engine on Solarium, an embedded key-value store for .NET with RocksDB's API: the persistence backend and the Raft WAL, loaded with --extension-assembly."
+2026-10-27T03:51:22.23Z,SolariumDb.IoUring,0.1.1,Andres Gutierrez,"An io_uring storage environment for Solarium on Linux 6.1 or later, on the ioxide reactor."
