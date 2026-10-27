@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-27T22:48:21.277Z,DteChile,0.3.0,Jorge Luis Saraiva Ruas,"Biblioteca .NET sin dependencias para generar, timbrar, firmar y enviar Documentos Tributarios Electrónicos (DTE) al SII de Chile. Software libre MIT."
+2026-10-27T23:01:11.42Z,Splunk.OpenTelemetry.SecureApp,26.9.0,AppDynamics LLC,This package contains the Splunk OpenTelemetry SecureApp auto-instrumentation plugin for dependency reporting. The package contains only the SecureApp OpenTelemetry plugin artifacts. Configure the .NET OpenTelemetry auto-instrumentation host to load the plugin with: Splunk.OpenTelemetry.SecureApp.P…
+2026-10-27T23:04:35.99Z,Gravicode.PollenRobotics.Net.AmazingHand,0.3.0,Gravicode Studios,".NET client for the Pollen Robotics Amazing Hand: four parallel-linkage fingers, eight servos, and a posture model that turns bend and splay into the motor pair each finger actually has. Unofficial and not affiliated with Pollen Robotics; version 0.x has not been validated against physical hardware."
+2026-10-27T23:09:26.49Z,RainnWorks.Porkbun,0.1.2,RainnWorks,A Pulumi provider for Porkbun: DNS records and domain nameservers.
