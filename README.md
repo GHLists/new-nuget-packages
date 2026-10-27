@@ -12,22 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 00:20 UTC
+## Latest list — 2026-10-27 01:21 UTC
 
-New packages created between 2026-10-26 23:20 UTC and 2026-10-27 00:20 UTC.
+New packages created between 2026-10-27 00:20 UTC and 2026-10-27 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T00-20-44-361628Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T01-21-28-462034Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-26 23:22:10 | [Microsoft.StateKeeper](https://www.nuget.org/packages/Microsoft.StateKeeper) | 0.1.12 | Microsoft | Async synchronization tools for safely managing concurrent access to shared sta… |
-| 2026-10-26 23:27:10 | [Zaldaryon.Pharos.Templates](https://www.nuget.org/packages/Zaldaryon.Pharos.Templates) | 0.8.0 | Zaldaryon | dotnet new templates for Pharos: pharos-mod-tests, a test project for a Vintage… |
-| 2026-10-26 23:27:10 | [Zaldaryon.Pharos.Verify](https://www.nuget.org/packages/Zaldaryon.Pharos.Verify) | 0.8.0 | Zaldaryon | Snapshot testing of Vintage Story game state with Verify, for Pharos. |
-| 2026-10-26 23:29:09 | [Krut.Netcode](https://www.nuget.org/packages/Krut.Netcode) | 0.1.0 | William Eklund | Authoritative-server netcode for .NET on LiteNetLib: handshake, fixed tick cloc… |
-| 2026-10-26 23:39:30 | [Capital](https://www.nuget.org/packages/Capital) | 0.1.0 | robert-walsh-hrri | Typed data structures for the economic categories of Karl Marx's Capital, Volum… |
-| 2026-10-26 23:43:38 | [Lers.Core](https://www.nuget.org/packages/Lers.Core) | 3.68.0-beta | Lers.Core | Package Description |
-| 2026-10-26 23:51:49 | [NetProxy.PluginApi](https://www.nuget.org/packages/NetProxy.PluginApi) | 3.1.0 | NetworkDLS | The API for writing NetProxy plug-ins: derive from NpPlugin, override the event… |
-| 2026-10-27 00:02:42 | [Render.NET.Pdf](https://www.nuget.org/packages/Render.NET.Pdf) | 0.3.4 | Vadim Belov | Managed PDF page rendering to RGBA and PNG for .NET. Vector paths, font outline… |
+| 2026-10-27 00:42:49 | [RecursiveAI.OneShader.Tool](https://www.nuget.org/packages/RecursiveAI.OneShader.Tool) | 1.1.0 | Recursive AI, LLC | The oneshader command line: compiles HLSL vertex, pixel and compute shaders to… |
+| 2026-10-27 00:58:59 | [RytaMapper](https://www.nuget.org/packages/RytaMapper) | 1.1.0 | Ryan Tavan | A lightweight, reflection-based object mapper with an AutoMapper-style configur… |
+| 2026-10-27 01:00:43 | [WolverineFx.Bobcat](https://www.nuget.org/packages/WolverineFx.Bobcat) | 6.55.0 | Jeremy D. Miller,Babu Annamal… | Given/When/Then helpers for specifying Wolverine handlers and event-sourced sli… |
+| 2026-10-27 01:01:20 | [WolverineFx.Bobcat.EventModel](https://www.nuget.org/packages/WolverineFx.Bobcat.EventModel) | 6.55.0 | Jeremy D. Miller,Babu Annamal… | Writes WolverineFx.Bobcat specifications, and the spec project around them, fro… |
+| 2026-10-27 01:06:39 | [nugetgo.github.com.inconshreveable.mousetrap](https://www.nuget.org/packages/nugetgo.github.com.inconshreveable.mousetrap) | 1.1.0 | go2cs conversion | unofficial go2cs C# conversion of github.com/inconshreveable/mousetrap v1.1.0,… |
 
 ## Data source
 
