@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-27T16:28:45.81Z,JxlSharp,0.13.0,Hefaistos68,Pure C#/.NET implementation of JPEG XL (libjxl) with both a simple default-parameter codec interface and an extended full-parameter codec interface.
+2026-10-27T16:46:13.963Z,Davydov.Revit.Templates,0.2.0,Nikolai Davydov,"dotnet new davydov-revit: a Revit 2025–2027 add-in with Nice3point SDK and Toolkit, an isolated Launcher, a command pipeline and a React UI in WebView2"
+2026-10-27T16:50:38.19Z,VirtoCommerce.AdminShell.Core,3.1000.0,VirtoCommerce.AdminShell.Core,Package Description
+2026-10-27T16:50:39.77Z,VirtoCommerce.AdminShell.Data,3.1000.0,VirtoCommerce.AdminShell.Data,Package Description
