@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-27T14:22:18.933Z,devdeer.tools.tocpm-plus,1.4.1,DEVDEER GmbH,This dotnet tool reads all csproj-files under a given folder and converts them to use the Nuget CPM instead of implicit versionning inside the csproj.
+2026-10-27T14:28:40.51Z,Ascon.Pilot.Server.Api.Grpc,26.19.1-alpha,ASCON,gRPC API for ASCON Pilot-Server
+2026-10-27T14:30:48.997Z,SolarIcons.Blazor,2.0.0,SolarIcons.Blazor,Generated Blazor components for Solar Icons. Unreleased preview.
+2026-10-27T14:59:19.193Z,JSNet.Analyzers,0.2.0,Gravicode Studios (Kang Fadhil),JS.Net analyzer API: write custom rules in JS.Net with `rule Name { ... }` declarations and load them into the compiler. Dibuat oleh Gravicode Studios dipimpin oleh Kang Fadhil.
+2026-10-27T14:59:20.25Z,JSNet.Web,0.2.0,Gravicode Studios (Kang Fadhil),"ASP.NET Core for JS.Net: Express-style routing (app.get/post/put/delete), middleware, JSON/text results and listen(). Dibuat oleh Gravicode Studios dipimpin oleh Kang Fadhil."
+2026-10-27T14:59:22.437Z,JSNet.Blazor,0.2.0,Gravicode Studios (Kang Fadhil),"Blazor for JS.Net: JsComponent base class with setState, mounted hooks, auto-disposed timers and navigation. Dibuat oleh Gravicode Studios dipimpin oleh Kang Fadhil."
