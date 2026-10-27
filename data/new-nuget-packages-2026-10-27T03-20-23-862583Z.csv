@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-10-27T02:43:57.313Z,udpi30-mcp,1.15.1,UDP,"MCP server exposing UDPI30 operations as tools for Claude Code, Cursor, and other MCP clients."
+2026-10-27T02:43:57.883Z,udpi30,1.15.1,UDP,Project definition for Microsoft Unified Data Platform — declarative CI/CD for Microsoft Fabric.
+2026-10-27T02:47:14.933Z,nugetgo.github.com.spf13.cobra,1.10.2,go2cs conversion,"unofficial go2cs C# conversion of github.com/spf13/cobra v1.10.2, built on the Go 1.26.10 standard library; not affiliated with or endorsed by The Cobra Authors or the Go project. Security: the Go standard library this package is built on includes no Go security fixes released after Go 1.26.10; rev…"
+2026-10-27T02:53:05.293Z,Soenneker.QrCodes.Generator,11.0.1,Jake Soenneker,A utility for generating QR codes.
+2026-10-27T02:53:44.39Z,AppPortal.Abstractions,3.0.384,AvantiPoint,"Shared contracts for AppPortal consent, application context, and telemetry capabilities in .NET applications."
+2026-10-27T02:53:58.233Z,Soenneker.QrCodes.Reader,11.0.1,Jake Soenneker,A utility for reading QR codes.
+2026-10-27T02:54:13.19Z,AppPortal.Telemetry.Maui,3.0.384,AvantiPoint,"AppPortal telemetry integration for .NET MAUI, including dependency injection and optional page navigation tracking."
+2026-10-27T02:54:40.273Z,AppPortal.Telemetry,3.0.384,AvantiPoint,"AppPortal analytics, crash reporting, structured logs, sessions, and real user monitoring for .NET applications."
+2026-10-27T02:54:57.11Z,AppPortal.Telemetry.Prism.Logging,3.0.384,AvantiPoint,AppPortal telemetry provider for Prism Plugin Logging.
+2026-10-27T02:55:12.347Z,AppPortal.Telemetry.Prism.Navigation,3.0.384,AvantiPoint,AppPortal screen analytics and navigation performance monitoring for Prism region navigation.
+2026-10-27T02:55:31.65Z,AppPortal.Telemetry.Uno,3.0.384,AvantiPoint,AppPortal telemetry integration for Uno Platform applications using the Skia renderer.
+2026-10-27T02:55:47.153Z,AppPortal.TestKit,3.0.384,AvantiPoint,AppPortal test doubles and recorded-call assertions for unit testing .NET application telemetry.
+2026-10-27T02:59:12.643Z,RecursiveAI.OneAudio.Devices,1.2.0,"Recursive AI, LLC","Audio device playback and capture for OneAudio: WASAPI, Core Audio and ALSA over the operating system's own libraries, with no dependencies beyond the base class library."
+2026-10-27T03:02:46.403Z,LogVue.Providers.Abstractions,1.1.0,Matt Gordon,Contracts for writing events into the LogVue log dashboard. A provider package references this and nothing else from LogVue.
+2026-10-27T03:02:50.823Z,LogVue.Providers.Serilog,1.1.0,Matt Gordon,Serilog sink for the LogVue log dashboard. Reference this only when the host logs through Serilog's own pipeline.
+2026-10-27T03:06:04.863Z,Meziantou.Framework.SnapshotTesting.Pdf,1.0.0,meziantou,"Enables verification of PDF documents using file-based snapshots: each page is rendered to an image and the metadata is written to a JSON file, based on Meziantou.Framework.Pdf"
