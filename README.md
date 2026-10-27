@@ -12,32 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 13:21 UTC
+## Latest list — 2026-10-27 14:20 UTC
 
-New packages created between 2026-10-27 12:18 UTC and 2026-10-27 13:21 UTC.
+New packages created between 2026-10-27 13:21 UTC and 2026-10-27 14:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T13-21-33-125329Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T14-20-35-143222Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 12:20:35 | [Fizzy.ImageViewer.Cuda11](https://www.nuget.org/packages/Fizzy.ImageViewer.Cuda11) | 1.3.0 | Fizzy.ImageViewer.Cuda | Optional CUDA image display and pixel queries with consumer-owned execution sco… |
-| 2026-10-27 12:21:06 | [NacreCraft.WebApp](https://www.nuget.org/packages/NacreCraft.WebApp) | 0.2.4 | NacreCraftDev | Desktop and command line client for NacreCraft accounts. |
-| 2026-10-27 12:24:44 | [KeyTD.Manat](https://www.nuget.org/packages/KeyTD.Manat) | 0.1.0 | KeyTD | One API for Azerbaijani online payment providers: Kapital Bank, Azericard, Payr… |
-| 2026-10-27 12:27:08 | [Fizzy.ImageViewer.Cuda12](https://www.nuget.org/packages/Fizzy.ImageViewer.Cuda12) | 1.3.0 | Fizzy.ImageViewer.Cuda | Optional CUDA image display and pixel queries with consumer-owned execution sco… |
-| 2026-10-27 12:27:15 | [JSNet.Runtime](https://www.nuget.org/packages/JSNet.Runtime) | 0.1.1 | Gravicode Studios (Kang Fadhi… | JS.Net runtime support: console, JSON, Math, Promise, Date, fetch, timers, Java… |
-| 2026-10-27 12:27:17 | [JSNet.AI](https://www.nuget.org/packages/JSNet.AI) | 0.1.1 | Gravicode Studios (Kang Fadhi… | JS.Net AI-native features: `ai function` and `prompt` declarations backed by Mi… |
-| 2026-10-27 12:27:19 | [JSNet.Sdk](https://www.nuget.org/packages/JSNet.Sdk) | 0.1.1 | Gravicode Studios (Kang Fadhi… | MSBuild project SDK for JS.Net: <Project Sdk="JSNet.Sdk/0.1.1"> compiles .jsn f… |
-| 2026-10-27 12:27:20 | [JSNet.Cli](https://www.nuget.org/packages/JSNet.Cli) | 0.1.1 | Gravicode Studios (Kang Fadhi… | The jsnet command-line tool: compile, run, check, emit and format JS.Net code,… |
-| 2026-10-27 12:27:21 | [JSNet.Templates](https://www.nuget.org/packages/JSNet.Templates) | 0.1.1 | Gravicode Studios (Kang Fadhi… | dotnet new templates for JS.Net: console (jsnet), classlib, webapi, web, blazor… |
-| 2026-10-27 12:33:02 | [Fizzy.ImageViewer.Cuda13](https://www.nuget.org/packages/Fizzy.ImageViewer.Cuda13) | 1.3.0 | Fizzy.ImageViewer.Cuda | Optional CUDA image display and pixel queries with consumer-owned execution sco… |
-| 2026-10-27 12:47:32 | [Superroute.SMap](https://www.nuget.org/packages/Superroute.SMap) | 1.0.0 | Goodneo Solutions | Maps from Superroute's sMap service: options, tokens, nearest node, styles, lay… |
-| 2026-10-27 12:47:34 | [Superroute.SMap.WinForms](https://www.nuget.org/packages/Superroute.SMap.WinForms) | 1.0.0 | Goodneo Solutions | Maps from Superroute's sMap service in a WinForms control: vector basemaps in f… |
-| 2026-10-27 12:47:35 | [Superroute.SMap.Wpf](https://www.nuget.org/packages/Superroute.SMap.Wpf) | 1.0.0 | Goodneo Solutions | Maps from Superroute's sMap service in a WPF control: vector basemaps in five c… |
-| 2026-10-27 12:53:44 | [Nethermind.OpenVM.Runtime](https://www.nuget.org/packages/Nethermind.OpenVM.Runtime) | 2.1.0.56 | Nethermind | OpenVM zkVM accelerators for the Nethermind guest for OpenVM |
-| 2026-10-27 12:57:38 | [AppWeaver.ProblemDetails](https://www.nuget.org/packages/AppWeaver.ProblemDetails) | 1.0.0 | Team AppWeaver | ProblemDetails utilities for AppWeaver: options and factories to map exceptions… |
-| 2026-10-27 13:03:33 | [NCache.Dapper](https://www.nuget.org/packages/NCache.Dapper) | 5.3.800 | Alachisoft | NCache extension for Dapper providing distributed caching of database queries. |
-| 2026-10-27 13:05:32 | [GriffinClient](https://www.nuget.org/packages/GriffinClient) | 1.0.0 | Tuomas Hietanen | Griffin banking-as-a-service client: onboarding (legal persons, claims, verific… |
-| 2026-10-27 13:05:35 | [CritterWatch.Aspire](https://www.nuget.org/packages/CritterWatch.Aspire) | 1.1.0 | JasperFx Software, LLC | .NET Aspire hosting integration for CritterWatch: AddCritterWatch() for the con… |
+| 2026-10-27 13:42:23 | [Bitwarden.Server.Sdk.RestrictedDependencies](https://www.nuget.org/packages/Bitwarden.Server.Sdk.RestrictedDependencies) | 0.1.0 | Bitwarden Inc. | Roslyn analyzer that budgets the use of types marked [RestrictedDependency]: ev… |
+| 2026-10-27 13:50:55 | [Rocket.Surgery.ApiReference](https://www.nuget.org/packages/Rocket.Surgery.ApiReference) | 0.1.13 | David Driscoll,Rocket Surgeon… | Generates the JSON that the docs sites render their C# API reference from, usin… |
+| 2026-10-27 13:53:46 | [Primus.AutoMapping](https://www.nuget.org/packages/Primus.AutoMapping) | 1.0.0 | Primus | High-performance object-to-object mapper for .NET with an AutoMapper-style API,… |
+| 2026-10-27 13:55:03 | [OptimaJet.Workflow.Api.Forms](https://www.nuget.org/packages/OptimaJet.Workflow.Api.Forms) | 23.0.0 | Optimajet Limited | Workflow Forms integration for Workflow Engine API by Optimajet. Registers Form… |
+| 2026-10-27 13:55:06 | [OptimaJet.Workflow.Api.RealTimeTrackingPlugin](https://www.nuget.org/packages/OptimaJet.Workflow.Api.RealTimeTrackingPlugin) | 23.0.0 | Optimajet Limited | Adds tenant-aware SignalR process tracking to the Workflow Engine HTTP API, usi… |
 
 ## Data source
 
