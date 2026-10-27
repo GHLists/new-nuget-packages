@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-27T05:20:39.463Z,DemoViewer.NET.Extensions.Sdk,2.0.2,sid2934,"Build extensions for DemoViewer.NET: tabs, demo passes and jobs, 2D Playback contributions, library filters and settings pages."
+2026-10-27T05:20:40.607Z,DemoViewer.NET.Extensions.Sdk.Ui,2.0.2,sid2934,"Controls, theme token names and style class names for DemoViewer.NET extension views, so an extension looks like the app it runs in."
+2026-10-27T05:23:07.297Z,Acplite.Pty,0.2.0,Cristi Pufu,"Cross-platform pseudo-terminal (POSIX PTY and Windows ConPTY) wrapper, TUI prompt inspector, local IPC control channel, and shell hook installer for Acplite."
+2026-10-27T05:52:31.18Z,DemoViewer.NET.Modules.Abstractions,2.0.2,sid2934,"The read-only playback contract DemoViewer.NET extensions and modules see. Install DemoViewer.NET.Extensions.Sdk, which depends on it."
+2026-10-27T05:52:32.673Z,DemoViewer.NET.Playback2D.Scene,2.0.2,sid2934,"The 2D map scene of DemoViewer.NET: the frame, the layer contract, floors and panes, place lookup, the viewport transform and the palette. SkiaSharp only."
+2026-10-27T06:12:32.443Z,alanxinn.DenglinOnnxBuilder,0.1.4,alanxinn,Managed C# API that invokes Denglin nnexec to convert ONNX models to serialized engines.

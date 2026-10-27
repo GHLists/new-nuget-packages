@@ -12,20 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 05:20 UTC
+## Latest list — 2026-10-27 06:21 UTC
 
-New packages created between 2026-10-27 04:20 UTC and 2026-10-27 05:20 UTC.
+New packages created between 2026-10-27 05:20 UTC and 2026-10-27 06:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T05-20-27-952Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T06-21-14-867755Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 04:23:59 | [Pacem.AspNetCore](https://www.nuget.org/packages/Pacem.AspNetCore) | 0.10.19-fermi | Cristian Merighi | ASP.NET Core utilities in Pacem Ecosystem: API exception handler and problem re… |
-| 2026-10-27 04:24:06 | [Pacem.AspNetCore.Acme](https://www.nuget.org/packages/Pacem.AspNetCore.Acme) | 0.10.19-fermi | Cristian Merighi | ACME utilities for certificates renewal in Pacem Ecosystem. |
-| 2026-10-27 04:24:11 | [Pacem.AspNetCore.CookiePolicy](https://www.nuget.org/packages/Pacem.AspNetCore.CookiePolicy) | 0.10.19-fermi | Cristian Merighi | Cookie Policy (GDPR-compliant) handling in Pacem Ecosystem. |
-| 2026-10-27 04:38:58 | [LMail](https://www.nuget.org/packages/LMail) | 0.1.0 | LMail contributors | One lightweight email-sending API for SMTP, Microsoft Graph, Cloudflare, Brevo,… |
-| 2026-10-27 04:52:26 | [Lemon.Pet.Look](https://www.nuget.org/packages/Lemon.Pet.Look) | 1.0.0 | Tracy Ma | How the Lemon pet looks: its models, names, pictures and the control that draws… |
-| 2026-10-27 05:00:41 | [AppWeaver.Results](https://www.nuget.org/packages/AppWeaver.Results) | 1.0.0 | Team AppWeaver | Result primitives for AppWeaver: Result<T>, Unit Result, Error model, and funct… |
+| 2026-10-27 05:20:39 | [DemoViewer.NET.Extensions.Sdk](https://www.nuget.org/packages/DemoViewer.NET.Extensions.Sdk) | 2.0.2 | sid2934 | Build extensions for DemoViewer.NET: tabs, demo passes and jobs, 2D Playback co… |
+| 2026-10-27 05:20:40 | [DemoViewer.NET.Extensions.Sdk.Ui](https://www.nuget.org/packages/DemoViewer.NET.Extensions.Sdk.Ui) | 2.0.2 | sid2934 | Controls, theme token names and style class names for DemoViewer.NET extension… |
+| 2026-10-27 05:23:07 | [Acplite.Pty](https://www.nuget.org/packages/Acplite.Pty) | 0.2.0 | Cristi Pufu | Cross-platform pseudo-terminal (POSIX PTY and Windows ConPTY) wrapper, TUI prom… |
+| 2026-10-27 05:52:31 | [DemoViewer.NET.Modules.Abstractions](https://www.nuget.org/packages/DemoViewer.NET.Modules.Abstractions) | 2.0.2 | sid2934 | The read-only playback contract DemoViewer.NET extensions and modules see. Inst… |
+| 2026-10-27 05:52:32 | [DemoViewer.NET.Playback2D.Scene](https://www.nuget.org/packages/DemoViewer.NET.Playback2D.Scene) | 2.0.2 | sid2934 | The 2D map scene of DemoViewer.NET: the frame, the layer contract, floors and p… |
+| 2026-10-27 06:12:32 | [alanxinn.DenglinOnnxBuilder](https://www.nuget.org/packages/alanxinn.DenglinOnnxBuilder) | 0.1.4 | alanxinn | Managed C# API that invokes Denglin nnexec to convert ONNX models to serialized… |
 
 ## Data source
 
