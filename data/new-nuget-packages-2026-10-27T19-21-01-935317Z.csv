@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-10-27T18:21:39.85Z,Caladesi.Sdk,1.0.0,Caladesi contributors,MSBuild SDK for the Caladesi language (.calaproj). Includes the calac compiler.
+2026-10-27T18:21:40.477Z,Caladesi.Runtime,1.0.0,Caladesi contributors,Runtime support library for assemblies produced by the Caladesi compiler.
+2026-10-27T18:21:41.03Z,Caladesi.Templates,1.0.0,Caladesi contributors,"Project templates for the Caladesi language (calaconsole, calalib, calatest)."
+2026-10-27T18:25:43.77Z,Paintty,1.0.0,Tom Laird-McConnell,"A paint program for the terminal, in the spirit of Paint and Paint.NET."
+2026-10-27T18:32:25.36Z,Octeka.UI.Wpf.PropertyGrid,1.0.0,Patrick Robichaud,"Enterprise-grade, high-performance WPF property grid control powered by Octeka.UI.Wpf.TreeGrid with categorization, A-Z view, search filtering, collection editors, and rich extensibility."
+2026-10-27T18:32:26.127Z,Octeka.UI.Wpf.PropertyGrid.Abstractions,1.0.0,Patrick Robichaud,"Core abstractions, interfaces, descriptors, and attributes for the Octeka WPF PropertyGrid control suite."
+2026-10-27T18:32:26.93Z,Octeka.UI.Wpf.PropertyGrid.Editors.Advanced,1.0.0,Patrick Robichaud,"Advanced modal and popup editors for the Octeka WPF PropertyGrid suite, including Visual Studio-style collection editors, file/folder pickers, and color dialogs."
+2026-10-27T18:45:59.723Z,RecursiveAI.OneEcma.Cli,1.0.0,"Recursive AI, LLC","The oneecma command-line tool: run, repl and check."
+2026-10-27T18:46:00.437Z,RecursiveAI.OneEcma.Generators,1.0.0,"Recursive AI, LLC",Source generator that writes .NET host bindings for the OneEcma interpreter.
+2026-10-27T18:46:01.207Z,RecursiveAI.OneEcma,1.0.0,"Recursive AI, LLC","An interpreter for .NET implementing ECMA-262 / ECMAScript®, whose product is its error reports. Not affiliated with or endorsed by Ecma International; ECMAScript® is a registered trademark of Ecma International."
+2026-10-27T18:46:56.92Z,squalor.squalify,0.1.0,Jon Robbins,"Profiles one data file into a deterministic JSON descriptor: encoding, format, layout, fields, statistics and structural fingerprint. The library behind the squalify CLI."
+2026-10-27T18:46:58.197Z,squalor.squalify.Cli,0.1.0,Jon Robbins,Command-line tool that profiles a data file into a deterministic JSON descriptor. Install it as the squalify .NET tool.
+2026-10-27T18:56:08.203Z,CompuMaster.Dms.BrowserUI.WinUI,2026.10.27.1,Jochen Wezel,"Native WinUI 3 DMS browser controls and dialogs for Windows, including selection, transfers, sharing, versions and instance selection."
+2026-10-27T18:57:16.817Z,Render.NET.Tgs,0.3.16,Vadim Belov,"Managed selected-frame rendering of Telegram TGS and Lottie animations to PNG using Render.NET. Animated vector shapes, keyframes and transforms without native graphics dependencies."
+2026-10-27T18:57:17.533Z,Render.NET.Svg,0.3.16,Vadim Belov,"Managed SVG vector rendering to RGBA and PNG using the Render.NET raster canvas. Paths, shapes, styles, affine transforms, gradients, clipping and local references without native graphics dependencies."
+2026-10-27T19:01:45.75Z,Octeka.UI.Wpf.DockingManager,1.0.0,Patrick Robichaud,Visual Studio-grade docking manager control for WPF applications.
+2026-10-27T19:01:46.4Z,Octeka.UI.Wpf.DockingManager.Sample,1.0.0,Patrick Robichaud,Package Description
+2026-10-27T19:11:49.537Z,Fnode.Core,0.1.0,Devon Burriss,"Shared document core: the Node tree, JSON Pointer paths, errors with source locations and the Format interface. Pure and Fable-safe, no dependencies."
+2026-10-27T19:11:50.47Z,Fnode.Json,0.1.0,Devon Burriss,"JSON adapter for Fnode: parses JSON text to a Node with source locations and prints it back. Built on Flexi.Json; runs on .NET, Fable JavaScript and Fable Python."
+2026-10-27T19:11:51.37Z,Fnode.Yaml,0.1.0,Devon Burriss,"YAML adapter for Fnode: parses YAML text to a Node with source locations and the original timestamp text, and prints it back. Built on Flexi.Yaml; runs on .NET, Fable JavaScript and Fable Python."
