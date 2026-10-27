@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-10-27T15:23:18.85Z,LightPath.Sitefinity.CLU,1.0.0,mavickers,"Command-line utility for Progress Sitefinity CMS projects: builds and serves a Sitefinity site on a Windows build host over SSH, and generates keys and SiteSync settings."
+2026-10-27T15:26:40.217Z,FlowtideDotNet.Lineage.DataHub,0.16.0-alpha17,FlowtideDotNet.Lineage.DataHub,Package Description
+2026-10-27T15:28:02.48Z,org.anosys.Archon,1.2.0,org.anosys,The Anosys Archon is a microkernel-based engine that orchestrates and organizes modular ecosystems. Commonly Used Types: - Kernel - Environment - Dispatcher - ModuleManager - AssemblyManager
+2026-10-27T15:28:04.047Z,org.anosys.Archon.Assemblies,1.2.0,org.anosys,Library for probing and loading assemblies.
+2026-10-27T15:28:05.567Z,org.anosys.Archon.DependencyInjection,1.2.0,org.anosys,Anosys module that enables Dependency Injection.
+2026-10-27T15:28:07.203Z,org.anosys.Archon.FileSystem,1.2.0,org.anosys,Anosys module that enables File System.
+2026-10-27T15:28:08.713Z,org.anosys.Archon.Output,1.2.0,org.anosys,Anosys module that enables output and logging.
+2026-10-27T15:28:10.313Z,org.anosys.Archon.Configuration,1.2.0,org.anosys,Anosys module that enables configuration.
+2026-10-27T15:28:11.847Z,org.anosys.Archon.Assemblies.Configuration,1.2.0,org.anosys,Library for configuring assembly probing and loading from the file system.
+2026-10-27T15:35:16.6Z,Cronlight.Quartz.Dashboard,0.1.0,Cronlight contributors,"Cronlight: an embeddable dashboard and API for Quartz.NET. List, create, edit, pause, trigger and monitor jobs from a UI served by your own ASP.NET Core app."
+2026-10-27T15:35:17.147Z,Cronlight.Quartz.Dashboard.History,0.1.0,Cronlight contributors,"Execution history for Cronlight: records every Quartz.NET job run in your Quartz database (SQL Server, PostgreSQL, MySQL, SQLite) or in memory."
+2026-10-27T15:35:39.407Z,WoW2.Sdk.Beta.Be.Files.Abstractions,10.0.0-beta,WoW 2.0,"Files contract: the upload, store, reference, URL and audit brokers, their models, scopes and errors, which every form implements."
+2026-10-27T15:35:39.987Z,WoW2.Sdk.Beta.Be.Files.Formats,10.0.0-beta,WoW 2.0,"Files formats: the file-type registry, magic-byte sniffing, file kinds and safe file names."
+2026-10-27T15:35:40.577Z,WoW2.Sdk.Beta.Be.Files.Module,10.0.0-beta,WoW 2.0,"Files Form 1: the in-process store, uploads and sweep over the consumer's database and blob store, with its SQL migrations."
+2026-10-27T15:35:44.337Z,WoW2.Sdk.Beta.Be.Files.Testing,10.0.0-beta,WoW 2.0,"Files test kit: the conformance suite every Files implementation must pass, with byte samples for upload tests."
+2026-10-27T15:35:45.083Z,WoW2.Sdk.Beta.Be.Files.Client,10.0.0-beta,WoW 2.0,"Files Forms 2 and 3: every Files broker over the running Files service's HTTP API, by API key or client-credentials token."
+2026-10-27T15:35:45.81Z,WoW2.Sdk.Beta.Be.Files.Server,10.0.0-beta,WoW 2.0,"Files server: delivery and share routes, upload protocols, tenancy and the admin API over the Files module."
+2026-10-27T15:38:06.17Z,Quire.Package,1.0.0,Quire.Package,"Immutable asset packages with directory loading, typed metadata and concurrent readers."
+2026-10-27T15:38:23.12Z,quire-cli,1.0.0,Quire.Cli,Package assets from quire.project.yml and extract immutable asset packages.
+2026-10-27T15:40:22.413Z,FastSI.AutoMapping,1.0.0,FastSI,"High-performance object-to-object mapper for .NET with an AutoMapper-style API, in one package: compiled expression-tree mappings, ML.NET fuzzy member matching, EF Core projection/Persist/key equality, OData query support, and scheduled diagnostics reports (exceptions, performance, memory-leak indi…"
+2026-10-27T15:41:12.55Z,SharpCrafters.Aspects.Introspection,2027.0.6-preview,PostSharp Technologies,Package Description
+2026-10-27T15:41:16.56Z,SharpCrafters.Aspects.Introspection.Query,2027.0.6-preview,PostSharp Technologies,Package Description
