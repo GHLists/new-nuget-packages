@@ -12,24 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 21:21 UTC
+## Latest list — 2026-10-27 22:20 UTC
 
-New packages created between 2026-10-27 20:20 UTC and 2026-10-27 21:21 UTC.
+New packages created between 2026-10-27 21:21 UTC and 2026-10-27 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-27T21-21-35-51672Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-27T22-20-46-803041Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 20:32:37 | [Enigma.Avalonia.Mobile](https://www.nuget.org/packages/Enigma.Avalonia.Mobile) | 1.3.0 | Josué Clément | Enigma.Avalonia.Mobile gives Avalonia 12 mobile applications, Android first and… |
-| 2026-10-27 20:37:08 | [MaksIT.IdentityHub.Contracts](https://www.nuget.org/packages/MaksIT.IdentityHub.Contracts) | 3.0.0 | MaksIT | Shared API contracts (DTOs) for MaksIT Identity Hub API and client. |
-| 2026-10-27 20:37:40 | [KDPika.LicenseSdk](https://www.nuget.org/packages/KDPika.LicenseSdk) | 2.1.0 | KDPika | KDPika Licensing client with signed device binding, floating leases and usage c… |
-| 2026-10-27 20:51:33 | [Hexalith.Timesheets.ReadModels](https://www.nuget.org/packages/Hexalith.Timesheets.ReadModels) | 2.0.2 | Hexalith Contributors | Shared Timesheets read-model helpers and persisted EventStore payloads. |
-| 2026-10-27 20:59:52 | [PackageCascade](https://www.nuget.org/packages/PackageCascade) | 0.1.0 | GoSim | Plan releases for solutions containing packable .NET projects. |
-| 2026-10-27 21:01:31 | [Driftcheck](https://www.nuget.org/packages/Driftcheck) | 0.1.0 | Wilson Vargas Marín | Local MCP server that compares a mobile app screen (Android or iOS Simulator) w… |
-| 2026-10-27 21:03:24 | [Snail.MCP.Figma.any](https://www.nuget.org/packages/Snail.MCP.Figma.any) | 0.2.0 | orldev | Local MCP server that gives AI agents 141 tools for reading and editing Figma.… |
-| 2026-10-27 21:03:26 | [Snail.MCP.Figma.linux-arm64](https://www.nuget.org/packages/Snail.MCP.Figma.linux-arm64) | 0.2.0 | orldev | Local MCP server that gives AI agents 141 tools for reading and editing Figma.… |
-| 2026-10-27 21:03:27 | [Snail.MCP.Figma.linux-x64](https://www.nuget.org/packages/Snail.MCP.Figma.linux-x64) | 0.2.0 | orldev | Local MCP server that gives AI agents 141 tools for reading and editing Figma.… |
-| 2026-10-27 21:03:31 | [Snail.MCP.Figma.win-x64](https://www.nuget.org/packages/Snail.MCP.Figma.win-x64) | 0.2.0 | orldev | Local MCP server that gives AI agents 141 tools for reading and editing Figma.… |
+| 2026-10-27 21:34:03 | [MigrationTester](https://www.nuget.org/packages/MigrationTester) | 0.1.0 | Larsenq | Tests EF Core migrations against SQL Server with data that is valid before each… |
+| 2026-10-27 21:39:21 | [ConsoleMVC.Testing](https://www.nuget.org/packages/ConsoleMVC.Testing) | 1.18.0 | Mateusz Podeszwa | Test ConsoleMVC applications end to end: run them with scripted lines and keys,… |
+| 2026-10-27 21:40:49 | [Reimaginate.ProcessingLockService.Cosmos](https://www.nuget.org/packages/Reimaginate.ProcessingLockService.Cosmos) | 4.0.0 | Reimaginate | Azure Cosmos DB for NoSQL processing lock repository with tenant-scoped atomic… |
+| 2026-10-27 21:52:04 | [deeptrace](https://www.nuget.org/packages/deeptrace) | 0.1.0 | DeepTrace.Cli | Local code intelligence for AI-assisted game mod development. Index decompiled… |
+| 2026-10-27 21:59:40 | [ModernWpf.Cards](https://www.nuget.org/packages/ModernWpf.Cards) | 1.0.4 | benrisma133 | A modern, lightweight WPF UI component library featuring custom cards and anima… |
+| 2026-10-27 22:04:22 | [PixelForge](https://www.nuget.org/packages/PixelForge) | 0.1.0 | Grant Totinov | MIT image processing for .NET on SkiaSharp. Familiar Load/Mutate/Resize/Save AP… |
+| 2026-10-27 22:12:29 | [ExperianClient](https://www.nuget.org/packages/ExperianClient) | 1.0.0 | Tuomas Hietanen | Client for the most used Experian UK APIs (not every Experian service): Delphi… |
 
 ## Data source
 

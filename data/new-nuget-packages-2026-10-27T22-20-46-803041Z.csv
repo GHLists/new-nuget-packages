@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-27T21:34:03.44Z,MigrationTester,0.1.0,Larsenq,"Tests EF Core migrations against SQL Server with data that is valid before each migration but that its Up() may not handle (duplicates, orphan foreign keys, NULLs, over-long or unconvertible values, values a new CHECK constraint rejects), and reports which change broke with a T-SQL repair hint."
+2026-10-27T21:39:21.77Z,ConsoleMVC.Testing,1.18.0,Mateusz Podeszwa,"Test ConsoleMVC applications end to end: run them with scripted lines and keys, capture every screen as plain text, assert on the routes visited, and compare screens with snapshot files. Works with xUnit, NUnit and MSTest."
+2026-10-27T21:40:49.537Z,Reimaginate.ProcessingLockService.Cosmos,4.0.0,Reimaginate,Azure Cosmos DB for NoSQL processing lock repository with tenant-scoped atomic acquisition and token-checked renewal and release.
+2026-10-27T21:52:04.34Z,deeptrace,0.1.0,DeepTrace.Cli,"Local code intelligence for AI-assisted game mod development. Index decompiled .NET assemblies, search with BM25 + LSA, and run AI-driven investigation workflows."
+2026-10-27T21:59:40.467Z,ModernWpf.Cards,1.0.4,benrisma133,"A modern, lightweight WPF UI component library featuring custom cards and animations."
+2026-10-27T22:04:22.81Z,PixelForge,0.1.0,Grant Totinov,"MIT image processing for .NET on SkiaSharp. Familiar Load/Mutate/Resize/Save API, no license key, safe defaults for user uploads."
+2026-10-27T22:12:29.293Z,ExperianClient,1.0.0,Tuomas Hietanen,"Client for the most used Experian UK APIs (not every Experian service): Delphi Select (credit search, Identity Authenticate / AuthPlus, Detect, Affordability), KYC and PEP/sanctions, PowerCurve Customer Acquisition, Work Report, NED and IDP."
