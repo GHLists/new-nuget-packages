@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-27T01:31:21.577Z,ParkSquare.BotProtection,1.0.0,Jon Meesam,ASP.NET Core middleware that tarpits known bots and temporarily blocks IP addresses that keep producing bad responses. Add with services.AddBotProtection() and app.UseBotProtection().
+2026-10-27T01:37:00.85Z,TianWeiToolsPro.Vision,3.2.3,LaiTianWei,Windows x64 视觉算法与 WPF 窗口显示库，含配套原生依赖。
+2026-10-27T01:46:32.78Z,Boutquin.Storage.SourceGenerator,2.0.0,Pierre G. Boutquin,Roslyn source generator that emits ISerializable<T> and IColumnarSegmentFormat<T> implementations for types annotated with [StorageSerializable] and [ColumnarStorable]. Build-time only; no runtime footprint.
+2026-10-27T02:01:46.687Z,PyConductor,0.1.0,honey the codewitch,A library for automating a python3 environment
+2026-10-27T02:02:26.777Z,Spoolbit,0.0.1,Spoolbit,Official .NET SDK for the Spoolbit cloud printing API (coming soon).
+2026-10-27T02:09:31.273Z,Witcher3StringEditor.MCP,0.1.0-beta,Witcher3StringEditor.MCP,MCP server for reading and editing The Witcher 3 .w3strings localization files.
