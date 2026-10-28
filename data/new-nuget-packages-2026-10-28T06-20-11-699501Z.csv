@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-28T05:28:55.11Z,Monet.Mayday.Help,1.0.0,Monet,MayDay-Helper
+2026-10-28T05:29:34.23Z,BrotherRaster,0.1.0,Matt Jarvis,"Drive Brother QL and P-touch (PT) label printers over the network: raster encoders for both families, a raw TCP transport that waits for the printer to take the whole job, SNMP status (including Brother's 32-byte status block) and a dispatcher that never sends a job twice. No dependencies."
+2026-10-28T05:29:39.32Z,BrotherRaster.Cli,0.1.0,Matt Jarvis,"Command-line tool for Brother QL and P-touch label printers on the network: read status (model, media, tape colors), print a PNG, a text label or a test pattern, and decode captured raster jobs."
+2026-10-28T05:29:39.983Z,BrotherRaster.Skia,0.1.0,Matt Jarvis,"SkiaSharp helpers for BrotherRaster: draw a label on a canvas sized for a QL roll or a P-touch tape, turn it into a 1-bit LabelBitmap (threshold or Floyd–Steinberg dither), and read or write PNG previews. Add the SkiaSharp native assets package for your platform."
+2026-10-28T05:53:54.923Z,Aslier.DeepseekWebChatWrapper,0.0.1,Aslier,A .NET implementation for calling DeepSeek's web chat
+2026-10-28T05:55:10.507Z,EbInterface.Net.Mcp,0.1.0-alpha,Harald Rohan,"Lokaler MCP-Server (Model Context Protocol) für EbInterface.Net: ebInterface-Rechnungen prüfen, lesen und auf 6.1 aktualisieren – z. B. aus Claude heraus. Läuft vollständig lokal. Nicht offiziell von AUSTRIAPRO herausgegeben."
+2026-10-28T05:55:11.077Z,EbInterface.Net,0.1.0-alpha,Harald Rohan,"Unabhängige .NET-Implementierung des österreichischen E-Rechnungsstandards ebInterface: Lesen, Schreiben und Prüfen inkl. der Regeln von e-Rechnung.gv.at. Nicht offiziell von AUSTRIAPRO herausgegeben."
+2026-10-28T06:00:58.35Z,NetWinI18n,2.0.2,ShengbiYang,JSON-based multilingual localization library for WinForms applications.
