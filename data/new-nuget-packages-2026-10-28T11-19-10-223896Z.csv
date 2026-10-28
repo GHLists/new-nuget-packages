@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-28T10:22:36.577Z,Biz.Bizadm.KMS.NetFramework,1.0.0,SeongSikChae,Independent .NET Framework 4.8 KMS implementation.
+2026-10-28T10:22:37.87Z,Thinkmine.Kobo.Lang,0.1.12,Thinkmine,Command-line compiler for Kobo language files.
+2026-10-28T10:22:55.227Z,thinkmine.kobo.lang.buildtools,0.1.12,Thinkmine,Incremental Kobo-to-C# source generator and automatic SDK-style project integration.
+2026-10-28T10:36:18.837Z,McpPlayground,1.0.0,Alim Iusufov,"Swagger-like playground for MCP servers hosted in ASP.NET Core: one line (app.MapMcpPlayground()) serves a page that connects with your key, lists the tools, builds a form from each tool's input schema, calls it and shows the result. One embedded HTML page, no dependencies beyond ASP.NET Core, inde…"
+2026-10-28T10:37:21.557Z,Unclaimable.Files,1.0.0,Perry3D.nl,"Filename policies powered by the Unclaimable engine: portable naming rules, reserved device names, extension policies, and configurable name protection."
+2026-10-28T10:42:16.87Z,AppWeaver.ResultMapping,1.0.0,Team AppWeaver,Result-to-IResult mapper with DI extensions using AppWeaver.ProblemDetails.
+2026-10-28T10:57:51.3Z,Zespy.Signing.Contracts,0.7.1,Zespy,Explicit organisation and product-account managed signing contracts.
+2026-10-28T10:57:53.577Z,Zespy.Signing.Verification,0.7.1,Zespy,Bounded invoice assertions and independent portable issuer proof verification.
