@@ -12,22 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 11:19 UTC
+## Latest list — 2026-10-28 12:18 UTC
 
-New packages created between 2026-10-28 10:20 UTC and 2026-10-28 11:19 UTC.
+New packages created between 2026-10-28 11:19 UTC and 2026-10-28 12:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T11-19-10-223896Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T12-18-46-016951Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 10:22:36 | [Biz.Bizadm.KMS.NetFramework](https://www.nuget.org/packages/Biz.Bizadm.KMS.NetFramework) | 1.0.0 | SeongSikChae | Independent .NET Framework 4.8 KMS implementation. |
-| 2026-10-28 10:22:37 | [Thinkmine.Kobo.Lang](https://www.nuget.org/packages/Thinkmine.Kobo.Lang) | 0.1.12 | Thinkmine | Command-line compiler for Kobo language files. |
-| 2026-10-28 10:22:55 | [thinkmine.kobo.lang.buildtools](https://www.nuget.org/packages/thinkmine.kobo.lang.buildtools) | 0.1.12 | Thinkmine | Incremental Kobo-to-C# source generator and automatic SDK-style project integra… |
-| 2026-10-28 10:36:18 | [McpPlayground](https://www.nuget.org/packages/McpPlayground) | 1.0.0 | Alim Iusufov | Swagger-like playground for MCP servers hosted in ASP.NET Core: one line (app.M… |
-| 2026-10-28 10:37:21 | [Unclaimable.Files](https://www.nuget.org/packages/Unclaimable.Files) | 1.0.0 | Perry3D.nl | Filename policies powered by the Unclaimable engine: portable naming rules, res… |
-| 2026-10-28 10:42:16 | [AppWeaver.ResultMapping](https://www.nuget.org/packages/AppWeaver.ResultMapping) | 1.0.0 | Team AppWeaver | Result-to-IResult mapper with DI extensions using AppWeaver.ProblemDetails. |
-| 2026-10-28 10:57:51 | [Zespy.Signing.Contracts](https://www.nuget.org/packages/Zespy.Signing.Contracts) | 0.7.1 | Zespy | Explicit organisation and product-account managed signing contracts. |
-| 2026-10-28 10:57:53 | [Zespy.Signing.Verification](https://www.nuget.org/packages/Zespy.Signing.Verification) | 0.7.1 | Zespy | Bounded invoice assertions and independent portable issuer proof verification. |
+| 2026-10-28 11:20:44 | [Jakar.SqlBuilder](https://www.nuget.org/packages/Jakar.SqlBuilder) | 10.2.0 | Tyler Stegmaier | Easy Sql Building |
+| 2026-10-28 11:31:13 | [SecureTool](https://www.nuget.org/packages/SecureTool) | 1.1.1 | SenseiKiritof | Secure Console Tool |
+| 2026-10-28 11:34:30 | [Nedussa.Guidelines.Shared.v300](https://www.nuget.org/packages/Nedussa.Guidelines.Shared.v300) | 3.5.1 | Tracy Rooks and Jonathan Tayl… | Gives executable projects the guidelines that nudge the AI, from local file sto… |
+| 2026-10-28 11:37:01 | [MercadoPublico](https://www.nuget.org/packages/MercadoPublico) | 1.0.0 | Jorge Luis Saraiva Ruas | Cliente de la API pública de Mercado Público (ChileCompra): licitaciones, órden… |
+| 2026-10-28 11:46:22 | [ConsoleMonster.Templates](https://www.nuget.org/packages/ConsoleMonster.Templates) | 2.1.0 | Przemyslaw Klys | dotnet new templates for ConsoleMonster: "consolemonster" creates a console app… |
+| 2026-10-28 11:46:24 | [ConsoleMonster.PowerShell.Display](https://www.nuget.org/packages/ConsoleMonster.PowerShell.Display) | 2.1.0 | Przemyslaw Klys | Optional type-scoped, runspace-owned default display adapter for ConsoleMonster. |
+| 2026-10-28 11:46:26 | [ConsoleMonster.Markdown](https://www.nuget.org/packages/ConsoleMonster.Markdown) | 2.1.0 | Przemyslaw Klys | Markdown display and widget, frame and recording export for ConsoleMonster, pow… |
+| 2026-10-28 11:46:29 | [ConsoleMonster.Hosting](https://www.nuget.org/packages/ConsoleMonster.Hosting) | 2.1.0 | Przemyslaw Klys | A live ConsoleMonster dashboard for .NET generic host applications: services.Ad… |
+| 2026-10-28 11:46:31 | [ConsoleMonster.Graphics](https://www.nuget.org/packages/ConsoleMonster.Graphics) | 2.1.0 | Przemyslaw Klys | Portable PNG, GIF and APNG exports for ConsoleMonster, powered by ChartForgeX. |
+| 2026-10-28 11:46:35 | [ConsoleMonster.Extensions.Logging](https://www.nuget.org/packages/ConsoleMonster.Extensions.Logging) | 2.1.0 | Przemyslaw Klys | A Microsoft.Extensions.Logging provider for ConsoleMonster: log lines with Cons… |
+| 2026-10-28 11:54:26 | [Sadq.Connect](https://www.nuget.org/packages/Sadq.Connect) | 1.0.0 | Sadq | Official .NET client for the Sadq e-signature Integration API: the Invitation m… |
+| 2026-10-28 11:55:23 | [Zespy.EzPay.InvoiceEvidence](https://www.nuget.org/packages/Zespy.EzPay.InvoiceEvidence) | 1.6.0 | Zespy | Portable EZ invoice evidence profiles and offline independent verification. |
+| 2026-10-28 12:06:43 | [NebriaChip.Vault.Win](https://www.nuget.org/packages/NebriaChip.Vault.Win) | 1.0.0 | toras9000 | A wrapper for the Windows Credential Store API |
 
 ## Data source
 

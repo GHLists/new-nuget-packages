@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-28T11:20:44.09Z,Jakar.SqlBuilder,10.2.0,Tyler Stegmaier,Easy Sql Building
+2026-10-28T11:31:13.177Z,SecureTool,1.1.1,SenseiKiritof,Secure Console Tool
+2026-10-28T11:34:30.86Z,Nedussa.Guidelines.Shared.v300,3.5.1,Tracy Rooks and Jonathan Taylor,"Gives executable projects the guidelines that nudge the AI, from local file storage (Guideline/guideline-{NameSpace}.{Entity}.{Method}.{Version}.json) or from the MythSuite guideline topics through the Zeus messaging system."
+2026-10-28T11:37:01.337Z,MercadoPublico,1.0.0,Jorge Luis Saraiva Ruas,"Cliente de la API pública de Mercado Público (ChileCompra): licitaciones, órdenes de compra, convenios marco, Compra Ágil y quién compra / quién vende. Sin dependencias."
+2026-10-28T11:46:22.4Z,ConsoleMonster.Templates,2.1.0,Przemyslaw Klys,"dotnet new templates for ConsoleMonster: ""consolemonster"" creates a console app with a menu, a status report, Microsoft.Extensions.Logging through ConsoleMonster, a generic host with the live console dashboard, and native AOT publishing."
+2026-10-28T11:46:24.91Z,ConsoleMonster.PowerShell.Display,2.1.0,Przemyslaw Klys,"Optional type-scoped, runspace-owned default display adapter for ConsoleMonster."
+2026-10-28T11:46:26.983Z,ConsoleMonster.Markdown,2.1.0,Przemyslaw Klys,"Markdown display and widget, frame and recording export for ConsoleMonster, powered by OfficeIMO.Markdown."
+2026-10-28T11:46:29.19Z,ConsoleMonster.Hosting,2.1.0,Przemyslaw Klys,"A live ConsoleMonster dashboard for .NET generic host applications: services.AddConsoleDashboard() shows the hosted services' state (starting, running, stopped, failed), your own statuses and the log, and stays out of the way when the output is redirected or the app runs as a service."
+2026-10-28T11:46:31.833Z,ConsoleMonster.Graphics,2.1.0,Przemyslaw Klys,"Portable PNG, GIF and APNG exports for ConsoleMonster, powered by ChartForgeX."
+2026-10-28T11:46:35.137Z,ConsoleMonster.Extensions.Logging,2.1.0,Przemyslaw Klys,"A Microsoft.Extensions.Logging provider for ConsoleMonster: log lines with ConsoleMonster's level tags, colours and timestamps, scopes and categories, written into a running dashboard's log region when there is one and as plain lines when the output is redirected."
+2026-10-28T11:54:26.437Z,Sadq.Connect,1.0.0,Sadq,"Official .NET client for the Sadq e-signature Integration API: the Invitation model (upload, invite, remind, track, download) and the V2 Sign model (sign a document server-side and get the signed PDF back)."
+2026-10-28T11:55:23.947Z,Zespy.EzPay.InvoiceEvidence,1.6.0,Zespy,Portable EZ invoice evidence profiles and offline independent verification.
+2026-10-28T12:06:43.807Z,NebriaChip.Vault.Win,1.0.0,toras9000,A wrapper for the Windows Credential Store API
