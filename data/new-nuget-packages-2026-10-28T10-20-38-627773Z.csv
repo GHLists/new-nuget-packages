@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-10-28T09:29:40.817Z,EvolvitLabs.HaloNetCore,1.1.21,Evolvit Solutions AB,Package Description
+2026-10-28T09:29:52.457Z,Cangming.Logs,0.1.1.1028,Fangyu,仅组织内部使用。日志领域的基础实现。
+2026-10-28T09:29:54.917Z,Cangming.Logs.Contracts,0.1.1.1028,Fangyu,仅组织内部使用。日志领域的对外契约：分区掩码、日志事件与日志服务契约。
+2026-10-28T09:29:57.007Z,Cangming.Logs.NLog,0.1.1.1028,Fangyu,仅组织内部使用。当使用 NLog 作为日志基础时，提供对日志相关契约的落地实现。
+2026-10-28T09:29:58.913Z,Cangming.Logs.xUnit,0.1.1.1028,Fangyu,仅组织内部使用。为 xUnit 测试提供把 Microsoft.Extensions.Logging 日志路由到 ITestOutputHelper 的适配器。
+2026-10-28T09:30:01.477Z,Cangming.PicoPlugins,0.1.1.1028,Fangyu,仅组织内部使用。为软件实现插件管理机制的基础库。
+2026-10-28T09:30:03.893Z,Cangming.PicoPlugins.Avalonias,0.1.1.1028,Fangyu,仅组织内部使用。为桌面软件(Avalonia)实现 Avalonia 界面插件管理机制的基础库。
+2026-10-28T09:30:08.027Z,Cangming.PicoPlugins.HttpApi,0.1.1.1028,Fangyu,仅组织内部使用。为服务端宿主(HTTP)把已装载插件与 Module 能力暴露成只读端点。
+2026-10-28T09:30:10.953Z,Cangming.PicoPlugins.WPF,0.1.1.1028,Fangyu,仅组织内部使用。为桌面软件(WPF)实现界面插件管理机制的基础库。
+2026-10-28T09:30:14.19Z,Cangming.Platform,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:17.62Z,Cangming.Platform.Contracts,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:19.603Z,Cangming.Primitive,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:22.107Z,Cangming.Shell,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:30.203Z,Cangming.Shell.Contracts,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:33.357Z,Cangming.Toolkit,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:36.85Z,Cangming.Toolkit.Avalonias,0.1.1.1028,Fangyu,仅组织内部使用。Avalonia 对话框与向导基础类型。
+2026-10-28T09:30:39.18Z,Cangming.Toolkit.Avalonias.Sukis,0.1.1.1028,Fangyu,仅组织内部使用。基于 SukiUI 的对话框实现。
+2026-10-28T09:30:41.43Z,Cangming.Workspace,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:30:43.963Z,Cangming.Workspace.Contracts,0.1.1.1028,Fangyu,Cangming 客户端通用基座框架库（插件化宿主）。
+2026-10-28T09:43:20.133Z,XStatic.CloudflarePages,1.0.0-alpha,Sam Mullins,Cloudflare Pages deployer for xStatic for Umbraco. Deploy your static sites directly to Cloudflare Pages.
+2026-10-28T09:51:05.943Z,Analogy.LogViewer.Interfaces.Drawing,9.0.6,Lior Banai,Interfaces assembly for creating custom data providers for Analogy Log Viewer
+2026-10-28T09:57:43.37Z,ZeroAlloc.Rest.Anthropic,3.5.0,Marcel Roozekrans,"A typed, AOT-compatible Anthropic Messages API client for .NET, built on ZeroAlloc.Rest: messages create and stream, tools, prompt caching and usage."
+2026-10-28T09:57:44.74Z,ZeroAlloc.Rest.Ollama,3.5.0,Marcel Roozekrans,"A typed, AOT-compatible Ollama embed client for .NET, built on ZeroAlloc.Rest: POST /api/embed."

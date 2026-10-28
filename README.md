@@ -12,29 +12,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 09:20 UTC
+## Latest list — 2026-10-28 10:20 UTC
 
-New packages created between 2026-10-28 08:19 UTC and 2026-10-28 09:20 UTC.
+New packages created between 2026-10-28 09:20 UTC and 2026-10-28 10:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T09-20-07-453874Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T10-20-38-627773Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 08:22:00 | [AspNetCoreSharedServer.Middleware](https://www.nuget.org/packages/AspNetCoreSharedServer.Middleware) | 4.0.0 | simonegli8 | Middleware for ASP.NET Core applications that run behind AspNetCoreSharedServer… |
-| 2026-10-28 08:24:46 | [OpenRobot.Litegraph.Common](https://www.nuget.org/packages/OpenRobot.Litegraph.Common) | 1.0.0 | OpenRobot | Litegraph 流程引擎基础模型：图模型（节点/连线/区域）、值格式化与共享文本工具，零外部依赖。 |
-| 2026-10-28 08:25:12 | [OpenRobot.Litegraph.Cloud](https://www.nuget.org/packages/OpenRobot.Litegraph.Cloud) | 1.0.0 | OpenRobot | Litegraph 云端对接：画布拉取与备份、云端工件（画布/元数据）发布、ABP 信封解析；传输层留缝，可走 HTTP 直连或宿主自己的出网通道。 |
-| 2026-10-28 08:25:28 | [OpenRobot.Litegraph.Core](https://www.nuget.org/packages/OpenRobot.Litegraph.Core) | 1.0.0 | OpenRobot | Litegraph 流程引擎核心：画布解析与校验、图模型、46 个内置节点处理器、同步/异步通道、触发流程与主流程 tick、执行记录诊断。 |
-| 2026-10-28 08:25:45 | [OpenRobot.Litegraph.MmidSyntax](https://www.nuget.org/packages/OpenRobot.Litegraph.MmidSyntax) | 1.0.0 | OpenRobot | MMID 规则选择器的文本 ⇄ AST 解析与序列化（类 CSS 选择器语法）。纯函数、零依赖，不认任何 DC / 业务类型。 |
-| 2026-10-28 08:26:11 | [OpenRobot.Litegraph.RuleEngine](https://www.nuget.org/packages/OpenRobot.Litegraph.RuleEngine) | 1.0.0 | OpenRobot | MMID 规则引擎的模型层：规则模型、语义校验、SegmentKey 匹配与 MMID 选择器求值。不含执行器，也不含画布编译器。 |
-| 2026-10-28 08:40:48 | [Afic.Wpf](https://www.nuget.org/packages/Afic.Wpf) | 2026.10.38 | nuoyi.cc | Package Description |
-| 2026-10-28 08:44:47 | [Evergine.OpenXR.Natives.AndroidXR](https://www.nuget.org/packages/Evergine.OpenXR.Natives.AndroidXR) | 2026.10.28.3 | Evergine.OpenXR.Natives.Andro… | Provides the android native libraries of OpenXR loader for Android XR devices t… |
-| 2026-10-28 08:51:54 | [Masterly.BusinessRules.DependencyInjection](https://www.nuget.org/packages/Masterly.BusinessRules.DependencyInjection) | 3.0.0 | Ahmad Omar Al-Freihat | Microsoft.Extensions.DependencyInjection integration for Masterly.BusinessRules… |
-| 2026-10-28 08:51:57 | [Masterly.BusinessRules.Diagnostics](https://www.nuget.org/packages/Masterly.BusinessRules.Diagnostics) | 3.0.0 | Ahmad Omar Al-Freihat | Structured ILogger observer plus OpenTelemetry ActivitySource spans and Meter i… |
-| 2026-10-28 08:51:58 | [Masterly.BusinessRules.Expressions](https://www.nuget.org/packages/Masterly.BusinessRules.Expressions) | 3.0.0 | Ahmad Omar Al-Freihat | Rule expression DSL for Masterly.BusinessRules: parse a textual condition once,… |
-| 2026-10-28 08:52:00 | [Masterly.BusinessRules.FeatureManagement](https://www.nuget.org/packages/Masterly.BusinessRules.FeatureManagement) | 3.0.0 | Ahmad Omar Al-Freihat | Microsoft.FeatureManagement adapter supplying Masterly.BusinessRules feature-ga… |
-| 2026-10-28 08:52:01 | [Masterly.BusinessRules.Testing](https://www.nuget.org/packages/Masterly.BusinessRules.Testing) | 3.0.0 | Ahmad Omar Al-Freihat | Testing utilities for Masterly.BusinessRules: outcome coverage, boundary finder… |
-| 2026-10-28 08:54:34 | [CanFx.Generator](https://www.nuget.org/packages/CanFx.Generator) | 0.3.0 | Oğuzhan Can | canfxgen: CanFx çözümlerinde entity'den CRUD (CQRS) kodu üreten komut satırı ar… |
-| 2026-10-28 09:07:59 | [EntityFrameworkCore.Doris](https://www.nuget.org/packages/EntityFrameworkCore.Doris) | 1.0.0 | ymjake | Apache Doris database provider for Entity Framework Core. |
+| 2026-10-28 09:29:40 | [EvolvitLabs.HaloNetCore](https://www.nuget.org/packages/EvolvitLabs.HaloNetCore) | 1.1.21 | Evolvit Solutions AB | Package Description |
+| 2026-10-28 09:29:52 | [Cangming.Logs](https://www.nuget.org/packages/Cangming.Logs) | 0.1.1.1028 | Fangyu | 仅组织内部使用。日志领域的基础实现。 |
+| 2026-10-28 09:29:54 | [Cangming.Logs.Contracts](https://www.nuget.org/packages/Cangming.Logs.Contracts) | 0.1.1.1028 | Fangyu | 仅组织内部使用。日志领域的对外契约：分区掩码、日志事件与日志服务契约。 |
+| 2026-10-28 09:29:57 | [Cangming.Logs.NLog](https://www.nuget.org/packages/Cangming.Logs.NLog) | 0.1.1.1028 | Fangyu | 仅组织内部使用。当使用 NLog 作为日志基础时，提供对日志相关契约的落地实现。 |
+| 2026-10-28 09:29:58 | [Cangming.Logs.xUnit](https://www.nuget.org/packages/Cangming.Logs.xUnit) | 0.1.1.1028 | Fangyu | 仅组织内部使用。为 xUnit 测试提供把 Microsoft.Extensions.Logging 日志路由到 ITestOutputHelper 的适配器。 |
+| 2026-10-28 09:30:01 | [Cangming.PicoPlugins](https://www.nuget.org/packages/Cangming.PicoPlugins) | 0.1.1.1028 | Fangyu | 仅组织内部使用。为软件实现插件管理机制的基础库。 |
+| 2026-10-28 09:30:03 | [Cangming.PicoPlugins.Avalonias](https://www.nuget.org/packages/Cangming.PicoPlugins.Avalonias) | 0.1.1.1028 | Fangyu | 仅组织内部使用。为桌面软件(Avalonia)实现 Avalonia 界面插件管理机制的基础库。 |
+| 2026-10-28 09:30:08 | [Cangming.PicoPlugins.HttpApi](https://www.nuget.org/packages/Cangming.PicoPlugins.HttpApi) | 0.1.1.1028 | Fangyu | 仅组织内部使用。为服务端宿主(HTTP)把已装载插件与 Module 能力暴露成只读端点。 |
+| 2026-10-28 09:30:10 | [Cangming.PicoPlugins.WPF](https://www.nuget.org/packages/Cangming.PicoPlugins.WPF) | 0.1.1.1028 | Fangyu | 仅组织内部使用。为桌面软件(WPF)实现界面插件管理机制的基础库。 |
+| 2026-10-28 09:30:14 | [Cangming.Platform](https://www.nuget.org/packages/Cangming.Platform) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:17 | [Cangming.Platform.Contracts](https://www.nuget.org/packages/Cangming.Platform.Contracts) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:19 | [Cangming.Primitive](https://www.nuget.org/packages/Cangming.Primitive) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:22 | [Cangming.Shell](https://www.nuget.org/packages/Cangming.Shell) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:30 | [Cangming.Shell.Contracts](https://www.nuget.org/packages/Cangming.Shell.Contracts) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:33 | [Cangming.Toolkit](https://www.nuget.org/packages/Cangming.Toolkit) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:36 | [Cangming.Toolkit.Avalonias](https://www.nuget.org/packages/Cangming.Toolkit.Avalonias) | 0.1.1.1028 | Fangyu | 仅组织内部使用。Avalonia 对话框与向导基础类型。 |
+| 2026-10-28 09:30:39 | [Cangming.Toolkit.Avalonias.Sukis](https://www.nuget.org/packages/Cangming.Toolkit.Avalonias.Sukis) | 0.1.1.1028 | Fangyu | 仅组织内部使用。基于 SukiUI 的对话框实现。 |
+| 2026-10-28 09:30:41 | [Cangming.Workspace](https://www.nuget.org/packages/Cangming.Workspace) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:30:43 | [Cangming.Workspace.Contracts](https://www.nuget.org/packages/Cangming.Workspace.Contracts) | 0.1.1.1028 | Fangyu | Cangming 客户端通用基座框架库（插件化宿主）。 |
+| 2026-10-28 09:43:20 | [XStatic.CloudflarePages](https://www.nuget.org/packages/XStatic.CloudflarePages) | 1.0.0-alpha | Sam Mullins | Cloudflare Pages deployer for xStatic for Umbraco. Deploy your static sites dir… |
+| 2026-10-28 09:51:05 | [Analogy.LogViewer.Interfaces.Drawing](https://www.nuget.org/packages/Analogy.LogViewer.Interfaces.Drawing) | 9.0.6 | Lior Banai | Interfaces assembly for creating custom data providers for Analogy Log Viewer |
+| 2026-10-28 09:57:43 | [ZeroAlloc.Rest.Anthropic](https://www.nuget.org/packages/ZeroAlloc.Rest.Anthropic) | 3.5.0 | Marcel Roozekrans | A typed, AOT-compatible Anthropic Messages API client for .NET, built on ZeroAl… |
+| 2026-10-28 09:57:44 | [ZeroAlloc.Rest.Ollama](https://www.nuget.org/packages/ZeroAlloc.Rest.Ollama) | 3.5.0 | Marcel Roozekrans | A typed, AOT-compatible Ollama embed client for .NET, built on ZeroAlloc.Rest:… |
 
 ## Data source
 
