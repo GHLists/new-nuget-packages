@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-28T19:23:48.237Z,Mp4BoxKit,1.0.0,Mp4BoxKit contributors,ISO-BMFF MP4 and fragmented MP4 packaging for .NET with streaming segment delivery.
+2026-10-28T19:25:19.93Z,ZeppelinForms.Templates,0.19.0,YD359Team,"Templates of ZeppelinForms for dotnet new, Rider and Visual Studio: zf-app — an application for a desktop (Windows and Linux), a browser (WebAssembly) and Android, with a shared project of its form and pages; zf-form — a form with its controls in Form1.design.cs and its behaviour in Form1.cs; zf-fo…"
+2026-10-28T19:28:30.853Z,DevErrorAssistant,1.0.0,DevErrorAssistant Contributors,Developer-friendly ASP.NET Core exception-handling middleware supporting .NET 8 and .NET 9. Renders interactive developer diagnostics with collapsible stack traces and optional Groq AI-powered root-cause explanations and solutions.
+2026-10-28T19:34:08.53Z,ZkLink,0.1.0,Aleksandr Pavlov,A managed asynchronous .NET client for Apache ZooKeeper. Under development.
+2026-10-28T19:39:11.663Z,AstraFlow.Security,2.0.0,AstraFlow Contributors,"Shared secure DTO governance and redaction policy primitives for AstraFlow diagnostics, CLI, observability, analyzers, and integrations."
+2026-10-28T19:43:20.203Z,pengdows.crud.opentelemetry,2.0.6-rc4,Pengdows,OpenTelemetry adapter for pengdows.crud
+2026-10-28T19:43:22.173Z,pengdows.stormgate.EntityFrameworkCore,2.0.6-rc4,Pengdows,"Entity Framework Core connection admission control via a DbConnectionInterceptor, composing with AddDbContext, AddDbContextPool, and IDbContextFactory."
+2026-10-28T20:00:21.84Z,FPH.Telemetry.Common,2026.10.0,Freie Programme Hohenstein,"Gemeinsamer Spielzugriff des FPH TelemetryServers (ETS2/ATS, OMSI, TruckersMP) mit den zugehörigen Datenobjekten, für Windows und Linux."
+2026-10-28T20:11:48.647Z,IBeam.Management.Licensing,2.17.0,MedPACTech,Optional typed Management licence and seat adapters over native conditional Licensing providers.
+2026-10-28T20:11:49.703Z,IBeam.Management.Operations.Target.Api,2.17.0,MedPACTech,"Optional typed signed Management target dispatch, independent of customer Identity and native app modules."
+2026-10-28T20:11:52.99Z,IBeam.Management.TenantData.Identity,2.17.0,MedPACTech,Optional verified tenant-scoped Identity cleanup for Management purge jobs.
+2026-10-28T20:11:54.36Z,IBeam.Management.TenantData.Target.Api,2.17.0,MedPACTech,Optional scoped tenant export target API composition over signed Management dispatch.
+2026-10-28T20:11:59.033Z,IBeam.Management.TenantData.Target.Services,2.17.0,MedPACTech,Optional app-owned tenant export contracts and safe signed target adapters.
