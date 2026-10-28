@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-28T13:24:46.783Z,RaidiantAI.Analytics,0.1.0,Raidiant LLC,"Send a tool's usage to Raidiant AI from a .NET server, with a tool key."
+2026-10-28T13:28:05.72Z,GBX.NET.Builders,2.5.0,BigBang1112,Generated fluent builders that create GBX.NET nodes for a selected game version.
+2026-10-28T13:28:11.133Z,GBX.NET.CLI,0.1.0,BigBang1112,A command-line interface for inspecting and transforming Gbx files with GBX.NET.
+2026-10-28T13:41:34.37Z,erpya-local-printing-all-in-one-dotnet,2.0.0-rc,Yamel Senih,This package adds support to Fiscal Printer sing The Factory HKA and other providers
+2026-10-28T13:54:20.793Z,Xamarin.AndroidX.Camera.Viewfinder.Compose,1.6.2,Microsoft,.NET for Android and MAUI bindings for the Android Java library 'androidx.camera.viewfinder:viewfinder-compose'. Library description: Standalone Composable Viewfinder for Camera
+2026-10-28T13:54:22.417Z,Xamarin.AndroidX.Camera.Viewfinder.View,1.6.2,Microsoft,.NET for Android and MAUI bindings for the Android Java library 'androidx.camera.viewfinder:viewfinder-view'. Library description: Standalone View-based Viewfinder for Camera
+2026-10-28T13:54:54.58Z,Xamarin.AndroidX.Test.Espresso.Idling.Resource,3.7.0,Microsoft,.NET for Android and MAUI bindings for the Android Java library 'androidx.test.espresso:espresso-idling-resource'. Library description: The AndroidX Test Library provides an extensive framework for testing Android apps
+2026-10-28T13:56:38.22Z,OptimaJet.Workflow.Api.Template,23.0.0,Optimajet Limited,Creates a .NET solution that hosts the Workflow Engine HTTP API with a selected database provider and optional Designer frontend.
+2026-10-28T14:03:46.147Z,Thalos.NET.Ollama,0.20.0,Marcel Roozekrans,Ollama embedding generator for Thalos.NET.
+2026-10-28T14:08:45.097Z,Axios.Net,0.1.0,"FrenchyApps42, Sikelio","An axios-like HTTP client for .NET: Axios.Get<T>(url), Axios.Create(config), interceptors, request config merging, params and form serialization, progress, cancellation and typed errors."
+2026-10-28T14:12:07.84Z,Aspose.Medical.Dicom.Web.AspNetCore,26.10.0,Aspose,"ASP.NET Core hosting integration for Aspose.Medical DICOMweb applications, including dependency injection, endpoint routing, HTTP responses, and WebSocket notifications."
