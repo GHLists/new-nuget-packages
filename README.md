@@ -12,39 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 17:19 UTC
+## Latest list — 2026-10-28 18:20 UTC
 
-New packages created between 2026-10-28 16:21 UTC and 2026-10-28 17:19 UTC.
+New packages created between 2026-10-28 17:19 UTC and 2026-10-28 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T17-19-04-729035Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T18-20-36-953371Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 16:23:24 | [HiQPdf.Lib](https://www.nuget.org/packages/HiQPdf.Lib) | 19.0.1 | HiQPdf Software | This package is not intended for direct use. Use HiQPdf.Windows, HiQPdf.Windows… |
-| 2026-10-28 16:23:29 | [DeployItSmart](https://www.nuget.org/packages/DeployItSmart) | 0.0.2 | Maksim Shimshon | A Simple tool to help github action auto version deployment and change log gene… |
-| 2026-10-28 16:23:38 | [HiQPdf.Linux](https://www.nuget.org/packages/HiQPdf.Linux) | 19.0.1 | HiQPdf Software | HiQPdf Library for .NET (Classic API on the Next Engine, Linux x64) runs the Cl… |
-| 2026-10-28 16:23:51 | [HiQPdf.Linux.Arm64](https://www.nuget.org/packages/HiQPdf.Linux.Arm64) | 19.0.1 | HiQPdf Software | HiQPdf Library for .NET (Classic API on the Next Engine, Linux ARM64) runs the… |
-| 2026-10-28 16:24:03 | [HiQPdf.MacOS](https://www.nuget.org/packages/HiQPdf.MacOS) | 19.0.1 | HiQPdf Software | HiQPdf Library for .NET (Classic API on the Next Engine, macOS ARM64) runs the… |
-| 2026-10-28 16:24:15 | [HiQPdf.Windows](https://www.nuget.org/packages/HiQPdf.Windows) | 19.0.1 | HiQPdf Software | HiQPdf Library for .NET (Classic API on the Next Engine, Windows x64) runs the… |
-| 2026-10-28 16:24:25 | [HiQPdf.Windows.Arm64](https://www.nuget.org/packages/HiQPdf.Windows.Arm64) | 19.0.1 | HiQPdf Software | HiQPdf Library for .NET (Classic API on the Next Engine, Windows ARM64) runs th… |
-| 2026-10-28 16:27:04 | [Winnovative.HtmlToPdf.Lib](https://www.nuget.org/packages/Winnovative.HtmlToPdf.Lib) | 21.0.1 | Winnovative Software | This package is not intended for direct use. Use Winnovative.HtmlToPdf.Windows,… |
-| 2026-10-28 16:27:14 | [Winnovative.HtmlToPdf.Linux](https://www.nuget.org/packages/Winnovative.HtmlToPdf.Linux) | 21.0.1 | Winnovative Software | Winnovative HTML to PDF Library for .NET (Classic API on the Next Engine, Linux… |
-| 2026-10-28 16:27:24 | [Winnovative.HtmlToPdf.Linux.Arm64](https://www.nuget.org/packages/Winnovative.HtmlToPdf.Linux.Arm64) | 21.0.1 | Winnovative Software | Winnovative HTML to PDF Library for .NET (Classic API on the Next Engine, Linux… |
-| 2026-10-28 16:27:33 | [Winnovative.HtmlToPdf.MacOS](https://www.nuget.org/packages/Winnovative.HtmlToPdf.MacOS) | 21.0.1 | Winnovative Software | Winnovative HTML to PDF Library for .NET (Classic API on the Next Engine, macOS… |
-| 2026-10-28 16:27:43 | [Winnovative.HtmlToPdf.Windows](https://www.nuget.org/packages/Winnovative.HtmlToPdf.Windows) | 21.0.1 | Winnovative Software | Winnovative HTML to PDF Library for .NET (Classic API on the Next Engine, Windo… |
-| 2026-10-28 16:27:51 | [Winnovative.HtmlToPdf.Windows.Arm64](https://www.nuget.org/packages/Winnovative.HtmlToPdf.Windows.Arm64) | 21.0.1 | Winnovative Software | Winnovative HTML to PDF Library for .NET (Classic API on the Next Engine, Windo… |
-| 2026-10-28 16:36:20 | [RcodePlay.3DKalman](https://www.nuget.org/packages/RcodePlay.3DKalman) | 1.0.6 | RcodePlay | 3D Position prediction library using Kalman filter |
-| 2026-10-28 16:41:11 | [AkazawaYun.Db.Base](https://www.nuget.org/packages/AkazawaYun.Db.Base) | 1.0.26.1028 | AkazawaYun | AkazawaYun.Db is the Happiest Database Query Tool developed by AkazawaYun ฅ(*^▽… |
-| 2026-10-28 16:43:30 | [A2zTools.Api](https://www.nuget.org/packages/A2zTools.Api) | 1.0.0 | A2Z Tools | Free API client for website checks: SSL certificate expiry, DNS, WHOIS (RDAP),… |
-| 2026-10-28 16:44:17 | [Burli](https://www.nuget.org/packages/Burli) | 0.1.0 | Patrik Wenger | Memory-safe Brotli compression in Rust, with the API of the Brotli types of Sys… |
-| 2026-10-28 16:47:30 | [Glyphlog](https://www.nuget.org/packages/Glyphlog) | 0.1.0 | Fabiano Lunelli | One-line, emoji-tagged console logs and a startup banner for ASP.NET Core. |
-| 2026-10-28 16:49:24 | [TrafficTwin.Sdk](https://www.nuget.org/packages/TrafficTwin.Sdk) | 0.1.0 | traffic-twin contributors | traffic-twin capture SDK for .NET: sanitizes HTTP exchanges in-process and expo… |
-| 2026-10-28 16:49:25 | [TrafficTwin.Sdk.AspNetCore](https://www.nuget.org/packages/TrafficTwin.Sdk.AspNetCore) | 0.1.0 | traffic-twin contributors | ASP.NET Core integration of the traffic-twin SDK: inbound middleware, IHttpClie… |
-| 2026-10-28 16:54:49 | [Thunderstrike](https://www.nuget.org/packages/Thunderstrike) | 0.1.1 | SHORTSQUEEZE PRIVATE LIMITED | .NET client for the thunderstrike key-value database: a pool of pipelined TLS 1… |
-| 2026-10-28 16:55:50 | [Chudders22.Umbraco.SiteBuilder](https://www.nuget.org/packages/Chudders22.Umbraco.SiteBuilder) | 0.3.0 | chudders22 | Applies Site Builder schema files, tracks blocks installed from the Site Builde… |
-| 2026-10-28 16:57:44 | [Robokassa.Sdk](https://www.nuget.org/packages/Robokassa.Sdk) | 0.1.0 | Robokassa | SDK Robokassa для .NET с основным интерфейсом Invoice API |
-| 2026-10-28 17:00:57 | [bnl-dotnet](https://www.nuget.org/packages/bnl-dotnet) | 0.5.0 | Boxes'n'Lines | Local command-line tool that analyzes a C#/ASP.NET Core solution via Roslyn and… |
-| 2026-10-28 17:10:48 | [BlackwaterSoftware.CountryCatalog](https://www.nuget.org/packages/BlackwaterSoftware.CountryCatalog) | 1.0.0 | Thomas Donegan | A compiled catalogue of countries and territories with ISO 3166-1 alpha-2 and a… |
+| 2026-10-28 17:26:59 | [MASS4.Graph.Control](https://www.nuget.org/packages/MASS4.Graph.Control) | 1.0.0 | Bruno Massa | Control-flow semantics for MASS4.Graph: exec ports, deterministic ordering, ear… |
+| 2026-10-28 17:27:00 | [MASS4.Graph.State](https://www.nuget.org/packages/MASS4.Graph.State) | 1.0.0 | Bruno Massa | State-machine semantics for MASS4.Graph: cyclic states, typed triggers, guarded… |
+| 2026-10-28 17:27:01 | [MASS4.Graph.Dataflow](https://www.nuget.org/packages/MASS4.Graph.Dataflow) | 1.0.0 | Bruno Massa | Dataflow semantics for MASS4.Graph: pull evaluation, per-instance caching, acyc… |
+| 2026-10-28 17:27:02 | [MASS4.Graph](https://www.nuget.org/packages/MASS4.Graph) | 1.0.0 | Bruno Massa | Headless, domain-neutral node-graph model: stable identity, reversible commands… |
+| 2026-10-28 17:27:03 | [MASS4.Graph.Interpreter](https://www.nuget.org/packages/MASS4.Graph.Interpreter) | 1.0.0 | Bruno Massa | Reference backend for MASS4.Graph: interprets dataflow, control and state docum… |
+| 2026-10-28 17:27:04 | [MASS4.Graph.Generator](https://www.nuget.org/packages/MASS4.Graph.Generator) | 1.0.0 | Bruno Massa | Compile-time graph registration and typed builders. |
+| 2026-10-28 17:32:21 | [Soenneker.DataTables.Gen](https://www.nuget.org/packages/Soenneker.DataTables.Gen) | 11.0.1 | Jake Soenneker | Compile-time DataTables column mappings, permissions, and typed search expressi… |
+| 2026-10-28 17:43:59 | [Arendi.Bluetooth.Hci.UserChannel](https://www.nuget.org/packages/Arendi.Bluetooth.Hci.UserChannel) | 19.5.0-beta1 | Arendi | Bluetooth Low Energy HCI transport for Linux Bluetooth controllers (hci0, hci1,… |
+| 2026-10-28 17:44:01 | [Arendi.Bluetooth.BlueZ.Adapter](https://www.nuget.org/packages/Arendi.Bluetooth.BlueZ.Adapter) | 19.5.0-beta1 | Arendi | Bluetooth Low Energy Adapter for the Linux Bluetooth stack BlueZ (over D-Bus).… |
+| 2026-10-28 17:52:27 | [Uneesoft.PaymentGateway.Sdk](https://www.nuget.org/packages/Uneesoft.PaymentGateway.Sdk) | 1.0.0 | Uneesoft | Official .NET SDK client for the Uneesoft Central Payment Gateway. |
+| 2026-10-28 17:52:29 | [OpenAC.Net.Etq](https://www.nuget.org/packages/OpenAC.Net.Etq) | 1.0.0 | Projeto OpenAC .Net | Biblioteca multiplataforma para impressão de etiquetas PPLA, PPLB, EPL2, ZPL II… |
+| 2026-10-28 17:54:53 | [OctoPublisher](https://www.nuget.org/packages/OctoPublisher) | 1.0.0 | octopublish | High-performance universal multi-store publishing CLI for modern CI/CD and loca… |
+| 2026-10-28 17:55:17 | [VouchsafeClient](https://www.nuget.org/packages/VouchsafeClient) | 1.0.0 | Tuomas Hietanen | Vouchsafe identity verification API client: verifications, document checks, sma… |
+| 2026-10-28 17:57:47 | [IpScope.Sdk](https://www.nuget.org/packages/IpScope.Sdk) | 1.0.0 | IPScope Engineering | Official zero-dependency, type-safe Sync & Async .NET Server-Side SDK for the I… |
+| 2026-10-28 18:04:39 | [BancoBr.API](https://www.nuget.org/packages/BancoBr.API) | 1.0.0 | Adriano Trentim e colaborador… | Integração bancária por API para pagamentos, PIX, TED, DDA e extrato, conforme… |
+| 2026-10-28 18:04:40 | [BancoBr.CNAB](https://www.nuget.org/packages/BancoBr.CNAB) | 1.0.0 | Adriano Trentim e colaborador… | Geração de remessas e leitura de retornos bancários CNAB 240 para pagamentos e… |
+| 2026-10-28 18:04:40 | [BancoBr.Common](https://www.nuget.org/packages/BancoBr.Common) | 1.0.0 | Adriano Trentim e colaborador… | Tipos, enums e contratos compartilhados pelas integrações bancárias API e CNAB… |
 
 ## Data source
 

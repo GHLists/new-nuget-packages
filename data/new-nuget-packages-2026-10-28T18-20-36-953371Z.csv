@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-28T17:26:59.62Z,MASS4.Graph.Control,1.0.0,Bruno Massa,"Control-flow semantics for MASS4.Graph: exec ports, deterministic ordering, early-out, node memory and tick entries."
+2026-10-28T17:27:00.6Z,MASS4.Graph.State,1.0.0,Bruno Massa,"State-machine semantics for MASS4.Graph: cyclic states, typed triggers, guarded transitions and per-instance state and timers."
+2026-10-28T17:27:01.547Z,MASS4.Graph.Dataflow,1.0.0,Bruno Massa,"Dataflow semantics for MASS4.Graph: pull evaluation, per-instance caching, acyclicity, coercion and wildcard type inference."
+2026-10-28T17:27:02.517Z,MASS4.Graph,1.0.0,Bruno Massa,"Headless, domain-neutral node-graph model: stable identity, reversible commands, diagnostics, versioned persistence, blackboard and instance/evaluation contracts."
+2026-10-28T17:27:03.523Z,MASS4.Graph.Interpreter,1.0.0,Bruno Massa,"Reference backend for MASS4.Graph: interprets dataflow, control and state documents with live edit, and compares backends with a differential test harness."
+2026-10-28T17:27:04.5Z,MASS4.Graph.Generator,1.0.0,Bruno Massa,Compile-time graph registration and typed builders.
+2026-10-28T17:32:21.287Z,Soenneker.DataTables.Gen,11.0.1,Jake Soenneker,"Compile-time DataTables column mappings, permissions, and typed search expressions."
+2026-10-28T17:43:59.713Z,Arendi.Bluetooth.Hci.UserChannel,19.5.0-beta1,Arendi,"Bluetooth Low Energy HCI transport for Linux Bluetooth controllers (hci0, hci1, ...) over the kernel HCI user channel. Gives the HCI stack exclusive access to the controller, BlueZ must not use it at the same time; needs CAP_NET_ADMIN. Linux only, .NET 8 or later."
+2026-10-28T17:44:01.54Z,Arendi.Bluetooth.BlueZ.Adapter,19.5.0-beta1,Arendi,"Bluetooth Low Energy Adapter for the Linux Bluetooth stack BlueZ (over D-Bus). Linux only, .NET 8 or later."
+2026-10-28T17:52:27.38Z,Uneesoft.PaymentGateway.Sdk,1.0.0,Uneesoft,Official .NET SDK client for the Uneesoft Central Payment Gateway.
+2026-10-28T17:52:29.64Z,OpenAC.Net.Etq,1.0.0,Projeto OpenAC .Net,"Biblioteca multiplataforma para impressão de etiquetas PPLA, PPLB, EPL2, ZPL II, EscLabel e TSPL"
+2026-10-28T17:54:53.487Z,OctoPublisher,1.0.0,octopublish,High-performance universal multi-store publishing CLI for modern CI/CD and local terminals.
+2026-10-28T17:55:17.723Z,VouchsafeClient,1.0.0,Tuomas Hietanen,"Vouchsafe identity verification API client: verifications, document checks, smart lookups, alerts, adverse media and risk checks."
+2026-10-28T17:57:47.54Z,IpScope.Sdk,1.0.0,IPScope Engineering,"Official zero-dependency, type-safe Sync & Async .NET Server-Side SDK for the IPScope IP Intelligence Platform."
+2026-10-28T18:04:39.59Z,BancoBr.API,1.0.0,Adriano Trentim e colaboradores do BancoBr.NET,"Integração bancária por API para pagamentos, PIX, TED, DDA e extrato, conforme o suporte de cada instituição."
+2026-10-28T18:04:40.18Z,BancoBr.CNAB,1.0.0,Adriano Trentim e colaboradores do BancoBr.NET,Geração de remessas e leitura de retornos bancários CNAB 240 para pagamentos e transferências no BancoBr.NET.
+2026-10-28T18:04:40.753Z,BancoBr.Common,1.0.0,Adriano Trentim e colaboradores do BancoBr.NET,"Tipos, enums e contratos compartilhados pelas integrações bancárias API e CNAB 240 do BancoBr.NET."
