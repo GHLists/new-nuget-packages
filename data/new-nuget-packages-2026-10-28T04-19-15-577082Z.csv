@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-10-28T03:23:15.863Z,Ledon.Resilience,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:16.537Z,Ledon.Scheduling,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:17.2Z,Ledon.Search,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:17.853Z,Ledon.Search.Sync,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:18.593Z,Ledon.Secrets,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:19.337Z,Ledon.Security,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:20.15Z,Ledon.Security.Accounts,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:20.98Z,Ledon.Security.ApiKeys,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:21.733Z,Ledon.Security.Authorization,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:22.567Z,Ledon.Security.ExternalLogins,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:23.27Z,Ledon.Security.TokenStores,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:23.98Z,Ledon.Security.Totp,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:24.693Z,Ledon.Serilog,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:25.443Z,Ledon.Settings,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:26.3Z,Ledon.SignalR,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:26.96Z,Ledon.Sip,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:27.697Z,Ledon.Sip.Client,0.0.1,wosledon,Ledon SIP 客户端：基于 Socket 库的事务用户（重传/超时/响应匹配）。
+2026-10-28T03:23:28.483Z,Ledon.Sip.Server,0.0.1,wosledon,Ledon SIP 服务端：基于 Socket 库的 SIP over UDP/TCP 监听与应答。
+2026-10-28T03:23:29.187Z,Ledon.Sockets.Client,0.0.1,wosledon,Ledon 协议客户端：TCP/UDP 连接、断线重连、类型化收发。
+2026-10-28T03:23:29.857Z,Ledon.Sockets.Server,0.0.1,wosledon,Ledon 协议服务端：TCP/UDP 监听、连接管理、类型化分发。
+2026-10-28T03:23:30.657Z,Ledon.Streaming,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:31.37Z,Ledon.Testing,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:32.26Z,Ledon.Testing.Containers,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:32.947Z,Ledon.Transactions,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:33.667Z,Ledon.Web,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:34.34Z,Ledon.Webhooks,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:23:35.08Z,Ledon.Workflow,0.0.1,wosledon,.NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。
+2026-10-28T03:33:58.413Z,Robbiblubber.Localization,2.4.6,Alexander Lang,The robbiblubber.org Localization Library provides locale definitions and language tables for applications.
+2026-10-28T03:34:28.927Z,Robbiblubber.Localization.Controls,2.4.6,Alexander Lang,The robbiblubber.org Localization Controls Library localizes Windows Forms user interfaces.
+2026-10-28T03:45:42.12Z,Messaia.Net.MailService.Impl,10.2.0-beta02,Fouad Messaia,Mail Service Implementation
+2026-10-28T03:45:44.223Z,Messaia.Net.MailService.Impl.MailKit,10.2.0-beta02,Fouad Messaia,MailKit Mail Service Implementation
+2026-10-28T03:53:31.5Z,PDiffy.Cli,0.1.0,Zachary Fry,"The pdiffy command: compare two PDFs or snapshot files, print a PDF's snapshot, and accept received snapshots from PDiffy tests."
+2026-10-28T03:53:32.187Z,PDiffy,0.1.0,Zachary Fry,"Snapshot tests for PDFs that compare what a document says, not how its bytes are encoded: tag structure, text, alt text, reading order, tables, links, fonts, forms and layout, written as plain text that reads like a change to the document when a test fails."
+2026-10-28T04:05:04.477Z,CsvHelper.Linq,34.0.0,Josh Close,"A LINQ provider for CsvHelper: queries that read only the columns and rows they use, join with other LINQ providers, and write their results as CSV."
+2026-10-28T04:10:24.827Z,Capfa,1.1.0,foadabdollahi,Capfa؛ کتابخانه تولید و اعتبارسنجی کپچای فارسی برای دات‌نت ۱۰، ویندوز و لینوکس
