@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-28T14:26:14.97Z,ISC.FoxERP.Common,1.0.0,FPT Telecom - ISC,"Response wrapper, error code chung, exception middleware, InsideMenu traceability — dùng chung cho mọi module/service sinh từ repo-skeleton-template."
+2026-10-28T14:26:31.733Z,BlackSharp.UI.Avalonia.TreeDataGrid,1.2.6,"Blacktempel, Fidarit Mullayanov, Steven Kirk, contributors",TreeDataGrid displays hierarchical and tabular data in a single Avalonia control.
+2026-10-28T14:34:24.653Z,TransferX.Domain,3.0.0,TransferX,Domain models for the TransferX plugin SDK
+2026-10-28T14:34:25.663Z,TransferX.Provider.Abstractions,3.0.0,TransferX,Plugin abstractions for TransferX provider development. Referencing TransferX.Core fails the build.
+2026-10-28T14:34:26.683Z,TransferX.Transfer.Abstractions,3.0.0,TransferX,Plugin abstractions for TransferX transfer command development
+2026-10-28T14:36:57.91Z,DynamicDave.Umbraco.MapToRedirect,18.0.1,DynamicDave,"Turns a CSV of old and new URLs into Umbraco redirects. Can also generate the CSV from the old site's sitemap, shows a test run before anything changes, and lets you undo an import."
+2026-10-28T14:47:30.303Z,Fergi,0.1.1-alpha1,Devon Burriss,"Fergi: selectors, document operations and patches over the Fnode core. Pure and Fable-safe."
+2026-10-28T14:47:31.043Z,Fergi.Tool,0.1.1-alpha1,Devon Burriss,The fergi command line (dotnet tool): validate and run mapping files. .NET only (it references Fergi.Jsonata).
+2026-10-28T14:57:56.623Z,SA.Umbraco.MediaPreview,1.0.0,suedeapple,"Adds a Preview action to Umbraco media cards that opens the media item in a fly-out, so you can view images and play video or audio without leaving the media section."
+2026-10-28T15:07:51.437Z,OpenAC.Net.NFSe.Web,1.8.1,Projeto OpenAC .Net,"Integração da OpenAC.Net.NFSe com DI, logging e serviços do ASP.NET Core."

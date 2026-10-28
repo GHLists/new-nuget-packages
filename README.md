@@ -12,25 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 14:21 UTC
+## Latest list — 2026-10-28 15:20 UTC
 
-New packages created between 2026-10-28 13:20 UTC and 2026-10-28 14:21 UTC.
+New packages created between 2026-10-28 14:21 UTC and 2026-10-28 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T14-21-23-884061Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T15-20-16-920568Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 13:24:46 | [RaidiantAI.Analytics](https://www.nuget.org/packages/RaidiantAI.Analytics) | 0.1.0 | Raidiant LLC | Send a tool's usage to Raidiant AI from a .NET server, with a tool key. |
-| 2026-10-28 13:28:05 | [GBX.NET.Builders](https://www.nuget.org/packages/GBX.NET.Builders) | 2.5.0 | BigBang1112 | Generated fluent builders that create GBX.NET nodes for a selected game version. |
-| 2026-10-28 13:28:11 | [GBX.NET.CLI](https://www.nuget.org/packages/GBX.NET.CLI) | 0.1.0 | BigBang1112 | A command-line interface for inspecting and transforming Gbx files with GBX.NET. |
-| 2026-10-28 13:41:34 | [erpya-local-printing-all-in-one-dotnet](https://www.nuget.org/packages/erpya-local-printing-all-in-one-dotnet) | 2.0.0-rc | Yamel Senih | This package adds support to Fiscal Printer sing The Factory HKA and other prov… |
-| 2026-10-28 13:54:20 | [Xamarin.AndroidX.Camera.Viewfinder.Compose](https://www.nuget.org/packages/Xamarin.AndroidX.Camera.Viewfinder.Compose) | 1.6.2 | Microsoft | .NET for Android and MAUI bindings for the Android Java library 'androidx.camer… |
-| 2026-10-28 13:54:22 | [Xamarin.AndroidX.Camera.Viewfinder.View](https://www.nuget.org/packages/Xamarin.AndroidX.Camera.Viewfinder.View) | 1.6.2 | Microsoft | .NET for Android and MAUI bindings for the Android Java library 'androidx.camer… |
-| 2026-10-28 13:54:54 | [Xamarin.AndroidX.Test.Espresso.Idling.Resource](https://www.nuget.org/packages/Xamarin.AndroidX.Test.Espresso.Idling.Resource) | 3.7.0 | Microsoft | .NET for Android and MAUI bindings for the Android Java library 'androidx.test.… |
-| 2026-10-28 13:56:38 | [OptimaJet.Workflow.Api.Template](https://www.nuget.org/packages/OptimaJet.Workflow.Api.Template) | 23.0.0 | Optimajet Limited | Creates a .NET solution that hosts the Workflow Engine HTTP API with a selected… |
-| 2026-10-28 14:03:46 | [Thalos.NET.Ollama](https://www.nuget.org/packages/Thalos.NET.Ollama) | 0.20.0 | Marcel Roozekrans | Ollama embedding generator for Thalos.NET. |
-| 2026-10-28 14:08:45 | [Axios.Net](https://www.nuget.org/packages/Axios.Net) | 0.1.0 | FrenchyApps42, Sikelio | An axios-like HTTP client for .NET: Axios.Get<T>(url), Axios.Create(config), in… |
-| 2026-10-28 14:12:07 | [Aspose.Medical.Dicom.Web.AspNetCore](https://www.nuget.org/packages/Aspose.Medical.Dicom.Web.AspNetCore) | 26.10.0 | Aspose | ASP.NET Core hosting integration for Aspose.Medical DICOMweb applications, incl… |
+| 2026-10-28 14:26:14 | [ISC.FoxERP.Common](https://www.nuget.org/packages/ISC.FoxERP.Common) | 1.0.0 | FPT Telecom - ISC | Response wrapper, error code chung, exception middleware, InsideMenu traceabili… |
+| 2026-10-28 14:26:31 | [BlackSharp.UI.Avalonia.TreeDataGrid](https://www.nuget.org/packages/BlackSharp.UI.Avalonia.TreeDataGrid) | 1.2.6 | Blacktempel, Fidarit Mullayan… | TreeDataGrid displays hierarchical and tabular data in a single Avalonia contro… |
+| 2026-10-28 14:34:24 | [TransferX.Domain](https://www.nuget.org/packages/TransferX.Domain) | 3.0.0 | TransferX | Domain models for the TransferX plugin SDK |
+| 2026-10-28 14:34:25 | [TransferX.Provider.Abstractions](https://www.nuget.org/packages/TransferX.Provider.Abstractions) | 3.0.0 | TransferX | Plugin abstractions for TransferX provider development. Referencing TransferX.C… |
+| 2026-10-28 14:34:26 | [TransferX.Transfer.Abstractions](https://www.nuget.org/packages/TransferX.Transfer.Abstractions) | 3.0.0 | TransferX | Plugin abstractions for TransferX transfer command development |
+| 2026-10-28 14:36:57 | [DynamicDave.Umbraco.MapToRedirect](https://www.nuget.org/packages/DynamicDave.Umbraco.MapToRedirect) | 18.0.1 | DynamicDave | Turns a CSV of old and new URLs into Umbraco redirects. Can also generate the C… |
+| 2026-10-28 14:47:30 | [Fergi](https://www.nuget.org/packages/Fergi) | 0.1.1-alpha1 | Devon Burriss | Fergi: selectors, document operations and patches over the Fnode core. Pure and… |
+| 2026-10-28 14:47:31 | [Fergi.Tool](https://www.nuget.org/packages/Fergi.Tool) | 0.1.1-alpha1 | Devon Burriss | The fergi command line (dotnet tool): validate and run mapping files. .NET only… |
+| 2026-10-28 14:57:56 | [SA.Umbraco.MediaPreview](https://www.nuget.org/packages/SA.Umbraco.MediaPreview) | 1.0.0 | suedeapple | Adds a Preview action to Umbraco media cards that opens the media item in a fly… |
+| 2026-10-28 15:07:51 | [OpenAC.Net.NFSe.Web](https://www.nuget.org/packages/OpenAC.Net.NFSe.Web) | 1.8.1 | Projeto OpenAC .Net | Integração da OpenAC.Net.NFSe com DI, logging e serviços do ASP.NET Core. |
 
 ## Data source
 
