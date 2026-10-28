@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-27T23:26:54.223Z,Cronlight.Quartz.Dashboard.Mcp,0.2.0,Cronlight contributors,"An MCP server for Cronlight: lets AI assistants (Claude, Copilot, any MCP client) read your Quartz.NET jobs, runs and logs, and, if you allow it, pause, resume and run jobs, through your own ASP.NET Core app."
+2026-10-27T23:35:20.847Z,RecursiveAI.OneGame.Pages,1.6.0,"Recursive AI, LLC","Draws OneRender pages (builder trees and HTML) through the render graph, with input, host scopes and harness support."
+2026-10-27T23:39:52.903Z,Useful.TinyDB,1.0.0,pmpwsk,Cross-platform .NET library written in C# that allows you to persistently store objects in the simplest way possible.
+2026-10-27T23:46:10.87Z,Useful.TinyTUI,1.0.0,pmpwsk,Cross-platform .NET library written in C# that allows you to create simple terminal user interfaces.
+2026-10-28T00:01:17.847Z,Olve.TypeSpec,0.58.0,Oliver Vea,"Runtime for the C# minimal-API surface that @olivervea/typespec-csharp generates from a TypeSpec contract: handler and response interfaces, request validation, binding-failure answers, server-sent events"
+2026-10-28T00:03:08.86Z,Stateflows.Extensions.Json,0.22.0-beta,Stateflows,Package Description
