@@ -12,25 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 21:20 UTC
+## Latest list — 2026-10-28 22:19 UTC
 
-New packages created between 2026-10-28 20:20 UTC and 2026-10-28 21:20 UTC.
+New packages created between 2026-10-28 21:20 UTC and 2026-10-28 22:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T21-20-43-562433Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T22-19-12-720349Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 20:20:27 | [Fluxer.Net.Voice](https://www.nuget.org/packages/Fluxer.Net.Voice) | 3.9.0 | Nexfinity | Voice channel support for Fluxer.Net bots: joining voice channels and sending a… |
-| 2026-10-28 20:22:42 | [TencentCloudSDKIntlEN.Adp](https://www.nuget.org/packages/TencentCloudSDKIntlEN.Adp) | 3.0.1417 | Tencent Cloud API Team | Tencent Cloud API 3.0 SDK for .NET |
-| 2026-10-28 20:31:51 | [Messaia.Net.MailService.Abstractions](https://www.nuget.org/packages/Messaia.Net.MailService.Abstractions) | 10.2.0-beta04 | Fouad Messaia | Mail Service Abstractions |
-| 2026-10-28 20:31:56 | [Messaia.Net.MailService.Observers](https://www.nuget.org/packages/Messaia.Net.MailService.Observers) | 10.2.0-beta04 | Fouad Messaia | Mail Service Observers |
-| 2026-10-28 20:33:34 | [Lavalink4NET.Fluxer](https://www.nuget.org/packages/Lavalink4NET.Fluxer) | 0.1.1 | SylveonDeko | Lavalink4NET integration for Fluxer.Net bots, playing Lavalink audio into Fluxe… |
-| 2026-10-28 20:47:57 | [CSweet.ConnectionService.Protocol](https://www.nuget.org/packages/CSweet.ConnectionService.Protocol) | 0.3.0 | C-Sweet | Provider-neutral managed connection protocol and deployment proof client. |
-| 2026-10-28 20:58:13 | [Neph.GenericLibs.Net.HangFireLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.HangFireLib) | 0.1.0 | Neph | Generic Hangfire helpers and service registration extensions for ASP.NET Core a… |
-| 2026-10-28 20:59:22 | [zstd-c](https://www.nuget.org/packages/zstd-c) | 1.5.7 | Yann Collet, Meta Platforms,… | Zstandard, a fast lossless compression algorithm, built with vcpkg. |
-| 2026-10-28 21:01:46 | [CSweet.Plugins.Platform.YouTube](https://www.nuget.org/packages/CSweet.Plugins.Platform.YouTube) | 0.2.1 | C-Sweet | Deterministic, broker-enforced YouTube connection contracts for C-Sweet. |
-| 2026-10-28 21:12:37 | [Neph.GenericLibs.Net.RedisLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.RedisLib) | 0.1.0 | Neph | Generic Redis helpers and service registration extensions for .NET applications. |
-| 2026-10-28 21:13:06 | [Neph.GenericLibs.Net.LiveboxLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.LiveboxLib) | 0.1.0 | Neph | Generic Orange Livebox client helpers and service registration extensions for .… |
+| 2026-10-28 21:26:04 | [RecursiveAI.OneMath](https://www.nuget.org/packages/RecursiveAI.OneMath) | 1.0.0 | Recursive AI, LLC | Deterministic math for .NET: vectors, matrices, quaternions, transcendental fun… |
+| 2026-10-28 21:30:15 | [Meitaim.Decompiler](https://www.nuget.org/packages/Meitaim.Decompiler) | 1.0.0 | Meitaim | Fast IL to C# decompiler built on System.Reflection.Metadata. |
+| 2026-10-28 21:30:16 | [Meitaim.Decompiler.Tool.any](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.any) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
+| 2026-10-28 21:30:18 | [Meitaim.Decompiler.Tool.linux-arm64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.linux-arm64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
+| 2026-10-28 21:30:19 | [Meitaim.Decompiler.Tool.linux-x64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.linux-x64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
+| 2026-10-28 21:30:20 | [Meitaim.Decompiler.Tool.osx-arm64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.osx-arm64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
+| 2026-10-28 21:30:21 | [Meitaim.Decompiler.Tool.win-x64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.win-x64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
+| 2026-10-28 21:30:22 | [Meitaim.Decompiler.Tool](https://www.nuget.org/packages/Meitaim.Decompiler.Tool) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
+| 2026-10-28 21:37:59 | [wwosik.DocLibs.DocumentConversions.Svg](https://www.nuget.org/packages/wwosik.DocLibs.DocumentConversions.Svg) | 2610.28.22 | Wojciech Wosik | Converts SVG to PNG with SkiaSharp and Svg.Skia, and lets the wwosik.DocLibs do… |
+| 2026-10-28 21:39:13 | [IOKode.WireShape.OpenApi](https://www.nuget.org/packages/IOKode.WireShape.OpenApi) | 0.1.0-dev11 | IOKode | Says what a declaration becomes in an OpenAPI document. Part of WireShape: the… |
+| 2026-10-28 21:39:14 | [IOKode.WireShape.AspNetCore](https://www.nuget.org/packages/IOKode.WireShape.AspNetCore) | 0.1.0-dev11 | IOKode | Reads the calls an ASP.NET Core application serves, as a model of its API. Part… |
+| 2026-10-28 21:39:14 | [IOKode.WireShape](https://www.nuget.org/packages/IOKode.WireShape) | 0.1.0-dev11 | IOKode | Declares what a value looks like once written, and answers what a wire writes.… |
+| 2026-10-28 21:39:15 | [IOKode.WireShape.SystemTextJson](https://www.nuget.org/packages/IOKode.WireShape.SystemTextJson) | 0.1.0-dev11 | IOKode | Asks System.Text.Json what a declaration does not say: the members of a type, i… |
+| 2026-10-28 21:39:15 | [IOKode.WireShape.OpenApi.Testing](https://www.nuget.org/packages/IOKode.WireShape.OpenApi.Testing) | 0.1.0-dev11 | IOKode | Rules to run in your tests over an OpenAPI document of a wire. Part of WireShap… |
+| 2026-10-28 21:39:16 | [IOKode.WireShape.Testing](https://www.nuget.org/packages/IOKode.WireShape.Testing) | 0.1.0-dev11 | IOKode | Rules to run in your tests over what a wire is declared from. Part of WireShape… |
+| 2026-10-28 21:39:16 | [IOKode.WireShape.Swashbuckle](https://www.nuget.org/packages/IOKode.WireShape.Swashbuckle) | 0.1.0-dev11 | IOKode | Writes the declarations into the documents Swashbuckle generates. Part of WireS… |
+| 2026-10-28 21:39:17 | [IOKode.WireShape.ComponentModel](https://www.nuget.org/packages/IOKode.WireShape.ComponentModel) | 0.1.0-dev11 | IOKode | Reads a declared value out of a route or a query string, through the type conve… |
+| 2026-10-28 21:39:17 | [IOKode.WireShape.CSharpClient](https://www.nuget.org/packages/IOKode.WireShape.CSharpClient) | 0.1.0-dev11 | IOKode | Writes a C# client from the model of an API. Part of WireShape: the written for… |
+| 2026-10-28 21:40:17 | [Jevelin](https://www.nuget.org/packages/Jevelin) | 0.1.0 | Nick Proud | A simple C# client for TypeSafe AI's Jev decision model. Ask yes/no, choice and… |
+| 2026-10-28 22:06:14 | [Arendi.BleLibrary.BlueZ](https://www.nuget.org/packages/Arendi.BleLibrary.BlueZ) | 21.3.0-beta1 | Arendi | Arendi.BleLibrary extension component for Linux BlueZ based Bluetooth adapters.… |
 
 ## Data source
 
