@@ -12,20 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 00:18 UTC
+## Latest list — 2026-10-28 01:20 UTC
 
-New packages created between 2026-10-27 23:19 UTC and 2026-10-28 00:18 UTC.
+New packages created between 2026-10-28 00:18 UTC and 2026-10-28 01:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T00-18-39-077823Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T01-20-22-328154Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-27 23:26:54 | [Cronlight.Quartz.Dashboard.Mcp](https://www.nuget.org/packages/Cronlight.Quartz.Dashboard.Mcp) | 0.2.0 | Cronlight contributors | An MCP server for Cronlight: lets AI assistants (Claude, Copilot, any MCP clien… |
-| 2026-10-27 23:35:20 | [RecursiveAI.OneGame.Pages](https://www.nuget.org/packages/RecursiveAI.OneGame.Pages) | 1.6.0 | Recursive AI, LLC | Draws OneRender pages (builder trees and HTML) through the render graph, with i… |
-| 2026-10-27 23:39:52 | [Useful.TinyDB](https://www.nuget.org/packages/Useful.TinyDB) | 1.0.0 | pmpwsk | Cross-platform .NET library written in C# that allows you to persistently store… |
-| 2026-10-27 23:46:10 | [Useful.TinyTUI](https://www.nuget.org/packages/Useful.TinyTUI) | 1.0.0 | pmpwsk | Cross-platform .NET library written in C# that allows you to create simple term… |
-| 2026-10-28 00:01:17 | [Olve.TypeSpec](https://www.nuget.org/packages/Olve.TypeSpec) | 0.58.0 | Oliver Vea | Runtime for the C# minimal-API surface that @olivervea/typespec-csharp generate… |
-| 2026-10-28 00:03:08 | [Stateflows.Extensions.Json](https://www.nuget.org/packages/Stateflows.Extensions.Json) | 0.22.0-beta | Stateflows | Package Description |
+| 2026-10-28 00:32:25 | [LiteBus.Commands.Recurring](https://www.nuget.org/packages/LiteBus.Commands.Recurring) | 7.0.0 | A. Shafie | Recurring commands: a hosted loop that sends a configured command through the c… |
+| 2026-10-28 00:32:26 | [LiteBus.Commands.Recurring.Storage.PostgreSql](https://www.nuget.org/packages/LiteBus.Commands.Recurring.Storage.PostgreSql) | 7.0.0 | A. Shafie | Storage adapter and registration APIs for the LiteBus.Commands.Recurring.Storag… |
+| 2026-10-28 00:32:28 | [LiteBus.Commands.Storage.Marten](https://www.nuget.org/packages/LiteBus.Commands.Storage.Marten) | 7.0.0 | A. Shafie | Storage adapter and registration APIs for the LiteBus.Commands.Storage.Marten p… |
+| 2026-10-28 00:32:29 | [LiteBus.Commands.Storage.PostgreSql](https://www.nuget.org/packages/LiteBus.Commands.Storage.PostgreSql) | 7.0.0 | A. Shafie | Storage adapter and registration APIs for the LiteBus.Commands.Storage.PostgreS… |
+| 2026-10-28 00:33:00 | [LiteBus.Messaging.Extensions.OpenTelemetry](https://www.nuget.org/packages/LiteBus.Messaging.Extensions.OpenTelemetry) | 7.0.0 | A. Shafie | Host-framework composition APIs for the LiteBus.Messaging.Extensions.OpenTeleme… |
+| 2026-10-28 00:33:11 | [LiteBus.Outbox.Storage.Marten](https://www.nuget.org/packages/LiteBus.Outbox.Storage.Marten) | 7.0.0 | A. Shafie | Storage adapter and registration APIs for the LiteBus.Outbox.Storage.Marten pac… |
+| 2026-10-28 00:33:29 | [StdUnit.Tags.JobsTable](https://www.nuget.org/packages/StdUnit.Tags.JobsTable) | 0.1.0 | StdUnit.Tags.JobsTable | Package Description |
+| 2026-10-28 00:40:48 | [Byd.CoreExtensions.Domain.Shared](https://www.nuget.org/packages/Byd.CoreExtensions.Domain.Shared) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:40:50 | [Byd.AntiDuplicate.Middleware](https://www.nuget.org/packages/Byd.AntiDuplicate.Middleware) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:40:51 | [Byd.CoreExtensions.Domain](https://www.nuget.org/packages/Byd.CoreExtensions.Domain) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:40:53 | [Byd.CoreExtensions.Application.Contracts](https://www.nuget.org/packages/Byd.CoreExtensions.Application.Contracts) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:40:55 | [Byd.CoreExtensions.EntityFrameworkCore](https://www.nuget.org/packages/Byd.CoreExtensions.EntityFrameworkCore) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:40:57 | [Byd.CoreExtensions.Application](https://www.nuget.org/packages/Byd.CoreExtensions.Application) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:40:59 | [Byd.CoreExtensions.HttpApi](https://www.nuget.org/packages/Byd.CoreExtensions.HttpApi) | 0.3.11 | mertbyd | Byd.CoreExtensions core modul katmani. |
+| 2026-10-28 00:47:11 | [BusinessHarness](https://www.nuget.org/packages/BusinessHarness) | 0.1.0 | Jihad Khawaja | AI repository review, dynamic references, scoped MAGICore memory and optional P… |
+| 2026-10-28 00:49:21 | [Nite.Diagnostics](https://www.nuget.org/packages/Nite.Diagnostics) | 0.8.2 | Tim McQueen | Write log messages as Markdown files: a source generator turns each into a fast… |
+| 2026-10-28 01:04:13 | [YounMapper](https://www.nuget.org/packages/YounMapper) | 1.0.0 | YounMapper contributors | A small, fast, convention-based object-to-object mapping library for .NET. Mapp… |
+| 2026-10-28 01:08:07 | [Webority.Retention](https://www.nuget.org/packages/Webority.Retention) | 0.1.0 | Webority Technologies | Deletes finished work rows from a product's SQL tables once they pass their ret… |
 
 ## Data source
 

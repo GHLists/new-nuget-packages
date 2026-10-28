@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-28T00:32:25.68Z,LiteBus.Commands.Recurring,7.0.0,A. Shafie,Recurring commands: a hosted loop that sends a configured command through the command mediator on a fixed interval.
+2026-10-28T00:32:26.987Z,LiteBus.Commands.Recurring.Storage.PostgreSql,7.0.0,A. Shafie,Storage adapter and registration APIs for the LiteBus.Commands.Recurring.Storage.PostgreSql package.
+2026-10-28T00:32:28.253Z,LiteBus.Commands.Storage.Marten,7.0.0,A. Shafie,Storage adapter and registration APIs for the LiteBus.Commands.Storage.Marten package.
+2026-10-28T00:32:29.523Z,LiteBus.Commands.Storage.PostgreSql,7.0.0,A. Shafie,Storage adapter and registration APIs for the LiteBus.Commands.Storage.PostgreSql package.
+2026-10-28T00:33:00.08Z,LiteBus.Messaging.Extensions.OpenTelemetry,7.0.0,A. Shafie,Host-framework composition APIs for the LiteBus.Messaging.Extensions.OpenTelemetry package.
+2026-10-28T00:33:11.163Z,LiteBus.Outbox.Storage.Marten,7.0.0,A. Shafie,Storage adapter and registration APIs for the LiteBus.Outbox.Storage.Marten package.
+2026-10-28T00:33:29.25Z,StdUnit.Tags.JobsTable,0.1.0,StdUnit.Tags.JobsTable,Package Description
+2026-10-28T00:40:48.297Z,Byd.CoreExtensions.Domain.Shared,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:40:50.09Z,Byd.AntiDuplicate.Middleware,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:40:51.833Z,Byd.CoreExtensions.Domain,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:40:53.753Z,Byd.CoreExtensions.Application.Contracts,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:40:55.747Z,Byd.CoreExtensions.EntityFrameworkCore,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:40:57.717Z,Byd.CoreExtensions.Application,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:40:59.637Z,Byd.CoreExtensions.HttpApi,0.3.11,mertbyd,Byd.CoreExtensions core modul katmani.
+2026-10-28T00:47:11.287Z,BusinessHarness,0.1.0,Jihad Khawaja,"AI repository review, dynamic references, scoped MAGICore memory and optional PR feedback."
+2026-10-28T00:49:21.843Z,Nite.Diagnostics,0.8.2,Tim McQueen,"Write log messages as Markdown files: a source generator turns each into a fast, structured ILogger extension method, and the same files document every message."
+2026-10-28T01:04:13.933Z,YounMapper,1.0.0,YounMapper contributors,"A small, fast, convention-based object-to-object mapping library for .NET. Mapping profiles, property renames, flattening, custom type converters, and collection mapping — no DI container required."
+2026-10-28T01:08:07.873Z,Webority.Retention,0.1.0,Webority Technologies,"Deletes finished work rows from a product's SQL tables once they pass their retention window. The tables, their finished-time column and their finished statuses come from the product's storage register (.webority/data-placement.json); every column is checked against the live schema first, and every…"
