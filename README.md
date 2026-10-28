@@ -12,27 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 20:20 UTC
+## Latest list — 2026-10-28 21:20 UTC
 
-New packages created between 2026-10-28 19:19 UTC and 2026-10-28 20:20 UTC.
+New packages created between 2026-10-28 20:20 UTC and 2026-10-28 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T20-20-08-314745Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T21-20-43-562433Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 19:23:48 | [Mp4BoxKit](https://www.nuget.org/packages/Mp4BoxKit) | 1.0.0 | Mp4BoxKit contributors | ISO-BMFF MP4 and fragmented MP4 packaging for .NET with streaming segment deliv… |
-| 2026-10-28 19:25:19 | [ZeppelinForms.Templates](https://www.nuget.org/packages/ZeppelinForms.Templates) | 0.19.0 | YD359Team | Templates of ZeppelinForms for dotnet new, Rider and Visual Studio: zf-app — an… |
-| 2026-10-28 19:28:30 | [DevErrorAssistant](https://www.nuget.org/packages/DevErrorAssistant) | 1.0.0 | DevErrorAssistant Contributors | Developer-friendly ASP.NET Core exception-handling middleware supporting .NET 8… |
-| 2026-10-28 19:34:08 | [ZkLink](https://www.nuget.org/packages/ZkLink) | 0.1.0 | Aleksandr Pavlov | A managed asynchronous .NET client for Apache ZooKeeper. Under development. |
-| 2026-10-28 19:39:11 | [AstraFlow.Security](https://www.nuget.org/packages/AstraFlow.Security) | 2.0.0 | AstraFlow Contributors | Shared secure DTO governance and redaction policy primitives for AstraFlow diag… |
-| 2026-10-28 19:43:20 | [pengdows.crud.opentelemetry](https://www.nuget.org/packages/pengdows.crud.opentelemetry) | 2.0.6-rc4 | Pengdows | OpenTelemetry adapter for pengdows.crud |
-| 2026-10-28 19:43:22 | [pengdows.stormgate.EntityFrameworkCore](https://www.nuget.org/packages/pengdows.stormgate.EntityFrameworkCore) | 2.0.6-rc4 | Pengdows | Entity Framework Core connection admission control via a DbConnectionIntercepto… |
-| 2026-10-28 20:00:21 | [FPH.Telemetry.Common](https://www.nuget.org/packages/FPH.Telemetry.Common) | 2026.10.0 | Freie Programme Hohenstein | Gemeinsamer Spielzugriff des FPH TelemetryServers (ETS2/ATS, OMSI, TruckersMP)… |
-| 2026-10-28 20:11:48 | [IBeam.Management.Licensing](https://www.nuget.org/packages/IBeam.Management.Licensing) | 2.17.0 | MedPACTech | Optional typed Management licence and seat adapters over native conditional Lic… |
-| 2026-10-28 20:11:49 | [IBeam.Management.Operations.Target.Api](https://www.nuget.org/packages/IBeam.Management.Operations.Target.Api) | 2.17.0 | MedPACTech | Optional typed signed Management target dispatch, independent of customer Ident… |
-| 2026-10-28 20:11:52 | [IBeam.Management.TenantData.Identity](https://www.nuget.org/packages/IBeam.Management.TenantData.Identity) | 2.17.0 | MedPACTech | Optional verified tenant-scoped Identity cleanup for Management purge jobs. |
-| 2026-10-28 20:11:54 | [IBeam.Management.TenantData.Target.Api](https://www.nuget.org/packages/IBeam.Management.TenantData.Target.Api) | 2.17.0 | MedPACTech | Optional scoped tenant export target API composition over signed Management dis… |
-| 2026-10-28 20:11:59 | [IBeam.Management.TenantData.Target.Services](https://www.nuget.org/packages/IBeam.Management.TenantData.Target.Services) | 2.17.0 | MedPACTech | Optional app-owned tenant export contracts and safe signed target adapters. |
+| 2026-10-28 20:20:27 | [Fluxer.Net.Voice](https://www.nuget.org/packages/Fluxer.Net.Voice) | 3.9.0 | Nexfinity | Voice channel support for Fluxer.Net bots: joining voice channels and sending a… |
+| 2026-10-28 20:22:42 | [TencentCloudSDKIntlEN.Adp](https://www.nuget.org/packages/TencentCloudSDKIntlEN.Adp) | 3.0.1417 | Tencent Cloud API Team | Tencent Cloud API 3.0 SDK for .NET |
+| 2026-10-28 20:31:51 | [Messaia.Net.MailService.Abstractions](https://www.nuget.org/packages/Messaia.Net.MailService.Abstractions) | 10.2.0-beta04 | Fouad Messaia | Mail Service Abstractions |
+| 2026-10-28 20:31:56 | [Messaia.Net.MailService.Observers](https://www.nuget.org/packages/Messaia.Net.MailService.Observers) | 10.2.0-beta04 | Fouad Messaia | Mail Service Observers |
+| 2026-10-28 20:33:34 | [Lavalink4NET.Fluxer](https://www.nuget.org/packages/Lavalink4NET.Fluxer) | 0.1.1 | SylveonDeko | Lavalink4NET integration for Fluxer.Net bots, playing Lavalink audio into Fluxe… |
+| 2026-10-28 20:47:57 | [CSweet.ConnectionService.Protocol](https://www.nuget.org/packages/CSweet.ConnectionService.Protocol) | 0.3.0 | C-Sweet | Provider-neutral managed connection protocol and deployment proof client. |
+| 2026-10-28 20:58:13 | [Neph.GenericLibs.Net.HangFireLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.HangFireLib) | 0.1.0 | Neph | Generic Hangfire helpers and service registration extensions for ASP.NET Core a… |
+| 2026-10-28 20:59:22 | [zstd-c](https://www.nuget.org/packages/zstd-c) | 1.5.7 | Yann Collet, Meta Platforms,… | Zstandard, a fast lossless compression algorithm, built with vcpkg. |
+| 2026-10-28 21:01:46 | [CSweet.Plugins.Platform.YouTube](https://www.nuget.org/packages/CSweet.Plugins.Platform.YouTube) | 0.2.1 | C-Sweet | Deterministic, broker-enforced YouTube connection contracts for C-Sweet. |
+| 2026-10-28 21:12:37 | [Neph.GenericLibs.Net.RedisLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.RedisLib) | 0.1.0 | Neph | Generic Redis helpers and service registration extensions for .NET applications. |
+| 2026-10-28 21:13:06 | [Neph.GenericLibs.Net.LiveboxLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.LiveboxLib) | 0.1.0 | Neph | Generic Orange Livebox client helpers and service registration extensions for .… |
 
 ## Data source
 

@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-28T20:20:27.66Z,Fluxer.Net.Voice,3.9.0,Nexfinity,Voice channel support for Fluxer.Net bots: joining voice channels and sending audio.
+2026-10-28T20:22:42.69Z,TencentCloudSDKIntlEN.Adp,3.0.1417,Tencent Cloud API Team,Tencent Cloud API 3.0 SDK for .NET
+2026-10-28T20:31:51.107Z,Messaia.Net.MailService.Abstractions,10.2.0-beta04,Fouad Messaia,Mail Service Abstractions
+2026-10-28T20:31:56.64Z,Messaia.Net.MailService.Observers,10.2.0-beta04,Fouad Messaia,Mail Service Observers
+2026-10-28T20:33:34.683Z,Lavalink4NET.Fluxer,0.1.1,SylveonDeko,"Lavalink4NET integration for Fluxer.Net bots, playing Lavalink audio into Fluxer voice channels."
+2026-10-28T20:47:57.027Z,CSweet.ConnectionService.Protocol,0.3.0,C-Sweet,Provider-neutral managed connection protocol and deployment proof client.
+2026-10-28T20:58:13.93Z,Neph.GenericLibs.Net.HangFireLib,0.1.0,Neph,Generic Hangfire helpers and service registration extensions for ASP.NET Core applications.
+2026-10-28T20:59:22.577Z,zstd-c,1.5.7,"Yann Collet, Meta Platforms, Inc.","Zstandard, a fast lossless compression algorithm, built with vcpkg."
+2026-10-28T21:01:46.383Z,CSweet.Plugins.Platform.YouTube,0.2.1,C-Sweet,"Deterministic, broker-enforced YouTube connection contracts for C-Sweet."
+2026-10-28T21:12:37.12Z,Neph.GenericLibs.Net.RedisLib,0.1.0,Neph,Generic Redis helpers and service registration extensions for .NET applications.
+2026-10-28T21:13:06.21Z,Neph.GenericLibs.Net.LiveboxLib,0.1.0,Neph,Generic Orange Livebox client helpers and service registration extensions for .NET applications.
