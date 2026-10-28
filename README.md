@@ -12,27 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:19 UTC
+## Latest list — 2026-10-28 09:20 UTC
 
-New packages created between 2026-10-28 07:19 UTC and 2026-10-28 08:19 UTC.
+New packages created between 2026-10-28 08:19 UTC and 2026-10-28 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T08-19-46-619577Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T09-20-07-453874Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 07:22:43 | [FFmpeg.Interop.Native.linux-x64](https://www.nuget.org/packages/FFmpeg.Interop.Native.linux-x64) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for linux-x64, the build FFmpeg.Interop is generated… |
-| 2026-10-28 07:22:45 | [FFmpeg.Interop.Native.osx-x64](https://www.nuget.org/packages/FFmpeg.Interop.Native.osx-x64) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for osx-x64, the build FFmpeg.Interop is generated fr… |
-| 2026-10-28 07:22:47 | [FFmpeg.Interop.Native.win-x64](https://www.nuget.org/packages/FFmpeg.Interop.Native.win-x64) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for win-x64, the build FFmpeg.Interop is generated fr… |
-| 2026-10-28 07:22:48 | [FFmpeg.Interop.Native.win-arm64](https://www.nuget.org/packages/FFmpeg.Interop.Native.win-arm64) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for win-arm64, the build FFmpeg.Interop is generated… |
-| 2026-10-28 07:22:48 | [FFmpeg.Interop.Native](https://www.nuget.org/packages/FFmpeg.Interop.Native) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for every runtime FFmpeg.Interop supports, the build… |
-| 2026-10-28 07:22:51 | [FFmpeg.Interop.Native.linux-arm64](https://www.nuget.org/packages/FFmpeg.Interop.Native.linux-arm64) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for linux-arm64, the build FFmpeg.Interop is generate… |
-| 2026-10-28 07:22:54 | [FFmpeg.Interop.Native.osx-arm64](https://www.nuget.org/packages/FFmpeg.Interop.Native.osx-arm64) | 0.2.0-dev1 | Agash | FFmpeg 9 shared libraries for osx-arm64, the build FFmpeg.Interop is generated… |
-| 2026-10-28 07:33:27 | [Lavshyak.MimeMaster](https://www.nuget.org/packages/Lavshyak.MimeMaster) | 0.0.0-master-4f8a6b8 | Tobias Lie-Atjam | A fast, accurate .NET library for MIME type detection and file validation using… |
-| 2026-10-28 07:35:07 | [Zhai.HikCamera](https://www.nuget.org/packages/Zhai.HikCamera) | 1.0.0 | SPA | 海康 GigE/USB 工业相机设备、参数与回调取图核心库，支持 Windows 和 Linux。 |
-| 2026-10-28 07:53:38 | [Didyk.RepairServiceCenter.Common](https://www.nuget.org/packages/Didyk.RepairServiceCenter.Common) | 1.0.0 | Maksym Didyk | Small helpers without dependencies on a domain: display names of enumerations,… |
-| 2026-10-28 07:58:52 | [LibOpus.Interop](https://www.nuget.org/packages/LibOpus.Interop) | 0.1.0-dev3 | Agash | .NET bindings for libopus 1.6: an Opus encoder and decoder with every control t… |
-| 2026-10-28 08:03:14 | [OODD.Timer](https://www.nuget.org/packages/OODD.Timer) | 0.0.1-preview18 | OODD | 跨平台的亚微秒级高精度定时器库：以单调时钟 + 自旋等待替代系统时钟节拍，摆脱 10~15ms 的定时器粒度。 |
-| 2026-10-28 08:09:13 | [cxdbg](https://www.nuget.org/packages/cxdbg) | 2.10.1 | Nikolaos Protopapas | Attach to a running SharpConsoleUI application over its diagnostics socket and… |
+| 2026-10-28 08:22:00 | [AspNetCoreSharedServer.Middleware](https://www.nuget.org/packages/AspNetCoreSharedServer.Middleware) | 4.0.0 | simonegli8 | Middleware for ASP.NET Core applications that run behind AspNetCoreSharedServer… |
+| 2026-10-28 08:24:46 | [OpenRobot.Litegraph.Common](https://www.nuget.org/packages/OpenRobot.Litegraph.Common) | 1.0.0 | OpenRobot | Litegraph 流程引擎基础模型：图模型（节点/连线/区域）、值格式化与共享文本工具，零外部依赖。 |
+| 2026-10-28 08:25:12 | [OpenRobot.Litegraph.Cloud](https://www.nuget.org/packages/OpenRobot.Litegraph.Cloud) | 1.0.0 | OpenRobot | Litegraph 云端对接：画布拉取与备份、云端工件（画布/元数据）发布、ABP 信封解析；传输层留缝，可走 HTTP 直连或宿主自己的出网通道。 |
+| 2026-10-28 08:25:28 | [OpenRobot.Litegraph.Core](https://www.nuget.org/packages/OpenRobot.Litegraph.Core) | 1.0.0 | OpenRobot | Litegraph 流程引擎核心：画布解析与校验、图模型、46 个内置节点处理器、同步/异步通道、触发流程与主流程 tick、执行记录诊断。 |
+| 2026-10-28 08:25:45 | [OpenRobot.Litegraph.MmidSyntax](https://www.nuget.org/packages/OpenRobot.Litegraph.MmidSyntax) | 1.0.0 | OpenRobot | MMID 规则选择器的文本 ⇄ AST 解析与序列化（类 CSS 选择器语法）。纯函数、零依赖，不认任何 DC / 业务类型。 |
+| 2026-10-28 08:26:11 | [OpenRobot.Litegraph.RuleEngine](https://www.nuget.org/packages/OpenRobot.Litegraph.RuleEngine) | 1.0.0 | OpenRobot | MMID 规则引擎的模型层：规则模型、语义校验、SegmentKey 匹配与 MMID 选择器求值。不含执行器，也不含画布编译器。 |
+| 2026-10-28 08:40:48 | [Afic.Wpf](https://www.nuget.org/packages/Afic.Wpf) | 2026.10.38 | nuoyi.cc | Package Description |
+| 2026-10-28 08:44:47 | [Evergine.OpenXR.Natives.AndroidXR](https://www.nuget.org/packages/Evergine.OpenXR.Natives.AndroidXR) | 2026.10.28.3 | Evergine.OpenXR.Natives.Andro… | Provides the android native libraries of OpenXR loader for Android XR devices t… |
+| 2026-10-28 08:51:54 | [Masterly.BusinessRules.DependencyInjection](https://www.nuget.org/packages/Masterly.BusinessRules.DependencyInjection) | 3.0.0 | Ahmad Omar Al-Freihat | Microsoft.Extensions.DependencyInjection integration for Masterly.BusinessRules… |
+| 2026-10-28 08:51:57 | [Masterly.BusinessRules.Diagnostics](https://www.nuget.org/packages/Masterly.BusinessRules.Diagnostics) | 3.0.0 | Ahmad Omar Al-Freihat | Structured ILogger observer plus OpenTelemetry ActivitySource spans and Meter i… |
+| 2026-10-28 08:51:58 | [Masterly.BusinessRules.Expressions](https://www.nuget.org/packages/Masterly.BusinessRules.Expressions) | 3.0.0 | Ahmad Omar Al-Freihat | Rule expression DSL for Masterly.BusinessRules: parse a textual condition once,… |
+| 2026-10-28 08:52:00 | [Masterly.BusinessRules.FeatureManagement](https://www.nuget.org/packages/Masterly.BusinessRules.FeatureManagement) | 3.0.0 | Ahmad Omar Al-Freihat | Microsoft.FeatureManagement adapter supplying Masterly.BusinessRules feature-ga… |
+| 2026-10-28 08:52:01 | [Masterly.BusinessRules.Testing](https://www.nuget.org/packages/Masterly.BusinessRules.Testing) | 3.0.0 | Ahmad Omar Al-Freihat | Testing utilities for Masterly.BusinessRules: outcome coverage, boundary finder… |
+| 2026-10-28 08:54:34 | [CanFx.Generator](https://www.nuget.org/packages/CanFx.Generator) | 0.3.0 | Oğuzhan Can | canfxgen: CanFx çözümlerinde entity'den CRUD (CQRS) kodu üreten komut satırı ar… |
+| 2026-10-28 09:07:59 | [EntityFrameworkCore.Doris](https://www.nuget.org/packages/EntityFrameworkCore.Doris) | 1.0.0 | ymjake | Apache Doris database provider for Entity Framework Core. |
 
 ## Data source
 
