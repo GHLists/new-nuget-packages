@@ -12,34 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 22:19 UTC
+## Latest list — 2026-10-28 23:20 UTC
 
-New packages created between 2026-10-28 21:20 UTC and 2026-10-28 22:19 UTC.
+New packages created between 2026-10-28 22:19 UTC and 2026-10-28 23:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T22-19-12-720349Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T23-20-17-726897Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 21:26:04 | [RecursiveAI.OneMath](https://www.nuget.org/packages/RecursiveAI.OneMath) | 1.0.0 | Recursive AI, LLC | Deterministic math for .NET: vectors, matrices, quaternions, transcendental fun… |
-| 2026-10-28 21:30:15 | [Meitaim.Decompiler](https://www.nuget.org/packages/Meitaim.Decompiler) | 1.0.0 | Meitaim | Fast IL to C# decompiler built on System.Reflection.Metadata. |
-| 2026-10-28 21:30:16 | [Meitaim.Decompiler.Tool.any](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.any) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
-| 2026-10-28 21:30:18 | [Meitaim.Decompiler.Tool.linux-arm64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.linux-arm64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
-| 2026-10-28 21:30:19 | [Meitaim.Decompiler.Tool.linux-x64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.linux-x64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
-| 2026-10-28 21:30:20 | [Meitaim.Decompiler.Tool.osx-arm64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.osx-arm64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
-| 2026-10-28 21:30:21 | [Meitaim.Decompiler.Tool.win-x64](https://www.nuget.org/packages/Meitaim.Decompiler.Tool.win-x64) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
-| 2026-10-28 21:30:22 | [Meitaim.Decompiler.Tool](https://www.nuget.org/packages/Meitaim.Decompiler.Tool) | 1.0.0 | Meitaim | Command line IL to C# decompiler. Installs the dotnet decompile command. |
-| 2026-10-28 21:37:59 | [wwosik.DocLibs.DocumentConversions.Svg](https://www.nuget.org/packages/wwosik.DocLibs.DocumentConversions.Svg) | 2610.28.22 | Wojciech Wosik | Converts SVG to PNG with SkiaSharp and Svg.Skia, and lets the wwosik.DocLibs do… |
-| 2026-10-28 21:39:13 | [IOKode.WireShape.OpenApi](https://www.nuget.org/packages/IOKode.WireShape.OpenApi) | 0.1.0-dev11 | IOKode | Says what a declaration becomes in an OpenAPI document. Part of WireShape: the… |
-| 2026-10-28 21:39:14 | [IOKode.WireShape.AspNetCore](https://www.nuget.org/packages/IOKode.WireShape.AspNetCore) | 0.1.0-dev11 | IOKode | Reads the calls an ASP.NET Core application serves, as a model of its API. Part… |
-| 2026-10-28 21:39:14 | [IOKode.WireShape](https://www.nuget.org/packages/IOKode.WireShape) | 0.1.0-dev11 | IOKode | Declares what a value looks like once written, and answers what a wire writes.… |
-| 2026-10-28 21:39:15 | [IOKode.WireShape.SystemTextJson](https://www.nuget.org/packages/IOKode.WireShape.SystemTextJson) | 0.1.0-dev11 | IOKode | Asks System.Text.Json what a declaration does not say: the members of a type, i… |
-| 2026-10-28 21:39:15 | [IOKode.WireShape.OpenApi.Testing](https://www.nuget.org/packages/IOKode.WireShape.OpenApi.Testing) | 0.1.0-dev11 | IOKode | Rules to run in your tests over an OpenAPI document of a wire. Part of WireShap… |
-| 2026-10-28 21:39:16 | [IOKode.WireShape.Testing](https://www.nuget.org/packages/IOKode.WireShape.Testing) | 0.1.0-dev11 | IOKode | Rules to run in your tests over what a wire is declared from. Part of WireShape… |
-| 2026-10-28 21:39:16 | [IOKode.WireShape.Swashbuckle](https://www.nuget.org/packages/IOKode.WireShape.Swashbuckle) | 0.1.0-dev11 | IOKode | Writes the declarations into the documents Swashbuckle generates. Part of WireS… |
-| 2026-10-28 21:39:17 | [IOKode.WireShape.ComponentModel](https://www.nuget.org/packages/IOKode.WireShape.ComponentModel) | 0.1.0-dev11 | IOKode | Reads a declared value out of a route or a query string, through the type conve… |
-| 2026-10-28 21:39:17 | [IOKode.WireShape.CSharpClient](https://www.nuget.org/packages/IOKode.WireShape.CSharpClient) | 0.1.0-dev11 | IOKode | Writes a C# client from the model of an API. Part of WireShape: the written for… |
-| 2026-10-28 21:40:17 | [Jevelin](https://www.nuget.org/packages/Jevelin) | 0.1.0 | Nick Proud | A simple C# client for TypeSafe AI's Jev decision model. Ask yes/no, choice and… |
-| 2026-10-28 22:06:14 | [Arendi.BleLibrary.BlueZ](https://www.nuget.org/packages/Arendi.BleLibrary.BlueZ) | 21.3.0-beta1 | Arendi | Arendi.BleLibrary extension component for Linux BlueZ based Bluetooth adapters.… |
+| 2026-10-28 22:33:59 | [Maplibre.NativeFfi.Runtime.Metal](https://www.nuget.org/packages/Maplibre.NativeFfi.Runtime.Metal) | 0.202610.3 | MapLibre | Metal native runtime assets for MapLibre Native .NET. |
+| 2026-10-28 22:34:00 | [Maplibre.NativeFfi](https://www.nuget.org/packages/Maplibre.NativeFfi) | 0.202610.3 | MapLibre | Low-level .NET bindings for the MapLibre Native C API. |
+| 2026-10-28 22:34:03 | [Maplibre.NativeFfi.Runtime.Vulkan](https://www.nuget.org/packages/Maplibre.NativeFfi.Runtime.Vulkan) | 0.202610.3 | MapLibre | Vulkan native runtime assets for MapLibre Native .NET. |
+| 2026-10-28 22:34:05 | [Maplibre.NativeFfi.Runtime.OpenGL](https://www.nuget.org/packages/Maplibre.NativeFfi.Runtime.OpenGL) | 0.202610.3 | MapLibre | OpenGL native runtime assets for MapLibre Native .NET. |
+| 2026-10-28 23:07:26 | [Gravicode.OfficeNet.Mcp](https://www.nuget.org/packages/Gravicode.OfficeNet.Mcp) | 2.0.0 | Gravicode Studios | An MCP server that lets AI assistants create, edit, convert and preview Word, E… |
+| 2026-10-28 23:07:58 | [OneLobby.Core](https://www.nuget.org/packages/OneLobby.Core) | 0.6.0 | OneLobby contributors | Engine-agnostic OneLobby client: lobbies, lockstep, voice and text chat. |
+| 2026-10-28 23:07:59 | [OneLobby.Replication](https://www.nuget.org/packages/OneLobby.Replication) | 0.6.0 | OneLobby contributors | Engine-agnostic host-authoritative state replication over a OneLobby raw-mode l… |
+| 2026-10-28 23:07:59 | [OneLobby.Direct](https://www.nuget.org/packages/OneLobby.Direct) | 0.6.0 | OneLobby contributors | Host and join OneLobby lobbies by IP address: the host's game runs the signalin… |
+| 2026-10-28 23:08:00 | [OneLobby.Hub](https://www.nuget.org/packages/OneLobby.Hub) | 0.6.0 | OneLobby contributors | OneLobby signaling hub (protocol lk1): lobbies, join codes, signaling relay. Us… |
+| 2026-10-28 23:08:00 | [OneLobby.Godot](https://www.nuget.org/packages/OneLobby.Godot) | 0.6.0 | OneLobby contributors | Godot 4 transport (WebRTC data channels, WebSocket), microphone capture and pla… |
+| 2026-10-28 23:08:01 | [OneLobby.DataChannel](https://www.nuget.org/packages/OneLobby.DataChannel) | 0.6.0 | OneLobby contributors | Engine-agnostic ITransport for OneLobby over libdatachannel (WebRTC data channe… |
+| 2026-10-28 23:08:01 | [OneLobby.Opus](https://www.nuget.org/packages/OneLobby.Opus) | 0.6.0 | OneLobby contributors | IVoiceCodec for OneLobby using Concentus, a managed Opus port (BSD-3-Clause). |
 
 ## Data source
 
