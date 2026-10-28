@@ -1,0 +1,50 @@
+created_at,package,version,authors,description
+2026-10-28T15:20:22.61Z,IOFlux.Client,0.1.0,IOFlux.Client,First-party .NET publishing and administration client for IO Flux.
+2026-10-28T15:20:51.87Z,IOFlux.Consumer,0.1.0,IOFlux.Consumer,First-party .NET consumer SDK for IO Flux.
+2026-10-28T15:23:21.937Z,ReadyM.SDK.Common,1.0.0,ReadyCode Limited,"The game-agnostic shared types of the ReadyM SDK: attributes, ECS, RPC contracts and the source generator. Games build their own SDK packages on top of it; a mod references its game's package rather than this one."
+2026-10-28T15:23:30.07Z,ReadyM.SDK.Client,1.0.0,ReadyCode Limited,"The game-agnostic client half of the ReadyM SDK: entities, services, input, the relay client and the mod loader. Games build their own client SDK packages on top of it; a mod references its game's package rather than this one."
+2026-10-28T15:23:35.2Z,Switchknife.Facts,0.1.0,Yehor Hrabovskyi,"Bi-temporal facts in your own PostgreSQL that can explain themselves: immutable rows with a valid time and a transaction time, cardinality-typed predicates, retraction, purge of a source by replay, ExplainAsync for why a fact is believed, full-text and vector search fused by reciprocal rank, and a…"
+2026-10-28T15:23:40.67Z,ReadyM.SDK.Server,1.0.0,ReadyCode Limited,"The game-agnostic server half of the ReadyM SDK, hosted by the ReadyM relay server. Games build their own server SDK packages on top of it; a mod references its game's package rather than this one."
+2026-10-28T15:23:52.513Z,ReadyM.SDK.Oblivion.Common,1.0.0,ReadyCode Limited,"Shared types for OblivionMP mods: archetypes, ECS components and values for Oblivion, on top of the ReadyM SDK's attributes, RPC contracts and source generator. Referenced by a mod's common project, and by both the client and server OblivionMP SDK packages."
+2026-10-28T15:24:07.187Z,ReadyM.SDK.Oblivion.Client,1.0.0,ReadyCode Limited,SDK for the in-game half of an OblivionMP mod. Includes the game-side mod and the CEF web UI with its page RPC generator.
+2026-10-28T15:24:14.343Z,ReadyM.SDK.Oblivion.Server,1.0.0,ReadyCode Limited,"SDK for the server-side half of an OblivionMP mod, hosted by the ReadyM relay server."
+2026-10-28T15:24:23.68Z,ReadyM.Oblivion.Quests.Server,1.0.0,ReadyCode Limited,"The server API of the OblivionMP quests mod: author quests, stages and objectives that every player shares. For a server mod that lists the quests mod as a dependency."
+2026-10-28T15:24:33.417Z,ReadyM.Oblivion.Chat.Server,1.0.0,ReadyCode Limited,"The server API of the OblivionMP chat mod: broadcast, send to one player, add slash commands. For a server mod that lists the chat mod as a dependency."
+2026-10-28T15:24:39.283Z,ReadyM.Oblivion.Chat.Client,1.0.0,ReadyCode Limited,"The client API of the OblivionMP chat mod: show local lines, send as the player, open and close the overlay. For a client mod that lists the chat mod as a dependency."
+2026-10-28T15:25:02.427Z,WindowsClickAndWriteMCP,1.0.8,puneethdc99,Windows Click & Write MCP Server — local MCP server that allows AI agents to click any UI element and type into any input field on Windows
+2026-10-28T15:27:37.9Z,Umbraco.Community.SchemeWeaver.Seo,18.15.0,Oliver Picton,"SchemeWeaver SEO: a Yoast-style structured data section for the Umbraco backoffice. SEOs and editors choose from a curated set of Google-recognised content kinds, set the site identity and fix individual pages, without touching document types or code. Requires Umbraco.Community.SchemeWeaver."
+2026-10-28T15:31:52.107Z,MAFUtils.ToolResults,0.7.0,Dean Chalk,Keeps oversized Microsoft.Extensions.AI tool results out of the model context: stores them in a session store and returns a bounded preview with read and search tools.
+2026-10-28T15:32:18.87Z,Byd.FileManagement.Domain.Shared,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:32:20.42Z,Byd.FileManagement.Domain,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:32:22.713Z,Byd.FileManagement.Application.Contracts,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:32:24.383Z,Byd.FileManagement.EntityFrameworkCore,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:32:25.963Z,Byd.FileManagement.Application,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:32:28.27Z,Byd.FileManagement.HttpApi,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:32:29.803Z,Byd.FileManagement.HttpApi.Client,0.1.4,mertbyd,Byd.FileManagement file modul katmani.
+2026-10-28T15:37:09.977Z,Byd.LogManagement.Domain.Shared,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:11.593Z,Byd.LogManagement.Domain,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:13.273Z,Byd.LogManagement.Application.Contracts,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:15.063Z,Byd.LogManagement.EntityFrameworkCore,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:16.66Z,Byd.LogManagement.Application,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:18.347Z,Byd.LogManagement.HttpApi,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:19.85Z,Byd.LogManagement.HttpApi.Client,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:37:21.387Z,Byd.LogManagement.Collector,0.1.6,mertbyd,Byd.LogManagement log modul katmani.
+2026-10-28T15:39:20.43Z,Byd.AuthManagement.Domain.Shared,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:39:22.247Z,Byd.AuthManagement.Domain,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:39:23.87Z,Byd.AuthManagement.Application.Contracts,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:39:29.677Z,Byd.AuthManagement.EntityFrameworkCore,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:39:31.443Z,Byd.AuthManagement.Application,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:39:33.53Z,Byd.AuthManagement.HttpApi,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:39:35.053Z,Byd.AuthManagement.HttpApi.Client,0.1.9,mertbyd,Byd.AuthManagement kimlik ve yetkilendirme modul katmani.
+2026-10-28T15:41:24.657Z,Rkd.Scalar.Abstractions,2.10.0,Rodrigo Kmiecik,"Contracts of Rkd.Scalar for the layers that implement them without ASP.NET Core (Infrastructure, Application): ICredentialValidator, CredentialValidationResult, IJwtTokenService, IJwtSigner, IJwtSigningKeyResolver, RkdPem, IHttpLogSink and HttpLogEntry. The same types used by Rkd.Scalar, so the API…"
+2026-10-28T15:41:25.47Z,Rkd.Scalar.Errors,2.10.0,Rodrigo Kmiecik,"Errors of Rkd.Scalar for any layer (Domain, Application, Infrastructure): RkdError, ProblemException and IProblemLogDetails, converted into RFC 9457 problem details by WithProblemDetails() in the API project. Depends only on Rkd.Problems and the ASP.NET Core shared framework (no other package)."
+2026-10-28T15:50:26.83Z,EasyExtensions.Passkeys,3.0.93,Vadim Belov,"WebAuthn passkey registration and authentication without Fido2, NSec or bundled native libraries."
+2026-10-28T15:52:29.537Z,VietQR.Core,1.0.2,Hien Dev,Thư viện .NET hỗ trợ tạo chuỗi và render ảnh mã QR thanh toán theo chuẩn VietQR (NAPAS247).
+2026-10-28T15:59:35.057Z,Byd.VehicleManagement.Domain.Shared,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T15:59:36.74Z,Byd.VehicleManagement.Domain,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T15:59:38.337Z,Byd.VehicleManagement.Application.Contracts,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T15:59:39.987Z,Byd.VehicleManagement.EntityFrameworkCore,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T15:59:41.58Z,Byd.VehicleManagement.Application,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T15:59:43.237Z,Byd.VehicleManagement.HttpApi,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T15:59:44.77Z,Byd.VehicleManagement.HttpApi.Client,0.1.0,mertbyd,"Byd.VehicleManagement arac, arac tipi ve arac donanimi modul katmani."
+2026-10-28T16:01:50.053Z,Switchknife.Facts.Testing,0.1.0,Yehor Hrabovskyi,"Test doubles for Switchknife.Facts: a scripted IFactExtractor that replays queued model replies or errors and records each request, so code that extracts facts can be tested without calling a model. No test-framework dependency. Native AOT compatible."
