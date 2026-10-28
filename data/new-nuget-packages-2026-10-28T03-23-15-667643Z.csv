@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-28T02:19:58.11Z,JYPPX.DeploySharp.Backend.LlamaSharp,2.0.0,Guojin Yan,LLamaSharp adapter for DeploySharp local GGUF text generation and embeddings.
+2026-10-28T02:19:58.977Z,JYPPX.DeploySharp.Backend.OnnxRuntime,2.0.0,Guojin Yan,Managed ONNX Runtime adapter for named-tensor DeploySharp inference without bundling a native execution provider.
+2026-10-28T02:19:59.947Z,JYPPX.DeploySharp.Backend.OpenCV,2.0.0,Guojin Yan,"OpenCV DNN CPU adapter for explicit named vision tensor contracts with runtime shape specialization, without bundling a native runtime."
+2026-10-28T02:20:01.01Z,JYPPX.DeploySharp.Backend.OpenVINO,2.0.0,Guojin Yan,Managed OpenVINO adapter for named-tensor DeploySharp inference without bundling native runtimes or device plug-ins.
+2026-10-28T02:20:02.063Z,JYPPX.DeploySharp.Backend.TensorRT,2.0.0,Guojin Yan,"Managed TensorRT inference, ONNX-to-engine, CUDA/RTC execution, and caller-configurable local engine/PTX/CUBIN cache for DeploySharp. Native CUDA, TensorRT, driver and bridge runtimes remain consumer-owned."
+2026-10-28T02:20:03.03Z,JYPPX.DeploySharp.Core,2.0.0,Guojin Yan,"Dependency-free contracts, tensors, model metadata, canonical results, diagnostics, errors, and backend registration for DeploySharp."
+2026-10-28T02:20:04.02Z,JYPPX.DeploySharp.Extensibility,2.0.0,Guojin Yan,"Manifest-driven backend plugin, runtime dependency, native probe, options schema, and structured diagnostic contracts for DeploySharp hosts."
+2026-10-28T02:20:04.98Z,JYPPX.DeploySharp.LLM,2.0.0,Guojin Yan,"Backend-neutral language-model workflows, generation contracts, chat prompts, and embedding contracts for DeploySharp."
+2026-10-28T02:20:05.963Z,JYPPX.DeploySharp.ModelFactory,2.0.0,Guojin Yan,"Validated model catalogs, versioned Release and pinned official upstream downloads, integrity-protected caching, and offline reuse for DeploySharp."
+2026-10-28T02:20:06.863Z,JYPPX.DeploySharp.ModelPack.Json,2.0.0,Guojin Yan,"Strict JSON manifests, integrity verification, and safe local package loading for DeploySharp models."
+2026-10-28T02:20:07.763Z,JYPPX.DeploySharp.Multimodal,2.0.0,Guojin Yan,"Backend-neutral multimodal orchestration, ordered media identity, streaming, cancellation, and Visual/LLM adapter contracts for DeploySharp."
+2026-10-28T02:20:09.177Z,JYPPX.DeploySharp.Visual,2.0.0,Guojin Yan,"Image-library-neutral prepared-tensor pipelines, profiles, classification, detection, anomaly maps, OCR, PaddleOCR-VL generation, PP-Structure document tasks, OBB, semantic and instance segmentation, Pose estimation, geometry mapping, polygon IoU, CTC, RLE, NMS, and OKS for DeploySharp."
+2026-10-28T02:20:10.313Z,JYPPX.DeploySharp.Visual.OpenCV,2.0.0,Guojin Yan,"OpenCV image loading and high-throughput preprocessing for DeploySharp Visual classification, detection, anomaly, segmentation, pose, OBB, and OCR pipelines."
+2026-10-28T02:20:11.477Z,JYPPX.DeploySharp.Visual.TensorRT,2.0.0,Guojin Yan,"CUDA preprocessing and TensorRT visual inference for classification, detection, segmentation, pose, OBB, anomaly, matting, and PaddleOCR-VL device-resident decoding."
+2026-10-28T02:48:52.13Z,cAlgoKit,0.0.1,z1long,A helper library for cTrader cBots.
+2026-10-28T03:00:31.087Z,Meziantou.Framework.Hashing,1.0.0,meziantou,"Fully managed hash algorithms: password hashing and key derivation (BCrypt, Argon2), cryptographic hashes (SHA-3, SHAKE, cSHAKE, KMAC, TurboSHAKE, KangarooTwelve, BLAKE2b) and checksums (CRC-32, Adler-32)."
+2026-10-28T03:10:43Z,AsyncServerCore,1.0.1,fwt,高性能异步 TCP 服务器框架:SAEA 网络层、模块路由、中间件管道、鉴权/加密、时间轮调度
+2026-10-28T03:11:55.823Z,AsyncServerData,1.0.1,fwt,AsyncServerCore 的数据访问扩展:Redis 缓存与 MySQL/Oracle/SqlServer 关系库(Dapper)
