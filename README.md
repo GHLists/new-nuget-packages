@@ -12,27 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 12:18 UTC
+## Latest list — 2026-10-28 13:20 UTC
 
-New packages created between 2026-10-28 11:19 UTC and 2026-10-28 12:18 UTC.
+New packages created between 2026-10-28 12:18 UTC and 2026-10-28 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T12-18-46-016951Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T13-20-12-987723Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 11:20:44 | [Jakar.SqlBuilder](https://www.nuget.org/packages/Jakar.SqlBuilder) | 10.2.0 | Tyler Stegmaier | Easy Sql Building |
-| 2026-10-28 11:31:13 | [SecureTool](https://www.nuget.org/packages/SecureTool) | 1.1.1 | SenseiKiritof | Secure Console Tool |
-| 2026-10-28 11:34:30 | [Nedussa.Guidelines.Shared.v300](https://www.nuget.org/packages/Nedussa.Guidelines.Shared.v300) | 3.5.1 | Tracy Rooks and Jonathan Tayl… | Gives executable projects the guidelines that nudge the AI, from local file sto… |
-| 2026-10-28 11:37:01 | [MercadoPublico](https://www.nuget.org/packages/MercadoPublico) | 1.0.0 | Jorge Luis Saraiva Ruas | Cliente de la API pública de Mercado Público (ChileCompra): licitaciones, órden… |
-| 2026-10-28 11:46:22 | [ConsoleMonster.Templates](https://www.nuget.org/packages/ConsoleMonster.Templates) | 2.1.0 | Przemyslaw Klys | dotnet new templates for ConsoleMonster: "consolemonster" creates a console app… |
-| 2026-10-28 11:46:24 | [ConsoleMonster.PowerShell.Display](https://www.nuget.org/packages/ConsoleMonster.PowerShell.Display) | 2.1.0 | Przemyslaw Klys | Optional type-scoped, runspace-owned default display adapter for ConsoleMonster. |
-| 2026-10-28 11:46:26 | [ConsoleMonster.Markdown](https://www.nuget.org/packages/ConsoleMonster.Markdown) | 2.1.0 | Przemyslaw Klys | Markdown display and widget, frame and recording export for ConsoleMonster, pow… |
-| 2026-10-28 11:46:29 | [ConsoleMonster.Hosting](https://www.nuget.org/packages/ConsoleMonster.Hosting) | 2.1.0 | Przemyslaw Klys | A live ConsoleMonster dashboard for .NET generic host applications: services.Ad… |
-| 2026-10-28 11:46:31 | [ConsoleMonster.Graphics](https://www.nuget.org/packages/ConsoleMonster.Graphics) | 2.1.0 | Przemyslaw Klys | Portable PNG, GIF and APNG exports for ConsoleMonster, powered by ChartForgeX. |
-| 2026-10-28 11:46:35 | [ConsoleMonster.Extensions.Logging](https://www.nuget.org/packages/ConsoleMonster.Extensions.Logging) | 2.1.0 | Przemyslaw Klys | A Microsoft.Extensions.Logging provider for ConsoleMonster: log lines with Cons… |
-| 2026-10-28 11:54:26 | [Sadq.Connect](https://www.nuget.org/packages/Sadq.Connect) | 1.0.0 | Sadq | Official .NET client for the Sadq e-signature Integration API: the Invitation m… |
-| 2026-10-28 11:55:23 | [Zespy.EzPay.InvoiceEvidence](https://www.nuget.org/packages/Zespy.EzPay.InvoiceEvidence) | 1.6.0 | Zespy | Portable EZ invoice evidence profiles and offline independent verification. |
-| 2026-10-28 12:06:43 | [NebriaChip.Vault.Win](https://www.nuget.org/packages/NebriaChip.Vault.Win) | 1.0.0 | toras9000 | A wrapper for the Windows Credential Store API |
+| 2026-10-28 12:20:30 | [TGateway.OpcDaServer](https://www.nuget.org/packages/TGateway.OpcDaServer) | 2.3.20 | TGateway.OpcDaServer | Package Description |
+| 2026-10-28 12:22:48 | [Oddin.OddsFeedSdk](https://www.nuget.org/packages/Oddin.OddsFeedSdk) | 1.1.37 | Oddin.gg | Oddin.gg Odds Feed SDK for .NET |
+| 2026-10-28 12:27:22 | [BringYourOwnAgent.Relay](https://www.nuget.org/packages/BringYourOwnAgent.Relay) | 0.0.3 | ultrathinker | The site's side of the BYOA «direct» link, ready-made for an ASP.NET Core site:… |
+| 2026-10-28 12:42:51 | [Verify.OfficeIMO](https://www.nuget.org/packages/Verify.OfficeIMO) | 0.1.0 | https://github.com/VerifyTest… | Extends Verify (https://github.com/VerifyTests/Verify) to allow verification vi… |
+| 2026-10-28 12:46:34 | [Cx.Dummy.Package](https://www.nuget.org/packages/Cx.Dummy.Package) | 1.0.0 | Checkmarx | Internal package used by Checkmarx to test SCA risk detection. It contains no f… |
+| 2026-10-28 12:47:18 | [Alcifra.ModuleAbi](https://www.nuget.org/packages/Alcifra.ModuleAbi) | 1.25.0 | Hebel Consulting | The contract industry modules build against: registration, mask seeding, facts,… |
+| 2026-10-28 12:47:38 | [Moonwell.Areas](https://www.nuget.org/packages/Moonwell.Areas) | 0.3.0 | mdlsvensson | Areas that units enter, stay in and leave, for Moonwell maps. |
+| 2026-10-28 12:47:38 | [Moonwell.Maths](https://www.nuget.org/packages/Moonwell.Maths) | 0.3.0 | mdlsvensson | Vectors, angles, interpolation, shapes and raycasts for Moonwell maps. |
+| 2026-10-28 12:47:38 | [Moonwell.Physics](https://www.nuget.org/packages/Moonwell.Physics) | 0.3.0 | mdlsvensson | Missiles, knockback, walls and ballistics for Moonwell maps. |
+| 2026-10-28 12:47:39 | [Moonwell.Input](https://www.nuget.org/packages/Moonwell.Input) | 0.3.0 | mdlsvensson | Each player's mouse and camera for Moonwell maps. |
+| 2026-10-28 12:47:40 | [Moonwell.Interactions](https://www.nuget.org/packages/Moonwell.Interactions) | 0.3.0 | mdlsvensson | Interactions, gizmos and finding for Moonwell maps. |
+| 2026-10-28 12:47:40 | [Moonwell.Terrain](https://www.nuget.org/packages/Moonwell.Terrain) | 0.3.0 | mdlsvensson | Terrain height, pathing and ground raycasts for Moonwell maps. |
+| 2026-10-28 12:49:15 | [Skail.ApplicationTemplate.CSharp](https://www.nuget.org/packages/Skail.ApplicationTemplate.CSharp) | 1.0.0 | Skail Team | Template for Skail Project. |
+| 2026-10-28 12:53:22 | [Avalonia.Controls.Markdown.Mermaid](https://www.nuget.org/packages/Avalonia.Controls.Markdown.Mermaid) | 12.4.0 | AvaloniaUI OÜ | Mermaid diagram rendering for Avalonia.Controls.Markdown, drawn natively withou… |
+| 2026-10-28 12:54:12 | [AppWeaver.Contexts](https://www.nuget.org/packages/AppWeaver.Contexts) | 1.0.0 | Team AppWeaver | Shared interfaces and default implementations for current user and tenant conte… |
+| 2026-10-28 12:55:29 | [OptiCli.Mcp.Cms13](https://www.nuget.org/packages/OptiCli.Mcp.Cms13) | 0.26.0 | opticli contributors | An MCP server for Optimizely CMS 13 (for CMS 12, use OptiCli.Mcp): editors conn… |
+| 2026-10-28 12:58:35 | [Pilz.Updating.Ui.Avalonia](https://www.nuget.org/packages/Pilz.Updating.Ui.Avalonia) | 5.0.0 | Pilz.Updating.Ui.Avalonia | Package Description |
+| 2026-10-28 13:10:19 | [ImageDull.ImageSharp](https://www.nuget.org/packages/ImageDull.ImageSharp) | 2.1.14 | ImageDull contributors | A cross-platform, 2D image manipulation library for .NET. A fork of ImageSharp |
 
 ## Data source
 
