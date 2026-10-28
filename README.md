@@ -12,31 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 18:20 UTC
+## Latest list — 2026-10-28 19:19 UTC
 
-New packages created between 2026-10-28 17:19 UTC and 2026-10-28 18:20 UTC.
+New packages created between 2026-10-28 18:20 UTC and 2026-10-28 19:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T18-20-36-953371Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T19-19-51-116193Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 17:26:59 | [MASS4.Graph.Control](https://www.nuget.org/packages/MASS4.Graph.Control) | 1.0.0 | Bruno Massa | Control-flow semantics for MASS4.Graph: exec ports, deterministic ordering, ear… |
-| 2026-10-28 17:27:00 | [MASS4.Graph.State](https://www.nuget.org/packages/MASS4.Graph.State) | 1.0.0 | Bruno Massa | State-machine semantics for MASS4.Graph: cyclic states, typed triggers, guarded… |
-| 2026-10-28 17:27:01 | [MASS4.Graph.Dataflow](https://www.nuget.org/packages/MASS4.Graph.Dataflow) | 1.0.0 | Bruno Massa | Dataflow semantics for MASS4.Graph: pull evaluation, per-instance caching, acyc… |
-| 2026-10-28 17:27:02 | [MASS4.Graph](https://www.nuget.org/packages/MASS4.Graph) | 1.0.0 | Bruno Massa | Headless, domain-neutral node-graph model: stable identity, reversible commands… |
-| 2026-10-28 17:27:03 | [MASS4.Graph.Interpreter](https://www.nuget.org/packages/MASS4.Graph.Interpreter) | 1.0.0 | Bruno Massa | Reference backend for MASS4.Graph: interprets dataflow, control and state docum… |
-| 2026-10-28 17:27:04 | [MASS4.Graph.Generator](https://www.nuget.org/packages/MASS4.Graph.Generator) | 1.0.0 | Bruno Massa | Compile-time graph registration and typed builders. |
-| 2026-10-28 17:32:21 | [Soenneker.DataTables.Gen](https://www.nuget.org/packages/Soenneker.DataTables.Gen) | 11.0.1 | Jake Soenneker | Compile-time DataTables column mappings, permissions, and typed search expressi… |
-| 2026-10-28 17:43:59 | [Arendi.Bluetooth.Hci.UserChannel](https://www.nuget.org/packages/Arendi.Bluetooth.Hci.UserChannel) | 19.5.0-beta1 | Arendi | Bluetooth Low Energy HCI transport for Linux Bluetooth controllers (hci0, hci1,… |
-| 2026-10-28 17:44:01 | [Arendi.Bluetooth.BlueZ.Adapter](https://www.nuget.org/packages/Arendi.Bluetooth.BlueZ.Adapter) | 19.5.0-beta1 | Arendi | Bluetooth Low Energy Adapter for the Linux Bluetooth stack BlueZ (over D-Bus).… |
-| 2026-10-28 17:52:27 | [Uneesoft.PaymentGateway.Sdk](https://www.nuget.org/packages/Uneesoft.PaymentGateway.Sdk) | 1.0.0 | Uneesoft | Official .NET SDK client for the Uneesoft Central Payment Gateway. |
-| 2026-10-28 17:52:29 | [OpenAC.Net.Etq](https://www.nuget.org/packages/OpenAC.Net.Etq) | 1.0.0 | Projeto OpenAC .Net | Biblioteca multiplataforma para impressão de etiquetas PPLA, PPLB, EPL2, ZPL II… |
-| 2026-10-28 17:54:53 | [OctoPublisher](https://www.nuget.org/packages/OctoPublisher) | 1.0.0 | octopublish | High-performance universal multi-store publishing CLI for modern CI/CD and loca… |
-| 2026-10-28 17:55:17 | [VouchsafeClient](https://www.nuget.org/packages/VouchsafeClient) | 1.0.0 | Tuomas Hietanen | Vouchsafe identity verification API client: verifications, document checks, sma… |
-| 2026-10-28 17:57:47 | [IpScope.Sdk](https://www.nuget.org/packages/IpScope.Sdk) | 1.0.0 | IPScope Engineering | Official zero-dependency, type-safe Sync & Async .NET Server-Side SDK for the I… |
-| 2026-10-28 18:04:39 | [BancoBr.API](https://www.nuget.org/packages/BancoBr.API) | 1.0.0 | Adriano Trentim e colaborador… | Integração bancária por API para pagamentos, PIX, TED, DDA e extrato, conforme… |
-| 2026-10-28 18:04:40 | [BancoBr.CNAB](https://www.nuget.org/packages/BancoBr.CNAB) | 1.0.0 | Adriano Trentim e colaborador… | Geração de remessas e leitura de retornos bancários CNAB 240 para pagamentos e… |
-| 2026-10-28 18:04:40 | [BancoBr.Common](https://www.nuget.org/packages/BancoBr.Common) | 1.0.0 | Adriano Trentim e colaborador… | Tipos, enums e contratos compartilhados pelas integrações bancárias API e CNAB… |
+| 2026-10-28 18:29:34 | [Terminava](https://www.nuget.org/packages/Terminava) | 0.3.0 | Devority | Zero-dependency terminal emulator for Avalonia — TerminalControl, renderer, sel… |
+| 2026-10-28 18:29:34 | [Terminava.Core](https://www.nuget.org/packages/Terminava.Core) | 0.3.0 | Devority | Zero-dependency terminal emulator core — PTY, VT parser, screen buffer. |
+| 2026-10-28 18:35:29 | [CSharpPlexi](https://www.nuget.org/packages/CSharpPlexi) | 2.0.0 | Sandor Cseri | Programming language extension infrastructure for .NET projects written in C#. |
+| 2026-10-28 18:35:43 | [SawKing.DotsKit.Tool](https://www.nuget.org/packages/SawKing.DotsKit.Tool) | 2.8.0 | Vladimir Savkin | The command-line tool of DotNetSolutionKit: makes a solution, adds services and… |
+| 2026-10-28 18:37:11 | [d20tek-dicenotation-blazor](https://www.nuget.org/packages/d20tek-dicenotation-blazor) | 5.1.9 | DarthPedro | Blazor component that animates d20Tek.DiceNotation roll results as physics-driv… |
+| 2026-10-28 18:50:20 | [XBullet.EasyMapping.Abstractions](https://www.nuget.org/packages/XBullet.EasyMapping.Abstractions) | 1.1.0 | olgerd007 | Compile-time mapping declarations for XBullet.EasyMapping. |
+| 2026-10-28 18:52:26 | [Clarity.Avalonia.Desktop](https://www.nuget.org/packages/Clarity.Avalonia.Desktop) | 0.49.0 | Peter van de Pas | The desktop's own of the C# applications generated by Clarity: native windows o… |
+| 2026-10-28 18:54:31 | [XBullet.EasyMapping](https://www.nuget.org/packages/XBullet.EasyMapping) | 1.1.0 | olgerd007 | Source-generated DTO mappings without runtime reflection. |
+| 2026-10-28 18:57:27 | [PdfNetStack.Azure](https://www.nuget.org/packages/PdfNetStack.Azure) | 1.0.0 | Jamal Abdelkhalek, JADEV | Azure Blob Storage pipeline for PdfNetStack: reads a source blob, writes the op… |
+| 2026-10-28 18:57:27 | [PdfNetStack.Tool](https://www.nuget.org/packages/PdfNetStack.Tool) | 1.0.0 | Jamal Abdelkhalek, JADEV | Cross-platform command line tool to compress, optimize, merge, split, rotate, e… |
+| 2026-10-28 18:57:28 | [PdfNetStack](https://www.nuget.org/packages/PdfNetStack) | 1.0.0 | Jamal Abdelkhalek, JADEV | Compress, optimize and edit PDF files in .NET. Pure C#, MIT licensed, no native… |
+| 2026-10-28 19:04:56 | [REDcat.Modding.TLD.Il2CppAssemblies](https://www.nuget.org/packages/REDcat.Modding.TLD.Il2CppAssemblies) | 2.58.0 | REDcat | Il2Cpp assemblies for modding The Long Dark by Hinterland Games. |
 
 ## Data source
 
