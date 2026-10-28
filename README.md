@@ -12,49 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 04:19 UTC
+## Latest list — 2026-10-28 05:20 UTC
 
-New packages created between 2026-10-28 03:23 UTC and 2026-10-28 04:19 UTC.
+New packages created between 2026-10-28 04:19 UTC and 2026-10-28 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-28T04-19-15-577082Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-28T05-20-54-51431Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-28 03:23:15 | [Ledon.Resilience](https://www.nuget.org/packages/Ledon.Resilience) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:16 | [Ledon.Scheduling](https://www.nuget.org/packages/Ledon.Scheduling) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:17 | [Ledon.Search](https://www.nuget.org/packages/Ledon.Search) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:17 | [Ledon.Search.Sync](https://www.nuget.org/packages/Ledon.Search.Sync) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:18 | [Ledon.Secrets](https://www.nuget.org/packages/Ledon.Secrets) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:19 | [Ledon.Security](https://www.nuget.org/packages/Ledon.Security) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:20 | [Ledon.Security.Accounts](https://www.nuget.org/packages/Ledon.Security.Accounts) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:20 | [Ledon.Security.ApiKeys](https://www.nuget.org/packages/Ledon.Security.ApiKeys) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:21 | [Ledon.Security.Authorization](https://www.nuget.org/packages/Ledon.Security.Authorization) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:22 | [Ledon.Security.ExternalLogins](https://www.nuget.org/packages/Ledon.Security.ExternalLogins) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:23 | [Ledon.Security.TokenStores](https://www.nuget.org/packages/Ledon.Security.TokenStores) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:23 | [Ledon.Security.Totp](https://www.nuget.org/packages/Ledon.Security.Totp) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:24 | [Ledon.Serilog](https://www.nuget.org/packages/Ledon.Serilog) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:25 | [Ledon.Settings](https://www.nuget.org/packages/Ledon.Settings) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:26 | [Ledon.SignalR](https://www.nuget.org/packages/Ledon.SignalR) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:26 | [Ledon.Sip](https://www.nuget.org/packages/Ledon.Sip) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:27 | [Ledon.Sip.Client](https://www.nuget.org/packages/Ledon.Sip.Client) | 0.0.1 | wosledon | Ledon SIP 客户端：基于 Socket 库的事务用户（重传/超时/响应匹配）。 |
-| 2026-10-28 03:23:28 | [Ledon.Sip.Server](https://www.nuget.org/packages/Ledon.Sip.Server) | 0.0.1 | wosledon | Ledon SIP 服务端：基于 Socket 库的 SIP over UDP/TCP 监听与应答。 |
-| 2026-10-28 03:23:29 | [Ledon.Sockets.Client](https://www.nuget.org/packages/Ledon.Sockets.Client) | 0.0.1 | wosledon | Ledon 协议客户端：TCP/UDP 连接、断线重连、类型化收发。 |
-| 2026-10-28 03:23:29 | [Ledon.Sockets.Server](https://www.nuget.org/packages/Ledon.Sockets.Server) | 0.0.1 | wosledon | Ledon 协议服务端：TCP/UDP 监听、连接管理、类型化分发。 |
-| 2026-10-28 03:23:30 | [Ledon.Streaming](https://www.nuget.org/packages/Ledon.Streaming) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:31 | [Ledon.Testing](https://www.nuget.org/packages/Ledon.Testing) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:32 | [Ledon.Testing.Containers](https://www.nuget.org/packages/Ledon.Testing.Containers) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:32 | [Ledon.Transactions](https://www.nuget.org/packages/Ledon.Transactions) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:33 | [Ledon.Web](https://www.nuget.org/packages/Ledon.Web) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:34 | [Ledon.Webhooks](https://www.nuget.org/packages/Ledon.Webhooks) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:23:35 | [Ledon.Workflow](https://www.nuget.org/packages/Ledon.Workflow) | 0.0.1 | wosledon | .NET 10 模块化 Web 开发框架：解耦优先，自动发现与自动注入，能力按需引入。 |
-| 2026-10-28 03:33:58 | [Robbiblubber.Localization](https://www.nuget.org/packages/Robbiblubber.Localization) | 2.4.6 | Alexander Lang | The robbiblubber.org Localization Library provides locale definitions and langu… |
-| 2026-10-28 03:34:28 | [Robbiblubber.Localization.Controls](https://www.nuget.org/packages/Robbiblubber.Localization.Controls) | 2.4.6 | Alexander Lang | The robbiblubber.org Localization Controls Library localizes Windows Forms user… |
-| 2026-10-28 03:45:42 | [Messaia.Net.MailService.Impl](https://www.nuget.org/packages/Messaia.Net.MailService.Impl) | 10.2.0-beta02 | Fouad Messaia | Mail Service Implementation |
-| 2026-10-28 03:45:44 | [Messaia.Net.MailService.Impl.MailKit](https://www.nuget.org/packages/Messaia.Net.MailService.Impl.MailKit) | 10.2.0-beta02 | Fouad Messaia | MailKit Mail Service Implementation |
-| 2026-10-28 03:53:31 | [PDiffy.Cli](https://www.nuget.org/packages/PDiffy.Cli) | 0.1.0 | Zachary Fry | The pdiffy command: compare two PDFs or snapshot files, print a PDF's snapshot,… |
-| 2026-10-28 03:53:32 | [PDiffy](https://www.nuget.org/packages/PDiffy) | 0.1.0 | Zachary Fry | Snapshot tests for PDFs that compare what a document says, not how its bytes ar… |
-| 2026-10-28 04:05:04 | [CsvHelper.Linq](https://www.nuget.org/packages/CsvHelper.Linq) | 34.0.0 | Josh Close | A LINQ provider for CsvHelper: queries that read only the columns and rows they… |
-| 2026-10-28 04:10:24 | [Capfa](https://www.nuget.org/packages/Capfa) | 1.1.0 | foadabdollahi | Capfa؛ کتابخانه تولید و اعتبارسنجی کپچای فارسی برای دات‌نت ۱۰، ویندوز و لینوکس |
+| 2026-10-28 04:33:43 | [Wei.Abp.DataConnector.Tracking.Abstractions](https://www.nuget.org/packages/Wei.Abp.DataConnector.Tracking.Abstractions) | 1.0.0 | Wei.Abp.DataConnector.Trackin… | Package Description |
+| 2026-10-28 04:33:44 | [Wei.Abp.DataConnector.Workflows.Abstractions](https://www.nuget.org/packages/Wei.Abp.DataConnector.Workflows.Abstractions) | 1.0.0 | Wei.Abp.DataConnector.Workflo… | Package Description |
+| 2026-10-28 04:33:44 | [Wei.Abp.DataConnector.Workflows.Domain](https://www.nuget.org/packages/Wei.Abp.DataConnector.Workflows.Domain) | 1.0.0 | Wei.Abp.DataConnector.Workflo… | Package Description |
+| 2026-10-28 04:33:45 | [Wei.Abp.DataConnector.Workflows.WorkflowCore](https://www.nuget.org/packages/Wei.Abp.DataConnector.Workflows.WorkflowCore) | 1.0.0 | Wei.Abp.DataConnector.Workflo… | Package Description |
+| 2026-10-28 04:34:14 | [Wei.Abp.Workflow.Abstractions](https://www.nuget.org/packages/Wei.Abp.Workflow.Abstractions) | 1.0.0 | Wei.Abp.Workflow.Abstractions | Package Description |
+| 2026-10-28 04:34:15 | [Wei.Abp.WorkflowCore](https://www.nuget.org/packages/Wei.Abp.WorkflowCore) | 1.0.0 | Wei.Abp.WorkflowCore | Package Description |
+| 2026-10-28 04:41:31 | [RyoTune.Reloaded.Serialization.Yaml.Interfaces](https://www.nuget.org/packages/RyoTune.Reloaded.Serialization.Yaml.Interfaces) | 1.0.0 | RyoTune.Reloaded.Serializatio… | YAML serialization as a shared library with YamlDotNet. |
+| 2026-10-28 04:48:42 | [NetcdfSharp.Bufr](https://www.nuget.org/packages/NetcdfSharp.Bufr) | 0.2.1 | fan-yq | NetcdfSharp - C# port of the netcdf-java (maint-5.x) reading stack. Local-file… |
+| 2026-10-28 04:49:52 | [Cratis.Showrunner.Usher.Contracts](https://www.nuget.org/packages/Cratis.Showrunner.Usher.Contracts) | 1.0.0 | Cratis | The event contracts for Usher — the Showrunner support part for issue reporting… |
+| 2026-10-28 04:49:52 | [Cratis.Showrunner.Usher](https://www.nuget.org/packages/Cratis.Showrunner.Usher) | 1.0.0 | Cratis | Usher — the Showrunner support part for issue reporting and support conversatio… |
+| 2026-10-28 05:02:11 | [HAKICODE.Workbench.Plugin.Speech](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.Speech) | 1.0.0 | HAKICODE | Nói thay gõ ở ô nhập của trợ lý, hội thoại bằng giọng nói, đọc thành tiếng; ché… |
+| 2026-10-28 05:02:12 | [HAKICODE.Workbench.Engine](https://www.nuget.org/packages/HAKICODE.Workbench.Engine) | 1.0.0 | HAKICODE | Dịch vụ lõi của Workbench: hệ tệp có hàng rào, PTY, DAG nhiệm vụ, hộp cát, cấu… |
+| 2026-10-28 05:02:12 | [HAKICODE.Workbench.Plugin.Assistant](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.Assistant) | 1.0.0 | HAKICODE | Trợ lý AI lập trình chạy trên nền React Shell & .NET Core ALC — gói mẫu tham ch… |
+| 2026-10-28 05:02:13 | [HAKICODE.Workbench.Plugin.Meetings](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.Meetings) | 1.0.0 | HAKICODE | Họp bằng giọng nói ngay trong ứng dụng: nghe nói qua máy chủ, lời thoại chép th… |
+| 2026-10-28 05:02:14 | [HAKICODE.Workbench.Plugin.LocalModels](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.LocalModels) | 1.0.0 | HAKICODE | Cài và chạy mô hình trên CPU (runner ONNX) và GPU (container vLLM) của máy chủ… |
+| 2026-10-28 05:02:14 | [HAKICODE.Workbench.Plugins](https://www.nuget.org/packages/HAKICODE.Workbench.Plugins) | 1.0.0 | HAKICODE | Nạp và gỡ gói backend C# của Workbench qua AssemblyLoadContext, sổ dịch vụ host… |
+| 2026-10-28 05:02:16 | [HAKICODE.Workbench.Plugin.DocIntelligence](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.DocIntelligence) | 1.0.0 | HAKICODE | Kho tài liệu doanh nghiệp trên bộ ba MSSQL · Elasticsearch · Neo4j — gói vệ tin… |
+| 2026-10-28 05:02:17 | [HAKICODE.Workbench.Plugin.ServiceHealth](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.ServiceHealth) | 1.0.0 | HAKICODE | Quan sát các dịch vụ bên ngoài đăng ký trong sổ đăng ký dịch vụ của máy chủ — k… |
+| 2026-10-28 05:02:17 | [HAKICODE.Workbench.Agent](https://www.nuget.org/packages/HAKICODE.Workbench.Agent) | 1.0.0 | HAKICODE | Harness của kernel tác tử NetClaw trong Workbench: kho run, chính sách, gói năn… |
+| 2026-10-28 05:02:18 | [HAKICODE.Workbench.Plugin.Dashboard](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.Dashboard) | 2.0.0 | HAKICODE | Bảng tổng quan hệ thống cho người điều hành — trạng thái theo tiêu chí, người d… |
+| 2026-10-28 05:02:18 | [HAKICODE.Workbench.Core](https://www.nuget.org/packages/HAKICODE.Workbench.Core) | 1.0.0 | HAKICODE | Hợp đồng thuần của Workbench: DTO, interface cho gói, cấu hình phân tầng, cửa l… |
+| 2026-10-28 05:02:19 | [HAKICODE.Workbench.Plugin.CodeIntelligence](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.CodeIntelligence) | 1.0.0 | HAKICODE | Domain Intelligence Pack cho Miền Lập Trình & Không Gian Làm Việc — cây Workspa… |
+| 2026-10-28 05:02:19 | [HAKICODE.Workbench.Plugin.Feedback](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.Feedback) | 1.0.0 | HAKICODE | Người dùng gửi phản hồi, báo lỗi từ mọi màn hình — mô tả, ảnh chụp màn hình hay… |
+| 2026-10-28 05:02:20 | [HAKICODE.Workbench.Hosting](https://www.nuget.org/packages/HAKICODE.Workbench.Hosting) | 1.0.0 | HAKICODE | Lõi máy chủ Workbench dạng thư viện: WorkbenchRuntime, MapWorkbench và cổng cắm… |
+| 2026-10-28 05:07:51 | [Heroicsoft.NetForge.Drawing](https://www.nuget.org/packages/Heroicsoft.NetForge.Drawing) | 1.1.0 | Heroicsoft | Image identify, resize, thumbnail, crop, rotate, and perceptual-hash helpers fo… |
+| 2026-10-28 05:08:09 | [Heroicsoft.NetForge.Video](https://www.nuget.org/packages/Heroicsoft.NetForge.Video) | 1.1.0 | Heroicsoft | FFmpeg bootstrap, frame capture, transcode, integrity check, and PCM-to-AAC enc… |
 
 ## Data source
 
