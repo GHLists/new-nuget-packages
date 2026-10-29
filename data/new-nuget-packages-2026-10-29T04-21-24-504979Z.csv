@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-29T03:26:22.757Z,Ivetech.ORM.SqlServer.GIS,4.0.1,Lucas Santos,Suporte a dados espaciais (geography/geometry) do ORM (object-relational mapping) da Ivetech Sistemas no SqlServer.
+2026-10-29T03:26:25.003Z,Ivetech.ORM.PostgreSql.GIS,4.0.1,Lucas Santos,Suporte a dados espaciais (PostGIS geography/geometry) do ORM (object-relational mapping) da Ivetech Sistemas no Postgresql.
+2026-10-29T03:51:54.267Z,RasgaPdf,0.2.6,Messias Martins,"Ultra-fast 2D spatial PDF parser powered by pure Rust for .NET — extract exact [x0, y0, x1, y1] bounding boxes, text blocks, tables, images & vector paths in milliseconds"
+2026-10-29T03:52:15.33Z,ConnectionManager,1.0.0,Antonio L.,Utilidad ligera para obtener valores de configuración (como cadenas de conexión) priorizando las variables de entorno y usando IConfiguration como respaldo.
+2026-10-29T03:56:43.77Z,EC_NET4,2026.10.29.1000,EC_NET4,"版本2026.10.29.1000 使用纯C#代码构建的Ethercat主站,支持DC,Freerun,PDO映射,热插拔,(不支持断电恢复,不支持热插拔第一个从站),DC偏移补偿等功能,用法与EC_NET2基本一致"
+2026-10-29T04:15:47.497Z,Mitzh.Invoice.Core,1.0.0,Mitzh,"Offline invoice recognition for XML, OFD, PDF and images, including railway e-tickets. Simple file path and stream APIs."
