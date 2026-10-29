@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-29T11:32:29.777Z,C1.Win.Command.HamburgerMenu,10.0.20262.832,MESCIUS inc.,"The ComponentOne HamburgerMenu for WinForms is a highly customizable navigation control that provides a modern, collapsible side-bar menu with support for adaptive display modes and integrated navigation items."
+2026-10-29T11:33:58.493Z,TheDotSide.Aspire.Templates,0.2.0,The Dot Side,Templates Aspire configurables alignés sur le référentiel ADR The Dot Side.
+2026-10-29T11:48:16.103Z,InventiveRhythm.Framework,2026.1029.0,ppy Pty Ltd,"A fork of osu!framework, with fluXis-specific tweaks."
+2026-10-29T12:11:44.067Z,Keryhe.Telemetry.Sqlite,2.0.2,Keith Heard,"SQLite control-plane implementation for telemetry (tenants, API keys, alert rules, retention settings)"

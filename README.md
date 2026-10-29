@@ -12,22 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 11:21 UTC
+## Latest list — 2026-10-29 12:20 UTC
 
-New packages created between 2026-10-29 10:21 UTC and 2026-10-29 11:21 UTC.
+New packages created between 2026-10-29 11:21 UTC and 2026-10-29 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-29T11-21-24-277904Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-29T12-20-12-454894Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-29 10:28:09 | [DepthAI.Net.Runtime.win-x64](https://www.nuget.org/packages/DepthAI.Net.Runtime.win-x64) | 0.3.0 | Gravicode Studios | Runtime native DepthAI.Net untuk Windows x64: shim depthai-c di atas depthai-co… |
-| 2026-10-29 10:35:00 | [Tapline.Grid.ChalkQL](https://www.nuget.org/packages/Tapline.Grid.ChalkQL) | 0.2.0 | Mark Hammond | LiveGrid bolted onto a database and its stream through ChalkQL: the store's pag… |
-| 2026-10-29 10:37:35 | [BattleMetrics.Net.DependencyInjection](https://www.nuget.org/packages/BattleMetrics.Net.DependencyInjection) | 1.0.0 | collect_vood | Registers the BattleMetrics.Net client with Microsoft.Extensions.DependencyInje… |
-| 2026-10-29 10:37:35 | [BattleMetrics.Net](https://www.nuget.org/packages/BattleMetrics.Net) | 1.0.0 | collect_vood | High throughput BattleMetrics API client with built-in rate limiting and reques… |
-| 2026-10-29 10:40:55 | [VehicleVision.PleasanterTools.DotNetClient](https://www.nuget.org/packages/VehicleVision.PleasanterTools.DotNetClient) | 0.1.0 | PMC Co., Ltd. IT Solution Div. | Pleasanter の標準 Web API を呼ぶ .NET 向けクライアントライブラリ。 |
-| 2026-10-29 10:53:51 | [AppWeaver.QRGenerator](https://www.nuget.org/packages/AppWeaver.QRGenerator) | 1.0.0 | Team AppWeaver | Abstract QR code generation component for AppWeaver. |
-| 2026-10-29 10:58:15 | [DotnetAgentKit](https://www.nuget.org/packages/DotnetAgentKit) | 0.1.0 | Dimitri Mamulashvili | dotnet new template that adds Claude Code config (CLAUDE.md, rules, skills, age… |
-| 2026-10-29 10:58:24 | [AppWeaver.QRGenerator.QRCoder](https://www.nuget.org/packages/AppWeaver.QRGenerator.QRCoder) | 1.0.0 | Team AppWeaver | QR code generation component for AppWeaver using QRCoder library. |
+| 2026-10-29 11:32:29 | [C1.Win.Command.HamburgerMenu](https://www.nuget.org/packages/C1.Win.Command.HamburgerMenu) | 10.0.20262.832 | MESCIUS inc. | The ComponentOne HamburgerMenu for WinForms is a highly customizable navigation… |
+| 2026-10-29 11:33:58 | [TheDotSide.Aspire.Templates](https://www.nuget.org/packages/TheDotSide.Aspire.Templates) | 0.2.0 | The Dot Side | Templates Aspire configurables alignés sur le référentiel ADR The Dot Side. |
+| 2026-10-29 11:48:16 | [InventiveRhythm.Framework](https://www.nuget.org/packages/InventiveRhythm.Framework) | 2026.1029.0 | ppy Pty Ltd | A fork of osu!framework, with fluXis-specific tweaks. |
+| 2026-10-29 12:11:44 | [Keryhe.Telemetry.Sqlite](https://www.nuget.org/packages/Keryhe.Telemetry.Sqlite) | 2.0.2 | Keith Heard | SQLite control-plane implementation for telemetry (tenants, API keys, alert rul… |
 
 ## Data source
 
