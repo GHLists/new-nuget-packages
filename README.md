@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:19 UTC
+## Latest list — 2026-10-29 23:20 UTC
 
-New packages created between 2026-10-29 21:19 UTC and 2026-10-29 22:19 UTC.
+New packages created between 2026-10-29 22:19 UTC and 2026-10-29 23:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-29T22-19-29-93933Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-29T23-20-53-583334Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-29 21:24:57 | [HttpConnectionCore.Shared](https://www.nuget.org/packages/HttpConnectionCore.Shared) | 1.0.0 | By Mx | Librería optimizada en .NET 6 para el consumo de Web APIs utilizando SocketsHtt… |
-| 2026-10-29 21:31:53 | [Qwips.Core.ClientSdk.MultiCase](https://www.nuget.org/packages/Qwips.Core.ClientSdk.MultiCase) | 1.0.1 | Qwips.Core.ClientSdk.MultiCase | Package Description |
-| 2026-10-29 21:34:27 | [Qwips.ClientSdk.QwipsIntegration](https://www.nuget.org/packages/Qwips.ClientSdk.QwipsIntegration) | 1.0.0 | Qwips.ClientSdk.QwipsIntegrat… | Package Description |
-| 2026-10-29 21:40:11 | [Colonise](https://www.nuget.org/packages/Colonise) | 0.2.0 | Simon Jefferies | A read-only engineering colony with asynchronous residents, durable inboxes, an… |
-| 2026-10-29 22:10:22 | [NymBroker.Scheduling.MySql](https://www.nuget.org/packages/NymBroker.Scheduling.MySql) | 0.15.0 | nymankla@gmail.com | Durable MySQL / MariaDB schedule store for NymBroker: named scheduled actions r… |
-| 2026-10-29 22:10:24 | [NymBroker.Scheduling.Sqlite](https://www.nuget.org/packages/NymBroker.Scheduling.Sqlite) | 0.15.0 | nymankla@gmail.com | Durable SQLite schedule store for NymBroker: named scheduled actions catch up m… |
-| 2026-10-29 22:10:26 | [NymBroker.Scheduling.SqlServer](https://www.nuget.org/packages/NymBroker.Scheduling.SqlServer) | 0.15.0 | nymankla@gmail.com | Durable SQL Server schedule store for NymBroker: named scheduled actions run on… |
-| 2026-10-29 22:10:26 | [NymBroker.Scheduling.Postgres](https://www.nuget.org/packages/NymBroker.Scheduling.Postgres) | 0.15.0 | nymankla@gmail.com | Durable PostgreSQL schedule store for NymBroker: named scheduled actions run on… |
+| 2026-10-29 22:41:09 | [NuGetAzCredentialsProvider](https://www.nuget.org/packages/NuGetAzCredentialsProvider) | 0.1.0 | Fredrik Arvidsson | NuGet credential plugin that authenticates to NuGet feeds using Azure CLI login |
+| 2026-10-29 22:48:56 | [TRNRun](https://www.nuget.org/packages/TRNRun) | 0.9.1 | Natural Resources Canada / Re… | Run, monitor, and orchestrate batches of TRNSYS simulations |
+| 2026-10-29 22:50:05 | [JsTimeline.Blazor](https://www.nuget.org/packages/JsTimeline.Blazor) | 1.0.0 | werddomain | Flash CS4-style animation timeline for Blazor: the timeline-runtime and timelin… |
+| 2026-10-29 22:50:06 | [Infrawrench.BulkInstances](https://www.nuget.org/packages/Infrawrench.BulkInstances) | 1.0.0 | Infrawrench LLC | AWS EC2 instance attributes and pricing, with full history, from Infrawrench. |
+| 2026-10-29 22:58:09 | [Umbricians.LiveView](https://www.nuget.org/packages/Umbricians.LiveView) | 0.1.0 | Umbricians | A real-time Live View dashboard for the Umbraco Settings section, charting acti… |
+| 2026-10-29 23:12:12 | [QX](https://www.nuget.org/packages/QX) | 0.1.1 | QDave | Build native Habbo extensions with G-Earth, live game state, typed actions, Wir… |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-29T22:41:09.313Z,NuGetAzCredentialsProvider,0.1.0,Fredrik Arvidsson,NuGet credential plugin that authenticates to NuGet feeds using Azure CLI login
+2026-10-29T22:48:56.227Z,TRNRun,0.9.1,"Natural Resources Canada / Ressources naturelles Canada,CanmetENERGY in Varennes / CanmetÉNERGIE à…","Run, monitor, and orchestrate batches of TRNSYS simulations"
+2026-10-29T22:50:05.78Z,JsTimeline.Blazor,1.0.0,werddomain,"Flash CS4-style animation timeline for Blazor: the timeline-runtime and timeline-editor builds, and a C# model of the v2 timeline document."
+2026-10-29T22:50:06.603Z,Infrawrench.BulkInstances,1.0.0,Infrawrench LLC,"AWS EC2 instance attributes and pricing, with full history, from Infrawrench."
+2026-10-29T22:58:09.767Z,Umbricians.LiveView,0.1.0,Umbricians,"A real-time Live View dashboard for the Umbraco Settings section, charting active web, MCP and API sessions plus any custom metric you plug in."
+2026-10-29T23:12:12.2Z,QX,0.1.1,QDave,"Build native Habbo extensions with G-Earth, live game state, typed actions, Wired tools and offline simulation."
