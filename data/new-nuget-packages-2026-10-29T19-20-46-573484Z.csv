@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-29T18:34:52.317Z,Trexon.Configuration,1.0.0,Trexoncorp,"Typed environment settings for .NET with defaults, aliases, prefixes, dotenv, validation and independent managers."
+2026-10-29T18:38:12.757Z,StbImageNext,1.0.0,StbImageSharpTeam,"C# Image Library based on StbImageNext, StbImageWriteSharp, StbImageResizeSharp and StbDxtSharp"
+2026-10-29T18:46:17.327Z,InventiveRhythm.fluXis.Modes.Keys,2026.1029.0,fluXis.Modes.Keys,A community-driven rhythm game with a focus on creativity and expression.
+2026-10-29T18:49:22.583Z,Gapfy.Echo.ApiExplorer,0.2.8,Gapfy,Authenticated developer UI and endpoint mock routing for ASP.NET Core applications.
+2026-10-29T18:49:29.583Z,Gapfy.Echo.Mock.Runner,0.2.8,Gapfy,Run isolated Echo HTTP mock snapshots and test commands without remote services.
+2026-10-29T18:49:33.89Z,Gapfy.Echo.Offline,0.2.8,Gapfy,"Versioned, validated Echo mock snapshots for reproducible offline execution."
+2026-10-29T18:53:57.12Z,NltkNet.Runtime.osx-arm64,2.0.0,Denis Kazakov,Portable CPython 3.12 and NLTK runtime for NltkNet on osx-arm64.
+2026-10-29T18:53:59.12Z,NltkNet.Runtime.win-x64,2.0.0,Denis Kazakov,Portable CPython 3.12 and NLTK runtime for NltkNet on win-x64.
+2026-10-29T18:54:01.347Z,NltkNet.Runtime.linux-x64,2.0.0,Denis Kazakov,Portable CPython 3.12 and NLTK runtime for NltkNet on linux-x64.
+2026-10-29T19:01:37.5Z,DocQL.Net,1.0.0,Nertil Poci,Package Description
+2026-10-29T19:06:50.93Z,redb.Route.DataFormats.Mime,4.5.0,redbase,"MIME multipart data format for redb.Route (MimeKit), as Camel's mimeMultipart: multipart/form-data fields into a FormBody and files into message attachments, multipart/mixed first part into the body and the rest into attachments, and back; limits on parts and sizes; registered as multipart/form-dat…"

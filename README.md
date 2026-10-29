@@ -12,23 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 18:22 UTC
+## Latest list — 2026-10-29 19:20 UTC
 
-New packages created between 2026-10-29 17:21 UTC and 2026-10-29 18:22 UTC.
+New packages created between 2026-10-29 18:22 UTC and 2026-10-29 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-29T18-22-02-001564Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-29T19-20-46-573484Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-29 17:23:41 | [LunaCsUil](https://www.nuget.org/packages/LunaCsUil) | 0.1.0 | Carlos Luna | Unofficial client for the UIL Computer Science problems API at api.lunaghs.dev.… |
-| 2026-10-29 17:31:22 | [SplitSecure.StepAuth](https://www.nuget.org/packages/SplitSecure.StepAuth) | 0.1.0 | SplitSecure | StepAuth service-provider client. |
-| 2026-10-29 17:32:34 | [KirisameY.Randomizer](https://www.nuget.org/packages/KirisameY.Randomizer) | 0.0.1 | KirisameY.Randomizer | Package Description |
-| 2026-10-29 17:38:33 | [replay.blackice.template](https://www.nuget.org/packages/replay.blackice.template) | 1.0.0 | replay | replay.re BlackICE bundle template for dotnet new -- Visit docs.replay.re for m… |
-| 2026-10-29 17:40:15 | [PowerCraft.Notion.Core](https://www.nuget.org/packages/PowerCraft.Notion.Core) | 0.1.0 | The Code Kitchen | Typed kernel for PowerCraft.Notion: Notion pages materialised to a device as pr… |
-| 2026-10-29 17:41:26 | [Resourcefull.AspNetCore](https://www.nuget.org/packages/Resourcefull.AspNetCore) | 3.1.0 | Zachary Fry | ASP.NET Core support for Resourcefull: serve downloads with their headers and c… |
-| 2026-10-29 17:43:14 | [Codemetr.CSharp.Cover.Tool](https://www.nuget.org/packages/Codemetr.CSharp.Cover.Tool) | 0.1.0 | codemetr | codemetr-csharp-cover command line: C# test coverage per type and member (Cover… |
-| 2026-10-29 17:51:20 | [Foothill.Cli](https://www.nuget.org/packages/Foothill.Cli) | 0.13.0 | Foothill Solutions | `fts` - seven commands for a project consuming the FTS platform packages, inclu… |
-| 2026-10-29 17:51:21 | [Foothill.Template](https://www.nuget.org/packages/Foothill.Template) | 0.18.0 | Foothill Solutions | `dotnet new` templates for the FTS platform: `fts-api` scaffolds a service comp… |
+| 2026-10-29 18:34:52 | [Trexon.Configuration](https://www.nuget.org/packages/Trexon.Configuration) | 1.0.0 | Trexoncorp | Typed environment settings for .NET with defaults, aliases, prefixes, dotenv, v… |
+| 2026-10-29 18:38:12 | [StbImageNext](https://www.nuget.org/packages/StbImageNext) | 1.0.0 | StbImageSharpTeam | C# Image Library based on StbImageNext, StbImageWriteSharp, StbImageResizeSharp… |
+| 2026-10-29 18:46:17 | [InventiveRhythm.fluXis.Modes.Keys](https://www.nuget.org/packages/InventiveRhythm.fluXis.Modes.Keys) | 2026.1029.0 | fluXis.Modes.Keys | A community-driven rhythm game with a focus on creativity and expression. |
+| 2026-10-29 18:49:22 | [Gapfy.Echo.ApiExplorer](https://www.nuget.org/packages/Gapfy.Echo.ApiExplorer) | 0.2.8 | Gapfy | Authenticated developer UI and endpoint mock routing for ASP.NET Core applicati… |
+| 2026-10-29 18:49:29 | [Gapfy.Echo.Mock.Runner](https://www.nuget.org/packages/Gapfy.Echo.Mock.Runner) | 0.2.8 | Gapfy | Run isolated Echo HTTP mock snapshots and test commands without remote services. |
+| 2026-10-29 18:49:33 | [Gapfy.Echo.Offline](https://www.nuget.org/packages/Gapfy.Echo.Offline) | 0.2.8 | Gapfy | Versioned, validated Echo mock snapshots for reproducible offline execution. |
+| 2026-10-29 18:53:57 | [NltkNet.Runtime.osx-arm64](https://www.nuget.org/packages/NltkNet.Runtime.osx-arm64) | 2.0.0 | Denis Kazakov | Portable CPython 3.12 and NLTK runtime for NltkNet on osx-arm64. |
+| 2026-10-29 18:53:59 | [NltkNet.Runtime.win-x64](https://www.nuget.org/packages/NltkNet.Runtime.win-x64) | 2.0.0 | Denis Kazakov | Portable CPython 3.12 and NLTK runtime for NltkNet on win-x64. |
+| 2026-10-29 18:54:01 | [NltkNet.Runtime.linux-x64](https://www.nuget.org/packages/NltkNet.Runtime.linux-x64) | 2.0.0 | Denis Kazakov | Portable CPython 3.12 and NLTK runtime for NltkNet on linux-x64. |
+| 2026-10-29 19:01:37 | [DocQL.Net](https://www.nuget.org/packages/DocQL.Net) | 1.0.0 | Nertil Poci | Package Description |
+| 2026-10-29 19:06:50 | [redb.Route.DataFormats.Mime](https://www.nuget.org/packages/redb.Route.DataFormats.Mime) | 4.5.0 | redbase | MIME multipart data format for redb.Route (MimeKit), as Camel's mimeMultipart:… |
 
 ## Data source
 
