@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-29T00:50:49.39Z,Plugin.Maui.SharedTransitions,0.1.0,Wilson Vargas,Shared element transitions between pages for .NET MAUI (Shell and NavigationPage).
+2026-10-29T00:58:37.107Z,GalForge,1.0.0,sillycowvalley,"CUPL-subset logic compiler for GAL16V8, GAL20V8 and GAL22V10."
+2026-10-29T01:08:56.86Z,ToolUp.Facts.Presentation,0.36.0,Andrew J. Willshire,"ToolUp.Facts.Presentation — from a gated fact series to a Fuaran-UI node. A presentation request (trend, breakdown, comparison or table; the whole of what a model may author for a block) and its JSON codec, and pure builders that draw a FactSeries as a validated Fuaran-UI node with the BlockProvena…"
