@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-29T10:28:09.53Z,DepthAI.Net.Runtime.win-x64,0.3.0,Gravicode Studios,"Runtime native DepthAI.Net untuk Windows x64: shim depthai-c di atas depthai-core 3.11, agar DepthAI.Net berbicara dengan kamera OAK sungguhan."
+2026-10-29T10:35:00.61Z,Tapline.Grid.ChalkQL,0.2.0,Mark Hammond,"LiveGrid bolted onto a database and its stream through ChalkQL: the store's pages pushed down as SQL, and each view's filter, stated once, kept as ChalkQL standing views over the rows the stream sent that the database hasn't reached, so a row passes as the database would pass it."
+2026-10-29T10:37:35.457Z,BattleMetrics.Net.DependencyInjection,1.0.0,collect_vood,Registers the BattleMetrics.Net client with Microsoft.Extensions.DependencyInjection.
+2026-10-29T10:37:35.937Z,BattleMetrics.Net,1.0.0,collect_vood,High throughput BattleMetrics API client with built-in rate limiting and request batching.
+2026-10-29T10:40:55.617Z,VehicleVision.PleasanterTools.DotNetClient,0.1.0,"PMC Co., Ltd. IT Solution Div.",Pleasanter の標準 Web API を呼ぶ .NET 向けクライアントライブラリ。
+2026-10-29T10:53:51.903Z,AppWeaver.QRGenerator,1.0.0,Team AppWeaver,Abstract QR code generation component for AppWeaver.
+2026-10-29T10:58:15.657Z,DotnetAgentKit,0.1.0,Dimitri Mamulashvili,"dotnet new template that adds Claude Code config (CLAUDE.md, rules, skills, agents, plugins) to ASP.NET Core projects with SvelteKit, Blazor, or no frontend."
+2026-10-29T10:58:24.153Z,AppWeaver.QRGenerator.QRCoder,1.0.0,Team AppWeaver,QR code generation component for AppWeaver using QRCoder library.
