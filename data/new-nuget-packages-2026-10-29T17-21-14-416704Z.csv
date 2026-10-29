@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-10-29T16:23:05.943Z,colmap,4.2.1,Johannes L. Schoenberger and the COLMAP contributors,"COLMAP's command line program, structure from motion and image undistortion, built with vcpkg for x64 Windows: without CUDA, the GUI, SiftGPU, LSD, CGAL, MVS, ONNX and downloads."
+2026-10-29T16:25:58.207Z,MikeNakis.ViewModeling-Develop,1.1.0,MikeNakis,Building blocks for view models (MVVM) that do not depend on any GUI framework
+2026-10-29T16:25:59.45Z,MikeNakis.ViewModeling.Fake-Develop,1.1.0,MikeNakis,"A fake implementation of the Platform of MikeNakis.ViewModeling, for testing view models without a GUI"
+2026-10-29T16:26:00.713Z,MikeNakis.ViewModeling.Wpf-Develop,1.1.0,MikeNakis,The WPF implementation of the Platform of MikeNakis.ViewModeling
+2026-10-29T16:26:07.913Z,MikeNakis.ViewModeling-Release,1.1.0,MikeNakis,Building blocks for view models (MVVM) that do not depend on any GUI framework
+2026-10-29T16:26:09.157Z,MikeNakis.ViewModeling.Fake-Release,1.1.0,MikeNakis,"A fake implementation of the Platform of MikeNakis.ViewModeling, for testing view models without a GUI"
+2026-10-29T16:26:10.413Z,MikeNakis.ViewModeling.Wpf-Release,1.1.0,MikeNakis,The WPF implementation of the Platform of MikeNakis.ViewModeling
+2026-10-29T16:33:05.823Z,MOConverter,2.0.1,Darko Martinovic,"Checks which tables of a SQL Server database can become memory-optimized (In-Memory OLTP), and why not, and converts them into a new database."
+2026-10-29T16:36:08.83Z,ElephantSqlDBClientBase,1.0.190,"ElephantSqlDB, Inc: DevOps","Client API needed to interact with the ElephantSqlDB cloud database storage services. If your application requires cloud storage of unstructured JSON or key/value paired data, the ElephantSqlDB client is an affordable and extremely fast alternative to any of the following solutions: 1. ActiveMQ 2.…"
+2026-10-29T16:37:13.243Z,Soenneker.Docusign.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Docusign's OpenAPI integration.
+2026-10-29T16:37:15.527Z,Soenneker.Anthropic.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for the Anthropic API.
+2026-10-29T16:37:18.033Z,Soenneker.Docusign.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for the Docusign eSignature v2.1 API.
+2026-10-29T16:37:20.397Z,Soenneker.Klaviyo.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Klaviyo's OpenAPI integration.
+2026-10-29T16:37:20.587Z,Dialogix.Avalonia,0.1.0-alpha,daniel-skliphosovsky,Chat controls for Avalonia. Build messenger interfaces without rebuilding the same bubbles.
+2026-10-29T16:37:22.963Z,Soenneker.Jira.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Jira's OpenAPI integration.
+2026-10-29T16:37:30.67Z,Soenneker.Jira.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for the Jira Cloud REST API v3.
+2026-10-29T16:37:32.587Z,Soenneker.Anthropic.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for the Anthropic API.
+2026-10-29T16:37:43.803Z,Soenneker.Klaviyo.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for the Klaviyo API.
+2026-10-29T16:38:25.147Z,Alvecta.Utils.DependencyInjection.Testing,8.3.78,Alvecta,"Test-only assertions for service registrations: ServiceCollectionAssert.Resolves checks that a service collection holds one plain registration of a service with the expected lifetime, and that a scope resolves it to the expected implementation type. Reference it from test projects only."
+2026-10-29T16:42:29.567Z,CommunityToolkit.VectorData.Milvus,1.0.0-preview,"Microsoft.Toolkit,dotnetfoundation,Community Toolkit",Milvus provider for Microsoft.Extensions.VectorData by the .NET Community Toolkit
+2026-10-29T16:47:10.407Z,Audio_Arcade_SDK,3.0.0,La_TNT,Bibliothèque .NET pour créer des salles de partage et de synchronisation audio en temps réel via WebSocket.
+2026-10-29T16:53:16.41Z,Superroute.SApp.UI,0.2.0,Goodneo Solutions,"sApp UI kit for .NET: the strings, formatting, theme and one view model per component, shared by the WPF and WinForms kits."
+2026-10-29T16:53:17.57Z,Superroute.SApp.WinForms,0.2.0,Goodneo Solutions,"sApp UI kit for Windows Forms: one control per component of the Superroute UI kit, drawn from the shared view models of Superroute.SApp.UI."
+2026-10-29T16:53:18.663Z,Superroute.SApp.Wpf,0.2.0,Goodneo Solutions,"sApp UI kit for WPF: one control per component of the Superroute UI kit, drawn from the shared view models of Superroute.SApp.UI."
+2026-10-29T16:55:24.69Z,CompassPipelineCopier,1.0.0,Darko Martinovic,"Copies the aggregation pipelines MongoDB Compass saved for one collection, and the collection's indexes, to other collections."
+2026-10-29T17:00:35.23Z,Trexon.Logging,1.0.0,Trexoncorp,"Simple structured logging for .NET with fluent configuration, console and file output, contextual properties and redaction."
+2026-10-29T17:10:02.593Z,Alvecta.Foundation.Deployment.Cdk.Testing,9.0.82,Alvecta,"Test support for AWS CDK apps built on Alvecta.Foundation.Deployment.Cdk: CdkJsonFile finds the repository's cdk.json above the test output and reads its environments, their services and an app with the context the Foundation hosts read, plus the environments as xunit theory data. Reference it from…"
+2026-10-29T17:12:22.937Z,MPACKAGE.LibDomain.Mcp,1.0.871,Miguel Franco Galego,Package Description
