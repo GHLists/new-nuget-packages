@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-29T07:32:07.247Z,Didit,1.0.0,Didit,"The official Didit .NET library: identity verification (KYC), business verification (KYB), AML screening, liveness and biometrics, transaction monitoring, Travel Rule and customer Authentication from your backend."
+2026-10-29T07:32:09.35Z,Didit.Extensions.DependencyInjection,1.0.0,Didit,Registers the official Didit .NET client with Microsoft.Extensions.DependencyInjection and IHttpClientFactory: services.AddDidit(...).
+2026-10-29T07:33:35.397Z,MonixOne.OidcProxy.Yarp,7.0.0,"Albert Starreveld,Shulyakovsky.E","A .NET 10 Backend-for-Frontend for single-page applications using YARP and standard OpenID Connect. Encrypts Redis session data directly with jose-jwt, forwards user access tokens to configured APIs, and coordinates refresh and logout across replicas. Compatible with OpenIddict."
+2026-10-29T07:33:52.72Z,SldFile,0.1.0-alpha,weianweigan,"A pure C# standalone reader and parser for SolidWorks files (SLDPRT, SLDASM, SLDDRW) without requiring SolidWorks installed."
+2026-10-29T07:56:22.55Z,NCache.OSS.Dapper,5.3.603,Alachisoft,NCache Opensource extension for Dapper providing distributed caching of database queries.
+2026-10-29T08:14:34.24Z,Nao.DeveloperTools,1.0.0-alpha1,jichang,"Machine-readable scaffolding, validation, diagnostics, evaluation, and migration commands for Nao developers."
+2026-10-29T08:14:37.357Z,Nao.Extensions,1.0.0-alpha1,jichang,"Compiled adapter registration, lifecycle, compatibility, conformance, and isolation contracts for Nao extensions."
+2026-10-29T08:14:40.977Z,Nao.Knowledge.Documents,1.0.0-alpha1,jichang,Nao.Documents parsing adapters for Nao knowledge ingestion.
+2026-10-29T08:14:45.683Z,Nao.Persistence.Infrastructure,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:14:46.833Z,Nao.Persistence.Memory,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:14:48.13Z,Nao.Persistence.Observability,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:14:54.473Z,Nao.Providers.Ollama,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:14:56.73Z,Nao.Reasoning,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:14:59.103Z,Nao.Reasoning.Constraints,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:15:00.26Z,Nao.Reasoning.Datalog,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:15:02.24Z,Nao.Semantics,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:15:03.4Z,Nao.Semantics.Rdf,1.0.0-alpha1,jichang,Nao AI Agent Framework
+2026-10-29T08:15:04.693Z,Nao.Telemetry.OpenTelemetry,1.0.0-alpha1,jichang,Nao AI Agent Framework

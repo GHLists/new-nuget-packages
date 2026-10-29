@@ -12,37 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 07:20 UTC
+## Latest list — 2026-10-29 08:22 UTC
 
-New packages created between 2026-10-29 06:21 UTC and 2026-10-29 07:20 UTC.
+New packages created between 2026-10-29 07:20 UTC and 2026-10-29 08:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-29T07-20-09-506476Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-29T08-22-09-316176Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-29 06:27:50 | [ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build206299](https://www.nuget.org/packages/ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build206299) | 1.0.206299 | Microsoft | Disposable package used to validate NuGet publishing through ESRP Release. |
-| 2026-10-29 06:43:21 | [AdCodicem.ValueObjects.Testing.Data](https://www.nuget.org/packages/AdCodicem.ValueObjects.Testing.Data) | 0.3.0 | AdCodicem | A dependency-free sampler of AdCodicem value objects for tests: values each typ… |
-| 2026-10-29 06:43:22 | [AdCodicem.ValueObjects.Swashbuckle](https://www.nuget.org/packages/AdCodicem.ValueObjects.Swashbuckle) | 0.3.0 | AdCodicem | Swashbuckle support for AdCodicem value objects: schema and parameter filters f… |
-| 2026-10-29 06:43:23 | [AdCodicem.ValueObjects.Serilog](https://www.nuget.org/packages/AdCodicem.ValueObjects.Serilog) | 0.3.0 | AdCodicem | Serilog support for AdCodicem value objects: a destructuring policy that logs a… |
-| 2026-10-29 06:43:24 | [AdCodicem.ValueObjects.ProtobufNet](https://www.nuget.org/packages/AdCodicem.ValueObjects.ProtobufNet) | 0.3.0 | AdCodicem | protobuf-net serializers for AdCodicem value objects, and protobuf-net.Grpc cod… |
-| 2026-10-29 06:43:28 | [AdCodicem.ValueObjects.MongoDB](https://www.nuget.org/packages/AdCodicem.ValueObjects.MongoDB) | 0.3.0 | AdCodicem | MongoDB.Driver serializers for AdCodicem value objects: each stored as the bare… |
-| 2026-10-29 06:43:29 | [AdCodicem.ValueObjects.MessagePack](https://www.nuget.org/packages/AdCodicem.ValueObjects.MessagePack) | 0.3.0 | AdCodicem | MessagePack formatters for AdCodicem value objects, and the SignalR MessagePack… |
-| 2026-10-29 06:43:31 | [AdCodicem.ValueObjects.HotChocolate](https://www.nuget.org/packages/AdCodicem.ValueObjects.HotChocolate) | 0.3.0 | AdCodicem | HotChocolate support for AdCodicem value objects: one GraphQL scalar per value… |
-| 2026-10-29 06:43:32 | [AdCodicem.ValueObjects.Grpc](https://www.nuget.org/packages/AdCodicem.ValueObjects.Grpc) | 0.3.0 | AdCodicem | Contract-first gRPC services that map their messages to AdCodicem value objects… |
-| 2026-10-29 06:43:36 | [AdCodicem.ValueObjects.Blazor](https://www.nuget.org/packages/AdCodicem.ValueObjects.Blazor) | 0.3.0 | AdCodicem | Blazor support for AdCodicem value objects: InputValueObject, an input componen… |
-| 2026-10-29 06:43:37 | [AdCodicem.ValueObjects.AzureFunctions](https://www.nuget.org/packages/AdCodicem.ValueObjects.AzureFunctions) | 0.3.0 | AdCodicem | Azure Functions isolated worker support for AdCodicem value objects: a route va… |
-| 2026-10-29 06:43:38 | [AdCodicem.ValueObjects.AspNetCore.Http](https://www.nuget.org/packages/AdCodicem.ValueObjects.AspNetCore.Http) | 0.3.0 | AdCodicem | Minimal API support for AdCodicem value objects: RFC 9457 problem details carry… |
-| 2026-10-29 06:43:41 | [AdCodicem.ValueObjects.FsCheck](https://www.nuget.org/packages/AdCodicem.ValueObjects.FsCheck) | 0.3.0 | AdCodicem | FsCheck support for AdCodicem value objects: an arbitrary per value object, mer… |
-| 2026-10-29 06:43:42 | [AdCodicem.ValueObjects.Bogus](https://www.nuget.org/packages/AdCodicem.ValueObjects.Bogus) | 0.3.0 | AdCodicem | Bogus support for AdCodicem value objects: a rule for every value-object member… |
-| 2026-10-29 06:43:43 | [AdCodicem.ValueObjects.AutoFixture](https://www.nuget.org/packages/AdCodicem.ValueObjects.AutoFixture) | 0.3.0 | AdCodicem | AutoFixture support for AdCodicem value objects: a customization that creates e… |
-| 2026-10-29 06:43:44 | [AdCodicem.ValueObjects.NJsonSchema](https://www.nuget.org/packages/AdCodicem.ValueObjects.NJsonSchema) | 0.3.0 | AdCodicem | NJsonSchema support for AdCodicem value objects: one call on the schema setting… |
-| 2026-10-29 06:43:45 | [AdCodicem.ValueObjects.AI](https://www.nuget.org/packages/AdCodicem.ValueObjects.AI) | 0.3.0 | AdCodicem | Microsoft.Extensions.AI support for AdCodicem value objects: tool and structure… |
-| 2026-10-29 06:43:47 | [AdCodicem.ValueObjects.AzureFunctions.AspNetCore](https://www.nuget.org/packages/AdCodicem.ValueObjects.AzureFunctions.AspNetCore) | 0.3.0 | AdCodicem | Problem details for the HTTP triggers of the Azure Functions ASP.NET Core integ… |
-| 2026-10-29 06:43:50 | [AdCodicem.ValueObjects.ModelContextProtocol](https://www.nuget.org/packages/AdCodicem.ValueObjects.ModelContextProtocol) | 0.3.0 | AdCodicem | Model Context Protocol support for AdCodicem value objects: tool input and outp… |
-| 2026-10-29 06:43:51 | [AdCodicem.ValueObjects.AspNetCore.NewtonsoftJson](https://www.nuget.org/packages/AdCodicem.ValueObjects.AspNetCore.NewtonsoftJson) | 0.3.0 | AdCodicem | MVC support for AdCodicem value objects on Newtonsoft.Json: the converter in MV… |
-| 2026-10-29 06:43:52 | [AdCodicem.ValueObjects.Identifiers.MongoDB](https://www.nuget.org/packages/AdCodicem.ValueObjects.Identifiers.MongoDB) | 0.3.0 | AdCodicem | MongoDB.Driver id generation for AdCodicem entity identifiers: a document inser… |
-| 2026-10-29 06:49:07 | [AnsElgyar.Templates](https://www.nuget.org/packages/AnsElgyar.Templates) | 0.1.0-beta | Ans Elgyar | A dotnet new template for a clean, ready-to-run ASP.NET Core Minimal API projec… |
-| 2026-10-29 07:05:02 | [RecursiveAI.OneGame.Navigation](https://www.nuget.org/packages/RecursiveAI.OneGame.Navigation) | 1.14.0 | Recursive AI, LLC | Pathfinding for deterministic simulations: grid searches on fixed-point positio… |
+| 2026-10-29 07:32:07 | [Didit](https://www.nuget.org/packages/Didit) | 1.0.0 | Didit | The official Didit .NET library: identity verification (KYC), business verifica… |
+| 2026-10-29 07:32:09 | [Didit.Extensions.DependencyInjection](https://www.nuget.org/packages/Didit.Extensions.DependencyInjection) | 1.0.0 | Didit | Registers the official Didit .NET client with Microsoft.Extensions.DependencyIn… |
+| 2026-10-29 07:33:35 | [MonixOne.OidcProxy.Yarp](https://www.nuget.org/packages/MonixOne.OidcProxy.Yarp) | 7.0.0 | Albert Starreveld,Shulyakovsk… | A .NET 10 Backend-for-Frontend for single-page applications using YARP and stan… |
+| 2026-10-29 07:33:52 | [SldFile](https://www.nuget.org/packages/SldFile) | 0.1.0-alpha | weianweigan | A pure C# standalone reader and parser for SolidWorks files (SLDPRT, SLDASM, SL… |
+| 2026-10-29 07:56:22 | [NCache.OSS.Dapper](https://www.nuget.org/packages/NCache.OSS.Dapper) | 5.3.603 | Alachisoft | NCache Opensource extension for Dapper providing distributed caching of databas… |
+| 2026-10-29 08:14:34 | [Nao.DeveloperTools](https://www.nuget.org/packages/Nao.DeveloperTools) | 1.0.0-alpha1 | jichang | Machine-readable scaffolding, validation, diagnostics, evaluation, and migratio… |
+| 2026-10-29 08:14:37 | [Nao.Extensions](https://www.nuget.org/packages/Nao.Extensions) | 1.0.0-alpha1 | jichang | Compiled adapter registration, lifecycle, compatibility, conformance, and isola… |
+| 2026-10-29 08:14:40 | [Nao.Knowledge.Documents](https://www.nuget.org/packages/Nao.Knowledge.Documents) | 1.0.0-alpha1 | jichang | Nao.Documents parsing adapters for Nao knowledge ingestion. |
+| 2026-10-29 08:14:45 | [Nao.Persistence.Infrastructure](https://www.nuget.org/packages/Nao.Persistence.Infrastructure) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:14:46 | [Nao.Persistence.Memory](https://www.nuget.org/packages/Nao.Persistence.Memory) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:14:48 | [Nao.Persistence.Observability](https://www.nuget.org/packages/Nao.Persistence.Observability) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:14:54 | [Nao.Providers.Ollama](https://www.nuget.org/packages/Nao.Providers.Ollama) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:14:56 | [Nao.Reasoning](https://www.nuget.org/packages/Nao.Reasoning) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:14:59 | [Nao.Reasoning.Constraints](https://www.nuget.org/packages/Nao.Reasoning.Constraints) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:15:00 | [Nao.Reasoning.Datalog](https://www.nuget.org/packages/Nao.Reasoning.Datalog) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:15:02 | [Nao.Semantics](https://www.nuget.org/packages/Nao.Semantics) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:15:03 | [Nao.Semantics.Rdf](https://www.nuget.org/packages/Nao.Semantics.Rdf) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
+| 2026-10-29 08:15:04 | [Nao.Telemetry.OpenTelemetry](https://www.nuget.org/packages/Nao.Telemetry.OpenTelemetry) | 1.0.0-alpha1 | jichang | Nao AI Agent Framework |
 
 ## Data source
 
