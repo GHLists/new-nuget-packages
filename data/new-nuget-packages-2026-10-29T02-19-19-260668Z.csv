@@ -1,0 +1,48 @@
+created_at,package,version,authors,description
+2026-10-29T01:24:36.75Z,lazytsql.linux-arm64,0.1.1,Carlos Gomez,"A lazygit-style terminal client for SQL Server: schema browser, editor with completion, results grid, CSV and .bacpac export."
+2026-10-29T01:24:38.02Z,lazytsql.linux-x64,0.1.1,Carlos Gomez,"A lazygit-style terminal client for SQL Server: schema browser, editor with completion, results grid, CSV and .bacpac export."
+2026-10-29T01:24:39.38Z,lazytsql.osx-arm64,0.1.1,Carlos Gomez,"A lazygit-style terminal client for SQL Server: schema browser, editor with completion, results grid, CSV and .bacpac export."
+2026-10-29T01:24:40.97Z,lazytsql.win-x64,0.1.1,Carlos Gomez,"A lazygit-style terminal client for SQL Server: schema browser, editor with completion, results grid, CSV and .bacpac export."
+2026-10-29T01:24:42.237Z,lazytsql.any,0.1.1,Carlos Gomez,"A lazygit-style terminal client for SQL Server: schema browser, editor with completion, results grid, CSV and .bacpac export."
+2026-10-29T01:24:43.95Z,lazytsql,0.1.1,Carlos Gomez,"A lazygit-style terminal client for SQL Server: schema browser, editor with completion, results grid, CSV and .bacpac export."
+2026-10-29T01:38:13.683Z,IronHive.Providers.Endpoints,0.75.0,iyulab,"IronHive provider endpoints - serve a Microsoft.Extensions.AI IChatClient as the HTTP endpoints a provider-shaped client calls (OpenAI Chat Completions and Responses, Anthropic Messages, Gemini)"
+2026-10-29T01:49:54.847Z,Pusintek.Interkoneksi.Client,1.5.1,Pusintek,"Typed HTTP client for the FRSW Interkoneksi API and XBRL taxonomy service. Both services share one SSO token (client credentials, cached in Redis). Supports submission listing by NPWP + year, Excel template generation and AllowInvalidSsl for dev environments with self-signed certificates."
+2026-10-29T01:50:50.29Z,Stomme.Application.Template,10.74.1,Nova Globen AB,"Scaffolds an app on the Nova Globen Stomme 10.74.1 framework packages (Stomme.*) - Server, Client and Shared projects - with its package versions and feed mapping included: dotnet new stomme-app -o MyCompany.MyProject"
+2026-10-29T01:50:51.353Z,Stomme.Authorization,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:50:52.663Z,Stomme.Client,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:50:54.033Z,Stomme.Client.Sdk,10.74.1,Nova Globen AB,"Compile-time client surface for Stomme module authors: the Stomme.Client assembly (ModuleBase, IModule, ServiceBase) without the full client dependency set. Consume via the Stomme.Sdk.Slim meta-package; at runtime the module streams into a full Stomme client."
+2026-10-29T01:50:55.08Z,Stomme.Engine,10.74.1,Nova Globen AB,Bundles the most commonly-used packages when building a Stomme pipelines application.
+2026-10-29T01:50:56.217Z,Stomme.Engine.Caching,10.74.1,Nova Globen AB,Provides caching services and utility functions common to Stomme modules.
+2026-10-29T01:50:57.297Z,Stomme.Engine.Common,10.74.1,Nova Globen AB,"Provides services and utility functions common to Stomme modules. For example, it provides a system clock and a memory store implementation."
+2026-10-29T01:50:58.457Z,Stomme.Engine.Expressions,10.74.1,Nova Globen AB,"Provides infrastructure for registering and executing pipeline expressions. Out of the box, it provides a DelegateExpression and LiteralExpression."
+2026-10-29T01:50:59.573Z,Stomme.Engine.Features,10.74.1,Nova Globen AB,Provides utilities to turn your class library into a module that provides features.
+2026-10-29T01:51:00.73Z,Stomme.Engine.KeyValues,10.74.1,Nova Globen AB,Provides a store for holding key value records.
+2026-10-29T01:51:01.887Z,Stomme.Engine.Mediator,10.74.1,Nova Globen AB,Provides a mediator service inspired by MediatR.
+2026-10-29T01:51:03.14Z,Stomme.Engine.Pipelines,10.74.1,Nova Globen AB,Provides core pipelining functionality. Basically the heart of Stomme Pipelines.
+2026-10-29T01:51:04.33Z,Stomme.Engine.Pipelines.Management,10.74.1,Nova Globen AB,Provides pipeline management functionality.
+2026-10-29T01:51:05.77Z,Stomme.Engine.Pipelines.Runtime,10.74.1,Nova Globen AB,Provides pipeline runtime functionality.
+2026-10-29T01:51:06.917Z,Stomme.Engine.Tenants,10.74.1,Nova Globen AB,Provides multitenancy services.
+2026-10-29T01:51:08.063Z,Stomme.EventBus,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:09.217Z,Stomme.FeatureManagement,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:10.403Z,Stomme.Infrastructure.EventBus,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:11.637Z,Stomme.Infrastructure.Security.Cryptography,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:12.68Z,Stomme.Mediator,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:13.793Z,Stomme.Persistence,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:14.953Z,Stomme.Persistence.Abstractions,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:16.143Z,Stomme.Persistence.EfCore,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:17.407Z,Stomme.Persistence.File,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:18.623Z,Stomme.Persistence.RavenDb,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:19.67Z,Stomme.Sdk,10.74.1,Nova Globen AB,"Meta-package: the complete Stomme module-facing SDK surface (storage-blind, provider-neutral). One reference brings ModuleBase/IModuleControl (Client UI), IServerStartup + AddModuleAggregatePersistence (Server), the clean-arch SharedKernel, the persistence abstractions + EF/Raven/File providers, te…"
+2026-10-29T01:51:20.8Z,Stomme.Sdk.Slim,10.74.1,Nova Globen AB,"Meta-package: the slim Stomme module-facing SDK (BL-44). The compile surface a storage-blind module actually uses — ModuleBase/IModuleControl (Client UI), IServerStartup + AddModuleAggregatePersistence (Server), the clean-arch SharedKernel and the mediator — without the full server dependency closu…"
+2026-10-29T01:51:21.973Z,Stomme.Security.Abstractions,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:23.71Z,Stomme.Server,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:25.38Z,Stomme.Server.Sdk,10.74.1,Nova Globen AB,"Compile-time server surface for Stomme module authors: the Stomme.Server assembly (IServerStartup, ModuleControllerBase, ILogManager, AddModuleAggregatePersistence) without the full server dependency closure. Consume via the Stomme.Sdk.Slim meta-package; at runtime the module runs inside a full Sto…"
+2026-10-29T01:51:26.62Z,Stomme.Shared,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:27.683Z,Stomme.SharedKernel,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:28.74Z,Stomme.Tenancy.Abstractions,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:29.793Z,Stomme.Tenancy.Domain,10.74.1,Nova Globen AB,CMS and Application Framework for Blazor and .NET MAUI
+2026-10-29T01:51:31.013Z,Stomme.Theme.Aurora.Stomme,1.0.0,Nova Globen AB,An independent general/public UI theme for Stomme.
+2026-10-29T01:51:32.12Z,Stomme.Theme.Slate.Stomme,1.0.0,Nova Globen AB,An independent admin theme for Stomme.
+2026-10-29T01:52:03.523Z,g0v0.Framework.iOS,2026.1029.2,ppy Pty Ltd & GooGuTeam,A 2D application/game framework written with rhythm games in mind.
+2026-10-29T01:52:05.5Z,g0v0.Framework.Android,2026.1029.2,ppy Pty Ltd & GooGuTeam,A 2D application/game framework written with rhythm games in mind.
+2026-10-29T02:02:18.373Z,RecursiveAI.OnePath,1.0.0,"Recursive AI, LLC","Deterministic pathfinding and navigation for .NET: square, hex and voxel grids (A*, JPS, Theta*, HPA*, D* Lite, flow fields), graphs, tiled navigation meshes with 2D and 3D builders and queries, and ORCA crowds. Bit-identical results on every platform and across every release of a major version."
