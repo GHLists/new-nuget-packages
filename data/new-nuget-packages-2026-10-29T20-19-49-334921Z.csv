@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-29T19:22:42.647Z,Whoopi,12.3.0,William Farokhzad and Whoopi Contributors,"Whoopi (https://whoopi.dev) is a next-generation cross-platform UI framework and 240Hz Ultra Composition Engine for .NET 8 LTS designed and architected by William Farokhzad, supporting Windows, Linux, macOS, Android, iOS, and WebAssembly."
+2026-10-29T19:39:36.12Z,VirtualADGV.Core,2.0.0,HibrahimBoz,"UI-independent virtual table sources, minimap model, row search and ordinal selection."
+2026-10-29T19:44:59.257Z,Soenneker.Incident.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Incident's OpenAPI integration.
+2026-10-29T19:45:12.46Z,Soenneker.Incident.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for incident.io.
+2026-10-29T19:56:05.097Z,LlamaLogic.TuningArchive,1.0.3,LlamaLogic,"Capture The Sims 4 tuning into a versioned archive, compare versions, and follow references between tunings."
+2026-10-29T20:03:10.013Z,ArcadeShare,3.0.0,La_TNT,Bibliothèque .NET pour créer des salles de partage et de synchronisation audio en temps réel via WebSocket.

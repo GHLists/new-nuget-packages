@@ -12,25 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:20 UTC
+## Latest list — 2026-10-29 20:19 UTC
 
-New packages created between 2026-10-29 18:22 UTC and 2026-10-29 19:20 UTC.
+New packages created between 2026-10-29 19:20 UTC and 2026-10-29 20:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-29T19-20-46-573484Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-29T20-19-49-334921Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-29 18:34:52 | [Trexon.Configuration](https://www.nuget.org/packages/Trexon.Configuration) | 1.0.0 | Trexoncorp | Typed environment settings for .NET with defaults, aliases, prefixes, dotenv, v… |
-| 2026-10-29 18:38:12 | [StbImageNext](https://www.nuget.org/packages/StbImageNext) | 1.0.0 | StbImageSharpTeam | C# Image Library based on StbImageNext, StbImageWriteSharp, StbImageResizeSharp… |
-| 2026-10-29 18:46:17 | [InventiveRhythm.fluXis.Modes.Keys](https://www.nuget.org/packages/InventiveRhythm.fluXis.Modes.Keys) | 2026.1029.0 | fluXis.Modes.Keys | A community-driven rhythm game with a focus on creativity and expression. |
-| 2026-10-29 18:49:22 | [Gapfy.Echo.ApiExplorer](https://www.nuget.org/packages/Gapfy.Echo.ApiExplorer) | 0.2.8 | Gapfy | Authenticated developer UI and endpoint mock routing for ASP.NET Core applicati… |
-| 2026-10-29 18:49:29 | [Gapfy.Echo.Mock.Runner](https://www.nuget.org/packages/Gapfy.Echo.Mock.Runner) | 0.2.8 | Gapfy | Run isolated Echo HTTP mock snapshots and test commands without remote services. |
-| 2026-10-29 18:49:33 | [Gapfy.Echo.Offline](https://www.nuget.org/packages/Gapfy.Echo.Offline) | 0.2.8 | Gapfy | Versioned, validated Echo mock snapshots for reproducible offline execution. |
-| 2026-10-29 18:53:57 | [NltkNet.Runtime.osx-arm64](https://www.nuget.org/packages/NltkNet.Runtime.osx-arm64) | 2.0.0 | Denis Kazakov | Portable CPython 3.12 and NLTK runtime for NltkNet on osx-arm64. |
-| 2026-10-29 18:53:59 | [NltkNet.Runtime.win-x64](https://www.nuget.org/packages/NltkNet.Runtime.win-x64) | 2.0.0 | Denis Kazakov | Portable CPython 3.12 and NLTK runtime for NltkNet on win-x64. |
-| 2026-10-29 18:54:01 | [NltkNet.Runtime.linux-x64](https://www.nuget.org/packages/NltkNet.Runtime.linux-x64) | 2.0.0 | Denis Kazakov | Portable CPython 3.12 and NLTK runtime for NltkNet on linux-x64. |
-| 2026-10-29 19:01:37 | [DocQL.Net](https://www.nuget.org/packages/DocQL.Net) | 1.0.0 | Nertil Poci | Package Description |
-| 2026-10-29 19:06:50 | [redb.Route.DataFormats.Mime](https://www.nuget.org/packages/redb.Route.DataFormats.Mime) | 4.5.0 | redbase | MIME multipart data format for redb.Route (MimeKit), as Camel's mimeMultipart:… |
+| 2026-10-29 19:22:42 | [Whoopi](https://www.nuget.org/packages/Whoopi) | 12.3.0 | William Farokhzad and Whoopi… | Whoopi (https://whoopi.dev) is a next-generation cross-platform UI framework an… |
+| 2026-10-29 19:39:36 | [VirtualADGV.Core](https://www.nuget.org/packages/VirtualADGV.Core) | 2.0.0 | HibrahimBoz | UI-independent virtual table sources, minimap model, row search and ordinal sel… |
+| 2026-10-29 19:44:59 | [Soenneker.Incident.HttpClients](https://www.nuget.org/packages/Soenneker.Incident.HttpClients) | 11.0.1 | Jake Soenneker | A thread-safe singleton HttpClient for Incident's OpenAPI integration. |
+| 2026-10-29 19:45:12 | [Soenneker.Incident.OpenApiClient](https://www.nuget.org/packages/Soenneker.Incident.OpenApiClient) | 11.0.1 | Jake Soenneker | A generated OpenAPI client for incident.io. |
+| 2026-10-29 19:56:05 | [LlamaLogic.TuningArchive](https://www.nuget.org/packages/LlamaLogic.TuningArchive) | 1.0.3 | LlamaLogic | Capture The Sims 4 tuning into a versioned archive, compare versions, and follo… |
+| 2026-10-29 20:03:10 | [ArcadeShare](https://www.nuget.org/packages/ArcadeShare) | 3.0.0 | La_TNT | Bibliothèque .NET pour créer des salles de partage et de synchronisation audio… |
 
 ## Data source
 
