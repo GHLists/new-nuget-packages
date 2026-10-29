@@ -12,20 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 20:19 UTC
+## Latest list — 2026-10-29 21:19 UTC
 
-New packages created between 2026-10-29 19:20 UTC and 2026-10-29 20:19 UTC.
+New packages created between 2026-10-29 20:19 UTC and 2026-10-29 21:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-29T20-19-49-334921Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-29T21-19-56-197023Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-29 19:22:42 | [Whoopi](https://www.nuget.org/packages/Whoopi) | 12.3.0 | William Farokhzad and Whoopi… | Whoopi (https://whoopi.dev) is a next-generation cross-platform UI framework an… |
-| 2026-10-29 19:39:36 | [VirtualADGV.Core](https://www.nuget.org/packages/VirtualADGV.Core) | 2.0.0 | HibrahimBoz | UI-independent virtual table sources, minimap model, row search and ordinal sel… |
-| 2026-10-29 19:44:59 | [Soenneker.Incident.HttpClients](https://www.nuget.org/packages/Soenneker.Incident.HttpClients) | 11.0.1 | Jake Soenneker | A thread-safe singleton HttpClient for Incident's OpenAPI integration. |
-| 2026-10-29 19:45:12 | [Soenneker.Incident.OpenApiClient](https://www.nuget.org/packages/Soenneker.Incident.OpenApiClient) | 11.0.1 | Jake Soenneker | A generated OpenAPI client for incident.io. |
-| 2026-10-29 19:56:05 | [LlamaLogic.TuningArchive](https://www.nuget.org/packages/LlamaLogic.TuningArchive) | 1.0.3 | LlamaLogic | Capture The Sims 4 tuning into a versioned archive, compare versions, and follo… |
-| 2026-10-29 20:03:10 | [ArcadeShare](https://www.nuget.org/packages/ArcadeShare) | 3.0.0 | La_TNT | Bibliothèque .NET pour créer des salles de partage et de synchronisation audio… |
+| 2026-10-29 20:37:21 | [miPDFlib](https://www.nuget.org/packages/miPDFlib) | 0.2.5-alpha | Wolfgang Mitterbucher | Open-source (Apache-2.0) PDF library for .NET: create, read, modify, merge, fil… |
+| 2026-10-29 20:44:36 | [NetworkInspector.BuiltInPlugins](https://www.nuget.org/packages/NetworkInspector.BuiltInPlugins) | 0.19.0 | DevAM | Built-in core-tier plugins: standard protocols, file and random sources, and th… |
+| 2026-10-29 20:45:14 | [NetworkInspector.Plugins](https://www.nuget.org/packages/NetworkInspector.Plugins) | 0.19.0 | DevAM | Core-tier plugin contract: entry point, builder, context, source and exporter r… |
+| 2026-10-29 20:45:21 | [NetworkInspector.Plugins.Loader](https://www.nuget.org/packages/NetworkInspector.Plugins.Loader) | 0.19.0 | DevAM | Plugin pre-scan, scan cache, load contexts, registry, and lifecycle for Network… |
+| 2026-10-29 20:48:13 | [ImzaKit](https://www.nuget.org/packages/ImzaKit) | 1.0.0 | ImzaKit contributors | Provider-independent electronic signature toolkit for .NET: PAdES, CAdES, XAdES… |
+| 2026-10-29 20:49:38 | [Cratis.Observability.SourceGenerators](https://www.nuget.org/packages/Cratis.Observability.SourceGenerators) | 7.28.0 | Cratis | Roslyn source generators and analyzers for strongly typed metrics and trace spa… |
 
 ## Data source
 

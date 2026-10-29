@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-29T20:37:21.643Z,miPDFlib,0.2.5-alpha,Wolfgang Mitterbucher,"Open-source (Apache-2.0) PDF library for .NET: create, read, modify, merge, fill forms, encrypt and digitally sign PDF documents."
+2026-10-29T20:44:36Z,NetworkInspector.BuiltInPlugins,0.19.0,DevAM,"Built-in core-tier plugins: standard protocols, file and random sources, and the nine exporters on the plugin contract."
+2026-10-29T20:45:14.937Z,NetworkInspector.Plugins,0.19.0,DevAM,"Core-tier plugin contract: entry point, builder, context, source and exporter registrations."
+2026-10-29T20:45:21.267Z,NetworkInspector.Plugins.Loader,0.19.0,DevAM,"Plugin pre-scan, scan cache, load contexts, registry, and lifecycle for NetworkInspector applications."
+2026-10-29T20:48:13.8Z,ImzaKit,1.0.0,ImzaKit contributors,"Provider-independent electronic signature toolkit for .NET: PAdES, CAdES, XAdES and ASiC signing, PKCS#11 card signing, RFC 3161 time-stamps and B-T/B-LT/B-LTA extension, and offline validation that checks each signature, certificate trust and revocation, weak algorithms, time-stamp authorities and…"
+2026-10-29T20:49:38.52Z,Cratis.Observability.SourceGenerators,7.28.0,Cratis,"Roslyn source generators and analyzers for strongly typed metrics and trace spans in .NET applications, part of Cratis Fundamentals"
