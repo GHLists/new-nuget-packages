@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-10-29T13:33:31.367Z,Naratteu.Anonymous,0.1.0,naratteu,인터페이스를 자바 익명클래스처럼 그 자리에서 구현하게 해주는 소스제너레이터
+2026-10-29T13:41:11.03Z,Scarlet.System.Text.Json.IgnoreCondition,1.0.0,ScarletKuro,"Adds WhenReadingNull and WhenReadingDefault to System.Text.Json alongside native ignore conditions, for reflection-based and source-generated serializers including NativeAOT. Includes an analyzer and code fixes for conflicting attributes."
+2026-10-29T13:42:34.497Z,Simorgh.AI.Routing,0.1.4,Simorgh AI Contributors,Extensible model routing for Simorgh.AI.
+2026-10-29T13:52:55.787Z,ChzzkApi-CS,1.0.0,Null38,Chzzk Open API C# client library
+2026-10-29T13:58:03.34Z,Beckhoff.TwinCAT.HMI.OAuth,25.0.122,Beckhoff,TwinCAT HMI is a development environment for web-based HMIs (Human Machine Interfaces). This package provides an OAuth extension for the TwinCAT HMI Server.
+2026-10-29T14:09:41.177Z,Amber.Audio.OpenAL,0.1.0,Robert Schneckenhaus,OpenAL implementation of the Amber audio interfaces.
+2026-10-29T14:09:42.097Z,Amber.Renderer.OpenGL,0.1.0,Robert Schneckenhaus,OpenGL implementation of the Amber renderer interfaces.
+2026-10-29T14:09:44.29Z,Amber.Common,0.1.0,Robert Schneckenhaus,Basic utilities which all other Amber projects might use.
+2026-10-29T14:09:45.067Z,Amber.Assets.Common,0.1.0,Robert Schneckenhaus,Interfaces and general classes for working with assets.
+2026-10-29T14:09:45.87Z,Amber.IO.FileSystem,0.1.0,Robert Schneckenhaus,Implementation of different file systems (e.g. virtual and operating system).
+2026-10-29T14:09:47.547Z,Amber.IO.FileFormats,0.1.0,Robert Schneckenhaus,"Common file formats used in Amberstar and Ambermoon like the container files, with readers, writers, compression and encoding routines."
