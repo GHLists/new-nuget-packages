@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-10-29T08:50:32.983Z,DouyinOpenApi,1.0.3,zhangliang2008,抖音开放平台 OpenAPI SDK 的 C# 实现，兼容 .NET Framework 4.7+ 与 .NET Standard 2.0
