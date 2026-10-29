@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-10-29T05:46:06.453Z,Joinery.Dovetail.Hosting,0.3.0,"David Driscoll,Rocket Surgeons Guild contributors","Adds helpers to easily bootstrap an application using conventions by just using the correct extension method. This adds command line operations, additional configuration, logging and service injections by convention. One package for every host: the helpers for the generic host, ASP.NET Core, .NET M…"
+2026-10-29T06:13:16.78Z,Pilz.Updating.Ui.WinForms,5.0.1,Pilz.Updating.Ui.WinForms,Package Description
