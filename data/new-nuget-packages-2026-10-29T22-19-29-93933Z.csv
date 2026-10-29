@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-29T21:24:57.2Z,HttpConnectionCore.Shared,1.0.0,By Mx,Librería optimizada en .NET 6 para el consumo de Web APIs utilizando SocketsHttpHandler.
+2026-10-29T21:31:53.677Z,Qwips.Core.ClientSdk.MultiCase,1.0.1,Qwips.Core.ClientSdk.MultiCase,Package Description
+2026-10-29T21:34:27.93Z,Qwips.ClientSdk.QwipsIntegration,1.0.0,Qwips.ClientSdk.QwipsIntegration,Package Description
+2026-10-29T21:40:11.513Z,Colonise,0.2.0,Simon Jefferies,"A read-only engineering colony with asynchronous residents, durable inboxes, and optional Codex CLI integration."
+2026-10-29T22:10:22.44Z,NymBroker.Scheduling.MySql,0.15.0,nymankla@gmail.com,Durable MySQL / MariaDB schedule store for NymBroker: named scheduled actions run once across instances and catch up missed runs after a restart.
+2026-10-29T22:10:24.887Z,NymBroker.Scheduling.Sqlite,0.15.0,nymankla@gmail.com,Durable SQLite schedule store for NymBroker: named scheduled actions catch up missed runs after a restart. Single host only.
+2026-10-29T22:10:26.12Z,NymBroker.Scheduling.SqlServer,0.15.0,nymankla@gmail.com,Durable SQL Server schedule store for NymBroker: named scheduled actions run once across instances and catch up missed runs after a restart.
+2026-10-29T22:10:26.75Z,NymBroker.Scheduling.Postgres,0.15.0,nymankla@gmail.com,Durable PostgreSQL schedule store for NymBroker: named scheduled actions run once across instances and catch up missed runs after a restart.
