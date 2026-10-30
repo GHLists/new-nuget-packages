@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-10-30T16:21:17.487Z,Photon.Core.EventBus,1.0.0.8,putoo,事件总线
+2026-10-30T16:21:38.973Z,Photon.Core.Http,1.0.0.8,putoo,HTTP请求组件
+2026-10-30T16:21:49.94Z,Hopper.Fintech.Flights,0.1.0,Hopper,"Client for the HTS Fintech Flights APIs (Cancel For Any Reason and Disruption Guarantee), with Spreedly card tokenization."
+2026-10-30T16:22:08.03Z,GroupDocs.Parser.Net48,26.10.0,Aspose,Runtime assemblies for GroupDocs.Parser targeting .NET Framework 4.8.0. Install directly or through the GroupDocs.Parser metapackage.
+2026-10-30T16:30:34.043Z,Rulealize.RuleSet.Chess,1.0.0,Reny,"Chess, with castling, en passant and promotion. A Rulealize rule set."
+2026-10-30T16:37:15.59Z,Rulealize.RuleSet.Minesweeper,1.0.0,Reny,"Minesweeper on a 9 × 9 board with ten mines, laid after the first cell is opened and never next to it. A Rulealize rule set."
+2026-10-30T16:39:45.167Z,Parlot.Explorer,2.1.0,Sebastien Ros,Local parser diagnostics and replay explorer for Parlot generated parsers.
+2026-10-30T16:42:01.76Z,Doppelganger,0.0.1,Niklas Wendel,"Doppelganger - an opinionated, source-generated mocking library for .NET, built on Mimics"
+2026-10-30T16:42:34.437Z,Bimwright.Dwg.Server,2.1.1,Khoa Le,"MCP gateway for AutoCAD 2022-2027 DWG workflows: text reading, translation rewriting, target routing, optional ToolBaker, and opt-in code execution."
+2026-10-30T16:46:22.54Z,Rulealize.RuleSet.PackingList,1.0.0,Reny,"What to take, and what is in the bag already: items added as they come to mind and ticked as they are packed. A Rulealize rule set."
+2026-10-30T16:55:43.347Z,Rulealize.RuleSet.Reversi,1.0.0,Reny,"Reversi for two players on an 8 × 8 board, with passing when no disc can be placed. A Rulealize rule set."
+2026-10-30T17:01:55.717Z,Rulealize.RuleSet.Scoreboard,1.0.0,Reny,"Points for each player, round after round, and who is ahead. A Rulealize rule set."
+2026-10-30T17:09:36.24Z,Gurux.DLMS.AMI.Http,4.1.2610.3001,Gurux Ltd,Lightweight HTTP response validation and JSON request helpers for Gurux DLMS AMI.
+2026-10-30T17:11:42.087Z,CppPinyin,2.0.0,CppPinyin,C# binding for cpp-pinyin2 (Mandarin and Cantonese) over its C ABI. The native library is loaded from the package's runtimes/<rid>/native/ directory.
+2026-10-30T17:12:50.86Z,OvoUi.Platform.NoAOT,1.0.3,tiouo,Optional Windows Jump List and reflection-based composition materials. Requires the managed runtime; Native AOT and trimming are not supported.
+2026-10-30T17:12:51.967Z,OvoUi.Lang,1.0.3,tiouo,"Reactive, strongly typed Avalonia localization with configurable resource paths and multilingual IntelliSense."
+2026-10-30T17:12:53.04Z,OvoUi.DataGrid,1.0.3,tiouo,Optional OvoUi DataGrid theme. Requires the managed runtime; Native AOT is not supported by the upstream DataGrid.
+2026-10-30T17:15:50.017Z,Rulealize.RuleSet.SplitBill,1.0.0,Reny,"Who paid for what on a trip or a night out, and what each one pays or gets back when the total is shared equally. A Rulealize rule set."
