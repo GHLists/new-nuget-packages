@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-30T11:49:26.613Z,VehicleVision.PleasanterTools.DatabaseConverter,0.2.0,"PMC Co., Ltd. IT Solution Div.",Pleasanter の DB を、SQL Server・PostgreSQL・MySQL の間で相互に変換するコマンドラインツール。
+2026-10-30T11:53:27.7Z,Centrifugal.Cent,0.1.0,Centrifugal Labs,"Centrifugo server API SDK for .NET: the HTTP API client with broadcasts, batches and automatic batching; connection, subscription and API tokens with JWKS; proxy handlers and the endpoints client SDKs call."
+2026-10-30T11:53:28.597Z,Centrifugal.Cent.AspNetCore,0.1.0,Centrifugal Labs,"ASP.NET Core integration of Centrifugal.Cent, the Centrifugo server API SDK: serves its proxy handlers, client SDK endpoints and JWKS endpoints, and registers its client."
+2026-10-30T11:56:34.273Z,Resultron.FluentAssertions,1.0.0,ferdikurnazdm,"FluentAssertions integration for Resultron, providing expressive and readable assertions for Result and Result<T> objects. Simplifies unit testing of success states, failures, error details, and returned values with fluent assertion APIs."
+2026-10-30T11:58:01.3Z,Themia.Storage.Configuration,0.46.0,Sarawut Phaekuntod,"One configuration shape for Themia.Storage: AddThemiaStorageFromConfiguration reads the Storage section, keeps private files on Local for good (any other value stops the host), and puts only public files on Local or S3/R2."
+2026-10-30T11:59:00.26Z,Arc56.Generated.algorandfoundation.algokit-ts,1.0.1.2026103011,algorandfoundation,Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algokit-ts.
