@@ -1,0 +1,48 @@
+created_at,package,version,authors,description
+2026-10-30T05:34:34.747Z,VehicleVision.PleasanterTools.Core.Data,0.1.0,"PMC Co., Ltd. IT Solution Div.",VehicleVision.PleasanterTools 各アプリ共通の DB 基盤（接続・方言差・マイグレーションと排他・適用と状態確認のコマンド）。
+2026-10-30T05:34:35.173Z,VehicleVision.PleasanterTools.Core.Mail,0.1.0,"PMC Co., Ltd. IT Solution Div.",VehicleVision.PleasanterTools 各アプリ共通のメール送信（SMTP / Amazon SES / Azure Communication Services）。
+2026-10-30T05:34:35.523Z,VehicleVision.PleasanterTools.Core.Web.Testing,0.1.0,"PMC Co., Ltd. IT Solution Div.",管理画面の HTTP 契約をアプリに依存せず検証する xUnit の共有テスト。
+2026-10-30T05:34:35.847Z,VehicleVision.PleasanterTools.Core.Web,0.1.0,"PMC Co., Ltd. IT Solution Div.",VehicleVision.PleasanterTools 各アプリ共通の Web 層の部品（本人確認、認証設定、パスワード・TOTP・秘密の暗号化・復旧コード・招待・権限表）。
+2026-10-30T05:55:22.88Z,EetGateway.Client,0.1.0,Hospodskej,Typed .NET client for the EET Gateway HTTP API v1 (Czech EET 2.0). No dependencies beyond the BCL.
+2026-10-30T06:07:01.007Z,iswix,7.0.1,Christopher Painter,The WiX Toolset lets developers create installers for Windows. This package contains the WiX Toolset command-line interface.
+2026-10-30T06:07:01.897Z,IsWiX.BootstrapperApplicationApi,7.0.1,Christopher Painter,Managed Bootstrapper Application API
+2026-10-30T06:07:02.71Z,IsWiX.BootstrapperApplications.wixext,7.0.1,Christopher Painter,WiX Toolset BootstrapperApplications extension
+2026-10-30T06:07:03.497Z,IsWiX.BootstrapperExtensionApi,7.0.1,Christopher Painter,WiX Toolset Bundle Extension API
+2026-10-30T06:07:04.267Z,IsWiX.Burn,7.0.1,Christopher Painter,Native component of WixToolset.Burn
+2026-10-30T06:07:05.043Z,IsWiX.ComPlus.wixext,7.0.1,Christopher Painter,WiX Toolset ComPlus Extension
+2026-10-30T06:07:05.71Z,IsWiX.Converters,7.0.1,Christopher Painter,Converter
+2026-10-30T06:07:06.523Z,IsWiX.Converters.Symbolizer,7.0.1,Christopher Painter,Symbolizer
+2026-10-30T06:07:07.247Z,IsWiX.Core,7.0.1,Christopher Painter,Core
+2026-10-30T06:07:07.993Z,IsWiX.Core.Burn,7.0.1,Christopher Painter,Core Burn
+2026-10-30T06:07:08.713Z,IsWiX.Core.ExtensionCache,7.0.1,Christopher Painter,Extension Cache
+2026-10-30T06:07:09.473Z,IsWiX.Core.Native,7.0.1,Christopher Painter,WiX Toolset Native Processing
+2026-10-30T06:07:10.253Z,IsWiX.Core.WindowsInstaller,7.0.1,Christopher Painter,Core Windows Installer
+2026-10-30T06:07:10.97Z,IsWiX.Data,7.0.1,Christopher Painter,WiX Toolset Data
+2026-10-30T06:07:11.72Z,IsWiX.Dependency.wixext,7.0.1,Christopher Painter,WiX Toolset Dependency Extension
+2026-10-30T06:07:12.493Z,IsWiX.DirectX.wixext,7.0.1,Christopher Painter,WiX Toolset DirectX Extension
+2026-10-30T06:07:13.177Z,IsWiX.Dtf.Compression,7.0.1,Christopher Painter,Abstract base libraries for archive packing and unpacking
+2026-10-30T06:07:13.863Z,IsWiX.Dtf.Compression.Cab,7.0.1,Christopher Painter,Managed libraries for cabinet archive packing and unpacking
+2026-10-30T06:07:14.547Z,IsWiX.Dtf.Compression.Zip,7.0.1,Christopher Painter,Managed libraries for zip archive packing and unpacking
+2026-10-30T06:07:15.293Z,IsWiX.Dtf.CustomAction,7.0.1,Christopher Painter,The WiX Toolset lets developers create managed custom actions for the Windows Installer. This package contains the tools necessary to convert your project into a managed custom action.
+2026-10-30T06:07:15.98Z,IsWiX.Dtf.Resources,7.0.1,Christopher Painter,Classes for reading and writing resource data in executable files
+2026-10-30T06:07:16.837Z,IsWiX.Dtf.WindowsInstaller,7.0.1,Christopher Painter,Managed libraries for Windows Installer
+2026-10-30T06:07:17.55Z,IsWiX.Dtf.WindowsInstaller.Linq,7.0.1,Christopher Painter,LINQ extensions for Windows Installer classes
+2026-10-30T06:07:18.283Z,IsWiX.Dtf.WindowsInstaller.Package,7.0.1,Christopher Painter,Extended managed libraries for Windows Installer
+2026-10-30T06:07:19.187Z,IsWiX.DUtil,7.0.1,Christopher Painter,WiX Toolset native library foundation
+2026-10-30T06:07:19.863Z,IsWiX.Extensibility,7.0.1,Christopher Painter,WiX Toolset Extensibility
+2026-10-30T06:07:20.59Z,IsWiX.Firewall.wixext,7.0.1,Christopher Painter,WiX Toolset Firewall Extension
+2026-10-30T06:07:21.343Z,IsWiX.Http.wixext,7.0.1,Christopher Painter,WiX Toolset Http Extension
+2026-10-30T06:07:22.077Z,IsWiX.Iis.wixext,7.0.1,Christopher Painter,WiX Toolset Iis Extension
+2026-10-30T06:07:22.793Z,IsWiX.Msmq.wixext,7.0.1,Christopher Painter,WiX Toolset MSMQ Extension
+2026-10-30T06:07:23.65Z,IsWiX.Netfx.wixext,7.0.1,Christopher Painter,WiX Toolset .NET extension
+2026-10-30T06:07:24.31Z,IsWiX.PowerShell.wixext,7.0.1,Christopher Painter,WiX Toolset PowerShell Extension
+2026-10-30T06:07:25.633Z,IsWiX.Sdk,7.0.1,Christopher Painter,WiX Toolset MSBuild integration
+2026-10-30T06:07:26.313Z,IsWiX.Sql.wixext,7.0.1,Christopher Painter,WiX Toolset Sql Extension
+2026-10-30T06:07:26.953Z,IsWiX.Templates,7.0.1,Christopher Painter,Project and item template for the WiX Toolset.
+2026-10-30T06:07:27.68Z,IsWiX.UI.wixext,7.0.1,Christopher Painter,WiX Toolset UI Extension
+2026-10-30T06:07:28.42Z,IsWiX.Util.wixext,7.0.1,Christopher Painter,WiX Toolset Utility extension
+2026-10-30T06:07:29.07Z,IsWiX.Versioning,7.0.1,Christopher Painter,WiX Toolset Versioning
+2026-10-30T06:07:29.763Z,IsWiX.VisualStudio.wixext,7.0.1,Christopher Painter,WiX Toolset Visual Studio Extension
+2026-10-30T06:07:30.507Z,IsWiX.WcaUtil,7.0.1,Christopher Painter,WiX Toolset Custom Action native utility library
+2026-10-30T06:07:31.31Z,IsWiX.WixStandardBootstrapperApplicationFunctionApi,7.0.1,Christopher Painter,WiX Toolset Standard BootstrapperApplication Functions API
+2026-10-30T06:08:31.817Z,Azure.ResourceManager.EdgeActions,1.0.0,Microsoft,Microsoft Azure Resource Manager client SDK for Azure resource provider Microsoft.Cdn EdgeActions.
