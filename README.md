@@ -12,20 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 07:21 UTC
+## Latest list — 2026-10-30 08:21 UTC
 
-New packages created between 2026-10-30 06:19 UTC and 2026-10-30 07:21 UTC.
+New packages created between 2026-10-30 07:21 UTC and 2026-10-30 08:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T07-21-25-019819Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T08-21-01-862462Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 06:31:22 | [NewLife.Cube.Vue](https://www.nuget.org/packages/NewLife.Cube.Vue) | 1.0.2026.1030 | 新生命开发团队 | 魔方Vue前端皮肤包，基于Vue3+Element Plus，提供开箱即用的管理后台前端。支持动态菜单、字段元数据驱动的列表和表单、CRUD操作、OAuth登… |
-| 2026-10-30 06:38:55 | [Sdcb.SimdCodecs.Bmp](https://www.nuget.org/packages/Sdcb.SimdCodecs.Bmp) | 1.1.0 | sdcb | Pure-managed BMP / DIB decoder and encoder for .NET, SIMD-accelerated (AVX2 / S… |
-| 2026-10-30 06:38:59 | [Sdcb.SimdCodecs.Ico](https://www.nuget.org/packages/Sdcb.SimdCodecs.Ico) | 1.1.0 | sdcb | Pure-managed Windows icon (ICO) and cursor (CUR) decoder and encoder for .NET.… |
-| 2026-10-30 06:56:17 | [RelayWA.Sdk](https://www.nuget.org/packages/RelayWA.Sdk) | 0.1.0 | RelayWA SDK contributors | Server-side RelayWA .NET SDK for WhatsApp messaging, session management, and we… |
-| 2026-10-30 07:01:23 | [Corvus.Regex.Ecma262.CodeGeneration.Sources](https://www.nuget.org/packages/Corvus.Regex.Ecma262.CodeGeneration.Sources) | 1.0.9 | Endjin Limited | The Corvus.Regex.Ecma262 emitter as source: a code generator takes it to write… |
-| 2026-10-30 07:07:07 | [Alcifra.Cli](https://www.nuget.org/packages/Alcifra.Cli) | 0.55.0 | saconsole | alcifra — administrative CLI for an Alcifra installation: sign in, provision te… |
+| 2026-10-30 07:32:32 | [RKNNSharp](https://www.nuget.org/packages/RKNNSharp) | 0.1.0 | sqk0232 | RK3588 DMA-frame RKNN inference with RGA preprocessing. |
+| 2026-10-30 07:41:37 | [Extrode.Pare](https://www.nuget.org/packages/Extrode.Pare) | 0.6.1 | Extrode | TypeScript type stripper: overwrites type syntax with spaces, so the JavaScript… |
+| 2026-10-30 07:41:38 | [Extrode.Pare.AspNetCore](https://www.nuget.org/packages/Extrode.Pare.AspNetCore) | 0.6.1 | Extrode | Re-strips changed TypeScript (wwwroot, PareServeAt sources, referenced Razor cl… |
+| 2026-10-30 07:41:39 | [Extrode.Pare.Build](https://www.nuget.org/packages/Extrode.Pare.Build) | 0.6.1 | Extrode | Strips TypeScript type syntax to JavaScript during dotnet build. No Node. |
+| 2026-10-30 07:53:59 | [Sdcb.SimdCodecs.Pnm](https://www.nuget.org/packages/Sdcb.SimdCodecs.Pnm) | 1.2.0 | sdcb | Pure-managed Netpbm decoder and encoder for .NET: PBM, PGM and PPM (P1-P6, plai… |
+| 2026-10-30 07:54:08 | [Sdcb.SimdCodecs.Qoi](https://www.nuget.org/packages/Sdcb.SimdCodecs.Qoi) | 1.2.0 | sdcb | Pure-managed QOI ("Quite OK Image") decoder and encoder for .NET, written from… |
+| 2026-10-30 07:57:39 | [Doka.EntityFrameworkCore.NestedSet.MySql](https://www.nuget.org/packages/Doka.EntityFrameworkCore.NestedSet.MySql) | 10.1.0 | Dominic Kalkbrenner | Nested-set hierarchy integration for the MySql Entity Framework Core provider. |
+| 2026-10-30 07:57:45 | [Doka.EntityFrameworkCore.NestedSet.Postgres](https://www.nuget.org/packages/Doka.EntityFrameworkCore.NestedSet.Postgres) | 10.1.0 | Dominic Kalkbrenner | Nested-set hierarchy integration for the Postgres Entity Framework Core provide… |
+| 2026-10-30 07:57:51 | [Doka.EntityFrameworkCore.NestedSet.Sqlite](https://www.nuget.org/packages/Doka.EntityFrameworkCore.NestedSet.Sqlite) | 10.1.0 | Dominic Kalkbrenner | Nested-set hierarchy integration for the Sqlite Entity Framework Core provider. |
+| 2026-10-30 07:57:58 | [Doka.EntityFrameworkCore.NestedSet.SqlServer](https://www.nuget.org/packages/Doka.EntityFrameworkCore.NestedSet.SqlServer) | 10.1.0 | Dominic Kalkbrenner | Nested-set hierarchy integration for the SqlServer Entity Framework Core provid… |
+| 2026-10-30 07:59:05 | [Iyu.Lowline](https://www.nuget.org/packages/Iyu.Lowline) | 0.46.0 | iyulab | iyu-framework-v5: OData + GraphQL runtime framework for .NET 10. |
+| 2026-10-30 08:03:53 | [Aurionpro.PaymentFramework.Core10.0](https://www.nuget.org/packages/Aurionpro.PaymentFramework.Core10.0) | 10.0.0 | Core10 | Package Description |
 
 ## Data source
 
