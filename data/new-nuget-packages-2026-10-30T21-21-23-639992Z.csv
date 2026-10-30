@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-30T20:21:52.137Z,MonoChestnut.Data,0.1.0,YvesShen,MonoChestnut 游戏引擎的游戏配置模型：数据类、JSON 读写（多态实体用 $type 区分）和带出错位置的校验。不依赖 MonoGame，供引擎和设计器共用。
+2026-10-30T20:22:12.953Z,MonoChestnut.Rom,0.1.0,YvesShen,MonoChestnut 游戏引擎的 rom 格式：把配置和资源打包成压缩（Brotli）、加密（AES-256-GCM）、签名（ECDSA P-256）的单个文件，按块读取和校验；包含签名密钥、信任文件和贴图图集索引。只依赖 .NET。
+2026-10-30T20:30:11.73Z,Decionis,0.3.0,Decionis,Enterprise Decision Protocol SDK for policy-enforced .NET automation and verifiable audit trails.
+2026-10-30T20:45:11.657Z,StrictSharp,1.0.22,Felipe Alves,Library for code analisys to performance
+2026-10-30T21:00:02.323Z,T-mp.dotnet.Logging.Extensions.TestLogging,0.3.1-pre002,T-mp.dotnet.Logging.Extensions.TestLogging,Logging Erweiterungen für Tests

@@ -12,27 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 20:19 UTC
+## Latest list — 2026-10-30 21:21 UTC
 
-New packages created between 2026-10-30 19:21 UTC and 2026-10-30 20:19 UTC.
+New packages created between 2026-10-30 20:19 UTC and 2026-10-30 21:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T20-19-38-572595Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T21-21-23-639992Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 19:31:45 | [Azure.Functions.Cli.Workloads.Workers.Python](https://www.nuget.org/packages/Azure.Functions.Cli.Workloads.Workers.Python) | 4.46.2-preview | Microsoft | Azure Functions CLI content workload that ships the Python language worker. |
-| 2026-10-30 19:33:25 | [Monq.Core.GrpcClientExtensions](https://www.nuget.org/packages/Monq.Core.GrpcClientExtensions) | 0.1.0-rev-411161078… | MONQ Digital lab | Shared gRPC client registration on top of Monq.Core.MicroserviceAddressing: nam… |
-| 2026-10-30 19:33:49 | [ZapSMTP](https://www.nuget.org/packages/ZapSMTP) | 0.1.0 | ZapSMTP | The official .NET library for the ZapSMTP email API: send, receive and track em… |
-| 2026-10-30 19:33:50 | [ZapSMTP.Extensions.DependencyInjection](https://www.nuget.org/packages/ZapSMTP.Extensions.DependencyInjection) | 0.1.0 | ZapSMTP | Registers the ZapSMTP client with Microsoft.Extensions.DependencyInjection and… |
-| 2026-10-30 19:39:21 | [Nelshh.GstSharpBundle](https://www.nuget.org/packages/Nelshh.GstSharpBundle) | 1.28.8.1 | GstSharpBundle | GStreamer C# bindings for .NET 8+ with the official GStreamer 1.28 runtime bund… |
-| 2026-10-30 19:39:32 | [Nelshh.GstSharpBundle.Windows.X64](https://www.nuget.org/packages/Nelshh.GstSharpBundle.Windows.X64) | 1.28.8.1 | GstSharpBundle.Windows.X64 | GStreamer C# bindings for .NET 8+ with the official GStreamer 1.28 runtime bund… |
-| 2026-10-30 19:40:42 | [FAI.Router](https://www.nuget.org/packages/FAI.Router) | 0.1.0 | MASFractal | Picks the right LLM, agent or tool for each request and checks what it delivere… |
-| 2026-10-30 19:45:24 | [BuildAgent.Tool](https://www.nuget.org/packages/BuildAgent.Tool) | 2.0.0 | The-Running-Dev | Runs build-agent builds in the versioned image from the host and updates a runn… |
-| 2026-10-30 19:56:42 | [BorrowedTorch.UI.Markup](https://www.nuget.org/packages/BorrowedTorch.UI.Markup) | 1.0.0 | Vladyslav Pysarenko | Builds BorrowedTorch.UI element trees from XML markup: elements by type name, t… |
-| 2026-10-30 20:00:33 | [NanoByte.StructureEditor.NewtonsoftJson](https://www.nuget.org/packages/NanoByte.StructureEditor.NewtonsoftJson) | 3.0.0 | Bastian Eicher | Newtonsoft.Json serialization support for split-screen editors for data structu… |
-| 2026-10-30 20:04:02 | [NetReporter.Fonts.Liberation](https://www.nuget.org/packages/NetReporter.Fonts.Liberation) | 1.3.0 | Marvin Chinchilla | Liberation Sans, Serif and Mono fonts (SIL OFL 1.1) embedded for NetReporter, m… |
-| 2026-10-30 20:04:45 | [Soenneker.Blazor.Extensions.IJSRuntimes](https://www.nuget.org/packages/Soenneker.Blazor.Extensions.IJSRuntimes) | 11.0.1 | Jake Soenneker | Extension methods for IJSRuntime that add operation context to JavaScript invoc… |
-| 2026-10-30 20:12:48 | [Morgana.AI.LanguageModels.Anthropic](https://www.nuget.org/packages/Morgana.AI.LanguageModels.Anthropic) | 1.0.0-beta1 | Marco De Salvo | Anthropic provider for Morgana: serves a tier on Claude models. |
+| 2026-10-30 20:21:52 | [MonoChestnut.Data](https://www.nuget.org/packages/MonoChestnut.Data) | 0.1.0 | YvesShen | MonoChestnut 游戏引擎的游戏配置模型：数据类、JSON 读写（多态实体用 $type 区分）和带出错位置的校验。不依赖 MonoGame，供引擎和… |
+| 2026-10-30 20:22:12 | [MonoChestnut.Rom](https://www.nuget.org/packages/MonoChestnut.Rom) | 0.1.0 | YvesShen | MonoChestnut 游戏引擎的 rom 格式：把配置和资源打包成压缩（Brotli）、加密（AES-256-GCM）、签名（ECDSA P-256）的单… |
+| 2026-10-30 20:30:11 | [Decionis](https://www.nuget.org/packages/Decionis) | 0.3.0 | Decionis | Enterprise Decision Protocol SDK for policy-enforced .NET automation and verifi… |
+| 2026-10-30 20:45:11 | [StrictSharp](https://www.nuget.org/packages/StrictSharp) | 1.0.22 | Felipe Alves | Library for code analisys to performance |
+| 2026-10-30 21:00:02 | [T-mp.dotnet.Logging.Extensions.TestLogging](https://www.nuget.org/packages/T-mp.dotnet.Logging.Extensions.TestLogging) | 0.3.1-pre002 | T-mp.dotnet.Logging.Extension… | Logging Erweiterungen für Tests |
 
 ## Data source
 
