@@ -12,19 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 21:21 UTC
+## Latest list — 2026-10-30 22:21 UTC
 
-New packages created between 2026-10-30 20:19 UTC and 2026-10-30 21:21 UTC.
+New packages created between 2026-10-30 21:21 UTC and 2026-10-30 22:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T21-21-23-639992Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T22-21-03-488014Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 20:21:52 | [MonoChestnut.Data](https://www.nuget.org/packages/MonoChestnut.Data) | 0.1.0 | YvesShen | MonoChestnut 游戏引擎的游戏配置模型：数据类、JSON 读写（多态实体用 $type 区分）和带出错位置的校验。不依赖 MonoGame，供引擎和… |
-| 2026-10-30 20:22:12 | [MonoChestnut.Rom](https://www.nuget.org/packages/MonoChestnut.Rom) | 0.1.0 | YvesShen | MonoChestnut 游戏引擎的 rom 格式：把配置和资源打包成压缩（Brotli）、加密（AES-256-GCM）、签名（ECDSA P-256）的单… |
-| 2026-10-30 20:30:11 | [Decionis](https://www.nuget.org/packages/Decionis) | 0.3.0 | Decionis | Enterprise Decision Protocol SDK for policy-enforced .NET automation and verifi… |
-| 2026-10-30 20:45:11 | [StrictSharp](https://www.nuget.org/packages/StrictSharp) | 1.0.22 | Felipe Alves | Library for code analisys to performance |
-| 2026-10-30 21:00:02 | [T-mp.dotnet.Logging.Extensions.TestLogging](https://www.nuget.org/packages/T-mp.dotnet.Logging.Extensions.TestLogging) | 0.3.1-pre002 | T-mp.dotnet.Logging.Extension… | Logging Erweiterungen für Tests |
+| 2026-10-30 21:27:00 | [G9AppDiagnostic.Shared](https://www.nuget.org/packages/G9AppDiagnostic.Shared) | 0.1.0 | Iman Kari | The wire contract of G9AppDiagnostic: the live channel's hub interfaces and pay… |
+| 2026-10-30 21:27:07 | [G9AppDiagnostic.Client](https://www.nuget.org/packages/G9AppDiagnostic.Client) | 0.1.0 | Iman Kari | Device diagnostics client for apps in the field: tester reports (resumable uplo… |
+| 2026-10-30 21:27:10 | [G9AppDiagnostic.Gateway](https://www.nuget.org/packages/G9AppDiagnostic.Gateway) | 0.1.0 | Iman Kari | The G9AppDiagnostic gateway: devices connect to it (live channel, logs, screens… |
+| 2026-10-30 21:27:13 | [G9AppDiagnostic.Maui](https://www.nuget.org/packages/G9AppDiagnostic.Maui) | 0.1.0 | Iman Kari | Tester mode for .NET MAUI apps: capture panel, screen and voice recording, scre… |
+| 2026-10-30 21:37:43 | [RobotForce.Pdf](https://www.nuget.org/packages/RobotForce.Pdf) | 1.0.5 | RobotForce | Sophona Studio nodes for reading PDF files: info, text, text for LLMs, search;… |
+| 2026-10-30 21:40:20 | [RobotForce.Utilities](https://www.nuget.org/packages/RobotForce.Utilities) | 1.0.0 | RobotForce | Sophona Studio utility nodes: JSON, dates, text, regex, math, hashes, IDs, vali… |
+| 2026-10-30 21:44:45 | [zivalix](https://www.nuget.org/packages/zivalix) | 0.0.1 | ZIVALIX Founders | Official reserved package for ZIVALIX Agency. Defensive registration. |
+| 2026-10-30 22:04:34 | [Semi.Avalonia.Recolor](https://www.nuget.org/packages/Semi.Avalonia.Recolor) | 1.0.0 | zxcdenjir | Runtime Semi.Avalonia theme recoloring with ImagePicker and Android haptic feed… |
+| 2026-10-30 22:04:35 | [Semi.Avalonia.Recolor.Ursa](https://www.nuget.org/packages/Semi.Avalonia.Recolor.Ursa) | 1.0.0 | zxcdenjir | Optional Ursa page dialog-host integration and Semi/Avalonia title-bar adjustme… |
+| 2026-10-30 22:10:57 | [Lobasoft.Identity.EntityFrameworkCore](https://www.nuget.org/packages/Lobasoft.Identity.EntityFrameworkCore) | 2.0.0 | Lobasoft.Identity.EntityFrame… | Package Description |
 
 ## Data source
 

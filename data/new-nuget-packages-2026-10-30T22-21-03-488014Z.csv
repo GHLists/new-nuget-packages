@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-10-30T21:27:00.403Z,G9AppDiagnostic.Shared,0.1.0,Iman Kari,"The wire contract of G9AppDiagnostic: the live channel's hub interfaces and payloads, the protocol profile, sealed envelopes and operator bundles. Shared by the gateway and the device apps."
+2026-10-30T21:27:07.73Z,G9AppDiagnostic.Client,0.1.0,Iman Kari,Device diagnostics client for apps in the field: tester reports (resumable upload) to a G9AppDiagnostic gateway.
+2026-10-30T21:27:10.76Z,G9AppDiagnostic.Gateway,0.1.0,Iman Kari,"The G9AppDiagnostic gateway: devices connect to it (live channel, logs, screenshots, backups, tester reports, remote control, fleet settings); operators work in its console. Runs inside the G9Didban hub or standing alone; a product adds its own parts as extensions (IGatewayExtension)."
+2026-10-30T21:27:13.02Z,G9AppDiagnostic.Maui,0.1.0,Iman Kari,"Tester mode for .NET MAUI apps: capture panel, screen and voice recording, screenshots, gesture, timeline, drafts and a resumable send queue to a G9AppDiagnostic gateway."
+2026-10-30T21:37:43.787Z,RobotForce.Pdf,1.0.5,RobotForce,"Sophona Studio nodes for reading PDF files: info, text, text for LLMs, search; PDF or Word .docx as text for LLMs."
+2026-10-30T21:40:20.103Z,RobotForce.Utilities,1.0.0,RobotForce,"Sophona Studio utility nodes: JSON, dates, text, regex, math, hashes, IDs, validation and more. Pure computation - no network, no credentials."
+2026-10-30T21:44:45.967Z,zivalix,0.0.1,ZIVALIX Founders,Official reserved package for ZIVALIX Agency. Defensive registration.
+2026-10-30T22:04:34.417Z,Semi.Avalonia.Recolor,1.0.0,zxcdenjir,Runtime Semi.Avalonia theme recoloring with ImagePicker and Android haptic feedback.
+2026-10-30T22:04:35.633Z,Semi.Avalonia.Recolor.Ursa,1.0.0,zxcdenjir,Optional Ursa page dialog-host integration and Semi/Avalonia title-bar adjustments.
+2026-10-30T22:10:57.11Z,Lobasoft.Identity.EntityFrameworkCore,2.0.0,Lobasoft.Identity.EntityFrameworkCore,Package Description
