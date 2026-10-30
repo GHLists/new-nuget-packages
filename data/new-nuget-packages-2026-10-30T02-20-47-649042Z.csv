@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-30T01:24:08.187Z,BrunoCPF.Modifiable.Core,0.5.0,Bruno Fernandes,"Engine-free modifier math for RPG-style stat systems: modifier stacks, delta pipelines and bounds, with no dependencies."
+2026-10-30T01:24:58.697Z,TKWF.Ext.AuthCenter.Abstractions,0.2.0,LoongBa.cn 龙爸出品,TKWF 认证中心契约抽象（SSO 消费面：ISsoAccountQueryService / ISsoChannelMapService + DTO）——依赖倒置（ADR48 D7 / ADR-SSO）：认证中心主包实现契约，SSO 联邦层经契约消费（零实体、零 SG1、不引主包）
+2026-10-30T01:30:01.557Z,Superroute.SLocker,0.1.0,Superroute,sLocker: deliver to Superroute smart lockers. The partner locker delivery API and its webhooks.
+2026-10-30T01:41:23.223Z,Okisioli.Teacups.Store,0.10.0,Okisioli.Teacups.Store,Provider-neutral contracts for securely storing sensitive application values.
+2026-10-30T01:41:24.343Z,Okisioli.Teacups.Store.Maui,0.10.0,Okisioli.Teacups.Store.Maui,.NET MAUI Essentials-backed secure key/value storage for Okisioli.Teacups.Store.
+2026-10-30T01:55:15.757Z,X-Ray.3D,26.10.7520,Curiosity GmbH,"Dependency-free .NET library for 3D and CAD files: identifies the format, extracts metadata (part and assembly names, layers, units, properties, component references, previews) and converts the geometry to binary glTF (.glb) for browsers. Readers for SolidWorks, STL, OBJ, PLY, glTF/GLB and 3MF. Par…"
+2026-10-30T01:56:27.567Z,victor-wiki.EdgeTtsSharp,1.0.0,victor-wiki,Text to voice using Microsoft's Edge voices.
+2026-10-30T01:59:59.107Z,Raims,0.1.4,Raims,Official .NET SDK for the Raims public API.
+2026-10-30T02:00:08.57Z,Extension.BaGet.Api.Base,1.0.0.26303,Piero Viano,"BaGet Extension's shared base of the web APIs: the /api/ui twin controllers' bases, the screen-naming attributes and the API-key principal resolver."
+2026-10-30T02:00:28.407Z,Extension.BaGet.Frontend.Base,1.0.0.26303,Piero Viano,"BaGet Extension's shared MVC infrastructure for the screens: view controller bases, layout and shared partials, tag helpers."
+2026-10-30T02:00:33.743Z,Extension.BaGet.Identity.Api,1.0.0.26303,Piero Viano,"BaGet Extension's user accounts, package owners and per-user API keys."
+2026-10-30T02:00:37.403Z,Extension.BaGet.Identity.Application,1.0.0.26303,Piero Viano,"BaGet Extension's account and administration use cases: business services, the screen result and the screen gate, with no MVC or Razor dependency."
+2026-10-30T02:00:40.847Z,Extension.BaGet.Identity.FrontEnd,1.0.0.26303,Piero Viano,"BaGet Extension's account and administration screens: the view controllers and views of the user accounts, package management and administration pages."
+2026-10-30T02:00:50.393Z,Extension.BaGet.Web.Application,1.0.0.26303,Piero Viano,"BaGet Extension's web use cases: the data of the browse, upload and legal screens as plain DTOs, with no MVC or Razor dependency."
+2026-10-30T02:00:52.907Z,Extension.BaGet.Web.FrontEnd,1.0.0.26303,Piero Viano,"BaGet Extension's package browsing screens: the view controllers and views of the home, package, upload, statistics and format browse pages, and AddBaGetFrontEnd."
+2026-10-30T02:00:58.077Z,Extension.BaGet.Web.V3,1.0.0.26303,Piero Viano,BaGet Extension's NuGet server implementation
+2026-10-30T02:13:29.377Z,UniversalOffice.Xlsx,0.9.1,Eric Kono,"Excel workbooks in pure .NET: lossless .xlsx reading (cells, shared strings, styles, theme, merges), Excel number formatting, surgical worksheet updates, and exporters to CSV/TSV, Markdown, HTML, ODS, SpreadsheetML 2003 and PDF. No native dependencies."
