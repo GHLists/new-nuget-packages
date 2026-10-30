@@ -12,37 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 03:19 UTC
+## Latest list — 2026-10-30 04:20 UTC
 
-New packages created between 2026-10-30 02:20 UTC and 2026-10-30 03:19 UTC.
+New packages created between 2026-10-30 03:19 UTC and 2026-10-30 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T03-19-33-81706Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T04-20-22-384616Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 02:21:00 | [LocalSharp](https://www.nuget.org/packages/LocalSharp) | 0.1.1 | Michael Smith | A .NET client for local LLM servers (LM Studio, Ollama, llama.cpp, vLLM), built… |
-| 2026-10-30 02:23:15 | [MiniTui](https://www.nuget.org/packages/MiniTui) | 1.0.0 | Discover Edge LLC | A minimal, immediate-mode TUI framework for .NET inspired by ratatui |
-| 2026-10-30 02:43:37 | [OODD.Charts.Adapters.Avalonia](https://www.nuget.org/packages/OODD.Charts.Adapters.Avalonia) | 1.0.0 | OODD | Avalonia 宿主适配器：Raster/SKPicture 到 WriteableBitmap 的像素桥 + ChartControl。 |
-| 2026-10-30 02:43:51 | [OODD.Charts.Adapters.Eto](https://www.nuget.org/packages/OODD.Charts.Adapters.Eto) | 1.0.0 | OODD | Eto.Forms 宿主适配器：Raster/SKPicture 到 Eto.Drawing.Bitmap 的像素桥 + ChartControl（Drawa… |
-| 2026-10-30 02:44:05 | [OODD.Charts.Adapters.Maui](https://www.nuget.org/packages/OODD.Charts.Adapters.Maui) | 1.0.0 | OODD | MAUI 宿主适配器：Chart/Raster 到 ImageSource 的编码桥 + ChartImage、ChartCanvasView。 |
-| 2026-10-30 02:44:18 | [OODD.Charts.Adapters.Uno](https://www.nuget.org/packages/OODD.Charts.Adapters.Uno) | 1.0.0 | OODD | Uno Platform 宿主适配器：Raster/SKPicture 到 Uno WinUI 契约 WriteableBitmap 的像素桥 + Chart… |
-| 2026-10-30 02:44:33 | [OODD.Charts.Adapters.WinForms](https://www.nuget.org/packages/OODD.Charts.Adapters.WinForms) | 1.0.0 | OODD | WinForms 宿主适配器：Raster/SKPicture 到 GDI+ Bitmap 的像素桥 + ChartControl。 |
-| 2026-10-30 02:44:44 | [OODD.Charts.Adapters.WinUi](https://www.nuget.org/packages/OODD.Charts.Adapters.WinUi) | 1.0.0 | OODD | WinUI 3 宿主适配器：Raster/SKPicture 到 Microsoft.UI.Xaml WriteableBitmap 的像素桥 + Chart… |
-| 2026-10-30 02:44:54 | [OODD.Charts.Adapters.Wpf](https://www.nuget.org/packages/OODD.Charts.Adapters.Wpf) | 1.0.0 | OODD | WPF 宿主适配器：Raster/SKPicture 到 WriteableBitmap 的像素桥 + ChartControl。 |
-| 2026-10-30 02:45:19 | [OODD.Charts.Core](https://www.nuget.org/packages/OODD.Charts.Core) | 1.0.0 | OODD | 跨平台刚性网格表单渲染引擎（SkiaSharp 内核）。不含任何 UI 框架依赖。 |
-| 2026-10-30 02:45:31 | [OODD.Charts.Engineering](https://www.nuget.org/packages/OODD.Charts.Engineering) | 1.0.0 | OODD | 工程表单：测井成果图（多轨 + 倒置深度轴 + 图样道）、变压器油色谱大卫三角形（三角坐标 + 包线）。基于 OODD.Charts.Core 引擎。 |
-| 2026-10-30 02:45:44 | [OODD.Charts.Geoscience](https://www.nuget.org/packages/OODD.Charts.Geoscience) | 1.0.0 | OODD | 地学与气象表单：地面/高空天气图（站点填图 + 风杆）、T-lnP 温度对数压力图（斜交网格 + 五族线）。基于 OODD.Charts.Core 引擎。 |
-| 2026-10-30 02:45:55 | [OODD.Charts.Medical](https://www.nuget.org/packages/OODD.Charts.Medical) | 1.0.0 | OODD | 医疗表单：三测单（体温单）、产程图、疼痛评估、保护性约束巡视、输血反应，以及 19 张专科/事件/设备/科室运营记录单。基于 OODD.Charts.Core… |
-| 2026-10-30 02:46:04 | [OODD.Charts.Radar](https://www.nuget.org/packages/OODD.Charts.Radar) | 1.0.0 | OODD | 雷达态势图（PPI）：360°/180° 盘面、量程环、方位线、扫描扇、目标与轨迹、可配置信息面板。基于 OODD.Charts.Core 引擎。 |
-| 2026-10-30 02:46:15 | [OODD.Charts.Tickets](https://www.nuget.org/packages/OODD.Charts.Tickets) | 1.0.0 | OODD | 凭证家族：电气工作票（三联）、八类特殊作业票、增值税专用发票（多联 + 密码区 + 压印大写）。基于 OODD.Charts.Core 引擎。 |
-| 2026-10-30 02:46:24 | [OODD.Charts.Transit](https://www.nuget.org/packages/OODD.Charts.Transit) | 1.0.0 | OODD | 交通运输表单：列车运行图、载重平衡与重心包线、集装箱积载图、危险货物联单、超限运输许可附图。基于 OODD.Charts.Core 引擎。 |
-| 2026-10-30 02:47:33 | [NSail.Storage.Git](https://www.nuget.org/packages/NSail.Storage.Git) | 0.1.412 | Leonardo Porro,Emmanuel Arias | NSail.Storage.Git, part of NSail Stack: a .NET modular-monolith framework (mess… |
-| 2026-10-30 02:48:56 | [FroxstReader](https://www.nuget.org/packages/FroxstReader) | 1.0.0 | Fr0xst | FroxstReader is a package used to read memory. |
-| 2026-10-30 02:49:20 | [XiaoYou.Game.AI.Api](https://www.nuget.org/packages/XiaoYou.Game.AI.Api) | 1.0.0 | XiaoYou.Game.AI.Api | Package Description |
-| 2026-10-30 02:53:45 | [C1.Blazor.ColorPicker](https://www.nuget.org/packages/C1.Blazor.ColorPicker) | 10.0.20262.62-beta | MESCIUS inc. | Using ComponentOne ColorPicker™ for Blazor, select colors from professionally-d… |
-| 2026-10-30 02:53:51 | [C1.Blazor.Diagram](https://www.nuget.org/packages/C1.Blazor.Diagram) | 10.0.20262.62-beta | MESCIUS inc. | FlexChart is a Cartesian chart control. Supports line, area, scatter, bubble, c… |
-| 2026-10-30 03:05:59 | [ResponseResultHandler.FluentValidation](https://www.nuget.org/packages/ResponseResultHandler.FluentValidation) | 15.0.0 | Yahya Erdogan | FluentValidation integration for ResponseResultHandler: turns validation result… |
-| 2026-10-30 03:12:30 | [AIFunctionSetMatcher](https://www.nuget.org/packages/AIFunctionSetMatcher) | 1.0.0 | AIFunctionSetMatcher | MEAI 函数声明集合的语义匹配库。 |
+| 2026-10-30 03:35:59 | [ClaudeUsage.NockMon](https://www.nuget.org/packages/ClaudeUsage.NockMon) | 1.0.0 | nockawa | NockMon widget: your Claude subscription's weekly usage — used vs. elapsed, on… |
+| 2026-10-30 03:46:28 | [docs-boilerplate](https://www.nuget.org/packages/docs-boilerplate) | 1.0.1 | Spooffit | Offline-capable Markdown-first documentation initialization CLI |
+| 2026-10-30 03:49:59 | [Algebrakit.Sdk](https://www.nuget.org/packages/Algebrakit.Sdk) | 1.0.0 | Algebrakit | Official .NET SDK for the Algebrakit Webservice API — create exercise sessions,… |
+| 2026-10-30 03:57:19 | [TCMProject.Jurisdictions](https://www.nuget.org/packages/TCMProject.Jurisdictions) | 26.10.30.2 | TCMProject.Jurisdictions | Contratos de jurisdicción (país) para la plataforma TCM: identificadores, histo… |
+| 2026-10-30 03:57:21 | [TCMProject.Jurisdictions.PE](https://www.nuget.org/packages/TCMProject.Jurisdictions.PE) | 26.10.30.2 | TCMProject.Jurisdictions.PE | Perú para TCMProject.Jurisdictions: DNI, carné de extranjería y pasaporte; hist… |
+| 2026-10-30 04:00:56 | [SpawnDev.Codecs](https://www.nuget.org/packages/SpawnDev.Codecs) | 1.0.0 | LostBeard | GPU-accelerated, patent-clean codecs for .NET where the codec work runs on the… |
+| 2026-10-30 04:01:00 | [SpawnDev.Codecs.References](https://www.nuget.org/packages/SpawnDev.Codecs.References) | 1.0.0 | LostBeard | CPU reference implementations of the codecs that ship in SpawnDev.Codecs. Used… |
+| 2026-10-30 04:09:54 | [Johnwikix.ScottPlot](https://www.nuget.org/packages/Johnwikix.ScottPlot) | 5.1.60.1 | Scott Harden | ScottPlot is a free and open-source plotting library for .NET. This package can… |
+| 2026-10-30 04:10:04 | [Johnwikix.ScottPlot.D3D12.Core](https://www.nuget.org/packages/Johnwikix.ScottPlot.D3D12.Core) | 5.1.60.1 | ScottPlot contributors | Hardware D3D12 full Figure rendering for ScottPlot using Skia GPU, native MSAA,… |
+| 2026-10-30 04:10:07 | [Johnwikix.ScottPlot.WPF](https://www.nuget.org/packages/Johnwikix.ScottPlot.WPF) | 5.1.60.1 | Scott Harden | User controls for displaying interactive plots in WPF applications |
+| 2026-10-30 04:10:10 | [Johnwikix.ScottPlot.D3D12](https://www.nuget.org/packages/Johnwikix.ScottPlot.D3D12) | 5.1.60.1 | ScottPlot contributors | Complete ScottPlot WPF Figures rendered with hardware D3D12 through D3DImage, w… |
+| 2026-10-30 04:10:12 | [Johnwikix.ScottPlot.D3D12.WinUI](https://www.nuget.org/packages/Johnwikix.ScottPlot.D3D12.WinUI) | 5.1.60.1 | ScottPlot contributors | Complete ScottPlot Figures on native WinUI 3 SwapChainPanel through shared D3D1… |
+| 2026-10-30 04:10:13 | [Johnwikix.ScottPlot.D3D12.UWP](https://www.nuget.org/packages/Johnwikix.ScottPlot.D3D12.UWP) | 5.1.60.1 | ScottPlot contributors | Complete ScottPlot Figures on native Windows.UI.Xaml SwapChainPanel through sha… |
 
 ## Data source
 
