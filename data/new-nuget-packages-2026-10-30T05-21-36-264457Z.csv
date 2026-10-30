@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-30T04:33:43.123Z,Innovayse.SDK,1.2.0,Hostpanel contributors,"Plugin contracts for hostpanel: provisioning, payment, registrar, identity, fulfilment and hosted plugins. MIT licensed, so a plugin may be free or paid, open or closed source."
+2026-10-30T04:49:10.593Z,PowerPointCompareForGit,0.1.1,Llewellyn Falco,Render PowerPoint decks from git history to PNG and compare versions in your diff tool.
+2026-10-30T04:55:01.43Z,Bitbeans.Zpl.Viewer,1.0.0,bitbeans,"Render ZPL II labels to PNG/JPEG with SkiaSharp, an offline alternative to labelary.com. No ImageSharp dependency."
+2026-10-30T04:55:02.063Z,Bitbeans.Zpl.SkiaSharp,1.0.0,bitbeans,"SkiaSharp based image conversion for Bitbeans.Zpl (~DG and ~DY graphics, GRF to PNG) without ImageSharp."
+2026-10-30T04:55:02.61Z,Bitbeans.Zpl,1.0.0,bitbeans,Create Zebra ZPL II labels with strongly typed elements. Dependency-free: image conversion is pluggable via IImageConverter (see Bitbeans.Zpl.SkiaSharp).
+2026-10-30T04:56:12.067Z,Superroute.SPrint,0.1.0,Superroute,"sPrint, Superroute's printing SDK for .NET: find network, USB and Bluetooth printers, detect their command language, print labels, PDF, HTML, images and raw bytes, and run a Superroute print node. Native libraries for Windows (x64, arm64), macOS (arm64, x64) and Linux (x64, arm64, arm)."
