@@ -1,0 +1,30 @@
+created_at,package,version,authors,description
+2026-10-30T09:21:02.147Z,JsonToCSharpConverter0121.Mcp.linux-arm64,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:21:05.11Z,JsonToCSharpConverter0121.Mcp.linux-musl-x64,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:21:08.647Z,JsonToCSharpConverter0121.Mcp.linux-x64,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:21:11.773Z,JsonToCSharpConverter0121.Mcp.osx-arm64,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:21:14.673Z,JsonToCSharpConverter0121.Mcp.win-arm64,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:21:17.727Z,JsonToCSharpConverter0121.Mcp.win-x64,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:21:19.17Z,JsonToCSharpConverter0121.Mcp,3.0.0,MikeAllan0121,MCP server that converts JSON to C# record definitions.
+2026-10-30T09:27:51.527Z,zyc.fftw.native,3.3.11,zyc,"Unofficial repackaging of unmodified FFTW 3.3.11, built with MSVC for native C++ x64 projects. Includes double and float DLLs, import libraries, headers, native PDBs, upstream source and build script. Uses the dynamic release CRT and requires the x64 Microsoft Visual C++ Redistributable. GPL-2.0-or…"
+2026-10-30T09:29:46.62Z,mooSQL.Provider.Aurora,8.2.1.9,mooSQL.Provider.Aurora,mooSQL Amazon Aurora（MySQL / PostgreSQL）方言 Provider
+2026-10-30T09:30:09.453Z,mooSQL.Provider.CockroachDB,8.2.1.9,mooSQL.Provider.CockroachDB,mooSQL CockroachDB 方言 Provider（PG wire）
+2026-10-30T09:30:18.797Z,mooSQL.Provider.DuckDB,8.2.1.9,mooSQL.Provider.DuckDB,mooSQL DuckDB 方言 Provider（需显式 UseDuckDB 注册）
+2026-10-30T09:30:26.95Z,mooSQL.Provider.EDB,8.2.1.9,mooSQL.Provider.EDB,mooSQL EnterpriseDB (EDB) 方言 Provider
+2026-10-30T09:30:34.25Z,mooSQL.Provider.Turso,8.2.1.9,mooSQL.Provider.Turso,mooSQL Turso / libSQL 方言 Provider（SQLite 兼容）
+2026-10-30T09:31:24.453Z,dgf.linux-arm64,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:31:26Z,dgf.linux-x64,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:31:27.827Z,dgf.osx-arm64,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:31:29.43Z,dgf.osx-x64,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:31:31.27Z,dgf.win-arm64,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:31:32.813Z,dgf.win-x64,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:31:34.48Z,dgf-dup-cs,0.0.2,dgf-dup-cs,"Finds C# methods that do the same thing written differently, for dgf-dup."
+2026-10-30T09:31:35.513Z,dgf,0.0.2,Bojan Pavlovic,"Measures complexity, duplication and how well tests catch changes, in C#, TypeScript, JavaScript and Rust. One fast native binary; the C# duplication engine included."
+2026-10-30T09:34:37.92Z,uSync.TreeBranch,17.0.0-alpha01,Kevin Jump,"[Experimental] Makes an Umbraco development site aware of the git checkout it runs from: a database, ports and shared media per git worktree, and a uSync import when the commit changes."
+2026-10-30T09:40:14.98Z,Horizonte.AdminUi.Components,10.0.3-beta,franfusto,Package Description
+2026-10-30T09:44:39.53Z,Skyline.DataMiner.Sdk.Intelligence,2.7.0,SkylineCommunications,"Skyline.DataMiner.Sdk.Intelligence is a companion MSBuild SDK for packaging Markdown-based Intelligence files in DataMiner Installation Packages (.dmapp). It discovers agent, skill, DOM tool, ad hoc data-source tool, and script tool files, validates their YAML frontmatter, and delegates package cre…"
+2026-10-30T10:08:41.65Z,WinTrace.Appium,0.1.0,WinTrace contributors,"WinTrace adapter for Appium-based Windows drivers (WinAppDriver, NovaWindowsDriver)."
+2026-10-30T10:08:42.75Z,WinTrace.Cli,0.1.0,WinTrace contributors,wintrace: open and summarize WinTrace trace.zip files.
+2026-10-30T10:08:43.913Z,WinTrace.Core,0.1.0,WinTrace contributors,Playwright-style trace recorder and viewer for Windows desktop UI automation.
+2026-10-30T10:10:22.78Z,GtkSharp4.Workload.Template.CSharp,4.22.4.26303,'GtkSharp Contributors',A set of C# templates for your .NET GTK Application. Installed with the GtkSharp .NET workload.
+2026-10-30T10:10:24.583Z,GtkSharp4.Workload.Template.FSharp,4.22.4.26303,'GtkSharp Contributors',A set of F# templates for your .NET GTK Application. Installed with the GtkSharp .NET workload.
