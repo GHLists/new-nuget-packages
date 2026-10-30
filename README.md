@@ -12,46 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 13:19 UTC
+## Latest list — 2026-10-30 14:24 UTC
 
-New packages created between 2026-10-30 12:21 UTC and 2026-10-30 13:19 UTC.
+New packages created between 2026-10-30 13:19 UTC and 2026-10-30 14:24 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T13-19-39-622599Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T14-24-16-314581Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 12:23:41 | [Inngest.Connect](https://www.nuget.org/packages/Inngest.Connect) | 0.1.0 | inngest-dotnet contributors | Connect for the Inngest .NET SDK: runs functions in a worker that holds an outb… |
-| 2026-10-30 12:23:42 | [Inngest.Testing](https://www.nuget.org/packages/Inngest.Testing) | 0.1.0 | inngest-dotnet contributors | Test host for the Inngest .NET SDK: runs functions in memory on the real execut… |
-| 2026-10-30 12:23:42 | [Inngest.OpenTelemetry](https://www.nuget.org/packages/Inngest.OpenTelemetry) | 0.1.0 | inngest-dotnet contributors | OpenTelemetry for the Inngest .NET SDK: spans for function calls and executed s… |
-| 2026-10-30 12:23:42 | [Inngest.AspNetCore](https://www.nuget.org/packages/Inngest.AspNetCore) | 0.1.0 | inngest-dotnet contributors | ASP.NET Core hosting for the Inngest .NET SDK: MapInngest serves sync, introspe… |
-| 2026-10-30 12:23:43 | [Inngest](https://www.nuget.org/packages/Inngest) | 0.1.0 | inngest-dotnet contributors | .NET SDK for Inngest: durable functions, steps, events and flow control. |
-| 2026-10-30 12:24:06 | [Lait.Monitor.UmbracoClient](https://www.nuget.org/packages/Lait.Monitor.UmbracoClient) | 0.2.0 | LAIT | Sends an Umbraco site's logs and request data (per-minute aggregates and select… |
-| 2026-10-30 12:26:17 | [VehicleVision.PleasanterTools.IndexCreator](https://www.nuget.org/packages/VehicleVision.PleasanterTools.IndexCreator) | 0.4.0 | PMC Co., Ltd. IT Solution Div. | Pleasanter のサイト構成から必要なインデックスを計画・作成・更新する dotnet tool。SQL Server・PostgreSQL・MySQL… |
-| 2026-10-30 12:29:30 | [RunicArtifex.DynamicData](https://www.nuget.org/packages/RunicArtifex.DynamicData) | 10.0.0 | Roland Pheasant, Runic Artifex | The Runic Artifex fork of DynamicData for .NET 10 and ReactiveUI.Primitives. Dy… |
-| 2026-10-30 12:29:30 | [RunicArtifex.DynamicData.Reactive](https://www.nuget.org/packages/RunicArtifex.DynamicData.Reactive) | 10.0.0 | Roland Pheasant, Runic Artifex | The Runic Artifex fork of DynamicData for .NET 10 and System.Reactive, via Reac… |
-| 2026-10-30 12:36:22 | [GovUK.Dfe.AI.Agents.Guardrails](https://www.nuget.org/packages/GovUK.Dfe.AI.Agents.Guardrails) | 0.0.2 | DFE-Digital | Azure AI Foundry guardrails for GovUK.Dfe.AI.Agents: apply content filters and… |
-| 2026-10-30 12:36:24 | [GovUK.Dfe.AI.Agents.Evaluation](https://www.nuget.org/packages/GovUK.Dfe.AI.Agents.Evaluation) | 0.0.2 | DFE-Digital | Answer scoring for GovUK.Dfe.AI.Agents: a Foundry judge model scores groundedne… |
-| 2026-10-30 12:36:39 | [GovUK.Dfe.AI.Agents.AISearch](https://www.nuget.org/packages/GovUK.Dfe.AI.Agents.AISearch) | 0.0.2 | DFE-Digital | Azure AI Search evidence for GovUK.Dfe.AI.Agents: per-index fields, relevance f… |
-| 2026-10-30 12:36:41 | [GovUK.Dfe.AI.Agents.Mcp](https://www.nuget.org/packages/GovUK.Dfe.AI.Agents.Mcp) | 0.0.2 | DFE-Digital | Tools from your own MCP servers for GovUK.Dfe.AI.Agents: run in your app with y… |
-| 2026-10-30 12:37:04 | [Themia.Conversations](https://www.nuget.org/packages/Themia.Conversations) | 0.47.0 | Sarawut Phaekuntod | Themia conversations — a per-object chat for members and guests: tenant-scoped… |
-| 2026-10-30 12:37:15 | [Themia.Conversations.SqlServer](https://www.nuget.org/packages/Themia.Conversations.SqlServer) | 0.47.0 | Sarawut Phaekuntod | SQL Server dialect + Microsoft.Data.SqlClient driver + FluentMigrator runner fo… |
-| 2026-10-30 12:37:48 | [Themia.Conversations.PostgreSql](https://www.nuget.org/packages/Themia.Conversations.PostgreSql) | 0.47.0 | Sarawut Phaekuntod | PostgreSQL dialect + Npgsql driver + FluentMigrator runner for Themia.Conversat… |
-| 2026-10-30 12:37:50 | [Themia.Conversations.MySql](https://www.nuget.org/packages/Themia.Conversations.MySql) | 0.47.0 | Sarawut Phaekuntod | MySQL 8.0.13+ dialect + MySqlConnector driver + FluentMigrator runner for Themi… |
-| 2026-10-30 12:39:25 | [Trexon.Templates](https://www.nuget.org/packages/Trexon.Templates) | 1.0.0 | Trexoncorp | Starter HTTP APIs with Trexon.Web, Configuration, Logging and SQLite persistenc… |
-| 2026-10-30 12:40:34 | [Biz.Bizadm.MPQ.NET](https://www.nuget.org/packages/Biz.Bizadm.MPQ.NET) | 1.0.0 | SeongSikChae | Package Description |
-| 2026-10-30 12:43:14 | [api2skill.any](https://www.nuget.org/packages/api2skill.any) | 0.8.0-pre1 | angpysha | Converts an OpenAPI/Swagger document into a self-contained Claude Agent Skill (… |
-| 2026-10-30 12:43:18 | [api2skill.osx-arm64](https://www.nuget.org/packages/api2skill.osx-arm64) | 0.8.0-pre1 | angpysha | Converts an OpenAPI/Swagger document into a self-contained Claude Agent Skill (… |
-| 2026-10-30 12:43:20 | [api2skill.win-arm64](https://www.nuget.org/packages/api2skill.win-arm64) | 0.8.0-pre1 | angpysha | Converts an OpenAPI/Swagger document into a self-contained Claude Agent Skill (… |
-| 2026-10-30 12:43:22 | [api2skill.win-x64](https://www.nuget.org/packages/api2skill.win-x64) | 0.8.0-pre1 | angpysha | Converts an OpenAPI/Swagger document into a self-contained Claude Agent Skill (… |
-| 2026-10-30 12:49:34 | [Sharp.Mediator](https://www.nuget.org/packages/Sharp.Mediator) | 0.0.0 | Chan Lee | A small, fast mediator for .NET with first-class request/response, events, stre… |
-| 2026-10-30 12:52:02 | [Sharp.Validator.Result](https://www.nuget.org/packages/Sharp.Validator.Result) | 0.0.0 | Chan Lee | Dependency-free validation result contracts for Sharp.Validator — ValidationRes… |
-| 2026-10-30 12:53:09 | [Sharp.Messenger.Abstracts](https://www.nuget.org/packages/Sharp.Messenger.Abstracts) | 0.0.0 | Chan | Dependency-free abstractions for Sharp.Messenger — IMessenger, IMessageSchedule… |
-| 2026-10-30 12:57:35 | [Sharp.Validator](https://www.nuget.org/packages/Sharp.Validator) | 0.0.0 | Chan Lee | Small, expressive, allocation-aware validation for .NET — fluent rules, async s… |
-| 2026-10-30 12:58:45 | [Sharp.Messenger](https://www.nuget.org/packages/Sharp.Messenger) | 0.0.0 | Chan | AOT-first messaging for .NET — source-generated handler binding, at-least-once… |
-| 2026-10-30 12:59:26 | [TomLabs.PixelBridge](https://www.nuget.org/packages/TomLabs.PixelBridge) | 0.3.0 | TomasBouda | PixelBridge for World of Warcraft addons: the strip protocol (encoder, decoder,… |
-| 2026-10-30 12:59:28 | [TomLabs.PixelBridge.Host](https://www.nuget.org/packages/TomLabs.PixelBridge.Host) | 0.3.0 | TomasBouda | PixelBridge host for Windows: finds the World of Warcraft window (retail, Class… |
-| 2026-10-30 13:00:21 | [Caretly](https://www.nuget.org/packages/Caretly) | 0.1.0 | Jaap Elst | Client for the Caretly API: render ZPL labels to PDF or PNG. |
-| 2026-10-30 13:06:41 | [Kuwa.OData.Client](https://www.nuget.org/packages/Kuwa.OData.Client) | 7.0.0 | Kuwa Technologies | Kuwa.OData.Client is a metadata-driven OData V4 and V4.01 client for .NET 10. I… |
+| 2026-10-30 13:22:15 | [Netjes](https://www.nuget.org/packages/Netjes) | 0.0.1 | Dennis Verhoeven | Build React apps and sites on ASP.NET Core: the Next.js App Router conventions,… |
+| 2026-10-30 13:22:17 | [Netjes.Images.SkiaSharp](https://www.nuget.org/packages/Netjes.Images.SkiaSharp) | 0.0.1 | Dennis Verhoeven | Image resizing and WebP encoding for the Netjes <Image> endpoint, with SkiaShar… |
+| 2026-10-30 13:25:24 | [Fayakun.Security.Passcodes](https://www.nuget.org/packages/Fayakun.Security.Passcodes) | 1.0.0 | Fayakun Services | A lightweight .NET library for generating cryptographically secure numeric pass… |
+| 2026-10-30 13:36:12 | [BjsMenu.Nutrition](https://www.nuget.org/packages/BjsMenu.Nutrition) | 1.0.0 | BJ's Menus | Offline BJ's Restaurant meal builder: total calories, protein, carbs, fat and s… |
+| 2026-10-30 13:36:14 | [ImcCalculadora](https://www.nuget.org/packages/ImcCalculadora) | 1.0.0 | IMC Calculadora | Calculadora IMC / BMI calculator: adult BMI with WHO classes (incl. thinness su… |
+| 2026-10-30 13:44:15 | [Relevox.MediatRBridge](https://www.nuget.org/packages/Relevox.MediatRBridge) | 1.6.0 | Tunahan Ali Ozturk | Runs MediatR and Relevox side by side: MediatR's IMediator, ISender and IPublis… |
+| 2026-10-30 13:45:05 | [SharpTicker.SourceGenerator](https://www.nuget.org/packages/SharpTicker.SourceGenerator) | 1.0.0 | msx752 | Package Description |
+| 2026-10-30 13:45:05 | [SharpTicker.MongoDB](https://www.nuget.org/packages/SharpTicker.MongoDB) | 1.0.0 | msx752 | MongoDB persistence provider for SharpTicker. Uses the official MongoDB.Driver… |
+| 2026-10-30 13:45:05 | [SharpTicker](https://www.nuget.org/packages/SharpTicker) | 1.0.0 | msx752 | A lightweight, developer-friendly library for queuing and executing cron and ti… |
+| 2026-10-30 13:45:06 | [SharpTicker.Caching.StackExchangeRedis](https://www.nuget.org/packages/SharpTicker.Caching.StackExchangeRedis) | 1.0.0 | msx752 | Redis caching and distributed synchronization provider for SharpTicker job sche… |
+| 2026-10-30 13:45:06 | [SharpTicker.Utilities](https://www.nuget.org/packages/SharpTicker.Utilities) | 1.0.0 | msx752 | Simple utilities for queuing and executing cron/time-based jobs in the backgrou… |
+| 2026-10-30 13:45:07 | [SharpTicker.Dashboard](https://www.nuget.org/packages/SharpTicker.Dashboard) | 1.0.0 | msx752 | Dashboard UI for visualizing and monitoring SharpTicker scheduled jobs. |
+| 2026-10-30 13:45:07 | [SharpTicker.Instrumentation.OpenTelemetry](https://www.nuget.org/packages/SharpTicker.Instrumentation.OpenTelemetry) | 1.0.0 | msx752 | OpenTelemetry instrumentation package for SharpTicker job scheduler with distri… |
+| 2026-10-30 13:45:07 | [SharpTicker.EntityFrameworkCore](https://www.nuget.org/packages/SharpTicker.EntityFrameworkCore) | 1.0.0 | msx752 | Entity Framework Core integration for scheduling and persisting cron/time-based… |
+| 2026-10-30 13:45:19 | [PanoramicData.Chunker](https://www.nuget.org/packages/PanoramicData.Chunker) | 1.0.19 | Panoramic Data Limited | A comprehensive document chunking library for .NET that intelligently splits va… |
+| 2026-10-30 13:45:30 | [Tesserae.ThreeD](https://www.nuget.org/packages/Tesserae.ThreeD) | 26.10.7527 | Curiosity GmbH | Tesserae.ThreeD is a Tesserae (Transpose C# to JavaScript) wrapper around three… |
+| 2026-10-30 13:51:14 | [Shiny.Bluetooth.Linux](https://www.nuget.org/packages/Shiny.Bluetooth.Linux) | 6.5.1 | Allan Ritchie | Shiny Bluetooth for Linux via BlueZ/D-Bus - classic Bluetooth (BR/EDR) RFCOMM c… |
+| 2026-10-30 13:51:42 | [Shiny.Bluetooth](https://www.nuget.org/packages/Shiny.Bluetooth) | 6.5.1 | Allan Ritchie | Shiny Bluetooth - classic Bluetooth (BR/EDR) RFCOMM client and server, device d… |
+| 2026-10-30 13:57:12 | [RunicArtifex.ReactiveUI.Validation](https://www.nuget.org/packages/RunicArtifex.ReactiveUI.Validation) | 9.0.0 | ReactiveUI and Contributors,… | The Runic Artifex fork of ReactiveUI.Validation for .NET 10 and ReactiveUI.Prim… |
+| 2026-10-30 13:57:13 | [RunicArtifex.ReactiveUI.Validation.Reactive](https://www.nuget.org/packages/RunicArtifex.ReactiveUI.Validation.Reactive) | 9.0.0 | ReactiveUI and Contributors,… | The Runic Artifex fork of ReactiveUI.Validation for .NET 10 and System.Reactive… |
+| 2026-10-30 14:08:09 | [MonacoNative.WinRT.CoreHost](https://www.nuget.org/packages/MonacoNative.WinRT.CoreHost) | 0.8.0.44 | MonacoNative | C++/WinRT runtime component exposing the MonacoNative native editor core throug… |
+| 2026-10-30 14:08:10 | [MonacoNative.WinUI3](https://www.nuget.org/packages/MonacoNative.WinUI3) | 0.8.0.44 | MonacoNative | Native Monaco-style editor for WinUI 3 with C++ core, managed projection, nativ… |
+| 2026-10-30 14:11:59 | [FuiCs.Worker](https://www.nuget.org/packages/FuiCs.Worker) | 0.3.0-alpha1 | Zion Sati | The worker-project library for FuiCs: entries a page's Worker runs in a Web Wor… |
+| 2026-10-30 14:11:59 | [FuiCs.Templates](https://www.nuget.org/packages/FuiCs.Templates) | 0.3.0-alpha1 | Zion Sati | dotnet new templates for FuiCs applications compiled to WebAssembly with NetWas… |
+| 2026-10-30 14:12:01 | [FuiCs.Runtime](https://www.nuget.org/packages/FuiCs.Runtime) | 0.3.0 | Zion Sati | The EffinDOM browser runtime (bridge, manifest, core and UI WebAssembly, fonts)… |
+| 2026-10-30 14:12:01 | [FuiCs](https://www.nuget.org/packages/FuiCs) | 0.3.0-alpha1 | Zion Sati | The C# SDK for EffinDOM: retained nodes and controls, events, theming and drawi… |
 
 ## Data source
 
