@@ -12,31 +12,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 02:20 UTC
+## Latest list — 2026-10-30 03:19 UTC
 
-New packages created between 2026-10-30 01:21 UTC and 2026-10-30 02:20 UTC.
+New packages created between 2026-10-30 02:20 UTC and 2026-10-30 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T02-20-47-649042Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T03-19-33-81706Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 01:24:08 | [BrunoCPF.Modifiable.Core](https://www.nuget.org/packages/BrunoCPF.Modifiable.Core) | 0.5.0 | Bruno Fernandes | Engine-free modifier math for RPG-style stat systems: modifier stacks, delta pi… |
-| 2026-10-30 01:24:58 | [TKWF.Ext.AuthCenter.Abstractions](https://www.nuget.org/packages/TKWF.Ext.AuthCenter.Abstractions) | 0.2.0 | LoongBa.cn 龙爸出品 | TKWF 认证中心契约抽象（SSO 消费面：ISsoAccountQueryService / ISsoChannelMapService + DTO）——依… |
-| 2026-10-30 01:30:01 | [Superroute.SLocker](https://www.nuget.org/packages/Superroute.SLocker) | 0.1.0 | Superroute | sLocker: deliver to Superroute smart lockers. The partner locker delivery API a… |
-| 2026-10-30 01:41:23 | [Okisioli.Teacups.Store](https://www.nuget.org/packages/Okisioli.Teacups.Store) | 0.10.0 | Okisioli.Teacups.Store | Provider-neutral contracts for securely storing sensitive application values. |
-| 2026-10-30 01:41:24 | [Okisioli.Teacups.Store.Maui](https://www.nuget.org/packages/Okisioli.Teacups.Store.Maui) | 0.10.0 | Okisioli.Teacups.Store.Maui | .NET MAUI Essentials-backed secure key/value storage for Okisioli.Teacups.Store. |
-| 2026-10-30 01:55:15 | [X-Ray.3D](https://www.nuget.org/packages/X-Ray.3D) | 26.10.7520 | Curiosity GmbH | Dependency-free .NET library for 3D and CAD files: identifies the format, extra… |
-| 2026-10-30 01:56:27 | [victor-wiki.EdgeTtsSharp](https://www.nuget.org/packages/victor-wiki.EdgeTtsSharp) | 1.0.0 | victor-wiki | Text to voice using Microsoft's Edge voices. |
-| 2026-10-30 01:59:59 | [Raims](https://www.nuget.org/packages/Raims) | 0.1.4 | Raims | Official .NET SDK for the Raims public API. |
-| 2026-10-30 02:00:08 | [Extension.BaGet.Api.Base](https://www.nuget.org/packages/Extension.BaGet.Api.Base) | 1.0.0.26303 | Piero Viano | BaGet Extension's shared base of the web APIs: the /api/ui twin controllers' ba… |
-| 2026-10-30 02:00:28 | [Extension.BaGet.Frontend.Base](https://www.nuget.org/packages/Extension.BaGet.Frontend.Base) | 1.0.0.26303 | Piero Viano | BaGet Extension's shared MVC infrastructure for the screens: view controller ba… |
-| 2026-10-30 02:00:33 | [Extension.BaGet.Identity.Api](https://www.nuget.org/packages/Extension.BaGet.Identity.Api) | 1.0.0.26303 | Piero Viano | BaGet Extension's user accounts, package owners and per-user API keys. |
-| 2026-10-30 02:00:37 | [Extension.BaGet.Identity.Application](https://www.nuget.org/packages/Extension.BaGet.Identity.Application) | 1.0.0.26303 | Piero Viano | BaGet Extension's account and administration use cases: business services, the… |
-| 2026-10-30 02:00:40 | [Extension.BaGet.Identity.FrontEnd](https://www.nuget.org/packages/Extension.BaGet.Identity.FrontEnd) | 1.0.0.26303 | Piero Viano | BaGet Extension's account and administration screens: the view controllers and… |
-| 2026-10-30 02:00:50 | [Extension.BaGet.Web.Application](https://www.nuget.org/packages/Extension.BaGet.Web.Application) | 1.0.0.26303 | Piero Viano | BaGet Extension's web use cases: the data of the browse, upload and legal scree… |
-| 2026-10-30 02:00:52 | [Extension.BaGet.Web.FrontEnd](https://www.nuget.org/packages/Extension.BaGet.Web.FrontEnd) | 1.0.0.26303 | Piero Viano | BaGet Extension's package browsing screens: the view controllers and views of t… |
-| 2026-10-30 02:00:58 | [Extension.BaGet.Web.V3](https://www.nuget.org/packages/Extension.BaGet.Web.V3) | 1.0.0.26303 | Piero Viano | BaGet Extension's NuGet server implementation |
-| 2026-10-30 02:13:29 | [UniversalOffice.Xlsx](https://www.nuget.org/packages/UniversalOffice.Xlsx) | 0.9.1 | Eric Kono | Excel workbooks in pure .NET: lossless .xlsx reading (cells, shared strings, st… |
+| 2026-10-30 02:21:00 | [LocalSharp](https://www.nuget.org/packages/LocalSharp) | 0.1.1 | Michael Smith | A .NET client for local LLM servers (LM Studio, Ollama, llama.cpp, vLLM), built… |
+| 2026-10-30 02:23:15 | [MiniTui](https://www.nuget.org/packages/MiniTui) | 1.0.0 | Discover Edge LLC | A minimal, immediate-mode TUI framework for .NET inspired by ratatui |
+| 2026-10-30 02:43:37 | [OODD.Charts.Adapters.Avalonia](https://www.nuget.org/packages/OODD.Charts.Adapters.Avalonia) | 1.0.0 | OODD | Avalonia 宿主适配器：Raster/SKPicture 到 WriteableBitmap 的像素桥 + ChartControl。 |
+| 2026-10-30 02:43:51 | [OODD.Charts.Adapters.Eto](https://www.nuget.org/packages/OODD.Charts.Adapters.Eto) | 1.0.0 | OODD | Eto.Forms 宿主适配器：Raster/SKPicture 到 Eto.Drawing.Bitmap 的像素桥 + ChartControl（Drawa… |
+| 2026-10-30 02:44:05 | [OODD.Charts.Adapters.Maui](https://www.nuget.org/packages/OODD.Charts.Adapters.Maui) | 1.0.0 | OODD | MAUI 宿主适配器：Chart/Raster 到 ImageSource 的编码桥 + ChartImage、ChartCanvasView。 |
+| 2026-10-30 02:44:18 | [OODD.Charts.Adapters.Uno](https://www.nuget.org/packages/OODD.Charts.Adapters.Uno) | 1.0.0 | OODD | Uno Platform 宿主适配器：Raster/SKPicture 到 Uno WinUI 契约 WriteableBitmap 的像素桥 + Chart… |
+| 2026-10-30 02:44:33 | [OODD.Charts.Adapters.WinForms](https://www.nuget.org/packages/OODD.Charts.Adapters.WinForms) | 1.0.0 | OODD | WinForms 宿主适配器：Raster/SKPicture 到 GDI+ Bitmap 的像素桥 + ChartControl。 |
+| 2026-10-30 02:44:44 | [OODD.Charts.Adapters.WinUi](https://www.nuget.org/packages/OODD.Charts.Adapters.WinUi) | 1.0.0 | OODD | WinUI 3 宿主适配器：Raster/SKPicture 到 Microsoft.UI.Xaml WriteableBitmap 的像素桥 + Chart… |
+| 2026-10-30 02:44:54 | [OODD.Charts.Adapters.Wpf](https://www.nuget.org/packages/OODD.Charts.Adapters.Wpf) | 1.0.0 | OODD | WPF 宿主适配器：Raster/SKPicture 到 WriteableBitmap 的像素桥 + ChartControl。 |
+| 2026-10-30 02:45:19 | [OODD.Charts.Core](https://www.nuget.org/packages/OODD.Charts.Core) | 1.0.0 | OODD | 跨平台刚性网格表单渲染引擎（SkiaSharp 内核）。不含任何 UI 框架依赖。 |
+| 2026-10-30 02:45:31 | [OODD.Charts.Engineering](https://www.nuget.org/packages/OODD.Charts.Engineering) | 1.0.0 | OODD | 工程表单：测井成果图（多轨 + 倒置深度轴 + 图样道）、变压器油色谱大卫三角形（三角坐标 + 包线）。基于 OODD.Charts.Core 引擎。 |
+| 2026-10-30 02:45:44 | [OODD.Charts.Geoscience](https://www.nuget.org/packages/OODD.Charts.Geoscience) | 1.0.0 | OODD | 地学与气象表单：地面/高空天气图（站点填图 + 风杆）、T-lnP 温度对数压力图（斜交网格 + 五族线）。基于 OODD.Charts.Core 引擎。 |
+| 2026-10-30 02:45:55 | [OODD.Charts.Medical](https://www.nuget.org/packages/OODD.Charts.Medical) | 1.0.0 | OODD | 医疗表单：三测单（体温单）、产程图、疼痛评估、保护性约束巡视、输血反应，以及 19 张专科/事件/设备/科室运营记录单。基于 OODD.Charts.Core… |
+| 2026-10-30 02:46:04 | [OODD.Charts.Radar](https://www.nuget.org/packages/OODD.Charts.Radar) | 1.0.0 | OODD | 雷达态势图（PPI）：360°/180° 盘面、量程环、方位线、扫描扇、目标与轨迹、可配置信息面板。基于 OODD.Charts.Core 引擎。 |
+| 2026-10-30 02:46:15 | [OODD.Charts.Tickets](https://www.nuget.org/packages/OODD.Charts.Tickets) | 1.0.0 | OODD | 凭证家族：电气工作票（三联）、八类特殊作业票、增值税专用发票（多联 + 密码区 + 压印大写）。基于 OODD.Charts.Core 引擎。 |
+| 2026-10-30 02:46:24 | [OODD.Charts.Transit](https://www.nuget.org/packages/OODD.Charts.Transit) | 1.0.0 | OODD | 交通运输表单：列车运行图、载重平衡与重心包线、集装箱积载图、危险货物联单、超限运输许可附图。基于 OODD.Charts.Core 引擎。 |
+| 2026-10-30 02:47:33 | [NSail.Storage.Git](https://www.nuget.org/packages/NSail.Storage.Git) | 0.1.412 | Leonardo Porro,Emmanuel Arias | NSail.Storage.Git, part of NSail Stack: a .NET modular-monolith framework (mess… |
+| 2026-10-30 02:48:56 | [FroxstReader](https://www.nuget.org/packages/FroxstReader) | 1.0.0 | Fr0xst | FroxstReader is a package used to read memory. |
+| 2026-10-30 02:49:20 | [XiaoYou.Game.AI.Api](https://www.nuget.org/packages/XiaoYou.Game.AI.Api) | 1.0.0 | XiaoYou.Game.AI.Api | Package Description |
+| 2026-10-30 02:53:45 | [C1.Blazor.ColorPicker](https://www.nuget.org/packages/C1.Blazor.ColorPicker) | 10.0.20262.62-beta | MESCIUS inc. | Using ComponentOne ColorPicker™ for Blazor, select colors from professionally-d… |
+| 2026-10-30 02:53:51 | [C1.Blazor.Diagram](https://www.nuget.org/packages/C1.Blazor.Diagram) | 10.0.20262.62-beta | MESCIUS inc. | FlexChart is a Cartesian chart control. Supports line, area, scatter, bubble, c… |
+| 2026-10-30 03:05:59 | [ResponseResultHandler.FluentValidation](https://www.nuget.org/packages/ResponseResultHandler.FluentValidation) | 15.0.0 | Yahya Erdogan | FluentValidation integration for ResponseResultHandler: turns validation result… |
+| 2026-10-30 03:12:30 | [AIFunctionSetMatcher](https://www.nuget.org/packages/AIFunctionSetMatcher) | 1.0.0 | AIFunctionSetMatcher | MEAI 函数声明集合的语义匹配库。 |
 
 ## Data source
 
