@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-10-30T10:30:06.497Z,KirillMaster.QualityGates.Results,0.3.0,KirillMaster,"Minimal Result, Result of T, Error and ErrorType for early-return error handling, shaped like a future C# union. No fluent Bind/Map API by design."
+2026-10-30T10:30:07.143Z,KirillMaster.QualityGates.Testing.AspNetCore,0.3.0,KirillMaster,"WebApplicationFactory helpers for quality-gate tests: host-start smoke, route coverage against the endpoint table, exactly-one IExceptionHandler. Requires Microsoft.AspNetCore.Mvc.Testing 10.x (the package pins it)."
+2026-10-30T10:30:08.06Z,KirillMaster.QualityGates.Results.AspNetCore,0.3.0,KirillMaster,ToHttpResult ProblemDetails mapping for KirillMaster.QualityGates.Results and a base IExceptionHandler that never leaks exception details.
+2026-10-30T10:31:56.433Z,StdUnit.Tags.WebUi,2.0.0-beta5,itminus,测点项目的 Web 界面（自托管、AOT 友好）：监控页（结构树 + SSE 值流）与设计器（通道/测点，导出项目 XML）
+2026-10-30T10:32:41.27Z,RtoGtoR,1.0.0,TuanFaied,"RtoGtoR .NET SDK: bidirectional relational ↔ graph migration (PostgreSQL → Neo4j) with explicit mappings, plans, resumable runs and verification. Bundles the RtoGtoR engine for linux-x64, linux-arm64, osx-x64, osx-arm64 and win-x64."
+2026-10-30T10:36:05.067Z,Aurionpro.PaymentFramework.Core10.0.API,10.0.0,manoj.aurionpro.com,Package Description
+2026-10-30T10:41:42.2Z,Folio.Store.Oqtane.Trial,1.7.0,CISS / dnndefender.com,"Independent Folio Commerce installer for Oqtane 10.0.0+. Includes the native 2sxc commerce app, seven store pages, native site theme mode and five optional storefront themes. Trial: one shop, 20 products including samples/child SKUs/archives, no expiry, local simulation only, no real payments or di…"
+2026-10-30T10:44:55.5Z,VehicleVision.PleasanterTools.BinaryMigrator,0.2.0,"PMC Co., Ltd. IT Solution Div.",Pleasanter に添付されたファイル（Binaries）の保管先を、Rds・Local・AzureBlob の間で移すコマンドラインツール。
+2026-10-30T10:53:54.797Z,TheDotSide.Aspire.Tools,0.3.0,The Dot Side,Traçabilité et migrations contrôlées des dépendances des projets The Dot Side Aspire.
+2026-10-30T10:58:23.107Z,CredOS,0.1.0,Cédric L. Charlier,"Application-scoped username/password storage using Windows Credential Manager, macOS Keychain, and Linux Secret Service."
+2026-10-30T11:02:36.82Z,Len.StronglyTypedId.Testing,1.4.0,lenfon,"Test-time helpers for Len.StronglyTypedId: generate arbitrary but realistic id values for any strongly typed id, with reproducible seeds and validator-aware retries."
+2026-10-30T11:02:37.53Z,Len.StronglyTypedId.Testing.AutoFixture,1.4.0,lenfon,AutoFixture integration for Len.StronglyTypedId: fills strongly typed ids as constructor parameters and properties so fixture.Create<T>() just works.
+2026-10-30T11:02:38.193Z,Len.StronglyTypedId.Testing.Bogus,1.4.0,lenfon,"Bogus integration for Len.StronglyTypedId: teaches Bogus to fill strongly typed ids, so faker.Generate() just works."
