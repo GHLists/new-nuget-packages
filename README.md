@@ -12,19 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 18:21 UTC
+## Latest list — 2026-10-30 19:21 UTC
 
-New packages created between 2026-10-30 17:21 UTC and 2026-10-30 18:21 UTC.
+New packages created between 2026-10-30 18:21 UTC and 2026-10-30 19:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T18-21-47-060474Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T19-21-03-622784Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 17:23:40 | [Trexon.Web.Testing](https://www.nuget.org/packages/Trexon.Web.Testing) | 1.1.0 | Trexoncorp | In-process async HTTP and WebSocket testing for Trexon.Web with isolated depend… |
-| 2026-10-30 17:31:46 | [Async.Prism.Events.Extensions](https://www.nuget.org/packages/Async.Prism.Events.Extensions) | 1.0.0 | Azat Tazayan | High-performance synchronous and ValueTask-based asynchronous event types for P… |
-| 2026-10-30 17:33:10 | [SI.Money](https://www.nuget.org/packages/SI.Money) | 1.3.0 | SI.Informational.Systems | Package Description |
-| 2026-10-30 17:43:11 | [Pdfik](https://www.nuget.org/packages/Pdfik) | 0.1.0 | PDFik | Official C# SDK for the PDFik API: URL/HTML/Markdown to PDF, PNG/JPEG screensho… |
-| 2026-10-30 18:12:59 | [Fayakun.Security.Cryptography](https://www.nuget.org/packages/Fayakun.Security.Cryptography) | 1.0.0 | Fayakun Services | A lightweight, secure, and zero-dependency .NET cryptography package providing… |
+| 2026-10-30 18:24:25 | [Pleiades.Core](https://www.nuget.org/packages/Pleiades.Core) | 3.0.1 | Daniele Fusi | Package Description |
+| 2026-10-30 18:24:28 | [CFITS.Generator](https://www.nuget.org/packages/CFITS.Generator) | 0.1.0 | MPSQUARK | Source generator for strongly typed CFITS serializer contexts. |
+| 2026-10-30 18:24:28 | [Pleiades.Ef](https://www.nuget.org/packages/Pleiades.Ef) | 3.0.1 | Daniele Fusi | Package Description |
+| 2026-10-30 18:24:31 | [Pleiades.Index](https://www.nuget.org/packages/Pleiades.Index) | 3.0.1 | Pleiades.Index | Package Description |
+| 2026-10-30 18:24:35 | [Pleiades.Ef.PgSql](https://www.nuget.org/packages/Pleiades.Ef.PgSql) | 3.0.1 | Pleiades.Ef.PgSql | Package Description |
+| 2026-10-30 18:24:38 | [Pleiades.Geo](https://www.nuget.org/packages/Pleiades.Geo) | 3.0.1 | Daniele Fusi | Package Description |
+| 2026-10-30 18:24:41 | [Pleiades.Migration](https://www.nuget.org/packages/Pleiades.Migration) | 3.0.1 | Daniele Fusi | Package Description |
+| 2026-10-30 18:24:45 | [Pleiades.Search](https://www.nuget.org/packages/Pleiades.Search) | 3.0.1 | Pleiades.Search | Package Description |
+| 2026-10-30 18:24:48 | [Pleiades.Search.PgSql](https://www.nuget.org/packages/Pleiades.Search.PgSql) | 3.0.1 | Pleiades.Search.PgSql | Package Description |
+| 2026-10-30 18:30:23 | [GM.Secrets.AwsSecretsManager](https://www.nuget.org/packages/GM.Secrets.AwsSecretsManager) | 2.0.0 | Giorgi Metskhvarishvili | AWS Secrets Manager provider for GM.Secrets — reads the configured secrets (a J… |
+| 2026-10-30 18:30:24 | [GM.Secrets.Doppler](https://www.nuget.org/packages/GM.Secrets.Doppler) | 2.0.0 | Giorgi Metskhvarishvili | Doppler store for GM.Secrets — downloads a Doppler config's secrets (REST API,… |
+| 2026-10-30 18:30:25 | [GM.Secrets.Vault](https://www.nuget.org/packages/GM.Secrets.Vault) | 2.0.0 | Giorgi Metskhvarishvili | HashiCorp Vault secrets provider for GM.Secrets — reads KV v2 paths over Vault'… |
+| 2026-10-30 18:30:26 | [GM.Secrets.AzureKeyVault](https://www.nuget.org/packages/GM.Secrets.AzureKeyVault) | 2.0.0 | Giorgi Metskhvarishvili | Azure Key Vault secrets provider for GM.Secrets — loads a vault's enabled secre… |
+| 2026-10-30 18:58:52 | [Gobln.Pager.EntityFrameworkCore](https://www.nuget.org/packages/Gobln.Pager.EntityFrameworkCore) | 2.0.0 | Jorn Hendrickx | Asynchronous paging for Entity Framework Core with Gobln.Pager. Makes ToPageAsy… |
+| 2026-10-30 18:58:53 | [Gobln.Pager.Json.Newtonsoft](https://www.nuget.org/packages/Gobln.Pager.Json.Newtonsoft) | 2.0.0 | Jorn Hendrickx | Newtonsoft.Json converters for Gobln.Pager. Serializes and deserializes Page an… |
+| 2026-10-30 18:58:54 | [Gobln.Pager.Json.Microsoft](https://www.nuget.org/packages/Gobln.Pager.Json.Microsoft) | 2.0.0 | Jorn Hendrickx | System.Text.Json converters for Gobln.Pager. Serializes and deserializes Page a… |
+| 2026-10-30 19:15:46 | [FluentCss.Core](https://www.nuget.org/packages/FluentCss.Core) | 0.1.0 | stanac | Fluent strongly typed CSS for Blazor, MVC and Razor Pages |
 
 ## Data source
 

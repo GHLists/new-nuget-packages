@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-30T18:24:25.383Z,Pleiades.Core,3.0.1,Daniele Fusi,Package Description
+2026-10-30T18:24:28.32Z,CFITS.Generator,0.1.0,MPSQUARK,Source generator for strongly typed CFITS serializer contexts.
+2026-10-30T18:24:28.463Z,Pleiades.Ef,3.0.1,Daniele Fusi,Package Description
+2026-10-30T18:24:31.6Z,Pleiades.Index,3.0.1,Pleiades.Index,Package Description
+2026-10-30T18:24:35.05Z,Pleiades.Ef.PgSql,3.0.1,Pleiades.Ef.PgSql,Package Description
+2026-10-30T18:24:38.33Z,Pleiades.Geo,3.0.1,Daniele Fusi,Package Description
+2026-10-30T18:24:41.847Z,Pleiades.Migration,3.0.1,Daniele Fusi,Package Description
+2026-10-30T18:24:45.16Z,Pleiades.Search,3.0.1,Pleiades.Search,Package Description
+2026-10-30T18:24:48.42Z,Pleiades.Search.PgSql,3.0.1,Pleiades.Search.PgSql,Package Description
+2026-10-30T18:30:23.8Z,GM.Secrets.AwsSecretsManager,2.0.0,Giorgi Metskhvarishvili,"AWS Secrets Manager provider for GM.Secrets — reads the configured secrets (a JSON secret is flattened into keys, a plain one is keyed by its name) with the AWS SDK's default credential chain, and loads them into IConfiguration at startup, with optional periodic reload. Works with LocalStack/moto v…"
+2026-10-30T18:30:24.637Z,GM.Secrets.Doppler,2.0.0,Giorgi Metskhvarishvili,"Doppler store for GM.Secrets — downloads a Doppler config's secrets (REST API, no SDK dependency) and loads them into IConfiguration at startup, with optional periodic reload. DB__PASSWORD maps to Db:Password. With a personal or CLI token the app environment picks the config (Development → dev, Sta…"
+2026-10-30T18:30:25.367Z,GM.Secrets.Vault,2.0.0,Giorgi Metskhvarishvili,"HashiCorp Vault secrets provider for GM.Secrets — reads KV v2 paths over Vault's HTTP API (token or AppRole auth, no SDK dependency) and loads them into IConfiguration at startup, with optional periodic reload. Nested values become sections. Register with builder.AddGMSecrets(s => s.AddVault()) and…"
+2026-10-30T18:30:26.157Z,GM.Secrets.AzureKeyVault,2.0.0,Giorgi Metskhvarishvili,"Azure Key Vault secrets provider for GM.Secrets — loads a vault's enabled secrets into IConfiguration at startup with DefaultAzureCredential (managed identity in Azure, az login / Visual Studio locally), with optional periodic reload. Db--Password maps to Db:Password. Register with builder.AddGMSec…"
+2026-10-30T18:58:52.907Z,Gobln.Pager.EntityFrameworkCore,2.0.0,Jorn Hendrickx,Asynchronous paging for Entity Framework Core with Gobln.Pager. Makes ToPageAsync and ToPagedListAsync on an EF Core query run CountAsync and ToListAsync.
+2026-10-30T18:58:53.47Z,Gobln.Pager.Json.Newtonsoft,2.0.0,Jorn Hendrickx,"Newtonsoft.Json converters for Gobln.Pager. Serializes and deserializes Page and PagedList objects, keeping a Page's index, size, and total item count intact across the wire."
+2026-10-30T18:58:54.29Z,Gobln.Pager.Json.Microsoft,2.0.0,Jorn Hendrickx,"System.Text.Json converters for Gobln.Pager. Serializes and deserializes Page and PagedList objects, keeping a Page's index, size, and total item count intact across the wire."
+2026-10-30T19:15:46.91Z,FluentCss.Core,0.1.0,stanac,"Fluent strongly typed CSS for Blazor, MVC and Razor Pages"
