@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-30T06:31:22.807Z,NewLife.Cube.Vue,1.0.2026.1030,新生命开发团队,魔方Vue前端皮肤包，基于Vue3+Element Plus，提供开箱即用的管理后台前端。支持动态菜单、字段元数据驱动的列表和表单、CRUD操作、OAuth登录等功能。引用NuGet包即可获得完整前端，无需前端开发。
+2026-10-30T06:38:55.207Z,Sdcb.SimdCodecs.Bmp,1.1.0,sdcb,"Pure-managed BMP / DIB decoder and encoder for .NET, SIMD-accelerated (AVX2 / SSSE3 / AdvSimd). Decodes every Windows and OS/2 variant: core, OS/2 2.x, BITMAPINFOHEADER, V4 and V5 headers; 1/2/4/8-bit palettes, 16/24/32-bit, BI_BITFIELDS and BI_ALPHABITFIELDS masks, RLE4 / RLE8 with deltas, OS/2 RL…"
+2026-10-30T06:38:59.51Z,Sdcb.SimdCodecs.Ico,1.1.0,sdcb,"Pure-managed Windows icon (ICO) and cursor (CUR) decoder and encoder for .NET. Reads every image of the directory, each a PNG stream or a DIB with its AND mask (1/4/8/16/24/32-bit, through Sdcb.SimdCodecs.Bmp), with cursor hotspots; picks the largest, deepest image by default and opens all of them…"
+2026-10-30T06:56:17.653Z,RelayWA.Sdk,0.1.0,RelayWA SDK contributors,"Server-side RelayWA .NET SDK for WhatsApp messaging, session management, and webhooks."
+2026-10-30T07:01:23.65Z,Corvus.Regex.Ecma262.CodeGeneration.Sources,1.0.9,Endjin Limited,The Corvus.Regex.Ecma262 emitter as source: a code generator takes it to write the library's generated code for a pattern (RegexEmitter.TryEmit) into the code it generates.
+2026-10-30T07:07:07.96Z,Alcifra.Cli,0.55.0,saconsole,"alcifra — administrative CLI for an Alcifra installation: sign in, provision tenants, and register the certificate your content is enveloped to, over the HTTP API."
