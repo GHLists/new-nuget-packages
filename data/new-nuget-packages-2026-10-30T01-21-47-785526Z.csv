@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-10-30T00:50:59.03Z,UniversalOffice.Core,0.9.1,Eric Kono,"Shared base of the UniversalOffice libraries: lossless OPC (ZIP) package access with limits for untrusted input, a small XML reader, OOXML units, an SFNT/TrueType font parser (GPOS/GSUB kerning and ligatures) with an index of installed fonts, Liang hyphenation with hyph-utf8 patterns, a dependency-…"
+2026-10-30T00:52:28.207Z,UniversalOffice.Docx,0.9.1,Eric Kono,"Word documents in pure .NET: lossless .docx reading and editing (sanitizing untrusted documents, applying content to templates, #{parameter} replacement, plugin inlines, appending formatted content), a Word-compatible layout engine that renders .docx to PDF with installed or metric-compatible subst…"
+2026-10-30T01:01:57.673Z,victor-wiki.FastDtwSharp,1.0.0,victor-wiki,"C# implementation of fastdtw, which is an approximate Dynamic Time Warping (DTW) algorithm that provides optimal or near-optimal alignments with an O(N) time and memory complexity."
+2026-10-30T01:08:11.847Z,victor-wiki.SharpUtility,1.0.0,victor-wiki,Helper classes and Extension methods.
