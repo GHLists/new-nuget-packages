@@ -12,40 +12,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 14:24 UTC
+## Latest list — 2026-10-30 15:21 UTC
 
-New packages created between 2026-10-30 13:19 UTC and 2026-10-30 14:24 UTC.
+New packages created between 2026-10-30 14:24 UTC and 2026-10-30 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T14-24-16-314581Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T15-21-21-956971Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 13:22:15 | [Netjes](https://www.nuget.org/packages/Netjes) | 0.0.1 | Dennis Verhoeven | Build React apps and sites on ASP.NET Core: the Next.js App Router conventions,… |
-| 2026-10-30 13:22:17 | [Netjes.Images.SkiaSharp](https://www.nuget.org/packages/Netjes.Images.SkiaSharp) | 0.0.1 | Dennis Verhoeven | Image resizing and WebP encoding for the Netjes <Image> endpoint, with SkiaShar… |
-| 2026-10-30 13:25:24 | [Fayakun.Security.Passcodes](https://www.nuget.org/packages/Fayakun.Security.Passcodes) | 1.0.0 | Fayakun Services | A lightweight .NET library for generating cryptographically secure numeric pass… |
-| 2026-10-30 13:36:12 | [BjsMenu.Nutrition](https://www.nuget.org/packages/BjsMenu.Nutrition) | 1.0.0 | BJ's Menus | Offline BJ's Restaurant meal builder: total calories, protein, carbs, fat and s… |
-| 2026-10-30 13:36:14 | [ImcCalculadora](https://www.nuget.org/packages/ImcCalculadora) | 1.0.0 | IMC Calculadora | Calculadora IMC / BMI calculator: adult BMI with WHO classes (incl. thinness su… |
-| 2026-10-30 13:44:15 | [Relevox.MediatRBridge](https://www.nuget.org/packages/Relevox.MediatRBridge) | 1.6.0 | Tunahan Ali Ozturk | Runs MediatR and Relevox side by side: MediatR's IMediator, ISender and IPublis… |
-| 2026-10-30 13:45:05 | [SharpTicker.SourceGenerator](https://www.nuget.org/packages/SharpTicker.SourceGenerator) | 1.0.0 | msx752 | Package Description |
-| 2026-10-30 13:45:05 | [SharpTicker.MongoDB](https://www.nuget.org/packages/SharpTicker.MongoDB) | 1.0.0 | msx752 | MongoDB persistence provider for SharpTicker. Uses the official MongoDB.Driver… |
-| 2026-10-30 13:45:05 | [SharpTicker](https://www.nuget.org/packages/SharpTicker) | 1.0.0 | msx752 | A lightweight, developer-friendly library for queuing and executing cron and ti… |
-| 2026-10-30 13:45:06 | [SharpTicker.Caching.StackExchangeRedis](https://www.nuget.org/packages/SharpTicker.Caching.StackExchangeRedis) | 1.0.0 | msx752 | Redis caching and distributed synchronization provider for SharpTicker job sche… |
-| 2026-10-30 13:45:06 | [SharpTicker.Utilities](https://www.nuget.org/packages/SharpTicker.Utilities) | 1.0.0 | msx752 | Simple utilities for queuing and executing cron/time-based jobs in the backgrou… |
-| 2026-10-30 13:45:07 | [SharpTicker.Dashboard](https://www.nuget.org/packages/SharpTicker.Dashboard) | 1.0.0 | msx752 | Dashboard UI for visualizing and monitoring SharpTicker scheduled jobs. |
-| 2026-10-30 13:45:07 | [SharpTicker.Instrumentation.OpenTelemetry](https://www.nuget.org/packages/SharpTicker.Instrumentation.OpenTelemetry) | 1.0.0 | msx752 | OpenTelemetry instrumentation package for SharpTicker job scheduler with distri… |
-| 2026-10-30 13:45:07 | [SharpTicker.EntityFrameworkCore](https://www.nuget.org/packages/SharpTicker.EntityFrameworkCore) | 1.0.0 | msx752 | Entity Framework Core integration for scheduling and persisting cron/time-based… |
-| 2026-10-30 13:45:19 | [PanoramicData.Chunker](https://www.nuget.org/packages/PanoramicData.Chunker) | 1.0.19 | Panoramic Data Limited | A comprehensive document chunking library for .NET that intelligently splits va… |
-| 2026-10-30 13:45:30 | [Tesserae.ThreeD](https://www.nuget.org/packages/Tesserae.ThreeD) | 26.10.7527 | Curiosity GmbH | Tesserae.ThreeD is a Tesserae (Transpose C# to JavaScript) wrapper around three… |
-| 2026-10-30 13:51:14 | [Shiny.Bluetooth.Linux](https://www.nuget.org/packages/Shiny.Bluetooth.Linux) | 6.5.1 | Allan Ritchie | Shiny Bluetooth for Linux via BlueZ/D-Bus - classic Bluetooth (BR/EDR) RFCOMM c… |
-| 2026-10-30 13:51:42 | [Shiny.Bluetooth](https://www.nuget.org/packages/Shiny.Bluetooth) | 6.5.1 | Allan Ritchie | Shiny Bluetooth - classic Bluetooth (BR/EDR) RFCOMM client and server, device d… |
-| 2026-10-30 13:57:12 | [RunicArtifex.ReactiveUI.Validation](https://www.nuget.org/packages/RunicArtifex.ReactiveUI.Validation) | 9.0.0 | ReactiveUI and Contributors,… | The Runic Artifex fork of ReactiveUI.Validation for .NET 10 and ReactiveUI.Prim… |
-| 2026-10-30 13:57:13 | [RunicArtifex.ReactiveUI.Validation.Reactive](https://www.nuget.org/packages/RunicArtifex.ReactiveUI.Validation.Reactive) | 9.0.0 | ReactiveUI and Contributors,… | The Runic Artifex fork of ReactiveUI.Validation for .NET 10 and System.Reactive… |
-| 2026-10-30 14:08:09 | [MonacoNative.WinRT.CoreHost](https://www.nuget.org/packages/MonacoNative.WinRT.CoreHost) | 0.8.0.44 | MonacoNative | C++/WinRT runtime component exposing the MonacoNative native editor core throug… |
-| 2026-10-30 14:08:10 | [MonacoNative.WinUI3](https://www.nuget.org/packages/MonacoNative.WinUI3) | 0.8.0.44 | MonacoNative | Native Monaco-style editor for WinUI 3 with C++ core, managed projection, nativ… |
-| 2026-10-30 14:11:59 | [FuiCs.Worker](https://www.nuget.org/packages/FuiCs.Worker) | 0.3.0-alpha1 | Zion Sati | The worker-project library for FuiCs: entries a page's Worker runs in a Web Wor… |
-| 2026-10-30 14:11:59 | [FuiCs.Templates](https://www.nuget.org/packages/FuiCs.Templates) | 0.3.0-alpha1 | Zion Sati | dotnet new templates for FuiCs applications compiled to WebAssembly with NetWas… |
-| 2026-10-30 14:12:01 | [FuiCs.Runtime](https://www.nuget.org/packages/FuiCs.Runtime) | 0.3.0 | Zion Sati | The EffinDOM browser runtime (bridge, manifest, core and UI WebAssembly, fonts)… |
-| 2026-10-30 14:12:01 | [FuiCs](https://www.nuget.org/packages/FuiCs) | 0.3.0-alpha1 | Zion Sati | The C# SDK for EffinDOM: retained nodes and controls, events, theming and drawi… |
+| 2026-10-30 14:31:44 | [Shiny.AiConversation.Maui.Camera](https://www.nuget.org/packages/Shiny.AiConversation.Maui.Camera) | 3.0.0 | Allan Ritchie | Lets a Shiny.AiConversation assistant ask to use the camera (photo, or text/bar… |
+| 2026-10-30 14:31:45 | [Shiny.AiConversation.Stores.SqliteDocDb](https://www.nuget.org/packages/Shiny.AiConversation.Stores.SqliteDocDb) | 3.0.0 | Allan Ritchie | SQLite (Shiny.DocumentDb) session, message and memory stores for Shiny.AiConver… |
+| 2026-10-30 14:31:45 | [Shiny.AiConversation.Voice](https://www.nuget.org/packages/Shiny.AiConversation.Voice) | 3.0.0 | Allan Ritchie | Voice conversations for Shiny.AiConversation sessions: wake word, push-to-talk,… |
+| 2026-10-30 14:43:18 | [Digitals.OpenApi](https://www.nuget.org/packages/Digitals.OpenApi) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:43:20 | [Digitals.OpenApi.linux-arm64](https://www.nuget.org/packages/Digitals.OpenApi.linux-arm64) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:43:21 | [Digitals.Protobuf](https://www.nuget.org/packages/Digitals.Protobuf) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:22 | [Digitals.Protobuf.linux-arm64](https://www.nuget.org/packages/Digitals.Protobuf.linux-arm64) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:22 | [Digitals.OpenApi.linux-x64](https://www.nuget.org/packages/Digitals.OpenApi.linux-x64) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:43:23 | [Digitals.Protobuf.linux-x64](https://www.nuget.org/packages/Digitals.Protobuf.linux-x64) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:24 | [Digitals.OpenApi.osx-arm64](https://www.nuget.org/packages/Digitals.OpenApi.osx-arm64) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:43:24 | [Digitals.Protobuf.osx-arm64](https://www.nuget.org/packages/Digitals.Protobuf.osx-arm64) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:26 | [Digitals.Protobuf.osx-x64](https://www.nuget.org/packages/Digitals.Protobuf.osx-x64) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:26 | [Digitals.OpenApi.osx-x64](https://www.nuget.org/packages/Digitals.OpenApi.osx-x64) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:43:27 | [Digitals.Protobuf.win-arm64](https://www.nuget.org/packages/Digitals.Protobuf.win-arm64) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:28 | [Digitals.OpenApi.win-arm64](https://www.nuget.org/packages/Digitals.OpenApi.win-arm64) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:43:28 | [Digitals.Protobuf.win-x64](https://www.nuget.org/packages/Digitals.Protobuf.win-x64) | 0.1.0 | Digitals OYT Ltd | Lints .proto files for gRPC APIs against the Digitals rules, checks their forma… |
+| 2026-10-30 14:43:29 | [Digitals.OpenApi.win-x64](https://www.nuget.org/packages/Digitals.OpenApi.win-x64) | 0.1.0 | Digitals OYT Ltd | Lints any OpenAPI 3.0 or 3.1 document against the Digitals API rules and diffs… |
+| 2026-10-30 14:44:31 | [Xlibur.ExcelNumberFormat](https://www.nuget.org/packages/Xlibur.ExcelNumberFormat) | 1.2.1 | ExcelNumberFormat developers | .NET library to parse ECMA-376 number format strings and format values like Exc… |
+| 2026-10-30 14:45:25 | [GrpcDc](https://www.nuget.org/packages/GrpcDc) | 0.35.4 | John Davis | gRPC over WebRTC DataChannels for .NET — dependency-free generated gRPC clients… |
+| 2026-10-30 14:45:47 | [Digitals.AsyncApi](https://www.nuget.org/packages/Digitals.AsyncApi) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:45:49 | [Digitals.AsyncApi.linux-arm64](https://www.nuget.org/packages/Digitals.AsyncApi.linux-arm64) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:45:51 | [Digitals.AsyncApi.linux-x64](https://www.nuget.org/packages/Digitals.AsyncApi.linux-x64) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:45:53 | [Digitals.AsyncApi.osx-arm64](https://www.nuget.org/packages/Digitals.AsyncApi.osx-arm64) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:45:55 | [Digitals.AsyncApi.osx-x64](https://www.nuget.org/packages/Digitals.AsyncApi.osx-x64) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:45:58 | [Digitals.AsyncApi.win-arm64](https://www.nuget.org/packages/Digitals.AsyncApi.win-arm64) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:46:00 | [Digitals.AsyncApi.win-x64](https://www.nuget.org/packages/Digitals.AsyncApi.win-x64) | 0.1.0 | Digitals OYT Ltd | Lints any AsyncAPI 2 or 3 document against the Digitals event API rules. Bundle… |
+| 2026-10-30 14:47:04 | [Simulacrum.AI](https://www.nuget.org/packages/Simulacrum.AI) | 1.3.5 | worndown | Unified Simulacrum AI package with bundled provider, core, abstractions, and to… |
+| 2026-10-30 14:49:53 | [MediaPortal.libbluray](https://www.nuget.org/packages/MediaPortal.libbluray) | 1.5.1 | VideoLAN, MediaPortal Team | libbluray with MediaPortal patches (bd_get_clip_infos, long win32 paths): heade… |
+| 2026-10-30 14:57:05 | [Obelisk.Plugins.Text](https://www.nuget.org/packages/Obelisk.Plugins.Text) | 0.1.0 | Taegyun Eom | Official Obelisk dynamic raster text and MSDF atlas rendering plugin. |
+| 2026-10-30 14:57:06 | [Obelisk.Plugins.Effects](https://www.nuget.org/packages/Obelisk.Plugins.Effects) | 0.1.0 | Taegyun Eom | Official Obelisk separable Gaussian blur effects plugin. |
+| 2026-10-30 15:10:16 | [YongAnGame.ModuleLib](https://www.nuget.org/packages/YongAnGame.ModuleLib) | 1.0.0-rc2 | YongAnGame | 面向游戏 MOD 系统的通用模块库，提供配置加载、序列化、仓储管理等基础设施 |
 
 ## Data source
 
