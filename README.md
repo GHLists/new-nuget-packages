@@ -12,31 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 19:21 UTC
+## Latest list — 2026-10-30 20:19 UTC
 
-New packages created between 2026-10-30 18:21 UTC and 2026-10-30 19:21 UTC.
+New packages created between 2026-10-30 19:21 UTC and 2026-10-30 20:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-30T19-21-03-622784Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-30T20-19-38-572595Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 18:24:25 | [Pleiades.Core](https://www.nuget.org/packages/Pleiades.Core) | 3.0.1 | Daniele Fusi | Package Description |
-| 2026-10-30 18:24:28 | [CFITS.Generator](https://www.nuget.org/packages/CFITS.Generator) | 0.1.0 | MPSQUARK | Source generator for strongly typed CFITS serializer contexts. |
-| 2026-10-30 18:24:28 | [Pleiades.Ef](https://www.nuget.org/packages/Pleiades.Ef) | 3.0.1 | Daniele Fusi | Package Description |
-| 2026-10-30 18:24:31 | [Pleiades.Index](https://www.nuget.org/packages/Pleiades.Index) | 3.0.1 | Pleiades.Index | Package Description |
-| 2026-10-30 18:24:35 | [Pleiades.Ef.PgSql](https://www.nuget.org/packages/Pleiades.Ef.PgSql) | 3.0.1 | Pleiades.Ef.PgSql | Package Description |
-| 2026-10-30 18:24:38 | [Pleiades.Geo](https://www.nuget.org/packages/Pleiades.Geo) | 3.0.1 | Daniele Fusi | Package Description |
-| 2026-10-30 18:24:41 | [Pleiades.Migration](https://www.nuget.org/packages/Pleiades.Migration) | 3.0.1 | Daniele Fusi | Package Description |
-| 2026-10-30 18:24:45 | [Pleiades.Search](https://www.nuget.org/packages/Pleiades.Search) | 3.0.1 | Pleiades.Search | Package Description |
-| 2026-10-30 18:24:48 | [Pleiades.Search.PgSql](https://www.nuget.org/packages/Pleiades.Search.PgSql) | 3.0.1 | Pleiades.Search.PgSql | Package Description |
-| 2026-10-30 18:30:23 | [GM.Secrets.AwsSecretsManager](https://www.nuget.org/packages/GM.Secrets.AwsSecretsManager) | 2.0.0 | Giorgi Metskhvarishvili | AWS Secrets Manager provider for GM.Secrets — reads the configured secrets (a J… |
-| 2026-10-30 18:30:24 | [GM.Secrets.Doppler](https://www.nuget.org/packages/GM.Secrets.Doppler) | 2.0.0 | Giorgi Metskhvarishvili | Doppler store for GM.Secrets — downloads a Doppler config's secrets (REST API,… |
-| 2026-10-30 18:30:25 | [GM.Secrets.Vault](https://www.nuget.org/packages/GM.Secrets.Vault) | 2.0.0 | Giorgi Metskhvarishvili | HashiCorp Vault secrets provider for GM.Secrets — reads KV v2 paths over Vault'… |
-| 2026-10-30 18:30:26 | [GM.Secrets.AzureKeyVault](https://www.nuget.org/packages/GM.Secrets.AzureKeyVault) | 2.0.0 | Giorgi Metskhvarishvili | Azure Key Vault secrets provider for GM.Secrets — loads a vault's enabled secre… |
-| 2026-10-30 18:58:52 | [Gobln.Pager.EntityFrameworkCore](https://www.nuget.org/packages/Gobln.Pager.EntityFrameworkCore) | 2.0.0 | Jorn Hendrickx | Asynchronous paging for Entity Framework Core with Gobln.Pager. Makes ToPageAsy… |
-| 2026-10-30 18:58:53 | [Gobln.Pager.Json.Newtonsoft](https://www.nuget.org/packages/Gobln.Pager.Json.Newtonsoft) | 2.0.0 | Jorn Hendrickx | Newtonsoft.Json converters for Gobln.Pager. Serializes and deserializes Page an… |
-| 2026-10-30 18:58:54 | [Gobln.Pager.Json.Microsoft](https://www.nuget.org/packages/Gobln.Pager.Json.Microsoft) | 2.0.0 | Jorn Hendrickx | System.Text.Json converters for Gobln.Pager. Serializes and deserializes Page a… |
-| 2026-10-30 19:15:46 | [FluentCss.Core](https://www.nuget.org/packages/FluentCss.Core) | 0.1.0 | stanac | Fluent strongly typed CSS for Blazor, MVC and Razor Pages |
+| 2026-10-30 19:31:45 | [Azure.Functions.Cli.Workloads.Workers.Python](https://www.nuget.org/packages/Azure.Functions.Cli.Workloads.Workers.Python) | 4.46.2-preview | Microsoft | Azure Functions CLI content workload that ships the Python language worker. |
+| 2026-10-30 19:33:25 | [Monq.Core.GrpcClientExtensions](https://www.nuget.org/packages/Monq.Core.GrpcClientExtensions) | 0.1.0-rev-411161078… | MONQ Digital lab | Shared gRPC client registration on top of Monq.Core.MicroserviceAddressing: nam… |
+| 2026-10-30 19:33:49 | [ZapSMTP](https://www.nuget.org/packages/ZapSMTP) | 0.1.0 | ZapSMTP | The official .NET library for the ZapSMTP email API: send, receive and track em… |
+| 2026-10-30 19:33:50 | [ZapSMTP.Extensions.DependencyInjection](https://www.nuget.org/packages/ZapSMTP.Extensions.DependencyInjection) | 0.1.0 | ZapSMTP | Registers the ZapSMTP client with Microsoft.Extensions.DependencyInjection and… |
+| 2026-10-30 19:39:21 | [Nelshh.GstSharpBundle](https://www.nuget.org/packages/Nelshh.GstSharpBundle) | 1.28.8.1 | GstSharpBundle | GStreamer C# bindings for .NET 8+ with the official GStreamer 1.28 runtime bund… |
+| 2026-10-30 19:39:32 | [Nelshh.GstSharpBundle.Windows.X64](https://www.nuget.org/packages/Nelshh.GstSharpBundle.Windows.X64) | 1.28.8.1 | GstSharpBundle.Windows.X64 | GStreamer C# bindings for .NET 8+ with the official GStreamer 1.28 runtime bund… |
+| 2026-10-30 19:40:42 | [FAI.Router](https://www.nuget.org/packages/FAI.Router) | 0.1.0 | MASFractal | Picks the right LLM, agent or tool for each request and checks what it delivere… |
+| 2026-10-30 19:45:24 | [BuildAgent.Tool](https://www.nuget.org/packages/BuildAgent.Tool) | 2.0.0 | The-Running-Dev | Runs build-agent builds in the versioned image from the host and updates a runn… |
+| 2026-10-30 19:56:42 | [BorrowedTorch.UI.Markup](https://www.nuget.org/packages/BorrowedTorch.UI.Markup) | 1.0.0 | Vladyslav Pysarenko | Builds BorrowedTorch.UI element trees from XML markup: elements by type name, t… |
+| 2026-10-30 20:00:33 | [NanoByte.StructureEditor.NewtonsoftJson](https://www.nuget.org/packages/NanoByte.StructureEditor.NewtonsoftJson) | 3.0.0 | Bastian Eicher | Newtonsoft.Json serialization support for split-screen editors for data structu… |
+| 2026-10-30 20:04:02 | [NetReporter.Fonts.Liberation](https://www.nuget.org/packages/NetReporter.Fonts.Liberation) | 1.3.0 | Marvin Chinchilla | Liberation Sans, Serif and Mono fonts (SIL OFL 1.1) embedded for NetReporter, m… |
+| 2026-10-30 20:04:45 | [Soenneker.Blazor.Extensions.IJSRuntimes](https://www.nuget.org/packages/Soenneker.Blazor.Extensions.IJSRuntimes) | 11.0.1 | Jake Soenneker | Extension methods for IJSRuntime that add operation context to JavaScript invoc… |
+| 2026-10-30 20:12:48 | [Morgana.AI.LanguageModels.Anthropic](https://www.nuget.org/packages/Morgana.AI.LanguageModels.Anthropic) | 1.0.0-beta1 | Marco De Salvo | Anthropic provider for Morgana: serves a tier on Claude models. |
 
 ## Data source
 
