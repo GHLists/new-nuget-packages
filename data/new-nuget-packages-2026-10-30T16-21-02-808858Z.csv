@@ -1,0 +1,77 @@
+created_at,package,version,authors,description
+2026-10-30T15:24:46.48Z,Dflat.Meta.Business,1.7.2.83,Dflat,"Couche métier du module Meta (formulaires, présentations, champs personnalisés, paramètres, fichiers, cultures) et ses points d'extension. Dépend de Dflat.Kernel.Business."
+2026-10-30T15:24:47.85Z,Dflat.Meta.Client,1.7.2.83,Dflat,Client HTTP typé (généré) consommant l'API du module Meta. Dépend de Dflat.Kernel.WebClient.
+2026-10-30T15:24:49.203Z,Dflat.Meta.Data,1.7.2.83,Dflat,"Accès aux données (services, caches, gestionnaire des méta-entités) du module Meta. Dépend de Dflat.Kernel.Data."
+2026-10-30T15:24:50.89Z,Dflat.Meta.Database,1.7.2.83,Dflat,"Scripts de mise à jour du schéma de base de données du module Meta (méta-modèle, champs personnalisés, présentations, paramètres, ressources, permissions et versions), incorporés dans l'assembly et appliqués par dbmanager avant ceux d'Identity et de System (commande dflat -u)."
+2026-10-30T15:24:52.16Z,Dflat.Meta.Model,1.7.2.83,Dflat,"Entités, vues et modèles du module Meta (méta-modèle, champs personnalisés, présentations, paramètres, fichiers, ressources, permissions). Dépend du socle Dflat.Kernel.Core et Dflat.Kernel.Model."
+2026-10-30T15:24:53.4Z,Dflat.Meta.Web,1.7.2.83,Dflat,"Contrôleurs de l'API Web du module Meta, chargés par l'hôte (AddApplicationPart dans DflatStartup). Dépend de Dflat.Kernel.Web."
+2026-10-30T15:24:55.37Z,Dflat.Identity.Business,1.7.2.83,Dflat,"Couche métier du module Identity (utilisateurs, connexions externes, jetons, activation des comptes) et ses points d'extension. Dépend de Dflat.Meta.Business."
+2026-10-30T15:24:56.773Z,Dflat.Identity.Client,1.7.2.83,Dflat,Client HTTP typé (généré) consommant l'API du module Identity. Dépend de Dflat.Kernel.WebClient.
+2026-10-30T15:24:58.037Z,Dflat.Identity.Data,1.7.2.83,Dflat,"Accès aux données (services, caches des comptes et des rôles) du module Identity. Dépend de Dflat.Meta.Data."
+2026-10-30T15:24:59.29Z,Dflat.Identity.Database,1.7.2.83,Dflat,"Scripts de mise à jour du schéma de base de données du module Identity (comptes, connexions, groupes, rôles et droits, préférences des utilisateurs), incorporés dans l'assembly et appliqués par dbmanager après ceux de Meta et avant ceux de System (commande dflat -u)."
+2026-10-30T15:25:00.56Z,Dflat.Identity.Model,1.7.2.83,Dflat,"Entités, vues et modèles du module Identity (comptes, connexions, sessions, groupes, rôles et droits, préférences). Dépend de Dflat.Meta.Model."
+2026-10-30T15:25:01.92Z,Dflat.Identity.Web,1.7.2.83,Dflat,"Contrôleurs de l'API Web du module Identity (comptes, rôles, connexion), chargés par l'hôte (AddApplicationPart dans DflatStartup). Dépend de Dflat.Meta.Web."
+2026-10-30T15:31:24.237Z,DVO.Core.Localization,1.0.0,Luis Rodrigo Silva,Shared Develoo localization resources and APIs for .NET Standard 2.0.
+2026-10-30T15:31:37.27Z,DVO.Core.Localization.Mvc,1.0.0,Luis Rodrigo Silva,Localization adapter for ASP.NET MVC 5.
+2026-10-30T15:41:01.083Z,Redth.Maui.VirtualListView,0.5.0,"Microsoft, Redth",Package Description
+2026-10-30T15:41:29.03Z,TildeMail.Abstractions,0.2.1,tom (tom@orivega.io),"Shared contracts, models and plugin registration APIs for TildeMail hosts and protocol integrations."
+2026-10-30T15:41:30.993Z,TildeMail.Core,0.2.1,tom (tom@orivega.io),"UI-independent TildeMail services for configuration, state, jobs, events, commands and DLL plugins."
+2026-10-30T15:41:33.257Z,TildeMail.Mail,0.2.1,tom (tom@orivega.io),"Mail runtime for TildeMail: IMAP and Maildir backends, SMTP delivery, MIME reading, message composition, GPG, the mail cache, rules and new-mail watching."
+2026-10-30T15:41:35.303Z,TildeMail.Scripting,0.2.1,tom (tom@orivega.io),"Lua scripting engine, sandbox and modules for TildeMail commands, keybindings, mail events and jobs."
+2026-10-30T15:43:19.953Z,Fixtura.EntityFrameworkCore,0.1.0,Zachary Fry,"Entity Framework Core support for Fixtura: point any registered DbContext at a test database in one call, whatever its registration shape (plain, pooled, factory or pooled factory), keep or drop the app's own options such as interceptors, and reach contexts a library keeps internal."
+2026-10-30T15:43:20.62Z,Fixtura,0.1.0,Zachary Fry,"Compose ASP.NET Core integration-test hosts from reusable features on top of WebApplicationFactory: typed service swaps, settings as objects that replace whole arrays, test users signed in through the app's own JWT or cookie authentication, and infrastructure that skips tests locally and fails them…"
+2026-10-30T15:43:21.487Z,Fixtura.SqlServer.Testcontainers,0.1.0,Zachary Fry,"SQL Server in a Docker container for Fixtura test hosts: one container per test run, started on first use and shared by every fixture, each with its own databases. Without Docker the fixture's tests skip with the reason; with the ""required"" variable set, as in CI, they fail."
+2026-10-30T15:43:22.18Z,Fixtura.SqlServer,0.1.0,Zachary Fry,"SQL Server for Fixtura test hosts: a server from an environment variable or LocalDB, one prefixed database per name per fixture, dropped when the fixture is done. Without a server the fixture's tests skip with the reason; with the ""required"" variable set, as in CI, they fail."
+2026-10-30T15:44:57.873Z,CodeTestament.Scorecard,2.4.0,Sean Cooper,Deterministic code metrics and scorecard evidence for .NET solutions
+2026-10-30T15:48:57.6Z,AI.Algorithms,4.0.0,Zahar A. Ponimash,"Graph algorithms: BFS/DFS, Dijkstra, A*, MST, max flow, matching, multi-agent path finding (CBS, PIBT, LaCAM), VRP and TSP."
+2026-10-30T15:48:59.667Z,AI.ClassicMath,4.0.0,Zahar A. Ponimash,"Numerical methods: integration, interpolation, ODE solvers, matrix decompositions, eigenvalues, expression calculator."
+2026-10-30T15:49:00.897Z,AI.Geometry,4.0.0,Zahar A. Ponimash,"Geometry: affine transforms, homography, quaternions, RANSAC, Bezier and Hermite curves."
+2026-10-30T15:49:01.907Z,AI.ML,4.0.0,Zahar A. Ponimash,"Machine learning: classifiers, clustering, regression, PCA, genetic algorithms."
+2026-10-30T15:49:03.143Z,AI.Solvers.Chem,4.0.0,Zahar A. Ponimash,"Chemistry toolkit: structures, kinetics, QSAR, crystallography, quantum chemistry, polymers, process safety."
+2026-10-30T15:49:04.163Z,AI.Solvers.Optimization,4.0.0,Zahar A. Ponimash,"Mathematical optimization: linear, mixed integer and quadratic programming, Nelder-Mead."
+2026-10-30T15:49:05.453Z,AI.Biology,4.0.0,Zahar A. Ponimash,"Computational biology: sequences and alignment, population genetics, population and epidemic models, metabolic flux analysis."
+2026-10-30T15:49:06.54Z,AI.KNN,4.0.0,Zahar A. Ponimash,"k-nearest neighbors: classification, regression, multi-output regression."
+2026-10-30T15:49:07.68Z,AI.DSP,4.0.0,Zahar A. Ponimash,"Digital signal processing: IIR and FIR filters, FFT, Welch spectral analysis, processing pipelines."
+2026-10-30T15:49:08.7Z,AI.Charts,4.0.0,Zahar A. Ponimash,"SkiaSharp charts: scatter, line, bar, polar, power spectrum and 3D plots."
+2026-10-30T15:50:45.96Z,AI.Charts.Avalonia,4.0.0,Zahar A. Ponimash,Avalonia chart viewer for AI.Charts.
+2026-10-30T15:50:51.82Z,AI.Charts.JS,4.0.0,Zahar A. Ponimash,Plotly.js charts for Blazor Server.
+2026-10-30T15:50:52.85Z,AI.Charts.WinForms,4.0.0,Zahar A. Ponimash,WinForms chart viewer for AI.Charts.
+2026-10-30T15:50:53.81Z,AI.Fuzzy,4.0.0,Zahar A. Ponimash,"Fuzzy logic: Mamdani, Larsen, Sugeno and Tsukamoto inference, fuzzy PID."
+2026-10-30T15:50:54.85Z,AI.NLP,4.0.0,Zahar A. Ponimash,"Natural language processing: stemming, Russian morphology and lemmatization, BoW, TF-IDF, BM25, tokenizers, NER, summarization."
+2026-10-30T15:50:55.877Z,AI.DataPrepaire,4.0.0,Zahar A. Ponimash,"Data preparation: normalizers, tokenizers, DataTable, CSV."
+2026-10-30T15:50:56.817Z,AI.ExplainitALL,4.0.0,Zahar A. Ponimash,Interpretability metrics and RAG tools.
+2026-10-30T15:50:57.893Z,AI.LLM,4.0.0,Zahar A. Ponimash,"AI agents (ReAct, function calling), LLM clients (OpenAI, OpenRouter, DeepSeek, Google AI), MCP server, Semantic Kernel integration, memory, guards, billing."
+2026-10-30T15:50:58.86Z,AI.ONNX,4.0.0,Zahar A. Ponimash,"ONNX model loading and inference: Dense, Softmax, BERT embeddings."
+2026-10-30T15:50:59.997Z,AI.ComputerVision,4.0.0,Zahar A. Ponimash,"Computer vision: 2D FFT, Sobel, HOG, histogram equalization, color processing."
+2026-10-30T15:51:01.35Z,AI.ControlSystems,4.0.0,Zahar A. Ponimash,"Control theory: PID, LQR, LQG, Kalman filters, MPC, sliding mode, MRAC, RLS, pole placement."
+2026-10-30T15:51:02.39Z,AI.Earth,4.0.0,Zahar A. Ponimash,"Earth sciences: geodesy, map projections, spatial index, astronomical time, Sun position, Moon phases."
+2026-10-30T15:51:03.453Z,AI.Econometrics,4.0.0,Zahar A. Ponimash,"Econometrics: robust OLS, IV and GMM, panel data, causal inference (DiD, RDD, PSM), VAR and VECM, GARCH, state space models."
+2026-10-30T15:51:04.577Z,AI.Economics,4.0.0,Zahar A. Ponimash,"Business and financial analytics: unit economics, pricing, forecasting, credit risk, valuation (DCF, LBO), VaR, portfolio optimization."
+2026-10-30T15:51:05.653Z,AI.ImageEditor,4.0.0,Zahar A. Ponimash,"Cross-platform image editing core on SkiaSharp: filters, brushes, command history, sessions."
+2026-10-30T15:51:06.617Z,AI.Logic,4.0.0,Zahar A. Ponimash,Logic structures used by AI.Fuzzy.
+2026-10-30T15:51:07.687Z,AI.Solvers.Math,4.0.0,Zahar A. Ponimash,"Math expression parser, computer algebra simplification, equation solvers."
+2026-10-30T15:51:08.703Z,AI.Microwave,4.0.0,Zahar A. Ponimash,"Microwave engineering: horn, reflector and lens antenna synthesis, waveguides, RF exposure limits, dielectric heating."
+2026-10-30T15:51:09.743Z,AI.NeuralNetworks,4.0.0,Zahar A. Ponimash,"Tensor engine with autograd: Linear, Conv, RNN, LSTM, GRU and Attention layers, normalizations, losses, DataLoader, OpenBLAS acceleration."
+2026-10-30T15:51:10.86Z,AI.NeuralNetworks.Gpu,4.0.0,Zahar A. Ponimash,GPU acceleration for AI.NeuralNetworks through ILGPU: matrix multiplication and recurrent layer kernels.
+2026-10-30T15:51:11.91Z,AI.NeuralNetworks.Onnx,4.0.0,Zahar A. Ponimash,ONNX format support for the AI.NeuralNetworks tensor engine.
+2026-10-30T15:51:12.867Z,AI.Physics,4.0.0,Zahar A. Ponimash,"Classical physics on typed quantities: mechanics, thermodynamics, electricity, optics, fluids."
+2026-10-30T15:51:13.857Z,AI.Simulation,4.0.0,Zahar A. Ponimash,"Simulation: discrete events, queueing theory, system dynamics, Markov decision processes, agent-based models."
+2026-10-30T15:51:14.903Z,AI.Psychology,4.0.0,Zahar A. Ponimash,"Computational psychology: psychometrics, psychophysics, memory, learning, decision making, emotion and social models."
+2026-10-30T15:51:15.86Z,AI.Script,4.0.0,Zahar A. Ponimash,"AIScript, a scripting language for data processing pipelines: parser, runtime and hosting API."
+2026-10-30T15:51:16.947Z,AI.Script.Charts,4.0.0,Zahar A. Ponimash,Plotting module for AIScript.
+2026-10-30T15:51:19.267Z,AI.Script.Chem,4.0.0,Zahar A. Ponimash,Chemistry module for AIScript.
+2026-10-30T15:51:20.197Z,AI.SignalLabs,4.0.0,Zahar A. Ponimash,"Signal generators, modulation and demodulation, modulation recognition, automatic gain control."
+2026-10-30T15:51:21.453Z,AI.Solvers.Constraints,4.0.0,Zahar A. Ponimash,"Constraint solving: SAT with CDCL, SMT, finite domain constraint programming."
+2026-10-30T15:51:22.51Z,AI.Solvers.Pde,4.0.0,Zahar A. Ponimash,"Partial differential equations: heat, wave and Poisson solvers, finite element method, sparse matrices, conjugate gradients."
+2026-10-30T15:51:23.67Z,AI.Script.Std,4.0.0,Zahar A. Ponimash,"AIScript standard library: tables, statistics, math, signals, text, economics, control and optimization."
+2026-10-30T15:51:24.927Z,AI.Script.Data,4.0.0,Zahar A. Ponimash,Parquet and read-only SQLite module for AIScript.
+2026-10-30T15:51:26.003Z,AI.Script.Llm,4.0.0,Zahar A. Ponimash,"LLM, embeddings and search module for AIScript."
+2026-10-30T15:51:27.08Z,AI.Script.Office,4.0.0,Zahar A. Ponimash,"Excel, Word and PDF module for AIScript."
+2026-10-30T15:51:28.14Z,AI.Script.Vision,4.0.0,Zahar A. Ponimash,Image processing module for AIScript.
+2026-10-30T15:51:29.357Z,AI.Script.Media,4.0.0,Zahar A. Ponimash,"Audio, video, speech and OCR module for AIScript."
+2026-10-30T15:51:30.413Z,AI.Script.Nn,4.0.0,Zahar A. Ponimash,Neural network module for AIScript.
+2026-10-30T15:51:31.443Z,AI.Script.Science,4.0.0,Zahar A. Ponimash,Physics and biology module for AIScript.
+2026-10-30T16:05:16.577Z,Ploch.CommandLine.Spectre,1.0.51,Kris Ploch,"Hosting, configuration, dependency injection, validation and output for Spectre.Console.Cli command-line applications."
+2026-10-30T16:05:18.277Z,Ploch.CommandLine.Spectre.FluentValidation,1.0.51,Kris Ploch,FluentValidation integration for Ploch.CommandLine.Spectre: validates command settings with FluentValidation validators before a command runs.
+2026-10-30T16:05:19.193Z,Ploch.CommandLine.Spectre.Serilog,1.0.51,Kris Ploch,"Serilog integration for Ploch.CommandLine.Spectre: configures Serilog logging, including a rolling file sink, for command-line applications."
+2026-10-30T16:05:20.123Z,Ploch.CommandLine.UseCases,1.0.51,Kris Ploch,"Use-case abstractions (IUseCase, IResultUseCase) and a base Spectre.Console.Cli command that runs an IResultUseCase and maps its Ardalis.Result to output and an exit code."
