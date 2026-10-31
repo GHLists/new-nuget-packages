@@ -12,23 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 16:21 UTC
+## Latest list — 2026-10-31 17:21 UTC
 
-New packages created between 2026-10-31 15:20 UTC and 2026-10-31 16:21 UTC.
+New packages created between 2026-10-31 16:21 UTC and 2026-10-31 17:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T16-21-00-604242Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T17-21-08-123407Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 15:24:43 | [Wiretap](https://www.nuget.org/packages/Wiretap) | 13.0.0 | HeDev | Logging extensions to produce logs that are easier to organize. |
-| 2026-10-31 15:32:03 | [Quire](https://www.nuget.org/packages/Quire) | 1.0.1 | Quire | Immutable asset packages with directory loading, typed metadata and concurrent… |
-| 2026-10-31 15:44:42 | [Fomoxa.Backend.Templates](https://www.nuget.org/packages/Fomoxa.Backend.Templates) | 0.1.0 | Fomoxa | dotnet new template for a game backend of a Fomoxa cluster: fRPC server, player… |
-| 2026-10-31 15:48:24 | [Vestigium.Helpers.Network.RawSocket](https://www.nuget.org/packages/Vestigium.Helpers.Network.RawSocket) | 1.0.0 | Vestigium | Elevated raw-socket probes for diagnostic hosts. SYN scan first. Requires admin… |
-| 2026-10-31 15:49:59 | [Conq.Noble.Spreadox](https://www.nuget.org/packages/Conq.Noble.Spreadox) | 0.9.0 | Conq.Noble | Spreadox is a high-level C# library for Excel (.xlsx) workbooks and A4 PDF char… |
-| 2026-10-31 15:50:19 | [NetTaskList](https://www.nuget.org/packages/NetTaskList) | 1.0.0 | NetTaskList Team | CLI tool to parse, list and execute tasks declared in nxtl.json |
-| 2026-10-31 15:54:10 | [Wayfinder.Umbraco.Templates](https://www.nuget.org/packages/Wayfinder.Umbraco.Templates) | 6.4.0 | Jonny Muir | dotnet new templates for Wayfinder for Umbraco sites. `dotnet new wayfinder-age… |
-| 2026-10-31 16:04:11 | [NecessarySdk](https://www.nuget.org/packages/NecessarySdk) | 0.1.7 | Meraj Hasan | Device trust for .NET apps on Android and iOS: a key the app never exports, sig… |
-| 2026-10-31 16:10:50 | [Renouveau.Caffeine](https://www.nuget.org/packages/Renouveau.Caffeine) | 0.1.0 | Ji Luo | For requesting the system not go idle so that long-running tasks continue unint… |
+| 2026-10-31 16:32:27 | [Veriqa.Core.ChannelAdapter.Http](https://www.nuget.org/packages/Veriqa.Core.ChannelAdapter.Http) | 0.7.0 | Veriqa | Login and authentication through any messaging app or bot for Veriqa: a channel… |
+| 2026-10-31 16:32:31 | [Veriqa.Core.ChannelAdapter.Instagram](https://www.nuget.org/packages/Veriqa.Core.ChannelAdapter.Instagram) | 0.7.0 | Veriqa | Instagram login and authentication for ASP.NET Core and OpenIddict. Add passwor… |
+| 2026-10-31 16:32:37 | [Veriqa.Core.ChannelAdapter.Messenger](https://www.nuget.org/packages/Veriqa.Core.ChannelAdapter.Messenger) | 0.7.0 | Veriqa | Facebook Messenger login and authentication for ASP.NET Core and OpenIddict. Ad… |
+| 2026-10-31 16:32:46 | [Veriqa.Core.ChannelAdapter.Viber](https://www.nuget.org/packages/Veriqa.Core.ChannelAdapter.Viber) | 0.7.0 | Veriqa | Viber login and authentication for ASP.NET Core and OpenIddict. Add passwordles… |
+| 2026-10-31 16:32:50 | [Veriqa.Core.ChannelAdapter.WeChat](https://www.nuget.org/packages/Veriqa.Core.ChannelAdapter.WeChat) | 0.7.0 | Veriqa | WeChat login and authentication for ASP.NET Core and OpenIddict. Add passwordle… |
+| 2026-10-31 16:32:54 | [Veriqa.Core.ChannelAdapter.WebProviders](https://www.nuget.org/packages/Veriqa.Core.ChannelAdapter.WebProviders) | 0.7.0 | Veriqa | Sign-in with a Google, Apple, Huawei, Yandex or VK ID account for Veriqa: a cha… |
+| 2026-10-31 16:34:32 | [Alcifra.Keys](https://www.nuget.org/packages/Alcifra.Keys) | 0.5.0 | Hebel Consulting | Open CMS envelopes with a PIV hardware key: an APDU-level PIV session, RSA key… |
+| 2026-10-31 16:34:33 | [Alcifra.Messenger.Views](https://www.nuget.org/packages/Alcifra.Messenger.Views) | 0.14.0 | Hebel Consulting | The Alcifra Messenger's screens for a cross-platform app: conversations, the th… |
+| 2026-10-31 16:34:34 | [Alcifra.Messenger](https://www.nuget.org/packages/Alcifra.Messenger) | 0.9.0 | Hebel Consulting | The Alcifra Messenger module: conversations sealed to their members' hardware k… |
+| 2026-10-31 16:34:34 | [Alcifra.Messenger.Client](https://www.nuget.org/packages/Alcifra.Messenger.Client) | 0.14.0 | Hebel Consulting | The Alcifra Messenger's client library: end-to-end sealed messages and conversa… |
+| 2026-10-31 16:37:16 | [Pubwiz.WebDeploy](https://www.nuget.org/packages/Pubwiz.WebDeploy) | 0.1.0 | SaifAqqad | A cross-platform client for IIS Web Deploy (msdeploy.axd / WMSVC): deploy folde… |
+| 2026-10-31 16:37:17 | [Pubwiz](https://www.nuget.org/packages/Pubwiz) | 0.1.0 | SaifAqqad | An interactive publish wizard for .NET projects: folders, IIS Web Deploy, Zip d… |
+| 2026-10-31 16:37:32 | [RecursiveAI.OneModel](https://www.nuget.org/packages/RecursiveAI.OneModel) | 1.0.0 | Recursive AI, LLC | A neural-network runtime for .NET in pure managed C# with no dependency beyond… |
+| 2026-10-31 16:37:33 | [RecursiveAI.OneModel.Training](https://www.nuget.org/packages/RecursiveAI.OneModel.Training) | 1.0.0 | Recursive AI, LLC | Training for the OneModel runtime, on the tensor layer's reverse-mode autodiff:… |
+| 2026-10-31 16:38:20 | [Quorum.Client.MediatR](https://www.nuget.org/packages/Quorum.Client.MediatR) | 0.4.0 | Olawale Lawal | Route MediatR commands through Quorum for approval: mark a command, and it is h… |
+| 2026-10-31 16:38:21 | [Quorum.Client](https://www.nuget.org/packages/Quorum.Client) | 0.4.0 | Olawale Lawal | .NET client for Quorum, the open-source approval engine: typed requests, per-ca… |
+| 2026-10-31 16:38:38 | [Jenin.FontAwesome.Blazor.Templates](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.Templates) | 2.0.0 | Tarek Najem | Blazor Web App and standalone WebAssembly starters with Jenin.FontAwesome.Blazo… |
+| 2026-10-31 16:38:39 | [Jenin.FontAwesome.Blazor.Svg](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.Svg) | 2.0.0 | Tarek Najem | Jenin Blazor Library - Optional self-contained Font Awesome Free inline-SVG ico… |
+| 2026-10-31 16:38:40 | [Jenin.FontAwesome.Blazor.Analyzers](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.Analyzers) | 2.0.0 | Tarek Najem | Roslyn analyzer and code fixes for Jenin.FontAwesome.Blazor: unknown icon names… |
+| 2026-10-31 16:38:41 | [Jenin.FontAwesome.Blazor.MudBlazor](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.MudBlazor) | 2.0.0 | Tarek Najem | Jenin Blazor Library - Optional MudBlazor adapter: typed Font Awesome 7 names f… |
+| 2026-10-31 16:38:41 | [Jenin.FontAwesome.Blazor.IconPicker](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.IconPicker) | 2.0.0 | Tarek Najem | Jenin Blazor Library - Optional Font Awesome icon metadata, search, and IconPic… |
+| 2026-10-31 16:38:42 | [Jenin.FontAwesome.Blazor.Icons](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.Icons) | 2.0.0 | Tarek Najem | Jenin Blazor Library - Optional pre-built Font Awesome Free per-icon preset com… |
+| 2026-10-31 16:38:43 | [Jenin.FontAwesome.Blazor.Blazorise](https://www.nuget.org/packages/Jenin.FontAwesome.Blazor.Blazorise) | 2.0.0 | Tarek Najem | Jenin Blazor Library - Optional Blazorise adapter: typed Font Awesome 7 names f… |
+| 2026-10-31 16:51:03 | [BlogDoFT.Templates](https://www.nuget.org/packages/BlogDoFT.Templates) | 1.0.0 | BlogDoFT | dotnet new template bft-hexagonal-api: .NET 10 hexagonal Web API with Dapper/Po… |
+| 2026-10-31 16:53:17 | [Hospitalbagchecklist.UrlTools](https://www.nuget.org/packages/Hospitalbagchecklist.UrlTools) | 0.1.0 | wangneo276-lgtm | A free hospital bag checklist that tracks what you have, what to buy, what’s pa… |
+| 2026-10-31 16:54:28 | [ripeat](https://www.nuget.org/packages/ripeat) | 0.0.0 | ripeat | Repeatable machine setup. Placeholder to reserve the name. |
 
 ## Data source
 
