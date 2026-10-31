@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-31T17:23:39.49Z,Fibril,0.0.1,Axmouth,Name reserved for the .NET client of the Fibril message broker. Not usable yet.
+2026-10-31T17:30:56.82Z,Chronicler.Diagnostics,1.0.0,mrdav30,"Dependency-free diagnostic channels, lazy logging, and allocation-conscious exception guards for .NET libraries and hosts."
+2026-10-31T17:34:40.723Z,NetReporter.Viewer,1.4.0,Marvin Chinchilla,"Report viewer for ASP.NET Core apps: app.MapNetReporterViewer(""/reports"", ...) serves a paginated, zoomable viewer (the <netreporter-viewer> web component, no CDN dependencies) with thumbnails, print and PDF/HTML/XLSX download. Pages are rendered as SVG on demand."
+2026-10-31T17:36:11.963Z,MASS4.Localization.Abstractions,3.8.0,Bruno Massa,"The locale contract that interface and host code resolve text through, independent of any localization implementation."
+2026-10-31T17:36:14.02Z,MASS4.Localization,3.8.0,Bruno Massa,"Shared string tables, localization and translation interchange."
+2026-10-31T17:42:21.603Z,MASS4.Guinevere.Graphs,6.5.0,Bruno Massa,Virtualized graph canvas and accessible graph navigation for Guinevere.
+2026-10-31T17:46:14.43Z,VpnHood.Net.Http3,9.0.860,VpnHood.Net.Http3,"VpnHood HTTP/3. A server-side HTTP/3 engine over the VpnHood QUIC abstractions: frames, QPACK without a dynamic table, request validation and the response, with hooks through which an application claims its own streams."
+2026-10-31T18:09:54.193Z,Mokaterm.Plugin.TestHost,0.2.5,Moka,"Test harness for Mokaterm plugins: renders a plugin's views to HTML with Blazor's static renderer, on a faked desktop or web host, with the host services faked and ready to inspect. For plugin test projects only."
+2026-10-31T18:13:16.72Z,Lunixi.Sdk,0.1.1,Lunixi,"Lunixi server-side .NET SDK: signed requests, hosted payment intents, payment operations, fraud and verified webhooks."
