@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-31T12:42:06.47Z,Cratis.Showrunner.BoxOffice.Offering,1.6.0,Cratis,"Box Office for a product - declare what the product sells (modules, meters, seat licensing) and meter its compute per tenant and day, reporting both to the operator."
+2026-10-31T12:45:30.107Z,Surprenant.Grunt.Gateway.Client,0.1.0,Noah Surprenant,IHaloInfiniteClient implementation that calls a Grunt Halo gateway over HTTP instead of the Halo Infinite API directly.
+2026-10-31T13:06:43.377Z,Cratis.Showrunner.Marquee.Authoring,1.6.0,Cratis,"Marquee authoring — the commands, events and outbox for writing announcements that products show to their audience, built on Cratis Arc and Chronicle."
+2026-10-31T13:06:44.37Z,Cratis.Showrunner.Marquee,1.6.0,Cratis,"Marquee — the Showrunner announcements part for products: receive announcements once, show each tenant what its audience matches and record who has seen a dialog, built on Cratis Arc and Chronicle."
+2026-10-31T13:12:12.89Z,Spoleto.TrueApi.Edo,1.2.0,"OlegNadymov,Spoleto-Software",TrueApi EDO Lite provider for CRPT
