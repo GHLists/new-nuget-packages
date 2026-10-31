@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-31T13:20:23.433Z,Soenneker.TypesafeAi.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for TypeSafe AI.
+2026-10-31T13:20:31.51Z,Divisionz.Scaffold.SQLScriptExecutor.SQLite,1.0.0-rc858,Isaychev Konstantin Mikhailovich,"Исполнитель SQL-скриптов sql-exec для SQLite: SQLiteExecutor, фабрики ISQLExecutorFactory/IMigrationsDBUtilsFactory, регистрация AddSQLiteExecutor."
+2026-10-31T13:32:38.163Z,dotnet-inngest,1.0.0,inngest-dotnet contributors,"The dotnet inngest command for the Inngest .NET SDK: dotnet inngest dev downloads the Inngest CLI, checks its SHA-256 and runs the Inngest dev server for the app in the current folder."
+2026-10-31T13:39:27.197Z,Kandra.Plugins.UA.Rates.Nbu,0.1.2,Kandra Tech,Official exchange rates of the National Bank of Ukraine (NBU): a typed HttpClient over the public bank.gov.ua API. No Kandra engine dependency.
+2026-10-31T13:48:51.34Z,Gue.Audio,0.1.0-alpha,GUE contributors,Audio mixer and sample playback for the GUE interpreters.
+2026-10-31T13:48:52.52Z,Gue.Core,0.1.0-alpha,GUE contributors,Host contract and shared primitives for the GUE interpreters.
+2026-10-31T13:48:53.703Z,Gue.Host.Sdl,0.1.0-alpha,GUE contributors,"SDL3 host for the GUE interpreters: window, input and audio."
+2026-10-31T13:48:54.99Z,Gue.Made,0.1.0-alpha,GUE contributors,"The MADE interpreter for Return to Zork, ported from ScummVM."
+2026-10-31T13:48:57.117Z,Gue.Player,0.1.0-alpha,GUE contributors,"Command line player for Return to Zork, Zork Nemesis, Zork: Grand Inquisitor and Infocom's Z-machine games: dotnet tool install -g Gue.Player, then gue <game folder or story file>."
+2026-10-31T13:48:58.183Z,Gue.ZMachine,0.1.0-alpha,GUE contributors,The Z-Machine engine for Infocom's text games: a C# interpreter for story files of versions 1 to 8.
+2026-10-31T13:48:59.447Z,Gue.ZVision,0.1.0-alpha,GUE contributors,"The Z-Vision engine for Zork Nemesis and Zork: Grand Inquisitor, ported from ScummVM."
+2026-10-31T13:49:05.73Z,Sandlada.RopSharp,0.0.1,Sandlada,"Production-grade railway-oriented programming (ROP) for modern C#: Result<TOk,TErr>, Option<T>, Either<TLeft,TRight>, structured RopError with categories, applicative validation, parsing, and cancellation-aware async combinators. Immutable structs, AOT friendly, zero reflection in hot paths."
+2026-10-31T13:53:00.273Z,Element-Plus,0.12.0,Smart,"Element-Plus is an independent Blazor UI component library aligned with the Element Plus 2.14 design language, published by Smart."
+2026-10-31T13:53:01.01Z,Element-Plus.Markdown,0.12.0,Smart,"Markdown editor components for Element-Plus, aligned with the Element Plus 2.14 design baseline. Independent package line published by Smart."
+2026-10-31T13:53:01.717Z,Element-Plus.X,0.12.0,Smart,"AI and conversation scene components for Element-Plus, inspired by Element Plus X. Independent package line published by Smart."
+2026-10-31T14:13:45.017Z,YandexTracker,0.1.0,FrigaT,"Unofficial asynchronous .NET client for the Yandex Tracker API (.NET 8/9/10): issues, search, links, transitions, comments, queues, users and statuses. — Неофициальный асинхронный клиент API Яндекс Трекера."
+2026-10-31T14:14:12.533Z,Darp.Fairino.Testing,0.8.0,rosslight GmbH,An in-memory fake of a Fairino robot controller for testing code written against Darp.Fairino.
