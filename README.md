@@ -12,20 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 11:19 UTC
+## Latest list — 2026-10-31 12:20 UTC
 
-New packages created between 2026-10-31 10:20 UTC and 2026-10-31 11:19 UTC.
+New packages created between 2026-10-31 11:19 UTC and 2026-10-31 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T11-19-51-669346Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T12-20-48-678614Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 10:37:38 | [Hexalith.Memories.EventStoreExtensions](https://www.nuget.org/packages/Hexalith.Memories.EventStoreExtensions) | 3.0.12 | ITANEO | Memories-owned local internal EventStore intent adapter enrollment. |
-| 2026-10-31 10:40:28 | [Toda.Guard](https://www.nuget.org/packages/Toda.Guard) | 0.1.0 | Toda contributors | toda-guard: accounts, groups with nesting, user directories, sign-in. |
-| 2026-10-31 10:40:29 | [Toda.Guard.Contracts](https://www.nuget.org/packages/Toda.Guard.Contracts) | 0.1.0 | Toda contributors | Public contracts of toda-guard: the directory connector SPI, lookups, and accou… |
-| 2026-10-31 10:40:29 | [Toda.Guard.Acting](https://www.nuget.org/packages/Toda.Guard.Acting) | 0.1.0 | Toda contributors | toda-guard's acting context (ADR 0042, 0087): whose rights a request uses and w… |
-| 2026-10-31 10:49:35 | [Cratis.Showrunner.BoxOffice](https://www.nuget.org/packages/Cratis.Showrunner.BoxOffice) | 1.4.0 | Cratis | Box Office — the Showrunner part a managed product runs to honor what its opera… |
-| 2026-10-31 11:07:49 | [DotProlog.Packages.Cli](https://www.nuget.org/packages/DotProlog.Packages.Cli) | 0.17.0 | Aleksandr Pavlov | Restores locked Prolog source packages and runs them with SWI-Prolog or DotProl… |
+| 2026-10-31 11:21:42 | [HostLoom.RateLimiting](https://www.nuget.org/packages/HostLoom.RateLimiting) | 0.20.0 | Aleksandr Pavlov | Backend-neutral distributed token-bucket rate limiting with an in-process refer… |
+| 2026-10-31 11:21:43 | [HostLoom.RateLimiting.DependencyInjection](https://www.nuget.org/packages/HostLoom.RateLimiting.DependencyInjection) | 0.20.0 | Aleksandr Pavlov | Named dependency-injection registration, options validation, and readiness for… |
+| 2026-10-31 11:21:45 | [HostLoom.RateLimiting.HttpClient](https://www.nuget.org/packages/HostLoom.RateLimiting.HttpClient) | 0.20.0 | Aleksandr Pavlov | Outgoing HttpClient rate limiting with bounded local waits over HostLoom limite… |
+| 2026-10-31 11:32:40 | [Fuaran.UI.Operability](https://www.nuget.org/packages/Fuaran.UI.Operability) | 0.100.0 | Andrew J. Willshire | Fuaran operability — a tree's operable surface as a specified projection of it.… |
+| 2026-10-31 11:42:41 | [Aore.Camstar.InSiteXMLClient](https://www.nuget.org/packages/Aore.Camstar.InSiteXMLClient) | 9.0.0 | WEI.ZHOU (Willis) | Camstar InSite XML 客户端合并库：将原 Camstar.Constants.dll、Camstar.Exceptions.dll、Camst… |
+| 2026-10-31 11:50:39 | [Inngest.UserContext.AspNetCore](https://www.nuget.org/packages/Inngest.UserContext.AspNetCore) | 1.0.0 | inngest-dotnet contributors | ASP.NET Core support for Inngest.UserContext: takes the user an event is sent f… |
+| 2026-10-31 11:54:35 | [MacroDeck.Localization](https://www.nuget.org/packages/MacroDeck.Localization) | 3.0.0 | Macro Deck | Renderer-independent localization for Macro Deck: localization keys, deferred l… |
+| 2026-10-31 11:54:35 | [MacroDeck.Plugin.Analyzers](https://www.nuget.org/packages/MacroDeck.Plugin.Analyzers) | 3.0.0 | Macro Deck | Roslyn analyzers for Macro Deck plugin authors: invalid ids and metadata, unsup… |
+| 2026-10-31 11:54:36 | [MacroDeck.Plugin.Cli](https://www.nuget.org/packages/MacroDeck.Plugin.Cli) | 3.0.0 | Macro Deck | macrodeck-plugin: the Macro Deck plugin developer CLI. Validate a manifest, ins… |
+| 2026-10-31 11:54:37 | [MacroDeck.Plugin.Hosting](https://www.nuget.org/packages/MacroDeck.Plugin.Hosting) | 3.0.0 | Macro Deck | DI-first hosting model for out-of-process Macro Deck plugins. Write a plugin as… |
+| 2026-10-31 11:54:38 | [MacroDeck.Plugin.Packaging](https://www.nuget.org/packages/MacroDeck.Plugin.Packaging) | 3.0.0 | Macro Deck | The Macro Deck plugin manifest and artifact format: parsing and validating mani… |
+| 2026-10-31 11:54:39 | [MacroDeck.Plugin.Protocol](https://www.nuget.org/packages/MacroDeck.Plugin.Protocol) | 3.0.0 | Macro Deck | Wire contracts for the Macro Deck plugin protocol: envelope, handshake, capabil… |
+| 2026-10-31 11:54:39 | [MacroDeck.Plugin.Serilog](https://www.nuget.org/packages/MacroDeck.Plugin.Serilog) | 3.0.0 | Macro Deck | Serilog sink for Macro Deck plugins. Forwards a plugin's own logs to the host o… |
+| 2026-10-31 11:54:40 | [MacroDeck.Plugin.Testing](https://www.nuget.org/packages/MacroDeck.Plugin.Testing) | 3.0.0 | Macro Deck | Test host, fakes and assertions for a Macro Deck plugin built on MacroDeck.Plug… |
+| 2026-10-31 11:54:41 | [MacroDeck.Sdk](https://www.nuget.org/packages/MacroDeck.Sdk) | 3.0.0 | Macro Deck | Capability contracts for Macro Deck integrations and plugins: actions, config f… |
+| 2026-10-31 11:54:41 | [MacroDeck.Signing](https://www.nuget.org/packages/MacroDeck.Signing) | 3.0.0 | Macro Deck | Macro Deck package signing: the Ed25519 primitives, creator certificate chain v… |
+| 2026-10-31 11:54:42 | [MacroDeck.Ui](https://www.nuget.org/packages/MacroDeck.Ui) | 3.0.0 | Macro Deck | The declarative Macro Deck UI DSL and reactive runtime: a view compiles to a tr… |
+| 2026-10-31 11:54:43 | [MacroDeck.Ui.Model](https://www.nuget.org/packages/MacroDeck.Ui.Model) | 3.0.0 | Macro Deck | The transport-neutral Macro Deck UI model: node identity, properties and patche… |
+| 2026-10-31 11:54:43 | [MacroDeck.Ui.Testing](https://www.nuget.org/packages/MacroDeck.Ui.Testing) | 3.0.0 | Macro Deck | The headless Macro Deck UI test host: render a view, query it by id, type or te… |
+| 2026-10-31 11:56:35 | [Shiny.Controls.BarcodeReader.Shared](https://www.nuget.org/packages/Shiny.Controls.BarcodeReader.Shared) | 2.3.0-beta-0003 | Allan Ritchie | Host-neutral long-range barcode reading engine behind the Shiny CameraView long… |
+| 2026-10-31 12:06:12 | [OpenIGI.Net](https://www.nuget.org/packages/OpenIGI.Net) | 0.5.4 | OpenIGI Contributors | Package Description |
+| 2026-10-31 12:08:50 | [XLibur.RBush](https://www.nuget.org/packages/XLibur.RBush) | 5.0.0 | viceroypenguin | Spatial Index data structure; used to make it easier to find data points on a t… |
 
 ## Data source
 
