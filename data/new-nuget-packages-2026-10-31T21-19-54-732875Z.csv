@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-31T20:37:50.427Z,AIContext,0.1.0,aicontext.dev,Open format standard for AI coding assistant project context. Specification and tooling coming soon.
+2026-10-31T20:38:09.46Z,AIContext.CLI,0.1.0,aicontext.dev,CLI tool for the AIContext open format standard. Coming soon.
+2026-10-31T20:38:26.88Z,AIContext.Spec,0.1.0,aicontext.dev,Specification types and JSON schema for the AIContext open format standard. Coming soon.
+2026-10-31T20:49:21.947Z,AmgadWriteSignature,1.0.0,Amgad Edward,"A reusable electronic signature component for Blazor, designed and developed by Amgad Edward. Supports mouse, touch, stylus, customizable pen colors, and PNG signature export."
+2026-10-31T21:02:33.33Z,StanzaSharp.TasmanianDevil,1.15.0,Jakob Boman,"StanzaSharp for TasmanianDevil (PII detection and de-identification): StanzaNerRecognizer adds PERSON, LOCATION, ORGANIZATION and DATE_TIME from Stanza's supervised NER models (English, Swedish, German and many more languages; managed code, deterministic), and StanzaTokenNormalizer gives TasmanianD…"
+2026-10-31T21:07:35.043Z,BrutalSystems.Atlas,0.2.10-dbg,BrutalSystems,"Atlas application framework: data access, multi-tenancy and API plumbing for BrutalSystems services."
+2026-10-31T21:12:59.983Z,BrutalSystems.Atlas.Email,0.2.10-dbg,BrutalSystems,Email delivery for Atlas apps (SMTP via MailKit).
