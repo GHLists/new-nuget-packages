@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-31T14:25:41.247Z,VisionAnnotation,1.0.0,VisionFlow,视觉标注显示库：检测框/引线文字自动避让布局（LabelLayout）、繁忙度栅格（BusyMap）、 离屏渲染（VisionRenderer）、交互控件（VisionViewer）、箭头/尺寸线标注（Annotation）。 数据契约：数值是数值（Value）、名称是名称（Name），显示文本由渲染层组合，名称可本地化。
+2026-10-31T14:35:54.773Z,Bazicalculator.UrlTools,0.1.0,wangneo276-lgtm,"Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luck Pillars with true solar time. Plus Zi Wei Dou Shu, Liu Yao, Mei Hua, Qi Men and the Chinese Almanac."
+2026-10-31T14:52:17Z,JYPPX.ROCm.MIGraphX.CSharp.API,0.0.1,Guojin Yan,Managed bindings and resource wrappers for the AMD MIGraphX C API. Native MIGraphX and ROCm are installed separately.
+2026-10-31T14:52:18.13Z,JYPPX.ROCm.MIGraphX.CSharp.API.HIP.Interop,0.0.1,Guojin Yan,Optional resource-safe native async adapter between the MIGraphX and HIP managed cores. Contains no native runtime binaries.
+2026-10-31T14:55:08.283Z,AgentSessions,0.1.0,James Burton,"List, resume, clean up, label and transfer coding-agent sessions across Claude, Codex and Copilot."

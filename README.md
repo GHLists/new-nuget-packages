@@ -12,31 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 14:20 UTC
+## Latest list — 2026-10-31 15:20 UTC
 
-New packages created between 2026-10-31 13:20 UTC and 2026-10-31 14:20 UTC.
+New packages created between 2026-10-31 14:20 UTC and 2026-10-31 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T14-20-13-740257Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T15-20-49-260646Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 13:20:23 | [Soenneker.TypesafeAi.OpenApiClient](https://www.nuget.org/packages/Soenneker.TypesafeAi.OpenApiClient) | 11.0.1 | Jake Soenneker | A generated OpenAPI client for TypeSafe AI. |
-| 2026-10-31 13:20:31 | [Divisionz.Scaffold.SQLScriptExecutor.SQLite](https://www.nuget.org/packages/Divisionz.Scaffold.SQLScriptExecutor.SQLite) | 1.0.0-rc858 | Isaychev Konstantin Mikhailov… | Исполнитель SQL-скриптов sql-exec для SQLite: SQLiteExecutor, фабрики ISQLExecu… |
-| 2026-10-31 13:32:38 | [dotnet-inngest](https://www.nuget.org/packages/dotnet-inngest) | 1.0.0 | inngest-dotnet contributors | The dotnet inngest command for the Inngest .NET SDK: dotnet inngest dev downloa… |
-| 2026-10-31 13:39:27 | [Kandra.Plugins.UA.Rates.Nbu](https://www.nuget.org/packages/Kandra.Plugins.UA.Rates.Nbu) | 0.1.2 | Kandra Tech | Official exchange rates of the National Bank of Ukraine (NBU): a typed HttpClie… |
-| 2026-10-31 13:48:51 | [Gue.Audio](https://www.nuget.org/packages/Gue.Audio) | 0.1.0-alpha | GUE contributors | Audio mixer and sample playback for the GUE interpreters. |
-| 2026-10-31 13:48:52 | [Gue.Core](https://www.nuget.org/packages/Gue.Core) | 0.1.0-alpha | GUE contributors | Host contract and shared primitives for the GUE interpreters. |
-| 2026-10-31 13:48:53 | [Gue.Host.Sdl](https://www.nuget.org/packages/Gue.Host.Sdl) | 0.1.0-alpha | GUE contributors | SDL3 host for the GUE interpreters: window, input and audio. |
-| 2026-10-31 13:48:54 | [Gue.Made](https://www.nuget.org/packages/Gue.Made) | 0.1.0-alpha | GUE contributors | The MADE interpreter for Return to Zork, ported from ScummVM. |
-| 2026-10-31 13:48:57 | [Gue.Player](https://www.nuget.org/packages/Gue.Player) | 0.1.0-alpha | GUE contributors | Command line player for Return to Zork, Zork Nemesis, Zork: Grand Inquisitor an… |
-| 2026-10-31 13:48:58 | [Gue.ZMachine](https://www.nuget.org/packages/Gue.ZMachine) | 0.1.0-alpha | GUE contributors | The Z-Machine engine for Infocom's text games: a C# interpreter for story files… |
-| 2026-10-31 13:48:59 | [Gue.ZVision](https://www.nuget.org/packages/Gue.ZVision) | 0.1.0-alpha | GUE contributors | The Z-Vision engine for Zork Nemesis and Zork: Grand Inquisitor, ported from Sc… |
-| 2026-10-31 13:49:05 | [Sandlada.RopSharp](https://www.nuget.org/packages/Sandlada.RopSharp) | 0.0.1 | Sandlada | Production-grade railway-oriented programming (ROP) for modern C#: Result<TOk,T… |
-| 2026-10-31 13:53:00 | [Element-Plus](https://www.nuget.org/packages/Element-Plus) | 0.12.0 | Smart | Element-Plus is an independent Blazor UI component library aligned with the Ele… |
-| 2026-10-31 13:53:01 | [Element-Plus.Markdown](https://www.nuget.org/packages/Element-Plus.Markdown) | 0.12.0 | Smart | Markdown editor components for Element-Plus, aligned with the Element Plus 2.14… |
-| 2026-10-31 13:53:01 | [Element-Plus.X](https://www.nuget.org/packages/Element-Plus.X) | 0.12.0 | Smart | AI and conversation scene components for Element-Plus, inspired by Element Plus… |
-| 2026-10-31 14:13:45 | [YandexTracker](https://www.nuget.org/packages/YandexTracker) | 0.1.0 | FrigaT | Unofficial asynchronous .NET client for the Yandex Tracker API (.NET 8/9/10): i… |
-| 2026-10-31 14:14:12 | [Darp.Fairino.Testing](https://www.nuget.org/packages/Darp.Fairino.Testing) | 0.8.0 | rosslight GmbH | An in-memory fake of a Fairino robot controller for testing code written agains… |
+| 2026-10-31 14:25:41 | [VisionAnnotation](https://www.nuget.org/packages/VisionAnnotation) | 1.0.0 | VisionFlow | 视觉标注显示库：检测框/引线文字自动避让布局（LabelLayout）、繁忙度栅格（BusyMap）、 离屏渲染（VisionRenderer）、交互控件（V… |
+| 2026-10-31 14:35:54 | [Bazicalculator.UrlTools](https://www.nuget.org/packages/Bazicalculator.UrlTools) | 0.1.0 | wangneo276-lgtm | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
+| 2026-10-31 14:52:17 | [JYPPX.ROCm.MIGraphX.CSharp.API](https://www.nuget.org/packages/JYPPX.ROCm.MIGraphX.CSharp.API) | 0.0.1 | Guojin Yan | Managed bindings and resource wrappers for the AMD MIGraphX C API. Native MIGra… |
+| 2026-10-31 14:52:18 | [JYPPX.ROCm.MIGraphX.CSharp.API.HIP.Interop](https://www.nuget.org/packages/JYPPX.ROCm.MIGraphX.CSharp.API.HIP.Interop) | 0.0.1 | Guojin Yan | Optional resource-safe native async adapter between the MIGraphX and HIP manage… |
+| 2026-10-31 14:55:08 | [AgentSessions](https://www.nuget.org/packages/AgentSessions) | 0.1.0 | James Burton | List, resume, clean up, label and transfer coding-agent sessions across Claude,… |
 
 ## Data source
 
