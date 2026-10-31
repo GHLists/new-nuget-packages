@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-31T04:36:32.35Z,Corely.IAM.Testing,1.0.0,Corely.IAM.Testing,"Test only checks for apps on Corely.IAM: fail when a service method has no cross account attack or reasoned exemption, and report attacks that were not refused."
+2026-10-31T04:40:03.817Z,MASS4.StableIdentity,1.0.0,Bruno Massa,"Opaque stable identities, rename maps and identity registries shared by the MASS4 engine, graphs and data assets."
+2026-10-31T04:42:59.237Z,codingpad,0.0.1,Joseph Izang,"Placeholder for the CodingPad runtime library (dump, cache, secret, db). Not functional yet."
+2026-10-31T04:42:59.94Z,cpad,0.0.1,Joseph Izang,"Placeholder for cpad, the CodingPad command-line runner. Not functional yet."
+2026-10-31T04:44:16.863Z,RvtIO,0.1.0,mahach666,"Reads Autodesk Revit projects and families (.rvt, .rfa) without Revit or the Revit API and exports IFC and JSON."
+2026-10-31T04:44:18.09Z,RvtIO.Cli,0.1.0,mahach666,"Command line tool that reads Autodesk Revit files (.rvt, .rfa) without Revit and writes IFC or JSON."
+2026-10-31T05:09:09.487Z,Praxo.Core,0.1.2,AxisVela,"Embeddable MIT-licensed agent framework for .NET: tools, policy, events, memory, middleware, and an agent loop"

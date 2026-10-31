@@ -12,31 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:20 UTC
+## Latest list — 2026-10-31 05:19 UTC
 
-New packages created between 2026-10-31 03:20 UTC and 2026-10-31 04:20 UTC.
+New packages created between 2026-10-31 04:20 UTC and 2026-10-31 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T04-20-13-436136Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T05-19-36-844504Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 03:27:50 | [Outer.APM](https://www.nuget.org/packages/Outer.APM) | 10.0.0 | OuterWolf | Zero-config OpenTelemetry (traces, metrics, logs) wiring for ASP.NET Core .NET… |
-| 2026-10-31 03:50:15 | [Messaia.Net.Base.Mail.Api](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Api) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:17 | [Messaia.Net.Base.Mail.Contracts](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Contracts) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:19 | [Messaia.Net.Base.Mail.DataAccess](https://www.nuget.org/packages/Messaia.Net.Base.Mail.DataAccess) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:22 | [Messaia.Net.Base.Mail.Enums](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Enums) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:24 | [Messaia.Net.Base.Mail.Mapping](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Mapping) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:26 | [Messaia.Net.Base.Mail.Models](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Models) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:28 | [Messaia.Net.Base.Mail.Repositories](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Repositories) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:30 | [Messaia.Net.Base.Mail.Repositories.Impl](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Repositories.Impl) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:32 | [Messaia.Net.Base.Mail.Services](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Services) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:34 | [Messaia.Net.Base.Mail.Services.Impl](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Services.Impl) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:37 | [Messaia.Net.Base.Mail.ViewModels](https://www.nuget.org/packages/Messaia.Net.Base.Mail.ViewModels) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:50:39 | [Messaia.Net.Base.Mail.Workers](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Workers) | 10.2.0-beta06 | Fouad Messaia | Package Description |
-| 2026-10-31 03:59:56 | [Thunder.Dbf.Sql](https://www.nuget.org/packages/Thunder.Dbf.Sql) | 0.1.0 | ProjectThunder | Migrate dBASE and FoxPro tables to SQLite, SQL Server or PostgreSQL, and keep t… |
-| 2026-10-31 03:59:56 | [Thunder.Dbf](https://www.nuget.org/packages/Thunder.Dbf) | 0.1.0 | ProjectThunder | Pure .NET engine for dBASE, FoxPro and Clipper files: tables, memos and indexes… |
-| 2026-10-31 03:59:57 | [thunder-dbf](https://www.nuget.org/packages/thunder-dbf) | 0.1.0 | ProjectThunder | thunder-dbf: check, inspect, import, export and migrate dBASE and FoxPro data f… |
-| 2026-10-31 04:01:05 | [Moka.AI.Mcp](https://www.nuget.org/packages/Moka.AI.Mcp) | 0.5.0 | jacobwi, BCat, Moka | Model Context Protocol (MCP) client integration for Moka.AI — connect MCP serve… |
+| 2026-10-31 04:36:32 | [Corely.IAM.Testing](https://www.nuget.org/packages/Corely.IAM.Testing) | 1.0.0 | Corely.IAM.Testing | Test only checks for apps on Corely.IAM: fail when a service method has no cros… |
+| 2026-10-31 04:40:03 | [MASS4.StableIdentity](https://www.nuget.org/packages/MASS4.StableIdentity) | 1.0.0 | Bruno Massa | Opaque stable identities, rename maps and identity registries shared by the MAS… |
+| 2026-10-31 04:42:59 | [codingpad](https://www.nuget.org/packages/codingpad) | 0.0.1 | Joseph Izang | Placeholder for the CodingPad runtime library (dump, cache, secret, db). Not fu… |
+| 2026-10-31 04:42:59 | [cpad](https://www.nuget.org/packages/cpad) | 0.0.1 | Joseph Izang | Placeholder for cpad, the CodingPad command-line runner. Not functional yet. |
+| 2026-10-31 04:44:16 | [RvtIO](https://www.nuget.org/packages/RvtIO) | 0.1.0 | mahach666 | Reads Autodesk Revit projects and families (.rvt, .rfa) without Revit or the Re… |
+| 2026-10-31 04:44:18 | [RvtIO.Cli](https://www.nuget.org/packages/RvtIO.Cli) | 0.1.0 | mahach666 | Command line tool that reads Autodesk Revit files (.rvt, .rfa) without Revit an… |
+| 2026-10-31 05:09:09 | [Praxo.Core](https://www.nuget.org/packages/Praxo.Core) | 0.1.2 | AxisVela | Embeddable MIT-licensed agent framework for .NET: tools, policy, events, memory… |
 
 ## Data source
 
