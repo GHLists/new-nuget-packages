@@ -12,21 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 05:19 UTC
+## Latest list — 2026-10-31 06:19 UTC
 
-New packages created between 2026-10-31 04:20 UTC and 2026-10-31 05:19 UTC.
+New packages created between 2026-10-31 05:19 UTC and 2026-10-31 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T05-19-36-844504Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T06-19-00-922883Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 04:36:32 | [Corely.IAM.Testing](https://www.nuget.org/packages/Corely.IAM.Testing) | 1.0.0 | Corely.IAM.Testing | Test only checks for apps on Corely.IAM: fail when a service method has no cros… |
-| 2026-10-31 04:40:03 | [MASS4.StableIdentity](https://www.nuget.org/packages/MASS4.StableIdentity) | 1.0.0 | Bruno Massa | Opaque stable identities, rename maps and identity registries shared by the MAS… |
-| 2026-10-31 04:42:59 | [codingpad](https://www.nuget.org/packages/codingpad) | 0.0.1 | Joseph Izang | Placeholder for the CodingPad runtime library (dump, cache, secret, db). Not fu… |
-| 2026-10-31 04:42:59 | [cpad](https://www.nuget.org/packages/cpad) | 0.0.1 | Joseph Izang | Placeholder for cpad, the CodingPad command-line runner. Not functional yet. |
-| 2026-10-31 04:44:16 | [RvtIO](https://www.nuget.org/packages/RvtIO) | 0.1.0 | mahach666 | Reads Autodesk Revit projects and families (.rvt, .rfa) without Revit or the Re… |
-| 2026-10-31 04:44:18 | [RvtIO.Cli](https://www.nuget.org/packages/RvtIO.Cli) | 0.1.0 | mahach666 | Command line tool that reads Autodesk Revit files (.rvt, .rfa) without Revit an… |
-| 2026-10-31 05:09:09 | [Praxo.Core](https://www.nuget.org/packages/Praxo.Core) | 0.1.2 | AxisVela | Embeddable MIT-licensed agent framework for .NET: tools, policy, events, memory… |
+| 2026-10-31 05:40:37 | [RecursiveAI.OneOcr.Models](https://www.nuget.org/packages/RecursiveAI.OneOcr.Models) | 1.0.0 | Recursive AI, LLC | Model weights for RecursiveAI.OneOcr. The recognizer, the page detector and the… |
+| 2026-10-31 05:40:38 | [RecursiveAI.OneOcr](https://www.nuget.org/packages/RecursiveAI.OneOcr) | 1.0.0 | Recursive AI, LLC | Local, deterministic OCR for .NET with no dependencies beyond the base class li… |
+| 2026-10-31 05:40:39 | [RecursiveAI.OneOcr.Models.Documents](https://www.nuget.org/packages/RecursiveAI.OneOcr.Models.Documents) | 1.0.0 | Recursive AI, LLC | Document extraction weights for RecursiveAI.OneOcr: invoice, receipt and key-va… |
+| 2026-10-31 05:40:40 | [RecursiveAI.OneOcr.Llm](https://www.nuget.org/packages/RecursiveAI.OneOcr.Llm) | 1.0.0 | Recursive AI, LLC | Opt-in language-model vision for RecursiveAI.OneOcr: Anthropic, OpenAI, OpenAI-… |
+| 2026-10-31 05:40:41 | [RecursiveAI.OneOcr.Training](https://www.nuget.org/packages/RecursiveAI.OneOcr.Training) | 1.0.0 | Recursive AI, LLC | Fine-tuning for RecursiveAI.OneOcr recognition models from your own documents:… |
+| 2026-10-31 05:40:42 | [RecursiveAI.OneOcr.Pdf](https://www.nuget.org/packages/RecursiveAI.OneOcr.Pdf) | 1.0.0 | Recursive AI, LLC | PDF bridge for RecursiveAI.OneOcr: text-layer words where a page has them, loca… |
+| 2026-10-31 05:40:44 | [RecursiveAI.OneOcr.Tool](https://www.nuget.org/packages/RecursiveAI.OneOcr.Tool) | 1.0.0 | Recursive AI, LLC | The oneocr command-line tool: fine-tune a recognition model from your own docum… |
+| 2026-10-31 05:52:05 | [FS.GG.Execution.Contracts](https://www.nuget.org/packages/FS.GG.Execution.Contracts) | 0.3.1 | FS-GG | Portable bounded process requests, monotonic budgets, retained session contract… |
+| 2026-10-31 05:55:55 | [Superroute.SWidget](https://www.nuget.org/packages/Superroute.SWidget) | 0.2.0 | Goodneo Solutions | sWidget for .NET: widgets configured in the Superroute back office, loaded by t… |
+| 2026-10-31 05:55:55 | [Superroute.SWidget.WinForms](https://www.nuget.org/packages/Superroute.SWidget.WinForms) | 0.2.0 | Goodneo Solutions | sWidget for Windows Forms: SwidgetControl, the widget configured in the Superro… |
+| 2026-10-31 05:55:56 | [Superroute.SWidget.Wpf](https://www.nuget.org/packages/Superroute.SWidget.Wpf) | 0.2.0 | Goodneo Solutions | sWidget for WPF: SwidgetControl, the widget configured in the Superroute back o… |
+| 2026-10-31 05:56:47 | [FS.GG.Execution.Processes](https://www.nuget.org/packages/FS.GG.Execution.Processes) | 0.3.1 | FS-GG | Caller-retained BCL process sessions with bounded observation and explicit best… |
 
 ## Data source
 
