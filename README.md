@@ -12,21 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 21:19 UTC
+## Latest list — 2026-10-31 22:18 UTC
 
-New packages created between 2026-10-31 20:18 UTC and 2026-10-31 21:19 UTC.
+New packages created between 2026-10-31 21:19 UTC and 2026-10-31 22:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T21-19-54-732875Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T22-18-40-286795Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 20:37:50 | [AIContext](https://www.nuget.org/packages/AIContext) | 0.1.0 | aicontext.dev | Open format standard for AI coding assistant project context. Specification and… |
-| 2026-10-31 20:38:09 | [AIContext.CLI](https://www.nuget.org/packages/AIContext.CLI) | 0.1.0 | aicontext.dev | CLI tool for the AIContext open format standard. Coming soon. |
-| 2026-10-31 20:38:26 | [AIContext.Spec](https://www.nuget.org/packages/AIContext.Spec) | 0.1.0 | aicontext.dev | Specification types and JSON schema for the AIContext open format standard. Com… |
-| 2026-10-31 20:49:21 | [AmgadWriteSignature](https://www.nuget.org/packages/AmgadWriteSignature) | 1.0.0 | Amgad Edward | A reusable electronic signature component for Blazor, designed and developed by… |
-| 2026-10-31 21:02:33 | [StanzaSharp.TasmanianDevil](https://www.nuget.org/packages/StanzaSharp.TasmanianDevil) | 1.15.0 | Jakob Boman | StanzaSharp for TasmanianDevil (PII detection and de-identification): StanzaNer… |
-| 2026-10-31 21:07:35 | [BrutalSystems.Atlas](https://www.nuget.org/packages/BrutalSystems.Atlas) | 0.2.10-dbg | BrutalSystems | Atlas application framework: data access, multi-tenancy and API plumbing for Br… |
-| 2026-10-31 21:12:59 | [BrutalSystems.Atlas.Email](https://www.nuget.org/packages/BrutalSystems.Atlas.Email) | 0.2.10-dbg | BrutalSystems | Email delivery for Atlas apps (SMTP via MailKit). |
+| 2026-10-31 21:24:22 | [MediaPipeTasksAudio.iOS](https://www.nuget.org/packages/MediaPipeTasksAudio.iOS) | 1.0.0 | Howard Good | .NET iOS bindings for MediaPipe Tasks Audio Library. |
+| 2026-10-31 21:26:01 | [Zephyrus.Logging](https://www.nuget.org/packages/Zephyrus.Logging) | 1.0.2 | Amey Sunu | Send logs to Zephyrus |
+| 2026-10-31 21:58:19 | [Papuma.Kernel.Core](https://www.nuget.org/packages/Papuma.Kernel.Core) | 3.0.0 | Harald Lapp | The storage-neutral core shared by Papuma.Kernel (PostgreSQL) and Papuma.Kernel… |
+| 2026-10-31 22:08:21 | [GM.FileStorage.Domain](https://www.nuget.org/packages/GM.FileStorage.Domain) | 1.2.0 | Giorgi Metskhvarishvili | Domain model for the GM.FileStorage catalog: the StoredFile aggregate (key, nam… |
+| 2026-10-31 22:08:22 | [GM.FileStorage.Persistence](https://www.nuget.org/packages/GM.FileStorage.Persistence) | 1.2.0 | Giorgi Metskhvarishvili | EF Core persistence for GM.FileStorage — entity type configurations mapping the… |
+| 2026-10-31 22:12:45 | [SoftwareExtravaganza.Whizbang.Archive.AzureBlob](https://www.nuget.org/packages/SoftwareExtravaganza.Whizbang.Archive.AzureBlob) | 0.2626.0 | Phil Carbone | Azure Blob Storage IArchiveStore for Whizbang: archived event streams leave the… |
 
 ## Data source
 

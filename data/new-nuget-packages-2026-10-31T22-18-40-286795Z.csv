@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-31T21:24:22.75Z,MediaPipeTasksAudio.iOS,1.0.0,Howard Good,.NET iOS bindings for MediaPipe Tasks Audio Library.
+2026-10-31T21:26:01.05Z,Zephyrus.Logging,1.0.2,Amey Sunu,Send logs to Zephyrus
+2026-10-31T21:58:19.83Z,Papuma.Kernel.Core,3.0.0,Harald Lapp,"The storage-neutral core shared by Papuma.Kernel (PostgreSQL) and Papuma.Kernel.Local (SQLite) — diff engine, privacy policies, model and validation, feed contracts. It comes with the kernel packages; install Papuma.Kernel or Papuma.Kernel.Local, not this package on its own."
+2026-10-31T22:08:21.95Z,GM.FileStorage.Domain,1.2.0,Giorgi Metskhvarishvili,"Domain model for the GM.FileStorage catalog: the StoredFile aggregate (key, name, content type, size, checksum, metadata) with soft delete and domain events for uploads, replacements and deletes. Part of the GM.FileStorage family."
+2026-10-31T22:08:22.733Z,GM.FileStorage.Persistence,1.2.0,Giorgi Metskhvarishvili,EF Core persistence for GM.FileStorage — entity type configurations mapping the stored-file domain (files and their searchable metadata) to gm_file_storage tables. Part of the GM.FileStorage family.
+2026-10-31T22:12:45.967Z,SoftwareExtravaganza.Whizbang.Archive.AzureBlob,0.2626.0,Phil Carbone,"Azure Blob Storage IArchiveStore for Whizbang: archived event streams leave the database as Brotli-compressed chunks, with a manifest in the service's Postgres database. Supports Azurite and live Azure Blob Storage."
