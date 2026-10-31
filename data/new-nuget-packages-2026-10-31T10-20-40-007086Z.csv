@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-10-31T09:26:02.15Z,FlowOrchestrator.OpenTelemetry,1.34.1,FlowOrchestrator Contributors,"One-call OpenTelemetry wiring for FlowOrchestrator: traces, metrics and logs (with RunId / FlowId / FlowName / StepKey / StepType scope attributes) exported over OTLP. builder.AddFlowOrchestratorOpenTelemetry()."
+2026-10-31T09:29:19.38Z,DubUrl.Provider.DuckDb.Native,0.54.0,Cédric L. Charlier,Native DuckDB encrypted connection initialization for DubUrl.
+2026-10-31T09:30:00.297Z,Rulealize.RuleSet.Calculator,1.0.0,Reny,"A scientific calculator: brackets, powers, sin, cos and tan in degrees or radians, logarithms, and the keys laid out as one. A Rulealize rule set."
+2026-10-31T09:30:13.283Z,Mnemosyne.NET.Sentinel,0.5.0,Marcel Roozekrans,A capture guard that runs AI.Sentinel's detectors before a Reasonlet is stored.
+2026-10-31T09:33:10.923Z,Promptuarium.Serializer,8.1.0,Fuszenecker Róbert,"A general serializer between .NET objects and Promptuarium trees in the PRMT:CFG1-LE layout: typed holders, byte[] as BLOB, no JSON in between; layering (Populate), records, attributes."
+2026-10-31T09:34:00.19Z,Cratis.Showrunner.Marquee.Contracts,1.3.0,Cratis,The event contracts for Marquee — the Showrunner announcements part: the public events a product receives announcements through.
+2026-10-31T09:35:53.863Z,Cratis.Showrunner.BoxOffice.Catalog,1.3.0,Cratis,"The Box Office catalog — the offers a managed product sells (seat plans, modules, compute packs), their prices and the pricing arithmetic, built on Cratis Arc and Chronicle."
+2026-10-31T09:52:10.51Z,NETQBOT.Contracts,1.0.0,HUI,一个基于C#构建的QQ机器人框架，可以使用WebSocket和WebHook进行连接
+2026-10-31T09:53:03.67Z,VietQR.Deeplink.Client,1.0.1,Hien Dev,"Thư viện client C# (.NET) kết nối dịch vụ VietQR Deeplink để lấy link mở ứng dụng ngân hàng khi thanh toán, hỗ trợ Dependency Injection trong ASP.NET Core."
+2026-10-31T09:53:16.593Z,EssaLab.Zid,1.0.0,Reda Essa,"Enterprise-Grade Distributed ID Generator (High-Performance, Zero-Allocation, Time-sortable)."
+2026-10-31T09:54:10.16Z,EssaLab.Zid.EntityFramework,1.0.0,Reda Essa,Entity Framework Core value converters and conventions for EssaLab.Zid.
+2026-10-31T09:54:36.493Z,EssaLab.Zid.Extensions.DependencyInjection,1.0.0,Reda Essa,Dependency Injection extensions for EssaLab.Zid ID generator.
+2026-10-31T10:01:42.317Z,BlindVault.SDK.Generated,0.1.0,BlindVault,Generated BlindVault REST API client
+2026-10-31T10:01:43.333Z,BlindVault.SDK,0.1.0,BlindVault,"BlindVault local encryption, RSA key sharing and encrypted Library API operations"
