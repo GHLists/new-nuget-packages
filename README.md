@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 00:20 UTC
+## Latest list — 2026-10-31 01:19 UTC
 
-New packages created between 2026-10-30 23:20 UTC and 2026-10-31 00:20 UTC.
+New packages created between 2026-10-31 00:20 UTC and 2026-10-31 01:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T00-20-53-10515Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T01-19-44-782204Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-30 23:43:31 | [Bit.BlazorUI.AI](https://www.nuget.org/packages/Bit.BlazorUI.AI) | 11.0.0-pre-15 | bit platform | Bit.BlazorUI.AI |
-| 2026-10-30 23:43:32 | [Bit.BbScanner.Maui](https://www.nuget.org/packages/Bit.BbScanner.Maui) | 11.0.0-pre-15 | bit platform | Bit.BbScanner.Maui |
-| 2026-10-30 23:43:33 | [Bit.Bheadless.Testing](https://www.nuget.org/packages/Bit.Bheadless.Testing) | 11.0.0-pre-15 | bit platform | Accessibility test tooling for Razor components, built on bUnit: a WAI-ARIA rul… |
-| 2026-10-31 00:03:27 | [CascadiaUI](https://www.nuget.org/packages/CascadiaUI) | 0.1.0 | Simone Bortolin | A Fluent × macOS theme for Avalonia 12: neutral light/dark palettes, a customis… |
-| 2026-10-31 00:13:55 | [Superroute.SLocker.Customer](https://www.nuget.org/packages/Superroute.SLocker.Customer) | 0.2.0 | Superroute | sLocker for customers: locker pickups, locker locations, locker storage, the lo… |
-| 2026-10-31 00:13:55 | [Superroute.SLocker.UI](https://www.nuget.org/packages/Superroute.SLocker.UI) | 0.2.0 | Superroute | sLocker UI kit for .NET: the pickup list and the locker map as view models on t… |
-| 2026-10-31 00:13:56 | [Superroute.SLocker.WinForms](https://www.nuget.org/packages/Superroute.SLocker.WinForms) | 0.2.0 | Superroute | sLocker UI kit for Windows Forms: the PickupList and LockerMap controls, drawn… |
-| 2026-10-31 00:13:56 | [Superroute.SLocker.Wpf](https://www.nuget.org/packages/Superroute.SLocker.Wpf) | 0.2.0 | Superroute | sLocker UI kit for WPF: the PickupList and LockerMap controls, drawn by the sAp… |
+| 2026-10-31 00:30:06 | [Raven.Gui](https://www.nuget.org/packages/Raven.Gui) | 0.2.0 | Oscar Soirey | C# bindings for Raven, a lightweight, multithreaded GUI library in C for editor… |
+| 2026-10-31 00:36:06 | [Kokoabim.OnionHttpClient](https://www.nuget.org/packages/Kokoabim.OnionHttpClient) | 0.1.1 | Spencer James | Onion HTTP client library for .NET |
+| 2026-10-31 00:38:33 | [Shiny.Controls.Gauge.Shared](https://www.nuget.org/packages/Shiny.Controls.Gauge.Shared) | 2.3.0-beta-0001 | Allan Ritchie | Host-neutral engine behind the Shiny gauge controls — value-to-angle scale mapp… |
 
 ## Data source
 

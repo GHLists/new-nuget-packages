@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-31T00:30:06.153Z,Raven.Gui,0.2.0,Oscar Soirey,"C# bindings for Raven, a lightweight, multithreaded GUI library in C for editors and tools. The native library is included for Windows x64, Linux x64 and macOS (arm64 and x64)."
+2026-10-31T00:36:06.45Z,Kokoabim.OnionHttpClient,0.1.1,Spencer James,Onion HTTP client library for .NET
+2026-10-31T00:38:33.83Z,Shiny.Controls.Gauge.Shared,2.3.0-beta-0001,Allan Ritchie,"Host-neutral engine behind the Shiny gauge controls — value-to-angle scale mapping for any start angle and sweep, nice-number tick generation, a fit-to-box layout that sizes semicircle and three-quarter dials to the space they are given, and the spring/ease needle physics (momentum carried through…"
