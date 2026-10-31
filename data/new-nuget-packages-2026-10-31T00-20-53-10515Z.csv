@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-10-30T23:43:31.137Z,Bit.BlazorUI.AI,11.0.0-pre-15,bit platform,Bit.BlazorUI.AI
+2026-10-30T23:43:32.773Z,Bit.BbScanner.Maui,11.0.0-pre-15,bit platform,Bit.BbScanner.Maui
+2026-10-30T23:43:33.9Z,Bit.Bheadless.Testing,11.0.0-pre-15,bit platform,"Accessibility test tooling for Razor components, built on bUnit: a WAI-ARIA rule engine (roles, states, ID references, required owned elements and context, accessible names, focusable content in hidden subtrees, nested interactive controls ...), accessible-name and focus-order inspection, keyboard…"
+2026-10-31T00:03:27.51Z,CascadiaUI,0.1.0,Simone Bortolin,"A Fluent × macOS theme for Avalonia 12: neutral light/dark palettes, a customisable accent, Windows Terminal / SourceGit-style tabs that live in the title bar, plus BusyArea, ProgressRing and toast notifications."
+2026-10-31T00:13:55.083Z,Superroute.SLocker.Customer,0.2.0,Superroute,"sLocker for customers: locker pickups, locker locations, locker storage, the locker shop and locker resale, on the sApp core (Superroute.SApp)."
+2026-10-31T00:13:55.62Z,Superroute.SLocker.UI,0.2.0,Superroute,"sLocker UI kit for .NET: the pickup list and the locker map as view models on the sApp UI kit (Superroute.SApp.UI), shared by the WPF and WinForms kits."
+2026-10-31T00:13:56.203Z,Superroute.SLocker.WinForms,0.2.0,Superroute,"sLocker UI kit for Windows Forms: the PickupList and LockerMap controls, drawn by the sApp Windows Forms kit (Superroute.SApp.WinForms) from the view models of Superroute.SLocker.UI."
+2026-10-31T00:13:56.813Z,Superroute.SLocker.Wpf,0.2.0,Superroute,"sLocker UI kit for WPF: the PickupList and LockerMap controls, drawn by the sApp WPF kit (Superroute.SApp.Wpf) from the view models of Superroute.SLocker.UI."
