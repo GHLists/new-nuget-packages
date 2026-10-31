@@ -12,20 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 03:20 UTC
+## Latest list — 2026-10-31 04:20 UTC
 
-New packages created between 2026-10-31 02:20 UTC and 2026-10-31 03:20 UTC.
+New packages created between 2026-10-31 03:20 UTC and 2026-10-31 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T03-20-53-025008Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T04-20-13-436136Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 02:28:30 | [UniversalOffice.Converter](https://www.nuget.org/packages/UniversalOffice.Converter) | 0.9.2 | Eric Kono | Convert DOCX, XLSX, PPTX and PDF files to HTML, PDF or Markdown in .NET, withou… |
-| 2026-10-31 02:37:31 | [Moka.AI](https://www.nuget.org/packages/Moka.AI) | 0.3.0 | jacobwi, BCat, Moka | Provider-agnostic AI chat services with streaming, context builders, and plugga… |
-| 2026-10-31 02:37:31 | [Moka.AI.Onnx](https://www.nuget.org/packages/Moka.AI.Onnx) | 0.3.0 | jacobwi, BCat, Moka | ONNX Runtime GenAI provider for Moka.AI — run AI models fully in-process with n… |
-| 2026-10-31 03:01:11 | [Toskar](https://www.nuget.org/packages/Toskar) | 0.4.0 | Yeix.io | The official .NET SDK for Toskar: local AI across your own computers. |
-| 2026-10-31 03:10:24 | [TochiRes.Errors](https://www.nuget.org/packages/TochiRes.Errors) | 0.1.11 | T0chi | Shared typed errors and stable error codes used in official tochiResources proe… |
-| 2026-10-31 03:13:32 | [Fomoxa.Net.WebSockets](https://www.nuget.org/packages/Fomoxa.Net.WebSockets) | 0.1.0 | Fomoxa Protocol | WebSocket transport and listener for Fomoxa.Net: RFC 6455 on a non-blocking byt… |
+| 2026-10-31 03:27:50 | [Outer.APM](https://www.nuget.org/packages/Outer.APM) | 10.0.0 | OuterWolf | Zero-config OpenTelemetry (traces, metrics, logs) wiring for ASP.NET Core .NET… |
+| 2026-10-31 03:50:15 | [Messaia.Net.Base.Mail.Api](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Api) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:17 | [Messaia.Net.Base.Mail.Contracts](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Contracts) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:19 | [Messaia.Net.Base.Mail.DataAccess](https://www.nuget.org/packages/Messaia.Net.Base.Mail.DataAccess) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:22 | [Messaia.Net.Base.Mail.Enums](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Enums) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:24 | [Messaia.Net.Base.Mail.Mapping](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Mapping) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:26 | [Messaia.Net.Base.Mail.Models](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Models) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:28 | [Messaia.Net.Base.Mail.Repositories](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Repositories) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:30 | [Messaia.Net.Base.Mail.Repositories.Impl](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Repositories.Impl) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:32 | [Messaia.Net.Base.Mail.Services](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Services) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:34 | [Messaia.Net.Base.Mail.Services.Impl](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Services.Impl) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:37 | [Messaia.Net.Base.Mail.ViewModels](https://www.nuget.org/packages/Messaia.Net.Base.Mail.ViewModels) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:50:39 | [Messaia.Net.Base.Mail.Workers](https://www.nuget.org/packages/Messaia.Net.Base.Mail.Workers) | 10.2.0-beta06 | Fouad Messaia | Package Description |
+| 2026-10-31 03:59:56 | [Thunder.Dbf.Sql](https://www.nuget.org/packages/Thunder.Dbf.Sql) | 0.1.0 | ProjectThunder | Migrate dBASE and FoxPro tables to SQLite, SQL Server or PostgreSQL, and keep t… |
+| 2026-10-31 03:59:56 | [Thunder.Dbf](https://www.nuget.org/packages/Thunder.Dbf) | 0.1.0 | ProjectThunder | Pure .NET engine for dBASE, FoxPro and Clipper files: tables, memos and indexes… |
+| 2026-10-31 03:59:57 | [thunder-dbf](https://www.nuget.org/packages/thunder-dbf) | 0.1.0 | ProjectThunder | thunder-dbf: check, inspect, import, export and migrate dBASE and FoxPro data f… |
+| 2026-10-31 04:01:05 | [Moka.AI.Mcp](https://www.nuget.org/packages/Moka.AI.Mcp) | 0.5.0 | jacobwi, BCat, Moka | Model Context Protocol (MCP) client integration for Moka.AI — connect MCP serve… |
 
 ## Data source
 

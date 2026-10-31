@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-10-31T03:27:50.247Z,Outer.APM,10.0.0,OuterWolf,"Zero-config OpenTelemetry (traces, metrics, logs) wiring for ASP.NET Core .NET 10+ applications. Exports to any OTLP-compatible back-end with a single AddOuterApm() call."
+2026-10-31T03:50:15.66Z,Messaia.Net.Base.Mail.Api,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:17.847Z,Messaia.Net.Base.Mail.Contracts,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:19.92Z,Messaia.Net.Base.Mail.DataAccess,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:22.03Z,Messaia.Net.Base.Mail.Enums,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:24.12Z,Messaia.Net.Base.Mail.Mapping,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:26.19Z,Messaia.Net.Base.Mail.Models,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:28.263Z,Messaia.Net.Base.Mail.Repositories,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:30.527Z,Messaia.Net.Base.Mail.Repositories.Impl,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:32.627Z,Messaia.Net.Base.Mail.Services,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:34.82Z,Messaia.Net.Base.Mail.Services.Impl,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:37.097Z,Messaia.Net.Base.Mail.ViewModels,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:50:39.167Z,Messaia.Net.Base.Mail.Workers,10.2.0-beta06,Fouad Messaia,Package Description
+2026-10-31T03:59:56.13Z,Thunder.Dbf.Sql,0.1.0,ProjectThunder,"Migrate dBASE and FoxPro tables to SQLite, SQL Server or PostgreSQL, and keep them in sync both ways."
+2026-10-31T03:59:56.677Z,Thunder.Dbf,0.1.0,ProjectThunder,"Pure .NET engine for dBASE, FoxPro and Clipper files: tables, memos and indexes, with dBASE-compatible locking. No native drivers."
+2026-10-31T03:59:57.59Z,thunder-dbf,0.1.0,ProjectThunder,"thunder-dbf: check, inspect, import, export and migrate dBASE and FoxPro data from the command line."
+2026-10-31T04:01:05.127Z,Moka.AI.Mcp,0.5.0,"jacobwi, BCat, Moka",Model Context Protocol (MCP) client integration for Moka.AI — connect MCP servers and expose their tools to the AI chat pipeline.
