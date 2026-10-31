@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:19 UTC
+## Latest list — 2026-10-31 02:20 UTC
 
-New packages created between 2026-10-31 00:20 UTC and 2026-10-31 01:19 UTC.
+New packages created between 2026-10-31 01:19 UTC and 2026-10-31 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T01-19-44-782204Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T02-20-43-110085Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 00:30:06 | [Raven.Gui](https://www.nuget.org/packages/Raven.Gui) | 0.2.0 | Oscar Soirey | C# bindings for Raven, a lightweight, multithreaded GUI library in C for editor… |
-| 2026-10-31 00:36:06 | [Kokoabim.OnionHttpClient](https://www.nuget.org/packages/Kokoabim.OnionHttpClient) | 0.1.1 | Spencer James | Onion HTTP client library for .NET |
-| 2026-10-31 00:38:33 | [Shiny.Controls.Gauge.Shared](https://www.nuget.org/packages/Shiny.Controls.Gauge.Shared) | 2.3.0-beta-0001 | Allan Ritchie | Host-neutral engine behind the Shiny gauge controls — value-to-angle scale mapp… |
+| 2026-10-31 01:33:26 | [JBOpale.LicenceManager.Cpp](https://www.nuget.org/packages/JBOpale.LicenceManager.Cpp) | 1.0.1 | JB-Opale | Dependency-free C++ validator (x64 static library, MSVC) for JBOpale.LicenceMan… |
+| 2026-10-31 01:38:11 | [JBOpale.LicenceManager](https://www.nuget.org/packages/JBOpale.LicenceManager) | 1.0.1 | JB-Opale | Compact, offline software licence keys signed with ECDSA P-256: issue and valid… |
+| 2026-10-31 01:58:50 | [LuminaUI.Charts](https://www.nuget.org/packages/LuminaUI.Charts) | 0.6.10 | LuminaUI Contributors | Lumina-themed chart controls for Avalonia and LuminaUI. |
 
 ## Data source
 

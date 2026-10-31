@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-10-31T01:33:26.99Z,JBOpale.LicenceManager.Cpp,1.0.1,JB-Opale,"Dependency-free C++ validator (x64 static library, MSVC) for JBOpale.LicenceManager licence keys: ECDSA P-256 verification through Windows CNG, machine code, custom fields. Validation only, no private key."
+2026-10-31T01:38:11.89Z,JBOpale.LicenceManager,1.0.1,JB-Opale,"Compact, offline software licence keys signed with ECDSA P-256: issue and validate keys in .NET, with optional machine binding and custom fields. Keys are also readable by the dependency-free C++ validator (JBOpale.LicenceManager.Cpp)."
+2026-10-31T01:58:50.747Z,LuminaUI.Charts,0.6.10,LuminaUI Contributors,Lumina-themed chart controls for Avalonia and LuminaUI.
