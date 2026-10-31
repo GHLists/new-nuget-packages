@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-10-31T06:23:03.117Z,HackerOs.Apps.Store,2.2.0,Benoit Robin,"The Hack Store, the HackerOS system app that installs, updates and removes apps from the catalogs (ADR 0188), to include in an OS host as a system app."
+2026-10-31T06:29:42.277Z,Simulacra,0.0.2,Niklas Wendel,Simulacra - source-generated proxies for .NET
+2026-10-31T06:42:30.857Z,OvoUi.Lang.Generator,1.0.4,tiouo,Source generator for strongly typed OvoUi.Lang localization resources.
+2026-10-31T07:08:21.473Z,NKaspa,0.1.9-alpha,lifeme2027,"A .NET library for Kaspa. The public API follows NBitcoin where a Kaspa counterpart exists. This alpha covers addresses, keys, scripts, transactions, BIP39, BIP32, PSKT, fees, and a minimal wRPC client."
+2026-10-31T07:08:22.65Z,Mordex.Windows,6.0.0,Ehsan Enaloo,Mordex WinForms controls for .NET 10 with out-of-process designer support.
