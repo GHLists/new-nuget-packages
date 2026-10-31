@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-10-31T15:24:43.75Z,Wiretap,13.0.0,HeDev,Logging extensions to produce logs that are easier to organize.
+2026-10-31T15:32:03.133Z,Quire,1.0.1,Quire,"Immutable asset packages with directory loading, typed metadata and concurrent readers."
+2026-10-31T15:44:42.113Z,Fomoxa.Backend.Templates,0.1.0,Fomoxa,"dotnet new template for a game backend of a Fomoxa cluster: fRPC server, player login, room tickets from the directory, TransferPlayer for pods, health check and Dockerfile."
+2026-10-31T15:48:24.57Z,Vestigium.Helpers.Network.RawSocket,1.0.0,Vestigium,Elevated raw-socket probes for diagnostic hosts. SYN scan first. Requires admin on Windows and CAP_NET_RAW on Linux. Vestigium.Helpers.Network stays connect-scan only.
+2026-10-31T15:49:59.053Z,Conq.Noble.Spreadox,0.9.0,Conq.Noble,Spreadox is a high-level C# library for Excel (.xlsx) workbooks and A4 PDF chart reports. OpenXml types stay internal. PDF uses in-memory series (not OOXML charts).
+2026-10-31T15:50:19.497Z,NetTaskList,1.0.0,NetTaskList Team,"CLI tool to parse, list and execute tasks declared in nxtl.json"
+2026-10-31T15:54:10.233Z,Wayfinder.Umbraco.Templates,6.4.0,Jonny Muir,"dotnet new templates for Wayfinder for Umbraco sites. `dotnet new wayfinder-agents` adds AGENTS.md, the rules that steer AI coding agents to build services as Wayfinder blueprints rather than Umbraco pages and code."
+2026-10-31T16:04:11.573Z,NecessarySdk,0.1.7,Meraj Hasan,"Device trust for .NET apps on Android and iOS: a key the app never exports, signed measurements of the phone and of the app running on it, and a proof on each request -- and, if you turn them on, a second key the person unlocks to approve a request, and a PIN your backend checks. It never scores an…"
+2026-10-31T16:10:50.03Z,Renouveau.Caffeine,0.1.0,Ji Luo,For requesting the system not go idle so that long-running tasks continue uninterrupted.

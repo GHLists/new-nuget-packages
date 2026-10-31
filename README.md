@@ -12,19 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:20 UTC
+## Latest list — 2026-10-31 16:21 UTC
 
-New packages created between 2026-10-31 14:20 UTC and 2026-10-31 15:20 UTC.
+New packages created between 2026-10-31 15:20 UTC and 2026-10-31 16:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T15-20-49-260646Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T16-21-00-604242Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 14:25:41 | [VisionAnnotation](https://www.nuget.org/packages/VisionAnnotation) | 1.0.0 | VisionFlow | 视觉标注显示库：检测框/引线文字自动避让布局（LabelLayout）、繁忙度栅格（BusyMap）、 离屏渲染（VisionRenderer）、交互控件（V… |
-| 2026-10-31 14:35:54 | [Bazicalculator.UrlTools](https://www.nuget.org/packages/Bazicalculator.UrlTools) | 0.1.0 | wangneo276-lgtm | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
-| 2026-10-31 14:52:17 | [JYPPX.ROCm.MIGraphX.CSharp.API](https://www.nuget.org/packages/JYPPX.ROCm.MIGraphX.CSharp.API) | 0.0.1 | Guojin Yan | Managed bindings and resource wrappers for the AMD MIGraphX C API. Native MIGra… |
-| 2026-10-31 14:52:18 | [JYPPX.ROCm.MIGraphX.CSharp.API.HIP.Interop](https://www.nuget.org/packages/JYPPX.ROCm.MIGraphX.CSharp.API.HIP.Interop) | 0.0.1 | Guojin Yan | Optional resource-safe native async adapter between the MIGraphX and HIP manage… |
-| 2026-10-31 14:55:08 | [AgentSessions](https://www.nuget.org/packages/AgentSessions) | 0.1.0 | James Burton | List, resume, clean up, label and transfer coding-agent sessions across Claude,… |
+| 2026-10-31 15:24:43 | [Wiretap](https://www.nuget.org/packages/Wiretap) | 13.0.0 | HeDev | Logging extensions to produce logs that are easier to organize. |
+| 2026-10-31 15:32:03 | [Quire](https://www.nuget.org/packages/Quire) | 1.0.1 | Quire | Immutable asset packages with directory loading, typed metadata and concurrent… |
+| 2026-10-31 15:44:42 | [Fomoxa.Backend.Templates](https://www.nuget.org/packages/Fomoxa.Backend.Templates) | 0.1.0 | Fomoxa | dotnet new template for a game backend of a Fomoxa cluster: fRPC server, player… |
+| 2026-10-31 15:48:24 | [Vestigium.Helpers.Network.RawSocket](https://www.nuget.org/packages/Vestigium.Helpers.Network.RawSocket) | 1.0.0 | Vestigium | Elevated raw-socket probes for diagnostic hosts. SYN scan first. Requires admin… |
+| 2026-10-31 15:49:59 | [Conq.Noble.Spreadox](https://www.nuget.org/packages/Conq.Noble.Spreadox) | 0.9.0 | Conq.Noble | Spreadox is a high-level C# library for Excel (.xlsx) workbooks and A4 PDF char… |
+| 2026-10-31 15:50:19 | [NetTaskList](https://www.nuget.org/packages/NetTaskList) | 1.0.0 | NetTaskList Team | CLI tool to parse, list and execute tasks declared in nxtl.json |
+| 2026-10-31 15:54:10 | [Wayfinder.Umbraco.Templates](https://www.nuget.org/packages/Wayfinder.Umbraco.Templates) | 6.4.0 | Jonny Muir | dotnet new templates for Wayfinder for Umbraco sites. `dotnet new wayfinder-age… |
+| 2026-10-31 16:04:11 | [NecessarySdk](https://www.nuget.org/packages/NecessarySdk) | 0.1.7 | Meraj Hasan | Device trust for .NET apps on Android and iOS: a key the app never exports, sig… |
+| 2026-10-31 16:10:50 | [Renouveau.Caffeine](https://www.nuget.org/packages/Renouveau.Caffeine) | 0.1.0 | Ji Luo | For requesting the system not go idle so that long-running tasks continue unint… |
 
 ## Data source
 
