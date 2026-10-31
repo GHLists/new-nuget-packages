@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-31T08:30:48.773Z,Cratis.Showrunner.BoxOffice.Contracts,1.1.0,Cratis,"The event contracts for Box Office — what a product's operator decides about a tenant (trials, seats, modules, allowances, suspension) and what the product reports back."
+2026-10-31T08:31:33.333Z,CppKana2,2.0.0,CppKana2,C# binding for cpp-kana2 (Japanese kana to Hepburn romaji) over its C ABI. The native library is loaded from the package's runtimes/<rid>/native/ directory.
+2026-10-31T09:03:17.78Z,Proxoft.FomanticUI.Resources,2.0.0,Proxoft,Package Description
+2026-10-31T09:03:48.53Z,Proxoft.FomanticUI.Core,2.0.0,Proxoft s.r.o.,Package Description
+2026-10-31T09:06:02.087Z,Proxoft.FomanticUI.Blazor,2.0.0,Proxoft s.r.o.,Package Description
+2026-10-31T09:06:26.73Z,Proxoft.FomanticUI.TagHelpers,2.0.0,Proxoft s.r.o.,Package Description
