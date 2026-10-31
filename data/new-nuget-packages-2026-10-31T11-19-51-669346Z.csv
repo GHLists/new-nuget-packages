@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-10-31T10:37:38.787Z,Hexalith.Memories.EventStoreExtensions,3.0.12,ITANEO,Memories-owned local internal EventStore intent adapter enrollment.
+2026-10-31T10:40:28.793Z,Toda.Guard,0.1.0,Toda contributors,"toda-guard: accounts, groups with nesting, user directories, sign-in."
+2026-10-31T10:40:29.16Z,Toda.Guard.Contracts,0.1.0,Toda contributors,"Public contracts of toda-guard: the directory connector SPI, lookups, and account and group events."
+2026-10-31T10:40:29.493Z,Toda.Guard.Acting,0.1.0,Toda contributors,"toda-guard's acting context (ADR 0042, 0087): whose rights a request uses and who acts, step-up, read-only requests, the security audit's contract. Hosts and modules read the request's account here."
+2026-10-31T10:49:35.667Z,Cratis.Showrunner.BoxOffice,1.4.0,Cratis,"Box Office — the Showrunner part a managed product runs to honor what its operator decides about a tenant: trials, seats, modules, allowances and suspension, built on Cratis Arc and Chronicle."
+2026-10-31T11:07:49.913Z,DotProlog.Packages.Cli,0.17.0,Aleksandr Pavlov,Restores locked Prolog source packages and runs them with SWI-Prolog or DotProlog.
