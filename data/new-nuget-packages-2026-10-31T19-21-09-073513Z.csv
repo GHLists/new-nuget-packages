@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-10-31T18:41:56.377Z,SkyrimForge.PrismaUi,0.1.0,Wessley Mitchell,"Create and script PrismaUI views from a SkyrimForge plugin in C#. PrismaUI renders HTML, CSS, and JavaScript over Skyrim."
+2026-10-31T18:42:09.34Z,SkyrimForge.PrismaUi.PluginTemplate,0.1.0,Wessley Mitchell,"The dotnet new template for a SkyrimForge plugin with a PrismaUI view: a .NET 10 class library that references the SkyrimForge.PrismaUi package, with a plugin class and a page that call each other."
+2026-10-31T18:44:15.043Z,Arienlabs.IpLocationClient,1.0.0,Arienlabs,"Klient .NET 10 dla IP Location API: lokalizacja IPv4/IPv6, ASN, batch i stan usługi."
+2026-10-31T18:51:45.103Z,BicycleRentalSystem.Generic,1.0.0,BicycleRentalSystem.Generic,Generic entity contract and in-memory repository.
+2026-10-31T19:03:29.717Z,Soenneker.Anthropic.OpenApiClientUtil,11.0.2,Jake Soenneker,A thread-safe utility for obtaining Anthropic's OpenApiClient singleton.
+2026-10-31T19:03:39.08Z,Soenneker.Klaviyo.OpenApiClientUtil,11.0.2,Jake Soenneker,A thread-safe utility for obtaining Klaviyo's OpenApiClient singleton.
+2026-10-31T19:12:32.53Z,ByTalset.ResultPattern,1.0.0,Antonio L.,"Implementación ligera del patrón Result para C#: representa operaciones exitosas o fallidas con valor, error tipado y código de estado, con conversiones implícitas para simplificar su uso."

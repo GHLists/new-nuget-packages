@@ -12,23 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 18:20 UTC
+## Latest list — 2026-10-31 19:21 UTC
 
-New packages created between 2026-10-31 17:21 UTC and 2026-10-31 18:20 UTC.
+New packages created between 2026-10-31 18:20 UTC and 2026-10-31 19:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-10-31T18-20-52-741872Z.csv)
+[Full CSV](data/new-nuget-packages-2026-10-31T19-21-09-073513Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-10-31 17:23:39 | [Fibril](https://www.nuget.org/packages/Fibril) | 0.0.1 | Axmouth | Name reserved for the .NET client of the Fibril message broker. Not usable yet. |
-| 2026-10-31 17:30:56 | [Chronicler.Diagnostics](https://www.nuget.org/packages/Chronicler.Diagnostics) | 1.0.0 | mrdav30 | Dependency-free diagnostic channels, lazy logging, and allocation-conscious exc… |
-| 2026-10-31 17:34:40 | [NetReporter.Viewer](https://www.nuget.org/packages/NetReporter.Viewer) | 1.4.0 | Marvin Chinchilla | Report viewer for ASP.NET Core apps: app.MapNetReporterViewer("/reports", ...)… |
-| 2026-10-31 17:36:11 | [MASS4.Localization.Abstractions](https://www.nuget.org/packages/MASS4.Localization.Abstractions) | 3.8.0 | Bruno Massa | The locale contract that interface and host code resolve text through, independ… |
-| 2026-10-31 17:36:14 | [MASS4.Localization](https://www.nuget.org/packages/MASS4.Localization) | 3.8.0 | Bruno Massa | Shared string tables, localization and translation interchange. |
-| 2026-10-31 17:42:21 | [MASS4.Guinevere.Graphs](https://www.nuget.org/packages/MASS4.Guinevere.Graphs) | 6.5.0 | Bruno Massa | Virtualized graph canvas and accessible graph navigation for Guinevere. |
-| 2026-10-31 17:46:14 | [VpnHood.Net.Http3](https://www.nuget.org/packages/VpnHood.Net.Http3) | 9.0.860 | VpnHood.Net.Http3 | VpnHood HTTP/3. A server-side HTTP/3 engine over the VpnHood QUIC abstractions:… |
-| 2026-10-31 18:09:54 | [Mokaterm.Plugin.TestHost](https://www.nuget.org/packages/Mokaterm.Plugin.TestHost) | 0.2.5 | Moka | Test harness for Mokaterm plugins: renders a plugin's views to HTML with Blazor… |
-| 2026-10-31 18:13:16 | [Lunixi.Sdk](https://www.nuget.org/packages/Lunixi.Sdk) | 0.1.1 | Lunixi | Lunixi server-side .NET SDK: signed requests, hosted payment intents, payment o… |
+| 2026-10-31 18:41:56 | [SkyrimForge.PrismaUi](https://www.nuget.org/packages/SkyrimForge.PrismaUi) | 0.1.0 | Wessley Mitchell | Create and script PrismaUI views from a SkyrimForge plugin in C#. PrismaUI rend… |
+| 2026-10-31 18:42:09 | [SkyrimForge.PrismaUi.PluginTemplate](https://www.nuget.org/packages/SkyrimForge.PrismaUi.PluginTemplate) | 0.1.0 | Wessley Mitchell | The dotnet new template for a SkyrimForge plugin with a PrismaUI view: a .NET 1… |
+| 2026-10-31 18:44:15 | [Arienlabs.IpLocationClient](https://www.nuget.org/packages/Arienlabs.IpLocationClient) | 1.0.0 | Arienlabs | Klient .NET 10 dla IP Location API: lokalizacja IPv4/IPv6, ASN, batch i stan us… |
+| 2026-10-31 18:51:45 | [BicycleRentalSystem.Generic](https://www.nuget.org/packages/BicycleRentalSystem.Generic) | 1.0.0 | BicycleRentalSystem.Generic | Generic entity contract and in-memory repository. |
+| 2026-10-31 19:03:29 | [Soenneker.Anthropic.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Anthropic.OpenApiClientUtil) | 11.0.2 | Jake Soenneker | A thread-safe utility for obtaining Anthropic's OpenApiClient singleton. |
+| 2026-10-31 19:03:39 | [Soenneker.Klaviyo.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Klaviyo.OpenApiClientUtil) | 11.0.2 | Jake Soenneker | A thread-safe utility for obtaining Klaviyo's OpenApiClient singleton. |
+| 2026-10-31 19:12:32 | [ByTalset.ResultPattern](https://www.nuget.org/packages/ByTalset.ResultPattern) | 1.0.0 | Antonio L. | Implementación ligera del patrón Result para C#: representa operaciones exitosa… |
 
 ## Data source
 
