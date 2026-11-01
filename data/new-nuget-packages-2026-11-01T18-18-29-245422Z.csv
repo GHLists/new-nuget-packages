@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-01T17:49:22.44Z,Karya.Core.Identity,1.0.0,Ramazan Karagoz,Karya Core Identity Layer - Authentication and Authorization for .NET 10
+2026-11-01T17:55:06.447Z,PostgresStudio.Diagnostics,0.11.0,Marko Lahma,"The diagnostics engine of Postgres Studio and Marten Studio, with no ASP.NET Core: the health sweep and its checks, the facts they read and IPostgresDiagnostics, for any host that registers an NpgsqlDataSource."
+2026-11-01T17:59:55.923Z,Pondhawk.Utilities,1.0.0,Pond Hawk Technologies Inc.,"Configuration-driven DI modules, service startup, pipelines and type helpers for Pondhawk applications."
+2026-11-01T18:01:01.09Z,Pondhawk.Exceptions,1.0.0,Pond Hawk Technologies Inc.,Transport-agnostic error model and common exception types for .NET.
+2026-11-01T18:01:02.173Z,Pondhawk.Mediator,1.0.0,Pond Hawk Technologies Inc.,Lightweight CQRS-style request/response mediator with pipeline behaviors and a Response envelope.
+2026-11-01T18:01:15.633Z,Packata.Http,1.25.0,Cédric L. Charlier,Optional embeddable HTTP hosting and row representations for selected Packata contract assets.
+2026-11-01T18:01:16.973Z,Packata.Http.Arrow,1.25.0,Cédric L. Charlier,Optional Arrow IPC representation for Packata HTTP asset hosting.
+2026-11-01T18:07:53.777Z,FIAP.TechChallenge.Execution.Application.Messaging,0.1.0,João Victor Maieru Teixeira,Integration message contracts published by the Execution service.
