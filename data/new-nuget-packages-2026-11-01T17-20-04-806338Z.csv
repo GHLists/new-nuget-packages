@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-01T16:35:04.64Z,Terp.Akka,0.1.0,st0o0,Akka.NET helpers built on Akka.Hosting.
+2026-11-01T16:35:05.207Z,Terp,0.1.0,st0o0,"Foundation helpers for .NET apps: host setups, startup gates, diagnostics, resilience, network and date helpers."
+2026-11-01T16:37:51.89Z,Kappie.Core.Pipelines,1.2.16,Kamil Pietraszko,"Provides multi-step pipeline orchestration, short-circuit execution, and cross-cutting behaviors with structured results. Part of the Kappie.Core suite."
+2026-11-01T16:40:03.877Z,Infrastructure.Foundation,1.0.0,Sukhov A.A.,The package providing core MVVM components for WPF applications. Includes reusable RelayCommand implementations (generic and non-generic) to simplify command binding and execution. Designed for maximum compatibility with .NET Standard 2.0 and higher frameworks. Enables developers to focus on busine…
+2026-11-01T16:45:04.757Z,Serde.FS,1.0.0,Jordan Marr,"Strict, deterministic serialization core for F#. Provides the [Serde] attribute, metadata model, and compile‑time validation used by all Serde.FS backends. Backend‑agnostic and reflection‑free."
+2026-11-01T16:45:05.603Z,Serde.FS.AspNet,1.0.0,Jordan Marr,ASP.NET Core integration for Serde.FS RPC. Provides MapRpcApi extension for routing [RpcApi] interfaces to minimal API endpoints using SerdeJson serialization.
+2026-11-01T16:45:07.153Z,Serde.FS.Fable,1.0.0,Jordan Marr,Fable client generator for Serde.FS RPC. Install on a Fable client project to auto-generate a typed client proxy (and matching JSON codecs) from `[<RpcApi>]` interfaces in any directly-referenced project. The generated file lives in the consumer's `fable-generated/` folder and is auto-included in c…
+2026-11-01T16:45:08.637Z,Serde.FS.Json,1.0.0,Jordan Marr,"High‑performance JSON backend for Serde.FS. Uses generated serializers—no reflection, no runtime inference. Includes JSON‑specific converter support and design‑time code generation."
+2026-11-01T16:50:27.32Z,FIAP.TechChallenge.OS.Application.Messaging,0.1.0,João Victor Maieru Teixeira,Integration message contracts published by the OS service.
+2026-11-01T17:11:38.4Z,TWebApi,2.1.52,TWebApi,供独立宿主复用的 TouchSocket Web API 统一结果、参数验证与依赖注入桥接。
+2026-11-01T17:11:40.68Z,TWebApi.Generator,2.0.53,TWebApi.Generator,Package Description
+2026-11-01T17:12:16.27Z,TeklaHelper.DrawingNative,1.0.0,Nguyen Thang,"OOP wrapper for the native drawing Plugin API of Tekla Structures (Drawings.dll): plugin inputs, objects drawn by a plugin, moving plugins, drawing relations. Runs inside the Tekla process (macros, plugins)."
