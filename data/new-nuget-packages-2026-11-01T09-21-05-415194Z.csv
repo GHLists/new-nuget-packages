@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-01T08:42:44.207Z,Qryx.Expressions,1.0.1,Abdumannon Şamsiyev,"High-performance dynamic expression tree building, AST synthesis, and compiled delegate caching engine for Qryx."
+2026-11-01T08:42:44.757Z,Qryx.OpenApi,1.0.0,Abdumannon Şamsiyev,.NET 10 Microsoft.AspNetCore.OpenApi schema transformer for Qryx query DTOs.
+2026-11-01T08:42:45.267Z,Qryx.AspNetCore,1.0.1,Abdumannon Şamsiyev,"ASP.NET Core Minimal APIs and MVC integration, high-performance query string model binding for Qryx DTOs."
+2026-11-01T08:42:45.867Z,Qryx.EntityFramework,1.0.1,Abdumannon Şamsiyev,"Entity Framework Core integration for Qryx: keyset cursor pagination, projection pushdown, native ILIKE, and ToPagedResultAsync."
+2026-11-01T08:42:46.477Z,Qryx.Swashbuckle,1.0.0,Abdumannon Şamsiyev,Classic Swashbuckle SwaggerGen operation and parameter filters for Qryx query DTOs.
+2026-11-01T08:42:47.063Z,Qryx.Core,1.0.1,Abdumannon Şamsiyev,"Core declarative attributes ([Filter], [Sortable]), contracts (IQryxRequest), and operator enums for the Qryx query engine."
+2026-11-01T08:42:47.607Z,Qryx.SourceGenerator,1.0.0,Abdumannon Şamsiyev,Compile-time Roslyn Incremental Source Generator for Qryx query DTOs with 0.00 ns reflection.
+2026-11-01T08:46:16.793Z,KitStack.Seeding,0.1.0,ghaith100994,"Ordered, idempotent seeding runner for .NET: seed file sources (content folder, embedded resources, memory), shared JSON settings, failure policies and DI registration with assembly scanning."
+2026-11-01T08:46:18.06Z,KitStack.Seeding.Abstractions,0.1.0,ghaith100994,"Abstractions for KitStack.Seeding: ISeeder, ISeederRunner, ISeedFileSource, failure policies and seeding results. No EF Core dependency."
+2026-11-01T08:46:19.517Z,KitStack.Seeding.EntityFrameworkCore,0.1.0,ghaith100994,"EF Core seeders for KitStack.Seeding: insert-if-empty JSON seeders, additive natural-key lookup seeders that respect soft deletes, resolving seeders for rows with foreign keys, a migrate-then-seed initializer and an EF Core UseSeeding bridge."
+2026-11-01T08:53:02.527Z,Dora.Shared.Repository,1.0.1,Hwx,Package Description
+2026-11-01T08:53:32.92Z,Dora.Shared.Auth,1.0.1,Hwx,Package Description
+2026-11-01T08:54:01.523Z,Dora.Shared.Redis,1.0.1,Hwx,Package Description
