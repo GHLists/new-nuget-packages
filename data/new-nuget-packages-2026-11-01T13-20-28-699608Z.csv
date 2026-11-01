@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-01T12:25:19.493Z,Hexalith.Parties.EventStoreExtensions,3.0.0,Hexalith Contributors,Parties-owned compiled EventStore route and canonical intent adapter enrollment.
+2026-11-01T12:26:49.49Z,Arc56.Generated.BGope025.meditrace,1.0.1.2026110112,BGope025,Generated ARC-56 Algorand smart-contract clients for BGope025/meditrace.
+2026-11-01T12:35:29.227Z,Fluorite.Hangfire.JobsVisualizer,0.1.0,Piotr Wosiek,"Hangfire dashboard page that shows recurring jobs as a heatmap, by period, on a timeline and as a load chart, and helps to find a free slot for a new recurring job."
+2026-11-01T12:36:21.763Z,NkkinPdf,1.0.0,Nkkinsoft,"Tiny, fast, dependency-free PDF writer for .NET and .NET MAUI (Android/iOS). Subset-embedded TrueType fonts with full Unicode, Arabic shaping and right-to-left text, separate Latin/Arabic fonts in one line, word wrap, tables with page breaks, PNG (with transparency) and JPEG images, links. No refle…"
+2026-11-01T12:45:14.483Z,quire-cli.any,1.0.2,Quire.Cli,Package assets from quire.project.yml and extract immutable asset packages.
+2026-11-01T12:45:26.02Z,quire-cli.linux-x64,1.0.2,Quire.Cli,Package assets from quire.project.yml and extract immutable asset packages.
+2026-11-01T12:45:36.143Z,quire-cli.win-x64,1.0.2,Quire.Cli,Package assets from quire.project.yml and extract immutable asset packages.
+2026-11-01T12:48:23.467Z,ReleaseGen,0.2.0,Alastair Lundy,"Opinionated .NET CLI for building, packaging, and publishing .NET projects, with cross-platform packaging targets and project-file-prioritized build settings."
+2026-11-01T12:50:30.487Z,RepoInfraCli,0.2.5,RepoInfraCli,"Stateless, Luau-scripted infrastructure and host configuration stored in your repository (.repo-infra)."
+2026-11-01T12:53:11.557Z,RimWorldMod.Templates,0.1.1,Alex Spinu,"dotnet new template for RimWorld 1.7 mods: XML definitions, a C# assembly and Harmony patches in any combination, plus a script that links the mod into the game."
+2026-11-01T12:59:16.41Z,TaskTrooper.Telemetry.MassTransit,0.1.0,Mehmet Akif Baysal,TaskTrooper Telemetry for MassTransit: maps MassTransit diagnostics to TaskTrooper consumer conventions (trooper.process). No MassTransit package dependency.
+2026-11-01T12:59:17.26Z,TaskTrooper.Telemetry.AspNetCore,0.1.0,Mehmet Akif Baysal,"TaskTrooper Telemetry for ASP.NET Core: server spans with trooper.route (normalized route template), caller and exception capture."
+2026-11-01T12:59:18.07Z,TaskTrooper.Telemetry.Kafka,0.1.0,Mehmet Akif Baysal,TaskTrooper Telemetry for Confluent.Kafka: consumer entry spans and traced producers with W3C trace context and caller propagation in message headers.
+2026-11-01T12:59:18.87Z,TaskTrooper.Telemetry.Profiling,0.1.0,Mehmet Akif Baysal,"TaskTrooper Telemetry continuous profiler for .NET: in-process EventPipe (CPU, wall, allocations, lock contention) with endpoint (route) attribution, uploaded in folded format."
+2026-11-01T12:59:19.737Z,TaskTrooper.Telemetry.RabbitMQ,0.1.0,Mehmet Akif Baysal,"TaskTrooper Telemetry for RabbitMQ.Client 7: consumer conventions on the built-in subscriber spans, retry attempt from x-delivery-count/x-death, caller propagation."
+2026-11-01T12:59:20.507Z,TaskTrooper.Telemetry,0.1.0,Mehmet Akif Baysal,"TaskTrooper Telemetry distribution of OpenTelemetry .NET: one-line setup (DSN, resource, sampling, OTLP export) plus trooper.* semantic conventions."
+2026-11-01T13:01:42.533Z,Mediana.Containers.Matroska,0.1.13,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-01T13:05:08.393Z,EsUtil.Ui.AvaloniaUI.ColumnPacking,0.3.0,tomokuni,縦方向のマルチカラム配置を行う Avalonia UI のパネル（最大列高さを最小化するレイアウト計算は EsUtil.Feature.ColumnPacking.Core が単一所有する）。
+2026-11-01T13:05:14.52Z,EsUtil.Ui.MewUI.ColumnPacking,0.3.0,tomokuni,縦方向のマルチカラム配置を行う MewUI のパネル（最大列高さを最小化するレイアウト計算は EsUtil.Feature.ColumnPacking.Core が単一所有する）。
+2026-11-01T13:09:49.99Z,Pondhawk.Logging.Journald,1.0.78,Pond Hawk Technologies Inc.,"A ZLogger-based Microsoft.Extensions.Logging provider that writes each event to systemd-journald over its native protocol, with the event's parts — category, title, correlation id, context, payload, exception chain — as journal fields. Falls back to the console when there is no journal, and never b…"
