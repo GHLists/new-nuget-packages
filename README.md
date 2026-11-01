@@ -12,27 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 14:18 UTC
+## Latest list — 2026-11-01 15:20 UTC
 
-New packages created between 2026-11-01 13:20 UTC and 2026-11-01 14:18 UTC.
+New packages created between 2026-11-01 14:18 UTC and 2026-11-01 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T14-18-57-942098Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T15-20-53-573559Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 13:33:38 | [NewBeeVG.Common](https://www.nuget.org/packages/NewBeeVG.Common) | 1.0.1.28 | NewBeeVG.Common | Package Description |
-| 2026-11-01 13:35:11 | [PolyPartitionSharp](https://www.nuget.org/packages/PolyPartitionSharp) | 0.1.0 | HanJaeJoon | Polygon triangulation and convex partitioning in C#. A port of the polypartitio… |
-| 2026-11-01 13:35:16 | [QuickHullSharp](https://www.nuget.org/packages/QuickHullSharp) | 0.1.0 | HanJaeJoon | 3D convex hull of a point cloud using the QuickHull algorithm. A C# port of aku… |
-| 2026-11-01 13:35:30 | [JqSharp](https://www.nuget.org/packages/JqSharp) | 0.1.0 | HanJaeJoon | A pure C# implementation of the jq JSON filter language, ported from gojq. |
-| 2026-11-01 13:36:58 | [TaffySharp](https://www.nuget.org/packages/TaffySharp) | 0.1.0 | HanJaeJoon | A pure C# port of taffy, the Rust flexbox, CSS grid and block layout engine. |
-| 2026-11-01 13:37:03 | [Synvro.Modulus.Notifications.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Notifications.EntityFrameworkCore) | 1.8.2 | synvro | Entity Framework Core stores for Modulus notifications: the inbox and channel p… |
-| 2026-11-01 13:37:06 | [Synvro.Modulus.Media.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Media.EntityFrameworkCore) | 1.8.2 | synvro | Entity Framework Core store for the Modulus media library. The application deri… |
-| 2026-11-01 13:37:52 | [Synvro.Modulus.Media](https://www.nuget.org/packages/Synvro.Modulus.Media) | 1.8.2 | synvro | Media library for Modulus: validated uploads (images and PDF, checked by conten… |
-| 2026-11-01 13:37:58 | [Synvro.Modulus.Identity.IntegrationEvents](https://www.nuget.org/packages/Synvro.Modulus.Identity.IntegrationEvents) | 1.8.2 | synvro | Integration events the Identity module publishes. Other modules reference this… |
-| 2026-11-01 13:49:27 | [Soml.Extensions.Configuration](https://www.nuget.org/packages/Soml.Extensions.Configuration) | 0.0.1 | Sindre Sorhus | SOML configuration files for Microsoft.Extensions.Configuration: AddSomlFile an… |
-| 2026-11-01 13:49:27 | [Soml.Cli](https://www.nuget.org/packages/Soml.Cli) | 0.0.1 | Sindre Sorhus | The decoder and encoder of the SOML conformance suite, for test harnesses: SOML… |
-| 2026-11-01 13:49:28 | [Soml](https://www.nuget.org/packages/Soml) | 0.0.1 | Sindre Sorhus | A strict reader, writer, formatter, and editor for SOML, a config format for hu… |
-| 2026-11-01 14:06:22 | [Appliman.TrackR.Client](https://www.nuget.org/packages/Appliman.TrackR.Client) | 5.0.0 | TrackR.Client | Package Description |
+| 2026-11-01 14:39:27 | [EveShipFit.EsfFormat](https://www.nuget.org/packages/EveShipFit.EsfFormat) | 1.0.0 | EVEShipFit Team | Read and write esf/1, the plain-text format for EVE Online ship fits |
+| 2026-11-01 14:55:58 | [Maieru.FiapTechChallenge.Messaging.Kafka](https://www.nuget.org/packages/Maieru.FiapTechChallenge.Messaging.Kafka) | 0.1.1 | João Victor Maieru Teixeira | Kafka publisher for the FIAP Tech Challenge messaging interface. |
 
 ## Data source
 
