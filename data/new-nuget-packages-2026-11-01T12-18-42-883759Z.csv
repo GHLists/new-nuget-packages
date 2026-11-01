@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-01T11:34:38.71Z,Cratis.Showrunner.Herald.Contracts,1.10.0,Cratis,"The event contracts for Herald — the Showrunner email part: the facts recorded when an email was sent, failed or bounced."
+2026-11-01T11:34:39.85Z,Cratis.Showrunner.Herald,1.10.0,Cratis,"Herald — the Showrunner email part for applications: templated, email-safe messages with images, sent over SMTP, queued and retried when the server fails, and recorded as facts in the application's event log. Built on Chronicle."
+2026-11-01T11:42:07.01Z,Glacier.Tune,1.0.7,Ian Cowley,"Pure C# .NET 10 LLM fine-tuning, PEFT (LoRA / QLoRA), and model alignment engine. Direct GGUF zero-copy memory-mapping, zero-allocation Autograd backpropagation, and instant adapter fusion."
+2026-11-01T11:43:36.01Z,Glacier.Codec,1.0.1,Ian Cowley,"Enterprise ultra-high-throughput cryptographic and compression library in pure C# .NET 10 with Native AOT, hardware intrinsics (AVX-512, VAES, SHA-NI, ARMv8 Crypto), and GPU compute shader acceleration."
+2026-11-01T11:47:58.303Z,AlliedBits.Parlot.SourceGenerator,2.1.0.1,Sebastien Ros,Roslyn source generator for compiling Parlot parser combinators into optimized C# code.
+2026-11-01T11:49:57.323Z,Spreadox,1.0.0,Conq.Noble,"Spreadox is a high-performance, dependency-isolated C# library for native Excel (.xlsx) workbooks and vector A4 landscape PDF chart reports. Features memory-efficient SAX streaming for millions of rows and native OpenXML DrawingML charts."
+2026-11-01T11:50:27.973Z,Cratis.Environments,3.114.0,Cratis,"Reads Cratis environments from .cratis/environments: configuration values and secrets resolved through passphrase, Azure Key Vault or HashiCorp Vault providers"
