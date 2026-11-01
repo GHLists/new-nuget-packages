@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-01T13:33:38.293Z,NewBeeVG.Common,1.0.1.28,NewBeeVG.Common,Package Description
+2026-11-01T13:35:11.193Z,PolyPartitionSharp,0.1.0,HanJaeJoon,Polygon triangulation and convex partitioning in C#. A port of the polypartition C++ library by Ivan Fratric.
+2026-11-01T13:35:16.283Z,QuickHullSharp,0.1.0,HanJaeJoon,3D convex hull of a point cloud using the QuickHull algorithm. A C# port of akuukka/quickhull.
+2026-11-01T13:35:30.257Z,JqSharp,0.1.0,HanJaeJoon,"A pure C# implementation of the jq JSON filter language, ported from gojq."
+2026-11-01T13:36:58.543Z,TaffySharp,0.1.0,HanJaeJoon,"A pure C# port of taffy, the Rust flexbox, CSS grid and block layout engine."
+2026-11-01T13:37:03.343Z,Synvro.Modulus.Notifications.EntityFrameworkCore,1.8.2,synvro,"Entity Framework Core stores for Modulus notifications: the inbox and channel preferences. The application derives its own DbContext, so its migrations live in the application."
+2026-11-01T13:37:06.407Z,Synvro.Modulus.Media.EntityFrameworkCore,1.8.2,synvro,"Entity Framework Core store for the Modulus media library. The application derives its own DbContext, so its migrations live in the application."
+2026-11-01T13:37:52.907Z,Synvro.Modulus.Media,1.8.2,synvro,"Media library for Modulus: validated uploads (images and PDF, checked by content), tenant-scoped metadata, and blob storage through IFileStorage."
+2026-11-01T13:37:58.123Z,Synvro.Modulus.Identity.IntegrationEvents,1.8.2,synvro,"Integration events the Identity module publishes. Other modules reference this project, never the Identity module itself."
+2026-11-01T13:49:27.39Z,Soml.Extensions.Configuration,0.0.1,Sindre Sorhus,SOML configuration files for Microsoft.Extensions.Configuration: AddSomlFile and AddSomlStream.
+2026-11-01T13:49:27.957Z,Soml.Cli,0.0.1,Sindre Sorhus,"The decoder and encoder of the SOML conformance suite, for test harnesses: SOML to tagged JSON and back."
+2026-11-01T13:49:28.43Z,Soml,0.0.1,Sindre Sorhus,"A strict reader, writer, formatter, and editor for SOML, a config format for humans."
+2026-11-01T14:06:22.7Z,Appliman.TrackR.Client,5.0.0,TrackR.Client,Package Description
