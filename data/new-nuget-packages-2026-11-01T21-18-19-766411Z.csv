@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-01T20:23:14.87Z,Corfedo.Troupe,0.1.1,Wojciech Wentland,"Host composition framework for .NET. Components declare their services, configuration and contributions, profiles select the roles each process runs, and a misconfigured host fails at startup with diagnostics that name the owners."
+2026-11-01T20:23:15.587Z,Corfedo.Troupe.Testing,0.1.1,Wojciech Wentland,"Testing support for Corfedo Troupe: verify every declared profile with real hosts, compose a slice of components and replace services with recorded test ownership."
+2026-11-01T20:23:16.32Z,Corfedo.Troupe.AspNetCore,0.1.1,Wojciech Wentland,"ASP.NET Core integration for Corfedo Troupe: middleware stages, endpoints and named Kestrel endpoints declared by components, with startup checks for the pipeline and endpoint configuration."
+2026-11-01T20:36:13.73Z,PatootieCoffee.Generic,1.0.0,Veronika Tsykoza,Reusable generic Entity and Repository abstractions.
+2026-11-01T20:42:37.183Z,OpenSpecification.EntityFrameworkCore,10.0.0,Dan Boyer,EF Core plugin package to OpenSpecification containing EF Core evaluator and abstract repository.
+2026-11-01T20:42:37.81Z,OpenSpecification,10.0.0,Dan Boyer,"A simple package with a base Specification class, for use in creating queries that work with Repository types."
+2026-11-01T20:42:38.443Z,OpenSpecification.EntityFramework6,10.0.0,Dan Boyer,EF6 plugin package to OpenSpecification containing EF6 evaluator and abstract repository.
+2026-11-01T21:08:36.243Z,Sidub.Platform.Audit,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:37.26Z,Sidub.Platform.Audit.Testing,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:44.353Z,Sidub.Platform.Authentication.Redis,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:48.56Z,Sidub.Platform.Batch,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:49.647Z,Sidub.Platform.Batch.IsolatedFunction,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:50.687Z,Sidub.Platform.Caching,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:51.733Z,Sidub.Platform.Caching.Redis,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:52.76Z,Sidub.Platform.Caching.Testing,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:53.757Z,Sidub.Platform.Caller.AspNetCore,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:54.773Z,Sidub.Platform.Caller.IsolatedFunction,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:55.793Z,Sidub.Platform.Configuration,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:08:56.943Z,Sidub.Platform.Configuration.AzureAppConfiguration,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:00.05Z,Sidub.Platform.Configuration.Tool,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:06.317Z,Sidub.Platform.Messaging,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:07.397Z,Sidub.Platform.Messaging.Redis,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:08.567Z,Sidub.Platform.Messaging.SignalR,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:09.617Z,Sidub.Platform.Messaging.SignalR.Host,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:10.623Z,Sidub.Platform.Messaging.Testing,1.15.1,Sidub Inc.,Package Description
+2026-11-01T21:09:12.603Z,Sidub.Platform.Redis,1.15.1,Sidub Inc.,Package Description
