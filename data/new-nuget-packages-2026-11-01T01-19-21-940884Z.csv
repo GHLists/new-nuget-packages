@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-01T00:43:55.93Z,Biz.Bizadm.S2Protocol.NET,1.0.0,SeongSikChae,"Pure .NET port of Blizzard s2protocol: decode and encode StarCraft II replays (header, details, init data, game/message/tracker events, attributes) for 93 protocol builds."
+2026-11-01T00:52:18.973Z,Platform.Maui.Web.Essentials,0.1.0-alpha-0001,"aritchie,redth","MAUI Essentials for the browser: preferences, device info, connectivity, clipboard, geolocation, sensors, sharing, file picking and more using Web APIs."
+2026-11-01T00:52:19.743Z,Platform.Maui.Web,0.1.0-alpha-0001,"aritchie,redth","A .NET MAUI backend for the browser. Runs MAUI apps on WebAssembly, rendering real DOM elements without Blazor."
