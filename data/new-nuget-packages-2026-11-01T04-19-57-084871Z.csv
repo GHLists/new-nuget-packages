@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-01T03:27:34.467Z,BaryoDev.Umbraco.AiAssistant,0.1.0,BaryoDev,"Claude writing help for the Umbraco backoffice: polish, translate, SEO pack, alt text, brand voice and bulk jobs. Bring your own Anthropic API key. The editor accepts, edits or discards every suggestion."
+2026-11-01T03:28:10.083Z,Imazeo,1.0.0,Imazeo,"Official Imazeo .NET SDK for server-side image, transform, PDF, QR, and barcode APIs"
+2026-11-01T03:33:42.617Z,PowerPortalsPro.Identity.Saml2,12.0.0,Power Portals Pro,"SAML 2.0 sign-in for PowerPortalsPro portals: any SAML identity provider — Okta, Microsoft Entra ID, AD FS, Ping — as a sign-in button that matches, links or signs up portal users."
+2026-11-01T03:33:47.743Z,PowerPortalsPro.Web.Blazor.PowerBI,12.0.0,Power Portals Pro,"Power BI report embedding for PowerPortalsPro Blazor portals, with tokens issued by the portal for each viewer and filtered by the report's row-level security."
+2026-11-01T03:44:57.507Z,Mansiper.ArgsToConfig.Aot,1.0.1,Pavel Razboynikov,A library for parsing command-line arguments into strongly-typed configuration objects using attributes. Supports Native AOT.
+2026-11-01T04:03:54.8Z,BaryoDev.Umbraco.ReadAloud.Azure,0.2.0,BaryoDev,"Adds Azure AI Speech to BaryoDev.Umbraco.ReadAloud, the supported Microsoft service with a contract behind it. Same neural voices, real word timings for highlighting, and the key is set in the backoffice or in configuration. A separate package so the core does not carry the Speech SDK's native bina…"
