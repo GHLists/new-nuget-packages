@@ -1,0 +1,37 @@
+created_at,package,version,authors,description
+2026-11-01T15:21:18.357Z,RSCG_Sql,2026.11.1.1516,Andrei Ignat,Roslyn incremental source generator that creates asynchronous database operations from SQL files.
+2026-11-01T15:28:51.413Z,Pondhawk.Diagram.Tool,0.1.1,Pondhawk Technologies,Command-line tool that draws an interactive HTML ER diagram from a JSON data model.
+2026-11-01T15:28:52.267Z,Cake.Pondhawk.Diagram,0.1.1,Pondhawk Technologies,Cake addin that draws an interactive HTML ER diagram from a JSON data model.
+2026-11-01T15:28:53.363Z,Pondhawk.Diagram,0.1.1,Pondhawk Technologies,Renders a JSON data model as a single self-contained interactive HTML ER diagram.
+2026-11-01T15:42:02.627Z,Hibira.AspNetCore,0.1.0,Hibira,"ASP.NET Core and Blazor integration for Hibira, the hosted realtime service that speaks the Pusher Channels protocol. HibiraHub mirrors the SignalR Hub API (Clients.All, Groups, Clients.User, typed hubs, IHubContext), so moving off a self-hosted or Azure SignalR backend is a small change."
+2026-11-01T15:42:03.41Z,Hibira.Client,0.1.0,Hibira,".NET client for Hibira.AspNetCore hubs, for Blazor WebAssembly, MAUI, console and worker apps. HubConnection mirrors the SignalR .NET client (On, InvokeAsync, SendAsync, automatic reconnect)."
+2026-11-01T15:42:03.94Z,Hibira,0.1.0,Hibira,"Server library for Hibira, the hosted realtime service that speaks the Pusher Channels protocol: trigger events, sign private and presence channels, sign in users, verify webhooks and ask people for approvals."
+2026-11-01T15:44:58.68Z,starrycli,0.1.0,perdub,"Decentralized GitOps orchestrator for Docker, Podman, WireGuard, nftables, and VPS fleet."
+2026-11-01T15:51:18.01Z,Swallow.Cli,0.0.1,Philipp Kiener,Package Description
+2026-11-01T15:51:18.59Z,Swallow.Cli.Abstractions,0.0.1,Philipp Kiener,Package Description
+2026-11-01T15:51:59.483Z,ZinfoFramework.IdentityServer4.Storage,10.0.0,Luiz Antonio,ZinfoFramework independent continuation of the IdentityServer4 storage interfaces and models.
+2026-11-01T15:52:42.613Z,StratumModulr.Hosting,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: Hosting.
+2026-11-01T15:52:42.913Z,StratumModulr.Gateway,1.0.2,Tran Khac Tuan,"StratumModulr multi-lab and team management framework: optional Gateway, a reverse proxy that authenticates and authorizes requests before they reach a legacy host."
+2026-11-01T15:52:43.403Z,StratumModulr.RouteInventory,1.0.2,Tran Khac Tuan,"StratumModulr route tool (stratummodulr-routes): inventory of a legacy host's routes, classification sheet, generation and offline validation of the gateway rung files, coverage and drift checks."
+2026-11-01T15:52:43.667Z,StratumModulr.UseCases,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: UseCases.
+2026-11-01T15:52:43.913Z,StratumModulr.Core,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: Core.
+2026-11-01T15:52:44.157Z,StratumModulr.Credentials,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: optional credentials package (password store).
+2026-11-01T15:52:44.457Z,StratumModulr.Infrastructure,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: Infrastructure.
+2026-11-01T15:52:44.707Z,StratumModulr.Web,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: Web.
+2026-11-01T15:52:44.953Z,StratumModulr.Authentication,1.0.2,Tran Khac Tuan,"StratumModulr multi-lab and team management framework: optional Access Layer, authentication providers (JWT), claim normalization and identity linking."
+2026-11-01T15:52:45.21Z,StratumModulr.Contracts,1.0.2,Tran Khac Tuan,StratumModulr multi-lab and team management framework: Contracts.
+2026-11-01T15:56:57.477Z,ZinfoFramework.IdentityServer4,10.0.0,Luiz Antonio,ZinfoFramework independent continuation of the IdentityServer4 OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
+2026-11-01T16:01:25.17Z,ZinfoFramework.IdentityServer4.AspNetIdentity,10.0.0,Luiz Antonio,ZinfoFramework independent continuation of ASP.NET Core Identity integration for IdentityServer4.
+2026-11-01T16:01:46.153Z,Cratis.Showrunner.Notes.Contracts,1.12.0,Cratis,"The event contracts for Notes — the Showrunner product feedback part: notes the users of an application give about what they see, and what the people building it answer."
+2026-11-01T16:01:46.463Z,Cratis.Showrunner.Notes,1.12.0,Cratis,"Notes — the Showrunner product feedback part for applications: give, list and withdraw notes about what the user sees, and publish them to the people building the application, built on Cratis Arc and Chronicle."
+2026-11-01T16:01:47.363Z,Cratis.Showrunner.Notes.Collecting,1.12.0,Cratis,"Notes collecting — the receiving side of Showrunner product feedback, hosted by the builder of an application: reads the applications' outbox into an inbox, records each note as a private fact in the tenant's namespace and answers with acknowledgements and resolutions, built on Cratis Arc and Chron…"
+2026-11-01T16:02:48.197Z,FS.GG.Game.Render.Browser,0.18.0,FS.GG Contributors,"Fable browser host for FS.GG.Game.Render renderer selection: the RendererDriver, the retained SVG, PixiJS and BabylonJS scene surfaces, BrowserRenderers (declare and start all three backends for one game-state type) and BrowserConformance (the browser side of the RendererConformance kit). Ships as…"
+2026-11-01T16:05:07.033Z,Singulink.WasmAotSeeding,1.0.0,Singulink,Keeps Mono WebAssembly apps that are AOT-compiled with an AOT profile from crashing on methods that the profile doesn't list.
+2026-11-01T16:06:54.163Z,Radical.Avalonia,1.0.0,"Mauro Servienti, Michael Denny, Nazareno Manco, Umberto Collina",Radical is an infrastructure framework whose primary role is to help in the development of composite Avalonia applications based on the Model View ViewModel pattern.
+2026-11-01T16:07:07.59Z,ZinfoFramework.IdentityServer4.EntityFramework.Storage,11.0.0,Luiz Antonio,ZinfoFramework independent continuation of the IdentityServer4 Entity Framework storage layer.
+2026-11-01T16:10:21.883Z,ZinfoFramework.IdentityServer4.EntityFramework,11.0.0,Luiz Antonio,ZinfoFramework independent continuation of the IdentityServer4 Entity Framework persistence layer.
+2026-11-01T16:10:38.837Z,milkyware-wam-cli,0.1.0,MilkyWare,Command line wrapper for generating access tokens using MSAL.NET WAM
+2026-11-01T16:12:50.673Z,CtxUi.Extensions,0.1.4,Echways,Contract and build targets for ctx-ui panel extensions.
+2026-11-01T16:12:51.4Z,CtxUi.Extensions.Testing,0.1.4,Echways,"Starts a real ctx-ui server with your extension installed, for browser tests of ctx-ui panel extensions."
+2026-11-01T16:12:51.99Z,CtxUi.Extensions.Templates,0.1.4,Echways,dotnet new template for a ctx-ui panel extension.
+2026-11-01T16:14:04.383Z,dotnet-tarp,0.1.0,Artyom Shalkhakov,"Tarp: MC/DC test coverage for C#. Run ""dotnet tarp test"" instead of ""dotnet test""."
