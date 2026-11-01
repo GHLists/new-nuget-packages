@@ -12,18 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:20 UTC
+## Latest list — 2026-11-01 06:20 UTC
 
-New packages created between 2026-11-01 04:19 UTC and 2026-11-01 05:20 UTC.
+New packages created between 2026-11-01 05:20 UTC and 2026-11-01 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T05-20-26-039358Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T06-20-27-109809Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 04:31:16 | [SuccessMortgagePartners.Encompass.Client](https://www.nuget.org/packages/SuccessMortgagePartners.Encompass.Client) | 0.1.0 | Success Mortgage Partners | A .NET client for the ICE Mortgage Technology Encompass Developer Connect API:… |
-| 2026-11-01 04:43:50 | [GaganDeepSingh.PowerAutomateFlowInventory](https://www.nuget.org/packages/GaganDeepSingh.PowerAutomateFlowInventory) | 1.2026.10.12 | Gagan Deep Singh | Inventory selected Power Automate cloud and desktop flows. Summarize flow trigg… |
-| 2026-11-01 04:50:34 | [Doppelganger.HttpClient](https://www.nuget.org/packages/Doppelganger.HttpClient) | 0.0.9 | Niklas Wendel | Doppelganger.HttpClient - mocks HttpClient with Doppelganger's setups and verif… |
-| 2026-11-01 05:08:15 | [net.codingwell.quiche](https://www.nuget.org/packages/net.codingwell.quiche) | 0.1.0-alpha1 | Quiche.NET contributors | C# wrapper for Cloudflare's quiche (raw QUIC streams) with prebuilt native bina… |
+| 2026-11-01 05:29:47 | [AurorisNet.InteractiveReports](https://www.nuget.org/packages/AurorisNet.InteractiveReports) | 1.0.1 | auroris | JSON and browser client adapter for Interactive Reports: REST routes, saved rep… |
+| 2026-11-01 05:29:47 | [AurorisNet.InteractiveReports.AspNetCore](https://www.nuget.org/packages/AurorisNet.InteractiveReports.AspNetCore) | 1.0.1 | auroris | Interactive Reports server integration for ASP.NET Core: configuration, persist… |
+| 2026-11-01 05:29:48 | [AurorisNet.InteractiveReports.Client.FileDownload](https://www.nuget.org/packages/AurorisNet.InteractiveReports.Client.FileDownload) | 1.0.1 | auroris | File-download client adapter for Interactive Reports, including CSV and self-co… |
+| 2026-11-01 05:29:49 | [AurorisNet.InteractiveReports.Client.GraphQL](https://www.nuget.org/packages/AurorisNet.InteractiveReports.Client.GraphQL) | 1.0.1 | auroris | GraphQL.NET client adapter for executing saved Interactive Report documents thr… |
+| 2026-11-01 05:29:49 | [AurorisNet.InteractiveReports.Core](https://www.nuget.org/packages/AurorisNet.InteractiveReports.Core) | 1.0.1 | auroris | Interactive Reports engine: report state model, validation, portable expression… |
+| 2026-11-01 05:32:52 | [AurorisNet.Pressroom.Client](https://www.nuget.org/packages/AurorisNet.Pressroom.Client) | 1.1.2 | Pressroom | HTTP client for Pressroom. Does not install or depend on Playwright. |
+| 2026-11-01 05:48:30 | [Disharmony](https://www.nuget.org/packages/Disharmony) | 1.0.0 | Ross Morgan-Linial | A Harmony-based framework for patching methods and individual calls, member acc… |
+| 2026-11-01 05:57:43 | [Leaf.Sdk](https://www.nuget.org/packages/Leaf.Sdk) | 0.1.6 | RedBamboo Interactive | The plugin contract for RedLeaf extensions. A plugin references only this packa… |
+| 2026-11-01 06:01:14 | [AurorisNet.ActiveDirectory](https://www.nuget.org/packages/AurorisNet.ActiveDirectory) | 1.0.1 | AurorisNet | Windows Active Directory wrappers used by AurorisNet.IdentityServer, with helpe… |
+| 2026-11-01 06:01:16 | [AurorisNet.IdentityServer](https://www.nuget.org/packages/AurorisNet.IdentityServer) | 1.0.1 | AurorisNet | Embeddable OpenID Connect server for ASP.NET Core, backed by Active Directory,… |
 
 ## Data source
 

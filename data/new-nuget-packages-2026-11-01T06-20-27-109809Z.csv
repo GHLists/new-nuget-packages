@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-01T05:29:47.11Z,AurorisNet.InteractiveReports,1.0.1,auroris,"JSON and browser client adapter for Interactive Reports: REST routes, saved reports, administration, packaged UI assets, and viewer pages."
+2026-11-01T05:29:47.883Z,AurorisNet.InteractiveReports.AspNetCore,1.0.1,auroris,"Interactive Reports server integration for ASP.NET Core: configuration, persistence, execution, and a transport-neutral authorization/query boundary for client adapters."
+2026-11-01T05:29:48.6Z,AurorisNet.InteractiveReports.Client.FileDownload,1.0.1,auroris,"File-download client adapter for Interactive Reports, including CSV and self-contained HTML exports."
+2026-11-01T05:29:49.27Z,AurorisNet.InteractiveReports.Client.GraphQL,1.0.1,auroris,GraphQL.NET client adapter for executing saved Interactive Report documents through the central server boundary.
+2026-11-01T05:29:49.993Z,AurorisNet.InteractiveReports.Core,1.0.1,auroris,"Interactive Reports engine: report state model, validation, portable expression language, SqlKata composition, execution, and schema discovery. Host-facing packages build on this; most applications reference AurorisNet.InteractiveReports instead."
+2026-11-01T05:32:52.487Z,AurorisNet.Pressroom.Client,1.1.2,Pressroom,HTTP client for Pressroom. Does not install or depend on Playwright.
+2026-11-01T05:48:30.453Z,Disharmony,1.0.0,Ross Morgan-Linial,"A Harmony-based framework for patching methods and individual calls, member accesses, and constants inside methods. Includes Roslyn analyzers for patch validation."
+2026-11-01T05:57:43.143Z,Leaf.Sdk,0.1.6,RedBamboo Interactive,"The plugin contract for RedLeaf extensions. A plugin references only this package, never the kernel; at run time the kernel supplies the assembly, and the plugin's kernelApi range must accept the package version it was built against."
+2026-11-01T06:01:14.023Z,AurorisNet.ActiveDirectory,1.0.1,AurorisNet,"Windows Active Directory wrappers used by AurorisNet.IdentityServer, with helpers for users, groups and directory searches."
+2026-11-01T06:01:16.297Z,AurorisNet.IdentityServer,1.0.1,AurorisNet,"Embeddable OpenID Connect server for ASP.NET Core, backed by Active Directory, Samba AD or FreeIPA."
