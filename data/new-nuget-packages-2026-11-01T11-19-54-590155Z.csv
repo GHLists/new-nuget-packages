@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-01T10:40:57.443Z,RePAKLib,1.0.0,RePAKLib,"RePak is a simple packaging system made for games, and designed for out of order reading."
+2026-11-01T10:54:38.053Z,AnyMediator,2.0.0,Andrea Ficarra,"AnyMediator (formerly OpenMediatR) is a free, open-source (Apache-2.0) in-process mediator for .NET and a MediatR alternative with a MediatR-compatible API: requests, streaming requests, notifications, pipeline behaviors, pre/post-processors, exception handlers/actions and pluggable notification si…"
+2026-11-01T10:54:38.86Z,AnyMediator.Abstractions,2.0.0,Andrea Ficarra,"AnyMediator (formerly OpenMediatR) is a free, open-source (Apache-2.0) in-process mediator for .NET and a MediatR alternative with a MediatR-compatible API: requests, streaming requests, notifications, pipeline behaviors, pre/post-processors, exception handlers/actions and pluggable notification si…"

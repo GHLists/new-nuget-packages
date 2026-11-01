@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 10:18 UTC
+## Latest list — 2026-11-01 11:19 UTC
 
-New packages created between 2026-11-01 09:21 UTC and 2026-11-01 10:18 UTC.
+New packages created between 2026-11-01 10:18 UTC and 2026-11-01 11:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T10-18-29-870124Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T11-19-54-590155Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 09:24:10 | [Roslynaut](https://www.nuget.org/packages/Roslynaut) | 0.1.1 | Wesley Baartman | An MCP server that exposes Roslyn and MSBuild to agents: navigation, analysis,… |
-| 2026-11-01 09:41:49 | [GroupDocs.Editor.Mcp](https://www.nuget.org/packages/GroupDocs.Editor.Mcp) | 26.10.0 | GroupDocs Contributors | MCP server for GroupDocs.Editor — edit Word, Excel, PowerPoint and PDF via HTML… |
-| 2026-11-01 10:09:46 | [PocketCsvReader.SecurityLogs](https://www.nuget.org/packages/PocketCsvReader.SecurityLogs) | 2.60.0 | Cédric L. Charlier | Streaming CEF and LEEF security event readers for PocketCsvReader. |
+| 2026-11-01 10:40:57 | [RePAKLib](https://www.nuget.org/packages/RePAKLib) | 1.0.0 | RePAKLib | RePak is a simple packaging system made for games, and designed for out of orde… |
+| 2026-11-01 10:54:38 | [AnyMediator](https://www.nuget.org/packages/AnyMediator) | 2.0.0 | Andrea Ficarra | AnyMediator (formerly OpenMediatR) is a free, open-source (Apache-2.0) in-proce… |
+| 2026-11-01 10:54:38 | [AnyMediator.Abstractions](https://www.nuget.org/packages/AnyMediator.Abstractions) | 2.0.0 | Andrea Ficarra | AnyMediator (formerly OpenMediatR) is a free, open-source (Apache-2.0) in-proce… |
 
 ## Data source
 
