@@ -12,40 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 21:18 UTC
+## Latest list — 2026-11-01 22:21 UTC
 
-New packages created between 2026-11-01 20:20 UTC and 2026-11-01 21:18 UTC.
+New packages created between 2026-11-01 21:18 UTC and 2026-11-01 22:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T21-18-19-766411Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T22-21-17-585578Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 20:23:14 | [Corfedo.Troupe](https://www.nuget.org/packages/Corfedo.Troupe) | 0.1.1 | Wojciech Wentland | Host composition framework for .NET. Components declare their services, configu… |
-| 2026-11-01 20:23:15 | [Corfedo.Troupe.Testing](https://www.nuget.org/packages/Corfedo.Troupe.Testing) | 0.1.1 | Wojciech Wentland | Testing support for Corfedo Troupe: verify every declared profile with real hos… |
-| 2026-11-01 20:23:16 | [Corfedo.Troupe.AspNetCore](https://www.nuget.org/packages/Corfedo.Troupe.AspNetCore) | 0.1.1 | Wojciech Wentland | ASP.NET Core integration for Corfedo Troupe: middleware stages, endpoints and n… |
-| 2026-11-01 20:36:13 | [PatootieCoffee.Generic](https://www.nuget.org/packages/PatootieCoffee.Generic) | 1.0.0 | Veronika Tsykoza | Reusable generic Entity and Repository abstractions. |
-| 2026-11-01 20:42:37 | [OpenSpecification.EntityFrameworkCore](https://www.nuget.org/packages/OpenSpecification.EntityFrameworkCore) | 10.0.0 | Dan Boyer | EF Core plugin package to OpenSpecification containing EF Core evaluator and ab… |
-| 2026-11-01 20:42:37 | [OpenSpecification](https://www.nuget.org/packages/OpenSpecification) | 10.0.0 | Dan Boyer | A simple package with a base Specification class, for use in creating queries t… |
-| 2026-11-01 20:42:38 | [OpenSpecification.EntityFramework6](https://www.nuget.org/packages/OpenSpecification.EntityFramework6) | 10.0.0 | Dan Boyer | EF6 plugin package to OpenSpecification containing EF6 evaluator and abstract r… |
-| 2026-11-01 21:08:36 | [Sidub.Platform.Audit](https://www.nuget.org/packages/Sidub.Platform.Audit) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:37 | [Sidub.Platform.Audit.Testing](https://www.nuget.org/packages/Sidub.Platform.Audit.Testing) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:44 | [Sidub.Platform.Authentication.Redis](https://www.nuget.org/packages/Sidub.Platform.Authentication.Redis) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:48 | [Sidub.Platform.Batch](https://www.nuget.org/packages/Sidub.Platform.Batch) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:49 | [Sidub.Platform.Batch.IsolatedFunction](https://www.nuget.org/packages/Sidub.Platform.Batch.IsolatedFunction) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:50 | [Sidub.Platform.Caching](https://www.nuget.org/packages/Sidub.Platform.Caching) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:51 | [Sidub.Platform.Caching.Redis](https://www.nuget.org/packages/Sidub.Platform.Caching.Redis) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:52 | [Sidub.Platform.Caching.Testing](https://www.nuget.org/packages/Sidub.Platform.Caching.Testing) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:53 | [Sidub.Platform.Caller.AspNetCore](https://www.nuget.org/packages/Sidub.Platform.Caller.AspNetCore) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:54 | [Sidub.Platform.Caller.IsolatedFunction](https://www.nuget.org/packages/Sidub.Platform.Caller.IsolatedFunction) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:55 | [Sidub.Platform.Configuration](https://www.nuget.org/packages/Sidub.Platform.Configuration) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:08:56 | [Sidub.Platform.Configuration.AzureAppConfiguration](https://www.nuget.org/packages/Sidub.Platform.Configuration.AzureAppConfiguration) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:00 | [Sidub.Platform.Configuration.Tool](https://www.nuget.org/packages/Sidub.Platform.Configuration.Tool) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:06 | [Sidub.Platform.Messaging](https://www.nuget.org/packages/Sidub.Platform.Messaging) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:07 | [Sidub.Platform.Messaging.Redis](https://www.nuget.org/packages/Sidub.Platform.Messaging.Redis) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:08 | [Sidub.Platform.Messaging.SignalR](https://www.nuget.org/packages/Sidub.Platform.Messaging.SignalR) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:09 | [Sidub.Platform.Messaging.SignalR.Host](https://www.nuget.org/packages/Sidub.Platform.Messaging.SignalR.Host) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:10 | [Sidub.Platform.Messaging.Testing](https://www.nuget.org/packages/Sidub.Platform.Messaging.Testing) | 1.15.1 | Sidub Inc. | Package Description |
-| 2026-11-01 21:09:12 | [Sidub.Platform.Redis](https://www.nuget.org/packages/Sidub.Platform.Redis) | 1.15.1 | Sidub Inc. | Package Description |
+| 2026-11-01 21:20:55 | [Sharp.Messenger.InMemory](https://www.nuget.org/packages/Sharp.Messenger.InMemory) | 0.0.0 | Chan | In-memory transport and store for Sharp.Messenger — the officially supported te… |
+| 2026-11-01 21:21:19 | [Sharp.Messenger.EntityFrameworkCore](https://www.nuget.org/packages/Sharp.Messenger.EntityFrameworkCore) | 0.0.0 | Chan | EF Core store for Sharp.Messenger — transactional outbox/inbox, saga persistenc… |
+| 2026-11-01 21:22:14 | [Sharp.Messenger.RabbitMq](https://www.nuget.org/packages/Sharp.Messenger.RabbitMq) | 0.0.0 | Chan | RabbitMQ transport for Sharp.Messenger — quorum queues with library-owned redel… |
+| 2026-11-01 21:23:04 | [Brua.Web](https://www.nuget.org/packages/Brua.Web) | 0.1.0 | Meginhufr AS | Brua for .NET: the AssetResponse model, the variant selection rule, picture HTM… |
+| 2026-11-01 21:23:10 | [Sharp.Messenger.Testing](https://www.nuget.org/packages/Sharp.Messenger.Testing) | 0.0.0 | Chan | Test harness for Sharp.Messenger — virtual-time apps, message/schedule/saga pro… |
+| 2026-11-01 21:23:27 | [Sharp.Messenger.Testing.EntityFrameworkCore](https://www.nuget.org/packages/Sharp.Messenger.Testing.EntityFrameworkCore) | 0.0.0 | Chan | EF Core test observation for Sharp.Messenger — outbox probes and commit-time sc… |
+| 2026-11-01 21:31:29 | [Sharp.Mediator.Responses](https://www.nuget.org/packages/Sharp.Mediator.Responses) | 0.0.0 | Chan Lee | Response/Response<T> envelopes for Sharp.Mediator with success/error/validation… |
+| 2026-11-01 21:31:55 | [Sharp.Mediator.Validation](https://www.nuget.org/packages/Sharp.Mediator.Validation) | 0.0.0 | Chan Lee | Pipeline middlewares that integrate Sharp.Validator into Sharp.Mediator: throws… |
+| 2026-11-01 21:32:21 | [Sharp.Mediator.HttpResults](https://www.nuget.org/packages/Sharp.Mediator.HttpResults) | 0.0.0 | Chan Lee | ASP.NET Core IResult mapping for Sharp.Mediator.Responses envelopes. Use in Min… |
+| 2026-11-01 21:36:36 | [RecordSift](https://www.nuget.org/packages/RecordSift) | 0.1.0 | Infoconex | Windows-only .NET Framework 4.8 CSV and XLSX imports with schemas, validation,… |
+| 2026-11-01 21:48:07 | [LiteboxNZ.Brutal.ImGuizmo](https://www.nuget.org/packages/LiteboxNZ.Brutal.ImGuizmo) | 1.0.0 | LiteboxNZ | ImGuizmo port for the Brutal framework |
+| 2026-11-01 21:58:56 | [dotnet-test-runner-mcp](https://www.nuget.org/packages/dotnet-test-runner-mcp) | 0.1.0 | JasonLandbridge | MCP server for discovering, filtering, and running .NET tests. |
+| 2026-11-01 21:59:14 | [aemarcoToolboxHangfire](https://www.nuget.org/packages/aemarcoToolboxHangfire) | 10.2.3 | aemarco | Tooling around Hangfire |
+| 2026-11-01 21:59:16 | [aemarcoToolboxMediatR](https://www.nuget.org/packages/aemarcoToolboxMediatR) | 10.2.3 | aemarco | Tooling around MediatR |
+| 2026-11-01 22:00:01 | [AltTextGeneratorAI.Umbraco](https://www.nuget.org/packages/AltTextGeneratorAI.Umbraco) | 1.0.0 | Bryam Loaiza | Write SEO-friendly alt text for the images in your Umbraco media library with A… |
+| 2026-11-01 22:01:05 | [Graphity.Core](https://www.nuget.org/packages/Graphity.Core) | 3.0.0 | Marco Kaufmann | Graphity's core: a compact, immutable directed graph and the algorithms on it -… |
+| 2026-11-01 22:01:06 | [Graphity.ControlFlow](https://www.nuget.org/packages/Graphity.ControlFlow) | 3.0.0 | Marco Kaufmann | Control-flow analyses on Graphity graphs: loops, dominance frontiers, control d… |
+| 2026-11-01 22:01:07 | [Graphity.Dot](https://www.nuget.org/packages/Graphity.Dot) | 3.0.0 | Marco Kaufmann | Export of Graphity graphs to DOT (the language of Graphviz). |
+| 2026-11-01 22:01:08 | [Graphity.Mermaid](https://www.nuget.org/packages/Graphity.Mermaid) | 3.0.0 | Marco Kaufmann | Export of Graphity graphs to Mermaid flowcharts, which render in Markdown. |
+| 2026-11-01 22:01:09 | [Graphity.All](https://www.nuget.org/packages/Graphity.All) | 3.0.0 | Marco Kaufmann | Graphity, the whole library: the core with its graph and algorithms, the contro… |
+| 2026-11-01 22:03:18 | [OpenPhysical.Biometrics.NFIQ1](https://www.nuget.org/packages/OpenPhysical.Biometrics.NFIQ1) | 1.0.0 | OpenPhysical Contributors | In-memory NIST NFIQ 1 fingerprint image quality assessment for .NET. |
+| 2026-11-01 22:03:21 | [OpenPhysical.Biometrics.NFIQ2](https://www.nuget.org/packages/OpenPhysical.Biometrics.NFIQ2) | 1.0.0 | OpenPhysical Contributors | In-memory NIST NFIQ 2 fingerprint image quality assessment for .NET. |
 
 ## Data source
 

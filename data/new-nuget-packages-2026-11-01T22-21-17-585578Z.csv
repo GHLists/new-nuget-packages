@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-11-01T21:20:55.603Z,Sharp.Messenger.InMemory,0.0.0,Chan,In-memory transport and store for Sharp.Messenger — the officially supported test/dev fabric with EF-equivalent commit semantics and deterministic virtual-time delivery.
+2026-11-01T21:21:19.817Z,Sharp.Messenger.EntityFrameworkCore,0.0.0,Chan,"EF Core store for Sharp.Messenger — transactional outbox/inbox, saga persistence with optimistic concurrency, multi-instance SKIP LOCKED dispatch, health checks, and retention cleanup."
+2026-11-01T21:22:14.127Z,Sharp.Messenger.RabbitMq,0.0.0,Chan,"RabbitMQ transport for Sharp.Messenger — quorum queues with library-owned redelivery caps, per-message TTL dead-lettering, publisher confirms, and mTLS."
+2026-11-01T21:23:04.79Z,Brua.Web,0.1.0,Meginhufr AS,"Brua for .NET: the AssetResponse model, the variant selection rule, picture HTML and a Blazor component."
+2026-11-01T21:23:10.68Z,Sharp.Messenger.Testing,0.0.0,Chan,"Test harness for Sharp.Messenger — virtual-time apps, message/schedule/saga probes, and deterministic settle points."
+2026-11-01T21:23:27.543Z,Sharp.Messenger.Testing.EntityFrameworkCore,0.0.0,Chan,EF Core test observation for Sharp.Messenger — outbox probes and commit-time schedule capture for store-backed buses.
+2026-11-01T21:31:29.187Z,Sharp.Mediator.Responses,0.0.0,Chan Lee,"Response/Response<T> envelopes for Sharp.Mediator with success/error/validation/not-found/auth status, plus Id/Page/Cursor specializations."
+2026-11-01T21:31:55.59Z,Sharp.Mediator.Validation,0.0.0,Chan Lee,Pipeline middlewares that integrate Sharp.Validator into Sharp.Mediator: throws ValidationException or returns an Invalid response.
+2026-11-01T21:32:21Z,Sharp.Mediator.HttpResults,0.0.0,Chan Lee,ASP.NET Core IResult mapping for Sharp.Mediator.Responses envelopes. Use in Minimal APIs.
+2026-11-01T21:36:36.42Z,RecordSift,0.1.0,Infoconex,"Windows-only .NET Framework 4.8 CSV and XLSX imports with schemas, validation, structured diagnostics and reports."
+2026-11-01T21:48:07.47Z,LiteboxNZ.Brutal.ImGuizmo,1.0.0,LiteboxNZ,ImGuizmo port for the Brutal framework
+2026-11-01T21:58:56.087Z,dotnet-test-runner-mcp,0.1.0,JasonLandbridge,"MCP server for discovering, filtering, and running .NET tests."
+2026-11-01T21:59:14.687Z,aemarcoToolboxHangfire,10.2.3,aemarco,Tooling around Hangfire
+2026-11-01T21:59:16.51Z,aemarcoToolboxMediatR,10.2.3,aemarco,Tooling around MediatR
+2026-11-01T22:00:01.737Z,AltTextGeneratorAI.Umbraco,1.0.0,Bryam Loaiza,"Write SEO-friendly alt text for the images in your Umbraco media library with AI. Generate it for one image, a selection or every image that is missing it, in 131 languages, and review it before saving."
+2026-11-01T22:01:05.627Z,Graphity.Core,3.0.0,Marco Kaufmann,"Graphity's core: a compact, immutable directed graph and the algorithms on it - components, orders, traversals, dominators, mappings and partitions."
+2026-11-01T22:01:06.663Z,Graphity.ControlFlow,3.0.0,Marco Kaufmann,"Control-flow analyses on Graphity graphs: loops, dominance frontiers, control dependence and phi placement."
+2026-11-01T22:01:07.68Z,Graphity.Dot,3.0.0,Marco Kaufmann,Export of Graphity graphs to DOT (the language of Graphviz).
+2026-11-01T22:01:08.82Z,Graphity.Mermaid,3.0.0,Marco Kaufmann,"Export of Graphity graphs to Mermaid flowcharts, which render in Markdown."
+2026-11-01T22:01:09.84Z,Graphity.All,3.0.0,Marco Kaufmann,"Graphity, the whole library: the core with its graph and algorithms, the control-flow analyses, and export to DOT and Mermaid."
+2026-11-01T22:03:18.367Z,OpenPhysical.Biometrics.NFIQ1,1.0.0,OpenPhysical Contributors,In-memory NIST NFIQ 1 fingerprint image quality assessment for .NET.
+2026-11-01T22:03:21.087Z,OpenPhysical.Biometrics.NFIQ2,1.0.0,OpenPhysical Contributors,In-memory NIST NFIQ 2 fingerprint image quality assessment for .NET.
