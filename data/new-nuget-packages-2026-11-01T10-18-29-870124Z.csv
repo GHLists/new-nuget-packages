@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-01T09:24:10.76Z,Roslynaut,0.1.1,Wesley Baartman,"An MCP server that exposes Roslyn and MSBuild to agents: navigation, analysis, refactoring, builds and tests, IL/JIT disassembly, decompilation, process inspection and debugging of C# projects."
+2026-11-01T09:41:49.887Z,GroupDocs.Editor.Mcp,26.10.0,GroupDocs Contributors,"MCP server for GroupDocs.Editor — edit Word, Excel, PowerPoint and PDF via HTML round-trip with AI agents. Replace text without losing formatting, turn a document (or one worksheet, slide or PDF page range) into editable HTML and save it back to DOCX, XLSX, PPTX, PDF, TXT, Markdown or EPUB, and fil…"
+2026-11-01T10:09:46.96Z,PocketCsvReader.SecurityLogs,2.60.0,Cédric L. Charlier,Streaming CEF and LEEF security event readers for PocketCsvReader.
