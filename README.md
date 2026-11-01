@@ -12,21 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:18 UTC
+## Latest list — 2026-11-01 03:21 UTC
 
-New packages created between 2026-11-01 01:19 UTC and 2026-11-01 02:18 UTC.
+New packages created between 2026-11-01 02:18 UTC and 2026-11-01 03:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T02-18-27-758875Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T03-21-09-17929Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 01:29:38 | [Clashawaun.Depot.Contracts](https://www.nuget.org/packages/Clashawaun.Depot.Contracts) | 1.0.0 | Clashawaun | Wire contracts, signed document schemas, scope vocabulary and the platform tabl… |
-| 2026-11-01 01:29:38 | [Clashawaun.Depot.Licensing](https://www.nuget.org/packages/Clashawaun.Depot.Licensing) | 1.0.0 | Clashawaun | Offline verification of Depot licence documents for products to embed: chain, E… |
-| 2026-11-01 01:29:39 | [Clashawaun.Depot.Signing](https://www.nuget.org/packages/Clashawaun.Depot.Signing) | 1.0.0 | Clashawaun | The one signer and verifier for Depot release lines, manifests, promotions and… |
-| 2026-11-01 01:29:39 | [Clashawaun.Depot.Sdk](https://www.nuget.org/packages/Clashawaun.Depot.Sdk) | 1.0.0 | Clashawaun | Client SDK for Depot: publishing, resolving and downloading releases, the store… |
-| 2026-11-01 01:29:40 | [Clashawaun.Depot.Agent.Runtime](https://www.nuget.org/packages/Clashawaun.Depot.Agent.Runtime) | 1.0.0 | Clashawaun | The Depot builder and signer agent loops as a library: a host supplies options,… |
-| 2026-11-01 01:54:05 | [Zendiator.CodeFixes](https://www.nuget.org/packages/Zendiator.CodeFixes) | 0.5.0 | tkym | Optional C# code fixes for explicit Zendiator handler registrations. |
-| 2026-11-01 01:59:03 | [VYaml.JsonSchema](https://www.nuget.org/packages/VYaml.JsonSchema) | 1.6.0 | hadashiA | JSON Schema generation for VYaml [YamlObject] types |
+| 2026-11-01 03:14:20 | [HappyLee.HelloWorldUtil](https://www.nuget.org/packages/HappyLee.HelloWorldUtil) | 1.0.0 | James Lee | A simple hello world package made with Visual Studio. |
 
 ## Data source
 
