@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-01T01:29:38.6Z,Clashawaun.Depot.Contracts,1.0.0,Clashawaun,"Wire contracts, signed document schemas, scope vocabulary and the platform table shared by the Depot server, SDK and agents."
+2026-11-01T01:29:38.95Z,Clashawaun.Depot.Licensing,1.0.0,Clashawaun,"Offline verification of Depot licence documents for products to embed: chain, EKU, issuer pin, grace and online refresh."
+2026-11-01T01:29:39.283Z,Clashawaun.Depot.Signing,1.0.0,Clashawaun,"The one signer and verifier for Depot release lines, manifests, promotions and operator approvals. BCL only, so every client, agent and the server run the same code."
+2026-11-01T01:29:39.627Z,Clashawaun.Depot.Sdk,1.0.0,Clashawaun,"Client SDK for Depot: publishing, resolving and downloading releases, the store, and licensing."
+2026-11-01T01:29:40.007Z,Clashawaun.Depot.Agent.Runtime,1.0.0,Clashawaun,"The Depot builder and signer agent loops as a library: a host supplies options, logging and key material and gets the same loop the depot console runs. No console, no flag names."
+2026-11-01T01:54:05.207Z,Zendiator.CodeFixes,0.5.0,tkym,Optional C# code fixes for explicit Zendiator handler registrations.
+2026-11-01T01:59:03.4Z,VYaml.JsonSchema,1.6.0,hadashiA,JSON Schema generation for VYaml [YamlObject] types
