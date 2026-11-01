@@ -1,0 +1,40 @@
+created_at,package,version,authors,description
+2026-11-01T19:40:35.237Z,CoreSystem.OpenApi,1.0.0,Federin Pastor Gutierrez Ortiz,Reusable OpenAPI and Swagger infrastructure for ASP.NET Core APIs.
+2026-11-01T19:42:49.137Z,Korzen.BotProtection,1.0.0,Korzen,"Korzen Bot Protection for ASP.NET Core: asks Bot Protection about a request before a protected action, and fails open."
+2026-11-01T19:43:34.71Z,Naravel.Broadcasting,0.1.0,Naravel contributors,"Typed real-time broadcasting over SignalR for Naravel: IBroadcastable events, channel authorization rules, signalr/log/null drivers and a test fake, built on Naravel.Foundation and Naravel.Events."
+2026-11-01T19:43:35.36Z,Naravel.Cache,0.1.0,Naravel contributors,"Named cache stores, tagging, scoping and locks for Naravel, built on Naravel.Foundation."
+2026-11-01T19:43:36.103Z,Naravel.Cache.Memcached,0.1.0,Naravel contributors,Memcached cache and lock providers for Naravel.Cache.
+2026-11-01T19:43:36.803Z,Naravel.Cache.Redis,0.1.0,Naravel contributors,Redis cache and distributed-lock providers for Naravel.Cache.
+2026-11-01T19:43:37.533Z,Naravel.Database,0.1.0,Naravel contributors,"Laravel-style query builder for Naravel on ADO.NET and Dapper: named connections on Naravel.Foundation, a connection and transaction seam that EF Core can share, and per-database driver packages."
+2026-11-01T19:43:38.303Z,Naravel.Database.EntityFrameworkCore,0.1.0,Naravel contributors,EF Core interop for Naravel.Database: a DbContext and the query builder share one connection and one transaction.
+2026-11-01T19:43:38.987Z,Naravel.Database.MySql,0.1.0,Naravel contributors,"MySQL driver for Naravel.Database, built on MySqlConnector."
+2026-11-01T19:43:39.683Z,Naravel.Database.Postgres,0.1.0,Naravel contributors,"PostgreSQL driver for Naravel.Database, built on Npgsql."
+2026-11-01T19:43:40.47Z,Naravel.Database.SqlServer,0.1.0,Naravel contributors,"SQL Server driver for Naravel.Database, built on Microsoft.Data.SqlClient."
+2026-11-01T19:43:41.067Z,Naravel.Database.Sqlite,0.1.0,Naravel contributors,"SQLite driver for Naravel.Database, built on Microsoft.Data.Sqlite."
+2026-11-01T19:43:41.723Z,Naravel.Encryption,0.1.0,Naravel contributors,"A thin Encrypt/Decrypt facade over ASP.NET Core Data Protection. No custom cryptography: keys, rotation and persistence stay in Data Protection."
+2026-11-01T19:43:42.423Z,Naravel.Events,0.1.0,Naravel contributors,"Typed event dispatcher with listener ordering, stop propagation, and optional queue adapter support."
+2026-11-01T19:43:43.077Z,Naravel.Events.Queue,0.1.0,Naravel contributors,Optional Naravel.Events adapter for running selected event listeners through Naravel.Queue.
+2026-11-01T19:43:43.67Z,Naravel.Filesystem,0.1.0,Naravel contributors,"Shared Manager -> Driver -> Factory Filesystem for Naravel modules (Laravel Illuminate\Support\Manager, reimagined for .NET)."
+2026-11-01T19:43:44.35Z,Naravel.Foundation,0.1.0,Naravel contributors,Package Description
+2026-11-01T19:43:44.94Z,Naravel.Mail,0.1.0,Naravel contributors,"Typed mail contract for Naravel: Mailable classes, named transports (log, array, SMTP via an optional package) and a test fake, built on Naravel.Foundation."
+2026-11-01T19:43:45.623Z,Naravel.Mail.Queue,0.1.0,Naravel contributors,Optional Naravel.Mail adapter that delivers mail through Naravel.Queue: QueueAsync stores only the built message data.
+2026-11-01T19:43:46.197Z,Naravel.Mail.Smtp,0.1.0,Naravel contributors,"Optional SMTP transport for Naravel.Mail, built on MailKit."
+2026-11-01T19:43:46.8Z,Naravel.Notifications,0.1.0,Naravel contributors,"Typed notification fan-out over explicitly named channels, with a fake for tests. Channels (Mail, Queue) are separate opt-in packages."
+2026-11-01T19:43:47.47Z,Naravel.Notifications.Mail,0.1.0,Naravel contributors,"Optional Naravel.Notifications adapter: a ""mail"" channel that delivers a notification through Naravel.Mail."
+2026-11-01T19:43:48.18Z,Naravel.Notifications.Queue,0.1.0,Naravel contributors,Optional Naravel.Notifications adapter that delivers notifications through Naravel.Queue: only a registered alias and a plain payload are stored.
+2026-11-01T19:43:48.84Z,Naravel.Pagination,0.1.0,Naravel contributors,"Laravel-style pagination results for .NET: length-aware, simple and cursor pages with Laravel's data/links/meta JSON. No EF Core, ASP.NET Core or database dependency."
+2026-11-01T19:43:49.55Z,Naravel.Pagination.EntityFrameworkCore,0.1.0,Naravel contributors,"PaginateAsync, SimplePaginateAsync and CursorPaginateAsync for EF Core queries, returning Naravel.Pagination results. Keyset (cursor) paging applies both the order and the filter from one key declaration."
+2026-11-01T19:43:50.197Z,Naravel.Queue,0.1.0,Naravel contributors,"A Laravel-inspired, driver-based background job queue for .NET. Dispatch, retry with backoff, chaining, batching and a background worker - core package (add Naravel.Queue.Memory for the in-process driver, or Naravel.Queue.Redis/.File/.Database/.RabbitMQ/.Kafka for other backends)."
+2026-11-01T19:43:50.89Z,Naravel.Queue.Coordination,0.1.0,Naravel contributors,"Optional Naravel.Queue job middleware that coordinates workers through Naravel.Cache locks and rate limits: WithoutOverlapping, RateLimited and ThrottlesExceptions."
+2026-11-01T19:43:51.537Z,Naravel.Queue.Database,0.1.0,Naravel contributors,"EF Core-backed queue driver for Naravel.Queue - works with any EF Core provider (SQL Server, PostgreSQL, SQLite, MySQL)."
+2026-11-01T19:43:52.24Z,Naravel.Queue.Encryption,0.1.0,Naravel contributors,Optional Naravel.Queue adapter that encrypts the payload of jobs marked IShouldBeEncrypted with ASP.NET Core Data Protection. Unmarked jobs keep the existing wire format.
+2026-11-01T19:43:52.86Z,Naravel.Queue.File,0.1.0,Naravel contributors,"File-based queue driver for Naravel.Queue - durable, zero external services required, JSON files on disk."
+2026-11-01T19:43:53.52Z,Naravel.Queue.Kafka,0.1.0,Naravel contributors,"Kafka queue driver for Naravel.Queue, built on Confluent.Kafka - semantics adapted for a log-based broker (see class docs for details)."
+2026-11-01T19:43:54.23Z,Naravel.Queue.Memory,0.1.0,Naravel contributors,"In-process ""memory"" queue driver for Naravel.Queue - zero dependencies, ideal for tests and local development."
+2026-11-01T19:43:54.98Z,Naravel.Queue.RabbitMQ,0.1.0,Naravel contributors,"RabbitMQ queue driver for Naravel.Queue - delayed jobs via per-message TTL + dead-lettering, no plugin required."
+2026-11-01T19:43:55.683Z,Naravel.Queue.Redis,0.1.0,Naravel contributors,"Redis queue driver for Naravel.Queue, built on StackExchange.Redis - priority buckets, delayed jobs and automatic reclaim of jobs left behind by a crashed worker."
+2026-11-01T19:43:56.303Z,Naravel.Redis,0.1.0,Naravel contributors,"Named, shared Redis connections for Naravel modules: one StackExchange.Redis multiplexer per name, owned and disposed by one manager."
+2026-11-01T19:43:56.937Z,Naravel.Routing,0.1.0,Naravel contributors,"Laravel-style routing and middleware for ASP.NET Core: fluent route groups, named routes, route model binding, resource routes and a middleware engine with aliases, groups, parameters, priority, withoutMiddleware and terminable middleware."
+2026-11-01T19:43:57.543Z,Naravel.Scheduling,0.1.0,Naravel contributors,"Naravel task scheduling: a fluent, named schedule run by a hosted service, with overlap and one-server guards over Naravel.Cache locks."
+2026-11-01T20:02:08.303Z,OpenPhysical.Biometrics.NBIS.Cli,1.0.0,OpenPhysical Contributors,Package Description
+2026-11-01T20:02:08.957Z,OpenPhysical.Biometrics.NBIS,1.0.0,OpenPhysical Contributors,Standalone in-memory NIST NBIS MINDTCT extraction and Bozorth3 matching.

@@ -12,34 +12,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:21 UTC
+## Latest list — 2026-11-01 20:20 UTC
 
-New packages created between 2026-11-01 18:18 UTC and 2026-11-01 19:21 UTC.
+New packages created between 2026-11-01 19:21 UTC and 2026-11-01 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T19-21-21-654272Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T20-20-17-545117Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 18:32:17 | [G4.WebDriver.Remote.Sap](https://www.nuget.org/packages/G4.WebDriver.Remote.Sap) | 2026.11.1.14 | G4™ API Community | The G4.WebDriver.Remote.Sap package is the client for the SAP GUI WebDriver ser… |
-| 2026-11-01 18:32:45 | [Labcoat.Vitest](https://www.nuget.org/packages/Labcoat.Vitest) | 1.2.0 | Erik Lieben | Vitest runner for Labcoat: lists and runs the Vitest tests of your JavaScript /… |
-| 2026-11-01 18:34:13 | [SyntaxCircus.Markdown](https://www.nuget.org/packages/SyntaxCircus.Markdown) | 0.1.0 | Syntax Circus LLC | Safe-by-default Markdown to HTML for user- and CMS-authored content: raw HTML d… |
-| 2026-11-01 18:48:10 | [EveShipFit.DogmaEngine](https://www.nuget.org/packages/EveShipFit.DogmaEngine) | 14.0.0 | EVEShipFit Team | Library to calculate statistics for EVE Online ship fits |
-| 2026-11-01 18:54:42 | [EvolvDB.CLI](https://www.nuget.org/packages/EvolvDB.CLI) | 0.1.0 | EvolvDB Team | Command-line interface tool for EvolvDB database migrations and seeding. |
-| 2026-11-01 18:54:43 | [EvolvDB.PostgreSQL](https://www.nuget.org/packages/EvolvDB.PostgreSQL) | 0.1.0 | EvolvDB Team | PostgreSQL database provider for EvolvDB using Npgsql. |
-| 2026-11-01 18:54:43 | [EvolvDB.SqlServer](https://www.nuget.org/packages/EvolvDB.SqlServer) | 0.1.0 | EvolvDB Team | SQL Server database provider for EvolvDB using Microsoft.Data.SqlClient. |
-| 2026-11-01 18:54:44 | [EvolvDB.Core](https://www.nuget.org/packages/EvolvDB.Core) | 0.1.0 | EvolvDB Team | Core abstractions, SQL parser, and migration engine for EvolvDB. |
-| 2026-11-01 18:57:02 | [Corfedo.Work.Conformance](https://www.nuget.org/packages/Corfedo.Work.Conformance) | 0.1.0 | Wojciech Wentland | Conformance suite for Corfedo Work store providers, on xUnit v3: a provider's o… |
-| 2026-11-01 18:57:17 | [ManagedCode.GrokSharpSDK](https://www.nuget.org/packages/ManagedCode.GrokSharpSDK) | 1.0.70.1 | ManagedCode | CLI-first .NET SDK for the official Grok Build coding agent. |
-| 2026-11-01 18:57:18 | [ManagedCode.GrokSharpSDK.Extensions.AI](https://www.nuget.org/packages/ManagedCode.GrokSharpSDK.Extensions.AI) | 1.0.70.1 | ManagedCode | Microsoft.Extensions.AI IChatClient adapter for the Grok Build agent CLI. |
-| 2026-11-01 19:02:47 | [Corfedo.Work.EntityFrameworkCore](https://www.nuget.org/packages/Corfedo.Work.EntityFrameworkCore) | 0.1.0 | Wojciech Wentland | Entity Framework Core adapter for Corfedo Work: maps lease and reconciliation f… |
-| 2026-11-01 19:02:48 | [Corfedo.Work](https://www.nuget.org/packages/Corfedo.Work) | 0.1.0 | Wojciech Wentland | Background jobs, cron schedules and leases for .NET that live in your database… |
-| 2026-11-01 19:02:49 | [Corfedo.Work.PostgreSql](https://www.nuget.org/packages/Corfedo.Work.PostgreSql) | 0.1.0 | Wojciech Wentland | PostgreSQL store for Corfedo Work, over Npgsql: background jobs, cron schedules… |
-| 2026-11-01 19:02:50 | [Corfedo.Work.InMemory](https://www.nuget.org/packages/Corfedo.Work.InMemory) | 0.1.0 | Wojciech Wentland | In-memory store provider for Corfedo Work, with a controllable clock, for tests… |
-| 2026-11-01 19:08:49 | [BlazorHMR](https://www.nuget.org/packages/BlazorHMR) | 0.1.14-pre-6ad356fb | Marco van den Oever | Hot reload for Blazor WebAssembly apps that applies (almost) any change while t… |
-| 2026-11-01 19:08:49 | [BlazorHMR.Photino](https://www.nuget.org/packages/BlazorHMR.Photino) | 0.1.14-pre-6ad356fb | Marco van den Oever | Package Description |
-| 2026-11-01 19:08:50 | [BlazorHMR.PhotinoX](https://www.nuget.org/packages/BlazorHMR.PhotinoX) | 0.1.14-pre-6ad356fb | Marco van den Oever | Package Description |
-| 2026-11-01 19:08:50 | [BlazorHMR.Protocol](https://www.nuget.org/packages/BlazorHMR.Protocol) | 0.1.14-pre-6ad356fb | Marco van den Oever | The wire protocol shared by the BlazorHMR client and server. |
-| 2026-11-01 19:08:51 | [BlazorHMR.Server](https://www.nuget.org/packages/BlazorHMR.Server) | 0.1.14-pre-6ad356fb | Marco van den Oever | The server side of BlazorHMR, as a .NET tool (blazor-hmr): watches a Blazor Web… |
+| 2026-11-01 19:40:35 | [CoreSystem.OpenApi](https://www.nuget.org/packages/CoreSystem.OpenApi) | 1.0.0 | Federin Pastor Gutierrez Ortiz | Reusable OpenAPI and Swagger infrastructure for ASP.NET Core APIs. |
+| 2026-11-01 19:42:49 | [Korzen.BotProtection](https://www.nuget.org/packages/Korzen.BotProtection) | 1.0.0 | Korzen | Korzen Bot Protection for ASP.NET Core: asks Bot Protection about a request bef… |
+| 2026-11-01 19:43:34 | [Naravel.Broadcasting](https://www.nuget.org/packages/Naravel.Broadcasting) | 0.1.0 | Naravel contributors | Typed real-time broadcasting over SignalR for Naravel: IBroadcastable events, c… |
+| 2026-11-01 19:43:35 | [Naravel.Cache](https://www.nuget.org/packages/Naravel.Cache) | 0.1.0 | Naravel contributors | Named cache stores, tagging, scoping and locks for Naravel, built on Naravel.Fo… |
+| 2026-11-01 19:43:36 | [Naravel.Cache.Memcached](https://www.nuget.org/packages/Naravel.Cache.Memcached) | 0.1.0 | Naravel contributors | Memcached cache and lock providers for Naravel.Cache. |
+| 2026-11-01 19:43:36 | [Naravel.Cache.Redis](https://www.nuget.org/packages/Naravel.Cache.Redis) | 0.1.0 | Naravel contributors | Redis cache and distributed-lock providers for Naravel.Cache. |
+| 2026-11-01 19:43:37 | [Naravel.Database](https://www.nuget.org/packages/Naravel.Database) | 0.1.0 | Naravel contributors | Laravel-style query builder for Naravel on ADO.NET and Dapper: named connection… |
+| 2026-11-01 19:43:38 | [Naravel.Database.EntityFrameworkCore](https://www.nuget.org/packages/Naravel.Database.EntityFrameworkCore) | 0.1.0 | Naravel contributors | EF Core interop for Naravel.Database: a DbContext and the query builder share o… |
+| 2026-11-01 19:43:38 | [Naravel.Database.MySql](https://www.nuget.org/packages/Naravel.Database.MySql) | 0.1.0 | Naravel contributors | MySQL driver for Naravel.Database, built on MySqlConnector. |
+| 2026-11-01 19:43:39 | [Naravel.Database.Postgres](https://www.nuget.org/packages/Naravel.Database.Postgres) | 0.1.0 | Naravel contributors | PostgreSQL driver for Naravel.Database, built on Npgsql. |
+| 2026-11-01 19:43:40 | [Naravel.Database.SqlServer](https://www.nuget.org/packages/Naravel.Database.SqlServer) | 0.1.0 | Naravel contributors | SQL Server driver for Naravel.Database, built on Microsoft.Data.SqlClient. |
+| 2026-11-01 19:43:41 | [Naravel.Database.Sqlite](https://www.nuget.org/packages/Naravel.Database.Sqlite) | 0.1.0 | Naravel contributors | SQLite driver for Naravel.Database, built on Microsoft.Data.Sqlite. |
+| 2026-11-01 19:43:41 | [Naravel.Encryption](https://www.nuget.org/packages/Naravel.Encryption) | 0.1.0 | Naravel contributors | A thin Encrypt/Decrypt facade over ASP.NET Core Data Protection. No custom cryp… |
+| 2026-11-01 19:43:42 | [Naravel.Events](https://www.nuget.org/packages/Naravel.Events) | 0.1.0 | Naravel contributors | Typed event dispatcher with listener ordering, stop propagation, and optional q… |
+| 2026-11-01 19:43:43 | [Naravel.Events.Queue](https://www.nuget.org/packages/Naravel.Events.Queue) | 0.1.0 | Naravel contributors | Optional Naravel.Events adapter for running selected event listeners through Na… |
+| 2026-11-01 19:43:43 | [Naravel.Filesystem](https://www.nuget.org/packages/Naravel.Filesystem) | 0.1.0 | Naravel contributors | Shared Manager -> Driver -> Factory Filesystem for Naravel modules (Laravel Ill… |
+| 2026-11-01 19:43:44 | [Naravel.Foundation](https://www.nuget.org/packages/Naravel.Foundation) | 0.1.0 | Naravel contributors | Package Description |
+| 2026-11-01 19:43:44 | [Naravel.Mail](https://www.nuget.org/packages/Naravel.Mail) | 0.1.0 | Naravel contributors | Typed mail contract for Naravel: Mailable classes, named transports (log, array… |
+| 2026-11-01 19:43:45 | [Naravel.Mail.Queue](https://www.nuget.org/packages/Naravel.Mail.Queue) | 0.1.0 | Naravel contributors | Optional Naravel.Mail adapter that delivers mail through Naravel.Queue: QueueAs… |
+| 2026-11-01 19:43:46 | [Naravel.Mail.Smtp](https://www.nuget.org/packages/Naravel.Mail.Smtp) | 0.1.0 | Naravel contributors | Optional SMTP transport for Naravel.Mail, built on MailKit. |
+| 2026-11-01 19:43:46 | [Naravel.Notifications](https://www.nuget.org/packages/Naravel.Notifications) | 0.1.0 | Naravel contributors | Typed notification fan-out over explicitly named channels, with a fake for test… |
+| 2026-11-01 19:43:47 | [Naravel.Notifications.Mail](https://www.nuget.org/packages/Naravel.Notifications.Mail) | 0.1.0 | Naravel contributors | Optional Naravel.Notifications adapter: a "mail" channel that delivers a notifi… |
+| 2026-11-01 19:43:48 | [Naravel.Notifications.Queue](https://www.nuget.org/packages/Naravel.Notifications.Queue) | 0.1.0 | Naravel contributors | Optional Naravel.Notifications adapter that delivers notifications through Nara… |
+| 2026-11-01 19:43:48 | [Naravel.Pagination](https://www.nuget.org/packages/Naravel.Pagination) | 0.1.0 | Naravel contributors | Laravel-style pagination results for .NET: length-aware, simple and cursor page… |
+| 2026-11-01 19:43:49 | [Naravel.Pagination.EntityFrameworkCore](https://www.nuget.org/packages/Naravel.Pagination.EntityFrameworkCore) | 0.1.0 | Naravel contributors | PaginateAsync, SimplePaginateAsync and CursorPaginateAsync for EF Core queries,… |
+| 2026-11-01 19:43:50 | [Naravel.Queue](https://www.nuget.org/packages/Naravel.Queue) | 0.1.0 | Naravel contributors | A Laravel-inspired, driver-based background job queue for .NET. Dispatch, retry… |
+| 2026-11-01 19:43:50 | [Naravel.Queue.Coordination](https://www.nuget.org/packages/Naravel.Queue.Coordination) | 0.1.0 | Naravel contributors | Optional Naravel.Queue job middleware that coordinates workers through Naravel.… |
+| 2026-11-01 19:43:51 | [Naravel.Queue.Database](https://www.nuget.org/packages/Naravel.Queue.Database) | 0.1.0 | Naravel contributors | EF Core-backed queue driver for Naravel.Queue - works with any EF Core provider… |
+| 2026-11-01 19:43:52 | [Naravel.Queue.Encryption](https://www.nuget.org/packages/Naravel.Queue.Encryption) | 0.1.0 | Naravel contributors | Optional Naravel.Queue adapter that encrypts the payload of jobs marked IShould… |
+| 2026-11-01 19:43:52 | [Naravel.Queue.File](https://www.nuget.org/packages/Naravel.Queue.File) | 0.1.0 | Naravel contributors | File-based queue driver for Naravel.Queue - durable, zero external services req… |
+| 2026-11-01 19:43:53 | [Naravel.Queue.Kafka](https://www.nuget.org/packages/Naravel.Queue.Kafka) | 0.1.0 | Naravel contributors | Kafka queue driver for Naravel.Queue, built on Confluent.Kafka - semantics adap… |
+| 2026-11-01 19:43:54 | [Naravel.Queue.Memory](https://www.nuget.org/packages/Naravel.Queue.Memory) | 0.1.0 | Naravel contributors | In-process "memory" queue driver for Naravel.Queue - zero dependencies, ideal f… |
+| 2026-11-01 19:43:54 | [Naravel.Queue.RabbitMQ](https://www.nuget.org/packages/Naravel.Queue.RabbitMQ) | 0.1.0 | Naravel contributors | RabbitMQ queue driver for Naravel.Queue - delayed jobs via per-message TTL + de… |
+| 2026-11-01 19:43:55 | [Naravel.Queue.Redis](https://www.nuget.org/packages/Naravel.Queue.Redis) | 0.1.0 | Naravel contributors | Redis queue driver for Naravel.Queue, built on StackExchange.Redis - priority b… |
+| 2026-11-01 19:43:56 | [Naravel.Redis](https://www.nuget.org/packages/Naravel.Redis) | 0.1.0 | Naravel contributors | Named, shared Redis connections for Naravel modules: one StackExchange.Redis mu… |
+| 2026-11-01 19:43:56 | [Naravel.Routing](https://www.nuget.org/packages/Naravel.Routing) | 0.1.0 | Naravel contributors | Laravel-style routing and middleware for ASP.NET Core: fluent route groups, nam… |
+| 2026-11-01 19:43:57 | [Naravel.Scheduling](https://www.nuget.org/packages/Naravel.Scheduling) | 0.1.0 | Naravel contributors | Naravel task scheduling: a fluent, named schedule run by a hosted service, with… |
+| 2026-11-01 20:02:08 | [OpenPhysical.Biometrics.NBIS.Cli](https://www.nuget.org/packages/OpenPhysical.Biometrics.NBIS.Cli) | 1.0.0 | OpenPhysical Contributors | Package Description |
+| 2026-11-01 20:02:08 | [OpenPhysical.Biometrics.NBIS](https://www.nuget.org/packages/OpenPhysical.Biometrics.NBIS) | 1.0.0 | OpenPhysical Contributors | Standalone in-memory NIST NBIS MINDTCT extraction and Bozorth3 matching. |
 
 ## Data source
 
