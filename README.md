@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 07:19 UTC
+## Latest list — 2026-11-01 08:20 UTC
 
-New packages created between 2026-11-01 06:20 UTC and 2026-11-01 07:19 UTC.
+New packages created between 2026-11-01 07:19 UTC and 2026-11-01 08:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-01T07-19-04-224405Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-01T08-20-08-424236Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 06:50:35 | [Element-Plus.Admin.Template](https://www.nuget.org/packages/Element-Plus.Admin.Template) | 0.12.1 | Element-Plus Blazor (Smart) | dotnet new template that scaffolds an Element-Plus Blazor WebAssembly admin sta… |
-| 2026-11-01 06:53:38 | [ManagedCodecs.Thumbnails](https://www.nuget.org/packages/ManagedCodecs.Thumbnails) | 0.5.0 | Jakob Boman | Thumbnails (PNG or RGBA) and the basic facts (duration, displayed size, codecs,… |
-| 2026-11-01 06:53:40 | [ManagedCodecs.Unity](https://www.nuget.org/packages/ManagedCodecs.Unity) | 0.5.0 | Jakob Boman | The ManagedCodecs decoders (H.264, MJPEG, AAC LC and HE-AAC; AVI, MP4 and ADTS)… |
-| 2026-11-01 07:11:42 | [ArtificialFlow.Sdk](https://www.nuget.org/packages/ArtificialFlow.Sdk) | 1.2.0 | ArtificialFlow contributors | REST SDK for the ArtificialFlow gateway API. |
+| 2026-11-01 07:34:17 | [ArmadaMVVMToolkit](https://www.nuget.org/packages/ArmadaMVVMToolkit) | 1.0.0 | Armada | A minimal, dependency-free MVVM toolkit (ObservableObject, AsyncObservableObjec… |
+| 2026-11-01 07:57:05 | [SapphireGuard.AgentEvals.Xunit](https://www.nuget.org/packages/SapphireGuard.AgentEvals.Xunit) | 0.3.0 | Anil Kerai | Runs a SapphireGuard.AgentEvals evaluation as an xUnit v3 test project: one Rea… |
+| 2026-11-01 08:12:02 | [CloudGround.Templates](https://www.nuget.org/packages/CloudGround.Templates) | 0.1.0 | Q-Sharp | dotnet new template for container-based .NET solutions with Aspire, Angular and… |
 
 ## Data source
 

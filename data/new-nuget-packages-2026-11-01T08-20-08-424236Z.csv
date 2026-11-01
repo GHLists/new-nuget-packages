@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-01T07:34:17.913Z,ArmadaMVVMToolkit,1.0.0,Armada,"A minimal, dependency-free MVVM toolkit (ObservableObject, AsyncObservableObject, RelayCommand, AsyncRelayCommand) for WPF applications."
+2026-11-01T07:57:05.07Z,SapphireGuard.AgentEvals.Xunit,0.3.0,Anil Kerai,"Runs a SapphireGuard.AgentEvals evaluation as an xUnit v3 test project: one ReadinessGate test that fails on NO-GO and one test per case id, with the orchestrator run once per test assembly."
+2026-11-01T08:12:02.727Z,CloudGround.Templates,0.1.0,Q-Sharp,"dotnet new template for container-based .NET solutions with Aspire, Angular and a visible architecture."
