@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-01T06:50:35.547Z,Element-Plus.Admin.Template,0.12.1,Element-Plus Blazor (Smart),"dotnet new template that scaffolds an Element-Plus Blazor WebAssembly admin starter — Login, Dashboard, and User / Role / Permission / Menu management pages — referencing the published Element-Plus / Element-Plus.X / Element-Plus.Markdown 0.12.1 NuGet packages. Namespace is auto-renamed to the new…"
+2026-11-01T06:53:38.67Z,ManagedCodecs.Thumbnails,0.5.0,Jakob Boman,"Thumbnails (PNG or RGBA) and the basic facts (duration, displayed size, codecs, rotation) of a video file without FFmpeg, in pure managed C#, for web back ends, serverless functions and WebAssembly."
+2026-11-01T06:53:40.5Z,ManagedCodecs.Unity,0.5.0,Jakob Boman,"The ManagedCodecs decoders (H.264, MJPEG, AAC LC and HE-AAC; AVI, MP4 and ADTS) and video probing and thumbnails for Unity and other .NET Standard 2.1 runtimes: one assembly, the scalar build, bit-exact with the other packages' output, in pure managed C#."
+2026-11-01T07:11:42.773Z,ArtificialFlow.Sdk,1.2.0,ArtificialFlow contributors,REST SDK for the ArtificialFlow gateway API.
