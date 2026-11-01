@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-01T22:28:57.547Z,Vek.Blazor.DataGrid,1.0.0,AMIN SABAGHI,Data grid components for Blazor and .NET 10.
+2026-11-01T22:28:58.73Z,Vek.WPF.DataGrid,1.0.0,AMIN SABAGHI,Native data grid components for WPF and .NET 10.
+2026-11-01T22:30:15.15Z,AetherDevel.NodifyAvalonia,7.0.1,"miroiu, bandysc, aether-devel",The core controls for a node based editor (designed for MVVM) for Avalonia 12 / .NET 10. Maintained fork of NodifyAvalonia.
+2026-11-01T22:41:37.59Z,XISOSharp.Tool,1.5.0,XISOSharp.Cli,"XISOSharp command-line tool: create, extract, list, rewrite, compress and archive Xbox XISO/XDVDFS images. Reads ISO, split ISO, CISO, CCI and ZAR; writes XISO, CISO, CCI and ZAR; includes Redump/XboxKit archival modes."
+2026-11-01T22:47:42.653Z,AgdirLabs.Email.Extensions.DependencyInjection,0.1.0,Agdir AS,"Registers the Agdir Email client with Microsoft.Extensions.DependencyInjection: services.AddAgdirEmail(), backed by IHttpClientFactory and the ""AgdirEmail"" configuration section."
+2026-11-01T22:47:43.43Z,AgdirLabs.Email,0.1.0,Agdir AS,"Official .NET SDK for Agdir Email — programmatic SMTP for developers, hosted in the EU. Send transactional email, manage sending domains and webhooks, and verify signed webhook events."
+2026-11-01T22:51:54.237Z,ProjectZ.Diagnostics,2026.11.1.1,Project-Z,Optional standalone native crash observer and dump capture for Project-Z applications.
+2026-11-01T22:51:56.153Z,ProjectZ.ModelImport,2026.11.1.1,Project-Z,Optional Assimp OBJ/FBX model importing for Project-Z applications.
+2026-11-01T22:51:57.08Z,ProjectZ.WebView2,2026.11.1.1,Project-Z,Optional WebView2 HTML5 hosting for Project-Z applications.
+2026-11-01T22:51:58.407Z,ProjectZ.XamlTools,2026.11.1.1,Project-Z,Optional build-time XAML conversion and native scene compiler tools for Project-Z.
+2026-11-01T22:55:01.243Z,Singulink.Net.Http.Api.Client.Native,4.1.0,Singulink,"iOS keychain and web authentication session support for Singulink.Net.Http.Api.Client.WinUI, which references it."
+2026-11-01T23:10:59.273Z,Eleven19.IonDotnet,0.1.0,amazon-ion,A .NET implementation of Amazon Ion. http://amzn.github.io/ion-docs/
+2026-11-01T23:11:55.913Z,XLibur.Fonts.PinataLabs,0.800.0,XLibur Contributors,"See release notes https://github.com/XLibur/XLibur/releases/tag/v0.800.0 PinataLabs.Typography implementation of IXLFontEngine for XLibur. PinataLabs.Typography is a maintained, Apache 2.0 fork of SixLabors.Fonts 1.x; this package replaces XLibur.Fonts.SixLabors.V1."
+2026-11-01T23:12:44.633Z,Kubata.CityFix.Common,1.0.0,Marharyta Kubata,"Reusable building blocks for ASP.NET Core applications: paging over IQueryable, safe search patterns, Ukrainian transliteration, password hashing and standard service exceptions."
