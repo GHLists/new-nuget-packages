@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-11-02T17:24:40.07Z,Blacus.TropicAPIWrapper,10.0.1,Blacus Software,A modern .NET 10 client library for interacting with the Tropic (tropicapp.io) API.
+2026-11-02T17:27:13.75Z,CanFx.DevServices,0.2.0,Oğuzhan Can,"Geliştirme servisleri: uygulama açılırken veritabanı, Redis, RabbitMQ gibi servisler bilgisayarda kuruluysa onları kullanır, değilse docker-compose ile yalnızca gerekenleri başlatır. Yalnızca Development'ta çalışır."
+2026-11-02T17:27:20.873Z,CanFx.WebApi.Postman,0.2.0,Oğuzhan Can,Development'ta OpenAPI belgesini Postman'e aktarır ve her açılışta aynı koleksiyonu günceller (kopya oluşturmaz); baseUrl'li bir ortam (environment) da hazırlar. Anahtar user-secrets'ta (Postman:ApiKey); yoksa hiçbir şey yapmaz.
+2026-11-02T17:39:24.267Z,Agash.StreamTransport.Codecs.FFmpeg,0.2.0-dev2,Agash,"H.264, H.265 and AV1 video encoders and decoders for Agash.StreamTransport on FFmpeg: Direct3D 12, NVENC, AMF, QSV, Vulkan, VA-API, VideoToolbox and software backends behind the Media codec contracts, fed from GPU surfaces without a copy where the backend allows. Bring FFmpeg 9 shared libraries."
+2026-11-02T17:39:24.91Z,Agash.StreamTransport.Linux,0.2.0-dev2,Agash,"Linux media for Agash.StreamTransport: PipeWire video and audio sources and sinks, and Vulkan video processors for colour conversion and side-by-side alpha on DMA-BUFs."
+2026-11-02T17:39:25.52Z,Agash.StreamTransport.Codecs.Opus,0.2.0-dev2,Agash,"Opus audio encoder and decoder for Agash.StreamTransport on libopus (LibOpus.Interop): 20 ms packets with capture timestamps, in-band FEC, live bitrate changes and packet loss concealment, behind the Media audio contracts. Allocation-free per packet."
+2026-11-02T17:39:26.817Z,Agash.StreamTransport.AspNetCore,0.2.0-dev2,Agash,"WHIP and WHEP endpoints for Agash.StreamTransport in an ASP.NET Core application: ingest from OBS or a browser, play to browsers, mapped onto the host's own routing."
+2026-11-02T17:39:28.21Z,Agash.StreamTransport.Adaptation,0.2.0-dev2,Agash,"Transport-independent media adaptation for Agash.StreamTransport: pacing by traffic class and the aggregate send budget that media, retransmission and FEC share."
+2026-11-02T17:39:30.103Z,Agash.StreamTransport.Windows,0.2.0-dev2,Agash,"Windows media for Agash.StreamTransport: Direct3D 12 video processors for colour conversion and side-by-side alpha, Spout sources and sinks, and WASAPI audio."
+2026-11-02T17:41:42.103Z,VirtoCommerce.MFA.Xapi,3.1000.2,VirtoCommerce.MFA.Xapi,Package Description
+2026-11-02T17:41:42.633Z,Gum.FNA.ShadowDusk,2026.11.2.1,FnaGum.ShadowDusk,Package Description
+2026-11-02T17:41:47.197Z,Gum.KNI.ShadowDusk,2026.11.2.1,KniGum.ShadowDusk,Package Description
+2026-11-02T17:41:50.243Z,Gum.MonoGame.ShadowDusk,2026.11.2.1,MonoGameGum.ShadowDusk,Package Description
+2026-11-02T17:42:03.07Z,Gum.raylib.ShadowDusk,2026.11.2.1,RaylibGum.ShadowDusk,Package Description
+2026-11-02T17:42:10.413Z,Gum.SkiaSharp.ShadowDusk,2026.11.2.1,SkiaGum.ShadowDusk,Package Description
+2026-11-02T17:42:12.693Z,Gum.Stride,2026.11.2.1,StrideGum,Package Description
+2026-11-02T17:44:16.45Z,TqkLibrary.Asp.ToolKit.Auth.Api,1.1.0,tqk2811,"ASP.NET Core JWT API helpers for session-bound tokens: compact access tokens (sub/sid/jti/exp), per-request session validation with a short in-memory cache, non-rotating refresh token codec and sliding session expiry."
+2026-11-02T17:44:17.807Z,TqkLibrary.Asp.ToolKit.Auth.Web,1.1.0,tqk2811,"ASP.NET Core web (BFF) authentication against a separate JWT API: API access/refresh tokens kept only in the encrypted auth cookie, a DelegatingHandler that attaches the bearer and refreshes it, a middleware that builds the current user from the API, and session-expiry handling."
+2026-11-02T17:44:19.05Z,TqkLibrary.Asp.ToolKit.Caching,1.1.0,tqk2811,"In-process stale-while-refresh caches (single value and keyed) with group-based invalidation through a registry keyed by an app-defined enum, plus an optional HTTP channel to invalidate caches in another process."
+2026-11-02T17:44:21.073Z,TqkLibrary.Asp.ToolKit.Queue,1.1.0,tqk2811,"In-process dispatch queue with pluggable admission policies (concurrency caps, composite policies), fair round-robin scheduling by an app-defined key, bounded waiting lists and awaitable tickets."
+2026-11-02T17:44:48.547Z,Webority.Support.Webhooks,0.40.0,Webority Technologies,"Webhooks for Webority support: the ticket events a product's own systems subscribe to, delivered through Webority.Webhooks."
+2026-11-02T17:47:04.217Z,Esyasoft.BlazorKit,1.0.0,Esyasoft Technologies,Reusable Blazor UI component library for building consistent user interfaces across Esyasoft applications.
+2026-11-02T17:59:59.39Z,Alexpivo394.Revit.Clash.Engine,1.0.0,Alexpivo394,"Clash detection engine: mesh intersection search by rules, without the Revit API."
+2026-11-02T18:00:00.583Z,Alexpivo394.Revit.Clash.Geometry,1.0.0,Alexpivo394,"Clash detection geometry format: tessellated element meshes in millimetres, binary read and write."
+2026-11-02T18:00:01.72Z,Alexpivo394.Revit.Clash.Render,1.0.0,Alexpivo394,"Clash image renderer: CPU rasterization of a collision inside a section box to PNG, without the Revit API."
+2026-11-02T18:00:02.927Z,Alexpivo394.Revit.Clash.Revit,2027.1.0,Alexpivo394,"UI-free Revit extractor for clash detection: tessellated element geometry in shared coordinates, parameters and MEP connectivity."
+2026-11-02T18:00:11.01Z,Alexpivo394.Revit.Clash.Rules,1.0.0,Alexpivo394,"Clash detection rules: selection sets, matrix of checks and tolerances."
+2026-11-02T18:13:34.35Z,Agash.StreamTransport.MacOS,0.2.0-dev2,Agash,"macOS media for Agash.StreamTransport: Metal video processors for colour conversion and side-by-side alpha on IOSurfaces, Syphon sources and sinks, and Core Audio through AVAudioEngine."
