@@ -12,41 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 14:21 UTC
+## Latest list — 2026-11-02 15:18 UTC
 
-New packages created between 2026-11-02 13:22 UTC and 2026-11-02 14:21 UTC.
+New packages created between 2026-11-02 14:21 UTC and 2026-11-02 15:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T14-21-29-64165Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T15-18-56-767102Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 13:24:09 | [AppWeaver.EventBus](https://www.nuget.org/packages/AppWeaver.EventBus) | 1.0.0 | Team AppWeaver | Event Bus contracts and abstractions for AppWeaver framework. |
-| 2026-11-02 13:24:10 | [PCHMI.Core](https://www.nuget.org/packages/PCHMI.Core) | 0.0.0 | GreatBear | PCHMI工控组态控件，支持Modbus‑TCP、SIEMENS S7、KEYENCE HOSTLINK、PANASONIC MEWTOCOL、MITSUBI… |
-| 2026-11-02 13:24:48 | [MiniStack.Testcontainers](https://www.nuget.org/packages/MiniStack.Testcontainers) | 1.0.0 | Kacper Harabasz | Community Testcontainers for .NET module for MiniStack, a free AWS emulator. No… |
-| 2026-11-02 13:28:33 | [AppWeaver.EventBus.Default](https://www.nuget.org/packages/AppWeaver.EventBus.Default) | 1.0.0 | Team AppWeaver | Default in-memory implementation of AppWeaver Event Bus with automatic handler… |
-| 2026-11-02 13:38:20 | [Crumpled.AgentSpecs](https://www.nuget.org/packages/Crumpled.AgentSpecs) | 1.0.0 | Crumpled Dog | See what AI agents see for every Umbraco page: an Agent Specs view on each cont… |
-| 2026-11-02 13:43:51 | [Spyglass.Agent.Avalonia11](https://www.nuget.org/packages/Spyglass.Agent.Avalonia11) | 0.1.1 | Spyglass contributors | Package Description |
-| 2026-11-02 13:43:53 | [Spyglass.win-x64](https://www.nuget.org/packages/Spyglass.win-x64) | 0.1.1 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 13:52:12 | [AvaloniaUI.Parcel.Sparkle.Runtime](https://www.nuget.org/packages/AvaloniaUI.Parcel.Sparkle.Runtime) | 2.10.1 | AvaloniaUI OÜ | Sparkle 2.10.1 framework and .NET bindings for macOS app updates. Works with ap… |
-| 2026-11-02 13:54:34 | [StrongTypes.EntityFrameworkCore](https://www.nuget.org/packages/StrongTypes.EntityFrameworkCore) | 2.0.0-rc2 | Russell Wilkins | Automatic Entity Framework Core value conversions for StrongTypes. |
-| 2026-11-02 14:00:33 | [TKCode.Spyglass.Agent](https://www.nuget.org/packages/TKCode.Spyglass.Agent) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:35 | [TKCode.Spyglass.win-x64](https://www.nuget.org/packages/TKCode.Spyglass.win-x64) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:00:39 | [TKCode.Spyglass.win-arm64](https://www.nuget.org/packages/TKCode.Spyglass.win-arm64) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:00:39 | [TKCode.Spyglass.Protocol](https://www.nuget.org/packages/TKCode.Spyglass.Protocol) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:41 | [TKCode.Spyglass.linux-arm64](https://www.nuget.org/packages/TKCode.Spyglass.linux-arm64) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:00:41 | [TKCode.Spyglass.Agent.Advanced](https://www.nuget.org/packages/TKCode.Spyglass.Agent.Advanced) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:43 | [TKCode.Spyglass.osx-arm64](https://www.nuget.org/packages/TKCode.Spyglass.osx-arm64) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:00:44 | [TKCode.Spyglass.Mcp](https://www.nuget.org/packages/TKCode.Spyglass.Mcp) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:46 | [TKCode.Spyglass.osx-x64](https://www.nuget.org/packages/TKCode.Spyglass.osx-x64) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:00:46 | [TKCode.Spyglass.StartupHook](https://www.nuget.org/packages/TKCode.Spyglass.StartupHook) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:49 | [TKCode.Spyglass.linux-x64](https://www.nuget.org/packages/TKCode.Spyglass.linux-x64) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:00:50 | [TKCode.Spyglass.App.Core](https://www.nuget.org/packages/TKCode.Spyglass.App.Core) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:50 | [TKCode.Spyglass.Agent.Avalonia11](https://www.nuget.org/packages/TKCode.Spyglass.Agent.Avalonia11) | 0.1.2 | Spyglass contributors | Package Description |
-| 2026-11-02 14:00:51 | [TKCode.Spyglass.HotReload](https://www.nuget.org/packages/TKCode.Spyglass.HotReload) | 0.1.2 | Spyglass contributors | XAML hot reload for Avalonia apps debugged with Spyglass: edit .axaml in any ed… |
-| 2026-11-02 14:00:52 | [TKCode.Spyglass](https://www.nuget.org/packages/TKCode.Spyglass) | 0.1.2 | Spyglass contributors | Open-source debugging tool for Avalonia apps (like browser DevTools) with a fre… |
-| 2026-11-02 14:05:06 | [UMBFY.Umbraco.Shared](https://www.nuget.org/packages/UMBFY.Umbraco.Shared) | 1.0.0 | krishparmar,UMBFY | Shared abstractions, licensing entitlements SDK, and package-registry contracts… |
-| 2026-11-02 14:06:09 | [Nethermind.Libp2p.Protocols.Mplex](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.Mplex) | 1.1.1 | Nethermind | A libp2p implementation for .NET |
-| 2026-11-02 14:12:26 | [ROOT.Etcd.Configuration](https://www.nuget.org/packages/ROOT.Etcd.Configuration) | 1.0.0 | ROOT.Etcd.Configuration | Package Description |
+| 2026-11-02 14:34:57 | [Wip.Abstractions](https://www.nuget.org/packages/Wip.Abstractions) | 0.0.2 | Ricardo Medeiros | Typed contracts for WiP capabilities, descriptors, artifacts, sessions, policie… |
+| 2026-11-02 14:34:58 | [Wip.Agent.Basic](https://www.nuget.org/packages/Wip.Agent.Basic) | 0.0.2 | Ricardo Medeiros | Packable baseline agents for WiP runtime composition and deterministic sample e… |
+| 2026-11-02 14:35:00 | [Wip.Artifacts.Local](https://www.nuget.org/packages/Wip.Artifacts.Local) | 0.0.2 | Ricardo Medeiros | Local filesystem persistence for WiP artifacts and descriptors. |
+| 2026-11-02 14:35:02 | [Wip.Bones](https://www.nuget.org/packages/Wip.Bones) | 0.0.2 | Ricardo Medeiros | Block Dominoes domain types, identifiers, and game engine for the WIP Bones wor… |
+| 2026-11-02 14:35:03 | [Wip.Bones.Agents](https://www.nuget.org/packages/Wip.Bones.Agents) | 0.0.2 | Ricardo Medeiros | Agent capabilities and per-player knowledge stores for the WIP Bones workflow. |
+| 2026-11-02 14:35:05 | [Wip.Bones.ModelProviders.DeepSeek](https://www.nuget.org/packages/Wip.Bones.ModelProviders.DeepSeek) | 0.0.2 | Ricardo Medeiros | DeepSeek model provider adapters for WIP Bones agent stages. |
+| 2026-11-02 14:35:07 | [Wip.Builder](https://www.nuget.org/packages/Wip.Builder) | 0.0.2 | Ricardo Medeiros | Registration APIs for WiP capabilities, policies, and workflows. |
+| 2026-11-02 14:35:08 | [Wip.Modus](https://www.nuget.org/packages/Wip.Modus) | 0.0.2 | Ricardo Medeiros | WiP bridge for Modus plugin discovery, diagnostics, and run manifest capture. |
+| 2026-11-02 14:35:10 | [Wip.Policy.LocalSafe](https://www.nuget.org/packages/Wip.Policy.LocalSafe) | 0.0.2 | Ricardo Medeiros | Default local-safe policy enforcing dangerous-command denial, workspace boundar… |
+| 2026-11-02 14:35:11 | [Wip.Runtime](https://www.nuget.org/packages/Wip.Runtime) | 0.0.2 | Ricardo Medeiros | Runtime orchestration primitives for WiP session lifecycle and event emission. |
+| 2026-11-02 14:35:13 | [Wip.Shell](https://www.nuget.org/packages/Wip.Shell) | 0.0.2 | Ricardo Medeiros | Interactive WiP shell loop with global/session command routing. |
+| 2026-11-02 14:35:15 | [Wip.Shell.E2E](https://www.nuget.org/packages/Wip.Shell.E2E) | 0.0.2 | Ricardo Medeiros | Shared E2E compliance registry and aggregated behavior-proof gates for WIP requ… |
+| 2026-11-02 14:35:17 | [Wip.ShellHost](https://www.nuget.org/packages/Wip.ShellHost) | 0.0.2 | Ricardo Medeiros | WiP shell host startup and shutdown orchestration with plugin lifecycle integra… |
+| 2026-11-02 14:35:18 | [Wip.Tools.Shell](https://www.nuget.org/packages/Wip.Tools.Shell) | 0.0.2 | Ricardo Medeiros | Controlled shell command execution constrained to worktree with policy gate and… |
+| 2026-11-02 14:35:20 | [Wip.Validation.DotNet](https://www.nuget.org/packages/Wip.Validation.DotNet) | 0.0.2 | Ricardo Medeiros | Dotnet build/test validator with persisted ValidationReport artifacts for WiP s… |
+| 2026-11-02 14:35:21 | [Wip.Workspaces.Git](https://www.nuget.org/packages/Wip.Workspaces.Git) | 0.0.2 | Ricardo Medeiros | Git-backed workspace provider for WiP session isolation, diff hashing, and gate… |
+| 2026-11-02 14:39:34 | [yocto.Wpf](https://www.nuget.org/packages/yocto.Wpf) | 3.0.0 | MILL5,Contributors | WPF XAML markup extension ({yocto:Resolve}) that resolves view models and servi… |
+| 2026-11-02 14:51:33 | [TildeMail.Plugin.Xmpp](https://www.nuget.org/packages/TildeMail.Plugin.Xmpp) | 0.5.0 | tom (tom@orivega.io) | XMPP chat accounts for TildeMail: a tmail plugin bundle, not a library. Unzip p… |
+| 2026-11-02 15:02:32 | [Byungmeo.Calendar.WinUI](https://www.nuget.org/packages/Byungmeo.Calendar.WinUI) | 0.2.0 | byungmeo | Extensible WinUI 3 month calendar with multi-day events and developer-owned int… |
 
 ## Data source
 

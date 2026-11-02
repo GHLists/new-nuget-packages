@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-11-02T14:34:57.483Z,Wip.Abstractions,0.0.2,Ricardo Medeiros,"Typed contracts for WiP capabilities, descriptors, artifacts, sessions, policies, and workflows."
+2026-11-02T14:34:58.947Z,Wip.Agent.Basic,0.0.2,Ricardo Medeiros,Packable baseline agents for WiP runtime composition and deterministic sample execution paths.
+2026-11-02T14:35:00.397Z,Wip.Artifacts.Local,0.0.2,Ricardo Medeiros,Local filesystem persistence for WiP artifacts and descriptors.
+2026-11-02T14:35:02.02Z,Wip.Bones,0.0.2,Ricardo Medeiros,"Block Dominoes domain types, identifiers, and game engine for the WIP Bones workflow."
+2026-11-02T14:35:03.89Z,Wip.Bones.Agents,0.0.2,Ricardo Medeiros,Agent capabilities and per-player knowledge stores for the WIP Bones workflow.
+2026-11-02T14:35:05.653Z,Wip.Bones.ModelProviders.DeepSeek,0.0.2,Ricardo Medeiros,DeepSeek model provider adapters for WIP Bones agent stages.
+2026-11-02T14:35:07.16Z,Wip.Builder,0.0.2,Ricardo Medeiros,"Registration APIs for WiP capabilities, policies, and workflows."
+2026-11-02T14:35:08.707Z,Wip.Modus,0.0.2,Ricardo Medeiros,"WiP bridge for Modus plugin discovery, diagnostics, and run manifest capture."
+2026-11-02T14:35:10.17Z,Wip.Policy.LocalSafe,0.0.2,Ricardo Medeiros,"Default local-safe policy enforcing dangerous-command denial, workspace boundaries, and approval gates."
+2026-11-02T14:35:11.963Z,Wip.Runtime,0.0.2,Ricardo Medeiros,Runtime orchestration primitives for WiP session lifecycle and event emission.
+2026-11-02T14:35:13.683Z,Wip.Shell,0.0.2,Ricardo Medeiros,Interactive WiP shell loop with global/session command routing.
+2026-11-02T14:35:15.33Z,Wip.Shell.E2E,0.0.2,Ricardo Medeiros,Shared E2E compliance registry and aggregated behavior-proof gates for WIP requirements documents.
+2026-11-02T14:35:17.017Z,Wip.ShellHost,0.0.2,Ricardo Medeiros,WiP shell host startup and shutdown orchestration with plugin lifecycle integration.
+2026-11-02T14:35:18.567Z,Wip.Tools.Shell,0.0.2,Ricardo Medeiros,Controlled shell command execution constrained to worktree with policy gate and artifact logging.
+2026-11-02T14:35:20.173Z,Wip.Validation.DotNet,0.0.2,Ricardo Medeiros,Dotnet build/test validator with persisted ValidationReport artifacts for WiP sessions.
+2026-11-02T14:35:21.83Z,Wip.Workspaces.Git,0.0.2,Ricardo Medeiros,"Git-backed workspace provider for WiP session isolation, diff hashing, and gated merge flows."
+2026-11-02T14:39:34.807Z,yocto.Wpf,3.0.0,"MILL5,Contributors",WPF XAML markup extension ({yocto:Resolve}) that resolves view models and services from the yocto IoC container on .NET 10.
+2026-11-02T14:51:33.597Z,TildeMail.Plugin.Xmpp,0.5.0,tom (tom@orivega.io),"XMPP chat accounts for TildeMail: a tmail plugin bundle, not a library. Unzip plugin/ into ~/.config/tildemail/plugins/TildeMail.Plugin.Xmpp/ and enable it in config.toml."
+2026-11-02T15:02:32.05Z,Byungmeo.Calendar.WinUI,0.2.0,byungmeo,Extensible WinUI 3 month calendar with multi-day events and developer-owned interaction.
