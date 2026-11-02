@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-02T15:21:37.493Z,EsUtil.Ui.AvaloniaUI.ColorSelector,0.4.0,tomokuni,Avalonia UI の色選択コントロール（色名の解決・入力の検証・不透明度の編集）。
+2026-11-02T15:21:41.947Z,EsUtil.Ui.MewUI.ColorSelector,0.4.0,tomokuni,MewUI の色選択コントロール（色名の一覧・入力の検証・カラーピッカー）。
+2026-11-02T15:21:49.237Z,EsUtil.Ui.WinUI3.ColorSelector,0.4.0,tomokuni,色選択の WinUI 3 版コントロール。
+2026-11-02T15:26:53.057Z,FIAP.TechChallenge.Billing.Application.Messaging,0.1.0,FIAP.TechChallenge.Billing.Application.Messaging,Package Description
+2026-11-02T15:32:02.167Z,Telerik.UI.for.Blazor.DatAInsightsComposer,15.2.0,Progress Software Corporation,"Telerik UI for Blazor DatAInsightsComposer provides AI-powered dynamic generation of data components like Grids, Charts, Gauges, etc. based on user prompting."
+2026-11-02T15:32:50.467Z,TimerWheel,0.1.0,Mark Hammond,"A caller-driven hashed timing wheel for .NET, allocation-free once warm: O(1) cancel and amortized O(1) schedule, generation-checked timer ids (a stale id never cancels someone else's timer), an occupancy bitmap so a large time jump (backtests, simulations) skips the empty spokes instead of costing…"
+2026-11-02T15:42:04.68Z,Aegirax.Integration,0.1.0,Aegirax,"Integración de APIs con Aegirax: roles en OpenAPI (x-required-roles), versión de contrato (info.x-aegirax-contract), protección de spec y autenticación multiesquema."
+2026-11-02T15:47:03.153Z,ITBees.Recordings,8.0.4,ITBees,"Continuous camera recording on Linux devices with MediaMTX: installs and supervises MediaMTX as a systemd service at runtime, records RTSP streams (resolved over ONVIF) into fixed-length fMP4 segments with retention and a free-space guard, optionally on a USB disk, and cuts event clips (e.g. 45 s b…"
