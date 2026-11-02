@@ -12,26 +12,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 19:21 UTC
+## Latest list — 2026-11-02 20:22 UTC
 
-New packages created between 2026-11-02 18:23 UTC and 2026-11-02 19:21 UTC.
+New packages created between 2026-11-02 19:21 UTC and 2026-11-02 20:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T19-21-21-034146Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T20-22-17-943272Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 18:32:34 | [GeminiGatewayClient](https://www.nuget.org/packages/GeminiGatewayClient) | 2.0.1 | Osg-Junue | Lightweight, AOT-friendly .NET client for the Gemini API with Microsoft.Extensi… |
-| 2026-11-02 18:45:37 | [DotSee.ErrorRadar](https://www.nuget.org/packages/DotSee.ErrorRadar) | 17.0.4 | DotSee Web Services | Watches an Umbraco site's own logging, groups repeating warnings and failures s… |
-| 2026-11-02 18:49:35 | [NockMon.HardwareSensors](https://www.nuget.org/packages/NockMon.HardwareSensors) | 0.2.0 | nockawa | NockMon plugin: CPU, motherboard, GPU and memory sensors (temperatures, fan spe… |
-| 2026-11-02 18:51:00 | [Rcinel.Translate](https://www.nuget.org/packages/Rcinel.Translate) | 0.1.0 | CodeIsNotEvil | Loads a translation set for a language and translates with Translate("UUIDv7",… |
-| 2026-11-02 18:51:00 | [Rcinel.Translate.Core](https://www.nuget.org/packages/Rcinel.Translate.Core) | 0.1.0 | CodeIsNotEvil | Reads and writes RcinelTranslate projects: UUIDv7 keyed translation files, revi… |
-| 2026-11-02 18:53:31 | [Woosh.Wisp](https://www.nuget.org/packages/Woosh.Wisp) | 1.0.0 | Woosh AS | Build a wisp for Woosh: commands, cards, presses and a server's events over one… |
-| 2026-11-02 18:53:32 | [Woosh.Wisp.Hosting](https://www.nuget.org/packages/Woosh.Wisp.Hosting) | 1.0.0 | Woosh AS | Run a Woosh wisp in a .NET host: its line opens and closes with the host, its o… |
-| 2026-11-02 19:00:21 | [BenScr.NeuralNetworks](https://www.nuget.org/packages/BenScr.NeuralNetworks) | 1.0.0 | Ben Schneider | CPU dense neural networks with deterministic initialization, mini-batch gradien… |
-| 2026-11-02 19:04:38 | [BenScr.Console](https://www.nuget.org/packages/BenScr.Console) | 1.0.0 | Ben Schneider | C++20 terminal output, validated ANSI controls, redirected-stream handling and… |
-| 2026-11-02 19:05:41 | [Ozakboy.Ai.ClaudeCli](https://www.nuget.org/packages/Ozakboy.Ai.ClaudeCli) | 0.1.0 | ozakboy | Ozakboy.Ai.Abstractions 的本地實作:把已安裝的 Claude Code CLI 當作子行程執行(claude --print --ou… |
-| 2026-11-02 19:10:38 | [BenScr.Noise](https://www.nuget.org/packages/BenScr.Noise) | 1.0.0 | Ben Schneider | C++20 deterministic seeded 2D and 3D coherent value noise, normalized fractal c… |
-| 2026-11-02 19:14:28 | [BenScr.Serialization](https://www.nuget.org/packages/BenScr.Serialization) | 1.0.0 | Ben Schneider | Bounded JSON, XML and MessagePack serialization, typed conversion and authentic… |
+| 2026-11-02 19:22:58 | [BenScr.Random](https://www.nuget.org/packages/BenScr.Random) | 1.0.0 | Ben Schneider | Versioned deterministic random streams, rejection-based bounded sampling, shuff… |
+| 2026-11-02 19:23:23 | [BenScr.Pathfinding](https://www.nuget.org/packages/BenScr.Pathfinding) | 1.0.0 | Ben Schneider | C++20 weighted grid A* and Dijkstra pathfinding, exact integer costs, configura… |
+| 2026-11-02 19:23:55 | [ConfigurationResolver](https://www.nuget.org/packages/ConfigurationResolver) | 0.9.1 | Torin Blair | Resolves ${key} items in text and UTF-8 bytes from dictionary, environment-vari… |
+| 2026-11-02 19:23:56 | [ConfigurationResolver.Configuration](https://www.nuget.org/packages/ConfigurationResolver.Configuration) | 0.9.1 | Torin Blair | Microsoft.Extensions.Configuration support for ConfigurationResolver: a value p… |
+| 2026-11-02 19:25:44 | [BenScr.Passwords](https://www.nuget.org/packages/BenScr.Passwords) | 1.0.0 | Ben Schneider | Cryptographic password generation, bounded Argon2id hashing and password heuris… |
+| 2026-11-02 19:40:12 | [CodeExplorer.Analysis](https://www.nuget.org/packages/CodeExplorer.Analysis) | 1.68.0 | Slava Mikhailov | CodeExplorer SDK library (CodeExplorer.Analysis) — polyglot AST, code ontology… |
+| 2026-11-02 19:40:38 | [BenScr.Spatial](https://www.nuget.org/packages/BenScr.Spatial) | 1.0.0 | Ben Schneider | C++20 owning spatial point index with stable caller IDs, mutation, deterministi… |
+| 2026-11-02 19:41:15 | [BenScr.Units](https://www.nuget.org/packages/BenScr.Units) | 1.0.0 | Ben Schneider | Dimension-checked affine and enum-based unit conversions with explicit temperat… |
+| 2026-11-02 19:41:39 | [BenScr.Names](https://www.nuget.org/packages/BenScr.Names) | 1.0.0 | Ben Schneider | Seeded name generation, immutable custom name catalogs and invariant casing wit… |
+| 2026-11-02 19:45:57 | [BenScr.Caching](https://www.nuget.org/packages/BenScr.Caching) | 1.0.0 | Ben Schneider | Bounded thread-safe LRU cache with optional per-entry expiration, monotonic Tim… |
+| 2026-11-02 19:46:17 | [BenScr.Statistics](https://www.nuget.org/packages/BenScr.Statistics) | 1.0.0 | Ben Schneider | Descriptive statistics, Type-7 quantiles, compensated means and mergeable onlin… |
+| 2026-11-02 19:46:35 | [BenScr.Signals](https://www.nuget.org/packages/BenScr.Signals) | 1.0.0 | Ben Schneider | C++20 header-only synchronous signals and slots with scoped RAII connections, o… |
+| 2026-11-02 19:51:29 | [EFCorePaging.Cursor](https://www.nuget.org/packages/EFCorePaging.Cursor) | 1.0.0 | EFCorePaging.Cursor | Package Description |
+| 2026-11-02 19:51:30 | [EFCorePaging.Offset](https://www.nuget.org/packages/EFCorePaging.Offset) | 1.0.0 | EFCorePaging.Offset | Offset pagination relies on numerical page offsets. The client requests a speci… |
+| 2026-11-02 19:52:57 | [BenScr.Graphs](https://www.nuget.org/packages/BenScr.Graphs) | 1.0.0 | Ben Schneider | Immutable directed graphs with deterministic breadth/depth-first traversal, top… |
+| 2026-11-02 19:53:22 | [Themis.Inference.Remote.Http](https://www.nuget.org/packages/Themis.Inference.Remote.Http) | 4.1.0 | Themis contributors | Configurable HTTP transport for remote Themis decision inference providers. |
+| 2026-11-02 19:53:23 | [Themis.Inference.Remote.Jev](https://www.nuget.org/packages/Themis.Inference.Remote.Jev) | 4.1.0 | Themis contributors | Optional Jev System One decision inference adapter using Themis' shared HTTP tr… |
+| 2026-11-02 19:54:33 | [BenScr.Scheduling](https://www.nuget.org/packages/BenScr.Scheduling) | 1.0.0 | Ben Schneider | Pure UTC interval and time-zone calendar schedules with explicit horizons, week… |
+| 2026-11-02 19:56:14 | [Iciclecreek.Azure.Storage.OData](https://www.nuget.org/packages/Iciclecreek.Azure.Storage.OData) | 2.0.4 | Tom Laird-McConnell | OData filter support for Azure Table Storage: evaluates the OData v3 $filter sy… |
+| 2026-11-02 19:57:09 | [FsDiff](https://www.nuget.org/packages/FsDiff) | 1.0.0-beta1 | Atılım Güneş Baydin,Barak A.… | FsDiff is an automatic differentiation (AD) library.AD allows exact and efficie… |
+| 2026-11-02 19:59:13 | [RobloxCS.Templates](https://www.nuget.org/packages/RobloxCS.Templates) | 0.1.0 | Texyc | dotnet new templates for roblox-cs: roblox-cs-game, a Roblox game in C# with th… |
+| 2026-11-02 19:59:14 | [RobloxCS.Build](https://www.nuget.org/packages/RobloxCS.Build) | 0.1.0 | Texyc | Transpiles a roblox-cs game project to Roblox Luau on dotnet build: MSBuild tar… |
+| 2026-11-02 19:59:15 | [RobloxCS.Transpiler](https://www.nuget.org/packages/RobloxCS.Transpiler) | 0.1.0 | Texyc | The roblox-cs transpiler as a library: C# source to Roblox Luau, with Rojo and… |
+| 2026-11-02 19:59:16 | [roblox-cs](https://www.nuget.org/packages/roblox-cs) | 0.1.0 | Texyc | Transpiles C# to Roblox Luau. Command-line tool: roblox-cs <project.csproj> --o… |
+| 2026-11-02 19:59:17 | [RobloxCS.Roblox](https://www.nuget.org/packages/RobloxCS.Roblox) | 0.1.0 | Texyc | C# declarations of the Roblox API (Instances, data types, enums, globals) for g… |
+| 2026-11-02 20:00:11 | [VCWpfControls](https://www.nuget.org/packages/VCWpfControls) | 0.1.0 | Vibe Coded WPF Controls contr… | Free and open-source WPF controls. Stage 1: a fast, MVVM-friendly GridControl w… |
+| 2026-11-02 20:03:32 | [DevInteg.DropboxSign](https://www.nuget.org/packages/DevInteg.DropboxSign) | 0.1.0 | DevInteg Consulting | A thin Dropbox Sign client for embedded signing over plain HTTP, no vendor SDK:… |
+| 2026-11-02 20:08:09 | [ColorPickerUI](https://www.nuget.org/packages/ColorPickerUI) | 0.1.0 | Maxim Storozhenko | A customizable WPF color picker control with HSV, RGB, HEX and preset color pal… |
+| 2026-11-02 20:13:39 | [Atc.Aspire.Hosting.Azure.IoTEdge](https://www.nuget.org/packages/Atc.Aspire.Hosting.Azure.IoTEdge) | 1.1.0 | atc-net | An Aspire hosting integration for running Azure IoT Edge modules locally agains… |
 
 ## Data source
 
