@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-02T22:32:32.047Z,CodeMap.Tool,0.2.1,CodeMap contributors,"Maps C# solutions (and TypeScript / JavaScript, with Node.js) into a relationship graph (JSON, DGML, GraphML, Cypher) and an interactive 3D map."
+2026-11-02T22:47:01.907Z,ShortDev.BluePrint,0.1.0-alpha,ShortDevelopment,Compiler for the GTK blueprint markup language
+2026-11-02T22:57:02.89Z,Mediana.Codecs.Jpeg,0.1.14,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-02T23:06:02.217Z,Reimaginate.Orchestrator.Exchange,1.1.13,Reimaginate,Read-only Exchange Online mailbox workflow actions for Reimaginate Orchestrator.
