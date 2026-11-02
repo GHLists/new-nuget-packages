@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-02T16:21:15.76Z,IT.Tangdao.Wpf,1.0.0,liuxin,Package Description
+2026-11-02T16:46:52.227Z,LogicBuilder.App.Maui.Business,1.0.1,BlaiseD,Consolidates MAUI flow metadata structures into a shared library.
+2026-11-02T16:53:03.52Z,Hateoas.AspNetCore.OpenApi,2.2.0,Yahya Erdogan,"Microsoft.AspNetCore.OpenApi support for Hateoas: documents HAL ""_links"" as written (a map of links by relation plus ""curies"") instead of the empty object the schema generator sees through the custom converter."
+2026-11-02T17:03:44.527Z,LogicBuilder.App.Maui.Utils,1.0.1,BlaiseD,Consolidates MAUI flow functions into a shared library.
+2026-11-02T17:12:20.987Z,VS_Builder.WinUI3Controls,1.0.6,Microsoft,"A highly customizable WinUI 3 custom button component that enables structural path routing for Windows files and directories. Supports dynamic style configurations including custom hover/click backgrounds, text coloring, and corner parameters via dependency properties without modifying the control…"
+2026-11-02T17:12:34.91Z,Shirasagi0012.SmoothScroll.Avalonia,12.0.0.1,SmoothScroll.Avalonia.Controls,"A fork adding features needed for Material3Expressive.Avalonia; Scrolling, panning and zooming smoothly in Avalonia"
+2026-11-02T17:12:49.17Z,Shirasagi0012.SmoothScroll.Avalonia.Interaction,12.0.0.1,SmoothScroll.Avalonia.Interaction,A fork adding features needed for Material3Expressive.Avalonia; InteractionTracker implementation for Avalonia

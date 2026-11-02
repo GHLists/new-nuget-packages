@@ -12,22 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 16:20 UTC
+## Latest list — 2026-11-02 17:22 UTC
 
-New packages created between 2026-11-02 15:18 UTC and 2026-11-02 16:20 UTC.
+New packages created between 2026-11-02 16:20 UTC and 2026-11-02 17:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T16-20-46-330053Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T17-22-04-822689Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 15:21:37 | [EsUtil.Ui.AvaloniaUI.ColorSelector](https://www.nuget.org/packages/EsUtil.Ui.AvaloniaUI.ColorSelector) | 0.4.0 | tomokuni | Avalonia UI の色選択コントロール（色名の解決・入力の検証・不透明度の編集）。 |
-| 2026-11-02 15:21:41 | [EsUtil.Ui.MewUI.ColorSelector](https://www.nuget.org/packages/EsUtil.Ui.MewUI.ColorSelector) | 0.4.0 | tomokuni | MewUI の色選択コントロール（色名の一覧・入力の検証・カラーピッカー）。 |
-| 2026-11-02 15:21:49 | [EsUtil.Ui.WinUI3.ColorSelector](https://www.nuget.org/packages/EsUtil.Ui.WinUI3.ColorSelector) | 0.4.0 | tomokuni | 色選択の WinUI 3 版コントロール。 |
-| 2026-11-02 15:26:53 | [FIAP.TechChallenge.Billing.Application.Messaging](https://www.nuget.org/packages/FIAP.TechChallenge.Billing.Application.Messaging) | 0.1.0 | FIAP.TechChallenge.Billing.Ap… | Package Description |
-| 2026-11-02 15:32:02 | [Telerik.UI.for.Blazor.DatAInsightsComposer](https://www.nuget.org/packages/Telerik.UI.for.Blazor.DatAInsightsComposer) | 15.2.0 | Progress Software Corporation | Telerik UI for Blazor DatAInsightsComposer provides AI-powered dynamic generati… |
-| 2026-11-02 15:32:50 | [TimerWheel](https://www.nuget.org/packages/TimerWheel) | 0.1.0 | Mark Hammond | A caller-driven hashed timing wheel for .NET, allocation-free once warm: O(1) c… |
-| 2026-11-02 15:42:04 | [Aegirax.Integration](https://www.nuget.org/packages/Aegirax.Integration) | 0.1.0 | Aegirax | Integración de APIs con Aegirax: roles en OpenAPI (x-required-roles), versión d… |
-| 2026-11-02 15:47:03 | [ITBees.Recordings](https://www.nuget.org/packages/ITBees.Recordings) | 8.0.4 | ITBees | Continuous camera recording on Linux devices with MediaMTX: installs and superv… |
+| 2026-11-02 16:21:15 | [IT.Tangdao.Wpf](https://www.nuget.org/packages/IT.Tangdao.Wpf) | 1.0.0 | liuxin | Package Description |
+| 2026-11-02 16:46:52 | [LogicBuilder.App.Maui.Business](https://www.nuget.org/packages/LogicBuilder.App.Maui.Business) | 1.0.1 | BlaiseD | Consolidates MAUI flow metadata structures into a shared library. |
+| 2026-11-02 16:53:03 | [Hateoas.AspNetCore.OpenApi](https://www.nuget.org/packages/Hateoas.AspNetCore.OpenApi) | 2.2.0 | Yahya Erdogan | Microsoft.AspNetCore.OpenApi support for Hateoas: documents HAL "_links" as wri… |
+| 2026-11-02 17:03:44 | [LogicBuilder.App.Maui.Utils](https://www.nuget.org/packages/LogicBuilder.App.Maui.Utils) | 1.0.1 | BlaiseD | Consolidates MAUI flow functions into a shared library. |
+| 2026-11-02 17:12:20 | [VS_Builder.WinUI3Controls](https://www.nuget.org/packages/VS_Builder.WinUI3Controls) | 1.0.6 | Microsoft | A highly customizable WinUI 3 custom button component that enables structural p… |
+| 2026-11-02 17:12:34 | [Shirasagi0012.SmoothScroll.Avalonia](https://www.nuget.org/packages/Shirasagi0012.SmoothScroll.Avalonia) | 12.0.0.1 | SmoothScroll.Avalonia.Controls | A fork adding features needed for Material3Expressive.Avalonia; Scrolling, pann… |
+| 2026-11-02 17:12:49 | [Shirasagi0012.SmoothScroll.Avalonia.Interaction](https://www.nuget.org/packages/Shirasagi0012.SmoothScroll.Avalonia.Interaction) | 12.0.0.1 | SmoothScroll.Avalonia.Interac… | A fork adding features needed for Material3Expressive.Avalonia; InteractionTrac… |
 
 ## Data source
 
