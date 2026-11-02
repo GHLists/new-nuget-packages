@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-11-02T09:29:07.66Z,Frontmatec.Windows.Brands.Kais,3.1.0,Frontmatec,"The KAIS brand for Frontmatec.Windows: KAIS themes (Light, Dark), palette, controls and the Inter font."
+2026-11-02T09:29:08.747Z,Frontmatec.Windows.Controls.Markdown,3.1.0,Frontmatec,MarkdownViewer for Frontmatec.Windows: shows Markdown (GitHub flavoured) in the theme and brand look.
+2026-11-02T09:29:09.86Z,Frontmatec.Windows.Styles.AvalonEdit,3.1.0,Frontmatec,AvalonEdit for Frontmatec.Windows: a TextEditor style and syntax colours that follow the theme and brand.
+2026-11-02T09:39:10.227Z,Lunate.Contracts,1.15.0,Lunate.Contracts,"The message and tool contract every Lunate extension and host shares: ITool, ToolContext and ToolResult, the complete AgentEvent hierarchy and the decision request/result types. The host loads this assembly once and every extension binds to that copy, so a copy an extension ships is ignored at load."
+2026-11-02T09:39:11.003Z,Lunate.Extensibility.Abstractions,1.15.0,Lunate.Extensibility.Abstractions,"The extension contract of Lunate: IExtension, IExtensionFactory, the hook catalogue, workspace and settings surfaces and ExtensionApi — the version number an extension's apiVersion is judged against at load. The host loads this assembly once and every extension binds to that copy, so a copy an exte…"
+2026-11-02T09:43:53.047Z,AppWeaver.DomainAbstraction,1.0.0,Team AppWeaver,"Domain-Driven Design (DDD) domain abstraction contracts, aggregate roots, entities, and value objects for the AppWeaver framework."
+2026-11-02T09:45:05.98Z,DungAT.WorkflowEngine.EntityFrameworkCore,1.0.1,David Au,Entity Framework Core persistence for the DungAT workflow engine.
+2026-11-02T09:45:06.917Z,DungAT.WorkflowEngine.Dashboard,1.0.1,David Au,"Embedded web dashboard for the DungAT workflow engine: monitor instances, run commands and edit workflow definitions."
+2026-11-02T09:45:07.687Z,DungAT.WorkflowEngine,1.0.1,David Au,"Workflow (state machine) engine with fluent builder, validation and in-memory stores."
+2026-11-02T09:45:08.483Z,DungAT.WorkflowEngine.Abstractions,1.0.1,David Au,"Models, interfaces and results for the DungAT workflow engine."
+2026-11-02T09:50:05.913Z,Anarchon.Nats,0.6.0,Aristotelis,"NATS JetStream backend for Anarchon, on NATS.Net: JetStream message de-duplication decides which instance runs each time, and the Lease strategy adds backup runners, retries, catch-up and no overlapping runs through a key-value bucket."
+2026-11-02T09:50:06.59Z,Anarchon.Sqlite,0.6.0,Aristotelis,"SQLite backend for Anarchon, on Microsoft.Data.Sqlite: one BEGIN IMMEDIATE transaction claims each run, with backup runners, retries, catch-up and no overlapping runs, for the processes of one machine that open the same file."
+2026-11-02T09:50:07.207Z,Anarchon.Redis,0.6.0,Aristotelis,"Redis and Valkey backend for Anarchon, on StackExchange.Redis: one atomic Lua script or XADD claims each run; the default Lease strategy adds backup runners, retries, catch-up and no overlapping runs."
+2026-11-02T09:50:07.83Z,Anarchon,0.6.0,Aristotelis,"Leaderless cron and interval scheduling for .NET services, coordinated through your existing datastore. An atomic claim selects one runner per attempt; with a lease backend another instance retries a run whose runner failed."
+2026-11-02T09:50:08.52Z,Anarchon.Postgres,0.6.0,Aristotelis,"PostgreSQL backend for Anarchon, on Npgsql: one short transaction claims each run, with backup runners, retries, catch-up and no overlapping runs. Leases run on the database's clock."
+2026-11-02T09:50:09.223Z,Anarchon.Sql,0.6.0,Aristotelis,"The SQL lease store shared by Anarchon's SQL backends (Anarchon.Postgres, Anarchon.Sqlite), on ADO.NET: one short transaction claims each run, leases run on the database's clock. Reference it directly only to put Anarchon on another database."
+2026-11-02T09:50:09.887Z,Anarchon.RabbitMQ,0.6.0,Aristotelis,"RabbitMQ backend for Anarchon, on RabbitMQ.Client: a gate queue per run that holds one message, with publisher confirms, decides which instance runs each time. Claim only: no leases."
+2026-11-02T09:55:07.737Z,HMCoding,1.10.0,Hossein Mahabadi,Package Description
+2026-11-02T09:55:54.51Z,HMDateTimeExtension,1.10.0,Hossein Mahabadi,Package Description
+2026-11-02T09:56:40.97Z,HMExceptions,1.10.1,Hossein Mahabadi,Package Description
+2026-11-02T10:01:19.43Z,Webority.SettingsGuard,0.1.2,Webority.SettingsGuard,"Starts each deployed .NET head up to the point before it serves, with only its committed settings files, and names every App Setting its start-up validation still needs that .webority/infra/deployables.json does not list."
+2026-11-02T10:09:57.84Z,HMModelBase,1.10.0,Hossein Mahabadi,Package Description
+2026-11-02T10:15:32.457Z,DataMagic.LiteDatabase,9.0.0,Linh Nguyen,Package Description
