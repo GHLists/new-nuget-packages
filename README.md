@@ -12,37 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 10:21 UTC
+## Latest list — 2026-11-02 11:20 UTC
 
-New packages created between 2026-11-02 09:21 UTC and 2026-11-02 10:21 UTC.
+New packages created between 2026-11-02 10:21 UTC and 2026-11-02 11:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T10-21-37-191419Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T11-20-01-525842Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 09:29:07 | [Frontmatec.Windows.Brands.Kais](https://www.nuget.org/packages/Frontmatec.Windows.Brands.Kais) | 3.1.0 | Frontmatec | The KAIS brand for Frontmatec.Windows: KAIS themes (Light, Dark), palette, cont… |
-| 2026-11-02 09:29:08 | [Frontmatec.Windows.Controls.Markdown](https://www.nuget.org/packages/Frontmatec.Windows.Controls.Markdown) | 3.1.0 | Frontmatec | MarkdownViewer for Frontmatec.Windows: shows Markdown (GitHub flavoured) in the… |
-| 2026-11-02 09:29:09 | [Frontmatec.Windows.Styles.AvalonEdit](https://www.nuget.org/packages/Frontmatec.Windows.Styles.AvalonEdit) | 3.1.0 | Frontmatec | AvalonEdit for Frontmatec.Windows: a TextEditor style and syntax colours that f… |
-| 2026-11-02 09:39:10 | [Lunate.Contracts](https://www.nuget.org/packages/Lunate.Contracts) | 1.15.0 | Lunate.Contracts | The message and tool contract every Lunate extension and host shares: ITool, To… |
-| 2026-11-02 09:39:11 | [Lunate.Extensibility.Abstractions](https://www.nuget.org/packages/Lunate.Extensibility.Abstractions) | 1.15.0 | Lunate.Extensibility.Abstract… | The extension contract of Lunate: IExtension, IExtensionFactory, the hook catal… |
-| 2026-11-02 09:43:53 | [AppWeaver.DomainAbstraction](https://www.nuget.org/packages/AppWeaver.DomainAbstraction) | 1.0.0 | Team AppWeaver | Domain-Driven Design (DDD) domain abstraction contracts, aggregate roots, entit… |
-| 2026-11-02 09:45:05 | [DungAT.WorkflowEngine.EntityFrameworkCore](https://www.nuget.org/packages/DungAT.WorkflowEngine.EntityFrameworkCore) | 1.0.1 | David Au | Entity Framework Core persistence for the DungAT workflow engine. |
-| 2026-11-02 09:45:06 | [DungAT.WorkflowEngine.Dashboard](https://www.nuget.org/packages/DungAT.WorkflowEngine.Dashboard) | 1.0.1 | David Au | Embedded web dashboard for the DungAT workflow engine: monitor instances, run c… |
-| 2026-11-02 09:45:07 | [DungAT.WorkflowEngine](https://www.nuget.org/packages/DungAT.WorkflowEngine) | 1.0.1 | David Au | Workflow (state machine) engine with fluent builder, validation and in-memory s… |
-| 2026-11-02 09:45:08 | [DungAT.WorkflowEngine.Abstractions](https://www.nuget.org/packages/DungAT.WorkflowEngine.Abstractions) | 1.0.1 | David Au | Models, interfaces and results for the DungAT workflow engine. |
-| 2026-11-02 09:50:05 | [Anarchon.Nats](https://www.nuget.org/packages/Anarchon.Nats) | 0.6.0 | Aristotelis | NATS JetStream backend for Anarchon, on NATS.Net: JetStream message de-duplicat… |
-| 2026-11-02 09:50:06 | [Anarchon.Sqlite](https://www.nuget.org/packages/Anarchon.Sqlite) | 0.6.0 | Aristotelis | SQLite backend for Anarchon, on Microsoft.Data.Sqlite: one BEGIN IMMEDIATE tran… |
-| 2026-11-02 09:50:07 | [Anarchon.Redis](https://www.nuget.org/packages/Anarchon.Redis) | 0.6.0 | Aristotelis | Redis and Valkey backend for Anarchon, on StackExchange.Redis: one atomic Lua s… |
-| 2026-11-02 09:50:07 | [Anarchon](https://www.nuget.org/packages/Anarchon) | 0.6.0 | Aristotelis | Leaderless cron and interval scheduling for .NET services, coordinated through… |
-| 2026-11-02 09:50:08 | [Anarchon.Postgres](https://www.nuget.org/packages/Anarchon.Postgres) | 0.6.0 | Aristotelis | PostgreSQL backend for Anarchon, on Npgsql: one short transaction claims each r… |
-| 2026-11-02 09:50:09 | [Anarchon.Sql](https://www.nuget.org/packages/Anarchon.Sql) | 0.6.0 | Aristotelis | The SQL lease store shared by Anarchon's SQL backends (Anarchon.Postgres, Anarc… |
-| 2026-11-02 09:50:09 | [Anarchon.RabbitMQ](https://www.nuget.org/packages/Anarchon.RabbitMQ) | 0.6.0 | Aristotelis | RabbitMQ backend for Anarchon, on RabbitMQ.Client: a gate queue per run that ho… |
-| 2026-11-02 09:55:07 | [HMCoding](https://www.nuget.org/packages/HMCoding) | 1.10.0 | Hossein Mahabadi | Package Description |
-| 2026-11-02 09:55:54 | [HMDateTimeExtension](https://www.nuget.org/packages/HMDateTimeExtension) | 1.10.0 | Hossein Mahabadi | Package Description |
-| 2026-11-02 09:56:40 | [HMExceptions](https://www.nuget.org/packages/HMExceptions) | 1.10.1 | Hossein Mahabadi | Package Description |
-| 2026-11-02 10:01:19 | [Webority.SettingsGuard](https://www.nuget.org/packages/Webority.SettingsGuard) | 0.1.2 | Webority.SettingsGuard | Starts each deployed .NET head up to the point before it serves, with only its… |
-| 2026-11-02 10:09:57 | [HMModelBase](https://www.nuget.org/packages/HMModelBase) | 1.10.0 | Hossein Mahabadi | Package Description |
-| 2026-11-02 10:15:32 | [DataMagic.LiteDatabase](https://www.nuget.org/packages/DataMagic.LiteDatabase) | 9.0.0 | Linh Nguyen | Package Description |
+| 2026-11-02 10:26:50 | [HMUnitOfWork](https://www.nuget.org/packages/HMUnitOfWork) | 1.10.2 | Hossein Mahabadi | Package Description |
+| 2026-11-02 10:35:58 | [AsuTrack.LocalQueue.PostgreSql](https://www.nuget.org/packages/AsuTrack.LocalQueue.PostgreSql) | 2.1.2 | Viktor Pobochniy | PostgreSQL storage for the AsuTrack.LocalQueue command queue |
+| 2026-11-02 10:35:59 | [AsuTrack.LocalQueue.MySql](https://www.nuget.org/packages/AsuTrack.LocalQueue.MySql) | 2.1.2 | Viktor Pobochniy | MySQL storage for the AsuTrack.LocalQueue command queue |
+| 2026-11-02 10:35:59 | [AsuTrack.LocalQueue](https://www.nuget.org/packages/AsuTrack.LocalQueue) | 2.1.2 | Viktor Pobochniy | Local command queue: enqueue commands in the same database transaction as your… |
+| 2026-11-02 10:36:00 | [AsuTrack.LocalQueue.OpenTelemetry](https://www.nuget.org/packages/AsuTrack.LocalQueue.OpenTelemetry) | 2.1.2 | Viktor Pobochniy | OpenTelemetry metrics registration for the AsuTrack.LocalQueue command queue |
+| 2026-11-02 10:38:07 | [LexiSharp.Onnx](https://www.nuget.org/packages/LexiSharp.Onnx) | 0.9.0 | manu | ONNX Runtime plumbing for LexiSharp: a dense text encoder implementing IEmbeddi… |
+| 2026-11-02 10:38:08 | [LexiSharp.Cli](https://www.nuget.org/packages/LexiSharp.Cli) | 0.9.0 | manu | Command-line tool for LexiSharp: index a directory into a persistent segment st… |
+| 2026-11-02 10:39:16 | [GenHTTP.Modules.Mcp](https://www.nuget.org/packages/GenHTTP.Modules.Mcp) | 11.2.0 | Andreas Nägeli | Provides tools to AI agents such as Claude via the Model Context Protocol (MCP) |
+| 2026-11-02 10:51:38 | [Recapi](https://www.nuget.org/packages/Recapi) | 0.1.1 | recapi | C# client for the recapi recommendation API: per-user history, event batching,… |
+| 2026-11-02 10:52:34 | [LoomEditor.Core](https://www.nuget.org/packages/LoomEditor.Core) | 0.3.0 | LoomEditor contributors | Platform-independent text model of LoomEditor (a native port of the Monaco edit… |
+| 2026-11-02 10:52:35 | [LoomEditor.TextMate](https://www.nuget.org/packages/LoomEditor.TextMate) | 0.3.0 | LoomEditor contributors | TextMate grammar tokenizer for LoomEditor (port of vscode-textmate), backed by… |
+| 2026-11-02 10:52:35 | [LoomEditor.Themes](https://www.nuget.org/packages/LoomEditor.Themes) | 0.3.0 | LoomEditor contributors | Color themes for LoomEditor, compatible with VS Code themes. |
+| 2026-11-02 10:52:36 | [LoomEditor.View](https://www.nuget.org/packages/LoomEditor.View) | 0.3.0 | LoomEditor contributors | Editor logic of LoomEditor (cursors, commands, layout, features), independent o… |
+| 2026-11-02 10:52:37 | [LoomEditor.Rendering](https://www.nuget.org/packages/LoomEditor.Rendering) | 0.3.0 | LoomEditor contributors | Rendering of LoomEditor with Win2D (Direct2D / DirectWrite). |
+| 2026-11-02 10:52:38 | [LoomEditor.WinUI](https://www.nuget.org/packages/LoomEditor.WinUI) | 0.3.0 | LoomEditor contributors | LoomEditor: a native, Native AOT-compatible code editor control for WinUI 3, po… |
+| 2026-11-02 11:04:26 | [Pgmq](https://www.nuget.org/packages/Pgmq) | 1.0.0 | Filip Bekić | Strongly typed publishing over PGMQ queues in PostgreSQL: fan-out to subscribed… |
+| 2026-11-02 11:04:27 | [Pgmq.Hosting](https://www.nuget.org/packages/Pgmq.Hosting) | 1.0.0 | Filip Bekić | Consumers for Pgmq.NET on the .NET Generic Host: dependency injection, a backgr… |
+| 2026-11-02 11:12:52 | [Clarity.Ui](https://www.nuget.org/packages/Clarity.Ui) | 0.70.0 | Peter van de Pas | Clarity.UI for C#: the UI framework of applications generated by Clarity. It dr… |
 
 ## Data source
 
