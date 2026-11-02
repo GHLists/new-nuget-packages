@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-02T07:23:47.87Z,Egami.Video.Hevc,1.2.0,Lars Dytterud,"HEVC (H.265) decoding for Egami.Video, in managed code: Main, Main 10, Main 12 and the format range extensions to 12 bits, in MP4, MOV, Matroska and raw .h265 files, through Egami.Heic's HEVC decoder. HEVC is covered by patents; Egami's authors grant no patent rights and are not lawyers. Whether yo…"
+2026-11-02T07:26:42.5Z,ConventionAssertions.AspNetCore,0.18.0,Niklas Wendel,Package Description
+2026-11-02T07:41:17.273Z,XyloCode.EFCore.Extensions,1.0.0,xylocode,"An EF Core extension library for high-performance bulk data synchronization using SQL MERGE, supporting both IEnumerable<T> and IAsyncEnumerable<T> data sources. The library is optimized for working with DevExpress XAF system fields (GCRecord, OptimisticLockField), as well as custom versioning and…"
+2026-11-02T07:55:46.213Z,RT.MesWeb.DataProviders,1.2.0,JacoryWang,Database providers and sequence abstraction for mes system
+2026-11-02T08:01:39.79Z,GroveGames.Scheduling,0.1.1,Grove Games,"Zero-allocation delayed callbacks with scaled, unscaled and realtime clocks for .NET and Unity"
+2026-11-02T08:08:05.88Z,apcsm,3.0.0,"higashitaniyume, ClassicByte",CesiumLoader CLI tool (apcsm) for Astral Party mod development and packaging.
