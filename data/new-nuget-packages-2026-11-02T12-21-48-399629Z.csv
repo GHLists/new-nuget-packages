@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-02T11:35:16.29Z,DubUrl.Authentication.Snowflake,0.56.0,Cédric L. Charlier,Snowflake native authorization-code/PKCE sessions for DubUrl.
+2026-11-02T11:35:17.57Z,DubUrl.Authentication.SqlServer,0.56.0,Cédric L. Charlier,Native SqlClient token authentication and optional Microsoft Entra adapters for DubUrl.
+2026-11-02T11:35:41.07Z,DubUrl.ProviderTesting,0.56.0,Cédric L. Charlier,Reusable live provider QA contracts for DubUrl provider modules.
+2026-11-02T11:38:29.163Z,PackageTerms,0.1.1,Paul Thomas,"Finds NuGet dependencies whose terms changed: packages that went commercial or added a maintenance fee (Polly, MediatR, AutoMapper, MassTransit, FluentAssertions…). Shows whether you're affected, the last free version and free alternatives."
+2026-11-02T11:40:26.043Z,Pug.Sqetch.Deployment.Cli,0.1.0,Pug,Sqetch deploy: bundle Sqetch projects and deploy the bundles to a database through pluggable database drivers.
+2026-11-02T11:47:59.373Z,Lspiguel.Xrm.D365AgentCompanionMcp,1.2026.10.1,Luciano Spiguel,"XrmToolBox plugin that exposes a local Model Context Protocol (MCP) endpoint over XrmToolBox connections, so a coding agent such as GitHub Copilot, Cursor or Claude Code can discover components and shape small, segmented work-in-progress solutions - the operations PAC CLI cannot perform. Every call…"
+2026-11-02T12:00:41.163Z,Skymly.DotNetMcp,5.0.0,Skymly,"MCP server for .NET symbol analysis, XAML, source-generator attribution, and restricted workspace edit (stdio)."
+2026-11-02T12:01:42.37Z,Tai.FileManagement.Provider.FileSystem,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:43.27Z,Tai.FileManagement.Application.Contracts,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:44.067Z,Tai.FileManagement.Domain.Shared,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:44.737Z,Tai.FileManagement.Domain,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:45.643Z,Tai.FileManagement.HttpApi.Client,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:46.307Z,Tai.FileManagement.EntityFrameworkCore,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:46.923Z,Tai.FileManagement.HttpApi,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:47.55Z,Tai.FileManagement.Application,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:01:48.34Z,Tai.FileManagement.Provider.Aliyun,0.0.1,Tai,Reusable ABP business attachment and file lifecycle management
+2026-11-02T12:05:26.413Z,Pug.Sqetch.Cli,0.1.0,Pug,Sqetch: author database schema changes as plans and group them into releases.
