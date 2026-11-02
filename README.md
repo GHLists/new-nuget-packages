@@ -12,25 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 04:20 UTC
+## Latest list — 2026-11-02 05:18 UTC
 
-New packages created between 2026-11-02 03:20 UTC and 2026-11-02 04:20 UTC.
+New packages created between 2026-11-02 04:20 UTC and 2026-11-02 05:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T04-20-16-357262Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T05-18-58-080276Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 03:38:18 | [PiSharp.CustomAgents](https://www.nuget.org/packages/PiSharp.CustomAgents) | 1.2.0.2 | PiSharp contributors | EXPERIMENTAL. Custom agents for PiSharp on the durable harness: typed workflows… |
-| 2026-11-02 03:38:22 | [PiSharp.CustomAgents.JavaScript](https://www.nuget.org/packages/PiSharp.CustomAgents.JavaScript) | 1.2.0.2 | PiSharp contributors | EXPERIMENTAL. JavaScript tools and workflow actions for PiSharp.CustomAgents, i… |
-| 2026-11-02 03:38:30 | [PiSharp.CustomAgents.Scripting](https://www.nuget.org/packages/PiSharp.CustomAgents.Scripting) | 1.2.0.2 | PiSharp contributors | EXPERIMENTAL. C# script tools and workflow actions for PiSharp.CustomAgents, co… |
-| 2026-11-02 03:39:07 | [victor-wiki.HuggingFaceHubSharp](https://www.nuget.org/packages/victor-wiki.HuggingFaceHubSharp) | 1.0.0 | victor-wiki | C# implementation of HuggingfaceHub. |
-| 2026-11-02 03:45:06 | [Foldable.Maui](https://www.nuget.org/packages/Foldable.Maui) | 1.0.1 | Quoc Thao | Modern .NET MAUI library for detecting foldable device posture, hinge angle, an… |
-| 2026-11-02 04:02:06 | [IPCalci](https://www.nuget.org/packages/IPCalci) | 0.1.0-beta | Kasali | High-performance .NET library for calculating and parsing IPv4 and IPv6 subnets… |
-| 2026-11-02 04:09:47 | [FauxGraph.Datastore.MsGraph](https://www.nuget.org/packages/FauxGraph.Datastore.MsGraph) | 0.1.0 | J. Burnett | File-based datastore for native Microsoft Graph responses, used as test data. |
-| 2026-11-02 04:09:48 | [FauxGraph.Datastore.Abstractions](https://www.nuget.org/packages/FauxGraph.Datastore.Abstractions) | 0.1.0 | J. Burnett | Shared abstractions, tenant facade and file engine for the FauxGraph graph data… |
-| 2026-11-02 04:09:48 | [FauxGraph.Datastore.AzGraph](https://www.nuget.org/packages/FauxGraph.Datastore.AzGraph) | 0.1.0 | J. Burnett | File-based datastore for native Azure Resource Graph responses, used as test da… |
-| 2026-11-02 04:11:44 | [Fulcrum](https://www.nuget.org/packages/Fulcrum) | 1.0.0 | Fulcrum contributors | Turn System One model answers into committed outcomes: typed questions, first-m… |
-| 2026-11-02 04:13:34 | [EASYTools.CoreAdmin](https://www.nuget.org/packages/EASYTools.CoreAdmin) | 4.0.0 | Libor Svoboda | Automagically add an Admin Panel to your .NET 6 web app. |
+| 2026-11-02 04:37:31 | [ClientPipe](https://www.nuget.org/packages/ClientPipe) | 1.0.0 | Luigi Llerena | Librería ligera para registrar clientes HTTP tipados con SocketsHttpHandler opt… |
+| 2026-11-02 04:47:30 | [Kernova.Data.Sqlite](https://www.nuget.org/packages/Kernova.Data.Sqlite) | 1.0.0 | D3xSh | Acesso simples ao SQLite para aplicações .NET utilizando Dapper. |
+| 2026-11-02 04:49:19 | [Softbetamx.Rfid](https://www.nuget.org/packages/Softbetamx.Rfid) | 0.1.0 | Carlos Betancourt / SOFTBETAMX | One async .NET API for UHF RFID readers: Focus (EX10/"Moduletech" protocol, Imp… |
+| 2026-11-02 04:52:39 | [OpenUI.Lang.Core](https://www.nuget.org/packages/OpenUI.Lang.Core) | 1.0.0 | Dale Francis | OpenUI Lang for .NET: parser, streaming, evaluation, edit merge and system prom… |
+| 2026-11-02 04:52:40 | [OpenUI.Lang.AspNetCore](https://www.nuget.org/packages/OpenUI.Lang.AspNetCore) | 1.0.0 | Dale Francis | The ASP.NET Core endpoint for the stock OpenUI react-ui chat. Streams any Micro… |
+| 2026-11-02 04:58:13 | [FulcrumCore.Jev](https://www.nuget.org/packages/FulcrumCore.Jev) | 0.2.0 | Fulcrum contributors | Fulcrum provider for the native Jev System One API (POST /v1/systemone). Experi… |
+| 2026-11-02 04:58:13 | [FulcrumCore.OpenAI](https://www.nuget.org/packages/FulcrumCore.OpenAI) | 0.2.0 | Fulcrum contributors | Fulcrum provider for any OpenAI-compatible chat completions endpoint (OpenAI, O… |
+| 2026-11-02 04:58:14 | [FulcrumCore](https://www.nuget.org/packages/FulcrumCore) | 0.2.0 | Fulcrum contributors | Turn System One model answers into committed outcomes: typed questions, first-m… |
+| 2026-11-02 05:03:22 | [ResponseResultHandler.AspNetCore.OpenApi](https://www.nuget.org/packages/ResponseResultHandler.AspNetCore.OpenApi) | 16.3.0 | Yahya Erdogan | Microsoft.AspNetCore.OpenApi integration for ResponseResultHandler: documents t… |
+| 2026-11-02 05:12:12 | [Webority.Social.Sourcing](https://www.nuget.org/packages/Webority.Social.Sourcing) | 0.8.0 | Webority Technologies | Finds and picks what a brand's voices post about, for products on Webority.Soci… |
+| 2026-11-02 05:12:14 | [Webority.Social.Cards](https://www.nuget.org/packages/Webority.Social.Cards) | 0.8.0 | Webority Technologies | Branded image cards for the drafts a product reviews on Webority.Social.Content… |
 
 ## Data source
 
