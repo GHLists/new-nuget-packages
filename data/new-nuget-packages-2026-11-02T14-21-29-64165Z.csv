@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-02T13:24:09.67Z,AppWeaver.EventBus,1.0.0,Team AppWeaver,Event Bus contracts and abstractions for AppWeaver framework.
+2026-11-02T13:24:10.83Z,PCHMI.Core,0.0.0,GreatBear,PCHMI工控组态控件，支持Modbus‑TCP、SIEMENS S7、KEYENCE HOSTLINK、PANASONIC MEWTOCOL、MITSUBISHI MC、OPC Ua、MQTT、BECKHOFF ADS、CODESYS V3、AB LogixE/IP、OMRON FINS E/IP等多种PLC通信协议，快速搭建上位机HMI画面。实时数据采集JSON、EXCEL、SQLITE、MYSQL、POSTGRESQL、SQLSERVER等统一数据库操作接口
+2026-11-02T13:24:48.91Z,MiniStack.Testcontainers,1.0.0,Kacper Harabasz,"Community Testcontainers for .NET module for MiniStack, a free AWS emulator. Not affiliated with the Testcontainers project."
+2026-11-02T13:28:33.133Z,AppWeaver.EventBus.Default,1.0.0,Team AppWeaver,Default in-memory implementation of AppWeaver Event Bus with automatic handler scanning and configurable lifetimes.
+2026-11-02T13:38:20.733Z,Crumpled.AgentSpecs,1.0.0,Crumpled Dog,"See what AI agents see for every Umbraco page: an Agent Specs view on each content item that requests the front-end URL with Accept: text/markdown (Cloudflare Markdown for Agents) and shows the markdown preview, source and JSON-LD."
+2026-11-02T13:43:51.133Z,Spyglass.Agent.Avalonia11,0.1.1,Spyglass contributors,Package Description
+2026-11-02T13:43:53.623Z,Spyglass.win-x64,0.1.1,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T13:52:12.443Z,AvaloniaUI.Parcel.Sparkle.Runtime,2.10.1,AvaloniaUI OÜ,Sparkle 2.10.1 framework and .NET bindings for macOS app updates. Works with apps bundled by AvaloniaUI Parcel and with .NET for macOS apps.
+2026-11-02T13:54:34.323Z,StrongTypes.EntityFrameworkCore,2.0.0-rc2,Russell Wilkins,Automatic Entity Framework Core value conversions for StrongTypes.
+2026-11-02T14:00:33.03Z,TKCode.Spyglass.Agent,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:35.297Z,TKCode.Spyglass.win-x64,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:00:39.187Z,TKCode.Spyglass.win-arm64,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:00:39.937Z,TKCode.Spyglass.Protocol,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:41.23Z,TKCode.Spyglass.linux-arm64,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:00:41.867Z,TKCode.Spyglass.Agent.Advanced,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:43.74Z,TKCode.Spyglass.osx-arm64,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:00:44.28Z,TKCode.Spyglass.Mcp,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:46.273Z,TKCode.Spyglass.osx-x64,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:00:46.917Z,TKCode.Spyglass.StartupHook,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:49.233Z,TKCode.Spyglass.linux-x64,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:00:50.12Z,TKCode.Spyglass.App.Core,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:50.93Z,TKCode.Spyglass.Agent.Avalonia11,0.1.2,Spyglass contributors,Package Description
+2026-11-02T14:00:51.533Z,TKCode.Spyglass.HotReload,0.1.2,Spyglass contributors,"XAML hot reload for Avalonia apps debugged with Spyglass: edit .axaml in any editor (or unsaved in VS Code, Rider, Visual Studio) and the running app updates in place."
+2026-11-02T14:00:52.087Z,TKCode.Spyglass,0.1.2,Spyglass contributors,Open-source debugging tool for Avalonia apps (like browser DevTools) with a free MCP server for AI coding agents.
+2026-11-02T14:05:06.907Z,UMBFY.Umbraco.Shared,1.0.0,"krishparmar,UMBFY","Shared abstractions, licensing entitlements SDK, and package-registry contracts for independently installable UMBFY Umbraco packages. Package-specific logic does not belong here."
+2026-11-02T14:06:09.567Z,Nethermind.Libp2p.Protocols.Mplex,1.1.1,Nethermind,A libp2p implementation for .NET
+2026-11-02T14:12:26.227Z,ROOT.Etcd.Configuration,1.0.0,ROOT.Etcd.Configuration,Package Description
