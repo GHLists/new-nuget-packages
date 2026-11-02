@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-02T06:20:53.78Z,FS.GG.Algorithms,0.1.0,FS-GG,"Shared algorithms for FS.GG: a frozen-order binary and indexed heap, Q16.16 fixed point, nearest-rank percentiles, general best-first search (Dijkstra, A*), iterative Tarjan SCC, union-find, priority-band arbitration and the xoshiro128** generator. FSharp.Core only; every module compiles under Fabl…"
+2026-11-02T06:31:10.007Z,Sachssoft.Sasogine.Controls,0.13.0-alpha,Tobias Sachs,"UI controls and layout infrastructure for the Sasogine game engine, including styling, input handling, data binding, and visual components."
+2026-11-02T06:56:30.53Z,Soenneker.Docusign.OpenApiClientUtil,11.0.2,Jake Soenneker,A thread-safe utility for obtaining Docusign's OpenApiClient singleton.
+2026-11-02T07:08:38.973Z,Caveman.IAWebCrawler,0.1.0,Francesco Paolo Passaro,"Web crawler for .NET 10 that downloads a complete website and produces three combinable outputs: JSON (extracted information), Markdown snapshot (AI/LLM-ready, with RAG corpus, llms.txt and imported teaser pages) and a raw file archive (html, js, css, images, fonts, pdf, docx, csv...) with locally…"
