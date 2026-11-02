@@ -12,20 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 08:20 UTC
+## Latest list — 2026-11-02 09:21 UTC
 
-New packages created between 2026-11-02 07:20 UTC and 2026-11-02 08:20 UTC.
+New packages created between 2026-11-02 08:20 UTC and 2026-11-02 09:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T08-20-58-683649Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T09-21-42-196664Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 07:23:47 | [Egami.Video.Hevc](https://www.nuget.org/packages/Egami.Video.Hevc) | 1.2.0 | Lars Dytterud | HEVC (H.265) decoding for Egami.Video, in managed code: Main, Main 10, Main 12… |
-| 2026-11-02 07:26:42 | [ConventionAssertions.AspNetCore](https://www.nuget.org/packages/ConventionAssertions.AspNetCore) | 0.18.0 | Niklas Wendel | Package Description |
-| 2026-11-02 07:41:17 | [XyloCode.EFCore.Extensions](https://www.nuget.org/packages/XyloCode.EFCore.Extensions) | 1.0.0 | xylocode | An EF Core extension library for high-performance bulk data synchronization usi… |
-| 2026-11-02 07:55:46 | [RT.MesWeb.DataProviders](https://www.nuget.org/packages/RT.MesWeb.DataProviders) | 1.2.0 | JacoryWang | Database providers and sequence abstraction for mes system |
-| 2026-11-02 08:01:39 | [GroveGames.Scheduling](https://www.nuget.org/packages/GroveGames.Scheduling) | 0.1.1 | Grove Games | Zero-allocation delayed callbacks with scaled, unscaled and realtime clocks for… |
-| 2026-11-02 08:08:05 | [apcsm](https://www.nuget.org/packages/apcsm) | 3.0.0 | higashitaniyume, ClassicByte | CesiumLoader CLI tool (apcsm) for Astral Party mod development and packaging. |
+| 2026-11-02 08:23:52 | [Kokhan.DriveTrack.Domain](https://www.nuget.org/packages/Kokhan.DriveTrack.Domain) | 1.0.0 | Anatolii Kokhan | Domain model of the DriveTrack delivery tracking system. |
+| 2026-11-02 08:33:58 | [Pycom.Graph](https://www.nuget.org/packages/Pycom.Graph) | 0.1.0 | Pycom | Domain-side client for projecting business objects into the Pycom Neo4j graph. |
+| 2026-11-02 08:34:36 | [Components.Blazor](https://www.nuget.org/packages/Components.Blazor) | 1.0.0 | machi_pon | Components for Blazor application |
+| 2026-11-02 08:55:55 | [unitofwork.hm](https://www.nuget.org/packages/unitofwork.hm) | 1.10.0 | UnitOfWork | Package Description |
+| 2026-11-02 08:57:22 | [ModelBase.hm](https://www.nuget.org/packages/ModelBase.hm) | 1.10.0 | ModelsBase | Package Description |
+| 2026-11-02 09:06:24 | [keyseal](https://www.nuget.org/packages/keyseal) | 0.1.0 | keyseal | Encrypt and decrypt files for a recipient using P-256 and AES-256-GCM. |
 
 ## Data source
 

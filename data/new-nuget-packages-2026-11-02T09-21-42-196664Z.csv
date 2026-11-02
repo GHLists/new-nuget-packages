@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-02T08:23:52.127Z,Kokhan.DriveTrack.Domain,1.0.0,Anatolii Kokhan,Domain model of the DriveTrack delivery tracking system.
+2026-11-02T08:33:58.24Z,Pycom.Graph,0.1.0,Pycom,Domain-side client for projecting business objects into the Pycom Neo4j graph.
+2026-11-02T08:34:36.533Z,Components.Blazor,1.0.0,machi_pon,Components for Blazor application
+2026-11-02T08:55:55.36Z,unitofwork.hm,1.10.0,UnitOfWork,Package Description
+2026-11-02T08:57:22.34Z,ModelBase.hm,1.10.0,ModelsBase,Package Description
+2026-11-02T09:06:24.743Z,keyseal,0.1.0,keyseal,Encrypt and decrypt files for a recipient using P-256 and AES-256-GCM.
