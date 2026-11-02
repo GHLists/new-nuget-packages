@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-01T23:25:04.01Z,Scotec.Revit.Analyzers,2027.4.1,scotec Software Solutions AB,Roslyn analyzers for Scotec.Revit.
+2026-11-01T23:25:04.577Z,Scotec.Revit.Isolation.SourceGenerator,2027.4.1,scotec Software Solutions AB,Source generator to support assembly load context in Revit add-ins.
+2026-11-01T23:29:40.53Z,Beardmouse.Scriptorium.Nib.Snapshot,0.4.0,Maxime Mangel,Package Description
+2026-11-01T23:59:06.617Z,Markwardt.LiveAi,1.0.0,Chris Markwardt,"Runs live AI coding sessions on the Claude Code, OpenAI Codex and OpenCode (for local models) command line tools. A session is created from a PromptProvider over an engine (ClaudeEngine, CodexEngine, OpenCodeEngine or your own), an optional workspace folder and an optional API key, is identified by…"
