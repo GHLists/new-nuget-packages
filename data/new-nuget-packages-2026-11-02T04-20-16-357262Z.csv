@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-02T03:38:18.57Z,PiSharp.CustomAgents,1.2.0.2,PiSharp contributors,"EXPERIMENTAL. Custom agents for PiSharp on the durable harness: typed workflows over one shared data class, agent teams with subagents and messaging, typed and dynamic tools, plugin DLLs and web search. The API may change in any release; opt in by suppressing PISHARP_AGENTS001 and PISHARP_DURABLE00…"
+2026-11-02T03:38:22.147Z,PiSharp.CustomAgents.JavaScript,1.2.0.2,PiSharp contributors,"EXPERIMENTAL. JavaScript tools and workflow actions for PiSharp.CustomAgents, in PiSharp.Codemode's Jint sandbox, with durable code mode for scripts that call tools. The API may change in any release; opt in by suppressing PISHARP_AGENTS001 and PISHARP_DURABLE001."
+2026-11-02T03:38:30.04Z,PiSharp.CustomAgents.Scripting,1.2.0.2,PiSharp contributors,"EXPERIMENTAL. C# script tools and workflow actions for PiSharp.CustomAgents, compiled with Roslyn into collectible load contexts. Scripts run with full trust. The API may change in any release; opt in by suppressing PISHARP_AGENTS001 and PISHARP_DURABLE001."
+2026-11-02T03:39:07.303Z,victor-wiki.HuggingFaceHubSharp,1.0.0,victor-wiki,C# implementation of HuggingfaceHub.
+2026-11-02T03:45:06.623Z,Foldable.Maui,1.0.1,Quoc Thao,"Modern .NET MAUI library for detecting foldable device posture, hinge angle, and rendering responsive split layouts."
+2026-11-02T04:02:06.39Z,IPCalci,0.1.0-beta,Kasali,"High-performance .NET library for calculating and parsing IPv4 and IPv6 subnets, network addresses, usable host ranges, and CIDR notations."
+2026-11-02T04:09:47.687Z,FauxGraph.Datastore.MsGraph,0.1.0,J. Burnett,"File-based datastore for native Microsoft Graph responses, used as test data."
+2026-11-02T04:09:48.24Z,FauxGraph.Datastore.Abstractions,0.1.0,J. Burnett,"Shared abstractions, tenant facade and file engine for the FauxGraph graph datastores."
+2026-11-02T04:09:48.63Z,FauxGraph.Datastore.AzGraph,0.1.0,J. Burnett,"File-based datastore for native Azure Resource Graph responses, used as test data."
+2026-11-02T04:11:44.393Z,Fulcrum,1.0.0,Fulcrum contributors,"Turn System One model answers into committed outcomes: typed questions, first-match rules, enum outcomes, outcome handlers and Explain(). Provider-neutral, AOT-compatible."
+2026-11-02T04:13:34.907Z,EASYTools.CoreAdmin,4.0.0,Libor Svoboda,Automagically add an Admin Panel to your .NET 6 web app.
