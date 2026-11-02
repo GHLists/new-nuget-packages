@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-02T05:21:15.24Z,victor-wiki.TransformersSharp,1.0.0,victor-wiki,C# implementation of huggingface-transformers.
+2026-11-02T05:24:01.59Z,Raven.LocalAI.Agent.Console.Template,1.0.0,Raven,A dotnet new template for a LocalAI-backed Microsoft Agent Framework console application.
+2026-11-02T05:27:34.71Z,Webority.Social.Azure,0.9.0,Webority Technologies,Azure Key Vault secret store and Azure Blob media for the Webority social library.
+2026-11-02T05:28:25.287Z,Johnwikix.ScottPlot.Avalonia,5.1.60.3,Scott Harden,User controls for displaying interactive plots in Avalonia applications
+2026-11-02T05:28:30.86Z,Johnwikix.ScottPlot.Avalonia.D3D12,5.1.60.3,ScottPlot contributors,Optional hardware D3D12 full-Figure backend for the cross-platform AvaPlot control.
+2026-11-02T05:46:45.42Z,QinSoft.LtpaToken,1.0.0,QinSoft.LtpaToken,Package Description
+2026-11-02T05:58:30.35Z,Soenneker.Incident.OpenApiClientUtil,11.0.2,Jake Soenneker,A thread-safe utility for obtaining Incident's OpenApiClient singleton.
+2026-11-02T06:02:23.61Z,XingGui.QingNiao.Log,1.0.1,XingGui,星轨所至，数据有痕。“蓬山此去无多路，青鸟殷勤为探看”，QingNiao取意于此。在星轨的宇宙里，数据是散落的星辰，而QingNiao是那只穿梭于星辰之间的信使。它从设备底层出发，掠过协议解析的崇山峻岭，穿越网络通信的云海雾涛，将传感器采集到的每一个字节、每一条指令，精准而温柔地送达目的地。蓬山不远，青鸟可至。数据所及之处，皆有回响。
+2026-11-02T06:04:11.18Z,UmbracoPrism.MobileBundle,7.1.0,Jonny Muir,"A dotnet tool that generates a Prism mobile app bundle (Capacitor iOS and Android projects) from command-line settings, for building a Prism site's app in CI."
