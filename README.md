@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 00:19 UTC
+## Latest list — 2026-11-02 01:19 UTC
 
-New packages created between 2026-11-01 23:20 UTC and 2026-11-02 00:19 UTC.
+New packages created between 2026-11-02 00:19 UTC and 2026-11-02 01:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T00-19-31-43701Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T01-19-29-25378Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-01 23:25:04 | [Scotec.Revit.Analyzers](https://www.nuget.org/packages/Scotec.Revit.Analyzers) | 2027.4.1 | scotec Software Solutions AB | Roslyn analyzers for Scotec.Revit. |
-| 2026-11-01 23:25:04 | [Scotec.Revit.Isolation.SourceGenerator](https://www.nuget.org/packages/Scotec.Revit.Isolation.SourceGenerator) | 2027.4.1 | scotec Software Solutions AB | Source generator to support assembly load context in Revit add-ins. |
-| 2026-11-01 23:29:40 | [Beardmouse.Scriptorium.Nib.Snapshot](https://www.nuget.org/packages/Beardmouse.Scriptorium.Nib.Snapshot) | 0.4.0 | Maxime Mangel | Package Description |
-| 2026-11-01 23:59:06 | [Markwardt.LiveAi](https://www.nuget.org/packages/Markwardt.LiveAi) | 1.0.0 | Chris Markwardt | Runs live AI coding sessions on the Claude Code, OpenAI Codex and OpenCode (for… |
+| 2026-11-02 00:51:13 | [Moka.AI.McpServer](https://www.nuget.org/packages/Moka.AI.McpServer) | 0.6.0 | jacobwi, BCat, Moka | Host an MCP server from Moka.AI — expose the tools registered in AiChatOptions.… |
+| 2026-11-02 00:58:30 | [Scotec.Smtp.Service.Test](https://www.nuget.org/packages/Scotec.Smtp.Service.Test) | 2.0.1 | Scotec.Smtp.Service.Test | Package Description |
+| 2026-11-02 01:08:26 | [Ai.Tlbx.VoiceAssistant.Telnyx](https://www.nuget.org/packages/Ai.Tlbx.VoiceAssistant.Telnyx) | 11.7.3 | TLBX | Telnyx REST provisioning, call control, signed ASP.NET Core webhooks and bidire… |
 
 ## Data source
 

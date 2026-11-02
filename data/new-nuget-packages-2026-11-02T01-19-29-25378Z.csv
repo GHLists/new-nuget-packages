@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-02T00:51:13.463Z,Moka.AI.McpServer,0.6.0,"jacobwi, BCat, Moka","Host an MCP server from Moka.AI — expose the tools registered in AiChatOptions.Tools to external MCP clients (Claude Desktop, editors, other AI apps) over stdio or any official transport."
+2026-11-02T00:58:30.52Z,Scotec.Smtp.Service.Test,2.0.1,Scotec.Smtp.Service.Test,Package Description
+2026-11-02T01:08:26.667Z,Ai.Tlbx.VoiceAssistant.Telnyx,11.7.3,TLBX,"Telnyx REST provisioning, call control, signed ASP.NET Core webhooks and bidirectional telephone audio for VoiceAssistant."
