@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:19 UTC
+## Latest list — 2026-11-02 02:18 UTC
 
-New packages created between 2026-11-02 00:19 UTC and 2026-11-02 01:19 UTC.
+New packages created between 2026-11-02 01:19 UTC and 2026-11-02 02:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-02T01-19-29-25378Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-02T02-18-55-388767Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-02 00:51:13 | [Moka.AI.McpServer](https://www.nuget.org/packages/Moka.AI.McpServer) | 0.6.0 | jacobwi, BCat, Moka | Host an MCP server from Moka.AI — expose the tools registered in AiChatOptions.… |
-| 2026-11-02 00:58:30 | [Scotec.Smtp.Service.Test](https://www.nuget.org/packages/Scotec.Smtp.Service.Test) | 2.0.1 | Scotec.Smtp.Service.Test | Package Description |
-| 2026-11-02 01:08:26 | [Ai.Tlbx.VoiceAssistant.Telnyx](https://www.nuget.org/packages/Ai.Tlbx.VoiceAssistant.Telnyx) | 11.7.3 | TLBX | Telnyx REST provisioning, call control, signed ASP.NET Core webhooks and bidire… |
+| 2026-11-02 01:46:49 | [Gsharp.NET.Sdk.Compiler.linux-x64](https://www.nuget.org/packages/Gsharp.NET.Sdk.Compiler.linux-x64) | 0.5.460-g21e3f30fa3 | David Obando | ReadyToRun G# compiler for linux-x64. Gsharp.NET.Sdk restores it with PackageDo… |
+| 2026-11-02 01:46:50 | [Gsharp.NET.Sdk.Compiler.linux-arm64](https://www.nuget.org/packages/Gsharp.NET.Sdk.Compiler.linux-arm64) | 0.5.460-g21e3f30fa3 | David Obando | ReadyToRun G# compiler for linux-arm64. Gsharp.NET.Sdk restores it with Package… |
+| 2026-11-02 01:46:51 | [Gsharp.NET.Sdk.Compiler.win-x64](https://www.nuget.org/packages/Gsharp.NET.Sdk.Compiler.win-x64) | 0.5.460-g21e3f30fa3 | David Obando | ReadyToRun G# compiler for win-x64. Gsharp.NET.Sdk restores it with PackageDown… |
+| 2026-11-02 01:46:52 | [Gsharp.NET.Sdk.Compiler.win-arm64](https://www.nuget.org/packages/Gsharp.NET.Sdk.Compiler.win-arm64) | 0.5.460-g21e3f30fa3 | David Obando | ReadyToRun G# compiler for win-arm64. Gsharp.NET.Sdk restores it with PackageDo… |
+| 2026-11-02 01:46:54 | [Gsharp.NET.Sdk.Compiler.osx-x64](https://www.nuget.org/packages/Gsharp.NET.Sdk.Compiler.osx-x64) | 0.5.460-g21e3f30fa3 | David Obando | ReadyToRun G# compiler for osx-x64. Gsharp.NET.Sdk restores it with PackageDown… |
+| 2026-11-02 01:46:55 | [Gsharp.NET.Sdk.Compiler.osx-arm64](https://www.nuget.org/packages/Gsharp.NET.Sdk.Compiler.osx-arm64) | 0.5.460-g21e3f30fa3 | David Obando | ReadyToRun G# compiler for osx-arm64. Gsharp.NET.Sdk restores it with PackageDo… |
+| 2026-11-02 01:51:58 | [Trevol](https://www.nuget.org/packages/Trevol) | 0.1.0 | Joshua Montclair (Trevol) | SDK de .NET para la API de Trevol (facturación electrónica y demás documentos a… |
+| 2026-11-02 01:57:45 | [GoSaveTool](https://www.nuget.org/packages/GoSaveTool) | 1.0.0 | GoSaveTool | Parse, convert, shift and repair SRT and WebVTT subtitles; word, character and… |
 
 ## Data source
 

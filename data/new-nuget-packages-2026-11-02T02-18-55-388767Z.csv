@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-02T01:46:49.05Z,Gsharp.NET.Sdk.Compiler.linux-x64,0.5.460-g21e3f30fa3,David Obando,"ReadyToRun G# compiler for linux-x64. Gsharp.NET.Sdk restores it with PackageDownload. Reference the SDK, not this package."
+2026-11-02T01:46:50.37Z,Gsharp.NET.Sdk.Compiler.linux-arm64,0.5.460-g21e3f30fa3,David Obando,"ReadyToRun G# compiler for linux-arm64. Gsharp.NET.Sdk restores it with PackageDownload. Reference the SDK, not this package."
+2026-11-02T01:46:51.743Z,Gsharp.NET.Sdk.Compiler.win-x64,0.5.460-g21e3f30fa3,David Obando,"ReadyToRun G# compiler for win-x64. Gsharp.NET.Sdk restores it with PackageDownload. Reference the SDK, not this package."
+2026-11-02T01:46:52.98Z,Gsharp.NET.Sdk.Compiler.win-arm64,0.5.460-g21e3f30fa3,David Obando,"ReadyToRun G# compiler for win-arm64. Gsharp.NET.Sdk restores it with PackageDownload. Reference the SDK, not this package."
+2026-11-02T01:46:54.287Z,Gsharp.NET.Sdk.Compiler.osx-x64,0.5.460-g21e3f30fa3,David Obando,"ReadyToRun G# compiler for osx-x64. Gsharp.NET.Sdk restores it with PackageDownload. Reference the SDK, not this package."
+2026-11-02T01:46:55.357Z,Gsharp.NET.Sdk.Compiler.osx-arm64,0.5.460-g21e3f30fa3,David Obando,"ReadyToRun G# compiler for osx-arm64. Gsharp.NET.Sdk restores it with PackageDownload. Reference the SDK, not this package."
+2026-11-02T01:51:58.863Z,Trevol,0.1.0,Joshua Montclair (Trevol),"SDK de .NET para la API de Trevol (facturación electrónica y demás documentos ante la DIAN, Colombia)."
+2026-11-02T01:57:45.707Z,GoSaveTool,1.0.0,GoSaveTool,"Parse, convert, shift and repair SRT and WebVTT subtitles; word, character and reading-time counts, social media character limits, Title Case, slugs and other case changes. No dependencies."
