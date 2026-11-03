@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-03T21:25:01.75Z,DrawnUi.Net.Game,1.10.8.17,Nick Kovalsky aka AppoMobi and contributors,"Base class for implementing a game with SkiaSharp on DrawnUI for .NET, for hosts built on DrawnUi.Net"
+2026-11-03T21:45:17.863Z,AffirmSDK.DotNet,1.0.0,Raghav Santhapur,".NET bindings for Affirm's iOS and Android SDKs, built and maintained by Raghav Santhapur. Targets net10.0-ios (wraps AffirmSDK.xcframework, built from Affirm's official SDK at github.com/Affirm/affirm-merchant-sdk-ios, with arm64 simulator support) and net10.0-android (wraps Affirm's official affi…"
+2026-11-03T21:50:06.303Z,VeloxDev.Cli,11.0.0,Axvser,"Headless VeloxDev workflow host and stdio MCP server: load an archive and its component assemblies, inspect and edit the graph through the library's own commands, compile, execute and save."
+2026-11-03T21:52:10.913Z,ShieldySdk,1.0.2,Shieldy,".NET client for Shieldy's native runtime: licensing, remote variables, files and Protected Strings."
+2026-11-03T22:04:53.347Z,Paging.Common,1.0.3,Paging.Common,"Provides shared core contracts, models, and abstractions for pagination, dynamic multi-condition filtering, sorting rules, etc."
+2026-11-03T22:13:53.86Z,Mule.DurableActions.Redis,2.3.2,Elysium Coding,"Redis-backed authoritative durable storage for Mule actions, retries, cancellation, replay, cleanup, and multi-replica recovery."
