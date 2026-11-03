@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-03T19:24:33.827Z,PrivateMarkets.Metrics,0.4.0,Nicolas,"Performance metrics for private equity and private markets funds: TVPI, DPI, RVPI, PIC, MOIC, XIRR, PME (Long-Nickels, PME+, Kaplan-Schoar, mPME), Direct Alpha, vintage aggregation and J-curves. Zero dependencies."
+2026-11-03T19:24:34.523Z,PrivateMarkets.Metrics.Mcp,0.4.0,Nicolas,"MCP server exposing PrivateMarkets.Metrics (fund metrics, PME, vintage summaries, J-curves) to AI agents over stdio."
+2026-11-03T19:34:30.747Z,Bakverk.Blazor,1.0.2,Ola Bäcker,Common Blazor components and utilities built on MudBlazor
+2026-11-03T19:50:21.143Z,Badger.SqlMigrate,0.1.0,"Lone Badger Tech, LLC","Badger SQL Migrate: free, cross-platform, hash-certified database migrations for SQL Server and Azure SQL, with real up and down, named changes, environments, Entra ID and Always Encrypted."
+2026-11-03T19:50:32.617Z,Eternet.Imports.Contracts,1.0.0,Eternet.Imports.Contracts,Package Description
+2026-11-03T19:57:41.447Z,Indigina.DCM.BookingManager.WebApi,1.0.0,Indigina,Package contains web api for DCM.BookingManager service.
+2026-11-03T19:57:42.043Z,Indigina.DCM.BookingManager.Client,1.0.0,Indigina,Package contains client for DCM.BookingManager service.
+2026-11-03T20:09:43.14Z,TabBlazor.Linq2GraphQL,1.7.39-beta,Joakim Dangården,"Linq2GraphQL adapter for TabBlazor DataView: sorts, searches, filters and pages HotChocolate GraphQL APIs through generated Linq2GraphQL clients."
