@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-11-03T00:31:13.317Z,LtMsgPack.Data,2026.11.3.1,Louis Somers,"Rows of an ADO.NET data reader as MsgPack without a class in between (result sets and table dumps as LtMsgPack streams, with an index for files), dumps read back as a DbDataReader (e.g. for SqlBulkCopy), and rows into objects."
