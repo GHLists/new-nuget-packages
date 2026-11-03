@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-03T05:20:46.35Z,OfacMatch,0.1.0,Krunal Solanki,"Explainable OFAC sanctions name screening for .NET. Loads the official SDN list, scores names on OFAC's 0-100 scale using Jaro-Winkler and Soundex, and explains every match. Zero dependencies; runs on .NET Framework 4.7.2+ (tested on 4.8) and modern .NET."
+2026-11-03T05:20:47.21Z,OfacMatch.Mcp,0.1.0,Krunal Solanki,"MCP server for explainable OFAC sanctions name screening. Lets AI assistants screen names against the official SDN list, look up entries and explain scores, running locally with no API key."
+2026-11-03T05:25:46.85Z,Ruth.JYC.ModuleRegistration,2026.11.2,ruthlessafei,Package Description
+2026-11-03T05:41:58.08Z,PJSouzaSoftware.AircraftTrack,0.0.1,Pedro Jesus,Client for the adsb.lol v2 aircraft query API.
