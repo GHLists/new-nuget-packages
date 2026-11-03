@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 22:19 UTC
+## Latest list — 2026-11-03 23:20 UTC
 
-New packages created between 2026-11-03 21:20 UTC and 2026-11-03 22:19 UTC.
+New packages created between 2026-11-03 22:19 UTC and 2026-11-03 23:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-03T22-19-50-625947Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-03T23-20-37-159891Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-03 21:25:01 | [DrawnUi.Net.Game](https://www.nuget.org/packages/DrawnUi.Net.Game) | 1.10.8.17 | Nick Kovalsky aka AppoMobi an… | Base class for implementing a game with SkiaSharp on DrawnUI for .NET, for host… |
-| 2026-11-03 21:45:17 | [AffirmSDK.DotNet](https://www.nuget.org/packages/AffirmSDK.DotNet) | 1.0.0 | Raghav Santhapur | .NET bindings for Affirm's iOS and Android SDKs, built and maintained by Raghav… |
-| 2026-11-03 21:50:06 | [VeloxDev.Cli](https://www.nuget.org/packages/VeloxDev.Cli) | 11.0.0 | Axvser | Headless VeloxDev workflow host and stdio MCP server: load an archive and its c… |
-| 2026-11-03 21:52:10 | [ShieldySdk](https://www.nuget.org/packages/ShieldySdk) | 1.0.2 | Shieldy | .NET client for Shieldy's native runtime: licensing, remote variables, files an… |
-| 2026-11-03 22:04:53 | [Paging.Common](https://www.nuget.org/packages/Paging.Common) | 1.0.3 | Paging.Common | Provides shared core contracts, models, and abstractions for pagination, dynami… |
-| 2026-11-03 22:13:53 | [Mule.DurableActions.Redis](https://www.nuget.org/packages/Mule.DurableActions.Redis) | 2.3.2 | Elysium Coding | Redis-backed authoritative durable storage for Mule actions, retries, cancellat… |
+| 2026-11-03 22:24:29 | [DynaSharp](https://www.nuget.org/packages/DynaSharp) | 0.1.0 | DynaSharp | High-performance, Native AOT compatible DynamoDB client with a fluent API that… |
+| 2026-11-03 22:24:30 | [DynaSharp.Testing](https://www.nuget.org/packages/DynaSharp.Testing) | 0.1.0 | DynaSharp.Testing | Test support for DynaSharp: an in-memory fake DynamoDB behind an HTTP handler,… |
+| 2026-11-03 22:29:14 | [Google.Apis.DeviceRun.v1](https://www.nuget.org/packages/Google.Apis.DeviceRun.v1) | 1.78.0.4318 | Google LLC | Google APIs Client Library for working with Devicerun v1. Product documentation… |
+| 2026-11-03 22:33:00 | [Skaar.NoAuth](https://www.nuget.org/packages/Skaar.NoAuth) | 1.0.1 | Skaar | A fake OAuth2/OpenID Connect server to run locally. |
+| 2026-11-03 22:50:09 | [Dacke.DapperPaging.Offset](https://www.nuget.org/packages/Dacke.DapperPaging.Offset) | 1.0.4 | Dacke.DapperPaging.Offset | High-performance Dapper extension methods for offset-based pagination (Skip/Tak… |
+| 2026-11-03 22:50:10 | [Dacke.EFCorePaging.Cursor](https://www.nuget.org/packages/Dacke.EFCorePaging.Cursor) | 1.0.4 | Dacke.EFCorePaging.Cursor | Cursor pagination relies on unique record pointers rather than numerical offset… |
+| 2026-11-03 22:50:10 | [Dacke.EFCorePaging.Offset](https://www.nuget.org/packages/Dacke.EFCorePaging.Offset) | 1.0.4 | Dacke.EFCorePaging.Offset | Offset pagination relies on numerical page offsets. The client requests a speci… |
+| 2026-11-03 22:50:11 | [Dacke.Paging.Common](https://www.nuget.org/packages/Dacke.Paging.Common) | 1.0.4 | Dacke.Paging.Common | Provides shared core contracts, models, and abstractions for pagination, dynami… |
+| 2026-11-03 22:54:12 | [Quant.Infra.Net.Mcp](https://www.nuget.org/packages/Quant.Infra.Net.Mcp) | 1.6.0 | Rong (Rex) Fan | MCP server for natural-language backtesting with Claude / Copilot / any MCP cli… |
 
 ## Data source
 
