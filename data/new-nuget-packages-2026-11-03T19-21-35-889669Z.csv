@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-03T18:24:44.923Z,SanketDesk.Net8,1.0.0,Hitesh Bhanushali,"High-performance, pure Windows Forms desktop notification library, toast suite, and studio for .NET 8.0 Windows."
+2026-11-03T18:24:46.25Z,SanketDesk.NetFramework,1.0.0,Hitesh Bhanushali,"High-performance, pure Windows Forms desktop notification library, toast suite, and studio for .NET Framework 4.6.1."
+2026-11-03T18:24:59.213Z,SangamLink,1.0.0,Hitesh Bhanushali,Resilient exception-to-notification integration bridge connecting AvaranFlow alerting pipelines to SanketDesk desktop toasts.
+2026-11-03T18:26:09.597Z,GM.FileStorage.Encryption,2.0.0,Giorgi Metskhvarishvili,"Encryption at rest for GM.FileStorage: every file is encrypted with its own AES-256-GCM key (streamed in authenticated chunks), wrapped by a master key from configuration — e.g. supplied by GM.Secrets. Works on every provider (local disk, S3, Azure Blob), keeps ranged downloads, supports master-key…"
+2026-11-03T18:36:00.043Z,FaultSweep,0.1.1,Daniil Oleinic,Deterministic fault injection and state comparison for message handlers.
+2026-11-03T18:36:31.877Z,FaultSweep.Postgres,0.1.1,Daniil Oleinic,"Automatic Npgsql runtime instrumentation for FaultSweep, independent of connection creation."
+2026-11-03T18:41:18.633Z,FaultSweep.Kafka,0.1.1,Daniil Oleinic,In-memory Kafka producer capture and fault injection for FaultSweep.
+2026-11-03T18:41:31.79Z,FaultSweep.Mongo,0.1.1,Daniil Oleinic,FaultSweep message handler fault injection and recovery verification.
+2026-11-03T18:50:52.127Z,FaultSweep.Xunit,0.1.1,Daniil Oleinic,FaultSweep message handler fault injection and recovery verification.
+2026-11-03T18:54:30.03Z,TradeRouter.Net.Caching,2.9.0,Tyrone Omidi,"Caching for TradeRouter.Net road-route providers, stored through any IDistributedCache such as Redis, SQL Server or PostgreSQL, or through your own store."
+2026-11-03T18:55:43.903Z,Nullean.Snapshots.Images,0.2.0,Nullean and contributors,"PNG image snapshots for Nullean.Snapshots: decoded with its own PNG codec and compared pixel by pixel, perceptually and with anti-aliasing left out, so they pass on every machine."
+2026-11-03T18:58:59.733Z,ChromaFx.PixelArt,0.6.0,Ho Tzin Mein,"Pixel-art upscaling and rotation for ChromaFx. Scale2x/3x/4x/8x (EPX), Hq2x–4x, CleanEdge, Eagle/SaI, RotSprite RotateSprite, and CleanEdgeRotate."
+2026-11-03T18:59:00.84Z,ChromaFx,0.6.0,Ho Tzin Mein,"Modern, high-performance .NET image processing and drawing library. Supports PNG, JPEG, BMP, and GIF, with pipeline-friendly APIs. Targets .NET 10."
+2026-11-03T18:59:01.267Z,ChromaFx.Core,0.6.0,Ho Tzin Mein,"Core types, abstractions, and utilities for ChromaFx. Provides the foundational building blocks for image processing and drawing pipelines."
+2026-11-03T18:59:01.673Z,ChromaFx.Processing,0.6.0,Ho Tzin Mein,"Image processing algorithms and effects for ChromaFx. Includes transformations, filters, and pixel-level operations for high-performance image workflows."
+2026-11-03T18:59:02.077Z,ChromaFx.IO,0.6.0,Ho Tzin Mein,"Image file input/output support for ChromaFx. Load, save, and convert images in PNG, JPEG, BMP, and GIF formats."
+2026-11-03T19:06:30.133Z,PeachDrawing.Skia,0.9.26-preview1,PeachDrawing.Skia,"A SkiaSharp Canvas for PeachDrawing.Core - draw shapes, gradients, clips, layers, text and images with Skia, hardware accelerated when the surface you supply is, into a canvas you already have, with clickable links and no PDF, HTML or CSS involved."
+2026-11-03T19:06:46.543Z,GrpcSafety.Analyzers,0.1.0,Daniil Oleinic,"Roslyn diagnostics for gRPC deadlines, deadline propagation, retries, hedging, and declared idempotency. Preview: GRPC001 through GRPC004 emit diagnostics."
+2026-11-03T19:07:34.797Z,CodeFoxtrot.CloudLocal.Core,1.0.0,CodeFoxtrot,"Path, atomic file, and claim-folder primitives for CodeFoxtrot.CloudLocal."
+2026-11-03T19:07:52.87Z,CodeFoxtrot.CloudLocal.Blobs,1.0.0,CodeFoxtrot,"Filesystem blob containers, including append, for local development."
+2026-11-03T19:08:05.143Z,CodeFoxtrot.CloudLocal.Messaging,1.0.0,CodeFoxtrot,"Filesystem queues and topics with peek-lock, abandon, and dead-letter."
+2026-11-03T19:08:16.86Z,CodeFoxtrot.CloudLocal.Queues,1.0.0,CodeFoxtrot,Filesystem storage queues with visibility timeout and poison handling.
+2026-11-03T19:08:30.34Z,CodeFoxtrot.CloudLocal.Tables,1.0.0,CodeFoxtrot,Filesystem table storage for local development.
+2026-11-03T19:08:41.717Z,CodeFoxtrot.CloudLocal.Vault,1.0.0,CodeFoxtrot,"Filesystem secrets, RSA keys, and certificates for local development."
+2026-11-03T19:09:16.423Z,PeachBrackets.Android,0.9.26-preview1,PeachBrackets.Android,"A .NET for Android view that shows an HTML document laid out by PeachBrackets: touch scrolling, fling and pinch zoom, links, text selection and copy, and the CSS cursor, hover and touch-action behaviour the document asks for."
+2026-11-03T19:14:28.95Z,PeachBrackets.WinUI,0.9.26-preview1,PeachBrackets.WinUI,"A WinUI 3 control that shows an HTML document laid out by PeachBrackets: scrolling, zoom, links, text selection and copy, find, and the CSS cursor, hover and touch behaviour the document asks for."
+2026-11-03T19:15:46.593Z,RecursiveAI.OneMedia.Audio,1.0.0,"Recursive AI, LLC","Adapter between RecursiveAI.OneMedia and RecursiveAI.OneAudio: exposes audio tracks of any container OneMedia reads as OneAudio packet sources. Containers, metadata, subtitles; no decoding in the core package. Also makes files playable with Opus, AAC-LC or FLAC audio through OneAudio. Unaffiliated…"

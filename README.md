@@ -12,47 +12,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 18:20 UTC
+## Latest list — 2026-11-03 19:21 UTC
 
-New packages created between 2026-11-03 17:20 UTC and 2026-11-03 18:20 UTC.
+New packages created between 2026-11-03 18:20 UTC and 2026-11-03 19:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-03T18-20-21-996237Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-03T19-21-35-889669Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-03 17:20:36 | [Imontene.Wjson](https://www.nuget.org/packages/Imontene.Wjson) | 1.0.0 | imontene | .NET bindings for wjson: a strict, fast JSON parser for Windows with JSONC, JSO… |
-| 2026-11-03 17:30:47 | [Hintsmith](https://www.nuget.org/packages/Hintsmith) | 0.3.0 | Hintsmith contributors | Build-time Avalonia Skia hinting hooks with runtime Normal hinting control. |
-| 2026-11-03 17:30:59 | [RazorCodeFormatter](https://www.nuget.org/packages/RazorCodeFormatter) | 1.0.0 | RazorFormatter Contributors | Fast, deterministic, Prettier-grade code formatter for ASP.NET Core Razor (.csh… |
-| 2026-11-03 17:31:08 | [TinyClips](https://www.nuget.org/packages/TinyClips) | 0.1.0 | James Montemagno | Lets scripts and AI agents control the Tiny Clips screen capture app on macOS a… |
-| 2026-11-03 17:34:59 | [Calysto.GeckoView](https://www.nuget.org/packages/Calysto.GeckoView) | 1.0.1 | Calysto | Provided as-is, no warranty of any kind. |
-| 2026-11-03 17:37:40 | [Cratis.Choreography.Storage.Sql](https://www.nuget.org/packages/Cratis.Choreography.Storage.Sql) | 2.0.0 | Cratis | SQL storage provider (EF Core: SQL Server, PostgreSQL, SQLite) for the Cratis.C… |
-| 2026-11-03 17:37:41 | [Cratis.Choreography.Storage](https://www.nuget.org/packages/Cratis.Choreography.Storage) | 2.0.0 | Cratis | Storage API for the Cratis.Choreography job system - job and job step storage a… |
-| 2026-11-03 17:37:41 | [Cratis.Choreography.Chronicle](https://www.nuget.org/packages/Cratis.Choreography.Chronicle) | 2.0.0 | Cratis | Chronicle integration for Cratis Choreography - event-sourced state machines wh… |
-| 2026-11-03 17:37:42 | [Cratis.Choreography](https://www.nuget.org/packages/Cratis.Choreography) | 2.0.0 | Cratis | Runtime for durable business processes on Orleans - workflows, state machines,… |
-| 2026-11-03 17:37:42 | [Cratis.Choreography.Storage.MongoDB](https://www.nuget.org/packages/Cratis.Choreography.Storage.MongoDB) | 2.0.0 | Cratis | MongoDB storage provider for the Cratis.Choreography job system |
-| 2026-11-03 17:45:14 | [Nullean.Snapshots](https://www.nuget.org/packages/Nullean.Snapshots) | 0.1.0 | Nullean and contributors | Lightweight snapshot testing: the store, accept modes, scrubbers, the line diff… |
-| 2026-11-03 17:45:15 | [Nullean.Snapshots.AwesomeAssertions](https://www.nuget.org/packages/Nullean.Snapshots.AwesomeAssertions) | 0.1.0 | Nullean and contributors | Snapshot assertions for AwesomeAssertions: value.Should().MatchSnapshot(). |
-| 2026-11-03 17:45:16 | [Nullean.Snapshots.Cli.any](https://www.nuget.org/packages/Nullean.Snapshots.Cli.any) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:45:17 | [Nullean.Snapshots.Cli.linux-arm64](https://www.nuget.org/packages/Nullean.Snapshots.Cli.linux-arm64) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:45:18 | [Nullean.Snapshots.Cli.linux-x64](https://www.nuget.org/packages/Nullean.Snapshots.Cli.linux-x64) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:45:20 | [Nullean.Snapshots.Cli.osx-arm64](https://www.nuget.org/packages/Nullean.Snapshots.Cli.osx-arm64) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:45:21 | [Nullean.Snapshots.Cli.win-arm64](https://www.nuget.org/packages/Nullean.Snapshots.Cli.win-arm64) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:45:22 | [Nullean.Snapshots.Cli.win-x64](https://www.nuget.org/packages/Nullean.Snapshots.Cli.win-x64) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:45:23 | [Nullean.Snapshots.Html](https://www.nuget.org/packages/Nullean.Snapshots.Html) | 0.1.0 | Nullean and contributors | HTML snapshots and inline HTML assertions for Nullean.Snapshots: pretty-printed… |
-| 2026-11-03 17:45:24 | [Nullean.Snapshots.Json](https://www.nuget.org/packages/Nullean.Snapshots.Json) | 0.1.0 | Nullean and contributors | JSON snapshots and inline JSON assertions for Nullean.Snapshots, compared as tr… |
-| 2026-11-03 17:45:25 | [Nullean.Snapshots.TUnit](https://www.nuget.org/packages/Nullean.Snapshots.TUnit) | 0.1.0 | Nullean and contributors | TUnit test identity for Nullean.Snapshots: the runtime class, method and argume… |
-| 2026-11-03 17:45:26 | [Nullean.Snapshots.Yaml](https://www.nuget.org/packages/Nullean.Snapshots.Yaml) | 0.1.0 | Nullean and contributors | YAML snapshots and inline YAML assertions for Nullean.Snapshots: stored verbati… |
-| 2026-11-03 17:45:27 | [Nullean.Snapshots.Cli](https://www.nuget.org/packages/Nullean.Snapshots.Cli) | 0.1.0 | Nullean and contributors | List, diff, accept and reject pending snapshots from Nullean.Snapshots. Works o… |
-| 2026-11-03 17:48:54 | [Ably.PubSub.Core](https://www.nuget.org/packages/Ably.PubSub.Core) | 2.0.0 | Sachin Shinde, Martin Georgie… | Internal implementation package for Ably's own Ably.PubSub.Device and Ably.PubS… |
-| 2026-11-03 17:49:12 | [Ably.PubSub.Device](https://www.nuget.org/packages/Ably.PubSub.Device) | 2.0.0 | Sachin Shinde, Martin Georgie… | The supported entry point for Ably Pub/Sub in an end-user device application -… |
-| 2026-11-03 17:49:40 | [Ably.PubSub.Server](https://www.nuget.org/packages/Ably.PubSub.Server) | 2.0.0 | Sachin Shinde, Martin Georgie… | The supported entry point for Ably Pub/Sub in a server-side application - an AS… |
-| 2026-11-03 17:54:55 | [D365Tools.AuditManager](https://www.nuget.org/packages/D365Tools.AuditManager) | 1.2026.11.2 | Mustafa Ulus | Shows organization, table and column auditing for several Dataverse / Dynamics… |
-| 2026-11-03 18:01:57 | [Animaze.Client](https://www.nuget.org/packages/Animaze.Client) | 0.1.0-dev1 | Agash | .NET client for the Animaze API: avatars, scenes, emotes, poses, idle animation… |
-| 2026-11-03 18:01:58 | [Vmc.Client](https://www.nuget.org/packages/Vmc.Client) | 0.1.0-dev1 | Agash | .NET implementation of the VMC (Virtual Motion Capture) protocol over OSC: ever… |
-| 2026-11-03 18:01:58 | [Animaze.Client.DependencyInjection](https://www.nuget.org/packages/Animaze.Client.DependencyInjection) | 0.1.0-dev1 | Agash | DI extensions for Animaze.Client. Registers the client and its options in Micro… |
-| 2026-11-03 18:01:59 | [Warudo.Client](https://www.nuget.org/packages/Warudo.Client) | 0.1.0-dev1 | Agash | .NET client for the Warudo WebSocket API plugin: scene and entity access, data… |
-| 2026-11-03 18:05:51 | [D365Tools.TranslationManager](https://www.nuget.org/packages/D365Tools.TranslationManager) | 1.2026.11.2 | Mustafa Ulus | Lists the labels of tables, columns, choices (local and global, status, yes/no)… |
-| 2026-11-03 18:07:07 | [Spreedly.ComposerSdk.Server](https://www.nuget.org/packages/Spreedly.ComposerSdk.Server) | 1.0.0 | Spreedly | Server-side SDK for integrating Spreedly Composer into .NET applications |
+| 2026-11-03 18:24:44 | [SanketDesk.Net8](https://www.nuget.org/packages/SanketDesk.Net8) | 1.0.0 | Hitesh Bhanushali | High-performance, pure Windows Forms desktop notification library, toast suite,… |
+| 2026-11-03 18:24:46 | [SanketDesk.NetFramework](https://www.nuget.org/packages/SanketDesk.NetFramework) | 1.0.0 | Hitesh Bhanushali | High-performance, pure Windows Forms desktop notification library, toast suite,… |
+| 2026-11-03 18:24:59 | [SangamLink](https://www.nuget.org/packages/SangamLink) | 1.0.0 | Hitesh Bhanushali | Resilient exception-to-notification integration bridge connecting AvaranFlow al… |
+| 2026-11-03 18:26:09 | [GM.FileStorage.Encryption](https://www.nuget.org/packages/GM.FileStorage.Encryption) | 2.0.0 | Giorgi Metskhvarishvili | Encryption at rest for GM.FileStorage: every file is encrypted with its own AES… |
+| 2026-11-03 18:36:00 | [FaultSweep](https://www.nuget.org/packages/FaultSweep) | 0.1.1 | Daniil Oleinic | Deterministic fault injection and state comparison for message handlers. |
+| 2026-11-03 18:36:31 | [FaultSweep.Postgres](https://www.nuget.org/packages/FaultSweep.Postgres) | 0.1.1 | Daniil Oleinic | Automatic Npgsql runtime instrumentation for FaultSweep, independent of connect… |
+| 2026-11-03 18:41:18 | [FaultSweep.Kafka](https://www.nuget.org/packages/FaultSweep.Kafka) | 0.1.1 | Daniil Oleinic | In-memory Kafka producer capture and fault injection for FaultSweep. |
+| 2026-11-03 18:41:31 | [FaultSweep.Mongo](https://www.nuget.org/packages/FaultSweep.Mongo) | 0.1.1 | Daniil Oleinic | FaultSweep message handler fault injection and recovery verification. |
+| 2026-11-03 18:50:52 | [FaultSweep.Xunit](https://www.nuget.org/packages/FaultSweep.Xunit) | 0.1.1 | Daniil Oleinic | FaultSweep message handler fault injection and recovery verification. |
+| 2026-11-03 18:54:30 | [TradeRouter.Net.Caching](https://www.nuget.org/packages/TradeRouter.Net.Caching) | 2.9.0 | Tyrone Omidi | Caching for TradeRouter.Net road-route providers, stored through any IDistribut… |
+| 2026-11-03 18:55:43 | [Nullean.Snapshots.Images](https://www.nuget.org/packages/Nullean.Snapshots.Images) | 0.2.0 | Nullean and contributors | PNG image snapshots for Nullean.Snapshots: decoded with its own PNG codec and c… |
+| 2026-11-03 18:58:59 | [ChromaFx.PixelArt](https://www.nuget.org/packages/ChromaFx.PixelArt) | 0.6.0 | Ho Tzin Mein | Pixel-art upscaling and rotation for ChromaFx. Scale2x/3x/4x/8x (EPX), Hq2x–4x,… |
+| 2026-11-03 18:59:00 | [ChromaFx](https://www.nuget.org/packages/ChromaFx) | 0.6.0 | Ho Tzin Mein | Modern, high-performance .NET image processing and drawing library. Supports PN… |
+| 2026-11-03 18:59:01 | [ChromaFx.Core](https://www.nuget.org/packages/ChromaFx.Core) | 0.6.0 | Ho Tzin Mein | Core types, abstractions, and utilities for ChromaFx. Provides the foundational… |
+| 2026-11-03 18:59:01 | [ChromaFx.Processing](https://www.nuget.org/packages/ChromaFx.Processing) | 0.6.0 | Ho Tzin Mein | Image processing algorithms and effects for ChromaFx. Includes transformations,… |
+| 2026-11-03 18:59:02 | [ChromaFx.IO](https://www.nuget.org/packages/ChromaFx.IO) | 0.6.0 | Ho Tzin Mein | Image file input/output support for ChromaFx. Load, save, and convert images in… |
+| 2026-11-03 19:06:30 | [PeachDrawing.Skia](https://www.nuget.org/packages/PeachDrawing.Skia) | 0.9.26-preview1 | PeachDrawing.Skia | A SkiaSharp Canvas for PeachDrawing.Core - draw shapes, gradients, clips, layer… |
+| 2026-11-03 19:06:46 | [GrpcSafety.Analyzers](https://www.nuget.org/packages/GrpcSafety.Analyzers) | 0.1.0 | Daniil Oleinic | Roslyn diagnostics for gRPC deadlines, deadline propagation, retries, hedging,… |
+| 2026-11-03 19:07:34 | [CodeFoxtrot.CloudLocal.Core](https://www.nuget.org/packages/CodeFoxtrot.CloudLocal.Core) | 1.0.0 | CodeFoxtrot | Path, atomic file, and claim-folder primitives for CodeFoxtrot.CloudLocal. |
+| 2026-11-03 19:07:52 | [CodeFoxtrot.CloudLocal.Blobs](https://www.nuget.org/packages/CodeFoxtrot.CloudLocal.Blobs) | 1.0.0 | CodeFoxtrot | Filesystem blob containers, including append, for local development. |
+| 2026-11-03 19:08:05 | [CodeFoxtrot.CloudLocal.Messaging](https://www.nuget.org/packages/CodeFoxtrot.CloudLocal.Messaging) | 1.0.0 | CodeFoxtrot | Filesystem queues and topics with peek-lock, abandon, and dead-letter. |
+| 2026-11-03 19:08:16 | [CodeFoxtrot.CloudLocal.Queues](https://www.nuget.org/packages/CodeFoxtrot.CloudLocal.Queues) | 1.0.0 | CodeFoxtrot | Filesystem storage queues with visibility timeout and poison handling. |
+| 2026-11-03 19:08:30 | [CodeFoxtrot.CloudLocal.Tables](https://www.nuget.org/packages/CodeFoxtrot.CloudLocal.Tables) | 1.0.0 | CodeFoxtrot | Filesystem table storage for local development. |
+| 2026-11-03 19:08:41 | [CodeFoxtrot.CloudLocal.Vault](https://www.nuget.org/packages/CodeFoxtrot.CloudLocal.Vault) | 1.0.0 | CodeFoxtrot | Filesystem secrets, RSA keys, and certificates for local development. |
+| 2026-11-03 19:09:16 | [PeachBrackets.Android](https://www.nuget.org/packages/PeachBrackets.Android) | 0.9.26-preview1 | PeachBrackets.Android | A .NET for Android view that shows an HTML document laid out by PeachBrackets:… |
+| 2026-11-03 19:14:28 | [PeachBrackets.WinUI](https://www.nuget.org/packages/PeachBrackets.WinUI) | 0.9.26-preview1 | PeachBrackets.WinUI | A WinUI 3 control that shows an HTML document laid out by PeachBrackets: scroll… |
+| 2026-11-03 19:15:46 | [RecursiveAI.OneMedia.Audio](https://www.nuget.org/packages/RecursiveAI.OneMedia.Audio) | 1.0.0 | Recursive AI, LLC | Adapter between RecursiveAI.OneMedia and RecursiveAI.OneAudio: exposes audio tr… |
 
 ## Data source
 
