@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-03T09:19:42.923Z,Inertia.Net.Live.SignalR,1.6.0,Inertia.Net contributors,"SignalR transport for Inertia.Net live props: hub, channel authorization and broadcaster (Native AOT compatible)."
+2026-11-03T09:23:26.05Z,Dflat.Edi.Business,1.7.2.84,Dflat,"Couche métier du module Edi : agents, flotte, plugins, workflows, hub de service EDI et demandes d'action des grilles."
+2026-11-03T09:23:28.667Z,Dflat.Edi.Client,1.7.2.84,Dflat,Clients HTTP générés des contrôleurs du module Edi.
+2026-11-03T09:23:30.36Z,Dflat.Edi.ClientNode,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:31.73Z,Dflat.Edi.ClientNode.Core,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:32.75Z,Dflat.Edi.Core,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:33.9Z,Dflat.Edi.Core.Service,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:35.207Z,Dflat.Edi.Data,1.7.2.84,Dflat,"Accès aux données (services, paramètres, caches) du module Edi."
+2026-11-03T09:23:36.53Z,Dflat.Edi.Database,1.7.2.84,Dflat,"Scripts de mise à jour du schéma de base de données du module Edi, incorporés dans l'assembly et appliqués par dbmanager après ceux de System (commande dflat -u)."
+2026-11-03T09:23:37.653Z,Dflat.Edi.DataPlugins,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:38.94Z,Dflat.Edi.HttpServer,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:40.163Z,Dflat.Edi.Library,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:41.55Z,Dflat.Edi.Library.Implementation,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:42.723Z,Dflat.Edi.Logger,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:44.023Z,Dflat.Edi.Model,1.7.2.84,Dflat,"Entités, vues et modèles du module Edi (agents, hôtes, plugins, requêtes et résultats des échanges EDI). Espaces de noms Dflat.Edi.Model."
+2026-11-03T09:23:45.247Z,Dflat.Edi.Plugins.Core,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:56.763Z,Dflat.Edi.ServiceNode,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:58.083Z,Dflat.Edi.Shared,1.7.2.84,Dflat,Package Description
+2026-11-03T09:23:59.237Z,Dflat.Edi.Update,1.7.2.84,Dflat,Package Description
+2026-11-03T09:24:00.383Z,Dflat.Edi.UpdateImplementation,1.7.2.84,Dflat,Package Description
+2026-11-03T09:24:01.787Z,Dflat.Edi.Updater,1.7.2.84,Dflat,Package Description
+2026-11-03T09:24:02.967Z,Dflat.Edi.Web,1.7.2.84,Dflat,"Contrôleurs web du module Edi (agents, plugins, requêtes, workflows) et contrôleur de base EdiBaseController."
+2026-11-03T09:49:17.63Z,jfrog-curation-malicious-dummy,1.0.0,JFrog Curation Test,"Non-malicious inert NuGet package used to test JFrog package curation workflows. It has no install scripts, no network access, and no payload."
+2026-11-03T10:00:10.663Z,AppWeaver.Mediator,1.0.0,Team AppWeaver,"AppWeaver Mediator Abstraction: Commands, Queries, Streaming, and Pipeline behaviors with provider model."
+2026-11-03T10:04:45.373Z,AppWeaver.Mediator.Behaviors,1.0.0,Team AppWeaver,"Prebuilt pipeline behaviors for AppWeaver.Mediator, with Request-specific (command/query/stream) helpers."
+2026-11-03T10:06:39.107Z,KafkaGrpc,0.37.0,John Davis,"Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/topics) speaking gRPC over WebRTC DataChannels, via the grpc-dc runtime (.NET)."
+2026-11-03T10:09:46.86Z,AppWeaver.Mediator.Default,1.0.0,Team AppWeaver,Default in-memory implementation of AppWeaver Mediator with pipeline behaviors.
