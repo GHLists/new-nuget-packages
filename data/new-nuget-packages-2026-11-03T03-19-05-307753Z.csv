@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-03T02:29:40.33Z,SocketJack.Unity,2026.11.2.2,hheiroww,"Authoritative multiplayer networking for Unity and dedicated .NET servers. Bounded UDP and TCP transports, rooms, ownership, replicated state and main-thread Unity adapters."
+2026-11-03T02:30:33.363Z,Hikari.ImGui,1.93.0,"Least Action Technologies Inc., Omar Cornut",Pure C# re-implementation of Dear ImGui v1.93.0-docking with zero native dependencies.
+2026-11-03T02:31:08.62Z,CodeWF.Avalonia.Motion,12.2.48.1,沙漠尽头的狼,"Avalonia 动效引擎：弹簧物理（闭式解、可中断保速）、声明式弹簧过渡、动效分级（Full/Reduced/Off）与常驻循环。移植自 TKCode.Arc（MIT）。Spring-physics motion engine for Avalonia: interruptible velocity-preserving values, declarative spring transitions, motion levels and live loops. Ported from TKCode.Arc (MIT)."
+2026-11-03T02:35:34.653Z,TerribleSettingsAuditor,1.0.24,TerribleSettingsAuditor,Package Description
+2026-11-03T02:37:57.427Z,CoreOne.Http,1.0.0,Juan Lopez,Package Description
+2026-11-03T02:49:12.153Z,Helpers.ApolloHelper,1.0.0,ljy,Apollo配置中心帮助类
+2026-11-03T03:03:28.267Z,vaishali-jain.ClimateTool,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
+2026-11-03T03:03:51.373Z,vaishali-jain.ClimateTool.linux-arm64,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
+2026-11-03T03:04:08.827Z,vaishali-jain.ClimateTool.linux-musl-x64,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
+2026-11-03T03:04:28.44Z,vaishali-jain.ClimateTool.osx-arm64,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
+2026-11-03T03:04:41.51Z,vaishali-jain.ClimateTool.win-x64,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
+2026-11-03T03:04:53.307Z,vaishali-jain.ClimateTool.linux-x64,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
+2026-11-03T03:05:07.927Z,vaishali-jain.ClimateTool.win-arm64,1.0.0,mcpserverapp1,An MCP server using the MCP C# SDK.
