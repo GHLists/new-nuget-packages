@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-03T12:43:43.283Z,Delih,0.1.0-alpha,Enrico Kip,"Puts AI-generated code through an organization's own architectural rules, allows only small provable changes, and records every decision immutably."
+2026-11-03T12:44:16.503Z,Bondarukini.Mapper,10.0.0,Yurii Bondaruk,"Object mapping for .NET 10 with compiled plans, profiles, nested collections and polymorphic mappings."
+2026-11-03T12:44:45.93Z,Bondarukini.Mapper.DependencyInjection,10.0.0,Yurii Bondaruk,Microsoft dependency injection and profile scanning for Bondarukini.Mapper.
+2026-11-03T12:47:40.787Z,io7.FreePDF.Gdi,7.1.0,io7,"MIT PDF creation and editing for Windows desktop and .NET Framework apps, drawing through GDI+ (System.Drawing). The FreePDF build for apps moving from PDFsharp-GDI 6.2.4; preserves PdfSharp API namespaces. Use it instead of io7.FreePDF, not together with it."
+2026-11-03T12:47:41.707Z,io7.FreePDF.Layout.Gdi,7.1.0,io7,"MIT document layout with paragraphs, tables, charts and PDF/RTF output for io7.FreePDF.Gdi. The FreePDF build for apps moving from PDFsharp-MigraDoc-GDI 6.2.4; preserves MigraDoc API namespaces. Use it instead of io7.FreePDF.Layout, not together with it."
+2026-11-03T12:47:42.75Z,io7.FreePDF.Wpf,7.1.0,io7,"MIT PDF creation and editing for Windows desktop and .NET Framework apps, drawing through WPF (System.Windows.Media). The FreePDF build for apps moving from PDFsharp-WPF 6.2.4; preserves PdfSharp API namespaces. Use it instead of io7.FreePDF, not together with it."
+2026-11-03T12:47:43.683Z,io7.FreePDF.Layout.Wpf,7.1.0,io7,"MIT document layout with paragraphs, tables, charts and PDF/RTF output for io7.FreePDF.Wpf. The FreePDF build for apps moving from PDFsharp-MigraDoc-WPF 6.2.4; preserves MigraDoc API namespaces. Use it instead of io7.FreePDF.Layout, not together with it."
+2026-11-03T12:53:17.98Z,AppWeaver.Web.Security,1.0.0,Team AppWeaver,Shared web security/cache policy primitives for AppWeaver endpoints.
+2026-11-03T12:53:55.98Z,CryptoExchange.Net.Web3,13.0.0,JKorf,CryptoExchange.Net.Web3 is a helper library adding Web3 utilities to CryptoExchange.Net implementations.
+2026-11-03T12:54:20.443Z,Instana.OpenTelemetry.Exporter,1.329.1,Instana,Instana .NET Exporter for OpenTelemetry — converts OTel SDK and instrumentation spans to Instana native spans and sends them to the Instana backend.
+2026-11-03T12:56:08.023Z,Ananke.Embeddings.Onnx,0.9.1,sevensamurai,"Local embeddings for Ananke — an IEmbeddingModel that runs a BERT-style ONNX model (such as bge-small-en-v1.5) on ONNX Runtime, so text needn't leave the host to be embedded."
+2026-11-03T12:56:22.077Z,Ananke.Postgres,0.9.1,sevensamurai,"PostgreSQL provider for Ananke — IKnowledgeStore and IKnowledgeCatalog on Postgres with pgvector for embedding search, full-text search for keywords, hybrid ranking, jsonb metadata filters and real deletes."
+2026-11-03T12:58:04.227Z,AppWeaver.Web.Extensions,1.0.0,Team AppWeaver,AppWeaver Web Extensions Library in AppWeaver framework.
+2026-11-03T13:01:22.74Z,AppWeaver.MinimalEndpoint,1.0.0,Team AppWeaver,Minimal API helpers for AppWeaver: map Result<T>/UnitResult via DI-based ResultMapper.
+2026-11-03T13:03:03.04Z,AppWeaver.FastEndpoint,1.0.0,Team AppWeaver,FastEndpoints helpers for AppWeaver: send Result<T>/UnitResult via DI-based ResultMapper.
+2026-11-03T13:07:58.747Z,ForEach.Infrastructure.External.eOtpremnica,0.1.0,ForEach,Client and UBL 2.1 Despatch Advice writer for the Serbian central register of electronic delivery notes (eOtpremnica).
