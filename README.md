@@ -12,41 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 10:21 UTC
+## Latest list — 2026-11-03 11:21 UTC
 
-New packages created between 2026-11-03 09:18 UTC and 2026-11-03 10:21 UTC.
+New packages created between 2026-11-03 10:21 UTC and 2026-11-03 11:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-03T10-21-10-67847Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-03T11-21-21-648787Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-03 09:19:42 | [Inertia.Net.Live.SignalR](https://www.nuget.org/packages/Inertia.Net.Live.SignalR) | 1.6.0 | Inertia.Net contributors | SignalR transport for Inertia.Net live props: hub, channel authorization and br… |
-| 2026-11-03 09:23:26 | [Dflat.Edi.Business](https://www.nuget.org/packages/Dflat.Edi.Business) | 1.7.2.84 | Dflat | Couche métier du module Edi : agents, flotte, plugins, workflows, hub de servic… |
-| 2026-11-03 09:23:28 | [Dflat.Edi.Client](https://www.nuget.org/packages/Dflat.Edi.Client) | 1.7.2.84 | Dflat | Clients HTTP générés des contrôleurs du module Edi. |
-| 2026-11-03 09:23:30 | [Dflat.Edi.ClientNode](https://www.nuget.org/packages/Dflat.Edi.ClientNode) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:31 | [Dflat.Edi.ClientNode.Core](https://www.nuget.org/packages/Dflat.Edi.ClientNode.Core) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:32 | [Dflat.Edi.Core](https://www.nuget.org/packages/Dflat.Edi.Core) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:33 | [Dflat.Edi.Core.Service](https://www.nuget.org/packages/Dflat.Edi.Core.Service) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:35 | [Dflat.Edi.Data](https://www.nuget.org/packages/Dflat.Edi.Data) | 1.7.2.84 | Dflat | Accès aux données (services, paramètres, caches) du module Edi. |
-| 2026-11-03 09:23:36 | [Dflat.Edi.Database](https://www.nuget.org/packages/Dflat.Edi.Database) | 1.7.2.84 | Dflat | Scripts de mise à jour du schéma de base de données du module Edi, incorporés d… |
-| 2026-11-03 09:23:37 | [Dflat.Edi.DataPlugins](https://www.nuget.org/packages/Dflat.Edi.DataPlugins) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:38 | [Dflat.Edi.HttpServer](https://www.nuget.org/packages/Dflat.Edi.HttpServer) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:40 | [Dflat.Edi.Library](https://www.nuget.org/packages/Dflat.Edi.Library) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:41 | [Dflat.Edi.Library.Implementation](https://www.nuget.org/packages/Dflat.Edi.Library.Implementation) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:42 | [Dflat.Edi.Logger](https://www.nuget.org/packages/Dflat.Edi.Logger) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:44 | [Dflat.Edi.Model](https://www.nuget.org/packages/Dflat.Edi.Model) | 1.7.2.84 | Dflat | Entités, vues et modèles du module Edi (agents, hôtes, plugins, requêtes et rés… |
-| 2026-11-03 09:23:45 | [Dflat.Edi.Plugins.Core](https://www.nuget.org/packages/Dflat.Edi.Plugins.Core) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:56 | [Dflat.Edi.ServiceNode](https://www.nuget.org/packages/Dflat.Edi.ServiceNode) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:58 | [Dflat.Edi.Shared](https://www.nuget.org/packages/Dflat.Edi.Shared) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:23:59 | [Dflat.Edi.Update](https://www.nuget.org/packages/Dflat.Edi.Update) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:24:00 | [Dflat.Edi.UpdateImplementation](https://www.nuget.org/packages/Dflat.Edi.UpdateImplementation) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:24:01 | [Dflat.Edi.Updater](https://www.nuget.org/packages/Dflat.Edi.Updater) | 1.7.2.84 | Dflat | Package Description |
-| 2026-11-03 09:24:02 | [Dflat.Edi.Web](https://www.nuget.org/packages/Dflat.Edi.Web) | 1.7.2.84 | Dflat | Contrôleurs web du module Edi (agents, plugins, requêtes, workflows) et contrôl… |
-| 2026-11-03 09:49:17 | [jfrog-curation-malicious-dummy](https://www.nuget.org/packages/jfrog-curation-malicious-dummy) | 1.0.0 | JFrog Curation Test | Non-malicious inert NuGet package used to test JFrog package curation workflows… |
-| 2026-11-03 10:00:10 | [AppWeaver.Mediator](https://www.nuget.org/packages/AppWeaver.Mediator) | 1.0.0 | Team AppWeaver | AppWeaver Mediator Abstraction: Commands, Queries, Streaming, and Pipeline beha… |
-| 2026-11-03 10:04:45 | [AppWeaver.Mediator.Behaviors](https://www.nuget.org/packages/AppWeaver.Mediator.Behaviors) | 1.0.0 | Team AppWeaver | Prebuilt pipeline behaviors for AppWeaver.Mediator, with Request-specific (comm… |
-| 2026-11-03 10:06:39 | [KafkaGrpc](https://www.nuget.org/packages/KafkaGrpc) | 0.37.0 | John Davis | Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/top… |
-| 2026-11-03 10:09:46 | [AppWeaver.Mediator.Default](https://www.nuget.org/packages/AppWeaver.Mediator.Default) | 1.0.0 | Team AppWeaver | Default in-memory implementation of AppWeaver Mediator with pipeline behaviors. |
+| 2026-11-03 10:22:33 | [UaeGoldPrices.GoldCalculator](https://www.nuget.org/packages/UaeGoldPrices.GoldCalculator) | 1.0.0 | UAE Gold Prices | Gold value calculator for the UAE: 24/22/21/18/14K prices per gram, tola and tr… |
+| 2026-11-03 10:24:22 | [Sandboa](https://www.nuget.org/packages/Sandboa) | 0.9.1 | Sandboa | Sandboxed CPython and NumPy with managed VFS, generated .NET bindings, and agen… |
+| 2026-11-03 10:31:09 | [NeoAstra.Location](https://www.nuget.org/packages/NeoAstra.Location) | 1.11.0 | NeoAstra.Location | Location plugin for NeoAstra: the position of the device and the permission to… |
+| 2026-11-03 10:31:12 | [NeoAstra.Passkeys](https://www.nuget.org/packages/NeoAstra.Passkeys) | 1.11.0 | NeoAstra.Passkeys | Passkeys plugin for NeoAstra: WebAuthn passkeys of the platform for a relying p… |
+| 2026-11-03 10:31:14 | [NeoAstra.Purchases](https://www.nuget.org/packages/NeoAstra.Purchases) | 1.11.0 | NeoAstra.Purchases | In-app purchases plugin for NeoAstra: the products, purchases, and subscription… |
+| 2026-11-03 10:31:16 | [NeoAstra.Push](https://www.nuget.org/packages/NeoAstra.Push) | 1.11.0 | NeoAstra.Push | Push plugin for NeoAstra: remote notifications through the Apple Push Notificat… |
+| 2026-11-03 10:34:32 | [SibraSoft.Shared](https://www.nuget.org/packages/SibraSoft.Shared) | 1.0.0 | Sibra-Soft | Shared Windows Forms utilities for Sibra-Soft projects. |
+| 2026-11-03 10:36:44 | [MakeenPay.SharedKernel.Domain](https://www.nuget.org/packages/MakeenPay.SharedKernel.Domain) | 1.0.0 | AmirAliKhoshroei | MakeenPay Shared Dependencies |
+| 2026-11-03 10:39:11 | [MakeenPay.SharedKernel.App](https://www.nuget.org/packages/MakeenPay.SharedKernel.App) | 1.0.0 | AmirAliKhoshroei | MakeenPay Shared Dependencies |
+| 2026-11-03 10:43:44 | [Scarlet.DirectN.Threading](https://www.nuget.org/packages/Scarlet.DirectN.Threading) | 1.0.0 | ScarletKuro | UI-thread message queue and SynchronizationContext for DirectN (Win32) apps, Na… |
+| 2026-11-03 10:43:45 | [Scarlet.Extensions.Hosting.DirectN](https://www.nuget.org/packages/Scarlet.Extensions.Hosting.DirectN) | 1.0.0 | ScarletKuro | Microsoft.Extensions.Hosting (Generic Host) integration for DirectN (Win32/Dire… |
+| 2026-11-03 10:43:46 | [Scarlet.Extensions.Hosting.DirectN.Threading](https://www.nuget.org/packages/Scarlet.Extensions.Hosting.DirectN.Threading) | 1.0.0 | ScarletKuro | Thread switching for Scarlet.Extensions.Hosting.DirectN: JoinableTaskFactory an… |
+| 2026-11-03 10:43:47 | [Scarlet.Extensions.Hosting.DirectN.TrayIcon](https://www.nuget.org/packages/Scarlet.Extensions.Hosting.DirectN.TrayIcon) | 1.0.0 | ScarletKuro | Notification area (tray) icon for Scarlet.Extensions.Hosting.DirectN: a Native… |
+| 2026-11-03 10:45:12 | [Dloizides.Registration](https://www.nuget.org/packages/Dloizides.Registration) | 0.1.0 | DLoizides | One registration and account-erase flow for any host: request screen, idempoten… |
+| 2026-11-03 10:48:21 | [TradingMonitor.Domain](https://www.nuget.org/packages/TradingMonitor.Domain) | 1.0.0 | Sahib | Shared models and interfaces for TradingMonitor plugins. |
+| 2026-11-03 10:51:12 | [Dloizides.Registration.Keycloak](https://www.nuget.org/packages/Dloizides.Registration.Keycloak) | 0.1.0 | DLoizides | Realm-aware Keycloak adapter for Dloizides.Registration: every call acts in the… |
+| 2026-11-03 10:51:58 | [Webority.Ads.Insights](https://www.nuget.org/packages/Webority.Ads.Insights) | 0.12.0 | Webority Technologies | Webority.Ads campaign statistics in Webority.Insights: runs each registered ad… |
+| 2026-11-03 10:54:21 | [ISCG.ExtensionMethods.SPSE](https://www.nuget.org/packages/ISCG.ExtensionMethods.SPSE) | 2026.11.3.6 | ISCG | ISCG.ExtensionMethods.SPSE signed |
+| 2026-11-03 11:02:41 | [Lait.Umbraco.LLMS.Generator](https://www.nuget.org/packages/Lait.Umbraco.LLMS.Generator) | 1.0.0 | LAIT, Anders Bootsmann Overvad | Build your /llms.txt from the Umbraco 17 backoffice. Editors compose it from bl… |
 
 ## Data source
 
