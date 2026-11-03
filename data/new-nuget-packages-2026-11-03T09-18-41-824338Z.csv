@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-03T08:44:30.353Z,Jony.TextTools,1.0.0,dev-jony,A small library of text helper methods.
+2026-11-03T08:44:46.543Z,NockMon.ServiceStatus,0.1.0,nockawa,"NockMon widget: the status of the online services you follow (Claude, OpenAI, GitHub, GitLab, Cloudflare, AWS, Azure, Google Cloud, Slack and 30 more, or any Statuspage, incident.io or status.io page), from their public status pages: one icon at the smallest size, up to incidents and their latest u…"
+2026-11-03T08:47:09.083Z,Webority.Pdf,1.0.0,Webority.Pdf,"Webority's PDF library: generate documents, and open, inspect, unlock, protect, merge, split, stamp, render, read, sign, redact and optimise existing files."
