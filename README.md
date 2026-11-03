@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 06:20 UTC
+## Latest list — 2026-11-03 07:19 UTC
 
-New packages created between 2026-11-03 05:19 UTC and 2026-11-03 06:20 UTC.
+New packages created between 2026-11-03 06:20 UTC and 2026-11-03 07:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-03T06-20-28-03576Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-03T07-19-07-636943Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-03 05:20:46 | [OfacMatch](https://www.nuget.org/packages/OfacMatch) | 0.1.0 | Krunal Solanki | Explainable OFAC sanctions name screening for .NET. Loads the official SDN list… |
-| 2026-11-03 05:20:47 | [OfacMatch.Mcp](https://www.nuget.org/packages/OfacMatch.Mcp) | 0.1.0 | Krunal Solanki | MCP server for explainable OFAC sanctions name screening. Lets AI assistants sc… |
-| 2026-11-03 05:25:46 | [Ruth.JYC.ModuleRegistration](https://www.nuget.org/packages/Ruth.JYC.ModuleRegistration) | 2026.11.2 | ruthlessafei | Package Description |
-| 2026-11-03 05:41:58 | [PJSouzaSoftware.AircraftTrack](https://www.nuget.org/packages/PJSouzaSoftware.AircraftTrack) | 0.0.1 | Pedro Jesus | Client for the adsb.lol v2 aircraft query API. |
+| 2026-11-03 06:41:24 | [keyi.templates.keyiabp8](https://www.nuget.org/packages/keyi.templates.keyiabp8) | 1.0.0 | Keyi | .NET 8 + ABP + Vue3 Admin/Web + uni-app 项目脚手架（dotnet new keyiabp8） |
+| 2026-11-03 06:44:57 | [TCIS.Logging.Hosting.WinForms](https://www.nuget.org/packages/TCIS.Logging.Hosting.WinForms) | 1.0.8 | TCIS Core Community and Contr… | Centralized TCIS logging for WinForms desktop applications on .NET Framework: o… |
+| 2026-11-03 06:50:50 | [Gasco_Khazeen_S4](https://www.nuget.org/packages/Gasco_Khazeen_S4) | 1.0.0 | Gasco | Package Description |
 
 ## Data source
 
