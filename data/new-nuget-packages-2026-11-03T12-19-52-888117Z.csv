@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-03T11:25:14.65Z,Winterborn.Tools.Vee,21.3.3,Winterborn.Tools.Vee,Package Description
+2026-11-03T11:54:30.42Z,Lindekilde.Blazor.Cruddy,0.9.1-alpha,JakobLindekilde,Simple ASP.NET Blazor component that does database table CRUD
+2026-11-03T12:01:26.783Z,DataverseLogicDependencyExplorer,1.2026.11.11,Gagan Deep Singh,"An XrmToolBox tool that finds where a Dataverse table or column is referenced by business rules, JavaScript web resources, forms and form event registrations, plugin registrations, classic workflows and cloud flows, and exports an evidence-based impact report to Excel. Read-only analysis; every fin…"
+2026-11-03T12:04:32.883Z,SignalSpec.AspNetCore,0.1.0,IvanKobtsev,Standalone SignalR client contract specifications and automatic hub mapping.
+2026-11-03T12:09:35.333Z,dotnet-cockpit,0.1.0,Jan Ruhlaender,A local browser cockpit for your .NET installations.
+2026-11-03T12:14:27.74Z,FastSI.DispatchR,1.0.0,FastSI Team,"Mediator for .NET: CQRS, pub/sub, streaming and pipeline behaviors. MediatR-compatible API."
