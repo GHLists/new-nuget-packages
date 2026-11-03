@@ -12,40 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 14:21 UTC
+## Latest list — 2026-11-03 15:20 UTC
 
-New packages created between 2026-11-03 13:21 UTC and 2026-11-03 14:21 UTC.
+New packages created between 2026-11-03 14:21 UTC and 2026-11-03 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-03T14-21-09-044527Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-03T15-20-26-063265Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-03 13:23:21 | [Arc56.Generated.Ishankalhe911.TraceLoop](https://www.nuget.org/packages/Arc56.Generated.Ishankalhe911.TraceLoop) | 1.0.1.2026110313 | Ishankalhe911 | Generated ARC-56 Algorand smart-contract clients for Ishankalhe911/TraceLoop. |
-| 2026-11-03 13:23:51 | [Arc56.Generated.ameenmakestuffs.Algorand-Carpool](https://www.nuget.org/packages/Arc56.Generated.ameenmakestuffs.Algorand-Carpool) | 1.0.1.2026110313 | ameenmakestuffs | Generated ARC-56 Algorand smart-contract clients for ameenmakestuffs/Algorand-C… |
-| 2026-11-03 13:27:02 | [Skyline.DataMiner.Intelligence.Schema](https://www.nuget.org/packages/Skyline.DataMiner.Intelligence.Schema) | 3.16.2 | SkylineCommunications | Validates the frontmatter schema of DataMiner Assistant Markdown context artifa… |
-| 2026-11-03 13:35:26 | [SumireCraft.Maui.Core](https://www.nuget.org/packages/SumireCraft.Maui.Core) | 1.0.0 | StartBits | Building blocks for .NET MAUI: one place to report exceptions, an opt-in safety… |
-| 2026-11-03 13:35:28 | [SumireCraft.Maui.Controls](https://www.nuget.org/packages/SumireCraft.Maui.Controls) | 1.0.0 | StartBits | Widgets that fill the gaps .NET MAUI leaves: SmrBadgeView puts a count or a dot… |
-| 2026-11-03 13:41:10 | [Secs2R](https://www.nuget.org/packages/Secs2R) | 0.16.0 | 115dkk | Programs that use this package must be distributed under terms compatible with… |
-| 2026-11-03 13:46:48 | [Starlings.Models.Abstractions](https://www.nuget.org/packages/Starlings.Models.Abstractions) | 0.5.0 | StarlingHq | Backend-neutral types shared by the Starlings model packages: one CapabilitySta… |
-| 2026-11-03 13:46:50 | [Starlings.Generation.Abstractions](https://www.nuget.org/packages/Starlings.Generation.Abstractions) | 0.5.0 | StarlingHq | Backend-neutral generation types for Starling's chat models: generation options… |
-| 2026-11-03 13:46:54 | [Starlings.Runtime.OnnxWeb](https://www.nuget.org/packages/Starlings.Runtime.OnnxWeb) | 0.5.0 | StarlingHq | ONNX Runtime Web (onnxruntime-web 1.30.0, WASM backend) for Starlings models in… |
-| 2026-11-03 13:47:05 | [Starlings.Models.Qwen35.OnnxGenAI](https://www.nuget.org/packages/Starlings.Models.Qwen35.OnnxGenAI) | 0.5.0 | StarlingHq | Qwen/Qwen3.5-0.8B (revision 2fc06364) chat generation in-process on ONNX Runtim… |
-| 2026-11-03 13:47:10 | [Starlings.Models.Bert](https://www.nuget.org/packages/Starlings.Models.Bert) | 0.5.0 | StarlingHq | Pinned BERT-family text embeddings and paired-input reranking on ONNX Runtime C… |
-| 2026-11-03 13:47:12 | [Starlings.Models.Lfm3](https://www.nuget.org/packages/Starlings.Models.Lfm3) | 0.5.0 | StarlingHq | MODEL LICENSE: LFM Open License v1.0, not MIT or Apache-2.0. Commercial use of… |
-| 2026-11-03 13:47:14 | [Starlings.Models.E5.Browser](https://www.nuget.org/packages/Starlings.Models.E5.Browser) | 0.5.0 | StarlingHq | intfloat/multilingual-e5-small (revision 614241f6) sentence embeddings in the b… |
-| 2026-11-03 13:47:29 | [Starlings.Models.Kev.Onnx](https://www.nuget.org/packages/Starlings.Models.Kev.Onnx) | 0.5.0 | StarlingHq | Kev decision models (jaredpalmer/kev-0.8b and jaredpalmer/kev-4b, Kev 1.0) on O… |
-| 2026-11-03 13:47:32 | [Starlings.Models.QwenChat.OnnxGenAI](https://www.nuget.org/packages/Starlings.Models.QwenChat.OnnxGenAI) | 0.5.0 | StarlingHq | Qwen/Qwen3-0.6B (revision c1899de2, thinking disabled) and Qwen/Qwen2.5-0.5B-In… |
-| 2026-11-03 13:47:35 | [Starlings.Runtime.OnnxWeb.WebGpu](https://www.nuget.org/packages/Starlings.Runtime.OnnxWeb.WebGpu) | 0.5.0 | StarlingHq | WebGPU for Starlings.Runtime.OnnxWeb: onnxruntime-web 1.30.0's WebGPU-capable b… |
-| 2026-11-03 13:51:31 | [Cnemz.WinForms.NeonUI](https://www.nuget.org/packages/Cnemz.WinForms.NeonUI) | 1.0.0 | Admin | Bộ thư viện UI WinForms phong cách iOS Liquid Glass và Neon Glow chuyên dụng ch… |
-| 2026-11-03 13:56:03 | [BIMPlugins.Nuke](https://www.nuget.org/packages/BIMPlugins.Nuke) | 1.1.3 | Samir Shibliev | Nuke Package BIMPlugins.Nuke |
-| 2026-11-03 14:01:23 | [PDML.Compatibility](https://www.nuget.org/packages/PDML.Compatibility) | 0.1.0 | CBx0 | Compatibility and polyfill types for PDML targeting .NET Standard 2.0. |
-| 2026-11-03 14:01:23 | [PDML.Compiler](https://www.nuget.org/packages/PDML.Compiler) | 0.1.0 | CBx0 | Core compiler, lexer, parser, and semantic model for the PDML language. |
-| 2026-11-03 14:01:24 | [PDML.Generator.Abstractions](https://www.nuget.org/packages/PDML.Generator.Abstractions) | 0.1.0 | CBx0 | Abstractions, interfaces, and base definitions for PDML code generators. |
-| 2026-11-03 14:01:24 | [PDML.Generator.CSharp](https://www.nuget.org/packages/PDML.Generator.CSharp) | 0.1.0 | CBx0 | C# code generator for the PDML language. |
-| 2026-11-03 14:01:25 | [PDML.Generator.CSharp.Roslyn](https://www.nuget.org/packages/PDML.Generator.CSharp.Roslyn) | 0.1.0 | CBx0 | Roslyn incremental source generator for PDML in C# projects. |
-| 2026-11-03 14:01:25 | [PDML.Generator.TypeScript](https://www.nuget.org/packages/PDML.Generator.TypeScript) | 0.1.0 | CBx0 | TypeScript code generator for the PDML language. |
-| 2026-11-03 14:02:12 | [QuantConnect.Brokerages.QuantBridge](https://www.nuget.org/packages/QuantConnect.Brokerages.QuantBridge) | 2.5.18224 | QuantConnect.Brokerages.Quant… | QuantConnect LEAN QuantBridge: Brokerage QuantBridge plugin for Lean |
-| 2026-11-03 14:03:42 | [E2e4.SlidingBlock.Logic](https://www.nuget.org/packages/E2e4.SlidingBlock.Logic) | 1.0.0 | th3snark | Bitboard engine with allocation-free move generation, and solvers (BFS, A*, IDA… |
+| 2026-11-03 14:24:42 | [Phoenix.Data.Plc.SiAccess](https://www.nuget.org/packages/Phoenix.Data.Plc.SiAccess) | 7.0.0 | Felix Leistner | Base assembly for providing plc communication via siAccess. |
+| 2026-11-03 14:26:05 | [Baziness.Server](https://www.nuget.org/packages/Baziness.Server) | 2.1.0 | Baziness | Baziness platform SDK for .NET game servers: client auth, player sessions with… |
+| 2026-11-03 14:34:21 | [Muflone.Transport.Kafka](https://www.nuget.org/packages/Muflone.Transport.Kafka) | 10.0.0-alpha | Fabio Della Rosa | Package Description |
+| 2026-11-03 14:35:49 | [Senparc.Xncf.FileManager.Abstractions](https://www.nuget.org/packages/Senparc.Xncf.FileManager.Abstractions) | 0.2.0 | Senparc | Contracts for optional integrations with Senparc.Xncf.FileManager. |
+| 2026-11-03 14:35:57 | [Senparc.Xncf.Workspace.Abstractions](https://www.nuget.org/packages/Senparc.Xncf.Workspace.Abstractions) | 0.2.0 | Senparc.Xncf.Workspace.Abstra… | Package Description |
+| 2026-11-03 14:38:15 | [FaultTrace.AspNetCore](https://www.nuget.org/packages/FaultTrace.AspNetCore) | 0.1.0-alpha | soyprofesor | ASP.NET Core integration for FaultTrace: unified RFC 9457 problem responses for… |
+| 2026-11-03 14:38:15 | [FaultTrace.Core](https://www.nuget.org/packages/FaultTrace.Core) | 0.1.0-alpha | soyprofesor | Turns exceptions into safe, localized error responses and rich structured log e… |
+| 2026-11-03 14:38:16 | [FaultTrace.Oracle](https://www.nuget.org/packages/FaultTrace.Oracle) | 0.1.0-alpha | soyprofesor | Oracle provider for FaultTrace: classifies ORA errors and parses PL/SQL error s… |
+| 2026-11-03 14:49:35 | [OhrTech.Management](https://www.nuget.org/packages/OhrTech.Management) | 1.0.0 | OhrTech | Client for the OhrTech Management API: manage your organisation's devices from… |
+| 2026-11-03 15:00:35 | [FixBuild.Gen](https://www.nuget.org/packages/FixBuild.Gen) | 0.1.0 | fixbuild | A C# compatibility nuget for macos. |
+| 2026-11-03 15:07:00 | [CodeAnalysisUtills](https://www.nuget.org/packages/CodeAnalysisUtills) | 1.0.0 | vsc | Utilities for loading, compiling, and inspecting .NET projects and types with R… |
+| 2026-11-03 15:11:20 | [Linkway.Symplice.Station.Contracts](https://www.nuget.org/packages/Linkway.Symplice.Station.Contracts) | 1.0.0 | Linkway | The envelope and the channel's own message types between Symplice and its stati… |
+| 2026-11-03 15:11:20 | [Linkway.Symplice.Station.Connection](https://www.nuget.org/packages/Linkway.Symplice.Station.Connection) | 1.0.0 | Linkway | The connection every Symplice station program includes: pairing, credential, th… |
 
 ## Data source
 
