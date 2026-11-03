@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-03T04:26:41.753Z,NewLife.Office.Cli,1.5.2026.1103-beta0…,新生命开发团队,NewLife.Office 命令行工具（office）：办公文档转 Markdown、结构快照、锚点补丁与 MCP 服务端，供 AI/Agent 直接调用
+2026-11-03T04:32:11.973Z,Enlitt,0.1.0,Enlitt,"Enlitt SDK for .NET: sessions, standard and premium model accounting, usage, and sign-in handlers."
+2026-11-03T04:32:12.67Z,Enlitt.AspNetCore,0.1.0,Enlitt,ASP.NET Core bindings for the Enlitt SDK: session middleware and sign-in endpoints.
+2026-11-03T04:32:13.223Z,Enlitt.Extensions.AI,0.1.0,Enlitt,Microsoft.Extensions.AI IChatClient adapter for Enlitt standard and premium models.
+2026-11-03T04:52:00.643Z,GodotXaml.Cli,0.1.0,Leftos Aslanoglou,"Checks, converts and formats Godot scenes and resources written as XAML."
+2026-11-03T04:52:01.127Z,GodotXaml.Core,0.1.0,Leftos Aslanoglou,"The godot-xaml core for reading and writing .xscn and .xres, and converting Godot's .tscn text."
+2026-11-03T05:04:42.597Z,OODD.CrossPrint.Core,1.0.0,OODD CrossPrint Contributors,CrossPrint 模板模型、单位换算与 JSON 序列化（无 UI 依赖）。
+2026-11-03T05:04:43.807Z,OODD.CrossPrint.Designer,1.0.0,OODD CrossPrint Contributors,CrossPrint 设计器内核：视口、命中测试、交互状态机、命令、属性描述符与叠加层绘制。不引用任何宿主 UI 框架。
+2026-11-03T05:04:45.033Z,OODD.CrossPrint.Engine,1.0.0,OODD CrossPrint Contributors,CrossPrint 渲染引擎：SkiaSharp 元素渲染、PDF/PNG 导出、数据绑定。无 UI 框架依赖。
+2026-11-03T05:04:46.247Z,OODD.CrossPrint.Hosts.Avalonia,1.0.0,OODD CrossPrint Contributors,Package Description
+2026-11-03T05:04:47.393Z,OODD.CrossPrint.Hosts.Eto,1.0.0,OODD CrossPrint Contributors,CrossPrint Eto.Forms 宿主适配层：DesignerControl（设计画布）与 PreviewControl（打印预览），共用同一渲染路径。
+2026-11-03T05:04:48.53Z,OODD.CrossPrint.Hosts.Uno,1.0.0,OODD CrossPrint Contributors,CrossPrint Uno Platform 宿主适配层：DesignerControl（设计画布）与 PreviewControl（打印预览），共用同一渲染路径。
+2026-11-03T05:04:49.59Z,OODD.CrossPrint.Hosts.WinForms,1.0.0,OODD CrossPrint Contributors,CrossPrint WinForms 宿主适配层：DesignerControl（设计画布）与 PreviewControl（打印预览），共用同一渲染路径。
+2026-11-03T05:04:50.73Z,OODD.CrossPrint.Hosts.WinUi,1.0.0,OODD CrossPrint Contributors,CrossPrint WinUI 3 宿主适配层：DesignerControl（设计画布）与 PreviewControl（打印预览），共用同一渲染路径。
+2026-11-03T05:04:51.89Z,OODD.CrossPrint.Hosts.Wpf,1.0.0,OODD CrossPrint Contributors,CrossPrint WPF 宿主适配层：DesignerControl（设计画布）与 PreviewControl（打印预览），共用同一渲染路径。
+2026-11-03T05:04:53.15Z,OODD.CrossPrint.Printing,1.0.0,OODD CrossPrint Contributors,CrossPrint 打印目标抽象层：把渲染引擎的产物送出去的统一出口。v0.1 提供 PdfFilePrintTarget（PDF 落盘，FR-PRT-01）与 SystemPrintTarget（ShellExecute / lp 调起系统打印管线，FR-PRT-03）。
