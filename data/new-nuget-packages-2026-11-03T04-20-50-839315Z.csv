@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-03T03:42:16.95Z,Ptht365.Microservice.DevKit,1.0.0,Nguyen Viet Dung,Dev kit client for Ptht365 mini apps: sign in with personas served by the shell dev kit instead of Azure AD. Inert unless DevKit__Enabled=true; refuses to start outside Development.
+2026-11-03T03:42:17.37Z,SunDoge.ShardPack,0.1.1,SunDoge,"Linux x64 (.NET 8+) ShardPack streams backed by Rust, with Zstd and AES-256-GCM."
+2026-11-03T04:01:19.71Z,Soenneker.TypesafeAi.OpenApiClientUtil,11.0.4,Jake Soenneker,A thread-safe utility for obtaining TypesafeAi's OpenApiClient singleton.
