@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-04T22:39:46.783Z,Webority.Chat.Support.Admin,0.132.0,Webority Technologies,"The live agent console for Webority Chat support, under a ChatSupport area the staff head secures with one policy. Customer heads take Webority.Chat.Support alone and serve no staff page."
+2026-11-04T22:48:20.583Z,Flowrensic,0.6.44,Flowrensic,"Activity interceptor and client for Temporal .NET workers, for use with Flowrensic."
+2026-11-04T22:48:50.277Z,Typo.Analyzers,0.1.0,Nikolay Zdravkov,Roslyn analyzers that find copy-paste and typo bugs.
+2026-11-04T22:56:15.51Z,Tamp.McpScanner,0.1.0,Scott Singleton,"Tamp wrapper for Cisco's mcp-scanner. Scans MCP servers (remote, static tool manifest, or config file) for tool-poisoning / prompt-injection / credential-harvesting and related threats, and normalises the scanner's JSON into SARIF 2.1.0 so MCP findings flow through the Tamp security chain (merge, d…"
+2026-11-04T22:59:14.087Z,TannerGooding.SourceBrowser,1.1.0,"tannergooding, kirillosenkov, and contributors","Generates a static HTML website from a managed Visual Studio solution that allows you to search, browse and navigate the C#, VB, MSBuild and TypeScript code online. 💜 A continuation of Kirill Osenkov's SourceBrowser (https://github.com/KirillOsenkov/SourceBrowser), now archived, with thanks to Kiri…"
+2026-11-04T23:06:35.52Z,SeleniumToPlayWright,1.2.0.26309,SeleniumToPlayWright,Package Description
