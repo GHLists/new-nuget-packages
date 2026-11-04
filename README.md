@@ -12,33 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 14:21 UTC
+## Latest list — 2026-11-04 15:18 UTC
 
-New packages created between 2026-11-04 13:19 UTC and 2026-11-04 14:21 UTC.
+New packages created between 2026-11-04 14:21 UTC and 2026-11-04 15:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T14-21-39-418356Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T15-18-57-439044Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 13:24:00 | [TaipanLang.Sdk](https://www.nuget.org/packages/TaipanLang.Sdk) | 0.4.0 | Discover Edge, LLC | The MSBuild project SDK that builds Taipan (.tpnproj) projects with dotnet buil… |
-| 2026-11-04 13:24:01 | [TaipanLang](https://www.nuget.org/packages/TaipanLang) | 0.4.0 | Discover Edge, LLC | The Taipan compiler: a statically typed language with Python's syntax, compiled… |
-| 2026-11-04 13:24:01 | [TaipanLang.Runtime](https://www.nuget.org/packages/TaipanLang.Runtime) | 0.4.0 | Discover Edge, LLC | The runtime library that programs compiled by Taipan reference. |
-| 2026-11-04 13:31:32 | [Cilica.Core](https://www.nuget.org/packages/Cilica.Core) | 0.14.0-preview | hez2010,dubiousconst282 | Optimizer and intermediate representation for .NET IL. |
-| 2026-11-04 13:31:32 | [Cilica.OptimizerTask](https://www.nuget.org/packages/Cilica.OptimizerTask) | 0.14.0-preview | hez2010,dubiousconst282 | MSBuild tasks for post-build IL optimization. |
-| 2026-11-04 13:32:10 | [Kuestenlogik.Bowire.Interop](https://www.nuget.org/packages/Kuestenlogik.Bowire.Interop) | 2.10.0 | Kuestenlogik | Bowire interop — import Insomnia exports, Bruno collections and .http files int… |
-| 2026-11-04 13:32:17 | [Kuestenlogik.Bowire.DataSets](https://www.nuget.org/packages/Kuestenlogik.Bowire.DataSets) | 2.10.0 | Kuestenlogik | Bowire data sets — parse CSV and JSON data files into rows for data-driven runs… |
-| 2026-11-04 13:33:18 | [AppWeaver.Auditing](https://www.nuget.org/packages/AppWeaver.Auditing) | 1.0.0 | Team AppWeaver | Provider-agnostic auditing abstractions for the AppWeaver framework. Defines ma… |
-| 2026-11-04 13:34:48 | [AppWeaver.Auditing.EfCore](https://www.nuget.org/packages/AppWeaver.Auditing.EfCore) | 1.0.0 | Team AppWeaver | EF Core provider implementation for AppWeaver.Auditing. Includes interceptors,… |
-| 2026-11-04 13:35:32 | [Arc56.Generated.Shivanikinagi.Dehug](https://www.nuget.org/packages/Arc56.Generated.Shivanikinagi.Dehug) | 1.0.1.2026110413 | Shivanikinagi | Generated ARC-56 Algorand smart-contract clients for Shivanikinagi/Dehug. |
-| 2026-11-04 13:40:27 | [HeartbeatScheduler](https://www.nuget.org/packages/HeartbeatScheduler) | 0.1.0 | Mark Hammond | Heartbeat scheduling for micro-task parallel loops: sequential by default, each… |
-| 2026-11-04 13:41:48 | [Biz.Bizadm.MCP.ToolKit](https://www.nuget.org/packages/Biz.Bizadm.MCP.ToolKit) | 1.0.0 | SeongSikChae | ASP.NET Core MCP Server에 WithTools로 등록하는 Tool 모음 |
-| 2026-11-04 13:43:39 | [Audis.Authentication.Hmac](https://www.nuget.org/packages/Audis.Authentication.Hmac) | 2.0.0 | softaware gmbh | HMAC mechanism for Audis.Authentication: inbound scheme wrapping softaware.Auth… |
-| 2026-11-04 13:43:44 | [MusselSheet](https://www.nuget.org/packages/MusselSheet) | 0.0.1 | machi_pon | Excel-like input sheet for Blazor, made for keyboard and IME entry |
-| 2026-11-04 13:43:52 | [Audis.Authentication.Jwt](https://www.nuget.org/packages/Audis.Authentication.Jwt) | 2.0.0 | softaware gmbh | JWT mechanism for Audis.Authentication based on Microsoft.AspNetCore.Authentica… |
-| 2026-11-04 13:54:36 | [YngveHestem.Quill.Markdown](https://www.nuget.org/packages/YngveHestem.Quill.Markdown) | 1.0.0 | Yngve J. K. Hestem | This library contains DTO's and other abstractions that is used in YngveHestem.… |
-| 2026-11-04 13:55:44 | [Anarchon.SqlServer](https://www.nuget.org/packages/Anarchon.SqlServer) | 0.6.1 | Aristotelis | SQL Server and Azure SQL backend for Anarchon, on Microsoft.Data.SqlClient: one… |
-| 2026-11-04 13:57:32 | [alkpli.SkiaSharp.NativeAssets.Linux](https://www.nuget.org/packages/alkpli.SkiaSharp.NativeAssets.Linux) | 4.152.4 | Microsoft | SkiaSharp.NativeAssets.Linux provides native runtime assets for SkiaSharp. |
-| 2026-11-04 13:58:46 | [ManoxCZ.Noesis.MonoGame](https://www.nuget.org/packages/ManoxCZ.Noesis.MonoGame) | 4.0.1-preview | ManoxCZ | NoesisUI integration into MonoGame framework using the "native" Noesis renderer… |
+| 2026-11-04 14:21:59 | [Nullean.Cdp](https://www.nuget.org/packages/Nullean.Cdp) | 0.1.0 | Nullean and contributors | A small, AOT-clean Chrome DevTools Protocol client: find and launch Chrome, dri… |
+| 2026-11-04 14:22:00 | [Nullean.Cdp.Cli.any](https://www.nuget.org/packages/Nullean.Cdp.Cli.any) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:22:02 | [Nullean.Cdp.Cli.linux-arm64](https://www.nuget.org/packages/Nullean.Cdp.Cli.linux-arm64) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:22:04 | [Nullean.Cdp.Cli.linux-x64](https://www.nuget.org/packages/Nullean.Cdp.Cli.linux-x64) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:22:06 | [Nullean.Cdp.Cli.osx-arm64](https://www.nuget.org/packages/Nullean.Cdp.Cli.osx-arm64) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:22:08 | [Nullean.Cdp.Cli.win-arm64](https://www.nuget.org/packages/Nullean.Cdp.Cli.win-arm64) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:22:10 | [Nullean.Cdp.Cli.win-x64](https://www.nuget.org/packages/Nullean.Cdp.Cli.win-x64) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:22:11 | [Nullean.Cdp.Journeys](https://www.nuget.org/packages/Nullean.Cdp.Journeys) | 0.1.0 | Nullean and contributors | Synthetic browser journeys: plain text files in agent-browser's command languag… |
+| 2026-11-04 14:22:12 | [Nullean.Cdp.Cli](https://www.nuget.org/packages/Nullean.Cdp.Cli) | 0.1.0 | Nullean and contributors | Run synthetic journeys (agent-browser commands, one per line) against Chrome ov… |
+| 2026-11-04 14:27:13 | [Pbwire](https://www.nuget.org/packages/Pbwire) | 0.1.1 | jinganix | Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code |
+| 2026-11-04 14:27:27 | [Technosoftware.UaUtilities](https://www.nuget.org/packages/Technosoftware.UaUtilities) | 7.0.0 | Technosoftware GmbH | OPC UA Solutions .NET Utilities Library |
+| 2026-11-04 14:27:28 | [Technosoftware.UaConfiguration](https://www.nuget.org/packages/Technosoftware.UaConfiguration) | 7.0.0 | Technosoftware GmbH | OPC UA Solutions .NET Configuration Library |
+| 2026-11-04 14:27:29 | [Technosoftware.UaClient](https://www.nuget.org/packages/Technosoftware.UaClient) | 7.0.0 | Technosoftware GmbH | OPC UA Solutions .NET Client Library |
+| 2026-11-04 14:27:30 | [Technosoftware.UaServer](https://www.nuget.org/packages/Technosoftware.UaServer) | 7.0.0 | Technosoftware GmbH | OPC UA Solutions .NET Server Library |
+| 2026-11-04 14:39:16 | [LanguageWire.Connectors.Optimizely13](https://www.nuget.org/packages/LanguageWire.Connectors.Optimizely13) | 13.2.1 | LanguageWire | LanguageWire Optimizely 13 connector |
+| 2026-11-04 14:59:09 | [HappyOne.MSBuildAnalyzer](https://www.nuget.org/packages/HappyOne.MSBuildAnalyzer) | 1.2.8 | Olexander | MSBuild Compatibility Analyzer - inspect MSBuild files, toolset versions, and b… |
+| 2026-11-04 14:59:58 | [Vey.Avalonia.LiquidGlass](https://www.nuget.org/packages/Vey.Avalonia.LiquidGlass) | 0.1.0 | VeyDlin | Apple-style Liquid Glass panel for Avalonia: real-time backdrop refraction, chr… |
+| 2026-11-04 14:59:58 | [Curl.Impersonate.Runtime.win-x64](https://www.nuget.org/packages/Curl.Impersonate.Runtime.win-x64) | 1.0.1 | Curl.Impersonate | Native libcurl-impersonate binaries for the win-x64 runtime, consumed transitiv… |
+| 2026-11-04 15:00:04 | [Curl.Impersonate.Runtime.linux-x64](https://www.nuget.org/packages/Curl.Impersonate.Runtime.linux-x64) | 1.0.1 | Curl.Impersonate | Portable native libcurl-impersonate for Linux x64 with glibc >= 2.17 and IDN su… |
+| 2026-11-04 15:00:06 | [Curl.Impersonate](https://www.nuget.org/packages/Curl.Impersonate) | 1.0.1 | Curl.Impersonate | Managed .NET 9/10 wrapper around libcurl-impersonate. Sends HTTP requests with… |
+| 2026-11-04 15:00:33 | [HappyOne.WinUI3Controls](https://www.nuget.org/packages/HappyOne.WinUI3Controls) | 1.0.9 | WinUI3Controls | A highly customizable WinUI 3 custom button component that enables structural p… |
+| 2026-11-04 15:02:21 | [PackageGarden.LicenseGenerator](https://www.nuget.org/packages/PackageGarden.LicenseGenerator) | 2.1.0-beta2 | Soeteman Software | PackageGarden license manager for Umbraco 18: install this package |
 
 ## Data source
 
