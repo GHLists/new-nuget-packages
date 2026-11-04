@@ -12,31 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 16:20 UTC
+## Latest list — 2026-11-04 17:21 UTC
 
-New packages created between 2026-11-04 15:18 UTC and 2026-11-04 16:20 UTC.
+New packages created between 2026-11-04 16:20 UTC and 2026-11-04 17:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T16-20-34-673638Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T17-21-03-264358Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 15:19:12 | [Neph.GenericLibs.Net.LLMLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.LLMLib) | 0.1.0 | Neph | Generic LLM chat abstractions (service interface, DTOs and a reusable ASP.NET C… |
-| 2026-11-04 15:25:32 | [SimisSharp](https://www.nuget.org/packages/SimisSharp) | 0.1.0 | Miroslav Rábek | Reads, edits and writes the text files of Microsoft Train Simulator (MSTS) and… |
-| 2026-11-04 15:25:40 | [KeelMatrix.PackageSurface](https://www.nuget.org/packages/KeelMatrix.PackageSurface) | 0.1.0 | KeelMatrix | Baselines the execution-capable surface of resolved NuGet dependencies. Detects… |
-| 2026-11-04 15:29:12 | [Bounteous.Data.SQLite](https://www.nuget.org/packages/Bounteous.Data.SQLite) | 0.0.2 | Bounteous | Package Description |
-| 2026-11-04 15:31:32 | [Kopis.iSolutions.iFramework.ReportViewer](https://www.nuget.org/packages/Kopis.iSolutions.iFramework.ReportViewer) | 6.3.44-beta | iSolutions.iFramework.ReportV… | Package Description |
-| 2026-11-04 15:31:40 | [Kopis.iSolutions.iReports.Admin](https://www.nuget.org/packages/Kopis.iSolutions.iReports.Admin) | 6.3.44-beta | iSolutions.iReports.Admin | Contains functionality needed to add iReport Administration functions to projec… |
-| 2026-11-04 15:38:54 | [Hostpanel.Sdk.Packaging](https://www.nuget.org/packages/Hostpanel.Sdk.Packaging) | 3.1.0 | Hostpanel contributors | Shared plugin package validation for hostpanel: the signature format and Ed2551… |
-| 2026-11-04 15:44:33 | [Shenora.Chromium.Codecs.win-x64](https://www.nuget.org/packages/Shenora.Chromium.Codecs.win-x64) | 154.0.32 | Jiarong Gu | CEF 154.0.32 (Chromium 154.0.8037.58) for Windows x64, built with Chromium's pr… |
-| 2026-11-04 16:01:50 | [KetPsi.MessageBrokers.RabbitMQ](https://www.nuget.org/packages/KetPsi.MessageBrokers.RabbitMQ) | 1.0.0 | KetPsi | Native AOT and trim compatible publish/subscribe on RabbitMQ.Client 7. Subscrib… |
-| 2026-11-04 16:02:13 | [DbnFetch.win-x64](https://www.nuget.org/packages/DbnFetch.win-x64) | 0.1.0 | SquidEyes | DbnFetch (dbnf): download raw and processed market data from a DbnSync archive… |
-| 2026-11-04 16:02:14 | [DbnFetch.linux-x64](https://www.nuget.org/packages/DbnFetch.linux-x64) | 0.1.0 | SquidEyes | DbnFetch (dbnf): download raw and processed market data from a DbnSync archive… |
-| 2026-11-04 16:02:15 | [DbnFetch.win-arm64](https://www.nuget.org/packages/DbnFetch.win-arm64) | 0.1.0 | SquidEyes | DbnFetch (dbnf): download raw and processed market data from a DbnSync archive… |
-| 2026-11-04 16:02:16 | [DbnFetch.osx-arm64](https://www.nuget.org/packages/DbnFetch.osx-arm64) | 0.1.0 | SquidEyes | DbnFetch (dbnf): download raw and processed market data from a DbnSync archive… |
-| 2026-11-04 16:02:16 | [DbnFetch](https://www.nuget.org/packages/DbnFetch) | 0.1.0 | SquidEyes | DbnFetch (dbnf): download raw and processed market data from a DbnSync archive… |
-| 2026-11-04 16:02:17 | [DbnFetch.any](https://www.nuget.org/packages/DbnFetch.any) | 0.1.0 | SquidEyes | DbnFetch (dbnf): download raw and processed market data from a DbnSync archive… |
-| 2026-11-04 16:02:17 | [DbnClient](https://www.nuget.org/packages/DbnClient) | 0.1.0 | SquidEyes | DbnClient: reads a DbnSync archive of Databento® files: raw days, continuous se… |
-| 2026-11-04 16:04:21 | [Dloizides.Erasure](https://www.nuget.org/packages/Dloizides.Erasure) | 0.1.0 | DLoizides | GDPR erasure participant contract: an idempotent, secret-protected POST endpoin… |
+| 2026-11-04 16:20:54 | [Oakrey.Bluetooth.Abstractions](https://www.nuget.org/packages/Oakrey.Bluetooth.Abstractions) | 1.0.0 | Oakrey | Transport-independent Bluetooth Low Energy contracts for .NET. Provides adapter… |
+| 2026-11-04 16:21:02 | [Oakrey.Bluetooth.BlueGigaBLE](https://www.nuget.org/packages/Oakrey.Bluetooth.BlueGigaBLE) | 1.0.0 | Oakrey | Bluetooth Low Energy transport for BlueGiga serial adapters using BGLibExt. Imp… |
+| 2026-11-04 16:21:10 | [Oakrey.Bluetooth.WinRT](https://www.nuget.org/packages/Oakrey.Bluetooth.WinRT) | 1.0.0 | Oakrey | Windows Bluetooth Low Energy transport built on WinRT. Implements Oakrey.Blueto… |
+| 2026-11-04 16:22:03 | [Contensive.CRM](https://www.nuget.org/packages/Contensive.CRM) | 26.11.1.12344 | Contensive | Interface library for external applications to integrate with aoCrm. Provides m… |
+| 2026-11-04 16:23:01 | [AarxMaps.Core](https://www.nuget.org/packages/AarxMaps.Core) | 1.0.0 | Aarexus Software | Core library for AarxMaps, a .NET SDK for Google Maps APIs. Provides shared HTT… |
+| 2026-11-04 16:23:01 | [AarxMaps.Places](https://www.nuget.org/packages/AarxMaps.Places) | 1.0.0 | Aarexus Software | .NET SDK for the Google Maps Places API (New). Provides strongly-typed access t… |
+| 2026-11-04 16:23:02 | [AarxMaps.Routes](https://www.nuget.org/packages/AarxMaps.Routes) | 1.0.0 | Aarexus Software | .NET SDK for the Google Maps Routes API. Provides strongly-typed access to Comp… |
+| 2026-11-04 16:23:51 | [Webority.Chat](https://www.nuget.org/packages/Webority.Chat) | 0.129.0 | Webority Technologies | The conversation core of Webority Chat: conversations stored in the product's o… |
+| 2026-11-04 16:23:53 | [Webority.Chat.Admin](https://www.nuget.org/packages/Webority.Chat.Admin) | 0.129.0 | Webority Technologies | The admin area for Webority Chat in Webority.Ui.Razor markup: transcripts, rati… |
+| 2026-11-04 16:23:55 | [Webority.Chat.Ai](https://www.nuget.org/packages/Webority.Chat.Ai) | 0.129.0 | Webority Technologies | The AI responder for Webority Chat: the agent loop over Webority.Ai with the st… |
+| 2026-11-04 16:23:57 | [Webority.Chat.AspNetCore](https://www.nuget.org/packages/Webority.Chat.AspNetCore) | 0.129.0 | Webority Technologies | The Webority Chat routes for one surface: profile, conversations, messages stre… |
+| 2026-11-04 16:24:00 | [Webority.Chat.Razor](https://www.nuget.org/packages/Webority.Chat.Razor) | 0.129.0 | Webority Technologies | The app-chat tag helper for Razor sites, with the chat-elements styles and glob… |
+| 2026-11-04 16:24:01 | [Webority.Chat.Sms.Azure](https://www.nuget.org/packages/Webority.Chat.Sms.Azure) | 0.129.0 | Webority Technologies | The Azure Communication Services SMS adapter for Webority Chat: sends phone one… |
+| 2026-11-04 16:24:03 | [Webority.Chat.Speech](https://www.nuget.org/packages/Webority.Chat.Speech) | 0.129.0 | Webority Technologies | The Azure Speech adapter for Webority Chat: short-lived tokens over managed ide… |
+| 2026-11-04 16:32:18 | [go2cs.linux-arm64](https://www.nuget.org/packages/go2cs.linux-arm64) | 1.26.10.2 | go2cs Authors | The go2cs converter for linux-arm64, installed by the go2cs dotnet tool: dotnet… |
+| 2026-11-04 16:32:19 | [go2cs.linux-x64](https://www.nuget.org/packages/go2cs.linux-x64) | 1.26.10.2 | go2cs Authors | The go2cs converter for linux-x64, installed by the go2cs dotnet tool: dotnet t… |
+| 2026-11-04 16:32:20 | [go2cs.osx-arm64](https://www.nuget.org/packages/go2cs.osx-arm64) | 1.26.10.2 | go2cs Authors | The go2cs converter for osx-arm64, installed by the go2cs dotnet tool: dotnet t… |
+| 2026-11-04 16:32:22 | [go2cs.osx-x64](https://www.nuget.org/packages/go2cs.osx-x64) | 1.26.10.2 | go2cs Authors | The go2cs converter for osx-x64, installed by the go2cs dotnet tool: dotnet too… |
+| 2026-11-04 16:32:23 | [go2cs.win-arm64](https://www.nuget.org/packages/go2cs.win-arm64) | 1.26.10.2 | go2cs Authors | The go2cs converter for win-arm64, installed by the go2cs dotnet tool: dotnet t… |
+| 2026-11-04 16:32:25 | [go2cs.win-x64](https://www.nuget.org/packages/go2cs.win-x64) | 1.26.10.2 | go2cs Authors | The go2cs converter for win-x64, installed by the go2cs dotnet tool: dotnet too… |
+| 2026-11-04 16:32:25 | [go2cs](https://www.nuget.org/packages/go2cs) | 1.26.10.2 | go2cs Authors | Converts Go source code into C# that reads like the Go it came from. Install wi… |
+| 2026-11-04 16:38:22 | [CubedMonitoring](https://www.nuget.org/packages/CubedMonitoring) | 1.1.1 | Cubed Solutions | Cubed Monitoring SDK for process monitoring |
+| 2026-11-04 16:40:17 | [VolocyNazad.Wpf.DependencyPropertyGenerator](https://www.nuget.org/packages/VolocyNazad.Wpf.DependencyPropertyGenerator) | 1.0.0 | VolocyNazad | Roslyn source generator for WPF dependency properties: registration, CLR proper… |
+| 2026-11-04 16:41:34 | [Microsoft.Build.TaskAuthoring.Analyzer](https://www.nuget.org/packages/Microsoft.Build.TaskAuthoring.Analyzer) | 18.13.0 | Microsoft | Provides analyzer guidance for MSBuild task authoring and multithreaded task sa… |
+| 2026-11-04 16:52:42 | [Rocket.NET](https://www.nuget.org/packages/Rocket.NET) | 1.0.0-alpha | Rocket.NET contributors | Declarative, React-style UI framework for .NET. Compose component trees with C#… |
+| 2026-11-04 16:56:47 | [WithEffect.Core.Api](https://www.nuget.org/packages/WithEffect.Core.Api) | 10.0.14 | WithEffect.Services | WithEffect.Core assembles well-known packages for rapid application prototyping… |
+| 2026-11-04 17:01:02 | [SurSolver](https://www.nuget.org/packages/SurSolver) | 0.1.0 | SurSolver | Official .NET client for the SurSolver captcha solver API. Solve reCAPTCHA v3,… |
+| 2026-11-04 17:14:55 | [Faithlife.XcodeProjectFormat](https://www.nuget.org/packages/Faithlife.XcodeProjectFormat) | 0.1.0 | Faithlife | Reads and writes the Xcode JSON project format (project.xcproj). A C# port of h… |
 
 ## Data source
 
