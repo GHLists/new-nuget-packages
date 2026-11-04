@@ -12,36 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 18:19 UTC
+## Latest list — 2026-11-04 19:20 UTC
 
-New packages created between 2026-11-04 17:21 UTC and 2026-11-04 18:19 UTC.
+New packages created between 2026-11-04 18:19 UTC and 2026-11-04 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T18-19-52-814538Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T19-20-08-462005Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 17:26:48 | [si-engine](https://www.nuget.org/packages/si-engine) | 1.1.0 | LuPaLa-Coder | Software Intelligence Engine: analizza applicazioni ASP.NET Core e database SQL… |
-| 2026-11-04 17:29:50 | [Nantuc.Common](https://www.nuget.org/packages/Nantuc.Common) | 0.8.2 | RomanyPe | Package Description |
-| 2026-11-04 17:29:51 | [Nantuc.Compiler](https://www.nuget.org/packages/Nantuc.Compiler) | 0.8.2 | RomanyPe | Frontend и Backend компилятора платформы Nantuc. Frontend принимает исходник на… |
-| 2026-11-04 17:29:52 | [Nantuc.Contracts](https://www.nuget.org/packages/Nantuc.Contracts) | 0.8.2 | RomanyPe | Package Description |
-| 2026-11-04 17:29:53 | [Nantuc.Diagnostics](https://www.nuget.org/packages/Nantuc.Diagnostics) | 0.8.2 | RomanyPe | Package Description |
-| 2026-11-04 17:29:54 | [Nantuc.Kernel](https://www.nuget.org/packages/Nantuc.Kernel) | 0.8.2 | RomanyPe | Package Description |
-| 2026-11-04 17:29:55 | [Nantuc.VmApplication](https://www.nuget.org/packages/Nantuc.VmApplication) | 0.8.2 | RomanyPe | Package Description |
-| 2026-11-04 17:29:57 | [Nantuc.VmApplication.Extensions](https://www.nuget.org/packages/Nantuc.VmApplication.Extensions) | 0.8.2 | RomanyPe | Package Description |
-| 2026-11-04 17:41:40 | [Beryl.Outlook](https://www.nuget.org/packages/Beryl.Outlook) | 2.0.0 | Data TB Software | Enterprise-grade Outlook PST/OST Forensic Analysis, Deep NDB/LTP Carving, B-Tre… |
-| 2026-11-04 17:42:05 | [Unicom360](https://www.nuget.org/packages/Unicom360) | 0.1.0 | Techrode Solutions Limited | The official .NET client for the Unicom360 API: SMS, email and WhatsApp messagi… |
-| 2026-11-04 17:45:37 | [SmsTunnel](https://www.nuget.org/packages/SmsTunnel) | 1.0.0 | Narcis Bodea | Send texts from your own .NET apps through your own Android phone, from your ow… |
-| 2026-11-04 17:45:39 | [SmsTunnel.Extensions.DependencyInjection](https://www.nuget.org/packages/SmsTunnel.Extensions.DependencyInjection) | 1.0.0 | Narcis Bodea | services.AddSmsTunnel() for ASP.NET Core, worker services and other apps with d… |
-| 2026-11-04 17:51:54 | [Cartovia.WinForms](https://www.nuget.org/packages/Cartovia.WinForms) | 1.0.0 | Nicolas Estebe | Cartovia Windows Forms map control: vector maps with MapLibre GL JS (no account… |
-| 2026-11-04 17:51:54 | [Cartovia.WebView2](https://www.nuget.org/packages/Cartovia.WebView2) | 1.0.0 | Nicolas Estebe | Microsoft Edge WebView2 host of Cartovia: serves the map page, bridges messages… |
-| 2026-11-04 17:51:55 | [Cartovia.Wpf](https://www.nuget.org/packages/Cartovia.Wpf) | 1.0.0 | Nicolas Estebe | Cartovia WPF map control: vector maps with MapLibre GL JS (no account needed) o… |
-| 2026-11-04 17:51:56 | [Cartovia.Core](https://www.nuget.org/packages/Cartovia.Core) | 1.0.0 | Nicolas Estebe | UI-agnostic core of Cartovia, vector maps for .NET desktop apps: strongly-typed… |
-| 2026-11-04 17:51:56 | [Cartovia.Mapbox.Services](https://www.nuget.org/packages/Cartovia.Mapbox.Services) | 1.0.0 | Nicolas Estebe | Optional Mapbox extension of Cartovia: strongly-typed .NET client for the Mapbo… |
-| 2026-11-04 17:54:11 | [XDev.OpenWrt.uBus.Client.Net](https://www.nuget.org/packages/XDev.OpenWrt.uBus.Client.Net) | 0.0.1-alpha001 | jasells,XDevApps | Client for the OpenWrt ubus HTTP JSON-RPC API (uhttpd-mod-ubus + rpcd): session… |
-| 2026-11-04 18:00:43 | [BRIDGES](https://www.nuget.org/packages/BRIDGES) | 0.1.0 | Nicolas MONTAGNE, Romain MESN… | Tools from the Build'in platform for Geometry and Structural Design. |
-| 2026-11-04 18:03:56 | [Descope.Maui](https://www.nuget.org/packages/Descope.Maui) | 1.1.0 | Descope | The Descope SDK for .NET MAUI signs users in with Descope Flows through the sys… |
-| 2026-11-04 18:08:08 | [Puppetty](https://www.nuget.org/packages/Puppetty) | 1.0.0 | Tom Laird-McConnell | The puppetty tool: drive CLI/TUI programs in a real terminal from the shell, wi… |
-| 2026-11-04 18:08:09 | [Puppetty.NET](https://www.nuget.org/packages/Puppetty.NET) | 1.0.0 | Tom Laird-McConnell | Drive CLI/TUI programs in a real pseudo-terminal from code: type, press keys, c… |
+| 2026-11-04 18:25:19 | [ReusableFiniteStateMachine.Release](https://www.nuget.org/packages/ReusableFiniteStateMachine.Release) | 0.1.6 | Aurélien Pascal Maignan | This library offer a reusable finite state machine (FSM) to use for your own pr… |
+| 2026-11-04 18:25:26 | [ExcelReader.NET.Framework](https://www.nuget.org/packages/ExcelReader.NET.Framework) | 7.4.0 | Gabriel Matte | Fast XLSX/XLSB/XLS/CSV reading for .NET Framework 4.7.2+, backed by the ExcelRe… |
+| 2026-11-04 18:27:52 | [Solhigson.Analyzers](https://www.nuget.org/packages/Solhigson.Analyzers) | 10.0.0 | Solhigson | Development-only compile-time rules for Solhigson projects: the IDE style rules… |
+| 2026-11-04 18:30:12 | [WithEffect.Core](https://www.nuget.org/packages/WithEffect.Core) | 10.0.14 | WithEffect.Services | WithEffect.Core assembles well-known packages for rapid application prototyping… |
+| 2026-11-04 18:51:14 | [WithEffect.Frontend](https://www.nuget.org/packages/WithEffect.Frontend) | 10.0.14 | WithEffect.Services | WithEffect.Core assembles well-known packages for rapid application prototyping… |
+| 2026-11-04 18:54:37 | [Activout.Extensions.Configuration.Kdbx](https://www.nuget.org/packages/Activout.Extensions.Configuration.Kdbx) | 0.1.0 | Activout AB | A Microsoft.Extensions.Configuration source that reads secrets from a KeePass (… |
+| 2026-11-04 18:59:20 | [Cartovia.Avalonia](https://www.nuget.org/packages/Cartovia.Avalonia) | 1.1.0 | Nicolas Estebe | Cartovia Avalonia map control: vector maps with MapLibre GL JS (no account need… |
 
 ## Data source
 
