@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-04T04:24:24.173Z,OxyKit.Observability,0.1.1,OxyKit,JSON console logging and X-Correlation-Id helpers for OxyKit ASP.NET Core hosts.
+2026-11-04T04:24:24.87Z,OxyKit.OpenTelemetry,0.1.1,OxyKit,Optional OpenTelemetry OTLP wiring for OxyKit ASP.NET Core hosts (off by default).
+2026-11-04T04:29:44.263Z,MemoryPack.Generator.Patched,1.21.4.3,"aminparsa18,Cysharp","Unofficial patched build of the MemoryPack source generator (based on Cysharp/MemoryPack 1.21.4). TypeScript generator changes: DateTimeOffset, IReadOnlyList, IReadOnlyCollection and IReadOnlyDictionary support (fixes MEMPACK031 for those types; see Cysharp/MemoryPack PR #459); nullable readers tha…"
+2026-11-04T04:50:38.25Z,Simular.Sai,0.1.0,Simular,".NET SDK for the Sai API: delegate desktop work to Sai, or drive a cloud computer directly."
+2026-11-04T04:51:11.617Z,specht.tool,0.4.2-preview,"Rodney Littles, II",A dotnet tool that checks a repository's specification documents against a versioned schema.
+2026-11-04T04:51:13.28Z,Specht.CodeAnalysis,0.4.2-preview,codeanalysis,"Specht analyzer, code fixes and consumer build integration."
+2026-11-04T04:55:36.433Z,AJut.UX.Android,2.0.0,AJ Badarni,"C# / dotnet 10 / Android Views controls & utility library, created by AJ Badarni"
+2026-11-04T04:55:45.037Z,AJut.UX.AppKit,2.0.0,AJ Badarni,"C# / dotnet 10 / AppKit (macOS) controls & utility library, created by AJ Badarni"
+2026-11-04T04:55:55.02Z,AJut.UX.UIKit,2.0.0,AJ Badarni,"C# / dotnet 10 / UIKit (iOS) controls & utility library, created by AJ Badarni"
+2026-11-04T05:00:52.063Z,Sdcb.SimdCodecs.Heif,1.4.0,sdcb,"Pure-managed HEIF / HEIC decoder for .NET: ISOBMFF container (ISO/IEC 14496-12), HEIF item model (ISO/IEC 23008-12), and HEVC intra decode (ITU-T H.265 Main and Main 10 profiles). Decodes tiled still images (grid), 8-bit and 10-bit, with ICC colour profiles, nclx colour signalling and the clap / ir…"
+2026-11-04T05:09:55.833Z,Beatd,0.0.1,nuskey,beatd(a cross-platform audio analysis library) binding for .NET
