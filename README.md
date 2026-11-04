@@ -12,20 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 02:20 UTC
+## Latest list — 2026-11-04 03:21 UTC
 
-New packages created between 2026-11-04 01:21 UTC and 2026-11-04 02:20 UTC.
+New packages created between 2026-11-04 02:20 UTC and 2026-11-04 03:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T02-20-47-849837Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T03-21-02-671059Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 01:26:16 | [Sevencat.ZlmSharp.MediaServer](https://www.nuget.org/packages/Sevencat.ZlmSharp.MediaServer) | 1.0.0 | sevencat | Package Description |
-| 2026-11-04 01:28:34 | [cecloud.archive.chromium.headless.shell](https://www.nuget.org/packages/cecloud.archive.chromium.headless.shell) | 1248.0.0 | zsc | Microsoft.Playwright 浏览器运行环境，无头浏览器模式 |
-| 2026-11-04 01:31:31 | [cecloud.archive.chromium](https://www.nuget.org/packages/cecloud.archive.chromium) | 1248.0.0 | zsc | Microsoft.Playwright 浏览器运行环境 |
-| 2026-11-04 01:41:00 | [cecloud.archive.microsoft.playwright](https://www.nuget.org/packages/cecloud.archive.microsoft.playwright) | 1.64.1 | zsc | microsoft.playwright win32_x64 |
-| 2026-11-04 01:45:31 | [Embedix.Core](https://www.nuget.org/packages/Embedix.Core) | 1.0.0 | Soheil Jashnsaz | A library for embedding .NET assembly dependencies. |
-| 2026-11-04 01:58:10 | [FaultlineDispatcher.SqlServer](https://www.nuget.org/packages/FaultlineDispatcher.SqlServer) | 0.1.0 | Troy Crowe | SQL Server exception mapper for FaultlineDispatcher. Maps SqlException error nu… |
+| 2026-11-04 02:22:51 | [NSail.Harness.Hosting](https://www.nuget.org/packages/NSail.Harness.Hosting) | 0.1.472 | Leonardo Porro,Emmanuel Arias | NSail.Harness.Hosting, part of NSail Stack: a .NET modular-monolith framework (… |
+| 2026-11-04 02:22:55 | [NSail.Harness.Sdk](https://www.nuget.org/packages/NSail.Harness.Sdk) | 0.1.472 | Leonardo Porro,Emmanuel Arias | NSail.Harness.Sdk, part of NSail Stack: a .NET modular-monolith framework (mess… |
+| 2026-11-04 02:22:57 | [NSail.Harness](https://www.nuget.org/packages/NSail.Harness) | 0.1.472 | Leonardo Porro,Emmanuel Arias | NSail.Harness, part of NSail Stack: a .NET modular-monolith framework (messagin… |
+| 2026-11-04 02:23:04 | [NSail.Harness.GitHub](https://www.nuget.org/packages/NSail.Harness.GitHub) | 0.1.472 | Leonardo Porro,Emmanuel Arias | NSail.Harness.GitHub, part of NSail Stack: a .NET modular-monolith framework (m… |
+| 2026-11-04 02:23:04 | [NSail.Harness.Claude](https://www.nuget.org/packages/NSail.Harness.Claude) | 0.1.472 | Leonardo Porro,Emmanuel Arias | NSail.Harness.Claude, part of NSail Stack: a .NET modular-monolith framework (m… |
+| 2026-11-04 03:09:14 | [HHO.LV.NetClaw.Providers.Anthropic](https://www.nuget.org/packages/HHO.LV.NetClaw.Providers.Anthropic) | 1.2.14 | HuyHo | Package Description |
+| 2026-11-04 03:09:39 | [HHO.LV.NetClaw.Providers.Google](https://www.nuget.org/packages/HHO.LV.NetClaw.Providers.Google) | 1.2.14 | HuyHo | Package Description |
 
 ## Data source
 
