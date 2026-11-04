@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 01:21 UTC
+## Latest list — 2026-11-04 02:20 UTC
 
-New packages created between 2026-11-04 00:21 UTC and 2026-11-04 01:21 UTC.
+New packages created between 2026-11-04 01:21 UTC and 2026-11-04 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T01-21-08-363943Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T02-20-47-849837Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 00:56:15 | [Khamsin](https://www.nuget.org/packages/Khamsin) | 0.1.0 | lllggghhhaaa | Khamsin: build-time utility CSS for Blazor with a closed, literal class set. |
-| 2026-11-04 00:57:40 | [cecloud.archive.netframework.referenceassemblies](https://www.nuget.org/packages/cecloud.archive.netframework.referenceassemblies) | 1.0.0 | zsc | .NET Framework 4.0 4.5.2 4.6.1 vs2022 运行以上环境。使用方法 下载解压，打开如下目录 .NETFramework 解压后… |
-| 2026-11-04 01:08:26 | [FerreiraCodecraft.Commons.Ofx](https://www.nuget.org/packages/FerreiraCodecraft.Commons.Ofx) | 5.2.1 | Lipe1994 | Tolerant reader for OFX bank and credit card statements (OFX 1.x SGML and 2.x X… |
-| 2026-11-04 01:14:53 | [WASU.Plugin.RPC.Client](https://www.nuget.org/packages/WASU.Plugin.RPC.Client) | 26.1104.9 | WASU.Plugin.RPC.Client | Package Description |
+| 2026-11-04 01:26:16 | [Sevencat.ZlmSharp.MediaServer](https://www.nuget.org/packages/Sevencat.ZlmSharp.MediaServer) | 1.0.0 | sevencat | Package Description |
+| 2026-11-04 01:28:34 | [cecloud.archive.chromium.headless.shell](https://www.nuget.org/packages/cecloud.archive.chromium.headless.shell) | 1248.0.0 | zsc | Microsoft.Playwright 浏览器运行环境，无头浏览器模式 |
+| 2026-11-04 01:31:31 | [cecloud.archive.chromium](https://www.nuget.org/packages/cecloud.archive.chromium) | 1248.0.0 | zsc | Microsoft.Playwright 浏览器运行环境 |
+| 2026-11-04 01:41:00 | [cecloud.archive.microsoft.playwright](https://www.nuget.org/packages/cecloud.archive.microsoft.playwright) | 1.64.1 | zsc | microsoft.playwright win32_x64 |
+| 2026-11-04 01:45:31 | [Embedix.Core](https://www.nuget.org/packages/Embedix.Core) | 1.0.0 | Soheil Jashnsaz | A library for embedding .NET assembly dependencies. |
+| 2026-11-04 01:58:10 | [FaultlineDispatcher.SqlServer](https://www.nuget.org/packages/FaultlineDispatcher.SqlServer) | 0.1.0 | Troy Crowe | SQL Server exception mapper for FaultlineDispatcher. Maps SqlException error nu… |
 
 ## Data source
 
