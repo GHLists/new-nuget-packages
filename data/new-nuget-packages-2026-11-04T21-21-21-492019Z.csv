@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-04T20:26:34.52Z,TrueTechSoftware.MauiMasonry,0.1.0,True Tech Software,"A lightweight, performant .NET MAUI control for building Pinterest-style staggered masonry grids with item virtualization."
+2026-11-04T20:26:35.15Z,TrueTechSoftware.MauiMasonry.Core,0.1.0,True Tech Software,Core contracts and deterministic layout calculation engine for MauiMasonry staggered grids.
+2026-11-04T20:30:31.3Z,Pmad.AI.DiffGuard,0.0.3,Julien Etelain,"Git diff security, supply-chain, blast-radius, and cross-model LLM judge CLI guardrail tool."
+2026-11-04T20:48:02.483Z,Suwageval.AgentSdk,0.1.0,Piotr Gugnowski,"Everything a .NET agent under test needs for Suwageval, an evaluation server for LLM agents: the contract types, their JSON options, the contract rules and the two endpoints (GET /suwageval/contract, POST /suwageval/turn)."
+2026-11-04T20:56:08.063Z,PluginUI.NPlug,0.2.0,asm8086,Hosts PluginUI editors in NPlug (VST3) plug-ins: IAudioPluginView adapter and parameter binding.
+2026-11-04T20:56:08.62Z,PluginUI,0.2.0,asm8086,"Win32 + Direct2D user interface toolkit for audio plug-in editors (VST3...), NativeAOT compatible."
+2026-11-04T20:56:08.963Z,PluginUI.Design,0.2.0,asm8086,"PluginUI designs (.pluginui): document model, AOT-safe runtime loader, C# code generation, project scaffolding and live design bridge."
