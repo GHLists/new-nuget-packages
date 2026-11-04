@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-11-03T23:34:10.47Z,SaferAccessors,0.1.0,Jason Bock,A C# source generator to make Reflection faster and safer using unsafe accessors in an automated way
