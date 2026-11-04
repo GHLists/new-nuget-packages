@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-04T05:36:51.453Z,Pydantic.OpAmp.Core.Native,0.1.1,Pydantic.OpAmp.Core.Native,"The shared OpAMP client core for Pydantic.OpAmp.Client, compiled for each platform"
+2026-11-04T05:36:52.367Z,Pydantic.OpAmp.Client,0.1.1,Pydantic.OpAmp.Client,"An OpAMP client for .NET, on the shared OpAMP core (Rust, as a native library)"
+2026-11-04T05:36:53.317Z,Pydantic.OpAmp.Extensions.Hosting,0.1.1,Pydantic.OpAmp.Extensions.Hosting,"An OpenTelemetry .NET SDK set up in code (services.AddOpenTelemetry()) under an OpAMP server, in one call: .WithOpAmp()"
+2026-11-04T05:36:54.18Z,Pydantic.OpAmp.AutoInstrumentation,0.1.1,Pydantic.OpAmp.AutoInstrumentation,A plugin for OpenTelemetry .NET automatic instrumentation: the SDK under an OpAMP server
+2026-11-04T05:46:10.437Z,Plot3D.Avalonia,1.0.1,Plot3D.Avalonia Contributors,"A lightweight, high-performance and AOT friendly 3D plotting control for Avalonia 12. Scientific-style 3D line / scatter charts with orbit camera, grid, ticks, legend and palette colors."
+2026-11-04T06:12:58.727Z,RForge.Blazor.AutoApi.Abstractions,1.0.0,Rumhyek,Attributes and exception types for the RForge Blazor Auto API source generator. Reference this from the library that holds your shared service interfaces.
+2026-11-04T06:12:59.157Z,RForge.Blazor.Components,1.0.0,Rumhyek,A light weight blazor component library that makes use of Bulma.css and focuses on memory efficiency.
+2026-11-04T06:12:59.373Z,RForge.Blazor.Events,1.0.0,Rumhyek,"Typed events and reactive state for Blazor components, wherever they sit in the component tree."

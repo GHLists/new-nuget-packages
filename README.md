@@ -12,25 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 05:20 UTC
+## Latest list — 2026-11-04 06:18 UTC
 
-New packages created between 2026-11-04 04:18 UTC and 2026-11-04 05:20 UTC.
+New packages created between 2026-11-04 05:20 UTC and 2026-11-04 06:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T05-20-04-616985Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T06-18-41-324344Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 04:24:24 | [OxyKit.Observability](https://www.nuget.org/packages/OxyKit.Observability) | 0.1.1 | OxyKit | JSON console logging and X-Correlation-Id helpers for OxyKit ASP.NET Core hosts. |
-| 2026-11-04 04:24:24 | [OxyKit.OpenTelemetry](https://www.nuget.org/packages/OxyKit.OpenTelemetry) | 0.1.1 | OxyKit | Optional OpenTelemetry OTLP wiring for OxyKit ASP.NET Core hosts (off by defaul… |
-| 2026-11-04 04:29:44 | [MemoryPack.Generator.Patched](https://www.nuget.org/packages/MemoryPack.Generator.Patched) | 1.21.4.3 | aminparsa18,Cysharp | Unofficial patched build of the MemoryPack source generator (based on Cysharp/M… |
-| 2026-11-04 04:50:38 | [Simular.Sai](https://www.nuget.org/packages/Simular.Sai) | 0.1.0 | Simular | .NET SDK for the Sai API: delegate desktop work to Sai, or drive a cloud comput… |
-| 2026-11-04 04:51:11 | [specht.tool](https://www.nuget.org/packages/specht.tool) | 0.4.2-preview | Rodney Littles, II | A dotnet tool that checks a repository's specification documents against a vers… |
-| 2026-11-04 04:51:13 | [Specht.CodeAnalysis](https://www.nuget.org/packages/Specht.CodeAnalysis) | 0.4.2-preview | codeanalysis | Specht analyzer, code fixes and consumer build integration. |
-| 2026-11-04 04:55:36 | [AJut.UX.Android](https://www.nuget.org/packages/AJut.UX.Android) | 2.0.0 | AJ Badarni | C# / dotnet 10 / Android Views controls & utility library, created by AJ Badarni |
-| 2026-11-04 04:55:45 | [AJut.UX.AppKit](https://www.nuget.org/packages/AJut.UX.AppKit) | 2.0.0 | AJ Badarni | C# / dotnet 10 / AppKit (macOS) controls & utility library, created by AJ Badar… |
-| 2026-11-04 04:55:55 | [AJut.UX.UIKit](https://www.nuget.org/packages/AJut.UX.UIKit) | 2.0.0 | AJ Badarni | C# / dotnet 10 / UIKit (iOS) controls & utility library, created by AJ Badarni |
-| 2026-11-04 05:00:52 | [Sdcb.SimdCodecs.Heif](https://www.nuget.org/packages/Sdcb.SimdCodecs.Heif) | 1.4.0 | sdcb | Pure-managed HEIF / HEIC decoder for .NET: ISOBMFF container (ISO/IEC 14496-12)… |
-| 2026-11-04 05:09:55 | [Beatd](https://www.nuget.org/packages/Beatd) | 0.0.1 | nuskey | beatd(a cross-platform audio analysis library) binding for .NET |
+| 2026-11-04 05:36:51 | [Pydantic.OpAmp.Core.Native](https://www.nuget.org/packages/Pydantic.OpAmp.Core.Native) | 0.1.1 | Pydantic.OpAmp.Core.Native | The shared OpAMP client core for Pydantic.OpAmp.Client, compiled for each platf… |
+| 2026-11-04 05:36:52 | [Pydantic.OpAmp.Client](https://www.nuget.org/packages/Pydantic.OpAmp.Client) | 0.1.1 | Pydantic.OpAmp.Client | An OpAMP client for .NET, on the shared OpAMP core (Rust, as a native library) |
+| 2026-11-04 05:36:53 | [Pydantic.OpAmp.Extensions.Hosting](https://www.nuget.org/packages/Pydantic.OpAmp.Extensions.Hosting) | 0.1.1 | Pydantic.OpAmp.Extensions.Hos… | An OpenTelemetry .NET SDK set up in code (services.AddOpenTelemetry()) under an… |
+| 2026-11-04 05:36:54 | [Pydantic.OpAmp.AutoInstrumentation](https://www.nuget.org/packages/Pydantic.OpAmp.AutoInstrumentation) | 0.1.1 | Pydantic.OpAmp.AutoInstrument… | A plugin for OpenTelemetry .NET automatic instrumentation: the SDK under an OpA… |
+| 2026-11-04 05:46:10 | [Plot3D.Avalonia](https://www.nuget.org/packages/Plot3D.Avalonia) | 1.0.1 | Plot3D.Avalonia Contributors | A lightweight, high-performance and AOT friendly 3D plotting control for Avalon… |
+| 2026-11-04 06:12:58 | [RForge.Blazor.AutoApi.Abstractions](https://www.nuget.org/packages/RForge.Blazor.AutoApi.Abstractions) | 1.0.0 | Rumhyek | Attributes and exception types for the RForge Blazor Auto API source generator.… |
+| 2026-11-04 06:12:59 | [RForge.Blazor.Components](https://www.nuget.org/packages/RForge.Blazor.Components) | 1.0.0 | Rumhyek | A light weight blazor component library that makes use of Bulma.css and focuses… |
+| 2026-11-04 06:12:59 | [RForge.Blazor.Events](https://www.nuget.org/packages/RForge.Blazor.Events) | 1.0.0 | Rumhyek | Typed events and reactive state for Blazor components, wherever they sit in the… |
 
 ## Data source
 
