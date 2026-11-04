@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-04T00:56:15.427Z,Khamsin,0.1.0,lllggghhhaaa,"Khamsin: build-time utility CSS for Blazor with a closed, literal class set."
+2026-11-04T00:57:40.31Z,cecloud.archive.netframework.referenceassemblies,1.0.0,zsc,.NET Framework 4.0 4.5.2 4.6.1 vs2022 运行以上环境。使用方法 下载解压，打开如下目录 .NETFramework 解压后 复制到C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework 对应的目录中
+2026-11-04T01:08:26.61Z,FerreiraCodecraft.Commons.Ofx,5.2.1,Lipe1994,"Tolerant reader for OFX bank and credit card statements (OFX 1.x SGML and 2.x XML), tuned for files exported by Brazilian banks. Detects UTF-8 or Windows-1252 from the bytes, accepts unclosed tags, comma or dot decimals and broken dates, and reports problems per transaction instead of failing the w…"
+2026-11-04T01:14:53.67Z,WASU.Plugin.RPC.Client,26.1104.9,WASU.Plugin.RPC.Client,Package Description
