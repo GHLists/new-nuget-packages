@@ -12,30 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 13:19 UTC
+## Latest list — 2026-11-04 14:21 UTC
 
-New packages created between 2026-11-04 12:21 UTC and 2026-11-04 13:19 UTC.
+New packages created between 2026-11-04 13:19 UTC and 2026-11-04 14:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T13-19-41-944297Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T14-21-39-418356Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 12:22:45 | [ThunderID.AspNetCore](https://www.nuget.org/packages/ThunderID.AspNetCore) | 0.1.0 | Pasindu Balasooriya | Sign users in to ASP.NET Core apps with ThunderID, protect APIs with ThunderID… |
-| 2026-11-04 12:26:06 | [Inertia.Net.EntityFrameworkCore](https://www.nuget.org/packages/Inertia.Net.EntityFrameworkCore) | 1.6.2 | Inertia.Net contributors | Entity Framework Core pagination for Inertia.Net (not Native AOT compatible). |
-| 2026-11-04 12:28:29 | [zzzzv.SPMRating](https://www.nuget.org/packages/zzzzv.SPMRating) | 1.2.0 | zzzzv | Unofficial C# port of SPM Rating, an osu!mania difficulty model (4K / 6K / 7K). |
-| 2026-11-04 12:30:43 | [OpenSceneGraph.Net.Rendering.OpenGL](https://www.nuget.org/packages/OpenSceneGraph.Net.Rendering.OpenGL) | 0.1.0 | Gravicode Studios (Kang Fadhi… | OpenGL 3.3 / OpenGL ES 3.0 renderer for OpenSceneGraph.Net render lists: Blinn-… |
-| 2026-11-04 12:30:44 | [OpenSceneGraph.Net.Cli](https://www.nuget.org/packages/OpenSceneGraph.Net.Cli) | 0.1.0 | Gravicode Studios (Kang Fadhi… | osgnet — command line tool for OpenSceneGraph.Net: inspect, convert, optimize,… |
-| 2026-11-04 12:30:45 | [OpenSceneGraph.Net](https://www.nuget.org/packages/OpenSceneGraph.Net) | 0.1.0 | Gravicode Studios (Kang Fadhi… | .NET 10 scene graph modelled on OpenSceneGraph: nodes, transforms, LOD, paging,… |
-| 2026-11-04 12:30:46 | [OpenSceneGraph.Net.Templates](https://www.nuget.org/packages/OpenSceneGraph.Net.Templates) | 0.1.0 | Gravicode Studios (Kang Fadhi… | dotnet new templates for OpenSceneGraph.Net: console (native osgViewer / offscr… |
-| 2026-11-04 12:30:46 | [OpenSceneGraph.Net.Blazor](https://www.nuget.org/packages/OpenSceneGraph.Net.Blazor) | 0.1.0 | Gravicode Studios (Kang Fadhi… | Blazor component (OsgCanvas) that runs an OpenSceneGraph.Net viewer in .NET and… |
-| 2026-11-04 12:30:48 | [OpenSceneGraph.Net.Native](https://www.nuget.org/packages/OpenSceneGraph.Net.Native) | 0.1.0 | Gravicode Studios (Kang Fadhi… | Native OpenSceneGraph 3.6.5 runtime for OpenSceneGraph.Net: reads/writes every… |
-| 2026-11-04 12:30:48 | [OpenSceneGraph.Net.Avalonia](https://www.nuget.org/packages/OpenSceneGraph.Net.Avalonia) | 0.1.0 | Gravicode Studios (Kang Fadhi… | Avalonia UI control (OsgView) that hosts an OpenSceneGraph.Net viewer with the… |
-| 2026-11-04 12:33:02 | [Locally.Aspire.Client](https://www.nuget.org/packages/Locally.Aspire.Client) | 0.1.0 | Locally Build | Signs an Aspire app's Azure clients in to Locally: under `locally run`, every A… |
-| 2026-11-04 12:33:02 | [Locally.Aspire.Hosting](https://www.nuget.org/packages/Locally.Aspire.Hosting) | 0.1.0 | Locally Build | Runs an Aspire AppHost's Azure resources in Locally: under `locally run`, `aspi… |
-| 2026-11-04 12:33:03 | [NkkinXlsx](https://www.nuget.org/packages/NkkinXlsx) | 0.1.0 | Nkkin | A lightweight, dependency-free .NET 10 library for creating and reading XLSX wo… |
-| 2026-11-04 12:40:08 | [WorldRef](https://www.nuget.org/packages/WorldRef) | 1.1.1 | worldref contributors | Every country in Arabic, English, or both: names, nationalities, dial codes, ph… |
-| 2026-11-04 12:56:16 | [VstAudio](https://www.nuget.org/packages/VstAudio) | 0.0.1 | 115dkk | Reserved name for the .NET bindings of vst-audio, an isolated-process VST2/VST3… |
-| 2026-11-04 13:09:31 | [Webority.Mentions](https://www.nuget.org/packages/Webority.Mentions) | 0.129.0 | Webority Technologies | Reads the mention values a Webority mention box posts (@[Label](id)): the disti… |
+| 2026-11-04 13:24:00 | [TaipanLang.Sdk](https://www.nuget.org/packages/TaipanLang.Sdk) | 0.4.0 | Discover Edge, LLC | The MSBuild project SDK that builds Taipan (.tpnproj) projects with dotnet buil… |
+| 2026-11-04 13:24:01 | [TaipanLang](https://www.nuget.org/packages/TaipanLang) | 0.4.0 | Discover Edge, LLC | The Taipan compiler: a statically typed language with Python's syntax, compiled… |
+| 2026-11-04 13:24:01 | [TaipanLang.Runtime](https://www.nuget.org/packages/TaipanLang.Runtime) | 0.4.0 | Discover Edge, LLC | The runtime library that programs compiled by Taipan reference. |
+| 2026-11-04 13:31:32 | [Cilica.Core](https://www.nuget.org/packages/Cilica.Core) | 0.14.0-preview | hez2010,dubiousconst282 | Optimizer and intermediate representation for .NET IL. |
+| 2026-11-04 13:31:32 | [Cilica.OptimizerTask](https://www.nuget.org/packages/Cilica.OptimizerTask) | 0.14.0-preview | hez2010,dubiousconst282 | MSBuild tasks for post-build IL optimization. |
+| 2026-11-04 13:32:10 | [Kuestenlogik.Bowire.Interop](https://www.nuget.org/packages/Kuestenlogik.Bowire.Interop) | 2.10.0 | Kuestenlogik | Bowire interop — import Insomnia exports, Bruno collections and .http files int… |
+| 2026-11-04 13:32:17 | [Kuestenlogik.Bowire.DataSets](https://www.nuget.org/packages/Kuestenlogik.Bowire.DataSets) | 2.10.0 | Kuestenlogik | Bowire data sets — parse CSV and JSON data files into rows for data-driven runs… |
+| 2026-11-04 13:33:18 | [AppWeaver.Auditing](https://www.nuget.org/packages/AppWeaver.Auditing) | 1.0.0 | Team AppWeaver | Provider-agnostic auditing abstractions for the AppWeaver framework. Defines ma… |
+| 2026-11-04 13:34:48 | [AppWeaver.Auditing.EfCore](https://www.nuget.org/packages/AppWeaver.Auditing.EfCore) | 1.0.0 | Team AppWeaver | EF Core provider implementation for AppWeaver.Auditing. Includes interceptors,… |
+| 2026-11-04 13:35:32 | [Arc56.Generated.Shivanikinagi.Dehug](https://www.nuget.org/packages/Arc56.Generated.Shivanikinagi.Dehug) | 1.0.1.2026110413 | Shivanikinagi | Generated ARC-56 Algorand smart-contract clients for Shivanikinagi/Dehug. |
+| 2026-11-04 13:40:27 | [HeartbeatScheduler](https://www.nuget.org/packages/HeartbeatScheduler) | 0.1.0 | Mark Hammond | Heartbeat scheduling for micro-task parallel loops: sequential by default, each… |
+| 2026-11-04 13:41:48 | [Biz.Bizadm.MCP.ToolKit](https://www.nuget.org/packages/Biz.Bizadm.MCP.ToolKit) | 1.0.0 | SeongSikChae | ASP.NET Core MCP Server에 WithTools로 등록하는 Tool 모음 |
+| 2026-11-04 13:43:39 | [Audis.Authentication.Hmac](https://www.nuget.org/packages/Audis.Authentication.Hmac) | 2.0.0 | softaware gmbh | HMAC mechanism for Audis.Authentication: inbound scheme wrapping softaware.Auth… |
+| 2026-11-04 13:43:44 | [MusselSheet](https://www.nuget.org/packages/MusselSheet) | 0.0.1 | machi_pon | Excel-like input sheet for Blazor, made for keyboard and IME entry |
+| 2026-11-04 13:43:52 | [Audis.Authentication.Jwt](https://www.nuget.org/packages/Audis.Authentication.Jwt) | 2.0.0 | softaware gmbh | JWT mechanism for Audis.Authentication based on Microsoft.AspNetCore.Authentica… |
+| 2026-11-04 13:54:36 | [YngveHestem.Quill.Markdown](https://www.nuget.org/packages/YngveHestem.Quill.Markdown) | 1.0.0 | Yngve J. K. Hestem | This library contains DTO's and other abstractions that is used in YngveHestem.… |
+| 2026-11-04 13:55:44 | [Anarchon.SqlServer](https://www.nuget.org/packages/Anarchon.SqlServer) | 0.6.1 | Aristotelis | SQL Server and Azure SQL backend for Anarchon, on Microsoft.Data.SqlClient: one… |
+| 2026-11-04 13:57:32 | [alkpli.SkiaSharp.NativeAssets.Linux](https://www.nuget.org/packages/alkpli.SkiaSharp.NativeAssets.Linux) | 4.152.4 | Microsoft | SkiaSharp.NativeAssets.Linux provides native runtime assets for SkiaSharp. |
+| 2026-11-04 13:58:46 | [ManoxCZ.Noesis.MonoGame](https://www.nuget.org/packages/ManoxCZ.Noesis.MonoGame) | 4.0.1-preview | ManoxCZ | NoesisUI integration into MonoGame framework using the "native" Noesis renderer… |
 
 ## Data source
 

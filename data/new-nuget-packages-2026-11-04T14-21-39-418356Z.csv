@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-11-04T13:24:00.6Z,TaipanLang.Sdk,0.4.0,"Discover Edge, LLC",The MSBuild project SDK that builds Taipan (.tpnproj) projects with dotnet build.
+2026-11-04T13:24:01.303Z,TaipanLang,0.4.0,"Discover Edge, LLC","The Taipan compiler: a statically typed language with Python's syntax, compiled to .NET."
+2026-11-04T13:24:01.887Z,TaipanLang.Runtime,0.4.0,"Discover Edge, LLC",The runtime library that programs compiled by Taipan reference.
+2026-11-04T13:31:32.213Z,Cilica.Core,0.14.0-preview,"hez2010,dubiousconst282",Optimizer and intermediate representation for .NET IL.
+2026-11-04T13:31:32.957Z,Cilica.OptimizerTask,0.14.0-preview,"hez2010,dubiousconst282",MSBuild tasks for post-build IL optimization.
+2026-11-04T13:32:10.697Z,Kuestenlogik.Bowire.Interop,2.10.0,Kuestenlogik,"Bowire interop — import Insomnia exports, Bruno collections and .http files into Bowire collections, and export collections as .http. A gRPC service with JSON transcoding."
+2026-11-04T13:32:17.233Z,Kuestenlogik.Bowire.DataSets,2.10.0,Kuestenlogik,Bowire data sets — parse CSV and JSON data files into rows for data-driven runs. A gRPC service with JSON transcoding.
+2026-11-04T13:33:18.597Z,AppWeaver.Auditing,1.0.0,Team AppWeaver,"Provider-agnostic auditing abstractions for the AppWeaver framework. Defines marker interfaces, audit models, and store/publisher contracts."
+2026-11-04T13:34:48.163Z,AppWeaver.Auditing.EfCore,1.0.0,Team AppWeaver,"EF Core provider implementation for AppWeaver.Auditing. Includes interceptors, entity configurations, and store for audit log persistence."
+2026-11-04T13:35:32.623Z,Arc56.Generated.Shivanikinagi.Dehug,1.0.1.2026110413,Shivanikinagi,Generated ARC-56 Algorand smart-contract clients for Shivanikinagi/Dehug.
+2026-11-04T13:40:27.653Z,HeartbeatScheduler,0.1.0,Mark Hammond,"Heartbeat scheduling for micro-task parallel loops: sequential by default, each thread splitting off half of its remaining work for an idle worker at most once per heartbeat, so per-task overhead stays a bounded fraction of run time even for nanosecond-scale iterations. Allocation-free per loop."
+2026-11-04T13:41:48.53Z,Biz.Bizadm.MCP.ToolKit,1.0.0,SeongSikChae,ASP.NET Core MCP Server에 WithTools로 등록하는 Tool 모음
+2026-11-04T13:43:39.95Z,Audis.Authentication.Hmac,2.0.0,softaware gmbh,"HMAC mechanism for Audis.Authentication: inbound scheme wrapping softaware.Authentication.Hmac with distributed replay protection, algorithm allowlist and robust header validation, plus an outbound authenticator signing HttpClient requests."
+2026-11-04T13:43:44.233Z,MusselSheet,0.0.1,machi_pon,"Excel-like input sheet for Blazor, made for keyboard and IME entry"
+2026-11-04T13:43:52.993Z,Audis.Authentication.Jwt,2.0.0,softaware gmbh,"JWT mechanism for Audis.Authentication based on Microsoft.AspNetCore.Authentication.JwtBearer: validation of asymmetric (RS256/ES256) tokens of named issuers with public keys from configuration or JWKS, required claims, lifetime cap, per-request audience resolution and access_token query support fo…"
+2026-11-04T13:54:36.99Z,YngveHestem.Quill.Markdown,1.0.0,Yngve J. K. Hestem,This library contains DTO's and other abstractions that is used in YngveHestem.Quill.Blazor
+2026-11-04T13:55:44.913Z,Anarchon.SqlServer,0.6.1,Aristotelis,"SQL Server and Azure SQL backend for Anarchon, on Microsoft.Data.SqlClient: one short transaction claims each run, with backup runners, retries, catch-up and no overlapping runs. Leases run on the database's clock."
+2026-11-04T13:57:32.493Z,alkpli.SkiaSharp.NativeAssets.Linux,4.152.4,Microsoft,SkiaSharp.NativeAssets.Linux provides native runtime assets for SkiaSharp.
+2026-11-04T13:58:46.74Z,ManoxCZ.Noesis.MonoGame,4.0.1-preview,ManoxCZ,"NoesisUI integration into MonoGame framework using the ""native"" Noesis renderer. Supports all three MonoGame graphics backends: OpenGL 4, Vulkan, and DirectX 12."
