@@ -12,21 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:20 UTC
+## Latest list — 2026-11-04 20:19 UTC
 
-New packages created between 2026-11-04 18:19 UTC and 2026-11-04 19:20 UTC.
+New packages created between 2026-11-04 19:20 UTC and 2026-11-04 20:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-04T19-20-08-462005Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-04T20-19-14-386338Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-04 18:25:19 | [ReusableFiniteStateMachine.Release](https://www.nuget.org/packages/ReusableFiniteStateMachine.Release) | 0.1.6 | Aurélien Pascal Maignan | This library offer a reusable finite state machine (FSM) to use for your own pr… |
-| 2026-11-04 18:25:26 | [ExcelReader.NET.Framework](https://www.nuget.org/packages/ExcelReader.NET.Framework) | 7.4.0 | Gabriel Matte | Fast XLSX/XLSB/XLS/CSV reading for .NET Framework 4.7.2+, backed by the ExcelRe… |
-| 2026-11-04 18:27:52 | [Solhigson.Analyzers](https://www.nuget.org/packages/Solhigson.Analyzers) | 10.0.0 | Solhigson | Development-only compile-time rules for Solhigson projects: the IDE style rules… |
-| 2026-11-04 18:30:12 | [WithEffect.Core](https://www.nuget.org/packages/WithEffect.Core) | 10.0.14 | WithEffect.Services | WithEffect.Core assembles well-known packages for rapid application prototyping… |
-| 2026-11-04 18:51:14 | [WithEffect.Frontend](https://www.nuget.org/packages/WithEffect.Frontend) | 10.0.14 | WithEffect.Services | WithEffect.Core assembles well-known packages for rapid application prototyping… |
-| 2026-11-04 18:54:37 | [Activout.Extensions.Configuration.Kdbx](https://www.nuget.org/packages/Activout.Extensions.Configuration.Kdbx) | 0.1.0 | Activout AB | A Microsoft.Extensions.Configuration source that reads secrets from a KeePass (… |
-| 2026-11-04 18:59:20 | [Cartovia.Avalonia](https://www.nuget.org/packages/Cartovia.Avalonia) | 1.1.0 | Nicolas Estebe | Cartovia Avalonia map control: vector maps with MapLibre GL JS (no account need… |
+| 2026-11-04 19:20:17 | [Webority.Chat.Support](https://www.nuget.org/packages/Webority.Chat.Support) | 0.130.2 | Webority Technologies | The support bridge for Webority Chat: handoff from the assistant to a person, t… |
+| 2026-11-04 19:26:13 | [WithEffect.Testkit](https://www.nuget.org/packages/WithEffect.Testkit) | 10.0.14 | WithEffect.Services | WithEffect.Core assembles well-known packages for rapid application prototyping… |
+| 2026-11-04 19:27:23 | [PersistentAIConversationEngine.Ds.Mdb](https://www.nuget.org/packages/PersistentAIConversationEngine.Ds.Mdb) | 0.1.0 | PACE.Ds.Mdb | Package Description |
+| 2026-11-04 19:28:50 | [PersistentAIConversationEngine.Core](https://www.nuget.org/packages/PersistentAIConversationEngine.Core) | 0.1.0 | PACE.Core | Package Description |
+| 2026-11-04 19:34:40 | [Solhigson.Testing](https://www.nuget.org/packages/Solhigson.Testing) | 10.0.0 | Solhigson | Test-only support for Solhigson projects: the census base, the census of census… |
+| 2026-11-04 19:35:04 | [Nafes.Logging.Slack](https://www.nuget.org/packages/Nafes.Logging.Slack) | 1.0.0 | Nafes.Logging.Slack | Serilog sink that posts classified, deduplicated and rate-limited error alerts… |
+| 2026-11-04 19:36:49 | [LogicBuilder.App.Maui](https://www.nuget.org/packages/LogicBuilder.App.Maui) | 1.0.1 | BlaiseD | Consolidates .NET MAUI UI generation functions into a shared library. |
+| 2026-11-04 19:40:52 | [Rocket.Unity](https://www.nuget.org/packages/Rocket.Unity) | 1.0.0-alpha | Rocket.Unity | Package Description |
+| 2026-11-04 19:48:45 | [Corfedo.Work.SqlServer](https://www.nuget.org/packages/Corfedo.Work.SqlServer) | 0.2.0 | Wojciech Wentland | SQL Server store for Corfedo Work, over Microsoft.Data.SqlClient: background jo… |
+| 2026-11-04 20:01:47 | [SlideRule.Guidance.DotNet](https://www.nuget.org/packages/SlideRule.Guidance.DotNet) | 0.3.0 | Andrew Gray | SlideRule.Guidance.DotNet is a Roslyn analyzer that reports code departing from… |
+| 2026-11-04 20:07:23 | [Webority.Support.HelpCentre](https://www.nuget.org/packages/Webority.Support.HelpCentre) | 0.48.0 | Webority Technologies | The public help centre for Webority products: the article list, search and arti… |
+| 2026-11-04 20:07:34 | [Nullean.HttpFileParser](https://www.nuget.org/packages/Nullean.HttpFileParser) | 0.3.0 | Nullean and contributors | Parse, lint and run .http request files (Visual Studio, VS Code REST Client and… |
+| 2026-11-04 20:07:37 | [Nullean.Snapshots.Browser](https://www.nuget.org/packages/Nullean.Snapshots.Browser) | 0.3.0 | Nullean and contributors | Browser journeys for Nullean.Snapshots: run agent-browser style journeys with N… |
+| 2026-11-04 20:07:38 | [Nullean.Snapshots.Browser.Assertions](https://www.nuget.org/packages/Nullean.Snapshots.Browser.Assertions) | 0.3.0 | Nullean and contributors | AwesomeAssertions extensions for Nullean.Snapshots.Browser: MatchJourneySnapsho… |
+| 2026-11-04 20:07:47 | [Nullean.Snapshots.Http](https://www.nuget.org/packages/Nullean.Snapshots.Http) | 0.3.0 | Nullean and contributors | HTTP snapshots for Nullean.Snapshots: snapshot an HttpResponseMessage, or run a… |
+| 2026-11-04 20:07:48 | [Nullean.Snapshots.Http.Assertions](https://www.nuget.org/packages/Nullean.Snapshots.Http.Assertions) | 0.3.0 | Nullean and contributors | AwesomeAssertions extensions for Nullean.Snapshots.Http: MatchHttpSnapshot, Mat… |
 
 ## Data source
 
