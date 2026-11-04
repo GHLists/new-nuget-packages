@@ -1,0 +1,32 @@
+created_at,package,version,authors,description
+2026-11-04T06:21:55.84Z,Pickstack.RichTextEditor.TinyMce8,1.0.2,Pickstack.RichTextEditor.TinyMce8,Package Description
+2026-11-04T06:23:20.69Z,LiteboxNZ.Brutal.ImNodes,1.0.0,LiteboxNZ,imnodes port for the Brutal framework
+2026-11-04T06:24:05.927Z,BunnyTail.TextResource,0.1.0,machi_pon,Text resource source generator.
+2026-11-04T06:24:07.593Z,CSharp.AgentForge.Abstractions,1.0.6,Peyman Salimi,Provider-neutral contracts for the AgentForge multi-language agent engineering ecosystem.
+2026-11-04T06:24:08.583Z,CSharp.AgentForge.Tools,1.0.6,Peyman Salimi,Tool contracts and policy-controlled execution for AgentForge agents.
+2026-11-04T06:24:13.57Z,CSharp.AgentForge.Models,1.0.6,Peyman Salimi,Provider-neutral model contracts and optional capabilities for AgentForge.
+2026-11-04T06:24:15.2Z,CSharp.AgentForge.Agents.SimpleReflex.Domain,1.0.6,Peyman Salimi,Domain model for the Simple Reflex agent module.
+2026-11-04T06:24:16.44Z,CSharp.AgentForge.Agents.ModelBasedReflex.Domain,1.0.6,Peyman Salimi,Domain model for the Model-Based Reflex agent module.
+2026-11-04T06:24:17.667Z,CSharp.AgentForge.Agents.UtilityBased.Domain,1.0.6,Peyman Salimi,Domain model for the Utility-Based agent module.
+2026-11-04T06:24:18.833Z,CSharp.AgentForge.Agents.GoalBased.Domain,1.0.6,Peyman Salimi,Domain model for the Goal-Based agent module.
+2026-11-04T06:24:20.063Z,CSharp.AgentForge.Agents.Learning.Domain,1.0.6,Peyman Salimi,Domain model for feedback-driven learning agents.
+2026-11-04T06:24:21.163Z,CSharp.AgentForge.Agents.SimpleReflex.Application,1.0.6,Peyman Salimi,Application use cases for the Simple Reflex agent module.
+2026-11-04T06:24:22.353Z,CSharp.AgentForge.Agents.ModelBasedReflex.Application,1.0.6,Peyman Salimi,Application use cases for the Model-Based Reflex agent module.
+2026-11-04T06:24:23.487Z,CSharp.AgentForge.Agents.UtilityBased.Application,1.0.6,Peyman Salimi,Application use cases for the Utility-Based agent module.
+2026-11-04T06:24:24.61Z,CSharp.AgentForge.Agents.GoalBased.Application,1.0.6,Peyman Salimi,Application use cases for the Goal-Based agent module.
+2026-11-04T06:24:25.677Z,CSharp.AgentForge.Agents.Learning.Application,1.0.6,Peyman Salimi,Application use cases for feedback-driven learning agents.
+2026-11-04T06:24:26.893Z,CSharp.AgentForge.Agents.SimpleReflex,1.0.6,Peyman Salimi,A standalone Simple Reflex agent module with a fluent API.
+2026-11-04T06:24:28.07Z,CSharp.AgentForge.Agents.ModelBasedReflex,1.0.6,Peyman Salimi,A standalone Model-Based Reflex agent module with a fluent API.
+2026-11-04T06:24:29.113Z,CSharp.AgentForge.Agents.UtilityBased,1.0.6,Peyman Salimi,A standalone Utility-Based agent module with a fluent API.
+2026-11-04T06:24:30.197Z,CSharp.AgentForge.Agents.GoalBased,1.0.6,Peyman Salimi,A standalone Goal-Based agent module with bounded breadth-first search.
+2026-11-04T06:24:31.293Z,CSharp.AgentForge.Agents.Learning,1.0.6,Peyman Salimi,Feedback-driven epsilon-greedy and disjoint LinUCB contextual bandit learning agents.
+2026-11-04T06:24:32.423Z,CSharp.AgentForge.Agents.ReAct,1.0.6,Peyman Salimi,"A bounded, inspectable ReAct agent implementation for AgentForge."
+2026-11-04T06:24:33.613Z,CSharp.AgentForge.Agents.Planning,1.0.6,Peyman Salimi,"A structured, validated Plan-and-Execute agent for AgentForge."
+2026-11-04T06:24:34.693Z,CSharp.AgentForge.Agents.Reflection,1.0.6,Peyman Salimi,A bounded Reflection and iterative refinement agent for AgentForge.
+2026-11-04T06:24:35.83Z,CSharp.AgentForge.Agents.RuleBased,1.0.6,Peyman Salimi,A bounded rule-based production-system agent with a fluent API.
+2026-11-04T06:24:36.91Z,CSharp.AgentForge.Agents.Subsumption,1.0.6,Peyman Salimi,A layered reactive Subsumption agent with priority-based behavior arbitration.
+2026-11-04T06:31:58.923Z,HAKICODE.Workbench.Plugin.Terminal,1.0.1,HAKICODE,"Terminal ở panel dưới cho quản trị hệ thống — nhiều phiên shell trên máy chủ (hay trong hộp cát), hỏi trợ lý về terminal, giải thích lệnh thất bại — gói workbench.terminal dựng sẵn, chép ra workbench-plugins/workbench.terminal/ cạnh vỏ nhúng lõi Workbench."
+2026-11-04T06:33:14.47Z,RocketMonsters.Heimdall.Documents.Client,1.0.0,Rocket Monsters,First-party .NET client for the Heimdall Documents public dispatch API — merge a layout with a payload and get a shareable preview link in two lines.
+2026-11-04T06:54:25.083Z,IronSoftware.Fonts.Metric,2026.12.2,Iron Software,"Metric-compatible replacement fonts (Caladea for Cambria, Gelasio for Georgia, Selawik for Segoe UI) for DOCX to PDF, HTML and image conversion in IronWord and IronPdf on servers and containers without Microsoft fonts. Referencing the package is enough: the products find it at run time. SIL Open Fo…"
+2026-11-04T06:58:06.74Z,APF.Core.Clean.Messaging,10.0.0-Beta-01,aurionpronuget,Package Description
+2026-11-04T07:03:03.5Z,TentoUI,1.0.0,Tento Team,AntDesign-patterned Blazor UI Component Library styled with Tailwind CSS for .NET 10.
