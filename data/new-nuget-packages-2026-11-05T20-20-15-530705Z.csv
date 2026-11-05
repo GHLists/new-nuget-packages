@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-05T19:27:04.457Z,LHFD.CleanArch.Template,1.0.1,Lucas Henrique Faria de Deus,Clean Architecture template with Entity Framework Core CRUD base.
+2026-11-05T19:35:16.273Z,YouBIM.Common.Middlewares.Lib,1.0.0,YouBIM developers team,A shared middleware library for YouBIM ASP.NET Core applications.
+2026-11-05T19:37:43.07Z,Webority.Seo.AspNetCore.Testing,0.18.0,Webority Technologies,"In-process SEO checks for a Razor Pages site: one call requests every declared page and asserts its title, canonical, robots, social image and structured data."
+2026-11-05T19:50:47.293Z,RecursiveAI.OneDiff.Documents,1.0.0,"Recursive AI, LLC","Text diff and document comparison for .NET. The document engine: a compare model with source anchors, staged alignment, diff, grouping, classification and verification, a change ledger, and a versioned JSON form, with a completeness check on every comparison."
+2026-11-05T19:50:47.893Z,RecursiveAI.OneDiff,1.0.0,"Recursive AI, LLC","Text diff and document comparison for .NET. The core package: Myers, patience and histogram diff over any sequence, line, word, character and grapheme tokenizers, patches and three-way merge, with no dependency beyond the .NET base class library."
+2026-11-05T19:50:48.47Z,RecursiveAI.OneDiff.Pdf,1.0.0,"Recursive AI, LLC","Text diff and document comparison for .NET. PDF comparison: a document source that reads digital PDFs into the compare model with glyph-quad anchors, and a writer that marks the changes on the original pages with real PDF annotations."
+2026-11-05T19:50:49.11Z,RecursiveAI.OneDiff.Ocr,1.0.0,"Recursive AI, LLC","Text diff and document comparison for .NET. Scan comparison: a document source that reads scanned PDFs and images through a local OCR engine into the compare model, with every word anchored by its page quadrilateral and recognition confidence, so differences that may be recognition errors are flagg…"
+2026-11-05T19:50:50.94Z,RecursiveAI.OneDiff.Tool,1.0.0,"Recursive AI, LLC","Text diff and document comparison for .NET: the onediff command-line tool, which compares text, PDF and scanned files."
+2026-11-05T19:55:10.34Z,AbsLang,0.6.0,Franco Vinciarelli,"Agent Behavior Specification (ABS) — describe, run and evaluate AI agent behavior from C#."
+2026-11-05T19:55:10.837Z,AbsLang.Adapters.Aws,0.6.0,Franco Vinciarelli,AWS Bedrock evaluator adapter for AbsLang (Agent Behavior Specification).
+2026-11-05T19:55:11.113Z,AbsLang.Adapters.Google,0.6.0,Franco Vinciarelli,Google Vertex AI evaluator adapter for AbsLang (Agent Behavior Specification).
+2026-11-05T20:00:43.823Z,AWSSDK.AccountAccessRuntime,4.0.100,Amazon Web Services,The Amazon Web Services SDK for .NET - Account Access Runtime
