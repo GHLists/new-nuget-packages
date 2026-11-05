@@ -12,64 +12,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:18 UTC
+## Latest list — 2026-11-05 03:20 UTC
 
-New packages created between 2026-11-05 01:19 UTC and 2026-11-05 02:18 UTC.
+New packages created between 2026-11-05 02:18 UTC and 2026-11-05 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T02-18-23-803909Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T03-20-43-442866Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 01:26:19 | [Dotwire.Host](https://www.nuget.org/packages/Dotwire.Host) | 0.2.0 | Dotwire | Host-side .NET SDK for dotwire: mints RS256 tokens with the host's own key and… |
-| 2026-11-05 01:28:47 | [NHibernate.UserTypes.NodaTime](https://www.nuget.org/packages/NHibernate.UserTypes.NodaTime) | 0.1.0 | Jacob Mojiwat | NHibernate custom user types and mapping helpers for NodaTime types. |
-| 2026-11-05 01:56:21 | [Tamp.Migrate](https://www.nuget.org/packages/Tamp.Migrate) | 1.19.0 | Scott Singleton | Preview. Migrates a NUKE 8+ build to Tamp (ADR 0021); run it as `tamp migrate n… |
-| 2026-11-05 02:00:23 | [Mediana.Documents.Word](https://www.nuget.org/packages/Mediana.Documents.Word) | 0.1.17 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-05 02:00:30 | [Mediana.Documents.OpenXml](https://www.nuget.org/packages/Mediana.Documents.OpenXml) | 0.1.17 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-05 02:04:10 | [Kazo.Os.App.Abstractions](https://www.nuget.org/packages/Kazo.Os.App.Abstractions) | 3.0.0 | Benoit Robin | Kazo OS App SDK contracts: AppDefinition and [AppManifest], the schema-v1 app m… |
-| 2026-11-05 02:04:12 | [Kazo.Os.App.Build](https://www.nuget.org/packages/Kazo.Os.App.Build) | 3.0.0 | Benoit Robin | Build integration of Kazo OS apps: generated manifest.json, SDK boundary checks… |
-| 2026-11-05 02:04:13 | [Kazo.Os.AppSdk](https://www.nuget.org/packages/Kazo.Os.AppSdk) | 3.0.0 | Benoit Robin | Kazo OS App SDK: the Kazo* APIs an app uses (KazoFile, KazoStream, KazoDirector… |
-| 2026-11-05 02:04:14 | [Kazo.Os.AppSdk.Blazor](https://www.nuget.org/packages/Kazo.Os.AppSdk.Blazor) | 3.0.0 | Benoit Robin | Kazo OS App SDK for window apps: KazoComponentBase, window base classes, dialog… |
-| 2026-11-05 02:04:16 | [Kazo.Os.AppSdk.Icons](https://www.nuget.org/packages/Kazo.Os.AppSdk.Icons) | 3.0.0 | Benoit Robin | Framework-independent icon catalog and native Blazor SVG renderer used by Kazo… |
-| 2026-11-05 02:04:18 | [Kazo.Os.AppSdk.Terminal](https://www.nuget.org/packages/Kazo.Os.AppSdk.Terminal) | 3.0.0 | Benoit Robin | Kazo OS App SDK for terminal commands and the embeddable terminal contract (IKa… |
-| 2026-11-05 02:04:19 | [Kazo.Os.AppSdk.VirtualKeyboard](https://www.nuget.org/packages/Kazo.Os.AppSdk.VirtualKeyboard) | 3.0.0 | Benoit Robin | A reusable, host-agnostic on-screen keyboard and a keyboard-aware split contain… |
-| 2026-11-05 02:04:21 | [Kazo.Os.AppSdk.Web](https://www.nuget.org/packages/Kazo.Os.AppSdk.Web) | 3.0.0 | Benoit Robin | ASP.Kazo: MVC-like web sites hosted inside Kazo OS (controllers, routing, model… |
-| 2026-11-05 02:04:22 | [Kazo.Os.AppSdk.Web.Blazor](https://www.nuget.org/packages/Kazo.Os.AppSdk.Web.Blazor) | 3.0.0 | Benoit Robin | Interactive Blazor sites of ASP.Kazo: site router, navigation and the view the… |
-| 2026-11-05 02:04:23 | [Kazo.Os.Apps.Browser](https://www.nuget.org/packages/Kazo.Os.Apps.Browser) | 3.0.0 | Benoit Robin | The base Kazo OS web browser app, to include in an OS host (ProjectReference or… |
-| 2026-11-05 02:04:24 | [Kazo.Os.Apps.Calculator](https://www.nuget.org/packages/Kazo.Os.Apps.Calculator) | 3.0.0 | Benoit Robin | The base Kazo OS calculator app, to include in an OS host (ProjectReference or… |
-| 2026-11-05 02:04:26 | [Kazo.Os.Apps.CodeEditor](https://www.nuget.org/packages/Kazo.Os.Apps.CodeEditor) | 3.0.0 | Benoit Robin | The base Kazo OS code editor workbench app, to include in an OS host (ProjectRe… |
-| 2026-11-05 02:04:27 | [Kazo.Os.Apps.Desktop](https://www.nuget.org/packages/Kazo.Os.Apps.Desktop) | 3.0.0 | Benoit Robin | The Kazo OS desktop: the icons of ~/Desktop, Home and Trash, drawn by the shell… |
-| 2026-11-05 02:04:29 | [Kazo.Os.Apps.Diagnostic](https://www.nuget.org/packages/Kazo.Os.Apps.Diagnostic) | 3.0.0 | Benoit Robin | The base Kazo OS diagnostic tool app, to include in an OS host (ProjectReferenc… |
-| 2026-11-05 02:04:30 | [Kazo.Os.Apps.ErrorLogViewer](https://www.nuget.org/packages/Kazo.Os.Apps.ErrorLogViewer) | 3.0.0 | Benoit Robin | The base Kazo OS log viewer app, to include in an OS host (ProjectReference or… |
-| 2026-11-05 02:04:31 | [Kazo.Os.Apps.FileExplorer](https://www.nuget.org/packages/Kazo.Os.Apps.FileExplorer) | 3.0.0 | Benoit Robin | The base Kazo OS file explorer app, to include in an OS host (ProjectReference… |
-| 2026-11-05 02:04:33 | [Kazo.Os.Apps.IconViewer](https://www.nuget.org/packages/Kazo.Os.Apps.IconViewer) | 3.0.0 | Benoit Robin | The base Kazo OS icon viewer app, to include in an OS host (ProjectReference or… |
-| 2026-11-05 02:04:34 | [Kazo.Os.Apps.KazoPaint](https://www.nuget.org/packages/Kazo.Os.Apps.KazoPaint) | 3.0.0 | Benoit Robin | The base Kazo OS Kazo Paint image editor app, to include in an OS host (Project… |
-| 2026-11-05 02:04:35 | [Kazo.Os.Apps.Settings](https://www.nuget.org/packages/Kazo.Os.Apps.Settings) | 3.0.0 | Benoit Robin | The base Kazo OS Settings app, to include in an OS host (ProjectReference or Pa… |
-| 2026-11-05 02:04:36 | [Kazo.Os.Apps.Store](https://www.nuget.org/packages/Kazo.Os.Apps.Store) | 3.0.0 | Benoit Robin | The Kazo OS Store, the Kazo OS system app that installs, updates and removes ap… |
-| 2026-11-05 02:04:37 | [Kazo.Os.Apps.SystemMonitor](https://www.nuget.org/packages/Kazo.Os.Apps.SystemMonitor) | 3.0.0 | Benoit Robin | The base Kazo OS system monitor (task manager) app, to include in an OS host (P… |
-| 2026-11-05 02:04:38 | [Kazo.Os.Apps.Terminal](https://www.nuget.org/packages/Kazo.Os.Apps.Terminal) | 3.0.0 | Benoit Robin | The base Kazo OS terminal app, to include in an OS host (ProjectReference or Pa… |
-| 2026-11-05 02:04:39 | [Kazo.Os.Apps.TextEditor](https://www.nuget.org/packages/Kazo.Os.Apps.TextEditor) | 3.0.0 | Benoit Robin | The base Kazo OS text editor app, to include in an OS host (ProjectReference or… |
-| 2026-11-05 02:04:40 | [Kazo.Os.Apps.ThemeEditor](https://www.nuget.org/packages/Kazo.Os.Apps.ThemeEditor) | 3.0.0 | Benoit Robin | The base Kazo OS Theme Editor app, to include in an OS host (ProjectReference o… |
-| 2026-11-05 02:04:42 | [Kazo.Os.Apps.WebServer](https://www.nuget.org/packages/Kazo.Os.Apps.WebServer) | 3.0.0 | Benoit Robin | The base Kazo OS kazowebd web server and Web Server Manager app, to include in… |
-| 2026-11-05 02:04:43 | [Kazo.Os.Commands](https://www.nuget.org/packages/Kazo.Os.Commands) | 3.0.0 | Benoit Robin | The built-in Kazo OS terminal commands (ls, cat, grep, curl, nano...), one lazy… |
-| 2026-11-05 02:04:44 | [Kazo.Os.Ecosystem.Host](https://www.nuget.org/packages/Kazo.Os.Ecosystem.Host) | 3.0.0 | Benoit Robin | The Kazo OS host: desktop shell, boot coordinator, service composition and brow… |
-| 2026-11-05 02:04:45 | [Kazo.Os.Infrastructure.Browser](https://www.nuget.org/packages/Kazo.Os.Infrastructure.Browser) | 3.0.0 | Benoit Robin | Browser infrastructure of Kazo OS: IndexedDB storage, Web Worker runtime and th… |
-| 2026-11-05 02:04:46 | [Kazo.Os.MobileShell.Blazor](https://www.nuget.org/packages/Kazo.Os.MobileShell.Blazor) | 3.0.0 | Benoit Robin | Mobile shell chrome Razor components driven entirely by host-supplied contracts… |
-| 2026-11-05 02:04:47 | [Kazo.Os.Platform.Blazor](https://www.nuget.org/packages/Kazo.Os.Platform.Blazor) | 3.0.0 | Benoit Robin | Kazo OS Blazor shell: desktop, launcher, window launching, dialogs and lazy app… |
-| 2026-11-05 02:04:49 | [Kazo.Os.Platform.Core](https://www.nuget.org/packages/Kazo.Os.Platform.Core) | 3.0.0 | Benoit Robin | Kazo OS platform core: app catalog, process manager, policy, shell, settings an… |
-| 2026-11-05 02:04:50 | [Kazo.Os.Platform.RemoteRendering](https://www.nuget.org/packages/Kazo.Os.Platform.RemoteRendering) | 3.0.0 | Benoit Robin | Trial of Kazo OS window apps rendered in a Web Worker (ADR 0129, ADR 0133): a B… |
-| 2026-11-05 02:04:51 | [Kazo.Os.Platform.ResourceAccounting](https://www.nuget.org/packages/Kazo.Os.Platform.ResourceAccounting) | 3.0.0 | Benoit Robin | Optional measured CPU time and process memory for Kazo OS (ADR 0066). Reference… |
-| 2026-11-05 02:04:52 | [Kazo.Os.Platform.WorkerHost](https://www.nuget.org/packages/Kazo.Os.Platform.WorkerHost) | 3.0.0 | Benoit Robin | Headless Kazo OS processes (commands, services) in Web Workers: worker pool, re… |
-| 2026-11-05 02:04:53 | [Kazo.Os.Server.Contracts](https://www.nuget.org/packages/Kazo.Os.Server.Contracts) | 3.0.0 | Benoit Robin | Shared API versioning, sync record envelope, and proxy request/response contrac… |
-| 2026-11-05 02:04:55 | [Kazo.Os.Simulation.Abstractions](https://www.nuget.org/packages/Kazo.Os.Simulation.Abstractions) | 3.0.0 | Benoit Robin | Contracts of the simulated machine (file system, processes, sessions, network,… |
-| 2026-11-05 02:04:56 | [Kazo.Os.Taskbar.Blazor](https://www.nuget.org/packages/Kazo.Os.Taskbar.Blazor) | 3.0.0 | Benoit Robin | A taskbar Razor component driven entirely by host-supplied contracts (window so… |
-| 2026-11-05 02:04:57 | [Kazo.Os.Templates](https://www.nuget.org/packages/Kazo.Os.Templates) | 3.0.0 | Benoit Robin | dotnet new templates for Kazo OS: window app, terminal command, service, ASP.Ka… |
-| 2026-11-05 02:04:58 | [Kazo.Os.Theming.Abstractions](https://www.nuget.org/packages/Kazo.Os.Theming.Abstractions) | 3.0.0 | Benoit Robin | Framework-neutral Kazo OS theme catalog, identifiers, form factors, and persist… |
-| 2026-11-05 02:04:59 | [Kazo.Os.Theming.Blazor](https://www.nuget.org/packages/Kazo.Os.Theming.Blazor) | 3.0.0 | Benoit Robin | Theme scope and token-driven previews shared by Kazo OS shell surfaces and reus… |
-| 2026-11-05 02:05:00 | [Kazo.Os.Windowing.Abstractions](https://www.nuget.org/packages/Kazo.Os.Windowing.Abstractions) | 3.0.0 | Benoit Robin | Renderer- and host-independent window contracts: identity, geometry, constraint… |
-| 2026-11-05 02:05:01 | [Kazo.Os.Windowing.Blazor](https://www.nuget.org/packages/Kazo.Os.Windowing.Blazor) | 3.0.0 | Benoit Robin | Razor components (DesktopArea, WindowHost, WindowChrome) that render a Kazo.Os.… |
-| 2026-11-05 02:05:03 | [Kazo.Os.Windowing.Core](https://www.nuget.org/packages/Kazo.Os.Windowing.Core) | 3.0.0 | Benoit Robin | Headless, renderer-independent window manager engine: applies Kazo.Os.Windowing… |
-| 2026-11-05 02:10:36 | [Holler.Cloudflare](https://www.nuget.org/packages/Holler.Cloudflare) | 0.9.0 | Tom Laird-McConnell | Cloudflare Realtime TURN for Holler: short-lived TURN credentials per user, so… |
-| 2026-11-05 02:10:37 | [Holler.Server](https://www.nuget.org/packages/Holler.Server) | 0.9.0 | Tom Laird-McConnell | Server side of Holler: the SignalR signaling hub and Blazor Server support for… |
+| 2026-11-05 02:27:11 | [Webority.Pdf.Ocr.Azure](https://www.nuget.org/packages/Webority.Pdf.Ocr.Azure) | 0.6.0 | Webority.Pdf.Ocr.Azure | Reads scanned PDF pages through Azure AI Document Intelligence for Webority.Pdf. |
+| 2026-11-05 02:28:20 | [Gengora.Protocol](https://www.nuget.org/packages/Gengora.Protocol) | 2.5.0 | Saqib Javed | Shared protocol message types for Gengora generator host and IDE server communi… |
+| 2026-11-05 02:28:20 | [Gengora.Common.Attributes](https://www.nuget.org/packages/Gengora.Common.Attributes) | 2.5.0 | Saqib Javed | Consumer build contract that includes Gengora-owned generated C# files in compi… |
+| 2026-11-05 02:28:21 | [Gengora.Comptime](https://www.nuget.org/packages/Gengora.Comptime) | 2.5.0 | Saqib Javed | Reusable compile-time evaluation engine for Gengora generators. |
+| 2026-11-05 02:28:21 | [Gengora.Tools](https://www.nuget.org/packages/Gengora.Tools) | 2.5.0 | Saqib Javed | Text-diff and generated-file utility primitives shared by Gengora compiler pack… |
+| 2026-11-05 02:28:22 | [Gengora.Compiler](https://www.nuget.org/packages/Gengora.Compiler) | 2.5.0 | Saqib Javed | Typed, in-process compiler lifecycle for Gengora language frontends and provide… |
+| 2026-11-05 02:28:22 | [Gengora.Common](https://www.nuget.org/packages/Gengora.Common) | 2.5.0 | Saqib Javed | Compiler workspace, pipeline, and generated-output ownership primitives for Gen… |
+| 2026-11-05 02:28:23 | [Gengora.Comptime.Attributes](https://www.nuget.org/packages/Gengora.Comptime.Attributes) | 2.5.0 | Saqib Javed | Public attributes and provider contracts for Gengora compile-time evaluation. |
+| 2026-11-05 02:29:06 | [PdfNetStack.Html](https://www.nuget.org/packages/PdfNetStack.Html) | 1.1.0 | Jamal Abdelkhalek, JADEV | Convert HTML and CSS to PDF in .NET without a browser: an HTML5 parser, CSS cas… |
+| 2026-11-05 02:29:07 | [PdfNetStack.Ocr](https://www.nuget.org/packages/PdfNetStack.Ocr) | 1.1.0 | Jamal Abdelkhalek, JADEV | OCR for PdfNetStack: finds the scan on each page, recognizes Latin and Arabic t… |
+| 2026-11-05 02:29:12 | [PdfNetStack.Ocr.Tool](https://www.nuget.org/packages/PdfNetStack.Ocr.Tool) | 1.1.0 | Jamal Abdelkhalek, JADEV | Command line OCR for PDF files: finds the scan on each page, recognizes Latin a… |
+| 2026-11-05 02:29:13 | [PdfNetStack.Ocr.Models](https://www.nuget.org/packages/PdfNetStack.Ocr.Models) | 1.0.0 | Jamal Abdelkhalek, JADEV | The PP-OCRv5 mobile models PdfNetStack.Ocr runs: text detection, line orientati… |
+| 2026-11-05 02:33:05 | [JonjubNet.Indicators](https://www.nuget.org/packages/JonjubNet.Indicators) | 2.2.0 | Onuar Jiménez | Fórmulas de mercado puras y reutilizables para .NET: indicadores técnicos (tend… |
+| 2026-11-05 02:33:09 | [JonjubNet.Rules](https://www.nuget.org/packages/JonjubNet.Rules) | 1.0.2 | Onuar Jiménez | Motor único de reglas: lee el formato de react-querybuilder, valida campos, tip… |
+| 2026-11-05 02:33:10 | [JonjubNet.Messages](https://www.nuget.org/packages/JonjubNet.Messages) | 1.0.0 | Onuar Jiménez | Mensajes por código: la clave estable de un mensaje y la lectura de su texto de… |
+| 2026-11-05 02:41:09 | [JonjubNet.Clock](https://www.nuget.org/packages/JonjubNet.Clock) | 1.2.0 | Onuar Jiménez | Reloj por plataforma, puro y sin estado global: sincroniza el cronómetro monotó… |
+| 2026-11-05 02:43:21 | [Ofdrw.Net.Cli](https://www.nuget.org/packages/Ofdrw.Net.Cli) | 0.2.0 | whynpc9 | Command-line DOCX, PDF, OFD, and SVG conversion tool for Ofdrw.Net. |
+| 2026-11-05 02:43:22 | [Ofdrw.Net.Converter](https://www.nuget.org/packages/Ofdrw.Net.Converter) | 0.2.0 | whynpc9 | Convenience meta-package for Ofdrw.Net DOCX, PDF, and SVG conversion features. |
+| 2026-11-05 02:43:23 | [Ofdrw.Net.Converter.Abstractions](https://www.nuget.org/packages/Ofdrw.Net.Converter.Abstractions) | 0.2.0 | whynpc9 | Conversion interfaces for Ofdrw.Net file format converters. |
+| 2026-11-05 02:43:24 | [Ofdrw.Net.Converter.Docx](https://www.nuget.org/packages/Ofdrw.Net.Converter.Docx) | 0.2.0 | whynpc9 | Direct DOCX/OpenXML to native OFD text conversion, with optional PDF and dual-l… |
+| 2026-11-05 02:43:25 | [Ofdrw.Net.Converter.Pdf](https://www.nuget.org/packages/Ofdrw.Net.Converter.Pdf) | 0.2.0 | whynpc9 | PDF <-> OFD conversion implementation for Ofdrw.Net. |
+| 2026-11-05 02:43:26 | [Ofdrw.Net.Converter.Svg](https://www.nuget.org/packages/Ofdrw.Net.Converter.Svg) | 0.2.0 | whynpc9 | OFD to SVG and static HTML vector conversion for Ofdrw.Net. |
+| 2026-11-05 02:43:27 | [Ofdrw.Net.Core](https://www.nuget.org/packages/Ofdrw.Net.Core) | 0.2.0 | whynpc9 | Core OFD models, options, interfaces and validation report types for Ofdrw.Net. |
+| 2026-11-05 02:43:28 | [Ofdrw.Net.Layout](https://www.nuget.org/packages/Ofdrw.Net.Layout) | 0.2.0 | whynpc9 | Document builder and layout helpers for generating OFD documents in Ofdrw.Net. |
+| 2026-11-05 02:43:29 | [Ofdrw.Net.Packaging](https://www.nuget.org/packages/Ofdrw.Net.Packaging) | 0.2.0 | whynpc9 | OFD package ZIP container read/write and structure checks for Ofdrw.Net. |
+| 2026-11-05 02:43:30 | [Ofdrw.Net.Reader](https://www.nuget.org/packages/Ofdrw.Net.Reader) | 0.2.0 | whynpc9 | OFD reader/parser for pages, resources, attachments and tags in Ofdrw.Net. |
+| 2026-11-05 02:43:31 | [Ofdrw.Net.Signatures](https://www.nuget.org/packages/Ofdrw.Net.Signatures) | 0.2.0 | whynpc9 | OFD digital signature creation, reference integrity verification, and cryptogra… |
+| 2026-11-05 02:43:32 | [Ofdrw.Net.Text.HarfBuzz](https://www.nuget.org/packages/Ofdrw.Net.Text.HarfBuzz) | 0.2.0 | whynpc9 | Optional HarfBuzz shaping adapter and native assets for the Ofdrw.Net text prel… |
+| 2026-11-05 02:55:09 | [Gengora.CSharp.Formatting](https://www.nuget.org/packages/Gengora.CSharp.Formatting) | 2.5.0 | Saqib Javed | Reusable Roslyn formatting profiles for Gengora. |
+| 2026-11-05 02:55:09 | [Gengora.CSharp.Transformations](https://www.nuget.org/packages/Gengora.CSharp.Transformations) | 2.5.0 | Saqib Javed | Compiler-bound C# declaration transformations configured by owning generators. |
+| 2026-11-05 02:55:09 | [Gengora.CSharp.Comptime](https://www.nuget.org/packages/Gengora.CSharp.Comptime) | 2.5.0 | Saqib Javed | Roslyn-backed compile-time pipeline and typed result APIs for Gengora C# genera… |
+| 2026-11-05 02:55:10 | [Gengora.CSharp](https://www.nuget.org/packages/Gengora.CSharp) | 2.5.0 | Saqib Javed | Roslyn and RazorBlade pipelines for authoring compiler-backed C# generators wit… |
+| 2026-11-05 02:55:11 | [Gengora.CSharp.Formatter.Runtime](https://www.nuget.org/packages/Gengora.CSharp.Formatter.Runtime) | 2.5.0 | Saqib Javed | Version-matched C# formatter and semantic MCP executables for Gengora hosts. |
+| 2026-11-05 03:09:02 | [FSR.NET](https://www.nuget.org/packages/FSR.NET) | 2.4.0 | qian-o | C# bindings for AMD FSR. |
+| 2026-11-05 03:09:25 | [Gengora.Host](https://www.nuget.org/packages/Gengora.Host) | 2.5.0 | Saqib Javed | Generator host process for Gengora code generation framework. Handles protocol,… |
 
 ## Data source
 

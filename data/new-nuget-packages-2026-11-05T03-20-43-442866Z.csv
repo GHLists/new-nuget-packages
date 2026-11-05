@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-11-05T02:27:11.397Z,Webority.Pdf.Ocr.Azure,0.6.0,Webority.Pdf.Ocr.Azure,Reads scanned PDF pages through Azure AI Document Intelligence for Webority.Pdf.
+2026-11-05T02:28:20.417Z,Gengora.Protocol,2.5.0,Saqib Javed,Shared protocol message types for Gengora generator host and IDE server communication.
+2026-11-05T02:28:20.98Z,Gengora.Common.Attributes,2.5.0,Saqib Javed,Consumer build contract that includes Gengora-owned generated C# files in compilation.
+2026-11-05T02:28:21.463Z,Gengora.Comptime,2.5.0,Saqib Javed,Reusable compile-time evaluation engine for Gengora generators.
+2026-11-05T02:28:21.843Z,Gengora.Tools,2.5.0,Saqib Javed,Text-diff and generated-file utility primitives shared by Gengora compiler packages.
+2026-11-05T02:28:22.217Z,Gengora.Compiler,2.5.0,Saqib Javed,"Typed, in-process compiler lifecycle for Gengora language frontends and provider lowerings."
+2026-11-05T02:28:22.663Z,Gengora.Common,2.5.0,Saqib Javed,"Compiler workspace, pipeline, and generated-output ownership primitives for Gengora generator hosts."
+2026-11-05T02:28:23.1Z,Gengora.Comptime.Attributes,2.5.0,Saqib Javed,Public attributes and provider contracts for Gengora compile-time evaluation.
+2026-11-05T02:29:06.743Z,PdfNetStack.Html,1.1.0,"Jamal Abdelkhalek, JADEV","Convert HTML and CSS to PDF in .NET without a browser: an HTML5 parser, CSS cascade, block, inline, table and flex layout, paged media with headers, footers and page numbers, web fonts, right to left and Arabic text. Pure C#, MIT licensed, built on PdfNetStack. By Jamal Abdelkhalek, JADEV."
+2026-11-05T02:29:07.45Z,PdfNetStack.Ocr,1.1.0,"Jamal Abdelkhalek, JADEV","OCR for PdfNetStack: finds the scan on each page, recognizes Latin and Arabic text with PP-OCRv5 models on ONNX Runtime, and adds an invisible text layer so the PDF can be searched and copied. Managed pre and post processing; PDF bytes never reach native code. The models ship separately in PdfNetSt…"
+2026-11-05T02:29:12.353Z,PdfNetStack.Ocr.Tool,1.1.0,"Jamal Abdelkhalek, JADEV","Command line OCR for PDF files: finds the scan on each page, recognizes Latin and Arabic text with the PP-OCRv5 models on ONNX Runtime, turns pages scanned sideways or upside down, and adds an invisible text layer so the PDF can be searched and copied. Models and runtime included; also runs as `pdf…"
+2026-11-05T02:29:13.93Z,PdfNetStack.Ocr.Models,1.0.0,"Jamal Abdelkhalek, JADEV","The PP-OCRv5 mobile models PdfNetStack.Ocr runs: text detection, line orientation, Latin and Arabic recognition, in ONNX format. Copied next to the application on build and publish, where OnnxOcrEngine.Load() finds them; each file is checked against its pinned SHA-256 when loaded. Models by PaddleO…"
+2026-11-05T02:33:05.987Z,JonjubNet.Indicators,2.2.0,Onuar Jiménez,"Fórmulas de mercado puras y reutilizables para .NET: indicadores técnicos (tendencia, momentum, volatilidad, volumen, estructura, ciclos, estacionalidad), análisis de régimen, microestructura y correlación. Cada fórmula recibe series y parámetros y devuelve números: sin base de datos, sin red, sin…"
+2026-11-05T02:33:09.82Z,JonjubNet.Rules,1.0.2,Onuar Jiménez,"Motor único de reglas: lee el formato de react-querybuilder, valida campos, tipos y operadores contra un catálogo dado, y evalúa con lógica de tres valores (cumple, no cumple, desconocido) con traza por condición. Puro, inmutable y sin estado: seguro en paralelo."
+2026-11-05T02:33:10.587Z,JonjubNet.Messages,1.0.0,Onuar Jiménez,"Mensajes por código: la clave estable de un mensaje y la lectura de su texto desde los recursos de quien lo usa, con idioma por defecto (español) y la clave como último recurso."
+2026-11-05T02:41:09.867Z,JonjubNet.Clock,1.2.0,Onuar Jiménez,"Reloj por plataforma, puro y sin estado global: sincroniza el cronómetro monotónico del proceso con la hora del servidor de cada plataforma (offset, deriva e incertidumbre a partir de muestras), convierte entre hora de plataforma y hora común, calcula cierres de vela, la salud de la sincronización…"
+2026-11-05T02:43:21.497Z,Ofdrw.Net.Cli,0.2.0,whynpc9,"Command-line DOCX, PDF, OFD, and SVG conversion tool for Ofdrw.Net."
+2026-11-05T02:43:22.413Z,Ofdrw.Net.Converter,0.2.0,whynpc9,"Convenience meta-package for Ofdrw.Net DOCX, PDF, and SVG conversion features."
+2026-11-05T02:43:23.213Z,Ofdrw.Net.Converter.Abstractions,0.2.0,whynpc9,Conversion interfaces for Ofdrw.Net file format converters.
+2026-11-05T02:43:24.24Z,Ofdrw.Net.Converter.Docx,0.2.0,whynpc9,"Direct DOCX/OpenXML to native OFD text conversion, with optional PDF and dual-layer rendering through Microsoft Word, LibreOffice, or a cross-platform built-in renderer."
+2026-11-05T02:43:25.4Z,Ofdrw.Net.Converter.Pdf,0.2.0,whynpc9,PDF <-> OFD conversion implementation for Ofdrw.Net.
+2026-11-05T02:43:26.533Z,Ofdrw.Net.Converter.Svg,0.2.0,whynpc9,OFD to SVG and static HTML vector conversion for Ofdrw.Net.
+2026-11-05T02:43:27.643Z,Ofdrw.Net.Core,0.2.0,whynpc9,"Core OFD models, options, interfaces and validation report types for Ofdrw.Net."
+2026-11-05T02:43:28.753Z,Ofdrw.Net.Layout,0.2.0,whynpc9,Document builder and layout helpers for generating OFD documents in Ofdrw.Net.
+2026-11-05T02:43:29.877Z,Ofdrw.Net.Packaging,0.2.0,whynpc9,OFD package ZIP container read/write and structure checks for Ofdrw.Net.
+2026-11-05T02:43:30.887Z,Ofdrw.Net.Reader,0.2.0,whynpc9,"OFD reader/parser for pages, resources, attachments and tags in Ofdrw.Net."
+2026-11-05T02:43:31.907Z,Ofdrw.Net.Signatures,0.2.0,whynpc9,"OFD digital signature creation, reference integrity verification, and cryptographic extension points for Ofdrw.Net."
+2026-11-05T02:43:32.923Z,Ofdrw.Net.Text.HarfBuzz,0.2.0,whynpc9,Optional HarfBuzz shaping adapter and native assets for the Ofdrw.Net text prelayout API.
+2026-11-05T02:55:09.237Z,Gengora.CSharp.Formatting,2.5.0,Saqib Javed,Reusable Roslyn formatting profiles for Gengora.
+2026-11-05T02:55:09.587Z,Gengora.CSharp.Transformations,2.5.0,Saqib Javed,Compiler-bound C# declaration transformations configured by owning generators.
+2026-11-05T02:55:09.88Z,Gengora.CSharp.Comptime,2.5.0,Saqib Javed,Roslyn-backed compile-time pipeline and typed result APIs for Gengora C# generators.
+2026-11-05T02:55:10.17Z,Gengora.CSharp,2.5.0,Saqib Javed,Roslyn and RazorBlade pipelines for authoring compiler-backed C# generators with Gengora.
+2026-11-05T02:55:11.08Z,Gengora.CSharp.Formatter.Runtime,2.5.0,Saqib Javed,Version-matched C# formatter and semantic MCP executables for Gengora hosts.
+2026-11-05T03:09:02.527Z,FSR.NET,2.4.0,qian-o,C# bindings for AMD FSR.
+2026-11-05T03:09:25.743Z,Gengora.Host,2.5.0,Saqib Javed,"Generator host process for Gengora code generation framework. Handles protocol, discovery, and lifecycle."
