@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-05T11:21:02.79Z,DepartmentDepartmentPackage,1.0.0,Satyasri,My resusable Department code
+2026-11-05T11:58:06.603Z,NCache.Caching.Hybrid,5.3.800,Alachisoft,NCache implementation for ASP.NET Core HybridCache providing Local L1 and distributed L2 caching with tag-based invalidation and NCache's backplane synchronization.
+2026-11-05T12:01:58.687Z,Shravya.CustomNugetPackage,1.0.0,Shravya,My first custom NuGet package
