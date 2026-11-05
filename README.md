@@ -12,21 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 18:20 UTC
+## Latest list — 2026-11-05 19:19 UTC
 
-New packages created between 2026-11-05 17:21 UTC and 2026-11-05 18:20 UTC.
+New packages created between 2026-11-05 18:20 UTC and 2026-11-05 19:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T18-20-54-817963Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T19-19-53-661461Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 17:26:30 | [UkrUtils.Katottg](https://www.nuget.org/packages/UkrUtils.Katottg) | 1.0.1 | Eugene Yakush | Кодифікатор адміністративно-територіальних одиниць та територій територіальних… |
-| 2026-11-05 17:26:31 | [UkrUtils.Katottg.Import](https://www.nuget.org/packages/UkrUtils.Katottg.Import) | 1.0.1 | Eugene Yakush | Імпорт офіційного xlsx-файлу КАТОТТГ без сторонніх залежностей. |
-| 2026-11-05 17:26:32 | [UkrUtils.Katottg.Tool](https://www.nuget.org/packages/UkrUtils.Katottg.Tool) | 1.0.1 | Eugene Yakush | CLI для КАТОТТГ: імпорт офіційного xlsx, побудова знімка, пошук. |
-| 2026-11-05 17:34:27 | [miPDFlib.Rendering](https://www.nuget.org/packages/miPDFlib.Rendering) | 1.2.0 | Wolfgang Mitterbucher | Renders PDF pages to images (PNG or pixels) at any resolution, e.g. for preview… |
-| 2026-11-05 17:38:56 | [WebIt.Observability](https://www.nuget.org/packages/WebIt.Observability) | 1.0.7 | Alexandre De Marco Padrão | Biblioteca .NET 9 para observabilidade de APIs e Workers, com logging HTTP, ide… |
-| 2026-11-05 17:45:46 | [MediaBoom.Basolia](https://www.nuget.org/packages/MediaBoom.Basolia) | 1.0.0 | Aptivi | MediaBoom! Managed playback library |
-| 2026-11-05 17:45:51 | [MediaBoom.Native](https://www.nuget.org/packages/MediaBoom.Native) | 1.0.0 | Aptivi | MediaBoom! Native libraries suppport for Basolia (LibMPV) |
+| 2026-11-05 18:21:12 | [Kahuna.Aspire.Client](https://www.nuget.org/packages/Kahuna.Aspire.Client) | 1.15.0 | Andres Gutierrez | .NET Aspire client integration for Kahuna: registers a KahunaClient from a conn… |
+| 2026-11-05 18:21:23 | [Kahuna.Aspire.Hosting](https://www.nuget.org/packages/Kahuna.Aspire.Hosting) | 1.15.0 | Andres Gutierrez | .NET Aspire hosting integration for Kahuna: run a Kahuna node as a container re… |
+| 2026-11-05 18:21:51 | [MyAgents.Runtime.Workers](https://www.nuget.org/packages/MyAgents.Runtime.Workers) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:51 | [MyAgents.Memory](https://www.nuget.org/packages/MyAgents.Memory) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:52 | [MyAgents.Runtime.Chat](https://www.nuget.org/packages/MyAgents.Runtime.Chat) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:52 | [MyAgents.Agents](https://www.nuget.org/packages/MyAgents.Agents) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:52 | [MyAgents.Generators](https://www.nuget.org/packages/MyAgents.Generators) | 1.0.0 | Michspirit99 | MyAgents source generator: compile-time [AgentTool] ITool wrappers with JSON sc… |
+| 2026-11-05 18:21:53 | [MyAgents.Mcp](https://www.nuget.org/packages/MyAgents.Mcp) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:53 | [MyAgents.Testing](https://www.nuget.org/packages/MyAgents.Testing) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:53 | [MyAgents.Core](https://www.nuget.org/packages/MyAgents.Core) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:21:54 | [MyAgents.Runtime.Workers.Sqlite](https://www.nuget.org/packages/MyAgents.Runtime.Workers.Sqlite) | 1.0.0 | Michspirit99 | MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.A… |
+| 2026-11-05 18:27:32 | [Hexalith.McpCli](https://www.nuget.org/packages/Hexalith.McpCli) | 2.0.1 | Hexalith Contributors | Generic Hexalith EventStore gateway CLI and MCP server for decorated Contracts… |
+| 2026-11-05 18:28:07 | [WebMarkupMin.AspNet.Zstd](https://www.nuget.org/packages/WebMarkupMin.AspNet.Zstd) | 2.24.0-rc1 | Andrey Taritsyn | WebMarkupMin.AspNet.Zstd contains one compressor-adapter for compression of tex… |
+| 2026-11-05 18:31:56 | [JsonnetSharp](https://www.nuget.org/packages/JsonnetSharp) | 0.1.0 | HanJaeJoon | A pure C# implementation of the Jsonnet data templating language, ported from g… |
+| 2026-11-05 18:38:29 | [CamusDB.Testcontainers.XunitV3](https://www.nuget.org/packages/CamusDB.Testcontainers.XunitV3) | 0.17.0 | Andres Gutierrez | xUnit.net v3 fixture for CamusDB.Testcontainers: shares one CamusDB container a… |
+| 2026-11-05 18:38:47 | [CamusDB.Testcontainers.Xunit](https://www.nuget.org/packages/CamusDB.Testcontainers.Xunit) | 0.17.0 | Andres Gutierrez | xUnit.net v2 fixture for CamusDB.Testcontainers: shares one CamusDB container a… |
+| 2026-11-05 18:39:14 | [CamusDB.Testcontainers](https://www.nuget.org/packages/CamusDB.Testcontainers) | 0.17.0 | Andres Gutierrez | Testcontainers module for CamusDB: starts a throwaway CamusDB server in Docker… |
+| 2026-11-05 18:43:27 | [InvariantStringHelper](https://www.nuget.org/packages/InvariantStringHelper) | 1.0.0 | DevAM | Invariant-culture string interpolation that allocates only the result string: I… |
+| 2026-11-05 18:45:00 | [IoTSharp.WinForms.DataVisualization](https://www.nuget.org/packages/IoTSharp.WinForms.DataVisualization) | 10.0.0 | IoTSharp | Windows Forms chart controls for .NET 10. The public System.Windows.Forms.DataV… |
+| 2026-11-05 18:52:16 | [XactJobs.UI](https://www.nuget.org/packages/XactJobs.UI) | 0.2.0 | XactJobs | Dashboard UI for XactJobs background job processing library. |
 
 ## Data source
 

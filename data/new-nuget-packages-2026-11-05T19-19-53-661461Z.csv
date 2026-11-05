@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-05T18:21:12.843Z,Kahuna.Aspire.Client,1.15.0,Andres Gutierrez,".NET Aspire client integration for Kahuna: registers a KahunaClient from a connection string, with a health check, tracing and metrics."
+2026-11-05T18:21:23.273Z,Kahuna.Aspire.Hosting,1.15.0,Andres Gutierrez,.NET Aspire hosting integration for Kahuna: run a Kahuna node as a container resource in an Aspire AppHost.
+2026-11-05T18:21:51.27Z,MyAgents.Runtime.Workers,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:51.707Z,MyAgents.Memory,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:52.09Z,MyAgents.Runtime.Chat,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:52.473Z,MyAgents.Agents,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:52.843Z,MyAgents.Generators,1.0.0,Michspirit99,"MyAgents source generator: compile-time [AgentTool] ITool wrappers with JSON schema generation, reflection-free argument binding, and NativeAOT-safe JsonContext serialization."
+2026-11-05T18:21:53.033Z,MyAgents.Mcp,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:53.35Z,MyAgents.Testing,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:53.72Z,MyAgents.Core,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:21:54.06Z,MyAgents.Runtime.Workers.Sqlite,1.0.0,Michspirit99,MyAgents — A .NET agent orchestration framework built on Microsoft.Extensions.AI.
+2026-11-05T18:27:32.833Z,Hexalith.McpCli,2.0.1,Hexalith Contributors,Generic Hexalith EventStore gateway CLI and MCP server for decorated Contracts packages.
+2026-11-05T18:28:07.073Z,WebMarkupMin.AspNet.Zstd,2.24.0-rc1,Andrey Taritsyn,WebMarkupMin.AspNet.Zstd contains one compressor-adapter for compression of text content by using the Zstd (Zstandard) algorithm - `LegacyZstdCompressor`. `LegacyZstdCompressor` is based on the ZstdSharp library and is intended for old versions of ASP.NET.
+2026-11-05T18:31:56.813Z,JsonnetSharp,0.1.0,HanJaeJoon,"A pure C# implementation of the Jsonnet data templating language, ported from go-jsonnet."
+2026-11-05T18:38:29.523Z,CamusDB.Testcontainers.XunitV3,0.17.0,Andres Gutierrez,xUnit.net v3 fixture for CamusDB.Testcontainers: shares one CamusDB container across the tests of a class or a collection.
+2026-11-05T18:38:47.243Z,CamusDB.Testcontainers.Xunit,0.17.0,Andres Gutierrez,xUnit.net v2 fixture for CamusDB.Testcontainers: shares one CamusDB container across the tests of a class or a collection.
+2026-11-05T18:39:14.557Z,CamusDB.Testcontainers,0.17.0,Andres Gutierrez,Testcontainers module for CamusDB: starts a throwaway CamusDB server in Docker for integration tests and exposes its HTTP and gRPC endpoints.
+2026-11-05T18:43:27.117Z,InvariantStringHelper,1.0.0,DevAM,"Invariant-culture string interpolation that allocates only the result string: Invariant($""…"") for .NET 6 and later."
+2026-11-05T18:45:00.487Z,IoTSharp.WinForms.DataVisualization,10.0.0,IoTSharp,Windows Forms chart controls for .NET 10. The public System.Windows.Forms.DataVisualization namespaces are preserved.
+2026-11-05T18:52:16.493Z,XactJobs.UI,0.2.0,XactJobs,Dashboard UI for XactJobs background job processing library.
