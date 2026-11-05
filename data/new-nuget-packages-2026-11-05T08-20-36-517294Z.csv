@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-05T07:46:22.787Z,Mediana.Models.Mesh,0.1.18,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-05T07:55:03.26Z,Pbwire.FSharp,0.1.7,jinganix,"Idiomatic F# facade over the Pbwire C# dynamic binding, schema at runtime, no wire code"
+2026-11-05T08:09:42.74Z,ConnectMQ.Mqtt,1.0.0,ConnectMQ Team,"Publish and subscribe on the free public MQTT broker broker.connectmq.com in a few lines of C#. A preconfigured MQTTnet client for TCP, TLS, WebSocket and secure WebSocket with QoS 0/1/2, retained messages, wildcards and a connectivity test. Works with private ConnectMQ brokers too."
