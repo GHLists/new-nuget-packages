@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-05T09:33:48.29Z,XmlWeave,0.1.0,RRQM,无运行时反射的强类型 XML 序列化运行时。
+2026-11-05T09:34:07.44Z,Mkx.Templates.Api,0.8.1,Mkx,".NET 10 backend-only solution template with Identity, JWT Bearer, rotated refresh tokens and EF Core."
+2026-11-05T09:44:39.103Z,Skakel.Protocol,0.1.0-preview,Matumi Software,"The Skakel protocol: wire constants, discovery packets, the pairing code and the JSON contract shared by Skakel clients and servers."
+2026-11-05T09:44:50.37Z,Skakel.Client,0.1.0-preview,Matumi Software,"Reach Skakel servers: discovery, pairing, OAuth tokens over a pinned certificate, the SignalR control hub with certificate handover, and WebSocket streams."
+2026-11-05T09:45:03.97Z,Skakel.Server,0.1.0-preview,Matumi Software,"Serve Skakel clients from ASP.NET Core: discovery, pairing, OAuth tokens, certificate handover, a SignalR hub base and WebSocket streams."
+2026-11-05T10:16:04.053Z,StaticNorth.Uhp.Core,1.0.0,uhp-dotnet contributors,Shared protocol contracts and AOT-compatible serialization for community UHP .NET integrations.
+2026-11-05T10:16:06.363Z,StaticNorth.Uhp.Server,1.0.0,uhp-dotnet contributors,ASP.NET Core endpoints and backend integration for the Unified Harness Protocol.
