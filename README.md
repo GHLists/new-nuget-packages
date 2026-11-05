@@ -12,28 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 15:19 UTC
+## Latest list — 2026-11-05 16:22 UTC
 
-New packages created between 2026-11-05 14:21 UTC and 2026-11-05 15:19 UTC.
+New packages created between 2026-11-05 15:19 UTC and 2026-11-05 16:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T15-19-29-810441Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T16-22-10-813842Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 14:26:22 | [FetchXmlLinter.XrmToolBox](https://www.nuget.org/packages/FetchXmlLinter.XrmToolBox) | 0.1.0 | jaduplesms | Read-only FetchXML analysis for Microsoft Dataverse in XrmToolBox. Review suppl… |
-| 2026-11-05 14:49:06 | [Bijou64](https://www.nuget.org/packages/Bijou64) | 1.0.0 | iainb | Bijective variable-length encoding for unsigned integers |
-| 2026-11-05 14:54:04 | [LanguageWire.Connectors.Sitecore](https://www.nuget.org/packages/LanguageWire.Connectors.Sitecore) | 5.4.2 | LanguageWire | description |
-| 2026-11-05 14:59:51 | [Shiny.Hosting.Avalonia](https://www.nuget.org/packages/Shiny.Hosting.Avalonia) | 6.5.2 | Allan Ritchie | Shiny hosting for Avalonia - starts Shiny from the AppBuilder and forwards Andr… |
-| 2026-11-05 14:59:52 | [Shiny.Hosting.Uno](https://www.nuget.org/packages/Shiny.Hosting.Uno) | 6.5.2 | Allan Ritchie | Shiny hosting for Uno Platform - runs Shiny inside the Uno.Extensions.Hosting c… |
-| 2026-11-05 14:59:54 | [Shiny.Hosting.Uno.WebAssembly](https://www.nuget.org/packages/Shiny.Hosting.Uno.WebAssembly) | 6.5.2 | Allan Ritchie | Shiny hosting for Uno Platform WebAssembly - the IJSRuntime that Shiny's browse… |
-| 2026-11-05 15:05:32 | [Telerik.AspNetCore.Templates](https://www.nuget.org/packages/Telerik.AspNetCore.Templates) | 1.0.0 | Progress Software Corporation | Telerik UI for ASP.NET Core project templates |
-| 2026-11-05 15:07:16 | [RecursiveAI.OneMail.Client](https://www.nuget.org/packages/RecursiveAI.OneMail.Client) | 1.0.0 | Recursive AI, LLC | SMTP, IMAP and POP3 clients and SASL for .NET, over a public raw protocol layer. |
-| 2026-11-05 15:07:17 | [RecursiveAI.OneMail.Calendar](https://www.nuget.org/packages/RecursiveAI.OneMail.Calendar) | 1.0.0 | Recursive AI, LLC | iCalendar (ICS) and vCard components, recurrence expansion and time zones for .… |
-| 2026-11-05 15:07:17 | [RecursiveAI.OneMail.Render](https://www.nuget.org/packages/RecursiveAI.OneMail.Render) | 1.0.0 | Recursive AI, LLC | Renders an email message to a tagged PDF or PNG pages in one call, on OneRender… |
-| 2026-11-05 15:07:18 | [RecursiveAI.OneMail.Cli](https://www.nuget.org/packages/RecursiveAI.OneMail.Cli) | 1.0.0 | Recursive AI, LLC | The onemail command-line tool: inspect, convert, recover and export email files… |
-| 2026-11-05 15:07:18 | [RecursiveAI.OneMail](https://www.nuget.org/packages/RecursiveAI.OneMail) | 1.0.0 | Recursive AI, LLC | Reads and writes email formats for .NET: MIME/EML, MBOX, Maildir, TNEF, MSG, PS… |
-| 2026-11-05 15:07:53 | [Kane.Extension.Full](https://www.nuget.org/packages/Kane.Extension.Full) | 3.0.0 | Kane Leung | 包含常用的反射相关基本扩展，些包包含Kane.Extension所有功能，具体请看源码 |
-| 2026-11-05 15:08:44 | [Novatech.ACL.Service.Reporting](https://www.nuget.org/packages/Novatech.ACL.Service.Reporting) | 1.0.0 | Novatech | Package Description |
+| 2026-11-05 15:28:43 | [Puppis.Contracts](https://www.nuget.org/packages/Puppis.Contracts) | 0.1.0 | NewWorldOrg | The contract between the Carina app and the Puppis driver: the endpoints, event… |
+| 2026-11-05 15:28:45 | [Puppis.Driver](https://www.nuget.org/packages/Puppis.Driver) | 0.1.0 | NewWorldOrg | The Puppis driver as a library, so that the integration tests of an app that sp… |
+| 2026-11-05 15:29:44 | [Fdw.Documents.Records](https://www.nuget.org/packages/Fdw.Documents.Records) | 1.5.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-05 15:29:52 | [Fdw.TUI.Management.App](https://www.nuget.org/packages/Fdw.TUI.Management.App) | 1.5.0 | Fdw | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-05 15:30:09 | [Fdw.Services.Tags](https://www.nuget.org/packages/Fdw.Services.Tags) | 1.5.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-05 15:30:16 | [Fdw.Documents.Records.Abstractions](https://www.nuget.org/packages/Fdw.Documents.Records.Abstractions) | 1.5.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-05 15:30:53 | [Fdw.Services.Tags.Abstractions](https://www.nuget.org/packages/Fdw.Services.Tags.Abstractions) | 1.5.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-05 15:31:25 | [Fdw.Services.Tags.Endpoints](https://www.nuget.org/packages/Fdw.Services.Tags.Endpoints) | 1.5.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-05 15:36:55 | [Pulumi.Labs.Huggingface](https://www.nuget.org/packages/Pulumi.Labs.Huggingface) | 0.1.0 | Pulumi Labs | Experimental: manage Hugging Face resources — Inference Endpoints, Spaces, and… |
+| 2026-11-05 15:38:25 | [KenyaLocations](https://www.nuget.org/packages/KenyaLocations) | 0.1.0 | David Amunga | Kenyan administrative divisions (counties, sub-counties, constituencies, wards,… |
+| 2026-11-05 15:39:40 | [Mnemosyne.NET.AgentFramework](https://www.nuget.org/packages/Mnemosyne.NET.AgentFramework) | 0.7.0 | Marcel Roozekrans | A Microsoft Agent Framework context provider that recalls Reasonlets into an ag… |
+| 2026-11-05 15:43:23 | [KamoCore.Cli.linux-arm64](https://www.nuget.org/packages/KamoCore.Cli.linux-arm64) | 0.1.0 | KamoCore | Run KamoCore API Tester suites and UI Tester tracks from your own machine or pi… |
+| 2026-11-05 15:43:38 | [KamoCore.Cli.linux-x64](https://www.nuget.org/packages/KamoCore.Cli.linux-x64) | 0.1.0 | KamoCore | Run KamoCore API Tester suites and UI Tester tracks from your own machine or pi… |
+| 2026-11-05 15:43:51 | [KamoCore.Cli.osx-arm64](https://www.nuget.org/packages/KamoCore.Cli.osx-arm64) | 0.1.0 | KamoCore | Run KamoCore API Tester suites and UI Tester tracks from your own machine or pi… |
+| 2026-11-05 15:44:03 | [KamoCore.Cli.osx-x64](https://www.nuget.org/packages/KamoCore.Cli.osx-x64) | 0.1.0 | KamoCore | Run KamoCore API Tester suites and UI Tester tracks from your own machine or pi… |
+| 2026-11-05 15:44:18 | [KamoCore.Cli.win-x64](https://www.nuget.org/packages/KamoCore.Cli.win-x64) | 0.1.0 | KamoCore | Run KamoCore API Tester suites and UI Tester tracks from your own machine or pi… |
+| 2026-11-05 15:44:20 | [KamoCore.Cli](https://www.nuget.org/packages/KamoCore.Cli) | 0.1.0 | KamoCore | Run KamoCore API Tester suites and UI Tester tracks from your own machine or pi… |
+| 2026-11-05 16:09:45 | [AnerCloud.Sdk](https://www.nuget.org/packages/AnerCloud.Sdk) | 0.1.1 | Aner SoftEnv | SDK de Aner Cloud para .NET: archivos (FSV), secretos (SSV) y autenticación de… |
+| 2026-11-05 16:09:58 | [hgFastWindows](https://www.nuget.org/packages/hgFastWindows) | 0.0.0.23 | FastHg | Native Mercurial (hg.exe) for Windows: drop-in replacement for hgWindows-* pack… |
 
 ## Data source
 
