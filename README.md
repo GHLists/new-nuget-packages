@@ -12,31 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 14:21 UTC
+## Latest list — 2026-11-05 15:19 UTC
 
-New packages created between 2026-11-05 13:21 UTC and 2026-11-05 14:21 UTC.
+New packages created between 2026-11-05 14:21 UTC and 2026-11-05 15:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T14-21-18-53949Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T15-19-29-810441Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 13:21:59 | [MambaMQ.Client.NET](https://www.nuget.org/packages/MambaMQ.Client.NET) | 0.1.0 | MambaMQ.Client.NET | Package Description |
-| 2026-11-05 13:22:26 | [Unicorn.EntityFrameworkCore.MongoDB](https://www.nuget.org/packages/Unicorn.EntityFrameworkCore.MongoDB) | 10.0.5 | MongoDB Inc. | Unofficial community build of the MongoDB provider for Entity Framework Core th… |
-| 2026-11-05 13:26:10 | [TidyClassRoom](https://www.nuget.org/packages/TidyClassRoom) | 1.0.2 | Devseesharp | A Roslyn analyzer and code fix that keeps class members in a configurable order… |
-| 2026-11-05 13:31:15 | [PDFjet.Fonts.World](https://www.nuget.org/packages/PDFjet.Fonts.World) | 9.1.7 | PDFjet Software | The fonts of PDFjet for Chinese, Japanese, Korean, Arabic, Hebrew and Thai: IBM… |
-| 2026-11-05 13:39:30 | [BaryoDev.Umbraco.MediumImport](https://www.nuget.org/packages/BaryoDev.Umbraco.MediumImport) | 0.1.0 | BaryoDev | Import your Medium export into Umbraco 17: code blocks kept exact, gists inline… |
-| 2026-11-05 13:44:52 | [GroundControl](https://www.nuget.org/packages/GroundControl) | 0.2.0 | Uladzislau Trayan | Runs xUnit.net v3 tests within a container of a Docker Compose project wherever… |
-| 2026-11-05 14:00:13 | [Shiny.Obd.Ble.Linux](https://www.nuget.org/packages/Shiny.Obd.Ble.Linux) | 1.5.1-beta-0002 | aritchie,ShinyLib | Linux (BlueZ) BLE transport registration for Shiny.Obd using Shiny.BluetoothLE.… |
-| 2026-11-05 14:00:42 | [LoomTerminal.Core](https://www.nuget.org/packages/LoomTerminal.Core) | 0.2.0 | LoomTerminal contributors | Platform-independent terminal emulator of LoomTerminal (VT parser and buffers,… |
-| 2026-11-05 14:00:43 | [LoomTerminal.Pty](https://www.nuget.org/packages/LoomTerminal.Pty) | 0.2.0 | LoomTerminal contributors | Pseudo terminal for LoomTerminal: Windows ConPTY and a native forkpty shim for… |
-| 2026-11-05 14:00:44 | [LoomTerminal.Presentation](https://www.nuget.org/packages/LoomTerminal.Presentation) | 0.2.0 | LoomTerminal contributors | UI-independent presentation layer of LoomTerminal: render model, input encoding… |
-| 2026-11-05 14:00:44 | [LoomTerminal.WinUI](https://www.nuget.org/packages/LoomTerminal.WinUI) | 0.2.0 | LoomTerminal contributors | LoomTerminal: a native, Native AOT-compatible terminal control for WinUI 3 (no… |
-| 2026-11-05 14:00:45 | [LoomTerminal.Avalonia](https://www.nuget.org/packages/LoomTerminal.Avalonia) | 0.2.0 | LoomTerminal contributors | LoomTerminal: a native, Native AOT-compatible terminal control for Avalonia (Sk… |
-| 2026-11-05 14:05:46 | [RZeroF1.Minecraft.Projection](https://www.nuget.org/packages/RZeroF1.Minecraft.Projection) | 0.1.0 | RZeroF1 | Windows x64 SDK for parsing Minecraft projections, loading game resources, buil… |
-| 2026-11-05 14:08:27 | [Alastack.Extensions.Configuration.Consul](https://www.nuget.org/packages/Alastack.Extensions.Configuration.Consul) | 1.0.0 | kyzala | Alastack.Extensions.Configuration.Consul loads Hashicorp Consul KV values as co… |
-| 2026-11-05 14:08:56 | [JsonSchemaObjectModel](https://www.nuget.org/packages/JsonSchemaObjectModel) | 0.1.0 | Will Fuqua | An AOT-compatible JSON Schema (draft 2020-12) object model, builder and seriali… |
-| 2026-11-05 14:12:09 | [FortyOne.Fody](https://www.nuget.org/packages/FortyOne.Fody) | 1.0.0 | FortyOne | FortyOne Godot C# Framework: Fody |
-| 2026-11-05 14:13:14 | [StokerHQ.PluginRegistry](https://www.nuget.org/packages/StokerHQ.PluginRegistry) | 1.0.1 | StokerHQ | Stoker plugin registries: publisher and registry signatures, version statements… |
+| 2026-11-05 14:26:22 | [FetchXmlLinter.XrmToolBox](https://www.nuget.org/packages/FetchXmlLinter.XrmToolBox) | 0.1.0 | jaduplesms | Read-only FetchXML analysis for Microsoft Dataverse in XrmToolBox. Review suppl… |
+| 2026-11-05 14:49:06 | [Bijou64](https://www.nuget.org/packages/Bijou64) | 1.0.0 | iainb | Bijective variable-length encoding for unsigned integers |
+| 2026-11-05 14:54:04 | [LanguageWire.Connectors.Sitecore](https://www.nuget.org/packages/LanguageWire.Connectors.Sitecore) | 5.4.2 | LanguageWire | description |
+| 2026-11-05 14:59:51 | [Shiny.Hosting.Avalonia](https://www.nuget.org/packages/Shiny.Hosting.Avalonia) | 6.5.2 | Allan Ritchie | Shiny hosting for Avalonia - starts Shiny from the AppBuilder and forwards Andr… |
+| 2026-11-05 14:59:52 | [Shiny.Hosting.Uno](https://www.nuget.org/packages/Shiny.Hosting.Uno) | 6.5.2 | Allan Ritchie | Shiny hosting for Uno Platform - runs Shiny inside the Uno.Extensions.Hosting c… |
+| 2026-11-05 14:59:54 | [Shiny.Hosting.Uno.WebAssembly](https://www.nuget.org/packages/Shiny.Hosting.Uno.WebAssembly) | 6.5.2 | Allan Ritchie | Shiny hosting for Uno Platform WebAssembly - the IJSRuntime that Shiny's browse… |
+| 2026-11-05 15:05:32 | [Telerik.AspNetCore.Templates](https://www.nuget.org/packages/Telerik.AspNetCore.Templates) | 1.0.0 | Progress Software Corporation | Telerik UI for ASP.NET Core project templates |
+| 2026-11-05 15:07:16 | [RecursiveAI.OneMail.Client](https://www.nuget.org/packages/RecursiveAI.OneMail.Client) | 1.0.0 | Recursive AI, LLC | SMTP, IMAP and POP3 clients and SASL for .NET, over a public raw protocol layer. |
+| 2026-11-05 15:07:17 | [RecursiveAI.OneMail.Calendar](https://www.nuget.org/packages/RecursiveAI.OneMail.Calendar) | 1.0.0 | Recursive AI, LLC | iCalendar (ICS) and vCard components, recurrence expansion and time zones for .… |
+| 2026-11-05 15:07:17 | [RecursiveAI.OneMail.Render](https://www.nuget.org/packages/RecursiveAI.OneMail.Render) | 1.0.0 | Recursive AI, LLC | Renders an email message to a tagged PDF or PNG pages in one call, on OneRender… |
+| 2026-11-05 15:07:18 | [RecursiveAI.OneMail.Cli](https://www.nuget.org/packages/RecursiveAI.OneMail.Cli) | 1.0.0 | Recursive AI, LLC | The onemail command-line tool: inspect, convert, recover and export email files… |
+| 2026-11-05 15:07:18 | [RecursiveAI.OneMail](https://www.nuget.org/packages/RecursiveAI.OneMail) | 1.0.0 | Recursive AI, LLC | Reads and writes email formats for .NET: MIME/EML, MBOX, Maildir, TNEF, MSG, PS… |
+| 2026-11-05 15:07:53 | [Kane.Extension.Full](https://www.nuget.org/packages/Kane.Extension.Full) | 3.0.0 | Kane Leung | 包含常用的反射相关基本扩展，些包包含Kane.Extension所有功能，具体请看源码 |
+| 2026-11-05 15:08:44 | [Novatech.ACL.Service.Reporting](https://www.nuget.org/packages/Novatech.ACL.Service.Reporting) | 1.0.0 | Novatech | Package Description |
 
 ## Data source
 

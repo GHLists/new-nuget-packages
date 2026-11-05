@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-05T14:26:22.313Z,FetchXmlLinter.XrmToolBox,0.1.0,jaduplesms,"Read-only FetchXML analysis for Microsoft Dataverse in XrmToolBox. Review supplied queries, personal views and mobile offline-profile filters with evidence, coverage limitations and links to Microsoft guidance. Early public preview; not a performance benchmark or automatic optimizer."
+2026-11-05T14:49:06.523Z,Bijou64,1.0.0,iainb,Bijective variable-length encoding for unsigned integers
+2026-11-05T14:54:04.877Z,LanguageWire.Connectors.Sitecore,5.4.2,LanguageWire,description
+2026-11-05T14:59:51.623Z,Shiny.Hosting.Avalonia,6.5.2,Allan Ritchie,Shiny hosting for Avalonia - starts Shiny from the AppBuilder and forwards Android activity events
+2026-11-05T14:59:52.643Z,Shiny.Hosting.Uno,6.5.2,Allan Ritchie,Shiny hosting for Uno Platform - runs Shiny inside the Uno.Extensions.Hosting container and starts it with the process on Android
+2026-11-05T14:59:54.543Z,Shiny.Hosting.Uno.WebAssembly,6.5.2,Allan Ritchie,"Shiny hosting for Uno Platform WebAssembly - the IJSRuntime that Shiny's browser modules need, over Uno's .NET WebAssembly runtime"
+2026-11-05T15:05:32.39Z,Telerik.AspNetCore.Templates,1.0.0,Progress Software Corporation,Telerik UI for ASP.NET Core project templates
+2026-11-05T15:07:16.987Z,RecursiveAI.OneMail.Client,1.0.0,"Recursive AI, LLC","SMTP, IMAP and POP3 clients and SASL for .NET, over a public raw protocol layer."
+2026-11-05T15:07:17.23Z,RecursiveAI.OneMail.Calendar,1.0.0,"Recursive AI, LLC","iCalendar (ICS) and vCard components, recurrence expansion and time zones for .NET, with no dependency beyond the BCL."
+2026-11-05T15:07:17.743Z,RecursiveAI.OneMail.Render,1.0.0,"Recursive AI, LLC","Renders an email message to a tagged PDF or PNG pages in one call, on OneRender. Native platforms only (not browser WebAssembly)."
+2026-11-05T15:07:18.113Z,RecursiveAI.OneMail.Cli,1.0.0,"Recursive AI, LLC","The onemail command-line tool: inspect, convert, recover and export email files and stores."
+2026-11-05T15:07:18.4Z,RecursiveAI.OneMail,1.0.0,"Recursive AI, LLC","Reads and writes email formats for .NET: MIME/EML, MBOX, Maildir, TNEF, MSG, PST/OST and more, with a lossless model and typed defects."
+2026-11-05T15:07:53.81Z,Kane.Extension.Full,3.0.0,Kane Leung,包含常用的反射相关基本扩展，些包包含Kane.Extension所有功能，具体请看源码
+2026-11-05T15:08:44.847Z,Novatech.ACL.Service.Reporting,1.0.0,Novatech,Package Description
