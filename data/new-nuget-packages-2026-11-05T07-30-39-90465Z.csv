@@ -1,0 +1,45 @@
+created_at,package,version,authors,description
+2026-11-05T06:50:06.04Z,EzSnmpDataLogger,2026.11.4,carlkidcrypto,Self-contained .NET SWIG bindings for the C++17 ezsnmp_data_logger engine (powered by ezsnmp)
+2026-11-05T07:01:23.277Z,Zyker.Core.ApiClient,1.0.0,Daniel Nashokin,Generic HTTP client implementation to compose and send HTTP message requests.
+2026-11-05T07:08:22.413Z,Agritech.Visualization.Blazor,1.0.0,Gravicode Studios (Kang Fadhil),"Blazor UI components for Agritech.Net: charts, raster maps (NDVI), field maps, gauges, KPI cards and 2.5D farm views."
+2026-11-05T07:08:23.28Z,Agritech.Robotics,1.0.0,Gravicode Studios (Kang Fadhil),"Agricultural robotics: path planning, pure-pursuit tractor control, harvest and greenhouse robots."
+2026-11-05T07:08:23.98Z,Agritech.Livestock,1.0.0,Gravicode Studios (Kang Fadhil),"Livestock: animal monitoring, heat stress, health and breeding tracking."
+2026-11-05T07:08:24.68Z,Agritech.Simulation,1.0.0,Gravicode Studios (Kang Fadhil),"Crop simulation: APSIM/DSSAT-inspired growth, soil water, nitrogen, roots and climate scenarios."
+2026-11-05T07:08:25.44Z,Agritech.Weather,1.0.0,Gravicode Studios (Kang Fadhil),"Weather observations, FAO-56 ET0, forecast providers (Open-Meteo) and climate projections."
+2026-11-05T07:08:26.143Z,Agritech.Genomics,1.0.0,Gravicode Studios (Kang Fadhil),"Genomics: DNA/RNA analysis, FASTA, markers and plant breeding advisor."
+2026-11-05T07:08:26.8Z,Agritech.Soil,1.0.0,Gravicode Studios (Kang Fadhil),"Soil texture, soil health score, nutrient tracking and fertilizer calculation."
+2026-11-05T07:08:27.523Z,Agritech.RemoteSensing,1.0.0,Gravicode Studios (Kang Fadhil),"Remote sensing: Sentinel-2/Landsat/MODIS band models, NDVI/EVI/SAVI/NDWI and zonal statistics."
+2026-11-05T07:08:28.203Z,Agritech.IoT,1.0.0,Gravicode Studios (Kang Fadhil),"IoT: sensors, MQTT, LoRaWAN (Cayenne LPP / TTN) decoding and edge analytics for Agritech.Net."
+2026-11-05T07:08:28.993Z,Agritech.Cli,1.0.0,Gravicode Studios (Kang Fadhil),"Agritech.Net command-line tool: crop suitability, soil & fertilizer, ET0, weather, NDVI, drone missions, crop simulation, LoRaWAN decoding and the AI farm agent. Made by Gravicode Studios, led by Kang Fadhil."
+2026-11-05T07:08:29.563Z,Agritech.GIS,1.0.0,Gravicode Studios (Kang Fadhil),"GIS: projections (UTM/WebMercator), geodesic math, GeoJSON, geohash and spatial indexing."
+2026-11-05T07:08:30.237Z,Agritech.DigitalTwin,1.0.0,Gravicode Studios (Kang Fadhil),"Farm digital twin: real-time state, sensor integration and AI-assisted decisions."
+2026-11-05T07:08:30.88Z,Agritech.Drones,1.0.0,Gravicode Studios (Kang Fadhil),"Drone mission planning, weed and disease detection, and orthomosaic generation."
+2026-11-05T07:08:31.583Z,Agritech.Templates,1.0.0,Gravicode Studios (Kang Fadhil),"dotnet new templates for Agritech.Net: console farm advisor, Blazor farm dashboard, IoT edge gateway (MQTT + digital twin) and Avalonia desktop field viewer. Made by Gravicode Studios, led by Kang Fadhil."
+2026-11-05T07:08:32.117Z,Agritech.Fisheries,1.0.0,Gravicode Studios (Kang Fadhil),"Fisheries and aquaculture: water quality, growth and feed optimization."
+2026-11-05T07:08:32.747Z,Agritech.Core,1.0.0,Gravicode Studios (Kang Fadhil),"Agritech.Net core primitives: geo types, time series, statistics, units, farm model, DI and event bus."
+2026-11-05T07:08:33.63Z,Agritech.SupplyChain,1.0.0,Gravicode Studios (Kang Fadhil),"Agri supply chain: lot traceability, cold chain shelf life and inventory."
+2026-11-05T07:08:34.33Z,Agritech.AI,1.0.0,Gravicode Studios (Kang Fadhil),"Agricultural AI: yield forecasting, disease/pest risk, fertilizer and irrigation recommendation, LLM farm agent."
+2026-11-05T07:08:35.007Z,Agritech.Crops,1.0.0,Gravicode Studios (Kang Fadhil),"Crop catalog, lifecycle (GDD), yield estimation and crop recommendation."
+2026-11-05T07:08:35.8Z,Agritech.Native,1.0.0,Gravicode Studios (Kang Fadhil),"Native (Rust) high-performance kernels for Agritech.Net — vegetation indices, raster statistics and FAO-56 ET0 — with an automatic managed SIMD fallback."
+2026-11-05T07:08:36.493Z,Agritech.Visualization,1.0.0,Gravicode Studios (Kang Fadhil),"Agritech.Net visualization core: agronomic color ramps, PNG raster rendering, SVG charts and isometric 2.5D farm views (UI-framework agnostic)."
+2026-11-05T07:08:37.17Z,Agritech.Marketplace,1.0.0,Gravicode Studios (Kang Fadhil),"Agri marketplace: listings, order matching and price intelligence."
+2026-11-05T07:12:17.79Z,RealtimeStack.Contracts,1.1.0-beta,Realtime,Runtime-neutral protocol contracts for Realtime clients and gateways.
+2026-11-05T07:12:19.43Z,RealtimeStack.Client,1.1.0-beta,Realtime,Runtime-neutral .NET Standard WebSocket client for Realtime.
+2026-11-05T07:12:20.947Z,RealtimeStack.Redis,1.1.0-beta,Realtime Contributors,Redis messaging and session infrastructure for Realtime.
+2026-11-05T07:12:22.687Z,RealtimeStack.AspNetCore,1.1.0-beta,Realtime,Plug-and-play ASP.NET Core hosting integration for Realtime.
+2026-11-05T07:12:24.217Z,RealtimeStack.HttpFallback,1.1.0-beta,Realtime,Optional HTTP streaming fallback transport for Realtime ASP.NET Core gateways.
+2026-11-05T07:12:25.993Z,RealtimeStack.Browser,1.1.0-beta,Realtime Contributors,Static web assets for the Realtime browser and TypeScript client.
+2026-11-05T07:12:27.493Z,RealtimeStack.Plugins.Persistence,1.1.0-beta,Realtime Contributors,"Durable streams for realtime replay, notifications, and background task status."
+2026-11-05T07:12:28.963Z,RealtimeStack.Plugins.PostgreSql,1.1.0-beta,Realtime Contributors,"PostgreSql durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:30.42Z,RealtimeStack.Plugins.MySql,1.1.0-beta,Realtime Contributors,"MySql durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:34.567Z,RealtimeStack.Plugins.MariaDb,1.1.0-beta,Realtime Contributors,"MariaDb durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:37.553Z,RealtimeStack.Plugins.SqlServer,1.1.0-beta,Realtime Contributors,"SqlServer durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:39Z,RealtimeStack.Plugins.AzureSql,1.1.0-beta,Realtime Contributors,"AzureSql durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:40.51Z,RealtimeStack.Plugins.Oracle,1.1.0-beta,Realtime Contributors,"Oracle durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:42.007Z,RealtimeStack.Plugins.Sqlite,1.1.0-beta,Realtime Contributors,"Sqlite durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:43.497Z,RealtimeStack.Plugins.Db2,1.1.0-beta,Realtime Contributors,"Db2 durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:45.747Z,RealtimeStack.Plugins.CockroachDb,1.1.0-beta,Realtime Contributors,"CockroachDb durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:47.3Z,RealtimeStack.Plugins.Snowflake,1.1.0-beta,Realtime Contributors,"Snowflake durable realtime messages, notifications, and task status storage."
+2026-11-05T07:12:48.793Z,RealtimeStack.Config,1.1.0-beta,Realtime Contributors,"Registration, setup inspection, and first-run configuration for Realtime systems and database plugins."
+2026-11-05T07:17:02.57Z,BunnyTail.TextResource.Tool,1.0.0,machi_pon,Text resource conversion tool.
+2026-11-05T07:17:56.113Z,Tr.ProjectGenerator,0.1.1,Tr,Creates Toolbox projects with optional MultiTenancy from Gitee or GitHub templates.
