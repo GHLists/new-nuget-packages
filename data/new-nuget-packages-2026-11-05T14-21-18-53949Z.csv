@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-05T13:21:59.487Z,MambaMQ.Client.NET,0.1.0,MambaMQ.Client.NET,Package Description
+2026-11-05T13:22:26.453Z,Unicorn.EntityFrameworkCore.MongoDB,10.0.5,MongoDB Inc.,Unofficial community build of the MongoDB provider for Entity Framework Core that includes changes not yet merged upstream. Not supported by MongoDB. See https://github.com/ajcvickers/mongo-efcore-provider/blob/release/FORK.md
+2026-11-05T13:26:10.14Z,TidyClassRoom,1.0.2,Devseesharp,"A Roslyn analyzer and code fix that keeps class members in a configurable order (fields, constructors, properties, methods, ...)."
+2026-11-05T13:31:15.833Z,PDFjet.Fonts.World,9.1.7,PDFjet Software,"The fonts of PDFjet for Chinese, Japanese, Korean, Arabic, Hebrew and Thai: IBM Plex Sans JP, KR, SC and TC, and IBM Plex Sans Arabic, Hebrew and Thai, under the SIL Open Font License 1.1, for the package PDFjet of the same version: add it next to PDFjet, and constants such as IBMPlexSansJP.Regular…"
+2026-11-05T13:39:30.27Z,BaryoDev.Umbraco.MediumImport,0.1.0,BaryoDev,"Import your Medium export into Umbraco 17: code blocks kept exact, gists inlined, images copied to the media library, reruns update instead of duplicate."
+2026-11-05T13:44:52.44Z,GroundControl,0.2.0,Uladzislau Trayan,"Runs xUnit.net v3 tests within a container of a Docker Compose project wherever they are started from (IDE, command line, pipeline), with the IDE debugger attached."
+2026-11-05T14:00:13.68Z,Shiny.Obd.Ble.Linux,1.5.1-beta-0002,"aritchie,ShinyLib",Linux (BlueZ) BLE transport registration for Shiny.Obd using Shiny.BluetoothLE.Linux
+2026-11-05T14:00:42.99Z,LoomTerminal.Core,0.2.0,LoomTerminal contributors,"Platform-independent terminal emulator of LoomTerminal (VT parser and buffers, ported from xterm.js)."
+2026-11-05T14:00:43.633Z,LoomTerminal.Pty,0.2.0,LoomTerminal contributors,"Pseudo terminal for LoomTerminal: Windows ConPTY and a native forkpty shim for Linux and macOS, Native AOT-compatible."
+2026-11-05T14:00:44.31Z,LoomTerminal.Presentation,0.2.0,LoomTerminal contributors,"UI-independent presentation layer of LoomTerminal: render model, input encoding, selection."
+2026-11-05T14:00:44.94Z,LoomTerminal.WinUI,0.2.0,LoomTerminal contributors,"LoomTerminal: a native, Native AOT-compatible terminal control for WinUI 3 (no WebView2)."
+2026-11-05T14:00:45.897Z,LoomTerminal.Avalonia,0.2.0,LoomTerminal contributors,"LoomTerminal: a native, Native AOT-compatible terminal control for Avalonia (Skia, no web view)."
+2026-11-05T14:05:46.953Z,RZeroF1.Minecraft.Projection,0.1.0,RZeroF1,"Windows x64 SDK for parsing Minecraft projections, loading game resources, building 3D meshes, slicing scenes and rendering through Direct3D 11."
+2026-11-05T14:08:27.023Z,Alastack.Extensions.Configuration.Consul,1.0.0,kyzala,Alastack.Extensions.Configuration.Consul loads Hashicorp Consul KV values as configuration.
+2026-11-05T14:08:56.837Z,JsonSchemaObjectModel,0.1.0,Will Fuqua,"An AOT-compatible JSON Schema (draft 2020-12) object model, builder and serializer built on System.Text.Json."
+2026-11-05T14:12:09.927Z,FortyOne.Fody,1.0.0,FortyOne,FortyOne Godot C# Framework: Fody
+2026-11-05T14:13:14.563Z,StokerHQ.PluginRegistry,1.0.1,StokerHQ,"Stoker plugin registries: publisher and registry signatures, version statements, registry checks, the compiled index and its signed timestamp, and the manifest reader for hook plugins."
