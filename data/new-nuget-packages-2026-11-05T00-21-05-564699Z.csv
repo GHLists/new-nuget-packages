@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-11-04T23:22:17.997Z,DuplicatePushesAreRejectedAndNotDeleted.c6b38fc118df477d982fdab94f670b40,1.0.9,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:07.463Z,NuGetFunctionalTest_0266c7c52119420a85e9ec89c42ec4b6,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:17.31Z,ValidProtocolVersionf4cd39c1f4024c3d869d49b935e3a28c,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:22.437Z,InvalidScopeForVerify3d3b30696c8a49a58569619c34638c16,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:27.237Z,ValidScopeForVerify916c468490e14265a95474b6c87d1fac,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:34.067Z,NuGetFunctionalTest_5e57ecab12ce4bf3850cdbad4b8aa207,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:34.21Z,NuGetFunctionalTest_bd53f3545d6f4b9f89840ed6ba164df4,1.0.0-v639294318274…,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:23:57.87Z,NuGetFunctionalTest_3332930269f74fdba4a28fa9531e34ed,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:24:10.64Z,NuGetFunctionalTest_4f59bb8d4d8c41f48860bf4bfb460679,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:24:22.013Z,NuGetFunctionalTest_2f1c5a4c49b74898b1c69666eaf837f8,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:24:38.463Z,NuGetFunctionalTest_d4f32fdbdf234230a12cb938529091f4,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:26:25.217Z,ClientVersionTooLow4a534caa59e44892bbba20f3be5c4177,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:26:29.743Z,ClientVersionTooLow242a8ff50f8c4bf0bae384b41949457f,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:26:35.157Z,GetUpdates1199RegressionTest.2c339558831c44609eee00f09025fc8b,6392941.315904.3868…,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:31:12.483Z,NuGetFunctionalTest_9800f230a5014c9192627d62ddef096c,1.0.0-v639294320987…,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:32:10.363Z,NuGetFunctionalTest_ac96e71e5e54437baeeecef42a5a5ee6,1.0.0-v639294321302…,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:45:48.727Z,b15bbeba1e884eff93ad96979cdc250cPackageWithDotCsNames.Cs,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-04T23:47:36.647Z,Leptonica.Managed,1.0.0,sensboston,"A fully managed C# implementation of Leptonica 1.87.0, the image processing and image analysis library by Dan Bloomberg. No P/Invoke and no native binaries: the results match the C library, and the PNG, JPEG, TIFF, GIF, WebP, JPEG 2000, BMP and PNM codecs are included. SIMD, multithreading and opti…"
+2026-11-04T23:59:40.943Z,NanoQL.Bind,2.0.0,The nanoql Authors,"nanoql-bind: the generator and native build behind nanoql's C interface, its Python wheel and its Excel add-in, for a library of your own built on nanoql."
+2026-11-04T23:59:41.983Z,NanoQL,2.0.0,The nanoql Authors,"Quantitative finance for .NET, stateless by design: calendars, curves, instruments, pricing engines and models, each a plain function of its inputs, with market conventions as data."
+2026-11-04T23:59:42.8Z,NanoQL.Extensions,2.0.0,The nanoql Authors,"nanoql's extensions: market conventions as XML data (calendars, day counts, indexes and the instruments' defaults), and instruments and models beyond the core."
+2026-11-04T23:59:43.467Z,NanoQL.Excel,2.0.0,The nanoql Authors,"The runtime of nanoql's Excel add-in: handles, conversions, errors and settings for the worksheet functions nanoql-bind generates."
