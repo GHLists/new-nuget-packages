@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-05T21:22:28.787Z,Jeff.Sdk,1.4.0,Casperaki Multimedia Solutions Ltd.,"The Jeff SDK for .NET: call Jeff's decision functions, route, escalate and run decision graphs, against an engine on this machine or a Jeff server."
+2026-11-05T21:24:22.54Z,Cosmos.OpenTelemetry.Hosting,0.2.0,Cosmos,"Configuración OpenTelemetry y Serilog de las APIs y workers de los bounded contexts de Cosmos en Docker Swarm: resource con service.version, sampler de punta a punta (ADR 0014) sobrescribible por OTEL_TRACES_SAMPLER, exportador OTLP por las variables estándar, instrumentaciones ASP.NET Core, HttpCl…"
+2026-11-05T21:35:23.927Z,SimpleJsonRpc,1.0.0,Rokas,A standalone mostly correct .NET Stream based JSON-RPC 2.0 protocol implementation.
+2026-11-05T21:40:12.963Z,AnoiMessagingCenter,1.0.0,Anoi,"Allocation-conscious, weak-reference messaging center for .NET 10+."
+2026-11-05T21:57:53.113Z,XUnit_IngeniousGenerator,0.1.0,Yuji Kanda,C#のコードから、xUnitのテストコードをRoslynだけで決定的に生成します（LLM不要）。TEST001でテストの不足を警告し、クイックフィックスで生成します。自動生成できない関数は、理由つきのスキップのテストとして「テストしていない一覧」に載せ、テストエクスプローラーで確認できます（TEST002）。どちらのルールも既定で有効で、止める場合は.editorconfigで重大度をnoneにします。
