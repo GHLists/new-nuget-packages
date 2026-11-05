@@ -1,0 +1,48 @@
+created_at,package,version,authors,description
+2026-11-05T05:37:01.95Z,Ths.Ai.Chat.Library,1.0.0,Bert Gowens,Common components for Tarheel Software's local AI chat functionality.
+2026-11-05T05:47:51.83Z,Dora.Shared.Core,1.0.2,Hwx,Package Description
+2026-11-05T05:48:10.397Z,Dora.Shared.Identity,1.0.2,Hwx,Package Description
+2026-11-05T05:48:45.547Z,IsWiX.WixToolSet.Bal.wixext,7.0.1,Christopher Painter,WiX Toolset BootstrapperApplications extension
+2026-11-05T05:48:46.457Z,IsWiX.WixToolSet.BootstrapperApplicationApi,7.0.1,Christopher Painter,Managed Bootstrapper Application API
+2026-11-05T05:48:47.33Z,IsWiX.WixToolSet.BootstrapperApplications.wixext,7.0.1,Christopher Painter,WiX Toolset BootstrapperApplications extension
+2026-11-05T05:48:48.133Z,IsWiX.WixToolSet.BootstrapperExtensionApi,7.0.1,Christopher Painter,WiX Toolset Bundle Extension API
+2026-11-05T05:48:48.94Z,IsWiX.WixToolSet.Burn,7.0.1,Christopher Painter,Native component of WixToolset.Burn
+2026-11-05T05:48:49.747Z,IsWiX.WixToolSet.ComPlus.wixext,7.0.1,Christopher Painter,WiX Toolset ComPlus Extension
+2026-11-05T05:48:50.44Z,IsWiX.WixToolSet.Converters,7.0.1,Christopher Painter,Converter
+2026-11-05T05:48:51.267Z,IsWiX.WixToolSet.Converters.Symbolizer,7.0.1,Christopher Painter,Symbolizer
+2026-11-05T05:48:53.107Z,IsWiX.WixToolSet.Core,7.0.1,Christopher Painter,Core
+2026-11-05T05:48:54.473Z,IsWiX.WixToolSet.Core.Burn,7.0.1,Christopher Painter,Core Burn
+2026-11-05T05:48:55.303Z,IsWiX.WixToolSet.Core.ExtensionCache,7.0.1,Christopher Painter,Extension Cache
+2026-11-05T05:48:56.16Z,IsWiX.WixToolSet.Core.Native,7.0.1,Christopher Painter,WiX Toolset Native Processing
+2026-11-05T05:48:56.963Z,IsWiX.WixToolSet.Core.WindowsInstaller,7.0.1,Christopher Painter,Core Windows Installer
+2026-11-05T05:48:57.813Z,IsWiX.WixToolSet.Data,7.0.1,Christopher Painter,WiX Toolset Data
+2026-11-05T05:48:58.767Z,IsWiX.WixToolSet.Dependency.wixext,7.0.1,Christopher Painter,WiX Toolset Dependency Extension
+2026-11-05T05:48:59.51Z,IsWiX.WixToolSet.DirectX.wixext,7.0.1,Christopher Painter,WiX Toolset DirectX Extension
+2026-11-05T05:49:00.21Z,IsWiX.WixToolSet.Dtf.Compression,7.0.1,Christopher Painter,Abstract base libraries for archive packing and unpacking
+2026-11-05T05:49:00.93Z,IsWiX.WixToolSet.Dtf.Compression.Cab,7.0.1,Christopher Painter,Managed libraries for cabinet archive packing and unpacking
+2026-11-05T05:49:01.627Z,IsWiX.WixToolSet.Dtf.Compression.Zip,7.0.1,Christopher Painter,Managed libraries for zip archive packing and unpacking
+2026-11-05T05:49:02.38Z,IsWiX.WixToolSet.Dtf.CustomAction,7.0.1,Christopher Painter,The WiX Toolset lets developers create managed custom actions for the Windows Installer. This package contains the tools necessary to convert your project into a managed custom action.
+2026-11-05T05:49:03.13Z,IsWiX.WixToolSet.Dtf.Resources,7.0.1,Christopher Painter,Classes for reading and writing resource data in executable files
+2026-11-05T05:49:03.963Z,IsWiX.WixToolSet.Dtf.WindowsInstaller,7.0.1,Christopher Painter,Managed libraries for Windows Installer
+2026-11-05T05:49:04.673Z,IsWiX.WixToolSet.Dtf.WindowsInstaller.Linq,7.0.1,Christopher Painter,LINQ extensions for Windows Installer classes
+2026-11-05T05:49:05.377Z,IsWiX.WixToolSet.Dtf.WindowsInstaller.Package,7.0.1,Christopher Painter,Extended managed libraries for Windows Installer
+2026-11-05T05:49:06.39Z,IsWiX.WixToolSet.DUtil,7.0.1,Christopher Painter,WiX Toolset native library foundation
+2026-11-05T05:49:07.107Z,IsWiX.WixToolSet.Extensibility,7.0.1,Christopher Painter,WiX Toolset Extensibility
+2026-11-05T05:49:07.847Z,IsWiX.WixToolSet.Firewall.wixext,7.0.1,Christopher Painter,WiX Toolset Firewall Extension
+2026-11-05T05:49:08.587Z,IsWiX.WixToolSet.Http.wixext,7.0.1,Christopher Painter,WiX Toolset Http Extension
+2026-11-05T05:49:09.31Z,IsWiX.WixToolSet.Iis.wixext,7.0.1,Christopher Painter,WiX Toolset Iis Extension
+2026-11-05T05:49:10.16Z,IsWiX.WixToolSet.Msmq.wixext,7.0.1,Christopher Painter,WiX Toolset MSMQ Extension
+2026-11-05T05:49:10.953Z,IsWiX.WixToolSet.Netfx.wixext,7.0.1,Christopher Painter,WiX Toolset .NET extension
+2026-11-05T05:49:11.623Z,IsWiX.WixToolSet.PowerShell.wixext,7.0.1,Christopher Painter,WiX Toolset PowerShell Extension
+2026-11-05T05:49:13.13Z,IsWiX.WixToolSet.Sdk,7.0.1,Christopher Painter,WiX Toolset MSBuild integration
+2026-11-05T05:49:13.863Z,IsWiX.WixToolSet.Sql.wixext,7.0.1,Christopher Painter,WiX Toolset Sql Extension
+2026-11-05T05:49:14.54Z,IsWiX.WixToolSet.Templates,7.0.1,Christopher Painter,Project and item template for the WiX Toolset.
+2026-11-05T05:49:15.28Z,IsWiX.WixToolSet.UI.wixext,7.0.1,Christopher Painter,WiX Toolset UI Extension
+2026-11-05T05:49:16.103Z,IsWiX.WixToolSet.Util.wixext,7.0.1,Christopher Painter,WiX Toolset Utility extension
+2026-11-05T05:49:16.773Z,IsWiX.WixToolSet.Versioning,7.0.1,Christopher Painter,WiX Toolset Versioning
+2026-11-05T05:49:17.47Z,IsWiX.WixToolSet.VisualStudio.wixext,7.0.1,Christopher Painter,WiX Toolset Visual Studio Extension
+2026-11-05T05:49:18.3Z,IsWiX.WixToolSet.WcaUtil,7.0.1,Christopher Painter,WiX Toolset Custom Action native utility library
+2026-11-05T05:49:19.12Z,IsWiX.WixToolSet.WixStandardBootstrapperApplicationFunctionApi,7.0.1,Christopher Painter,WiX Toolset Standard BootstrapperApplication Functions API
+2026-11-05T05:52:04.177Z,AgentDelegation.Redis,0.5.0,kamal1910,"Redis-backed tree budget store for AgentDelegation, so every gateway instance draws from the same delegation-tree budget with an atomic check-and-spend."
+2026-11-05T06:10:02.867Z,BIMPlugins.ExtStorage,2025.6.0,Samir Shibliev,"Extension methods and helpers for the Autodesk Revit API: element collection, parameters, units, selection, geometry, transforms and failure handling. Builds for Revit 2019–2025."
+2026-11-05T06:13:41.663Z,Sitko.Core.ServiceDiscovery.Consul,13.0.0,George Drak,Sitko.Core is a set of libraries to help build .NET Core applications fast

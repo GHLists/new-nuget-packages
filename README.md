@@ -12,33 +12,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 05:20 UTC
+## Latest list — 2026-11-05 06:18 UTC
 
-New packages created between 2026-11-05 04:21 UTC and 2026-11-05 05:20 UTC.
+New packages created between 2026-11-05 05:20 UTC and 2026-11-05 06:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T05-20-22-662506Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T06-18-21-020381Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 04:31:50 | [AppWeaver.Security.Store](https://www.nuget.org/packages/AppWeaver.Security.Store) | 1.0.0 | Team AppWeaver | AppWeaver Security store abstraction: permission catalog and role-permission ma… |
-| 2026-11-05 04:32:18 | [Iso20022Kit.Cli](https://www.nuget.org/packages/Iso20022Kit.Cli) | 0.1.0 | Vong Visalsambath | Command-line tool: validate and read ISO 20022 pacs.008 and camt.053 messages,… |
-| 2026-11-05 04:32:19 | [Iso20022Kit](https://www.nuget.org/packages/Iso20022Kit) | 0.1.0 | Vong Visalsambath | Read, write and validate ISO 20022 payment messages (pacs.008 customer credit t… |
-| 2026-11-05 04:33:44 | [SlaClock](https://www.nuget.org/packages/SlaClock) | 0.1.0 | Vong Visalsambath | Business-hours deadlines and pausable SLA timers for .NET. Weekly hours with sp… |
-| 2026-11-05 04:34:01 | [Amortizer.Cli](https://www.nuget.org/packages/Amortizer.Cli) | 0.1.0 | Vong Visalsambath | Command-line loan schedules: payments, interest, APR and the true cost of flat-… |
-| 2026-11-05 04:34:02 | [Amortizer](https://www.nuget.org/packages/Amortizer) | 0.1.0 | Vong Visalsambath | Loan schedules done exactly in .NET: annuity, equal-principal, interest-only an… |
-| 2026-11-05 04:34:11 | [TxMonitor.Cli](https://www.nuget.org/packages/TxMonitor.Cli) | 0.1.0 | Vong Visalsambath | Run transaction monitoring rules over a CSV of transactions and get explained a… |
-| 2026-11-05 04:34:11 | [Iso8583Kit.Cli](https://www.nuget.org/packages/Iso8583Kit.Cli) | 0.1.0 | Vong Visalsambath | Read, build and send ISO 8583 messages, and run a simulated card host for testi… |
-| 2026-11-05 04:34:11 | [TxMonitor](https://www.nuget.org/packages/TxMonitor) | 0.1.0 | Vong Visalsambath | A transaction monitoring rules engine for anti-money-laundering alerts: structu… |
-| 2026-11-05 04:34:12 | [Iso8583Kit](https://www.nuget.org/packages/Iso8583Kit) | 0.1.0 | Vong Visalsambath | Read, write, check and explain ISO 8583 card messages (1987): ASCII and binary/… |
-| 2026-11-05 04:34:24 | [SanctionScreen](https://www.nuget.org/packages/SanctionScreen) | 0.1.0 | Vong Visalsambath | Screen names against OFAC's public Specially Designated Nationals (SDN) list: f… |
-| 2026-11-05 04:34:24 | [SanctionScreen.Cli](https://www.nuget.org/packages/SanctionScreen.Cli) | 0.1.0 | Vong Visalsambath | Screen names against the OFAC SDN list from the command line, one at a time or… |
-| 2026-11-05 04:34:30 | [LedgerKit.PostgreSql](https://www.nuget.org/packages/LedgerKit.PostgreSql) | 0.1.0 | Vong Visalsambath | PostgreSQL storage for LedgerKit. The database itself refuses unbalanced entrie… |
-| 2026-11-05 04:34:31 | [LedgerKit.Cli](https://www.nuget.org/packages/LedgerKit.Cli) | 0.1.0 | Vong Visalsambath | Post to a double-entry ledger and reconcile it with ISO 20022 camt.053 bank sta… |
-| 2026-11-05 04:34:32 | [LedgerKit](https://www.nuget.org/packages/LedgerKit) | 0.1.0 | Vong Visalsambath | A double-entry ledger that refuses unbalanced or edited entries, and bank recon… |
-| 2026-11-05 04:48:24 | [Cangming.Toolkit.Avalonias.AtomUI](https://www.nuget.org/packages/Cangming.Toolkit.Avalonias.AtomUI) | 0.1.5.1105 | Fangyu,lukan@xknife.net,Asong… | 仅组织内部使用。基于 AtomUI 的启动接入、主题切换与对话框实现。 |
-| 2026-11-05 04:50:36 | [Maple.Result.Extensions.Functions.Worker.AspNetCore](https://www.nuget.org/packages/Maple.Result.Extensions.Functions.Worker.AspNetCore) | 0.15.0 | Tom Maple | Provides mapping of the Maple.Result to the ASP.NET Core ActionResult in Azure… |
-| 2026-11-05 05:09:23 | [AppWeaver.Tenancy](https://www.nuget.org/packages/AppWeaver.Tenancy) | 1.0.0 | Team AppWeaver | AppWeaver Tenancy Abstractions Library in AppWeaver framework. |
-| 2026-11-05 05:13:29 | [AppWeaver.Tenancy.EfCore](https://www.nuget.org/packages/AppWeaver.Tenancy.EfCore) | 1.0.0 | Team AppWeaver | EF Core provider implementation for AppWeaver.Tenancy. Provider-agnostic ITenan… |
+| 2026-11-05 05:37:01 | [Ths.Ai.Chat.Library](https://www.nuget.org/packages/Ths.Ai.Chat.Library) | 1.0.0 | Bert Gowens | Common components for Tarheel Software's local AI chat functionality. |
+| 2026-11-05 05:47:51 | [Dora.Shared.Core](https://www.nuget.org/packages/Dora.Shared.Core) | 1.0.2 | Hwx | Package Description |
+| 2026-11-05 05:48:10 | [Dora.Shared.Identity](https://www.nuget.org/packages/Dora.Shared.Identity) | 1.0.2 | Hwx | Package Description |
+| 2026-11-05 05:48:45 | [IsWiX.WixToolSet.Bal.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Bal.wixext) | 7.0.1 | Christopher Painter | WiX Toolset BootstrapperApplications extension |
+| 2026-11-05 05:48:46 | [IsWiX.WixToolSet.BootstrapperApplicationApi](https://www.nuget.org/packages/IsWiX.WixToolSet.BootstrapperApplicationApi) | 7.0.1 | Christopher Painter | Managed Bootstrapper Application API |
+| 2026-11-05 05:48:47 | [IsWiX.WixToolSet.BootstrapperApplications.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.BootstrapperApplications.wixext) | 7.0.1 | Christopher Painter | WiX Toolset BootstrapperApplications extension |
+| 2026-11-05 05:48:48 | [IsWiX.WixToolSet.BootstrapperExtensionApi](https://www.nuget.org/packages/IsWiX.WixToolSet.BootstrapperExtensionApi) | 7.0.1 | Christopher Painter | WiX Toolset Bundle Extension API |
+| 2026-11-05 05:48:48 | [IsWiX.WixToolSet.Burn](https://www.nuget.org/packages/IsWiX.WixToolSet.Burn) | 7.0.1 | Christopher Painter | Native component of WixToolset.Burn |
+| 2026-11-05 05:48:49 | [IsWiX.WixToolSet.ComPlus.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.ComPlus.wixext) | 7.0.1 | Christopher Painter | WiX Toolset ComPlus Extension |
+| 2026-11-05 05:48:50 | [IsWiX.WixToolSet.Converters](https://www.nuget.org/packages/IsWiX.WixToolSet.Converters) | 7.0.1 | Christopher Painter | Converter |
+| 2026-11-05 05:48:51 | [IsWiX.WixToolSet.Converters.Symbolizer](https://www.nuget.org/packages/IsWiX.WixToolSet.Converters.Symbolizer) | 7.0.1 | Christopher Painter | Symbolizer |
+| 2026-11-05 05:48:53 | [IsWiX.WixToolSet.Core](https://www.nuget.org/packages/IsWiX.WixToolSet.Core) | 7.0.1 | Christopher Painter | Core |
+| 2026-11-05 05:48:54 | [IsWiX.WixToolSet.Core.Burn](https://www.nuget.org/packages/IsWiX.WixToolSet.Core.Burn) | 7.0.1 | Christopher Painter | Core Burn |
+| 2026-11-05 05:48:55 | [IsWiX.WixToolSet.Core.ExtensionCache](https://www.nuget.org/packages/IsWiX.WixToolSet.Core.ExtensionCache) | 7.0.1 | Christopher Painter | Extension Cache |
+| 2026-11-05 05:48:56 | [IsWiX.WixToolSet.Core.Native](https://www.nuget.org/packages/IsWiX.WixToolSet.Core.Native) | 7.0.1 | Christopher Painter | WiX Toolset Native Processing |
+| 2026-11-05 05:48:56 | [IsWiX.WixToolSet.Core.WindowsInstaller](https://www.nuget.org/packages/IsWiX.WixToolSet.Core.WindowsInstaller) | 7.0.1 | Christopher Painter | Core Windows Installer |
+| 2026-11-05 05:48:57 | [IsWiX.WixToolSet.Data](https://www.nuget.org/packages/IsWiX.WixToolSet.Data) | 7.0.1 | Christopher Painter | WiX Toolset Data |
+| 2026-11-05 05:48:58 | [IsWiX.WixToolSet.Dependency.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Dependency.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Dependency Extension |
+| 2026-11-05 05:48:59 | [IsWiX.WixToolSet.DirectX.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.DirectX.wixext) | 7.0.1 | Christopher Painter | WiX Toolset DirectX Extension |
+| 2026-11-05 05:49:00 | [IsWiX.WixToolSet.Dtf.Compression](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.Compression) | 7.0.1 | Christopher Painter | Abstract base libraries for archive packing and unpacking |
+| 2026-11-05 05:49:00 | [IsWiX.WixToolSet.Dtf.Compression.Cab](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.Compression.Cab) | 7.0.1 | Christopher Painter | Managed libraries for cabinet archive packing and unpacking |
+| 2026-11-05 05:49:01 | [IsWiX.WixToolSet.Dtf.Compression.Zip](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.Compression.Zip) | 7.0.1 | Christopher Painter | Managed libraries for zip archive packing and unpacking |
+| 2026-11-05 05:49:02 | [IsWiX.WixToolSet.Dtf.CustomAction](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.CustomAction) | 7.0.1 | Christopher Painter | The WiX Toolset lets developers create managed custom actions for the Windows I… |
+| 2026-11-05 05:49:03 | [IsWiX.WixToolSet.Dtf.Resources](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.Resources) | 7.0.1 | Christopher Painter | Classes for reading and writing resource data in executable files |
+| 2026-11-05 05:49:03 | [IsWiX.WixToolSet.Dtf.WindowsInstaller](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.WindowsInstaller) | 7.0.1 | Christopher Painter | Managed libraries for Windows Installer |
+| 2026-11-05 05:49:04 | [IsWiX.WixToolSet.Dtf.WindowsInstaller.Linq](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.WindowsInstaller.Linq) | 7.0.1 | Christopher Painter | LINQ extensions for Windows Installer classes |
+| 2026-11-05 05:49:05 | [IsWiX.WixToolSet.Dtf.WindowsInstaller.Package](https://www.nuget.org/packages/IsWiX.WixToolSet.Dtf.WindowsInstaller.Package) | 7.0.1 | Christopher Painter | Extended managed libraries for Windows Installer |
+| 2026-11-05 05:49:06 | [IsWiX.WixToolSet.DUtil](https://www.nuget.org/packages/IsWiX.WixToolSet.DUtil) | 7.0.1 | Christopher Painter | WiX Toolset native library foundation |
+| 2026-11-05 05:49:07 | [IsWiX.WixToolSet.Extensibility](https://www.nuget.org/packages/IsWiX.WixToolSet.Extensibility) | 7.0.1 | Christopher Painter | WiX Toolset Extensibility |
+| 2026-11-05 05:49:07 | [IsWiX.WixToolSet.Firewall.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Firewall.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Firewall Extension |
+| 2026-11-05 05:49:08 | [IsWiX.WixToolSet.Http.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Http.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Http Extension |
+| 2026-11-05 05:49:09 | [IsWiX.WixToolSet.Iis.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Iis.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Iis Extension |
+| 2026-11-05 05:49:10 | [IsWiX.WixToolSet.Msmq.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Msmq.wixext) | 7.0.1 | Christopher Painter | WiX Toolset MSMQ Extension |
+| 2026-11-05 05:49:10 | [IsWiX.WixToolSet.Netfx.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Netfx.wixext) | 7.0.1 | Christopher Painter | WiX Toolset .NET extension |
+| 2026-11-05 05:49:11 | [IsWiX.WixToolSet.PowerShell.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.PowerShell.wixext) | 7.0.1 | Christopher Painter | WiX Toolset PowerShell Extension |
+| 2026-11-05 05:49:13 | [IsWiX.WixToolSet.Sdk](https://www.nuget.org/packages/IsWiX.WixToolSet.Sdk) | 7.0.1 | Christopher Painter | WiX Toolset MSBuild integration |
+| 2026-11-05 05:49:13 | [IsWiX.WixToolSet.Sql.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Sql.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Sql Extension |
+| 2026-11-05 05:49:14 | [IsWiX.WixToolSet.Templates](https://www.nuget.org/packages/IsWiX.WixToolSet.Templates) | 7.0.1 | Christopher Painter | Project and item template for the WiX Toolset. |
+| 2026-11-05 05:49:15 | [IsWiX.WixToolSet.UI.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.UI.wixext) | 7.0.1 | Christopher Painter | WiX Toolset UI Extension |
+| 2026-11-05 05:49:16 | [IsWiX.WixToolSet.Util.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.Util.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Utility extension |
+| 2026-11-05 05:49:16 | [IsWiX.WixToolSet.Versioning](https://www.nuget.org/packages/IsWiX.WixToolSet.Versioning) | 7.0.1 | Christopher Painter | WiX Toolset Versioning |
+| 2026-11-05 05:49:17 | [IsWiX.WixToolSet.VisualStudio.wixext](https://www.nuget.org/packages/IsWiX.WixToolSet.VisualStudio.wixext) | 7.0.1 | Christopher Painter | WiX Toolset Visual Studio Extension |
+| 2026-11-05 05:49:18 | [IsWiX.WixToolSet.WcaUtil](https://www.nuget.org/packages/IsWiX.WixToolSet.WcaUtil) | 7.0.1 | Christopher Painter | WiX Toolset Custom Action native utility library |
+| 2026-11-05 05:49:19 | [IsWiX.WixToolSet.WixStandardBootstrapperApplicationFunctionApi](https://www.nuget.org/packages/IsWiX.WixToolSet.WixStandardBootstrapperApplicationFunctionApi) | 7.0.1 | Christopher Painter | WiX Toolset Standard BootstrapperApplication Functions API |
+| 2026-11-05 05:52:04 | [AgentDelegation.Redis](https://www.nuget.org/packages/AgentDelegation.Redis) | 0.5.0 | kamal1910 | Redis-backed tree budget store for AgentDelegation, so every gateway instance d… |
+| 2026-11-05 06:10:02 | [BIMPlugins.ExtStorage](https://www.nuget.org/packages/BIMPlugins.ExtStorage) | 2025.6.0 | Samir Shibliev | Extension methods and helpers for the Autodesk Revit API: element collection, p… |
+| 2026-11-05 06:13:41 | [Sitko.Core.ServiceDiscovery.Consul](https://www.nuget.org/packages/Sitko.Core.ServiceDiscovery.Consul) | 13.0.0 | George Drak | Sitko.Core is a set of libraries to help build .NET Core applications fast |
 
 ## Data source
 
