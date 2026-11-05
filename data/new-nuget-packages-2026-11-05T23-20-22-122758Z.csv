@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-05T22:24:53.36Z,ZopfliSharp,0.1.0,Frédéric Derenty,"Zopfli compression in pure C#, with no native dependencies at all. A faithful port of Google's Zopfli: deflate, zlib and gzip output byte-for-byte identical to the C library, typically 3-8% smaller than zlib at its best level, readable by any standard decoder. Thread-safe, trimming and NativeAOT sa…"
+2026-11-05T22:31:36.32Z,DrifterApps.Seeds.FluentResult.AwesomeAssertions,1.1.42,Patrick Moreau,Package Description
+2026-11-05T22:37:49.897Z,Disposed.License,2026.11.5.223743,Thijs Janssen,License validation library. Free to use except for commercial use above 1.5 million revenue.
+2026-11-05T22:38:17.74Z,Lobasoft.SharedAssemblies,2.0.0,Lobasoft.SharedAssemblies,Package Description
+2026-11-05T22:48:59.987Z,Lobasoft.Host,2.0.0,Lobasoft,Package Description
+2026-11-05T22:56:28.03Z,SpecJumpCdc,1.0.0,Whaliin,"High-performance Speculative Jump Content-Defined Chunking (JC) for .NET 10, delivering ~10 GB/s chunking throughput and boundary-shift resilient data deduplication."
+2026-11-05T23:01:22.147Z,Mediana.Drawing.Emoji.Fluent,0.1.20,Vadim Belov,Optional Microsoft Fluent Flat emoji resources and managed inline rendering.
+2026-11-05T23:01:24.27Z,Mediana.Imaging,0.1.20,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-05T23:01:38.5Z,Mediana.Codecs.Webp,0.1.20,Vadim Belov,Managed multimedia building blocks for .NET.

@@ -12,19 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 22:20 UTC
+## Latest list — 2026-11-05 23:20 UTC
 
-New packages created between 2026-11-05 21:19 UTC and 2026-11-05 22:20 UTC.
+New packages created between 2026-11-05 22:20 UTC and 2026-11-05 23:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T22-20-47-623728Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T23-20-22-122758Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 21:22:28 | [Jeff.Sdk](https://www.nuget.org/packages/Jeff.Sdk) | 1.4.0 | Casperaki Multimedia Solution… | The Jeff SDK for .NET: call Jeff's decision functions, route, escalate and run… |
-| 2026-11-05 21:24:22 | [Cosmos.OpenTelemetry.Hosting](https://www.nuget.org/packages/Cosmos.OpenTelemetry.Hosting) | 0.2.0 | Cosmos | Configuración OpenTelemetry y Serilog de las APIs y workers de los bounded cont… |
-| 2026-11-05 21:35:23 | [SimpleJsonRpc](https://www.nuget.org/packages/SimpleJsonRpc) | 1.0.0 | Rokas | A standalone mostly correct .NET Stream based JSON-RPC 2.0 protocol implementat… |
-| 2026-11-05 21:40:12 | [AnoiMessagingCenter](https://www.nuget.org/packages/AnoiMessagingCenter) | 1.0.0 | Anoi | Allocation-conscious, weak-reference messaging center for .NET 10+. |
-| 2026-11-05 21:57:53 | [XUnit_IngeniousGenerator](https://www.nuget.org/packages/XUnit_IngeniousGenerator) | 0.1.0 | Yuji Kanda | C#のコードから、xUnitのテストコードをRoslynだけで決定的に生成します（LLM不要）。TEST001でテストの不足を警告し、クイックフィックスで生成… |
+| 2026-11-05 22:24:53 | [ZopfliSharp](https://www.nuget.org/packages/ZopfliSharp) | 0.1.0 | Frédéric Derenty | Zopfli compression in pure C#, with no native dependencies at all. A faithful p… |
+| 2026-11-05 22:31:36 | [DrifterApps.Seeds.FluentResult.AwesomeAssertions](https://www.nuget.org/packages/DrifterApps.Seeds.FluentResult.AwesomeAssertions) | 1.1.42 | Patrick Moreau | Package Description |
+| 2026-11-05 22:37:49 | [Disposed.License](https://www.nuget.org/packages/Disposed.License) | 2026.11.5.223743 | Thijs Janssen | License validation library. Free to use except for commercial use above 1.5 mil… |
+| 2026-11-05 22:38:17 | [Lobasoft.SharedAssemblies](https://www.nuget.org/packages/Lobasoft.SharedAssemblies) | 2.0.0 | Lobasoft.SharedAssemblies | Package Description |
+| 2026-11-05 22:48:59 | [Lobasoft.Host](https://www.nuget.org/packages/Lobasoft.Host) | 2.0.0 | Lobasoft | Package Description |
+| 2026-11-05 22:56:28 | [SpecJumpCdc](https://www.nuget.org/packages/SpecJumpCdc) | 1.0.0 | Whaliin | High-performance Speculative Jump Content-Defined Chunking (JC) for .NET 10, de… |
+| 2026-11-05 23:01:22 | [Mediana.Drawing.Emoji.Fluent](https://www.nuget.org/packages/Mediana.Drawing.Emoji.Fluent) | 0.1.20 | Vadim Belov | Optional Microsoft Fluent Flat emoji resources and managed inline rendering. |
+| 2026-11-05 23:01:24 | [Mediana.Imaging](https://www.nuget.org/packages/Mediana.Imaging) | 0.1.20 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-05 23:01:38 | [Mediana.Codecs.Webp](https://www.nuget.org/packages/Mediana.Codecs.Webp) | 0.1.20 | Vadim Belov | Managed multimedia building blocks for .NET. |
 
 ## Data source
 
