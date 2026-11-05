@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-11-05T06:23:41.267Z,Cratis.Showrunner.BoxOffice.Product,1.15.0,Cratis,"Box Office Product — everything a managed product does for its operator, such as Direct, in one call: creates the tenant the operator registers and reports it ready, answers whether a person may take a seat and whether a tenant is read-only, and reports who was active, built on Cratis Arc and Chron…"
+2026-11-05T06:31:30.87Z,DynaSharp.Coordination,0.2.0,DynaSharp.Coordination,"Distributed coordination on DynamoDB for DynaSharp: a lease on a named lock with fencing tokens, after the semantics of the DynamoDB Lock Client, and leader election on top of it."
