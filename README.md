@@ -12,21 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:21 UTC
+## Latest list — 2026-11-05 11:20 UTC
 
-New packages created between 2026-11-05 09:21 UTC and 2026-11-05 10:21 UTC.
+New packages created between 2026-11-05 10:21 UTC and 2026-11-05 11:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-05T10-21-37-786479Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-05T11-20-10-930325Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-05 09:33:48 | [XmlWeave](https://www.nuget.org/packages/XmlWeave) | 0.1.0 | RRQM | 无运行时反射的强类型 XML 序列化运行时。 |
-| 2026-11-05 09:34:07 | [Mkx.Templates.Api](https://www.nuget.org/packages/Mkx.Templates.Api) | 0.8.1 | Mkx | .NET 10 backend-only solution template with Identity, JWT Bearer, rotated refre… |
-| 2026-11-05 09:44:39 | [Skakel.Protocol](https://www.nuget.org/packages/Skakel.Protocol) | 0.1.0-preview | Matumi Software | The Skakel protocol: wire constants, discovery packets, the pairing code and th… |
-| 2026-11-05 09:44:50 | [Skakel.Client](https://www.nuget.org/packages/Skakel.Client) | 0.1.0-preview | Matumi Software | Reach Skakel servers: discovery, pairing, OAuth tokens over a pinned certificat… |
-| 2026-11-05 09:45:03 | [Skakel.Server](https://www.nuget.org/packages/Skakel.Server) | 0.1.0-preview | Matumi Software | Serve Skakel clients from ASP.NET Core: discovery, pairing, OAuth tokens, certi… |
-| 2026-11-05 10:16:04 | [StaticNorth.Uhp.Core](https://www.nuget.org/packages/StaticNorth.Uhp.Core) | 1.0.0 | uhp-dotnet contributors | Shared protocol contracts and AOT-compatible serialization for community UHP .N… |
-| 2026-11-05 10:16:06 | [StaticNorth.Uhp.Server](https://www.nuget.org/packages/StaticNorth.Uhp.Server) | 1.0.0 | uhp-dotnet contributors | ASP.NET Core endpoints and backend integration for the Unified Harness Protocol. |
+| 2026-11-05 10:24:31 | [DataverseStorageCostReducer](https://www.nuget.org/packages/DataverseStorageCostReducer) | 1.0.0 | Apoorv Gupta | Cut Microsoft Dataverse storage costs by 20% to 60%. Audit storage bloat, Paret… |
+| 2026-11-05 10:25:02 | [EffectivePermissionsInspector](https://www.nuget.org/packages/EffectivePermissionsInspector) | 1.0.0 | Apoorv Gupta | Diagnose 'Why Can't John Edit This Record?' in Microsoft Dataverse across Secur… |
+| 2026-11-05 10:27:52 | [TCIS.MCP.Docs](https://www.nuget.org/packages/TCIS.MCP.Docs) | 1.0.9 | TCIS Core Community and Contr… | TCIS Core Framework is an application framework for building modular, multi-ten… |
+| 2026-11-05 10:28:57 | [Likvido.Http](https://www.nuget.org/packages/Likvido.Http) | 1.0.0 | Likvido.Http | HTTP client helpers for Likvido services, including a guard for server-side fet… |
+| 2026-11-05 10:29:34 | [QueryKrafter.Core](https://www.nuget.org/packages/QueryKrafter.Core) | 1.0.0 | Matt Gordon | The QueryKrafter rule model, shared by the browser and the server: jQuery Query… |
+| 2026-11-05 10:29:41 | [QueryKrafter.Components](https://www.nuget.org/packages/QueryKrafter.Components) | 1.0.0 | Matt Gordon | The QueryKrafter query builder component, for Blazor Server, Blazor WebAssembly… |
+| 2026-11-05 10:32:09 | [Cratis.Arc.Neo4j.Testing](https://www.nuget.org/packages/Cratis.Arc.Neo4j.Testing) | 22.168.0 | Cratis | Testing utilities for Cratis Arc applications that read a Neo4j graph: substitu… |
+| 2026-11-05 10:32:10 | [Cratis.Arc.Neo4j](https://www.nuget.org/packages/Cratis.Arc.Neo4j) | 22.168.0 | Cratis | Tenant-aware Neo4j graph access for Cratis Arc: pooled drivers, graph database… |
+| 2026-11-05 10:37:34 | [BIMPlugins.UI](https://www.nuget.org/packages/BIMPlugins.UI) | 1.0.4 | Samir Shibliev | Fluent extension methods to build the Autodesk Revit ribbon: panels, push, pull… |
+| 2026-11-05 10:42:54 | [LoomEditor.Avalonia](https://www.nuget.org/packages/LoomEditor.Avalonia) | 0.5.0 | LoomEditor contributors | LoomEditor: a native, Native AOT-compatible code editor control for Avalonia, p… |
+| 2026-11-05 10:48:17 | [En16931](https://www.nuget.org/packages/En16931) | 0.1.0 | Jonas Fassbender | .NET implementation of the EN16931:2017 data model and the two mandatory syntax… |
+| 2026-11-05 10:59:00 | [LeoSouzaDev.Comex.GeneradorRelatorio](https://www.nuget.org/packages/LeoSouzaDev.Comex.GeneradorRelatorio) | 1.0.0 | SeuNomeRealOuUsuario | Biblioteca de classes desacoplada para exportação de relatórios em CSV para o e… |
+| 2026-11-05 11:02:26 | [PlatformHeads.Mac](https://www.nuget.org/packages/PlatformHeads.Mac) | 0.14.0 | https://github.com/SimonCropp… | The macOS tray of an app with one head per platform: a status item in the menu… |
 
 ## Data source
 
