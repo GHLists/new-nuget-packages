@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-05T08:37:34.127Z,Fuaran.Facts,0.1.0,Andrew J. Willshire,"Fuaran.Facts - the .NET reference implementation of the Fact wire specification: the Fact kernel's types, its canonical codec, the identity frame, supersession, as-of visibility, forecastness and freshness, and metric and subject definitions as data, with value rendering in a metric's unit. Certifi…"
+2026-11-05T08:49:07.453Z,NeoAstra.Mcp,1.12.0,NeoAstra.Mcp,"MCP plugin for NeoAstra: in a development session, the application connects to the relay of the NeoAstra tool, which serves the browser automation tools of its views to an agent over the Model Context Protocol, on the desktop, in a simulator or an emulator, and on a phone."
+2026-11-05T09:05:02.44Z,EntityTracker.AspNetCore,0.1.0,EntityTracker.AspNetCore,Attribute-driven EF Core change notifications with scoped SignalR subscriptions.
+2026-11-05T09:06:14.8Z,Kameleon,1.0.0,Matt Gordon,"A theme engine for Blazor sites: compiled and static themes, per-tenant and per-user choices, theme settings and the screens to manage them."
+2026-11-05T09:06:21.847Z,Kameleon.Abstractions,1.0.0,Matt Gordon,The contracts and components a Kameleon theme is built with. A theme package references only this.
+2026-11-05T09:06:27.693Z,Kameleon.Data,1.0.0,Matt Gordon,Provider-agnostic data model for the Kameleon theme engine's tenant and user settings.
+2026-11-05T09:06:35.4Z,Kameleon.Data.MySql,1.0.0,Matt Gordon,MySQL storage for the Kameleon theme engine.
+2026-11-05T09:06:41.883Z,Kameleon.Data.Npgsql,1.0.0,Matt Gordon,PostgreSQL storage for the Kameleon theme engine.
+2026-11-05T09:06:49.047Z,Kameleon.Data.Sql,1.0.0,Matt Gordon,SQL Server storage for the Kameleon theme engine.
+2026-11-05T09:06:55.383Z,Kameleon.Data.Sqlite,1.0.0,Matt Gordon,SQLite storage for the Kameleon theme engine.
+2026-11-05T09:07:00.847Z,Kameleon.Services,1.0.0,Matt Gordon,"Theme catalog, eligibility, resolution and settings for the Kameleon theme engine, without any UI."
+2026-11-05T09:10:07.497Z,NetLiu.PowerShellLib,2.0.2,刘冬云,强类型 PowerShell 调用封装：Source / Target / Stage 三端点 + 传输门面，编译期由增量生成器生成命令扩展方法，支持本地、WinRM、SSH 端点与跨端点搬运（含双远端中继）。本包面向 netstandard2.0 且不含 PowerShell 引擎，需配合 NetLiu.PowerShellLib.Runtime 使用。
+2026-11-05T09:10:35.677Z,NetLiu.PowerShellLib.Runtime,2.0.2,刘冬云,NetLiu.PowerShellLib 的运行时实现：为 net472 提供 Windows PowerShell 5.1 引擎、为 net8.0 提供 PowerShell 7 引擎。引用本包后，NetLiu.PowerShellLib 会在运行时自动发现并创建它。
+2026-11-05T09:15:21.193Z,Mockly.Server,1.14.0,Dennis Doomen,Exposes a Mockly HttpMock as a real loopback HTTP server for callers that cannot use an injected HttpClient
