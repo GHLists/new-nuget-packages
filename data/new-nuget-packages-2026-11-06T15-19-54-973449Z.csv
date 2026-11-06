@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-06T14:25:53.583Z,specht.mcp,0.5.12-preview,"Rodney Littles, II",An MCP server that gives a coding agent the verdict of the specht its repository pins.
+2026-11-06T14:37:30.407Z,EhLib.WinForms.Trial,2.0.6,Dmitriy V. Bolshakov,EhLib.WinForms - Trial Edition. For evaluation purposes only.
+2026-11-06T14:38:54.07Z,Provance.Storage.EntityFrameworkCore,0.1.0,H. Id Brahim,"Entity Framework Core store for PROVANCE tamper-evident ledgers: SQL Server, PostgreSQL, SQLite, MySQL, MariaDB, Oracle and any other EF Core provider."
+2026-11-06T14:46:33.96Z,Reactive.Compiler,1.0.0,Reactive.Compiler,Source generators and analyzers for Reactive.
+2026-11-06T14:49:24.8Z,Ekom.Printer,1.0.0,Vettvangur,Optional HTML picking-slip queue and rendering for Ekom.
+2026-11-06T14:49:25.357Z,BccCode.PubSub.AspNetCore,1.0.49,BCC Code,ASP.NET Core helpers for bcc-pubsub subscribers: verify the signed X-PubSub-Token on pushes to minimal API and MVC endpoints.
+2026-11-06T14:50:44.573Z,NSail.Localization.Testing,0.1.547,"Leonardo Porro,Emmanuel Arias","NSail.Localization.Testing, part of NSail Stack: a .NET modular-monolith framework (messaging, data, security, Blazor and React clients)."
+2026-11-06T14:50:50.11Z,NSail.Harness.OpenObserve,0.1.546,"Leonardo Porro,Emmanuel Arias","NSail.Harness.OpenObserve, part of NSail Stack: a .NET modular-monolith framework (messaging, data, security, Blazor and React clients)."
+2026-11-06T14:51:33.133Z,Whatfix.Mobile.Android.Binding,0.1.3,Whatfix Mobile Team,Internal Android binding used by Whatfix.Mobile.Maui.
+2026-11-06T14:51:34.733Z,Whatfix.Mobile.iOS.Binding,0.1.3,Whatfix Mobile Team,Internal iOS binding used by Whatfix.Mobile.Maui.
+2026-11-06T14:51:35.697Z,Whatfix.Mobile.Maui,0.1.3,Whatfix Mobile Team,Thin .NET MAUI wrapper for the native Whatfix Android and iOS SDKs.
+2026-11-06T14:56:30.777Z,OpenCodeDotNet.Sdk.Extensions,1.0.0,Deniz İrgin,Dependency injection for the unofficial OpenCode .NET SDK: AddOpenCode registers one client for the OpenCode 2.x server HTTP API and every sub-client resolved from it.
+2026-11-06T14:56:31.857Z,OpenCodeDotNet.Sdk,1.0.0,Deniz İrgin,"Unofficial .NET SDK for OpenCode: a typed client for the OpenCode 2.x server HTTP API, with server-sent event streams, PTY terminals over WebSockets, cursor pagination, typed errors, and a local server launcher."
+2026-11-06T15:00:08.823Z,SkiaUi.Maui.Markdown,1.8.0,Rafal Kukla,"A drawn Markdown view for SkiaUi.Maui: headings, lists, tables, code, quotes, alerts, footnotes and images, the same on every platform, without a platform view per paragraph."
+2026-11-06T15:00:10.133Z,SkiaUi.Maui.Markdown.Math,1.8.0,Rafal Kukla,"Formulas for SkiaUi.Maui.Markdown: LaTeX drawn with CSharpMath, in documents that may be hostile."
