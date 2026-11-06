@@ -12,19 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 05:20 UTC
+## Latest list — 2026-11-06 06:20 UTC
 
-New packages created between 2026-11-06 04:19 UTC and 2026-11-06 05:20 UTC.
+New packages created between 2026-11-06 05:20 UTC and 2026-11-06 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T05-20-25-473133Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T06-20-35-33444Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 04:57:07 | [SqlLinq.Units](https://www.nuget.org/packages/SqlLinq.Units) | 2.0.0 | lennykean | Unit conversion in SqlLinq queries, using UnitsNet.Metadata. |
-| 2026-11-06 04:57:08 | [SqlLinq.TimeSeries](https://www.nuget.org/packages/SqlLinq.TimeSeries) | 2.0.0 | lennykean | Time series queries for SqlLinq. |
-| 2026-11-06 04:57:50 | [Mekhane](https://www.nuget.org/packages/Mekhane) | 1.0.0 | itzmerobby | A simple library for creating modular applications in C#. The future of softwar… |
-| 2026-11-06 04:57:55 | [Mekhane.AspNet](https://www.nuget.org/packages/Mekhane.AspNet) | 1.0.0 | itzmerobby | ASP.NET Core integration for building modular applications with Mekhane. |
-| 2026-11-06 04:57:59 | [Mekhane.DependencyInjection](https://www.nuget.org/packages/Mekhane.DependencyInjection) | 1.0.0 | itzmerobby | Dependency injection and Generic Host integration for Mekhane. |
+| 2026-11-06 05:30:25 | [RhythmBase.RhythmDoctor.Lang](https://www.nuget.org/packages/RhythmBase.RhythmDoctor.Lang) | 1.3.13 | RhythmBase.RhythmDoctor.Lang | Expression language (ANTLR grammar, evaluators and the ExpressionContext sandbo… |
+| 2026-11-06 05:30:26 | [RhythmBase.RhythmDoctor.Playhead](https://www.nuget.org/packages/RhythmBase.RhythmDoctor.Playhead) | 1.3.13 | RhythmBase.RhythmDoctor.Playh… | Read-only level simulation (playhead, event scheduler, condition evaluation and… |
+| 2026-11-06 05:44:10 | [Hawkynt.FileFormats.Video](https://www.nuget.org/packages/Hawkynt.FileFormats.Video) | 1.0.0.223 | Hawkynt | Pure-C# library for reading video containers and decoding video codecs. Demuxin… |
+| 2026-11-06 05:54:15 | [links-notation](https://www.nuget.org/packages/links-notation) | 0.31.2 | Konstantin Diachenko | Link.Foundation's Links Notation parser and formatter for .NET |
+| 2026-11-06 05:55:18 | [Meziantou.Framework.Imaging.Charts](https://www.nuget.org/packages/Meziantou.Framework.Imaging.Charts) | 1.0.0 | meziantou | Renders the charts of Meziantou.Framework.Charts with Meziantou.Framework.Imagi… |
+| 2026-11-06 05:55:18 | [Meziantou.Framework.Charts](https://www.nuget.org/packages/Meziantou.Framework.Charts) | 1.0.0 | meziantou | Grammar-of-graphics chart library that renders deterministic SVG: bar, line, ar… |
+| 2026-11-06 06:10:13 | [Beep.PDF.BarCodes](https://www.nuget.org/packages/Beep.PDF.BarCodes) | 1.0.1 | Beep.PDF.BarCodes | Package Description |
+| 2026-11-06 06:10:14 | [Beep.PDF.System](https://www.nuget.org/packages/Beep.PDF.System) | 1.0.1 | Beep.PDF.System | Package Description |
+| 2026-11-06 06:10:14 | [Beep.PDF.Charting](https://www.nuget.org/packages/Beep.PDF.Charting) | 1.0.1 | Beep.PDF.Charting | Package Description |
+| 2026-11-06 06:10:15 | [Beep.PDF.Shared](https://www.nuget.org/packages/Beep.PDF.Shared) | 1.0.1 | Beep.PDF.Shared | Package Description |
+| 2026-11-06 06:11:56 | [MFiles.Grpc](https://www.nuget.org/packages/MFiles.Grpc) | 26.11.0 | M-Files | Client for the M-Files gRPC API: the generated client classes of every service,… |
 
 ## Data source
 

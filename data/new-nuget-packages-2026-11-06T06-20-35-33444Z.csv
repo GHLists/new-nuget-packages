@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-06T05:30:25.92Z,RhythmBase.RhythmDoctor.Lang,1.3.13,RhythmBase.RhythmDoctor.Lang,"Expression language (ANTLR grammar, evaluators and the ExpressionContext sandbox) for the Rhythm Doctor adapter."
+2026-11-06T05:30:26.67Z,RhythmBase.RhythmDoctor.Playhead,1.3.13,RhythmBase.RhythmDoctor.Playhead,"Read-only level simulation (playhead, event scheduler, condition evaluation and state modules) for the Rhythm Doctor adapter."
+2026-11-06T05:44:10.167Z,Hawkynt.FileFormats.Video,1.0.0.223,Hawkynt,"Pure-C# library for reading video containers and decoding video codecs. Demuxing, decoding, encoding and muxing are four separate contracts, so a container can be read and a different one written without a decode in between. Frames are FileFormat.Core RawImages, so everything the image library does…"
+2026-11-06T05:54:15.767Z,links-notation,0.31.2,Konstantin Diachenko,Link.Foundation's Links Notation parser and formatter for .NET
+2026-11-06T05:55:18.863Z,Meziantou.Framework.Imaging.Charts,1.0.0,meziantou,"Renders the charts of Meziantou.Framework.Charts with Meziantou.Framework.Imaging: images in any format (PNG, WebP, JPEG...), or vector drawing on a canvas, with embedded Liberation Sans fonts."
+2026-11-06T05:55:18.89Z,Meziantou.Framework.Charts,1.0.0,meziantou,"Grammar-of-graphics chart library that renders deterministic SVG: bar, line, area, scatter, pie, radar, gauge, packed circles, treemap, sunburst, histogram, box plot, heatmap, waterfall, funnel, candlestick and more, built from marks, scales, coordinates and transforms."
+2026-11-06T06:10:13.99Z,Beep.PDF.BarCodes,1.0.1,Beep.PDF.BarCodes,Package Description
+2026-11-06T06:10:14.26Z,Beep.PDF.System,1.0.1,Beep.PDF.System,Package Description
+2026-11-06T06:10:14.82Z,Beep.PDF.Charting,1.0.1,Beep.PDF.Charting,Package Description
+2026-11-06T06:10:15.07Z,Beep.PDF.Shared,1.0.1,Beep.PDF.Shared,Package Description
+2026-11-06T06:11:56.79Z,MFiles.Grpc,26.11.0,M-Files,"Client for the M-Files gRPC API: the generated client classes of every service, and helpers for the connection, call metadata, login (including browser sign-in through M-Files Login Service) and errors."
