@@ -12,18 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 12:19 UTC
+## Latest list — 2026-11-06 13:19 UTC
 
-New packages created between 2026-11-06 11:21 UTC and 2026-11-06 12:19 UTC.
+New packages created between 2026-11-06 12:19 UTC and 2026-11-06 13:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T12-19-02-127111Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T13-19-40-357997Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 11:22:56 | [Jyuno](https://www.nuget.org/packages/Jyuno) | 1.0.0 | jyunrcaea | C# 프로그램에 안전한 플러그인(스크립트) 기능을 쉽게 추가하기 위한 작고 가벼운 언어 Jyuno의 인터프리터입니다. |
-| 2026-11-06 11:57:48 | [KeyInteractive.Licensing](https://www.nuget.org/packages/KeyInteractive.Licensing) | 1.0.0 | KeyInteractive | Client side of the Key Interactive offline licensing, for applications: verifie… |
-| 2026-11-06 11:57:51 | [KeyInteractive.Licensing.Issuing](https://www.nuget.org/packages/KeyInteractive.Licensing.Issuing) | 1.0.0 | KeyInteractive | SERVER-SIDE ONLY. Issues Key Interactive offline licenses and signs activation… |
-| 2026-11-06 12:05:15 | [SFA.DAS.AssessorService.Messages](https://www.nuget.org/packages/SFA.DAS.AssessorService.Messages) | 0.1.305-prerelease-9 | ESFA | Assessor Service integration messages |
+| 2026-11-06 12:21:33 | [StepHighlighter.ReqnrollPlugin](https://www.nuget.org/packages/StepHighlighter.ReqnrollPlugin) | 0.1.0 | Kamil Marek | Reqnroll runtime plugin that streams step results (JSON Lines) while tests run,… |
+| 2026-11-06 12:25:11 | [PureGate.Socket](https://www.nuget.org/packages/PureGate.Socket) | 1.0.1 | Ahmed Yasin Koculu | A dependency-free TCP messaging fabric for .NET: multiplexed request/response,… |
+| 2026-11-06 12:27:01 | [Dockview.Core](https://www.nuget.org/packages/Dockview.Core) | 1.0.0 | Dockview.Core | Package Description |
+| 2026-11-06 12:41:35 | [Umbraco.Community.NodeIcons](https://www.nuget.org/packages/Umbraco.Community.NodeIcons) | 18.0.0-rc1 | Søren Kottal | Choose individual document icons in the native Umbraco content tree and documen… |
+| 2026-11-06 12:50:58 | [HuntApi](https://www.nuget.org/packages/HuntApi) | 0.1.0 | HuntAPI | Official .NET SDK for the HuntAPI media download API. |
+| 2026-11-06 12:51:42 | [Piloterr](https://www.nuget.org/packages/Piloterr) | 0.1.0 | Piloterr | Official .NET SDK for the Piloterr web scraping API. |
+| 2026-11-06 12:51:45 | [Autom](https://www.nuget.org/packages/Autom) | 0.1.0 | Autom | Official .NET SDK for the Autom SERP API. |
+| 2026-11-06 12:51:51 | [CaptureKit](https://www.nuget.org/packages/CaptureKit) | 0.1.0 | CaptureKit | Official .NET SDK for the CaptureKit screenshot API. |
+| 2026-11-06 12:51:54 | [Veille](https://www.nuget.org/packages/Veille) | 0.1.0 | Veille | Official .NET SDK for the Veille fraud prevention API. |
+| 2026-11-06 12:51:57 | [ChartQuery](https://www.nuget.org/packages/ChartQuery) | 0.1.0 | ChartQuery | Official .NET SDK for the ChartQuery chart and QR code API. |
+| 2026-11-06 12:52:00 | [BrowserSolver](https://www.nuget.org/packages/BrowserSolver) | 0.1.0 | BrowserSolver | Official .NET SDK for the BrowserSolver web unlocker API. |
+| 2026-11-06 12:52:03 | [Asin](https://www.nuget.org/packages/Asin) | 0.1.0 | Asin | Official .NET SDK for the Asin Amazon price tracking API. |
+| 2026-11-06 13:08:28 | [Indigina.Tms.TikTokEdge.WebApi](https://www.nuget.org/packages/Indigina.Tms.TikTokEdge.WebApi) | 1.0.0 | Indigina | Package contains web api for Tms.TikTokEdge service. |
 
 ## Data source
 

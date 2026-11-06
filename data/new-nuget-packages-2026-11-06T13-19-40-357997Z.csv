@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-06T12:21:33.61Z,StepHighlighter.ReqnrollPlugin,0.1.0,Kamil Marek,"Reqnroll runtime plugin that streams step results (JSON Lines) while tests run, so the Reqnroll Step Highlighter VS Code extension can mark executed steps in .feature files live."
+2026-11-06T12:25:11.84Z,PureGate.Socket,1.0.1,Ahmed Yasin Koculu,"A dependency-free TCP messaging fabric for .NET: multiplexed request/response, events, batches and pull streams over framed TCP, with credit-based flow control, per-connection memory budgets, HMAC and TLS authentication, and System.Diagnostics.Metrics."
+2026-11-06T12:27:01.977Z,Dockview.Core,1.0.0,Dockview.Core,Package Description
+2026-11-06T12:41:35.44Z,Umbraco.Community.NodeIcons,18.0.0-rc1,Søren Kottal,Choose individual document icons in the native Umbraco content tree and document pickers.
+2026-11-06T12:50:58.577Z,HuntApi,0.1.0,HuntAPI,Official .NET SDK for the HuntAPI media download API.
+2026-11-06T12:51:42.723Z,Piloterr,0.1.0,Piloterr,Official .NET SDK for the Piloterr web scraping API.
+2026-11-06T12:51:45.933Z,Autom,0.1.0,Autom,Official .NET SDK for the Autom SERP API.
+2026-11-06T12:51:51.433Z,CaptureKit,0.1.0,CaptureKit,Official .NET SDK for the CaptureKit screenshot API.
+2026-11-06T12:51:54.503Z,Veille,0.1.0,Veille,Official .NET SDK for the Veille fraud prevention API.
+2026-11-06T12:51:57.7Z,ChartQuery,0.1.0,ChartQuery,Official .NET SDK for the ChartQuery chart and QR code API.
+2026-11-06T12:52:00.747Z,BrowserSolver,0.1.0,BrowserSolver,Official .NET SDK for the BrowserSolver web unlocker API.
+2026-11-06T12:52:03.787Z,Asin,0.1.0,Asin,Official .NET SDK for the Asin Amazon price tracking API.
+2026-11-06T13:08:28.587Z,Indigina.Tms.TikTokEdge.WebApi,1.0.0,Indigina,Package contains web api for Tms.TikTokEdge service.
