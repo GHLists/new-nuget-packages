@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-06T02:26:48.483Z,Makoto,0.1.0,Veld Labs,"Source-generated validation. Rules compile to static extension methods and validators to straight-line code, with no reflection or expression trees at runtime."
+2026-11-06T02:26:56.787Z,Esatto.Umbraco.Backoffice.Accessibility,1.0.0,Carl Schéle,"Accessibility for Umbraco: a Content-section dashboard that scans your published pages with axe-core against WCAG 2.0, 2.1 or 2.2 at level A, AA or AAA, scores the site, explains every issue with why it matters, how to fix it and caveats, and keeps a manual checklist for what a machine can't judge.…"
+2026-11-06T02:27:39.82Z,Meziantou.Framework.Iconify,1.0.0,meziantou,"Strongly-typed access to Iconify icons (Material Design Icons, Lucide, Tabler, Fluent, and 200+ other icon sets), generated at build time from the IconifyJSON files, and a loader for icon sets at run time. Trimmable and NativeAOT ready."
