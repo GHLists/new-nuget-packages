@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 07:19 UTC
+## Latest list — 2026-11-06 08:19 UTC
 
-New packages created between 2026-11-06 06:20 UTC and 2026-11-06 07:19 UTC.
+New packages created between 2026-11-06 07:19 UTC and 2026-11-06 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T07-19-57-805854Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T08-19-48-032713Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 06:33:40 | [Stride.Dependencies.Assimp](https://www.nuget.org/packages/Stride.Dependencies.Assimp) | 6.0.5.2 | Stride Contributors | Assimp shared library for the Stride 3D importer. Built from assimp/assimp v6.0… |
-| 2026-11-06 06:37:04 | [Vocab.Sdk.Maui](https://www.nuget.org/packages/Vocab.Sdk.Maui) | 0.0.2501.11908 | vo.cab | Sign in with vo.cab from a .NET MAUI app: AddVocab() wires the authorization co… |
-| 2026-11-06 06:38:08 | [MasterX.Logging.FileSystem](https://www.nuget.org/packages/MasterX.Logging.FileSystem) | 3.0.6 | master-X (Marco Sena) | Configurable file system logging provider for master-X applications. |
-| 2026-11-06 06:40:03 | [BIMPlugins.Bars](https://www.nuget.org/packages/BIMPlugins.Bars) | 2.0.1 | Samir Shibliev | Revit Package BIMPlugins.Bars |
-| 2026-11-06 07:01:48 | [StaticNorth.Uhp.Harnesses.ClaudeCode](https://www.nuget.org/packages/StaticNorth.Uhp.Harnesses.ClaudeCode) | 1.2.0 | uhp-dotnet contributors | Native AOT-compatible Claude Code provider for UHP hosts. |
-| 2026-11-06 07:01:50 | [StaticNorth.Uhp.Harnesses.Codex](https://www.nuget.org/packages/StaticNorth.Uhp.Harnesses.Codex) | 1.2.0 | uhp-dotnet contributors | Native AOT-compatible Codex App Server provider for UHP hosts. |
-| 2026-11-06 07:01:51 | [StaticNorth.Uhp.Harnesses.OpenCode](https://www.nuget.org/packages/StaticNorth.Uhp.Harnesses.OpenCode) | 1.2.0 | uhp-dotnet contributors | Native AOT-compatible OpenCode provider for UHP hosts. |
+| 2026-11-06 07:25:27 | [RhythmBase.RhythmDoctor.View](https://www.nuget.org/packages/RhythmBase.RhythmDoctor.View) | 1.0.5 | obugs | Draw all Rhythm Doctor event elements in SkiaSharp. |
+| 2026-11-06 08:04:09 | [ValIO.Application](https://www.nuget.org/packages/ValIO.Application) | 0.1.0 | ValIO Contributors | ValIO orchestration engine. Use to embed code generation in your host applicati… |
+| 2026-11-06 08:12:35 | [HealthCheck.Component](https://www.nuget.org/packages/HealthCheck.Component) | 1.0.3 | HealthCheck.Component | Package Description |
 
 ## Data source
 
