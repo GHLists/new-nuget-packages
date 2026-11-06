@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-06T19:22:47.92Z,StateAlchemist.Hosting,1.4.0,Harry Cordewener,"Runs a StateAlchemist machine for the lifetime of a .NET Generic Host: started with the host, fed from a channel, stopped on shutdown."
+2026-11-06T19:32:33.15Z,SC.Configuration.Provider.Mongo,0.0.1,Security Research PoC,"Benign dependency-confusion proof-of-concept package. It contains no executable code, installation scripts, build targets, or runtime behavior."
+2026-11-06T19:34:37.317Z,Glacier.Rag,1.2.0,Ian Cowley,"Pure C# .NET 10 in-process GraphRAG engine. Unifies dense SIMD vector search (Glacier.Vector) and zero-allocation CSR knowledge graph traversal (Glacier.Graph) directly with native LLM inference (Glacier.Inference) in a single memory space. Replaces Python LangChain, LlamaIndex, Chroma, and Neo4j."
+2026-11-06T19:35:32.367Z,Fsdb,0.1.0,Helge Sverre,An embeddable F# database with a MySQL-compatible SQL engine and wire protocol.
+2026-11-06T19:48:31.653Z,Mietex.CosmosDb,0.1.0,Pawel Mieten,"Opinionated Cosmos DB persistence primitives: partition-scoped contexts, transactional batches, audit stamping, soft delete, point-read sets, a Newtonsoft serializer, local-emulator support, and ETag-fenced partition locks."
+2026-11-06T20:11:59.957Z,PepperDash.Essentials.BuildTools.SchemaGen,0.1.1,PepperDash Technology,"Extracts device facts and Portal-ready config schemas from a PepperDash Essentials plugin repo, from its source and built assemblies, without running plugin code."
+2026-11-06T20:12:03.503Z,PepperDash.Essentials.BuildTools.Readme,0.1.0,PepperDash Technology,"Keeps a PepperDash Essentials plugin README in sync with its code: .NET and Essentials badges, and the generated plugin documentation sections."

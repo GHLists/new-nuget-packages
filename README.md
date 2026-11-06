@@ -12,22 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 19:21 UTC
+## Latest list — 2026-11-06 20:18 UTC
 
-New packages created between 2026-11-06 18:20 UTC and 2026-11-06 19:21 UTC.
+New packages created between 2026-11-06 19:21 UTC and 2026-11-06 20:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T19-21-55-760252Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T20-18-55-09833Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 18:20:42 | [Malitor.Sdk](https://www.nuget.org/packages/Malitor.Sdk) | 1.0.0 | dotnarmafzar | Package Description |
-| 2026-11-06 18:22:00 | [PeachDrawing.CoreGraphics](https://www.nuget.org/packages/PeachDrawing.CoreGraphics) | 0.9.26 | PeachDrawing.CoreGraphics | A CoreGraphics Canvas for PeachDrawing.Core - draw shapes, gradients, clips, la… |
-| 2026-11-06 18:22:52 | [ScrubTest.Debug.WinUI](https://www.nuget.org/packages/ScrubTest.Debug.WinUI) | 1.1.0 | Orthosilicate | WinUI 3 Controls for Icons and Settings |
-| 2026-11-06 18:24:54 | [PeachBrackets.Apple](https://www.nuget.org/packages/PeachBrackets.Apple) | 0.9.26 | PeachBrackets.Apple | A macOS (AppKit) and iOS (UIKit) view that shows an HTML document laid out by P… |
-| 2026-11-06 18:53:03 | [SeoApiLens](https://www.nuget.org/packages/SeoApiLens) | 0.2.1 | Yong Seo | ASP.NET Core integration for SeoApiLens: MapSeoApiLens() mounts a self-containe… |
-| 2026-11-06 18:55:27 | [BleedingOnTheEdge.Razor.Sdk](https://www.nuget.org/packages/BleedingOnTheEdge.Razor.Sdk) | 1.0.0 | BleedingOnTheEdge, Sina Vali | Public SDK for developing Razor extensions. Contains only contracts, hooks, slo… |
-| 2026-11-06 18:55:33 | [AvaAdwaita.Controls](https://www.nuget.org/packages/AvaAdwaita.Controls) | 1.10.0.7 | drasticactions | Controls that libadwaita and GTK have and Avalonia does not, drawn by AvaAdwait… |
-| 2026-11-06 19:08:08 | [PulseTrade.Comm.ResourceNode.LegacyBridge](https://www.nuget.org/packages/PulseTrade.Comm.ResourceNode.LegacyBridge) | 0.1.1 | PulseTrade.Comm.ResourceNode.… | Package Description |
+| 2026-11-06 19:22:47 | [StateAlchemist.Hosting](https://www.nuget.org/packages/StateAlchemist.Hosting) | 1.4.0 | Harry Cordewener | Runs a StateAlchemist machine for the lifetime of a .NET Generic Host: started… |
+| 2026-11-06 19:32:33 | [SC.Configuration.Provider.Mongo](https://www.nuget.org/packages/SC.Configuration.Provider.Mongo) | 0.0.1 | Security Research PoC | Benign dependency-confusion proof-of-concept package. It contains no executable… |
+| 2026-11-06 19:34:37 | [Glacier.Rag](https://www.nuget.org/packages/Glacier.Rag) | 1.2.0 | Ian Cowley | Pure C# .NET 10 in-process GraphRAG engine. Unifies dense SIMD vector search (G… |
+| 2026-11-06 19:35:32 | [Fsdb](https://www.nuget.org/packages/Fsdb) | 0.1.0 | Helge Sverre | An embeddable F# database with a MySQL-compatible SQL engine and wire protocol. |
+| 2026-11-06 19:48:31 | [Mietex.CosmosDb](https://www.nuget.org/packages/Mietex.CosmosDb) | 0.1.0 | Pawel Mieten | Opinionated Cosmos DB persistence primitives: partition-scoped contexts, transa… |
+| 2026-11-06 20:11:59 | [PepperDash.Essentials.BuildTools.SchemaGen](https://www.nuget.org/packages/PepperDash.Essentials.BuildTools.SchemaGen) | 0.1.1 | PepperDash Technology | Extracts device facts and Portal-ready config schemas from a PepperDash Essenti… |
+| 2026-11-06 20:12:03 | [PepperDash.Essentials.BuildTools.Readme](https://www.nuget.org/packages/PepperDash.Essentials.BuildTools.Readme) | 0.1.0 | PepperDash Technology | Keeps a PepperDash Essentials plugin README in sync with its code: .NET and Ess… |
 
 ## Data source
 
