@@ -12,43 +12,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:20 UTC
+## Latest list — 2026-11-06 10:19 UTC
 
-New packages created between 2026-11-06 08:19 UTC and 2026-11-06 09:20 UTC.
+New packages created between 2026-11-06 09:20 UTC and 2026-11-06 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T09-20-57-521739Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T10-19-16-655697Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 08:22:53 | [ValIO.Cli](https://www.nuget.org/packages/ValIO.Cli) | 0.1.3 | ValIO Contributors | OpenAPI 3.x to type-safe HTTP clients, models and validation schemas for TypeSc… |
-| 2026-11-06 08:22:53 | [ValIO.Core](https://www.nuget.org/packages/ValIO.Core) | 0.1.3 | ValIO Contributors | ValIO IR/AST and plugin contracts. Library used by custom generators. |
-| 2026-11-06 08:22:54 | [ValIO.Generators.CSharp](https://www.nuget.org/packages/ValIO.Generators.CSharp) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for C#. |
-| 2026-11-06 08:22:56 | [ValIO.Generators.Cpp](https://www.nuget.org/packages/ValIO.Generators.Cpp) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for C++. |
-| 2026-11-06 08:22:57 | [ValIO.Generators.Dart](https://www.nuget.org/packages/ValIO.Generators.Dart) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Dart. |
-| 2026-11-06 08:22:58 | [ValIO.Generators.FSharp](https://www.nuget.org/packages/ValIO.Generators.FSharp) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for F#. |
-| 2026-11-06 08:22:58 | [ValIO.Generators.Java](https://www.nuget.org/packages/ValIO.Generators.Java) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Java. |
-| 2026-11-06 08:22:59 | [ValIO.Generators.Kotlin](https://www.nuget.org/packages/ValIO.Generators.Kotlin) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Kotlin. |
-| 2026-11-06 08:23:01 | [ValIO.Generators.Php](https://www.nuget.org/packages/ValIO.Generators.Php) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for PHP. |
-| 2026-11-06 08:23:01 | [ValIO.Generators.Python](https://www.nuget.org/packages/ValIO.Generators.Python) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Python. |
-| 2026-11-06 08:23:02 | [ValIO.Generators.Ruby](https://www.nuget.org/packages/ValIO.Generators.Ruby) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Ruby. |
-| 2026-11-06 08:23:03 | [ValIO.Generators.Rust](https://www.nuget.org/packages/ValIO.Generators.Rust) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Rust. |
-| 2026-11-06 08:23:04 | [ValIO.Generators.Swift](https://www.nuget.org/packages/ValIO.Generators.Swift) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for Swift. |
-| 2026-11-06 08:23:05 | [ValIO.Generators.TypeScript](https://www.nuget.org/packages/ValIO.Generators.TypeScript) | 0.1.3 | ValIO Contributors | ValIO code generator plugin for TypeScript. |
-| 2026-11-06 08:23:05 | [ValIO.Output](https://www.nuget.org/packages/ValIO.Output) | 0.1.3 | ValIO Contributors | ValIO output sinks (Disk/Zip/Stream/InMemory). |
-| 2026-11-06 08:23:06 | [ValIO.Plugins.Bootstrap](https://www.nuget.org/packages/ValIO.Plugins.Bootstrap) | 0.1.3 | ValIO Contributors | ValIO DI helper: AddAllGeneratorPlugins() registers all 12 language plugins. |
-| 2026-11-06 08:25:36 | [Mycelium.ICD.FunctionalDataService](https://www.nuget.org/packages/Mycelium.ICD.FunctionalDataService) | 0.2.0 | Sam Gerené | OpenAPI 3.1 interface control document (JSON) for the Mycelium Fabric Functiona… |
-| 2026-11-06 08:47:17 | [ValIO.Configuration](https://www.nuget.org/packages/ValIO.Configuration) | 0.1.3 | ValIO Contributors | ValIO project configuration loading and validation for JSON and YAML files. |
-| 2026-11-06 08:47:24 | [ValIO.Localization](https://www.nuget.org/packages/ValIO.Localization) | 0.1.3 | ValIO Contributors | ValIO localized resources and reporting services for English, Russian, German,… |
-| 2026-11-06 08:47:25 | [ValIO.Parsers](https://www.nuget.org/packages/ValIO.Parsers) | 0.1.3 | ValIO Contributors | ValIO OpenAPI document parsers for JSON and YAML files, streams, and HTTP sourc… |
-| 2026-11-06 08:47:46 | [Hlibz.McpDocs.AspNetCore](https://www.nuget.org/packages/Hlibz.McpDocs.AspNetCore) | 0.1.0 | Hlib Zinchenko | Read-only, ReDoc-style documentation page for MCP servers hosted in ASP.NET Cor… |
-| 2026-11-06 08:54:00 | [MarkdownRenderX.Avalonia.Emoji](https://www.nuget.org/packages/MarkdownRenderX.Avalonia.Emoji) | 12.1.3.5 | RYCBStudio | GitHub / GitMoji shortcode support for MarkdownRenderX.Avalonia. Turns :beer:,… |
-| 2026-11-06 08:56:03 | [BccCode.Linq.Server](https://www.nuget.org/packages/BccCode.Linq.Server) | 2.0.0.205-pr92 | BccCode.Linq.Server | Server side of BccCode.Linq: parses Directus-style filters, sorting and paging… |
-| 2026-11-06 09:02:00 | [RecursiveAI.OneLlm.EntityFrameworkCore](https://www.nuget.org/packages/RecursiveAI.OneLlm.EntityFrameworkCore) | 1.0.0 | Recursive AI, LLC | LLM inference and agent runtime for .NET: an instance store and a record sink f… |
-| 2026-11-06 09:02:00 | [RecursiveAI.OneLlm.JavaScript](https://www.nuget.org/packages/RecursiveAI.OneLlm.JavaScript) | 1.0.0 | Recursive AI, LLC | JavaScript tools for OneLLM, the LLM inference and agent runtime for .NET: Java… |
-| 2026-11-06 09:02:01 | [RecursiveAI.OneLlm.Extensions.AI](https://www.nuget.org/packages/RecursiveAI.OneLlm.Extensions.AI) | 1.0.0 | Recursive AI, LLC | LLM inference and agent runtime for .NET: the Microsoft.Extensions.AI bridge fo… |
-| 2026-11-06 09:02:03 | [RecursiveAI.OneLlm](https://www.nuget.org/packages/RecursiveAI.OneLlm) | 1.0.0 | Recursive AI, LLC | LLM inference and agent runtime for .NET: Anthropic, OpenAI and Gemini clients,… |
-| 2026-11-06 09:02:03 | [RecursiveAI.OneLlm.OneLite](https://www.nuget.org/packages/RecursiveAI.OneLlm.OneLite) | 1.0.0 | Recursive AI, LLC | LLM inference and agent runtime for .NET: an instance store and a record sink f… |
-| 2026-11-06 09:02:04 | [RecursiveAI.OneLlm.Web](https://www.nuget.org/packages/RecursiveAI.OneLlm.Web) | 1.0.0 | Recursive AI, LLC | Web tools for OneLLM, the LLM inference and agent runtime for .NET: fetch_webpa… |
+| 2026-11-06 09:26:50 | [Synvro.Modulus.Analytics](https://www.nuget.org/packages/Synvro.Modulus.Analytics) | 2.0.0 | synvro | Analytics Integration Layer contracts for Modulus: versioned dataset and field… |
+| 2026-11-06 09:26:54 | [Synvro.Modulus.Analytics.Airflow](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Airflow) | 2.0.0 | synvro | Apache Airflow trigger for the Modulus Analytics Integration Layer: when a back… |
+| 2026-11-06 09:26:58 | [Synvro.Modulus.Analytics.Apicurio](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Apicurio) | 2.0.0 | synvro | Apicurio Registry publisher for the Modulus Analytics Integration Layer: publis… |
+| 2026-11-06 09:27:01 | [Synvro.Modulus.Analytics.ClickHouse](https://www.nuget.org/packages/Synvro.Modulus.Analytics.ClickHouse) | 2.0.0 | synvro | ClickHouse sink for the Modulus Analytics Integration Layer: creates one tenant… |
+| 2026-11-06 09:27:05 | [Synvro.Modulus.Analytics.Debezium](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Debezium) | 2.0.0 | synvro | Debezium change reader for the Modulus Analytics Integration Layer: maps Debezi… |
+| 2026-11-06 09:27:08 | [Synvro.Modulus.Analytics.Doris](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Doris) | 2.0.0 | synvro | Apache Doris sink for the Modulus Analytics Integration Layer: loads each deliv… |
+| 2026-11-06 09:27:12 | [Synvro.Modulus.Analytics.DuckDB](https://www.nuget.org/packages/Synvro.Modulus.Analytics.DuckDB) | 2.0.0 | synvro | DuckDB reconciliation reader for the Modulus Analytics Integration Layer: count… |
+| 2026-11-06 09:27:15 | [Synvro.Modulus.Analytics.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Analytics.EntityFrameworkCore) | 2.0.0 | synvro | Durable analytics delivery and backfill for Modulus on EF Core: per-tenant resu… |
+| 2026-11-06 09:27:19 | [Synvro.Modulus.Analytics.Management](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Management) | 2.0.0 | synvro | Operational management API for Modulus analytics delivery: queue status, and li… |
+| 2026-11-06 09:27:23 | [Synvro.Modulus.Analytics.Messaging](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Messaging) | 2.0.0 | synvro | Messaging sink for the Modulus Analytics Integration Layer: publishes every ana… |
+| 2026-11-06 09:27:26 | [Synvro.Modulus.Analytics.OpenLineage](https://www.nuget.org/packages/Synvro.Modulus.Analytics.OpenLineage) | 2.0.0 | synvro | OpenLineage emitter for the Modulus Analytics Integration Layer: reports each b… |
+| 2026-11-06 09:27:30 | [Synvro.Modulus.Analytics.OpenMetadata](https://www.nuget.org/packages/Synvro.Modulus.Analytics.OpenMetadata) | 2.0.0 | synvro | OpenMetadata publisher for the Modulus Analytics Integration Layer: registers e… |
+| 2026-11-06 09:27:33 | [Synvro.Modulus.Analytics.Parquet](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Parquet) | 2.0.0 | synvro | Parquet sink for the Modulus Analytics Integration Layer: writes masked batches… |
+| 2026-11-06 09:27:37 | [Synvro.Modulus.Analytics.Superset](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Superset) | 2.0.0 | synvro | Apache Superset guest tokens for the Modulus Analytics Integration Layer: a tok… |
+| 2026-11-06 09:27:40 | [Synvro.Modulus.Analytics.Testing](https://www.nuget.org/packages/Synvro.Modulus.Analytics.Testing) | 2.0.0 | synvro | Test kit for Modulus analytics providers: an in-memory sink and a conformance s… |
+| 2026-11-06 09:28:56 | [OpenUrzednik.Extensions.Logging](https://www.nuget.org/packages/OpenUrzednik.Extensions.Logging) | 1.0.0 | Andrzej Ochodek | Unofficial OpenUrzednik.NET adapter for Microsoft.Extensions.Logging: sends the… |
+| 2026-11-06 09:28:56 | [OpenUrzednik.Nbp.DependencyInjection](https://www.nuget.org/packages/OpenUrzednik.Nbp.DependencyInjection) | 1.0.0 | Andrzej Ochodek | Unofficial Microsoft.Extensions.DependencyInjection registration for the OpenUr… |
+| 2026-11-06 09:28:57 | [OpenUrzednik.Diagnostics](https://www.nuget.org/packages/OpenUrzednik.Diagnostics) | 1.0.0 | Andrzej Ochodek | Unofficial OpenUrzednik.NET adapter for System.Diagnostics: turns the clients'… |
+| 2026-11-06 09:29:08 | [Erupt.Sdk](https://www.nuget.org/packages/Erupt.Sdk) | 0.1.0 | Erupt.Sdk | Serve .NET models as erupt admin pages through an erupt cloud server. |
+| 2026-11-06 09:29:11 | [Synvro.Modulus.Flow.Connectors](https://www.nuget.org/packages/Synvro.Modulus.Flow.Connectors) | 2.0.0 | Azim Mahmud | Connectors for Modulus workflows: language model clients (Anthropic, OpenAI-com… |
+| 2026-11-06 09:29:35 | [Synvro.Modulus.Localization.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Localization.EntityFrameworkCore) | 2.0.0 | synvro | Entity Framework Core store for Modulus localization: translations edited at ru… |
+| 2026-11-06 09:30:37 | [Synvro.Modulus.Tenancy.Lifecycle](https://www.nuget.org/packages/Synvro.Modulus.Tenancy.Lifecycle) | 2.0.0 | synvro | Tenant data lifecycle for Modulus: export (JSON, CSV, attachments, encrypted ZI… |
+| 2026-11-06 09:30:42 | [Synvro.Modulus.Tenancy.Lifecycle.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Tenancy.Lifecycle.EntityFrameworkCore) | 2.0.0 | synvro | Entity Framework Core store for the Modulus tenant data lifecycle: operations,… |
+| 2026-11-06 09:40:40 | [Temno.FFmpeg.Runtime.win-x64](https://www.nuget.org/packages/Temno.FFmpeg.Runtime.win-x64) | 9.0.2-temno1 | Temno | FFmpeg 9.0.2 for Windows x64 with six upstream fixes, built for Temno. Only the… |
+| 2026-11-06 10:00:58 | [DeltaNetcode.Transport](https://www.nuget.org/packages/DeltaNetcode.Transport) | 0.0.2 | DeltaNetcode.Transport | UDP transport for DeltaNetcode sessions. |
+| 2026-11-06 10:10:26 | [ThingSet.Server.Common](https://www.nuget.org/packages/ThingSet.Server.Common) | 0.1.12 | Brill Power, Gareth Potter | Package Description |
+| 2026-11-06 10:10:29 | [ThingSet.Server](https://www.nuget.org/packages/ThingSet.Server) | 0.1.12 | Brill Power, Gareth Potter | .NET ThingSet server |
 
 ## Data source
 
