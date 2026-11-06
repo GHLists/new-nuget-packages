@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-06T10:29:53.707Z,EnterpriseUI.WinForms,1.0.0,EnterpriseUI Open Source Contributors,"Open-source Windows Forms component suite for .NET 8, including data grids, editors, navigation and layout controls, charts and gauges, scheduling, notifications, document and media controls, theming, accessibility, exporting, and printing. Source code, documentation, and runnable demonstrations: h…"
+2026-11-06T10:36:41Z,HAKICODE.Workbench.Plugin.ModelStudio,1.0.25,HAKICODE,"Tạo ảnh và mô hình 3D có xương, chuyển động trên máy GPU nội bộ, từ trợ lý, giao diện hay API. — gói workbench.model-studio dựng sẵn, chép ra workbench-plugins/workbench.model-studio/ cạnh vỏ nhúng lõi Workbench."
+2026-11-06T10:39:12.147Z,OfficeIMO.Pdf.Word,3.6.0,Przemyslaw Klys,Reconstruct Word documents from PDF using the first-party OfficeIMO engines.
+2026-11-06T10:39:13.713Z,OfficeIMO.Pdf.PowerPoint,3.6.0,Przemyslaw Klys,Reconstruct PowerPoint presentations from PDF using the first-party OfficeIMO engines.
+2026-11-06T10:39:16.877Z,OfficeIMO.Pdf.Excel,3.6.0,Przemyslaw Klys,Reconstruct Excel workbooks from PDF using the first-party OfficeIMO engines.
+2026-11-06T10:39:51.203Z,OfficeIMO.Markup.PowerPoint,3.6.0,Przemyslaw Klys,PowerPoint renderer for OfficeIMO Markup semantic AST.
+2026-11-06T10:39:53.113Z,OfficeIMO.Markup,3.6.0,Przemyslaw Klys,Unified Markdown-inspired OfficeIMO authoring layer with a semantic AST and C#/PowerShell emitters.
+2026-11-06T10:41:02.53Z,OfficeIMO.Drawing.ImageIO,3.6.0,Przemyslaw Klys,Optional Apple system ImageIO raster codec for OfficeIMO.Drawing.
+2026-11-06T11:03:35.64Z,Zemires.Aspire.N8n,13.6.0,"zemires, Laurent Christen",A .NET Aspire client integration registering the n8n public API client with health checks.
+2026-11-06T11:03:36.13Z,Zemires.Aspire.Hosting.Terraform.Azure,13.6.0,"zemires, Laurent Christen",A .NET Aspire integration that publishes Azure resources and Azure Container Apps as Terraform configuration.
+2026-11-06T11:03:36.937Z,Zemires.N8n.Api,13.6.0,"zemires, Laurent Christen",A Kiota-generated .NET client for the n8n public REST API.
+2026-11-06T11:03:37.16Z,Zemires.Aspire.Hosting.Terraform,13.6.0,"zemires, Laurent Christen",A .NET Aspire integration that publishes the application model as Terraform configuration from Handlebars templates.
+2026-11-06T11:03:37.47Z,Zemires.Aspire.Hosting.Zitadel,13.6.0,"zemires, Laurent Christen",A .NET Aspire integration for Zitadel.
+2026-11-06T11:03:37.757Z,Zemires.Aspire.Hosting.N8n,13.6.0,"zemires, Laurent Christen","A .NET Aspire hosting integration for n8n, including workers, task runners, Postgres storage and Redis queue mode."
+2026-11-06T11:03:38.023Z,Zemires.Aspire.Zitadel,13.6.0,"zemires, Laurent Christen",A .NET Aspire client integration registering the Zitadel API service clients.
+2026-11-06T11:06:13.193Z,RecursiveAI.OneImage.Metafile,1.11.0,"Recursive AI, LLC","Windows metafile support for OneImage: reads EMF as an image format, rendered at the requested size, and exposes the pictures as a documented, device-independent stream of drawing commands."
