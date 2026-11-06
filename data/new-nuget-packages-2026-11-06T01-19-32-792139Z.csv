@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-11-06T01:11:59.11Z,PiSharp.Telemetry,1.5.0,PiSharp contributors,"EXPERIMENTAL. Telemetry contract for PiSharp, a port of Pi's pi-telemetry: spans, links, carriers, metrics and typed schemas, with the no-op and in-memory adapters, a trace store, renderTrace and an adapter conformance kit. Nothing is exported or sent anywhere. The API may change in any release; op…"
