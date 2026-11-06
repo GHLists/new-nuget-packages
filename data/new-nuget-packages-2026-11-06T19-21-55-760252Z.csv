@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-06T18:20:42.56Z,Malitor.Sdk,1.0.0,dotnarmafzar,Package Description
+2026-11-06T18:22:00.023Z,PeachDrawing.CoreGraphics,0.9.26,PeachDrawing.CoreGraphics,"A CoreGraphics Canvas for PeachDrawing.Core - draw shapes, gradients, clips, layers, text and images with Apple's CoreGraphics into a caller's CGContext or an offscreen bitmap on macOS and iOS, with Core Image effects on the GPU, clickable links, and no PDF, HTML or CSS involved."
+2026-11-06T18:22:52.427Z,ScrubTest.Debug.WinUI,1.1.0,Orthosilicate,WinUI 3 Controls for Icons and Settings
+2026-11-06T18:24:54.793Z,PeachBrackets.Apple,0.9.26,PeachBrackets.Apple,"A macOS (AppKit) and iOS (UIKit) view that shows an HTML document laid out by PeachBrackets: GPU-composited scrolling and zoom, mouse, trackpad, touch and pointer input, links, text selection and copy, and the CSS cursor, hover and touch-action behaviour the document asks for."
+2026-11-06T18:53:03.437Z,SeoApiLens,0.2.1,Yong Seo,"ASP.NET Core integration for SeoApiLens: MapSeoApiLens() mounts a self-contained OpenAPI reference UI (Blazor WebAssembly) — docs viewer plus Try It console, served scoped under your chosen route."
+2026-11-06T18:55:27.033Z,BleedingOnTheEdge.Razor.Sdk,1.0.0,"BleedingOnTheEdge, Sina Vali","Public SDK for developing Razor extensions. Contains only contracts, hooks, slots, and domain types."
+2026-11-06T18:55:33.17Z,AvaAdwaita.Controls,1.10.0.7,drasticactions,"Controls that libadwaita and GTK have and Avalonia does not, drawn by AvaAdwaita.Theme's stylesheet engine from the same CSS nodes: preference rows and groups, status pages, banners, avatars, level bars, toolbar views, header bars, view switchers, navigation and split views, clamps, dialogs and bot…"
+2026-11-06T19:08:08.693Z,PulseTrade.Comm.ResourceNode.LegacyBridge,0.1.1,PulseTrade.Comm.ResourceNode.LegacyBridge,Package Description

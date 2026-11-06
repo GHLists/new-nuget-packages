@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 18:20 UTC
+## Latest list — 2026-11-06 19:21 UTC
 
-New packages created between 2026-11-06 17:20 UTC and 2026-11-06 18:20 UTC.
+New packages created between 2026-11-06 18:20 UTC and 2026-11-06 19:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T18-20-23-307592Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T19-21-55-760252Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 17:23:53 | [ScrubTest.Debug.Storage](https://www.nuget.org/packages/ScrubTest.Debug.Storage) | 1.1.0 | Orthosilicate | Read/Write managment for data |
-| 2026-11-06 17:25:41 | [Ternary.Data.Query](https://www.nuget.org/packages/Ternary.Data.Query) | 10.0.3 | Jacob Dahlke | A provider-neutral query model (filters in nested and/or groups, sorting, pagin… |
-| 2026-11-06 17:46:24 | [pgembed](https://www.nuget.org/packages/pgembed) | 0.1.0 | Babu Annamalai | Run PostgreSQL locally without installing it: named instances of any version in… |
-| 2026-11-06 17:55:30 | [ScrubTest.Debug.Settings](https://www.nuget.org/packages/ScrubTest.Debug.Settings) | 1.1.0 | Orthosilicate | Settings Managment Framework |
+| 2026-11-06 18:20:42 | [Malitor.Sdk](https://www.nuget.org/packages/Malitor.Sdk) | 1.0.0 | dotnarmafzar | Package Description |
+| 2026-11-06 18:22:00 | [PeachDrawing.CoreGraphics](https://www.nuget.org/packages/PeachDrawing.CoreGraphics) | 0.9.26 | PeachDrawing.CoreGraphics | A CoreGraphics Canvas for PeachDrawing.Core - draw shapes, gradients, clips, la… |
+| 2026-11-06 18:22:52 | [ScrubTest.Debug.WinUI](https://www.nuget.org/packages/ScrubTest.Debug.WinUI) | 1.1.0 | Orthosilicate | WinUI 3 Controls for Icons and Settings |
+| 2026-11-06 18:24:54 | [PeachBrackets.Apple](https://www.nuget.org/packages/PeachBrackets.Apple) | 0.9.26 | PeachBrackets.Apple | A macOS (AppKit) and iOS (UIKit) view that shows an HTML document laid out by P… |
+| 2026-11-06 18:53:03 | [SeoApiLens](https://www.nuget.org/packages/SeoApiLens) | 0.2.1 | Yong Seo | ASP.NET Core integration for SeoApiLens: MapSeoApiLens() mounts a self-containe… |
+| 2026-11-06 18:55:27 | [BleedingOnTheEdge.Razor.Sdk](https://www.nuget.org/packages/BleedingOnTheEdge.Razor.Sdk) | 1.0.0 | BleedingOnTheEdge, Sina Vali | Public SDK for developing Razor extensions. Contains only contracts, hooks, slo… |
+| 2026-11-06 18:55:33 | [AvaAdwaita.Controls](https://www.nuget.org/packages/AvaAdwaita.Controls) | 1.10.0.7 | drasticactions | Controls that libadwaita and GTK have and Avalonia does not, drawn by AvaAdwait… |
+| 2026-11-06 19:08:08 | [PulseTrade.Comm.ResourceNode.LegacyBridge](https://www.nuget.org/packages/PulseTrade.Comm.ResourceNode.LegacyBridge) | 0.1.1 | PulseTrade.Comm.ResourceNode.… | Package Description |
 
 ## Data source
 
