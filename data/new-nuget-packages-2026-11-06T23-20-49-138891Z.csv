@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-11-06T22:31:27.25Z,Disposed.Db,2026.11.6.223119,Disposed82,"A lightweight, embedded relational SQL database engine for .NET. Supports DDL, DML, transactions, indexes, partitioning, JSONB, and more — no external dependencies."
+2026-11-06T22:33:01.13Z,Infragistics.WinUI.Charts.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Charts - Trial version
+2026-11-06T22:33:02.1Z,Infragistics.WinUI.Core.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Core utilities to support Infragistics Components - Trial version
+2026-11-06T22:33:02.893Z,Infragistics.WinUI.Dashboards.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Dashboards - Trial version
+2026-11-06T22:33:04.07Z,Infragistics.WinUI.DataGrid.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI DataGrid - Trial version
+2026-11-06T22:33:06.077Z,Infragistics.WinUI.DataVisualization.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Utilities to support Infragistics Data Visualization Components - Trial version
+2026-11-06T22:33:06.967Z,Infragistics.WinUI.Gauges.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Gauge Components - Trial version
+2026-11-06T22:33:07.84Z,Infragistics.WinUI.Inputs.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Input Components - Trial version
+2026-11-06T22:33:08.75Z,Infragistics.WinUI.Layouts.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Layout Components - Trial version
+2026-11-06T22:33:09.547Z,Infragistics.WinUI.Maps.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Maps - Trial version
+2026-11-06T22:33:10.277Z,Infragistics.WinUI.SkiaSharp.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Optional SkiaSharp rendering backend for Infragistics WinUI Data Visualization - Trial version. Add this package and call SkiaSharpRenderer.Use() to switch the WinUI charts/gauges from the default Win2D renderer to SkiaSharp.
+2026-11-06T22:33:11.027Z,Infragistics.WinUI.Sparkline.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI Sparkline - Trial version
+2026-11-06T22:33:11.813Z,Infragistics.WinUI.TreeMap.Trial,26.1.1000-alpha25,"Infragistics, Inc.",Infragistics Ultimate UI for WinUI TreeMap - Trial version
+2026-11-06T22:45:58.8Z,Runax.Messaging.Contracts.JsonSchema,3.0.0,Runax Software,"JSON Schema contracts for Runax.Messaging: embedded contract schemas, validation on publish and consume, and routing of messages that carry no contract identity by the schemas their consumers declare."
+2026-11-06T22:48:20.927Z,vimdrill,0.1.0,Michał Szopa,"Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or terminal vim."
+2026-11-06T23:01:28.037Z,Microsoft.O365.Security.ETW,5.0.0,Microsoft,"Microsoft.O365.Security.ETW is a pure .NET ETW consumer for Windows, with compatibility-oriented APIs and an allocation-free EventRecordRef reading surface. It calls ETW and TDH directly without a C++/CLI or mixed-mode assembly dependency."
+2026-11-06T23:03:13.52Z,FenixAlliance.ABS.CLI,2.8.0,Alliance Business Systems,"The ABS command-line client: sign in, read your profile and workspaces, and call the governed ABS API."
+2026-11-06T23:11:29.91Z,PepperDash.Core.Abstractions,3.0.0,PepperDash Technology,Package Description
