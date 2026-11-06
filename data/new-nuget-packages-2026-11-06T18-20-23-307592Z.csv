@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-06T17:23:53.193Z,ScrubTest.Debug.Storage,1.1.0,Orthosilicate,Read/Write managment for data
+2026-11-06T17:25:41.23Z,Ternary.Data.Query,10.0.3,Jacob Dahlke,"A provider-neutral query model (filters in nested and/or groups, sorting, paging) and translators to SQL (PostgreSQL, SQL Server, MySQL, SQLite), MongoDB commands and LiteDB queries. No database drivers: callers run the translation."
+2026-11-06T17:46:24.84Z,pgembed,0.1.0,Babu Annamalai,"Run PostgreSQL locally without installing it: named instances of any version in the background, SQL with readable results and errors, version and extension discovery, and a shared download cache. Built on MysticMind.PostgresEmbed."
+2026-11-06T17:55:30.36Z,ScrubTest.Debug.Settings,1.1.0,Orthosilicate,Settings Managment Framework
