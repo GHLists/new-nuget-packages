@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-05T23:31:31.523Z,DotCruz.Shared.Observability,1.0.0,Matheus Felipe @matheusfsc28,"Biblioteca compartilhada de observabilidade do ecossistema DotCruz: OpenTelemetry padronizado (Traces, Metrics e Structured Logs OTLP), enriquecimento de contexto multi-workspace e HealthChecks."
+2026-11-05T23:36:04.25Z,Logfire.Fleet.Core.Native,0.2.0,Pydantic,"The shared OpAMP client core for Logfire.Fleet.Client, compiled for each platform"
+2026-11-05T23:36:05.597Z,Logfire.Fleet.Client,0.2.0,Pydantic,"An OpAMP client for .NET, on the shared OpAMP core (Rust, as a native library)"
+2026-11-05T23:36:07.147Z,Logfire.Fleet.Extensions.Hosting,0.2.0,Pydantic,"An OpenTelemetry .NET SDK set up in code (services.AddOpenTelemetry()) under an OpAMP server, in one call: .WithOpAmp()"
+2026-11-05T23:36:08.27Z,Logfire.Fleet.AutoInstrumentation,0.2.0,Pydantic,A plugin for OpenTelemetry .NET automatic instrumentation: the SDK under an OpAMP server
+2026-11-05T23:39:36.223Z,MediaToolkit.Vnc.Native.win-x64,0.9.15.2,Rukhlov,"libvncserver 0.9.15 shared native library for Windows x64: no TLS, Win32 threads, zlib/libjpeg-turbo/libpng bundled statically. Includes vnclog.dll (logging bridge for .NET). Used by MediaToolkit.Vnc. DLLs are copied into <output>/libVnc/ subfolder."
+2026-11-05T23:41:51.047Z,BeeneticToolkit.Text,0.13.0,Beenetic Studios,"Text checks for player-entered text in games: a bad-word filter for names, statuses, and chat that sees through case, accents, Cyrillic and Greek lookalikes, styled Unicode letters, leet, stretched letters, and separators, driven by a tiered word list you supply (anywhere, whole word, allow, reserv…"
+2026-11-05T23:42:49.493Z,Umbraco.Community.BackofficeTidy,18.0.0,Pascal Meyer,"Hide Umbraco backoffice extensions by alias, per environment and user group, from appsettings."
+2026-11-06T00:00:20.487Z,cints.CmdStarter,1.0.0,"Jonathan Boivin, Norbert Ormándi","Turns plain C# classes and methods into a System.CommandLine command tree, with Microsoft dependency injection, a REPL and command states."
+2026-11-06T00:01:41.063Z,cints.CmdStarter.Hosting,1.0.0,"Jonathan Boivin, Norbert Ormándi",Generic Host (Microsoft.Extensions.Hosting) integration for CmdStarter.
+2026-11-06T00:05:27.643Z,ZipConvertCustomerBarCode.Drawing,2.0.0,cssho,カスタマバーコードを System.Drawing の Bitmap として描画する(Windows のみ)
+2026-11-06T00:05:28.473Z,ZipConvertCustomerBarCode,2.0.0,cssho,郵便番号・住所から日本郵便のカスタマバーコードを生成する(描画ライブラリ非依存)
+2026-11-06T00:05:29.197Z,ZipConvertCustomerBarCode.SkiaSharp,2.0.0,cssho,カスタマバーコードを SkiaSharp で描画する(クロスプラットフォーム)
