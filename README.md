@@ -12,27 +12,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:19 UTC
+## Latest list — 2026-11-06 14:22 UTC
 
-New packages created between 2026-11-06 12:19 UTC and 2026-11-06 13:19 UTC.
+New packages created between 2026-11-06 13:19 UTC and 2026-11-06 14:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T13-19-40-357997Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T14-22-30-251786Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 12:21:33 | [StepHighlighter.ReqnrollPlugin](https://www.nuget.org/packages/StepHighlighter.ReqnrollPlugin) | 0.1.0 | Kamil Marek | Reqnroll runtime plugin that streams step results (JSON Lines) while tests run,… |
-| 2026-11-06 12:25:11 | [PureGate.Socket](https://www.nuget.org/packages/PureGate.Socket) | 1.0.1 | Ahmed Yasin Koculu | A dependency-free TCP messaging fabric for .NET: multiplexed request/response,… |
-| 2026-11-06 12:27:01 | [Dockview.Core](https://www.nuget.org/packages/Dockview.Core) | 1.0.0 | Dockview.Core | Package Description |
-| 2026-11-06 12:41:35 | [Umbraco.Community.NodeIcons](https://www.nuget.org/packages/Umbraco.Community.NodeIcons) | 18.0.0-rc1 | Søren Kottal | Choose individual document icons in the native Umbraco content tree and documen… |
-| 2026-11-06 12:50:58 | [HuntApi](https://www.nuget.org/packages/HuntApi) | 0.1.0 | HuntAPI | Official .NET SDK for the HuntAPI media download API. |
-| 2026-11-06 12:51:42 | [Piloterr](https://www.nuget.org/packages/Piloterr) | 0.1.0 | Piloterr | Official .NET SDK for the Piloterr web scraping API. |
-| 2026-11-06 12:51:45 | [Autom](https://www.nuget.org/packages/Autom) | 0.1.0 | Autom | Official .NET SDK for the Autom SERP API. |
-| 2026-11-06 12:51:51 | [CaptureKit](https://www.nuget.org/packages/CaptureKit) | 0.1.0 | CaptureKit | Official .NET SDK for the CaptureKit screenshot API. |
-| 2026-11-06 12:51:54 | [Veille](https://www.nuget.org/packages/Veille) | 0.1.0 | Veille | Official .NET SDK for the Veille fraud prevention API. |
-| 2026-11-06 12:51:57 | [ChartQuery](https://www.nuget.org/packages/ChartQuery) | 0.1.0 | ChartQuery | Official .NET SDK for the ChartQuery chart and QR code API. |
-| 2026-11-06 12:52:00 | [BrowserSolver](https://www.nuget.org/packages/BrowserSolver) | 0.1.0 | BrowserSolver | Official .NET SDK for the BrowserSolver web unlocker API. |
-| 2026-11-06 12:52:03 | [Asin](https://www.nuget.org/packages/Asin) | 0.1.0 | Asin | Official .NET SDK for the Asin Amazon price tracking API. |
-| 2026-11-06 13:08:28 | [Indigina.Tms.TikTokEdge.WebApi](https://www.nuget.org/packages/Indigina.Tms.TikTokEdge.WebApi) | 1.0.0 | Indigina | Package contains web api for Tms.TikTokEdge service. |
+| 2026-11-06 13:31:54 | [CodeAlta.Node](https://www.nuget.org/packages/CodeAlta.Node) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:31:57 | [CodeAlta.Node.linux-x64](https://www.nuget.org/packages/CodeAlta.Node.linux-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:00 | [CodeAlta.Node.linux-musl-x64](https://www.nuget.org/packages/CodeAlta.Node.linux-musl-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:03 | [CodeAlta.Node.osx-x64](https://www.nuget.org/packages/CodeAlta.Node.osx-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:06 | [CodeAlta.Node.linux-musl-arm64](https://www.nuget.org/packages/CodeAlta.Node.linux-musl-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:09 | [CodeAlta.Node.linux-arm64](https://www.nuget.org/packages/CodeAlta.Node.linux-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:12 | [CodeAlta.Node.osx-arm64](https://www.nuget.org/packages/CodeAlta.Node.osx-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:16 | [CodeAlta.Node.win-arm64](https://www.nuget.org/packages/CodeAlta.Node.win-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:22 | [CodeAlta.Node.win-x64](https://www.nuget.org/packages/CodeAlta.Node.win-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Node: the headless CodeAlta host for always-on machines, build machine… |
+| 2026-11-06 13:32:23 | [CodeAlta.Server](https://www.nuget.org/packages/CodeAlta.Server) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:24 | [CodeAlta.Server.linux-x64](https://www.nuget.org/packages/CodeAlta.Server.linux-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:25 | [CodeAlta.Server.linux-arm64](https://www.nuget.org/packages/CodeAlta.Server.linux-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:26 | [CodeAlta.Server.osx-arm64](https://www.nuget.org/packages/CodeAlta.Server.osx-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:27 | [CodeAlta.Server.osx-x64](https://www.nuget.org/packages/CodeAlta.Server.osx-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:28 | [CodeAlta.Server.win-x64](https://www.nuget.org/packages/CodeAlta.Server.win-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:29 | [CodeAlta.Server.linux-musl-arm64](https://www.nuget.org/packages/CodeAlta.Server.linux-musl-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:30 | [CodeAlta.Server.win-arm64](https://www.nuget.org/packages/CodeAlta.Server.win-arm64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:32:31 | [CodeAlta.Server.linux-musl-x64](https://www.nuget.org/packages/CodeAlta.Server.linux-musl-x64) | 4.0.0 | Alexandre Mutel | CodeAlta Server: the coordinator of a CodeAlta fleet. It knows the people, devi… |
+| 2026-11-06 13:36:29 | [ITBees.ElevenLabs](https://www.nuget.org/packages/ITBees.ElevenLabs) | 8.0.1 | ITBees | Connector to the ElevenLabs API: text to speech returning an audio file ready t… |
+| 2026-11-06 13:37:03 | [AbpMcp.Abstractions](https://www.nuget.org/packages/AbpMcp.Abstractions) | 0.5.0 | tekthar and abp-mcp contribut… | The [McpTool] and [McpIgnore] attributes of abp-mcp, with no dependencies. Refe… |
+| 2026-11-06 13:39:01 | [Anarchy.Toolkit.Infrastructure.Persistence.Mysql](https://www.nuget.org/packages/Anarchy.Toolkit.Infrastructure.Persistence.Mysql) | 1.0.0 | Leandro M. Medeiros | MySQL relational persistence adapter with connection pools, unit of work, resil… |
+| 2026-11-06 13:39:05 | [Anarchy.Toolkit.Testing.Mysql](https://www.nuget.org/packages/Anarchy.Toolkit.Testing.Mysql) | 1.0.1 | Leandro M. Medeiros | MySQL integration-test fixtures, settings mapping, enum handlers and table rese… |
+| 2026-11-06 13:42:35 | [NacreCraft.Pit](https://www.nuget.org/packages/NacreCraft.Pit) | 2.0.0 | NacreCraft Contributors | NacreCraft mod development helper tools |
+| 2026-11-06 13:42:48 | [NacreCraft.ModSDK.Template](https://www.nuget.org/packages/NacreCraft.ModSDK.Template) | 2.0.0 | NacreCraft Contributors | NacreCraft mod project template, create with dotnet new pit |
+| 2026-11-06 13:46:03 | [Bibui.Text](https://www.nuget.org/packages/Bibui.Text) | 1.1.0 | Navisurg ApS | Bibui.Text, bibui's text layer: fonts and faces on FreeType and HarfBuzz, measu… |
+| 2026-11-06 13:53:08 | [ReCoResult](https://www.nuget.org/packages/ReCoResult) | 1.0.0 | plazmatiz | Lightweight Result pattern library for .NET |
+| 2026-11-06 13:57:21 | [SpanFlow.Mapping.Core](https://www.nuget.org/packages/SpanFlow.Mapping.Core) | 1.0.0 | farazahmed614 | The mapping definition model and validator for SpanFlow Mapping: rules, conditi… |
+| 2026-11-06 13:57:22 | [SpanFlow.Mapping.Engine](https://www.nuget.org/packages/SpanFlow.Mapping.Engine) | 1.0.0 | farazahmed614 | Runs SpanFlow Mapping definitions over JSON: turns one shape of data into anoth… |
+| 2026-11-06 14:08:09 | [Laraue.Apps.Storage.Internal.Contracts](https://www.nuget.org/packages/Laraue.Apps.Storage.Internal.Contracts) | 0.0.1 | Belyansky Ilya | Package Description |
 
 ## Data source
 
