@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-06T11:22:56.807Z,Jyuno,1.0.0,jyunrcaea,C# 프로그램에 안전한 플러그인(스크립트) 기능을 쉽게 추가하기 위한 작고 가벼운 언어 Jyuno의 인터프리터입니다.
+2026-11-06T11:57:48.943Z,KeyInteractive.Licensing,1.0.0,KeyInteractive,"Client side of the Key Interactive offline licensing, for applications: verifies ECDSA-signed licenses offline and runs an optional light online check (activation receipts, computer limit, refund revocation). It can only verify: no code able to sign is included (issuing is in KeyInteractive.Licensi…"
+2026-11-06T11:57:51.243Z,KeyInteractive.Licensing.Issuing,1.0.0,KeyInteractive,"SERVER-SIDE ONLY. Issues Key Interactive offline licenses and signs activation receipts with a product's private key. Never reference it from an application: applications use KeyInteractive.Licensing, which can only verify."
+2026-11-06T12:05:15.123Z,SFA.DAS.AssessorService.Messages,0.1.305-prerelease-9,ESFA,Assessor Service integration messages
