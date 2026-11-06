@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 03:20 UTC
+## Latest list — 2026-11-06 04:19 UTC
 
-New packages created between 2026-11-06 02:21 UTC and 2026-11-06 03:20 UTC.
+New packages created between 2026-11-06 03:20 UTC and 2026-11-06 04:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T03-20-30-373184Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T04-19-46-73551Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 02:26:48 | [Makoto](https://www.nuget.org/packages/Makoto) | 0.1.0 | Veld Labs | Source-generated validation. Rules compile to static extension methods and vali… |
-| 2026-11-06 02:26:56 | [Esatto.Umbraco.Backoffice.Accessibility](https://www.nuget.org/packages/Esatto.Umbraco.Backoffice.Accessibility) | 1.0.0 | Carl Schéle | Accessibility for Umbraco: a Content-section dashboard that scans your publishe… |
-| 2026-11-06 02:27:39 | [Meziantou.Framework.Iconify](https://www.nuget.org/packages/Meziantou.Framework.Iconify) | 1.0.0 | meziantou | Strongly-typed access to Iconify icons (Material Design Icons, Lucide, Tabler,… |
+| 2026-11-06 03:58:50 | [Touchstone.Xunit2Adapter](https://www.nuget.org/packages/Touchstone.Xunit2Adapter) | 1.0.0 | jchristn | xUnit v2 adapter for Touchstone. Run shared test descriptors under xUnit 2.9 as… |
+| 2026-11-06 03:58:51 | [Touchstone.Xunit3Adapter](https://www.nuget.org/packages/Touchstone.Xunit3Adapter) | 1.0.0 | jchristn | xUnit v3 adapter for Touchstone. Run shared test descriptors under xUnit v3 as… |
+| 2026-11-06 04:03:37 | [Pacs.DangerWordMatching](https://www.nuget.org/packages/Pacs.DangerWordMatching) | 1.0.0 | LongHeng | 危险词多模式匹配（Aho-Corasick）与区间冲突消解。纯算法、零 UI 零 DB 依赖。 |
 
 ## Data source
 
