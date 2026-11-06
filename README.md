@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 04:19 UTC
+## Latest list — 2026-11-06 05:20 UTC
 
-New packages created between 2026-11-06 03:20 UTC and 2026-11-06 04:19 UTC.
+New packages created between 2026-11-06 04:19 UTC and 2026-11-06 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-06T04-19-46-73551Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-06T05-20-25-473133Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 03:58:50 | [Touchstone.Xunit2Adapter](https://www.nuget.org/packages/Touchstone.Xunit2Adapter) | 1.0.0 | jchristn | xUnit v2 adapter for Touchstone. Run shared test descriptors under xUnit 2.9 as… |
-| 2026-11-06 03:58:51 | [Touchstone.Xunit3Adapter](https://www.nuget.org/packages/Touchstone.Xunit3Adapter) | 1.0.0 | jchristn | xUnit v3 adapter for Touchstone. Run shared test descriptors under xUnit v3 as… |
-| 2026-11-06 04:03:37 | [Pacs.DangerWordMatching](https://www.nuget.org/packages/Pacs.DangerWordMatching) | 1.0.0 | LongHeng | 危险词多模式匹配（Aho-Corasick）与区间冲突消解。纯算法、零 UI 零 DB 依赖。 |
+| 2026-11-06 04:57:07 | [SqlLinq.Units](https://www.nuget.org/packages/SqlLinq.Units) | 2.0.0 | lennykean | Unit conversion in SqlLinq queries, using UnitsNet.Metadata. |
+| 2026-11-06 04:57:08 | [SqlLinq.TimeSeries](https://www.nuget.org/packages/SqlLinq.TimeSeries) | 2.0.0 | lennykean | Time series queries for SqlLinq. |
+| 2026-11-06 04:57:50 | [Mekhane](https://www.nuget.org/packages/Mekhane) | 1.0.0 | itzmerobby | A simple library for creating modular applications in C#. The future of softwar… |
+| 2026-11-06 04:57:55 | [Mekhane.AspNet](https://www.nuget.org/packages/Mekhane.AspNet) | 1.0.0 | itzmerobby | ASP.NET Core integration for building modular applications with Mekhane. |
+| 2026-11-06 04:57:59 | [Mekhane.DependencyInjection](https://www.nuget.org/packages/Mekhane.DependencyInjection) | 1.0.0 | itzmerobby | Dependency injection and Generic Host integration for Mekhane. |
 
 ## Data source
 

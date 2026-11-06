@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-06T04:57:07.613Z,SqlLinq.Units,2.0.0,lennykean,"Unit conversion in SqlLinq queries, using UnitsNet.Metadata."
+2026-11-06T04:57:08.013Z,SqlLinq.TimeSeries,2.0.0,lennykean,Time series queries for SqlLinq.
+2026-11-06T04:57:50.843Z,Mekhane,1.0.0,itzmerobby,"A simple library for creating modular applications in C#. The future of software is modular, and Mekhane is here to help you build it."
+2026-11-06T04:57:55.19Z,Mekhane.AspNet,1.0.0,itzmerobby,ASP.NET Core integration for building modular applications with Mekhane.
+2026-11-06T04:57:59.137Z,Mekhane.DependencyInjection,1.0.0,itzmerobby,Dependency injection and Generic Host integration for Mekhane.
