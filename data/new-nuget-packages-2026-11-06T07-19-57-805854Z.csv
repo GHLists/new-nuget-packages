@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-06T06:33:40.47Z,Stride.Dependencies.Assimp,6.0.5.2,Stride Contributors,Assimp shared library for the Stride 3D importer. Built from assimp/assimp v6.0.5 (392a658) with the patches in deps/assimp.
+2026-11-06T06:37:04.243Z,Vocab.Sdk.Maui,0.0.2501.11908,vo.cab,"Sign in with vo.cab from a .NET MAUI app: AddVocab() wires the authorization code flow with PKCE through the system browser (WebAuthenticator) back to your app's private-use redirect, keeps the tokens in SecureStorage, refreshes them before they expire (one refresh however many callers race) and si…"
+2026-11-06T06:38:08.983Z,MasterX.Logging.FileSystem,3.0.6,master-X (Marco Sena),Configurable file system logging provider for master-X applications.
+2026-11-06T06:40:03.68Z,BIMPlugins.Bars,2.0.1,Samir Shibliev,Revit Package BIMPlugins.Bars
+2026-11-06T07:01:48.983Z,StaticNorth.Uhp.Harnesses.ClaudeCode,1.2.0,uhp-dotnet contributors,Native AOT-compatible Claude Code provider for UHP hosts.
+2026-11-06T07:01:50.073Z,StaticNorth.Uhp.Harnesses.Codex,1.2.0,uhp-dotnet contributors,Native AOT-compatible Codex App Server provider for UHP hosts.
+2026-11-06T07:01:51.143Z,StaticNorth.Uhp.Harnesses.OpenCode,1.2.0,uhp-dotnet contributors,Native AOT-compatible OpenCode provider for UHP hosts.
