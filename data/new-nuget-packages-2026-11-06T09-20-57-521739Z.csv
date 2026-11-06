@@ -1,0 +1,30 @@
+created_at,package,version,authors,description
+2026-11-06T08:22:53.113Z,ValIO.Cli,0.1.3,ValIO Contributors,"OpenAPI 3.x to type-safe HTTP clients, models and validation schemas for TypeScript, C#, Java, Kotlin, Python, PHP, C++, Swift, Rust, Ruby, F#, Dart. CLI for the ValIO code generator."
+2026-11-06T08:22:53.9Z,ValIO.Core,0.1.3,ValIO Contributors,ValIO IR/AST and plugin contracts. Library used by custom generators.
+2026-11-06T08:22:54.863Z,ValIO.Generators.CSharp,0.1.3,ValIO Contributors,ValIO code generator plugin for C#.
+2026-11-06T08:22:56.463Z,ValIO.Generators.Cpp,0.1.3,ValIO Contributors,ValIO code generator plugin for C++.
+2026-11-06T08:22:57.367Z,ValIO.Generators.Dart,0.1.3,ValIO Contributors,ValIO code generator plugin for Dart.
+2026-11-06T08:22:58.133Z,ValIO.Generators.FSharp,0.1.3,ValIO Contributors,ValIO code generator plugin for F#.
+2026-11-06T08:22:58.973Z,ValIO.Generators.Java,0.1.3,ValIO Contributors,ValIO code generator plugin for Java.
+2026-11-06T08:22:59.783Z,ValIO.Generators.Kotlin,0.1.3,ValIO Contributors,ValIO code generator plugin for Kotlin.
+2026-11-06T08:23:01.147Z,ValIO.Generators.Php,0.1.3,ValIO Contributors,ValIO code generator plugin for PHP.
+2026-11-06T08:23:01.96Z,ValIO.Generators.Python,0.1.3,ValIO Contributors,ValIO code generator plugin for Python.
+2026-11-06T08:23:02.757Z,ValIO.Generators.Ruby,0.1.3,ValIO Contributors,ValIO code generator plugin for Ruby.
+2026-11-06T08:23:03.54Z,ValIO.Generators.Rust,0.1.3,ValIO Contributors,ValIO code generator plugin for Rust.
+2026-11-06T08:23:04.303Z,ValIO.Generators.Swift,0.1.3,ValIO Contributors,ValIO code generator plugin for Swift.
+2026-11-06T08:23:05.21Z,ValIO.Generators.TypeScript,0.1.3,ValIO Contributors,ValIO code generator plugin for TypeScript.
+2026-11-06T08:23:05.95Z,ValIO.Output,0.1.3,ValIO Contributors,ValIO output sinks (Disk/Zip/Stream/InMemory).
+2026-11-06T08:23:06.747Z,ValIO.Plugins.Bootstrap,0.1.3,ValIO Contributors,ValIO DI helper: AddAllGeneratorPlugins() registers all 12 language plugins.
+2026-11-06T08:25:36.15Z,Mycelium.ICD.FunctionalDataService,0.2.0,Sam Gerené,"OpenAPI 3.1 interface control document (JSON) for the Mycelium Fabric Functional Data Service REST API, for use with OpenAPI-based client/server code generation."
+2026-11-06T08:47:17.113Z,ValIO.Configuration,0.1.3,ValIO Contributors,ValIO project configuration loading and validation for JSON and YAML files.
+2026-11-06T08:47:24.047Z,ValIO.Localization,0.1.3,ValIO Contributors,"ValIO localized resources and reporting services for English, Russian, German, and Chinese."
+2026-11-06T08:47:25.2Z,ValIO.Parsers,0.1.3,ValIO Contributors,"ValIO OpenAPI document parsers for JSON and YAML files, streams, and HTTP sources."
+2026-11-06T08:47:46.68Z,Hlibz.McpDocs.AspNetCore,0.1.0,Hlib Zinchenko,"Read-only, ReDoc-style documentation page for MCP servers hosted in ASP.NET Core."
+2026-11-06T08:54:00.95Z,MarkdownRenderX.Avalonia.Emoji,12.1.3.5,RYCBStudio,"GitHub / GitMoji shortcode support for MarkdownRenderX.Avalonia. Turns :beer:, :tada:, :+1: and ~1900 other shortcodes into native Unicode emoji - selectable text, no images, no WebView."
+2026-11-06T08:56:03.5Z,BccCode.Linq.Server,2.0.0.205-pr92,BccCode.Linq.Server,"Server side of BccCode.Linq: parses Directus-style filters, sorting and paging from API requests into LINQ expressions on IQueryable."
+2026-11-06T09:02:00.47Z,RecursiveAI.OneLlm.EntityFrameworkCore,1.0.0,"Recursive AI, LLC",LLM inference and agent runtime for .NET: an instance store and a record sink for OneLLM over your own Entity Framework Core DbContext. Unaffiliated with the PyPI onellm package and the OneLLM research model.
+2026-11-06T09:02:00.997Z,RecursiveAI.OneLlm.JavaScript,1.0.0,"Recursive AI, LLC","JavaScript tools for OneLLM, the LLM inference and agent runtime for .NET: JavaScript tool files, hooks and decider logic, and run_javascript, in a sandbox built on OneEcma. Unaffiliated with the PyPI onellm package and the OneLLM research model."
+2026-11-06T09:02:01.62Z,RecursiveAI.OneLlm.Extensions.AI,1.0.0,"Recursive AI, LLC","LLM inference and agent runtime for .NET: the Microsoft.Extensions.AI bridge for OneLLM. OneLLM models as IChatClient, IEmbeddingGenerator, ISpeechToTextClient, ITextToSpeechClient and IImageGenerator, any IChatClient or IEmbeddingGenerator as a OneLLM provider, and AIFunction and ITool in both dir…"
+2026-11-06T09:02:03.06Z,RecursiveAI.OneLlm,1.0.0,"Recursive AI, LLC","LLM inference and agent runtime for .NET: Anthropic, OpenAI and Gemini clients, a provider-neutral message model, a layered model catalog with decimal line-item pricing, and a happy-path API. Unaffiliated with the PyPI onellm package and the OneLLM research model."
+2026-11-06T09:02:03.623Z,RecursiveAI.OneLlm.OneLite,1.0.0,"Recursive AI, LLC",LLM inference and agent runtime for .NET: an instance store and a record sink for OneLLM on a OneLite database file. Unaffiliated with the PyPI onellm package and the OneLLM research model.
+2026-11-06T09:02:04.157Z,RecursiveAI.OneLlm.Web,1.0.0,"Recursive AI, LLC","Web tools for OneLLM, the LLM inference and agent runtime for .NET: fetch_webpage_markdown turns a page into markdown for a model, using OneHtml. Unaffiliated with the PyPI onellm package and the OneLLM research model."
