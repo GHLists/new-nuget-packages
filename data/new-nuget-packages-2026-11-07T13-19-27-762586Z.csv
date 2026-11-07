@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-11-07T12:51:00.037Z,DotNetFaultInjectionAgent.Tool,0.1.0,synthaicode,DotNet Fault Injection Agent planning CLI and bundled Windows/Linux x64 execution tools.
+2026-11-07T12:51:57.163Z,BlazorBlueprint.PdfViewer,1.0.0,Mathew Taylor,"A PDF viewer for Blazor, built on PDF.js: paging, zoom, fit-to-width and download, from a URL or from bytes. An add-on to BlazorBlueprint.Components, in its own package because PDF.js is over 2 MB of script and WebAssembly."
