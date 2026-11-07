@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-07T17:25:49.277Z,RaainTech.Guard,1.0.1,RAAIN Tech Pvt. Ltd.,"Official .NET SDK for RAAIN Guard, the embedded decision-intelligence platform for business software."
+2026-11-07T17:51:39.303Z,Infrastructure.Wpf,1.0.0,Sukhov A.A.,"A WPF-specific NuGet package providing window management services, dialog and notification helpers, and region (tab-based area) management for MVVM applications. Uses a factory-based configuration pattern — map ViewModel types to views and let the services handle creation, ownership, and lifecycle.…"
+2026-11-07T17:58:53.647Z,Zhomfr.Storage.Abstractions,0.7.1,zhuolyan (Oleg Zhuravskiy),Package Description
+2026-11-07T17:58:56.13Z,Zhomfr.Storage.Local,0.7.1,zhuolyan (Oleg Zhuravskiy),Package Description
+2026-11-07T18:12:44.05Z,JoinRpg.Common.WebInfrastructure.Interfaces,2026.9.651,Leonid Tsarev and Co,"Background job contracts for JoinRpg web infrastructure: IJob, IJobRepository, job runner and registration helpers."

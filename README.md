@@ -12,23 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 17:19 UTC
+## Latest list — 2026-11-07 18:20 UTC
 
-New packages created between 2026-11-07 16:18 UTC and 2026-11-07 17:19 UTC.
+New packages created between 2026-11-07 17:19 UTC and 2026-11-07 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T17-19-44-611039Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T18-20-45-763199Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 16:21:30 | [DbTest.Core](https://www.nuget.org/packages/DbTest.Core) | 0.1.0 | dbaitest | Engine-agnostic core for database integration test harnesses: container lifecyc… |
-| 2026-11-07 16:21:31 | [DbTest.PostgreSql](https://www.nuget.org/packages/DbTest.PostgreSql) | 0.1.0 | dbaitest | PostgreSQL engine for DbTest: container lifecycle, dollar-quote-safe schema app… |
-| 2026-11-07 16:21:32 | [DbTest.Cli](https://www.nuget.org/packages/DbTest.Cli) | 0.1.0 | dbaitest | Command line front end for DbTest: start a container, apply a schema, report on… |
-| 2026-11-07 16:21:33 | [DbTest.MsSql](https://www.nuget.org/packages/DbTest.MsSql) | 0.1.0 | dbaitest | SQL Server engine for DbTest: container lifecycle, GO-batch schema application… |
-| 2026-11-07 16:21:33 | [DbTest.MySql](https://www.nuget.org/packages/DbTest.MySql) | 0.1.0 | dbaitest | MySQL engine for DbTest: container lifecycle, DELIMITER-aware schema applicatio… |
-| 2026-11-07 16:45:35 | [QRCoder-Png](https://www.nuget.org/packages/QRCoder-Png) | 0.11.0 | Raffael Herrmann, Joerg Plene… | QRCoder is a simple library, written in C#.NET, which enables you to create QR… |
-| 2026-11-07 16:51:56 | [vimdrill.any](https://www.nuget.org/packages/vimdrill.any) | 0.4.0 | Michał Szopa | Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or termina… |
-| 2026-11-07 16:51:58 | [vimdrill.linux-musl-x64](https://www.nuget.org/packages/vimdrill.linux-musl-x64) | 0.4.0 | Michał Szopa | Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or termina… |
-| 2026-11-07 16:51:59 | [vimdrill.linux-x64](https://www.nuget.org/packages/vimdrill.linux-x64) | 0.4.0 | Michał Szopa | Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or termina… |
+| 2026-11-07 17:25:49 | [RaainTech.Guard](https://www.nuget.org/packages/RaainTech.Guard) | 1.0.1 | RAAIN Tech Pvt. Ltd. | Official .NET SDK for RAAIN Guard, the embedded decision-intelligence platform… |
+| 2026-11-07 17:51:39 | [Infrastructure.Wpf](https://www.nuget.org/packages/Infrastructure.Wpf) | 1.0.0 | Sukhov A.A. | A WPF-specific NuGet package providing window management services, dialog and n… |
+| 2026-11-07 17:58:53 | [Zhomfr.Storage.Abstractions](https://www.nuget.org/packages/Zhomfr.Storage.Abstractions) | 0.7.1 | zhuolyan (Oleg Zhuravskiy) | Package Description |
+| 2026-11-07 17:58:56 | [Zhomfr.Storage.Local](https://www.nuget.org/packages/Zhomfr.Storage.Local) | 0.7.1 | zhuolyan (Oleg Zhuravskiy) | Package Description |
+| 2026-11-07 18:12:44 | [JoinRpg.Common.WebInfrastructure.Interfaces](https://www.nuget.org/packages/JoinRpg.Common.WebInfrastructure.Interfaces) | 2026.9.651 | Leonid Tsarev and Co | Background job contracts for JoinRpg web infrastructure: IJob, IJobRepository,… |
 
 ## Data source
 
