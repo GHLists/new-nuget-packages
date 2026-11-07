@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 01:20 UTC
+## Latest list — 2026-11-07 02:21 UTC
 
-New packages created between 2026-11-07 00:19 UTC and 2026-11-07 01:20 UTC.
+New packages created between 2026-11-07 01:20 UTC and 2026-11-07 02:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T01-20-12-44826Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T02-21-57-372691Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 00:46:01 | [ScuroGuardiano.Slugify](https://www.nuget.org/packages/ScuroGuardiano.Slugify) | 1.0.0 | ScuroGuardiano | Package for converting arbitrary text to url friendly slug |
-| 2026-11-07 00:48:18 | [Clarity.Audio](https://www.nuget.org/packages/Clarity.Audio) | 0.83.0 | Peter van de Pas | Clarity.Audio for C#: plays the songs (mp3, flac, wav, ogg) of applications gen… |
-| 2026-11-07 00:54:36 | [Axiom.LDB.Migration](https://www.nuget.org/packages/Axiom.LDB.Migration) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Schema migrations for LDB tables: add, drop, rename a… |
-| 2026-11-07 01:06:45 | [WumxLabs.NoxAeApi](https://www.nuget.org/packages/WumxLabs.NoxAeApi) | 0.7.1 | Wumx Labs,NoxAeApi Contributo… | Official C# / .NET SDK for NoxAeApi Minecraft REST API suite and Velocity Netwo… |
+| 2026-11-07 01:29:03 | [Thrivea.Sdk](https://www.nuget.org/packages/Thrivea.Sdk) | 0.1.0 | Thrivea d.o.o. | Official .NET client for the Thrivea public REST API (/v1): job openings, candi… |
+| 2026-11-07 01:37:12 | [StdUnit.DingTalk](https://www.nuget.org/packages/StdUnit.DingTalk) | 0.2.0 | StdUnit.DingTalk | Package Description |
+| 2026-11-07 01:37:14 | [StdUnit.DingTalk.OneAuth](https://www.nuget.org/packages/StdUnit.DingTalk.OneAuth) | 0.2.0 | StdUnit.DingTalk.OneAuth | Package Description |
+| 2026-11-07 01:39:05 | [redb.Route.DataFormats.XmlJson](https://www.nuget.org/packages/redb.Route.DataFormats.XmlJson) | 4.7.0 | redbase | XML to JSON and back without a class for redb.Route: the Json.NET notation (@at… |
+| 2026-11-07 01:39:27 | [EasyReasy.Auth.Microsoft](https://www.nuget.org/packages/EasyReasy.Auth.Microsoft) | 1.0.0 | Adam Tovatt | Sign in with Microsoft work and school accounts for EasyReasy.Auth, through the… |
+| 2026-11-07 01:48:34 | [Stomme.Cartographer](https://www.nuget.org/packages/Stomme.Cartographer) | 10.82.0 | Nova Globen AB | Surveys a software repository of any shape and writes what a tracker and a wiki… |
+| 2026-11-07 01:48:37 | [Stomme.Conductor](https://www.nuget.org/packages/Stomme.Conductor) | 10.82.0 | Nova Globen AB | A general engine that runs a playbook with context: units of work, a resumable… |
+| 2026-11-07 01:51:47 | [BinaryBufferLib](https://www.nuget.org/packages/BinaryBufferLib) | 0.1.0 | Quantam | A collection of lightweight objects for reading and writing binary data with au… |
 
 ## Data source
 

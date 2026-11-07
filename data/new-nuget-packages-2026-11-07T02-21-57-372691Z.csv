@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-07T01:29:03.693Z,Thrivea.Sdk,0.1.0,Thrivea d.o.o.,"Official .NET client for the Thrivea public REST API (/v1): job openings, candidate applications, employees, org units, cost centers and webhooks. Stripe-style services, TypeID identifiers, typed errors, cursor paging and retries."
+2026-11-07T01:37:12.04Z,StdUnit.DingTalk,0.2.0,StdUnit.DingTalk,Package Description
+2026-11-07T01:37:14.75Z,StdUnit.DingTalk.OneAuth,0.2.0,StdUnit.DingTalk.OneAuth,Package Description
+2026-11-07T01:39:05.907Z,redb.Route.DataFormats.XmlJson,4.7.0,redbase,"XML to JSON and back without a class for redb.Route: the Json.NET notation (@attribute, #text), arrays known from an XSD or an explicit list of element paths, namespaces kept or dropped."
+2026-11-07T01:39:27.87Z,EasyReasy.Auth.Microsoft,1.0.0,Adam Tovatt,"Sign in with Microsoft work and school accounts for EasyReasy.Auth, through the server-side authorization code flow with PKCE, with per-request tenant, freshness and Conditional Access authentication context checks"
+2026-11-07T01:48:34.183Z,Stomme.Cartographer,10.82.0,Nova Globen AB,"Surveys a software repository of any shape and writes what a tracker and a wiki should hold: work items, documents, decisions and the graph that links them, with a log of every decision made and why. The survey playbook is embedded."
+2026-11-07T01:48:37.01Z,Stomme.Conductor,10.82.0,Nova Globen AB,"A general engine that runs a playbook with context: units of work, a resumable run state, readers and a judge, a reply cache, spending ceilings, questions for a person, and a decision log with evidence."
+2026-11-07T01:51:47.253Z,BinaryBufferLib,0.1.0,Quantam,A collection of lightweight objects for reading and writing binary data with automatic endian conversion with stream semantics.
