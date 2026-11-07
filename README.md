@@ -12,37 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 10:19 UTC
+## Latest list — 2026-11-07 11:21 UTC
 
-New packages created between 2026-11-07 09:20 UTC and 2026-11-07 10:19 UTC.
+New packages created between 2026-11-07 10:19 UTC and 2026-11-07 11:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T10-19-48-966101Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T11-21-52-979508Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 09:29:30 | [ZL.IotDriver](https://www.nuget.org/packages/ZL.IotDriver) | 2.2.18 | UseThink | 【读法B】ZL.IotHub 自研驱动的独立程序集（58 个协议描述符）。只依赖 ZL.IotEngine 的契约面，不依赖任何编排实现。 |
-| 2026-11-07 09:29:55 | [ZL.IotEngine](https://www.nuget.org/packages/ZL.IotEngine) | 2.2.18 | UseThink | 工业 PLC 数据采集运行时内核（.NET：netstandard2.0 / net48 / net8.0 / net10.0）——编排、地址合并、批量采集、… |
-| 2026-11-07 09:30:14 | [ZL.IotHub.Ipc](https://www.nuget.org/packages/ZL.IotHub.Ipc) | 2.2.18 | UseThink | 工业 IPC 传输抽象（命名管道行协议）：提供行客户端/服务端/发布订阅接口与 NamedPipe 实现，供跨进程采集与工具链复用。零第三方依赖（仅 Syst… |
-| 2026-11-07 09:31:06 | [ZL.IotOss](https://www.nuget.org/packages/ZL.IotOss) | 2.2.18 | UseThink | ZL.IotEngine 的开源驱动适配包：S7.Net Plus（西门子）/ NModbus 3.x（Modbus TCP/RTU/ASCII）/ LibP… |
-| 2026-11-07 09:31:21 | [Doppelganger.Isolation](https://www.nuget.org/packages/Doppelganger.Isolation) | 0.13.0 | Niklas Wendel | Doppelganger.Isolation - mock non-virtual members and sealed classes with Doppe… |
-| 2026-11-07 09:33:33 | [SQMD.Reports](https://www.nuget.org/packages/SQMD.Reports) | 0.3.4 | SQUAREMILED S.A. | SQMD Reports report engine: YAML definitions to HTML, PDF (Chromium), Word, Exc… |
-| 2026-11-07 09:33:33 | [SQMD.Reports.Server](https://www.nuget.org/packages/SQMD.Reports.Server) | 0.3.4 | SQUAREMILED S.A. | SQMD Reports for ASP.NET Core: IReportRenderer, REST API, embedded web viewer a… |
-| 2026-11-07 09:41:19 | [Ryn.Plugins.Sidecar](https://www.nuget.org/packages/Ryn.Plugins.Sidecar) | 0.39.0 | Moh | Identity-safe managed sidecar lifecycle services with crash-owned native proces… |
-| 2026-11-07 09:47:17 | [Fp.SharePoint](https://www.nuget.org/packages/Fp.SharePoint) | 0.2.0 | Financial Partners | Upload, download, delete and list files in a SharePoint document library via Mi… |
-| 2026-11-07 09:47:23 | [Maplibre.NativeFfi.Runtime.OpenGL.MinGW](https://www.nuget.org/packages/Maplibre.NativeFfi.Runtime.OpenGL.MinGW) | 0.202611.0 | MapLibre | OpenGL.MinGW native runtime assets for MapLibre Native .NET. |
-| 2026-11-07 09:47:29 | [Maplibre.NativeFfi.Runtime.Vulkan.MinGW](https://www.nuget.org/packages/Maplibre.NativeFfi.Runtime.Vulkan.MinGW) | 0.202611.0 | MapLibre | Vulkan.MinGW native runtime assets for MapLibre Native .NET. |
-| 2026-11-07 09:47:44 | [tomware.Cyclo](https://www.nuget.org/packages/tomware.Cyclo) | 0.1.0 | Thomas Duft | A command-line tool for calculating the cyclomatic complexity of code. |
-| 2026-11-07 09:49:20 | [Glacier.Cluster](https://www.nuget.org/packages/Glacier.Cluster) | 1.1.0 | Ian Cowley | Pure C# .NET 10 distributed computing fabric, dynamic DAG scheduler, zero-alloc… |
-| 2026-11-07 09:52:35 | [Glacier.Cli](https://www.nuget.org/packages/Glacier.Cli) | 1.1.0 | Ian Cowley | Unified pure C# .NET 10 LLM command-line application (glacier). High-performanc… |
-| 2026-11-07 09:54:52 | [NotRemoting](https://www.nuget.org/packages/NotRemoting) | 0.0.6 | osexpert, Hagen Siegel | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:54:54 | [NotRemoting.Compression.Lz4](https://www.nuget.org/packages/NotRemoting.Compression.Lz4) | 0.0.6 | osexpert | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:54:56 | [NotRemoting.Serialization.BinaryFormatter](https://www.nuget.org/packages/NotRemoting.Serialization.BinaryFormatter) | 0.0.6 | osexpert, Hagen Siegel | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:54:58 | [NotRemoting.Serialization.Json](https://www.nuget.org/packages/NotRemoting.Serialization.Json) | 0.0.6 | osexpert | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:55:00 | [NotRemoting.Serialization.MemoryPack](https://www.nuget.org/packages/NotRemoting.Serialization.MemoryPack) | 0.0.6 | osexpert | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:55:02 | [NotRemoting.Serialization.MessagePack](https://www.nuget.org/packages/NotRemoting.Serialization.MessagePack) | 0.0.6 | osexpert | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:55:04 | [NotRemoting.Serialization.Protobuf](https://www.nuget.org/packages/NotRemoting.Serialization.Protobuf) | 0.0.6 | osexpert | Grpc (Not)Remoting library for migration from .NET Remoting |
-| 2026-11-07 09:55:44 | [Coworkee.Client.Blazor.ClientEntities.Sqlite](https://www.nuget.org/packages/Coworkee.Client.Blazor.ClientEntities.Sqlite) | 0.0.1.65 | fgilde | Client entities in SQLite inside the browser: the server sends the copy as a SQ… |
-| 2026-11-07 10:02:50 | [Dav](https://www.nuget.org/packages/Dav) | 3.0.1 | Aizaz Zaheen | Checks a .NET assembly without running it: risky API calls, known vulnerabiliti… |
+| 2026-11-07 10:21:02 | [O24Engine.Analyzer](https://www.nuget.org/packages/O24Engine.Analyzer) | 2.0.16 | Linh Nguyen | Roslyn source generators and analyzers for O24Engine. |
+| 2026-11-07 10:21:07 | [O24Engine.Analyzer.Grpc](https://www.nuget.org/packages/O24Engine.Analyzer.Grpc) | 2.0.14 | Linh Nguyen | Roslyn source generators and analyzers for O24Engine gRPC. |
+| 2026-11-07 10:30:08 | [uTPro.Feature.TextToSpeech](https://www.nuget.org/packages/uTPro.Feature.TextToSpeech) | 18.0.0 | T4VN | "Listen to this article" for Umbraco 17 and 18. Drop one ViewComponent line int… |
+| 2026-11-07 10:30:44 | [uTPro.Feature.TextToSpeech.Kokoro](https://www.nuget.org/packages/uTPro.Feature.TextToSpeech.Kokoro) | 18.0.0 | T4VN | Kokoro offline voice engine for uTPro.Feature.TextToSpeech. Adds natural-soundi… |
+| 2026-11-07 10:31:17 | [uTPro.Feature.TextToSpeech.Piper](https://www.nuget.org/packages/uTPro.Feature.TextToSpeech.Piper) | 18.0.0 | T4VN | Piper offline voice engine for uTPro.Feature.TextToSpeech. Adds fast, fully loc… |
+| 2026-11-07 10:34:50 | [Likyly](https://www.nuget.org/packages/Likyly) | 1.0.0 | LIKYLY | Product recommendations for your site ("You may also like", "Recommended for yo… |
+| 2026-11-07 10:36:11 | [uTPro.Feature.AdProtect](https://www.nuget.org/packages/uTPro.Feature.AdProtect) | 18.0.0 | T4VN | Invalid-click protection and ad-serving control for Umbraco sites monetized wit… |
+| 2026-11-07 10:36:29 | [Hostily.Captcha](https://www.nuget.org/packages/Hostily.Captcha) | 0.2.0 | connect - Media & Teledienst | Server-side client for hostily Captcha (captcha.hostily.de): verify the token o… |
+| 2026-11-07 10:36:30 | [Hostily.Captcha.AspNetCore](https://www.nuget.org/packages/Hostily.Captcha.AspNetCore) | 0.2.0 | connect - Media & Teledienst | ASP.NET Core integration for hostily Captcha: [HostilyCaptcha] filter and the h… |
+| 2026-11-07 10:57:19 | [BunnyLoader.ModSdk](https://www.nuget.org/packages/BunnyLoader.ModSdk) | 0.3.1 | BL Editor contributors | Self-contained compile-time BunnyLoader API and deterministic format 3 source p… |
+| 2026-11-07 10:57:43 | [Fp.Mail](https://www.nuget.org/packages/Fp.Mail) | 0.1.0 | Financial Partners | Send e-mail (HTML or text, with attachments up to 150 MB) through Microsoft Gra… |
+| 2026-11-07 11:14:35 | [HAKICODE.Workbench.Plugin.BrowserAgent](https://www.nuget.org/packages/HAKICODE.Workbench.Plugin.BrowserAgent) | 1.0.5 | HAKICODE | Cho trợ lý tự mở trang web, bấm và điền trong trình duyệt riêng, người dùng xem… |
 
 ## Data source
 
