@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-07T04:26:35.727Z,TGateway.RoslynCompletion,2.3.28,TGateway.RoslynCompletion,Package Description
+2026-11-07T04:26:38.563Z,TGateway.Tunnel,2.3.28,TGateway.Tunnel,Package Description
+2026-11-07T04:27:00.247Z,ModelContextProtocol.Extensions.Skills,2.4.0,ModelContextProtocol,MCP Skills extension (SEP-2640) for the .NET Model Context Protocol (MCP) SDK
+2026-11-07T04:34:13.53Z,PayKit.Contracts,1.0.0,PayKit,Shared request/response contracts for the PayKit payments API (used by PayKit.Client).
+2026-11-07T04:34:14.217Z,PayKit.Client,1.0.0,PayKit,"Client for the PayKit payments API: check entitlements, verify Google Play purchases, restore purchases, spend virtual currency (on-device), plus a server client and webhook signature verification for app backends."
+2026-11-07T04:34:14.947Z,PayKit.Client.Maui,1.0.0,PayKit,"Google Play Billing for .NET MAUI apps backed by the PayKit payments API: load paywall offerings with localized Play prices, purchase in one call (Play sheet → server verification → acknowledgement), restore purchases, check entitlements."
+2026-11-07T04:59:08.533Z,StdUnit.AceOne.Core,0.1.0,StdUnit.AceOne.Core,Package Description
+2026-11-07T04:59:15.03Z,StdUnit.AceOne.DAL,0.1.0,StdUnit.AceOne.DAL,Package Description
+2026-11-07T04:59:22.96Z,StdUnit.AceOne.WebApi,0.1.0,StdUnit.AceOne.WebApi,Package Description
+2026-11-07T04:59:30.24Z,StdUnit.AceOne.DAL.MySql,0.1.0,StdUnit.AceOne.DAL.MySql,Package Description
+2026-11-07T04:59:37.72Z,StdUnit.AceOne.DAL.PostgreSql,0.1.0,StdUnit.AceOne.DAL.PostgreSql,Package Description
+2026-11-07T04:59:44.873Z,StdUnit.AceOne.DAL.Sqlite,0.1.0,StdUnit.AceOne.DAL.Sqlite,Package Description
+2026-11-07T04:59:50.52Z,StdUnit.AceOne.Mail.Resend,0.1.0,StdUnit.AceOne.Mail.Resend,Package Description
+2026-11-07T05:14:53.963Z,Sevencat.GlyphRaster,0.1.5,sevencat,Package Description

@@ -12,23 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 04:19 UTC
+## Latest list — 2026-11-07 05:19 UTC
 
-New packages created between 2026-11-07 03:20 UTC and 2026-11-07 04:19 UTC.
+New packages created between 2026-11-07 04:19 UTC and 2026-11-07 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T04-19-57-520743Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T05-19-19-227219Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 03:25:05 | [Dflat.Edi.Identity](https://www.nuget.org/packages/Dflat.Edi.Identity) | 1.7.2.89 | Dflat | Plugins EDI du module Identity : purge planifiée des jetons d'appareil (DeviceT… |
-| 2026-11-07 03:31:51 | [PluginUI.Host.Vst2](https://www.nuget.org/packages/PluginUI.Host.Vst2) | 0.3.0 | asm8086 | VST 2.4 plug-in hosting for PluginUI.Host: scanning (shell plug-ins included),… |
-| 2026-11-07 03:31:52 | [PluginUI.Host.Windows](https://www.nuget.org/packages/PluginUI.Host.Windows) | 0.3.0 | asm8086 | Windows audio and MIDI devices for PluginUI.Host: ASIO, WASAPI output and input… |
-| 2026-11-07 03:31:52 | [PluginUI.Host](https://www.nuget.org/packages/PluginUI.Host) | 0.3.0 | asm8086 | Audio plug-in host for .NET: loads VST3 plug-ins (files, or an NPlug factory in… |
-| 2026-11-07 03:31:53 | [PluginUI.Desktop](https://www.nuget.org/packages/PluginUI.Desktop) | 0.3.0 | asm8086 | Desktop applications with PluginUI: application object, JSON settings, recent f… |
-| 2026-11-07 03:38:47 | [Haytham.Runtime](https://www.nuget.org/packages/Haytham.Runtime) | 0.1.0 | CairnPack | Embeddable runtime for Haytham modules: module lifecycle, events, managed tasks… |
-| 2026-11-07 03:40:27 | [ActualLab.Rpc.TypeScript](https://www.nuget.org/packages/ActualLab.Rpc.TypeScript) | 15.1.11 | Actual Chat, Inc. | ActualLab.Rpc.TypeScript - generates TypeScript contracts (interfaces, DTOs, se… |
-| 2026-11-07 03:40:28 | [ActualLab.Rpc.TypeScript.Generator](https://www.nuget.org/packages/ActualLab.Rpc.TypeScript.Generator) | 15.1.11 | Actual Chat, Inc. | ActualLab.Rpc.TypeScript.Generator - an MSBuild target generating TypeScript co… |
-| 2026-11-07 03:44:13 | [AuditLoggingPipeline.Core](https://www.nuget.org/packages/AuditLoggingPipeline.Core) | 0.2.0 | Troy Crowe | Shared delivery engine for the AuditLoggingPipeline plugins: bounded channel, r… |
+| 2026-11-07 04:26:35 | [TGateway.RoslynCompletion](https://www.nuget.org/packages/TGateway.RoslynCompletion) | 2.3.28 | TGateway.RoslynCompletion | Package Description |
+| 2026-11-07 04:26:38 | [TGateway.Tunnel](https://www.nuget.org/packages/TGateway.Tunnel) | 2.3.28 | TGateway.Tunnel | Package Description |
+| 2026-11-07 04:27:00 | [ModelContextProtocol.Extensions.Skills](https://www.nuget.org/packages/ModelContextProtocol.Extensions.Skills) | 2.4.0 | ModelContextProtocol | MCP Skills extension (SEP-2640) for the .NET Model Context Protocol (MCP) SDK |
+| 2026-11-07 04:34:13 | [PayKit.Contracts](https://www.nuget.org/packages/PayKit.Contracts) | 1.0.0 | PayKit | Shared request/response contracts for the PayKit payments API (used by PayKit.C… |
+| 2026-11-07 04:34:14 | [PayKit.Client](https://www.nuget.org/packages/PayKit.Client) | 1.0.0 | PayKit | Client for the PayKit payments API: check entitlements, verify Google Play purc… |
+| 2026-11-07 04:34:14 | [PayKit.Client.Maui](https://www.nuget.org/packages/PayKit.Client.Maui) | 1.0.0 | PayKit | Google Play Billing for .NET MAUI apps backed by the PayKit payments API: load… |
+| 2026-11-07 04:59:08 | [StdUnit.AceOne.Core](https://www.nuget.org/packages/StdUnit.AceOne.Core) | 0.1.0 | StdUnit.AceOne.Core | Package Description |
+| 2026-11-07 04:59:15 | [StdUnit.AceOne.DAL](https://www.nuget.org/packages/StdUnit.AceOne.DAL) | 0.1.0 | StdUnit.AceOne.DAL | Package Description |
+| 2026-11-07 04:59:22 | [StdUnit.AceOne.WebApi](https://www.nuget.org/packages/StdUnit.AceOne.WebApi) | 0.1.0 | StdUnit.AceOne.WebApi | Package Description |
+| 2026-11-07 04:59:30 | [StdUnit.AceOne.DAL.MySql](https://www.nuget.org/packages/StdUnit.AceOne.DAL.MySql) | 0.1.0 | StdUnit.AceOne.DAL.MySql | Package Description |
+| 2026-11-07 04:59:37 | [StdUnit.AceOne.DAL.PostgreSql](https://www.nuget.org/packages/StdUnit.AceOne.DAL.PostgreSql) | 0.1.0 | StdUnit.AceOne.DAL.PostgreSql | Package Description |
+| 2026-11-07 04:59:44 | [StdUnit.AceOne.DAL.Sqlite](https://www.nuget.org/packages/StdUnit.AceOne.DAL.Sqlite) | 0.1.0 | StdUnit.AceOne.DAL.Sqlite | Package Description |
+| 2026-11-07 04:59:50 | [StdUnit.AceOne.Mail.Resend](https://www.nuget.org/packages/StdUnit.AceOne.Mail.Resend) | 0.1.0 | StdUnit.AceOne.Mail.Resend | Package Description |
+| 2026-11-07 05:14:53 | [Sevencat.GlyphRaster](https://www.nuget.org/packages/Sevencat.GlyphRaster) | 0.1.5 | sevencat | Package Description |
 
 ## Data source
 
