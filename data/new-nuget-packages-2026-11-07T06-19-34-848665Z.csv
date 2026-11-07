@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-07T05:48:27.643Z,YHG.FastBF,1.0.0,Naveen Ojha,"A fast, lightweight, and modern binary serialization and buffer deserialization alternative to the deprecated .NET BinaryFormatter, implementing the MS-NRBF specification."
+2026-11-07T05:54:08.9Z,Smdn.IO.UsbHid.Providers.HidApiDotNet,1.0.0,smdn,`Smdn.IO.UsbHid.Providers.HidApiDotNet` is a backend provider for [Smdn.IO.UsbHid.Abstractions](https://www.nuget.org/packages/Smdn.IO.UsbHid.Abstractions) that utilizes the [HidApi.Net](https://github.com/badcel/HidApi.Net) library for hardware communication. It enables applications using the `Smd…
+2026-11-07T05:59:16.51Z,MarkdownRenderX.Avalonia.Mermaid,12.1.3.8,RYCBStudio,"Renders ```mermaid fenced code blocks as native SVG diagrams in MarkdownRenderX.Avalonia. Powered by Mermaider (pure .NET) and Svg.Skia - no WebView, no browser, no JavaScript. Supports flowcharts, sequence diagrams, class diagrams, Gantt charts and more, with light and dark themes."
+2026-11-07T06:00:22.95Z,OpenUsd.Rendering.Physics,0.17.0-alpha,marcschier,Optional exact-step physics publication and atomic simulation recording for OpenUsd renderers.
+2026-11-07T06:04:48.717Z,Sevencat.OnnxSharp,0.0.1,Sevencat,Package Description
+2026-11-07T06:08:36.817Z,LIghtJUNction.OniOnline.Framework,0.4.0,LIghtJUNction,"Game-independent networking, gameplay contracts and synchronization framework for Oxygen Not Included multiplayer mods."

@@ -12,28 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 05:19 UTC
+## Latest list — 2026-11-07 06:19 UTC
 
-New packages created between 2026-11-07 04:19 UTC and 2026-11-07 05:19 UTC.
+New packages created between 2026-11-07 05:19 UTC and 2026-11-07 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T05-19-19-227219Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T06-19-34-848665Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 04:26:35 | [TGateway.RoslynCompletion](https://www.nuget.org/packages/TGateway.RoslynCompletion) | 2.3.28 | TGateway.RoslynCompletion | Package Description |
-| 2026-11-07 04:26:38 | [TGateway.Tunnel](https://www.nuget.org/packages/TGateway.Tunnel) | 2.3.28 | TGateway.Tunnel | Package Description |
-| 2026-11-07 04:27:00 | [ModelContextProtocol.Extensions.Skills](https://www.nuget.org/packages/ModelContextProtocol.Extensions.Skills) | 2.4.0 | ModelContextProtocol | MCP Skills extension (SEP-2640) for the .NET Model Context Protocol (MCP) SDK |
-| 2026-11-07 04:34:13 | [PayKit.Contracts](https://www.nuget.org/packages/PayKit.Contracts) | 1.0.0 | PayKit | Shared request/response contracts for the PayKit payments API (used by PayKit.C… |
-| 2026-11-07 04:34:14 | [PayKit.Client](https://www.nuget.org/packages/PayKit.Client) | 1.0.0 | PayKit | Client for the PayKit payments API: check entitlements, verify Google Play purc… |
-| 2026-11-07 04:34:14 | [PayKit.Client.Maui](https://www.nuget.org/packages/PayKit.Client.Maui) | 1.0.0 | PayKit | Google Play Billing for .NET MAUI apps backed by the PayKit payments API: load… |
-| 2026-11-07 04:59:08 | [StdUnit.AceOne.Core](https://www.nuget.org/packages/StdUnit.AceOne.Core) | 0.1.0 | StdUnit.AceOne.Core | Package Description |
-| 2026-11-07 04:59:15 | [StdUnit.AceOne.DAL](https://www.nuget.org/packages/StdUnit.AceOne.DAL) | 0.1.0 | StdUnit.AceOne.DAL | Package Description |
-| 2026-11-07 04:59:22 | [StdUnit.AceOne.WebApi](https://www.nuget.org/packages/StdUnit.AceOne.WebApi) | 0.1.0 | StdUnit.AceOne.WebApi | Package Description |
-| 2026-11-07 04:59:30 | [StdUnit.AceOne.DAL.MySql](https://www.nuget.org/packages/StdUnit.AceOne.DAL.MySql) | 0.1.0 | StdUnit.AceOne.DAL.MySql | Package Description |
-| 2026-11-07 04:59:37 | [StdUnit.AceOne.DAL.PostgreSql](https://www.nuget.org/packages/StdUnit.AceOne.DAL.PostgreSql) | 0.1.0 | StdUnit.AceOne.DAL.PostgreSql | Package Description |
-| 2026-11-07 04:59:44 | [StdUnit.AceOne.DAL.Sqlite](https://www.nuget.org/packages/StdUnit.AceOne.DAL.Sqlite) | 0.1.0 | StdUnit.AceOne.DAL.Sqlite | Package Description |
-| 2026-11-07 04:59:50 | [StdUnit.AceOne.Mail.Resend](https://www.nuget.org/packages/StdUnit.AceOne.Mail.Resend) | 0.1.0 | StdUnit.AceOne.Mail.Resend | Package Description |
-| 2026-11-07 05:14:53 | [Sevencat.GlyphRaster](https://www.nuget.org/packages/Sevencat.GlyphRaster) | 0.1.5 | sevencat | Package Description |
+| 2026-11-07 05:48:27 | [YHG.FastBF](https://www.nuget.org/packages/YHG.FastBF) | 1.0.0 | Naveen Ojha | A fast, lightweight, and modern binary serialization and buffer deserialization… |
+| 2026-11-07 05:54:08 | [Smdn.IO.UsbHid.Providers.HidApiDotNet](https://www.nuget.org/packages/Smdn.IO.UsbHid.Providers.HidApiDotNet) | 1.0.0 | smdn | `Smdn.IO.UsbHid.Providers.HidApiDotNet` is a backend provider for [Smdn.IO.UsbH… |
+| 2026-11-07 05:59:16 | [MarkdownRenderX.Avalonia.Mermaid](https://www.nuget.org/packages/MarkdownRenderX.Avalonia.Mermaid) | 12.1.3.8 | RYCBStudio | Renders ```mermaid fenced code blocks as native SVG diagrams in MarkdownRenderX… |
+| 2026-11-07 06:00:22 | [OpenUsd.Rendering.Physics](https://www.nuget.org/packages/OpenUsd.Rendering.Physics) | 0.17.0-alpha | marcschier | Optional exact-step physics publication and atomic simulation recording for Ope… |
+| 2026-11-07 06:04:48 | [Sevencat.OnnxSharp](https://www.nuget.org/packages/Sevencat.OnnxSharp) | 0.0.1 | Sevencat | Package Description |
+| 2026-11-07 06:08:36 | [LIghtJUNction.OniOnline.Framework](https://www.nuget.org/packages/LIghtJUNction.OniOnline.Framework) | 0.4.0 | LIghtJUNction | Game-independent networking, gameplay contracts and synchronization framework f… |
 
 ## Data source
 
