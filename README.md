@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 08:20 UTC
+## Latest list — 2026-11-07 09:20 UTC
 
-New packages created between 2026-11-07 07:19 UTC and 2026-11-07 08:20 UTC.
+New packages created between 2026-11-07 08:20 UTC and 2026-11-07 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T08-20-46-7417Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T09-20-48-178335Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 07:39:49 | [Prdb.Observability](https://www.nuget.org/packages/Prdb.Observability) | 0.1.0 | prdb | OpenTelemetry logs and metrics over OTLP for ASP.NET Core applications, configu… |
-| 2026-11-07 07:44:07 | [Runax.Http](https://www.nuget.org/packages/Runax.Http) | 1.0.0 | Runax Software | Declarative HTTP clients for .NET: annotate an interface, get an implementation… |
-| 2026-11-07 07:44:08 | [Runax.Http.Transports.RestSharp](https://www.nuget.org/packages/Runax.Http.Transports.RestSharp) | 1.0.0 | Runax Software | RestSharp transport for Runax.Http. Lets a Runax.Http client interface run over… |
-| 2026-11-07 07:44:09 | [Runax.Http.TestKit](https://www.nuget.org/packages/Runax.Http.TestKit) | 1.0.0 | Runax Software | Test support for Runax.Http: a recording transport and a harness that stands up… |
-| 2026-11-07 07:44:14 | [Runax.Http.Abstractions](https://www.nuget.org/packages/Runax.Http.Abstractions) | 1.0.0 | Runax Software | Attributes and transport-neutral contracts for Runax.Http. Reference this from… |
-| 2026-11-07 08:05:29 | [FsiMcp](https://www.nuget.org/packages/FsiMcp) | 0.1.0 | Onur Gumus | MCP server that gives AI agents a persistent, project-aware F# Interactive sess… |
+| 2026-11-07 08:27:33 | [EntexInteractive.Extensions.EntityFrameworkCore](https://www.nuget.org/packages/EntexInteractive.Extensions.EntityFrameworkCore) | 10.0.6 | Entex Interactive, LLC | Provides extensions to be used with Microsoft.EntityFrameworkCore. |
+| 2026-11-07 08:37:15 | [Intrlay](https://www.nuget.org/packages/Intrlay) | 0.1.1 | Intrlay | Typed storage for generated Intrlay memory views |
+| 2026-11-07 08:44:05 | [StdUnit.AceOne.Templates](https://www.nuget.org/packages/StdUnit.AceOne.Templates) | 0.2.0 | itminus | Templates for StdUnit.AceOne project |
 
 ## Data source
 
