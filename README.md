@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 02:21 UTC
+## Latest list — 2026-11-07 03:20 UTC
 
-New packages created between 2026-11-07 01:20 UTC and 2026-11-07 02:21 UTC.
+New packages created between 2026-11-07 02:21 UTC and 2026-11-07 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T02-21-57-372691Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T03-20-05-922977Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 01:29:03 | [Thrivea.Sdk](https://www.nuget.org/packages/Thrivea.Sdk) | 0.1.0 | Thrivea d.o.o. | Official .NET client for the Thrivea public REST API (/v1): job openings, candi… |
-| 2026-11-07 01:37:12 | [StdUnit.DingTalk](https://www.nuget.org/packages/StdUnit.DingTalk) | 0.2.0 | StdUnit.DingTalk | Package Description |
-| 2026-11-07 01:37:14 | [StdUnit.DingTalk.OneAuth](https://www.nuget.org/packages/StdUnit.DingTalk.OneAuth) | 0.2.0 | StdUnit.DingTalk.OneAuth | Package Description |
-| 2026-11-07 01:39:05 | [redb.Route.DataFormats.XmlJson](https://www.nuget.org/packages/redb.Route.DataFormats.XmlJson) | 4.7.0 | redbase | XML to JSON and back without a class for redb.Route: the Json.NET notation (@at… |
-| 2026-11-07 01:39:27 | [EasyReasy.Auth.Microsoft](https://www.nuget.org/packages/EasyReasy.Auth.Microsoft) | 1.0.0 | Adam Tovatt | Sign in with Microsoft work and school accounts for EasyReasy.Auth, through the… |
-| 2026-11-07 01:48:34 | [Stomme.Cartographer](https://www.nuget.org/packages/Stomme.Cartographer) | 10.82.0 | Nova Globen AB | Surveys a software repository of any shape and writes what a tracker and a wiki… |
-| 2026-11-07 01:48:37 | [Stomme.Conductor](https://www.nuget.org/packages/Stomme.Conductor) | 10.82.0 | Nova Globen AB | A general engine that runs a playbook with context: units of work, a resumable… |
-| 2026-11-07 01:51:47 | [BinaryBufferLib](https://www.nuget.org/packages/BinaryBufferLib) | 0.1.0 | Quantam | A collection of lightweight objects for reading and writing binary data with au… |
+| 2026-11-07 02:34:28 | [PdfiumWrapper.runtime.linux-musl-x64](https://www.nuget.org/packages/PdfiumWrapper.runtime.linux-musl-x64) | 2.1.0 | Emmanuel Hameyie | Native PDFium runtime binaries for linux-musl-x64. Internal runtime package for… |
+| 2026-11-07 02:40:54 | [KeelMatrix.RateSpec](https://www.nuget.org/packages/KeelMatrix.RateSpec) | 0.1.0 | KeelMatrix | Verify ASP.NET Core rate-limit bursts, rejection, and partition isolation with… |
+| 2026-11-07 02:53:03 | [StbTrueTypeNext](https://www.nuget.org/packages/StbTrueTypeNext) | 1.0.0 | StbTrueTypeNextTeam | Safe fork of StbTrueTypeSharp |
+| 2026-11-07 02:54:23 | [MarkupString.Web](https://www.nuget.org/packages/MarkupString.Web) | 2.27.0 | SharpMUSH | The browser side of MarkupString: one stylesheet for every class the HTML write… |
+| 2026-11-07 02:54:31 | [ProWorks.Umbraco.AI.PageEvaluator.Automate](https://www.nuget.org/packages/ProWorks.Umbraco.AI.PageEvaluator.Automate) | 17.6.1 | ProWorks, Jason Prothero | Umbraco Automate "Evaluate Page" step for the ProWorks AI Page Evaluator: evalu… |
+| 2026-11-07 02:54:52 | [ProWorks.Umbraco.AI.PageEvaluator.Deploy](https://www.nuget.org/packages/ProWorks.Umbraco.AI.PageEvaluator.Deploy) | 17.6.1 | ProWorks, Jason Prothero | Umbraco Deploy support for ProWorks AI Page Evaluator configurations: deploys e… |
 
 ## Data source
 
