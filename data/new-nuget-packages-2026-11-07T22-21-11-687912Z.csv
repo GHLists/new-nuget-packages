@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-07T21:39:21.593Z,soso.serialization,1.0.0,Ky Price,A reasonably lightweight binary serialization library
+2026-11-07T21:40:20.53Z,Shiny.Mediator.Avalonia,6.13.0-beta-0001,Allan Ritchie,"Shiny Mediator - Avalonia integration (view/view model event collection, main thread, offline, persistent cache)"
+2026-11-07T22:08:44.31Z,TotalSerializer,0.1.0-alpha,astropiano,"Serializes the complete state of .NET object graphs - including private fields, events and delegates - to JSON, and deserializes instances back fully functional."
+2026-11-07T22:08:44.923Z,TotalSerializer.ReflectionTools,0.1.0-alpha,astropiano,"Efficient reflection helpers used by TotalSerializer: cached member access, fast field/property readers and writers via emitted IL, and CLR type-name utilities."
