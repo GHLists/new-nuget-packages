@@ -12,26 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 15:21 UTC
+## Latest list — 2026-11-07 16:18 UTC
 
-New packages created between 2026-11-07 14:21 UTC and 2026-11-07 15:21 UTC.
+New packages created between 2026-11-07 15:21 UTC and 2026-11-07 16:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T15-21-25-524632Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T16-18-29-560628Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 14:25:40 | [Canton.Ledger.AspNetCore](https://www.nuget.org/packages/Canton.Ledger.AspNetCore) | 0.8.0 | Peaceful Studio OÜ | ASP.NET Core integration for the Canton Ledger API clients. AddCantonLedgerProb… |
-| 2026-11-07 14:25:54 | [Splice.Api.Token.Registry.Client](https://www.nuget.org/packages/Splice.Api.Token.Registry.Client) | 0.10.0.21 | Peaceful Studio OÜ | Typed HTTP client for the Splice Token Standard registry off-ledger API (token… |
-| 2026-11-07 14:27:04 | [NormalizeAutoCADReferences](https://www.nuget.org/packages/NormalizeAutoCADReferences) | 1.0.0 | eirikksan | Normalizes AutoCAD managed assembly metadata and integrates compile-time refere… |
-| 2026-11-07 14:38:37 | [Shirasagi0012.Material3Expressive.Avalonia](https://www.nuget.org/packages/Shirasagi0012.Material3Expressive.Avalonia) | 0.1.0 | Shirasagi0012 | Material 3 Expressive theme and controls for Avalonia, ported from Compose Mate… |
-| 2026-11-07 14:42:21 | [Meziantou.Framework.Geo.Maps](https://www.nuget.org/packages/Meziantou.Framework.Geo.Maps) | 1.0.0 | meziantou | Loads offline map bundles: the borders, states and provinces, cities, rivers, l… |
-| 2026-11-07 14:42:21 | [Meziantou.Framework.Geo.Maps.GeoPackage](https://www.nuget.org/packages/Meziantou.Framework.Geo.Maps.GeoPackage) | 1.0.0 | meziantou | Reads and writes the map bundles of Meziantou.Framework.Geo.Maps as GeoPackage… |
-| 2026-11-07 14:42:22 | [Meziantou.Framework.Geo.Maps.Tool](https://www.nuget.org/packages/Meziantou.Framework.Geo.Maps.Tool) | 1.0.0 | meziantou | CLI to generate the offline map bundles of Meziantou.Framework.Geo.Maps: the bo… |
-| 2026-11-07 14:42:37 | [GlanceWidgets.ApiSdk](https://www.nuget.org/packages/GlanceWidgets.ApiSdk) | 1.0.0 | Glance Widgets | SDK for generating Glance Widgets API responses |
-| 2026-11-07 14:57:51 | [Lengko.Datatables.Winform](https://www.nuget.org/packages/Lengko.Datatables.Winform) | 1.0.0 | LengkoDev, Cas | Interactive, modern tabular data grid component for Windows Forms inspired by D… |
-| 2026-11-07 15:13:01 | [CarchaLabs.Seal.Runtime](https://www.nuget.org/packages/CarchaLabs.Seal.Runtime) | 0.1.0 | Carcha Labs | Carcha Seal for .NET 5+ (and .NET Standard 2.0 hosts other than .NET Framework)… |
-| 2026-11-07 15:13:02 | [CarchaLabs.Seal.NetFramework](https://www.nuget.org/packages/CarchaLabs.Seal.NetFramework) | 0.1.0 | Carcha Labs | Carcha Seal for .NET Framework 4.6.2+ apps (AnyCPU, x86, x64, ARM64; PackageRef… |
-| 2026-11-07 15:13:03 | [CarchaLabs.Seal](https://www.nuget.org/packages/CarchaLabs.Seal) | 0.1.0 | Carcha Labs | Carcha Seal for .NET: licensing for desktop apps that keeps working offline. Ac… |
+| 2026-11-07 15:27:36 | [TelegramBotForge.AspNetCore](https://www.nuget.org/packages/TelegramBotForge.AspNetCore) | 0.1.0 | VAXA99 | Webhook mode for TelegramBotForge bots on ASP.NET Core: maps the endpoint that… |
+| 2026-11-07 15:27:37 | [TelegramBotForge](https://www.nuget.org/packages/TelegramBotForge) | 0.1.0 | VAXA99 | Build Telegram bots quickly with MVC: controllers with attribute routes for com… |
+| 2026-11-07 15:36:54 | [RuneDotNet](https://www.nuget.org/packages/RuneDotNet) | 0.1.0 | Geevo | C# bindings for Rune, the Rust UI framework, for NativeAOT apps. Rune is linked… |
+| 2026-11-07 15:41:16 | [ZkLink.Extensions.DependencyInjection](https://www.nuget.org/packages/ZkLink.Extensions.DependencyInjection) | 1.0.1 | Aleksandr Pavlov | Microsoft.Extensions.DependencyInjection registration and host-owned lifetime f… |
+| 2026-11-07 15:41:17 | [ZkLink.Analyzers](https://www.nuget.org/packages/ZkLink.Analyzers) | 1.0.1 | Aleksandr Pavlov | Roslyn analyzers for secure and asynchronous ZkLink usage. |
+| 2026-11-07 16:00:27 | [McpMsSqlServer](https://www.nuget.org/packages/McpMsSqlServer) | 0.1.2 | McpMsSqlServer | MCP server for MS SQL Server, installed as a dotnet tool |
+| 2026-11-07 16:02:51 | [Pushizo.Maui.Android.Binding](https://www.nuget.org/packages/Pushizo.Maui.Android.Binding) | 0.2.0 | Pushizo | Pushizo Android SDK (com.pushizo:pushizo-android) için .NET Android binding'i.… |
+| 2026-11-07 16:02:53 | [Pushizo.Maui](https://www.nuget.org/packages/Pushizo.Maui) | 0.2.0 | Pushizo | Pushizo .NET MAUI SDK: push bildirimleri, in-app mesajlar, bildirim kutusu, kul… |
+| 2026-11-07 16:02:56 | [Pushizo.Maui.iOS.Binding](https://www.nuget.org/packages/Pushizo.Maui.iOS.Binding) | 0.2.0 | Pushizo | Pushizo iOS SDK'sı için .NET iOS binding'i (@objc Swift cephesi). Doğrudan deği… |
 
 ## Data source
 

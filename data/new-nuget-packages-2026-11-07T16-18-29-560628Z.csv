@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-07T15:27:36.797Z,TelegramBotForge.AspNetCore,0.1.0,VAXA99,Webhook mode for TelegramBotForge bots on ASP.NET Core: maps the endpoint that receives updates from Telegram.
+2026-11-07T15:27:37.64Z,TelegramBotForge,0.1.0,VAXA99,"Build Telegram bots quickly with MVC: controllers with attribute routes for commands, buttons, text, media, locations and Telegram Stars payments, plus declarative views, conversation state and middleware."
+2026-11-07T15:36:54.497Z,RuneDotNet,0.1.0,Geevo,"C# bindings for Rune, the Rust UI framework, for NativeAOT apps. Rune is linked statically, so an app ships as one native executable."
+2026-11-07T15:41:16.097Z,ZkLink.Extensions.DependencyInjection,1.0.1,Aleksandr Pavlov,Microsoft.Extensions.DependencyInjection registration and host-owned lifetime for ZkLink.
+2026-11-07T15:41:17.167Z,ZkLink.Analyzers,1.0.1,Aleksandr Pavlov,Roslyn analyzers for secure and asynchronous ZkLink usage.
+2026-11-07T16:00:27.22Z,McpMsSqlServer,0.1.2,McpMsSqlServer,"MCP server for MS SQL Server, installed as a dotnet tool"
+2026-11-07T16:02:51.407Z,Pushizo.Maui.Android.Binding,0.2.0,Pushizo,"Pushizo Android SDK (com.pushizo:pushizo-android) için .NET Android binding'i. Doğrudan değil, Pushizo.Maui üzerinden kullanılır."
+2026-11-07T16:02:53.21Z,Pushizo.Maui,0.2.0,Pushizo,"Pushizo .NET MAUI SDK: push bildirimleri, in-app mesajlar, bildirim kutusu, kullanıcı/tag/alias, e-posta ve SMS abonelikleri. Yerel Pushizo Android ve iOS SDK'larını sarar."
+2026-11-07T16:02:56.837Z,Pushizo.Maui.iOS.Binding,0.2.0,Pushizo,"Pushizo iOS SDK'sı için .NET iOS binding'i (@objc Swift cephesi). Doğrudan değil, Pushizo.Maui üzerinden kullanılır."
