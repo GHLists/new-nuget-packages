@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-07T06:20:49.927Z,Torque.Http.Newtonsoft,0.7.0,Truespar,"Encodes objects as Torque TQBF records exactly as Newtonsoft.Json serializes them with given settings, without writing JSON. For TqbfSegmentBuilder runs."
+2026-11-07T06:33:22.79Z,Simple3D.Core,0.3.0,Marius Muntean,"Portable opaque 3D scenes, meshes, cameras, software depth rendering and picking."
+2026-11-07T06:33:24.44Z,Simple3D.Maui,0.3.0,Marius Muntean,"Interactive SkiaSharp 3D scene control for .NET MAUI on iOS, Android and Mac Catalyst."
+2026-11-07T06:41:56.88Z,Mediana.Documents.Spreadsheets,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:41:59.723Z,Mediana.Codecs.Gif,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:00.633Z,Mediana.Documents.Xls,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:01.857Z,Mediana.Containers.Ogg,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:02.473Z,Mediana.Documents.Xlsx,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:03.733Z,Mediana.Codecs.Tiff,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:04.69Z,Mediana.Codecs.Opus,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:05.25Z,Mediana.Codecs.Bmp,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:06.14Z,Mediana.Codecs.Hevc,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:07.923Z,Mediana.Documents.Presentation,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:08.847Z,Mediana.Codecs.Vorbis,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:11.353Z,Mediana.Documents,0.1.24,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T06:42:40.42Z,Rechunk,0.1.0,Challa Ravindranath,"Dedup and revision aware ingestion for RAG pipelines in .NET. Exact hash, SimHash and MinHash, plus revisions, audit and erasure."
+2026-11-07T06:42:41.243Z,Rechunk.SemanticKernel,0.1.0,Challa Ravindranath,Registers Rechunk on a Semantic Kernel builder.
+2026-11-07T06:42:42.01Z,Rechunk.Storage.Redis,0.1.0,Challa Ravindranath,"Redis storage for the Rechunk shared fingerprint store, revisions, audit log and dead letters, so many workers check against the same indexes."
+2026-11-07T06:42:42.703Z,Rechunk.Storage.Sqlite,0.1.0,Challa Ravindranath,"SQLite storage for the Rechunk shared fingerprint store, revisions, audit log and dead letters."
+2026-11-07T06:42:43.373Z,Rechunk.VectorData,0.1.0,Challa Ravindranath,"Rechunk writer for any Microsoft.Extensions.VectorData collection. Upserts and deletes in batches, and the delete path that revision tracking needs."
