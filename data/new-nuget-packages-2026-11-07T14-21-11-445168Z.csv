@@ -1,0 +1,25 @@
+created_at,package,version,authors,description
+2026-11-07T13:25:28.59Z,Cratis.Arc.PersonalAccessTokens.Chronicle,22.172.1,Cratis,Audit-only Chronicle events and projections for resource-local personal access tokens.
+2026-11-07T13:25:37.547Z,Cratis.Arc.PersonalAccessTokens,22.172.1,Cratis,Resource-local personal access token support for Cratis Arc.
+2026-11-07T13:28:58.08Z,Rezultat,1.0.0,Zada Zorg,"Result, Maybe, Presence, Validation and Unit outcome carriers with synchronous composition, Maybe/Result and Result/Validation bridges, explicit nullable adaptation, opt-in collection operations and opt-in Result/Maybe query syntax."
+2026-11-07T13:28:59.067Z,Rezultat.Testing.Xunit,1.0.0,Zada Zorg,"Test-only xUnit assertions for Rezultat Result, Validation and Maybe: ShouldBeOk, ShouldBeError, ShouldBeValid, ShouldBeInvalid and ShouldBeSome check the expected branch and return its payload; ShouldBeNone checks that a Maybe is None. A mismatch fails with an xUnit assertion failure, optionally w…"
+2026-11-07T13:29:00.007Z,Rezultat.Analyzers,1.0.0,Zada Zorg,"Opt-in C# compiler diagnostic RZT0001 for a directly discarded Rezultat Result or Validation outcome, including discarded Task/ValueTask outcomes, awaited outcomes and implicit void or Action lambda bodies."
+2026-11-07T13:47:36.987Z,Bitzsoft.Integrations.AI.Governance,1.0.5,Bitzsoft,AI 治理基础设施 — 数据分级模型路由、工具风险目录、受控函数管线、不可信围栏与预算截断、跨通道待办动作与固定窗口配额限流
+2026-11-07T13:47:45.923Z,Bitzsoft.Integrations.AI.Skills,1.0.5,Bitzsoft,AI 技能与智能体声明基础设施 — Agent Skills 标准与存量双格式解析、校验导出、渐进式目录、按需加载元工具与目录热扫描
+2026-11-07T13:47:55.293Z,Bitzsoft.Integrations.AI.Conversation,1.0.5,Bitzsoft,AI 会话基础设施 — 富消息分片与预算截断、流式帧协议、推理选项工厂、跨块流式投影与多轮用量累加、上下文预算器、数字事实对账、幂等请求台账与会话租约、无锁单调十九位主键生成器
+2026-11-07T13:48:04.8Z,Bitzsoft.Integrations.AI.AspNetCore,1.0.5,Bitzsoft,ASP.NET Core AI 流式响应写出器 — 支持 SSE 与 NDJSON 协议协商、反向代理防缓冲响应头、中文零转义序列化、客户端断连静默退出与异常脱敏错误帧
+2026-11-07T13:52:35.343Z,GMNotification,0.0.2,Gmi91,轻量级的 .NET 通知中心，参考 iOS/macOS NSNotificationCenter 设计，支持线程安全派发、类型安全通知名与回调异常隔离。
+2026-11-07T13:53:07.243Z,Webority.Support.AzureStorage,0.52.0,Webority Technologies,Azure Blob Storage for support attachments: UseAzureBlobAttachments keeps the files in Support:AttachmentContainer through Webority.Azure.Storage instead of the local disk.
+2026-11-07T13:55:23.17Z,RoseLynn.Core,1.0.0,Rekkonnect,Additional tools for Roslyn-based applications.
+2026-11-07T13:55:24.53Z,RoseLynn.CSharp,1.0.0,Rekkonnect,C#-specific extensions and utilities for Roslyn-based applications.
+2026-11-07T13:55:25.8Z,RoseLynn.VisualBasic,1.0.0,Rekkonnect,Visual Basic-specific extensions and utilities for Roslyn-based applications.
+2026-11-07T13:55:27.03Z,RoseLynn.Writing,1.0.0,Rekkonnect,Code-writing and source-building helpers for Roslyn-based generators.
+2026-11-07T13:55:31.033Z,RoseLynn.CrossLanguage,1.0.0,Rekkonnect,Bundle package providing both C# and Visual Basic extensions for Roslyn-based applications.
+2026-11-07T13:55:33.207Z,RoseLynn.Bundle.Analysis,1.0.0,Rekkonnect,"Convenience bundle for Roslyn analysis tooling — includes Analyzers, CodeFixes, and Generators packages."
+2026-11-07T14:06:24.923Z,Shorthand.UmbracoCodeFirst,0.0.2-alpha-38,Shorthand.UmbracoCodeFirst,Package Description
+2026-11-07T14:06:25.597Z,Shorthand.UmbracoCodeFirst.Analyzers,0.0.2-alpha-38,Shorthand.UmbracoCodeFirst.Analyzers,Package Description
+2026-11-07T14:06:26.32Z,Shorthand.UmbracoCodeFirst.Backoffice,0.0.2-alpha-38,Shorthand.UmbracoCodeFirst.Backoffice,Package Description
+2026-11-07T14:06:27.067Z,Shorthand.UmbracoCodeFirst.Core,0.0.2-alpha-38,Shorthand.UmbracoCodeFirst.Core,Package Description
+2026-11-07T14:06:27.68Z,Shorthand.UmbracoCodeFirst.SourceGenerators,0.0.2-alpha-38,Shorthand.UmbracoCodeFirst.SourceGenerators,Package Description
+2026-11-07T14:12:35.573Z,alanxinn.TensorRtRuntime.SM89.TensorRT10,0.2.0,alanxinn,TensorRT10 Windows x64 runtime assets for RTX30/40/50: SM89
+2026-11-07T14:14:17.74Z,alanxinn.TensorRtRuntime.SM120.Part2.TensorRT10,0.2.0,alanxinn,TensorRT10 Windows x64 runtime assets for RTX30/40/50: SM120.Part2
