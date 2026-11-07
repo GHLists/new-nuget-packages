@@ -12,23 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 16:18 UTC
+## Latest list — 2026-11-07 17:19 UTC
 
-New packages created between 2026-11-07 15:21 UTC and 2026-11-07 16:18 UTC.
+New packages created between 2026-11-07 16:18 UTC and 2026-11-07 17:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T16-18-29-560628Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T17-19-44-611039Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-07 15:27:36 | [TelegramBotForge.AspNetCore](https://www.nuget.org/packages/TelegramBotForge.AspNetCore) | 0.1.0 | VAXA99 | Webhook mode for TelegramBotForge bots on ASP.NET Core: maps the endpoint that… |
-| 2026-11-07 15:27:37 | [TelegramBotForge](https://www.nuget.org/packages/TelegramBotForge) | 0.1.0 | VAXA99 | Build Telegram bots quickly with MVC: controllers with attribute routes for com… |
-| 2026-11-07 15:36:54 | [RuneDotNet](https://www.nuget.org/packages/RuneDotNet) | 0.1.0 | Geevo | C# bindings for Rune, the Rust UI framework, for NativeAOT apps. Rune is linked… |
-| 2026-11-07 15:41:16 | [ZkLink.Extensions.DependencyInjection](https://www.nuget.org/packages/ZkLink.Extensions.DependencyInjection) | 1.0.1 | Aleksandr Pavlov | Microsoft.Extensions.DependencyInjection registration and host-owned lifetime f… |
-| 2026-11-07 15:41:17 | [ZkLink.Analyzers](https://www.nuget.org/packages/ZkLink.Analyzers) | 1.0.1 | Aleksandr Pavlov | Roslyn analyzers for secure and asynchronous ZkLink usage. |
-| 2026-11-07 16:00:27 | [McpMsSqlServer](https://www.nuget.org/packages/McpMsSqlServer) | 0.1.2 | McpMsSqlServer | MCP server for MS SQL Server, installed as a dotnet tool |
-| 2026-11-07 16:02:51 | [Pushizo.Maui.Android.Binding](https://www.nuget.org/packages/Pushizo.Maui.Android.Binding) | 0.2.0 | Pushizo | Pushizo Android SDK (com.pushizo:pushizo-android) için .NET Android binding'i.… |
-| 2026-11-07 16:02:53 | [Pushizo.Maui](https://www.nuget.org/packages/Pushizo.Maui) | 0.2.0 | Pushizo | Pushizo .NET MAUI SDK: push bildirimleri, in-app mesajlar, bildirim kutusu, kul… |
-| 2026-11-07 16:02:56 | [Pushizo.Maui.iOS.Binding](https://www.nuget.org/packages/Pushizo.Maui.iOS.Binding) | 0.2.0 | Pushizo | Pushizo iOS SDK'sı için .NET iOS binding'i (@objc Swift cephesi). Doğrudan deği… |
+| 2026-11-07 16:21:30 | [DbTest.Core](https://www.nuget.org/packages/DbTest.Core) | 0.1.0 | dbaitest | Engine-agnostic core for database integration test harnesses: container lifecyc… |
+| 2026-11-07 16:21:31 | [DbTest.PostgreSql](https://www.nuget.org/packages/DbTest.PostgreSql) | 0.1.0 | dbaitest | PostgreSQL engine for DbTest: container lifecycle, dollar-quote-safe schema app… |
+| 2026-11-07 16:21:32 | [DbTest.Cli](https://www.nuget.org/packages/DbTest.Cli) | 0.1.0 | dbaitest | Command line front end for DbTest: start a container, apply a schema, report on… |
+| 2026-11-07 16:21:33 | [DbTest.MsSql](https://www.nuget.org/packages/DbTest.MsSql) | 0.1.0 | dbaitest | SQL Server engine for DbTest: container lifecycle, GO-batch schema application… |
+| 2026-11-07 16:21:33 | [DbTest.MySql](https://www.nuget.org/packages/DbTest.MySql) | 0.1.0 | dbaitest | MySQL engine for DbTest: container lifecycle, DELIMITER-aware schema applicatio… |
+| 2026-11-07 16:45:35 | [QRCoder-Png](https://www.nuget.org/packages/QRCoder-Png) | 0.11.0 | Raffael Herrmann, Joerg Plene… | QRCoder is a simple library, written in C#.NET, which enables you to create QR… |
+| 2026-11-07 16:51:56 | [vimdrill.any](https://www.nuget.org/packages/vimdrill.any) | 0.4.0 | Michał Szopa | Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or termina… |
+| 2026-11-07 16:51:58 | [vimdrill.linux-musl-x64](https://www.nuget.org/packages/vimdrill.linux-musl-x64) | 0.4.0 | Michał Szopa | Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or termina… |
+| 2026-11-07 16:51:59 | [vimdrill.linux-x64](https://www.nuget.org/packages/vimdrill.linux-x64) | 0.4.0 | Michał Szopa | Daily Vim drills checked by diff, in any editor: Rider, VS Code, Zed or termina… |
 
 ## Data source
 
