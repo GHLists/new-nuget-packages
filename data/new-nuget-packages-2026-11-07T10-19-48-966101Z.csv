@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-11-07T09:29:30.39Z,ZL.IotDriver,2.2.18,UseThink,【读法B】ZL.IotHub 自研驱动的独立程序集（58 个协议描述符）。只依赖 ZL.IotEngine 的契约面，不依赖任何编排实现。
+2026-11-07T09:29:55.6Z,ZL.IotEngine,2.2.18,UseThink,"工业 PLC 数据采集运行时内核（.NET：netstandard2.0 / net48 / net8.0 / net10.0）——编排、地址合并、批量采集、变化上报与事件通知。解决的不是「能不能连上 PLC」，而是「连上之后」：几百上千个点位如何采得快、采得稳，坏一个点如何不拖垮整块。实测 300 个点位合并为 4 个块（请求数减少 98.67%），稳定场景约 670 次读取/秒、约 50,277 点位/秒；内置坏点隔离（Quarantine）与变化上报（Deadband）、多速率采样、实时通知订阅、OPC UA 服务端与嵌入式诊断（报告可落盘 JSON/Markdown）。⚠️ 协议驱动…"
+2026-11-07T09:30:14.933Z,ZL.IotHub.Ipc,2.2.18,UseThink,工业 IPC 传输抽象（命名管道行协议）：提供行客户端/服务端/发布订阅接口与 NamedPipe 实现，供跨进程采集与工具链复用。零第三方依赖（仅 System.IO.Pipes）。
+2026-11-07T09:31:06.38Z,ZL.IotOss,2.2.18,UseThink,ZL.IotEngine 的开源驱动适配包：S7.Net Plus（西门子）/ NModbus 3.x（Modbus TCP/RTU/ASCII）/ LibPlcTag（AB EtherNet/IP：ControlLogix/CompactLogix/Micro800/MicroLogix/PLC-5/SLC500；Omron NJ/NX CIP/EtherNet/IP，PlcType 选择）。只依赖 ZL.IotEngine 的契约面，不依赖 ZL.IotDriver。零自研、全开源、避免收费。范围说明：不含三菱 MC（libplctag 不支持 MC 协议，经证据评审按「宁缺毋滥」排除，…
+2026-11-07T09:31:21.113Z,Doppelganger.Isolation,0.13.0,Niklas Wendel,"Doppelganger.Isolation - mock non-virtual members and sealed classes with Doppelganger, through a profiler that attaches itself to the test process"
+2026-11-07T09:33:33.03Z,SQMD.Reports,0.3.4,SQUAREMILED S.A.,"SQMD Reports report engine: YAML definitions to HTML, PDF (Chromium), Word, Excel, CSV."
+2026-11-07T09:33:33.717Z,SQMD.Reports.Server,0.3.4,SQUAREMILED S.A.,"SQMD Reports for ASP.NET Core: IReportRenderer, REST API, embedded web viewer and designer."
+2026-11-07T09:41:19.447Z,Ryn.Plugins.Sidecar,0.39.0,Moh,Identity-safe managed sidecar lifecycle services with crash-owned native process supervision for Ryn applications
+2026-11-07T09:47:17.01Z,Fp.SharePoint,0.2.0,Financial Partners,"Upload, download, delete and list files in a SharePoint document library via Microsoft Graph, with dependency injection support."
+2026-11-07T09:47:23.47Z,Maplibre.NativeFfi.Runtime.OpenGL.MinGW,0.202611.0,MapLibre,OpenGL.MinGW native runtime assets for MapLibre Native .NET.
+2026-11-07T09:47:29.187Z,Maplibre.NativeFfi.Runtime.Vulkan.MinGW,0.202611.0,MapLibre,Vulkan.MinGW native runtime assets for MapLibre Native .NET.
+2026-11-07T09:47:44.823Z,tomware.Cyclo,0.1.0,Thomas Duft,A command-line tool for calculating the cyclomatic complexity of code.
+2026-11-07T09:49:20.9Z,Glacier.Cluster,1.1.0,Ian Cowley,"Pure C# .NET 10 distributed computing fabric, dynamic DAG scheduler, zero-allocation Pipelines wire protocol, multiplexed P2P Arrow IPC shuffle bus, and heterogeneous hardware task placement."
+2026-11-07T09:52:35.987Z,Glacier.Cli,1.1.0,Ian Cowley,"Unified pure C# .NET 10 LLM command-line application (glacier). High-performance inference with Universal Architecture Matrix (Llama 3, Phi-4, DeepSeek, Mistral, Qwen), in-process LoRA fine-tuning (Glacier.Tune), GGUF adapter fusion, in-process SIMD GraphRAG (Glacier.Rag), PagedAttention continuous…"
+2026-11-07T09:54:52.643Z,NotRemoting,0.0.6,"osexpert, Hagen Siegel",Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:54:54.517Z,NotRemoting.Compression.Lz4,0.0.6,osexpert,Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:54:56.373Z,NotRemoting.Serialization.BinaryFormatter,0.0.6,"osexpert, Hagen Siegel",Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:54:58.327Z,NotRemoting.Serialization.Json,0.0.6,osexpert,Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:55:00.143Z,NotRemoting.Serialization.MemoryPack,0.0.6,osexpert,Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:55:02.737Z,NotRemoting.Serialization.MessagePack,0.0.6,osexpert,Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:55:04.52Z,NotRemoting.Serialization.Protobuf,0.0.6,osexpert,Grpc (Not)Remoting library for migration from .NET Remoting
+2026-11-07T09:55:44.673Z,Coworkee.Client.Blazor.ClientEntities.Sqlite,0.0.1.65,fgilde,"Client entities in SQLite inside the browser: the server sends the copy as a SQLite file, a reload opens it, EF Core answers queries and facets with SQL."
+2026-11-07T10:02:50.64Z,Dav,3.0.1,Aizaz Zaheen,"Checks a .NET assembly without running it: risky API calls, known vulnerabilities in its dependencies, API changes between two versions and circular dependencies. A PowerShell module for PowerShell 7 and Windows PowerShell 5.1."
