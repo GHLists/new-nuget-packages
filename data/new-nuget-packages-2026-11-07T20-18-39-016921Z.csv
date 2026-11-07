@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-07T19:22:23.297Z,Nantuc.CLI,0.9.0,RomanyPe,Package Description
+2026-11-07T19:32:12.27Z,VolcanoBlue.EventSourcing,1.0.0,William Santos,Event sourcing library with Models and EF Core.
+2026-11-07T19:34:30.82Z,FlatKeyValueConfiguration,1.0.0,Bridge Liu,"A flat key/value configuration format for .NET. Simpler than INI, and stricter than INI."
+2026-11-07T19:36:30.003Z,Hypha.Tools,1.5.0,Starion Group S.A.,Fetches the upstream OMG SysML v2 / KerML sources and generates the hypha knowledge base from them.
+2026-11-07T19:36:33.923Z,Mediana.Codecs.Mpeg4Visual,0.1.25,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T19:36:35.177Z,Mediana.Containers.Avi,0.1.25,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T19:36:36.173Z,Mediana.Codecs.Theora,0.1.25,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T19:36:37.68Z,Mediana.Codecs.Vp9,0.1.25,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T19:36:41.487Z,Mediana.Codecs.Vp8,0.1.25,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-07T19:38:11.283Z,MviCore.Net.R3,1.0.0,MviCore.Net.R3,A simplified single-threaded MVICore implementation built on R3.
+2026-11-07T19:43:32.467Z,HoneyDrunk.Capabilities,0.1.0,HoneyDrunk Studios,"Runtime for HoneyDrunk Grid capabilities: an in-process registry, a guarded invoker, an authorization guard over HoneyDrunk.Auth policy, and service registration."
+2026-11-07T19:43:42.617Z,HoneyDrunk.Memory,0.1.0,HoneyDrunk Studios,"Runtime composition for HoneyDrunk agent memory: scope resolution gated by Auth and Operator, the scope-checked store, the chat summarizer and DI wiring."
+2026-11-07T19:54:45.807Z,Glacier.Formats,1.0.0,Ian Cowley,"Pure C# .NET 10 Zero-Allocation Columnar Interchange Formats (Apache Arrow IPC streaming/file format and Vectorized Parquet reader/writer with pure C# Thrift parsing, RLE/Bit-Packing, and SIMD Snappy compression)."
+2026-11-07T19:54:58.643Z,Glacier.Quant,1.0.0,Ian Cowley,"High-throughput SIMD and GPU post-training quantization kernels (Q4_K_M, Q8_0, FP8, 1-bit), PTQ calibration (AWQ, GPTQ, imatrix), and streaming GGUF/Safetensors I/O for .NET 10."
+2026-11-07T19:55:08.127Z,Glacier.Media,1.0.0,Ian Cowley,"Pure C# .NET 10 Generative Multimodal Media engine featuring FLUX.1 Flow-Matching DiT, Wan 2.1 3D Spatio-Temporal Video DiT, KittenTTS Neural Speech Synthesis, Kokoro TTS, Whisper STT, and 2D Spatial Multimodal Projectors."
+2026-11-07T19:55:34.263Z,CoreSystem.OpenApi.Swashbuckle,1.0.0,Federin Pastor Gutierrez Ortiz,Reusable OpenAPI and Swagger infrastructure for ASP.NET Core APIs.
+2026-11-07T20:01:50.04Z,Delimited,0.1.0-alpha1,Nathan Wilson,"F# codecs for reading and writing delimited text (CSV, TSV), built on Sylvan.Data.Csv."
+2026-11-07T20:03:15.21Z,z3l.FastHtmlParser,0.1.0,z3l,"Fast, low-allocation HTML/XML parser for scraping on .NET 9/10. About 10x (up to 36x) faster and 13–23x less memory than AngleSharp and HtmlAgilityPack in benchmarks. Zero-allocation tag/attribute matching, HTML5 entities, clean text extraction. Free for companies under USD 1M revenue and under 100…"
+2026-11-07T20:07:25.59Z,Disposed.Baldr,2026.11.7.200716,Thijs Janssen,Baldr is an embeddable broker core for .NET with send/subscribe and request/response messaging patterns.
+2026-11-07T20:11:24.87Z,Glacier.MemEx,1.0.0,Ian Cowley,"Universal episodic memory engine uniting Chrono, DocTree, Vector, HippoRAG PPR, and Bundle with ACT-R power-law temporal decay for .NET 10."
