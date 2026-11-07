@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 00:19 UTC
+## Latest list — 2026-11-07 01:20 UTC
 
-New packages created between 2026-11-06 23:20 UTC and 2026-11-07 00:19 UTC.
+New packages created between 2026-11-07 00:19 UTC and 2026-11-07 01:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-07T00-19-55-19998Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-07T01-20-12-44826Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-06 23:52:24 | [StfsSharp](https://www.nuget.org/packages/StfsSharp) | 1.0.0 | PureLogicCode.com | Read-only .NET library for Xbox 360 STFS packages and GOD/SVOD containers. List… |
-| 2026-11-07 00:07:20 | [Corely.IAM.CompiledModel.MySql](https://www.nuget.org/packages/Corely.IAM.CompiledModel.MySql) | 6.8.0 | Corely.IAM.CompiledModel.MySql | Corely.IAM's Entity Framework model built ahead of time for MySQL and MariaDB,… |
-| 2026-11-07 00:09:08 | [Corely.IAM.CompiledModel.MsSql](https://www.nuget.org/packages/Corely.IAM.CompiledModel.MsSql) | 6.8.0 | Corely.IAM.CompiledModel.MsSql | Corely.IAM's Entity Framework model built ahead of time for SQL Server, so an a… |
-| 2026-11-07 00:09:43 | [Corely.Billing.CompiledModel.MsSql](https://www.nuget.org/packages/Corely.Billing.CompiledModel.MsSql) | 5.1.0 | Corely.Billing.CompiledModel.… | Corely.Billing's Entity Framework model built ahead of time for SQL Server, so… |
-| 2026-11-07 00:09:57 | [Corely.Billing.CompiledModel.MySql](https://www.nuget.org/packages/Corely.Billing.CompiledModel.MySql) | 5.1.0 | Corely.Billing.CompiledModel.… | Corely.Billing's Entity Framework model built ahead of time for MySQL and Maria… |
+| 2026-11-07 00:46:01 | [ScuroGuardiano.Slugify](https://www.nuget.org/packages/ScuroGuardiano.Slugify) | 1.0.0 | ScuroGuardiano | Package for converting arbitrary text to url friendly slug |
+| 2026-11-07 00:48:18 | [Clarity.Audio](https://www.nuget.org/packages/Clarity.Audio) | 0.83.0 | Peter van de Pas | Clarity.Audio for C#: plays the songs (mp3, flac, wav, ogg) of applications gen… |
+| 2026-11-07 00:54:36 | [Axiom.LDB.Migration](https://www.nuget.org/packages/Axiom.LDB.Migration) | 0.1.0 | DeadMoon0 | Part of the Axiom family. Schema migrations for LDB tables: add, drop, rename a… |
+| 2026-11-07 01:06:45 | [WumxLabs.NoxAeApi](https://www.nuget.org/packages/WumxLabs.NoxAeApi) | 0.7.1 | Wumx Labs,NoxAeApi Contributo… | Official C# / .NET SDK for NoxAeApi Minecraft REST API suite and Velocity Netwo… |
 
 ## Data source
 
