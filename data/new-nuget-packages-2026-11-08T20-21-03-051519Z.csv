@@ -1,0 +1,65 @@
+created_at,package,version,authors,description
+2026-11-08T19:18:57.46Z,TarsSdk,0.2.0,Legendari,"Client SDK for TARS — the self-hosted managed-agents platform (agents, durable sessions, streaming turns, client-executed tools, files)."
+2026-11-08T19:28:32.66Z,Tessaro.Optional,0.0.1,Igor Tessaro,"Java's Optional, the .NET way: model absence explicitly with a fluent, zero-dependency API."
+2026-11-08T19:32:57.13Z,ATK.Command.Explorer,0.1.0,Alexander Tkacuk,"Stellt die Metadaten aller Commands einer WebApi als HTTP-Endpunkt bereit. Das Swashbuckle-Pendant für command-basierte APIs: liefert Beschreibung, Properties, Autorisierung und JSON-Schema pro Command."
+2026-11-08T19:42:59.63Z,Binbuy.Payments,0.1.0,bgunnarsson,"Payment methods, the gateway contract, attempts, the transaction ledger and the webhook inbox."
+2026-11-08T19:43:00.2Z,Binbuy.Client,0.1.0,bgunnarsson,A typed HTTP client implementing the Binbuy.Contracts admin interfaces against a remote Binbuy core.
+2026-11-08T19:43:00.81Z,Binbuy.Payments.Straumur,0.1.0,bgunnarsson,The Straumur hosted checkout payment gateway.
+2026-11-08T19:43:01.5Z,Binbuy.Persistence.SqlServer,0.1.0,bgunnarsson,SQL Server migrations and connection settings for the Binbuy database.
+2026-11-08T19:43:02.03Z,Binbuy.Shipping.Easyship,0.1.0,bgunnarsson,"Easyship shipping aggregator over its public API: rates, booking with labels, label re-fetch, tracking, lookup and cancellation, for couriers linked to an Iceland-origin account."
+2026-11-08T19:43:02.627Z,Binbuy.Integrations,0.1.0,bgunnarsson,"Search indexing, marketing and analytics dispatch, outgoing webhooks and receipt printing: outbox consumers, the contracts their providers implement, and the printer protocol."
+2026-11-08T19:43:03.167Z,Binbuy.Shipping.DhlExpress,0.1.0,bgunnarsson,"DHL Express shipping carrier over the MyDHL API: live rates, booking with labels and customs invoices, and tracking."
+2026-11-08T19:43:03.75Z,Binbuy.Persistence.PostgreSql,0.1.0,bgunnarsson,PostgreSQL migrations and connection settings for the Binbuy database.
+2026-11-08T19:43:04.167Z,Exceptionable,0.1.0,Exceptionable,Public attributes for declaring exception contracts.
+2026-11-08T19:43:04.303Z,Binbuy.Kernel,0.1.0,bgunnarsson,"Money, currency, rounding, tax maths, ids, context and results shared by every module."
+2026-11-08T19:43:04.74Z,Exceptionable.Analyzers,0.1.0,Exceptionable,Roslyn analyzer for Exceptionable exception contracts.
+2026-11-08T19:43:04.91Z,Binbuy.Shipping.Flytjandi,0.1.0,bgunnarsson,"Flytjandi (Eimskip domestic freight) as a manually fulfilled carrier with configured services, rates and a tracking link."
+2026-11-08T19:43:05.39Z,Binbuy.Cart,0.1.0,bgunnarsson,"Carts: token identity, merge on login, linked lines, custom data, re-pricing with warnings, and the abandoned-cart job."
+2026-11-08T19:43:05.91Z,Binbuy.Pricing,0.1.0,bgunnarsson,"Tax classes and rates, price lists, the price resolution pipeline and order totals."
+2026-11-08T19:43:06.367Z,Binbuy.Hosting,0.1.0,bgunnarsson,"AddBinbuy() and MapBinbuy(): registers every module and maps the Binbuy APIs, for the standalone host and the Umbraco package."
+2026-11-08T19:43:06.97Z,Binbuy.Accounting.Dk,0.1.0,bgunnarsson,"DK (dkPlus) accounting connector: invoices and credit notes with unique references, lookup by reference, customers, products, stock and groups."
+2026-11-08T19:43:07.46Z,Binbuy.Checkout,0.1.0,bgunnarsson,"Checkout sessions: validation pipeline, frozen order snapshot, stock and discount holds, payment start, return URLs and expiry."
+2026-11-08T19:43:08.037Z,Binbuy.Shipping.Posturinn,0.1.0,bgunnarsson,"Pósturinn (Icelandic Post) shipping carrier: services, prices, pickup points, booking, labels and tracking."
+2026-11-08T19:43:08.607Z,Binbuy.Accounting.BusinessCentral,0.1.0,bgunnarsson,"Microsoft Dynamics 365 Business Central accounting connector over API v2.0: sales invoices, orders and credit memos found by external document number, customers, items, stock, codes and invoice PDFs."
+2026-11-08T19:43:09.197Z,Binbuy.Marketing.Mailchimp,0.1.0,bgunnarsson,"Mailchimp e-commerce: paid orders with their products and customer, refunds, cancellations and shipping, attributed to the campaign that brought the customer."
+2026-11-08T19:43:09.77Z,Binbuy.Shipping.DhlLocationFinder,0.1.0,bgunnarsson,"DHL service points from the DHL Location Finder API, offered as a pickup shipping method shipped by hand."
+2026-11-08T19:43:10.293Z,Binbuy.Catalog,0.1.0,bgunnarsson,"Categories, products, variant groups and variants, translations, per-store overrides, the route table, imports and search."
+2026-11-08T19:43:10.813Z,Binbuy.Shipping.Bring,0.1.0,bgunnarsson,"Bring shipping carrier over the Mybring APIs: Shipping Guide rates, pickup points, booking with labels, and tracking."
+2026-11-08T19:43:11.377Z,Binbuy.Payments.Netgiro,0.1.0,bgunnarsson,Netgíró invoice and instalment payments through the Netgíró hosted payment page with server confirmation.
+2026-11-08T19:43:11.937Z,Binbuy.Marketing.Meta,0.1.0,bgunnarsson,"Meta Conversions API: purchases and cart events sent server-side with hashed customer data, deduplicated against the browser pixel by event id."
+2026-11-08T19:43:12.48Z,Binbuy.Customers,0.1.0,bgunnarsson,"Customers, addresses, groups, consent, shopper sign-in and GDPR export and erasure."
+2026-11-08T19:43:13.013Z,Binbuy.Platform,0.1.0,bgunnarsson,"Outbox, job leases, audit log, idempotency, admin identity, RBAC and API conventions."
+2026-11-08T19:43:13.473Z,Binbuy.Stores,0.1.0,bgunnarsson,"Stores, locales, currencies, countries, zones and per-request store resolution."
+2026-11-08T19:43:14.05Z,Binbuy.Notifications,0.1.0,bgunnarsson,"Customer and staff emails from outbox events: Scriban templates per store and locale, a mail sender abstraction with SMTP, and a delivery log."
+2026-11-08T19:43:14.653Z,Binbuy.Search.Algolia,0.1.0,bgunnarsson,"Algolia search: products and categories indexed per store, locale and currency from catalog events, storefront search through Algolia, and Insights click, view and conversion events."
+2026-11-08T19:43:15.17Z,Binbuy.Payments.Adyen,0.1.0,bgunnarsson,The Adyen Checkout hosted payment gateway.
+2026-11-08T19:43:15.793Z,Binbuy.Umbraco.U17,0.1.0,bgunnarsson,"Binbuy for Umbraco 17: embedded or remote Binbuy, catalog sync, routing, Delivery API references, Binbuy section, dashboards and picker UIs."
+2026-11-08T19:43:16.34Z,Binbuy.B2B,0.1.0,bgunnarsson,"B2B: companies with members and roles, quotes with negotiated prices that check out through the normal cart, and ordering on account against a company credit limit."
+2026-11-08T19:43:16.897Z,Binbuy.Shipping,0.1.0,bgunnarsson,"Shipping methods, rating, the carrier contract, shipments and tracking."
+2026-11-08T19:43:17.48Z,Binbuy.Promotions,0.1.0,bgunnarsson,"Discounts, coupons, code generation, atomic redemption, the quantity allocator and stacking."
+2026-11-08T19:43:18.013Z,Binbuy.Inventory,0.1.0,bgunnarsson,"Stock locations, stock items, movements, reservations with expiry, buffers and backorders."
+2026-11-08T19:43:18.617Z,Binbuy.Payments.Teya,0.1.0,bgunnarsson,"Teya (ex-Borgun) SecurePay hosted payment page with the RPG API, and Teya Hosted Checkout with Card on File on the online payments platform."
+2026-11-08T19:43:19.153Z,Binbuy.Persistence,0.1.0,bgunnarsson,"The one DbContext, naming conventions, SQL dialects and conditional-update helpers."
+2026-11-08T19:43:19.66Z,Binbuy.Marketing.Klaviyo,0.1.0,bgunnarsson,"Klaviyo: order and cart events for flows, and email list subscription when the customer opts in."
+2026-11-08T19:43:20.183Z,Binbuy.Shipping.Dropp,0.1.0,bgunnarsson,"Dropp parcel lockers and home delivery in Iceland, as a shipping carrier."
+2026-11-08T19:43:20.737Z,Binbuy.Contracts,0.1.0,bgunnarsson,"The admin service interfaces and their request and response types, used by CMS adapters in-process or through Binbuy.Client."
+2026-11-08T19:43:21.353Z,Binbuy.Marketing.Ga4,0.1.0,bgunnarsson,"Google Analytics 4 over the Measurement Protocol: purchases, refunds and cart events sent server-side with the storefront's client id."
+2026-11-08T19:43:21.907Z,Binbuy.Umbraco.U18,0.1.0,bgunnarsson,"Binbuy for Umbraco 18: embedded or remote Binbuy, catalog sync, routing, Delivery API references, Binbuy section, dashboards and picker UIs."
+2026-11-08T19:43:22.43Z,Binbuy.Payments.Stripe,0.1.0,bgunnarsson,The Stripe Checkout payment gateway.
+2026-11-08T19:43:22.99Z,Binbuy.Persistence.Sqlite,0.1.0,bgunnarsson,SQLite migrations and connection settings for the Binbuy database.
+2026-11-08T19:43:23.573Z,Binbuy.Shipping.PostNord,0.1.0,bgunnarsson,"PostNord shipping carrier: service points, EDI booking with PDF labels, and tracking."
+2026-11-08T19:43:24.18Z,Binbuy.Payments.SiminnPay,0.1.0,bgunnarsson,The Síminn Pay push-to-phone payment gateway.
+2026-11-08T19:43:24.717Z,Binbuy.Accounting,0.1.0,bgunnarsson,"Accounting and ERP exports: a frozen, ERP-neutral sales document per order and refund, an export ledger with reconciliation by reference, and the connector contract ERP providers implement."
+2026-11-08T19:43:25.287Z,Binbuy.Payments.TeyaLoans,0.1.0,bgunnarsson,The Teya consumer loans (Borgun Consumer Loans API v3) payment gateway.
+2026-11-08T19:43:25.81Z,Binbuy.Orders,0.1.0,bgunnarsson,"Orders with order, payment and fulfilment state machines, per-store order numbers, cancellation and refunds."
+2026-11-08T19:43:26.43Z,Binbuy.Payments.Klarna,0.1.0,bgunnarsson,The Klarna Hosted Payment Page gateway.
+2026-11-08T19:43:27.017Z,Binbuy.Accounting.Payday,0.1.0,bgunnarsson,"Payday accounting connector: invoices booked or drafted with their payments, customers by kennitala, payment types and invoice PDFs."
+2026-11-08T19:43:27.593Z,Binbuy.Subscriptions,0.1.0,bgunnarsson,"Subscriptions: recurring orders on a schedule, renewed by a leased job that charges a stored card token, with retry and dunning and customer self-service."
+2026-11-08T19:43:28.213Z,Binbuy.Payments.VippsMobilePay,0.1.0,bgunnarsson,The Vipps MobilePay ePayment gateway.
+2026-11-08T19:43:28.793Z,Binbuy.Shipping.Samskip,0.1.0,bgunnarsson,"Samskip domestic freight as a manually fulfilled carrier with configured services, rates and a tracking link."
+2026-11-08T19:47:34.333Z,Averenium.Serilog.Sinks.RabbitMQ.Amqp,0.1.0-preview-01,Averenium,Serilog sink that writes log events to RabbitMQ 4.x over AMQP 1.0 using the official RabbitMQ.AMQP.Client.
+2026-11-08T19:52:34.953Z,Novolis.Cad.Drawing,2026.1.0.47,Novolis,"Avalonia-free technical drawing: orthographic projection, mesh sectioning, measurements from CadDocument + hierarchy subjects. Domain view templates stay in product hosts."
+2026-11-08T19:52:37.12Z,Novolis.Cad.Generation,2026.1.0.47,Novolis,Avalonia-free CAD model generator contract. Generators return documents and hierarchy — they do not own viewports or global sessions.
+2026-11-08T19:52:38.36Z,Novolis.Cad.Hierarchy,2026.1.0.47,Novolis,"Avalonia-free semantic CAD hierarchy: assemblies, parts, references, ownership, and representation maps. Domain classifications are metadata — not ship-specific enums."
+2026-11-08T19:52:41.19Z,Novolis.Cad.Visibility,2026.1.0.47,Novolis,Hierarchical Inherit/Visible/Hidden object visibility for CAD documents. Session-scoped; independent of viewport display modes.
+2026-11-08T20:08:10.95Z,MyPackag,1.0.0,NaziIlka,"A .NET library for simplifying microservice communication configuration using gRPC, REST, RabbitMQ and Ocelot, with automatic user context propagation."
