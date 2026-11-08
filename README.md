@@ -12,23 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 08:20 UTC
+## Latest list — 2026-11-08 09:20 UTC
 
-New packages created between 2026-11-08 07:18 UTC and 2026-11-08 08:20 UTC.
+New packages created between 2026-11-08 08:20 UTC and 2026-11-08 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T08-20-15-702418Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T09-20-45-082403Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 07:27:13 | [IraqAdminDivisions](https://www.nuget.org/packages/IraqAdminDivisions) | 1.0.1 | Ammar Kamil | Iraq's governorates, districts and sub-districts in Arabic, English and Kurdish… |
-| 2026-11-08 07:27:13 | [IraqAdminDivisions.Boundaries](https://www.nuget.org/packages/IraqAdminDivisions.Boundaries) | 1.0.1 | Ammar Kamil | Offline GPS point to Iraqi sub-district, district and governorate lookup for Ir… |
-| 2026-11-08 07:27:14 | [IraqAdminDivisions.AspNetCore](https://www.nuget.org/packages/IraqAdminDivisions.AspNetCore) | 1.0.1 | Ammar Kamil | ASP.NET Core Minimal API endpoints for IraqAdminDivisions: one call to MapIraqD… |
-| 2026-11-08 07:45:43 | [Findx.Extensions.Scheduler](https://www.nuget.org/packages/Findx.Extensions.Scheduler) | 11.1.2026.1111 | Findx.Extensions.Scheduler | Findx分布式任务调度扩展组件（Master选举 + Worker能力注册 + HTTP分发） |
-| 2026-11-08 08:01:50 | [EncompassApiRest](https://www.nuget.org/packages/EncompassApiRest) | 1.0.1 | EncompassApiRest | A .NET client for the ICE Encompass REST API, including loan contracts, standar… |
-| 2026-11-08 08:04:40 | [M0LTE.S5066.Client](https://www.nuget.org/packages/M0LTE.S5066.Client) | 0.1.0 | Tom Fanning M0LTE | A .NET client for the STANAG 5066 Edition 4 Subnetwork Interface Sublayer over… |
-| 2026-11-08 08:04:41 | [M0LTE.S5066.Host](https://www.nuget.org/packages/M0LTE.S5066.Host) | 0.1.0 | Tom Fanning M0LTE | Hosts one STANAG 5066 Edition 4 node in real time: the SIS server on TCP 5066 (… |
-| 2026-11-08 08:04:42 | [M0LTE.S5066.Core](https://www.nuget.org/packages/M0LTE.S5066.Core) | 0.1.0 | Tom Fanning M0LTE | The sans-IO core of a STANAG 5066 Edition 4 implementation: deterministic proto… |
-| 2026-11-08 08:13:20 | [Mafesoft.PlainTextReport](https://www.nuget.org/packages/Mafesoft.PlainTextReport) | 1.0.0 | Federico Mazzanti | PlainTextReport is a .NET library to generate a plain text report from a collec… |
+| 2026-11-08 08:29:25 | [CSharpUtil.Extensions](https://www.nuget.org/packages/CSharpUtil.Extensions) | 0.1.0 | Yeung | Common .NET tools and helpers |
+| 2026-11-08 08:53:22 | [Ojs.Api.Client](https://www.nuget.org/packages/Ojs.Api.Client) | 0.1.0-preview | Aldi | A .NET client library (written in VB.NET) for the Open Journal Systems (OJS) 3.… |
+| 2026-11-08 08:59:35 | [Fp.Data](https://www.nuget.org/packages/Fp.Data) | 0.2.0 | Financial Partners | Building blocks for Entity Framework Core: base entities, automatic auditing an… |
+| 2026-11-08 09:16:06 | [JyunoSdk](https://www.nuget.org/packages/JyunoSdk) | 0.2.0 | jyunrcaea | Jyuno SDK: 대화형 Jyuno 프롬프트, 스크립트 실행/검사, Native JS(JavaScript) 변환, 그리고 Jyuno 언어 서… |
 
 ## Data source
 

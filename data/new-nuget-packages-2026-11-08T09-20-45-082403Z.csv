@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-08T08:29:25.897Z,CSharpUtil.Extensions,0.1.0,Yeung,Common .NET tools and helpers
+2026-11-08T08:53:22.333Z,Ojs.Api.Client,0.1.0-preview,Aldi,"A .NET client library (written in VB.NET) for the Open Journal Systems (OJS) 3.5 REST API: submissions, publications, issues, users, contexts, DOIs, statistics and more."
+2026-11-08T08:59:35.917Z,Fp.Data,0.2.0,Financial Partners,"Building blocks for Entity Framework Core: base entities, automatic auditing and soft delete through interceptors, optimistic concurrency, paging and model conventions."
+2026-11-08T09:16:06.147Z,JyunoSdk,0.2.0,jyunrcaea,"Jyuno SDK: 대화형 Jyuno 프롬프트, 스크립트 실행/검사, Native JS(JavaScript) 변환, 그리고 Jyuno 언어 서버(LSP)를 제공하는 jyuno 명령어입니다."
