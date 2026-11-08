@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-08T15:36:08.453Z,PayChangu.NET,0.1.0,PayChangu.NET Contributors,"A strongly typed .NET SDK for integrating with the PayChangu payment gateway, supporting Standard Checkout, Direct Charges, transaction verification, payouts, wallet balances, and webhook signature validation."
+2026-11-08T15:49:30.813Z,Zenvoy.Abstractions,10.0.0,Maxsud Mutalov,"Zenvoy abstractions: request, notification, stream and pipeline contracts. Reference this package from domain/application libraries."
+2026-11-08T15:49:31.393Z,Zenvoy,10.0.0,Maxsud Mutalov,"Zenvoy: a high-performance, zero-allocation, reflection-free mediator powered by a C# source generator. Native AOT and trimming friendly."
+2026-11-08T15:54:57.167Z,AgentSpace.SDK,0.1.0,Jihad Khawaja,"Embeddable .NET workspaces for agents with policy-controlled storage, memory, and execution."
+2026-11-08T15:55:35.963Z,KeelMatrix.KeyRingGuard,0.1.0,KeelMatrix,"Prove ASP.NET Core Data Protection key continuity, sharing, rotation, and isolation before deployment."
+2026-11-08T16:11:00.61Z,Belin.Should,2026.11.0,CedX,A thin BDD wrapper around MSTest assertions.
