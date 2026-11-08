@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-08T09:45:22.367Z,LFDCC.IEC60870.CS103,6.1.0,LFDCC,"IEC 60870-5-103 (DL/T 667-1999) protective equipment protocol library: native FT1.2 framing over TCP/serial, client/server, fully async, TouchSocket-based, vendor-private type extensions. Self-contained — no dependency on IEC60870.Core."
+2026-11-08T10:04:17.39Z,BaryoDev.Umbraco.Comments,0.1.0,BaryoDev,"Moderated comments for Umbraco 17. Plain text, pending by default, works without JavaScript, with a backoffice queue to approve, mark spam or delete."
+2026-11-08T10:04:26.733Z,BaryoDev.Umbraco.SocialPost,0.1.0,BaryoDev,"Post published Umbraco 17 content to LinkedIn, Bluesky and Mastodon from a retrying queue, with a backoffice dashboard."
+2026-11-08T10:11:16.043Z,monorepo-dotnet,0.1.0,Trần Gia Phúc,"Interactive generator for ASP.NET Core solutions (DDD, Clean, 1-Layer, MVC) with PostgreSQL, EF Core and Docker."
+2026-11-08T10:13:08.397Z,BaryoDev.Umbraco.Analytics,0.1.0,BaryoDev,"Cookie-free page view analytics for Umbraco 17, stored in the site's own database. No second database, no raw IP or User-Agent kept."
+2026-11-08T10:13:08.767Z,BaryoDev.Umbraco.RelatedPosts,0.1.0,BaryoDev,"Read next related posts for Umbraco 17: shared tags, category and optional text similarity, cached, with a view component and a JSON endpoint."
+2026-11-08T10:13:10.86Z,BaryoDev.Umbraco.ShareLike,0.1.0,BaryoDev,"Share buttons, a rate-limited like count and reading time for Umbraco 17, with a most-liked dashboard."
