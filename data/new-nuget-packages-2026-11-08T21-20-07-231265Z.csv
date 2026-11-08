@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-08T20:27:56.23Z,SkiaGameRendering.Brutal.OGL,0.22.0,SkiaGameRendering.Brutal.OGL,"GPU SkiaSharp rendering into an OpenGL texture for BRUTAL apps (OpenGL 3.3+), with no CPU readback."
+2026-11-08T20:46:13.593Z,GM.FileStorage.Catalog.Scheduling,4.3.0,Giorgi Metskhvarishvili,"Scheduled jobs for GM.FileStorage.Catalog on GM.Scheduling: delete the bytes queued for cleanup (every minute), purge files deleted longer ago than a retention period (hourly), and check stored bytes against their records (every 5 minutes). One call registers them for your app's stored-file and cle…"
+2026-11-08T20:47:59.75Z,UseAllBusiness.Ui.Controls,1.0.0,Agostinho Marcos Garcia Silvestre,Ui Controls Enterprise - Single package containing the entire ecosystem of UI Controls
+2026-11-08T20:49:36.987Z,LanQueue,0.2.0,Jason Wood,"Headless, capability-routed job runner for your own LAN machines: key-only SSH, allowlisted commands, per-job git worktrees."
+2026-11-08T21:02:52.623Z,E2E.Expo,0.9.0,hardkoded,Expo Simulators (hosted iOS and Android simulators) for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-11-08T21:02:53.98Z,E2E.GitHub,0.9.0,hardkoded,GitHub pull request comment reporter for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-11-08T21:02:56.313Z,E2E.Acp,0.9.0,hardkoded,"Runs agent steps on any coding agent that speaks the Agent Client Protocol, for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product."
+2026-11-08T21:02:58.223Z,E2E.BrowserStack,0.9.0,hardkoded,BrowserStack App Automate real iOS and Android devices for the community .NET port of the e2e agentic testing framework. Not an official TesterArmy product.
+2026-11-08T21:04:43.543Z,NetEvolve.Pulse.AspNetCore.Grpc,0.84.106,"NetEvolve, samtrion","ASP.NET Core gRPC integration for the Pulse CQRS mediator. Provides the PulseGrpcStreamService base class that forwards server-streaming RPCs to IMediator.StreamQueryAsync, writing every yielded item to the IServerStreamWriter with full client cancellation support, and the MapStreamQueryGrpc extens…"
+2026-11-08T21:07:05.61Z,Kea.IpAudit.NetMQ,1.0.2,Solvation,"Typed, schema-validated ZeroMQ lease event consumers for the Kea IP Audit hook."
