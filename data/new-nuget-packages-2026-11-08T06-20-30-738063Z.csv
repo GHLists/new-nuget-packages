@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-08T05:25:44.627Z,UtilityDelta.Honest.Runtime,1.0.0,Tyson Brown,"Result<T,E> and Panic: errors as values, and a FailFast abort for unrecoverable invariants. The runtime half of UtilityDelta.Honest.Analyzers."
+2026-11-08T05:25:45.22Z,UtilityDelta.Honest.Analyzers,1.0.0,Tyson Brown,"Roslyn analyzers that ban properties, throw, implicit operators and dynamic, so cost and control flow stay visible at the call site. HON001 ships a property-to-field code fix."
+2026-11-08T05:31:16.433Z,DbTest.MsSql.Dacpac,0.3.0,dbaitest,Deploys a SQL Server .dacpac (an SSDT / Microsoft.Build.Sql database project) into the DbTest container through DacFx.
+2026-11-08T05:41:16.753Z,KeelMatrix.ForwardTrust,0.1.0,KeelMatrix,Verify ASP.NET Core forwarded-header trust behavior with executable integration-test scenarios.
+2026-11-08T05:44:28.39Z,Simulacra.Isolation,0.17.0,Niklas Wendel,"Simulacra.Isolation - simulate non-virtual members, sealed classes and statics with Simulacra, through a profiler that attaches itself to the test process"
+2026-11-08T05:50:44.927Z,KeelMatrix.AiToolContract,0.1.0,KeelMatrix,Baseline and compatibility-check the model-visible contracts of Microsoft.Extensions.AI tools.
+2026-11-08T05:57:44.01Z,Twip.WinForms,0.1.0,Jackson Casey,A WinForms DocumentEditor control over Twip.Core.
+2026-11-08T05:57:45.64Z,Twip.Core,0.1.0,Jackson Casey,".NET SDK for the twip DOCX layout, editing and rendering engine. Native AOT compatible."
+2026-11-08T06:09:24.167Z,nextorm.extensions,1.0.9-rc5,Alexey Shirshov,"Public query-component extensions for Nextorm, including SelectWhereMinEx and SelectWhereMaxEx implemented entirely on the public IQueryComponent layer."
