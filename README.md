@@ -12,17 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 07:18 UTC
+## Latest list — 2026-11-08 08:20 UTC
 
-New packages created between 2026-11-08 06:20 UTC and 2026-11-08 07:18 UTC.
+New packages created between 2026-11-08 07:18 UTC and 2026-11-08 08:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T07-18-51-370848Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T08-20-15-702418Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 06:27:39 | [FlowOnRails.AspNetCore](https://www.nuget.org/packages/FlowOnRails.AspNetCore) | 0.1.0 | alguem5381 | ASP.NET Core integration for FlowOnRails with scoped error visibility, generate… |
-| 2026-11-08 06:42:21 | [T.Molodoy.MviCore.Net](https://www.nuget.org/packages/T.Molodoy.MviCore.Net) | 0.0.1 | T.Molodoy | A simplified single-threaded MVICore implementation built on R3. |
-| 2026-11-08 06:43:16 | [Asyntai.Sitefinity.AiChatbot](https://www.nuget.org/packages/Asyntai.Sitefinity.AiChatbot) | 1.0.0 | Asyntai | Adds the Asyntai AI chat assistant to every public page of your Sitefinity CMS… |
+| 2026-11-08 07:27:13 | [IraqAdminDivisions](https://www.nuget.org/packages/IraqAdminDivisions) | 1.0.1 | Ammar Kamil | Iraq's governorates, districts and sub-districts in Arabic, English and Kurdish… |
+| 2026-11-08 07:27:13 | [IraqAdminDivisions.Boundaries](https://www.nuget.org/packages/IraqAdminDivisions.Boundaries) | 1.0.1 | Ammar Kamil | Offline GPS point to Iraqi sub-district, district and governorate lookup for Ir… |
+| 2026-11-08 07:27:14 | [IraqAdminDivisions.AspNetCore](https://www.nuget.org/packages/IraqAdminDivisions.AspNetCore) | 1.0.1 | Ammar Kamil | ASP.NET Core Minimal API endpoints for IraqAdminDivisions: one call to MapIraqD… |
+| 2026-11-08 07:45:43 | [Findx.Extensions.Scheduler](https://www.nuget.org/packages/Findx.Extensions.Scheduler) | 11.1.2026.1111 | Findx.Extensions.Scheduler | Findx分布式任务调度扩展组件（Master选举 + Worker能力注册 + HTTP分发） |
+| 2026-11-08 08:01:50 | [EncompassApiRest](https://www.nuget.org/packages/EncompassApiRest) | 1.0.1 | EncompassApiRest | A .NET client for the ICE Encompass REST API, including loan contracts, standar… |
+| 2026-11-08 08:04:40 | [M0LTE.S5066.Client](https://www.nuget.org/packages/M0LTE.S5066.Client) | 0.1.0 | Tom Fanning M0LTE | A .NET client for the STANAG 5066 Edition 4 Subnetwork Interface Sublayer over… |
+| 2026-11-08 08:04:41 | [M0LTE.S5066.Host](https://www.nuget.org/packages/M0LTE.S5066.Host) | 0.1.0 | Tom Fanning M0LTE | Hosts one STANAG 5066 Edition 4 node in real time: the SIS server on TCP 5066 (… |
+| 2026-11-08 08:04:42 | [M0LTE.S5066.Core](https://www.nuget.org/packages/M0LTE.S5066.Core) | 0.1.0 | Tom Fanning M0LTE | The sans-IO core of a STANAG 5066 Edition 4 implementation: deterministic proto… |
+| 2026-11-08 08:13:20 | [Mafesoft.PlainTextReport](https://www.nuget.org/packages/Mafesoft.PlainTextReport) | 1.0.0 | Federico Mazzanti | PlainTextReport is a .NET library to generate a plain text report from a collec… |
 
 ## Data source
 
