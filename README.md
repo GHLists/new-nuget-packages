@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:19 UTC
+## Latest list — 2026-11-08 17:19 UTC
 
-New packages created between 2026-11-08 15:21 UTC and 2026-11-08 16:19 UTC.
+New packages created between 2026-11-08 16:19 UTC and 2026-11-08 17:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T16-19-42-71286Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T17-19-31-857958Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 15:36:08 | [PayChangu.NET](https://www.nuget.org/packages/PayChangu.NET) | 0.1.0 | PayChangu.NET Contributors | A strongly typed .NET SDK for integrating with the PayChangu payment gateway, s… |
-| 2026-11-08 15:49:30 | [Zenvoy.Abstractions](https://www.nuget.org/packages/Zenvoy.Abstractions) | 10.0.0 | Maxsud Mutalov | Zenvoy abstractions: request, notification, stream and pipeline contracts. Refe… |
-| 2026-11-08 15:49:31 | [Zenvoy](https://www.nuget.org/packages/Zenvoy) | 10.0.0 | Maxsud Mutalov | Zenvoy: a high-performance, zero-allocation, reflection-free mediator powered b… |
-| 2026-11-08 15:54:57 | [AgentSpace.SDK](https://www.nuget.org/packages/AgentSpace.SDK) | 0.1.0 | Jihad Khawaja | Embeddable .NET workspaces for agents with policy-controlled storage, memory, a… |
-| 2026-11-08 15:55:35 | [KeelMatrix.KeyRingGuard](https://www.nuget.org/packages/KeelMatrix.KeyRingGuard) | 0.1.0 | KeelMatrix | Prove ASP.NET Core Data Protection key continuity, sharing, rotation, and isola… |
-| 2026-11-08 16:11:00 | [Belin.Should](https://www.nuget.org/packages/Belin.Should) | 2026.11.0 | CedX | A thin BDD wrapper around MSTest assertions. |
+| 2026-11-08 16:20:48 | [GM.FileStorage.Catalog](https://www.nuget.org/packages/GM.FileStorage.Catalog) | 4.1.0 | Giorgi Metskhvarishvili | Workflows for keeping GM.FileStorage files in your database: deleting the bytes… |
+| 2026-11-08 16:31:22 | [Forge.Next.LocalWebShell](https://www.nuget.org/packages/Forge.Next.LocalWebShell) | 1.0.0 | Zoltan Juhasz | Runs an ASP.NET Core app (for example Blazor Server) as a local tool in the use… |
+| 2026-11-08 16:38:51 | [perugius-core-contracts](https://www.nuget.org/packages/perugius-core-contracts) | 1.0.0 | core-contracts | Package Description |
+| 2026-11-08 16:56:45 | [AdaskoTheBeAsT.Typewriter.CodeModel](https://www.nuget.org/packages/AdaskoTheBeAsT.Typewriter.CodeModel) | 4.16.0 | AdaskoTheBeAsT | CodeModel contracts, configuration, and helper extensions for Typewriter .tst t… |
+| 2026-11-08 17:04:12 | [MMCA.Common.Passkeys](https://www.nuget.org/packages/MMCA.Common.Passkeys) | 1.281.0 | Ivan Ball | MMCA framework: opt-in passkey (WebAuthn) sign-in and second factor. Verifies r… |
+| 2026-11-08 17:05:29 | [NumSharp.Interop.MLNet](https://www.nuget.org/packages/NumSharp.Interop.MLNet) | 0.80.0 | Eli Belash, Haiping Chen, Mei… | Interop between NumSharp NDArray and ML.NET (Microsoft.ML) data. Expose an NDAr… |
+| 2026-11-08 17:05:31 | [NumSharp.Interop.OnnxRuntime](https://www.nuget.org/packages/NumSharp.Interop.OnnxRuntime) | 0.80.0 | Eli Belash, Haiping Chen, Mei… | Zero-copy interop between NumSharp NDArray and ONNX Runtime (Microsoft.ML.OnnxR… |
+| 2026-11-08 17:05:35 | [NumSharp.Interop.System.Numerics.Tensors](https://www.nuget.org/packages/NumSharp.Interop.System.Numerics.Tensors) | 0.80.0 | Eli Belash, Haiping Chen, Mei… | Zero-copy interop between NumSharp NDArray and System.Numerics.Tensors (Tensor<… |
+| 2026-11-08 17:06:48 | [Tapis.Core.Push](https://www.nuget.org/packages/Tapis.Core.Push) | 1.0.0 | Tapis Organization | Tapis.Core FCM HTTP v1 push bildirimi göndericisi (kalıcılık yok). Publicly dis… |
 
 ## Data source
 
