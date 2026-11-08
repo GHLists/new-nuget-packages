@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-08T02:26:43.933Z,SankhyaAPI.Client.Testing,6.0.0,samueldias21,"Servidor fake do Sankhya (WireMock) e utilitários de teste para integrações com o SankhyaAPI.Client, sem precisar de um Sankhya real."
+2026-11-08T02:41:30.2Z,DbTest.MSTest,0.2.0,dbaitest,"MSTest integration for DbTest: a base class that shares one container per engine across the run, checks the shape guard after every test and records per-test timings."
+2026-11-08T02:53:24.67Z,T.Molodoy.SharpExtensions.R3,0.0.1,T. Molodoy,"RxJava-style Single and Completable types and extension operators for R3, with async/await and cancellation support."
+2026-11-08T03:11:38.223Z,Signingflow,0.1.0,Signingflow,"Signingflow API client for sending a document, reading envelope status, and verifying webhooks."
+2026-11-08T03:14:25.173Z,RealtimeStack.Plugins.Logging,2.0.3-beta,RealtimeStack Contributors,Shared provider-neutral error handling and registration for RealtimeStack logging plugins.
+2026-11-08T03:14:26.473Z,RealtimeStack.Plugins.Bugsnag,2.0.3-beta,RealtimeStack Contributors,Bugsnag error reporting adapter for RealtimeStack.Plugins.Logging.
+2026-11-08T03:14:27.747Z,RealtimeStack.Plugins.Serilog,2.0.3-beta,RealtimeStack Contributors,Serilog error reporting adapter for RealtimeStack.Plugins.Logging.
+2026-11-08T03:14:29.07Z,RealtimeStack.Plugins.Log4net,2.0.3-beta,RealtimeStack Contributors,Log4net error reporting adapter for RealtimeStack.Plugins.Logging.
