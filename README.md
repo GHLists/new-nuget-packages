@@ -12,25 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 11:20 UTC
+## Latest list — 2026-11-08 12:20 UTC
 
-New packages created between 2026-11-08 10:19 UTC and 2026-11-08 11:20 UTC.
+New packages created between 2026-11-08 11:20 UTC and 2026-11-08 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T11-20-50-561861Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T12-20-36-517377Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 10:20:37 | [etunnel](https://www.nuget.org/packages/etunnel) | 1.0.0 | etunnel authors | Expose a local service through an etunnel reverse-tunnel server with one line o… |
-| 2026-11-08 10:22:03 | [KitStack.Storage.Abstractions](https://www.nuget.org/packages/KitStack.Storage.Abstractions) | 0.3.2 | ghaith100994 | Storage interfaces, models and the shared provider pipeline for KitStack.Storag… |
-| 2026-11-08 10:22:04 | [KitStack.Storage.AspNetCore](https://www.nuget.org/packages/KitStack.Storage.AspNetCore) | 0.3.2 | ghaith100994 | ASP.NET Core integration for KitStack.Storage: an authorised file-download endp… |
-| 2026-11-08 10:22:08 | [KitStack.Storage.Fakes](https://www.nuget.org/packages/KitStack.Storage.Fakes) | 0.3.2 | ghaith100994 | In-memory fake storage provider for KitStack.Storage used for tests and local d… |
-| 2026-11-08 10:28:45 | [Interlink.Extensions.Telemetry](https://www.nuget.org/packages/Interlink.Extensions.Telemetry) | 1.7.0 | Manojbabu | OpenTelemetry-style Activity instrumentation for Interlink mediator requests, s… |
-| 2026-11-08 10:33:04 | [OssmSharp.Runtime.Oem](https://www.nuget.org/packages/OssmSharp.Runtime.Oem) | 0.1.0 | OssmSharp contributors | Bluetooth discovery and control for OSSM devices on Windows and macOS. Includes… |
-| 2026-11-08 10:37:16 | [Morph.Email](https://www.nuget.org/packages/Morph.Email) | 1.24.0 | https://github.com/Papyrine/M… | Converts email (.eml and Outlook .msg) to PDF with Morph: the sender, recipient… |
-| 2026-11-08 11:14:30 | [TouchKeyboard.Ime.Pinyin.Extended](https://www.nuget.org/packages/TouchKeyboard.Ime.Pinyin.Extended) | 0.2.0 | TouchKeyboard contributors | Optional extended pinyin lexicon for TouchKeyboard.Ime.Pinyin: about 100k commo… |
-| 2026-11-08 11:14:30 | [TouchKeyboard.Ime.Pinyin](https://www.nuget.org/packages/TouchKeyboard.Ime.Pinyin) | 0.2.0 | TouchKeyboard contributors | Optional managed pinyin IME for TouchKeyboard: full pinyin, word/sentence segme… |
-| 2026-11-08 11:14:31 | [TouchKeyboard.Avalonia](https://www.nuget.org/packages/TouchKeyboard.Avalonia) | 0.2.0 | TouchKeyboard contributors | Avalonia frontend for TouchKeyboard: overlay host, keys, editor surface and con… |
-| 2026-11-08 11:14:32 | [TouchKeyboard.Core](https://www.nuget.org/packages/TouchKeyboard.Core) | 0.2.0 | TouchKeyboard contributors | Pure .NET Standard 2.0 core for the TouchKeyboard embedded keyboard: modes, pro… |
+| 2026-11-08 11:33:05 | [Poshteh.Core.ModuleKernel](https://www.nuget.org/packages/Poshteh.Core.ModuleKernel) | 10.0.2 | Poshteh | Poshteh's module descriptor/registration contract for composing bounded capabil… |
+| 2026-11-08 11:33:06 | [Poshteh.Templates](https://www.nuget.org/packages/Poshteh.Templates) | 10.0.2 | Poshteh | dotnet new templates for applications built on the Poshteh framework (DDD, CQRS… |
+| 2026-11-08 11:33:06 | [Poshteh.Testing.Kit](https://www.nuget.org/packages/Poshteh.Testing.Kit) | 10.0.2 | Poshteh | Contract-test bases and in-memory port implementations for consumers' own test… |
+| 2026-11-08 11:33:07 | [Poshteh.Infra.Data.Sql.Query](https://www.nuget.org/packages/Poshteh.Infra.Data.Sql.Query) | 10.0.2 | Poshteh | Poshteh's EF Core no-tracking read-side persistence adapter: BaseQueryDbContext… |
+| 2026-11-08 11:33:08 | [Poshteh.Core.ApplicationService](https://www.nuget.org/packages/Poshteh.Core.ApplicationService) | 10.0.2 | Poshteh | Poshteh's CQRS core: command/query dispatchers, pipeline behaviors, and the in-… |
+| 2026-11-08 11:33:08 | [Poshteh.Endpoint.Api](https://www.nuget.org/packages/Poshteh.Endpoint.Api) | 10.0.2 | Poshteh | Poshteh's HTTP adapter helpers: Result-to-HTTP mapping and the global exception… |
+| 2026-11-08 11:33:09 | [Poshteh.Shared.Kernel](https://www.nuget.org/packages/Poshteh.Shared.Kernel) | 10.0.2 | Poshteh | Dependency-free shared primitives (Clock, correlation accessor) used across eve… |
+| 2026-11-08 11:33:10 | [Poshteh.Core.Domain](https://www.nuget.org/packages/Poshteh.Core.Domain) | 10.0.2 | Poshteh | Poshteh's rich domain model kernel: AggregateRoot, BaseEntity, ValueObject, Dom… |
+| 2026-11-08 11:33:11 | [Poshteh.Core.Contract](https://www.nuget.org/packages/Poshteh.Core.Contract) | 10.0.2 | Poshteh | Poshteh's ports (repositories, outbox, domain event dispatch) — the sole mediat… |
+| 2026-11-08 11:33:11 | [Poshteh.Infra.Data.Sql.Command](https://www.nuget.org/packages/Poshteh.Infra.Data.Sql.Command) | 10.0.2 | Poshteh | Poshteh's EF Core write-side persistence adapter: BaseCommandDbContext, Command… |
+| 2026-11-08 11:34:37 | [TelegramBotForge.Testing](https://www.nuget.org/packages/TelegramBotForge.Testing) | 0.2.0 | VAXA99 | Test TelegramBotForge bots without Telegram: send messages, press buttons and p… |
+| 2026-11-08 11:37:41 | [YappersHQ.HudKit.Shared](https://www.nuget.org/packages/YappersHQ.HudKit.Shared) | 1.0.0 | yappershq | Public contract (IHudKit, surfaces, templates, player card) for drawing center-… |
+| 2026-11-08 11:46:28 | [Themia.SecondFactor.PostgreSql](https://www.nuget.org/packages/Themia.SecondFactor.PostgreSql) | 0.57.2 | Sarawut Phaekuntod | PostgreSQL (15+) Dapper store + FluentMigrator runner for Themia.SecondFactor. |
+| 2026-11-08 11:46:42 | [Themia.SecondFactor](https://www.nuget.org/packages/Themia.SecondFactor) | 0.57.2 | Sarawut Phaekuntod | Themia multi-method second-factor layer — credential store contract, method str… |
+| 2026-11-08 11:48:30 | [Lengko.Chart.WinForm](https://www.nuget.org/packages/Lengko.Chart.WinForm) | 1.0.0 | LengkoDev, Cas | Modern, high-performance charting and data visualization library for Windows Fo… |
 
 ## Data source
 

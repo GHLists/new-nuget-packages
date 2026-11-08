@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-08T11:33:05.62Z,Poshteh.Core.ModuleKernel,10.0.2,Poshteh,Poshteh's module descriptor/registration contract for composing bounded capabilities across topologies.
+2026-11-08T11:33:06.307Z,Poshteh.Templates,10.0.2,Poshteh,"dotnet new templates for applications built on the Poshteh framework (DDD, CQRS, Transactional Outbox). Install with: dotnet new install Poshteh.Templates"
+2026-11-08T11:33:06.837Z,Poshteh.Testing.Kit,10.0.2,Poshteh,Contract-test bases and in-memory port implementations for consumers' own test suites.
+2026-11-08T11:33:07.55Z,Poshteh.Infra.Data.Sql.Query,10.0.2,Poshteh,Poshteh's EF Core no-tracking read-side persistence adapter: BaseQueryDbContext and the generic ReadRepository<T>.
+2026-11-08T11:33:08.313Z,Poshteh.Core.ApplicationService,10.0.2,Poshteh,"Poshteh's CQRS core: command/query dispatchers, pipeline behaviors, and the in-process domain event bus."
+2026-11-08T11:33:08.997Z,Poshteh.Endpoint.Api,10.0.2,Poshteh,Poshteh's HTTP adapter helpers: Result-to-HTTP mapping and the global exception handler.
+2026-11-08T11:33:09.72Z,Poshteh.Shared.Kernel,10.0.2,Poshteh,"Dependency-free shared primitives (Clock, correlation accessor) used across every Poshteh layer."
+2026-11-08T11:33:10.36Z,Poshteh.Core.Domain,10.0.2,Poshteh,"Poshteh's rich domain model kernel: AggregateRoot, BaseEntity, ValueObject, DomainEvent, Result/Error, IUnitOfWork."
+2026-11-08T11:33:11.087Z,Poshteh.Core.Contract,10.0.2,Poshteh,"Poshteh's ports (repositories, outbox, domain event dispatch) — the sole mediation point between Core and Infra."
+2026-11-08T11:33:11.757Z,Poshteh.Infra.Data.Sql.Command,10.0.2,Poshteh,"Poshteh's EF Core write-side persistence adapter: BaseCommandDbContext, CommandRepository<T>, UnitOfWork, transactional Outbox."
+2026-11-08T11:34:37.29Z,TelegramBotForge.Testing,0.2.0,VAXA99,"Test TelegramBotForge bots without Telegram: send messages, press buttons and pay invoices as a user, and check what the bot answered. Works with any test framework."
+2026-11-08T11:37:41.193Z,YappersHQ.HudKit.Shared,1.0.0,yappershq,"Public contract (IHudKit, surfaces, templates, player card) for drawing center-screen HTML HUDs through the HudKit ModSharp/CS2 plugin. Compile-time only — the runtime DLL is provided by HudKit via /game/sharp/shared/."
+2026-11-08T11:46:28.953Z,Themia.SecondFactor.PostgreSql,0.57.2,Sarawut Phaekuntod,PostgreSQL (15+) Dapper store + FluentMigrator runner for Themia.SecondFactor.
+2026-11-08T11:46:42.55Z,Themia.SecondFactor,0.57.2,Sarawut Phaekuntod,"Themia multi-method second-factor layer — credential store contract, method strength, per-app/per-role policy, recovery codes and federated amr helpers over Themia.WebAuthn, Themia.Totp and Themia.Challenges. No user table, transport or framework dependency."
+2026-11-08T11:48:30.13Z,Lengko.Chart.WinForm,1.0.0,"LengkoDev, Cas","Modern, high-performance charting and data visualization library for Windows Forms with zero external dependencies. Pure WinForms and GDI+ rendering with smooth anti-aliased graphics, themes, tooltips, and interactive legends."
