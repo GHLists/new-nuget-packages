@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-08T10:20:37.863Z,etunnel,1.0.0,etunnel authors,Expose a local service through an etunnel reverse-tunnel server with one line of code
+2026-11-08T10:22:03.347Z,KitStack.Storage.Abstractions,0.3.2,ghaith100994,"Storage interfaces, models and the shared provider pipeline for KitStack.Storage: read/write/delete/URL APIs, checksums, content-type resolution, upload policy, encryption at rest and file references."
+2026-11-08T10:22:04.73Z,KitStack.Storage.AspNetCore,0.3.2,ghaith100994,ASP.NET Core integration for KitStack.Storage: an authorised file-download endpoint and (opt-in) static serving for the Local provider. Provider-agnostic: it does not reference any provider SDK.
+2026-11-08T10:22:08.037Z,KitStack.Storage.Fakes,0.3.2,ghaith100994,In-memory fake storage provider for KitStack.Storage used for tests and local development.
+2026-11-08T10:28:45.21Z,Interlink.Extensions.Telemetry,1.7.0,Manojbabu,"OpenTelemetry-style Activity instrumentation for Interlink mediator requests, streams, and notifications."
+2026-11-08T10:33:04.313Z,OssmSharp.Runtime.Oem,0.1.0,OssmSharp contributors,Bluetooth discovery and control for OSSM devices on Windows and macOS. Includes the shared OssmSharp runtime contracts.
+2026-11-08T10:37:16.763Z,Morph.Email,1.24.0,https://github.com/Papyrine/Morph/graphs/contributors,"Converts email (.eml and Outlook .msg) to PDF with Morph: the sender, recipients, subject, date and attachments as a header, the body laid out as a Word document."
+2026-11-08T11:14:30.203Z,TouchKeyboard.Ime.Pinyin.Extended,0.2.0,TouchKeyboard contributors,"Optional extended pinyin lexicon for TouchKeyboard.Ime.Pinyin: about 100k common words and phrases, using the same managed engine."
+2026-11-08T11:14:30.91Z,TouchKeyboard.Ime.Pinyin,0.2.0,TouchKeyboard contributors,"Optional managed pinyin IME for TouchKeyboard: full pinyin, word/sentence segmentation, common abbreviations and a compact common lexicon."
+2026-11-08T11:14:31.547Z,TouchKeyboard.Avalonia,0.2.0,TouchKeyboard contributors,"Avalonia frontend for TouchKeyboard: overlay host, keys, editor surface and control adapters for small industrial touch screens."
+2026-11-08T11:14:32.16Z,TouchKeyboard.Core,0.2.0,TouchKeyboard contributors,"Pure .NET Standard 2.0 core for the TouchKeyboard embedded keyboard: modes, profiles, layouts, sessions and validation."
