@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-08T17:22:45.627Z,ScriptFoundry,0.1.1,Federico Alterio,Compile a restricted subset of C# into delegates with explicit type and member authorization.
+2026-11-08T17:37:24.913Z,ThunderPipe.Cli,1.0.5,WarperSan,A CLI tool for building and publishing Thunderstore packages
+2026-11-08T17:38:35.18Z,Lengko.Ribbon.WinForm,1.0.0,"LengkoDev, Cas","Modern, high-performance, and responsive Ribbon UI toolbar control for Windows Forms with open styling architecture, built-in Light, Dark, and Classic Office themes, and zero external dependencies."
+2026-11-08T17:49:54.73Z,Blink1.Api,1.0.3,Panoramic Data Limited,"A typed, modern .NET client for the ThingM blink(1) USB RGB LED: device enumeration and every firmware command (colours and fades, per-LED control, patterns and playback, server tickle, notes, startup parameters and more) for mk1, mk2, mk3 and mk4 devices on Windows, Linux and macOS."
+2026-11-08T17:51:56.037Z,Vibeniq.BaaS.Core.Testing,10.0.0.16,Vibeniq,Test-only architecture-check helpers for services built on Vibeniq.BaaS.Core (ACC-6b): fails a test when a [ProtectedEntity] type is opened through raw IMongoDatabase.GetCollection<T>() outside an allow-listed call (e.g. index creation).
+2026-11-08T17:53:39.553Z,Motorbay.Client,0.4.2,Motorbay,"C# client for the Motorbay API: Danish vehicle data from Motorstyrelsen's public weekly extract. DTOs generated from the OpenAPI document, with a small HttpClient wrapper."

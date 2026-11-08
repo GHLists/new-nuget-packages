@@ -12,23 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:19 UTC
+## Latest list — 2026-11-08 18:21 UTC
 
-New packages created between 2026-11-08 16:19 UTC and 2026-11-08 17:19 UTC.
+New packages created between 2026-11-08 17:19 UTC and 2026-11-08 18:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T17-19-31-857958Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T18-21-27-40166Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 16:20:48 | [GM.FileStorage.Catalog](https://www.nuget.org/packages/GM.FileStorage.Catalog) | 4.1.0 | Giorgi Metskhvarishvili | Workflows for keeping GM.FileStorage files in your database: deleting the bytes… |
-| 2026-11-08 16:31:22 | [Forge.Next.LocalWebShell](https://www.nuget.org/packages/Forge.Next.LocalWebShell) | 1.0.0 | Zoltan Juhasz | Runs an ASP.NET Core app (for example Blazor Server) as a local tool in the use… |
-| 2026-11-08 16:38:51 | [perugius-core-contracts](https://www.nuget.org/packages/perugius-core-contracts) | 1.0.0 | core-contracts | Package Description |
-| 2026-11-08 16:56:45 | [AdaskoTheBeAsT.Typewriter.CodeModel](https://www.nuget.org/packages/AdaskoTheBeAsT.Typewriter.CodeModel) | 4.16.0 | AdaskoTheBeAsT | CodeModel contracts, configuration, and helper extensions for Typewriter .tst t… |
-| 2026-11-08 17:04:12 | [MMCA.Common.Passkeys](https://www.nuget.org/packages/MMCA.Common.Passkeys) | 1.281.0 | Ivan Ball | MMCA framework: opt-in passkey (WebAuthn) sign-in and second factor. Verifies r… |
-| 2026-11-08 17:05:29 | [NumSharp.Interop.MLNet](https://www.nuget.org/packages/NumSharp.Interop.MLNet) | 0.80.0 | Eli Belash, Haiping Chen, Mei… | Interop between NumSharp NDArray and ML.NET (Microsoft.ML) data. Expose an NDAr… |
-| 2026-11-08 17:05:31 | [NumSharp.Interop.OnnxRuntime](https://www.nuget.org/packages/NumSharp.Interop.OnnxRuntime) | 0.80.0 | Eli Belash, Haiping Chen, Mei… | Zero-copy interop between NumSharp NDArray and ONNX Runtime (Microsoft.ML.OnnxR… |
-| 2026-11-08 17:05:35 | [NumSharp.Interop.System.Numerics.Tensors](https://www.nuget.org/packages/NumSharp.Interop.System.Numerics.Tensors) | 0.80.0 | Eli Belash, Haiping Chen, Mei… | Zero-copy interop between NumSharp NDArray and System.Numerics.Tensors (Tensor<… |
-| 2026-11-08 17:06:48 | [Tapis.Core.Push](https://www.nuget.org/packages/Tapis.Core.Push) | 1.0.0 | Tapis Organization | Tapis.Core FCM HTTP v1 push bildirimi göndericisi (kalıcılık yok). Publicly dis… |
+| 2026-11-08 17:22:45 | [ScriptFoundry](https://www.nuget.org/packages/ScriptFoundry) | 0.1.1 | Federico Alterio | Compile a restricted subset of C# into delegates with explicit type and member… |
+| 2026-11-08 17:37:24 | [ThunderPipe.Cli](https://www.nuget.org/packages/ThunderPipe.Cli) | 1.0.5 | WarperSan | A CLI tool for building and publishing Thunderstore packages |
+| 2026-11-08 17:38:35 | [Lengko.Ribbon.WinForm](https://www.nuget.org/packages/Lengko.Ribbon.WinForm) | 1.0.0 | LengkoDev, Cas | Modern, high-performance, and responsive Ribbon UI toolbar control for Windows… |
+| 2026-11-08 17:49:54 | [Blink1.Api](https://www.nuget.org/packages/Blink1.Api) | 1.0.3 | Panoramic Data Limited | A typed, modern .NET client for the ThingM blink(1) USB RGB LED: device enumera… |
+| 2026-11-08 17:51:56 | [Vibeniq.BaaS.Core.Testing](https://www.nuget.org/packages/Vibeniq.BaaS.Core.Testing) | 10.0.0.16 | Vibeniq | Test-only architecture-check helpers for services built on Vibeniq.BaaS.Core (A… |
+| 2026-11-08 17:53:39 | [Motorbay.Client](https://www.nuget.org/packages/Motorbay.Client) | 0.4.2 | Motorbay | C# client for the Motorbay API: Danish vehicle data from Motorstyrelsen's publi… |
 
 ## Data source
 
