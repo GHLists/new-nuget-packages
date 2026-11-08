@@ -12,23 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 06:20 UTC
+## Latest list — 2026-11-08 07:18 UTC
 
-New packages created between 2026-11-08 05:19 UTC and 2026-11-08 06:20 UTC.
+New packages created between 2026-11-08 06:20 UTC and 2026-11-08 07:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T06-20-30-738063Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T07-18-51-370848Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 05:25:44 | [UtilityDelta.Honest.Runtime](https://www.nuget.org/packages/UtilityDelta.Honest.Runtime) | 1.0.0 | Tyson Brown | Result<T,E> and Panic: errors as values, and a FailFast abort for unrecoverable… |
-| 2026-11-08 05:25:45 | [UtilityDelta.Honest.Analyzers](https://www.nuget.org/packages/UtilityDelta.Honest.Analyzers) | 1.0.0 | Tyson Brown | Roslyn analyzers that ban properties, throw, implicit operators and dynamic, so… |
-| 2026-11-08 05:31:16 | [DbTest.MsSql.Dacpac](https://www.nuget.org/packages/DbTest.MsSql.Dacpac) | 0.3.0 | dbaitest | Deploys a SQL Server .dacpac (an SSDT / Microsoft.Build.Sql database project) i… |
-| 2026-11-08 05:41:16 | [KeelMatrix.ForwardTrust](https://www.nuget.org/packages/KeelMatrix.ForwardTrust) | 0.1.0 | KeelMatrix | Verify ASP.NET Core forwarded-header trust behavior with executable integration… |
-| 2026-11-08 05:44:28 | [Simulacra.Isolation](https://www.nuget.org/packages/Simulacra.Isolation) | 0.17.0 | Niklas Wendel | Simulacra.Isolation - simulate non-virtual members, sealed classes and statics… |
-| 2026-11-08 05:50:44 | [KeelMatrix.AiToolContract](https://www.nuget.org/packages/KeelMatrix.AiToolContract) | 0.1.0 | KeelMatrix | Baseline and compatibility-check the model-visible contracts of Microsoft.Exten… |
-| 2026-11-08 05:57:44 | [Twip.WinForms](https://www.nuget.org/packages/Twip.WinForms) | 0.1.0 | Jackson Casey | A WinForms DocumentEditor control over Twip.Core. |
-| 2026-11-08 05:57:45 | [Twip.Core](https://www.nuget.org/packages/Twip.Core) | 0.1.0 | Jackson Casey | .NET SDK for the twip DOCX layout, editing and rendering engine. Native AOT com… |
-| 2026-11-08 06:09:24 | [nextorm.extensions](https://www.nuget.org/packages/nextorm.extensions) | 1.0.9-rc5 | Alexey Shirshov | Public query-component extensions for Nextorm, including SelectWhereMinEx and S… |
+| 2026-11-08 06:27:39 | [FlowOnRails.AspNetCore](https://www.nuget.org/packages/FlowOnRails.AspNetCore) | 0.1.0 | alguem5381 | ASP.NET Core integration for FlowOnRails with scoped error visibility, generate… |
+| 2026-11-08 06:42:21 | [T.Molodoy.MviCore.Net](https://www.nuget.org/packages/T.Molodoy.MviCore.Net) | 0.0.1 | T.Molodoy | A simplified single-threaded MVICore implementation built on R3. |
+| 2026-11-08 06:43:16 | [Asyntai.Sitefinity.AiChatbot](https://www.nuget.org/packages/Asyntai.Sitefinity.AiChatbot) | 1.0.0 | Asyntai | Adds the Asyntai AI chat assistant to every public page of your Sitefinity CMS… |
 
 ## Data source
 

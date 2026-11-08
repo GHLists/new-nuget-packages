@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-08T06:27:39.623Z,FlowOnRails.AspNetCore,0.1.0,alguem5381,"ASP.NET Core integration for FlowOnRails with scoped error visibility, generated ProblemDetails mappings and native HTTP/MVC result adapters."
+2026-11-08T06:42:21.103Z,T.Molodoy.MviCore.Net,0.0.1,T.Molodoy,A simplified single-threaded MVICore implementation built on R3.
+2026-11-08T06:43:16.467Z,Asyntai.Sitefinity.AiChatbot,1.0.0,Asyntai,"Adds the Asyntai AI chat assistant to every public page of your Sitefinity CMS website. The chatbot answers visitor questions from your own pages in more than 80 languages and collects leads. Set it up in Administration > Settings > Advanced, with multisite support."
