@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-08T14:24:00.493Z,Solhigson.Templates,10.0.0,Solhigson,"dotnet new templates for Solhigson projects. solhigson-web: a layered solution (Domain, Application, Infrastructure, Web, Tests) on Solhigson.Framework.Core, Solhigson.Analyzers and Solhigson.Testing. Its host is composed from one partial per feature (logging with redaction of classified values, se…"
+2026-11-08T14:28:01.953Z,BlackSharp.UI.Avalonia.Markdown,1.0.0,BlackSharp.UI.Avalonia.Markdown,Native Avalonia controls for viewing and editing CommonMark and GitHub Markdown with a live preview.
+2026-11-08T14:33:02.39Z,TrueDotBin.CosmosUtils,1.0.1,Demiomad,A collection of utilities for Cosmos kernels.
+2026-11-08T14:36:42.4Z,BoringSslStream,1.0.0,Vitaly Yakovlev (optinsoft),.NET TLS stream backed by BoringSSL with Chrome-like JA4 fingerprints and native HTTP/2 support.
+2026-11-08T14:39:28.96Z,KeelMatrix.FeedFence,0.1.0,KeelMatrix,"Audits effective NuGet package sources and Package Source Mapping against the resolved dependency graph. Detects ambiguous, unmapped, inherited, and unsafe restore-source policy."
+2026-11-08T14:39:32.473Z,Kreisverkehr.DvbMetadataDecoder,0.1.0,Kreisverkehr,DvbMetadataDecoder is a .NET library for decoding metadata from DVB transport streams.
+2026-11-08T14:54:00.237Z,BYFoundation.ProductUpdate,1.2.0,BYFoundation,"Product updater bridge, bilingual Windows host and installer compatibility assets for .NET Framework 4.7.2."
+2026-11-08T14:54:02.19Z,BYFoundation.ReleaseTools,1.0.1,BYFoundation,"Build and release scripts for BYFoundation products, with bounded HFS transfers and verified publication."
+2026-11-08T14:56:11.05Z,Meshmakers.Octo.Services.RestDeprecation,3.5.68,meshmakers GmbH and Contributors,"Marks REST actions deprecated with one attribute: RFC 9745/8594 headers, OpenAPI flag and a per-client usage counter"
+2026-11-08T14:59:18.24Z,DeepSeek.Decisions,1.0.6,Yue Zhishun,基于 DeepSeek API 的 Jev 和 Decisions 强类型决策客户端。
+2026-11-08T15:00:47.767Z,Dflat.Edi.ApiTask,1.7.2.90,Dflat,Plugins EDI qui exécutent les tâches planifiées d'une application par un appel signé de son API.
+2026-11-08T15:01:27.11Z,Spoleto.Edm,1.0.0,"OlegNadymov,Spoleto-Software","Electronic document management (EDM, ЭДО) with different EDM operators such as CRPT EDO Lite: universal transfer documents (УПД) of format 970, document lists and statuses"
+2026-11-08T15:01:27.803Z,Spoleto.Edm.Extensions,1.0.0,"OlegNadymov,Spoleto-Software",Registration of Spoleto.Edm service in Microsoft DependencyInjection
+2026-11-08T15:01:28.553Z,Spoleto.Edm.Extensions.TrueApi,1.0.0,"OlegNadymov,Spoleto-Software",Registration of CRPT EDO Lite provider for Spoleto.Edm in Microsoft DependencyInjection
+2026-11-08T15:01:29.24Z,Spoleto.Edm.TrueApi,1.0.0,"OlegNadymov,Spoleto-Software",CRPT EDO Lite provider (True API section 9) for Spoleto.Edm
+2026-11-08T15:02:56.053Z,OmniEurope.Diagnostics,1.0.0,OmniEurope contributors,"Minimal, unstyled ASP.NET Core diagnostics pages for the site they are mounted in: a request performance page (the slowest calls and per-route percentiles over a configurable window, with a collector memory budget of 2 MiB by default) and an application logs page over the host's Serilog JSON files…"

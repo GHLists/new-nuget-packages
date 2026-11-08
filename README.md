@@ -12,22 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 14:21 UTC
+## Latest list — 2026-11-08 15:21 UTC
 
-New packages created between 2026-11-08 13:19 UTC and 2026-11-08 14:21 UTC.
+New packages created between 2026-11-08 14:21 UTC and 2026-11-08 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T14-21-25-159804Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T15-21-25-978697Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 13:44:15 | [EventFlux.Saga](https://www.nuget.org/packages/EventFlux.Saga) | 1.0.0 | kadirkdr | Lightweight, free saga/process-manager pattern for EventFlux: in-process-first… |
-| 2026-11-08 13:44:34 | [EventFlux.Saga.Generators](https://www.nuget.org/packages/EventFlux.Saga.Generators) | 1.0.0 | kadirkdr | Compile-time saga state generation for EventFlux.Saga: turns a [SagaStateSet] e… |
-| 2026-11-08 13:44:53 | [EventFlux.Saga.Testing](https://www.nuget.org/packages/EventFlux.Saga.Testing) | 1.0.0 | kadirkdr | Given/When/Then test harness for EventFlux.Saga: unit-test saga state machines… |
-| 2026-11-08 13:45:07 | [EventFlux.Saga.EfCore](https://www.nuget.org/packages/EventFlux.Saga.EfCore) | 1.0.0 | kadirkdr | Entity Framework Core persistence for EventFlux.Saga, built on EfCore.Repositor… |
-| 2026-11-08 13:45:23 | [EventFlux.Saga.Inspector.EfCore](https://www.nuget.org/packages/EventFlux.Saga.Inspector.EfCore) | 1.0.0 | kadirkdr | Durable Entity Framework Core timeline store for the EventFlux.Saga inspector,… |
-| 2026-11-08 13:45:39 | [EventFlux.Saga.RabbitFlow](https://www.nuget.org/packages/EventFlux.Saga.RabbitFlow) | 1.0.0 | kadirkdr | RabbitMQ transport adapter for EventFlux.Saga on top of EventFlux.RabbitFlow: s… |
-| 2026-11-08 13:45:57 | [EventFlux.Saga.RedisFlow](https://www.nuget.org/packages/EventFlux.Saga.RedisFlow) | 1.0.0 | kadirkdr | Redis Streams transport adapter for EventFlux.Saga on top of EventFlux.RedisFlo… |
-| 2026-11-08 14:01:13 | [EventFlux.Saga.Inspector](https://www.nuget.org/packages/EventFlux.Saga.Inspector) | 1.0.0 | kadirkdr | Built-in observability for EventFlux.Saga: records every saga transition in a t… |
+| 2026-11-08 14:24:00 | [Solhigson.Templates](https://www.nuget.org/packages/Solhigson.Templates) | 10.0.0 | Solhigson | dotnet new templates for Solhigson projects. solhigson-web: a layered solution… |
+| 2026-11-08 14:28:01 | [BlackSharp.UI.Avalonia.Markdown](https://www.nuget.org/packages/BlackSharp.UI.Avalonia.Markdown) | 1.0.0 | BlackSharp.UI.Avalonia.Markdo… | Native Avalonia controls for viewing and editing CommonMark and GitHub Markdown… |
+| 2026-11-08 14:33:02 | [TrueDotBin.CosmosUtils](https://www.nuget.org/packages/TrueDotBin.CosmosUtils) | 1.0.1 | Demiomad | A collection of utilities for Cosmos kernels. |
+| 2026-11-08 14:36:42 | [BoringSslStream](https://www.nuget.org/packages/BoringSslStream) | 1.0.0 | Vitaly Yakovlev (optinsoft) | .NET TLS stream backed by BoringSSL with Chrome-like JA4 fingerprints and nativ… |
+| 2026-11-08 14:39:28 | [KeelMatrix.FeedFence](https://www.nuget.org/packages/KeelMatrix.FeedFence) | 0.1.0 | KeelMatrix | Audits effective NuGet package sources and Package Source Mapping against the r… |
+| 2026-11-08 14:39:32 | [Kreisverkehr.DvbMetadataDecoder](https://www.nuget.org/packages/Kreisverkehr.DvbMetadataDecoder) | 0.1.0 | Kreisverkehr | DvbMetadataDecoder is a .NET library for decoding metadata from DVB transport s… |
+| 2026-11-08 14:54:00 | [BYFoundation.ProductUpdate](https://www.nuget.org/packages/BYFoundation.ProductUpdate) | 1.2.0 | BYFoundation | Product updater bridge, bilingual Windows host and installer compatibility asse… |
+| 2026-11-08 14:54:02 | [BYFoundation.ReleaseTools](https://www.nuget.org/packages/BYFoundation.ReleaseTools) | 1.0.1 | BYFoundation | Build and release scripts for BYFoundation products, with bounded HFS transfers… |
+| 2026-11-08 14:56:11 | [Meshmakers.Octo.Services.RestDeprecation](https://www.nuget.org/packages/Meshmakers.Octo.Services.RestDeprecation) | 3.5.68 | meshmakers GmbH and Contribut… | Marks REST actions deprecated with one attribute: RFC 9745/8594 headers, OpenAP… |
+| 2026-11-08 14:59:18 | [DeepSeek.Decisions](https://www.nuget.org/packages/DeepSeek.Decisions) | 1.0.6 | Yue Zhishun | 基于 DeepSeek API 的 Jev 和 Decisions 强类型决策客户端。 |
+| 2026-11-08 15:00:47 | [Dflat.Edi.ApiTask](https://www.nuget.org/packages/Dflat.Edi.ApiTask) | 1.7.2.90 | Dflat | Plugins EDI qui exécutent les tâches planifiées d'une application par un appel… |
+| 2026-11-08 15:01:27 | [Spoleto.Edm](https://www.nuget.org/packages/Spoleto.Edm) | 1.0.0 | OlegNadymov,Spoleto-Software | Electronic document management (EDM, ЭДО) with different EDM operators such as… |
+| 2026-11-08 15:01:27 | [Spoleto.Edm.Extensions](https://www.nuget.org/packages/Spoleto.Edm.Extensions) | 1.0.0 | OlegNadymov,Spoleto-Software | Registration of Spoleto.Edm service in Microsoft DependencyInjection |
+| 2026-11-08 15:01:28 | [Spoleto.Edm.Extensions.TrueApi](https://www.nuget.org/packages/Spoleto.Edm.Extensions.TrueApi) | 1.0.0 | OlegNadymov,Spoleto-Software | Registration of CRPT EDO Lite provider for Spoleto.Edm in Microsoft DependencyI… |
+| 2026-11-08 15:01:29 | [Spoleto.Edm.TrueApi](https://www.nuget.org/packages/Spoleto.Edm.TrueApi) | 1.0.0 | OlegNadymov,Spoleto-Software | CRPT EDO Lite provider (True API section 9) for Spoleto.Edm |
+| 2026-11-08 15:02:56 | [OmniEurope.Diagnostics](https://www.nuget.org/packages/OmniEurope.Diagnostics) | 1.0.0 | OmniEurope contributors | Minimal, unstyled ASP.NET Core diagnostics pages for the site they are mounted… |
 
 ## Data source
 
