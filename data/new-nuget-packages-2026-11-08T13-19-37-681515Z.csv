@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-08T12:32:33.723Z,libusb.runtime,1.0.27,libusb project,Unofficial distribution of the libusb native runtime binaries.
+2026-11-08T12:42:15.313Z,DotNetScope,0.1.0,PersiOnOff,"Self-hosted, zero-config dev dashboard for .NET: HTTP requests, EF Core SQL, logs and exceptions in real time, grouped by request."
+2026-11-08T12:53:19.713Z,BreederData,1.0.0,BreederData,Package Description
+2026-11-08T13:09:19.667Z,AuthMesh.Cli,0.1.1,AuthMesh,CLI for managing AuthMesh applications and identities.
