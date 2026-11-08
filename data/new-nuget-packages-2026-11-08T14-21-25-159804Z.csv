@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-08T13:44:15.19Z,EventFlux.Saga,1.0.0,kadirkdr,"Lightweight, free saga/process-manager pattern for EventFlux: in-process-first execution, optional distributed transports, first-class compensating actions and isolated unit testing."
+2026-11-08T13:44:34.68Z,EventFlux.Saga.Generators,1.0.0,kadirkdr,Compile-time saga state generation for EventFlux.Saga: turns a [SagaStateSet] enum into reflection-free SagaState definitions and warns when a persisted state is removed. Requires EventFlux.Saga.
+2026-11-08T13:44:53.24Z,EventFlux.Saga.Testing,1.0.0,kadirkdr,"Given/When/Then test harness for EventFlux.Saga: unit-test saga state machines without a database, broker or DI container. Test-framework agnostic."
+2026-11-08T13:45:07.46Z,EventFlux.Saga.EfCore,1.0.0,kadirkdr,"Entity Framework Core persistence for EventFlux.Saga, built on EfCore.RepositoryPack: durable saga instances with optimistic concurrency."
+2026-11-08T13:45:23.427Z,EventFlux.Saga.Inspector.EfCore,1.0.0,kadirkdr,"Durable Entity Framework Core timeline store for the EventFlux.Saga inspector, built on EfCore.RepositoryPack: saga transition history survives restarts and is shared by every node."
+2026-11-08T13:45:39.603Z,EventFlux.Saga.RabbitFlow,1.0.0,kadirkdr,RabbitMQ transport adapter for EventFlux.Saga on top of EventFlux.RabbitFlow: sagas publish and receive their events through RabbitMQ without changing the saga definition.
+2026-11-08T13:45:57.32Z,EventFlux.Saga.RedisFlow,1.0.0,kadirkdr,Redis Streams transport adapter for EventFlux.Saga on top of EventFlux.RedisFlow: sagas publish and receive their events through Redis without changing the saga definition.
+2026-11-08T14:01:13.513Z,EventFlux.Saga.Inspector,1.0.0,kadirkdr,Built-in observability for EventFlux.Saga: records every saga transition in a timeline and serves it as JSON and a minimal HTML page through ASP.NET Core endpoints.

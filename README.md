@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:19 UTC
+## Latest list — 2026-11-08 14:21 UTC
 
-New packages created between 2026-11-08 12:20 UTC and 2026-11-08 13:19 UTC.
+New packages created between 2026-11-08 13:19 UTC and 2026-11-08 14:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T13-19-37-681515Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-08T14-21-25-159804Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 12:32:33 | [libusb.runtime](https://www.nuget.org/packages/libusb.runtime) | 1.0.27 | libusb project | Unofficial distribution of the libusb native runtime binaries. |
-| 2026-11-08 12:42:15 | [DotNetScope](https://www.nuget.org/packages/DotNetScope) | 0.1.0 | PersiOnOff | Self-hosted, zero-config dev dashboard for .NET: HTTP requests, EF Core SQL, lo… |
-| 2026-11-08 12:53:19 | [BreederData](https://www.nuget.org/packages/BreederData) | 1.0.0 | BreederData | Package Description |
-| 2026-11-08 13:09:19 | [AuthMesh.Cli](https://www.nuget.org/packages/AuthMesh.Cli) | 0.1.1 | AuthMesh | CLI for managing AuthMesh applications and identities. |
+| 2026-11-08 13:44:15 | [EventFlux.Saga](https://www.nuget.org/packages/EventFlux.Saga) | 1.0.0 | kadirkdr | Lightweight, free saga/process-manager pattern for EventFlux: in-process-first… |
+| 2026-11-08 13:44:34 | [EventFlux.Saga.Generators](https://www.nuget.org/packages/EventFlux.Saga.Generators) | 1.0.0 | kadirkdr | Compile-time saga state generation for EventFlux.Saga: turns a [SagaStateSet] e… |
+| 2026-11-08 13:44:53 | [EventFlux.Saga.Testing](https://www.nuget.org/packages/EventFlux.Saga.Testing) | 1.0.0 | kadirkdr | Given/When/Then test harness for EventFlux.Saga: unit-test saga state machines… |
+| 2026-11-08 13:45:07 | [EventFlux.Saga.EfCore](https://www.nuget.org/packages/EventFlux.Saga.EfCore) | 1.0.0 | kadirkdr | Entity Framework Core persistence for EventFlux.Saga, built on EfCore.Repositor… |
+| 2026-11-08 13:45:23 | [EventFlux.Saga.Inspector.EfCore](https://www.nuget.org/packages/EventFlux.Saga.Inspector.EfCore) | 1.0.0 | kadirkdr | Durable Entity Framework Core timeline store for the EventFlux.Saga inspector,… |
+| 2026-11-08 13:45:39 | [EventFlux.Saga.RabbitFlow](https://www.nuget.org/packages/EventFlux.Saga.RabbitFlow) | 1.0.0 | kadirkdr | RabbitMQ transport adapter for EventFlux.Saga on top of EventFlux.RabbitFlow: s… |
+| 2026-11-08 13:45:57 | [EventFlux.Saga.RedisFlow](https://www.nuget.org/packages/EventFlux.Saga.RedisFlow) | 1.0.0 | kadirkdr | Redis Streams transport adapter for EventFlux.Saga on top of EventFlux.RedisFlo… |
+| 2026-11-08 14:01:13 | [EventFlux.Saga.Inspector](https://www.nuget.org/packages/EventFlux.Saga.Inspector) | 1.0.0 | kadirkdr | Built-in observability for EventFlux.Saga: records every saga transition in a t… |
 
 ## Data source
 
