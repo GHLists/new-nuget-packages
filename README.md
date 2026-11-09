@@ -12,31 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 12:20 UTC
+## Latest list — 2026-11-09 13:21 UTC
 
-New packages created between 2026-11-09 11:21 UTC and 2026-11-09 12:20 UTC.
+New packages created between 2026-11-09 12:20 UTC and 2026-11-09 13:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T12-20-42-765455Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T13-21-32-185692Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 11:49:46 | [PollySdk.Documents](https://www.nuget.org/packages/PollySdk.Documents) | 0.2.0 | Chengchao Zhu | Provider-neutral document processing and bounded native PDF and OpenXML structu… |
-| 2026-11-09 11:49:47 | [PollySdk.Documents.Services](https://www.nuget.org/packages/PollySdk.Documents.Services) | 0.2.0 | Chengchao Zhu | Optional, explicitly configured PaddleOCR worker and ONLYOFFICE Docs conversion… |
-| 2026-11-09 11:50:00 | [PollySdk.AgentFramework.Extensions.Knowledge.PostgreSql](https://www.nuget.org/packages/PollySdk.AgentFramework.Extensions.Knowledge.PostgreSql) | 0.2.0 | Chengchao Zhu | PostgreSQL full-text and pgvector search projection for Polly Knowledge. |
-| 2026-11-09 11:50:01 | [PollySdk.WebUI](https://www.nuget.org/packages/PollySdk.WebUI) | 0.2.0 | Chengchao Zhu | Environment-neutral Polly WebUI static assets and standalone ASP.NET Core hosti… |
-| 2026-11-09 11:50:02 | [PollySdk.AgentFramework.Extensions.Knowledge.Sqlite](https://www.nuget.org/packages/PollySdk.AgentFramework.Extensions.Knowledge.Sqlite) | 0.2.0 | Chengchao Zhu | SQLite FTS5 search projection for Polly Knowledge. |
-| 2026-11-09 12:02:48 | [LHFD.CleanArch.Infrastructure.Sdk](https://www.nuget.org/packages/LHFD.CleanArch.Infrastructure.Sdk) | 1.0.4 | Lucas Henrique Faria de Deus | SDK completo de Arquitetura Limpa contendo Domínio Base, Repositório Genérico e… |
-| 2026-11-09 12:07:09 | [Lowline.Extensions.AI](https://www.nuget.org/packages/Lowline.Extensions.AI) | 0.12.0 | iyulab | The Lowline engine's model over a Microsoft.Extensions.AI chat client: filling… |
-| 2026-11-09 12:09:38 | [RuneForBlazor.Charts](https://www.nuget.org/packages/RuneForBlazor.Charts) | 0.12.0 | kenconnet666 | Rune.UI 的图表：折线、面积、柱状、组合、散点、环形、雷达、漏斗、矩形树图、瀑布、桑基、弦图、网络图、时间线、地图，C# 输出 SVG。 |
-| 2026-11-09 12:09:39 | [RuneForBlazor.Charts.Maps](https://www.nuget.org/packages/RuneForBlazor.Charts.Maps) | 0.12.0 | kenconnet666 | Rune.Charts 的 MapChart 用的地理数据：中国省份与世界各国（TopoJSON）。 |
-| 2026-11-09 12:09:40 | [RuneForBlazor](https://www.nuget.org/packages/RuneForBlazor) | 0.12.0 | kenconnet666 | Blazor 组件库底座：信号式的响应式状态（[State] 生成器）、可逐层覆盖的属性合并、强类型的运行时样式与主题。 |
-| 2026-11-09 12:09:41 | [RuneForBlazor.UI](https://www.nuget.org/packages/RuneForBlazor.UI) | 0.12.0 | kenconnet666 | 基于 Rune 的 Blazor 组件库：主题与 tokens、组件默认值与按部件的样式定制、组件。 |
-| 2026-11-09 12:09:42 | [RuneForBlazor.Icons](https://www.nuget.org/packages/RuneForBlazor.Icons) | 0.12.0 | kenconnet666 | Rune.UI 的 Lucide 图标全集：Lucide.Plus 等强类型静态属性，配合 Icon 组件使用；发布到 WebAssembly 时自动裁剪未用… |
-| 2026-11-09 12:09:43 | [RuneForBlazor.UI.Area](https://www.nuget.org/packages/RuneForBlazor.UI.Area) | 0.12.0 | kenconnet666 | Rune.UI 的省市区数据：按 6 位代码的省、市、区县，给 Cascader、TreeSelect 做地址选择。 |
-| 2026-11-09 12:09:44 | [RuneForBlazor.UI.Dates](https://www.nuget.org/packages/RuneForBlazor.UI.Dates) | 0.12.0 | kenconnet666 | Rune.UI 的日期组件：DateField、TimeField、Calendar、DatePicker、DateRangePicker、RelativeT… |
-| 2026-11-09 12:12:49 | [Nova.API](https://www.nuget.org/packages/Nova.API) | 0.5.0 | Soan | API publique des plugins Nova pour le serveur dedie Unturned (U3DS) : INovaPlug… |
-| 2026-11-09 12:12:50 | [Nova.Sdk](https://www.nuget.org/packages/Nova.Sdk) | 0.5.0 | Soan | SDK MSBuild des plugins Nova pour Unturned : Nova.API, generateurs de commandes… |
-| 2026-11-09 12:12:51 | [Nova.Templates](https://www.nuget.org/packages/Nova.Templates) | 0.5.0 | Soan | Modeles dotnet new pour les plugins Nova (Unturned) : dotnet new nova-plugin. |
+| 2026-11-09 12:23:30 | [AngleSharp.Browser](https://www.nuget.org/packages/AngleSharp.Browser) | 0.1.0 | AngleSharp | A UI-agnostic browser engine bringing the AngleSharp ecosystem together. |
+| 2026-11-09 12:23:32 | [AngleSharp.Browser.Avalonia](https://www.nuget.org/packages/AngleSharp.Browser.Avalonia) | 0.1.0 | AngleSharp | An Avalonia control displaying web pages with AngleSharp.Browser. |
+| 2026-11-09 12:38:15 | [OsuSv](https://www.nuget.org/packages/OsuSv) | 0.1.0 | lEttEr93 | osu! mania 谱面的变速（SV）评估：把滚动速度变化拆成不等时、极端度、背谱度、不适度、夸张度几个独立的量，不合成单一分数。输入是 .osu 文本，纯… |
+| 2026-11-09 12:38:17 | [OsuSv.Cli](https://www.nuget.org/packages/OsuSv.Cli) | 0.1.0 | lEttEr93 | osu-sv 命令行：算 osu! mania 谱面的 SV 评估量（osu-sv compute chart.osu --json）。 |
+| 2026-11-09 12:40:12 | [Bintiny.Umbraco](https://www.nuget.org/packages/Bintiny.Umbraco) | 0.1.0 | B. Gunnarsson | Compresses images with bintiny as Umbraco saves them. |
+| 2026-11-09 12:59:08 | [PosInformatique.Foundations.EntityFramework.Converters](https://www.nuget.org/packages/PosInformatique.Foundations.EntityFramework.Converters) | 1.4.0 | Gilles TOURREAU | Provides a collection of basic Entity Framework Core value converters, includin… |
+| 2026-11-09 13:00:17 | [Inceptus.DiagramEngine.Bpmn](https://www.nuget.org/packages/Inceptus.DiagramEngine.Bpmn) | 1.0.0 | Robert Prokopczuk | BPMN notation semantics, commands, validation, and plugin contributions for the… |
+| 2026-11-09 13:00:19 | [Inceptus.DiagramEngine.Bpmn.Blazor](https://www.nuget.org/packages/Inceptus.DiagramEngine.Bpmn.Blazor) | 1.0.0 | Robert Prokopczuk | BPMN modeler components and browser presentation integration for the Inceptus D… |
+| 2026-11-09 13:00:20 | [Inceptus.DiagramEngine.Canvas2D](https://www.nuget.org/packages/Inceptus.DiagramEngine.Canvas2D) | 1.0.0 | Robert Prokopczuk | Canvas2D browser editing session, interaction, scene, and renderer integration… |
+| 2026-11-09 13:00:20 | [Universal.Databricks.Client](https://www.nuget.org/packages/Universal.Databricks.Client) | 1.0.0 | Andrew Ong | .NET client for the Databricks Unity Gateway: unified Chat Completions and Resp… |
+| 2026-11-09 13:00:21 | [Inceptus.DiagramEngine.Contracts](https://www.nuget.org/packages/Inceptus.DiagramEngine.Contracts) | 1.0.0 | Robert Prokopczuk | Immutable contracts and extension APIs for the Inceptus Diagram Engine. |
+| 2026-11-09 13:00:22 | [Inceptus.DiagramEngine.Organizational](https://www.nuget.org/packages/Inceptus.DiagramEngine.Organizational) | 1.0.0 | Robert Prokopczuk | Organizational Profile semantics and plugin contributions for the Inceptus Diag… |
+| 2026-11-09 13:00:24 | [Inceptus.DiagramEngine.Runtime](https://www.nuget.org/packages/Inceptus.DiagramEngine.Runtime) | 1.0.0 | Robert Prokopczuk | Headless document, command, history, projection, layout, routing, validation, a… |
+| 2026-11-09 13:04:22 | [OpenSoundControl.Core](https://www.nuget.org/packages/OpenSoundControl.Core) | 0.1.0-dev2 | Agash | Open Sound Control for .NET: OSC 1.0 and 1.1 codec (messages, bundles, time tag… |
 
 ## Data source
 
