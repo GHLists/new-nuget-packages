@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-09T11:49:46.673Z,PollySdk.Documents,0.2.0,Chengchao Zhu,Provider-neutral document processing and bounded native PDF and OpenXML structure extraction.
+2026-11-09T11:49:47.767Z,PollySdk.Documents.Services,0.2.0,Chengchao Zhu,"Optional, explicitly configured PaddleOCR worker and ONLYOFFICE Docs conversion adapters."
+2026-11-09T11:50:00.317Z,PollySdk.AgentFramework.Extensions.Knowledge.PostgreSql,0.2.0,Chengchao Zhu,PostgreSQL full-text and pgvector search projection for Polly Knowledge.
+2026-11-09T11:50:01.4Z,PollySdk.WebUI,0.2.0,Chengchao Zhu,Environment-neutral Polly WebUI static assets and standalone ASP.NET Core hosting. No Server or AI provider dependency.
+2026-11-09T11:50:02.56Z,PollySdk.AgentFramework.Extensions.Knowledge.Sqlite,0.2.0,Chengchao Zhu,SQLite FTS5 search projection for Polly Knowledge.
+2026-11-09T12:02:48.787Z,LHFD.CleanArch.Infrastructure.Sdk,1.0.4,Lucas Henrique Faria de Deus,"SDK completo de Arquitetura Limpa contendo Domínio Base, Repositório Genérico e Unit of Work para .NET 10."
+2026-11-09T12:07:09.91Z,Lowline.Extensions.AI,0.12.0,iyulab,"The Lowline engine's model over a Microsoft.Extensions.AI chat client: filling a form's fields from what a person wrote or showed, and judging a decided field the records could not answer. A client that talks to a remote service is refused unless the host allows it."
+2026-11-09T12:09:38.92Z,RuneForBlazor.Charts,0.12.0,kenconnet666,Rune.UI 的图表：折线、面积、柱状、组合、散点、环形、雷达、漏斗、矩形树图、瀑布、桑基、弦图、网络图、时间线、地图，C# 输出 SVG。
+2026-11-09T12:09:39.753Z,RuneForBlazor.Charts.Maps,0.12.0,kenconnet666,Rune.Charts 的 MapChart 用的地理数据：中国省份与世界各国（TopoJSON）。
+2026-11-09T12:09:40.477Z,RuneForBlazor,0.12.0,kenconnet666,Blazor 组件库底座：信号式的响应式状态（[State] 生成器）、可逐层覆盖的属性合并、强类型的运行时样式与主题。
+2026-11-09T12:09:41.81Z,RuneForBlazor.UI,0.12.0,kenconnet666,基于 Rune 的 Blazor 组件库：主题与 tokens、组件默认值与按部件的样式定制、组件。
+2026-11-09T12:09:42.723Z,RuneForBlazor.Icons,0.12.0,kenconnet666,Rune.UI 的 Lucide 图标全集：Lucide.Plus 等强类型静态属性，配合 Icon 组件使用；发布到 WebAssembly 时自动裁剪未用到的图标。
+2026-11-09T12:09:43.507Z,RuneForBlazor.UI.Area,0.12.0,kenconnet666,Rune.UI 的省市区数据：按 6 位代码的省、市、区县，给 Cascader、TreeSelect 做地址选择。
+2026-11-09T12:09:44.297Z,RuneForBlazor.UI.Dates,0.12.0,kenconnet666,Rune.UI 的日期组件：DateField、TimeField、Calendar、DatePicker、DateRangePicker、RelativeTime、Countdown。
+2026-11-09T12:12:49.943Z,Nova.API,0.5.0,Soan,"API publique des plugins Nova pour le serveur dedie Unturned (U3DS) : INovaPlugin, commandes, evenements, permissions, configuration, scheduler, services."
+2026-11-09T12:12:50.983Z,Nova.Sdk,0.5.0,Soan,"SDK MSBuild des plugins Nova pour Unturned : Nova.API, generateurs de commandes et de plugin.json, cible de deploiement."
+2026-11-09T12:12:51.903Z,Nova.Templates,0.5.0,Soan,Modeles dotnet new pour les plugins Nova (Unturned) : dotnet new nova-plugin.

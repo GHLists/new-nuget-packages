@@ -12,35 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 11:21 UTC
+## Latest list — 2026-11-09 12:20 UTC
 
-New packages created between 2026-11-09 10:19 UTC and 2026-11-09 11:21 UTC.
+New packages created between 2026-11-09 11:21 UTC and 2026-11-09 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T11-21-17-324434Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T12-20-42-765455Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 10:20:07 | [Semisoft.CalDAVNet](https://www.nuget.org/packages/Semisoft.CalDAVNet) | 1.1.4 | samwizardry | .NET client library for communicating with CalDAV servers compliant with CalDAV… |
-| 2026-11-09 10:24:25 | [Triamec.Tam.Commissioning.AxisCompensation](https://www.nuget.org/packages/Triamec.Tam.Commissioning.AxisCompensation) | 1.0.0 | Triamec Motion AG | Provides classes for setting up and controlling an axis compensation. |
-| 2026-11-09 10:28:39 | [MasterX.Logging.Aspect](https://www.nuget.org/packages/MasterX.Logging.Aspect) | 3.0.8 | master-X (Marco Sena) | Optional compile-time method logging aspects for MasterX applications. |
-| 2026-11-09 10:28:48 | [Triamec.Tam.Commissioning.FrequencyResponseAnalysis](https://www.nuget.org/packages/Triamec.Tam.Commissioning.FrequencyResponseAnalysis) | 1.0.0 | Triamec Motion AG | Provides classes to measure the frequency response of a system. |
-| 2026-11-09 10:29:32 | [PANiXiDA.Core.Presentation.SignalR](https://www.nuget.org/packages/PANiXiDA.Core.Presentation.SignalR) | 1.0.3 | PANiXiDA | Reusable ASP.NET Core SignalR integration with access token handling and Redis… |
-| 2026-11-09 10:38:37 | [Stellaegis.Registry.Identity](https://www.nuget.org/packages/Stellaegis.Registry.Identity) | 7.0.0 | FRi | Stellaegis Registry and Stellaegis Identity composed: the ports the accounts de… |
-| 2026-11-09 10:41:17 | [UmbHost.GreenStack.Umbraco.Configuration](https://www.nuget.org/packages/UmbHost.GreenStack.Umbraco.Configuration) | 1.0.0 | UmbHost | Configures an Umbraco 13 or 17 site to run correctly on UmbHost GreenStack: for… |
-| 2026-11-09 10:51:34 | [EasyQuerySharp](https://www.nuget.org/packages/EasyQuerySharp) | 1.0.0 | kenconnet666 | easy-query 的 C# 实现：基于表达式树的强类型 ORM，支持隐式 join、隐式子查询与 DTO 对象树。 |
-| 2026-11-09 10:51:35 | [EasyQuerySharp.Caching](https://www.nuget.org/packages/EasyQuerySharp.Caching) | 1.0.0 | kenconnet666 | EasyQuerySharp 的二级缓存（对应 easy-query 的 sql-cache）：按主键（kv）与按条件的主键索引（all）缓存实体，存储用 H… |
-| 2026-11-09 10:51:35 | [EasyQuerySharp.DependencyInjection](https://www.nuget.org/packages/EasyQuerySharp.DependencyInjection) | 1.0.0 | kenconnet666 | EasyQuerySharp 的依赖注入扩展：services.AddEasyQuery(..) 把 EasyDb 注册成单例，多个库按名字（keyed se… |
-| 2026-11-09 11:01:29 | [Hosihikari.Plugin.Pack](https://www.nuget.org/packages/Hosihikari.Plugin.Pack) | 1.1.0 | HosihikariFramework | Command-line packer for Hosihikari plugin packages. |
-| 2026-11-09 11:04:22 | [SiteGoose](https://www.nuget.org/packages/SiteGoose) | 0.3.4 | steviec87 | Firewall, error monitoring and server analytics for your ASP.NET Core server, r… |
-| 2026-11-09 11:07:35 | [XdlSharp.Native.linux-arm64](https://www.nuget.org/packages/XdlSharp.Native.linux-arm64) | 3.4.20.1 | stanoddly | The linux-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image… |
-| 2026-11-09 11:07:36 | [XdlSharp](https://www.nuget.org/packages/XdlSharp) | 3.4.20.1 | stanoddly | Low-level C# bindings for XDL 3.4.20-4, the altered SDL 3.4.20, and for SDL_ima… |
-| 2026-11-09 11:07:36 | [XdlSharp.Native.browser-wasm](https://www.nuget.org/packages/XdlSharp.Native.browser-wasm) | 3.4.20.1 | stanoddly | The browser-wasm runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_imag… |
-| 2026-11-09 11:07:37 | [XdlSharp.Native.linux-x64](https://www.nuget.org/packages/XdlSharp.Native.linux-x64) | 3.4.20.1 | stanoddly | The linux-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image,… |
-| 2026-11-09 11:07:38 | [XdlSharp.Native.win-x64](https://www.nuget.org/packages/XdlSharp.Native.win-x64) | 3.4.20.1 | stanoddly | The win-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SD… |
-| 2026-11-09 11:07:38 | [XdlSharp.Native.osx-x64](https://www.nuget.org/packages/XdlSharp.Native.osx-x64) | 3.4.20.1 | stanoddly | The osx-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SD… |
-| 2026-11-09 11:07:39 | [XdlSharp.Native.win-arm64](https://www.nuget.org/packages/XdlSharp.Native.win-arm64) | 3.4.20.1 | stanoddly | The win-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image,… |
-| 2026-11-09 11:07:40 | [XdlSharp.Native.osx-arm64](https://www.nuget.org/packages/XdlSharp.Native.osx-arm64) | 3.4.20.1 | stanoddly | The osx-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image,… |
-| 2026-11-09 11:11:25 | [Iyu.Lowline.EntityFrameworkCore](https://www.nuget.org/packages/Iyu.Lowline.EntityFrameworkCore) | 0.48.0 | iyulab | Entity Framework Core store behind Iyu.Lowline's two ports, over the applicatio… |
+| 2026-11-09 11:49:46 | [PollySdk.Documents](https://www.nuget.org/packages/PollySdk.Documents) | 0.2.0 | Chengchao Zhu | Provider-neutral document processing and bounded native PDF and OpenXML structu… |
+| 2026-11-09 11:49:47 | [PollySdk.Documents.Services](https://www.nuget.org/packages/PollySdk.Documents.Services) | 0.2.0 | Chengchao Zhu | Optional, explicitly configured PaddleOCR worker and ONLYOFFICE Docs conversion… |
+| 2026-11-09 11:50:00 | [PollySdk.AgentFramework.Extensions.Knowledge.PostgreSql](https://www.nuget.org/packages/PollySdk.AgentFramework.Extensions.Knowledge.PostgreSql) | 0.2.0 | Chengchao Zhu | PostgreSQL full-text and pgvector search projection for Polly Knowledge. |
+| 2026-11-09 11:50:01 | [PollySdk.WebUI](https://www.nuget.org/packages/PollySdk.WebUI) | 0.2.0 | Chengchao Zhu | Environment-neutral Polly WebUI static assets and standalone ASP.NET Core hosti… |
+| 2026-11-09 11:50:02 | [PollySdk.AgentFramework.Extensions.Knowledge.Sqlite](https://www.nuget.org/packages/PollySdk.AgentFramework.Extensions.Knowledge.Sqlite) | 0.2.0 | Chengchao Zhu | SQLite FTS5 search projection for Polly Knowledge. |
+| 2026-11-09 12:02:48 | [LHFD.CleanArch.Infrastructure.Sdk](https://www.nuget.org/packages/LHFD.CleanArch.Infrastructure.Sdk) | 1.0.4 | Lucas Henrique Faria de Deus | SDK completo de Arquitetura Limpa contendo Domínio Base, Repositório Genérico e… |
+| 2026-11-09 12:07:09 | [Lowline.Extensions.AI](https://www.nuget.org/packages/Lowline.Extensions.AI) | 0.12.0 | iyulab | The Lowline engine's model over a Microsoft.Extensions.AI chat client: filling… |
+| 2026-11-09 12:09:38 | [RuneForBlazor.Charts](https://www.nuget.org/packages/RuneForBlazor.Charts) | 0.12.0 | kenconnet666 | Rune.UI 的图表：折线、面积、柱状、组合、散点、环形、雷达、漏斗、矩形树图、瀑布、桑基、弦图、网络图、时间线、地图，C# 输出 SVG。 |
+| 2026-11-09 12:09:39 | [RuneForBlazor.Charts.Maps](https://www.nuget.org/packages/RuneForBlazor.Charts.Maps) | 0.12.0 | kenconnet666 | Rune.Charts 的 MapChart 用的地理数据：中国省份与世界各国（TopoJSON）。 |
+| 2026-11-09 12:09:40 | [RuneForBlazor](https://www.nuget.org/packages/RuneForBlazor) | 0.12.0 | kenconnet666 | Blazor 组件库底座：信号式的响应式状态（[State] 生成器）、可逐层覆盖的属性合并、强类型的运行时样式与主题。 |
+| 2026-11-09 12:09:41 | [RuneForBlazor.UI](https://www.nuget.org/packages/RuneForBlazor.UI) | 0.12.0 | kenconnet666 | 基于 Rune 的 Blazor 组件库：主题与 tokens、组件默认值与按部件的样式定制、组件。 |
+| 2026-11-09 12:09:42 | [RuneForBlazor.Icons](https://www.nuget.org/packages/RuneForBlazor.Icons) | 0.12.0 | kenconnet666 | Rune.UI 的 Lucide 图标全集：Lucide.Plus 等强类型静态属性，配合 Icon 组件使用；发布到 WebAssembly 时自动裁剪未用… |
+| 2026-11-09 12:09:43 | [RuneForBlazor.UI.Area](https://www.nuget.org/packages/RuneForBlazor.UI.Area) | 0.12.0 | kenconnet666 | Rune.UI 的省市区数据：按 6 位代码的省、市、区县，给 Cascader、TreeSelect 做地址选择。 |
+| 2026-11-09 12:09:44 | [RuneForBlazor.UI.Dates](https://www.nuget.org/packages/RuneForBlazor.UI.Dates) | 0.12.0 | kenconnet666 | Rune.UI 的日期组件：DateField、TimeField、Calendar、DatePicker、DateRangePicker、RelativeT… |
+| 2026-11-09 12:12:49 | [Nova.API](https://www.nuget.org/packages/Nova.API) | 0.5.0 | Soan | API publique des plugins Nova pour le serveur dedie Unturned (U3DS) : INovaPlug… |
+| 2026-11-09 12:12:50 | [Nova.Sdk](https://www.nuget.org/packages/Nova.Sdk) | 0.5.0 | Soan | SDK MSBuild des plugins Nova pour Unturned : Nova.API, generateurs de commandes… |
+| 2026-11-09 12:12:51 | [Nova.Templates](https://www.nuget.org/packages/Nova.Templates) | 0.5.0 | Soan | Modeles dotnet new pour les plugins Nova (Unturned) : dotnet new nova-plugin. |
 
 ## Data source
 
