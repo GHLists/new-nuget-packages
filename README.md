@@ -12,33 +12,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 10:19 UTC
+## Latest list — 2026-11-09 11:21 UTC
 
-New packages created between 2026-11-09 09:19 UTC and 2026-11-09 10:19 UTC.
+New packages created between 2026-11-09 10:19 UTC and 2026-11-09 11:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T10-19-11-829491Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T11-21-17-324434Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 09:37:53 | [PavelZaitsau.PhoneFormatter](https://www.nuget.org/packages/PavelZaitsau.PhoneFormatter) | 2.3.2 | Pavel Zaitsau | Parses, validates, and formats phone numbers from many regions as E.164, E.123,… |
-| 2026-11-09 09:40:52 | [Semisoft.ExpressionParser](https://www.nuget.org/packages/Semisoft.ExpressionParser) | 1.0.2 | samwizardry | String filter parser that compiles text expressions into strongly-typed LINQ Ex… |
-| 2026-11-09 09:49:07 | [L1CacheSystem](https://www.nuget.org/packages/L1CacheSystem) | 10.0.0 | Brevnov Vyacheslav Sergeevich | L1-level cache system for organizing a cache within an application. |
-| 2026-11-09 09:49:42 | [L1CacheSystem.Attributes](https://www.nuget.org/packages/L1CacheSystem.Attributes) | 10.0.0 | Brevnov Vyacheslav Sergeevich | Attributes for L1-level cache system for organizing a cache within an applicati… |
-| 2026-11-09 09:50:10 | [L1CacheSystem.Generator](https://www.nuget.org/packages/L1CacheSystem.Generator) | 10.0.0 | Brevnov Vyacheslav Sergeevich | Generator L1-level cache system for organizing a cache within an application. |
-| 2026-11-09 09:52:33 | [OpenDCP.Framework.Exceptions](https://www.nuget.org/packages/OpenDCP.Framework.Exceptions) | 0.1.0 | OpenDCP.Framework.Exceptions | Package Description |
-| 2026-11-09 09:53:13 | [Bridgewiz.AppUpdate](https://www.nuget.org/packages/Bridgewiz.AppUpdate) | 1.0.0 | Mustafa Can Yücel | Client for app-update-server (github.com/mcanyucel/app-update-server): checks f… |
-| 2026-11-09 09:53:14 | [Bridgewiz.AppUpdate.Avalonia](https://www.nuget.org/packages/Bridgewiz.AppUpdate.Avalonia) | 1.0.0 | Mustafa Can Yücel | Update dialog and check flows for Avalonia desktop apps using Bridgewiz.AppUpda… |
-| 2026-11-09 09:55:11 | [Olax.Messaging.Aws](https://www.nuget.org/packages/Olax.Messaging.Aws) | 1.0.0 | OLAX Innovative Lab | AWS transport for Olax.Messaging: one SNS topic fanned out to one SQS queue per… |
-| 2026-11-09 09:55:12 | [Olax.Messaging.Azure.EventHubs](https://www.nuget.org/packages/Olax.Messaging.Azure.EventHubs) | 1.0.0 | OLAX Innovative Lab | Azure Event Hubs transport for Olax.Messaging. Runs the Kafka transport against… |
-| 2026-11-09 09:55:14 | [Olax.Messaging.Azure.ServiceBus](https://www.nuget.org/packages/Olax.Messaging.Azure.ServiceBus) | 1.0.0 | OLAX Innovative Lab | Azure Service Bus transport for Olax.Messaging: one topic, one subscription per… |
-| 2026-11-09 09:55:15 | [Olax.Messaging.EntityFrameworkCore](https://www.nuget.org/packages/Olax.Messaging.EntityFrameworkCore) | 1.0.0 | OLAX Innovative Lab | Transactional outbox and inbox for OLAX messaging on the service's EF Core DbCo… |
-| 2026-11-09 09:55:16 | [Olax.Messaging.Google.PubSub](https://www.nuget.org/packages/Olax.Messaging.Google.PubSub) | 1.0.0 | OLAX Innovative Lab | Google Cloud Pub/Sub transport for Olax.Messaging: a topic per event, a subscri… |
-| 2026-11-09 09:55:17 | [Olax.Messaging.Kafka](https://www.nuget.org/packages/Olax.Messaging.Kafka) | 1.0.0 | OLAX Innovative Lab | Kafka transport for Olax.Messaging (also the engine of Olax.Messaging.Azure.Eve… |
-| 2026-11-09 09:55:18 | [Olax.Messaging.RabbitMQ](https://www.nuget.org/packages/Olax.Messaging.RabbitMQ) | 1.0.0 | OLAX Innovative Lab | RabbitMQ transport for Olax.Messaging: a topic exchange, one quorum queue per s… |
-| 2026-11-09 09:55:20 | [Olax.Messaging](https://www.nuget.org/packages/Olax.Messaging) | 1.0.0 | OLAX Innovative Lab | Broker-neutral core of OLAX messaging: the message envelope, delivery rules, th… |
-| 2026-11-09 09:55:21 | [Olax.Messaging.Abstractions](https://www.nuget.org/packages/Olax.Messaging.Abstractions) | 1.0.0 | OLAX Innovative Lab | Integration event contracts for OLAX services: IntegrationEvent, IEventPublishe… |
-| 2026-11-09 09:56:33 | [Fdw.Services.Etl.Projects.Nodes.Registration](https://www.nuget.org/packages/Fdw.Services.Etl.Projects.Nodes.Registration) | 1.5.1 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
-| 2026-11-09 10:03:27 | [Semisoft.LdapHelper](https://www.nuget.org/packages/Semisoft.LdapHelper) | 1.0.3 | samwizardry | .NET library for Active Directory and LDAP operations built on System.Directory… |
+| 2026-11-09 10:20:07 | [Semisoft.CalDAVNet](https://www.nuget.org/packages/Semisoft.CalDAVNet) | 1.1.4 | samwizardry | .NET client library for communicating with CalDAV servers compliant with CalDAV… |
+| 2026-11-09 10:24:25 | [Triamec.Tam.Commissioning.AxisCompensation](https://www.nuget.org/packages/Triamec.Tam.Commissioning.AxisCompensation) | 1.0.0 | Triamec Motion AG | Provides classes for setting up and controlling an axis compensation. |
+| 2026-11-09 10:28:39 | [MasterX.Logging.Aspect](https://www.nuget.org/packages/MasterX.Logging.Aspect) | 3.0.8 | master-X (Marco Sena) | Optional compile-time method logging aspects for MasterX applications. |
+| 2026-11-09 10:28:48 | [Triamec.Tam.Commissioning.FrequencyResponseAnalysis](https://www.nuget.org/packages/Triamec.Tam.Commissioning.FrequencyResponseAnalysis) | 1.0.0 | Triamec Motion AG | Provides classes to measure the frequency response of a system. |
+| 2026-11-09 10:29:32 | [PANiXiDA.Core.Presentation.SignalR](https://www.nuget.org/packages/PANiXiDA.Core.Presentation.SignalR) | 1.0.3 | PANiXiDA | Reusable ASP.NET Core SignalR integration with access token handling and Redis… |
+| 2026-11-09 10:38:37 | [Stellaegis.Registry.Identity](https://www.nuget.org/packages/Stellaegis.Registry.Identity) | 7.0.0 | FRi | Stellaegis Registry and Stellaegis Identity composed: the ports the accounts de… |
+| 2026-11-09 10:41:17 | [UmbHost.GreenStack.Umbraco.Configuration](https://www.nuget.org/packages/UmbHost.GreenStack.Umbraco.Configuration) | 1.0.0 | UmbHost | Configures an Umbraco 13 or 17 site to run correctly on UmbHost GreenStack: for… |
+| 2026-11-09 10:51:34 | [EasyQuerySharp](https://www.nuget.org/packages/EasyQuerySharp) | 1.0.0 | kenconnet666 | easy-query 的 C# 实现：基于表达式树的强类型 ORM，支持隐式 join、隐式子查询与 DTO 对象树。 |
+| 2026-11-09 10:51:35 | [EasyQuerySharp.Caching](https://www.nuget.org/packages/EasyQuerySharp.Caching) | 1.0.0 | kenconnet666 | EasyQuerySharp 的二级缓存（对应 easy-query 的 sql-cache）：按主键（kv）与按条件的主键索引（all）缓存实体，存储用 H… |
+| 2026-11-09 10:51:35 | [EasyQuerySharp.DependencyInjection](https://www.nuget.org/packages/EasyQuerySharp.DependencyInjection) | 1.0.0 | kenconnet666 | EasyQuerySharp 的依赖注入扩展：services.AddEasyQuery(..) 把 EasyDb 注册成单例，多个库按名字（keyed se… |
+| 2026-11-09 11:01:29 | [Hosihikari.Plugin.Pack](https://www.nuget.org/packages/Hosihikari.Plugin.Pack) | 1.1.0 | HosihikariFramework | Command-line packer for Hosihikari plugin packages. |
+| 2026-11-09 11:04:22 | [SiteGoose](https://www.nuget.org/packages/SiteGoose) | 0.3.4 | steviec87 | Firewall, error monitoring and server analytics for your ASP.NET Core server, r… |
+| 2026-11-09 11:07:35 | [XdlSharp.Native.linux-arm64](https://www.nuget.org/packages/XdlSharp.Native.linux-arm64) | 3.4.20.1 | stanoddly | The linux-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image… |
+| 2026-11-09 11:07:36 | [XdlSharp](https://www.nuget.org/packages/XdlSharp) | 3.4.20.1 | stanoddly | Low-level C# bindings for XDL 3.4.20-4, the altered SDL 3.4.20, and for SDL_ima… |
+| 2026-11-09 11:07:36 | [XdlSharp.Native.browser-wasm](https://www.nuget.org/packages/XdlSharp.Native.browser-wasm) | 3.4.20.1 | stanoddly | The browser-wasm runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_imag… |
+| 2026-11-09 11:07:37 | [XdlSharp.Native.linux-x64](https://www.nuget.org/packages/XdlSharp.Native.linux-x64) | 3.4.20.1 | stanoddly | The linux-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image,… |
+| 2026-11-09 11:07:38 | [XdlSharp.Native.win-x64](https://www.nuget.org/packages/XdlSharp.Native.win-x64) | 3.4.20.1 | stanoddly | The win-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SD… |
+| 2026-11-09 11:07:38 | [XdlSharp.Native.osx-x64](https://www.nuget.org/packages/XdlSharp.Native.osx-x64) | 3.4.20.1 | stanoddly | The osx-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SD… |
+| 2026-11-09 11:07:39 | [XdlSharp.Native.win-arm64](https://www.nuget.org/packages/XdlSharp.Native.win-arm64) | 3.4.20.1 | stanoddly | The win-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image,… |
+| 2026-11-09 11:07:40 | [XdlSharp.Native.osx-arm64](https://www.nuget.org/packages/XdlSharp.Native.osx-arm64) | 3.4.20.1 | stanoddly | The osx-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image,… |
+| 2026-11-09 11:11:25 | [Iyu.Lowline.EntityFrameworkCore](https://www.nuget.org/packages/Iyu.Lowline.EntityFrameworkCore) | 0.48.0 | iyulab | Entity Framework Core store behind Iyu.Lowline's two ports, over the applicatio… |
 
 ## Data source
 

@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-11-09T10:20:07.883Z,Semisoft.CalDAVNet,1.1.4,samwizardry,".NET client library for communicating with CalDAV servers compliant with CalDAV (RFC 4791), WebDAV (RFC 4918), and iCalendar (RFC 5545)."
+2026-11-09T10:24:25.447Z,Triamec.Tam.Commissioning.AxisCompensation,1.0.0,Triamec Motion AG,Provides classes for setting up and controlling an axis compensation.
+2026-11-09T10:28:39.007Z,MasterX.Logging.Aspect,3.0.8,master-X (Marco Sena),Optional compile-time method logging aspects for MasterX applications.
+2026-11-09T10:28:48.16Z,Triamec.Tam.Commissioning.FrequencyResponseAnalysis,1.0.0,Triamec Motion AG,Provides classes to measure the frequency response of a system.
+2026-11-09T10:29:32.063Z,PANiXiDA.Core.Presentation.SignalR,1.0.3,PANiXiDA,Reusable ASP.NET Core SignalR integration with access token handling and Redis backplane support.
+2026-11-09T10:38:37.66Z,Stellaegis.Registry.Identity,7.0.0,FRi,"Stellaegis Registry and Stellaegis Identity composed: the ports the accounts declare, answered by the registry — the second person who approves a reset link handed over, the invitation an account is created and accepted on. A package of composition, the one place the two meet."
+2026-11-09T10:41:17.273Z,UmbHost.GreenStack.Umbraco.Configuration,1.0.0,UmbHost,"Configures an Umbraco 13 or 17 site to run correctly on UmbHost GreenStack: forwarded headers, edge-TLS health checks and validators, shared Data Protection keys, single- or multi-replica topology (including the Umbraco 17 SignalR backplane) and publish-time view handling."
+2026-11-09T10:51:34.507Z,EasyQuerySharp,1.0.0,kenconnet666,easy-query 的 C# 实现：基于表达式树的强类型 ORM，支持隐式 join、隐式子查询与 DTO 对象树。
+2026-11-09T10:51:35.2Z,EasyQuerySharp.Caching,1.0.0,kenconnet666,EasyQuerySharp 的二级缓存（对应 easy-query 的 sql-cache）：按主键（kv）与按条件的主键索引（all）缓存实体，存储用 HybridCache（本机与分布式两级），经本库的写入自动失效。
+2026-11-09T10:51:35.987Z,EasyQuerySharp.DependencyInjection,1.0.0,kenconnet666,EasyQuerySharp 的依赖注入扩展：services.AddEasyQuery(..) 把 EasyDb 注册成单例，多个库按名字（keyed service）注入。
+2026-11-09T11:01:29.27Z,Hosihikari.Plugin.Pack,1.1.0,HosihikariFramework,Command-line packer for Hosihikari plugin packages.
+2026-11-09T11:04:22.733Z,SiteGoose,0.3.4,steviec87,"Firewall, error monitoring and server analytics for your ASP.NET Core server, run from your SiteGoose dashboard."
+2026-11-09T11:07:35.627Z,XdlSharp.Native.linux-arm64,3.4.20.1,stanoddly,"The linux-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:07:36.123Z,XdlSharp,3.4.20.1,stanoddly,"Low-level C# bindings for XDL 3.4.20-4, the altered SDL 3.4.20, and for SDL_image, SDL_ttf and SDL_mixer built against it. The native libraries are in XdlSharp.Native.<rid>."
+2026-11-09T11:07:36.863Z,XdlSharp.Native.browser-wasm,3.4.20.1,stanoddly,"The browser-wasm runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:07:37.54Z,XdlSharp.Native.linux-x64,3.4.20.1,stanoddly,"The linux-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:07:38.19Z,XdlSharp.Native.win-x64,3.4.20.1,stanoddly,"The win-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:07:38.77Z,XdlSharp.Native.osx-x64,3.4.20.1,stanoddly,"The osx-x64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:07:39.423Z,XdlSharp.Native.win-arm64,3.4.20.1,stanoddly,"The win-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:07:40.13Z,XdlSharp.Native.osx-arm64,3.4.20.1,stanoddly,"The osx-arm64 runtime of XDL 3.4.20-4, the altered SDL 3.4.20, with SDL_image, SDL_ttf and SDL_mixer built against it, for XdlSharp."
+2026-11-09T11:11:25.74Z,Iyu.Lowline.EntityFrameworkCore,0.48.0,iyulab,"Entity Framework Core store behind Iyu.Lowline's two ports, over the application's own DbContext tables; reference it only if the records live there."
