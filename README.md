@@ -12,30 +12,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 14:19 UTC
+## Latest list — 2026-11-09 15:21 UTC
 
-New packages created between 2026-11-09 13:21 UTC and 2026-11-09 14:19 UTC.
+New packages created between 2026-11-09 14:19 UTC and 2026-11-09 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T14-19-08-859913Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T15-21-31-775488Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 13:23:46 | [Fusonic.Extensions.Aspire.Hosting](https://www.nuget.org/packages/Fusonic.Extensions.Aspire.Hosting) | 10.3.0 | Fusonic | Extensions for the Aspire AppHost: group containers as a Docker Compose stack,… |
-| 2026-11-09 13:24:42 | [Webority.EntityProfiles](https://www.nuget.org/packages/Webority.EntityProfiles) | 0.2.1 | Webority.EntityProfiles | Per-head entity profiles for an EF Core DbContext several web heads share: a ge… |
-| 2026-11-09 13:24:46 | [Webority.HeadGuard](https://www.nuget.org/packages/Webority.HeadGuard) | 0.2.1 | Webority.HeadGuard | Starts each deployed .NET head up to the point before it serves, with only its… |
-| 2026-11-09 13:25:45 | [KpokPatagon.Data.PostgreSql](https://www.nuget.org/packages/KpokPatagon.Data.PostgreSql) | 10.3.26313.2 | Marcelo Vargas | Database interface for PostgreSQL of Kpok Patagon Framework. |
-| 2026-11-09 13:28:42 | [Tubatools.SteamToolbox](https://www.nuget.org/packages/Tubatools.SteamToolbox) | 1.0.0 | 图吧工具箱 | Steam 工具箱插件：本机账号与多存储库游戏管理、封面与时长、SteamKit 挂时长 |
-| 2026-11-09 13:33:47 | [DotNetQuery](https://www.nuget.org/packages/DotNetQuery) | 0.1.0 | DotNetQuery contributors | Core query client for DotNetQuery: single-flight deduplication, stale-while-rev… |
-| 2026-11-09 13:33:48 | [DotNetQuery.Abstractions](https://www.nuget.org/packages/DotNetQuery.Abstractions) | 0.1.0 | DotNetQuery contributors | Provider-agnostic abstractions for DotNetQuery, a React Query-style query and m… |
-| 2026-11-09 13:33:49 | [DotNetQuery.DevTools](https://www.nuget.org/packages/DotNetQuery.DevTools) | 0.1.0 | DotNetQuery contributors | OpenTelemetry metrics, activities and a live statistics inspector for DotNetQue… |
-| 2026-11-09 13:33:49 | [DotNetQuery.Persistence](https://www.nuget.org/packages/DotNetQuery.Persistence) | 0.1.0 | DotNetQuery contributors | Optional offline persistence for DotNetQuery client hosts (Blazor, MAUI). Not i… |
-| 2026-11-09 13:33:50 | [DotNetQuery.Redis](https://www.nuget.org/packages/DotNetQuery.Redis) | 0.1.0 | DotNetQuery contributors | Redis-backed IQueryStore for DotNetQuery with atomic tag versioning and a distr… |
-| 2026-11-09 13:33:51 | [DotNetQuery.SourceGenerator](https://www.nuget.org/packages/DotNetQuery.SourceGenerator) | 0.1.0 | DotNetQuery contributors | Roslyn source generator and analyzer that turn [Cache]/[InvalidateCache] attrib… |
-| 2026-11-09 13:38:28 | [SimdSkia.Avalonia.Android](https://www.nuget.org/packages/SimdSkia.Avalonia.Android) | 0.1.4 | hnlyf168 | Android Activity, input and framebuffer presentation for SimdSkia managed CPU/S… |
-| 2026-11-09 13:51:17 | [Themia.Modules.Identity.SecondFactor](https://www.nuget.org/packages/Themia.Modules.Identity.SecondFactor) | 0.58.0 | Sarawut Phaekuntod | Bridge between Themia.SecondFactor and Themia Identity — the second-factor poli… |
-| 2026-11-09 13:52:14 | [GroupDocs.Assembly.Mcp](https://www.nuget.org/packages/GroupDocs.Assembly.Mcp) | 26.11.0 | GroupDocs Contributors | MCP server for GroupDocs.Assembly — generate Word, Excel, PowerPoint, PDF and e… |
-| 2026-11-09 13:53:54 | [Onde.Code](https://www.nuget.org/packages/Onde.Code) | 1.1.2 | Seto Elkahfi | Coding agent for fine-tuning, managing and deploying models on Onde Inference. |
-| 2026-11-09 14:03:57 | [PanasonicComfortCloudClient](https://www.nuget.org/packages/PanasonicComfortCloudClient) | 1.0.0 | Neil Colvin | Independent typed asynchronous C# client for Panasonic Comfort Cloud and Aquare… |
+| 2026-11-09 14:27:17 | [UnambitiousFx.Synapse.FluentValidation](https://www.nuget.org/packages/UnambitiousFx.Synapse.FluentValidation) | 2.5.0 | UnambitiousFx | FluentValidation integration for UnambitiousFx.Synapse: runs every IValidator<T… |
+| 2026-11-09 14:29:50 | [Soenneker.Cloudflare.Turnstile.Management](https://www.nuget.org/packages/Soenneker.Cloudflare.Turnstile.Management) | 11.0.2 | Jake Soenneker | A utility library for managing Cloudflare Turnstile widgets. |
+| 2026-11-09 14:35:11 | [AuthService.Authorization](https://www.nuget.org/packages/AuthService.Authorization) | 1.0.2 | Auth Service | Validates Auth Service product tokens locally against the published JWKS, check… |
+| 2026-11-09 14:35:41 | [Hsm.CatalogService.Client](https://www.nuget.org/packages/Hsm.CatalogService.Client) | 2.0.0 | Hsm.CatalogService.Client | Package Description |
+| 2026-11-09 14:45:11 | [ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build209930](https://www.nuget.org/packages/ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build209930) | 1.0.209930 | Microsoft | Disposable package used to validate NuGet publishing through ESRP Release. |
+| 2026-11-09 14:50:41 | [Microsoft.Agents.AI.DurableTask](https://www.nuget.org/packages/Microsoft.Agents.AI.DurableTask) | 1.16.0 | Microsoft | Provides distributed durable execution capabilities for agents built with Micro… |
+| 2026-11-09 14:50:42 | [Microsoft.Agents.AI.Hosting.AzureFunctions](https://www.nuget.org/packages/Microsoft.Agents.AI.Hosting.AzureFunctions) | 1.16.0 | Microsoft | Provides durable agent hosting and orchestration support for Microsoft Agent Fr… |
+| 2026-11-09 14:57:02 | [Net.Azure.ServiceBusConsole.any](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.any) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 14:57:04 | [Net.Azure.ServiceBusConsole.linux-arm64](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.linux-arm64) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 14:57:06 | [Net.Azure.ServiceBusConsole.linux-x64](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.linux-x64) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 14:57:08 | [Net.Azure.ServiceBusConsole.osx-arm64](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.osx-arm64) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 14:57:17 | [Net.Azure.ServiceBusConsole.osx-x64](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.osx-x64) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 14:57:19 | [Net.Azure.ServiceBusConsole.win-arm64](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.win-arm64) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 14:57:21 | [Net.Azure.ServiceBusConsole.win-x64](https://www.nuget.org/packages/Net.Azure.ServiceBusConsole.win-x64) | 0.16.0 | zidad | Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and mess… |
+| 2026-11-09 15:00:32 | [iTiApp.Core.Infrastructure.PostgreSql](https://www.nuget.org/packages/iTiApp.Core.Infrastructure.PostgreSql) | 10.0.0-CI-202611091… | http://code.itiapp.com | This is core package for the tool generate c# web api from http://code.itiapp.c… |
+| 2026-11-09 15:00:42 | [iTiApp.Core.Infrastructure.SqlServer](https://www.nuget.org/packages/iTiApp.Core.Infrastructure.SqlServer) | 10.0.0-CI-202611091… | http://code.itiapp.com | This is core package for the tool generate c# web api from http://code.itiapp.c… |
+| 2026-11-09 15:05:56 | [APNService](https://www.nuget.org/packages/APNService) | 10.0.1 | Rumen Novachkov | A lightweight .NET 10 library for sending notifications through Apple Push Noti… |
+| 2026-11-09 15:06:30 | [BasaltBE.Plugins](https://www.nuget.org/packages/BasaltBE.Plugins) | 1.0.0 | BasaltBE.Plugins | Basalt plugin contracts, compilation, and loading. |
+| 2026-11-09 15:06:31 | [BasaltBE.Cli](https://www.nuget.org/packages/BasaltBE.Cli) | 1.0.0 | BasaltBE.Cli | Build and inspect Basalt plugins. |
+| 2026-11-09 15:13:04 | [BasaltBE.Basalt](https://www.nuget.org/packages/BasaltBE.Basalt) | 1.0.0 | BasaltBE | Package Description |
+| 2026-11-09 15:13:05 | [BasaltBE.Data](https://www.nuget.org/packages/BasaltBE.Data) | 1.0.0 | BasaltBE | Package Description |
+| 2026-11-09 15:13:06 | [BasaltBE.Nbt](https://www.nuget.org/packages/BasaltBE.Nbt) | 1.0.0 | BasaltBE | Package Description |
+| 2026-11-09 15:13:06 | [BasaltBE.NetherNet](https://www.nuget.org/packages/BasaltBE.NetherNet) | 1.0.0 | BasaltBE | Package Description |
+| 2026-11-09 15:13:07 | [BasaltBE.Protocol](https://www.nuget.org/packages/BasaltBE.Protocol) | 1.0.0 | BasaltBE | Package Description |
+| 2026-11-09 15:13:07 | [BasaltBE.Client](https://www.nuget.org/packages/BasaltBE.Client) | 1.0.0 | BasaltBE | Package Description |
 
 ## Data source
 

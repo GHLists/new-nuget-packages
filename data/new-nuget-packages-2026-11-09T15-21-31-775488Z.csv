@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-11-09T14:27:17.677Z,UnambitiousFx.Synapse.FluentValidation,2.5.0,UnambitiousFx,FluentValidation integration for UnambitiousFx.Synapse: runs every IValidator<TRequest> in the request pipeline and short-circuits with a ValidationFailure.
+2026-11-09T14:29:50.357Z,Soenneker.Cloudflare.Turnstile.Management,11.0.2,Jake Soenneker,A utility library for managing Cloudflare Turnstile widgets.
+2026-11-09T14:35:11.697Z,AuthService.Authorization,1.0.2,Auth Service,"Validates Auth Service product tokens locally against the published JWKS, checks the audience, exposes the tenant, and enforces permissions by level."
+2026-11-09T14:35:41.33Z,Hsm.CatalogService.Client,2.0.0,Hsm.CatalogService.Client,Package Description
+2026-11-09T14:45:11.617Z,ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build209930,1.0.209930,Microsoft,Disposable package used to validate NuGet publishing through ESRP Release.
+2026-11-09T14:50:41.11Z,Microsoft.Agents.AI.DurableTask,1.16.0,Microsoft,Provides distributed durable execution capabilities for agents built with Microsoft Agent Framework.
+2026-11-09T14:50:42.82Z,Microsoft.Agents.AI.Hosting.AzureFunctions,1.16.0,Microsoft,Provides durable agent hosting and orchestration support for Microsoft Agent Framework workloads.
+2026-11-09T14:57:02.727Z,Net.Azure.ServiceBusConsole.any,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T14:57:04.72Z,Net.Azure.ServiceBusConsole.linux-arm64,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T14:57:06.623Z,Net.Azure.ServiceBusConsole.linux-x64,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T14:57:08.17Z,Net.Azure.ServiceBusConsole.osx-arm64,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T14:57:17.083Z,Net.Azure.ServiceBusConsole.osx-x64,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T14:57:19.3Z,Net.Azure.ServiceBusConsole.win-arm64,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T14:57:21.13Z,Net.Azure.ServiceBusConsole.win-x64,0.16.0,zidad,"Terminal UI for browsing Azure Service Bus namespaces, queues, topics, and messages."
+2026-11-09T15:00:32.07Z,iTiApp.Core.Infrastructure.PostgreSql,10.0.0-CI-202611091…,http://code.itiapp.com,"This is core package for the tool generate c# web api from http://code.itiapp.com Codegen full source include: Api, Model, Service, Repository, UnitOfWork"
+2026-11-09T15:00:42.127Z,iTiApp.Core.Infrastructure.SqlServer,10.0.0-CI-202611091…,http://code.itiapp.com,"This is core package for the tool generate c# web api from http://code.itiapp.com Codegen full source include: Api, Model, Service, Repository, UnitOfWork"
+2026-11-09T15:05:56.437Z,APNService,10.0.1,Rumen Novachkov,A lightweight .NET 10 library for sending notifications through Apple Push Notification service (APNs) using token-based (.p8) authentication over HTTP/2.
+2026-11-09T15:06:30.447Z,BasaltBE.Plugins,1.0.0,BasaltBE.Plugins,"Basalt plugin contracts, compilation, and loading."
+2026-11-09T15:06:31.77Z,BasaltBE.Cli,1.0.0,BasaltBE.Cli,Build and inspect Basalt plugins.
+2026-11-09T15:13:04.563Z,BasaltBE.Basalt,1.0.0,BasaltBE,Package Description
+2026-11-09T15:13:05.647Z,BasaltBE.Data,1.0.0,BasaltBE,Package Description
+2026-11-09T15:13:06.097Z,BasaltBE.Nbt,1.0.0,BasaltBE,Package Description
+2026-11-09T15:13:06.63Z,BasaltBE.NetherNet,1.0.0,BasaltBE,Package Description
+2026-11-09T15:13:07.49Z,BasaltBE.Protocol,1.0.0,BasaltBE,Package Description
+2026-11-09T15:13:07.937Z,BasaltBE.Client,1.0.0,BasaltBE,Package Description
