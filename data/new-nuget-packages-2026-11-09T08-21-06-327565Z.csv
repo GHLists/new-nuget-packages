@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-09T07:25:37.627Z,ZaloBot.Sdk,1.0.0,TanNhatCMS,"Zalo Bot API client for .NET — 11 API methods, official error-code taxonomy, retry/backoff pipeline, long polling and access-token hygiene."
+2026-11-09T07:37:48.137Z,Tabler.Avalonia,0.1.0,Compunet,"Tabler Icons (6,000+ outline and filled icons) for AvaloniaUI: a lightweight control and markup extension with embedded, compact icon data. Updated automatically from new Tabler Icons releases."
+2026-11-09T07:38:07.363Z,Niubility.Statistics,0.1.0,Niubility,"Statistics definitions, validation, collection, query and publication contracts."
+2026-11-09T07:38:39.303Z,Niubility.Statistics.Database,0.1.0,Niubility,"Statistics collection, queries and aggregate generation for MySQL and SQL Server."
+2026-11-09T07:40:05.26Z,Zalo.Bot,1.0.1,TanNhatCMS,"Zalo Bot API client for .NET — 11 API methods, official error-code taxonomy, retry/backoff pipeline, long polling and access-token hygiene."
+2026-11-09T07:45:52.443Z,Beesum.Core,0.2.0,air-catfish and Beesum contributors,"Transcript-first YouTube summarizer core: WebVTT parsing, yt-dlp integration, pluggable LLM providers, and a DI-friendly pipeline."
+2026-11-09T07:45:53.473Z,Beesum.Testing,0.2.0,air-catfish and Beesum contributors,In-memory test doubles and AddBeesumTesting() for Beesum.Core.
+2026-11-09T07:45:54.573Z,beesum-mcp,0.2.0,air-catfish and Beesum contributors,MCP stdio server for beesum-min: summarize YouTube URLs or supplied transcripts from an LLM agent.
+2026-11-09T07:45:55.7Z,beesum-min,0.2.0,air-catfish and Beesum contributors,Transcript-first YouTube summarizer CLI. Keeps the transcript on your machine; summarizes with a local LLM when asked.
+2026-11-09T07:51:00.183Z,MicroserviceMonolith,1.0.0,Mykola Kusch,"MicroserviceMonolith is a comprehensive, production-ready modular monolith framework for .NET. It features decoupled modules with lifecycle management, in-memory command and query buses (CQRS), event bus with flexible dispatch strategies, pipeline behaviors (logging, retry, error handling, performa…"
+2026-11-09T07:52:46.573Z,Dignite.Abp.OpenIddict.ClientIdMetadataDocuments,10.7.6,Dignite,"Lets an ABP Framework authorization server built on OpenIddict accept OAuth Client ID Metadata Documents (CIMD), the client registration the MCP authorization specification recommends: a client uses an HTTPS URL as its client_id, and the server fetches the JSON document at that URL to learn the cli…"
+2026-11-09T07:56:34.33Z,Gosf.Input.Automation,0.1.0,Gosf.Input.Automation contributors,Windows foreground and background mouse and keyboard automation.
