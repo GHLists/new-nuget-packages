@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-09T05:31:15.2Z,SriLankaHolidays,1.1.2,Sahan Ranasingha,"Official Sri Lanka Public, Bank, and Mercantile holidays (including Full Moon Poya days) for 2026, 2027, and extensible JSON support for .NET."
+2026-11-09T05:54:56.13Z,W.EntityFrameworkCore.Dameng.WDriver,0.6.0,W.EntityFrameworkCore.Dameng.WDriver,"Runs the W.EntityFrameworkCore.Dameng provider on the W.DamengProvider ADO.NET driver (asynchronous network I/O, cancellation, failure outcomes, 100ns temporal precision). Select it with UseDamengWithWDriver."
+2026-11-09T05:55:23.24Z,Jaunt,1.0.1,AIDotNet,"Jaunt: a fully managed, NativeAOT-compatible JavaScript engine for .NET."
