@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-11-09T22:28:36.477Z,Zorg.Ssh,0.1.0,Zorg.Ssh contributors,"Async SSH client and server library for .NET, with SFTP. Reviewed internally and by AI agents, not by an external audit. The server isn't meant for the public internet or for users you don't trust."
+2026-11-09T22:40:43.77Z,Runwick.Outbox.Sqlite,0.1.0,Komla Adzam,Runwick outbox source adapter for same-host SQLite (Microsoft.Data.Sqlite). A source only: not a queue provider.
+2026-11-09T22:40:44.42Z,Runwick.OpenTelemetry,0.1.0,Komla Adzam,"OpenTelemetry wiring for Runwick: AddRunwickInstrumentation() for tracing and metrics, with Runwick's attribute filters and cardinality limits. No exporter."
+2026-11-09T22:40:44.977Z,Runwick.Contracts,0.1.0,Komla Adzam,"Runwick job contracts: IQueueJob, handler/middleware interfaces, attributes and dispatch types. No dependencies."
+2026-11-09T22:40:45.527Z,Runwick.Testing,0.1.0,Komla Adzam,Test helpers for applications using Runwick: a recording dispatcher and a direct handler invoker.
+2026-11-09T22:40:46.127Z,Runwick.Redis,0.1.0,Komla Adzam,Runwick Redis store (one primary under appendonly + appendfsync always) built on StackExchange.Redis.
+2026-11-09T22:40:46.767Z,Runwick.AspNetCore,0.1.0,Komla Adzam,"Runwick management API over ASP.NET Core: authenticated, permission-checked /v1 endpoints for the management session."
+2026-11-09T22:40:47.37Z,Runwick.Dashboard,0.1.0,Komla Adzam,"Runwick dashboard: a web UI over the management session, mounted inside an ASP.NET Core app (Inertia.Net named mount, prebuilt React client)."
+2026-11-09T22:40:48.017Z,Runwick.Outbox.Postgres,0.1.0,Komla Adzam,"Runwick outbox source adapter for PostgreSQL (Npgsql): stage on the caller's transaction, relay to any Runwick destination."
+2026-11-09T22:40:48.66Z,Runwick.Outbox,0.1.0,Komla Adzam,Runwick transactional outbox: staging contracts and the relay that delivers through ReceiveOutbox/1.
+2026-11-09T22:40:49.92Z,Runwick.Cli,0.1.0,Komla Adzam,"runwick: the command-line tool for operators, CI scripts and AI agents (talks to a Runwick management host over HTTP)."
+2026-11-09T22:40:50.58Z,Runwick,0.1.0,Komla Adzam,"Runwick core: registration, serialization, dispatch and the worker engine."
+2026-11-09T22:40:51.253Z,Runwick.Sqlite,0.1.0,Komla Adzam,"Runwick SQLite store (single host, one database file) built on Microsoft.Data.Sqlite."
+2026-11-09T22:40:51.91Z,Runwick.Postgres,0.1.0,Komla Adzam,Runwick PostgreSQL store (PostgreSQL 16-18) built on Npgsql.
+2026-11-09T22:41:50.16Z,Quathos.Mailer,0.2.0,Quathos,"Official Mailer SDK for .NET — transactional email, suppressions and webhook verification."
+2026-11-09T22:42:16.187Z,KRWCLASSIC.UMK,0.1.1,KRWCLASSIC,"A CLI-only, shell-driven project configurator and task runner for Unity mod development, primarily targeting BepInEx."
+2026-11-09T23:01:40.967Z,Dockflow.Sdk,0.2.0,Dockflow,A library generated from a OpenAPI doc
+2026-11-09T23:08:24.483Z,el-canary-probe-1794265701,1.0.0,ElementLogic,el-canary-probe-1794265701
+2026-11-09T23:09:25.27Z,ElementLogic,1.0.0,ElementLogic,ElementLogic
+2026-11-09T23:09:42.11Z,ElementLogicFoo,1.0.0,ElementLogic,ElementLogicFoo
+2026-11-09T23:09:45.67Z,Elem,1.0.0,ElementLogic,Elem
+2026-11-09T23:14:12.277Z,OhrTech.Device,0.1.0,OhrTech,"The OhrTech Device SDK for .NET for Android and MAUI: what an app on an OhrTech device can ask the OhrTech Agent for. The device, its updates, Wi-Fi with Android's Wi-Fi screen in your layout, network, kiosk mode, power, settings, managed configuration, attestation, client certificates (for HttpCli…"
+2026-11-09T23:14:12.93Z,OhrTech.Device.Maui,0.1.0,OhrTech,"The OhrTech Device SDK in .NET MAUI: the Agent's Wi-Fi screen as a MAUI control, and UseOhrTechDevice() for the push handlers and dependency injection. Builds on OhrTech.Device."
+2026-11-09T23:14:15.043Z,zq.canary.probe1,1.0.0,ElementLogic,zq.canary.probe1
+2026-11-09T23:14:16.92Z,ElemLogic.Common,1.0.0,ElementLogic,ElemLogic.Common
