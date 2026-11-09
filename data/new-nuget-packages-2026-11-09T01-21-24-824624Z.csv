@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-09T00:36:46.29Z,BaryoDev.Umbraco.PostAlerts,0.1.0,BaryoDev,"New-post alerts for Umbraco 17. Readers get a weekly email digest after double opt-in, or a browser push when a post is first published. Works without JavaScript for email."
+2026-11-09T00:57:42.42Z,HikService,1.0.8,TheOne,Hikrobot MVS industrial camera wrapper for .NET with OpenCvSharp frame output on Windows.
+2026-11-09T00:58:01.07Z,ilm1218.Avalonia.Semi.Core,1.0.7,TheOne,"Shared styles, controls, and UI helpers for Avalonia applications using Semi.Avalonia and Ursa."
+2026-11-09T01:04:40.95Z,MusselCalendar,0.0.1,machi_pon,"Calendar views for Blazor with day, week and month layouts and drag operations"
