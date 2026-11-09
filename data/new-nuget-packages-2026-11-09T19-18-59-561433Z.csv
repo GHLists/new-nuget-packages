@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-09T17:41:46.797Z,DigitalProduction.Projects,0.2.0,Lance A. Endres,A library for creating complex projects in .NET.
+2026-11-09T17:43:15.973Z,GeWuYou.GFramework.Game.Harmony,1.0.0,GFramework.Game.Harmony,Package Description
+2026-11-09T17:46:13.6Z,Vespa.NET.VectorData,1.0.0,outmatic,"Microsoft.Extensions.VectorData provider for existing Vespa application schemas, with typed records and cosine vector search."
+2026-11-09T17:52:04.85Z,Meshmakers.Octo.Services.Methods.MongoDb,3.5.70,meshmakers GmbH and Contributors,"MongoDB store of the CK method operation records (asynchronous methods, system database)"
+2026-11-09T17:54:38.863Z,RM.Api,2.0.0,Sukhov A.A.,"An HTTP client library for the RM Web API — a service that manages work types, work units and contract performers. Provides typed service interfaces (IWorkTypeService, IWorkUnitService, IPerformerService) over a NSwag-generated HTTP client, request and response DTOs, and mappers that convert genera…"
+2026-11-09T17:56:44.96Z,IndeFlow.Observability.AspNetCore,1.2.0,INDESAD,"Official .NET Core & ASP.NET Core Observability SDK for IndeFlow. Zero-delay fail-open exception monitoring, structured request context scrubbing, W3C trace propagation and HTTP dependency tracing and server-side evidence attachments."
+2026-11-09T18:11:35.587Z,InfiniteToken.Lumber.Serilog,1.0.0,Jay Deaton,"Serilog sink for Lumber: sends Serilog events to Lumber, encrypted end to end with AES-256-GCM."
+2026-11-09T18:11:36.267Z,InfiniteToken.Lumber,1.0.0,Jay Deaton,.NET client for Lumber: cloud logging with end-to-end encryption. Every log is encrypted with AES-256-GCM before it leaves your process. No dependencies.
+2026-11-09T18:11:36.873Z,InfiniteToken.Lumber.Extensions.Logging,1.0.0,Jay Deaton,"Microsoft.Extensions.Logging provider for Lumber: sends ILogger logs (ASP.NET Core, workers, Azure Functions) to Lumber, encrypted end to end with AES-256-GCM."
+2026-11-09T18:13:36.497Z,RtfBridge,2.0.1,Amit Tiwari,"Pure-managed RTF to HTML converter. No WPF, no System.Drawing. Works on Windows, Linux, and macOS across .NET Framework 4.6.2+, .NET Standard 2.0, and .NET 8+."
+2026-11-09T18:16:11.727Z,RtfBridge.AspNetCore,2.0.1,Amit Tiwari,ASP.NET Core integration for RtfBridge: DI extensions and a ready-made minimal-API endpoint that converts RTF to HTML.
+2026-11-09T18:18:51.05Z,RtfBridge.SystemDrawing,2.0.1,Amit Tiwari,"Optional WMF/EMF vector image renderer for RtfBridge, based on System.Drawing.Common (Windows)."
+2026-11-09T18:30:08.687Z,EFCore.ReturningExtensions.MySql,10.2.3,efcore-returning-extensions,MySql provider implementation for EF Core RETURNING clause extensions. Adds support for UPDATE and DELETE operations with RETURNING clause returning affected rows data.
+2026-11-09T18:30:08.687Z,EFCore.ReturningExtensions.Mysql,10.2.3,efcore-returning-extensions,MySql provider implementation for EF Core RETURNING clause extensions. Adds support for UPDATE and DELETE operations with RETURNING clause returning affected rows data.
+2026-11-09T18:39:09.36Z,HPD-Base,0.9.5,"HPD-Research,Einstein Essibu","Typed, policy-aware, realtime application data platform for .NET."
+2026-11-09T18:39:10.44Z,HPD-Base.AspNetCore,0.9.5,"HPD-Research,Einstein Essibu","ASP.NET Core minimal API projection for HPD.BASE runtime records, metadata, health, diagnostics, and AOT-safe JSON."
+2026-11-09T18:39:11.377Z,HPD-Base.Auth,0.9.5,"HPD-Research,Einstein Essibu","HPD.Auth adapter for HPD.BASE principals, subjects, grants, policy evaluation, descriptors, health, and diagnostics."
+2026-11-09T18:39:12.14Z,HPD-Base.Generators,0.9.5,"HPD-Research,Einstein Essibu",Compile-time typed collection generation and diagnostics for HPD.Base.
+2026-11-09T18:39:13.703Z,HPD-Base.Testing,0.9.5,"HPD-Research,Einstein Essibu",Deterministic application test hosting for HPD.BASE.
+2026-11-09T18:43:36.62Z,GraftCode.Netcore.Telemetry.AppInsightsConnector,1.0.0,Graftcode S.A.,One-line Application Insights telemetry setup for GraftCode applications.
+2026-11-09T18:43:37.34Z,Graftcode.Instrumentation,1.0.0,Graftcode S.A.,OpenTelemetry spans and ILogger forwarding for Graftcode invocations
+2026-11-09T18:46:14.783Z,HPD-Graph.Base,0.9.5,"HPD-Research,Einstein Essibu",Durable HPD.Base activation integration for HPD-Graph.
+2026-11-09T18:46:39.133Z,Haya.Roslyn,0.0.6-beta1,Devon Burriss,Roslyn based analysis of C# solutions for Haya. Finds the Haya attributes and produces Haya.Core descriptors.
+2026-11-09T18:47:21.28Z,HPD-Auth-Base,0.9.5,"HPD-Research,Einstein Essibu",Generated HPD Base declarations for HPD Auth.
+2026-11-09T18:53:43.457Z,Utcp.AspNetCore,0.1.0,Khalid Abuhakmeh,"Publishes a UTCP (Universal Tool Calling Protocol) v1.1 manual at GET /utcp, built automatically from your ASP.NET Core OpenAPI document so AI agents can discover and call your HTTP endpoints."
+2026-11-09T18:57:02.797Z,Millzy.MelonModBuddy,1.0.0,Millzy,MSBuild utilities for MelonLoader mod projects.
+2026-11-09T19:02:04.223Z,Novolis.Audio.Voice.EdgeTts,2026.1.10.103,Novolis,Online TTS client for Microsoft Edge Read Aloud (same service as edge-tts). Requires network access; no Edge browser or Windows install required. Returns MP3 audio. Unofficial protocol adapter; LGPL-3.0 due to derivation from edge-tts.

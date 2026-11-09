@@ -12,42 +12,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 17:21 UTC
+## Latest list — 2026-11-09 19:18 UTC
 
-New packages created between 2026-11-09 16:21 UTC and 2026-11-09 17:21 UTC.
+New packages created between 2026-11-09 17:21 UTC and 2026-11-09 19:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T17-21-31-652485Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T19-18-59-561433Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 16:24:30 | [Peal](https://www.nuget.org/packages/Peal) | 0.1.0 | Peal | Client for the Peal API: schedule social media posts across platforms. |
-| 2026-11-09 16:24:40 | [HomeAssistant.Agent.Plugin.Sdk](https://www.nuget.org/packages/HomeAssistant.Agent.Plugin.Sdk) | 2.0.0 | Navatusein | Build plugins for Home Assistant Agent: the plugin API to compile against and t… |
-| 2026-11-09 16:24:41 | [HomeAssistant.Agent.Plugin.Templates](https://www.nuget.org/packages/HomeAssistant.Agent.Plugin.Templates) | 2.0.0 | Navatusein | dotnet new templates for Home Assistant Agent plugins. |
-| 2026-11-09 16:25:18 | [Fuaran.Survey.Sav](https://www.nuget.org/packages/Fuaran.Survey.Sav) | 0.1.0 | Andrew J. Willshire | Fuaran.Survey.Sav — a reader for agency survey deliverables in SPSS system-file… |
-| 2026-11-09 16:27:44 | [HPD-Auth-ControlPlane-AspNetCore](https://www.nuget.org/packages/HPD-Auth-ControlPlane-AspNetCore) | 0.9.5 | HPD-Research,Einstein Essibu | ASP.NET Core control-plane security composition for HPD frameworks. |
-| 2026-11-09 16:40:13 | [Taosecurity.Starfield.BuildKit](https://www.nuget.org/packages/Taosecurity.Starfield.BuildKit) | 0.1.0 | Richard Bejtlich | Shared setup code for Starfield plugin builders on Mutagen 0.54.4: masters open… |
-| 2026-11-09 16:47:43 | [G4.Plugins.SqlServer](https://www.nuget.org/packages/G4.Plugins.SqlServer) | 2026.11.9.163 | G4™ API Community | The G4.Plugins.SqlServer package provides a collection of plugins for querying,… |
-| 2026-11-09 16:49:06 | [nugetgo.github.com.itchyny.timefmt-go](https://www.nuget.org/packages/nugetgo.github.com.itchyny.timefmt-go) | 0.1.8 | go2cs conversion | unofficial go2cs C# conversion of github.com/itchyny/timefmt-go v0.1.8, built o… |
-| 2026-11-09 16:57:07 | [Dabbler.Api.Querying](https://www.nuget.org/packages/Dabbler.Api.Querying) | 1.0.0 | Dabbler Platform contributors | Server-side grid-query primitives for Dabbler-platform APIs: GridQueryRequest t… |
-| 2026-11-09 16:57:08 | [Dabbler.Components](https://www.nuget.org/packages/Dabbler.Components) | 1.0.0 | Dabbler Platform contributors | MudBlazor-native CRUD primitives for Blazor Server: declarative QBE filter pane… |
-| 2026-11-09 16:57:09 | [Dabbler.CrudSlice.Tool](https://www.nuget.org/packages/Dabbler.CrudSlice.Tool) | 1.0.0 | Dabbler Platform contributors | Repo-aware CRUD slice generator for the Dabbler platform Access-migration pipel… |
-| 2026-11-09 16:57:10 | [Dabbler.Platform.Stubs](https://www.nuget.org/packages/Dabbler.Platform.Stubs) | 1.0.0 | Dabbler Platform contributors | Opt-in stub providers for Dabbler bUnit and demo hosts: grid-data, combo-box, e… |
-| 2026-11-09 16:57:11 | [Dabbler.Reports.Blazor](https://www.nuget.org/packages/Dabbler.Reports.Blazor) | 1.0.0 | Dabbler Platform contributors | Blazor components for rendering and interacting with Dabbler Reports: ReportVie… |
-| 2026-11-09 16:57:12 | [Dabbler.Reports.Core](https://www.nuget.org/packages/Dabbler.Reports.Core) | 1.0.0 | Dabbler Platform contributors | Banded report engine with RDF-based definitions: layout composition, grouping,… |
-| 2026-11-09 16:57:13 | [Dabbler.Reports.Export](https://www.nuget.org/packages/Dabbler.Reports.Export) | 1.0.0 | Dabbler Platform contributors | PDF export for Dabbler Reports: renders composed report pages to PDF documents… |
-| 2026-11-09 16:57:14 | [Dabbler.Security](https://www.nuget.org/packages/Dabbler.Security) | 1.0.0 | Dabbler Platform contributors | Restriction-based authorization for ASP.NET Core: ColumnRestriction / RowRestri… |
-| 2026-11-09 16:57:14 | [Dabbler.Security.Blazor](https://www.nuget.org/packages/Dabbler.Security.Blazor) | 1.0.0 | Dabbler Platform contributors | Blazor Server UI surface for Dabbler.Security: secured-rendering components, th… |
-| 2026-11-09 16:57:16 | [Dabbler.Security.DevIdp.Tool](https://www.nuget.org/packages/Dabbler.Security.DevIdp.Tool) | 1.0.0 | Dabbler Platform contributors | Loopback dev IdP for Dabbler platform development. Run `dabbler-devidp` to star… |
-| 2026-11-09 16:57:17 | [Dabbler.Templates](https://www.nuget.org/packages/Dabbler.Templates) | 1.0.0 | Dabbler Platform contributors | Dotnet new templates for the Dabbler platform: dabbler-app (full Blazor Server… |
-| 2026-11-09 16:57:18 | [Dabbler.Testing.Blazor](https://www.nuget.org/packages/Dabbler.Testing.Blazor) | 1.0.0 | Dabbler Platform contributors | Testing utilities for Blazor Server apps: action watermark tracking, test readi… |
-| 2026-11-09 16:59:04 | [nugetgo.github.com.itchyny.gojq](https://www.nuget.org/packages/nugetgo.github.com.itchyny.gojq) | 0.12.19 | go2cs conversion | unofficial go2cs C# conversion of github.com/itchyny/gojq v0.12.19, built on th… |
-| 2026-11-09 17:06:21 | [HPD-Environment.Contracts](https://www.nuget.org/packages/HPD-Environment.Contracts) | 0.9.5 | HPD-Research,Einstein Essibu | Execution environment contracts, resource shapes, provider interfaces, and targ… |
-| 2026-11-09 17:06:22 | [HPD-Environment.HostContainers](https://www.nuget.org/packages/HPD-Environment.HostContainers) | 0.9.5 | HPD-Research,Einstein Essibu | Host container Environment provider for trusted HPD workloads using a mediated… |
-| 2026-11-09 17:06:22 | [HPD-Environment.HostProcess](https://www.nuget.org/packages/HPD-Environment.HostProcess) | 0.9.5 | HPD-Research,Einstein Essibu | Direct host process execution, operating-system sandbox enforcement, and networ… |
-| 2026-11-09 17:06:24 | [HPD-Environment.Search.Ripgrep](https://www.nuget.org/packages/HPD-Environment.Search.Ripgrep) | 0.9.5 | HPD-Research,Einstein Essibu | Verified, Environment-provisioned ripgrep binaries for HPD workspace search. |
-| 2026-11-09 17:06:25 | [HPD-Environment.Virtualization.Apple](https://www.nuget.org/packages/HPD-Environment.Virtualization.Apple) | 0.9.5 | HPD-Research,Einstein Essibu | Apple Virtualization.framework environment provider for HPD Agent using a super… |
-| 2026-11-09 17:06:26 | [HPD-Environment.Virtualization.Contracts](https://www.nuget.org/packages/HPD-Environment.Virtualization.Contracts) | 0.9.5 | HPD-Research,Einstein Essibu | Provider-neutral virtual-machine placement, boot, disk, lifecycle, and guest-co… |
-| 2026-11-09 17:06:27 | [HPD-Environment.Virtualization.GuestAgent](https://www.nuget.org/packages/HPD-Environment.Virtualization.GuestAgent) | 0.9.5 | HPD-Research,Einstein Essibu | Shared guest-agent protocol vocabulary and transport contracts for HPD virtual-… |
+| 2026-11-09 17:41:46 | [DigitalProduction.Projects](https://www.nuget.org/packages/DigitalProduction.Projects) | 0.2.0 | Lance A. Endres | A library for creating complex projects in .NET. |
+| 2026-11-09 17:43:15 | [GeWuYou.GFramework.Game.Harmony](https://www.nuget.org/packages/GeWuYou.GFramework.Game.Harmony) | 1.0.0 | GFramework.Game.Harmony | Package Description |
+| 2026-11-09 17:46:13 | [Vespa.NET.VectorData](https://www.nuget.org/packages/Vespa.NET.VectorData) | 1.0.0 | outmatic | Microsoft.Extensions.VectorData provider for existing Vespa application schemas… |
+| 2026-11-09 17:52:04 | [Meshmakers.Octo.Services.Methods.MongoDb](https://www.nuget.org/packages/Meshmakers.Octo.Services.Methods.MongoDb) | 3.5.70 | meshmakers GmbH and Contribut… | MongoDB store of the CK method operation records (asynchronous methods, system… |
+| 2026-11-09 17:54:38 | [RM.Api](https://www.nuget.org/packages/RM.Api) | 2.0.0 | Sukhov A.A. | An HTTP client library for the RM Web API — a service that manages work types,… |
+| 2026-11-09 17:56:44 | [IndeFlow.Observability.AspNetCore](https://www.nuget.org/packages/IndeFlow.Observability.AspNetCore) | 1.2.0 | INDESAD | Official .NET Core & ASP.NET Core Observability SDK for IndeFlow. Zero-delay fa… |
+| 2026-11-09 18:11:35 | [InfiniteToken.Lumber.Serilog](https://www.nuget.org/packages/InfiniteToken.Lumber.Serilog) | 1.0.0 | Jay Deaton | Serilog sink for Lumber: sends Serilog events to Lumber, encrypted end to end w… |
+| 2026-11-09 18:11:36 | [InfiniteToken.Lumber](https://www.nuget.org/packages/InfiniteToken.Lumber) | 1.0.0 | Jay Deaton | .NET client for Lumber: cloud logging with end-to-end encryption. Every log is… |
+| 2026-11-09 18:11:36 | [InfiniteToken.Lumber.Extensions.Logging](https://www.nuget.org/packages/InfiniteToken.Lumber.Extensions.Logging) | 1.0.0 | Jay Deaton | Microsoft.Extensions.Logging provider for Lumber: sends ILogger logs (ASP.NET C… |
+| 2026-11-09 18:13:36 | [RtfBridge](https://www.nuget.org/packages/RtfBridge) | 2.0.1 | Amit Tiwari | Pure-managed RTF to HTML converter. No WPF, no System.Drawing. Works on Windows… |
+| 2026-11-09 18:16:11 | [RtfBridge.AspNetCore](https://www.nuget.org/packages/RtfBridge.AspNetCore) | 2.0.1 | Amit Tiwari | ASP.NET Core integration for RtfBridge: DI extensions and a ready-made minimal-… |
+| 2026-11-09 18:18:51 | [RtfBridge.SystemDrawing](https://www.nuget.org/packages/RtfBridge.SystemDrawing) | 2.0.1 | Amit Tiwari | Optional WMF/EMF vector image renderer for RtfBridge, based on System.Drawing.C… |
+| 2026-11-09 18:30:08 | [EFCore.ReturningExtensions.MySql](https://www.nuget.org/packages/EFCore.ReturningExtensions.MySql) | 10.2.3 | efcore-returning-extensions | MySql provider implementation for EF Core RETURNING clause extensions. Adds sup… |
+| 2026-11-09 18:30:08 | [EFCore.ReturningExtensions.Mysql](https://www.nuget.org/packages/EFCore.ReturningExtensions.Mysql) | 10.2.3 | efcore-returning-extensions | MySql provider implementation for EF Core RETURNING clause extensions. Adds sup… |
+| 2026-11-09 18:39:09 | [HPD-Base](https://www.nuget.org/packages/HPD-Base) | 0.9.5 | HPD-Research,Einstein Essibu | Typed, policy-aware, realtime application data platform for .NET. |
+| 2026-11-09 18:39:10 | [HPD-Base.AspNetCore](https://www.nuget.org/packages/HPD-Base.AspNetCore) | 0.9.5 | HPD-Research,Einstein Essibu | ASP.NET Core minimal API projection for HPD.BASE runtime records, metadata, hea… |
+| 2026-11-09 18:39:11 | [HPD-Base.Auth](https://www.nuget.org/packages/HPD-Base.Auth) | 0.9.5 | HPD-Research,Einstein Essibu | HPD.Auth adapter for HPD.BASE principals, subjects, grants, policy evaluation,… |
+| 2026-11-09 18:39:12 | [HPD-Base.Generators](https://www.nuget.org/packages/HPD-Base.Generators) | 0.9.5 | HPD-Research,Einstein Essibu | Compile-time typed collection generation and diagnostics for HPD.Base. |
+| 2026-11-09 18:39:13 | [HPD-Base.Testing](https://www.nuget.org/packages/HPD-Base.Testing) | 0.9.5 | HPD-Research,Einstein Essibu | Deterministic application test hosting for HPD.BASE. |
+| 2026-11-09 18:43:36 | [GraftCode.Netcore.Telemetry.AppInsightsConnector](https://www.nuget.org/packages/GraftCode.Netcore.Telemetry.AppInsightsConnector) | 1.0.0 | Graftcode S.A. | One-line Application Insights telemetry setup for GraftCode applications. |
+| 2026-11-09 18:43:37 | [Graftcode.Instrumentation](https://www.nuget.org/packages/Graftcode.Instrumentation) | 1.0.0 | Graftcode S.A. | OpenTelemetry spans and ILogger forwarding for Graftcode invocations |
+| 2026-11-09 18:46:14 | [HPD-Graph.Base](https://www.nuget.org/packages/HPD-Graph.Base) | 0.9.5 | HPD-Research,Einstein Essibu | Durable HPD.Base activation integration for HPD-Graph. |
+| 2026-11-09 18:46:39 | [Haya.Roslyn](https://www.nuget.org/packages/Haya.Roslyn) | 0.0.6-beta1 | Devon Burriss | Roslyn based analysis of C# solutions for Haya. Finds the Haya attributes and p… |
+| 2026-11-09 18:47:21 | [HPD-Auth-Base](https://www.nuget.org/packages/HPD-Auth-Base) | 0.9.5 | HPD-Research,Einstein Essibu | Generated HPD Base declarations for HPD Auth. |
+| 2026-11-09 18:53:43 | [Utcp.AspNetCore](https://www.nuget.org/packages/Utcp.AspNetCore) | 0.1.0 | Khalid Abuhakmeh | Publishes a UTCP (Universal Tool Calling Protocol) v1.1 manual at GET /utcp, bu… |
+| 2026-11-09 18:57:02 | [Millzy.MelonModBuddy](https://www.nuget.org/packages/Millzy.MelonModBuddy) | 1.0.0 | Millzy | MSBuild utilities for MelonLoader mod projects. |
+| 2026-11-09 19:02:04 | [Novolis.Audio.Voice.EdgeTts](https://www.nuget.org/packages/Novolis.Audio.Voice.EdgeTts) | 2026.1.10.103 | Novolis | Online TTS client for Microsoft Edge Read Aloud (same service as edge-tts). Req… |
 
 ## Data source
 
