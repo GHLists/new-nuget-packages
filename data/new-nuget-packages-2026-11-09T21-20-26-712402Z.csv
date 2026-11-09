@@ -1,0 +1,100 @@
+created_at,package,version,authors,description
+2026-11-09T20:23:06.93Z,BgFramework.Billet,26.11.9.3,Bruno Guelere,Bank-agnostic Brazilian boleto billing with bank-specific CNAB layouts and optional API providers.
+2026-11-09T20:27:31.36Z,Tauri.NET,2.6.2,Tauri.NET contributors,"Desktop apps in .NET (ASP.NET Core, Blazor Server) in a Tauri v2 shell, with an Electron.NET-like C# API."
+2026-11-09T20:48:51.367Z,Dacke.DapperPaging.Cursor,1.0.5,Dacke.DapperPaging.Cursor,"High-performance Dapper extension methods for cursor keyset-based pagination (Skip/Take), sorting, and SQL parameterization."
+2026-11-09T20:54:50.193Z,Microsoft.iOS.Ref.net10.0_27.2,27.2.10000,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-11-09T20:54:52.123Z,Microsoft.iOS.Ref.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-11-09T20:54:53.717Z,Microsoft.iOS.Ref.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-11-09T20:54:55.54Z,Microsoft.iOS.Ref.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft iOS reference assemblies. Please do not reference directly.
+2026-11-09T20:54:57.017Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.2,27.2.10000,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-11-09T20:54:58.777Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-11-09T20:55:00.203Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-11-09T20:55:01.42Z,Microsoft.iOS.Runtime.ios-arm64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft iOS runtime pack for ios-arm64. Please do not reference directly.
+2026-11-09T20:55:04.157Z,Microsoft.iOS.Runtime.ios.net10.0_27.2,27.2.10000,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-11-09T20:55:06.517Z,Microsoft.iOS.Runtime.ios.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-11-09T20:55:08.88Z,Microsoft.iOS.Runtime.ios.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-11-09T20:55:11.543Z,Microsoft.iOS.Runtime.ios.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft iOS managed runtime pack for ios. Please do not reference directly.
+2026-11-09T20:55:13.313Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.2,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-11-09T20:55:14.76Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-11-09T20:55:16.483Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-11-09T20:55:18.037Z,Microsoft.iOS.Runtime.iossimulator-arm64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-arm64. Please do not reference directly.
+2026-11-09T20:55:19.523Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.2,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-11-09T20:55:20.98Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-11-09T20:55:22.353Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-11-09T20:55:23.997Z,Microsoft.iOS.Runtime.iossimulator-x64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft iOS runtime pack for iossimulator-x64. Please do not reference directly.
+2026-11-09T20:55:32.36Z,Microsoft.iOS.Sdk.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:36.123Z,Microsoft.iOS.Sdk.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:39.097Z,Microsoft.iOS.Sdk.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:46.14Z,Microsoft.iOS.Windows.Sdk.net10.0_27.2,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:48.073Z,Microsoft.iOS.Windows.Sdk.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:50.103Z,Microsoft.iOS.Windows.Sdk.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:51.653Z,Microsoft.iOS.Windows.Sdk.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Managed Tools and Bindings for the iOS SDK
+2026-11-09T20:55:53.213Z,Microsoft.MacCatalyst.Ref.net10.0_27.2,27.2.10000,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-11-09T20:55:56.877Z,Microsoft.MacCatalyst.Ref.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-11-09T20:55:58.8Z,Microsoft.MacCatalyst.Ref.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-11-09T20:56:03.093Z,Microsoft.MacCatalyst.Ref.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft MacCatalyst reference assemblies. Please do not reference directly.
+2026-11-09T20:56:04.667Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.2,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-11-09T20:56:06.123Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-11-09T20:56:07.67Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-11-09T20:56:09.257Z,Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-arm64. Please do not reference directly.
+2026-11-09T20:56:10.847Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.2,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-11-09T20:56:12.373Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-11-09T20:56:13.76Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-11-09T20:56:15.257Z,Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft MacCatalyst runtime pack for maccatalyst-x64. Please do not reference directly.
+2026-11-09T20:56:17.397Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.2,27.2.10000,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-11-09T20:56:19.827Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-11-09T20:56:22.09Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-11-09T20:56:24.023Z,Microsoft.MacCatalyst.Runtime.maccatalyst.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft MacCatalyst managed runtime pack for maccatalyst. Please do not reference directly.
+2026-11-09T20:56:25.747Z,Microsoft.MacCatalyst.Sdk.net10.0_27.2,27.2.10000,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-11-09T20:56:27.267Z,Microsoft.MacCatalyst.Sdk.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-11-09T20:56:28.803Z,Microsoft.MacCatalyst.Sdk.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-11-09T20:56:30.32Z,Microsoft.MacCatalyst.Sdk.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Managed Tools and Bindings for the MacCatalyst SDK
+2026-11-09T20:56:37.353Z,Microsoft.macOS.Ref.net10.0_27.2,27.2.10000,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-11-09T20:56:38.867Z,Microsoft.macOS.Ref.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-11-09T20:56:40.397Z,Microsoft.macOS.Ref.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-11-09T20:56:42.157Z,Microsoft.macOS.Ref.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft macOS reference assemblies. Please do not reference directly.
+2026-11-09T20:56:43.793Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.2,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-11-09T20:56:45.053Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-11-09T20:56:46.383Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-11-09T20:56:47.827Z,Microsoft.macOS.Runtime.osx-arm64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-arm64. Please do not reference directly.
+2026-11-09T20:56:49.163Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.2,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-11-09T20:56:50.413Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-11-09T20:56:51.91Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-11-09T20:56:53.307Z,Microsoft.macOS.Runtime.osx-x64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft macOS runtime pack for osx-x64. Please do not reference directly.
+2026-11-09T20:56:55.497Z,Microsoft.macOS.Runtime.osx.net10.0_27.2,27.2.10000,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-11-09T20:56:57.413Z,Microsoft.macOS.Runtime.osx.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-11-09T20:56:59.98Z,Microsoft.macOS.Runtime.osx.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-11-09T20:57:02.393Z,Microsoft.macOS.Runtime.osx.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft macOS managed runtime pack for osx. Please do not reference directly.
+2026-11-09T20:57:06.67Z,Microsoft.macOS.Sdk.net10.0_27.2,27.2.10000,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-11-09T20:57:08.477Z,Microsoft.macOS.Sdk.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-11-09T20:57:10.26Z,Microsoft.macOS.Sdk.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-11-09T20:57:12.21Z,Microsoft.macOS.Sdk.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Managed Tools and Bindings for the macOS SDK
+2026-11-09T20:57:19.32Z,Microsoft.tvOS.Ref.net10.0_27.2,27.2.10000,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-11-09T20:57:21.13Z,Microsoft.tvOS.Ref.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-11-09T20:57:22.807Z,Microsoft.tvOS.Ref.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-11-09T20:57:24.46Z,Microsoft.tvOS.Ref.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft tvOS reference assemblies. Please do not reference directly.
+2026-11-09T20:57:26.157Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.2,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-11-09T20:57:27.94Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-11-09T20:57:29.323Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-11-09T20:57:30.823Z,Microsoft.tvOS.Runtime.tvos-arm64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvos-arm64. Please do not reference directly.
+2026-11-09T20:57:33.287Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.2,27.2.10000,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-11-09T20:57:35.217Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-11-09T20:57:37.237Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-11-09T20:57:39.167Z,Microsoft.tvOS.Runtime.tvos.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft tvOS managed runtime pack for tvos. Please do not reference directly.
+2026-11-09T20:57:41.01Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.2,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-11-09T20:57:42.3Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-11-09T20:57:43.67Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-11-09T20:57:44.947Z,Microsoft.tvOS.Runtime.tvossimulator-arm64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-arm64. Please do not reference directly.
+2026-11-09T20:57:46.617Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.2,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-11-09T20:57:47.987Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.2.Msi.arm64,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-11-09T20:57:49.443Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-11-09T20:57:50.797Z,Microsoft.tvOS.Runtime.tvossimulator-x64.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Microsoft tvOS runtime pack for tvossimulator-x64. Please do not reference directly.
+2026-11-09T20:57:55.24Z,Microsoft.tvOS.Sdk.net10.0_27.2,27.2.10000,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-11-09T20:58:04.99Z,Microsoft.tvOS.Sdk.net10.0_27.2.Msi.x64,27.2.10000,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-11-09T20:58:08.56Z,Microsoft.tvOS.Sdk.net10.0_27.2.Msi.x86,27.2.10000,Microsoft,Managed Tools and Bindings for the tvOS SDK
+2026-11-09T21:09:40.947Z,Zorg.Json.AspNetCore,0.1.0,Zorg.Json contributors,"ASP.NET Core integration for Zorg.Json: validate request bodies, return RFC 9457 problem details and serve JSON Schema documents."
+2026-11-09T21:09:41.303Z,Zorg.Json.Llm,0.1.0,Zorg.Json contributors,"Schema profiles for OpenAI, Anthropic and Gemini structured outputs, for Zorg.Json."
+2026-11-09T21:09:41.653Z,Zorg.Json.Extensions.AI,0.1.0,Zorg.Json contributors,"Microsoft.Extensions.AI integration for Zorg.Json: tools whose arguments are validated, and typed structured responses."
+2026-11-09T21:09:42.1Z,Zorg.Json.AspNetCore.OpenApi,0.1.0,Zorg.Json contributors,Puts Zorg.Json schemas into the OpenAPI documents of Microsoft.AspNetCore.OpenApi.
+2026-11-09T21:09:42.487Z,Zorg.Json,0.1.0,Zorg.Json contributors,"Fluent, Zod-inspired JSON Schema generation and validation for .NET."
+2026-11-09T21:10:54.273Z,DotGame.Imaging,1.0.0,Hot Chai Games LLC,"PNG, JPEG and WebP image codecs for .NET, with no dependencies. Trim and AOT safe."
