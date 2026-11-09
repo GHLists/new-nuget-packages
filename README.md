@@ -12,39 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 03:18 UTC
+## Latest list — 2026-11-09 04:20 UTC
 
-New packages created between 2026-11-09 02:21 UTC and 2026-11-09 03:18 UTC.
+New packages created between 2026-11-09 03:18 UTC and 2026-11-09 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T03-18-49-100807Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T04-20-25-63538Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 02:46:14 | [RazorConsole.Cli](https://www.nuget.org/packages/RazorConsole.Cli) | 0.7.0 | RazorConsole | Drive and inspect RazorConsole apps from the command line: run them in a pseudo… |
-| 2026-11-09 02:46:20 | [RazorConsole.Testing](https://www.nuget.org/packages/RazorConsole.Testing) | 0.7.0 | RazorConsole | Test hosts for RazorConsole: mount components headlessly at a fixed terminal si… |
-| 2026-11-09 02:48:05 | [TKCode.Arc.Foundation](https://www.nuget.org/packages/TKCode.Arc.Foundation) | 1.0.0 | TKCode.Arc contributors | Theme and token runtime for TKCode.Arc: design tokens, light and dark publishin… |
-| 2026-11-09 02:48:06 | [TKCode.Arc.Core](https://www.nuget.org/packages/TKCode.Arc.Core) | 1.0.0 | TKCode.Arc contributors | Arc-style component library for Avalonia. Ports the free components of Arc (uia… |
-| 2026-11-09 02:48:07 | [TKCode.Arc.Fonts](https://www.nuget.org/packages/TKCode.Arc.Fonts) | 1.0.0 | TKCode.Arc contributors | Geist and Geist Mono (SIL OFL 1.1, Vercel) for TKCode.Arc, registered as fonts:… |
-| 2026-11-09 02:48:08 | [TKCode.Arc.Icons.Lucide](https://www.nuget.org/packages/TKCode.Arc.Icons.Lucide) | 1.0.0 | TKCode.Arc contributors | The complete Lucide icon set (ISC) for TKCode.Arc: LucideIcon control and Lucid… |
-| 2026-11-09 02:48:08 | [TKCode.Arc.Audio](https://www.nuget.org/packages/TKCode.Arc.Audio) | 1.0.0 | TKCode.Arc contributors | Audio playback abstraction for TKCode.Arc (IAudioPlayer, AudioSource) with a si… |
-| 2026-11-09 02:48:09 | [TKCode.Arc.Audio.Native](https://www.nuget.org/packages/TKCode.Arc.Audio.Native) | 1.0.0 | TKCode.Arc contributors | Desktop audio backend for TKCode.Arc.Audio (Windows, macOS, Linux; x64 and arm6… |
-| 2026-11-09 02:48:10 | [TKCode.Arc.Audio.Browser](https://www.nuget.org/packages/TKCode.Arc.Audio.Browser) | 1.0.0 | TKCode.Arc contributors | WebAssembly audio backend for TKCode.Arc.Audio: one HTML audio element per play… |
-| 2026-11-09 02:48:11 | [TKCode.Arc](https://www.nuget.org/packages/TKCode.Arc) | 1.0.0 | TKCode.Arc contributors | Arc-style component library for Avalonia. Ports the free components of Arc (uia… |
-| 2026-11-09 02:48:12 | [TKCode.Arc.Pdf](https://www.nuget.org/packages/TKCode.Arc.Pdf) | 1.0.0 | TKCode.Arc contributors | PDF viewing for TKCode.Arc: PdfViewer (PageViewer plus a sidebar with thumbnail… |
-| 2026-11-09 02:48:14 | [TKCode.Arc.Pdf.Native](https://www.nuget.org/packages/TKCode.Arc.Pdf.Native) | 1.0.0 | TKCode.Arc contributors | Desktop PDF backend for TKCode.Arc.Pdf (Windows, macOS, Linux; x64 and arm64),… |
-| 2026-11-09 02:48:15 | [TKCode.Arc.Pdf.Browser](https://www.nuget.org/packages/TKCode.Arc.Pdf.Browser) | 1.0.0 | TKCode.Arc contributors | WebAssembly PDF backend for TKCode.Arc.Pdf, built on pdf.js. Call await ArcPdfB… |
-| 2026-11-09 02:48:16 | [TKCode.Arc.Blocks](https://www.nuget.org/packages/TKCode.Arc.Blocks) | 1.0.0 | TKCode.Arc contributors | Page-level block compositions for TKCode.Arc, built from Arc components. Ports… |
-| 2026-11-09 02:48:17 | [TKCode.Arc.AdvancedCharts](https://www.nuget.org/packages/TKCode.Arc.AdvancedCharts) | 1.0.0 | TKCode.Arc contributors | Advanced charts for TKCode.Arc: Sunburst, SankeyFlow, FunnelChart, RadarChart,… |
-| 2026-11-09 02:48:19 | [TKCode.Arc.Special](https://www.nuget.org/packages/TKCode.Arc.Special) | 1.0.0 | TKCode.Arc contributors | Special components for TKCode.Arc, the uiarc.dev "Special components" section:… |
-| 2026-11-09 02:48:20 | [TKCode.Arc.Terminal](https://www.nuget.org/packages/TKCode.Arc.Terminal) | 1.0.0 | TKCode.Arc contributors | Terminal emulator for Avalonia: the TerminalView control and a managed facade o… |
-| 2026-11-09 02:48:20 | [TKCode.Arc.Workflow](https://www.nuget.org/packages/TKCode.Arc.Workflow) | 1.0.0 | TKCode.Arc contributors | Workflow canvas for TKCode.Arc: show and edit graphs of steps and connections o… |
-| 2026-11-09 02:48:21 | [TKCode.Arc.Dock](https://www.nuget.org/packages/TKCode.Arc.Dock) | 1.0.0 | TKCode.Arc contributors | IDE-style dock layout for TKCode.Arc: panes in tab groups, nested horizontal an… |
-| 2026-11-09 02:48:22 | [TKCode.Arc.Themes.Pixel](https://www.nuget.org/packages/TKCode.Arc.Themes.Pixel) | 1.0.0 | TKCode.Arc contributors | Pixel-art theme (token overrides only, no controls) for TKCode.Arc: square corn… |
-| 2026-11-09 02:48:23 | [TKCode.Arc.Themes.Corners](https://www.nuget.org/packages/TKCode.Arc.Themes.Corners) | 1.0.0 | TKCode.Arc contributors | Global corner style for TKCode.Arc (token overrides only, no controls): square… |
-| 2026-11-09 02:48:24 | [TKCode.Arc.Mobile](https://www.nuget.org/packages/TKCode.Arc.Mobile) | 1.0.0 | TKCode.Arc contributors | Touch-first Arc components for Avalonia (first slice: page, navbar, tabbar, but… |
-| 2026-11-09 02:48:24 | [TKCode.Arc.Templates](https://www.nuget.org/packages/TKCode.Arc.Templates) | 1.0.0 | TKCode.Arc contributors | dotnet new templates for TKCode.Arc: desktop and cross-platform (desktop + WebA… |
-| 2026-11-09 02:54:43 | [Sevencat.ImgproSharp](https://www.nuget.org/packages/Sevencat.ImgproSharp) | 0.1.0 | sevencat | Drawing for Sdcb.SimdCodecs: shapes, gradients, strokes and TrueType text over… |
-| 2026-11-09 02:54:49 | [Sylvanas.CascadeComboBox](https://www.nuget.org/packages/Sylvanas.CascadeComboBox) | 1.0.0 | Sylvanas | WPF 两级（父/子）级联下拉选择框：左右分栏面板，点父类不关闭、点子类才选中关闭；零第三方主题依赖，支持外部样式注入。 |
+| 2026-11-09 03:52:54 | [Cratis.Arc.Mcp](https://www.nuget.org/packages/Cratis.Arc.Mcp) | 22.177.0 | Cratis | Model Context Protocol serving for Cratis Arc: explicitly declared commands and… |
+| 2026-11-09 03:54:09 | [BSGameLib.Core](https://www.nuget.org/packages/BSGameLib.Core) | 1.0.3-preview | Burningstorm Studios | The types every BSGameLib package and a game's shared code agree on: IIdentifia… |
+| 2026-11-09 03:54:09 | [BSGameLib.Chat](https://www.nuget.org/packages/BSGameLib.Chat) | 1.0.4-preview | Burningstorm Studios | A chat and slash-command engine for games: commands from a fluent builder or at… |
+| 2026-11-09 03:54:10 | [BSGameLib.MsQuic.Native](https://www.nuget.org/packages/BSGameLib.MsQuic.Native) | 1.0.3-preview | Burningstorm Studios | Native msquic for .NET's QUIC on Linux and macOS, copied beside a game's execut… |
+| 2026-11-09 03:54:12 | [BSGameLib.Networking](https://www.nuget.org/packages/BSGameLib.Networking) | 1.0.4-preview | Burningstorm Studios | Client and server networking for games over QUIC: plain-class packets, reliable… |
+| 2026-11-09 03:54:14 | [BSGameLib.Server](https://www.nuget.org/packages/BSGameLib.Server) | 1.0.4-preview | Burningstorm Studios | A dedicated game server host on Microsoft.Extensions.Hosting: finds your game's… |
+| 2026-11-09 03:54:16 | [BSGameLib.Sdl3.Native](https://www.nuget.org/packages/BSGameLib.Sdl3.Native) | 1.0.3-preview | Burningstorm Studios | Native SDL3, SDL3_image and SDL3_mixer for Windows, Linux and macOS, copied bes… |
+| 2026-11-09 03:54:17 | [BSGameLib.MoltenVK.Native](https://www.nuget.org/packages/BSGameLib.MoltenVK.Native) | 1.0.3-preview | Burningstorm Studios | MoltenVK, Vulkan for macOS, copied beside a game's executable. Added automatica… |
+| 2026-11-09 03:54:18 | [BSGameLib.Sdl3.Interop](https://www.nuget.org/packages/BSGameLib.Sdl3.Interop) | 1.0.4-preview | Burningstorm Studios | .NET bindings for SDL3, SDL3_image and SDL3_mixer, generated from the SDL heade… |
+| 2026-11-09 03:54:19 | [BSGameLib.Game](https://www.nuget.org/packages/BSGameLib.Game) | 1.0.11-preview | Burningstorm Studios | A 2D game engine for .NET on SDL3, with Vulkan and OpenGL renderers, shaders co… |
+| 2026-11-09 03:54:20 | [BSGameLib.Game.ShaderCompiler](https://www.nuget.org/packages/BSGameLib.Game.ShaderCompiler) | 1.0.4-preview | Burningstorm Studios | Compiles GLSL to SPIR-V at runtime for BSGameLib.Game's Vulkan renderer, with a… |
+| 2026-11-09 03:54:20 | [BSGameLib.UI](https://www.nuget.org/packages/BSGameLib.UI) | 1.0.4-preview | Burningstorm Studios | The UI layer for BSGameLib.Game: views in XML or C#, bound to view-models, with… |
+| 2026-11-09 03:58:44 | [Weave.WebSharper](https://www.nuget.org/packages/Weave.WebSharper) | 0.1.0 | Weave contributors | A component library for building F# web applications with WebSharper. |
+| 2026-11-09 04:05:21 | [Sokuro](https://www.nuget.org/packages/Sokuro) | 1.0.0 | Pdawg | A fast, multi-threaded logging library for .NET designed for low latency and th… |
+| 2026-11-09 04:10:26 | [PiSharp.Chord.Hosting](https://www.nuget.org/packages/PiSharp.Chord.Hosting) | 1.5.0.1 | PiSharp contributors | EXPERIMENTAL. Native Chord plugin, HTTP and process-worker hosting. Requires th… |
+| 2026-11-09 04:10:28 | [PiSharp.Env.Protocol](https://www.nuget.org/packages/PiSharp.Env.Protocol) | 1.5.0.1 | PiSharp contributors | EXPERIMENTAL. Bounded frame codec for the PiSharp remote environment protocol.… |
+| 2026-11-09 04:10:30 | [PiSharp.Chord](https://www.nuget.org/packages/PiSharp.Chord) | 1.5.0.1 | PiSharp contributors | EXPERIMENTAL. Native Chord host, state, jobs, registries and versioned links. R… |
+| 2026-11-09 04:10:31 | [PiSharp.Env](https://www.nuget.org/packages/PiSharp.Env) | 1.5.0.1 | PiSharp contributors | EXPERIMENTAL. Remote execution, filesystem, watch and SSH environment client. D… |
+| 2026-11-09 04:10:32 | [PiSharp.Durable.Store](https://www.nuget.org/packages/PiSharp.Durable.Store) | 1.5.0.1 | PiSharp contributors | EXPERIMENTAL. Durable storage and registry adapters for Chord with SQLite. Supp… |
+| 2026-11-09 04:13:19 | [Weave.WebSharper.Templates](https://www.nuget.org/packages/Weave.WebSharper.Templates) | 0.1.0 | Weave contributors | Project templates for Weave and WebSharper. |
 
 ## Data source
 
