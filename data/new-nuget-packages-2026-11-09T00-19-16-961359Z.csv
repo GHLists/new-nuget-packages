@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-11-08T23:39:21.89Z,ClaudeCode.Net.Extensions.AI,1.0.0,Greg Haley,Microsoft.Extensions.AI (IChatClient) adapter for ClaudeCode.Net: drive Claude Code CLI sessions through the standard .NET AI abstractions. Works with Max plan authentication (claude login) - no API key required.

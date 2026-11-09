@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 23:19 UTC
+## Latest list — 2026-11-09 00:19 UTC
 
-New packages created between 2026-11-08 22:21 UTC and 2026-11-08 23:19 UTC.
+New packages created between 2026-11-08 23:19 UTC and 2026-11-09 00:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-08T23-19-55-23026Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T00-19-16-961359Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-08 22:50:17 | [Stabilt.TellusTalk.Emulator.Aspire](https://www.nuget.org/packages/Stabilt.TellusTalk.Emulator.Aspire) | 0.2.0 | Stabilt AB | Runs TellusTalk Emulator, a local stand-in for TellusTalk's K8 send API, from a… |
-| 2026-11-08 22:51:09 | [FontStashSharp.Rasterizers.StbTrueTypeNext](https://www.nuget.org/packages/FontStashSharp.Rasterizers.StbTrueTypeNext) | 1.3.0 | FontStashSharpTeam | Package Description |
-| 2026-11-08 23:07:24 | [Th3z.Kanban.Plugins](https://www.nuget.org/packages/Th3z.Kanban.Plugins) | 0.5.1 | Th3shoterZ | The contract for plugins of the TH3Z Kanban desktop app. |
-| 2026-11-08 23:12:11 | [ghget](https://www.nuget.org/packages/ghget) | 0.1.0 | haohanyang | A command line tool that downloads files and directories from GitHub by URL. |
+| 2026-11-08 23:39:21 | [ClaudeCode.Net.Extensions.AI](https://www.nuget.org/packages/ClaudeCode.Net.Extensions.AI) | 1.0.0 | Greg Haley | Microsoft.Extensions.AI (IChatClient) adapter for ClaudeCode.Net: drive Claude… |
 
 ## Data source
 
