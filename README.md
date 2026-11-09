@@ -12,28 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 13:21 UTC
+## Latest list — 2026-11-09 14:19 UTC
 
-New packages created between 2026-11-09 12:20 UTC and 2026-11-09 13:21 UTC.
+New packages created between 2026-11-09 13:21 UTC and 2026-11-09 14:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T13-21-32-185692Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T14-19-08-859913Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 12:23:30 | [AngleSharp.Browser](https://www.nuget.org/packages/AngleSharp.Browser) | 0.1.0 | AngleSharp | A UI-agnostic browser engine bringing the AngleSharp ecosystem together. |
-| 2026-11-09 12:23:32 | [AngleSharp.Browser.Avalonia](https://www.nuget.org/packages/AngleSharp.Browser.Avalonia) | 0.1.0 | AngleSharp | An Avalonia control displaying web pages with AngleSharp.Browser. |
-| 2026-11-09 12:38:15 | [OsuSv](https://www.nuget.org/packages/OsuSv) | 0.1.0 | lEttEr93 | osu! mania 谱面的变速（SV）评估：把滚动速度变化拆成不等时、极端度、背谱度、不适度、夸张度几个独立的量，不合成单一分数。输入是 .osu 文本，纯… |
-| 2026-11-09 12:38:17 | [OsuSv.Cli](https://www.nuget.org/packages/OsuSv.Cli) | 0.1.0 | lEttEr93 | osu-sv 命令行：算 osu! mania 谱面的 SV 评估量（osu-sv compute chart.osu --json）。 |
-| 2026-11-09 12:40:12 | [Bintiny.Umbraco](https://www.nuget.org/packages/Bintiny.Umbraco) | 0.1.0 | B. Gunnarsson | Compresses images with bintiny as Umbraco saves them. |
-| 2026-11-09 12:59:08 | [PosInformatique.Foundations.EntityFramework.Converters](https://www.nuget.org/packages/PosInformatique.Foundations.EntityFramework.Converters) | 1.4.0 | Gilles TOURREAU | Provides a collection of basic Entity Framework Core value converters, includin… |
-| 2026-11-09 13:00:17 | [Inceptus.DiagramEngine.Bpmn](https://www.nuget.org/packages/Inceptus.DiagramEngine.Bpmn) | 1.0.0 | Robert Prokopczuk | BPMN notation semantics, commands, validation, and plugin contributions for the… |
-| 2026-11-09 13:00:19 | [Inceptus.DiagramEngine.Bpmn.Blazor](https://www.nuget.org/packages/Inceptus.DiagramEngine.Bpmn.Blazor) | 1.0.0 | Robert Prokopczuk | BPMN modeler components and browser presentation integration for the Inceptus D… |
-| 2026-11-09 13:00:20 | [Inceptus.DiagramEngine.Canvas2D](https://www.nuget.org/packages/Inceptus.DiagramEngine.Canvas2D) | 1.0.0 | Robert Prokopczuk | Canvas2D browser editing session, interaction, scene, and renderer integration… |
-| 2026-11-09 13:00:20 | [Universal.Databricks.Client](https://www.nuget.org/packages/Universal.Databricks.Client) | 1.0.0 | Andrew Ong | .NET client for the Databricks Unity Gateway: unified Chat Completions and Resp… |
-| 2026-11-09 13:00:21 | [Inceptus.DiagramEngine.Contracts](https://www.nuget.org/packages/Inceptus.DiagramEngine.Contracts) | 1.0.0 | Robert Prokopczuk | Immutable contracts and extension APIs for the Inceptus Diagram Engine. |
-| 2026-11-09 13:00:22 | [Inceptus.DiagramEngine.Organizational](https://www.nuget.org/packages/Inceptus.DiagramEngine.Organizational) | 1.0.0 | Robert Prokopczuk | Organizational Profile semantics and plugin contributions for the Inceptus Diag… |
-| 2026-11-09 13:00:24 | [Inceptus.DiagramEngine.Runtime](https://www.nuget.org/packages/Inceptus.DiagramEngine.Runtime) | 1.0.0 | Robert Prokopczuk | Headless document, command, history, projection, layout, routing, validation, a… |
-| 2026-11-09 13:04:22 | [OpenSoundControl.Core](https://www.nuget.org/packages/OpenSoundControl.Core) | 0.1.0-dev2 | Agash | Open Sound Control for .NET: OSC 1.0 and 1.1 codec (messages, bundles, time tag… |
+| 2026-11-09 13:23:46 | [Fusonic.Extensions.Aspire.Hosting](https://www.nuget.org/packages/Fusonic.Extensions.Aspire.Hosting) | 10.3.0 | Fusonic | Extensions for the Aspire AppHost: group containers as a Docker Compose stack,… |
+| 2026-11-09 13:24:42 | [Webority.EntityProfiles](https://www.nuget.org/packages/Webority.EntityProfiles) | 0.2.1 | Webority.EntityProfiles | Per-head entity profiles for an EF Core DbContext several web heads share: a ge… |
+| 2026-11-09 13:24:46 | [Webority.HeadGuard](https://www.nuget.org/packages/Webority.HeadGuard) | 0.2.1 | Webority.HeadGuard | Starts each deployed .NET head up to the point before it serves, with only its… |
+| 2026-11-09 13:25:45 | [KpokPatagon.Data.PostgreSql](https://www.nuget.org/packages/KpokPatagon.Data.PostgreSql) | 10.3.26313.2 | Marcelo Vargas | Database interface for PostgreSQL of Kpok Patagon Framework. |
+| 2026-11-09 13:28:42 | [Tubatools.SteamToolbox](https://www.nuget.org/packages/Tubatools.SteamToolbox) | 1.0.0 | 图吧工具箱 | Steam 工具箱插件：本机账号与多存储库游戏管理、封面与时长、SteamKit 挂时长 |
+| 2026-11-09 13:33:47 | [DotNetQuery](https://www.nuget.org/packages/DotNetQuery) | 0.1.0 | DotNetQuery contributors | Core query client for DotNetQuery: single-flight deduplication, stale-while-rev… |
+| 2026-11-09 13:33:48 | [DotNetQuery.Abstractions](https://www.nuget.org/packages/DotNetQuery.Abstractions) | 0.1.0 | DotNetQuery contributors | Provider-agnostic abstractions for DotNetQuery, a React Query-style query and m… |
+| 2026-11-09 13:33:49 | [DotNetQuery.DevTools](https://www.nuget.org/packages/DotNetQuery.DevTools) | 0.1.0 | DotNetQuery contributors | OpenTelemetry metrics, activities and a live statistics inspector for DotNetQue… |
+| 2026-11-09 13:33:49 | [DotNetQuery.Persistence](https://www.nuget.org/packages/DotNetQuery.Persistence) | 0.1.0 | DotNetQuery contributors | Optional offline persistence for DotNetQuery client hosts (Blazor, MAUI). Not i… |
+| 2026-11-09 13:33:50 | [DotNetQuery.Redis](https://www.nuget.org/packages/DotNetQuery.Redis) | 0.1.0 | DotNetQuery contributors | Redis-backed IQueryStore for DotNetQuery with atomic tag versioning and a distr… |
+| 2026-11-09 13:33:51 | [DotNetQuery.SourceGenerator](https://www.nuget.org/packages/DotNetQuery.SourceGenerator) | 0.1.0 | DotNetQuery contributors | Roslyn source generator and analyzer that turn [Cache]/[InvalidateCache] attrib… |
+| 2026-11-09 13:38:28 | [SimdSkia.Avalonia.Android](https://www.nuget.org/packages/SimdSkia.Avalonia.Android) | 0.1.4 | hnlyf168 | Android Activity, input and framebuffer presentation for SimdSkia managed CPU/S… |
+| 2026-11-09 13:51:17 | [Themia.Modules.Identity.SecondFactor](https://www.nuget.org/packages/Themia.Modules.Identity.SecondFactor) | 0.58.0 | Sarawut Phaekuntod | Bridge between Themia.SecondFactor and Themia Identity — the second-factor poli… |
+| 2026-11-09 13:52:14 | [GroupDocs.Assembly.Mcp](https://www.nuget.org/packages/GroupDocs.Assembly.Mcp) | 26.11.0 | GroupDocs Contributors | MCP server for GroupDocs.Assembly — generate Word, Excel, PowerPoint, PDF and e… |
+| 2026-11-09 13:53:54 | [Onde.Code](https://www.nuget.org/packages/Onde.Code) | 1.1.2 | Seto Elkahfi | Coding agent for fine-tuning, managing and deploying models on Onde Inference. |
+| 2026-11-09 14:03:57 | [PanasonicComfortCloudClient](https://www.nuget.org/packages/PanasonicComfortCloudClient) | 1.0.0 | Neil Colvin | Independent typed asynchronous C# client for Panasonic Comfort Cloud and Aquare… |
 
 ## Data source
 
