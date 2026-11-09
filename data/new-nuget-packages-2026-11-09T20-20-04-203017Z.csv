@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-11-09T19:28:26.78Z,Moonwell.Spells,0.9.0,mdlsvensson,"Spell templates for Moonwell maps: a bolt, a wave, a dash, a leap, a blast, a pulsing channel, a chain and a summon, each an ability class a map inherits and sets numbers on."
+2026-11-09T19:32:57.273Z,Uno.icu-tvos,77.4.1,Uno Platform,The International Components for Unicode for tvOS
+2026-11-09T19:33:03.527Z,Anectico,0.0.0,"Anectico, Inc.",Reserved for the official Anectico .NET SDK. Version 1.0.0 is the first release; this placeholder contains no code.
+2026-11-09T19:46:38.22Z,Nobirds.OldenEra.Modding.Sdk,0.1.0,fogone,"MSBuild SDK for mods of Heroes of Might and Magic: Olden Era on BepInEx 6 (IL2CPP): builds against the game installed on your machine, with the Nobirds.OldenEra.Modding library; makes the mod's package (manifest.json and its files). Not affiliated with the game's publishers."
+2026-11-09T19:47:15.943Z,uno.roslyn.adhoc.host,3.3.1134,Uno Platform,Headless ad-hoc Roslyn build host and the workspace material it compiles against. Resolved automatically by the uno-studio CLI at its own version; not intended to be referenced directly.
+2026-11-09T19:47:19.023Z,uno.studio,3.3.1134,Uno Platform,"Command-line client for Uno Studio. Builds an application the way Studio builds it - headlessly, on your own machine or CI runner - and composes a shareable link to the result. Also configures a stock Git client to work with Studio Projects using the Uno Platform license already installed on the ma…"
+2026-11-09T19:49:48.68Z,SqlBulkPro.Lite,1.0.1,Daniel Davis,"Free tier of SqlBulkPro: high-performance SQL Server BulkInsert only. MIT licensed. Upgrade to SqlBulkPro for upsert, update, delete, and sync operations."
+2026-11-09T19:50:06.347Z,SqlBulkPro,1.0.1,Daniel Davis,"High-performance SQL Server bulk operations (insert, upsert, update, delete, sync) with SqlBulkCopy + MERGE. Works with EF Core and Dapper/ADO.NET. Commercial license required for production use."
+2026-11-09T19:52:06.97Z,TabBlazor.TipTap,1.7.63-beta,Joakim Dangården,"Rich text (WYSIWYG) editor for TabBlazor, built on TipTap: Tabler toolbar, uploads, mentions, HTML or JSON value."
+2026-11-09T19:52:07.663Z,TabBlazor.Markdown,1.7.63-beta,Joakim Dangården,"Markdig renderer for the TabBlazor MarkdownEditor preview: safe by default (raw HTML escaped, link and image URL schemes allow-listed)."
+2026-11-09T20:04:07.2Z,MixSystems.Fiskaly,1.0.0,MIX Systems,.NET SDK for Fiskaly SIGN DE v2 API - German fiscal compliance (KassenSichV)
+2026-11-09T20:05:15.71Z,MixSystems.RozetkaPay,1.0.0,MIX Systems,".NET SDK for RozetkaPay API with typed models, service clients, DI integration, and webhook payload support."
+2026-11-09T20:07:53.85Z,3DEngine.Diagnostics,6.2.8,EggyStudio,"The console, its command catalog and the [Command] attribute, the log ring, the synthetic input the console makes and the readers of animation and GIF files."
+2026-11-09T20:07:55.863Z,3DEngine.Modeling,6.2.8,EggyStudio,"The edit meshes the flat API shapes by operations, and their store."
+2026-11-09T20:07:56.49Z,3DEngine.CliServer,6.2.8,EggyStudio,"The server side of the e3d client, its socket, request queue and session files."
+2026-11-09T20:07:57.11Z,3DEngine.Scenes,6.2.8,EggyStudio,"The spawner that turns a scene into entities, and the scene packs."
+2026-11-09T20:07:59.79Z,3DEngine.Assets,6.2.8,EggyStudio,"The asset server, handles, textures, models and materials, and the scene model the readers make."
+2026-11-09T20:10:37.79Z,csharp-format.linux-x64,0.1.3,csharp-format contributors,"Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity."
+2026-11-09T20:10:38.793Z,csharp-format.osx-arm64,0.1.3,csharp-format contributors,"Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity."
+2026-11-09T20:10:39.857Z,csharp-format.win-x64,0.1.3,csharp-format contributors,"Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity."
+2026-11-09T20:10:40.867Z,csharp-format,0.1.3,csharp-format contributors,"Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity."

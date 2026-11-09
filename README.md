@@ -12,41 +12,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 19:18 UTC
+## Latest list — 2026-11-09 20:20 UTC
 
-New packages created between 2026-11-09 17:21 UTC and 2026-11-09 19:18 UTC.
+New packages created between 2026-11-09 19:18 UTC and 2026-11-09 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-09T19-18-59-561433Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-09T20-20-04-203017Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 17:41:46 | [DigitalProduction.Projects](https://www.nuget.org/packages/DigitalProduction.Projects) | 0.2.0 | Lance A. Endres | A library for creating complex projects in .NET. |
-| 2026-11-09 17:43:15 | [GeWuYou.GFramework.Game.Harmony](https://www.nuget.org/packages/GeWuYou.GFramework.Game.Harmony) | 1.0.0 | GFramework.Game.Harmony | Package Description |
-| 2026-11-09 17:46:13 | [Vespa.NET.VectorData](https://www.nuget.org/packages/Vespa.NET.VectorData) | 1.0.0 | outmatic | Microsoft.Extensions.VectorData provider for existing Vespa application schemas… |
-| 2026-11-09 17:52:04 | [Meshmakers.Octo.Services.Methods.MongoDb](https://www.nuget.org/packages/Meshmakers.Octo.Services.Methods.MongoDb) | 3.5.70 | meshmakers GmbH and Contribut… | MongoDB store of the CK method operation records (asynchronous methods, system… |
-| 2026-11-09 17:54:38 | [RM.Api](https://www.nuget.org/packages/RM.Api) | 2.0.0 | Sukhov A.A. | An HTTP client library for the RM Web API — a service that manages work types,… |
-| 2026-11-09 17:56:44 | [IndeFlow.Observability.AspNetCore](https://www.nuget.org/packages/IndeFlow.Observability.AspNetCore) | 1.2.0 | INDESAD | Official .NET Core & ASP.NET Core Observability SDK for IndeFlow. Zero-delay fa… |
-| 2026-11-09 18:11:35 | [InfiniteToken.Lumber.Serilog](https://www.nuget.org/packages/InfiniteToken.Lumber.Serilog) | 1.0.0 | Jay Deaton | Serilog sink for Lumber: sends Serilog events to Lumber, encrypted end to end w… |
-| 2026-11-09 18:11:36 | [InfiniteToken.Lumber](https://www.nuget.org/packages/InfiniteToken.Lumber) | 1.0.0 | Jay Deaton | .NET client for Lumber: cloud logging with end-to-end encryption. Every log is… |
-| 2026-11-09 18:11:36 | [InfiniteToken.Lumber.Extensions.Logging](https://www.nuget.org/packages/InfiniteToken.Lumber.Extensions.Logging) | 1.0.0 | Jay Deaton | Microsoft.Extensions.Logging provider for Lumber: sends ILogger logs (ASP.NET C… |
-| 2026-11-09 18:13:36 | [RtfBridge](https://www.nuget.org/packages/RtfBridge) | 2.0.1 | Amit Tiwari | Pure-managed RTF to HTML converter. No WPF, no System.Drawing. Works on Windows… |
-| 2026-11-09 18:16:11 | [RtfBridge.AspNetCore](https://www.nuget.org/packages/RtfBridge.AspNetCore) | 2.0.1 | Amit Tiwari | ASP.NET Core integration for RtfBridge: DI extensions and a ready-made minimal-… |
-| 2026-11-09 18:18:51 | [RtfBridge.SystemDrawing](https://www.nuget.org/packages/RtfBridge.SystemDrawing) | 2.0.1 | Amit Tiwari | Optional WMF/EMF vector image renderer for RtfBridge, based on System.Drawing.C… |
-| 2026-11-09 18:30:08 | [EFCore.ReturningExtensions.MySql](https://www.nuget.org/packages/EFCore.ReturningExtensions.MySql) | 10.2.3 | efcore-returning-extensions | MySql provider implementation for EF Core RETURNING clause extensions. Adds sup… |
-| 2026-11-09 18:30:08 | [EFCore.ReturningExtensions.Mysql](https://www.nuget.org/packages/EFCore.ReturningExtensions.Mysql) | 10.2.3 | efcore-returning-extensions | MySql provider implementation for EF Core RETURNING clause extensions. Adds sup… |
-| 2026-11-09 18:39:09 | [HPD-Base](https://www.nuget.org/packages/HPD-Base) | 0.9.5 | HPD-Research,Einstein Essibu | Typed, policy-aware, realtime application data platform for .NET. |
-| 2026-11-09 18:39:10 | [HPD-Base.AspNetCore](https://www.nuget.org/packages/HPD-Base.AspNetCore) | 0.9.5 | HPD-Research,Einstein Essibu | ASP.NET Core minimal API projection for HPD.BASE runtime records, metadata, hea… |
-| 2026-11-09 18:39:11 | [HPD-Base.Auth](https://www.nuget.org/packages/HPD-Base.Auth) | 0.9.5 | HPD-Research,Einstein Essibu | HPD.Auth adapter for HPD.BASE principals, subjects, grants, policy evaluation,… |
-| 2026-11-09 18:39:12 | [HPD-Base.Generators](https://www.nuget.org/packages/HPD-Base.Generators) | 0.9.5 | HPD-Research,Einstein Essibu | Compile-time typed collection generation and diagnostics for HPD.Base. |
-| 2026-11-09 18:39:13 | [HPD-Base.Testing](https://www.nuget.org/packages/HPD-Base.Testing) | 0.9.5 | HPD-Research,Einstein Essibu | Deterministic application test hosting for HPD.BASE. |
-| 2026-11-09 18:43:36 | [GraftCode.Netcore.Telemetry.AppInsightsConnector](https://www.nuget.org/packages/GraftCode.Netcore.Telemetry.AppInsightsConnector) | 1.0.0 | Graftcode S.A. | One-line Application Insights telemetry setup for GraftCode applications. |
-| 2026-11-09 18:43:37 | [Graftcode.Instrumentation](https://www.nuget.org/packages/Graftcode.Instrumentation) | 1.0.0 | Graftcode S.A. | OpenTelemetry spans and ILogger forwarding for Graftcode invocations |
-| 2026-11-09 18:46:14 | [HPD-Graph.Base](https://www.nuget.org/packages/HPD-Graph.Base) | 0.9.5 | HPD-Research,Einstein Essibu | Durable HPD.Base activation integration for HPD-Graph. |
-| 2026-11-09 18:46:39 | [Haya.Roslyn](https://www.nuget.org/packages/Haya.Roslyn) | 0.0.6-beta1 | Devon Burriss | Roslyn based analysis of C# solutions for Haya. Finds the Haya attributes and p… |
-| 2026-11-09 18:47:21 | [HPD-Auth-Base](https://www.nuget.org/packages/HPD-Auth-Base) | 0.9.5 | HPD-Research,Einstein Essibu | Generated HPD Base declarations for HPD Auth. |
-| 2026-11-09 18:53:43 | [Utcp.AspNetCore](https://www.nuget.org/packages/Utcp.AspNetCore) | 0.1.0 | Khalid Abuhakmeh | Publishes a UTCP (Universal Tool Calling Protocol) v1.1 manual at GET /utcp, bu… |
-| 2026-11-09 18:57:02 | [Millzy.MelonModBuddy](https://www.nuget.org/packages/Millzy.MelonModBuddy) | 1.0.0 | Millzy | MSBuild utilities for MelonLoader mod projects. |
-| 2026-11-09 19:02:04 | [Novolis.Audio.Voice.EdgeTts](https://www.nuget.org/packages/Novolis.Audio.Voice.EdgeTts) | 2026.1.10.103 | Novolis | Online TTS client for Microsoft Edge Read Aloud (same service as edge-tts). Req… |
+| 2026-11-09 19:28:26 | [Moonwell.Spells](https://www.nuget.org/packages/Moonwell.Spells) | 0.9.0 | mdlsvensson | Spell templates for Moonwell maps: a bolt, a wave, a dash, a leap, a blast, a p… |
+| 2026-11-09 19:32:57 | [Uno.icu-tvos](https://www.nuget.org/packages/Uno.icu-tvos) | 77.4.1 | Uno Platform | The International Components for Unicode for tvOS |
+| 2026-11-09 19:33:03 | [Anectico](https://www.nuget.org/packages/Anectico) | 0.0.0 | Anectico, Inc. | Reserved for the official Anectico .NET SDK. Version 1.0.0 is the first release… |
+| 2026-11-09 19:46:38 | [Nobirds.OldenEra.Modding.Sdk](https://www.nuget.org/packages/Nobirds.OldenEra.Modding.Sdk) | 0.1.0 | fogone | MSBuild SDK for mods of Heroes of Might and Magic: Olden Era on BepInEx 6 (IL2C… |
+| 2026-11-09 19:47:15 | [uno.roslyn.adhoc.host](https://www.nuget.org/packages/uno.roslyn.adhoc.host) | 3.3.1134 | Uno Platform | Headless ad-hoc Roslyn build host and the workspace material it compiles agains… |
+| 2026-11-09 19:47:19 | [uno.studio](https://www.nuget.org/packages/uno.studio) | 3.3.1134 | Uno Platform | Command-line client for Uno Studio. Builds an application the way Studio builds… |
+| 2026-11-09 19:49:48 | [SqlBulkPro.Lite](https://www.nuget.org/packages/SqlBulkPro.Lite) | 1.0.1 | Daniel Davis | Free tier of SqlBulkPro: high-performance SQL Server BulkInsert only. MIT licen… |
+| 2026-11-09 19:50:06 | [SqlBulkPro](https://www.nuget.org/packages/SqlBulkPro) | 1.0.1 | Daniel Davis | High-performance SQL Server bulk operations (insert, upsert, update, delete, sy… |
+| 2026-11-09 19:52:06 | [TabBlazor.TipTap](https://www.nuget.org/packages/TabBlazor.TipTap) | 1.7.63-beta | Joakim Dangården | Rich text (WYSIWYG) editor for TabBlazor, built on TipTap: Tabler toolbar, uplo… |
+| 2026-11-09 19:52:07 | [TabBlazor.Markdown](https://www.nuget.org/packages/TabBlazor.Markdown) | 1.7.63-beta | Joakim Dangården | Markdig renderer for the TabBlazor MarkdownEditor preview: safe by default (raw… |
+| 2026-11-09 20:04:07 | [MixSystems.Fiskaly](https://www.nuget.org/packages/MixSystems.Fiskaly) | 1.0.0 | MIX Systems | .NET SDK for Fiskaly SIGN DE v2 API - German fiscal compliance (KassenSichV) |
+| 2026-11-09 20:05:15 | [MixSystems.RozetkaPay](https://www.nuget.org/packages/MixSystems.RozetkaPay) | 1.0.0 | MIX Systems | .NET SDK for RozetkaPay API with typed models, service clients, DI integration,… |
+| 2026-11-09 20:07:53 | [3DEngine.Diagnostics](https://www.nuget.org/packages/3DEngine.Diagnostics) | 6.2.8 | EggyStudio | The console, its command catalog and the [Command] attribute, the log ring, the… |
+| 2026-11-09 20:07:55 | [3DEngine.Modeling](https://www.nuget.org/packages/3DEngine.Modeling) | 6.2.8 | EggyStudio | The edit meshes the flat API shapes by operations, and their store. |
+| 2026-11-09 20:07:56 | [3DEngine.CliServer](https://www.nuget.org/packages/3DEngine.CliServer) | 6.2.8 | EggyStudio | The server side of the e3d client, its socket, request queue and session files. |
+| 2026-11-09 20:07:57 | [3DEngine.Scenes](https://www.nuget.org/packages/3DEngine.Scenes) | 6.2.8 | EggyStudio | The spawner that turns a scene into entities, and the scene packs. |
+| 2026-11-09 20:07:59 | [3DEngine.Assets](https://www.nuget.org/packages/3DEngine.Assets) | 6.2.8 | EggyStudio | The asset server, handles, textures, models and materials, and the scene model… |
+| 2026-11-09 20:10:37 | [csharp-format.linux-x64](https://www.nuget.org/packages/csharp-format.linux-x64) | 0.1.3 | csharp-format contributors | Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity. |
+| 2026-11-09 20:10:38 | [csharp-format.osx-arm64](https://www.nuget.org/packages/csharp-format.osx-arm64) | 0.1.3 | csharp-format contributors | Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity. |
+| 2026-11-09 20:10:39 | [csharp-format.win-x64](https://www.nuget.org/packages/csharp-format.win-x64) | 0.1.3 | csharp-format contributors | Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity. |
+| 2026-11-09 20:10:40 | [csharp-format](https://www.nuget.org/packages/csharp-format) | 0.1.3 | csharp-format contributors | Lossless, whitespace-only C# formatter with ReSharper Reformat Code parity. |
 
 ## Data source
 
