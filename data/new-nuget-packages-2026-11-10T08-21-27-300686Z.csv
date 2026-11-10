@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-10T07:36:47.833Z,WebsiteScreenshotWorld.Extensions.DependencyInjection,0.1.0,Silhouettec Solutions,Registers the Website Screenshot World client with Microsoft.Extensions.DependencyInjection as a typed HttpClient.
+2026-11-10T07:36:48.497Z,WebsiteScreenshotWorld,0.1.0,Silhouettec Solutions,"Client for the Website Screenshot World APIs: capture web pages as images, videos or PDFs with Instant Snap, trigger Auto Schedule captures, and verify webhook signatures."
+2026-11-10T07:41:57.16Z,Larik.Data,1.0.0,Larik SQL Studio Contributors,"Provider contracts, the SQL language seam, and the add-on loader for Larik SQL Studio."
+2026-11-10T07:45:37.36Z,Fingerly.Server.AspNetCore,0.1.0,Fingerly,"ASP.NET Core middleware, endpoint routing and dependency injection for the Fingerly server SDK."
+2026-11-10T07:45:37.91Z,Fingerly.Server,0.1.0,Fingerly,"Server-side Fingerly SDK: read stored identification events, verify signed webhooks, and run a same-origin proxy for the browser SDK."
+2026-11-10T07:57:41.19Z,Uniform.Matrix.Video,0.1.21,Uniform.Matrix.Video,"Video for Matrix calls in pure C#: a VP8 decoder ported from the reference decoder of RFC 6386, with no native libraries."
