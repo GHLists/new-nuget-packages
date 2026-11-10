@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-10T05:42:55.993Z,RuneForBlazor.Desktop.Maui,0.15.0,kenconnet666,Rune 的 .NET MAUI 桌面适配（Windows）：AppShell 的顶栏就是窗口的标题栏（拖动、双击最大化、窗口按钮），WebView2 按桌面应用设置。
+2026-11-10T05:43:40.413Z,Navs.Goo,2.1.0,Angel Munoz and contributors,Package Description
+2026-11-10T05:49:46.49Z,Zumen,0.2.0,Zumen,日本の建設の図面（DXF・DWG・SXF・JWW）を読み書きする zumen の、.NET のラッパー
+2026-11-10T05:51:12.77Z,Google.Cloud.SaasPlatform.SaasServiceMgmt.V1,1.0.0-beta01,Google LLC,"Model, deploy, and operate your SaaS at scale."
