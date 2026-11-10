@@ -1,0 +1,49 @@
+created_at,package,version,authors,description
+2026-11-10T12:22:42.783Z,Universal.Agent2Agent,1.0.0,Andrew Ong,"Shared Agent2Agent v1.0 protocol models, serialization, validation, and errors."
+2026-11-10T12:22:52.97Z,Universal.Agent2Agent.Client,1.0.0,Andrew Ong,Agent2Agent v1.0 HTTP+JSON and JSON-RPC client.
+2026-11-10T12:23:03.413Z,Universal.Agent2Agent.Client.Grpc,1.0.0,Andrew Ong,Optional gRPC client binding for Agent2Agent v1.0.
+2026-11-10T12:23:11.733Z,PROBIS-ZUGFeRD,19.0.2,Johannes Mauch,"PROBIS fork of ZUGFeRD-csharp: .NET library for reading and creating ZUGFeRD, Factur-X and XRechnung documents. Derived from ZUGFeRD-csharp by Stephan Stapel / STwo Industries GmbH (Apache-2.0), maintained independently by PROBIS Software GmbH. See NOTICE.txt."
+2026-11-10T12:23:13.367Z,PROBIS-ZUGFeRD.PDF,19.0.2,Johannes Mauch,"PROBIS fork of ZUGFeRD-csharp: .NET library for reading and creating ZUGFeRD, Factur-X and XRechnung documents. Derived from ZUGFeRD-csharp by Stephan Stapel / STwo Industries GmbH (Apache-2.0), maintained independently by PROBIS Software GmbH. See NOTICE.txt."
+2026-11-10T12:23:13.48Z,Universal.Agent2Agent.Server,1.0.0,Andrew Ong,"Host-independent Agent2Agent v1.0 task execution, persistence, subscriptions, and push notifications."
+2026-11-10T12:23:27.14Z,Universal.Agent2Agent.Server.AspNetCore,1.0.0,Andrew Ong,"ASP.NET Core HTTP+JSON, JSON-RPC, SSE, and discovery hosting for Agent2Agent v1.0."
+2026-11-10T12:23:38.22Z,Pulumi.Labs.Namespace,0.2.0,Pulumi Labs,"Experimental: manage Namespace Cloud (namespace.so) resources: ephemeral compute instances, vault secrets, IAM tenants and tokens, GitHub runner profiles, egress policy and registry policy, as infrastructure with Pulumi."
+2026-11-10T12:23:43.14Z,Universal.Agent2Agent.Server.AspNetCore.Grpc,1.0.0,Andrew Ong,Optional ASP.NET Core gRPC server binding for Agent2Agent v1.0.
+2026-11-10T12:23:43.17Z,Pulumi.Labs.Twilio,0.2.0,Pulumi Labs,"Experimental: manage Twilio subaccounts, API keys, phone-number webhooks, TwiML applications, addresses, signing keys, call queues, usage triggers, SIP credential lists, IP access control lists and domains, short codes, Connect apps, verified caller IDs, Event Streams sinks and subscriptions, Elast…"
+2026-11-10T12:24:03.93Z,Pulumi.Labs.Clerk,0.1.0,Pulumi Labs,"Experimental: manage Clerk (clerk.com) authentication infrastructure as code: allowlists, blocklists, JWT templates, organizations and their roles and permissions, OAuth applications, SAML connections, API keys, machines and webhooks."
+2026-11-10T12:24:30.407Z,Horizonte.Samples.Aemet,10.0.5-beta,franfusto,"Example module for Horizonte.Net, which provides access to the AEMET meteorological service. Service key is required"
+2026-11-10T12:26:38.84Z,OpenConnect.Tools,1.0.0,OpenConnect.Tools,Package Description
+2026-11-10T12:26:39.503Z,OpenConnect.Abstractions,1.0.0,OpenConnect.Abstractions,Package Description
+2026-11-10T12:26:40.137Z,OpenConnect.Navigator,1.0.0,OpenConnect.Navigator,Package Description
+2026-11-10T12:26:40.74Z,OpenConnect.Client,1.0.0,OpenConnect.Client,Package Description
+2026-11-10T12:26:41.423Z,OpenConnect.Navigator.AspNetCore,1.0.0,OpenConnect.Navigator.AspNetCore,Package Description
+2026-11-10T12:26:42.083Z,OpenConnect.Navigator.Operational,1.0.0,OpenConnect.Navigator.Operational,Package Description
+2026-11-10T12:26:42.74Z,OpenConnect.Observability,1.0.0,OpenConnect.Observability,Package Description
+2026-11-10T12:26:43.127Z,CodeReach.Mcp,0.1.0,musadgn,"Roslyn MCP server for ASP.NET Core and C# solutions. Answers which endpoints and background jobs reach a piece of code, and what a git diff affects, from a compiler-accurate, persistent call graph."
+2026-11-10T12:26:43.41Z,OpenConnect.Components.Blazor,1.0.0,OpenConnect.Components.Blazor,Package Description
+2026-11-10T12:26:44.297Z,OpenConnect.Persistence.EFCore,1.0.0,OpenConnect.Persistence.EFCore,Package Description
+2026-11-10T12:26:44.87Z,OpenConnect.Metering,1.0.0,OpenConnect.Metering,Package Description
+2026-11-10T12:26:45.507Z,OpenConnect.Core,1.0.0,OpenConnect.Core,Package Description
+2026-11-10T12:26:46.143Z,OpenConnect.Hosting.AspNetCore,1.0.0,OpenConnect.Hosting.AspNetCore,Package Description
+2026-11-10T12:26:46.823Z,OpenConnect.Components.Contracts,1.0.0,OpenConnect.Components.Contracts,Package Description
+2026-11-10T12:26:47.563Z,OpenConnect.Transport.Nats,1.0.0,OpenConnect.Transport.Nats,Package Description
+2026-11-10T12:26:48.273Z,OpenConnect.QdrantVactor,1.0.0,OpenConnect.QdrantVactor,Package Description
+2026-11-10T12:26:49.107Z,OpenConnect.Navigator.Blazor,1.0.0,OpenConnect.Navigator.Blazor,Package Description
+2026-11-10T12:26:49.74Z,OpenConnect.Privacy,1.0.0,OpenConnect.Privacy,Package Description
+2026-11-10T12:26:50.45Z,OpenConnect.Navigator.OperationalBrowser,1.0.0,OpenConnect.Navigator.OperationalBrowser,Package Description
+2026-11-10T12:26:51.117Z,OpenConnect.Agents,1.0.0,OpenConnect.Agents,Package Description
+2026-11-10T12:28:09.36Z,Pulumi.Labs.Vonage,0.1.0,Pulumi Labs,"Experimental: manage Vonage (formerly Nexmo) applications, numbers, subaccounts, API secrets and Verify v2 templates as infrastructure with Pulumi."
+2026-11-10T12:38:22.1Z,Aspose.Cells-Cloud.Cpp,26.10.5,Aspose,"Aspose.Cells Cloud SDK for C++ (native). A generated client for the Aspose.Cells Cloud REST API (468 operations, 41 controllers). Ships the asposecellscloud static library and, for Windows, the asposecellscloud_dll DLL with its import library and runtime dependencies, plus public headers, vendored…"
+2026-11-10T12:39:01.267Z,Limbo.Umbraco.DetDigitaleFolkebibliotek,13.0.0-alpha001,Eyðun Ellendersen,Umbraco integration for Det Digitale Folkebibliotek events.
+2026-11-10T12:42:43.39Z,Replisteer.XrmToolBox,1.2026.11.12,OWWARE LTD,"Migrate data and build integrations between Dataverse / Dynamics 365 environments, SQL Server databases and CSV files. Map columns with formulas, look up values in targets, chain insert / update / upsert / delete steps, preview the result with a dry run and run it on demand. Projects are saved as l…"
+2026-11-10T12:44:48.997Z,Piton.IPRestrictions.Endpoints,1.0.1,Jeremy Morren,"A middleware that provides per-endpoint IP restrictions (safelist). It can be configured using single IP address or ranges, and supports a predicate to allow for more complex filtering"
+2026-11-10T12:44:50.11Z,Piton.IPRestrictions.Endpoints.Telemetry,1.0.1,Jeremy Morren,OpenTelemetry instrumentation for Piton.IPRestrictions.Endpoints: adds its metrics to a MeterProviderBuilder
+2026-11-10T12:44:50.377Z,Rivlo.Licensing.Contracts,13.1.0,RivloTools,Supporting package for Rivlo Licensing containing licence payload models
+2026-11-10T12:48:20.757Z,Mafesoft.Localization.Blazor,4.0.0,Federico Mazzanti,A Blazor library for .net that can help you to manage the localization in your application. The library uses Mafesoft.Localization
+2026-11-10T12:48:21.407Z,Mafesoft.Localization,4.0.0,Federico Mazzanti,A library for .net that can help you to manage the localization in your application.
+2026-11-10T12:48:22.08Z,Mafesoft.Localization.Maui,4.0.0,Federico Mazzanti,A .NET MAUI library for .net that can help you to manage the localization in your application. The library uses Mafesoft.Localization
+2026-11-10T12:48:22.73Z,Mafesoft.Localization.Xamarin,4.0.0,Federico Mazzanti,"[Deprecated: last release, Xamarin.Forms is out of support. Use Mafesoft.Localization.Maui] A Xamarin library for .net that can help you to manage the localization in your application. The library uses Mafesoft.Localization"
+2026-11-10T12:48:23.42Z,Mafesoft.Localization.Mvc,4.0.0,Federico Mazzanti,A MVC library for .net that can help you to manage the localization in your application. The library uses Mafesoft.Localization
+2026-11-10T12:48:24.043Z,Mafesoft.Localization.Wpf,4.0.0,Federico Mazzanti,A WPF library for .net that can help you to manage the localization in your application. The library uses Mafesoft.Localization
+2026-11-10T12:55:30.85Z,DeliveryAggregation,0.1.0,DeliveryAggregation,同城配送聚合库的入口包：一次引用即装上调度核心与全部渠道适配（不含模拟渠道）。
+2026-11-10T12:56:51.963Z,Ais.Net.MarineCadastre,1.0.0,Endjin Limited,"Reads the archived AIS vessel-traffic CSV files published by MarineCadastre.gov (NOAA / BOEM) and converts each row into Ais.Net.Models message types, so the same code that consumes a live Ais.Net.Receiver stream can run over years of archived US coastal traffic. Sponsored by endjin."
+2026-11-10T12:56:52.673Z,Ais.Net.MarineCadastre.Gis,1.0.0,Endjin Limited,"Reads the GIS products MarineCadastre.gov (NOAA / BOEM) publishes alongside its AIS archives: the monthly AIS Vessel Tracks GeoPackage as an IObservable of vessel tracks, each a sequence of Ais.Net.Models positions with the vessel's static data, and the yearly AIS Vessel Transit Counts GeoTIFF as a…"
