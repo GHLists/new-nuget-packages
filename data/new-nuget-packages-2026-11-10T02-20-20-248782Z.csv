@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-11-10T01:54:52.093Z,JDMallen.Toolbox.AI.Azure,4.6.0,J.D. Mallen,"Microsoft Entra ID sign-in for JDMallen.Toolbox.AI's Azure OpenAI client via Azure.Identity: any TokenCredential as a bearer token provider, plus a credential factory with a persistent token cache for one-shot CLIs."
+2026-11-10T02:10:39.217Z,Orson.Alpm,0.2.1,shanoaice,"C# binding for libalpm, the library behind pacman."
