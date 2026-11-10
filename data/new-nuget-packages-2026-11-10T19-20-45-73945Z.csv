@@ -1,0 +1,43 @@
+created_at,package,version,authors,description
+2026-11-10T18:28:35.46Z,SnowBank.Core,7.4.7,SnowBank SAS,Core SDK for writing distributed .NET applications
+2026-11-10T18:28:46.81Z,SnowBank.Networking.Http,7.4.7,SnowBank SAS,Core HTTP SDK for writing distributed .NET applications
+2026-11-10T18:28:58.153Z,SnowBank.Networking.PacketCapture,7.4.7,SnowBank SAS,Captures HTTP request and response traffic for diagnostics and testing of distributed .NET applications.
+2026-11-10T18:29:33.99Z,SnowBank.Testing.Common,7.4.7,SnowBank SAS,Library for writing NUnit tests with the SnowBank SDK
+2026-11-10T18:29:43.303Z,SnowBank.Testing.Framework,7.4.7,SnowBank SAS,SDK for writing tests for distributed .NET applications
+2026-11-10T18:29:54.657Z,SnowBank.Testing.Framework.Playwright,7.4.7,SnowBank SAS,Playwright-based virtual web browser test component for the SnowBank distributed-test framework
+2026-11-10T18:30:10.39Z,Microsoft.NET.Sdk.Maui.Manifest-11.0.100,11.0.0,Microsoft,.NET Multi-platform App UI (.NET MAUI) workload manifest. Please do not reference this package directly.
+2026-11-10T18:30:11.54Z,Microsoft.NET.Sdk.Maui.Manifest-11.0.100.Msi.arm64,11.0.0,Microsoft,.NET Multi-platform App UI (.NET MAUI) workload manifest. Please do not reference this package directly.
+2026-11-10T18:30:12.857Z,Microsoft.NET.Sdk.Maui.Manifest-11.0.100.Msi.x64,11.0.0,Microsoft,.NET Multi-platform App UI (.NET MAUI) workload manifest. Please do not reference this package directly.
+2026-11-10T18:30:14.053Z,Microsoft.NET.Sdk.Maui.Manifest-11.0.100.Msi.x86,11.0.0,Microsoft,.NET Multi-platform App UI (.NET MAUI) workload manifest. Please do not reference this package directly.
+2026-11-10T18:30:18.873Z,FoundationDB.FakeDb,7.4.7,SnowBank SAS,"In-memory emulation of a FoundationDB Cluster, for easy testing of distributed .NET applications"
+2026-11-10T18:30:28.55Z,Blazorise.Ribbon,2.4.3,Megabit,"Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material."
+2026-11-10T18:30:36.067Z,FoundationDB.Layers.Experimental,7.4.7,SnowBank SAS,Experimental Layers for the FoundationDB .NET Binding
+2026-11-10T18:30:43.89Z,FoundationDB.Linq.Providers,7.4.7,SnowBank SAS,Experimental LINQ providers for the FoundationDB .NET Binding
+2026-11-10T18:30:59.14Z,FoundationDB.Aspire,7.4.7,SnowBank SAS,"A FoundationDB client provider that integrates with .NET Aspire, including health checks, logging, and telemetry"
+2026-11-10T18:31:07.193Z,FoundationDB.Aspire.Hosting,7.4.7,SnowBank SAS,FoundationDB support for .NET Aspire
+2026-11-10T18:32:09.96Z,NetworkInspector.Limits,0.21.0,DevAM,"Trust-boundary limits for any .NET application: one declaration per limit with its explanation, a value that can be off or read-only, a lock-free live holder for hot loops, composable unit parts, a standard hit sentence, and a catalog check. It depends on nothing application-specific."
+2026-11-10T18:32:35.467Z,TouchQue,4.2.0,Touchque,"Official .NET SDK for Touchque Authenticator: push approvals with number matching, passkeys, silent sign-ins, webhooks, Touchque Actions, AI agents, Touchque Login (hosted sign-in and the Management API) and the Mobile SDK server side."
+2026-11-10T18:32:37.66Z,TouchQue.AspNetCore,4.2.0,Touchque,"ASP.NET Core integration for Touchque: AddTouchQue() registration, RequireTouchQue() on endpoints and controllers, the relay endpoints @touchque/web needs, verified webhooks, Touchque Login sign-in endpoints and a bearer handler for access tokens."
+2026-11-10T18:32:41.093Z,NetworkInspector.Settings,0.21.0,DevAM,"Typed application settings for any .NET application: typed values, JSON and text forms, sparse persistence, profiles, and safe concurrent saving. It depends on nothing application-specific."
+2026-11-10T18:37:17.69Z,ThinkGeo.Cad.Dependency.Windows,15.1.0-beta001,ThinkGeo,"This package integrates Open Design Alliance (""ODA"") CAD SDK v27.9 native binaries together with ThinkGeo-authored managed wrapper assemblies. It is a foundational dependency for ThinkGeo.Cad and is not intended to be referenced directly by application projects. Includes: - ThinkGeo wrapper assembl…"
+2026-11-10T18:37:51.153Z,ThinkGeo.Cad.Dependency.Linux,15.1.0-beta001,ThinkGeo,"This package integrates Open Design Alliance (""ODA"") CAD SDK v27.9 native binaries for Linux together with a ThinkGeo-authored managed wrapper assembly. Add it next to ThinkGeo.Cad to read CAD drawings on Linux; it is not intended to be used on its own. Includes: - The ThinkGeo wrapper assembly for…"
+2026-11-10T18:41:23.513Z,ITLPCM.Infrastructure.Library,10.0.2,PCM - Subsecretaría de Tecnologías y Seguridad Digital,"Infraestructura compartida de los backends .NET de la Plataforma de Mesa de Servicios (PCM): middleware global de errores con términos multi-idioma, RSA, log y caché."
+2026-11-10T18:48:46.287Z,BridgingIT.DevKit.Application.Auditing,10.0.123,BridgingIT GmbH,"bITdevKit: Empowering developers with modular components for modern application development, centered around Domain-Driven Design principles. Our goal is to empower developers by offering modular components that can be easily integrated into your projects. Whether you're working with repositories,…"
+2026-11-10T18:50:21.363Z,ReqTrace,0.1.0,DevAM,"Checks that every requirement reaches a test that ran and passed: links between spec/ requirements, test cards, and test markers in C#, Python, and Rust, checked against an accepted state."
+2026-11-10T18:50:27.247Z,BridgingIT.DevKit.Infrastructure.FileSystem,10.0.123,BridgingIT GmbH,"bITdevKit: Empowering developers with modular components for modern application development, centered around Domain-Driven Design principles. Our goal is to empower developers by offering modular components that can be easily integrated into your projects. Whether you're working with repositories,…"
+2026-11-10T18:50:45.707Z,BridgingIT.DevKit.Presentation.Web.Auditing,10.0.123,BridgingIT GmbH,"bITdevKit: Empowering developers with modular components for modern application development, centered around Domain-Driven Design principles. Our goal is to empower developers by offering modular components that can be easily integrated into your projects. Whether you're working with repositories,…"
+2026-11-10T18:52:29.19Z,Soenneker.Google.Calendar.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Calendar's OpenAPI integration.
+2026-11-10T18:53:38.687Z,Soenneker.Google.Meet.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for Meet's OpenAPI integration.
+2026-11-10T18:53:55.893Z,Soenneker.Google.Meet.OpenApiClient,11.0.1,Jake Soenneker,A generated OpenAPI client for Google Meet.
+2026-11-10T18:55:17.3Z,Microsoft.NET.Sdk.iOS.Manifest-11.0.100,27.2.11039,Microsoft,.NET Workload for iOS platforms
+2026-11-10T18:55:18.443Z,Microsoft.NET.Sdk.iOS.Manifest-11.0.100.Msi.arm64,27.2.11039,Microsoft,.NET Workload for iOS platforms
+2026-11-10T18:55:19.783Z,Microsoft.NET.Sdk.iOS.Manifest-11.0.100.Msi.x64,27.2.11039,Microsoft,.NET Workload for iOS platforms
+2026-11-10T18:55:22.65Z,Microsoft.NET.Sdk.MacCatalyst.Manifest-11.0.100,27.2.11039,Microsoft,.NET Workload for MacCatalyst platforms
+2026-11-10T18:55:27.62Z,Microsoft.NET.Sdk.macOS.Manifest-11.0.100,27.2.11039,Microsoft,.NET Workload for macOS platforms
+2026-11-10T18:55:28.887Z,Microsoft.NET.Sdk.macOS.Manifest-11.0.100.Msi.arm64,27.2.11039,Microsoft,.NET Workload for macOS platforms
+2026-11-10T18:55:31.417Z,Microsoft.NET.Sdk.macOS.Manifest-11.0.100.Msi.x86,27.2.11039,Microsoft,.NET Workload for macOS platforms
+2026-11-10T18:55:32.583Z,Microsoft.NET.Sdk.tvOS.Manifest-11.0.100,27.2.11039,Microsoft,.NET Workload for tvOS platforms
+2026-11-10T18:55:33.793Z,Microsoft.NET.Sdk.tvOS.Manifest-11.0.100.Msi.arm64,27.2.11039,Microsoft,.NET Workload for tvOS platforms
+2026-11-10T18:55:35.323Z,Microsoft.NET.Sdk.tvOS.Manifest-11.0.100.Msi.x64,27.2.11039,Microsoft,.NET Workload for tvOS platforms
+2026-11-10T18:55:36.607Z,Microsoft.NET.Sdk.tvOS.Manifest-11.0.100.Msi.x86,27.2.11039,Microsoft,.NET Workload for tvOS platforms
+2026-11-10T19:02:00.977Z,AbraIdentity.TestKit,0.0.1,Abrissirba,Conformance suite for AbraIdentity's IIdentityStore. Run it against your own store implementation to verify the single-use and atomicity guarantees the authentication flow depends on. Test framework agnostic: every case is an async method that throws on violation.
