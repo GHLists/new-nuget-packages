@@ -12,24 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 20:20 UTC
+## Latest list — 2026-11-10 21:19 UTC
 
-New packages created between 2026-11-10 19:20 UTC and 2026-11-10 20:20 UTC.
+New packages created between 2026-11-10 20:20 UTC and 2026-11-10 21:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-10T20-20-35-193205Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-10T21-19-12-090736Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-10 19:21:38 | [Reverb.Runtime](https://www.nuget.org/packages/Reverb.Runtime) | 0.1.0 | Muneeb Mughal | Display helpers and UI widgets for Reverb notebooks. |
-| 2026-11-10 19:21:40 | [Reverb.Notebooks](https://www.nuget.org/packages/Reverb.Notebooks) | 0.1.0 | Muneeb Mughal | Reactive C# notebooks that are plain .cs files. |
-| 2026-11-10 19:25:45 | [NetStoneCN](https://www.nuget.org/packages/NetStoneCN) | 1.0.1 | NetStoneCN Contributors | Cookie-based api for Final Fantasy XIV Rising Stones character data. |
-| 2026-11-10 19:31:32 | [Beskar.Jobs.Client](https://www.nuget.org/packages/Beskar.Jobs.Client) | 11.0.0 | Marvin Drude | High-performance MQTT job producer, controller, and real-time status streaming… |
-| 2026-11-10 19:31:32 | [Beskar.Jobs.Common](https://www.nuget.org/packages/Beskar.Jobs.Common) | 11.0.0 | Marvin Drude | Core models, zero-allocation Cron scheduler, storage abstractions, and telemetr… |
-| 2026-11-10 19:31:33 | [Beskar.Jobs.Generator](https://www.nuget.org/packages/Beskar.Jobs.Generator) | 11.0.0 | Marvin Drude | Package Description |
-| 2026-11-10 19:31:33 | [Beskar.Jobs.Worker](https://www.nuget.org/packages/Beskar.Jobs.Worker) | 11.0.0 | Marvin Drude | Distributed MQTT job execution worker with Last-Will crash detection, concurren… |
-| 2026-11-10 19:31:45 | [Beskar.Jobs.Scheduler](https://www.nuget.org/packages/Beskar.Jobs.Scheduler) | 11.0.0 | Marvin Drude | High-precision Cron and delayed job scheduler, dispatcher, and LWT crash recove… |
-| 2026-11-10 19:42:03 | [SI.IdProvider.Client](https://www.nuget.org/packages/SI.IdProvider.Client) | 1.1.0 | Mladen Ristić | Client for SI.IdProvider, the service that hands out Snowflake ids (64-bit, tim… |
-| 2026-11-10 19:42:49 | [PANiXiDA.Core.ApiDocumentation](https://www.nuget.org/packages/PANiXiDA.Core.ApiDocumentation) | 1.0.2 | PANiXiDA | Renderer-independent API document contracts and AOT-compatible AsyncAPI generat… |
+| 2026-11-10 20:21:27 | [UnambitiousFx.Myelin](https://www.nuget.org/packages/UnambitiousFx.Myelin) | 1.0.0 | UnambitiousFx | SSRF-safe outbound HTTP for .NET: resolves names itself, refuses private, loopb… |
+| 2026-11-10 20:30:00 | [3DEngine.GlobalIllumination](https://www.nuget.org/packages/3DEngine.GlobalIllumination) | 6.2.30 | EggyStudio | Global illumination, cascades of light probes over the scene's distance field a… |
+| 2026-11-10 20:31:40 | [SmodbusTcp](https://www.nuget.org/packages/SmodbusTcp) | 0.1.0 | Owain Cleaver | A small, modular Modbus TCP server library for .NET |
+| 2026-11-10 20:31:42 | [SmodbusTcp.Kestrel](https://www.nuget.org/packages/SmodbusTcp.Kestrel) | 0.1.0 | Owain Cleaver | Kestrel integration for the SmodbusTcp Modbus TCP server library. |
+| 2026-11-10 20:35:53 | [grate-mariadb](https://www.nuget.org/packages/grate-mariadb) | 2.3.0 | Erik A. Brandstadmoen | grate - sql for the 20s grate is a no-code, low-fi database migration tool, ins… |
+| 2026-11-10 20:35:55 | [grate-oracle](https://www.nuget.org/packages/grate-oracle) | 2.3.0 | Erik A. Brandstadmoen | grate - sql for the 20s grate is a no-code, low-fi database migration tool, ins… |
+| 2026-11-10 20:35:56 | [grate-postgresql](https://www.nuget.org/packages/grate-postgresql) | 2.3.0 | Erik A. Brandstadmoen | grate - sql for the 20s grate is a no-code, low-fi database migration tool, ins… |
+| 2026-11-10 20:36:01 | [grate-sqlite](https://www.nuget.org/packages/grate-sqlite) | 2.3.0 | Erik A. Brandstadmoen | grate - sql for the 20s grate is a no-code, low-fi database migration tool, ins… |
+| 2026-11-10 20:36:06 | [grate-sqlserver](https://www.nuget.org/packages/grate-sqlserver) | 2.3.0 | Erik A. Brandstadmoen | grate - sql for the 20s grate is a no-code, low-fi database migration tool, ins… |
+| 2026-11-10 20:48:44 | [Verisoft.Core.ConfigurationStorage](https://www.nuget.org/packages/Verisoft.Core.ConfigurationStorage) | 1.1.21 | Verisoft.Core.ConfigurationSt… | Package Description |
+| 2026-11-10 21:05:34 | [GitHttpBackend.Configuration](https://www.nuget.org/packages/GitHttpBackend.Configuration) | 11.0.0 | Zefek | Loads application configuration from a directory of a git repository served by… |
 
 ## Data source
 

@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-10T20:21:27.447Z,UnambitiousFx.Myelin,1.0.0,UnambitiousFx,"SSRF-safe outbound HTTP for .NET: resolves names itself, refuses private, loopback, link-local and other special-purpose addresses (DNS rebinding included), revalidates every redirect, and bounds time and size."
+2026-11-10T20:30:00.67Z,3DEngine.GlobalIllumination,6.2.30,EggyStudio,"Global illumination, cascades of light probes over the scene's distance field and probes on the window's surfaces, traced, merged and gathered on the GPU, with its path-traced reference."
+2026-11-10T20:31:40.31Z,SmodbusTcp,0.1.0,Owain Cleaver,"A small, modular Modbus TCP server library for .NET"
+2026-11-10T20:31:42.023Z,SmodbusTcp.Kestrel,0.1.0,Owain Cleaver,Kestrel integration for the SmodbusTcp Modbus TCP server library.
+2026-11-10T20:35:53.44Z,grate-mariadb,2.3.0,Erik A. Brandstadmoen,"grate - sql for the 20s grate is a no-code, low-fi database migration tool, inspired heavily by RoundhousE. It's written from the ground up using modern .NET 8/9/10/11."
+2026-11-10T20:35:55.33Z,grate-oracle,2.3.0,Erik A. Brandstadmoen,"grate - sql for the 20s grate is a no-code, low-fi database migration tool, inspired heavily by RoundhousE. It's written from the ground up using modern .NET 8/9/10/11."
+2026-11-10T20:35:56.943Z,grate-postgresql,2.3.0,Erik A. Brandstadmoen,"grate - sql for the 20s grate is a no-code, low-fi database migration tool, inspired heavily by RoundhousE. It's written from the ground up using modern .NET 8/9/10/11."
+2026-11-10T20:36:01.71Z,grate-sqlite,2.3.0,Erik A. Brandstadmoen,"grate - sql for the 20s grate is a no-code, low-fi database migration tool, inspired heavily by RoundhousE. It's written from the ground up using modern .NET 8/9/10/11."
+2026-11-10T20:36:06.413Z,grate-sqlserver,2.3.0,Erik A. Brandstadmoen,"grate - sql for the 20s grate is a no-code, low-fi database migration tool, inspired heavily by RoundhousE. It's written from the ground up using modern .NET 8/9/10/11."
+2026-11-10T20:48:44.037Z,Verisoft.Core.ConfigurationStorage,1.1.21,Verisoft.Core.ConfigurationStorage,Package Description
+2026-11-10T21:05:34.307Z,GitHttpBackend.Configuration,11.0.0,Zefek,Loads application configuration from a directory of a git repository served by the GitHttpBackend snapshot endpoint. Files named *.json.cms are CMS-encrypted and decrypted with a certificate from the Windows certificate store; the last good snapshot is cached so the application still starts when th…
