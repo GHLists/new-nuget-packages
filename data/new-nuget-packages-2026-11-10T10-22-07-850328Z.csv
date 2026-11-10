@@ -1,0 +1,38 @@
+created_at,package,version,authors,description
+2026-11-10T09:23:31.197Z,RuneForBlazor.Three,0.17.0,kenconnet666,Rune.UI 的 3D 与 WebGL 效果：ThreeCanvas（自己的 three.js 场景）、着色器背景、网格渐变、极光、粒子场、线框地形、彩纸、点阵地球、模型查看器；随包带 three.js。
+2026-11-10T09:26:58.187Z,DataAccessTracing,1.0.0,ysmgthntt,"A tracing library for monitoring ADO.NET database access, including SQL command execution and database object lifecycle."
+2026-11-10T09:28:28.497Z,Vespa.NET.AgentFramework,1.0.0,outmatic,"Vespa persistence for Microsoft Agent Framework sessions, ordered chat history and file memory."
+2026-11-10T09:32:14.847Z,Craticula.AgGrid,1.0.0,Christian Stephan,Craticula frontend adapter for AG Grid: parses Server-Side Row Model requests into the canonical IR and maps results back to grid responses.
+2026-11-10T09:32:15.837Z,Craticula.Core,1.0.0,Christian Stephan,"Craticula core: the canonical query IR, GridSchema validation, resource limits and shared semantics that every Craticula compiler and adapter builds on."
+2026-11-10T09:32:16.867Z,Craticula.Dapper,1.0.0,Christian Stephan,"Craticula execution adapter for Dapper: compiles the IR to parameterized SQL and runs it, with paging, counts and streamed export."
+2026-11-10T09:32:17.993Z,Craticula.EntityFrameworkCore,1.0.0,Christian Stephan,Craticula execution adapter for Entity Framework Core: runs the canonical IR against a DbContext through IQueryable expression trees.
+2026-11-10T09:32:19.06Z,Craticula.Export.Csv,1.0.0,Christian Stephan,Craticula CSV/TSV export writer: streams grid export rows to CSV or TSV with per-column formats and formula-injection hardening.
+2026-11-10T09:32:20.02Z,Craticula.Mongo,1.0.0,Christian Stephan,Craticula MongoDB compiler: turns the canonical IR into an injection-safe MongoDB aggregation pipeline (Extended JSON).
+2026-11-10T09:32:21.163Z,Craticula.MongoDB.Driver,1.0.0,Christian Stephan,Craticula execution adapter for the official MongoDB .NET driver: compiles the IR to an aggregation pipeline and runs it.
+2026-11-10T09:32:22.193Z,Craticula.OpenSearch.Client,1.0.0,Christian Stephan,"Craticula execution adapter for OpenSearch.Client: compiles the IR to a search body and runs it, with deep paging and streamed export."
+2026-11-10T09:32:23.477Z,Craticula.Search,1.0.0,Christian Stephan,Craticula search compiler: turns the canonical IR into an OpenSearch / Elasticsearch search request body.
+2026-11-10T09:32:24.527Z,Craticula.Sql,1.0.0,Christian Stephan,"Craticula SQL compiler: turns the canonical IR into parameterized, injection-safe SQL for PostgreSQL, SQL Server, MySQL/MariaDB, SQLite and Oracle."
+2026-11-10T09:36:55.607Z,Socklyn.Tunnel.AspnetExtension,1.0.0,Jack,The tunnel extension for socklyn communication
+2026-11-10T09:37:34.977Z,Cadmus.Tes.Parts,0.0.6,Daniele Fusi,Miscellaneous parts specific to the Cadmus TES Project.
+2026-11-10T09:37:38.91Z,Cadmus.Seed.Tes.Parts,0.0.6,Daniele Fusi,Seeders for miscellaneous parts specific to the Cadmus TES Project.
+2026-11-10T09:37:43.38Z,Cadmus.Tes.Import,0.0.6,Daniele Fusi,Import modules specific to the Cadmus TES Project.
+2026-11-10T09:41:32.003Z,BlueRaiz.DataProtection,1.0.0,BlueRaiz,"Keeps ASP.NET Core Data Protection keys in the app's own PostgreSQL database, encrypted with a master key, so they are backed up and restored with the data they protect."
+2026-11-10T09:49:53.27Z,DeliveryAggregation.Abstractions,0.1.0,DeliveryAggregation,同城配送聚合库的统一抽象层：模型、契约、能力声明。
+2026-11-10T09:50:03.97Z,esegece.sgcDashboard.Maps.Wpf.Community,2026.11.0,eSeGeCe,"Optional bridge between sgcDashboard and sgcMaps for WPF: TsgcWpfDashboardMapTile, a dashboard tile with a map of markers from the rows of a dashboard data source (latitude, longitude and label columns, fit to the markers, cross-filtering on marker click)."
+2026-11-10T09:50:05.913Z,esegece.sgcDashboard.Maps.Avalonia.Community,2026.11.0,eSeGeCe,"Optional bridge between sgcDashboard and sgcMaps for Avalonia: TsgcAvaloniaDashboardMapTile, a dashboard tile with a map of markers from the rows of a dashboard data source (latitude, longitude and label columns, fit to the markers, cross-filtering on marker click)."
+2026-11-10T09:51:08.203Z,DeliveryAggregation.Core,0.1.0,DeliveryAggregation,聚合调度核心：注册表、比价选优、失败兜底、状态归一、重试、签名工具。
+2026-11-10T09:51:25.987Z,DeliveryAggregation.Providers.Shunfeng,0.1.0,DeliveryAggregation,顺丰同城急送渠道适配。
+2026-11-10T09:51:32.36Z,DeliveryAggregation.Providers.Dada,0.1.0,DeliveryAggregation,达达秒送（原达达快送）渠道适配。
+2026-11-10T09:51:42.623Z,DeliveryAggregation.Providers.Uupt,0.1.0,DeliveryAggregation,UU 跑腿渠道适配（骨架，待实现）。
+2026-11-10T09:51:52.83Z,DeliveryAggregation.Providers.Meituan,0.1.0,DeliveryAggregation,美团配送渠道适配（骨架，待实现）。
+2026-11-10T09:51:59.4Z,DeliveryAggregation.Providers.Mock,0.1.0,DeliveryAggregation,模拟渠道：无真实凭证时用于业务开发、前端联调与兜底压测。
+2026-11-10T09:52:17.057Z,DeliveryAggregation.Providers.Shansong,0.1.0,DeliveryAggregation,闪送渠道适配（骨架，待实现）。
+2026-11-10T09:52:25.02Z,DeliveryAggregation.Providers.Fengniao,0.1.0,DeliveryAggregation,蜂鸟即配渠道适配（骨架，待实现）。
+2026-11-10T09:58:52.01Z,LiteSpec.Cli.linux-arm64,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T09:58:53.92Z,LiteSpec.Cli.linux-musl-arm64,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T09:58:55.61Z,LiteSpec.Cli.linux-musl-x64,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T09:58:59.193Z,LiteSpec.Cli.osx-arm64,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T09:59:02.83Z,LiteSpec.Cli.win-arm64,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T09:59:05.317Z,LiteSpec.Cli.win-x64,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T09:59:07.96Z,LiteSpec.Cli.any,5.0.0,Litenova Solutions,"The LiteSpec command line: consumer and UI validation, the project model, and the project book. The package carries the LiteSpec release it checks against."
+2026-11-10T10:05:24.087Z,PocketCsvReader.Arrow.NetCdf,2.68.0,Cédric L. Charlier,Reads textual NetCDF CDL as Apache Arrow record batches.
