@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-10T19:21:38.57Z,Reverb.Runtime,0.1.0,Muneeb Mughal,Display helpers and UI widgets for Reverb notebooks.
+2026-11-10T19:21:40.19Z,Reverb.Notebooks,0.1.0,Muneeb Mughal,Reactive C# notebooks that are plain .cs files.
+2026-11-10T19:25:45.213Z,NetStoneCN,1.0.1,NetStoneCN Contributors,Cookie-based api for Final Fantasy XIV Rising Stones character data.
+2026-11-10T19:31:32.3Z,Beskar.Jobs.Client,11.0.0,Marvin Drude,"High-performance MQTT job producer, controller, and real-time status streaming client for Beskar.Jobs."
+2026-11-10T19:31:32.91Z,Beskar.Jobs.Common,11.0.0,Marvin Drude,"Core models, zero-allocation Cron scheduler, storage abstractions, and telemetry for Beskar.Jobs."
+2026-11-10T19:31:33.433Z,Beskar.Jobs.Generator,11.0.0,Marvin Drude,Package Description
+2026-11-10T19:31:33.72Z,Beskar.Jobs.Worker,11.0.0,Marvin Drude,"Distributed MQTT job execution worker with Last-Will crash detection, concurrency management, and live progress reporting."
+2026-11-10T19:31:45.59Z,Beskar.Jobs.Scheduler,11.0.0,Marvin Drude,"High-precision Cron and delayed job scheduler, dispatcher, and LWT crash recovery coordinator for Beskar.Jobs."
+2026-11-10T19:42:03.753Z,SI.IdProvider.Client,1.1.0,Mladen Ristić,"Client for SI.IdProvider, the service that hands out Snowflake ids (64-bit, time-ordered) and GUIDs: the request and response contracts, a typed HttpClient (AddIdProviderClient), and the Snowflake layout to read an id's creation time, machine and sequence."
+2026-11-10T19:42:49.177Z,PANiXiDA.Core.ApiDocumentation,1.0.2,PANiXiDA,Renderer-independent API document contracts and AOT-compatible AsyncAPI generation.
