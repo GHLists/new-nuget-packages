@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-10T16:24:55.823Z,PosInformatique.Foundations.Linq.Expressions,1.5.0,Gilles TOURREAU,"Provides expression tree utilities, including OrExpressionBuilder<T> to combine predicates using short-circuiting logical OR."
+2026-11-10T16:35:55.857Z,Aiursoft.PipelineWatchDog,10.0.0,Aiursoft,Monitors GitLab pipelines and stalled dependency updates through AlertCenter.
+2026-11-10T16:36:03.207Z,Aiursoft.LogWatchDog,10.0.0,Aiursoft,Monitors HTTP request errors and abnormal traffic through AlertCenter.
+2026-11-10T16:38:55.33Z,Rylogic.Audio.Authoring,2.3.1,Rylogic,"Non-destructive game audio preparation: sources, variants, processing recipes, a deterministic renderer and a render cache."
+2026-11-10T16:52:12.837Z,Cosmos.Types.TributosDeAutoridad,1.0.0,Cosmos,"Value Object TributoDeAutoridad para el ERP Cosmos: el tributo tal como lo nombra la autoridad fiscal del país (país + código, p. ej. el 02 de la DIAN) con catálogo embebido de Colombia y la tabla de códigos para la elección manual. Diseñado para eventos event-sourced."
+2026-11-10T16:54:52.14Z,UnionNarrowing,0.2.0,Ian Wold,"Narrowing for C# 15 unions (discriminated unions) and closed hierarchies: suppresses CS8509 ""switch expression is not exhaustive"" where earlier code already ruled the missing cases out, with analyzers and fixes for related pitfalls."
+2026-11-10T17:00:05.65Z,FastHg-Android,0.40.0,FastHg,Native Mercurial (hg) client for Android: libfasthg.so per ABI for .NET Android apps.
+2026-11-10T17:07:10.247Z,Uno.WinUI.Composition.Skia,7.0.32,Uno Platform,The SkiaSharp drawing backend for Uno Platform. Referenced by the 'Skia' UnoFeature (implied by default); the Uno runtime resolves it reflectively as the default renderer.
+2026-11-10T17:07:42.76Z,Uno.WinUI.Graphics3DWebGpu,7.0.32,Uno Platform,WebGpuCanvasElement: draw with your own WebGPU commands inside an Uno Platform app running the WebGPU backend.
+2026-11-10T17:07:46.277Z,Uno.WinUI.MediaPlayer.Win32,7.0.32,Uno Platform,This package provides support for MediaPlayerElement for Uno Platform Win32 apps
+2026-11-10T17:07:47.753Z,Uno.WinUI.MediaPlayer.X11,7.0.32,Uno Platform,This package provides support for MediaPlayerElement for Uno Platform X11 apps
+2026-11-10T17:07:50.607Z,Uno.WinUI.Runtime.Android,7.0.32,Uno Platform,This package provides the Android host for Uno Platform projects.
+2026-11-10T17:07:51.977Z,Uno.WinUI.Runtime.AppleUIKit,7.0.32,Uno Platform,This package provides the iOS and tvOS host for Uno Platform projects.
+2026-11-10T17:07:57.713Z,Uno.WinUI.Runtime.WebAssembly.Browser,7.0.32,Uno Platform,This package provides the WebAssembly browser host for Uno Platform projects.
+2026-11-10T17:08:00.893Z,Uno.WinUI.Runtime.X11,7.0.32,Uno Platform,This package provides the X11 host for Uno Platform projects.
+2026-11-10T17:08:01.78Z,Lokad.Bash,0.1.0,Lokad,"Embeddable non-interactive Bash interpreter for .NET with application-controlled commands, files, pipes and memory admission."
+2026-11-10T17:08:05.777Z,Uno.WinUI.WebView.X11,7.0.32,Uno Platform,This package provides support for WebView for Uno Platform X11 apps
