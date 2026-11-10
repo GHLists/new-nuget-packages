@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-10T03:27:51.17Z,RocksDb.Managed,26.11.7901,Curiosity GmbH,"Fully managed, async-first C# port of RocksDB with on-disk binary compatibility."
+2026-11-10T03:27:53.89Z,RocksDb.Managed.Replication,26.11.7901,Curiosity GmbH,"Replication (checkpoint + WAL streaming), planned switchover and a Raft cluster layer for RocksDb.Managed. Transport-agnostic."
+2026-11-10T03:27:56.29Z,RocksDb.Managed.Replication.MagicOnion,26.11.7901,Curiosity GmbH,"gRPC (MagicOnion) transport and hosting for RocksDb.Managed.Replication: replication, switchover pair and Raft cluster services."
