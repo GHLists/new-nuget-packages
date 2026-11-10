@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-11-10T04:42:05.533Z,XHao.AspectCore,10.0.12,XHao.AspectCore,AspectCore 代理校验优化
+2026-11-10T04:54:55.09Z,HAKICODE.Workbench.Plugin.Generation3D,1.0.2,HAKICODE,"Tạo ảnh và mô hình 3D có xương, chuyển động trên máy GPU nội bộ, từ trợ lý, giao diện hay API. — gói workbench.generation-3d dựng sẵn, chép ra workbench-plugins/workbench.generation-3d/ cạnh vỏ nhúng lõi Workbench."
