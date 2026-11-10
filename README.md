@@ -12,17 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 00:19 UTC
+## Latest list — 2026-11-10 01:20 UTC
 
-New packages created between 2026-11-09 23:19 UTC and 2026-11-10 00:19 UTC.
+New packages created between 2026-11-10 00:19 UTC and 2026-11-10 01:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-10T00-19-27-632709Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-10T01-20-34-090507Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-09 23:19:58 | [BorrowedTorch.Animations](https://www.nuget.org/packages/BorrowedTorch.Animations) | 1.0.0 | Vladyslav Pysarenko | Animations: a time line that runs once, loops, ping-pongs or accumulates, and k… |
-| 2026-11-09 23:22:45 | [VitaliySimkin.TPlatform.Server.Testing](https://www.nuget.org/packages/VitaliySimkin.TPlatform.Server.Testing) | 1.3.0 | Vitaliy Simkin | Test kit for services built on T-Platform: platform data reset, user seeding an… |
-| 2026-11-09 23:39:41 | [PocketCsvReader.Arrow.ColumnarJson](https://www.nuget.org/packages/PocketCsvReader.Arrow.ColumnarJson) | 2.67.0 | Cédric L. Charlier | Reads column-oriented JSON formats as Apache Arrow record batches. |
+| 2026-11-10 00:25:57 | [Universal.Operative.Sdk.Discrete.Databricks](https://www.nuget.org/packages/Universal.Operative.Sdk.Discrete.Databricks) | 1.0.0 | Andrew Ong | Databricks Unity Gateway adapters for Universal.Operative.Sdk.Discrete. |
+| 2026-11-10 00:42:10 | [Taba.Pulumi](https://www.nuget.org/packages/Taba.Pulumi) | 0.3.11 | rafaelpontani | Queues, distributors and access tokens of the Taba messaging system. |
+| 2026-11-10 00:42:11 | [Kaminari.Sazanami](https://www.nuget.org/packages/Kaminari.Sazanami) | 1.1.0 | ErrorLSC | Shared infrastructure for the Kaminari projects. |
+| 2026-11-10 00:42:21 | [Kaminari.Samidare](https://www.nuget.org/packages/Kaminari.Samidare) | 1.1.0 | ErrorLSC | The query compiler of the Kaminari projects. |
+| 2026-11-10 00:44:25 | [HPD-Agent.AspNetCore.Evaluations](https://www.nuget.org/packages/HPD-Agent.AspNetCore.Evaluations) | 0.9.5 | HPD-Research,Einstein Essibu | Optional evaluation API endpoints for HPD-Agent ASP.NET hosts. |
+| 2026-11-10 00:44:26 | [HPD-Agent.AspNetCore.OpenApi](https://www.nuget.org/packages/HPD-Agent.AspNetCore.OpenApi) | 0.9.5 | HPD-Research,Einstein Essibu | OpenAPI document generation for the HPD-Agent HTTP and committed SSE API. |
+| 2026-11-10 00:44:27 | [HPD-Agent.Audio.LiveKit](https://www.nuget.org/packages/HPD-Agent.Audio.LiveKit) | 0.9.5 | HPD-Research,Einstein Essibu | Managed LiveKit audio transport for HPD Agent Audio. |
+| 2026-11-10 00:44:32 | [HPD-Agent.Client](https://www.nuget.org/packages/HPD-Agent.Client) | 0.9.5 | HPD-Research,Einstein Essibu | Invariant HTTP, retry, error, and resumable SSE runtime for generated HPD Agent… |
+| 2026-11-10 00:44:34 | [HPD-Agent.Evaluations.HpdBase](https://www.nuget.org/packages/HPD-Agent.Evaluations.HpdBase) | 0.9.5 | HPD-Research,Einstein Essibu | HPD Base-backed durable score, run, dataset, and evaluation result storage for… |
+| 2026-11-10 00:44:40 | [HPD-Agent.MultiAgent.AspNetCore](https://www.nuget.org/packages/HPD-Agent.MultiAgent.AspNetCore) | 0.9.5 | HPD-Research,Einstein Essibu | ASP.NET Core projection API for durable HPD multi-agent graph activations. |
+| 2026-11-10 00:44:40 | [HPD-Agent.MultiAgent.HpdBase](https://www.nuget.org/packages/HPD-Agent.MultiAgent.HpdBase) | 0.9.5 | HPD-Research,Einstein Essibu | HPD Base adapter for durable HPD multi-agent graph activations. |
+| 2026-11-10 00:44:59 | [HPD-Agent.Sandbox](https://www.nuget.org/packages/HPD-Agent.Sandbox) | 0.9.5 | HPD-Research,Einstein Essibu | Backend-neutral Agent sandbox composition, capability admission, and logical wo… |
+| 2026-11-10 00:45:00 | [HPD-Agent.Sandbox.HostContainers](https://www.nuget.org/packages/HPD-Agent.Sandbox.HostContainers) | 0.9.5 | HPD-Research,Einstein Essibu | Agent adapter for retained HPD Environment Host Containers sandbox sessions. |
+| 2026-11-10 00:45:01 | [HPD-Agent.Sandbox.HostProcess](https://www.nuget.org/packages/HPD-Agent.Sandbox.HostProcess) | 0.9.5 | HPD-Research,Einstein Essibu | Thin Agent adapter for the HPD Environment Host Process backend. |
+| 2026-11-10 00:45:02 | [HPD-Agent.Sandbox.VirtualMachine](https://www.nuget.org/packages/HPD-Agent.Sandbox.VirtualMachine) | 0.9.5 | HPD-Research,Einstein Essibu | Agent-facing Apple Virtualization sandbox integration for HPD Agent. |
+| 2026-11-10 00:45:03 | [HPD-Agent.Stores.HpdBase](https://www.nuget.org/packages/HPD-Agent.Stores.HpdBase) | 0.9.5 | HPD-Research,Einstein Essibu | HPD Base-backed durable stores for HPD Agent definitions, sessions, and thread… |
+| 2026-11-10 00:55:16 | [Polars.FSharp](https://www.nuget.org/packages/Polars.FSharp) | 1.1.0 | ErrorLSC | Idiomatic F# API for Polars DataFrame library with strict type safety and pipel… |
+| 2026-11-10 01:01:41 | [Identvia.AspNetCore](https://www.nuget.org/packages/Identvia.AspNetCore) | 0.1.3 | Identvia | AddIdentvia(): Sign in with Identvia for ASP.NET Core, the OpenID Connect handl… |
+| 2026-11-10 01:01:42 | [Identvia](https://www.nuget.org/packages/Identvia) | 0.1.3 | Identvia | Sign in with Identvia for .NET apps (MAUI, WinUI, WPF, console): OpenID Connect… |
+| 2026-11-10 01:04:51 | [SharpDTLS](https://www.nuget.org/packages/SharpDTLS) | 0.0.1 | Lukas Volf | DTLS 1.0-1.3 and TLS 1.0-1.3 client and server written in C#. |
 
 ## Data source
 
