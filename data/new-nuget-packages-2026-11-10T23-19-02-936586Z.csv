@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-10T22:53:25.93Z,YawVR.Link,1.0.0,YawVR.Link,Build YawVR-compatible motion simulator emulators and senders without touching sockets or byte codes.
+2026-11-10T22:56:27.52Z,Tessaro.Results,0.1.0,Igor Tessaro,"A zero-dependency result type for .NET: return success or categorised errors instead of throwing, and compose outcomes with Map, Bind and Match."
+2026-11-10T23:04:51.897Z,NuBouncer,0.1.0,Marcus Smallman-Lewis,"Stops AI coding agents adding NuGet packages that don't exist or look dodgy. Checks packages before they're installed: does it exist, is it brand new, barely downloaded, spoofing a trusted prefix, deprecated or vulnerable?"
+2026-11-10T23:11:38.257Z,VIEApps.Components.Utility.Image.StrongName,10.11.2611.1,VIEApps.net,The tiny library to help .NET apps working with image (include captcha image) in JPG/PNG/WEBP format.
