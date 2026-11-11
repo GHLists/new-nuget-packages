@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-11T16:25:14.11Z,Starward.SharpSevenZip,2.0.130,"Joel Ahlgren, Markovtsev Vadim, Jérémy Ansel","7-zip native library wrapper. Managed 7-zip library written in C# that provides data (self-)extraction and compression (all 7-zip formats are supported). Wraps 7z.dll or any compatible one and makes use of LZMA SDK, includes self-extraction functionality."
+2026-11-11T16:27:48Z,RecursiveAI.OneScope.Tool,1.0.0,"Recursive AI, LLC","onescope: a viewer for the Recursive AI family's deterministic libraries. Scrub a replay, inspect any entity, capture frames, and drive it all over MCP."
+2026-11-11T16:30:58.557Z,Isotopes,10.0.0,Max Eroshkin,This package contains most common targets for fallout.build.
+2026-11-11T16:47:39.947Z,Lengko.Chart.Wpf,1.0.0,"LengkoDev, Cas","Modern, high-performance charting and data visualization library for WPF with zero external dependencies. Pure WPF vector rendering with smooth anti-aliased graphics, themes, tooltips, and interactive legends."
+2026-11-11T16:48:06.41Z,OpenDCP.Framework.AdminActions,0.3.1,OpenDCP.Framework.AdminActions,Package Description
+2026-11-11T16:49:38.317Z,OpenDCP.Framework.Cleanup,0.1.0,OpenDCP.Framework.Cleanup,Package Description
+2026-11-11T16:50:01.437Z,Kebechet.Maui.YouTubeEmbed,1.0.0,Kebechet,"Plays YouTube videos inside a .NET MAUI Blazor Hybrid app without YouTube's Error 153 on iOS and Mac Catalyst, and without a proxy page on your own domain. One component and one URL provider for every platform."
+2026-11-11T16:51:41.82Z,OpenDCP.Framework.ServiceDiscovery,0.1.0,OpenDCP.Framework.ServiceDiscovery,Package Description
+2026-11-11T16:54:05.693Z,OpenDCP.Framework.Dashboard,0.1.0,OpenDCP.Framework.Dashboard,Package Description
+2026-11-11T16:55:50.24Z,OpenDCP.Framework.HttpClient,0.2.0,OpenDCP.Framework.HttpClient,Package Description

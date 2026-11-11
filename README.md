@@ -12,29 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 16:19 UTC
+## Latest list — 2026-11-11 17:21 UTC
 
-New packages created between 2026-11-11 15:20 UTC and 2026-11-11 16:19 UTC.
+New packages created between 2026-11-11 16:19 UTC and 2026-11-11 17:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-11T16-19-37-105898Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-11T17-21-23-377763Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-11 15:21:22 | [GtG.Open.HC.SelectionAwarePaging](https://www.nuget.org/packages/GtG.Open.HC.SelectionAwarePaging) | 16.6.0 | GtG Open Maintainers | Selection-aware offset paging for Hot Chocolate: execute only the item, count a… |
-| 2026-11-11 15:31:47 | [Noosh24.OpenApi](https://www.nuget.org/packages/Noosh24.OpenApi) | 0.1.0 | Noosh24 | Official .NET client for the Noosh24 Open API: menu, reservations, orders, paym… |
-| 2026-11-11 15:32:27 | [HoneyDrunk.Agents.Operations](https://www.nuget.org/packages/HoneyDrunk.Agents.Operations) | 0.2.0 | HoneyDrunk Studios | The shared, versioned HTTP operations contract for HoneyDrunk Grid agent hosts… |
-| 2026-11-11 15:32:41 | [SuperAdmin.Rbac](https://www.nuget.org/packages/SuperAdmin.Rbac) | 0.1.0.1 | Super Admin | Role-based authentication, URL-based permissions and a role-aware sidebar menu… |
-| 2026-11-11 15:35:39 | [FaceCrop.NET](https://www.nuget.org/packages/FaceCrop.NET) | 1.0.0 | airtaxi | Face-aware maximum square cropping with an embedded BlazeFace short-range face… |
-| 2026-11-11 15:36:09 | [Blueprint.Testing.HttpClient](https://www.nuget.org/packages/Blueprint.Testing.HttpClient) | 3.1.1 | Symprex | A test double of a Blueprint typed client's upstream for Blueprint.Testing: ans… |
-| 2026-11-11 15:48:01 | [Cike.Security](https://www.nuget.org/packages/Cike.Security) | 1.0.12 | Lemon.Li | Package Description |
-| 2026-11-11 15:48:02 | [Cike.MultiTenancy](https://www.nuget.org/packages/Cike.MultiTenancy) | 1.0.12 | Lemon.Li | Package Description |
-| 2026-11-11 15:52:27 | [DynamicAuthorization.AspNetCore](https://www.nuget.org/packages/DynamicAuthorization.AspNetCore) | 2.0.0-beta-1 | Mohsen Esmailpour | Dynamic, permission-based authorization for ASP.NET Core MVC, Razor Pages and M… |
-| 2026-11-11 15:52:28 | [DynamicAuthorization.AspNetCore.HybridCache](https://www.nuget.org/packages/DynamicAuthorization.AspNetCore.HybridCache) | 2.0.0-beta-1 | Mohsen Esmailpour | HybridCache store for DynamicAuthorization.AspNetCore. Shares cached user roles… |
-| 2026-11-11 15:52:29 | [DynamicAuthorization.AspNetCore.EntityFrameworkCore](https://www.nuget.org/packages/DynamicAuthorization.AspNetCore.EntityFrameworkCore) | 2.0.0-beta-1 | Mohsen Esmailpour | Entity Framework Core store for DynamicAuthorization.AspNetCore. Keeps the perm… |
-| 2026-11-11 15:52:30 | [DynamicAuthorization.AspNetCore.Dashboard](https://www.nuget.org/packages/DynamicAuthorization.AspNetCore.Dashboard) | 2.0.0-beta-1 | Mohsen Esmailpour | A dashboard for DynamicAuthorization.AspNetCore, built with Razor Pages: manage… |
-| 2026-11-11 15:54:30 | [Nullean.Snapshots.Images.Assertions](https://www.nuget.org/packages/Nullean.Snapshots.Images.Assertions) | 0.9.0 | Nullean and contributors | AwesomeAssertions extensions for Nullean.Snapshots.Images: MatchImageSnapshot f… |
-| 2026-11-11 15:57:14 | [SI.Rosetta.Aggregates.PostgreSQL](https://www.nuget.org/packages/SI.Rosetta.Aggregates.PostgreSQL) | 1.36.0 | SI.Rosetta.Aggregates.Postgre… | Package Description |
-| 2026-11-11 15:59:11 | [Slugger](https://www.nuget.org/packages/Slugger) | 1.2.0 | Reefact | The slugger command: human-readable random names, Docker- and Heroku-style (hum… |
+| 2026-11-11 16:25:14 | [Starward.SharpSevenZip](https://www.nuget.org/packages/Starward.SharpSevenZip) | 2.0.130 | Joel Ahlgren, Markovtsev Vadi… | 7-zip native library wrapper. Managed 7-zip library written in C# that provides… |
+| 2026-11-11 16:27:48 | [RecursiveAI.OneScope.Tool](https://www.nuget.org/packages/RecursiveAI.OneScope.Tool) | 1.0.0 | Recursive AI, LLC | onescope: a viewer for the Recursive AI family's deterministic libraries. Scrub… |
+| 2026-11-11 16:30:58 | [Isotopes](https://www.nuget.org/packages/Isotopes) | 10.0.0 | Max Eroshkin | This package contains most common targets for fallout.build. |
+| 2026-11-11 16:47:39 | [Lengko.Chart.Wpf](https://www.nuget.org/packages/Lengko.Chart.Wpf) | 1.0.0 | LengkoDev, Cas | Modern, high-performance charting and data visualization library for WPF with z… |
+| 2026-11-11 16:48:06 | [OpenDCP.Framework.AdminActions](https://www.nuget.org/packages/OpenDCP.Framework.AdminActions) | 0.3.1 | OpenDCP.Framework.AdminActions | Package Description |
+| 2026-11-11 16:49:38 | [OpenDCP.Framework.Cleanup](https://www.nuget.org/packages/OpenDCP.Framework.Cleanup) | 0.1.0 | OpenDCP.Framework.Cleanup | Package Description |
+| 2026-11-11 16:50:01 | [Kebechet.Maui.YouTubeEmbed](https://www.nuget.org/packages/Kebechet.Maui.YouTubeEmbed) | 1.0.0 | Kebechet | Plays YouTube videos inside a .NET MAUI Blazor Hybrid app without YouTube's Err… |
+| 2026-11-11 16:51:41 | [OpenDCP.Framework.ServiceDiscovery](https://www.nuget.org/packages/OpenDCP.Framework.ServiceDiscovery) | 0.1.0 | OpenDCP.Framework.ServiceDisc… | Package Description |
+| 2026-11-11 16:54:05 | [OpenDCP.Framework.Dashboard](https://www.nuget.org/packages/OpenDCP.Framework.Dashboard) | 0.1.0 | OpenDCP.Framework.Dashboard | Package Description |
+| 2026-11-11 16:55:50 | [OpenDCP.Framework.HttpClient](https://www.nuget.org/packages/OpenDCP.Framework.HttpClient) | 0.2.0 | OpenDCP.Framework.HttpClient | Package Description |
 
 ## Data source
 
