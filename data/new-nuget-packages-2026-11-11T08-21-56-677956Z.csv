@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-11T07:28:27.573Z,EonaCat.Docs,1.0.0,EonaCat,Office Open XML documents and native Outlook MSG/MIME mail.
+2026-11-11T07:44:23.84Z,Thll.Index.Ef,3.0.0,Daniele Fusi,Entity Framework Entities for ThlL index.
+2026-11-11T07:44:32Z,Thll.Index.Api.Controllers,3.0.0,Daniele Fusi,API controllers for ThlL index browser.
+2026-11-11T07:48:38.863Z,FunAsrNet,1.0.1,donet-org-cn,"Independent managed C# speech inference for fixed Fun-ASR and Chinese VITS models, with SIMD CPU kernels, VAD, and telephony audio utilities. Model weights are supplied separately. Not the official FunASR SDK."
+2026-11-11T07:48:40.53Z,FunAsrNet.Vulkan,1.0.1,donet-org-cn,"Optional Vulkan GPU backend for FunAsrNet: FP32 projections, convolutions and attention, and original Q8_0 projections. Requires a compatible system Vulkan driver. Model weights are supplied separately."
+2026-11-11T07:49:53.967Z,DataFac.ProjScan,2.0.1,DataFac Contributors,Experimental project scanning tool
+2026-11-11T07:53:22.413Z,PANiXiDA.Core.Presentation.Scalar,1.0.2,PANiXiDA,Shared Scalar UI hosting for modular OpenAPI and AsyncAPI documents.
+2026-11-11T07:55:56.033Z,WASU.Abstraction.RPC,26.1111.15,WASU.Abstraction.RPC,Package Description
+2026-11-11T07:59:17.463Z,Fiskit,0.1.0,FisKit,Official .NET client for the FisKit API: Argentine electronic invoices with ARCA (ex AFIP) in a single request.
+2026-11-11T08:00:32.827Z,Eigenverft.NetLib.SqliteHotBackup,1.0.0.3,Eigenverft,"Scheduler-independent SQLite online backups with EF Core discovery, explicit file targets, targeted execution, progress-stall limits, best-effort results, and optional ZIP publication."
