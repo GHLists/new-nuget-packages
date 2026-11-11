@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-11T14:29:22.133Z,RapiDoc.AspNetCore,0.1.0,Mrinmoy Majumdar,"RapiDoc for ASP.NET Core: serves an interactive OpenAPI reference (<rapi-doc>) from your app, with the bundle inside the package."
+2026-11-11T14:31:22.033Z,Skrypton.Windows,1.7.4,Ben Hauman,"Skrypton on Windows (.NET): the Windows host services (processes, clipboard, dialogs, ADO through OLE DB, Outlook) and the script runner of the skrypton command line tool"
+2026-11-11T14:31:23.52Z,Skrypton.Windows.NetFx,1.7.4,Ben Hauman,"Skrypton on Windows (.NET Framework 4.8.1): the Windows host services (processes, clipboard, dialogs, ADO through OLE DB, Outlook) and the script runner of the skrypton command line tool"
+2026-11-11T14:41:33.59Z,MatriksIQ.Reference.Assemblies,6.0.0.7,Matriks Finansal Teknolojiler A.Ş.,"MatriksIQ algo gelistirme icin referans assembly'ler (Matriks.Core, Matriks.Indicators, Matriks.Lean.Algotrader, Matriks.Trader.Core, Matriks.AI, Matriks.ML). Reference assemblies for developing MatriksIQ algorithms."
+2026-11-11T14:45:43.263Z,Derail,0.1.0,Fredrik Hagen Fasteraune,"Result, Option and Validation monads built on C# union types, for railway-oriented programming."
+2026-11-11T14:46:17.073Z,FlashXlsx,1.0.0,Jetonpeche,"Ultra-fast, lightweight streaming XLSX engine for .NET 10. Built for extreme throughput and minimal memory footprint, with zero-allocation dynamic records and 100% Native AOT compatibility via Roslyn Source Generators."
+2026-11-11T15:05:03.34Z,Messaia.Net.Pdf.Impl.IronPdf,10.3.0-beta01,Fouad Messaia,IronPDF PDF Service Implementation
