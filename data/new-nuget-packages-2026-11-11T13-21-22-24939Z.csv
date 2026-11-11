@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-11T12:21:51.1Z,miPDFlib.PostScript,1.3.0,Wolfgang Mitterbucher,"Converts PostScript and EPS to PDF and places EPS graphics in PDF documents. Pure managed code for .NET 8/10 without native dependencies, based on miPDFlib (Apache-2.0)."
+2026-11-11T12:46:17.81Z,BSynchro.Clauses.Public,8.4.0,BSynchro,"Client for the clauses service: master clause DTO, IClausesClient and AddClausesClient registration."
+2026-11-11T12:46:20.723Z,BSynchro.Options.Public,8.4.0,BSynchro,"Client for the options service: request and clause snapshot DTOs, IOptionsClient and AddOptionsClient registration."
+2026-11-11T12:50:25.337Z,Bitavu.Client,0.1.1,bitavu.com,PDF generation for .NET. Generate PDFs from Bitavu templates and JSON data with this C# client.
+2026-11-11T12:50:30.277Z,ErCreatorCore,1.3.1,Rintaro Sugishita,ErCreator のデータモデル契約（EntityData / RelationData / ColumnData 等）と ermlx シリアライザ。WPF 非依存の POCO ライブラリで、外部のコードジェネレータから参照できる。
+2026-11-11T12:51:34.897Z,WorkManage.Contracts,1.0.6,R.Sugishita,WorkManage 拡張機能開発用の共有コントラクトライブラリ。データモデル・入出力データ・拡張イベント定義を含みます。
