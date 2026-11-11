@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-11T03:26:49.503Z,Doxify,1.2.1,UDS,"Doxify document engine (Rust core) for .NET. This package is the server-side PDF API: open, render, extract text, add/edit/delete annotations, fill and flatten forms, page operations, full and incremental save. Word (DOCX) and Excel (XLSX) viewing and editing come in the Doxify.Blazor editor UI. Th…"
+2026-11-11T03:27:15.473Z,Doxify.Blazor,1.2.1,UDS,"Drop-in document editor component for Blazor and ASP.NET Core that opens and edits PDF, Word (DOCX) and Excel (XLSX) files in the browser. PDF: highlight, notes, shapes, stamps, signatures, comments, forms, search, page tools. Word: text and formatting editing. Excel: cells, formulas, sheets and sh…"
+2026-11-11T03:37:49.84Z,Aprillz.MewUI.MewvalonEdit,0.22.1,Aprillz,AvalonEdit-compatible editing components built on the MewUI text engine.
