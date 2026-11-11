@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-11-11T10:22:29.813Z,TechTeaStudio.Auth.OAuthServer,0.13.0,Ronald Ryan,"OAuth 2.1 authorization server module for ASP.NET Core hosts: authorization code + PKCE S256, refresh-token rotation with a lost-race grace window, RFC 8414 metadata, RFC 8707 resource indicators, RFC 9207 iss, Client ID Metadata Documents and RFC 7591 dynamic registration. Built for MCP clients (C…"
+2026-11-11T10:22:31.28Z,TechTeaStudio.Auth.OAuthServer.EFCore,0.13.0,Ronald Ryan,"EF Core stores and fluent mapping for TechTeaStudio.Auth.OAuthServer: clients, pending authorization requests, authorization codes, refresh tokens and grants."
+2026-11-11T10:23:15.257Z,SagaFlow.Core,1.0.0,Kemal Karadag,Core models and contracts for SagaFlow saga workflows.
+2026-11-11T10:23:36.23Z,SagaFlow.Engine,1.0.0,Kemal Karadag,Process definition and execution engine for SagaFlow saga workflows.
+2026-11-11T10:24:24.87Z,Tinyeval,0.11.0,tinyeval,Run your C# app's AI calls against tinyeval's test cases: a worker that answers each input and sorts outages from failures.
+2026-11-11T10:24:25.43Z,Tinyeval.Tool,0.11.0,tinyeval,The tinyeval command for .NET: runs the evals in evals/*.sh against your app and says which replies pass.
+2026-11-11T10:24:41.22Z,SagaFlow.Hosting,1.0.0,Kemal Karadag,ASP.NET Core hosting integration and embedded dashboard for SagaFlow.
+2026-11-11T10:25:02.603Z,SagaFlow.Messaging.RabbitMQ,1.0.0,Kemal Karadag,RabbitMQ messaging transport for SagaFlow saga workflows.
+2026-11-11T10:25:16.793Z,SagaFlow.Storage.InMemory,1.0.0,Kemal Karadag,In-memory state storage provider for SagaFlow saga workflows.
+2026-11-11T10:25:30.567Z,SagaFlow.Storage.PostgreSQL,1.0.0,Kemal Karadag,PostgreSQL state storage provider for SagaFlow saga workflows.
+2026-11-11T10:28:56.23Z,Nordmann.LUI,0.1.0-alpha,Nordmann,"Autocomplete suggestions for .NET, straight out of your own SQLite database. FTS5 trigram search, priority-first candidates, word-start ranking, typo tolerance. A library — no server, no ORM, no runtime of its own."
+2026-11-11T10:28:57.1Z,Nordmann.LUI.Hosting,0.1.0-alpha,Nordmann,Nordmann.LUI in an ASP.NET Core or worker application: AddLui puts the catalog into the container. The application creates its indexes with the catalog (catalog.Create) and opens them in the runtime path (catalog.Index).
+2026-11-11T10:29:16.11Z,Jumoo.UmbracoAI.Translations,17.3.0,Jumoo,"Installs Translation Manager, Umbraco.AI and the Translation Manager Umbraco.AI connector in one step, and sets the connector up as the default on first boot. Add an AI provider in Umbraco.AI to start translating."
+2026-11-11T10:29:49.757Z,DwgIO,0.4.0,mahach666,"Reads Autodesk DWG drawings (.dwg) without AutoCAD and exposes sections, metadata and entities."
+2026-11-11T10:29:51.23Z,DwgIO.Cli,0.4.0,mahach666,Command line tool that reads Autodesk DWG drawings (.dwg) without AutoCAD and writes JSON.
+2026-11-11T10:30:57.403Z,WithEffect.Frontend.Applications,10.0.18,WithEffect.Services,WithEffect.Core assembles well-known packages for rapid application prototyping in contexts of Cyber Physical System (CPS). WithEffect.Frontend.Applications contains components to view and manage application profiles WithEffect in contexts of Blazor WebAssembly.
+2026-11-11T10:39:29.38Z,Srcmap.Probe.K7Q2,1.0.0,probe,"Throwaway package for a package-source resolution test. Safe to ignore. One constant, no build scripts, no install scripts. Origin: public."
+2026-11-11T10:41:05.29Z,Intropy.Testing.EndToEnd,0.1.0,Integrio,"Helpers for end-to-end tests on the local Intropy environment (intropy-dev-env): act as a component through the rig's Dapr driver, stub and inspect the WireMock fixture, wait for asynchronous outcomes, and skip tests when the rig is not running."
+2026-11-11T10:44:00.037Z,Bibui.Glyphs,1.2.0,Navisurg ApS,"Bibui.Glyphs: glyphs as coverage masks, for a rasterizer that draws text itself. Renders a strike's glyphs with FreeType at quarter-pixel phases, keeps them, places them by Skia's rule, and gives the gamma table to blend them with. The managed rasterizer draws its text with it."
+2026-11-11T10:44:03.007Z,OpenMoca.Reader.Extensions.AI,0.6.0,MOCA Standard Contributors,Use any Microsoft.Extensions.AI embedding generator as a MOCA Reader embedder.
+2026-11-11T10:44:03.76Z,OpenMoca.Reader.Onnx,0.6.0,MOCA Standard Contributors,"MOCA's standard embedding models (bge-small-en-v1.5, nomic-embed-text-v1.5, all-MiniLM-L6-v2, multilingual-e5-small) run locally with ONNX Runtime, as MOCA Reader embedders for semantic and hybrid search."
+2026-11-11T10:44:04.543Z,OpenMoca.Reader.Sigstore,0.6.0,MOCA Standard Contributors,"Verify Sigstore-signed MOCA attestations offline, against a trusted root the host supplies."
+2026-11-11T10:44:06.69Z,OpenMoca.Reader.VectorData,0.6.0,MOCA Standard Contributors,"Search MOCA packages through any Microsoft.Extensions.VectorData vector store, with the Reader's ranking and retrieval policy."
+2026-11-11T10:47:54.83Z,OpenDCP.Framework.ShareLink,0.1.0,OpenDCP.Framework.ShareLink,Package Description
+2026-11-11T10:49:28.493Z,OpenDCP.Framework.Security,0.2.0,OpenDCP.Framework.Security,Package Description
+2026-11-11T10:53:04.053Z,HyperDev.Text.Json.Schema,1.2.0,"Ivan Senatore, Wemake Informatica",JSON Schema Draft 7 validator.
+2026-11-11T10:53:19.387Z,HyperDev.Text.Json.Transform,1.2.4,"Ivan Senatore, Wemake Informatica","HyperDev Fatum Framework: JsonTransform and the Newtonsoft.Json.Schema helpers (inference, samples, validation)"
+2026-11-11T11:08:41.563Z,TedToolkit.CppBindings.Manifold.Linux,2026.11.11.109,TedToolkit,Generated Manifold bindings and their native libraries for Linux x64.
