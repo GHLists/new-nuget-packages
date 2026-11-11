@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-11T09:21:27.917Z,SilverHamu.Client,0.2.0,dhq_boiler and contributors,".NET client for the silverhamu TCP service with binary keys and values, durable writes, transactions and TLS account authentication."
+2026-11-11T09:25:01.11Z,Altium.Designer.HotReload,1.0.0,Altium,"Hot reload for Altium Designer extensions in Debug builds: rebuild your C# and the running AD swaps it in, no restart. Source-only; Release builds contain none of it."
+2026-11-11T09:26:30.95Z,IOViewer,0.1.0,mahach666,"Fast, pure managed .NET library and CLI tool for generating standalone, zero-dependency interactive 3D WebGL/HTML BIM & CAD model viewers."
+2026-11-11T09:26:32.263Z,IOViewer.Cli,0.1.0,mahach666,"Command line tool for generating standalone, zero-dependency interactive 3D WebGL/HTML BIM & CAD model viewers."
+2026-11-11T09:28:22.583Z,SingleStore.AgentFramework,0.1.0,SingleStore Inc.,SingleStore integrations for Microsoft Agent Framework.
+2026-11-11T09:38:04.61Z,Cike.Auth.Caching,1.0.1,Lemon.Li,Package Description
+2026-11-11T09:39:58.81Z,Ariadne.NET.Cli,0.7.1,Marcel Roozekrans,"The ariadne command: checks a .NET solution against its Ariadne.NET architecture rule packs, sets up a repository's rules and runs the Claude Code hooks."
+2026-11-11T09:39:59.89Z,Ariadne.NET.Testing,0.7.1,Marcel Roozekrans,"Checks a .NET solution against its Ariadne.NET architecture rule packs from a unit test, with one call that works in any test framework."
+2026-11-11T09:42:25.727Z,WiseAuth,1.0.0,Andrew Boyd,A lightweight ASP.NET Core authorization library that uses power-of-two bit-flag enums and bitwise claim checking to enforce per-endpoint permissions.
+2026-11-11T09:45:21.02Z,SimdYolo,0.11.3,SimdYolo,"Managed FP32 YOLO detection, segmentation and pose inference with SIMD, Vulkan and Metal compute."
+2026-11-11T09:45:22.23Z,SimdYolo.Training,0.11.3,SimdYolo.Training,Pure managed YOLOv8/v9/v10/YOLO11/YOLO26 detection-head fine-tuning with CPU SIMD and optional Vulkan matrix operations.
+2026-11-11T09:47:08.083Z,Dosai,5.0.0,Team AppThreat <cloud@appthreat.com>,"OWASP Dosai (Dotnet Source and Assembly Inspector) inspects .NET source code, assemblies, and NuGet packages to extract methods, dependencies, API endpoints, call graphs, data-flow slices, crypto evidence, and severity-tagged security findings for review."
+2026-11-11T09:50:34.92Z,Rst.Ssh,0.1.0,RST,"An embeddable SSH-2 and SFTP server for .NET. A complete, self-contained SSH/SFTP server library written in C# — no native dependencies and no third-party cryptography. Host a secure SFTP server from your own application with your own authentication and storage: password and public-key auth (Ed2551…"
+2026-11-11T09:53:07.387Z,Altium.Designer.Extension.Templates,1.0.0,Altium,"dotnet new templates for Altium Designer extensions (.NET 8 or .NET 10, as the installation hosts) with hot reload in Debug builds."
+2026-11-11T10:01:34.73Z,Routeables.Abstraction,2.1.0,Cédric Boutin,"The contracts of Routeables: IRouter, IRouteable, RouteableArgs, the attributes and the lock and error contracts. A view model depends on these types instead of an API of Blazor, ASP.NET Core, .NET MAUI, Avalonia, Uno, WinUI 3 or WPF."
+2026-11-11T10:02:22.947Z,Routeables.Blazor,2.1.0,Cédric Boutin,"Routeables for Blazor: view-model-first routing, routed components, regions, dialogs, notifications and the default layout."
+2026-11-11T10:03:15.697Z,Routeables.Templates,2.1.0,Routeables.Templates,"dotnet new templates for Routeables: an Avalonia, a .NET MAUI, an Uno Platform, a WinUI 3 and a Blazor Web App (Interactive Server) application, each with a first routed page."
