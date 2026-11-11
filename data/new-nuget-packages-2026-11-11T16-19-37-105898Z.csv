@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-11T15:21:22.177Z,GtG.Open.HC.SelectionAwarePaging,16.6.0,GtG Open Maintainers,"Selection-aware offset paging for Hot Chocolate: execute only the item, count and page-info queries requested by the client."
+2026-11-11T15:31:47.197Z,Noosh24.OpenApi,0.1.0,Noosh24,"Official .NET client for the Noosh24 Open API: menu, reservations, orders, payments, tables, customers, loyalty, stock and reviews of a venue."
+2026-11-11T15:32:27.233Z,HoneyDrunk.Agents.Operations,0.2.0,HoneyDrunk Studios,"The shared, versioned HTTP operations contract for HoneyDrunk Grid agent hosts (ADR-0110): a bounded run journal fed by lifecycle transitions, and read endpoints for workloads, runs, pending approvals, budget, pause and recent audit."
+2026-11-11T15:32:41.913Z,SuperAdmin.Rbac,0.1.0.1,Super Admin,"Role-based authentication, URL-based permissions and a role-aware sidebar menu for ASP.NET Core, managed at runtime from a built-in admin panel (users, roles, permissions, menu, route discovery, operation log)."
+2026-11-11T15:35:39.697Z,FaceCrop.NET,1.0.0,airtaxi,Face-aware maximum square cropping with an embedded BlazeFace short-range face detector.
+2026-11-11T15:36:09.27Z,Blueprint.Testing.HttpClient,3.1.1,Symprex,"A test double of a Blueprint typed client's upstream for Blueprint.Testing: answers and records a [BlueprintClient]'s calls, and an [Expose] gateway's forwards, by operation type."
+2026-11-11T15:48:01.14Z,Cike.Security,1.0.12,Lemon.Li,Package Description
+2026-11-11T15:48:02.83Z,Cike.MultiTenancy,1.0.12,Lemon.Li,Package Description
+2026-11-11T15:52:27.363Z,DynamicAuthorization.AspNetCore,2.0.0-beta-1,Mohsen Esmailpour,"Dynamic, permission-based authorization for ASP.NET Core MVC, Razor Pages and Minimal APIs. Grant roles access to endpoints at runtime instead of hard-coding roles in [Authorize] attributes."
+2026-11-11T15:52:28.653Z,DynamicAuthorization.AspNetCore.HybridCache,2.0.0-beta-1,Mohsen Esmailpour,"HybridCache store for DynamicAuthorization.AspNetCore. Shares cached user roles and role permissions between instances through a distributed cache, with invalidations that reach every instance."
+2026-11-11T15:52:29.9Z,DynamicAuthorization.AspNetCore.EntityFrameworkCore,2.0.0-beta-1,Mohsen Esmailpour,"Entity Framework Core store for DynamicAuthorization.AspNetCore. Keeps the permissions granted to roles in your ASP.NET Core Identity database, with any EF Core provider."
+2026-11-11T15:52:30.813Z,DynamicAuthorization.AspNetCore.Dashboard,2.0.0-beta-1,Mohsen Esmailpour,"A dashboard for DynamicAuthorization.AspNetCore, built with Razor Pages: manage roles, their permissions and user roles, see how every endpoint is protected, and check what a user can access."
+2026-11-11T15:54:30.36Z,Nullean.Snapshots.Images.Assertions,0.9.0,Nullean and contributors,AwesomeAssertions extensions for Nullean.Snapshots.Images: MatchImageSnapshot for PNG bytes and streams.
+2026-11-11T15:57:14.723Z,SI.Rosetta.Aggregates.PostgreSQL,1.36.0,SI.Rosetta.Aggregates.PostgreSQL,Package Description
+2026-11-11T15:59:11.897Z,Slugger,1.2.0,Reefact,"The slugger command: human-readable random names, Docker- and Heroku-style (humming_dirac, silvery-mud-7643), for containers, git branches and test data. A .NET tool. Not a slugifier."
