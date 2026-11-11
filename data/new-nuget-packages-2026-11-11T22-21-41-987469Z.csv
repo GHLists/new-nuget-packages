@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-11-11T21:37:24.44Z,Anarchy.Toolkit.Build.Fallout,1.0.1,Leandro M. Medeiros,"Fallout build components: solution/test conventions, Microsoft.Testing.Platform-aware test runner, AWS Lambda/CodeDeploy/ECR release flows, KMS secrets, user secrets and Slack failure reporting."
+2026-11-11T21:37:51.373Z,SolTechnology.Avro.Cli,4.0.0,Adrian Strugala,"AvroConvert on the command line, with Apache avro-tools command names: induce, compile, tojson, getschema, canonical, fingerprint; plus schema compatibility and Schema Registry checks for CI."
+2026-11-11T21:38:23.3Z,AI.Providers,0.1.0,pprpmro,"A .NET library for multi-turn dialogs and streamed replies through adapters for OpenAI, GigaChat, YandexGPT, DeepSeek, and OpenAI-compatible APIs. Includes chat model discovery and text embeddings."
+2026-11-11T21:41:48.01Z,MoreFortniteReplayDecompression,1.0.0,Cristiano3120,"Fortnite replay parser with detailed stats for every player: damage, hits, eliminations, assists, health, builds, materials, movement, storm and more."
+2026-11-11T21:44:23.16Z,SdkFabric.Twilio,0.1.0,Christoph Kappestein,Twilio C# SDK managed by SDK Fabric
+2026-11-11T21:44:40.23Z,Neemle.CSharpComposer,0.3.0,Neemle,".NET 10 library for composing, parsing and editing C# source with an immutable DOM, attached comments and stream/byte-array IO; no Roslyn dependency."
+2026-11-11T21:53:49.4Z,PackageUpdateLib,4.7.0,https://github.com/SimonCropp/PackageUpdate/graphs/contributors,Library that updates NuGet packages for all solutions in a directory. Powers the PackageUpdate dotnet tool.
+2026-11-11T21:59:08.917Z,E2E.EmbeddedIconPng.69cbc68a37a042fe89645cdcb8e5854b,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.69cbc68a37a042fe89645cdcb8e5854b
+2026-11-11T21:59:08.93Z,E2E.LicenseFile.20f16de1338a4ea8844f6d231c3fae83,1.0.0,EndToEndTests,Description of E2E.LicenseFile.20f16de1338a4ea8844f6d231c3fae83
+2026-11-11T21:59:09.45Z,E2E.EmbeddedReadmeFile.2803c11152eb43cb94c1263ddde72bc7,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.2803c11152eb43cb94c1263ddde72bc7
+2026-11-11T21:59:09.487Z,E2E.FullValidation.89032b8fb9ca4ef89428fd7675b4c961,1.0.0,EndToEndTests,Description of E2E.FullValidation.89032b8fb9ca4ef89428fd7675b4c961
+2026-11-11T21:59:09.487Z,E2E.LicenseExpression.8fe4d037d61e4603abf9ec4763473dba,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.8fe4d037d61e4603abf9ec4763473dba
+2026-11-11T21:59:09.493Z,E2E.Deprecated.b794f3ff95254fedb5032d9cbe8e75b3,1.0.0,EndToEndTests,Description of E2E.Deprecated.b794f3ff95254fedb5032d9cbe8e75b3
+2026-11-11T21:59:09.747Z,E2E.EmbeddedIconJpeg.5c60bb40bef14b4da2bc6f5d35ae9146,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.5c60bb40bef14b4da2bc6f5d35ae9146
+2026-11-11T21:59:09.87Z,E2E.SemVer1Stable.0fff39624e79408598ec923e4c21c72e,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.0fff39624e79408598ec923e4c21c72e
+2026-11-11T21:59:09.92Z,E2E.LicenseUrl.7dbd5a2498394cc38f3fc10824c2958b,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.7dbd5a2498394cc38f3fc10824c2958b
+2026-11-11T21:59:21.027Z,E2E.SymbolsPackage.dbd9e149f4b24691a68b8de43367bcf1,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.dbd9e149f4b24691a68b8de43367bcf1
+2026-11-11T21:59:22.68Z,E2E.DotnetTool.268f872dfa9848dc9afcd527b065466b,1.0.0,E2E.DotnetTool,Package Description
+2026-11-11T22:04:52.733Z,NewHeap.Platform.AI.Chat.AGUI,39.0.0,NewHeap contributors,"An opt-in AG-UI (Agent-User Interaction Protocol) endpoint for the NewHeap assistant: AG-UI clients run a chat agent over the same turn runner, authorization, approvals, budget and audit as the assistant endpoints."
