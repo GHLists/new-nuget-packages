@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-11-11T13:21:36.283Z,Arc56.Generated.daemonmarlik.CertiChain,1.0.1.2026111113,daemonmarlik,Generated ARC-56 Algorand smart-contract clients for daemonmarlik/CertiChain.
+2026-11-11T13:21:51.32Z,Arc56.Generated.d13co.algod-mesh,1.0.1.2026111113,d13co,Generated ARC-56 Algorand smart-contract clients for d13co/algod-mesh.
+2026-11-11T13:37:16.73Z,MasterUI.WinForms.Common,1.0.0,MasterUI,MasterUI 配套的纯逻辑工具：表格文本（TSV）解析、CSV 写出、轻量 xlsx 写出。
+2026-11-11T13:37:25.66Z,DotNop.Channels.Redis,1.0.20-preview,Andrii Kurochka,System.Threading.Channels implementation backed by Redis.
+2026-11-11T13:37:27.08Z,MasterUI.WinForms,1.0.0,MasterUI,面向 WinForms 业务系统的现代化扁平控件库，支持多主题与高 DPI。
+2026-11-11T13:37:50.033Z,Meziantou.Framework.Pdf.VectorGraphics,1.0.0,meziantou,"Draws the scenes of Meziantou.Framework.VectorGraphics (charts, diagrams) as PDF with Meziantou.Framework.Pdf: vector shapes, gradients and text, with subsets of the fonts of the scene embedded."
+2026-11-11T13:39:20.3Z,LibMentor,0.1.0,Florian Gilde,"Generate versioned AI documentation, API references and agent skills from your libraries."
+2026-11-11T13:43:17.52Z,AppMare.MauiWeb.Controls,1.0.4,AppMare,"Web-specific platform configuration for MauiWeb apps: tab bar placement, the desktop navbar and tab roles. Builds for every MAUI platform. Part of MauiWeb."
+2026-11-11T13:43:24.283Z,AppMare.MauiWeb.Toolkit,1.0.4,AppMare,".NET MAUI Community Toolkit support for MauiWeb (behaviors, Snackbar, Toast, MediaElement and more). Part of MauiWeb."
+2026-11-11T13:43:26.183Z,AppMare.MauiWeb.SkiaSharp,1.0.4,AppMare,SkiaSharp support for MauiWeb: SKCanvasView and custom drawing rendered on the server. Part of MauiWeb.
+2026-11-11T13:43:29.5Z,AppMare.MauiWeb.Mopups,1.0.4,AppMare,"Web support for Mopups, not a new popup library: your existing Mopups code (PopupPage, MopupService and its animations) runs in the browser when your .NET MAUI app runs as a website with MauiWeb."
+2026-11-11T13:43:31.09Z,AppMare.MauiWeb.FFImageLoading,1.0.4,AppMare,"Web support for FFImageLoading.Maui, not a new image library: your existing CachedImage code (placeholders, retries, events and transformations) runs in the browser when your .NET MAUI app runs as a website with MauiWeb."
+2026-11-11T13:43:32.853Z,AppMare.MauiWeb.Audio,1.0.4,AppMare,"Web support for Plugin.Maui.Audio, not a new audio library: your existing Plugin.Maui.Audio code (AudioManager, IAudioPlayer, IAudioRecorder, IAudioStreamer) runs in the browser when your .NET MAUI app runs as a website with MauiWeb. Players, microphone recording (WAV) and PCM streaming."
+2026-11-11T13:44:34.663Z,Damianh.NuGetOrgManage,1.0.0,"Damian Hickey,Thomas Galliker",Utilities for managing NuGet.org packages.
+2026-11-11T13:46:25.483Z,Solurum.Stride.VisualStudioTemplates,1.0.0,Solurum,Visual Studio and dotnet CLI templates for code-only Stride games.
+2026-11-11T13:47:56.053Z,HoneyDrunk.Agents,0.1.0,HoneyDrunk Studios,"Runtime for HoneyDrunk Grid agents: an in-process lifecycle, tool invocation through the Capabilities node behind Operator gates, and scoped memory through the Memory node."
+2026-11-11T13:47:59.98Z,HoneyDrunk.Agents.Testing,0.1.0,HoneyDrunk Studios,"Test fixtures for HoneyDrunk Grid agents: a harness over the real runtime with in-memory Capabilities, Memory and Operator pieces, scripted agents, in-memory tools and memory, and deterministic Kernel contexts. For test projects only."
+2026-11-11T13:48:33.54Z,HoneyDrunk.Operator.Data,0.2.0,HoneyDrunk Studios,"Durable storage for HoneyDrunk.Operator over HoneyDrunk.Data's Entity Framework layer: approvals and decisions, manual pauses, and budget spend survive restarts."
