@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:21 UTC
+## Latest list — 2026-11-11 19:19 UTC
 
-New packages created between 2026-11-11 17:21 UTC and 2026-11-11 18:21 UTC.
+New packages created between 2026-11-11 18:21 UTC and 2026-11-11 19:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-11T18-21-51-876331Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-11T19-19-33-772437Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-11 17:38:49 | [NextSyncListener](https://www.nuget.org/packages/NextSyncListener) | 9.7.65 | Julien Clauzel | The PC half of the NextSync ".sync5 -listen" Remote Explorer protocol: a TCP se… |
-| 2026-11-11 17:40:52 | [AlibabaCloud.SDK.EcdBiz20240929](https://www.nuget.org/packages/AlibabaCloud.SDK.EcdBiz20240929) | 1.0.0 | Alibaba Cloud | Alibaba Cloud EcdBiz (20240929) SDK Library for .NET |
-| 2026-11-11 17:42:55 | [Digi21.DigiNG.Dtm](https://www.nuget.org/packages/Digi21.DigiNG.Dtm) | 26.0.0 | José Ángel Martínez Torres | This package contains a reference assembly to open digital terrain models (.mdt… |
-| 2026-11-11 17:48:59 | [Bitwarden.Server.Sdk.Database](https://www.nuget.org/packages/Bitwarden.Server.Sdk.Database) | 0.1.0 | Bitwarden Inc. | Database migration support for Bitwarden server services. Provides the runtime… |
-| 2026-11-11 17:51:11 | [Pmad.KeySharp](https://www.nuget.org/packages/Pmad.KeySharp) | 0.1.0 | goaaats,OppOops,jetelain | Cross-platform OS keyring and credential storage access for .NET (Windows Crede… |
-| 2026-11-11 18:02:18 | [Abaddax.Roslyn.Analyzers.Framework](https://www.nuget.org/packages/Abaddax.Roslyn.Analyzers.Framework) | 0.0.1-preview12 | Abaddax | A collection of C# Roslyn analyzers |
+| 2026-11-11 18:29:38 | [Alexpivo394.ToadDesign](https://www.nuget.org/packages/Alexpivo394.ToadDesign) | 1.0.0 | Alexpivo394 | WPF controls and styles in the ToadFlow (Mantine) look for windows hosted insid… |
+| 2026-11-11 18:32:28 | [Bitwarden.Server.Sdk.Infrastructure](https://www.nuget.org/packages/Bitwarden.Server.Sdk.Infrastructure) | 0.1.0 | Bitwarden Inc. | Lets libraries declare the infrastructure (databases, caches, message topics, c… |
+| 2026-11-11 18:34:52 | [Tubatools.Xiaoheihe](https://www.nuget.org/packages/Tubatools.Xiaoheihe) | 1.0.13 | 图吧工具箱 | 小黑盒社区客户端：扫码登录、推荐流、社区、搜索、帖子评论、签到、收藏、历史、游戏库 |
+| 2026-11-11 18:37:31 | [Bitvantage.InternetProtocol.IPNetworkExtensions](https://www.nuget.org/packages/Bitvantage.InternetProtocol.IPNetworkExtensions) | 1.0.0 | Michael Crino | C# 14 extension members for System.Net.IPNetwork and IPAddress that add CIDR, s… |
 
 ## Data source
 

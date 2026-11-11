@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-11T18:29:38.85Z,Alexpivo394.ToadDesign,1.0.0,Alexpivo394,"WPF controls and styles in the ToadFlow (Mantine) look for windows hosted inside other applications, such as Revit add-ins."
+2026-11-11T18:32:28.25Z,Bitwarden.Server.Sdk.Infrastructure,0.1.0,Bitwarden Inc.,"Lets libraries declare the infrastructure (databases, caches, message topics, certificates, ...) a service needs, so the full set can be collected from a service's startup."
+2026-11-11T18:34:52.537Z,Tubatools.Xiaoheihe,1.0.13,图吧工具箱,小黑盒社区客户端：扫码登录、推荐流、社区、搜索、帖子评论、签到、收藏、历史、游戏库
+2026-11-11T18:37:31.603Z,Bitvantage.InternetProtocol.IPNetworkExtensions,1.0.0,Michael Crino,"C# 14 extension members for System.Net.IPNetwork and IPAddress that add CIDR, subnet and supernet math: network and wildcard masks, host ranges, subnet and supernet tests, splitting, summarization, intersection, exclusion, conversion between address ranges and CIDR blocks, free subnet search, sorti…"
