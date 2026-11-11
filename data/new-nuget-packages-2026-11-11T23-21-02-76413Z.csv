@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-11-11T22:22:37.983Z,Mafesoft.RestClient,3.0.0,Federico Mazzanti,RestClient is a fluent library for .NET that helps you to consume REST services.
+2026-11-11T22:22:38.833Z,Mafesoft.RestClient.Extensions.DependencyInjection,3.0.0,Federico Mazzanti,"Registers Mafesoft.RestClient builders in the dependency injection container, on top of IHttpClientFactory (pooled handlers, delegating handlers, resilience)."
+2026-11-11T22:24:35.043Z,TenantGuard.Analyzers,0.1.0,Jimmy Kurian,Roslyn analyzers that flag IgnoreQueryFilters() and raw SQL without a tenant predicate unless the method carries a justification. Bundled in TenantGuard.EntityFrameworkCore; this package ships them standalone.
+2026-11-11T22:24:35.3Z,TenantGuard.Testing.XunitV3,0.1.0,Jimmy Kurian,"xUnit v3 adapter for the TenantGuard isolation probe: each entity type and check is a test of its own, named after them, that fails with what leaked."
+2026-11-11T22:24:35.797Z,TenantGuard.Testing,0.1.0,Jimmy Kurian,"Test kit for TenantGuard: a per-entity tenant isolation probe that seeds every tenant-scoped entity and proves reads, finds, bulk deletes and writes stay inside their tenant."
+2026-11-11T22:24:36.25Z,TenantGuard.EntityFrameworkCore,0.1.0,Jimmy Kurian,"Proves an EF Core multi-tenant model leaks nothing: startup model validation, a SaveChanges guard and Roslyn analyzers. Works with Finbuckle, other tenancy packages, or hand-rolled query filters."
+2026-11-11T22:24:36.703Z,TenantGuard.Testing.TUnit,0.1.0,Jimmy Kurian,"TUnit adapter for the TenantGuard isolation probe: each entity type and check is a test of its own, named after them, that fails with what leaked."
+2026-11-11T22:24:37.247Z,TenantGuard.Tool,0.1.0,Jimmy Kurian,"dotnet tenantguard validate: runs TenantGuard's model rules on a compiled app's DbContext in CI, without starting the app or opening a database connection."
+2026-11-11T22:27:01.867Z,Mafesoft.Localization.Extensions,4.1.0,Federico Mazzanti,Microsoft.Extensions integration for Mafesoft.Localization: registers the LocalizationManager in the dependency injection and provides IStringLocalizer / IStringLocalizerFactory backed by its vocabularies.
+2026-11-11T22:30:37.527Z,Stateflows.Extensions.UnionTypes,0.23.0-beta,Stateflows,Package Description
+2026-11-11T22:41:57.48Z,Cratis.Stage.Extensions,5.15.0,Cratis,"The C# SDK for Cratis Stage extension backends: implement abilities, inbound HTTP and health over the extension protocol, and use Stage's host services for settings, secrets, triggers, answers and telemetry."
+2026-11-11T22:54:20.24Z,SharpSTUN,0.0.1,Lukas Volf,A STUN client and server written in C#.
+2026-11-11T22:54:29.55Z,SharpTURN,0.0.1,Lukas Volf,A TURN client and server written in C#.
+2026-11-11T22:54:38.13Z,SharpICE,0.0.1,Lukas Volf,ICE (Interactive Connectivity Establishment) written in C#.
+2026-11-11T22:56:41.94Z,Slugger.Core,1.0.0,Reefact,"Human-readable random names, Docker- and Heroku-style (humming_dirac, silvery-mud-7643), drawn from themed JSON word lists in which each adjective only meets the nouns it fits. Not a slugifier."
+2026-11-11T23:00:02.433Z,essentialMix.Data.Entity.Mapster,17.0.16,asm,"Common extensions methods, helper classes, components, nano systems, and common patterns"
+2026-11-11T23:09:17.207Z,ca.whittaker.Diagnostics.HttpRequestLogging,1.0.0,Brett Whittaker,"Explicit, bounded ASP.NET Core request diagnostics with opt-in JSON body capture and redaction."
+2026-11-11T23:09:53.44Z,MsGraphMcpProvider,0.1.3,gitdonohue,"Embeddable, loopback-only Model Context Protocol (MCP) server that exposes Microsoft Teams chats and channels through Microsoft Graph. Supports device-code or broker sign-in via MSAL, with opt-in channel posting."
+2026-11-11T23:09:58.76Z,TwKit.net,0.1.1,TwKit,Downloads and runs the Tailwind CSS CLI before Blazor WebAssembly compilation.

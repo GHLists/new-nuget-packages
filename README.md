@@ -12,33 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 22:21 UTC
+## Latest list — 2026-11-11 23:21 UTC
 
-New packages created between 2026-11-11 21:21 UTC and 2026-11-11 22:21 UTC.
+New packages created between 2026-11-11 22:21 UTC and 2026-11-11 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-11T22-21-41-987469Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-11T23-21-02-76413Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-11 21:37:24 | [Anarchy.Toolkit.Build.Fallout](https://www.nuget.org/packages/Anarchy.Toolkit.Build.Fallout) | 1.0.1 | Leandro M. Medeiros | Fallout build components: solution/test conventions, Microsoft.Testing.Platform… |
-| 2026-11-11 21:37:51 | [SolTechnology.Avro.Cli](https://www.nuget.org/packages/SolTechnology.Avro.Cli) | 4.0.0 | Adrian Strugala | AvroConvert on the command line, with Apache avro-tools command names: induce,… |
-| 2026-11-11 21:38:23 | [AI.Providers](https://www.nuget.org/packages/AI.Providers) | 0.1.0 | pprpmro | A .NET library for multi-turn dialogs and streamed replies through adapters for… |
-| 2026-11-11 21:41:48 | [MoreFortniteReplayDecompression](https://www.nuget.org/packages/MoreFortniteReplayDecompression) | 1.0.0 | Cristiano3120 | Fortnite replay parser with detailed stats for every player: damage, hits, elim… |
-| 2026-11-11 21:44:23 | [SdkFabric.Twilio](https://www.nuget.org/packages/SdkFabric.Twilio) | 0.1.0 | Christoph Kappestein | Twilio C# SDK managed by SDK Fabric |
-| 2026-11-11 21:44:40 | [Neemle.CSharpComposer](https://www.nuget.org/packages/Neemle.CSharpComposer) | 0.3.0 | Neemle | .NET 10 library for composing, parsing and editing C# source with an immutable… |
-| 2026-11-11 21:53:49 | [PackageUpdateLib](https://www.nuget.org/packages/PackageUpdateLib) | 4.7.0 | https://github.com/SimonCropp… | Library that updates NuGet packages for all solutions in a directory. Powers th… |
-| 2026-11-11 21:59:08 | [E2E.EmbeddedIconPng.69cbc68a37a042fe89645cdcb8e5854b](https://www.nuget.org/packages/E2E.EmbeddedIconPng.69cbc68a37a042fe89645cdcb8e5854b) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconPng.69cbc68a37a042fe89645cdcb8e5854b |
-| 2026-11-11 21:59:08 | [E2E.LicenseFile.20f16de1338a4ea8844f6d231c3fae83](https://www.nuget.org/packages/E2E.LicenseFile.20f16de1338a4ea8844f6d231c3fae83) | 1.0.0 | EndToEndTests | Description of E2E.LicenseFile.20f16de1338a4ea8844f6d231c3fae83 |
-| 2026-11-11 21:59:09 | [E2E.EmbeddedReadmeFile.2803c11152eb43cb94c1263ddde72bc7](https://www.nuget.org/packages/E2E.EmbeddedReadmeFile.2803c11152eb43cb94c1263ddde72bc7) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedReadmeFile.2803c11152eb43cb94c1263ddde72bc7 |
-| 2026-11-11 21:59:09 | [E2E.FullValidation.89032b8fb9ca4ef89428fd7675b4c961](https://www.nuget.org/packages/E2E.FullValidation.89032b8fb9ca4ef89428fd7675b4c961) | 1.0.0 | EndToEndTests | Description of E2E.FullValidation.89032b8fb9ca4ef89428fd7675b4c961 |
-| 2026-11-11 21:59:09 | [E2E.LicenseExpression.8fe4d037d61e4603abf9ec4763473dba](https://www.nuget.org/packages/E2E.LicenseExpression.8fe4d037d61e4603abf9ec4763473dba) | 1.0.0 | EndToEndTests | Description of E2E.LicenseExpression.8fe4d037d61e4603abf9ec4763473dba |
-| 2026-11-11 21:59:09 | [E2E.Deprecated.b794f3ff95254fedb5032d9cbe8e75b3](https://www.nuget.org/packages/E2E.Deprecated.b794f3ff95254fedb5032d9cbe8e75b3) | 1.0.0 | EndToEndTests | Description of E2E.Deprecated.b794f3ff95254fedb5032d9cbe8e75b3 |
-| 2026-11-11 21:59:09 | [E2E.EmbeddedIconJpeg.5c60bb40bef14b4da2bc6f5d35ae9146](https://www.nuget.org/packages/E2E.EmbeddedIconJpeg.5c60bb40bef14b4da2bc6f5d35ae9146) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconJpeg.5c60bb40bef14b4da2bc6f5d35ae9146 |
-| 2026-11-11 21:59:09 | [E2E.SemVer1Stable.0fff39624e79408598ec923e4c21c72e](https://www.nuget.org/packages/E2E.SemVer1Stable.0fff39624e79408598ec923e4c21c72e) | 1.0.0 | EndToEndTests | Description of E2E.SemVer1Stable.0fff39624e79408598ec923e4c21c72e |
-| 2026-11-11 21:59:09 | [E2E.LicenseUrl.7dbd5a2498394cc38f3fc10824c2958b](https://www.nuget.org/packages/E2E.LicenseUrl.7dbd5a2498394cc38f3fc10824c2958b) | 1.0.0 | EndToEndTests | Description of E2E.LicenseUrl.7dbd5a2498394cc38f3fc10824c2958b |
-| 2026-11-11 21:59:21 | [E2E.SymbolsPackage.dbd9e149f4b24691a68b8de43367bcf1](https://www.nuget.org/packages/E2E.SymbolsPackage.dbd9e149f4b24691a68b8de43367bcf1) | 1.0.0 | EndToEndTests | Description of E2E.SymbolsPackage.dbd9e149f4b24691a68b8de43367bcf1 |
-| 2026-11-11 21:59:22 | [E2E.DotnetTool.268f872dfa9848dc9afcd527b065466b](https://www.nuget.org/packages/E2E.DotnetTool.268f872dfa9848dc9afcd527b065466b) | 1.0.0 | E2E.DotnetTool | Package Description |
-| 2026-11-11 22:04:52 | [NewHeap.Platform.AI.Chat.AGUI](https://www.nuget.org/packages/NewHeap.Platform.AI.Chat.AGUI) | 39.0.0 | NewHeap contributors | An opt-in AG-UI (Agent-User Interaction Protocol) endpoint for the NewHeap assi… |
+| 2026-11-11 22:22:37 | [Mafesoft.RestClient](https://www.nuget.org/packages/Mafesoft.RestClient) | 3.0.0 | Federico Mazzanti | RestClient is a fluent library for .NET that helps you to consume REST services. |
+| 2026-11-11 22:22:38 | [Mafesoft.RestClient.Extensions.DependencyInjection](https://www.nuget.org/packages/Mafesoft.RestClient.Extensions.DependencyInjection) | 3.0.0 | Federico Mazzanti | Registers Mafesoft.RestClient builders in the dependency injection container, o… |
+| 2026-11-11 22:24:35 | [TenantGuard.Analyzers](https://www.nuget.org/packages/TenantGuard.Analyzers) | 0.1.0 | Jimmy Kurian | Roslyn analyzers that flag IgnoreQueryFilters() and raw SQL without a tenant pr… |
+| 2026-11-11 22:24:35 | [TenantGuard.Testing.XunitV3](https://www.nuget.org/packages/TenantGuard.Testing.XunitV3) | 0.1.0 | Jimmy Kurian | xUnit v3 adapter for the TenantGuard isolation probe: each entity type and chec… |
+| 2026-11-11 22:24:35 | [TenantGuard.Testing](https://www.nuget.org/packages/TenantGuard.Testing) | 0.1.0 | Jimmy Kurian | Test kit for TenantGuard: a per-entity tenant isolation probe that seeds every… |
+| 2026-11-11 22:24:36 | [TenantGuard.EntityFrameworkCore](https://www.nuget.org/packages/TenantGuard.EntityFrameworkCore) | 0.1.0 | Jimmy Kurian | Proves an EF Core multi-tenant model leaks nothing: startup model validation, a… |
+| 2026-11-11 22:24:36 | [TenantGuard.Testing.TUnit](https://www.nuget.org/packages/TenantGuard.Testing.TUnit) | 0.1.0 | Jimmy Kurian | TUnit adapter for the TenantGuard isolation probe: each entity type and check i… |
+| 2026-11-11 22:24:37 | [TenantGuard.Tool](https://www.nuget.org/packages/TenantGuard.Tool) | 0.1.0 | Jimmy Kurian | dotnet tenantguard validate: runs TenantGuard's model rules on a compiled app's… |
+| 2026-11-11 22:27:01 | [Mafesoft.Localization.Extensions](https://www.nuget.org/packages/Mafesoft.Localization.Extensions) | 4.1.0 | Federico Mazzanti | Microsoft.Extensions integration for Mafesoft.Localization: registers the Local… |
+| 2026-11-11 22:30:37 | [Stateflows.Extensions.UnionTypes](https://www.nuget.org/packages/Stateflows.Extensions.UnionTypes) | 0.23.0-beta | Stateflows | Package Description |
+| 2026-11-11 22:41:57 | [Cratis.Stage.Extensions](https://www.nuget.org/packages/Cratis.Stage.Extensions) | 5.15.0 | Cratis | The C# SDK for Cratis Stage extension backends: implement abilities, inbound HT… |
+| 2026-11-11 22:54:20 | [SharpSTUN](https://www.nuget.org/packages/SharpSTUN) | 0.0.1 | Lukas Volf | A STUN client and server written in C#. |
+| 2026-11-11 22:54:29 | [SharpTURN](https://www.nuget.org/packages/SharpTURN) | 0.0.1 | Lukas Volf | A TURN client and server written in C#. |
+| 2026-11-11 22:54:38 | [SharpICE](https://www.nuget.org/packages/SharpICE) | 0.0.1 | Lukas Volf | ICE (Interactive Connectivity Establishment) written in C#. |
+| 2026-11-11 22:56:41 | [Slugger.Core](https://www.nuget.org/packages/Slugger.Core) | 1.0.0 | Reefact | Human-readable random names, Docker- and Heroku-style (humming_dirac, silvery-m… |
+| 2026-11-11 23:00:02 | [essentialMix.Data.Entity.Mapster](https://www.nuget.org/packages/essentialMix.Data.Entity.Mapster) | 17.0.16 | asm | Common extensions methods, helper classes, components, nano systems, and common… |
+| 2026-11-11 23:09:17 | [ca.whittaker.Diagnostics.HttpRequestLogging](https://www.nuget.org/packages/ca.whittaker.Diagnostics.HttpRequestLogging) | 1.0.0 | Brett Whittaker | Explicit, bounded ASP.NET Core request diagnostics with opt-in JSON body captur… |
+| 2026-11-11 23:09:53 | [MsGraphMcpProvider](https://www.nuget.org/packages/MsGraphMcpProvider) | 0.1.3 | gitdonohue | Embeddable, loopback-only Model Context Protocol (MCP) server that exposes Micr… |
+| 2026-11-11 23:09:58 | [TwKit.net](https://www.nuget.org/packages/TwKit.net) | 0.1.1 | TwKit | Downloads and runs the Tailwind CSS CLI before Blazor WebAssembly compilation. |
 
 ## Data source
 
