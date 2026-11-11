@@ -1,0 +1,31 @@
+created_at,package,version,authors,description
+2026-11-11T11:22:38.24Z,alaasmagi.Base.Authorization,1.6.0,Aleksander Laasmägi,Base Authorization package for .NET webapps
+2026-11-11T11:22:40.277Z,alaasmagi.Base.Contracts.Authorization,1.6.0,Aleksander Laasmägi,Base Contracts Authorization package for .NET webapps
+2026-11-11T11:23:23.597Z,AzureSignTool.Cli.linux-x64,2026.11111.11200,Ismail Hassani,AzureSignTool.Cli - sign files and NuGet packages with Azure Key Vault certificates
+2026-11-11T11:23:26.017Z,AzureSignTool.Cli.win-arm64,2026.11111.11200,Ismail Hassani,AzureSignTool.Cli - sign files and NuGet packages with Azure Key Vault certificates
+2026-11-11T11:23:28.55Z,AzureSignTool.Cli.win-x64,2026.11111.11200,Ismail Hassani,AzureSignTool.Cli - sign files and NuGet packages with Azure Key Vault certificates
+2026-11-11T11:28:33.263Z,Trimensional,0.0.0,Trimensional Corp.,Trimensional API client
+2026-11-11T11:29:54.617Z,Orient.Pipelink,1.0.0,bburaksseyhan,"Lightweight, free mediator for .NET: requests, notifications, streams and opt-in pipeline behaviors with DI-scoped handlers. Pipelink, now part of the Orient family."
+2026-11-11T11:31:52.843Z,Skopka.Chat.ServerTrusted,0.20.0,Skopka.Chat contributors,Server-trusted (no end-to-end encryption) chat engine for Skopka.Chat: the server stores and reads messages under host authorization.
+2026-11-11T11:31:54.013Z,Skopka.Chat.ServerTrusted.PostgreSql,0.20.0,Skopka.Chat contributors,"PostgreSQL storage, outbox, LISTEN/NOTIFY live bridge and maintenance workers for the Skopka.Chat server-trusted (no E2EE) mode."
+2026-11-11T11:31:55.173Z,Skopka.Chat.ServerTrusted.Blazor,0.20.0,Skopka.Chat contributors,"Server-trusted (no end-to-end encryption) Blazor Server components for Skopka.Chat: prerender-safe conversation, live updates through content-free signals and an unread badge."
+2026-11-11T11:36:32.763Z,SI.Rosetta.Persistence.PostgreSQL,1.33.0,SI.Rosetta.Persistence.PostgreSQL,Package Description
+2026-11-11T11:36:48.9Z,SI.Rosetta.Projections.PostgreSQL,1.33.0,SI.Rosetta.Projections.PostgreSQL,Package Description
+2026-11-11T11:37:43.827Z,DataFac.Conduits.HttpServer11,1.0.88-dev,DataFac Contributors,Conduits http server
+2026-11-11T11:42:37.023Z,MoneyExtension-Davi,1.0.0,Davi Franciso,Extensão para converter decimal para inteiros.
+2026-11-11T11:45:56.29Z,SchemaFlow,1.0.0,SchemaFlow Team,"Developer-First Universal Database Schema Documentation, Mermaid ER Diagramming, Linter and Breaking Change Diff Engine."
+2026-11-11T11:46:42.467Z,Orient.Anyscan,0.2.8,Any,"Orient.Anyscan solution scanner for architecture, best practices, and quality gates."
+2026-11-11T11:50:33.277Z,OpenRobot.Edge.Common,0.1.0,OpenRobot,边端应用公共声明能力：模型 / 字段 / 变量的 C# 特性与反射扫描，供 AppSdk 生成平台声明。
+2026-11-11T11:53:17.333Z,CSoft.CustomerLog,11.0.0,CSoft,通过 LogInterface 记录日志，使用后台队列批量写入本地文件。
+2026-11-11T11:54:57.903Z,D365EnvironmentComparison,2.0.0,Abhishek,"Compares two Dynamics 365 / Dataverse environments (for example DEV and UAT) and lists the configuration differences between them, ranked ERROR, WARN and INFO. Compares solutions, environment variables, connection references, plugin steps, web resources, business rules, workflows, actions, process…"
+2026-11-11T11:58:03.75Z,FCQRS.Workflows,7.0.0,FCQRS.Workflows,Durable workflows for FCQRS: straight-line code whose step results are journaled and replayed on recovery.
+2026-11-11T11:58:33.313Z,Starward.HPatch,0.1.0,HDiffPatch contributors,"Pure managed C# patcher for the HDIFF13, HDIFFSF20 and legacy v1 single-file patch formats of HDiffPatch v5.1.3. Window (HDIFFW26), directory (HDIFF19), BSDIFF and VCDIFF diffs are not supported."
+2026-11-11T12:00:20.45Z,Garden.Analyzers,9.4.1,John Doe,Package Description
+2026-11-11T12:00:24.39Z,Garden.Aspire,9.4.1,John Doe,Package Description
+2026-11-11T12:00:27.783Z,Garden.AspNetCore,9.4.1,John Doe,Package Description
+2026-11-11T12:00:49.43Z,Garden.Share,9.4.1,John Doe,Package Description
+2026-11-11T12:01:35.773Z,ioctalk-codegen-binary-websocketclient,2.6.2,ben,Implement microservices without any technical dependency in your functional service implementations. Use ioctalk dependency injection to communicate seamlessly with remote and local services.
+2026-11-11T12:01:58.34Z,OpenMoca.Mcp.Server,0.6.0,MOCA Standard Contributors,"The MOCA MCP server as a library: serve MOCA knowledge packages over the Model Context Protocol from your own host, with your own package source or embedder."
+2026-11-11T12:04:24.607Z,OpenDCP.Framework.FormBuilder,0.1.0,OpenDCP.Framework.FormBuilder,Package Description
+2026-11-11T12:07:37.38Z,OpenDCP.Framework.Notifications,0.1.0,OpenDCP.Framework.Notifications,Package Description
+2026-11-11T12:09:37.27Z,Stellaria.Controls,1.0.0,Stellaria Team,Stellaria 控件与材质引擎：BackdropMaterial 毛玻璃、WinUI3 兼容标记扩展、控件适配层。
