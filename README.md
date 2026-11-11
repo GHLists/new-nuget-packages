@@ -12,24 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 17:21 UTC
+## Latest list — 2026-11-11 18:21 UTC
 
-New packages created between 2026-11-11 16:19 UTC and 2026-11-11 17:21 UTC.
+New packages created between 2026-11-11 17:21 UTC and 2026-11-11 18:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-11T17-21-23-377763Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-11T18-21-51-876331Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-11 16:25:14 | [Starward.SharpSevenZip](https://www.nuget.org/packages/Starward.SharpSevenZip) | 2.0.130 | Joel Ahlgren, Markovtsev Vadi… | 7-zip native library wrapper. Managed 7-zip library written in C# that provides… |
-| 2026-11-11 16:27:48 | [RecursiveAI.OneScope.Tool](https://www.nuget.org/packages/RecursiveAI.OneScope.Tool) | 1.0.0 | Recursive AI, LLC | onescope: a viewer for the Recursive AI family's deterministic libraries. Scrub… |
-| 2026-11-11 16:30:58 | [Isotopes](https://www.nuget.org/packages/Isotopes) | 10.0.0 | Max Eroshkin | This package contains most common targets for fallout.build. |
-| 2026-11-11 16:47:39 | [Lengko.Chart.Wpf](https://www.nuget.org/packages/Lengko.Chart.Wpf) | 1.0.0 | LengkoDev, Cas | Modern, high-performance charting and data visualization library for WPF with z… |
-| 2026-11-11 16:48:06 | [OpenDCP.Framework.AdminActions](https://www.nuget.org/packages/OpenDCP.Framework.AdminActions) | 0.3.1 | OpenDCP.Framework.AdminActions | Package Description |
-| 2026-11-11 16:49:38 | [OpenDCP.Framework.Cleanup](https://www.nuget.org/packages/OpenDCP.Framework.Cleanup) | 0.1.0 | OpenDCP.Framework.Cleanup | Package Description |
-| 2026-11-11 16:50:01 | [Kebechet.Maui.YouTubeEmbed](https://www.nuget.org/packages/Kebechet.Maui.YouTubeEmbed) | 1.0.0 | Kebechet | Plays YouTube videos inside a .NET MAUI Blazor Hybrid app without YouTube's Err… |
-| 2026-11-11 16:51:41 | [OpenDCP.Framework.ServiceDiscovery](https://www.nuget.org/packages/OpenDCP.Framework.ServiceDiscovery) | 0.1.0 | OpenDCP.Framework.ServiceDisc… | Package Description |
-| 2026-11-11 16:54:05 | [OpenDCP.Framework.Dashboard](https://www.nuget.org/packages/OpenDCP.Framework.Dashboard) | 0.1.0 | OpenDCP.Framework.Dashboard | Package Description |
-| 2026-11-11 16:55:50 | [OpenDCP.Framework.HttpClient](https://www.nuget.org/packages/OpenDCP.Framework.HttpClient) | 0.2.0 | OpenDCP.Framework.HttpClient | Package Description |
+| 2026-11-11 17:38:49 | [NextSyncListener](https://www.nuget.org/packages/NextSyncListener) | 9.7.65 | Julien Clauzel | The PC half of the NextSync ".sync5 -listen" Remote Explorer protocol: a TCP se… |
+| 2026-11-11 17:40:52 | [AlibabaCloud.SDK.EcdBiz20240929](https://www.nuget.org/packages/AlibabaCloud.SDK.EcdBiz20240929) | 1.0.0 | Alibaba Cloud | Alibaba Cloud EcdBiz (20240929) SDK Library for .NET |
+| 2026-11-11 17:42:55 | [Digi21.DigiNG.Dtm](https://www.nuget.org/packages/Digi21.DigiNG.Dtm) | 26.0.0 | José Ángel Martínez Torres | This package contains a reference assembly to open digital terrain models (.mdt… |
+| 2026-11-11 17:48:59 | [Bitwarden.Server.Sdk.Database](https://www.nuget.org/packages/Bitwarden.Server.Sdk.Database) | 0.1.0 | Bitwarden Inc. | Database migration support for Bitwarden server services. Provides the runtime… |
+| 2026-11-11 17:51:11 | [Pmad.KeySharp](https://www.nuget.org/packages/Pmad.KeySharp) | 0.1.0 | goaaats,OppOops,jetelain | Cross-platform OS keyring and credential storage access for .NET (Windows Crede… |
+| 2026-11-11 18:02:18 | [Abaddax.Roslyn.Analyzers.Framework](https://www.nuget.org/packages/Abaddax.Roslyn.Analyzers.Framework) | 0.0.1-preview12 | Abaddax | A collection of C# Roslyn analyzers |
 
 ## Data source
 
