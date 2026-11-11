@@ -12,24 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:21 UTC
+## Latest list — 2026-11-11 09:19 UTC
 
-New packages created between 2026-11-11 07:21 UTC and 2026-11-11 08:21 UTC.
+New packages created between 2026-11-11 08:21 UTC and 2026-11-11 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-11T08-21-56-677956Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-11T09-19-41-730701Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-11 07:28:27 | [EonaCat.Docs](https://www.nuget.org/packages/EonaCat.Docs) | 1.0.0 | EonaCat | Office Open XML documents and native Outlook MSG/MIME mail. |
-| 2026-11-11 07:44:23 | [Thll.Index.Ef](https://www.nuget.org/packages/Thll.Index.Ef) | 3.0.0 | Daniele Fusi | Entity Framework Entities for ThlL index. |
-| 2026-11-11 07:44:32 | [Thll.Index.Api.Controllers](https://www.nuget.org/packages/Thll.Index.Api.Controllers) | 3.0.0 | Daniele Fusi | API controllers for ThlL index browser. |
-| 2026-11-11 07:48:38 | [FunAsrNet](https://www.nuget.org/packages/FunAsrNet) | 1.0.1 | donet-org-cn | Independent managed C# speech inference for fixed Fun-ASR and Chinese VITS mode… |
-| 2026-11-11 07:48:40 | [FunAsrNet.Vulkan](https://www.nuget.org/packages/FunAsrNet.Vulkan) | 1.0.1 | donet-org-cn | Optional Vulkan GPU backend for FunAsrNet: FP32 projections, convolutions and a… |
-| 2026-11-11 07:49:53 | [DataFac.ProjScan](https://www.nuget.org/packages/DataFac.ProjScan) | 2.0.1 | DataFac Contributors | Experimental project scanning tool |
-| 2026-11-11 07:53:22 | [PANiXiDA.Core.Presentation.Scalar](https://www.nuget.org/packages/PANiXiDA.Core.Presentation.Scalar) | 1.0.2 | PANiXiDA | Shared Scalar UI hosting for modular OpenAPI and AsyncAPI documents. |
-| 2026-11-11 07:55:56 | [WASU.Abstraction.RPC](https://www.nuget.org/packages/WASU.Abstraction.RPC) | 26.1111.15 | WASU.Abstraction.RPC | Package Description |
-| 2026-11-11 07:59:17 | [Fiskit](https://www.nuget.org/packages/Fiskit) | 0.1.0 | FisKit | Official .NET client for the FisKit API: Argentine electronic invoices with ARC… |
-| 2026-11-11 08:00:32 | [Eigenverft.NetLib.SqliteHotBackup](https://www.nuget.org/packages/Eigenverft.NetLib.SqliteHotBackup) | 1.0.0.3 | Eigenverft | Scheduler-independent SQLite online backups with EF Core discovery, explicit fi… |
+| 2026-11-11 08:28:25 | [OpenDCP.Framework.Configuration.Model](https://www.nuget.org/packages/OpenDCP.Framework.Configuration.Model) | 0.3.0 | OpenDCP.Framework.Configurati… | Package Description |
+| 2026-11-11 08:32:20 | [VirtoCommerce.MCP.Data.PostgreSql](https://www.nuget.org/packages/VirtoCommerce.MCP.Data.PostgreSql) | 3.1000.0 | VirtoCommerce.MCP.Data.Postgr… | Package Description |
+| 2026-11-11 08:32:20 | [VirtoCommerce.MCP.Core](https://www.nuget.org/packages/VirtoCommerce.MCP.Core) | 3.1000.0 | VirtoCommerce.MCP.Core | Package Description |
+| 2026-11-11 08:32:21 | [VirtoCommerce.MCP.Data.MySql](https://www.nuget.org/packages/VirtoCommerce.MCP.Data.MySql) | 3.1000.0 | VirtoCommerce.MCP.Data.MySql | Package Description |
+| 2026-11-11 08:32:21 | [VirtoCommerce.MCP.Data](https://www.nuget.org/packages/VirtoCommerce.MCP.Data) | 3.1000.0 | VirtoCommerce.MCP.Data | Package Description |
+| 2026-11-11 08:32:22 | [VirtoCommerce.MCP.Data.SqlServer](https://www.nuget.org/packages/VirtoCommerce.MCP.Data.SqlServer) | 3.1000.0 | VirtoCommerce.MCP.Data.SqlSer… | Package Description |
+| 2026-11-11 08:37:57 | [Orient.Mapping](https://www.nuget.org/packages/Orient.Mapping) | 0.1.0 | bburaksseyhan | Compile-time object mapping for .NET. The Roslyn incremental generator is packa… |
+| 2026-11-11 08:37:58 | [Orient.AspNetCore](https://www.nuget.org/packages/Orient.AspNetCore) | 0.1.0 | bburaksseyhan | Maps Orient results to ASP.NET Core minimal API HTTP responses and ProblemDetai… |
+| 2026-11-11 08:37:58 | [Orient.DependencyInjection](https://www.nuget.org/packages/Orient.DependencyInjection) | 0.1.0 | bburaksseyhan | Explicit dependency injection helpers for Orient validators and mapper instance… |
+| 2026-11-11 08:37:59 | [Orient.Validation](https://www.nuget.org/packages/Orient.Validation) | 0.1.0 | bburaksseyhan | Fluent, strongly typed validation for .NET requests and business rules. No Flue… |
+| 2026-11-11 08:38:00 | [Orient.Core](https://www.nuget.org/packages/Orient.Core) | 0.1.0 | bburaksseyhan | Explicit success and failure results for .NET. Expected business failures do no… |
+| 2026-11-11 08:41:33 | [SWWL](https://www.nuget.org/packages/SWWL) | 7.0.0 | MSTendo64 | A renderer-agnostic Win32 windowing library for .NET 10 on Windows. |
+| 2026-11-11 08:45:30 | [GunsNPrices](https://www.nuget.org/packages/GunsNPrices) | 0.1.0 | GunsNPrices | Parse firearm and ammunition product titles into structured data: brand and mod… |
+| 2026-11-11 08:45:32 | [Umbraco.Community.GunsNPrices](https://www.nuget.org/packages/Umbraco.Community.GunsNPrices) | 0.1.0 | GunsNPrices | Read firearm and ammunition product titles in Umbraco: brand, model (e.g. "Gloc… |
+| 2026-11-11 08:52:59 | [Nullean.Make](https://www.nuget.org/packages/Nullean.Make) | 0.22.1 | Nullean.Make | Property-dispatch build target DSL with Argh-quality help and per-target typed… |
 
 ## Data source
 

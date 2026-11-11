@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-11T08:28:25.217Z,OpenDCP.Framework.Configuration.Model,0.3.0,OpenDCP.Framework.Configuration.Model,Package Description
+2026-11-11T08:32:20.267Z,VirtoCommerce.MCP.Data.PostgreSql,3.1000.0,VirtoCommerce.MCP.Data.PostgreSql,Package Description
+2026-11-11T08:32:20.78Z,VirtoCommerce.MCP.Core,3.1000.0,VirtoCommerce.MCP.Core,Package Description
+2026-11-11T08:32:21.27Z,VirtoCommerce.MCP.Data.MySql,3.1000.0,VirtoCommerce.MCP.Data.MySql,Package Description
+2026-11-11T08:32:21.8Z,VirtoCommerce.MCP.Data,3.1000.0,VirtoCommerce.MCP.Data,Package Description
+2026-11-11T08:32:22.307Z,VirtoCommerce.MCP.Data.SqlServer,3.1000.0,VirtoCommerce.MCP.Data.SqlServer,Package Description
+2026-11-11T08:37:57.613Z,Orient.Mapping,0.1.0,bburaksseyhan,Compile-time object mapping for .NET. The Roslyn incremental generator is packaged as an analyzer and is not a runtime dependency.
+2026-11-11T08:37:58.327Z,Orient.AspNetCore,0.1.0,bburaksseyhan,Maps Orient results to ASP.NET Core minimal API HTTP responses and ProblemDetails. Failure responses do not include exception details.
+2026-11-11T08:37:58.95Z,Orient.DependencyInjection,0.1.0,bburaksseyhan,Explicit dependency injection helpers for Orient validators and mapper instances. The default path does not scan assemblies.
+2026-11-11T08:37:59.6Z,Orient.Validation,0.1.0,bburaksseyhan,"Fluent, strongly typed validation for .NET requests and business rules. No FluentValidation dependency."
+2026-11-11T08:38:00.24Z,Orient.Core,0.1.0,bburaksseyhan,Explicit success and failure results for .NET. Expected business failures do not require exceptions.
+2026-11-11T08:41:33.72Z,SWWL,7.0.0,MSTendo64,A renderer-agnostic Win32 windowing library for .NET 10 on Windows.
+2026-11-11T08:45:30.723Z,GunsNPrices,0.1.0,GunsNPrices,"Parse firearm and ammunition product titles into structured data: brand and model (50 brands, e.g. ""Glock 19 Gen 5 MOS""), caliber (293 calibers with retailer spellings), magazine capacity, barrel length, rounds per box and cost per round. The title parser behind GunsNPrices (https://gunsnprices.com…"
+2026-11-11T08:45:32.14Z,Umbraco.Community.GunsNPrices,0.1.0,GunsNPrices,"Read firearm and ammunition product titles in Umbraco: brand, model (e.g. ""Glock 19 Gen 5 MOS""), caliber, magazine capacity, barrel length, rounds per box and cost per round. A property value converter turns the text box properties you choose into parsed results for Razor views, ModelsBuilder and t…"
+2026-11-11T08:52:59.25Z,Nullean.Make,0.22.1,Nullean.Make,Property-dispatch build target DSL with Argh-quality help and per-target typed CLI arguments.
