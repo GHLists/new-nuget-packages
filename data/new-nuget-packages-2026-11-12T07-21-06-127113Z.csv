@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-12T06:27:09.63Z,YS.Knife.Sms.Impl.Default,0.0.142,Pengbo Yang,Package Description
+2026-11-12T06:27:11.093Z,YS.Knife.Sms.Provider.Submail,0.0.142,Pengbo Yang,Package Description
+2026-11-12T06:42:10.32Z,specs.BDD.VSTest,0.9.0-rc,Joe Cleland (yozepi@gmail.com),"VSTest adapter for Specs.BDD: discovers and runs Specifications-based specs in Visual Studio Test Explorer and dotnet test, with source navigation, nested Test Explorer hierarchy, --filter support, and optional grouped execution."
+2026-11-12T06:42:11.053Z,specs.BDD.MTP,0.9.0-rc,Joe Cleland (yozepi@gmail.com),"Microsoft.Testing.Platform runner for Specs.BDD: discovers and runs Specifications-based specs as a fully nested tree (namespace, class, [Feature], contexts, specs) in Visual Studio, VS Code, and dotnet test, with --treenode-filter support and optional grouped execution."
+2026-11-12T06:42:11.723Z,specs.core,0.9.0-rc,Joe Cleland (yozepi@gmail.com),"Framework-agnostic core of the Specs BDD testing framework: hierarchical spec builder, immutable test case model, lifecycle executor, and public adapter interfaces for hosting the BeforeAll/BeforeEach/Act/AfterEach/AfterAll lifecycle in any test runner. Most users should install specs.BDD.VSTest or…"
+2026-11-12T06:42:12.39Z,specs.BDD.Templates,0.9.0-rc,Joe Cleland (yozepi@gmail.com),dotnet new templates for Specs.BDD: scaffolds a ready-to-run spec project for the VSTest adapter (specs-vstest) or the Microsoft.Testing.Platform runner (specs-mtp).
+2026-11-12T07:03:38.43Z,ScopeGate,1.0.0,Yoshihiro Ito,"A high-performance, non-reentrant FIFO asynchronous lock for .NET 10 and .NET 11, with ValueTask acquisition, cancellation support, and safe disposable leases."

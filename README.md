@@ -12,21 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 06:21 UTC
+## Latest list — 2026-11-12 07:21 UTC
 
-New packages created between 2026-11-12 05:20 UTC and 2026-11-12 06:21 UTC.
+New packages created between 2026-11-12 06:21 UTC and 2026-11-12 07:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T06-21-04-015315Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T07-21-06-127113Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 05:28:22 | [Maxine.LibOpenMPT.NET](https://www.nuget.org/packages/Maxine.LibOpenMPT.NET) | 0.8.10 | Xpl0itR | A mostly source-generated, blittable bindings library wrapping libopenmpt using… |
-| 2026-11-12 05:45:33 | [M.Simple.Logging](https://www.nuget.org/packages/M.Simple.Logging) | 1.0.1.2 | Mr.MingOuyang | Lightweight SQLite logging and embedded dashboard for ASP.NET Core. |
-| 2026-11-12 05:47:18 | [CliqtoMedia.Apify](https://www.nuget.org/packages/CliqtoMedia.Apify) | 1.0.0 | Cliqto Media | Run any Apify Actor from C# and get its dataset items in one call. Ready Actor… |
-| 2026-11-12 05:47:45 | [Exchange56.ApiProxy](https://www.nuget.org/packages/Exchange56.ApiProxy) | 1.0.0 | T.J. McNaboe | Proxy client requests to Exchange56 Apis. |
-| 2026-11-12 05:52:45 | [CentralLogging.Client](https://www.nuget.org/packages/CentralLogging.Client) | 1.0.1 | Sumit Sahani | Client SDK for the Centralized Logging System: buffered, batched, gzip-compress… |
-| 2026-11-12 05:52:51 | [ETG.IAM.Auth](https://www.nuget.org/packages/ETG.IAM.Auth) | 1.1.0 | ETG | Drop-in IAM authentication for ASP.NET Core APIs (.NET 8+). Validates accessTok… |
-| 2026-11-12 05:54:51 | [Cron.DevToys](https://www.nuget.org/packages/Cron.DevToys) | 1.0.0 | Cron | Cron expression generator with Chinese description and next-run preview. |
+| 2026-11-12 06:27:09 | [YS.Knife.Sms.Impl.Default](https://www.nuget.org/packages/YS.Knife.Sms.Impl.Default) | 0.0.142 | Pengbo Yang | Package Description |
+| 2026-11-12 06:27:11 | [YS.Knife.Sms.Provider.Submail](https://www.nuget.org/packages/YS.Knife.Sms.Provider.Submail) | 0.0.142 | Pengbo Yang | Package Description |
+| 2026-11-12 06:42:10 | [specs.BDD.VSTest](https://www.nuget.org/packages/specs.BDD.VSTest) | 0.9.0-rc | Joe Cleland (yozepi@gmail.com) | VSTest adapter for Specs.BDD: discovers and runs Specifications-based specs in… |
+| 2026-11-12 06:42:11 | [specs.BDD.MTP](https://www.nuget.org/packages/specs.BDD.MTP) | 0.9.0-rc | Joe Cleland (yozepi@gmail.com) | Microsoft.Testing.Platform runner for Specs.BDD: discovers and runs Specificati… |
+| 2026-11-12 06:42:11 | [specs.core](https://www.nuget.org/packages/specs.core) | 0.9.0-rc | Joe Cleland (yozepi@gmail.com) | Framework-agnostic core of the Specs BDD testing framework: hierarchical spec b… |
+| 2026-11-12 06:42:12 | [specs.BDD.Templates](https://www.nuget.org/packages/specs.BDD.Templates) | 0.9.0-rc | Joe Cleland (yozepi@gmail.com) | dotnet new templates for Specs.BDD: scaffolds a ready-to-run spec project for t… |
+| 2026-11-12 07:03:38 | [ScopeGate](https://www.nuget.org/packages/ScopeGate) | 1.0.0 | Yoshihiro Ito | A high-performance, non-reentrant FIFO asynchronous lock for .NET 10 and .NET 1… |
 
 ## Data source
 
