@@ -12,47 +12,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 21:20 UTC
+## Latest list — 2026-11-12 22:19 UTC
 
-New packages created between 2026-11-12 20:20 UTC and 2026-11-12 21:20 UTC.
+New packages created between 2026-11-12 21:20 UTC and 2026-11-12 22:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T21-20-24-702604Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T22-19-27-670711Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 20:38:49 | [CertificateStoreCredential](https://www.nuget.org/packages/CertificateStoreCredential) | 1.0.0 | Gijs Walraven | A TokenCredential for an Entra ID service principal that authenticates with a c… |
-| 2026-11-12 20:41:13 | [QueryBuilder.Launch](https://www.nuget.org/packages/QueryBuilder.Launch) | 1.0.0 | Nagendra Chinnam | Signs the launch token and renders the auto-submitting form that sends a user f… |
-| 2026-11-12 20:44:04 | [Webority.Webhooks.Admin](https://www.nuget.org/packages/Webority.Webhooks.Admin) | 0.18.0 | Webority Technologies | Staff admin pages for Webority.Webhooks: the delivery log of outbound webhooks… |
-| 2026-11-12 20:56:10 | [G4.Plugins.MongoDb](https://www.nuget.org/packages/G4.Plugins.MongoDb) | 2026.11.12.166 | G4™ API Community | The G4.Plugins.MongoDb package provides a collection of plugins for querying, a… |
-| 2026-11-12 20:57:11 | [G9AIAssistant.Abstractions](https://www.nuget.org/packages/G9AIAssistant.Abstractions) | 1.0.0 | Iman Kari | Contracts of the G9 AI assistant library: ports, records, the model protocol, r… |
-| 2026-11-12 20:57:23 | [G9AIAssistant.Adapters.ExtensionsAI](https://www.nuget.org/packages/G9AIAssistant.Adapters.ExtensionsAI) | 1.0.0 | Iman Kari | Microsoft.Extensions.AI adapter for the G9 AI assistant: any IChatClient as the… |
-| 2026-11-12 20:57:33 | [G9AIAssistant.AspNetCore](https://www.nuget.org/packages/G9AIAssistant.AspNetCore) | 1.0.0 | Iman Kari | ASP.NET Core hosting for the G9 AI assistant: endpoints, the run worker, the lo… |
-| 2026-11-12 20:57:51 | [G9AIAssistant.Core](https://www.nuget.org/packages/G9AIAssistant.Core) | 1.0.0 | Iman Kari | The G9 AI assistant engine: the model-free ladder, runs, tools and skills, acce… |
-| 2026-11-12 20:58:02 | [G9AIAssistant.Documents](https://www.nuget.org/packages/G9AIAssistant.Documents) | 1.0.0 | Iman Kari | Files and documents for the G9 AI assistant: PDF and spreadsheet intake, conver… |
-| 2026-11-12 20:58:16 | [G9AIAssistant.Gate](https://www.nuget.org/packages/G9AIAssistant.Gate) | 1.0.0 | Iman Kari | External gate for the G9 AI assistant: an MCP server (Streamable HTTP, several… |
-| 2026-11-12 20:58:18 | [IntelligenceX.Ledger.Contracts](https://www.nuget.org/packages/IntelligenceX.Ledger.Contracts) | 0.1.0 | Przemyslaw Klys | Typed Ledger contracts and authenticated HTTP clients for shared work state and… |
-| 2026-11-12 20:58:53 | [G9AIAssistant.Gateway](https://www.nuget.org/packages/G9AIAssistant.Gateway) | 1.0.0 | Iman Kari | OpenAI-compatible AI gateway for the G9 AI assistant: virtual keys, backends, a… |
-| 2026-11-12 20:59:26 | [G9AIAssistant.McpClient](https://www.nuget.org/packages/G9AIAssistant.McpClient) | 1.0.0 | Iman Kari | MCP client for the G9 AI assistant: connect to other MCP servers and bring thei… |
-| 2026-11-12 21:00:04 | [FlyleafLib.Plugins.YTDLP](https://www.nuget.org/packages/FlyleafLib.Plugins.YTDLP) | 2.0.1 | SuRGeoNix | yt-dlp media playback plugin for FlyleafLib, with optional Chrome/Brave browser… |
-| 2026-11-12 21:00:50 | [fretje.NET.Sdk](https://www.nuget.org/packages/fretje.NET.Sdk) | 1.0.0 | Meziantou,fretje | fretje SDK for .NET projects |
-| 2026-11-12 21:00:51 | [fretje.NET.Sdk.BlazorWebAssembly](https://www.nuget.org/packages/fretje.NET.Sdk.BlazorWebAssembly) | 1.0.0 | Meziantou,fretje | fretje SDK for .NET projects |
-| 2026-11-12 21:00:52 | [fretje.NET.Sdk.Razor](https://www.nuget.org/packages/fretje.NET.Sdk.Razor) | 1.0.0 | Meziantou,fretje | fretje SDK for .NET projects |
-| 2026-11-12 21:00:54 | [fretje.NET.Sdk.Test](https://www.nuget.org/packages/fretje.NET.Sdk.Test) | 1.0.0 | Meziantou,fretje | fretje SDK for .NET projects |
-| 2026-11-12 21:00:55 | [fretje.NET.Sdk.Web](https://www.nuget.org/packages/fretje.NET.Sdk.Web) | 1.0.0 | Meziantou,fretje | fretje SDK for .NET projects |
-| 2026-11-12 21:00:56 | [fretje.NET.Sdk.WindowsDesktop](https://www.nuget.org/packages/fretje.NET.Sdk.WindowsDesktop) | 1.0.0 | Meziantou,fretje | fretje SDK for .NET projects |
-| 2026-11-12 21:01:23 | [G9AIAssistant.Store.PostgreSql](https://www.nuget.org/packages/G9AIAssistant.Store.PostgreSql) | 1.0.0 | Iman Kari | PostgreSQL store for the G9 AI assistant (plain ADO, row-level security, versio… |
-| 2026-11-12 21:01:37 | [G9AIAssistant.Store.Sqlite](https://www.nuget.org/packages/G9AIAssistant.Store.Sqlite) | 1.0.0 | Iman Kari | SQLite store for the G9 AI assistant (plain ADO, versioned migrations). |
-| 2026-11-12 21:01:53 | [G9AIAssistant.Testing](https://www.nuget.org/packages/G9AIAssistant.Testing) | 1.0.0 | Iman Kari | Test kit for hosts of the G9 AI assistant: a scripted model, recorded cassettes… |
-| 2026-11-12 21:02:52 | [G9AIAssistant.SourceGenerators](https://www.nuget.org/packages/G9AIAssistant.SourceGenerators) | 1.0.0 | Iman Kari | Source generator for G9 AI assistant tools: typed tool descriptors, JSON Schema… |
-| 2026-11-12 21:03:03 | [PLUSManaged](https://www.nuget.org/packages/PLUSManaged) | 5.25.4.1 | SoftwareKey | The .NET API for the Protection PLUS 5 SDK: software licensing, online and offl… |
-| 2026-11-12 21:03:34 | [LsMsgPack.Data](https://www.nuget.org/packages/LsMsgPack.Data) | 2026.11.12.1 | Louis Somers | Rows of an ADO.NET data reader as MsgPack without a class in between (result se… |
-| 2026-11-12 21:03:41 | [LsMsgPackDebug](https://www.nuget.org/packages/LsMsgPackDebug) | 2026.11.12.1 | Louis Somers | MessagePack (MsgPack) serializer for .NET classes that also gives you the tree… |
-| 2026-11-12 21:08:30 | [twinsphere.Dcc](https://www.nuget.org/packages/twinsphere.Dcc) | 0.1.0 | conplement AG | Experimental utilities for converting Digital Calibration Certificates (DCC) to… |
-| 2026-11-12 21:12:59 | [RecursiveAI.OneGpu.Metal](https://www.nuget.org/packages/RecursiveAI.OneGpu.Metal) | 1.0.0 | Recursive AI, LLC | Metal backend for onegpu on macOS (Apple silicon), with no native binaries. |
-| 2026-11-12 21:12:59 | [RecursiveAI.OneGpu.WebGpu](https://www.nuget.org/packages/RecursiveAI.OneGpu.WebGpu) | 1.0.0 | Recursive AI, LLC | WebGPU backend for onegpu in the browser (.NET WebAssembly). |
-| 2026-11-12 21:12:59 | [RecursiveAI.OneGpu.Backends](https://www.nuget.org/packages/RecursiveAI.OneGpu.Backends) | 1.0.0 | Recursive AI, LLC | Picks the onegpu backend for the platform: Metal on Apple, WebGPU in a browser,… |
-| 2026-11-12 21:13:00 | [RecursiveAI.OneGpu.Vulkan](https://www.nuget.org/packages/RecursiveAI.OneGpu.Vulkan) | 1.0.0 | Recursive AI, LLC | Vulkan 1.3 backend for onegpu on Windows and Linux, with no native binaries. |
-| 2026-11-12 21:13:00 | [RecursiveAI.OneGpu.Kernels](https://www.nuget.org/packages/RecursiveAI.OneGpu.Kernels) | 1.0.0 | Recursive AI, LLC | HLSL compute kernels for machine-learning inference on Vulkan, Metal and WebGPU… |
+| 2026-11-12 21:27:36 | [Cratis.Showrunner.GuestList](https://www.nuget.org/packages/Cratis.Showrunner.GuestList) | 2.5.0 | Cratis | GuestList — the Showrunner audiences part for products: receive the operator's… |
+| 2026-11-12 21:35:49 | [Cratis.Showrunner.GuestList.Authoring](https://www.nuget.org/packages/Cratis.Showrunner.GuestList.Authoring) | 2.5.0 | Cratis | GuestList authoring — the commands, queries and outbox for granting and withdra… |
+| 2026-11-12 21:46:43 | [Ekom.Klaviyo.U19](https://www.nuget.org/packages/Ekom.Klaviyo.U19) | 0.2.106 | Vettvangur | Ekom Klaviyo integration plugin for Umbraco 19. |
+| 2026-11-12 21:46:56 | [Ekom.Algolia.U19](https://www.nuget.org/packages/Ekom.Algolia.U19) | 0.2.74 | Vettvangur | Ekom Algolia integration plugin for Umbraco 19. |
+| 2026-11-12 21:47:43 | [Ekom.Klaviyo.U18](https://www.nuget.org/packages/Ekom.Klaviyo.U18) | 0.2.106 | Vettvangur | Ekom Klaviyo integration plugin for Umbraco 18. |
+| 2026-11-12 21:49:17 | [SagaR.TransactR.Concordia](https://www.nuget.org/packages/SagaR.TransactR.Concordia) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
+| 2026-11-12 21:49:17 | [SagaR.Concordia](https://www.nuget.org/packages/SagaR.Concordia) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
+| 2026-11-12 21:49:18 | [SagaR.TransactR.MediatR](https://www.nuget.org/packages/SagaR.TransactR.MediatR) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
+| 2026-11-12 21:49:18 | [SagaR.TransactR](https://www.nuget.org/packages/SagaR.TransactR) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
+| 2026-11-12 21:49:19 | [SagaR.MediatR](https://www.nuget.org/packages/SagaR.MediatR) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
+| 2026-11-12 21:49:20 | [Sagar.TransactR.Console.Test](https://www.nuget.org/packages/Sagar.TransactR.Console.Test) | 1.0.0 | Sagar.TransactR.Console.Test | Package Description |
+| 2026-11-12 21:50:08 | [MrKWatkins.CSharpConventions](https://www.nuget.org/packages/MrKWatkins.CSharpConventions) | 1.0.0 | Kevin Watkins | Shared C# compiler, testing and packaging conventions. |
+| 2026-11-12 21:53:08 | [Ekom.Algolia.U18](https://www.nuget.org/packages/Ekom.Algolia.U18) | 0.2.74 | Vettvangur | Ekom Algolia integration plugin for Umbraco 18. |
+| 2026-11-12 21:58:04 | [Musoq.DataSources.CANBus](https://www.nuget.org/packages/Musoq.DataSources.CANBus) | 4.0.10 | Jakub Puchała | Lets you query CAN bus data and DBC files with SQL-style queries, turning frame… |
+| 2026-11-12 21:58:40 | [Musoq.DataSources.GitHub](https://www.nuget.org/packages/Musoq.DataSources.GitHub) | 2.0.10 | Jakub Puchała | Lets you query GitHub repositories, issues, pull requests, commits and other re… |
+| 2026-11-12 21:58:50 | [Musoq.DataSources.Jira](https://www.nuget.org/packages/Musoq.DataSources.Jira) | 2.0.10 | Jakub Puchała | Lets you query Jira issues, projects, sprints and other resources with SQL-styl… |
+| 2026-11-12 21:59:12 | [Musoq.DataSources.Ollama](https://www.nuget.org/packages/Musoq.DataSources.Ollama) | 5.0.10 | Jakub Puchała | Lets you call Ollama models using SQL-style queries, making local LLM responses… |
+| 2026-11-12 22:00:04 | [Musoq.DataSources.Search](https://www.nuget.org/packages/Musoq.DataSources.Search) | 1.0.7 | Jakub Puchaa | Provides deterministic literal and raw-byte search with bounded windows plus el… |
+| 2026-11-12 22:03:38 | [SimulaSharp.Kernel](https://www.nuget.org/packages/SimulaSharp.Kernel) | 0.5.3 | Andreas Michelis | The hard-real-time simulation runtime for SimulaSharp: clock, SimSites, event q… |
+| 2026-11-12 22:03:39 | [SimulaSharp.Hosting](https://www.nuget.org/packages/SimulaSharp.Hosting) | 0.5.3 | Andreas Michelis | The loader for packed SimulaSharp simulations: a collectible-ALC plugin host (S… |
+| 2026-11-12 22:03:40 | [SimulaSharp](https://www.nuget.org/packages/SimulaSharp) | 0.5.3 | Andreas Michelis | SimulaSharp — the meta-package for authoring hard-real-time simulations. Pulls… |
+| 2026-11-12 22:03:40 | [SimulaSharp.CodeGen](https://www.nuget.org/packages/SimulaSharp.CodeGen) | 0.5.3 | Andreas Michelis | The Roslyn analyzer/source-generator for SimulaSharp: turns annotated models +… |
+| 2026-11-12 22:10:13 | [Cratis.Showrunner.GuestList.Availability](https://www.nuget.org/packages/Cratis.Showrunner.GuestList.Availability) | 2.5.0 | Cratis | GuestList availability — feeds the Cratis Choreography availability engine from… |
+| 2026-11-12 22:12:20 | [PidFile.NET](https://www.nuget.org/packages/PidFile.NET) | 1.0.0 | Muhammed Nilifirka | Create and manage your PID files. |
 
 ## Data source
 
