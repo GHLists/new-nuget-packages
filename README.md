@@ -12,41 +12,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 15:19 UTC
+## Latest list — 2026-11-12 16:19 UTC
 
-New packages created between 2026-11-12 14:20 UTC and 2026-11-12 15:19 UTC.
+New packages created between 2026-11-12 15:19 UTC and 2026-11-12 16:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T15-19-29-555109Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T16-19-59-238601Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 14:20:57 | [Umbraco.Community.RazorSearch.Examine](https://www.nuget.org/packages/Umbraco.Community.RazorSearch.Examine) | 19.0.0-beta01 | Soren Kottal | Examine provider companion package for Umbraco.Community.RazorSearch. |
-| 2026-11-12 14:23:20 | [Com.Nkkinsoft.Android.Lottie](https://www.nuget.org/packages/Com.Nkkinsoft.Android.Lottie) | 6.7.2 | Martijn van Dijk, nkkinsoft | Lottie Android binding for .NET (nkkinsoft fork) — Render After Effects animati… |
-| 2026-11-12 14:24:56 | [Ekom.Mailchimp.U19](https://www.nuget.org/packages/Ekom.Mailchimp.U19) | 1.6.0 | Vettvangur | Mailchimp integration for Ekom on Umbraco 19. |
-| 2026-11-12 14:32:51 | [Orkeon](https://www.nuget.org/packages/Orkeon) | 1.0.0 | Orkeon Contributors | AI agent teams that stay inside the lines, in .NET: every file, endpoint and bu… |
-| 2026-11-12 14:32:52 | [Orkeon.Tools](https://www.nuget.org/packages/Orkeon.Tools) | 1.0.0 | Orkeon Contributors | The built-in tool families for Orkeon agents in one package: file system, web a… |
-| 2026-11-12 14:32:52 | [Orkeon.Rag.Onnx](https://www.nuget.org/packages/Orkeon.Rag.Onnx) | 1.0.0 | Orkeon Contributors | Opt-in ONNX cross-encoder reranker for the Orkeon RAG pipeline (ms-marco-MiniLM… |
-| 2026-11-12 14:32:54 | [Orkeon.Rag.Onnx.Model](https://www.nuget.org/packages/Orkeon.Rag.Onnx.Model) | 1.0.0 | Orkeon Contributors | Embedded ms-marco-MiniLM-L-6-v2 cross-encoder weights (int8 ONNX, Apache-2.0) f… |
-| 2026-11-12 14:32:54 | [Orkeon.Tools.Embeddings.Local](https://www.nuget.org/packages/Orkeon.Tools.Embeddings.Local) | 1.0.0 | Orkeon Contributors | Opt-in local on-device embeddings for Orkeon (SmartComponents BGE-micro-v2 ONNX… |
-| 2026-11-12 14:32:55 | [Orkeon.Constants.Cli](https://www.nuget.org/packages/Orkeon.Constants.Cli) | 1.0.0 | Orkeon Contributors | Shared CLI vocabulary for Orkeon: the option names the runners accept and the t… |
-| 2026-11-12 14:32:56 | [Orkeon.Scripting](https://www.nuget.org/packages/Orkeon.Scripting) | 1.0.0 | Orkeon Contributors | Run Orkeon crews written in the TypeScript DSL (crew.ork.ts) inside a .NET appl… |
-| 2026-11-12 14:33:04 | [Orkeon.Scripting.Cli](https://www.nuget.org/packages/Orkeon.Scripting.Cli) | 1.0.0 | Orkeon Contributors | Command-line entrypoint for Orkeon crews: `orkeon run <crew.ork.ts \| crew.yaml>… |
-| 2026-11-12 14:33:05 | [Orkeon.Compliance.Vfs](https://www.nuget.org/packages/Orkeon.Compliance.Vfs) | 1.0.0 | Orkeon Contributors | Roslyn analyzer that forbids direct System.IO usage in Orkeon framework code. R… |
-| 2026-11-12 14:33:05 | [Orkeon.Interop.AgentFramework](https://www.nuget.org/packages/Orkeon.Interop.AgentFramework) | 1.0.0 | Orkeon Contributors | Microsoft Agent Framework interop for Orkeon: run an Orkeon crew as an AIAgent,… |
-| 2026-11-12 14:33:06 | [Orkeon.Hosting.Aspire](https://www.nuget.org/packages/Orkeon.Hosting.Aspire) | 1.0.0 | Orkeon Contributors | .NET Aspire hosting integration for Orkeon: add the orkeon-host service daemon… |
-| 2026-11-12 14:33:07 | [Orkeon.Cli.Abstractions](https://www.nuget.org/packages/Orkeon.Cli.Abstractions) | 1.0.0 | Orkeon Contributors | Pure contracts for Orkeon interactive runners and command registries. |
-| 2026-11-12 14:33:08 | [Orkeon.Cli.TerminalGui](https://www.nuget.org/packages/Orkeon.Cli.TerminalGui) | 1.0.0 | Orkeon Contributors | Terminal.Gui v2 split-pane console (REPL + dedicated logs pane) for Orkeon inte… |
-| 2026-11-12 14:33:08 | [Orkeon.Templates](https://www.nuget.org/packages/Orkeon.Templates) | 1.0.0 | Orkeon Contributors | dotnet new templates for Orkeon: orkeon-host (a generic host that runs a crew),… |
-| 2026-11-12 14:47:44 | [LibSmb](https://www.nuget.org/packages/LibSmb) | 0.1.0 | fiddyschmitt | An SMB 2/3 file server in pure C# (dialects 2.0.2 to 3.0.2, NTLMv2 or guest, si… |
-| 2026-11-12 14:50:04 | [GHIElectronics.Endpoint.Drivers.HiLetgo.ILI9341](https://www.nuget.org/packages/GHIElectronics.Endpoint.Drivers.HiLetgo.ILI9341) | 0.5.3-preview | GHI Electronics, LLC | The HiLetgo ILI9341 SPI display driver for Endpoint. |
-| 2026-11-12 14:50:05 | [GHIElectronics.Endpoint.Drivers.SinoWealth.SH110x](https://www.nuget.org/packages/GHIElectronics.Endpoint.Drivers.SinoWealth.SH110x) | 0.5.3-preview | GHI Electronics, LLC | The SinoWealth SH1106 / SH1107 I2C OLED display driver for Endpoint. |
-| 2026-11-12 14:50:06 | [GHIElectronics.Endpoint.Drivers.SolomonSystech.SSD1306](https://www.nuget.org/packages/GHIElectronics.Endpoint.Drivers.SolomonSystech.SSD1306) | 0.5.3-preview | GHI Electronics, LLC | The Solomon Systech SSD1306 I2C OLED display driver for Endpoint. |
-| 2026-11-12 14:50:30 | [VL.Project](https://www.nuget.org/packages/VL.Project) | 0.3.0-alpha | BILDWERK | A collection of VL nodes and helpers for vvvv gamma by BILDWERK. Alpha pre-rele… |
-| 2026-11-12 14:54:27 | [Tubatools.AtkHub](https://www.nuget.org/packages/Tubatools.AtkHub) | 0.5.0 | Thomas | ATK / VXE 外设配置中心：灯效、改键、DPI、性能、配置档案，深度集成图吧工具箱。 |
-| 2026-11-12 15:03:50 | [Packvium](https://www.nuget.org/packages/Packvium) | 1.0.0 | Anton Kara | Deterministic 3D cartonization and rectangular bin packing with exact integer g… |
-| 2026-11-12 15:11:44 | [Senparc.Xncf.Connectors](https://www.nuget.org/packages/Senparc.Xncf.Connectors) | 0.1.0 | Senparc | NCF 连接器：保存外部工具账号，并提供给 Chat、Workflow 与 Agent 模板。 |
-| 2026-11-12 15:11:47 | [Senparc.Xncf.Connectors.Abstractions](https://www.nuget.org/packages/Senparc.Xncf.Connectors.Abstractions) | 0.1.0 | Senparc | NCF 连接器契约：外部工具的描述、配置字段、动作和 Agent 授权。 |
-| 2026-11-12 15:12:19 | [JJConsulting.Fluxer.Client](https://www.nuget.org/packages/JJConsulting.Fluxer.Client) | 0.1.0 | JJConsulting | Typed .NET client for Fluxer identity and Admin REST APIs. |
+| 2026-11-12 15:21:25 | [Ranvier.AutoComplete](https://www.nuget.org/packages/Ranvier.AutoComplete) | 0.1.0 | shayanhabibi | Demand-driven declaration-incremental F# language server CLI tool (`ranvierauto… |
+| 2026-11-12 15:24:56 | [Javier.StudentGrades.StreamArchiver](https://www.nuget.org/packages/Javier.StudentGrades.StreamArchiver) | 1.0.0 | Javier.StudentGrades.StreamAr… | Package Description |
+| 2026-11-12 15:30:30 | [DbAiTest.Core](https://www.nuget.org/packages/DbAiTest.Core) | 0.4.0 | dbaitest | Engine-agnostic core for database integration test harnesses: container lifecyc… |
+| 2026-11-12 15:30:31 | [DbAiTest.MSTest](https://www.nuget.org/packages/DbAiTest.MSTest) | 0.4.0 | dbaitest | MSTest integration for DbAiTest: a base class that shares one container per eng… |
+| 2026-11-12 15:30:32 | [DbAiTest.PostgreSql](https://www.nuget.org/packages/DbAiTest.PostgreSql) | 0.4.0 | dbaitest | PostgreSQL engine for DbAiTest: container lifecycle, dollar-quote-safe schema a… |
+| 2026-11-12 15:30:33 | [DbAiTest.Cli](https://www.nuget.org/packages/DbAiTest.Cli) | 0.4.0 | dbaitest | Command line front end for DbAiTest: start a container, apply a schema, report… |
+| 2026-11-12 15:30:34 | [DbAiTest.MsSql](https://www.nuget.org/packages/DbAiTest.MsSql) | 0.4.0 | dbaitest | SQL Server engine for DbAiTest: container lifecycle, GO-batch schema applicatio… |
+| 2026-11-12 15:30:35 | [DbAiTest.MySql](https://www.nuget.org/packages/DbAiTest.MySql) | 0.4.0 | dbaitest | MySQL engine for DbAiTest: container lifecycle, DELIMITER-aware schema applicat… |
+| 2026-11-12 15:30:36 | [DbAiTest.MsSql.Dacpac](https://www.nuget.org/packages/DbAiTest.MsSql.Dacpac) | 0.4.0 | dbaitest | Deploys a SQL Server .dacpac (an SSDT / Microsoft.Build.Sql database project) i… |
+| 2026-11-12 15:31:43 | [BozForge.DiAudit](https://www.nuget.org/packages/BozForge.DiAudit) | 0.1.0 | Hüseyin Bozdemir | Find unused and shadowed dependency injection registrations in a unit test. Wal… |
+| 2026-11-12 15:31:43 | [BozForge.DiAudit.AspNetCore](https://www.nuget.org/packages/BozForge.DiAudit.AspNetCore) | 0.1.0 | Hüseyin Bozdemir | ASP.NET Core integration for BozForge.DiAudit. Takes the real service collectio… |
+| 2026-11-12 15:33:43 | [Nova.Avalonia.Foldable](https://www.nuget.org/packages/Nova.Avalonia.Foldable) | 1.0.0 | Javier Suárez Ruiz | Foldable support for Avalonia on iOS (iPhone Duo) and Android: posture, hinge a… |
+| 2026-11-12 15:33:44 | [Nova.Avalonia.Foldable.Simulator](https://www.nuget.org/packages/Nova.Avalonia.Foldable.Simulator) | 1.0.0 | Javier Suárez Ruiz | A desktop window that simulates the iPhone Duo for Nova.Avalonia.Foldable apps:… |
+| 2026-11-12 15:33:48 | [twinsphere.Dcc.Schema](https://www.nuget.org/packages/twinsphere.Dcc.Schema) | 0.1.0 | conplement AG | DCC 3.3.0 schemas, generated XML types and schema validation. |
+| 2026-11-12 15:46:38 | [Cratis.Showrunner.Payments.Mollie](https://www.nuget.org/packages/Cratis.Showrunner.Payments.Mollie) | 2.1.0 | Cratis | Mollie for Showrunner Payments: the payment provider contract implemented again… |
+| 2026-11-12 15:46:38 | [Cratis.Showrunner.Payments](https://www.nuget.org/packages/Cratis.Showrunner.Payments) | 2.1.0 | Cratis | Payments — the Showrunner payment part for applications: a provider-neutral con… |
+| 2026-11-12 15:48:19 | [Helix.Blazor](https://www.nuget.org/packages/Helix.Blazor) | 0.1.1 | arflisch | Clean, modern Blazor components where every visual part is a parameter: buttons… |
+| 2026-11-12 15:48:20 | [Helix.Wpf](https://www.nuget.org/packages/Helix.Wpf) | 0.1.1 | arflisch | Clean, modern WPF controls where every visual part is a property: buttons, fiel… |
+| 2026-11-12 15:50:36 | [Houtamelo.Spire.Functional](https://www.nuget.org/packages/Houtamelo.Spire.Functional) | 6.0.0 | houtamelo | Functional programming utilities built on Houtamelo.Spire. |
+| 2026-11-12 15:51:02 | [WhatfixMAUI.Android.Logging](https://www.nuget.org/packages/WhatfixMAUI.Android.Logging) | 2.3.0 | Whatfix | Whatfix MAUI Android logging library |
+| 2026-11-12 15:51:03 | [WhatfixMAUI.Android.Observer](https://www.nuget.org/packages/WhatfixMAUI.Android.Observer) | 2.3.0 | Whatfix | Whatfix MAUI Android observer library |
+| 2026-11-12 15:51:04 | [WhatfixMAUI.Android.FetchHierarchy](https://www.nuget.org/packages/WhatfixMAUI.Android.FetchHierarchy) | 2.3.0 | Whatfix | Whatfix MAUI Android fetch-hierarchy library |
+| 2026-11-12 15:51:05 | [WhatfixMAUI.Android.Core](https://www.nuget.org/packages/WhatfixMAUI.Android.Core) | 2.3.0 | Whatfix | Whatfix MAUI Android core library |
+| 2026-11-12 15:52:59 | [Sondor.Results](https://www.nuget.org/packages/Sondor.Results) | 0.1.0 | Sondor Dev | Failures as values: Result, Result<T> and Error, with stable Area.Reason codes… |
+| 2026-11-12 15:57:01 | [PdfNetStack.Hyphenation](https://www.nuget.org/packages/PdfNetStack.Hyphenation) | 1.2.0 | Jamal Abdelkhalek, JADEV | Hyphenation patterns for PdfNetStack paragraphs and PdfNetStack.Html's hyphens:… |
+| 2026-11-12 15:57:02 | [PdfNetStack.Ocr.Tesseract](https://www.nuget.org/packages/PdfNetStack.Ocr.Tesseract) | 1.2.0 | Jamal Abdelkhalek, JADEV | An IOcrEngine for PdfNetStack.Ocr that runs an installed tesseract executable,… |
+| 2026-11-12 16:01:52 | [AquaCulture.Hatchery](https://www.nuget.org/packages/AquaCulture.Hatchery) | 2.0.0 | Gravicode Studios (Kang Fadhi… | Shrimp hatchery management for AquaCulture.Net: broodstock registry with SPF/PC… |
+| 2026-11-12 16:01:55 | [AquaCulture.Traceability](https://www.nuget.org/packages/AquaCulture.Traceability) | 2.0.0 | Gravicode Studios (Kang Fadhi… | Traceability for AquaCulture.Net: GS1 identifiers (GTIN, GLN, SSCC, Digital Lin… |
+| 2026-11-12 16:02:06 | [AquaCulture.Esg](https://www.nuget.org/packages/AquaCulture.Esg) | 2.0.0 | Gravicode Studios (Kang Fadhi… | ESG accounting for AquaCulture.Net: greenhouse gases (feed, electricity, diesel… |
+| 2026-11-12 16:02:07 | [AquaCulture.Operations](https://www.nuget.org/packages/AquaCulture.Operations) | 2.0.0 | Gravicode Studios (Kang Fadhi… | Farm ERP for AquaCulture.Net: lot-tracked inventory (FEFO, expiry, valuation, r… |
+| 2026-11-12 16:10:12 | [KaizenTicketing.SkillEmbed](https://www.nuget.org/packages/KaizenTicketing.SkillEmbed) | 0.1.0 | Kaizen Ticketing Solutions LTD | Ship an agent skill inside a .NET command line: detect the AI coding agents on… |
+| 2026-11-12 16:11:36 | [Skyline.DataMiner.ConnectorAPI.NevionVideoiPath](https://www.nuget.org/packages/Skyline.DataMiner.ConnectorAPI.NevionVideoiPath) | 1.0.0.5-beta | SkylineCommunications | InterApp messages and a client/server pair to communicate with the Nevion Video… |
+| 2026-11-12 16:12:07 | [Sendio](https://www.nuget.org/packages/Sendio) | 1.0.0 | send.io | Official .NET SDK for the send.io email API: send, batch, retrieve and schedule… |
+| 2026-11-12 16:12:15 | [Sendio.Webhooks](https://www.nuget.org/packages/Sendio.Webhooks) | 1.0.0 | send.io | ASP.NET utilities for send.io webhook events |
 
 ## Data source
 
