@@ -12,29 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 09:19 UTC
+## Latest list — 2026-11-12 10:20 UTC
 
-New packages created between 2026-11-12 08:20 UTC and 2026-11-12 09:19 UTC.
+New packages created between 2026-11-12 09:19 UTC and 2026-11-12 10:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T09-19-08-295194Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T10-20-12-987255Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 08:24:55 | [Cratis.Templates.Extensions](https://www.nuget.org/packages/Cratis.Templates.Extensions) | 1.9.0 | Cratis | Templates for Cratis extension packages: a full extension (an OCI package with… |
-| 2026-11-12 08:29:58 | [Box2D.NET.Fork](https://www.nuget.org/packages/Box2D.NET.Fork) | 0.1.0 | ice1000 | Box2D.NET - Box2D.NET - a port of Box2D, is a 2D physics engine for games, .NET… |
-| 2026-11-12 08:33:04 | [Fickl.Sdk](https://www.nuget.org/packages/Fickl.Sdk) | 0.10.0 | Alfonso García-Caro Núñez,Fab… | Fickl.Sdk: compile F# to JavaScript and the other Fickl targets as part of dotn… |
-| 2026-11-12 08:34:17 | [DubUrl.Provider.Hive](https://www.nuget.org/packages/DubUrl.Provider.Hive) | 0.66.0 | Cédric L. Charlier | Apache Hive database metadata for DubUrl. |
-| 2026-11-12 08:34:24 | [DubUrl.Provider.Spark](https://www.nuget.org/packages/DubUrl.Provider.Spark) | 0.66.0 | Cédric L. Charlier | Apache Spark and Databricks database metadata for DubUrl. |
-| 2026-11-12 08:34:51 | [Vot.Update.Client](https://www.nuget.org/packages/Vot.Update.Client) | 1.0.0 | VOT | VOT 自动更新客户端库。支持 .NET Framework 4.5~4.8.1 与 .NET 6/7/8/9/10，WinForms 与 WPF 通用（更新… |
-| 2026-11-12 08:51:06 | [CvSharp.DL](https://www.nuget.org/packages/CvSharp.DL) | 1.0.0 | GreatBear | SharpDL — 纯卷积深度学习框架（C#）：语义分割 / 目标检测 / 多分类训练与推理，支持 Vulkan GPU 加速与 ONNX 导出。提供 Tra… |
-| 2026-11-12 08:53:57 | [Devart.Data.BigQuery](https://www.nuget.org/packages/Devart.Data.BigQuery) | 1.0.248 | Devart | dotConnect for Google BigQuery is an ADO.NET provider for working with Google B… |
-| 2026-11-12 08:54:00 | [Devart.Data.BigQuery.EFCore](https://www.nuget.org/packages/Devart.Data.BigQuery.EFCore) | 1.0.248.11 | Devart | dotConnect for Google BigQuery is an ADO.NET provider for working with Google B… |
-| 2026-11-12 08:56:08 | [Devart.Data.MongoDB](https://www.nuget.org/packages/Devart.Data.MongoDB) | 1.0.248 | Devart | dotConnect for MongoDB is an ADO.NET data provider for MongoDB. Its built-in SQ… |
-| 2026-11-12 08:56:11 | [Devart.Data.MongoDB.EFCore](https://www.nuget.org/packages/Devart.Data.MongoDB.EFCore) | 1.0.248.11 | Devart | dotConnect for MongoDB is an ADO.NET data provider for MongoDB. Its built-in SQ… |
-| 2026-11-12 08:59:35 | [Crosswalk.Core](https://www.nuget.org/packages/Crosswalk.Core) | 0.1.0 | James Mann | Runs Crosswalk maps in .NET: JSON-to-JSON mappings drawn in the Crosswalk edito… |
-| 2026-11-12 09:00:09 | [QwenZImage.NET](https://www.nuget.org/packages/QwenZImage.NET) | 0.1.0 | dongfangzhizhu | High-performance .NET 10 P/Invoke wrapper over the stable qzi C ABI for Qwen-Im… |
-| 2026-11-12 09:00:46 | [MyConsoleApp_symas](https://www.nuget.org/packages/MyConsoleApp_symas) | 1.0.0 | MyConsoleApp | Package Description |
-| 2026-11-12 09:04:48 | [MapFlux.DependencyInjection](https://www.nuget.org/packages/MapFlux.DependencyInjection) | 1.0.0 | Kadir Demirkaya | Service collection registration for MapFlux: one AddMapFlux call registers a si… |
+| 2026-11-12 09:26:58 | [Kai.Shared.Http](https://www.nuget.org/packages/Kai.Shared.Http) | 0.1.0 | Kai.Shared.Http | HTTP clients with scoped TLS trust, mutual TLS and opt-in safe retries. |
+| 2026-11-12 09:27:02 | [Kai.Shared.Vault](https://www.nuget.org/packages/Kai.Shared.Vault) | 0.1.0 | Kai.Shared.Vault | Vault KV v1/v2 clients with Token and AppRole authentication. |
+| 2026-11-12 09:27:04 | [Aml.Editor.Plugin.OpcUa](https://www.nuget.org/packages/Aml.Editor.Plugin.OpcUa) | 0.3.0 | Hamied Nabizada | OPC UA for the AutomationML Editor. Imports OPC UA NodeSets as AML libraries ac… |
+| 2026-11-12 09:46:35 | [CleanArch.TemplatePack](https://www.nuget.org/packages/CleanArch.TemplatePack) | 1.0.0 | CleanArch | Multi-project .NET solution template modeled after the CleanArch layered archit… |
+| 2026-11-12 09:54:09 | [GPUSharp](https://www.nuget.org/packages/GPUSharp) | 0.1.0 | Daniel Berki | Write GPU kernels in C#. Mark a scalar method with [GpuKernel] and call the gen… |
+| 2026-11-12 09:57:44 | [Benevia.Core.Dashboards.Contracts](https://www.nuget.org/packages/Benevia.Core.Dashboards.Contracts) | 0.10.4 | Benevia Software | Dashboard JSON contracts shared by the Benevia Core dashboard server and Blazor… |
+| 2026-11-12 09:59:05 | [UnambitiousFx.Synapse.ModelContextProtocol](https://www.nuget.org/packages/UnambitiousFx.Synapse.ModelContextProtocol) | 2.7.0 | UnambitiousFx | Model Context Protocol integration for UnambitiousFx.Synapse: exposes Synapse r… |
+| 2026-11-12 10:02:56 | [Stil.Charts](https://www.nuget.org/packages/Stil.Charts) | 1.0.0 | Ludvig Andersson | Themeable SVG charts for Stil for Blazor: line, area, bar, donut and sparkline… |
+| 2026-11-12 10:02:56 | [Stil.RichText](https://www.nuget.org/packages/Stil.RichText) | 1.0.0 | Ludvig Andersson | Rich text for Stil for Blazor: StilRichTextEditor writes formatted text with a… |
+| 2026-11-12 10:02:57 | [Stil.Templates](https://www.nuget.org/packages/Stil.Templates) | 1.0.0 | Ludvig Andersson | dotnet new templates for Stil for Blazor: stil-app creates a Blazor Web App wit… |
+| 2026-11-12 10:02:57 | [Stil.Markdown](https://www.nuget.org/packages/Stil.Markdown) | 1.0.0 | Ludvig Andersson | Markdown for Stil for Blazor: StilMarkdown renders Markdown safely with Stil's… |
+| 2026-11-12 10:02:58 | [Stil](https://www.nuget.org/packages/Stil) | 1.0.0 | Ludvig Andersson | Themeable Blazor components built on the Stil CSS class library: forms with val… |
+| 2026-11-12 10:12:01 | [TheDotSide.Aspire.IdentityServer.Client](https://www.nuget.org/packages/TheDotSide.Aspire.IdentityServer.Client) | 10.0.0 | The Dot Side | Optional, engine-independent OAuth client helpers: configuration binding, RS256… |
 
 ## Data source
 
