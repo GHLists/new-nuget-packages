@@ -12,29 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 18:21 UTC
+## Latest list — 2026-11-12 19:21 UTC
 
-New packages created between 2026-11-12 17:20 UTC and 2026-11-12 18:21 UTC.
+New packages created between 2026-11-12 18:21 UTC and 2026-11-12 19:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T18-21-41-610865Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T19-21-19-776502Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 17:29:28 | [DxFeed.Graal.Native.Oracle](https://www.nuget.org/packages/DxFeed.Graal.Native.Oracle) | 3.16.0-rc1 | dxFeed API Team | The native libraries of the dxFeed Graal Native SDK: the dxFeed Java API compil… |
-| 2026-11-12 17:32:15 | [VisioForge.DotNet.VirtualCamera](https://www.nuget.org/packages/VisioForge.DotNet.VirtualCamera) | 2026.11.12 | VisioForge | VisioForge Virtual Camera SDK push API: send your own video frames and audio sa… |
-| 2026-11-12 17:33:53 | [Ekom.Payments.U19](https://www.nuget.org/packages/Ekom.Payments.U19) | 1.0.0 | Vettvangur | Ekom Payments - Umbraco E-Commerce solution |
-| 2026-11-12 17:36:33 | [DevelApp.PluginJobRunner.Executors](https://www.nuget.org/packages/DevelApp.PluginJobRunner.Executors) | 1.0.0 | Lars Shakya Buch-Jepsen | Sample job executor plugins for PluginJobRunner (MergeSortArray), demonstrating… |
-| 2026-11-12 17:36:33 | [DevelApp.PluginJobRunner.Interface](https://www.nuget.org/packages/DevelApp.PluginJobRunner.Interface) | 1.0.0 | Lars Shakya Buch-Jepsen | Job executor contract for PluginJobRunner: IJobExecutor, IJobExecutionContext a… |
-| 2026-11-12 17:36:34 | [DevelApp.PluginJobRunner.Model](https://www.nuget.org/packages/DevelApp.PluginJobRunner.Model) | 1.0.0 | Lars Shakya Buch-Jepsen | Domain and persistence model for PluginJobRunner: job entities and the EF Core… |
-| 2026-11-12 17:38:01 | [ForkForward.Mediator.Contracts](https://www.nuget.org/packages/ForkForward.Mediator.Contracts) | 2.6.0 | ForkForward | ForkForward.Mediator.Contracts is the contracts package of ForkForward.Mediator… |
-| 2026-11-12 17:41:02 | [STS2.RitsuLib.Compat.0.111.0](https://www.nuget.org/packages/STS2.RitsuLib.Compat.0.111.0) | 0.6.11 | OLC | Shared framework library for Slay the Spire 2 mods. |
-| 2026-11-12 17:44:41 | [Co.Revington.Sightline.Hosting](https://www.nuget.org/packages/Co.Revington.Sightline.Hosting) | 0.3.0 | Ravindu Wijegunawardhana | Add it to the app you run, and Sightline, a live and editable map of your .NET… |
-| 2026-11-12 17:51:45 | [KumikoUI.Uno](https://www.nuget.org/packages/KumikoUI.Uno) | 0.2.0 | Eight-Bot, Inc.,Michael Stonis | A high-performance, fully custom-drawn KumikoUI DataGrid control for the Uno Pl… |
-| 2026-11-12 18:03:39 | [Concord.Waylith](https://www.nuget.org/packages/Concord.Waylith) | 0.32.1 | Concord.Waylith | Body-replacement backend for Concord, for hosts running the WaylithCLR fork of… |
-| 2026-11-12 18:03:39 | [Concord.MonoMod](https://www.nuget.org/packages/Concord.MonoMod) | 0.32.1 | Concord.MonoMod | Emit backend for Concord on .NET Framework and mono runtimes, where there is no… |
-| 2026-11-12 18:05:51 | [Exchange56.CareerProfile.ClientSdk](https://www.nuget.org/packages/Exchange56.CareerProfile.ClientSdk) | 1.0.0 | T.J. McNaboe | Career profile client library for Exchange56 content APIs. |
-| 2026-11-12 18:06:28 | [Exchange56.CareerProfile.Components](https://www.nuget.org/packages/Exchange56.CareerProfile.Components) | 1.0.0 | T.J. McNaboe | Career profile Components library for Exchange56 content APIs. |
-| 2026-11-12 18:13:35 | [InstructorSharp.FluentValidation](https://www.nuget.org/packages/InstructorSharp.FluentValidation) | 0.1.0 | Faseeh Ullah Jafar | FluentValidation adapter for InstructorSharp. Use your existing AbstractValidat… |
+| 2026-11-12 18:23:08 | [Webority.Analytics.Diagnostics](https://www.nuget.org/packages/Webority.Analytics.Diagnostics) | 0.39.0 | Webority Technologies | Server analytics health for the Webority Diagnostics console: one section that… |
+| 2026-11-12 18:25:12 | [Joinery.Dovetail](https://www.nuget.org/packages/Joinery.Dovetail) | 0.5.0 | David Driscoll,Rocket Surgeon… | Adds support for loading configuration, services, logging, command line and mor… |
+| 2026-11-12 18:25:13 | [Joinery.Dovetail.Configuration.Yaml](https://www.nuget.org/packages/Joinery.Dovetail.Configuration.Yaml) | 0.5.0 | David Driscoll,Rocket Surgeon… | Adds support for loading yaml configuration files |
+| 2026-11-12 18:25:17 | [Joinery.Dovetail.Configuration.Json](https://www.nuget.org/packages/Joinery.Dovetail.Configuration.Json) | 0.5.0 | David Driscoll,Rocket Surgeon… | Adds support for loading json configuration files |
+| 2026-11-12 18:25:18 | [Joinery.Dovetail.Configuration.Toml](https://www.nuget.org/packages/Joinery.Dovetail.Configuration.Toml) | 0.5.0 | David Driscoll,Rocket Surgeon… | Adds support for loading toml configuration files |
+| 2026-11-12 18:48:52 | [AbpCluster.Sites](https://www.nuget.org/packages/AbpCluster.Sites) | 0.2.1 | AbpCluster contributors | AbpCluster.Sites: two sites for an ABP site on .NET 10 and PostgreSQL, one acti… |
+| 2026-11-12 18:49:43 | [RestFetch.Common](https://www.nuget.org/packages/RestFetch.Common) | 0.2.8 | al0rid4l | RestFetch common symbols definition. |
+| 2026-11-12 19:01:32 | [Bashka.Helpers](https://www.nuget.org/packages/Bashka.Helpers) | 1.0.1 | Evgeny Gorbovoy | Package Description |
+| 2026-11-12 19:01:33 | [Bashka.Launcher](https://www.nuget.org/packages/Bashka.Launcher) | 1.0.1 | Evgeny Gorbovoy | Package Description |
+| 2026-11-12 19:01:33 | [Bashka.Plugins](https://www.nuget.org/packages/Bashka.Plugins) | 1.0.1 | Evgeny Gorbovoy | Shared Bashka plugin APIs and built-in plugins. |
+| 2026-11-12 19:01:34 | [Bashka.Plugins.Archives](https://www.nuget.org/packages/Bashka.Plugins.Archives) | 1.0.1 | Evgeny Gorbovoy | Package Description |
+| 2026-11-12 19:01:35 | [Bashka.Plugins.Archives.Bsdtar](https://www.nuget.org/packages/Bashka.Plugins.Archives.Bsdtar) | 1.0.1 | Evgeny Gorbovoy | Package Description |
+| 2026-11-12 19:01:35 | [Bashka.Plugins.Core](https://www.nuget.org/packages/Bashka.Plugins.Core) | 1.0.1 | Evgeny Gorbovoy | Package Description |
+| 2026-11-12 19:01:36 | [Bashka.Plugins.Foundation](https://www.nuget.org/packages/Bashka.Plugins.Foundation) | 1.0.1 | Evgeny Gorbovoy | Package Description |
+| 2026-11-12 19:01:36 | [Bashka.Templates](https://www.nuget.org/packages/Bashka.Templates) | 1.0.1 | Evgeny Gorbovoy | Executable, packable Bashka plugin project template. |
+| 2026-11-12 19:02:09 | [XDev.Extensions](https://www.nuget.org/packages/XDev.Extensions) | 0.1.0-alpha001 | jasells,XDevApps | Dependency-free extension methods for ObservableCollection<T> and IList<T>: key… |
+| 2026-11-12 19:08:47 | [Musoq.Formatter](https://www.nuget.org/packages/Musoq.Formatter) | 17.0.17 | Jakub Puchała | Source-preserving formatting of complete raw Musoq scripts using only Musoq.Par… |
+| 2026-11-12 19:08:49 | [Musoq.Benchmarks.Scenarios](https://www.nuget.org/packages/Musoq.Benchmarks.Scenarios) | 17.0.17 | Jakub Puchała | Reusable deterministic SQL workloads and typed benchmark fixtures for Musoq hos… |
+| 2026-11-12 19:11:27 | [Shiny.AiConversation.AgUi](https://www.nuget.org/packages/Shiny.AiConversation.AgUi) | 3.1.0-beta-0001 | Allan Ritchie | AG-UI for Shiny AI Conversation - run a session as an AG-UI event stream (so AG… |
+| 2026-11-12 19:14:39 | [NymBroker.Outbox.SqlServer](https://www.nuget.org/packages/NymBroker.Outbox.SqlServer) | 0.23.0 | nymankla@gmail.com | Transactional outbox in SQL Server for NymBroker: post messages in your own dat… |
 
 ## Data source
 
