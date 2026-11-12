@@ -12,26 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 08:20 UTC
+## Latest list — 2026-11-12 09:19 UTC
 
-New packages created between 2026-11-12 07:21 UTC and 2026-11-12 08:20 UTC.
+New packages created between 2026-11-12 08:20 UTC and 2026-11-12 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T08-20-46-732532Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T09-19-08-295194Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 07:43:44 | [DataForge.DataPlatform.ScriptHost](https://www.nuget.org/packages/DataForge.DataPlatform.ScriptHost) | 1.1.0 | DataService | DataService JavaScript script host with SQL query execution, debugging, caching… |
-| 2026-11-12 07:49:08 | [Fdw.Bundle](https://www.nuget.org/packages/Fdw.Bundle) | 1.5.6 | Fdw.Bundle | Release 1.5.6: pins 287 packages to the exact versions this release shipped. No… |
-| 2026-11-12 07:53:18 | [VGrid.Blazor](https://www.nuget.org/packages/VGrid.Blazor) | 1.0.0 | Vijai Aaditya, OpenDen | Ultra-fast, lightweight data grid for Blazor WebAssembly and Blazor Server with… |
-| 2026-11-12 07:57:54 | [SuperSemantics.Vsl.AgentFramework](https://www.nuget.org/packages/SuperSemantics.Vsl.AgentFramework) | 0.1.1 | Super Semantics | Microsoft Agent Framework adapter for VSL governance primitives: compiles PreNo… |
-| 2026-11-12 07:59:37 | [LibDmd.Core.Native.win-x64](https://www.nuget.org/packages/LibDmd.Core.Native.win-x64) | 2.5.0 | freezy and contributors | This package complements LibDmd.Core and contains the native binaries (libserum… |
-| 2026-11-12 07:59:38 | [LibDmd.Core.Native.osx-x64](https://www.nuget.org/packages/LibDmd.Core.Native.osx-x64) | 2.5.0 | freezy and contributors | This package complements LibDmd.Core and contains the native binaries (libserum… |
-| 2026-11-12 07:59:41 | [LibDmd.Core.Native.osx-arm64](https://www.nuget.org/packages/LibDmd.Core.Native.osx-arm64) | 2.5.0 | freezy and contributors | This package complements LibDmd.Core and contains the native binaries (libserum… |
-| 2026-11-12 07:59:42 | [LibDmd.Core.Native.linux-x64](https://www.nuget.org/packages/LibDmd.Core.Native.linux-x64) | 2.5.0 | freezy and contributors | This package complements LibDmd.Core and contains the native binaries (libserum… |
-| 2026-11-12 07:59:43 | [LibDmd.Core.Native](https://www.nuget.org/packages/LibDmd.Core.Native) | 2.5.0 | freezy and contributors | Meta-package that pulls the per-platform native binaries (libserum, libzedmd) u… |
-| 2026-11-12 07:59:44 | [LibDmd.Core](https://www.nuget.org/packages/LibDmd.Core) | 2.5.0 | freezy and contributors | Cross-platform (WPF-free) core of dmd-extensions / LibDmd: the reactive frame p… |
-| 2026-11-12 08:04:48 | [PlaIO](https://www.nuget.org/packages/PlaIO) | 0.1.0 | mahach666 | Reads the container of Archicad project files (.pla, .pln) and the cover image… |
-| 2026-11-12 08:04:50 | [PlaIO.Cli](https://www.nuget.org/packages/PlaIO.Cli) | 0.1.0 | mahach666 | Command line tool that reports the container structure of Archicad files (.pla,… |
+| 2026-11-12 08:24:55 | [Cratis.Templates.Extensions](https://www.nuget.org/packages/Cratis.Templates.Extensions) | 1.9.0 | Cratis | Templates for Cratis extension packages: a full extension (an OCI package with… |
+| 2026-11-12 08:29:58 | [Box2D.NET.Fork](https://www.nuget.org/packages/Box2D.NET.Fork) | 0.1.0 | ice1000 | Box2D.NET - Box2D.NET - a port of Box2D, is a 2D physics engine for games, .NET… |
+| 2026-11-12 08:33:04 | [Fickl.Sdk](https://www.nuget.org/packages/Fickl.Sdk) | 0.10.0 | Alfonso García-Caro Núñez,Fab… | Fickl.Sdk: compile F# to JavaScript and the other Fickl targets as part of dotn… |
+| 2026-11-12 08:34:17 | [DubUrl.Provider.Hive](https://www.nuget.org/packages/DubUrl.Provider.Hive) | 0.66.0 | Cédric L. Charlier | Apache Hive database metadata for DubUrl. |
+| 2026-11-12 08:34:24 | [DubUrl.Provider.Spark](https://www.nuget.org/packages/DubUrl.Provider.Spark) | 0.66.0 | Cédric L. Charlier | Apache Spark and Databricks database metadata for DubUrl. |
+| 2026-11-12 08:34:51 | [Vot.Update.Client](https://www.nuget.org/packages/Vot.Update.Client) | 1.0.0 | VOT | VOT 自动更新客户端库。支持 .NET Framework 4.5~4.8.1 与 .NET 6/7/8/9/10，WinForms 与 WPF 通用（更新… |
+| 2026-11-12 08:51:06 | [CvSharp.DL](https://www.nuget.org/packages/CvSharp.DL) | 1.0.0 | GreatBear | SharpDL — 纯卷积深度学习框架（C#）：语义分割 / 目标检测 / 多分类训练与推理，支持 Vulkan GPU 加速与 ONNX 导出。提供 Tra… |
+| 2026-11-12 08:53:57 | [Devart.Data.BigQuery](https://www.nuget.org/packages/Devart.Data.BigQuery) | 1.0.248 | Devart | dotConnect for Google BigQuery is an ADO.NET provider for working with Google B… |
+| 2026-11-12 08:54:00 | [Devart.Data.BigQuery.EFCore](https://www.nuget.org/packages/Devart.Data.BigQuery.EFCore) | 1.0.248.11 | Devart | dotConnect for Google BigQuery is an ADO.NET provider for working with Google B… |
+| 2026-11-12 08:56:08 | [Devart.Data.MongoDB](https://www.nuget.org/packages/Devart.Data.MongoDB) | 1.0.248 | Devart | dotConnect for MongoDB is an ADO.NET data provider for MongoDB. Its built-in SQ… |
+| 2026-11-12 08:56:11 | [Devart.Data.MongoDB.EFCore](https://www.nuget.org/packages/Devart.Data.MongoDB.EFCore) | 1.0.248.11 | Devart | dotConnect for MongoDB is an ADO.NET data provider for MongoDB. Its built-in SQ… |
+| 2026-11-12 08:59:35 | [Crosswalk.Core](https://www.nuget.org/packages/Crosswalk.Core) | 0.1.0 | James Mann | Runs Crosswalk maps in .NET: JSON-to-JSON mappings drawn in the Crosswalk edito… |
+| 2026-11-12 09:00:09 | [QwenZImage.NET](https://www.nuget.org/packages/QwenZImage.NET) | 0.1.0 | dongfangzhizhu | High-performance .NET 10 P/Invoke wrapper over the stable qzi C ABI for Qwen-Im… |
+| 2026-11-12 09:00:46 | [MyConsoleApp_symas](https://www.nuget.org/packages/MyConsoleApp_symas) | 1.0.0 | MyConsoleApp | Package Description |
+| 2026-11-12 09:04:48 | [MapFlux.DependencyInjection](https://www.nuget.org/packages/MapFlux.DependencyInjection) | 1.0.0 | Kadir Demirkaya | Service collection registration for MapFlux: one AddMapFlux call registers a si… |
 
 ## Data source
 
