@@ -12,23 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:21 UTC
+## Latest list — 2026-11-12 14:20 UTC
 
-New packages created between 2026-11-12 12:21 UTC and 2026-11-12 13:21 UTC.
+New packages created between 2026-11-12 13:21 UTC and 2026-11-12 14:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T13-21-57-517456Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T14-20-49-223344Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 12:32:12 | [Ceejay.Connect](https://www.nuget.org/packages/Ceejay.Connect) | 0.1.0 | Community Studios | The CEEJAY Connect client for C# games: link a player to their Discord account,… |
-| 2026-11-12 12:32:50 | [Ceejay](https://www.nuget.org/packages/Ceejay) | 0.1.0 | Community Studios | Call the CEEJAY API from your C# server, and verify the webhooks and shop deliv… |
-| 2026-11-12 12:41:07 | [Vettvangur.AiChat](https://www.nuget.org/packages/Vettvangur.AiChat) | 1.0.0 | Vettvangur | Pluggable AI chat engine, streaming endpoint and conversation log for Umbraco s… |
-| 2026-11-12 12:55:56 | [Umbraco.Community.GoatCounter](https://www.nuget.org/packages/Umbraco.Community.GoatCounter) | 0.0.1 | Andy Cross | GoatCounter analytics for Umbraco: a backoffice dashboard, a Views tab on every… |
-| 2026-11-12 13:00:15 | [Dora.Shared.Security](https://www.nuget.org/packages/Dora.Shared.Security) | 1.0.4 | Hwx | Package Description |
-| 2026-11-12 13:00:30 | [Dora.Shared.Hosting](https://www.nuget.org/packages/Dora.Shared.Hosting) | 1.0.4 | Hwx | Package Description |
-| 2026-11-12 13:01:08 | [FlashCsv](https://www.nuget.org/packages/FlashCsv) | 1.0.0 | jetonpeche | Ultra high-performance, zero-allocation CSV parser, streamer, and serializer fo… |
-| 2026-11-12 13:04:48 | [EAC.Plugin.EntraRegistration](https://www.nuget.org/packages/EAC.Plugin.EntraRegistration) | 0.1.0 | Eternet | Optional Microsoft Entra app registration and localhost redirect guidance for E… |
-| 2026-11-12 13:14:49 | [Bitwarden.Server.Sdk.Service.Abstractions](https://www.nuget.org/packages/Bitwarden.Server.Sdk.Service.Abstractions) | 0.1.0 | Bitwarden Inc. | How a package configures every Bitwarden service that references it. |
+| 2026-11-12 13:22:16 | [AppWeaver.Spec.Foundation.DotNet.VerticalSlice](https://www.nuget.org/packages/AppWeaver.Spec.Foundation.DotNet.VerticalSlice) | 1.0.0 | Bytestrone India Private Limi… | AppWeaver foundation pack: Vertical Slice (CQRS / Fast Endpoints) (dotnet-webap… |
+| 2026-11-12 13:27:49 | [WinUia.Recording](https://www.nuget.org/packages/WinUia.Recording) | 0.3.1 | Buning Software | Record the screen while a Windows UI test runs, using ffmpeg. Optional companio… |
+| 2026-11-12 13:32:24 | [HoneyDrunk.Memory.Providers.Data](https://www.nuget.org/packages/HoneyDrunk.Memory.Providers.Data) | 0.2.0 | HoneyDrunk Studios | Durable HoneyDrunk agent-memory store over HoneyDrunk.Data's Entity Framework l… |
+| 2026-11-12 13:40:35 | [Prahelika.Calculators](https://www.nuget.org/packages/Prahelika.Calculators) | 0.0.1-alpha | Prahelika Dutta (PD) | A calculator library for .NET with basic, scientific and finance calculators. |
+| 2026-11-12 13:45:28 | [Google.Apis.MyBusinessBusinessInformation.v1alpha](https://www.nuget.org/packages/Google.Apis.MyBusinessBusinessInformation.v1alpha) | 1.78.0.4329 | Google LLC | Google APIs Client Library for working with Mybusinessbusinessinformation v1alp… |
+| 2026-11-12 13:52:55 | [Snail.MCP.Playwright](https://www.nuget.org/packages/Snail.MCP.Playwright) | 0.1.0 | orldev | MCP server that lets AI agents search the web and read pages through a real bro… |
+| 2026-11-12 13:55:42 | [UnambitiousFx.Synapse.Authorization](https://www.nuget.org/packages/UnambitiousFx.Synapse.Authorization) | 2.9.0 | UnambitiousFx | Authorization for UnambitiousFx.Synapse: actor, role, scope and resource behavi… |
+| 2026-11-12 13:59:38 | [Ekom.U19](https://www.nuget.org/packages/Ekom.U19) | 1.1.0 | Vettvangur | Ekom - E-Commerce solution for Umbraco 19+ |
+| 2026-11-12 13:59:45 | [Ekom.Web.U19](https://www.nuget.org/packages/Ekom.Web.U19) | 1.1.0 | Vettvangur | Ekom Web assets for Umbraco 19. |
+| 2026-11-12 14:08:14 | [Tesserae.A2UI](https://www.nuget.org/packages/Tesserae.A2UI) | 26.11.7978 | Curiosity GmbH | Tesserae.A2UI renders A2UI (Agent-to-User Interface) v1.0 messages as a live Te… |
+| 2026-11-12 14:14:02 | [VisioForge.CrossPlatform.OpenCV.Linux.arm64](https://www.nuget.org/packages/VisioForge.CrossPlatform.OpenCV.Linux.arm64) | 2026.11.12.2 | VisioForge | OpenCV computer vision libraries package for VisioForge .NET SDKs. Enables adva… |
 
 ## Data source
 
