@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-12T00:24:09.473Z,Aleator.Torch,0.4.1,Aleator contributors,TorchSharp bridge for Aleator — wraps a TorchSharp tensor program inside an IDifferentiableTarget so HMC/NUTS/ADVI/SVGD can consume neural-network log-densities and amortised encoders.
+2026-11-12T00:24:09.83Z,Aleator.MLNet,0.4.1,Aleator contributors,"ML.NET adapter for Aleator — exposes probabilistic-model inference as an ML.NET CustomMapping transform and a prediction-engine facade, so ASP.NET Core teams consume Aleator posteriors through their existing ML.NET / DI surface."
+2026-11-12T00:24:10.21Z,Aleator.Algorithms,0.4.1,Aleator contributors,"Inference algorithms (VE, BP, Importance, Metropolis-Hastings, Gibbs, EM, particle filtering, lazy, structured, causal) for Aleator."
+2026-11-12T00:24:10.633Z,Aleator.Library,0.4.1,Aleator contributors,"Standard library of probabilistic elements (atomic continuous/discrete, collections, references, decisions) for Aleator."
+2026-11-12T00:24:10.967Z,Aleator.Core,0.4.1,Aleator contributors,"Core probabilistic programming primitives (Element, Universe, language) for Aleator — a probabilistic programming library for .NET 8 and .NET 10, derived from Scala Figaro."
+2026-11-12T00:24:11.307Z,Aleator.DependencyInjection,0.4.1,Aleator contributors,"Microsoft.Extensions.DependencyInjection integration for Aleator (per-request Universe, RandomSource factory, IInferenceEngine adapters)."
+2026-11-12T00:24:11.697Z,Aleator.AutoDiff,0.4.1,Aleator contributors,"Reverse-mode automatic differentiation, unconstraining transforms, and a differentiable joint-density builder for gradient-based inference (HMC/NUTS/ADVI/SVGD, Gaussian processes) in Aleator."
+2026-11-12T00:25:26.13Z,WASU.Plugin.RPC,26.1112.9,WASU.Plugin.RPC,Package Description
+2026-11-12T00:34:30.267Z,Sentry.Quartz3,6.13.0,Sentry Team and Contributors,Official Quartz.NET 3.x integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.
+2026-11-12T00:34:38.487Z,Sentry.Quartz,6.13.0,Sentry Team and Contributors,Official Quartz.NET 4.x integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.
+2026-11-12T00:36:43.463Z,Soenneker.Vtracer.Util,11.0.10,Jake Soenneker,A cross-platform .NET API for raster to SVG conversion using bundled VTracer executables.
+2026-11-12T01:03:39.68Z,SharpRTCP,0.8.1,Lukas Volf,"RTCP sender and receiver reports, reception statistics, source descriptions and Picture Loss Indications."

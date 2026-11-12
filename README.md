@@ -12,29 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 00:21 UTC
+## Latest list — 2026-11-12 01:21 UTC
 
-New packages created between 2026-11-11 23:21 UTC and 2026-11-12 00:21 UTC.
+New packages created between 2026-11-12 00:21 UTC and 2026-11-12 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T00-21-04-544936Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T01-21-03-499725Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-11 23:21:25 | [Tungo.Sdk](https://www.nuget.org/packages/Tungo.Sdk) | 0.2.0 | Tungo | The official .NET library for the Tungo Platform API: typed models, retries, st… |
-| 2026-11-11 23:35:02 | [LibXmp.Managed](https://www.nuget.org/packages/LibXmp.Managed) | 4.7.4 | libxmp-msil contributors | A platform-agnostic, pure-IL 64-bit build of libxmp 4.7.4 with a C# wrapper. Pl… |
-| 2026-11-11 23:49:09 | [E2E.Deprecated.b1eb3b15ce064d45b046bacc002a2a7c](https://www.nuget.org/packages/E2E.Deprecated.b1eb3b15ce064d45b046bacc002a2a7c) | 1.0.0 | EndToEndTests | Description of E2E.Deprecated.b1eb3b15ce064d45b046bacc002a2a7c |
-| 2026-11-11 23:49:09 | [E2E.EmbeddedIconPng.fbc14c906e2a4d99be68136989f3f2aa](https://www.nuget.org/packages/E2E.EmbeddedIconPng.fbc14c906e2a4d99be68136989f3f2aa) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconPng.fbc14c906e2a4d99be68136989f3f2aa |
-| 2026-11-11 23:49:09 | [E2E.EmbeddedReadmeFile.6cec8dbe3e834057a2d1dd43db3ae8fa](https://www.nuget.org/packages/E2E.EmbeddedReadmeFile.6cec8dbe3e834057a2d1dd43db3ae8fa) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedReadmeFile.6cec8dbe3e834057a2d1dd43db3ae8fa |
-| 2026-11-11 23:49:09 | [E2E.LicenseFile.9f925dfbeef944fe85e9eb7c1fbdb5ff](https://www.nuget.org/packages/E2E.LicenseFile.9f925dfbeef944fe85e9eb7c1fbdb5ff) | 1.0.0 | EndToEndTests | Description of E2E.LicenseFile.9f925dfbeef944fe85e9eb7c1fbdb5ff |
-| 2026-11-11 23:49:09 | [E2E.LicenseUrl.8d15fc2ab3fa4b9cb295601e1077d7aa](https://www.nuget.org/packages/E2E.LicenseUrl.8d15fc2ab3fa4b9cb295601e1077d7aa) | 1.0.0 | EndToEndTests | Description of E2E.LicenseUrl.8d15fc2ab3fa4b9cb295601e1077d7aa |
-| 2026-11-11 23:49:09 | [E2E.FullValidation.309a421ec5ba46c494eb2a0e83061a2d](https://www.nuget.org/packages/E2E.FullValidation.309a421ec5ba46c494eb2a0e83061a2d) | 1.0.0 | EndToEndTests | Description of E2E.FullValidation.309a421ec5ba46c494eb2a0e83061a2d |
-| 2026-11-11 23:49:09 | [E2E.EmbeddedIconJpeg.61459c92b65145a397a0992709c2a836](https://www.nuget.org/packages/E2E.EmbeddedIconJpeg.61459c92b65145a397a0992709c2a836) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconJpeg.61459c92b65145a397a0992709c2a836 |
-| 2026-11-11 23:49:09 | [E2E.SemVer1Stable.5b939c6f75d04919b85610b5fb7d577d](https://www.nuget.org/packages/E2E.SemVer1Stable.5b939c6f75d04919b85610b5fb7d577d) | 1.0.0 | EndToEndTests | Description of E2E.SemVer1Stable.5b939c6f75d04919b85610b5fb7d577d |
-| 2026-11-11 23:49:09 | [E2E.LicenseExpression.a25300596e8d4c53be49c0151c548857](https://www.nuget.org/packages/E2E.LicenseExpression.a25300596e8d4c53be49c0151c548857) | 1.0.0 | EndToEndTests | Description of E2E.LicenseExpression.a25300596e8d4c53be49c0151c548857 |
-| 2026-11-11 23:49:21 | [E2E.SymbolsPackage.99cfa4fcfb114cac88e05bfec00c7aee](https://www.nuget.org/packages/E2E.SymbolsPackage.99cfa4fcfb114cac88e05bfec00c7aee) | 1.0.0 | EndToEndTests | Description of E2E.SymbolsPackage.99cfa4fcfb114cac88e05bfec00c7aee |
-| 2026-11-11 23:49:22 | [E2E.DotnetTool.43daa9615c844dffad14cb343a0eabd6](https://www.nuget.org/packages/E2E.DotnetTool.43daa9615c844dffad14cb343a0eabd6) | 1.0.0 | E2E.DotnetTool | Package Description |
-| 2026-11-11 23:51:46 | [Ramsden.ThemeEngine](https://www.nuget.org/packages/Ramsden.ThemeEngine) | 1.0.0 | Ramsden | Ramsden Theme Engine CSS, browser JavaScript and self-hosted fonts for ASP.NET… |
-| 2026-11-11 23:52:08 | [AaTurpin.Maui.MaterialIcons](https://www.nuget.org/packages/AaTurpin.Maui.MaterialIcons) | 1.0.0 | AaTurpin | Complete Google Material Icons library for .NET MAUI (all 2,235 icons across Fi… |
+| 2026-11-12 00:24:09 | [Aleator.Torch](https://www.nuget.org/packages/Aleator.Torch) | 0.4.1 | Aleator contributors | TorchSharp bridge for Aleator — wraps a TorchSharp tensor program inside an IDi… |
+| 2026-11-12 00:24:09 | [Aleator.MLNet](https://www.nuget.org/packages/Aleator.MLNet) | 0.4.1 | Aleator contributors | ML.NET adapter for Aleator — exposes probabilistic-model inference as an ML.NET… |
+| 2026-11-12 00:24:10 | [Aleator.Algorithms](https://www.nuget.org/packages/Aleator.Algorithms) | 0.4.1 | Aleator contributors | Inference algorithms (VE, BP, Importance, Metropolis-Hastings, Gibbs, EM, parti… |
+| 2026-11-12 00:24:10 | [Aleator.Library](https://www.nuget.org/packages/Aleator.Library) | 0.4.1 | Aleator contributors | Standard library of probabilistic elements (atomic continuous/discrete, collect… |
+| 2026-11-12 00:24:10 | [Aleator.Core](https://www.nuget.org/packages/Aleator.Core) | 0.4.1 | Aleator contributors | Core probabilistic programming primitives (Element, Universe, language) for Ale… |
+| 2026-11-12 00:24:11 | [Aleator.DependencyInjection](https://www.nuget.org/packages/Aleator.DependencyInjection) | 0.4.1 | Aleator contributors | Microsoft.Extensions.DependencyInjection integration for Aleator (per-request U… |
+| 2026-11-12 00:24:11 | [Aleator.AutoDiff](https://www.nuget.org/packages/Aleator.AutoDiff) | 0.4.1 | Aleator contributors | Reverse-mode automatic differentiation, unconstraining transforms, and a differ… |
+| 2026-11-12 00:25:26 | [WASU.Plugin.RPC](https://www.nuget.org/packages/WASU.Plugin.RPC) | 26.1112.9 | WASU.Plugin.RPC | Package Description |
+| 2026-11-12 00:34:30 | [Sentry.Quartz3](https://www.nuget.org/packages/Sentry.Quartz3) | 6.13.0 | Sentry Team and Contributors | Official Quartz.NET 3.x integration for Sentry - Open-source error tracking tha… |
+| 2026-11-12 00:34:38 | [Sentry.Quartz](https://www.nuget.org/packages/Sentry.Quartz) | 6.13.0 | Sentry Team and Contributors | Official Quartz.NET 4.x integration for Sentry - Open-source error tracking tha… |
+| 2026-11-12 00:36:43 | [Soenneker.Vtracer.Util](https://www.nuget.org/packages/Soenneker.Vtracer.Util) | 11.0.10 | Jake Soenneker | A cross-platform .NET API for raster to SVG conversion using bundled VTracer ex… |
+| 2026-11-12 01:03:39 | [SharpRTCP](https://www.nuget.org/packages/SharpRTCP) | 0.8.1 | Lukas Volf | RTCP sender and receiver reports, reception statistics, source descriptions and… |
 
 ## Data source
 
