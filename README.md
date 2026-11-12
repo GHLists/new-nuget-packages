@@ -12,19 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 03:20 UTC
+## Latest list — 2026-11-12 04:19 UTC
 
-New packages created between 2026-11-12 02:21 UTC and 2026-11-12 03:20 UTC.
+New packages created between 2026-11-12 03:20 UTC and 2026-11-12 04:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T03-20-48-983737Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T04-19-37-150082Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 02:29:44 | [TL.LiteCore.Template](https://www.nuget.org/packages/TL.LiteCore.Template) | 1.0.0 | Thaylon Lopes | Template corporativo .NET 9 para APIs RESTful síncronas, CRUDs transacionais di… |
-| 2026-11-12 02:37:57 | [DTZero](https://www.nuget.org/packages/DTZero) | 2.0.0 | Keith Voels | Zero DTOs. A 3-tier client/server data mapper for .NET domain models, powered b… |
-| 2026-11-12 02:37:58 | [DTZero.AspNetCore](https://www.nuget.org/packages/DTZero.AspNetCore) | 2.0.0 | Keith Voels | Zero DTOs. ASP.NET Core server library for DTZero. |
-| 2026-11-12 03:00:43 | [KinTN.ASRS.SMD.Business.Head.Interfaces](https://www.nuget.org/packages/KinTN.ASRS.SMD.Business.Head.Interfaces) | 1.0.0 | KinTN | 料仓仓头程序（SiloHead）业务扩展接口：入库扫码校验（IVerifyCanStockIn）、第三方完成反馈（IFeedbackNotifier）、条码解… |
-| 2026-11-12 03:01:43 | [KinTN.ASRS.SMD.UI.Head.Interfaces](https://www.nuget.org/packages/KinTN.ASRS.SMD.UI.Head.Interfaces) | 1.0.0 | KinTN | 料仓仓头程序（SiloHead）UI 扩展接口（Avalonia）：主界面入库/出库按钮自定义动作（IInboundAction/IOutboundActio… |
+| 2026-11-12 03:25:30 | [SourceGenerators.Shared](https://www.nuget.org/packages/SourceGenerators.Shared) | 1.0.0 | 何镇汐 | 源生成器共享源码包 |
+| 2026-11-12 03:33:51 | [AquaCulture.GIS.Gdal](https://www.nuget.org/packages/AquaCulture.GIS.Gdal) | 1.1.0 | Gravicode Studios (Kang Fadhi… | GDAL raster I/O for AquaCulture.Net (GeoTIFF and 200+ formats via Gravicode.GDA… |
+| 2026-11-12 03:33:54 | [AquaCulture.IoT.OpcUa](https://www.nuget.org/packages/AquaCulture.IoT.OpcUa) | 1.1.0 | Gravicode Studios (Kang Fadhi… | OPC UA for AquaCulture.Net over the OPC Foundation .NET Standard stack: an IOpc… |
+| 2026-11-12 03:33:56 | [AquaCulture.Data](https://www.nuget.org/packages/AquaCulture.Data) | 1.1.0 | Gravicode Studios (Kang Fadhi… | Persistence for AquaCulture.Net: EF Core / SQLite store for farms, culture cycl… |
+| 2026-11-12 03:38:00 | [Patware.PingTrace.Adapter.RedisCache](https://www.nuget.org/packages/Patware.PingTrace.Adapter.RedisCache) | 0.3.1 | Patware | Redis ping diagnostics through a registered IConnectionMultiplexer. |
+| 2026-11-12 03:42:45 | [Juice.Observability.Slos](https://www.nuget.org/packages/Juice.Observability.Slos) | 1.2.0 | Creatorflow.io | Juice Observability: discovery, health, rules and alerts over OpenTelemetry for… |
+| 2026-11-12 03:42:46 | [Juice.Observability.Agents](https://www.nuget.org/packages/Juice.Observability.Agents) | 1.2.0 | Creatorflow.io | Juice Observability agent control plane: enrollment, mTLS agent identity, revoc… |
+| 2026-11-12 03:42:46 | [Juice.Observability.Agent](https://www.nuget.org/packages/Juice.Observability.Agent) | 1.2.0 | Creatorflow.io | Juice Agent: a host's outbound, mTLS agent for Juice Observability. Reference i… |
+| 2026-11-12 03:42:47 | [Juice.Observability.Agent.Contracts](https://www.nuget.org/packages/Juice.Observability.Agent.Contracts) | 1.2.0 | Creatorflow.io | Juice Observability agent contracts: signed command envelopes, typed read-only… |
+| 2026-11-12 03:49:47 | [Atct.Sso](https://www.nuget.org/packages/Atct.Sso) | 1.0.1 | Atct | Shared Casdoor OIDC SSO protocol and flow library for Atct systems. |
+| 2026-11-12 04:05:09 | [Cike.Localization](https://www.nuget.org/packages/Cike.Localization) | 1.0.13 | Lemon.Li | Package Description |
+| 2026-11-12 04:11:19 | [Zue.PhoneticAnnotator.Cli](https://www.nuget.org/packages/Zue.PhoneticAnnotator.Cli) | 0.2.0 | danzuep | Multi-language phonetic annotation (pinyin, Jyutping, furigana, Arabic tashkeel… |
+| 2026-11-12 04:11:22 | [Zue.Unihan](https://www.nuget.org/packages/Zue.Unihan) | 0.2.0 | danzuep | Multi-language phonetic annotation (pinyin, Jyutping, furigana, Arabic tashkeel… |
 
 ## Data source
 

@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-12T03:25:30.037Z,SourceGenerators.Shared,1.0.0,何镇汐,源生成器共享源码包
+2026-11-12T03:33:51.023Z,AquaCulture.GIS.Gdal,1.1.0,Gravicode Studios (Kang Fadhil),"GDAL raster I/O for AquaCulture.Net (GeoTIFF and 200+ formats via Gravicode.GDAL.Net) plus Sentinel-2 water-colour indices: NDWI, MNDWI, NDCI chlorophyll-a, turbidity and trophic state for ponds, reservoirs and KJA zones."
+2026-11-12T03:33:54.507Z,AquaCulture.IoT.OpcUa,1.1.0,Gravicode Studios (Kang Fadhil),"OPC UA for AquaCulture.Net over the OPC Foundation .NET Standard stack: an IOpcUaReader for PLCs and SCADA (read, write, reconnect) and an OPC UA pond simulator server for tests and demos."
+2026-11-12T03:33:56.55Z,AquaCulture.Data,1.1.0,Gravicode Studios (Kang Fadhil),"Persistence for AquaCulture.Net: EF Core / SQLite store for farms, culture cycles, sensor readings and twin decisions, a recording transport, and CSV / Apache Parquet (ParquetSharp) time-series export."
+2026-11-12T03:38:00.55Z,Patware.PingTrace.Adapter.RedisCache,0.3.1,Patware,Redis ping diagnostics through a registered IConnectionMultiplexer.
+2026-11-12T03:42:45.62Z,Juice.Observability.Slos,1.2.0,Creatorflow.io,"Juice Observability: discovery, health, rules and alerts over OpenTelemetry for Juice services."
+2026-11-12T03:42:46.093Z,Juice.Observability.Agents,1.2.0,Creatorflow.io,"Juice Observability agent control plane: enrollment, mTLS agent identity, revocation and signed read-only commands."
+2026-11-12T03:42:46.483Z,Juice.Observability.Agent,1.2.0,Creatorflow.io,"Juice Agent: a host's outbound, mTLS agent for Juice Observability. Reference it from your own program to add custom actions."
+2026-11-12T03:42:47.933Z,Juice.Observability.Agent.Contracts,1.2.0,Creatorflow.io,"Juice Observability agent contracts: signed command envelopes, typed read-only actions and their bounds."
+2026-11-12T03:49:47.51Z,Atct.Sso,1.0.1,Atct,Shared Casdoor OIDC SSO protocol and flow library for Atct systems.
+2026-11-12T04:05:09.04Z,Cike.Localization,1.0.13,Lemon.Li,Package Description
+2026-11-12T04:11:19.987Z,Zue.PhoneticAnnotator.Cli,0.2.0,danzuep,"Multi-language phonetic annotation (pinyin, Jyutping, furigana, Arabic tashkeel) for text and USFM."
+2026-11-12T04:11:22.077Z,Zue.Unihan,0.2.0,danzuep,"Multi-language phonetic annotation (pinyin, Jyutping, furigana, Arabic tashkeel) for text and USFM."
