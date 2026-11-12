@@ -1,0 +1,66 @@
+created_at,package,version,authors,description
+2026-11-12T01:45:13.313Z,E2E.SemVer1Stable.11c503bbd9494ffea539cb35d8256a9c,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.11c503bbd9494ffea539cb35d8256a9c
+2026-11-12T01:45:13.88Z,E2E.EmbeddedIconPng.e4b0e2c6635645ae9926d10a98982343,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.e4b0e2c6635645ae9926d10a98982343
+2026-11-12T01:45:13.9Z,E2E.LicenseUrl.8ef8d4fa01a84b27916197fcf8462f2a,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.8ef8d4fa01a84b27916197fcf8462f2a
+2026-11-12T01:45:14.253Z,E2E.LicenseExpression.e96272fb67df47cc99262f97f90b07eb,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.e96272fb67df47cc99262f97f90b07eb
+2026-11-12T01:45:14.44Z,E2E.Deprecated.12a265a25bb84e178342b959b088f952,1.0.0,EndToEndTests,Description of E2E.Deprecated.12a265a25bb84e178342b959b088f952
+2026-11-12T01:45:14.44Z,E2E.FullValidation.00425f1a700944b18fa0e1cbda6ee1cf,1.0.0,EndToEndTests,Description of E2E.FullValidation.00425f1a700944b18fa0e1cbda6ee1cf
+2026-11-12T01:45:14.637Z,E2E.LicenseFile.acc2faf12c954d4d9722961dcc2d05e1,1.0.0,EndToEndTests,Description of E2E.LicenseFile.acc2faf12c954d4d9722961dcc2d05e1
+2026-11-12T01:45:14.64Z,E2E.EmbeddedReadmeFile.dc694a6562aa41f6974657d8926da559,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.dc694a6562aa41f6974657d8926da559
+2026-11-12T01:45:14.65Z,E2E.EmbeddedIconJpeg.3bb4e589b8fd4b938f3b341288da75c2,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.3bb4e589b8fd4b938f3b341288da75c2
+2026-11-12T01:45:46.613Z,E2E.SymbolsPackage.6e9bda0527d74b759917a7fba5707c75,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.6e9bda0527d74b759917a7fba5707c75
+2026-11-12T01:45:47.487Z,E2E.DotnetTool.bb47e518548c43c79e237f17da008fb9,1.0.0,E2E.DotnetTool,Package Description
+2026-11-12T01:47:10.43Z,TypeMetadata,1.0.0,何镇汐,每个泛型类型的静态元数据缓存
+2026-11-12T01:53:33.32Z,Sudzekai.LinCtrl.Extensions,0.2.0,Sudzekai,Расширения для создания HTTP-ответов LinCtrl и преобразования типов содержимого в MIME.
+2026-11-12T01:53:35.497Z,Sudzekai.LinCtrl.Hosting.Application,0.1.0,Sudzekai,"Команды авторизации, репозитории MySQL и хэширование паролей Argon2id для хоста LinCtrl."
+2026-11-12T02:07:49.177Z,Io.Cdktn.Bundler.Docker,0.1.0,cdktn-io,Container-based asset bundler for CDK Terrain
+2026-11-12T02:08:54.977Z,MioKit.KeySender,1.0.0,MioKit.KeySender,"{""schema"":""miokit.plugin-package"",""schemaVersion"":1,""plugin"":{""metadataVersion"":""1.0"",""id"":""com.tinyisle.plugin.key-sender"",""name"":""模拟按键"",""description"":""# 模拟按键\n\n把常用的键盘操作录下来，做成可反复使用的按键方案。需要时在搜索里找到对应方案，一键回放到当前正在用的窗口。\n\n## 能做什么\n\n- **录制按键**：打开管理窗口，新建方案后开始录制，按你平时的操作顺序记下按下和松开\n- **精细调整**：录完后可改等待时间、增…"
+2026-11-12T02:09:31.517Z,E2E.SemVer1Stable.098b99c6f03a4841a771c125b0c4e140,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.098b99c6f03a4841a771c125b0c4e140
+2026-11-12T02:09:31.87Z,E2E.LicenseExpression.fe422442616c43c2a7d4e4c624ef322b,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.fe422442616c43c2a7d4e4c624ef322b
+2026-11-12T02:09:31.993Z,E2E.LicenseUrl.9b772e09a8a54fb7a3c678115fbeca9f,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.9b772e09a8a54fb7a3c678115fbeca9f
+2026-11-12T02:09:32.383Z,E2E.EmbeddedIconPng.c0fadc393e5446fea8460875e179489d,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.c0fadc393e5446fea8460875e179489d
+2026-11-12T02:09:32.393Z,E2E.Deprecated.8ffd96a5e4c84afead6bebc9cf24b5ef,1.0.0,EndToEndTests,Description of E2E.Deprecated.8ffd96a5e4c84afead6bebc9cf24b5ef
+2026-11-12T02:09:32.397Z,E2E.FullValidation.4dadf1edadc249d6b3bebde92cb40b50,1.0.0,EndToEndTests,Description of E2E.FullValidation.4dadf1edadc249d6b3bebde92cb40b50
+2026-11-12T02:09:32.427Z,E2E.EmbeddedReadmeFile.ec37f00ec9cb4803ac9c71bb60012336,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.ec37f00ec9cb4803ac9c71bb60012336
+2026-11-12T02:09:32.4Z,E2E.EmbeddedIconJpeg.9b34c1292c5c4ad4a278f9711980ed13,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.9b34c1292c5c4ad4a278f9711980ed13
+2026-11-12T02:09:32.703Z,E2E.LicenseFile.eaf850964f6a4ff08b45df5c4c6b3e6a,1.0.0,EndToEndTests,Description of E2E.LicenseFile.eaf850964f6a4ff08b45df5c4c6b3e6a
+2026-11-12T02:09:41.65Z,E2E.SymbolsPackage.b1f3717ac2594d348ef8cabe095fca6b,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.b1f3717ac2594d348ef8cabe095fca6b
+2026-11-12T02:09:43.503Z,E2E.DotnetTool.e2ba67de0d0a449f8971952882a71fde,1.0.0,E2E.DotnetTool,Package Description
+2026-11-12T02:10:36.003Z,E2E.SemVer1Stable.3df649969b3b4907943640091ca0c539,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.3df649969b3b4907943640091ca0c539
+2026-11-12T02:10:36.18Z,E2E.EmbeddedIconJpeg.ee219e0aa929488b9294ba00549de59f,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.ee219e0aa929488b9294ba00549de59f
+2026-11-12T02:10:36.313Z,E2E.LicenseExpression.fd9d31cf103f4dbdb18ada97a25c5bd5,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.fd9d31cf103f4dbdb18ada97a25c5bd5
+2026-11-12T02:10:36.46Z,E2E.LicenseUrl.7658b4b5ed174480b63d640cffc89ab1,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.7658b4b5ed174480b63d640cffc89ab1
+2026-11-12T02:10:36.53Z,E2E.EmbeddedIconPng.d50949ed6fa54cbd90e5060fdf88d59b,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.d50949ed6fa54cbd90e5060fdf88d59b
+2026-11-12T02:10:36.55Z,E2E.FullValidation.fc5438e357044f5f9968bf8de1f45d00,1.0.0,EndToEndTests,Description of E2E.FullValidation.fc5438e357044f5f9968bf8de1f45d00
+2026-11-12T02:10:37.073Z,E2E.Deprecated.fbd0b6e2d3a24c8a8d5b9faea4a1b605,1.0.0,EndToEndTests,Description of E2E.Deprecated.fbd0b6e2d3a24c8a8d5b9faea4a1b605
+2026-11-12T02:10:37.08Z,E2E.EmbeddedReadmeFile.9deadd74acca48a3b47adaa2e2ff06cb,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.9deadd74acca48a3b47adaa2e2ff06cb
+2026-11-12T02:10:37.437Z,E2E.LicenseFile.1c314a70a1544574a8fe39d04221f95b,1.0.0,EndToEndTests,Description of E2E.LicenseFile.1c314a70a1544574a8fe39d04221f95b
+2026-11-12T02:10:49.65Z,E2E.SymbolsPackage.c08ef61576d54177a2909feb49a02e5c,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.c08ef61576d54177a2909feb49a02e5c
+2026-11-12T02:10:50.807Z,E2E.DotnetTool.f770aba8106f44319711facebb2995c6,1.0.0,E2E.DotnetTool,Package Description
+2026-11-12T02:11:07.68Z,AquaCulture.AI,1.0.0,Gravicode Studios (Kang Fadhil),"Aquaculture AI: growth, mortality, disease and harvest prediction, feed optimisation policy, ML.NET and ONNX Runtime backends and an LLM aquaculture agent with grounded tool calls."
+2026-11-12T02:11:08.41Z,AquaCulture.ComputerVision,1.0.0,Gravicode Studios (Kang Fadhil),"Computer vision for aquaculture: YOLO/ONNX detection with NMS, shrimp and fish disease detection (WSSV, EMS, EHP, gill disease, fin rot, ulcer), counting and length/weight estimation, OpenCvSharp interop."
+2026-11-12T02:11:09.19Z,AquaCulture.StockAssessment,1.0.0,Gravicode Studios (Kang Fadhil),"Fisheries stock assessment inspired by FLR, FSA and TropFishR: Schaefer/Fox surplus production, Beverton–Holt, yield per recruit, MSY, length-based methods and Kobe status."
+2026-11-12T02:11:09.89Z,AquaCulture.Feeding,1.0.0,Gravicode Studios (Kang Fadhil),"Feed management: FCR, species feeding tables, meal schedules, feed cost analysis, least-cost feed selection and blending, auto-feeding recommendations."
+2026-11-12T02:11:10.72Z,AquaCulture.Native,1.0.0,Gravicode Studios (Kang Fadhil),"Native (Rust) high-performance kernels for AquaCulture.Net: advection-diffusion, water chemistry batches, statistics and Monte-Carlo growth, with an automatic managed fallback."
+2026-11-12T02:11:17.55Z,AquaCulture.Forecasting,1.0.0,Gravicode Studios (Kang Fadhil),"Forecasting: Holt, Holt–Winters, AR (Yule–Walker), dawn dissolved-oxygen crash forecast and Monte-Carlo harvest forecasting (P10/P50/P90)."
+2026-11-12T02:11:18.333Z,AquaCulture.WaterQuality,1.0.0,Gravicode Studios (Kang Fadhil),"Water quality for aquaculture: 15 parameters, unionized ammonia, DO saturation, species-aware WQI and CCME index, alert engine and recommendation engine."
+2026-11-12T02:11:19.083Z,AquaCulture.DigitalTwin,1.0.0,Gravicode Studios (Kang Fadhil),"Real-time digital pond and farm twin: sensors, biomass, water quality, feed consumption, disease status and weather impact with explained decisions and what-if simulation."
+2026-11-12T02:11:19.873Z,AquaCulture.Blazor,1.0.0,Gravicode Studios (Kang Fadhil),"Blazor UI components for AquaCulture.Net: PondMap, WaterChart, FeedScheduler, SensorGrid, GISViewer, DigitalTwinViewer (Three.js 3D pond), gauges and KPI cards."
+2026-11-12T02:11:20.557Z,AquaCulture.Growth,1.0.0,Gravicode Studios (Kang Fadhil),"AquaGrowth engine: TGC, von Bertalanffy and Gompertz models with temperature/DO/ammonia/density modifiers, daily cycle simulation, biomass, mortality, harvest date and yield prediction."
+2026-11-12T02:11:21.26Z,AquaCulture.Population,1.0.0,Gravicode Studios (Kang Fadhil),"Population dynamics: recruitment (Beverton–Holt, Ricker), mortality, spawning, migration, harvest, predation (Holling II) and Leslie matrix projection."
+2026-11-12T02:11:21.907Z,AquaCulture.IoT,1.0.0,Gravicode Studios (Kang Fadhil),"Aquaculture IoT: devices (ESP32, ESP8266, Arduino, Raspberry Pi, PLC), MQTT, LoRaWAN (Cayenne LPP), Modbus RTU/TCP, REST and OPC-UA mapping, edge analytics and sensor simulation."
+2026-11-12T02:11:22.62Z,AquaCulture.Visualization,1.0.0,Gravicode Studios (Kang Fadhil),"UI-agnostic visualisation: colour maps, PNG encoder, SVG charts (line, bar, gauge, heatmap) and pond/farm maps."
+2026-11-12T02:11:23.25Z,AquaCulture.Core,1.0.0,Gravicode Studios (Kang Fadhil),"AquaCulture.Net core: species database, farm/pond/cycle domain model, units, statistics, time series, geo types, optimisation, DI and event bus."
+2026-11-12T02:11:23.92Z,AquaCulture.Disease,1.0.0,Gravicode Studios (Kang Fadhil),"Aquaculture disease knowledge base (WSSV, AHPND/EMS, EHP, IMNV, gill disease, fin rot, ulcer, streptococcosis, TiLV…), Bayesian symptom diagnosis and environmental risk."
+2026-11-12T02:11:24.687Z,AquaCulture.Templates,1.0.0,Gravicode Studios (Kang Fadhil),"dotnet new templates for AquaCulture.Net: console pond advisor, Blazor farm dashboard, IoT edge gateway (MQTT + digital twin) and Avalonia desktop pond monitor. Made by Gravicode Studios, led by Kang Fadhil."
+2026-11-12T02:11:25.303Z,AquaCulture.Hydrodynamic,1.0.0,Gravicode Studios (Kang Fadhil),"Hydrodynamic and mass-balance simulation: 2-D advection–diffusion of oxygen, temperature and waste, paddle-wheel/river/tidal flows, sedimentation, pond oxygen budget and RAS mass balance."
+2026-11-12T02:11:26.073Z,AquaCulture.Analytics,1.0.0,Gravicode Studios (Kang Fadhil),"Aquaculture analytics: FCR, SR, ABW, ADG, SGR, biomass, productivity, profit, mortality and Water Health Index KPIs, cycle economics and benchmarking."
+2026-11-12T02:11:26.8Z,AquaCulture.Reporting,1.0.0,Gravicode Studios (Kang Fadhil),"Reporting: Excel (XLSX), PDF, Word (DOCX), CSV, JSON, HTML and Markdown writers with no external dependencies, plus GAP, CBIB, ASC and BAP compliance audits."
+2026-11-12T02:11:27.497Z,AquaCulture.Environment,1.0.0,Gravicode Studios (Kang Fadhil),"Environment and weather: observations, Open-Meteo client, deterministic tropical weather generator, weather impact predictor and climate risk analysis for ponds, cages and RAS."
+2026-11-12T02:11:28.14Z,AquaCulture.GIS,1.0.0,Gravicode Studios (Kang Fadhil),"Aquaculture GIS: farm/pond/sensor mapping, GeoJSON, IDW interpolation, water source analysis, D8 drainage mapping, NetTopologySuite and ProjNet interop."
+2026-11-12T02:12:37.123Z,E2E.LicenseUrl.2dec6679aa5f4b29bc1819116e13348e,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.2dec6679aa5f4b29bc1819116e13348e
+2026-11-12T02:12:37.903Z,E2E.EmbeddedIconJpeg.99d26bcbf7764fc3803929c3f56f994c,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.99d26bcbf7764fc3803929c3f56f994c
+2026-11-12T02:12:38.943Z,E2E.EmbeddedIconPng.9e4878bbf7884e0099a9485654445c53,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.9e4878bbf7884e0099a9485654445c53
+2026-11-12T02:12:38.94Z,E2E.SemVer1Stable.3a334da666bb43869f38a2dd45efa76b,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.3a334da666bb43869f38a2dd45efa76b
+2026-11-12T02:12:38.957Z,E2E.LicenseFile.7662e0273cf847cda5193a47dcb42962,1.0.0,EndToEndTests,Description of E2E.LicenseFile.7662e0273cf847cda5193a47dcb42962
+2026-11-12T02:12:52.6Z,E2E.SymbolsPackage.45b44d030822423dbc94bcedc04a347d,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.45b44d030822423dbc94bcedc04a347d
