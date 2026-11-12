@@ -12,25 +12,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:20 UTC
+## Latest list — 2026-11-12 15:19 UTC
 
-New packages created between 2026-11-12 13:21 UTC and 2026-11-12 14:20 UTC.
+New packages created between 2026-11-12 14:20 UTC and 2026-11-12 15:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T14-20-49-223344Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T15-19-29-555109Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 13:22:16 | [AppWeaver.Spec.Foundation.DotNet.VerticalSlice](https://www.nuget.org/packages/AppWeaver.Spec.Foundation.DotNet.VerticalSlice) | 1.0.0 | Bytestrone India Private Limi… | AppWeaver foundation pack: Vertical Slice (CQRS / Fast Endpoints) (dotnet-webap… |
-| 2026-11-12 13:27:49 | [WinUia.Recording](https://www.nuget.org/packages/WinUia.Recording) | 0.3.1 | Buning Software | Record the screen while a Windows UI test runs, using ffmpeg. Optional companio… |
-| 2026-11-12 13:32:24 | [HoneyDrunk.Memory.Providers.Data](https://www.nuget.org/packages/HoneyDrunk.Memory.Providers.Data) | 0.2.0 | HoneyDrunk Studios | Durable HoneyDrunk agent-memory store over HoneyDrunk.Data's Entity Framework l… |
-| 2026-11-12 13:40:35 | [Prahelika.Calculators](https://www.nuget.org/packages/Prahelika.Calculators) | 0.0.1-alpha | Prahelika Dutta (PD) | A calculator library for .NET with basic, scientific and finance calculators. |
-| 2026-11-12 13:45:28 | [Google.Apis.MyBusinessBusinessInformation.v1alpha](https://www.nuget.org/packages/Google.Apis.MyBusinessBusinessInformation.v1alpha) | 1.78.0.4329 | Google LLC | Google APIs Client Library for working with Mybusinessbusinessinformation v1alp… |
-| 2026-11-12 13:52:55 | [Snail.MCP.Playwright](https://www.nuget.org/packages/Snail.MCP.Playwright) | 0.1.0 | orldev | MCP server that lets AI agents search the web and read pages through a real bro… |
-| 2026-11-12 13:55:42 | [UnambitiousFx.Synapse.Authorization](https://www.nuget.org/packages/UnambitiousFx.Synapse.Authorization) | 2.9.0 | UnambitiousFx | Authorization for UnambitiousFx.Synapse: actor, role, scope and resource behavi… |
-| 2026-11-12 13:59:38 | [Ekom.U19](https://www.nuget.org/packages/Ekom.U19) | 1.1.0 | Vettvangur | Ekom - E-Commerce solution for Umbraco 19+ |
-| 2026-11-12 13:59:45 | [Ekom.Web.U19](https://www.nuget.org/packages/Ekom.Web.U19) | 1.1.0 | Vettvangur | Ekom Web assets for Umbraco 19. |
-| 2026-11-12 14:08:14 | [Tesserae.A2UI](https://www.nuget.org/packages/Tesserae.A2UI) | 26.11.7978 | Curiosity GmbH | Tesserae.A2UI renders A2UI (Agent-to-User Interface) v1.0 messages as a live Te… |
-| 2026-11-12 14:14:02 | [VisioForge.CrossPlatform.OpenCV.Linux.arm64](https://www.nuget.org/packages/VisioForge.CrossPlatform.OpenCV.Linux.arm64) | 2026.11.12.2 | VisioForge | OpenCV computer vision libraries package for VisioForge .NET SDKs. Enables adva… |
+| 2026-11-12 14:20:57 | [Umbraco.Community.RazorSearch.Examine](https://www.nuget.org/packages/Umbraco.Community.RazorSearch.Examine) | 19.0.0-beta01 | Soren Kottal | Examine provider companion package for Umbraco.Community.RazorSearch. |
+| 2026-11-12 14:23:20 | [Com.Nkkinsoft.Android.Lottie](https://www.nuget.org/packages/Com.Nkkinsoft.Android.Lottie) | 6.7.2 | Martijn van Dijk, nkkinsoft | Lottie Android binding for .NET (nkkinsoft fork) — Render After Effects animati… |
+| 2026-11-12 14:24:56 | [Ekom.Mailchimp.U19](https://www.nuget.org/packages/Ekom.Mailchimp.U19) | 1.6.0 | Vettvangur | Mailchimp integration for Ekom on Umbraco 19. |
+| 2026-11-12 14:32:51 | [Orkeon](https://www.nuget.org/packages/Orkeon) | 1.0.0 | Orkeon Contributors | AI agent teams that stay inside the lines, in .NET: every file, endpoint and bu… |
+| 2026-11-12 14:32:52 | [Orkeon.Tools](https://www.nuget.org/packages/Orkeon.Tools) | 1.0.0 | Orkeon Contributors | The built-in tool families for Orkeon agents in one package: file system, web a… |
+| 2026-11-12 14:32:52 | [Orkeon.Rag.Onnx](https://www.nuget.org/packages/Orkeon.Rag.Onnx) | 1.0.0 | Orkeon Contributors | Opt-in ONNX cross-encoder reranker for the Orkeon RAG pipeline (ms-marco-MiniLM… |
+| 2026-11-12 14:32:54 | [Orkeon.Rag.Onnx.Model](https://www.nuget.org/packages/Orkeon.Rag.Onnx.Model) | 1.0.0 | Orkeon Contributors | Embedded ms-marco-MiniLM-L-6-v2 cross-encoder weights (int8 ONNX, Apache-2.0) f… |
+| 2026-11-12 14:32:54 | [Orkeon.Tools.Embeddings.Local](https://www.nuget.org/packages/Orkeon.Tools.Embeddings.Local) | 1.0.0 | Orkeon Contributors | Opt-in local on-device embeddings for Orkeon (SmartComponents BGE-micro-v2 ONNX… |
+| 2026-11-12 14:32:55 | [Orkeon.Constants.Cli](https://www.nuget.org/packages/Orkeon.Constants.Cli) | 1.0.0 | Orkeon Contributors | Shared CLI vocabulary for Orkeon: the option names the runners accept and the t… |
+| 2026-11-12 14:32:56 | [Orkeon.Scripting](https://www.nuget.org/packages/Orkeon.Scripting) | 1.0.0 | Orkeon Contributors | Run Orkeon crews written in the TypeScript DSL (crew.ork.ts) inside a .NET appl… |
+| 2026-11-12 14:33:04 | [Orkeon.Scripting.Cli](https://www.nuget.org/packages/Orkeon.Scripting.Cli) | 1.0.0 | Orkeon Contributors | Command-line entrypoint for Orkeon crews: `orkeon run <crew.ork.ts \| crew.yaml>… |
+| 2026-11-12 14:33:05 | [Orkeon.Compliance.Vfs](https://www.nuget.org/packages/Orkeon.Compliance.Vfs) | 1.0.0 | Orkeon Contributors | Roslyn analyzer that forbids direct System.IO usage in Orkeon framework code. R… |
+| 2026-11-12 14:33:05 | [Orkeon.Interop.AgentFramework](https://www.nuget.org/packages/Orkeon.Interop.AgentFramework) | 1.0.0 | Orkeon Contributors | Microsoft Agent Framework interop for Orkeon: run an Orkeon crew as an AIAgent,… |
+| 2026-11-12 14:33:06 | [Orkeon.Hosting.Aspire](https://www.nuget.org/packages/Orkeon.Hosting.Aspire) | 1.0.0 | Orkeon Contributors | .NET Aspire hosting integration for Orkeon: add the orkeon-host service daemon… |
+| 2026-11-12 14:33:07 | [Orkeon.Cli.Abstractions](https://www.nuget.org/packages/Orkeon.Cli.Abstractions) | 1.0.0 | Orkeon Contributors | Pure contracts for Orkeon interactive runners and command registries. |
+| 2026-11-12 14:33:08 | [Orkeon.Cli.TerminalGui](https://www.nuget.org/packages/Orkeon.Cli.TerminalGui) | 1.0.0 | Orkeon Contributors | Terminal.Gui v2 split-pane console (REPL + dedicated logs pane) for Orkeon inte… |
+| 2026-11-12 14:33:08 | [Orkeon.Templates](https://www.nuget.org/packages/Orkeon.Templates) | 1.0.0 | Orkeon Contributors | dotnet new templates for Orkeon: orkeon-host (a generic host that runs a crew),… |
+| 2026-11-12 14:47:44 | [LibSmb](https://www.nuget.org/packages/LibSmb) | 0.1.0 | fiddyschmitt | An SMB 2/3 file server in pure C# (dialects 2.0.2 to 3.0.2, NTLMv2 or guest, si… |
+| 2026-11-12 14:50:04 | [GHIElectronics.Endpoint.Drivers.HiLetgo.ILI9341](https://www.nuget.org/packages/GHIElectronics.Endpoint.Drivers.HiLetgo.ILI9341) | 0.5.3-preview | GHI Electronics, LLC | The HiLetgo ILI9341 SPI display driver for Endpoint. |
+| 2026-11-12 14:50:05 | [GHIElectronics.Endpoint.Drivers.SinoWealth.SH110x](https://www.nuget.org/packages/GHIElectronics.Endpoint.Drivers.SinoWealth.SH110x) | 0.5.3-preview | GHI Electronics, LLC | The SinoWealth SH1106 / SH1107 I2C OLED display driver for Endpoint. |
+| 2026-11-12 14:50:06 | [GHIElectronics.Endpoint.Drivers.SolomonSystech.SSD1306](https://www.nuget.org/packages/GHIElectronics.Endpoint.Drivers.SolomonSystech.SSD1306) | 0.5.3-preview | GHI Electronics, LLC | The Solomon Systech SSD1306 I2C OLED display driver for Endpoint. |
+| 2026-11-12 14:50:30 | [VL.Project](https://www.nuget.org/packages/VL.Project) | 0.3.0-alpha | BILDWERK | A collection of VL nodes and helpers for vvvv gamma by BILDWERK. Alpha pre-rele… |
+| 2026-11-12 14:54:27 | [Tubatools.AtkHub](https://www.nuget.org/packages/Tubatools.AtkHub) | 0.5.0 | Thomas | ATK / VXE 外设配置中心：灯效、改键、DPI、性能、配置档案，深度集成图吧工具箱。 |
+| 2026-11-12 15:03:50 | [Packvium](https://www.nuget.org/packages/Packvium) | 1.0.0 | Anton Kara | Deterministic 3D cartonization and rectangular bin packing with exact integer g… |
+| 2026-11-12 15:11:44 | [Senparc.Xncf.Connectors](https://www.nuget.org/packages/Senparc.Xncf.Connectors) | 0.1.0 | Senparc | NCF 连接器：保存外部工具账号，并提供给 Chat、Workflow 与 Agent 模板。 |
+| 2026-11-12 15:11:47 | [Senparc.Xncf.Connectors.Abstractions](https://www.nuget.org/packages/Senparc.Xncf.Connectors.Abstractions) | 0.1.0 | Senparc | NCF 连接器契约：外部工具的描述、配置字段、动作和 Agent 授权。 |
+| 2026-11-12 15:12:19 | [JJConsulting.Fluxer.Client](https://www.nuget.org/packages/JJConsulting.Fluxer.Client) | 0.1.0 | JJConsulting | Typed .NET client for Fluxer identity and Admin REST APIs. |
 
 ## Data source
 
