@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-12T11:29:27.393Z,AVCoders.SignalR.Audit,2026.11.1,AV Coders,"SignalR hub filter that audits every state-changing hub call with the calling panel's IP, user agent and hostname."
+2026-11-12T11:29:27.927Z,AVCoders.SignalR.Connections,2026.11.1,AV Coders,"Connection tracking and unknown-group reporting shared by the AV Coders SignalR hubs: open connections per group, a logged and reported error for a group nothing is registered for, and a snapshot for health pages."
+2026-11-12T11:39:28.85Z,Tubatools.NexBoxSkin,1.0.1,图吧工具箱,NexBox 风格主界面皮肤：工具、硬件、优化、显示滤镜与三角洲专区；默认开启
+2026-11-12T11:39:35.443Z,JT2Any,2.0.0,TunerDav,"Local, managed JT tessellation conversion to GLB (glTF 2.0) and binary STL, with selectable LOD quality, normal smoothing and embedded Parasolid extraction. Targets .NET 10."
+2026-11-12T11:41:27.263Z,Umbraco.Cms.Search.Extension.FileToText,19.0.0-rc1,Umbraco,"Extends Umbraco Search with indexing of the text contents of files (such as PDF, Markdown and text files) referenced by file properties (such as file upload and image cropper properties)."
+2026-11-12T11:49:00.747Z,NtvLibs.cuda13.nvrtc-builtins64_135.runtime.json,13.5.0,nietras,native library meta package
+2026-11-12T11:49:03.097Z,NtvLibs.cuda13.nvrtc-builtins64_135.runtime.win-x64,13.5.0,nietras,native library runtime specific package
+2026-11-12T11:49:50.583Z,CopybookKit,0.1.0,muffindonor,"Reads mainframe data files in .NET. Parses a COBOL copybook at run time and decodes EBCDIC text, zoned decimal, COMP-3 packed decimal and binary fields, including REDEFINES, OCCURS and OCCURS DEPENDING ON. No dependencies."
+2026-11-12T11:49:51.167Z,CopybookKit.Tool,0.1.0,muffindonor,"Command-line tool that converts mainframe data files to JSON Lines or CSV using a COBOL copybook. Handles EBCDIC, COMP-3, REDEFINES and OCCURS DEPENDING ON."
+2026-11-12T11:50:05.327Z,TrendyolClient.Sharp,2.0.0,bberka,"TrendyolClient.Sharp is a simple Trendyol API Client for C# for .NET 8, .NET 9 and .NET 10."
+2026-11-12T11:59:49.387Z,Poshteh.Core.Calendar,10.0.3,Poshteh,Dependency-free Jalali (Persian) calendar display helpers. Storage and logic stay Gregorian/UTC.
+2026-11-12T12:06:15.633Z,Co.Revington.Sightline,0.1.0,Ravindu Wijegunawardhana,"A live, editable map of a .NET solution. See projects, packages, types, dependency injection, HTTP endpoints and the flow behind each request in one page that updates while you edit."

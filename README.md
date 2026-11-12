@@ -12,36 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:21 UTC
+## Latest list — 2026-11-12 12:21 UTC
 
-New packages created between 2026-11-12 10:20 UTC and 2026-11-12 11:21 UTC.
+New packages created between 2026-11-12 11:21 UTC and 2026-11-12 12:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T11-21-51-373697Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T12-21-37-962235Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 10:21:22 | [Lib.ExternalIntegrations](https://www.nuget.org/packages/Lib.ExternalIntegrations) | 1.0.0 | JewelSteps | Enterprise ERP and external business integration library for .NET 10. Provides… |
-| 2026-11-12 10:21:56 | [Uno.CommunityToolkit.WinUI.UI](https://www.nuget.org/packages/Uno.CommunityToolkit.WinUI.UI) | 7.2.0 | nventive | This library provides various common UI helpers. It is a part of the Windows Co… |
-| 2026-11-12 10:21:58 | [Uno.CommunityToolkit.WinUI.UI.Behaviors](https://www.nuget.org/packages/Uno.CommunityToolkit.WinUI.UI.Behaviors) | 7.2.0 | nventive | This library provides UI behaviors built on the XAML behaviors SDK. It is a par… |
-| 2026-11-12 10:23:58 | [Arbeidstilsynet.Saksarkiv.Client](https://www.nuget.org/packages/Arbeidstilsynet.Saksarkiv.Client) | 0.1.0 | Arbeidstilsynet | Generated Saksarkivtjeneste API client (v2 and v3) with dependency injection, r… |
-| 2026-11-12 10:25:40 | [MrHutt.AlfenModbusLib](https://www.nuget.org/packages/MrHutt.AlfenModbusLib) | 1.0.0 | MrHutt | Modbus TCP client library for Alfen EV chargers |
-| 2026-11-12 10:26:06 | [Fuaran.DB](https://www.nuget.org/packages/Fuaran.DB) | 0.1.0 | Andrew J. Willshire | Fuaran.DB — the dataset model: a typed, default-deny tree of what a data source… |
-| 2026-11-12 10:26:10 | [Fuaran.DB.Conformance](https://www.nuget.org/packages/Fuaran.DB.Conformance) | 0.1.0 | Andrew J. Willshire | Fuaran.DB.Conformance — the parity kit a dialect is certified with: a seed sche… |
-| 2026-11-12 10:26:10 | [Fuaran.DB.Dialect.PostgreSql](https://www.nuget.org/packages/Fuaran.DB.Dialect.PostgreSql) | 0.1.0 | Andrew J. Willshire | Fuaran.DB.Dialect.PostgreSql — the PostgreSQL dialect of the Fuaran.DB provider… |
-| 2026-11-12 10:26:11 | [Fuaran.DB.Dialect.SqlServer](https://www.nuget.org/packages/Fuaran.DB.Dialect.SqlServer) | 0.1.0 | Andrew J. Willshire | Fuaran.DB.Dialect.SqlServer — the SQL Server (T-SQL) dialect of the Fuaran.DB p… |
-| 2026-11-12 10:26:12 | [Fuaran.DB.Provider](https://www.nuget.org/packages/Fuaran.DB.Provider) | 0.1.0 | Andrew J. Willshire | Fuaran.DB.Provider — a pure function from a dataset model, a dialect, a transfo… |
-| 2026-11-12 10:26:13 | [Fuaran.DB.Session](https://www.nuget.org/packages/Fuaran.DB.Session) | 0.1.0 | Andrew J. Willshire | Fuaran.DB.Session — the connection record: what passed over a connection as a h… |
-| 2026-11-12 10:34:16 | [Remnawave.Client](https://www.nuget.org/packages/Remnawave.Client) | 3.4.10 | Remnawave .NET contributors | Strongly-typed, trimming/AOT-friendly .NET client for the Remnawave panel API,… |
-| 2026-11-12 10:35:22 | [OffTheRails.Result.AspNetCore](https://www.nuget.org/packages/OffTheRails.Result.AspNetCore) | 0.1.0 | Dylan de Beer | ASP.NET Core integration for OffTheRails.Result: turns results into HTTP respon… |
-| 2026-11-12 10:35:23 | [OffTheRails.Result](https://www.nuget.org/packages/OffTheRails.Result) | 0.1.0 | Dylan de Beer | A small, extensible Result pattern for .NET: allocation-free success-or-error v… |
-| 2026-11-12 10:43:26 | [saasus-sdk-csharp](https://www.nuget.org/packages/saasus-sdk-csharp) | 1.13.18 | Anti-Pattern Inc. | SaaS SDK for C# applications |
-| 2026-11-12 10:52:26 | [Sdlc.Planner](https://www.nuget.org/packages/Sdlc.Planner) | 1.0.0 | Daniel Vella | Sdlc.Planner AI harness: Copilot agents, instructions and docs templates (requi… |
-| 2026-11-12 11:01:18 | [MusselDiagram](https://www.nuget.org/packages/MusselDiagram) | 0.1.0 | machi_pon | Diagram editor for Blazor with typed nodes, ports, links and groups, drawn as S… |
-| 2026-11-12 11:02:55 | [fsharp-ballast](https://www.nuget.org/packages/fsharp-ballast) | 0.1.0 | William Bergqvist | Measures Abstractness, Instability, Distance from the Main Sequence and effectf… |
-| 2026-11-12 11:03:27 | [TheBuilder.DeliveryApiInspector](https://www.nuget.org/packages/TheBuilder.DeliveryApiInspector) | 0.2.0 | Daniel Schmidt | An API tab on every document and media item with the JSON the Umbraco Delivery… |
-| 2026-11-12 11:07:57 | [SantosAlfred.Messenger.EncryptedTerminal](https://www.nuget.org/packages/SantosAlfred.Messenger.EncryptedTerminal) | 1.0.0 | Alfred Ivan Santos | Messenger file-based terminal that stores every message AES-encrypted on disk,… |
-| 2026-11-12 11:08:51 | [SwaggerPetstoreOpenApi310](https://www.nuget.org/packages/SwaggerPetstoreOpenApi310) | 1.0.1 | mehnoorsiddiqui | .NET SDK for the Swagger Petstore - OpenAPI 3.1.0 REST API. |
-| 2026-11-12 11:09:26 | [LS.ExeContainer](https://www.nuget.org/packages/LS.ExeContainer) | 1.0.0 | Rotion | ExeContainer WPF |
+| 2026-11-12 11:29:27 | [AVCoders.SignalR.Audit](https://www.nuget.org/packages/AVCoders.SignalR.Audit) | 2026.11.1 | AV Coders | SignalR hub filter that audits every state-changing hub call with the calling p… |
+| 2026-11-12 11:29:27 | [AVCoders.SignalR.Connections](https://www.nuget.org/packages/AVCoders.SignalR.Connections) | 2026.11.1 | AV Coders | Connection tracking and unknown-group reporting shared by the AV Coders SignalR… |
+| 2026-11-12 11:39:28 | [Tubatools.NexBoxSkin](https://www.nuget.org/packages/Tubatools.NexBoxSkin) | 1.0.1 | 图吧工具箱 | NexBox 风格主界面皮肤：工具、硬件、优化、显示滤镜与三角洲专区；默认开启 |
+| 2026-11-12 11:39:35 | [JT2Any](https://www.nuget.org/packages/JT2Any) | 2.0.0 | TunerDav | Local, managed JT tessellation conversion to GLB (glTF 2.0) and binary STL, wit… |
+| 2026-11-12 11:41:27 | [Umbraco.Cms.Search.Extension.FileToText](https://www.nuget.org/packages/Umbraco.Cms.Search.Extension.FileToText) | 19.0.0-rc1 | Umbraco | Extends Umbraco Search with indexing of the text contents of files (such as PDF… |
+| 2026-11-12 11:49:00 | [NtvLibs.cuda13.nvrtc-builtins64_135.runtime.json](https://www.nuget.org/packages/NtvLibs.cuda13.nvrtc-builtins64_135.runtime.json) | 13.5.0 | nietras | native library meta package |
+| 2026-11-12 11:49:03 | [NtvLibs.cuda13.nvrtc-builtins64_135.runtime.win-x64](https://www.nuget.org/packages/NtvLibs.cuda13.nvrtc-builtins64_135.runtime.win-x64) | 13.5.0 | nietras | native library runtime specific package |
+| 2026-11-12 11:49:50 | [CopybookKit](https://www.nuget.org/packages/CopybookKit) | 0.1.0 | muffindonor | Reads mainframe data files in .NET. Parses a COBOL copybook at run time and dec… |
+| 2026-11-12 11:49:51 | [CopybookKit.Tool](https://www.nuget.org/packages/CopybookKit.Tool) | 0.1.0 | muffindonor | Command-line tool that converts mainframe data files to JSON Lines or CSV using… |
+| 2026-11-12 11:50:05 | [TrendyolClient.Sharp](https://www.nuget.org/packages/TrendyolClient.Sharp) | 2.0.0 | bberka | TrendyolClient.Sharp is a simple Trendyol API Client for C# for .NET 8, .NET 9… |
+| 2026-11-12 11:59:49 | [Poshteh.Core.Calendar](https://www.nuget.org/packages/Poshteh.Core.Calendar) | 10.0.3 | Poshteh | Dependency-free Jalali (Persian) calendar display helpers. Storage and logic st… |
+| 2026-11-12 12:06:15 | [Co.Revington.Sightline](https://www.nuget.org/packages/Co.Revington.Sightline) | 0.1.0 | Ravindu Wijegunawardhana | A live, editable map of a .NET solution. See projects, packages, types, depende… |
 
 ## Data source
 
