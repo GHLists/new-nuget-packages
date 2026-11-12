@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-12T02:29:44.347Z,TL.LiteCore.Template,1.0.0,Thaylon Lopes,"Template corporativo .NET 9 para APIs RESTful síncronas, CRUDs transacionais diretos e BFFs com Minimal APIs, Result Pattern e SQLite."
+2026-11-12T02:37:57.06Z,DTZero,2.0.0,Keith Voels,"Zero DTOs. A 3-tier client/server data mapper for .NET domain models, powered by Roslyn source generators."
+2026-11-12T02:37:58.04Z,DTZero.AspNetCore,2.0.0,Keith Voels,Zero DTOs. ASP.NET Core server library for DTZero.
+2026-11-12T03:00:43.683Z,KinTN.ASRS.SMD.Business.Head.Interfaces,1.0.0,KinTN,料仓仓头程序（SiloHead）业务扩展接口：入库扫码校验（IVerifyCanStockIn）、第三方完成反馈（IFeedbackNotifier）、条码解码与料盘尺寸识别（IBarcodeDecoder）、作业中间件（IBusinessMiddleware）。实现方编译为 DLL 后经仓头程序「接口配置」导入热加载。
+2026-11-12T03:01:43.98Z,KinTN.ASRS.SMD.UI.Head.Interfaces,1.0.0,KinTN,料仓仓头程序（SiloHead）UI 扩展接口（Avalonia）：主界面入库/出库按钮自定义动作（IInboundAction/IOutboundAction，默认实现为串杆/出库单选择弹框）。实现方编译为 DLL 后经仓头程序「接口配置」导入热加载。
