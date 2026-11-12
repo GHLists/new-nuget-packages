@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-12T04:22:02.047Z,Skail.Cli,0.1.0,Skail,"The Skail CLI: create, run and inspect durable Skail workloads. `skail init --template usd-quote --lang cs` creates a project from the Skail examples."
+2026-11-12T04:22:10.157Z,Universal.Apache.Parquet,1.0.0,Andrew Ong,Managed Apache Parquet file reading and writing.
+2026-11-12T04:25:36.347Z,SuperSemantics.Vsl,0.1.1,Super Semantics,"Framework-agnostic VSL governance primitives (PreNode, Invariant, TerminalState, Cluster) and a hash-chained audit ledger for .NET. A port of vsl-core; ledger hashes match the Python package byte for byte."
+2026-11-12T04:32:58.473Z,OhAuthCat,0.0.2,OhAuthCat,OhAuthCat server SDK: enterprise SSO and SCIM directory sync.
+2026-11-12T04:52:27.737Z,VeliraPay,0.1.0,VeliraPay,"The official .NET library for VeliraPay crypto payments (https://velirapay.com): charges, payment links, invoices, coupons, payouts, events and webhook verification, with no dependencies. API reference: https://velirapay.com/docs"
+2026-11-12T04:54:53.673Z,AquaCulture.AI.Torch,1.2.0,Gravicode Studios (Kang Fadhil),LSTM dissolved-oxygen forecaster for AquaCulture.Net on TorchSharp (libtorch). Add a backend package such as TorchSharp-cpu or TorchSharp-cuda-windows to your app.
+2026-11-12T04:54:54.447Z,AquaCulture.ComputerVision.MediaPipe,1.2.0,Gravicode Studios (Kang Fadhil),"Fish and shrimp length and weight from photos and video with MediaPipe's MagicTouch interactive segmenter (MediaPipeNet): one tap per animal, principal-axis length, measuring-board scale, species length–weight."
+2026-11-12T05:04:03.863Z,NTComponents.Analyzers,2.0.0,NT Technologies,Roslyn analyzers that validate NTComponents usage and accessibility at build time.
+2026-11-12T05:13:44.24Z,Arbitrator,0.7.0,Dylan de Beer,"A small, opinionated, in-process mediator: typed request dispatch to exactly one handler through a single, ordered pipeline, and notifications published to any number of handlers in registration order, using Microsoft.Extensions.DependencyInjection scopes."

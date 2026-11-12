@@ -12,27 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 04:19 UTC
+## Latest list — 2026-11-12 05:20 UTC
 
-New packages created between 2026-11-12 03:20 UTC and 2026-11-12 04:19 UTC.
+New packages created between 2026-11-12 04:19 UTC and 2026-11-12 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T04-19-37-150082Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T05-20-41-73523Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 03:25:30 | [SourceGenerators.Shared](https://www.nuget.org/packages/SourceGenerators.Shared) | 1.0.0 | 何镇汐 | 源生成器共享源码包 |
-| 2026-11-12 03:33:51 | [AquaCulture.GIS.Gdal](https://www.nuget.org/packages/AquaCulture.GIS.Gdal) | 1.1.0 | Gravicode Studios (Kang Fadhi… | GDAL raster I/O for AquaCulture.Net (GeoTIFF and 200+ formats via Gravicode.GDA… |
-| 2026-11-12 03:33:54 | [AquaCulture.IoT.OpcUa](https://www.nuget.org/packages/AquaCulture.IoT.OpcUa) | 1.1.0 | Gravicode Studios (Kang Fadhi… | OPC UA for AquaCulture.Net over the OPC Foundation .NET Standard stack: an IOpc… |
-| 2026-11-12 03:33:56 | [AquaCulture.Data](https://www.nuget.org/packages/AquaCulture.Data) | 1.1.0 | Gravicode Studios (Kang Fadhi… | Persistence for AquaCulture.Net: EF Core / SQLite store for farms, culture cycl… |
-| 2026-11-12 03:38:00 | [Patware.PingTrace.Adapter.RedisCache](https://www.nuget.org/packages/Patware.PingTrace.Adapter.RedisCache) | 0.3.1 | Patware | Redis ping diagnostics through a registered IConnectionMultiplexer. |
-| 2026-11-12 03:42:45 | [Juice.Observability.Slos](https://www.nuget.org/packages/Juice.Observability.Slos) | 1.2.0 | Creatorflow.io | Juice Observability: discovery, health, rules and alerts over OpenTelemetry for… |
-| 2026-11-12 03:42:46 | [Juice.Observability.Agents](https://www.nuget.org/packages/Juice.Observability.Agents) | 1.2.0 | Creatorflow.io | Juice Observability agent control plane: enrollment, mTLS agent identity, revoc… |
-| 2026-11-12 03:42:46 | [Juice.Observability.Agent](https://www.nuget.org/packages/Juice.Observability.Agent) | 1.2.0 | Creatorflow.io | Juice Agent: a host's outbound, mTLS agent for Juice Observability. Reference i… |
-| 2026-11-12 03:42:47 | [Juice.Observability.Agent.Contracts](https://www.nuget.org/packages/Juice.Observability.Agent.Contracts) | 1.2.0 | Creatorflow.io | Juice Observability agent contracts: signed command envelopes, typed read-only… |
-| 2026-11-12 03:49:47 | [Atct.Sso](https://www.nuget.org/packages/Atct.Sso) | 1.0.1 | Atct | Shared Casdoor OIDC SSO protocol and flow library for Atct systems. |
-| 2026-11-12 04:05:09 | [Cike.Localization](https://www.nuget.org/packages/Cike.Localization) | 1.0.13 | Lemon.Li | Package Description |
-| 2026-11-12 04:11:19 | [Zue.PhoneticAnnotator.Cli](https://www.nuget.org/packages/Zue.PhoneticAnnotator.Cli) | 0.2.0 | danzuep | Multi-language phonetic annotation (pinyin, Jyutping, furigana, Arabic tashkeel… |
-| 2026-11-12 04:11:22 | [Zue.Unihan](https://www.nuget.org/packages/Zue.Unihan) | 0.2.0 | danzuep | Multi-language phonetic annotation (pinyin, Jyutping, furigana, Arabic tashkeel… |
+| 2026-11-12 04:22:02 | [Skail.Cli](https://www.nuget.org/packages/Skail.Cli) | 0.1.0 | Skail | The Skail CLI: create, run and inspect durable Skail workloads. `skail init --t… |
+| 2026-11-12 04:22:10 | [Universal.Apache.Parquet](https://www.nuget.org/packages/Universal.Apache.Parquet) | 1.0.0 | Andrew Ong | Managed Apache Parquet file reading and writing. |
+| 2026-11-12 04:25:36 | [SuperSemantics.Vsl](https://www.nuget.org/packages/SuperSemantics.Vsl) | 0.1.1 | Super Semantics | Framework-agnostic VSL governance primitives (PreNode, Invariant, TerminalState… |
+| 2026-11-12 04:32:58 | [OhAuthCat](https://www.nuget.org/packages/OhAuthCat) | 0.0.2 | OhAuthCat | OhAuthCat server SDK: enterprise SSO and SCIM directory sync. |
+| 2026-11-12 04:52:27 | [VeliraPay](https://www.nuget.org/packages/VeliraPay) | 0.1.0 | VeliraPay | The official .NET library for VeliraPay crypto payments (https://velirapay.com)… |
+| 2026-11-12 04:54:53 | [AquaCulture.AI.Torch](https://www.nuget.org/packages/AquaCulture.AI.Torch) | 1.2.0 | Gravicode Studios (Kang Fadhi… | LSTM dissolved-oxygen forecaster for AquaCulture.Net on TorchSharp (libtorch).… |
+| 2026-11-12 04:54:54 | [AquaCulture.ComputerVision.MediaPipe](https://www.nuget.org/packages/AquaCulture.ComputerVision.MediaPipe) | 1.2.0 | Gravicode Studios (Kang Fadhi… | Fish and shrimp length and weight from photos and video with MediaPipe's MagicT… |
+| 2026-11-12 05:04:03 | [NTComponents.Analyzers](https://www.nuget.org/packages/NTComponents.Analyzers) | 2.0.0 | NT Technologies | Roslyn analyzers that validate NTComponents usage and accessibility at build ti… |
+| 2026-11-12 05:13:44 | [Arbitrator](https://www.nuget.org/packages/Arbitrator) | 0.7.0 | Dylan de Beer | A small, opinionated, in-process mediator: typed request dispatch to exactly on… |
 
 ## Data source
 
