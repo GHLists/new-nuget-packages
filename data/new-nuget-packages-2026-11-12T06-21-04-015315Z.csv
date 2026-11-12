@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-12T05:28:22.727Z,Maxine.LibOpenMPT.NET,0.8.10,Xpl0itR,"A mostly source-generated, blittable bindings library wrapping libopenmpt using ClangSharp's PInvokeGenerator and csbindgen's GroupedNativeMethodsGenerator, targeting .NET 8.0, 10.0 and .NET Standard 2.0"
+2026-11-12T05:45:33.95Z,M.Simple.Logging,1.0.1.2,Mr.MingOuyang,Lightweight SQLite logging and embedded dashboard for ASP.NET Core.
+2026-11-12T05:47:18.483Z,CliqtoMedia.Apify,1.0.0,Cliqto Media,"Run any Apify Actor from C# and get its dataset items in one call. Ready Actor names for Reddit, YouTube transcripts, Trustpilot reviews, Amazon, Google Search, Indeed, Zillow, Booking.com and more. Typed results with System.Text.Json, cost caps, timeout with abort, no extra dependencies."
+2026-11-12T05:47:45.95Z,Exchange56.ApiProxy,1.0.0,T.J. McNaboe,Proxy client requests to Exchange56 Apis.
+2026-11-12T05:52:45.313Z,CentralLogging.Client,1.0.1,Sumit Sahani,"Client SDK for the Centralized Logging System: buffered, batched, gzip-compressed log shipping with local-file fallback, a Serilog sink and a Microsoft.Extensions.Logging provider."
+2026-11-12T05:52:51.947Z,ETG.IAM.Auth,1.1.0,ETG,"Drop-in IAM authentication for ASP.NET Core APIs (.NET 8+). Validates accessToken|ClientId reference tokens and service API keys via IAM ValidateAll, hydrates ClaimsPrincipal / IIamCurrentUser, caches decisions in-memory, supports GraphQL, and can auto-register claims."
+2026-11-12T05:54:51.45Z,Cron.DevToys,1.0.0,Cron,Cron expression generator with Chinese description and next-run preview.
