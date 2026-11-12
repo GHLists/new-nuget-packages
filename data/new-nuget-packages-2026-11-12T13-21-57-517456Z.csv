@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-12T12:32:12.007Z,Ceejay.Connect,0.1.0,Community Studios,"The CEEJAY Connect client for C# games: link a player to their Discord account, and show the community's quests, shop, locker, rank and daily reward in the game."
+2026-11-12T12:32:50.833Z,Ceejay,0.1.0,Community Studios,"Call the CEEJAY API from your C# server, and verify the webhooks and shop deliveries CEEJAY sends you."
+2026-11-12T12:41:07.857Z,Vettvangur.AiChat,1.0.0,Vettvangur,"Pluggable AI chat engine, streaming endpoint and conversation log for Umbraco sites."
+2026-11-12T12:55:56.967Z,Umbraco.Community.GoatCounter,0.0.1,Andy Cross,"GoatCounter analytics for Umbraco: a backoffice dashboard, a Views tab on every page, and first-party page-view counting through your own site so blockers don't hide your visitors."
+2026-11-12T13:00:15.453Z,Dora.Shared.Security,1.0.4,Hwx,Package Description
+2026-11-12T13:00:30.28Z,Dora.Shared.Hosting,1.0.4,Hwx,Package Description
+2026-11-12T13:01:08.45Z,FlashCsv,1.0.0,jetonpeche,"Ultra high-performance, zero-allocation CSV parser, streamer, and serializer for .NET. 100% Native AOT compatible with compile-time Roslyn Source Generators and SIMD acceleration."
+2026-11-12T13:04:48.897Z,EAC.Plugin.EntraRegistration,0.1.0,Eternet,Optional Microsoft Entra app registration and localhost redirect guidance for EAC.
+2026-11-12T13:14:49.803Z,Bitwarden.Server.Sdk.Service.Abstractions,0.1.0,Bitwarden Inc.,How a package configures every Bitwarden service that references it.
