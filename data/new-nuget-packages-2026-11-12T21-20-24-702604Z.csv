@@ -1,0 +1,34 @@
+created_at,package,version,authors,description
+2026-11-12T20:38:49.44Z,CertificateStoreCredential,1.0.0,Gijs Walraven,"A TokenCredential for an Entra ID service principal that authenticates with a client certificate from the Windows certificate store, including certificates with a non-exportable private key. Set AZURE_TENANT_ID and AZURE_CLIENT_ID and name the certificate after the client ID: no thumbprint, no secr…"
+2026-11-12T20:41:13.667Z,QueryBuilder.Launch,1.0.0,Nagendra Chinnam,Signs the launch token and renders the auto-submitting form that sends a user from your app to a QueryBuilder hub. No dependencies; works from .NET Framework 4.7.2+ and modern .NET.
+2026-11-12T20:44:04.157Z,Webority.Webhooks.Admin,0.18.0,Webority Technologies,"Staff admin pages for Webority.Webhooks: the delivery log of outbound webhooks across customers, each customer's endpoints, one delivery with its attempts, and replay, test ping, disable and activate."
+2026-11-12T20:56:10.557Z,G4.Plugins.MongoDb,2026.11.12.166,G4™ API Community,"The G4.Plugins.MongoDb package provides a collection of plugins for querying, aggregating, writing, importing, and collecting data with MongoDB within the G4 automation ecosystem, built on the official MongoDB .NET driver."
+2026-11-12T20:57:11.347Z,G9AIAssistant.Abstractions,1.0.0,Iman Kari,"Contracts of the G9 AI assistant library: ports, records, the model protocol, run events and display blocks. No dependencies."
+2026-11-12T20:57:23.037Z,G9AIAssistant.Adapters.ExtensionsAI,1.0.0,Iman Kari,Microsoft.Extensions.AI adapter for the G9 AI assistant: any IChatClient as the assistant's model.
+2026-11-12T20:57:33.197Z,G9AIAssistant.AspNetCore,1.0.0,Iman Kari,"ASP.NET Core hosting for the G9 AI assistant: endpoints, the run worker, the loopback door, dry runs and the app API."
+2026-11-12T20:57:51.26Z,G9AIAssistant.Core,1.0.0,Iman Kari,"The G9 AI assistant engine: the model-free ladder, runs, tools and skills, access control, change control, guards, learning and usage."
+2026-11-12T20:58:02.7Z,G9AIAssistant.Documents,1.0.0,Iman Kari,"Files and documents for the G9 AI assistant: PDF and spreadsheet intake, conversation transcripts and document models."
+2026-11-12T20:58:16.803Z,G9AIAssistant.Gate,1.0.0,Iman Kari,"External gate for the G9 AI assistant: an MCP server (Streamable HTTP, several protocol revisions) and its REST twin."
+2026-11-12T20:58:18.36Z,IntelligenceX.Ledger.Contracts,0.1.0,Przemyslaw Klys,Typed Ledger contracts and authenticated HTTP clients for shared work state and scoped coordination.
+2026-11-12T20:58:53.637Z,G9AIAssistant.Gateway,1.0.0,Iman Kari,"OpenAI-compatible AI gateway for the G9 AI assistant: virtual keys, backends, aliases, failover, sessions and usage."
+2026-11-12T20:59:26.99Z,G9AIAssistant.McpClient,1.0.0,Iman Kari,MCP client for the G9 AI assistant: connect to other MCP servers and bring their tools into the registry.
+2026-11-12T21:00:04.11Z,FlyleafLib.Plugins.YTDLP,2.0.1,SuRGeoNix,"yt-dlp media playback plugin for FlyleafLib, with optional Chrome/Brave browser cookie integration"
+2026-11-12T21:00:50.517Z,fretje.NET.Sdk,1.0.0,"Meziantou,fretje",fretje SDK for .NET projects
+2026-11-12T21:00:51.603Z,fretje.NET.Sdk.BlazorWebAssembly,1.0.0,"Meziantou,fretje",fretje SDK for .NET projects
+2026-11-12T21:00:52.84Z,fretje.NET.Sdk.Razor,1.0.0,"Meziantou,fretje",fretje SDK for .NET projects
+2026-11-12T21:00:54.61Z,fretje.NET.Sdk.Test,1.0.0,"Meziantou,fretje",fretje SDK for .NET projects
+2026-11-12T21:00:55.7Z,fretje.NET.Sdk.Web,1.0.0,"Meziantou,fretje",fretje SDK for .NET projects
+2026-11-12T21:00:56.847Z,fretje.NET.Sdk.WindowsDesktop,1.0.0,"Meziantou,fretje",fretje SDK for .NET projects
+2026-11-12T21:01:23.05Z,G9AIAssistant.Store.PostgreSql,1.0.0,Iman Kari,"PostgreSQL store for the G9 AI assistant (plain ADO, row-level security, versioned migrations)."
+2026-11-12T21:01:37.4Z,G9AIAssistant.Store.Sqlite,1.0.0,Iman Kari,"SQLite store for the G9 AI assistant (plain ADO, versioned migrations)."
+2026-11-12T21:01:53.52Z,G9AIAssistant.Testing,1.0.0,Iman Kari,"Test kit for hosts of the G9 AI assistant: a scripted model, recorded cassettes and ready conformance, budget and security tests."
+2026-11-12T21:02:52.38Z,G9AIAssistant.SourceGenerators,1.0.0,Iman Kari,"Source generator for G9 AI assistant tools: typed tool descriptors, JSON Schemas and input readers from [AssistantTool] methods, with no reflection."
+2026-11-12T21:03:03.457Z,PLUSManaged,5.25.4.1,SoftwareKey,"The .NET API for the Protection PLUS 5 SDK: software licensing, online and offline activation, system identification, network floating licenses and license file encryption, working with SOLO Server. Contains .NET Framework 4.0 and .NET Standard 2.0 builds, with IntelliSense documentation."
+2026-11-12T21:03:34.15Z,LsMsgPack.Data,2026.11.12.1,Louis Somers,"Rows of an ADO.NET data reader as MsgPack without a class in between (result sets and table dumps as LsMsgPack streams, with an index for files), dumps read back as a DbDataReader (e.g. for SqlBulkCopy), and rows into objects."
+2026-11-12T21:03:41.1Z,LsMsgPackDebug,2026.11.12.1,Louis Somers,"MessagePack (MsgPack) serializer for .NET classes that also gives you the tree of MsgPack items of any payload, to inspect MsgPack data even without the classes. Writes and reads the same data as LsMsgPack, the much faster package to use when you only need to serialize."
+2026-11-12T21:08:30.843Z,twinsphere.Dcc,0.1.0,conplement AG,Experimental utilities for converting Digital Calibration Certificates (DCC) to the AAS Digital Quality Documents submodel.
+2026-11-12T21:12:59.323Z,RecursiveAI.OneGpu.Metal,1.0.0,"Recursive AI, LLC","Metal backend for onegpu on macOS (Apple silicon), with no native binaries."
+2026-11-12T21:12:59.65Z,RecursiveAI.OneGpu.WebGpu,1.0.0,"Recursive AI, LLC",WebGPU backend for onegpu in the browser (.NET WebAssembly).
+2026-11-12T21:12:59.913Z,RecursiveAI.OneGpu.Backends,1.0.0,"Recursive AI, LLC","Picks the onegpu backend for the platform: Metal on Apple, WebGPU in a browser, Vulkan elsewhere."
+2026-11-12T21:13:00.32Z,RecursiveAI.OneGpu.Vulkan,1.0.0,"Recursive AI, LLC","Vulkan 1.3 backend for onegpu on Windows and Linux, with no native binaries."
+2026-11-12T21:13:00.953Z,RecursiveAI.OneGpu.Kernels,1.0.0,"Recursive AI, LLC","HLSL compute kernels for machine-learning inference on Vulkan, Metal and WebGPU: GEMM, attention, convolution and more."
