@@ -1,0 +1,32 @@
+created_at,package,version,authors,description
+2026-11-12T16:20:42.75Z,AnointedAutomation.Concepts.Anthropic,1.0.0,"Anointed Automation Corporation, Alexander Fields","Optional adapter for AnointedAutomation.Concepts: implements the ILanguageModel port with Claude through the official Anthropic .NET SDK, with structured JSON replies, typed errors and bounded retries."
+2026-11-12T16:23:53.627Z,Mufiy,0.0.4,Larks X,"Mufiy is an open-source C # cross platform UI framework that uses C# and design methods similar to winforms to create desktop and mobile applications. Using Mufiy, you can develop apps that can run on Android, iOS, linux, macOS, and Windows from a single shared codebase."
+2026-11-12T16:24:31.377Z,Mufiy.Desktop.CEFWebView,0.156.1,Larks X,"Mufiy is an open-source C # cross platform UI framework that uses C# and design methods similar to winforms to create desktop and mobile applications. Using Mufiy, you can develop apps that can run on Android, iOS, linux, macOS, and Windows from a single shared codebase."
+2026-11-12T16:24:58.687Z,Mufiy.Desktop.NativeWebView,0.0.4,Larks X,"Mufiy is an open-source C # cross platform UI framework that uses C# and design methods similar to winforms to create desktop and mobile applications. Using Mufiy, you can develop apps that can run on Android, iOS, linux, macOS, and Windows from a single shared codebase."
+2026-11-12T16:25:44.693Z,Mufiy.Fonts,0.0.4,Larks X,"Default fallback fonts for the Mufiy framework (Arimo, MiSansVF, Noto Color Emoji). Arimo is a metric-compatible open replacement for Arial. Referenced by Mufiy project templates; copied to Assets/Fonts on build."
+2026-11-12T16:26:02.527Z,Mufiy.Platform.Android.Provider,0.0.4,Larks X,"Mufiy is an open-source C # cross platform UI framework that uses C# and design methods similar to winforms to create desktop and mobile applications. Using Mufiy, you can develop apps that can run on Android, iOS, linux, macOS, and Windows from a single shared codebase."
+2026-11-12T16:26:19.373Z,Mufiy.Platform.Desktop.Provider,0.0.4,Larks X,"Mufiy is an open-source C # cross platform UI framework that uses C# and design methods similar to winforms to create desktop and mobile applications. Using Mufiy, you can develop apps that can run on Android, iOS, linux, macOS, and Windows from a single shared codebase."
+2026-11-12T16:26:44.57Z,Mufiy.Platform.WASM.Provider,0.0.4,Larks X,SkiaSharp for ASP.NET Blazor is a set of views that can be used to draw on the screen.
+2026-11-12T16:27:02.78Z,Mufiy.ResxAotSupport,0.0.4,Larks X,"Mufiy resource AOT adaptation: (1) generates the ResxMap base64 table and three resource-manager shims from resx at build time, and (2) strips custom-typed resource nodes from .resx copies in AOT / trimmed builds. Formerly shipped as Mufiy.ResxMapGenerator.NoDependencies."
+2026-11-12T16:27:25.287Z,Mufiy.SourceGenerator,0.0.4,Larks X,"Mufiy source generator: MXAML compiler, binding accessors and MVVM property/command generation in one analyzer package."
+2026-11-12T16:28:09.63Z,Mufiy.Templates,0.0.4,Larks X,Mufiy 应用模板（dotnet new）：仅用于 VS Code、JetBrains Rider 与命令行（.NET CLI）。Visual Studio 请改用 Mufiy Designer 扩展（VSIX）内置的模板。
+2026-11-12T16:28:26.91Z,Mufiy.Xaml,0.0.4,Larks X,"Mufiy is an open-source C # cross platform UI framework that uses C# and design methods similar to winforms to create desktop and mobile applications. Using Mufiy, you can develop apps that can run on Android, iOS, linux, macOS, and Windows from a single shared codebase."
+2026-11-12T16:28:47.977Z,Audacia.CodeAnalysis.Analyzers.AspNetCore,2.1.0,Audacia,This is a set of custom Roslyn analyzers specifically for AspNet Core projects.
+2026-11-12T16:28:50.13Z,Audacia.CodeAnalysis.Analyzers.TestProjects,2.1.0,Audacia,This is a set of custom Roslyn analyzers specifically for test projects.
+2026-11-12T16:29:28.1Z,Mufiy.SDL,3.4.18,Mufiy and Contributors,Package Description
+2026-11-12T16:29:51.077Z,Mufiy.SDL.Net6,3.4.18,Mufiy and Contributors,Package Description
+2026-11-12T16:38:55.017Z,Stella.ContratoIntegracao,1.0.0,Thiago Araújo,Contratos de integração entre os módulos do Stella
+2026-11-12T16:45:33.5Z,Snail.MCP.FileSystem.any,0.1.0,orldev,"Local MCP server that lets AI agents read, write and search the files of the working copy a session names, and nothing outside it."
+2026-11-12T16:45:35.157Z,Snail.MCP.FileSystem.linux-arm64,0.1.0,orldev,"Local MCP server that lets AI agents read, write and search the files of the working copy a session names, and nothing outside it."
+2026-11-12T16:45:36.733Z,Snail.MCP.FileSystem.linux-x64,0.1.0,orldev,"Local MCP server that lets AI agents read, write and search the files of the working copy a session names, and nothing outside it."
+2026-11-12T16:45:38.233Z,Snail.MCP.FileSystem.osx-arm64,0.1.0,orldev,"Local MCP server that lets AI agents read, write and search the files of the working copy a session names, and nothing outside it."
+2026-11-12T16:45:39.633Z,Snail.MCP.FileSystem.win-x64,0.1.0,orldev,"Local MCP server that lets AI agents read, write and search the files of the working copy a session names, and nothing outside it."
+2026-11-12T16:45:40.577Z,Snail.MCP.FileSystem,0.1.0,orldev,"Local MCP server that lets AI agents read, write and search the files of the working copy a session names, and nothing outside it."
+2026-11-12T16:49:16.637Z,FreeAstroApi.Sdk,0.1.0,FreeAstroAPI,"Official .NET client for FreeAstroAPI: Western natal charts, transits, progressions, synastry and astrocartography; Vedic charts, dashas and panchang; Chinese BaZi; numerology; horoscopes; Moon phases and ephemerides."
+2026-11-12T16:54:35.977Z,BrighterTools.Cms.Collections,0.1.0,Brighter Tools Ltd,"Reusable listed-content and structured-page contracts, publishing transitions and rich-text validation. Persistence and authorization belong to the host."
+2026-11-12T17:01:24.42Z,VictoriousSecret.Cli,0.1.0,VictoriousSecret.Cli,CLI for Victorious Secret repository scanning.
+2026-11-12T17:01:40.41Z,NetApiFlow.Mcp,0.2.0,Douglas Lima,Package Description
+2026-11-12T17:01:41.827Z,NetApiFlow.OpenTelemetry,0.2.0,Douglas Lima,Package Description
+2026-11-12T17:05:48.137Z,Breakdance.Claude,9.0.0,CloudNimble,Package Description
+2026-11-12T17:07:54.56Z,CompuMaster.MsPowerPointComInterop,1.0.2026.1112,CompuMaster GmbH,Microsoft PowerPoint COM automation with process-scoped diagnostic log management.
+2026-11-12T17:07:55.263Z,CompuMaster.MsWordComInterop,1.0.2026.1112,CompuMaster GmbH,Microsoft Word COM automation with process-scoped diagnostic log management.

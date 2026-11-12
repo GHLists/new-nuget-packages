@@ -12,48 +12,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 16:19 UTC
+## Latest list — 2026-11-12 17:20 UTC
 
-New packages created between 2026-11-12 15:19 UTC and 2026-11-12 16:19 UTC.
+New packages created between 2026-11-12 16:19 UTC and 2026-11-12 17:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T16-19-59-238601Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T17-20-54-486584Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 15:21:25 | [Ranvier.AutoComplete](https://www.nuget.org/packages/Ranvier.AutoComplete) | 0.1.0 | shayanhabibi | Demand-driven declaration-incremental F# language server CLI tool (`ranvierauto… |
-| 2026-11-12 15:24:56 | [Javier.StudentGrades.StreamArchiver](https://www.nuget.org/packages/Javier.StudentGrades.StreamArchiver) | 1.0.0 | Javier.StudentGrades.StreamAr… | Package Description |
-| 2026-11-12 15:30:30 | [DbAiTest.Core](https://www.nuget.org/packages/DbAiTest.Core) | 0.4.0 | dbaitest | Engine-agnostic core for database integration test harnesses: container lifecyc… |
-| 2026-11-12 15:30:31 | [DbAiTest.MSTest](https://www.nuget.org/packages/DbAiTest.MSTest) | 0.4.0 | dbaitest | MSTest integration for DbAiTest: a base class that shares one container per eng… |
-| 2026-11-12 15:30:32 | [DbAiTest.PostgreSql](https://www.nuget.org/packages/DbAiTest.PostgreSql) | 0.4.0 | dbaitest | PostgreSQL engine for DbAiTest: container lifecycle, dollar-quote-safe schema a… |
-| 2026-11-12 15:30:33 | [DbAiTest.Cli](https://www.nuget.org/packages/DbAiTest.Cli) | 0.4.0 | dbaitest | Command line front end for DbAiTest: start a container, apply a schema, report… |
-| 2026-11-12 15:30:34 | [DbAiTest.MsSql](https://www.nuget.org/packages/DbAiTest.MsSql) | 0.4.0 | dbaitest | SQL Server engine for DbAiTest: container lifecycle, GO-batch schema applicatio… |
-| 2026-11-12 15:30:35 | [DbAiTest.MySql](https://www.nuget.org/packages/DbAiTest.MySql) | 0.4.0 | dbaitest | MySQL engine for DbAiTest: container lifecycle, DELIMITER-aware schema applicat… |
-| 2026-11-12 15:30:36 | [DbAiTest.MsSql.Dacpac](https://www.nuget.org/packages/DbAiTest.MsSql.Dacpac) | 0.4.0 | dbaitest | Deploys a SQL Server .dacpac (an SSDT / Microsoft.Build.Sql database project) i… |
-| 2026-11-12 15:31:43 | [BozForge.DiAudit](https://www.nuget.org/packages/BozForge.DiAudit) | 0.1.0 | Hüseyin Bozdemir | Find unused and shadowed dependency injection registrations in a unit test. Wal… |
-| 2026-11-12 15:31:43 | [BozForge.DiAudit.AspNetCore](https://www.nuget.org/packages/BozForge.DiAudit.AspNetCore) | 0.1.0 | Hüseyin Bozdemir | ASP.NET Core integration for BozForge.DiAudit. Takes the real service collectio… |
-| 2026-11-12 15:33:43 | [Nova.Avalonia.Foldable](https://www.nuget.org/packages/Nova.Avalonia.Foldable) | 1.0.0 | Javier Suárez Ruiz | Foldable support for Avalonia on iOS (iPhone Duo) and Android: posture, hinge a… |
-| 2026-11-12 15:33:44 | [Nova.Avalonia.Foldable.Simulator](https://www.nuget.org/packages/Nova.Avalonia.Foldable.Simulator) | 1.0.0 | Javier Suárez Ruiz | A desktop window that simulates the iPhone Duo for Nova.Avalonia.Foldable apps:… |
-| 2026-11-12 15:33:48 | [twinsphere.Dcc.Schema](https://www.nuget.org/packages/twinsphere.Dcc.Schema) | 0.1.0 | conplement AG | DCC 3.3.0 schemas, generated XML types and schema validation. |
-| 2026-11-12 15:46:38 | [Cratis.Showrunner.Payments.Mollie](https://www.nuget.org/packages/Cratis.Showrunner.Payments.Mollie) | 2.1.0 | Cratis | Mollie for Showrunner Payments: the payment provider contract implemented again… |
-| 2026-11-12 15:46:38 | [Cratis.Showrunner.Payments](https://www.nuget.org/packages/Cratis.Showrunner.Payments) | 2.1.0 | Cratis | Payments — the Showrunner payment part for applications: a provider-neutral con… |
-| 2026-11-12 15:48:19 | [Helix.Blazor](https://www.nuget.org/packages/Helix.Blazor) | 0.1.1 | arflisch | Clean, modern Blazor components where every visual part is a parameter: buttons… |
-| 2026-11-12 15:48:20 | [Helix.Wpf](https://www.nuget.org/packages/Helix.Wpf) | 0.1.1 | arflisch | Clean, modern WPF controls where every visual part is a property: buttons, fiel… |
-| 2026-11-12 15:50:36 | [Houtamelo.Spire.Functional](https://www.nuget.org/packages/Houtamelo.Spire.Functional) | 6.0.0 | houtamelo | Functional programming utilities built on Houtamelo.Spire. |
-| 2026-11-12 15:51:02 | [WhatfixMAUI.Android.Logging](https://www.nuget.org/packages/WhatfixMAUI.Android.Logging) | 2.3.0 | Whatfix | Whatfix MAUI Android logging library |
-| 2026-11-12 15:51:03 | [WhatfixMAUI.Android.Observer](https://www.nuget.org/packages/WhatfixMAUI.Android.Observer) | 2.3.0 | Whatfix | Whatfix MAUI Android observer library |
-| 2026-11-12 15:51:04 | [WhatfixMAUI.Android.FetchHierarchy](https://www.nuget.org/packages/WhatfixMAUI.Android.FetchHierarchy) | 2.3.0 | Whatfix | Whatfix MAUI Android fetch-hierarchy library |
-| 2026-11-12 15:51:05 | [WhatfixMAUI.Android.Core](https://www.nuget.org/packages/WhatfixMAUI.Android.Core) | 2.3.0 | Whatfix | Whatfix MAUI Android core library |
-| 2026-11-12 15:52:59 | [Sondor.Results](https://www.nuget.org/packages/Sondor.Results) | 0.1.0 | Sondor Dev | Failures as values: Result, Result<T> and Error, with stable Area.Reason codes… |
-| 2026-11-12 15:57:01 | [PdfNetStack.Hyphenation](https://www.nuget.org/packages/PdfNetStack.Hyphenation) | 1.2.0 | Jamal Abdelkhalek, JADEV | Hyphenation patterns for PdfNetStack paragraphs and PdfNetStack.Html's hyphens:… |
-| 2026-11-12 15:57:02 | [PdfNetStack.Ocr.Tesseract](https://www.nuget.org/packages/PdfNetStack.Ocr.Tesseract) | 1.2.0 | Jamal Abdelkhalek, JADEV | An IOcrEngine for PdfNetStack.Ocr that runs an installed tesseract executable,… |
-| 2026-11-12 16:01:52 | [AquaCulture.Hatchery](https://www.nuget.org/packages/AquaCulture.Hatchery) | 2.0.0 | Gravicode Studios (Kang Fadhi… | Shrimp hatchery management for AquaCulture.Net: broodstock registry with SPF/PC… |
-| 2026-11-12 16:01:55 | [AquaCulture.Traceability](https://www.nuget.org/packages/AquaCulture.Traceability) | 2.0.0 | Gravicode Studios (Kang Fadhi… | Traceability for AquaCulture.Net: GS1 identifiers (GTIN, GLN, SSCC, Digital Lin… |
-| 2026-11-12 16:02:06 | [AquaCulture.Esg](https://www.nuget.org/packages/AquaCulture.Esg) | 2.0.0 | Gravicode Studios (Kang Fadhi… | ESG accounting for AquaCulture.Net: greenhouse gases (feed, electricity, diesel… |
-| 2026-11-12 16:02:07 | [AquaCulture.Operations](https://www.nuget.org/packages/AquaCulture.Operations) | 2.0.0 | Gravicode Studios (Kang Fadhi… | Farm ERP for AquaCulture.Net: lot-tracked inventory (FEFO, expiry, valuation, r… |
-| 2026-11-12 16:10:12 | [KaizenTicketing.SkillEmbed](https://www.nuget.org/packages/KaizenTicketing.SkillEmbed) | 0.1.0 | Kaizen Ticketing Solutions LTD | Ship an agent skill inside a .NET command line: detect the AI coding agents on… |
-| 2026-11-12 16:11:36 | [Skyline.DataMiner.ConnectorAPI.NevionVideoiPath](https://www.nuget.org/packages/Skyline.DataMiner.ConnectorAPI.NevionVideoiPath) | 1.0.0.5-beta | SkylineCommunications | InterApp messages and a client/server pair to communicate with the Nevion Video… |
-| 2026-11-12 16:12:07 | [Sendio](https://www.nuget.org/packages/Sendio) | 1.0.0 | send.io | Official .NET SDK for the send.io email API: send, batch, retrieve and schedule… |
-| 2026-11-12 16:12:15 | [Sendio.Webhooks](https://www.nuget.org/packages/Sendio.Webhooks) | 1.0.0 | send.io | ASP.NET utilities for send.io webhook events |
+| 2026-11-12 16:20:42 | [AnointedAutomation.Concepts.Anthropic](https://www.nuget.org/packages/AnointedAutomation.Concepts.Anthropic) | 1.0.0 | Anointed Automation Corporati… | Optional adapter for AnointedAutomation.Concepts: implements the ILanguageModel… |
+| 2026-11-12 16:23:53 | [Mufiy](https://www.nuget.org/packages/Mufiy) | 0.0.4 | Larks X | Mufiy is an open-source C # cross platform UI framework that uses C# and design… |
+| 2026-11-12 16:24:31 | [Mufiy.Desktop.CEFWebView](https://www.nuget.org/packages/Mufiy.Desktop.CEFWebView) | 0.156.1 | Larks X | Mufiy is an open-source C # cross platform UI framework that uses C# and design… |
+| 2026-11-12 16:24:58 | [Mufiy.Desktop.NativeWebView](https://www.nuget.org/packages/Mufiy.Desktop.NativeWebView) | 0.0.4 | Larks X | Mufiy is an open-source C # cross platform UI framework that uses C# and design… |
+| 2026-11-12 16:25:44 | [Mufiy.Fonts](https://www.nuget.org/packages/Mufiy.Fonts) | 0.0.4 | Larks X | Default fallback fonts for the Mufiy framework (Arimo, MiSansVF, Noto Color Emo… |
+| 2026-11-12 16:26:02 | [Mufiy.Platform.Android.Provider](https://www.nuget.org/packages/Mufiy.Platform.Android.Provider) | 0.0.4 | Larks X | Mufiy is an open-source C # cross platform UI framework that uses C# and design… |
+| 2026-11-12 16:26:19 | [Mufiy.Platform.Desktop.Provider](https://www.nuget.org/packages/Mufiy.Platform.Desktop.Provider) | 0.0.4 | Larks X | Mufiy is an open-source C # cross platform UI framework that uses C# and design… |
+| 2026-11-12 16:26:44 | [Mufiy.Platform.WASM.Provider](https://www.nuget.org/packages/Mufiy.Platform.WASM.Provider) | 0.0.4 | Larks X | SkiaSharp for ASP.NET Blazor is a set of views that can be used to draw on the… |
+| 2026-11-12 16:27:02 | [Mufiy.ResxAotSupport](https://www.nuget.org/packages/Mufiy.ResxAotSupport) | 0.0.4 | Larks X | Mufiy resource AOT adaptation: (1) generates the ResxMap base64 table and three… |
+| 2026-11-12 16:27:25 | [Mufiy.SourceGenerator](https://www.nuget.org/packages/Mufiy.SourceGenerator) | 0.0.4 | Larks X | Mufiy source generator: MXAML compiler, binding accessors and MVVM property/com… |
+| 2026-11-12 16:28:09 | [Mufiy.Templates](https://www.nuget.org/packages/Mufiy.Templates) | 0.0.4 | Larks X | Mufiy 应用模板（dotnet new）：仅用于 VS Code、JetBrains Rider 与命令行（.NET CLI）。Visual Studio… |
+| 2026-11-12 16:28:26 | [Mufiy.Xaml](https://www.nuget.org/packages/Mufiy.Xaml) | 0.0.4 | Larks X | Mufiy is an open-source C # cross platform UI framework that uses C# and design… |
+| 2026-11-12 16:28:47 | [Audacia.CodeAnalysis.Analyzers.AspNetCore](https://www.nuget.org/packages/Audacia.CodeAnalysis.Analyzers.AspNetCore) | 2.1.0 | Audacia | This is a set of custom Roslyn analyzers specifically for AspNet Core projects. |
+| 2026-11-12 16:28:50 | [Audacia.CodeAnalysis.Analyzers.TestProjects](https://www.nuget.org/packages/Audacia.CodeAnalysis.Analyzers.TestProjects) | 2.1.0 | Audacia | This is a set of custom Roslyn analyzers specifically for test projects. |
+| 2026-11-12 16:29:28 | [Mufiy.SDL](https://www.nuget.org/packages/Mufiy.SDL) | 3.4.18 | Mufiy and Contributors | Package Description |
+| 2026-11-12 16:29:51 | [Mufiy.SDL.Net6](https://www.nuget.org/packages/Mufiy.SDL.Net6) | 3.4.18 | Mufiy and Contributors | Package Description |
+| 2026-11-12 16:38:55 | [Stella.ContratoIntegracao](https://www.nuget.org/packages/Stella.ContratoIntegracao) | 1.0.0 | Thiago Araújo | Contratos de integração entre os módulos do Stella |
+| 2026-11-12 16:45:33 | [Snail.MCP.FileSystem.any](https://www.nuget.org/packages/Snail.MCP.FileSystem.any) | 0.1.0 | orldev | Local MCP server that lets AI agents read, write and search the files of the wo… |
+| 2026-11-12 16:45:35 | [Snail.MCP.FileSystem.linux-arm64](https://www.nuget.org/packages/Snail.MCP.FileSystem.linux-arm64) | 0.1.0 | orldev | Local MCP server that lets AI agents read, write and search the files of the wo… |
+| 2026-11-12 16:45:36 | [Snail.MCP.FileSystem.linux-x64](https://www.nuget.org/packages/Snail.MCP.FileSystem.linux-x64) | 0.1.0 | orldev | Local MCP server that lets AI agents read, write and search the files of the wo… |
+| 2026-11-12 16:45:38 | [Snail.MCP.FileSystem.osx-arm64](https://www.nuget.org/packages/Snail.MCP.FileSystem.osx-arm64) | 0.1.0 | orldev | Local MCP server that lets AI agents read, write and search the files of the wo… |
+| 2026-11-12 16:45:39 | [Snail.MCP.FileSystem.win-x64](https://www.nuget.org/packages/Snail.MCP.FileSystem.win-x64) | 0.1.0 | orldev | Local MCP server that lets AI agents read, write and search the files of the wo… |
+| 2026-11-12 16:45:40 | [Snail.MCP.FileSystem](https://www.nuget.org/packages/Snail.MCP.FileSystem) | 0.1.0 | orldev | Local MCP server that lets AI agents read, write and search the files of the wo… |
+| 2026-11-12 16:49:16 | [FreeAstroApi.Sdk](https://www.nuget.org/packages/FreeAstroApi.Sdk) | 0.1.0 | FreeAstroAPI | Official .NET client for FreeAstroAPI: Western natal charts, transits, progress… |
+| 2026-11-12 16:54:35 | [BrighterTools.Cms.Collections](https://www.nuget.org/packages/BrighterTools.Cms.Collections) | 0.1.0 | Brighter Tools Ltd | Reusable listed-content and structured-page contracts, publishing transitions a… |
+| 2026-11-12 17:01:24 | [VictoriousSecret.Cli](https://www.nuget.org/packages/VictoriousSecret.Cli) | 0.1.0 | VictoriousSecret.Cli | CLI for Victorious Secret repository scanning. |
+| 2026-11-12 17:01:40 | [NetApiFlow.Mcp](https://www.nuget.org/packages/NetApiFlow.Mcp) | 0.2.0 | Douglas Lima | Package Description |
+| 2026-11-12 17:01:41 | [NetApiFlow.OpenTelemetry](https://www.nuget.org/packages/NetApiFlow.OpenTelemetry) | 0.2.0 | Douglas Lima | Package Description |
+| 2026-11-12 17:05:48 | [Breakdance.Claude](https://www.nuget.org/packages/Breakdance.Claude) | 9.0.0 | CloudNimble | Package Description |
+| 2026-11-12 17:07:54 | [CompuMaster.MsPowerPointComInterop](https://www.nuget.org/packages/CompuMaster.MsPowerPointComInterop) | 1.0.2026.1112 | CompuMaster GmbH | Microsoft PowerPoint COM automation with process-scoped diagnostic log manageme… |
+| 2026-11-12 17:07:55 | [CompuMaster.MsWordComInterop](https://www.nuget.org/packages/CompuMaster.MsWordComInterop) | 1.0.2026.1112 | CompuMaster GmbH | Microsoft Word COM automation with process-scoped diagnostic log management. |
 
 ## Data source
 
