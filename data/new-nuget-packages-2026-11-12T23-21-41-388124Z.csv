@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-11-12T22:38:55.657Z,Cratis.Arc.Availability,23.3.0,Cratis,"Availability gates for Cratis Arc: commands and queries of a part of the application that is not available are refused before authorization, built on the Cratis Choreography availability engine."
+2026-11-12T22:42:48.253Z,Bashka.Plugins.Logo,1.0.0,Evgeny Gorbovoy,"Demonstration plugin for Bashka showing how to register a visual extension, load Avalonia styles, and display an embedded ANSI BASHKA logo in the About view."
+2026-11-12T22:43:58.11Z,NuExt.Minimal.Mvvm.AvalonDock,0.9.2,ivanvoyager,"A lightweight AvalonDock integration for NuExt.Minimal.Mvvm.Wpf, providing dockable documents, tool windows, and management services."
+2026-11-12T22:48:40.88Z,Nullean.Runna,0.1.0,Nullean and contributors,Property-dispatch build target DSL with Argh-quality help and per-target typed CLI arguments.
+2026-11-12T22:48:41.457Z,Nullean.Runna.Fs,0.1.0,Nullean and contributors,"F# DU/match binding over Nullean.Runna — exhaustive, typed, namespaced build targets."
+2026-11-12T22:52:53Z,Sentry.Extensions.Hosting,7.0.0,Sentry Team and Contributors,Official Microsoft.Extensions.Hosting integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.
+2026-11-12T22:56:56.333Z,E2E.FullValidation.4062ec0bf51142fe871e245f6fd3601c,1.0.0,EndToEndTests,Description of E2E.FullValidation.4062ec0bf51142fe871e245f6fd3601c
+2026-11-12T22:56:56.49Z,E2E.LicenseUrl.3a4502968a734464b1d38d2f8f52c8d2,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.3a4502968a734464b1d38d2f8f52c8d2
+2026-11-12T22:56:56.663Z,E2E.LicenseExpression.1c76ee38bd864bfaab26e5eaab1e1a54,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.1c76ee38bd864bfaab26e5eaab1e1a54
+2026-11-12T22:56:56.763Z,E2E.SemVer1Stable.c18165209d054430a0adc3b69a41f60c,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.c18165209d054430a0adc3b69a41f60c
+2026-11-12T22:56:56.843Z,E2E.EmbeddedIconJpeg.b69c14955f0e498b81303bb63fc8d9b4,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.b69c14955f0e498b81303bb63fc8d9b4
+2026-11-12T22:56:57.363Z,E2E.EmbeddedReadmeFile.1ea813c6931f41ca9d42f3b3044e5183,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.1ea813c6931f41ca9d42f3b3044e5183
+2026-11-12T22:56:57.36Z,E2E.Deprecated.6dd03a39d1474dba89073fd8247461f8,1.0.0,EndToEndTests,Description of E2E.Deprecated.6dd03a39d1474dba89073fd8247461f8
+2026-11-12T22:56:57.383Z,E2E.EmbeddedIconPng.679f8050cec44077af3275234dad4205,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.679f8050cec44077af3275234dad4205
+2026-11-12T22:56:57.39Z,E2E.LicenseFile.3ba2bbf6340c42f6ba38f2939657f5bc,1.0.0,EndToEndTests,Description of E2E.LicenseFile.3ba2bbf6340c42f6ba38f2939657f5bc
+2026-11-12T22:57:10.93Z,E2E.SymbolsPackage.3b2418d8397f420a86a81c051600baf6,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.3b2418d8397f420a86a81c051600baf6
+2026-11-12T22:57:12.123Z,E2E.DotnetTool.33bdb2dfb1b14a16aa471a7e626df34d,1.0.0,E2E.DotnetTool,Package Description
+2026-11-12T23:03:30.867Z,MrHutt.Transit,10.0.0,MrHutt,A lightweight MQTT message bus.
+2026-11-12T23:07:25.74Z,Marqdouj.DotNet.Web.JsInterop.Extensions,11.0.0,Douglas Marquardt,Blazor JSInterop Extensions

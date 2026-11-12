@@ -12,38 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:19 UTC
+## Latest list — 2026-11-12 23:21 UTC
 
-New packages created between 2026-11-12 21:20 UTC and 2026-11-12 22:19 UTC.
+New packages created between 2026-11-12 22:19 UTC and 2026-11-12 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-12T22-19-27-670711Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-12T23-21-41-388124Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-12 21:27:36 | [Cratis.Showrunner.GuestList](https://www.nuget.org/packages/Cratis.Showrunner.GuestList) | 2.5.0 | Cratis | GuestList — the Showrunner audiences part for products: receive the operator's… |
-| 2026-11-12 21:35:49 | [Cratis.Showrunner.GuestList.Authoring](https://www.nuget.org/packages/Cratis.Showrunner.GuestList.Authoring) | 2.5.0 | Cratis | GuestList authoring — the commands, queries and outbox for granting and withdra… |
-| 2026-11-12 21:46:43 | [Ekom.Klaviyo.U19](https://www.nuget.org/packages/Ekom.Klaviyo.U19) | 0.2.106 | Vettvangur | Ekom Klaviyo integration plugin for Umbraco 19. |
-| 2026-11-12 21:46:56 | [Ekom.Algolia.U19](https://www.nuget.org/packages/Ekom.Algolia.U19) | 0.2.74 | Vettvangur | Ekom Algolia integration plugin for Umbraco 19. |
-| 2026-11-12 21:47:43 | [Ekom.Klaviyo.U18](https://www.nuget.org/packages/Ekom.Klaviyo.U18) | 0.2.106 | Vettvangur | Ekom Klaviyo integration plugin for Umbraco 18. |
-| 2026-11-12 21:49:17 | [SagaR.TransactR.Concordia](https://www.nuget.org/packages/SagaR.TransactR.Concordia) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
-| 2026-11-12 21:49:17 | [SagaR.Concordia](https://www.nuget.org/packages/SagaR.Concordia) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
-| 2026-11-12 21:49:18 | [SagaR.TransactR.MediatR](https://www.nuget.org/packages/SagaR.TransactR.MediatR) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
-| 2026-11-12 21:49:18 | [SagaR.TransactR](https://www.nuget.org/packages/SagaR.TransactR) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
-| 2026-11-12 21:49:19 | [SagaR.MediatR](https://www.nuget.org/packages/SagaR.MediatR) | 0.3.1 | Luca Fabbri | SagaR is a lightweight, decoupled .NET library for orchestrating complex proces… |
-| 2026-11-12 21:49:20 | [Sagar.TransactR.Console.Test](https://www.nuget.org/packages/Sagar.TransactR.Console.Test) | 1.0.0 | Sagar.TransactR.Console.Test | Package Description |
-| 2026-11-12 21:50:08 | [MrKWatkins.CSharpConventions](https://www.nuget.org/packages/MrKWatkins.CSharpConventions) | 1.0.0 | Kevin Watkins | Shared C# compiler, testing and packaging conventions. |
-| 2026-11-12 21:53:08 | [Ekom.Algolia.U18](https://www.nuget.org/packages/Ekom.Algolia.U18) | 0.2.74 | Vettvangur | Ekom Algolia integration plugin for Umbraco 18. |
-| 2026-11-12 21:58:04 | [Musoq.DataSources.CANBus](https://www.nuget.org/packages/Musoq.DataSources.CANBus) | 4.0.10 | Jakub Puchała | Lets you query CAN bus data and DBC files with SQL-style queries, turning frame… |
-| 2026-11-12 21:58:40 | [Musoq.DataSources.GitHub](https://www.nuget.org/packages/Musoq.DataSources.GitHub) | 2.0.10 | Jakub Puchała | Lets you query GitHub repositories, issues, pull requests, commits and other re… |
-| 2026-11-12 21:58:50 | [Musoq.DataSources.Jira](https://www.nuget.org/packages/Musoq.DataSources.Jira) | 2.0.10 | Jakub Puchała | Lets you query Jira issues, projects, sprints and other resources with SQL-styl… |
-| 2026-11-12 21:59:12 | [Musoq.DataSources.Ollama](https://www.nuget.org/packages/Musoq.DataSources.Ollama) | 5.0.10 | Jakub Puchała | Lets you call Ollama models using SQL-style queries, making local LLM responses… |
-| 2026-11-12 22:00:04 | [Musoq.DataSources.Search](https://www.nuget.org/packages/Musoq.DataSources.Search) | 1.0.7 | Jakub Puchaa | Provides deterministic literal and raw-byte search with bounded windows plus el… |
-| 2026-11-12 22:03:38 | [SimulaSharp.Kernel](https://www.nuget.org/packages/SimulaSharp.Kernel) | 0.5.3 | Andreas Michelis | The hard-real-time simulation runtime for SimulaSharp: clock, SimSites, event q… |
-| 2026-11-12 22:03:39 | [SimulaSharp.Hosting](https://www.nuget.org/packages/SimulaSharp.Hosting) | 0.5.3 | Andreas Michelis | The loader for packed SimulaSharp simulations: a collectible-ALC plugin host (S… |
-| 2026-11-12 22:03:40 | [SimulaSharp](https://www.nuget.org/packages/SimulaSharp) | 0.5.3 | Andreas Michelis | SimulaSharp — the meta-package for authoring hard-real-time simulations. Pulls… |
-| 2026-11-12 22:03:40 | [SimulaSharp.CodeGen](https://www.nuget.org/packages/SimulaSharp.CodeGen) | 0.5.3 | Andreas Michelis | The Roslyn analyzer/source-generator for SimulaSharp: turns annotated models +… |
-| 2026-11-12 22:10:13 | [Cratis.Showrunner.GuestList.Availability](https://www.nuget.org/packages/Cratis.Showrunner.GuestList.Availability) | 2.5.0 | Cratis | GuestList availability — feeds the Cratis Choreography availability engine from… |
-| 2026-11-12 22:12:20 | [PidFile.NET](https://www.nuget.org/packages/PidFile.NET) | 1.0.0 | Muhammed Nilifirka | Create and manage your PID files. |
+| 2026-11-12 22:38:55 | [Cratis.Arc.Availability](https://www.nuget.org/packages/Cratis.Arc.Availability) | 23.3.0 | Cratis | Availability gates for Cratis Arc: commands and queries of a part of the applic… |
+| 2026-11-12 22:42:48 | [Bashka.Plugins.Logo](https://www.nuget.org/packages/Bashka.Plugins.Logo) | 1.0.0 | Evgeny Gorbovoy | Demonstration plugin for Bashka showing how to register a visual extension, loa… |
+| 2026-11-12 22:43:58 | [NuExt.Minimal.Mvvm.AvalonDock](https://www.nuget.org/packages/NuExt.Minimal.Mvvm.AvalonDock) | 0.9.2 | ivanvoyager | A lightweight AvalonDock integration for NuExt.Minimal.Mvvm.Wpf, providing dock… |
+| 2026-11-12 22:48:40 | [Nullean.Runna](https://www.nuget.org/packages/Nullean.Runna) | 0.1.0 | Nullean and contributors | Property-dispatch build target DSL with Argh-quality help and per-target typed… |
+| 2026-11-12 22:48:41 | [Nullean.Runna.Fs](https://www.nuget.org/packages/Nullean.Runna.Fs) | 0.1.0 | Nullean and contributors | F# DU/match binding over Nullean.Runna — exhaustive, typed, namespaced build ta… |
+| 2026-11-12 22:52:53 | [Sentry.Extensions.Hosting](https://www.nuget.org/packages/Sentry.Extensions.Hosting) | 7.0.0 | Sentry Team and Contributors | Official Microsoft.Extensions.Hosting integration for Sentry - Open-source erro… |
+| 2026-11-12 22:56:56 | [E2E.FullValidation.4062ec0bf51142fe871e245f6fd3601c](https://www.nuget.org/packages/E2E.FullValidation.4062ec0bf51142fe871e245f6fd3601c) | 1.0.0 | EndToEndTests | Description of E2E.FullValidation.4062ec0bf51142fe871e245f6fd3601c |
+| 2026-11-12 22:56:56 | [E2E.LicenseUrl.3a4502968a734464b1d38d2f8f52c8d2](https://www.nuget.org/packages/E2E.LicenseUrl.3a4502968a734464b1d38d2f8f52c8d2) | 1.0.0 | EndToEndTests | Description of E2E.LicenseUrl.3a4502968a734464b1d38d2f8f52c8d2 |
+| 2026-11-12 22:56:56 | [E2E.LicenseExpression.1c76ee38bd864bfaab26e5eaab1e1a54](https://www.nuget.org/packages/E2E.LicenseExpression.1c76ee38bd864bfaab26e5eaab1e1a54) | 1.0.0 | EndToEndTests | Description of E2E.LicenseExpression.1c76ee38bd864bfaab26e5eaab1e1a54 |
+| 2026-11-12 22:56:56 | [E2E.SemVer1Stable.c18165209d054430a0adc3b69a41f60c](https://www.nuget.org/packages/E2E.SemVer1Stable.c18165209d054430a0adc3b69a41f60c) | 1.0.0 | EndToEndTests | Description of E2E.SemVer1Stable.c18165209d054430a0adc3b69a41f60c |
+| 2026-11-12 22:56:56 | [E2E.EmbeddedIconJpeg.b69c14955f0e498b81303bb63fc8d9b4](https://www.nuget.org/packages/E2E.EmbeddedIconJpeg.b69c14955f0e498b81303bb63fc8d9b4) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconJpeg.b69c14955f0e498b81303bb63fc8d9b4 |
+| 2026-11-12 22:56:57 | [E2E.EmbeddedReadmeFile.1ea813c6931f41ca9d42f3b3044e5183](https://www.nuget.org/packages/E2E.EmbeddedReadmeFile.1ea813c6931f41ca9d42f3b3044e5183) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedReadmeFile.1ea813c6931f41ca9d42f3b3044e5183 |
+| 2026-11-12 22:56:57 | [E2E.Deprecated.6dd03a39d1474dba89073fd8247461f8](https://www.nuget.org/packages/E2E.Deprecated.6dd03a39d1474dba89073fd8247461f8) | 1.0.0 | EndToEndTests | Description of E2E.Deprecated.6dd03a39d1474dba89073fd8247461f8 |
+| 2026-11-12 22:56:57 | [E2E.EmbeddedIconPng.679f8050cec44077af3275234dad4205](https://www.nuget.org/packages/E2E.EmbeddedIconPng.679f8050cec44077af3275234dad4205) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconPng.679f8050cec44077af3275234dad4205 |
+| 2026-11-12 22:56:57 | [E2E.LicenseFile.3ba2bbf6340c42f6ba38f2939657f5bc](https://www.nuget.org/packages/E2E.LicenseFile.3ba2bbf6340c42f6ba38f2939657f5bc) | 1.0.0 | EndToEndTests | Description of E2E.LicenseFile.3ba2bbf6340c42f6ba38f2939657f5bc |
+| 2026-11-12 22:57:10 | [E2E.SymbolsPackage.3b2418d8397f420a86a81c051600baf6](https://www.nuget.org/packages/E2E.SymbolsPackage.3b2418d8397f420a86a81c051600baf6) | 1.0.0 | EndToEndTests | Description of E2E.SymbolsPackage.3b2418d8397f420a86a81c051600baf6 |
+| 2026-11-12 22:57:12 | [E2E.DotnetTool.33bdb2dfb1b14a16aa471a7e626df34d](https://www.nuget.org/packages/E2E.DotnetTool.33bdb2dfb1b14a16aa471a7e626df34d) | 1.0.0 | E2E.DotnetTool | Package Description |
+| 2026-11-12 23:03:30 | [MrHutt.Transit](https://www.nuget.org/packages/MrHutt.Transit) | 10.0.0 | MrHutt | A lightweight MQTT message bus. |
+| 2026-11-12 23:07:25 | [Marqdouj.DotNet.Web.JsInterop.Extensions](https://www.nuget.org/packages/Marqdouj.DotNet.Web.JsInterop.Extensions) | 11.0.0 | Douglas Marquardt | Blazor JSInterop Extensions |
 
 ## Data source
 
