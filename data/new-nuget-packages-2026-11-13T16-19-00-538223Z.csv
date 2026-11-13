@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-13T15:26:14.623Z,Olve.Fuzzy,0.63.2,Oliver Vea,"Fuzzy logic with a fluent rule syntax: member functions, rules and centroid defuzzification"
+2026-11-13T15:27:32.13Z,YADIS.OhioT1DM.Models,1.0.0,N. Batchaev,Data models (DTOs) for the OhioT1DM dataset annotated for XML and MessagePack serialization.
+2026-11-13T15:29:07.74Z,TNID.NET,0.1.0,Codevia Solutions s.r.o.,"A minimal, dependency-free implementation of the TNID 1.0 core format."
+2026-11-13T15:32:53.817Z,Medical.Bpjs,1.1.0,Gravicode Studios (Kang Fadhil),"Medical.Net BPJS Kesehatan (Indonesian national health insurance, JKN): INA-CBG claim input builder with coding validation and the E-Klaim web-service client (encrypted payloads), VClaim and PCare clients with request signing, AES response decryption and LZ-String decompression."
+2026-11-13T15:46:34.117Z,NDM-Logger,1.0.0,Joe Swindell,"Serilog sink setup that sends log entries to NDM-Logging-API, queued in memory until the host is known."
+2026-11-13T15:46:54.923Z,Auxilia.BackVial.Entities,1.0.0,Auxilia,Entidades compartidas de BackVial.
+2026-11-13T15:48:17.25Z,D3sk.ChatUi.Avalonia,0.2.0,neijix,"D3SKHAND's chat for Avalonia: ChatView with the virtualized transcript, working line, approvals and composer, fed with D3sk.AgentCli turn events."
+2026-11-13T15:48:17.907Z,D3sk.ChatUi,0.2.0,neijix,"D3SKHAND's chat rules with no UI types: the session that folds D3sk.AgentCli turn events into what the chat shows, labels, tool summaries, markdown to safe HTML. Shared spec with the web package @d3sk/chat-ui."
+2026-11-13T15:52:08.797Z,NkkinSoft.Shimmer.Maui,1.0.0,NkkinSoft.Shimmer.Maui,Cross-platform skeleton loading for .NET MAUI with theme-aware gradients and reduced-motion support.
+2026-11-13T15:54:43.087Z,SFA.DAS.EmploymentVerificationService.Messages,0.1.6-prerelease-61,SFA.DAS.EmploymentVerificationService.Messages,Package Description
+2026-11-13T15:57:02.053Z,Hegel.FSharp,0.2.0,David R. MacIver,"Property-based testing for F#, driven by the Hegel engine (libhegel): F# generators, derivation for records and unions, and failures printed as F#."
