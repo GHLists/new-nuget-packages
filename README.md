@@ -12,21 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 08:18 UTC
+## Latest list — 2026-11-13 09:20 UTC
 
-New packages created between 2026-11-13 07:19 UTC and 2026-11-13 08:18 UTC.
+New packages created between 2026-11-13 08:18 UTC and 2026-11-13 09:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T08-18-49-092995Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T09-20-52-917904Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 07:27:20 | [MediaPipeTasksDecision.Android](https://www.nuget.org/packages/MediaPipeTasksDecision.Android) | 1.2.0 | Howard Good | Android .NET bindings for MediaPipe Tasks Decision Library. |
-| 2026-11-13 07:28:22 | [MediaPipeTasksRetrieval.Android](https://www.nuget.org/packages/MediaPipeTasksRetrieval.Android) | 1.2.0 | Howard Good | Android .NET bindings for MediaPipe Tasks Retrieval Library. |
-| 2026-11-13 07:46:50 | [Enhanced.Testing.Component.WireMock](https://www.nuget.org/packages/Enhanced.Testing.Component.WireMock) | 1.4.0 | duskembayev | Enhanced.Testing.Component is a NuGet package that provides a set of tools for… |
-| 2026-11-13 07:46:53 | [Enhanced.Testing.Component.Time](https://www.nuget.org/packages/Enhanced.Testing.Component.Time) | 1.4.0 | duskembayev | Enhanced.Testing.Component is a NuGet package that provides a set of tools for… |
-| 2026-11-13 07:49:46 | [AbpAgent.Graphiti](https://www.nuget.org/packages/AbpAgent.Graphiti) | 0.4.0 | AbpAgent contributors | AbpAgent.Graphiti: agents' memory as a temporal knowledge graph, with graphiti-… |
-| 2026-11-13 07:55:05 | [Flowbyte.Secrets](https://www.nuget.org/packages/Flowbyte.Secrets) | 1.0.1 | Flowbyte | Client and Microsoft.Extensions.Configuration provider for the Flowbyte Secrets… |
-| 2026-11-13 07:55:07 | [Flowbyte.Secrets.Cli](https://www.nuget.org/packages/Flowbyte.Secrets.Cli) | 1.0.1 | Flowbyte | fbs — command-line client for Flowbyte Secrets (list/get/set/delete/export secr… |
+| 2026-11-13 08:22:41 | [TradeWize.SDK](https://www.nuget.org/packages/TradeWize.SDK) | 2.0.0 | TradeWize | TradeWize SDK — TradeWize Console için robot geliştirme kütüphanesi: Robot taba… |
+| 2026-11-13 08:37:13 | [Ranvier](https://www.nuget.org/packages/Ranvier) | 0.2.0 | shayanhabibi | Fine-grained reactive computation for .NET: signals, memos and effects on an ex… |
+| 2026-11-13 08:37:14 | [Ranvier.CSharp](https://www.nuget.org/packages/Ranvier.CSharp) | 0.2.0 | shayanhabibi | C# entry points for Ranvier: delegate-based factories and extension methods. |
+| 2026-11-13 08:37:15 | [Ranvier.Traced](https://www.nuget.org/packages/Ranvier.Traced) | 0.2.0 | shayanhabibi | The traced build of Ranvier: the same assembly, namespaces and version, with th… |
+| 2026-11-13 08:37:16 | [Ranvier.CSharp.Traced](https://www.nuget.org/packages/Ranvier.CSharp.Traced) | 0.2.0 | shayanhabibi | The traced build of Ranvier.CSharp: C# entry points for Ranvier, with the traci… |
+| 2026-11-13 08:37:16 | [Ranvier.Elmish](https://www.nuget.org/packages/Ranvier.Elmish) | 0.2.0 | shayanhabibi | An Elmish-style model-view-update bridge for Ranvier: a model held in a signal,… |
+| 2026-11-13 08:37:17 | [Ranvier.Elmish.Traced](https://www.nuget.org/packages/Ranvier.Elmish.Traced) | 0.2.0 | shayanhabibi | The traced build of Ranvier.Elmish: the model-view-update bridge for Ranvier. D… |
+| 2026-11-13 08:37:18 | [Ranvier.Query](https://www.nuget.org/packages/Ranvier.Query) | 0.2.0 | shayanhabibi | Typed reactive queries and mutation reconciliation for partially loaded applica… |
+| 2026-11-13 08:37:19 | [Ranvier.Query.Traced](https://www.nuget.org/packages/Ranvier.Query.Traced) | 0.2.0 | shayanhabibi | Typed reactive queries and mutation reconciliation for partially loaded applica… |
+| 2026-11-13 08:37:20 | [Ranvier.Wire](https://www.nuget.org/packages/Ranvier.Wire) | 0.2.0 | shayanhabibi | The JSON wire codec of Ranvier's transports: the same wire text on .NET (includ… |
+| 2026-11-13 08:37:24 | [Ranvier.Wire.Traced](https://www.nuget.org/packages/Ranvier.Wire.Traced) | 0.2.0 | shayanhabibi | The JSON wire codec of Ranvier's transports: the same wire text on .NET (includ… |
+| 2026-11-13 08:56:50 | [ConfigFerret](https://www.nuget.org/packages/ConfigFerret) | 0.1.0 | RT | Config provenance tracer: answers "why is this value 42?" by tracing every effe… |
 
 ## Data source
 

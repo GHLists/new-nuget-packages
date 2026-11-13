@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-13T08:22:41.277Z,TradeWize.SDK,2.0.0,TradeWize,"TradeWize SDK — TradeWize Console için robot geliştirme kütüphanesi: Robot taban sınıfı, canlı ve geçmiş piyasa verisi, emir yönetimi ve zamanlama. Robotlar yalnızca TradeWize Console içinde çalışır. Reference library for developing TradeWize robots that run inside TradeWize Console."
+2026-11-13T08:37:13.273Z,Ranvier,0.2.0,shayanhabibi,"Fine-grained reactive computation for .NET: signals, memos and effects on an explicit graph, with async sources that carry a Pending state and boundaries that decide where a pending or failed read stops."
+2026-11-13T08:37:14.08Z,Ranvier.CSharp,0.2.0,shayanhabibi,C# entry points for Ranvier: delegate-based factories and extension methods.
+2026-11-13T08:37:15.213Z,Ranvier.Traced,0.2.0,shayanhabibi,"The traced build of Ranvier: the same assembly, namespaces and version, with the per-graph event log and its queries compiled in."
+2026-11-13T08:37:16.057Z,Ranvier.CSharp.Traced,0.2.0,shayanhabibi,"The traced build of Ranvier.CSharp: C# entry points for Ranvier, with the tracing queries compiled in. Depends on Ranvier.Traced."
+2026-11-13T08:37:16.82Z,Ranvier.Elmish,0.2.0,shayanhabibi,"An Elmish-style model-view-update bridge for Ranvier: a model held in a signal, updated by dispatched messages and read through selector memos."
+2026-11-13T08:37:17.55Z,Ranvier.Elmish.Traced,0.2.0,shayanhabibi,The traced build of Ranvier.Elmish: the model-view-update bridge for Ranvier. Depends on Ranvier.Traced.
+2026-11-13T08:37:18.423Z,Ranvier.Query,0.2.0,shayanhabibi,Typed reactive queries and mutation reconciliation for partially loaded application data.
+2026-11-13T08:37:19.263Z,Ranvier.Query.Traced,0.2.0,shayanhabibi,Typed reactive queries and mutation reconciliation for partially loaded application data.
+2026-11-13T08:37:20.17Z,Ranvier.Wire,0.2.0,shayanhabibi,"The JSON wire codec of Ranvier's transports: the same wire text on .NET (including NativeAOT) and Fable, decoding that reports an error instead of raising, and depth and item limits."
+2026-11-13T08:37:24.19Z,Ranvier.Wire.Traced,0.2.0,shayanhabibi,"The JSON wire codec of Ranvier's transports: the same wire text on .NET (including NativeAOT) and Fable, decoding that reports an error instead of raising, and depth and item limits."
+2026-11-13T08:56:50.713Z,ConfigFerret,0.1.0,RT,"Config provenance tracer: answers ""why is this value 42?"" by tracing every effective .NET configuration value back through appsettings files, environment variables, Kubernetes ConfigMaps and Secrets, Helm values files and Kustomize overlays."
