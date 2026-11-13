@@ -12,20 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 19:21 UTC
+## Latest list — 2026-11-13 20:21 UTC
 
-New packages created between 2026-11-13 18:19 UTC and 2026-11-13 19:21 UTC.
+New packages created between 2026-11-13 19:21 UTC and 2026-11-13 20:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T19-21-19-07259Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T20-21-23-829117Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 18:22:19 | [Sondor.Options.FluentValidation](https://www.nuget.org/packages/Sondor.Options.FluentValidation) | 0.1.0 | Sondor Dev | FluentValidation for Sondor.Options: validates options with the IValidator of t… |
-| 2026-11-13 18:37:05 | [DevelApp.Self-Evolving-Framework](https://www.nuget.org/packages/DevelApp.Self-Evolving-Framework) | 1.8.0 | DevelApp-ai | Framework primitives for secure LLM-driven code evolution in C#. |
-| 2026-11-13 18:38:52 | [Webority.Ai.AzureOpenAi](https://www.nuget.org/packages/Webority.Ai.AzureOpenAi) | 0.59.0 | Webority Technologies | The Azure OpenAI v1 transport for Webority.Ai: agents and embeddings run throug… |
-| 2026-11-13 18:45:17 | [AbpGateway](https://www.nuget.org/packages/AbpGateway) | 0.4.0 | AbpCluster contributors | AbpGateway: one origin in front of an ABP site's servers and its web app, on YA… |
-| 2026-11-13 19:07:34 | [AbpCluster.Storage](https://www.nuget.org/packages/AbpCluster.Storage) | 0.4.0 | AbpCluster contributors | AbpCluster.Storage: where an ABP app on .NET 10 keeps its files, set by configu… |
-| 2026-11-13 19:16:04 | [Redis.Iris.ContextRetriever.Modeling](https://www.nuget.org/packages/Redis.Iris.ContextRetriever.Modeling) | 0.1.1-preview | Redis, Inc. | Annotated POCO modeling, serialization, and comparison for Redis Iris Context R… |
+| 2026-11-13 19:32:12 | [AuthCallout.Core](https://www.nuget.org/packages/AuthCallout.Core) | 0.1.3 | Ryan Anthony | Decision core of nats-auth-callout-service: claims access, claim matching and g… |
+| 2026-11-13 19:32:12 | [AuthCallout.Contracts](https://www.nuget.org/packages/AuthCallout.Contracts) | 0.1.3 | Ryan Anthony | Shared contracts for nats-auth-callout-service: AppSlug KV bucket, key and scop… |
+| 2026-11-13 19:32:13 | [AuthCallout.Identity](https://www.nuget.org/packages/AuthCallout.Identity) | 0.1.3 | Ryan Anthony | Identity primitives for nats-auth-callout-service: verify the signed Callout-Id… |
+| 2026-11-13 19:32:59 | [Sigill.Sdk.Policy](https://www.nuget.org/packages/Sigill.Sdk.Policy) | 0.14.0 | Sigill | The official Cedar policy core (cedar-policy 4.14.0) as one pinned WebAssembly… |
+| 2026-11-13 19:47:14 | [IntentSharp.Specialist](https://www.nuget.org/packages/IntentSharp.Specialist) | 1.1.0 | C2Consultants LLC | Models defined per intent for C# and .NET, so one application can use several m… |
+| 2026-11-13 19:52:39 | [TechTeaStudio.Mcp](https://www.nuget.org/packages/TechTeaStudio.Mcp) | 0.1.0 | Ronald Ryan | Studio conventions for Model Context Protocol servers built on the official C#… |
+| 2026-11-13 19:52:41 | [TechTeaStudio.Mcp.Testing](https://www.nuget.org/packages/TechTeaStudio.Mcp.Testing) | 0.1.0 | Ronald Ryan | Contract checks for Model Context Protocol servers, run from any test framework… |
+| 2026-11-13 20:03:14 | [VNS.Harbor](https://www.nuget.org/packages/VNS.Harbor) | 18.0.0 | VNS | VNS Harbor in Umbraco: log in from the Harbor admin, and sync settings and data… |
+| 2026-11-13 20:09:58 | [VersionFlow.Core](https://www.nuget.org/packages/VersionFlow.Core) | 1.0.0 | Bradley Ables | Strongly typed configuration-driven service and method version routing. |
+| 2026-11-13 20:10:21 | [VersionFlow.Extensions.Cqrs](https://www.nuget.org/packages/VersionFlow.Extensions.Cqrs) | 1.0.0 | Bradley Ables | Dependency-free typed CQRS handler contracts for direct application operations. |
+| 2026-11-13 20:10:43 | [VersionFlow.Extensions.DI](https://www.nuget.org/packages/VersionFlow.Extensions.DI) | 1.0.0 | Bradley Ables | Attribute-based Microsoft DI registration with native ServiceLifetime support. |
 
 ## Data source
 
