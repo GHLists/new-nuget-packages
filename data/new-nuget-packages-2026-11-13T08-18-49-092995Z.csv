@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-13T07:27:20.843Z,MediaPipeTasksDecision.Android,1.2.0,Howard Good,Android .NET bindings for MediaPipe Tasks Decision Library.
+2026-11-13T07:28:22.77Z,MediaPipeTasksRetrieval.Android,1.2.0,Howard Good,Android .NET bindings for MediaPipe Tasks Retrieval Library.
+2026-11-13T07:46:50.72Z,Enhanced.Testing.Component.WireMock,1.4.0,duskembayev,Enhanced.Testing.Component is a NuGet package that provides a set of tools for component testing ASP.NET Core applications.
+2026-11-13T07:46:53.197Z,Enhanced.Testing.Component.Time,1.4.0,duskembayev,Enhanced.Testing.Component is a NuGet package that provides a set of tools for component testing ASP.NET Core applications.
+2026-11-13T07:49:46.53Z,AbpAgent.Graphiti,0.4.0,AbpAgent contributors,"AbpAgent.Graphiti: agents' memory as a temporal knowledge graph, with graphiti-net on PostgreSQL and pgvector. Each note an agent keeps is read into the things it names and the facts between them; recall searches them, showing a fact only to people who may read every note it came from."
+2026-11-13T07:55:05.517Z,Flowbyte.Secrets,1.0.1,Flowbyte,Client and Microsoft.Extensions.Configuration provider for the Flowbyte Secrets machine API (fbs_ access tokens).
+2026-11-13T07:55:07.573Z,Flowbyte.Secrets.Cli,1.0.1,Flowbyte,"fbs — command-line client for Flowbyte Secrets (list/get/set/delete/export secrets, run commands with secrets injected as environment variables)."

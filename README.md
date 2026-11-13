@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 07:19 UTC
+## Latest list — 2026-11-13 08:18 UTC
 
-New packages created between 2026-11-13 06:20 UTC and 2026-11-13 07:19 UTC.
+New packages created between 2026-11-13 07:19 UTC and 2026-11-13 08:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T07-19-40-916098Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T08-18-49-092995Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 06:23:22 | [LogConverge.Sharp](https://www.nuget.org/packages/LogConverge.Sharp) | 0.7.0 | LogConverge | 基于原生 spdlog 内核的静态日志 SDK；当前支持 Windows x64。 |
-| 2026-11-13 06:42:46 | [Fungusware.Mft](https://www.nuget.org/packages/Fungusware.Mft) | 2026.11.13.642 | Fungusware | Reads an NTFS volume's Master File Table directly: every file name and size on… |
-| 2026-11-13 06:52:16 | [DBHelper.NetFx](https://www.nuget.org/packages/DBHelper.NetFx) | 2.0.0 | jimmy.pan | .NET Framework 4.8 版数据库访问层：SQL 外置到 XML 配置文件，通过 KEY + 参数字典执行，支持 MySQL/MariaDB/SQ… |
-| 2026-11-13 07:08:11 | [GlrParser](https://www.nuget.org/packages/GlrParser) | 2.0.0-develop | Jan B. Freuer | A Generalized LR (GLR) parser framework. |
+| 2026-11-13 07:27:20 | [MediaPipeTasksDecision.Android](https://www.nuget.org/packages/MediaPipeTasksDecision.Android) | 1.2.0 | Howard Good | Android .NET bindings for MediaPipe Tasks Decision Library. |
+| 2026-11-13 07:28:22 | [MediaPipeTasksRetrieval.Android](https://www.nuget.org/packages/MediaPipeTasksRetrieval.Android) | 1.2.0 | Howard Good | Android .NET bindings for MediaPipe Tasks Retrieval Library. |
+| 2026-11-13 07:46:50 | [Enhanced.Testing.Component.WireMock](https://www.nuget.org/packages/Enhanced.Testing.Component.WireMock) | 1.4.0 | duskembayev | Enhanced.Testing.Component is a NuGet package that provides a set of tools for… |
+| 2026-11-13 07:46:53 | [Enhanced.Testing.Component.Time](https://www.nuget.org/packages/Enhanced.Testing.Component.Time) | 1.4.0 | duskembayev | Enhanced.Testing.Component is a NuGet package that provides a set of tools for… |
+| 2026-11-13 07:49:46 | [AbpAgent.Graphiti](https://www.nuget.org/packages/AbpAgent.Graphiti) | 0.4.0 | AbpAgent contributors | AbpAgent.Graphiti: agents' memory as a temporal knowledge graph, with graphiti-… |
+| 2026-11-13 07:55:05 | [Flowbyte.Secrets](https://www.nuget.org/packages/Flowbyte.Secrets) | 1.0.1 | Flowbyte | Client and Microsoft.Extensions.Configuration provider for the Flowbyte Secrets… |
+| 2026-11-13 07:55:07 | [Flowbyte.Secrets.Cli](https://www.nuget.org/packages/Flowbyte.Secrets.Cli) | 1.0.1 | Flowbyte | fbs — command-line client for Flowbyte Secrets (list/get/set/delete/export secr… |
 
 ## Data source
 
