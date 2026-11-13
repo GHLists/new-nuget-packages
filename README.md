@@ -12,25 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 20:21 UTC
+## Latest list — 2026-11-13 21:21 UTC
 
-New packages created between 2026-11-13 19:21 UTC and 2026-11-13 20:21 UTC.
+New packages created between 2026-11-13 20:21 UTC and 2026-11-13 21:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T20-21-23-829117Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T21-21-53-449826Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 19:32:12 | [AuthCallout.Core](https://www.nuget.org/packages/AuthCallout.Core) | 0.1.3 | Ryan Anthony | Decision core of nats-auth-callout-service: claims access, claim matching and g… |
-| 2026-11-13 19:32:12 | [AuthCallout.Contracts](https://www.nuget.org/packages/AuthCallout.Contracts) | 0.1.3 | Ryan Anthony | Shared contracts for nats-auth-callout-service: AppSlug KV bucket, key and scop… |
-| 2026-11-13 19:32:13 | [AuthCallout.Identity](https://www.nuget.org/packages/AuthCallout.Identity) | 0.1.3 | Ryan Anthony | Identity primitives for nats-auth-callout-service: verify the signed Callout-Id… |
-| 2026-11-13 19:32:59 | [Sigill.Sdk.Policy](https://www.nuget.org/packages/Sigill.Sdk.Policy) | 0.14.0 | Sigill | The official Cedar policy core (cedar-policy 4.14.0) as one pinned WebAssembly… |
-| 2026-11-13 19:47:14 | [IntentSharp.Specialist](https://www.nuget.org/packages/IntentSharp.Specialist) | 1.1.0 | C2Consultants LLC | Models defined per intent for C# and .NET, so one application can use several m… |
-| 2026-11-13 19:52:39 | [TechTeaStudio.Mcp](https://www.nuget.org/packages/TechTeaStudio.Mcp) | 0.1.0 | Ronald Ryan | Studio conventions for Model Context Protocol servers built on the official C#… |
-| 2026-11-13 19:52:41 | [TechTeaStudio.Mcp.Testing](https://www.nuget.org/packages/TechTeaStudio.Mcp.Testing) | 0.1.0 | Ronald Ryan | Contract checks for Model Context Protocol servers, run from any test framework… |
-| 2026-11-13 20:03:14 | [VNS.Harbor](https://www.nuget.org/packages/VNS.Harbor) | 18.0.0 | VNS | VNS Harbor in Umbraco: log in from the Harbor admin, and sync settings and data… |
-| 2026-11-13 20:09:58 | [VersionFlow.Core](https://www.nuget.org/packages/VersionFlow.Core) | 1.0.0 | Bradley Ables | Strongly typed configuration-driven service and method version routing. |
-| 2026-11-13 20:10:21 | [VersionFlow.Extensions.Cqrs](https://www.nuget.org/packages/VersionFlow.Extensions.Cqrs) | 1.0.0 | Bradley Ables | Dependency-free typed CQRS handler contracts for direct application operations. |
-| 2026-11-13 20:10:43 | [VersionFlow.Extensions.DI](https://www.nuget.org/packages/VersionFlow.Extensions.DI) | 1.0.0 | Bradley Ables | Attribute-based Microsoft DI registration with native ServiceLifetime support. |
+| 2026-11-13 20:22:01 | [Spillgate](https://www.nuget.org/packages/Spillgate) | 0.1.0 | Felix Middelhoff | Decodes untrusted gzip, deflate and identity data (HTTP Content-Encoding and ra… |
+| 2026-11-13 20:22:02 | [Spillgate.Brotli](https://www.nuget.org/packages/Spillgate.Brotli) | 0.1.0 | Felix Middelhoff | Brotli codec for Spillgate, built on the brotli decoder of the .NET runtime (Sy… |
+| 2026-11-13 20:22:03 | [Spillgate.Http](https://www.nuget.org/packages/Spillgate.Http) | 0.1.0 | Felix Middelhoff | HttpClient handler and ASP.NET Core middleware that decode Content-Encoding thr… |
+| 2026-11-13 20:22:05 | [Spillgate.Zstd](https://www.nuget.org/packages/Spillgate.Zstd) | 0.1.0 | Felix Middelhoff | Zstandard codec for Spillgate: a managed decoder with window, dictionary and fr… |
+| 2026-11-13 20:26:46 | [LunchMoney.Sdk](https://www.nuget.org/packages/LunchMoney.Sdk) | 0.1.0 | Bruno Felix | A typed .NET client for the Lunch Money v2 API, with dependency injection, Http… |
+| 2026-11-13 20:33:37 | [MASS4.Guinevere.DevTools](https://www.nuget.org/packages/MASS4.Guinevere.DevTools) | 6.7.0 | Bruno Massa | Package Description |
+| 2026-11-13 20:33:46 | [MASS4.Guinevere.Profiling](https://www.nuget.org/packages/MASS4.Guinevere.Profiling) | 6.7.0 | Bruno Massa | Package Description |
+| 2026-11-13 20:36:31 | [Sondor.Results.Localization](https://www.nuget.org/packages/Sondor.Results.Localization) | 0.1.0 | Sondor Dev | Translated text for a Sondor.Results Error, from the application's own resource… |
+| 2026-11-13 20:36:41 | [ConsoleMonster.Extensions.Serilog](https://www.nuget.org/packages/ConsoleMonster.Extensions.Serilog) | 2.4.1 | Przemyslaw Klys | Serilog output through ConsoleMonster: structured log lines, exceptions and coo… |
+| 2026-11-13 20:36:43 | [ConsoleMonster.Extensions.NLog](https://www.nuget.org/packages/ConsoleMonster.Extensions.NLog) | 2.4.1 | Przemyslaw Klys | NLog output through ConsoleMonster: structured log lines, exceptions and coordi… |
+| 2026-11-13 20:51:49 | [Naravel.Routing.Cache](https://www.nuget.org/packages/Naravel.Routing.Cache) | 0.2.0 | Naravel contributors | A shared store for the Naravel.Routing throttle middleware, counting in a Narav… |
+| 2026-11-13 21:01:31 | [Hto3.OpenApi.JsonMultipartFormDataSupport](https://www.nuget.org/packages/Hto3.OpenApi.JsonMultipartFormDataSupport) | 1.0.0 | HTO3 | Support JSON Multipart data in OpenApi. |
 
 ## Data source
 

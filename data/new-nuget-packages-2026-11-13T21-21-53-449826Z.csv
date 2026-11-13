@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-13T20:22:01.78Z,Spillgate,0.1.0,Felix Middelhoff,"Decodes untrusted gzip, deflate and identity data (HTTP Content-Encoding and raw streams) under mandatory limits: output size, expansion ratio, chain length, input size. Zero dependencies."
+2026-11-13T20:22:02.95Z,Spillgate.Brotli,0.1.0,Felix Middelhoff,"Brotli codec for Spillgate, built on the brotli decoder of the .NET runtime (System.IO.Compression)."
+2026-11-13T20:22:03.91Z,Spillgate.Http,0.1.0,Felix Middelhoff,HttpClient handler and ASP.NET Core middleware that decode Content-Encoding through Spillgate limits.
+2026-11-13T20:22:05.007Z,Spillgate.Zstd,0.1.0,Felix Middelhoff,"Zstandard codec for Spillgate: a managed decoder with window, dictionary and frame checks before any allocation."
+2026-11-13T20:26:46.953Z,LunchMoney.Sdk,0.1.0,Bruno Felix,"A typed .NET client for the Lunch Money v2 API, with dependency injection, HttpClientFactory integration and a factory for background services."
+2026-11-13T20:33:37.79Z,MASS4.Guinevere.DevTools,6.7.0,Bruno Massa,Package Description
+2026-11-13T20:33:46.15Z,MASS4.Guinevere.Profiling,6.7.0,Bruno Massa,Package Description
+2026-11-13T20:36:31.993Z,Sondor.Results.Localization,0.1.0,Sondor Dev,"Translated text for a Sondor.Results Error, from the application's own resources: the title and the message in the current culture, looked up by error code, then by the general template, then the English text. Works with any IStringLocalizer store (resx, JSON, a database) and never shows request da…"
+2026-11-13T20:36:41.9Z,ConsoleMonster.Extensions.Serilog,2.4.1,Przemyslaw Klys,"Serilog output through ConsoleMonster: structured log lines, exceptions and coordinated live output."
+2026-11-13T20:36:43.563Z,ConsoleMonster.Extensions.NLog,2.4.1,Przemyslaw Klys,"NLog output through ConsoleMonster: structured log lines, exceptions and coordinated live output."
+2026-11-13T20:51:49.323Z,Naravel.Routing.Cache,0.2.0,Naravel contributors,"A shared store for the Naravel.Routing throttle middleware, counting in a Naravel.Cache store (for example Redis) so every application instance uses one quota."
+2026-11-13T21:01:31.26Z,Hto3.OpenApi.JsonMultipartFormDataSupport,1.0.0,HTO3,Support JSON Multipart data in OpenApi.
