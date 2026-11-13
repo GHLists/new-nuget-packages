@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-11-13T05:23:54.093Z,GraphitiNet.PostgreSql,0.1.0,graphiti-net contributors,"PostgreSQL storage for graphiti-net through EF Core, with pgvector for vector search and BM25 keyword search in SQL."
+2026-11-13T05:23:54.74Z,GraphitiNet,0.1.0,graphiti-net contributors,"Temporal knowledge graphs for AI agents in .NET: an independent C# rewrite of Graphiti (Python, by Zep). Ingestion, hybrid search, OpenAI and Microsoft.Extensions.AI providers, and an in-memory graph driver. Not affiliated with Zep Software, Inc."
+2026-11-13T05:23:55.363Z,GraphitiNet.SqlServer,0.1.0,graphiti-net contributors,"SQL Server 2025 and Azure SQL storage for graphiti-net through EF Core, with the native vector type for vector search and BM25 keyword search. No graph database needed."
+2026-11-13T05:42:13.943Z,Arcodiant.Vulkan,0.2.1,Arcodiant/Andrew Armstrong,"A thin, hand-extended C# binding for Vulkan 1.3 and GLFW 3.4, with the GLFW natives for win-x64 and linux-x64 bundled. Generated interop types under a hand-written object API (Instance, Device, CommandBuffer, ...), including dynamic rendering, descriptor indexing, buffer device address and ray trac…"
+2026-11-13T05:48:13.2Z,Arcodiant.Empyrean,0.125.0,Arcodiant/Andrew Armstrong,"Core of the Empyrean C# game engine: scene-scoped ECS, game loop, time, content, tweening, async jobs and asset residency."
+2026-11-13T05:48:15.81Z,Arcodiant.Empyrean.Animation,0.125.0,Arcodiant/Andrew Armstrong,"Skeletal animation for the Empyrean engine: play clips on rigged glTF characters, GPU-skinned and PBR-lit."
+2026-11-13T05:48:17.857Z,Arcodiant.Empyrean.Audio,0.125.0,Arcodiant/Andrew Armstrong,"Audio abstraction for the Empyrean engine: mixer, buses, voice priority, SFX, music, 3D emitters, occlusion and reverb."
+2026-11-13T05:48:19.883Z,Arcodiant.Empyrean.Audio.OpenAL,0.125.0,Arcodiant/Andrew Armstrong,OpenAL output backend for the Empyrean engine audio abstraction.
+2026-11-13T05:48:21.76Z,Arcodiant.Empyrean.Audio.Vorbis,0.125.0,Arcodiant/Andrew Armstrong,Ogg Vorbis decoder for the Empyrean engine audio abstraction.
+2026-11-13T05:48:23.93Z,Arcodiant.Empyrean.Diagnostics,0.125.0,Arcodiant/Andrew Armstrong,Metrics and a debug HUD for the Empyrean game engine.
+2026-11-13T05:48:26.217Z,Arcodiant.Empyrean.Geometry,0.125.0,Arcodiant/Andrew Armstrong,"CPU mesh geometry for the Empyrean engine: vertex layout, glTF and OBJ parsing, and primitives."
+2026-11-13T05:48:28.333Z,Arcodiant.Empyrean.Graphics,0.125.0,Arcodiant/Andrew Armstrong,"Vulkan rendering for the Empyrean engine: window, cameras, meshes, sprites, lighting, materials, model and texture loading, and HUD text."
+2026-11-13T05:48:30.907Z,Arcodiant.Empyrean.Hosting,0.125.0,Arcodiant/Andrew Armstrong,"Standard host for the Empyrean engine: EmpyreanHostBuilder, configuration, dependency injection, logging and graceful shutdown."
+2026-11-13T05:48:33.477Z,Arcodiant.Empyrean.Hosting.Glfw,0.125.0,Arcodiant/Andrew Armstrong,"Game host for the Empyrean engine: composes the GLFW window, Vulkan renderer and input behind the host builder."
+2026-11-13T05:48:37.933Z,Arcodiant.Empyrean.Input,0.125.0,Arcodiant/Andrew Armstrong,"Input abstraction for the Empyrean engine: actions, axes, gestures and input modes."
+2026-11-13T05:48:40.82Z,Arcodiant.Empyrean.Input.Glfw,0.125.0,Arcodiant/Andrew Armstrong,GLFW input backend for the Empyrean engine input abstraction.
+2026-11-13T05:48:43.533Z,Arcodiant.Empyrean.Navigation,0.125.0,Arcodiant/Andrew Armstrong,"Navigation for the Empyrean engine: navmesh baking, agent steering and doorway portals, built on DotRecast."
+2026-11-13T05:48:47.127Z,Arcodiant.Empyrean.Physics,0.125.0,Arcodiant/Andrew Armstrong,"Physics query abstraction for the Empyrean engine: raycast, overlap and sweep over collider components."
+2026-11-13T05:48:49.827Z,Arcodiant.Empyrean.Physics.Jolt,0.125.0,Arcodiant/Andrew Armstrong,Jolt Physics query backend for the Empyrean engine physics abstraction (win-x64).
+2026-11-13T05:48:52.633Z,Arcodiant.Empyrean.Ui,0.125.0,Arcodiant/Andrew Armstrong,"Retained and immediate-mode UI for the Empyrean engine: panels, labels, buttons, layout, focus, splash and loading screens."
+2026-11-13T05:48:54.867Z,Arcodiant.Empyrean.Ui.Handlers,0.125.0,Arcodiant/Andrew Armstrong,"Opt-in built-in UI action handlers for the Empyrean engine: open and close screens, quit and play sounds with no game code."
+2026-11-13T05:48:58.173Z,Arcodiant.Empyrean.Xr,0.125.0,Arcodiant/Andrew Armstrong,"XR (VR) runtime seam for the Empyrean engine: per-eye presentation, head and controller tracking, hands, haptics and a synthetic runtime."
+2026-11-13T05:49:00.797Z,Arcodiant.Empyrean.Xr.OpenXr,0.125.0,Arcodiant/Andrew Armstrong,"OpenXR backend for the Empyrean engine XR runtime seam, with the Khronos loader bundled (win-x64)."
+2026-11-13T06:03:07.677Z,SpaceCG.Standard.LedRenderer,1.1.0,huangmin@spacecg.cn,Led灯带渲染
+2026-11-13T06:03:25.69Z,SpaceCG.Standard.LedRenderer.Wpf,1.0.0,SpaceCG.Standard.LedRenderer.Wpf,Package Description
