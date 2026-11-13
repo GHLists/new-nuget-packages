@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 04:21 UTC
+## Latest list — 2026-11-13 05:21 UTC
 
-New packages created between 2026-11-13 03:23 UTC and 2026-11-13 04:21 UTC.
+New packages created between 2026-11-13 04:21 UTC and 2026-11-13 05:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T04-21-31-581276Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T05-21-42-78099Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 03:35:56 | [UltimateFlags.Configuration](https://www.nuget.org/packages/UltimateFlags.Configuration) | 0.0.5 | Soonil Hong | Ultimate FeatureFlags Configuration |
+| 2026-11-13 04:24:24 | [uTPro.Feature.MailHub](https://www.nuget.org/packages/uTPro.Feature.MailHub) | 18.0.0 | T4VN | Self-contained email monitoring, delivery tracking, and history dashboard for U… |
+| 2026-11-13 04:34:06 | [Runna.Fs](https://www.nuget.org/packages/Runna.Fs) | 0.2.0 | Nullean and contributors | F# DU/match binding over Nullean.Runna — exhaustive, typed, namespaced build ta… |
+| 2026-11-13 04:34:07 | [Runna](https://www.nuget.org/packages/Runna) | 0.2.0 | Nullean and contributors | Property-dispatch build target DSL with Argh-quality help and per-target typed… |
 
 ## Data source
 

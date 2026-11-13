@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-13T04:24:24.393Z,uTPro.Feature.MailHub,18.0.0,T4VN,"Self-contained email monitoring, delivery tracking, and history dashboard for Umbraco 17 and 18. Wraps Umbraco's IEmailSender with a transparent decorator so all outgoing emails (system notifications, forgot password, invitations, form submissions, e-commerce orders) are automatically recorded with…"
+2026-11-13T04:34:06.457Z,Runna.Fs,0.2.0,Nullean and contributors,"F# DU/match binding over Nullean.Runna — exhaustive, typed, namespaced build targets."
+2026-11-13T04:34:07.067Z,Runna,0.2.0,Nullean and contributors,Property-dispatch build target DSL with Argh-quality help and per-target typed CLI arguments.
