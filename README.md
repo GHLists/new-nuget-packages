@@ -12,23 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 17:20 UTC
+## Latest list — 2026-11-13 18:19 UTC
 
-New packages created between 2026-11-13 16:19 UTC and 2026-11-13 17:20 UTC.
+New packages created between 2026-11-13 17:20 UTC and 2026-11-13 18:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T17-20-27-180569Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T18-19-14-058512Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 16:19:27 | [AmgadRichTextArabic](https://www.nuget.org/packages/AmgadRichTextArabic) | 1.0.0 | Amgad Edward | Rich Text Editor for Blazor with Arabic and English support, image editing, HTM… |
-| 2026-11-13 16:20:20 | [VirtoCommerce.MCP.Testing](https://www.nuget.org/packages/VirtoCommerce.MCP.Testing) | 3.1001.0 | VirtoCommerce.MCP.Testing | Test helpers for modules that add tools to the Virto Commerce MCP module: call… |
-| 2026-11-13 16:30:26 | [Tubatools.AiJunkCleanup](https://www.nuget.org/packages/Tubatools.AiJunkCleanup) | 1.15.0 | 图吧工具箱 | 给 AI 助手增加「垃圾清理」模式：AI 只读扫描并给出带原因和风险的清单，插件解析后由用户逐项确认，默认只勾选低风险项目，确认后直接删除并显示近似进度。 |
-| 2026-11-13 16:38:43 | [Procteye](https://www.nuget.org/packages/Procteye) | 2.1.0 | Procteye | Idiomatic .NET SDK for the Procteye Integrity API (proctoring sessions and Stan… |
-| 2026-11-13 17:02:12 | [EasyGL](https://www.nuget.org/packages/EasyGL) | 1.0.0 | YourNameOrHandle | A zero-dependency C# OpenGL 2D/3D rendering library with an accessible 1-to-10… |
-| 2026-11-13 17:10:11 | [Wavvon.Sdk.AspNetCore](https://www.nuget.org/packages/Wavvon.Sdk.AspNetCore) | 0.1.0 | The Wavvon contributors | Map a Wavvon app's webhook onto an ASP.NET Core minimal-API route. |
-| 2026-11-13 17:10:12 | [Wavvon.Sdk](https://www.nuget.org/packages/Wavvon.Sdk) | 0.1.0 | The Wavvon contributors | Write programs (bots and apps) that talk to a Wavvon hub. |
-| 2026-11-13 17:14:03 | [Voidwell.Common.Configuration.EntityFramework](https://www.nuget.org/packages/Voidwell.Common.Configuration.EntityFramework) | 1.1.0 | VoidwellLabs | Stores runtime-editable application configuration in an Entity Framework Core t… |
-| 2026-11-13 17:14:04 | [Voidwell.Common.RateLimiting](https://www.nuget.org/packages/Voidwell.Common.RateLimiting) | 1.1.0 | VoidwellLabs | Per-client rate limiting for APIs, built on the ASP.NET Core rate limiter. |
+| 2026-11-13 17:22:05 | [AWS.OCI.Builder](https://www.nuget.org/packages/AWS.OCI.Builder) | 0.5.0 | Amazon Web Services | A .NET library for building OCI container images programmatically — overlay loc… |
+| 2026-11-13 17:35:26 | [Umbraco.Community.ModelAliases](https://www.nuget.org/packages/Umbraco.Community.ModelAliases) | 1.0.0 | Matt Bliss | Generates a constants class of property aliases for every Umbraco Models Builde… |
+| 2026-11-13 17:46:04 | [FclEx.Kafka](https://www.nuget.org/packages/FclEx.Kafka) | 2.4.8 | huoshan12345 | Kafka consumer helpers with explicit offset commits, JSON deserializers, header… |
+| 2026-11-13 17:46:05 | [FclEx.RabbitMQ](https://www.nuget.org/packages/FclEx.RabbitMQ) | 2.4.8 | huoshan12345 | RabbitMQ publishers, consumers, and conversion routers with automatic quorum to… |
+| 2026-11-13 17:59:03 | [Harp.Behavior.App](https://www.nuget.org/packages/Harp.Behavior.App) | 3.4.0 | harp-tech | App for configuring and testing Harp Behavior devices. |
+| 2026-11-13 17:59:46 | [SvdGenerator](https://www.nuget.org/packages/SvdGenerator) | 1.0.0 | Thomas Legrand | Generates typed C++ peripheral headers for ARM Cortex-M targets from a CMSIS-SV… |
+| 2026-11-13 18:01:42 | [Sondor.Observability](https://www.nuget.org/packages/Sondor.Observability) | 0.1.0 | Sondor Dev | OpenTelemetry for services, configured from configuration: tracing, metrics and… |
+| 2026-11-13 18:04:22 | [Sang.Service.TallyIntegration](https://www.nuget.org/packages/Sang.Service.TallyIntegration) | 1.0.1 | Sang.Service.TallyIntegration | A typical library application designed to Integrate Tally |
+| 2026-11-13 18:08:42 | [DevelApp.ErpLight.Plugin.Finance](https://www.nuget.org/packages/DevelApp.ErpLight.Plugin.Finance) | 1.0.0 | DevelApp.ai | Finance module plugin for ErpLight ERP system. Provides invoice management, pay… |
+| 2026-11-13 18:08:42 | [DevelApp.ErpLight.Plugin.Inventory](https://www.nuget.org/packages/DevelApp.ErpLight.Plugin.Inventory) | 1.0.0 | DevelApp.ai | Inventory management plugin for ErpLight ERP system. Provides stock tracking, p… |
+| 2026-11-13 18:08:43 | [DevelApp.ErpLight.Plugin.Orders](https://www.nuget.org/packages/DevelApp.ErpLight.Plugin.Orders) | 1.0.0 | DevelApp.ai | Orders management plugin for ErpLight ERP system. Provides order lifecycle mana… |
+| 2026-11-13 18:08:43 | [DevelApp.ErpLight.Plugin.Products](https://www.nuget.org/packages/DevelApp.ErpLight.Plugin.Products) | 1.0.0 | DevelApp.ai | Products catalog plugin for ErpLight ERP system. Provides product catalog manag… |
+| 2026-11-13 18:08:44 | [DevelApp.ErpLight.SharedKernel](https://www.nuget.org/packages/DevelApp.ErpLight.SharedKernel) | 1.0.0 | DevelApp.ai | Shared kernel for ErpLight plugin system providing common domain events, interf… |
+| 2026-11-13 18:09:48 | [Anarchy.Toolkit.Build.Cli](https://www.nuget.org/packages/Anarchy.Toolkit.Build.Cli) | 1.0.0 | Leandro M. Medeiros | Command-line foundations for Anarchy solutions: starter solution scaffolding, b… |
+| 2026-11-13 18:09:49 | [Anarchy.Toolkit.Build.Cli.Tool](https://www.nuget.org/packages/Anarchy.Toolkit.Build.Cli.Tool) | 1.0.0 | Leandro M. Medeiros | The anarchy-toolkit command: bootstrap Anarchy-based .NET solutions and scaffol… |
+| 2026-11-13 18:11:41 | [PhotoMapStudio.Tiles](https://www.nuget.org/packages/PhotoMapStudio.Tiles) | 0.1.0 | scottlz0310 | 地図タイル（ラスター・ベクター MVT・PMTiles）の取得・キャッシュ・レート制御・デコード。描画には依存しない。 |
 
 ## Data source
 

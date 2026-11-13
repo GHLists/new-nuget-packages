@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-13T17:22:05.78Z,AWS.OCI.Builder,0.5.0,Amazon Web Services,"A .NET library for building OCI container images programmatically — overlay local files as a new layer on a base image and push the result to Amazon ECR, without a Docker daemon."
+2026-11-13T17:35:26.76Z,Umbraco.Community.ModelAliases,1.0.0,Matt Bliss,"Generates a constants class of property aliases for every Umbraco Models Builder model, so ContentPage.Aliases.Title is ""title""."
+2026-11-13T17:46:04.06Z,FclEx.Kafka,2.4.8,huoshan12345,"Kafka consumer helpers with explicit offset commits, JSON deserializers, headers, and structured logging."
+2026-11-13T17:46:05.79Z,FclEx.RabbitMQ,2.4.8,huoshan12345,"RabbitMQ publishers, consumers, and conversion routers with automatic quorum topology, confirmed publishing, native delayed delivery, retries, and dead lettering."
+2026-11-13T17:59:03.49Z,Harp.Behavior.App,3.4.0,harp-tech,App for configuring and testing Harp Behavior devices.
+2026-11-13T17:59:46.75Z,SvdGenerator,1.0.0,Thomas Legrand,"Generates typed C++ peripheral headers for ARM Cortex-M targets from a CMSIS-SVD file. The headers are self-contained: strongly-typed, atomic-aware register access with nothing but the standard library."
+2026-11-13T18:01:42.697Z,Sondor.Observability,0.1.0,Sondor Dev,"OpenTelemetry for services, configured from configuration: tracing, metrics and logging with one consistent resource, a required service name, safe defaults, and sampling and signals you can change while the service runs. OTLP export is built in; any other exporter plugs in through the builder."
+2026-11-13T18:04:22.7Z,Sang.Service.TallyIntegration,1.0.1,Sang.Service.TallyIntegration,A typical library application designed to Integrate Tally
+2026-11-13T18:08:42.22Z,DevelApp.ErpLight.Plugin.Finance,1.0.0,DevelApp.ai,"Finance module plugin for ErpLight ERP system. Provides invoice management, payment processing, and financial reporting capabilities."
+2026-11-13T18:08:42.883Z,DevelApp.ErpLight.Plugin.Inventory,1.0.0,DevelApp.ai,"Inventory management plugin for ErpLight ERP system. Provides stock tracking, product management, and inventory alerts."
+2026-11-13T18:08:43.473Z,DevelApp.ErpLight.Plugin.Orders,1.0.0,DevelApp.ai,"Orders management plugin for ErpLight ERP system. Provides order lifecycle management, sales orders, purchase orders, and fulfillment."
+2026-11-13T18:08:43.997Z,DevelApp.ErpLight.Plugin.Products,1.0.0,DevelApp.ai,"Products catalog plugin for ErpLight ERP system. Provides product catalog management, categories, brands, and specifications."
+2026-11-13T18:08:44.633Z,DevelApp.ErpLight.SharedKernel,1.0.0,DevelApp.ai,"Shared kernel for ErpLight plugin system providing common domain events, interfaces, and base classes."
+2026-11-13T18:09:48.14Z,Anarchy.Toolkit.Build.Cli,1.0.0,Leandro M. Medeiros,"Command-line foundations for Anarchy solutions: starter solution scaffolding, build hosts, application templates and dotnet CLI helpers."
+2026-11-13T18:09:49.9Z,Anarchy.Toolkit.Build.Cli.Tool,1.0.0,Leandro M. Medeiros,"The anarchy-toolkit command: bootstrap Anarchy-based .NET solutions and scaffold APIs, jobs and UIs into them from guided wizards."
+2026-11-13T18:11:41.667Z,PhotoMapStudio.Tiles,0.1.0,scottlz0310,地図タイル（ラスター・ベクター MVT・PMTiles）の取得・キャッシュ・レート制御・デコード。描画には依存しない。
