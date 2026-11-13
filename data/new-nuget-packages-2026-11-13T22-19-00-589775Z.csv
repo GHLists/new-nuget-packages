@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-13T21:25:26.537Z,AzureArtifacts.UniversalPackages.Unofficial,0.2.0,Jeremy Morren,A client for downloading Azure Artifacts Universal Packages over plain HTTP. Unofficial: not affiliated with or supported by Microsoft.
+2026-11-13T21:33:37.88Z,PlutoniumBuild,0.1.0,Kiryuumaru,"Build automation for any repository: declarative test, build, and publish entries, version bumping, and GitHub or Azure workflow generation from one .NET CLI."
+2026-11-13T21:33:50.48Z,SB.OpenSearch.Net.Auth.AwsSigV4,3.0.0,Stefano Branco,AWS SigV4 authentication handler for the OpenSearch .NET client transport. AI-written rebuild — not an official opensearch-net package. Use at your own risk.
+2026-11-13T21:33:51.067Z,SB.OpenSearch.Client,3.0.0,Stefano Branco,High-level OpenSearch .NET client with fluent query DSL and code-generated types. AI-written rebuild — not the official OpenSearch.Client package. Use at your own risk.
+2026-11-13T21:33:51.463Z,SB.OpenSearch.Net,3.0.0,Stefano Branco,Low-level transport for OpenSearch .NET clients. AI-written rebuild — not the official opensearch-net package. Use at your own risk.
+2026-11-13T21:41:26.537Z,Fdw.Data.Options,1.5.7,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-13T21:41:32.473Z,Fdw.Data.Options.Abstractions,1.5.7,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-13T21:42:53.05Z,Fdw.Services.Data.Graphs,1.5.7,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-13T22:01:40.303Z,BlazorKinetix.Core,1.0.0,Ivan Kljuce,Shared types and text catalog for BlazorKinetix components.

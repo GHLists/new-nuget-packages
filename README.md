@@ -12,26 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 21:21 UTC
+## Latest list — 2026-11-13 22:19 UTC
 
-New packages created between 2026-11-13 20:21 UTC and 2026-11-13 21:21 UTC.
+New packages created between 2026-11-13 21:21 UTC and 2026-11-13 22:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T21-21-53-449826Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T22-19-00-589775Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 20:22:01 | [Spillgate](https://www.nuget.org/packages/Spillgate) | 0.1.0 | Felix Middelhoff | Decodes untrusted gzip, deflate and identity data (HTTP Content-Encoding and ra… |
-| 2026-11-13 20:22:02 | [Spillgate.Brotli](https://www.nuget.org/packages/Spillgate.Brotli) | 0.1.0 | Felix Middelhoff | Brotli codec for Spillgate, built on the brotli decoder of the .NET runtime (Sy… |
-| 2026-11-13 20:22:03 | [Spillgate.Http](https://www.nuget.org/packages/Spillgate.Http) | 0.1.0 | Felix Middelhoff | HttpClient handler and ASP.NET Core middleware that decode Content-Encoding thr… |
-| 2026-11-13 20:22:05 | [Spillgate.Zstd](https://www.nuget.org/packages/Spillgate.Zstd) | 0.1.0 | Felix Middelhoff | Zstandard codec for Spillgate: a managed decoder with window, dictionary and fr… |
-| 2026-11-13 20:26:46 | [LunchMoney.Sdk](https://www.nuget.org/packages/LunchMoney.Sdk) | 0.1.0 | Bruno Felix | A typed .NET client for the Lunch Money v2 API, with dependency injection, Http… |
-| 2026-11-13 20:33:37 | [MASS4.Guinevere.DevTools](https://www.nuget.org/packages/MASS4.Guinevere.DevTools) | 6.7.0 | Bruno Massa | Package Description |
-| 2026-11-13 20:33:46 | [MASS4.Guinevere.Profiling](https://www.nuget.org/packages/MASS4.Guinevere.Profiling) | 6.7.0 | Bruno Massa | Package Description |
-| 2026-11-13 20:36:31 | [Sondor.Results.Localization](https://www.nuget.org/packages/Sondor.Results.Localization) | 0.1.0 | Sondor Dev | Translated text for a Sondor.Results Error, from the application's own resource… |
-| 2026-11-13 20:36:41 | [ConsoleMonster.Extensions.Serilog](https://www.nuget.org/packages/ConsoleMonster.Extensions.Serilog) | 2.4.1 | Przemyslaw Klys | Serilog output through ConsoleMonster: structured log lines, exceptions and coo… |
-| 2026-11-13 20:36:43 | [ConsoleMonster.Extensions.NLog](https://www.nuget.org/packages/ConsoleMonster.Extensions.NLog) | 2.4.1 | Przemyslaw Klys | NLog output through ConsoleMonster: structured log lines, exceptions and coordi… |
-| 2026-11-13 20:51:49 | [Naravel.Routing.Cache](https://www.nuget.org/packages/Naravel.Routing.Cache) | 0.2.0 | Naravel contributors | A shared store for the Naravel.Routing throttle middleware, counting in a Narav… |
-| 2026-11-13 21:01:31 | [Hto3.OpenApi.JsonMultipartFormDataSupport](https://www.nuget.org/packages/Hto3.OpenApi.JsonMultipartFormDataSupport) | 1.0.0 | HTO3 | Support JSON Multipart data in OpenApi. |
+| 2026-11-13 21:25:26 | [AzureArtifacts.UniversalPackages.Unofficial](https://www.nuget.org/packages/AzureArtifacts.UniversalPackages.Unofficial) | 0.2.0 | Jeremy Morren | A client for downloading Azure Artifacts Universal Packages over plain HTTP. Un… |
+| 2026-11-13 21:33:37 | [PlutoniumBuild](https://www.nuget.org/packages/PlutoniumBuild) | 0.1.0 | Kiryuumaru | Build automation for any repository: declarative test, build, and publish entri… |
+| 2026-11-13 21:33:50 | [SB.OpenSearch.Net.Auth.AwsSigV4](https://www.nuget.org/packages/SB.OpenSearch.Net.Auth.AwsSigV4) | 3.0.0 | Stefano Branco | AWS SigV4 authentication handler for the OpenSearch .NET client transport. AI-w… |
+| 2026-11-13 21:33:51 | [SB.OpenSearch.Client](https://www.nuget.org/packages/SB.OpenSearch.Client) | 3.0.0 | Stefano Branco | High-level OpenSearch .NET client with fluent query DSL and code-generated type… |
+| 2026-11-13 21:33:51 | [SB.OpenSearch.Net](https://www.nuget.org/packages/SB.OpenSearch.Net) | 3.0.0 | Stefano Branco | Low-level transport for OpenSearch .NET clients. AI-written rebuild — not the o… |
+| 2026-11-13 21:41:26 | [Fdw.Data.Options](https://www.nuget.org/packages/Fdw.Data.Options) | 1.5.7 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-13 21:41:32 | [Fdw.Data.Options.Abstractions](https://www.nuget.org/packages/Fdw.Data.Options.Abstractions) | 1.5.7 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-13 21:42:53 | [Fdw.Services.Data.Graphs](https://www.nuget.org/packages/Fdw.Services.Data.Graphs) | 1.5.7 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-13 22:01:40 | [BlazorKinetix.Core](https://www.nuget.org/packages/BlazorKinetix.Core) | 1.0.0 | Ivan Kljuce | Shared types and text catalog for BlazorKinetix components. |
 
 ## Data source
 
