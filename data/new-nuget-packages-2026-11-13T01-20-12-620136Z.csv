@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-11-13T00:39:43.393Z,ScrubTest.Debug.Systems,1.2.0,Orthosilicate,Component System Definitions for the Lab Controls
+2026-11-13T00:41:49.507Z,Webority.Build,0.24.0,Webority Technologies,"The fleet's .NET build settings, rule severities and the guard that refuses an unregistered rule weakening. Imported from Directory.Build.props and Directory.Build.targets; its version is named once in global.json."
+2026-11-13T00:43:15.33Z,Microsoft.SqlServer.SQLtools.MCPserver,0.1.246391418-previ…,Microsoft,"Model Context Protocol (MCP) server for SQL Server, Azure SQL Database, and Azure SQL Managed Instance. Provides AI-powered SQL tools for GitHub Copilot, VS Code, Visual Studio, and other MCP clients. Install with: dnx Microsoft.SqlServer.SQLtools.MCPserver --yes"
+2026-11-13T00:47:14.447Z,E2E.SemVer1Stable.c0b57dc6c36b4a9d9923c55b55d748ca,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.c0b57dc6c36b4a9d9923c55b55d748ca
+2026-11-13T00:47:14.827Z,E2E.EmbeddedIconJpeg.5411f9f247bc4209ab5b13577155adb9,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.5411f9f247bc4209ab5b13577155adb9
+2026-11-13T00:47:14.92Z,E2E.Deprecated.6bffcb8add054a12b7e78f68e6066081,1.0.0,EndToEndTests,Description of E2E.Deprecated.6bffcb8add054a12b7e78f68e6066081
+2026-11-13T00:47:14.92Z,E2E.LicenseFile.3f792707fa954570b6671750742dbba4,1.0.0,EndToEndTests,Description of E2E.LicenseFile.3f792707fa954570b6671750742dbba4
+2026-11-13T00:47:15.647Z,E2E.FullValidation.139fc40ca5ae4b90a424a8f567697d80,1.0.0,EndToEndTests,Description of E2E.FullValidation.139fc40ca5ae4b90a424a8f567697d80
+2026-11-13T00:47:15.647Z,E2E.LicenseExpression.07b83f3ed7c3442192e22017cdce1ab4,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.07b83f3ed7c3442192e22017cdce1ab4
+2026-11-13T00:47:15.647Z,E2E.LicenseUrl.fb1b87be807c48349ef4dd31a7e2d24f,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.fb1b87be807c48349ef4dd31a7e2d24f
+2026-11-13T00:47:15.75Z,E2E.EmbeddedIconPng.c2b729f0dda742af8666b75105924575,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.c2b729f0dda742af8666b75105924575
+2026-11-13T00:47:15.763Z,E2E.EmbeddedReadmeFile.7ede868361974f86a48f0b17318bac0d,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.7ede868361974f86a48f0b17318bac0d
+2026-11-13T00:47:16.887Z,Mockurai.Microsoft.Extensions.Configuration,1.0.2,Mynihongo,A source generator–based mocking library for .NET.
+2026-11-13T00:47:30.863Z,E2E.SymbolsPackage.e795a6f2de0c4e3db68401da3ba622b9,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.e795a6f2de0c4e3db68401da3ba622b9
+2026-11-13T00:47:31.95Z,E2E.DotnetTool.a84bbe362a4345ceba0f28a6fb665dfd,1.0.0,E2E.DotnetTool,Package Description
+2026-11-13T00:49:45.57Z,lib-nx-kit,0.2.1,Nickel42,"Read, convert, merge, split and compress Nintendo Switch content packages: NSP, NSZ, XCI and XCZ in any direction, split-file inputs, base + update + DLC merging, and NCA hash verification. Pure managed; bring your own keys."
+2026-11-13T00:54:20.027Z,ScrubTest.Debug.IO,1.2.0,Orthosilicate,"Serial Ports but glued to Lamda Boxes,"
+2026-11-13T00:58:59.983Z,Cratis.Showrunner.BoxOffice.Product.Availability,2.6.0,Cratis,"Box Office Product availability — lets a Cratis Choreography availability gate read what Box Office entitles the tenant to, such as a module's level, whether the tenant is active and how many seats it has, as the host-provided context value entitlements."
+2026-11-13T00:59:19.17Z,ORM.DataAccess.SQLite,27.0.5,唐扬名,"数据库ORM框架,支持自定义扩展"
+2026-11-13T01:01:19.263Z,Sondor.Cqrs.Results,0.1.0,Sondor Dev,"Sondor.Results support for Sondor.Cqrs: tracing, metrics and logging report a failed Result with its error code, and behaviours can refuse a request by returning one."
+2026-11-13T01:01:43.313Z,MMCA.Common.Azure.Startup,1.289.0,Ivan Ball,"MMCA framework: the Azure start-up adapter. Key Vault configuration, the Azure Monitor exporter and the Blob + Key Vault DataProtection key ring, with no persistence or messaging dependency"
+2026-11-13T01:01:46.057Z,MMCA.Common.ServiceHost,1.289.0,Ivan Ball,"MMCA framework: the composed service-host start-up (AddMmcaServiceHost / UseMmcaServiceHostAsync) over API, Aspire service defaults and gRPC; cloud-neutral, vendor calls arrive as callbacks"
+2026-11-13T01:03:11.26Z,Sondor.Cqrs.FluentValidation,0.1.0,Sondor Dev,"FluentValidation for Sondor.Cqrs: validates every request before its handler and refuses an invalid one, without a result type or an exception, as your response type allows."
