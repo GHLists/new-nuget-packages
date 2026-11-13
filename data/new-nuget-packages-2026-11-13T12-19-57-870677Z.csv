@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-13T11:33:11.867Z,FileBasedApp.Toolkit.Spectre,1.4.0,FileBasedApp.Toolkit.Spectre,Spectre.Console output factories and Spectre.Console.Cli settings helpers for file-based apps.
+2026-11-13T11:33:13.8Z,FileBasedApp.Toolkit.SimpleExec,1.4.0,FileBasedApp.Toolkit.SimpleExec,Fluent command runners and testable SimpleExec wrappers for file-based apps.
+2026-11-13T11:45:21.04Z,Credfeto.ChangeLog.Mcp,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:45:21.633Z,Credfeto.ChangeLog.Mcp.linux-arm64,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:45:21.69Z,Credfeto.ChangeLog.Mcp.osx-x64,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:45:21.737Z,Credfeto.ChangeLog.Mcp.linux-x64,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:45:21.737Z,Credfeto.ChangeLog.Mcp.osx-arm64,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:45:21.997Z,Credfeto.ChangeLog.Mcp.win-arm64,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:45:22.023Z,Credfeto.ChangeLog.Mcp.win-x64,1.10.214.2878-chang…,Mark Ridgwell,Changelog manager MCP server dotnet tool.
+2026-11-13T11:58:03.517Z,E2E.TUnit,0.11.0,hardkoded,"TUnit fixture for the E2E .NET port. Each test gets an engine session, and the replay cache commits from the TUnit result."
+2026-11-13T11:58:05.06Z,E2E.Mobile.TUnit,0.11.0,hardkoded,"MobileAppTest for the E2E .NET port: a ready base class that installs the app, launches it fresh before each test, and shares one hosted device per run."
+2026-11-13T11:58:17.18Z,E2E.WinApp.TUnit,0.11.0,hardkoded,WinAppTest for the E2E .NET port: a ready base class that launches a Windows desktop app fresh before each test and drives it through UI Automation.
+2026-11-13T12:07:37.05Z,LanguageExtended,2.3.1,Jonas Schlag,Package Description
+2026-11-13T12:11:11.52Z,MechaOnion.Tool,0.1.0,MechaOnion,"CLI .NET global tool para gerar projetos e módulos MechaOnion com host ASP.NET Core, Blazor WebAssembly, autenticação por tenant, migrações, docs para agentes e CRUD de exemplo."
