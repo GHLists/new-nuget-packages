@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-13T06:23:22.357Z,LogConverge.Sharp,0.7.0,LogConverge,基于原生 spdlog 内核的静态日志 SDK；当前支持 Windows x64。
+2026-11-13T06:42:46.94Z,Fungusware.Mft,2026.11.13.642,Fungusware,"Reads an NTFS volume's Master File Table directly: every file name and size on a drive in seconds, for ""where did the space go"" tools. Read only, no native code."
+2026-11-13T06:52:16.993Z,DBHelper.NetFx,2.0.0,jimmy.pan,.NET Framework 4.8 版数据库访问层：SQL 外置到 XML 配置文件，通过 KEY + 参数字典执行，支持 MySQL/MariaDB/SQL Server/PostgreSQL 与配置热更新，封装 Dapper
+2026-11-13T07:08:11.967Z,GlrParser,2.0.0-develop,Jan B. Freuer,A Generalized LR (GLR) parser framework.
