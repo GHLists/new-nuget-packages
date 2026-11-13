@@ -1,0 +1,64 @@
+created_at,package,version,authors,description
+2026-11-13T14:25:04.463Z,Titan-Audio-Link.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for Titan-Audio-Link. No kernel driver or installer is included.
+2026-11-13T14:25:05.797Z,Titan-File-Filter.Native,0.1.0,TitanCSA,Public Windows x64 C++ source SDK for Titan-File-Filter. No kernel driver or installer is included.
+2026-11-13T14:25:07.35Z,Titan-Network-Filter.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for Titan-Network-Filter. No kernel driver or installer is included.
+2026-11-13T14:25:08.747Z,USB-over-IP-SDK.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for USB-over-IP-SDK. No kernel driver or installer is included.
+2026-11-13T14:25:10.103Z,USB-Trace-SDK.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for USB-Trace-SDK. No kernel driver or installer is included.
+2026-11-13T14:25:13.567Z,Vdevice.Native,1.0.5,TitanCSA,Public Windows x64 C++ source SDK for Vdevice. No kernel driver or installer is included.
+2026-11-13T14:25:14.793Z,Virtual-Camera-SDK.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for Virtual-Camera-SDK. No kernel driver or installer is included.
+2026-11-13T14:25:17.427Z,Virtual-Network-Adapter-SDK.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for Virtual-Network-Adapter-SDK. No kernel driver or installer is included.
+2026-11-13T14:25:19.027Z,Virtual-Storage-Fault-Lab.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for Virtual-Storage-Fault-Lab. No kernel driver or installer is included.
+2026-11-13T14:25:20.593Z,Windows-Gamepad-Filter.Native,0.1.0,TitanCSA,Public Windows x64 C++ source SDK for Windows-Gamepad-Filter. No kernel driver or installer is included.
+2026-11-13T14:25:21.92Z,Windows-Input-Filter.Native,0.1.0,TitanCSA,Public Windows x64 C++ source SDK for Windows-Input-Filter. No kernel driver or installer is included.
+2026-11-13T14:25:23.35Z,Windows-Keyboard-Mouse-Filter.Native,0.1.0,TitanCSA,Public Windows x64 C++ source SDK for Windows-Keyboard-Mouse-Filter. No kernel driver or installer is included.
+2026-11-13T14:25:24.847Z,Windows-Virtual-Devices.Native,0.1.0,TitanCSA,Public Windows x64 C++ source SDK for Windows-Virtual-Devices. No kernel driver or installer is included.
+2026-11-13T14:25:26.3Z,FyraInput.SDK,1.0.0,TitanCSA,Direct .NET bindings to the FyraInput Windows SDK
+2026-11-13T14:25:27.603Z,FyraInputGamepad.SDK,1.0.0,TitanCSA,Direct .NET bindings to the FyraInput-Gamepad Windows SDK
+2026-11-13T14:25:28.983Z,FyraInputKeyboardMouse.SDK,1.0.0,TitanCSA,Direct .NET bindings to the FyraInput-Keyboard-Mouse Windows SDK
+2026-11-13T14:25:30.313Z,Interceptor.SDK,1.0.0,TitanCSA,Direct .NET bindings to the Interceptor Windows SDK
+2026-11-13T14:25:31.85Z,InterceptorGamepadController.SDK,1.0.0,TitanCSA,Direct .NET bindings to the Interceptor-Gamepad-Controller Windows SDK
+2026-11-13T14:25:33.307Z,InterceptorKeyboardMouse.SDK,1.0.0,TitanCSA,Direct .NET bindings to the Interceptor-Keyboard-Mouse Windows SDK
+2026-11-13T14:25:34.71Z,WindowsGamepadFilter.SDK,1.0.0,TitanCSA,Direct .NET bindings to the Windows-Gamepad-Filter Windows SDK
+2026-11-13T14:25:36.233Z,WindowsInputFilter.SDK,1.0.0,TitanCSA,Direct .NET bindings to the Windows-Input-Filter Windows SDK
+2026-11-13T14:25:37.717Z,WindowsKeyboardMouseFilter.SDK,1.0.0,TitanCSA,Direct .NET bindings to the Windows-Keyboard-Mouse-Filter Windows SDK
+2026-11-13T14:25:39.077Z,FyraDevice.SDK,1.0.0,TitanCSA,Direct Windows x64 FyraDevice SDK
+2026-11-13T14:25:40.497Z,Vdevice.SDK,1.0.0,TitanCSA,Direct Windows x64 Vdevice SDK
+2026-11-13T14:25:41.807Z,WindowsVirtualDevices.SDK,1.0.0,TitanCSA,Direct Windows x64 Windows-Virtual-Devices SDK
+2026-11-13T14:25:43.077Z,FileTraceStudio.SDK,1.0.0,TitanCSA,Direct Windows x64 File-Trace-Studio SDK
+2026-11-13T14:25:44.53Z,ConnectionTraceStudio.SDK,1.0.0,TitanCSA,Direct Windows x64 Connection-Trace-Studio SDK
+2026-11-13T14:25:45.923Z,ProcessTraceStudio.SDK,1.0.0,TitanCSA,Direct Windows x64 Process-Trace-Studio SDK
+2026-11-13T14:25:47.53Z,ProcessGuardSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 ProcessGuard-SDK SDK
+2026-11-13T14:25:48.95Z,RegistryGuard.SDK,1.0.0,TitanCSA,Direct Windows x64 RegistryGuard SDK
+2026-11-13T14:25:50.69Z,StorageIOFlightRecorder.SDK,1.0.0,TitanCSA,Direct Windows x64 Storage-IO-Flight-Recorder SDK
+2026-11-13T14:25:52Z,VirtualStorageFaultLab.SDK,1.0.0,TitanCSA,Direct Windows x64 Virtual-Storage-Fault-Lab SDK
+2026-11-13T14:25:53.423Z,TitanFileFilter.SDK,1.0.0,TitanCSA,Direct Windows x64 Titan-File-Filter SDK
+2026-11-13T14:25:54.68Z,TitanNetworkFilter.SDK,1.0.0,TitanCSA,Direct Windows x64 Titan-Network-Filter SDK
+2026-11-13T14:25:56.097Z,NetworkEmulationSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Network-Emulation-SDK SDK
+2026-11-13T14:25:57.413Z,PacketCaptureSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Packet-Capture-SDK SDK
+2026-11-13T14:25:58.727Z,USBTraceSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 USB-Trace-SDK SDK
+2026-11-13T14:26:00.08Z,VirtualNetworkAdapterSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Virtual-Network-Adapter-SDK SDK
+2026-11-13T14:26:01.357Z,VirtualCameraSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Virtual-Camera-SDK SDK
+2026-11-13T14:26:02.75Z,ChangedBlockTrackingSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Changed-Block-Tracking-SDK SDK
+2026-11-13T14:26:04.2Z,CloudFilesSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Cloud-Files-SDK SDK
+2026-11-13T14:26:05.52Z,HIDAccessControl.SDK,1.0.0,TitanCSA,Direct Windows x64 HID-Access-Control SDK
+2026-11-13T14:26:07.15Z,USBoverIPSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 USB-over-IP-SDK SDK
+2026-11-13T14:26:08.59Z,UserBackedVirtualDiskSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 User-Backed-Virtual-Disk-SDK SDK
+2026-11-13T14:26:11.583Z,RemoteWorkstationSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Remote-Workstation-SDK SDK
+2026-11-13T14:26:12.893Z,TitanAudioLink.SDK,1.0.0,TitanCSA,Direct Windows x64 Titan-Audio-Link SDK
+2026-11-13T14:26:14.16Z,InterceptionV2.SDK,1.0.0,TitanCSA,Direct Windows x64 Interception-V2 SDK
+2026-11-13T14:26:16.797Z,NodeInterceptor.SDK,1.0.0,TitanCSA,Direct Windows x64 node-interceptor SDK
+2026-11-13T14:26:18.163Z,BrowserControlSDK.SDK,1.0.0,TitanCSA,Direct Windows x64 Browser-Control-SDK SDK
+2026-11-13T14:26:19.427Z,NodeInterceptor.Native,1.0.0,TitanCSA,Windows x64 native Node Interceptor compatibility C API and C++ source SDK. Driver installed separately.
+2026-11-13T14:26:30.583Z,AngelSix.ThemeEngine.Fonts,1.0.0,AngelSix,"Fonts for the AngelSix theme engine: free open-licence fonts embedded and registered by the package itself. Typed choices such as ThemeFonts.Inter, the platform system font with fallback, and the plain string form. No AppBuilder call needed."
+2026-11-13T14:30:00.413Z,Gurux.DLMS.DeviceAccess,1.0.2611.1301,Gurux Ltd,"Shared library for DLMS/COSEM meter communication, supporting connection management, data reading and writing, method invocation, certificate management, and firmware updates."
+2026-11-13T14:32:31.513Z,Meziantou.Framework.WebPlatform,1.0.11,meziantou,"Spec-compliant HTML, XML, SVG and CSS parser exposing the browser DOM API (WHATWG DOM, HTML, URL, Encoding, Selectors, CSSOM, DOM XPath)."
+2026-11-13T14:33:40.22Z,TitanCSA.StorageIOFlightRecorder.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for Storage-IO-Flight-Recorder. No kernel driver or installer is included.
+2026-11-13T14:33:42.387Z,TitanCSA.UserBackedVirtualDisk.Native,0.1.1,TitanCSA,Public Windows x64 C++ source SDK for User-Backed-Virtual-Disk-SDK. No kernel driver or installer is included.
+2026-11-13T14:39:54.81Z,ArdinLogger.Core,1.0.42120,ARDINSYS,ArdinSys logger core component
+2026-11-13T14:56:50.263Z,NotificationDispatcher,10.0.1,Rumen Novachkov,"One unified sender over APNService (Apple/APNs) and FCMService (Android/FCM). Describe a push with a common model plus a device platform, and the dispatcher maps it to the right provider, routes by platform, and flattens both responses into one PushResult. Includes AddNotifications() dependency-inj…"
+2026-11-13T14:57:56.873Z,Kazo.Os.AppSdk.Craft,3.3.3,Benoit Robin,"Kazo OS module for the Craft apps (Rust apps compiled to WebAssembly, shown in an iframe of their window): the frame, the iframe proxy, the documents and their files, the per-user settings."
+2026-11-13T15:05:17.27Z,ProQualEx.ModelSaver.AspNetCore,1.0.0,Ricardo Sotolongo,ASP.NET Core Tag Helper adapter for ProQualEx.ModelSaver: automatic hidden-field persistence for <form> elements.
+2026-11-13T15:05:18.753Z,ProQualEx.ModelSaver.Core,1.0.0,Ricardo Sotolongo,Framework-agnostic core for ProQualEx.ModelSaver: attribute-driven automatic hidden-field persistence for ASP.NET MVC forms.
+2026-11-13T15:05:20.097Z,ProQualEx.ModelSaver.Mvc5,1.0.0,Ricardo Sotolongo,ASP.NET MVC 5 adapter for ProQualEx.ModelSaver: automatic hidden-field persistence for Html.BeginForm.
+2026-11-13T15:06:41.623Z,LifeOS.Pdf,0.8.0,Fajararifk,"Open-source PDF library for .NET, written from scratch. Create PDF documents with text, shapes and images. Works on .NET Standard 2.0 and .NET 5 through .NET 10."
+2026-11-13T15:07:26.36Z,ArdinLogger.Serilog,1.0.42124,ARDINSYS,ArdinSys logger Serilog component
