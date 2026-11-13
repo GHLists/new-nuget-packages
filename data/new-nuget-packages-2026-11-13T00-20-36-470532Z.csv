@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-12T23:36:23.91Z,Zymergi.Data,11.3.0-alpha,Oliver Yu,"ADO.NET helpers for Zymergi: connection and command extensions, DbUnitOfWork, SQL builders, IDataRecord mapping, and the connection factory."
+2026-11-12T23:39:04.537Z,Ai.Tlbx.Sip,1.0.0,TLBX,"Managed SIP user agents, call control and bidirectional PCM media for Windows and Linux."
+2026-11-12T23:39:05.887Z,Ai.Tlbx.VoiceAssistant.Sip,11.9.0,TLBX,Per-call SIP PCM audio adapter for Ai.Tlbx.VoiceAssistant.
+2026-11-12T23:44:20.363Z,BinarySerializer.SourceGeneration,10.2.1,Jeff Haynes,Roslyn source generator that emits static registration metadata for BinarySerializer (AOT and trimming support).
+2026-11-12T23:59:39.117Z,Sondor.Cqrs,0.1.0,Sondor Dev,"Commands, queries and notifications dispatched in process, with an opt-in pipeline for tracing, metrics and logging. MIT licensed, no licence key, no third-party dependencies."
+2026-11-13T00:01:29.33Z,IOScene,0.1.0,mahach666,"Neutral scene model for tessellated BIM and CAD data: elements, shared geometry with instances, materials, typed properties, levels, grids, viewpoints, schedules and clash results, with a JSON file format and a structural validator. Pure managed .NET with no dependencies."
