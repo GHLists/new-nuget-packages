@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-13T09:28:11.397Z,Oeeng.Ini.Serializer,1.0.1,OezdemirEngineering,"INI serializer with extensible converter pipeline, collection conversion, and optional expression execution."
+2026-11-13T09:29:32.157Z,cecloud.sqlserverce.embedded,4.0.1,zsc,SQL Server Compact 4.0 嵌入式文件
+2026-11-13T09:36:15.94Z,CompuMaster.MsAccess,0.1.0,CompuMaster.MsAccess,Package Description
+2026-11-13T09:36:42.323Z,Webority.Push.Broadcasts.Admin,0.16.0,Webority Technologies,"The marketing team's pages for push broadcasts in Webority admin portals: the broadcast list, the draft form, and the broadcast page with its test send, approval, pause, cancel and results, in Webority.Ui.Razor markup (<app-*> tag helpers) inside the product's own admin layout, under a PushBroadcas…"
+2026-11-13T09:36:45.553Z,Webority.Push.Testing,0.16.0,Webority Technologies,"Test double for Webority.Push: a fake push sender that records every send and answers with the outcomes a test chooses, plus its registration. No test-framework dependency."
+2026-11-13T09:44:46.257Z,YoYo.Toolkit,1.0.0,在梦想路上狂奔的蜗牛,面向 WPF 桌面应用的轻量工具集：页面导航框架、HTTP 请求基类、常用控件与设备/加密工具，适用于上位机、工控、仪器类项目。全部基于原生 WPF 实现，除 System.Management 外无第三方依赖。
+2026-11-13T10:01:06.313Z,Domleaf,0.1.0,Rckov,".NET bindings for Domleaf, a native desktop UI framework using HTML and CSS."
+2026-11-13T10:01:07.727Z,Domleaf.Templates,0.1.0,Rckov,Project templates for creating desktop applications with Domleaf.
+2026-11-13T10:05:22.737Z,NImpeller,3.50.0.1,AvaloniaUI OÜ,.NET bindings for Flutter's Impeller 2D renderer (impeller.h). Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee).
+2026-11-13T10:05:24.723Z,NImpeller.Native,3.50.0.1,AvaloniaUI OÜ,Pulls in the Impeller native libraries for every supported RID. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee).
+2026-11-13T10:05:26.653Z,NImpeller.Native.android-arm,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for android-arm, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:28.54Z,NImpeller.Native.android-arm64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for android-arm64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:31.263Z,NImpeller.Native.android-x64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for android-x64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:33.79Z,NImpeller.Native.linux-arm64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for linux-arm64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:35.973Z,NImpeller.Native.linux-x64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for linux-x64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:38.413Z,NImpeller.Native.osx-arm64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for osx-arm64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:41.147Z,NImpeller.Native.osx-x64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for osx-x64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:45.827Z,NImpeller.Native.win-arm64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for win-arm64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:05:47.98Z,NImpeller.Native.win-x64,3.50.0.1,AvaloniaUI OÜ,"Impeller native library (libimpeller) for win-x64, used by NImpeller. Built from Flutter 3.50.0 (engine 371f77202a73e8dff57a8b3bff75bca55c090aee)."
+2026-11-13T10:06:55.97Z,hassan-301-skill-verification-js-sdk,26.317.600,Hassan,USE DEMO TO TEST SKILL

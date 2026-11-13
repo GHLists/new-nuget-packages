@@ -12,26 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 09:20 UTC
+## Latest list — 2026-11-13 10:22 UTC
 
-New packages created between 2026-11-13 08:18 UTC and 2026-11-13 09:20 UTC.
+New packages created between 2026-11-13 09:20 UTC and 2026-11-13 10:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T09-20-52-917904Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-13T10-22-03-556683Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 08:22:41 | [TradeWize.SDK](https://www.nuget.org/packages/TradeWize.SDK) | 2.0.0 | TradeWize | TradeWize SDK — TradeWize Console için robot geliştirme kütüphanesi: Robot taba… |
-| 2026-11-13 08:37:13 | [Ranvier](https://www.nuget.org/packages/Ranvier) | 0.2.0 | shayanhabibi | Fine-grained reactive computation for .NET: signals, memos and effects on an ex… |
-| 2026-11-13 08:37:14 | [Ranvier.CSharp](https://www.nuget.org/packages/Ranvier.CSharp) | 0.2.0 | shayanhabibi | C# entry points for Ranvier: delegate-based factories and extension methods. |
-| 2026-11-13 08:37:15 | [Ranvier.Traced](https://www.nuget.org/packages/Ranvier.Traced) | 0.2.0 | shayanhabibi | The traced build of Ranvier: the same assembly, namespaces and version, with th… |
-| 2026-11-13 08:37:16 | [Ranvier.CSharp.Traced](https://www.nuget.org/packages/Ranvier.CSharp.Traced) | 0.2.0 | shayanhabibi | The traced build of Ranvier.CSharp: C# entry points for Ranvier, with the traci… |
-| 2026-11-13 08:37:16 | [Ranvier.Elmish](https://www.nuget.org/packages/Ranvier.Elmish) | 0.2.0 | shayanhabibi | An Elmish-style model-view-update bridge for Ranvier: a model held in a signal,… |
-| 2026-11-13 08:37:17 | [Ranvier.Elmish.Traced](https://www.nuget.org/packages/Ranvier.Elmish.Traced) | 0.2.0 | shayanhabibi | The traced build of Ranvier.Elmish: the model-view-update bridge for Ranvier. D… |
-| 2026-11-13 08:37:18 | [Ranvier.Query](https://www.nuget.org/packages/Ranvier.Query) | 0.2.0 | shayanhabibi | Typed reactive queries and mutation reconciliation for partially loaded applica… |
-| 2026-11-13 08:37:19 | [Ranvier.Query.Traced](https://www.nuget.org/packages/Ranvier.Query.Traced) | 0.2.0 | shayanhabibi | Typed reactive queries and mutation reconciliation for partially loaded applica… |
-| 2026-11-13 08:37:20 | [Ranvier.Wire](https://www.nuget.org/packages/Ranvier.Wire) | 0.2.0 | shayanhabibi | The JSON wire codec of Ranvier's transports: the same wire text on .NET (includ… |
-| 2026-11-13 08:37:24 | [Ranvier.Wire.Traced](https://www.nuget.org/packages/Ranvier.Wire.Traced) | 0.2.0 | shayanhabibi | The JSON wire codec of Ranvier's transports: the same wire text on .NET (includ… |
-| 2026-11-13 08:56:50 | [ConfigFerret](https://www.nuget.org/packages/ConfigFerret) | 0.1.0 | RT | Config provenance tracer: answers "why is this value 42?" by tracing every effe… |
+| 2026-11-13 09:28:11 | [Oeeng.Ini.Serializer](https://www.nuget.org/packages/Oeeng.Ini.Serializer) | 1.0.1 | OezdemirEngineering | INI serializer with extensible converter pipeline, collection conversion, and o… |
+| 2026-11-13 09:29:32 | [cecloud.sqlserverce.embedded](https://www.nuget.org/packages/cecloud.sqlserverce.embedded) | 4.0.1 | zsc | SQL Server Compact 4.0 嵌入式文件 |
+| 2026-11-13 09:36:15 | [CompuMaster.MsAccess](https://www.nuget.org/packages/CompuMaster.MsAccess) | 0.1.0 | CompuMaster.MsAccess | Package Description |
+| 2026-11-13 09:36:42 | [Webority.Push.Broadcasts.Admin](https://www.nuget.org/packages/Webority.Push.Broadcasts.Admin) | 0.16.0 | Webority Technologies | The marketing team's pages for push broadcasts in Webority admin portals: the b… |
+| 2026-11-13 09:36:45 | [Webority.Push.Testing](https://www.nuget.org/packages/Webority.Push.Testing) | 0.16.0 | Webority Technologies | Test double for Webority.Push: a fake push sender that records every send and a… |
+| 2026-11-13 09:44:46 | [YoYo.Toolkit](https://www.nuget.org/packages/YoYo.Toolkit) | 1.0.0 | 在梦想路上狂奔的蜗牛 | 面向 WPF 桌面应用的轻量工具集：页面导航框架、HTTP 请求基类、常用控件与设备/加密工具，适用于上位机、工控、仪器类项目。全部基于原生 WPF 实现，除… |
+| 2026-11-13 10:01:06 | [Domleaf](https://www.nuget.org/packages/Domleaf) | 0.1.0 | Rckov | .NET bindings for Domleaf, a native desktop UI framework using HTML and CSS. |
+| 2026-11-13 10:01:07 | [Domleaf.Templates](https://www.nuget.org/packages/Domleaf.Templates) | 0.1.0 | Rckov | Project templates for creating desktop applications with Domleaf. |
+| 2026-11-13 10:05:22 | [NImpeller](https://www.nuget.org/packages/NImpeller) | 3.50.0.1 | AvaloniaUI OÜ | .NET bindings for Flutter's Impeller 2D renderer (impeller.h). Built from Flutt… |
+| 2026-11-13 10:05:24 | [NImpeller.Native](https://www.nuget.org/packages/NImpeller.Native) | 3.50.0.1 | AvaloniaUI OÜ | Pulls in the Impeller native libraries for every supported RID. Built from Flut… |
+| 2026-11-13 10:05:26 | [NImpeller.Native.android-arm](https://www.nuget.org/packages/NImpeller.Native.android-arm) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for android-arm, used by NImpeller. Built… |
+| 2026-11-13 10:05:28 | [NImpeller.Native.android-arm64](https://www.nuget.org/packages/NImpeller.Native.android-arm64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for android-arm64, used by NImpeller. Bui… |
+| 2026-11-13 10:05:31 | [NImpeller.Native.android-x64](https://www.nuget.org/packages/NImpeller.Native.android-x64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for android-x64, used by NImpeller. Built… |
+| 2026-11-13 10:05:33 | [NImpeller.Native.linux-arm64](https://www.nuget.org/packages/NImpeller.Native.linux-arm64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for linux-arm64, used by NImpeller. Built… |
+| 2026-11-13 10:05:35 | [NImpeller.Native.linux-x64](https://www.nuget.org/packages/NImpeller.Native.linux-x64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for linux-x64, used by NImpeller. Built f… |
+| 2026-11-13 10:05:38 | [NImpeller.Native.osx-arm64](https://www.nuget.org/packages/NImpeller.Native.osx-arm64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for osx-arm64, used by NImpeller. Built f… |
+| 2026-11-13 10:05:41 | [NImpeller.Native.osx-x64](https://www.nuget.org/packages/NImpeller.Native.osx-x64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for osx-x64, used by NImpeller. Built fro… |
+| 2026-11-13 10:05:45 | [NImpeller.Native.win-arm64](https://www.nuget.org/packages/NImpeller.Native.win-arm64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for win-arm64, used by NImpeller. Built f… |
+| 2026-11-13 10:05:47 | [NImpeller.Native.win-x64](https://www.nuget.org/packages/NImpeller.Native.win-x64) | 3.50.0.1 | AvaloniaUI OÜ | Impeller native library (libimpeller) for win-x64, used by NImpeller. Built fro… |
+| 2026-11-13 10:06:55 | [hassan-301-skill-verification-js-sdk](https://www.nuget.org/packages/hassan-301-skill-verification-js-sdk) | 26.317.600 | Hassan | USE DEMO TO TEST SKILL |
 
 ## Data source
 
