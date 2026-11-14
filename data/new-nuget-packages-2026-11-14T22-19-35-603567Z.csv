@@ -1,0 +1,77 @@
+created_at,package,version,authors,description
+2026-11-14T21:27:17.033Z,HPPH.WPF,2.0.0,Darth Affe,WPF extensions for HPPH
+2026-11-14T21:32:05.89Z,Mafesoft.RestClient.Testing,3.2.0,Federico Mazzanti,"Test helpers for Mafesoft.RestClient: a fake server (RestTest) that intercepts the requests of Rest.Build() and of IRestClientFactory, with configurable responses and call assertions. Test framework agnostic."
+2026-11-14T21:54:00.29Z,NCode.Identity.OpenId.Persistence.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:00.703Z,NCode.Identity.Cwt,0.0.1-alpha,NCode Group,"Opt-in CBOR Web Tokens (CWT, RFC 8392) for NCode.Identity over its COSE library: issuance as COSE_Sign1 or COSE_Mac0, optionally inside COSE_Encrypt0 or COSE_Encrypt, and fail-closed validation of algorithms, keys, issuer, audience, lifetime and token type."
+2026-11-14T21:54:01.193Z,NCode.Identity.OpenId.Client,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:01.73Z,NCode.Identity.Jose.Secp256k1,0.0.1-alpha,NCode Group,"Opt-in secp256k1 support for NCode.Identity.Jose — the secp256k1 elliptic curve (JWK crv ""secp256k1"") and the ES256K JWS signature algorithm (ECDSA over secp256k1 with SHA-256, RFC 8812), registered only where the platform's cryptography supports the curve."
+2026-11-14T21:54:02.153Z,NCode.Identity.Json,0.0.1-alpha,NCode Group,"The JSON value model of JOSE, OAuth and OpenID Connect for NCode.Identity: NumericDate coercion, claim sets as object graphs, strict claim reads on JsonElement and the family's JSON converters."
+2026-11-14T21:54:02.587Z,NCode.Identity.Secrets.GoogleCloudKms,0.0.1-alpha,NCode Group,Google Cloud KMS key wrapper and remote key provider for NCode.Identity.
+2026-11-14T21:54:03.11Z,NCode.Identity.OpenId.Persistence.EntityFramework,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:03.543Z,NCode.Identity.Cose.Abstractions,0.0.1-alpha,NCode Group,"Contracts of CBOR Object Signing and Encryption (COSE, RFC 9052 / 9053) for NCode.Identity: the labels and values of COSE maps, the algorithm, key type and curve vocabularies as registered data, the COSE_Key converter and the COSE serializer."
+2026-11-14T21:54:04.013Z,NCode.Identity.OpenId.Authentication.Interactive.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:04.477Z,NCode.Identity.Events.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:04.943Z,NCode.Identity.OpenId.Accounts.Management.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:05.49Z,NCode.Identity.OpenId.Authentication.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:05.967Z,NCode.Identity.Cryptography.Abstractions,0.0.1-alpha,NCode Group,"The contracts of NCode.Identity's cryptography service: random bytes and keys, hashing, and binary encodings as an open vocabulary of registered encoders."
+2026-11-14T21:54:06.393Z,NCode.Identity.Dispatch,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:06.787Z,NCode.Identity.Jwk,0.0.1-alpha,NCode Group,"First-class JSON Web Key (JWK) and JSON Web Key Set (JWKS) types for NCode.Identity, with JWK Thumbprint (RFC 7517 / 7638 / 9278) — a rich, serializable key model shared by the JOSE and Secrets libraries."
+2026-11-14T21:54:07.21Z,NCode.Identity.OpenId.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:07.677Z,NCode.Identity.Jwt.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:08.077Z,NCode.Identity.Jwt,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:08.493Z,NCode.Identity.Registration,0.0.1-alpha,NCode Group,"The registration builder of NCode.Identity: IServiceBuilder<TMarker> with library markers that check each registration's prerequisites at compile time, and strict configuration binding."
+2026-11-14T21:54:08.877Z,NCode.Identity.Jose,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:09.4Z,NCode.Identity.OpenId.Accounts.Management,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:09.84Z,NCode.Identity.Secrets.AwsKms,0.0.1-alpha,NCode Group,AWS KMS key wrapper and remote key provider for NCode.Identity.
+2026-11-14T21:54:10.293Z,NCode.Identity.Persistence.Abstractions,0.0.1-alpha,NCode Group,"The persistence contracts of NCode.Identity: stores, the store manager and its factory, paging, concurrency tokens, the store-neutral concurrency exception and post-commit work."
+2026-11-14T21:54:10.76Z,NCode.Identity.OpenId.Management,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:11.317Z,NCode.Identity.OpenId.Protocol.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:11.763Z,NCode.Identity.OpenId.Accounts,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:12.253Z,NCode.Identity.OpenId.Persistence.EntityFramework.Core,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:12.727Z,NCode.Identity.SharedState.Valkey,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:13.173Z,NCode.Identity.OpenId.Client.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:13.627Z,NCode.Identity.Bff.Blazor.Client,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:14.077Z,NCode.Identity.Bff.Blazor,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:14.563Z,NCode.Identity.Jose.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:15.057Z,NCode.Identity.OpenId.Accounts.Authentication,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:15.47Z,NCode.Identity.Events,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:15.857Z,NCode.Identity.Bff,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:16.28Z,NCode.Identity.Registration.AspNetCore,0.0.1-alpha,NCode Group,"Endpoint registration of NCode.Identity on ASP.NET Core: endpoint providers, nested endpoint groups and endpoint dispositions."
+2026-11-14T21:54:16.68Z,NCode.Identity.Dispatch.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:17.067Z,NCode.Identity.Cose,0.0.1-alpha,NCode Group,"Opt-in CBOR Object Signing and Encryption (COSE, RFC 9052 / 9053) for NCode.Identity over System.Formats.Cbor: COSE_Sign1, COSE_Sign, COSE_Mac0, COSE_Mac, COSE_Encrypt0 and COSE_Encrypt with the family's JOSE algorithms and secret keys, and public COSE_Key and COSE_KeySet conversion."
+2026-11-14T21:54:17.537Z,NCode.Identity.OpenId.Authentication.Interactive,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:17.967Z,NCode.Identity.Jose.EdDsa,0.0.1-alpha,NCode Group,"Clean-room OKP (RFC 8037) support for NCode.Identity.Jose — an OKP secret-key type, EdDSA (Ed25519 / Ed448, RFC 8032) JWS signatures, and ECDH-ES key agreement over X25519 / X448 (RFC 7748), with no third-party cryptographic dependency."
+2026-11-14T21:54:18.417Z,NCode.Identity.OpenId.Core,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:18.927Z,NCode.Identity.OpenId.Management.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:19.36Z,NCode.Identity.AspNetCore.Abstractions,0.0.1-alpha,NCode Group,"The contracts of NCode.Identity's HTTP building blocks: the HTTP result executor and provider contracts, status-code and response-header support, HttpResultException, UriDescriptor and the front-channel endpoint metadata."
+2026-11-14T21:54:19.75Z,NCode.Identity.Cwt.Abstractions,0.0.1-alpha,NCode Group,"Contracts of CBOR Web Tokens (CWT, RFC 8392) for NCode.Identity: the claims set, the issuer and the validator with its fail-closed validation parameters."
+2026-11-14T21:54:20.213Z,NCode.Identity.OpenId.Accounts.AspNetIdentity,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:20.64Z,NCode.Identity.Bff.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:21.083Z,NCode.Identity.Settings,0.0.1-alpha,NCode Group,"The default implementation of NCode.Identity's settings: the setting descriptor and scope collections and their providers, setting collections and their factories, and the setting serializer."
+2026-11-14T21:54:21.54Z,NCode.Identity.Server,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:22.077Z,NCode.Identity.Settings.Abstractions,0.0.1-alpha,NCode Group,"The contracts of NCode.Identity's settings: setting descriptors, scopes, rules and merges, setting collections and their providers and factories, and the setting serializer."
+2026-11-14T21:54:22.527Z,NCode.Identity.Claims.Abstractions,0.0.1-alpha,NCode Group,"The contracts of NCode.Identity's claims: the claims serializer with its serializable claim, identity and principal, and the claims service."
+2026-11-14T21:54:22.96Z,NCode.Identity.AspNetCore,0.0.1-alpha,NCode Group,"The HTTP building blocks of NCode.Identity on ASP.NET Core: page and response security (Content-Security-Policy, icon links, no-store), front-channel endpoint metadata, single-page bundles, form reads, and host hardening with Strict-Transport-Security, trusted forwarded headers, health probes and H…"
+2026-11-14T21:54:23.403Z,NCode.Identity.Cryptography,0.0.1-alpha,NCode Group,"The default implementation of NCode.Identity's cryptography service and its Base64Url, Base64 and hexadecimal binary encoders."
+2026-11-14T21:54:23.85Z,NCode.Identity.Jose.SdJwt,0.0.1-alpha,NCode Group,"Opt-in Selective Disclosure for JWTs (SD-JWT, RFC 9901) for NCode.Identity.Jose — issuance with salted claim digests and decoys, holder presentation with Key Binding JWTs, verification with recursive disclosure resolution, and the SD-JWT VC profile (dc+sd-jwt, vct, status) as data."
+2026-11-14T21:54:24.243Z,NCode.Identity.Time,0.0.1-alpha,NCode Group,"The time values the JWT, CWT and OAuth specifications and NCode.Identity's settings define: NumericDate whole-second precision, the periods a timer accepts and the span between two instants."
+2026-11-14T21:54:24.66Z,NCode.Identity.OpenId.Messages.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:25.12Z,NCode.Identity.OpenId.Accounts.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:25.647Z,NCode.Identity.OpenId.Authentication,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:26.223Z,NCode.Identity.Secrets.AzureKeyVault,0.0.1-alpha,NCode Group,Azure Key Vault key wrapper and remote key provider for NCode.Identity.
+2026-11-14T21:54:26.697Z,NCode.Identity.Secrets.Persistence.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:27.137Z,NCode.Identity.SharedState,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:27.587Z,NCode.Identity.Secrets.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:28.033Z,NCode.Identity.SharedState.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:28.477Z,NCode.Identity.Bff.Protocol.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:28.923Z,NCode.Identity.OpenId.Setup.Abstractions,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:29.327Z,NCode.Identity.Claims,0.0.1-alpha,NCode Group,The default implementation of NCode.Identity's claims serializer and claims service.
+2026-11-14T21:54:29.727Z,NCode.Identity.Bff.Server,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:30.193Z,NCode.Identity.ManagementConsole,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:30.77Z,NCode.Identity.Secrets.Persistence,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:31.2Z,NCode.Identity.Secrets,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:31.67Z,NCode.Identity.OpenId.Setup,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:32.14Z,NCode.Identity.OpenId.Persistence,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T21:54:32.627Z,NCode.Identity.OpenId.Persistence.EntityFramework.Accounts,0.0.1-alpha,NCode Group,Package Description
+2026-11-14T22:04:42.533Z,Nullean.PublicApi,1.1.0,Nullean and contributors,"Reads the public API of .NET assemblies with System.Reflection.Metadata, without loading them: types, members, signatures and attributes, as a model."
+2026-11-14T22:04:46.06Z,Nullean.PublicApi.Diff,1.1.0,Nullean and contributors,"Compares the public API of two versions of .NET assemblies: what was added, removed or changed, the version bump semantic versioning calls for, and which changes affect code that uses them."
