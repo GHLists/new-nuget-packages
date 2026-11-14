@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-14T05:25:03.317Z,Ranvier.FSharp.Lsp,0.1.0,shayanhabibi,"Lightweight stdio JSON-RPC framing, UTF-16 incremental document buffer, LSP client, and diagnostic primitives for F# language tooling."
+2026-11-14T05:25:04.243Z,Ranvier.FSharp.Projects,0.1.0,shayanhabibi,"MSBuild project evaluation, .sln/.slnx workspace discovery, Compile/None/Content glob expansion, and FCS diagnostic projection for Ranvier.FSharp, bundling the declaration-incremental fickle-fsharp FSharp.Compiler.Service."
+2026-11-14T05:25:04.86Z,Ranvier.FSharp.Checker,0.1.0,shayanhabibi,"Demand-driven, declaration-incremental F# type-checking graph powered by Ranvier, with zero compiler-object retention at rest and live in-memory cross-project propagation."
+2026-11-14T05:25:05.58Z,Ranvier.FSharp.Checker.Traced,0.1.0,shayanhabibi,"The traced build of Ranvier.FSharp.Checker: the same assembly, namespaces, and version, with Ranvier node labels and causal trace queries compiled in. Depends on Ranvier.Traced."
+2026-11-14T05:25:06.273Z,Ranvier.FSharp.Server,0.1.0,shayanhabibi,"Embeddable F# Language Server Protocol (LSP) server and Ionide endpoint implementation powered by Ranvier.FSharp.Checker, built upon the Ionide ecosystem (FsAutoComplete, Ionide.LanguageServerProtocol, Ionide.ProjInfo)."
+2026-11-14T05:25:06.937Z,Ranvier.FSharp.Server.Traced,0.1.0,shayanhabibi,"The traced build of Ranvier.FSharp.Server: the same assembly, namespaces, and version, with `rfs/why` causal graph inspection enabled, built upon the Ionide ecosystem. Depends on Ranvier.FSharp.Checker.Traced."
+2026-11-14T05:31:08.84Z,pppp-dotnet,1.0.0,7mochi,osu! difficulty and performance calculation for all four gamemodes
+2026-11-14T05:32:10.353Z,Ranvier.Css.Build.Traced,0.1.1,shayanhabibi,Deterministic static CSS asset compilation for Ranvier utilities and stylesheets.
+2026-11-14T05:32:10.71Z,Ranvier.Css,0.1.1,shayanhabibi,"Typed CSS values, stylesheets, composable reactive utilities and specification-generated CSS bindings for Ranvier on .NET and Fable."
+2026-11-14T05:32:11.077Z,Ranvier.Css.Build,0.1.1,shayanhabibi,Deterministic static CSS asset compilation for Ranvier utilities and stylesheets.
+2026-11-14T05:32:11.88Z,Ranvier.Css.Bindings.Traced,0.1.1,shayanhabibi,Specification-generated typed CSS properties and ergonomic helpers for Ranvier.
+2026-11-14T05:32:12.52Z,Ranvier.Css.Bindings,0.1.1,shayanhabibi,Specification-generated typed CSS properties and ergonomic helpers for Ranvier.
+2026-11-14T05:32:12.773Z,Ranvier.Css.Traced,0.1.1,shayanhabibi,"Typed CSS values, stylesheets, composable reactive utilities and specification-generated CSS bindings for Ranvier on .NET and Fable."
+2026-11-14T05:32:13.627Z,Ranvier.Css.Core,0.1.1,shayanhabibi,"Runtime for Ranvier.Css: typed CSS values, stylesheets and composable reactive utilities for Ranvier on .NET and Fable. Install Ranvier.Css to also get the generated CSS bindings."
+2026-11-14T05:32:14.17Z,Ranvier.Css.Core.Traced,0.1.1,shayanhabibi,"Runtime for Ranvier.Css: typed CSS values, stylesheets and composable reactive utilities for Ranvier on .NET and Fable. Install Ranvier.Css to also get the generated CSS bindings."
+2026-11-14T05:32:48.02Z,WebFilez.Plugins.Video,1.0.3,Matt Gordon,"Optional video thumbnails for WebFilez. Chain it with AddVideo(). Without this package, WebFilez thumbnails images only."
+2026-11-14T05:42:28.11Z,Cider.Native.Runtime.linux-x64,0.1.5,David Obando,Prebuilt native llama.cpp (v0.9.0) runtime libraries for linux-x64. Restored automatically by Cider.Native.
+2026-11-14T05:42:29.25Z,Cider.Native.Runtime.linux-arm64,0.1.5,David Obando,Prebuilt native llama.cpp (v0.9.0) runtime libraries for linux-arm64. Restored automatically by Cider.Native.
+2026-11-14T05:42:30.537Z,Cider.Native.Runtime.win-x64,0.1.5,David Obando,Prebuilt native llama.cpp (v0.9.0) runtime libraries for win-x64. Restored automatically by Cider.Native.
+2026-11-14T05:42:31.547Z,Cider.Native.Runtime.win-arm64,0.1.5,David Obando,Prebuilt native llama.cpp (v0.9.0) runtime libraries for win-arm64. Restored automatically by Cider.Native.
+2026-11-14T05:42:32.55Z,Cider.Native.Runtime.osx-x64,0.1.5,David Obando,Prebuilt native llama.cpp (v0.9.0) runtime libraries for osx-x64. Restored automatically by Cider.Native.
+2026-11-14T05:42:33.563Z,Cider.Native.Runtime.osx-arm64,0.1.5,David Obando,Prebuilt native llama.cpp (v0.9.0) runtime libraries for osx-arm64. Restored automatically by Cider.Native.
+2026-11-14T05:45:04.89Z,Fable.Ranvier.Css.Dom.Traced,0.1.0,shayanhabibi,Typed Ranvier.Css declarations compiled against the shared Fable DOM contracts.
+2026-11-14T05:45:05.297Z,Ranvier.Css.Dom.Traced,0.1.0,shayanhabibi,Typed Ranvier.Css declarations for shared browser and native DOM style objects.
+2026-11-14T05:45:06.67Z,Ranvier.Css.Dom,0.1.0,shayanhabibi,Typed Ranvier.Css declarations for shared browser and native DOM style objects.
+2026-11-14T05:45:06.97Z,Fable.Ranvier.Css.Dom,0.1.0,shayanhabibi,Typed Ranvier.Css declarations compiled against the shared Fable DOM contracts.
+2026-11-14T06:13:39.213Z,EncDotNet.S100.Tides.Stations,0.28.0,Phillip Hoff,"A catalogue of tide and tidal current stations for EncDotNet.S100.Tides: harmonic and subordinate stations with their constituents, time and height differences and tidal datums, a NOAA CO-OPS metadata client with a cheap check for newer data, a documented JSON file format for an offline cache or yo…"
