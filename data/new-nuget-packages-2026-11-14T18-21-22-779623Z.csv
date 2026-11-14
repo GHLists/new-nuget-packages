@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-14T17:19:17.61Z,MailPier.Inbox.Client,0.1.1,Solutions Group Unlimited LLC,".NET client for MailPier Inbox: create test addresses, wait for an email in your tests and read its links, one-time codes and attachments."
+2026-11-14T17:24:08.197Z,Inertia.Net.MongoDB,1.9.0,Inertia.Net contributors,MongoDB pagination for Inertia.Net (not Native AOT compatible).
+2026-11-14T17:24:10.14Z,Inertia.Net.Redis,1.9.0,Inertia.Net contributors,A Redis cache store for Inertia.Net: cached props and SSR renders shared by every app instance.
+2026-11-14T17:31:32.38Z,BccCode.Privacy.EntityFrameworkCore,0.1.0,BCC,"Purpose-bound access to personal data in EF Core and PostgreSQL: a basis per organisation and process, a query filter, sharing between organisations by data item, and generated read views."
+2026-11-14T17:38:04.6Z,NAPS2.Images.Skia,1.6.1,Ben Olden-Cooligan,Images based on SkiaSharp for NAPS2.Sdk.
+2026-11-14T17:49:19.333Z,DataJuggler.Excelerate.Office,11.0.0,"DataJuggler,Tony Qu,NPOI Contributors","Independent build of NPOI (a .NET port of Apache POI) under the Apache 2.0 license, used by DataJuggler.Excelerate. Not affiliated with the NPOI project."
+2026-11-14T17:51:21.1Z,OpenRAR.NET,2.4.0,OpenRAR Project,"OpenRAR C# SDK — P/Invoke binding over the frozen OpenRAR C ABI (RAR 5.0 read, list, verify, extract)"
+2026-11-14T17:55:30.923Z,Bitzsoft.Integrations.AI.Testing,1.1.0,Bitzsoft,Bitzsoft AI 与 MCP 测试支持包 — 无测试框架锁定的存储端口契约测试基类、进程内测试替身、受控测试时钟与 FDE 黄金评估运行器
