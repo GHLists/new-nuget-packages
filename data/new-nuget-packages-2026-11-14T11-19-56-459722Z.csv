@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-14T10:27:52.477Z,Mossie.Incus.Client,7.6.0-alpha,Mossie,"C# client for the Incus REST API, translated from the official Go client and shared/api models (Incus v7.6.0)."
+2026-11-14T10:32:52.957Z,GCR.Domains.Core.Common,0.1.0,GCR,Core 模块领域层：实体基类与通用抽象
+2026-11-14T10:32:58.69Z,GCR.Applications.Core.Common,0.1.0,GCR,Core 模块应用层：通用异常与分页结果
+2026-11-14T10:33:01.007Z,GCR.Applications.Core.Extensions,0.1.0,GCR,Core 模块应用层：扩展契约、装配目录与核心模块
+2026-11-14T10:33:03.097Z,GCR.Applications.Core.Localization,0.1.0,GCR,Core 模块应用层：多语言基础设施，语言包装载与本地化服务
+2026-11-14T10:33:06.23Z,GCR.Blazor.Components,0.1.0,GCR,GCR 通用后台组件库：基于 gcr.css 设计体系的 Blazor 组件集合
+2026-11-14T10:33:08.26Z,GCR.Domains.Admin.Audit,0.1.0,GCR,Admin 模块领域层：审计上下文
+2026-11-14T10:33:10.313Z,GCR.Domains.Admin.Branding,0.1.0,GCR,Admin 内置模块领域层：品牌与站点上下文
+2026-11-14T10:33:12.477Z,GCR.Domains.Admin.Identity,0.1.0,GCR,Admin 模块领域层：身份与访问上下文
+2026-11-14T10:33:14.547Z,GCR.Domains.Core.Security,0.1.0,GCR,Core 模块领域层：安全抽象与密码哈希基本实现
+2026-11-14T10:33:16.853Z,GCR.Infrastructures.Core.Persistence,0.1.0,GCR,Core 模块基础设施层：EF Core 上下文与种子数据
+2026-11-14T10:33:19Z,GCR.Infrastructures.Core.Security,0.1.0,GCR,Core 模块基础设施层：JWT 签发基本实现
+2026-11-14T10:37:45.037Z,ExcelFAST,6.2611.14-Beta,Smurf-IV,"## 2026-11-13 - V6 - Excel_FAST - Beta - ✅ Add .Net11 TFM support across all four target frameworks (`net8.0`, `net9.0`, `net10.0`, `net11.0`) - Replaced the previous float round-trip memory comparison in CellValue.IsExactlyDouble with a fast memory-overlay check on the underlying 64-bit decimal ma…"
+2026-11-14T10:51:19.9Z,Ished,0.1.0,Bridge,"IshedDB, written as MongoDB’s official driver of each language (.NET, as MongoDB.Driver)"
+2026-11-14T10:56:40.28Z,PolishOpenData.Eli,1.9.0,JacekSmi,"Typed .NET client for the Polish legal-acts API of the Sejm (ELI, api.sejm.gov.pl): find acts in Dziennik Ustaw and Monitor Polski, read their status, consolidated texts and amendments, and read one article with its provenance. No key needed. Unofficial; not affiliated with the Sejm."
+2026-11-14T11:02:44.423Z,AbpPlugin.Web,0.2.0,AbpPlugin contributors,"Plugins' web parts for an AbpPlugin host: serves each enabled plugin's browser bundle from the version installed, and lists their Module Federation remotes for the page, with what the application adds to each."
+2026-11-14T11:04:24.78Z,AbpWebhooks,0.5.0,AbpCluster contributors,"AbpWebhooks: signed outgoing webhooks for an ABP app on .NET 10 and EF Core. A queue in the application's own database, delivery ids that stay the same however often an event is heard, a worker on each server that claims, POSTs and signs each delivery (X-Webhook-Signature, HMAC-SHA256 of the timest…"

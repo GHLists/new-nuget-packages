@@ -12,31 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 10:19 UTC
+## Latest list — 2026-11-14 11:19 UTC
 
-New packages created between 2026-11-14 09:19 UTC and 2026-11-14 10:19 UTC.
+New packages created between 2026-11-14 10:19 UTC and 2026-11-14 11:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-14T10-19-04-720711Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-14T11-19-56-459722Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-14 09:20:37 | [Ranvier.FSharp.Agent](https://www.nuget.org/packages/Ranvier.FSharp.Agent) | 0.1.0 | shayanhabibi | Semantic F# code analysis CLI and Model Context Protocol (MCP) server (`rfs`) b… |
-| 2026-11-14 09:29:46 | [PgOutput2Json.ClickHouse](https://www.nuget.org/packages/PgOutput2Json.ClickHouse) | 2.0.0 | PgOutput2Json | PgOutput2Json.ClickHouse library uses logical replication to copy rows from Pos… |
-| 2026-11-14 09:32:05 | [Ranvier.Css.View.Traced](https://www.nuget.org/packages/Ranvier.Css.View.Traced) | 0.1.1 | shayanhabibi | Typed CSS utility attributes and reactive style bindings for Ranvier.View. |
-| 2026-11-14 09:32:05 | [Ranvier.Css.View](https://www.nuget.org/packages/Ranvier.Css.View) | 0.1.1 | shayanhabibi | Typed CSS utility attributes and reactive style bindings for Ranvier.View. |
-| 2026-11-14 09:37:58 | [Ranvier.D5](https://www.nuget.org/packages/Ranvier.D5) | 0.1.0 | Ranvier contributors | Functional visualization foundations for F#: data, scales, geometry, layouts an… |
-| 2026-11-14 09:37:59 | [Ranvier.D5.Charts](https://www.nuget.org/packages/Ranvier.D5.Charts) | 0.1.0 | Ranvier contributors | Pure functional chart compositions for Ranvier.D5. |
-| 2026-11-14 09:38:00 | [Ranvier.D5.Charts.Traced](https://www.nuget.org/packages/Ranvier.D5.Charts.Traced) | 0.1.0 | Ranvier contributors | Pure functional chart compositions for Ranvier.D5. |
-| 2026-11-14 09:38:01 | [Ranvier.D5.Geo](https://www.nuget.org/packages/Ranvier.D5.Geo) | 0.1.0 | Ranvier contributors | Functional geographic geometry and map projections for Ranvier.D5. |
-| 2026-11-14 09:38:01 | [Ranvier.D5.Geo.Traced](https://www.nuget.org/packages/Ranvier.D5.Geo.Traced) | 0.1.0 | Ranvier contributors | Functional geographic geometry and map projections for Ranvier.D5. |
-| 2026-11-14 09:38:02 | [Ranvier.D5.Traced](https://www.nuget.org/packages/Ranvier.D5.Traced) | 0.1.0 | Ranvier contributors | Functional visualization foundations for F#: data, scales, geometry, layouts an… |
-| 2026-11-14 09:38:03 | [Ranvier.D5.View](https://www.nuget.org/packages/Ranvier.D5.View) | 0.1.0 | Ranvier contributors | Keyed native SVG rendering for Ranvier.D5 scenes using Ranvier.View. |
-| 2026-11-14 09:38:03 | [Ranvier.D5.View.Traced](https://www.nuget.org/packages/Ranvier.D5.View.Traced) | 0.1.0 | Ranvier contributors | Keyed native SVG rendering for Ranvier.D5 scenes using Ranvier.View. |
-| 2026-11-14 09:39:32 | [assembly-differ.skills](https://www.nuget.org/packages/assembly-differ.skills) | 1.0.0 | Nullean and contributors | The agent skill for the assembly-differ dotnet tool: how a coding agent finds o… |
-| 2026-11-14 09:55:02 | [CmdWarden](https://www.nuget.org/packages/CmdWarden) | 0.12.0 | CmdWarden | CmdWarden CLI + Session Agent + Approval Gate helper (per-user). State under Lo… |
-| 2026-11-14 09:55:25 | [ConstExpr](https://www.nuget.org/packages/ConstExpr) | 0.1.0 | James Hughes | C# compile-time expressions with Roslyn analysers and source generation. |
-| 2026-11-14 09:57:46 | [GitSnapshotter](https://www.nuget.org/packages/GitSnapshotter) | 0.1.0 | BusHero | Take a snapshot of a git repository's branches, tags, remotes, HEAD and (option… |
-| 2026-11-14 09:57:47 | [GitSnapshotter.Tool](https://www.nuget.org/packages/GitSnapshotter.Tool) | 0.1.0 | BusHero | Command-line tool that takes a snapshot of a git repository's branches, tags, r… |
+| 2026-11-14 10:27:52 | [Mossie.Incus.Client](https://www.nuget.org/packages/Mossie.Incus.Client) | 7.6.0-alpha | Mossie | C# client for the Incus REST API, translated from the official Go client and sh… |
+| 2026-11-14 10:32:52 | [GCR.Domains.Core.Common](https://www.nuget.org/packages/GCR.Domains.Core.Common) | 0.1.0 | GCR | Core 模块领域层：实体基类与通用抽象 |
+| 2026-11-14 10:32:58 | [GCR.Applications.Core.Common](https://www.nuget.org/packages/GCR.Applications.Core.Common) | 0.1.0 | GCR | Core 模块应用层：通用异常与分页结果 |
+| 2026-11-14 10:33:01 | [GCR.Applications.Core.Extensions](https://www.nuget.org/packages/GCR.Applications.Core.Extensions) | 0.1.0 | GCR | Core 模块应用层：扩展契约、装配目录与核心模块 |
+| 2026-11-14 10:33:03 | [GCR.Applications.Core.Localization](https://www.nuget.org/packages/GCR.Applications.Core.Localization) | 0.1.0 | GCR | Core 模块应用层：多语言基础设施，语言包装载与本地化服务 |
+| 2026-11-14 10:33:06 | [GCR.Blazor.Components](https://www.nuget.org/packages/GCR.Blazor.Components) | 0.1.0 | GCR | GCR 通用后台组件库：基于 gcr.css 设计体系的 Blazor 组件集合 |
+| 2026-11-14 10:33:08 | [GCR.Domains.Admin.Audit](https://www.nuget.org/packages/GCR.Domains.Admin.Audit) | 0.1.0 | GCR | Admin 模块领域层：审计上下文 |
+| 2026-11-14 10:33:10 | [GCR.Domains.Admin.Branding](https://www.nuget.org/packages/GCR.Domains.Admin.Branding) | 0.1.0 | GCR | Admin 内置模块领域层：品牌与站点上下文 |
+| 2026-11-14 10:33:12 | [GCR.Domains.Admin.Identity](https://www.nuget.org/packages/GCR.Domains.Admin.Identity) | 0.1.0 | GCR | Admin 模块领域层：身份与访问上下文 |
+| 2026-11-14 10:33:14 | [GCR.Domains.Core.Security](https://www.nuget.org/packages/GCR.Domains.Core.Security) | 0.1.0 | GCR | Core 模块领域层：安全抽象与密码哈希基本实现 |
+| 2026-11-14 10:33:16 | [GCR.Infrastructures.Core.Persistence](https://www.nuget.org/packages/GCR.Infrastructures.Core.Persistence) | 0.1.0 | GCR | Core 模块基础设施层：EF Core 上下文与种子数据 |
+| 2026-11-14 10:33:19 | [GCR.Infrastructures.Core.Security](https://www.nuget.org/packages/GCR.Infrastructures.Core.Security) | 0.1.0 | GCR | Core 模块基础设施层：JWT 签发基本实现 |
+| 2026-11-14 10:37:45 | [ExcelFAST](https://www.nuget.org/packages/ExcelFAST) | 6.2611.14-Beta | Smurf-IV | ## 2026-11-13 - V6 - Excel_FAST - Beta - ✅ Add .Net11 TFM support across all fo… |
+| 2026-11-14 10:51:19 | [Ished](https://www.nuget.org/packages/Ished) | 0.1.0 | Bridge | IshedDB, written as MongoDB’s official driver of each language (.NET, as MongoD… |
+| 2026-11-14 10:56:40 | [PolishOpenData.Eli](https://www.nuget.org/packages/PolishOpenData.Eli) | 1.9.0 | JacekSmi | Typed .NET client for the Polish legal-acts API of the Sejm (ELI, api.sejm.gov.… |
+| 2026-11-14 11:02:44 | [AbpPlugin.Web](https://www.nuget.org/packages/AbpPlugin.Web) | 0.2.0 | AbpPlugin contributors | Plugins' web parts for an AbpPlugin host: serves each enabled plugin's browser… |
+| 2026-11-14 11:04:24 | [AbpWebhooks](https://www.nuget.org/packages/AbpWebhooks) | 0.5.0 | AbpCluster contributors | AbpWebhooks: signed outgoing webhooks for an ABP app on .NET 10 and EF Core. A… |
 
 ## Data source
 
