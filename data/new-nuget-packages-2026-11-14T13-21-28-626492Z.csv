@@ -1,0 +1,23 @@
+created_at,package,version,authors,description
+2026-11-14T12:22:34.69Z,AbpAi.HttpApi,0.7.0,AbpAi contributors,"AbpAi.HttpApi: the model gateway's admin API over HTTP, under a route prefix the host sets. Site settings, connections (test, provider models, discovery), aliases, limits per scope and per account, which site models a scope may use, usage (queries, a person's own, recent calls, CSV) and exports of…"
+2026-11-14T12:27:51.413Z,Electrical.Interop,1.1.0,Gravicode Studios (Kang Fadhil),"Model exchange for Electrical.Net: PSS/E RAW (v33/v35) reader and writer, IEEE Common Data Format reader, and format auto-detection into the PowerNetwork model."
+2026-11-14T12:27:52.553Z,Electrical.Distribution,1.1.0,Gravicode Studios (Kang Fadhil),"Distribution systems for Electrical.Net: unbalanced three-phase (phase-frame) power flow with single- and two-phase laterals, line geometry with Carson's equations and Kron reduction, wye/delta loads, voltage regulators, OLTC and capacitor controllers, OpenDSS .dss reader and IEEE test feeders."
+2026-11-14T12:34:49.16Z,GCR.Applications.Admin.Audit,0.1.0,GCR,Admin 模块应用层：审计上下文
+2026-11-14T12:34:51.233Z,GCR.Applications.Admin.Branding,0.1.0,GCR,Admin 内置模块应用层：品牌与站点上下文
+2026-11-14T12:34:53.23Z,GCR.Applications.Admin.Common,0.1.0,GCR,Admin 模块应用层：模块装配入口
+2026-11-14T12:34:57.817Z,GCR.Applications.Admin.Identity,0.1.0,GCR,Admin 模块应用层：身份与访问上下文
+2026-11-14T12:35:07.79Z,GCR.Cli,0.1.0,GCR,GCR.Framework 脚手架：创建模块与插件工程、打包扩展包、提交前契约自检
+2026-11-14T12:35:17.62Z,GCR.Infrastructures.Admin.Audit,0.1.0,GCR,Admin 模块基础设施层：审计仓储
+2026-11-14T12:35:19.353Z,GCR.Infrastructures.Admin.Branding,0.1.0,GCR,Admin 内置模块基础设施层：品牌参数仓储
+2026-11-14T12:35:21.27Z,GCR.Infrastructures.Admin.Identity,0.1.0,GCR,Admin 模块基础设施层：身份与访问仓储
+2026-11-14T12:42:33.843Z,Primo.MIA,1.8.0,Chelslava,"Библиотека расширенных активностей для платформы Primo RPA (~130 активностей: Browser, Database, HTTP, SFTP, RabbitMQ, Crypto, Collections, Files, Calendar, Text, и другие)"
+2026-11-14T12:48:56.15Z,Elsa.Connections,3.10.1,Elsa Workflows Community,Provides tenant and environment scoped outbound connection credential lifecycle services.
+2026-11-14T12:48:57.83Z,Elsa.Connections.Credentials.Workflows,3.10.1,Elsa Workflows Community,Resolves logical workflow credential bindings within trusted tenant and host environment scope.
+2026-11-14T12:48:57.8Z,Elsa.Connections.Credentials.Persistence.EFCore,3.10.1,Elsa Workflows Community,Provides durable EF Core persistence for outbound connection credential lifecycle state.
+2026-11-14T12:48:57.93Z,Elsa.Connections.Credentials.Persistence.EFCore.PostgreSql,3.10.1,Elsa Workflows Community,Provides PostgreSQL persistence for outbound connection lifecycle state.
+2026-11-14T12:50:02.327Z,Elsa.Workflows.Admission,3.10.1,Elsa Workflows Community,Provides durable event admission and guarded isolated local workflow execution.
+2026-11-14T12:50:02.47Z,Elsa.Workflows.Admission.Persistence.EFCore,3.10.1,Elsa Workflows Community,Transactional durable admission persistence for selected relational providers.
+2026-11-14T12:50:03.357Z,Elsa.Workflows.Admission.Persistence.EFCore.PostgreSql,3.10.1,Elsa Workflows Community,Selected PostgreSQL admission ledger and isolated definition bootstrap persistence.
+2026-11-14T12:59:46.153Z,ChiffadicErrors,0.1.0,Chiffa,Package Description
+2026-11-14T13:06:24.913Z,Lengko.Alert.Wpf,1.0.0,"LengkoDev, Cas","Modern, responsive, zero-dependency alert dialogs and toast notifications for WPF inspired by SweetAlert2. Supports modals, toasts, inputs, animations, and timer auto-close in both sync and async APIs."
+2026-11-14T13:07:57.88Z,Spdx.Expressions,0.1.0,Dmitry Garavsky,"Offline SPDX 2.3.1 expression parsing, validation and source-preserving formatting."
