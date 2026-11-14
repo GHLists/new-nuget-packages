@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-14T18:27:22.017Z,DarkStrata.CredentialCheck.Umbraco.Automate,2.9.0,DarkStrata,"Adds a ""Compromised Credential Detected"" trigger to Umbraco Automate, so a breached member or backoffice login or password change can start an automation. Requires DarkStrata.CredentialCheck.Umbraco."
+2026-11-14T18:45:02.383Z,EFCore_DaIn_11,11.0.0,ignatandrei,EF Core 11 contracts and plugin loader for dynamically loaded database providers.
+2026-11-14T19:00:25.217Z,ArionPay,1.0.0,ArionPay,"Official .NET client for ArionPay crypto payments: create invoices, verify signed webhooks, test in the sandbox. Payments go straight to your own wallet. No dependencies."
+2026-11-14T19:03:31.97Z,VersionFlow.Extensions.Railway,1.0.1,Bradley Ables,"Dependency-free railway results with typed errors, validation, recovery, and fluent operation chaining."
+2026-11-14T19:03:56.183Z,VersionFlow.Extensions.Results,1.0.1,Bradley Ables,"Immutable operation outcomes, collection and pagination results, and UTC cursor helpers."
+2026-11-14T19:03:58.873Z,Electrical.Markets,1.2.0,Gravicode Studios (Kang Fadhil),"Electricity markets for Electrical.Net: security-constrained unit commitment (MILP), day-ahead and real-time market clearing with supply offers and demand bids, locational marginal prices with energy/congestion/loss decomposition, financial transmission rights and settlement."
+2026-11-14T19:04:00.907Z,Electrical.Optimization.Highs,1.2.0,Gravicode Studios (Kang Fadhil),HiGHS LP/MIP solver adapter for Electrical.Net (IMilpSolver / ILpSolver backed by the HiGHS open-source solver).
+2026-11-14T19:04:05.51Z,Electrical.Optimization.OrTools,1.2.0,Gravicode Studios (Kang Fadhil),"Google OR-Tools solver adapter for Electrical.Net (IMilpSolver / ILpSolver backed by OR-Tools linear solvers: SCIP, CBC, GLOP, PDLP)."
+2026-11-14T19:04:23.98Z,VersionFlow.Extensions.Results.AspNetCore,1.0.1,Bradley Ables,ASP.NET Core HTTP mapping for VersionFlow result contracts.
