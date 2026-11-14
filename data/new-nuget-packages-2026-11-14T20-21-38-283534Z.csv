@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-14T19:31:42.17Z,Transiever.Common.Cli,1.2.0,Transiever.Common.Cli,Stateless secret-input mechanics for Transiever command-line tools.
+2026-11-14T19:34:45.07Z,SkyeTechnology.Umbraco.ResourceSpace,1.0.0,Skye Technology,"Bring Your Own DAM: ResourceSpace connector for Umbraco 17+ by Skye Technology, featuring a signed Management API proxy, Lit backoffice picker, Razor & Delivery API property value converter, and resilient caching."
+2026-11-14T19:37:37.553Z,SignalMoat.AspNetCore,0.3.1,Siddharth Saraf,"SignalMoat middleware for ASP.NET Core: verify AI agents, enforce per-agent policies, and get early warning of probing, brute force and credential stuffing."
+2026-11-14T19:38:03.95Z,BorrowedTorch.MonoGame.Content.Builder.Compute,3.8.6.101,"Elzianor, cpt-max, MonoGame Team","The MonoGame 3.8.6.1 Content Builder (MGCB) command line tool, built from BorrowedTorch's fork with compute (cpt-max's): its effects are MGFX 100, with compute, hull, domain and geometry shaders, the format BorrowedTorch.MonoGame.Framework.Compute.WindowsDX reads. Run as dotnet mgcb-bt; BorrowedTor…"
+2026-11-14T19:38:04.687Z,BorrowedTorch.MonoGame.Content.Builder.Task.Compute,3.8.6.101,"Elzianor, cpt-max, MonoGame Team","MSBuild task to automatically build content for MonoGame, with BorrowedTorch's content builder: it runs dotnet mgcb-bt, the tool BorrowedTorch.MonoGame.Content.Builder.Compute, which the project's dotnet tool manifest (.config/dotnet-tools.json) must hold at the same version. Its effects are MGFX 1…"
+2026-11-14T19:39:10.927Z,Pervaxis.Genesis.Secrets,3.4.5,Clarivex Technologies,Package Description
+2026-11-14T19:39:12.38Z,Pervaxis.Genesis.Secrets.AWS,3.4.5,Clarivex Technologies,Package Description
+2026-11-14T19:39:13.063Z,Pervaxis.Genesis.Parameters,3.4.5,Clarivex Technologies,Package Description
+2026-11-14T19:39:13.85Z,Pervaxis.Genesis.Parameters.AWS,3.4.5,Clarivex Technologies,Package Description
+2026-11-14T19:40:14.757Z,Caprine.Durations,0.1.0,Caprine Logic,Compile-time duration literals and calendar arithmetic for .NET.
+2026-11-14T19:47:47.777Z,NinePatch.Core,2.1.0,Duško,"Nine-patch (.9.png) rendering for .NET, backed by a native C++ renderer. UI-framework independent."
+2026-11-14T19:47:50.047Z,NinePatchWpf,2.1.0,Duško,"WPF controls skinned with nine-patch (.9.png) images: button, toggle, check box, radio button, combo box, text box, label, slider, progress bar, scroll bar, rotary knob."
+2026-11-14T19:59:31.143Z,Domore.Logs.Windows,11.1.0,Ken Yourek,Do more logs in WPF
+2026-11-14T20:10:47.913Z,AviSynthApi,1.0.0,Etienne Charland,"Managed AviSynth+ script evaluation, video frames, interleaved audio samples, and native function discovery for .NET."
+2026-11-14T20:11:09.85Z,VapourSynthApi,1.0.0,Etienne Charland,"Managed VapourSynth 4 script evaluation, video and planar audio frames, ordered frame events, and native plugin discovery for .NET."
+2026-11-14T20:11:38.907Z,FitnessClub.Generic,1.0.0,Kristina Stetsiuk,"Reusable base types: Entity, Person, IBookable and a generic in-memory repository."
+2026-11-14T20:13:41.233Z,nDAWControls,1.0.0,Duško Žigić,"WPF controls for DAW and MIDI applications: knobs, faders, meters, channel strips, transport bar, piano keyboard, piano roll, controller lane, step sequencer, XY pad, envelope editor, wheels and pedals. Five built-in skins, switchable at runtime."
