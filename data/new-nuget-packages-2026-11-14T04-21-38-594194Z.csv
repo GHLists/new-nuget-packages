@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-14T03:32:45.503Z,Ecuafact.Sdk,1.0.0,Ecuanexus,"Cliente oficial de Ecuafact para .NET: emite y consulta los seis comprobantes electronicos del SRI de Ecuador (factura, liquidacion de compra, notas de credito y debito, guia de remision y retencion). Incluye validacion previa, seguimiento hasta el estado final, descarga de RIDE y XML, reintentos s…"
+2026-11-14T03:32:57.8Z,Ecuafact.Sdk.Core,1.0.0,Ecuanexus,"Integracion con Microsoft.Extensions.DependencyInjection para Ecuafact.Sdk: AddEcuafactClient, clientes con nombre y configuracion desde IConfiguration sobre IHttpClientFactory."
+2026-11-14T03:42:15.733Z,GAMFrameWorkContracts,1.0.1.2,WillGAM06,Package Description
+2026-11-14T03:50:35.47Z,Lode,0.3.0,https://github.com/SimonCropp/Lode/graphs/contributors,Alternative to Windows File Explorer.
+2026-11-14T03:54:55.303Z,Harp.SoundCard.App,3.0.0,harp-tech,"App for generating, uploading and playing sounds on Harp Sound Card devices."
+2026-11-14T04:05:06.507Z,Lengko.DockingPanel.WinForm,1.0.0,"LengkoDev, Cas","Modern, high-performance, and responsive window docking suite for Windows Forms with Visual Studio-style document tabs, auto-hide strips, interactive splitters, dock diamonds, and zero external dependencies."
+2026-11-14T04:08:27.637Z,Laranet.Http,0.2.1,TheJavaZ,"Optional convenience layer over HttpClient for typed, cancellation-aware API calls with safe retries."
+2026-11-14T04:10:10.2Z,FluentSetup.Builder.Core,1.2.0,FluentSetup contributors,"Build native Windows 11-style installers (a single Setup.exe) from .NET code: the project model, validation and packaging library behind the fluentsetup CLI and the FluentSetup Builder app. Includes the installer runtime."
+2026-11-14T04:10:11.98Z,FluentSetup.Cli,1.2.0,FluentSetup contributors,"fluentsetup: the command-line tool of FluentSetup. Builds native Windows 11-style installers (a single Setup.exe) from a fluentsetup.json, validates projects, inspects packages and writes winget manifests. Includes the installer runtime."
+2026-11-14T04:10:13.803Z,FluentSetup.MSBuild,1.2.0,FluentSetup contributors,Builds a native Windows 11-style installer (Setup.exe) of your .NET app as part of dotnet publish: set FluentSetupProject to a fluentsetup.json. Brings its own fluentsetup CLI and installer runtime.
