@@ -12,28 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 23:21 UTC
+## Latest list — 2026-11-14 00:21 UTC
 
-New packages created between 2026-11-13 22:19 UTC and 2026-11-13 23:21 UTC.
+New packages created between 2026-11-13 23:21 UTC and 2026-11-14 00:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-13T23-21-33-619194Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-14T00-21-29-593862Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-13 22:19:46 | [NumSharp.Interop.TorchSharp](https://www.nuget.org/packages/NumSharp.Interop.TorchSharp) | 0.81.0 | Eli Belash, Haiping Chen, Mei… | Interop between NumSharp NDArray and TorchSharp tensors (.NET bindings for libt… |
-| 2026-11-13 22:27:15 | [HtmlToOpenXml.CssInliner](https://www.nuget.org/packages/HtmlToOpenXml.CssInliner) | 1.0.0 | Olivier Nizet | Extension library to HtmlToOpenXml to support CSS stylesheet. |
-| 2026-11-13 22:32:45 | [Medical.HuggingFace](https://www.nuget.org/packages/Medical.HuggingFace) | 1.3.0 | Gravicode Studios (Kang Fadhi… | Medical.Net on Hugging Face via HF.Net (GraviTransformers): local transformer m… |
-| 2026-11-13 22:45:37 | [AbpPlugin.Sdk](https://www.nuget.org/packages/AbpPlugin.Sdk) | 0.1.1 | AbpPlugin contributors | What a plugin references to run in an AbpPlugin host: its entry, registrations,… |
-| 2026-11-13 22:45:38 | [AbpPlugin.Sign](https://www.nuget.org/packages/AbpPlugin.Sign) | 0.1.1 | AbpPlugin contributors | Signs plugin packages for an AbpPlugin host and makes signing keys: what a buil… |
-| 2026-11-13 22:45:38 | [AbpPlugin.Packaging](https://www.nuget.org/packages/AbpPlugin.Packaging) | 0.1.1 | AbpPlugin contributors | The package format of AbpPlugin: signing keys and their IDs, a package's digest… |
-| 2026-11-13 22:45:39 | [AbpPlugin](https://www.nuget.org/packages/AbpPlugin) | 0.1.1 | AbpPlugin contributors | A plugin host for ABP applications: installs signed plugin packages at run time… |
-| 2026-11-13 22:45:39 | [AbpPlugin.Build](https://www.nuget.org/packages/AbpPlugin.Build) | 0.1.1 | AbpPlugin contributors | Builds a plugin for an AbpPlugin host into the folder and the zip the host inst… |
-| 2026-11-13 22:58:32 | [PolishOpenData.Bdl](https://www.nuget.org/packages/PolishOpenData.Bdl) | 1.8.0 | JacekSmi | Typed .NET client for the GUS Bank Danych Lokalnych (BDL) API: find voivodeship… |
-| 2026-11-13 22:58:34 | [PolishOpenData.Ceidg](https://www.nuget.org/packages/PolishOpenData.Ceidg) | 1.8.0 | JacekSmi | Typed .NET client for the CEIDG v3 API (Centralna Ewidencja i Informacja o Dzia… |
-| 2026-11-13 22:58:35 | [PolishOpenData.Geo.Nts](https://www.nuget.org/packages/PolishOpenData.Geo.Nts) | 1.8.0 | JacekSmi | NetTopologySuite adapter for PolishOpenData: turns the WKT parcel boundary from… |
-| 2026-11-13 23:02:53 | [Dloizides.Approvals](https://www.nuget.org/packages/Dloizides.Approvals) | 0.1.0 | DLoizides | Maker-checker (four-eyes) approval rule: refuses an approver who contributed to… |
-| 2026-11-13 23:06:02 | [Sondor.AspNetCore](https://www.nuget.org/packages/Sondor.AspNetCore) | 0.1.0 | Sondor Dev | One consistent RFC 9457 problem response for an ASP.NET Core API: a failed Sond… |
-| 2026-11-13 23:11:01 | [Identity.Authorization.AspNetCore](https://www.nuget.org/packages/Identity.Authorization.AspNetCore) | 0.1.0 | DLoizides | ASP.NET Core wiring for the Identity.Abstractions permission model: a perm:name… |
+| 2026-11-13 23:22:01 | [Cider.NET](https://www.nuget.org/packages/Cider.NET) | 0.1.2 | David Obando | Low-level Jev-compatible System One decision model library (Choice, Score, Noul… |
+| 2026-11-13 23:22:02 | [Cider.Native](https://www.nuget.org/packages/Cider.Native) | 0.1.2 | David Obando | In-process GGUF v3 weight loader, byte-level BPE tokenizer, K-row selective LM-… |
+| 2026-11-13 23:22:03 | [Cider.Server](https://www.nuget.org/packages/Cider.Server) | 0.1.2 | David Obando | Drop-in Jev-compatible POST /v1/systemone and /v1/classifier HTTP decision serv… |
+| 2026-11-13 23:24:13 | [E2E.FullValidation.765e735a125442f58f468589a07677c1](https://www.nuget.org/packages/E2E.FullValidation.765e735a125442f58f468589a07677c1) | 1.0.0 | EndToEndTests | Description of E2E.FullValidation.765e735a125442f58f468589a07677c1 |
+| 2026-11-13 23:24:13 | [E2E.EmbeddedIconPng.d2247f1b830f4494a97f9856653be329](https://www.nuget.org/packages/E2E.EmbeddedIconPng.d2247f1b830f4494a97f9856653be329) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconPng.d2247f1b830f4494a97f9856653be329 |
+| 2026-11-13 23:24:13 | [E2E.EmbeddedReadmeFile.55f0ff8b3b71464cb3b333129bfc6c1f](https://www.nuget.org/packages/E2E.EmbeddedReadmeFile.55f0ff8b3b71464cb3b333129bfc6c1f) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedReadmeFile.55f0ff8b3b71464cb3b333129bfc6c1f |
+| 2026-11-13 23:24:14 | [E2E.LicenseFile.e2ba9f7bf6064a87860633f3721def46](https://www.nuget.org/packages/E2E.LicenseFile.e2ba9f7bf6064a87860633f3721def46) | 1.0.0 | EndToEndTests | Description of E2E.LicenseFile.e2ba9f7bf6064a87860633f3721def46 |
+| 2026-11-13 23:24:14 | [E2E.EmbeddedIconJpeg.b5e755d6efcc46479b21fa6a558e0ae6](https://www.nuget.org/packages/E2E.EmbeddedIconJpeg.b5e755d6efcc46479b21fa6a558e0ae6) | 1.0.0 | EndToEndTests | Description of E2E.EmbeddedIconJpeg.b5e755d6efcc46479b21fa6a558e0ae6 |
+| 2026-11-13 23:24:14 | [E2E.LicenseExpression.be862124e6ba4489bb2481002616cc4d](https://www.nuget.org/packages/E2E.LicenseExpression.be862124e6ba4489bb2481002616cc4d) | 1.0.0 | EndToEndTests | Description of E2E.LicenseExpression.be862124e6ba4489bb2481002616cc4d |
+| 2026-11-13 23:24:14 | [E2E.SemVer1Stable.9c5b6750bc6244d592acb3d9eabae8ab](https://www.nuget.org/packages/E2E.SemVer1Stable.9c5b6750bc6244d592acb3d9eabae8ab) | 1.0.0 | EndToEndTests | Description of E2E.SemVer1Stable.9c5b6750bc6244d592acb3d9eabae8ab |
+| 2026-11-13 23:24:14 | [E2E.LicenseUrl.ec8393e4a7044e6fbde390cc74331c31](https://www.nuget.org/packages/E2E.LicenseUrl.ec8393e4a7044e6fbde390cc74331c31) | 1.0.0 | EndToEndTests | Description of E2E.LicenseUrl.ec8393e4a7044e6fbde390cc74331c31 |
+| 2026-11-13 23:24:15 | [E2E.Deprecated.a069917e75814e6b8ad3f4d9b8d71a93](https://www.nuget.org/packages/E2E.Deprecated.a069917e75814e6b8ad3f4d9b8d71a93) | 1.0.0 | EndToEndTests | Description of E2E.Deprecated.a069917e75814e6b8ad3f4d9b8d71a93 |
+| 2026-11-13 23:24:49 | [E2E.SymbolsPackage.4013939e87314d84b0ab5ba823450c25](https://www.nuget.org/packages/E2E.SymbolsPackage.4013939e87314d84b0ab5ba823450c25) | 1.0.0 | EndToEndTests | Description of E2E.SymbolsPackage.4013939e87314d84b0ab5ba823450c25 |
+| 2026-11-13 23:24:49 | [E2E.DotnetTool.1cf005247b7c4e5fb2313153bbfbb9f0](https://www.nuget.org/packages/E2E.DotnetTool.1cf005247b7c4e5fb2313153bbfbb9f0) | 1.0.0 | E2E.DotnetTool | Package Description |
+| 2026-11-13 23:41:13 | [Io.Cdktn.Bundler.Local](https://www.nuget.org/packages/Io.Cdktn.Bundler.Local) | 0.1.0 | cdktn-io | Host-process asset bundler for CDK Terrain |
+| 2026-11-13 23:49:58 | [DbLens.Mcp](https://www.nuget.org/packages/DbLens.Mcp) | 0.1.1 | Matteo Belletti | Local MCP server that lets Claude inspect and diagnose PostgreSQL and SQL Serve… |
+| 2026-11-14 00:06:32 | [Domleaf.Cpp](https://www.nuget.org/packages/Domleaf.Cpp) | 0.2.0 | Rckov | C++ bindings for Domleaf, a native desktop UI framework using HTML and CSS. |
+| 2026-11-14 00:07:19 | [FastIDs.TypeId.EntityFramework](https://www.nuget.org/packages/FastIDs.TypeId.EntityFramework) | 1.0.0 | Mykhailo Matviiv | Entity Framework Core integration (value converters, conventions and value gene… |
 
 ## Data source
 

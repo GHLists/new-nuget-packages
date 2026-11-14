@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-11-13T23:22:01.277Z,Cider.NET,0.1.2,David Obando,"Low-level Jev-compatible System One decision model library (Choice, Score, Noul) for .NET written in G#, supporting small Qwen models via in-process GGUF or Ollama/SystemOne HTTP backends."
+2026-11-13T23:22:02.67Z,Cider.Native,0.1.2,David Obando,"In-process GGUF v3 weight loader, byte-level BPE tokenizer, K-row selective LM-head projection engine, and libllama Metal/CPU P/Invoke backend for Cider.NET."
+2026-11-13T23:22:03.98Z,Cider.Server,0.1.2,David Obando,Drop-in Jev-compatible POST /v1/systemone and /v1/classifier HTTP decision server tool powered by Cider.NET and Cider.Native.
+2026-11-13T23:24:13.27Z,E2E.FullValidation.765e735a125442f58f468589a07677c1,1.0.0,EndToEndTests,Description of E2E.FullValidation.765e735a125442f58f468589a07677c1
+2026-11-13T23:24:13.523Z,E2E.EmbeddedIconPng.d2247f1b830f4494a97f9856653be329,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.d2247f1b830f4494a97f9856653be329
+2026-11-13T23:24:13.98Z,E2E.EmbeddedReadmeFile.55f0ff8b3b71464cb3b333129bfc6c1f,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.55f0ff8b3b71464cb3b333129bfc6c1f
+2026-11-13T23:24:14.02Z,E2E.LicenseFile.e2ba9f7bf6064a87860633f3721def46,1.0.0,EndToEndTests,Description of E2E.LicenseFile.e2ba9f7bf6064a87860633f3721def46
+2026-11-13T23:24:14.037Z,E2E.EmbeddedIconJpeg.b5e755d6efcc46479b21fa6a558e0ae6,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.b5e755d6efcc46479b21fa6a558e0ae6
+2026-11-13T23:24:14.913Z,E2E.LicenseExpression.be862124e6ba4489bb2481002616cc4d,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.be862124e6ba4489bb2481002616cc4d
+2026-11-13T23:24:14.913Z,E2E.SemVer1Stable.9c5b6750bc6244d592acb3d9eabae8ab,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.9c5b6750bc6244d592acb3d9eabae8ab
+2026-11-13T23:24:14.94Z,E2E.LicenseUrl.ec8393e4a7044e6fbde390cc74331c31,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.ec8393e4a7044e6fbde390cc74331c31
+2026-11-13T23:24:15.37Z,E2E.Deprecated.a069917e75814e6b8ad3f4d9b8d71a93,1.0.0,EndToEndTests,Description of E2E.Deprecated.a069917e75814e6b8ad3f4d9b8d71a93
+2026-11-13T23:24:49.09Z,E2E.SymbolsPackage.4013939e87314d84b0ab5ba823450c25,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.4013939e87314d84b0ab5ba823450c25
+2026-11-13T23:24:49.843Z,E2E.DotnetTool.1cf005247b7c4e5fb2313153bbfbb9f0,1.0.0,E2E.DotnetTool,Package Description
+2026-11-13T23:41:13Z,Io.Cdktn.Bundler.Local,0.1.0,cdktn-io,Host-process asset bundler for CDK Terrain
+2026-11-13T23:49:58.61Z,DbLens.Mcp,0.1.1,Matteo Belletti,"Local MCP server that lets Claude inspect and diagnose PostgreSQL and SQL Server databases: schema, undeclared foreign keys, indexes, GDPR exposure, cascades, migration safety and query plans. Read-only; returns no row data by default."
+2026-11-14T00:06:32.633Z,Domleaf.Cpp,0.2.0,Rckov,"C++ bindings for Domleaf, a native desktop UI framework using HTML and CSS."
+2026-11-14T00:07:19.787Z,FastIDs.TypeId.EntityFramework,1.0.0,Mykhailo Matviiv,"Entity Framework Core integration (value converters, conventions and value generators) for FastIDs.TypeId"
