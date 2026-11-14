@@ -1,0 +1,48 @@
+created_at,package,version,authors,description
+2026-11-14T13:36:49.39Z,Supertext.Sdk,0.6.0,Supertext AG,"Client for the Supertext AI translation API: translate HTML and texts, with language codes, rate-limit retries and HTML packing handled for you."
+2026-11-14T13:45:43.793Z,ModularPipelines.Ansible,4.0.0,Tom Longhurst,Helpers for interacting with Ansible configuration management CLI.
+2026-11-14T13:45:46.51Z,ModularPipelines.ArgoCd,4.0.0,Tom Longhurst,Helpers for interacting with ArgoCD GitOps continuous delivery CLI.
+2026-11-14T13:45:52.517Z,ModularPipelines.Azure,4.0.0,Tom Longhurst,Helpers for interacting with Azure.
+2026-11-14T13:45:55.493Z,ModularPipelines.Buildah,4.0.0,Tom Longhurst,Helpers for interacting with Buildah OCI container image builder CLI.
+2026-11-14T13:46:04.913Z,ModularPipelines.Cosign,4.0.0,Tom Longhurst,Helpers for interacting with Cosign CLI for container signing and verification.
+2026-11-14T13:46:07.4Z,ModularPipelines.Distributed.Artifacts.S3,4.0.0-beta,Tom Longhurst,"S3-compatible distributed artifact store for ModularPipelines. Supports AWS S3, Cloudflare R2, Backblaze B2, and MinIO."
+2026-11-14T13:46:09.963Z,ModularPipelines.Distributed.Discovery.Redis,4.0.0-beta,Tom Longhurst,Redis-based master endpoint discovery for distributed coordinators. Enables cross-network pipeline distribution by advertising the master endpoint via Redis.
+2026-11-14T13:46:12.56Z,ModularPipelines.Distributed.Redis,4.0.0-beta,Tom Longhurst,"Redis-based distributed coordinator for ModularPipelines, built on the Respire client. Enables multi-process and multi-machine pipeline execution using Redis for coordination."
+2026-11-14T13:46:15.113Z,ModularPipelines.Distributed.SignalR,4.0.0-beta,Tom Longhurst,SignalR-based distributed coordinator for ModularPipelines. Enables multi-process pipeline execution using SignalR for direct master-worker communication.
+2026-11-14T13:46:23.503Z,ModularPipelines.Eksctl,4.0.0,Tom Longhurst,Helpers for interacting with eksctl Amazon EKS cluster management CLI.
+2026-11-14T13:46:28.767Z,ModularPipelines.Flux,4.0.0,Tom Longhurst,Helpers for interacting with Flux GitOps toolkit for Kubernetes CLI.
+2026-11-14T13:46:31.303Z,ModularPipelines.Flyway,4.0.0,Tom Longhurst,Helpers for interacting with Flyway database migration tool CLI.
+2026-11-14T13:46:42.087Z,ModularPipelines.Go,4.0.0,Tom Longhurst,Helpers for interacting with Go CLI.
+2026-11-14T13:46:48.84Z,ModularPipelines.Grype,4.0.0,Tom Longhurst,Helpers for interacting with Grype CLI for vulnerability scanning.
+2026-11-14T13:46:51.403Z,ModularPipelines.Hadolint,4.0.0,Tom Longhurst,Helpers for interacting with Hadolint Dockerfile linter CLI.
+2026-11-14T13:46:56.653Z,ModularPipelines.Homebrew,4.0.0,Tom Longhurst,Helpers for interacting with the Homebrew CLI.
+2026-11-14T13:46:59.277Z,ModularPipelines.Java,4.0.0,Tom Longhurst,"Helpers for interacting with Java build tools (Maven, Gradle)."
+2026-11-14T13:47:01.787Z,ModularPipelines.Jq,4.0.0,Tom Longhurst,Helpers for interacting with jq JSON processor CLI.
+2026-11-14T13:47:04.417Z,ModularPipelines.Kind,4.0.0,Tom Longhurst,Helpers for interacting with Kind (Kubernetes IN Docker) CLI.
+2026-11-14T13:47:09.65Z,ModularPipelines.Liquibase,4.0.0,Tom Longhurst,Helpers for interacting with Liquibase database change management CLI.
+2026-11-14T13:47:14.82Z,ModularPipelines.Minikube,4.0.0,Tom Longhurst,Helpers for interacting with Minikube CLI for local Kubernetes clusters.
+2026-11-14T13:47:17.36Z,ModularPipelines.NerdbankGitVersioning,4.0.0,Tom Longhurst,Helpers for interacting with the Nerdbank.GitVersioning nbgv CLI.
+2026-11-14T13:47:19.833Z,ModularPipelines.Newman,4.0.0,Tom Longhurst,Helpers for interacting with Newman Postman collection runner CLI.
+2026-11-14T13:47:25.24Z,ModularPipelines.OpenTelemetry,4.0.0,Tom Longhurst,"OpenTelemetry tracing, metrics, and OTLP export for Modular Pipelines."
+2026-11-14T13:47:27.86Z,ModularPipelines.Packer,4.0.0,Tom Longhurst,Helpers for interacting with HashiCorp Packer machine image builder CLI.
+2026-11-14T13:47:31.16Z,ModularPipelines.Podman,4.0.0,Tom Longhurst,Helpers for interacting with Podman daemonless container engine CLI.
+2026-11-14T13:47:33.87Z,ModularPipelines.Pulumi,4.0.0,Tom Longhurst,Helpers for interacting with Pulumi Infrastructure as Code CLI.
+2026-11-14T13:47:36.403Z,ModularPipelines.Python,4.0.0,Tom Longhurst,"Helpers for interacting with Python tooling (pip, etc.)."
+2026-11-14T13:47:38.89Z,ModularPipelines.Rust,4.0.0,Tom Longhurst,Helpers for interacting with Cargo (Rust package manager) CLI.
+2026-11-14T13:47:41.59Z,ModularPipelines.Shellcheck,4.0.0,Tom Longhurst,Helpers for interacting with ShellCheck shell script static analysis CLI.
+2026-11-14T13:47:44.11Z,ModularPipelines.Skopeo,4.0.0,Tom Longhurst,Helpers for interacting with Skopeo container image operations CLI.
+2026-11-14T13:47:49.327Z,ModularPipelines.Snyk,4.0.0,Tom Longhurst,Helpers for interacting with Snyk security CLI.
+2026-11-14T13:47:51.817Z,ModularPipelines.SonarScanner,4.0.0,Tom Longhurst,Helpers for interacting with SonarScanner CLI for SonarQube and SonarCloud.
+2026-11-14T13:47:54.363Z,ModularPipelines.Syft,4.0.0,Tom Longhurst,Helpers for interacting with Syft CLI for SBOM (Software Bill of Materials) generation.
+2026-11-14T13:47:59.523Z,ModularPipelines.Templates,4.0.0,Tom Longhurst,"Templates for creating realistic ModularPipelines build, test, and publish pipelines."
+2026-11-14T13:48:03.597Z,ModularPipelines.Testing,4.0.0,Tom Longhurst,Supported test harness for isolated ModularPipelines module tests.
+2026-11-14T13:48:06.147Z,ModularPipelines.Trivy,4.0.0,Tom Longhurst,Helpers for interacting with Trivy security scanner CLI.
+2026-11-14T13:48:08.77Z,ModularPipelines.Vault,4.0.0,Tom Longhurst,Helpers for interacting with HashiCorp Vault secrets management CLI.
+2026-11-14T13:48:16.67Z,ModularPipelines.Yq,4.0.0,Tom Longhurst,Helpers for interacting with yq YAML/JSON/XML processor CLI.
+2026-11-14T13:55:17.66Z,Dwain.TextProgressbar,1.0.0,Dwain Snickles,"Custom WinForms ProgressBar control with three-color gradient rendering, configurable border and aligned text overlay. Based on taancer/aProgressBar (https://github.com/taancer/aProgressBar)."
+2026-11-14T14:00:32.507Z,Egortech.GitLabSourceLink,0.2.0,Egortech,"Generates Source Link mappings that use the GitLab REST API, so that private repositories on self-hosted GitLab instances can be debugged from Visual Studio, Rider and VS Code."
+2026-11-14T14:04:00.083Z,HoneyDrunk.AI.Providers.Anthropic,0.3.0,HoneyDrunk Studios,HoneyDrunk.AI Anthropic chat provider over the official Anthropic SDK.
+2026-11-14T14:05:45.1Z,Super,1.0.0,Christoffer Artmann,"A C# game engine you use as a library, with a 3D Vulkan renderer built in. Made so a coding agent can build, run, test and see a game with no editor."
+2026-11-14T14:08:00.463Z,Moonwell.AI,0.16.0,mdlsvensson,"Brains for Moonwell maps: components that think on a shared loop, and blackboards of facts they read up a chain from the unit to its player and the game."
+2026-11-14T14:08:01.84Z,Moonwell.AI.Combat,0.16.0,mdlsvensson,"Combat for Moonwell maps' brains, on Moonwell.AI: a lane walker that walks a route and fights what it meets, target choice by scored rules, casting by condition, and pulling back, each a node a map's own tree can use."
+2026-11-14T14:08:02.883Z,Moonwell.Simulation,0.16.0,mdlsvensson,"Fake Warcraft III world for running a map's code in .NET, faster than real time, for tests and simulations."
