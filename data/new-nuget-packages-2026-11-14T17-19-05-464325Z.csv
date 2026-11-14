@@ -1,0 +1,26 @@
+created_at,package,version,authors,description
+2026-11-14T16:32:33.617Z,Sharplight.HuggingFace,0.1.2-alpha,Sharplight contributors,Hugging Face checkpoint importer (safetensors + config.json + tokenizer files) producing the canonical model source.
+2026-11-14T16:32:34.367Z,Sharplight.AspNetCore,0.1.2-alpha,Sharplight contributors,ASP.NET Core minimal-API endpoints exposing a Sharplight model through OpenAI- and Anthropic-compatible HTTP APIs.
+2026-11-14T16:32:35.14Z,Sharplight.Templating,0.1.2-alpha,Sharplight contributors,Jinja2-compatible template engine for chat templates.
+2026-11-14T16:32:35.853Z,Sharplight.Tokenizers,0.1.2-alpha,Sharplight contributors,"Tokenizers for Sharplight: BPE, SentencePiece, WordPiece and Unigram, compatible with Hugging Face and GGUF vocabularies."
+2026-11-14T16:32:36.887Z,Sharplight.Vulkan,0.1.2-alpha,Sharplight contributors,Vulkan execution provider for Sharplight.
+2026-11-14T16:32:37.61Z,Sharplight.Gguf,0.1.2-alpha,Sharplight contributors,GGUF importer for Sharplight: reads llama.cpp model files (all ggml quantization formats) into Sharplight models.
+2026-11-14T16:32:38.32Z,Sharplight.Package.Import,0.1.2-alpha,Sharplight contributors,Builds Sharplight model packages (.slm) from any registered source format and precompiles their kernels for a device.
+2026-11-14T16:32:38.963Z,Sharplight.Onnx,0.1.2-alpha,Sharplight contributors,ONNX importer for Sharplight: a hand-rolled protobuf decoder plus an ONNX-to-IR graph adapter.
+2026-11-14T16:32:39.7Z,Sharplight.Llm,0.1.2-alpha,Sharplight contributors,"LLM inference: model loading, sessions, generation loop, sampling, chat formatting."
+2026-11-14T16:32:40.437Z,Sharplight.Shaders,0.1.2-alpha,Sharplight contributors,"Backend-neutral Slang kernel library and compiler (SPIR-V, CUDA/PTX, Metal targets)."
+2026-11-14T16:32:41.167Z,Sharplight.Package,0.1.2-alpha,Sharplight contributors,"Reads and writes Sharplight model packages (.slm): weights, tokenizer, metadata and precompiled kernels in one file."
+2026-11-14T16:32:41.87Z,Sharplight.Cpu,0.1.2-alpha,Sharplight contributors,"Multithreaded SIMD CPU execution provider for Sharplight (dequantize-on-the-fly quantized matmul, fused LLM ops)."
+2026-11-14T16:32:42.433Z,Sharplight.Hub,0.1.2-alpha,Sharplight contributors,"Hugging Face Hub client and local model store: search, resumable verified downloads, conversion to .slm packages."
+2026-11-14T16:32:43.11Z,Sharplight.Architectures,0.1.2-alpha,Sharplight contributors,Model architecture adapters: canonical model sources → Sharplight compute graphs. Format-independent.
+2026-11-14T16:32:43.747Z,Sharplight.Core,0.1.2-alpha,Sharplight contributors,"Format-agnostic tensor graph IR, model definition and execution-provider abstractions."
+2026-11-14T16:32:44.377Z,Sharplight.Extensions.AI,0.1.2-alpha,Sharplight contributors,Microsoft.Extensions.AI adapters (IChatClient) over Sharplight.Llm.
+2026-11-14T16:35:04.27Z,Heron.Plugin.BTM,0.3.0,ornithologist-love,"Prebuilt Better Task Manager plugin for Heron hosts: processes, performance, services and Rust-powered disk usage. Windows x64, .NET 8, host API 4."
+2026-11-14T16:37:11.14Z,BccCode.Privacy.Client,0.0.5,BCC,BCC Privacy client built on BCC Platform
+2026-11-14T16:41:56.457Z,Bronskiy.Sequences,1.0.0,Bronskiy.Sequences,"Provides a generator, that generates lazily evaluated sequences from functions."
+2026-11-14T16:41:57.19Z,Carbon.ConsulSecretEncryptor.Core,1.0.0,Carbon.ConsulSecretEncryptor.Core,"1.0.0 - Shared certificate resolution and RSA-OAEP/SHA256 + hybrid AES-256-GCM envelope encrypt/decrypt logic for Consul secrets (ACL token, Basic Auth, whole-document, field-level), used by both Carbon.ConsulSecretEncryptor (CLI), Carbon.ConsulSecretEncryptor.UI (Windows Forms), and now Carbon.Con…"
+2026-11-14T16:46:47.507Z,Vorticity.ObjectStorage,0.13.0,Evariops,"Object stores for Vorticity's files and datasets on Amazon S3, Cloudflare R2, OVHcloud, Scaleway, Azure Blob Storage and Google Cloud Storage, over the platform's HTTP client and nothing else."
+2026-11-14T16:58:30.373Z,Sinter.AspNetCore,0.18.0,tiaforge,"Fills a sinter build's embedded-data placeholders per request: the page's API data in the first frame, without server rendering. ASP.NET Core middleware for minimal APIs and MVC, NativeAOT-compatible, with a source generator that checks the build at compile time."
+2026-11-14T17:05:01.713Z,RagnaCore.AutomationApi.Sdk,2.6.0,Fenix,Plugin SDK for RagnaCore
+2026-11-14T17:08:13.597Z,FlowGovernanceManager,1.0.0,Nagendra kumar Kosaraju,"Identify and remediate unhealthy Power Automate flows at scale. Health scoring, color coded dashboard, ownerless flow detection, inactive flow detection, and Excel export."
+2026-11-14T17:09:00.447Z,RedMaple.Orchestrator.Containers.Wslc,1.2.4,Jerker Olofsson,"Don't use this library directly, use RedMaple.Orchestrator.DockerCompose. This is an implementation of ILocalContainersClient for Docker.DotNet for docker orchestration."
