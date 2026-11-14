@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-14T20:24:26.897Z,Sabota,0.3.0,danlup71,Mutation testing for F# using AST discovery and source-text mutations. Friendly neighborhood code vandalism for F#
+2026-11-14T20:25:56.78Z,ArsenalImageMounter.Native,3.13.369,Arsenal Recon,Arsenal Image Mounter Native Library dependencies
+2026-11-14T20:28:32.887Z,ArtifactD.ClientFeedback,1.4.1,Aurora,"Queue and upload crash, curated errors, user feedback, and best-effort usage events to Artifact Repository Manager, tied to a released artefact version."
+2026-11-14T20:31:26.917Z,BccCode.ChangeHistory,0.1.12,BCC,"Business events, typed history and valid periods for EF Core on PostgreSQL: one event per transaction, history tables that follow stock EF migrations, and reads as of a time."
+2026-11-14T20:31:27.707Z,BccCode.ChangeHistory.Hosting,0.1.12,BCC,"ASP.NET Core and Wolverine integration for BccCode.ChangeHistory: the business intent from HTTP requests and messages, and saving and publishing in one transaction."
+2026-11-14T20:31:37.177Z,NetWasm.App.Ref,0.14.0,Zion Sati,"Reference assemblies for NetWasm.App, the framework libraries of the NetWasm netwasm0.1 profile, with netstandard.dll and the libraries' source generators."
+2026-11-14T20:31:38.763Z,NetWasm.App.Runtime,0.14.0,Zion Sati,"Implementations of NetWasm.App, the framework libraries of the NetWasm netwasm0.1 profile, for the NetWasm compiler."
+2026-11-14T20:35:51.183Z,Holos.Foundation.Abp.Application,0.1.0,Jesús Alejandro Molina Peñaherrera,Clases base de servicios de aplicación para ASP.NET Boilerplate: CRUD con compañía activa implícita.
+2026-11-14T20:35:51.773Z,Holos.Foundation.Abp.EntityFrameworkCore,0.1.0,Jesús Alejandro Molina Peñaherrera,Compañía activa implícita para ASP.NET Boilerplate (Abp.*): filtro global y asignación automática en inserciones.
+2026-11-14T20:35:52.38Z,Holos.Foundation.Abp.Domain,0.1.0,Jesús Alejandro Molina Peñaherrera,Interfaces de dominio sin dependencias: entidades con compañía y entradas que piden una compañía.
+2026-11-14T21:06:30.143Z,Electrical.Dynamics,1.3.0,Gravicode Studios (Kang Fadhil),"Power system dynamics (RMS) for Electrical.Net: detailed synchronous machines (GENROU, GENSAL), excitation systems, turbine-governors, power system stabilizers, inverter-based resources (REGC/REEC/REPC, grid-forming), PSS/E .dyr reader, time-domain simulation with events and small-signal analysis o…"
