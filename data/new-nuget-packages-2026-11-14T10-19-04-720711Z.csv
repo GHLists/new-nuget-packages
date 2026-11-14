@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-14T09:20:37.657Z,Ranvier.FSharp.Agent,0.1.0,shayanhabibi,Semantic F# code analysis CLI and Model Context Protocol (MCP) server (`rfs`) backed by a persistent declaration-incremental Ranvier workspace daemon with automatic stale-process reaping.
+2026-11-14T09:29:46.933Z,PgOutput2Json.ClickHouse,2.0.0,PgOutput2Json,PgOutput2Json.ClickHouse library uses logical replication to copy rows from PostgreSQL to ClickHouse
+2026-11-14T09:32:05.397Z,Ranvier.Css.View.Traced,0.1.1,shayanhabibi,Typed CSS utility attributes and reactive style bindings for Ranvier.View.
+2026-11-14T09:32:05.887Z,Ranvier.Css.View,0.1.1,shayanhabibi,Typed CSS utility attributes and reactive style bindings for Ranvier.View.
+2026-11-14T09:37:58.85Z,Ranvier.D5,0.1.0,Ranvier contributors,"Functional visualization foundations for F#: data, scales, geometry, layouts and reactive scenes using Ranvier signals and Anime."
+2026-11-14T09:37:59.58Z,Ranvier.D5.Charts,0.1.0,Ranvier contributors,Pure functional chart compositions for Ranvier.D5.
+2026-11-14T09:38:00.37Z,Ranvier.D5.Charts.Traced,0.1.0,Ranvier contributors,Pure functional chart compositions for Ranvier.D5.
+2026-11-14T09:38:01.08Z,Ranvier.D5.Geo,0.1.0,Ranvier contributors,Functional geographic geometry and map projections for Ranvier.D5.
+2026-11-14T09:38:01.763Z,Ranvier.D5.Geo.Traced,0.1.0,Ranvier contributors,Functional geographic geometry and map projections for Ranvier.D5.
+2026-11-14T09:38:02.537Z,Ranvier.D5.Traced,0.1.0,Ranvier contributors,"Functional visualization foundations for F#: data, scales, geometry, layouts and reactive scenes using Ranvier signals and Anime."
+2026-11-14T09:38:03.207Z,Ranvier.D5.View,0.1.0,Ranvier contributors,Keyed native SVG rendering for Ranvier.D5 scenes using Ranvier.View.
+2026-11-14T09:38:03.897Z,Ranvier.D5.View.Traced,0.1.0,Ranvier contributors,Keyed native SVG rendering for Ranvier.D5 scenes using Ranvier.View.
+2026-11-14T09:39:32.44Z,assembly-differ.skills,1.0.0,Nullean and contributors,"The agent skill for the assembly-differ dotnet tool: how a coding agent finds out what a package update or a library change does to a public API, without decompiling anything."
+2026-11-14T09:55:02.793Z,CmdWarden,0.12.0,CmdWarden,CmdWarden CLI + Session Agent + Approval Gate helper (per-user). State under LocalAppData\CmdWarden; install is binaries-only (.NET desktop; no Windows App Runtime).
+2026-11-14T09:55:25.873Z,ConstExpr,0.1.0,James Hughes,C# compile-time expressions with Roslyn analysers and source generation.
+2026-11-14T09:57:46.567Z,GitSnapshotter,0.1.0,BusHero,"Take a snapshot of a git repository's branches, tags, remotes, HEAD and (optionally) working tree, and restore it later."
+2026-11-14T09:57:47.56Z,GitSnapshotter.Tool,0.1.0,BusHero,"Command-line tool that takes a snapshot of a git repository's branches, tags, remotes, HEAD and (optionally) working tree, and restores it later."
