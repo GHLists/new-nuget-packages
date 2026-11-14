@@ -12,31 +12,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:19 UTC
+## Latest list — 2026-11-14 09:19 UTC
 
-New packages created between 2026-11-14 07:18 UTC and 2026-11-14 08:19 UTC.
+New packages created between 2026-11-14 08:19 UTC and 2026-11-14 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-14T08-19-58-779346Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-14T09-19-15-023251Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-14 07:28:21 | [VL.PROJ](https://www.nuget.org/packages/VL.PROJ) | 0.0.1-alpha | VL.PROJ Contributors | EARLY - not ready for real work yet. Moves NetTopologySuite geometry from one c… |
-| 2026-11-14 07:32:31 | [SafeSign.Formats](https://www.nuget.org/packages/SafeSign.Formats) | 1.2.0 | Glenn Watson and Contributors | File format signers for SafeSign: MSI, CAB, catalogs, APPX/MSIX, NuGet packages… |
-| 2026-11-14 07:32:31 | [SafeSign.Providers](https://www.nuget.org/packages/SafeSign.Providers) | 1.2.0 | Glenn Watson and Contributors | Signing key providers for SafeSign: Certum SimplySign, cloud KMS and HSM servic… |
-| 2026-11-14 07:32:32 | [SafeSign.Signing](https://www.nuget.org/packages/SafeSign.Signing) | 1.2.0 | Glenn Watson and Contributors | Authenticode and CMS signature engine for SafeSign: remote-key signing, RFC 316… |
-| 2026-11-14 07:43:55 | [HyperPdfLibrary.Render.Skia](https://www.nuget.org/packages/HyperPdfLibrary.Render.Skia) | 3.7.0 | Glenn Watson | Skia drawing services for HyperPdfLibrary. |
-| 2026-11-14 07:43:56 | [HyperPdfLibrary](https://www.nuget.org/packages/HyperPdfLibrary) | 3.7.0 | Glenn Watson | A managed PDF reader, renderer and annotation writer with interchangeable drawi… |
-| 2026-11-14 07:46:21 | [Indiko.Geolocation.Library](https://www.nuget.org/packages/Indiko.Geolocation.Library) | 1.0.0 | Indiko | Kerntypen fuer geografische Berechnungen: GeoPoint, Angle, Distance, Dms, Ellip… |
-| 2026-11-14 07:46:22 | [Indiko.Geolocation.Library.Astronomy](https://www.nuget.org/packages/Indiko.Geolocation.Library.Astronomy) | 1.0.0 | Indiko | Sonnen- und Mondberechnungen nach Meeus in drei Genauigkeitsstufen: Position, A… |
-| 2026-11-14 07:46:23 | [Indiko.Geolocation.Library.Astronomy.Eclipses](https://www.nuget.org/packages/Indiko.Geolocation.Library.Astronomy.Eclipses) | 1.0.0 | Indiko | Sonnen- und Mondfinsternisse aus den Besselschen Elementen des NASA-GSFC-Kanons… |
-| 2026-11-14 07:46:24 | [Indiko.Geolocation.Library.Formats](https://www.nuget.org/packages/Indiko.Geolocation.Library.Formats) | 1.0.0 | Indiko | Allokationsfreies Parsen und Formatieren von Koordinaten: Decimal Degree, DDM,… |
-| 2026-11-14 07:46:25 | [Indiko.Geolocation.Library.Geodesy](https://www.nuget.org/packages/Indiko.Geolocation.Library.Geodesy) | 1.0.0 | Indiko | Geodaetische Berechnungen auf dem Ellipsoid nach Karney: Entfernung, Peilung, Z… |
-| 2026-11-14 07:46:26 | [Indiko.Geolocation.Library.Magnetic](https://www.nuget.org/packages/Indiko.Geolocation.Library.Magnetic) | 1.0.0 | Indiko | Magnetische Deklination, Feldstaerke, Saekularvariation und Unsicherheit nach d… |
-| 2026-11-14 07:49:50 | [HowMacro](https://www.nuget.org/packages/HowMacro) | 0.1.2-preview | HowMacro contributors | Compile-time macros for C#. Macros are ordinary C# methods and attributes that… |
-| 2026-11-14 07:49:50 | [HowMacro.Testing](https://www.nuget.org/packages/HowMacro.Testing) | 0.1.2-preview | HowMacro contributors | Test helpers for HowMacro macro authors: expand source in a unit test, assert o… |
-| 2026-11-14 07:57:07 | [EasySpan](https://www.nuget.org/packages/EasySpan) | 1.0.0 | Ataraxia-Hare | A high-performance collection library based on Span<T>. |
-| 2026-11-14 07:58:33 | [Caprine.CronTimer](https://www.nuget.org/packages/Caprine.CronTimer) | 0.1.0 | Caprine Logic | A cron-based alternative to PeriodicTimer with OCPS 1.0 expressions, time zones… |
-| 2026-11-14 08:07:13 | [Cratis.Showrunner.Cue](https://www.nuget.org/packages/Cratis.Showrunner.Cue) | 2.10.0 | Cratis | Cue — the Showrunner guided-tour part: remember which guided tours each person… |
+| 2026-11-14 08:32:01 | [Ranvier.Analyzers.Host](https://www.nuget.org/packages/Ranvier.Analyzers.Host) | 0.1.0 | shayanhabibi | Ranvier's isolated F# analyzer host with a pinned compiler expression-conversio… |
+| 2026-11-14 08:32:02 | [Ranvier.Analyzers](https://www.nuget.org/packages/Ranvier.Analyzers) | 0.1.1 | shayanhabibi | F# analyzers that report Ranvier traps at build time: Fable snapshot inlining a… |
+| 2026-11-14 08:37:32 | [EmailCli-Mcp](https://www.nuget.org/packages/EmailCli-Mcp) | 1.1.0 | Paolino Salamone | Email CLI and MCP Server for IMAP/SMTP accounts (Gmail, Outlook, Office 365, Ya… |
+| 2026-11-14 08:41:16 | [Ranvier.View](https://www.nuget.org/packages/Ranvier.View) | 0.1.49 | shayanhabibi | Template components for Ranvier: typed templates, view sugar, keyed lists, arms… |
+| 2026-11-14 08:41:19 | [Ranvier.View.Traced](https://www.nuget.org/packages/Ranvier.View.Traced) | 0.1.49 | shayanhabibi | The traced build of Ranvier.View: template components and server rendering for… |
+| 2026-11-14 08:41:20 | [Ranvier.View.WebCore](https://www.nuget.org/packages/Ranvier.View.WebCore) | 0.1.0 | shayanhabibi | Runs Ranvier's view and shared DOM API on .NET against a native WebCore page: t… |
+| 2026-11-14 08:41:21 | [Ranvier.View.WebCore.Hmr](https://www.nuget.org/packages/Ranvier.View.WebCore.Hmr) | 0.1.0 | shayanhabibi | Hot reload for native Ranvier apps in development: `dotnet run -- dev` keeps th… |
+| 2026-11-14 08:41:22 | [Ranvier.View.WebCore.Hmr.Traced](https://www.nuget.org/packages/Ranvier.View.WebCore.Hmr.Traced) | 0.1.0 | shayanhabibi | Hot reload for native Ranvier apps in development: `dotnet run -- dev` keeps th… |
+| 2026-11-14 08:41:23 | [Ranvier.View.WebCore.Sdl](https://www.nuget.org/packages/Ranvier.View.WebCore.Sdl) | 0.1.0 | shayanhabibi | Shows a Ranvier.View.WebCore page in an SDL3 window: paints it, forwards mouse,… |
+| 2026-11-14 08:41:24 | [Ranvier.View.WebCore.Sdl.Traced](https://www.nuget.org/packages/Ranvier.View.WebCore.Sdl.Traced) | 0.1.0 | shayanhabibi | Shows a Ranvier.View.WebCore page in an SDL3 window: paints it, forwards mouse,… |
+| 2026-11-14 08:41:26 | [Ranvier.View.WebCore.Traced](https://www.nuget.org/packages/Ranvier.View.WebCore.Traced) | 0.1.0 | shayanhabibi | The traced build of Ranvier.View.WebCore: Ranvier's view on a native WebCore pa… |
+| 2026-11-14 08:41:43 | [Fable.Ranvier.View.Anime](https://www.nuget.org/packages/Fable.Ranvier.View.Anime) | 0.1.46 | shayanhabibi | Motion parts for Ranvier.View templates over anime.js, for Fable: lifecycle, en… |
+| 2026-11-14 08:41:44 | [Fable.Ranvier.View.Anime.Traced](https://www.nuget.org/packages/Fable.Ranvier.View.Anime.Traced) | 0.1.46 | shayanhabibi | The traced build of Fable.Ranvier.View.Anime: motion parts for Ranvier.View tem… |
+| 2026-11-14 08:53:59 | [SqlNative.MySqlFunc](https://www.nuget.org/packages/SqlNative.MySqlFunc) | 0.25.0 | Peyman Jahanbazi | Optional MySQL function catalog for SqlNative. Provides the partial MySqlFuncti… |
+| 2026-11-14 09:02:17 | [Paradise.Audio](https://www.nuget.org/packages/Paradise.Audio) | 0.63.0 | ParadiseEngine | Backend-agnostic audio contract: event playback on emitters, listeners, paramet… |
+| 2026-11-14 09:02:18 | [Paradise.Export.Contract](https://www.nuget.org/packages/Paradise.Export.Contract) | 0.63.0 | ParadiseEngine | The Paradise built-document contract for game runtimes: scene, prefab, material… |
+| 2026-11-14 09:02:20 | [Paradise.Jobs](https://www.nuget.org/packages/Paradise.Jobs) | 0.63.0 | ParadiseEngine | Persistent worker pools shared by every subsystem: JobWorkerPool (the supported… |
+| 2026-11-14 09:02:23 | [Paradise.Runtime.Pbr](https://www.nuget.org/packages/Paradise.Runtime.Pbr) | 0.63.0 | ParadiseEngine | Paradise.Runtime for the PBR renderer: cooked mesh and material asset types tha… |
+| 2026-11-14 09:02:24 | [Paradise.Runtime](https://www.nuget.org/packages/Paradise.Runtime) | 0.63.0 | ParadiseEngine | Optional runtime composition for Paradise games: ref-counted asset handles with… |
+| 2026-11-14 09:04:36 | [DevelApp.Liquid.Net.Core](https://www.nuget.org/packages/DevelApp.Liquid.Net.Core) | 1.0.0 | Liquid.Net.Core | Package Description |
+| 2026-11-14 09:04:37 | [DevelApp.Liquid.Net.Models](https://www.nuget.org/packages/DevelApp.Liquid.Net.Models) | 1.0.0 | Liquid.Net.Models | Package Description |
+| 2026-11-14 09:04:37 | [DevelApp.Liquid.Net.Training](https://www.nuget.org/packages/DevelApp.Liquid.Net.Training) | 1.0.0 | Liquid.Net.Training | Package Description |
+| 2026-11-14 09:04:41 | [DevelApp.Liquid.Net.Utilities](https://www.nuget.org/packages/DevelApp.Liquid.Net.Utilities) | 1.0.0 | Liquid.Net.Utilities | Package Description |
+| 2026-11-14 09:07:51 | [Devoctomy.Blazwiz.Events](https://www.nuget.org/packages/Devoctomy.Blazwiz.Events) | 0.8.0 | Nick Pateman | User events for blazwiz apps: a channel each user's open devices share, so one… |
+| 2026-11-14 09:07:52 | [Devoctomy.Blazwiz.Events.AppSync](https://www.nuget.org/packages/Devoctomy.Blazwiz.Events.AppSync) | 0.8.0 | Nick Pateman | User events for blazwiz apps over AWS AppSync Events: each user's channel reach… |
 
 ## Data source
 
