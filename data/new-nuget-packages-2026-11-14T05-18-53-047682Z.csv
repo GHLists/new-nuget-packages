@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-14T04:35:09.273Z,FY.License.AspNetCore,2.0.2,FY.License.AspNetCore,FY 离线产品与模块授权的 .NET 10 ASP.NET Core 集成
+2026-11-14T04:48:40.59Z,NativeMarkdown.Wpf,1.0.1,ClipSafe,"A fast, native WPF Markdown renderer built on Markdig. Renders into a FlowDocument with incremental block updates, so live previews update without flicker and without WebView."
+2026-11-14T04:56:03.67Z,AuroraScienceHub.Integrations.DtuSpaceClient,1.9.0,"Aleksei Ermilov,Alexander Nikolaev,Aurora Science Hub","Provides HTTP client interfaces for accessing DTU Space (National Space Institute, Technical University of Denmark) data, including the near-real-time 1-minute Polar Cap North (PCN) quick-look index."
+2026-11-14T04:56:03.95Z,AuroraScienceHub.Integrations.FmiClient,1.9.0,"Aleksei Ermilov,Alexander Nikolaev,Aurora Science Hub",HTTP client for FMI real-time IU and IL electrojet indices
+2026-11-14T04:56:04.54Z,AuroraScienceHub.Integrations.WdcClient,1.9.0,"Aleksei Ermilov,Alexander Nikolaev,Aurora Science Hub","HTTP client for World Data Center for Geomagnetism, Kyoto real-time hourly Dst data"
+2026-11-14T05:07:53.437Z,Ranvier.Persistence.KurrentDB.Traced,0.1.1,shayanhabibi,"Small scoped snapshots in KurrentDB for Ranvier, with atomic batches and optional optimistic concurrency."
+2026-11-14T05:07:53.647Z,Ranvier.Persistence.Marten,0.1.1,shayanhabibi,"Marten PostgreSQL state storage for Ranvier, with scoped records and optional optimistic concurrency."
+2026-11-14T05:07:53.84Z,Ranvier.Persistence.Marten.Traced,0.1.1,shayanhabibi,"Marten PostgreSQL state storage for Ranvier, with scoped records and optional optimistic concurrency."
+2026-11-14T05:07:54.04Z,Ranvier.Persistence.KurrentDB,0.1.1,shayanhabibi,"Small scoped snapshots in KurrentDB for Ranvier, with atomic batches and optional optimistic concurrency."
+2026-11-14T05:07:54.263Z,Ranvier.Persistence.Traced,0.1.1,shayanhabibi,"Keyed persisted inputs for Ranvier graphs: signals and keyed collections restored from an IStateStore across a restart or a page reload, with in-memory, file and localStorage stores."
+2026-11-14T05:07:54.503Z,Ranvier.Persistence,0.1.1,shayanhabibi,"Keyed persisted inputs for Ranvier graphs: signals and keyed collections restored from an IStateStore across a restart or a page reload, with in-memory, file and localStorage stores."
