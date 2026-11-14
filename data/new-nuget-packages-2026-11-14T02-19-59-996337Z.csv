@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-14T01:26:10.743Z,MCUnderground.IES.NET,1.0.0,MCUnderground,Parse IES LM-63 photometric files and render them to WPF bitmaps.
+2026-11-14T01:28:03.34Z,MxUtilities.AssetManagement,1.0.0,Daniel,"Reads and rewrites the external asset list stored in Autodesk 3ds Max (.max) files, for example to repath textures offline."
+2026-11-14T01:28:31.023Z,MxUtilities.Scripting,1.0.0,Daniel,Discovers running Autodesk 3ds Max instances and sends MAXScript commands to them on Windows.
+2026-11-14T01:29:01.613Z,TdbIO,0.1.0,mahach666,"Reads Tekla Structures model files (.db1, .db2, DBV@ files, id range and GUID map files), DSTV NC files (.nc1), templates (.tpl, .rpt) and reports (.xsr). Pure managed code, no dependencies."
+2026-11-14T01:29:02.903Z,TdbIO.Cli,0.1.0,mahach666,"Command line tool that reports the structure of Tekla Structures model files, DSTV NC files, templates and reports."
+2026-11-14T01:34:00.243Z,EasyShm,0.0.2,EasyShm,Package Description
+2026-11-14T01:40:47.763Z,Umbraco.Community.AIProvenance.UmbracoAI,17.0.0,Liam Goldfinch,Marks content as AI generated or AI modified automatically when Umbraco.AI agents change it. An add-on for Umbraco.Community.AIProvenance.
+2026-11-14T01:40:48.053Z,Umbraco.Community.AIProvenance,17.0.0,Liam Goldfinch,"Records where AI was involved in Umbraco content, property by property. Editors mark properties as AI generated or AI modified, and websites and the Delivery API show AI labels."
+2026-11-14T01:47:49.51Z,OpenBarcode,2.0.0,Yoel Nunez,"Barcode generation for Code 39, EAN-13 and UPC-A. Returns the bar and space modules; has no dependencies."
+2026-11-14T01:58:16.36Z,Sondor.AspNetCore.FluentValidation,0.1.0,Sondor Dev,"FluentValidation for Sondor.AspNetCore: a ValidationException is answered with a 400 problem response whose errors member lists the messages of each property, named as the API names its JSON properties."
+2026-11-14T02:07:18.75Z,Usa.Smart.WinUI.Extensions,1.0.0,machi_pon,Smart WinUI support library
+2026-11-14T02:07:19.617Z,Usa.Smart.WinUI,1.0.0,machi_pon,Smart WinUI support library
