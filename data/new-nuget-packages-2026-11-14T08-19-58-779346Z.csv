@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-14T07:28:21.75Z,VL.PROJ,0.0.1-alpha,VL.PROJ Contributors,"EARLY - not ready for real work yet. Moves NetTopologySuite geometry from one coordinate reference system to another with PROJ, the engine every GIS uses. Reproject reads the CRS a geometry is in from its SRID and moves it to another EPSG code, saying how accurate that is and warning when coordinat…"
+2026-11-14T07:32:31.483Z,SafeSign.Formats,1.2.0,Glenn Watson and Contributors,"File format signers for SafeSign: MSI, CAB, catalogs, APPX/MSIX, NuGet packages and Windows scripts."
+2026-11-14T07:32:31.727Z,SafeSign.Providers,1.2.0,Glenn Watson and Contributors,"Signing key providers for SafeSign: Certum SimplySign, cloud KMS and HSM services, and local certificates."
+2026-11-14T07:32:32.23Z,SafeSign.Signing,1.2.0,Glenn Watson and Contributors,"Authenticode and CMS signature engine for SafeSign: remote-key signing, RFC 3161 timestamps and Windows PE signing, with no platform-specific dependencies."
+2026-11-14T07:43:55.573Z,HyperPdfLibrary.Render.Skia,3.7.0,Glenn Watson,Skia drawing services for HyperPdfLibrary.
+2026-11-14T07:43:56.34Z,HyperPdfLibrary,3.7.0,Glenn Watson,"A managed PDF reader, renderer and annotation writer with interchangeable drawing backends."
+2026-11-14T07:46:21.52Z,Indiko.Geolocation.Library,1.0.0,Indiko,"Kerntypen fuer geografische Berechnungen: GeoPoint, Angle, Distance, Dms, Ellipsoid, JulianDate und DeltaT. Allokationsfrei und AOT-faehig."
+2026-11-14T07:46:22.597Z,Indiko.Geolocation.Library.Astronomy,1.0.0,Indiko,"Sonnen- und Mondberechnungen nach Meeus in drei Genauigkeitsstufen: Position, Auf- und Untergang, Daemmerung, Mondphase, Perigaeum und Apogaeum, Sonnenwenden und Tagundnachtgleichen."
+2026-11-14T07:46:23.613Z,Indiko.Geolocation.Library.Astronomy.Eclipses,1.0.0,Indiko,Sonnen- und Mondfinsternisse aus den Besselschen Elementen des NASA-GSFC-Kanons. Die Daten liegen als eingebettetes Binaer-Blob und werden ohne Allokation gelesen.
+2026-11-14T07:46:24.62Z,Indiko.Geolocation.Library.Formats,1.0.0,Indiko,"Allokationsfreies Parsen und Formatieren von Koordinaten: Decimal Degree, DDM, DMS, Signed Degree, UTM, MGRS, UPS, GEOREF, Web Mercator, Cartesian und ECEF."
+2026-11-14T07:46:25.713Z,Indiko.Geolocation.Library.Geodesy,1.0.0,Indiko,"Geodaetische Berechnungen auf dem Ellipsoid nach Karney: Entfernung, Peilung, Zielpunkt sowie Geofence-Operationen."
+2026-11-14T07:46:26.717Z,Indiko.Geolocation.Library.Magnetic,1.0.0,Indiko,"Magnetische Deklination, Feldstaerke, Saekularvariation und Unsicherheit nach dem World Magnetic Model (WMM 2015, 2020, 2025)."
+2026-11-14T07:49:50.187Z,HowMacro,0.1.2-preview,HowMacro contributors,"Compile-time macros for C#. Macros are ordinary C# methods and attributes that the IDE understands; the build runs them and compiles the expanded code. No IDE plugin, no runtime dependency."
+2026-11-14T07:49:50.843Z,HowMacro.Testing,0.1.2-preview,HowMacro contributors,"Test helpers for HowMacro macro authors: expand source in a unit test, assert on output and diagnostics, or compile and run the expanded code. Works with any test framework."
+2026-11-14T07:57:07.837Z,EasySpan,1.0.0,Ataraxia-Hare,A high-performance collection library based on Span<T>.
+2026-11-14T07:58:33.88Z,Caprine.CronTimer,0.1.0,Caprine Logic,"A cron-based alternative to PeriodicTimer with OCPS 1.0 expressions, time zones, and source generation."
+2026-11-14T08:07:13.427Z,Cratis.Showrunner.Cue,2.10.0,Cratis,"Cue — the Showrunner guided-tour part: remember which guided tours each person has started, so an application can offer a tour once and stop nudging, built on Cratis Arc and Chronicle."
