@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-15T04:25:22.797Z,Lers.PdfSharp,2.0.0,Stefan Steiger and Contributors,PdfSharp for .NET Core PdfSharpCore is a partial port of PdfSharp.Xamarin for .NET Core Additionally MigraDoc has been ported as well (from version 1.32). Images have been implemented with SkiaSharp from https://www.nuget.org/packages/SkiaSharp
+2026-11-15T04:28:53.527Z,Microsoft.Mxc.Sdk.Nvx.Runtime,1.1.0,Microsoft,Windows x64 NVX MicroVM runtime assets for Microsoft.Mxc.Sdk.
+2026-11-15T04:37:31.483Z,ReactiveUI.Primitives.Blazor.Reactive,10.0.0,ReactiveUI Association Inc,"Blazor integration helpers for ReactiveUI.Primitives, recompiled against System.Reactive's IScheduler."
+2026-11-15T04:37:37.723Z,ReactiveUI.Primitives.Maui.Reactive,10.0.0,ReactiveUI Association Inc,"MAUI dispatcher scheduler for ReactiveUI.Primitives, recompiled against System.Reactive's IScheduler."
+2026-11-15T04:46:44.817Z,Rechunk.Keys.AzureKeyVault,0.2.1,Challa Ravindranath,Wraps Rechunk scope keys with a key that stays in Azure Key Vault.
+2026-11-15T04:51:46.89Z,MultiConnect.SDK,2026.1115.619,MultiConnect,"MultiConnect SDK for .NET: multiplayer networking, rooms and matchmaking, deterministic physics, and the MultiConnect Cloud app backend, for game servers and clients outside Unity."
