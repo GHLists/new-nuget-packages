@@ -12,41 +12,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 20:21 UTC
+## Latest list — 2026-11-15 21:21 UTC
 
-New packages created between 2026-11-15 19:20 UTC and 2026-11-15 20:21 UTC.
+New packages created between 2026-11-15 20:21 UTC and 2026-11-15 21:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T20-21-19-295588Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T21-21-32-568755Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 19:25:50 | [Zorg.Pdf.AspNetCore](https://www.nuget.org/packages/Zorg.Pdf.AspNetCore) | 0.5.0 | Zorg.Pdf contributors | Serve Zorg.Pdf documents from ASP.NET Core: an IResult that streams the PDF int… |
-| 2026-11-15 19:25:50 | [Zorg.Pdf.Extensions.AI](https://www.nuget.org/packages/Zorg.Pdf.Extensions.AI) | 0.5.0 | Zorg.Pdf contributors | Tools for AI agents that write PDF documents with Zorg.Pdf: the document schema… |
-| 2026-11-15 19:25:51 | [Zorg.Pdf.Hyphenation](https://www.nuget.org/packages/Zorg.Pdf.Hyphenation) | 0.5.0 | Zorg.Pdf contributors | Hyphenation for Zorg.Pdf: Liang's patterns for English, German, French, Norwegi… |
-| 2026-11-15 19:25:52 | [Zorg.Pdf.Imaging](https://www.nuget.org/packages/Zorg.Pdf.Imaging) | 0.5.0 | Zorg.Pdf contributors | Image handling for Zorg.Pdf built on Zorg.Imaging: WebP, GIF, BMP and TIFF, EXI… |
-| 2026-11-15 19:25:52 | [Zorg.Pdf.Markdown](https://www.nuget.org/packages/Zorg.Pdf.Markdown) | 0.5.0 | Zorg.Pdf contributors | Markdown to Zorg.Pdf documents: headings, emphasis, lists, tables, code, quotes… |
-| 2026-11-15 19:25:54 | [Zorg.Pdf.Tool](https://www.nuget.org/packages/Zorg.Pdf.Tool) | 0.5.0 | Zorg.Pdf contributors | The zorg-pdf command-line tool: render Zorg.Pdf JSON documents and Markdown to… |
-| 2026-11-15 19:27:45 | [XboxAuthNet.Game.WindowsSecurity](https://www.nuget.org/packages/XboxAuthNet.Game.WindowsSecurity) | 1.1.0 | XboxAuthNet.Game.WindowsSecur… | Package Description |
-| 2026-11-15 19:29:05 | [VpnHood.AppUi.Hosting.Desktop.WindowsTun](https://www.nuget.org/packages/VpnHood.AppUi.Hosting.Desktop.WindowsTun) | 9.1.874 | VpnHood.AppUi.Hosting.Desktop… | The VpnHood desktop host on Windows: a LocalSystem service is the app, ProgramD… |
-| 2026-11-15 19:29:24 | [VpnHood.Core.Client.VpnServices.Host.Android](https://www.nuget.org/packages/VpnHood.Core.Client.VpnServices.Host.Android) | 9.1.874 | VpnHood.Core.Client.VpnServic… | VpnHood's VPN service on Android: the VPN service's half, which runs the engine |
-| 2026-11-15 19:29:25 | [VpnHood.Core.Client.VpnServices.Host.Ios](https://www.nuget.org/packages/VpnHood.Core.Client.VpnServices.Host.Ios) | 9.1.874 | VpnHood.Core.Client.VpnServic… | VpnHood's VPN service on iOS and tvOS: the Network Extension's half, which runs… |
-| 2026-11-15 19:29:27 | [VpnHood.Core.Client.VpnServices.Host.Linux](https://www.nuget.org/packages/VpnHood.Core.Client.VpnServices.Host.Linux) | 9.1.874 | VpnHood.Core.Client.VpnServic… | VpnHood's VPN service on Linux: the VPN host's half, which runs the engine |
-| 2026-11-15 19:29:28 | [VpnHood.Core.Client.VpnServices.Host.WindowsTun](https://www.nuget.org/packages/VpnHood.Core.Client.VpnServices.Host.WindowsTun) | 9.1.874 | VpnHood.Core.Client.VpnServic… | VpnHood's VPN service on Windows with WinTun: the VPN host's half, which runs t… |
-| 2026-11-15 19:29:30 | [VpnHood.Core.Client.VpnServices.Host.WindowsVpnPlugin](https://www.nuget.org/packages/VpnHood.Core.Client.VpnServices.Host.WindowsVpnPlugin) | 9.1.874 | VpnHood.Core.Client.VpnServic… | VpnHood's VPN service as the Windows VPN plug-in: the C#/WinRT component Window… |
-| 2026-11-15 19:30:53 | [Gppg.Modern](https://www.nuget.org/packages/Gppg.Modern) | 1.6.0 | Wayne Kelly, John Gough, and… | The Gardens Point Parser Generator (GPPG) for .NET 10, with MSBuild integration… |
-| 2026-11-15 19:31:37 | [CodexFlow.Contracts](https://www.nuget.org/packages/CodexFlow.Contracts) | 0.1.1 | iwaitu | Request, response and event types shared by every CodexFlow host and client. |
-| 2026-11-15 19:31:51 | [CodexFlow.Core](https://www.nuget.org/packages/CodexFlow.Core) | 0.1.1 | iwaitu | The CodexFlow engine: planners, validators, guarded tools and isolated executio… |
-| 2026-11-15 19:32:03 | [CodexFlow.Gateway.Http](https://www.nuget.org/packages/CodexFlow.Gateway.Http) | 0.1.1 | iwaitu | The HTTP surface of the CodexFlow gateway: chat, the event stream, jobs and art… |
-| 2026-11-15 19:32:18 | [CodexFlow.Orchestration](https://www.nuget.org/packages/CodexFlow.Orchestration) | 0.1.1 | iwaitu | The part of CodexFlow a host runs: the gateway, the background job runner and t… |
-| 2026-11-15 19:32:27 | [CodexFlow.Storage.Sqlite](https://www.nuget.org/packages/CodexFlow.Storage.Sqlite) | 0.1.1 | iwaitu | CodexFlow state in one SQLite file: jobs, plans, sessions, conversations, the j… |
-| 2026-11-15 19:50:29 | [ScorpioConcepts.Framework.DBSchema](https://www.nuget.org/packages/ScorpioConcepts.Framework.DBSchema) | 2.0.0 | Scorpio Concepts | Keeps a SQL Server database structure in sync with a schema defined in a JSON o… |
-| 2026-11-15 20:01:17 | [WebSharper.SortableJs](https://www.nuget.org/packages/WebSharper.SortableJs) | 10.1.0.739 | IntelliFactory | WebSharper bindings for SortableJS |
-| 2026-11-15 20:03:59 | [Dje.Cnj](https://www.nuget.org/packages/Dje.Cnj) | 1.0.0 | loud-technology and contribut… | Strongly typed .NET SDK for the CNJ Domicílio Judicial Eletrônico (DJE) API, ge… |
-| 2026-11-15 20:05:42 | [ArcaPhylax.Plugin.Sdk](https://www.nuget.org/packages/ArcaPhylax.Plugin.Sdk) | 1.0.0 | Apophis | Everything needed to write an ArcaPhylax plugin: IPlugin, the shared contracts,… |
-| 2026-11-15 20:05:43 | [ArcaPhylax.PluginPack](https://www.nuget.org/packages/ArcaPhylax.PluginPack) | 1.0.0 | Apophis | Packs, signs and verifies ArcaPhylax plugins (.arcaplugin) and writes their cat… |
-| 2026-11-15 20:05:44 | [ArcaPhylax.Plugin.Templates](https://www.nuget.org/packages/ArcaPhylax.Plugin.Templates) | 1.0.0 | Apophis | Project template for ArcaPhylax plugins: dotnet new arcaphylax-plugin -n Contos… |
-| 2026-11-15 20:05:44 | [ArcaPhylax.Abstractions](https://www.nuget.org/packages/ArcaPhylax.Abstractions) | 1.0.0 | Apophis | Contracts shared between ArcaPhylax and its plugins (tabs, configuration sectio… |
-| 2026-11-15 20:16:33 | [Mansiper.AutoIssue](https://www.nuget.org/packages/Mansiper.AutoIssue) | 1.0.0 | Pavel Razboynikov | A library for creating GitHub issues from application feedback data. |
+| 2026-11-15 20:23:23 | [AuthCallout.Client](https://www.nuget.org/packages/AuthCallout.Client) | 0.1.30 | Ryan Anthony | Consumer-side integration library for nats-auth-callout-service (ADR 0020): tok… |
+| 2026-11-15 20:23:24 | [AuthCallout.Client.Wolverine](https://www.nuget.org/packages/AuthCallout.Client.Wolverine) | 0.1.30 | Ryan Anthony | Wolverine integration for nats-auth-callout-service (ADR 0022): a thin adapter… |
+| 2026-11-15 20:27:14 | [Akinly](https://www.nuget.org/packages/Akinly) | 1.0.1 | Valentin Burkin | Incremental clustering of short texts by embedding similarity, with lasting clu… |
+| 2026-11-15 20:27:14 | [Akinly.VectorData](https://www.nuget.org/packages/Akinly.VectorData) | 1.0.1 | Valentin Burkin | An Akinly cluster store over a vector database with a Microsoft.Extensions.Vect… |
+| 2026-11-15 20:27:15 | [Akinly.AI](https://www.nuget.org/packages/Akinly.AI) | 1.0.1 | Valentin Burkin | Akinly with any language model through Microsoft.Extensions.AI: a judge that de… |
+| 2026-11-15 20:31:06 | [SseClientLib](https://www.nuget.org/packages/SseClientLib) | 0.3.1 | Macha Celeste | A simple SSE listener client |
+| 2026-11-15 20:31:54 | [Agentics.Extensions.Aspire.TeamsBot](https://www.nuget.org/packages/Agentics.Extensions.Aspire.TeamsBot) | 0.2.7 | Poul Kjeldager Sørensen | Aspire hosting integration for a notification bot in Microsoft Teams: provision… |
+| 2026-11-15 20:34:49 | [GoomeSharp](https://www.nuget.org/packages/GoomeSharp) | 0.4.0 | sevvy-wevvy | C# bindings for goome: see-through always on top overlays, normal app windows a… |
+| 2026-11-15 20:35:17 | [Jeninnet.Assertions.TUnit](https://www.nuget.org/packages/Jeninnet.Assertions.TUnit) | 1.1.0 | Jeninnet | Optional TUnit integration for Jeninnet.Assertions: surfaces fluent assertion f… |
+| 2026-11-15 20:35:18 | [Jeninnet.Assertions.NUnit](https://www.nuget.org/packages/Jeninnet.Assertions.NUnit) | 1.1.0 | Jeninnet | Optional NUnit integration for Jeninnet.Assertions: surfaces fluent assertion f… |
+| 2026-11-15 20:35:19 | [Jeninnet.Assertions.xUnit.v3](https://www.nuget.org/packages/Jeninnet.Assertions.xUnit.v3) | 1.1.0 | Jeninnet | Optional xUnit v3 integration for Jeninnet.Assertions: surfaces fluent assertio… |
+| 2026-11-15 20:35:19 | [Jeninnet.Assertions.xUnit](https://www.nuget.org/packages/Jeninnet.Assertions.xUnit) | 1.1.0 | Jeninnet | Optional xUnit v2 integration for Jeninnet.Assertions: surfaces fluent assertio… |
+| 2026-11-15 20:38:26 | [DotnetRsync](https://www.nuget.org/packages/DotnetRsync) | 0.0.1 | Linus Berg | A managed .NET reimplementation of the rsync client protocol. Pull files from a… |
+| 2026-11-15 20:38:26 | [DotnetRsync.S3](https://www.nuget.org/packages/DotnetRsync.S3) | 0.0.1 | Linus Berg | Amazon S3 (and S3-compatible storage) target for DotnetRsync: rsync files from… |
+| 2026-11-15 20:43:16 | [Elyspio.Utils.Results.AspNetCore](https://www.nuget.org/packages/Elyspio.Utils.Results.AspNetCore) | 1.0.0 | Elyspio.Utils.Results.AspNetC… | Maps Elyspio.Utils.Results to ASP.NET Core results and ProblemDetails |
+| 2026-11-15 20:43:17 | [Elyspio.Utils.Results](https://www.nuget.org/packages/Elyspio.Utils.Results) | 1.0.0 | Elyspio.Utils.Results | Result type built on C# 15 unions, with a closed hierarchy of HTTP-mappable err… |
+| 2026-11-15 20:43:18 | [Elyspio.Utils.Telemetry](https://www.nuget.org/packages/Elyspio.Utils.Telemetry) | 3.0.0 | Elyspio.Utils.Telemetry | OpenTelemetry bootstrap configured by the standard OTEL_* settings, Serilog log… |
+| 2026-11-15 20:43:33 | [GoalNET.Calculator](https://www.nuget.org/packages/GoalNET.Calculator) | 1.0.0 | GoalNET.Calculator | Package Description |
+| 2026-11-15 20:48:56 | [EFCore.MaterializR.PostgreSql](https://www.nuget.org/packages/EFCore.MaterializR.PostgreSql) | 1.1.61 | Adam O'Neil | EF Core-based incremental cache updates for PostgreSql |
+| 2026-11-15 20:56:04 | [CosmicChimps.Aspire.Hosting.Umbral](https://www.nuget.org/packages/CosmicChimps.Aspire.Hosting.Umbral) | 0.12.0 | Cosmic Chimps | Aspire hosting integration for Umbral, a self-hosted OpenID Connect provider. A… |
+| 2026-11-15 20:58:55 | [Tanuki.Parsing](https://www.nuget.org/packages/Tanuki.Parsing) | 0.1.0 | Caprine Logic | A small command-line parser with explicit commands, options, and arguments. |
+| 2026-11-15 20:58:56 | [Tanuki](https://www.nuget.org/packages/Tanuki) | 0.1.0 | Caprine Logic | An intentionally boring, attribute-based CLI framework. |
+| 2026-11-15 21:07:42 | [ChromaDotNet.Client.Backup](https://www.nuget.org/packages/ChromaDotNet.Client.Backup) | 2.22.0 | ChromaDotNet contributors | Backup and restore of Chroma collections through the API, for ChromaDotNet.Clie… |
+| 2026-11-15 21:07:42 | [ChromaDotNet.Client.Cli](https://www.nuget.org/packages/ChromaDotNet.Client.Cli) | 2.22.0 | ChromaDotNet contributors | The command chromadotnet: backup, restore and verify of Chroma collections thro… |
 
 ## Data source
 
