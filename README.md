@@ -12,22 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 12:21 UTC
+## Latest list — 2026-11-15 13:21 UTC
 
-New packages created between 2026-11-15 11:21 UTC and 2026-11-15 12:21 UTC.
+New packages created between 2026-11-15 12:21 UTC and 2026-11-15 13:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T12-21-46-275061Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T13-21-47-383964Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 11:23:31 | [EfMigrationLint](https://www.nuget.org/packages/EfMigrationLint) | 0.2.0 | EF Migration Lint contributors | Source-only checks for potentially destructive EF Core migration operations. Re… |
-| 2026-11-15 11:41:36 | [ClipboardMonitor.Quiet](https://www.nuget.org/packages/ClipboardMonitor.Quiet) | 3.0.0 | davpnuser,JPS | A fork of ClipboardMonitor.Core without the built-in "Debugging" console writes… |
-| 2026-11-15 11:50:31 | [Sagynbaev.Tessera.Agents](https://www.nuget.org/packages/Sagynbaev.Tessera.Agents) | 5.1.0 | Azimbek Sagynbaev | Verified-agent identity for Tessera: issue/verify an agent_identity attestation… |
-| 2026-11-15 11:57:14 | [Sky1sBloo.VzSocketReceiver](https://www.nuget.org/packages/Sky1sBloo.VzSocketReceiver) | 1.0.0 | Sky1sBloo | Library for receiving and sending data to Juno: New Origins via the Sockets ser… |
-| 2026-11-15 12:01:50 | [CifroArts.SimplifiedCSharp.Style](https://www.nuget.org/packages/CifroArts.SimplifiedCSharp.Style) | 1.0.0 | CifroArts | CifroArts C# code style: Roslyn analyzers and code fixes for Unity and .NET pro… |
-| 2026-11-15 12:06:27 | [GCR.Host](https://www.nuget.org/packages/GCR.Host) | 0.1.2 | GCR | 宿主：Blazor Server 管理界面与 Minimal API，单进程单端口。可经 NuGet 引用后由外部宿主用 builder.AddGCR() /… |
-| 2026-11-15 12:06:38 | [GCR.Licensing](https://www.nuget.org/packages/GCR.Licensing) | 0.1.2 | GCR | GCR.Framework 离线 License：RSA 非对称签名与验签（公钥随框架分发，私钥由厂商自持） |
-| 2026-11-15 12:06:40 | [GCR.Presentations.Admin.Information](https://www.nuget.org/packages/GCR.Presentations.Admin.Information) | 0.1.2 | GCR | Admin 模块表现层：information 能力域的信息管理统一渲染 |
+| 2026-11-15 12:38:15 | [Indigauge.Core](https://www.nuget.org/packages/Indigauge.Core) | 0.1.0 | Indigauge.Core | Package Description |
+| 2026-11-15 12:39:08 | [Neph.GenericLibs.Net.DatabaseLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.DatabaseLib) | 0.1.0 | Neph | Provider-agnostic database abstractions for EF Core (generic DbContext, trackin… |
+| 2026-11-15 12:42:20 | [Infrastructure.MvvmBase](https://www.nuget.org/packages/Infrastructure.MvvmBase) | 1.0.0 | Sukhov A.A. | A NuGet package providing a reusable base class for loading indicators and back… |
+| 2026-11-15 12:47:26 | [PclIO](https://www.nuget.org/packages/PclIO) | 0.1.0 | mahach666 | Reads and converts point cloud files in several scanner and project formats (.e… |
+| 2026-11-15 12:47:27 | [PclIO.Cli](https://www.nuget.org/packages/PclIO.Cli) | 0.1.0 | mahach666 | Command line tool that inspects point cloud files, lists their scans, prints sa… |
+| 2026-11-15 12:48:28 | [Vek](https://www.nuget.org/packages/Vek) | 1.0.0 | Amin Sabaghi | Blazor Component Library based on Material Design principles with an emphasis o… |
+| 2026-11-15 12:49:39 | [MarkdownToPdf.Tool](https://www.nuget.org/packages/MarkdownToPdf.Tool) | 0.1.0 | John Scott | Command line tool that converts Markdown files into polished PDF documents. No… |
+| 2026-11-15 12:49:39 | [Reetus.MarkdownToPdf](https://www.nuget.org/packages/Reetus.MarkdownToPdf) | 0.1.0 | John Scott | Dependency-free Markdown (CommonMark + GFM) to PDF converter with TrueType font… |
+| 2026-11-15 12:54:21 | [Indigauge.Revit](https://www.nuget.org/packages/Indigauge.Revit) | 0.1.0 | Indigauge.Revit | Opt-in, privacy-conscious Indigauge adapter for Revit 2027. |
+| 2026-11-15 12:54:45 | [Indigauge.Revit.Wpf](https://www.nuget.org/packages/Indigauge.Revit.Wpf) | 0.1.0 | Indigauge.Revit.Wpf | Optional native WPF feedback UI for the Indigauge Revit adapter. |
+| 2026-11-15 13:00:10 | [Neph.GenericLibs.Net.AzureSqlLib](https://www.nuget.org/packages/Neph.GenericLibs.Net.AzureSqlLib) | 0.1.0 | Neph | Azure SQL / SQL Server provider for DatabaseLib: EF Core registration and desig… |
+| 2026-11-15 13:01:00 | [IgrisModz.Plugin.ThemeKit](https://www.nuget.org/packages/IgrisModz.Plugin.ThemeKit) | 1.0.0 | IgrisModz | Shared theme and style functionality for Plugin.ThemeKit. |
+| 2026-11-15 13:01:01 | [IgrisModz.Plugin.ThemeKit.Maui](https://www.nuget.org/packages/IgrisModz.Plugin.ThemeKit.Maui) | 1.0.0 | IgrisModz | Theme and style helper for .NET MAUI applications |
+| 2026-11-15 13:01:03 | [IgrisModz.Plugin.ThemeKit.WinUI](https://www.nuget.org/packages/IgrisModz.Plugin.ThemeKit.WinUI) | 1.0.0 | IgrisModz | Theme and style helper for .NET WinUI applications |
+| 2026-11-15 13:04:43 | [Pacem.OpenXml.OfficeExcel](https://www.nuget.org/packages/Pacem.OpenXml.OfficeExcel) | 1.1.1-cauchy | Cristian Merighi | Utilities to read and write .xlsx files. |
+| 2026-11-15 13:09:51 | [OmniDev.Cli](https://www.nuget.org/packages/OmniDev.Cli) | 0.1.0 | mequann | Universal Polyglot Dev Orchestrator & Concurrent Runner with Smart Failure Diag… |
+| 2026-11-15 13:12:11 | [1llum1n4t1s.NAudio.Nam](https://www.nuget.org/packages/1llum1n4t1s.NAudio.Nam) | 4.0.11 | Mark Heath, Contributors, ゆろち | Native C# inference for Neural Amp Modeler (NAM) guitar amp and pedal captures.… |
+| 2026-11-15 13:12:58 | [MusselDiagram.Core](https://www.nuget.org/packages/MusselDiagram.Core) | 1.0.0 | machi_pon | Model, rules, validation, routing, undo and JSON of MusselDiagram, without UI |
 
 ## Data source
 

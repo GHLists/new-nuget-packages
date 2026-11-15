@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-11-15T12:38:15.537Z,Indigauge.Core,0.1.0,Indigauge.Core,Package Description
+2026-11-15T12:39:08.3Z,Neph.GenericLibs.Net.DatabaseLib,0.1.0,Neph,"Provider-agnostic database abstractions for EF Core (generic DbContext, tracking interfaces, provider abstraction and registration)."
+2026-11-15T12:42:20.97Z,Infrastructure.MvvmBase,1.0.0,Sukhov A.A.,A NuGet package providing a reusable base class for loading indicators and background operations in XAML applications. The `LoadingViewModelBase` class extends the property-change notification primitives from `Infrastructure.Foundation` and adds an `IsLoading` state along with a `RunWithLoading<T>`…
+2026-11-15T12:47:26.397Z,PclIO,0.1.0,mahach666,"Reads and converts point cloud files in several scanner and project formats (.e57, .rcs/.rcp, .lgsx/.lgs, .fls, .srf/.smf, .c3db/.c3ptx) and exports LAS, XYZ, PTS and JSON. Managed code with no dependencies on other packages."
+2026-11-15T12:47:27.63Z,PclIO.Cli,0.1.0,mahach666,"Command line tool that inspects point cloud files, lists their scans, prints sample points and exports to LAS, XYZ, PTS or JSON."
+2026-11-15T12:48:28.197Z,Vek,1.0.0,Amin Sabaghi,Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
+2026-11-15T12:49:39.06Z,MarkdownToPdf.Tool,0.1.0,John Scott,Command line tool that converts Markdown files into polished PDF documents. No external dependencies.
+2026-11-15T12:49:39.64Z,Reetus.MarkdownToPdf,0.1.0,John Scott,"Dependency-free Markdown (CommonMark + GFM) to PDF converter with TrueType font embedding, syntax highlighting, tables, bookmarks and internal links."
+2026-11-15T12:54:21.387Z,Indigauge.Revit,0.1.0,Indigauge.Revit,"Opt-in, privacy-conscious Indigauge adapter for Revit 2027."
+2026-11-15T12:54:45.06Z,Indigauge.Revit.Wpf,0.1.0,Indigauge.Revit.Wpf,Optional native WPF feedback UI for the Indigauge Revit adapter.
+2026-11-15T13:00:10.363Z,Neph.GenericLibs.Net.AzureSqlLib,0.1.0,Neph,Azure SQL / SQL Server provider for DatabaseLib: EF Core registration and design-time factory for ASP.NET Core applications.
+2026-11-15T13:01:00.577Z,IgrisModz.Plugin.ThemeKit,1.0.0,IgrisModz,Shared theme and style functionality for Plugin.ThemeKit.
+2026-11-15T13:01:01.9Z,IgrisModz.Plugin.ThemeKit.Maui,1.0.0,IgrisModz,Theme and style helper for .NET MAUI applications
+2026-11-15T13:01:03.133Z,IgrisModz.Plugin.ThemeKit.WinUI,1.0.0,IgrisModz,Theme and style helper for .NET WinUI applications
+2026-11-15T13:04:43.187Z,Pacem.OpenXml.OfficeExcel,1.1.1-cauchy,Cristian Merighi,Utilities to read and write .xlsx files.
+2026-11-15T13:09:51.517Z,OmniDev.Cli,0.1.0,mequann,Universal Polyglot Dev Orchestrator & Concurrent Runner with Smart Failure Diagnostics.
+2026-11-15T13:12:11.017Z,1llum1n4t1s.NAudio.Nam,4.0.11,"Mark Heath, Contributors, ゆろち","Native C# inference for Neural Amp Modeler (NAM) guitar amp and pedal captures. Loads A2 (A2-Full and A2-Lite), A1 WaveNet and LSTM .nam models and plays them in real time as an NAudio effect, with no native dependencies."
+2026-11-15T13:12:58.94Z,MusselDiagram.Core,1.0.0,machi_pon,"Model, rules, validation, routing, undo and JSON of MusselDiagram, without UI"
