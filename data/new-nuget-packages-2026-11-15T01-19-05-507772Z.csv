@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-15T00:32:47.323Z,Dekaf.Streams.Extensions.Hosting,1.28.0-beta,Dekaf Contributors,Microsoft.Extensions.Hosting integration for Dekaf.Streams
+2026-11-15T00:32:48.093Z,Dekaf.Streams.Storage.ZoneTree,1.28.0-beta,Dekaf Contributors,"Persistent state stores for Dekaf.Streams, backed by the managed ZoneTree LSM engine"
+2026-11-15T00:32:48.837Z,Dekaf.Streams.Testing,1.28.0-beta,Dekaf Contributors,Deterministic in-memory test driver for Dekaf.Streams topologies
+2026-11-15T00:32:49.56Z,Dekaf.Streams,1.28.0-beta,Dekaf Contributors,"Stream processing for Dekaf: typed topology DSL, processor API, state stores, windows and joins"
+2026-11-15T00:44:57.54Z,Pain001.Sdk,0.0.88,Sebastien Rousseau,"Typed .NET client for the pain001 REST API (pain001 serve): validate, generate and check ISO 20022 pain.001 and pain.008 payment files."
