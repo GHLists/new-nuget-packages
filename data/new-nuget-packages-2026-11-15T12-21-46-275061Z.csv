@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-15T11:23:31.543Z,EfMigrationLint,0.2.0,EF Migration Lint contributors,Source-only checks for potentially destructive EF Core migration operations. Reads migration .cs files with Roslyn; never builds your project or connects to a database. Prints readable console output or GitHub Actions annotations.
+2026-11-15T11:41:36.757Z,ClipboardMonitor.Quiet,3.0.0,"davpnuser,JPS","A fork of ClipboardMonitor.Core without the built-in ""Debugging"" console writes that for some reason werent removed in the release build."
+2026-11-15T11:50:31.063Z,Sagynbaev.Tessera.Agents,5.1.0,Azimbek Sagynbaev,"Verified-agent identity for Tessera: issue/verify an agent_identity attestation binding an agent key to its principal DID, and sign/verify HTTP requests with the agent's did:tessera controller key using RFC 9421 HTTP Message Signatures (Web Bot Auth compatible). Zero payment dependencies."
+2026-11-15T11:57:14.887Z,Sky1sBloo.VzSocketReceiver,1.0.0,Sky1sBloo,Library for receiving and sending data to Juno: New Origins via the Sockets service for Vizzy.
+2026-11-15T12:01:50.323Z,CifroArts.SimplifiedCSharp.Style,1.0.0,CifroArts,CifroArts C# code style: Roslyn analyzers and code fixes for Unity and .NET projects.
+2026-11-15T12:06:27.92Z,GCR.Host,0.1.2,GCR,宿主：Blazor Server 管理界面与 Minimal API，单进程单端口。可经 NuGet 引用后由外部宿主用 builder.AddGCR() / app.UseGCRAsync() 拉起整套 GCR。
+2026-11-15T12:06:38.2Z,GCR.Licensing,0.1.2,GCR,GCR.Framework 离线 License：RSA 非对称签名与验签（公钥随框架分发，私钥由厂商自持）
+2026-11-15T12:06:40.473Z,GCR.Presentations.Admin.Information,0.1.2,GCR,Admin 模块表现层：information 能力域的信息管理统一渲染

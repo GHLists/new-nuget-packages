@@ -12,25 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 11:21 UTC
+## Latest list — 2026-11-15 12:21 UTC
 
-New packages created between 2026-11-15 10:21 UTC and 2026-11-15 11:21 UTC.
+New packages created between 2026-11-15 11:21 UTC and 2026-11-15 12:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T11-21-48-041634Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T12-21-46-275061Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 10:48:32 | [PrintSharp.Fonts.Noto](https://www.nuget.org/packages/PrintSharp.Fonts.Noto) | 0.4.0 | ogisyouryuu | All supported Noto fonts for PrintSharp. |
-| 2026-11-15 10:48:34 | [PrintSharp.Fonts.NotoSans](https://www.nuget.org/packages/PrintSharp.Fonts.NotoSans) | 0.4.0 | ogisyouryuu | Optional Noto font assets for PrintSharp: NotoSans. |
-| 2026-11-15 10:48:35 | [PrintSharp.Fonts.NotoSansArabic](https://www.nuget.org/packages/PrintSharp.Fonts.NotoSansArabic) | 0.4.0 | ogisyouryuu | Optional Noto font assets for PrintSharp: NotoSansArabic. |
-| 2026-11-15 10:48:37 | [PrintSharp.Fonts.NotoSansCjk](https://www.nuget.org/packages/PrintSharp.Fonts.NotoSansCjk) | 0.4.0 | ogisyouryuu | Optional Noto font assets for PrintSharp: NotoSansCjk. |
-| 2026-11-15 10:48:40 | [PrintSharp.Fonts.NotoSerifCjk](https://www.nuget.org/packages/PrintSharp.Fonts.NotoSerifCjk) | 0.4.0 | ogisyouryuu | Optional Noto font assets for PrintSharp: NotoSerifCjk. |
-| 2026-11-15 10:58:33 | [BlazorFeatures.Tools.Abstractions](https://www.nuget.org/packages/BlazorFeatures.Tools.Abstractions) | 1.0.0 | Federico Mangini | Transport-neutral contracts for BlazorFeatures events and external SignalR clie… |
-| 2026-11-15 10:58:46 | [BlazorFeatures.Tools.Client](https://www.nuget.org/packages/BlazorFeatures.Tools.Client) | 1.0.0 | Federico Mangini | Cross-render-mode event management for BlazorFeatures client applications. |
-| 2026-11-15 10:58:59 | [BlazorFeatures.Tools.Server](https://www.nuget.org/packages/BlazorFeatures.Tools.Server) | 1.0.0 | Federico Mangini | Server routing, authorization and SignalR transport for BlazorFeatures events. |
-| 2026-11-15 11:00:00 | [DuckDB.EFCoreProvider.EF11.NTS](https://www.nuget.org/packages/DuckDB.EFCoreProvider.EF11.NTS) | 1.1.0 | skuirrels | NetTopologySuite (spatial) support for DuckDB.EFCoreProvider.EF11 on Entity Fra… |
-| 2026-11-15 11:00:01 | [DuckDB.EFCoreProvider.EF11](https://www.nuget.org/packages/DuckDB.EFCoreProvider.EF11) | 1.31.0 | skuirrels | DuckDB, DuckLake and Parquet provider for Entity Framework Core 11, for analyti… |
-| 2026-11-15 11:05:50 | [Usa.Smart.WinUI.Hosting](https://www.nuget.org/packages/Usa.Smart.WinUI.Hosting) | 2.0.0 | machi_pon | Smart WinUI support library |
+| 2026-11-15 11:23:31 | [EfMigrationLint](https://www.nuget.org/packages/EfMigrationLint) | 0.2.0 | EF Migration Lint contributors | Source-only checks for potentially destructive EF Core migration operations. Re… |
+| 2026-11-15 11:41:36 | [ClipboardMonitor.Quiet](https://www.nuget.org/packages/ClipboardMonitor.Quiet) | 3.0.0 | davpnuser,JPS | A fork of ClipboardMonitor.Core without the built-in "Debugging" console writes… |
+| 2026-11-15 11:50:31 | [Sagynbaev.Tessera.Agents](https://www.nuget.org/packages/Sagynbaev.Tessera.Agents) | 5.1.0 | Azimbek Sagynbaev | Verified-agent identity for Tessera: issue/verify an agent_identity attestation… |
+| 2026-11-15 11:57:14 | [Sky1sBloo.VzSocketReceiver](https://www.nuget.org/packages/Sky1sBloo.VzSocketReceiver) | 1.0.0 | Sky1sBloo | Library for receiving and sending data to Juno: New Origins via the Sockets ser… |
+| 2026-11-15 12:01:50 | [CifroArts.SimplifiedCSharp.Style](https://www.nuget.org/packages/CifroArts.SimplifiedCSharp.Style) | 1.0.0 | CifroArts | CifroArts C# code style: Roslyn analyzers and code fixes for Unity and .NET pro… |
+| 2026-11-15 12:06:27 | [GCR.Host](https://www.nuget.org/packages/GCR.Host) | 0.1.2 | GCR | 宿主：Blazor Server 管理界面与 Minimal API，单进程单端口。可经 NuGet 引用后由外部宿主用 builder.AddGCR() /… |
+| 2026-11-15 12:06:38 | [GCR.Licensing](https://www.nuget.org/packages/GCR.Licensing) | 0.1.2 | GCR | GCR.Framework 离线 License：RSA 非对称签名与验签（公钥随框架分发，私钥由厂商自持） |
+| 2026-11-15 12:06:40 | [GCR.Presentations.Admin.Information](https://www.nuget.org/packages/GCR.Presentations.Admin.Information) | 0.1.2 | GCR | Admin 模块表现层：information 能力域的信息管理统一渲染 |
 
 ## Data source
 
