@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-11-15T15:27:09.75Z,Gas2D,0.2.1,Alexander Paterson,"A small game layer on top of yak2d: screens, canvases and layers, render passes, entities with components, and Box2D physics (Box2D.NET)."
+2026-11-15T15:37:27.733Z,DotBoil.FCM,1.0.0,Ömer Faruk Şahin,"Firebase Cloud Messaging integration for DotBoil applications. Stores FCM registration tokens of authenticated users per device and sends push notifications by UserId, automatically cleaning up expired tokens."
+2026-11-15T15:43:28.773Z,Appium.Harness,2.0.0,vtome,"A test-framework-agnostic helper layer over Appium for .NET MAUI (and other mobile) UI tests: element lookup by automation id, resilient waits, precise no-fling gestures, waiting assertions with useful failure messages, hybrid WebView support, and local/cloud session setup. Works with NUnit, xUnit,…"
+2026-11-15T15:44:25.673Z,Appium.Harness.Maui,1.0.0,vtome,"The app-side half of Appium.Harness for .NET MAUI: TestProbe publishes chosen view properties — a colour, a bound view-model value — into the platform accessibility tree, so an Appium test can assert on them with Appium.Harness's HasTextColor and HasProperty. Off unless the app opts in with UseTest…"
+2026-11-15T15:44:43.977Z,Serilog.Sinks.LogStream,0.0.2,Guilherme Branco Stracini,A Serilog sink that writes events to a LogStream server (guibranco/logstream-server) in batches.
+2026-11-15T15:57:03.19Z,AdocNet.Importers,1.0.31,Sylvain Fasel,"Markdown, HTML and PDF importers for Adoc.Net: convert to AsciiDoc source with extracted media and a per-document fidelity report."
+2026-11-15T15:58:44.18Z,BccCode.Privacy.AspNetCore,0.3.1,BCC,"BCC Privacy for ASP.NET Core: the privacy scope per request from the signed-in organisation and the endpoint's declared process, refusal of endpoints that read personal data without a process, and per-endpoint masking of data items in JSON responses."
+2026-11-15T16:07:37.15Z,Donkeh.Hosting,1.0.23,barely-sentient,"Donkeh.Hosting module for Donkeh, a CSS-driven UI engine for .NET."
+2026-11-15T16:07:41.577Z,Donkeh.Windowing.Android,1.0.23,barely-sentient,"Donkeh.Windowing.Android module for Donkeh, a CSS-driven UI engine for .NET."
+2026-11-15T16:07:42.61Z,Donkeh.Windowing.Browser,1.0.23,barely-sentient,"Donkeh.Windowing.Browser module for Donkeh, a CSS-driven UI engine for .NET."
+2026-11-15T16:12:00.203Z,Darkspyre.Inference.Common,11.20.0,Darkspyre Studios,Shared typed contracts for Darkspyre Connect and Tensor inference implementations.
+2026-11-15T16:12:01.77Z,Darkspyre.Inference.Connect,11.20.0,Darkspyre Studios,"Image, speech and audio inference connectors for Darkspyre applications."
+2026-11-15T16:12:03.18Z,Darkspyre.Inference.Connect.Anthropic,11.20.0,Darkspyre Studios,"Conversations and agent sessions through the Anthropic Messages API with an Anthropic API key, with Anthropic's hosted web search."
+2026-11-15T16:12:04.887Z,Darkspyre.Inference.Connect.Antigravity,11.20.0,Darkspyre Studios,Conversations and native agent sessions on a Google subscription through the official Antigravity CLI.
+2026-11-15T16:12:06.183Z,Darkspyre.Inference.Connect.Claude,11.20.0,Darkspyre Studios,Conversations and agent sessions on a Claude subscription through the official Claude CLI.
+2026-11-15T16:12:07.383Z,Darkspyre.Inference.Connect.Codex,11.20.0,Darkspyre Studios,Conversations and agent sessions on a ChatGPT subscription.
+2026-11-15T16:12:08.897Z,Darkspyre.Inference.Connect.Common,11.20.0,Darkspyre Studios,"Universal conversation and embedding contracts, shared provider infrastructure and automatic Connect discovery."
+2026-11-15T16:12:10.117Z,Darkspyre.Inference.Connect.Grok,11.20.0,Darkspyre Studios,Conversations and agent sessions on a Grok (xAI) subscription.
+2026-11-15T16:12:11.63Z,Darkspyre.Inference.Connect.HostTools,11.20.0,Darkspyre Studios,"Connects hosts and MCP programs to the host-tools local service, which it bundles."
+2026-11-15T16:12:12.763Z,Darkspyre.Inference.Connect.OpenAiApi,11.20.0,Darkspyre Studios,"Conversations, agent sessions and text embeddings through the OpenAI Responses API."
+2026-11-15T16:12:14.017Z,Darkspyre.Inference.Connect.SelfHost,11.20.0,Darkspyre Studios,Conversations and embeddings on engines the application runs in its own process.
+2026-11-15T16:12:16.547Z,Darkspyre.Inference.Tensor.Decision.Laya,11.20.0,Darkspyre Studios,Laya in-process typed-decision inference through ONNX Runtime.
+2026-11-15T16:12:17.687Z,Darkspyre.Inference.Tensor.Embedding,11.20.0,Darkspyre Studios,In-process text embeddings through TensorSharp GGUF sentence encoders.
+2026-11-15T16:12:18.957Z,Darkspyre.Inference.Tensor.Embedding.Gemma,11.20.0,Darkspyre Studios,Resident EmbeddingGemma text and image inference through ONNX Runtime CPU and WebGPU.
+2026-11-15T16:12:20.46Z,Darkspyre.Inference.Tensor.Ggml,11.20.0,Darkspyre Studios,The one GGML native runtime owner that every Tensor engine running on GGML borrows.
+2026-11-15T16:12:21.62Z,Darkspyre.Inference.Tensor.Image.Supra,11.20.0,Darkspyre Studios,Supra2-IMG in-process image generation through TensorSharp.
+2026-11-15T16:12:22.783Z,Darkspyre.Inference.Tensor.LLM.Qwen,11.20.0,Darkspyre Studios,Qwen GGUF in-process LLM inference through TensorSharp.
+2026-11-15T16:12:23.96Z,Darkspyre.Inference.Tensor.Registry,11.20.0,Darkspyre Studios,"Registration, validation and ordered discovery of the Darkspyre Tensor engine implementations."
+2026-11-15T16:12:25.77Z,Darkspyre.Inference.Tensor.STT.Whisper,11.20.0,Darkspyre Studios,Resident CPU/CUDA Whisper speech transcription with host-owned model storage and lifetime.
+2026-11-15T16:12:28.3Z,Darkspyre.Inference.UI.Settings.Blazor,11.20.0,Darkspyre Studios,Host-placed Blazor (Lumeo) setup editor for Darkspyre inference providers.
+2026-11-15T16:12:29.737Z,Darkspyre.Inference.UI.Settings.Core,11.20.0,Darkspyre Studios,UI-neutral editor state and host contracts shared by the Darkspyre inference setup editors.
+2026-11-15T16:13:41.323Z,BccCode.Privacy.Wolverine,0.3.1,BCC,"BCC Privacy for Wolverine: the privacy scope carried on message envelopes, handler middleware that runs each handler under its sender's organisation and process, and publishing of BasisChanged events and basis moments through Wolverine."

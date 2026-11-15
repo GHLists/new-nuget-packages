@@ -12,43 +12,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:20 UTC
+## Latest list — 2026-11-15 16:21 UTC
 
-New packages created between 2026-11-15 14:21 UTC and 2026-11-15 15:20 UTC.
+New packages created between 2026-11-15 15:20 UTC and 2026-11-15 16:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T15-20-47-064875Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T16-21-28-462362Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 14:24:00 | [AstraFlow.Assertions](https://www.nuget.org/packages/AstraFlow.Assertions) | 2.4.0 | AstraFlow Contributors | Framework-neutral assertion library for .NET tests. |
-| 2026-11-15 14:26:27 | [Huelake.Connectivitizer.Kcp](https://www.nuget.org/packages/Huelake.Connectivitizer.Kcp) | 1.0.32 | Huelake | Reliable stream over UDP (KCP) used by Connectivitizer direct connections. Vend… |
-| 2026-11-15 14:26:29 | [Huelake.Connectivitizer.Protocol](https://www.nuget.org/packages/Huelake.Connectivitizer.Protocol) | 1.0.32 | Huelake | Wire protocol contracts of Connectivitizer (signaling messages, session grants,… |
-| 2026-11-15 14:29:12 | [CrispyWaffle.LogStream](https://www.nuget.org/packages/CrispyWaffle.LogStream) | 10.5.0 | Guilherme Branco Stracini | The CrispyWaffle LogStream log provider package |
-| 2026-11-15 14:31:05 | [AbpAdmin.TenantManagement.Web](https://www.nuget.org/packages/AbpAdmin.TenantManagement.Web) | 0.2.1 | ABP Admin contributors | ABP Admin Razor Pages UI for tenants, the multi-tenancy switch and tenant datab… |
-| 2026-11-15 14:31:06 | [AbpAdmin.Core.Web](https://www.nuget.org/packages/AbpAdmin.Core.Web) | 0.2.1 | ABP Admin contributors | ABP Admin Razor Pages UI core: the console layout (sidebar, Ctrl+K palette, toa… |
-| 2026-11-15 14:31:07 | [AbpAdmin.BackgroundJobs.Web](https://www.nuget.org/packages/AbpAdmin.BackgroundJobs.Web) | 0.2.1 | ABP Admin contributors | ABP Admin Razor Pages UI for the background job queue. |
-| 2026-11-15 14:31:08 | [AbpAdmin.Identity.Web](https://www.nuget.org/packages/AbpAdmin.Identity.Web) | 0.2.1 | ABP Admin contributors | ABP Admin Razor Pages UI for identity: users (across tenants for the host), rol… |
-| 2026-11-15 14:31:09 | [AbpAdmin.Web](https://www.nuget.org/packages/AbpAdmin.Web) | 0.2.1 | ABP Admin contributors | All of ABP Admin's Razor Pages UI in one reference (under /AbpAdmin): core, aud… |
-| 2026-11-15 14:31:09 | [AbpAdmin.Application](https://www.nuget.org/packages/AbpAdmin.Application) | 0.2.1 | ABP Admin contributors | All of ABP Admin in one reference: core, audit logging, identity, OpenIddict, b… |
-| 2026-11-15 14:31:10 | [AbpAdmin.OpenIddict.Web](https://www.nuget.org/packages/AbpAdmin.OpenIddict.Web) | 0.2.1 | ABP Admin contributors | ABP Admin Razor Pages UI for OpenIddict: client applications and API scopes. |
-| 2026-11-15 14:31:10 | [AbpAdmin.AuditLogging.Web](https://www.nuget.org/packages/AbpAdmin.AuditLogging.Web) | 0.2.1 | ABP Admin contributors | ABP Admin Razor Pages UI for audit logging: the request log with its statistics… |
-| 2026-11-15 14:31:11 | [AbpAdmin.HttpApi](https://www.nuget.org/packages/AbpAdmin.HttpApi) | 0.2.1 | ABP Admin contributors | All of ABP Admin with its HTTP APIs under /api/abp-admin (remote service name "… |
-| 2026-11-15 14:33:07 | [Themia.Conversations.AspNetCore](https://www.nuget.org/packages/Themia.Conversations.AspNetCore) | 0.63.2 | Sarawut Phaekuntod | HTTP surface for Themia.Conversations: minimal-API endpoints for the guest link… |
-| 2026-11-15 14:35:25 | [Cratis.Showrunner.Understudy.Contracts](https://www.nuget.org/packages/Cratis.Showrunner.Understudy.Contracts) | 2.15.0 | Cratis | The public event contracts of the Showrunner Understudy: the facts published wh… |
-| 2026-11-15 14:42:13 | [Ranvier.Css.Compile](https://www.nuget.org/packages/Ranvier.Css.Compile) | 0.1.0 | shayanhabibi | A .NET tool that extracts the static CSS of typed Ranvier.Css styles applicatio… |
-| 2026-11-15 14:49:34 | [BccCode.Privacy](https://www.nuget.org/packages/BccCode.Privacy) | 0.2.0 | BCC | The framework-neutral core of BCC Privacy: processes, groups, data items, bases… |
-| 2026-11-15 14:51:04 | [ActionLedger](https://www.nuget.org/packages/ActionLedger) | 0.1.0 | Pallav Pokhriyal | Idempotency guard for irreversible actions taken by AI agents and automation. |
-| 2026-11-15 14:52:19 | [Ikon.Crypto.Dtls](https://www.nuget.org/packages/Ikon.Crypto.Dtls) | 2.6.2.13 | The Legion of the Bouncy Cast… | DTLS 1.2, X.509 certificate generation and SHA-3 for the IKON platform and SDK.… |
-| 2026-11-15 14:57:03 | [ReactiveUI.Maui.Reactive](https://www.nuget.org/packages/ReactiveUI.Maui.Reactive) | 27.0.0 | .NET Foundation and Contribut… | Contains the ReactiveUI platform specific extensions for Microsoft Maui, recomp… |
-| 2026-11-15 14:57:04 | [ReactiveUI.Blazor.Reactive](https://www.nuget.org/packages/ReactiveUI.Blazor.Reactive) | 27.0.0 | .NET Foundation and Contribut… | Contains the ReactiveUI platform specific extensions for Blazor, recompiled aga… |
-| 2026-11-15 14:57:05 | [Donkeh.CliTool](https://www.nuget.org/packages/Donkeh.CliTool) | 1.0.21 | barely-sentient | Donkeh.CliTool module for Donkeh, a CSS-driven UI engine for .NET. |
-| 2026-11-15 15:01:20 | [SharpEquations.WinForms](https://www.nuget.org/packages/SharpEquations.WinForms) | 1.1.1 | Simone Bortolin | A real-time equation editor (MathEditBox) and viewer (MathView) for Windows For… |
-| 2026-11-15 15:01:21 | [SharpEquations.Wpf](https://www.nuget.org/packages/SharpEquations.Wpf) | 1.1.1 | Simone Bortolin | A real-time equation editor (MathEditBox) and viewer (MathView) for WPF: Unicod… |
-| 2026-11-15 15:01:22 | [SharpEquations.Avalonia](https://www.nuget.org/packages/SharpEquations.Avalonia) | 1.1.1 | Simone Bortolin | A real-time equation editor (MathEditBox) and viewer (MathView) for Avalonia: U… |
-| 2026-11-15 15:01:23 | [SharpEquations.Editing](https://www.nuget.org/packages/SharpEquations.Editing) | 1.1.1 | Simone Bortolin | The editing model of an equation editor built on SharpEquations: the tree of th… |
-| 2026-11-15 15:01:24 | [SharpEquations.Rendering](https://www.nuget.org/packages/SharpEquations.Rendering) | 1.1.1 | Simone Bortolin | The layout of presentation MathML (MathML Core) over the OpenType MATH table of… |
-| 2026-11-15 15:01:25 | [SharpEquations.Uno](https://www.nuget.org/packages/SharpEquations.Uno) | 1.1.1 | Simone Bortolin | A real-time equation editor (MathEditBox) and viewer (MathView) for Uno Platfor… |
-| 2026-11-15 15:07:06 | [SAT_ArenaAllocator](https://www.nuget.org/packages/SAT_ArenaAllocator) | 1.0.0 | Alexander Zhelnin aka kulibin… | Arena Allocator |
+| 2026-11-15 15:27:09 | [Gas2D](https://www.nuget.org/packages/Gas2D) | 0.2.1 | Alexander Paterson | A small game layer on top of yak2d: screens, canvases and layers, render passes… |
+| 2026-11-15 15:37:27 | [DotBoil.FCM](https://www.nuget.org/packages/DotBoil.FCM) | 1.0.0 | Ömer Faruk Şahin | Firebase Cloud Messaging integration for DotBoil applications. Stores FCM regis… |
+| 2026-11-15 15:43:28 | [Appium.Harness](https://www.nuget.org/packages/Appium.Harness) | 2.0.0 | vtome | A test-framework-agnostic helper layer over Appium for .NET MAUI (and other mob… |
+| 2026-11-15 15:44:25 | [Appium.Harness.Maui](https://www.nuget.org/packages/Appium.Harness.Maui) | 1.0.0 | vtome | The app-side half of Appium.Harness for .NET MAUI: TestProbe publishes chosen v… |
+| 2026-11-15 15:44:43 | [Serilog.Sinks.LogStream](https://www.nuget.org/packages/Serilog.Sinks.LogStream) | 0.0.2 | Guilherme Branco Stracini | A Serilog sink that writes events to a LogStream server (guibranco/logstream-se… |
+| 2026-11-15 15:57:03 | [AdocNet.Importers](https://www.nuget.org/packages/AdocNet.Importers) | 1.0.31 | Sylvain Fasel | Markdown, HTML and PDF importers for Adoc.Net: convert to AsciiDoc source with… |
+| 2026-11-15 15:58:44 | [BccCode.Privacy.AspNetCore](https://www.nuget.org/packages/BccCode.Privacy.AspNetCore) | 0.3.1 | BCC | BCC Privacy for ASP.NET Core: the privacy scope per request from the signed-in… |
+| 2026-11-15 16:07:37 | [Donkeh.Hosting](https://www.nuget.org/packages/Donkeh.Hosting) | 1.0.23 | barely-sentient | Donkeh.Hosting module for Donkeh, a CSS-driven UI engine for .NET. |
+| 2026-11-15 16:07:41 | [Donkeh.Windowing.Android](https://www.nuget.org/packages/Donkeh.Windowing.Android) | 1.0.23 | barely-sentient | Donkeh.Windowing.Android module for Donkeh, a CSS-driven UI engine for .NET. |
+| 2026-11-15 16:07:42 | [Donkeh.Windowing.Browser](https://www.nuget.org/packages/Donkeh.Windowing.Browser) | 1.0.23 | barely-sentient | Donkeh.Windowing.Browser module for Donkeh, a CSS-driven UI engine for .NET. |
+| 2026-11-15 16:12:00 | [Darkspyre.Inference.Common](https://www.nuget.org/packages/Darkspyre.Inference.Common) | 11.20.0 | Darkspyre Studios | Shared typed contracts for Darkspyre Connect and Tensor inference implementatio… |
+| 2026-11-15 16:12:01 | [Darkspyre.Inference.Connect](https://www.nuget.org/packages/Darkspyre.Inference.Connect) | 11.20.0 | Darkspyre Studios | Image, speech and audio inference connectors for Darkspyre applications. |
+| 2026-11-15 16:12:03 | [Darkspyre.Inference.Connect.Anthropic](https://www.nuget.org/packages/Darkspyre.Inference.Connect.Anthropic) | 11.20.0 | Darkspyre Studios | Conversations and agent sessions through the Anthropic Messages API with an Ant… |
+| 2026-11-15 16:12:04 | [Darkspyre.Inference.Connect.Antigravity](https://www.nuget.org/packages/Darkspyre.Inference.Connect.Antigravity) | 11.20.0 | Darkspyre Studios | Conversations and native agent sessions on a Google subscription through the of… |
+| 2026-11-15 16:12:06 | [Darkspyre.Inference.Connect.Claude](https://www.nuget.org/packages/Darkspyre.Inference.Connect.Claude) | 11.20.0 | Darkspyre Studios | Conversations and agent sessions on a Claude subscription through the official… |
+| 2026-11-15 16:12:07 | [Darkspyre.Inference.Connect.Codex](https://www.nuget.org/packages/Darkspyre.Inference.Connect.Codex) | 11.20.0 | Darkspyre Studios | Conversations and agent sessions on a ChatGPT subscription. |
+| 2026-11-15 16:12:08 | [Darkspyre.Inference.Connect.Common](https://www.nuget.org/packages/Darkspyre.Inference.Connect.Common) | 11.20.0 | Darkspyre Studios | Universal conversation and embedding contracts, shared provider infrastructure… |
+| 2026-11-15 16:12:10 | [Darkspyre.Inference.Connect.Grok](https://www.nuget.org/packages/Darkspyre.Inference.Connect.Grok) | 11.20.0 | Darkspyre Studios | Conversations and agent sessions on a Grok (xAI) subscription. |
+| 2026-11-15 16:12:11 | [Darkspyre.Inference.Connect.HostTools](https://www.nuget.org/packages/Darkspyre.Inference.Connect.HostTools) | 11.20.0 | Darkspyre Studios | Connects hosts and MCP programs to the host-tools local service, which it bundl… |
+| 2026-11-15 16:12:12 | [Darkspyre.Inference.Connect.OpenAiApi](https://www.nuget.org/packages/Darkspyre.Inference.Connect.OpenAiApi) | 11.20.0 | Darkspyre Studios | Conversations, agent sessions and text embeddings through the OpenAI Responses… |
+| 2026-11-15 16:12:14 | [Darkspyre.Inference.Connect.SelfHost](https://www.nuget.org/packages/Darkspyre.Inference.Connect.SelfHost) | 11.20.0 | Darkspyre Studios | Conversations and embeddings on engines the application runs in its own process. |
+| 2026-11-15 16:12:16 | [Darkspyre.Inference.Tensor.Decision.Laya](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.Decision.Laya) | 11.20.0 | Darkspyre Studios | Laya in-process typed-decision inference through ONNX Runtime. |
+| 2026-11-15 16:12:17 | [Darkspyre.Inference.Tensor.Embedding](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.Embedding) | 11.20.0 | Darkspyre Studios | In-process text embeddings through TensorSharp GGUF sentence encoders. |
+| 2026-11-15 16:12:18 | [Darkspyre.Inference.Tensor.Embedding.Gemma](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.Embedding.Gemma) | 11.20.0 | Darkspyre Studios | Resident EmbeddingGemma text and image inference through ONNX Runtime CPU and W… |
+| 2026-11-15 16:12:20 | [Darkspyre.Inference.Tensor.Ggml](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.Ggml) | 11.20.0 | Darkspyre Studios | The one GGML native runtime owner that every Tensor engine running on GGML borr… |
+| 2026-11-15 16:12:21 | [Darkspyre.Inference.Tensor.Image.Supra](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.Image.Supra) | 11.20.0 | Darkspyre Studios | Supra2-IMG in-process image generation through TensorSharp. |
+| 2026-11-15 16:12:22 | [Darkspyre.Inference.Tensor.LLM.Qwen](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.LLM.Qwen) | 11.20.0 | Darkspyre Studios | Qwen GGUF in-process LLM inference through TensorSharp. |
+| 2026-11-15 16:12:23 | [Darkspyre.Inference.Tensor.Registry](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.Registry) | 11.20.0 | Darkspyre Studios | Registration, validation and ordered discovery of the Darkspyre Tensor engine i… |
+| 2026-11-15 16:12:25 | [Darkspyre.Inference.Tensor.STT.Whisper](https://www.nuget.org/packages/Darkspyre.Inference.Tensor.STT.Whisper) | 11.20.0 | Darkspyre Studios | Resident CPU/CUDA Whisper speech transcription with host-owned model storage an… |
+| 2026-11-15 16:12:28 | [Darkspyre.Inference.UI.Settings.Blazor](https://www.nuget.org/packages/Darkspyre.Inference.UI.Settings.Blazor) | 11.20.0 | Darkspyre Studios | Host-placed Blazor (Lumeo) setup editor for Darkspyre inference providers. |
+| 2026-11-15 16:12:29 | [Darkspyre.Inference.UI.Settings.Core](https://www.nuget.org/packages/Darkspyre.Inference.UI.Settings.Core) | 11.20.0 | Darkspyre Studios | UI-neutral editor state and host contracts shared by the Darkspyre inference se… |
+| 2026-11-15 16:13:41 | [BccCode.Privacy.Wolverine](https://www.nuget.org/packages/BccCode.Privacy.Wolverine) | 0.3.1 | BCC | BCC Privacy for Wolverine: the privacy scope carried on message envelopes, hand… |
 
 ## Data source
 
