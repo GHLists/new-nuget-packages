@@ -12,22 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 22:19 UTC
+## Latest list — 2026-11-15 23:20 UTC
 
-New packages created between 2026-11-15 21:21 UTC and 2026-11-15 22:19 UTC.
+New packages created between 2026-11-15 22:19 UTC and 2026-11-15 23:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T22-19-56-72418Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T23-20-08-625973Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 21:32:17 | [MVFC.Pack.HttpClient](https://www.nuget.org/packages/MVFC.Pack.HttpClient) | 5.0.0 | Marcus Vinicius de Freitas Co… | Metapacote para clientes HTTP tipados com Refit, HttpClientFactory e resiliênci… |
-| 2026-11-15 21:38:03 | [Nethermind.Multiformats.Hash](https://www.nuget.org/packages/Nethermind.Multiformats.Hash) | 1.5.3 | Nethermind, Trond Bråthen | Multihash implementation in C# |
-| 2026-11-15 21:49:02 | [Hexalith.Agents.UI](https://www.nuget.org/packages/Hexalith.Agents.UI) | 2.0.1 | Hexalith Contributors | FrontComposer admin-setup UI for the Hexalith Agents module: the Agents domain/… |
-| 2026-11-15 21:50:29 | [Nethermind.Multiformats.Address](https://www.nuget.org/packages/Nethermind.Multiformats.Address) | 1.1.11 | Nethermind, Trond Bråthen | Multiaddr implementation in C# |
-| 2026-11-15 21:58:34 | [ai-factory](https://www.nuget.org/packages/ai-factory) | 0.1.0 | Kurt Mabery | A Claude Code software factory: ideas are grilled into specs, built, reviewed b… |
-| 2026-11-15 22:00:34 | [Ikon.Teleport](https://www.nuget.org/packages/Ikon.Teleport) | 3.23.0 | IKON | Teleport, the binary serialization format of the IKON protocol. The IKON C# SDK… |
-| 2026-11-15 22:06:37 | [KspGonogo.Sitrep.Contract](https://www.nuget.org/packages/KspGonogo.Sitrep.Contract) | 1.0.0 | ksp-gonogo | The C# Uplink surface for Gonogo, a mission-control dashboard for Kerbal Space… |
-| 2026-11-15 22:13:44 | [BorrowedTorch.Persistency](https://www.nuget.org/packages/BorrowedTorch.Persistency) | 1.0.0 | Vladyslav Pysarenko | Borrowed Torch persistency: documents, a format-neutral data tree with a JSON c… |
+| 2026-11-15 22:20:25 | [DefangLabs.DefangScaleway](https://www.nuget.org/packages/DefangLabs.DefangScaleway) | 2.12.1 | Defang | Deploy containerized services to Scaleway with Pulumi. |
+| 2026-11-15 22:20:42 | [eGraphicsCloud.Plugins.CustomValidationControls](https://www.nuget.org/packages/eGraphicsCloud.Plugins.CustomValidationControls) | 3.17.88 | Ibrar Tariq | eGraphicsCloud.Plugins.CustomValidationControls provides validation controls al… |
+| 2026-11-15 22:56:02 | [dev-orchestrator-cli](https://www.nuget.org/packages/dev-orchestrator-cli) | 0.2.0 | Dev Orchestrator | Dev Orchestrator CLI (devorch): a .NET tool driven by the API's OpenAPI documen… |
+| 2026-11-15 23:01:57 | [Nethermind.Libp2p.Protocols.KadDht](https://www.nuget.org/packages/Nethermind.Libp2p.Protocols.KadDht) | 1.1.4 | Nethermind | A libp2p implementation for .NET |
+| 2026-11-15 23:12:26 | [Oneverse.Lazers](https://www.nuget.org/packages/Oneverse.Lazers) | 0.1.0 | Emmanuel Ilori, Oneverse | Server-side .NET SDK for Lazers Signal Protocol v1. |
 
 ## Data source
 

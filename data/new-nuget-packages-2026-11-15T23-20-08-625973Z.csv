@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-15T22:20:25.067Z,DefangLabs.DefangScaleway,2.12.1,Defang,Deploy containerized services to Scaleway with Pulumi.
+2026-11-15T22:20:42.657Z,eGraphicsCloud.Plugins.CustomValidationControls,3.17.88,Ibrar Tariq,"eGraphicsCloud.Plugins.CustomValidationControls provides validation controls alongside CustomReportGenerator, a lightweight and zero-dependency reporting engine for generating dynamic reports in PDF, Excel, Word, CSV, and HTML formats. Built strictly on standard .NET libraries, it eliminates third-…"
+2026-11-15T22:56:02.857Z,dev-orchestrator-cli,0.2.0,Dev Orchestrator,"Dev Orchestrator CLI (devorch): a .NET tool driven by the API's OpenAPI document, over the Kiota-generated SDK."
+2026-11-15T23:01:57.687Z,Nethermind.Libp2p.Protocols.KadDht,1.1.4,Nethermind,A libp2p implementation for .NET
+2026-11-15T23:12:26.333Z,Oneverse.Lazers,0.1.0,"Emmanuel Ilori, Oneverse",Server-side .NET SDK for Lazers Signal Protocol v1.
