@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-15T18:37:12.46Z,Pipoburgos.SharedKernel.Api.OpenApi,11.0.0.3,Roberto Fernández Salinas,C# DDD Distributed Services Layer
+2026-11-15T18:38:21.83Z,Nefarius.Utilities.ETW.Relay.CLI,3.0.0,Benjamin Höglinger-Stelzer,Optional companion tool for etwutils: reads raw ETW relay frames from stdin and delivers them to an OpenTelemetry decoding gateway as OTLP/HTTP logs.
+2026-11-15T18:42:32.827Z,Fable.Ranvier.Wgpu,0.1.0,shayanhabibi,"The Ranvier.Wgpu 3D scene API for the browser, compiled to JavaScript with Fickl: instanced meshes, lines, discs, section clipping, shader hooks and GPU picking on WebGPU, with a WebGL2 fallback."
+2026-11-15T18:56:19.823Z,Migracle.Cli,1.0.0,Migracle Contributors,CLI Runner for Migracle PostgreSQL Migration & Integrity Engine
+2026-11-15T18:56:20.51Z,Migracle.Core,1.0.0,Migracle Team,Enterprise Database Migration & Integrity Guard for PostgreSQL
+2026-11-15T19:01:34.13Z,GraphEssentialsX,1.0.0,Przemyslaw Klys,"Typed, capability-first Graph/O365 engine."
+2026-11-15T19:01:35.723Z,GraphEssentialsX.Monitoring,1.0.0,Przemyslaw Klys,"Caller-invoked Conditional Access evaluation and DbaClientX record-store adapters. Hosting, scheduling and presentation belong to consumers."

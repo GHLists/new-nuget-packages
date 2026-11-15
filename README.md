@@ -12,21 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 18:21 UTC
+## Latest list — 2026-11-15 19:20 UTC
 
-New packages created between 2026-11-15 17:21 UTC and 2026-11-15 18:21 UTC.
+New packages created between 2026-11-15 18:21 UTC and 2026-11-15 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T18-21-20-484808Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T19-20-37-327084Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 17:31:27 | [RunConvert](https://www.nuget.org/packages/RunConvert) | 0.1.0 | RunConvert | Official RunConvert SDK for .NET: convert files between 240+ formats. |
-| 2026-11-15 17:32:09 | [IcocubeServer.Sdk.Plugin](https://www.nuget.org/packages/IcocubeServer.Sdk.Plugin) | 0.0.1-alpha | Gilles Prevot | Experimental plugin development SDK for IcocubeServer. |
-| 2026-11-15 17:32:55 | [Pmad.LocalApi.Client](https://www.nuget.org/packages/Pmad.LocalApi.Client) | 0.1.0 | Julien Etelain | HTTP client helpers for local .NET API services: DelegatingHandler for automati… |
-| 2026-11-15 17:32:56 | [Pmad.LocalApi.Security](https://www.nuget.org/packages/Pmad.LocalApi.Security) | 0.1.0 | Julien Etelain | Shared local API key security primitives for .NET local services and companion… |
-| 2026-11-15 17:33:54 | [FabrCore.Sdk](https://www.nuget.org/packages/FabrCore.Sdk) | 2.2.0 | Vulcan365 LLC | SDK for building AI agents with the FabrCore framework |
-| 2026-11-15 17:33:54 | [PlainToolkit.ObjectiveC](https://www.nuget.org/packages/PlainToolkit.ObjectiveC) | 0.1.0 | PCL Community | A simple, lightweight Objective-C interoperability library. |
-| 2026-11-15 17:55:20 | [PolyphenyDotNetDriver](https://www.nuget.org/packages/PolyphenyDotNetDriver) | 2.0.0 | Polypheny | .NET driver for Polypheny-DB with SQL, MongoQL and Prism entity metadata suppor… |
+| 2026-11-15 18:37:12 | [Pipoburgos.SharedKernel.Api.OpenApi](https://www.nuget.org/packages/Pipoburgos.SharedKernel.Api.OpenApi) | 11.0.0.3 | Roberto Fernández Salinas | C# DDD Distributed Services Layer |
+| 2026-11-15 18:38:21 | [Nefarius.Utilities.ETW.Relay.CLI](https://www.nuget.org/packages/Nefarius.Utilities.ETW.Relay.CLI) | 3.0.0 | Benjamin Höglinger-Stelzer | Optional companion tool for etwutils: reads raw ETW relay frames from stdin and… |
+| 2026-11-15 18:42:32 | [Fable.Ranvier.Wgpu](https://www.nuget.org/packages/Fable.Ranvier.Wgpu) | 0.1.0 | shayanhabibi | The Ranvier.Wgpu 3D scene API for the browser, compiled to JavaScript with Fick… |
+| 2026-11-15 18:56:19 | [Migracle.Cli](https://www.nuget.org/packages/Migracle.Cli) | 1.0.0 | Migracle Contributors | CLI Runner for Migracle PostgreSQL Migration & Integrity Engine |
+| 2026-11-15 18:56:20 | [Migracle.Core](https://www.nuget.org/packages/Migracle.Core) | 1.0.0 | Migracle Team | Enterprise Database Migration & Integrity Guard for PostgreSQL |
+| 2026-11-15 19:01:34 | [GraphEssentialsX](https://www.nuget.org/packages/GraphEssentialsX) | 1.0.0 | Przemyslaw Klys | Typed, capability-first Graph/O365 engine. |
+| 2026-11-15 19:01:35 | [GraphEssentialsX.Monitoring](https://www.nuget.org/packages/GraphEssentialsX.Monitoring) | 1.0.0 | Przemyslaw Klys | Caller-invoked Conditional Access evaluation and DbaClientX record-store adapte… |
 
 ## Data source
 
