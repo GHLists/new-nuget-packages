@@ -1,0 +1,41 @@
+created_at,package,version,authors,description
+2026-11-15T03:29:37.743Z,Mateu.Dtos,3.0.0,Miguel Pérez Colom,"Mateu wire model for .NET: the UIIncrement/component DTOs exchanged with every Mateu renderer, serialized to exactly the JSON the Java reference emits."
+2026-11-15T03:29:38.3Z,Mateu.Core,3.0.0,Miguel Pérez Colom,"Mateu engine for .NET: route registry, reflection mapper (view model to component tree), action dispatch and the /mateu/v3/sync use case."
+2026-11-15T03:29:38.67Z,Mateu.Uidl,3.0.0,Miguel Pérez Colom,"Mateu public API for .NET: the attributes ([UI], [Section], [Button]…), fluent components, archetypes and capability interfaces you annotate C# view models with. The only package a framework-agnostic UI module needs."
+2026-11-15T03:29:38.963Z,Mateu.Bundle,3.0.0,Miguel Pérez Colom,"dotnet mateu-bundle: exports a Mateu.NET app (code and/or YAML specs) to a static bundle — manifest.json, the web renderer and an index page — that a CDN serves with no backend."
+2026-11-15T03:29:39.33Z,Mateu.AspNetCore,3.0.0,Miguel Pérez Colom,"Mateu for ASP.NET Core: AddMateu()/MapMateu() — DI, identity and the POST /mateu/v3/sync endpoint that serves any Mateu renderer."
+2026-11-15T03:44:37.18Z,Pantheon.Common,1.0.2,itzmerobby,"Shared exception types for Pantheon packages, independent of application runtimes."
+2026-11-15T03:44:48.82Z,Mekhane.Discovery,1.0.2,itzmerobby,Assembly discovery and dependency ordering for Mekhane modules.
+2026-11-15T03:47:33.22Z,dotnet-http-file,0.1.0,Jaliya Udagedara,Run Visual Studio .http files from the command line.
+2026-11-15T03:50:42.137Z,Relayer.AspNetCore,0.1.1,Tom Longhurst,Optional ASP.NET Core dead-letter management endpoints for Relayer.
+2026-11-15T03:50:42.84Z,Relayer.Serialization.MessagePack,0.1.1,Tom Longhurst,Buffer-based MessagePack serialization for Relayer using explicit native options and generated formatters.
+2026-11-15T03:50:43.383Z,Relayer.Testing,0.1.1,Tom Longhurst,"Host-local message harness, handler test contexts and reusable transport conformance scenarios for Relayer."
+2026-11-15T03:50:44.007Z,Relayer.Outbox.PostgreSql,0.1.1,Tom Longhurst,PostgreSQL (ADO.NET) outbox and inbox for Relayer.
+2026-11-15T03:50:45.213Z,Relayer.Outbox.SqlServer,0.1.1,Tom Longhurst,"SQL Server transactional outbox enlistment, durable reads and fenced claims for Relayer."
+2026-11-15T03:50:45.93Z,Relayer.AmazonSqs.HealthChecks,0.1.1,Tom Longhurst,Optional native connectivity and receiver liveness health adapters for Relayer.AmazonSqs.
+2026-11-15T03:50:46.83Z,Relayer.AzureServiceBus,0.1.1,Tom Longhurst,"Azure Service Bus transport for Relayer, wrapping Azure.Messaging.ServiceBus."
+2026-11-15T03:50:47.577Z,Relayer.Serialization.Protobuf,0.1.1,Tom Longhurst,Buffer-based Protobuf serialization for Relayer using explicitly registered generated parsers.
+2026-11-15T03:50:48.903Z,Relayer.Outbox.PostgreSql.EntityFrameworkCore,0.1.1,Tom Longhurst,PostgreSQL provider for Relayer's EF Core outbox and inbox.
+2026-11-15T03:50:49.507Z,Relayer.Kafka.Serialization.Avro,0.1.1,Tom Longhurst,"Startup-prepared, source-generated Avro serialization for Relayer using the Dekaf Kafka client and Schema Registry integration."
+2026-11-15T03:50:50.493Z,Relayer.AzureServiceBus.HealthChecks,0.1.1,Tom Longhurst,Optional native connectivity and receiver liveness health adapters for Relayer.AzureServiceBus.
+2026-11-15T03:50:51.543Z,Relayer.RabbitMQ.HealthChecks,0.1.1,Tom Longhurst,Optional native RabbitMQ connectivity and receiver liveness adapters for Relayer health checks.
+2026-11-15T03:50:54.497Z,Relayer.Outbox.MySql,0.1.1,Tom Longhurst,"MySQL transactional outbox enqueue, durable reads and fenced claims for Relayer."
+2026-11-15T03:50:55.14Z,Relayer.Nats,0.1.1,Tom Longhurst,Native NATS JetStream transport for Relayer.
+2026-11-15T03:50:55.953Z,Relayer.Cli,0.1.1,Tom Longhurst,"Relayer topology export, database schema scripts and message lookup."
+2026-11-15T03:50:56.6Z,Relayer.Kafka,0.1.1,Tom Longhurst,"Kafka transport for Relayer, wrapping Dekaf, a pure C# Kafka client."
+2026-11-15T03:50:57.283Z,Relayer.Sagas.EntityFrameworkCore,0.1.1,Tom Longhurst,Transactional PostgreSQL saga persistence on Relayer's EF Core inbox and outbox.
+2026-11-15T03:50:57.853Z,Relayer.RabbitMQ,0.1.1,Tom Longhurst,"RabbitMQ transport for Relayer, wrapping RabbitMQ.Client."
+2026-11-15T03:50:58.427Z,Relayer.Sagas,0.1.1,Tom Longhurst,"Explicit process diagrams, state and typed saga execution for Relayer."
+2026-11-15T04:01:15.583Z,HyperCache,0.9.0,HyperCache,A fast in-memory IDistributedCache for .NET that keeps every app instance in sync through HyperCache.Server. Without a server configured it works as a local in-memory cache.
+2026-11-15T04:13:28.643Z,Boutquin.Abstractions,1.0.0,Pierre G. Boutquin,"Current-user and authorization abstractions (ICurrentUserService, IAuthorizationService, [Authorize]) shared by the Boutquin.Mediator authorization and caching behaviors."
+2026-11-15T04:13:29.25Z,Boutquin.Mediator,1.0.0,Pierre G. Boutquin,"Mediator implementation for .NET — request dispatch, notification fan-out, streaming, pipeline behaviors, and handler auto-discovery via Scrutor."
+2026-11-15T04:13:30.61Z,Boutquin.Mediator.Abstractions,1.0.0,Pierre G. Boutquin,"Contracts for the Boutquin mediator — commands, queries, notifications, stream requests, handlers, pipeline behaviors, and pre/post-processors, all returning Result-based outcomes."
+2026-11-15T04:13:32.02Z,Boutquin.Mediator.Reliability,1.0.0,Pierre G. Boutquin,Retry pipeline behavior for Boutquin.Mediator — retries failed requests with per-attempt timeouts and configurable back-off via Boutquin.Reliability and Polly.
+2026-11-15T04:13:32.757Z,Boutquin.Mediator.Caching,1.0.0,Pierre G. Boutquin,"Distributed-cache pipeline behavior for Boutquin.Mediator — caches successful Result responses per user, with policy from [CachingPolicy] attributes or configuration."
+2026-11-15T04:14:07.943Z,FrontEndCSharp.Overrides.Interop.JS.Browser.fecs,1.0.0,drewdelano,Compiler and runtime override resources for Interop.JS.Browser in FrontEndCSharp browser applications.
+2026-11-15T04:14:14.347Z,FrontEndCSharp.Overrides.Interop.JS.MobX.fecs,7.0.6,drewdelano,Compiler and runtime override resources for Interop.JS.MobX in FrontEndCSharp browser applications.
+2026-11-15T04:14:40.07Z,FrontEndCSharp.Overrides.System.ComponentModel.Annotations.fecs,1.0.0,drewdelano,Compiler and runtime override resources for System.ComponentModel.Annotations in FrontEndCSharp browser applications.
+2026-11-15T04:14:41.4Z,FrontEndCSharp.Overrides.System.Console.fecs,1.0.0,drewdelano,Compiler and runtime override resources for System.Console in FrontEndCSharp browser applications.
+2026-11-15T04:14:42.803Z,FrontEndCSharp.Overrides.System.Linq.Expressions.fecs,1.0.0,drewdelano,Compiler and runtime override resources for System.Linq.Expressions in FrontEndCSharp browser applications.
+2026-11-15T04:14:46.743Z,FrontEndCSharp.Overrides.System.Net.Http.Json.fecs,1.0.0,drewdelano,Compiler and runtime override resources for System.Net.Http.Json in FrontEndCSharp browser applications.
+2026-11-15T04:14:50.953Z,FrontEndCSharp.Overrides.System.Security.Cryptography.fecs,1.0.0,drewdelano,Compiler and runtime override resources for System.Security.Cryptography in FrontEndCSharp browser applications.
