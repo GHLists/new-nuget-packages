@@ -12,22 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 09:21 UTC
+## Latest list — 2026-11-15 10:21 UTC
 
-New packages created between 2026-11-15 08:19 UTC and 2026-11-15 09:21 UTC.
+New packages created between 2026-11-15 09:21 UTC and 2026-11-15 10:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T09-21-58-181371Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T10-21-29-586209Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 08:35:30 | [Laranet.Admin](https://www.nuget.org/packages/Laranet.Admin) | 0.4.0 | TheJavaZ | Provider-neutral contracts for an optional Laranet administrative surface. |
-| 2026-11-15 08:35:31 | [Laranet.Admin.AspNetCore](https://www.nuget.org/packages/Laranet.Admin.AspNetCore) | 0.4.0 | TheJavaZ | Experimental Razor Pages integration for Laranet administrative resources. |
-| 2026-11-15 08:35:32 | [Laranet.Admin.EntityFrameworkCore](https://www.nuget.org/packages/Laranet.Admin.EntityFrameworkCore) | 0.4.0 | TheJavaZ | Experimental EF Core adapter for Laranet administrative resources. |
-| 2026-11-15 08:43:41 | [Tubatools.MacSkin](https://www.nuget.org/packages/Tubatools.MacSkin) | 1.1.0 | 机械 | 全新 macOS 风格应用外壳：玻璃侧栏、胶囊工具栏、工具图标资料库、搜索、收藏及可恢复的宿主页面挂载。 |
-| 2026-11-15 08:45:51 | [KvNode.Client](https://www.nuget.org/packages/KvNode.Client) | 0.2.0 | Eli Belash | .NET client for KvNode, the gRPC key-value server written in x86-64 assembly: G… |
-| 2026-11-15 09:03:45 | [TranscriptDock](https://www.nuget.org/packages/TranscriptDock) | 0.1.0 | Transcript Dock | Client for the Transcript Dock video transcription API. |
-| 2026-11-15 09:08:49 | [EasyImageSharp.Avif](https://www.nuget.org/packages/EasyImageSharp.Avif) | 1.3.0 | Farhan Lodi | Optional native AVIF decoder and encoder for EasyImageSharp, powered by libavif… |
-| 2026-11-15 09:17:11 | [ReactiveUI.Binding.Maui.Reactive](https://www.nuget.org/packages/ReactiveUI.Binding.Maui.Reactive) | 10.0.0 | Glenn Watson | MAUI platform support for ReactiveUI.Binding.Reactive, for consumers on System.… |
+| 2026-11-15 09:34:06 | [EasyImageSharp.Codecs](https://www.nuget.org/packages/EasyImageSharp.Codecs) | 1.3.1 | Farhan Lodi | Optional native codecs and colour management for EasyImageSharp in one package:… |
+| 2026-11-15 09:35:03 | [EasyImageSharp.Web](https://www.nuget.org/packages/EasyImageSharp.Web) | 1.3.1 | Farhan Lodi | ASP.NET Core image middleware for EasyImageSharp: app.UseEasyImageSharp() resiz… |
+| 2026-11-15 10:02:19 | [SharpZipLib.Lts](https://www.nuget.org/packages/SharpZipLib.Lts) | 1.4.3 | ICSharpCode,maintained fork b… | Maintained fork of SharpZipLib (drop-in: same assembly and namespaces, only the… |
+| 2026-11-15 10:06:33 | [Mailtruss](https://www.nuget.org/packages/Mailtruss) | 0.1.1 | Mailtruss | .NET client for the Mailtruss email API. No dependencies. |
 
 ## Data source
 
