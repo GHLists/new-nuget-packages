@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-15T17:31:27.8Z,RunConvert,0.1.0,RunConvert,Official RunConvert SDK for .NET: convert files between 240+ formats.
+2026-11-15T17:32:09.45Z,IcocubeServer.Sdk.Plugin,0.0.1-alpha,Gilles Prevot,Experimental plugin development SDK for IcocubeServer.
+2026-11-15T17:32:55.92Z,Pmad.LocalApi.Client,0.1.0,Julien Etelain,"HTTP client helpers for local .NET API services: DelegatingHandler for automatic API key attachment and key-rotation retry, plus Dependency Injection and IHttpClientBuilder extensions."
+2026-11-15T17:32:56.597Z,Pmad.LocalApi.Security,0.1.0,Julien Etelain,"Shared local API key security primitives for .NET local services and companion tools: base64url key generation, salted SHA-256 key hashing, DPAPI/0600 at-rest key protection, and default-key envelope reading/storage."
+2026-11-15T17:33:54.137Z,FabrCore.Sdk,2.2.0,Vulcan365 LLC,SDK for building AI agents with the FabrCore framework
+2026-11-15T17:33:54.587Z,PlainToolkit.ObjectiveC,0.1.0,PCL Community,"A simple, lightweight Objective-C interoperability library."
+2026-11-15T17:55:20.957Z,PolyphenyDotNetDriver,2.0.0,Polypheny,".NET driver for Polypheny-DB with SQL, MongoQL and Prism entity metadata support."
