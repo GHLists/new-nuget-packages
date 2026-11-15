@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:20 UTC
+## Latest list — 2026-11-15 06:19 UTC
 
-New packages created between 2026-11-15 04:19 UTC and 2026-11-15 05:20 UTC.
+New packages created between 2026-11-15 05:20 UTC and 2026-11-15 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T05-20-49-994434Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T06-19-25-341778Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 04:25:22 | [Lers.PdfSharp](https://www.nuget.org/packages/Lers.PdfSharp) | 2.0.0 | Stefan Steiger and Contributo… | PdfSharp for .NET Core PdfSharpCore is a partial port of PdfSharp.Xamarin for .… |
-| 2026-11-15 04:28:53 | [Microsoft.Mxc.Sdk.Nvx.Runtime](https://www.nuget.org/packages/Microsoft.Mxc.Sdk.Nvx.Runtime) | 1.1.0 | Microsoft | Windows x64 NVX MicroVM runtime assets for Microsoft.Mxc.Sdk. |
-| 2026-11-15 04:37:31 | [ReactiveUI.Primitives.Blazor.Reactive](https://www.nuget.org/packages/ReactiveUI.Primitives.Blazor.Reactive) | 10.0.0 | ReactiveUI Association Inc | Blazor integration helpers for ReactiveUI.Primitives, recompiled against System… |
-| 2026-11-15 04:37:37 | [ReactiveUI.Primitives.Maui.Reactive](https://www.nuget.org/packages/ReactiveUI.Primitives.Maui.Reactive) | 10.0.0 | ReactiveUI Association Inc | MAUI dispatcher scheduler for ReactiveUI.Primitives, recompiled against System.… |
-| 2026-11-15 04:46:44 | [Rechunk.Keys.AzureKeyVault](https://www.nuget.org/packages/Rechunk.Keys.AzureKeyVault) | 0.2.1 | Challa Ravindranath | Wraps Rechunk scope keys with a key that stays in Azure Key Vault. |
-| 2026-11-15 04:51:46 | [MultiConnect.SDK](https://www.nuget.org/packages/MultiConnect.SDK) | 2026.1115.619 | MultiConnect | MultiConnect SDK for .NET: multiplayer networking, rooms and matchmaking, deter… |
+| 2026-11-15 05:22:39 | [Tralys.BehaviorTree](https://www.nuget.org/packages/Tralys.BehaviorTree) | 0.7.0 | vrimar | Zero/low-allocation behavior tree library: one shared immutable tree per archet… |
+| 2026-11-15 05:40:52 | [Squeaky](https://www.nuget.org/packages/Squeaky) | 0.1.0 | CodeByDylan | A .NET library of Clean Architecture building blocks that enforce layer boundar… |
+| 2026-11-15 06:12:01 | [Migadu](https://www.nuget.org/packages/Migadu) | 0.1.0 | orlys | Typed .NET client for the Migadu REST API: domains, mailboxes, identities, forw… |
 
 ## Data source
 

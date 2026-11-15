@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-15T05:22:39.56Z,Tralys.BehaviorTree,0.7.0,vrimar,"Zero/low-allocation behavior tree library: one shared immutable tree per archetype, one compact NodeState[] per agent, 0 B per tick."
+2026-11-15T05:40:52.833Z,Squeaky,0.1.0,CodeByDylan,A .NET library of Clean Architecture building blocks that enforce layer boundaries and domain rules.
+2026-11-15T06:12:01.9Z,Migadu,0.1.0,orlys,"Typed .NET client for the Migadu REST API: domains, mailboxes, identities, forwardings, aliases and rewrites. Unofficial: not affiliated with, endorsed by or supported by Migadu."
