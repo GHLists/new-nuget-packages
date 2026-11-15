@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-15T21:32:17.283Z,MVFC.Pack.HttpClient,5.0.0,Marcus Vinicius de Freitas Costa,"Metapacote para clientes HTTP tipados com Refit, HttpClientFactory e resiliência em aplicações .NET 9+."
+2026-11-15T21:38:03.327Z,Nethermind.Multiformats.Hash,1.5.3,"Nethermind, Trond Bråthen",Multihash implementation in C#
+2026-11-15T21:49:02.803Z,Hexalith.Agents.UI,2.0.1,Hexalith Contributors,"FrontComposer admin-setup UI for the Hexalith Agents module: the Agents domain/navigation registration, the setup surfaces (overview, hexa configuration, provider catalog, approver policy), and the readiness/provider status badges. Binds to the public Agents display contracts through a UI-side gate…"
+2026-11-15T21:50:29.36Z,Nethermind.Multiformats.Address,1.1.11,"Nethermind, Trond Bråthen",Multiaddr implementation in C#
+2026-11-15T21:58:34.983Z,ai-factory,0.1.0,Kurt Mabery,"A Claude Code software factory: ideas are grilled into specs, built, reviewed by four agents and an approver, and gated, then a human merges the PR."
+2026-11-15T22:00:34.207Z,Ikon.Teleport,3.23.0,IKON,"Teleport, the binary serialization format of the IKON protocol. The IKON C# SDK depends on it"
+2026-11-15T22:06:37.153Z,KspGonogo.Sitrep.Contract,1.0.0,ksp-gonogo,"The C# Uplink surface for Gonogo, a mission-control dashboard for Kerbal Space Program: the attributes, descriptors and payload types a KSP mod implements to publish telemetry to a Gonogo host, and the contract version stamp the host loads it against. Its C# namespace is `Sitrep.Contract`. The Type…"
+2026-11-15T22:13:44.477Z,BorrowedTorch.Persistency,1.0.0,Vladyslav Pysarenko,"Borrowed Torch persistency: documents, a format-neutral data tree with a JSON codec, versioned migrations, object mapping and project folders"
