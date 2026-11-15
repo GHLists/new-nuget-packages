@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 06:19 UTC
+## Latest list — 2026-11-15 08:19 UTC
 
-New packages created between 2026-11-15 05:20 UTC and 2026-11-15 06:19 UTC.
+New packages created between 2026-11-15 07:19 UTC and 2026-11-15 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T06-19-25-341778Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T08-19-40-639797Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 05:22:39 | [Tralys.BehaviorTree](https://www.nuget.org/packages/Tralys.BehaviorTree) | 0.7.0 | vrimar | Zero/low-allocation behavior tree library: one shared immutable tree per archet… |
-| 2026-11-15 05:40:52 | [Squeaky](https://www.nuget.org/packages/Squeaky) | 0.1.0 | CodeByDylan | A .NET library of Clean Architecture building blocks that enforce layer boundar… |
-| 2026-11-15 06:12:01 | [Migadu](https://www.nuget.org/packages/Migadu) | 0.1.0 | orlys | Typed .NET client for the Migadu REST API: domains, mailboxes, identities, forw… |
+| 2026-11-15 07:39:25 | [wwosik.DocLibs.DocumentGeneration.Docx](https://www.nuget.org/packages/wwosik.DocLibs.DocumentGeneration.Docx) | 2611.15.8 | Wojciech Wosik | Generates Word documents (.docx) from Markdown, on a built-in template in a bra… |
+| 2026-11-15 07:43:44 | [OrbitLang.Sdk](https://www.nuget.org/packages/OrbitLang.Sdk) | 0.1.0 | ORBIT contributors | Worker SDK for the ORBIT workflow orchestration runtime: long-polls for tasks,… |
+| 2026-11-15 07:49:22 | [BunnyTail.XamlProperty.WinUI](https://www.nuget.org/packages/BunnyTail.XamlProperty.WinUI) | 2.0.0 | machi_pon | DependencyProperty source generator for WinUI. |
 
 ## Data source
 

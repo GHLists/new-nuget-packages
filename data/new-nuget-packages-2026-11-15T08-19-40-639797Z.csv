@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-15T07:39:25.317Z,wwosik.DocLibs.DocumentGeneration.Docx,2611.15.8,Wojciech Wosik,"Generates Word documents (.docx) from Markdown, on a built-in template in a brand's design or on a caller's template, with numbered headings, real footnotes, a table of contents and native charts."
+2026-11-15T07:43:44.903Z,OrbitLang.Sdk,0.1.0,ORBIT contributors,"Worker SDK for the ORBIT workflow orchestration runtime: long-polls for tasks, runs typed handlers and reports results over the ORBIT worker protocol (HTTP/JSON)."
+2026-11-15T07:49:22.287Z,BunnyTail.XamlProperty.WinUI,2.0.0,machi_pon,DependencyProperty source generator for WinUI.
