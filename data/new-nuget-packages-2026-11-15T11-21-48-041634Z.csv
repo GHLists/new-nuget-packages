@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-15T10:48:32.767Z,PrintSharp.Fonts.Noto,0.4.0,ogisyouryuu,All supported Noto fonts for PrintSharp.
+2026-11-15T10:48:34.067Z,PrintSharp.Fonts.NotoSans,0.4.0,ogisyouryuu,Optional Noto font assets for PrintSharp: NotoSans.
+2026-11-15T10:48:35.597Z,PrintSharp.Fonts.NotoSansArabic,0.4.0,ogisyouryuu,Optional Noto font assets for PrintSharp: NotoSansArabic.
+2026-11-15T10:48:37.597Z,PrintSharp.Fonts.NotoSansCjk,0.4.0,ogisyouryuu,Optional Noto font assets for PrintSharp: NotoSansCjk.
+2026-11-15T10:48:40.5Z,PrintSharp.Fonts.NotoSerifCjk,0.4.0,ogisyouryuu,Optional Noto font assets for PrintSharp: NotoSerifCjk.
+2026-11-15T10:58:33.017Z,BlazorFeatures.Tools.Abstractions,1.0.0,Federico Mangini,Transport-neutral contracts for BlazorFeatures events and external SignalR clients.
+2026-11-15T10:58:46.87Z,BlazorFeatures.Tools.Client,1.0.0,Federico Mangini,Cross-render-mode event management for BlazorFeatures client applications.
+2026-11-15T10:58:59.057Z,BlazorFeatures.Tools.Server,1.0.0,Federico Mangini,"Server routing, authorization and SignalR transport for BlazorFeatures events."
+2026-11-15T11:00:00.68Z,DuckDB.EFCoreProvider.EF11.NTS,1.1.0,skuirrels,"NetTopologySuite (spatial) support for DuckDB.EFCoreProvider.EF11 on Entity Framework Core 11. For EF Core 10, use DuckDB.EFCoreProvider.NTS."
+2026-11-15T11:00:01.19Z,DuckDB.EFCoreProvider.EF11,1.31.0,skuirrels,"DuckDB, DuckLake and Parquet provider for Entity Framework Core 11, for analytics at cloud scale. Targets .NET 11. For EF Core 10, use DuckDB.EFCoreProvider."
+2026-11-15T11:05:50.277Z,Usa.Smart.WinUI.Hosting,2.0.0,machi_pon,Smart WinUI support library
