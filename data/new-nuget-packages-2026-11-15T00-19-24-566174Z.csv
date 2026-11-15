@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-14T23:23:56.723Z,LlmsInk,0.1.0,Lucas Espindola,"Client for llms.ink: turn any public link (a site, docs page, GitHub repo, PDF or video) into llms.txt or llms-full.txt, stream the build, check a site's llms.txt, and convert HTML to Markdown. BCL only."
+2026-11-14T23:27:01.1Z,StorageC,0.1.0,StorageC,High-performance .NET SMB2/3 client backed by libsmb2.
+2026-11-14T23:28:55.417Z,AotServiceProvider,1.0.0,cherepets,Automatically discover and register services at compile time.
+2026-11-14T23:48:24.92Z,EggMapper.Analyzers,2.2.0,Eggspot,Roslyn analyzers for EggMapper runtime API. Catches missing AssertConfigurationIsValid calls and suggests compile-time mappings at build time.
+2026-11-14T23:48:32.39Z,Ritten.Npm,0.30.0,Tom Wolfe,"npm projects for Ritten workflows: install, lint, build and test."
+2026-11-15T00:03:03.94Z,Mcp.Client.Net,1.0.0,Keerthi RB,"A lightweight, zero-dependency .NET 10 Model Context Protocol (MCP) Client library for AI Agents, Desktop apps, and Web applications. Supports Streamable HTTP, SSE, and STDIO transports with built-in OAuth 2.1 PKCE discovery and encrypted token caching."
+2026-11-15T00:03:11.437Z,OmniBuf.ProtocGen,0.1.0,OmniBuf Contributors,Protobuf compiler plugin generating OmniBuf C# codecs and Opaque header-hop views.
+2026-11-15T00:03:12.007Z,OmniBuf,0.1.0,OmniBuf Contributors,"Self-delimiting, SIMD-friendly binary serialization format for .NET 8."
+2026-11-15T00:08:57.847Z,Mtsc.Functional.Analyzers,0.1.0,Matheus Leal,"Roslyn analyzers for Mtsc.Functional: discarded Result/Option values, async lambdas passed to synchronous combinators, throwing Match branches and always-Some Option.Create calls."
+2026-11-15T00:08:58.35Z,Mtsc.Functional.AspNetCore,0.1.0,Matheus Leal,Turns Mtsc.Functional Results into ASP.NET Core Minimal API results (IResult / ProblemDetails) through a configurable error mapper.
+2026-11-15T00:08:59.44Z,Mtsc.Functional.Testing,0.1.0,Matheus Leal,"Test-framework-neutral assertions (ShouldSucceed, ShouldFailWith, ShouldBeSome...) for Mtsc.Functional's Result and Option."

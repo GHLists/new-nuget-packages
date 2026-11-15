@@ -12,26 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 23:21 UTC
+## Latest list — 2026-11-15 00:19 UTC
 
-New packages created between 2026-11-14 22:19 UTC and 2026-11-14 23:21 UTC.
+New packages created between 2026-11-14 23:21 UTC and 2026-11-15 00:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-14T23-21-27-031117Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T00-19-24-566174Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-14 22:21:11 | [JalaliX](https://www.nuget.org/packages/JalaliX) | 0.1.1 | Hossein Maklavani | Jalali (Persian / Shamsi) calendar for .NET |
-| 2026-11-14 22:51:51 | [Hydris.Cli](https://www.nuget.org/packages/Hydris.Cli) | 0.9.6 | neuralfog | Hydris CLI: task runner and project commands. |
-| 2026-11-14 22:51:51 | [Hydris.QuickJs](https://www.nuget.org/packages/Hydris.QuickJs) | 0.9.6 | neuralfog | Embedded QuickJS server-side rendering engine for Hydris. |
-| 2026-11-14 22:51:52 | [Hydris](https://www.nuget.org/packages/Hydris) | 0.9.6 | neuralfog | Server-side rendering framework for elemix, built on Native-AOT C#. |
-| 2026-11-14 22:51:52 | [Hydris.Generators](https://www.nuget.org/packages/Hydris.Generators) | 0.9.6 | neuralfog | Source generators for Hydris (ViewData). |
-| 2026-11-14 22:54:09 | [Wireloom.Dds.Cpp.Generator](https://www.nuget.org/packages/Wireloom.Dds.Cpp.Generator) | 1.1.0 | Wireloom.Dds.Cpp | Native AOT C++ IDL generator and CMake build integration for Wireloom. |
-| 2026-11-14 22:54:37 | [Nullean.Snapshots.PublicApi](https://www.nuget.org/packages/Nullean.Snapshots.PublicApi) | 0.13.0 | Nullean and contributors | Public API snapshots for Nullean.Snapshots: an assembly's API stored as a .api… |
-| 2026-11-14 23:05:39 | [Electrical.AI.Learning](https://www.nuget.org/packages/Electrical.AI.Learning) | 1.4.0 | Gravicode Studios (Kang Fadhi… | Machine learning for Electrical.Net: load forecasting (gradient boosting, neura… |
-| 2026-11-14 23:05:40 | [Electrical.Pmu](https://www.nuget.org/packages/Electrical.Pmu) | 1.4.0 | Gravicode Studios (Kang Fadhi… | Synchrophasors for Electrical.Net: IEEE C37.118.2 data/configuration/header/com… |
-| 2026-11-14 23:05:48 | [Electrical.DigitalTwin.ThreeD.Avalonia](https://www.nuget.org/packages/Electrical.DigitalTwin.ThreeD.Avalonia) | 1.4.0 | Gravicode Studios (Kang Fadhi… | Avalonia control for the Electrical.Net 3D digital twin: hosts a ThreeNet scene… |
-| 2026-11-14 23:05:56 | [Electrical.DigitalTwin.ThreeD](https://www.nuget.org/packages/Electrical.DigitalTwin.ThreeD) | 1.4.0 | Gravicode Studios (Kang Fadhi… | 3D digital twin for Electrical.Net: procedural substation and feeder scenes (bu… |
-| 2026-11-14 23:13:29 | [BlockCodeEditor.Commands](https://www.nuget.org/packages/BlockCodeEditor.Commands) | 0.2.0 | Thomas Volden | The block code editor's command contract and program tree in .NET, for hosts th… |
+| 2026-11-14 23:23:56 | [LlmsInk](https://www.nuget.org/packages/LlmsInk) | 0.1.0 | Lucas Espindola | Client for llms.ink: turn any public link (a site, docs page, GitHub repo, PDF… |
+| 2026-11-14 23:27:01 | [StorageC](https://www.nuget.org/packages/StorageC) | 0.1.0 | StorageC | High-performance .NET SMB2/3 client backed by libsmb2. |
+| 2026-11-14 23:28:55 | [AotServiceProvider](https://www.nuget.org/packages/AotServiceProvider) | 1.0.0 | cherepets | Automatically discover and register services at compile time. |
+| 2026-11-14 23:48:24 | [EggMapper.Analyzers](https://www.nuget.org/packages/EggMapper.Analyzers) | 2.2.0 | Eggspot | Roslyn analyzers for EggMapper runtime API. Catches missing AssertConfiguration… |
+| 2026-11-14 23:48:32 | [Ritten.Npm](https://www.nuget.org/packages/Ritten.Npm) | 0.30.0 | Tom Wolfe | npm projects for Ritten workflows: install, lint, build and test. |
+| 2026-11-15 00:03:03 | [Mcp.Client.Net](https://www.nuget.org/packages/Mcp.Client.Net) | 1.0.0 | Keerthi RB | A lightweight, zero-dependency .NET 10 Model Context Protocol (MCP) Client libr… |
+| 2026-11-15 00:03:11 | [OmniBuf.ProtocGen](https://www.nuget.org/packages/OmniBuf.ProtocGen) | 0.1.0 | OmniBuf Contributors | Protobuf compiler plugin generating OmniBuf C# codecs and Opaque header-hop vie… |
+| 2026-11-15 00:03:12 | [OmniBuf](https://www.nuget.org/packages/OmniBuf) | 0.1.0 | OmniBuf Contributors | Self-delimiting, SIMD-friendly binary serialization format for .NET 8. |
+| 2026-11-15 00:08:57 | [Mtsc.Functional.Analyzers](https://www.nuget.org/packages/Mtsc.Functional.Analyzers) | 0.1.0 | Matheus Leal | Roslyn analyzers for Mtsc.Functional: discarded Result/Option values, async lam… |
+| 2026-11-15 00:08:58 | [Mtsc.Functional.AspNetCore](https://www.nuget.org/packages/Mtsc.Functional.AspNetCore) | 0.1.0 | Matheus Leal | Turns Mtsc.Functional Results into ASP.NET Core Minimal API results (IResult /… |
+| 2026-11-15 00:08:59 | [Mtsc.Functional.Testing](https://www.nuget.org/packages/Mtsc.Functional.Testing) | 0.1.0 | Matheus Leal | Test-framework-neutral assertions (ShouldSucceed, ShouldFailWith, ShouldBeSome.… |
 
 ## Data source
 
