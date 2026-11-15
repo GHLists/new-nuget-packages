@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-15T02:22:56.35Z,symbolist,1.0.0,Zachary Aaron Combs,Symbiotic List Library
+2026-11-15T02:24:19.25Z,Laranet.AspNetCore.Validation,0.3.0,TheJavaZ,Optional FluentValidation endpoint filter integration for ASP.NET Core Minimal APIs.
+2026-11-15T02:26:11.877Z,Soenneker.Calcom.Blazor,11.0.1,Jake Soenneker,A Blazor interop library for Cal.com scheduling embeds
+2026-11-15T02:48:11.6Z,SendMock.Testcontainers,1.0.0,MD. Shibbir Ahmed,"Starts SendMock in Docker from a test and gives its SMTP, HTTP and provider addresses."
+2026-11-15T02:56:42.597Z,DotGame.AudioCodecs,1.0.0,Hot Chai Games LLC,"Opus, FLAC and WAV audio codecs for .NET, with no dependencies. Trim and AOT safe."
+2026-11-15T03:01:09.753Z,PinguApps.BlazorContentContracts,1.0.0,PinguApps,"Annotations for Blazor component content contracts, including restricted fragment child types."
+2026-11-15T03:01:11.473Z,PinguApps.BlazorContentContracts.Analyzers,1.0.0,PinguApps,"Build-time analyzers for Blazor content contracts, with original Razor diagnostics for a bounded static restricted-slot slice."

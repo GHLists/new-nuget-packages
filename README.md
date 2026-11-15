@@ -12,26 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 02:20 UTC
+## Latest list — 2026-11-15 03:19 UTC
 
-New packages created between 2026-11-15 01:19 UTC and 2026-11-15 02:20 UTC.
+New packages created between 2026-11-15 02:20 UTC and 2026-11-15 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-15T02-20-53-420653Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-15T03-19-21-025156Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 01:42:02 | [StellarStriderLib](https://www.nuget.org/packages/StellarStriderLib) | 1.5.1 | StriderDev | A MelonLoader content-registration library for StellarDrive, providing parts, i… |
-| 2026-11-15 01:45:01 | [PrintSharp.Preview.AspNetCore](https://www.nuget.org/packages/PrintSharp.Preview.AspNetCore) | 0.3.0 | ogisyouryuu | PrintSharp preview sessions and endpoints. |
-| 2026-11-15 01:45:02 | [PrintSharp.Preview.Blazor](https://www.nuget.org/packages/PrintSharp.Preview.Blazor) | 0.3.0 | ogisyouryuu | PrintSharp Canvas preview component for Blazor. |
-| 2026-11-15 01:57:46 | [Hydris.Build](https://www.nuget.org/packages/Hydris.Build) | 0.9.6 | neuralfog | View build tool for Hydris and elemix SSR. |
-| 2026-11-15 02:09:44 | [Relayer.HealthChecks](https://www.nuget.org/packages/Relayer.HealthChecks) | 0.1.0 | Tom Longhurst | Transport connectivity, consumer liveness and outbox backlog health checks for… |
-| 2026-11-15 02:09:45 | [Relayer.AmazonSqs](https://www.nuget.org/packages/Relayer.AmazonSqs) | 0.1.0 | Tom Longhurst | Amazon SQS and SNS transport for Relayer, wrapping the AWS SDK. |
-| 2026-11-15 02:09:46 | [Relayer.Kafka.HealthChecks](https://www.nuget.org/packages/Relayer.Kafka.HealthChecks) | 0.1.0 | Tom Longhurst | Optional native Kafka connectivity and receiver liveness adapters for Relayer h… |
-| 2026-11-15 02:09:47 | [Relayer.Outbox.EntityFrameworkCore](https://www.nuget.org/packages/Relayer.Outbox.EntityFrameworkCore) | 0.1.0 | Tom Longhurst | Provider-neutral Entity Framework Core transaction coordination for Relayer out… |
-| 2026-11-15 02:09:48 | [Relayer](https://www.nuget.org/packages/Relayer) | 0.1.0 | Tom Longhurst | Modern .NET messaging: wraps native broker clients and adds outbox, resiliency,… |
-| 2026-11-15 02:09:49 | [Relayer.Aspire](https://www.nuget.org/packages/Relayer.Aspire) | 0.1.0 | Tom Longhurst | OpenTelemetry integration for Relayer. |
-| 2026-11-15 02:09:50 | [Relayer.Kafka.SchemaRegistry](https://www.nuget.org/packages/Relayer.Kafka.SchemaRegistry) | 0.1.0 | Tom Longhurst | Explicit, startup-prepared JSON Schema Registry serialization for named Relayer… |
-| 2026-11-15 02:09:51 | [Relayer.GooglePubSub](https://www.nuget.org/packages/Relayer.GooglePubSub) | 0.1.0 | Tom Longhurst | Google Cloud Pub/Sub transport using the native .NET client. |
+| 2026-11-15 02:22:56 | [symbolist](https://www.nuget.org/packages/symbolist) | 1.0.0 | Zachary Aaron Combs | Symbiotic List Library |
+| 2026-11-15 02:24:19 | [Laranet.AspNetCore.Validation](https://www.nuget.org/packages/Laranet.AspNetCore.Validation) | 0.3.0 | TheJavaZ | Optional FluentValidation endpoint filter integration for ASP.NET Core Minimal… |
+| 2026-11-15 02:26:11 | [Soenneker.Calcom.Blazor](https://www.nuget.org/packages/Soenneker.Calcom.Blazor) | 11.0.1 | Jake Soenneker | A Blazor interop library for Cal.com scheduling embeds |
+| 2026-11-15 02:48:11 | [SendMock.Testcontainers](https://www.nuget.org/packages/SendMock.Testcontainers) | 1.0.0 | MD. Shibbir Ahmed | Starts SendMock in Docker from a test and gives its SMTP, HTTP and provider add… |
+| 2026-11-15 02:56:42 | [DotGame.AudioCodecs](https://www.nuget.org/packages/DotGame.AudioCodecs) | 1.0.0 | Hot Chai Games LLC | Opus, FLAC and WAV audio codecs for .NET, with no dependencies. Trim and AOT sa… |
+| 2026-11-15 03:01:09 | [PinguApps.BlazorContentContracts](https://www.nuget.org/packages/PinguApps.BlazorContentContracts) | 1.0.0 | PinguApps | Annotations for Blazor component content contracts, including restricted fragme… |
+| 2026-11-15 03:01:11 | [PinguApps.BlazorContentContracts.Analyzers](https://www.nuget.org/packages/PinguApps.BlazorContentContracts.Analyzers) | 1.0.0 | PinguApps | Build-time analyzers for Blazor content contracts, with original Razor diagnost… |
 
 ## Data source
 
