@@ -12,22 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 03:21 UTC
+## Latest list — 2026-11-16 04:19 UTC
 
-New packages created between 2026-11-16 02:21 UTC and 2026-11-16 03:21 UTC.
+New packages created between 2026-11-16 03:21 UTC and 2026-11-16 04:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T03-21-03-681134Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T04-19-47-386632Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 02:24:15 | [StreamBus](https://www.nuget.org/packages/StreamBus) | 0.5.1 | Nirav Patel | A modern .NET client for RabbitMQ Streams. Publish and consume typed messages,… |
-| 2026-11-16 02:27:00 | [ProofStudio.Plugins.AddProject](https://www.nuget.org/packages/ProofStudio.Plugins.AddProject) | 0.5.4-beta | Cormier Solutions LLC | Embeddable four-step ZIP project upload, source job configuration, variable set… |
-| 2026-11-16 02:30:04 | [Millia2d](https://www.nuget.org/packages/Millia2d) | 0.5.0 | Costin Andrei Patea | A game engine focused on high-performance of large numbers of actors. |
-| 2026-11-16 02:43:59 | [Shashu.Sdk](https://www.nuget.org/packages/Shashu.Sdk) | 1.0.0 | Trustgate AI LLC | .NET client for SHASHU by Trustgate AI, a self-hosted AI security gateway. Poin… |
-| 2026-11-16 02:47:37 | [Tubatools.AiXamlCard](https://www.nuget.org/packages/Tubatools.AiXamlCard) | 1.0.2 | 图吧工具箱 | 给 AI 助手增加原生 XAML 卡片：助手直接写 WinUI 界面并动态编译 C# 代码后置，卡片作为一条消息出现在对话里。 |
-| 2026-11-16 02:47:39 | [Tubatools.AutoStart](https://www.nuget.org/packages/Tubatools.AutoStart) | 1.0.2 | 图吧工具箱 | 在设置页添加「开机自启」开关：登录 Windows 时以管理员权限启动图吧工具箱，不弹 UAC |
-| 2026-11-16 03:06:31 | [Jakar.ErrorOr](https://www.nuget.org/packages/Jakar.ErrorOr) | 10.1.0 | Tyler Stegmaier | RFC 7807-style errors and results: Error, Errors, Alert and ErrorOrResult<T>. |
-| 2026-11-16 03:06:58 | [Jakar.Files](https://www.nuget.org/packages/Jakar.Files) | 10.1.0 | Tyler Stegmaier | Files, directories, file watchers, embedded resources, INI configuration and pr… |
+| 2026-11-16 03:22:47 | [Jakar.Http](https://www.nuget.org/packages/Jakar.Http) | 10.1.0 | Tyler Stegmaier | An HttpClient-based requester (WebRequester) with retries, typed JSON bodies on… |
+| 2026-11-16 03:22:47 | [Jakar.Users](https://www.nuget.org/packages/Jakar.Users) | 10.1.0 | Tyler Stegmaier | User, group, role and address models (Guid- and long-keyed), login requests, cl… |
+| 2026-11-16 03:27:46 | [Jakar.Logging](https://www.nuget.org/packages/Jakar.Logging) | 10.1.0 | Tyler Stegmaier | Serilog and Microsoft.Extensions.Logging support: app logger options, a file lo… |
+| 2026-11-16 03:28:02 | [Webority.Imaging.Avif](https://www.nuget.org/packages/Webority.Imaging.Avif) | 0.14.0 | Webority Technologies | Decodes AVIF images for Webority.Imaging through the dav1d AV1 decoder. |
+| 2026-11-16 03:39:11 | [BusinessFeatures.Recaptchas](https://www.nuget.org/packages/BusinessFeatures.Recaptchas) | 9.0.0 | Linh Nguyen | Google reCAPTCHA token verification for .NET APIs: the IRecaptchaService contra… |
+| 2026-11-16 03:51:08 | [RocketMQ.Client.Remoting](https://www.nuget.org/packages/RocketMQ.Client.Remoting) | 0.0.1 | RocketMQ.Client | Apache RocketMQ client for the classic remoting protocol |
+| 2026-11-16 04:06:29 | [AltStreamLib](https://www.nuget.org/packages/AltStreamLib) | 0.4.34 | Macha Celeste | A C# wrapper for altstream.online API |
+| 2026-11-16 04:10:35 | [Optionary](https://www.nuget.org/packages/Optionary) | 0.1.1 | David Driscoll,Rocket Surgeon… | Source-generated, reflection-free options binding and JSON Schema for .NET conf… |
 
 ## Data source
 
