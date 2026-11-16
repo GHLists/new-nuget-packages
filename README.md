@@ -12,27 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 06:19 UTC
+## Latest list — 2026-11-16 07:20 UTC
 
-New packages created between 2026-11-16 05:20 UTC and 2026-11-16 06:19 UTC.
+New packages created between 2026-11-16 06:19 UTC and 2026-11-16 07:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T06-19-52-861007Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T07-20-43-843334Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 05:21:19 | [DAABLike](https://www.nuget.org/packages/DAABLike) | 1.0.0 | ysmgthntt | A DAAB-style data access library for .NET and .NET Framework, providing a famil… |
-| 2026-11-16 05:24:25 | [IndustrialControls.Avalonia](https://www.nuget.org/packages/IndustrialControls.Avalonia) | 1.0.0 | daipeng0809 | 面向 Avalonia 12 的工业控件库：仪表盘、扇形进度条、竖向进度条、电池电量、指南针、状态灯等，支持高度自定义、AOT 与高帧率数据刷新。 |
-| 2026-11-16 05:27:15 | [Bilyk.QwibeeSport.Generic](https://www.nuget.org/packages/Bilyk.QwibeeSport.Generic) | 1.0.0 | Anastasiia Bilyk | Generic entity and repository classes for QWIBEE SPORT |
-| 2026-11-16 05:28:47 | [Jakar.Logging.Serilog](https://www.nuget.org/packages/Jakar.Logging.Serilog) | 10.1.0 | Tyler Stegmaier | Jakar.Extensions integration for Jakar.Logging: Serilog properties for AppInfor… |
-| 2026-11-16 05:33:23 | [Epsitec.MuGet](https://www.nuget.org/packages/Epsitec.MuGet) | 0.1.3.2647 | Pierre ARNAUD | Develop NuGet packages from their source code inside the solution that consumes… |
-| 2026-11-16 05:33:23 | [Epsitec.Muget](https://www.nuget.org/packages/Epsitec.Muget) | 0.1.3.2647 | Pierre ARNAUD | Develop NuGet packages from their source code inside the solution that consumes… |
-| 2026-11-16 05:37:13 | [LogMark.Shroud.Cli](https://www.nuget.org/packages/LogMark.Shroud.Cli) | 0.4.0 | LogMark | CLI tool for detecting and masking sensitive data in markdown files. |
-| 2026-11-16 05:37:13 | [LogMark.Shroud](https://www.nuget.org/packages/LogMark.Shroud) | 0.4.0 | LogMark | Sensitive data detection and tokenization for text files. Zero dependencies. Au… |
-| 2026-11-16 05:41:21 | [NugetVerify](https://www.nuget.org/packages/NugetVerify) | 1.0.0 | NugetVerify | Package Description |
-| 2026-11-16 05:44:04 | [ProtocolConversion](https://www.nuget.org/packages/ProtocolConversion) | 0.1.1 | ProtocolConversion Contributo… | 协议转换库（元包）：将一种协议的消息翻译转换为另一种协议的消息。安装本包即包含全部功能：SECS/GEM（Secs4Net）、HTTP、Rpc（gRPC）协议… |
-| 2026-11-16 05:44:42 | [WinForms.ExtendedControls](https://www.nuget.org/packages/WinForms.ExtendedControls) | 1.0.0 | DotNet Community | Extended Windows Forms Controls and UI components for modern desktop applicatio… |
-| 2026-11-16 05:44:58 | [WinForms.Components.Extensions](https://www.nuget.org/packages/WinForms.Components.Extensions) | 1.0.0 | DotNet Community | Windows Forms reusable component extensions and reactive controls. |
-| 2026-11-16 05:52:48 | [ProngsFaints.JsxCore](https://www.nuget.org/packages/ProngsFaints.JsxCore) | 1.0.4.1 | David Whitney | A TSX/JSX view engine for ASP.NET Core. Write views as .tsx or .jsx files and r… |
+| 2026-11-16 06:27:14 | [SAEA.Sockets.Pipeline](https://www.nuget.org/packages/SAEA.Sockets.Pipeline) | 26.11.16.1 | yswenli | SAEA.Sockets.Pipeline is a bidirectional channel pipeline with pluggable frame… |
+| 2026-11-16 06:50:16 | [Cratis.Scene.Design](https://www.nuget.org/packages/Cratis.Scene.Design) | 6.0.0 | Cratis | Scene Design: the catalogue that grounds a design, design operations lowered to… |
+| 2026-11-16 06:50:17 | [Cratis.Scene.Screenplay](https://www.nuget.org/packages/Cratis.Scene.Screenplay) | 6.0.0 | Cratis | The two-way bridge between Screenplay and Scene: Screenplay syntax converted in… |
+| 2026-11-16 06:50:17 | [Cratis.Scene.Design.AI](https://www.nuget.org/packages/Cratis.Scene.Design.AI) | 6.0.0 | Cratis | Scene Design with AI: a tool loop over the design catalogue and the Screenplay… |
+| 2026-11-16 07:00:17 | [ProofStudio.DisplayForm](https://www.nuget.org/packages/ProofStudio.DisplayForm) | 0.5.5-beta | Cormier Solutions LLC | Standalone rendered forms for .NET Core and .NET Framework 4.8 hosts, returning… |
+| 2026-11-16 07:03:13 | [ProofStudio.Plugins.Compression](https://www.nuget.org/packages/ProofStudio.Plugins.Compression) | 0.5.5-beta | Cormier Solutions LLC | Bounded GZIP compression for optional per-token Proof Studio remote transport. |
+| 2026-11-16 07:03:16 | [ProofStudio.Plugins.Encryption](https://www.nuget.org/packages/ProofStudio.Plugins.Encryption) | 0.5.5-beta | Cormier Solutions LLC | Authenticated encryption for optional per-token Proof Studio remote transport. |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-16T06:27:14.263Z,SAEA.Sockets.Pipeline,26.11.16.1,yswenli,SAEA.Sockets.Pipeline is a bidirectional channel pipeline with pluggable frame splitting and codecs for SAEA. SAEA.Sockets.Pipeline 是 SAEA 的双向通道链，带可插拔分帧器与两级编解码器
+2026-11-16T06:50:16.74Z,Cratis.Scene.Design,6.0.0,Cratis,"Scene Design: the catalogue that grounds a design, design operations lowered to Scene edits, the screen set, and the design session with its Chronicle event types and reducer."
+2026-11-16T06:50:17.407Z,Cratis.Scene.Screenplay,6.0.0,Cratis,"The two-way bridge between Screenplay and Scene: Screenplay syntax converted into Scene's model (screens, templates, layouts, profiles, design system, free screens) and a Scene document printed back as Screenplay."
+2026-11-16T06:50:17.97Z,Cratis.Scene.Design.AI,6.0.0,Cratis,"Scene Design with AI: a tool loop over the design catalogue and the Screenplay compiler that designs screens, variations and tweaks, turns images into screens, and establishes a design system from the sources a host supplies."
+2026-11-16T07:00:17.043Z,ProofStudio.DisplayForm,0.5.5-beta,Cormier Solutions LLC,"Standalone rendered forms for .NET Core and .NET Framework 4.8 hosts, returning validated JSON or an installed output adapter's format."
+2026-11-16T07:03:13.67Z,ProofStudio.Plugins.Compression,0.5.5-beta,Cormier Solutions LLC,Bounded GZIP compression for optional per-token Proof Studio remote transport.
+2026-11-16T07:03:16.133Z,ProofStudio.Plugins.Encryption,0.5.5-beta,Cormier Solutions LLC,Authenticated encryption for optional per-token Proof Studio remote transport.
