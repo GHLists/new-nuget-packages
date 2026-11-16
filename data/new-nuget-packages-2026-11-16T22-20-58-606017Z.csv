@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-16T21:25:02.41Z,Meziantou.Framework.FileConversion.Tool,1.0.0,meziantou,"CLI to convert files from one format to another: images, PDF, EPUB, Markdown, HTML, comic book archives (CBZ, CBR, CB7, CBT) and archives (zip, 7z, RAR, tar)"
+2026-11-16T21:26:52.057Z,LilyDesignSystem.Blazor.ColorPicker,0.1.0,Joel Parker Henderson,"Lily Design System Blazor colour picker: recent colours, a palette of swatches with Transparent, and colour entry by hex, CSS name, HSL, HSB, RGB or CMYK. Headless, no CSS."
+2026-11-16T21:30:44.537Z,CacheAside,1.0.0,Emmanuel Ajibodu,"Attribute-driven cache-aside for .NET. Put [Cacheable] and [CacheEvict] on interface methods and plug in the cache you already use (IMemoryCache, IDistributedCache, Redis, HybridCache) with a few delegates."
+2026-11-16T21:34:16.463Z,Scotec.WindowPlacement,1.0.0,scotec Software Solutions AB,Package Description
+2026-11-16T21:34:16.74Z,Scotec.WindowPlacement.Avalonia,1.0.0,scotec Software Solutions AB,Package Description
+2026-11-16T21:34:16.983Z,Scotec.WindowPlacement.Wpf,1.0.0,scotec Software Solutions AB,Package Description
+2026-11-16T21:52:23.103Z,Akka.Reminders,1.5.75,Akka.NET Team,"Durable, re-entrant reminders system for Akka.Cluster.Sharding."
+2026-11-16T21:52:24.11Z,Akka.Reminders.PostgreSql,1.5.75,Akka.NET Team,PostgreSQL storage implementation for Akka.Reminders.
+2026-11-16T21:52:25.007Z,Akka.Reminders.Sql,1.5.75,Akka.NET Team,"Compatibility package for SQL Server, PostgreSQL, and SQLite storage in Akka.Reminders."
+2026-11-16T21:52:25.88Z,Akka.Reminders.Sqlite,1.5.75,Akka.NET Team,SQLite storage implementation for Akka.Reminders.
+2026-11-16T21:52:26.743Z,Akka.Reminders.SqlServer,1.5.75,Akka.NET Team,SQL Server storage implementation for Akka.Reminders.
+2026-11-16T22:04:37.36Z,D3sk.AgentCli,0.5.0,neijix,"Runs the AI coding CLIs (Claude Code, Cursor, Gemini, Copilot, Grok, OpenCode) and folds their output streams into typed events. .NET port of AgentCliBridge."
