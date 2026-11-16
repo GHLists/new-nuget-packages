@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-16T15:26:34.333Z,uSync.Engage.Complete,17.0.0-beta02,Kevin Jump,"uSync.Complete push and pull for Umbraco Engage settings - personas, customer journeys, goals, segments and more"
+2026-11-16T15:38:07.863Z,MyNuget_smu,1.0.0,Sathyan,Simple calculator with Add method
+2026-11-16T15:42:14.483Z,Cangming.Data.Contracts,0.1.7.1116,"Fangyu,lukan@xknife.net,Asong65",Cangming 客户端通用基座框架库（插件化宿主）。
+2026-11-16T15:42:17.64Z,Cangming.Data.Sqlite,0.1.7.1116,"Fangyu,lukan@xknife.net,Asong65",Cangming 客户端通用基座框架库（插件化宿主）。
+2026-11-16T15:42:33.39Z,Cangming.Logs.UI,0.1.7.1116,"Fangyu,lukan@xknife.net,Asong65",仅组织内部使用。把日志条目投递到 UI 线程集合的辅助层，不依赖具体日志框架。
+2026-11-16T15:46:29.15Z,Bitwarden.Server.Sdk.PasswordHashing,0.1.0,Bitwarden Inc.,"Server-side hashing of client-derived password hashes, compatible with hashes stored by the Bitwarden server."
+2026-11-16T15:48:09.113Z,Moberg.EntityFrameworkCore.DesignerlessMigrations,10.0.0,Moberg,Single-file EF Core migrations: dotnet ef migrations add writes one file with [DbContext] and [Migration] on the class and no .Designer.cs. Includes a safe migrations remove (model snapshot restored from git) and convention checks for tests. Design-time only: never published with your app.
+2026-11-16T15:48:10.057Z,Moberg.EntityFrameworkCore.DesignerlessMigrations.Npgsql,10.0.0,Moberg,"Runtime support for designerless EF Core migrations on PostgreSQL. Without a Designer target model EF ignores oldType, so a nullability-only AlterColumn would also emit ALTER COLUMN ... TYPE (an ACCESS EXCLUSIVE lock). Call options.UseDesignerlessMigrations() after UseNpgsql()."
+2026-11-16T15:58:22.42Z,KaizenIO.Seo,0.1.0,"Kaizenio, Inc.","Kaizen.Seo: head component (title, description, canonical, Open Graph, Twitter) and JSON-LD helpers."
+2026-11-16T15:58:23.24Z,KaizenIO.StaticSite,0.1.0,"Kaizenio, Inc.","Kaizen.StaticSite: exports a Blazor SSR app to flat files (route/index.html, assets, sitemap, robots)."
+2026-11-16T15:58:23.937Z,KaizenIO.BlogEngine,0.1.0,"Kaizenio, Inc.",Kaizen.BlogEngine: Markdig + YamlDotNet post service (YAML front matter) for Blazor SSR.
