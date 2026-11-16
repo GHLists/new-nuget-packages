@@ -12,21 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 00:19 UTC
+## Latest list — 2026-11-16 01:21 UTC
 
-New packages created between 2026-11-15 23:20 UTC and 2026-11-16 00:19 UTC.
+New packages created between 2026-11-16 00:19 UTC and 2026-11-16 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T00-19-39-590134Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T01-21-35-223386Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-15 23:31:11 | [PaymentSystem.Generic](https://www.nuget.org/packages/PaymentSystem.Generic) | 1.0.0 | PaymentSystem.Generic | Package Description |
-| 2026-11-15 23:45:33 | [ShadowDusk.SkSL](https://www.nuget.org/packages/ShadowDusk.SkSL) | 0.26.0 | ShadowDusk Contributors | ShadowDusk SkSL front-end: a pure-managed, zero-native converter that translate… |
-| 2026-11-15 23:58:06 | [GCR.Capabilities.Audit](https://www.nuget.org/packages/GCR.Capabilities.Audit) | 0.2.0 | GCR | 审计能力层：审计仓储与 AuditService，跨应用统一轨迹格式。不依赖宿主，可被独立引用。 |
-| 2026-11-15 23:58:08 | [GCR.Capabilities.Identity](https://www.nuget.org/packages/GCR.Capabilities.Identity) | 0.2.0 | GCR | 身份能力层：账号、角色、权限仓储与服务，认证方案，Blazor 认证状态提供者。不依赖宿主，可被独立引用。 |
-| 2026-11-15 23:58:10 | [GCR.Capabilities.Security](https://www.nuget.org/packages/GCR.Capabilities.Security) | 0.2.0 | GCR | 安全能力层：API 暴露面策略、限流、集成凭据与 OAuth 2.1 / OIDC 授权服务器。不依赖宿主，可被独立引用。 |
-| 2026-11-16 00:03:35 | [StemMqtt](https://www.nuget.org/packages/StemMqtt) | 0.9.0 | Sorin Irimies | MQTT 3.1.1 / 5.0 client and broker (Rust core, UniFFI C# bindings) |
-| 2026-11-16 00:09:59 | [SynthEHR.Core](https://www.nuget.org/packages/SynthEHR.Core) | 3.0.0 | Health Informatics Centre - U… | Library and CLI for randomly generating medical data like you might get out of… |
+| 2026-11-16 00:29:26 | [AdaskoTheBeAsT.Gu.Analyzers](https://www.nuget.org/packages/AdaskoTheBeAsT.Gu.Analyzers) | 2.0.3.300 | Johan Larsson, milleniumbug | Roslyn analyzers and fixes. |
+| 2026-11-16 00:35:18 | [StudioXid.OmniAdapter](https://www.nuget.org/packages/StudioXid.OmniAdapter) | 0.1.0 | Studio XID, Inc. | Omni Adapter for .NET — join a Connect Omni stage from services, desktop apps a… |
+| 2026-11-16 00:40:22 | [Refit.HttpClientFactory.Reflection](https://www.nuget.org/packages/Refit.HttpClientFactory.Reflection) | 17.0.0 | ReactiveUI and Contributors | The opt-in reflection registration methods for Refit and HttpClientFactory. Ins… |
+| 2026-11-16 00:41:05 | [Joinery.Dovetail.ModularPipelines](https://www.nuget.org/packages/Joinery.Dovetail.ModularPipelines) | 0.6.0 | David Driscoll,Rocket Surgeon… | Applies Dovetail joints to a ModularPipelines PipelineBuilder: the configuratio… |
+| 2026-11-16 00:41:07 | [Joinery.Dovetail.Sdk.Worker](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.Worker) | 0.6.0 | David Driscoll,Rocket Surgeon… | Microsoft.NET.Sdk.Worker with Dovetail: a drop-in replacement for the Microsoft… |
+| 2026-11-16 00:41:07 | [Joinery.Dovetail.Sdk.WebAssembly](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.WebAssembly) | 0.6.0 | David Driscoll,Rocket Surgeon… | Microsoft.NET.Sdk.WebAssembly with Dovetail: a drop-in replacement for the Micr… |
+| 2026-11-16 00:41:08 | [Joinery.Dovetail.Sdk.BlazorWebAssembly](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.BlazorWebAssembly) | 0.6.0 | David Driscoll,Rocket Surgeon… | Microsoft.NET.Sdk.BlazorWebAssembly with Dovetail: a drop-in replacement for th… |
+| 2026-11-16 00:41:10 | [Joinery.Dovetail.Sdk.Web](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.Web) | 0.6.0 | David Driscoll,Rocket Surgeon… | Microsoft.NET.Sdk.Web with Dovetail: a drop-in replacement for the Microsoft SD… |
+| 2026-11-16 00:41:11 | [Joinery.Dovetail.Sdk.Razor](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.Razor) | 0.6.0 | David Driscoll,Rocket Surgeon… | Microsoft.NET.Sdk.Razor with Dovetail: a drop-in replacement for the Microsoft… |
+| 2026-11-16 00:41:14 | [Joinery.Dovetail.Sdk.WindowsDesktop](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.WindowsDesktop) | 0.6.0 | David Driscoll,Rocket Surgeon… | Microsoft.NET.Sdk.WindowsDesktop with Dovetail: a drop-in replacement for the M… |
+| 2026-11-16 00:41:16 | [Joinery.Dovetail.Sdk.Aspire.AppHost](https://www.nuget.org/packages/Joinery.Dovetail.Sdk.Aspire.AppHost) | 0.6.0 | David Driscoll,Rocket Surgeon… | Aspire.AppHost.Sdk with Dovetail: a drop-in replacement for the Microsoft SDK t… |
+| 2026-11-16 00:55:20 | [GrayMint.Identity](https://www.nuget.org/packages/GrayMint.Identity) | 1.0.2 | GrayMint | An OpenID Connect identity service with pools, tenants and apps: accounts by AS… |
+| 2026-11-16 01:07:02 | [Winche.Core](https://www.nuget.org/packages/Winche.Core) | 1.0.0 | Ehsan Rashidi | What every Winche package shares: the error every Winche API answers with (Winc… |
+| 2026-11-16 01:07:03 | [Winche.Core.AspNetCore](https://www.nuget.org/packages/Winche.Core.AspNetCore) | 1.0.0 | Ehsan Rashidi | Winche.Core for ASP.NET Core: who is calling (the request's claims, set once fo… |
+| 2026-11-16 01:14:59 | [Eternet.Data.PostgreSql](https://www.nuget.org/packages/Eternet.Data.PostgreSql) | 1.0.0 | Eternet.Data.PostgreSql | Lets EF Core contexts and raw connections wait out a short PostgreSQL or PgBoun… |
 
 ## Data source
 
