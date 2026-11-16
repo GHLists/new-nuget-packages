@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 02:21 UTC
+## Latest list — 2026-11-16 03:21 UTC
 
-New packages created between 2026-11-16 01:21 UTC and 2026-11-16 02:21 UTC.
+New packages created between 2026-11-16 02:21 UTC and 2026-11-16 03:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T02-21-43-115466Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T03-21-03-681134Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 01:46:36 | [MinimalLambda.EventProcessing](https://www.nuget.org/packages/MinimalLambda.EventProcessing) | 2.8.0 | LayeredCraft | Optional scoped event processing for MinimalLambda |
-| 2026-11-16 02:00:43 | [Tooark.Http](https://www.nuget.org/packages/Tooark.Http) | 4.9.0 | Paulo Sergio de Freitas Junior | Library for outbound HTTP in .NET projects: a thin JSON service over IHttpClien… |
-| 2026-11-16 02:00:46 | [Tooark.Entities.EntityFrameworkCore](https://www.nuget.org/packages/Tooark.Entities.EntityFrameworkCore) | 4.9.0 | Paulo Sergio de Freitas Junior | Library that plugs the Tooark entities into Entity Framework Core: an intercept… |
-| 2026-11-16 02:01:31 | [50ea9d18-4c32-47dc-9877-00c0efc34f89](https://www.nuget.org/packages/50ea9d18-4c32-47dc-9877-00c0efc34f89) | 1.0.0 | D3kky | Package Description |
+| 2026-11-16 02:24:15 | [StreamBus](https://www.nuget.org/packages/StreamBus) | 0.5.1 | Nirav Patel | A modern .NET client for RabbitMQ Streams. Publish and consume typed messages,… |
+| 2026-11-16 02:27:00 | [ProofStudio.Plugins.AddProject](https://www.nuget.org/packages/ProofStudio.Plugins.AddProject) | 0.5.4-beta | Cormier Solutions LLC | Embeddable four-step ZIP project upload, source job configuration, variable set… |
+| 2026-11-16 02:30:04 | [Millia2d](https://www.nuget.org/packages/Millia2d) | 0.5.0 | Costin Andrei Patea | A game engine focused on high-performance of large numbers of actors. |
+| 2026-11-16 02:43:59 | [Shashu.Sdk](https://www.nuget.org/packages/Shashu.Sdk) | 1.0.0 | Trustgate AI LLC | .NET client for SHASHU by Trustgate AI, a self-hosted AI security gateway. Poin… |
+| 2026-11-16 02:47:37 | [Tubatools.AiXamlCard](https://www.nuget.org/packages/Tubatools.AiXamlCard) | 1.0.2 | 图吧工具箱 | 给 AI 助手增加原生 XAML 卡片：助手直接写 WinUI 界面并动态编译 C# 代码后置，卡片作为一条消息出现在对话里。 |
+| 2026-11-16 02:47:39 | [Tubatools.AutoStart](https://www.nuget.org/packages/Tubatools.AutoStart) | 1.0.2 | 图吧工具箱 | 在设置页添加「开机自启」开关：登录 Windows 时以管理员权限启动图吧工具箱，不弹 UAC |
+| 2026-11-16 03:06:31 | [Jakar.ErrorOr](https://www.nuget.org/packages/Jakar.ErrorOr) | 10.1.0 | Tyler Stegmaier | RFC 7807-style errors and results: Error, Errors, Alert and ErrorOrResult<T>. |
+| 2026-11-16 03:06:58 | [Jakar.Files](https://www.nuget.org/packages/Jakar.Files) | 10.1.0 | Tyler Stegmaier | Files, directories, file watchers, embedded resources, INI configuration and pr… |
 
 ## Data source
 
