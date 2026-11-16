@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-16T17:24:52.267Z,Swealium,0.1.0,HumoyunMirzo,"A .NET 10 retained-mode desktop GUI framework with SDL3 windowing, GPU/raster drawing, layout, shaped text, input, animation, and widget effects."
+2026-11-16T17:43:12.033Z,TrakHound.Debug,1.0.0.6-prerelease,TrakHound,"Contains classes for running TrakHound packages locally, without an Instance"
+2026-11-16T17:43:12.083Z,TrakHound.AspNetCore,1.0.0.6-prerelease,TrakHound,Contains the ASP.NET Core classes shared by the TrakHound Instance and the debug hosts (ex. the WebSocket and Server-Sent Events Stream handling)
+2026-11-16T17:43:12.14Z,TrakHound.Hosting,1.0.0.6-prerelease,TrakHound,Contains classes for hosting TrakHound modules outside of an Instance (ex. creating modules the same way the Instance does)
+2026-11-16T17:43:12.383Z,TrakHound.Hosting.AspNetCore,1.0.0.6-prerelease,TrakHound,Contains classes for hosting TrakHound Apis in ASP.NET Core outside of an Instance (ex. mapping the Endpoints and Streams of the Controllers)
+2026-11-16T17:43:12.41Z,TrakHound.Testing,1.0.0.6-prerelease,TrakHound,Contains classes for unit testing TrakHound packages without an Instance (an in-memory Client and the Instance's module creation)
+2026-11-16T17:45:00.107Z,Soenneker.Blazor.Notifications.Audio,11.0.3,Jake Soenneker,Audio notifications for Blazor applications.
+2026-11-16T17:46:53.847Z,IpsoFacto.Identity,1.0.0,Luciano Circelli,Public identity proof and metadata package.
+2026-11-16T17:55:32.083Z,cCoder.Eventing.Sql,2026.11.16.1754,cCoder,SQL-backed cCoder event transport
+2026-11-16T17:57:22.39Z,NymBroker.Dashboard,0.25.1,nymankla@gmail.com,"Live web dashboard for NymBroker: endpoints, queue contents, health, throughput, latency and failures, served from your ASP.NET Core app with no extra infrastructure."
+2026-11-16T18:06:54.023Z,Testcontainers.Vault,4.17.0,Andre Hofmeister and contributors,Testcontainers for .NET is a library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+2026-11-16T18:07:23.253Z,Testcontainers.Chroma,4.17.0,Andre Hofmeister and contributors,Testcontainers for .NET is a library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+2026-11-16T18:07:27.39Z,Testcontainers.MongoDbAtlasLocal,4.17.0,Andre Hofmeister and contributors,Testcontainers for .NET is a library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
