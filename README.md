@@ -12,37 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 19:19 UTC
+## Latest list — 2026-11-16 20:18 UTC
 
-New packages created between 2026-11-16 18:19 UTC and 2026-11-16 19:19 UTC.
+New packages created between 2026-11-16 19:19 UTC and 2026-11-16 20:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T19-19-56-353249Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T20-18-43-587465Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 18:31:45 | [funktionalsystems.sharpcompress-cli](https://www.nuget.org/packages/funktionalsystems.sharpcompress-cli) | 1.0.0 | sharpcompress.cli | Package Description |
-| 2026-11-16 18:43:43 | [Phantom.CosmosDB](https://www.nuget.org/packages/Phantom.CosmosDB) | 2.0.0 | Diego Silva | Azure Cosmos DB in-memory emulator and developer dashboard (/phantom) for .NET… |
-| 2026-11-16 18:54:22 | [ArchFlow.Results](https://www.nuget.org/packages/ArchFlow.Results) | 1.0.0 | Welligton Silva | Lightweight Result Pattern library for .NET applications. |
-| 2026-11-16 19:04:15 | [YotsubaShader.ShadowDusk.Core](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.Core) | 0.8.1 | ShadowDusk Contributors | ShadowDusk core types (IShaderCompiler, Result, ShaderError, CompilerOptions, I… |
-| 2026-11-16 19:04:18 | [YotsubaShader.ShadowDusk.HLSL](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.HLSL) | 0.8.1 | ShadowDusk Contributors | ShadowDusk HLSL front-end: FX9 pre-parse, DXC integration, and the vkd3d-shader… |
-| 2026-11-16 19:04:19 | [YotsubaShader.ShadowDusk.GLSL](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.GLSL) | 0.8.1 | ShadowDusk Contributors | ShadowDusk GLSL back-end: SPIR-V to GLSL transpilation via SPIRV-Cross and the… |
-| 2026-11-16 19:04:21 | [YotsubaShader.ShadowDusk.Compiler](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.Compiler) | 0.8.1 | ShadowDusk Contributors | Cross-platform, self-contained HLSL Effect compiler for MonoGame, KNI, and FNA.… |
-| 2026-11-16 19:04:25 | [YotsubaShader.Compiler.CLI](https://www.nuget.org/packages/YotsubaShader.Compiler.CLI) | 0.8.1 | YotsubaShader contributors | YotsubaShader command-line compiler for C# shader projects. |
-| 2026-11-16 19:04:26 | [YotsubaShader.Compiler.Library](https://www.nuget.org/packages/YotsubaShader.Compiler.Library) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Compiler.Library library. |
-| 2026-11-16 19:04:27 | [YotsubaShader.Compiler.SpirV](https://www.nuget.org/packages/YotsubaShader.Compiler.SpirV) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Compiler.SpirV library. |
-| 2026-11-16 19:04:28 | [YotsubaShader.Concepts](https://www.nuget.org/packages/YotsubaShader.Concepts) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Concepts library. |
-| 2026-11-16 19:04:29 | [YotsubaShader.GlslSyntax](https://www.nuget.org/packages/YotsubaShader.GlslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.GlslSyntax library. |
-| 2026-11-16 19:04:32 | [YotsubaShader.HlslSyntax](https://www.nuget.org/packages/YotsubaShader.HlslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.HlslSyntax library. |
-| 2026-11-16 19:04:33 | [YotsubaShader.IDE.Analyzer](https://www.nuget.org/packages/YotsubaShader.IDE.Analyzer) | 0.8.1 | YotsubaShader contributors | Roslyn diagnostics for YotsubaShader shader projects. |
-| 2026-11-16 19:04:34 | [YotsubaShader.IR](https://www.nuget.org/packages/YotsubaShader.IR) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.IR library. |
-| 2026-11-16 19:04:35 | [YotsubaShader.Language](https://www.nuget.org/packages/YotsubaShader.Language) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Language library. |
-| 2026-11-16 19:04:36 | [YotsubaShader.MslSyntax](https://www.nuget.org/packages/YotsubaShader.MslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.MslSyntax library. |
-| 2026-11-16 19:04:37 | [YotsubaShader.Roslyn](https://www.nuget.org/packages/YotsubaShader.Roslyn) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Roslyn library. |
-| 2026-11-16 19:04:38 | [YotsubaShader.SpirvSyntax](https://www.nuget.org/packages/YotsubaShader.SpirvSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.SpirvSyntax library. |
-| 2026-11-16 19:04:39 | [YotsubaShader.WgslSyntax](https://www.nuget.org/packages/YotsubaShader.WgslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.WgslSyntax library. |
-| 2026-11-16 19:04:40 | [YotsubaShaderCross](https://www.nuget.org/packages/YotsubaShaderCross) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShaderCross library. |
-| 2026-11-16 19:04:41 | [YotsubaShaderCross.Runtime](https://www.nuget.org/packages/YotsubaShaderCross.Runtime) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShaderCross.Runtime library. |
-| 2026-11-16 19:09:35 | [Lusamine.SlimExpressionParser](https://www.nuget.org/packages/Lusamine.SlimExpressionParser) | 1.0.0 | Slimane F | A tiny, dependency-free evaluator for short expressions such as "cos(123) + sin… |
+| 2026-11-16 19:23:00 | [Fetchling](https://www.nuget.org/packages/Fetchling) | 3.0.0 | Patrick Sachmann | Fetchling — TanStack Query-inspired async data fetching and caching for .NET. M… |
+| 2026-11-16 19:23:00 | [Fetchling.Blazor](https://www.nuget.org/packages/Fetchling.Blazor) | 3.0.0 | Patrick Sachmann | Blazor components (Suspense, Transition, QueryRefreshMonitor) for Fetchling |
+| 2026-11-16 19:23:00 | [Fetchling.Blazor.DevTools](https://www.nuget.org/packages/Fetchling.Blazor.DevTools) | 3.0.0 | Patrick Sachmann | DevTools Blazor component for inspecting the Fetchling cache at runtime |
+| 2026-11-16 19:23:01 | [Fetchling.Core](https://www.nuget.org/packages/Fetchling.Core) | 3.0.0 | Patrick Sachmann | TanStack Query-inspired async data fetching and state management for .NET |
+| 2026-11-16 19:23:02 | [Fetchling.Mvvm](https://www.nuget.org/packages/Fetchling.Mvvm) | 3.0.0 | Patrick Sachmann | MVVM view models (INotifyPropertyChanged bindings) for Fetchling — MAUI, WPF, W… |
+| 2026-11-16 19:23:02 | [Fetchling.Extensions.DependencyInjection](https://www.nuget.org/packages/Fetchling.Extensions.DependencyInjection) | 3.0.0 | Patrick Sachmann | Dependency injection extensions for Fetchling |
+| 2026-11-16 19:24:11 | [MessageValidation.OnnxRuntime](https://www.nuget.org/packages/MessageValidation.OnnxRuntime) | 2.2.0 | Romain-OD | ONNX Runtime adapter for the MessageValidation pipeline — run an on-device ONNX… |
+| 2026-11-16 19:24:12 | [MessageValidation.SparkplugB](https://www.nuget.org/packages/MessageValidation.SparkplugB) | 2.2.0 | Romain-OD | Eclipse Sparkplug B validator for the MessageValidation pipeline — parses spBv1… |
+| 2026-11-16 19:24:18 | [Canducci.DataMasker](https://www.nuget.org/packages/Canducci.DataMasker) | 0.0.5 | Canducci.DataMasker | Package Description |
+| 2026-11-16 19:27:06 | [AzureRetriever](https://www.nuget.org/packages/AzureRetriever) | 1.0.0 | Outled | Gets a list of all Git repositories in an Azure DevOps organization. |
+| 2026-11-16 19:35:01 | [FastKMeans](https://www.nuget.org/packages/FastKMeans) | 1.0.0 | Nikolai Voronin | Fast K-Means++ clustering for N-dimensional numerical data, with SIMD, parallel… |
+| 2026-11-16 19:55:01 | [CardProbability.Engine](https://www.nuget.org/packages/CardProbability.Engine) | 1.0.0 | SeyTi01 | A synchronous, domain-neutral probability engine for finite decks, overlapping… |
+| 2026-11-16 19:57:07 | [Flap](https://www.nuget.org/packages/Flap) | 0.0.1-beta1 | Devon Burriss | A clap-inspired, pipe-friendly command line parser for F#. Native AOT and Fable… |
 
 ## Data source
 

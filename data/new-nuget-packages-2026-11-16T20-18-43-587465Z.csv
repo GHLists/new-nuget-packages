@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-16T19:23:00.167Z,Fetchling,3.0.0,Patrick Sachmann,Fetchling — TanStack Query-inspired async data fetching and caching for .NET. Metapackage referencing Fetchling.Core and Fetchling.Extensions.DependencyInjection.
+2026-11-16T19:23:00.48Z,Fetchling.Blazor,3.0.0,Patrick Sachmann,"Blazor components (Suspense, Transition, QueryRefreshMonitor) for Fetchling"
+2026-11-16T19:23:00.903Z,Fetchling.Blazor.DevTools,3.0.0,Patrick Sachmann,DevTools Blazor component for inspecting the Fetchling cache at runtime
+2026-11-16T19:23:01.463Z,Fetchling.Core,3.0.0,Patrick Sachmann,TanStack Query-inspired async data fetching and state management for .NET
+2026-11-16T19:23:02.427Z,Fetchling.Mvvm,3.0.0,Patrick Sachmann,"MVVM view models (INotifyPropertyChanged bindings) for Fetchling — MAUI, WPF, WinUI, UNO Platform, and Avalonia"
+2026-11-16T19:23:02Z,Fetchling.Extensions.DependencyInjection,3.0.0,Patrick Sachmann,Dependency injection extensions for Fetchling
+2026-11-16T19:24:11.02Z,MessageValidation.OnnxRuntime,2.2.0,Romain-OD,"ONNX Runtime adapter for the MessageValidation pipeline — run an on-device ONNX anomaly model as an IMessageValidator<T> so every message is scored locally (edge AI, no cloud round-trip) and rejected when its score exceeds a threshold."
+2026-11-16T19:24:12.233Z,MessageValidation.SparkplugB,2.2.0,Romain-OD,"Eclipse Sparkplug B validator for the MessageValidation pipeline — parses spBv1.0 topics and Protocol Buffers payloads, enforces required fields per message type (NBIRTH, NDATA, NDEATH, DBIRTH…), checks metric values against declared DataTypes, and tracks seq (0-255 rollover) and bdSeq per edge nod…"
+2026-11-16T19:24:18.063Z,Canducci.DataMasker,0.0.5,Canducci.DataMasker,Package Description
+2026-11-16T19:27:06.643Z,AzureRetriever,1.0.0,Outled,Gets a list of all Git repositories in an Azure DevOps organization.
+2026-11-16T19:35:01.177Z,FastKMeans,1.0.0,Nikolai Voronin,"Fast K-Means++ clustering for N-dimensional numerical data, with SIMD, parallel processing and Hamerly acceleration."
+2026-11-16T19:55:01.753Z,CardProbability.Engine,1.0.0,SeyTi01,"A synchronous, domain-neutral probability engine for finite decks, overlapping goals, distinct physical copies, and fixed-order draw, search and excavation effects."
+2026-11-16T19:57:07.377Z,Flap,0.0.1-beta1,Devon Burriss,"A clap-inspired, pipe-friendly command line parser for F#. Native AOT and Fable compatible."
