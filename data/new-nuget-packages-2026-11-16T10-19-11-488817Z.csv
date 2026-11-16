@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-16T09:21:21.09Z,BccCode.Privacy.Hosting,0.5.1,BCC,"One AddPrivacy() for BCC Privacy: the EF Core, ASP.NET Core and Wolverine packages wired together, defaults per environment, the privacy document at /.well-known/bcc-privacy, and the application's processes and data items pushed to the Privacy API at deploy."
+2026-11-16T09:38:51.98Z,BehpardakhtPosPc.Sdk,0.0.1,Alirezar,"Behpardakht POS-PC client for .NET. Speaks protocol revision 4.7 over TCP and serial, and the POS_PC.dll 1.4.47 frame."
+2026-11-16T09:56:16.13Z,ArdinLogger.netcore,1.0.42128,ARDINSYS,ArdinSys logger .NET Core component
+2026-11-16T09:59:43.643Z,io7.FreePDF.Accessibility.Tool,7.11.0,io7,Offline PDF/UA-1 accessibility preflight with explicit partial coverage and human review tasks.
+2026-11-16T10:02:21.19Z,Rustegon.Driver,0.1.0,Davide Pegoraro,Official .NET driver for the Rustegon distributed ACID document database.
+2026-11-16T10:06:26.203Z,TestResults.Engine,6.0.0.15,progile AG,Engine test framework for developing testcases with TestResults
+2026-11-16T10:07:17.87Z,Ranvier.BAREWire.Query.Traced,0.1.0,shayanhabibi,"Ranvier.Query families and mutations whose remote calls are BAREWire asks, and BAREWire events delivered on the graph's thread."
+2026-11-16T10:07:18.827Z,Ranvier.BAREWire.Traced,0.1.0,shayanhabibi,"BAREWire for Ranvier: BAREWire's encoder, decoder, schema and envelope framing on .NET (including netstandard2.1) and Fable, with typed BARE codecs that carry their schema, and asks, replies and events over BAREWire frames."
+2026-11-16T10:07:19.567Z,Ranvier.BAREWire,0.1.0,shayanhabibi,"BAREWire for Ranvier: BAREWire's encoder, decoder, schema and envelope framing on .NET (including netstandard2.1) and Fable, with typed BARE codecs that carry their schema, and asks, replies and events over BAREWire frames."
+2026-11-16T10:07:20.11Z,Ranvier.BAREWire.Query,0.1.0,shayanhabibi,"Ranvier.Query families and mutations whose remote calls are BAREWire asks, and BAREWire events delivered on the graph's thread."

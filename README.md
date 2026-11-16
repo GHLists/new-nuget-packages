@@ -12,41 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 09:18 UTC
+## Latest list — 2026-11-16 10:19 UTC
 
-New packages created between 2026-11-16 08:21 UTC and 2026-11-16 09:18 UTC.
+New packages created between 2026-11-16 09:18 UTC and 2026-11-16 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T09-18-40-005138Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T10-19-11-488817Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 08:24:20 | [Winche.Functions](https://www.nuget.org/packages/Winche.Functions) | 1.0.0 | Ehsan Rashidi | JavaScript and TypeScript functions for the Winche stack, run by Deno in sandbo… |
-| 2026-11-16 08:24:21 | [Winche.Functions.Auth](https://www.nuget.org/packages/Winche.Functions.Auth) | 1.0.0 | Ehsan Rashidi | JavaScript and TypeScript functions for the Winche stack, run by Deno in sandbo… |
-| 2026-11-16 08:24:22 | [Winche.Functions.Database](https://www.nuget.org/packages/Winche.Functions.Database) | 1.0.0 | Ehsan Rashidi | JavaScript and TypeScript functions for the Winche stack, run by Deno in sandbo… |
-| 2026-11-16 08:24:22 | [Winche.Functions.Storage](https://www.nuget.org/packages/Winche.Functions.Storage) | 1.0.0 | Ehsan Rashidi | JavaScript and TypeScript functions for the Winche stack, run by Deno in sandbo… |
-| 2026-11-16 08:32:42 | [TravelRepo.Serialization](https://www.nuget.org/packages/TravelRepo.Serialization) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:43 | [TravelRepo.Mcp](https://www.nuget.org/packages/TravelRepo.Mcp) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:44 | [TravelRepo.Providers.GitHub](https://www.nuget.org/packages/TravelRepo.Providers.GitHub) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:44 | [TravelRepo.Providers.Weather](https://www.nuget.org/packages/TravelRepo.Providers.Weather) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:45 | [TravelRepo.Cli](https://www.nuget.org/packages/TravelRepo.Cli) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:46 | [TravelRepo.Git](https://www.nuget.org/packages/TravelRepo.Git) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:46 | [TravelRepo.Plugins.Abstractions](https://www.nuget.org/packages/TravelRepo.Plugins.Abstractions) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:47 | [TravelRepo.Core](https://www.nuget.org/packages/TravelRepo.Core) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:47 | [TravelRepo.Providers.Abstractions](https://www.nuget.org/packages/TravelRepo.Providers.Abstractions) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:48 | [TravelRepo.Merge](https://www.nuget.org/packages/TravelRepo.Merge) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:49 | [TravelRepo.Git.LibGit2](https://www.nuget.org/packages/TravelRepo.Git.LibGit2) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:49 | [TravelRepo.Repository](https://www.nuget.org/packages/TravelRepo.Repository) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:32:50 | [TravelRepo.Documents](https://www.nuget.org/packages/TravelRepo.Documents) | 0.13.0 | TravelRepo contributors | Open TravelRepo format, domain and repository APIs. |
-| 2026-11-16 08:39:26 | [ProteomIQon.PeptideSpectrumMatchingTIMs](https://www.nuget.org/packages/ProteomIQon.PeptideSpectrumMatchingTIMs) | 0.1.0 | David Zimmer, Caroline Ott, H… | ProteomIQon.PeptideSpectrumMatchingTIMs - computational proteomics |
-| 2026-11-16 08:41:02 | [Dividigital](https://www.nuget.org/packages/Dividigital) | 1.0.0 | Divi Digital — Dubai Growth A… | Divi Digital search engine marketing Dubai constants. Official: https://dividig… |
-| 2026-11-16 08:41:09 | [Smshis](https://www.nuget.org/packages/Smshis) | 1.0.0 | Smt. SMS Multi-Speciality Hos… | Smt. SMS Multi-Speciality Hospital multi-speciality hospital Ahmedabad constant… |
-| 2026-11-16 08:41:16 | [Reefatlantis](https://www.nuget.org/packages/Reefatlantis) | 1.0.0 | Hotel Reef Atlantis — Port Bl… | Hotel Reef Atlantis hotel Port Blair Andaman constants. Official: https://www.h… |
-| 2026-11-16 08:41:22 | [Jaipurfs](https://www.nuget.org/packages/Jaipurfs) | 1.0.0 | Jaipur Flower Shop — Vaishali… | Jaipur Flower Shop flower delivery Jaipur constants. Official: https://www.jaip… |
-| 2026-11-16 08:41:29 | [Pastebuy](https://www.nuget.org/packages/Pastebuy) | 1.0.0 | PasteBuy — Non-custodial Tele… | PasteBuy non-custodial Telegram Solana swap constants. Official: https://pasteb… |
-| 2026-11-16 08:44:45 | [WpfLens.Automation](https://www.nuget.org/packages/WpfLens.Automation) | 0.21.0 | gaoshang212,faze79 | Drive and inspect WPF applications from C# tests: launch/attach, AutomationId l… |
-| 2026-11-16 08:44:46 | [WpfLens.Mcp](https://www.nuget.org/packages/WpfLens.Mcp) | 0.21.0 | gaoshang212,faze79 | Inspect and drive WPF apps through MCP or CLI: visual trees, bindings, screensh… |
-| 2026-11-16 09:08:39 | [AntHelper.Notifications](https://www.nuget.org/packages/AntHelper.Notifications) | 1.7.120 | Antbuild | Live (SignalR) notifications shared by every Ant service: one hub, one publishe… |
-| 2026-11-16 09:08:52 | [Donkeh.HotReload](https://www.nuget.org/packages/Donkeh.HotReload) | 1.0.27 | barely-sentient | Donkeh.HotReload module for Donkeh, a CSS-driven UI engine for .NET. |
+| 2026-11-16 09:21:21 | [BccCode.Privacy.Hosting](https://www.nuget.org/packages/BccCode.Privacy.Hosting) | 0.5.1 | BCC | One AddPrivacy() for BCC Privacy: the EF Core, ASP.NET Core and Wolverine packa… |
+| 2026-11-16 09:38:51 | [BehpardakhtPosPc.Sdk](https://www.nuget.org/packages/BehpardakhtPosPc.Sdk) | 0.0.1 | Alirezar | Behpardakht POS-PC client for .NET. Speaks protocol revision 4.7 over TCP and s… |
+| 2026-11-16 09:56:16 | [ArdinLogger.netcore](https://www.nuget.org/packages/ArdinLogger.netcore) | 1.0.42128 | ARDINSYS | ArdinSys logger .NET Core component |
+| 2026-11-16 09:59:43 | [io7.FreePDF.Accessibility.Tool](https://www.nuget.org/packages/io7.FreePDF.Accessibility.Tool) | 7.11.0 | io7 | Offline PDF/UA-1 accessibility preflight with explicit partial coverage and hum… |
+| 2026-11-16 10:02:21 | [Rustegon.Driver](https://www.nuget.org/packages/Rustegon.Driver) | 0.1.0 | Davide Pegoraro | Official .NET driver for the Rustegon distributed ACID document database. |
+| 2026-11-16 10:06:26 | [TestResults.Engine](https://www.nuget.org/packages/TestResults.Engine) | 6.0.0.15 | progile AG | Engine test framework for developing testcases with TestResults |
+| 2026-11-16 10:07:17 | [Ranvier.BAREWire.Query.Traced](https://www.nuget.org/packages/Ranvier.BAREWire.Query.Traced) | 0.1.0 | shayanhabibi | Ranvier.Query families and mutations whose remote calls are BAREWire asks, and… |
+| 2026-11-16 10:07:18 | [Ranvier.BAREWire.Traced](https://www.nuget.org/packages/Ranvier.BAREWire.Traced) | 0.1.0 | shayanhabibi | BAREWire for Ranvier: BAREWire's encoder, decoder, schema and envelope framing… |
+| 2026-11-16 10:07:19 | [Ranvier.BAREWire](https://www.nuget.org/packages/Ranvier.BAREWire) | 0.1.0 | shayanhabibi | BAREWire for Ranvier: BAREWire's encoder, decoder, schema and envelope framing… |
+| 2026-11-16 10:07:20 | [Ranvier.BAREWire.Query](https://www.nuget.org/packages/Ranvier.BAREWire.Query) | 0.1.0 | shayanhabibi | Ranvier.Query families and mutations whose remote calls are BAREWire asks, and… |
 
 ## Data source
 
