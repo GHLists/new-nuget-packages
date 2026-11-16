@@ -12,25 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 05:20 UTC
+## Latest list — 2026-11-16 06:19 UTC
 
-New packages created between 2026-11-16 04:19 UTC and 2026-11-16 05:20 UTC.
+New packages created between 2026-11-16 05:20 UTC and 2026-11-16 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T05-20-28-309611Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T06-19-52-861007Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 04:34:47 | [AurorisNet.Umbraco.DisableTelemetry](https://www.nuget.org/packages/AurorisNet.Umbraco.DisableTelemetry) | 18.3.1.1 | Auroris | Stops Umbraco's telemetry beacon, installer reporting and dashboard news reques… |
-| 2026-11-16 04:43:22 | [WebSharper.TensorFlowJs](https://www.nuget.org/packages/WebSharper.TensorFlowJs) | 10.1.0.752 | IntelliFactory | WebSharper bindings for TensorFlow.js 4.x (4.22.0+) |
-| 2026-11-16 04:45:11 | [Vane.Container](https://www.nuget.org/packages/Vane.Container) | 1.0.0 | wangqingsong | Dependency injection container for .NET with MEF-style attribute composition, k… |
-| 2026-11-16 04:46:06 | [Vane.Container.AspNetCore](https://www.nuget.org/packages/Vane.Container.AspNetCore) | 1.0.0 | wangqingsong | ASP.NET Core host integration for Vane.Container. Adds UseVaneContainer on IHos… |
-| 2026-11-16 04:46:35 | [Vane.Container.Prism](https://www.nuget.org/packages/Vane.Container.Prism) | 1.0.0 | wangqingsong | Prism 8 IContainerExtension adapter for Vane.Container. Routes PrismApplication… |
-| 2026-11-16 05:04:06 | [SqlChat.Client](https://www.nuget.org/packages/SqlChat.Client) | 0.1.0 | Drew Coogan | SqlChat public API: ISqlChatClient, SqlChatBuilder and dependency-injection reg… |
-| 2026-11-16 05:04:06 | [SqlChat.Ai](https://www.nuget.org/packages/SqlChat.Ai) | 0.1.0 | Drew Coogan | Natural language to validated, read-only SQL for PostgreSQL and SQL Server, pow… |
-| 2026-11-16 05:04:07 | [SqlChat.Domain](https://www.nuget.org/packages/SqlChat.Domain) | 0.1.0 | Drew Coogan | Core abstractions, domain models and result types for SqlChat. Referenced by th… |
-| 2026-11-16 05:04:08 | [SqlChat.Service](https://www.nuget.org/packages/SqlChat.Service) | 0.1.0 | Drew Coogan | SqlChat orchestration engine and read-only SQL security validation. Referenced… |
-| 2026-11-16 05:04:08 | [SqlChat.Data](https://www.nuget.org/packages/SqlChat.Data) | 0.1.0 | Drew Coogan | SqlChat schema providers (PostgreSQL, SQL Server, EF Core, DDL/JSON/YAML) and r… |
-| 2026-11-16 05:10:02 | [Universal.Operative.Sdk.Databricks](https://www.nuget.org/packages/Universal.Operative.Sdk.Databricks) | 1.0.0 | Andrew Ong | REST-backed Databricks Genie tools for Operative, supporting multiple spaces an… |
+| 2026-11-16 05:21:19 | [DAABLike](https://www.nuget.org/packages/DAABLike) | 1.0.0 | ysmgthntt | A DAAB-style data access library for .NET and .NET Framework, providing a famil… |
+| 2026-11-16 05:24:25 | [IndustrialControls.Avalonia](https://www.nuget.org/packages/IndustrialControls.Avalonia) | 1.0.0 | daipeng0809 | 面向 Avalonia 12 的工业控件库：仪表盘、扇形进度条、竖向进度条、电池电量、指南针、状态灯等，支持高度自定义、AOT 与高帧率数据刷新。 |
+| 2026-11-16 05:27:15 | [Bilyk.QwibeeSport.Generic](https://www.nuget.org/packages/Bilyk.QwibeeSport.Generic) | 1.0.0 | Anastasiia Bilyk | Generic entity and repository classes for QWIBEE SPORT |
+| 2026-11-16 05:28:47 | [Jakar.Logging.Serilog](https://www.nuget.org/packages/Jakar.Logging.Serilog) | 10.1.0 | Tyler Stegmaier | Jakar.Extensions integration for Jakar.Logging: Serilog properties for AppInfor… |
+| 2026-11-16 05:33:23 | [Epsitec.MuGet](https://www.nuget.org/packages/Epsitec.MuGet) | 0.1.3.2647 | Pierre ARNAUD | Develop NuGet packages from their source code inside the solution that consumes… |
+| 2026-11-16 05:33:23 | [Epsitec.Muget](https://www.nuget.org/packages/Epsitec.Muget) | 0.1.3.2647 | Pierre ARNAUD | Develop NuGet packages from their source code inside the solution that consumes… |
+| 2026-11-16 05:37:13 | [LogMark.Shroud.Cli](https://www.nuget.org/packages/LogMark.Shroud.Cli) | 0.4.0 | LogMark | CLI tool for detecting and masking sensitive data in markdown files. |
+| 2026-11-16 05:37:13 | [LogMark.Shroud](https://www.nuget.org/packages/LogMark.Shroud) | 0.4.0 | LogMark | Sensitive data detection and tokenization for text files. Zero dependencies. Au… |
+| 2026-11-16 05:41:21 | [NugetVerify](https://www.nuget.org/packages/NugetVerify) | 1.0.0 | NugetVerify | Package Description |
+| 2026-11-16 05:44:04 | [ProtocolConversion](https://www.nuget.org/packages/ProtocolConversion) | 0.1.1 | ProtocolConversion Contributo… | 协议转换库（元包）：将一种协议的消息翻译转换为另一种协议的消息。安装本包即包含全部功能：SECS/GEM（Secs4Net）、HTTP、Rpc（gRPC）协议… |
+| 2026-11-16 05:44:42 | [WinForms.ExtendedControls](https://www.nuget.org/packages/WinForms.ExtendedControls) | 1.0.0 | DotNet Community | Extended Windows Forms Controls and UI components for modern desktop applicatio… |
+| 2026-11-16 05:44:58 | [WinForms.Components.Extensions](https://www.nuget.org/packages/WinForms.Components.Extensions) | 1.0.0 | DotNet Community | Windows Forms reusable component extensions and reactive controls. |
+| 2026-11-16 05:52:48 | [ProngsFaints.JsxCore](https://www.nuget.org/packages/ProngsFaints.JsxCore) | 1.0.4.1 | David Whitney | A TSX/JSX view engine for ASP.NET Core. Write views as .tsx or .jsx files and r… |
 
 ## Data source
 
