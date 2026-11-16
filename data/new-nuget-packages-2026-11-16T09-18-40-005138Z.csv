@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-16T08:24:20.55Z,Winche.Functions,1.0.0,Ehsan Rashidi,"JavaScript and TypeScript functions for the Winche stack, run by Deno in sandboxed workers: on document, file and user changes, on a schedule, or called by apps. Written in the console or VS Code."
+2026-11-16T08:24:21.317Z,Winche.Functions.Auth,1.0.0,Ehsan Rashidi,"JavaScript and TypeScript functions for the Winche stack, run by Deno in sandboxed workers: on document, file and user changes, on a schedule, or called by apps. Written in the console or VS Code."
+2026-11-16T08:24:22.043Z,Winche.Functions.Database,1.0.0,Ehsan Rashidi,"JavaScript and TypeScript functions for the Winche stack, run by Deno in sandboxed workers: on document, file and user changes, on a schedule, or called by apps. Written in the console or VS Code."
+2026-11-16T08:24:22.82Z,Winche.Functions.Storage,1.0.0,Ehsan Rashidi,"JavaScript and TypeScript functions for the Winche stack, run by Deno in sandboxed workers: on document, file and user changes, on a schedule, or called by apps. Written in the console or VS Code."
+2026-11-16T08:32:42.633Z,TravelRepo.Serialization,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:43.457Z,TravelRepo.Mcp,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:44.1Z,TravelRepo.Providers.GitHub,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:44.763Z,TravelRepo.Providers.Weather,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:45.63Z,TravelRepo.Cli,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:46.143Z,TravelRepo.Git,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:46.81Z,TravelRepo.Plugins.Abstractions,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:47.32Z,TravelRepo.Core,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:47.917Z,TravelRepo.Providers.Abstractions,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:48.4Z,TravelRepo.Merge,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:49.143Z,TravelRepo.Git.LibGit2,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:49.877Z,TravelRepo.Repository,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:32:50.51Z,TravelRepo.Documents,0.13.0,TravelRepo contributors,"Open TravelRepo format, domain and repository APIs."
+2026-11-16T08:39:26.02Z,ProteomIQon.PeptideSpectrumMatchingTIMs,0.1.0,"David Zimmer, Caroline Ott, Heinrich Lukas Weil, Timo Muehlhaus",ProteomIQon.PeptideSpectrumMatchingTIMs - computational proteomics
+2026-11-16T08:41:02.91Z,Dividigital,1.0.0,Divi Digital — Dubai Growth Agency,Divi Digital search engine marketing Dubai constants. Official: https://dividigital.ae/search-engine-marketing-dubai/
+2026-11-16T08:41:09.263Z,Smshis,1.0.0,Smt. SMS Multi-Speciality Hospital — Chandkheda,Smt. SMS Multi-Speciality Hospital multi-speciality hospital Ahmedabad constants. Official: https://smshis.in/
+2026-11-16T08:41:16.53Z,Reefatlantis,1.0.0,Hotel Reef Atlantis — Port Blair,Hotel Reef Atlantis hotel Port Blair Andaman constants. Official: https://www.hotelreefatlantis.com/room1.html
+2026-11-16T08:41:22.773Z,Jaipurfs,1.0.0,Jaipur Flower Shop — Vaishali Nagar,Jaipur Flower Shop flower delivery Jaipur constants. Official: https://www.jaipurflowershop.com/
+2026-11-16T08:41:29.793Z,Pastebuy,1.0.0,PasteBuy — Non-custodial Telegram Solana Swap,PasteBuy non-custodial Telegram Solana swap constants. Official: https://pastebuy.com/
+2026-11-16T08:44:45.423Z,WpfLens.Automation,0.21.0,"gaoshang212,faze79","Drive and inspect WPF applications from C# tests: launch/attach, AutomationId locators, virtualized grids/trees, automatic waits, mouse/touch actions, property notifications, windows, recording and replay."
+2026-11-16T08:44:46.733Z,WpfLens.Mcp,0.21.0,"gaoshang212,faze79","Inspect and drive WPF apps through MCP or CLI: visual trees, bindings, screenshots, mouse dragging and native touch gestures."
+2026-11-16T09:08:39.71Z,AntHelper.Notifications,1.7.120,Antbuild,"Live (SignalR) notifications shared by every Ant service: one hub, one publisher, one store contract, Azure SignalR Service when configured."
+2026-11-16T09:08:52.353Z,Donkeh.HotReload,1.0.27,barely-sentient,"Donkeh.HotReload module for Donkeh, a CSS-driven UI engine for .NET."
