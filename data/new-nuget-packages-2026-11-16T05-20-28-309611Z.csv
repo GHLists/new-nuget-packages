@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-16T04:34:47.247Z,AurorisNet.Umbraco.DisableTelemetry,18.3.1.1,Auroris,"Stops Umbraco's telemetry beacon, installer reporting and dashboard news requests on servers without internet access. Registers automatically in Umbraco 17 and 18 through dependency injection."
+2026-11-16T04:43:22.75Z,WebSharper.TensorFlowJs,10.1.0.752,IntelliFactory,WebSharper bindings for TensorFlow.js 4.x (4.22.0+)
+2026-11-16T04:45:11.117Z,Vane.Container,1.0.0,wangqingsong,"Dependency injection container for .NET with MEF-style attribute composition, keyed services, dynamic registration and a compile-time registration source generator. The Prism adapter ships as a separate project (Vane.Container.Prism)."
+2026-11-16T04:46:06.793Z,Vane.Container.AspNetCore,1.0.0,wangqingsong,ASP.NET Core host integration for Vane.Container. Adds UseVaneContainer on IHostBuilder through IServiceProviderFactory<ServiceRegistry> and serves per-request scopes from IServiceScopeFactory. Targets net10.0.
+2026-11-16T04:46:35.273Z,Vane.Container.Prism,1.0.0,wangqingsong,"Prism 8 IContainerExtension adapter for Vane.Container. Routes PrismApplication container creation, RegisterSingleton/RegisterInstance/RegisterScoped and Resolve/ResolveAll calls into Vane.Container."
+2026-11-16T05:04:06.06Z,SqlChat.Client,0.1.0,Drew Coogan,"SqlChat public API: ISqlChatClient, SqlChatBuilder and dependency-injection registration."
+2026-11-16T05:04:06.717Z,SqlChat.Ai,0.1.0,Drew Coogan,"Natural language to validated, read-only SQL for PostgreSQL and SQL Server, powered by Anthropic Claude or OpenAI. Start here: includes the full SqlChat stack."
+2026-11-16T05:04:07.407Z,SqlChat.Domain,0.1.0,Drew Coogan,"Core abstractions, domain models and result types for SqlChat. Referenced by the other SqlChat packages; install SqlChat.Ai instead."
+2026-11-16T05:04:08.057Z,SqlChat.Service,0.1.0,Drew Coogan,SqlChat orchestration engine and read-only SQL security validation. Referenced by SqlChat.Client; install SqlChat.Ai instead.
+2026-11-16T05:04:08.75Z,SqlChat.Data,0.1.0,Drew Coogan,"SqlChat schema providers (PostgreSQL, SQL Server, EF Core, DDL/JSON/YAML) and read-only query executors."
+2026-11-16T05:10:02.397Z,Universal.Operative.Sdk.Databricks,1.0.0,Andrew Ong,"REST-backed Databricks Genie tools for Operative, supporting multiple spaces and workspaces."

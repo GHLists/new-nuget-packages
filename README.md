@@ -12,22 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:19 UTC
+## Latest list — 2026-11-16 05:20 UTC
 
-New packages created between 2026-11-16 03:21 UTC and 2026-11-16 04:19 UTC.
+New packages created between 2026-11-16 04:19 UTC and 2026-11-16 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T04-19-47-386632Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T05-20-28-309611Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 03:22:47 | [Jakar.Http](https://www.nuget.org/packages/Jakar.Http) | 10.1.0 | Tyler Stegmaier | An HttpClient-based requester (WebRequester) with retries, typed JSON bodies on… |
-| 2026-11-16 03:22:47 | [Jakar.Users](https://www.nuget.org/packages/Jakar.Users) | 10.1.0 | Tyler Stegmaier | User, group, role and address models (Guid- and long-keyed), login requests, cl… |
-| 2026-11-16 03:27:46 | [Jakar.Logging](https://www.nuget.org/packages/Jakar.Logging) | 10.1.0 | Tyler Stegmaier | Serilog and Microsoft.Extensions.Logging support: app logger options, a file lo… |
-| 2026-11-16 03:28:02 | [Webority.Imaging.Avif](https://www.nuget.org/packages/Webority.Imaging.Avif) | 0.14.0 | Webority Technologies | Decodes AVIF images for Webority.Imaging through the dav1d AV1 decoder. |
-| 2026-11-16 03:39:11 | [BusinessFeatures.Recaptchas](https://www.nuget.org/packages/BusinessFeatures.Recaptchas) | 9.0.0 | Linh Nguyen | Google reCAPTCHA token verification for .NET APIs: the IRecaptchaService contra… |
-| 2026-11-16 03:51:08 | [RocketMQ.Client.Remoting](https://www.nuget.org/packages/RocketMQ.Client.Remoting) | 0.0.1 | RocketMQ.Client | Apache RocketMQ client for the classic remoting protocol |
-| 2026-11-16 04:06:29 | [AltStreamLib](https://www.nuget.org/packages/AltStreamLib) | 0.4.34 | Macha Celeste | A C# wrapper for altstream.online API |
-| 2026-11-16 04:10:35 | [Optionary](https://www.nuget.org/packages/Optionary) | 0.1.1 | David Driscoll,Rocket Surgeon… | Source-generated, reflection-free options binding and JSON Schema for .NET conf… |
+| 2026-11-16 04:34:47 | [AurorisNet.Umbraco.DisableTelemetry](https://www.nuget.org/packages/AurorisNet.Umbraco.DisableTelemetry) | 18.3.1.1 | Auroris | Stops Umbraco's telemetry beacon, installer reporting and dashboard news reques… |
+| 2026-11-16 04:43:22 | [WebSharper.TensorFlowJs](https://www.nuget.org/packages/WebSharper.TensorFlowJs) | 10.1.0.752 | IntelliFactory | WebSharper bindings for TensorFlow.js 4.x (4.22.0+) |
+| 2026-11-16 04:45:11 | [Vane.Container](https://www.nuget.org/packages/Vane.Container) | 1.0.0 | wangqingsong | Dependency injection container for .NET with MEF-style attribute composition, k… |
+| 2026-11-16 04:46:06 | [Vane.Container.AspNetCore](https://www.nuget.org/packages/Vane.Container.AspNetCore) | 1.0.0 | wangqingsong | ASP.NET Core host integration for Vane.Container. Adds UseVaneContainer on IHos… |
+| 2026-11-16 04:46:35 | [Vane.Container.Prism](https://www.nuget.org/packages/Vane.Container.Prism) | 1.0.0 | wangqingsong | Prism 8 IContainerExtension adapter for Vane.Container. Routes PrismApplication… |
+| 2026-11-16 05:04:06 | [SqlChat.Client](https://www.nuget.org/packages/SqlChat.Client) | 0.1.0 | Drew Coogan | SqlChat public API: ISqlChatClient, SqlChatBuilder and dependency-injection reg… |
+| 2026-11-16 05:04:06 | [SqlChat.Ai](https://www.nuget.org/packages/SqlChat.Ai) | 0.1.0 | Drew Coogan | Natural language to validated, read-only SQL for PostgreSQL and SQL Server, pow… |
+| 2026-11-16 05:04:07 | [SqlChat.Domain](https://www.nuget.org/packages/SqlChat.Domain) | 0.1.0 | Drew Coogan | Core abstractions, domain models and result types for SqlChat. Referenced by th… |
+| 2026-11-16 05:04:08 | [SqlChat.Service](https://www.nuget.org/packages/SqlChat.Service) | 0.1.0 | Drew Coogan | SqlChat orchestration engine and read-only SQL security validation. Referenced… |
+| 2026-11-16 05:04:08 | [SqlChat.Data](https://www.nuget.org/packages/SqlChat.Data) | 0.1.0 | Drew Coogan | SqlChat schema providers (PostgreSQL, SQL Server, EF Core, DDL/JSON/YAML) and r… |
+| 2026-11-16 05:10:02 | [Universal.Operative.Sdk.Databricks](https://www.nuget.org/packages/Universal.Operative.Sdk.Databricks) | 1.0.0 | Andrew Ong | REST-backed Databricks Genie tools for Operative, supporting multiple spaces an… |
 
 ## Data source
 
