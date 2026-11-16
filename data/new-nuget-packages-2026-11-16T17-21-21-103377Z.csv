@@ -1,0 +1,29 @@
+created_at,package,version,authors,description
+2026-11-16T16:20:42.757Z,AtlasPay.Contracts,1.0.0,AtlasPay,Shared integration event contracts for AtlasPay microservices.
+2026-11-16T16:32:37.223Z,OpenFin.CloudInterop,16.0.0,OpenFin,HERE Cloud Interop API client library for .NET Framework 4.8 and .NET 10
+2026-11-16T16:38:10.073Z,APIVerve.API.AircraftTypes,1.2.6,APIVerve,"Aircraft Types returns the physical and operational characteristics of an aircraft type from its ICAO designator, such as B738 or A320, or by searching manufacturer and model. Each type comes with wingspan, length, tail height, maximum takeoff and landing weight, approach speed and category, airpla…"
+2026-11-16T16:38:16.96Z,APIVerve.API.BankLookup,1.2.6,APIVerve,"Bank Lookup is a bank and credit union lookup API covering every FDIC-insured institution ever chartered and every federally insured credit union. Search by name, FDIC certificate, NCUA charter, routing number, SWIFT code, LEI, website domain or IBAN and get the status, headquarters, regulator and…"
+2026-11-16T16:38:40.937Z,APIVerve.API.IndiaPincodeLookup,1.2.6,APIVerve,"India Pincode Lookup is an Indian PIN code API covering all ~19,300 PIN codes and ~157,000 post offices. Look up a PIN code to get its district, state, ISO state code, India Post circle, region, division and post office count, or search by post office, district or state, while paid plans add coordi…"
+2026-11-16T16:38:44.013Z,APIVerve.API.ImagetoPDF,1.2.6,APIVerve,"Image to PDF combines up to 20 images, uploaded or fetched from URLs, into one PDF with one image per page, and returns a download link valid for 2 days. Pages can match each image or be A4, Letter or Legal with a margin, and multi-page TIFF scans and animated GIFs become one page per frame."
+2026-11-16T16:39:01.61Z,APIVerve.API.VehicleFuelEconomy,1.2.6,APIVerve,"Vehicle Fuel Economy returns the EPA ratings of every car and light truck sold in the US since 1984, electric vehicles included. Search by make, model, year and fuel type to get city, highway and combined MPG (or MPGe), electric range, engine, drive and transmission. Paid plans add kWh per 100 mile…"
+2026-11-16T16:42:05.397Z,MapLargeInc.ORM,2.2.0,MapLarge,MapLargeInc.ORM library for building MapLarge data applications
+2026-11-16T16:43:29.143Z,Credfeto.Build.Node.Server,0.0.8.163-pull-40-m…,Mark Ridgwell,"Credfeto Build MCP Node server: build, test and coverage for npm repositories over stdio MCP"
+2026-11-16T16:43:29.667Z,Credfeto.Build.Node.Server.linux-x64,0.0.8.163-pull-40-m…,Mark Ridgwell,"Credfeto Build MCP Node server: build, test and coverage for npm repositories over stdio MCP"
+2026-11-16T16:47:40.893Z,Octeka.UI.Terminal,1.0.0,Patrick Robichaud,"Interactive, double-buffered, flicker-free Text-based User Interface (TUI) application framework for .NET."
+2026-11-16T16:47:44.4Z,Octeka.UI.Terminal.Abstractions,1.0.0,Patrick Robichaud,"Core abstractions, interfaces, and event models for Octeka.UI.Terminal interactive TUI framework."
+2026-11-16T16:47:51.5Z,Octeka.UI.Terminal.Markup,1.0.0,Patrick Robichaud,"Declarative Terminal Markup Language (TML) parser, MVVM data binding engine, and view abstractions for Octeka.UI.Terminal."
+2026-11-16T16:52:31.973Z,Fluid.Core.Tool.any,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:33.54Z,Fluid.Core.Tool.linux-arm64,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:34.91Z,Fluid.Core.Tool.linux-x64,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:36.193Z,Fluid.Core.Tool.osx-arm64,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:37.75Z,Fluid.Core.Tool.osx-x64,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:39.3Z,Fluid.Core.Tool.win-arm64,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:40.67Z,Fluid.Core.Tool.win-x64,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:52:41.65Z,Fluid.Core.Tool,3.0.0,Sebastien Ros,"A native AOT command line tool that renders Liquid templates with Fluid, using JSON data from stdin or files."
+2026-11-16T16:57:54.487Z,Microsoft.Azure.Cosmos.QueryPlanInterop,1.0.1,Microsoft,"Pre-built native QueryPlanInterop libraries for Linux, macOS and Windows (x64 + arm64)."
+2026-11-16T16:59:03.98Z,NE.ChatAI.Plugins,1.4.0,AkiEvansDev,"Scenario plugin SDK for NE.ChatAI: custom [GraphNode] contracts, encrypted secret access, and chat media persistence."
+2026-11-16T17:03:59.98Z,Octeka.Logging.Log4Net,1.4.0,Patrick Robichaud,Package Description
+2026-11-16T17:04:00.963Z,Octeka.Logging.Microsoft,1.4.0,Patrick Robichaud,Package Description
+2026-11-16T17:04:01.803Z,Octeka.Logging.NLog,1.4.0,Patrick Robichaud,Package Description
+2026-11-16T17:04:02.797Z,Octeka.Logging.Serilog,1.4.0,Patrick Robichaud,Package Description
+2026-11-16T17:12:22.557Z,Chirograph,0.1.0,"David Driscoll,Rocket Surgeons Guild contributors","MSBuild SDK that generates typed HTTP clients from OpenAPI documents at build time, with Kiota or Refitter, and registers them with IHttpClientFactory."

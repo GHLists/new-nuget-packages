@@ -12,25 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 16:18 UTC
+## Latest list — 2026-11-16 17:21 UTC
 
-New packages created between 2026-11-16 15:21 UTC and 2026-11-16 16:18 UTC.
+New packages created between 2026-11-16 16:18 UTC and 2026-11-16 17:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T16-18-57-068404Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T17-21-21-103377Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 15:26:34 | [uSync.Engage.Complete](https://www.nuget.org/packages/uSync.Engage.Complete) | 17.0.0-beta02 | Kevin Jump | uSync.Complete push and pull for Umbraco Engage settings - personas, customer j… |
-| 2026-11-16 15:38:07 | [MyNuget_smu](https://www.nuget.org/packages/MyNuget_smu) | 1.0.0 | Sathyan | Simple calculator with Add method |
-| 2026-11-16 15:42:14 | [Cangming.Data.Contracts](https://www.nuget.org/packages/Cangming.Data.Contracts) | 0.1.7.1116 | Fangyu,lukan@xknife.net,Asong… | Cangming 客户端通用基座框架库（插件化宿主）。 |
-| 2026-11-16 15:42:17 | [Cangming.Data.Sqlite](https://www.nuget.org/packages/Cangming.Data.Sqlite) | 0.1.7.1116 | Fangyu,lukan@xknife.net,Asong… | Cangming 客户端通用基座框架库（插件化宿主）。 |
-| 2026-11-16 15:42:33 | [Cangming.Logs.UI](https://www.nuget.org/packages/Cangming.Logs.UI) | 0.1.7.1116 | Fangyu,lukan@xknife.net,Asong… | 仅组织内部使用。把日志条目投递到 UI 线程集合的辅助层，不依赖具体日志框架。 |
-| 2026-11-16 15:46:29 | [Bitwarden.Server.Sdk.PasswordHashing](https://www.nuget.org/packages/Bitwarden.Server.Sdk.PasswordHashing) | 0.1.0 | Bitwarden Inc. | Server-side hashing of client-derived password hashes, compatible with hashes s… |
-| 2026-11-16 15:48:09 | [Moberg.EntityFrameworkCore.DesignerlessMigrations](https://www.nuget.org/packages/Moberg.EntityFrameworkCore.DesignerlessMigrations) | 10.0.0 | Moberg | Single-file EF Core migrations: dotnet ef migrations add writes one file with [… |
-| 2026-11-16 15:48:10 | [Moberg.EntityFrameworkCore.DesignerlessMigrations.Npgsql](https://www.nuget.org/packages/Moberg.EntityFrameworkCore.DesignerlessMigrations.Npgsql) | 10.0.0 | Moberg | Runtime support for designerless EF Core migrations on PostgreSQL. Without a De… |
-| 2026-11-16 15:58:22 | [KaizenIO.Seo](https://www.nuget.org/packages/KaizenIO.Seo) | 0.1.0 | Kaizenio, Inc. | Kaizen.Seo: head component (title, description, canonical, Open Graph, Twitter)… |
-| 2026-11-16 15:58:23 | [KaizenIO.StaticSite](https://www.nuget.org/packages/KaizenIO.StaticSite) | 0.1.0 | Kaizenio, Inc. | Kaizen.StaticSite: exports a Blazor SSR app to flat files (route/index.html, as… |
-| 2026-11-16 15:58:23 | [KaizenIO.BlogEngine](https://www.nuget.org/packages/KaizenIO.BlogEngine) | 0.1.0 | Kaizenio, Inc. | Kaizen.BlogEngine: Markdig + YamlDotNet post service (YAML front matter) for Bl… |
+| 2026-11-16 16:20:42 | [AtlasPay.Contracts](https://www.nuget.org/packages/AtlasPay.Contracts) | 1.0.0 | AtlasPay | Shared integration event contracts for AtlasPay microservices. |
+| 2026-11-16 16:32:37 | [OpenFin.CloudInterop](https://www.nuget.org/packages/OpenFin.CloudInterop) | 16.0.0 | OpenFin | HERE Cloud Interop API client library for .NET Framework 4.8 and .NET 10 |
+| 2026-11-16 16:38:10 | [APIVerve.API.AircraftTypes](https://www.nuget.org/packages/APIVerve.API.AircraftTypes) | 1.2.6 | APIVerve | Aircraft Types returns the physical and operational characteristics of an aircr… |
+| 2026-11-16 16:38:16 | [APIVerve.API.BankLookup](https://www.nuget.org/packages/APIVerve.API.BankLookup) | 1.2.6 | APIVerve | Bank Lookup is a bank and credit union lookup API covering every FDIC-insured i… |
+| 2026-11-16 16:38:40 | [APIVerve.API.IndiaPincodeLookup](https://www.nuget.org/packages/APIVerve.API.IndiaPincodeLookup) | 1.2.6 | APIVerve | India Pincode Lookup is an Indian PIN code API covering all ~19,300 PIN codes a… |
+| 2026-11-16 16:38:44 | [APIVerve.API.ImagetoPDF](https://www.nuget.org/packages/APIVerve.API.ImagetoPDF) | 1.2.6 | APIVerve | Image to PDF combines up to 20 images, uploaded or fetched from URLs, into one… |
+| 2026-11-16 16:39:01 | [APIVerve.API.VehicleFuelEconomy](https://www.nuget.org/packages/APIVerve.API.VehicleFuelEconomy) | 1.2.6 | APIVerve | Vehicle Fuel Economy returns the EPA ratings of every car and light truck sold… |
+| 2026-11-16 16:42:05 | [MapLargeInc.ORM](https://www.nuget.org/packages/MapLargeInc.ORM) | 2.2.0 | MapLarge | MapLargeInc.ORM library for building MapLarge data applications |
+| 2026-11-16 16:43:29 | [Credfeto.Build.Node.Server](https://www.nuget.org/packages/Credfeto.Build.Node.Server) | 0.0.8.163-pull-40-m… | Mark Ridgwell | Credfeto Build MCP Node server: build, test and coverage for npm repositories o… |
+| 2026-11-16 16:43:29 | [Credfeto.Build.Node.Server.linux-x64](https://www.nuget.org/packages/Credfeto.Build.Node.Server.linux-x64) | 0.0.8.163-pull-40-m… | Mark Ridgwell | Credfeto Build MCP Node server: build, test and coverage for npm repositories o… |
+| 2026-11-16 16:47:40 | [Octeka.UI.Terminal](https://www.nuget.org/packages/Octeka.UI.Terminal) | 1.0.0 | Patrick Robichaud | Interactive, double-buffered, flicker-free Text-based User Interface (TUI) appl… |
+| 2026-11-16 16:47:44 | [Octeka.UI.Terminal.Abstractions](https://www.nuget.org/packages/Octeka.UI.Terminal.Abstractions) | 1.0.0 | Patrick Robichaud | Core abstractions, interfaces, and event models for Octeka.UI.Terminal interact… |
+| 2026-11-16 16:47:51 | [Octeka.UI.Terminal.Markup](https://www.nuget.org/packages/Octeka.UI.Terminal.Markup) | 1.0.0 | Patrick Robichaud | Declarative Terminal Markup Language (TML) parser, MVVM data binding engine, an… |
+| 2026-11-16 16:52:31 | [Fluid.Core.Tool.any](https://www.nuget.org/packages/Fluid.Core.Tool.any) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:33 | [Fluid.Core.Tool.linux-arm64](https://www.nuget.org/packages/Fluid.Core.Tool.linux-arm64) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:34 | [Fluid.Core.Tool.linux-x64](https://www.nuget.org/packages/Fluid.Core.Tool.linux-x64) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:36 | [Fluid.Core.Tool.osx-arm64](https://www.nuget.org/packages/Fluid.Core.Tool.osx-arm64) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:37 | [Fluid.Core.Tool.osx-x64](https://www.nuget.org/packages/Fluid.Core.Tool.osx-x64) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:39 | [Fluid.Core.Tool.win-arm64](https://www.nuget.org/packages/Fluid.Core.Tool.win-arm64) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:40 | [Fluid.Core.Tool.win-x64](https://www.nuget.org/packages/Fluid.Core.Tool.win-x64) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:52:41 | [Fluid.Core.Tool](https://www.nuget.org/packages/Fluid.Core.Tool) | 3.0.0 | Sebastien Ros | A native AOT command line tool that renders Liquid templates with Fluid, using… |
+| 2026-11-16 16:57:54 | [Microsoft.Azure.Cosmos.QueryPlanInterop](https://www.nuget.org/packages/Microsoft.Azure.Cosmos.QueryPlanInterop) | 1.0.1 | Microsoft | Pre-built native QueryPlanInterop libraries for Linux, macOS and Windows (x64 +… |
+| 2026-11-16 16:59:03 | [NE.ChatAI.Plugins](https://www.nuget.org/packages/NE.ChatAI.Plugins) | 1.4.0 | AkiEvansDev | Scenario plugin SDK for NE.ChatAI: custom [GraphNode] contracts, encrypted secr… |
+| 2026-11-16 17:03:59 | [Octeka.Logging.Log4Net](https://www.nuget.org/packages/Octeka.Logging.Log4Net) | 1.4.0 | Patrick Robichaud | Package Description |
+| 2026-11-16 17:04:00 | [Octeka.Logging.Microsoft](https://www.nuget.org/packages/Octeka.Logging.Microsoft) | 1.4.0 | Patrick Robichaud | Package Description |
+| 2026-11-16 17:04:01 | [Octeka.Logging.NLog](https://www.nuget.org/packages/Octeka.Logging.NLog) | 1.4.0 | Patrick Robichaud | Package Description |
+| 2026-11-16 17:04:02 | [Octeka.Logging.Serilog](https://www.nuget.org/packages/Octeka.Logging.Serilog) | 1.4.0 | Patrick Robichaud | Package Description |
+| 2026-11-16 17:12:22 | [Chirograph](https://www.nuget.org/packages/Chirograph) | 0.1.0 | David Driscoll,Rocket Surgeon… | MSBuild SDK that generates typed HTTP clients from OpenAPI documents at build t… |
 
 ## Data source
 
