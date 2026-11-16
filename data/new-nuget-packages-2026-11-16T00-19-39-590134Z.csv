@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-15T23:31:11.703Z,PaymentSystem.Generic,1.0.0,PaymentSystem.Generic,Package Description
+2026-11-15T23:45:33.93Z,ShadowDusk.SkSL,0.26.0,ShadowDusk Contributors,"ShadowDusk SkSL front-end: a pure-managed, zero-native converter that translates a Skia SkSL runtime-effect shader (half4 main(float2 coord)) into a self-contained HLSL .fx source (SkSLToFxConverter.Convert). With ShadowDusk.Compiler installed, ShaderConverter.Compile reads a .sksl shader directly.…"
+2026-11-15T23:58:06.37Z,GCR.Capabilities.Audit,0.2.0,GCR,审计能力层：审计仓储与 AuditService，跨应用统一轨迹格式。不依赖宿主，可被独立引用。
+2026-11-15T23:58:08.483Z,GCR.Capabilities.Identity,0.2.0,GCR,身份能力层：账号、角色、权限仓储与服务，认证方案，Blazor 认证状态提供者。不依赖宿主，可被独立引用。
+2026-11-15T23:58:10.957Z,GCR.Capabilities.Security,0.2.0,GCR,安全能力层：API 暴露面策略、限流、集成凭据与 OAuth 2.1 / OIDC 授权服务器。不依赖宿主，可被独立引用。
+2026-11-16T00:03:35.32Z,StemMqtt,0.9.0,Sorin Irimies,"MQTT 3.1.1 / 5.0 client and broker (Rust core, UniFFI C# bindings)"
+2026-11-16T00:09:59.763Z,SynthEHR.Core,3.0.0,Health Informatics Centre - University of Dundee,"Library and CLI for randomly generating medical data like you might get out of an Electronic Health Records (EHR) system. It is intended for generating data for demos and testing ETL / cohort generation/ data management tools. SynthEHR differs from other random data generators e.g. Mockaroo, SQL Da…"
