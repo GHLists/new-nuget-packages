@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-11-16T18:31:45.02Z,funktionalsystems.sharpcompress-cli,1.0.0,sharpcompress.cli,Package Description
+2026-11-16T18:43:43.613Z,Phantom.CosmosDB,2.0.0,Diego Silva,"Azure Cosmos DB in-memory emulator and developer dashboard (/phantom) for .NET 8 with Connection String activation, Auto-Seeding, GeoJSON/Spatial queries, Cost Simulator, and live Chaos Engineering."
+2026-11-16T18:54:22.2Z,ArchFlow.Results,1.0.0,Welligton Silva,Lightweight Result Pattern library for .NET applications.
+2026-11-16T19:04:15.907Z,YotsubaShader.ShadowDusk.Core,0.8.1,ShadowDusk Contributors,"ShadowDusk core types (IShaderCompiler, Result, ShaderError, CompilerOptions, IR, SPIR-V reflection). Part of the ShadowDusk.Compiler cross-platform MonoGame/KNI shader compiler."
+2026-11-16T19:04:18.41Z,YotsubaShader.ShadowDusk.HLSL,0.8.1,ShadowDusk Contributors,"ShadowDusk HLSL front-end: FX9 pre-parse, DXC integration, and the vkd3d-shader DXBC backend for DirectX and FNA. This YotsubaShader fork bundles pinned desktop natives for Windows, Linux and macOS on x64 and ARM64."
+2026-11-16T19:04:19.91Z,YotsubaShader.ShadowDusk.GLSL,0.8.1,ShadowDusk Contributors,ShadowDusk GLSL back-end: SPIR-V to GLSL transpilation via SPIRV-Cross and the MonoGame/MojoShader GLSL dialect rewriter. Part of the ShadowDusk.Compiler cross-platform MonoGame/KNI shader compiler.
+2026-11-16T19:04:21.097Z,YotsubaShader.ShadowDusk.Compiler,0.8.1,ShadowDusk Contributors,"Cross-platform, self-contained HLSL Effect compiler for MonoGame, KNI, and FNA. Compiles .fx (or .slang, the HLSL-compatible subset of Slang) shaders to .mgfx binaries (MonoGame/KNI) or D3D9 fx_2_0 .fxb binaries (FNA) in memory at runtime — on Linux, macOS, or Windows — with no Wine, Windows SDK, f…"
+2026-11-16T19:04:25.403Z,YotsubaShader.Compiler.CLI,0.8.1,YotsubaShader contributors,YotsubaShader command-line compiler for C# shader projects.
+2026-11-16T19:04:26.45Z,YotsubaShader.Compiler.Library,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.Compiler.Library library.
+2026-11-16T19:04:27.48Z,YotsubaShader.Compiler.SpirV,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.Compiler.SpirV library.
+2026-11-16T19:04:28.47Z,YotsubaShader.Concepts,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.Concepts library.
+2026-11-16T19:04:29.483Z,YotsubaShader.GlslSyntax,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.GlslSyntax library.
+2026-11-16T19:04:32.3Z,YotsubaShader.HlslSyntax,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.HlslSyntax library.
+2026-11-16T19:04:33.25Z,YotsubaShader.IDE.Analyzer,0.8.1,YotsubaShader contributors,Roslyn diagnostics for YotsubaShader shader projects.
+2026-11-16T19:04:34.233Z,YotsubaShader.IR,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.IR library.
+2026-11-16T19:04:35.14Z,YotsubaShader.Language,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.Language library.
+2026-11-16T19:04:36.16Z,YotsubaShader.MslSyntax,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.MslSyntax library.
+2026-11-16T19:04:37.137Z,YotsubaShader.Roslyn,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.Roslyn library.
+2026-11-16T19:04:38.053Z,YotsubaShader.SpirvSyntax,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.SpirvSyntax library.
+2026-11-16T19:04:39.097Z,YotsubaShader.WgslSyntax,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShader.WgslSyntax library.
+2026-11-16T19:04:40.107Z,YotsubaShaderCross,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShaderCross library.
+2026-11-16T19:04:41.123Z,YotsubaShaderCross.Runtime,0.8.1,YotsubaShader contributors,YotsubaShader YotsubaShaderCross.Runtime library.
+2026-11-16T19:09:35.737Z,Lusamine.SlimExpressionParser,1.0.0,Slimane F,"A tiny, dependency-free evaluator for short expressions such as ""cos(123) + sin(456)"" or ""count() >= 2 && !muted"". Every identifier and function comes from the caller; there are no built-ins."

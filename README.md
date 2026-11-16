@@ -12,27 +12,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 18:19 UTC
+## Latest list — 2026-11-16 19:19 UTC
 
-New packages created between 2026-11-16 17:21 UTC and 2026-11-16 18:19 UTC.
+New packages created between 2026-11-16 18:19 UTC and 2026-11-16 19:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-16T18-19-07-822606Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-16T19-19-56-353249Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-16 17:24:52 | [Swealium](https://www.nuget.org/packages/Swealium) | 0.1.0 | HumoyunMirzo | A .NET 10 retained-mode desktop GUI framework with SDL3 windowing, GPU/raster d… |
-| 2026-11-16 17:43:12 | [TrakHound.Debug](https://www.nuget.org/packages/TrakHound.Debug) | 1.0.0.6-prerelease | TrakHound | Contains classes for running TrakHound packages locally, without an Instance |
-| 2026-11-16 17:43:12 | [TrakHound.AspNetCore](https://www.nuget.org/packages/TrakHound.AspNetCore) | 1.0.0.6-prerelease | TrakHound | Contains the ASP.NET Core classes shared by the TrakHound Instance and the debu… |
-| 2026-11-16 17:43:12 | [TrakHound.Hosting](https://www.nuget.org/packages/TrakHound.Hosting) | 1.0.0.6-prerelease | TrakHound | Contains classes for hosting TrakHound modules outside of an Instance (ex. crea… |
-| 2026-11-16 17:43:12 | [TrakHound.Hosting.AspNetCore](https://www.nuget.org/packages/TrakHound.Hosting.AspNetCore) | 1.0.0.6-prerelease | TrakHound | Contains classes for hosting TrakHound Apis in ASP.NET Core outside of an Insta… |
-| 2026-11-16 17:43:12 | [TrakHound.Testing](https://www.nuget.org/packages/TrakHound.Testing) | 1.0.0.6-prerelease | TrakHound | Contains classes for unit testing TrakHound packages without an Instance (an in… |
-| 2026-11-16 17:45:00 | [Soenneker.Blazor.Notifications.Audio](https://www.nuget.org/packages/Soenneker.Blazor.Notifications.Audio) | 11.0.3 | Jake Soenneker | Audio notifications for Blazor applications. |
-| 2026-11-16 17:46:53 | [IpsoFacto.Identity](https://www.nuget.org/packages/IpsoFacto.Identity) | 1.0.0 | Luciano Circelli | Public identity proof and metadata package. |
-| 2026-11-16 17:55:32 | [cCoder.Eventing.Sql](https://www.nuget.org/packages/cCoder.Eventing.Sql) | 2026.11.16.1754 | cCoder | SQL-backed cCoder event transport |
-| 2026-11-16 17:57:22 | [NymBroker.Dashboard](https://www.nuget.org/packages/NymBroker.Dashboard) | 0.25.1 | nymankla@gmail.com | Live web dashboard for NymBroker: endpoints, queue contents, health, throughput… |
-| 2026-11-16 18:06:54 | [Testcontainers.Vault](https://www.nuget.org/packages/Testcontainers.Vault) | 4.17.0 | Andre Hofmeister and contribu… | Testcontainers for .NET is a library to support tests with throwaway instances… |
-| 2026-11-16 18:07:23 | [Testcontainers.Chroma](https://www.nuget.org/packages/Testcontainers.Chroma) | 4.17.0 | Andre Hofmeister and contribu… | Testcontainers for .NET is a library to support tests with throwaway instances… |
-| 2026-11-16 18:07:27 | [Testcontainers.MongoDbAtlasLocal](https://www.nuget.org/packages/Testcontainers.MongoDbAtlasLocal) | 4.17.0 | Andre Hofmeister and contribu… | Testcontainers for .NET is a library to support tests with throwaway instances… |
+| 2026-11-16 18:31:45 | [funktionalsystems.sharpcompress-cli](https://www.nuget.org/packages/funktionalsystems.sharpcompress-cli) | 1.0.0 | sharpcompress.cli | Package Description |
+| 2026-11-16 18:43:43 | [Phantom.CosmosDB](https://www.nuget.org/packages/Phantom.CosmosDB) | 2.0.0 | Diego Silva | Azure Cosmos DB in-memory emulator and developer dashboard (/phantom) for .NET… |
+| 2026-11-16 18:54:22 | [ArchFlow.Results](https://www.nuget.org/packages/ArchFlow.Results) | 1.0.0 | Welligton Silva | Lightweight Result Pattern library for .NET applications. |
+| 2026-11-16 19:04:15 | [YotsubaShader.ShadowDusk.Core](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.Core) | 0.8.1 | ShadowDusk Contributors | ShadowDusk core types (IShaderCompiler, Result, ShaderError, CompilerOptions, I… |
+| 2026-11-16 19:04:18 | [YotsubaShader.ShadowDusk.HLSL](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.HLSL) | 0.8.1 | ShadowDusk Contributors | ShadowDusk HLSL front-end: FX9 pre-parse, DXC integration, and the vkd3d-shader… |
+| 2026-11-16 19:04:19 | [YotsubaShader.ShadowDusk.GLSL](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.GLSL) | 0.8.1 | ShadowDusk Contributors | ShadowDusk GLSL back-end: SPIR-V to GLSL transpilation via SPIRV-Cross and the… |
+| 2026-11-16 19:04:21 | [YotsubaShader.ShadowDusk.Compiler](https://www.nuget.org/packages/YotsubaShader.ShadowDusk.Compiler) | 0.8.1 | ShadowDusk Contributors | Cross-platform, self-contained HLSL Effect compiler for MonoGame, KNI, and FNA.… |
+| 2026-11-16 19:04:25 | [YotsubaShader.Compiler.CLI](https://www.nuget.org/packages/YotsubaShader.Compiler.CLI) | 0.8.1 | YotsubaShader contributors | YotsubaShader command-line compiler for C# shader projects. |
+| 2026-11-16 19:04:26 | [YotsubaShader.Compiler.Library](https://www.nuget.org/packages/YotsubaShader.Compiler.Library) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Compiler.Library library. |
+| 2026-11-16 19:04:27 | [YotsubaShader.Compiler.SpirV](https://www.nuget.org/packages/YotsubaShader.Compiler.SpirV) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Compiler.SpirV library. |
+| 2026-11-16 19:04:28 | [YotsubaShader.Concepts](https://www.nuget.org/packages/YotsubaShader.Concepts) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Concepts library. |
+| 2026-11-16 19:04:29 | [YotsubaShader.GlslSyntax](https://www.nuget.org/packages/YotsubaShader.GlslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.GlslSyntax library. |
+| 2026-11-16 19:04:32 | [YotsubaShader.HlslSyntax](https://www.nuget.org/packages/YotsubaShader.HlslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.HlslSyntax library. |
+| 2026-11-16 19:04:33 | [YotsubaShader.IDE.Analyzer](https://www.nuget.org/packages/YotsubaShader.IDE.Analyzer) | 0.8.1 | YotsubaShader contributors | Roslyn diagnostics for YotsubaShader shader projects. |
+| 2026-11-16 19:04:34 | [YotsubaShader.IR](https://www.nuget.org/packages/YotsubaShader.IR) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.IR library. |
+| 2026-11-16 19:04:35 | [YotsubaShader.Language](https://www.nuget.org/packages/YotsubaShader.Language) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Language library. |
+| 2026-11-16 19:04:36 | [YotsubaShader.MslSyntax](https://www.nuget.org/packages/YotsubaShader.MslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.MslSyntax library. |
+| 2026-11-16 19:04:37 | [YotsubaShader.Roslyn](https://www.nuget.org/packages/YotsubaShader.Roslyn) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.Roslyn library. |
+| 2026-11-16 19:04:38 | [YotsubaShader.SpirvSyntax](https://www.nuget.org/packages/YotsubaShader.SpirvSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.SpirvSyntax library. |
+| 2026-11-16 19:04:39 | [YotsubaShader.WgslSyntax](https://www.nuget.org/packages/YotsubaShader.WgslSyntax) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShader.WgslSyntax library. |
+| 2026-11-16 19:04:40 | [YotsubaShaderCross](https://www.nuget.org/packages/YotsubaShaderCross) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShaderCross library. |
+| 2026-11-16 19:04:41 | [YotsubaShaderCross.Runtime](https://www.nuget.org/packages/YotsubaShaderCross.Runtime) | 0.8.1 | YotsubaShader contributors | YotsubaShader YotsubaShaderCross.Runtime library. |
+| 2026-11-16 19:09:35 | [Lusamine.SlimExpressionParser](https://www.nuget.org/packages/Lusamine.SlimExpressionParser) | 1.0.0 | Slimane F | A tiny, dependency-free evaluator for short expressions such as "cos(123) + sin… |
 
 ## Data source
 
