@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-11-17T09:22:02.907Z,M.Simple.Caching,1.0.0.1,Mr.Sunny,"Typed caching with bounded memory storage, expiration and asynchronous load coalescing for .NET 8."
+2026-11-17T09:22:22.857Z,M.Simple.Caching.MongoDB,1.0.0.1,Mr.Sunny,"MongoDB backend for M.Simple.Caching with logical expiration, TTL cleanup and sliding refresh."
+2026-11-17T09:22:44.43Z,M.Simple.Caching.Redis,1.0.0.1,Mr.Sunny,Redis backend for M.Simple.Caching with atomic expiration and sliding refresh.
+2026-11-17T09:23:07.13Z,M.Simple.EntityFrameworkCore,1.0.0.1,Mr.Sunny,"Lightweight EF Core repositories, pagination and bulk contracts."
+2026-11-17T09:23:36.747Z,M.Simple.EntityFrameworkCore.MySql,1.0.0.1,Mr.Sunny,MySQL provider and native bulk insert for M.Simple.EntityFrameworkCore.
+2026-11-17T09:23:58.137Z,M.Simple.EntityFrameworkCore.SqlServer,1.0.0.1,Mr.Sunny,SQL Server provider and native bulk insert for M.Simple.EntityFrameworkCore.
+2026-11-17T09:25:25.963Z,M.Simple.Services.DependencyInjection,1.0.0.1,Mr.Sunny,Standalone DependencyInjection services for .NET 8.
+2026-11-17T09:25:35.597Z,DuoExtensions.Maui,0.2.0,PieEatingNinjas,Adaptive toolbars in .NET MAUI Shell and window-aware hinge monitoring for iPhone Duo.
+2026-11-17T09:25:49.29Z,M.Simple.Services.Email,1.0.0.1,Mr.Sunny,Standalone Email services for .NET 8.
+2026-11-17T09:26:08.303Z,M.Simple.Services.Ftp,1.0.0.1,Mr.Sunny,Standalone Ftp services for .NET 8.
+2026-11-17T09:41:24.977Z,Jazor.LibNode.linux-x64,0.1.0,developerhan,Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi.
+2026-11-17T09:41:30.267Z,Jazor.LibNode.win-x64,0.1.0,developerhan,Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi.
+2026-11-17T09:41:33.98Z,Jazor.LibNode,0.1.0,developerhan,Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi.
+2026-11-17T09:50:23.137Z,WoofWare.PawPrint.Loader,0.5.88,Patrick Stevens,"How the assemblies of a .NET program refer to one another: binding an assembly reference to an image, following type forwarders and base-type chains across assemblies, and matching signatures and field references across them, without running any of them."
+2026-11-17T09:50:23.14Z,WoofWare.PawPrint.Analysis,0.6.216,Patrick Stevens,"Questions about a .NET method answered without running it, starting with which exceptions can escape it. Built on WoofWare.PawPrint.Loader and WoofWare.PawPrint.Semantics, never on the interpreter."
+2026-11-17T09:50:24.427Z,Lokad.Audio,0.1.0,Lokad,"Managed streaming PCM, WAV, FLAC and resampling for .NET."
+2026-11-17T09:50:24.887Z,WoofWare.PawPrint.TypeSystem,0.14.102,Patrick Stevens,"The CLI type system as CoreCLR lays it out, across the whole set of loaded assemblies: instantiating generic types to concrete ones, a type definition's method table, and which method a member reference names. Without running any of it."
+2026-11-17T09:50:25.253Z,WoofWare.PawPrint.Semantics,0.18.81,Patrick Stevens,"Rules of the CLI execution model, as inspectable data: which exceptions each IL opcode can raise by itself, and how likely interleaving it is to matter. Facts about running a program rather than about reading one, so they are usable by an analyser that never executes anything."
+2026-11-17T09:50:51.923Z,Lokad.Audio.Linux,0.1.0,Lokad,Optional Linux PipeWire microphone and output-monitor capture for Lokad.Audio.
+2026-11-17T09:51:12.66Z,Lokad.Audio.Windows,0.1.0,Lokad,Optional Windows WASAPI microphone and speaker loopback capture for Lokad.Audio.
+2026-11-17T09:53:48.7Z,SeventyTwo.NPOI,2.8.1,SeventyTwo,"Unofficial fork of NPOI (https://github.com/nissl-lab/npoi), a .NET port of Apache POI. Reads and writes xls (Excel 97-2003), xlsx (Excel 2007+) and docx (Word 2007+). Original code by Tony Qu, Nissl Lab and NPOI contributors under Apache License 2.0. Maintained by SeventyTwo; not affiliated with o…"
+2026-11-17T09:58:05.403Z,AfrenAI.CapabilityGate,1.0.0,AFREN AI,Default-deny tool authorization and provenance tracking for agent workflows.
+2026-11-17T10:11:54.31Z,MarktMentor,0.1.0,MarktMentor,Package Description
