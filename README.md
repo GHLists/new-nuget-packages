@@ -12,23 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:22 UTC
+## Latest list — 2026-11-17 22:22 UTC
 
-New packages created between 2026-11-17 20:20 UTC and 2026-11-17 21:22 UTC.
+New packages created between 2026-11-17 21:22 UTC and 2026-11-17 22:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T21-22-32-832604Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T22-22-20-781216Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 20:24:13 | [HameedHassan.SolutionConflictFinder](https://www.nuget.org/packages/HameedHassan.SolutionConflictFinder) | 1.2026.11.1 | Hameed Hassan | Compare solutions across environments and review conflicts before you import. S… |
-| 2026-11-17 20:28:59 | [Labyrinthe.LabPay](https://www.nuget.org/packages/Labyrinthe.LabPay) | 0.1.0 | Labyrinthe Innovations SARL | Official .NET client for LabPay, the Mobile Money aggregator for Africa (M-Pesa… |
-| 2026-11-17 20:29:00 | [Labyrinthe.LabPay.AspNetCore](https://www.nuget.org/packages/Labyrinthe.LabPay.AspNetCore) | 0.1.0 | Labyrinthe Innovations SARL | ASP.NET Core integration of the LabPay SDK: services.AddLabPay(configuration) w… |
-| 2026-11-17 20:34:52 | [Activout.DatabaseClient.LibSql](https://www.nuget.org/packages/Activout.DatabaseClient.LibSql) | 5.1.0 | Activout.DatabaseClient.LibSql | libSQL (Turso, Bunny Database) backend for Activout.DatabaseClient. |
-| 2026-11-17 20:42:57 | [Lwnrdb.Client](https://www.nuget.org/packages/Lwnrdb.Client) | 0.1.0 | christiancg | The official .NET client for LWNRDB: a connection pool, a fluent query builder,… |
-| 2026-11-17 20:45:00 | [BehpardakhtPosClient](https://www.nuget.org/packages/BehpardakhtPosClient) | 0.0.1 | alirezar | Unofficial Behpardakht POS device client for .NET. Speaks protocol revision 4.7… |
-| 2026-11-17 20:51:37 | [MediSync](https://www.nuget.org/packages/MediSync) | 0.1.0 | MediSync GmbH | The .NET SDK for the MediSync API: speech to text, clinical notes and letters,… |
-| 2026-11-17 21:10:44 | [Themis.Evaluation](https://www.nuget.org/packages/Themis.Evaluation) | 4.5.0 | Themis contributors | Offline decision-provider evaluation and replay for Themis. |
-| 2026-11-17 21:10:51 | [Themis.Verdict.Tool](https://www.nuget.org/packages/Themis.Verdict.Tool) | 4.5.0 | Themis contributors | Command-line evaluation and diagnostics for Themis decision inference. |
+| 2026-11-17 21:25:19 | [Farol.Mcp](https://www.nuget.org/packages/Farol.Mcp) | 0.1.0 | Farol contributors | Compiler-accurate C# and VB code intelligence for AI agents, from legacy .NET F… |
+| 2026-11-17 21:33:15 | [MASS4.Turian.Testing](https://www.nuget.org/packages/MASS4.Turian.Testing) | 5.2.0 | Bruno Massa | Headless component testing with controlled frames and input. |
+| 2026-11-17 21:53:46 | [EdiWeave.Next.Healthcare](https://www.nuget.org/packages/EdiWeave.Next.Healthcare) | 9.1.0 | Silvenga,gamingrobot,EdiWeave… | HIPAA 5010 claim workflow for medical software: 837P builder and validator, 999… |
+| 2026-11-17 22:05:18 | [GeoPandas.Net.Arrow](https://www.nuget.org/packages/GeoPandas.Net.Arrow) | 0.2.0 | Gravicode Studios (Kang Fadhi… | GeoPandas.Net columnar interchange: GeoParquet 1.1 reader/writer (WKB + bbox co… |
+| 2026-11-17 22:05:21 | [GeoPandas.Net.Sql](https://www.nuget.org/packages/GeoPandas.Net.Sql) | 0.2.0 | Gravicode Studios (Kang Fadhi… | GeoPandas.Net spatial databases over plain ADO.NET: read_postgis-style ReadSql… |
 
 ## Data source
 
