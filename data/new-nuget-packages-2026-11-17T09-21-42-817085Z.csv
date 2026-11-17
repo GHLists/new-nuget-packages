@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-17T08:19:39.663Z,DigiTFactory.Libraries.Analyzers.CrossCutting,0.4.0,DigiTFactory.Libraries.Analyzers.CrossCutting,Roslyn analyzers for cross-cutting rules (DigiTFactory EDM quality gates QG-6xx).
+2026-11-17T08:19:40.097Z,DigiTFactory.Libraries.Analyzers.Domain,0.6.0,DigiTFactory.Libraries.Analyzers.Domain,Roslyn analyzers for the Domain layer (DigiTFactory EDM quality gates QG-0xx).
+2026-11-17T08:19:48.03Z,DigiTFactory.Libraries.Analyzers.DomainServices,0.4.0,DigiTFactory.Libraries.Analyzers.DomainServices,Roslyn analyzers for the DomainServices layer (DigiTFactory EDM quality gates QG-1xx).
+2026-11-17T08:27:12.123Z,ParquetNeo.Extensions.DependencyInjection,0.2.0,Luigi Grilli,"Registers the metrics of ParquetNeo with Microsoft.Extensions.DependencyInjection, so that they take their meter from the container (IMeterFactory) and any OpenTelemetry or dotnet-counters setup of the application can collect them."
+2026-11-17T08:27:13.847Z,ParquetNeo.Storage.S3,0.2.0,Luigi Grilli,Reads Parquet files from Amazon S3 (and S3 compatible storage) for ParquetNeo: only the byte ranges that are needed are requested.
+2026-11-17T08:27:15.06Z,ParquetNeo.Storage.AzureBlobs,0.2.0,Luigi Grilli,Reads Parquet files from Azure Blob Storage for ParquetNeo: only the byte ranges that are needed are requested.
+2026-11-17T08:34:31.79Z,PeroTools2.PeroError,0.2.0,peropero,Result/Err style error handling for C#. Usable from Unity through Unity/Plugins.
+2026-11-17T08:42:03.607Z,Winche.Assets,1.0.0,Ehsan Rashidi,"Versioned app content (translations, pages, media): releases on channels, per-path rules, stored once by hash in a configurable location."
+2026-11-17T08:42:04.497Z,Winche.Assets.AspNetCore,1.0.0,Ehsan Rashidi,The /assets/v1 endpoints apps read Winche Assets from.
+2026-11-17T09:01:25.01Z,ESRP.Release.NuGet.ESRPRelease-BVT.Prod.Build212760,1.0.212760,Microsoft,Disposable package used to validate NuGet publishing through ESRP Release.
+2026-11-17T09:04:24.753Z,LifeOS.Pdf.All,1.1.0,Fajararifk,"Everything in one command: LifeOS.Pdf plus signing, rendering, barcode scanning, OCR and the combined scanner (.NET 8+)."
+2026-11-17T09:04:29.39Z,LifeOS.Pdf.Ocr,1.1.0,Fajararifk,OCR text from scanned PDFs and images using Tesseract (Apache-2.0).
+2026-11-17T09:04:31.56Z,LifeOS.Pdf.Rendering,1.1.0,Fajararifk,Render PDF pages to PNG using PDFium (Apache-2.0).
+2026-11-17T09:04:35.507Z,LifeOS.Pdf.Signing,1.1.0,Fajararifk,Digital signatures (PAdES / CMS / PKCS#7) for LifeOS.Pdf documents.
+2026-11-17T09:06:07.45Z,NwUi.AspNetCore,0.12.0,NetWasm.UI contributors,"Hosts a NetWasm.UI app in ASP.NET Core on the same origin: builds the client project into the server (NetWasmUIClientProject), serves it and its prerendered pages (MapNetWasmUI), and live-reloads the browser in development (UseNetWasmUIDevServer)."
