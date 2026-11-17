@@ -12,26 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 15:20 UTC
+## Latest list — 2026-11-17 16:21 UTC
 
-New packages created between 2026-11-17 14:19 UTC and 2026-11-17 15:20 UTC.
+New packages created between 2026-11-17 15:20 UTC and 2026-11-17 16:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T15-20-22-717051Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T16-21-16-000796Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 14:26:46 | [VL.Polynesia](https://www.nuget.org/packages/VL.Polynesia) | 0.36.244-preview | Polynesia | Integrated Polynesia rendering and Tide simulation nodes for vvvv gamma. Window… |
-| 2026-11-17 14:28:16 | [MailPier.Cli](https://www.nuget.org/packages/MailPier.Cli) | 0.1.0 | Solutions Group Unlimited LLC | The mailpier command: forward the webhooks your MailPier Inbox environment catc… |
-| 2026-11-17 14:31:59 | [Nanosandbox.Sdk](https://www.nuget.org/packages/Nanosandbox.Sdk) | 0.2.0 | DevDone Labs | BCL-only .NET protocol client for the nanosandbox helper (nanosb-protocol v1.0.… |
-| 2026-11-17 14:32:09 | [Wick.Core](https://www.nuget.org/packages/Wick.Core) | 1.0.0 | ivanjx | Fine-grained reactive state for .NET: tracked properties, collections, derived… |
-| 2026-11-17 14:32:10 | [Wick.Blazor](https://www.nuget.org/packages/Wick.Blazor) | 1.0.0 | ivanjx | Blazor components that re-render only when the Wick reactive state they read ch… |
-| 2026-11-17 14:35:22 | [Umbraco.Community.SuperValueConverters](https://www.nuget.org/packages/Umbraco.Community.SuperValueConverters) | 5.0.0 | Callum Whyte | A collection of powerful property value converters for cleaner code in Umbraco |
-| 2026-11-17 14:45:18 | [Gurux.MQTT.Avalonia](https://www.nuget.org/packages/Gurux.MQTT.Avalonia) | 9.0.2611.1701 | Gurux Ltd | Avalonia settings editor for Gurux MQTT media. |
-| 2026-11-17 14:45:35 | [Gurux.MQTT.Blazor](https://www.nuget.org/packages/Gurux.MQTT.Blazor) | 9.0.2611.1701 | Gurux Ltd | Optional Blazor settings components for Gurux media libraries. |
-| 2026-11-17 14:45:52 | [Gurux.MQTT.Maui](https://www.nuget.org/packages/Gurux.MQTT.Maui) | 9.0.2611.1701 | Gurux Ltd | Native MAUI settings editor for Gurux MQTT media. |
-| 2026-11-17 14:46:20 | [FileManagerNet](https://www.nuget.org/packages/FileManagerNet) | 1.0.0 | FileManagerNet Contributors | A free, open-source (MIT) Windows-Explorer-style file manager control for ASP.N… |
-| 2026-11-17 15:01:55 | [AshGodfrey.NugetTrustedPublishingSample](https://www.nuget.org/packages/AshGodfrey.NugetTrustedPublishingSample) | 0.0.1 | Speakeasy | Pet Store Sample: Sample API used to exercise NuGet trusted publishing from Git… |
-| 2026-11-17 15:10:48 | [MetadataSharp](https://www.nuget.org/packages/MetadataSharp) | 1.0.0 | SeNS | Reads image metadata (EXIF with MakerNotes, IPTC, XMP, ICC profiles, comments,… |
+| 2026-11-17 15:23:40 | [Exchange56.GeoZipcode.Components](https://www.nuget.org/packages/Exchange56.GeoZipcode.Components) | 1.0.0 | T.J. McNaboe | Blazor UI components for rendering Exchange56 Geo Zipcode. |
+| 2026-11-17 15:26:54 | [Exchange56.GeoZipcode.Components.Server](https://www.nuget.org/packages/Exchange56.GeoZipcode.Components.Server) | 1.0.1 | T.J. McNaboe | Server endpoints and methods for integrating with Exchange56 Geo Zipcode client. |
+| 2026-11-17 15:41:21 | [WeatherExtension](https://www.nuget.org/packages/WeatherExtension) | 0.1.0 | MjepWare | Current conditions and forecasts for WindowSill, with favorite locations, multi… |
+| 2026-11-17 15:42:42 | [Froststrap.DiscordRPC](https://www.nuget.org/packages/Froststrap.DiscordRPC) | 1.0.0 | Froststrap,Invra | A high-performance, Native AOT compatible Discord Rich Presence client for .NET… |
+| 2026-11-17 15:44:10 | [Burgr.Templates.Mini](https://www.nuget.org/packages/Burgr.Templates.Mini) | 1.9.0 | Damien Lechat | Burgr's default template set: an ASP.NET Core Minimal API with EF Core in one p… |
+| 2026-11-17 15:53:00 | [PicoCalcNano.Keyboard](https://www.nuget.org/packages/PicoCalcNano.Keyboard) | 0.1.0 | Stéphane Sibué | Keyboard driver for the Clockwork PicoCalc on .NET nanoFramework. Community pro… |
+| 2026-11-17 15:57:31 | [DubUrl.Parser](https://www.nuget.org/packages/DubUrl.Parser) | 0.69.0 | Cédric L. Charlier | Parses SQL check expressions into a DubUrl syntax tree. |
+| 2026-11-17 15:59:07 | [Dataverse.Fluent.Sales](https://www.nuget.org/packages/Dataverse.Fluent.Sales) | 1.0.0 | Craig Franchuk | Dynamics 365 Sales models and typed actions (QualifyLead, WinOpportunity, Close… |
+| 2026-11-17 15:59:08 | [Dataverse.Fluent](https://www.nuget.org/packages/Dataverse.Fluent) | 1.0.0 | Craig Franchuk | A fluent, strongly typed client for the Microsoft Dataverse Web API: LINQ-style… |
+| 2026-11-17 16:00:10 | [Gurux.Serial.Avalonia](https://www.nuget.org/packages/Gurux.Serial.Avalonia) | 9.0.2611.1706 | Gurux Ltd | Avalonia settings editor for Gurux Serial media. |
+| 2026-11-17 16:00:27 | [Gurux.Serial.Blazor](https://www.nuget.org/packages/Gurux.Serial.Blazor) | 9.0.2611.1706 | Gurux Ltd | Optional Blazor settings components for Gurux media libraries. |
+| 2026-11-17 16:00:52 | [Gurux.Net.Avalonia](https://www.nuget.org/packages/Gurux.Net.Avalonia) | 9.0.2611.1705 | Gurux Ltd | Avalonia settings editor for Gurux Net media. |
+| 2026-11-17 16:00:57 | [XConnect.Sdk](https://www.nuget.org/packages/XConnect.Sdk) | 2.1.0 | Chaitanya Krishna Jonnagaddala | A lightweight, trimming- and Native AOT-friendly .NET SDK for the X API v2: Pos… |
+| 2026-11-17 16:01:09 | [Gurux.Net.Blazor](https://www.nuget.org/packages/Gurux.Net.Blazor) | 9.0.2611.1705 | Gurux Ltd | Optional Blazor settings components for Gurux media libraries. |
+| 2026-11-17 16:01:25 | [Gurux.Net.Maui](https://www.nuget.org/packages/Gurux.Net.Maui) | 9.0.2611.1705 | Gurux Ltd | Native MAUI settings editor for Gurux Net media. |
+| 2026-11-17 16:05:49 | [PROBIS-ZUGFeRD.CDAR](https://www.nuget.org/packages/PROBIS-ZUGFeRD.CDAR) | 19.0.4 | Johannes Mauch | PROBIS-ZUGFeRD.CDAR: .NET library for reading and writing UN/CEFACT Cross Domai… |
+| 2026-11-17 16:15:05 | [NewLife.MySql.Zstd](https://www.nuget.org/packages/NewLife.MySql.Zstd) | 1.5.2026.1117-beta1… | 新生命开发团队 | NewLife.MySql 的可选 zstd 压缩包。需要 CompressionAlgorithm=zstd 时安装；核心驱动保持零第三方依赖。Option… |
 
 ## Data source
 

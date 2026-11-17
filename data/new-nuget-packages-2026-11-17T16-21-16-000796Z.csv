@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-17T15:23:40.59Z,Exchange56.GeoZipcode.Components,1.0.0,T.J. McNaboe,Blazor UI components for rendering Exchange56 Geo Zipcode.
+2026-11-17T15:26:54.307Z,Exchange56.GeoZipcode.Components.Server,1.0.1,T.J. McNaboe,Server endpoints and methods for integrating with Exchange56 Geo Zipcode client.
+2026-11-17T15:41:21.523Z,WeatherExtension,0.1.0,MjepWare,"Current conditions and forecasts for WindowSill, with favorite locations, multiple weather providers, rain alerts, and configurable units and refresh intervals."
+2026-11-17T15:42:42.68Z,Froststrap.DiscordRPC,1.0.0,"Froststrap,Invra","A high-performance, Native AOT compatible Discord Rich Presence client for .NET 10.0. Built with System.Text.Json Source Generation, zero reflection, and zero external dependencies."
+2026-11-17T15:44:10.147Z,Burgr.Templates.Mini,1.9.0,Damien Lechat,"Burgr's default template set: an ASP.NET Core Minimal API with EF Core in one project, generated from a YAML model, with its AI harness. Depends on public packages only."
+2026-11-17T15:53:00.187Z,PicoCalcNano.Keyboard,0.1.0,Stéphane Sibué,"Keyboard driver for the Clockwork PicoCalc on .NET nanoFramework. Community project, not affiliated with Clockwork."
+2026-11-17T15:57:31.463Z,DubUrl.Parser,0.69.0,Cédric L. Charlier,Parses SQL check expressions into a DubUrl syntax tree.
+2026-11-17T15:59:07.17Z,Dataverse.Fluent.Sales,1.0.0,Craig Franchuk,"Dynamics 365 Sales models and typed actions (QualifyLead, WinOpportunity, CloseIncident, ...) for Dataverse.Fluent."
+2026-11-17T15:59:08.03Z,Dataverse.Fluent,1.0.0,Craig Franchuk,"A fluent, strongly typed client for the Microsoft Dataverse Web API: LINQ-style queries, CRUD, upserts, batches, FetchXML, delta queries, actions and functions, with write-safe retries and no metadata download."
+2026-11-17T16:00:10.653Z,Gurux.Serial.Avalonia,9.0.2611.1706,Gurux Ltd,Avalonia settings editor for Gurux Serial media.
+2026-11-17T16:00:27.913Z,Gurux.Serial.Blazor,9.0.2611.1706,Gurux Ltd,Optional Blazor settings components for Gurux media libraries.
+2026-11-17T16:00:52.333Z,Gurux.Net.Avalonia,9.0.2611.1705,Gurux Ltd,Avalonia settings editor for Gurux Net media.
+2026-11-17T16:00:57.02Z,XConnect.Sdk,2.1.0,Chaitanya Krishna Jonnagaddala,"A lightweight, trimming- and Native AOT-friendly .NET SDK for the X API v2: Posts, media upload, users, engagement, Direct Messages, Lists, Spaces, search, streaming, webhooks and compliance, with OAuth 1.0a, OAuth 2.0 (PKCE) and app-only authentication. Unofficial; not affiliated with X Corp."
+2026-11-17T16:01:09.203Z,Gurux.Net.Blazor,9.0.2611.1705,Gurux Ltd,Optional Blazor settings components for Gurux media libraries.
+2026-11-17T16:01:25.96Z,Gurux.Net.Maui,9.0.2611.1705,Gurux Ltd,Native MAUI settings editor for Gurux Net media.
+2026-11-17T16:05:49.34Z,PROBIS-ZUGFeRD.CDAR,19.0.4,Johannes Mauch,"PROBIS-ZUGFeRD.CDAR: .NET library for reading and writing UN/CEFACT Cross Domain Acknowledgement and Response (CDAR) messages, the CII invoice response / lifecycle status message used by the French e-invoicing reform (cycle de vie, XP Z12-012). Creates CDAR messages from a PROBIS-ZUGFeRD InvoiceDes…"
+2026-11-17T16:15:05.51Z,NewLife.MySql.Zstd,1.5.2026.1117-beta1…,新生命开发团队,NewLife.MySql 的可选 zstd 压缩包。需要 CompressionAlgorithm=zstd 时安装；核心驱动保持零第三方依赖。Optional zstd compression provider for NewLife.MySql.
