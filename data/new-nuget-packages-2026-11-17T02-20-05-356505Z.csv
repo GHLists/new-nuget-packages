@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-17T01:22:32.46Z,GameEventScript.Syntax,0.5.0,Stephan Schlöpke,"GES lexer, parser and single-source validator, plus GES and GESA syntax highlighting for editors and terminals. Independent of Runtime and Compiler."
+2026-11-17T01:22:40.063Z,GameEventScript.Generator,0.5.0,Stephan Schlöpke,Game Event Script schema code generator: computes the generation layout of .gess schemas and writes typed C# and Swift record code. A build-time library that games never ship.
+2026-11-17T01:45:57.51Z,RyanZhang.MemoryHelper.Core,1.0.0,Ryan Zhang,SM-2 spaced repetition scheduler and ISrsItem abstraction used by MemoryHelper and MemoryPalace.
+2026-11-17T01:54:36.543Z,Hmz.Core.Realtime,0.1.0,Hmz,"Reusable realtime delivery engine for Hmz backends on ASP.NET Core: a best-effort publisher, an in-process backplane and one multiplexed server-sent events stream per client, each replaceable by an adapter package."
+2026-11-17T01:54:37.437Z,Hmz.Core.Realtime.Abstractions,0.1.0,Hmz,"Contracts of the Hmz realtime engine: the best-effort publisher, audiences, pre-serialized events, the cross-instance backplane, the transport seam, presence and the per-connection event authorizer. No ASP.NET Core dependency."
+2026-11-17T01:59:43.243Z,Azure.Connectors.Sdk,1.0.0,Microsoft,Lightweight SDK for building typed connectors for Azure
+2026-11-17T02:01:34.647Z,Great.Parts.Cel,1.0.0,The Great.Parts Authors,"Common Expression Language (CEL) for .NET 10 and .NET 11: compile and evaluate CEL expressions, with a source generator for typed objects and Native AOT support."
+2026-11-17T02:01:35.11Z,Great.Parts.Cel.Protobuf,1.0.0,The Great.Parts Authors,Protocol Buffers support for Great.Parts.Cel: use protobuf messages and well-known types as values in CEL expressions.
