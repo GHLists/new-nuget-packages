@@ -12,47 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 06:19 UTC
+## Latest list — 2026-11-17 07:20 UTC
 
-New packages created between 2026-11-17 05:19 UTC and 2026-11-17 06:19 UTC.
+New packages created between 2026-11-17 06:19 UTC and 2026-11-17 07:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T06-19-15-979192Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T07-20-31-074484Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 05:32:34 | [Tetitulz.Pdf.Plugins.EthereumSign](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.EthereumSign) | 1.1.5 | Tamir Mordo | Anchors a Tetitulz.Pdf document hash on an Ethereum chain and verifies it. Isol… |
-| 2026-11-17 05:32:34 | [Tetitulz.Pdf.Signing](https://www.nuget.org/packages/Tetitulz.Pdf.Signing) | 1.1.5 | Tamir Mordo | Digital signatures for Tetitulz.Pdf: CMS and PAdES signing and verification, de… |
-| 2026-11-17 05:32:35 | [Tetitulz.Pdf.Encryption](https://www.nuget.org/packages/Tetitulz.Pdf.Encryption) | 1.1.5 | Tamir Mordo | Decryption and encryption for Tetitulz.Pdf - RC4 and AES handlers, /Perms valid… |
-| 2026-11-17 05:32:36 | [Tetitulz.Pdf.Plugins.Html](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Html) | 1.1.5 | Tamir Mordo | Exposes the Tetitulz.Pdf HTML converter as an import/export plugin, and convert… |
-| 2026-11-17 05:32:36 | [Tetitulz.Pdf.Plugins.Templating](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Templating) | 1.1.5 | Tamir Mordo | Fills a PDF template from a name-to-value map - named AcroForm fields and liter… |
-| 2026-11-17 05:32:37 | [Tetitulz.Pdf.Plugins.PostScript](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.PostScript) | 1.1.5 | Tamir Mordo | A pure-managed PostScript interpreter for Tetitulz.Pdf, used for Type 4 (PostSc… |
-| 2026-11-17 05:32:38 | [Tetitulz.Pdf.Plugins.Fonts](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Fonts) | 1.1.5 | Tamir Mordo | Bundled fonts for Tetitulz.Pdf: Liberation Sans, Serif and Mono (the metric-com… |
-| 2026-11-17 05:32:39 | [Tetitulz.Pdf.Plugins.PageEdits](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.PageEdits) | 1.1.5 | Tamir Mordo | Page-level editing for Tetitulz.Pdf: merge, split, and true redaction that remo… |
-| 2026-11-17 05:32:39 | [Tetitulz.Pdf.Plugins.Renderers](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Renderers) | 1.1.5 | Tamir Mordo | Registers the Tetitulz.Pdf SkiaSharp renderer for string-keyed discovery, for h… |
-| 2026-11-17 05:32:40 | [Tetitulz.Pdf.Plugins.HtmlScript](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.HtmlScript) | 1.1.5 | Tamir Mordo | Runs a page's own JavaScript for the managed HTML-to-PDF engine, so the laid-ou… |
-| 2026-11-17 05:32:41 | [Tetitulz.Pdf.Accessibility](https://www.nuget.org/packages/Tetitulz.Pdf.Accessibility) | 1.1.5 | Tamir Mordo | Full PDF accessibility plugin: audit, edit, auto-tag, fix reading order, and ma… |
-| 2026-11-17 05:32:42 | [Tetitulz.Pdf.Core](https://www.nuget.org/packages/Tetitulz.Pdf.Core) | 1.1.5 | Tamir Mordo | The Tetitulz.Pdf object model, parser, stream filters, font programs and writin… |
-| 2026-11-17 05:32:43 | [Tetitulz.Pdf.Plugins.JavaScript](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.JavaScript) | 1.1.5 | Tamir Mordo | Runs a document's embedded JavaScript (form calculations, validation, actions)… |
-| 2026-11-17 05:32:43 | [Tetitulz.Pdf.Plugins.Ocr](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Ocr) | 1.1.5 | Tamir Mordo | OCR for Tetitulz.Pdf - recognises text on scanned pages and writes an invisible… |
-| 2026-11-17 05:32:44 | [Tetitulz.Pdf.Plugins.Maintenance](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Maintenance) | 1.1.5 | Tamir Mordo | Document maintenance for Tetitulz.Pdf: size optimisation, image recompression,… |
-| 2026-11-17 05:32:45 | [Tetitulz.Pdf.Plugins.Svg](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Svg) | 1.1.5 | Tamir Mordo | Exposes Tetitulz.Pdf's vector SVG page export as an export plugin. |
-| 2026-11-17 05:32:45 | [Tetitulz.Pdf.Plugins.SignatureVerify](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.SignatureVerify) | 1.1.5 | Tamir Mordo | Registers Tetitulz.Pdf signature verification for string-keyed discovery, for h… |
-| 2026-11-17 05:32:46 | [Tetitulz.Pdf.Plugins.Docx](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Docx) | 1.1.5 | Tamir Mordo | Exposes the Tetitulz.Pdf DOCX converters as import/export plugins, and adds PDF… |
-| 2026-11-17 05:32:47 | [Tetitulz.Pdf.Plugins.Text](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Text) | 1.1.5 | Tamir Mordo | Exposes Tetitulz.Pdf's text extraction as an export plugin. |
-| 2026-11-17 05:32:48 | [Tetitulz.Pdf.Base](https://www.nuget.org/packages/Tetitulz.Pdf.Base) | 1.1.5 | Tamir Mordo | Rendering and high-level document operations for Tetitulz.Pdf: raster and SVG p… |
-| 2026-11-17 05:32:49 | [Tetitulz.Pdf.Plugins.CMap](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.CMap) | 1.1.5 | Tamir Mordo | Adobe predefined CMap data for Tetitulz.Pdf. Mechanism lives in Core; this pack… |
-| 2026-11-17 05:32:49 | [Tetitulz.Pdf.Plugins.HtmlBrowser](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.HtmlBrowser) | 1.1.5 | Tamir Mordo | Browser-backed HTML to PDF for Tetitulz.Pdf, for pages that need a real layout… |
-| 2026-11-17 05:32:50 | [Tetitulz.Pdf.HtmlToPdf](https://www.nuget.org/packages/Tetitulz.Pdf.HtmlToPdf) | 1.1.5 | Tamir Mordo | Converts HTML (and Markdown) to PDF for Tetitulz.Pdf, laid out onto the Builder… |
-| 2026-11-17 05:32:51 | [Tetitulz.Pdf.Builder](https://www.nuget.org/packages/Tetitulz.Pdf.Builder) | 1.1.5 | Tamir Mordo | Code-first document creation for Tetitulz.Pdf: build a document once and export… |
-| 2026-11-17 05:32:52 | [Tetitulz.Pdf.DocxToPdf](https://www.nuget.org/packages/Tetitulz.Pdf.DocxToPdf) | 1.1.5 | Tamir Mordo | Converts DOCX to PDF for Tetitulz.Pdf, through a hand-written mapper onto the B… |
-| 2026-11-17 05:32:52 | [Tetitulz.Pdf.Plugins.CertStoreSign](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.CertStoreSign) | 1.1.5 | Tamir Mordo | Signs PDFs with a certificate from the operating system's certificate store, in… |
-| 2026-11-17 05:32:53 | [Tetitulz.Pdf.Plugins.Conformance](https://www.nuget.org/packages/Tetitulz.Pdf.Plugins.Conformance) | 1.1.5 | Tamir Mordo | PDF/A, PDF/X and PDF/UA validation and conversion for Tetitulz.Pdf, plus the di… |
-| 2026-11-17 05:33:24 | [dpdpTestPck](https://www.nuget.org/packages/dpdpTestPck) | 1.0.0 | InsureRobo | Simple hello-world library |
-| 2026-11-17 05:49:30 | [Devinno.Vision](https://www.nuget.org/packages/Devinno.Vision) | 0.1.0 | Devinno | Thin vision inspection framework over OpenCvSharp4 — images with automatic disp… |
-| 2026-11-17 05:49:32 | [Devinno.Vision.UI](https://www.nuget.org/packages/Devinno.Vision.UI) | 0.1.0 | Devinno | Result view for Devinno.Vision on Devinno.UI — image, overlays, judgment, disab… |
-| 2026-11-17 05:49:33 | [Devinno.Vision.FlashCap](https://www.nuget.org/packages/Devinno.Vision.FlashCap) | 0.1.0 | Devinno | UVC camera driver for Devinno.Vision, based on FlashCap. |
-| 2026-11-17 06:01:13 | [Chime.Wire](https://www.nuget.org/packages/Chime.Wire) | 1.0.0 | v.la@live.cn | Chime |
-| 2026-11-17 06:01:22 | [Chime.Client](https://www.nuget.org/packages/Chime.Client) | 1.0.0 | v.la@live.cn | Chime |
+| 2026-11-17 06:22:29 | [Gnar.Enver.Extensions.Options](https://www.nuget.org/packages/Gnar.Enver.Extensions.Options) | 2.0.0 | Gnar Software LLC | Microsoft.Extensions.Options integration for Enver.Binding. Binds [EnvBindable]… |
+| 2026-11-17 06:22:30 | [Gnar.Enver.Extensions](https://www.nuget.org/packages/Gnar.Enver.Extensions) | 2.0.0 | Gnar Software LLC | Everything for using Enver in an app built on Microsoft.Extensions: load .env f… |
+| 2026-11-17 06:38:19 | [AutoRegisterDependency.Core](https://www.nuget.org/packages/AutoRegisterDependency.Core) | 1.0.0 | tengfei8771 | Attribute-driven dependency injection on top of Autofac. Mark a class with [Com… |
+| 2026-11-17 06:38:27 | [AutoRegisterDependency.Extension.Interception](https://www.nuget.org/packages/AutoRegisterDependency.Extension.Interception) | 1.0.0 | tengfei8771 | Castle DynamicProxy based method interception for AutoRegisterDependency. Deriv… |
+| 2026-11-17 06:38:29 | [AutoRegisterDependency.Extension.Quartz.Abstractions](https://www.nuget.org/packages/AutoRegisterDependency.Extension.Quartz.Abstractions) | 1.0.0 | tengfei8771 | Shared Quartz integration abstractions for AutoRegisterDependency: the [Job] at… |
+| 2026-11-17 06:38:32 | [AutoRegisterDependency.Extension.Configuration](https://www.nuget.org/packages/AutoRegisterDependency.Extension.Configuration) | 1.0.0 | tengfei8771 | [Configuration] / [Bean] / [Value] / [ConfigurationProperties] / [Profile] for… |
+| 2026-11-17 06:38:35 | [AutoRegisterDependency.Extension.EventBus](https://www.nuget.org/packages/AutoRegisterDependency.Extension.EventBus) | 1.0.0 | tengfei8771 | In-process event bus for AutoRegisterDependency. Publish/subscribe with auto-di… |
+| 2026-11-17 06:38:37 | [AutoRegisterDependency.Extension.AggregateService](https://www.nuget.org/packages/AutoRegisterDependency.Extension.AggregateService) | 1.0.0 | tengfei8771 | Aggregate several registered services behind one interface for AutoRegisterDepe… |
+| 2026-11-17 06:38:40 | [AutoRegisterDependency.Extension.Transactional](https://www.nuget.org/packages/AutoRegisterDependency.Extension.Transactional) | 1.0.0 | tengfei8771 | Declarative transactions for AutoRegisterDependency. Mark a class or method wit… |
+| 2026-11-17 06:38:42 | [AutoRegisterDependency.Extension.Quartz3](https://www.nuget.org/packages/AutoRegisterDependency.Extension.Quartz3) | 1.0.0 | tengfei8771 | Quartz.NET 3.x scheduling for AutoRegisterDependency, targeting netstandard2.0… |
+| 2026-11-17 06:38:45 | [AutoRegisterDependency.Extension.Quartz4](https://www.nuget.org/packages/AutoRegisterDependency.Extension.Quartz4) | 1.0.0 | tengfei8771 | Quartz.NET 4.x scheduling for AutoRegisterDependency, targeting net10.0 — the o… |
+| 2026-11-17 06:49:08 | [Vedhaai.MCPWatch](https://www.nuget.org/packages/Vedhaai.MCPWatch) | 0.1.0 | vedhaai | MCPWatch security guard for MCP servers written in C# or VB.NET, on .NET Framew… |
+| 2026-11-17 06:51:10 | [Haukcode.Rdm](https://www.nuget.org/packages/Haukcode.Rdm) | 6.0.152 | Hakan Lindestaf | Transport-independent ANSI E1.20 RDM library for .NET (.NET8+): packet building… |
+| 2026-11-17 06:55:10 | [UvA.GLASS.Analyzers](https://www.nuget.org/packages/UvA.GLASS.Analyzers) | 0.1.0 | UvA.GLASS.Analyzers | Package Description |
+| 2026-11-17 07:10:02 | [LCS.BuildTools](https://www.nuget.org/packages/LCS.BuildTools) | 26.11.10 | McHarnyPEP | Dotnet tool for various build tasks |
+| 2026-11-17 07:10:10 | [Transmitly.Client](https://www.nuget.org/packages/Transmitly.Client) | 1.0.0 | Swift Nodes LLC | Dependency-free .NET client for the Transmitly email API |
+| 2026-11-17 07:12:05 | [AiraysSdk](https://www.nuget.org/packages/AiraysSdk) | 1.0.1 | R. Tuğrul Altın | Airays Ticket Hotel API SDK for external integrations. |
 
 ## Data source
 
