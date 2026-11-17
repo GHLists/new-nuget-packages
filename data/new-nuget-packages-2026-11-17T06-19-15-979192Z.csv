@@ -1,0 +1,34 @@
+created_at,package,version,authors,description
+2026-11-17T05:32:34.12Z,Tetitulz.Pdf.Plugins.EthereumSign,1.1.5,Tamir Mordo,Anchors a Tetitulz.Pdf document hash on an Ethereum chain and verifies it. Isolates Nethereum from the core package graph.
+2026-11-17T05:32:34.827Z,Tetitulz.Pdf.Signing,1.1.5,Tamir Mordo,"Digital signatures for Tetitulz.Pdf: CMS and PAdES signing and verification, deferred (two-phase) signing for remote signers and HSMs, RFC 3161 timestamps, DSS/LTV evidence and DocMDP."
+2026-11-17T05:32:35.523Z,Tetitulz.Pdf.Encryption,1.1.5,Tamir Mordo,"Decryption and encryption for Tetitulz.Pdf - RC4 and AES handlers, /Perms validation, and the two supported routes for editing an encrypted document (encrypted incremental update, or a full decrypt-operate-re-encrypt round trip)."
+2026-11-17T05:32:36.18Z,Tetitulz.Pdf.Plugins.Html,1.1.5,Tamir Mordo,"Exposes the Tetitulz.Pdf HTML converter as an import/export plugin, and converts a PDF to HTML."
+2026-11-17T05:32:36.883Z,Tetitulz.Pdf.Plugins.Templating,1.1.5,Tamir Mordo,"Fills a PDF template from a name-to-value map - named AcroForm fields and literal {{token}} text alike, including text inside a Form XObject, with full RTL support."
+2026-11-17T05:32:37.773Z,Tetitulz.Pdf.Plugins.PostScript,1.1.5,Tamir Mordo,"A pure-managed PostScript interpreter for Tetitulz.Pdf, used for Type 4 (PostScript calculator) functions and PostScript-to-PDF conversion."
+2026-11-17T05:32:38.703Z,Tetitulz.Pdf.Plugins.Fonts,1.1.5,Tamir Mordo,"Bundled fonts for Tetitulz.Pdf: Liberation Sans, Serif and Mono (the metric-compatible stand-ins for the standard 14) and Noto Sans Hebrew and Arabic, under the SIL Open Font License. The mechanism lives in Core (FontSearchPath); this package carries the font files and registers the directory it ex…"
+2026-11-17T05:32:39.33Z,Tetitulz.Pdf.Plugins.PageEdits,1.1.5,Tamir Mordo,"Page-level editing for Tetitulz.Pdf: merge, split, and true redaction that removes content rather than covering it."
+2026-11-17T05:32:39.98Z,Tetitulz.Pdf.Plugins.Renderers,1.1.5,Tamir Mordo,"Registers the Tetitulz.Pdf SkiaSharp renderer for string-keyed discovery, for hosts that select a renderer at run time."
+2026-11-17T05:32:40.833Z,Tetitulz.Pdf.Plugins.HtmlScript,1.1.5,Tamir Mordo,"Runs a page's own JavaScript for the managed HTML-to-PDF engine, so the laid-out page is the one its scripts produced (jQuery ready handlers and the like). Sandboxed; isolates Jint and AngleSharp.Js from the core package graph."
+2026-11-17T05:32:41.697Z,Tetitulz.Pdf.Accessibility,1.1.5,Tamir Mordo,"Full PDF accessibility plugin: audit, edit, auto-tag, fix reading order, and mark artifacts for PDF/UA-1 compliance."
+2026-11-17T05:32:42.49Z,Tetitulz.Pdf.Core,1.1.5,Tamir Mordo,"The Tetitulz.Pdf object model, parser, stream filters, font programs and writing primitives. No SkiaSharp and no UI - this is the layer every other package is built on."
+2026-11-17T05:32:43.147Z,Tetitulz.Pdf.Plugins.JavaScript,1.1.5,Tamir Mordo,"Runs a document's embedded JavaScript (form calculations, validation, actions) for Tetitulz.Pdf, sandboxed under memory, time and recursion limits. Isolates Jint from the core package graph."
+2026-11-17T05:32:43.813Z,Tetitulz.Pdf.Plugins.Ocr,1.1.5,Tamir Mordo,OCR for Tetitulz.Pdf - recognises text on scanned pages and writes an invisible searchable text layer. Isolates Tesseract from the core package graph.
+2026-11-17T05:32:44.57Z,Tetitulz.Pdf.Plugins.Maintenance,1.1.5,Tamir Mordo,"Document maintenance for Tetitulz.Pdf: size optimisation, image recompression, linearisation and sanitising."
+2026-11-17T05:32:45.197Z,Tetitulz.Pdf.Plugins.Svg,1.1.5,Tamir Mordo,Exposes Tetitulz.Pdf's vector SVG page export as an export plugin.
+2026-11-17T05:32:45.93Z,Tetitulz.Pdf.Plugins.SignatureVerify,1.1.5,Tamir Mordo,"Registers Tetitulz.Pdf signature verification for string-keyed discovery, for hosts that select a verifier at run time."
+2026-11-17T05:32:46.59Z,Tetitulz.Pdf.Plugins.Docx,1.1.5,Tamir Mordo,"Exposes the Tetitulz.Pdf DOCX converters as import/export plugins, and adds PDF to DOCX, XLSX and PPTX conversion. Isolates DocumentFormat.OpenXml from the core package graph."
+2026-11-17T05:32:47.23Z,Tetitulz.Pdf.Plugins.Text,1.1.5,Tamir Mordo,Exposes Tetitulz.Pdf's text extraction as an export plugin.
+2026-11-17T05:32:48.253Z,Tetitulz.Pdf.Base,1.1.5,Tamir Mordo,"Rendering and high-level document operations for Tetitulz.Pdf: raster and SVG page rendering, text and table extraction, AcroForm filling and flattening, redaction, annotations, bookmarks and image editing."
+2026-11-17T05:32:49.21Z,Tetitulz.Pdf.Plugins.CMap,1.1.5,Tamir Mordo,"Adobe predefined CMap data for Tetitulz.Pdf. Mechanism lives in Core; this package carries the embedded CMap payload and registers it, so CJK encodings resolve without bloating the core package."
+2026-11-17T05:32:49.903Z,Tetitulz.Pdf.Plugins.HtmlBrowser,1.1.5,Tamir Mordo,"Browser-backed HTML to PDF for Tetitulz.Pdf, for pages that need a real layout engine and script execution. Isolates Microsoft.Playwright from the core package graph."
+2026-11-17T05:32:50.51Z,Tetitulz.Pdf.HtmlToPdf,1.1.5,Tamir Mordo,"Converts HTML (and Markdown) to PDF for Tetitulz.Pdf, laid out onto the Builder document model."
+2026-11-17T05:32:51.277Z,Tetitulz.Pdf.Builder,1.1.5,Tamir Mordo,"Code-first document creation for Tetitulz.Pdf: build a document once and export it as PDF, DOCX, HTML or ODT."
+2026-11-17T05:32:52.007Z,Tetitulz.Pdf.DocxToPdf,1.1.5,Tamir Mordo,"Converts DOCX to PDF for Tetitulz.Pdf, through a hand-written mapper onto the Builder document model or an external LibreOffice engine."
+2026-11-17T05:32:52.73Z,Tetitulz.Pdf.Plugins.CertStoreSign,1.1.5,Tamir Mordo,"Signs PDFs with a certificate from the operating system's certificate store, including smart cards and HSMs whose private key never leaves the device."
+2026-11-17T05:32:53.47Z,Tetitulz.Pdf.Plugins.Conformance,1.1.5,Tamir Mordo,"PDF/A, PDF/X and PDF/UA validation and conversion for Tetitulz.Pdf, plus the dictionary-level accessibility checks and their fixer."
+2026-11-17T05:33:24.637Z,dpdpTestPck,1.0.0,InsureRobo,Simple hello-world library
+2026-11-17T05:49:30.743Z,Devinno.Vision,0.1.0,Devinno,"Thin vision inspection framework over OpenCvSharp4 — images with automatic disposal and coordinate tracking, inspection jobs with steps, ROI, timeouts and uniform results, a camera interface, a small toolkit and recipes made in a teaching tool. The result view for Devinno.UI is Devinno.Vision.UI; U…"
+2026-11-17T05:49:32.9Z,Devinno.Vision.UI,0.1.0,Devinno,"Result view for Devinno.Vision on Devinno.UI — image, overlays, judgment, disabled-step warning and ROI drag editing."
+2026-11-17T05:49:33.997Z,Devinno.Vision.FlashCap,0.1.0,Devinno,"UVC camera driver for Devinno.Vision, based on FlashCap."
+2026-11-17T06:01:13.34Z,Chime.Wire,1.0.0,v.la@live.cn,Chime
+2026-11-17T06:01:22.957Z,Chime.Client,1.0.0,v.la@live.cn,Chime
