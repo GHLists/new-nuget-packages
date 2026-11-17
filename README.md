@@ -12,40 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 12:18 UTC
+## Latest list — 2026-11-17 13:20 UTC
 
-New packages created between 2026-11-17 11:19 UTC and 2026-11-17 12:18 UTC.
+New packages created between 2026-11-17 12:18 UTC and 2026-11-17 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T12-18-37-52084Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T13-20-12-453281Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 11:23:01 | [Nullean.Snapshots.Objects](https://www.nuget.org/packages/Nullean.Snapshots.Objects) | 0.17.0 | Nullean and contributors | Object-graph snapshots for Nullean.Snapshots: any object dumped by reflection a… |
-| 2026-11-17 11:25:06 | [Webority.BrowserJobs](https://www.nuget.org/packages/Webority.BrowserJobs) | 5.0.2 | Webority Technologies | Sends browser jobs from Azure apps to the Webority browser job service through… |
-| 2026-11-17 11:32:45 | [Struttura.Blazor](https://www.nuget.org/packages/Struttura.Blazor) | 0.2.2 | Struttura Contributors | Blazor color palettes and runtime theme switching. |
-| 2026-11-17 11:48:14 | [Foxtail](https://www.nuget.org/packages/Foxtail) | 4.0.0 | The Ameed | Package Description |
-| 2026-11-17 11:50:56 | [Basilisque.Base.Auth.DataAccess.EntityFramework.SqlServer](https://www.nuget.org/packages/Basilisque.Base.Auth.DataAccess.EntityFramework.SqlServer) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:50:58 | [Basilisque.Base.Auth.Client.Credentials.DataProtection](https://www.nuget.org/packages/Basilisque.Base.Auth.Client.Credentials.DataProtection) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:50:59 | [Basilisque.Base.Auth.DataAccess.EntityFramework.SQLite](https://www.nuget.org/packages/Basilisque.Base.Auth.DataAccess.EntityFramework.SQLite) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:51:00 | [Basilisque.Base.Auth.DataAccess.EntityFramework.PostgreSQL](https://www.nuget.org/packages/Basilisque.Base.Auth.DataAccess.EntityFramework.PostgreSQL) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:51:00 | [Basilisque.Base.Auth.Client](https://www.nuget.org/packages/Basilisque.Base.Auth.Client) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:51:01 | [Basilisque.Base.Auth.Server](https://www.nuget.org/packages/Basilisque.Base.Auth.Server) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:51:02 | [Basilisque.Base.Auth.Abstractions](https://www.nuget.org/packages/Basilisque.Base.Auth.Abstractions) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:51:03 | [Basilisque.Base.Auth.DataAccess.EntityFramework.Relational](https://www.nuget.org/packages/Basilisque.Base.Auth.DataAccess.EntityFramework.Relational) | 1.0.0-Preview00006 | Alexander Stärk | Provides OpenIddict-based machine-to-machine authentication and extensible prod… |
-| 2026-11-17 11:51:47 | [SoftingIndustrial.OpcUa.Opc.Ua.Client](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Client) | 1.5.376.1073 | SoftingIndustrial | OPC UA Client Class Library |
-| 2026-11-17 11:51:50 | [SoftingIndustrial.OpcUa.Opc.Ua.Client.ComplexTypes](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Client.ComplexTypes) | 1.5.376.1073 | SoftingIndustrial | OPC UA Complex Types Client Class Library |
-| 2026-11-17 11:51:52 | [SoftingIndustrial.OpcUa.Opc.Ua.Configuration](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Configuration) | 1.5.376.1073 | SoftingIndustrial | OPC UA Configuration Class Library |
-| 2026-11-17 11:51:55 | [SoftingIndustrial.OpcUa.Opc.Ua.Core](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Core) | 1.5.376.1073 | SoftingIndustrial | OPC UA Core Class Library |
-| 2026-11-17 11:51:58 | [SoftingIndustrial.OpcUa.Opc.Ua.Gds.Client.Common](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Gds.Client.Common) | 1.5.376.1073 | SoftingIndustrial | OPC UA GDS Client Class Library |
-| 2026-11-17 11:52:00 | [SoftingIndustrial.OpcUa.Opc.Ua.Gds.Server.Common](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Gds.Server.Common) | 1.5.376.1073 | SoftingIndustrial | OPC UA GDS Server Class Library |
-| 2026-11-17 11:52:02 | [SoftingIndustrial.OpcUa.Opc.Ua.PubSub](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.PubSub) | 1.5.376.1073-beta | SoftingIndustrial | OPC UA PubSub Class Library |
-| 2026-11-17 11:52:05 | [SoftingIndustrial.OpcUa.Opc.Ua.Security.Certificates](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Security.Certificates) | 1.5.376.1073 | SoftingIndustrial | OPC UA Security X509 Certificates Class Library |
-| 2026-11-17 11:52:07 | [SoftingIndustrial.OpcUa.Opc.Ua.Server](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua.Server) | 1.5.376.1073 | SoftingIndustrial | OPC UA Server Class Library |
-| 2026-11-17 11:52:09 | [SoftingIndustrial.OpcUa.Opc.Ua](https://www.nuget.org/packages/SoftingIndustrial.OpcUa.Opc.Ua) | 1.5.376.1073 | SoftingIndustrial | This package contains the OPC UA reference implementation and is targeting the… |
-| 2026-11-17 11:54:02 | [Jazor.LibNode.linux-arm64](https://www.nuget.org/packages/Jazor.LibNode.linux-arm64) | 0.2.0 | developerhan | Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi. |
-| 2026-11-17 11:54:07 | [Jazor.LibNode.win-arm64](https://www.nuget.org/packages/Jazor.LibNode.win-arm64) | 0.2.0 | developerhan | Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi. |
-| 2026-11-17 11:57:21 | [OpenDCP.Framework.DataTypes.Equipment](https://www.nuget.org/packages/OpenDCP.Framework.DataTypes.Equipment) | 0.3.0 | OpenDCP.Framework.DataTypes.E… | Package Description |
-| 2026-11-17 12:02:59 | [CryptoService.Sdk](https://www.nuget.org/packages/CryptoService.Sdk) | 0.0.40 | Sebastien Rousseau | Typed .NET client for the Crypto Service REST API (crypto-server v2): hashing,… |
+| 2026-11-17 12:19:39 | [OpenDCP.Framework.CalculationNode](https://www.nuget.org/packages/OpenDCP.Framework.CalculationNode) | 0.8.1 | OpenDCP.Framework.Calculation… | Package Description |
+| 2026-11-17 12:26:19 | [haruspex](https://www.nuget.org/packages/haruspex) | 0.0.0-placeholder | Richard Baker | Types across the database boundary: SQL Server database projects to TypeScript.… |
+| 2026-11-17 12:28:54 | [Sharplight.Import.F5Tts](https://www.nuget.org/packages/Sharplight.Import.F5Tts) | 0.2.0 | Sharplight contributors | F5-TTS importer for Sharplight: reads the F5-TTS flow-matching text-to-speech c… |
+| 2026-11-17 12:28:55 | [Sharplight.Hosting](https://www.nuget.org/packages/Sharplight.Hosting) | 0.2.0 | Sharplight contributors | Hosting for Sharplight models in servers and apps: a ModelHost built from optio… |
+| 2026-11-17 12:28:55 | [Sharplight.Import.CosyVoice](https://www.nuget.org/packages/Sharplight.Import.CosyVoice) | 0.2.0 | Sharplight contributors | CosyVoice importer for Sharplight: reads FunAudioLLM's Fun-CosyVoice3 text-to-s… |
+| 2026-11-17 12:28:58 | [Sharplight.Video](https://www.nuget.org/packages/Sharplight.Video) | 0.2.0 | Sharplight contributors | Video encoding and decoding for Sharplight with bundled LGPL FFmpeg libraries (… |
+| 2026-11-17 12:28:58 | [Sharplight.Import.Ultralytics](https://www.nuget.org/packages/Sharplight.Import.Ultralytics) | 0.2.0 | Sharplight contributors | Ultralytics YOLO importer for Sharplight: reads the ONNX exports of YOLOv8, YOL… |
+| 2026-11-17 12:28:59 | [Sharplight.Import.Snac](https://www.nuget.org/packages/Sharplight.Import.Snac) | 0.2.0 | Sharplight contributors | SNAC importer for Sharplight: reads the multi-scale neural audio codec checkpoi… |
+| 2026-11-17 12:29:00 | [Sharplight.Import.Chatterbox](https://www.nuget.org/packages/Sharplight.Import.Chatterbox) | 0.2.0 | Sharplight contributors | Chatterbox importer for Sharplight: reads Resemble AI's Chatterbox text-to-spee… |
+| 2026-11-17 12:29:01 | [Sharplight.Import.Kokoro](https://www.nuget.org/packages/Sharplight.Import.Kokoro) | 0.2.0 | Sharplight contributors | Kokoro importer for Sharplight: reads the Kokoro-82M text-to-speech checkpoint… |
+| 2026-11-17 12:29:03 | [Sharplight.DesignTokens](https://www.nuget.org/packages/Sharplight.DesignTokens) | 0.2.0 | Sharplight contributors | The Sharplight design tokens for web UIs: CSS custom properties (colours for da… |
+| 2026-11-17 12:29:04 | [Sharplight.Vulkan.MoltenVK](https://www.nuget.org/packages/Sharplight.Vulkan.MoltenVK) | 0.2.0 | Sharplight contributors | MoltenVK (Vulkan on Metal) for Sharplight.Vulkan on macOS Apple Silicon: libMol… |
+| 2026-11-17 12:29:05 | [Sharplight.Import.HuggingFace](https://www.nuget.org/packages/Sharplight.Import.HuggingFace) | 0.2.0 | Sharplight contributors | Hugging Face checkpoint importer (safetensors + config.json + tokenizer files)… |
+| 2026-11-17 12:31:31 | [Lumen.Templates](https://www.nuget.org/packages/Lumen.Templates) | 0.1.0 | HinaKalo | dotnet new templates for Avalonia 12 apps built with Lumen.UI: lumen-app (AppSh… |
+| 2026-11-17 12:31:32 | [Lumen.UI](https://www.nuget.org/packages/Lumen.UI) | 0.1.0 | HinaKalo | A modern, token-driven component library for Avalonia built on top of FluentThe… |
+| 2026-11-17 12:55:23 | [OpenDCP.Framework.DataTypes.Analytical](https://www.nuget.org/packages/OpenDCP.Framework.DataTypes.Analytical) | 0.3.0 | OpenDCP.Framework.DataTypes.A… | Package Description |
+| 2026-11-17 12:55:59 | [Lifeblood.any](https://www.nuget.org/packages/Lifeblood.any) | 0.7.14 | DAWG Tools | Roslyn powered C# and Unity code analysis CLI for semantic graphs, architecture… |
+| 2026-11-17 12:56:01 | [Lifeblood.win-x64](https://www.nuget.org/packages/Lifeblood.win-x64) | 0.7.14 | DAWG Tools | Roslyn powered C# and Unity code analysis CLI for semantic graphs, architecture… |
 
 ## Data source
 
