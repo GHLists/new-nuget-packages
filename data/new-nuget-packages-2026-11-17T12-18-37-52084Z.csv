@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-17T11:23:01.517Z,Nullean.Snapshots.Objects,0.17.0,Nullean and contributors,"Object-graph snapshots for Nullean.Snapshots: any object dumped by reflection as YAML, cycles and unordered sets handled, so a new property shows up as a diff by path."
+2026-11-17T11:25:06.74Z,Webority.BrowserJobs,5.0.2,Webority Technologies,"Sends browser jobs from Azure apps to the Webority browser job service through a storage queue and reads their results, with the caller's running and daily quotas applied."
+2026-11-17T11:32:45.147Z,Struttura.Blazor,0.2.2,Struttura Contributors,Blazor color palettes and runtime theme switching.
+2026-11-17T11:48:14.183Z,Foxtail,4.0.0,The Ameed,Package Description
+2026-11-17T11:50:56.93Z,Basilisque.Base.Auth.DataAccess.EntityFramework.SqlServer,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:50:58.29Z,Basilisque.Base.Auth.Client.Credentials.DataProtection,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:50:59.197Z,Basilisque.Base.Auth.DataAccess.EntityFramework.SQLite,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:51:00.043Z,Basilisque.Base.Auth.DataAccess.EntityFramework.PostgreSQL,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:51:00.82Z,Basilisque.Base.Auth.Client,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:51:01.697Z,Basilisque.Base.Auth.Server,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:51:02.51Z,Basilisque.Base.Auth.Abstractions,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:51:03.497Z,Basilisque.Base.Auth.DataAccess.EntityFramework.Relational,1.0.0-Preview00006,Alexander Stärk,Provides OpenIddict-based machine-to-machine authentication and extensible product identity infrastructure.
+2026-11-17T11:51:47.757Z,SoftingIndustrial.OpcUa.Opc.Ua.Client,1.5.376.1073,SoftingIndustrial,OPC UA Client Class Library
+2026-11-17T11:51:50.187Z,SoftingIndustrial.OpcUa.Opc.Ua.Client.ComplexTypes,1.5.376.1073,SoftingIndustrial,OPC UA Complex Types Client Class Library
+2026-11-17T11:51:52.46Z,SoftingIndustrial.OpcUa.Opc.Ua.Configuration,1.5.376.1073,SoftingIndustrial,OPC UA Configuration Class Library
+2026-11-17T11:51:55.853Z,SoftingIndustrial.OpcUa.Opc.Ua.Core,1.5.376.1073,SoftingIndustrial,OPC UA Core Class Library
+2026-11-17T11:51:58.147Z,SoftingIndustrial.OpcUa.Opc.Ua.Gds.Client.Common,1.5.376.1073,SoftingIndustrial,OPC UA GDS Client Class Library
+2026-11-17T11:52:00.5Z,SoftingIndustrial.OpcUa.Opc.Ua.Gds.Server.Common,1.5.376.1073,SoftingIndustrial,OPC UA GDS Server Class Library
+2026-11-17T11:52:02.92Z,SoftingIndustrial.OpcUa.Opc.Ua.PubSub,1.5.376.1073-beta,SoftingIndustrial,OPC UA PubSub Class Library
+2026-11-17T11:52:05.183Z,SoftingIndustrial.OpcUa.Opc.Ua.Security.Certificates,1.5.376.1073,SoftingIndustrial,OPC UA Security X509 Certificates Class Library
+2026-11-17T11:52:07.947Z,SoftingIndustrial.OpcUa.Opc.Ua.Server,1.5.376.1073,SoftingIndustrial,OPC UA Server Class Library
+2026-11-17T11:52:09.617Z,SoftingIndustrial.OpcUa.Opc.Ua,1.5.376.1073,SoftingIndustrial,This package contains the OPC UA reference implementation and is targeting the .NET Standard Library.
+2026-11-17T11:54:02.007Z,Jazor.LibNode.linux-arm64,0.2.0,developerhan,Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi.
+2026-11-17T11:54:07.667Z,Jazor.LibNode.win-arm64,0.2.0,developerhan,Node.js LTS native embedding runtime for Microsoft.JavaScript.NodeApi.
+2026-11-17T11:57:21.187Z,OpenDCP.Framework.DataTypes.Equipment,0.3.0,OpenDCP.Framework.DataTypes.Equipment,Package Description
+2026-11-17T12:02:59.027Z,CryptoService.Sdk,0.0.40,Sebastien Rousseau,"Typed .NET client for the Crypto Service REST API (crypto-server v2): hashing, AEAD, signatures, post-quantum KEM and signatures, HPKE and KMS calls, with no cryptography in the client."
