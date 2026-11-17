@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 04:18 UTC
+## Latest list — 2026-11-17 05:19 UTC
 
-New packages created between 2026-11-17 03:19 UTC and 2026-11-17 04:18 UTC.
+New packages created between 2026-11-17 04:18 UTC and 2026-11-17 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T04-18-39-987865Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T05-19-09-994413Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 03:38:49 | [Cornhsu.XamlKeys](https://www.nuget.org/packages/Cornhsu.XamlKeys) | 0.1.0 | 許彧銘 (Cornhsu) | XamlKeys — static scope audit for XAML resource keys in WPF, WinUI, Avalonia an… |
-| 2026-11-17 03:48:05 | [AlibabaCloud.SDK.QwenEduAiSuite20261102](https://www.nuget.org/packages/AlibabaCloud.SDK.QwenEduAiSuite20261102) | 1.0.0 | Alibaba Cloud | Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for .NET |
-| 2026-11-17 04:00:12 | [YarnSpinner.Shared](https://www.nuget.org/packages/YarnSpinner.Shared) | 3.3.0.5 | YarnSpinner.Shared | Package Description |
-| 2026-11-17 04:00:15 | [JYPPX.ROCm.HIP.CSharp.API.Runtime.win-x64](https://www.nuget.org/packages/JYPPX.ROCm.HIP.CSharp.API.Runtime.win-x64) | 10.1.0 | JYPPX | Official AMD HIP and HIPRTC user-mode closure. Host AMD driver required. |
-| 2026-11-17 04:00:35 | [YarnSpinner.HostAnalysis](https://www.nuget.org/packages/YarnSpinner.HostAnalysis) | 3.3.0.5 | YarnSpinner.HostAnalysis | Package Description |
+| 2026-11-17 04:24:35 | [MattEland.HopeLab.Git](https://www.nuget.org/packages/MattEland.HopeLab.Git) | 0.1.10 | Matt Eland | A wrapper over the git CLI for the HopeLab apps: porcelain v2 status, worktree… |
+| 2026-11-17 04:24:36 | [MattEland.HopeLab.Updates.ReactiveUI](https://www.nuget.org/packages/MattEland.HopeLab.Updates.ReactiveUI) | 0.1.10 | Matt Eland | The update view model the HopeLab desktop apps share (ReactiveUI, no UI framewo… |
+| 2026-11-17 04:24:37 | [MattEland.HopeLab.Updates](https://www.nuget.org/packages/MattEland.HopeLab.Updates) | 0.1.10 | Matt Eland | Updates for apps released on GitHub: latest.json manifests, version checks, pri… |
+| 2026-11-17 04:24:38 | [MattEland.HopeLab.Common](https://www.nuget.org/packages/MattEland.HopeLab.Common) | 0.1.10 | Matt Eland | Small building blocks shared by the HopeLab apps: Result<T> and Unit, a clock a… |
+| 2026-11-17 04:55:39 | [Manifest.Client.Core](https://www.nuget.org/packages/Manifest.Client.Core) | 1.0.0 | Analytics Consulting | Contracts for the Manifest client: the IManifestClient abstraction, request and… |
+| 2026-11-17 04:55:40 | [Manifest.Client.Http](https://www.nuget.org/packages/Manifest.Client.Http) | 1.0.0 | Analytics Consulting | The System.Net implementation of the Manifest client (Manifest.Client.Core): Ht… |
+| 2026-11-17 05:09:56 | [IntelligenceBank.OptimizelyCMS13](https://www.nuget.org/packages/IntelligenceBank.OptimizelyCMS13) | 3.0.0 | IntelligenceBank | The IntelligenceBank connector for Optimizely CMS 13. On CMS 12, use Intelligen… |
 
 ## Data source
 
