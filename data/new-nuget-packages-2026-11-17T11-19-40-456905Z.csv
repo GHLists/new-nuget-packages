@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-17T10:23:13.73Z,Sequrus.Cli,0.2.0,vdasus,"Command-line tool for Sequrus: generate keys, encrypt, decrypt and re-encrypt values."
+2026-11-17T10:23:14.037Z,Sequrus.Configuration,0.2.0,vdasus,Microsoft.Extensions.Configuration integration for Sequrus: decrypts sq1: values in any configuration source.
+2026-11-17T10:23:14.33Z,Sequrus,0.2.0,vdasus,Encrypt and decrypt strings and connection-string secrets with AES-256-GCM. The key comes from the SEQURUS_KEY environment variable.
+2026-11-17T10:23:41.287Z,RealtimeBpmAnalyzer,6.2.0,David Lepaux,"Offline BPM analysis of PCM samples, in pure managed C#: the .NET port of the realtime-bpm-analyzer JS library, with the same readings, which shared conformance vectors check. For Unity, Godot C# and .NET apps."
+2026-11-17T10:26:34.057Z,PowerCraft.Sites.Core,0.1.1,The Code Kitchen,"Typed kernel for PowerCraft.Sites: builds a markdown content tree into a themed, file://-portable static website (content discovery, frontmatter, Markdig parsing, link/URL algorithms, Scriban theme rendering, deterministic builds with machine-readable build reports)."
+2026-11-17T10:34:46.277Z,OpenDCP.Framework.AuditTrail,0.1.0,OpenDCP.Framework.AuditTrail,Package Description
+2026-11-17T10:38:36.283Z,DigiTFactory.Libraries.Analyzers.Storage,0.1.1,DigiTFactory.Libraries.Analyzers.Storage,Roslyn analyzers for the Storage layer (DigiTFactory EDM quality gates QG-3xx).
+2026-11-17T10:39:58.133Z,Valt0,1.0.0,BYTE 1620,".NET client for Valt0. Fetches secrets from a local Valt0 vault at runtime, so you don't have to keep them in .env files, config files, or CI variables."
+2026-11-17T10:49:26.903Z,BillionSend,0.1.0,BillionSend,"The official .NET client for the BillionSend email API: send email, run inboxes for people and agents, stream inbox events, verify webhooks, and manage domains, contacts and broadcasts."
+2026-11-17T10:50:16.27Z,Lark.OapiClient,0.0.1,Kingcean Tuan,Package Description
