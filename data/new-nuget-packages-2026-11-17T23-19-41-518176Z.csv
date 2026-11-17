@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-17T22:25:12.74Z,DeveloperWorkspace.Templates,0.1.4,Roger Hembury,"Project templates for creating a Git-tracked developer workspace for AI prompts, architecture decisions, plans, ideas, investigations, checkpoints, and development notes."
+2026-11-17T22:29:24.583Z,GoldMeridian.NativeAssets,1.0.0,tomat,"Enables referencing native libraries from package references for automatic, RID-based library loading."
+2026-11-17T22:39:02.21Z,Refractor,0.1.0,Quin Gillespie,"Speech, braille and screen reader output for .NET through prism: NVDA, JAWS, SAPI, OneCore, VoiceOver, Speech Dispatcher, Orca and more behind one API. Links statically into Native AOT executables."
+2026-11-17T22:42:22.54Z,StellarDrivePonder,1.0.0,StriderDev,"Animated, client-local part guides for StellarDrive."
+2026-11-17T22:45:13.593Z,Anarchy.Toolkit.Web.MockServer.Ui,1.0.0,Leandro Melão Medeiros,"Browser UI for Anarchy.Toolkit.Web.MockServer, built on Anarchy.Toolkit.Web.Ui: loaded expectations, received requests, plugged-in middlewares and a live log. Runs standalone or from a host of your own."
+2026-11-17T22:52:25.87Z,ViShap.Rewind.Core,1.0.0,Vahe Babayan (0xVahe),"The engine of ViShap.Rewind: scopes that make a block of code an atomic unit of in-memory state change, tracked cells, and effects bound to commit and rollback."
+2026-11-17T22:52:27.66Z,ViShap.Rewind.Generator,1.0.0,Vahe Babayan (0xVahe),The source generator and analyzers of ViShap.Rewind. They run in the compiler; no shipped assembly references them.
+2026-11-17T22:52:28.62Z,ViShap.Rewind.Testing,1.0.0,Vahe Babayan (0xVahe),Test tools for code that uses ViShap.Rewind: proves that every failure point of an operation leaves tracked state as it was and runs no deferred effect. For test projects.
+2026-11-17T22:52:29.577Z,ViShap.Rewind,1.0.0,Vahe Babayan (0xVahe),"Atomic in-memory state change for .NET: a block of code either keeps all its changes or none, with effects bound to commit and rollback. Brings ViShap.Rewind.Core and its source generator."
+2026-11-17T23:02:44.7Z,Sharpfy.Nextapi,0.2.0,Sharpfy,"SDK oficial da NextAPI para .NET: CNPJ (inclusive alfanumérico), CEP, sócios e mercado."
+2026-11-17T23:11:39.313Z,TensorStack.AudioCpp,0.14.14,sa_ddam213,.NET Wrapper API for audio.cpp

@@ -12,19 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 22:22 UTC
+## Latest list — 2026-11-17 23:19 UTC
 
-New packages created between 2026-11-17 21:22 UTC and 2026-11-17 22:22 UTC.
+New packages created between 2026-11-17 22:22 UTC and 2026-11-17 23:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T22-22-20-781216Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T23-19-41-518176Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 21:25:19 | [Farol.Mcp](https://www.nuget.org/packages/Farol.Mcp) | 0.1.0 | Farol contributors | Compiler-accurate C# and VB code intelligence for AI agents, from legacy .NET F… |
-| 2026-11-17 21:33:15 | [MASS4.Turian.Testing](https://www.nuget.org/packages/MASS4.Turian.Testing) | 5.2.0 | Bruno Massa | Headless component testing with controlled frames and input. |
-| 2026-11-17 21:53:46 | [EdiWeave.Next.Healthcare](https://www.nuget.org/packages/EdiWeave.Next.Healthcare) | 9.1.0 | Silvenga,gamingrobot,EdiWeave… | HIPAA 5010 claim workflow for medical software: 837P builder and validator, 999… |
-| 2026-11-17 22:05:18 | [GeoPandas.Net.Arrow](https://www.nuget.org/packages/GeoPandas.Net.Arrow) | 0.2.0 | Gravicode Studios (Kang Fadhi… | GeoPandas.Net columnar interchange: GeoParquet 1.1 reader/writer (WKB + bbox co… |
-| 2026-11-17 22:05:21 | [GeoPandas.Net.Sql](https://www.nuget.org/packages/GeoPandas.Net.Sql) | 0.2.0 | Gravicode Studios (Kang Fadhi… | GeoPandas.Net spatial databases over plain ADO.NET: read_postgis-style ReadSql… |
+| 2026-11-17 22:25:12 | [DeveloperWorkspace.Templates](https://www.nuget.org/packages/DeveloperWorkspace.Templates) | 0.1.4 | Roger Hembury | Project templates for creating a Git-tracked developer workspace for AI prompts… |
+| 2026-11-17 22:29:24 | [GoldMeridian.NativeAssets](https://www.nuget.org/packages/GoldMeridian.NativeAssets) | 1.0.0 | tomat | Enables referencing native libraries from package references for automatic, RID… |
+| 2026-11-17 22:39:02 | [Refractor](https://www.nuget.org/packages/Refractor) | 0.1.0 | Quin Gillespie | Speech, braille and screen reader output for .NET through prism: NVDA, JAWS, SA… |
+| 2026-11-17 22:42:22 | [StellarDrivePonder](https://www.nuget.org/packages/StellarDrivePonder) | 1.0.0 | StriderDev | Animated, client-local part guides for StellarDrive. |
+| 2026-11-17 22:45:13 | [Anarchy.Toolkit.Web.MockServer.Ui](https://www.nuget.org/packages/Anarchy.Toolkit.Web.MockServer.Ui) | 1.0.0 | Leandro Melão Medeiros | Browser UI for Anarchy.Toolkit.Web.MockServer, built on Anarchy.Toolkit.Web.Ui:… |
+| 2026-11-17 22:52:25 | [ViShap.Rewind.Core](https://www.nuget.org/packages/ViShap.Rewind.Core) | 1.0.0 | Vahe Babayan (0xVahe) | The engine of ViShap.Rewind: scopes that make a block of code an atomic unit of… |
+| 2026-11-17 22:52:27 | [ViShap.Rewind.Generator](https://www.nuget.org/packages/ViShap.Rewind.Generator) | 1.0.0 | Vahe Babayan (0xVahe) | The source generator and analyzers of ViShap.Rewind. They run in the compiler;… |
+| 2026-11-17 22:52:28 | [ViShap.Rewind.Testing](https://www.nuget.org/packages/ViShap.Rewind.Testing) | 1.0.0 | Vahe Babayan (0xVahe) | Test tools for code that uses ViShap.Rewind: proves that every failure point of… |
+| 2026-11-17 22:52:29 | [ViShap.Rewind](https://www.nuget.org/packages/ViShap.Rewind) | 1.0.0 | Vahe Babayan (0xVahe) | Atomic in-memory state change for .NET: a block of code either keeps all its ch… |
+| 2026-11-17 23:02:44 | [Sharpfy.Nextapi](https://www.nuget.org/packages/Sharpfy.Nextapi) | 0.2.0 | Sharpfy | SDK oficial da NextAPI para .NET: CNPJ (inclusive alfanumérico), CEP, sócios e… |
+| 2026-11-17 23:11:39 | [TensorStack.AudioCpp](https://www.nuget.org/packages/TensorStack.AudioCpp) | 0.14.14 | sa_ddam213 | .NET Wrapper API for audio.cpp |
 
 ## Data source
 
