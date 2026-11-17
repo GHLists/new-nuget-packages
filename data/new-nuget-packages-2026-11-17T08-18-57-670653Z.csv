@@ -1,0 +1,57 @@
+created_at,package,version,authors,description
+2026-11-17T07:24:15.713Z,PhotoMapStudio.Rendering,0.1.0,scottlz0310,ベクタータイル（MVT）を SkiaSharp で 1 枚の画像として描く。連続ズーム・物理ピクセル寸法・キャンセル・欠落タイルの判別・帯の並列描画・デコード済みキャッシュに対応する。UI には依存しない。
+2026-11-17T07:48:37.11Z,KamuIlanlar.Core.Coordination,1.1.0,"KamuIlanlar.com, Contributors","Cross-instance coordination contracts for KamuIlanlar: short-lived distributed locks, run-once markers and failed-attempt limiting."
+2026-11-17T07:48:40.237Z,KamuIlanlar.Core.Coordination.Redis,1.1.0,"KamuIlanlar.com, Contributors","Redis implementations of KamuIlanlar coordination contracts (SET NX locks with owner-checked release, atomic failed-attempt counters)."
+2026-11-17T07:49:07.603Z,KamuIlanlar.Core.Security.WebApi,1.1.0,"KamuIlanlar.com, Contributors","HTTP request identity for KamuIlanlar Web API: resolves ICurrentUser (user id, roles, normalized client IP, user agent) from the authenticated HttpContext."
+2026-11-17T07:49:12.387Z,KamuIlanlar.Core.ServiceBus.Outbox,1.1.0,"KamuIlanlar.com, Contributors","Transactional outbox for KamuIlanlar on EF Core + PostgreSQL: OutboxMessages table mapping, outbox writer, SKIP LOCKED batch store and a background dispatcher that publishes through IServiceBus."
+2026-11-17T07:52:37.02Z,Struttura.Abstractions,0.2.0,Struttura Contributors,"Stable, dependency-free contracts shared by all Struttura modules."
+2026-11-17T07:52:38.483Z,Struttura.Calendars,0.2.0,Struttura Contributors,Portable calendar day-boundary and event-overlap calculations.
+2026-11-17T07:52:39.817Z,Struttura.Calendars.Abstractions,0.2.0,Struttura Contributors,Portable calendar capability and event-time contracts without provider or application dependencies.
+2026-11-17T07:52:41.19Z,Struttura.Credentials.Windows,0.2.0,Struttura Contributors,Machine-local application credentials in Windows Credential Manager.
+2026-11-17T07:52:42.41Z,Struttura.Eventing,0.2.0,Struttura Contributors,"Transport-neutral serialization, inbox processing, and outbox dispatch for Struttura."
+2026-11-17T07:52:43.83Z,Struttura.Eventing.EntityFrameworkCore,0.2.0,Struttura Contributors,Entity Framework Core Inbox and Outbox stores for Struttura.
+2026-11-17T07:52:45.05Z,Struttura.Google,0.2.0,Struttura Contributors,"Bounded Gmail/Calendar HTTP, base64url and MIME draft wire operations without OAuth, product models, storage or UI."
+2026-11-17T07:52:46.24Z,Struttura.Google.Abstractions,0.2.0,Struttura Contributors,Portable Gmail and Google Calendar HTTP and draft wire contracts with host-owned authentication.
+2026-11-17T07:52:47.503Z,Struttura.Idempotency.EntityFrameworkCore,0.2.0,Struttura Contributors,Transactional EF Core idempotency receipts for request replay.
+2026-11-17T07:52:48.763Z,Struttura.Identity.Blazor,0.2.0,Struttura Contributors,Reusable Blazor administration pages for Struttura identity and software licensing.
+2026-11-17T07:52:50.097Z,Struttura.Identity.Contracts,0.2.0,Struttura Contributors,Transport-neutral contracts for Struttura identity administration and software licensing.
+2026-11-17T07:52:51.42Z,Struttura.Identity.EntityFrameworkCore,0.2.0,Struttura Contributors,"ASP.NET Core Identity, groups, and software licensing persistence for Struttura."
+2026-11-17T07:52:52.853Z,Struttura.Identity.MinimalApis,0.2.0,Struttura Contributors,"Versioned REPR APIs for Struttura identity, groups, and software licensing administration."
+2026-11-17T07:52:54.167Z,Struttura.ImapSmtp,0.2.0,Struttura Contributors,"IMAP UID codecs, observed individual flag mutations, version stamps and single-attempt SMTP dispatch over host adapters."
+2026-11-17T07:52:55.36Z,Struttura.ImapSmtp.Abstractions,0.2.0,Struttura Contributors,Portable IMAP identity/flag and SMTP submission contracts with host-owned sessions and message types.
+2026-11-17T07:52:56.637Z,Struttura.Mail.Abstractions,0.2.0,Struttura Contributors,"Portable, capability-based mail contracts with caller-owned account and message models."
+2026-11-17T07:52:57.88Z,Struttura.Mediator,0.2.0,Struttura Contributors,Dependency injection based CQRS mediator implementation for Struttura.
+2026-11-17T07:52:59.157Z,Struttura.Microsoft.Graph,0.2.0,Struttura Contributors,"Portable bounded Microsoft Graph transport and Outlook draft/attachment operations; no authentication, database or UI."
+2026-11-17T07:53:00.5Z,Struttura.Microsoft.Graph.Abstractions,0.2.0,Struttura Contributors,Portable Microsoft Graph HTTP and Outlook mail operation contracts with caller-owned authentication.
+2026-11-17T07:53:01.85Z,Struttura.MinimalApis,0.2.0,Struttura Contributors,"REPR Minimal API conventions, validation, security, versioning, and Swagger integration."
+2026-11-17T07:53:03.24Z,Struttura.Odoo,0.2.0,Struttura Contributors,"Odoo 19 JSON-2 client with project, task and timesheet operations."
+2026-11-17T07:53:04.443Z,Struttura.Odoo.RemoteWrites,0.2.0,Struttura Contributors,Opt-in remote write journal integration for Odoo timesheets.
+2026-11-17T07:53:05.787Z,Struttura.Persistence.EntityFrameworkCore,0.2.0,Struttura Contributors,"Entity Framework Core repository, unit of work, and optimistic concurrency adapter for Struttura."
+2026-11-17T07:53:06.96Z,Struttura.RemoteWrites,0.2.0,Struttura Contributors,Durable dispatch and read-only reconciliation contracts for remote writes.
+2026-11-17T07:53:08.26Z,Struttura.RemoteWrites.Sqlite,0.2.0,Struttura Contributors,SQLite storage for the durable remote write journal.
+2026-11-17T07:53:09.437Z,Struttura.Resilience,0.2.0,Struttura Contributors,Dependency-free circuit breaker runtime for Struttura.
+2026-11-17T07:53:10.603Z,Struttura.Sagas,0.2.0,Struttura Contributors,Persistent integration event saga orchestration runtime for Struttura.
+2026-11-17T07:53:12.003Z,Struttura.Sagas.EntityFrameworkCore,0.2.0,Struttura Contributors,Strongly typed Entity Framework Core saga state store for Struttura.
+2026-11-17T07:53:13.267Z,Struttura.Security,0.2.0,Struttura Contributors,Platform-neutral data protection contracts for client applications.
+2026-11-17T07:53:14.517Z,Struttura.Security.Android,0.2.0,Struttura Contributors,AndroidKeyStore AES-GCM data protection adapter with non-exportable platform keys.
+2026-11-17T07:53:15.957Z,Struttura.Security.Windows,0.2.0,Struttura Contributors,Windows current-user DPAPI adapter for Struttura.Security.
+2026-11-17T07:53:17.21Z,Struttura.Speech,0.2.0,Struttura Contributors,"Portable speech synthesis contracts, WAV utilities, and an HTTP client for desktop and MAUI applications."
+2026-11-17T07:53:18.42Z,Struttura.Speech.Piper,0.2.0,Struttura Contributors,Local desktop speech synthesis using an externally installed Piper executable and voice models.
+2026-11-17T07:53:19.633Z,Struttura.Synchronization,0.2.0,Struttura Contributors,Restarts incremental synchronization from atomically committed page checkpoints.
+2026-11-17T07:53:21.13Z,Struttura.Synchronization.MicrosoftGraph,0.2.0,Struttura Contributors,Microsoft Graph message delta source for Struttura synchronization.
+2026-11-17T07:53:22.427Z,Struttura.Synchronization.Sqlite,0.2.0,Struttura Contributors,SQLite document projection and checkpoint store for Struttura synchronization.
+2026-11-17T07:53:23.82Z,Struttura.Templates,0.2.0,Struttura Contributors,dotnet new templates for Struttura applications.
+2026-11-17T07:53:25.19Z,Struttura.TikTok.Live,0.2.0,Struttura Contributors,Cross-platform asynchronous TikTok LIVE chat reader for .NET and MAUI using the unofficial Webcast protocol.
+2026-11-17T07:53:26.423Z,Struttura.Transport.InMemory,0.2.0,Struttura Contributors,In-process integration event transport and Inbox store for Struttura.
+2026-11-17T07:53:27.793Z,Struttura.Webhooks,0.2.0,Struttura Contributors,Standard Webhooks v1 signature verification for incoming deliveries.
+2026-11-17T07:53:29.073Z,Struttura.Workflows,0.2.0,Struttura Contributors,Compiled workflow graphs and asynchronous execution with typed input and output ports.
+2026-11-17T07:53:30.293Z,Struttura.Workflows.AdoNet,0.2.0,Struttura Contributors,Provider-neutral ADO.NET query and stored procedure blocks for Struttura workflows.
+2026-11-17T07:53:32.013Z,Struttura.Workflows.Sqlite,0.2.0,Struttura Contributors,Durable SQLite checkpoints for Struttura workflow instances.
+2026-11-17T08:00:16.113Z,WoW2.Sdk.Beta.Be.Ai.Abstractions,10.0.0-beta,WoW 2.0,"Ai contract: the runner, prompt registry, model prices, inference log and evals every form implements."
+2026-11-17T08:00:16.507Z,WoW2.Sdk.Beta.Be.Ai.Testing,10.0.0-beta,WoW 2.0,Ai test kit: a scripted model caller and the prompt registry's conformance suite every implementation must pass.
+2026-11-17T08:00:16.883Z,WoW2.Sdk.Beta.Be.Ai.Client,10.0.0-beta,WoW 2.0,Ai Forms 2 and 3: the client entry point over the running Ai service's HTTP API.
+2026-11-17T08:00:17.277Z,WoW2.Sdk.Beta.Be.Ai.Providers,10.0.0-beta,WoW 2.0,"Ai providers: named Anthropic, OpenAI-compatible and Ollama chat clients with one-attempt calls that report usage, latency and classified errors."
+2026-11-17T08:00:17.663Z,WoW2.Sdk.Beta.Be.Ai.Module,10.0.0-beta,WoW 2.0,"Ai Form 1: the in-process runner, prompt registry, model prices, inference log and evals over the consumer's PostgreSQL database, with its SQL migration set."
+2026-11-17T08:04:39.34Z,Copper.Debaser,0.38.0,Copper.Debaser,Package Description
+2026-11-17T08:04:40.28Z,Copper.Debaser.Core,0.38.0,Copper.Debaser.Core,Package Description
+2026-11-17T08:04:41.21Z,Copper.Postgredebaser,0.38.0,Copper.Postgredebaser,Package Description
