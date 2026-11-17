@@ -12,32 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 13:20 UTC
+## Latest list — 2026-11-17 14:19 UTC
 
-New packages created between 2026-11-17 12:18 UTC and 2026-11-17 13:20 UTC.
+New packages created between 2026-11-17 13:20 UTC and 2026-11-17 14:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T13-20-12-453281Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T14-19-46-783777Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 12:19:39 | [OpenDCP.Framework.CalculationNode](https://www.nuget.org/packages/OpenDCP.Framework.CalculationNode) | 0.8.1 | OpenDCP.Framework.Calculation… | Package Description |
-| 2026-11-17 12:26:19 | [haruspex](https://www.nuget.org/packages/haruspex) | 0.0.0-placeholder | Richard Baker | Types across the database boundary: SQL Server database projects to TypeScript.… |
-| 2026-11-17 12:28:54 | [Sharplight.Import.F5Tts](https://www.nuget.org/packages/Sharplight.Import.F5Tts) | 0.2.0 | Sharplight contributors | F5-TTS importer for Sharplight: reads the F5-TTS flow-matching text-to-speech c… |
-| 2026-11-17 12:28:55 | [Sharplight.Hosting](https://www.nuget.org/packages/Sharplight.Hosting) | 0.2.0 | Sharplight contributors | Hosting for Sharplight models in servers and apps: a ModelHost built from optio… |
-| 2026-11-17 12:28:55 | [Sharplight.Import.CosyVoice](https://www.nuget.org/packages/Sharplight.Import.CosyVoice) | 0.2.0 | Sharplight contributors | CosyVoice importer for Sharplight: reads FunAudioLLM's Fun-CosyVoice3 text-to-s… |
-| 2026-11-17 12:28:58 | [Sharplight.Video](https://www.nuget.org/packages/Sharplight.Video) | 0.2.0 | Sharplight contributors | Video encoding and decoding for Sharplight with bundled LGPL FFmpeg libraries (… |
-| 2026-11-17 12:28:58 | [Sharplight.Import.Ultralytics](https://www.nuget.org/packages/Sharplight.Import.Ultralytics) | 0.2.0 | Sharplight contributors | Ultralytics YOLO importer for Sharplight: reads the ONNX exports of YOLOv8, YOL… |
-| 2026-11-17 12:28:59 | [Sharplight.Import.Snac](https://www.nuget.org/packages/Sharplight.Import.Snac) | 0.2.0 | Sharplight contributors | SNAC importer for Sharplight: reads the multi-scale neural audio codec checkpoi… |
-| 2026-11-17 12:29:00 | [Sharplight.Import.Chatterbox](https://www.nuget.org/packages/Sharplight.Import.Chatterbox) | 0.2.0 | Sharplight contributors | Chatterbox importer for Sharplight: reads Resemble AI's Chatterbox text-to-spee… |
-| 2026-11-17 12:29:01 | [Sharplight.Import.Kokoro](https://www.nuget.org/packages/Sharplight.Import.Kokoro) | 0.2.0 | Sharplight contributors | Kokoro importer for Sharplight: reads the Kokoro-82M text-to-speech checkpoint… |
-| 2026-11-17 12:29:03 | [Sharplight.DesignTokens](https://www.nuget.org/packages/Sharplight.DesignTokens) | 0.2.0 | Sharplight contributors | The Sharplight design tokens for web UIs: CSS custom properties (colours for da… |
-| 2026-11-17 12:29:04 | [Sharplight.Vulkan.MoltenVK](https://www.nuget.org/packages/Sharplight.Vulkan.MoltenVK) | 0.2.0 | Sharplight contributors | MoltenVK (Vulkan on Metal) for Sharplight.Vulkan on macOS Apple Silicon: libMol… |
-| 2026-11-17 12:29:05 | [Sharplight.Import.HuggingFace](https://www.nuget.org/packages/Sharplight.Import.HuggingFace) | 0.2.0 | Sharplight contributors | Hugging Face checkpoint importer (safetensors + config.json + tokenizer files)… |
-| 2026-11-17 12:31:31 | [Lumen.Templates](https://www.nuget.org/packages/Lumen.Templates) | 0.1.0 | HinaKalo | dotnet new templates for Avalonia 12 apps built with Lumen.UI: lumen-app (AppSh… |
-| 2026-11-17 12:31:32 | [Lumen.UI](https://www.nuget.org/packages/Lumen.UI) | 0.1.0 | HinaKalo | A modern, token-driven component library for Avalonia built on top of FluentThe… |
-| 2026-11-17 12:55:23 | [OpenDCP.Framework.DataTypes.Analytical](https://www.nuget.org/packages/OpenDCP.Framework.DataTypes.Analytical) | 0.3.0 | OpenDCP.Framework.DataTypes.A… | Package Description |
-| 2026-11-17 12:55:59 | [Lifeblood.any](https://www.nuget.org/packages/Lifeblood.any) | 0.7.14 | DAWG Tools | Roslyn powered C# and Unity code analysis CLI for semantic graphs, architecture… |
-| 2026-11-17 12:56:01 | [Lifeblood.win-x64](https://www.nuget.org/packages/Lifeblood.win-x64) | 0.7.14 | DAWG Tools | Roslyn powered C# and Unity code analysis CLI for semantic graphs, architecture… |
+| 2026-11-17 13:25:32 | [SpeartonCS.ExtendedGenerics](https://www.nuget.org/packages/SpeartonCS.ExtendedGenerics) | 1.0.0 | SpeartonCS | Modern .NET 10 crossplatform library, compatible with NativeAOT, and containing… |
+| 2026-11-17 13:27:54 | [VirtuaMesh.WireGuard.NET](https://www.nuget.org/packages/VirtuaMesh.WireGuard.NET) | 1.0.0 | VirtuaMesh | Pure .NET WireGuard implementation: Noise_IKpsk2 handshake, ChaCha20-Poly1305 t… |
+| 2026-11-17 13:30:12 | [RuleKit.Analyzer](https://www.nuget.org/packages/RuleKit.Analyzer) | 0.1.0 | samueldias21 | RuleKit.Analyzer: Roslyn Analyzer configurável que valida padrões arquiteturais… |
+| 2026-11-17 13:30:12 | [RuleKit.Cli](https://www.nuget.org/packages/RuleKit.Cli) | 0.1.0 | samueldias21 | RuleKit.Cli (arch-rules): ferramenta de linha de comando que valida o arch-rule… |
+| 2026-11-17 13:36:06 | [Dloizides.SignInPage.AspNetCore](https://www.nuget.org/packages/Dloizides.SignInPage.AspNetCore) | 1.0.0 | DLoizides | Brand-neutral server-rendered sign-in page for ASP.NET Core: email + password f… |
+| 2026-11-17 13:39:13 | [OpenDCP.Framework.Connections.Core](https://www.nuget.org/packages/OpenDCP.Framework.Connections.Core) | 0.5.1 | OpenDCP.Framework.Connections… | Package Description |
+| 2026-11-17 13:39:51 | [RDCore.Forms](https://www.nuget.org/packages/RDCore.Forms) | 0.1.0-alpha | 9562-7303 Québec inc. | RDForms' form model, with no UI dependency: component classes, their properties… |
+| 2026-11-17 13:45:23 | [MrSquirrely.Flags](https://www.nuget.org/packages/MrSquirrely.Flags) | 1.0.0 | MrSquirrely | A Blazor component that renders CSS-animated waving flags: LGBTQ+ pride, countr… |
+| 2026-11-17 13:46:44 | [Kazo.Os.AppSdk.Testing](https://www.nuget.org/packages/Kazo.Os.AppSdk.Testing) | 3.5.0 | Benoit Robin | Kazo OS App SDK test kit: the public conformance suite of a network drive provi… |
+| 2026-11-17 13:47:02 | [Kazo.Os.Platform.CloudDrives](https://www.nuget.org/packages/Kazo.Os.Platform.CloudDrives) | 3.5.0 | Benoit Robin | The cloud drive connectors shipped with Kazo OS (Dropbox, OneDrive, S3), mounte… |
+| 2026-11-17 13:57:09 | [SoftwareMadeSimple.spgen](https://www.nuget.org/packages/SoftwareMadeSimple.spgen) | 1.0.0 | spgen | Package Description |
+| 2026-11-17 14:00:09 | [Orsak.Remoting.AspNetCore](https://www.nuget.org/packages/Orsak.Remoting.AspNetCore) | 0.9.0 | Johannes Sandgren | Serves the members of an interface to Orsak.Remoting's clients, from ASP.NET Co… |
+| 2026-11-17 14:00:10 | [Orsak.Remoting](https://www.nuget.org/packages/Orsak.Remoting) | 0.9.0 | Johannes Sandgren | Calls the members of an interface on a server, from .NET or Fable: the wire for… |
+| 2026-11-17 14:05:06 | [Gadamaxi.BackendWork](https://www.nuget.org/packages/Gadamaxi.BackendWork) | 0.1.0 | pughua | 自研后台任务框架核心库：即时/延时/连续任务、Cron 周期任务、批量任务、Saga 分布式事务编排；存储层可插拔（关系库 / MongoDB）。 |
+| 2026-11-17 14:06:13 | [Gadamaxi.BackendWork.Mongodb](https://www.nuget.org/packages/Gadamaxi.BackendWork.Mongodb) | 0.1.0 | pughua | Gadamaxi.BackendWork 的 MongoDB 存储实现（MongoDB.Driver）。多文档事务需副本集或分片集群，单机 standalon… |
+| 2026-11-17 14:06:36 | [Gadamaxi.BackendWork.Dashboard](https://www.nuget.org/packages/Gadamaxi.BackendWork.Dashboard) | 0.1.0 | pughua | Gadamaxi.BackendWork 监控控制面板：内嵌 DLL 的 Web 面板 + 共享宿主鉴权的 HTTP API |
+| 2026-11-17 14:07:27 | [Bashka.Plugins.Market](https://www.nuget.org/packages/Bashka.Plugins.Market) | 1.0.4 | Evgeny Gorbovoy | Bashka plugin package catalog. |
 
 ## Data source
 
