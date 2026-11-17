@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 03:19 UTC
+## Latest list — 2026-11-17 04:18 UTC
 
-New packages created between 2026-11-17 02:20 UTC and 2026-11-17 03:19 UTC.
+New packages created between 2026-11-17 03:19 UTC and 2026-11-17 04:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T03-19-58-346265Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T04-18-39-987865Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 02:25:16 | [ZlmSharp.Extra](https://www.nuget.org/packages/ZlmSharp.Extra) | 0.1.6 | ZlmSharp.Extra | Package Description |
-| 2026-11-17 02:25:19 | [ZlmSharp.Media.AutoGen](https://www.nuget.org/packages/ZlmSharp.Media.AutoGen) | 0.1.6 | ZlmSharp.Media.AutoGen | Package Description |
-| 2026-11-17 02:58:36 | [Cornhsu.XamlFit](https://www.nuget.org/packages/Cornhsu.XamlFit) | 0.1.0 | 許彧銘 (Cornhsu) | XamlFit — static text-fit audit for WPF XAML. Computes the pixel budget of ever… |
-| 2026-11-17 03:09:18 | [Globe3D.Avalonia](https://www.nuget.org/packages/Globe3D.Avalonia) | 2.0.0 | daipeng0809 | 面向 Avalonia 的实时三维地球控件：影像瓦片、程序化星空、大气散射、区域与标注图层、三维标记点（支持 png/jpg/gif/svg 图标），支持鼠标… |
-| 2026-11-17 03:10:35 | [PicoActor.EventStore.InMemory](https://www.nuget.org/packages/PicoActor.EventStore.InMemory) | 2026.9.0 | PicoActor.EventStore.InMemory | In-memory event store for PicoActor: thread-safe, per-actor serialized, with sn… |
-| 2026-11-17 03:10:36 | [PicoActor.EventStore.Jsonl](https://www.nuget.org/packages/PicoActor.EventStore.Jsonl) | 2026.9.0 | PicoActor.EventStore.Jsonl | Durable JSONL event store for PicoActor: one file per aggregate, append-only wi… |
+| 2026-11-17 03:38:49 | [Cornhsu.XamlKeys](https://www.nuget.org/packages/Cornhsu.XamlKeys) | 0.1.0 | 許彧銘 (Cornhsu) | XamlKeys — static scope audit for XAML resource keys in WPF, WinUI, Avalonia an… |
+| 2026-11-17 03:48:05 | [AlibabaCloud.SDK.QwenEduAiSuite20261102](https://www.nuget.org/packages/AlibabaCloud.SDK.QwenEduAiSuite20261102) | 1.0.0 | Alibaba Cloud | Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for .NET |
+| 2026-11-17 04:00:12 | [YarnSpinner.Shared](https://www.nuget.org/packages/YarnSpinner.Shared) | 3.3.0.5 | YarnSpinner.Shared | Package Description |
+| 2026-11-17 04:00:15 | [JYPPX.ROCm.HIP.CSharp.API.Runtime.win-x64](https://www.nuget.org/packages/JYPPX.ROCm.HIP.CSharp.API.Runtime.win-x64) | 10.1.0 | JYPPX | Official AMD HIP and HIPRTC user-mode closure. Host AMD driver required. |
+| 2026-11-17 04:00:35 | [YarnSpinner.HostAnalysis](https://www.nuget.org/packages/YarnSpinner.HostAnalysis) | 3.3.0.5 | YarnSpinner.HostAnalysis | Package Description |
 
 ## Data source
 

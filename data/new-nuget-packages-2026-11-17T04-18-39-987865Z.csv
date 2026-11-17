@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-17T03:38:49.7Z,Cornhsu.XamlKeys,0.1.0,許彧銘 (Cornhsu),"XamlKeys — static scope audit for XAML resource keys in WPF, WinUI, Avalonia and .NET MAUI. Finds dangling {StaticResource} references, duplicate keys, keys shadowed by merge order, and keys nobody uses. Whole project, no app launch, CI exit codes."
+2026-11-17T03:48:05.187Z,AlibabaCloud.SDK.QwenEduAiSuite20261102,1.0.0,Alibaba Cloud,Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for .NET
+2026-11-17T04:00:12.8Z,YarnSpinner.Shared,3.3.0.5,YarnSpinner.Shared,Package Description
+2026-11-17T04:00:15.5Z,JYPPX.ROCm.HIP.CSharp.API.Runtime.win-x64,10.1.0,JYPPX,Official AMD HIP and HIPRTC user-mode closure. Host AMD driver required.
+2026-11-17T04:00:35.177Z,YarnSpinner.HostAnalysis,3.3.0.5,YarnSpinner.HostAnalysis,Package Description
