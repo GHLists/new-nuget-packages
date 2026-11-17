@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-17T02:25:16.503Z,ZlmSharp.Extra,0.1.6,ZlmSharp.Extra,Package Description
+2026-11-17T02:25:19.667Z,ZlmSharp.Media.AutoGen,0.1.6,ZlmSharp.Media.AutoGen,Package Description
+2026-11-17T02:58:36.217Z,Cornhsu.XamlFit,0.1.0,許彧銘 (Cornhsu),"XamlFit — static text-fit audit for WPF XAML. Computes the pixel budget of every text slot without launching the app: export limits for translators before translation, fail CI on real overflow after."
+2026-11-17T03:09:18.853Z,Globe3D.Avalonia,2.0.0,daipeng0809,面向 Avalonia 的实时三维地球控件：影像瓦片、程序化星空、大气散射、区域与标注图层、三维标记点（支持 png/jpg/gif/svg 图标），支持鼠标交互，兼容 Native AOT。
+2026-11-17T03:10:35.737Z,PicoActor.EventStore.InMemory,2026.9.0,PicoActor.EventStore.InMemory,"In-memory event store for PicoActor: thread-safe, per-actor serialized, with snapshots and aggregate enumeration. Development, testing and single-process production."
+2026-11-17T03:10:36.99Z,PicoActor.EventStore.Jsonl,2026.9.0,PicoActor.EventStore.Jsonl,"Durable JSONL event store for PicoActor: one file per aggregate, append-only with optimistic concurrency, tail-only rebuild through the cursor read port, atomic snapshot sidecars. AOT-safe, source-generated serialization (PicoJetson), single-process."

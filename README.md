@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 02:20 UTC
+## Latest list — 2026-11-17 03:19 UTC
 
-New packages created between 2026-11-17 01:19 UTC and 2026-11-17 02:20 UTC.
+New packages created between 2026-11-17 02:20 UTC and 2026-11-17 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-17T02-20-05-356505Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-17T03-19-58-346265Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-17 01:22:32 | [GameEventScript.Syntax](https://www.nuget.org/packages/GameEventScript.Syntax) | 0.5.0 | Stephan Schlöpke | GES lexer, parser and single-source validator, plus GES and GESA syntax highlig… |
-| 2026-11-17 01:22:40 | [GameEventScript.Generator](https://www.nuget.org/packages/GameEventScript.Generator) | 0.5.0 | Stephan Schlöpke | Game Event Script schema code generator: computes the generation layout of .ges… |
-| 2026-11-17 01:45:57 | [RyanZhang.MemoryHelper.Core](https://www.nuget.org/packages/RyanZhang.MemoryHelper.Core) | 1.0.0 | Ryan Zhang | SM-2 spaced repetition scheduler and ISrsItem abstraction used by MemoryHelper… |
-| 2026-11-17 01:54:36 | [Hmz.Core.Realtime](https://www.nuget.org/packages/Hmz.Core.Realtime) | 0.1.0 | Hmz | Reusable realtime delivery engine for Hmz backends on ASP.NET Core: a best-effo… |
-| 2026-11-17 01:54:37 | [Hmz.Core.Realtime.Abstractions](https://www.nuget.org/packages/Hmz.Core.Realtime.Abstractions) | 0.1.0 | Hmz | Contracts of the Hmz realtime engine: the best-effort publisher, audiences, pre… |
-| 2026-11-17 01:59:43 | [Azure.Connectors.Sdk](https://www.nuget.org/packages/Azure.Connectors.Sdk) | 1.0.0 | Microsoft | Lightweight SDK for building typed connectors for Azure |
-| 2026-11-17 02:01:34 | [Great.Parts.Cel](https://www.nuget.org/packages/Great.Parts.Cel) | 1.0.0 | The Great.Parts Authors | Common Expression Language (CEL) for .NET 10 and .NET 11: compile and evaluate… |
-| 2026-11-17 02:01:35 | [Great.Parts.Cel.Protobuf](https://www.nuget.org/packages/Great.Parts.Cel.Protobuf) | 1.0.0 | The Great.Parts Authors | Protocol Buffers support for Great.Parts.Cel: use protobuf messages and well-kn… |
+| 2026-11-17 02:25:16 | [ZlmSharp.Extra](https://www.nuget.org/packages/ZlmSharp.Extra) | 0.1.6 | ZlmSharp.Extra | Package Description |
+| 2026-11-17 02:25:19 | [ZlmSharp.Media.AutoGen](https://www.nuget.org/packages/ZlmSharp.Media.AutoGen) | 0.1.6 | ZlmSharp.Media.AutoGen | Package Description |
+| 2026-11-17 02:58:36 | [Cornhsu.XamlFit](https://www.nuget.org/packages/Cornhsu.XamlFit) | 0.1.0 | 許彧銘 (Cornhsu) | XamlFit — static text-fit audit for WPF XAML. Computes the pixel budget of ever… |
+| 2026-11-17 03:09:18 | [Globe3D.Avalonia](https://www.nuget.org/packages/Globe3D.Avalonia) | 2.0.0 | daipeng0809 | 面向 Avalonia 的实时三维地球控件：影像瓦片、程序化星空、大气散射、区域与标注图层、三维标记点（支持 png/jpg/gif/svg 图标），支持鼠标… |
+| 2026-11-17 03:10:35 | [PicoActor.EventStore.InMemory](https://www.nuget.org/packages/PicoActor.EventStore.InMemory) | 2026.9.0 | PicoActor.EventStore.InMemory | In-memory event store for PicoActor: thread-safe, per-actor serialized, with sn… |
+| 2026-11-17 03:10:36 | [PicoActor.EventStore.Jsonl](https://www.nuget.org/packages/PicoActor.EventStore.Jsonl) | 2026.9.0 | PicoActor.EventStore.Jsonl | Durable JSONL event store for PicoActor: one file per aggregate, append-only wi… |
 
 ## Data source
 
