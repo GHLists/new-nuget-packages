@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-17T20:24:13.373Z,HameedHassan.SolutionConflictFinder,1.2026.11.1,Hameed Hassan,"Compare solutions across environments and review conflicts before you import. Shows conflicts, components that will be added, and components that exist only in the current environment for forms, views, fields, web resources, plugins, workflows and BPFs."
+2026-11-17T20:28:59.173Z,Labyrinthe.LabPay,0.1.0,Labyrinthe Innovations SARL,"Official .NET client for LabPay, the Mobile Money aggregator for Africa (M-Pesa, Airtel Money, Orange Money, MTN MoMo…; each open country in its own currency): deposits, payouts, refunds, payment tracking and signed notifications. Safe retries with idempotency, typed errors, exact amounts."
+2026-11-17T20:29:00.077Z,Labyrinthe.LabPay.AspNetCore,0.1.0,Labyrinthe Innovations SARL,"ASP.NET Core integration of the LabPay SDK: services.AddLabPay(configuration) with IHttpClientFactory and Microsoft.Extensions.Logging, and a minimal API endpoint that verifies signed LabPay notifications (app.MapLabPayWebhooks)."
+2026-11-17T20:34:52.353Z,Activout.DatabaseClient.LibSql,5.1.0,Activout.DatabaseClient.LibSql,"libSQL (Turso, Bunny Database) backend for Activout.DatabaseClient."
+2026-11-17T20:42:57.38Z,Lwnrdb.Client,0.1.0,christiancg,"The official .NET client for LWNRDB: a connection pool, a fluent query builder, a LINQ provider, transactions and live queries"
+2026-11-17T20:45:00.617Z,BehpardakhtPosClient,0.0.1,alirezar,"Unofficial Behpardakht POS device client for .NET. Speaks protocol revision 4.7 over TCP and serial, and the POS_PC.dll 1.4.47 frame."
+2026-11-17T20:51:37.41Z,MediSync,0.1.0,MediSync GmbH,"The .NET SDK for the MediSync API: speech to text, clinical notes and letters, ICD-10-GM coding, decisions and MediSync Connect."
+2026-11-17T21:10:44.137Z,Themis.Evaluation,4.5.0,Themis contributors,Offline decision-provider evaluation and replay for Themis.
+2026-11-17T21:10:51.493Z,Themis.Verdict.Tool,4.5.0,Themis contributors,Command-line evaluation and diagnostics for Themis decision inference.
