@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-17T14:26:46.53Z,VL.Polynesia,0.36.244-preview,Polynesia,Integrated Polynesia rendering and Tide simulation nodes for vvvv gamma. Windows x64. Free for non-commercial use only; commercial use requires written permission.
+2026-11-17T14:28:16.52Z,MailPier.Cli,0.1.0,Solutions Group Unlimited LLC,The mailpier command: forward the webhooks your MailPier Inbox environment catches to a server on your own machine (mailpier listen 5000).
+2026-11-17T14:31:59.39Z,Nanosandbox.Sdk,0.2.0,DevDone Labs,BCL-only .NET protocol client for the nanosandbox helper (nanosb-protocol v1.0.0).
+2026-11-17T14:32:09.95Z,Wick.Core,1.0.0,ivanjx,"Fine-grained reactive state for .NET: tracked properties, collections, derived values and effects. Includes the [ReactiveState] source generator."
+2026-11-17T14:32:10.58Z,Wick.Blazor,1.0.0,ivanjx,"Blazor components that re-render only when the Wick reactive state they read changes, from any thread."
+2026-11-17T14:35:22.73Z,Umbraco.Community.SuperValueConverters,5.0.0,Callum Whyte,A collection of powerful property value converters for cleaner code in Umbraco
+2026-11-17T14:45:18.55Z,Gurux.MQTT.Avalonia,9.0.2611.1701,Gurux Ltd,Avalonia settings editor for Gurux MQTT media.
+2026-11-17T14:45:35.597Z,Gurux.MQTT.Blazor,9.0.2611.1701,Gurux Ltd,Optional Blazor settings components for Gurux media libraries.
+2026-11-17T14:45:52.907Z,Gurux.MQTT.Maui,9.0.2611.1701,Gurux Ltd,Native MAUI settings editor for Gurux MQTT media.
+2026-11-17T14:46:20.41Z,FileManagerNet,1.0.0,FileManagerNet Contributors,"A free, open-source (MIT) Windows-Explorer-style file manager control for ASP.NET Core 10. Vanilla JS front-end, no jQuery."
+2026-11-17T15:01:55.69Z,AshGodfrey.NugetTrustedPublishingSample,0.0.1,Speakeasy,Pet Store Sample: Sample API used to exercise NuGet trusted publishing from GitHub Actions.
+2026-11-17T15:10:48.97Z,MetadataSharp,1.0.0,SeNS,"Reads image metadata (EXIF with MakerNotes, IPTC, XMP, ICC profiles, comments, previews) from JPEG, PNG, WebP, TIFF, DNG, TIFF-based raw files, HEIC/HEIF/AVIF, PSD, JPEG 2000, EXV, CR3, JPEG XL and XMP sidecars, and edits it without decoding or recompressing image data. An independent implementatio…"
