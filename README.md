@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 03:21 UTC
+## Latest list — 2026-11-18 04:20 UTC
 
-New packages created between 2026-11-18 02:21 UTC and 2026-11-18 03:21 UTC.
+New packages created between 2026-11-18 03:21 UTC and 2026-11-18 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T03-21-55-080854Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T04-20-35-425853Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 02:29:35 | [Async.HtmlAgilityPack](https://www.nuget.org/packages/Async.HtmlAgilityPack) | 2.0.0 | ZZZ Projects Inc., Andy Fried… | An async-first fork of Html Agility Pack: an HTML parser that builds a read/wri… |
-| 2026-11-18 02:32:25 | [Jinxxy.NET](https://www.nuget.org/packages/Jinxxy.NET) | 1.0.0 | dfgHiatus | Unofficial .NET client for the Jinxxy Creator API (v1): products, orders, licen… |
-| 2026-11-18 03:02:06 | [CSweet.Agent.Testing](https://www.nuget.org/packages/CSweet.Agent.Testing) | 5.42.0 | C-Sweet | Run standalone agent scenarios through the C-Sweet SDK delivery dispatcher. |
-| 2026-11-18 03:11:57 | [GeoPandas.Net.RemoteSensing](https://www.nuget.org/packages/GeoPandas.Net.RemoteSensing) | 0.3.0 | Gravicode Studios (Kang Fadhi… | GeoPandas.Net satellite product readers: Landsat Collection 2 (MTL, scaled refl… |
-| 2026-11-18 03:12:00 | [GeoPandas.Net.Survey](https://www.nuget.org/packages/GeoPandas.Net.Survey) | 0.3.0 | Gravicode Studios (Kang Fadhi… | GeoPandas.Net surveying and GNSS: traverse computation and Bowditch/Transit adj… |
+| 2026-11-18 03:40:20 | [Aspire.Hosting.Azure.Kubernetes](https://www.nuget.org/packages/Aspire.Hosting.Azure.Kubernetes) | 17.0.0 | Microsoft | Azure Kubernetes Service (AKS) resource types for Aspire. |
+| 2026-11-18 03:41:31 | [Aspire.Hosting.Dotnet](https://www.nuget.org/packages/Aspire.Hosting.Dotnet) | 17.0.0 | Microsoft | C# and .NET application support for Aspire. |
+| 2026-11-18 03:41:37 | [Aspire.Hosting.Go](https://www.nuget.org/packages/Aspire.Hosting.Go) | 17.0.0 | Microsoft | Go support for Aspire. |
+| 2026-11-18 03:41:44 | [Aspire.Hosting.Kubernetes](https://www.nuget.org/packages/Aspire.Hosting.Kubernetes) | 17.0.0 | Microsoft | Kubernetes publishing for Aspire. |
+| 2026-11-18 03:44:35 | [CefSharp.Avalonia.Windows](https://www.nuget.org/packages/CefSharp.Avalonia.Windows) | 1.3.0 | CefBrowser | Windows (x64) native binaries (CEF runtime + CefBrowser.Native host) for CefSha… |
 
 ## Data source
 
