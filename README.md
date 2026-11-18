@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 22:21 UTC
+## Latest list — 2026-11-18 23:19 UTC
 
-New packages created between 2026-11-18 21:20 UTC and 2026-11-18 22:21 UTC.
+New packages created between 2026-11-18 22:21 UTC and 2026-11-18 23:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T22-21-55-704093Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T23-19-18-497953Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 21:23:31 | [BellaBaxter.Cli](https://www.nuget.org/packages/BellaBaxter.Cli) | 0.1.2 | bella | Package Description |
-| 2026-11-18 21:32:18 | [EconomyApi.Extensions.DependencyInjection](https://www.nuget.org/packages/EconomyApi.Extensions.DependencyInjection) | 1.3.1 | Sveinung,ThomasP | IHttpClientFactory / dependency injection registration for the EconomyApi V2 cl… |
-| 2026-11-18 21:37:03 | [FControls3d](https://www.nuget.org/packages/FControls3d) | 1.0.0 | Fabio Gordiano | Custom 3D hardware-style controls for Windows Forms (Slider3d, V-Meters, LCD di… |
-| 2026-11-18 21:48:13 | [Shorthand.UmbracoHelpers](https://www.nuget.org/packages/Shorthand.UmbracoHelpers) | 18.0.0 | Karl-Johan Sjögren | Provides helpers for Umbraco development. |
-| 2026-11-18 21:49:14 | [Stet](https://www.nuget.org/packages/Stet) | 0.0.1 | rthomasv3 | A spelling and grammar checker built for fiction. Offline, pure managed C#, no… |
-| 2026-11-18 21:53:38 | [Heroicsoft.NetForge.WebAssets](https://www.nuget.org/packages/Heroicsoft.NetForge.WebAssets) | 1.2.6 | Matt Gordon | Serves a library's wwwroot from the assembly at the usual _content path, for ho… |
-| 2026-11-18 22:01:53 | [ITHit.FileSystem.IOS](https://www.nuget.org/packages/ITHit.FileSystem.IOS) | 9.2.29685 | IT Hit, Ltd | IT Hit User File System Engine for iOS provides a high-level API for creating a… |
+| 2026-11-18 22:50:34 | [SDL3-CS.Layer](https://www.nuget.org/packages/SDL3-CS.Layer) | 1.0.1 | Jonas S. | C# bindings for SDL_layer, intended for use with SDL3-CS |
+| 2026-11-18 22:51:02 | [SDL3-CS.Layer.Linux](https://www.nuget.org/packages/SDL3-CS.Layer.Linux) | 1.0.1 | Jonas S. | Native Linux library for SDL3-CS.Layer |
+| 2026-11-18 22:54:07 | [Flowon.Xrm.Tools.PowerShell](https://www.nuget.org/packages/Flowon.Xrm.Tools.PowerShell) | 1.2.0 | Flowon Team | PowerShell module for Logic Fabric: export and import Logic Fabric projects, Da… |
+| 2026-11-18 22:58:11 | [Pidief.Client](https://www.nuget.org/packages/Pidief.Client) | 0.1.0 | Milvasoft | Typed .NET client for the pidief PDF API: HTML/template/images to PDF, merge, s… |
+| 2026-11-18 23:04:27 | [envparity](https://www.nuget.org/packages/envparity) | 1.0.0 | Jhon Emmir Cundumi Riascos | Validate a .env file against a reference file without ever printing values. |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-18T22:50:34.267Z,SDL3-CS.Layer,1.0.1,Jonas S.,"C# bindings for SDL_layer, intended for use with SDL3-CS"
+2026-11-18T22:51:02.827Z,SDL3-CS.Layer.Linux,1.0.1,Jonas S.,Native Linux library for SDL3-CS.Layer
+2026-11-18T22:54:07.44Z,Flowon.Xrm.Tools.PowerShell,1.2.0,Flowon Team,"PowerShell module for Logic Fabric: export and import Logic Fabric projects, Dataverse solutions, security and data, and manage plug-in steps, Logic Recipes and solution versions."
+2026-11-18T22:58:11.45Z,Pidief.Client,0.1.0,Milvasoft,"Typed .NET client for the pidief PDF API: HTML/template/images to PDF, merge, split, pages, watermark, stamp, compress, PDF/A-2b, encryption, metadata, render and text."
+2026-11-18T23:04:27.367Z,envparity,1.0.0,Jhon Emmir Cundumi Riascos,Validate a .env file against a reference file without ever printing values.
