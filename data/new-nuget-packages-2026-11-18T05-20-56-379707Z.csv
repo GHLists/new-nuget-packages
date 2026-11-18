@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-18T04:27:36.55Z,WhatArch.win-x64,0.3.0,Craig,A command-line tool to detect the target architecture of Windows PE binaries
+2026-11-18T04:27:38.52Z,WhatArch.win-arm64,0.3.0,Craig,A command-line tool to detect the target architecture of Windows PE binaries
+2026-11-18T04:27:40.17Z,WhatArch.any,0.3.0,Craig,A command-line tool to detect the target architecture of Windows PE binaries
+2026-11-18T04:28:05.017Z,Ambystech.Relate,1.0.0,Ambystech,".NET client for Relate by Neo4j, the embedded Cypher graph database for AI agents. Driver-style API and an ADO.NET provider over Relate's typed C ABI v2, with the native engine bundled for win-x64, linux-x64, linux-arm64, osx-x64 and osx-arm64."
+2026-11-18T04:56:21.17Z,ZeroMayo.Framework.Android,2026.1118.0,ppy Pty Ltd,"A 2D application/game framework written with rhythm games in mind. A community project based on the osu!framework codebase, originally developed by ppy Pty Ltd and modified/maintained by ZeroMayo."
+2026-11-18T05:02:21.873Z,Exchange56.GithubProfile.Components.Server,1.0.0,T.J. McNaboe,Server endpoints and methods for integrating with Exchange56 Github Profile client.
+2026-11-18T05:04:01.76Z,B4n1.Db,0.1.0,Bani Montoya,b4n1-db SDK for .NET - sovereign embedded database over the b4n1-db binary
+2026-11-18T05:06:21.337Z,TensorStack.LlamaCpp,0.15.0,sa_ddam213,.NET Wrapper API for llama.cpp
+2026-11-18T05:08:03.617Z,ObligacionesPorPagar.TenantProvisioning.Contratos,0.1.0,Cosmos,Contratos que publica el worker de tenant provisioning de Obligaciones por Pagar hacia los demás servicios de OXP: la ficha de la empresa de cada tenant.
+2026-11-18T05:12:38.003Z,CognitiveMemoryDatabase,1.0.0,CognitiveMemoryDatabase,Package Description

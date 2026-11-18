@@ -12,19 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 04:20 UTC
+## Latest list — 2026-11-18 05:20 UTC
 
-New packages created between 2026-11-18 03:21 UTC and 2026-11-18 04:20 UTC.
+New packages created between 2026-11-18 04:20 UTC and 2026-11-18 05:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T04-20-35-425853Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T05-20-56-379707Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 03:40:20 | [Aspire.Hosting.Azure.Kubernetes](https://www.nuget.org/packages/Aspire.Hosting.Azure.Kubernetes) | 17.0.0 | Microsoft | Azure Kubernetes Service (AKS) resource types for Aspire. |
-| 2026-11-18 03:41:31 | [Aspire.Hosting.Dotnet](https://www.nuget.org/packages/Aspire.Hosting.Dotnet) | 17.0.0 | Microsoft | C# and .NET application support for Aspire. |
-| 2026-11-18 03:41:37 | [Aspire.Hosting.Go](https://www.nuget.org/packages/Aspire.Hosting.Go) | 17.0.0 | Microsoft | Go support for Aspire. |
-| 2026-11-18 03:41:44 | [Aspire.Hosting.Kubernetes](https://www.nuget.org/packages/Aspire.Hosting.Kubernetes) | 17.0.0 | Microsoft | Kubernetes publishing for Aspire. |
-| 2026-11-18 03:44:35 | [CefSharp.Avalonia.Windows](https://www.nuget.org/packages/CefSharp.Avalonia.Windows) | 1.3.0 | CefBrowser | Windows (x64) native binaries (CEF runtime + CefBrowser.Native host) for CefSha… |
+| 2026-11-18 04:27:36 | [WhatArch.win-x64](https://www.nuget.org/packages/WhatArch.win-x64) | 0.3.0 | Craig | A command-line tool to detect the target architecture of Windows PE binaries |
+| 2026-11-18 04:27:38 | [WhatArch.win-arm64](https://www.nuget.org/packages/WhatArch.win-arm64) | 0.3.0 | Craig | A command-line tool to detect the target architecture of Windows PE binaries |
+| 2026-11-18 04:27:40 | [WhatArch.any](https://www.nuget.org/packages/WhatArch.any) | 0.3.0 | Craig | A command-line tool to detect the target architecture of Windows PE binaries |
+| 2026-11-18 04:28:05 | [Ambystech.Relate](https://www.nuget.org/packages/Ambystech.Relate) | 1.0.0 | Ambystech | .NET client for Relate by Neo4j, the embedded Cypher graph database for AI agen… |
+| 2026-11-18 04:56:21 | [ZeroMayo.Framework.Android](https://www.nuget.org/packages/ZeroMayo.Framework.Android) | 2026.1118.0 | ppy Pty Ltd | A 2D application/game framework written with rhythm games in mind. A community… |
+| 2026-11-18 05:02:21 | [Exchange56.GithubProfile.Components.Server](https://www.nuget.org/packages/Exchange56.GithubProfile.Components.Server) | 1.0.0 | T.J. McNaboe | Server endpoints and methods for integrating with Exchange56 Github Profile cli… |
+| 2026-11-18 05:04:01 | [B4n1.Db](https://www.nuget.org/packages/B4n1.Db) | 0.1.0 | Bani Montoya | b4n1-db SDK for .NET - sovereign embedded database over the b4n1-db binary |
+| 2026-11-18 05:06:21 | [TensorStack.LlamaCpp](https://www.nuget.org/packages/TensorStack.LlamaCpp) | 0.15.0 | sa_ddam213 | .NET Wrapper API for llama.cpp |
+| 2026-11-18 05:08:03 | [ObligacionesPorPagar.TenantProvisioning.Contratos](https://www.nuget.org/packages/ObligacionesPorPagar.TenantProvisioning.Contratos) | 0.1.0 | Cosmos | Contratos que publica el worker de tenant provisioning de Obligaciones por Paga… |
+| 2026-11-18 05:12:38 | [CognitiveMemoryDatabase](https://www.nuget.org/packages/CognitiveMemoryDatabase) | 1.0.0 | CognitiveMemoryDatabase | Package Description |
 
 ## Data source
 
