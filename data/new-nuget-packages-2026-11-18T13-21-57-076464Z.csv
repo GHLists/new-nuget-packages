@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-18T12:20:05.497Z,JaAddress,0.3.0,k14a,日本の住所文字列を都道府県・市区町村・町字・丁目・番地に分けて正規化する .NET ライブラリ。geolonia/normalize-japanese-addresses の C# 移植版。住所データは含まないため、JaAddress.DataBuilder で別に取得する。
+2026-11-18T12:20:06.193Z,JaAddress.DataBuilder,0.3.0,k14a,JaAddress が使う住所データ（Geolonia 住所データ v2）を取得してローカルに保存する dotnet tool。
+2026-11-18T12:20:49.52Z,Jakar.Collections,10.1.0,Tyler Stegmaier,"Observable, concurrent and pooled collections: ObservableCollection, ConcurrentObservableCollection, ObservableDictionary, ObservableHashSet, ArrayBuffer, PooledArray and the buffer types."
+2026-11-18T12:26:31.927Z,Ubiquiti.AirOs,1.0.0,Ubiquiti.AirOs,".NET client library for managing Ubiquiti airOS devices over SSH: read and change configuration with transactional apply, firmware updates, reboots and factory resets."
+2026-11-18T12:34:04.877Z,Retrace.Exit,0.1.0,Aykut Mayali,Scan a .NET solution for Stackify Retrace usage and draft an OpenTelemetry migration report.
+2026-11-18T12:38:00.093Z,Abblix.OIDC,3.0.0,Abblix LLP,"The OAuth 2.0 and OpenID Connect vocabulary shared by Abblix OIDC Server and its client: grant and response types, scopes, prompts, error codes, client authentication methods, PKCE, and the protocol claims of a JSON Web Token."
+2026-11-18T12:38:04.68Z,Abblix.OIDC.Server.SharedSignals,3.0.0,Abblix LLP,"Runs an Abblix Shared Signals transmitter on a multi-tenant Abblix OIDC Server: each tenant's streams, queued events, delivery claims, issuer and signing keys are its own."
+2026-11-18T13:00:36.607Z,Burgr.Templates.Onion,1.10.0,Damien Lechat,"Burgr's complete template set: an ASP.NET Core API in onion architecture (Domain, Application, Infrastructure, Api, Tests projects) with EF Core and a light framework of its own, generated from a YAML model, with its AI harness. Depends on public packages only."
