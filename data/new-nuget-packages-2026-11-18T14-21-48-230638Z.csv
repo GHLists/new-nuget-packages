@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-18T13:22:12.267Z,AcceleratedKAZE,0.0.1-beta,Cularr,A managed .NET implementation of the AKAZE feature detector and the TEBLID descriptor that matches OpenCV's implementation.
+2026-11-18T13:35:23.403Z,Asteroid.PushProbe,0.0.2,probe,temporary push probe
+2026-11-18T13:36:21.02Z,Pulumi.Labs.Openai,0.2.0,Pulumi Labs,A Pulumi provider for managing resources in OpenAI.
+2026-11-18T13:40:49.293Z,DOtrishko.LiteSettings,1.0.0,Dmytro Otrishko,"Lightweight settings library for .NET. Mark properties with [Save] and persist them with SettingsStore&lt;T&gt;. Thread-safe, saves atomically and falls back to defaults if the file is missing or damaged. It has no file format of its own: use LiteSettings.Xml or plug in your own ISettingsSerializer."
+2026-11-18T13:41:11.703Z,DOtrishko.LiteSettings.Xml,1.0.0,Dmytro Otrishko,"XML format for LiteSettings. Stores [Save] properties in settings.xml under the user’s local application data folder. Install this package to get started, it includes the core LiteSettings library."
+2026-11-18T13:55:31.207Z,Validex,1.0.0,YourName,A lightweight and extensible .NET validation library.
+2026-11-18T14:04:46.55Z,Ekom.Payments.Stripe,1.1.1,Vettvangur,Ekom Payments Stripe - Vettvangur E-Commerce solution
+2026-11-18T14:05:24.997Z,AidDev.Ricochet,0.0.1,OJ,"Black-box integration testing for HTTP JSON/REST APIs: lay out steps as a plan of sequential and parallel groups, write each step as a plain method, and get a report and an exit code for CI."
+2026-11-18T14:05:25.68Z,AidDev.Ricochet.Console,0.0.1,OJ,"Console front end for Ricochet: a Spectre.Console reporter (streamed failures, the plan as a tree, a summary) and a one-line runner that reads the standard command-line flags."

@@ -12,22 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 13:21 UTC
+## Latest list — 2026-11-18 14:21 UTC
 
-New packages created between 2026-11-18 12:19 UTC and 2026-11-18 13:21 UTC.
+New packages created between 2026-11-18 13:21 UTC and 2026-11-18 14:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T13-21-57-076464Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T14-21-48-230638Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 12:20:05 | [JaAddress](https://www.nuget.org/packages/JaAddress) | 0.3.0 | k14a | 日本の住所文字列を都道府県・市区町村・町字・丁目・番地に分けて正規化する .NET ライブラリ。geolonia/normalize-japanese-add… |
-| 2026-11-18 12:20:06 | [JaAddress.DataBuilder](https://www.nuget.org/packages/JaAddress.DataBuilder) | 0.3.0 | k14a | JaAddress が使う住所データ（Geolonia 住所データ v2）を取得してローカルに保存する dotnet tool。 |
-| 2026-11-18 12:20:49 | [Jakar.Collections](https://www.nuget.org/packages/Jakar.Collections) | 10.1.0 | Tyler Stegmaier | Observable, concurrent and pooled collections: ObservableCollection, Concurrent… |
-| 2026-11-18 12:26:31 | [Ubiquiti.AirOs](https://www.nuget.org/packages/Ubiquiti.AirOs) | 1.0.0 | Ubiquiti.AirOs | .NET client library for managing Ubiquiti airOS devices over SSH: read and chan… |
-| 2026-11-18 12:34:04 | [Retrace.Exit](https://www.nuget.org/packages/Retrace.Exit) | 0.1.0 | Aykut Mayali | Scan a .NET solution for Stackify Retrace usage and draft an OpenTelemetry migr… |
-| 2026-11-18 12:38:00 | [Abblix.OIDC](https://www.nuget.org/packages/Abblix.OIDC) | 3.0.0 | Abblix LLP | The OAuth 2.0 and OpenID Connect vocabulary shared by Abblix OIDC Server and it… |
-| 2026-11-18 12:38:04 | [Abblix.OIDC.Server.SharedSignals](https://www.nuget.org/packages/Abblix.OIDC.Server.SharedSignals) | 3.0.0 | Abblix LLP | Runs an Abblix Shared Signals transmitter on a multi-tenant Abblix OIDC Server:… |
-| 2026-11-18 13:00:36 | [Burgr.Templates.Onion](https://www.nuget.org/packages/Burgr.Templates.Onion) | 1.10.0 | Damien Lechat | Burgr's complete template set: an ASP.NET Core API in onion architecture (Domai… |
+| 2026-11-18 13:22:12 | [AcceleratedKAZE](https://www.nuget.org/packages/AcceleratedKAZE) | 0.0.1-beta | Cularr | A managed .NET implementation of the AKAZE feature detector and the TEBLID desc… |
+| 2026-11-18 13:35:23 | [Asteroid.PushProbe](https://www.nuget.org/packages/Asteroid.PushProbe) | 0.0.2 | probe | temporary push probe |
+| 2026-11-18 13:36:21 | [Pulumi.Labs.Openai](https://www.nuget.org/packages/Pulumi.Labs.Openai) | 0.2.0 | Pulumi Labs | A Pulumi provider for managing resources in OpenAI. |
+| 2026-11-18 13:40:49 | [DOtrishko.LiteSettings](https://www.nuget.org/packages/DOtrishko.LiteSettings) | 1.0.0 | Dmytro Otrishko | Lightweight settings library for .NET. Mark properties with [Save] and persist… |
+| 2026-11-18 13:41:11 | [DOtrishko.LiteSettings.Xml](https://www.nuget.org/packages/DOtrishko.LiteSettings.Xml) | 1.0.0 | Dmytro Otrishko | XML format for LiteSettings. Stores [Save] properties in settings.xml under the… |
+| 2026-11-18 13:55:31 | [Validex](https://www.nuget.org/packages/Validex) | 1.0.0 | YourName | A lightweight and extensible .NET validation library. |
+| 2026-11-18 14:04:46 | [Ekom.Payments.Stripe](https://www.nuget.org/packages/Ekom.Payments.Stripe) | 1.1.1 | Vettvangur | Ekom Payments Stripe - Vettvangur E-Commerce solution |
+| 2026-11-18 14:05:24 | [AidDev.Ricochet](https://www.nuget.org/packages/AidDev.Ricochet) | 0.0.1 | OJ | Black-box integration testing for HTTP JSON/REST APIs: lay out steps as a plan… |
+| 2026-11-18 14:05:25 | [AidDev.Ricochet.Console](https://www.nuget.org/packages/AidDev.Ricochet.Console) | 0.0.1 | OJ | Console front end for Ricochet: a Spectre.Console reporter (streamed failures,… |
 
 ## Data source
 
