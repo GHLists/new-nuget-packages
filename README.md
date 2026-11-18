@@ -12,29 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 08:22 UTC
+## Latest list — 2026-11-18 09:21 UTC
 
-New packages created between 2026-11-18 07:19 UTC and 2026-11-18 08:22 UTC.
+New packages created between 2026-11-18 08:22 UTC and 2026-11-18 09:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T08-22-13-748574Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T09-21-05-702521Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 07:24:09 | [Jens.EntityMapper](https://www.nuget.org/packages/Jens.EntityMapper) | 0.1.0 | Jens | Convention-based object-to-object mapper with mapping profiles and IQueryable p… |
-| 2026-11-18 07:27:37 | [NettyApps.Platform.API](https://www.nuget.org/packages/NettyApps.Platform.API) | 10.0.0 | NettyApps Enterprise Architec… | Database-agnostic ASP.NET Core (.NET 10 & .NET 11) headless REST API SDK for al… |
-| 2026-11-18 07:30:30 | [Eplicta.Ipx](https://www.nuget.org/packages/Eplicta.Ipx) | 1.0.0 | Eplicta AB | Reads, writes and validates IPX, the Information Plan Exchange format for infor… |
-| 2026-11-18 07:30:31 | [Eplicta.Ipx.Tool](https://www.nuget.org/packages/Eplicta.Ipx.Tool) | 1.0.0 | Eplicta AB | The ipx command-line tool: validate IPX documents, and compare the retention of… |
-| 2026-11-18 07:32:41 | [OpenDCP.Framework.Connections.Datasource.Snowflake](https://www.nuget.org/packages/OpenDCP.Framework.Connections.Datasource.Snowflake) | 0.3.0 | OpenDCP.Framework.Connections… | Package Description |
-| 2026-11-18 07:33:44 | [NettyApps.Platform.AspNetCore](https://www.nuget.org/packages/NettyApps.Platform.AspNetCore) | 10.0.0 | NettyApps Enterprise Architec… | Database-agnostic ASP.NET Core (.NET 10 & .NET 11) security and multi-tenancy S… |
-| 2026-11-18 07:33:53 | [NanoFlags.OpenFeature](https://www.nuget.org/packages/NanoFlags.OpenFeature) | 0.1.0 | NanoFlags | OpenFeature (https://openfeature.dev) provider for the NanoFlags .NET server SD… |
-| 2026-11-18 07:33:53 | [NanoFlags](https://www.nuget.org/packages/NanoFlags) | 0.1.0 | NanoFlags | NanoFlags feature flags for .NET servers: local, synchronous evaluation (a port… |
-| 2026-11-18 07:34:30 | [NettyApps.Platform.Primitives](https://www.nuget.org/packages/NettyApps.Platform.Primitives) | 10.0.0 | NettyApps Enterprise Architec… | Universal zero-dependency enterprise primitives for .NET 10 and .NET 11 across… |
-| 2026-11-18 07:37:21 | [Mafesoft.VimeoClient.Extensions.DependencyInjection](https://www.nuget.org/packages/Mafesoft.VimeoClient.Extensions.DependencyInjection) | 3.4.2 | Federico Mazzanti | Registers Mafesoft.VimeoClient in the Microsoft.Extensions dependency injection… |
-| 2026-11-18 07:45:53 | [Hlibz.MinimalApi.Endpoints.FluentValidation](https://www.nuget.org/packages/Hlibz.MinimalApi.Endpoints.FluentValidation) | 1.0.0 | Hlib Zinchenko | Automatic FluentValidation for Hlibz.MinimalApi.Endpoints: options.AddFluentVal… |
-| 2026-11-18 07:45:53 | [Hlibz.MinimalApi.Endpoints](https://www.nuget.org/packages/Hlibz.MinimalApi.Endpoints) | 1.0.0 | Hlib Zinchenko | One class per minimal API endpoint, discovered and mapped for you: implement IE… |
-| 2026-11-18 07:46:13 | [Hlibz.Paging](https://www.nuget.org/packages/Hlibz.Paging) | 1.0.0 | Hlib Zinchenko | Paging and sorting for list endpoints: [Sortable] marks which DTO properties a… |
-| 2026-11-18 07:46:14 | [Hlibz.Paging.EntityFrameworkCore](https://www.nuget.org/packages/Hlibz.Paging.EntityFrameworkCore) | 1.0.0 | Hlib Zinchenko | PaginateAsync for Entity Framework Core: sorts an IQueryable by Hlibz.Paging's… |
-| 2026-11-18 07:53:22 | [Hlibz.OpenApi.AspNetCore](https://www.nuget.org/packages/Hlibz.OpenApi.AspNetCore) | 1.0.0 | Hlib Zinchenko | Transformers for Microsoft.AspNetCore.OpenApi: XML summaries as descriptions, r… |
+| 2026-11-18 08:46:28 | [PageRush](https://www.nuget.org/packages/PageRush) | 0.1.0 | Arsi Consultancy | .NET client for the PageRush API: store Typst templates, render them with JSON… |
+| 2026-11-18 08:52:07 | [gzSimulation](https://www.nuget.org/packages/gzSimulation) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for simulation utilities in GizmoSDK |
+| 2026-11-18 08:52:13 | [gzDynamics](https://www.nuget.org/packages/gzDynamics) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for dynamic simulation in GizmoSDK |
+| 2026-11-18 08:52:18 | [gzGroundClamp](https://www.nuget.org/packages/gzGroundClamp) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for map groundclamps in GizmoSDK |
+| 2026-11-18 08:52:24 | [gzKML](https://www.nuget.org/packages/gzKML) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for KML reading in GizmoSDK |
+| 2026-11-18 08:52:30 | [gzTest](https://www.nuget.org/packages/gzTest) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for test methods in GizmoSDK |
+| 2026-11-18 08:53:52 | [Ranvier.Keyboard.Dom](https://www.nuget.org/packages/Ranvier.Keyboard.Dom) | 0.1.0 | shayanhabibi | Native .NET DOM adapter bridging Ranvier.Dom.KeyboardEvent to Ranvier.Keyboard… |
+| 2026-11-18 08:53:52 | [Fable.Ranvier.Keyboard.Dom](https://www.nuget.org/packages/Fable.Ranvier.Keyboard.Dom) | 0.1.0 | shayanhabibi | Fable (fickl) browser DOM adapter bridging Ranvier.Dom.KeyboardEvent (from Fabl… |
+| 2026-11-18 08:53:53 | [Ranvier.Keyboard.Traced](https://www.nuget.org/packages/Ranvier.Keyboard.Traced) | 0.1.0 | shayanhabibi | The traced build of Ranvier.Keyboard: DOM-free keyboard primitives, SIMD W3C/IS… |
+| 2026-11-18 08:53:53 | [Fable.Ranvier.Keyboard.Dom.Traced](https://www.nuget.org/packages/Fable.Ranvier.Keyboard.Dom.Traced) | 0.1.0 | shayanhabibi | The traced build of Fable.Ranvier.Keyboard.Dom: Fable browser Ranvier.Dom.Keybo… |
+| 2026-11-18 08:53:54 | [Ranvier.Keyboard.Dom.Traced](https://www.nuget.org/packages/Ranvier.Keyboard.Dom.Traced) | 0.1.0 | shayanhabibi | The traced build of Ranvier.Keyboard.Dom: native .NET Ranvier.Dom.KeyboardEvent… |
+| 2026-11-18 08:53:55 | [Ranvier.Keyboard](https://www.nuget.org/packages/Ranvier.Keyboard) | 0.1.0 | shayanhabibi | DOM-free keyboard primitives for .NET and Fable (fickl): W3C KeyboardEvent.code… |
+| 2026-11-18 09:04:34 | [Nocturne.Wpf](https://www.nuget.org/packages/Nocturne.Wpf) | 0.1.2 | Martin Kirk | Nocturne: a dark theme for WPF on .NET 8+. Windows 11 Acrylic, Mica or Mica Alt… |
+| 2026-11-18 09:05:51 | [Matchsalud](https://www.nuget.org/packages/Matchsalud) | 1.0.0 | Match con tu salud — PrEP and… | Match con tu salud PrEP and HIV counseling El Salvador constants. Official: htt… |
 
 ## Data source
 
