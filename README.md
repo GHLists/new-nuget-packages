@@ -12,34 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 21:20 UTC
+## Latest list — 2026-11-18 22:21 UTC
 
-New packages created between 2026-11-18 20:21 UTC and 2026-11-18 21:20 UTC.
+New packages created between 2026-11-18 21:20 UTC and 2026-11-18 22:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T21-20-25-082954Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T22-21-55-704093Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 20:22:04 | [HtmlToImageRenderer](https://www.nuget.org/packages/HtmlToImageRenderer) | 0.0.1 | Zveruga | Lightweight HTML5 + CSS renderer that rasterizes markup to PNG via SkiaSharp. |
-| 2026-11-18 20:34:59 | [PowerShell.linux-arm](https://www.nuget.org/packages/PowerShell.linux-arm) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:02 | [PowerShell.linux-arm64](https://www.nuget.org/packages/PowerShell.linux-arm64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:06 | [REDcat.Modding.TLD.ModSettings](https://www.nuget.org/packages/REDcat.Modding.TLD.ModSettings) | 2.2.6 | REDcat | Package Description |
-| 2026-11-18 20:35:12 | [PowerShell.linux-musl-x64](https://www.nuget.org/packages/PowerShell.linux-musl-x64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:15 | [PowerShell.linux-x64](https://www.nuget.org/packages/PowerShell.linux-x64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:17 | [PowerShell.osx-arm64](https://www.nuget.org/packages/PowerShell.osx-arm64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:20 | [PowerShell.osx-x64](https://www.nuget.org/packages/PowerShell.osx-x64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:23 | [PowerShell.win-arm64](https://www.nuget.org/packages/PowerShell.win-arm64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:35:27 | [PowerShell.win-x64](https://www.nuget.org/packages/PowerShell.win-x64) | 7.7.0 | Microsoft | PowerShell global tool |
-| 2026-11-18 20:49:24 | [bitbucket-mcp.linux-x64](https://www.nuget.org/packages/bitbucket-mcp.linux-x64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
-| 2026-11-18 20:49:25 | [bitbucket-mcp.linux-arm64](https://www.nuget.org/packages/bitbucket-mcp.linux-arm64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
-| 2026-11-18 20:49:26 | [bitbucket-mcp.win-x64](https://www.nuget.org/packages/bitbucket-mcp.win-x64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
-| 2026-11-18 20:49:28 | [bitbucket-mcp.win-arm64](https://www.nuget.org/packages/bitbucket-mcp.win-arm64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
-| 2026-11-18 20:49:29 | [bitbucket-mcp.osx-arm64](https://www.nuget.org/packages/bitbucket-mcp.osx-arm64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
-| 2026-11-18 20:49:30 | [bitbucket-mcp.any](https://www.nuget.org/packages/bitbucket-mcp.any) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
-| 2026-11-18 20:54:56 | [Jspassgen](https://www.nuget.org/packages/Jspassgen) | 0.0.22 | Sebastien Rousseau | Native .NET port of the jspassgen password generator core, on the platform CSPR… |
-| 2026-11-18 21:04:10 | [MVAI.WebDAV.Update](https://www.nuget.org/packages/MVAI.WebDAV.Update) | 1.0.0-alpha | CuPhoenix | 从主源或备源进行 WebDAV 目录检查、校验并打开 Windows MSIX 或 Android APK 更新。 |
-| 2026-11-18 21:06:35 | [EcoSQL.Request](https://www.nuget.org/packages/EcoSQL.Request) | 1.0.0 | Sleddie | Package Description |
-| 2026-11-18 21:06:55 | [RecDiffy.Extensions](https://www.nuget.org/packages/RecDiffy.Extensions) | 1.2.0 | Michael Vaysman | Reconciliation for .NET: extension methods that return the result of a RecDiffy… |
+| 2026-11-18 21:23:31 | [BellaBaxter.Cli](https://www.nuget.org/packages/BellaBaxter.Cli) | 0.1.2 | bella | Package Description |
+| 2026-11-18 21:32:18 | [EconomyApi.Extensions.DependencyInjection](https://www.nuget.org/packages/EconomyApi.Extensions.DependencyInjection) | 1.3.1 | Sveinung,ThomasP | IHttpClientFactory / dependency injection registration for the EconomyApi V2 cl… |
+| 2026-11-18 21:37:03 | [FControls3d](https://www.nuget.org/packages/FControls3d) | 1.0.0 | Fabio Gordiano | Custom 3D hardware-style controls for Windows Forms (Slider3d, V-Meters, LCD di… |
+| 2026-11-18 21:48:13 | [Shorthand.UmbracoHelpers](https://www.nuget.org/packages/Shorthand.UmbracoHelpers) | 18.0.0 | Karl-Johan Sjögren | Provides helpers for Umbraco development. |
+| 2026-11-18 21:49:14 | [Stet](https://www.nuget.org/packages/Stet) | 0.0.1 | rthomasv3 | A spelling and grammar checker built for fiction. Offline, pure managed C#, no… |
+| 2026-11-18 21:53:38 | [Heroicsoft.NetForge.WebAssets](https://www.nuget.org/packages/Heroicsoft.NetForge.WebAssets) | 1.2.6 | Matt Gordon | Serves a library's wwwroot from the assembly at the usual _content path, for ho… |
+| 2026-11-18 22:01:53 | [ITHit.FileSystem.IOS](https://www.nuget.org/packages/ITHit.FileSystem.IOS) | 9.2.29685 | IT Hit, Ltd | IT Hit User File System Engine for iOS provides a high-level API for creating a… |
 
 ## Data source
 

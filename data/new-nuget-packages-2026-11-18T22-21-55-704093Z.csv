@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-18T21:23:31.947Z,BellaBaxter.Cli,0.1.2,bella,Package Description
+2026-11-18T21:32:18.177Z,EconomyApi.Extensions.DependencyInjection,1.3.1,"Sveinung,ThomasP",IHttpClientFactory / dependency injection registration for the EconomyApi V2 client (Economy.V2.EconomyClient).
+2026-11-18T21:37:03.273Z,FControls3d,1.0.0,Fabio Gordiano,"Custom 3D hardware-style controls for Windows Forms (Slider3d, V-Meters, LCD displays)."
+2026-11-18T21:48:13.16Z,Shorthand.UmbracoHelpers,18.0.0,Karl-Johan Sjögren,Provides helpers for Umbraco development.
+2026-11-18T21:49:14.157Z,Stet,0.0.1,rthomasv3,"A spelling and grammar checker built for fiction. Offline, pure managed C#, no native code, Native AOT safe. Tuned to stay quiet on correct prose: it accepts a character's voice in dialogue, takes the writer's own names and coined words, and checks the punctuation around speech."
+2026-11-18T21:53:38.017Z,Heroicsoft.NetForge.WebAssets,1.2.6,Matt Gordon,"Serves a library's wwwroot from the assembly at the usual _content path, for hosts that load the library without a compile-time reference."
+2026-11-18T22:01:53.847Z,ITHit.FileSystem.IOS,9.2.29685,"IT Hit, Ltd","IT Hit User File System Engine for iOS provides a high-level API for creating a user file system in .NET/Xamarin with synchronization support, on-demand loading, offline files, and Files app integration. 100% safe, managed code. No unsafe memory management operations. No blue screens. IT Hit User F…"
