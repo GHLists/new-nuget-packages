@@ -1,0 +1,33 @@
+created_at,package,version,authors,description
+2026-11-18T01:20:03.993Z,DotProlog.Compiler.Cli,0.18.0,Aleksandr Pavlov,Compiles Prolog directly to .NET IL and publishes standalone executables with NativeAOT.
+2026-11-18T01:29:44.47Z,Webority.Audit.AzureMonitor,0.27.0,Webority Technologies,"Azure Monitor history log for the Webority audit library: one row per audit entry sent to a Log Analytics custom table through the Logs Ingestion API with managed identity, each carrying the event's own time in EventTime, and a reader for one record's rows newest first through the Logs query API. P…"
+2026-11-18T01:34:44.117Z,NNUE.Net,1.0.0,Krenckel,"Feature-agnostic NNUE (efficiently updatable neural network) library: SIMD evaluation (AVX512-VNNI, AVX-512, AVX-VNNI, AVX2, SSSE3, NEON), incremental accumulator updates, Int16 and Stockfish-style Int8 networks, training, quantization, bullet import."
+2026-11-18T01:41:04.713Z,GraphicsSurface,1.0.0,Dwain Snickles,Scroll-zoomable WinForms design surface control with a graphic object model. Ships builds for .NET Framework 4.8 and .NET 8+ (net8.0-windows and later). GraphicObjects.dll is bundled inside this package.
+2026-11-18T01:41:34.893Z,GraphicObjects,1.0.0,Dwain Snickles,"Graphic object model for WinForms design surfaces (GraphicObject, shapes, text, images and image filters). Ships builds for .NET Framework 4.8 and .NET 8+ (net8.0-windows and later)."
+2026-11-18T01:42:53.15Z,E2E.FullValidation.6905a610210643cdbde6a808d4b377f7,1.0.0,EndToEndTests,Description of E2E.FullValidation.6905a610210643cdbde6a808d4b377f7
+2026-11-18T01:42:53.173Z,E2E.LicenseUrl.eacc5b3d2bb14bca806191fa03cb9f62,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.eacc5b3d2bb14bca806191fa03cb9f62
+2026-11-18T01:42:53.463Z,E2E.EmbeddedIconPng.72a4976dc02944e5a3fb9713d7edc7d3,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.72a4976dc02944e5a3fb9713d7edc7d3
+2026-11-18T01:42:53.467Z,E2E.EmbeddedIconJpeg.0cf41103414444e788bdf189acc80e85,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.0cf41103414444e788bdf189acc80e85
+2026-11-18T01:42:53.48Z,E2E.EmbeddedReadmeFile.79755e6b8b90430fa39666f522e65a7e,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.79755e6b8b90430fa39666f522e65a7e
+2026-11-18T01:42:53.497Z,E2E.LicenseFile.72c8e2564b0f4d6c95bf1cda135a5abf,1.0.0,EndToEndTests,Description of E2E.LicenseFile.72c8e2564b0f4d6c95bf1cda135a5abf
+2026-11-18T01:42:53.497Z,E2E.SemVer1Stable.db189b1e757a4f8a993f0b835714ec0a,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.db189b1e757a4f8a993f0b835714ec0a
+2026-11-18T01:42:54.083Z,E2E.LicenseExpression.4a40147fef4b4fb28d335433d4fbafcc,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.4a40147fef4b4fb28d335433d4fbafcc
+2026-11-18T01:42:54.11Z,E2E.Deprecated.6e4443341b504e6490a5470d9b210301,1.0.0,EndToEndTests,Description of E2E.Deprecated.6e4443341b504e6490a5470d9b210301
+2026-11-18T01:43:04.563Z,E2E.SymbolsPackage.3bac7a63d83d4f03b8bae21dcfce16c3,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.3bac7a63d83d4f03b8bae21dcfce16c3
+2026-11-18T01:43:05.663Z,E2E.DotnetTool.6bbf5f2b2ae845758526381c7d42ebe8,1.0.0,E2E.DotnetTool,Package Description
+2026-11-18T01:44:44.4Z,Stb.Managed,1.0.0,SeNS,"All Stb.Managed libraries: fully managed, optimized ports of the stb single-file libraries."
+2026-11-18T01:48:37.467Z,Stb.Managed.Core,1.0.0,SeNS,"Shared infrastructure for Stb.Managed: limits, errors, pixel buffers, bit readers, SIMD helpers."
+2026-11-18T01:48:41.32Z,Stb.Managed.Dxt,1.0.0,SeNS,"Fully managed BC1/BC3/BC4/BC5 (DXT) texture compressor, a port of stb_dxt."
+2026-11-18T01:48:42.967Z,Stb.Managed.Gpu,1.0.0,SeNS,"Optional ILGPU hardware-accelerated backend (CUDA, OpenCL, CPU) for Stb.Managed — DXT/BC compression, Perlin noise fields, separable image resizing & mipmap chains, TrueType SDF font atlases, and batch color conversion with automatic CPU fallback."
+2026-11-18T01:48:44.277Z,Stb.Managed.Image,1.0.0,SeNS,"Fully managed image decoder (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC, PNM), a port of stb_image."
+2026-11-18T01:48:45.493Z,Stb.Managed.ImageResize,1.0.0,SeNS,"Fully managed image resampler, a port of stb_image_resize2."
+2026-11-18T01:48:46.54Z,Stb.Managed.ImageWrite,1.0.0,SeNS,"Fully managed image encoder (PNG, BMP, TGA, JPEG, HDR), a port of stb_image_write."
+2026-11-18T01:48:47.657Z,Stb.Managed.Perlin,1.0.0,SeNS,"Fully managed Perlin noise, a port of stb_perlin."
+2026-11-18T01:48:48.693Z,Stb.Managed.RectPack,1.0.0,SeNS,"Fully managed rectangle packer for texture atlases, a port of stb_rect_pack."
+2026-11-18T01:48:52.92Z,Stb.Managed.TrueType,1.0.0,SeNS,"Fully managed TrueType parser and rasterizer with SDF, a port of stb_truetype."
+2026-11-18T01:51:04.067Z,SimpleSign.Peru.Iofe.Cli,0.13.0,SimpleSign Contributors,"IOFE (Peru) for the SimpleSign CLI, installed with 'simplesign extension install SimpleSign.Peru.Iofe.Cli': --profile iofe (INDECOPI's trusted list and policies), the iofe policy presets, --tsl-profile iofe, and 'simplesign iofe sign|verify|view' — the configuration of INDECOPI's accreditation guid…"
+2026-11-18T01:51:09.653Z,SimpleSign.Peru.Iofe.Accredited,0.13.0,SimpleSign Contributors,"The configuration of SimpleSign that INDECOPI's accreditation guide for signature software (v4.0, sections 4.2 to 4.4) asks for, with nothing to relax: signing by an automated agent with the key in a PKCS#11 module, verification by an automated agent with a notice to the sender, the checks of each…"
+2026-11-18T01:51:10.563Z,SimpleSign.Cli.Extensibility,0.13.0,SimpleSign Contributors,"The contract of the extensions of the SimpleSign CLI: what a package adds to 'simplesign' after it is installed with 'simplesign extension install' — commands, trust profiles, policy presets and trusted-list profiles."
+2026-11-18T01:51:11.307Z,SimpleSign.Brazil.Cli,0.13.0,SimpleSign Contributors,"Brazil (ICP-Brasil, Gov.br, Lei 14.063) for the SimpleSign CLI, installed with 'simplesign extension install SimpleSign.Brazil.Cli': --profile icp-brasil and gov-br, the icp-brasil and govbr policy presets, 'simplesign brasil sign' (ICP-Brasil PAdES policies AD-RB to AD-RA, advanced electronic sign…"
+2026-11-18T01:51:11.83Z,SimpleSign.Europe.Eidas.Cli,0.13.0,SimpleSign Contributors,"eIDAS (EU) for the SimpleSign CLI, installed with 'simplesign extension install SimpleSign.Europe.Eidas.Cli': --profile eidas (the EU LOTL and its trusted lists, the qualification of each signature) and the eidas policy presets."
+2026-11-18T01:52:44.087Z,GrayMint.Common.OpenApi,2.1.308,GrayMint,"ASP.NET Core's own OpenAPI document, shaped for client generators, with a bearer scheme and the Scalar UI"
