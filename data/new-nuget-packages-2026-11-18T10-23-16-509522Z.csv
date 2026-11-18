@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-18T09:25:54.007Z,AZcaptcha.Sdk,1.0.0,AZcaptcha,"Official AZcaptcha SDK — reCAPTCHA, hCaptcha, Turnstile and image captchas"
+2026-11-18T09:47:32.967Z,Pixata.Blazor.PdfViewer,1.1.0,Avrohom Yisroel Silver,"A PDF viewer for Blazor, with page navigation, zoom, rotation, text search, download and print, using PDF.js. Users can mark it up with notes, highlights, strike-through, drawing and text, kept apart from the PDF."
+2026-11-18T09:49:53.86Z,Pixata.Pdf,1.1.0,Avrohom Yisroel Silver,"Combines several PDFs into one, keeping each page's size and orientation, such as a generated cover page followed by a document the user uploaded, and draws mark-up from Pixata.Blazor.PdfViewer into a PDF. Uses PdfPig (Apache 2.0), so needs no licence"
+2026-11-18T09:57:46.957Z,AStarDev.SingleInstance,0.1.1,Jason Barden,"One running instance per user for AStar Development desktop apps, with a hand-off that brings the running window forward."
+2026-11-18T09:57:47.36Z,AStarDev.InfrastructureFilesDb,0.1.0,"AStar Development, Jason Barden",EF Core persistence models and configuration for scraper and file metadata.
+2026-11-18T09:58:01.513Z,AStarDev.VelopackPublishing,1.3.1,Jason Barden,Shared Velopack update check/download/apply service and options binding used by AStar Development desktop apps.
+2026-11-18T10:03:06.627Z,tongyong_lei2,1.0.0,tongyong_lei2,通用 MySQL 访问辅助库（IMySqlHelper / 分组连接）
+2026-11-18T10:09:02.927Z,Bielu.AspNetCore.Arazzo.Scalar,3.0.0,Arkadiusz Biel,Arazzo workflows in the Scalar API Reference for ASP.NET Core. Serves a Scalar plugin that renders Arazzo documents next to the OpenAPI and AsyncAPI documents their steps call.
+2026-11-18T10:09:43.95Z,Umbraco.Mcp.HostedAuth,18.0.0,Umbraco,"Wires hosted Umbraco MCP Cloudflare Workers into the backoffice OAuth flow, on Umbraco Cloud and self-hosted alike: registers the workers as OpenIddict authorization_code clients, fixes cold-start SSO on the management API authorize endpoint (Cloud), and keeps MCP sessions alive across backoffice l…"

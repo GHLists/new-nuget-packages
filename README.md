@@ -12,28 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 09:21 UTC
+## Latest list — 2026-11-18 10:23 UTC
 
-New packages created between 2026-11-18 08:22 UTC and 2026-11-18 09:21 UTC.
+New packages created between 2026-11-18 09:21 UTC and 2026-11-18 10:23 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T09-21-05-702521Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T10-23-16-509522Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 08:46:28 | [PageRush](https://www.nuget.org/packages/PageRush) | 0.1.0 | Arsi Consultancy | .NET client for the PageRush API: store Typst templates, render them with JSON… |
-| 2026-11-18 08:52:07 | [gzSimulation](https://www.nuget.org/packages/gzSimulation) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for simulation utilities in GizmoSDK |
-| 2026-11-18 08:52:13 | [gzDynamics](https://www.nuget.org/packages/gzDynamics) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for dynamic simulation in GizmoSDK |
-| 2026-11-18 08:52:18 | [gzGroundClamp](https://www.nuget.org/packages/gzGroundClamp) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for map groundclamps in GizmoSDK |
-| 2026-11-18 08:52:24 | [gzKML](https://www.nuget.org/packages/gzKML) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for KML reading in GizmoSDK |
-| 2026-11-18 08:52:30 | [gzTest](https://www.nuget.org/packages/gzTest) | 2.12.351.1 | Anders Modén @ (Saab AB) | This is the native C++ API for test methods in GizmoSDK |
-| 2026-11-18 08:53:52 | [Ranvier.Keyboard.Dom](https://www.nuget.org/packages/Ranvier.Keyboard.Dom) | 0.1.0 | shayanhabibi | Native .NET DOM adapter bridging Ranvier.Dom.KeyboardEvent to Ranvier.Keyboard… |
-| 2026-11-18 08:53:52 | [Fable.Ranvier.Keyboard.Dom](https://www.nuget.org/packages/Fable.Ranvier.Keyboard.Dom) | 0.1.0 | shayanhabibi | Fable (fickl) browser DOM adapter bridging Ranvier.Dom.KeyboardEvent (from Fabl… |
-| 2026-11-18 08:53:53 | [Ranvier.Keyboard.Traced](https://www.nuget.org/packages/Ranvier.Keyboard.Traced) | 0.1.0 | shayanhabibi | The traced build of Ranvier.Keyboard: DOM-free keyboard primitives, SIMD W3C/IS… |
-| 2026-11-18 08:53:53 | [Fable.Ranvier.Keyboard.Dom.Traced](https://www.nuget.org/packages/Fable.Ranvier.Keyboard.Dom.Traced) | 0.1.0 | shayanhabibi | The traced build of Fable.Ranvier.Keyboard.Dom: Fable browser Ranvier.Dom.Keybo… |
-| 2026-11-18 08:53:54 | [Ranvier.Keyboard.Dom.Traced](https://www.nuget.org/packages/Ranvier.Keyboard.Dom.Traced) | 0.1.0 | shayanhabibi | The traced build of Ranvier.Keyboard.Dom: native .NET Ranvier.Dom.KeyboardEvent… |
-| 2026-11-18 08:53:55 | [Ranvier.Keyboard](https://www.nuget.org/packages/Ranvier.Keyboard) | 0.1.0 | shayanhabibi | DOM-free keyboard primitives for .NET and Fable (fickl): W3C KeyboardEvent.code… |
-| 2026-11-18 09:04:34 | [Nocturne.Wpf](https://www.nuget.org/packages/Nocturne.Wpf) | 0.1.2 | Martin Kirk | Nocturne: a dark theme for WPF on .NET 8+. Windows 11 Acrylic, Mica or Mica Alt… |
-| 2026-11-18 09:05:51 | [Matchsalud](https://www.nuget.org/packages/Matchsalud) | 1.0.0 | Match con tu salud — PrEP and… | Match con tu salud PrEP and HIV counseling El Salvador constants. Official: htt… |
+| 2026-11-18 09:25:54 | [AZcaptcha.Sdk](https://www.nuget.org/packages/AZcaptcha.Sdk) | 1.0.0 | AZcaptcha | Official AZcaptcha SDK — reCAPTCHA, hCaptcha, Turnstile and image captchas |
+| 2026-11-18 09:47:32 | [Pixata.Blazor.PdfViewer](https://www.nuget.org/packages/Pixata.Blazor.PdfViewer) | 1.1.0 | Avrohom Yisroel Silver | A PDF viewer for Blazor, with page navigation, zoom, rotation, text search, dow… |
+| 2026-11-18 09:49:53 | [Pixata.Pdf](https://www.nuget.org/packages/Pixata.Pdf) | 1.1.0 | Avrohom Yisroel Silver | Combines several PDFs into one, keeping each page's size and orientation, such… |
+| 2026-11-18 09:57:46 | [AStarDev.SingleInstance](https://www.nuget.org/packages/AStarDev.SingleInstance) | 0.1.1 | Jason Barden | One running instance per user for AStar Development desktop apps, with a hand-o… |
+| 2026-11-18 09:57:47 | [AStarDev.InfrastructureFilesDb](https://www.nuget.org/packages/AStarDev.InfrastructureFilesDb) | 0.1.0 | AStar Development, Jason Bard… | EF Core persistence models and configuration for scraper and file metadata. |
+| 2026-11-18 09:58:01 | [AStarDev.VelopackPublishing](https://www.nuget.org/packages/AStarDev.VelopackPublishing) | 1.3.1 | Jason Barden | Shared Velopack update check/download/apply service and options binding used by… |
+| 2026-11-18 10:03:06 | [tongyong_lei2](https://www.nuget.org/packages/tongyong_lei2) | 1.0.0 | tongyong_lei2 | 通用 MySQL 访问辅助库（IMySqlHelper / 分组连接） |
+| 2026-11-18 10:09:02 | [Bielu.AspNetCore.Arazzo.Scalar](https://www.nuget.org/packages/Bielu.AspNetCore.Arazzo.Scalar) | 3.0.0 | Arkadiusz Biel | Arazzo workflows in the Scalar API Reference for ASP.NET Core. Serves a Scalar… |
+| 2026-11-18 10:09:43 | [Umbraco.Mcp.HostedAuth](https://www.nuget.org/packages/Umbraco.Mcp.HostedAuth) | 18.0.0 | Umbraco | Wires hosted Umbraco MCP Cloudflare Workers into the backoffice OAuth flow, on… |
 
 ## Data source
 
