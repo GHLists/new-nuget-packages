@@ -12,32 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 20:21 UTC
+## Latest list — 2026-11-18 21:20 UTC
 
-New packages created between 2026-11-18 19:21 UTC and 2026-11-18 20:21 UTC.
+New packages created between 2026-11-18 20:21 UTC and 2026-11-18 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T20-21-34-451145Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T21-20-25-082954Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 19:28:05 | [Singulink.CodeAnalysis.Analyzers](https://www.nuget.org/packages/Singulink.CodeAnalysis.Analyzers) | 0.5.0 | Singulink | Roslyn analyzers that check code against the Singulink.CodeAnalysis attributes,… |
-| 2026-11-18 19:28:09 | [Singulink.CodeAnalysis](https://www.nuget.org/packages/Singulink.CodeAnalysis) | 0.5.0 | Singulink | Attributes that mark types and members for the Singulink.CodeAnalysis analyzers… |
-| 2026-11-18 19:29:04 | [REDcat.OpenVoiceSharp](https://www.nuget.org/packages/REDcat.OpenVoiceSharp) | 1.0.4 | realcoloride, MrREDcat | OpenVoiceSharp - Agnostic C# VoIP/Voice Chat Library using Opus. |
-| 2026-11-18 19:30:43 | [Waring.Maui.Carbon](https://www.nuget.org/packages/Waring.Maui.Carbon) | 0.1.0 | Joshua Waring | An unofficial .NET MAUI implementation of the Carbon Design System (v11): four… |
-| 2026-11-18 19:35:02 | [mcp-sonarqube.linux-x64](https://www.nuget.org/packages/mcp-sonarqube.linux-x64) | 1.3.0 | Marko Lahma | Model Context Protocol server for SonarQube Cloud - projects, quality gates, is… |
-| 2026-11-18 19:35:04 | [mcp-sonarqube.linux-arm64](https://www.nuget.org/packages/mcp-sonarqube.linux-arm64) | 1.3.0 | Marko Lahma | Model Context Protocol server for SonarQube Cloud - projects, quality gates, is… |
-| 2026-11-18 19:35:05 | [mcp-sonarqube.win-x64](https://www.nuget.org/packages/mcp-sonarqube.win-x64) | 1.3.0 | Marko Lahma | Model Context Protocol server for SonarQube Cloud - projects, quality gates, is… |
-| 2026-11-18 19:35:06 | [mcp-sonarqube.win-arm64](https://www.nuget.org/packages/mcp-sonarqube.win-arm64) | 1.3.0 | Marko Lahma | Model Context Protocol server for SonarQube Cloud - projects, quality gates, is… |
-| 2026-11-18 19:35:06 | [JTigerNova.Tiffany](https://www.nuget.org/packages/JTigerNova.Tiffany) | 1.0.0 | JTiger Nova | Tiffany, the client SDK for the JTiger Nova platform apis. Targets jtigernova A… |
-| 2026-11-18 19:35:08 | [mcp-sonarqube.osx-arm64](https://www.nuget.org/packages/mcp-sonarqube.osx-arm64) | 1.3.0 | Marko Lahma | Model Context Protocol server for SonarQube Cloud - projects, quality gates, is… |
-| 2026-11-18 19:35:09 | [mcp-sonarqube.any](https://www.nuget.org/packages/mcp-sonarqube.any) | 1.3.0 | Marko Lahma | Model Context Protocol server for SonarQube Cloud - projects, quality gates, is… |
-| 2026-11-18 19:39:37 | [Uniform.MatrixRtc.Hosting](https://www.nuget.org/packages/Uniform.MatrixRtc.Hosting) | 0.1.52 | Uniform.MatrixRtc.Hosting | Runs the Uniform.MatrixRtc.Authorization service in an ASP.NET host: settings i… |
-| 2026-11-18 19:39:42 | [Uniform.MatrixRtc.Protocol](https://www.nuget.org/packages/Uniform.MatrixRtc.Protocol) | 0.1.52 | Uniform.MatrixRtc.Protocol | LiveKit's signalling messages, access tokens and their grants, and the MatrixRT… |
-| 2026-11-18 19:39:46 | [Uniform.MatrixRtc.Authorization](https://www.nuget.org/packages/Uniform.MatrixRtc.Authorization) | 0.1.52 | Uniform.MatrixRtc.Authorizati… | A MatrixRTC authorization service compatible with lk-jwt-service: verifies Matr… |
-| 2026-11-18 19:39:47 | [Uniform.MatrixRtc](https://www.nuget.org/packages/Uniform.MatrixRtc) | 0.1.52 | Uniform.MatrixRtc | A LiveKit client in pure C#: signalling, publishing and subscribing over WebRTC… |
-| 2026-11-18 19:49:40 | [Channing.Arce.Client](https://www.nuget.org/packages/Channing.Arce.Client) | 1.0.1 | ChanningMou (牟成贵) | Arce adaptive routing lossless compression engine. |
-| 2026-11-18 19:56:22 | [JordiAragonZaragoza.SharedKernel.Hosting](https://www.nuget.org/packages/JordiAragonZaragoza.SharedKernel.Hosting) | 12.1.1 | Jordi Aragon Zaragoza | A simple package to implement the building blocks to follow DDD principles and… |
-| 2026-11-18 20:01:43 | [Channing.Arce.Tool](https://www.nuget.org/packages/Channing.Arce.Tool) | 1.0.1 | ChanningMou (牟成贵) | Arce 压缩引擎命令行工具（与 Channing.Arce.Client 配套） |
+| 2026-11-18 20:22:04 | [HtmlToImageRenderer](https://www.nuget.org/packages/HtmlToImageRenderer) | 0.0.1 | Zveruga | Lightweight HTML5 + CSS renderer that rasterizes markup to PNG via SkiaSharp. |
+| 2026-11-18 20:34:59 | [PowerShell.linux-arm](https://www.nuget.org/packages/PowerShell.linux-arm) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:02 | [PowerShell.linux-arm64](https://www.nuget.org/packages/PowerShell.linux-arm64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:06 | [REDcat.Modding.TLD.ModSettings](https://www.nuget.org/packages/REDcat.Modding.TLD.ModSettings) | 2.2.6 | REDcat | Package Description |
+| 2026-11-18 20:35:12 | [PowerShell.linux-musl-x64](https://www.nuget.org/packages/PowerShell.linux-musl-x64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:15 | [PowerShell.linux-x64](https://www.nuget.org/packages/PowerShell.linux-x64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:17 | [PowerShell.osx-arm64](https://www.nuget.org/packages/PowerShell.osx-arm64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:20 | [PowerShell.osx-x64](https://www.nuget.org/packages/PowerShell.osx-x64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:23 | [PowerShell.win-arm64](https://www.nuget.org/packages/PowerShell.win-arm64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:35:27 | [PowerShell.win-x64](https://www.nuget.org/packages/PowerShell.win-x64) | 7.7.0 | Microsoft | PowerShell global tool |
+| 2026-11-18 20:49:24 | [bitbucket-mcp.linux-x64](https://www.nuget.org/packages/bitbucket-mcp.linux-x64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
+| 2026-11-18 20:49:25 | [bitbucket-mcp.linux-arm64](https://www.nuget.org/packages/bitbucket-mcp.linux-arm64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
+| 2026-11-18 20:49:26 | [bitbucket-mcp.win-x64](https://www.nuget.org/packages/bitbucket-mcp.win-x64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
+| 2026-11-18 20:49:28 | [bitbucket-mcp.win-arm64](https://www.nuget.org/packages/bitbucket-mcp.win-arm64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
+| 2026-11-18 20:49:29 | [bitbucket-mcp.osx-arm64](https://www.nuget.org/packages/bitbucket-mcp.osx-arm64) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
+| 2026-11-18 20:49:30 | [bitbucket-mcp.any](https://www.nuget.org/packages/bitbucket-mcp.any) | 1.4.0 | Marko Lahma | Model Context Protocol server for Bitbucket Cloud pull requests - list, read, d… |
+| 2026-11-18 20:54:56 | [Jspassgen](https://www.nuget.org/packages/Jspassgen) | 0.0.22 | Sebastien Rousseau | Native .NET port of the jspassgen password generator core, on the platform CSPR… |
+| 2026-11-18 21:04:10 | [MVAI.WebDAV.Update](https://www.nuget.org/packages/MVAI.WebDAV.Update) | 1.0.0-alpha | CuPhoenix | 从主源或备源进行 WebDAV 目录检查、校验并打开 Windows MSIX 或 Android APK 更新。 |
+| 2026-11-18 21:06:35 | [EcoSQL.Request](https://www.nuget.org/packages/EcoSQL.Request) | 1.0.0 | Sleddie | Package Description |
+| 2026-11-18 21:06:55 | [RecDiffy.Extensions](https://www.nuget.org/packages/RecDiffy.Extensions) | 1.2.0 | Michael Vaysman | Reconciliation for .NET: extension methods that return the result of a RecDiffy… |
 
 ## Data source
 

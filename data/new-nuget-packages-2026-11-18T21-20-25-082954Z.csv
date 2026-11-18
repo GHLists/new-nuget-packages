@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-18T20:22:04.77Z,HtmlToImageRenderer,0.0.1,Zveruga,Lightweight HTML5 + CSS renderer that rasterizes markup to PNG via SkiaSharp.
+2026-11-18T20:34:59.617Z,PowerShell.linux-arm,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:02.623Z,PowerShell.linux-arm64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:06.253Z,REDcat.Modding.TLD.ModSettings,2.2.6,REDcat,Package Description
+2026-11-18T20:35:12.617Z,PowerShell.linux-musl-x64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:15.207Z,PowerShell.linux-x64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:17.777Z,PowerShell.osx-arm64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:20.537Z,PowerShell.osx-x64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:23.603Z,PowerShell.win-arm64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:35:27.28Z,PowerShell.win-x64,7.7.0,Microsoft,PowerShell global tool
+2026-11-18T20:49:24.16Z,bitbucket-mcp.linux-x64,1.4.0,Marko Lahma,"Model Context Protocol server for Bitbucket Cloud pull requests - list, read, diff, comment, review, merge and decline - with OAuth 2.0 browser login and a deliberately small, auditable dependency tree. `dnx bitbucket-mcp` runs the Native AOT binary on Windows, Linux and macOS (x64 and Arm64 where…"
+2026-11-18T20:49:25.553Z,bitbucket-mcp.linux-arm64,1.4.0,Marko Lahma,"Model Context Protocol server for Bitbucket Cloud pull requests - list, read, diff, comment, review, merge and decline - with OAuth 2.0 browser login and a deliberately small, auditable dependency tree. `dnx bitbucket-mcp` runs the Native AOT binary on Windows, Linux and macOS (x64 and Arm64 where…"
+2026-11-18T20:49:26.84Z,bitbucket-mcp.win-x64,1.4.0,Marko Lahma,"Model Context Protocol server for Bitbucket Cloud pull requests - list, read, diff, comment, review, merge and decline - with OAuth 2.0 browser login and a deliberately small, auditable dependency tree. `dnx bitbucket-mcp` runs the Native AOT binary on Windows, Linux and macOS (x64 and Arm64 where…"
+2026-11-18T20:49:28.203Z,bitbucket-mcp.win-arm64,1.4.0,Marko Lahma,"Model Context Protocol server for Bitbucket Cloud pull requests - list, read, diff, comment, review, merge and decline - with OAuth 2.0 browser login and a deliberately small, auditable dependency tree. `dnx bitbucket-mcp` runs the Native AOT binary on Windows, Linux and macOS (x64 and Arm64 where…"
+2026-11-18T20:49:29.677Z,bitbucket-mcp.osx-arm64,1.4.0,Marko Lahma,"Model Context Protocol server for Bitbucket Cloud pull requests - list, read, diff, comment, review, merge and decline - with OAuth 2.0 browser login and a deliberately small, auditable dependency tree. `dnx bitbucket-mcp` runs the Native AOT binary on Windows, Linux and macOS (x64 and Arm64 where…"
+2026-11-18T20:49:30.853Z,bitbucket-mcp.any,1.4.0,Marko Lahma,"Model Context Protocol server for Bitbucket Cloud pull requests - list, read, diff, comment, review, merge and decline - with OAuth 2.0 browser login and a deliberately small, auditable dependency tree. `dnx bitbucket-mcp` runs the Native AOT binary on Windows, Linux and macOS (x64 and Arm64 where…"
+2026-11-18T20:54:56.713Z,Jspassgen,0.0.22,Sebastien Rousseau,"Native .NET port of the jspassgen password generator core, on the platform CSPRNG (RandomNumberGenerator). Work in progress: this version contains the random source only."
+2026-11-18T21:04:10.99Z,MVAI.WebDAV.Update,1.0.0-alpha,CuPhoenix,从主源或备源进行 WebDAV 目录检查、校验并打开 Windows MSIX 或 Android APK 更新。
+2026-11-18T21:06:35.977Z,EcoSQL.Request,1.0.0,Sleddie,Package Description
+2026-11-18T21:06:55.79Z,RecDiffy.Extensions,1.2.0,Michael Vaysman,Reconciliation for .NET: extension methods that return the result of a RecDiffy.NET run as DataTables or HTML tables. The package has no dependencies; it works beside the RecDiffy package you already use.
