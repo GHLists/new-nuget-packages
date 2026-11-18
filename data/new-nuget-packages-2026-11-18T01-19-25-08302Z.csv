@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-18T00:23:50.733Z,FsToolkit.ErrorHandling.Sources,6.0.0-beta007,"demystifyfp, TheAngryByrd","The source code of FsToolkit.ErrorHandling as F# files that compile inside your project. FsToolkit.ErrorHandling is an extensive utility library based around the F# Result type, enabling consistent and powerful error handling."
+2026-11-18T00:44:54.687Z,Nodda.Client,1.2.1,Nodda,Cliente oficial de la API de Nodda para emitir y consultar facturas VERI*FACTU (AEAT).
+2026-11-18T00:57:11.04Z,Ritten.Bitwarden,0.31.0,Tom Wolfe,"Bitwarden and Vaultwarden for Ritten workflows: secrets read by bw:// reference through the CLI, the vault read once per run."
