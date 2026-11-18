@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-18T14:22:58.137Z,Indigina.Data.SS,5.2.8,Indigina,This NuGet package contains Data Access Layer for Indigina projects.
+2026-11-18T14:23:00.193Z,Argoshot,0.1.0,Argoshot,"Official client for the Argoshot screenshot API: screenshots, PDFs and signed og:image URLs of any web page or HTML."
+2026-11-18T14:26:09.38Z,LilyDesignSystem.Blazor.Headless.Identifiers,0.1.0,Joel Parker Henderson,"Lily Design System Blazor headless national identifier components: the 164 national personal identifier components (an input and a view for each of 82 identifier types across 50+ countries) as Razor components, the add-on to LilyDesignSystem.Blazor.Headless. Unstyled, accessible, zero CSS."
+2026-11-18T14:30:51.237Z,Ekom.Payments.PayPal,1.1.1,Vettvangur,Ekom Payments PayPal - Vettvangur E-Commerce solution
+2026-11-18T14:34:25.633Z,Resto.Front.Api.V10Preview3,9.8.1133-alpha,iiko,This library allows you to develop plugins to extend functionality and change behaviour of the iikoFront application.
+2026-11-18T15:04:17.66Z,Umbraco.Community.CFCacheClearer,0.1.0,Gwyl Richards,"Adds a dashboard to the Umbraco backoffice that can purge the CloudFlare cache for a full site or specific routes/tags, across headless and multisite setups."
+2026-11-18T15:08:13.26Z,Brivio.Sdk,0.1.0,Brivio,"Official Brivio SDK — invoicing, e-Factura, contacts and more for the Romanian market."
+2026-11-18T15:12:57.047Z,Pulumi.Delivery,0.1.0,pulumi,"Define Delivery pipelines, stages, jobs and sources in a Pulumi program."
+2026-11-18T15:15:40.943Z,SpanFlow.Mapping.Formats,1.1.0,farazahmed614,"Reads and writes the wire formats around a SpanFlow mapping: the raw input is decoded into JSON, the mapping engine runs unchanged, and the result is encoded into the output format. MappingRunner does all three."

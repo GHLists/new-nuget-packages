@@ -12,23 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 14:21 UTC
+## Latest list — 2026-11-18 15:22 UTC
 
-New packages created between 2026-11-18 13:21 UTC and 2026-11-18 14:21 UTC.
+New packages created between 2026-11-18 14:21 UTC and 2026-11-18 15:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T14-21-48-230638Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T15-22-02-250494Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 13:22:12 | [AcceleratedKAZE](https://www.nuget.org/packages/AcceleratedKAZE) | 0.0.1-beta | Cularr | A managed .NET implementation of the AKAZE feature detector and the TEBLID desc… |
-| 2026-11-18 13:35:23 | [Asteroid.PushProbe](https://www.nuget.org/packages/Asteroid.PushProbe) | 0.0.2 | probe | temporary push probe |
-| 2026-11-18 13:36:21 | [Pulumi.Labs.Openai](https://www.nuget.org/packages/Pulumi.Labs.Openai) | 0.2.0 | Pulumi Labs | A Pulumi provider for managing resources in OpenAI. |
-| 2026-11-18 13:40:49 | [DOtrishko.LiteSettings](https://www.nuget.org/packages/DOtrishko.LiteSettings) | 1.0.0 | Dmytro Otrishko | Lightweight settings library for .NET. Mark properties with [Save] and persist… |
-| 2026-11-18 13:41:11 | [DOtrishko.LiteSettings.Xml](https://www.nuget.org/packages/DOtrishko.LiteSettings.Xml) | 1.0.0 | Dmytro Otrishko | XML format for LiteSettings. Stores [Save] properties in settings.xml under the… |
-| 2026-11-18 13:55:31 | [Validex](https://www.nuget.org/packages/Validex) | 1.0.0 | YourName | A lightweight and extensible .NET validation library. |
-| 2026-11-18 14:04:46 | [Ekom.Payments.Stripe](https://www.nuget.org/packages/Ekom.Payments.Stripe) | 1.1.1 | Vettvangur | Ekom Payments Stripe - Vettvangur E-Commerce solution |
-| 2026-11-18 14:05:24 | [AidDev.Ricochet](https://www.nuget.org/packages/AidDev.Ricochet) | 0.0.1 | OJ | Black-box integration testing for HTTP JSON/REST APIs: lay out steps as a plan… |
-| 2026-11-18 14:05:25 | [AidDev.Ricochet.Console](https://www.nuget.org/packages/AidDev.Ricochet.Console) | 0.0.1 | OJ | Console front end for Ricochet: a Spectre.Console reporter (streamed failures,… |
+| 2026-11-18 14:22:58 | [Indigina.Data.SS](https://www.nuget.org/packages/Indigina.Data.SS) | 5.2.8 | Indigina | This NuGet package contains Data Access Layer for Indigina projects. |
+| 2026-11-18 14:23:00 | [Argoshot](https://www.nuget.org/packages/Argoshot) | 0.1.0 | Argoshot | Official client for the Argoshot screenshot API: screenshots, PDFs and signed o… |
+| 2026-11-18 14:26:09 | [LilyDesignSystem.Blazor.Headless.Identifiers](https://www.nuget.org/packages/LilyDesignSystem.Blazor.Headless.Identifiers) | 0.1.0 | Joel Parker Henderson | Lily Design System Blazor headless national identifier components: the 164 nati… |
+| 2026-11-18 14:30:51 | [Ekom.Payments.PayPal](https://www.nuget.org/packages/Ekom.Payments.PayPal) | 1.1.1 | Vettvangur | Ekom Payments PayPal - Vettvangur E-Commerce solution |
+| 2026-11-18 14:34:25 | [Resto.Front.Api.V10Preview3](https://www.nuget.org/packages/Resto.Front.Api.V10Preview3) | 9.8.1133-alpha | iiko | This library allows you to develop plugins to extend functionality and change b… |
+| 2026-11-18 15:04:17 | [Umbraco.Community.CFCacheClearer](https://www.nuget.org/packages/Umbraco.Community.CFCacheClearer) | 0.1.0 | Gwyl Richards | Adds a dashboard to the Umbraco backoffice that can purge the CloudFlare cache… |
+| 2026-11-18 15:08:13 | [Brivio.Sdk](https://www.nuget.org/packages/Brivio.Sdk) | 0.1.0 | Brivio | Official Brivio SDK — invoicing, e-Factura, contacts and more for the Romanian… |
+| 2026-11-18 15:12:57 | [Pulumi.Delivery](https://www.nuget.org/packages/Pulumi.Delivery) | 0.1.0 | pulumi | Define Delivery pipelines, stages, jobs and sources in a Pulumi program. |
+| 2026-11-18 15:15:40 | [SpanFlow.Mapping.Formats](https://www.nuget.org/packages/SpanFlow.Mapping.Formats) | 1.1.0 | farazahmed614 | Reads and writes the wire formats around a SpanFlow mapping: the raw input is d… |
 
 ## Data source
 
