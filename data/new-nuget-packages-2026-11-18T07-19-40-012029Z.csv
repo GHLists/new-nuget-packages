@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-18T06:31:33.043Z,Irihi.Iconica.Semi,1.0.0,"IRIHI Technology Co., Ltd. 上海铱泓科技服务有限公司",Package Description
+2026-11-18T06:31:33.45Z,Irihi.Iconica.Semi.Lab,1.0.0,"IRIHI Technology Co., Ltd. 上海铱泓科技服务有限公司",Package Description
+2026-11-18T06:32:30.73Z,Syncfusion.AspNetMvc.PptxEditor,35.2.12,Syncfusion Inc.,"Syncfusion® ASP.NET MVC PPTX Editor is a feature-rich UI component for viewing, navigating, presenting, printing, and exporting PowerPoint presentations (PPTX) directly in the browser without requiring Microsoft PowerPoint or server-side rendering services. It supports rich slide rendering with tex…"
+2026-11-18T06:34:53.327Z,Syncfusion.Maui.BottomSheet,35.2.12,Syncfusion Inc,This package provides the functionality to utilize the features of Syncfusion® Maui BottomSheet controls and more.
+2026-11-18T06:40:24.503Z,Octopus.Testing.TeamCityReporter,0.0.4,Octopus Deploy,"A Microsoft Testing Platform extension that reports test results to TeamCity with service messages while the tests run, naming tests as the TeamCity VSTest adapter did."
+2026-11-18T06:47:10.433Z,HXAuth.Client,1.0.0,HXAuth,海新统一身份认证（HXAuth）对接客户端。ASP.NET Core 与 .NET Framework(OWIN) 均可用一行代码接入 OIDC 单点登录：内置授权码 + PKCE、角色/组织 claim、单点登出、userinfo 与令牌刷新辅助。
+2026-11-18T06:48:08.233Z,Froststrap.LucideAvalonia,2.0.1,"Froststrap,Invra",A fork of library https://github.com/MarwanFr/LucideAvaloniaUI for better internal tooling for Froststrap usage.
+2026-11-18T06:55:35.86Z,CaptchaN.Drawing.LibVips,4.0.0,LeaFrock,Draw Captcha based on libvips.

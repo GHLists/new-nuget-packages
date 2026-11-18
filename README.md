@@ -12,21 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 06:20 UTC
+## Latest list — 2026-11-18 07:19 UTC
 
-New packages created between 2026-11-18 05:20 UTC and 2026-11-18 06:20 UTC.
+New packages created between 2026-11-18 06:20 UTC and 2026-11-18 07:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T06-20-11-22318Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T07-19-40-012029Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 05:30:08 | [Syncfusion.AspNetCore.PptxEditor](https://www.nuget.org/packages/Syncfusion.AspNetCore.PptxEditor) | 35.2.12 | Syncfusion Inc. | Syncfusion® ASP.NET Core PPTX Editor wraps the EJ2 PowerPoint Editor for viewin… |
-| 2026-11-18 05:42:56 | [Exchange56.VideoPlaylist.Components.Server](https://www.nuget.org/packages/Exchange56.VideoPlaylist.Components.Server) | 1.0.0 | T.J. McNaboe | Server endpoints and methods for integrating with Exchange56 Video Playlist cli… |
-| 2026-11-18 05:50:34 | [NeoUII.Blazor](https://www.nuget.org/packages/NeoUII.Blazor) | 1.0.67 | NeoAdmin | NeoUII.Blazor 的基础框架骨架。 |
-| 2026-11-18 05:50:35 | [NeoUII.Templates](https://www.nuget.org/packages/NeoUII.Templates) | 1.0.67 | NeoAdmin | NeoUII 的 dotnet new 项目模板，用于快速创建基于 Blazor Server、NeoUI 与 FreeSql 的后台管理项目。 |
-| 2026-11-18 06:12:07 | [CutsceneML.Compiler](https://www.nuget.org/packages/CutsceneML.Compiler) | 0.0.1 | CutsceneML.Compiler | Package Description |
-| 2026-11-18 06:12:07 | [CutsceneML.Parser](https://www.nuget.org/packages/CutsceneML.Parser) | 0.0.1 | CutsceneML.Parser | Package Description |
-| 2026-11-18 06:12:08 | [CutsceneML.Model](https://www.nuget.org/packages/CutsceneML.Model) | 0.0.1 | CutsceneML.Model | Package Description |
+| 2026-11-18 06:31:33 | [Irihi.Iconica.Semi](https://www.nuget.org/packages/Irihi.Iconica.Semi) | 1.0.0 | IRIHI Technology Co., Ltd. 上海… | Package Description |
+| 2026-11-18 06:31:33 | [Irihi.Iconica.Semi.Lab](https://www.nuget.org/packages/Irihi.Iconica.Semi.Lab) | 1.0.0 | IRIHI Technology Co., Ltd. 上海… | Package Description |
+| 2026-11-18 06:32:30 | [Syncfusion.AspNetMvc.PptxEditor](https://www.nuget.org/packages/Syncfusion.AspNetMvc.PptxEditor) | 35.2.12 | Syncfusion Inc. | Syncfusion® ASP.NET MVC PPTX Editor is a feature-rich UI component for viewing,… |
+| 2026-11-18 06:34:53 | [Syncfusion.Maui.BottomSheet](https://www.nuget.org/packages/Syncfusion.Maui.BottomSheet) | 35.2.12 | Syncfusion Inc | This package provides the functionality to utilize the features of Syncfusion®… |
+| 2026-11-18 06:40:24 | [Octopus.Testing.TeamCityReporter](https://www.nuget.org/packages/Octopus.Testing.TeamCityReporter) | 0.0.4 | Octopus Deploy | A Microsoft Testing Platform extension that reports test results to TeamCity wi… |
+| 2026-11-18 06:47:10 | [HXAuth.Client](https://www.nuget.org/packages/HXAuth.Client) | 1.0.0 | HXAuth | 海新统一身份认证（HXAuth）对接客户端。ASP.NET Core 与 .NET Framework(OWIN) 均可用一行代码接入 OIDC 单点登录：内… |
+| 2026-11-18 06:48:08 | [Froststrap.LucideAvalonia](https://www.nuget.org/packages/Froststrap.LucideAvalonia) | 2.0.1 | Froststrap,Invra | A fork of library https://github.com/MarwanFr/LucideAvaloniaUI for better inter… |
+| 2026-11-18 06:55:35 | [CaptchaN.Drawing.LibVips](https://www.nuget.org/packages/CaptchaN.Drawing.LibVips) | 4.0.0 | LeaFrock | Draw Captcha based on libvips. |
 
 ## Data source
 
