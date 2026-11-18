@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-18T15:29:15.337Z,CachedEfCore.Caching,1.1.7,henriquewr,Caching abstractions for caching providers of CachedEfCore
+2026-11-18T15:33:10.857Z,PocketCalculator,26.11.8209,"Curiosity GmbH,the Obscura authors","PocketCalculator: an embeddable headless browser engine with real JavaScript (V8), a real DOM, its own layout and paint, and no Chromium."
+2026-11-18T15:33:13.117Z,PocketCalculator.Cdp,26.11.8209,"Curiosity GmbH,the Obscura authors","PocketCalculator Chrome DevTools Protocol server, for driving the engine with Puppeteer or Playwright."
+2026-11-18T15:33:15.2Z,PocketCalculator.Mcp,26.11.8209,"Curiosity GmbH,the Obscura authors",PocketCalculator MCP server: browser tools for AI agents over the Model Context Protocol.
+2026-11-18T15:35:49.087Z,Dot0.Rubika,10.0.1,Dot0.Rubika,"Reusable Rubika bot clients, HTTP registration and update forwarding."
+2026-11-18T15:35:52.597Z,Dot0.SoroushPlus,10.0.1,Dot0.SoroushPlus,"Reusable SoroushPlus bot clients, HTTP registration and update forwarding."
+2026-11-18T15:36:21Z,Dot0.Bale,10.0.1,Dot0.Bale,"Reusable Bale bot clients, HTTP registration and update forwarding."
+2026-11-18T15:36:45.647Z,AbpAdmin.EntityExplorer.Web,0.3.1,ABP Admin contributors,"ABP Admin Razor Pages UI for the entity explorer: browse and edit the entities you expose as database rows, with forms built from their schema at runtime."
+2026-11-18T15:37:00.513Z,MotorDsl.Pax,1.0.18,Fernando Rafael Filipuzzi,"Transport de impresion para la impresora interna del PAX A910S (Android) para MotorDsl: contrato IPaxPrinterDevice, transport que envia el PNG de raster-preview, mapeo de errores e impresora simulada. La implementacion real del dispositivo es externa (RealDeviceFactory)."
+2026-11-18T15:52:42.48Z,Dot0.SmsIr,10.0.1,Dot0.SmsIr,Reusable sms.ir verification-template delivery with real and fake HTTP registrations.
+2026-11-18T16:09:58.917Z,OfficeIMO.Yaml.Configuration,3.6.2,Przemyslaw Klys,"YAML configuration provider for Microsoft.Extensions.Configuration, built on the OfficeIMO.Yaml engine: AddYamlFile and AddYamlStream with merge keys, aliases and positioned errors."
+2026-11-18T16:10:01.33Z,OfficeIMO.Yaml,3.6.2,Przemyslaw Klys,"A dependency-free YAML 1.2 engine for OfficeIMO: a lossless document model that saves unchanged input byte for byte, a low-allocation pull reader with schema-aware scalar resolution, and an object serializer with a NativeAOT source generator."
+2026-11-18T16:10:28.81Z,OfficeIMO.Word.CodeGlyphX,3.6.2,Przemyslaw Klys,"QR codes and barcodes for OfficeIMO.Word, rendered by CodeGlyphX as SVG pictures with a PNG fallback."
+2026-11-18T16:11:41.333Z,OfficeIMO.Toml.Configuration,3.6.2,Przemyslaw Klys,"TOML configuration provider for Microsoft.Extensions.Configuration, built on the OfficeIMO.Toml engine: AddTomlFile and AddTomlStream with TOML 1.1 tables, arrays of tables, ISO 8601 date-times and positioned errors."
+2026-11-18T16:11:43.243Z,OfficeIMO.Toml,3.6.2,Przemyslaw Klys,"A dependency-free TOML 1.1 engine for OfficeIMO: a low-allocation pull reader, a lossless document model that saves unchanged input byte for byte and edits with minimal diffs, a writer, and an object serializer with a NativeAOT source generator."
