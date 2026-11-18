@@ -12,24 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 05:20 UTC
+## Latest list — 2026-11-18 06:20 UTC
 
-New packages created between 2026-11-18 04:20 UTC and 2026-11-18 05:20 UTC.
+New packages created between 2026-11-18 05:20 UTC and 2026-11-18 06:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T05-20-56-379707Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-18T06-20-11-22318Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 04:27:36 | [WhatArch.win-x64](https://www.nuget.org/packages/WhatArch.win-x64) | 0.3.0 | Craig | A command-line tool to detect the target architecture of Windows PE binaries |
-| 2026-11-18 04:27:38 | [WhatArch.win-arm64](https://www.nuget.org/packages/WhatArch.win-arm64) | 0.3.0 | Craig | A command-line tool to detect the target architecture of Windows PE binaries |
-| 2026-11-18 04:27:40 | [WhatArch.any](https://www.nuget.org/packages/WhatArch.any) | 0.3.0 | Craig | A command-line tool to detect the target architecture of Windows PE binaries |
-| 2026-11-18 04:28:05 | [Ambystech.Relate](https://www.nuget.org/packages/Ambystech.Relate) | 1.0.0 | Ambystech | .NET client for Relate by Neo4j, the embedded Cypher graph database for AI agen… |
-| 2026-11-18 04:56:21 | [ZeroMayo.Framework.Android](https://www.nuget.org/packages/ZeroMayo.Framework.Android) | 2026.1118.0 | ppy Pty Ltd | A 2D application/game framework written with rhythm games in mind. A community… |
-| 2026-11-18 05:02:21 | [Exchange56.GithubProfile.Components.Server](https://www.nuget.org/packages/Exchange56.GithubProfile.Components.Server) | 1.0.0 | T.J. McNaboe | Server endpoints and methods for integrating with Exchange56 Github Profile cli… |
-| 2026-11-18 05:04:01 | [B4n1.Db](https://www.nuget.org/packages/B4n1.Db) | 0.1.0 | Bani Montoya | b4n1-db SDK for .NET - sovereign embedded database over the b4n1-db binary |
-| 2026-11-18 05:06:21 | [TensorStack.LlamaCpp](https://www.nuget.org/packages/TensorStack.LlamaCpp) | 0.15.0 | sa_ddam213 | .NET Wrapper API for llama.cpp |
-| 2026-11-18 05:08:03 | [ObligacionesPorPagar.TenantProvisioning.Contratos](https://www.nuget.org/packages/ObligacionesPorPagar.TenantProvisioning.Contratos) | 0.1.0 | Cosmos | Contratos que publica el worker de tenant provisioning de Obligaciones por Paga… |
-| 2026-11-18 05:12:38 | [CognitiveMemoryDatabase](https://www.nuget.org/packages/CognitiveMemoryDatabase) | 1.0.0 | CognitiveMemoryDatabase | Package Description |
+| 2026-11-18 05:30:08 | [Syncfusion.AspNetCore.PptxEditor](https://www.nuget.org/packages/Syncfusion.AspNetCore.PptxEditor) | 35.2.12 | Syncfusion Inc. | Syncfusion® ASP.NET Core PPTX Editor wraps the EJ2 PowerPoint Editor for viewin… |
+| 2026-11-18 05:42:56 | [Exchange56.VideoPlaylist.Components.Server](https://www.nuget.org/packages/Exchange56.VideoPlaylist.Components.Server) | 1.0.0 | T.J. McNaboe | Server endpoints and methods for integrating with Exchange56 Video Playlist cli… |
+| 2026-11-18 05:50:34 | [NeoUII.Blazor](https://www.nuget.org/packages/NeoUII.Blazor) | 1.0.67 | NeoAdmin | NeoUII.Blazor 的基础框架骨架。 |
+| 2026-11-18 05:50:35 | [NeoUII.Templates](https://www.nuget.org/packages/NeoUII.Templates) | 1.0.67 | NeoAdmin | NeoUII 的 dotnet new 项目模板，用于快速创建基于 Blazor Server、NeoUI 与 FreeSql 的后台管理项目。 |
+| 2026-11-18 06:12:07 | [CutsceneML.Compiler](https://www.nuget.org/packages/CutsceneML.Compiler) | 0.0.1 | CutsceneML.Compiler | Package Description |
+| 2026-11-18 06:12:07 | [CutsceneML.Parser](https://www.nuget.org/packages/CutsceneML.Parser) | 0.0.1 | CutsceneML.Parser | Package Description |
+| 2026-11-18 06:12:08 | [CutsceneML.Model](https://www.nuget.org/packages/CutsceneML.Model) | 0.0.1 | CutsceneML.Model | Package Description |
 
 ## Data source
 
