@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-19T16:22:41.36Z,Papa.Test,1.0.0,PAPA,Basic test package for account/ownership testing.
+2026-11-19T16:25:58.3Z,ElBruno.AI.Decisions.Foundry.Local,0.9.0,Bruno Capuano (ElBruno),Provider-neutral typed decisions using cached decision models through the Microsoft Foundry Local SDK.
+2026-11-19T16:27:17.457Z,miloRpc.Channels.Quic,1.1.1-beta,Sergio Luis Para,QUIC-based channel for the miloRpc framework
+2026-11-19T16:31:42.237Z,SinkSharp.Sinks.Dashboard.Redis,1.0.0,SinkSharp,"Redis Streams history for the SinkSharp dashboard. Every pod appends to one stream, so the dashboard shows the recent history of all pods and keeps it across restarts, deployments and scale-in. Optional add-on to SinkSharp.Sinks.Dashboard: the logging thread never waits on Redis, and retention is c…"
+2026-11-19T16:45:52.413Z,DigiTFactory.Libraries.CrossCutting,0.1.0,DigiTFactory.Libraries.CrossCutting,"Cross-cutting resilience and health-check helpers for DigiTFactory EDM microservices: Polly policies (retry+jitter, circuit breaker, timeout), resilient HttpClient via IHttpClientFactory, and health-check registration."
+2026-11-19T16:45:58.153Z,DigiTFactory.Libraries.Testing,0.1.0,DigiTFactory.Libraries.Testing,Coverage-assertion helpers for DigiTFactory EDM microservices: verify every aggregate business method has a test (QG-702).
+2026-11-19T17:00:59.6Z,ForEach.Vat.Abstractions,0.1.0,For-Each Smederevo,"IVatNumberValidator: the vendor-neutral contract for checking a VAT number, with VatNumber parsing and a result type. No dependencies, so an application layer can reference it without pulling in a vendor."
+2026-11-19T17:01:00.413Z,ForEach.Vat.Vies,0.1.0,For-Each Smederevo,VIES implementation of IVatNumberValidator: checks an EU VAT number against the VIES REST API of the European Commission.
