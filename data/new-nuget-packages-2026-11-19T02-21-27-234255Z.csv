@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-11-19T01:31:34.913Z,Bonsai.Zarr,0.1.0,Bonsai Foundation,Bonsai Library containing modules for logging numeric data streams to Zarr stores.
+2026-11-19T01:42:56.89Z,Fable.Ranvier.D5.Wgpu,0.2.0,Ranvier contributors,"Browser/Fable 3D and multi-dimensional visualization scales, axes, encodings, surfaces, volumes and Ranvier reactive GPU sinks over Fable.Ranvier.Wgpu."
+2026-11-19T01:42:57.81Z,Fable.Ranvier.D5.Wgpu.Traced,0.2.0,Ranvier contributors,"Browser/Fable 3D and multi-dimensional visualization scales, axes, encodings, surfaces, volumes and Ranvier reactive GPU sinks over Fable.Ranvier.Wgpu."
+2026-11-19T01:43:01.977Z,Ranvier.D5.Graph,0.2.0,Ranvier contributors,"High-performance 2D compound graph, grouping, port, orthogonal routing and association-machine layout engines for Ranvier.D5."
+2026-11-19T01:43:02.917Z,Ranvier.D5.Graph.Traced,0.2.0,Ranvier contributors,"High-performance 2D compound graph, grouping, port, orthogonal routing and association-machine layout engines for Ranvier.D5."
+2026-11-19T01:43:03.877Z,Ranvier.D5.Graph3D,0.2.0,Ranvier contributors,"High-performance 3D Euclidean and H3/Walrus 3D hyperbolic graph, tree and compound layout engines for Ranvier.D5."
+2026-11-19T01:43:04.753Z,Ranvier.D5.Graph3D.Traced,0.2.0,Ranvier contributors,"High-performance 3D Euclidean and H3/Walrus 3D hyperbolic graph, tree and compound layout engines for Ranvier.D5."
+2026-11-19T01:43:07.67Z,Ranvier.D5.Wgpu,0.2.0,Ranvier contributors,"3D and multi-dimensional visualization scales, axes, encodings, surfaces, volumes and Ranvier reactive GPU sinks over Ranvier.Wgpu."
+2026-11-19T01:43:08.55Z,Ranvier.D5.Wgpu.Sdl,0.2.0,Ranvier contributors,Native SDL3 + WebGPU interactive 3D plot host view for Ranvier.D5.Wgpu over Ranvier.Wgpu.Sdl and Ranvier.View.WebCore.Sdl.
+2026-11-19T01:43:09.617Z,Ranvier.D5.Wgpu.Sdl.Traced,0.2.0,Ranvier contributors,Native SDL3 + WebGPU interactive 3D plot host view for Ranvier.D5.Wgpu over Ranvier.Wgpu.Sdl and Ranvier.View.WebCore.Sdl.
+2026-11-19T01:43:10.503Z,Ranvier.D5.Wgpu.Traced,0.2.0,Ranvier contributors,"3D and multi-dimensional visualization scales, axes, encodings, surfaces, volumes and Ranvier reactive GPU sinks over Ranvier.Wgpu."
+2026-11-19T01:47:27.33Z,NovaWpf.Icon,2027.1.0,DGJ,An easily stylable WPF icon control.
+2026-11-19T01:47:30.26Z,NovaWpf.Styles,2027.1.0,DGJ,"Base styles, colors and icon paths for WPF apps. Includes the Nova look (default) and the original Cannoli look, each with a Light and a Dark theme. Select the look and the theme with NovaWpf.ThemeChanger."
+2026-11-19T01:47:32.477Z,NovaWpf.ThemeChanger,2027.1.0,DGJ,"Switches a running WPF app between Light and Dark themes and between the Nova and the original Cannoli look, from code or with a Blend behavior."
+2026-11-19T01:47:34.58Z,NovaWpf.BorderlessWindow.Core,2027.1.0,DGJ,The window chrome behavior that NovaWpf.BorderlessWindow builds on. Needs no XAML files. Add System.Windows.Interactivity and drop the CannoliBorderlessWindowBehavior on a window in Blend.
+2026-11-19T01:47:36.93Z,NovaWpf.UnityBootstrap,2027.1.0,DGJ,Registers classes and interfaces that carry the included attribute into a Unity container automatically.
+2026-11-19T01:47:39.113Z,NovaWpf.UniversalSettings,2027.1.0,DGJ,A settings abstraction that saves and loads user and machine wide settings.
+2026-11-19T01:47:41.533Z,NovaWpf,2027.1.0,DGJ,The Nova WPF framework in a single assembly. Requires .NET Framework 4.8.
+2026-11-19T01:47:44.137Z,NovaWpf.Services,2027.1.0,DGJ,"Helpful services for WPF apps: FolderBrowserService, a styled MessageBoxService, OpenFileService and SaveFileService."
+2026-11-19T01:47:46.223Z,NovaWpf.Controls,2027.1.0,DGJ,"Reusable WPF controls: NovaBanner, NovaBreadcrumbs, NovaSegmentedButton, NovaDialog, NovaSideSheet, NovaCircularProgress and ProgressGauge. Uses the colors of NovaWpf.Styles."
+2026-11-19T01:47:48.53Z,NovaWpf.BorderlessWindow,2027.1.0,DGJ,"Borderless window styles for WPF: the Nova main window with icon, title, minimize, maximize and close buttons, and the original Cannoli windows. Built on the window chrome behavior of NovaWpf.BorderlessWindow.Core."
