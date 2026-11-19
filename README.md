@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 23:19 UTC
+## Latest list — 2026-11-19 00:20 UTC
 
-New packages created between 2026-11-18 22:21 UTC and 2026-11-18 23:19 UTC.
+New packages created between 2026-11-18 23:19 UTC and 2026-11-19 00:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-18T23-19-18-497953Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T00-20-53-741969Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 22:50:34 | [SDL3-CS.Layer](https://www.nuget.org/packages/SDL3-CS.Layer) | 1.0.1 | Jonas S. | C# bindings for SDL_layer, intended for use with SDL3-CS |
-| 2026-11-18 22:51:02 | [SDL3-CS.Layer.Linux](https://www.nuget.org/packages/SDL3-CS.Layer.Linux) | 1.0.1 | Jonas S. | Native Linux library for SDL3-CS.Layer |
-| 2026-11-18 22:54:07 | [Flowon.Xrm.Tools.PowerShell](https://www.nuget.org/packages/Flowon.Xrm.Tools.PowerShell) | 1.2.0 | Flowon Team | PowerShell module for Logic Fabric: export and import Logic Fabric projects, Da… |
-| 2026-11-18 22:58:11 | [Pidief.Client](https://www.nuget.org/packages/Pidief.Client) | 0.1.0 | Milvasoft | Typed .NET client for the pidief PDF API: HTML/template/images to PDF, merge, s… |
-| 2026-11-18 23:04:27 | [envparity](https://www.nuget.org/packages/envparity) | 1.0.0 | Jhon Emmir Cundumi Riascos | Validate a .env file against a reference file without ever printing values. |
+| 2026-11-18 23:20:43 | [Eternal.LZMA2Simple.Native](https://www.nuget.org/packages/Eternal.LZMA2Simple.Native) | 1.0.6 | JohnJScott | A simplified implementation of the 7-Zip API for C++, based on version 25.01 of… |
+| 2026-11-18 23:45:46 | [Okta.AuthFoundation](https://www.nuget.org/packages/Okta.AuthFoundation) | 0.2.0 | Okta | Foundational OAuth2/OIDC types for the Okta .NET SDK: HTTP client, token and cr… |
+| 2026-11-18 23:59:24 | [Zenoh.FSharp](https://www.nuget.org/packages/Zenoh.FSharp) | 0.1.0 | mushed Research | F# bindings for Eclipse Zenoh over zenoh-c 1.10.2: sessions, pub/sub, queries,… |
 
 ## Data source
 

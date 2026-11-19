@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-18T23:20:43.603Z,Eternal.LZMA2Simple.Native,1.0.6,JohnJScott,"A simplified implementation of the 7-Zip API for C++, based on version 25.01 of 7-Zip. Native x64 static libraries for Windows (MSVC) and Linux (clang), Debug and Release. The Windows library is built /arch:AVX2 and requires an AVX2-capable processor; the Linux library is built -march=x86-64-v2 and…"
+2026-11-18T23:45:46.877Z,Okta.AuthFoundation,0.2.0,Okta,"Foundational OAuth2/OIDC types for the Okta .NET SDK: HTTP client, token and credential management, JWT and JWK validation, and encrypted local token storage."
+2026-11-18T23:59:24.833Z,Zenoh.FSharp,0.1.0,mushed Research,"F# bindings for Eclipse Zenoh over zenoh-c 1.10.2: sessions, pub/sub, queries, queriers, liveliness, scouting, shared memory, zenoh-ext advanced pub/sub and serialization. Includes the native zenoh-c libraries for linux-x64, linux-arm64, osx-x64, osx-arm64 and win-x64."
