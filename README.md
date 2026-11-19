@@ -12,26 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:20 UTC
+## Latest list — 2026-11-19 20:20 UTC
 
-New packages created between 2026-11-19 18:18 UTC and 2026-11-19 19:20 UTC.
+New packages created between 2026-11-19 19:20 UTC and 2026-11-19 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T19-20-18-669639Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T20-20-29-984416Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-19 18:19:11 | [HacquerStudiosCore](https://www.nuget.org/packages/HacquerStudiosCore) | 0.0.1 | Hacquer Studios | Core Hacquer Studios Framework. |
-| 2026-11-19 18:28:57 | [Herald.Sdk](https://www.nuget.org/packages/Herald.Sdk) | 0.3.0 | Fernando Cruz | Send notifications from your .NET apps to your phone with Herald: link by QR, d… |
-| 2026-11-19 18:33:07 | [Slido.chromiumembeddedframework.runtime.win-x64](https://www.nuget.org/packages/Slido.chromiumembeddedframework.runtime.win-x64) | 144.0.30 | The Chromium Embedded Framewo… | chromiumembeddedframework.runtime.win-x64 144.0.30 repackaged for Slido for Win… |
-| 2026-11-19 18:33:12 | [Slido.chromiumembeddedframework.runtime.win-x86](https://www.nuget.org/packages/Slido.chromiumembeddedframework.runtime.win-x86) | 144.0.30 | The Chromium Embedded Framewo… | chromiumembeddedframework.runtime.win-x86 144.0.30 repackaged for Slido for Win… |
-| 2026-11-19 18:33:13 | [Slido.CefSharp.Common](https://www.nuget.org/packages/Slido.CefSharp.Common) | 144.0.300 | The CefSharp Authors | CefSharp.Common 144.0.300 repackaged for Slido for Windows with Authenticode-si… |
-| 2026-11-19 18:33:14 | [Slido.CefSharp.WinForms](https://www.nuget.org/packages/Slido.CefSharp.WinForms) | 144.0.300 | The CefSharp Authors | CefSharp.WinForms 144.0.300 repackaged for Slido for Windows with Authenticode-… |
-| 2026-11-19 18:57:52 | [Paduraksa.TypedIds.EntityFrameworkCore](https://www.nuget.org/packages/Paduraksa.TypedIds.EntityFrameworkCore) | 0.1.0 | Hizkia Felix | Entity Framework Core support for Paduraksa.TypedIds: one model convention maps… |
-| 2026-11-19 18:57:53 | [Paduraksa.TypedIds](https://www.nuget.org/packages/Paduraksa.TypedIds) | 0.1.0 | Hizkia Felix | Strongly typed, prefixed IDs for .NET: a source generator makes one struct per… |
-| 2026-11-19 19:05:22 | [Filin.EventStore.AdoNet](https://www.nuget.org/packages/Filin.EventStore.AdoNet) | 0.1.0 | Pavel Petukhov | ADO.NET-based IEventStore implementation with Dynamic Consistency Boundary (DCB… |
-| 2026-11-19 19:05:29 | [Filin.Abstractions](https://www.nuget.org/packages/Filin.Abstractions) | 0.1.0 | Pavel Petukhov | Сore interfaces and abstractions for the Filin Event Sourcing framework with na… |
-| 2026-11-19 19:05:57 | [Filin](https://www.nuget.org/packages/Filin) | 0.1.0 | Pavel Petukhov | A Mediator implementation for the Filin Event Sourcing framework. Coordinates e… |
-| 2026-11-19 19:06:21 | [Filin.ProjectionStore.AdoNet](https://www.nuget.org/packages/Filin.ProjectionStore.AdoNet) | 0.1.0 | Pavel Petukhov | ADO.NET-based IProjectionStore implementation for the Filin Event Sourcing fram… |
+| 2026-11-19 19:26:05 | [Khalid.Abuhakmeh](https://www.nuget.org/packages/Khalid.Abuhakmeh) | 2026.11.19 | Khalid Abuhakmeh | A fun, branded package: Khalid.Hello() prints a Spectre.Console calling card, a… |
+| 2026-11-19 19:28:30 | [Feralin.Sdk](https://www.nuget.org/packages/Feralin.Sdk) | 0.1.0 | Feralin | Feralin .NET server SDK: UTP v1 events, consent passthrough, idempotent batches… |
+| 2026-11-19 19:33:04 | [Feralin.Sdk.AspNetCore](https://www.nuget.org/packages/Feralin.Sdk.AspNetCore) | 0.1.0 | Feralin | ASP.NET Core dependency injection registration and graceful shutdown flush for… |
+| 2026-11-19 19:37:00 | [DataStudio.Postgres.Diagnostics](https://www.nuget.org/packages/DataStudio.Postgres.Diagnostics) | 2.0.0 | Marko Lahma | The PostgreSQL diagnostics engine of Data Studio, with no ASP.NET Core: the hea… |
+| 2026-11-19 19:37:01 | [DataStudio](https://www.nuget.org/packages/DataStudio) | 2.0.0 | Marko Lahma | The shell of Data Studio: an embeddable Blazor Server admin UI a host mounts on… |
+| 2026-11-19 19:37:02 | [DataStudio.Postgres](https://www.nuget.org/packages/DataStudio.Postgres) | 2.0.0 | Marko Lahma | The Postgres pages of Data Studio: an embeddable Blazor Server admin UI for the… |
+| 2026-11-19 19:37:03 | [DataStudio.Marten](https://www.nuget.org/packages/DataStudio.Marten) | 2.0.0 | Marko Lahma | An embeddable Blazor Server admin UI for MartenDB. Register it with services.Ad… |
+| 2026-11-19 19:37:04 | [DataStudio.Kafka.Core](https://www.nuget.org/packages/DataStudio.Kafka.Core) | 2.0.0 | Marko Lahma | The Kafka engine of Data Studio, with no ASP.NET Core: the catalog, window reso… |
+| 2026-11-19 19:37:05 | [DataStudio.Kafka](https://www.nuget.org/packages/DataStudio.Kafka) | 2.0.0 | Marko Lahma | Data Studio for Apache Kafka: the Kafka pages of Data Studio, beside the Marten… |
+| 2026-11-19 19:37:06 | [DataStudio.Kafka.Wolverine](https://www.nuget.org/packages/DataStudio.Kafka.Wolverine) | 2.0.0 | Marko Lahma | DataStudio.Kafka.Wolverine lists the Kafka clusters and topics of a Wolverine a… |
+| 2026-11-19 19:39:52 | [GeoView.Wpf](https://www.nuget.org/packages/GeoView.Wpf) | 1.0.0 | Matthew Muehlhauser | A reusable WebView2-based GeoView map control for WPF. |
+| 2026-11-19 19:48:25 | [RailReader.Core.Vlm.Anthropic](https://www.nuget.org/packages/RailReader.Core.Vlm.Anthropic) | 0.94.0 | sjvrensburg | Anthropic (Claude) IVlmService implementation for RailReader, built on the offi… |
+| 2026-11-19 19:51:30 | [Informix.Data](https://www.nuget.org/packages/Informix.Data) | 1.0.0 | robsosno | Experimental managed ADO.NET provider for IBM Informix (SQLI protocol). No CSDK… |
+| 2026-11-19 19:58:37 | [RESTworld.AspNetCore.AutoMapper](https://www.nuget.org/packages/RESTworld.AspNetCore.AutoMapper) | 1.0.0 | wertzui | Package Description |
+| 2026-11-19 19:58:41 | [RESTworld.Business.AutoMapper](https://www.nuget.org/packages/RESTworld.Business.AutoMapper) | 1.0.0 | wertzui | Package Description |
+| 2026-11-19 20:07:21 | [GameshowPro.XKeys](https://www.nuget.org/packages/GameshowPro.XKeys) | 2.2.3 | Hamish Barjonas | P.I. Engineering X-keys devices as GameshowPro incoming trigger devices, with t… |
+| 2026-11-19 20:07:23 | [GameshowPro.XKeys.Windows](https://www.nuget.org/packages/GameshowPro.XKeys.Windows) | 2.2.3 | Hamish Barjonas | P.I. Engineering X-keys devices as GameshowPro incoming trigger devices, with t… |
+| 2026-11-19 20:11:20 | [AWSSDK.PartnerCentralMarketing](https://www.nuget.org/packages/AWSSDK.PartnerCentralMarketing) | 4.1.0 | Amazon Web Services | The Amazon Web Services SDK for .NET - Partner Central Marketing API |
+| 2026-11-19 20:15:14 | [VirtoCommerce.ProductComparison.Data.MySql](https://www.nuget.org/packages/VirtoCommerce.ProductComparison.Data.MySql) | 3.1000.0 | VirtoCommerce.ProductComparis… | Package Description |
 
 ## Data source
 
