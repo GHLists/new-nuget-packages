@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-19T07:24:27.657Z,dotnet-crap,0.2.0,dotnet-crap contributors,Code quality analysis for .NET projects.
+2026-11-19T07:31:58.33Z,Webority.Email.Abstractions,0.93.0,Webority Technologies,"The email records a product's domain layer may link to, with no EF Core and no database parts, so a Domain project may reference it: the outreach contact (EmailOutreachContact) with its audit base, its outcome and reply classification enums. Depends on Webority.Domain.Abstractions only. The mapping…"
+2026-11-19T07:32:58.48Z,BlobStorage.Client,1.0.3,Ankit Chodavadiya,Client SDK for the BlobStorage service. Provides BlobServiceClient (project-scoped file operations) and BlobStorageAdminClient (project + API key management).
+2026-11-19T07:34:02.013Z,x86cc.KVBind.Schema,0.2.2,Stefan Szakal,"A serializer-neutral POCO description of a KVBind model definition (fields, groups, collections, nested nodes, allowed values, constraints, operations and annotations), plus the mapping from KVNodeDefinition. Use it to send a model's shape over the network, e.g. to drive a generated UI."
+2026-11-19T07:41:25.72Z,ApeFree.ApeLog,0.1.0,Guijie Lee,轻量级、解耦且高性能的 .NET 日志记录框架。基于观察者模式提供极简的 API，自动捕获调用方行号与源码元数据，内置控制台与缓冲文件写入，无缝协同 STTech.CodePlus 任务队列调度。
+2026-11-19T07:41:37.48Z,ApeFree.ApeLog.Controls,0.1.0,Guijie Lee,ApeFree.ApeLog 的 Windows Forms UI 界面日志扩展库，提供无闪烁、支持富文本着色与同色合并批处理的 LogTextBox 控件与视图监听器。
+2026-11-19T07:42:15.03Z,M.Simple.Services.Interception,1.0.0.1,Mr.Sunny,Interface method interception with synchronous and asynchronous hooks for .NET 8.
+2026-11-19T07:46:57.987Z,IGzip.Bindings,1.0.0,Kamron Batman,"Intel ISA-L igzip bindings for .NET 10+: one-shot zlib, raw deflate and gzip over Span<byte>. Bundles win-x64 and osx-arm64; Linux uses the distro's libisal."
+2026-11-19T07:48:56.633Z,EntityJson.DevToys,1.0.0,EntityJson,Convert entity classes (C# first) into JSON request bodies.
