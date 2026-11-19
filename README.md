@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 00:20 UTC
+## Latest list — 2026-11-19 01:19 UTC
 
-New packages created between 2026-11-18 23:19 UTC and 2026-11-19 00:20 UTC.
+New packages created between 2026-11-19 00:20 UTC and 2026-11-19 01:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T00-20-53-741969Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T01-19-21-049965Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-18 23:20:43 | [Eternal.LZMA2Simple.Native](https://www.nuget.org/packages/Eternal.LZMA2Simple.Native) | 1.0.6 | JohnJScott | A simplified implementation of the 7-Zip API for C++, based on version 25.01 of… |
-| 2026-11-18 23:45:46 | [Okta.AuthFoundation](https://www.nuget.org/packages/Okta.AuthFoundation) | 0.2.0 | Okta | Foundational OAuth2/OIDC types for the Okta .NET SDK: HTTP client, token and cr… |
-| 2026-11-18 23:59:24 | [Zenoh.FSharp](https://www.nuget.org/packages/Zenoh.FSharp) | 0.1.0 | mushed Research | F# bindings for Eclipse Zenoh over zenoh-c 1.10.2: sessions, pub/sub, queries,… |
+| 2026-11-19 00:30:39 | [Vercuski.Vertical_Slice-Clean_Architecture.Templates](https://www.nuget.org/packages/Vercuski.Vertical_Slice-Clean_Architecture.Templates) | 1.1.1 | Scott Vercuski | A .NET 10 Minimal API solution template that organizes features as vertical sli… |
+| 2026-11-19 00:41:33 | [Okta.OAuth2](https://www.nuget.org/packages/Okta.OAuth2) | 0.2.0 | Okta | OAuth2 and OIDC authentication flows for the Okta .NET SDK: Authorization Code… |
+| 2026-11-19 00:48:53 | [MyGeminiWebMcp.linux-x64](https://www.nuget.org/packages/MyGeminiWebMcp.linux-x64) | 0.1.0-beta | kimvi | MCP server for Gemini Web: multi-account pool with automatic failover, conversa… |
+| 2026-11-19 00:48:55 | [MyGeminiWebMcp.osx-arm64](https://www.nuget.org/packages/MyGeminiWebMcp.osx-arm64) | 0.1.0-beta | kimvi | MCP server for Gemini Web: multi-account pool with automatic failover, conversa… |
+| 2026-11-19 00:48:57 | [MyGeminiWebMcp.win-x64](https://www.nuget.org/packages/MyGeminiWebMcp.win-x64) | 0.1.0-beta | kimvi | MCP server for Gemini Web: multi-account pool with automatic failover, conversa… |
+| 2026-11-19 00:50:28 | [MyGeminiWebMcp](https://www.nuget.org/packages/MyGeminiWebMcp) | 0.1.0-beta | kimvi | MCP server for Gemini Web: multi-account pool with automatic failover, conversa… |
+| 2026-11-19 00:51:34 | [BinkyLabs.OpenApi.Arazzo.Tool](https://www.nuget.org/packages/BinkyLabs.OpenApi.Arazzo.Tool) | 1.0.0 | BinkyLabs | OpenAPI Arazzo CLI - Validate Arazzo documents |
+| 2026-11-19 00:51:35 | [BinkyLabs.OpenApi.Arazzo](https://www.nuget.org/packages/BinkyLabs.OpenApi.Arazzo) | 1.0.0 | BinkyLabs | Package Description |
 
 ## Data source
 

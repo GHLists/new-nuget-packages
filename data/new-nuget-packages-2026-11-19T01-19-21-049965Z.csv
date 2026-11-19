@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-19T00:30:39.267Z,Vercuski.Vertical_Slice-Clean_Architecture.Templates,1.1.1,Scott Vercuski,"A .NET 10 Minimal API solution template that organizes features as vertical slices (request, validator, handler and endpoint in one file) on top of Clean Architecture Domain and Infrastructure layers. Choose EF Core or Dapper on SQL Server, PostgreSQL or MySQL; includes FluentValidation, health che…"
+2026-11-19T00:41:33.687Z,Okta.OAuth2,0.2.0,Okta,"OAuth2 and OIDC authentication flows for the Okta .NET SDK: Authorization Code with PKCE, Device Authorization, Resource Owner, Session Logout, and Token Exchange."
+2026-11-19T00:48:53.98Z,MyGeminiWebMcp.linux-x64,0.1.0-beta,kimvi,"MCP server for Gemini Web: multi-account pool with automatic failover, conversation continuity, and a Native AOT single-file binary. No Python runtime required."
+2026-11-19T00:48:55.547Z,MyGeminiWebMcp.osx-arm64,0.1.0-beta,kimvi,"MCP server for Gemini Web: multi-account pool with automatic failover, conversation continuity, and a Native AOT single-file binary. No Python runtime required."
+2026-11-19T00:48:57.347Z,MyGeminiWebMcp.win-x64,0.1.0-beta,kimvi,"MCP server for Gemini Web: multi-account pool with automatic failover, conversation continuity, and a Native AOT single-file binary. No Python runtime required."
+2026-11-19T00:50:28.357Z,MyGeminiWebMcp,0.1.0-beta,kimvi,"MCP server for Gemini Web: multi-account pool with automatic failover, conversation continuity, and a Native AOT single-file binary. No Python runtime required."
+2026-11-19T00:51:34.57Z,BinkyLabs.OpenApi.Arazzo.Tool,1.0.0,BinkyLabs,OpenAPI Arazzo CLI - Validate Arazzo documents
+2026-11-19T00:51:35.01Z,BinkyLabs.OpenApi.Arazzo,1.0.0,BinkyLabs,Package Description
