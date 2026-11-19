@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-19T05:30:11.087Z,Wartakopi,1.0.0,Warta Kopi — media ulasan kedai kopi Indonesia,Warta Kopi Indonesian coffee shop reviews constants. Official: https://www.wartakopi.net/tentang/
+2026-11-19T05:33:12.457Z,Vidfomo.FrameGeometry,0.1.0,js-upup,Integer geometry helpers for planning video frame resizing and centered crops.
+2026-11-19T05:45:59.517Z,EasyReasy.Auth.Testing,1.0.0,Adam Tovatt,A software WebAuthn authenticator for testing passkey and security-key endpoints built on EasyReasy.Auth against its real verifier. For test projects only: never reference it from production code
+2026-11-19T05:52:15.21Z,Compze.Teventive.MemoryImageStateStore,0.1.0-alpha,Lidbom Solutions AB,"A memory image of taggregates: every taggregate held in memory for the container's life, rebuilt at its start from a snapshot of each, which JSON files keep. A taggregate store that keeps taggregates as their state, not their history."
+2026-11-19T05:52:19.553Z,Compze.Teventive.MemoryImageStateStore.MemoryPack,0.1.0-alpha,Lidbom Solutions AB,"A MemoryPack cache for Compze.Teventive.MemoryImageStateStore's JSON files, so a memory image state store kept in files starts from the cache and reads only the files changed since."
+2026-11-19T06:02:31.637Z,Eleris.RawNet,0.1.0,Sébastien Putier,"Pure managed .NET library to read camera raw files (Nikon NEF first): metadata, previews and the raw sensor mosaic."
+2026-11-19T06:05:54.74Z,OpenDCP.Framework.Connections.Datasource.MSSQL,0.4.0,OpenDCP.Framework.Connections.Datasource.MSSQL,Package Description
+2026-11-19T06:06:44.86Z,CodeBrix.WebPlatform.WasmShrink.ApacheLicenseForever,1.0.323.365,Jeremy Ellis,"The WebAssembly size optimizer for the CodeBrix.WebPlatform web application platform: the wasm-opt program for each supported build platform, and a small .NET library that finds the copy for the current machine, makes it runnable, and runs it. Referencing the package is all a build needs to shrink…"
+2026-11-19T06:10:36.39Z,Curiosity.CLI.linux-arm64,26.11.8242,Curiosity GmbH,The official .NET command line tool for Curiosity Studio (https://curiosity.ai).
+2026-11-19T06:11:45.767Z,Curiosity.CLI.win-arm64,26.11.8242,Curiosity GmbH,The official .NET command line tool for Curiosity Studio (https://curiosity.ai).
+2026-11-19T06:11:57.66Z,Curiosity.CLI.win-x64,26.11.8242,Curiosity GmbH,The official .NET command line tool for Curiosity Studio (https://curiosity.ai).
