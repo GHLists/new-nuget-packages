@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-19T09:24:41.237Z,DigiTFactory.Libraries.Analyzers.Resilience,0.1.0,DigiTFactory.Libraries.Analyzers.Resilience,"Roslyn analyzers for resilience rules (DigiTFactory EDM quality gates QG-609..614): IHttpClientFactory, EF retry-on-failure, Polly policies, sync-over-async, health checks."
+2026-11-19T09:30:06.503Z,Wandelbots.NovaSimSdk,0.21.0,Wandelbots,"C# binding of nova-sim-sdk: NOVA motion streams, IOs, trajectories, instances and sign-in for .NET hosts."
+2026-11-19T09:49:35.02Z,DigiTFactory.Libraries.Analyzers.Testing,0.1.0,DigiTFactory.Libraries.Analyzers.Testing,Roslyn analyzers for test rules (DigiTFactory EDM quality gates QG-701).
+2026-11-19T09:52:09.87Z,Copper.Migrations.MsSql,0.38.0,Copper.Migrations.MsSql,Package Description
+2026-11-19T09:52:10.953Z,Copper.Migrations.MySql,0.38.0,Copper.Migrations.MySql,Package Description
+2026-11-19T09:52:11.96Z,Copper.Migrations.Npgsql,0.38.0,Copper.Migrations.Npgsql,Package Description
+2026-11-19T09:52:49.43Z,Hosihikari.Plugin.Models,2.0.1,HosihikariFramework,Plugin manifest model shared by the Hosihikari plugin manager and packer.
+2026-11-19T09:57:20.32Z,TKCode.Arc.Markdown,1.2.0,TKCode.Arc contributors,"Markdown for TKCode.Arc: the Markdown document control (streaming, links, selection) and the ChatThread conversation view, rendered by StreamMark. Fenced code is highlighted when TKCode.Arc.Highlighting is enabled."
+2026-11-19T09:57:21.243Z,TKCode.Arc.Highlighting,1.2.0,TKCode.Arc contributors,"Syntax highlighting for TKCode.Arc: TextMate grammars painted in Arc's role palette for CodeBlock, the rich text editor's code blocks and Markdown's fenced code. Set ArcHighlightLanguages to keep only the grammars an app needs when it is trimmed."
+2026-11-19T09:57:29.36Z,TKCode.Arc.Graphics3D,1.2.0,TKCode.Arc contributors,"3D rendering engine for .NET: scene graph, geometries, node-based PBR materials, lights and shadows, image-based lighting, animation, glTF loading, ray casting and a renderer over a WebGPU-shaped hardware interface with an OpenGL ES 3.0 / OpenGL 4.1 backend. No UI dependency; TKCode.Arc.Graphics3D.…"
+2026-11-19T09:57:30.317Z,TKCode.Arc.Graphics3D.WebGpu,1.2.0,TKCode.Arc contributors,"WebGPU backend for TKCode.Arc.Graphics3D: a GraphicsDevice over wgpu-native (Metal, Vulkan, Direct3D 12, OpenGL ES) with compute shaders. The native library is not included: pass its path to WgpuDevice.Create. Preview: the API may change between previews."
+2026-11-19T09:57:31.243Z,TKCode.Arc.Graphics3D.Controls,1.2.0,TKCode.Arc contributors,"Avalonia controls for the TKCode.Arc.Graphics3D engine: Viewport3D (a scene drawn inside the Avalonia composition tree through OpenGL, rendered on demand) and ModelViewer (a glTF model with orbit controls, lighting presets and Arc chrome). Preview: the API may change between previews."
+2026-11-19T09:57:32.177Z,TKCode.Arc.Graphics3D.Browser,1.2.0,TKCode.Arc contributors,"WebAssembly backend for TKCode.Arc.Graphics3D.Controls: Viewport3D and ModelViewer draw in a WebGL 2 context of the page, created through JavaScript interop, and show the picture inside the Avalonia canvas. Add UseArcGraphics3DBrowser() to UseArc(...) in a browser app. Preview: the API may change b…"
+2026-11-19T09:57:42.263Z,TKCode.Arc.Ribbon,1.2.0,TKCode.Arc contributors,"Office-style ribbon for TKCode.Arc: tabs over grouped commands (large, medium and small buttons, toggle, drop-down and split buttons), groups that shrink step by step and collapse into drop-downs as the window narrows, a collapsible ribbon and a quick access toolbar."
+2026-11-19T09:58:14.47Z,Accigo.Integration.ServiceBus.Functions,1.0.0,Accigo,Shared failure classification and message settlement for Service Bus triggered Azure Functions.
+2026-11-19T09:58:15.53Z,Accigo.Integration.TableStorage,1.0.0,Accigo,Generic Azure Table Storage client with multi-account support and managed identity authentication.
+2026-11-19T09:58:16.643Z,Accigo.Integration.ServiceBus,1.0.0,Accigo,"Shared Service Bus integration library with standardized event envelope, typed publisher, and consistent ServiceBusClient registration."
+2026-11-19T09:58:17.68Z,Accigo.Integration.BlobStorage,1.0.0,Accigo,"Stream-based Azure Blob Storage client with multi-account support, managed identity authentication, and SAS URI generation."
+2026-11-19T10:05:00.773Z,Rop.Dapper.ContribEx11,1.0.0,Ramon Ordiales Plaza,"Advanced extensions for Dapper and Dapper.Contrib targeting .NET 10 (usable from .NET 11). Includes optimized queries, partial key support, foreign database handling, cached SQL generation, and full async/await support."
+2026-11-19T10:09:24.897Z,Pinlyx,1.0.0,Pinlyx,"Official .NET SDK for the Pinlyx omnichannel AI CRM platform. Strongly-typed clients for the public REST API v1 (Bearer auth): contacts, deals, tasks, finance, email inbox, Telegram + Twitter/X messaging, sequences, analytics, conversations, accounts, pipelines, AI agents, job monitor, and self-ser…"
+2026-11-19T10:11:38.847Z,AndysonNet.BaseConfig,1.0.0,Andyson,BaseConfig
+2026-11-19T10:11:58.013Z,AndysonNet.BaseDataTransferObject,1.0.0,Andyson,BaseDataTransferObject
+2026-11-19T10:12:19.017Z,AndysonNet.BaseDomainModel,1.0.0,Andyson,BaseDomainModel
+2026-11-19T10:12:35.397Z,AndysonNet.BaseExtension,1.0.0,Andyson,BaseExtension
+2026-11-19T10:12:52.673Z,AndysonNet.BaseHelper,1.0.0,Andyson,BaseHelper
+2026-11-19T10:13:22.197Z,AndysonNet.BaseWebMvc,1.0.0,Andyson,BaseWebMvc

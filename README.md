@@ -12,43 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:20 UTC
+## Latest list — 2026-11-19 10:22 UTC
 
-New packages created between 2026-11-19 08:20 UTC and 2026-11-19 09:20 UTC.
+New packages created between 2026-11-19 09:20 UTC and 2026-11-19 10:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T09-20-12-61465Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T10-22-13-617416Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-19 08:24:30 | [InternetData.AspNetCore](https://www.nuget.org/packages/InternetData.AspNetCore) | 1.0.1 | Mslm Dev | The official ASP.NET Core middleware for the InternetData API. Looks up the vis… |
-| 2026-11-19 08:30:26 | [Wns.Util.InfoturfPackage](https://www.nuget.org/packages/Wns.Util.InfoturfPackage) | 1.0.1 | InfoturfPackage | Contains utilities methods of infoturf |
-| 2026-11-19 08:38:12 | [Khazeen_Wathiq](https://www.nuget.org/packages/Khazeen_Wathiq) | 1.0.0 | Gasco | Package Description |
-| 2026-11-19 08:42:15 | [Flash2Fa](https://www.nuget.org/packages/Flash2Fa) | 1.0.0 | Jetonpeche | High-performance, zero-dependency, zero-allocation, 100% Native AOT 2FA library… |
-| 2026-11-19 08:46:17 | [DoRuan.Report.Avalonia](https://www.nuget.org/packages/DoRuan.Report.Avalonia) | 0.5.0 | DoRuan | DoRuan.Report Avalonia 预览控件 ReportPreview：内嵌报表预览、缩放与 PDF 导出。 |
-| 2026-11-19 08:46:21 | [DoRuan.Report.Core](https://www.nuget.org/packages/DoRuan.Report.Core) | 0.5.0 | DoRuan | DoRuan.Report 核心：模板 JSON 驱动的报表排版引擎，含文档模型、表达式与序列化；Avalonia 预览与设计器的底层，也可用于 WinFor… |
-| 2026-11-19 08:46:24 | [DoRuan.Report.Designer.Avalonia](https://www.nuget.org/packages/DoRuan.Report.Designer.Avalonia) | 0.5.0 | DoRuan | DoRuan.Report Avalonia 可视化报表设计器：带区与组件编辑、数据源管理、预览、打印、标签模板。 |
-| 2026-11-19 08:46:25 | [DoRuan.Report.Licensing](https://www.nuget.org/packages/DoRuan.Report.Licensing) | 0.5.0 | DoRuan | DoRuan.Report 授权校验：ECDSA 验签、机器绑定、构建授权戳与未授权水印判定；随 Avalonia 报表渲染包自动引入。 |
-| 2026-11-19 08:46:26 | [DoRuan.Report.Printing](https://www.nuget.org/packages/DoRuan.Report.Printing) | 0.5.0 | DoRuan | DoRuan.Report 跨平台打印：Windows GDI / Linux·macOS CUPS，支持标签整叠打印与套打偏移；适用于 Avalonia 报… |
-| 2026-11-19 08:46:38 | [DoRuan.Report.Rendering.Skia](https://www.nuget.org/packages/DoRuan.Report.Rendering.Skia) | 0.5.0 | DoRuan | DoRuan.Report Skia 渲染：PDF/PNG 导出、内嵌中文字体、Code 128 / QR / EAN-13 条码；为 Avalonia 预览… |
-| 2026-11-19 08:49:57 | [InstantAIGate.Client](https://www.nuget.org/packages/InstantAIGate.Client) | 1.6.0 | InstantAIGate Team | Official .NET SignalR client SDK for the InstantAIGate inference gateway with p… |
-| 2026-11-19 09:01:24 | [SmartAssist.Templates](https://www.nuget.org/packages/SmartAssist.Templates) | 1.11.1 | SmartAssist.Templates | dotnet new templates for Smart Assist modules: sa-module, sa-widget, sa-studio,… |
-| 2026-11-19 09:01:26 | [SmartAssist.Cli](https://www.nuget.org/packages/SmartAssist.Cli) | 1.11.1 | Smart Assist | Smart Assist CLI (sa): authenticated automation for Studio modules and testing,… |
-| 2026-11-19 09:01:26 | [SmartAssist.Modules](https://www.nuget.org/packages/SmartAssist.Modules) | 1.11.1 | Smart Assist | Smart Assist module packages: manifest, .samodule reader/writer, Ed25519 signin… |
-| 2026-11-19 09:01:27 | [SmartAssist.Sdk](https://www.nuget.org/packages/SmartAssist.Sdk) | 1.11.1 | Smart Assist | Smart Assist SDK: the contracts, attributes and build targets a module builds a… |
-| 2026-11-19 09:01:27 | [SmartAssist.Sdk.Testing](https://www.nuget.org/packages/SmartAssist.Sdk.Testing) | 1.11.1 | Smart Assist | Smart Assist SDK test kit: an in-memory module host and fakes for the SDK servi… |
-| 2026-11-19 09:01:28 | [SmartAssist.Sdk.Generators](https://www.nuget.org/packages/SmartAssist.Sdk.Generators) | 1.11.1 | Smart Assist | Smart Assist SDK source generator and analyzers (also inside SmartAssist.Sdk). |
-| 2026-11-19 09:01:28 | [SmartAssist.Sdk.Data](https://www.nuget.org/packages/SmartAssist.Sdk.Data) | 1.11.1 | Smart Assist | Smart Assist SDK: module data contexts (EF Core on the host's SQLite database),… |
-| 2026-11-19 09:01:29 | [SmartAssist.UI](https://www.nuget.org/packages/SmartAssist.UI) | 1.11.1 | Smart Assist | Smart Assist UI: the sa-* tag helpers, sa-ui.css and sa-ui.js modules share wit… |
-| 2026-11-19 09:03:04 | [GameshowPro.Common](https://www.nuget.org/packages/GameshowPro.Common) | 1.4.18 | Hamish Barjonas | GameshowPro common class library. |
-| 2026-11-19 09:03:05 | [GameshowPro.Common.Blazor](https://www.nuget.org/packages/GameshowPro.Common.Blazor) | 1.4.18 | Hamish Barjonas | Shared Blazor components for GameshowPro service UIs: the standardized ServiceS… |
-| 2026-11-19 09:03:06 | [GameshowPro.Common.JsonNet](https://www.nuget.org/packages/GameshowPro.Common.JsonNet) | 1.4.18 | Hamish Barjonas | Package Description |
-| 2026-11-19 09:03:07 | [GameshowPro.Common.NLog](https://www.nuget.org/packages/GameshowPro.Common.NLog) | 1.4.18 | Hamish Barjonas | Package Description |
-| 2026-11-19 09:03:08 | [GameshowPro.Common.JsonNet.Windows](https://www.nuget.org/packages/GameshowPro.Common.JsonNet.Windows) | 1.4.18 | Hamish Barjonas | Package Description |
-| 2026-11-19 09:03:09 | [GameshowPro.Common.NLog.Windows](https://www.nuget.org/packages/GameshowPro.Common.NLog.Windows) | 1.4.18 | Hamish Barjonas | Package Description |
-| 2026-11-19 09:03:10 | [GameshowPro.Common.Windows](https://www.nuget.org/packages/GameshowPro.Common.Windows) | 1.4.18 | Hamish Barjonas | GameshowPro common class library. |
-| 2026-11-19 09:03:26 | [OpenDCP.Framework.Math](https://www.nuget.org/packages/OpenDCP.Framework.Math) | 0.1.2 | OpenDCP.Framework.Math | Package Description |
-| 2026-11-19 09:03:26 | [OpenDCP.Framework.Math.Adapter.Equipment](https://www.nuget.org/packages/OpenDCP.Framework.Math.Adapter.Equipment) | 0.1.2 | OpenDCP.Framework.Math.Adapte… | Package Description |
-| 2026-11-19 09:08:56 | [Volo.Abp.Http.FluentValidation](https://www.nuget.org/packages/Volo.Abp.Http.FluentValidation) | 11.0.0 | Volo.Abp.Http.FluentValidation | Package Description |
+| 2026-11-19 09:24:41 | [DigiTFactory.Libraries.Analyzers.Resilience](https://www.nuget.org/packages/DigiTFactory.Libraries.Analyzers.Resilience) | 0.1.0 | DigiTFactory.Libraries.Analyz… | Roslyn analyzers for resilience rules (DigiTFactory EDM quality gates QG-609..6… |
+| 2026-11-19 09:30:06 | [Wandelbots.NovaSimSdk](https://www.nuget.org/packages/Wandelbots.NovaSimSdk) | 0.21.0 | Wandelbots | C# binding of nova-sim-sdk: NOVA motion streams, IOs, trajectories, instances a… |
+| 2026-11-19 09:49:35 | [DigiTFactory.Libraries.Analyzers.Testing](https://www.nuget.org/packages/DigiTFactory.Libraries.Analyzers.Testing) | 0.1.0 | DigiTFactory.Libraries.Analyz… | Roslyn analyzers for test rules (DigiTFactory EDM quality gates QG-701). |
+| 2026-11-19 09:52:09 | [Copper.Migrations.MsSql](https://www.nuget.org/packages/Copper.Migrations.MsSql) | 0.38.0 | Copper.Migrations.MsSql | Package Description |
+| 2026-11-19 09:52:10 | [Copper.Migrations.MySql](https://www.nuget.org/packages/Copper.Migrations.MySql) | 0.38.0 | Copper.Migrations.MySql | Package Description |
+| 2026-11-19 09:52:11 | [Copper.Migrations.Npgsql](https://www.nuget.org/packages/Copper.Migrations.Npgsql) | 0.38.0 | Copper.Migrations.Npgsql | Package Description |
+| 2026-11-19 09:52:49 | [Hosihikari.Plugin.Models](https://www.nuget.org/packages/Hosihikari.Plugin.Models) | 2.0.1 | HosihikariFramework | Plugin manifest model shared by the Hosihikari plugin manager and packer. |
+| 2026-11-19 09:57:20 | [TKCode.Arc.Markdown](https://www.nuget.org/packages/TKCode.Arc.Markdown) | 1.2.0 | TKCode.Arc contributors | Markdown for TKCode.Arc: the Markdown document control (streaming, links, selec… |
+| 2026-11-19 09:57:21 | [TKCode.Arc.Highlighting](https://www.nuget.org/packages/TKCode.Arc.Highlighting) | 1.2.0 | TKCode.Arc contributors | Syntax highlighting for TKCode.Arc: TextMate grammars painted in Arc's role pal… |
+| 2026-11-19 09:57:29 | [TKCode.Arc.Graphics3D](https://www.nuget.org/packages/TKCode.Arc.Graphics3D) | 1.2.0 | TKCode.Arc contributors | 3D rendering engine for .NET: scene graph, geometries, node-based PBR materials… |
+| 2026-11-19 09:57:30 | [TKCode.Arc.Graphics3D.WebGpu](https://www.nuget.org/packages/TKCode.Arc.Graphics3D.WebGpu) | 1.2.0 | TKCode.Arc contributors | WebGPU backend for TKCode.Arc.Graphics3D: a GraphicsDevice over wgpu-native (Me… |
+| 2026-11-19 09:57:31 | [TKCode.Arc.Graphics3D.Controls](https://www.nuget.org/packages/TKCode.Arc.Graphics3D.Controls) | 1.2.0 | TKCode.Arc contributors | Avalonia controls for the TKCode.Arc.Graphics3D engine: Viewport3D (a scene dra… |
+| 2026-11-19 09:57:32 | [TKCode.Arc.Graphics3D.Browser](https://www.nuget.org/packages/TKCode.Arc.Graphics3D.Browser) | 1.2.0 | TKCode.Arc contributors | WebAssembly backend for TKCode.Arc.Graphics3D.Controls: Viewport3D and ModelVie… |
+| 2026-11-19 09:57:42 | [TKCode.Arc.Ribbon](https://www.nuget.org/packages/TKCode.Arc.Ribbon) | 1.2.0 | TKCode.Arc contributors | Office-style ribbon for TKCode.Arc: tabs over grouped commands (large, medium a… |
+| 2026-11-19 09:58:14 | [Accigo.Integration.ServiceBus.Functions](https://www.nuget.org/packages/Accigo.Integration.ServiceBus.Functions) | 1.0.0 | Accigo | Shared failure classification and message settlement for Service Bus triggered… |
+| 2026-11-19 09:58:15 | [Accigo.Integration.TableStorage](https://www.nuget.org/packages/Accigo.Integration.TableStorage) | 1.0.0 | Accigo | Generic Azure Table Storage client with multi-account support and managed ident… |
+| 2026-11-19 09:58:16 | [Accigo.Integration.ServiceBus](https://www.nuget.org/packages/Accigo.Integration.ServiceBus) | 1.0.0 | Accigo | Shared Service Bus integration library with standardized event envelope, typed… |
+| 2026-11-19 09:58:17 | [Accigo.Integration.BlobStorage](https://www.nuget.org/packages/Accigo.Integration.BlobStorage) | 1.0.0 | Accigo | Stream-based Azure Blob Storage client with multi-account support, managed iden… |
+| 2026-11-19 10:05:00 | [Rop.Dapper.ContribEx11](https://www.nuget.org/packages/Rop.Dapper.ContribEx11) | 1.0.0 | Ramon Ordiales Plaza | Advanced extensions for Dapper and Dapper.Contrib targeting .NET 10 (usable fro… |
+| 2026-11-19 10:09:24 | [Pinlyx](https://www.nuget.org/packages/Pinlyx) | 1.0.0 | Pinlyx | Official .NET SDK for the Pinlyx omnichannel AI CRM platform. Strongly-typed cl… |
+| 2026-11-19 10:11:38 | [AndysonNet.BaseConfig](https://www.nuget.org/packages/AndysonNet.BaseConfig) | 1.0.0 | Andyson | BaseConfig |
+| 2026-11-19 10:11:58 | [AndysonNet.BaseDataTransferObject](https://www.nuget.org/packages/AndysonNet.BaseDataTransferObject) | 1.0.0 | Andyson | BaseDataTransferObject |
+| 2026-11-19 10:12:19 | [AndysonNet.BaseDomainModel](https://www.nuget.org/packages/AndysonNet.BaseDomainModel) | 1.0.0 | Andyson | BaseDomainModel |
+| 2026-11-19 10:12:35 | [AndysonNet.BaseExtension](https://www.nuget.org/packages/AndysonNet.BaseExtension) | 1.0.0 | Andyson | BaseExtension |
+| 2026-11-19 10:12:52 | [AndysonNet.BaseHelper](https://www.nuget.org/packages/AndysonNet.BaseHelper) | 1.0.0 | Andyson | BaseHelper |
+| 2026-11-19 10:13:22 | [AndysonNet.BaseWebMvc](https://www.nuget.org/packages/AndysonNet.BaseWebMvc) | 1.0.0 | Andyson | BaseWebMvc |
 
 ## Data source
 
