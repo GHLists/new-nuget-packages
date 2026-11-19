@@ -1,0 +1,30 @@
+created_at,package,version,authors,description
+2026-11-19T08:24:30.09Z,InternetData.AspNetCore,1.0.1,Mslm Dev,"The official ASP.NET Core middleware for the InternetData API. Looks up the visitor behind each request - where they are, which network they come from, and whether it is a VPN, a proxy, Tor or a hosting server - and puts the answer on HttpContext. Blocking by country, network type or anonymity is o…"
+2026-11-19T08:30:26.127Z,Wns.Util.InfoturfPackage,1.0.1,InfoturfPackage,Contains utilities methods of infoturf
+2026-11-19T08:38:12.547Z,Khazeen_Wathiq,1.0.0,Gasco,Package Description
+2026-11-19T08:42:15.467Z,Flash2Fa,1.0.0,Jetonpeche,"High-performance, zero-dependency, zero-allocation, 100% Native AOT 2FA library for .NET 10+ (TOTP RFC 6238, SVG/PNG QR codes, and SHA-256 recovery codes)."
+2026-11-19T08:46:17.207Z,DoRuan.Report.Avalonia,0.5.0,DoRuan,DoRuan.Report Avalonia 预览控件 ReportPreview：内嵌报表预览、缩放与 PDF 导出。
+2026-11-19T08:46:21.597Z,DoRuan.Report.Core,0.5.0,DoRuan,DoRuan.Report 核心：模板 JSON 驱动的报表排版引擎，含文档模型、表达式与序列化；Avalonia 预览与设计器的底层，也可用于 WinForms 或服务端生成。
+2026-11-19T08:46:24.62Z,DoRuan.Report.Designer.Avalonia,0.5.0,DoRuan,DoRuan.Report Avalonia 可视化报表设计器：带区与组件编辑、数据源管理、预览、打印、标签模板。
+2026-11-19T08:46:25.717Z,DoRuan.Report.Licensing,0.5.0,DoRuan,DoRuan.Report 授权校验：ECDSA 验签、机器绑定、构建授权戳与未授权水印判定；随 Avalonia 报表渲染包自动引入。
+2026-11-19T08:46:26.763Z,DoRuan.Report.Printing,0.5.0,DoRuan,DoRuan.Report 跨平台打印：Windows GDI / Linux·macOS CUPS，支持标签整叠打印与套打偏移；适用于 Avalonia 报表应用。
+2026-11-19T08:46:38.33Z,DoRuan.Report.Rendering.Skia,0.5.0,DoRuan,DoRuan.Report Skia 渲染：PDF/PNG 导出、内嵌中文字体、Code 128 / QR / EAN-13 条码；为 Avalonia 预览与设计器提供渲染输出，也可服务端生成。
+2026-11-19T08:49:57.527Z,InstantAIGate.Client,1.6.0,InstantAIGate Team,Official .NET SignalR client SDK for the InstantAIGate inference gateway with pluggable KV-cache context strategies.
+2026-11-19T09:01:24.9Z,SmartAssist.Templates,1.11.1,SmartAssist.Templates,"dotnet new templates for Smart Assist modules: sa-module, sa-widget, sa-studio, sa-integration."
+2026-11-19T09:01:26.247Z,SmartAssist.Cli,1.11.1,Smart Assist,"Smart Assist CLI (sa): authenticated automation for Studio modules and testing, plus module development and publishing."
+2026-11-19T09:01:26.737Z,SmartAssist.Modules,1.11.1,Smart Assist,"Smart Assist module packages: manifest, .samodule reader/writer, Ed25519 signing, validation rules and capability scan."
+2026-11-19T09:01:27.217Z,SmartAssist.Sdk,1.11.1,Smart Assist,"Smart Assist SDK: the contracts, attributes and build targets a module builds against (source generator and analyzers included)."
+2026-11-19T09:01:27.757Z,SmartAssist.Sdk.Testing,1.11.1,Smart Assist,Smart Assist SDK test kit: an in-memory module host and fakes for the SDK services.
+2026-11-19T09:01:28.297Z,SmartAssist.Sdk.Generators,1.11.1,Smart Assist,Smart Assist SDK source generator and analyzers (also inside SmartAssist.Sdk).
+2026-11-19T09:01:28.82Z,SmartAssist.Sdk.Data,1.11.1,Smart Assist,"Smart Assist SDK: module data contexts (EF Core on the host's SQLite database), schema fingerprint and adoption."
+2026-11-19T09:01:29.37Z,SmartAssist.UI,1.11.1,Smart Assist,"Smart Assist UI: the sa-* tag helpers, sa-ui.css and sa-ui.js modules share with the host."
+2026-11-19T09:03:04.047Z,GameshowPro.Common,1.4.18,Hamish Barjonas,GameshowPro common class library.
+2026-11-19T09:03:05.077Z,GameshowPro.Common.Blazor,1.4.18,Hamish Barjonas,"Shared Blazor components for GameshowPro service UIs: the standardized ServiceState tree and connection overlay (services architecture §3), MudBlazor-styled."
+2026-11-19T09:03:06.13Z,GameshowPro.Common.JsonNet,1.4.18,Hamish Barjonas,Package Description
+2026-11-19T09:03:07.213Z,GameshowPro.Common.NLog,1.4.18,Hamish Barjonas,Package Description
+2026-11-19T09:03:08.323Z,GameshowPro.Common.JsonNet.Windows,1.4.18,Hamish Barjonas,Package Description
+2026-11-19T09:03:09.527Z,GameshowPro.Common.NLog.Windows,1.4.18,Hamish Barjonas,Package Description
+2026-11-19T09:03:10.62Z,GameshowPro.Common.Windows,1.4.18,Hamish Barjonas,GameshowPro common class library.
+2026-11-19T09:03:26.51Z,OpenDCP.Framework.Math,0.1.2,OpenDCP.Framework.Math,Package Description
+2026-11-19T09:03:26.807Z,OpenDCP.Framework.Math.Adapter.Equipment,0.1.2,OpenDCP.Framework.Math.Adapter.Equipment,Package Description
+2026-11-19T09:08:56.4Z,Volo.Abp.Http.FluentValidation,11.0.0,Volo.Abp.Http.FluentValidation,Package Description
