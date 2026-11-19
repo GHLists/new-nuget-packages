@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-19T13:30:02.907Z,Msfp.Protocol,0.1.0-preview,The MSFP contributors,"MSFP, the Media Server Federation Protocol, version 1: the protocol's pieces (keys, pairing codes, signed requests and answers, strict JSON, statements, media checks)."
+2026-11-19T13:30:03.977Z,Msfp.Engine,0.1.0-preview,The MSFP contributors,"The MSFP engine: runs the Media Server Federation Protocol inside a media server (pairing, keys, signed calls, catalog, playback), with memory and JSON-file stores."
+2026-11-19T13:32:56.32Z,Sounding.Aspire.Hosting,1.0.0,famda,"An Aspire integration for Sounding: runs the Sounding dashboard and adds the Sounding agent to container resources, so their CPU, memory, disk, network and GPU use shows in one dashboard."
+2026-11-19T13:47:47.46Z,JonasRq.DatabaseMCP,0.1.0-beta,Jonas Requena,MCP server for database metadata and read-only queries. Current engine: SQL Server.
+2026-11-19T13:49:16.75Z,ForEach.UI.Html.Abstractions,0.1.0,For-Each Smederevo,"IHtmlRenderer: the contract for turning untrusted HTML and markdown into safe HTML. No dependencies, so a UI can reference it without pulling in a renderer."
+2026-11-19T13:49:17.427Z,ForEach.UI.Html,0.1.0,For-Each Smederevo,SafeHtmlRenderer: Markdig and an allow-list HtmlSanitizer behind IHtmlRenderer. Renders markdown with GitHub-style heading ids and sanitizes untrusted HTML.
+2026-11-19T13:50:33.23Z,HeartbeatStatus.FjzClient,1.0.0,guinanbei,面向 .NET Framework 4.8 桌面应用的心跳状态写入库（无第三方依赖，单 DLL）。
+2026-11-19T14:05:53.153Z,Vane.Logging,1.0.0,netcasewqs,"A lightweight, high-performance logging library for .NET with zero external dependencies, fluent configuration, and support for XML/JSON/INI configuration."
+2026-11-19T14:08:44.19Z,JamesTryand.DotnetCqrs.Edges.Nats,0.46.0,James Tryand,"Carries a system's internal edges (eventmodelschema's coordinating document, edgeMessage) over NATS JetStream: a publishing consumer and an in-process ingest, wire-compatible with pocketcqrs-extensions' federation, so a dotnetcqrs and a pocketcqrs system can share an edge either way."
+2026-11-19T14:09:02.02Z,Vane.Logging.Mel,1.0.0,netcasewqs,"Microsoft.Extensions.Logging adapter for Vane.Logging, enabling Vane.Logging as a logging provider in ASP.NET Core and generic-host applications."
