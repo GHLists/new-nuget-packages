@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-19T06:42:03.247Z,XHao.Queue.V2,1.0.0,XHao.Queue.V2,Package Description
+2026-11-19T06:42:06.22Z,XHao.Queue.V2.RabbitMQ,1.0.0,XHao.Queue.V2.RabbitMQ,Package Description
+2026-11-19T06:42:11.03Z,XHao.Queue.V2.Redis,1.0.0,XHao.Queue.V2.Redis,Package Description
+2026-11-19T06:52:48.24Z,Emission,1.0.0,Ghost Notes LLC,A fluent API for programmatically generating C# source code.
+2026-11-19T06:55:08.91Z,Bielu.AspNetCore.Arazzo.Scalar.Aspire,3.1.1,Arkadiusz Biel,Aspire hosting helper that renders Arazzo workflows in a Scalar.Aspire API Reference resource by pointing it at the @bielu/scalar-arazzo bundle.
+2026-11-19T07:12:22.8Z,Ranvier.Plume,0.1.0,shayanhabibi,"The state of a text editor as a fold over a log of edits, on Ranvier: an immutable rope, change sets with position mapping, selections, transactions, facets, state fields, compartments, history, commands and keymaps. No DOM dependency."
+2026-11-19T07:12:23.72Z,Ranvier.Plume.Traced,0.1.0,shayanhabibi,"The state of a text editor as a fold over a log of edits, on Ranvier: an immutable rope, change sets with position mapping, selections, transactions, facets, state fields, compartments, history, commands and keymaps. No DOM dependency."
+2026-11-19T07:12:24.63Z,Ranvier.Plume.View,0.1.0,shayanhabibi,"The EditorView component of Ranvier.Plume for Ranvier.View: a virtualised text view with pooled rows, gutters, layers, pointer and keyboard input, and a theme over Ranvier.Css."
+2026-11-19T07:12:26.16Z,Ranvier.Plume.View.Traced,0.1.0,shayanhabibi,"The EditorView component of Ranvier.Plume for Ranvier.View: a virtualised text view with pooled rows, gutters, layers, pointer and keyboard input, and a theme over Ranvier.Css."
+2026-11-19T07:12:37.57Z,PhoenixConcreteContractors.Estimator,1.0.0,Phoenix Concrete Contractors,"Concrete contractors estimator for .NET: slab, driveway, footing, column and steps volume in cubic yards, 80/60/40 lb bag counts, rebar and mesh, rough cost range and hot-weather pour advice. No dependencies."
