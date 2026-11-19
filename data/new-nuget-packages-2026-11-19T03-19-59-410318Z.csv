@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-19T02:27:34.547Z,ParcelUtility,1.0.0,Parcel Utility contributors,"ArcGIS parcel boundary lookup, download, and import utilities."
+2026-11-19T02:27:45.823Z,Soenneker.Google.Calendar.OpenApiClientUtil,11.0.10,Jake Soenneker,A thread-safe utility for obtaining Calendar's OpenApiClient singleton.
+2026-11-19T02:27:57.343Z,Soenneker.Google.Meet.OpenApiClientUtil,11.0.11,Jake Soenneker,A thread-safe utility for obtaining Meet's OpenApiClient singleton.
+2026-11-19T02:32:04.47Z,SharpAbp.Abp.Dapper.OceanBase,6.1.0,virtual,SharpAbp Dapper OceanBase Module
+2026-11-19T02:32:16.727Z,SharpAbp.Abp.Data.SqlBuilder.OceanBase,6.1.0,virtual,SharpAbp Data SqlBuilder OceanBase Module
+2026-11-19T02:33:01.603Z,Synvro.Modulus.Identity.Messaging,3.0.0,synvro,Email and SMS providers for Modulus identity.
+2026-11-19T02:33:20.27Z,Synvro.Modulus.Messaging,3.0.0,synvro,"Consumers, publish and send for Modulus.Messaging."
+2026-11-19T02:33:22.97Z,Synvro.Modulus.Messaging.Inbox.EntityFrameworkCore,3.0.0,synvro,EF Core inbox for Modulus.Messaging.
+2026-11-19T02:33:25.667Z,Synvro.Modulus.Messaging.Inbox.Npgsql,3.0.0,synvro,Npgsql inbox for Modulus.Messaging.
+2026-11-19T02:33:28.47Z,Synvro.Modulus.Messaging.Management,3.0.0,synvro,Operator API for Modulus.Messaging.
+2026-11-19T02:33:31.253Z,Synvro.Modulus.Messaging.Modulus,3.0.0,synvro,Modulus host adapter for Modulus.Messaging.
+2026-11-19T02:33:34.24Z,Synvro.Modulus.Messaging.Outbox.EntityFrameworkCore,3.0.0,synvro,EF Core transactional outbox for Modulus.Messaging.
+2026-11-19T02:33:37.327Z,Synvro.Modulus.Messaging.Outbox.Npgsql,3.0.0,synvro,Npgsql transactional outbox for Modulus.Messaging.
+2026-11-19T02:33:40.267Z,Synvro.Modulus.Messaging.Sagas,3.0.0,synvro,State machine sagas for Modulus.Messaging.
+2026-11-19T02:33:43.017Z,Synvro.Modulus.Messaging.Sagas.EntityFrameworkCore,3.0.0,synvro,EF Core saga repository for Modulus.Messaging.
+2026-11-19T02:33:45.707Z,Synvro.Modulus.Messaging.Sagas.PostgreSql,3.0.0,synvro,PostgreSQL saga repository for Modulus.Messaging.
+2026-11-19T02:33:48.533Z,Synvro.Modulus.Messaging.Testing,3.0.0,synvro,Test harness for Modulus.Messaging.
+2026-11-19T02:33:51.427Z,Synvro.Modulus.Messaging.Transports.InMemory,3.0.0,synvro,In-memory transport for Modulus.Messaging (tests and single process).
+2026-11-19T02:33:54.747Z,Synvro.Modulus.Messaging.Transports.PostgreSql,3.0.0,synvro,PostgreSQL transport for Modulus.Messaging.
+2026-11-19T02:33:57.65Z,Synvro.Modulus.Messaging.Transports.RabbitMQ,3.0.0,synvro,RabbitMQ transport for Modulus.Messaging.
+2026-11-19T02:34:29.14Z,Synvro.Modulus.Search,3.0.0,synvro,Full-text search for Modulus (OpenSearch and Solr).
+2026-11-19T02:34:32.167Z,Synvro.Modulus.Secrets.AzureKeyVault,3.0.0,synvro,Azure Key Vault secret provider for Modulus.
+2026-11-19T02:34:42.827Z,Synvro.Modulus.Storage.GoogleCloud,3.0.0,synvro,Google Cloud Storage provider for Modulus.
+2026-11-19T02:36:46.547Z,Hosihikari.Plugin.Model,2.0.0,HosihikariFramework,Plugin manifest model shared by the Hosihikari plugin manager and packer.
+2026-11-19T02:56:21.167Z,Lyric.Conformance,0.7.15,Lyric Contributors,"Conformance suites for the Lyric library interfaces (cache, flags, session, message queue, storage, jobs, search)."
+2026-11-19T02:56:59.81Z,Dgz.Settings.Avalonia,1.1.0,Dgz,面向 Avalonia 应用的跨平台强类型设置库，支持 .NET 8 和 .NET 10，提供增删改查、属性变更自动保存、多平台配置路径以及可选 AES-GCM 加密存储。

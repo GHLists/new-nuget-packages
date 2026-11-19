@@ -12,35 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 02:21 UTC
+## Latest list — 2026-11-19 03:19 UTC
 
-New packages created between 2026-11-19 01:19 UTC and 2026-11-19 02:21 UTC.
+New packages created between 2026-11-19 02:21 UTC and 2026-11-19 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T02-21-27-234255Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T03-19-59-410318Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-19 01:31:34 | [Bonsai.Zarr](https://www.nuget.org/packages/Bonsai.Zarr) | 0.1.0 | Bonsai Foundation | Bonsai Library containing modules for logging numeric data streams to Zarr stor… |
-| 2026-11-19 01:42:56 | [Fable.Ranvier.D5.Wgpu](https://www.nuget.org/packages/Fable.Ranvier.D5.Wgpu) | 0.2.0 | Ranvier contributors | Browser/Fable 3D and multi-dimensional visualization scales, axes, encodings, s… |
-| 2026-11-19 01:42:57 | [Fable.Ranvier.D5.Wgpu.Traced](https://www.nuget.org/packages/Fable.Ranvier.D5.Wgpu.Traced) | 0.2.0 | Ranvier contributors | Browser/Fable 3D and multi-dimensional visualization scales, axes, encodings, s… |
-| 2026-11-19 01:43:01 | [Ranvier.D5.Graph](https://www.nuget.org/packages/Ranvier.D5.Graph) | 0.2.0 | Ranvier contributors | High-performance 2D compound graph, grouping, port, orthogonal routing and asso… |
-| 2026-11-19 01:43:02 | [Ranvier.D5.Graph.Traced](https://www.nuget.org/packages/Ranvier.D5.Graph.Traced) | 0.2.0 | Ranvier contributors | High-performance 2D compound graph, grouping, port, orthogonal routing and asso… |
-| 2026-11-19 01:43:03 | [Ranvier.D5.Graph3D](https://www.nuget.org/packages/Ranvier.D5.Graph3D) | 0.2.0 | Ranvier contributors | High-performance 3D Euclidean and H3/Walrus 3D hyperbolic graph, tree and compo… |
-| 2026-11-19 01:43:04 | [Ranvier.D5.Graph3D.Traced](https://www.nuget.org/packages/Ranvier.D5.Graph3D.Traced) | 0.2.0 | Ranvier contributors | High-performance 3D Euclidean and H3/Walrus 3D hyperbolic graph, tree and compo… |
-| 2026-11-19 01:43:07 | [Ranvier.D5.Wgpu](https://www.nuget.org/packages/Ranvier.D5.Wgpu) | 0.2.0 | Ranvier contributors | 3D and multi-dimensional visualization scales, axes, encodings, surfaces, volum… |
-| 2026-11-19 01:43:08 | [Ranvier.D5.Wgpu.Sdl](https://www.nuget.org/packages/Ranvier.D5.Wgpu.Sdl) | 0.2.0 | Ranvier contributors | Native SDL3 + WebGPU interactive 3D plot host view for Ranvier.D5.Wgpu over Ran… |
-| 2026-11-19 01:43:09 | [Ranvier.D5.Wgpu.Sdl.Traced](https://www.nuget.org/packages/Ranvier.D5.Wgpu.Sdl.Traced) | 0.2.0 | Ranvier contributors | Native SDL3 + WebGPU interactive 3D plot host view for Ranvier.D5.Wgpu over Ran… |
-| 2026-11-19 01:43:10 | [Ranvier.D5.Wgpu.Traced](https://www.nuget.org/packages/Ranvier.D5.Wgpu.Traced) | 0.2.0 | Ranvier contributors | 3D and multi-dimensional visualization scales, axes, encodings, surfaces, volum… |
-| 2026-11-19 01:47:27 | [NovaWpf.Icon](https://www.nuget.org/packages/NovaWpf.Icon) | 2027.1.0 | DGJ | An easily stylable WPF icon control. |
-| 2026-11-19 01:47:30 | [NovaWpf.Styles](https://www.nuget.org/packages/NovaWpf.Styles) | 2027.1.0 | DGJ | Base styles, colors and icon paths for WPF apps. Includes the Nova look (defaul… |
-| 2026-11-19 01:47:32 | [NovaWpf.ThemeChanger](https://www.nuget.org/packages/NovaWpf.ThemeChanger) | 2027.1.0 | DGJ | Switches a running WPF app between Light and Dark themes and between the Nova a… |
-| 2026-11-19 01:47:34 | [NovaWpf.BorderlessWindow.Core](https://www.nuget.org/packages/NovaWpf.BorderlessWindow.Core) | 2027.1.0 | DGJ | The window chrome behavior that NovaWpf.BorderlessWindow builds on. Needs no XA… |
-| 2026-11-19 01:47:36 | [NovaWpf.UnityBootstrap](https://www.nuget.org/packages/NovaWpf.UnityBootstrap) | 2027.1.0 | DGJ | Registers classes and interfaces that carry the included attribute into a Unity… |
-| 2026-11-19 01:47:39 | [NovaWpf.UniversalSettings](https://www.nuget.org/packages/NovaWpf.UniversalSettings) | 2027.1.0 | DGJ | A settings abstraction that saves and loads user and machine wide settings. |
-| 2026-11-19 01:47:41 | [NovaWpf](https://www.nuget.org/packages/NovaWpf) | 2027.1.0 | DGJ | The Nova WPF framework in a single assembly. Requires .NET Framework 4.8. |
-| 2026-11-19 01:47:44 | [NovaWpf.Services](https://www.nuget.org/packages/NovaWpf.Services) | 2027.1.0 | DGJ | Helpful services for WPF apps: FolderBrowserService, a styled MessageBoxService… |
-| 2026-11-19 01:47:46 | [NovaWpf.Controls](https://www.nuget.org/packages/NovaWpf.Controls) | 2027.1.0 | DGJ | Reusable WPF controls: NovaBanner, NovaBreadcrumbs, NovaSegmentedButton, NovaDi… |
-| 2026-11-19 01:47:48 | [NovaWpf.BorderlessWindow](https://www.nuget.org/packages/NovaWpf.BorderlessWindow) | 2027.1.0 | DGJ | Borderless window styles for WPF: the Nova main window with icon, title, minimi… |
+| 2026-11-19 02:27:34 | [ParcelUtility](https://www.nuget.org/packages/ParcelUtility) | 1.0.0 | Parcel Utility contributors | ArcGIS parcel boundary lookup, download, and import utilities. |
+| 2026-11-19 02:27:45 | [Soenneker.Google.Calendar.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Google.Calendar.OpenApiClientUtil) | 11.0.10 | Jake Soenneker | A thread-safe utility for obtaining Calendar's OpenApiClient singleton. |
+| 2026-11-19 02:27:57 | [Soenneker.Google.Meet.OpenApiClientUtil](https://www.nuget.org/packages/Soenneker.Google.Meet.OpenApiClientUtil) | 11.0.11 | Jake Soenneker | A thread-safe utility for obtaining Meet's OpenApiClient singleton. |
+| 2026-11-19 02:32:04 | [SharpAbp.Abp.Dapper.OceanBase](https://www.nuget.org/packages/SharpAbp.Abp.Dapper.OceanBase) | 6.1.0 | virtual | SharpAbp Dapper OceanBase Module |
+| 2026-11-19 02:32:16 | [SharpAbp.Abp.Data.SqlBuilder.OceanBase](https://www.nuget.org/packages/SharpAbp.Abp.Data.SqlBuilder.OceanBase) | 6.1.0 | virtual | SharpAbp Data SqlBuilder OceanBase Module |
+| 2026-11-19 02:33:01 | [Synvro.Modulus.Identity.Messaging](https://www.nuget.org/packages/Synvro.Modulus.Identity.Messaging) | 3.0.0 | synvro | Email and SMS providers for Modulus identity. |
+| 2026-11-19 02:33:20 | [Synvro.Modulus.Messaging](https://www.nuget.org/packages/Synvro.Modulus.Messaging) | 3.0.0 | synvro | Consumers, publish and send for Modulus.Messaging. |
+| 2026-11-19 02:33:22 | [Synvro.Modulus.Messaging.Inbox.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Inbox.EntityFrameworkCore) | 3.0.0 | synvro | EF Core inbox for Modulus.Messaging. |
+| 2026-11-19 02:33:25 | [Synvro.Modulus.Messaging.Inbox.Npgsql](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Inbox.Npgsql) | 3.0.0 | synvro | Npgsql inbox for Modulus.Messaging. |
+| 2026-11-19 02:33:28 | [Synvro.Modulus.Messaging.Management](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Management) | 3.0.0 | synvro | Operator API for Modulus.Messaging. |
+| 2026-11-19 02:33:31 | [Synvro.Modulus.Messaging.Modulus](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Modulus) | 3.0.0 | synvro | Modulus host adapter for Modulus.Messaging. |
+| 2026-11-19 02:33:34 | [Synvro.Modulus.Messaging.Outbox.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Outbox.EntityFrameworkCore) | 3.0.0 | synvro | EF Core transactional outbox for Modulus.Messaging. |
+| 2026-11-19 02:33:37 | [Synvro.Modulus.Messaging.Outbox.Npgsql](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Outbox.Npgsql) | 3.0.0 | synvro | Npgsql transactional outbox for Modulus.Messaging. |
+| 2026-11-19 02:33:40 | [Synvro.Modulus.Messaging.Sagas](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Sagas) | 3.0.0 | synvro | State machine sagas for Modulus.Messaging. |
+| 2026-11-19 02:33:43 | [Synvro.Modulus.Messaging.Sagas.EntityFrameworkCore](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Sagas.EntityFrameworkCore) | 3.0.0 | synvro | EF Core saga repository for Modulus.Messaging. |
+| 2026-11-19 02:33:45 | [Synvro.Modulus.Messaging.Sagas.PostgreSql](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Sagas.PostgreSql) | 3.0.0 | synvro | PostgreSQL saga repository for Modulus.Messaging. |
+| 2026-11-19 02:33:48 | [Synvro.Modulus.Messaging.Testing](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Testing) | 3.0.0 | synvro | Test harness for Modulus.Messaging. |
+| 2026-11-19 02:33:51 | [Synvro.Modulus.Messaging.Transports.InMemory](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Transports.InMemory) | 3.0.0 | synvro | In-memory transport for Modulus.Messaging (tests and single process). |
+| 2026-11-19 02:33:54 | [Synvro.Modulus.Messaging.Transports.PostgreSql](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Transports.PostgreSql) | 3.0.0 | synvro | PostgreSQL transport for Modulus.Messaging. |
+| 2026-11-19 02:33:57 | [Synvro.Modulus.Messaging.Transports.RabbitMQ](https://www.nuget.org/packages/Synvro.Modulus.Messaging.Transports.RabbitMQ) | 3.0.0 | synvro | RabbitMQ transport for Modulus.Messaging. |
+| 2026-11-19 02:34:29 | [Synvro.Modulus.Search](https://www.nuget.org/packages/Synvro.Modulus.Search) | 3.0.0 | synvro | Full-text search for Modulus (OpenSearch and Solr). |
+| 2026-11-19 02:34:32 | [Synvro.Modulus.Secrets.AzureKeyVault](https://www.nuget.org/packages/Synvro.Modulus.Secrets.AzureKeyVault) | 3.0.0 | synvro | Azure Key Vault secret provider for Modulus. |
+| 2026-11-19 02:34:42 | [Synvro.Modulus.Storage.GoogleCloud](https://www.nuget.org/packages/Synvro.Modulus.Storage.GoogleCloud) | 3.0.0 | synvro | Google Cloud Storage provider for Modulus. |
+| 2026-11-19 02:36:46 | [Hosihikari.Plugin.Model](https://www.nuget.org/packages/Hosihikari.Plugin.Model) | 2.0.0 | HosihikariFramework | Plugin manifest model shared by the Hosihikari plugin manager and packer. |
+| 2026-11-19 02:56:21 | [Lyric.Conformance](https://www.nuget.org/packages/Lyric.Conformance) | 0.7.15 | Lyric Contributors | Conformance suites for the Lyric library interfaces (cache, flags, session, mes… |
+| 2026-11-19 02:56:59 | [Dgz.Settings.Avalonia](https://www.nuget.org/packages/Dgz.Settings.Avalonia) | 1.1.0 | Dgz | 面向 Avalonia 应用的跨平台强类型设置库，支持 .NET 8 和 .NET 10，提供增删改查、属性变更自动保存、多平台配置路径以及可选 AES-GC… |
 
 ## Data source
 
