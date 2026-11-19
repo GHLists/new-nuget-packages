@@ -12,24 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 12:19 UTC
+## Latest list — 2026-11-19 13:22 UTC
 
-New packages created between 2026-11-19 11:22 UTC and 2026-11-19 12:19 UTC.
+New packages created between 2026-11-19 12:19 UTC and 2026-11-19 13:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T12-19-47-862153Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T13-22-00-568534Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-19 11:25:06 | [Webority.Security.AzureMonitor](https://www.nuget.org/packages/Webority.Security.AzureMonitor) | 0.72.0 | Webority Technologies | Azure Monitor history store for Webority.Security audit events: one row per eve… |
-| 2026-11-19 11:25:52 | [Webority.Retention.Abstractions](https://www.nuget.org/packages/Webority.Retention.Abstractions) | 0.5.0 | Webority Technologies | The contract a package implements to join a product's Webority.Retention run: I… |
-| 2026-11-19 11:26:31 | [Moltaro.Signals.Hosting](https://www.nuget.org/packages/Moltaro.Signals.Hosting) | 0.1.0 | Bijou Solutions | Registers the Moltaro.Signals host, or a client of a host elsewhere, in a .NET… |
-| 2026-11-19 11:26:32 | [Moltaro.Signals](https://www.nuget.org/packages/Moltaro.Signals) | 0.1.0 | Bijou Solutions | Remote signals with consumer groups for .NET: an in-memory host embedded in one… |
-| 2026-11-19 11:51:01 | [Univedo.Data.Net48](https://www.nuget.org/packages/Univedo.Data.Net48) | 2.8.2.5 | Stefan Becker | Univedo.Data Class Library for .NET Framework 4.8 (streams, remote objects and… |
-| 2026-11-19 12:03:13 | [PrintSharp.Html](https://www.nuget.org/packages/PrintSharp.Html) | 0.5.0 | ogisyouryuu | Standalone HTML export extensions for PrintSharp grid documents. |
-| 2026-11-19 12:03:15 | [PrintSharp.Image](https://www.nuget.org/packages/PrintSharp.Image) | 0.5.0 | ogisyouryuu | PNG and lossless WebP page export for PrintSharp. |
-| 2026-11-19 12:03:22 | [PrintSharp.Word](https://www.nuget.org/packages/PrintSharp.Word) | 0.5.0 | ogisyouryuu | Editable Word document export for PrintSharp. |
-| 2026-11-19 12:06:14 | [PidginHost.Sdk](https://www.nuget.org/packages/PidginHost.Sdk) | 0.18.0 | PidginHost | Official .NET client for the PidginHost API |
-| 2026-11-19 12:06:58 | [LSurac.Earwig.Client](https://www.nuget.org/packages/LSurac.Earwig.Client) | 0.1.0 | Leonard Surac | Client for the Earwig transcription service, plus ready-made proxy endpoints fo… |
+| 2026-11-19 12:24:02 | [CoreIdml.Cli](https://www.nuget.org/packages/CoreIdml.Cli) | 0.0.8 | Eduard Paul | coreidml: command line and MCP server for Adobe InDesign IDML files. Summaries… |
+| 2026-11-19 12:24:02 | [CoreIdml](https://www.nuget.org/packages/CoreIdml) | 1.0.0 | Eduard Paul | Read, edit and write Adobe InDesign IDML files without InDesign. Untouched part… |
+| 2026-11-19 12:24:03 | [CoreIdml.Pdf](https://www.nuget.org/packages/CoreIdml.Pdf) | 1.0.0 | Eduard Paul | Export Adobe InDesign IDML documents to PDF and rebuild editable IDML from PDF,… |
+| 2026-11-19 12:30:07 | [ZplHelper](https://www.nuget.org/packages/ZplHelper) | 0.1.0 | RMP Software and BinaryKits c… | Render Zebra ZPL labels locally to PNG with SkiaSharp. |
+| 2026-11-19 13:00:04 | [AwsEmulator.Testcontainers](https://www.nuget.org/packages/AwsEmulator.Testcontainers) | 0.1.0 | efimov-agent | Testcontainers module for the official AWS Emulator (aws/aws-emulator): builds… |
+| 2026-11-19 13:01:00 | [GroupDocs.Watermark.Net48](https://www.nuget.org/packages/GroupDocs.Watermark.Net48) | 26.11.0 | Aspose | GroupDocs.Watermark for .NET is a powerful document watermarking API to add ima… |
+| 2026-11-19 13:03:13 | [LinqPDF](https://www.nuget.org/packages/LinqPDF) | 1.3.0 | LinqPDF | Create PDFs in .NET 8, 9 and 10 on Windows and Linux with zero third-party pack… |
+| 2026-11-19 13:07:43 | [Ab4d.SharpEngine.IfcLite](https://www.nuget.org/packages/Ab4d.SharpEngine.IfcLite) | 5.0.1075 | AB4D | Ab4d.SharpEngine.IfcLite library can import BIM 3D objects from ifc files and u… |
 
 ## Data source
 
