@@ -12,29 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 22:20 UTC
+## Latest list — 2026-11-19 23:20 UTC
 
-New packages created between 2026-11-19 21:21 UTC and 2026-11-19 22:20 UTC.
+New packages created between 2026-11-19 22:20 UTC and 2026-11-19 23:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T22-20-22-370718Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T23-20-12-36407Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-19 21:21:45 | [Nazor.Themes.Fluent](https://www.nuget.org/packages/Nazor.Themes.Fluent) | 0.1.0-alpha | Nazor | Optional Fluent theme for Nazor with private Fluent System Icons fonts and a ty… |
-| 2026-11-19 21:25:02 | [Nazor.DevTools.Agent](https://www.nuget.org/packages/Nazor.DevTools.Agent) | 0.1.0-alpha | Nazor | Optional Nazor window diagnostics attachment, input inspection, overlays and fr… |
-| 2026-11-19 21:25:21 | [Nazor.Graphics](https://www.nuget.org/packages/Nazor.Graphics) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:25:23 | [Nazor.Hosting.Desktop.Windows](https://www.nuget.org/packages/Nazor.Hosting.Desktop.Windows) | 0.1.0-alpha | Nazor | Nazor desktop hosting with windows backends. |
-| 2026-11-19 21:30:58 | [Nazor.Sdk](https://www.nuget.org/packages/Nazor.Sdk) | 0.1.0-alpha | Nazor | MSBuild project SDK for Nazor applications and component libraries: compiles .n… |
-| 2026-11-19 21:34:45 | [Nazor.Layout](https://www.nuget.org/packages/Nazor.Layout) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:34:51 | [Nazor.Platform.Windows](https://www.nuget.org/packages/Nazor.Platform.Windows) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:35:05 | [Nazor.Style](https://www.nuget.org/packages/Nazor.Style) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:35:16 | [Nazor.Themes.NazorLeaf](https://www.nuget.org/packages/Nazor.Themes.NazorLeaf) | 0.1.0-alpha | Nazor | NazorLeaf, the Nazor visual language: leaf corners, the seed selection mark, ac… |
-| 2026-11-19 21:35:28 | [Nazor.DevTools.Protocol](https://www.nuget.org/packages/Nazor.DevTools.Protocol) | 0.1.0-alpha | Nazor | Versioned, platform-independent Nazor DevTools wire contracts and bounded JSON-… |
-| 2026-11-19 21:35:30 | [Nazor.Hosting.Desktop](https://www.nuget.org/packages/Nazor.Hosting.Desktop) | 0.1.0-alpha | Nazor | Nazor desktop hosting with portable backends. |
-| 2026-11-19 21:35:32 | [Nazor.Hosting.Windows](https://www.nuget.org/packages/Nazor.Hosting.Windows) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:35:36 | [Nazor.Platform](https://www.nuget.org/packages/Nazor.Platform) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:35:39 | [Nazor.Presentation](https://www.nuget.org/packages/Nazor.Presentation) | 0.1.0-alpha | Nazor | Nazor: native desktop UI for .NET written with Razor components and NSS styles.… |
-| 2026-11-19 21:57:03 | [BbQ.MockLite.AutoFixture](https://www.nuget.org/packages/BbQ.MockLite.AutoFixture) | 2.0.1 | Jean Marc Mbouma | Freeze MockLite test doubles for injection by AutoFixture. |
+| 2026-11-19 22:25:28 | [SemanticVersions](https://www.nuget.org/packages/SemanticVersions) | 1.0.0 | vlt technology inc. | Parse, compare and match versions per the Semantic Versions specification (semv… |
+| 2026-11-19 22:33:45 | [DirectoryIndexToHtml](https://www.nuget.org/packages/DirectoryIndexToHtml) | 11.2026.1119 | Andrei Ignat | Generate transactional directory index HTML pages. |
+| 2026-11-19 22:34:21 | [Dloizides.Testing.AspNetCore](https://www.nuget.org/packages/Dloizides.Testing.AspNetCore) | 0.8.0 | DLoizides | A probe pack for ASP.NET Core test hosts (MGMT-PORT-1): /metrics and /health/*… |
+| 2026-11-19 22:40:04 | [Graphs.NET](https://www.nuget.org/packages/Graphs.NET) | 0.1.0-alpha | RoGgY | A high-performance, zero-allocation, Native AOT-ready graph library for .NET 10… |
+| 2026-11-19 22:40:47 | [Mindfire.RazorEmail](https://www.nuget.org/packages/Mindfire.RazorEmail) | 1.0.1 | Nate Zaugg | Culture-aware Razor email templates from the filesystem with a fluent MailKit s… |
+| 2026-11-19 22:41:42 | [Mindfire.RazorEmail.Identity](https://www.nuget.org/packages/Mindfire.RazorEmail.Identity) | 1.0.1 | Nate Zaugg | ASP.NET Core Identity email sender that renders Mindfire.RazorEmail templates,… |
+| 2026-11-19 22:52:34 | [akilin.ApiKit](https://www.nuget.org/packages/akilin.ApiKit) | 0.1.0 | akilin | Exception-based error model (codes, payloads, field errors, guards) for RFC 945… |
+| 2026-11-19 22:52:36 | [akilin.ApiKit.TsTypeGenerator](https://www.nuget.org/packages/akilin.ApiKit.TsTypeGenerator) | 0.1.0 | akilin | dotnet tool generating TypeScript types (error codes, payloads, enums) from an… |
+| 2026-11-19 22:52:36 | [akilin.ApiKit.AspNetCore](https://www.nuget.org/packages/akilin.ApiKit.AspNetCore) | 0.1.0 | akilin | ASP.NET Core integration for akilin.ApiKit: every non-2xx response becomes RFC… |
+| 2026-11-19 22:52:37 | [akilin.ApiKit.Testing](https://www.nuget.org/packages/akilin.ApiKit.Testing) | 0.1.0 | akilin | AwesomeAssertions extensions for testing akilin.ApiKit APIs: assert kit excepti… |
 
 ## Data source
 
