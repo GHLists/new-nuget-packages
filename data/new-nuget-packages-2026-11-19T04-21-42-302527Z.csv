@@ -1,0 +1,31 @@
+created_at,package,version,authors,description
+2026-11-19T03:26:16.253Z,CSoft.Protocol.ZtclTemperaturePressureFlow,11.0.1,CSoft.Protocol.ZtclTemperaturePressureFlow,温压流仪表协议 Modbus RTU 协议类库
+2026-11-19T03:26:44.85Z,CSoft.Protocol.ZirconiaHygrometer,11.0.1,CSoft.Protocol.ZirconiaHygrometer,氧化锆湿度仪 Modbus RTU 协议类库
+2026-11-19T03:27:03.243Z,CSoft.Protocol.CapacitiveHygrometer,11.0.1,CSoft.Protocol.CapacitiveHygrometer,阻容法湿度仪 Modbus RTU 协议类库
+2026-11-19T03:27:17.867Z,CSoft.Protocol.Dms100,11.0.1,CSoft.Protocol.Dms100,DMS-100 粉尘浓度测量仪 Modbus RTU 协议类库
+2026-11-19T03:27:31.04Z,CSoft.Protocol.Dms300,11.0.1,CSoft.Protocol.Dms300,DMS-300 粉尘浓度测量仪协议 Modbus RTU 协议类库
+2026-11-19T03:34:17.313Z,BlazorAnime,1.0.0-alpha,olaboutcode,Typed Blazor bindings for anime.js v4.
+2026-11-19T03:34:19.13Z,BlazorAnime.Animatable,1.0.0-alpha,olaboutcode,Animatable bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:20.74Z,BlazorAnime.Draggable,1.0.0-alpha,olaboutcode,Draggable bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:22.303Z,BlazorAnime.Events,1.0.0-alpha,olaboutcode,Events bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:23.873Z,BlazorAnime.Layout,1.0.0-alpha,olaboutcode,Layout bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:25.253Z,BlazorAnime.Scope,1.0.0-alpha,olaboutcode,Scope bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:26.737Z,BlazorAnime.Text,1.0.0-alpha,olaboutcode,Text split and scramble bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:28.093Z,BlazorAnime.Waapi,1.0.0-alpha,olaboutcode,Web Animation API bindings for BlazorAnime. Shares the BlazorAnime anime.js engine.
+2026-11-19T03:34:42.54Z,Moolah.Poynt,0.1.0,Moolah,"Official .NET client for the Moolah Poynt API: saved-card and ACH charges, terminal payments, refunds, transactions and webhook verification."
+2026-11-19T03:37:48.093Z,iml6yu.IdentityServer4.Storage,5.0.0,"Brock Allen,Dominick Baier",Storage interfaces and models for IdentityServer4
+2026-11-19T03:37:59.81Z,iml6yu.IdentityServer4.AspNetIdentity,5.0.0,"Brock Allen,Dominick Baier",ASP.NET Core Identity Integration for IdentityServer4
+2026-11-19T03:43:03.56Z,XiangDoApiScaffold.Business,3.0.1,XDApiScaffold.Business,Package Description
+2026-11-19T03:43:04.603Z,XiangDoApiScaffold.DTO,3.0.1,XDApiScaffold.DTO,Package Description
+2026-11-19T03:43:05.42Z,XiangDoApiScaffold.Entity,3.0.1,XDApiScaffold.Entity,Package Description
+2026-11-19T03:43:06.427Z,XiangDoApiScaffold.MysqlDB,3.0.1,XDApiScaffold.MysqlDB,Package Description
+2026-11-19T03:43:07.263Z,XiangDoApiScaffold.SupplierSearch,3.0.1,XDApiScaffold.SupplierSearch,Package Description
+2026-11-19T03:43:08.757Z,XiangDoApiScaffold.Utility,3.0.1,XDApiScaffold.Utility,Package Description
+2026-11-19T03:43:09.947Z,XiangDoApiScaffold.WSAgent,3.0.1,XDApiScaffold.WSAgent,Package Description
+2026-11-19T03:48:47.18Z,codegiveness.postgresql-sharp-mcp.win-x64,0.7.2,codegiveness,Database-agnostic PostgreSQL MCP server with live discovery and bounded per-call database selection using Npgsql.
+2026-11-19T03:48:50.65Z,codegiveness.postgresql-sharp-mcp.linux-x64,0.7.2,codegiveness,Database-agnostic PostgreSQL MCP server with live discovery and bounded per-call database selection using Npgsql.
+2026-11-19T03:48:54.433Z,codegiveness.postgresql-sharp-mcp.linux-arm64,0.7.2,codegiveness,Database-agnostic PostgreSQL MCP server with live discovery and bounded per-call database selection using Npgsql.
+2026-11-19T03:48:59.523Z,codegiveness.postgresql-sharp-mcp.osx-x64,0.7.2,codegiveness,Database-agnostic PostgreSQL MCP server with live discovery and bounded per-call database selection using Npgsql.
+2026-11-19T03:49:03.127Z,codegiveness.postgresql-sharp-mcp.osx-arm64,0.7.2,codegiveness,Database-agnostic PostgreSQL MCP server with live discovery and bounded per-call database selection using Npgsql.
+2026-11-19T04:07:09.11Z,b4n1-secrets,0.1.0,Bani Montoya,Sovereign offline vault — committable encrypted secrets
+2026-11-19T04:09:14.157Z,MarkovLab,1.0.0,Lago Rodrigo Iván,Modelos ocultos de Markov para secuencias de ADN y algoritmo de Viterbi.
