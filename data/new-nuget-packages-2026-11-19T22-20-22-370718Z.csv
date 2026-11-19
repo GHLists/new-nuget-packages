@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-19T21:21:45.89Z,Nazor.Themes.Fluent,0.1.0-alpha,Nazor,Optional Fluent theme for Nazor with private Fluent System Icons fonts and a typed symbol catalog.
+2026-11-19T21:25:02.747Z,Nazor.DevTools.Agent,0.1.0-alpha,Nazor,"Optional Nazor window diagnostics attachment, input inspection, overlays and frame history."
+2026-11-19T21:25:21.19Z,Nazor.Graphics,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Graphics.
+2026-11-19T21:25:23.007Z,Nazor.Hosting.Desktop.Windows,0.1.0-alpha,Nazor,Nazor desktop hosting with windows backends.
+2026-11-19T21:30:58.95Z,Nazor.Sdk,0.1.0-alpha,Nazor,"MSBuild project SDK for Nazor applications and component libraries: compiles .nazor components and .nss styles, adds global usings and runtime packages, and bootstraps runtime desktop backend selection."
+2026-11-19T21:34:45.313Z,Nazor.Layout,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Layout.
+2026-11-19T21:34:51.867Z,Nazor.Platform.Windows,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Platform.Windows.
+2026-11-19T21:35:05.543Z,Nazor.Style,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Style.
+2026-11-19T21:35:16.937Z,Nazor.Themes.NazorLeaf,0.1.0-alpha,Nazor,"NazorLeaf, the Nazor visual language: leaf corners, the seed selection mark, accent glow, paper grain and the four-leaf mark, with private text/icon fonts, typed LeafSymbol icons and the LeafTitlebar."
+2026-11-19T21:35:28.18Z,Nazor.DevTools.Protocol,0.1.0-alpha,Nazor,"Versioned, platform-independent Nazor DevTools wire contracts and bounded JSON-RPC messaging."
+2026-11-19T21:35:30.723Z,Nazor.Hosting.Desktop,0.1.0-alpha,Nazor,Nazor desktop hosting with portable backends.
+2026-11-19T21:35:32.11Z,Nazor.Hosting.Windows,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Hosting.Windows.
+2026-11-19T21:35:36.173Z,Nazor.Platform,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Platform.
+2026-11-19T21:35:39.6Z,Nazor.Presentation,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Presentation.
+2026-11-19T21:57:03.247Z,BbQ.MockLite.AutoFixture,2.0.1,Jean Marc Mbouma,Freeze MockLite test doubles for injection by AutoFixture.
