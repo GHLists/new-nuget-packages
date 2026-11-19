@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-19T15:22:51.6Z,DoorstepCO.Core,0.1.0,Samuel Marino,"Parses, normalizes and validates free-text Colombian addresses."
+2026-11-19T15:28:20.253Z,ForEach.Infrastructure.External.Vies,0.1.0,For-Each Smederevo,Client for the VIES REST API of the European Commission: checks whether an EU VAT number is registered in a member state.
+2026-11-19T15:36:33.94Z,YotsubaShader.Extensions,0.9.0,YotsubaShader contributors,YotsubaShader YotsubaShader.Extensions library.
+2026-11-19T15:36:35.043Z,YotsubaShader.Extensions.FNA,0.9.0,YotsubaShader contributors,YotsubaShader plugin: FNA (.fxb) backend for the yotsuba CLI.
+2026-11-19T15:36:36.137Z,YotsubaShader.Extensions.Godot,0.9.0,YotsubaShader contributors,YotsubaShader plugin: Godot Shading Language (.gdshader) backend for the yotsuba CLI.
+2026-11-19T15:36:37.24Z,YotsubaShader.Extensions.KNI,0.9.0,YotsubaShader contributors,YotsubaShader plugin: KNI WebGL (.knifx) backend for the yotsuba CLI.
+2026-11-19T15:36:38.417Z,YotsubaShader.Extensions.MonoGame,0.9.0,YotsubaShader contributors,YotsubaShader plugin: MonoGame (MGFX) backend for the yotsuba CLI.
+2026-11-19T15:38:58.983Z,RapidRepo.EntityFrameworkCore,9.0.0,Tibor Horváth,Package Description
+2026-11-19T15:59:10.667Z,Ina,0.1.0,Mayuki Sawatari,Ina (IL to NAtive) compiles .NET applications to native executables without a native toolchain.
+2026-11-19T15:59:11.653Z,Ina.Sdk,0.1.0,Mayuki Sawatari,"Publishes .NET applications as native executables with Ina: with the PublishIna property, dotnet publish compiles like NativeAOT but needs no native toolchain, also when cross compiling. Usable as an MSBuild project SDK and as a package reference."
+2026-11-19T16:02:11.027Z,Ebitex.Commerce.Delivery,0.1.18,ebitex software LLC,"Server-side client for the ebitex Commerce Delivery API: read a store's catalogue (products, prices, availability, categories) and live stock with a delivery key."
+2026-11-19T16:02:48.387Z,Flowrensic.Temporal.Dotnet.Sdk,0.6.83,Flowrensic,"Flowrensic runs beside your durable workflow engine and finds problems in your workflows. This is the .NET SDK of Temporal Flowrensic, the edition for Temporal."
+2026-11-19T16:03:12.88Z,VolEngine,1.1.0,Gabriel Matte,"GARCH-family and DCC volatility models (rugarch and rmgarch conventions) on a native C++23 engine: fits, grids over many series, standard errors, diagnostics, forecasts and simulation."
+2026-11-19T16:04:08.973Z,ForEach.Infrastructure.External.Octopus,0.1.0,For-Each Smederevo,"Typed clients for the four Octopus (Inaras) accounting web services - Rest, Management, file sync and file import - with the token flow, authentication handler and error parsing. Refit clients generated from the published OpenAPI documents."

@@ -12,41 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 15:22 UTC
+## Latest list — 2026-11-19 16:20 UTC
 
-New packages created between 2026-11-19 14:19 UTC and 2026-11-19 15:22 UTC.
+New packages created between 2026-11-19 15:22 UTC and 2026-11-19 16:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-19T15-22-18-80561Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-19T16-20-31-997968Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-19 14:20:41 | [Canducci.EntityFrameworkCore.Relationships](https://www.nuget.org/packages/Canducci.EntityFrameworkCore.Relationships) | 1.0.1 | Canducci | Generic many-to-many relationship synchronization for Entity Framework Core. |
-| 2026-11-19 14:20:53 | [SlickLadder.Rendering](https://www.nuget.org/packages/SlickLadder.Rendering) | 0.5.0 | Slick Quant LLC. | SkiaSharp renderer for the SlickLadder price ladder, shared by the WPF and Aval… |
-| 2026-11-19 14:20:54 | [SlickLadder.WPF](https://www.nuget.org/packages/SlickLadder.WPF) | 0.5.0 | Slick Quant LLC. | WPF price ladder (depth of market) control for Windows, drawn with SkiaSharp. |
-| 2026-11-19 14:20:55 | [SlickLadder.Avalonia](https://www.nuget.org/packages/SlickLadder.Avalonia) | 0.5.0 | Slick Quant LLC. | Avalonia price ladder (depth of market) control for Windows, Linux and macOS, d… |
-| 2026-11-19 14:20:55 | [SlickLadder.Core](https://www.nuget.org/packages/SlickLadder.Core) | 0.5.0 | Slick Quant LLC. | SlickLadder price ladder core: price level and market-by-order (MBO) books, upd… |
-| 2026-11-19 14:24:03 | [YjsSharp](https://www.nuget.org/packages/YjsSharp) | 26.11.8259 | Curiosity GmbH | A pure C# port of Yjs / y-crdt (yrs): CRDT shared types (Text, Array, Map, Xml)… |
-| 2026-11-19 14:25:45 | [ArchFlow.Validation](https://www.nuget.org/packages/ArchFlow.Validation) | 1.0.0 | Welligton André da Silva | Convention-based DTO validation with configurable attribute overrides and ArchF… |
-| 2026-11-19 14:37:32 | [NwUi.Testing](https://www.nuget.org/packages/NwUi.Testing) | 0.15.1 | NetWasm.UI contributors | Preview: renders NetWasm.UI components into an in-memory DOM for fast unit test… |
-| 2026-11-19 14:37:33 | [NwUi.Workers](https://www.nuget.org/packages/NwUi.Workers) | 0.15.1 | NetWasm.UI contributors | Typed C# Web Workers for NetWasm.UI: share an interface, implement it in a work… |
-| 2026-11-19 14:48:26 | [Integrious.Umbraco.Forms.SignatureField](https://www.nuget.org/packages/Integrious.Umbraco.Forms.SignatureField) | 2.0.0 | Integrious | Adds a Signature field type to Umbraco Forms, letting someone sign a form with… |
-| 2026-11-19 14:51:23 | [Hsm.Clients.Rest](https://www.nuget.org/packages/Hsm.Clients.Rest) | 6.0.0 | Hsm.Clients.Rest | Package Description |
-| 2026-11-19 14:53:59 | [Shaderlyn.Slang](https://www.nuget.org/packages/Shaderlyn.Slang) | 0.3.4 | OmojiP | Shaderlyn の Slang の構文解析 (HLSL に足す Slang に固有の構文)。 |
-| 2026-11-19 14:54:01 | [Shaderlyn.Wgsl](https://www.nuget.org/packages/Shaderlyn.Wgsl) | 0.3.4 | OmojiP | Shaderlyn の WGSL の構文解析 (WGSL の構文を、C 系の言語と共通の構文木に読む)。 |
-| 2026-11-19 14:54:05 | [Shaderlyn.Godot](https://www.nuget.org/packages/Shaderlyn.Godot) | 0.3.4 | OmojiP | Shaderlyn の Godot シェーダー言語の構文解析 (Godot に固有の構文)。 |
-| 2026-11-19 15:01:40 | [Haskimail.NET](https://www.nuget.org/packages/Haskimail.NET) | 1.0.0 | Haskimail.NET contributors | .NET SDK для REST API Haskimail: отправка писем и пакетов, шаблоны, сообщения,… |
-| 2026-11-19 15:02:29 | [Haskimail.NET.Extensions.DependencyInjection](https://www.nuget.org/packages/Haskimail.NET.Extensions.DependencyInjection) | 1.0.0 | Haskimail.NET contributors | Регистрация клиента Haskimail в Microsoft.Extensions.DependencyInjection через… |
-| 2026-11-19 15:06:47 | [Sundex.Components](https://www.nuget.org/packages/Sundex.Components) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:06:48 | [Sundex.Core](https://www.nuget.org/packages/Sundex.Core) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:06:52 | [Sundex.Markup](https://www.nuget.org/packages/Sundex.Markup) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:06:53 | [Sundex.Markup.Generator](https://www.nuget.org/packages/Sundex.Markup.Generator) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:06:55 | [Sundex.Markup.Legacy](https://www.nuget.org/packages/Sundex.Markup.Legacy) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:06:57 | [Sundex.Reactive](https://www.nuget.org/packages/Sundex.Reactive) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:06:58 | [Sundex.Slug](https://www.nuget.org/packages/Sundex.Slug) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:07:00 | [Sundex.Style.DSL](https://www.nuget.org/packages/Sundex.Style.DSL) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:07:02 | [Sundex.Testing](https://www.nuget.org/packages/Sundex.Testing) | 0.0.1-n202611191505… | Sundex contributors | Sundex graphics, UI and game development libraries for .NET. |
-| 2026-11-19 15:09:26 | [OneTimeOperations](https://www.nuget.org/packages/OneTimeOperations) | 0.1.0 | Arthur Tavares | Run data operations exactly once, like migrations: dated classes, a history tab… |
-| 2026-11-19 15:09:32 | [Nedo.Agentic.Machine.Contracts](https://www.nuget.org/packages/Nedo.Agentic.Machine.Contracts) | 0.2.0 | PT. Sinergi Dimensi Informati… | Contract between the Nedo Agentic platform and its execution plane: the agent r… |
+| 2026-11-19 15:22:51 | [DoorstepCO.Core](https://www.nuget.org/packages/DoorstepCO.Core) | 0.1.0 | Samuel Marino | Parses, normalizes and validates free-text Colombian addresses. |
+| 2026-11-19 15:28:20 | [ForEach.Infrastructure.External.Vies](https://www.nuget.org/packages/ForEach.Infrastructure.External.Vies) | 0.1.0 | For-Each Smederevo | Client for the VIES REST API of the European Commission: checks whether an EU V… |
+| 2026-11-19 15:36:33 | [YotsubaShader.Extensions](https://www.nuget.org/packages/YotsubaShader.Extensions) | 0.9.0 | YotsubaShader contributors | YotsubaShader YotsubaShader.Extensions library. |
+| 2026-11-19 15:36:35 | [YotsubaShader.Extensions.FNA](https://www.nuget.org/packages/YotsubaShader.Extensions.FNA) | 0.9.0 | YotsubaShader contributors | YotsubaShader plugin: FNA (.fxb) backend for the yotsuba CLI. |
+| 2026-11-19 15:36:36 | [YotsubaShader.Extensions.Godot](https://www.nuget.org/packages/YotsubaShader.Extensions.Godot) | 0.9.0 | YotsubaShader contributors | YotsubaShader plugin: Godot Shading Language (.gdshader) backend for the yotsub… |
+| 2026-11-19 15:36:37 | [YotsubaShader.Extensions.KNI](https://www.nuget.org/packages/YotsubaShader.Extensions.KNI) | 0.9.0 | YotsubaShader contributors | YotsubaShader plugin: KNI WebGL (.knifx) backend for the yotsuba CLI. |
+| 2026-11-19 15:36:38 | [YotsubaShader.Extensions.MonoGame](https://www.nuget.org/packages/YotsubaShader.Extensions.MonoGame) | 0.9.0 | YotsubaShader contributors | YotsubaShader plugin: MonoGame (MGFX) backend for the yotsuba CLI. |
+| 2026-11-19 15:38:58 | [RapidRepo.EntityFrameworkCore](https://www.nuget.org/packages/RapidRepo.EntityFrameworkCore) | 9.0.0 | Tibor Horváth | Package Description |
+| 2026-11-19 15:59:10 | [Ina](https://www.nuget.org/packages/Ina) | 0.1.0 | Mayuki Sawatari | Ina (IL to NAtive) compiles .NET applications to native executables without a n… |
+| 2026-11-19 15:59:11 | [Ina.Sdk](https://www.nuget.org/packages/Ina.Sdk) | 0.1.0 | Mayuki Sawatari | Publishes .NET applications as native executables with Ina: with the PublishIna… |
+| 2026-11-19 16:02:11 | [Ebitex.Commerce.Delivery](https://www.nuget.org/packages/Ebitex.Commerce.Delivery) | 0.1.18 | ebitex software LLC | Server-side client for the ebitex Commerce Delivery API: read a store's catalog… |
+| 2026-11-19 16:02:48 | [Flowrensic.Temporal.Dotnet.Sdk](https://www.nuget.org/packages/Flowrensic.Temporal.Dotnet.Sdk) | 0.6.83 | Flowrensic | Flowrensic runs beside your durable workflow engine and finds problems in your… |
+| 2026-11-19 16:03:12 | [VolEngine](https://www.nuget.org/packages/VolEngine) | 1.1.0 | Gabriel Matte | GARCH-family and DCC volatility models (rugarch and rmgarch conventions) on a n… |
+| 2026-11-19 16:04:08 | [ForEach.Infrastructure.External.Octopus](https://www.nuget.org/packages/ForEach.Infrastructure.External.Octopus) | 0.1.0 | For-Each Smederevo | Typed clients for the four Octopus (Inaras) accounting web services - Rest, Man… |
 
 ## Data source
 
