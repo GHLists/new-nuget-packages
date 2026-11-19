@@ -1,0 +1,21 @@
+created_at,package,version,authors,description
+2026-11-19T20:27:25.17Z,TencentCloudSDKIntlEN.Makers,3.0.1429,Tencent Cloud API Team,Tencent Cloud API 3.0 SDK for .NET
+2026-11-19T20:33:54.78Z,WillStrohl.API.oEmbed,0.5.5,"Upendo Ventures, LLC","A .NET Framework wrapper for the oEmbed open format, with provider routing, unauthenticated discovery, security policy enforcement, and safe embed rendering."
+2026-11-19T20:42:29.9Z,MarkMpn.Sql4Cds.LanguageServer,10.6.0,Mark Carrington,"SQL 4 CDS language server, used by the SQL 4 CDS Power Platform ToolBox tool"
+2026-11-19T20:43:32.127Z,Serval,0.1.0,Caprine Logic,An async controller web framework built on Microsoft.Extensions.Hosting.
+2026-11-19T20:43:33.017Z,Serval.Authentication,0.1.0,Caprine Logic,"Composable authentication, sessions, password hashing, and authorization for Serval."
+2026-11-19T20:43:33.83Z,Serval.OAuth,0.1.0,Caprine Logic,OAuth 2.0 clients and OpenID Connect provider sign-in for Serval.
+2026-11-19T20:43:34.54Z,Serval.SignedUrls,0.1.0,Caprine Logic,"Signed route URLs with readable payloads, validation, and optional expiration for Serval."
+2026-11-19T20:43:35.293Z,Serval.Jobs,0.1.0,Caprine Logic,"Scoped, recurring background jobs with periodic and cron schedules for Serval."
+2026-11-19T20:43:36.083Z,Serval.SocketIO,0.1.0,Caprine Logic,"Socket.IO 4.x events, namespaces, rooms, and acknowledgements over HTTP polling and WebSockets for Serval."
+2026-11-19T20:43:36.827Z,Serval.Savanna,0.1.0,Caprine Logic,"Compiled, strongly typed HTML views for Serval."
+2026-11-19T20:43:37.66Z,Serval.Vite,0.1.0,Caprine Logic,Generated Vite asset lookups with production manifests and development HMR support.
+2026-11-19T20:43:38.803Z,Serval.Transport.HttpListener,0.1.0,Caprine Logic,HTTP listener and WebSocket transport for Serval using System.Net.HttpListener.
+2026-11-19T20:43:40.143Z,Serval.Transport.Kestrel,0.1.0,Caprine Logic,"Kestrel HTTP/1.1, HTTP/2, HTTP/3, and WebSocket transport for Serval."
+2026-11-19T20:45:37.057Z,sfx,0.0.1,Mirco De Zorzi,"A k9s-style terminal UI for Azure Service Fabric clusters: browse nodes, applications, services, partitions and replicas, inspect health and manifests, and run cluster operations."
+2026-11-19T20:54:14.377Z,EcoSQL.Connect,1.0.0,Sleddie,Package Description
+2026-11-19T20:56:14.63Z,SyntaxCircus.AspNetCore.IndexNow,0.1.0,Syntax Circus LLC,"Ownership verification, sitemap previews, and explicit IndexNow URL submission for ASP.NET Core."
+2026-11-19T21:08:26.663Z,uSupport.Automate,17.0.0,Lantzify,Umbraco Automate triggers and actions for uSupport.
+2026-11-19T21:09:50.297Z,Nazor.Accessibility,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Accessibility.
+2026-11-19T21:10:32.65Z,Nazor.Animation,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Animation.
+2026-11-19T21:11:17.017Z,Nazor.Application,0.1.0-alpha,Nazor,Nazor: native desktop UI for .NET written with Razor components and NSS styles. Assembly Nazor.Application.
