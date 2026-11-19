@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-19T11:25:06.677Z,Webority.Security.AzureMonitor,0.72.0,Webority Technologies,"Azure Monitor history store for Webority.Security audit events: one row per event sent to a Log Analytics custom table through the Logs Ingestion API, each carrying the event's own time in EventTime."
+2026-11-19T11:25:52.82Z,Webority.Retention.Abstractions,0.5.0,Webority Technologies,"The contract a package implements to join a product's Webority.Retention run: IRetentionPurge, RetentionPurgePlan and RetentionPurgeContext. No dependencies; the product registers each purge with AddWeborityRetentionPurge from Webority.Retention."
+2026-11-19T11:26:31.543Z,Moltaro.Signals.Hosting,0.1.0,Bijou Solutions,"Registers the Moltaro.Signals host, or a client of a host elsewhere, in a .NET generic host and its service container, and writes their log lines."
+2026-11-19T11:26:32.127Z,Moltaro.Signals,0.1.0,Bijou Solutions,"Remote signals with consumer groups for .NET: an in-memory host embedded in one process, a client for other processes over one TCP connection, and the same ISignals interface for both. A signal carries no data, coalesces per key and group, and wakes one waiting member of each group on each key it s…"
+2026-11-19T11:51:01.63Z,Univedo.Data.Net48,2.8.2.5,Stefan Becker,"Univedo.Data Class Library for .NET Framework 4.8 (streams, remote objects and file import only)"
+2026-11-19T12:03:13.83Z,PrintSharp.Html,0.5.0,ogisyouryuu,Standalone HTML export extensions for PrintSharp grid documents.
+2026-11-19T12:03:15.447Z,PrintSharp.Image,0.5.0,ogisyouryuu,PNG and lossless WebP page export for PrintSharp.
+2026-11-19T12:03:22.317Z,PrintSharp.Word,0.5.0,ogisyouryuu,Editable Word document export for PrintSharp.
+2026-11-19T12:06:14.407Z,PidginHost.Sdk,0.18.0,PidginHost,Official .NET client for the PidginHost API
+2026-11-19T12:06:58.89Z,LSurac.Earwig.Client,0.1.0,Leonard Surac,"Client for the Earwig transcription service, plus ready-made proxy endpoints for the @lsurac/earwig-recorder web component (the API key stays on the server)."
