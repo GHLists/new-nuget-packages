@@ -12,19 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:20 UTC
+## Latest list — 2026-11-20 04:19 UTC
 
-New packages created between 2026-11-20 02:19 UTC and 2026-11-20 03:20 UTC.
+New packages created between 2026-11-20 03:20 UTC and 2026-11-20 04:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T03-20-20-962418Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T04-19-07-110736Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 02:43:20 | [LiteDriver.Orchestration](https://www.nuget.org/packages/LiteDriver.Orchestration) | 0.2.0 | cnefan31 | LiteDriver 的可视化功能编排库：基于 NanoServer 提供拖拽式编排页面，在线增删改客户端/服务端/协议节点，保存后热应用，无需重启后端服务。 |
-| 2026-11-20 02:48:48 | [Seedream.ImagePairPlanner](https://www.nuget.org/packages/Seedream.ImagePairPlanner) | 0.1.0 | js-upup | Plan subject and background image pairs from a labeled manifest. Report missing… |
-| 2026-11-20 03:02:30 | [NetApiFlow.Testing](https://www.nuget.org/packages/NetApiFlow.Testing) | 0.5.0 | Douglas Lima | Assertions over the flow a request actually took, for integration tests, such a… |
-| 2026-11-20 03:12:09 | [EntityFramework5.Kdbndp](https://www.nuget.org/packages/EntityFramework5.Kdbndp) | 4.5.2.1120 | KingbaseES | 中电科金仓EF5驱动，sqlserver模式专用 |
-| 2026-11-20 03:12:56 | [Seawave.DataBaseHelper](https://www.nuget.org/packages/Seawave.DataBaseHelper) | 1.0.0 | Seawave | Database helper library for .NET 8 |
+| 2026-11-20 03:20:38 | [FrugoCorp.AspNetCore.AutoDiscoveryIAM](https://www.nuget.org/packages/FrugoCorp.AspNetCore.AutoDiscoveryIAM) | 0.1.1 | FrugoCorp Team | Dynamic RBAC and JWT authentication for ASP.NET Core, with permissions auto-dis… |
+| 2026-11-20 03:20:45 | [RoomTalkForCrestron](https://www.nuget.org/packages/RoomTalkForCrestron) | 1.22.8 | Solution AV Automation | Talk to your Crestron system in plain English. The RoomTalk for Crestron librar… |
+| 2026-11-20 03:21:33 | [Misaki.CommandLine.Args](https://www.nuget.org/packages/Misaki.CommandLine.Args) | 1.0.0 | Misaki.CommandLine.Args | Package Description |
+| 2026-11-20 03:26:03 | [Seawave.OpcUaHelperV2](https://www.nuget.org/packages/Seawave.OpcUaHelperV2) | 1.0.0 | Seawave | opc ua helper library for .NET 8 |
+| 2026-11-20 03:39:48 | [YS.Knife.DependencyInjection](https://www.nuget.org/packages/YS.Knife.DependencyInjection) | 0.0.145 | Pengbo Yang | Package Description |
+| 2026-11-20 04:04:10 | [PAN.PredicateToSql](https://www.nuget.org/packages/PAN.PredicateToSql) | 2.0.0 | Pedro Ávila Núñez | Extensiones para Dapper con soporte de expresiones lambda (igualdad, comparacio… |
+| 2026-11-20 04:06:07 | [Gtk4.Forms.MarkupCompiler](https://www.nuget.org/packages/Gtk4.Forms.MarkupCompiler) | 1.0.0.26324 | Microsoft, Piero Viano | Build-time WPF XAML markup compiler for the Gtk4.Forms compatibility layer. |
+| 2026-11-20 04:06:19 | [Gtk4.Forms.WindowsBase](https://www.nuget.org/packages/Gtk4.Forms.WindowsBase) | 1.0.0.26324 | Microsoft, Piero Viano | Package Description |
+| 2026-11-20 04:06:24 | [Gtk4.Forms.Wpf](https://www.nuget.org/packages/Gtk4.Forms.Wpf) | 1.0.0.26324 | Microsoft, Piero Viano | Meta-package: add one PackageReference to run an existing WPF app on GTK 4 with… |
 
 ## Data source
 

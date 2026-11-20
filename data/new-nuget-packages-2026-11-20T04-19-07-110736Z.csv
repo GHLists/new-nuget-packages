@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-20T03:20:38.117Z,FrugoCorp.AspNetCore.AutoDiscoveryIAM,0.1.1,FrugoCorp Team,"Dynamic RBAC and JWT authentication for ASP.NET Core, with permissions auto-discovered from your real endpoints via EndpointDataSource: no manual permission maps to keep in sync. Includes refresh token rotation with reuse detection, 2FA (TOTP/email), Google social login, full account lifecycle (reg…"
+2026-11-20T03:20:45.79Z,RoomTalkForCrestron,1.22.8,Solution AV Automation,"Talk to your Crestron system in plain English. The RoomTalk for Crestron library (formerly MCP for Crestron) for SIMPL# Pro programs on 4-Series processors: the server AI apps connect to, device banks, presets and schedules. The assembly and namespace are MCPForCrestron. Needs a per-processor licen…"
+2026-11-20T03:21:33.11Z,Misaki.CommandLine.Args,1.0.0,Misaki.CommandLine.Args,Package Description
+2026-11-20T03:26:03.173Z,Seawave.OpcUaHelperV2,1.0.0,Seawave,opc ua helper library for .NET 8
+2026-11-20T03:39:48.023Z,YS.Knife.DependencyInjection,0.0.145,Pengbo Yang,Package Description
+2026-11-20T04:04:10.487Z,PAN.PredicateToSql,2.0.0,Pedro Ávila Núñez,"Extensiones para Dapper con soporte de expresiones lambda (igualdad, comparaciones, AND/OR, Contains) y consulta filtrada. Compatible con SQL Server y MySQL. Requiere Dapper y Dapper.Contrib. Licencia MIT."
+2026-11-20T04:06:07.623Z,Gtk4.Forms.MarkupCompiler,1.0.0.26324,"Microsoft, Piero Viano",Build-time WPF XAML markup compiler for the Gtk4.Forms compatibility layer.
+2026-11-20T04:06:19.77Z,Gtk4.Forms.WindowsBase,1.0.0.26324,"Microsoft, Piero Viano",Package Description
+2026-11-20T04:06:24.097Z,Gtk4.Forms.Wpf,1.0.0.26324,"Microsoft, Piero Viano","Meta-package: add one PackageReference to run an existing WPF app on GTK 4 without editing controls, XAML, usings or namespaces. The package rewrites the consumer .csproj and pulls in the Gtk4.Forms WPF compatibility layer."
