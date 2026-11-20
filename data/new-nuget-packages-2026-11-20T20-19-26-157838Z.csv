@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-11-20T19:33:35.16Z,Smusdi.Scalar,10.3.0,LION Marc,Optional Scalar API reference setup for Smusdi services.
+2026-11-20T19:33:35.86Z,Smusdi.Swagger,10.3.0,LION Marc,Optional Swagger UI setup for Smusdi services.
+2026-11-20T19:38:21.27Z,Hyperlight.Wasm,0.17.0-preview,The Hyperlight Authors,Experimental. Runs WebAssembly components in Hyperlight micro VMs. Use with Hyperlight.Wasm.Build to generate typed bindings from WIT.
+2026-11-20T19:38:23.067Z,Hyperlight.Wasm.Build,0.17.0-preview,The Hyperlight Authors,Experimental. Generates C# bindings for Hyperlight.Wasm from WIT files listed as HyperlightWit items.
+2026-11-20T19:41:16.707Z,AlfaVision.FaiLicence,0.1.0,"Arne Boye-Møller, AlfaVision",Read-only client for the FAI Sporting Licences API (IGC): search licences and look up licence details. Never writes — the write endpoints of the API are blocked by design.
+2026-11-20T19:41:48.067Z,NuGetFunctionalTest_b81dc091528e47e4b4a77b96993f35f7,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:42:23.36Z,NuGetFunctionalTest_a38fc381a4cd4047b04b3f6fb079d29f,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:42:59.82Z,NuGetFunctionalTest_4324d0f785574d12bac58fce871a1122,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:13.397Z,DuplicatePushesAreRejectedAndNotDeleted.0499ea309fa04b8f870ea1ede34e800a,1.0.6,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:14.51Z,ValidProtocolVersiond9d72274a55240e0999367e7cc14afb0,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:21.697Z,InvalidScopeForVerifyf2411a1b9add40cfacc440baf8f39f47,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:28.88Z,NuGetFunctionalTest_dba30b79a5a042e5953950e2da09e253,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:29.477Z,ValidScopeForVerifybdaa51b3ac3e40c8968260d0ddedc289,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:31.397Z,E2E.SemVer1Stable.81f15883689f436a9a174e8abbc03491,1.0.0,EndToEndTests,Description of E2E.SemVer1Stable.81f15883689f436a9a174e8abbc03491
+2026-11-20T19:43:31.43Z,E2E.FullValidation.d63ea14b7e264be5888051d11a62dc1e,1.0.0,EndToEndTests,Description of E2E.FullValidation.d63ea14b7e264be5888051d11a62dc1e
+2026-11-20T19:43:31.43Z,E2E.LicenseExpression.86cbc040c6704ad4ad6e936001632f19,1.0.0,EndToEndTests,Description of E2E.LicenseExpression.86cbc040c6704ad4ad6e936001632f19
+2026-11-20T19:43:31.443Z,E2E.EmbeddedReadmeFile.d11415d46fd64ae9b2ec05610973db84,1.0.0,EndToEndTests,Description of E2E.EmbeddedReadmeFile.d11415d46fd64ae9b2ec05610973db84
+2026-11-20T19:43:31.753Z,E2E.LicenseFile.2f8f96fc15a04125913e628c28e91234,1.0.0,EndToEndTests,Description of E2E.LicenseFile.2f8f96fc15a04125913e628c28e91234
+2026-11-20T19:43:31.88Z,E2E.EmbeddedIconJpeg.cf72e5d4b384429e932988941842be07,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconJpeg.cf72e5d4b384429e932988941842be07
+2026-11-20T19:43:31.913Z,E2E.Deprecated.e09fa5e90e0a4c3b9b5a9822fcce64da,1.0.0,EndToEndTests,Description of E2E.Deprecated.e09fa5e90e0a4c3b9b5a9822fcce64da
+2026-11-20T19:43:33.677Z,E2E.EmbeddedIconPng.c4be60a2f6d4436bad45fcdfd68ad3e6,1.0.0,EndToEndTests,Description of E2E.EmbeddedIconPng.c4be60a2f6d4436bad45fcdfd68ad3e6
+2026-11-20T19:43:33.677Z,E2E.LicenseUrl.36f33bdd107a4c7a94abd2ce009ef2f1,1.0.0,EndToEndTests,Description of E2E.LicenseUrl.36f33bdd107a4c7a94abd2ce009ef2f1
+2026-11-20T19:43:41.703Z,NuGetFunctionalTest_46cb50d106e441d4bbbda22fa5d665bf,1.0.0-v639308010321…,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:43:41.877Z,E2E.SymbolsPackage.1e17ec50ec0d4d0da24987a81c0c7e75,1.0.0,EndToEndTests,Description of E2E.SymbolsPackage.1e17ec50ec0d4d0da24987a81c0c7e75
+2026-11-20T19:43:41.87Z,E2E.DotnetTool.f6db7e841c3345b5859fd818aacad830,1.0.0,E2E.DotnetTool,Package Description
+2026-11-20T19:43:50.02Z,NuGetFunctionalTest_5d305ebffe05433fbda983f1cb9549c5,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:44:07.92Z,NuGetFunctionalTest_79e26096b29242f391e6da32ae2eecf0,2.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:47:04.16Z,ClientVersionTooLow5fac785dd5f14660a0db026175f4c453,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:47:07.067Z,ClientVersionTooLowa6f84b2b4c534eb0b89b7816ad82ceed,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:47:11.757Z,GetUpdates1199RegressionTest.d391606114284e4ea30b7267695844cc,6393081.8277.647392,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:49:39.757Z,NuGetFunctionalTest_f97ab8777c33457585fca56f5f73d085,1.0.0-v639308011758…,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:50:10.517Z,NuGetFunctionalTest_1cd01d48b24d4143a70549dc3980e93a,1.0.0-v639308011816…,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T19:50:19.213Z,ScuroGuardiano.MdLive,0.1.0,ScuroGuardiano,"Live preview of Markdown rendered with your own Markdig pipeline and styles, driven from an editor such as Neovim."
+2026-11-20T20:01:06.063Z,a165f8824849499c9c2f3af9816f99cfPackageWithDotCsNames.Cs,1.0.0,cloudtest,This is a test package created by the NuGet team.
+2026-11-20T20:07:31.1Z,OpenVmfs,0.3.0,OpenVmfs contributors,"Read-only access to VMware VMFS6 volumes and the virtual disks (VMDK) stored on them, without ESXi."
