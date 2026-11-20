@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-20T00:28:15.553Z,LsMsgPack.SignalR,2026.11.20.1,Louis Somers,"A MessagePack hub protocol for ASP.NET Core SignalR (server and .NET client) on the fast LsMsgPack serializer: ""lsmsgpack"" with LsMsgPack's values for its TypeScript client and .NET clients, or registered as ""messagepack"" with the bytes of Microsoft's MessagePack protocol for the existing clients."
+2026-11-20T01:03:22.11Z,ForEach.Email.MailKit,0.1.0,For-Each Smederevo,"MailKit implementation of ForEach.Email.Abstractions: AddMailKitEmail registers IEmailSender (SMTP with STARTTLS or plain, optional login) and IEmlBuilder (.eml rendering with MimeKit)."
+2026-11-20T01:03:22.947Z,ForEach.Email.Abstractions,0.1.0,For-Each Smederevo,"IEmailSender and IEmlBuilder: the vendor-neutral contracts for sending one HTML e-mail and for rendering the same message as a downloadable .eml file. No dependencies, so an application layer can reference it without pulling in a mail library."
+2026-11-20T01:05:44.24Z,Pulumi.Labs.Anthropic,0.1.0,Pulumi Labs,"Manage the Anthropic platform as code: Claude Managed Agents, skills, workspaces, members, service accounts, workload identity federation, and more."
+2026-11-20T01:07:54.067Z,OpenRobot.Edge.Variable.Client,0.2.0,OpenRobot,业务变量消费客户端：按稳定引用读取快照、订阅变化、续租，屏蔽 DC / 配置 / 其他 EXE 的来源差异。
+2026-11-20T01:15:19.397Z,Moli.Net,0.1.6,Moli.Net,"Downloads, starts, and stops Moli, a headless browser that speaks CDP."
