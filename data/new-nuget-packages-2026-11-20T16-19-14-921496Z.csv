@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-20T15:23:08.573Z,Kitpymes.Core.Results,1.0.1,"Kitpymes, Sebastian R Ferrari",Resultados estándar para operaciones y respuestas de API (ApiResult).
+2026-11-20T15:25:47.703Z,Webority.Security.Html,0.74.0,Webority Technologies,"The shared content HTML sanitiser: one configured IHtmlSanitizer for rendered Markdown, content pages and legal texts, with an allow-list each product extends."
+2026-11-20T15:30:14.247Z,HostLoom.AspNetCore.DataProtection,0.22.0,Aleksandr Pavlov,ASP.NET Core Data Protection key rings on shared HostLoom Redis connections.
+2026-11-20T15:30:35.487Z,Umbraco.Community.SuperSecretLoginButton,0.1.0,Andy Cross,"A ""Log in with Umbraco"" button on your site that only appears for browsers that have logged in to the backoffice before. Everyone else sees nothing."
+2026-11-20T15:33:36.293Z,Saku.GodotUtilities,3.6.2,Saku,A collection of general-purpose C# utilities and Roslyn source generators for Godot.
+2026-11-20T15:33:51.83Z,ToraNith.WebNook,0.1.0,toras9000,A small utility library for ASP.NET Core.
+2026-11-20T15:34:28.263Z,STI.IT2025.G6.6MQXSRC3,1.0.0,STI Group 6,Group 6 verifier library (STI IT2025 take-home activity).

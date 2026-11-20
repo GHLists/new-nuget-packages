@@ -12,28 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 15:22 UTC
+## Latest list — 2026-11-20 16:19 UTC
 
-New packages created between 2026-11-20 14:21 UTC and 2026-11-20 15:22 UTC.
+New packages created between 2026-11-20 15:22 UTC and 2026-11-20 16:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T15-22-21-796705Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T16-19-14-921496Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 14:24:31 | [TzData.Runtime](https://www.nuget.org/packages/TzData.Runtime) | 1.0.0 | DotNet-AGPL | App-local IANA time zone data (tzdata 2026f) for .NET on Linux and macOS. Ships… |
-| 2026-11-20 14:24:32 | [TzData.Runtime.AutoInit](https://www.nuget.org/packages/TzData.Runtime.AutoInit) | 1.0.0 | DotNet-AGPL | Opt-in automatic TZDIR setup for TzData.Runtime. Injects a module initializer i… |
-| 2026-11-20 14:26:20 | [Integrios.Client](https://www.nuget.org/packages/Integrios.Client) | 0.2.0 | Integrios | Consume an Integrios pull Destination from a .NET generic host. |
-| 2026-11-20 14:28:31 | [Nocturne.Web](https://www.nuget.org/packages/Nocturne.Web) | 0.1.0 | Martin Kirk | The Nocturne dark theme of Nocturne.Wpf for ASP.NET Core: CSS for every control… |
-| 2026-11-20 14:39:42 | [CoinoLive](https://www.nuget.org/packages/CoinoLive) | 1.0.0 | Coino Live | .NET library for the Coino Live crypto payment API |
-| 2026-11-20 14:42:25 | [Vetta.Connector.SqlServer](https://www.nuget.org/packages/Vetta.Connector.SqlServer) | 0.3.0 | Vettvangur | Persistent SQL Server authentication attempt storage for Vetta.Connector.AspNet… |
-| 2026-11-20 14:45:34 | [Lab.Socle](https://www.nuget.org/packages/Lab.Socle) | 0.0.1-reserve | Hubaria | Nom réservé. Le paquet Lab.Socle réel est interne au Hubaria Lab et n'est pas p… |
-| 2026-11-20 14:45:56 | [Microsoft.JavaScript.NodeApi.Embedding](https://www.nuget.org/packages/Microsoft.JavaScript.NodeApi.Embedding) | 0.9.43 | Microsoft | Embeds Node.js in .NET apps: brings Microsoft.JavaScript.NodeApi and Microsoft.… |
-| 2026-11-20 14:53:56 | [HyperDev.Connectors](https://www.nuget.org/packages/HyperDev.Connectors) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
-| 2026-11-20 14:54:17 | [HyperDev.Connectors.Editor](https://www.nuget.org/packages/HyperDev.Connectors.Editor) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework: server side of the connector editor (@wemake4u/connec… |
-| 2026-11-20 14:54:31 | [HyperDev.Connectors.Rest](https://www.nuget.org/packages/HyperDev.Connectors.Rest) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
-| 2026-11-20 14:54:48 | [HyperDev.Connectors.Soap](https://www.nuget.org/packages/HyperDev.Connectors.Soap) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
-| 2026-11-20 14:55:01 | [HyperDev.Connectors.Sql](https://www.nuget.org/packages/HyperDev.Connectors.Sql) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
-| 2026-11-20 14:59:59 | [SqlBranch.Testing](https://www.nuget.org/packages/SqlBranch.Testing) | 0.2.0 | SqlBranch contributors | Private SQL Server database branches for automated tests. |
+| 2026-11-20 15:23:08 | [Kitpymes.Core.Results](https://www.nuget.org/packages/Kitpymes.Core.Results) | 1.0.1 | Kitpymes, Sebastian R Ferrari | Resultados estándar para operaciones y respuestas de API (ApiResult). |
+| 2026-11-20 15:25:47 | [Webority.Security.Html](https://www.nuget.org/packages/Webority.Security.Html) | 0.74.0 | Webority Technologies | The shared content HTML sanitiser: one configured IHtmlSanitizer for rendered M… |
+| 2026-11-20 15:30:14 | [HostLoom.AspNetCore.DataProtection](https://www.nuget.org/packages/HostLoom.AspNetCore.DataProtection) | 0.22.0 | Aleksandr Pavlov | ASP.NET Core Data Protection key rings on shared HostLoom Redis connections. |
+| 2026-11-20 15:30:35 | [Umbraco.Community.SuperSecretLoginButton](https://www.nuget.org/packages/Umbraco.Community.SuperSecretLoginButton) | 0.1.0 | Andy Cross | A "Log in with Umbraco" button on your site that only appears for browsers that… |
+| 2026-11-20 15:33:36 | [Saku.GodotUtilities](https://www.nuget.org/packages/Saku.GodotUtilities) | 3.6.2 | Saku | A collection of general-purpose C# utilities and Roslyn source generators for G… |
+| 2026-11-20 15:33:51 | [ToraNith.WebNook](https://www.nuget.org/packages/ToraNith.WebNook) | 0.1.0 | toras9000 | A small utility library for ASP.NET Core. |
+| 2026-11-20 15:34:28 | [STI.IT2025.G6.6MQXSRC3](https://www.nuget.org/packages/STI.IT2025.G6.6MQXSRC3) | 1.0.0 | STI Group 6 | Group 6 verifier library (STI IT2025 take-home activity). |
 
 ## Data source
 
