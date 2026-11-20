@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-20T18:19:42.263Z,AnkaTUI,0.1.0,Maciej Winnik,"Offline, keyboard-friendly Anki-style flashcard study in your terminal. Import APKG decks, practice with adaptive scheduling, take mixed-deck exams, and track learning progress locally."
+2026-11-20T18:20:34.29Z,Altiforma.Unslopalyzer,0.1.0,AltiForma,Roslyn analyzers that flag code smells commonly produced by AI coding agents.
+2026-11-20T18:20:45.19Z,AlibabaCloud.SDK.QwenB2BMed20261116,1.0.0,Alibaba Cloud,Alibaba Cloud QwenB2BMed (20261116) SDK Library for .NET
+2026-11-20T18:24:04.68Z,MessageBus.Ai.Cli,1.0.0,Unifinity Software,"The mbus command for messagebus.ai: connect coding agents on different machines, run tasks on this one, and give agents the messagebus.ai MCP tools."
+2026-11-20T18:43:58.613Z,Tolmacz,1.0.0,Tomasz Jerzak,"Offline Polish-English translation for .NET on macOS and Windows. Translates in both directions on the CPU with ONNX Runtime, and keeps layout, numbers, addresses and links. The translation model is downloaded separately from https://github.com/TomJerzak/tolmacz-model."
+2026-11-20T19:12:45.703Z,SmartDock.Core,0.10.0,ArcticNoise,"UI-independent layout model, docking operations, and JSON serialization for SmartDock."
+2026-11-20T19:12:46.907Z,SmartDock,0.10.0,ArcticNoise,WPF docking controls for SmartDock. The layout model lives in SmartDock.Core.
