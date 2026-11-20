@@ -1,0 +1,25 @@
+created_at,package,version,authors,description
+2026-11-19T23:22:15.05Z,Sattleme.Checkout,1.0.0,sattle.me,"Take Lightning and on-chain payments for a sattle.me merchant from an online shop's server: invoices, deposit addresses, registry declarations, payment checks."
+2026-11-19T23:30:00.887Z,Sidub.Platform.Payments.Finix,1.22.0,Sidub Inc.,Package Description
+2026-11-19T23:31:46.787Z,ForEach.Sms.Abstractions,0.1.0,For-Each Smederevo,"ISmsSender and ISmsGateway: the vendor-neutral contracts for sending a text message and for operating an SMS gateway account (balance, inbox, outbox, one-time passwords, voice, number lookup). No dependencies, so an application layer can reference it without pulling in a vendor."
+2026-11-19T23:31:47.443Z,ForEach.Sms.SmsBox,0.1.0,For-Each Smederevo,"SMSBOX implementation of ForEach.Sms.Abstractions: AddSmsBox registers ISmsSender and ISmsGateway on a Refit client generated from the SMSBOX OpenAPI document, with the X-Api-Key handler and a per-message key override."
+2026-11-19T23:32:25.677Z,ParadeDB.VectorData,0.6.0,ParadeDB,Microsoft.Extensions.VectorData cosine search over ParadeDB Entity Framework Core queries.
+2026-11-19T23:40:28.857Z,VPet-Simulator.Unified,1.0.0,LorisYounger,虚拟桌宠模拟器（VPet）的跨平台代码 MOD 开发包。使用 UnifiedPlugin 编写一份插件 DLL，在支持 Unified 的 Windows 本体和 Avalonia 跨平台版中读取桌宠存档、添加互动菜单和收发访客表消息。
+2026-11-19T23:42:48.557Z,ForEach.Storage.S3,0.1.0,For-Each Smederevo,"S3-compatible implementation of IFileBlobStore (AWS S3, Hetzner Object Storage, Ceph): key prefix, own retry loop for spurious 403s, presigned GET URLs, path-style addressing."
+2026-11-19T23:42:49.193Z,ForEach.Storage.AzureBlob,0.1.0,For-Each Smederevo,"Azure Blob Storage implementation of IFileBlobStore: key prefix, SDK retries, connection string or DefaultAzureCredential, read-SAS download URLs."
+2026-11-19T23:42:49.883Z,ForEach.Storage.Abstractions,0.1.0,For-Each Smederevo,"IFileBlobStore: the vendor-neutral contract for storing, reading, listing and deleting blobs addressed by a relative key, with BlobKeys validation and an optional presigned-download capability. No dependencies, so an application layer can reference it without pulling in a vendor."
+2026-11-19T23:46:19.977Z,SoftwareExtravaganza.Whizbang.Rules,0.4457.0,Phil Carbone,"The eligibility rules storage cleanup and stream integrity share: the per-type rule model, the rule fingerprint, the pair comparison and the SQL eligibility rule's source. Versioned on its own track, bumped only when the rules change, so two services compare integrity only while they run the same r…"
+2026-11-19T23:51:13.417Z,GCR.Domains.Core.Notification,0.4.0,GCR,Core 模块领域层：通知引擎实体（邮件服务配置、通道配置、通知模板、发送记录、站内信）
+2026-11-19T23:51:34.803Z,McpEssentials.Analyzers,1.0.0,CloudNimble,"Catch broken MCP forms at compile time. Warns on unmappable properties, colliding field names, and invalid lambdas. Included with Core; use this package to reference the analyzers on their own."
+2026-11-19T23:51:35.18Z,McpEssentials.Core,1.0.0,CloudNimble,"Build multi-user MCP servers in .NET. Isolate long-running tasks per user, elicit structured input with fluent forms, and start in-memory—then swap in Redis, EF Core, or Cosmos when you go to production."
+2026-11-19T23:51:35.73Z,McpEssentials.Cosmos,1.0.0,CloudNimble,"Run MCP tasks on Azure Cosmos DB for NoSQL. Point reads by owner, native document TTL, and an index so background completion still finds the row."
+2026-11-19T23:51:36.25Z,McpEssentials.EntityFrameworkCore,1.0.0,CloudNimble,"Persist MCP tasks in the database you already run. Works with any EF Core provider—SQL Server, SQLite, PostgreSQL, Cosmos, and more—without a second DbContext."
+2026-11-19T23:51:36.727Z,McpEssentials.PostgreSQL,1.0.0,CloudNimble,Run MCP tasks on PostgreSQL without EF. Npgsql owns the row; LISTEN/NOTIFY wakes every node when a user answers an elicitation form.
+2026-11-19T23:51:37.2Z,McpEssentials.Redis,1.0.0,CloudNimble,"Run MCP tasks on Redis. Keys expire on their own, and pub/sub wakes every node when a user answers an elicitation form."
+2026-11-19T23:58:10.013Z,ECMAScript.Vue,2.2.0,hanxj,Shared Vue 3 type bindings and runtime resource metadata for Jazor.
+2026-11-19T23:58:26.297Z,Jazor.Jolt,2.2.0,hanxj,Build and edit Jolt .jazor Vue components written in C#.
+2026-11-19T23:58:29.913Z,Jazor.Jolt.linux-arm64,2.2.0,hanxj,Build and edit Jolt .jazor Vue components written in C#.
+2026-11-19T23:58:33.74Z,Jazor.Jolt.linux-x64,2.2.0,hanxj,Build and edit Jolt .jazor Vue components written in C#.
+2026-11-19T23:58:37.117Z,Jazor.Jolt.win-arm64,2.2.0,hanxj,Build and edit Jolt .jazor Vue components written in C#.
+2026-11-19T23:58:40.517Z,Jazor.Jolt.win-x64,2.2.0,hanxj,Build and edit Jolt .jazor Vue components written in C#.
+2026-11-20T00:10:17.41Z,DMXControl3-Network-Interface,3.3.3,DMXControl Projects e.V.,gRPC client library for the DMXControl 3 network interface
