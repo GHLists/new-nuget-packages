@@ -1,0 +1,83 @@
+created_at,package,version,authors,description
+2026-11-20T20:23:30.717Z,GDTFSharp,0.1.0,DMXControl Projects e.V.,"Read, write, create and validate GDTF fixture type files (General Device Type Format, DIN SPEC 15800, GDTF 1.2) in .NET. Typed model with resolved references, .gdtf archive handling, DMX footprint helpers and spec validation."
+2026-11-20T20:25:22.42Z,Vendeq.Api.Common,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:23.6Z,Vendeq.Api.Tests.Common,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:24.71Z,Vendeq.ApiClientGenerator,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:25.817Z,Vendeq.ApiClientGenerator.Attributes,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:26.803Z,Vendeq.Apps,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:27.98Z,Vendeq.Apps.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:29.163Z,Vendeq.Apps.Messages,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:30.3Z,Vendeq.Base62,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:31.387Z,Vendeq.Chat,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:32.527Z,Vendeq.Chat.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:33.687Z,Vendeq.Core.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:34.727Z,Vendeq.Core.Messages,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:35.8Z,Vendeq.Email,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:36.83Z,Vendeq.Email.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:37.88Z,Vendeq.FileUpload.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:39.047Z,Vendeq.Flow.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:40.087Z,Vendeq.Forms,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:41.223Z,Vendeq.Forms.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:42.48Z,Vendeq.IdentityModel.OidcClient,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:43.7Z,Vendeq.IdentityModel.OidcClient.IdentityTokenValidator,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:44.88Z,Vendeq.IdentityServer4,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:46.093Z,Vendeq.IdentityServer4.AspNetIdentity,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:48.96Z,Vendeq.IdentityServer4.EntityFramework,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:50.06Z,Vendeq.IdentityServer4.EntityFramework.Storage,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:54.31Z,Vendeq.IdentityServer4.Storage,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:55.423Z,Vendeq.Indicators,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:56.503Z,Vendeq.Integrations,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:57.877Z,Vendeq.Integrations.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:25:59.017Z,Vendeq.Integrations.Messages,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:00.243Z,Vendeq.Javascript.NodeJS,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:01.423Z,Vendeq.Job,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:02.537Z,Vendeq.Jobs.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:03.65Z,Vendeq.Jobs.Common,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:04.753Z,Vendeq.KafkaFlow,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:05.84Z,Vendeq.KafkaFlow.Abstractions,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:06.91Z,Vendeq.KafkaFlow.Microsoft.DependencyInjection,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:08.117Z,Vendeq.KafkaFlow.Retry,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:09.23Z,Vendeq.KafkaFlow.Serializer.NewtonsoftJson,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:10.26Z,Vendeq.Logging,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:11.25Z,Vendeq.OAuth1,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:12.333Z,Vendeq.OpenAI.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:13.513Z,Vendeq.Surveys.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:14.537Z,Vendeq.Tasks,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:15.593Z,Vendeq.Tasks.Api.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:26:16.707Z,Vendeq.Tasks.Messages,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:35:11.15Z,Av1rt,0.1.0,Av1rt,"A safe, Native AOT compatible C# port of the realtime subset of the libaom AV1 encoder, bit-exact with libaom 3.15.3+232 (d03d2c63a1)."
+2026-11-20T20:38:34.69Z,AWSSDK.AgentDiscovery,4.1.0,Amazon Web Services,The Amazon Web Services SDK for .NET - Agent Discovery
+2026-11-20T20:38:39.953Z,AWSSDK.APIPortal,4.1.0,Amazon Web Services,The Amazon Web Services SDK for .NET - APIPortal
+2026-11-20T20:38:40.607Z,AWSSDK.SageMakerGatewayRuntime,4.1.0,Amazon Web Services,The Amazon Web Services SDK for .NET - Amazon SageMaker Gateway Runtime
+2026-11-20T20:38:54.933Z,AWSSDK.Payments,4.1.0,Amazon Web Services,The Amazon Web Services SDK for .NET - AWS Payments
+2026-11-20T20:48:56.103Z,SyntaxCircus.Blazor.RichContent,0.1.0,Syntax Circus LLC,Blazor components for rendering block-based rich content from SyntaxCircus.RichContent.
+2026-11-20T20:48:56.36Z,SyntaxCircus.Blazor.Seo.Authoring,0.1.0,Syntax Circus LLC,"Live SEO and readability checks while authoring content, with edit-this jump targets."
+2026-11-20T20:48:56.847Z,SyntaxCircus.RichContent,0.1.0,Syntax Circus LLC,"Block-based rich content document model with a versioned, forward-compatible JSON serializer."
+2026-11-20T20:51:56.84Z,EntityFrameworkCore.Exceptions.MySqlConnector,11.0.0,Giorgi Dalakishvili,"Handle database errors easily when working with Entity Framework Core. Catch specific exceptions such as UniqueConstraintException, CannotInsertNullException, MaxLengthExceededException, NumericOverflowException or ReferenceConstraintException instead of generic DbUpdateException Use this package w…"
+2026-11-20T20:52:38.99Z,Vendeq.IdentityServer.Client,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T20:52:40.203Z,Vendeq.IdentityServer.Messages,0.0.1-placeholder,1Password,Reserved by 1Password. This package intentionally contains nothing and is not for use.
+2026-11-20T21:00:37.373Z,Tiisu.Mahjong.Markdown,1.0.2,公民北极星_Official,"Portable Markdown + mahjong tile notation renderer for Unity, Godot and other C# hosts."
+2026-11-20T21:01:34.227Z,KatziError.Net,1.0.0,AaronoLW,KatziError C# bindings
+2026-11-20T21:04:54.7Z,Fluent.Unions.Xunit,0.3.0,Tobias Streng,"xUnit v3 integration for Fluent.Unions: ResultAssert and OptionAssert for Result, Result<T> and Option<T>."
+2026-11-20T21:04:55.453Z,Fluent.Unions.Dapper,0.3.0,Tobias Streng,Dapper integration for Fluent.Unions: map Option<T> to and from database NULL with Dapper type handlers.
+2026-11-20T21:04:56.263Z,Fluent.Unions.HotChocolate,0.3.0,Tobias Streng,"HotChocolate integration for Fluent.Unions: resolvers can return Result<T>, Task<Result<T>> and Option<T>, and an error becomes a GraphQL error or a mutation convention error."
+2026-11-20T21:04:57.11Z,Fluent.Unions.Verify,0.3.0,Tobias Streng,"Verify integration for Fluent.Unions: snapshot a Result, a Result<T>, an Option<T> or a Loadable<T> as readable text, with the error as data and no stack trace."
+2026-11-20T21:04:58.193Z,Fluent.Unions.MessagePack,0.3.0,Tobias Streng,"MessagePack integration for Fluent.Unions: a formatter and resolver that write an Option<T> as its value or nil, and refuse to serialize results."
+2026-11-20T21:04:59.093Z,Fluent.Unions.NSwag,0.3.0,Tobias Streng,NSwag integration for Fluent.Unions: describe Option<T> as a nullable T in the documents generated by NSwag.
+2026-11-20T21:04:59.907Z,Fluent.Unions.AutoMapper,0.3.0,Tobias Streng,AutoMapper integration for Fluent.Unions: map Option<T> to and from T? and Option<TSource> to Option<TDestination>. AutoMapper is dual licensed (RPL-1.5 or commercial).
+2026-11-20T21:05:01.117Z,Fluent.Unions.Mapster,0.3.0,Tobias Streng,Mapster integration for Fluent.Unions: map Option<T> to and from T? and Option<TSource> to Option<TDestination>.
+2026-11-20T21:05:01.893Z,Fluent.Unions.NewtonsoftJson,0.3.0,Tobias Streng,"Newtonsoft.Json support for Fluent.Unions: converters for Option<T>, for your own unions, and a guard that refuses to serialize results."
+2026-11-20T21:05:02.63Z,Fluent.Unions.Mediator,0.3.0,Tobias Streng,Mediator integration for Fluent.Unions: pipeline behaviors that turn an exception or an invalid request into a failed Result<T> instead of throwing.
+2026-11-20T21:05:03.337Z,Fluent.Unions.TUnit,0.3.0,Tobias Streng,"TUnit integration for Fluent.Unions: IsOk, IsError, IsSome and IsNone assertions for Result, Result<T> and Option<T>."
+2026-11-20T21:05:04.43Z,Fluent.Unions.Orleans,0.3.0,Tobias Streng,"Orleans integration for Fluent.Unions: serialize an Option<T> in grain calls and state, and refuse to serialize results."
+2026-11-20T21:05:05.62Z,Fluent.Unions.NUnit,0.3.0,Tobias Streng,"NUnit integration for Fluent.Unions: constraints for the state of a Result, Result<T> and Option<T>."
+2026-11-20T21:05:06.313Z,Fluent.Unions.Refit,0.3.0,Tobias Streng,"Refit integration for Fluent.Unions: convert a Refit API response to a Result, a Result<T> or a Result<Option<T>>, so API and network failures become errors."
+2026-11-20T21:05:07.023Z,Fluent.Unions.MediatR,0.3.0,Tobias Streng,MediatR integration for Fluent.Unions: pipeline behaviors that turn an exception or an invalid request into a failed Result<T> instead of throwing.
+2026-11-20T21:05:08.35Z,Fluent.Unions.Grpc,0.3.0,Tobias Streng,"gRPC integration for Fluent.Unions: convert a call to a Result<T> so an RpcException becomes an error, and map errors to RpcException status codes on the server."
+2026-11-20T21:05:09.12Z,Fluent.Unions.Shouldly,0.3.0,Tobias Streng,"Shouldly integration for Fluent.Unions: ShouldBeOk, ShouldBeError, ShouldBeSome and ShouldBeNone for Result, Result<T> and Option<T>."
+2026-11-20T21:05:09.897Z,Fluent.Unions.Swashbuckle,0.3.0,Tobias Streng,Swashbuckle integration for Fluent.Unions: describe Option<T> as a nullable T in the documents generated by Swashbuckle.AspNetCore.
+2026-11-20T21:05:11.563Z,Fluent.Unions.FluentAssertions,0.3.0,Tobias Streng,"FluentAssertions integration for Fluent.Unions: assert on the state of a Result, Result<T> and Option<T>, and on the exception inside an error."
+2026-11-20T21:05:12.313Z,Fluent.Unions.Serilog,0.3.0,Tobias Streng,"Serilog integration for Fluent.Unions: a destructuring policy that logs results, options and loadables as structured values instead of opaque objects."
+2026-11-20T21:05:13.027Z,Fluent.Unions.MongoDB,0.3.0,Tobias Streng,"MongoDB integration for Fluent.Unions: store Option<T> as a value or BSON null with a BSON serializer, and refuse to serialize results."
+2026-11-20T21:13:39.777Z,Soenneker.SignalR.Relay.OpenApiClient,11.0.1,Jake Soenneker,SignalR relay management OpenApiSuite
+2026-11-20T21:13:40.963Z,Soenneker.SignalR.Relay.HttpClients,11.0.1,Jake Soenneker,A thread-safe singleton HttpClient for SignalR's OpenAPI integration.
