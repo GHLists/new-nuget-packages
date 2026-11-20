@@ -12,24 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 13:20 UTC
+## Latest list — 2026-11-20 14:21 UTC
 
-New packages created between 2026-11-20 12:22 UTC and 2026-11-20 13:20 UTC.
+New packages created between 2026-11-20 13:20 UTC and 2026-11-20 14:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T13-20-04-729896Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T14-21-28-525867Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 12:28:05 | [csff](https://www.nuget.org/packages/csff) | 0.1.0 | Takumi Kuroda | A fast C# formatter CLI written in F#. |
-| 2026-11-20 12:29:31 | [KKDB.Lib.PrinterAbstract](https://www.nuget.org/packages/KKDB.Lib.PrinterAbstract) | 1.0.0 | kkdb | 一个用来把zpl语句发送到打印机的nuget包 抽象 |
-| 2026-11-20 12:31:04 | [AIBirthdayVideoGenerator](https://www.nuget.org/packages/AIBirthdayVideoGenerator) | 0.1.0 | AI Birthday Video Generator | AI birthday video generator from a single photo: they pop champagne on a park b… |
-| 2026-11-20 12:31:10 | [KKDB.Lib.Printer.Tcp](https://www.nuget.org/packages/KKDB.Lib.Printer.Tcp) | 1.0.0 | kkdb | 一个用来把zpl语句发送到打印机的nuget包 tcp打印机模块 |
-| 2026-11-20 12:32:14 | [KKDB.Lib.Printer.Raw](https://www.nuget.org/packages/KKDB.Lib.Printer.Raw) | 1.0.0 | kkdb | 一个用来把zpl语句发送到打印机的nuget包 windown api打印机模块 |
-| 2026-11-20 12:32:49 | [KKDB.Lib.Printer.Port](https://www.nuget.org/packages/KKDB.Lib.Printer.Port) | 1.0.0 | kkdb | 一个用来把zpl语句发送到打印机的nuget包 串口打印机模块 |
-| 2026-11-20 12:33:13 | [KKDB.Lib.Printer](https://www.nuget.org/packages/KKDB.Lib.Printer) | 1.0.0 | kkdb | 一个用来把zpl语句发送到打印机的nuget包 |
-| 2026-11-20 12:40:24 | [SimplePocketBase](https://www.nuget.org/packages/SimplePocketBase) | 0.1.0 | aiinty | Simple asynchronous REST client for PocketBase |
-| 2026-11-20 13:00:38 | [XrmMockup.PermissionAnalyzer](https://www.nuget.org/packages/XrmMockup.PermissionAnalyzer) | 1.0.0 | Context& | CLI tool that works out which Dataverse privileges your code needs, by static a… |
-| 2026-11-20 13:07:13 | [BindOpen.Messages.Dtos.Models](https://www.nuget.org/packages/BindOpen.Messages.Dtos.Models) | 1.3.1 | Sumer Team | A package to easily deal with feeds. |
+| 2026-11-20 13:22:35 | [Keycloak.Net.Sdk.AspNetCore](https://www.nuget.org/packages/Keycloak.Net.Sdk.AspNetCore) | 1.0.0 | Milad.Rv | ASP.NET Core integration for Keycloak: JWT bearer validation, Keycloak realm an… |
+| 2026-11-20 13:24:28 | [BIMPlugins.MaterialDesign](https://www.nuget.org/packages/BIMPlugins.MaterialDesign) | 5.3.2.1 | Samir Shibliev, MaterialDesig… | Material Design in XAML Toolkit for Revit add-ins, under assembly names of its… |
+| 2026-11-20 13:42:58 | [DotNetRewrite.Engine](https://www.nuget.org/packages/DotNetRewrite.Engine) | 0.1.1 | DotNetRewrite contributors | Host-independent .NET 10 URL rewrite rule parsing and evaluation engine. |
+| 2026-11-20 13:42:59 | [DotNetRewrite](https://www.nuget.org/packages/DotNetRewrite) | 0.1.1 | DotNetRewrite contributors | ASP.NET Core middleware for .NET 10 URL rewriting, redirects, and explicitly au… |
+| 2026-11-20 13:58:36 | [STI.IT2025.G5.H4T6MQXS](https://www.nuget.org/packages/STI.IT2025.G5.H4T6MQXS) | 1.0.0 | STI.IT2025.G5.H4T6MQXS | Package Description |
+| 2026-11-20 14:11:20 | [Anan.Controls.MarkdownTextBlock](https://www.nuget.org/packages/Anan.Controls.MarkdownTextBlock) | 1.0.0 | Ansherly | WinUI 3 的 Markdown 渲染控件，提供Markdig 解析和策略化渲染,支持标题 / 段落 / 引用 / 列表 / 任务列表 / 表格 / 代码… |
 
 ## Data source
 

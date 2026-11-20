@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-20T13:22:35.66Z,Keycloak.Net.Sdk.AspNetCore,1.0.0,Milad.Rv,"ASP.NET Core integration for Keycloak: JWT bearer validation, Keycloak realm and client roles as role claims, role policies, and data-scope helpers for filtering queries by token attributes"
+2026-11-20T13:24:28.987Z,BIMPlugins.MaterialDesign,5.3.2.1,"Samir Shibliev, MaterialDesignInXAML contributors","Material Design in XAML Toolkit for Revit add-ins, under assembly names of its own: it never clashes with another add-in's MaterialDesign."
+2026-11-20T13:42:58.56Z,DotNetRewrite.Engine,0.1.1,DotNetRewrite contributors,Host-independent .NET 10 URL rewrite rule parsing and evaluation engine.
+2026-11-20T13:42:59.59Z,DotNetRewrite,0.1.1,DotNetRewrite contributors,"ASP.NET Core middleware for .NET 10 URL rewriting, redirects, and explicitly authorized proxy rules."
+2026-11-20T13:58:36.803Z,STI.IT2025.G5.H4T6MQXS,1.0.0,STI.IT2025.G5.H4T6MQXS,Package Description
+2026-11-20T14:11:20.1Z,Anan.Controls.MarkdownTextBlock,1.0.0,Ansherly,"WinUI 3 的 Markdown 渲染控件，提供Markdig 解析和策略化渲染,支持标题 / 段落 / 引用 / 列表 / 任务列表 / 表格 / 代码块/ 图片 / HTML 白名单 / LaTeX 公式。"
