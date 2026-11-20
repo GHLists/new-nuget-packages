@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-20T14:24:31.193Z,TzData.Runtime,1.0.0,DotNet-AGPL,"App-local IANA time zone data (tzdata 2026f) for .NET on Linux and macOS. Ships compiled TZif files and sets TZDIR via an explicit TzDataRuntime.Configure() call, so TimeZoneInfo works on Alpine, Chiseled and Distroless images without system tzdata. Windows is a no-op (NLS/registry)."
+2026-11-20T14:24:32.963Z,TzData.Runtime.AutoInit,1.0.0,DotNet-AGPL,Opt-in automatic TZDIR setup for TzData.Runtime. Injects a module initializer into executable projects (Exe/WinExe) so TzDataRuntime.Configure() runs before Main. Does nothing on Windows. Disable with TzDataRuntimeAutoInit=false.
+2026-11-20T14:26:20.58Z,Integrios.Client,0.2.0,Integrios,Consume an Integrios pull Destination from a .NET generic host.
+2026-11-20T14:28:31.38Z,Nocturne.Web,0.1.0,Martin Kirk,"The Nocturne dark theme of Nocturne.Wpf for ASP.NET Core: CSS for every control on an opaque dark ground, a dependency-free script for drop-downs, calendars, menus, tabs, flyouts and dialogs, tag helpers named after the WPF controls, and Material Design Icons."
+2026-11-20T14:39:42.283Z,CoinoLive,1.0.0,Coino Live,.NET library for the Coino Live crypto payment API
+2026-11-20T14:42:25.623Z,Vetta.Connector.SqlServer,0.3.0,Vettvangur,Persistent SQL Server authentication attempt storage for Vetta.Connector.AspNetCore.
+2026-11-20T14:45:34.657Z,Lab.Socle,0.0.1-reserve,Hubaria,Nom réservé. Le paquet Lab.Socle réel est interne au Hubaria Lab et n'est pas publié ici.
+2026-11-20T14:45:56.82Z,Microsoft.JavaScript.NodeApi.Embedding,0.9.43,Microsoft,"Embeds Node.js in .NET apps: brings Microsoft.JavaScript.NodeApi and Microsoft.JavaScript.LibNode (win/linux/osx, x64/arm64)."
+2026-11-20T14:53:56.237Z,HyperDev.Connectors,1.0.0,"Ivan Senatore, Wemake Informatica",HyperDev Fatum Framework
+2026-11-20T14:54:17.62Z,HyperDev.Connectors.Editor,1.0.0,"Ivan Senatore, Wemake Informatica",HyperDev Fatum Framework: server side of the connector editor (@wemake4u/connector-editor)
+2026-11-20T14:54:31.38Z,HyperDev.Connectors.Rest,1.0.0,"Ivan Senatore, Wemake Informatica",HyperDev Fatum Framework
+2026-11-20T14:54:48.533Z,HyperDev.Connectors.Soap,1.0.0,"Ivan Senatore, Wemake Informatica",HyperDev Fatum Framework
+2026-11-20T14:55:01.323Z,HyperDev.Connectors.Sql,1.0.0,"Ivan Senatore, Wemake Informatica",HyperDev Fatum Framework
+2026-11-20T14:59:59.343Z,SqlBranch.Testing,0.2.0,SqlBranch contributors,Private SQL Server database branches for automated tests.

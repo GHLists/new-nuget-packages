@@ -12,20 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:21 UTC
+## Latest list — 2026-11-20 15:22 UTC
 
-New packages created between 2026-11-20 13:20 UTC and 2026-11-20 14:21 UTC.
+New packages created between 2026-11-20 14:21 UTC and 2026-11-20 15:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T14-21-28-525867Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T15-22-21-796705Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 13:22:35 | [Keycloak.Net.Sdk.AspNetCore](https://www.nuget.org/packages/Keycloak.Net.Sdk.AspNetCore) | 1.0.0 | Milad.Rv | ASP.NET Core integration for Keycloak: JWT bearer validation, Keycloak realm an… |
-| 2026-11-20 13:24:28 | [BIMPlugins.MaterialDesign](https://www.nuget.org/packages/BIMPlugins.MaterialDesign) | 5.3.2.1 | Samir Shibliev, MaterialDesig… | Material Design in XAML Toolkit for Revit add-ins, under assembly names of its… |
-| 2026-11-20 13:42:58 | [DotNetRewrite.Engine](https://www.nuget.org/packages/DotNetRewrite.Engine) | 0.1.1 | DotNetRewrite contributors | Host-independent .NET 10 URL rewrite rule parsing and evaluation engine. |
-| 2026-11-20 13:42:59 | [DotNetRewrite](https://www.nuget.org/packages/DotNetRewrite) | 0.1.1 | DotNetRewrite contributors | ASP.NET Core middleware for .NET 10 URL rewriting, redirects, and explicitly au… |
-| 2026-11-20 13:58:36 | [STI.IT2025.G5.H4T6MQXS](https://www.nuget.org/packages/STI.IT2025.G5.H4T6MQXS) | 1.0.0 | STI.IT2025.G5.H4T6MQXS | Package Description |
-| 2026-11-20 14:11:20 | [Anan.Controls.MarkdownTextBlock](https://www.nuget.org/packages/Anan.Controls.MarkdownTextBlock) | 1.0.0 | Ansherly | WinUI 3 的 Markdown 渲染控件，提供Markdig 解析和策略化渲染,支持标题 / 段落 / 引用 / 列表 / 任务列表 / 表格 / 代码… |
+| 2026-11-20 14:24:31 | [TzData.Runtime](https://www.nuget.org/packages/TzData.Runtime) | 1.0.0 | DotNet-AGPL | App-local IANA time zone data (tzdata 2026f) for .NET on Linux and macOS. Ships… |
+| 2026-11-20 14:24:32 | [TzData.Runtime.AutoInit](https://www.nuget.org/packages/TzData.Runtime.AutoInit) | 1.0.0 | DotNet-AGPL | Opt-in automatic TZDIR setup for TzData.Runtime. Injects a module initializer i… |
+| 2026-11-20 14:26:20 | [Integrios.Client](https://www.nuget.org/packages/Integrios.Client) | 0.2.0 | Integrios | Consume an Integrios pull Destination from a .NET generic host. |
+| 2026-11-20 14:28:31 | [Nocturne.Web](https://www.nuget.org/packages/Nocturne.Web) | 0.1.0 | Martin Kirk | The Nocturne dark theme of Nocturne.Wpf for ASP.NET Core: CSS for every control… |
+| 2026-11-20 14:39:42 | [CoinoLive](https://www.nuget.org/packages/CoinoLive) | 1.0.0 | Coino Live | .NET library for the Coino Live crypto payment API |
+| 2026-11-20 14:42:25 | [Vetta.Connector.SqlServer](https://www.nuget.org/packages/Vetta.Connector.SqlServer) | 0.3.0 | Vettvangur | Persistent SQL Server authentication attempt storage for Vetta.Connector.AspNet… |
+| 2026-11-20 14:45:34 | [Lab.Socle](https://www.nuget.org/packages/Lab.Socle) | 0.0.1-reserve | Hubaria | Nom réservé. Le paquet Lab.Socle réel est interne au Hubaria Lab et n'est pas p… |
+| 2026-11-20 14:45:56 | [Microsoft.JavaScript.NodeApi.Embedding](https://www.nuget.org/packages/Microsoft.JavaScript.NodeApi.Embedding) | 0.9.43 | Microsoft | Embeds Node.js in .NET apps: brings Microsoft.JavaScript.NodeApi and Microsoft.… |
+| 2026-11-20 14:53:56 | [HyperDev.Connectors](https://www.nuget.org/packages/HyperDev.Connectors) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
+| 2026-11-20 14:54:17 | [HyperDev.Connectors.Editor](https://www.nuget.org/packages/HyperDev.Connectors.Editor) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework: server side of the connector editor (@wemake4u/connec… |
+| 2026-11-20 14:54:31 | [HyperDev.Connectors.Rest](https://www.nuget.org/packages/HyperDev.Connectors.Rest) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
+| 2026-11-20 14:54:48 | [HyperDev.Connectors.Soap](https://www.nuget.org/packages/HyperDev.Connectors.Soap) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
+| 2026-11-20 14:55:01 | [HyperDev.Connectors.Sql](https://www.nuget.org/packages/HyperDev.Connectors.Sql) | 1.0.0 | Ivan Senatore, Wemake Informa… | HyperDev Fatum Framework |
+| 2026-11-20 14:59:59 | [SqlBranch.Testing](https://www.nuget.org/packages/SqlBranch.Testing) | 0.2.0 | SqlBranch contributors | Private SQL Server database branches for automated tests. |
 
 ## Data source
 
