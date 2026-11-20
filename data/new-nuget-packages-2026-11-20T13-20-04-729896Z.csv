@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-20T12:28:05.363Z,csff,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:29:31.85Z,KKDB.Lib.PrinterAbstract,1.0.0,kkdb,一个用来把zpl语句发送到打印机的nuget包 抽象
+2026-11-20T12:31:04.653Z,AIBirthdayVideoGenerator,0.1.0,AI Birthday Video Generator,"AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window. Official .NET SDK for aibirthdayvideogenerator.com (Seedance 2 Mini, 12s 720p vertical)."
+2026-11-20T12:31:10.057Z,KKDB.Lib.Printer.Tcp,1.0.0,kkdb,一个用来把zpl语句发送到打印机的nuget包 tcp打印机模块
+2026-11-20T12:32:14.99Z,KKDB.Lib.Printer.Raw,1.0.0,kkdb,一个用来把zpl语句发送到打印机的nuget包 windown api打印机模块
+2026-11-20T12:32:49.5Z,KKDB.Lib.Printer.Port,1.0.0,kkdb,一个用来把zpl语句发送到打印机的nuget包 串口打印机模块
+2026-11-20T12:33:13.993Z,KKDB.Lib.Printer,1.0.0,kkdb,一个用来把zpl语句发送到打印机的nuget包
+2026-11-20T12:40:24.257Z,SimplePocketBase,0.1.0,aiinty,Simple asynchronous REST client for PocketBase
+2026-11-20T13:00:38.013Z,XrmMockup.PermissionAnalyzer,1.0.0,Context&,"CLI tool that works out which Dataverse privileges your code needs, by static analysis"
+2026-11-20T13:07:13.507Z,BindOpen.Messages.Dtos.Models,1.3.1,Sumer Team,A package to easily deal with feeds.
