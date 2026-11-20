@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-20T17:31:02.427Z,WhaleGenie.Platform.Windows,0.0.1-alpha1,WhaleGenie.Platform.Windows,鲸灵的 Windows 适配器：键鼠钩子、UI Automation、找图找色、OCR、浏览器、脚本宿主与手柄驱动。
+2026-11-20T17:31:02.523Z,Csag.Extensions.Caching.InMemory,4.0.0,collana solutions AG,"Strongly typed IMemoryCache<TCacheId> with enum cache identifiers, on top of Microsoft.Extensions.Caching.Memory, for single-instance applications."
+2026-11-20T17:31:03.397Z,Csag.Extensions.Caching.Abstractions,4.0.0,collana solutions AG,"Strongly typed caching with enum cache identifiers instead of magic strings: the IMemoryCache<TCacheId> and IDistributedCache<TCacheId> interfaces, their base classes, CacheEntryOptions and the CacheKey attribute. The InMemory, Distributed and RedisHybrid packages implement them."
+2026-11-20T17:31:04.81Z,Csag.Extensions.Caching.Distributed,4.0.0,collana solutions AG,"Strongly typed IDistributedCache<TCacheId> with enum cache identifiers, on top of any registered IDistributedCache provider (Redis, SQL Server, memory and others). Values are serialized with MessagePack, with LZ4 compression on by default."
+2026-11-20T17:31:06.11Z,Csag.Extensions.Caching.RedisHybrid,4.0.0,collana solutions AG,Strongly typed IDistributedCache<TCacheId> with enum cache identifiers that combines a local in-memory cache with Redis and keeps the instances in sync through Redis pub/sub (Foundatio.Redis). Values are serialized with MessagePack.
+2026-11-20T17:37:23.877Z,WhaleGenie.Core,0.0.1-alpha1,WhaleGenie.Core,鲸灵（WhaleGenie）的宏引擎：动作语义、表达式、变量、设备契约与录制翻译。
+2026-11-20T17:37:25.04Z,WhaleGenie.GraphicsCapture,0.0.1-alpha1,WhaleGenie.GraphicsCapture,鲸灵的画面获取：Graphics Capture、桌面复制、GDI 与 PrintWindow，以及会话缓存。
+2026-11-20T17:41:45.963Z,Meai.CostGuard,0.1.0,sergey-mcarrow,"Token-aware rate limiter, cost guard, and automatic fallback middleware for Microsoft.Extensions.AI (IChatClient)."
+2026-11-20T17:43:57.837Z,Bydev.Sdk,0.1.0,한비트 주식회사,데브 라이선스 API 공식 .NET SDK — 디바이스 로그인 · 토큰 회전 · 세션 리스 · licenseToken 검증 · 업데이트 확인
+2026-11-20T17:50:43.657Z,Carahsoft.Calliope.Elm,0.1.0,Carahsoft.Calliope.Elm,"Elm-style F# programs for Carahsoft.Calliope: pure init/update/view, commands, and F# modules for Calliope's components."
+2026-11-20T17:54:19.57Z,Stabilt.TellusTalk.Emulator.Client,0.7.0,Stabilt AB,"Reads what TellusTalk Emulator, a local stand-in for TellusTalk's K8 send API, caught, through the emulator's own API. Not affiliated with TellusTalk."
+2026-11-20T18:13:21.57Z,EmmittJ.Aspire.Hosting.Terraform.Sdk,0.0.9,EmmittJ,Terraform support for Aspire using EmmittJ.Terraform.Sdk.
