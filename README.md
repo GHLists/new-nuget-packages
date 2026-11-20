@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 02:19 UTC
+## Latest list — 2026-11-20 03:20 UTC
 
-New packages created between 2026-11-20 01:20 UTC and 2026-11-20 02:19 UTC.
+New packages created between 2026-11-20 02:19 UTC and 2026-11-20 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T02-19-09-500456Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T03-20-20-962418Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 02:04:55 | [Antd.Wpf.Tokens](https://www.nuget.org/packages/Antd.Wpf.Tokens) | 1.0.0 | Antd.Wpf contributors | antd design tokens (seed to map to alias) ported to C#, with JavaScript-exact r… |
-| 2026-11-20 02:05:04 | [Antd.Wpf.Theme](https://www.nuget.org/packages/Antd.Wpf.Theme) | 1.0.0 | Antd.Wpf contributors | Theme engine for Antd.Wpf: immutable token snapshots, frozen brushes and runtim… |
-| 2026-11-20 02:05:08 | [Antd.Wpf.Icons](https://www.nuget.org/packages/Antd.Wpf.Icons) | 1.0.0 | Antd.Wpf contributors | 847 antd icons as lazily frozen WPF Geometry: outlined, filled and two-tone. |
-| 2026-11-20 02:05:12 | [Antd.Wpf.Controls](https://www.nuget.org/packages/Antd.Wpf.Controls) | 1.0.0 | Antd.Wpf contributors | 69 Ant Design controls for WPF on net48 and net8-windows, token driven, no thir… |
-| 2026-11-20 02:08:53 | [Johnwikix.ScottPlot.D3D12.WPF](https://www.nuget.org/packages/Johnwikix.ScottPlot.D3D12.WPF) | 5.1.60.4 | ScottPlot contributors | Complete ScottPlot WPF Figures rendered with hardware D3D12 through D3DImage, w… |
+| 2026-11-20 02:43:20 | [LiteDriver.Orchestration](https://www.nuget.org/packages/LiteDriver.Orchestration) | 0.2.0 | cnefan31 | LiteDriver 的可视化功能编排库：基于 NanoServer 提供拖拽式编排页面，在线增删改客户端/服务端/协议节点，保存后热应用，无需重启后端服务。 |
+| 2026-11-20 02:48:48 | [Seedream.ImagePairPlanner](https://www.nuget.org/packages/Seedream.ImagePairPlanner) | 0.1.0 | js-upup | Plan subject and background image pairs from a labeled manifest. Report missing… |
+| 2026-11-20 03:02:30 | [NetApiFlow.Testing](https://www.nuget.org/packages/NetApiFlow.Testing) | 0.5.0 | Douglas Lima | Assertions over the flow a request actually took, for integration tests, such a… |
+| 2026-11-20 03:12:09 | [EntityFramework5.Kdbndp](https://www.nuget.org/packages/EntityFramework5.Kdbndp) | 4.5.2.1120 | KingbaseES | 中电科金仓EF5驱动，sqlserver模式专用 |
+| 2026-11-20 03:12:56 | [Seawave.DataBaseHelper](https://www.nuget.org/packages/Seawave.DataBaseHelper) | 1.0.0 | Seawave | Database helper library for .NET 8 |
 
 ## Data source
 

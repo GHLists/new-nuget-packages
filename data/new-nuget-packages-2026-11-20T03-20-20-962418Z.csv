@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-20T02:43:20.33Z,LiteDriver.Orchestration,0.2.0,cnefan31,LiteDriver 的可视化功能编排库：基于 NanoServer 提供拖拽式编排页面，在线增删改客户端/服务端/协议节点，保存后热应用，无需重启后端服务。
+2026-11-20T02:48:48.367Z,Seedream.ImagePairPlanner,0.1.0,js-upup,Plan subject and background image pairs from a labeled manifest. Report missing or duplicate roles before a batch image-combining workflow.
+2026-11-20T03:02:30.49Z,NetApiFlow.Testing,0.5.0,Douglas Lima,"Assertions over the flow a request actually took, for integration tests, such as how many database calls an endpoint makes."
+2026-11-20T03:12:09.617Z,EntityFramework5.Kdbndp,4.5.2.1120,KingbaseES,中电科金仓EF5驱动，sqlserver模式专用
+2026-11-20T03:12:56.773Z,Seawave.DataBaseHelper,1.0.0,Seawave,Database helper library for .NET 8
