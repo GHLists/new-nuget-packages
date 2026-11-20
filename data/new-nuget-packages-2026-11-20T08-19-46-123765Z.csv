@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-20T07:21:42.973Z,Suwgate.Architecture,0.1.0,Manomenu,"The build defaults of a .NET repository (warnings as errors, latest-all analyzers, nullable, banned APIs, the analyzer rules) and architecture guards for its xUnit tests (layers, project references, rules for types, names and files), with the exceptions of suwgate.yml."
+2026-11-20T07:21:43.733Z,Suwgate.Database,0.1.0,Manomenu,"Database guards for the xUnit tests of a .NET application (migration scripts, SQL), with the exceptions of suwgate.yml."
+2026-11-20T07:21:53.437Z,Goo.SoftwareRenderer,0.32.0,Xaz,Optional Mesa lavapipe fallback for Goo on Windows x64 and Linux x64.
+2026-11-20T07:29:36.293Z,NativeSecrets,1.0.1,dja-cobi,"Lightweight, AOT-compatible cross-platform secret storage for .NET with native OS keyring access (Windows Credential Manager, macOS/iOS Keychain, Linux libsecret, Android Keystore) and encrypted file fallback."
+2026-11-20T07:56:10.67Z,NativeCompressions.LZ4.Runtime.linux-musl-arm64,1.3.3,Cysharp,LZ4 native runtime for linux-musl-arm64 (Alpine and other musl distributions).
+2026-11-20T07:56:11.963Z,NativeCompressions.LZ4.Runtime.linux-musl-x64,1.3.3,Cysharp,LZ4 native runtime for linux-musl-x64 (Alpine and other musl distributions).
+2026-11-20T07:56:28.42Z,NativeCompressions.Zstandard.Runtime.linux-musl-arm64,1.3.3,Cysharp,Zstandard native runtime for linux-musl-arm64 (Alpine and other musl distributions).
+2026-11-20T07:56:29.96Z,NativeCompressions.Zstandard.Runtime.linux-musl-x64,1.3.3,Cysharp,Zstandard native runtime for linux-musl-x64 (Alpine and other musl distributions).
+2026-11-20T08:03:03.487Z,Serval.Configuration,0.2.0,Caprine Logic,Dotenv configuration files with explicit key mappings and standard .NET host integration.
