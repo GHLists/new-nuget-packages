@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-20T02:04:55.48Z,Antd.Wpf.Tokens,1.0.0,Antd.Wpf contributors,"antd design tokens (seed to map to alias) ported to C#, with JavaScript-exact rounding so values match theme.getDesignToken()."
+2026-11-20T02:05:04.62Z,Antd.Wpf.Theme,1.0.0,Antd.Wpf contributors,"Theme engine for Antd.Wpf: immutable token snapshots, frozen brushes and runtime light/dark/compact switching."
+2026-11-20T02:05:08.83Z,Antd.Wpf.Icons,1.0.0,Antd.Wpf contributors,"847 antd icons as lazily frozen WPF Geometry: outlined, filled and two-tone."
+2026-11-20T02:05:12.723Z,Antd.Wpf.Controls,1.0.0,Antd.Wpf contributors,"69 Ant Design controls for WPF on net48 and net8-windows, token driven, no third-party dependencies."
+2026-11-20T02:08:53.58Z,Johnwikix.ScottPlot.D3D12.WPF,5.1.60.4,ScottPlot contributors,"Complete ScottPlot WPF Figures rendered with hardware D3D12 through D3DImage, with native MSAA and no raster fallback."

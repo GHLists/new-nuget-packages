@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 01:20 UTC
+## Latest list — 2026-11-20 02:19 UTC
 
-New packages created between 2026-11-20 00:20 UTC and 2026-11-20 01:20 UTC.
+New packages created between 2026-11-20 01:20 UTC and 2026-11-20 02:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T01-20-23-65637Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T02-19-09-500456Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 00:28:15 | [LsMsgPack.SignalR](https://www.nuget.org/packages/LsMsgPack.SignalR) | 2026.11.20.1 | Louis Somers | A MessagePack hub protocol for ASP.NET Core SignalR (server and .NET client) on… |
-| 2026-11-20 01:03:22 | [ForEach.Email.MailKit](https://www.nuget.org/packages/ForEach.Email.MailKit) | 0.1.0 | For-Each Smederevo | MailKit implementation of ForEach.Email.Abstractions: AddMailKitEmail registers… |
-| 2026-11-20 01:03:22 | [ForEach.Email.Abstractions](https://www.nuget.org/packages/ForEach.Email.Abstractions) | 0.1.0 | For-Each Smederevo | IEmailSender and IEmlBuilder: the vendor-neutral contracts for sending one HTML… |
-| 2026-11-20 01:05:44 | [Pulumi.Labs.Anthropic](https://www.nuget.org/packages/Pulumi.Labs.Anthropic) | 0.1.0 | Pulumi Labs | Manage the Anthropic platform as code: Claude Managed Agents, skills, workspace… |
-| 2026-11-20 01:07:54 | [OpenRobot.Edge.Variable.Client](https://www.nuget.org/packages/OpenRobot.Edge.Variable.Client) | 0.2.0 | OpenRobot | 业务变量消费客户端：按稳定引用读取快照、订阅变化、续租，屏蔽 DC / 配置 / 其他 EXE 的来源差异。 |
-| 2026-11-20 01:15:19 | [Moli.Net](https://www.nuget.org/packages/Moli.Net) | 0.1.6 | Moli.Net | Downloads, starts, and stops Moli, a headless browser that speaks CDP. |
+| 2026-11-20 02:04:55 | [Antd.Wpf.Tokens](https://www.nuget.org/packages/Antd.Wpf.Tokens) | 1.0.0 | Antd.Wpf contributors | antd design tokens (seed to map to alias) ported to C#, with JavaScript-exact r… |
+| 2026-11-20 02:05:04 | [Antd.Wpf.Theme](https://www.nuget.org/packages/Antd.Wpf.Theme) | 1.0.0 | Antd.Wpf contributors | Theme engine for Antd.Wpf: immutable token snapshots, frozen brushes and runtim… |
+| 2026-11-20 02:05:08 | [Antd.Wpf.Icons](https://www.nuget.org/packages/Antd.Wpf.Icons) | 1.0.0 | Antd.Wpf contributors | 847 antd icons as lazily frozen WPF Geometry: outlined, filled and two-tone. |
+| 2026-11-20 02:05:12 | [Antd.Wpf.Controls](https://www.nuget.org/packages/Antd.Wpf.Controls) | 1.0.0 | Antd.Wpf contributors | 69 Ant Design controls for WPF on net48 and net8-windows, token driven, no thir… |
+| 2026-11-20 02:08:53 | [Johnwikix.ScottPlot.D3D12.WPF](https://www.nuget.org/packages/Johnwikix.ScottPlot.D3D12.WPF) | 5.1.60.4 | ScottPlot contributors | Complete ScottPlot WPF Figures rendered with hardware D3D12 through D3DImage, w… |
 
 ## Data source
 
