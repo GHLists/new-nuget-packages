@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-20T09:24:24.093Z,STI.IT2025.G4.9UKWDGPJ,1.0.0,STI.IT2025.G4.9UKWDGPJ,Package Description
+2026-11-20T09:28:08.503Z,Sentivium.Trellis.AutoOntology,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:10.04Z,Sentivium.Trellis.Compiler,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:11.623Z,Sentivium.Trellis.Core,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:13.217Z,Sentivium.Trellis.Ledger,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:14.747Z,Sentivium.Trellis.Policy,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:16.22Z,Sentivium.Trellis.Spec,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:17.937Z,Sentivium.Trellis.Substrate,0.1.0,Sentivium Team,Trellis: The Governed Business Operating System for Agentic Fleets
+2026-11-20T09:37:05.89Z,OpenRobot.Edge.Decision,0.1.0,OpenRobot,边端控制方法调用时机编排：规则匹配、条件求值、等待队列。纯逻辑，不依赖平台。
+2026-11-20T09:39:00.293Z,Sharp.OceanBase.EntityFrameworkCore,10.0.0,OceanBase.EntityFrameworkCore,Entity Framework Core provider for OceanBase MySQL and Oracle compatibility modes.
+2026-11-20T09:53:11.67Z,Jun92.FlatBuffers,25.12.19,Google LLC,A cross-platform memory efficient serialization library
+2026-11-20T09:55:09.423Z,MNB.Abstractions,6.0.2,MNB Solutions,MNB Framework Abstractions Library
+2026-11-20T09:55:10.537Z,MNB.AspNetCore,6.0.2,MNB Solutions,MNB Framework AspNetCore Library
+2026-11-20T09:55:11.403Z,MNB.AspNetCore.Media,6.0.2,MNB Solutions,MNB Framework AspNetCore Media Support Library
+2026-11-20T09:55:12.297Z,MNB.AuditLog,6.0.2,MNB Solutions,MNB Framework AuditLog Library
+2026-11-20T09:55:13.177Z,MNB.Core,6.0.2,MNB Solutions,MNB Framework Core Library
+2026-11-20T09:55:14.053Z,MNB.Cqrs,6.0.2,MNB Solutions,MNB Framework CQRS Library
+2026-11-20T09:55:15.197Z,MNB.EFCore.DomainEventDispatcher,6.0.2,MNB Solutions,MNB Framework EF Core Domain Event Dispatcher
+2026-11-20T09:55:16.083Z,MNB.Email,6.0.2,MNB Solutions,MNB Framework Email Library
+2026-11-20T09:55:16.923Z,MNB.Extensions,6.0.2,MNB Solutions,MNB Framework Extensions Library
+2026-11-20T09:55:17.81Z,MNB.Files.AzureStorage,6.0.2,MNB Solutions,MNB Framework File Azure Storage Library
+2026-11-20T09:55:18.68Z,MNB.MediaRenditions,6.0.2,MNB Solutions,MNB Framework Media Renditions Library
+2026-11-20T09:55:19.47Z,MNB.Pdf,6.0.2,MNB Solutions,MNB Framework PDF Client Library
+2026-11-20T09:55:20.337Z,MNB.SharedKernel,6.0.2,MNB Solutions,MNB Framework SharedKernel Library
+2026-11-20T09:55:22.23Z,MNB.Templates,6.0.2,MNB Solutions,MNB Solution Templates
+2026-11-20T10:07:00.867Z,VectraMesh,1.0.0,Mikhail Meltser,High-precision 2D polygon recognition and triangulation engine with multi-level nested hole support.

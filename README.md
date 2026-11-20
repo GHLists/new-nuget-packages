@@ -12,28 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 09:20 UTC
+## Latest list — 2026-11-20 10:19 UTC
 
-New packages created between 2026-11-20 08:19 UTC and 2026-11-20 09:20 UTC.
+New packages created between 2026-11-20 09:20 UTC and 2026-11-20 10:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T09-20-56-230889Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T10-19-24-966441Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 08:31:11 | [NovaWpf.Mcp](https://www.nuget.org/packages/NovaWpf.Mcp) | 2027.1.2 | DGJ | MCP server for AI assistants such as Kiro: the NovaWpf framework rules, the Nov… |
-| 2026-11-20 08:35:30 | [GrayMint.Wallet](https://www.nuget.org/packages/GrayMint.Wallet) | 1.0.1 | GrayMint | A double-entry ledger for PostgreSQL and SQL Server, with tables of its own in… |
-| 2026-11-20 08:35:44 | [Mfarzz.CleanArchitecture.Template](https://www.nuget.org/packages/Mfarzz.CleanArchitecture.Template) | 1.0.0 | Muhammad Fariz | Modern .NET 10 Clean Architecture Monolith Web API Starter Template with CQRS (… |
-| 2026-11-20 08:46:05 | [Aneiang.Yarp.Plugin.FaultInjection](https://www.nuget.org/packages/Aneiang.Yarp.Plugin.FaultInjection) | 2.3.0.40 | AneiangSoft Team | Fault injection plugin for Aneiang.Yarp gateway: adds latency or failures to a… |
-| 2026-11-20 08:46:30 | [Aneiang.Yarp.Templates](https://www.nuget.org/packages/Aneiang.Yarp.Templates) | 2.3.0.40 | AneiangSoft Team | dotnet new templates for Aneiang.Yarp: a gateway with routes, storage and dashb… |
-| 2026-11-20 08:56:36 | [ITBees.OCPP](https://www.nuget.org/packages/ITBees.OCPP) | 8.0.8 | ITBees | OCPP 1.6J (JSON over WebSocket) central system for EV chargers, hosted inside a… |
-| 2026-11-20 08:57:14 | [Fable.Ranvier.D5.Graph3D.Wgpu](https://www.nuget.org/packages/Fable.Ranvier.D5.Graph3D.Wgpu) | 0.5.0 | Ranvier contributors | Browser/Fable adapters and reactive GPU sinks bridging Ranvier.D5.Graph3D layou… |
-| 2026-11-20 08:57:15 | [Fable.Ranvier.D5.Graph3D.Wgpu.Traced](https://www.nuget.org/packages/Fable.Ranvier.D5.Graph3D.Wgpu.Traced) | 0.5.0 | Ranvier contributors | Browser/Fable adapters and reactive GPU sinks bridging Ranvier.D5.Graph3D layou… |
-| 2026-11-20 08:57:19 | [Fable.Ranvier.D5.Wgpu.View](https://www.nuget.org/packages/Fable.Ranvier.D5.Wgpu.View) | 0.5.0 | Ranvier contributors | Browser WebGPU and WebGL2 interactive 3D plot host and multi-pass subplot grid… |
-| 2026-11-20 08:57:20 | [Fable.Ranvier.D5.Wgpu.View.Traced](https://www.nuget.org/packages/Fable.Ranvier.D5.Wgpu.View.Traced) | 0.5.0 | Ranvier contributors | Browser WebGPU and WebGL2 interactive 3D plot host and multi-pass subplot grid… |
-| 2026-11-20 08:57:31 | [Ranvier.D5.Graph3D.Wgpu](https://www.nuget.org/packages/Ranvier.D5.Graph3D.Wgpu) | 0.5.0 | Ranvier contributors | Adapters and reactive GPU sinks bridging Ranvier.D5.Graph3D layouts directly to… |
-| 2026-11-20 08:57:32 | [Ranvier.D5.Graph3D.Wgpu.Traced](https://www.nuget.org/packages/Ranvier.D5.Graph3D.Wgpu.Traced) | 0.5.0 | Ranvier contributors | Adapters and reactive GPU sinks bridging Ranvier.D5.Graph3D layouts directly to… |
-| 2026-11-20 09:06:52 | [Defra.Livestock.Sdk.Core](https://www.nuget.org/packages/Defra.Livestock.Sdk.Core) | 0.2.0 | Defra | Shared building blocks for Livestock Information Service (LIS) .NET services, i… |
-| 2026-11-20 09:07:19 | [Jtext103.CFET2.Things.PlcDmmAI](https://www.nuget.org/packages/Jtext103.CFET2.Things.PlcDmmAI) | 1.1.1 | Jtext103 | CFET2 IBasicAI driver for reading DMM6500 data buffered by a Siemens S7-1500 PL… |
+| 2026-11-20 09:24:24 | [STI.IT2025.G4.9UKWDGPJ](https://www.nuget.org/packages/STI.IT2025.G4.9UKWDGPJ) | 1.0.0 | STI.IT2025.G4.9UKWDGPJ | Package Description |
+| 2026-11-20 09:28:08 | [Sentivium.Trellis.AutoOntology](https://www.nuget.org/packages/Sentivium.Trellis.AutoOntology) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:28:10 | [Sentivium.Trellis.Compiler](https://www.nuget.org/packages/Sentivium.Trellis.Compiler) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:28:11 | [Sentivium.Trellis.Core](https://www.nuget.org/packages/Sentivium.Trellis.Core) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:28:13 | [Sentivium.Trellis.Ledger](https://www.nuget.org/packages/Sentivium.Trellis.Ledger) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:28:14 | [Sentivium.Trellis.Policy](https://www.nuget.org/packages/Sentivium.Trellis.Policy) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:28:16 | [Sentivium.Trellis.Spec](https://www.nuget.org/packages/Sentivium.Trellis.Spec) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:28:17 | [Sentivium.Trellis.Substrate](https://www.nuget.org/packages/Sentivium.Trellis.Substrate) | 0.1.0 | Sentivium Team | Trellis: The Governed Business Operating System for Agentic Fleets |
+| 2026-11-20 09:37:05 | [OpenRobot.Edge.Decision](https://www.nuget.org/packages/OpenRobot.Edge.Decision) | 0.1.0 | OpenRobot | 边端控制方法调用时机编排：规则匹配、条件求值、等待队列。纯逻辑，不依赖平台。 |
+| 2026-11-20 09:39:00 | [Sharp.OceanBase.EntityFrameworkCore](https://www.nuget.org/packages/Sharp.OceanBase.EntityFrameworkCore) | 10.0.0 | OceanBase.EntityFrameworkCore | Entity Framework Core provider for OceanBase MySQL and Oracle compatibility mod… |
+| 2026-11-20 09:53:11 | [Jun92.FlatBuffers](https://www.nuget.org/packages/Jun92.FlatBuffers) | 25.12.19 | Google LLC | A cross-platform memory efficient serialization library |
+| 2026-11-20 09:55:09 | [MNB.Abstractions](https://www.nuget.org/packages/MNB.Abstractions) | 6.0.2 | MNB Solutions | MNB Framework Abstractions Library |
+| 2026-11-20 09:55:10 | [MNB.AspNetCore](https://www.nuget.org/packages/MNB.AspNetCore) | 6.0.2 | MNB Solutions | MNB Framework AspNetCore Library |
+| 2026-11-20 09:55:11 | [MNB.AspNetCore.Media](https://www.nuget.org/packages/MNB.AspNetCore.Media) | 6.0.2 | MNB Solutions | MNB Framework AspNetCore Media Support Library |
+| 2026-11-20 09:55:12 | [MNB.AuditLog](https://www.nuget.org/packages/MNB.AuditLog) | 6.0.2 | MNB Solutions | MNB Framework AuditLog Library |
+| 2026-11-20 09:55:13 | [MNB.Core](https://www.nuget.org/packages/MNB.Core) | 6.0.2 | MNB Solutions | MNB Framework Core Library |
+| 2026-11-20 09:55:14 | [MNB.Cqrs](https://www.nuget.org/packages/MNB.Cqrs) | 6.0.2 | MNB Solutions | MNB Framework CQRS Library |
+| 2026-11-20 09:55:15 | [MNB.EFCore.DomainEventDispatcher](https://www.nuget.org/packages/MNB.EFCore.DomainEventDispatcher) | 6.0.2 | MNB Solutions | MNB Framework EF Core Domain Event Dispatcher |
+| 2026-11-20 09:55:16 | [MNB.Email](https://www.nuget.org/packages/MNB.Email) | 6.0.2 | MNB Solutions | MNB Framework Email Library |
+| 2026-11-20 09:55:16 | [MNB.Extensions](https://www.nuget.org/packages/MNB.Extensions) | 6.0.2 | MNB Solutions | MNB Framework Extensions Library |
+| 2026-11-20 09:55:17 | [MNB.Files.AzureStorage](https://www.nuget.org/packages/MNB.Files.AzureStorage) | 6.0.2 | MNB Solutions | MNB Framework File Azure Storage Library |
+| 2026-11-20 09:55:18 | [MNB.MediaRenditions](https://www.nuget.org/packages/MNB.MediaRenditions) | 6.0.2 | MNB Solutions | MNB Framework Media Renditions Library |
+| 2026-11-20 09:55:19 | [MNB.Pdf](https://www.nuget.org/packages/MNB.Pdf) | 6.0.2 | MNB Solutions | MNB Framework PDF Client Library |
+| 2026-11-20 09:55:20 | [MNB.SharedKernel](https://www.nuget.org/packages/MNB.SharedKernel) | 6.0.2 | MNB Solutions | MNB Framework SharedKernel Library |
+| 2026-11-20 09:55:22 | [MNB.Templates](https://www.nuget.org/packages/MNB.Templates) | 6.0.2 | MNB Solutions | MNB Solution Templates |
+| 2026-11-20 10:07:00 | [VectraMesh](https://www.nuget.org/packages/VectraMesh) | 1.0.0 | Mikhail Meltser | High-precision 2D polygon recognition and triangulation engine with multi-level… |
 
 ## Data source
 
