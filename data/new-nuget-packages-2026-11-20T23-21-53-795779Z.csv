@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-20T22:25:53.743Z,Eternet.WebAutomation.Parser.Contracts,1.0.0,Eternet,Gateway contracts for the bank statement parser.
+2026-11-20T22:27:19.87Z,UIAGen,1.0.0,Piotr Filipowicz,"Build-time code generator that turns Windows COM Type Libraries (TLB/DLL/EXE/ProgID) into statically typed, Native AOT-compatible C# adapters for .NET 10."
+2026-11-20T22:32:38.01Z,ManiaAPI.Dedimania,2.11.0,BigBang1112,Wrapper for the Dedimania records API (dedimania.net). Part of the ManiaAPI.NET library set.
+2026-11-20T22:47:31.553Z,Mediana.Codecs.Pnm,0.1.31,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-20T22:47:35.893Z,Mediana.Images.Metadata,0.1.31,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-20T22:47:39.67Z,Mediana.Codecs.Tga,0.1.31,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-20T22:47:41.533Z,Mediana.Codecs.OpenExr,0.1.31,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-20T22:47:43.51Z,Mediana.Codecs.Qoi,0.1.31,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-20T23:07:53.81Z,Dataverse.Fluent.Testing,1.2.0,Craig Franchuk,"A fake transport for unit testing code that uses Dataverse.Fluent: route requests to canned responses and errors, answer $batch requests, and assert on the exact requests the real builders send."
+2026-11-20T23:07:54.53Z,Dataverse.Fluent.Schema,1.2.0,Craig Franchuk,"Checks Dataverse.Fluent models against an environment's metadata: columns, types, lookups, navigation properties, entity sets and read-only markers. Run it in an integration test or CI, or from the dataverse-fluent tool. Metadata is read at test time only; the client never needs it."
+2026-11-20T23:07:56.43Z,Dataverse.Fluent.Tool,1.2.0,Craig Franchuk,"The dataverse-fluent command: checks a project's Dataverse.Fluent models against an environment's metadata, and fixes the mechanical mistakes (lookup navigation properties and target entity sets, polymorphic targets, read-only markers) in the source."
+2026-11-20T23:09:05.04Z,Instatus.Otel,0.1.0,Instatus,"Error tracking, logs, traces and metrics for .NET apps, built on OpenTelemetry, with the Sentry SDK's API. Errors show up in Instatus Errors with their .NET stack, user, tags and release."
