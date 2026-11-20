@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-20T06:20:32.937Z,TKCode.Arc.StreamMark,1.3.0,TKCode.Arc contributors,"StreamMark: streaming Markdown rendering for Avalonia, built for AI chat. The core (append-only source buffer, incomplete-markdown repair, segmenter, block model, pacing) and the self-drawn controls (MarkdownView, MarkdownStream, the virtualizing TranscriptView, selection). NativeAOT safe, no WebVi…"
+2026-11-20T06:20:33.81Z,TKCode.Arc.StreamMark.TextMate,1.3.0,TKCode.Arc contributors,TextMate-based incremental syntax highlighting for StreamMark code blocks (TextMateSharp and its grammars).
+2026-11-20T06:20:34.763Z,TKCode.Arc.StreamMark.RaTeX,1.3.0,TKCode.Arc contributors,"LaTeX math for StreamMark through the RaTeX native engine (KaTeX-compatible layout). The native library ships under runtimes/<rid>/native for Windows, macOS and Linux (x64, arm64); the KaTeX fonts are embedded."
+2026-11-20T06:20:35.387Z,TKCode.Arc.StreamMark.Mermaid,1.3.0,TKCode.Arc contributors,"Mermaid diagrams for StreamMark (Mermaider and Svg.Skia), drawn without a browser."
+2026-11-20T06:45:48.74Z,Nikno.ApiResult,1.0.0,Nikno,Unified API response result wrapper tool
+2026-11-20T06:53:53.78Z,VisioForge.CrossPlatform.RealSense.Windows.x64,2026.11.17,VisioForge,"Intel RealSense depth camera support package for VisioForge .NET SDKs: colour, depth and infrared streams of D400-family cameras through librealsense 2.58.1 (Apache License 2.0)."
+2026-11-20T06:54:54.993Z,RazvanApps.McpServer.Blueprint,1.0.0,Razvan Mares,"Production-ready .NET 10 MCP server blueprint with stdio and Streamable HTTP transports, typed tools, trust-boundary checks, and Official MCP Registry support."

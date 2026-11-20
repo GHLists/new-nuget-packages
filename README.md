@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 06:19 UTC
+## Latest list — 2026-11-20 07:21 UTC
 
-New packages created between 2026-11-20 05:22 UTC and 2026-11-20 06:19 UTC.
+New packages created between 2026-11-20 06:19 UTC and 2026-11-20 07:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-20T06-19-22-012939Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-20T07-21-23-071769Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-20 05:22:48 | [Devinno.UI.Scene3D](https://www.nuget.org/packages/Devinno.UI.Scene3D) | 0.8.0 | Devinno | 3D view for Devinno.UI: shows a glTF model and moves, colors and picks its part… |
-| 2026-11-20 05:31:00 | [Zlink.Framework.Locations.Etcd](https://www.nuget.org/packages/Zlink.Framework.Locations.Etcd) | 0.33.0 | Zlink.Framework.Locations.Etcd | Official etcd Location Store provider for the ZLink .NET framework. |
+| 2026-11-20 06:20:32 | [TKCode.Arc.StreamMark](https://www.nuget.org/packages/TKCode.Arc.StreamMark) | 1.3.0 | TKCode.Arc contributors | StreamMark: streaming Markdown rendering for Avalonia, built for AI chat. The c… |
+| 2026-11-20 06:20:33 | [TKCode.Arc.StreamMark.TextMate](https://www.nuget.org/packages/TKCode.Arc.StreamMark.TextMate) | 1.3.0 | TKCode.Arc contributors | TextMate-based incremental syntax highlighting for StreamMark code blocks (Text… |
+| 2026-11-20 06:20:34 | [TKCode.Arc.StreamMark.RaTeX](https://www.nuget.org/packages/TKCode.Arc.StreamMark.RaTeX) | 1.3.0 | TKCode.Arc contributors | LaTeX math for StreamMark through the RaTeX native engine (KaTeX-compatible lay… |
+| 2026-11-20 06:20:35 | [TKCode.Arc.StreamMark.Mermaid](https://www.nuget.org/packages/TKCode.Arc.StreamMark.Mermaid) | 1.3.0 | TKCode.Arc contributors | Mermaid diagrams for StreamMark (Mermaider and Svg.Skia), drawn without a brows… |
+| 2026-11-20 06:45:48 | [Nikno.ApiResult](https://www.nuget.org/packages/Nikno.ApiResult) | 1.0.0 | Nikno | Unified API response result wrapper tool |
+| 2026-11-20 06:53:53 | [VisioForge.CrossPlatform.RealSense.Windows.x64](https://www.nuget.org/packages/VisioForge.CrossPlatform.RealSense.Windows.x64) | 2026.11.17 | VisioForge | Intel RealSense depth camera support package for VisioForge .NET SDKs: colour,… |
+| 2026-11-20 06:54:54 | [RazvanApps.McpServer.Blueprint](https://www.nuget.org/packages/RazvanApps.McpServer.Blueprint) | 1.0.0 | Razvan Mares | Production-ready .NET 10 MCP server blueprint with stdio and Streamable HTTP tr… |
 
 ## Data source
 
