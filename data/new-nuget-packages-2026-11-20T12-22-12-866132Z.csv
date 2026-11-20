@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-11-20T11:32:09.723Z,Digizuite.Sdk.Attributes,6.7.0,Digizuite.Sdk.Attributes,Package Description
+2026-11-20T11:33:08.137Z,bora399.CacheShield.Application,1.0.0,Bora Saltık,Hybrid L1/L2 caching orchestration with fail-open Redis handling and origin-aware invalidation for CacheShield.
+2026-11-20T11:33:09.213Z,bora399.CacheShield.Core,1.0.0,Bora Saltık,"Core contracts, O(1) thread-safe LRU cache, and singleflight stampede lock for CacheShield."
+2026-11-20T11:33:10.587Z,bora399.CacheShield.Extensions.DependencyInjection,1.0.0,Bora Saltık,Dependency injection extensions (AddCacheShield) and option validation for CacheShield.
+2026-11-20T11:33:11.907Z,bora399.CacheShield.Infrastructure.Redis,1.0.0,Bora Saltık,"StackExchange.Redis L2 cache, Pub/Sub backplane, and UTF-8 JSON serializer for CacheShield."
+2026-11-20T11:35:06.76Z,EasyTypeFactory.HyperbeeExpressionCompiler,1.0.1,banator99,EasyTypeFactory helps you with creating types fluently in .NET.
+2026-11-20T11:35:07.123Z,EasyTypeFactory,1.0.1,banator99,EasyTypeFactory helps you with creating types fluently in .NET.
+2026-11-20T11:35:21.63Z,TecalisSoftware.Identity.SDK,1.1.0,Tecalis Software,Tecalis Identity SDK
+2026-11-20T11:48:10.627Z,Molib,0.1.0,Molib,"Extensions for Gum UI on MonoGame: motion, layers, scrolling, scaling."
+2026-11-20T11:52:06.103Z,Mittena,0.1.0,Mittena,Official .NET SDK for the Mittena email API.
+2026-11-20T11:56:57.467Z,FlameFox666.FSMGodot,1.0.1,FlameFox666,Finite State Machine for Godot Engine 4.x
+2026-11-20T12:00:15.347Z,Sentivium.Trellis.SDK,0.2.0,Sentivium Team,Unified .NET SDK for Trellis: The Governed Business Operating System for Agentic Fleets.
+2026-11-20T12:02:37.457Z,SpeakerForge,1.0.0,Stephen White,"SpeakerForge - standalone .NET engine for discovering and streaming audio to network speakers (UPnP/DLNA, Google Cast, AirPlay). Zero dependencies, no UI required."
+2026-11-20T12:05:58.727Z,csff.any,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:06:00.227Z,csff.linux-arm64,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:06:01.63Z,csff.linux-musl-arm64,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:06:03.097Z,csff.linux-musl-x64,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:06:04.45Z,csff.linux-x64,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:06:05.92Z,csff.osx-arm64,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:06:07.327Z,csff.win-arm64,0.1.0,Takumi Kuroda,A fast C# formatter CLI written in F#.
+2026-11-20T12:08:15.21Z,D4S.Mcp.Server,1.0.0,Dev4Side,Entra-secured stateless MCP hosting with validated per-request D4S user context.
