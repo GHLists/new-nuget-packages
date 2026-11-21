@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 08:20 UTC
+## Latest list — 2026-11-21 09:21 UTC
 
-New packages created between 2026-11-21 07:21 UTC and 2026-11-21 08:20 UTC.
+New packages created between 2026-11-21 08:20 UTC and 2026-11-21 09:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T08-20-48-528654Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T09-21-35-424401Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 07:23:30 | [Closient.Client](https://www.nuget.org/packages/Closient.Client) | 0.0.1 | Closient | Closient: placeholder package reserving the name. SDK coming soon. |
-| 2026-11-21 07:31:06 | [MyMathLibTuzova](https://www.nuget.org/packages/MyMathLibTuzova) | 1.0.0 | ТвоёИмя | Библиотека с примерами public и internal методов |
-| 2026-11-21 07:37:41 | [CodexFlow.Storage.EntityFramework](https://www.nuget.org/packages/CodexFlow.Storage.EntityFramework) | 0.1.19 | iwaitu | Entity Framework adapters for managed CodexFlow hosts that share a relational c… |
-| 2026-11-21 08:02:16 | [Duxel.Gallery](https://www.nuget.org/packages/Duxel.Gallery) | 0.3.0-preview | dimohy | Duxel controls and graphics gallery. |
-| 2026-11-21 08:10:15 | [Jtext103.CFET2.Things.MDSplusServerThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.MDSplusServerThing) | 1.0.1 | MDSplusServerThing | Package Description |
-| 2026-11-21 08:13:06 | [Progmasoft.Tazel.Dsl](https://www.nuget.org/packages/Progmasoft.Tazel.Dsl) | 0.1.0 | Progmasoft | The types MODULE.csx and BUILD.csx files of Tazel are written against. |
-| 2026-11-21 08:13:16 | [Progmasoft.Tazel.PluginSdk](https://www.nuget.org/packages/Progmasoft.Tazel.PluginSdk) | 0.1.0 | Progmasoft | The MSBuild project SDK of Tazel plugins: it references the plugin API, checks… |
-| 2026-11-21 08:13:20 | [Progmasoft.Tazel.PluginTemplates](https://www.nuget.org/packages/Progmasoft.Tazel.PluginTemplates) | 0.1.0 | Progmasoft | dotnet new tazel-plugin: a Tazel plugin with a build step. |
+| 2026-11-21 08:42:09 | [Snap7.NetCore](https://www.nuget.org/packages/Snap7.NetCore) | 2.0.0 | Giant150 | Managed Siemens S7 PLC communication component for .NET 10 (byte read/write onl… |
+| 2026-11-21 08:58:56 | [Sevencat.ImageFacade.Avalonia.SimdAIO](https://www.nuget.org/packages/Sevencat.ImageFacade.Avalonia.SimdAIO) | 0.1.0 | ImageFacade contributors | ImageFacade 的 Avalonia.SimdAIO 后端：配合 Sevencat.Avalonia.SimdAIO 宿主使用，图像处理走纯托管的 S… |
+| 2026-11-21 09:02:24 | [OpenByd](https://www.nuget.org/packages/OpenByd) | 0.1.2 | openbyd contributors | Unofficial client for the BYD overseas app API, with a Rust core |
 
 ## Data source
 

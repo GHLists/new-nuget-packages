@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-21T08:42:09.203Z,Snap7.NetCore,2.0.0,Giant150,Managed Siemens S7 PLC communication component for .NET 10 (byte read/write only).
+2026-11-21T08:58:56.753Z,Sevencat.ImageFacade.Avalonia.SimdAIO,0.1.0,ImageFacade contributors,ImageFacade 的 Avalonia.SimdAIO 后端：配合 Sevencat.Avalonia.SimdAIO 宿主使用，图像处理走纯托管的 SimdSkia 兼容门面。与 ImageFacade.SimdSkia 二选一。
+2026-11-21T09:02:24.357Z,OpenByd,0.1.2,openbyd contributors,"Unofficial client for the BYD overseas app API, with a Rust core"
