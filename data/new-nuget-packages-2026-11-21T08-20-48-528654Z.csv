@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-21T07:23:30.787Z,Closient.Client,0.0.1,Closient,Closient: placeholder package reserving the name. SDK coming soon.
+2026-11-21T07:31:06.933Z,MyMathLibTuzova,1.0.0,ТвоёИмя,Библиотека с примерами public и internal методов
+2026-11-21T07:37:41.017Z,CodexFlow.Storage.EntityFramework,0.1.19,iwaitu,Entity Framework adapters for managed CodexFlow hosts that share a relational context.
+2026-11-21T08:02:16.307Z,Duxel.Gallery,0.3.0-preview,dimohy,Duxel controls and graphics gallery.
+2026-11-21T08:10:15.263Z,Jtext103.CFET2.Things.MDSplusServerThing,1.0.1,MDSplusServerThing,Package Description
+2026-11-21T08:13:06.667Z,Progmasoft.Tazel.Dsl,0.1.0,Progmasoft,The types MODULE.csx and BUILD.csx files of Tazel are written against.
+2026-11-21T08:13:16.153Z,Progmasoft.Tazel.PluginSdk,0.1.0,Progmasoft,"The MSBuild project SDK of Tazel plugins: it references the plugin API, checks the plugin, and makes its .tazel.tar.xz on dotnet pack."
+2026-11-21T08:13:20.823Z,Progmasoft.Tazel.PluginTemplates,0.1.0,Progmasoft,dotnet new tazel-plugin: a Tazel plugin with a build step.
