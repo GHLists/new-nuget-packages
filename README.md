@@ -12,22 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 04:19 UTC
+## Latest list — 2026-11-21 05:21 UTC
 
-New packages created between 2026-11-21 03:19 UTC and 2026-11-21 04:19 UTC.
+New packages created between 2026-11-21 04:19 UTC and 2026-11-21 05:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T04-19-40-710974Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T05-21-18-962635Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 03:22:50 | [SinoMatrix.HanXin](https://www.nuget.org/packages/SinoMatrix.HanXin) | 0.4.2 | 码界工坊 | 汉信码（Han Xin Code，GB/T 21049 / ISO/IEC 20830）编码与识别，Windows x64、Linux x64、Linux A… |
-| 2026-11-21 03:25:44 | [Plugin.Maui.NativeSwipeMenu](https://www.nuget.org/packages/Plugin.Maui.NativeSwipeMenu) | 1.0.0-preview2 | Ed Giardina | A CollectionView with platform-native swipe actions: UIContextualAction on iOS… |
-| 2026-11-21 03:43:34 | [Plasm.Templates](https://www.nuget.org/packages/Plasm.Templates) | 0.1.0 | Plasm contributors | dotnet new plasm-api: an F# domain and its data access on Plasm.Postgres, a C#… |
-| 2026-11-21 03:43:34 | [Plasm.Postgres](https://www.nuget.org/packages/Plasm.Postgres) | 0.1.0 | Plasm contributors | PostgreSQL provider for Plasm (Npgsql). Experimental. |
-| 2026-11-21 03:43:35 | [Plasm.HotChocolate](https://www.nuget.org/packages/Plasm.HotChocolate) | 0.1.0 | Plasm contributors | Hot Chocolate over Plasm: GraphQL filter and sort input types generated from fi… |
-| 2026-11-21 03:43:35 | [Plasm](https://www.nuget.org/packages/Plasm) | 0.1.0 | Plasm contributors | Persistence for F# that stores the domain's own records: conventions for scalar… |
-| 2026-11-21 03:43:36 | [Plasm.Annotations](https://www.nuget.org/packages/Plasm.Annotations) | 0.1.0 | Plasm contributors | The attributes a record uses to say how Plasm stores it: Table, Unique, Version… |
-| 2026-11-21 03:58:26 | [Dloizides.ServiceDefaults.FastEndpoints](https://www.nuget.org/packages/Dloizides.ServiceDefaults.FastEndpoints) | 0.1.0 | DLoizides | Add-on to Dloizides.ServiceDefaults: FastEndpoints with the house route prefix… |
+| 2026-11-21 04:57:01 | [Meziantou.Framework.Graphviz](https://www.nuget.org/packages/Meziantou.Framework.Graphviz) | 1.0.0 | meziantou | Reads the DOT language of Graphviz into the flowcharts of Meziantou.Framework.D… |
+| 2026-11-21 04:58:28 | [RetroAchievementsSharp.Cli](https://www.nuget.org/packages/RetroAchievementsSharp.Cli) | 1.1.0 | Peterson Fernandes,Pure Logic… | A cross-platform .NET tool for RetroAchievements hashing. Native C# port of the… |
+| 2026-11-21 05:03:32 | [Kiji.Runtime.linux-x64](https://www.nuget.org/packages/Kiji.Runtime.linux-x64) | 0.8.0 | zzzkan | Precompiled code of Kiji for linux-x64. Restored with Kiji for a site that buil… |
+| 2026-11-21 05:03:33 | [Kiji.Runtime.osx-arm64](https://www.nuget.org/packages/Kiji.Runtime.osx-arm64) | 0.8.0 | zzzkan | Precompiled code of Kiji for osx-arm64. Restored with Kiji for a site that buil… |
+| 2026-11-21 05:03:34 | [Kiji.Runtime.linux-arm64](https://www.nuget.org/packages/Kiji.Runtime.linux-arm64) | 0.8.0 | zzzkan | Precompiled code of Kiji for linux-arm64. Restored with Kiji for a site that bu… |
+| 2026-11-21 05:03:35 | [Kiji.Runtime.win-arm64](https://www.nuget.org/packages/Kiji.Runtime.win-arm64) | 0.8.0 | zzzkan | Precompiled code of Kiji for win-arm64. Restored with Kiji for a site that buil… |
+| 2026-11-21 05:03:35 | [Kiji.Runtime.win-x64](https://www.nuget.org/packages/Kiji.Runtime.win-x64) | 0.8.0 | zzzkan | Precompiled code of Kiji for win-x64. Restored with Kiji for a site that builds… |
+| 2026-11-21 05:03:36 | [Kiji.Runtime.osx-x64](https://www.nuget.org/packages/Kiji.Runtime.osx-x64) | 0.8.0 | zzzkan | Precompiled code of Kiji for osx-x64. Restored with Kiji for a site that builds… |
 
 ## Data source
 

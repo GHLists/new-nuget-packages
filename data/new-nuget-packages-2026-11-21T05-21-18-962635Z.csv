@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-21T04:57:01.3Z,Meziantou.Framework.Graphviz,1.0.0,meziantou,"Reads the DOT language of Graphviz into the flowcharts of Meziantou.Framework.Diagrams, drawn as deterministic SVG without Graphviz, and writes flowcharts as DOT: nodes, edges, clusters, shapes, styles, colors, record and HTML-like labels."
+2026-11-21T04:58:28.483Z,RetroAchievementsSharp.Cli,1.1.0,"Peterson Fernandes,Pure Logic Code","A cross-platform .NET tool for RetroAchievements hashing. Native C# port of the RAHasher/rcheevos hashing engine with PS3, CHD, RVZ/WIA, 3DS, cartridge, disc, zip, and m3u support."
+2026-11-21T05:03:32.55Z,Kiji.Runtime.linux-x64,0.8.0,zzzkan,Precompiled code of Kiji for linux-x64. Restored with Kiji for a site that builds for this runtime; not referenced directly.
+2026-11-21T05:03:33.48Z,Kiji.Runtime.osx-arm64,0.8.0,zzzkan,Precompiled code of Kiji for osx-arm64. Restored with Kiji for a site that builds for this runtime; not referenced directly.
+2026-11-21T05:03:34.243Z,Kiji.Runtime.linux-arm64,0.8.0,zzzkan,Precompiled code of Kiji for linux-arm64. Restored with Kiji for a site that builds for this runtime; not referenced directly.
+2026-11-21T05:03:35.167Z,Kiji.Runtime.win-arm64,0.8.0,zzzkan,Precompiled code of Kiji for win-arm64. Restored with Kiji for a site that builds for this runtime; not referenced directly.
+2026-11-21T05:03:35.917Z,Kiji.Runtime.win-x64,0.8.0,zzzkan,Precompiled code of Kiji for win-x64. Restored with Kiji for a site that builds for this runtime; not referenced directly.
+2026-11-21T05:03:36.653Z,Kiji.Runtime.osx-x64,0.8.0,zzzkan,Precompiled code of Kiji for osx-x64. Restored with Kiji for a site that builds for this runtime; not referenced directly.
