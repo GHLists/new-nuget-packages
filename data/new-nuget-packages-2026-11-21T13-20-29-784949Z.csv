@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-21T12:21:05.98Z,PilotClientSdk,2.1.4,PilotOpenTools,"Общий модуль для клиентских модулей Pilot: статистика использования (Grafana), проверка загрузки модулей и общие методы SDK. Только для компиляции: в клиенте сборку загружает модуль Pilot.ClientSdk."
+2026-11-21T12:22:43.99Z,Bitzsoft.Integrations.AI.Knowledge,1.2.0,Bitzsoft,企业知识检索与租户感知 RAG 编排层 — IKnowledgeStore Seam、Qdrant Adapter、访问控制、RRF 混合重排与引用上下文（替代原 Bitzsoft.Integrations.RAG）
+2026-11-21T12:22:57.753Z,Bitzsoft.Integrations.AI.Mcp,1.2.0,Bitzsoft,安全的 MCP Client 与 Server 双端集成 — 支持 Streamable HTTP、stdio、工具白名单、多租户凭据解析、PAT 认证与 Epoch 治理缓存（替代原 Bitzsoft.Integrations.McpServer）
+2026-11-21T12:23:31.247Z,Bitzsoft.Integrations.AI.Hermes,1.2.0,Bitzsoft,Bitzsoft AI-Hermes 智能体运行时 Harness 核心包 — 承载多阶段生命周期钩子管线、大结果旁路产物仓、跨数据集十进制分析引擎、工具依赖图谱剪枝、Goal 核查与 OpenTelemetry 可观测性基础设施
+2026-11-21T12:23:46.573Z,Bitzsoft.Integrations.AI.Agents,1.2.0,Bitzsoft,Microsoft Agent Framework 统一集成 — Provider-neutral Agent、BitzAgentBuilder、会话持久化桥接、技能与上下文供给、长任务续传、HITL 审批与迭代循环编排（替代原 Bitzsoft.Integrations.AgentFramework）
+2026-11-21T12:24:32.853Z,Bitzsoft.Integrations.AI.All,1.2.0,Bitzsoft,Bitzsoft AI 套件 1.2.0 独立运行期聚合元包 — 一键引入全部 11 个活跃 Bitzsoft.Integrations.AI.* 运行期包（不含已弃用旧包、不含 Ocr 与 AI.Testing）
+2026-11-21T12:37:21.11Z,oneAPI.OSPRay.NET.runtime.win,3.2.0,Chiretallyn,Native Windows (win-x64) runtime binaries for oneAPI.OSPRay.NET (Intel OSPRay 3.2.0).
+2026-11-21T12:39:59.353Z,oneAPI.OSPRay.NET.runtime.osx,3.2.0,Chiretallyn,Native macOS (osx-arm64 Apple Silicon and osx-x64 Intel) runtime binaries for oneAPI.OSPRay.NET (Intel OSPRay 3.2.0).
+2026-11-21T12:42:13.933Z,ExecutionFlow.Extensions.Logging,2.0.0,Gustavo Viana,Microsoft.Extensions.Logging (ILogger) integration for ExecutionFlow handler logs
+2026-11-21T12:42:15.65Z,ExecutionFlow.Hosting,2.0.0,Gustavo Viana,"Runs ExecutionFlow recurring handlers inside the .NET Generic Host, locally and without Hangfire"
+2026-11-21T12:51:08.87Z,ControlBoxForCustom,1.0.0,ControlBoxForCustom,コントロールボックスをツールボックスでドラッグしてドロップして設置するだけで 使えるパッケージです。 各ボックスタイプにネイティブヒットテストも付いています。 Windows 11だと、MaximizeRestoreButtonをホバーすると SnapLayoutsが出ます。 HTMAXBUTTON HTCLOSE HTMINBUTTON の影響で、ホバー時の色変化はできません。（今後のアップデートが来るかもしれません。）
+2026-11-21T12:52:59.91Z,Revit.Themes,0.1.0,Kristoffer Tungland,"Revit's own light and dark theme colors for WPF add-in windows, read from the running Revit, with optional Revit-like control styles."
+2026-11-21T13:12:46.577Z,FlyAotOrm.Abstractions,1.0.0,FlyAotOrm contributors,FlyAotOrm 是 NativeAOT 优先的轻量级 ORM，适合 AI 辅助开发的工具类和小型应用。本包提供实体映射特性与公共契约，配合 Core 和 Generator 使用，通过编译期生成代码减少运行时复杂性。
+2026-11-21T13:15:33.79Z,FlyAotOrm.Generator,1.0.0,FlyAotOrm contributors,FlyAotOrm 是 NativeAOT 优先的轻量级 ORM，适合 AI 辅助开发的工具类和小型应用。本包在编译期生成实体元数据、类型化表和列、CRUD、Repository 与 DTO 映射代码，配合 Core 使用，无需运行时反射映射。
