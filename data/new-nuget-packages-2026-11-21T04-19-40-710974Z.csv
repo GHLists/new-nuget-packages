@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-21T03:22:50.293Z,SinoMatrix.HanXin,0.4.2,码界工坊,汉信码（Han Xin Code，GB/T 21049 / ISO/IEC 20830）编码与识别，Windows x64、Linux x64、Linux ARM64（麒麟、统信、鲲鹏、飞腾等），离线运行。支持 .NET Framework 4.x、.NET Core 3.x、.NET 5/6/8。需要卖家按设备签发的授权文件 license.lic，可先申请 14 天免费试用。
+2026-11-21T03:25:44.893Z,Plugin.Maui.NativeSwipeMenu,1.0.0-preview2,Ed Giardina,A CollectionView with platform-native swipe actions: UIContextualAction on iOS and ItemTouchHelper on Android.
+2026-11-21T03:43:34.66Z,Plasm.Templates,0.1.0,Plasm contributors,"dotnet new plasm-api: an F# domain and its data access on Plasm.Postgres, a C# minimal API that publishes with native AOT, and C# tests, each in a sandbox."
+2026-11-21T03:43:34.87Z,Plasm.Postgres,0.1.0,Plasm contributors,PostgreSQL provider for Plasm (Npgsql). Experimental.
+2026-11-21T03:43:35.233Z,Plasm.HotChocolate,0.1.0,Plasm contributors,"Hot Chocolate over Plasm: GraphQL filter and sort input types generated from fields declared in F#, and the where and order a request gives applied in the database. Experimental."
+2026-11-21T03:43:35.887Z,Plasm,0.1.0,Plasm contributors,"Persistence for F# that stores the domain's own records: conventions for scalars and unions, owned and linked lists loaded with their owner, compiler-checked queries, typed transactions. Experimental."
+2026-11-21T03:43:36.263Z,Plasm.Annotations,0.1.0,Plasm contributors,"The attributes a record uses to say how Plasm stores it: Table, Unique, Version, Generated, Assigned, NotReference, OrderedBy and JoinTable. No dependencies beyond FSharp.Core, and compiled by Fable from its sources, so a domain shared with a browser client can carry them. Experimental."
+2026-11-21T03:58:26.713Z,Dloizides.ServiceDefaults.FastEndpoints,0.1.0,DLoizides,"Add-on to Dloizides.ServiceDefaults: FastEndpoints with the house route prefix and JSON settings, plus the Keycloak OAuth2 PKCE Swagger UI served under its own docs Content-Security-Policy."
