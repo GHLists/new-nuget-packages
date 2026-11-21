@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-21T14:22:04.647Z,Tinos.Api.Common,1.0.0-alpha,Tinos API contributors,The common API for Tinos
+2026-11-21T14:22:32.52Z,Dst.Api.Handler,2.0.1,DST,"Production-ready .NET 8 generic HTTP API and File handler library with unified ApiResponseModel<T>, sync/async methods, automatic JWT Bearer token injection via ITokenProvider, and comprehensive exception handling."
+2026-11-21T14:53:58.11Z,FlowPDF,1.0.0,Edwin Abreu & FlowPDF Contributors,"Enterprise reporting and document generation engine for .NET. Features a Fluent Builder API, strongly-typed AST, remote HTTP client, native vector charts, custom TTF font embedding, and ultra-fast in-process native rendering powered by the Rust core with embedded win-x64 and linux-x64 runtimes."
+2026-11-21T14:54:57.897Z,Font.Metadata,1.0.0,Dmitry Garavsky,"Read SFNT/TTC, WOFF, WOFF2 and EOT font metadata on .NET 10 with partial results, structured diagnostics and separate license evidence analysis."
+2026-11-21T14:54:59.55Z,Font.Metadata.Spdx,1.0.0,Dmitry Garavsky,Source-preserving SPDX analysis of decoded font license records and external license documents.
+2026-11-21T14:55:01.26Z,Font.Metadata.Tool,1.0.0,Dmitry Garavsky,Inspect font metadata and explicitly supplied license documents with plain or JSON reports.
+2026-11-21T15:06:07.807Z,MachinaXX.Chassis.Backup.GoogleDrive,4.4.1,Alan Benington,Google Drive (Shared Drive) store for the MachinaXX.Chassis database backup's remote copy
+2026-11-21T15:08:31.24Z,Fable.Lit.Dsl.Metrino,1.0.0,Jordan Marr,Metrino (Windows Phone / Windows 8 Metro design system) web component bindings for Fable.Lit.Dsl. Provides strongly-typed F# DSL elements for building Metro-style UIs with Fable.Lit.

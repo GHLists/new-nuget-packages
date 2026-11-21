@@ -12,23 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 14:20 UTC
+## Latest list — 2026-11-21 15:21 UTC
 
-New packages created between 2026-11-21 13:20 UTC and 2026-11-21 14:20 UTC.
+New packages created between 2026-11-21 14:20 UTC and 2026-11-21 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T14-20-28-269943Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T15-21-45-109875Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 13:21:00 | [BouncyHsm.Aspire.Hosting](https://www.nuget.org/packages/BouncyHsm.Aspire.Hosting) | 2.4.0 | harrison314 - Jozef Gajdos | Package Description |
-| 2026-11-21 13:30:15 | [O24Engine](https://www.nuget.org/packages/O24Engine) | 2.5.50 | Linh Nguyen | Nền tảng thư viện dùng chung cho các dự án O24. |
-| 2026-11-21 13:37:46 | [Milvasoft.BulkExtensions](https://www.nuget.org/packages/Milvasoft.BulkExtensions) | 11.0.2 | Milvasoft Corporation | Provider independent bulk operations (insert, update, delete, upsert, read, sav… |
-| 2026-11-21 13:37:57 | [Kebechet.Types.Health](https://www.nuget.org/packages/Kebechet.Types.Health) | 6.0.0 | Kebechet | The health data types of Kebechet.Maui.Health (DTOs, enums, results, workout se… |
-| 2026-11-21 13:38:11 | [Milvasoft.BulkExtensions.PostgreSql](https://www.nuget.org/packages/Milvasoft.BulkExtensions.PostgreSql) | 11.0.2 | Milvasoft Corporation | PostgreSQL provider for Milvasoft.BulkExtensions. Bulk insert, update, delete,… |
-| 2026-11-21 13:43:05 | [Antinet](https://www.nuget.org/packages/Antinet) | 0.1.0 | Anet | The local Antinet service from .NET: Microsoft.Extensions.AI and the OpenAI cli… |
-| 2026-11-21 13:49:08 | [Dackel.Log](https://www.nuget.org/packages/Dackel.Log) | 1.0.1 | Dackel Lab | Dackel.Log: componente de logging estruturado para APIs .NET 8 e .NET 10 com Se… |
-| 2026-11-21 14:08:27 | [Cruma.Tron.Runner](https://www.nuget.org/packages/Cruma.Tron.Runner) | 0.1.0 | Cruma | Runner SDK for Tron: connect with a worker API key, announce handlers, accept w… |
-| 2026-11-21 14:08:59 | [MeengDev.Sdk](https://www.nuget.org/packages/MeengDev.Sdk) | 0.1.0 | Meeng.dev | Meeng.dev's SDK for .NET: emails, domains, contacts, contact books, campaigns,… |
+| 2026-11-21 14:22:04 | [Tinos.Api.Common](https://www.nuget.org/packages/Tinos.Api.Common) | 1.0.0-alpha | Tinos API contributors | The common API for Tinos |
+| 2026-11-21 14:22:32 | [Dst.Api.Handler](https://www.nuget.org/packages/Dst.Api.Handler) | 2.0.1 | DST | Production-ready .NET 8 generic HTTP API and File handler library with unified… |
+| 2026-11-21 14:53:58 | [FlowPDF](https://www.nuget.org/packages/FlowPDF) | 1.0.0 | Edwin Abreu & FlowPDF Contrib… | Enterprise reporting and document generation engine for .NET. Features a Fluent… |
+| 2026-11-21 14:54:57 | [Font.Metadata](https://www.nuget.org/packages/Font.Metadata) | 1.0.0 | Dmitry Garavsky | Read SFNT/TTC, WOFF, WOFF2 and EOT font metadata on .NET 10 with partial result… |
+| 2026-11-21 14:54:59 | [Font.Metadata.Spdx](https://www.nuget.org/packages/Font.Metadata.Spdx) | 1.0.0 | Dmitry Garavsky | Source-preserving SPDX analysis of decoded font license records and external li… |
+| 2026-11-21 14:55:01 | [Font.Metadata.Tool](https://www.nuget.org/packages/Font.Metadata.Tool) | 1.0.0 | Dmitry Garavsky | Inspect font metadata and explicitly supplied license documents with plain or J… |
+| 2026-11-21 15:06:07 | [MachinaXX.Chassis.Backup.GoogleDrive](https://www.nuget.org/packages/MachinaXX.Chassis.Backup.GoogleDrive) | 4.4.1 | Alan Benington | Google Drive (Shared Drive) store for the MachinaXX.Chassis database backup's r… |
+| 2026-11-21 15:08:31 | [Fable.Lit.Dsl.Metrino](https://www.nuget.org/packages/Fable.Lit.Dsl.Metrino) | 1.0.0 | Jordan Marr | Metrino (Windows Phone / Windows 8 Metro design system) web component bindings… |
 
 ## Data source
 
