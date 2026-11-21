@@ -12,23 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 20:21 UTC
+## Latest list — 2026-11-21 21:20 UTC
 
-New packages created between 2026-11-21 19:20 UTC and 2026-11-21 20:21 UTC.
+New packages created between 2026-11-21 20:21 UTC and 2026-11-21 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T20-21-01-191662Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T21-20-32-166282Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 19:28:03 | [GSharp.CodeAnalysis.Transformations](https://www.nuget.org/packages/GSharp.CodeAnalysis.Transformations) | 0.5.767 | David Obando | Data-defined code fixes for GSharp (ADR-0227 D6): transformation programs, thei… |
-| 2026-11-21 19:29:55 | [ResultUnion](https://www.nuget.org/packages/ResultUnion) | 0.1.0 | Giorgi Kaldani | A Result pattern for .NET built on C# 15 unions: Result<T>, Result and Error wi… |
-| 2026-11-21 19:29:56 | [ResultUnion.Grpc](https://www.nuget.org/packages/ResultUnion.Grpc) | 0.1.0 | Giorgi Kaldani | gRPC integration for ResultUnion: Error to and from google.rpc.Status (ErrorInf… |
-| 2026-11-21 19:29:57 | [ResultUnion.AspNetCore](https://www.nuget.org/packages/ResultUnion.AspNetCore) | 0.1.0 | Giorgi Kaldani | ASP.NET Core integration for ResultUnion: typed Minimal API results (Results<Ok… |
-| 2026-11-21 19:47:52 | [MusicTheory.Abc](https://www.nuget.org/packages/MusicTheory.Abc) | 3.0.0 | phmatray | ABC notation for MusicTheory: reads single-voice ABC tunes into spelled notes,… |
-| 2026-11-21 19:47:54 | [MusicTheory.ChordPro](https://www.nuget.org/packages/MusicTheory.ChordPro) | 3.0.0 | phmatray | ChordPro for MusicTheory: parses chord sheets into lines and chord segments and… |
-| 2026-11-21 19:47:58 | [MusicTheory.Midi](https://www.nuget.org/packages/MusicTheory.Midi) | 3.0.0 | phmatray | Standard MIDI files for MusicTheory: writes measures, a tempo map and a key as… |
-| 2026-11-21 19:48:00 | [MusicTheory.MusicXml](https://www.nuget.org/packages/MusicTheory.MusicXml) | 3.0.0 | phmatray | MusicXML for MusicTheory: writes measures, key, meter and title as partwise Mus… |
-| 2026-11-21 20:11:06 | [MinimalRabbit.FanOperations.FileBased](https://www.nuget.org/packages/MinimalRabbit.FanOperations.FileBased) | 0.0.14-alpha | dotnetKyle | Add fan operations to MinimalRabbit. This package adds fan operations that are… |
+| 2026-11-21 20:30:51 | [TQLApp.Plugins.YouTrack](https://www.nuget.org/packages/TQLApp.Plugins.YouTrack) | 0.11.0 | Pieter van Ginkel | Techie's Quick Launcher plugin for YouTrack by JetBrains. |
+| 2026-11-21 20:36:31 | [KatziPackage](https://www.nuget.org/packages/KatziPackage) | 1.0.0 | AaronoLW | Simple library for parsing .kpg (KatziPackage) files |
+| 2026-11-21 20:39:51 | [MagicCSharp.Generators](https://www.nuget.org/packages/MagicCSharp.Generators) | 1.1.1 | MagicCSharp Contributors | Source generators for a MagicCSharp codebase. The compiler writes use case inte… |
+| 2026-11-21 20:39:52 | [MagicCSharp.Clients](https://www.nuget.org/packages/MagicCSharp.Clients) | 1.1.1 | MagicCSharp Contributors | Typed HTTP clients for calling another service, written by the compiler: mark a… |
+| 2026-11-21 20:39:56 | [MagicCSharp.Testing.Clients](https://www.nuget.org/packages/MagicCSharp.Testing.Clients) | 1.1.1 | MagicCSharp Contributors | Checks MagicCSharp clients against the service they call: a server's test proje… |
+| 2026-11-21 20:46:43 | [Egehan.Cli](https://www.nuget.org/packages/Egehan.Cli) | 0.1.0 | Bedirhan Gurler | Turn a project's git history into a living chronicle — offline, deterministic,… |
+| 2026-11-21 21:00:40 | [Sundew.Injection](https://www.nuget.org/packages/Sundew.Injection) | 0.1.0 | Kim Hugener-Ohlsen | Sundew.Injection is a dependency injection framework, that generates factories… |
+| 2026-11-21 21:04:21 | [GrayMint.Common.Acme](https://www.nuget.org/packages/GrayMint.Common.Acme) | 2.1.315 | GrayMint | Let's Encrypt certificates over ACME's HTTP-01 challenge: the account, the orde… |
+| 2026-11-21 21:06:23 | [FakeEmailPro](https://www.nuget.org/packages/FakeEmailPro) | 0.1.0 | fake-email.pro | The official .NET client for the fake-email.pro API: create a disposable mailbo… |
 
 ## Data source
 
