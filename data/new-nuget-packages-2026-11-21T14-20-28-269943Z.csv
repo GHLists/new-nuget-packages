@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-21T13:21:00.147Z,BouncyHsm.Aspire.Hosting,2.4.0,harrison314 - Jozef Gajdos,Package Description
+2026-11-21T13:30:15.18Z,O24Engine,2.5.50,Linh Nguyen,Nền tảng thư viện dùng chung cho các dự án O24.
+2026-11-21T13:37:46.17Z,Milvasoft.BulkExtensions,11.0.2,Milvasoft Corporation,"Provider independent bulk operations (insert, update, delete, upsert, read, save changes) for Entity Framework Core. Install a provider package such as Milvasoft.BulkExtensions.PostgreSql to use it."
+2026-11-21T13:37:57.32Z,Kebechet.Types.Health,6.0.0,Kebechet,"The health data types of Kebechet.Maui.Health (DTOs, enums, results, workout sessions) without MAUI, for code that a MAUI app shares with a watch app or a backend."
+2026-11-21T13:38:11.233Z,Milvasoft.BulkExtensions.PostgreSql,11.0.2,Milvasoft Corporation,"PostgreSQL provider for Milvasoft.BulkExtensions. Bulk insert, update, delete, upsert, read and save changes for Entity Framework Core with Npgsql, using binary COPY."
+2026-11-21T13:43:05.16Z,Antinet,0.1.0,Anet,"The local Antinet service from .NET: Microsoft.Extensions.AI and the OpenAI client over its pipe or socket, the decision loop and typed decisions"
+2026-11-21T13:49:08.04Z,Dackel.Log,1.0.1,Dackel Lab,"Dackel.Log: componente de logging estruturado para APIs .NET 8 e .NET 10 com Serilog em JSON compacto, correlação por traceId (W3C), sanitização de dados sensíveis, cadeia recursiva de exceções e middlewares de correlação e logging de exceções."
+2026-11-21T14:08:27.157Z,Cruma.Tron.Runner,0.1.0,Cruma,"Runner SDK for Tron: connect with a worker API key, announce handlers, accept work, and report Ok or Err. Protocol messages are generated from Tron's published AsyncAPI document."
+2026-11-21T14:08:59.623Z,MeengDev.Sdk,0.1.0,Meeng.dev,"Meeng.dev's SDK for .NET: emails, domains, contacts, contact books, campaigns, analytics and webhooks."
