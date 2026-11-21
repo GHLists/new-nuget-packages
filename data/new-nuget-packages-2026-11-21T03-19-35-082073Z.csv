@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-21T02:27:15.83Z,AdaskoTheBeAsT.Interop.Execution.AspNetCore,3.0.0,"Adam ""AdaskoTheBeAsT"" Pluciński","ASP.NET Core minimal-API and diagnostics integration for AdaskoTheBeAsT.Interop.Execution: endpoint filters and IExceptionHandler mapping execution timeouts, capacity rejections, disposal, client disconnects, and argument errors to ProblemDetails, AOT-safe leak-free worker/pool diagnostics DTOs and…"
+2026-11-21T02:50:15.78Z,fynydd.umbraco.search.postgres,18.0.0,Fynydd LLC,Postgres and pgvector storage for Umbraco semantic search.
+2026-11-21T02:52:53.837Z,Nedo.Agentic.Policy,0.1.0,PT. Sinergi Dimensi Informatika,"Tool-policy decision of the Nedo Agentic platform: allow, deny or hold one tool operation from the catalog, the organization policy, the organization and project rules, the agent, the task and the call context."
