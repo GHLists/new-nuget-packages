@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-21T09:40:22.57Z,Sevencat.ImageFacade.Avalonia.Win64Aio,0.6.0,ImageFacade contributors,ImageFacade 的 Avalonia.Win64Aio 后端：Avalonia 宿主已经合并了真 SkiaSharp（含原生 libSkiaSharp），这里直接复用同一份 SkiaSharp 适配代码。与 ImageFacade.SkiaSharp 二选一。
+2026-11-21T09:40:44.587Z,Sevencat.ImageFacade.SimdSkia,0.6.0,ImageFacade contributors,ImageFacade 的 SimdSkia 后端：纯托管的 SkiaSharp 兼容实现，不依赖 SkiaSharp / HarfBuzz 原生库，适合 AOT 与零原生依赖部署。内含两个后端：SimdSkiaBackend（编解码走 SKCodec 兼容层，读写 PNG/JPEG/BMP/GIF/WebP/ICO，支持 FromPixels 的 wrap:true 零拷贝）与 SoftwareBackend（编解码走 Sdcb.SimdCodecs 聚合门面，PNG/JPEG/BMP/GIF/WebP/TIFF/ICO/QOI/PNM，无需注册）。
+2026-11-21T09:40:47.147Z,GameBananaSdk,1.0.0,ArchLeaders,Semi-dynamic SDK for the GameBanana API
+2026-11-21T09:43:19.467Z,SiemensS7.NetCore,2.0.0,Giant,Communicate with Siemens PLC using the S7 protocol. 使用S7协议与西门子PLC通讯
+2026-11-21T09:44:30.097Z,Cratis.Showrunner.Operations,2.17.1,Cratis,"Operations for Showrunner — a reusable watchdog that checks a Kubernetes deployment, confirms what it finds, and delivers alerts to Discord, email, Healthchecks and Cratis Direct."
+2026-11-21T09:44:33.9Z,Cratis.Showrunner.StageManager.Pulumi,2.17.1,Cratis,"Stage Manager for Pulumi — typed Pulumi components that declare the Stage Manager Production, Performance and Understudy custom resources, with the Kubernetes Secrets they name, instead of YAML templates and token filling."
+2026-11-21T09:57:37.647Z,HTLLeonding.Utility.LeoUnion,1.0.0,M. Haslinger,"Generic ad-hoc union types for C# 15: Union<T1, ..., T10>, plus marker types for common outcomes (Success, NotFound, Conflict, Error)"
+2026-11-21T10:02:11.603Z,NpgsqlRest.Mcp,1.2.1,Vedran Bilopavlović,MCP (Model Context Protocol) server for NpgsqlRest — projects opted-in PostgreSQL routines as MCP tools. Implements MCP 2025-11-25.
+2026-11-21T10:09:26.75Z,Suwbackkit.Testing,0.3.0,Manomenu,"Test helpers for ASP.NET Core backends: recreate and drop a PostgreSQL test database (only one whose name says test), and capture the logs a test server writes."
+2026-11-21T10:15:10.027Z,FM.Dotgit.osx-arm64,0.1.0,Fakhrulhilal Maktum,Git repository toolkit: clone and update many repositories at once.
+2026-11-21T10:15:17.35Z,FM.Dotclock.linux-x64,0.1.0,Fakhrulhilal Maktum,Clockify from the command line: bulk-add time entries and view timesheets.
+2026-11-21T10:15:20.53Z,FM.Dotclock.osx-arm64,0.1.0,Fakhrulhilal Maktum,Clockify from the command line: bulk-add time entries and view timesheets.
+2026-11-21T10:15:21.507Z,FM.Dotclock,0.1.0,Fakhrulhilal Maktum,Clockify from the command line: bulk-add time entries and view timesheets.
+2026-11-21T10:15:22.12Z,FM.Dotkafka,0.1.0,Fakhrulhilal Maktum,Kafka and Schema Registry toolkit: produce messages and manage topics.
