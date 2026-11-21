@@ -12,25 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 22:18 UTC
+## Latest list — 2026-11-21 23:19 UTC
 
-New packages created between 2026-11-21 21:20 UTC and 2026-11-21 22:18 UTC.
+New packages created between 2026-11-21 22:18 UTC and 2026-11-21 23:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T22-18-45-138995Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T23-19-22-315257Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 21:27:33 | [SbsReport](https://www.nuget.org/packages/SbsReport) | 1.0.0 | Sobis | Modern, hızlı, Web Designer IDE ve Viewer destekli .sbs raporlama kütüphanesi (… |
-| 2026-11-21 21:30:18 | [compujuckel.Serilog.Sinks.Journald](https://www.nuget.org/packages/compujuckel.Serilog.Sinks.Journald) | 1.0.1 | compujuckel | Serilog sink that writes log events to the systemd journal. |
-| 2026-11-21 21:33:28 | [GrayMint.TlsCertificates](https://www.nuget.org/packages/GrayMint.TlsCertificates) | 1.0.1 | GrayMint | TLS certificates for the domains an app serves, from Let's Encrypt or another A… |
-| 2026-11-21 21:37:19 | [TensorStack.OnnxRuntime.LLM](https://www.nuget.org/packages/TensorStack.OnnxRuntime.LLM) | 0.15.1 | sa_ddam213 | Text generation, speech recognition, text to speech and vision-language pipelin… |
-| 2026-11-21 21:38:34 | [Nev.Core](https://www.nuget.org/packages/Nev.Core) | 1.0.0 | Chris Varley | Nev is a .NET library for fast, structured decision support. You can use it for… |
-| 2026-11-21 21:49:09 | [Blazix.Primitives](https://www.nuget.org/packages/Blazix.Primitives) | 0.1.0 | Blazix | Unstyled, accessible Blazor primitives. Bring your own CSS. |
-| 2026-11-21 21:49:10 | [Blazix.Cli](https://www.nuget.org/packages/Blazix.Cli) | 0.1.0 | Blazix | Copies Blazix's styled Blazor components into your project as source you own. |
-| 2026-11-21 21:49:54 | [ZeroCSharp.Templates](https://www.nuget.org/packages/ZeroCSharp.Templates) | 0.1.0 | Zero C# contributors | dotnet new zero (a native program) and dotnet new zerolib (a library) for zero-… |
-| 2026-11-21 21:49:57 | [ZeroCSharp.Bflat.linux-x64](https://www.nuget.org/packages/ZeroCSharp.Bflat.linux-x64) | 0.1.0 | Zero C# contributors | bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for linux-x64… |
-| 2026-11-21 21:49:58 | [ZeroCSharp.Sdk](https://www.nuget.org/packages/ZeroCSharp.Sdk) | 0.1.0 | Zero C# contributors | Zero-mode C#: C# compiled to small native programs with no .NET runtime. Use as… |
-| 2026-11-21 21:50:01 | [ZeroCSharp.Bflat.linux-arm64](https://www.nuget.org/packages/ZeroCSharp.Bflat.linux-arm64) | 0.1.0 | Zero C# contributors | bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for linux-arm… |
+| 2026-11-21 22:24:17 | [BorrowedTorch.Engine.AdditionalFeatures](https://www.nuget.org/packages/BorrowedTorch.Engine.AdditionalFeatures) | 1.1.3 | Vladyslav Pysarenko | Kindling, Borrowed Torch's game engine: its additional features - sound, post e… |
+| 2026-11-21 22:24:22 | [Bashka.Plugins.Themes.TurboVisionDark](https://www.nuget.org/packages/Bashka.Plugins.Themes.TurboVisionDark) | 1.0.8 | Evgeny Gorbovoy | Dark theme for Bashka based on Turbo Vision compatible theme. |
+| 2026-11-21 22:39:34 | [Subrange](https://www.nuget.org/packages/Subrange) | 0.1.1 | Qluxzz | Subrange types for .NET: a number type that only holds values within its bounds… |
+| 2026-11-21 22:39:34 | [Subrange.Swashbuckle](https://www.nuget.org/packages/Subrange.Swashbuckle) | 0.1.1 | Qluxzz | Documents Subrange types in Swashbuckle OpenAPI schemas as the integers and num… |
+| 2026-11-21 22:47:03 | [ResultUnion.FluentValidation](https://www.nuget.org/packages/ResultUnion.FluentValidation) | 0.2.0 | Giorgi Kaldani | FluentValidation integration for ResultUnion: a ValidationResult becomes a Resu… |
+| 2026-11-21 22:47:04 | [CefKit](https://www.nuget.org/packages/CefKit) | 0.1.0 | CefKit contributors | .NET binding to the Chromium Embedded Framework C API for Windows and Linux x64… |
+| 2026-11-21 23:00:59 | [Meziantou.Framework.Email](https://www.nuget.org/packages/Meziantou.Framework.Email) | 1.0.0 | meziantou | Reads and writes email, contact and calendar files. Outlook data files (PST and… |
 
 ## Data source
 
