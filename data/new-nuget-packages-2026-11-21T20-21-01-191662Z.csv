@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-21T19:28:03.71Z,GSharp.CodeAnalysis.Transformations,0.5.767,David Obando,"Data-defined code fixes for GSharp (ADR-0227 D6): transformation programs, their JSON schema and the provider that interprets them."
+2026-11-21T19:29:55.943Z,ResultUnion,0.1.0,Giorgi Kaldani,"A Result pattern for .NET built on C# 15 unions: Result<T>, Result and Error with typed categories, railway composition (Map, Bind, Ensure, Tap, Match), async pipelines, CombineAll validation and exception boundaries."
+2026-11-21T19:29:56.507Z,ResultUnion.Grpc,0.1.0,Giorgi Kaldani,"gRPC integration for ResultUnion: Error to and from google.rpc.Status (ErrorInfo, BadRequest, RetryInfo), GetValueOrThrowRpc for services and RpcException.ToError for clients."
+2026-11-21T19:29:57.1Z,ResultUnion.AspNetCore,0.1.0,Giorgi Kaldani,"ASP.NET Core integration for ResultUnion: typed Minimal API results (Results<Ok<T>, ProblemHttpResult>) and RFC 9457 problem details with field errors, codes and arguments."
+2026-11-21T19:47:52.11Z,MusicTheory.Abc,3.0.0,phmatray,"ABC notation for MusicTheory: reads single-voice ABC tunes into spelled notes, durations and measures."
+2026-11-21T19:47:54.067Z,MusicTheory.ChordPro,3.0.0,phmatray,ChordPro for MusicTheory: parses chord sheets into lines and chord segments and writes them back byte for byte.
+2026-11-21T19:47:58.83Z,MusicTheory.Midi,3.0.0,phmatray,"Standard MIDI files for MusicTheory: writes measures, a tempo map and a key as a format 1 file."
+2026-11-21T19:48:00.683Z,MusicTheory.MusicXml,3.0.0,phmatray,"MusicXML for MusicTheory: writes measures, key, meter and title as partwise MusicXML 4.0 with System.Xml.Linq."
+2026-11-21T20:11:06.947Z,MinimalRabbit.FanOperations.FileBased,0.0.14-alpha,dotnetKyle,Add fan operations to MinimalRabbit. This package adds fan operations that are saved on the file system.
