@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-21T17:29:00.87Z,PgBolt.Abstractions,0.1.0,nightNo1r,"PgBolt job contracts, client API, source generator and analyzers."
+2026-11-21T17:29:01.707Z,PgBolt.Postgres,0.1.0,nightNo1r,"PostgreSQL job storage, migrations and producer API for PgBolt."
+2026-11-21T17:29:02.633Z,PgBolt.Server,0.1.0,nightNo1r,"Hosted workers, queue scheduling and job execution for PgBolt."
+2026-11-21T17:29:03.59Z,PgBolt.Dashboard,0.1.0,nightNo1r,Embeddable ASP.NET Core dashboard for PgBolt (Razor components + htmx).
+2026-11-21T17:29:04.483Z,PgBolt.OpenTelemetry,0.1.0,nightNo1r,"OpenTelemetry instrumentation for PgBolt: trace source, meter and histogram buckets."
+2026-11-21T17:34:52.813Z,TubeSharp,26.11.0-ea,Boba,"A lightweight, strongly typed YouTube metadata client powered by the Innertube API."
+2026-11-21T17:39:42.357Z,PocketCsvReader.NetTopologySuite,2.79.0,Cédric L. Charlier,Opt-in WKT and GeoJSON geometry parsers for PocketCsvReader.
+2026-11-21T17:56:54.627Z,Hermex.Testing,2.3.0,Suresh Subramanian,"Test helper for Hermex: wait for the email your app sends, then read its subject, body, HTML and links. Works with WebApplicationFactory or any running Hermex host. No dependencies."
+2026-11-21T18:00:20.31Z,Suwbackkit.Cli,0.5.0,Manomenu,"The skeleton of a .NET command line that talks to a Suwbackkit server: the server address from named sources, the server's refusals read, a web page opened, and the command tree walked."
+2026-11-21T18:03:37.097Z,LifeAstroApi,0.1.0,Ayanshu Life,"Official .NET client for LifeAstroAPI (https://lifeastroapi.com), the Vedic astrology and Hindu calendar REST API: panchang, festivals, kundli, dasha, kundli matching, muhurat, transits, horoscopes, numerology, Lal Kitab, remedies, readings and JSON reports in English and 9 Indian languages, plus W…"
+2026-11-21T18:03:38.363Z,LifeAstroApi.Extensions.DependencyInjection,0.1.0,Ayanshu Life,"Registers the LifeAstroAPI .NET client (package LifeAstroApi) in Microsoft.Extensions.DependencyInjection: services.AddLifeAstro(configuration.GetSection(""LifeAstroApi"")) binds the options from appsettings.json, sends requests through IHttpClientFactory and registers one shared, thread-safe LifeAst…"
+2026-11-21T18:10:08.207Z,NetPdfKit.Core,1.1.0,Ssewannonda Keith Edwin,"Create, view, and manage PDF files with one fluent API. Lean core without image, SVG or barcode dependencies; add NetPdfKit.Svg, NetPdfKit.Barcodes or NetPdfKit.Rendering as needed, or install NetPdfKit for everything."
+2026-11-21T18:12:58.39Z,MattEland.HopeLab.Themes.Tokens,0.1.12,Matt Eland,"The HopeLab theme token model: the shared token contract, theme token files, colour maths (contrast, ΔE), and the generators that write Avalonia resource dictionaries and CSS from them."
