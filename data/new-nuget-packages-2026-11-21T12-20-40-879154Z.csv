@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-21T11:32:31.607Z,PenCsharpener.FsrsSharp,6.0.0,penCsharpener,"C# port of ts-fsrs 6.0.0: the Free Spaced Repetition Scheduler (FSRS-3, 4, 4.5, 5, 6, 7) with a composable scheduler/middleware kit and the legacy v5 API."
+2026-11-21T11:40:58.963Z,oneAPI.OIDN.NET,2.5.1,Chiretallyn,"Idiomatic, zero-overhead .NET bindings for Intel Open Image Denoise 2.5.1 (AI ray-tracing denoising). Provides a Vortice-style managed API (IDisposable, Span<T>) alongside full ClangSharp-generated P/Invoke bindings and bundled native runtimes for win-x64, linux-x64, osx-arm64 (Metal), and osx-x64."
+2026-11-21T11:55:12.037Z,PerataSh.Sdk,0.5.9,Peráta,"Peráta's SDK for .NET: products, customers, checkouts, payments, subscriptions and webhooks."
+2026-11-21T12:12:13.353Z,Vespertan.Toolkit,1.0.0,siwydym67,Package Description
