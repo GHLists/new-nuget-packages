@@ -1,0 +1,13 @@
+created_at,package,version,authors,description
+2026-11-21T16:33:05.067Z,Alexpivo394.Revit.Families.Files,1.0.0,Alexpivo394,"Revit family library without Revit: file hash, type catalog parser, library scan and the rules that tell what happened to files between two scans."
+2026-11-21T16:33:06.003Z,Alexpivo394.Revit.Families.Revit,2027.1.0,Alexpivo394,"UI-free Revit reader of a family document: category, placement, types with their values, parameters and a preview image."
+2026-11-21T16:33:57.567Z,Freenaute.Freebox.Client,1.0.0,AriusII,Fluent Freebox Server HTTP client with dependency injection and NativeAOT-compatible contracts.
+2026-11-21T16:34:19.22Z,SwiftDispatch.EntityFrameworkCore,2.1.0,Kamyab Valipour,Attribute-selected Entity Framework Core transactions for SwiftDispatch requests.
+2026-11-21T16:34:20.16Z,SwiftDispatch.FluentValidation,2.1.0,Kamyab Valipour,Asynchronous FluentValidation request pipeline integration for SwiftDispatch.
+2026-11-21T16:39:23.1Z,DotFluent.Optional,1.0.0,Michael Holler,"A companion package to DotFluent that adds Option<T> and Result<T> / Result<TValue, TError> discriminated unions — functional patterns for expressing optional values and operation outcomes without using null or exceptions for control flow."
+2026-11-21T17:06:58.22Z,AutoNormalize.Abstractions,1.0.0,DotNet.AutoNormalize Contributors,"Core abstractions, interfaces, and declarative attributes for DotNet.AutoNormalize."
+2026-11-21T17:06:59.4Z,AutoNormalize.AspNetCore,1.0.0,DotNet.AutoNormalize Contributors,"Unified ASP.NET Core integration for DotNet.AutoNormalize: Minimal APIs, MVC Model Binding, and System.Text.Json configuration."
+2026-11-21T17:07:00.573Z,AutoNormalize.Core,1.0.0,DotNet.AutoNormalize Contributors,"High-performance input normalization engine, built-in rules, metadata caching, and cycle-safe graph traversal for DotNet.AutoNormalize."
+2026-11-21T17:07:01.803Z,AutoNormalize.EntityFrameworkCore,1.0.0,DotNet.AutoNormalize Contributors,Entity Framework Core SaveChanges interceptor and entity input normalization for DotNet.AutoNormalize.
+2026-11-21T17:07:03.003Z,AutoNormalize.Json,1.0.0,DotNet.AutoNormalize Contributors,System.Text.Json type contract modifiers and metadata-aware deserialization hooks for DotNet.AutoNormalize.
+2026-11-21T17:11:49.907Z,GCScript.Secrets.Configuration,1.0.0,GCScript,"Carrega credenciais da API GCScript.Secrets no IConfiguration, como o UserSecrets, mas a partir de um servidor central."

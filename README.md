@@ -12,19 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 16:21 UTC
+## Latest list — 2026-11-21 17:19 UTC
 
-New packages created between 2026-11-21 15:21 UTC and 2026-11-21 16:21 UTC.
+New packages created between 2026-11-21 16:21 UTC and 2026-11-21 17:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T16-21-39-227132Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T17-19-26-525641Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 15:37:58 | [x402.Client.Nano](https://www.nuget.org/packages/x402.Client.Nano) | 0.0.3 | Michiel Post | x402 Payment Required Client implementation for Nano (XNO) |
-| 2026-11-21 15:45:16 | [OneDevice.Master.Abstract](https://www.nuget.org/packages/OneDevice.Master.Abstract) | 3.0.0 | OneDevice.Master.Abstract | Package Description |
-| 2026-11-21 15:45:17 | [OneDevice.Master.Factory](https://www.nuget.org/packages/OneDevice.Master.Factory) | 3.0.0 | OneDevice.Master.Factory | Package Description |
-| 2026-11-21 15:45:18 | [OneDevice.Master.IoLink](https://www.nuget.org/packages/OneDevice.Master.IoLink) | 3.0.0 | OneDevice.Master.IoLink | Package Description |
-| 2026-11-21 15:59:38 | [Material3Shapes](https://www.nuget.org/packages/Material3Shapes) | 1.0.0 | Matvey | UI-библиотека компонентов и фигур в стиле Google Material 3 (Material You и Mat… |
+| 2026-11-21 16:33:05 | [Alexpivo394.Revit.Families.Files](https://www.nuget.org/packages/Alexpivo394.Revit.Families.Files) | 1.0.0 | Alexpivo394 | Revit family library without Revit: file hash, type catalog parser, library sca… |
+| 2026-11-21 16:33:06 | [Alexpivo394.Revit.Families.Revit](https://www.nuget.org/packages/Alexpivo394.Revit.Families.Revit) | 2027.1.0 | Alexpivo394 | UI-free Revit reader of a family document: category, placement, types with thei… |
+| 2026-11-21 16:33:57 | [Freenaute.Freebox.Client](https://www.nuget.org/packages/Freenaute.Freebox.Client) | 1.0.0 | AriusII | Fluent Freebox Server HTTP client with dependency injection and NativeAOT-compa… |
+| 2026-11-21 16:34:19 | [SwiftDispatch.EntityFrameworkCore](https://www.nuget.org/packages/SwiftDispatch.EntityFrameworkCore) | 2.1.0 | Kamyab Valipour | Attribute-selected Entity Framework Core transactions for SwiftDispatch request… |
+| 2026-11-21 16:34:20 | [SwiftDispatch.FluentValidation](https://www.nuget.org/packages/SwiftDispatch.FluentValidation) | 2.1.0 | Kamyab Valipour | Asynchronous FluentValidation request pipeline integration for SwiftDispatch. |
+| 2026-11-21 16:39:23 | [DotFluent.Optional](https://www.nuget.org/packages/DotFluent.Optional) | 1.0.0 | Michael Holler | A companion package to DotFluent that adds Option<T> and Result<T> / Result<TVa… |
+| 2026-11-21 17:06:58 | [AutoNormalize.Abstractions](https://www.nuget.org/packages/AutoNormalize.Abstractions) | 1.0.0 | DotNet.AutoNormalize Contribu… | Core abstractions, interfaces, and declarative attributes for DotNet.AutoNormal… |
+| 2026-11-21 17:06:59 | [AutoNormalize.AspNetCore](https://www.nuget.org/packages/AutoNormalize.AspNetCore) | 1.0.0 | DotNet.AutoNormalize Contribu… | Unified ASP.NET Core integration for DotNet.AutoNormalize: Minimal APIs, MVC Mo… |
+| 2026-11-21 17:07:00 | [AutoNormalize.Core](https://www.nuget.org/packages/AutoNormalize.Core) | 1.0.0 | DotNet.AutoNormalize Contribu… | High-performance input normalization engine, built-in rules, metadata caching,… |
+| 2026-11-21 17:07:01 | [AutoNormalize.EntityFrameworkCore](https://www.nuget.org/packages/AutoNormalize.EntityFrameworkCore) | 1.0.0 | DotNet.AutoNormalize Contribu… | Entity Framework Core SaveChanges interceptor and entity input normalization fo… |
+| 2026-11-21 17:07:03 | [AutoNormalize.Json](https://www.nuget.org/packages/AutoNormalize.Json) | 1.0.0 | DotNet.AutoNormalize Contribu… | System.Text.Json type contract modifiers and metadata-aware deserialization hoo… |
+| 2026-11-21 17:11:49 | [GCScript.Secrets.Configuration](https://www.nuget.org/packages/GCScript.Secrets.Configuration) | 1.0.0 | GCScript | Carrega credenciais da API GCScript.Secrets no IConfiguration, como o UserSecre… |
 
 ## Data source
 
