@@ -12,23 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 21:20 UTC
+## Latest list — 2026-11-21 22:18 UTC
 
-New packages created between 2026-11-21 20:21 UTC and 2026-11-21 21:20 UTC.
+New packages created between 2026-11-21 21:20 UTC and 2026-11-21 22:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T21-20-32-166282Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-21T22-18-45-138995Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 20:30:51 | [TQLApp.Plugins.YouTrack](https://www.nuget.org/packages/TQLApp.Plugins.YouTrack) | 0.11.0 | Pieter van Ginkel | Techie's Quick Launcher plugin for YouTrack by JetBrains. |
-| 2026-11-21 20:36:31 | [KatziPackage](https://www.nuget.org/packages/KatziPackage) | 1.0.0 | AaronoLW | Simple library for parsing .kpg (KatziPackage) files |
-| 2026-11-21 20:39:51 | [MagicCSharp.Generators](https://www.nuget.org/packages/MagicCSharp.Generators) | 1.1.1 | MagicCSharp Contributors | Source generators for a MagicCSharp codebase. The compiler writes use case inte… |
-| 2026-11-21 20:39:52 | [MagicCSharp.Clients](https://www.nuget.org/packages/MagicCSharp.Clients) | 1.1.1 | MagicCSharp Contributors | Typed HTTP clients for calling another service, written by the compiler: mark a… |
-| 2026-11-21 20:39:56 | [MagicCSharp.Testing.Clients](https://www.nuget.org/packages/MagicCSharp.Testing.Clients) | 1.1.1 | MagicCSharp Contributors | Checks MagicCSharp clients against the service they call: a server's test proje… |
-| 2026-11-21 20:46:43 | [Egehan.Cli](https://www.nuget.org/packages/Egehan.Cli) | 0.1.0 | Bedirhan Gurler | Turn a project's git history into a living chronicle — offline, deterministic,… |
-| 2026-11-21 21:00:40 | [Sundew.Injection](https://www.nuget.org/packages/Sundew.Injection) | 0.1.0 | Kim Hugener-Ohlsen | Sundew.Injection is a dependency injection framework, that generates factories… |
-| 2026-11-21 21:04:21 | [GrayMint.Common.Acme](https://www.nuget.org/packages/GrayMint.Common.Acme) | 2.1.315 | GrayMint | Let's Encrypt certificates over ACME's HTTP-01 challenge: the account, the orde… |
-| 2026-11-21 21:06:23 | [FakeEmailPro](https://www.nuget.org/packages/FakeEmailPro) | 0.1.0 | fake-email.pro | The official .NET client for the fake-email.pro API: create a disposable mailbo… |
+| 2026-11-21 21:27:33 | [SbsReport](https://www.nuget.org/packages/SbsReport) | 1.0.0 | Sobis | Modern, hızlı, Web Designer IDE ve Viewer destekli .sbs raporlama kütüphanesi (… |
+| 2026-11-21 21:30:18 | [compujuckel.Serilog.Sinks.Journald](https://www.nuget.org/packages/compujuckel.Serilog.Sinks.Journald) | 1.0.1 | compujuckel | Serilog sink that writes log events to the systemd journal. |
+| 2026-11-21 21:33:28 | [GrayMint.TlsCertificates](https://www.nuget.org/packages/GrayMint.TlsCertificates) | 1.0.1 | GrayMint | TLS certificates for the domains an app serves, from Let's Encrypt or another A… |
+| 2026-11-21 21:37:19 | [TensorStack.OnnxRuntime.LLM](https://www.nuget.org/packages/TensorStack.OnnxRuntime.LLM) | 0.15.1 | sa_ddam213 | Text generation, speech recognition, text to speech and vision-language pipelin… |
+| 2026-11-21 21:38:34 | [Nev.Core](https://www.nuget.org/packages/Nev.Core) | 1.0.0 | Chris Varley | Nev is a .NET library for fast, structured decision support. You can use it for… |
+| 2026-11-21 21:49:09 | [Blazix.Primitives](https://www.nuget.org/packages/Blazix.Primitives) | 0.1.0 | Blazix | Unstyled, accessible Blazor primitives. Bring your own CSS. |
+| 2026-11-21 21:49:10 | [Blazix.Cli](https://www.nuget.org/packages/Blazix.Cli) | 0.1.0 | Blazix | Copies Blazix's styled Blazor components into your project as source you own. |
+| 2026-11-21 21:49:54 | [ZeroCSharp.Templates](https://www.nuget.org/packages/ZeroCSharp.Templates) | 0.1.0 | Zero C# contributors | dotnet new zero (a native program) and dotnet new zerolib (a library) for zero-… |
+| 2026-11-21 21:49:57 | [ZeroCSharp.Bflat.linux-x64](https://www.nuget.org/packages/ZeroCSharp.Bflat.linux-x64) | 0.1.0 | Zero C# contributors | bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for linux-x64… |
+| 2026-11-21 21:49:58 | [ZeroCSharp.Sdk](https://www.nuget.org/packages/ZeroCSharp.Sdk) | 0.1.0 | Zero C# contributors | Zero-mode C#: C# compiled to small native programs with no .NET runtime. Use as… |
+| 2026-11-21 21:50:01 | [ZeroCSharp.Bflat.linux-arm64](https://www.nuget.org/packages/ZeroCSharp.Bflat.linux-arm64) | 0.1.0 | Zero C# contributors | bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for linux-arm… |
 
 ## Data source
 

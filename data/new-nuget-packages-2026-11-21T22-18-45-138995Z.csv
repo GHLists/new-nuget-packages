@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-21T21:27:33.66Z,SbsReport,1.0.0,Sobis,"Modern, hızlı, Web Designer IDE ve Viewer destekli .sbs raporlama kütüphanesi (Stimulsoft .mrt içe aktarma destekli)."
+2026-11-21T21:30:18.627Z,compujuckel.Serilog.Sinks.Journald,1.0.1,compujuckel,Serilog sink that writes log events to the systemd journal.
+2026-11-21T21:33:28.69Z,GrayMint.TlsCertificates,1.0.1,GrayMint,"TLS certificates for the domains an app serves, from Let's Encrypt or another ACME authority: ordered and renewed by a job in one host, kept in tables of their own on PostgreSQL or SQL Server, and served by Kestrel in any host, each domain with its own."
+2026-11-21T21:37:19.973Z,TensorStack.OnnxRuntime.LLM,0.15.1,sa_ddam213,"Text generation, speech recognition, text to speech and vision-language pipelines for .NET using ONNX Runtime."
+2026-11-21T21:38:34.72Z,Nev.Core,1.0.0,Chris Varley,"Nev is a .NET library for fast, structured decision support. You can use it for tasks such as sentiment analysis, request routing, risk scoring, and customer-support triage. It lets .NET applications turn text and structured input into typed decisions instead of free-form generated text. You can de…"
+2026-11-21T21:49:09.707Z,Blazix.Primitives,0.1.0,Blazix,"Unstyled, accessible Blazor primitives. Bring your own CSS."
+2026-11-21T21:49:10.267Z,Blazix.Cli,0.1.0,Blazix,Copies Blazix's styled Blazor components into your project as source you own.
+2026-11-21T21:49:54.433Z,ZeroCSharp.Templates,0.1.0,Zero C# contributors,dotnet new zero (a native program) and dotnet new zerolib (a library) for zero-mode C#: C# compiled to small native programs with no .NET runtime.
+2026-11-21T21:49:57.677Z,ZeroCSharp.Bflat.linux-x64,0.1.0,Zero C# contributors,"bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for linux-x64 hosts. Downloaded by ZeroCSharp.Sdk; not referenced directly."
+2026-11-21T21:49:58.313Z,ZeroCSharp.Sdk,0.1.0,Zero C# contributors,"Zero-mode C#: C# compiled to small native programs with no .NET runtime. Use as <Project Sdk=""ZeroCSharp.Sdk/0.1.0"">."
+2026-11-21T21:50:01.61Z,ZeroCSharp.Bflat.linux-arm64,0.1.0,Zero C# contributors,"bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for linux-arm64 hosts. Downloaded by ZeroCSharp.Sdk; not referenced directly."
