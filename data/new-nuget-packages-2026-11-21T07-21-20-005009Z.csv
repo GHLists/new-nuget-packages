@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-21T06:30:34.963Z,Minanggadang,1.0.0,Minang Gadang — Restoran Padang Tanah Abang,Minang Gadang Padang restaurant Tanah Abang constants. Official: https://minanggadang.com/
+2026-11-21T06:38:14.067Z,Sud.Gip.Auth,1.0.0,Sud.Gip.Auth,Standalone Sud GIP HS256 authentication SDK for .NET.
+2026-11-21T06:44:56.937Z,WinformUi,1.0.0,maqiul,Fluent Design style controls for Windows Forms. Supports .NET Framework 4.8 and .NET 6 / 8 / 10 on Windows.
+2026-11-21T06:46:45.003Z,z3l.FastHtmlParser.HtmlToMarkdown,1.6.1,z3l,"Fast HTML to Markdown converter for .NET 9/10, built on z3l.FastHtmlParser: 10–20x faster than ReverseMarkdown and Html2Markdown on typical pages, with 37–62x less memory. Headings, nested lists, links and images (absolute with a page URL), GitHub tables with colspan and rowspan, code blocks with t…"
+2026-11-21T06:52:53.667Z,LinKit.Engine.Microservice,4.1.0,Linh Nguyen,"Bundle: installs the complete LinKit stack for a service (CQRS, endpoints, background jobs, data access, outbox/inbox, sagas, caching, resilience, tenancy, JSON and generated gRPC adapters) with one PackageReference. Contains no code of its own. Broker clients are intentionally not included."
+2026-11-21T06:52:55.197Z,LinKit.Engine.Monolith,4.1.0,Linh Nguyen,"Bundle: installs the complete in-process LinKit stack (CQRS, endpoints, background jobs, data access, outbox/inbox, sagas, caching, resilience, tenancy and JSON) with one PackageReference. Contains no code of its own. Broker clients are intentionally not included."
+2026-11-21T06:57:48.08Z,Mango.EntityFrameworkCore,1.0.0,Mango.CodeTransfer,Exports the supplied Avalonia project files on explicit request.
+2026-11-21T06:58:06.403Z,PageAssay,0.1.0,iyulab,"Checks a web page without AI: drives it over the Chrome DevTools Protocol, collects what went wrong while it loaded and in use, and returns a typed report. Static rules read the page's inline scripts and markup without running them."
+2026-11-21T06:59:07.48Z,Tubatools.PeripheralBattery,1.2.2,蔡先生,在图吧工具箱里读取无线键鼠电量，并可通过无线调试显示作为副屏的安卓手机/平板电量，均不需要厂商驱动常驻。
+2026-11-21T07:04:55.353Z,PicVane.PaletteDistance,0.1.0,js-upup,Find the closest entry in an ordered eight-bit RGB palette. Source-only C# content for .NET 8.
+2026-11-21T07:14:49.99Z,Pkcs10,1.0.0,Matthew J. Bobowski,"A native .NET PKCS #10 certificate signing request parser and validator using System.Security.Cryptography types, with support for RSA and ECDSA requests."
