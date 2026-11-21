@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-21T05:25:42.02Z,Moonwell.Stats,0.21.0,mdlsvensson,"The effects of Moonwell's ready-made stats: crit, hit chance, evasion, parry, block, power, penetration, resistance, barriers, stagger, life steal and healing bonus, and the ability, cast speed, experience and gold stats, acting on every hit, heal, ability and kill without the map writing a line."
+2026-11-21T05:39:10.453Z,SkyRender.Wpf,4.0.0,"Piranha91, Synthesis Collective","WPF view host for SkyRender: a paced live view (native child window, or a shared texture inside WPF), frame-rate readout, per-frame log and clock-based fly controls."
+2026-11-21T05:43:03.083Z,NonBoxingUnions.Generator,1.0.0,Nathan Davis,A source generator for creating non-boxing unions
+2026-11-21T05:45:20.307Z,Hubtech,1.0.0,Hub Tech — medical website redesign Pakistan,Hub Tech medical website redesign Pakistan constants. Official: https://hubtech.pk/portfolio/dr-ali-imran-medical-website-redesign/
+2026-11-21T05:48:14.837Z,VirtoCommerce.AuditLog.Data.Search,3.1005.0,VirtoCommerce.AuditLog.Data.Search,Package Description
+2026-11-21T05:54:04.543Z,CodeWF.Avalonia.Markdown.Core,12.1.6.9,Vex Contributors,Markdown 块编辑核心：块模型与编辑操作（拆块/合并/空文档首块），零 UI 依赖。Block editing core for the markdown editor: block model and editing operations with no UI dependency.
+2026-11-21T05:57:45.553Z,Arcodiant.Empyrean.Dev,0.133.1,Arcodiant/Andrew Armstrong,"Development tools for a windowed Empyrean game: a run shell that loads a named scene, runs N frames, captures a screenshot and exits with a code; scripted runs with input replay and a JSON result; a playback overlay; and the same tools as a code mod. Brings Hosting, Graphics, Ui and Input."
