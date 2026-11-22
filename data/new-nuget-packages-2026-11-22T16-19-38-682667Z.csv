@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-11-22T15:41:14.63Z,TickGym,0.0.1,the TICK authors,Drive Trackmania 2020 physics from .NET through TICK. Work in progress: this release is a placeholder.
+2026-11-22T15:46:07.977Z,AwAUI.Browser,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:10.107Z,AwAUI.Controls,0.1.0,AwAUI,Standard AwAUI controls and unstyled behavior primitives.
+2026-11-22T15:46:12.06Z,AwAUI.Controls.DataGrid,0.1.0,AwAUI,"Data grid with sorting, selection, editing, and fixed-height row virtualization."
+2026-11-22T15:46:14.253Z,AwAUI.Css,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:16.18Z,AwAUI.DevTools,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:18.123Z,AwAUI.Diagnostics,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:19.997Z,AwAUI.Foundation,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:21.84Z,AwAUI.Graphics,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:23.723Z,AwAUI.Headless,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:25.533Z,AwAUI.Icons.Lucide,0.1.0,AwAUI,A curated set of Lucide icons for AwAUI.
+2026-11-22T15:46:27.387Z,AwAUI.Imaging,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:29.213Z,AwAUI.Layout,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:31.157Z,AwAUI.MacOS,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:33.123Z,AwAUI.Markup,0.1.0,AwAUI,AwAUI 的 .awaui 单文件组件编译器（Roslyn 源生成器 + MSBuild 集成）。
+2026-11-22T15:46:34.773Z,AwAUI.Mvvm,0.1.0,AwAUI,"Optional MVVM helpers for AwAUI: observable objects, bindings and collection views."
+2026-11-22T15:46:36.567Z,AwAUI.Platform,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:38.513Z,AwAUI.Render,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:40.347Z,AwAUI.Rhi.Metal,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:42.367Z,AwAUI.Shadcn,0.1.0,AwAUI,AwAUI components based on shadcn/ui's New York theme.
+2026-11-22T15:46:44.353Z,AwAUI.Svg,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:46.443Z,AwAUI.Tailwind,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:48.467Z,AwAUI.Text,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:50.43Z,AwAUI.Themes.Fluent,0.1.0,AwAUI,Fluent style tokens and default control styles for AwAUI.
+2026-11-22T15:46:52.333Z,AwAUI.UI,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:56.877Z,AwAUI.Unicode,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:46:59.16Z,AwAUI.Win32,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:47:01.273Z,AwAUI.X11,0.1.0,AwAUI,"AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, CSS, self-drawn rendering, and built-in DevTools."
+2026-11-22T15:57:33.543Z,Plugin.Maui.NativeSearchBar,1.0.0,Ed Giardina,A search bar that uses each platform's own search UI: UISearchController in the navigation bar (bottom toolbar on iOS 26+ iPhone) and a Material 3 search bar on Android.
+2026-11-22T16:00:27.293Z,Csag.Automation.Selenium,1.0.0,collana solutions AG,"Extensions for robust Selenium tests: element selection that waits and retries, click and input helpers that recover from stale or hidden elements, a WebDriverFactory for Chrome and Firefox, and screenshots."
+2026-11-22T16:03:18.38Z,Lekman.Qualify,0.1.0,Tobias Lekman,"Qualification tests (IQ, OQ, PQ, intended use) for xUnit v3 that write redacted JSON evidence: [IQ], [OQ], [PQ] and [IU] attributes, recorded checks, and merge and validate for the run file."
+2026-11-22T16:03:19.297Z,Lekman.Qualify.Tool,0.1.0,Tobias Lekman,"The qualify command for .NET: merge test records into a run file, validate evidence against the schema, and render the qualification report."
+2026-11-22T16:04:15.563Z,Vitreous.FluentValidation,0.5.0,DomDuva,FluentValidation pipeline behaviors for Vitreous: invalid messages return Error.Validation before the handler runs.
+2026-11-22T16:04:40.233Z,AgentKit.Social,0.1.8,Lenka Scherfel,"Post to social networks from a server: one channel contract (compose within each network's limits, pictures as native media with alt text or else a link card, tags, an idempotency key) and adapters for Bluesky (AT Protocol, app password, facets, images or an external card), Mastodon (instance token…"
+2026-11-22T16:05:53.59Z,LinQL.StrawberryShake,0.14.1,James Dibble,LINQ-like access to GraphQL endpoints in .Net using Strawberry Shake (requires StrawberryShake.Core 16.7.3 or later)

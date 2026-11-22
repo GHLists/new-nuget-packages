@@ -12,41 +12,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 15:19 UTC
+## Latest list — 2026-11-22 16:19 UTC
 
-New packages created between 2026-11-22 14:19 UTC and 2026-11-22 15:19 UTC.
+New packages created between 2026-11-22 15:19 UTC and 2026-11-22 16:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T15-19-32-356511Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T16-19-38-682667Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 14:23:09 | [Cratis.Choreography.Arc](https://www.nuget.org/packages/Cratis.Choreography.Arc) | 2.10.0 | Cratis | Cratis Arc integration for Cratis Choreography - execute Arc commands as action… |
-| 2026-11-22 14:38:24 | [Uuid58](https://www.nuget.org/packages/Uuid58) | 0.1.0 | Nakano as a Service | Shorten UUIDs (Guid) to 22-character Base58 strings, and back. URL-safe, order-… |
-| 2026-11-22 14:49:14 | [MicroSharp.Browser.Playback](https://www.nuget.org/packages/MicroSharp.Browser.Playback) | 0.4.0 | sprechen.io | Optional browser playback of streaming mono PCM16LE through AudioWorklet. |
-| 2026-11-22 14:50:55 | [MacExcelReader](https://www.nuget.org/packages/MacExcelReader) | 1.0.0 | Hugh Bellamy | A .NET library for reading and writing Microsoft Excel 1.x for Macintosh worksh… |
-| 2026-11-22 14:53:13 | [Clippit.Cli.win-x64](https://www.nuget.org/packages/Clippit.Cli.win-x64) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 14:53:15 | [Clippit.Cli.win-arm64](https://www.nuget.org/packages/Clippit.Cli.win-arm64) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 14:53:17 | [Clippit.Cli.osx-x64](https://www.nuget.org/packages/Clippit.Cli.osx-x64) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 14:53:20 | [Clippit.Cli.osx-arm64](https://www.nuget.org/packages/Clippit.Cli.osx-arm64) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 14:53:22 | [Clippit.Cli.linux-x64](https://www.nuget.org/packages/Clippit.Cli.linux-x64) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 14:53:24 | [Clippit.Cli.linux-arm64](https://www.nuget.org/packages/Clippit.Cli.linux-arm64) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 14:53:28 | [Clippit.Cli.any](https://www.nuget.org/packages/Clippit.Cli.any) | 3.10.1 | Sergey Tihon, Microsoft Corpo… | CLI tool for Clippit — PowerTools for OpenXml (PowerPoint, Word, Excel) |
-| 2026-11-22 15:06:18 | [Csag.CodeAnalysis.TestsRuleset](https://www.nuget.org/packages/Csag.CodeAnalysis.TestsRuleset) | 3.2.2 | collana solutions AG | Configures Code Analysis for collana solutions test projects. |
-| 2026-11-22 15:06:18 | [Csag.CodeAnalysis](https://www.nuget.org/packages/Csag.CodeAnalysis) | 3.2.2 | collana solutions AG | Configures Code Analysis for collana solutions projects. |
-| 2026-11-22 15:07:10 | [BackofficeAutoLocalizer](https://www.nuget.org/packages/BackofficeAutoLocalizer) | 17.0.0 | Lantzify | Make the Umbraco backoffice truly multilingual. Turn document type labels into… |
-| 2026-11-22 15:08:27 | [9in](https://www.nuget.org/packages/9in) | 0.1.0 | 9in | Official .NET SDK for 9in (https://9in.io), hosted login, OpenID Connect provid… |
-| 2026-11-22 15:08:28 | [9in.AspNetCore](https://www.nuget.org/packages/9in.AspNetCore) | 0.1.0 | 9in | 9in (https://9in.io) for ASP.NET Core, on its own authentication stack: sign-in… |
-| 2026-11-22 15:09:10 | [Csag.Abstractions](https://www.nuget.org/packages/Csag.Abstractions) | 1.0.0 | collana solutions AG | Common abstractions: ICacheProvider<TEnum> with the CacheProvider<TEnum> base c… |
-| 2026-11-22 15:09:15 | [Csag.Utilities.AspNetCore](https://www.nuget.org/packages/Csag.Utilities.AspNetCore) | 3.0.0 | collana solutions AG | ASP.NET Core extensions in the Csag.Utilities family: read an uploaded IFormFil… |
-| 2026-11-22 15:09:16 | [Csag.Utilities](https://www.nuget.org/packages/Csag.Utilities) | 3.0.0 | collana solutions AG | Extension methods and helpers for everyday .NET code: string truncation, padded… |
-| 2026-11-22 15:09:17 | [Csag.Utilities.EntityFrameworkCore](https://www.nuget.org/packages/Csag.Utilities.EntityFrameworkCore) | 3.0.0 | collana solutions AG | Entity Framework Core extensions in the Csag.Utilities family: the ISortableEnt… |
-| 2026-11-22 15:09:25 | [Csag.Extensions.Configuration.GoogleSecrets.AspNetCore](https://www.nuget.org/packages/Csag.Extensions.Configuration.GoogleSecrets.AspNetCore) | 2.0.0 | collana solutions AG | Registers the Csag.Extensions.Configuration.GoogleSecrets configuration provide… |
-| 2026-11-22 15:09:25 | [Csag.DotNet.Console](https://www.nuget.org/packages/Csag.DotNet.Console) | 6.0.0 | collana solutions AG | Library for building .NET console applications with dependency injection, async… |
-| 2026-11-22 15:09:25 | [Csag.Extensions.Configuration.GoogleSecrets](https://www.nuget.org/packages/Csag.Extensions.Configuration.GoogleSecrets) | 2.0.0 | collana solutions AG | A Microsoft.Extensions.Configuration provider that loads secrets from Google Cl… |
-| 2026-11-22 15:09:27 | [Csag.Extensions.DataSeeding](https://www.nuget.org/packages/Csag.Extensions.DataSeeding) | 2.0.0 | collana solutions AG | Splits data seeding into small seeds that declare their dependencies with the D… |
-| 2026-11-22 15:09:33 | [Csag.Extensions.Identity.Abstractions](https://www.nuget.org/packages/Csag.Extensions.Identity.Abstractions) | 2.0.0 | collana solutions AG | Interfaces and options of Csag.Extensions.Identity: IUserManager, ISignInManage… |
-| 2026-11-22 15:09:34 | [Csag.Extensions.Identity](https://www.nuget.org/packages/Csag.Extensions.Identity) | 2.0.0 | collana solutions AG | ASP.NET Core Identity with Entity Framework Core stores and BCrypt password has… |
-| 2026-11-22 15:09:38 | [Csag.OrchardCoreModules.PageViewStats](https://www.nuget.org/packages/Csag.OrchardCoreModules.PageViewStats) | 1.0.0 | collana solutions AG | OrchardCore module to collect and analyze page views from your visitors |
+| 2026-11-22 15:41:14 | [TickGym](https://www.nuget.org/packages/TickGym) | 0.0.1 | the TICK authors | Drive Trackmania 2020 physics from .NET through TICK. Work in progress: this re… |
+| 2026-11-22 15:46:07 | [AwAUI.Browser](https://www.nuget.org/packages/AwAUI.Browser) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:10 | [AwAUI.Controls](https://www.nuget.org/packages/AwAUI.Controls) | 0.1.0 | AwAUI | Standard AwAUI controls and unstyled behavior primitives. |
+| 2026-11-22 15:46:12 | [AwAUI.Controls.DataGrid](https://www.nuget.org/packages/AwAUI.Controls.DataGrid) | 0.1.0 | AwAUI | Data grid with sorting, selection, editing, and fixed-height row virtualization. |
+| 2026-11-22 15:46:14 | [AwAUI.Css](https://www.nuget.org/packages/AwAUI.Css) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:16 | [AwAUI.DevTools](https://www.nuget.org/packages/AwAUI.DevTools) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:18 | [AwAUI.Diagnostics](https://www.nuget.org/packages/AwAUI.Diagnostics) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:19 | [AwAUI.Foundation](https://www.nuget.org/packages/AwAUI.Foundation) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:21 | [AwAUI.Graphics](https://www.nuget.org/packages/AwAUI.Graphics) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:23 | [AwAUI.Headless](https://www.nuget.org/packages/AwAUI.Headless) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:25 | [AwAUI.Icons.Lucide](https://www.nuget.org/packages/AwAUI.Icons.Lucide) | 0.1.0 | AwAUI | A curated set of Lucide icons for AwAUI. |
+| 2026-11-22 15:46:27 | [AwAUI.Imaging](https://www.nuget.org/packages/AwAUI.Imaging) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:29 | [AwAUI.Layout](https://www.nuget.org/packages/AwAUI.Layout) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:31 | [AwAUI.MacOS](https://www.nuget.org/packages/AwAUI.MacOS) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:33 | [AwAUI.Markup](https://www.nuget.org/packages/AwAUI.Markup) | 0.1.0 | AwAUI | AwAUI 的 .awaui 单文件组件编译器（Roslyn 源生成器 + MSBuild 集成）。 |
+| 2026-11-22 15:46:34 | [AwAUI.Mvvm](https://www.nuget.org/packages/AwAUI.Mvvm) | 0.1.0 | AwAUI | Optional MVVM helpers for AwAUI: observable objects, bindings and collection vi… |
+| 2026-11-22 15:46:36 | [AwAUI.Platform](https://www.nuget.org/packages/AwAUI.Platform) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:38 | [AwAUI.Render](https://www.nuget.org/packages/AwAUI.Render) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:40 | [AwAUI.Rhi.Metal](https://www.nuget.org/packages/AwAUI.Rhi.Metal) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:42 | [AwAUI.Shadcn](https://www.nuget.org/packages/AwAUI.Shadcn) | 0.1.0 | AwAUI | AwAUI components based on shadcn/ui's New York theme. |
+| 2026-11-22 15:46:44 | [AwAUI.Svg](https://www.nuget.org/packages/AwAUI.Svg) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:46 | [AwAUI.Tailwind](https://www.nuget.org/packages/AwAUI.Tailwind) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:48 | [AwAUI.Text](https://www.nuget.org/packages/AwAUI.Text) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:50 | [AwAUI.Themes.Fluent](https://www.nuget.org/packages/AwAUI.Themes.Fluent) | 0.1.0 | AwAUI | Fluent style tokens and default control styles for AwAUI. |
+| 2026-11-22 15:46:52 | [AwAUI.UI](https://www.nuget.org/packages/AwAUI.UI) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:56 | [AwAUI.Unicode](https://www.nuget.org/packages/AwAUI.Unicode) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:46:59 | [AwAUI.Win32](https://www.nuget.org/packages/AwAUI.Win32) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:47:01 | [AwAUI.X11](https://www.nuget.org/packages/AwAUI.X11) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
+| 2026-11-22 15:57:33 | [Plugin.Maui.NativeSearchBar](https://www.nuget.org/packages/Plugin.Maui.NativeSearchBar) | 1.0.0 | Ed Giardina | A search bar that uses each platform's own search UI: UISearchController in the… |
+| 2026-11-22 16:00:27 | [Csag.Automation.Selenium](https://www.nuget.org/packages/Csag.Automation.Selenium) | 1.0.0 | collana solutions AG | Extensions for robust Selenium tests: element selection that waits and retries,… |
+| 2026-11-22 16:03:18 | [Lekman.Qualify](https://www.nuget.org/packages/Lekman.Qualify) | 0.1.0 | Tobias Lekman | Qualification tests (IQ, OQ, PQ, intended use) for xUnit v3 that write redacted… |
+| 2026-11-22 16:03:19 | [Lekman.Qualify.Tool](https://www.nuget.org/packages/Lekman.Qualify.Tool) | 0.1.0 | Tobias Lekman | The qualify command for .NET: merge test records into a run file, validate evid… |
+| 2026-11-22 16:04:15 | [Vitreous.FluentValidation](https://www.nuget.org/packages/Vitreous.FluentValidation) | 0.5.0 | DomDuva | FluentValidation pipeline behaviors for Vitreous: invalid messages return Error… |
+| 2026-11-22 16:04:40 | [AgentKit.Social](https://www.nuget.org/packages/AgentKit.Social) | 0.1.8 | Lenka Scherfel | Post to social networks from a server: one channel contract (compose within eac… |
+| 2026-11-22 16:05:53 | [LinQL.StrawberryShake](https://www.nuget.org/packages/LinQL.StrawberryShake) | 0.14.1 | James Dibble | LINQ-like access to GraphQL endpoints in .Net using Strawberry Shake (requires… |
 
 ## Data source
 
