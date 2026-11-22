@@ -12,27 +12,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 07:18 UTC
+## Latest list — 2026-11-22 08:18 UTC
 
-New packages created between 2026-11-22 06:21 UTC and 2026-11-22 07:18 UTC.
+New packages created between 2026-11-22 07:18 UTC and 2026-11-22 08:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T07-18-46-970391Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T08-18-45-411054Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 07:02:45 | [Chaldea.HarfBuzzSharp.NativeAssets.HarmonyOS](https://www.nuget.org/packages/Chaldea.HarfBuzzSharp.NativeAssets.HarmonyOS) | 11.0.0 | OpenHarmony.NET | HarmonyOS API15+ x86_64 and arm64 native assets for HarfBuzzSharp 14.4.0.200. |
-| 2026-11-22 07:02:47 | [Chaldea.OpenHarmony.Framework](https://www.nuget.org/packages/Chaldea.OpenHarmony.Framework) | 11.0.0 | OpenHarmony.Framework | C# platform APIs and reusable SurfaceView host for OpenHarmony API 15+. |
-| 2026-11-22 07:02:49 | [Chaldea.OpenHarmony.HapTooling](https://www.nuget.org/packages/Chaldea.OpenHarmony.HapTooling) | 11.0.0 | OpenHarmony.NET | Provider-owned HAP/APP packaging tooling for the XEngine HarmonyOS build pipeli… |
-| 2026-11-22 07:02:50 | [Chaldea.OpenHarmony.NDK.Bindings](https://www.nuget.org/packages/Chaldea.OpenHarmony.NDK.Bindings) | 11.0.0 | OpenHarmony.NET | OpenHarmony Native SDK bindings for .NET 11. |
-| 2026-11-22 07:02:51 | [Chaldea.OpenHarmony.Player.Sdk](https://www.nuget.org/packages/Chaldea.OpenHarmony.Player.Sdk) | 11.0.0 | OpenHarmony.NET | MSBuild SDK for OpenHarmony NativeAOT shared libraries. |
-| 2026-11-22 07:02:53 | [Chaldea.OpenHarmony.PublishAotCross](https://www.nuget.org/packages/Chaldea.OpenHarmony.PublishAotCross) | 11.0.0 | OpenHarmony.NET, xljiulang, M… | MSBuild targets to aid in crosscompiling Native AOT publishing. |
-| 2026-11-22 07:02:56 | [Chaldea.OpenHarmony.Runtime.NativeAot.arm64-v8a](https://www.nuget.org/packages/Chaldea.OpenHarmony.Runtime.NativeAot.arm64-v8a) | 11.0.0 | OpenHarmony.NET | OpenHarmony .NET 11 NativeAOT API13 baseline runtime for arm64-v8a. |
-| 2026-11-22 07:02:59 | [Chaldea.OpenHarmony.Runtime.NativeAot.x86_64](https://www.nuget.org/packages/Chaldea.OpenHarmony.Runtime.NativeAot.x86_64) | 11.0.0 | OpenHarmony.NET | OpenHarmony .NET 11 NativeAOT API13 baseline runtime for x86_64. |
-| 2026-11-22 07:03:01 | [Chaldea.OpenHarmony.Sdk](https://www.nuget.org/packages/Chaldea.OpenHarmony.Sdk) | 11.0.0 | OpenHarmony.NET | OpenHarmony .NET 11 workload SDK, NativeAOT application and HAP tooling. |
-| 2026-11-22 07:03:02 | [Chaldea.OpenHarmony.Templates](https://www.nuget.org/packages/Chaldea.OpenHarmony.Templates) | 11.0.0 | OpenHarmony.NET | dotnet new ohos application template. |
-| 2026-11-22 07:03:05 | [Chaldea.SkiaSharp.NativeAssets.HarmonyOS](https://www.nuget.org/packages/Chaldea.SkiaSharp.NativeAssets.HarmonyOS) | 11.0.0 | OpenHarmony.NET | HarmonyOS API15+ x86_64 and arm64 native assets for SkiaSharp 4.157.0. |
-| 2026-11-22 07:03:06 | [Chaldea.OpenHarmony.Workload.Manifest-11.0.100](https://www.nuget.org/packages/Chaldea.OpenHarmony.Workload.Manifest-11.0.100) | 11.0.0 | OpenHarmony.NET | Workload manifest for the harmonyos .NET 11 workload. |
-| 2026-11-22 07:03:08 | [Chaldea.OpenHarmony.Workload](https://www.nuget.org/packages/Chaldea.OpenHarmony.Workload) | 11.0.0 | Chaldea,OpenHarmony.NET contr… | Registers the harmonyos workload for a standalone .NET SDK. No PowerShell scrip… |
+| 2026-11-22 07:21:41 | [GKK.Newtonsoft.Tools](https://www.nuget.org/packages/GKK.Newtonsoft.Tools) | 1.0.0 | GKK | GKK description |
+| 2026-11-22 07:22:59 | [Tellurian.Trains.Schedules.Model.Layouts](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Model.Layouts) | 4.0.24 | Stefan Fjällemark | The shared model of a model railway layout: operation locations, their tracks a… |
+| 2026-11-22 07:22:59 | [Tellurian.Trains.Schedules.Model.Geometry](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Model.Geometry) | 4.0.24 | Stefan Fjällemark | Pure 2D geometry for model railway drawings: points, vectors, angles, poses, tr… |
+| 2026-11-22 07:23:02 | [Tellurian.Trains.Schedules.Importers.Drawing](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Importers.Drawing) | 4.0.24 | Stefan Fjällemark | Reads Module Draw's drawing files (end profiles; modules, catalogues, halls and… |
+| 2026-11-22 07:23:04 | [Tellurian.Trains.Schedules.Exporters.Services](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Exporters.Services) | 4.0.24 | Stefan Fjällemark | Writes plans as plan files (JSON): PlanJsonExporter (IExporter<Plan>) and JsonE… |
+| 2026-11-22 07:23:04 | [Tellurian.Trains.Schedules.Exporters.Drawing](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Exporters.Drawing) | 4.0.24 | Stefan Fjällemark | Writes Module Draw's drawing files (end profiles; modules, catalogues, halls an… |
+| 2026-11-22 07:23:05 | [Tellurian.Trains.Schedules.Exporters.Interfaces](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Exporters.Interfaces) | 4.0.24 | Stefan Fjällemark | Contracts for writing the Tellurian Trains models: IExporter<T> (one format, to… |
+| 2026-11-22 07:34:27 | [BinaryVibrance.Kaldra.SDL3](https://www.nuget.org/packages/BinaryVibrance.Kaldra.SDL3) | 3.4.20 | Steven Blom | SDL 3.4.20's native libraries for win-x64 and win-arm64, from SDL's own release… |
+| 2026-11-22 07:37:53 | [zyc.gnuplot.headless](https://www.nuget.org/packages/zyc.gnuplot.headless) | 6.0.5 | zyc | gnuplot 6.0.5 for win-x64, cut down to about 21 MB for headless use: gnuplot.ex… |
+| 2026-11-22 07:38:01 | [Sesaot](https://www.nuget.org/packages/Sesaot) | 1.0.0 | Desa Wisata Sesaot — Narmada… | Desa Wisata Sesaot desa wisata Narmada, Lombok Barat constants. Official: https… |
+| 2026-11-22 07:38:18 | [Desabudo](https://www.nuget.org/packages/Desabudo) | 1.0.0 | Desa Wisata Budo — Wori Minah… | Desa Wisata Budo desa wisata Wori, Minahasa Utara constants. Official: https://… |
+| 2026-11-22 07:38:38 | [Kalongan](https://www.nuget.org/packages/Kalongan) | 1.0.0 | Desa Wisata Kalongan — Ungara… | Desa Wisata Kalongan desa wisata Ungaran Timur, Jawa Tengah constants. Official… |
+| 2026-11-22 07:38:53 | [Sasakende](https://www.nuget.org/packages/Sasakende) | 1.0.0 | Desa Wisata Adat Sasak Ende —… | Desa Wisata Sasak Ende desa wisata Sengkol, Lombok Tengah constants. Official:… |
+| 2026-11-22 07:39:10 | [Bonjeruk](https://www.nuget.org/packages/Bonjeruk) | 1.0.0 | Desa Wisata Bonjeruk — Jongga… | Desa Wisata Bonjeruk desa wisata Jonggat, Lombok Tengah constants. Official: ht… |
+| 2026-11-22 07:47:12 | [NewLife.Presto](https://www.nuget.org/packages/NewLife.Presto) | 1.0.2026.1122-beta0… | 新生命开发团队 | 纯 C# Presto/Trino ADO.NET 驱动，零第三方依赖，基于 HTTP REST v1 协议，支持 XCode ORM、Presto/Trin… |
+| 2026-11-22 07:47:13 | [NewLife.Presto.EntityFramework](https://www.nuget.org/packages/NewLife.Presto.EntityFramework) | 1.0.2026.1122-beta0… | 新生命开发团队 | 基于 NewLife.Presto 的 Entity Framework 6 提供程序，面向 Presto/Trino 只读查询；不支持写入、事务与迁移。En… |
+| 2026-11-22 07:47:14 | [NewLife.Presto.EntityFrameworkCore](https://www.nuget.org/packages/NewLife.Presto.EntityFrameworkCore) | 1.0.2026.1122-beta0… | 新生命开发团队 | 基于 NewLife.Presto 的 Entity Framework Core 提供程序，面向 Presto/Trino 只读查询；不支持写入、事务与迁移… |
+| 2026-11-22 08:08:45 | [ResultUnion.Http](https://www.nuget.org/packages/ResultUnion.Http) | 0.3.0 | Giorgi Kaldani | HTTP client integration for ResultUnion: HttpResponseMessage.ReadResultAsync tu… |
+| 2026-11-22 08:08:46 | [ResultUnion.Testing](https://www.nuget.org/packages/ResultUnion.Testing) | 0.3.0 | Giorgi Kaldani | Test assertions for ResultUnion: ShouldSucceed returns the value, ShouldFail("c… |
+| 2026-11-22 08:08:46 | [ResultUnion.Templates](https://www.nuget.org/packages/ResultUnion.Templates) | 0.3.0 | Giorgi Kaldani | dotnet new templates for ResultUnion. resultunion-api: a Minimal API with value… |
+| 2026-11-22 08:11:16 | [Dixor.Identity.Analyzers](https://www.nuget.org/packages/Dixor.Identity.Analyzers) | 0.1.0 | Dishant Prashant Save | Package Description |
+| 2026-11-22 08:11:17 | [Dixor.Validation.Analyzers](https://www.nuget.org/packages/Dixor.Validation.Analyzers) | 0.1.0 | Dishant Prashant Save | Package Description |
+| 2026-11-22 08:11:20 | [Dixor.DI](https://www.nuget.org/packages/Dixor.DI) | 0.1.0 | Dishant Prashant Save | Ultra-clean, high-performance dependency injection extensions for .NET. Enables… |
+| 2026-11-22 08:11:32 | [Dixor.Security](https://www.nuget.org/packages/Dixor.Security) | 0.1.0 | Dishant Prashant Save | Production-grade security, cryptography, and authentication engine for .NET. Fe… |
 
 ## Data source
 
