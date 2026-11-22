@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-22T22:27:00.657Z,OpenMoca.Reader.Age,0.7.0,MOCA Standard Contributors,"Open encrypted MOCA packages: decrypt-only age v1 (X25519 and scrypt recipients, no plugins)."
+2026-11-22T22:27:37.777Z,Rakomi,0.1.0,Rakomi,OpenID Connect discovery for Rakomi: fetches and validates the provider metadata and the JSON Web Key Set of a Rakomi issuer.
+2026-11-22T22:27:38.91Z,Rakomi.Sdk,0.1.0,Rakomi,The Rakomi SDK for .NET. This early release brings in the Rakomi package (OpenID Connect discovery); more of the SDK ships in later versions.
+2026-11-22T22:28:06.143Z,Blazix.Icons,0.3.0,Halden Collier,"The Icon component for Blazix's icon set packages (Blazix.Icons.Lucide, .Tabler, .Hugeicons, .Phosphor, .Remixicon, .FontAwesome): inline SVG, accessible, trimmed to the icons you use."
+2026-11-22T22:28:08.547Z,Blazix.Icons.Lucide,0.3.0,Halden Collier,"Lucide for Blazor: 2,400 icons as inline SVG, for Blazix.Icons' Icon component. Trimming keeps only the icons you use."
+2026-11-22T22:28:10.357Z,Blazix.Icons.Tabler,0.3.0,Halden Collier,"Tabler Icons for Blazor: 6,500 icons as inline SVG, for Blazix.Icons' Icon component. Trimming keeps only the icons you use."
+2026-11-22T22:28:12.723Z,Blazix.Icons.Hugeicons,0.3.0,Halden Collier,"Hugeicons for Blazor: 6,100 icons as inline SVG, for Blazix.Icons' Icon component. Trimming keeps only the icons you use."
+2026-11-22T22:28:15.22Z,Blazix.Icons.Phosphor,0.3.0,Halden Collier,"Phosphor Icons for Blazor: 9,000 icons as inline SVG, for Blazix.Icons' Icon component. Trimming keeps only the icons you use."
+2026-11-22T22:28:17.12Z,Blazix.Icons.Remixicon,0.3.0,Halden Collier,"Remix Icon for Blazor: 3,100 icons as inline SVG, for Blazix.Icons' Icon component. Trimming keeps only the icons you use."
+2026-11-22T22:28:19.21Z,Blazix.Icons.FontAwesome,0.3.0,Halden Collier,"Font Awesome Free for Blazor: 2,800 icons as inline SVG, for Blazix.Icons' Icon component. Trimming keeps only the icons you use."
+2026-11-22T22:32:43.79Z,Eternet.AspNetCore.ServiceFabric.EntityFrameworkCore,1.0.2,Eternet.AspNetCore.ServiceFabric.EntityFrameworkCore,"Service Fabric readiness for Entity Framework contexts: each context must connect, a Firebird context must find every relation and column its model maps, and a context with migrations must have none pending (Eternet/Devs.Issues#2427)."
+2026-11-22T22:57:27.22Z,PoeFilterX,3.30.1,SteffenBlake,Compiler and language server for PoeFilterX filters and filter stylesheets.
+2026-11-22T23:02:02.663Z,Freenaute.Freebox.Mcp,1.0.0,Freenaute,"Local stdio MCP server for read-only Freebox discovery, pairing coordination, and system/network status."
+2026-11-22T23:02:42.547Z,Lab5Package.Mku2026,1.0.0,PavelShanygin,Package Description
+2026-11-22T23:11:40.043Z,QrDown.Uploader,1.0.0,QrDown.Sender,QrDown göndericisi: dosyayı animasyonlu QR dizisi olarak gösterir. Çalıştırıcı projeden SenderApp.Run(args) ile açılır.
+2026-11-22T23:12:08.657Z,Nethouse.DocuComposer.Client,1.0.0,Nethouse Consulting,"Typed .NET client for generating consistent, template-driven documents from application data with DocuComposer."
