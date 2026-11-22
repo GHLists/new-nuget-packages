@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-22T07:02:45.94Z,Chaldea.HarfBuzzSharp.NativeAssets.HarmonyOS,11.0.0,OpenHarmony.NET,HarmonyOS API15+ x86_64 and arm64 native assets for HarfBuzzSharp 14.4.0.200.
+2026-11-22T07:02:47.843Z,Chaldea.OpenHarmony.Framework,11.0.0,OpenHarmony.Framework,C# platform APIs and reusable SurfaceView host for OpenHarmony API 15+.
+2026-11-22T07:02:49.243Z,Chaldea.OpenHarmony.HapTooling,11.0.0,OpenHarmony.NET,"Provider-owned HAP/APP packaging tooling for the XEngine HarmonyOS build pipeline. Exposes the BuildHap/VerifyHap/BuildApp/VerifyApp MSBuild targets that XEngine's HarmonyOSBuildPipeline invokes, plus the generic Stage template (Hvigor project skeleton, XComponent native-host wiring), the xengine-p…"
+2026-11-22T07:02:50.597Z,Chaldea.OpenHarmony.NDK.Bindings,11.0.0,OpenHarmony.NET,OpenHarmony Native SDK bindings for .NET 11.
+2026-11-22T07:02:51.86Z,Chaldea.OpenHarmony.Player.Sdk,11.0.0,OpenHarmony.NET,MSBuild SDK for OpenHarmony NativeAOT shared libraries.
+2026-11-22T07:02:53.303Z,Chaldea.OpenHarmony.PublishAotCross,11.0.0,"OpenHarmony.NET, xljiulang, Michal Strehovsky",MSBuild targets to aid in crosscompiling Native AOT publishing.
+2026-11-22T07:02:56.357Z,Chaldea.OpenHarmony.Runtime.NativeAot.arm64-v8a,11.0.0,OpenHarmony.NET,OpenHarmony .NET 11 NativeAOT API13 baseline runtime for arm64-v8a.
+2026-11-22T07:02:59.867Z,Chaldea.OpenHarmony.Runtime.NativeAot.x86_64,11.0.0,OpenHarmony.NET,OpenHarmony .NET 11 NativeAOT API13 baseline runtime for x86_64.
+2026-11-22T07:03:01.23Z,Chaldea.OpenHarmony.Sdk,11.0.0,OpenHarmony.NET,"OpenHarmony .NET 11 workload SDK, NativeAOT application and HAP tooling."
+2026-11-22T07:03:02.62Z,Chaldea.OpenHarmony.Templates,11.0.0,OpenHarmony.NET,dotnet new ohos application template.
+2026-11-22T07:03:05.057Z,Chaldea.SkiaSharp.NativeAssets.HarmonyOS,11.0.0,OpenHarmony.NET,HarmonyOS API15+ x86_64 and arm64 native assets for SkiaSharp 4.157.0.
+2026-11-22T07:03:06.947Z,Chaldea.OpenHarmony.Workload.Manifest-11.0.100,11.0.0,OpenHarmony.NET,Workload manifest for the harmonyos .NET 11 workload.
+2026-11-22T07:03:08.263Z,Chaldea.OpenHarmony.Workload,11.0.0,"Chaldea,OpenHarmony.NET contributors",Registers the harmonyos workload for a standalone .NET SDK. No PowerShell script or source checkout required.

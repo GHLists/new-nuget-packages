@@ -12,24 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 06:21 UTC
+## Latest list — 2026-11-22 07:18 UTC
 
-New packages created between 2026-11-22 05:19 UTC and 2026-11-22 06:21 UTC.
+New packages created between 2026-11-22 06:21 UTC and 2026-11-22 07:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T06-21-01-490129Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T07-18-46-970391Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 05:25:49 | [CutsceneML.LanguageServer](https://www.nuget.org/packages/CutsceneML.LanguageServer) | 1.0.0 | CutsceneML.LanguageServer | Package Description |
-| 2026-11-22 05:25:50 | [CutsceneML.Analysis](https://www.nuget.org/packages/CutsceneML.Analysis) | 1.0.0 | CutsceneML.Analysis | Package Description |
-| 2026-11-22 05:25:54 | [d20tek-dicenotation-mathnet](https://www.nuget.org/packages/d20tek-dicenotation-mathnet) | 5.2.1 | DarthPedro | Adds a die roller for d20Tek.DiceNotation that uses Math.NET Numerics random so… |
-| 2026-11-22 05:27:36 | [Cavesserie](https://www.nuget.org/packages/Cavesserie) | 1.0.0 | Cavésserie — artisan bakery c… | Cavésserie artisan bakery cafe Meruya constants. Official: https://cavesserie.c… |
-| 2026-11-22 05:39:37 | [ChsBuffer.Avalonia.AppHost.linux-musl-x64](https://www.nuget.org/packages/ChsBuffer.Avalonia.AppHost.linux-musl-x64) | 12.0.6 | ChsBuffer | Prelinked Avalonia apphost/singlefilehost templates for linux-musl-x64 (net10.0… |
-| 2026-11-22 05:39:39 | [ChsBuffer.Avalonia.AppHost.linux-musl-arm64](https://www.nuget.org/packages/ChsBuffer.Avalonia.AppHost.linux-musl-arm64) | 12.0.6 | ChsBuffer | Prelinked Avalonia apphost/singlefilehost templates for linux-musl-arm64 (net10… |
-| 2026-11-22 05:50:50 | [Lacigale](https://www.nuget.org/packages/Lacigale) | 1.0.0 | La Cigale — hostal restaurant… | La Cigale hostel restaurant Cuenca Ecuador constants. Official: https://www.lac… |
-| 2026-11-22 05:59:18 | [Meziantou.Framework.WasmEngine](https://www.nuget.org/packages/Meziantou.Framework.WasmEngine) | 1.0.0 | meziantou | A WebAssembly engine written in .NET: a decoder, a validator, an interpreter an… |
-| 2026-11-22 05:59:19 | [Meziantou.Framework.WebPlatform.Wasm](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.Wasm) | 1.0.0 | meziantou | Runs the WebAssembly modules of the scripts of Meziantou.Framework.WebPlatform… |
-| 2026-11-22 06:03:19 | [NetWasm.Hosts](https://www.nuget.org/packages/NetWasm.Hosts) | 0.15.1 | Zion Sati | Publishes a NetWasm wasi:http service component for hosts that run JavaScript:… |
+| 2026-11-22 07:02:45 | [Chaldea.HarfBuzzSharp.NativeAssets.HarmonyOS](https://www.nuget.org/packages/Chaldea.HarfBuzzSharp.NativeAssets.HarmonyOS) | 11.0.0 | OpenHarmony.NET | HarmonyOS API15+ x86_64 and arm64 native assets for HarfBuzzSharp 14.4.0.200. |
+| 2026-11-22 07:02:47 | [Chaldea.OpenHarmony.Framework](https://www.nuget.org/packages/Chaldea.OpenHarmony.Framework) | 11.0.0 | OpenHarmony.Framework | C# platform APIs and reusable SurfaceView host for OpenHarmony API 15+. |
+| 2026-11-22 07:02:49 | [Chaldea.OpenHarmony.HapTooling](https://www.nuget.org/packages/Chaldea.OpenHarmony.HapTooling) | 11.0.0 | OpenHarmony.NET | Provider-owned HAP/APP packaging tooling for the XEngine HarmonyOS build pipeli… |
+| 2026-11-22 07:02:50 | [Chaldea.OpenHarmony.NDK.Bindings](https://www.nuget.org/packages/Chaldea.OpenHarmony.NDK.Bindings) | 11.0.0 | OpenHarmony.NET | OpenHarmony Native SDK bindings for .NET 11. |
+| 2026-11-22 07:02:51 | [Chaldea.OpenHarmony.Player.Sdk](https://www.nuget.org/packages/Chaldea.OpenHarmony.Player.Sdk) | 11.0.0 | OpenHarmony.NET | MSBuild SDK for OpenHarmony NativeAOT shared libraries. |
+| 2026-11-22 07:02:53 | [Chaldea.OpenHarmony.PublishAotCross](https://www.nuget.org/packages/Chaldea.OpenHarmony.PublishAotCross) | 11.0.0 | OpenHarmony.NET, xljiulang, M… | MSBuild targets to aid in crosscompiling Native AOT publishing. |
+| 2026-11-22 07:02:56 | [Chaldea.OpenHarmony.Runtime.NativeAot.arm64-v8a](https://www.nuget.org/packages/Chaldea.OpenHarmony.Runtime.NativeAot.arm64-v8a) | 11.0.0 | OpenHarmony.NET | OpenHarmony .NET 11 NativeAOT API13 baseline runtime for arm64-v8a. |
+| 2026-11-22 07:02:59 | [Chaldea.OpenHarmony.Runtime.NativeAot.x86_64](https://www.nuget.org/packages/Chaldea.OpenHarmony.Runtime.NativeAot.x86_64) | 11.0.0 | OpenHarmony.NET | OpenHarmony .NET 11 NativeAOT API13 baseline runtime for x86_64. |
+| 2026-11-22 07:03:01 | [Chaldea.OpenHarmony.Sdk](https://www.nuget.org/packages/Chaldea.OpenHarmony.Sdk) | 11.0.0 | OpenHarmony.NET | OpenHarmony .NET 11 workload SDK, NativeAOT application and HAP tooling. |
+| 2026-11-22 07:03:02 | [Chaldea.OpenHarmony.Templates](https://www.nuget.org/packages/Chaldea.OpenHarmony.Templates) | 11.0.0 | OpenHarmony.NET | dotnet new ohos application template. |
+| 2026-11-22 07:03:05 | [Chaldea.SkiaSharp.NativeAssets.HarmonyOS](https://www.nuget.org/packages/Chaldea.SkiaSharp.NativeAssets.HarmonyOS) | 11.0.0 | OpenHarmony.NET | HarmonyOS API15+ x86_64 and arm64 native assets for SkiaSharp 4.157.0. |
+| 2026-11-22 07:03:06 | [Chaldea.OpenHarmony.Workload.Manifest-11.0.100](https://www.nuget.org/packages/Chaldea.OpenHarmony.Workload.Manifest-11.0.100) | 11.0.0 | OpenHarmony.NET | Workload manifest for the harmonyos .NET 11 workload. |
+| 2026-11-22 07:03:08 | [Chaldea.OpenHarmony.Workload](https://www.nuget.org/packages/Chaldea.OpenHarmony.Workload) | 11.0.0 | Chaldea,OpenHarmony.NET contr… | Registers the harmonyos workload for a standalone .NET SDK. No PowerShell scrip… |
 
 ## Data source
 
