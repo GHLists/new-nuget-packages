@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-22T00:26:01.9Z,Besapi.MSBuild,2026.11.1,Besapi,Build-time C# and TypeScript client generation from OpenAPI documents.
+2026-11-22T00:26:31.34Z,SparkplugNet.Extensions.Json,1.5.0,SeppPenner,JSON converters for Sparkplug B metrics using System.Text.Json or Newtonsoft.Json.
+2026-11-22T00:27:09.753Z,TaintSharp,1.0.0,uwx,".NET bindings for taint, a SPIR-V to WGSL translator built on Google's Tint."
+2026-11-22T00:34:27.597Z,Mermaid.Terminal,0.5.0,Mermaid.Terminal,"Render Mermaid flowcharts and sequence diagrams to terminal text. A port of the MIT-licensed mermaid-ascii layout and drawing, usable without Lunate."
+2026-11-22T01:05:57.687Z,Hansho,0.1.0,Recodive,"Official .NET client for a Hansho hub: pair users, define channels, templates and sounds, send notifications, pages, Live Activities and widget feeds, and verify the hub's webhooks. No dependencies beyond the base class library."
+2026-11-22T01:07:45.757Z,NoticeForge,0.1.0,prota-p,"Generates a third-party notices file from a .NET publish folder, using the original license texts, and fails the build on unknown or disallowed licenses."
+2026-11-22T01:08:50.857Z,No2SQL.win-x64,1.1.0,Preet Talati,No2SQL MCP server that transforms MongoDB schemas into SQL schema scripts and ER diagrams.
+2026-11-22T01:09:23.063Z,No2SQL.linux-arm64,1.1.0,Preet Talati,No2SQL MCP server that transforms MongoDB schemas into SQL schema scripts and ER diagrams.
+2026-11-22T01:09:44.187Z,No2SQL.osx-arm64,1.1.0,Preet Talati,No2SQL MCP server that transforms MongoDB schemas into SQL schema scripts and ER diagrams.
+2026-11-22T01:12:26.277Z,CSX.CliTool,1.0.0,CSX.CliTool,Package Description
+2026-11-22T01:12:27.123Z,CSX.LanguageServer,1.0.0,CSX.LanguageServer,Package Description
+2026-11-22T01:12:27.997Z,CSX.Parser,1.0.0,CSX.Parser,Package Description
+2026-11-22T01:12:28.8Z,CSX.Transformer,1.0.0,CSX.Transformer,Package Description
