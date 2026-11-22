@@ -12,43 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 09:18 UTC
+## Latest list — 2026-11-22 10:21 UTC
 
-New packages created between 2026-11-22 08:18 UTC and 2026-11-22 09:18 UTC.
+New packages created between 2026-11-22 09:18 UTC and 2026-11-22 10:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T09-18-45-831076Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T10-21-19-789783Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 08:20:32 | [Chondrite.Store](https://www.nuget.org/packages/Chondrite.Store) | 0.9.0-alpha01 | LEAP 71 | Shared storage contracts and canonical binary serialization for Chondrite. |
-| 2026-11-22 08:22:31 | [NarrativeTrace.Clarity.Tool](https://www.nuget.org/packages/NarrativeTrace.Clarity.Tool) | 0.5.0 | Empower Agile | The NarrativeTrace clarity tool (dotnet-narrativetrace-clarity): clarity-scan,… |
-| 2026-11-22 08:23:01 | [Aspose.GIS.Python](https://www.nuget.org/packages/Aspose.GIS.Python) | 26.11.0 | Aspose | Aspose.GIS for .NET is an on premise API developed in C# 100% managed code. It… |
-| 2026-11-22 08:26:23 | [Stuja](https://www.nuget.org/packages/Stuja) | 1.0.0 | Stuja Coffee — coffee bar Cip… | Stuja Coffee cafe Cipete, Jakarta Selatan constants. Official: https://stujacof… |
-| 2026-11-22 08:26:30 | [Suduttimur](https://www.nuget.org/packages/Suduttimur) | 1.0.0 | Sudut Timur — coffee & eatery… | Sudut Timur cafe Kramat Jati, Jakarta Timur constants. Official: https://sudutt… |
-| 2026-11-22 08:26:37 | [Fotkop](https://www.nuget.org/packages/Fotkop) | 1.0.0 | Warung Fotkop — kopi & makana… | Warung Fotkop cafe Cipete Utara, Jakarta Selatan constants. Official: https://f… |
-| 2026-11-22 08:26:46 | [Kopimaru](https://www.nuget.org/packages/Kopimaru) | 1.0.0 | Toko Kopi Maru — coffee shop… | Toko Kopi Maru cafe Pasar Baru, Jakarta Pusat constants. Official: https://toko… |
-| 2026-11-22 08:26:53 | [Tjeritarasa](https://www.nuget.org/packages/Tjeritarasa) | 1.0.0 | Tjerita Rasa Bakmie & Kopi —… | Tjerita Rasa cafe Tanjung Duren, Jakarta Barat constants. Official: https://tje… |
-| 2026-11-22 08:26:59 | [Sukukata](https://www.nuget.org/packages/Sukukata) | 1.0.0 | Suku Kata Kopi — coffee shop… | Suku Kata Kopi cafe Grogol Utara, Jakarta Selatan constants. Official: https://… |
-| 2026-11-22 08:27:07 | [Candakoffie](https://www.nuget.org/packages/Candakoffie) | 1.0.0 | Canda Koffie — coffee shop Ha… | Canda Koffie cafe Gandaria Utara, Jakarta Selatan constants. Official: https://… |
-| 2026-11-22 08:27:13 | [Koacung](https://www.nuget.org/packages/Koacung) | 1.0.0 | Kopi Ko Acung — kopitiam Pera… | Kopi Ko Acung cafe Menteng / Sabang, Jakarta Pusat constants. Official: https:/… |
-| 2026-11-22 08:27:19 | [Suryabenhil](https://www.nuget.org/packages/Suryabenhil) | 1.0.0 | Rumah Makan SURYA Benhil — na… | Rumah Makan SURYA cafe Bendungan Hilir, Jakarta Pusat constants. Official: http… |
-| 2026-11-22 08:36:06 | [EraTech.NotificationManagement.AspNetCore.SignalR](https://www.nuget.org/packages/EraTech.NotificationManagement.AspNetCore.SignalR) | 2.2.43 | EraTech | Package Description |
-| 2026-11-22 08:36:16 | [EraTech.OperationRateLimiting.AspNetCore](https://www.nuget.org/packages/EraTech.OperationRateLimiting.AspNetCore) | 2.2.43 | EraTech | Package Description |
-| 2026-11-22 08:36:17 | [EraTech.OperationRateLimiting.Domain](https://www.nuget.org/packages/EraTech.OperationRateLimiting.Domain) | 2.2.43 | EraTech | Package Description |
-| 2026-11-22 08:36:18 | [EraTech.OperationRateLimiting.Domain.Shared](https://www.nuget.org/packages/EraTech.OperationRateLimiting.Domain.Shared) | 2.2.43 | EraTech | Package Description |
-| 2026-11-22 08:36:44 | [ReactiveUI.WinForms.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.WinForms.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code control hosts for ReactiveUI.WinForms.Reacti… |
-| 2026-11-22 08:36:46 | [ReactiveUI.WPF.Unsafe](https://www.nuget.org/packages/ReactiveUI.WPF.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
-| 2026-11-22 08:36:47 | [ReactiveUI.Maui.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.Maui.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts for ReactiveUI.Maui.Reactive (Vie… |
-| 2026-11-22 08:36:47 | [ReactiveUI.Unsafe](https://www.nuget.org/packages/ReactiveUI.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI (Unsafe view hosts, asse… |
-| 2026-11-22 08:36:48 | [ReactiveUI.Maui.Unsafe](https://www.nuget.org/packages/ReactiveUI.Maui.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts for ReactiveUI.Maui (ViewModelVie… |
-| 2026-11-22 08:36:51 | [ReactiveUI.AndroidX.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.AndroidX.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI.AndroidX.Reactive (Fragm… |
-| 2026-11-22 08:36:53 | [ReactiveUI.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI.Reactive (Unsafe view ho… |
-| 2026-11-22 08:36:56 | [ReactiveUI.WinForms.Unsafe](https://www.nuget.org/packages/ReactiveUI.WinForms.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code control hosts for ReactiveUI.WinForms (ViewM… |
-| 2026-11-22 08:36:57 | [ReactiveUI.WPF.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.WPF.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
-| 2026-11-22 08:36:58 | [ReactiveUI.WinUI.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.WinUI.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
-| 2026-11-22 08:36:59 | [ReactiveUI.AndroidX.Unsafe](https://www.nuget.org/packages/ReactiveUI.AndroidX.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI.AndroidX (Fragment WireU… |
-| 2026-11-22 08:37:00 | [ReactiveUI.WinUI.Unsafe](https://www.nuget.org/packages/ReactiveUI.WinUI.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
-| 2026-11-22 08:45:01 | [NewLife.TDengine](https://www.nuget.org/packages/NewLife.TDengine) | 1.0.2026.1122-beta0… | 新生命开发团队 | 纯托管 TDengine ADO.NET 驱动，支持 REST（http://）、WebSocket（ws://）与传统原生 RPC（tcp://）三种连接模… |
+| 2026-11-22 09:22:28 | [Rop.AbsDatabase11](https://www.nuget.org/packages/Rop.AbsDatabase11) | 1.0.0 | Ramon Ordiales Plaza | Abstract database layer for Rop.Database11 suite with Unit of Work pattern, tra… |
+| 2026-11-22 09:22:49 | [Rop.SqlDatabase11](https://www.nuget.org/packages/Rop.SqlDatabase11) | 1.0.0 | Ramon Ordiales Plaza | SQL Server implementation for Rop.Database11 with Change Tracking, Repository p… |
+| 2026-11-22 09:24:58 | [Farfbuzz](https://www.nuget.org/packages/Farfbuzz) | 1.0.0-rc | Lord Aytharn | A fully managed F# reimplementation of the HarfBuzz text shaper. |
+| 2026-11-22 09:25:00 | [Farfbuzz.HarfBuzzSharp.Bridge](https://www.nuget.org/packages/Farfbuzz.HarfBuzzSharp.Bridge) | 1.0.0-rc | Lord Aytharn | The F# bridge between the HarfBuzzSharp-compatible C# shell and the Farfbuzz co… |
+| 2026-11-22 09:25:01 | [Farfbuzz.HarfBuzzSharp](https://www.nuget.org/packages/Farfbuzz.HarfBuzzSharp) | 1.0.0-rc | Lord Aytharn | A HarfBuzzSharp-compatible assembly implemented on Farfbuzz: the public API of… |
+| 2026-11-22 09:30:31 | [Cratis.Showrunner.Playbill](https://www.nuget.org/packages/Cratis.Showrunner.Playbill) | 2.19.0 | Cratis | Playbill — the Showrunner release-notes part: embed the release history in the… |
+| 2026-11-22 09:37:58 | [MusselSheet.Core](https://www.nuget.org/packages/MusselSheet.Core) | 2.0.0 | machi_pon | Sheet model, cell settings, values, computation, binding and design JSON of Mus… |
+| 2026-11-22 09:47:26 | [YEnclave.Testing](https://www.nuget.org/packages/YEnclave.Testing) | 0.1.0 | iyulab | An in-memory fake of the Y-Enclave control and in-enclave APIs for application… |
+| 2026-11-22 09:47:28 | [YEnclave.Client](https://www.nuget.org/packages/YEnclave.Client) | 0.1.0 | iyulab | The HTTP client of the Y-Enclave control API, implementing the YEnclave.Abstrac… |
+| 2026-11-22 09:47:29 | [YEnclave.Abstractions](https://www.nuget.org/packages/YEnclave.Abstractions) | 0.1.0 | iyulab | Interfaces, models and errors for leasing isolated enclaves and workspaces thro… |
+| 2026-11-22 09:49:35 | [Hypaxel.AspNetCore](https://www.nuget.org/packages/Hypaxel.AspNetCore) | 0.4.0 | Hypaxel contributors | ASP.NET Core integration for Hypaxel: stream XLSX files straight into HTTP resp… |
+| 2026-11-22 09:49:36 | [Hypaxel](https://www.nuget.org/packages/Hypaxel) | 0.4.0 | Hypaxel contributors | High-performance, low-allocation XLSX (Excel) writer and streaming reader for .… |
+| 2026-11-22 09:59:39 | [Bielu.AspNetCore.AsyncApi.OpenApiSchema](https://www.nuget.org/packages/Bielu.AspNetCore.AsyncApi.OpenApiSchema) | 3.2.0 | Arkadiusz Biel | Describes AsyncAPI message payloads as OpenAPI 3.0 Schema Objects (schemaFormat… |
+| 2026-11-22 10:06:48 | [Lewee.Auth.Api](https://www.nuget.org/packages/Lewee.Auth.Api) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:49 | [Lewee.Auth.Application](https://www.nuget.org/packages/Lewee.Auth.Application) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:49 | [Lewee.Auth.Domain](https://www.nuget.org/packages/Lewee.Auth.Domain) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:50 | [Lewee.Auth.Infrastructure.Data](https://www.nuget.org/packages/Lewee.Auth.Infrastructure.Data) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:50 | [Lewee.Common](https://www.nuget.org/packages/Lewee.Common) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:51 | [Lewee.Infrastructure.Auth](https://www.nuget.org/packages/Lewee.Infrastructure.Auth) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:52 | [Lewee.Infrastructure.Correlate](https://www.nuget.org/packages/Lewee.Infrastructure.Correlate) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:53 | [Lewee.Infrastructure.FastEndpoints](https://www.nuget.org/packages/Lewee.Infrastructure.FastEndpoints) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:53 | [Lewee.Infrastructure.Fluxor](https://www.nuget.org/packages/Lewee.Infrastructure.Fluxor) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:55 | [Lewee.Infrastructure.PostgreSQL](https://www.nuget.org/packages/Lewee.Infrastructure.PostgreSQL) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:55 | [Lewee.Infrastructure.Refit](https://www.nuget.org/packages/Lewee.Infrastructure.Refit) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:56 | [Lewee.Infrastructure.ServerEvents](https://www.nuget.org/packages/Lewee.Infrastructure.ServerEvents) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:06:57 | [Lewee.Playwright](https://www.nuget.org/packages/Lewee.Playwright) | 0.40.3 | Saji Weerasingham | Package Description |
 
 ## Data source
 

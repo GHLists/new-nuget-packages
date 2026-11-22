@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-22T09:22:28.69Z,Rop.AbsDatabase11,1.0.0,Ramon Ordiales Plaza,"Abstract database layer for Rop.Database11 suite with Unit of Work pattern, transaction management, and connection pooling"
+2026-11-22T09:22:49.873Z,Rop.SqlDatabase11,1.0.0,Ramon Ordiales Plaza,"SQL Server implementation for Rop.Database11 with Change Tracking, Repository patterns, Cache, and advanced features"
+2026-11-22T09:24:58.41Z,Farfbuzz,1.0.0-rc,Lord Aytharn,A fully managed F# reimplementation of the HarfBuzz text shaper.
+2026-11-22T09:25:00.17Z,Farfbuzz.HarfBuzzSharp.Bridge,1.0.0-rc,Lord Aytharn,The F# bridge between the HarfBuzzSharp-compatible C# shell and the Farfbuzz core: pure functions with C#-friendly shapes.
+2026-11-22T09:25:01.853Z,Farfbuzz.HarfBuzzSharp,1.0.0-rc,Lord Aytharn,"A HarfBuzzSharp-compatible assembly implemented on Farfbuzz: the public API of HarfBuzzSharp 14.4.0, no native library."
+2026-11-22T09:30:31.207Z,Cratis.Showrunner.Playbill,2.19.0,Cratis,"Playbill — the Showrunner release-notes part: embed the release history in the application at build time, serve it from /.cratis/playbill, and remember which releases each person has seen, built on Cratis Arc and Chronicle."
+2026-11-22T09:37:58.573Z,MusselSheet.Core,2.0.0,machi_pon,"Sheet model, cell settings, values, computation, binding and design JSON of MusselSheet, without UI"
+2026-11-22T09:47:26.887Z,YEnclave.Testing,0.1.0,iyulab,"An in-memory fake of the Y-Enclave control and in-enclave APIs for application unit tests: the lifecycle state machine with its transitional states, single-writer workspaces, pinned resources that refuse requests without a subject signature, capability and quota refusals, and an event feed."
+2026-11-22T09:47:28.493Z,YEnclave.Client,0.1.0,iyulab,"The HTTP client of the Y-Enclave control API, implementing the YEnclave.Abstractions interfaces: RFC 9457 problems as exceptions, the server-sent event feed with resumption, and subject signatures computed over the request as sent."
+2026-11-22T09:47:29.75Z,YEnclave.Abstractions,0.1.0,iyulab,"Interfaces, models and errors for leasing isolated enclaves and workspaces through the Y-Enclave API. Applications depend on this package and choose an implementation (YEnclave.Client, YEnclave.Testing) where they are composed."
+2026-11-22T09:49:35.51Z,Hypaxel.AspNetCore,0.4.0,Hypaxel contributors,ASP.NET Core integration for Hypaxel: stream XLSX files straight into HTTP responses from Minimal APIs and MVC controllers.
+2026-11-22T09:49:36.06Z,Hypaxel,0.4.0,Hypaxel contributors,"High-performance, low-allocation XLSX (Excel) writer and streaming reader for .NET. Writes directly to any Stream, including ASP.NET Core response bodies, and reads rows with bounded memory."
+2026-11-22T09:59:39.843Z,Bielu.AspNetCore.AsyncApi.OpenApiSchema,3.2.0,Arkadiusz Biel,"Describes AsyncAPI message payloads as OpenAPI 3.0 Schema Objects (schemaFormat application/vnd.oai.openapi;version=3.0.0), converted from the generated JSON Schemas, so tools built for OpenAPI read event payloads the way they read HTTP bodies."
+2026-11-22T10:06:48.46Z,Lewee.Auth.Api,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:49.02Z,Lewee.Auth.Application,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:49.56Z,Lewee.Auth.Domain,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:50.18Z,Lewee.Auth.Infrastructure.Data,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:50.717Z,Lewee.Common,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:51.6Z,Lewee.Infrastructure.Auth,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:52.323Z,Lewee.Infrastructure.Correlate,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:53.28Z,Lewee.Infrastructure.FastEndpoints,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:53.97Z,Lewee.Infrastructure.Fluxor,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:55.237Z,Lewee.Infrastructure.PostgreSQL,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:55.833Z,Lewee.Infrastructure.Refit,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:56.553Z,Lewee.Infrastructure.ServerEvents,0.40.3,Saji Weerasingham,Package Description
+2026-11-22T10:06:57.13Z,Lewee.Playwright,0.40.3,Saji Weerasingham,Package Description
