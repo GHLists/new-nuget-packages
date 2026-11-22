@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-22T03:20:13.5Z,Erdigo.Core,1.0.0,Ziorentia,"The integration-v1 wire format, strict JSON and Noise handshakes used by the Erdigo SDK."
+2026-11-22T03:20:14.58Z,Erdigo.Send,1.0.0,Ziorentia,"Writes pins, markers, notes, photos and tracks to a paired Erdigo receiver, and runs a mock receiver for testing."
+2026-11-22T03:20:15.283Z,Erdigo.Sdk,1.0.0,Ziorentia,"Writes pins, markers, notes, photos and tracks to an Erdigo receiver on the local network."
+2026-11-22T03:20:16.173Z,Erdigo.MockReceiver,1.0.0,Ziorentia,"An in-memory stand-in for the receiver side of integration-v1, for developing and testing without the Erdigo app."
+2026-11-22T03:39:40.243Z,Cangming.Logs.App,0.1.9.1122,"Fangyu,lukan@xknife.net,Asong65",日志应用层：面板数据源与支持包。
+2026-11-22T03:39:49.983Z,Cangming.Logs.Serilog,0.1.9.1122,"Fangyu,lukan@xknife.net,Asong65",当使用 Serilog 作为日志基础时，提供对日志相关契约的薄适配实现。
+2026-11-22T03:39:52.833Z,Cangming.Logs.Testing,0.1.9.1122,"Fangyu,lukan@xknife.net,Asong65",为插件测试提供 ILogService 的内存捕获实现与日志条目断言，只依赖 Contracts，不依赖具体日志框架与测试框架。
+2026-11-22T03:54:13.597Z,BlazorPowerPack,1.0.0,Jeremy Burman and Gemini,Packs standalone Blazor WebAssembly + Fluent UI apps into compressed binary bundles and deploys them to Microsoft Power Pages.
+2026-11-22T04:15:55.7Z,Chondrite.Compile,0.9.0-alpha01,LEAP 71,Deterministic Chondrite schema compiler with automatic MSBuild integration and a bundled command-line executable.

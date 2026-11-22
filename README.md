@@ -12,21 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 03:19 UTC
+## Latest list — 2026-11-22 04:20 UTC
 
-New packages created between 2026-11-22 02:19 UTC and 2026-11-22 03:19 UTC.
+New packages created between 2026-11-22 03:19 UTC and 2026-11-22 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T03-19-57-809705Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T04-20-17-380056Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 02:21:50 | [Sevencat.ImageFacade.SdcbSimdCodecsAio](https://www.nuget.org/packages/Sevencat.ImageFacade.SdcbSimdCodecsAio) | 0.6.0 | ImageFacade contributors | ImageFacade 的纯托管后端「一体化」版：绘制 / 文字 / 缩放沿用 ImageFacade.SdcbSimdCodecs 的自绘渲染（同一份源码）… |
-| 2026-11-22 02:43:26 | [MASS4.Guinevere.Charts](https://www.nuget.org/packages/MASS4.Guinevere.Charts) | 7.0.0 | Bruno Massa | Allocation-conscious chart geometry and drawing for Guinevere. |
-| 2026-11-22 02:44:53 | [Mediana.Codecs.Alac](https://www.nuget.org/packages/Mediana.Codecs.Alac) | 0.1.34 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-22 02:44:55 | [Mediana.Codecs.ProRes](https://www.nuget.org/packages/Mediana.Codecs.ProRes) | 0.1.34 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-22 02:45:08 | [Mediana.Codecs.Dts](https://www.nuget.org/packages/Mediana.Codecs.Dts) | 0.1.34 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-22 02:55:38 | [Plasm.Sqlite](https://www.nuget.org/packages/Plasm.Sqlite) | 0.3.0 | Plasm contributors | SQLite provider for Plasm (Microsoft.Data.Sqlite). |
-| 2026-11-22 03:05:22 | [GrayMint.Common.Blazor](https://www.nuget.org/packages/GrayMint.Common.Blazor) | 2.1.317 | GrayMint | Blazor WebAssembly components on MudBlazor for admin panels: a property list th… |
+| 2026-11-22 03:20:13 | [Erdigo.Core](https://www.nuget.org/packages/Erdigo.Core) | 1.0.0 | Ziorentia | The integration-v1 wire format, strict JSON and Noise handshakes used by the Er… |
+| 2026-11-22 03:20:14 | [Erdigo.Send](https://www.nuget.org/packages/Erdigo.Send) | 1.0.0 | Ziorentia | Writes pins, markers, notes, photos and tracks to a paired Erdigo receiver, and… |
+| 2026-11-22 03:20:15 | [Erdigo.Sdk](https://www.nuget.org/packages/Erdigo.Sdk) | 1.0.0 | Ziorentia | Writes pins, markers, notes, photos and tracks to an Erdigo receiver on the loc… |
+| 2026-11-22 03:20:16 | [Erdigo.MockReceiver](https://www.nuget.org/packages/Erdigo.MockReceiver) | 1.0.0 | Ziorentia | An in-memory stand-in for the receiver side of integration-v1, for developing a… |
+| 2026-11-22 03:39:40 | [Cangming.Logs.App](https://www.nuget.org/packages/Cangming.Logs.App) | 0.1.9.1122 | Fangyu,lukan@xknife.net,Asong… | 日志应用层：面板数据源与支持包。 |
+| 2026-11-22 03:39:49 | [Cangming.Logs.Serilog](https://www.nuget.org/packages/Cangming.Logs.Serilog) | 0.1.9.1122 | Fangyu,lukan@xknife.net,Asong… | 当使用 Serilog 作为日志基础时，提供对日志相关契约的薄适配实现。 |
+| 2026-11-22 03:39:52 | [Cangming.Logs.Testing](https://www.nuget.org/packages/Cangming.Logs.Testing) | 0.1.9.1122 | Fangyu,lukan@xknife.net,Asong… | 为插件测试提供 ILogService 的内存捕获实现与日志条目断言，只依赖 Contracts，不依赖具体日志框架与测试框架。 |
+| 2026-11-22 03:54:13 | [BlazorPowerPack](https://www.nuget.org/packages/BlazorPowerPack) | 1.0.0 | Jeremy Burman and Gemini | Packs standalone Blazor WebAssembly + Fluent UI apps into compressed binary bun… |
+| 2026-11-22 04:15:55 | [Chondrite.Compile](https://www.nuget.org/packages/Chondrite.Compile) | 0.9.0-alpha01 | LEAP 71 | Deterministic Chondrite schema compiler with automatic MSBuild integration and… |
 
 ## Data source
 
