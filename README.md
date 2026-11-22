@@ -12,21 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 05:19 UTC
+## Latest list — 2026-11-22 06:21 UTC
 
-New packages created between 2026-11-22 04:20 UTC and 2026-11-22 05:19 UTC.
+New packages created between 2026-11-22 05:19 UTC and 2026-11-22 06:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T05-19-21-847934Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T06-21-01-490129Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 04:24:23 | [OmniCore.Database.Connector](https://www.nuget.org/packages/OmniCore.Database.Connector) | 1.2.0 | OmniCore | Client runtime for the OmniCore document database: an HTTP client, change-track… |
-| 2026-11-22 04:27:15 | [OmniCore.PlugIn](https://www.nuget.org/packages/OmniCore.PlugIn) | 1.2.0 | OmniCore | Build OmniCore plugins: implement IPlugin, mark the class with [FireOnAdd], [Fi… |
-| 2026-11-22 04:30:21 | [OmniCore.Cli](https://www.nuget.org/packages/OmniCore.Cli) | 1.3.0 | OmniCore | occtl, the OmniCore command line: sign in to an OmniCore server, manage plugins… |
-| 2026-11-22 04:52:03 | [AbpLanguages](https://www.nuget.org/packages/AbpLanguages) | 0.7.0 | AbpCluster contributors | AbpLanguages: a site's languages and translations for ABP apps on .NET 10. Lang… |
-| 2026-11-22 04:52:04 | [AbpLanguages.HttpApi](https://www.nuget.org/packages/AbpLanguages.HttpApi) | 0.7.0 | AbpCluster contributors | AbpLanguages.HttpApi: AbpLanguages' API over HTTP, under a route prefix the hos… |
-| 2026-11-22 04:54:42 | [Pdfwright](https://www.nuget.org/packages/Pdfwright) | 0.1.0 | Sinan Oran | A small, MIT-licensed PDF writer for reports: paragraphs and tables with pagina… |
-| 2026-11-22 05:01:05 | [Decisions.Codex](https://www.nuget.org/packages/Decisions.Codex) | 1.0.0 | Yue Zhishun | 通过本机 Codex App Server 提供 OpenAI Decisions、Jev System One 和结构化回答。 |
+| 2026-11-22 05:25:49 | [CutsceneML.LanguageServer](https://www.nuget.org/packages/CutsceneML.LanguageServer) | 1.0.0 | CutsceneML.LanguageServer | Package Description |
+| 2026-11-22 05:25:50 | [CutsceneML.Analysis](https://www.nuget.org/packages/CutsceneML.Analysis) | 1.0.0 | CutsceneML.Analysis | Package Description |
+| 2026-11-22 05:25:54 | [d20tek-dicenotation-mathnet](https://www.nuget.org/packages/d20tek-dicenotation-mathnet) | 5.2.1 | DarthPedro | Adds a die roller for d20Tek.DiceNotation that uses Math.NET Numerics random so… |
+| 2026-11-22 05:27:36 | [Cavesserie](https://www.nuget.org/packages/Cavesserie) | 1.0.0 | Cavésserie — artisan bakery c… | Cavésserie artisan bakery cafe Meruya constants. Official: https://cavesserie.c… |
+| 2026-11-22 05:39:37 | [ChsBuffer.Avalonia.AppHost.linux-musl-x64](https://www.nuget.org/packages/ChsBuffer.Avalonia.AppHost.linux-musl-x64) | 12.0.6 | ChsBuffer | Prelinked Avalonia apphost/singlefilehost templates for linux-musl-x64 (net10.0… |
+| 2026-11-22 05:39:39 | [ChsBuffer.Avalonia.AppHost.linux-musl-arm64](https://www.nuget.org/packages/ChsBuffer.Avalonia.AppHost.linux-musl-arm64) | 12.0.6 | ChsBuffer | Prelinked Avalonia apphost/singlefilehost templates for linux-musl-arm64 (net10… |
+| 2026-11-22 05:50:50 | [Lacigale](https://www.nuget.org/packages/Lacigale) | 1.0.0 | La Cigale — hostal restaurant… | La Cigale hostel restaurant Cuenca Ecuador constants. Official: https://www.lac… |
+| 2026-11-22 05:59:18 | [Meziantou.Framework.WasmEngine](https://www.nuget.org/packages/Meziantou.Framework.WasmEngine) | 1.0.0 | meziantou | A WebAssembly engine written in .NET: a decoder, a validator, an interpreter an… |
+| 2026-11-22 05:59:19 | [Meziantou.Framework.WebPlatform.Wasm](https://www.nuget.org/packages/Meziantou.Framework.WebPlatform.Wasm) | 1.0.0 | meziantou | Runs the WebAssembly modules of the scripts of Meziantou.Framework.WebPlatform… |
+| 2026-11-22 06:03:19 | [NetWasm.Hosts](https://www.nuget.org/packages/NetWasm.Hosts) | 0.15.1 | Zion Sati | Publishes a NetWasm wasi:http service component for hosts that run JavaScript:… |
 
 ## Data source
 

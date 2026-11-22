@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-22T05:25:49.783Z,CutsceneML.LanguageServer,1.0.0,CutsceneML.LanguageServer,Package Description
+2026-11-22T05:25:50.407Z,CutsceneML.Analysis,1.0.0,CutsceneML.Analysis,Package Description
+2026-11-22T05:25:54.13Z,d20tek-dicenotation-mathnet,5.2.1,DarthPedro,"Adds a die roller for d20Tek.DiceNotation that uses Math.NET Numerics random sources, including a seeded, replayable Mersenne Twister roller."
+2026-11-22T05:27:36.847Z,Cavesserie,1.0.0,Cavésserie — artisan bakery cafe venue Meruya,Cavésserie artisan bakery cafe Meruya constants. Official: https://cavesserie.com/
+2026-11-22T05:39:37.693Z,ChsBuffer.Avalonia.AppHost.linux-musl-x64,12.0.6,ChsBuffer,"Prelinked Avalonia apphost/singlefilehost templates for linux-musl-x64 (net10.0, net11.0), with static native libraries."
+2026-11-22T05:39:39.83Z,ChsBuffer.Avalonia.AppHost.linux-musl-arm64,12.0.6,ChsBuffer,"Prelinked Avalonia apphost/singlefilehost templates for linux-musl-arm64 (net10.0, net11.0), with static native libraries."
+2026-11-22T05:50:50.257Z,Lacigale,1.0.0,La Cigale — hostal restaurante Cuenca Ecuador,La Cigale hostel restaurant Cuenca Ecuador constants. Official: https://www.lacigale.ec/home/
+2026-11-22T05:59:18.473Z,Meziantou.Framework.WasmEngine,1.0.0,meziantou,"A WebAssembly engine written in .NET: a decoder, a validator, an interpreter and a compiler to .NET code for WebAssembly 3.0 modules, with host functions, memories, tables, globals, exceptions, GC references, shared memories and the text format."
+2026-11-22T05:59:19.35Z,Meziantou.Framework.WebPlatform.Wasm,1.0.0,meziantou,Runs the WebAssembly modules of the scripts of Meziantou.Framework.WebPlatform with Meziantou.Framework.WasmEngine (a WebAssemblyRuntime for the WebAssembly JavaScript API).
+2026-11-22T06:03:19.277Z,NetWasm.Hosts,0.15.1,Zion Sati,Publishes a NetWasm wasi:http service component for hosts that run JavaScript: dotnet publish also writes a Cloudflare Worker that wrangler runs and deploys.
