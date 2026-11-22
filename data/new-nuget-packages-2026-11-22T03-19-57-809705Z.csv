@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-22T02:21:50.89Z,Sevencat.ImageFacade.SdcbSimdCodecsAio,0.6.0,ImageFacade contributors,ImageFacade 的纯托管后端「一体化」版：绘制 / 文字 / 缩放沿用 ImageFacade.SdcbSimdCodecs 的自绘渲染（同一份源码），编解码改走 Sdcb.SimdCodecs 的聚合门面并用 ILRepack 把聚合包及其全部格式程序集合并进本 dll——装一个包就能读写 PNG/JPEG/BMP/GIF/WebP/TIFF/ICO/QOI/PNM，**不需要 RegisterCodec**，也不用再逐个引格式包，且无原生依赖、AOT 友好。
+2026-11-22T02:43:26.893Z,MASS4.Guinevere.Charts,7.0.0,Bruno Massa,Allocation-conscious chart geometry and drawing for Guinevere.
+2026-11-22T02:44:53.6Z,Mediana.Codecs.Alac,0.1.34,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-22T02:44:55.67Z,Mediana.Codecs.ProRes,0.1.34,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-22T02:45:08.46Z,Mediana.Codecs.Dts,0.1.34,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-22T02:55:38.563Z,Plasm.Sqlite,0.3.0,Plasm contributors,SQLite provider for Plasm (Microsoft.Data.Sqlite).
+2026-11-22T03:05:22.36Z,GrayMint.Common.Blazor,2.1.317,GrayMint,"Blazor WebAssembly components on MudBlazor for admin panels: a property list that shows and edits each value in place, a card that frames a list or an item (title, refresh, search, delete), typed input and select dialogs, and a wait state"

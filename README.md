@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 02:19 UTC
+## Latest list — 2026-11-22 03:19 UTC
 
-New packages created between 2026-11-22 01:21 UTC and 2026-11-22 02:19 UTC.
+New packages created between 2026-11-22 02:19 UTC and 2026-11-22 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T02-19-17-003031Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T03-19-57-809705Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 01:31:13 | [ConsealDev.Conseal](https://www.nuget.org/packages/ConsealDev.Conseal) | 0.7.0 | consealdev | Encrypted sync backend for ASP.NET Core: the sync and circle routes of the Cons… |
-| 2026-11-22 01:50:21 | [barvad.RotatingBloomFilter](https://www.nuget.org/packages/barvad.RotatingBloomFilter) | 1.0.0 | barvad | Thread-safe Bloom filters for .NET, including a lock-free rotating Bloom filter… |
-| 2026-11-22 01:53:13 | [Capay.Dto](https://www.nuget.org/packages/Capay.Dto) | 1.1.0-beta | dto | Package Description |
-| 2026-11-22 02:08:02 | [Chondrite.Core](https://www.nuget.org/packages/Chondrite.Core) | 0.9.0-alpha02 | LEAP 71 | Core immutable object identity and canonical SHA-256 hashing for Chondrite. |
-| 2026-11-22 02:08:56 | [VideoShot.CaptionSafeArea](https://www.nuget.org/packages/VideoShot.CaptionSafeArea) | 0.1.0 | js-upup | Compute a caption-safe pixel rectangle from video dimensions and percentage mar… |
+| 2026-11-22 02:21:50 | [Sevencat.ImageFacade.SdcbSimdCodecsAio](https://www.nuget.org/packages/Sevencat.ImageFacade.SdcbSimdCodecsAio) | 0.6.0 | ImageFacade contributors | ImageFacade 的纯托管后端「一体化」版：绘制 / 文字 / 缩放沿用 ImageFacade.SdcbSimdCodecs 的自绘渲染（同一份源码）… |
+| 2026-11-22 02:43:26 | [MASS4.Guinevere.Charts](https://www.nuget.org/packages/MASS4.Guinevere.Charts) | 7.0.0 | Bruno Massa | Allocation-conscious chart geometry and drawing for Guinevere. |
+| 2026-11-22 02:44:53 | [Mediana.Codecs.Alac](https://www.nuget.org/packages/Mediana.Codecs.Alac) | 0.1.34 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-22 02:44:55 | [Mediana.Codecs.ProRes](https://www.nuget.org/packages/Mediana.Codecs.ProRes) | 0.1.34 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-22 02:45:08 | [Mediana.Codecs.Dts](https://www.nuget.org/packages/Mediana.Codecs.Dts) | 0.1.34 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-22 02:55:38 | [Plasm.Sqlite](https://www.nuget.org/packages/Plasm.Sqlite) | 0.3.0 | Plasm contributors | SQLite provider for Plasm (Microsoft.Data.Sqlite). |
+| 2026-11-22 03:05:22 | [GrayMint.Common.Blazor](https://www.nuget.org/packages/GrayMint.Common.Blazor) | 2.1.317 | GrayMint | Blazor WebAssembly components on MudBlazor for admin panels: a property list th… |
 
 ## Data source
 
