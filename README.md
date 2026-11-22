@@ -12,40 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 10:21 UTC
+## Latest list — 2026-11-22 11:20 UTC
 
-New packages created between 2026-11-22 09:18 UTC and 2026-11-22 10:21 UTC.
+New packages created between 2026-11-22 10:21 UTC and 2026-11-22 11:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T10-21-19-789783Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T11-20-31-49902Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 09:22:28 | [Rop.AbsDatabase11](https://www.nuget.org/packages/Rop.AbsDatabase11) | 1.0.0 | Ramon Ordiales Plaza | Abstract database layer for Rop.Database11 suite with Unit of Work pattern, tra… |
-| 2026-11-22 09:22:49 | [Rop.SqlDatabase11](https://www.nuget.org/packages/Rop.SqlDatabase11) | 1.0.0 | Ramon Ordiales Plaza | SQL Server implementation for Rop.Database11 with Change Tracking, Repository p… |
-| 2026-11-22 09:24:58 | [Farfbuzz](https://www.nuget.org/packages/Farfbuzz) | 1.0.0-rc | Lord Aytharn | A fully managed F# reimplementation of the HarfBuzz text shaper. |
-| 2026-11-22 09:25:00 | [Farfbuzz.HarfBuzzSharp.Bridge](https://www.nuget.org/packages/Farfbuzz.HarfBuzzSharp.Bridge) | 1.0.0-rc | Lord Aytharn | The F# bridge between the HarfBuzzSharp-compatible C# shell and the Farfbuzz co… |
-| 2026-11-22 09:25:01 | [Farfbuzz.HarfBuzzSharp](https://www.nuget.org/packages/Farfbuzz.HarfBuzzSharp) | 1.0.0-rc | Lord Aytharn | A HarfBuzzSharp-compatible assembly implemented on Farfbuzz: the public API of… |
-| 2026-11-22 09:30:31 | [Cratis.Showrunner.Playbill](https://www.nuget.org/packages/Cratis.Showrunner.Playbill) | 2.19.0 | Cratis | Playbill — the Showrunner release-notes part: embed the release history in the… |
-| 2026-11-22 09:37:58 | [MusselSheet.Core](https://www.nuget.org/packages/MusselSheet.Core) | 2.0.0 | machi_pon | Sheet model, cell settings, values, computation, binding and design JSON of Mus… |
-| 2026-11-22 09:47:26 | [YEnclave.Testing](https://www.nuget.org/packages/YEnclave.Testing) | 0.1.0 | iyulab | An in-memory fake of the Y-Enclave control and in-enclave APIs for application… |
-| 2026-11-22 09:47:28 | [YEnclave.Client](https://www.nuget.org/packages/YEnclave.Client) | 0.1.0 | iyulab | The HTTP client of the Y-Enclave control API, implementing the YEnclave.Abstrac… |
-| 2026-11-22 09:47:29 | [YEnclave.Abstractions](https://www.nuget.org/packages/YEnclave.Abstractions) | 0.1.0 | iyulab | Interfaces, models and errors for leasing isolated enclaves and workspaces thro… |
-| 2026-11-22 09:49:35 | [Hypaxel.AspNetCore](https://www.nuget.org/packages/Hypaxel.AspNetCore) | 0.4.0 | Hypaxel contributors | ASP.NET Core integration for Hypaxel: stream XLSX files straight into HTTP resp… |
-| 2026-11-22 09:49:36 | [Hypaxel](https://www.nuget.org/packages/Hypaxel) | 0.4.0 | Hypaxel contributors | High-performance, low-allocation XLSX (Excel) writer and streaming reader for .… |
-| 2026-11-22 09:59:39 | [Bielu.AspNetCore.AsyncApi.OpenApiSchema](https://www.nuget.org/packages/Bielu.AspNetCore.AsyncApi.OpenApiSchema) | 3.2.0 | Arkadiusz Biel | Describes AsyncAPI message payloads as OpenAPI 3.0 Schema Objects (schemaFormat… |
-| 2026-11-22 10:06:48 | [Lewee.Auth.Api](https://www.nuget.org/packages/Lewee.Auth.Api) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:49 | [Lewee.Auth.Application](https://www.nuget.org/packages/Lewee.Auth.Application) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:49 | [Lewee.Auth.Domain](https://www.nuget.org/packages/Lewee.Auth.Domain) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:50 | [Lewee.Auth.Infrastructure.Data](https://www.nuget.org/packages/Lewee.Auth.Infrastructure.Data) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:50 | [Lewee.Common](https://www.nuget.org/packages/Lewee.Common) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:51 | [Lewee.Infrastructure.Auth](https://www.nuget.org/packages/Lewee.Infrastructure.Auth) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:52 | [Lewee.Infrastructure.Correlate](https://www.nuget.org/packages/Lewee.Infrastructure.Correlate) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:53 | [Lewee.Infrastructure.FastEndpoints](https://www.nuget.org/packages/Lewee.Infrastructure.FastEndpoints) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:53 | [Lewee.Infrastructure.Fluxor](https://www.nuget.org/packages/Lewee.Infrastructure.Fluxor) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:55 | [Lewee.Infrastructure.PostgreSQL](https://www.nuget.org/packages/Lewee.Infrastructure.PostgreSQL) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:55 | [Lewee.Infrastructure.Refit](https://www.nuget.org/packages/Lewee.Infrastructure.Refit) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:56 | [Lewee.Infrastructure.ServerEvents](https://www.nuget.org/packages/Lewee.Infrastructure.ServerEvents) | 0.40.3 | Saji Weerasingham | Package Description |
-| 2026-11-22 10:06:57 | [Lewee.Playwright](https://www.nuget.org/packages/Lewee.Playwright) | 0.40.3 | Saji Weerasingham | Package Description |
+| 2026-11-22 10:22:25 | [Monstertacle.Hosting.Tool](https://www.nuget.org/packages/Monstertacle.Hosting.Tool) | 0.1.0 | Alexander Bleissem | Submit and recover Hosting MCP sessions from GitHub Actions. |
+| 2026-11-22 10:29:45 | [OdinIranianIpg](https://www.nuget.org/packages/OdinIranianIpg) | 1.0.0 | Amindada021 | Extensible asynchronous Iranian payment gateway SDK for .NET 10. |
+| 2026-11-22 10:34:01 | [Fostry.Branding](https://www.nuget.org/packages/Fostry.Branding) | 0.2.0 | Foste IT | The Fostry brand: its colours, light and dark palettes, the logo recoloured to… |
+| 2026-11-22 10:34:02 | [Fostry.Client](https://www.nuget.org/packages/Fostry.Client) | 0.2.0 | Foste IT | A client for Fostry's API: scripts and their runs, agents, alerts and monitors,… |
+| 2026-11-22 10:34:03 | [Fostry.SDK.Entra](https://www.nuget.org/packages/Fostry.SDK.Entra) | 0.2.0 | Foste IT | An app's own access to Microsoft Entra ID: its registration made from the app (… |
+| 2026-11-22 10:34:04 | [Fostry.SDK.AspNetCore](https://www.nuget.org/packages/Fostry.SDK.AspNetCore) | 0.2.0 | Foste IT | An app Fostry hosts, in ASP.NET Core or Blazor Server: registering with Fostry,… |
+| 2026-11-22 10:34:05 | [Fostry.Ui](https://www.nuget.org/packages/Fostry.Ui) | 0.2.0 | Foste IT | How a Fostry app looks, in Blazor and MudBlazor: the shell (rail and panel), se… |
+| 2026-11-22 10:58:06 | [FCQRS.Analyzers](https://www.nuget.org/packages/FCQRS.Analyzers) | 1.0.0 | Onur Gumus | Warns when an FCQRS workflow body or aggregate fold reads the clock, a GUID gen… |
+| 2026-11-22 11:09:06 | [Iyu.Notifications](https://www.nuget.org/packages/Iyu.Notifications) | 0.1.0 | iyulab | Host-neutral notification routing - events declared in code, recipients resolve… |
 
 ## Data source
 

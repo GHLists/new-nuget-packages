@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-22T10:22:25.343Z,Monstertacle.Hosting.Tool,0.1.0,Alexander Bleissem,Submit and recover Hosting MCP sessions from GitHub Actions.
+2026-11-22T10:29:45.677Z,OdinIranianIpg,1.0.0,Amindada021,Extensible asynchronous Iranian payment gateway SDK for .NET 10.
+2026-11-22T10:34:01.977Z,Fostry.Branding,0.2.0,Foste IT,"The Fostry brand: its colours, light and dark palettes, the logo recoloured to them, and an MSP's own brand. The code is MIT; the Fostry name and logo are Foste IT's."
+2026-11-22T10:34:02.707Z,Fostry.Client,0.2.0,Foste IT,"A client for Fostry's API: scripts and their runs, agents, alerts and monitors, as the person whose token it is."
+2026-11-22T10:34:03.55Z,Fostry.SDK.Entra,0.2.0,Foste IT,"An app's own access to Microsoft Entra ID: its registration made from the app (a certificate, no secret), customers' tenants connected, and tokens as the person or the app."
+2026-11-22T10:34:04.42Z,Fostry.SDK.AspNetCore,0.2.0,Foste IT,"An app Fostry hosts, in ASP.NET Core or Blazor Server: registering with Fostry, its address under it, signing in the person using it, and Fostry's API as them."
+2026-11-22T10:34:05.327Z,Fostry.Ui,0.2.0,Foste IT,"How a Fostry app looks, in Blazor and MudBlazor: the shell (rail and panel), search, Light / Dark / System, page introductions, Home's cards, and Fostry's themes."
+2026-11-22T10:58:06.76Z,FCQRS.Analyzers,1.0.0,Onur Gumus,"Warns when an FCQRS workflow body or aggregate fold reads the clock, a GUID generator, a random source, or the environment. F# analyzers for fsharp-analyzers and Ionide, and a Roslyn analyzer for C#."
+2026-11-22T11:09:06.91Z,Iyu.Notifications,0.1.0,iyulab,"Host-neutral notification routing - events declared in code, recipients resolved from users and roles, an inbox with read and handled state, and a record of events nobody could be reached for; it depends on neither Entity Framework Core nor Iyu.Core."
