@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-22T12:30:06.28Z,Sundew.Xaml.Optimizers.Wpf,3.0.0-u20261122-122…,Kim Hugener-Ohlsen,Various Xaml optimizers: - ThemeOptimizer - StaticToDynamicResourceOptimizer - ResourceDictionaryOptimizer - FreezeResourceOptimizer
+2026-11-22T12:31:13.727Z,ToucanHub.Sdk.Json,1.0.1,Christian Bourbier,Sdk Json
+2026-11-22T12:31:14.433Z,ToucanHub.Sdk.Query,1.0.1,Christian Bourbier,Sdk Query
+2026-11-22T12:34:21.717Z,Sundew.Xaml.Optimizer.BuildTask,3.0.0-u20261122-123…,Kim Hugener-Ohlsen,"A framework for creating Xaml optimizers for WPF, Avalonia, Maui, WinUI, UWP and Xamarin.Forms. See following link for samples: https://github.com/sundews/Sundew.Xaml.Optimizer.Sample See following link for current optimizations: https://github.com/sundews/Sundew.Xaml.Optimizations See following li…"
+2026-11-22T12:34:57.87Z,MathHelperLab5,1.0.0,MathHelperLab5,Package Description
+2026-11-22T12:43:04.46Z,Isud.Tm,1.0.0,优标宝开放平台,优标宝商标数据开放 API 的 .NET SDK（零第三方运行时依赖，契约驱动）。支持商标/外观检索、档案列表、报告、用量、请求日志与 MCP。
+2026-11-22T12:47:39.853Z,Pycom.Media.Client,0.1.0,Pycom,Strongly typed client for the Pycom Enterprise Media Platform runtime API.
+2026-11-22T12:48:07.093Z,Nextended.Aspire.Hosting.SigNoz,10.1.68,fgilde,"SigNoz for .NET Aspire — ClickHouse, the SigNoz OpenTelemetry collector and SigNoz (traces, metrics, logs, dashboards and alerts in one UI) as composable container resources, with a provisioned admin, ready-made dashboards and alert rules for .NET services, and OpenID Connect sign-in in front."
+2026-11-22T12:58:40.323Z,Blaizio.Syntax.Languages,0.3.6,Blaizio,"More languages for Blaizio.Syntax and the Blaizio Code Block: Python, Java, Go, Rust, C, C++, Kotlin, Swift, PHP, Ruby, Dart, Lua, Scala, F#, VB.NET, Haskell, Elixir, Clojure, GraphQL, Protocol Buffers, HCL (Terraform), Bicep, Makefile, nginx, CMake, batch files, R, Perl, Julia, Objective-C and LaT…"
+2026-11-22T12:58:41.317Z,Blaizio.Syntax,0.3.6,Blaizio,"Syntax highlighting for Blazor, in C#: SyntaxText splits code into runs of one kind (keyword, string, type, ...) per line, for 19 languages built in (C#, Razor, JSON, bash, PowerShell, TypeScript, HTML, CSS, SQL, YAML, Markdown and more). No script, so it works the same in static rendering, Blazor…"
