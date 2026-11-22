@@ -12,24 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 13:18 UTC
+## Latest list — 2026-11-22 14:19 UTC
 
-New packages created between 2026-11-22 12:20 UTC and 2026-11-22 13:18 UTC.
+New packages created between 2026-11-22 13:18 UTC and 2026-11-22 14:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T13-18-52-272157Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T14-19-41-977346Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 12:30:06 | [Sundew.Xaml.Optimizers.Wpf](https://www.nuget.org/packages/Sundew.Xaml.Optimizers.Wpf) | 3.0.0-u20261122-122… | Kim Hugener-Ohlsen | Various Xaml optimizers: - ThemeOptimizer - StaticToDynamicResourceOptimizer -… |
-| 2026-11-22 12:31:13 | [ToucanHub.Sdk.Json](https://www.nuget.org/packages/ToucanHub.Sdk.Json) | 1.0.1 | Christian Bourbier | Sdk Json |
-| 2026-11-22 12:31:14 | [ToucanHub.Sdk.Query](https://www.nuget.org/packages/ToucanHub.Sdk.Query) | 1.0.1 | Christian Bourbier | Sdk Query |
-| 2026-11-22 12:34:21 | [Sundew.Xaml.Optimizer.BuildTask](https://www.nuget.org/packages/Sundew.Xaml.Optimizer.BuildTask) | 3.0.0-u20261122-123… | Kim Hugener-Ohlsen | A framework for creating Xaml optimizers for WPF, Avalonia, Maui, WinUI, UWP an… |
-| 2026-11-22 12:34:57 | [MathHelperLab5](https://www.nuget.org/packages/MathHelperLab5) | 1.0.0 | MathHelperLab5 | Package Description |
-| 2026-11-22 12:43:04 | [Isud.Tm](https://www.nuget.org/packages/Isud.Tm) | 1.0.0 | 优标宝开放平台 | 优标宝商标数据开放 API 的 .NET SDK（零第三方运行时依赖，契约驱动）。支持商标/外观检索、档案列表、报告、用量、请求日志与 MCP。 |
-| 2026-11-22 12:47:39 | [Pycom.Media.Client](https://www.nuget.org/packages/Pycom.Media.Client) | 0.1.0 | Pycom | Strongly typed client for the Pycom Enterprise Media Platform runtime API. |
-| 2026-11-22 12:48:07 | [Nextended.Aspire.Hosting.SigNoz](https://www.nuget.org/packages/Nextended.Aspire.Hosting.SigNoz) | 10.1.68 | fgilde | SigNoz for .NET Aspire — ClickHouse, the SigNoz OpenTelemetry collector and Sig… |
-| 2026-11-22 12:58:40 | [Blaizio.Syntax.Languages](https://www.nuget.org/packages/Blaizio.Syntax.Languages) | 0.3.6 | Blaizio | More languages for Blaizio.Syntax and the Blaizio Code Block: Python, Java, Go,… |
-| 2026-11-22 12:58:41 | [Blaizio.Syntax](https://www.nuget.org/packages/Blaizio.Syntax) | 0.3.6 | Blaizio | Syntax highlighting for Blazor, in C#: SyntaxText splits code into runs of one… |
+| 2026-11-22 13:20:23 | [SumireCraft.Core](https://www.nuget.org/packages/SumireCraft.Core) | 1.1.0 | StartBits | A value for a date and a time that are entered separately and can each be empty… |
+| 2026-11-22 13:22:27 | [Darp.CodeEditor](https://www.nuget.org/packages/Darp.CodeEditor) | 0.1.0 | rosslight GmbH | Avalonia code editor: TextMate highlighting, search, and completion, hover and… |
+| 2026-11-22 13:29:14 | [DecisionsDotNet.Caching](https://www.nuget.org/packages/DecisionsDotNet.Caching) | 1.1.0 | Adam Holm | Caches DecisionsDotNet evaluations in Microsoft.Extensions.Caching.Hybrid, keye… |
+| 2026-11-22 13:29:15 | [DecisionsDotNet.Testing](https://www.nuget.org/packages/DecisionsDotNet.Testing) | 1.1.0 | Adam Holm | A scripted fake and a recording wrapper for the DecisionsDotNet IDecisionsClien… |
+| 2026-11-22 13:30:35 | [GridAPI](https://www.nuget.org/packages/GridAPI) | 1.0.0 | BugyLabs | Official server-side .NET SDK for the GridAPI public REST API. |
+| 2026-11-22 13:35:45 | [Yautbox.Testing](https://www.nuget.org/packages/Yautbox.Testing) | 2.0.1 | maximiliysiss | Unit-testing helpers for Yautbox: builds OutboxMessage instances so outbox hand… |
+| 2026-11-22 13:37:37 | [Sashimi343.D3Fragments.Identity.EFCore](https://www.nuget.org/packages/Sashimi343.D3Fragments.Identity.EFCore) | 0.2.0 | sashimi343 | ASP.NET Core Identity integration for D3Fragments: Identity stores that leave s… |
+| 2026-11-22 13:41:08 | [DarkNet.UI](https://www.nuget.org/packages/DarkNet.UI) | 1.1.0 | Dark-Net UI | Dark-Net UI: customizable modern WPF controls. |
+| 2026-11-22 13:50:25 | [ZeroCSharp.Bflat.osx-arm64](https://www.nuget.org/packages/ZeroCSharp.Bflat.osx-arm64) | 0.3.0 | Zero C# contributors | bflat (OnurGumus/bflat fork), trimmed to what Zero C# builds use, for osx-arm64… |
+| 2026-11-22 13:58:39 | [AgentKit.Push](https://www.nuget.org/packages/AgentKit.Push) | 0.1.7 | Lenka Scherfel | Web Push on the BCL, no vendor SDK: message encryption (RFC 8291, aes128gcm per… |
+| 2026-11-22 13:58:40 | [AgentKit.Secrets](https://www.nuget.org/packages/AgentKit.Secrets) | 0.1.7 | Lenka Scherfel | Secrets at rest for a self-hosted service: a keyring of 32-byte master keys rea… |
+| 2026-11-22 13:58:40 | [AgentKit.Fetch](https://www.nuget.org/packages/AgentKit.Fetch) | 0.1.7 | Lenka Scherfel | Outgoing HTTP to addresses someone else chose (a URL an agent names, a webhook,… |
+| 2026-11-22 14:07:53 | [AgentKit.Channels](https://www.nuget.org/packages/AgentKit.Channels) | 0.1.7 | Lenka Scherfel | Outgoing messages to the places people read, without a vendor SDK: Discord and… |
 
 ## Data source
 
