@@ -12,49 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 16:19 UTC
+## Latest list — 2026-11-22 17:21 UTC
 
-New packages created between 2026-11-22 15:19 UTC and 2026-11-22 16:19 UTC.
+New packages created between 2026-11-22 16:19 UTC and 2026-11-22 17:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T16-19-38-682667Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T17-21-15-87327Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 15:41:14 | [TickGym](https://www.nuget.org/packages/TickGym) | 0.0.1 | the TICK authors | Drive Trackmania 2020 physics from .NET through TICK. Work in progress: this re… |
-| 2026-11-22 15:46:07 | [AwAUI.Browser](https://www.nuget.org/packages/AwAUI.Browser) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:10 | [AwAUI.Controls](https://www.nuget.org/packages/AwAUI.Controls) | 0.1.0 | AwAUI | Standard AwAUI controls and unstyled behavior primitives. |
-| 2026-11-22 15:46:12 | [AwAUI.Controls.DataGrid](https://www.nuget.org/packages/AwAUI.Controls.DataGrid) | 0.1.0 | AwAUI | Data grid with sorting, selection, editing, and fixed-height row virtualization. |
-| 2026-11-22 15:46:14 | [AwAUI.Css](https://www.nuget.org/packages/AwAUI.Css) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:16 | [AwAUI.DevTools](https://www.nuget.org/packages/AwAUI.DevTools) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:18 | [AwAUI.Diagnostics](https://www.nuget.org/packages/AwAUI.Diagnostics) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:19 | [AwAUI.Foundation](https://www.nuget.org/packages/AwAUI.Foundation) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:21 | [AwAUI.Graphics](https://www.nuget.org/packages/AwAUI.Graphics) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:23 | [AwAUI.Headless](https://www.nuget.org/packages/AwAUI.Headless) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:25 | [AwAUI.Icons.Lucide](https://www.nuget.org/packages/AwAUI.Icons.Lucide) | 0.1.0 | AwAUI | A curated set of Lucide icons for AwAUI. |
-| 2026-11-22 15:46:27 | [AwAUI.Imaging](https://www.nuget.org/packages/AwAUI.Imaging) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:29 | [AwAUI.Layout](https://www.nuget.org/packages/AwAUI.Layout) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:31 | [AwAUI.MacOS](https://www.nuget.org/packages/AwAUI.MacOS) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:33 | [AwAUI.Markup](https://www.nuget.org/packages/AwAUI.Markup) | 0.1.0 | AwAUI | AwAUI 的 .awaui 单文件组件编译器（Roslyn 源生成器 + MSBuild 集成）。 |
-| 2026-11-22 15:46:34 | [AwAUI.Mvvm](https://www.nuget.org/packages/AwAUI.Mvvm) | 0.1.0 | AwAUI | Optional MVVM helpers for AwAUI: observable objects, bindings and collection vi… |
-| 2026-11-22 15:46:36 | [AwAUI.Platform](https://www.nuget.org/packages/AwAUI.Platform) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:38 | [AwAUI.Render](https://www.nuget.org/packages/AwAUI.Render) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:40 | [AwAUI.Rhi.Metal](https://www.nuget.org/packages/AwAUI.Rhi.Metal) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:42 | [AwAUI.Shadcn](https://www.nuget.org/packages/AwAUI.Shadcn) | 0.1.0 | AwAUI | AwAUI components based on shadcn/ui's New York theme. |
-| 2026-11-22 15:46:44 | [AwAUI.Svg](https://www.nuget.org/packages/AwAUI.Svg) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:46 | [AwAUI.Tailwind](https://www.nuget.org/packages/AwAUI.Tailwind) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:48 | [AwAUI.Text](https://www.nuget.org/packages/AwAUI.Text) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:50 | [AwAUI.Themes.Fluent](https://www.nuget.org/packages/AwAUI.Themes.Fluent) | 0.1.0 | AwAUI | Fluent style tokens and default control styles for AwAUI. |
-| 2026-11-22 15:46:52 | [AwAUI.UI](https://www.nuget.org/packages/AwAUI.UI) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:56 | [AwAUI.Unicode](https://www.nuget.org/packages/AwAUI.Unicode) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:46:59 | [AwAUI.Win32](https://www.nuget.org/packages/AwAUI.Win32) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:47:01 | [AwAUI.X11](https://www.nuget.org/packages/AwAUI.X11) | 0.1.0 | AwAUI | AwAUI: a pure C# cross-platform UI engine with declarative .awaui components, C… |
-| 2026-11-22 15:57:33 | [Plugin.Maui.NativeSearchBar](https://www.nuget.org/packages/Plugin.Maui.NativeSearchBar) | 1.0.0 | Ed Giardina | A search bar that uses each platform's own search UI: UISearchController in the… |
-| 2026-11-22 16:00:27 | [Csag.Automation.Selenium](https://www.nuget.org/packages/Csag.Automation.Selenium) | 1.0.0 | collana solutions AG | Extensions for robust Selenium tests: element selection that waits and retries,… |
-| 2026-11-22 16:03:18 | [Lekman.Qualify](https://www.nuget.org/packages/Lekman.Qualify) | 0.1.0 | Tobias Lekman | Qualification tests (IQ, OQ, PQ, intended use) for xUnit v3 that write redacted… |
-| 2026-11-22 16:03:19 | [Lekman.Qualify.Tool](https://www.nuget.org/packages/Lekman.Qualify.Tool) | 0.1.0 | Tobias Lekman | The qualify command for .NET: merge test records into a run file, validate evid… |
-| 2026-11-22 16:04:15 | [Vitreous.FluentValidation](https://www.nuget.org/packages/Vitreous.FluentValidation) | 0.5.0 | DomDuva | FluentValidation pipeline behaviors for Vitreous: invalid messages return Error… |
-| 2026-11-22 16:04:40 | [AgentKit.Social](https://www.nuget.org/packages/AgentKit.Social) | 0.1.8 | Lenka Scherfel | Post to social networks from a server: one channel contract (compose within eac… |
-| 2026-11-22 16:05:53 | [LinQL.StrawberryShake](https://www.nuget.org/packages/LinQL.StrawberryShake) | 0.14.1 | James Dibble | LINQ-like access to GraphQL endpoints in .Net using Strawberry Shake (requires… |
+| 2026-11-22 16:24:46 | [AnitaGBiemmi.XrmToolBox.ActiveLayerScanner](https://www.nuget.org/packages/AnitaGBiemmi.XrmToolBox.ActiveLayerScanner) | 1.0.0 | Anita G Biemmi | XrmToolBox tool that scans a solution for components with an unmanaged Active l… |
+| 2026-11-22 16:31:19 | [ScreenCapture.NET.Wayland](https://www.nuget.org/packages/ScreenCapture.NET.Wayland) | 4.0.0 | Darth Affe | xdg-desktop-portal and PipeWire based Screen-Capturing (Wayland) |
+| 2026-11-22 16:31:20 | [ScreenCapture.NET.WGC](https://www.nuget.org/packages/ScreenCapture.NET.WGC) | 4.0.0 | Darth Affe | Windows.Graphics.Capture based Screen-Capturing |
+| 2026-11-22 16:34:57 | [SkathIO.Rogue.Jobs.SqlServer](https://www.nuget.org/packages/SkathIO.Rogue.Jobs.SqlServer) | 2.0.0 | SkathIO | SQL Server job store for SkathIO.Rogue.Jobs: batched READPAST/UPDLOCK claims, b… |
+| 2026-11-22 16:34:58 | [SkathIO.Rogue.Messaging](https://www.nuget.org/packages/SkathIO.Rogue.Messaging) | 2.0.0 | SkathIO | Message bus for SkathIO.Rogue: events and commands travel between services unde… |
+| 2026-11-22 16:34:59 | [SkathIO.Rogue.Messaging.RabbitMQ](https://www.nuget.org/packages/SkathIO.Rogue.Messaging.RabbitMQ) | 2.0.0 | SkathIO | RabbitMQ transport for SkathIO.Rogue.Messaging: a topic exchange, a durable que… |
+| 2026-11-22 16:35:00 | [SkathIO.Rogue.Jobs.Postgres](https://www.nuget.org/packages/SkathIO.Rogue.Jobs.Postgres) | 2.0.0 | SkathIO | PostgreSQL job store for SkathIO.Rogue.Jobs: enqueue inside your own transactio… |
+| 2026-11-22 16:35:00 | [SkathIO.Rogue.Validation](https://www.nuget.org/packages/SkathIO.Rogue.Validation) | 2.0.0 | SkathIO | Source-generated request validation for SkathIO.Rogue: rule attributes, a stati… |
+| 2026-11-22 16:35:01 | [SkathIO.Rogue.Messaging.Outbox](https://www.nuget.org/packages/SkathIO.Rogue.Messaging.Outbox) | 2.0.0 | SkathIO | Transactional outbox and inbox for SkathIO.Rogue.Messaging on the SkathIO.Rogue… |
+| 2026-11-22 16:35:02 | [SkathIO.Rogue.Jobs](https://www.nuget.org/packages/SkathIO.Rogue.Jobs) | 2.0.0 | SkathIO | Background jobs for SkathIO.Rogue: any command can be enqueued and runs its han… |
+| 2026-11-22 16:39:02 | [CP.Extensions.Hosting.PluginService.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.PluginService.Reactive) | 7.0.0 | Chris Pulman | An Extension of the Microsoft.Extensions.Hosting library |
+| 2026-11-22 16:39:06 | [CP.Extensions.Hosting.Plugins.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.Plugins.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive plug-in support to generic host based applications. |
+| 2026-11-22 16:39:09 | [CP.Extensions.Hosting.ReactiveUI.Avalonia.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Avalonia.Reactive) | 7.0.0 | Chris Pulman | An Extension of the Microsoft.Extensions.Hosting library |
+| 2026-11-22 16:39:14 | [CP.Extensions.Hosting.ReactiveUI.Maui.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Maui.Reactive) | 7.0.0 | Chris Pulman | An Extension of the Microsoft.Extensions.Hosting library |
+| 2026-11-22 16:39:18 | [CP.Extensions.Hosting.ReactiveUI.WinForms.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.WinForms.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive ReactiveUI support to generic host based WinForms… |
+| 2026-11-22 16:39:21 | [CP.Extensions.Hosting.ReactiveUI.WinUI.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.WinUI.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive ReactiveUI support to generic host based WinUI app… |
+| 2026-11-22 16:39:25 | [CP.Extensions.Hosting.ReactiveUI.Wpf.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Wpf.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive ReactiveUI support to generic host based WPF appli… |
+| 2026-11-22 16:40:08 | [Banksta.Deposits](https://www.nuget.org/packages/Banksta.Deposits) | 0.0.12 | idzyubin | Common value-objects for banking domain. |
+| 2026-11-22 16:50:21 | [QRCodeAI.QRCodeBarcodeScanner](https://www.nuget.org/packages/QRCodeAI.QRCodeBarcodeScanner) | 0.12.0 | QR Code AI | Read QR codes and barcodes from an image in .NET, in process: QR Code, Data Mat… |
+| 2026-11-22 16:50:52 | [bogzxo.Horizon.Platform.Desktop](https://www.nuget.org/packages/bogzxo.Horizon.Platform.Desktop) | 1.4.0 | bogzxo | The Horizon engine on Windows, macOS and Linux: the window, keyboard, mouse and… |
+| 2026-11-22 16:50:53 | [bogzxo.Horizon.Engine](https://www.nuget.org/packages/bogzxo.Horizon.Engine) | 1.4.0 | bogzxo | The Horizon engine's runtime: the Vulkan renderer, content, input, audio, entit… |
+| 2026-11-22 16:50:53 | [bogzxo.Horizon.HIDL](https://www.nuget.org/packages/bogzxo.Horizon.HIDL) | 1.4.0 | bogzxo | HIDL, the Horizon engine's scripting language: its lexer, parser, compiler and… |
+| 2026-11-22 16:50:54 | [bogzxo.Horizon.UI](https://www.nuget.org/packages/bogzxo.Horizon.UI) | 1.4.0 | bogzxo | The Horizon engine's UI: the compositor, components and controls, skins, layout… |
+| 2026-11-22 17:07:06 | [Ampack](https://www.nuget.org/packages/Ampack) | 0.1.0 | Jose Luis Latorre Millas | Verify and read ampack memory packs for AI agents: one signed file, checked whe… |
+| 2026-11-22 17:07:06 | [Ampack.Tool](https://www.nuget.org/packages/Ampack.Tool) | 0.1.0 | Jose Luis Latorre Millas | The ampack command: verify, inspect and show ampack memory packs for AI agents… |
+| 2026-11-22 17:09:55 | [ZeroInstall.Bootstrap](https://www.nuget.org/packages/ZeroInstall.Bootstrap) | 2.30.0 | Bastian Eicher | Library for building bootstrappers that download and run Zero Install or an app… |
 
 ## Data source
 
