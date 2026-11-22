@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-22T01:31:13.757Z,ConsealDev.Conseal,0.7.0,consealdev,"Encrypted sync backend for ASP.NET Core: the sync and circle routes of the Conseal Sync contract, over storage that only ever holds ciphertext. Pair with @consealdev/conseal/sync on the client."
+2026-11-22T01:50:21.633Z,barvad.RotatingBloomFilter,1.0.0,barvad,"Thread-safe Bloom filters for .NET, including a lock-free rotating Bloom filter ring for bounded time windows."
+2026-11-22T01:53:13.01Z,Capay.Dto,1.1.0-beta,dto,Package Description
+2026-11-22T02:08:02.937Z,Chondrite.Core,0.9.0-alpha02,LEAP 71,Core immutable object identity and canonical SHA-256 hashing for Chondrite.
+2026-11-22T02:08:56.407Z,VideoShot.CaptionSafeArea,0.1.0,js-upup,Compute a caption-safe pixel rectangle from video dimensions and percentage margins. Source-only C# content for .NET 8.
