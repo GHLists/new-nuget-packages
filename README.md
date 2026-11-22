@@ -12,40 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 17:21 UTC
+## Latest list — 2026-11-22 18:19 UTC
 
-New packages created between 2026-11-22 16:19 UTC and 2026-11-22 17:21 UTC.
+New packages created between 2026-11-22 17:21 UTC and 2026-11-22 18:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T17-21-15-87327Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T18-19-04-307252Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 16:24:46 | [AnitaGBiemmi.XrmToolBox.ActiveLayerScanner](https://www.nuget.org/packages/AnitaGBiemmi.XrmToolBox.ActiveLayerScanner) | 1.0.0 | Anita G Biemmi | XrmToolBox tool that scans a solution for components with an unmanaged Active l… |
-| 2026-11-22 16:31:19 | [ScreenCapture.NET.Wayland](https://www.nuget.org/packages/ScreenCapture.NET.Wayland) | 4.0.0 | Darth Affe | xdg-desktop-portal and PipeWire based Screen-Capturing (Wayland) |
-| 2026-11-22 16:31:20 | [ScreenCapture.NET.WGC](https://www.nuget.org/packages/ScreenCapture.NET.WGC) | 4.0.0 | Darth Affe | Windows.Graphics.Capture based Screen-Capturing |
-| 2026-11-22 16:34:57 | [SkathIO.Rogue.Jobs.SqlServer](https://www.nuget.org/packages/SkathIO.Rogue.Jobs.SqlServer) | 2.0.0 | SkathIO | SQL Server job store for SkathIO.Rogue.Jobs: batched READPAST/UPDLOCK claims, b… |
-| 2026-11-22 16:34:58 | [SkathIO.Rogue.Messaging](https://www.nuget.org/packages/SkathIO.Rogue.Messaging) | 2.0.0 | SkathIO | Message bus for SkathIO.Rogue: events and commands travel between services unde… |
-| 2026-11-22 16:34:59 | [SkathIO.Rogue.Messaging.RabbitMQ](https://www.nuget.org/packages/SkathIO.Rogue.Messaging.RabbitMQ) | 2.0.0 | SkathIO | RabbitMQ transport for SkathIO.Rogue.Messaging: a topic exchange, a durable que… |
-| 2026-11-22 16:35:00 | [SkathIO.Rogue.Jobs.Postgres](https://www.nuget.org/packages/SkathIO.Rogue.Jobs.Postgres) | 2.0.0 | SkathIO | PostgreSQL job store for SkathIO.Rogue.Jobs: enqueue inside your own transactio… |
-| 2026-11-22 16:35:00 | [SkathIO.Rogue.Validation](https://www.nuget.org/packages/SkathIO.Rogue.Validation) | 2.0.0 | SkathIO | Source-generated request validation for SkathIO.Rogue: rule attributes, a stati… |
-| 2026-11-22 16:35:01 | [SkathIO.Rogue.Messaging.Outbox](https://www.nuget.org/packages/SkathIO.Rogue.Messaging.Outbox) | 2.0.0 | SkathIO | Transactional outbox and inbox for SkathIO.Rogue.Messaging on the SkathIO.Rogue… |
-| 2026-11-22 16:35:02 | [SkathIO.Rogue.Jobs](https://www.nuget.org/packages/SkathIO.Rogue.Jobs) | 2.0.0 | SkathIO | Background jobs for SkathIO.Rogue: any command can be enqueued and runs its han… |
-| 2026-11-22 16:39:02 | [CP.Extensions.Hosting.PluginService.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.PluginService.Reactive) | 7.0.0 | Chris Pulman | An Extension of the Microsoft.Extensions.Hosting library |
-| 2026-11-22 16:39:06 | [CP.Extensions.Hosting.Plugins.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.Plugins.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive plug-in support to generic host based applications. |
-| 2026-11-22 16:39:09 | [CP.Extensions.Hosting.ReactiveUI.Avalonia.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Avalonia.Reactive) | 7.0.0 | Chris Pulman | An Extension of the Microsoft.Extensions.Hosting library |
-| 2026-11-22 16:39:14 | [CP.Extensions.Hosting.ReactiveUI.Maui.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Maui.Reactive) | 7.0.0 | Chris Pulman | An Extension of the Microsoft.Extensions.Hosting library |
-| 2026-11-22 16:39:18 | [CP.Extensions.Hosting.ReactiveUI.WinForms.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.WinForms.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive ReactiveUI support to generic host based WinForms… |
-| 2026-11-22 16:39:21 | [CP.Extensions.Hosting.ReactiveUI.WinUI.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.WinUI.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive ReactiveUI support to generic host based WinUI app… |
-| 2026-11-22 16:39:25 | [CP.Extensions.Hosting.ReactiveUI.Wpf.Reactive](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Wpf.Reactive) | 7.0.0 | Chris Pulman | This extension adds reactive ReactiveUI support to generic host based WPF appli… |
-| 2026-11-22 16:40:08 | [Banksta.Deposits](https://www.nuget.org/packages/Banksta.Deposits) | 0.0.12 | idzyubin | Common value-objects for banking domain. |
-| 2026-11-22 16:50:21 | [QRCodeAI.QRCodeBarcodeScanner](https://www.nuget.org/packages/QRCodeAI.QRCodeBarcodeScanner) | 0.12.0 | QR Code AI | Read QR codes and barcodes from an image in .NET, in process: QR Code, Data Mat… |
-| 2026-11-22 16:50:52 | [bogzxo.Horizon.Platform.Desktop](https://www.nuget.org/packages/bogzxo.Horizon.Platform.Desktop) | 1.4.0 | bogzxo | The Horizon engine on Windows, macOS and Linux: the window, keyboard, mouse and… |
-| 2026-11-22 16:50:53 | [bogzxo.Horizon.Engine](https://www.nuget.org/packages/bogzxo.Horizon.Engine) | 1.4.0 | bogzxo | The Horizon engine's runtime: the Vulkan renderer, content, input, audio, entit… |
-| 2026-11-22 16:50:53 | [bogzxo.Horizon.HIDL](https://www.nuget.org/packages/bogzxo.Horizon.HIDL) | 1.4.0 | bogzxo | HIDL, the Horizon engine's scripting language: its lexer, parser, compiler and… |
-| 2026-11-22 16:50:54 | [bogzxo.Horizon.UI](https://www.nuget.org/packages/bogzxo.Horizon.UI) | 1.4.0 | bogzxo | The Horizon engine's UI: the compositor, components and controls, skins, layout… |
-| 2026-11-22 17:07:06 | [Ampack](https://www.nuget.org/packages/Ampack) | 0.1.0 | Jose Luis Latorre Millas | Verify and read ampack memory packs for AI agents: one signed file, checked whe… |
-| 2026-11-22 17:07:06 | [Ampack.Tool](https://www.nuget.org/packages/Ampack.Tool) | 0.1.0 | Jose Luis Latorre Millas | The ampack command: verify, inspect and show ampack memory packs for AI agents… |
-| 2026-11-22 17:09:55 | [ZeroInstall.Bootstrap](https://www.nuget.org/packages/ZeroInstall.Bootstrap) | 2.30.0 | Bastian Eicher | Library for building bootstrappers that download and run Zero Install or an app… |
+| 2026-11-22 17:27:01 | [grdev.tasks-ui](https://www.nuget.org/packages/grdev.tasks-ui) | 0.1.5 | Thomas Sarmis (thomas.sarmis@… | A local web board for plain-text tasks: capture, ingest, refine, schedule and a… |
+| 2026-11-22 17:27:02 | [Nextorm.Extensions.OpenCode](https://www.nuget.org/packages/Nextorm.Extensions.OpenCode) | 1.0.0 | Nextorm.Extensions.OpenCode | Nextorm repository context for the OpenCode SQLite database schema. |
+| 2026-11-22 17:35:25 | [Chris82111.GitManager.GitWrapper.Core](https://www.nuget.org/packages/Chris82111.GitManager.GitWrapper.Core) | 1.0.0 | Chris82111 | Core solution for using Git in a portable form. Supports: Locally installed Git… |
+| 2026-11-22 17:37:36 | [Beskar.Networking.Datagram](https://www.nuget.org/packages/Beskar.Networking.Datagram) | 11.2.0 | Marvin Drude | Specialized, low-allocation UDP datagram and multi-channel reliability protocol… |
+| 2026-11-22 17:48:01 | [Loopia.Console](https://www.nuget.org/packages/Loopia.Console) | 0.1.0 | nielsbosma | CLI tool for the Loopia API - manage domains, subdomains, and DNS zone records |
+| 2026-11-22 17:51:40 | [AgentKit.Mail](https://www.nuget.org/packages/AgentKit.Mail) | 0.1.11 | Lenka Scherfel | Send email through Resend's REST API without its SDK: one send contract (from,… |
+| 2026-11-22 17:53:38 | [z3l.FastHtmlParser.Readability](https://www.nuget.org/packages/z3l.FastHtmlParser.Readability) | 1.8.0 | z3l | Fast main-content extraction for .NET 9/10/11 by the method of Mozilla Readabil… |
+| 2026-11-22 17:53:39 | [z3l.FastHtmlParser.HtmlSanitizer](https://www.nuget.org/packages/z3l.FastHtmlParser.HtmlSanitizer) | 1.8.0 | z3l | Fast HTML sanitizer for .NET 9/10/11 against XSS, built on z3l.FastHtmlParser:… |
+| 2026-11-22 18:01:02 | [Dbsp.Hosting](https://www.nuget.org/packages/Dbsp.Hosting) | 0.2.0 | James Lanng | Generic Host and dependency-injection integration for Dbsp: register a circuit… |
+| 2026-11-22 18:01:03 | [Dbsp](https://www.nuget.org/packages/Dbsp) | 0.2.0 | James Lanng | DBSP-style incremental stream processing for .NET: collections are Z-sets, stre… |
+| 2026-11-22 18:01:04 | [Dbsp.Kafka](https://www.nuget.org/packages/Dbsp.Kafka) | 0.2.0 | James Lanng | Kafka-backed durability for Dbsp: the state changelog and shared-table logs on… |
+| 2026-11-22 18:01:04 | [Dbsp.Storage.Redis](https://www.nuget.org/packages/Dbsp.Storage.Redis) | 0.2.0 | James Lanng | Redis-backed storage provider for Dbsp: operator state in Redis hashes with ato… |
+| 2026-11-22 18:04:46 | [Iciclecreek.Lucene.Net.Temporal](https://www.nuget.org/packages/Iciclecreek.Lucene.Net.Temporal) | 1.0.0 | Tom Laird-McConnell | TIMEX-based temporal indexing and filtering for Lucene.NET 4.8: store whole, pa… |
+| 2026-11-22 18:05:51 | [TcfOss.DatabaseManager.App](https://www.nuget.org/packages/TcfOss.DatabaseManager.App) | 0.9.0 | Thomas C. Flanagan | Package Description |
+| 2026-11-22 18:11:34 | [NanoByte.StructureEditor.EtoForms](https://www.nuget.org/packages/NanoByte.StructureEditor.EtoForms) | 4.0.0 | Bastian Eicher | Cross-platform Eto.Forms controls for building split-screen editors for data st… |
+| 2026-11-22 18:11:35 | [NanoByte.StructureEditor.Json](https://www.nuget.org/packages/NanoByte.StructureEditor.Json) | 4.0.0 | Bastian Eicher | System.Text.Json serialization support for split-screen editors for data struct… |
 
 ## Data source
 
