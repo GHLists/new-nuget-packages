@@ -12,23 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 11:20 UTC
+## Latest list — 2026-11-22 12:20 UTC
 
-New packages created between 2026-11-22 10:21 UTC and 2026-11-22 11:20 UTC.
+New packages created between 2026-11-22 11:20 UTC and 2026-11-22 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T11-20-31-49902Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T12-20-41-53958Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 10:22:25 | [Monstertacle.Hosting.Tool](https://www.nuget.org/packages/Monstertacle.Hosting.Tool) | 0.1.0 | Alexander Bleissem | Submit and recover Hosting MCP sessions from GitHub Actions. |
-| 2026-11-22 10:29:45 | [OdinIranianIpg](https://www.nuget.org/packages/OdinIranianIpg) | 1.0.0 | Amindada021 | Extensible asynchronous Iranian payment gateway SDK for .NET 10. |
-| 2026-11-22 10:34:01 | [Fostry.Branding](https://www.nuget.org/packages/Fostry.Branding) | 0.2.0 | Foste IT | The Fostry brand: its colours, light and dark palettes, the logo recoloured to… |
-| 2026-11-22 10:34:02 | [Fostry.Client](https://www.nuget.org/packages/Fostry.Client) | 0.2.0 | Foste IT | A client for Fostry's API: scripts and their runs, agents, alerts and monitors,… |
-| 2026-11-22 10:34:03 | [Fostry.SDK.Entra](https://www.nuget.org/packages/Fostry.SDK.Entra) | 0.2.0 | Foste IT | An app's own access to Microsoft Entra ID: its registration made from the app (… |
-| 2026-11-22 10:34:04 | [Fostry.SDK.AspNetCore](https://www.nuget.org/packages/Fostry.SDK.AspNetCore) | 0.2.0 | Foste IT | An app Fostry hosts, in ASP.NET Core or Blazor Server: registering with Fostry,… |
-| 2026-11-22 10:34:05 | [Fostry.Ui](https://www.nuget.org/packages/Fostry.Ui) | 0.2.0 | Foste IT | How a Fostry app looks, in Blazor and MudBlazor: the shell (rail and panel), se… |
-| 2026-11-22 10:58:06 | [FCQRS.Analyzers](https://www.nuget.org/packages/FCQRS.Analyzers) | 1.0.0 | Onur Gumus | Warns when an FCQRS workflow body or aggregate fold reads the clock, a GUID gen… |
-| 2026-11-22 11:09:06 | [Iyu.Notifications](https://www.nuget.org/packages/Iyu.Notifications) | 0.1.0 | iyulab | Host-neutral notification routing - events declared in code, recipients resolve… |
+| 2026-11-22 11:27:36 | [Maomi.MQ.RabbitMQ.Mediator](https://www.nuget.org/packages/Maomi.MQ.RabbitMQ.Mediator) | 2.4.0 | Maomi.MQ.RabbitMQ.Mediator | RabbitMQ Publisher and consumer communication model framework. |
+| 2026-11-22 11:33:39 | [JeffTian.Id6Mail.Mcp](https://www.nuget.org/packages/JeffTian.Id6Mail.Mcp) | 0.1.0 | Jeff Tian | Local stdio MCP server that lets AI agents search and read the signed-in user's… |
+| 2026-11-22 11:42:06 | [Shields.UI.Testing](https://www.nuget.org/packages/Shields.UI.Testing) | 1.0.0 | Martin Shields | Design checks for apps built on Shields.UI: the kit's tokens, tokens-only, cont… |
+| 2026-11-22 11:42:07 | [Shields.UI](https://www.nuget.org/packages/Shields.UI) | 1.0.0 | Martin Shields | Shared design tokens, base styles and components for the Calorie Tracker and Wo… |
+| 2026-11-22 11:43:18 | [Supprocom.JSONColdStore](https://www.nuget.org/packages/Supprocom.JSONColdStore) | 0.1.1 | mkn8rn | Commercial or AGPL-3.0. EF Core provider foundation for durable local JSON cold… |
+| 2026-11-22 11:44:17 | [Maomi.Core.Aot](https://www.nuget.org/packages/Maomi.Core.Aot) | 2.4.0 | Maomi.Core.Aot | Maomi 框架的 AOT 版本，使用 Roslyn 源生成器在编译期完成模块化分析和依赖注入注册，适用于 NativeAOT 与裁剪发布，运行时零反射。 |
+| 2026-11-22 11:57:30 | [Tinos.Api.Shell](https://www.nuget.org/packages/Tinos.Api.Shell) | 1.0.0-alpha | Tinos API contributors | The shell component for Tinos.Api |
 
 ## Data source
 

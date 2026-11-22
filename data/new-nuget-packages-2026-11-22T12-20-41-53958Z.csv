@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-22T11:27:36.07Z,Maomi.MQ.RabbitMQ.Mediator,2.4.0,Maomi.MQ.RabbitMQ.Mediator,RabbitMQ Publisher and consumer communication model framework.
+2026-11-22T11:33:39.943Z,JeffTian.Id6Mail.Mcp,0.1.0,Jeff Tian,"Local stdio MCP server that lets AI agents search and read the signed-in user's Outlook mailbox through id6. Read-only tools (search_mail, get_mail), Microsoft Search KQL, public-client device-flow auth, no client secret, per-user mailbox binding."
+2026-11-22T11:42:06.977Z,Shields.UI.Testing,1.0.0,Martin Shields,"Design checks for apps built on Shields.UI: the kit's tokens, tokens-only, contrast and touch-target checks. No test-framework dependency."
+2026-11-22T11:42:07.173Z,Shields.UI,1.0.0,Martin Shields,"Shared design tokens, base styles and components for the Calorie Tracker and Workout Log apps."
+2026-11-22T11:43:18.76Z,Supprocom.JSONColdStore,0.1.1,mkn8rn,Commercial or AGPL-3.0. EF Core provider foundation for durable local JSON cold storage.
+2026-11-22T11:44:17.193Z,Maomi.Core.Aot,2.4.0,Maomi.Core.Aot,Maomi 框架的 AOT 版本，使用 Roslyn 源生成器在编译期完成模块化分析和依赖注入注册，适用于 NativeAOT 与裁剪发布，运行时零反射。
+2026-11-22T11:57:30.41Z,Tinos.Api.Shell,1.0.0-alpha,Tinos API contributors,The shell component for Tinos.Api
