@@ -12,37 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:19 UTC
+## Latest list — 2026-11-22 21:19 UTC
 
-New packages created between 2026-11-22 19:19 UTC and 2026-11-22 20:19 UTC.
+New packages created between 2026-11-22 20:19 UTC and 2026-11-22 21:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T20-19-57-154033Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T21-19-46-004873Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 19:23:19 | [TheNerdCollective.Integrations.Mollie](https://www.nuget.org/packages/TheNerdCollective.Integrations.Mollie) | 0.1.0 | The Nerd Collective | Typed Mollie Payments API client and dependency injection integration. |
-| 2026-11-22 19:23:54 | [TheNerdCollective.Cli.Mollie](https://www.nuget.org/packages/TheNerdCollective.Cli.Mollie) | 0.1.0 | The Nerd Collective | Mollie Payments API CLI and local payment-template catalog. |
-| 2026-11-22 19:30:04 | [WxKit.Native.linux-arm64](https://www.nuget.org/packages/WxKit.Native.linux-arm64) | 0.1.0 | Quin Gillespie | wxWidgets and the WxKit shim for linux-arm64: a shared library, and static libr… |
-| 2026-11-22 19:30:06 | [WxKit.Native.linux-x64](https://www.nuget.org/packages/WxKit.Native.linux-x64) | 0.1.0 | Quin Gillespie | wxWidgets and the WxKit shim for linux-x64: a shared library, and static librar… |
-| 2026-11-22 19:30:08 | [WxKit.Native.osx-arm64](https://www.nuget.org/packages/WxKit.Native.osx-arm64) | 0.1.0 | Quin Gillespie | wxWidgets and the WxKit shim for osx-arm64: a shared library, and static librar… |
-| 2026-11-22 19:30:09 | [WxKit.Native.osx-x64](https://www.nuget.org/packages/WxKit.Native.osx-x64) | 0.1.0 | Quin Gillespie | wxWidgets and the WxKit shim for osx-x64: a shared library, and static librarie… |
-| 2026-11-22 19:30:12 | [WxKit.Native.win-arm64](https://www.nuget.org/packages/WxKit.Native.win-arm64) | 0.1.0 | Quin Gillespie | wxWidgets and the WxKit shim for win-arm64: a shared library, and static librar… |
-| 2026-11-22 19:30:14 | [WxKit.Native.win-x64](https://www.nuget.org/packages/WxKit.Native.win-x64) | 0.1.0 | Quin Gillespie | wxWidgets and the WxKit shim for win-x64: a shared library, and static librarie… |
-| 2026-11-22 19:30:15 | [WxKit](https://www.nuget.org/packages/WxKit) | 0.1.0 | Quin Gillespie | .NET bindings to wxWidgets, for native desktop applications. Links wxWidgets in… |
-| 2026-11-22 19:30:17 | [WxKit.FSharp](https://www.nuget.org/packages/WxKit.FSharp) | 0.1.0 | Quin Gillespie | WxKit for F#: translation functions that gettext finds, and computation express… |
-| 2026-11-22 19:30:18 | [WxKit.Templates](https://www.nuget.org/packages/WxKit.Templates) | 0.1.0 | Quin Gillespie | dotnet new templates for WxKit: a desktop application with native, accessible c… |
-| 2026-11-22 19:48:08 | [Marqdouj.DotNet.Gaming.PlayingCards](https://www.nuget.org/packages/Marqdouj.DotNet.Gaming.PlayingCards) | 11.0.0 | Douglas Marquardt | .NET library for a deck of playing cards |
-| 2026-11-22 20:08:28 | [DylansTechStack.Pro.Tenancy.Abstractions](https://www.nuget.org/packages/DylansTechStack.Pro.Tenancy.Abstractions) | 0.6.0 | Dylan Snel | Tenancy's markers for domain classes, such as [OfTenant] on the property that s… |
-| 2026-11-22 20:08:30 | [DylansTechStack.Pro.Tenancy.AspNetCore](https://www.nuget.org/packages/DylansTechStack.Pro.Tenancy.AspNetCore) | 0.6.0 | Dylan Snel | Tenancy in an ASP.NET Core host: the middleware UseTenantSelection reads the te… |
-| 2026-11-22 20:08:32 | [DylansTechStack.Pro.Tenancy](https://www.nuget.org/packages/DylansTechStack.Pro.Tenancy) | 0.6.0 | Dylan Snel | Tenants, their organization tree, seats with placements and role grants, roles… |
-| 2026-11-22 20:08:34 | [DylansTechStack.Pro.Tenancy.EntityFramework](https://www.nuget.org/packages/DylansTechStack.Pro.Tenancy.EntityFramework) | 0.6.0 | Dylan Snel | Stores Tenancy with Entity Framework Core: the tables of the application's tena… |
-| 2026-11-22 20:08:37 | [DylansTechStack.Pro.Tenancy.Postgres](https://www.nuget.org/packages/DylansTechStack.Pro.Tenancy.Postgres) | 0.6.0 | Dylan Snel | Tenancy on Postgres with row level security: the tenant of the current Tenancy… |
-| 2026-11-22 20:08:40 | [DylansTechStack.Pro.Membership.Abstractions](https://www.nuget.org/packages/DylansTechStack.Pro.Membership.Abstractions) | 0.6.0 | Dylan Snel | Membership's markers for domain classes, such as [At] on the property that says… |
-| 2026-11-22 20:08:43 | [DylansTechStack.Pro.Membership](https://www.nuget.org/packages/DylansTechStack.Pro.Membership) | 0.6.0 | Dylan Snel | Access to a resource through its members: a member class an application declare… |
-| 2026-11-22 20:08:45 | [DylansTechStack.Pro.Membership.Postgres](https://www.nuget.org/packages/DylansTechStack.Pro.Membership.Postgres) | 0.6.0 | Dylan Snel | Membership on Postgres with row level security: the four set functions that ans… |
-| 2026-11-22 20:08:48 | [DylansTechStack.Pro.Membership.EntityFramework](https://www.nuget.org/packages/DylansTechStack.Pro.Membership.EntityFramework) | 0.6.0 | Dylan Snel | Stores Membership with Entity Framework Core: the two member tables of a resour… |
-| 2026-11-22 20:08:50 | [DylansTechStack.Pro.Licensing](https://www.nuget.org/packages/DylansTechStack.Pro.Licensing) | 0.6.0 | Dylan Snel | Reads the DTS Pro licence key from the configuration at start-up, checks its si… |
-| 2026-11-22 20:10:09 | [Close.DotNet](https://www.nuget.org/packages/Close.DotNet) | 1.0.0 | Peter Schroeder | Independent .NET SDK for the Close CRM REST API. |
+| 2026-11-22 20:24:07 | [VisioForge.CrossPlatform.OpenCV.Windows.arm64](https://www.nuget.org/packages/VisioForge.CrossPlatform.OpenCV.Windows.arm64) | 2026.11.16 | VisioForge | OpenCV computer vision libraries package for VisioForge .NET SDKs. Enables adva… |
+| 2026-11-22 20:24:23 | [CUDAPython.Dotnet.win-x64](https://www.nuget.org/packages/CUDAPython.Dotnet.win-x64) | 0.1.1 | CUDAPython.Dotnet.Nuget | Self-contained Windows x64 .NET wrapper for CUDA Python, including CPython and… |
+| 2026-11-22 20:30:43 | [Cyberdot.Jotter](https://www.nuget.org/packages/Cyberdot.Jotter) | 1.0.0 | cyberdot | Jotter is an F# static site generator for Markdown blogs with paginated indexes… |
+| 2026-11-22 20:34:04 | [Chris82111.GitManager.GitWrapper.Static.LinuxX64](https://www.nuget.org/packages/Chris82111.GitManager.GitWrapper.Static.LinuxX64) | 1.0.0 | Chris82111 | Plugin to extend the Core solution for using Git in a portable form. Supports:… |
+| 2026-11-22 20:35:24 | [Chris82111.GitManager.GitWrapper.Static.WindowsX64](https://www.nuget.org/packages/Chris82111.GitManager.GitWrapper.Static.WindowsX64) | 1.0.0 | Chris82111 | Plugin to extend the Core solution for using Git in a portable form. Supports:… |
+| 2026-11-22 20:42:42 | [Agilis.Ads](https://www.nuget.org/packages/Agilis.Ads) | 0.1.0 | Agilis Dating Ltd | Official .NET client for the Agilis Advertising REST API: Offers, Events, webho… |
+| 2026-11-22 20:47:58 | [Zharp](https://www.nuget.org/packages/Zharp) | 0.1.0 | Zharp | Zharp for .NET: errors with the code that ran, traces, failed queries, request… |
+| 2026-11-22 20:48:00 | [Zharp.AspNet](https://www.nuget.org/packages/Zharp.AspNet) | 0.1.0 | Zharp | Zharp for classic ASP.NET on .NET Framework (MVC 5, Web API 2, WebForms) on IIS… |
+| 2026-11-22 20:48:01 | [Zharp.AspNet.WebApi](https://www.nuget.org/packages/Zharp.AspNet.WebApi) | 0.1.0 | Zharp | Zharp for ASP.NET Web API 2 on .NET Framework: config.AddZharp() reports what c… |
+| 2026-11-22 20:48:02 | [Zharp.AspNetCore](https://www.nuget.org/packages/Zharp.AspNetCore) | 0.1.0 | Zharp | Zharp for ASP.NET Core: builder.Services.AddZharp() traces every request by its… |
+| 2026-11-22 20:48:03 | [Zharp.AwsLambda](https://www.nuget.org/packages/Zharp.AwsLambda) | 0.1.0 | Zharp | Zharp for .NET on AWS Lambda: ZharpLambda.Wrap(handler) traces each invocation… |
+| 2026-11-22 20:48:04 | [Zharp.Build](https://www.nuget.org/packages/Zharp.Build) | 0.1.0 | Zharp | Zharp's MSBuild step: after a Release build, uploads the project's sources as a… |
+| 2026-11-22 20:48:05 | [Zharp.GoogleCloudFunctions](https://www.nuget.org/packages/Zharp.GoogleCloudFunctions) | 0.1.0 | Zharp | Zharp for .NET on Google Cloud Run functions (Cloud Functions): one assembly at… |
+| 2026-11-22 20:50:22 | [Chris82111.GitManager.GitWrapper.Static.Any](https://www.nuget.org/packages/Chris82111.GitManager.GitWrapper.Static.Any) | 1.0.0 | Chris82111 | Plugin to extend the Core solution for using Git in a portable form. Supports:… |
 
 ## Data source
 
