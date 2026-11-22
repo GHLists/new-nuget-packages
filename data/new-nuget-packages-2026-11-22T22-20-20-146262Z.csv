@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-22T21:47:20.767Z,Synergit.Data.SqLite,3.1.0,Synergit s.r.o.,Library of SQLite DB Thin Client for Synergit s.r.o. company
+2026-11-22T21:53:30.77Z,Lunate.Decisions.Model,1.18.0,Lunate.Decisions.Model,"The one decision model of Lunate: DecisionRequest, DecisionQuestion and its kinds, DecisionAnswer, DecisionBox, DecisionResult and DecisionUsage, plus the native-client and agent-service seams. Versioned with the extension contract; the engine stays in Lunate.Ai.Decisions. See ADR-0045."
+2026-11-22T21:54:58.597Z,TxGold.Business,0.3.0,TxGold,"TxGold Business API client: signed requests, payments, payment requests, holds, accounts."
