@@ -12,23 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 04:20 UTC
+## Latest list — 2026-11-22 05:19 UTC
 
-New packages created between 2026-11-22 03:19 UTC and 2026-11-22 04:20 UTC.
+New packages created between 2026-11-22 04:20 UTC and 2026-11-22 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T04-20-17-380056Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T05-19-21-847934Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 03:20:13 | [Erdigo.Core](https://www.nuget.org/packages/Erdigo.Core) | 1.0.0 | Ziorentia | The integration-v1 wire format, strict JSON and Noise handshakes used by the Er… |
-| 2026-11-22 03:20:14 | [Erdigo.Send](https://www.nuget.org/packages/Erdigo.Send) | 1.0.0 | Ziorentia | Writes pins, markers, notes, photos and tracks to a paired Erdigo receiver, and… |
-| 2026-11-22 03:20:15 | [Erdigo.Sdk](https://www.nuget.org/packages/Erdigo.Sdk) | 1.0.0 | Ziorentia | Writes pins, markers, notes, photos and tracks to an Erdigo receiver on the loc… |
-| 2026-11-22 03:20:16 | [Erdigo.MockReceiver](https://www.nuget.org/packages/Erdigo.MockReceiver) | 1.0.0 | Ziorentia | An in-memory stand-in for the receiver side of integration-v1, for developing a… |
-| 2026-11-22 03:39:40 | [Cangming.Logs.App](https://www.nuget.org/packages/Cangming.Logs.App) | 0.1.9.1122 | Fangyu,lukan@xknife.net,Asong… | 日志应用层：面板数据源与支持包。 |
-| 2026-11-22 03:39:49 | [Cangming.Logs.Serilog](https://www.nuget.org/packages/Cangming.Logs.Serilog) | 0.1.9.1122 | Fangyu,lukan@xknife.net,Asong… | 当使用 Serilog 作为日志基础时，提供对日志相关契约的薄适配实现。 |
-| 2026-11-22 03:39:52 | [Cangming.Logs.Testing](https://www.nuget.org/packages/Cangming.Logs.Testing) | 0.1.9.1122 | Fangyu,lukan@xknife.net,Asong… | 为插件测试提供 ILogService 的内存捕获实现与日志条目断言，只依赖 Contracts，不依赖具体日志框架与测试框架。 |
-| 2026-11-22 03:54:13 | [BlazorPowerPack](https://www.nuget.org/packages/BlazorPowerPack) | 1.0.0 | Jeremy Burman and Gemini | Packs standalone Blazor WebAssembly + Fluent UI apps into compressed binary bun… |
-| 2026-11-22 04:15:55 | [Chondrite.Compile](https://www.nuget.org/packages/Chondrite.Compile) | 0.9.0-alpha01 | LEAP 71 | Deterministic Chondrite schema compiler with automatic MSBuild integration and… |
+| 2026-11-22 04:24:23 | [OmniCore.Database.Connector](https://www.nuget.org/packages/OmniCore.Database.Connector) | 1.2.0 | OmniCore | Client runtime for the OmniCore document database: an HTTP client, change-track… |
+| 2026-11-22 04:27:15 | [OmniCore.PlugIn](https://www.nuget.org/packages/OmniCore.PlugIn) | 1.2.0 | OmniCore | Build OmniCore plugins: implement IPlugin, mark the class with [FireOnAdd], [Fi… |
+| 2026-11-22 04:30:21 | [OmniCore.Cli](https://www.nuget.org/packages/OmniCore.Cli) | 1.3.0 | OmniCore | occtl, the OmniCore command line: sign in to an OmniCore server, manage plugins… |
+| 2026-11-22 04:52:03 | [AbpLanguages](https://www.nuget.org/packages/AbpLanguages) | 0.7.0 | AbpCluster contributors | AbpLanguages: a site's languages and translations for ABP apps on .NET 10. Lang… |
+| 2026-11-22 04:52:04 | [AbpLanguages.HttpApi](https://www.nuget.org/packages/AbpLanguages.HttpApi) | 0.7.0 | AbpCluster contributors | AbpLanguages.HttpApi: AbpLanguages' API over HTTP, under a route prefix the hos… |
+| 2026-11-22 04:54:42 | [Pdfwright](https://www.nuget.org/packages/Pdfwright) | 0.1.0 | Sinan Oran | A small, MIT-licensed PDF writer for reports: paragraphs and tables with pagina… |
+| 2026-11-22 05:01:05 | [Decisions.Codex](https://www.nuget.org/packages/Decisions.Codex) | 1.0.0 | Yue Zhishun | 通过本机 Codex App Server 提供 OpenAI Decisions、Jev System One 和结构化回答。 |
 
 ## Data source
 
