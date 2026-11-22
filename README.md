@@ -12,38 +12,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 08:18 UTC
+## Latest list — 2026-11-22 09:18 UTC
 
-New packages created between 2026-11-22 07:18 UTC and 2026-11-22 08:18 UTC.
+New packages created between 2026-11-22 08:18 UTC and 2026-11-22 09:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-22T08-18-45-411054Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T09-18-45-831076Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 07:21:41 | [GKK.Newtonsoft.Tools](https://www.nuget.org/packages/GKK.Newtonsoft.Tools) | 1.0.0 | GKK | GKK description |
-| 2026-11-22 07:22:59 | [Tellurian.Trains.Schedules.Model.Layouts](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Model.Layouts) | 4.0.24 | Stefan Fjällemark | The shared model of a model railway layout: operation locations, their tracks a… |
-| 2026-11-22 07:22:59 | [Tellurian.Trains.Schedules.Model.Geometry](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Model.Geometry) | 4.0.24 | Stefan Fjällemark | Pure 2D geometry for model railway drawings: points, vectors, angles, poses, tr… |
-| 2026-11-22 07:23:02 | [Tellurian.Trains.Schedules.Importers.Drawing](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Importers.Drawing) | 4.0.24 | Stefan Fjällemark | Reads Module Draw's drawing files (end profiles; modules, catalogues, halls and… |
-| 2026-11-22 07:23:04 | [Tellurian.Trains.Schedules.Exporters.Services](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Exporters.Services) | 4.0.24 | Stefan Fjällemark | Writes plans as plan files (JSON): PlanJsonExporter (IExporter<Plan>) and JsonE… |
-| 2026-11-22 07:23:04 | [Tellurian.Trains.Schedules.Exporters.Drawing](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Exporters.Drawing) | 4.0.24 | Stefan Fjällemark | Writes Module Draw's drawing files (end profiles; modules, catalogues, halls an… |
-| 2026-11-22 07:23:05 | [Tellurian.Trains.Schedules.Exporters.Interfaces](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Exporters.Interfaces) | 4.0.24 | Stefan Fjällemark | Contracts for writing the Tellurian Trains models: IExporter<T> (one format, to… |
-| 2026-11-22 07:34:27 | [BinaryVibrance.Kaldra.SDL3](https://www.nuget.org/packages/BinaryVibrance.Kaldra.SDL3) | 3.4.20 | Steven Blom | SDL 3.4.20's native libraries for win-x64 and win-arm64, from SDL's own release… |
-| 2026-11-22 07:37:53 | [zyc.gnuplot.headless](https://www.nuget.org/packages/zyc.gnuplot.headless) | 6.0.5 | zyc | gnuplot 6.0.5 for win-x64, cut down to about 21 MB for headless use: gnuplot.ex… |
-| 2026-11-22 07:38:01 | [Sesaot](https://www.nuget.org/packages/Sesaot) | 1.0.0 | Desa Wisata Sesaot — Narmada… | Desa Wisata Sesaot desa wisata Narmada, Lombok Barat constants. Official: https… |
-| 2026-11-22 07:38:18 | [Desabudo](https://www.nuget.org/packages/Desabudo) | 1.0.0 | Desa Wisata Budo — Wori Minah… | Desa Wisata Budo desa wisata Wori, Minahasa Utara constants. Official: https://… |
-| 2026-11-22 07:38:38 | [Kalongan](https://www.nuget.org/packages/Kalongan) | 1.0.0 | Desa Wisata Kalongan — Ungara… | Desa Wisata Kalongan desa wisata Ungaran Timur, Jawa Tengah constants. Official… |
-| 2026-11-22 07:38:53 | [Sasakende](https://www.nuget.org/packages/Sasakende) | 1.0.0 | Desa Wisata Adat Sasak Ende —… | Desa Wisata Sasak Ende desa wisata Sengkol, Lombok Tengah constants. Official:… |
-| 2026-11-22 07:39:10 | [Bonjeruk](https://www.nuget.org/packages/Bonjeruk) | 1.0.0 | Desa Wisata Bonjeruk — Jongga… | Desa Wisata Bonjeruk desa wisata Jonggat, Lombok Tengah constants. Official: ht… |
-| 2026-11-22 07:47:12 | [NewLife.Presto](https://www.nuget.org/packages/NewLife.Presto) | 1.0.2026.1122-beta0… | 新生命开发团队 | 纯 C# Presto/Trino ADO.NET 驱动，零第三方依赖，基于 HTTP REST v1 协议，支持 XCode ORM、Presto/Trin… |
-| 2026-11-22 07:47:13 | [NewLife.Presto.EntityFramework](https://www.nuget.org/packages/NewLife.Presto.EntityFramework) | 1.0.2026.1122-beta0… | 新生命开发团队 | 基于 NewLife.Presto 的 Entity Framework 6 提供程序，面向 Presto/Trino 只读查询；不支持写入、事务与迁移。En… |
-| 2026-11-22 07:47:14 | [NewLife.Presto.EntityFrameworkCore](https://www.nuget.org/packages/NewLife.Presto.EntityFrameworkCore) | 1.0.2026.1122-beta0… | 新生命开发团队 | 基于 NewLife.Presto 的 Entity Framework Core 提供程序，面向 Presto/Trino 只读查询；不支持写入、事务与迁移… |
-| 2026-11-22 08:08:45 | [ResultUnion.Http](https://www.nuget.org/packages/ResultUnion.Http) | 0.3.0 | Giorgi Kaldani | HTTP client integration for ResultUnion: HttpResponseMessage.ReadResultAsync tu… |
-| 2026-11-22 08:08:46 | [ResultUnion.Testing](https://www.nuget.org/packages/ResultUnion.Testing) | 0.3.0 | Giorgi Kaldani | Test assertions for ResultUnion: ShouldSucceed returns the value, ShouldFail("c… |
-| 2026-11-22 08:08:46 | [ResultUnion.Templates](https://www.nuget.org/packages/ResultUnion.Templates) | 0.3.0 | Giorgi Kaldani | dotnet new templates for ResultUnion. resultunion-api: a Minimal API with value… |
-| 2026-11-22 08:11:16 | [Dixor.Identity.Analyzers](https://www.nuget.org/packages/Dixor.Identity.Analyzers) | 0.1.0 | Dishant Prashant Save | Package Description |
-| 2026-11-22 08:11:17 | [Dixor.Validation.Analyzers](https://www.nuget.org/packages/Dixor.Validation.Analyzers) | 0.1.0 | Dishant Prashant Save | Package Description |
-| 2026-11-22 08:11:20 | [Dixor.DI](https://www.nuget.org/packages/Dixor.DI) | 0.1.0 | Dishant Prashant Save | Ultra-clean, high-performance dependency injection extensions for .NET. Enables… |
-| 2026-11-22 08:11:32 | [Dixor.Security](https://www.nuget.org/packages/Dixor.Security) | 0.1.0 | Dishant Prashant Save | Production-grade security, cryptography, and authentication engine for .NET. Fe… |
+| 2026-11-22 08:20:32 | [Chondrite.Store](https://www.nuget.org/packages/Chondrite.Store) | 0.9.0-alpha01 | LEAP 71 | Shared storage contracts and canonical binary serialization for Chondrite. |
+| 2026-11-22 08:22:31 | [NarrativeTrace.Clarity.Tool](https://www.nuget.org/packages/NarrativeTrace.Clarity.Tool) | 0.5.0 | Empower Agile | The NarrativeTrace clarity tool (dotnet-narrativetrace-clarity): clarity-scan,… |
+| 2026-11-22 08:23:01 | [Aspose.GIS.Python](https://www.nuget.org/packages/Aspose.GIS.Python) | 26.11.0 | Aspose | Aspose.GIS for .NET is an on premise API developed in C# 100% managed code. It… |
+| 2026-11-22 08:26:23 | [Stuja](https://www.nuget.org/packages/Stuja) | 1.0.0 | Stuja Coffee — coffee bar Cip… | Stuja Coffee cafe Cipete, Jakarta Selatan constants. Official: https://stujacof… |
+| 2026-11-22 08:26:30 | [Suduttimur](https://www.nuget.org/packages/Suduttimur) | 1.0.0 | Sudut Timur — coffee & eatery… | Sudut Timur cafe Kramat Jati, Jakarta Timur constants. Official: https://sudutt… |
+| 2026-11-22 08:26:37 | [Fotkop](https://www.nuget.org/packages/Fotkop) | 1.0.0 | Warung Fotkop — kopi & makana… | Warung Fotkop cafe Cipete Utara, Jakarta Selatan constants. Official: https://f… |
+| 2026-11-22 08:26:46 | [Kopimaru](https://www.nuget.org/packages/Kopimaru) | 1.0.0 | Toko Kopi Maru — coffee shop… | Toko Kopi Maru cafe Pasar Baru, Jakarta Pusat constants. Official: https://toko… |
+| 2026-11-22 08:26:53 | [Tjeritarasa](https://www.nuget.org/packages/Tjeritarasa) | 1.0.0 | Tjerita Rasa Bakmie & Kopi —… | Tjerita Rasa cafe Tanjung Duren, Jakarta Barat constants. Official: https://tje… |
+| 2026-11-22 08:26:59 | [Sukukata](https://www.nuget.org/packages/Sukukata) | 1.0.0 | Suku Kata Kopi — coffee shop… | Suku Kata Kopi cafe Grogol Utara, Jakarta Selatan constants. Official: https://… |
+| 2026-11-22 08:27:07 | [Candakoffie](https://www.nuget.org/packages/Candakoffie) | 1.0.0 | Canda Koffie — coffee shop Ha… | Canda Koffie cafe Gandaria Utara, Jakarta Selatan constants. Official: https://… |
+| 2026-11-22 08:27:13 | [Koacung](https://www.nuget.org/packages/Koacung) | 1.0.0 | Kopi Ko Acung — kopitiam Pera… | Kopi Ko Acung cafe Menteng / Sabang, Jakarta Pusat constants. Official: https:/… |
+| 2026-11-22 08:27:19 | [Suryabenhil](https://www.nuget.org/packages/Suryabenhil) | 1.0.0 | Rumah Makan SURYA Benhil — na… | Rumah Makan SURYA cafe Bendungan Hilir, Jakarta Pusat constants. Official: http… |
+| 2026-11-22 08:36:06 | [EraTech.NotificationManagement.AspNetCore.SignalR](https://www.nuget.org/packages/EraTech.NotificationManagement.AspNetCore.SignalR) | 2.2.43 | EraTech | Package Description |
+| 2026-11-22 08:36:16 | [EraTech.OperationRateLimiting.AspNetCore](https://www.nuget.org/packages/EraTech.OperationRateLimiting.AspNetCore) | 2.2.43 | EraTech | Package Description |
+| 2026-11-22 08:36:17 | [EraTech.OperationRateLimiting.Domain](https://www.nuget.org/packages/EraTech.OperationRateLimiting.Domain) | 2.2.43 | EraTech | Package Description |
+| 2026-11-22 08:36:18 | [EraTech.OperationRateLimiting.Domain.Shared](https://www.nuget.org/packages/EraTech.OperationRateLimiting.Domain.Shared) | 2.2.43 | EraTech | Package Description |
+| 2026-11-22 08:36:44 | [ReactiveUI.WinForms.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.WinForms.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code control hosts for ReactiveUI.WinForms.Reacti… |
+| 2026-11-22 08:36:46 | [ReactiveUI.WPF.Unsafe](https://www.nuget.org/packages/ReactiveUI.WPF.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
+| 2026-11-22 08:36:47 | [ReactiveUI.Maui.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.Maui.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts for ReactiveUI.Maui.Reactive (Vie… |
+| 2026-11-22 08:36:47 | [ReactiveUI.Unsafe](https://www.nuget.org/packages/ReactiveUI.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI (Unsafe view hosts, asse… |
+| 2026-11-22 08:36:48 | [ReactiveUI.Maui.Unsafe](https://www.nuget.org/packages/ReactiveUI.Maui.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts for ReactiveUI.Maui (ViewModelVie… |
+| 2026-11-22 08:36:51 | [ReactiveUI.AndroidX.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.AndroidX.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI.AndroidX.Reactive (Fragm… |
+| 2026-11-22 08:36:53 | [ReactiveUI.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI.Reactive (Unsafe view ho… |
+| 2026-11-22 08:36:56 | [ReactiveUI.WinForms.Unsafe](https://www.nuget.org/packages/ReactiveUI.WinForms.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code control hosts for ReactiveUI.WinForms (ViewM… |
+| 2026-11-22 08:36:57 | [ReactiveUI.WPF.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.WPF.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
+| 2026-11-22 08:36:58 | [ReactiveUI.WinUI.Unsafe.Reactive](https://www.nuget.org/packages/ReactiveUI.WinUI.Unsafe.Reactive) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
+| 2026-11-22 08:36:59 | [ReactiveUI.AndroidX.Unsafe](https://www.nuget.org/packages/ReactiveUI.AndroidX.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code APIs for ReactiveUI.AndroidX (Fragment WireU… |
+| 2026-11-22 08:37:00 | [ReactiveUI.WinUI.Unsafe](https://www.nuget.org/packages/ReactiveUI.WinUI.Unsafe) | 28.0.0 | .NET Foundation and Contribut… | Opt-in reflection and dynamic-code view hosts and binding hooks for ReactiveUI.… |
+| 2026-11-22 08:45:01 | [NewLife.TDengine](https://www.nuget.org/packages/NewLife.TDengine) | 1.0.2026.1122-beta0… | 新生命开发团队 | 纯托管 TDengine ADO.NET 驱动，支持 REST（http://）、WebSocket（ws://）与传统原生 RPC（tcp://）三种连接模… |
 
 ## Data source
 
