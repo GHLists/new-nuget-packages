@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 23:19 UTC
+## Latest list — 2026-11-22 00:20 UTC
 
-New packages created between 2026-11-21 22:18 UTC and 2026-11-21 23:19 UTC.
+New packages created between 2026-11-21 23:19 UTC and 2026-11-22 00:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-21T23-19-22-315257Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-22T00-20-44-054055Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-21 22:24:17 | [BorrowedTorch.Engine.AdditionalFeatures](https://www.nuget.org/packages/BorrowedTorch.Engine.AdditionalFeatures) | 1.1.3 | Vladyslav Pysarenko | Kindling, Borrowed Torch's game engine: its additional features - sound, post e… |
-| 2026-11-21 22:24:22 | [Bashka.Plugins.Themes.TurboVisionDark](https://www.nuget.org/packages/Bashka.Plugins.Themes.TurboVisionDark) | 1.0.8 | Evgeny Gorbovoy | Dark theme for Bashka based on Turbo Vision compatible theme. |
-| 2026-11-21 22:39:34 | [Subrange](https://www.nuget.org/packages/Subrange) | 0.1.1 | Qluxzz | Subrange types for .NET: a number type that only holds values within its bounds… |
-| 2026-11-21 22:39:34 | [Subrange.Swashbuckle](https://www.nuget.org/packages/Subrange.Swashbuckle) | 0.1.1 | Qluxzz | Documents Subrange types in Swashbuckle OpenAPI schemas as the integers and num… |
-| 2026-11-21 22:47:03 | [ResultUnion.FluentValidation](https://www.nuget.org/packages/ResultUnion.FluentValidation) | 0.2.0 | Giorgi Kaldani | FluentValidation integration for ResultUnion: a ValidationResult becomes a Resu… |
-| 2026-11-21 22:47:04 | [CefKit](https://www.nuget.org/packages/CefKit) | 0.1.0 | CefKit contributors | .NET binding to the Chromium Embedded Framework C API for Windows and Linux x64… |
-| 2026-11-21 23:00:59 | [Meziantou.Framework.Email](https://www.nuget.org/packages/Meziantou.Framework.Email) | 1.0.0 | meziantou | Reads and writes email, contact and calendar files. Outlook data files (PST and… |
+| 2026-11-21 23:55:12 | [JQuants.Net](https://www.nuget.org/packages/JQuants.Net) | 0.2.0 | Yusuke Masuda | A modern .NET client library for the J-Quants API with rate limiting and async… |
+| 2026-11-22 00:04:43 | [equip-sw-lint](https://www.nuget.org/packages/equip-sw-lint) | 1.0.0 | mhbae-semi-lab | Command-line runner for EquipSwLint analyzers: analyzes C# sources without buil… |
+| 2026-11-22 00:04:44 | [EquipSwLint.Analyzers](https://www.nuget.org/packages/EquipSwLint.Analyzers) | 1.0.0 | mhbae-semi-lab | Roslyn analyzers for long-running equipment control software in C#: 32-bit tick… |
 
 ## Data source
 

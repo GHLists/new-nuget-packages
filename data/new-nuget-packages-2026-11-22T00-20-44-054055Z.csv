@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-21T23:55:12.67Z,JQuants.Net,0.2.0,Yusuke Masuda,A modern .NET client library for the J-Quants API with rate limiting and async streaming support.
+2026-11-22T00:04:43.53Z,equip-sw-lint,1.0.0,mhbae-semi-lab,"Command-line runner for EquipSwLint analyzers: analyzes C# sources without building, writes SARIF 2.1.0 and HTML, supports a baseline gate."
+2026-11-22T00:04:44.233Z,EquipSwLint.Analyzers,1.0.0,mhbae-semi-lab,"Roslyn analyzers for long-running equipment control software in C#: 32-bit tick wrap, timer reentrancy, serial/socket reads without timeout, non-atomic recipe writes, unbounded frame queues, Invoke under lock, start-before-ready races."
