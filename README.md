@@ -12,45 +12,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 13:20 UTC
+## Latest list — 2026-11-23 14:19 UTC
 
-New packages created between 2026-11-23 12:20 UTC and 2026-11-23 13:20 UTC.
+New packages created between 2026-11-23 13:20 UTC and 2026-11-23 14:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T13-20-48-398422Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T14-19-38-011487Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 12:21:49 | [NbtSharp](https://www.nuget.org/packages/NbtSharp) | 0.1.0 | ghostflyby | An NBT (Named Binary Tag) library with a System.Text.Json-style serialization l… |
-| 2026-11-23 12:21:57 | [LibBpg.Wrapper](https://www.nuget.org/packages/LibBpg.Wrapper) | 1.0.0 | Cudos AG | .NET wrapper for decoding BPG images via libbpg. |
-| 2026-11-23 12:21:58 | [LibBpg.Wrapper.Encoder](https://www.nuget.org/packages/LibBpg.Wrapper.Encoder) | 1.0.0 | Cudos AG | BPG encoding for LibBpg.Wrapper. Includes x265 and is distributed under GPLv2. |
-| 2026-11-23 12:28:03 | [ITBees.PlateRecognition](https://www.nuget.org/packages/ITBees.PlateRecognition) | 8.0.6 | ITBees | Local licence plate recognition from a camera snapshot, in process, on CPU: a Y… |
-| 2026-11-23 12:38:50 | [AppWeaver.Spec](https://www.nuget.org/packages/AppWeaver.Spec) | 1.0.0 | Bytestrone India Private Limi… | Shared AppWeaver architecture, domain, methodology, and technology guardrails. |
-| 2026-11-23 12:40:39 | [Altruist.CLI](https://www.nuget.org/packages/Altruist.CLI) | 0.10.1-beta | Aron Gere | CLI tool for the Altruist game server framework: create and run projects, and a… |
-| 2026-11-23 12:40:40 | [Altruist.Client](https://www.nuget.org/packages/Altruist.Client) | 0.10.1-beta | Client | Client framework for the Altruist wire protocol — TCP, UDP, WebSocket transport… |
-| 2026-11-23 12:40:41 | [Altruist.Client.Inventory](https://www.nuget.org/packages/Altruist.Client.Inventory) | 0.10.1-beta | Altruist.Client.Inventory | Client-side inventory mirror for the Altruist wire protocol. Receives ItemSnaps… |
-| 2026-11-23 12:40:43 | [Altruist.Gaming.Combat](https://www.nuget.org/packages/Altruist.Gaming.Combat) | 0.10.1-beta | Combat | Package Description |
-| 2026-11-23 12:40:44 | [Altruist.Gaming.Questing](https://www.nuget.org/packages/Altruist.Gaming.Questing) | 0.10.1-beta | Questing | Package Description |
-| 2026-11-23 12:40:45 | [Altruist.Protocol](https://www.nuget.org/packages/Altruist.Protocol) | 0.10.1-beta | Protocol | Altruist wire-protocol primitives — MessageEnvelope, PacketHeader, IPacketBase,… |
-| 2026-11-23 12:40:46 | [Altruist.Templates](https://www.nuget.org/packages/Altruist.Templates) | 0.10.1-beta | Aron Gere | Project templates for Altruist game server framework. Use: dotnet new altruist… |
-| 2026-11-23 12:40:47 | [Altruist.Testing](https://www.nuget.org/packages/Altruist.Testing) | 0.10.1-beta | Altruist.Testing | xUnit test framework override that resolves test classes marked [AltruistTest]… |
-| 2026-11-23 12:40:48 | [Altruist.Testing.E2E.Core](https://www.nuget.org/packages/Altruist.Testing.E2E.Core) | 0.10.1-beta | Altruist.Testing.E2E.Core | Game-engine-agnostic core of [AltruistE2ETest]. Defines the marker attribute, a… |
-| 2026-11-23 12:41:49 | [DeviceLib.Battery](https://www.nuget.org/packages/DeviceLib.Battery) | 1.0.0 | machi_pon | Library for reading the battery level of wireless devices. |
-| 2026-11-23 12:41:50 | [DeviceTool.Battery](https://www.nuget.org/packages/DeviceTool.Battery) | 1.0.0 | machi_pon | Battery tool for wireless devices. |
-| 2026-11-23 12:43:18 | [Umbraco.Community.CitationSystem](https://www.nuget.org/packages/Umbraco.Community.CitationSystem) | 1.0.0-beta | Game Info Sites | ... |
-| 2026-11-23 12:43:55 | [Marey.Analyzers](https://www.nuget.org/packages/Marey.Analyzers) | 1.0.0 | Marey contributors | F# analyzers for Marey's unit witnesses, for Ionide and the fsharp-analyzers CL… |
-| 2026-11-23 12:43:58 | [Marey.Witnesses](https://www.nuget.org/packages/Marey.Witnesses) | 1.0.0 | Marey contributors | Code fixes for Marey's unit witnesses, over the F# compiler service: a call mis… |
-| 2026-11-23 12:43:58 | [Marey](https://www.nuget.org/packages/Marey) | 1.0.0 | Marey contributors | Marey in one reference: units, the plotting grammar, measurement uncertainty, f… |
-| 2026-11-23 12:44:01 | [Marey.Uncertainty](https://www.nuget.org/packages/Marey.Uncertainty) | 1.0.0 | Marey contributors | Measurement uncertainty for Marey, as the GUM (JCGM 100) evaluates it: values t… |
-| 2026-11-23 12:54:18 | [sdfsgfgmhjkvnxafsdf343523](https://www.nuget.org/packages/sdfsgfgmhjkvnxafsdf343523) | 1.0.0 | infoli | Package Description |
-| 2026-11-23 13:00:07 | [LagomEndpoints](https://www.nuget.org/packages/LagomEndpoints) | 0.0.2 | Niklas Wendel | One class per ASP.NET Core endpoint, with constructor injection and a source ge… |
-| 2026-11-23 13:02:29 | [FlowSemantics](https://www.nuget.org/packages/FlowSemantics) | 0.1.0 | FlowSemantics | FlowSemantics .NET implementation — conformance target per SPEC 14.5 |
-| 2026-11-23 13:03:31 | [mrhamburg.SecretsManager.Doppler](https://www.nuget.org/packages/mrhamburg.SecretsManager.Doppler) | 0.0.3 | mrhamburg | Doppler secret provider for SecretsManager |
-| 2026-11-23 13:03:54 | [Talverse.RepNetwork.Contracts](https://www.nuget.org/packages/Talverse.RepNetwork.Contracts) | 0.1.0 | Talverse | Rep Network sync event contracts: envelope, event data and JSON Schemas. |
-| 2026-11-23 13:04:35 | [Kitpymes.Core.Mediator](https://www.nuget.org/packages/Kitpymes.Core.Mediator) | 1.0.0 | Kitpymes, Sebastian R Ferrari | Mediador Kitpymes: comandos y consultas separados, notificaciones y comportamie… |
-| 2026-11-23 13:04:36 | [Kitpymes.Core.Mediator.Abstractions](https://www.nuget.org/packages/Kitpymes.Core.Mediator.Abstractions) | 1.0.0 | Kitpymes, Sebastian R Ferrari | Contratos del mediador Kitpymes: comandos, consultas y notificaciones con resul… |
-| 2026-11-23 13:06:36 | [NuExt.Minimal.Mvvm.Desktop](https://www.nuget.org/packages/NuExt.Minimal.Mvvm.Desktop) | 0.9.5 | ivanvoyager | A platform-agnostic base layer for desktop MVVM applications, combining NuExt.M… |
-| 2026-11-23 13:07:17 | [HeyStar.Fleet](https://www.nuget.org/packages/HeyStar.Fleet) | 1.0.0 | OG Tech | Server side of the HeyStar / HF Security RA08 face recognition terminals for an… |
-| 2026-11-23 13:07:30 | [Umbraco.Commerce.Testing](https://www.nuget.org/packages/Umbraco.Commerce.Testing) | 18.2.0 | Umbraco | Test-only helpers for Umbraco Commerce: builds read-only models (stores, orders… |
+| 2026-11-23 13:21:07 | [ZekUI.Pro](https://www.nuget.org/packages/ZekUI.Pro) | 0.6.2-alpha | Ramazan Yeşildal | ZekUI Pro: gelişmiş grid, grafikler, dashboard kontrolleri ve gelişmiş girişler… |
+| 2026-11-23 13:21:44 | [Skyline.DataMiner.Dev.Utils.Solutions.SatOps.Common](https://www.nuget.org/packages/Skyline.DataMiner.Dev.Utils.Solutions.SatOps.Common) | 1.0.0 | SkylineCommunications | SatOps Common Dev Pack for DataMiner. Minimum DataMiner version: 10.6.1.1. Use… |
+| 2026-11-23 13:21:45 | [Skyline.DataMiner.Dev.Utils.Solutions.SatOps.GQI](https://www.nuget.org/packages/Skyline.DataMiner.Dev.Utils.Solutions.SatOps.GQI) | 1.0.0 | SkylineCommunications | SatOps GQI Dev Pack for DataMiner. Minimum DataMiner version: 10.6.1.1. Use thi… |
+| 2026-11-23 13:21:46 | [Skyline.DataMiner.Dev.Utils.Solutions.SatOps.Protocol](https://www.nuget.org/packages/Skyline.DataMiner.Dev.Utils.Solutions.SatOps.Protocol) | 1.0.0 | SkylineCommunications | SatOps Protocol Dev Pack for DataMiner. Minimum DataMiner version: 10.6.1.1. Us… |
+| 2026-11-23 13:21:47 | [Skyline.DataMiner.Dev.Utils.Solutions.SatOps.Automation](https://www.nuget.org/packages/Skyline.DataMiner.Dev.Utils.Solutions.SatOps.Automation) | 1.0.0 | SkylineCommunications | SatOps Automation Dev Pack for DataMiner. Minimum DataMiner version: 10.6.1.1.… |
+| 2026-11-23 13:26:54 | [Avalonia.Themes.Fluent2](https://www.nuget.org/packages/Avalonia.Themes.Fluent2) | 12.2.0 | Avalonia Team | Avalonia is a cross-platform UI framework for .NET providing a flexible styling… |
+| 2026-11-23 13:30:07 | [Vettvangur.Ai](https://www.nuget.org/packages/Vettvangur.Ai) | 3.0.0 | Vettvangur | Provider-neutral AI core: Anthropic, OpenAI, Azure OpenAI and Foundry providers… |
+| 2026-11-23 13:30:23 | [Ranvier.Numerics.Traced](https://www.nuget.org/packages/Ranvier.Numerics.Traced) | 0.2.1 | shayanhabibi | Numerics for the Ranvier reactive graph: special functions, root finding, minim… |
+| 2026-11-23 13:30:27 | [Ranvier.Quantities.Traced](https://www.nuget.org/packages/Ranvier.Quantities.Traced) | 0.2.1 | shayanhabibi | Units, quantities and models on the Ranvier reactive graph: an SI unit catalogu… |
+| 2026-11-23 13:30:30 | [Ranvier.Statistics.Traced](https://www.nuget.org/packages/Ranvier.Statistics.Traced) | 0.2.1 | shayanhabibi | Statistics for the Ranvier reactive graph: continuous and discrete distribution… |
+| 2026-11-23 13:37:13 | [ErCreator.Cli](https://www.nuget.org/packages/ErCreator.Cli) | 2.4.1 | Rintaro Sugishita | ErCreator のコマンドラインツール。Mermaid / AI スキーマ JSON / A5:SQL Mk-2 / Excel から ermlx への変… |
+| 2026-11-23 13:37:24 | [UpInBlue.Leonardo.Check](https://www.nuget.org/packages/UpInBlue.Leonardo.Check) | 0.1.1 | up in blue | leonardo-check, a .NET tool that finds literal design values and common accessi… |
+| 2026-11-23 13:37:26 | [UpInBlue.Leonardo.WinUI](https://www.nuget.org/packages/UpInBlue.Leonardo.WinUI) | 0.1.1 | up in blue | Leonardo, the design language of up in blue, for WinUI 3: token resources, the… |
+| 2026-11-23 13:37:27 | [UpInBlue.Leonardo.Wpf](https://www.nuget.org/packages/UpInBlue.Leonardo.Wpf) | 0.1.1 | up in blue | Leonardo, the design language of up in blue, for WPF on .NET 10: token resource… |
+| 2026-11-23 13:45:18 | [Ranvier.Terminal.Core.Traced](https://www.nuget.org/packages/Ranvier.Terminal.Core.Traced) | 0.1.3 | Shayan Habibi | Native terminal rendering, layout and reactive controls for F# applications. |
+| 2026-11-23 13:45:19 | [Ranvier.Terminal.Css.Traced](https://www.nuget.org/packages/Ranvier.Terminal.Css.Traced) | 0.1.3 | Shayan Habibi | Native terminal rendering, layout and reactive controls for F# applications. |
+| 2026-11-23 13:45:20 | [Ranvier.Terminal.View.Traced](https://www.nuget.org/packages/Ranvier.Terminal.View.Traced) | 0.1.3 | Shayan Habibi | Native terminal rendering, layout and reactive controls for F# applications. |
+| 2026-11-23 13:45:21 | [Ranvier.Terminal.Components.Traced](https://www.nuget.org/packages/Ranvier.Terminal.Components.Traced) | 0.1.3 | Shayan Habibi | Optional spinner, pulse and meter styles for Ranvier.Terminal. |
+| 2026-11-23 13:45:22 | [Ranvier.Terminal.Traced](https://www.nuget.org/packages/Ranvier.Terminal.Traced) | 0.1.3 | Shayan Habibi | Native terminal rendering, layout and reactive controls for F# applications. |
+| 2026-11-23 13:50:57 | [Laveyana.Maui.UI](https://www.nuget.org/packages/Laveyana.Maui.UI) | 0.26.11.1 | ivmu5 | Переиспользуемые Fluent API, темы, настройки, компоненты, адаптивные списки и а… |
+| 2026-11-23 13:50:59 | [Laveyana.Maui.UI.Windows](https://www.nuget.org/packages/Laveyana.Maui.UI.Windows) | 0.26.11.1 | ivmu5 | Необязательный WinUI-заголовок и управление полноэкранным режимом для Laveyana.… |
+| 2026-11-23 13:56:16 | [CrCore.Build.Maui](https://www.nuget.org/packages/CrCore.Build.Maui) | 1.0.2 | apptade | CrCore.Build.Maui is a MSBuild configuration package for Cr* .NET MAUI projects. |
+| 2026-11-23 13:57:52 | [Ark.Framework.Search.Lucene](https://www.nuget.org/packages/Ark.Framework.Search.Lucene) | 9.1.0 | antonkronosjo | Lucene.NET search provider for Ark.Framework.Search: an index on each instance'… |
+| 2026-11-23 13:57:53 | [Ark.Framework.Search.Abstractions](https://www.nuget.org/packages/Ark.Framework.Search.Abstractions) | 9.1.0 | antonkronosjo | Search attributes for the CMS framework: [Searchable] and SearchMode. Reference… |
+| 2026-11-23 13:57:53 | [Ark.Framework.Jobs](https://www.nuget.org/packages/Ark.Framework.Jobs) | 9.1.0 | antonkronosjo | Scheduled jobs for the CMS framework: the runner, run history and logs in the C… |
+| 2026-11-23 13:57:54 | [Ark.Framework.Settings](https://www.nuget.org/packages/Ark.Framework.Settings) | 9.1.0 | antonkronosjo | Settings types for the CMS framework: ISettings<T> for code, the CMS settings A… |
+| 2026-11-23 13:57:55 | [Ark.Framework.Infrastructure](https://www.nuget.org/packages/Ark.Framework.Infrastructure) | 9.1.0 | antonkronosjo | CMS framework runtime: AddArk registration, EF Core DbContext, content reposito… |
+| 2026-11-23 13:57:56 | [Ark.Framework.Search](https://www.nuget.org/packages/Ark.Framework.Search) | 9.1.0 | antonkronosjo | Search for the CMS framework: [Searchable] properties indexed on publish, ISear… |
+| 2026-11-23 13:57:57 | [Ark.Framework.Imaging](https://www.nuget.org/packages/Ark.Framework.Imaging) | 9.1.0 | antonkronosjo | Image processing (thumbnails) for the CMS framework, built on SkiaSharp. Option… |
+| 2026-11-23 13:57:58 | [Ark.Framework.Settings.Abstractions](https://www.nuget.org/packages/Ark.Framework.Settings.Abstractions) | 9.1.0 | antonkronosjo | Settings types for the CMS framework: SettingsData, [SettingsType], ISettings<T… |
+| 2026-11-23 13:57:59 | [Ark.Framework.Abstractions](https://www.nuget.org/packages/Ark.Framework.Abstractions) | 9.1.0 | antonkronosjo | Content model and repository abstractions for the CMS framework. Also ships the… |
+| 2026-11-23 13:58:00 | [Ark.Framework.Pages.Abstractions](https://www.nuget.org/packages/Ark.Framework.Pages.Abstractions) | 9.1.0 | antonkronosjo | Page content types for the CMS framework: PageContent, the page tree attributes… |
+| 2026-11-23 13:58:01 | [Ark.Framework.AspNetCore](https://www.nuget.org/packages/Ark.Framework.AspNetCore) | 9.1.0 | antonkronosjo | ASP.NET Core minimal API endpoints (MapArk) for the CMS framework. |
+| 2026-11-23 13:58:02 | [Ark.Framework.Pages](https://www.nuget.org/packages/Ark.Framework.Pages) | 9.1.0 | antonkronosjo | Pages for the CMS framework: the page tree, URLs per language, IPageService, an… |
+| 2026-11-23 13:58:03 | [Ark.Framework.AzureBlobStorage](https://www.nuget.org/packages/Ark.Framework.AzureBlobStorage) | 9.1.0 | antonkronosjo | Azure Blob Storage file store (UseAzureBlobStorage) for the CMS framework. |
+| 2026-11-23 13:58:03 | [Ark.Framework.Jobs.Abstractions](https://www.nuget.org/packages/Ark.Framework.Jobs.Abstractions) | 9.1.0 | antonkronosjo | Scheduled jobs for the CMS framework: ArkJob, JobSchedule and the run context a… |
+| 2026-11-23 13:58:04 | [Ark.Framework.EntraId](https://www.nuget.org/packages/Ark.Framework.EntraId) | 9.1.0 | antonkronosjo | Microsoft Entra ID user adapter (UseEntraIdUserAdapter) for the CMS framework:… |
+| 2026-11-23 13:58:05 | [Ark.Framework.Sqlite](https://www.nuget.org/packages/Ark.Framework.Sqlite) | 9.1.0 | antonkronosjo | SQLite provider shortcut (UseSqlite) for the CMS framework. |
+| 2026-11-23 13:59:29 | [OutWit.Shared.Intelligence.Providers](https://www.nuget.org/packages/OutWit.Shared.Intelligence.Providers) | 1.0.0 | Dmitry Ratner | Vendor-neutral contract for OutWit language-model providers: IIntelligenceProvi… |
+| 2026-11-23 14:01:04 | [Freenaute.Freebox.Mcp.win-x64](https://www.nuget.org/packages/Freenaute.Freebox.Mcp.win-x64) | 1.1.0 | Freenaute | Local stdio MCP server for read-only Freebox discovery, pairing coordination, a… |
+| 2026-11-23 14:01:06 | [Freenaute.Freebox.Mcp.linux-arm64](https://www.nuget.org/packages/Freenaute.Freebox.Mcp.linux-arm64) | 1.1.0 | Freenaute | Local stdio MCP server for read-only Freebox discovery, pairing coordination, a… |
+| 2026-11-23 14:01:11 | [Freenaute.Freebox.Mcp.linux-x64](https://www.nuget.org/packages/Freenaute.Freebox.Mcp.linux-x64) | 1.1.0 | Freenaute | Local stdio MCP server for read-only Freebox discovery, pairing coordination, a… |
+| 2026-11-23 14:01:11 | [Freenaute.Freebox.Mcp.win-arm64](https://www.nuget.org/packages/Freenaute.Freebox.Mcp.win-arm64) | 1.1.0 | Freenaute | Local stdio MCP server for read-only Freebox discovery, pairing coordination, a… |
+| 2026-11-23 14:02:10 | [OutWit.Shared.Intelligence.Provider.OpenAI](https://www.nuget.org/packages/OutWit.Shared.Intelligence.Provider.OpenAI) | 1.0.0 | Dmitry Ratner | OpenAI-compatible provider for OutWit hosts: any Chat Completions service, Open… |
+| 2026-11-23 14:02:21 | [OutWit.Shared.Intelligence.Provider.Anthropic](https://www.nuget.org/packages/OutWit.Shared.Intelligence.Provider.Anthropic) | 1.0.0 | Dmitry Ratner | Claude provider for OutWit hosts, through the official Anthropic SDK: structure… |
+| 2026-11-23 14:05:16 | [Alys.TailAdmin.Rcl](https://www.nuget.org/packages/Alys.TailAdmin.Rcl) | 1.4.0 | Alys | Alys.TailAdmin 通用后台模板：布局、Partial、前端组件与静态资源。 |
+| 2026-11-23 14:05:18 | [Alys.TailAdmin.Templates](https://www.nuget.org/packages/Alys.TailAdmin.Templates) | 1.4.0 | Alys | 一条命令生成 Alys.TailAdmin 通用后台骨架（官方 HTML 界面基线 + Tailwind 4 + Alpine 组件）。 |
+| 2026-11-23 14:08:51 | [InSQLite.Hangfire](https://www.nuget.org/packages/InSQLite.Hangfire) | 1.0.0 | 1257960069 | A production-ready Hangfire storage implementation backed by Microsoft.Data.Sql… |
+| 2026-11-23 14:11:02 | [AbpAdmin.TenantManagement](https://www.nuget.org/packages/AbpAdmin.TenantManagement) | 0.4.0 | ABP Admin contributors | ABP Admin tenants: create, rename, enable/disable and delete tenants, a runtime… |
 
 ## Data source
 
