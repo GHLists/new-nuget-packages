@@ -12,45 +12,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 11:22 UTC
+## Latest list — 2026-11-23 13:20 UTC
 
-New packages created between 2026-11-23 10:21 UTC and 2026-11-23 11:22 UTC.
+New packages created between 2026-11-23 12:20 UTC and 2026-11-23 13:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T11-22-06-013144Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T13-20-48-398422Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 10:22:22 | [AIKernel.Contracts.Images](https://www.nuget.org/packages/AIKernel.Contracts.Images) | 0.1.5 | Takuya Sogawa | Provider-neutral contracts for local image editing and visual tagging in AIKern… |
-| 2026-11-23 10:24:37 | [sailflow.pure](https://www.nuget.org/packages/sailflow.pure) | 0.2.1 | sailflow.pure | sailflow pure layer aggregator: basis, baseHub, AI, engine, assignee, runtime.… |
-| 2026-11-23 10:24:42 | [sailflow.ext](https://www.nuget.org/packages/sailflow.ext) | 0.2.1 | sailflow.ext | sailflow ext layer aggregator: action, msg, bizRule, form, resource, localize,… |
-| 2026-11-23 10:24:48 | [sailflow.biz](https://www.nuget.org/packages/sailflow.biz) | 0.2.1 | sailflow.biz.pack | sailflow biz layer aggregator: host composition root, AI, docs, query. Depends… |
-| 2026-11-23 10:25:14 | [AIKernel.Providers.Image](https://www.nuget.org/packages/AIKernel.Providers.Image) | 0.1.4 | Takuya Sogawa | Local CPU illustration, background removal, and Cosmos 3 Edge visual tagging fo… |
-| 2026-11-23 10:41:12 | [PrettyGood.Uml](https://www.nuget.org/packages/PrettyGood.Uml) | 0.3.0 | prettygood | UML sequence diagrams of what a change does to the endpoints of a C# solution. |
-| 2026-11-23 10:47:34 | [Palito](https://www.nuget.org/packages/Palito) | 0.7.0 | Natan Loterio | C# binding for Palito, fast local LLM inference for GGUF models |
-| 2026-11-23 10:47:38 | [NkkinSoft.StoreReview](https://www.nuget.org/packages/NkkinSoft.StoreReview) | 2.0.0 | NkkinSoft | A modern, AOT/trim-compatible library to open store listings and request in-app… |
-| 2026-11-23 10:51:59 | [GdNetEnx.OpenIddict.RavenDB.Models](https://www.nuget.org/packages/GdNetEnx.OpenIddict.RavenDB.Models) | 1.4.0 | Jean-François Pustay | Package Description |
-| 2026-11-23 10:52:30 | [GdNetEnx.OpenIddict.RavenDB](https://www.nuget.org/packages/GdNetEnx.OpenIddict.RavenDB) | 1.4.0 | Jean-François Pustay | Package Description |
-| 2026-11-23 11:01:59 | [DroidSpeak.Core](https://www.nuget.org/packages/DroidSpeak.Core) | 0.3.0 | HC-NC | Zero-dependency, NativeAOT-compatible C# library for procedural synthesis of ex… |
-| 2026-11-23 11:06:14 | [SelectPdf.Universal.Tools.win-x64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.win-x64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the win-x… |
-| 2026-11-23 11:06:23 | [SelectPdf.Universal.Tools.win-x86](https://www.nuget.org/packages/SelectPdf.Universal.Tools.win-x86) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the win-x… |
-| 2026-11-23 11:06:30 | [SelectPdf.Universal.Tools.linux-x64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.linux-x64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the linux… |
-| 2026-11-23 11:06:37 | [SelectPdf.Universal.Tools.linux-arm64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.linux-arm64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the linux… |
-| 2026-11-23 11:06:46 | [Ark.Watch.Ai](https://www.nuget.org/packages/Ark.Watch.Ai) | 0.1.0 | Immanuel R | ARK-RAPID Watch AI layer: statistics computed in code, the skill runtime (skill… |
-| 2026-11-23 11:06:47 | [Ark.Watch.Client](https://www.nuget.org/packages/Ark.Watch.Client) | 0.1.0 | Immanuel R | ARK-RAPID Watch .NET client: fire-and-forget audit logging that never blocks or… |
-| 2026-11-23 11:06:48 | [SelectPdf.Universal.Tools.osx-arm64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.osx-arm64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the osx-a… |
-| 2026-11-23 11:06:49 | [Ark.Watch.Client.AspNetCore](https://www.nuget.org/packages/Ark.Watch.Client.AspNetCore) | 0.1.0 | Immanuel R | ARK-RAPID Watch for ASP.NET Core. One call registers the audit client from conf… |
-| 2026-11-23 11:06:50 | [Ark.Watch.Core](https://www.nuget.org/packages/Ark.Watch.Core) | 0.1.0 | Immanuel R | ARK-RAPID Watch event model, ULIDs, canonical serialisation, hashing and PII po… |
-| 2026-11-23 11:06:52 | [Ark.Watch.Integrity](https://www.nuget.org/packages/Ark.Watch.Integrity) | 0.1.0 | Immanuel R | ARK-RAPID Watch tamper evidence: Ed25519-signed chain anchors and the hash-chai… |
-| 2026-11-23 11:06:53 | [Ark.Watch.Query](https://www.nuget.org/packages/Ark.Watch.Query) | 0.1.0 | Immanuel R | ARK-RAPID Watch query DSL: the typed, validated query document the UI, the API… |
-| 2026-11-23 11:06:54 | [Ark.Watch.Settings](https://www.nuget.org/packages/Ark.Watch.Settings) | 0.1.0 | Immanuel R | ARK-RAPID Watch settings store, encrypted secret vault, setup token, admin and… |
-| 2026-11-23 11:06:56 | [Ark.Watch.Storage.Abstractions](https://www.nuget.org/packages/Ark.Watch.Storage.Abstractions) | 0.1.0 | Immanuel R | ARK-RAPID Watch sink contracts: IAuditSink, IAuditQueryStore, IAuditChainSource… |
-| 2026-11-23 11:06:58 | [Ark.Watch.Storage.AzureBlob](https://www.nuget.org/packages/Ark.Watch.Storage.AzureBlob) | 0.1.0 | Immanuel R | ARK-RAPID Watch on Azure Blob Storage: the archive sink (NDJSON.gz, determinist… |
-| 2026-11-23 11:06:59 | [Ark.Watch.Storage.ContractTests](https://www.nuget.org/packages/Ark.Watch.Storage.ContractTests) | 0.1.0 | Immanuel R | The shared sink contract suite. A provider is done when its test class, derived… |
-| 2026-11-23 11:07:01 | [Ark.Watch.Storage.S3](https://www.nuget.org/packages/Ark.Watch.Storage.S3) | 0.1.0 | Immanuel R | ARK-RAPID Watch on Amazon S3 and S3-compatible stores: the archive sink (create… |
-| 2026-11-23 11:07:02 | [Ark.Watch.Storage.Sqlite](https://www.nuget.org/packages/Ark.Watch.Storage.Sqlite) | 0.1.0 | Immanuel R | ARK-RAPID Watch SQLite sink: day shards, INSERT OR IGNORE on event_id, investig… |
-| 2026-11-23 11:07:04 | [Ark.Watch.Wal](https://www.nuget.org/packages/Ark.Watch.Wal) | 0.1.0 | Immanuel R | ARK-RAPID Watch write-ahead log: segments, group-commit fsync, recovery, cursor… |
-| 2026-11-23 11:07:05 | [Ark.Watch.Server](https://www.nuget.org/packages/Ark.Watch.Server) | 0.1.0 | Immanuel R | ARK-RAPID Watch server as a library for any ASP.NET Core app: ingestion (HTTP +… |
-| 2026-11-23 11:14:12 | [AIKernel.Providers.Flux](https://www.nuget.org/packages/AIKernel.Providers.Flux) | 0.1.5 | Takuya Sogawa | FLUX.2 klein 4B prompt image editing through a native CPU ABI and AIKernel-back… |
+| 2026-11-23 12:21:49 | [NbtSharp](https://www.nuget.org/packages/NbtSharp) | 0.1.0 | ghostflyby | An NBT (Named Binary Tag) library with a System.Text.Json-style serialization l… |
+| 2026-11-23 12:21:57 | [LibBpg.Wrapper](https://www.nuget.org/packages/LibBpg.Wrapper) | 1.0.0 | Cudos AG | .NET wrapper for decoding BPG images via libbpg. |
+| 2026-11-23 12:21:58 | [LibBpg.Wrapper.Encoder](https://www.nuget.org/packages/LibBpg.Wrapper.Encoder) | 1.0.0 | Cudos AG | BPG encoding for LibBpg.Wrapper. Includes x265 and is distributed under GPLv2. |
+| 2026-11-23 12:28:03 | [ITBees.PlateRecognition](https://www.nuget.org/packages/ITBees.PlateRecognition) | 8.0.6 | ITBees | Local licence plate recognition from a camera snapshot, in process, on CPU: a Y… |
+| 2026-11-23 12:38:50 | [AppWeaver.Spec](https://www.nuget.org/packages/AppWeaver.Spec) | 1.0.0 | Bytestrone India Private Limi… | Shared AppWeaver architecture, domain, methodology, and technology guardrails. |
+| 2026-11-23 12:40:39 | [Altruist.CLI](https://www.nuget.org/packages/Altruist.CLI) | 0.10.1-beta | Aron Gere | CLI tool for the Altruist game server framework: create and run projects, and a… |
+| 2026-11-23 12:40:40 | [Altruist.Client](https://www.nuget.org/packages/Altruist.Client) | 0.10.1-beta | Client | Client framework for the Altruist wire protocol — TCP, UDP, WebSocket transport… |
+| 2026-11-23 12:40:41 | [Altruist.Client.Inventory](https://www.nuget.org/packages/Altruist.Client.Inventory) | 0.10.1-beta | Altruist.Client.Inventory | Client-side inventory mirror for the Altruist wire protocol. Receives ItemSnaps… |
+| 2026-11-23 12:40:43 | [Altruist.Gaming.Combat](https://www.nuget.org/packages/Altruist.Gaming.Combat) | 0.10.1-beta | Combat | Package Description |
+| 2026-11-23 12:40:44 | [Altruist.Gaming.Questing](https://www.nuget.org/packages/Altruist.Gaming.Questing) | 0.10.1-beta | Questing | Package Description |
+| 2026-11-23 12:40:45 | [Altruist.Protocol](https://www.nuget.org/packages/Altruist.Protocol) | 0.10.1-beta | Protocol | Altruist wire-protocol primitives — MessageEnvelope, PacketHeader, IPacketBase,… |
+| 2026-11-23 12:40:46 | [Altruist.Templates](https://www.nuget.org/packages/Altruist.Templates) | 0.10.1-beta | Aron Gere | Project templates for Altruist game server framework. Use: dotnet new altruist… |
+| 2026-11-23 12:40:47 | [Altruist.Testing](https://www.nuget.org/packages/Altruist.Testing) | 0.10.1-beta | Altruist.Testing | xUnit test framework override that resolves test classes marked [AltruistTest]… |
+| 2026-11-23 12:40:48 | [Altruist.Testing.E2E.Core](https://www.nuget.org/packages/Altruist.Testing.E2E.Core) | 0.10.1-beta | Altruist.Testing.E2E.Core | Game-engine-agnostic core of [AltruistE2ETest]. Defines the marker attribute, a… |
+| 2026-11-23 12:41:49 | [DeviceLib.Battery](https://www.nuget.org/packages/DeviceLib.Battery) | 1.0.0 | machi_pon | Library for reading the battery level of wireless devices. |
+| 2026-11-23 12:41:50 | [DeviceTool.Battery](https://www.nuget.org/packages/DeviceTool.Battery) | 1.0.0 | machi_pon | Battery tool for wireless devices. |
+| 2026-11-23 12:43:18 | [Umbraco.Community.CitationSystem](https://www.nuget.org/packages/Umbraco.Community.CitationSystem) | 1.0.0-beta | Game Info Sites | ... |
+| 2026-11-23 12:43:55 | [Marey.Analyzers](https://www.nuget.org/packages/Marey.Analyzers) | 1.0.0 | Marey contributors | F# analyzers for Marey's unit witnesses, for Ionide and the fsharp-analyzers CL… |
+| 2026-11-23 12:43:58 | [Marey.Witnesses](https://www.nuget.org/packages/Marey.Witnesses) | 1.0.0 | Marey contributors | Code fixes for Marey's unit witnesses, over the F# compiler service: a call mis… |
+| 2026-11-23 12:43:58 | [Marey](https://www.nuget.org/packages/Marey) | 1.0.0 | Marey contributors | Marey in one reference: units, the plotting grammar, measurement uncertainty, f… |
+| 2026-11-23 12:44:01 | [Marey.Uncertainty](https://www.nuget.org/packages/Marey.Uncertainty) | 1.0.0 | Marey contributors | Measurement uncertainty for Marey, as the GUM (JCGM 100) evaluates it: values t… |
+| 2026-11-23 12:54:18 | [sdfsgfgmhjkvnxafsdf343523](https://www.nuget.org/packages/sdfsgfgmhjkvnxafsdf343523) | 1.0.0 | infoli | Package Description |
+| 2026-11-23 13:00:07 | [LagomEndpoints](https://www.nuget.org/packages/LagomEndpoints) | 0.0.2 | Niklas Wendel | One class per ASP.NET Core endpoint, with constructor injection and a source ge… |
+| 2026-11-23 13:02:29 | [FlowSemantics](https://www.nuget.org/packages/FlowSemantics) | 0.1.0 | FlowSemantics | FlowSemantics .NET implementation — conformance target per SPEC 14.5 |
+| 2026-11-23 13:03:31 | [mrhamburg.SecretsManager.Doppler](https://www.nuget.org/packages/mrhamburg.SecretsManager.Doppler) | 0.0.3 | mrhamburg | Doppler secret provider for SecretsManager |
+| 2026-11-23 13:03:54 | [Talverse.RepNetwork.Contracts](https://www.nuget.org/packages/Talverse.RepNetwork.Contracts) | 0.1.0 | Talverse | Rep Network sync event contracts: envelope, event data and JSON Schemas. |
+| 2026-11-23 13:04:35 | [Kitpymes.Core.Mediator](https://www.nuget.org/packages/Kitpymes.Core.Mediator) | 1.0.0 | Kitpymes, Sebastian R Ferrari | Mediador Kitpymes: comandos y consultas separados, notificaciones y comportamie… |
+| 2026-11-23 13:04:36 | [Kitpymes.Core.Mediator.Abstractions](https://www.nuget.org/packages/Kitpymes.Core.Mediator.Abstractions) | 1.0.0 | Kitpymes, Sebastian R Ferrari | Contratos del mediador Kitpymes: comandos, consultas y notificaciones con resul… |
+| 2026-11-23 13:06:36 | [NuExt.Minimal.Mvvm.Desktop](https://www.nuget.org/packages/NuExt.Minimal.Mvvm.Desktop) | 0.9.5 | ivanvoyager | A platform-agnostic base layer for desktop MVVM applications, combining NuExt.M… |
+| 2026-11-23 13:07:17 | [HeyStar.Fleet](https://www.nuget.org/packages/HeyStar.Fleet) | 1.0.0 | OG Tech | Server side of the HeyStar / HF Security RA08 face recognition terminals for an… |
+| 2026-11-23 13:07:30 | [Umbraco.Commerce.Testing](https://www.nuget.org/packages/Umbraco.Commerce.Testing) | 18.2.0 | Umbraco | Test-only helpers for Umbraco Commerce: builds read-only models (stores, orders… |
 
 ## Data source
 
