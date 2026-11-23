@@ -12,23 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:20 UTC
+## Latest list — 2026-11-23 01:20 UTC
 
-New packages created between 2026-11-22 23:20 UTC and 2026-11-23 00:20 UTC.
+New packages created between 2026-11-23 00:20 UTC and 2026-11-23 01:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T00-20-32-627275Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T01-20-39-530978Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-22 23:34:00 | [SuperStrong.Types.HotChocolate.V16](https://www.nuget.org/packages/SuperStrong.Types.HotChocolate.V16) | 1.0.1 | Ihor Kuzmychov (iikuzmychov) | Strong types for .NET — define once, use everywhere! |
-| 2026-11-22 23:34:03 | [SuperStrong.Types.NewtonsoftJson.V13](https://www.nuget.org/packages/SuperStrong.Types.NewtonsoftJson.V13) | 1.0.1 | Ihor Kuzmychov (iikuzmychov) | Strong types for .NET — define once, use everywhere! |
-| 2026-11-22 23:34:05 | [SuperStrong.Types.EntityFrameworkCore.V10](https://www.nuget.org/packages/SuperStrong.Types.EntityFrameworkCore.V10) | 1.0.1 | Ihor Kuzmychov (iikuzmychov) | Strong types for .NET — define once, use everywhere! |
-| 2026-11-22 23:34:06 | [SuperStrong.Types.AspNetCore.OpenApi.V10](https://www.nuget.org/packages/SuperStrong.Types.AspNetCore.OpenApi.V10) | 1.0.1 | Ihor Kuzmychov (iikuzmychov) | Strong types for .NET — define once, use everywhere! |
-| 2026-11-22 23:35:44 | [Rogski.LicenseGate](https://www.nuget.org/packages/Rogski.LicenseGate) | 0.1.0 | License Gate contributors | Check direct and transitive NuGet dependency licenses against a repository poli… |
-| 2026-11-23 00:08:00 | [Validonce.AspNetCore](https://www.nuget.org/packages/Validonce.AspNetCore) | 0.0.1-placeholder | Metatoy LLC | Placeholder for validonce: write validation rules once on the server, enforce t… |
-| 2026-11-23 00:08:01 | [Validonce](https://www.nuget.org/packages/Validonce) | 0.0.1-placeholder | Metatoy LLC | Placeholder for validonce: write validation rules once on the server, enforce t… |
-| 2026-11-23 00:08:01 | [Validonce.Cli](https://www.nuget.org/packages/Validonce.Cli) | 0.0.1-placeholder | Metatoy LLC | Placeholder for validonce: write validation rules once on the server, enforce t… |
-| 2026-11-23 00:08:02 | [Validonce.FluentValidation](https://www.nuget.org/packages/Validonce.FluentValidation) | 0.0.1-placeholder | Metatoy LLC | Placeholder for validonce: write validation rules once on the server, enforce t… |
+| 2026-11-23 00:36:35 | [MiniExcel.Core](https://www.nuget.org/packages/MiniExcel.Core) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
+| 2026-11-23 00:38:59 | [MiniExcel.OpenXml](https://www.nuget.org/packages/MiniExcel.OpenXml) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
+| 2026-11-23 00:39:42 | [SpawnDev.Blazor.BootRecovery](https://www.nuget.org/packages/SpawnDev.Blazor.BootRecovery) | 1.0.0 | LostBeard | Temporary fix for dotnet/runtime#135090: a Blazor WebAssembly app whose browser… |
+| 2026-11-23 00:39:58 | [MiniExcel.Csv](https://www.nuget.org/packages/MiniExcel.Csv) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
+| 2026-11-23 00:40:23 | [Lierne.Core](https://www.nuget.org/packages/Lierne.Core) | 0.1.0 | FrigaT | Plugin catalog, contribution registries and composition validation of the Liern… |
+| 2026-11-23 00:40:24 | [Lierne.Abstractions](https://www.nuget.org/packages/Lierne.Abstractions) | 0.1.0 | FrigaT | Contracts, identifiers and contribution descriptors of the Lierne IDE compositi… |
+| 2026-11-23 00:40:25 | [Lierne](https://www.nuget.org/packages/Lierne) | 0.1.0 | FrigaT | Flare IDE host for Lierne - shell layout, documents, tool windows, ribbon and s… |
+| 2026-11-23 00:41:19 | [MiniExcel.OpenXml.FluentMapping](https://www.nuget.org/packages/MiniExcel.OpenXml.FluentMapping) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-23T00:36:35.17Z,MiniExcel.Core,2.0.0,"Wei Lin, Michele Bastione, PING-HSIU SHIH, Amos(izanhzh), eynarhaji, Mini-Software team","Lightweight, fast and simple .NET processing tool for importing, exporting and templating spreadsheets."
+2026-11-23T00:38:59.357Z,MiniExcel.OpenXml,2.0.0,"Wei Lin, Michele Bastione, PING-HSIU SHIH, Amos(izanhzh), eynarhaji, Mini-Software team","Lightweight, fast and simple .NET processing tool for importing, exporting and templating spreadsheets."
+2026-11-23T00:39:42.17Z,SpawnDev.Blazor.BootRecovery,1.0.0,LostBeard,"Temporary fix for dotnet/runtime#135090: a Blazor WebAssembly app whose browser cached an error (503, 404, empty response) for a fingerprinted boot resource never boots again, even after a hard reload. Reference this package and a failed force-cache boot fetch is retried once with cache: ""reload"" (…"
+2026-11-23T00:39:58.54Z,MiniExcel.Csv,2.0.0,"Wei Lin, Michele Bastione, PING-HSIU SHIH, Amos(izanhzh), eynarhaji, Mini-Software team","Lightweight, fast and simple .NET processing tool for importing, exporting and templating spreadsheets."
+2026-11-23T00:40:23.76Z,Lierne.Core,0.1.0,FrigaT,"Plugin catalog, contribution registries and composition validation of the Lierne IDE composition framework."
+2026-11-23T00:40:24.5Z,Lierne.Abstractions,0.1.0,FrigaT,"Contracts, identifiers and contribution descriptors of the Lierne IDE composition framework."
+2026-11-23T00:40:25.19Z,Lierne,0.1.0,FrigaT,"Flare IDE host for Lierne - shell layout, documents, tool windows, ribbon and settings surfaces."
+2026-11-23T00:41:19.79Z,MiniExcel.OpenXml.FluentMapping,2.0.0,"Wei Lin, Michele Bastione, PING-HSIU SHIH, Amos(izanhzh), eynarhaji, Mini-Software team","Lightweight, fast and simple .NET processing tool for importing, exporting and templating spreadsheets."
