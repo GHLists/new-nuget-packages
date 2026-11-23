@@ -12,28 +12,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:18 UTC
+## Latest list — 2026-11-23 17:18 UTC
 
-New packages created between 2026-11-23 15:22 UTC and 2026-11-23 16:18 UTC.
+New packages created between 2026-11-23 16:18 UTC and 2026-11-23 17:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T16-18-56-938683Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T17-18-44-39882Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 15:26:07 | [StudioElf.SiteAgent.Contracts](https://www.nuget.org/packages/StudioElf.SiteAgent.Contracts) | 1.1.0 | StudioElf | Contract SDK for StudioElf SiteAgent module-data providers. Implement ISiteAgen… |
-| 2026-11-23 15:37:53 | [Paradise.Encore](https://www.nuget.org/packages/Paradise.Encore) | 0.1.2 | ParadiseEngine | A dependency-free .NET audio engine for games: a 48 kHz stereo mixer for a tabl… |
-| 2026-11-23 15:37:56 | [Paradise.Encore.Sdl](https://www.nuget.org/packages/Paradise.Encore.Sdl) | 0.1.2 | ParadiseEngine | SDL3 device output for Paradise.Encore: plays the mixer through the default pla… |
-| 2026-11-23 15:39:04 | [AIKernel.Providers.Flux.Cuda](https://www.nuget.org/packages/AIKernel.Providers.Flux.Cuda) | 0.1.5 | Takuya Sogawa | Windows x64 FLUX.2 klein 4B prompt image editing on NVIDIA CUDA with AIKernel-b… |
-| 2026-11-23 15:54:36 | [Esatto.Umbraco.Backoffice.Build](https://www.nuget.org/packages/Esatto.Umbraco.Backoffice.Build) | 1.0.0 | Carl Schéle | Build for Umbraco: a Content-section dashboard that shows which build is deploy… |
-| 2026-11-23 15:57:35 | [ChunkShift.Patching](https://www.nuget.org/packages/ChunkShift.Patching) | 0.1.1 | MrFr3di | Verified binary patches over ChunkShift manifests: reuse planning, CSP patch cr… |
-| 2026-11-23 15:57:59 | [Ambysto.Kit.License](https://www.nuget.org/packages/Ambysto.Kit.License) | 0.1.2 | Ambysto | Offline verification of Ambysto license keys (format 1): AMB- key texts and .am… |
-| 2026-11-23 15:59:02 | [Ambysto.Kit.Safety](https://www.nuget.org/packages/Ambysto.Kit.Safety) | 0.2.0 | Ambysto | The file-safety gate for Ambysto apps on Windows: decides whether an item may b… |
-| 2026-11-23 16:08:30 | [VisionFlow.Core](https://www.nuget.org/packages/VisionFlow.Core) | 1.0.0 | VisualStudio | VisionFlow 核心模型、DAG 调度与运行引擎接口。 |
-| 2026-11-23 16:08:37 | [VisionFlow.Data](https://www.nuget.org/packages/VisionFlow.Data) | 1.0.0 | VisualStudio | VisionFlow 数据层：日志、运行历史与本地存储。 |
-| 2026-11-23 16:08:40 | [VisionFlow.Algorithms](https://www.nuget.org/packages/VisionFlow.Algorithms) | 1.0.0 | VisualStudio | VisionFlow 算法节点集合：匹配、检测、测量、标定、脚本与深度学习。 |
-| 2026-11-23 16:08:43 | [VisionFlow.Engine](https://www.nuget.org/packages/VisionFlow.Engine) | 1.0.0 | VisualStudio | VisionFlow 工作流运行引擎：检查点、断点续跑与节点执行。 |
-| 2026-11-23 16:08:45 | [VisionFlow.Sdk](https://www.nuget.org/packages/VisionFlow.Sdk) | 1.0.0 | VisualStudio | VisionFlow 视觉工作流 SDK：加载工作流 JSON、运行整条流程或单个节点，并以 VisionResultData 形式返回单个或多个结构化视觉结… |
-| 2026-11-23 16:10:13 | [Metano.Build.TypeScript](https://www.nuget.org/packages/Metano.Build.TypeScript) | 3.0.0 | Daniel Ferreira Monteiro Alves | MSBuild integration for the Metano TypeScript target — automatically transpiles… |
+| 2026-11-23 16:20:30 | [Hywe.Core](https://www.nuget.org/packages/Hywe.Core) | 2026.11.23 | Vikram Subbaiah | Deterministic spatial topology and integer lattice packing engine for the Hygri… |
+| 2026-11-23 16:21:45 | [DCoding.Xml.Providers.File](https://www.nuget.org/packages/DCoding.Xml.Providers.File) | 1.1.0 | d-coding | Explicit local directory registration for DCoding.Xml file resources. |
+| 2026-11-23 16:22:49 | [LinnasLab5NuGet.Student2026](https://www.nuget.org/packages/LinnasLab5NuGet.Student2026) | 1.0.0 | LinnasAlexandra | Package Description |
+| 2026-11-23 16:30:24 | [JSdotNet.AppDefaults.Mcp](https://www.nuget.org/packages/JSdotNet.AppDefaults.Mcp) | 1.0.13 | Eduard Keilholz | Model Context Protocol (MCP) server serving the JSdotNet application defaults:… |
+| 2026-11-23 16:30:26 | [JSdotNet.AppDefaults.Hosting](https://www.nuget.org/packages/JSdotNet.AppDefaults.Hosting) | 1.0.13 | JSdotNet | Aspire 17 hosting integration with the resource definitions the JSdotNet applic… |
+| 2026-11-23 16:36:03 | [FormuLang.NET.Abstractions](https://www.nuget.org/packages/FormuLang.NET.Abstractions) | 1.0.0 | Adrian Piznal | Interfaces of FormuLang.NET, the .NET implementation of the FormuLang formula l… |
+| 2026-11-23 16:37:27 | [FormuLang.NET.Core](https://www.nuget.org/packages/FormuLang.NET.Core) | 1.0.0 | Adrian Piznal | FormuLang.NET: .NET implementation of the FormuLang formula language (Core stan… |
+| 2026-11-23 16:37:42 | [FormuLang.NET.Extensions.Stock](https://www.nuget.org/packages/FormuLang.NET.Extensions.Stock) | 1.0.0 | Adrian Piznal | Stock standard (stock-1.0) of FormuLang.NET: candles, technical indicators, can… |
+| 2026-11-23 16:44:06 | [ElRoso.Commons.Core](https://www.nuget.org/packages/ElRoso.Commons.Core) | 1.0.0 | Di Rosolini Ezequiel | Núcleo de ElRoso.Commons: excepciones tipadas, DTOs y respuestas, hashing de co… |
+| 2026-11-23 16:44:07 | [ElRoso.Commons.SharePoint](https://www.nuget.org/packages/ElRoso.Commons.SharePoint) | 1.0.0 | Di Rosolini Ezequiel | Archivos en SharePoint Online por Microsoft Graph. |
+| 2026-11-23 16:44:07 | [ElRoso.Commons.AspNetCore](https://www.nuget.org/packages/ElRoso.Commons.AspNetCore) | 1.0.0 | Di Rosolini Ezequiel | Web API sobre ASP.NET Core: middlewares de excepciones (RFC 7807) y usuario act… |
+| 2026-11-23 16:44:08 | [ElRoso.Commons.AzureBlob](https://www.nuget.org/packages/ElRoso.Commons.AzureBlob) | 1.0.1 | Di Rosolini Ezequiel | Almacenamiento de archivos en Azure Blob Storage. |
+| 2026-11-23 16:44:09 | [ElRoso.Commons.Swagger](https://www.nuget.org/packages/ElRoso.Commons.Swagger) | 1.0.0 | Di Rosolini Ezequiel | Swagger / OpenAPI con Swashbuckle, una documentación por versión de API. |
+| 2026-11-23 16:44:10 | [ElRoso.Commons.EntityFrameworkCore](https://www.nuget.org/packages/ElRoso.Commons.EntityFrameworkCore) | 1.0.0 | Di Rosolini Ezequiel | Repositorio base con Entity Framework Core, sin proveedor de base de datos: cac… |
+| 2026-11-23 16:44:11 | [ElRoso.Commons.WindowsServices](https://www.nuget.org/packages/ElRoso.Commons.WindowsServices) | 1.0.1 | Di Rosolini Ezequiel | Hosting como Windows Service. |
+| 2026-11-23 16:44:12 | [ElRoso.Commons.Serilog](https://www.nuget.org/packages/ElRoso.Commons.Serilog) | 1.0.1 | Di Rosolini Ezequiel | Logging con Serilog: consola, archivo, Seq y Graylog, con el log de Hosting.Dia… |
+| 2026-11-23 16:44:13 | [ElRoso.Commons.MongoDB](https://www.nuget.org/packages/ElRoso.Commons.MongoDB) | 1.0.0 | Di Rosolini Ezequiel | Repositorio base para MongoDB con auditoría, paginación y escrituras en lote. |
+| 2026-11-23 16:44:13 | [ElRoso.Commons.Graph](https://www.nuget.org/packages/ElRoso.Commons.Graph) | 1.0.0 | Di Rosolini Ezequiel | Envío de mails por Microsoft Graph o SMTP. |
+| 2026-11-23 16:44:14 | [ElRoso.Commons](https://www.nuget.org/packages/ElRoso.Commons) | 2027.0.1 | Di Rosolini Ezequiel | Metapaquete de ElRoso.Commons: referencia todos los paquetes por área y trae El… |
+| 2026-11-23 16:44:15 | [ElRoso.Commons.S3](https://www.nuget.org/packages/ElRoso.Commons.S3) | 1.0.0 | Di Rosolini Ezequiel | Almacenamiento de archivos en S3 o endpoints S3-compatibles. |
+| 2026-11-23 16:44:16 | [ElRoso.Commons.Telegram](https://www.nuget.org/packages/ElRoso.Commons.Telegram) | 1.0.1 | Di Rosolini Ezequiel | Bots de Telegram: envío con reintentos y circuit breaker, long polling y notifi… |
+| 2026-11-23 16:44:16 | [ElRoso.Commons.AzureAD](https://www.nuget.org/packages/ElRoso.Commons.AzureAD) | 1.0.1 | Di Rosolini Ezequiel | Autenticación con Azure AD (Microsoft.Identity.Web). |
+| 2026-11-23 16:47:02 | [EncDotNet.S100.DynamicSources.Ndbc](https://www.nuget.org/packages/EncDotNet.S100.DynamicSources.Ndbc) | 0.30.2 | Phillip Hoff | NOAA National Data Buoy Center (NDBC) observations as a dynamic feature source:… |
+| 2026-11-23 16:47:07 | [EncDotNet.S100.DynamicSources.Nmea](https://www.nuget.org/packages/EncDotNet.S100.DynamicSources.Nmea) | 0.30.2 | Phillip Hoff | Own-ship wind, water and air temperature and pressure from an NMEA 0183 stream… |
+| 2026-11-23 16:47:14 | [EncDotNet.S100.DynamicSources.Ais](https://www.nuget.org/packages/EncDotNet.S100.DynamicSources.Ais) | 0.30.2 | Phillip Hoff | AIS vessel targets as a dynamic feature source: AisDynamicFeatureSource keeps a… |
+| 2026-11-23 16:47:15 | [EncDotNet.S100.Nmea](https://www.nuget.org/packages/EncDotNet.S100.Nmea) | 0.30.2 | Phillip Hoff | A minimal NMEA 0183 sentence reader: checksum validation, talker-agnostic decod… |
+| 2026-11-23 16:47:18 | [EncDotNet.S100.DynamicSources.Ais.Drivers.AisStreamIo](https://www.nuget.org/packages/EncDotNet.S100.DynamicSources.Ais.Drivers.AisStreamIo) | 0.30.2 | Phillip Hoff | An IAisMessageSource driver for the aisstream.io WebSocket AIS service, for Enc… |
+| 2026-11-23 16:58:49 | [Arc56.Generated.BGope025.inventoryManagementSystem](https://www.nuget.org/packages/Arc56.Generated.BGope025.inventoryManagementSystem) | 1.0.1.2026112316 | BGope025 | Generated ARC-56 Algorand smart-contract clients for BGope025/inventoryManageme… |
 
 ## Data source
 
