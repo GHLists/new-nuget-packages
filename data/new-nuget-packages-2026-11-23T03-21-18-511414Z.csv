@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-23T02:27:58.263Z,Gt.IoTelemetry.CNC.Model,1.0.0,Gt.IoTelemetry.CNC.Model,Package Description
+2026-11-23T02:30:59.743Z,Kun.Audit.Abstractions,2026.11.21,Kun Framework Contributors,审计记录、链校验与错误契约。
+2026-11-23T02:31:01.247Z,Kun.Audit.Postgres,2026.11.21,Kun Framework Contributors,原生 PostgreSQL 审计 Provider：共享 v1 协议、受限追加函数与 NativeData 事务。
+2026-11-23T02:31:08.113Z,Kun.Configuration.Abstractions,2026.11.21,Kun Framework Contributors,配置 seam 的只读端口与错误词汇。
+2026-11-23T02:31:10.71Z,Kun.Configuration.Secrets,2026.11.21,Kun Framework Contributors,挂载式密钥文件解析与权限边界。
+2026-11-23T02:31:13.237Z,Kun.Data.Native.Abstractions,2026.11.21,Kun Framework Contributors,原生数据库连接与事务的 NativeData Definition，不依赖 EF。
+2026-11-23T02:31:14.713Z,Kun.Data.Native.Postgres,2026.11.21,Kun Framework Contributors,NativeData 的 PostgreSQL 受限连接、租户隔离与事务 Provider。
+2026-11-23T02:31:17.297Z,Kun.EntityFrameworkCore.PostgreSQL,2026.11.21,Kun Framework Contributors,Kun 的 PostgreSQL 迁移 SQL 生成器：建租户表时紧接着打开行级安全并建租户策略。
+2026-11-23T02:31:18.89Z,Kun.Errors,2026.11.21,Kun Framework Contributors,Kun 结构化错误：错误码目录、Error 与 ErrorException、RFC 9457 problem+json 的 ErrorDetail 配置文件与多语言文案 JSON 导出。零依赖。
+2026-11-23T02:31:20.37Z,Kun.Errors.AspNetCore,2026.11.21,Kun Framework Contributors,Kun 结构化错误的 ASP.NET Core 映射：problem+json（ErrorDetail）输出、异常与状态码兜底、ProblemDetails 规范化。
+2026-11-23T02:31:24.063Z,Kun.EventBus.EntityFrameworkCore,2026.11.21,Kun Framework Contributors,EF Core event outbox relay and event component configuration.
+2026-11-23T02:31:27.85Z,Kun.Gateway.Abstractions,2026.11.21,Kun Framework Contributors,业务网关的服务键、声明式路由与固定安全配置契约。
+2026-11-23T02:31:36.063Z,Kun.Plugin.Sdk,2026.11.21,Kun Framework Contributors,Kun 插件开发包：组件的代码声明、生成契约与命令策略协议（内核档）；命令管道在 Kun.Plugin.Sdk.Commands。
+2026-11-23T02:31:37.483Z,Kun.Plugin.Sdk.Generators,2026.11.21,Kun Framework Contributors,Kun 插件开发包的增量源生成器：从组件代码派生元数据、能力与作业契约，只以分析器引用。
+2026-11-23T02:31:39.38Z,Kun.Runtime,2026.11.21,Kun Framework Contributors,Kun 组件运行时：插件装载、服务键、事件与可逆副作用；不带产品语义（scope 种类与表面目录键由平台档定）。
+2026-11-23T02:31:41.83Z,Kun.Security.Abstractions,2026.11.21,Kun Framework Contributors,Kun 服务间令牌的主体模型与声明词汇表：Principal、DelegationActor、PrincipalKind 与 IdentityClaimNames。零依赖。
+2026-11-23T02:31:48.473Z,Kun.Testing.Containers,2026.11.21,Kun Framework Contributors,使用 xUnit v3 的 .NET 集成测试容器夹具。支持 PostgreSQL、Redis、RabbitMQ、PgBouncer、S3 兼容存储、配置与身份协议以及 K3s。
+2026-11-23T02:38:11.26Z,Alphard.ProbablyStolen.Templates,0.1.0,Alphard,最小模板，通过NuGet分发项目模板 适用于Rider
+2026-11-23T02:47:53.543Z,GCCN.ActiveReports.AI.Web,20.2.1,"GrapeCity China, Inc.",ActiveReports AI Web 提供 ASP.NET Core 中间件，将 AI 报表智能辅助功能集成到 Web 报表设计器中，支持智能报表创建和数据区域生成。
+2026-11-23T02:50:16.96Z,RadiantWorks.Imaging,1.1.2,RadiantWorks,工业图像处理、胶片查重和应用授权校验组件。
+2026-11-23T02:50:18.633Z,GCCN.ActiveReports.Design.AI.Reporting,20.2.1,"GrapeCity China, Inc.","ActiveReports is a set of assemblies that enable you to create, render, print, and export reports in a .NET or .NET Core application. This package includes the core engine assemblies required to create and render pixel perfect, WYSIWYG, reports."
+2026-11-23T02:53:06.343Z,NonceSense.FileGuard,1.0.0,NonceSense,NonceSense.FileGuard is a lightweight .NET 10 utility library for inspecting file content.
+2026-11-23T03:01:57.673Z,ActualLab.Core.Legacy,16.0.4,"Actual Chat, Inc.","ActualLab.Core.Legacy - obsolete ActualLab.Core types kept for compatibility (OptionSet, ImmutableOptionSet)."
+2026-11-23T03:02:06.28Z,ActualLab.Fusion.Ext.Backend.Contracts,16.0.4,"Actual Chat, Inc.","Backend service contracts of ActualLab.Fusion extensions (IAuthBackend, IKeyValueStore and their commands)."
+2026-11-23T03:02:24.17Z,ActualLab.Serialization.MemoryPack,16.0.4,"Actual Chat, Inc.","ActualLab.Serialization.MemoryPack - MemoryPack support for ActualLab.Fusion: an IByteSerializer, formatters for ActualLab types, and MemoryPack-based RPC serialization formats."
+2026-11-23T03:02:26.64Z,ActualLab.Serialization.NewtonsoftJson,16.0.4,"Actual Chat, Inc.","ActualLab.Serialization.NewtonsoftJson - Newtonsoft.Json support for ActualLab.Fusion: an ITextSerializer, converters for ActualLab types, and Newtonsoft.Json-based RPC serialization formats."
