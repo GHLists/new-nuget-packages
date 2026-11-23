@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-23T04:32:11.343Z,BehaviorLock,0.2.0,Vadim Albarov,Active security for ASP.NET Core APIs. Records what each endpoint touches and blocks everything else.
+2026-11-23T05:00:30.907Z,ThinkGeo.Gpu.Native.iOS,15.0.0,ThinkGeo,"Native library for ThinkGeo.Gpu on iOS: ANGLE, which runs the engine's OpenGL ES 3.0 on Metal. Device (arm64) and simulator. Referenced by ThinkGeo.Gpu; an application does not reference it directly."
+2026-11-23T05:01:06.39Z,ObisLaser.Net,0.1.0,Bruno F. Cruz,"Client for Coherent OBIS LX/LS lasers over USB or RS-232 (unofficial, not affiliated with Coherent)."
