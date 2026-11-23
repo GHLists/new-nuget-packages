@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-23T06:22:29.817Z,FreeType.Net,0.1.0,FreeType.Net contributors,".NET bindings for FreeType 2.13.2, with FreeType built for win-x64, win-arm64, linux-x64, linux-arm64, osx-x64, osx-arm64, android-arm64, android-x64, ios-arm64, iossimulator-arm64 and browser-wasm."
+2026-11-23T06:24:43.2Z,Nextorm.Extensions.Gitea,1.0.0,Nextorm.Extensions.Gitea,Nextorm repository context for the Gitea 1.24.7 SQLite schema.
+2026-11-23T06:24:44.937Z,Nextorm.Extensions.Mastodon,1.0.0,Nextorm.Extensions.Mastodon,Nextorm repository context for the Mastodon PostgreSQL tags schema.
+2026-11-23T06:24:47.85Z,Nextorm.Extensions.WordPress,1.0.0,Nextorm.Extensions.WordPress,Nextorm repository context for the WordPress terms schema.
+2026-11-23T07:06:58.39Z,Tralys.Analyzers,0.1.0,Tralys.Analyzers contributors,"Roslyn analyzers for rules that hold in any C# codebase, starting with no null-forgiving operator."
+2026-11-23T07:12:25.527Z,BIMPlugins.AvalonEdit,6.3.1,"Samir Shibliev, AvalonEdit contributors","AvalonEdit for Revit add-ins, under an assembly name of its own: it never clashes with another add-in's AvalonEdit."
+2026-11-23T07:13:02.86Z,GoogleColabClient,0.1.0,Enari,"Unofficial .NET client for google-colab-cli 0.7.5 (strict port). Unofficial, not affiliated with or endorsed by Google."
