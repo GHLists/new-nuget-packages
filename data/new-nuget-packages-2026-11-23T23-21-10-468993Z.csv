@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-23T22:23:39.897Z,PosInformatique.Foundations.Threading,1.7.0,Gilles TOURREAU,Provides utilities and extensions related to the System.Threading APIs of .NET.
+2026-11-23T22:23:40.637Z,PosInformatique.Foundations.Bcl,1.7.0,Gilles TOURREAU,"Provides extension methods for common .NET types, including strings, URIs, time providers, and types."
+2026-11-23T22:23:46.823Z,PosInformatique.Foundations.Collections,1.7.0,Gilles TOURREAU,Provides extension methods for .NET collections and sequences.
+2026-11-23T22:27:29.497Z,Gatehouse.Captcha,0.1.0,KalliMan,"Captcha checks for ASP.NET Core minimal APIs: self-hosted ALTCHA proof of work (the PBKDF2 format of the altcha 3.x widget) and Cloudflare Turnstile behind one interface, with an endpoint filter. Not an official ALTCHA or Cloudflare product."
+2026-11-23T22:30:27.85Z,XperienceCommunity.AddonManager,1.0.0-prerelease-1,Neil Powers,"Admin application for Xperience by Kentico that lists the community add-ons installed in the host application, checks NuGet for newer versions, and can hand a selected update to an AI coding agent on a developer machine."
+2026-11-23T22:38:10.103Z,Beesharp.Core,0.1.0,Dennis,"Core scenario, parameter, step-machine and runtime APIs for Beesharp load tests."
+2026-11-23T22:45:42.86Z,KryptonModern.Editor,2026.11.24.644,Fungusware,"A fast, themeable WinForms code editor control with syntax highlighting, minimap and completion. No third-party dependencies."
+2026-11-23T22:46:05.843Z,Fdw.Services.Descriptions,1.6.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-23T22:46:07.553Z,Fdw.Services.Descriptions.Abstractions,1.6.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-23T22:46:38.04Z,Fdw.Services.LanguageModels,1.6.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-23T22:46:39.573Z,Fdw.Services.LanguageModels.Abstractions,1.6.0,Fdw Team,Development tools and utilities for the Fdw ecosystem.
+2026-11-23T22:59:03.253Z,EventfulRanges.Kurrent,0.1.0,Dmitry Ledentsov,"A KurrentDB event log for EventfulRanges: the operations of a replica as a stream, and its snapshots as another."
+2026-11-23T23:03:54.067Z,Groma,0.1.1,Alex McClure,"Lays out survey plans: boxes, some holding other boxes, joined by right-angled labelled lines on a grid. Boxes that survive a change keep their exact positions."
+2026-11-23T23:04:53.97Z,Plasm.CSharp,0.4.0,Plasm contributors,"What a C# host is given by an F# data layer on Plasm: the cases it switches over (Missing, Refused, Stale, Invalid), the unions of them in C#'s union shape (Found, Added, Answered, Changed), the functions that read a result as one, and a base for a union's JSON classifier."
+2026-11-23T23:05:40.307Z,Brows.MD.Windows,0.1.0,Ken Yourek,A styleable WPF viewer for Markdown documents.

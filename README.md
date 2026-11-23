@@ -12,28 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 22:20 UTC
+## Latest list — 2026-11-23 23:21 UTC
 
-New packages created between 2026-11-23 21:19 UTC and 2026-11-23 22:20 UTC.
+New packages created between 2026-11-23 22:20 UTC and 2026-11-23 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T22-20-26-700351Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T23-21-10-468993Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 21:20:28 | [Nazor.Themes.WindowsXP](https://www.nuget.org/packages/Nazor.Themes.WindowsXP) | 0.1.1-alpha | Nazor | Windows XP Luna-inspired light control styles for Nazor. |
-| 2026-11-23 21:21:35 | [Nazor.Themes.Adwaita](https://www.nuget.org/packages/Nazor.Themes.Adwaita) | 0.1.1-alpha | Nazor | Light and dark control styles based on Libadwaita 1.10, with private Adwaita fo… |
-| 2026-11-23 21:34:06 | [GroveGames.Audio](https://www.nuget.org/packages/GroveGames.Audio) | 0.1.0 | Grove Games | Music and sound effect playback with playlists and fades |
-| 2026-11-23 21:34:17 | [Epsilon.Solving](https://www.nuget.org/packages/Epsilon.Solving) | 1.0.0 | Max Zakharov | Equation solving for the Epsilon symbolic math library. Exact solutions of equa… |
-| 2026-11-23 21:44:02 | [SparkplugNet.nanoFramework](https://www.nuget.org/packages/SparkplugNet.nanoFramework) | 1.5.0 | SeppPenner | Sparkplug B Edge Node for .NET nanoFramework over MQTT 3.1.1, supporting the Sp… |
-| 2026-11-23 21:55:24 | [BccCode.Privacy.Postgres](https://www.nuget.org/packages/BccCode.Privacy.Postgres) | 0.17.0 | BCC | The PostgreSQL layer of BCC Privacy: the privacy columns, column comments, cons… |
-| 2026-11-23 22:08:12 | [Gleanvolt.Providers.Contracts](https://www.nuget.org/packages/Gleanvolt.Providers.Contracts) | 1.3.1 | Martin Pospisil | The wire contract between Gleanvolt and an external data provider (#386): the h… |
-| 2026-11-23 22:08:14 | [Gleanvolt.Providers.Client](https://www.nuget.org/packages/Gleanvolt.Providers.Client) | 1.3.1 | Martin Pospisil | Write an external data provider for Gleanvolt (#386): connects to Gleanvolt ove… |
-| 2026-11-23 22:08:15 | [Gleanvolt.Providers.Testing](https://www.nuget.org/packages/Gleanvolt.Providers.Testing) | 1.3.1 | Martin Pospisil | Test a Gleanvolt charger plugin without Gleanvolt (#439): a charger hub on a lo… |
-| 2026-11-23 22:08:16 | [Gleanvolt.Chargers.Hosting](https://www.nuget.org/packages/Gleanvolt.Chargers.Hosting) | 1.3.1 | Martin Pospisil | Write a Gleanvolt charger plugin in a few files: the host, the page Gleanvolt f… |
-| 2026-11-23 22:08:17 | [Gleanvolt.Modbus](https://www.nuget.org/packages/Gleanvolt.Modbus) | 1.3.1 | Martin Pospisil | A Modbus TCP client that keeps its connection healthy (#439): one request at a… |
-| 2026-11-23 22:08:54 | [Packata.ExtendedTypes](https://www.nuget.org/packages/Packata.ExtendedTypes) | 1.39.0 | Cédric L. Charlier | Optional NetTopologySuite and Chrononuensis CLR representations and reader bind… |
-| 2026-11-23 22:08:57 | [IdeaBlade.Validation](https://www.nuget.org/packages/IdeaBlade.Validation) | 0.1.0 | IdeaBlade | Data-store agnostic, metadata-driven validation framework. Server-side (.NET) c… |
-| 2026-11-23 22:10:07 | [PinguApps.Playbook](https://www.nuget.org/packages/PinguApps.Playbook) | 1.0.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
+| 2026-11-23 22:23:39 | [PosInformatique.Foundations.Threading](https://www.nuget.org/packages/PosInformatique.Foundations.Threading) | 1.7.0 | Gilles TOURREAU | Provides utilities and extensions related to the System.Threading APIs of .NET. |
+| 2026-11-23 22:23:40 | [PosInformatique.Foundations.Bcl](https://www.nuget.org/packages/PosInformatique.Foundations.Bcl) | 1.7.0 | Gilles TOURREAU | Provides extension methods for common .NET types, including strings, URIs, time… |
+| 2026-11-23 22:23:46 | [PosInformatique.Foundations.Collections](https://www.nuget.org/packages/PosInformatique.Foundations.Collections) | 1.7.0 | Gilles TOURREAU | Provides extension methods for .NET collections and sequences. |
+| 2026-11-23 22:27:29 | [Gatehouse.Captcha](https://www.nuget.org/packages/Gatehouse.Captcha) | 0.1.0 | KalliMan | Captcha checks for ASP.NET Core minimal APIs: self-hosted ALTCHA proof of work… |
+| 2026-11-23 22:30:27 | [XperienceCommunity.AddonManager](https://www.nuget.org/packages/XperienceCommunity.AddonManager) | 1.0.0-prerelease-1 | Neil Powers | Admin application for Xperience by Kentico that lists the community add-ons ins… |
+| 2026-11-23 22:38:10 | [Beesharp.Core](https://www.nuget.org/packages/Beesharp.Core) | 0.1.0 | Dennis | Core scenario, parameter, step-machine and runtime APIs for Beesharp load tests. |
+| 2026-11-23 22:45:42 | [KryptonModern.Editor](https://www.nuget.org/packages/KryptonModern.Editor) | 2026.11.24.644 | Fungusware | A fast, themeable WinForms code editor control with syntax highlighting, minima… |
+| 2026-11-23 22:46:05 | [Fdw.Services.Descriptions](https://www.nuget.org/packages/Fdw.Services.Descriptions) | 1.6.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-23 22:46:07 | [Fdw.Services.Descriptions.Abstractions](https://www.nuget.org/packages/Fdw.Services.Descriptions.Abstractions) | 1.6.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-23 22:46:38 | [Fdw.Services.LanguageModels](https://www.nuget.org/packages/Fdw.Services.LanguageModels) | 1.6.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-23 22:46:39 | [Fdw.Services.LanguageModels.Abstractions](https://www.nuget.org/packages/Fdw.Services.LanguageModels.Abstractions) | 1.6.0 | Fdw Team | Development tools and utilities for the Fdw ecosystem. |
+| 2026-11-23 22:59:03 | [EventfulRanges.Kurrent](https://www.nuget.org/packages/EventfulRanges.Kurrent) | 0.1.0 | Dmitry Ledentsov | A KurrentDB event log for EventfulRanges: the operations of a replica as a stre… |
+| 2026-11-23 23:03:54 | [Groma](https://www.nuget.org/packages/Groma) | 0.1.1 | Alex McClure | Lays out survey plans: boxes, some holding other boxes, joined by right-angled… |
+| 2026-11-23 23:04:53 | [Plasm.CSharp](https://www.nuget.org/packages/Plasm.CSharp) | 0.4.0 | Plasm contributors | What a C# host is given by an F# data layer on Plasm: the cases it switches ove… |
+| 2026-11-23 23:05:40 | [Brows.MD.Windows](https://www.nuget.org/packages/Brows.MD.Windows) | 0.1.0 | Ken Yourek | A styleable WPF viewer for Markdown documents. |
 
 ## Data source
 
