@@ -1,0 +1,70 @@
+created_at,package,version,authors,description
+2026-11-23T17:18:45.11Z,EnterpriseUI.Blazor,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:21:30.94Z,MelonUI,1.0.0,"EpsiRho,MelonUI Contributors",Powerful C# CLI library with custom XML based markup language
+2026-11-23T17:21:50.177Z,MelonUI.Shaders,1.0.0,"EpsiRho,MelonUI Contributors",OpenGL and Windows Direct3D shader controls for MelonUI.
+2026-11-23T17:26:09.627Z,EnterpriseUI.Charts,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:26:19.787Z,EnterpriseUI.CodeGenerators,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:26:33.923Z,EnterpriseUI.Core,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:26:45.58Z,EnterpriseUI.Dashboard,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:26:59.217Z,EnterpriseUI.Data,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:27:16.257Z,EnterpriseUI.Diagrams,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:27:26.41Z,EnterpriseUI.Documents,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:27:39.23Z,EnterpriseUI.Editors,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:27:54.573Z,EnterpriseUI.Exporting,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:28:04.583Z,EnterpriseUI.Framework,1.2.0,EnterpriseUI Open Source Contributors,Retained element tree and cascading style rule engine for EnterpriseUI.
+2026-11-23T17:28:21.773Z,EnterpriseUI.Gauges,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:28:33.55Z,EnterpriseUI.Grids,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:28:49.787Z,EnterpriseUI.Icons,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:29:06.453Z,EnterpriseUI.Layout,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:29:20.843Z,EnterpriseUI.Localization,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:29:32.227Z,EnterpriseUI.Map,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:29:45.51Z,EnterpriseUI.Maui,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:29:57.447Z,EnterpriseUI.Media,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:30:00.047Z,AIKernel.Contracts.ProviderPlacement,0.1.4,Takuya Sogawa,"AIKernel v1 provider placement descriptors, scoring, and worker pull contracts."
+2026-11-23T17:30:08.717Z,EnterpriseUI.Navigation,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:30:21.073Z,EnterpriseUI.Notifications,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:30:31.42Z,EnterpriseUI.Office,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:30:32.987Z,AIKernel.Kernel.ProviderPlacement,0.1.4,Takuya Sogawa,AIKernel v1 provider placement scheduler and deterministic score validation.
+2026-11-23T17:30:41.33Z,EnterpriseUI.Pdf,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:30:56.67Z,EnterpriseUI.Printing,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:30:56.877Z,AIKernel.Providers.ProviderPlacement,0.1.4,Takuya Sogawa,Authenticated central pull transport for AIKernel provider placement ABI v1.
+2026-11-23T17:31:09.31Z,EnterpriseUI.Rendering,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:31:23.13Z,EnterpriseUI.Reporting,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:31:34.413Z,EnterpriseUI.RichText,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:31:47.62Z,EnterpriseUI.Scheduling,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:32:01.087Z,EnterpriseUI.Security,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:32:11.76Z,EnterpriseUI.TemplateStudio,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:32:25.45Z,EnterpriseUI.ThemeDesigner,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:32:39.09Z,EnterpriseUI.Theming,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:32:43.293Z,Nextorm.Extensions.AnythingLLM,1.0.0,Nextorm.Extensions.AnythingLLM,Nextorm repository context for the AnythingLLM Desktop v1.8.5 SQLite schema.
+2026-11-23T17:32:44.593Z,Nextorm.Extensions.Dify,1.0.0,Nextorm.Extensions.Dify,Nextorm repository context for the Dify 1.9.2 PostgreSQL schema.
+2026-11-23T17:32:45.893Z,Nextorm.Extensions.Ghost,1.0.0,Nextorm.Extensions.Ghost,Nextorm repository context for the Ghost 6.0.0 MySQL application schema.
+2026-11-23T17:32:48.183Z,Nextorm.Extensions.Gitea.PostgreSql,1.0.0,Nextorm.Extensions.Gitea.PostgreSql,Nextorm repository context for the Gitea 1.24.7 PostgreSQL schema.
+2026-11-23T17:32:49.41Z,Nextorm.Extensions.Grafana,1.0.0,Nextorm.Extensions.Grafana,Nextorm repository context for the Grafana OSS 12.3.0 SQLite schema.
+2026-11-23T17:32:50.607Z,Nextorm.Extensions.Immich,1.0.0,Nextorm.Extensions.Immich,Nextorm repository context for the Immich 2.0.0 PostgreSQL schema with native PgVector mappings.
+2026-11-23T17:32:51.383Z,EnterpriseUI.Validation,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:32:51.91Z,Nextorm.Extensions.Jellyfin,1.0.0,Nextorm.Extensions.Jellyfin,Nextorm repository context for the Jellyfin 12.4.0 SQLite schema.
+2026-11-23T17:32:53.273Z,Nextorm.Extensions.LiteLLM,1.0.0,Nextorm.Extensions.LiteLLM,Nextorm repository context for the LiteLLM Proxy 1.110.2 PostgreSQL schema.
+2026-11-23T17:32:56.537Z,Nextorm.Extensions.OpenWebUI,1.0.0,Nextorm.Extensions.OpenWebUI,Nextorm repository context for the Open WebUI 0.6.43 SQLite schema.
+2026-11-23T17:32:57.86Z,Nextorm.Extensions.Redmine,1.0.0,Nextorm.Extensions.Redmine,Nextorm repository context for the Redmine 6.1.0 PostgreSQL schema.
+2026-11-23T17:32:59.277Z,Nextorm.Extensions.T3Code,1.0.0,Nextorm.Extensions.T3Code,Nextorm repository context for the T3 Code 0.1.11 SQLite schema.
+2026-11-23T17:33:03.483Z,EnterpriseUI.VisualDesigner,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:33:29.173Z,EnterpriseUI.Workflow,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:33:39.717Z,EnterpriseUI.Wpf,1.2.0,EnterpriseUI Open Source Contributors,Open-source EnterpriseUI components for .NET. Source code and documentation: https://github.com/muhammad-aftab93/EnterpriseUI
+2026-11-23T17:37:51.37Z,Paid,0.1.0,Paid,Official .NET SDK for the Paid API.
+2026-11-23T17:38:09.233Z,Nextorm.Scaffold,1.0.0,Nextorm.Scaffold,Scaffold Nextorm repository contexts from existing databases.
+2026-11-23T17:38:10.92Z,Nextorm.Scaffold.Abstractions,1.0.0,Nextorm.Scaffold.Abstractions,Public customization contract for Nextorm schema scaffolding.
+2026-11-23T17:38:21.5Z,Nextorm.Scaffold.linux-x64,1.0.0,Nextorm.Scaffold,Scaffold Nextorm repository contexts from existing databases.
+2026-11-23T17:59:03.293Z,Blow.AI.Mind.Cli,0.1.0,Dariusz Tomczak,Command line tool generating fictional Excel workbooks with prompt-injection scenarios and encryption.
+2026-11-23T17:59:03.783Z,Blow.AI.Mind,0.1.0,Dariusz Tomczak,"Fast generator of fictional data and realistic Excel (.xlsx) workbooks for AI agent testing: plain files, controlled prompt-injection scenarios with canary markers and files encrypted with a random, discarded open password."
+2026-11-23T18:02:30.307Z,Bentrix.Mcp,0.1.382,Bentrix,"The .NET client of Bentrix: every capability of a running Bentrix over its MCP endpoint, generated from its capability catalogue."
+2026-11-23T18:02:30.747Z,Bentrix,0.1.382,Bentrix,"Bentrix's engine in your own .NET process, and its Gym (Plus and Pro; the engine library is installed with Bentrix)."
+2026-11-23T18:07:19.62Z,TasollerPlus,1.0.0,Suira,WindowsでTasoller Plusの検出・接続、入力取得、LED制御を行うC#ライブラリです。機器はWinUSBモードで使用します。
+2026-11-23T18:08:22.907Z,DataFenceGuardrails,1.0.0,DataFence,"DataFence: a Defense-in-Depth AI-to-SQL pipeline suite enforcing zero-trust boundaries between raw LLM output and SQL Server. Includes PromptGuardrails, SchemaGuardrails, SqlGuardrails, ParameterGuardrails, DatabaseGuardrails, ResultGuardrails, AuditLogger and DataFenceGuardrails (pipeline/DI packa…"
+2026-11-23T18:10:28.173Z,DataFenceAgentShield,1.0.0,DataFence,"AgentShield authorizes AI-requested application functions (for example IssueRefund, SendEmail) before they run: deterministic policy, typed argument validation, approvals, idempotency and recovery. Includes the core engine, in-memory and SQL Server lifecycle stores and a dependency injection adapte…"
+2026-11-23T18:11:14.723Z,GroveGames.Globalization,0.1.0,Grove Games,"Compact numbers, percentages, durations and Roman numerals formatted without allocations for .NET and Unity"
+2026-11-23T18:11:15.027Z,GroveGames.StateMachine,0.1.1,Grove Games,"Finite state machine with shared states, guarded transitions and per-agent context for .NET and Unity"
+2026-11-23T18:11:20.467Z,GroveGames.DeveloperTools,0.1.0,Grove Games,"In-app developer tools: an options model read from annotated fields and methods, with a UI Toolkit window for Unity"
+2026-11-23T18:11:21.88Z,GroveGames.Mathematics,0.1.0,Grove Games,"Deterministic random numbers, big numbers and shuffle bags for .NET and Unity"
+2026-11-23T18:15:20.963Z,AlibabaCloud.SDK.QwenB2BChat20261121,1.0.0,Alibaba Cloud,Alibaba Cloud QwenB2BChat (20261121) SDK Library for .NET
+2026-11-23T18:16:09.643Z,AIKernel.Providers.Embedding,0.1.4,Takuya Sogawa,Local CPU multilingual text embeddings using the pinned multilingual-e5-small FP32 ONNX model.
