@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-22T23:34:00.273Z,SuperStrong.Types.HotChocolate.V16,1.0.1,Ihor Kuzmychov (iikuzmychov),"Strong types for .NET — define once, use everywhere!"
+2026-11-22T23:34:03.363Z,SuperStrong.Types.NewtonsoftJson.V13,1.0.1,Ihor Kuzmychov (iikuzmychov),"Strong types for .NET — define once, use everywhere!"
+2026-11-22T23:34:05.2Z,SuperStrong.Types.EntityFrameworkCore.V10,1.0.1,Ihor Kuzmychov (iikuzmychov),"Strong types for .NET — define once, use everywhere!"
+2026-11-22T23:34:06.577Z,SuperStrong.Types.AspNetCore.OpenApi.V10,1.0.1,Ihor Kuzmychov (iikuzmychov),"Strong types for .NET — define once, use everywhere!"
+2026-11-22T23:35:44.3Z,Rogski.LicenseGate,0.1.0,License Gate contributors,Check direct and transitive NuGet dependency licenses against a repository policy.
+2026-11-23T00:08:00.79Z,Validonce.AspNetCore,0.0.1-placeholder,Metatoy LLC,"Placeholder for validonce: write validation rules once on the server, enforce them in React and Angular forms. Not usable yet."
+2026-11-23T00:08:01.24Z,Validonce,0.0.1-placeholder,Metatoy LLC,"Placeholder for validonce: write validation rules once on the server, enforce them in React and Angular forms. Not usable yet."
+2026-11-23T00:08:01.71Z,Validonce.Cli,0.0.1-placeholder,Metatoy LLC,"Placeholder for validonce: write validation rules once on the server, enforce them in React and Angular forms. Not usable yet."
+2026-11-23T00:08:02.243Z,Validonce.FluentValidation,0.0.1-placeholder,Metatoy LLC,"Placeholder for validonce: write validation rules once on the server, enforce them in React and Angular forms. Not usable yet."
