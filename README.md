@@ -12,33 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 19:20 UTC
+## Latest list — 2026-11-23 20:18 UTC
 
-New packages created between 2026-11-23 18:21 UTC and 2026-11-23 19:20 UTC.
+New packages created between 2026-11-23 19:20 UTC and 2026-11-23 20:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T19-20-25-189391Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T20-18-56-432066Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 18:25:18 | [Webority.Webhooks.Inbound.Abstractions](https://www.nuget.org/packages/Webority.Webhooks.Inbound.Abstractions) | 0.26.0 | Webority Technologies | Webority.Webhooks.Inbound.Abstractions holds the inbound request and the signat… |
-| 2026-11-23 18:32:27 | [Openlayer](https://www.nuget.org/packages/Openlayer) | 0.1.0 | Openlayer | The official C# / .NET library for the Openlayer API, the Evaluation Platform f… |
-| 2026-11-23 18:32:52 | [DocsRagMcp](https://www.nuget.org/packages/DocsRagMcp) | 0.1.0 | Ahmed Manai | MCP server that lets Claude, GitHub Copilot and Cursor search your own document… |
-| 2026-11-23 18:33:28 | [Sstv.EndpointEol](https://www.nuget.org/packages/Sstv.EndpointEol) | 1.0.0 | Sstv | Endpoint end-of-life management for ASP.NET Core: sunset headers, warnings, met… |
-| 2026-11-23 18:33:30 | [Sstv.EndpointEol.Swashbuckle](https://www.nuget.org/packages/Sstv.EndpointEol.Swashbuckle) | 1.0.0 | Sstv | Swashbuckle/OpenAPI annotations for Sstv.EndpointEol: deprecated flag, sunset n… |
-| 2026-11-23 18:34:37 | [Aiursoft.BadgeProxy](https://www.nuget.org/packages/Aiursoft.BadgeProxy) | 10.0.0 | Aiursoft | BadgeProxy is a proxy service for GitLab pipeline status and coverage badge SVG… |
-| 2026-11-23 18:40:34 | [ShingZhanho.FRConjugation](https://www.nuget.org/packages/ShingZhanho.FRConjugation) | 5.1.1 | ShingZhanho | French conjugation using a bundled catalogue of spelling rules. |
-| 2026-11-23 18:50:40 | [Iwxxm.Net.Validation.Saxon](https://www.nuget.org/packages/Iwxxm.Net.Validation.Saxon) | 1.0.0 | 0neTX | Optional Iwxxm.Net add-on that runs the complete, unmodified official WMO IWXXM… |
-| 2026-11-23 18:50:40 | [Iwxxm.Net](https://www.nuget.org/packages/Iwxxm.Net) | 1.0.0 | 0neTX | Zero-dependency .NET Standard 2.0 & 2.1 library for ICAO/WMO IWXXM 2025-2: XSD… |
-| 2026-11-23 18:54:02 | [SinkSharp.Sinks.Slack](https://www.nuget.org/packages/SinkSharp.Sinks.Slack) | 1.0.0 | SinkSharp | Slack alerting sink for SinkSharp. Posts Error/Critical log events to a Slack c… |
-| 2026-11-23 18:57:39 | [AIKernel.Contracts.Reranking](https://www.nuget.org/packages/AIKernel.Contracts.Reranking) | 0.1.4 | Takuya Sogawa | AIKernel text reranking and capability contracts using the shared provider scor… |
-| 2026-11-23 18:57:45 | [SinkSharp.Sinks.MicrosoftTeams](https://www.nuget.org/packages/SinkSharp.Sinks.MicrosoftTeams) | 1.0.0 | SinkSharp | Microsoft Teams alerting sink for SinkSharp. Posts Error/Critical log events to… |
-| 2026-11-23 18:58:09 | [Glazor](https://www.nuget.org/packages/Glazor) | 1.1.0 | Valentino Proietti and Ilaria… | A specialized Razor Class Library for .NET 10 Blazor applications, offering hig… |
-| 2026-11-23 18:58:23 | [Glazor.EntityFrameworkCore](https://www.nuget.org/packages/Glazor.EntityFrameworkCore) | 1.1.0 | Valentino Proietti and Ilaria… | Entity Framework Core paged data models for the Glazor data grids. |
-| 2026-11-23 19:03:54 | [AbpAdmin.Cli](https://www.nuget.org/packages/AbpAdmin.Cli) | 0.1.0 | ABP Admin contributors | Adds ABP Admin to an ABP application: detects its .NET and ABP versions and its… |
-| 2026-11-23 19:06:40 | [AIKernel.Providers.Reranker](https://www.nuget.org/packages/AIKernel.Providers.Reranker) | 0.1.4 | Takuya Sogawa | Local CPU text reranking with the pinned mMARCO MiniLM FP32 ONNX model. |
-| 2026-11-23 19:08:29 | [GroveGames.Notifications](https://www.nuget.org/packages/GroveGames.Notifications) | 0.1.0 | Grove Games | Local notifications for mobile games: scheduling, permission, channels and the… |
-| 2026-11-23 19:10:11 | [GroveGames.Haptics](https://www.nuget.org/packages/GroveGames.Haptics) | 0.1.0 | Grove Games | Haptic feedback with intensity, sharpness and duration for .NET and Unity, with… |
-| 2026-11-23 19:11:54 | [GroveGames.Input](https://www.nuget.org/packages/GroveGames.Input) | 0.1.0 | Grove Games | Prioritized pointer and keyboard events with handled state for .NET and Unity |
+| 2026-11-23 19:26:05 | [AiDotNet.CodeAnalysis.TreeSitter](https://www.nuget.org/packages/AiDotNet.CodeAnalysis.TreeSitter) | 0.236.1 | ooples | TreeSitter-backed code analysis for AiDotNet: precise syntax validation for the… |
+| 2026-11-23 19:26:11 | [AiDotNet.Resources](https://www.nuget.org/packages/AiDotNet.Resources) | 0.236.1 | ooples | Embedded data for AiDotNet: tokenizer vocabularies and text-to-speech front-end… |
+| 2026-11-23 19:35:32 | [BFC.ObisLaser](https://www.nuget.org/packages/BFC.ObisLaser) | 0.2.0 | Bruno F. Cruz | Bonsai operators to control Coherent OBIS LX/LS lasers (unofficial, not affilia… |
+| 2026-11-23 19:35:32 | [BFC.ObisLaser.Design](https://www.nuget.org/packages/BFC.ObisLaser.Design) | 0.2.0 | Bruno F. Cruz | Control panel for Coherent OBIS LX/LS lasers in the Bonsai editor (unofficial,… |
+| 2026-11-23 19:36:03 | [Softbreak.NuGetLicenseRadar](https://www.nuget.org/packages/Softbreak.NuGetLicenseRadar) | 0.1.1 | Softbreak | Scan .NET projects for NuGet license declarations and evidence-based license te… |
+| 2026-11-23 19:48:33 | [EpicMorg.HammerShell.Client](https://www.nuget.org/packages/EpicMorg.HammerShell.Client) | 0.1.0 | EpicMorg | Client for the shell channel of Valve Hammer Editor (Source 1): send entity and… |
+| 2026-11-23 19:52:52 | [DsDevelopment.FileZillaServer.AdminClient](https://www.nuget.org/packages/DsDevelopment.FileZillaServer.AdminClient) | 0.1.0 | Philip Hoppe | Client for the administration interface of FileZilla Server 1.x. Manage users a… |
+| 2026-11-23 19:54:06 | [JobMaster.Cronos](https://www.nuget.org/packages/JobMaster.Cronos) | 0.0.2-alpha | Hugo Silva | JobMaster is a framework designed to manage and execute background tasks across… |
+| 2026-11-23 19:54:08 | [JobMaster.NCrontab](https://www.nuget.org/packages/JobMaster.NCrontab) | 0.0.2-alpha | Hugo Silva | JobMaster is a framework designed to manage and execute background tasks across… |
+| 2026-11-23 20:01:28 | [NuExt.Minimal.Mvvm.Desktop.Persistence](https://www.nuget.org/packages/NuExt.Minimal.Mvvm.Desktop.Persistence) | 0.9.5 | ivanvoyager | SQLite persistence layer for desktop MVVM applications, combining NuExt.Minimal… |
 
 ## Data source
 
