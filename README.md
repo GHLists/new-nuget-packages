@@ -12,40 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:19 UTC
+## Latest list — 2026-11-23 09:21 UTC
 
-New packages created between 2026-11-23 07:19 UTC and 2026-11-23 08:19 UTC.
+New packages created between 2026-11-23 08:19 UTC and 2026-11-23 09:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T08-19-40-345358Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T09-21-06-617505Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 07:20:51 | [IFramework.Snowflake.Redis](https://www.nuget.org/packages/IFramework.Snowflake.Redis) | 8.0.5.6 | IFramework.Snowflake.Redis | Package Description |
-| 2026-11-23 07:24:32 | [Tralys.Ecs.Executor.Pool](https://www.nuget.org/packages/Tralys.Ecs.Executor.Pool) | 0.1.0 | Tralys.Ecs contributors | WorkerPool for Tralys.Ecs: dedicated worker threads for parallel queries. |
-| 2026-11-23 07:24:33 | [Tralys.Ecs.Testing](https://www.nuget.org/packages/Tralys.Ecs.Testing) | 0.1.0 | Tralys.Ecs contributors | Test helpers for Tralys.Ecs: WorldHarness, WorldDiff, AllocationAssert and Shuf… |
-| 2026-11-23 07:24:34 | [Tralys.Ecs](https://www.nuget.org/packages/Tralys.Ecs) | 0.1.0 | Tralys.Ecs contributors | A source-generated entity component system: worlds, archetype storage, relation… |
-| 2026-11-23 07:24:34 | [Tralys.Ecs.Scheduling](https://www.nuget.org/packages/Tralys.Ecs.Scheduling) | 0.1.0 | Tralys.Ecs contributors | Schedules for Tralys.Ecs: systems in sets, run conditions, cadences, fault quar… |
-| 2026-11-23 07:35:26 | [InstallKit.WixSharp](https://www.nuget.org/packages/InstallKit.WixSharp) | 1.0.0 | Luca | WixSharp (WiX 4+, .NET Framework) engine for InstallKit. |
-| 2026-11-23 07:35:27 | [InstallKit.Abstractions](https://www.nuget.org/packages/InstallKit.Abstractions) | 1.0.0 | Luca | Engine-neutral installer model for InstallKit (MSI packages and bundles). |
-| 2026-11-23 07:35:27 | [InstallKit.Sdk](https://www.nuget.org/packages/InstallKit.Sdk) | 1.0.0 | Luca | MSBuild SDK for InstallKit installer projects: dotnet build produces your MSI a… |
-| 2026-11-23 07:35:28 | [InstallKit.WixSharp.Core](https://www.nuget.org/packages/InstallKit.WixSharp.Core) | 1.0.0 | Luca | WixSharp.Core (WiX 4+, .NET 10) engine for InstallKit. Preview. |
-| 2026-11-23 07:35:28 | [InstallKit.Templates](https://www.nuget.org/packages/InstallKit.Templates) | 1.0.0 | Luca | dotnet new templates for InstallKit installer projects. |
-| 2026-11-23 07:39:06 | [GrayMint.Common.OpenApi.ClientGenerator](https://www.nuget.org/packages/GrayMint.Common.OpenApi.ClientGenerator) | 2.1.321 | GrayMint | An API's C# and TypeScript clients, generated on the client project's build fro… |
-| 2026-11-23 07:48:06 | [NWpfThemes](https://www.nuget.org/packages/NWpfThemes) | 1.0.0 | Duško Žigić | Themes for the standard WPF controls: dark, light, high contrast, hardware-styl… |
-| 2026-11-23 07:56:01 | [AppOS.SMS](https://www.nuget.org/packages/AppOS.SMS) | 10.0.1 | Li Chun Sheng | 高效、易用、强大的短信通用能力库，提供短信模板发送、变量替换、批量发送、验证码、发送统计、异步投递等能力。 |
-| 2026-11-23 07:56:22 | [AppOS.SMS.SendCloud](https://www.nuget.org/packages/AppOS.SMS.SendCloud) | 10.0.1 | Li Chun Sheng | 基于 SendCloud 协议的高效、易用、强大的短信能力库，提供短信模板发送、变量替换、批量发送、发送统计、异步投递等能力。 |
-| 2026-11-23 07:58:50 | [AIKernel.Dawn.Provider](https://www.nuget.org/packages/AIKernel.Dawn.Provider) | 0.1.4 | Takuya Sogawa | Optional native Dawn/WebGPU compute provider for AIKernel 0.1.4, with hardware… |
-| 2026-11-23 08:02:55 | [LsMsgPack.Lz4](https://www.nuget.org/packages/LsMsgPack.Lz4) | 2026.11.23.1 | Louis Somers | LZ4 compression for LsMsgPack and LsMsgPackDebug (MsgPackOptions.Compression =… |
-| 2026-11-23 08:06:49 | [Forumz.Core](https://www.nuget.org/packages/Forumz.Core) | 1.0.0 | Matt Gordon | Constants and options for Forumz with no web or database dependency. |
-| 2026-11-23 08:06:54 | [Forumz.Models](https://www.nuget.org/packages/Forumz.Models) | 1.0.0 | Matt Gordon | Requests and page models for Forumz. |
-| 2026-11-23 08:06:59 | [Forumz.Data](https://www.nuget.org/packages/Forumz.Data) | 1.0.0 | Matt Gordon | Forumz entities and the provider-agnostic Entity Framework context. |
-| 2026-11-23 08:07:07 | [Forumz.Data.MySql](https://www.nuget.org/packages/Forumz.Data.MySql) | 1.0.0 | Matt Gordon | MySQL storage for Forumz. |
-| 2026-11-23 08:07:12 | [Forumz.Data.Npgsql](https://www.nuget.org/packages/Forumz.Data.Npgsql) | 1.0.0 | Matt Gordon | PostgreSQL storage for Forumz. |
-| 2026-11-23 08:07:17 | [Forumz.Data.Sql](https://www.nuget.org/packages/Forumz.Data.Sql) | 1.0.0 | Matt Gordon | SQL Server storage for Forumz. |
-| 2026-11-23 08:07:23 | [Forumz.Data.Sqlite](https://www.nuget.org/packages/Forumz.Data.Sqlite) | 1.0.0 | Matt Gordon | SQLite storage for Forumz. |
-| 2026-11-23 08:07:29 | [Forumz.Services](https://www.nuget.org/packages/Forumz.Services) | 1.0.0 | Matt Gordon | Forum services. The host supplies a storage provider and, when it has one, its… |
-| 2026-11-23 08:07:37 | [Forumz](https://www.nuget.org/packages/Forumz) | 1.0.0 | Matt Gordon | A Blazor forum that mounts into any ASP.NET Core site. |
-| 2026-11-23 08:08:15 | [miniOrange.Umbraco.Mcp.Server](https://www.nuget.org/packages/miniOrange.Umbraco.Mcp.Server) | 1.0.1 | miniOrange InC. | Umbraco package that hosts an MCP endpoint so agentic AI clients can manage tem… |
+| 2026-11-23 08:19:44 | [CodeBrix.WebPlatform.WebGpu.Graphics.ApacheLicenseForever](https://www.nuget.org/packages/CodeBrix.WebPlatform.WebGpu.Graphics.ApacheLicenseForever) | 1.0.327.498 | Jeremy Ellis | 2D and 3D graphics through WebGPU for the browser frontend of a CodeBrix.WebPla… |
+| 2026-11-23 08:28:13 | [SwartBerg.Mediator.AzureServiceBus](https://www.nuget.org/packages/SwartBerg.Mediator.AzureServiceBus) | 4.1.0 | SwartBerg Studio | Azure Service Bus transport for SwartBerg.Mediator: IMediator.Publish sends not… |
+| 2026-11-23 08:29:49 | [SomaFrameQDWpf](https://www.nuget.org/packages/SomaFrameQDWpf) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | SomaFrameQD is an application shell similar in concept to the Visual Studio She… |
+| 2026-11-23 08:30:56 | [SomaFrameQD.Modules.CodeCompiler](https://www.nuget.org/packages/SomaFrameQD.Modules.CodeCompiler) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | CodeCompiler module for SomaFrameQD, providing C# code compilation using Roslyn. |
+| 2026-11-23 08:31:26 | [SomaFrameQD.Modules.Output](https://www.nuget.org/packages/SomaFrameQD.Modules.Output) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | Output module for SomaFrameQD, providing a buffered output tool pane. |
+| 2026-11-23 08:31:57 | [SomaFrameQD.Modules.PropertyGrid](https://www.nuget.org/packages/SomaFrameQD.Modules.PropertyGrid) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | PropertyGrid module for SomaFrameQD, utilising the PropertyGrid control from th… |
+| 2026-11-23 08:32:46 | [SomaFrameQD.Modules.GraphEditor](https://www.nuget.org/packages/SomaFrameQD.Modules.GraphEditor) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | GraphEditor module for SomaFrameQD, providing UI controls to edit a graph of co… |
+| 2026-11-23 08:33:08 | [SomaFrameQD.Modules.ErrorList](https://www.nuget.org/packages/SomaFrameQD.Modules.ErrorList) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | ErrorList module for SomaFrameQD, providing a tool window to display messages,… |
+| 2026-11-23 08:33:32 | [SomaFrameQD.Modules.CodeEditor](https://www.nuget.org/packages/SomaFrameQD.Modules.CodeEditor) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | CodeEditor module for SomaFrameQD, providing a syntax-highlighted code editor u… |
+| 2026-11-23 08:33:54 | [SomaFrameQD.Modules.Inspector](https://www.nuget.org/packages/SomaFrameQD.Modules.Inspector) | 0.9.0 | Dmitriy Novikov, Tim Jones, a… | Inspector module for SomaFrameQD, providing a flexible PropertyGrid-esque tool… |
+| 2026-11-23 08:42:29 | [M.Simple.Container](https://www.nuget.org/packages/M.Simple.Container) | 1.0.0.1 | Mr.Sunny | A lightweight .NET dependency injection container with assembly scanning and st… |
+| 2026-11-23 08:51:10 | [SonnetDB.Quartz](https://www.nuget.org/packages/SonnetDB.Quartz) | 5.2.0 | maikebing | 适用于 Quartz.NET 3.18 的 SonnetDB 持久化调度存储。 |
+| 2026-11-23 09:03:54 | [Krypton.Toolkit.Suite.Extended.Software.Updater.Core.Canary](https://www.nuget.org/packages/Krypton.Toolkit.Suite.Extended.Software.Updater.Core.Canary) | 120.26.11.327-beta | Peter Wagner (A.K.A Wagnerp)… | An extension to the Standard Toolkit, which supports .NET Framework 4.7.2 - 4.8… |
+| 2026-11-23 09:10:13 | [xStatic.AI](https://www.nuget.org/packages/xStatic.AI) | 17.3.0 | Sam Mullins | Optional AI add-on for xStatic for Umbraco 17+, providing Microsoft.Extensions.… |
+| 2026-11-23 09:10:14 | [xStatic.Cloudflare](https://www.nuget.org/packages/xStatic.Cloudflare) | 17.3.0 | Sam Mullins | Cloudflare Pages Direct Upload and Cloudflare R2 deployers and post-generation… |
 
 ## Data source
 
