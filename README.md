@@ -12,32 +12,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 10:21 UTC
+## Latest list — 2026-11-23 11:22 UTC
 
-New packages created between 2026-11-23 09:21 UTC and 2026-11-23 10:21 UTC.
+New packages created between 2026-11-23 10:21 UTC and 2026-11-23 11:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T10-21-13-799751Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T11-22-06-013144Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 09:23:33 | [Orkeon.Interop.AgentCli](https://www.nuget.org/packages/Orkeon.Interop.AgentCli) | 1.4.0 | Orkeon Contributors | Experimental agent CLI provider for Orkeon (ADR-020): an Orkeon agent answered… |
-| 2026-11-23 09:24:35 | [Fleans.Plugins.JavaScript](https://www.nuget.org/packages/Fleans.Plugins.JavaScript) | 0.15.0 | nightBaker | Fleans JavaScript plugin — runs <scriptTask scriptFormat="javascript"> out of t… |
-| 2026-11-23 09:42:53 | [UEditorNetCore10](https://www.nuget.org/packages/UEditorNetCore10) | 1.0.0 | UEditorNetCore | Package Description |
-| 2026-11-23 09:45:48 | [GizmoSDK.GPF.Common](https://www.nuget.org/packages/GizmoSDK.GPF.Common) | 2.12.352.1 | GizmoSDK team (gizmosdk@saabg… | Toolkit-independent managed GPF module contracts, properties, notifications, re… |
-| 2026-11-23 09:45:52 | [GizmoSDK.GPF](https://www.nuget.org/packages/GizmoSDK.GPF) | 2.12.352.1 | GizmoSDK team (gizmosdk@saabg… | Managed C# contracts, Avalonia presentation, native bridge and GPFMain host for… |
-| 2026-11-23 09:45:59 | [GizmoSDK.CCT](https://www.nuget.org/packages/GizmoSDK.CCT) | 2.12.352.1 | GizmoSDK team (gizmosdk@saabg… | Managed CCT plugin components for the GizmoSDK Plugin Framework. The package co… |
-| 2026-11-23 09:47:28 | [ISL.NetFramework.Booking.Application](https://www.nuget.org/packages/ISL.NetFramework.Booking.Application) | 2.6.1 | ISL.com | Availability engine, holiday rules, and booking orchestration for the ISL appoi… |
-| 2026-11-23 09:47:32 | [ISL.NetFramework.Booking.Infrastructure](https://www.nuget.org/packages/ISL.NetFramework.Booking.Infrastructure) | 2.6.3 | ISL.com | Vendor adapters (Microsoft Bookings via Graph), token acquisition, persistence,… |
-| 2026-11-23 09:48:30 | [ISL.NetFramework.QrCode.Application](https://www.nuget.org/packages/ISL.NetFramework.QrCode.Application) | 2.5.0 | ISL.com | Generation orchestrator and request validation for the ISL QR code framework. |
-| 2026-11-23 09:48:34 | [ISL.NetFramework.QrCode.Infrastructure](https://www.nuget.org/packages/ISL.NetFramework.QrCode.Infrastructure) | 2.5.0 | ISL.com | Renderers (QRCoder, ZXing.Net), logo compositors, and the FileUpload-backed sto… |
-| 2026-11-23 09:48:39 | [ISL.NetFramework.Scheduling](https://www.nuget.org/packages/ISL.NetFramework.Scheduling) | 1.0.0 | ISL.com | Scheduling core: database-driven schedule reconciler, generic job dispatcher, h… |
-| 2026-11-23 09:48:47 | [ISL.NetFramework.Scheduling.Abstractions](https://www.nuget.org/packages/ISL.NetFramework.Scheduling.Abstractions) | 1.0.0 | ISL.com | Scheduling contracts: handler interface, execution context, schedule descriptor… |
-| 2026-11-23 09:49:33 | [Vercel.AI.Mistral.LiveKit](https://www.nuget.org/packages/Vercel.AI.Mistral.LiveKit) | 0.4.0 | hardkoded | LiveKit adapter for the Mistral realtime transport of the community .NET port o… |
-| 2026-11-23 09:54:32 | [Modellkapitaene.BasicLibrary.Data](https://www.nuget.org/packages/Modellkapitaene.BasicLibrary.Data) | 0.0.1.52-pre | Modellkapitaene.net | Package Description |
-| 2026-11-23 09:59:56 | [SabakaLang.AspNet](https://www.nuget.org/packages/SabakaLang.AspNet) | 0.1.0 | sabaka-chabaka | Write ASP.NET Minimal API controllers in SabakaLang. |
-| 2026-11-23 10:02:02 | [Credfeto.ChangeLog.Cmd.any](https://www.nuget.org/packages/Credfeto.ChangeLog.Cmd.any) | 1.10.219.2997-pack-… | Mark Ridgwell | Changelog manager dotnet tool. |
-| 2026-11-23 10:12:05 | [H.OxyPlot.Uno.WinUI](https://www.nuget.org/packages/H.OxyPlot.Uno.WinUI) | 0.9.1 | havendv, OxyPlot contributors… | OxyPlot is a plotting library for .NET. This is package contains the UWP/WinUI/… |
-| 2026-11-23 10:17:04 | [VirtoCommerce.SiteBuilder.Data.SqlServer](https://www.nuget.org/packages/VirtoCommerce.SiteBuilder.Data.SqlServer) | 3.1000.0 | VirtoCommerce.SiteBuilder.Dat… | Package Description |
+| 2026-11-23 10:22:22 | [AIKernel.Contracts.Images](https://www.nuget.org/packages/AIKernel.Contracts.Images) | 0.1.5 | Takuya Sogawa | Provider-neutral contracts for local image editing and visual tagging in AIKern… |
+| 2026-11-23 10:24:37 | [sailflow.pure](https://www.nuget.org/packages/sailflow.pure) | 0.2.1 | sailflow.pure | sailflow pure layer aggregator: basis, baseHub, AI, engine, assignee, runtime.… |
+| 2026-11-23 10:24:42 | [sailflow.ext](https://www.nuget.org/packages/sailflow.ext) | 0.2.1 | sailflow.ext | sailflow ext layer aggregator: action, msg, bizRule, form, resource, localize,… |
+| 2026-11-23 10:24:48 | [sailflow.biz](https://www.nuget.org/packages/sailflow.biz) | 0.2.1 | sailflow.biz.pack | sailflow biz layer aggregator: host composition root, AI, docs, query. Depends… |
+| 2026-11-23 10:25:14 | [AIKernel.Providers.Image](https://www.nuget.org/packages/AIKernel.Providers.Image) | 0.1.4 | Takuya Sogawa | Local CPU illustration, background removal, and Cosmos 3 Edge visual tagging fo… |
+| 2026-11-23 10:41:12 | [PrettyGood.Uml](https://www.nuget.org/packages/PrettyGood.Uml) | 0.3.0 | prettygood | UML sequence diagrams of what a change does to the endpoints of a C# solution. |
+| 2026-11-23 10:47:34 | [Palito](https://www.nuget.org/packages/Palito) | 0.7.0 | Natan Loterio | C# binding for Palito, fast local LLM inference for GGUF models |
+| 2026-11-23 10:47:38 | [NkkinSoft.StoreReview](https://www.nuget.org/packages/NkkinSoft.StoreReview) | 2.0.0 | NkkinSoft | A modern, AOT/trim-compatible library to open store listings and request in-app… |
+| 2026-11-23 10:51:59 | [GdNetEnx.OpenIddict.RavenDB.Models](https://www.nuget.org/packages/GdNetEnx.OpenIddict.RavenDB.Models) | 1.4.0 | Jean-François Pustay | Package Description |
+| 2026-11-23 10:52:30 | [GdNetEnx.OpenIddict.RavenDB](https://www.nuget.org/packages/GdNetEnx.OpenIddict.RavenDB) | 1.4.0 | Jean-François Pustay | Package Description |
+| 2026-11-23 11:01:59 | [DroidSpeak.Core](https://www.nuget.org/packages/DroidSpeak.Core) | 0.3.0 | HC-NC | Zero-dependency, NativeAOT-compatible C# library for procedural synthesis of ex… |
+| 2026-11-23 11:06:14 | [SelectPdf.Universal.Tools.win-x64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.win-x64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the win-x… |
+| 2026-11-23 11:06:23 | [SelectPdf.Universal.Tools.win-x86](https://www.nuget.org/packages/SelectPdf.Universal.Tools.win-x86) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the win-x… |
+| 2026-11-23 11:06:30 | [SelectPdf.Universal.Tools.linux-x64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.linux-x64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the linux… |
+| 2026-11-23 11:06:37 | [SelectPdf.Universal.Tools.linux-arm64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.linux-arm64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the linux… |
+| 2026-11-23 11:06:46 | [Ark.Watch.Ai](https://www.nuget.org/packages/Ark.Watch.Ai) | 0.1.0 | Immanuel R | ARK-RAPID Watch AI layer: statistics computed in code, the skill runtime (skill… |
+| 2026-11-23 11:06:47 | [Ark.Watch.Client](https://www.nuget.org/packages/Ark.Watch.Client) | 0.1.0 | Immanuel R | ARK-RAPID Watch .NET client: fire-and-forget audit logging that never blocks or… |
+| 2026-11-23 11:06:48 | [SelectPdf.Universal.Tools.osx-arm64](https://www.nuget.org/packages/SelectPdf.Universal.Tools.osx-arm64) | 26.6.0 | SelectPdf | The platform-specific PDF tool of the SelectPdf.Universal library for the osx-a… |
+| 2026-11-23 11:06:49 | [Ark.Watch.Client.AspNetCore](https://www.nuget.org/packages/Ark.Watch.Client.AspNetCore) | 0.1.0 | Immanuel R | ARK-RAPID Watch for ASP.NET Core. One call registers the audit client from conf… |
+| 2026-11-23 11:06:50 | [Ark.Watch.Core](https://www.nuget.org/packages/Ark.Watch.Core) | 0.1.0 | Immanuel R | ARK-RAPID Watch event model, ULIDs, canonical serialisation, hashing and PII po… |
+| 2026-11-23 11:06:52 | [Ark.Watch.Integrity](https://www.nuget.org/packages/Ark.Watch.Integrity) | 0.1.0 | Immanuel R | ARK-RAPID Watch tamper evidence: Ed25519-signed chain anchors and the hash-chai… |
+| 2026-11-23 11:06:53 | [Ark.Watch.Query](https://www.nuget.org/packages/Ark.Watch.Query) | 0.1.0 | Immanuel R | ARK-RAPID Watch query DSL: the typed, validated query document the UI, the API… |
+| 2026-11-23 11:06:54 | [Ark.Watch.Settings](https://www.nuget.org/packages/Ark.Watch.Settings) | 0.1.0 | Immanuel R | ARK-RAPID Watch settings store, encrypted secret vault, setup token, admin and… |
+| 2026-11-23 11:06:56 | [Ark.Watch.Storage.Abstractions](https://www.nuget.org/packages/Ark.Watch.Storage.Abstractions) | 0.1.0 | Immanuel R | ARK-RAPID Watch sink contracts: IAuditSink, IAuditQueryStore, IAuditChainSource… |
+| 2026-11-23 11:06:58 | [Ark.Watch.Storage.AzureBlob](https://www.nuget.org/packages/Ark.Watch.Storage.AzureBlob) | 0.1.0 | Immanuel R | ARK-RAPID Watch on Azure Blob Storage: the archive sink (NDJSON.gz, determinist… |
+| 2026-11-23 11:06:59 | [Ark.Watch.Storage.ContractTests](https://www.nuget.org/packages/Ark.Watch.Storage.ContractTests) | 0.1.0 | Immanuel R | The shared sink contract suite. A provider is done when its test class, derived… |
+| 2026-11-23 11:07:01 | [Ark.Watch.Storage.S3](https://www.nuget.org/packages/Ark.Watch.Storage.S3) | 0.1.0 | Immanuel R | ARK-RAPID Watch on Amazon S3 and S3-compatible stores: the archive sink (create… |
+| 2026-11-23 11:07:02 | [Ark.Watch.Storage.Sqlite](https://www.nuget.org/packages/Ark.Watch.Storage.Sqlite) | 0.1.0 | Immanuel R | ARK-RAPID Watch SQLite sink: day shards, INSERT OR IGNORE on event_id, investig… |
+| 2026-11-23 11:07:04 | [Ark.Watch.Wal](https://www.nuget.org/packages/Ark.Watch.Wal) | 0.1.0 | Immanuel R | ARK-RAPID Watch write-ahead log: segments, group-commit fsync, recovery, cursor… |
+| 2026-11-23 11:07:05 | [Ark.Watch.Server](https://www.nuget.org/packages/Ark.Watch.Server) | 0.1.0 | Immanuel R | ARK-RAPID Watch server as a library for any ASP.NET Core app: ingestion (HTTP +… |
+| 2026-11-23 11:14:12 | [AIKernel.Providers.Flux](https://www.nuget.org/packages/AIKernel.Providers.Flux) | 0.1.5 | Takuya Sogawa | FLUX.2 klein 4B prompt image editing through a native CPU ABI and AIKernel-back… |
 
 ## Data source
 
