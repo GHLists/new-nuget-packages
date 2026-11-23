@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-11-23T09:23:33.07Z,Orkeon.Interop.AgentCli,1.4.0,Orkeon Contributors,"Experimental agent CLI provider for Orkeon (ADR-020): an Orkeon agent answered by the claude CLI on its own login, Orkeon's tools reaching it through an MCP bridge."
+2026-11-23T09:24:35.52Z,Fleans.Plugins.JavaScript,0.15.0,nightBaker,"Fleans JavaScript plugin — runs <scriptTask scriptFormat=""javascript""> out of the engine, on Jint with no .NET access."
+2026-11-23T09:42:53.33Z,UEditorNetCore10,1.0.0,UEditorNetCore,Package Description
+2026-11-23T09:45:48.033Z,GizmoSDK.GPF.Common,2.12.352.1,"GizmoSDK team (gizmosdk@saabgroup.com), Saab AB","Toolkit-independent managed GPF module contracts, properties, notifications, resources and native loading kernel. Includes the .NET 10 HeadlessHost without Avalonia, Dock or SVG rendering dependencies."
+2026-11-23T09:45:52.03Z,GizmoSDK.GPF,2.12.352.1,"GizmoSDK team (gizmosdk@saabgroup.com), Saab AB","Managed C# contracts, Avalonia presentation, native bridge and GPFMain host for building GizmoSDK plugins."
+2026-11-23T09:45:59.25Z,GizmoSDK.CCT,2.12.352.1,"GizmoSDK team (gizmosdk@saabgroup.com), Saab AB",Managed CCT plugin components for the GizmoSDK Plugin Framework. The package contains cctViewer and cctInfoView.
+2026-11-23T09:47:28.913Z,ISL.NetFramework.Booking.Application,2.6.1,ISL.com,"Availability engine, holiday rules, and booking orchestration for the ISL appointment booking framework."
+2026-11-23T09:47:32.917Z,ISL.NetFramework.Booking.Infrastructure,2.6.3,ISL.com,"Vendor adapters (Microsoft Bookings via Graph), token acquisition, persistence, and notification dispatch for the ISL appointment booking framework."
+2026-11-23T09:48:30.29Z,ISL.NetFramework.QrCode.Application,2.5.0,ISL.com,Generation orchestrator and request validation for the ISL QR code framework.
+2026-11-23T09:48:34.14Z,ISL.NetFramework.QrCode.Infrastructure,2.5.0,ISL.com,"Renderers (QRCoder, ZXing.Net), logo compositors, and the FileUpload-backed storage bridge for the ISL QR code framework."
+2026-11-23T09:48:39.857Z,ISL.NetFramework.Scheduling,1.0.0,ISL.com,"Scheduling core: database-driven schedule reconciler, generic job dispatcher, handler registry, timezone resolver and options. No Hangfire reference."
+2026-11-23T09:48:47.477Z,ISL.NetFramework.Scheduling.Abstractions,1.0.0,ISL.com,"Scheduling contracts: handler interface, execution context, schedule descriptor, repository and scheduler ports. No Hangfire reference."
+2026-11-23T09:49:33.4Z,Vercel.AI.Mistral.LiveKit,0.4.0,hardkoded,LiveKit adapter for the Mistral realtime transport of the community .NET port of the Vercel AI SDK. Wraps the Livekit.Rtc.Dotnet client. Not an official Vercel product.
+2026-11-23T09:54:32.82Z,Modellkapitaene.BasicLibrary.Data,0.0.1.52-pre,Modellkapitaene.net,Package Description
+2026-11-23T09:59:56.58Z,SabakaLang.AspNet,0.1.0,sabaka-chabaka,Write ASP.NET Minimal API controllers in SabakaLang.
+2026-11-23T10:02:02.483Z,Credfeto.ChangeLog.Cmd.any,1.10.219.2997-pack-…,Mark Ridgwell,Changelog manager dotnet tool.
+2026-11-23T10:12:05.567Z,H.OxyPlot.Uno.WinUI,0.9.1,"havendv, OxyPlot contributors, Oystein Bjorke",OxyPlot is a plotting library for .NET. This is package contains the UWP/WinUI/Uno implementation.
+2026-11-23T10:17:04.627Z,VirtoCommerce.SiteBuilder.Data.SqlServer,3.1000.0,VirtoCommerce.SiteBuilder.Data.SqlServer,Package Description
