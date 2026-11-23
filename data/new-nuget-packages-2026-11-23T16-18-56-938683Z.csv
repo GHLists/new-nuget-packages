@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-23T15:26:07.88Z,StudioElf.SiteAgent.Contracts,1.1.0,StudioElf,Contract SDK for StudioElf SiteAgent module-data providers. Implement ISiteAgentModuleProvider in a headless *.SiteAgent.dll companion assembly; SiteAgent discovers and registers it at startup. Protected with .NET Reactor; the public contract API is preserved for compilation.
+2026-11-23T15:37:53.067Z,Paradise.Encore,0.1.2,ParadiseEngine,"A dependency-free .NET audio engine for games: a 48 kHz stereo mixer for a table of positioned sound effects, and a music synthesizer that plays encore.song and Standard MIDI files with arrangeable parts. NativeAOT-compatible; no native libraries."
+2026-11-23T15:37:56.283Z,Paradise.Encore.Sdl,0.1.2,ParadiseEngine,"SDL3 device output for Paradise.Encore: plays the mixer through the default playback device at 48 kHz stereo, on desktop and in the browser."
+2026-11-23T15:39:04.993Z,AIKernel.Providers.Flux.Cuda,0.1.5,Takuya Sogawa,Windows x64 FLUX.2 klein 4B prompt image editing on NVIDIA CUDA with AIKernel-backed checkpoint pages.
+2026-11-23T15:54:36.26Z,Esatto.Umbraco.Backoffice.Build,1.0.0,Carl Schéle,"Build for Umbraco: a Content-section dashboard that shows which build is deployed on this environment and what changed in it. It reads a small build-info.json stamp written by your CI pipeline (build number, commit, branch, pipeline target, and the commits since the previous deployment), shows the…"
+2026-11-23T15:57:35.647Z,ChunkShift.Patching,0.1.1,MrFr3di,"Verified binary patches over ChunkShift manifests: reuse planning, CSP patch creation and verified reconstruction for .NET."
+2026-11-23T15:57:59.38Z,Ambysto.Kit.License,0.1.2,Ambysto,"Offline verification of Ambysto license keys (format 1): AMB- key texts and .ambystokey files, ECDSA P-256, no network."
+2026-11-23T15:59:02.517Z,Ambysto.Kit.Safety,0.2.0,Ambysto,"The file-safety gate for Ambysto apps on Windows: decides whether an item may be moved to the Recycle Bin (recoverable moves only, never-touch list, identity, cloud files, in-use check). It never changes anything."
+2026-11-23T16:08:30.977Z,VisionFlow.Core,1.0.0,VisualStudio,VisionFlow 核心模型、DAG 调度与运行引擎接口。
+2026-11-23T16:08:37.63Z,VisionFlow.Data,1.0.0,VisualStudio,VisionFlow 数据层：日志、运行历史与本地存储。
+2026-11-23T16:08:40.8Z,VisionFlow.Algorithms,1.0.0,VisualStudio,VisionFlow 算法节点集合：匹配、检测、测量、标定、脚本与深度学习。
+2026-11-23T16:08:43.933Z,VisionFlow.Engine,1.0.0,VisualStudio,VisionFlow 工作流运行引擎：检查点、断点续跑与节点执行。
+2026-11-23T16:08:45.957Z,VisionFlow.Sdk,1.0.0,VisualStudio,VisionFlow 视觉工作流 SDK：加载工作流 JSON、运行整条流程或单个节点，并以 VisionResultData 形式返回单个或多个结构化视觉结果。
+2026-11-23T16:10:13.233Z,Metano.Build.TypeScript,3.0.0,Daniel Ferreira Monteiro Alves,MSBuild integration for the Metano TypeScript target — automatically transpiles annotated C# types to TypeScript on dotnet build. Requires the Metano.Compiler.TypeScript .NET tool. Replaces Metano.Build.
