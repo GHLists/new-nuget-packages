@@ -12,40 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 21:19 UTC
+## Latest list — 2026-11-23 22:20 UTC
 
-New packages created between 2026-11-23 20:18 UTC and 2026-11-23 21:19 UTC.
+New packages created between 2026-11-23 21:19 UTC and 2026-11-23 22:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T21-19-28-655705Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T22-20-26-700351Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 20:21:22 | [GroveGames.Platform](https://www.nuget.org/packages/GroveGames.Platform) | 0.1.0 | Grove Games | Application state, display settings, a clock that resists device time changes,… |
-| 2026-11-23 20:21:55 | [ResPdfSharp](https://www.nuget.org/packages/ResPdfSharp) | 10.0.0 | Respellion (fork of the PDFsh… | ResPdfSharp (an MIT fork of PDFsharp) is the Open Source library for creating a… |
-| 2026-11-23 20:21:57 | [ResPdfSharp-MigraDoc](https://www.nuget.org/packages/ResPdfSharp-MigraDoc) | 10.0.0 | Respellion (fork of the PDFsh… | ResPdfSharp MigraDoc (fork of MigraDoc) is a .NET library that allows developer… |
-| 2026-11-23 20:22:39 | [AgentBlackbox.win-x64](https://www.nuget.org/packages/AgentBlackbox.win-x64) | 0.1.1 | Halil İbrahim Sayın | A flight recorder for AI coding agents. Records what Claude Code does into a ha… |
-| 2026-11-23 20:22:40 | [AgentBlackbox.linux-x64](https://www.nuget.org/packages/AgentBlackbox.linux-x64) | 0.1.1 | Halil İbrahim Sayın | A flight recorder for AI coding agents. Records what Claude Code does into a ha… |
-| 2026-11-23 20:22:42 | [AgentBlackbox.osx-arm64](https://www.nuget.org/packages/AgentBlackbox.osx-arm64) | 0.1.1 | Halil İbrahim Sayın | A flight recorder for AI coding agents. Records what Claude Code does into a ha… |
-| 2026-11-23 20:22:43 | [AgentBlackbox.osx-x64](https://www.nuget.org/packages/AgentBlackbox.osx-x64) | 0.1.1 | Halil İbrahim Sayın | A flight recorder for AI coding agents. Records what Claude Code does into a ha… |
-| 2026-11-23 20:22:44 | [AgentBlackbox.any](https://www.nuget.org/packages/AgentBlackbox.any) | 0.1.1 | Halil İbrahim Sayın | A flight recorder for AI coding agents. Records what Claude Code does into a ha… |
-| 2026-11-23 20:22:45 | [AgentBlackbox](https://www.nuget.org/packages/AgentBlackbox) | 0.1.1 | Halil İbrahim Sayın | A flight recorder for AI coding agents. Records what Claude Code does into a ha… |
-| 2026-11-23 20:23:04 | [GroveGames.Steering](https://www.nuget.org/packages/GroveGames.Steering) | 0.1.0 | Grove Games | Context steering that picks a movement direction from interest and danger maps,… |
-| 2026-11-23 20:30:57 | [Plugin.Maui.Spine.Server.Purchases](https://www.nuget.org/packages/Plugin.Maui.Spine.Server.Purchases) | 0.261123.1614 | Jonatan Söderberg | Purchases on the server for Spine apps: a ledger per caller with free credits,… |
-| 2026-11-23 20:34:42 | [AgentKit.Export](https://www.nuget.org/packages/AgentKit.Export) | 0.1.12 | Lenka Scherfel | "Export everything" for a Postgres-backed service: an allowlist per table (ever… |
-| 2026-11-23 20:38:41 | [Egap.Spreadsheets](https://www.nuget.org/packages/Egap.Spreadsheets) | 2.3.0 | Lars Dytterud | Spreadsheets for .NET: workbooks you create and edit from code, with sparse she… |
-| 2026-11-23 20:39:22 | [ShogunKub.Cyriller](https://www.nuget.org/packages/ShogunKub.Cyriller) | 0.2.0 | Konstantin Mi (miyconst), Mik… | Библиотека для склонения существительных, прилагательных, чисел и личных имен р… |
-| 2026-11-23 20:41:26 | [Aiursoft.DotNetWatchDog](https://www.nuget.org/packages/Aiursoft.DotNetWatchDog) | 10.0.0 | Aiursoft | Monitors ASP.NET Core runtime errors and application exceptions in ClickHouse t… |
-| 2026-11-23 20:53:41 | [Duplo.Ai.Common](https://www.nuget.org/packages/Duplo.Ai.Common) | 1.1.13 | DuploCloud | Duplo AI Helpdesk cross-cutting utilities and middleware. Shared by Model + Dat… |
-| 2026-11-23 20:53:42 | [Duplo.Ai.DataManagement](https://www.nuget.org/packages/Duplo.Ai.DataManagement) | 1.1.13 | DuploCloud | Duplo AI Helpdesk generic CRUD pipeline. GenericService, IEntityHooks, MongoRep… |
-| 2026-11-23 20:53:44 | [Duplo.Ai.FileStore](https://www.nuget.org/packages/Duplo.Ai.FileStore) | 1.1.13 | DuploCloud | Duplo AI Helpdesk storage abstraction (S3/GCS/Azure Blob/local). Transitive SDK… |
-| 2026-11-23 20:53:46 | [Duplo.Ai.InfrastructureModel](https://www.nuget.org/packages/Duplo.Ai.InfrastructureModel) | 1.1.13 | DuploCloud | Duplo AI Helpdesk infrastructure model types. Transitive SDK dependency. |
-| 2026-11-23 20:53:47 | [Duplo.Ai.Logging](https://www.nuget.org/packages/Duplo.Ai.Logging) | 1.1.13 | DuploCloud | Duplo AI Helpdesk logging utilities. Transitive SDK dependency of Duplo.Ai.Comm… |
-| 2026-11-23 20:53:49 | [Duplo.Ai.Model](https://www.nuget.org/packages/Duplo.Ai.Model) | 1.1.13 | DuploCloud | Duplo AI Helpdesk shared domain model. ResourceBase, Entity, DTOs, attributes,… |
-| 2026-11-23 20:53:50 | [Duplo.Ai.Studio.Extensibility](https://www.nuget.org/packages/Duplo.Ai.Studio.Extensibility) | 1.1.13 | DuploCloud | Extension contract for Duplo AI Helpdesk extensions. Defines IDuploExtension, t… |
-| 2026-11-23 20:53:52 | [Duplo.Ai.Studio.Extensibility.Infra](https://www.nuget.org/packages/Duplo.Ai.Studio.Extensibility.Infra) | 1.1.13 | Duplo.Ai.Studio.Extensibility… | Package Description |
-| 2026-11-23 20:53:53 | [Duplo.Client](https://www.nuget.org/packages/Duplo.Client) | 1.1.13 | Duplo.Client | Package Description |
-| 2026-11-23 20:53:55 | [Duplocloud.AiHelpdesk.Sdk](https://www.nuget.org/packages/Duplocloud.AiHelpdesk.Sdk) | 1.1.13 | DuploCloud | Extension SDK for Duplo AI Helpdesk extensions. Single reference that brings in… |
-| 2026-11-23 20:59:19 | [MVAI.UPush](https://www.nuget.org/packages/MVAI.UPush) | 1.0.0-alpha | CuPhoenix | 基于友盟 U-Push Android 自有通道的 .NET 注册与通知点击接口。 |
+| 2026-11-23 21:20:28 | [Nazor.Themes.WindowsXP](https://www.nuget.org/packages/Nazor.Themes.WindowsXP) | 0.1.1-alpha | Nazor | Windows XP Luna-inspired light control styles for Nazor. |
+| 2026-11-23 21:21:35 | [Nazor.Themes.Adwaita](https://www.nuget.org/packages/Nazor.Themes.Adwaita) | 0.1.1-alpha | Nazor | Light and dark control styles based on Libadwaita 1.10, with private Adwaita fo… |
+| 2026-11-23 21:34:06 | [GroveGames.Audio](https://www.nuget.org/packages/GroveGames.Audio) | 0.1.0 | Grove Games | Music and sound effect playback with playlists and fades |
+| 2026-11-23 21:34:17 | [Epsilon.Solving](https://www.nuget.org/packages/Epsilon.Solving) | 1.0.0 | Max Zakharov | Equation solving for the Epsilon symbolic math library. Exact solutions of equa… |
+| 2026-11-23 21:44:02 | [SparkplugNet.nanoFramework](https://www.nuget.org/packages/SparkplugNet.nanoFramework) | 1.5.0 | SeppPenner | Sparkplug B Edge Node for .NET nanoFramework over MQTT 3.1.1, supporting the Sp… |
+| 2026-11-23 21:55:24 | [BccCode.Privacy.Postgres](https://www.nuget.org/packages/BccCode.Privacy.Postgres) | 0.17.0 | BCC | The PostgreSQL layer of BCC Privacy: the privacy columns, column comments, cons… |
+| 2026-11-23 22:08:12 | [Gleanvolt.Providers.Contracts](https://www.nuget.org/packages/Gleanvolt.Providers.Contracts) | 1.3.1 | Martin Pospisil | The wire contract between Gleanvolt and an external data provider (#386): the h… |
+| 2026-11-23 22:08:14 | [Gleanvolt.Providers.Client](https://www.nuget.org/packages/Gleanvolt.Providers.Client) | 1.3.1 | Martin Pospisil | Write an external data provider for Gleanvolt (#386): connects to Gleanvolt ove… |
+| 2026-11-23 22:08:15 | [Gleanvolt.Providers.Testing](https://www.nuget.org/packages/Gleanvolt.Providers.Testing) | 1.3.1 | Martin Pospisil | Test a Gleanvolt charger plugin without Gleanvolt (#439): a charger hub on a lo… |
+| 2026-11-23 22:08:16 | [Gleanvolt.Chargers.Hosting](https://www.nuget.org/packages/Gleanvolt.Chargers.Hosting) | 1.3.1 | Martin Pospisil | Write a Gleanvolt charger plugin in a few files: the host, the page Gleanvolt f… |
+| 2026-11-23 22:08:17 | [Gleanvolt.Modbus](https://www.nuget.org/packages/Gleanvolt.Modbus) | 1.3.1 | Martin Pospisil | A Modbus TCP client that keeps its connection healthy (#439): one request at a… |
+| 2026-11-23 22:08:54 | [Packata.ExtendedTypes](https://www.nuget.org/packages/Packata.ExtendedTypes) | 1.39.0 | Cédric L. Charlier | Optional NetTopologySuite and Chrononuensis CLR representations and reader bind… |
+| 2026-11-23 22:08:57 | [IdeaBlade.Validation](https://www.nuget.org/packages/IdeaBlade.Validation) | 0.1.0 | IdeaBlade | Data-store agnostic, metadata-driven validation framework. Server-side (.NET) c… |
+| 2026-11-23 22:10:07 | [PinguApps.Playbook](https://www.nuget.org/packages/PinguApps.Playbook) | 1.0.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
 
 ## Data source
 
