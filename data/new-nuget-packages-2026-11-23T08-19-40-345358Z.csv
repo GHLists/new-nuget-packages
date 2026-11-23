@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-23T07:20:51.543Z,IFramework.Snowflake.Redis,8.0.5.6,IFramework.Snowflake.Redis,Package Description
+2026-11-23T07:24:32.58Z,Tralys.Ecs.Executor.Pool,0.1.0,Tralys.Ecs contributors,WorkerPool for Tralys.Ecs: dedicated worker threads for parallel queries.
+2026-11-23T07:24:33.317Z,Tralys.Ecs.Testing,0.1.0,Tralys.Ecs contributors,"Test helpers for Tralys.Ecs: WorldHarness, WorldDiff, AllocationAssert and ShuffledExecutor, for determinism and allocation tests."
+2026-11-23T07:24:34.087Z,Tralys.Ecs,0.1.0,Tralys.Ecs contributors,"A source-generated entity component system: worlds, archetype storage, relations, hierarchy, commands, observers and change tracking, with its generator and analyzers."
+2026-11-23T07:24:34.913Z,Tralys.Ecs.Scheduling,0.1.0,Tralys.Ecs contributors,"Schedules for Tralys.Ecs: systems in sets, run conditions, cadences, fault quarantine, playback points and schedule observers."
+2026-11-23T07:35:26.89Z,InstallKit.WixSharp,1.0.0,Luca,"WixSharp (WiX 4+, .NET Framework) engine for InstallKit."
+2026-11-23T07:35:27.403Z,InstallKit.Abstractions,1.0.0,Luca,Engine-neutral installer model for InstallKit (MSI packages and bundles).
+2026-11-23T07:35:27.803Z,InstallKit.Sdk,1.0.0,Luca,MSBuild SDK for InstallKit installer projects: dotnet build produces your MSI and setup bundle.
+2026-11-23T07:35:28.093Z,InstallKit.WixSharp.Core,1.0.0,Luca,"WixSharp.Core (WiX 4+, .NET 10) engine for InstallKit. Preview."
+2026-11-23T07:35:28.51Z,InstallKit.Templates,1.0.0,Luca,dotnet new templates for InstallKit installer projects.
+2026-11-23T07:39:06.13Z,GrayMint.Common.OpenApi.ClientGenerator,2.1.321,GrayMint,"An API's C# and TypeScript clients, generated on the client project's build from the API project's own OpenAPI document, with one set of NSwag settings for every client"
+2026-11-23T07:48:06.363Z,NWpfThemes,1.0.0,Duško Žigić,"Themes for the standard WPF controls: dark, light, high contrast, hardware-style and glass themes. Every theme fills the same public resource keys and every style uses DynamicResource, so themes switch live and custom themes are a single file."
+2026-11-23T07:56:01.547Z,AppOS.SMS,10.0.1,Li Chun Sheng,高效、易用、强大的短信通用能力库，提供短信模板发送、变量替换、批量发送、验证码、发送统计、异步投递等能力。
+2026-11-23T07:56:22.693Z,AppOS.SMS.SendCloud,10.0.1,Li Chun Sheng,基于 SendCloud 协议的高效、易用、强大的短信能力库，提供短信模板发送、变量替换、批量发送、发送统计、异步投递等能力。
+2026-11-23T07:58:50.497Z,AIKernel.Dawn.Provider,0.1.4,Takuya Sogawa,"Optional native Dawn/WebGPU compute provider for AIKernel 0.1.4, with hardware diagnostics and deterministic compute results."
+2026-11-23T08:02:55.31Z,LsMsgPack.Lz4,2026.11.23.1,Louis Somers,"LZ4 compression for LsMsgPack and LsMsgPackDebug (MsgPackOptions.Compression = Lz4Compression.Block): the format of MessagePack-CSharp's Lz4Block and Lz4BlockArray, so each reads what the other writes. Brings K4os.Compression.LZ4 along; the serializers themselves depend on no compression package."
+2026-11-23T08:06:49.44Z,Forumz.Core,1.0.0,Matt Gordon,Constants and options for Forumz with no web or database dependency.
+2026-11-23T08:06:54.22Z,Forumz.Models,1.0.0,Matt Gordon,Requests and page models for Forumz.
+2026-11-23T08:06:59.647Z,Forumz.Data,1.0.0,Matt Gordon,Forumz entities and the provider-agnostic Entity Framework context.
+2026-11-23T08:07:07.05Z,Forumz.Data.MySql,1.0.0,Matt Gordon,MySQL storage for Forumz.
+2026-11-23T08:07:12.487Z,Forumz.Data.Npgsql,1.0.0,Matt Gordon,PostgreSQL storage for Forumz.
+2026-11-23T08:07:17.803Z,Forumz.Data.Sql,1.0.0,Matt Gordon,SQL Server storage for Forumz.
+2026-11-23T08:07:23.043Z,Forumz.Data.Sqlite,1.0.0,Matt Gordon,SQLite storage for Forumz.
+2026-11-23T08:07:29.48Z,Forumz.Services,1.0.0,Matt Gordon,"Forum services. The host supplies a storage provider and, when it has one, its own permissions."
+2026-11-23T08:07:37.847Z,Forumz,1.0.0,Matt Gordon,A Blazor forum that mounts into any ASP.NET Core site.
+2026-11-23T08:08:15.183Z,miniOrange.Umbraco.Mcp.Server,1.0.1,miniOrange InC.,"Umbraco package that hosts an MCP endpoint so agentic AI clients can manage templates, backoffice users, content documents, and members."
