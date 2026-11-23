@@ -12,22 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 01:20 UTC
+## Latest list — 2026-11-23 02:21 UTC
 
-New packages created between 2026-11-23 00:20 UTC and 2026-11-23 01:20 UTC.
+New packages created between 2026-11-23 01:20 UTC and 2026-11-23 02:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-23T01-20-39-530978Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-23T02-21-34-20146Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 00:36:35 | [MiniExcel.Core](https://www.nuget.org/packages/MiniExcel.Core) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
-| 2026-11-23 00:38:59 | [MiniExcel.OpenXml](https://www.nuget.org/packages/MiniExcel.OpenXml) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
-| 2026-11-23 00:39:42 | [SpawnDev.Blazor.BootRecovery](https://www.nuget.org/packages/SpawnDev.Blazor.BootRecovery) | 1.0.0 | LostBeard | Temporary fix for dotnet/runtime#135090: a Blazor WebAssembly app whose browser… |
-| 2026-11-23 00:39:58 | [MiniExcel.Csv](https://www.nuget.org/packages/MiniExcel.Csv) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
-| 2026-11-23 00:40:23 | [Lierne.Core](https://www.nuget.org/packages/Lierne.Core) | 0.1.0 | FrigaT | Plugin catalog, contribution registries and composition validation of the Liern… |
-| 2026-11-23 00:40:24 | [Lierne.Abstractions](https://www.nuget.org/packages/Lierne.Abstractions) | 0.1.0 | FrigaT | Contracts, identifiers and contribution descriptors of the Lierne IDE compositi… |
-| 2026-11-23 00:40:25 | [Lierne](https://www.nuget.org/packages/Lierne) | 0.1.0 | FrigaT | Flare IDE host for Lierne - shell layout, documents, tool windows, ribbon and s… |
-| 2026-11-23 00:41:19 | [MiniExcel.OpenXml.FluentMapping](https://www.nuget.org/packages/MiniExcel.OpenXml.FluentMapping) | 2.0.0 | Wei Lin, Michele Bastione, PI… | Lightweight, fast and simple .NET processing tool for importing, exporting and… |
+| 2026-11-23 01:24:06 | [CodeBrix.WebPlatform.Styling.Tailwind4.LinuxArm64.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.WebPlatform.Styling.Tailwind4.LinuxArm64.MitLicenseForever) | 1.0.327.82 | Jeremy Ellis | The prebuilt standalone Tailwind CSS 4.3.5 program (tailwindcss) for Linux Arm6… |
+| 2026-11-23 01:24:45 | [CodeBrix.WebPlatform.Styling.Tailwind4.LinuxX64.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.WebPlatform.Styling.Tailwind4.LinuxX64.MitLicenseForever) | 1.0.327.82 | Jeremy Ellis | The prebuilt standalone Tailwind CSS 4.3.5 program (tailwindcss) for Linux x64… |
+| 2026-11-23 01:24:47 | [HybridModelBinding2](https://www.nuget.org/packages/HybridModelBinding2) | 1.0.0 | Bill Boga,David Grieve | Bind one ASP.NET Core MVC model from the request body, form, route, query strin… |
+| 2026-11-23 01:25:18 | [CodeBrix.WebPlatform.Styling.Tailwind4.MacOSArm64.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.WebPlatform.Styling.Tailwind4.MacOSArm64.MitLicenseForever) | 1.0.327.82 | Jeremy Ellis | The prebuilt standalone Tailwind CSS 4.3.5 program (tailwindcss) for macOS Arm6… |
+| 2026-11-23 01:25:56 | [CodeBrix.WebPlatform.Styling.Tailwind4.MacOSX64.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.WebPlatform.Styling.Tailwind4.MacOSX64.MitLicenseForever) | 1.0.327.82 | Jeremy Ellis | The prebuilt standalone Tailwind CSS 4.3.5 program (tailwindcss) for macOS x64… |
+| 2026-11-23 01:26:41 | [CodeBrix.WebPlatform.Styling.Tailwind4.Sources](https://www.nuget.org/packages/CodeBrix.WebPlatform.Styling.Tailwind4.Sources) | 1.0.327.82 | Jeremy Ellis | The source code of the prebuilt standalone Tailwind CSS 4.3.5 programs that the… |
+| 2026-11-23 01:27:30 | [CodeBrix.WebPlatform.Styling.Tailwind4.WindowsX64.MitLicenseForever](https://www.nuget.org/packages/CodeBrix.WebPlatform.Styling.Tailwind4.WindowsX64.MitLicenseForever) | 1.0.327.82 | Jeremy Ellis | The prebuilt standalone Tailwind CSS 4.3.5 program (tailwindcss) for Windows x6… |
+| 2026-11-23 01:36:55 | [ZFormat](https://www.nuget.org/packages/ZFormat) | 2.0.0 | Cristobal Rodas | Biblioteca de C# para crear interfaces de consola con controles, paneles, tabla… |
+| 2026-11-23 01:54:38 | [SyntaxCircus.Maui.StoreReview](https://www.nuget.org/packages/SyntaxCircus.Maui.StoreReview) | 0.1.0 | Syntax Circus LLC | In-app review prompts and store write-review links for MAUI apps on iOS (SKStor… |
 
 ## Data source
 
