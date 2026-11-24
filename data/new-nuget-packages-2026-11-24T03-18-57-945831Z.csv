@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-24T02:25:25.857Z,PortraitGeometry.EyeLine,0.1.0,js-upup,Compute a portrait leveling rotation from two eye landmarks. Source-only C# content for .NET 8.
+2026-11-24T02:34:48.26Z,HandlerR,1.0.0,HandlerR Contributors,"In-process message dispatcher: requests, notifications, streaming, pipeline behaviors, exception mapping and built-in observability. Bundles HandlerR.Abstractions, HandlerR.Core and HandlerR.DependencyInjection, and ships the compile-time dispatch generator."
+2026-11-24T02:35:21.893Z,HandlerR.Contracts,1.0.0,HandlerR Contributors,"Contracts package for requests, responses, and notifications."
+2026-11-24T02:35:35.69Z,HandlerR.FluentValidation,1.0.0,HandlerR Contributors,Optional FluentValidation adapter for HandlerR. Implemented in-house; does not depend on any third-party mediator integration package.
+2026-11-24T02:40:30.54Z,UrcConverter,0.2.1,CloudHolic,"URC (Universal Rhythm Chart) parser, serializer, playback rate scaler, and VSRG chart converter library."
+2026-11-24T02:42:18.313Z,EasyAdminBlazor.Sms,2.7.0,gudufy,EasyAdminBlazor 短信发送扩展：聚合阿里云、腾讯云、SendCloud 三家短信平台，纯 HTTP 实现（各平台签名自行计算），不引用任何官方 SDK
+2026-11-24T03:06:23.313Z,Skywithin.Backlog,0.1.0,Max Vagner,"A markdown backlog in your repository (backlog/items/*.md with frontmatter) and the commands that keep it consistent: rebuild the index, lint, set fields, query, renumber, draw a graph. Also checks commit subjects, summarises dotnet build and test logs, and tracks test durations. Settings come from…"
