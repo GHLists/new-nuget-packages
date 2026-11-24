@@ -1,0 +1,24 @@
+created_at,package,version,authors,description
+2026-11-24T01:24:55.267Z,FileResources.Core,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron",Independent file resource models and storage contracts.
+2026-11-24T01:25:02.22Z,UltronFramework.FileManager.S3,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron",Shared S3-compatible storage implementation for UltronFramework.
+2026-11-24T01:25:04.643Z,UltronFramework.FileManager.Storage,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron","Versioned FileResource storage profiles, temporal routing and recoverable migrations."
+2026-11-24T01:25:06.92Z,FileResources.AspNetCore,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron",ASP.NET Core delivery and configuration for independent file resources.
+2026-11-24T01:25:09.817Z,FileResources.Imaging.SkiaSharp,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron","PNG, JPEG and WebP processing using SkiaSharp, independent of storage providers."
+2026-11-24T01:26:22.567Z,UltronFramework.Cli,10.0.15,UltronFramework,CLI tool for UltronFramework scaffolding and code generation
+2026-11-24T01:26:28.6Z,UltronFramework.DistributedTracing,10.0.15,Deyvi Josue Ortiz Vidaurre,Componentes que permite realizar trazado distribuido de los componentes adicionados.
+2026-11-24T01:26:30.807Z,UltronFramework.FileManager.MinIO,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron",MinIO integration for UltronFramework IFileManager.
+2026-11-24T01:26:33.053Z,UltronFramework.FileManager.SeaweedFS,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron",SeaweedFS integration for UltronFramework IFileManager.
+2026-11-24T01:26:39.197Z,UltronFramework.RegistryDiscovery,10.0.15,Deyvi Josue Ortiz Vidaurre,Componentes que permite realizar registro de descubrimiento de los componentes adicionados.
+2026-11-24T01:26:41.603Z,UltronFramework.SourceGenerators,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron","CRUD Code Generator for UltronFramework Clean Architecture. Generates Entity, Filter, StoreParam, Repository, Service, EntityMap, and Endpoints from decorated DTOs using Roslyn Source Generators."
+2026-11-24T01:26:44.15Z,UltronFramework.SourceGenerators.Contracts,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron","Attributes for UltronFramework CRUD Code Generator. Reference this package to decorate your DTOs with [UltronCrud], [UltronCrudProperty], etc."
+2026-11-24T01:27:04.73Z,UltronFramework.SourceGenerators.Tool,10.0.15,"Consorcio Creativo, Gonzalo Ernesto Perez Moron",CLI tool for generating CRUD files in source folders for UltronFramework Clean Architecture. Use this for design-time file generation as alternative to Source Generators.
+2026-11-24T01:32:50.87Z,Okisioli.Teacups.UI.Fastr.WPF,0.6.0,Oliver,Small WPF behaviors and collections.
+2026-11-24T01:34:46.077Z,Hermoso.Sdk,0.1.4,Hermoso,"Typed .NET client for the Hermoso API: generate ads, publish and schedule posts, read analytics, and call every Hermoso tool from your own backend."
+2026-11-24T01:42:17.7Z,Nucleo.Core,0.1.0-alpha,José Manuel Mejía Martínez,"Núcleo: base portable y multiplataforma para aplicaciones .NET en Linux, Windows, macOS, Android e iOS."
+2026-11-24T01:42:18.343Z,Nucleo.Linux,0.1.0-alpha,José Manuel Mejía Martínez,"Implementaciones Linux para Nucleo: archivos, batería, conectividad, notificaciones y más, sin GTK ni MAUI."
+2026-11-24T01:42:19.097Z,Nucleo.Platform.Abstractions,0.1.0-alpha,José Manuel Mejía Martínez,"Interfaces de servicios de plataforma para Nucleo (Linux, Windows, macOS, Android, iOS)."
+2026-11-24T01:47:18.9Z,LinqStore,1.0.0-beta,jxjnice,以 LINQ 为原生查询语言的嵌入式复合数据库引擎，单一引擎覆盖关系型 / KV / 文档型 / 时序型四类模型，支持持久化、并发快照读、MVCC、8KB 分页存储、多表 Join 优化、联邦查询与时序冷热分层。
+2026-11-24T01:51:24.797Z,Serilog.Sinks.AutoTicket,1.2.1,Solutions Group Unlimited LLC,"Serilog sink that sends error events to the AutoTicket service, which turns them into Azure DevOps work items. Durable local buffer, batching, scrubbing of personal data and secrets, and repeat collapsing are built in."
+2026-11-24T01:55:56.403Z,Clutils,0.1.0,urzuaf,"Suite de utilidades canónicas, atómicas y sin dependencias externas para proyectos que operan en o con Chile."
+2026-11-24T02:12:12.84Z,Kkdev92.Jev.Extensions.AI.Evaluation,0.3.0-alpha,kkdev92,"Microsoft.Extensions.AI.Evaluation integration for Kkdev92.Jev, the unofficial .NET SDK for Jev: one decision about a request and its reply, turned into metrics."
+2026-11-24T02:12:13.317Z,Kkdev92.Jev.Extensions.AI,0.3.0-alpha,kkdev92,"Microsoft.Extensions.AI integration for Kkdev92.Jev, the unofficial .NET SDK for Jev: a decision that guards or routes any IChatClient, or that a model calls as an AIFunction."
