@@ -12,28 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:20 UTC
+## Latest list — 2026-11-24 01:19 UTC
 
-New packages created between 2026-11-23 23:21 UTC and 2026-11-24 00:20 UTC.
+New packages created between 2026-11-24 00:20 UTC and 2026-11-24 01:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T00-20-41-609715Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T01-19-10-009801Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-23 23:30:00 | [AIKernel.Providers.Stt](https://www.nuget.org/packages/AIKernel.Providers.Stt) | 0.1.4 | Takuya Sogawa | Local CPU WAV transcription with the pinned multilingual Whisper small model. |
-| 2026-11-23 23:31:39 | [Svg.Editor.Skia.Uno](https://www.nuget.org/packages/Svg.Editor.Skia.Uno) | 7.0.5 | Wiesław Šoltés | Reusable SVG editor workspace and accelerated canvas for Uno Platform. |
-| 2026-11-23 23:31:43 | [Svg.Editor.Mcp](https://www.nuget.org/packages/Svg.Editor.Mcp) | 5.2.4 | Wiesław Šoltés | Shared MCP protocol and automation adapters for the SVG editor. |
-| 2026-11-23 23:31:55 | [Svg.Editor.Mcp.Hosting](https://www.nuget.org/packages/Svg.Editor.Mcp.Hosting) | 5.2.4 | Wiesław Šoltés | Local MCP hosting and browser relay for the SVG editor. |
-| 2026-11-23 23:32:02 | [EaseFilter.FileSecurity](https://www.nuget.org/packages/EaseFilter.FileSecurity) | 5.8.8.1 | EaseFilter | The EaseFilter File Security SDK is a comprehensive, modular framework designed… |
-| 2026-11-23 23:48:52 | [DotReticulum.Applications](https://www.nuget.org/packages/DotReticulum.Applications) | 1.5.7.158 | DotReticulum contributors | DotReticulum runtime host (ReticulumNode) and Reticulum utility implementations. |
-| 2026-11-23 23:48:54 | [DotReticulum.Core](https://www.nuget.org/packages/DotReticulum.Core) | 1.5.7.158 | DotReticulum contributors | Reticulum identities, destinations, packet codec and interface manager for DotR… |
-| 2026-11-23 23:48:55 | [DotReticulum.Crypto](https://www.nuget.org/packages/DotReticulum.Crypto) | 1.5.7.158 | DotReticulum contributors | Ed25519, X25519, HKDF-SHA256 and Reticulum token primitives for DotReticulum. |
-| 2026-11-23 23:48:57 | [DotReticulum.Interfaces](https://www.nuget.org/packages/DotReticulum.Interfaces) | 1.5.7.158 | DotReticulum contributors | Reticulum UDP, TCP, serial and other network interfaces for DotReticulum. |
-| 2026-11-23 23:48:58 | [DotReticulum.Transport](https://www.nuget.org/packages/DotReticulum.Transport) | 1.5.7.158 | DotReticulum contributors | Reticulum announces, routing, path discovery, links, channels and resources for… |
-| 2026-11-23 23:58:28 | [GameEventScript.Network](https://www.nuget.org/packages/GameEventScript.Network) | 0.6.0 | Stephan Schlöpke | Portable, synchronous Game Event Script network sessions over schema-declared r… |
-| 2026-11-23 23:58:29 | [GameEventScript.Network.Sockets](https://www.nuget.org/packages/GameEventScript.Network.Sockets) | 0.6.0 | Stephan Schlöpke | TCP, WebSocket and UDP transports for Game Event Script network sessions. Backg… |
-| 2026-11-24 00:02:05 | [Winche.Integrity](https://www.nuget.org/packages/Winche.Integrity) | 1.0.0 | Ehsan Rashidi | Winche Integrity: a project's apps prove they're its own (App Attest, Play Inte… |
-| 2026-11-24 00:02:06 | [Winche.Integrity.AspNetCore](https://www.nuget.org/packages/Winche.Integrity.AspNetCore) | 1.0.0 | Ehsan Rashidi | Winche Integrity for ASP.NET Core: the apps' token exchange (/integrity/v1/exch… |
+| 2026-11-24 00:22:50 | [ONI_Together_API](https://www.nuget.org/packages/ONI_Together_API) | 0.8.0 | Lyraedan, Sgt_Imalas | API for third-party mods to add multiplayer features to Oxygen Not Included Tog… |
+| 2026-11-24 00:26:01 | [EvilHop](https://www.nuget.org/packages/EvilHop) | 0.4.0 | Suprnova | A .NET library for reading, writing, and manipulating HIP archive files, the bi… |
+| 2026-11-24 00:29:37 | [SimpleSign.Adobe.Aatl.Cli](https://www.nuget.org/packages/SimpleSign.Adobe.Aatl.Cli) | 0.16.0 | SimpleSign Contributors | The Adobe Approved Trust List (AATL) for the SimpleSign CLI, installed with 'si… |
+| 2026-11-24 00:29:43 | [SimpleSign.Adobe.Aatl](https://www.nuget.org/packages/SimpleSign.Adobe.Aatl) | 0.16.0 | SimpleSign Contributors | Adobe Approved Trust List (AATL) for SimpleSign: the trust anchors Acrobat trus… |
+| 2026-11-24 00:32:01 | [ToucanHub.EventStore.ChannelBus](https://www.nuget.org/packages/ToucanHub.EventStore.ChannelBus) | 0.7.0 | junglistkirss | Channel-based EventStore bus |
+| 2026-11-24 00:34:59 | [Ahsoka.Extensions.Bluetooth.AudioRouting](https://www.nuget.org/packages/Ahsoka.Extensions.Bluetooth.AudioRouting) | 6.0.1 | Ahsoka.Extensions.Bluetooth.A… | Bluetooth Audio Routing for OpenPV // 60f365e6af3b712659435adb8e2f8c34e4c7c2f5… |
+| 2026-11-24 00:35:00 | [Ahsoka.Extensions.Bluetooth.AudioRouting.Client](https://www.nuget.org/packages/Ahsoka.Extensions.Bluetooth.AudioRouting.Client) | 6.0.1 | Ahsoka.Extensions.Bluetooth.A… | OpenPV Bluetooth audio routing service client and contracts. |
+| 2026-11-24 00:35:01 | [Ahsoka.Extensions.Bluetooth.Client](https://www.nuget.org/packages/Ahsoka.Extensions.Bluetooth.Client) | 6.0.1 | Ahsoka.Extensions.Bluetooth.C… | OpenPV Bluetooth service clients and contracts. |
+| 2026-11-24 00:37:56 | [Ouro.Actions](https://www.nuget.org/packages/Ouro.Actions) | 0.12.1 | Ouro | Ouro UI's action runtime for Windows apps: input validation, idempotency, audit… |
+| 2026-11-24 00:37:57 | [Ouro.UI.Windows](https://www.nuget.org/packages/Ouro.UI.Windows) | 0.12.1 | Ouro | Ouro UI for Windows: Button, Badge, Card, Item, Checkbox, Switch, Select, Field… |
+| 2026-11-24 00:45:31 | [ScannerSdk](https://www.nuget.org/packages/ScannerSdk) | 2.2.0 | NetumScan | .NET C# wrapper for Scanner SDK C API, with USB CDC preferred on Windows and ma… |
+| 2026-11-24 00:45:53 | [EaseFilter.FileControl](https://www.nuget.org/packages/EaseFilter.FileControl) | 5.8.8.1 | EaseFilter | The EaseFilter File Control SDK is a powerful development toolkit designed for… |
+| 2026-11-24 00:50:05 | [WinForms.Easel.Generator](https://www.nuget.org/packages/WinForms.Easel.Generator) | 1.0.0 | Axvser | XAML compiler and dependency-property source generators for Easel. |
+| 2026-11-24 00:55:56 | [WinForms.Easel](https://www.nuget.org/packages/WinForms.Easel) | 1.0.0 | Axvser | A XAML-first UI runtime for WinForms: dependency properties, a Roslyn XAML comp… |
+| 2026-11-24 01:08:13 | [MundoSMS](https://www.nuget.org/packages/MundoSMS) | 1.0.0 | MundoSMS | Cliente de la API REST v3 de MundoSMS (centralita, llamadas, SMS, VozPush, NumC… |
+| 2026-11-24 01:12:52 | [Movensys.Login.Core](https://www.nuget.org/packages/Movensys.Login.Core) | 1.1.0 | Movensys Application Team | Created by Movensys Application Team with login timeout, account level, quick l… |
+| 2026-11-24 01:13:48 | [Movensys.Login.WinForms](https://www.nuget.org/packages/Movensys.Login.WinForms) | 1.1.0 | Movensys Application Team | Created by Movensys Application Team with login dialog, remain time view and ac… |
+| 2026-11-24 01:14:40 | [Movensys.gRPC.Client.WinForms](https://www.nuget.org/packages/Movensys.gRPC.Client.WinForms) | 1.0.21 | Movensys Application Team | Created by Movensys Application Team with gRPC Client GUI functionality |
 
 ## Data source
 
