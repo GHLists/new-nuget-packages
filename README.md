@@ -12,30 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 14:20 UTC
+## Latest list — 2026-11-24 15:21 UTC
 
-New packages created between 2026-11-24 13:20 UTC and 2026-11-24 14:20 UTC.
+New packages created between 2026-11-24 14:20 UTC and 2026-11-24 15:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T14-20-44-33574Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T15-21-42-507484Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 13:25:06 | [TheBuilder.CacheTags](https://www.nuget.org/packages/TheBuilder.CacheTags) | 0.1.0 | Daniel Schmidt | Tag Umbraco Delivery API responses with cache keys, and purge exactly the right… |
-| 2026-11-24 13:33:51 | [Vespertan.Avalonia.DataGrid](https://www.nuget.org/packages/Vespertan.Avalonia.DataGrid) | 1.1.0 | Vespertan | Vespertan fork of the Avalonia DataGrid control, with Fluent and Simple themes. |
-| 2026-11-24 13:35:26 | [Nox.Grid](https://www.nuget.org/packages/Nox.Grid) | 1.0.0 | Nox | NoxGrid: a custom-drawn WinForms grid and spreadsheet component (.NET Framework… |
-| 2026-11-24 13:35:28 | [Nox.Grid.Server](https://www.nuget.org/packages/Nox.Grid.Server) | 1.0.0 | Nox | Server package for the NoxGrid web grid (@novnox/grid), .NET Standard 2.0 (.NET… |
-| 2026-11-24 13:55:12 | [LogMill](https://www.nuget.org/packages/LogMill) | 2.3.3 | Rare Crew | Library contains object called BaseLogMillHandler (and something more) which re… |
-| 2026-11-24 13:55:35 | [LogMill.Web](https://www.nuget.org/packages/LogMill.Web) | 2.3.0 | Rare Crew | Library contains extension methods for BaseLogMillHandler, which allow logging… |
-| 2026-11-24 13:55:46 | [LogMill.ApplicationStatus](https://www.nuget.org/packages/LogMill.ApplicationStatus) | 2.3.2 | Rare Crew | Library contains extension methods for BaseLogMillHandler, which allow logging… |
-| 2026-11-24 13:55:56 | [LogMill.ApplicationStatus.Web](https://www.nuget.org/packages/LogMill.ApplicationStatus.Web) | 2.3.2 | Rare Crew | Library contains extension methods for BaseLogMillHandler, which implements bas… |
-| 2026-11-24 13:57:26 | [Signals.Aspects.Configuration.AzureKeyVault](https://www.nuget.org/packages/Signals.Aspects.Configuration.AzureKeyVault) | 4.0.0 | Signals.Aspects.Configuration… | Package Description |
-| 2026-11-24 14:02:26 | [Datatrans.Net](https://www.nuget.org/packages/Datatrans.Net) | 1.0.0 | Clément Favre | Unofficial .NET client for the Datatrans payment API (v1): transactions (init,… |
-| 2026-11-24 14:03:43 | [KpsV2.Client](https://www.nuget.org/packages/KpsV2.Client) | 2.0.1 | colakkonur | Sağlık Bakanlığı Kimlik Paylaşım Sistemi (KPS v2) için resmî olmayan .NET istem… |
-| 2026-11-24 14:10:27 | [StudioElf.IssueTracker.Sdk](https://www.nuget.org/packages/StudioElf.IssueTracker.Sdk) | 1.0.0 | StudioElf | Standalone .NET client for the StudioElf CRM Issue Tracker error ingestion API.… |
-| 2026-11-24 14:10:47 | [StudioElf.IssueTracker.Sdk.Logging](https://www.nuget.org/packages/StudioElf.IssueTracker.Sdk.Logging) | 1.0.0 | StudioElf | Microsoft.Extensions.Logging provider for the StudioElf Issue Tracker SDK. Capt… |
-| 2026-11-24 14:11:03 | [StudioElf.IssueTracker.Sdk.Serilog](https://www.nuget.org/packages/StudioElf.IssueTracker.Sdk.Serilog) | 1.0.0 | StudioElf | Optional Serilog sink for the StudioElf Issue Tracker SDK. The core SDK does no… |
-| 2026-11-24 14:11:18 | [StudioElf.IssueTracker.Sdk.Oqtane](https://www.nuget.org/packages/StudioElf.IssueTracker.Sdk.Oqtane) | 1.0.0 | StudioElf | Oqtane enrichment for the StudioElf Issue Tracker SDK: platform version, entry-… |
-| 2026-11-24 14:14:41 | [RungerHeimdall.Engine](https://www.nuget.org/packages/RungerHeimdall.Engine) | 1.0.0 | RungerHeimdall contributors | Host-independent rule engine shared by RungerHeimdall analyzers and CLI. |
+| 2026-11-24 14:41:34 | [CoreGame.SharedMeta.Inspector.Mcp](https://www.nuget.org/packages/CoreGame.SharedMeta.Inspector.Mcp) | 0.49.0 | CoreGame.IO | Preview: the API may change in minor versions. MCP endpoint over the SharedMeta… |
+| 2026-11-24 14:41:35 | [CoreGame.SharedMeta.Inspector.Nats](https://www.nuget.org/packages/CoreGame.SharedMeta.Inspector.Nats) | 0.49.0 | CoreGame.IO | Preview: the API may change in minor versions. NATS JetStream broker for the Sh… |
+| 2026-11-24 14:41:37 | [CoreGame.SharedMeta.Inspector.Service](https://www.nuget.org/packages/CoreGame.SharedMeta.Inspector.Service) | 0.49.0 | CoreGame.IO | Preview: the API may change in minor versions. Standalone SharedMeta Inspector:… |
+| 2026-11-24 14:41:40 | [CoreGame.SharedMeta.Inspector](https://www.nuget.org/packages/CoreGame.SharedMeta.Inspector) | 0.49.0 | CoreGame.IO | Preview: the API may change in minor versions. Silo-side call inspector: captur… |
+| 2026-11-24 14:44:32 | [TesseractOCRPdf](https://www.nuget.org/packages/TesseractOCRPdf) | 5.5.3 | Kees van Spelde | Optional PDF OCR extensions for TesseractOCR Engine and EnginePool, using PDFiu… |
+| 2026-11-24 14:53:19 | [OmniBuf.Grpc](https://www.nuget.org/packages/OmniBuf.Grpc) | 0.1.6 | OmniBuf Contributors | Detached Grpc.Core.Api marshaller integration for OmniBuf v1 DRAFT-1 binary ser… |
+| 2026-11-24 14:56:42 | [ZeroAlloc.Memory](https://www.nuget.org/packages/ZeroAlloc.Memory) | 0.1.0 | Markism-JA | Zero-allocation unmanaged memory allocators, linear arenas, mirrored virtual-me… |
+| 2026-11-24 15:07:11 | [SecureRedact.Ner](https://www.nuget.org/packages/SecureRedact.Ner) | 1.3.0 | Sanket Singh | CPU-only Named Entity Recognition (NER) PII detection plugin for SecureRedact (… |
+| 2026-11-24 15:10:24 | [Defra.Livestock.Sdk.Submissions](https://www.nuget.org/packages/Defra.Livestock.Sdk.Submissions) | 0.1.0 | Defra | The submission process shared by LIS BE4FE services: draft submissions per CPH… |
 
 ## Data source
 
