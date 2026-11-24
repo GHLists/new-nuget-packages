@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-24T06:21:30.793Z,Jtext103.CFET2.Things.S7ClientThing,1.0.0,Jtext103,Siemens S7 PLC communication for CFET2.
+2026-11-24T06:26:30.983Z,Jtext103.CFET2.Things.InfluxDBThing,1.0.0,Jtext103,InfluxDB data storage for CFET2.
+2026-11-24T06:41:50.44Z,Ombrevix.Billing.Sdk,0.1.0,ombrevix,"Ombrevix Billing SDK for .NET: subscriptions, customers, products and usage billing"
+2026-11-24T06:45:57.68Z,Aiursoft.EsrpSign.SDK,10.0.0,Aiursoft.EsrpSign.SDK,"Create company OpenPGP keys, sign release manifests, and download verification keys."
+2026-11-24T06:51:31.39Z,MafLabs.Notifications,0.1.0,MafLabs contributors,"Send a notification to a person by mail (SMTP with STARTTLS, password read from a file), with plain-text templates. Swappable channel, never throws on a failed delivery."
+2026-11-24T06:56:03.967Z,HealthMgr.david.202611,1.1.2,HealthMgr,Package Description
+2026-11-24T06:58:57.833Z,GroveGames.SecureStorage,0.3.0,Grove Games,"Secure key-value storage for games on .NET and Unity, backed by the iOS Keychain and Android Keystore"

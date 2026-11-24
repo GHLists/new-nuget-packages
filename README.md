@@ -12,21 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 06:18 UTC
+## Latest list — 2026-11-24 07:22 UTC
 
-New packages created between 2026-11-24 05:21 UTC and 2026-11-24 06:18 UTC.
+New packages created between 2026-11-24 06:18 UTC and 2026-11-24 07:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T06-18-52-923462Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T07-22-00-379863Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 05:33:42 | [Nextorm.Extensions.Orca](https://www.nuget.org/packages/Nextorm.Extensions.Orca) | 1.0.0 | Nextorm.Extensions.Orca | Nextorm repository contexts for the Orca 1.4.272 SQLite schemas. |
-| 2026-11-24 05:37:11 | [Nextorm.Extensions.N8n](https://www.nuget.org/packages/Nextorm.Extensions.N8n) | 1.0.0 | Nextorm.Extensions.N8n | Nextorm repository context for the n8n 2.48.8 SQLite schema. |
-| 2026-11-24 05:38:02 | [Shan.ImageCompressor](https://www.nuget.org/packages/Shan.ImageCompressor) | 1.0.0 | Hasibul Islam Shanto | Compress JPEG and PNG images toward a target file size with zero dependencies (… |
-| 2026-11-24 05:54:02 | [Jtext103.CFET2.Things.DdaqThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.DdaqThing) | 1.0.0 | Jtext103 | DDAQ acquisition control for CFET2. |
-| 2026-11-24 05:57:09 | [Jtext103.CFET2.Things.NewMDSplusThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.NewMDSplusThing) | 1.0.0 | Jtext103 | MDSplus archiving of DDAQ acquisition data for CFET2. |
-| 2026-11-24 06:11:39 | [ConfigInfo](https://www.nuget.org/packages/ConfigInfo) | 1.2.0 | daipeng0809 | 面向 AOT 的轻量文本配置库（.cif 格式）：核心零反射、单遍解析、宽松类型转换，支持注释读写、自动注释与可选自动对象映射。 |
-| 2026-11-24 06:12:47 | [Tacsa](https://www.nuget.org/packages/Tacsa) | 1.0.0 | TACSA — Compañía de Transport… | TACSA cafe Guayaquil, Ecuador constants. Official: https://tacsa.com.ec/expreso… |
+| 2026-11-24 06:21:30 | [Jtext103.CFET2.Things.S7ClientThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.S7ClientThing) | 1.0.0 | Jtext103 | Siemens S7 PLC communication for CFET2. |
+| 2026-11-24 06:26:30 | [Jtext103.CFET2.Things.InfluxDBThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.InfluxDBThing) | 1.0.0 | Jtext103 | InfluxDB data storage for CFET2. |
+| 2026-11-24 06:41:50 | [Ombrevix.Billing.Sdk](https://www.nuget.org/packages/Ombrevix.Billing.Sdk) | 0.1.0 | ombrevix | Ombrevix Billing SDK for .NET: subscriptions, customers, products and usage bil… |
+| 2026-11-24 06:45:57 | [Aiursoft.EsrpSign.SDK](https://www.nuget.org/packages/Aiursoft.EsrpSign.SDK) | 10.0.0 | Aiursoft.EsrpSign.SDK | Create company OpenPGP keys, sign release manifests, and download verification… |
+| 2026-11-24 06:51:31 | [MafLabs.Notifications](https://www.nuget.org/packages/MafLabs.Notifications) | 0.1.0 | MafLabs contributors | Send a notification to a person by mail (SMTP with STARTTLS, password read from… |
+| 2026-11-24 06:56:03 | [HealthMgr.david.202611](https://www.nuget.org/packages/HealthMgr.david.202611) | 1.1.2 | HealthMgr | Package Description |
+| 2026-11-24 06:58:57 | [GroveGames.SecureStorage](https://www.nuget.org/packages/GroveGames.SecureStorage) | 0.3.0 | Grove Games | Secure key-value storage for games on .NET and Unity, backed by the iOS Keychai… |
 
 ## Data source
 
