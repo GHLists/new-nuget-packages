@@ -12,27 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 18:20 UTC
+## Latest list — 2026-11-24 19:20 UTC
 
-New packages created between 2026-11-24 17:19 UTC and 2026-11-24 18:20 UTC.
+New packages created between 2026-11-24 18:20 UTC and 2026-11-24 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T18-20-42-739295Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T19-20-44-097802Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 17:21:16 | [TelegramBotKit.Polling](https://www.nuget.org/packages/TelegramBotKit.Polling) | 0.4.0 | NickFeD | Long-polling delivery using TelegramBotKit shared update execution. |
-| 2026-11-24 17:21:18 | [TelegramBotKit.Webhook.AspNetCore](https://www.nuget.org/packages/TelegramBotKit.Webhook.AspNetCore) | 0.4.0 | NickFeD | ASP.NET Core webhook delivery using TelegramBotKit shared update execution. |
-| 2026-11-24 17:40:16 | [TUtility.Core](https://www.nuget.org/packages/TUtility.Core) | 2.1.4 | TUtility.Core | .NET 基础工具库，提供缓存与对象池、定时调度、机器信息、JSON 序列化、安全算法和雪花 ID 等通用功能。 |
-| 2026-11-24 17:51:57 | [Amoraller.Windows.SplashScreen](https://www.nuget.org/packages/Amoraller.Windows.SplashScreen) | 1.0.1 | Amoraller | A WPF splash screen for Windows that preserves image transparency during fade-o… |
-| 2026-11-24 18:00:35 | [Kanject.Core.Realtime.Abstractions](https://www.nuget.org/packages/Kanject.Core.Realtime.Abstractions) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime abstractions — the transport-neutral contract a product p… |
-| 2026-11-24 18:00:43 | [Kanject.Core.Realtime](https://www.nuget.org/packages/Kanject.Core.Realtime) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime — AddRealtime() and the in-process default transport for… |
-| 2026-11-24 18:00:45 | [Kanject.Core.Realtime.Provider.AwsApiGateway](https://www.nuget.org/packages/Kanject.Core.Realtime.Provider.AwsApiGateway) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime over API Gateway WebSockets (proposal 0058 P2): UseApiGat… |
-| 2026-11-24 18:00:47 | [Kanject.Core.Realtime.Provider.AwsApiGateway.TestKit](https://www.nuget.org/packages/Kanject.Core.Realtime.Provider.AwsApiGateway.TestKit) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime over API Gateway WebSockets, test kit (xUnit, proposal 00… |
-| 2026-11-24 18:00:49 | [Kanject.Core.Realtime.Provider.AwsAppSync](https://www.nuget.org/packages/Kanject.Core.Realtime.Provider.AwsAppSync) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime over AWS AppSync Events (proposal 0058 P3): UseAppSyncEve… |
-| 2026-11-24 18:00:50 | [Kanject.Core.Realtime.TestKit](https://www.nuget.org/packages/Kanject.Core.Realtime.TestKit) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime contract suite (xUnit): RealtimeTransportContractTests, t… |
-| 2026-11-24 18:07:41 | [FonsecaFramework.Ai.Documents](https://www.nuget.org/packages/FonsecaFramework.Ai.Documents) | 2026.11.24.1 | FonsecaFramework.Ai.Documents | Optional document extractors for FonsecaFramework.Ai knowledge indexing: PDF (P… |
-| 2026-11-24 18:09:58 | [Strybok](https://www.nuget.org/packages/Strybok) | 0.1.0 | Strybok | Strybok deep-link SDK for .NET: resolves Universal Links / App Links to an in-a… |
-| 2026-11-24 18:09:59 | [Strybok.Maui](https://www.nuget.org/packages/Strybok.Maui) | 0.1.0 | Strybok | .NET MAUI glue for the Strybok deep-link SDK: registers the SDK in dependency i… |
+| 2026-11-24 18:26:16 | [Databento.CSharpApiClient.Caching](https://www.nuget.org/packages/Databento.CSharpApiClient.Caching) | 1.0.0 | Vardan Tovmasyan | A disk cache and Parquet archive for Databento.CSharpApiClient, so each day of… |
+| 2026-11-24 18:43:47 | [BitBindle.ClosedXML.Parser](https://www.nuget.org/packages/BitBindle.ClosedXML.Parser) | 3.0.0 | Jan Havlíček, BitBindle | A lexer and parser of Excel formulas with focus on performance. Its goal is to… |
+| 2026-11-24 18:54:09 | [Credfeto.Build.Python.Server](https://www.nuget.org/packages/Credfeto.Build.Python.Server) | 0.0.11.217-python-s… | Mark Ridgwell | Credfeto Build MCP Python server: restore, lint, test and coverage for Python r… |
+| 2026-11-24 18:54:10 | [Credfeto.Build.Python.Server.linux-x64](https://www.nuget.org/packages/Credfeto.Build.Python.Server.linux-x64) | 0.0.11.217-python-s… | Mark Ridgwell | Credfeto Build MCP Python server: restore, lint, test and coverage for Python r… |
+| 2026-11-24 18:58:03 | [StratumKit.Cli](https://www.nuget.org/packages/StratumKit.Cli) | 0.36.2 | Stratum | Stratum: a .NET 10 microservice generator with your team's conventions (CLI, vi… |
+| 2026-11-24 18:58:04 | [StratumKit.Messaging](https://www.nuget.org/packages/StratumKit.Messaging) | 0.36.2 | Stratum | Stratum messaging between services: integration events through an outbox (no ev… |
+| 2026-11-24 18:58:05 | [StratumKit.Messaging.AzureServiceBus](https://www.nuget.org/packages/StratumKit.Messaging.AzureServiceBus) | 0.36.2 | Stratum | Azure Service Bus broker for Stratum.Messaging: one topic per integration event… |
+| 2026-11-24 18:58:06 | [StratumKit.ServiceDefaults](https://www.nuget.org/packages/StratumKit.ServiceDefaults) | 0.36.2 | Stratum | Stratum service defaults: health checks, ProblemDetails, correlation id, valida… |
+| 2026-11-24 18:58:07 | [StratumKit.Messaging.Kafka](https://www.nuget.org/packages/StratumKit.Messaging.Kafka) | 0.36.2 | Stratum | Kafka broker for Stratum.Messaging (Confluent.Kafka): one topic per integration… |
+| 2026-11-24 18:58:08 | [StratumKit.ServiceDefaults.Resilience](https://www.nuget.org/packages/StratumKit.ServiceDefaults.Resilience) | 0.36.2 | Stratum | Stratum service defaults for HTTP clients: standard resilience pipeline (retry,… |
+| 2026-11-24 18:58:09 | [StratumKit.Ddd](https://www.nuget.org/packages/StratumKit.Ddd) | 0.36.2 | Stratum | Stratum DDD building blocks: aggregates, domain events, domain exceptions, comm… |
+| 2026-11-24 18:58:09 | [StratumKit.ServiceDefaults.OpenTelemetry](https://www.nuget.org/packages/StratumKit.ServiceDefaults.OpenTelemetry) | 0.36.2 | Stratum | Stratum service defaults: OpenTelemetry traces, metrics and logs with OTLP expo… |
+| 2026-11-24 18:58:10 | [StratumKit.ServiceDefaults.Authentication](https://www.nuget.org/packages/StratumKit.ServiceDefaults.Authentication) | 0.36.2 | Stratum | Stratum service defaults: JWT bearer authentication, secure by default (authent… |
+| 2026-11-24 18:58:11 | [StratumKit.Messaging.EntityFrameworkCore](https://www.nuget.org/packages/StratumKit.Messaging.EntityFrameworkCore) | 0.36.2 | Stratum | Transactional outbox and inbox for Stratum.Messaging with EF Core: integration… |
+| 2026-11-24 19:05:51 | [Themis.Inference.Remote.SystemOne](https://www.nuget.org/packages/Themis.Inference.Remote.SystemOne) | 4.7.0 | Themis contributors | System One decision protocol mapping over Themis' shared HTTP transport. |
 
 ## Data source
 
