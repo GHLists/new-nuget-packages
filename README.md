@@ -12,21 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 17:19 UTC
+## Latest list — 2026-11-24 18:20 UTC
 
-New packages created between 2026-11-24 16:19 UTC and 2026-11-24 17:19 UTC.
+New packages created between 2026-11-24 17:19 UTC and 2026-11-24 18:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T17-19-46-444841Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T18-20-42-739295Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 16:23:03 | [Skarp.win-x64](https://www.nuget.org/packages/Skarp.win-x64) | 0.1.0 | Sir Phillip Tubell | skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, st… |
-| 2026-11-24 16:23:06 | [Skarp.linux-x64](https://www.nuget.org/packages/Skarp.linux-x64) | 0.1.0 | Sir Phillip Tubell | skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, st… |
-| 2026-11-24 16:23:08 | [Skarp.any](https://www.nuget.org/packages/Skarp.any) | 0.1.0 | Sir Phillip Tubell | skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, st… |
-| 2026-11-24 16:23:09 | [Skarp](https://www.nuget.org/packages/Skarp) | 0.1.0 | Sir Phillip Tubell | skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, st… |
-| 2026-11-24 16:36:31 | [Styml](https://www.nuget.org/packages/Styml) | 0.1.0 | Sébastien Ros | The System.Text.Json API, for YAML. A YAML 1.2 reader, writer, document model a… |
-| 2026-11-24 17:07:03 | [AiProxy.Mcp.Sdk](https://www.nuget.org/packages/AiProxy.Mcp.Sdk) | 1.0.0 | Aurora | MCP SDK: message_signed transport authentication — ES256 request signer for cli… |
-| 2026-11-24 17:07:04 | [AiProxy.Mcp.Sdk.AspNetCore](https://www.nuget.org/packages/AiProxy.Mcp.Sdk.AspNetCore) | 1.0.0 | Aurora | ASP.NET Core middleware for message_signed MCP endpoints: verifies Mcp-Message-… |
+| 2026-11-24 17:21:16 | [TelegramBotKit.Polling](https://www.nuget.org/packages/TelegramBotKit.Polling) | 0.4.0 | NickFeD | Long-polling delivery using TelegramBotKit shared update execution. |
+| 2026-11-24 17:21:18 | [TelegramBotKit.Webhook.AspNetCore](https://www.nuget.org/packages/TelegramBotKit.Webhook.AspNetCore) | 0.4.0 | NickFeD | ASP.NET Core webhook delivery using TelegramBotKit shared update execution. |
+| 2026-11-24 17:40:16 | [TUtility.Core](https://www.nuget.org/packages/TUtility.Core) | 2.1.4 | TUtility.Core | .NET 基础工具库，提供缓存与对象池、定时调度、机器信息、JSON 序列化、安全算法和雪花 ID 等通用功能。 |
+| 2026-11-24 17:51:57 | [Amoraller.Windows.SplashScreen](https://www.nuget.org/packages/Amoraller.Windows.SplashScreen) | 1.0.1 | Amoraller | A WPF splash screen for Windows that preserves image transparency during fade-o… |
+| 2026-11-24 18:00:35 | [Kanject.Core.Realtime.Abstractions](https://www.nuget.org/packages/Kanject.Core.Realtime.Abstractions) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime abstractions — the transport-neutral contract a product p… |
+| 2026-11-24 18:00:43 | [Kanject.Core.Realtime](https://www.nuget.org/packages/Kanject.Core.Realtime) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime — AddRealtime() and the in-process default transport for… |
+| 2026-11-24 18:00:45 | [Kanject.Core.Realtime.Provider.AwsApiGateway](https://www.nuget.org/packages/Kanject.Core.Realtime.Provider.AwsApiGateway) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime over API Gateway WebSockets (proposal 0058 P2): UseApiGat… |
+| 2026-11-24 18:00:47 | [Kanject.Core.Realtime.Provider.AwsApiGateway.TestKit](https://www.nuget.org/packages/Kanject.Core.Realtime.Provider.AwsApiGateway.TestKit) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime over API Gateway WebSockets, test kit (xUnit, proposal 00… |
+| 2026-11-24 18:00:49 | [Kanject.Core.Realtime.Provider.AwsAppSync](https://www.nuget.org/packages/Kanject.Core.Realtime.Provider.AwsAppSync) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime over AWS AppSync Events (proposal 0058 P3): UseAppSyncEve… |
+| 2026-11-24 18:00:50 | [Kanject.Core.Realtime.TestKit](https://www.nuget.org/packages/Kanject.Core.Realtime.TestKit) | 1.0.0 | Akinsanya Omogbolahan | Kanject Core realtime contract suite (xUnit): RealtimeTransportContractTests, t… |
+| 2026-11-24 18:07:41 | [FonsecaFramework.Ai.Documents](https://www.nuget.org/packages/FonsecaFramework.Ai.Documents) | 2026.11.24.1 | FonsecaFramework.Ai.Documents | Optional document extractors for FonsecaFramework.Ai knowledge indexing: PDF (P… |
+| 2026-11-24 18:09:58 | [Strybok](https://www.nuget.org/packages/Strybok) | 0.1.0 | Strybok | Strybok deep-link SDK for .NET: resolves Universal Links / App Links to an in-a… |
+| 2026-11-24 18:09:59 | [Strybok.Maui](https://www.nuget.org/packages/Strybok.Maui) | 0.1.0 | Strybok | .NET MAUI glue for the Strybok deep-link SDK: registers the SDK in dependency i… |
 
 ## Data source
 
