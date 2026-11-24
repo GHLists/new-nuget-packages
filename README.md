@@ -12,21 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 07:22 UTC
+## Latest list — 2026-11-24 08:19 UTC
 
-New packages created between 2026-11-24 06:18 UTC and 2026-11-24 07:22 UTC.
+New packages created between 2026-11-24 07:22 UTC and 2026-11-24 08:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T07-22-00-379863Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T08-19-38-223317Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 06:21:30 | [Jtext103.CFET2.Things.S7ClientThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.S7ClientThing) | 1.0.0 | Jtext103 | Siemens S7 PLC communication for CFET2. |
-| 2026-11-24 06:26:30 | [Jtext103.CFET2.Things.InfluxDBThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.InfluxDBThing) | 1.0.0 | Jtext103 | InfluxDB data storage for CFET2. |
-| 2026-11-24 06:41:50 | [Ombrevix.Billing.Sdk](https://www.nuget.org/packages/Ombrevix.Billing.Sdk) | 0.1.0 | ombrevix | Ombrevix Billing SDK for .NET: subscriptions, customers, products and usage bil… |
-| 2026-11-24 06:45:57 | [Aiursoft.EsrpSign.SDK](https://www.nuget.org/packages/Aiursoft.EsrpSign.SDK) | 10.0.0 | Aiursoft.EsrpSign.SDK | Create company OpenPGP keys, sign release manifests, and download verification… |
-| 2026-11-24 06:51:31 | [MafLabs.Notifications](https://www.nuget.org/packages/MafLabs.Notifications) | 0.1.0 | MafLabs contributors | Send a notification to a person by mail (SMTP with STARTTLS, password read from… |
-| 2026-11-24 06:56:03 | [HealthMgr.david.202611](https://www.nuget.org/packages/HealthMgr.david.202611) | 1.1.2 | HealthMgr | Package Description |
-| 2026-11-24 06:58:57 | [GroveGames.SecureStorage](https://www.nuget.org/packages/GroveGames.SecureStorage) | 0.3.0 | Grove Games | Secure key-value storage for games on .NET and Unity, backed by the iOS Keychai… |
+| 2026-11-24 07:22:08 | [BulletSharp.PureCSharp.SoftBody.Double](https://www.nuget.org/packages/BulletSharp.PureCSharp.SoftBody.Double) | 0.1.0 | bullet-sharp contributors | Classic btSoftBody module (ropes, cloth, pressure/tetrahedral soft bodies, Spar… |
+| 2026-11-24 07:22:09 | [BulletSharp.PureCSharp.SoftBody](https://www.nuget.org/packages/BulletSharp.PureCSharp.SoftBody) | 0.1.0 | bullet-sharp contributors | Classic btSoftBody module (ropes, cloth, pressure/tetrahedral soft bodies, Spar… |
+| 2026-11-24 07:22:10 | [BulletSharp.PureCSharp](https://www.nuget.org/packages/BulletSharp.PureCSharp) | 0.1.0 | bullet-sharp contributors | Pure C# port of the Bullet Physics engine, single-precision (float) build (rigi… |
+| 2026-11-24 07:22:10 | [BulletSharp.PureCSharp.Double](https://www.nuget.org/packages/BulletSharp.PureCSharp.Double) | 0.1.0 | bullet-sharp contributors | Pure C# port of the Bullet Physics engine, double-precision (double) build (rig… |
+| 2026-11-24 07:30:44 | [Gatehouse.Accounts](https://www.nuget.org/packages/Gatehouse.Accounts) | 0.1.0 | KalliMan | Sign-in with Google, Microsoft, Facebook and GitHub for ASP.NET Core Identity (… |
+| 2026-11-24 07:35:59 | [Rustorb.Dds](https://www.nuget.org/packages/Rustorb.Dds) | 0.3.0 | rustorb contributors | DDS for .NET on rustorb-dds: a subset of the DDS API after the Java 5 PSM, over… |
+| 2026-11-24 07:37:55 | [HanaTech.RTDB.Framework.Api](https://www.nuget.org/packages/HanaTech.RTDB.Framework.Api) | 4.2.1-preview202609… | HanaTech | Package Description |
+| 2026-11-24 07:39:03 | [Sencilla.Authentication.Instagram](https://www.nuget.org/packages/Sencilla.Authentication.Instagram) | 11.0.2 | Sencilla | Package Description |
+| 2026-11-24 07:39:11 | [Sencilla.Authentication.Telegram](https://www.nuget.org/packages/Sencilla.Authentication.Telegram) | 11.0.2 | Sencilla | Package Description |
+| 2026-11-24 07:49:29 | [Niubility.Scaffold.Cli](https://www.nuget.org/packages/Niubility.Scaffold.Cli) | 1.3.0 | Niubility.Scaffold.Cli | Inspect database schemas, review generated C# changes and apply a saved Niubili… |
+| 2026-11-24 07:50:14 | [Niubility.Scaffold.Database.PostgreSql](https://www.nuget.org/packages/Niubility.Scaffold.Database.PostgreSql) | 1.3.0 | Niubility.Scaffold.Database.P… | PostgreSQL catalog reader and C# generator for Niubility.Database 1.1.0. |
+| 2026-11-24 07:51:00 | [Warungkopipurnama](https://www.nuget.org/packages/Warungkopipurnama) | 1.0.0 | Warung Kopi Purnama — kopi le… | Warung Kopi Purnama cafe Braga, Bandung constants. Official: https://warungkopi… |
+| 2026-11-24 08:01:59 | [StarFruit.Nova](https://www.nuget.org/packages/StarFruit.Nova) | 1.0.0 | EpsiRho | Audio feature extraction for C# |
+| 2026-11-24 08:12:26 | [Tellurian.Trains.Drawing.Editing](https://www.nuget.org/packages/Tellurian.Trains.Drawing.Editing) | 0.10.0 | Stefan Fjällemark | UI-independent editing for Tellurian Trains drawings: commands, undo/redo, snap… |
+| 2026-11-24 08:12:26 | [Tellurian.Trains.Drawing.Model](https://www.nuget.org/packages/Tellurian.Trains.Drawing.Model) | 0.10.0 | Stefan Fjällemark | Domain model for Tellurian Trains drawings: end profiles, modules, halls, hall… |
 
 ## Data source
 
