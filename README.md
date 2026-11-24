@@ -12,25 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 21:22 UTC
+## Latest list — 2026-11-24 22:22 UTC
 
-New packages created between 2026-11-24 20:21 UTC and 2026-11-24 21:22 UTC.
+New packages created between 2026-11-24 21:22 UTC and 2026-11-24 22:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T21-22-39-142286Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T22-22-35-830103Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 20:33:18 | [Arthur.Genesis](https://www.nuget.org/packages/Arthur.Genesis) | 0.1.17 | AuthurOne | Source and Visual Studio build project for the Arthur AXAML Editor extension. |
-| 2026-11-24 20:38:17 | [FonsecaFramework.Ai.Knowledge](https://www.nuget.org/packages/FonsecaFramework.Ai.Knowledge) | 2026.11.24.2 | FonsecaFramework.Ai.Knowledge | Partitioned hybrid knowledge indexing with VectorData 11 and in-memory, SQLite,… |
-| 2026-11-24 20:46:44 | [EmailKitchen](https://www.nuget.org/packages/EmailKitchen) | 1.0.0 | Mateusz Mardosz | Preview, test, and send Razor email templates in ASP.NET Core. Edit sample data… |
-| 2026-11-24 20:46:49 | [ManagedCompressions.Brotli](https://www.nuget.org/packages/ManagedCompressions.Brotli) | 0.4.0 | Evariops | A Brotli (RFC 7932) decompressor and compressor in fully managed C#: no native… |
-| 2026-11-24 20:47:55 | [BitBindle.ClosedXML](https://www.nuget.org/packages/BitBindle.ClosedXML) | 0.107.3 | Jan Havlíček, Francois Botha,… | See release notes https://github.com/BitBindle/ClosedXML/releases/tag/0.107.3 C… |
-| 2026-11-24 20:48:27 | [BitBindle.ClosedXML.IO](https://www.nuget.org/packages/BitBindle.ClosedXML.IO) | 0.107.3 | Jan Havlíček, Francois Botha,… | See release notes https://github.com/BitBindle/ClosedXML/releases/tag/0.107.3 C… |
-| 2026-11-24 20:49:27 | [CHDSharp.Cli](https://www.nuget.org/packages/CHDSharp.Cli) | 1.7.2 | Peterson Fernandes | Pure C# CHD (Compressed Hunks of Data) command-line tool, compatible with MAME'… |
-| 2026-11-24 20:56:32 | [Racka](https://www.nuget.org/packages/Racka) | 26.11.2 | David Kozma | Multi-agent framework on .NET: agents on Claude Code, Codex, the Claude API or… |
-| 2026-11-24 21:10:24 | [MyGeocode](https://www.nuget.org/packages/MyGeocode) | 1.1.1 | My Geocode | Official .NET client for the My Geocode API: forward and reverse geocoding, add… |
-| 2026-11-24 21:15:21 | [Duxel.Linux.App](https://www.nuget.org/packages/Duxel.Linux.App) | 0.4.0 | dimohy | Linux X11 host for Duxel, a Vulkan-rendered .NET desktop UI library. |
-| 2026-11-24 21:15:59 | [Zzdats.Lgp.Common.Caching.Oracle](https://www.nuget.org/packages/Zzdats.Lgp.Common.Caching.Oracle) | 10.0.0 | Zzdats.Lgp.Common.Caching.Ora… | Distributed cache implementation using Oracle database for NetStandard 2.0 |
+| 2026-11-24 21:25:27 | [Anarchy.Toolkit.Infrastructure.Messaging.CloudEvents](https://www.nuget.org/packages/Anarchy.Toolkit.Infrastructure.Messaging.CloudEvents) | 1.0.0 | Leandro Melão Medeiros | Transport-independent mapping between Anarchy event envelopes and CloudEvents. |
+| 2026-11-24 21:25:28 | [Anarchy.Toolkit.Infrastructure.Messaging.Kafka](https://www.nuget.org/packages/Anarchy.Toolkit.Infrastructure.Messaging.Kafka) | 1.0.0 | Leandro Melão Medeiros | Apache Kafka publisher and inbound mapping for the message-broker contracts. |
+| 2026-11-24 21:25:31 | [Anarchy.Toolkit.Infrastructure.Persistence.Db.Events](https://www.nuget.org/packages/Anarchy.Toolkit.Infrastructure.Persistence.Db.Events) | 1.0.0 | Leandro Melão Medeiros | Provider-agnostic relational event-store repository bases and transactional out… |
+| 2026-11-24 21:25:35 | [Anarchy.Toolkit.Infrastructure.Telemetry.StatsD](https://www.nuget.org/packages/Anarchy.Toolkit.Infrastructure.Telemetry.StatsD) | 1.0.0 | Leandro Melão Medeiros | Optional DogStatsD metrics recorder and dependency injection integration for An… |
+| 2026-11-24 21:25:41 | [Anarchy.Toolkit.Testing.Kafka](https://www.nuget.org/packages/Anarchy.Toolkit.Testing.Kafka) | 1.0.0 | Leandro Melão Medeiros | Kafka message fixture and consumer helper for tests against a Kafka-compatible… |
+| 2026-11-24 21:31:23 | [fksegundo.Hangfire.Dashboard.JobSearch.Core](https://www.nuget.org/packages/fksegundo.Hangfire.Dashboard.JobSearch.Core) | 1.2.0 | fksegundo | Core library for Hangfire Dashboard JobSearch: metadata extraction, dashboard U… |
+| 2026-11-24 21:31:23 | [fksegundo.Hangfire.Dashboard.JobSearch.PostgreSql](https://www.nuget.org/packages/fksegundo.Hangfire.Dashboard.JobSearch.PostgreSql) | 1.2.0 | fksegundo | PostgreSQL storage provider for Hangfire.Dashboard.JobSearch. |
+| 2026-11-24 21:31:24 | [fksegundo.Hangfire.Dashboard.JobSearch.Redis](https://www.nuget.org/packages/fksegundo.Hangfire.Dashboard.JobSearch.Redis) | 1.2.0 | fksegundo | Redis storage provider for Hangfire.Dashboard.JobSearch using StackExchange.Red… |
+| 2026-11-24 21:31:25 | [fksegundo.Hangfire.Dashboard.JobSearch.SqlServer](https://www.nuget.org/packages/fksegundo.Hangfire.Dashboard.JobSearch.SqlServer) | 1.2.0 | fksegundo | SQL Server storage provider for Hangfire.Dashboard.JobSearch. |
+| 2026-11-24 21:34:43 | [BitBindle.ProseMirror](https://www.nuget.org/packages/BitBindle.ProseMirror) | 2.0.0 | ProTip, BitBindle | A direct translation of the core ProseMirror packages from TypeScript to C# |
+| 2026-11-24 21:51:53 | [nugetscope](https://www.nuget.org/packages/nugetscope) | 0.1.0 | Eren | Interactive terminal dashboard for the NuGet packages of a whole .NET solution… |
+| 2026-11-24 22:02:43 | [MHX](https://www.nuget.org/packages/MHX) | 0.2.3 | Moaid Hathot | A small configurable process launcher with NuGet v2 .NET tool execution. |
+| 2026-11-24 22:02:59 | [Printsluis.Contracts](https://www.nuget.org/packages/Printsluis.Contracts) | 2.0.0 | Isatis Projects | Request and response contracts shared by Printsluis, its agent and the client S… |
+| 2026-11-24 22:03:00 | [Printsluis.Client](https://www.nuget.org/packages/Printsluis.Client) | 2.0.0 | Isatis Projects | .NET client for the Printsluis API. |
+| 2026-11-24 22:11:02 | [XDevPlatform.Xdk](https://www.nuget.org/packages/XDevPlatform.Xdk) | 0.1.1 | X Corp. | Official C# / .NET SDK for the X API v2 |
 
 ## Data source
 

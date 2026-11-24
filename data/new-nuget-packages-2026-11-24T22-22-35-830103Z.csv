@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-24T21:25:27.03Z,Anarchy.Toolkit.Infrastructure.Messaging.CloudEvents,1.0.0,Leandro Melão Medeiros,Transport-independent mapping between Anarchy event envelopes and CloudEvents.
+2026-11-24T21:25:28.347Z,Anarchy.Toolkit.Infrastructure.Messaging.Kafka,1.0.0,Leandro Melão Medeiros,Apache Kafka publisher and inbound mapping for the message-broker contracts.
+2026-11-24T21:25:31.407Z,Anarchy.Toolkit.Infrastructure.Persistence.Db.Events,1.0.0,Leandro Melão Medeiros,Provider-agnostic relational event-store repository bases and transactional outbox contracts and records.
+2026-11-24T21:25:35.17Z,Anarchy.Toolkit.Infrastructure.Telemetry.StatsD,1.0.0,Leandro Melão Medeiros,Optional DogStatsD metrics recorder and dependency injection integration for Anarchy telemetry.
+2026-11-24T21:25:41.433Z,Anarchy.Toolkit.Testing.Kafka,1.0.0,Leandro Melão Medeiros,Kafka message fixture and consumer helper for tests against a Kafka-compatible broker.
+2026-11-24T21:31:23.137Z,fksegundo.Hangfire.Dashboard.JobSearch.Core,1.2.0,fksegundo,"Core library for Hangfire Dashboard JobSearch: metadata extraction, dashboard UI, fluent configuration, in-memory storage, and storage abstractions."
+2026-11-24T21:31:23.857Z,fksegundo.Hangfire.Dashboard.JobSearch.PostgreSql,1.2.0,fksegundo,PostgreSQL storage provider for Hangfire.Dashboard.JobSearch.
+2026-11-24T21:31:24.533Z,fksegundo.Hangfire.Dashboard.JobSearch.Redis,1.2.0,fksegundo,Redis storage provider for Hangfire.Dashboard.JobSearch using StackExchange.Redis.
+2026-11-24T21:31:25.257Z,fksegundo.Hangfire.Dashboard.JobSearch.SqlServer,1.2.0,fksegundo,SQL Server storage provider for Hangfire.Dashboard.JobSearch.
+2026-11-24T21:34:43.223Z,BitBindle.ProseMirror,2.0.0,"ProTip, BitBindle",A direct translation of the core ProseMirror packages from TypeScript to C#
+2026-11-24T21:51:53.26Z,nugetscope,0.1.0,Eren,"Interactive terminal dashboard for the NuGet packages of a whole .NET solution (.sln/.slnx): outdated, vulnerable, deprecated, mismatched and possibly unused packages, CPM-aware updates, and a headless CI mode with JSON/Markdown reports."
+2026-11-24T22:02:43.133Z,MHX,0.2.3,Moaid Hathot,A small configurable process launcher with NuGet v2 .NET tool execution.
+2026-11-24T22:02:59.82Z,Printsluis.Contracts,2.0.0,Isatis Projects,"Request and response contracts shared by Printsluis, its agent and the client SDK."
+2026-11-24T22:03:00.493Z,Printsluis.Client,2.0.0,Isatis Projects,.NET client for the Printsluis API.
+2026-11-24T22:11:02.413Z,XDevPlatform.Xdk,0.1.1,X Corp.,Official C# / .NET SDK for the X API v2
