@@ -12,29 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:20 UTC
+## Latest list — 2026-11-24 20:21 UTC
 
-New packages created between 2026-11-24 18:20 UTC and 2026-11-24 19:20 UTC.
+New packages created between 2026-11-24 19:20 UTC and 2026-11-24 20:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T19-20-44-097802Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T20-21-25-44417Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 18:26:16 | [Databento.CSharpApiClient.Caching](https://www.nuget.org/packages/Databento.CSharpApiClient.Caching) | 1.0.0 | Vardan Tovmasyan | A disk cache and Parquet archive for Databento.CSharpApiClient, so each day of… |
-| 2026-11-24 18:43:47 | [BitBindle.ClosedXML.Parser](https://www.nuget.org/packages/BitBindle.ClosedXML.Parser) | 3.0.0 | Jan Havlíček, BitBindle | A lexer and parser of Excel formulas with focus on performance. Its goal is to… |
-| 2026-11-24 18:54:09 | [Credfeto.Build.Python.Server](https://www.nuget.org/packages/Credfeto.Build.Python.Server) | 0.0.11.217-python-s… | Mark Ridgwell | Credfeto Build MCP Python server: restore, lint, test and coverage for Python r… |
-| 2026-11-24 18:54:10 | [Credfeto.Build.Python.Server.linux-x64](https://www.nuget.org/packages/Credfeto.Build.Python.Server.linux-x64) | 0.0.11.217-python-s… | Mark Ridgwell | Credfeto Build MCP Python server: restore, lint, test and coverage for Python r… |
-| 2026-11-24 18:58:03 | [StratumKit.Cli](https://www.nuget.org/packages/StratumKit.Cli) | 0.36.2 | Stratum | Stratum: a .NET 10 microservice generator with your team's conventions (CLI, vi… |
-| 2026-11-24 18:58:04 | [StratumKit.Messaging](https://www.nuget.org/packages/StratumKit.Messaging) | 0.36.2 | Stratum | Stratum messaging between services: integration events through an outbox (no ev… |
-| 2026-11-24 18:58:05 | [StratumKit.Messaging.AzureServiceBus](https://www.nuget.org/packages/StratumKit.Messaging.AzureServiceBus) | 0.36.2 | Stratum | Azure Service Bus broker for Stratum.Messaging: one topic per integration event… |
-| 2026-11-24 18:58:06 | [StratumKit.ServiceDefaults](https://www.nuget.org/packages/StratumKit.ServiceDefaults) | 0.36.2 | Stratum | Stratum service defaults: health checks, ProblemDetails, correlation id, valida… |
-| 2026-11-24 18:58:07 | [StratumKit.Messaging.Kafka](https://www.nuget.org/packages/StratumKit.Messaging.Kafka) | 0.36.2 | Stratum | Kafka broker for Stratum.Messaging (Confluent.Kafka): one topic per integration… |
-| 2026-11-24 18:58:08 | [StratumKit.ServiceDefaults.Resilience](https://www.nuget.org/packages/StratumKit.ServiceDefaults.Resilience) | 0.36.2 | Stratum | Stratum service defaults for HTTP clients: standard resilience pipeline (retry,… |
-| 2026-11-24 18:58:09 | [StratumKit.Ddd](https://www.nuget.org/packages/StratumKit.Ddd) | 0.36.2 | Stratum | Stratum DDD building blocks: aggregates, domain events, domain exceptions, comm… |
-| 2026-11-24 18:58:09 | [StratumKit.ServiceDefaults.OpenTelemetry](https://www.nuget.org/packages/StratumKit.ServiceDefaults.OpenTelemetry) | 0.36.2 | Stratum | Stratum service defaults: OpenTelemetry traces, metrics and logs with OTLP expo… |
-| 2026-11-24 18:58:10 | [StratumKit.ServiceDefaults.Authentication](https://www.nuget.org/packages/StratumKit.ServiceDefaults.Authentication) | 0.36.2 | Stratum | Stratum service defaults: JWT bearer authentication, secure by default (authent… |
-| 2026-11-24 18:58:11 | [StratumKit.Messaging.EntityFrameworkCore](https://www.nuget.org/packages/StratumKit.Messaging.EntityFrameworkCore) | 0.36.2 | Stratum | Transactional outbox and inbox for Stratum.Messaging with EF Core: integration… |
-| 2026-11-24 19:05:51 | [Themis.Inference.Remote.SystemOne](https://www.nuget.org/packages/Themis.Inference.Remote.SystemOne) | 4.7.0 | Themis contributors | System One decision protocol mapping over Themis' shared HTTP transport. |
+| 2026-11-24 19:31:21 | [Umbraco.Community.PropertyJsonViewer](https://www.nuget.org/packages/Umbraco.Community.PropertyJsonViewer) | 18.0.0 | Jack Stunell | See and fix the raw value Umbraco stores for any document property, right from… |
+| 2026-11-24 19:33:00 | [ElRoso.Commons.OpenApi](https://www.nuget.org/packages/ElRoso.Commons.OpenApi) | 1.0.0 | Di Rosolini Ezequiel | OpenAPI nativo de ASP.NET Core, un documento por versión de API, con esquemas J… |
+| 2026-11-24 19:39:01 | [Esatto.Umbraco.Backoffice.SeoReport](https://www.nuget.org/packages/Esatto.Umbraco.Backoffice.SeoReport) | 1.0.0 | Carl Schéle | SEO Report for Umbraco: a Content-section dashboard that turns Google Analytics… |
+| 2026-11-24 19:46:11 | [GroundWerk.Telemetry](https://www.nuget.org/packages/GroundWerk.Telemetry) | 2.0.1 | The GroundWerk authors | Sets up OpenTelemetry traces, metrics and structured logs for an ASP.NET Core s… |
+| 2026-11-24 20:00:15 | [Kebechet.Maui.WebView.VersionGate](https://www.nuget.org/packages/Kebechet.Maui.WebView.VersionGate) | 1.0.0 | Kebechet | Holds a .NET MAUI app behind an update dialog while the Android System WebView… |
+| 2026-11-24 20:03:40 | [Bequadro](https://www.nuget.org/packages/Bequadro) | 0.1.0 | James Duley | An incremental source generator and runtime for FlatBuffers schemas (.fbs). |
 
 ## Data source
 

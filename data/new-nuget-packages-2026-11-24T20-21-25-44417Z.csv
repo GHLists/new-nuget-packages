@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-24T19:31:21.03Z,Umbraco.Community.PropertyJsonViewer,18.0.0,Jack Stunell,"See and fix the raw value Umbraco stores for any document property, right from the backoffice."
+2026-11-24T19:33:00.577Z,ElRoso.Commons.OpenApi,1.0.0,Di Rosolini Ezequiel,"OpenAPI nativo de ASP.NET Core, un documento por versión de API, con esquemas JWT y Basic."
+2026-11-24T19:39:01.367Z,Esatto.Umbraco.Backoffice.SeoReport,1.0.0,Carl Schéle,"SEO Report for Umbraco: a Content-section dashboard that turns Google Analytics 4 and Google Search Console into a monthly SEO report. It archives each month's traffic, search visibility, top pages and queries, compares them with the previous month and the same month last year, follows targets and…"
+2026-11-24T19:46:11.653Z,GroundWerk.Telemetry,2.0.1,The GroundWerk authors,"Sets up OpenTelemetry traces, metrics and structured logs for an ASP.NET Core service in one call, and exports them over OTLP to the endpoint that configuration names."
+2026-11-24T20:00:15.487Z,Kebechet.Maui.WebView.VersionGate,1.0.0,Kebechet,"Holds a .NET MAUI app behind an update dialog while the Android System WebView is too old to run it, and sends the user to the Play Store to update it."
+2026-11-24T20:03:40.36Z,Bequadro,0.1.0,James Duley,An incremental source generator and runtime for FlatBuffers schemas (.fbs).
