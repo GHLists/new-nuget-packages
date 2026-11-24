@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-24T16:23:03.55Z,Skarp.win-x64,0.1.0,Sir Phillip Tubell,"skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, statements) and git activity hotspots, from Roslyn syntax trees."
+2026-11-24T16:23:06.297Z,Skarp.linux-x64,0.1.0,Sir Phillip Tubell,"skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, statements) and git activity hotspots, from Roslyn syntax trees."
+2026-11-24T16:23:08.45Z,Skarp.any,0.1.0,Sir Phillip Tubell,"skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, statements) and git activity hotspots, from Roslyn syntax trees."
+2026-11-24T16:23:09.897Z,Skarp,0.1.0,Sir Phillip Tubell,"skarp: C# code health metrics (cyclomatic, cognitive, NPath, nesting, lines, statements) and git activity hotspots, from Roslyn syntax trees."
+2026-11-24T16:36:31.327Z,Styml,0.1.0,Sébastien Ros,"The System.Text.Json API, for YAML. A YAML 1.2 reader, writer, document model and serializer: Utf8YamlReader, Utf8YamlWriter, YamlDocument, YamlNode, YamlSerializer and a source generator. Derived from System.Text.Json (dotnet/runtime v11.0.0); not a Microsoft product."
+2026-11-24T17:07:03.72Z,AiProxy.Mcp.Sdk,1.0.0,Aurora,"MCP SDK: message_signed transport authentication — ES256 request signer for clients and verifier for servers (signed caller: username, groups, roles). netstandard2.0 and net8.0. ASP.NET Core middleware: AiProxy.Mcp.Sdk.AspNetCore."
+2026-11-24T17:07:04.52Z,AiProxy.Mcp.Sdk.AspNetCore,1.0.0,Aurora,ASP.NET Core middleware for message_signed MCP endpoints: verifies Mcp-Message-Signature and exposes the signed caller as HttpContext.User.
