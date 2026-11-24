@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-23T23:30:00.227Z,AIKernel.Providers.Stt,0.1.4,Takuya Sogawa,Local CPU WAV transcription with the pinned multilingual Whisper small model.
+2026-11-23T23:31:39.463Z,Svg.Editor.Skia.Uno,7.0.5,Wiesław Šoltés,Reusable SVG editor workspace and accelerated canvas for Uno Platform.
+2026-11-23T23:31:43.75Z,Svg.Editor.Mcp,5.2.4,Wiesław Šoltés,Shared MCP protocol and automation adapters for the SVG editor.
+2026-11-23T23:31:55.437Z,Svg.Editor.Mcp.Hosting,5.2.4,Wiesław Šoltés,Local MCP hosting and browser relay for the SVG editor.
+2026-11-23T23:32:02.69Z,EaseFilter.FileSecurity,5.8.8.1,EaseFilter,"The EaseFilter File Security SDK is a comprehensive, modular framework designed to empower developers to build enterprise-grade Windows security solutions—without the need to write complex, high-risk kernel-mode C code. By providing a rigorously tested, WHQL-ready kernel filter driver paired with i…"
+2026-11-23T23:48:52.677Z,DotReticulum.Applications,1.5.7.158,DotReticulum contributors,DotReticulum runtime host (ReticulumNode) and Reticulum utility implementations.
+2026-11-23T23:48:54.147Z,DotReticulum.Core,1.5.7.158,DotReticulum contributors,"Reticulum identities, destinations, packet codec and interface manager for DotReticulum."
+2026-11-23T23:48:55.683Z,DotReticulum.Crypto,1.5.7.158,DotReticulum contributors,"Ed25519, X25519, HKDF-SHA256 and Reticulum token primitives for DotReticulum."
+2026-11-23T23:48:57.213Z,DotReticulum.Interfaces,1.5.7.158,DotReticulum contributors,"Reticulum UDP, TCP, serial and other network interfaces for DotReticulum."
+2026-11-23T23:48:58.69Z,DotReticulum.Transport,1.5.7.158,DotReticulum contributors,"Reticulum announces, routing, path discovery, links, channels and resources for DotReticulum."
+2026-11-23T23:58:28.183Z,GameEventScript.Network,0.6.0,Stephan Schlöpke,"Portable, synchronous Game Event Script network sessions over schema-declared routes, with a deterministic simulated network. No threads, sockets or async."
+2026-11-23T23:58:29.37Z,GameEventScript.Network.Sockets,0.6.0,Stephan Schlöpke,"TCP, WebSocket and UDP transports for Game Event Script network sessions. Background tasks move bytes only; the host drives the connection on its own thread."
+2026-11-24T00:02:05.87Z,Winche.Integrity,1.0.0,Ehsan Rashidi,"Winche Integrity: a project's apps prove they're its own (App Attest, Play Integrity, a browser check with Cloudflare Turnstile, or debug tokens) and get short-lived tokens; each product checks them, counts them, and can refuse requests without one."
+2026-11-24T00:02:06.673Z,Winche.Integrity.AspNetCore,1.0.0,Ehsan Rashidi,"Winche Integrity for ASP.NET Core: the apps' token exchange (/integrity/v1/exchange) and the check each product's API makes (count, refuse where enforced)."
