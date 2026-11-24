@@ -12,31 +12,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 10:21 UTC
+## Latest list — 2026-11-24 11:22 UTC
 
-New packages created between 2026-11-24 09:19 UTC and 2026-11-24 10:21 UTC.
+New packages created between 2026-11-24 10:21 UTC and 2026-11-24 11:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T10-21-00-511257Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T11-22-35-677059Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 09:21:04 | [Fungusware.WinFormsThemes](https://www.nuget.org/packages/Fungusware.WinFormsThemes) | 2026.11.24.920 | Fungusware | Themes for WinForms apps: colour tokens, ready-made light and dark themes, in-p… |
-| 2026-11-24 09:21:06 | [Fungusware.WinFormsThemes.Krypton](https://www.nuget.org/packages/Fungusware.WinFormsThemes.Krypton) | 2026.11.24.920 | Fungusware | Fungusware.WinFormsThemes for Krypton Toolkit: builds the Krypton palette (form… |
-| 2026-11-24 09:21:09 | [Fungusware.WinFormsThemes.ObjectListView](https://www.nuget.org/packages/Fungusware.WinFormsThemes.ObjectListView) | 2026.11.24.920 | Fungusware | Fungusware.WinFormsThemes for ObjectListView: themed headers, selection colours… |
-| 2026-11-24 09:21:11 | [Fungusware.WinFormsThemes.Editor](https://www.nuget.org/packages/Fungusware.WinFormsThemes.Editor) | 2026.11.24.920 | Fungusware | A fast, themeable WinForms code editor control with syntax highlighting, minima… |
-| 2026-11-24 09:26:08 | [PinguApps.Playbook.win-x64](https://www.nuget.org/packages/PinguApps.Playbook.win-x64) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 09:26:17 | [PinguApps.Playbook.win-arm64](https://www.nuget.org/packages/PinguApps.Playbook.win-arm64) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 09:26:26 | [PinguApps.Playbook.osx-x64](https://www.nuget.org/packages/PinguApps.Playbook.osx-x64) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 09:26:35 | [PinguApps.Playbook.osx-arm64](https://www.nuget.org/packages/PinguApps.Playbook.osx-arm64) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 09:26:44 | [PinguApps.Playbook.linux-x64](https://www.nuget.org/packages/PinguApps.Playbook.linux-x64) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 09:26:53 | [PinguApps.Playbook.linux-arm64](https://www.nuget.org/packages/PinguApps.Playbook.linux-arm64) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 09:27:01 | [PinguApps.Playbook.any](https://www.nuget.org/packages/PinguApps.Playbook.any) | 1.1.0 | PinguApps | Original, offline .NET implementation recipes for coding agents over stdio MCP. |
-| 2026-11-24 10:06:18 | [Waniwani.Relay](https://www.nuget.org/packages/Waniwani.Relay) | 0.7.1 | Waniwani | Records AI agent visits to your website and serves Waniwani agent pages. The co… |
-| 2026-11-24 10:06:18 | [Waniwani.Relay.AspNetCore](https://www.nuget.org/packages/Waniwani.Relay.AspNetCore) | 0.7.1 | Waniwani | The Waniwani relay for ASP.NET Core. Middleware that records AI agent visits an… |
-| 2026-11-24 10:06:19 | [Waniwani.Relay.AspNet](https://www.nuget.org/packages/Waniwani.Relay.AspNet) | 0.7.1 | Waniwani | The Waniwani relay for classic ASP.NET (System.Web) on IIS. An IHttpModule that… |
-| 2026-11-24 10:08:00 | [InnovateSoftware.Promotions.Client](https://www.nuget.org/packages/InnovateSoftware.Promotions.Client) | 1.0.0 | Innovate Software | Client for the Integration API of Aliya Promotions & Loyalty: price carts, rese… |
-| 2026-11-24 10:11:07 | [Credfeto.Git.Mcp](https://www.nuget.org/packages/Credfeto.Git.Mcp) | 0.0.3.71-read-only-… | Mark Ridgwell | Credfeto Git MCP server: a fixed set of git operations with validated inputs ov… |
-| 2026-11-24 10:11:07 | [Credfeto.Git.Mcp.any](https://www.nuget.org/packages/Credfeto.Git.Mcp.any) | 0.0.3.71-read-only-… | Mark Ridgwell | Credfeto Git MCP server: a fixed set of git operations with validated inputs ov… |
+| 2026-11-24 10:21:45 | [Grimoire.Cli](https://www.nuget.org/packages/Grimoire.Cli) | 2.21.1 | Guilherme Branco Stracini | Command-line client for Grimoire, the self-hosted Vault & Configuration Manager… |
+| 2026-11-24 10:30:55 | [Sphere10.Framework.Generators](https://www.nuget.org/packages/Sphere10.Framework.Generators) | 3.2.0 | Herman Schoenfeld | C# source generators for Sphere10 Framework that generate boilerplate at compil… |
+| 2026-11-24 10:30:56 | [Sphere10.Framework.NUnit](https://www.nuget.org/packages/Sphere10.Framework.NUnit) | 3.2.0 | Herman Schoenfeld | NUnit extensions and test helpers for Sphere10 Framework projects. Provides reu… |
+| 2026-11-24 10:30:57 | [Sphere10.Framework.NUnit.DB](https://www.nuget.org/packages/Sphere10.Framework.NUnit.DB) | 3.2.0 | Herman Schoenfeld | Database testing helpers for Sphere10.Framework.Data and provider packages usin… |
+| 2026-11-24 10:30:57 | [Sphere10.Framework.Web](https://www.nuget.org/packages/Sphere10.Framework.Web) | 3.2.0 | Herman Schoenfeld | Web models and utilities independent of ASP.NET Core: HTML formatting, animatio… |
+| 2026-11-24 10:30:59 | [Sphere10.Framework.Web.AspNetCore.Blazor](https://www.nuget.org/packages/Sphere10.Framework.Web.AspNetCore.Blazor) | 3.2.0 | Herman Schoenfeld | Sphere10 Framework Blazor components, application shells, dialogs, wizards and… |
+| 2026-11-24 10:31:00 | [Sphere10.Framework.Web.AspNetCore.MVC](https://www.nuget.org/packages/Sphere10.Framework.Web.AspNetCore.MVC) | 3.2.0 | Herman Schoenfeld | ASP.NET Core MVC extensions for Sphere10 Framework: controllers, Razor HTML hel… |
+| 2026-11-24 10:31:01 | [Sphere10.Framework.Web.VisualRenderer](https://www.nuget.org/packages/Sphere10.Framework.Web.VisualRenderer) | 3.2.0 | Herman Schoenfeld | Render an independent visual object model to HTML and plain text, using embedde… |
+| 2026-11-24 10:31:04 | [Sphere10.Framework.Windows.Forms.DataVisualization](https://www.nuget.org/packages/Sphere10.Framework.Windows.Forms.DataVisualization) | 3.2.0 | Microsoft,.NET Foundation,Kir… | Windows Forms charting controls imported from the legacy Microsoft DataVisualiz… |
+| 2026-11-24 10:31:11 | [Sphere10.Framework.Windows.Store](https://www.nuget.org/packages/Sphere10.Framework.Windows.Store) | 3.2.0 | Herman Schoenfeld | Windows Store distribution support for Sphere10 Framework applications. Provide… |
+| 2026-11-24 10:42:33 | [Levelmaster.Client](https://www.nuget.org/packages/Levelmaster.Client) | 1.0.0 | J.W. Volschenk | .NET client for the Levelmaster realtime tank-telemetry stream. Authenticates w… |
+| 2026-11-24 10:43:58 | [Zharp.Godot](https://www.nuget.org/packages/Zharp.Godot) | 0.2.0 | Zharp | Zharp for Godot .NET (C#) games, with the Zharp Godot addon: ZharpGodot.Start(t… |
+| 2026-11-24 10:44:00 | [Zharp.Maui](https://www.nuget.org/packages/Zharp.Maui) | 0.2.0 | Zharp | Zharp for .NET MAUI: builder.UseZharp() reports crashes (saved to disk and sent… |
+| 2026-11-24 10:44:01 | [Zharp.Windows](https://www.nuget.org/packages/Zharp.Windows) | 0.2.0 | Zharp | Zharp for WPF and Windows Forms apps: ZharpApp.Start() reports crashes (saved t… |
+| 2026-11-24 10:46:33 | [Reglet.Mcp](https://www.nuget.org/packages/Reglet.Mcp) | 1.7.0 | Maik Rehder | MCP server for Reglet: lets AI agents create, convert, read, fill and validate… |
+| 2026-11-24 10:48:17 | [LegacyMigrationScanner](https://www.nuget.org/packages/LegacyMigrationScanner) | 0.5.0 | Alex | dotnet tool that scans .NET Framework 4.x solutions and reports migration block… |
+| 2026-11-24 10:48:18 | [LegacyMigrationScanner.Core](https://www.nuget.org/packages/LegacyMigrationScanner.Core) | 0.5.0 | Alex | Analysis engine of Legacy Migration Scanner: detects .NET Framework to modern .… |
+| 2026-11-24 10:48:19 | [LegacyMigrationScanner.Mcp](https://www.nuget.org/packages/LegacyMigrationScanner.Mcp) | 0.5.0 | Alex | Model Context Protocol tools and prompts for Legacy Migration Scanner (hosted b… |
+| 2026-11-24 10:59:45 | [Soenneker.Redis.Tunnels.WebSockets](https://www.nuget.org/packages/Soenneker.Redis.Tunnels.WebSockets) | 11.0.2 | Jake Soenneker | A WebSocket tunnel for StackExchange.Redis connections. |
+| 2026-11-24 11:09:15 | [RaiCore.Pdf.Xfa](https://www.nuget.org/packages/RaiCore.Pdf.Xfa) | 1.2.0 | Mikkel Raicevic-Larsen | Render dynamic XFA forms (XML Forms Architecture, from Adobe LiveCycle Designer… |
 
 ## Data source
 
