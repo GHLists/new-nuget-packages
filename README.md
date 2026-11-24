@@ -12,20 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:21 UTC
+## Latest list — 2026-11-24 21:22 UTC
 
-New packages created between 2026-11-24 19:20 UTC and 2026-11-24 20:21 UTC.
+New packages created between 2026-11-24 20:21 UTC and 2026-11-24 21:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T20-21-25-44417Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T21-22-39-142286Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 19:31:21 | [Umbraco.Community.PropertyJsonViewer](https://www.nuget.org/packages/Umbraco.Community.PropertyJsonViewer) | 18.0.0 | Jack Stunell | See and fix the raw value Umbraco stores for any document property, right from… |
-| 2026-11-24 19:33:00 | [ElRoso.Commons.OpenApi](https://www.nuget.org/packages/ElRoso.Commons.OpenApi) | 1.0.0 | Di Rosolini Ezequiel | OpenAPI nativo de ASP.NET Core, un documento por versión de API, con esquemas J… |
-| 2026-11-24 19:39:01 | [Esatto.Umbraco.Backoffice.SeoReport](https://www.nuget.org/packages/Esatto.Umbraco.Backoffice.SeoReport) | 1.0.0 | Carl Schéle | SEO Report for Umbraco: a Content-section dashboard that turns Google Analytics… |
-| 2026-11-24 19:46:11 | [GroundWerk.Telemetry](https://www.nuget.org/packages/GroundWerk.Telemetry) | 2.0.1 | The GroundWerk authors | Sets up OpenTelemetry traces, metrics and structured logs for an ASP.NET Core s… |
-| 2026-11-24 20:00:15 | [Kebechet.Maui.WebView.VersionGate](https://www.nuget.org/packages/Kebechet.Maui.WebView.VersionGate) | 1.0.0 | Kebechet | Holds a .NET MAUI app behind an update dialog while the Android System WebView… |
-| 2026-11-24 20:03:40 | [Bequadro](https://www.nuget.org/packages/Bequadro) | 0.1.0 | James Duley | An incremental source generator and runtime for FlatBuffers schemas (.fbs). |
+| 2026-11-24 20:33:18 | [Arthur.Genesis](https://www.nuget.org/packages/Arthur.Genesis) | 0.1.17 | AuthurOne | Source and Visual Studio build project for the Arthur AXAML Editor extension. |
+| 2026-11-24 20:38:17 | [FonsecaFramework.Ai.Knowledge](https://www.nuget.org/packages/FonsecaFramework.Ai.Knowledge) | 2026.11.24.2 | FonsecaFramework.Ai.Knowledge | Partitioned hybrid knowledge indexing with VectorData 11 and in-memory, SQLite,… |
+| 2026-11-24 20:46:44 | [EmailKitchen](https://www.nuget.org/packages/EmailKitchen) | 1.0.0 | Mateusz Mardosz | Preview, test, and send Razor email templates in ASP.NET Core. Edit sample data… |
+| 2026-11-24 20:46:49 | [ManagedCompressions.Brotli](https://www.nuget.org/packages/ManagedCompressions.Brotli) | 0.4.0 | Evariops | A Brotli (RFC 7932) decompressor and compressor in fully managed C#: no native… |
+| 2026-11-24 20:47:55 | [BitBindle.ClosedXML](https://www.nuget.org/packages/BitBindle.ClosedXML) | 0.107.3 | Jan Havlíček, Francois Botha,… | See release notes https://github.com/BitBindle/ClosedXML/releases/tag/0.107.3 C… |
+| 2026-11-24 20:48:27 | [BitBindle.ClosedXML.IO](https://www.nuget.org/packages/BitBindle.ClosedXML.IO) | 0.107.3 | Jan Havlíček, Francois Botha,… | See release notes https://github.com/BitBindle/ClosedXML/releases/tag/0.107.3 C… |
+| 2026-11-24 20:49:27 | [CHDSharp.Cli](https://www.nuget.org/packages/CHDSharp.Cli) | 1.7.2 | Peterson Fernandes | Pure C# CHD (Compressed Hunks of Data) command-line tool, compatible with MAME'… |
+| 2026-11-24 20:56:32 | [Racka](https://www.nuget.org/packages/Racka) | 26.11.2 | David Kozma | Multi-agent framework on .NET: agents on Claude Code, Codex, the Claude API or… |
+| 2026-11-24 21:10:24 | [MyGeocode](https://www.nuget.org/packages/MyGeocode) | 1.1.1 | My Geocode | Official .NET client for the My Geocode API: forward and reverse geocoding, add… |
+| 2026-11-24 21:15:21 | [Duxel.Linux.App](https://www.nuget.org/packages/Duxel.Linux.App) | 0.4.0 | dimohy | Linux X11 host for Duxel, a Vulkan-rendered .NET desktop UI library. |
+| 2026-11-24 21:15:59 | [Zzdats.Lgp.Common.Caching.Oracle](https://www.nuget.org/packages/Zzdats.Lgp.Common.Caching.Oracle) | 10.0.0 | Zzdats.Lgp.Common.Caching.Ora… | Distributed cache implementation using Oracle database for NetStandard 2.0 |
 
 ## Data source
 
