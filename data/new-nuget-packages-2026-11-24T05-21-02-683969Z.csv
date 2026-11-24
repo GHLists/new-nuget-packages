@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-24T04:29:10.85Z,Ethereum.LeanPq,0.17.0,leanEthereum,".NET bindings for leanXMSS and leanSPHINCS post-quantum signatures, their leanVM aggregation, and the consensus VRF tree"
+2026-11-24T04:44:36.07Z,PlcSimulator.Lite.OpcUa,2.2.15,UseThink,ZL.PlcSimulator 的 OPC UA 协议扩展（可选；不引用则不引入 OPC UA 的 18 个依赖）
+2026-11-24T05:00:57.13Z,Umbraco.Community.UfmLabelPreview,1.0.0,Nathaniel Nunes,"Live preview of block labels (Umbraco Flavored Markdown) while configuring Block List, Block Grid, Block RTE and Block Single types, using mock data. Configuration-time aid only; no content lookups, no telemetry."
+2026-11-24T05:09:53.223Z,Msfp.Describe,0.8.0-preview,The MSFP contributors,"MSFP's copies from media files: the media type from a file's first bytes, ffprobe run safely (the sniffed demuxer, the file protocol only, bounded runs, codec records read apart, attachments never read), RFC 6381 codecs strings from the codec records, and the copy shaped in MSFP's vocabularies (vid…"
+2026-11-24T05:13:13.977Z,LYBox.Plugin.Shared.Web,2.4.0,LYBoxPlugin,"Web SDK for LYBox Avalonia Web plugins: WebView control, embedded Kestrel static host, WebView IPC (RPC/SSE/Channel), and browser-side JS + theme CSS assets."
