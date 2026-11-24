@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-24T09:21:04.71Z,Fungusware.WinFormsThemes,2026.11.24.920,Fungusware,"Themes for WinForms apps: colour tokens, ready-made light and dark themes, in-place styling of plain WinForms controls, a flat menu and toolbar renderer, status colours, and adapters that carry the theme to Krypton, ObjectListView and other control suites. No third-party dependencies."
+2026-11-24T09:21:06.937Z,Fungusware.WinFormsThemes.Krypton,2026.11.24.920,Fungusware,"Fungusware.WinFormsThemes for Krypton Toolkit: builds the Krypton palette (forms, buttons, inputs, grid, Navigator, Ribbon, Docking) from the active theme and styles Krypton controls."
+2026-11-24T09:21:09.093Z,Fungusware.WinFormsThemes.ObjectListView,2026.11.24.920,Fungusware,"Fungusware.WinFormsThemes for ObjectListView: themed headers, selection colours, empty-list message and column sizing that follow the active theme."
+2026-11-24T09:21:11.383Z,Fungusware.WinFormsThemes.Editor,2026.11.24.920,Fungusware,"A fast, themeable WinForms code editor control with syntax highlighting, minimap and completion. No third-party dependencies."
+2026-11-24T09:26:08.447Z,PinguApps.Playbook.win-x64,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T09:26:17.047Z,PinguApps.Playbook.win-arm64,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T09:26:26.11Z,PinguApps.Playbook.osx-x64,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T09:26:35.253Z,PinguApps.Playbook.osx-arm64,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T09:26:44.403Z,PinguApps.Playbook.linux-x64,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T09:26:53.75Z,PinguApps.Playbook.linux-arm64,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T09:27:01.873Z,PinguApps.Playbook.any,1.1.0,PinguApps,"Original, offline .NET implementation recipes for coding agents over stdio MCP."
+2026-11-24T10:06:18.093Z,Waniwani.Relay,0.7.1,Waniwani,Records AI agent visits to your website and serves Waniwani agent pages. The core of the Waniwani relay. It has no dependencies.
+2026-11-24T10:06:18.777Z,Waniwani.Relay.AspNetCore,0.7.1,Waniwani,The Waniwani relay for ASP.NET Core. Middleware that records AI agent visits and serves Waniwani agent pages.
+2026-11-24T10:06:19.68Z,Waniwani.Relay.AspNet,0.7.1,Waniwani,The Waniwani relay for classic ASP.NET (System.Web) on IIS. An IHttpModule that records AI agent visits and serves Waniwani agent pages.
+2026-11-24T10:08:00.91Z,InnovateSoftware.Promotions.Client,1.0.0,Innovate Software,"Client for the Integration API of Aliya Promotions & Loyalty: price carts, reserve, confirm and cancel orders, loyalty points, referrals, gift cards and more, with typed errors and safe retries."
+2026-11-24T10:11:07.27Z,Credfeto.Git.Mcp,0.0.3.71-read-only-…,Mark Ridgwell,Credfeto Git MCP server: a fixed set of git operations with validated inputs over stdio MCP
+2026-11-24T10:11:07.657Z,Credfeto.Git.Mcp.any,0.0.3.71-read-only-…,Mark Ridgwell,Credfeto Git MCP server: a fixed set of git operations with validated inputs over stdio MCP
