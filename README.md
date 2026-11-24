@@ -12,21 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 03:18 UTC
+## Latest list — 2026-11-24 04:20 UTC
 
-New packages created between 2026-11-24 02:21 UTC and 2026-11-24 03:18 UTC.
+New packages created between 2026-11-24 03:18 UTC and 2026-11-24 04:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T03-18-57-945831Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T04-20-58-204121Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 02:25:25 | [PortraitGeometry.EyeLine](https://www.nuget.org/packages/PortraitGeometry.EyeLine) | 0.1.0 | js-upup | Compute a portrait leveling rotation from two eye landmarks. Source-only C# con… |
-| 2026-11-24 02:34:48 | [HandlerR](https://www.nuget.org/packages/HandlerR) | 1.0.0 | HandlerR Contributors | In-process message dispatcher: requests, notifications, streaming, pipeline beh… |
-| 2026-11-24 02:35:21 | [HandlerR.Contracts](https://www.nuget.org/packages/HandlerR.Contracts) | 1.0.0 | HandlerR Contributors | Contracts package for requests, responses, and notifications. |
-| 2026-11-24 02:35:35 | [HandlerR.FluentValidation](https://www.nuget.org/packages/HandlerR.FluentValidation) | 1.0.0 | HandlerR Contributors | Optional FluentValidation adapter for HandlerR. Implemented in-house; does not… |
-| 2026-11-24 02:40:30 | [UrcConverter](https://www.nuget.org/packages/UrcConverter) | 0.2.1 | CloudHolic | URC (Universal Rhythm Chart) parser, serializer, playback rate scaler, and VSRG… |
-| 2026-11-24 02:42:18 | [EasyAdminBlazor.Sms](https://www.nuget.org/packages/EasyAdminBlazor.Sms) | 2.7.0 | gudufy | EasyAdminBlazor 短信发送扩展：聚合阿里云、腾讯云、SendCloud 三家短信平台，纯 HTTP 实现（各平台签名自行计算），不引用任何官方… |
-| 2026-11-24 03:06:23 | [Skywithin.Backlog](https://www.nuget.org/packages/Skywithin.Backlog) | 0.1.0 | Max Vagner | A markdown backlog in your repository (backlog/items/*.md with frontmatter) and… |
+| 2026-11-24 03:49:43 | [Nefarius.Tools.DDG](https://www.nuget.org/packages/Nefarius.Tools.DDG) | 1.0.0 | Benjamin Höglinger-Stelzer | Grow a mounted Windows Dev Drive's VHDX, GPT partition, and ReFS filesystem in… |
+| 2026-11-24 04:05:39 | [AIKernel.Providers.DocumentSearch](https://www.nuget.org/packages/AIKernel.Providers.DocumentSearch) | 0.1.4 | Takuya Sogawa | Read-only local keyword search for Markdown and text, with reproducible documen… |
+| 2026-11-24 04:06:44 | [L3Lint.Core](https://www.nuget.org/packages/L3Lint.Core) | 1.0.0 | l3lint contributors | The l3lint engine: canonical commercial card payload model, money and currency… |
+| 2026-11-24 04:06:45 | [l3lint](https://www.nuget.org/packages/l3lint) | 1.0.0 | l3lint contributors | l3lint command-line tool: lints commercial card Level 2 and Level 3 payloads ag… |
+| 2026-11-24 04:06:46 | [L3Lint.Rules.General](https://www.nuget.org/packages/L3Lint.Rules.General) | 1.0.0 | l3lint contributors | The l3lint general (all brands) rule pack (l3lint.rules.general): versioned, so… |
+| 2026-11-24 04:06:47 | [L3Lint.Rules.Discover](https://www.nuget.org/packages/L3Lint.Rules.Discover) | 1.0.0 | l3lint contributors | The l3lint Discover rule pack (l3lint.rules.discover): versioned, sourced rules… |
+| 2026-11-24 04:06:48 | [L3Lint.Mcp](https://www.nuget.org/packages/L3Lint.Mcp) | 1.0.0 | l3lint contributors | l3lint MCP server: lets AI agents lint commercial card Level 2 and Level 3 payl… |
+| 2026-11-24 04:06:49 | [L3Lint.Hosting](https://www.nuget.org/packages/L3Lint.Hosting) | 1.0.0 | l3lint contributors | l3lint for .NET services: AddL3Lint() registration, configuration loading and b… |
+| 2026-11-24 04:06:50 | [L3Lint.Reporting](https://www.nuget.org/packages/L3Lint.Reporting) | 1.0.0 | l3lint contributors | l3lint output writers: text, JSON, SARIF 2.1.0, JUnit XML and Markdown. |
+| 2026-11-24 04:06:51 | [L3Lint.Rules.Mastercard](https://www.nuget.org/packages/L3Lint.Rules.Mastercard) | 1.0.0 | l3lint contributors | The l3lint Mastercard rule pack (l3lint.rules.mastercard): versioned, sourced r… |
+| 2026-11-24 04:06:51 | [L3Lint.Adapters](https://www.nuget.org/packages/L3Lint.Adapters) | 1.0.0 | l3lint contributors | l3lint input adapters for Stripe, Adyen, Braintree, Cybersource, Authorize.net… |
+| 2026-11-24 04:06:52 | [L3Lint.Rules.Visa](https://www.nuget.org/packages/L3Lint.Rules.Visa) | 1.0.0 | l3lint contributors | The l3lint Visa rule pack (l3lint.rules.visa): versioned, sourced rules as YAML… |
+| 2026-11-24 04:06:53 | [L3Lint.Rules.Amex](https://www.nuget.org/packages/L3Lint.Rules.Amex) | 1.0.0 | l3lint contributors | The l3lint American Express rule pack (l3lint.rules.amex): versioned, sourced r… |
+| 2026-11-24 04:14:57 | [ApiFeatures.Authentications.Users.Cores](https://www.nuget.org/packages/ApiFeatures.Authentications.Users.Cores) | 10.0.0 | Linh Nguyen | Shared user model of the iot-vn Authentication Service: IUser, UserDto, coordin… |
+| 2026-11-24 04:15:03 | [ApiFeatures.Authentications.Users.Databases.Mongo](https://www.nuget.org/packages/ApiFeatures.Authentications.Users.Databases.Mongo) | 10.0.0 | Linh Nguyen | MongoDB storage of the iot-vn Authentication Service Users module: registers th… |
+| 2026-11-24 04:15:07 | [ApiFeatures.Authentications.Users.Databases.Postgres](https://www.nuget.org/packages/ApiFeatures.Authentications.Users.Databases.Postgres) | 10.0.0 | Linh Nguyen | PostgreSQL storage of the iot-vn Authentication Service Users module: registers… |
+| 2026-11-24 04:15:10 | [ApiFeatures.Authentications.Users](https://www.nuget.org/packages/ApiFeatures.Authentications.Users) | 10.0.0 | Linh Nguyen | The Users module of the iot-vn Authentication Service: the user endpoints, auth… |
 
 ## Data source
 
