@@ -1,0 +1,191 @@
+created_at,package,version,authors,description
+2026-11-24T12:25:51.85Z,Touchque.DeviceRisk,1.0.0,Touchque,"Official .NET server SDK for Touchque Device Risk: check a page's device identification for an account, read and search identifications, report what a visitor did (payments, failed sign-ins, probing, SMS codes, wrong codes) and verify Device risk webhooks."
+2026-11-24T12:26:10.793Z,Rustorb.Types,0.7.1,rustorb contributors,"The Omg.Types namespace of the IDL4 to C# mapping (formal/21-07-01): the IDL sequence ISequence<T> with its implementation Sequence<T>, and the mapping's attributes. Used by the code rustorb-idl -bcsharp writes, for CORBA (the package Rustorb) and DDS (Rustorb.Dds)."
+2026-11-24T12:30:39.917Z,ClikClok,0.1.4,Matthias Voigt,Upload videos to TikTok through the official Content Posting API.
+2026-11-24T12:44:22.83Z,CoilPro,0.1.0,dotnet services,"Unofficial .NET SDK for the Tesla Fleet API. Not affiliated with Tesla, Inc."
+2026-11-24T12:44:23.77Z,CoilPro.Commands,0.1.0,dotnet services,"Signed vehicle commands (Tesla Vehicle Command Protocol) for CoilPro, in pure C#. Not affiliated with Tesla, Inc."
+2026-11-24T12:44:24.657Z,CoilPro.Cli,0.1.0,dotnet services,"Command-line companion for CoilPro: OAuth login (loopback redirect), key generation, and smoke tests for the Tesla Fleet API. Not affiliated with Tesla, Inc."
+2026-11-24T12:44:25.38Z,CoilPro.AspNetCore,0.1.0,dotnet services,"ASP.NET Core / generic-host DI extensions for CoilPro (Tesla Fleet API SDK). Not affiliated with Tesla, Inc."
+2026-11-24T12:49:33.44Z,Compile.Shift.Cli,0.0.20,Compile Pty Ltd,"The Shift command-line tool: apply DMD schema definitions to SQL Server, export a database back to DMD, and generate EF Core and DBML output"
+2026-11-24T12:49:33.633Z,Compile.Shift.Dbml,0.0.20,Compile Pty Ltd,A DBML exporter for Compile.Shift: renders a DMD model as a DBML document for dbdiagram.io
+2026-11-24T12:50:17.853Z,TesseractOCR.Languages.Afrikaans,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model afr (Afrikaans) for the LSTM OCR engine.
+2026-11-24T12:50:21.48Z,TesseractOCR.Languages.Albanian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model sqi (Albanian) for the LSTM OCR engine.
+2026-11-24T12:50:25.023Z,TesseractOCR.Languages.Amharic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model amh (Amharic) for the LSTM OCR engine.
+2026-11-24T12:50:27.417Z,TesseractOCR.Languages.Arabic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ara (Arabic) for the LSTM OCR engine.
+2026-11-24T12:50:30.317Z,TesseractOCR.Languages.Armenian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model hye (Armenian) for the LSTM OCR engine.
+2026-11-24T12:50:33.147Z,TesseractOCR.Languages.Assamese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model asm (Assamese) for the LSTM OCR engine.
+2026-11-24T12:50:36.127Z,TesseractOCR.Languages.Azerbaijani,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model aze (Azerbaijani) for the LSTM OCR engine.
+2026-11-24T12:50:38.737Z,TesseractOCR.Languages.AzerbaijaniCyrilic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model aze_cyrl (AzerbaijaniCyrilic) for the LSTM OCR engine.
+2026-11-24T12:50:42.177Z,TesseractOCR.Languages.Basque,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model eus (Basque) for the LSTM OCR engine.
+2026-11-24T12:50:45.22Z,TesseractOCR.Languages.Belarusian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model bel (Belarusian) for the LSTM OCR engine.
+2026-11-24T12:50:47.463Z,TesseractOCR.Languages.Bengali,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ben (Bengali) for the LSTM OCR engine.
+2026-11-24T12:50:50.23Z,TesseractOCR.Languages.Bosnian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model bos (Bosnian) for the LSTM OCR engine.
+2026-11-24T12:50:54.673Z,TesseractOCR.Languages.Breton,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model bre (Breton) for the LSTM OCR engine.
+2026-11-24T12:50:57.313Z,TesseractOCR.Languages.Bulgarian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model bul (Bulgarian) for the LSTM OCR engine.
+2026-11-24T12:51:01.367Z,TesseractOCR.Languages.Burmese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mya (Burmese) for the LSTM OCR engine.
+2026-11-24T12:51:03.763Z,TesseractOCR.Languages.CatalanValencian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model cat (CatalanValencian) for the LSTM OCR engine.
+2026-11-24T12:51:06.13Z,TesseractOCR.Languages.Cebuano,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ceb (Cebuano) for the LSTM OCR engine.
+2026-11-24T12:51:08.78Z,TesseractOCR.Languages.CentralKhmer,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model khm (CentralKhmer) for the LSTM OCR engine.
+2026-11-24T12:51:10.793Z,TesseractOCR.Languages.Cherokee,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model chr (Cherokee) for the LSTM OCR engine.
+2026-11-24T12:51:13.52Z,TesseractOCR.Languages.chi_sim_vert,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model chi_sim_vert (chi_sim_vert) for the LSTM OCR engine.
+2026-11-24T12:51:16.257Z,TesseractOCR.Languages.chi_tra_vert,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model chi_tra_vert (chi_tra_vert) for the LSTM OCR engine.
+2026-11-24T12:51:19.48Z,TesseractOCR.Languages.ChineseSimplified,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model chi_sim (ChineseSimplified) for the LSTM OCR engine.
+2026-11-24T12:51:22.563Z,TesseractOCR.Languages.ChineseTraditional,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model chi_tra (ChineseTraditional) for the LSTM OCR engine.
+2026-11-24T12:51:25.583Z,TesseractOCR.Languages.Corsican,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model cos (Corsican) for the LSTM OCR engine.
+2026-11-24T12:51:28.81Z,TesseractOCR.Languages.Croatian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model hrv (Croatian) for the LSTM OCR engine.
+2026-11-24T12:51:31.873Z,TesseractOCR.Languages.Czech,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ces (Czech) for the LSTM OCR engine.
+2026-11-24T12:51:34.78Z,TesseractOCR.Languages.Danish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model dan (Danish) for the LSTM OCR engine.
+2026-11-24T12:51:39.2Z,TesseractOCR.Languages.deu_latf,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model deu_latf (deu_latf) for the LSTM OCR engine.
+2026-11-24T12:51:41.837Z,TesseractOCR.Languages.div,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model div (div) for the LSTM OCR engine.
+2026-11-24T12:51:45.867Z,TesseractOCR.Languages.Dutch,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model nld (Dutch) for the LSTM OCR engine.
+2026-11-24T12:51:48.05Z,TesseractOCR.Languages.Dzongkha,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model dzo (Dzongkha) for the LSTM OCR engine.
+2026-11-24T12:51:51.317Z,TesseractOCR.Languages.English,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model eng (English) for the LSTM OCR engine.
+2026-11-24T12:51:54.547Z,TesseractOCR.Languages.EnglishMiddle,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model enm (EnglishMiddle) for the LSTM OCR engine.
+2026-11-24T12:51:58Z,TesseractOCR.Languages.Esperanto,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model epo (Esperanto) for the LSTM OCR engine.
+2026-11-24T12:52:01.317Z,TesseractOCR.Languages.Estonian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model est (Estonian) for the LSTM OCR engine.
+2026-11-24T12:52:04.547Z,TesseractOCR.Languages.Faroese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model fao (Faroese) for the LSTM OCR engine.
+2026-11-24T12:52:06.98Z,TesseractOCR.Languages.Filipino,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model fil (Filipino) for the LSTM OCR engine.
+2026-11-24T12:52:11.63Z,TesseractOCR.Languages.Finnish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model fin (Finnish) for the LSTM OCR engine.
+2026-11-24T12:52:14.9Z,TesseractOCR.Languages.French,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model fra (French) for the LSTM OCR engine.
+2026-11-24T12:52:17.74Z,TesseractOCR.Languages.FrenchMiddle,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model frm (FrenchMiddle) for the LSTM OCR engine.
+2026-11-24T12:52:20.737Z,TesseractOCR.Languages.Galician,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model glg (Galician) for the LSTM OCR engine.
+2026-11-24T12:52:23.607Z,TesseractOCR.Languages.Georgian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kat (Georgian) for the LSTM OCR engine.
+2026-11-24T12:52:25.737Z,TesseractOCR.Languages.GeorgianOld,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kat_old (GeorgianOld) for the LSTM OCR engine.
+2026-11-24T12:52:28.313Z,TesseractOCR.Languages.German,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model deu (German) for the LSTM OCR engine.
+2026-11-24T12:52:30.03Z,TesseractOCR.Languages.GermanFraktur,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model frk (GermanFraktur) for the LSTM OCR engine.
+2026-11-24T12:52:32.67Z,TesseractOCR.Languages.GreekAncientContrib,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model grc (GreekAncientContrib) for the LSTM OCR engine.
+2026-11-24T12:52:35.11Z,TesseractOCR.Languages.GreekModern,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ell (GreekModern) for the LSTM OCR engine.
+2026-11-24T12:52:37.447Z,TesseractOCR.Languages.Gujarati,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model guj (Gujarati) for the LSTM OCR engine.
+2026-11-24T12:52:40.417Z,TesseractOCR.Languages.Haitian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model hat (Haitian) for the LSTM OCR engine.
+2026-11-24T12:52:42.747Z,TesseractOCR.Languages.Hebrew,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model heb (Hebrew) for the LSTM OCR engine.
+2026-11-24T12:52:45.353Z,TesseractOCR.Languages.Hindi,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model hin (Hindi) for the LSTM OCR engine.
+2026-11-24T12:52:48.767Z,TesseractOCR.Languages.Hungarian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model hun (Hungarian) for the LSTM OCR engine.
+2026-11-24T12:52:54.727Z,TesseractOCR.Languages.Icelandic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model isl (Icelandic) for the LSTM OCR engine.
+2026-11-24T12:52:57.263Z,TesseractOCR.Languages.Indonesian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ind (Indonesian) for the LSTM OCR engine.
+2026-11-24T12:53:00.12Z,TesseractOCR.Languages.Inuktitut,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model iku (Inuktitut) for the LSTM OCR engine.
+2026-11-24T12:53:02.443Z,TesseractOCR.Languages.Irish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model gle (Irish) for the LSTM OCR engine.
+2026-11-24T12:53:05.297Z,TesseractOCR.Languages.Italian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ita (Italian) for the LSTM OCR engine.
+2026-11-24T12:53:08.593Z,TesseractOCR.Languages.ItalianOld,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ita_old (ItalianOld) for the LSTM OCR engine.
+2026-11-24T12:53:11.52Z,TesseractOCR.Languages.Japanese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model jpn (Japanese) for the LSTM OCR engine.
+2026-11-24T12:53:14.937Z,TesseractOCR.Languages.JapaneseVertical,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model jpn_vert (JapaneseVertical) for the LSTM OCR engine.
+2026-11-24T12:53:18.07Z,TesseractOCR.Languages.Javanese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model jav (Javanese) for the LSTM OCR engine.
+2026-11-24T12:53:21.26Z,TesseractOCR.Languages.Kannada,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kan (Kannada) for the LSTM OCR engine.
+2026-11-24T12:53:24.667Z,TesseractOCR.Languages.Kazakh,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kaz (Kazakh) for the LSTM OCR engine.
+2026-11-24T12:53:29.657Z,TesseractOCR.Languages.KirghizKyrgyz,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kir (KirghizKyrgyz) for the LSTM OCR engine.
+2026-11-24T12:53:32.4Z,TesseractOCR.Languages.Korean,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kor (Korean) for the LSTM OCR engine.
+2026-11-24T12:53:34.947Z,TesseractOCR.Languages.KoreanVertical,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kor_vert (KoreanVertical) for the LSTM OCR engine.
+2026-11-24T12:53:38.147Z,TesseractOCR.Languages.Kurmanji,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model kmr (Kurmanji) for the LSTM OCR engine.
+2026-11-24T12:53:42.43Z,TesseractOCR.Languages.Lao,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model lao (Lao) for the LSTM OCR engine.
+2026-11-24T12:53:45.5Z,TesseractOCR.Languages.Latin,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model lat (Latin) for the LSTM OCR engine.
+2026-11-24T12:53:48.2Z,TesseractOCR.Languages.Latvian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model lav (Latvian) for the LSTM OCR engine.
+2026-11-24T12:53:51.123Z,TesseractOCR.Languages.Lithuanian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model lit (Lithuanian) for the LSTM OCR engine.
+2026-11-24T12:53:54.397Z,TesseractOCR.Languages.Luxembourgish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ltz (Luxembourgish) for the LSTM OCR engine.
+2026-11-24T12:53:57.123Z,TesseractOCR.Languages.Macedonian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mkd (Macedonian) for the LSTM OCR engine.
+2026-11-24T12:53:59.79Z,TesseractOCR.Languages.Malay,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model msa (Malay) for the LSTM OCR engine.
+2026-11-24T12:54:03.19Z,TesseractOCR.Languages.Malayalam,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mal (Malayalam) for the LSTM OCR engine.
+2026-11-24T12:54:05.843Z,TesseractOCR.Languages.Maltese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mlt (Maltese) for the LSTM OCR engine.
+2026-11-24T12:54:08.013Z,TesseractOCR.Languages.Maori,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mri (Maori) for the LSTM OCR engine.
+2026-11-24T12:54:10.567Z,TesseractOCR.Languages.Marathi,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mar (Marathi) for the LSTM OCR engine.
+2026-11-24T12:54:12.907Z,TesseractOCR.Languages.Math,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model equ (Math) for the LSTM OCR engine.
+2026-11-24T12:54:15.85Z,TesseractOCR.Languages.Mongolian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model mon (Mongolian) for the LSTM OCR engine.
+2026-11-24T12:54:18.083Z,TesseractOCR.Languages.Nepali,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model nep (Nepali) for the LSTM OCR engine.
+2026-11-24T12:54:21.317Z,TesseractOCR.Languages.Norwegian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model nor (Norwegian) for the LSTM OCR engine.
+2026-11-24T12:54:25.223Z,TesseractOCR.Languages.Occitan,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model oci (Occitan) for the LSTM OCR engine.
+2026-11-24T12:54:27.827Z,TesseractOCR.Languages.Oriya,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ori (Oriya) for the LSTM OCR engine.
+2026-11-24T12:54:33.023Z,TesseractOCR.Languages.Osd,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model osd (Osd) for the LSTM OCR engine.
+2026-11-24T12:54:35.333Z,TesseractOCR.Languages.Panjabi,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model pan (Panjabi) for the LSTM OCR engine.
+2026-11-24T12:54:37.41Z,TesseractOCR.Languages.Persian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model fas (Persian) for the LSTM OCR engine.
+2026-11-24T12:54:40.467Z,TesseractOCR.Languages.Polish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model pol (Polish) for the LSTM OCR engine.
+2026-11-24T12:54:43.033Z,TesseractOCR.Languages.Portuguese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model por (Portuguese) for the LSTM OCR engine.
+2026-11-24T12:54:45.953Z,TesseractOCR.Languages.Pushto,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model pus (Pushto) for the LSTM OCR engine.
+2026-11-24T12:54:49.72Z,TesseractOCR.Languages.Quechua,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model que (Quechua) for the LSTM OCR engine.
+2026-11-24T12:54:52.343Z,TesseractOCR.Languages.Romanian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ron (Romanian) for the LSTM OCR engine.
+2026-11-24T12:54:55.35Z,TesseractOCR.Languages.Russian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model rus (Russian) for the LSTM OCR engine.
+2026-11-24T12:55:01.71Z,TesseractOCR.Languages.Sanskrit,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model san (Sanskrit) for the LSTM OCR engine.
+2026-11-24T12:55:04.843Z,TesseractOCR.Languages.ScottishGaelic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model gla (ScottishGaelic) for the LSTM OCR engine.
+2026-11-24T12:55:09.843Z,TesseractOCR.Languages.script.Arabic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Arabic (script.Arabic) for the LSTM OCR engine.
+2026-11-24T12:55:14.367Z,TesseractOCR.Languages.script.Armenian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Armenian (script.Armenian) for the LSTM OCR engine.
+2026-11-24T12:55:18.343Z,TesseractOCR.Languages.script.Bengali,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Bengali (script.Bengali) for the LSTM OCR engine.
+2026-11-24T12:55:22.8Z,TesseractOCR.Languages.script.Canadian_Aboriginal,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Canadian_Aboriginal (script.Canadian_Aboriginal) for the LSTM OCR engine.
+2026-11-24T12:55:26.167Z,TesseractOCR.Languages.script.Cherokee,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Cherokee (script.Cherokee) for the LSTM OCR engine.
+2026-11-24T12:55:36.96Z,TesseractOCR.Languages.script.Cyrillic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Cyrillic (script.Cyrillic) for the LSTM OCR engine.
+2026-11-24T12:55:44.74Z,TesseractOCR.Languages.script.Devanagari,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Devanagari (script.Devanagari) for the LSTM OCR engine.
+2026-11-24T12:55:49.567Z,TesseractOCR.Languages.script.Ethiopic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Ethiopic (script.Ethiopic) for the LSTM OCR engine.
+2026-11-24T12:55:55.27Z,TesseractOCR.Languages.script.Fraktur,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Fraktur (script.Fraktur) for the LSTM OCR engine.
+2026-11-24T12:55:59.48Z,TesseractOCR.Languages.script.Georgian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Georgian (script.Georgian) for the LSTM OCR engine.
+2026-11-24T12:56:02.307Z,TesseractOCR.Languages.script.Greek,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Greek (script.Greek) for the LSTM OCR engine.
+2026-11-24T12:56:05.867Z,TesseractOCR.Languages.script.Gujarati,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Gujarati (script.Gujarati) for the LSTM OCR engine.
+2026-11-24T12:56:09.437Z,TesseractOCR.Languages.script.Gurmukhi,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Gurmukhi (script.Gurmukhi) for the LSTM OCR engine.
+2026-11-24T12:56:12.93Z,TesseractOCR.Languages.script.Hangul,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Hangul (script.Hangul) for the LSTM OCR engine.
+2026-11-24T12:56:16.387Z,TesseractOCR.Languages.script.Hangul_vert,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Hangul_vert (script.Hangul_vert) for the LSTM OCR engine.
+2026-11-24T12:56:20.63Z,TesseractOCR.Languages.script.HanS,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.HanS (script.HanS) for the LSTM OCR engine.
+2026-11-24T12:56:24.767Z,TesseractOCR.Languages.script.HanS_vert,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.HanS_vert (script.HanS_vert) for the LSTM OCR engine.
+2026-11-24T12:56:28.64Z,TesseractOCR.Languages.script.HanT,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.HanT (script.HanT) for the LSTM OCR engine.
+2026-11-24T12:56:32.77Z,TesseractOCR.Languages.script.HanT_vert,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.HanT_vert (script.HanT_vert) for the LSTM OCR engine.
+2026-11-24T12:56:36.297Z,TesseractOCR.Languages.script.Hebrew,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Hebrew (script.Hebrew) for the LSTM OCR engine.
+2026-11-24T12:56:40.513Z,TesseractOCR.Languages.script.Japanese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Japanese (script.Japanese) for the LSTM OCR engine.
+2026-11-24T12:56:45.037Z,TesseractOCR.Languages.script.Japanese_vert,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Japanese_vert (script.Japanese_vert) for the LSTM OCR engine.
+2026-11-24T12:56:49.193Z,TesseractOCR.Languages.script.Kannada,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Kannada (script.Kannada) for the LSTM OCR engine.
+2026-11-24T12:56:52.493Z,TesseractOCR.Languages.script.Khmer,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Khmer (script.Khmer) for the LSTM OCR engine.
+2026-11-24T12:57:54.743Z,TesseractOCR.Languages.script.Lao,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Lao (script.Lao) for the LSTM OCR engine.
+2026-11-24T12:58:25.627Z,TesseractOCR.Languages.script.Latin,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Latin (script.Latin) for the LSTM OCR engine.
+2026-11-24T12:58:30.313Z,TesseractOCR.Languages.script.Malayalam,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Malayalam (script.Malayalam) for the LSTM OCR engine.
+2026-11-24T12:58:34.943Z,TesseractOCR.Languages.script.Myanmar,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Myanmar (script.Myanmar) for the LSTM OCR engine.
+2026-11-24T12:58:39.273Z,TesseractOCR.Languages.script.Oriya,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Oriya (script.Oriya) for the LSTM OCR engine.
+2026-11-24T12:58:43.047Z,TesseractOCR.Languages.script.Sinhala,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Sinhala (script.Sinhala) for the LSTM OCR engine.
+2026-11-24T12:58:47.13Z,TesseractOCR.Languages.script.Syriac,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Syriac (script.Syriac) for the LSTM OCR engine.
+2026-11-24T12:58:51.257Z,TesseractOCR.Languages.script.Tamil,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Tamil (script.Tamil) for the LSTM OCR engine.
+2026-11-24T12:58:55.38Z,TesseractOCR.Languages.script.Telugu,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Telugu (script.Telugu) for the LSTM OCR engine.
+2026-11-24T12:58:59.287Z,TesseractOCR.Languages.script.Thaana,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Thaana (script.Thaana) for the LSTM OCR engine.
+2026-11-24T12:59:02.64Z,TesseractOCR.Languages.script.Thai,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Thai (script.Thai) for the LSTM OCR engine.
+2026-11-24T12:59:06.507Z,TesseractOCR.Languages.script.Tibetan,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Tibetan (script.Tibetan) for the LSTM OCR engine.
+2026-11-24T12:59:09.287Z,TesseractOCR.Languages.script.Vietnamese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model script.Vietnamese (script.Vietnamese) for the LSTM OCR engine.
+2026-11-24T12:59:11.847Z,TesseractOCR.Languages.Serbian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model srp (Serbian) for the LSTM OCR engine.
+2026-11-24T12:59:14.94Z,TesseractOCR.Languages.SerbianLatin,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model srp_latn (SerbianLatin) for the LSTM OCR engine.
+2026-11-24T12:59:17.94Z,TesseractOCR.Languages.Sindhi,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model snd (Sindhi) for the LSTM OCR engine.
+2026-11-24T12:59:20.643Z,TesseractOCR.Languages.Sinhala,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model sin (Sinhala) for the LSTM OCR engine.
+2026-11-24T12:59:23.843Z,TesseractOCR.Languages.Slovak,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model slk (Slovak) for the LSTM OCR engine.
+2026-11-24T12:59:24.917Z,TogoHq.Sdk,1.0.0,Togo,Togo's server-side SDK for .NET: send product analytics events from a backend or an Azure Function.
+2026-11-24T12:59:26.697Z,TesseractOCR.Languages.Slovenian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model slv (Slovenian) for the LSTM OCR engine.
+2026-11-24T12:59:26.877Z,TogoHq.Sdk.Functions.Worker,1.0.0,Togo,"Togo for the Azure Functions isolated worker: a middleware that sends what each invocation tracked before it returns, and DI registration for the client."
+2026-11-24T12:59:29.227Z,TesseractOCR.Languages.SpanishCastilian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model spa (SpanishCastilian) for the LSTM OCR engine.
+2026-11-24T12:59:32.223Z,TesseractOCR.Languages.SpanishCastilianOld,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model spa_old (SpanishCastilianOld) for the LSTM OCR engine.
+2026-11-24T12:59:34.64Z,TesseractOCR.Languages.Sundanese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model sun (Sundanese) for the LSTM OCR engine.
+2026-11-24T12:59:37.25Z,TesseractOCR.Languages.Swahili,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model swa (Swahili) for the LSTM OCR engine.
+2026-11-24T12:59:40.937Z,TesseractOCR.Languages.Swedish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model swe (Swedish) for the LSTM OCR engine.
+2026-11-24T12:59:43.837Z,TesseractOCR.Languages.Syriac,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model syr (Syriac) for the LSTM OCR engine.
+2026-11-24T12:59:46.4Z,TesseractOCR.Languages.Tajik,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tgk (Tajik) for the LSTM OCR engine.
+2026-11-24T12:59:49.153Z,TesseractOCR.Languages.Tamil,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tam (Tamil) for the LSTM OCR engine.
+2026-11-24T12:59:51.573Z,TesseractOCR.Languages.Tatar,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tat (Tatar) for the LSTM OCR engine.
+2026-11-24T12:59:54.267Z,TesseractOCR.Languages.Telugu,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tel (Telugu) for the LSTM OCR engine.
+2026-11-24T12:59:56.6Z,TesseractOCR.Languages.Thai,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tha (Thai) for the LSTM OCR engine.
+2026-11-24T12:59:59.417Z,TesseractOCR.Languages.Tibetan,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model bod (Tibetan) for the LSTM OCR engine.
+2026-11-24T13:00:01.41Z,TesseractOCR.Languages.Tigrinya,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tir (Tigrinya) for the LSTM OCR engine.
+2026-11-24T13:00:03.733Z,TesseractOCR.Languages.Tonga,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ton (Tonga) for the LSTM OCR engine.
+2026-11-24T13:00:06.94Z,TesseractOCR.Languages.Turkish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model tur (Turkish) for the LSTM OCR engine.
+2026-11-24T13:00:10.083Z,TesseractOCR.Languages.Uighur,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model uig (Uighur) for the LSTM OCR engine.
+2026-11-24T13:00:13.25Z,TesseractOCR.Languages.Ukrainian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model ukr (Ukrainian) for the LSTM OCR engine.
+2026-11-24T13:00:15.663Z,TesseractOCR.Languages.Urdu,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model urd (Urdu) for the LSTM OCR engine.
+2026-11-24T13:00:19.533Z,TesseractOCR.Languages.Uzbek,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model uzb (Uzbek) for the LSTM OCR engine.
+2026-11-24T13:00:22.147Z,TesseractOCR.Languages.UzbekCyrilic,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model uzb_cyrl (UzbekCyrilic) for the LSTM OCR engine.
+2026-11-24T13:00:24.383Z,TesseractOCR.Languages.Vietnamese,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model vie (Vietnamese) for the LSTM OCR engine.
+2026-11-24T13:00:27.287Z,TesseractOCR.Languages.Welsh,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model cym (Welsh) for the LSTM OCR engine.
+2026-11-24T13:00:30.13Z,TesseractOCR.Languages.WesternFrisian,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model fry (WesternFrisian) for the LSTM OCR engine.
+2026-11-24T13:00:32.32Z,TesseractOCR.Languages.Yiddish,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model yid (Yiddish) for the LSTM OCR engine.
+2026-11-24T13:00:34.55Z,TesseractOCR.Languages.Yoruba,1.0.0,Tesseract OCR contributors,Tesseract tessdata_fast model yor (Yoruba) for the LSTM OCR engine.
+2026-11-24T13:02:19.293Z,Pantheon,1.0.3,itzmerobby,Core modular application abstractions and Generic Host integration for .NET.
+2026-11-24T13:02:24Z,Pantheon.AspNet,1.0.3,itzmerobby,ASP.NET Core integration for building modular applications with Pantheon.
+2026-11-24T13:02:28.15Z,Pantheon.AspNet.Blazor,1.0.3,itzmerobby,Blazor integration for modular ASP.NET Core applications.
+2026-11-24T13:02:31.28Z,Pantheon.Discovery,1.0.3,itzmerobby,Assembly discovery and dependency ordering for Pantheon modules.
+2026-11-24T13:02:34.34Z,Pantheon.Data,1.0.3,itzmerobby,Provider-neutral EF Core configuration for Pantheon database modules.
+2026-11-24T13:02:38.213Z,Pantheon.Data.Sqlite,1.0.3,itzmerobby,SQLite provider module for Pantheon.Data and Pantheon.
+2026-11-24T13:02:41.597Z,Pantheon.Data.PostgreSQL,1.0.3,itzmerobby,PostgreSQL provider module for Pantheon.Data and Pantheon.
+2026-11-24T13:02:44.133Z,Pantheon.Caching,1.0.3,itzmerobby,Shared Microsoft.Extensions.Caching abstractions for Pantheon cache providers.
+2026-11-24T13:02:46.97Z,Pantheon.Caching.InMemory,1.0.3,itzmerobby,In-memory IDistributedCache module for Pantheon applications.
+2026-11-24T13:02:50.15Z,Pantheon.Caching.Redis,1.0.3,itzmerobby,Redis IDistributedCache module for Pantheon applications.
+2026-11-24T13:02:52.983Z,Pantheon.Caching.Hybrid,1.0.3,itzmerobby,Hybrid in-memory and Redis IDistributedCache module for Pantheon applications.
+2026-11-24T13:02:56.11Z,Pantheon.Logging,1.0.3,itzmerobby,Microsoft.Extensions.Logging module for Pantheon applications.
+2026-11-24T13:03:01.113Z,Pantheon.Logging.Sentry,1.0.3,itzmerobby,Sentry logging module for Pantheon applications.
+2026-11-24T13:08:44.42Z,BIMPlugins.Windows,2.0.0,Samir Shibliev,"WPF windows, converters and behaviors for Revit add-ins in the BIMPlugins look: message and report windows, a Revit Server project picker, value converters and selection behaviors. One package for Revit 2019–2025."
+2026-11-24T13:10:08.153Z,LessorMQ.Extensions.Hosting,0.4.9,LessorMQ,"LessorMQ for Microsoft.Extensions.Hosting and ASP.NET Core: services.AddLessorMQ(...) with options from configuration, and handlers that run as hosted workers. Retries stay with the LessorMQ server."
+2026-11-24T13:10:08.77Z,LessorMQ,0.4.9,LessorMQ,"Client and worker for LessorMQ, the message queue over HTTP where the server decides and clients only claim, run, ack or fail. HttpClient and System.Text.Json only."
