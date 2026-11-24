@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-24T08:28:17.86Z,ZeroCSharp.SDL3,0.11.0,Zero C# contributors,"SDL 3 for zero-mode C# programs: windows, 2D drawing, keyboard and mouse. Windows programs get SDL's own DLL from the package; Linux and macOS ones link with the SDL 3 installed on the build machine."
+2026-11-24T08:57:23.813Z,Polhem.Chat,0.1.0,Polhem contributors,"An observable conversation model for AI chat user interfaces: turns the streamed updates of any Microsoft.Extensions.AI IChatClient into conversation entries (text, reasoning, tool calls, usage, errors), and runs each turn with stop, timing and token counts."
+2026-11-24T08:57:25.343Z,Polhem.Chat.Avalonia,0.1.0,Polhem contributors,"An AI chat control for Avalonia: streamed replies rendered as Markdown, reasoning, tool calls, per-turn usage, stop and copy, on top of any Microsoft.Extensions.AI IChatClient."
+2026-11-24T08:59:43.023Z,AutoSettingUI.Avalonia12,2.0.0,Sakuya Starry,Avalonia 12 UI implementation for AutoSettingUI
+2026-11-24T08:59:45.717Z,AutoSettingUI.DynamicLocalization,2.0.0,Sakuya Starry,Optional DynamicLocalization adapter for AutoSettingUI
+2026-11-24T09:07:56.367Z,Reglet.Validation,1.6.0,Maik Rehder,"Document validator for Reglet: checks DOCX, XLSX, ODF and PDF files for what Word, Excel, LibreOffice and PDF readers would reject (package structure, ECMA-376 schemas, cross-references)."
+2026-11-24T09:07:57.96Z,Reglet.Xlsx,1.6.0,Maik Rehder,"XLSX (SpreadsheetML, ECMA-376) workbook writer and reader for Reglet."
+2026-11-24T09:11:59.473Z,SelectView.FSharp.SystemTextJson.OpenApi,0.1.0,SelectView,"OpenAPI schemas for F# types serialized with FSharp.SystemTextJson. Schema and document transformers for Microsoft.AspNetCore.OpenApi that cover options, records, unions, tuples, enums and collections."

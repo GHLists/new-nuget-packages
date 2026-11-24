@@ -12,29 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 08:19 UTC
+## Latest list — 2026-11-24 09:19 UTC
 
-New packages created between 2026-11-24 07:22 UTC and 2026-11-24 08:19 UTC.
+New packages created between 2026-11-24 08:19 UTC and 2026-11-24 09:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T08-19-38-223317Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T09-19-33-801915Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 07:22:08 | [BulletSharp.PureCSharp.SoftBody.Double](https://www.nuget.org/packages/BulletSharp.PureCSharp.SoftBody.Double) | 0.1.0 | bullet-sharp contributors | Classic btSoftBody module (ropes, cloth, pressure/tetrahedral soft bodies, Spar… |
-| 2026-11-24 07:22:09 | [BulletSharp.PureCSharp.SoftBody](https://www.nuget.org/packages/BulletSharp.PureCSharp.SoftBody) | 0.1.0 | bullet-sharp contributors | Classic btSoftBody module (ropes, cloth, pressure/tetrahedral soft bodies, Spar… |
-| 2026-11-24 07:22:10 | [BulletSharp.PureCSharp](https://www.nuget.org/packages/BulletSharp.PureCSharp) | 0.1.0 | bullet-sharp contributors | Pure C# port of the Bullet Physics engine, single-precision (float) build (rigi… |
-| 2026-11-24 07:22:10 | [BulletSharp.PureCSharp.Double](https://www.nuget.org/packages/BulletSharp.PureCSharp.Double) | 0.1.0 | bullet-sharp contributors | Pure C# port of the Bullet Physics engine, double-precision (double) build (rig… |
-| 2026-11-24 07:30:44 | [Gatehouse.Accounts](https://www.nuget.org/packages/Gatehouse.Accounts) | 0.1.0 | KalliMan | Sign-in with Google, Microsoft, Facebook and GitHub for ASP.NET Core Identity (… |
-| 2026-11-24 07:35:59 | [Rustorb.Dds](https://www.nuget.org/packages/Rustorb.Dds) | 0.3.0 | rustorb contributors | DDS for .NET on rustorb-dds: a subset of the DDS API after the Java 5 PSM, over… |
-| 2026-11-24 07:37:55 | [HanaTech.RTDB.Framework.Api](https://www.nuget.org/packages/HanaTech.RTDB.Framework.Api) | 4.2.1-preview202609… | HanaTech | Package Description |
-| 2026-11-24 07:39:03 | [Sencilla.Authentication.Instagram](https://www.nuget.org/packages/Sencilla.Authentication.Instagram) | 11.0.2 | Sencilla | Package Description |
-| 2026-11-24 07:39:11 | [Sencilla.Authentication.Telegram](https://www.nuget.org/packages/Sencilla.Authentication.Telegram) | 11.0.2 | Sencilla | Package Description |
-| 2026-11-24 07:49:29 | [Niubility.Scaffold.Cli](https://www.nuget.org/packages/Niubility.Scaffold.Cli) | 1.3.0 | Niubility.Scaffold.Cli | Inspect database schemas, review generated C# changes and apply a saved Niubili… |
-| 2026-11-24 07:50:14 | [Niubility.Scaffold.Database.PostgreSql](https://www.nuget.org/packages/Niubility.Scaffold.Database.PostgreSql) | 1.3.0 | Niubility.Scaffold.Database.P… | PostgreSQL catalog reader and C# generator for Niubility.Database 1.1.0. |
-| 2026-11-24 07:51:00 | [Warungkopipurnama](https://www.nuget.org/packages/Warungkopipurnama) | 1.0.0 | Warung Kopi Purnama — kopi le… | Warung Kopi Purnama cafe Braga, Bandung constants. Official: https://warungkopi… |
-| 2026-11-24 08:01:59 | [StarFruit.Nova](https://www.nuget.org/packages/StarFruit.Nova) | 1.0.0 | EpsiRho | Audio feature extraction for C# |
-| 2026-11-24 08:12:26 | [Tellurian.Trains.Drawing.Editing](https://www.nuget.org/packages/Tellurian.Trains.Drawing.Editing) | 0.10.0 | Stefan Fjällemark | UI-independent editing for Tellurian Trains drawings: commands, undo/redo, snap… |
-| 2026-11-24 08:12:26 | [Tellurian.Trains.Drawing.Model](https://www.nuget.org/packages/Tellurian.Trains.Drawing.Model) | 0.10.0 | Stefan Fjällemark | Domain model for Tellurian Trains drawings: end profiles, modules, halls, hall… |
+| 2026-11-24 08:28:17 | [ZeroCSharp.SDL3](https://www.nuget.org/packages/ZeroCSharp.SDL3) | 0.11.0 | Zero C# contributors | SDL 3 for zero-mode C# programs: windows, 2D drawing, keyboard and mouse. Windo… |
+| 2026-11-24 08:57:23 | [Polhem.Chat](https://www.nuget.org/packages/Polhem.Chat) | 0.1.0 | Polhem contributors | An observable conversation model for AI chat user interfaces: turns the streame… |
+| 2026-11-24 08:57:25 | [Polhem.Chat.Avalonia](https://www.nuget.org/packages/Polhem.Chat.Avalonia) | 0.1.0 | Polhem contributors | An AI chat control for Avalonia: streamed replies rendered as Markdown, reasoni… |
+| 2026-11-24 08:59:43 | [AutoSettingUI.Avalonia12](https://www.nuget.org/packages/AutoSettingUI.Avalonia12) | 2.0.0 | Sakuya Starry | Avalonia 12 UI implementation for AutoSettingUI |
+| 2026-11-24 08:59:45 | [AutoSettingUI.DynamicLocalization](https://www.nuget.org/packages/AutoSettingUI.DynamicLocalization) | 2.0.0 | Sakuya Starry | Optional DynamicLocalization adapter for AutoSettingUI |
+| 2026-11-24 09:07:56 | [Reglet.Validation](https://www.nuget.org/packages/Reglet.Validation) | 1.6.0 | Maik Rehder | Document validator for Reglet: checks DOCX, XLSX, ODF and PDF files for what Wo… |
+| 2026-11-24 09:07:57 | [Reglet.Xlsx](https://www.nuget.org/packages/Reglet.Xlsx) | 1.6.0 | Maik Rehder | XLSX (SpreadsheetML, ECMA-376) workbook writer and reader for Reglet. |
+| 2026-11-24 09:11:59 | [SelectView.FSharp.SystemTextJson.OpenApi](https://www.nuget.org/packages/SelectView.FSharp.SystemTextJson.OpenApi) | 0.1.0 | SelectView | OpenAPI schemas for F# types serialized with FSharp.SystemTextJson. Schema and… |
 
 ## Data source
 
