@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-24T05:33:42.47Z,Nextorm.Extensions.Orca,1.0.0,Nextorm.Extensions.Orca,Nextorm repository contexts for the Orca 1.4.272 SQLite schemas.
+2026-11-24T05:37:11.293Z,Nextorm.Extensions.N8n,1.0.0,Nextorm.Extensions.N8n,Nextorm repository context for the n8n 2.48.8 SQLite schema.
+2026-11-24T05:38:02.72Z,Shan.ImageCompressor,1.0.0,Hasibul Islam Shanto,"Compress JPEG and PNG images toward a target file size with zero dependencies (own PNG and JPEG codecs): format sniffing from the bytes, EXIF auto-orient, metadata stripping, and alpha-aware JPEG/PNG output."
+2026-11-24T05:54:02.597Z,Jtext103.CFET2.Things.DdaqThing,1.0.0,Jtext103,DDAQ acquisition control for CFET2.
+2026-11-24T05:57:09.607Z,Jtext103.CFET2.Things.NewMDSplusThing,1.0.0,Jtext103,MDSplus archiving of DDAQ acquisition data for CFET2.
+2026-11-24T06:11:39.047Z,ConfigInfo,1.2.0,daipeng0809,面向 AOT 的轻量文本配置库（.cif 格式）：核心零反射、单遍解析、宽松类型转换，支持注释读写、自动注释与可选自动对象映射。
+2026-11-24T06:12:47.92Z,Tacsa,1.0.0,TACSA — Compañía de Transporte Agua Clara S.A. (Grupo Melena),"TACSA cafe Guayaquil, Ecuador constants. Official: https://tacsa.com.ec/expresos-escolares/"

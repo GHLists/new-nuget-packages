@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 05:21 UTC
+## Latest list — 2026-11-24 06:18 UTC
 
-New packages created between 2026-11-24 04:20 UTC and 2026-11-24 05:21 UTC.
+New packages created between 2026-11-24 05:21 UTC and 2026-11-24 06:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-24T05-21-02-683969Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-24T06-18-52-923462Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-24 04:29:10 | [Ethereum.LeanPq](https://www.nuget.org/packages/Ethereum.LeanPq) | 0.17.0 | leanEthereum | .NET bindings for leanXMSS and leanSPHINCS post-quantum signatures, their leanV… |
-| 2026-11-24 04:44:36 | [PlcSimulator.Lite.OpcUa](https://www.nuget.org/packages/PlcSimulator.Lite.OpcUa) | 2.2.15 | UseThink | ZL.PlcSimulator 的 OPC UA 协议扩展（可选；不引用则不引入 OPC UA 的 18 个依赖） |
-| 2026-11-24 05:00:57 | [Umbraco.Community.UfmLabelPreview](https://www.nuget.org/packages/Umbraco.Community.UfmLabelPreview) | 1.0.0 | Nathaniel Nunes | Live preview of block labels (Umbraco Flavored Markdown) while configuring Bloc… |
-| 2026-11-24 05:09:53 | [Msfp.Describe](https://www.nuget.org/packages/Msfp.Describe) | 0.8.0-preview | The MSFP contributors | MSFP's copies from media files: the media type from a file's first bytes, ffpro… |
-| 2026-11-24 05:13:13 | [LYBox.Plugin.Shared.Web](https://www.nuget.org/packages/LYBox.Plugin.Shared.Web) | 2.4.0 | LYBoxPlugin | Web SDK for LYBox Avalonia Web plugins: WebView control, embedded Kestrel stati… |
+| 2026-11-24 05:33:42 | [Nextorm.Extensions.Orca](https://www.nuget.org/packages/Nextorm.Extensions.Orca) | 1.0.0 | Nextorm.Extensions.Orca | Nextorm repository contexts for the Orca 1.4.272 SQLite schemas. |
+| 2026-11-24 05:37:11 | [Nextorm.Extensions.N8n](https://www.nuget.org/packages/Nextorm.Extensions.N8n) | 1.0.0 | Nextorm.Extensions.N8n | Nextorm repository context for the n8n 2.48.8 SQLite schema. |
+| 2026-11-24 05:38:02 | [Shan.ImageCompressor](https://www.nuget.org/packages/Shan.ImageCompressor) | 1.0.0 | Hasibul Islam Shanto | Compress JPEG and PNG images toward a target file size with zero dependencies (… |
+| 2026-11-24 05:54:02 | [Jtext103.CFET2.Things.DdaqThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.DdaqThing) | 1.0.0 | Jtext103 | DDAQ acquisition control for CFET2. |
+| 2026-11-24 05:57:09 | [Jtext103.CFET2.Things.NewMDSplusThing](https://www.nuget.org/packages/Jtext103.CFET2.Things.NewMDSplusThing) | 1.0.0 | Jtext103 | MDSplus archiving of DDAQ acquisition data for CFET2. |
+| 2026-11-24 06:11:39 | [ConfigInfo](https://www.nuget.org/packages/ConfigInfo) | 1.2.0 | daipeng0809 | 面向 AOT 的轻量文本配置库（.cif 格式）：核心零反射、单遍解析、宽松类型转换，支持注释读写、自动注释与可选自动对象映射。 |
+| 2026-11-24 06:12:47 | [Tacsa](https://www.nuget.org/packages/Tacsa) | 1.0.0 | TACSA — Compañía de Transport… | TACSA cafe Guayaquil, Ecuador constants. Official: https://tacsa.com.ec/expreso… |
 
 ## Data source
 
