@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-25T10:27:16.463Z,AvaloniaUI.Parcel.Deps.AppImageRuntime,2025.11.8-rc1,AppImage,AvaloniaUI Parcel dependency package for 'appimage-runtime' tool
+2026-11-25T10:34:55.293Z,AvaloniaUI.Parcel.Deps.SquashFsTools,4.6.1-rc1,Phillip Lougher,AvaloniaUI Parcel dependency package for 'mksquashfs' tool
+2026-11-25T10:39:44.147Z,NwUi.Primitives,0.17.0,NetWasm.UI contributors,"Headless components for NetWasm.UI: disclosure, tabs, focus scope and roving focus. Behaviour, keyboard and ARIA without styles, for design systems to build on."
+2026-11-25T10:41:57.313Z,Apparatus.Diff,0.0.1,Stanislav Silin,Source generator that builds reflection-free deep diffs with full paths for [Diffable] types.
+2026-11-25T10:47:22.427Z,PrismaData,0.1.0,PrismaData,"Official .NET client for the PrismaData location intelligence API (geospatial, CNPJ, routing and IP data for Brazil)."
+2026-11-25T10:50:36.943Z,flappybonusmodels,1.0.0,Flappybet,"Ready-made, provably fair bonus models for Flappy games: pots, vaults and boosts, for any kind of game. Labelled, versioned and tested, with no dependencies."
+2026-11-25T10:55:18.883Z,PortableTextSearch.EntityFrameworkCore,10.0.0,Jon Lachmann,Portable EF Core text-contains search for PostgreSQL and SQLite.
+2026-11-25T10:57:31.497Z,Moltaro.OnecOutpost.Server,0.1.0,Bijou Solutions,"The server of Moltaro.OnecOutpost, embedded in an ASP.NET Core application: it pairs agents that run next to 1C:Enterprise 8.3 databases, signs Read and Write commands that carry scripts in the 1C language, hands them to the agents over the HTTPS polls the agents open, and keeps their outcomes in P…"
+2026-11-25T10:58:00.853Z,Umbraco.Community.AddressLookup,18.0.0,Pascal Meyer,An Umbraco Forms address lookup field with Loqate and Ideal Postcodes behind a server-side proxy.

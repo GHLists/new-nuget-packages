@@ -12,24 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 10:22 UTC
+## Latest list — 2026-11-25 11:21 UTC
 
-New packages created between 2026-11-25 09:20 UTC and 2026-11-25 10:22 UTC.
+New packages created between 2026-11-25 10:22 UTC and 2026-11-25 11:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T10-22-00-488395Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T11-21-10-329671Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 09:25:35 | [Mzying2001.MonkeySharp.CefSharp87.x64](https://www.nuget.org/packages/Mzying2001.MonkeySharp.CefSharp87.x64) | 5.0.0 | Mzying2001 | CefSharp 87.1.132 host adapter for MonkeySharp userscripts. Install the matchin… |
-| 2026-11-25 09:25:37 | [Mzying2001.MonkeySharp.CefSharp87.x86](https://www.nuget.org/packages/Mzying2001.MonkeySharp.CefSharp87.x86) | 5.0.0 | Mzying2001 | CefSharp 87.1.132 host adapter for MonkeySharp userscripts. Install the matchin… |
-| 2026-11-25 09:50:35 | [Flowtex.DataAccess.Abstractions](https://www.nuget.org/packages/Flowtex.DataAccess.Abstractions) | 1.1.0 | Flowtex | Application-layer abstractions for Flowtex.DataAccess. Has no EF Core dependenc… |
-| 2026-11-25 10:01:48 | [Eagle.Mes.Abstractions](https://www.nuget.org/packages/Eagle.Mes.Abstractions) | 1.0.0 | Eagle MES | MES 通用抽象层：数据库配置与提供器抽象，缓存 / ClickHouse / 邮件 / MongoDB / 本地化 / 数据库连接工厂契约及配套 DTO。零… |
-| 2026-11-25 10:07:24 | [BlueRaiz.AI.Contracts](https://www.nuget.org/packages/BlueRaiz.AI.Contracts) | 0.4.0 | BlueRaiz | Request and response types of the BlueRaiz AI assistant platform API, shared by… |
-| 2026-11-25 10:07:25 | [BlueRaiz.AI.SDK](https://www.nuget.org/packages/BlueRaiz.AI.SDK) | 0.4.0 | BlueRaiz | .NET client for the BlueRaiz AI assistant platform: chat with streaming, per-us… |
-| 2026-11-25 10:07:27 | [BlueRaiz.AI.Components.Blazor](https://www.nuget.org/packages/BlueRaiz.AI.Components.Blazor) | 0.4.0 | BlueRaiz | Blazor in-app assistant for the BlueRaiz AI assistant platform: one component,… |
-| 2026-11-25 10:13:27 | [Plugin.Maui.UITestHelpers.Repl](https://www.nuget.org/packages/Plugin.Maui.UITestHelpers.Repl) | 1.0.0 | jfversluis | Plugin.Maui.UITestHelpers.Repl adds an interactive REPL (read-eval-print loop)… |
-| 2026-11-25 10:13:39 | [Beep.Office.Linq](https://www.nuget.org/packages/Beep.Office.Linq) | 1.0.1 | Beep.Office.Linq | Package Description |
-| 2026-11-25 10:13:40 | [Beep.Office.Features](https://www.nuget.org/packages/Beep.Office.Features) | 1.0.1 | Beep.Office.Features | Package Description |
+| 2026-11-25 10:27:16 | [AvaloniaUI.Parcel.Deps.AppImageRuntime](https://www.nuget.org/packages/AvaloniaUI.Parcel.Deps.AppImageRuntime) | 2025.11.8-rc1 | AppImage | AvaloniaUI Parcel dependency package for 'appimage-runtime' tool |
+| 2026-11-25 10:34:55 | [AvaloniaUI.Parcel.Deps.SquashFsTools](https://www.nuget.org/packages/AvaloniaUI.Parcel.Deps.SquashFsTools) | 4.6.1-rc1 | Phillip Lougher | AvaloniaUI Parcel dependency package for 'mksquashfs' tool |
+| 2026-11-25 10:39:44 | [NwUi.Primitives](https://www.nuget.org/packages/NwUi.Primitives) | 0.17.0 | NetWasm.UI contributors | Headless components for NetWasm.UI: disclosure, tabs, focus scope and roving fo… |
+| 2026-11-25 10:41:57 | [Apparatus.Diff](https://www.nuget.org/packages/Apparatus.Diff) | 0.0.1 | Stanislav Silin | Source generator that builds reflection-free deep diffs with full paths for [Di… |
+| 2026-11-25 10:47:22 | [PrismaData](https://www.nuget.org/packages/PrismaData) | 0.1.0 | PrismaData | Official .NET client for the PrismaData location intelligence API (geospatial,… |
+| 2026-11-25 10:50:36 | [flappybonusmodels](https://www.nuget.org/packages/flappybonusmodels) | 1.0.0 | Flappybet | Ready-made, provably fair bonus models for Flappy games: pots, vaults and boost… |
+| 2026-11-25 10:55:18 | [PortableTextSearch.EntityFrameworkCore](https://www.nuget.org/packages/PortableTextSearch.EntityFrameworkCore) | 10.0.0 | Jon Lachmann | Portable EF Core text-contains search for PostgreSQL and SQLite. |
+| 2026-11-25 10:57:31 | [Moltaro.OnecOutpost.Server](https://www.nuget.org/packages/Moltaro.OnecOutpost.Server) | 0.1.0 | Bijou Solutions | The server of Moltaro.OnecOutpost, embedded in an ASP.NET Core application: it… |
+| 2026-11-25 10:58:00 | [Umbraco.Community.AddressLookup](https://www.nuget.org/packages/Umbraco.Community.AddressLookup) | 18.0.0 | Pascal Meyer | An Umbraco Forms address lookup field with Loqate and Ideal Postcodes behind a… |
 
 ## Data source
 
