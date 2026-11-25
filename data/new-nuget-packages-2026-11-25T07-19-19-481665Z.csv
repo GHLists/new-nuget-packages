@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-25T06:23:27.5Z,nuel_CaptchaSqlite,1.0.0,Ako Mahmoodi,A .NET captcha library with file-backed SQLite storage and SixLabors ImageSharp rendering.
+2026-11-25T06:36:32.827Z,LogerReplica.EFCore.Interceptors,1.0.0,loger,EF Core interceptors for read/write routing and connection failover.
+2026-11-25T06:51:39.983Z,Euonia.Hosting.Azfunc,2026.5.1,damon,"Euonia Azure Functions 隔离工作进程宿主包：函数基类、统一异常响应、请求追踪、请求上下文中转、Security 与双窗口流控。 / Azure Functions isolated worker host support for Euonia: function base, unified exception responses, request tracing, request-context bridging, security and dual-window rate limiting."
+2026-11-25T06:51:40.643Z,Euonia.Hosting.Webapi,2026.5.1,damon,"Euonia ASP.NET Core Web API 宿主组合包：控制器、统一异常响应、OpenAPI、健康检查、CORS、权限授权与双窗口流控。 / ASP.NET Core Web API host composition for Euonia: controllers, unified exception responses, OpenAPI, health checks, CORS, permission authorization and dual-window rate limiting."
+2026-11-25T06:55:17.9Z,AyuUI.Controll,1.0.0,yiyangyu,一套高颜值、零依赖、支持注解IoC、消息总线与丰富UI控件的现代WPF自研框架。
+2026-11-25T07:05:23.49Z,WEBCON.SDK,2027.1.1.21,WEBCON,This package includes the WEBCON assemblies required to develop SDK plugins. The package version matches the WEBCON release it ships with. You can use this package to develop the following types of plugins: -CustomAction -CustomBusinessRule -CustomDataSource -CustomAuthentication -CustomLabelTempla…
+2026-11-25T07:06:41.027Z,Motion.Avalonia,1.0.0,Sylinko,A declarative motion and interaction framework for Avalonia.
+2026-11-25T07:10:00.497Z,PdfFormFiller.Widgets,0.7.1,Haansen,"Widget-style form API (PdfDocument, PdfFormWidget, PdfTextBoxFieldWidget ...) on top of PdfFormFiller, for code that works with typed field objects."
+2026-11-25T07:10:01.253Z,PdfFormFiller,0.7.1,Haansen,"Fill, flatten, merge and trim AcroForm PDFs. Self-contained, no third-party dependencies."
