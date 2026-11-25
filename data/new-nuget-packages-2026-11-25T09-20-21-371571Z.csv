@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-25T08:29:57.9Z,MetaEngine.Dart.OpenApi.Dio,0.0.1,Jose A. Saldana Perez,"Convert OpenAPI specifications to Dart Dio HTTP clients with hand-written fromJson/toJson serialization (zero build_runner), sealed-class unions, typed enums with unknown-value fallback, and full Dio client integration."
+2026-11-25T08:30:32.387Z,Nodalir,0.0.1,Nodalir,Nodalir — MEP & BIM engineering automation library for .NET and Revit (early preview).
+2026-11-25T08:39:44.92Z,Hlibz.UseCases,1.0.0,Hlib Zinchenko,"Use cases for .NET apps with several clients (HTTP endpoints, MCP tools, gRPC services, jobs): a record implementing IUseCase, a handler implementing IUseCaseHandler<TUseCase, TResult> and returning Hlibz.Results' Result, and every client injecting the handler's own interface. A source generator li…"
+2026-11-25T08:49:36.677Z,Hlibz.OpenApi.UseCases,1.1.0,Hlib Zinchenko,"Publishes Hlibz.UseCases in OpenAPI documents built with Microsoft.AspNetCore.OpenApi: the rules use cases describe (IDescribedRule, [RuleSummary]) as schema keywords and text, DataAnnotations on record constructor parameters, and the 400 of the operations whose use case can fail validation."
+2026-11-25T08:49:37.13Z,Hlibz.OpenApi.Paging,1.1.0,Hlib Zinchenko,"Publishes Hlibz.Paging in OpenAPI documents built with Microsoft.AspNetCore.OpenApi: a [SortableBy] parameter or property says what it sorts by, the format and the default order, which is also its schema's default."
+2026-11-25T08:54:39.56Z,Pengin1011.ModuleSdk,1.0.0,JSTks24,Build independent C# modules for the Pengin1011 Discord bot host.
+2026-11-25T08:57:21.507Z,SysML2.NET.Validation,0.27.0,Sam Gerené,A .NET implementation of the OMG SysML v2 REST/HTTP PSM request validators
+2026-11-25T09:04:03.433Z,Eagle.Mes.Core,1.0.0,Eagle MES,MES 通用基础库：MD5 与密码加密、Hex/MAC 处理、JSON 包装、日期时间工具、安全数学、集合扩展、Hangfire Cron 表达式、License 生成与校验、进程调用。
+2026-11-25T09:04:32.96Z,RedBot.Tool,1.0.0,RedBot Innovations,"Reusable Windows Forms ROI and Measurement Toolbox with drawing, measurement, editing and keyboard shortcuts."
+2026-11-25T09:05:22.917Z,JedPlotUtils.LiveCharts,1.1.0,Demortier Jeremy,Package Description
+2026-11-25T09:10:13.26Z,DCS.Translator,1.1.0,DCS,Lightweight multi-provider text translation library.
