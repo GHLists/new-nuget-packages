@@ -1,0 +1,36 @@
+created_at,package,version,authors,description
+2026-11-25T14:23:39.887Z,NCode.Randomness.Curby,0.2.0,NCode Group,"The CURBy (CU Randomness Beacon, University of Colorado Boulder) adapter for NCode.Randomness: fetches pulses of the CURBy-RNG Twine chain and verifies their content identifiers, RS256 signatures and precommitments against a pinned chain before any byte is used."
+2026-11-25T14:23:40.307Z,NCode.Randomness,0.2.0,NCode Group,"Cryptographically secure random numbers for .NET: an SP 800-90A HMAC_DRBG seeded by the operating system and strengthened by public randomness beacons, unbiased typed values and ranges, and reproducible draws from a verified beacon pulse."
+2026-11-25T14:26:21.587Z,DataTables.AspNet.Core.Extended,2.1.0,Anderson Matos/Adhemar Soria Galvaro/IAM Extended,Core elements for DataTables.AspNet - Extended for .NET 10.0 with columnControl support.
+2026-11-25T14:26:22.17Z,DataTables.AspNet.AspNetCore.Extended,2.1.0,Anderson Matos/IAM Extended,AspNetCore implementation for DataTables.AspNet - Extended for .NET 10.0 with columnControl support.
+2026-11-25T14:27:07.987Z,NCode.Coordination.Testing,0.4.0,NCode Group,"The conformance kit of NCode.Coordination: a contract suite per primitive that a provider's xUnit tests derive from, given the provider under test and a way to advance its clock."
+2026-11-25T14:39:45.39Z,DurableOutbox.Testing,1.0.0,Tosin Shada,"The DurableOutbox contract tests, to run against your own DbContext and schema from any test framework, and RunUntilIdleAsync for your integration tests."
+2026-11-25T14:39:46.007Z,DurableOutbox,1.0.0,Tosin Shada,"A transactional outbox for .NET services on PostgreSQL through EF Core: write a message in the same transaction as the business change, and have workers deliver it to your handler under a lease, retrying until it is done or parked for an operator. No broker."
+2026-11-25T14:41:30.577Z,AlphaSoftware.AspNetDesktop.Hosting,0.2.0,Alpha Software Solutions,In-process ASP.NET Core server for desktop apps. Hosts the full ASP.NET Core pipeline behind the app:// and ipc:// WebView schemes without binding a TCP port.
+2026-11-25T14:41:31.17Z,AlphaSoftware.AspNetDesktop,0.2.0,Alpha Software Solutions,"Build desktop apps with an ASP.NET Core backend and any JavaScript UI. Hosts MVC and minimal APIs in-process behind the WebView's app:// and ipc:// schemes: no Kestrel, no TCP port. Pulls in the adapter for the target OS (WebView2, WKWebView or WebKitGTK)."
+2026-11-25T14:41:31.907Z,AlphaSoftware.AspNetDesktop.Linux,0.2.0,Alpha Software Solutions,Linux adapter for AspNetDesktop: a GTK 4 window hosting WebKitGTK 6 (via GirCore) with the app:// and ipc:// schemes wired to the in-process ASP.NET Core server.
+2026-11-25T14:41:32.603Z,AlphaSoftware.AspNetDesktop.Windows,0.2.0,Alpha Software Solutions,Windows adapter for AspNetDesktop: a WinForms window hosting WebView2 with the app:// and ipc:// schemes wired to the in-process ASP.NET Core server.
+2026-11-25T14:41:33.28Z,AlphaSoftware.AspNetDesktop.Templates,0.2.0,Alpha Software Solutions,"dotnet new templates for AspNetDesktop: desktop apps with an in-process ASP.NET Core backend and an Angular (aspnetdesktop-angular), React (aspnetdesktop-react) or Vue (aspnetdesktop-vue) UI."
+2026-11-25T14:41:33.87Z,AlphaSoftware.AspNetDesktop.Mac,0.2.0,Alpha Software Solutions,macOS adapter for AspNetDesktop: an NSWindow hosting WKWebView with the app:// and ipc:// schemes wired to the in-process ASP.NET Core server through WKURLSchemeHandler.
+2026-11-25T14:49:42.507Z,Mundus.Security.Client,1.0.0,vide mundus,"Plug-and-Play CIAM identity and access federation client for .NET ecosystems. Provides zero-network RAM JWT validation, multi-tenant isolation, strict CORS, and Polly V8 resilient M2M communication with Mundus Security."
+2026-11-25T14:50:17.983Z,NetVtk.runtime.linux-x64,9.7.1.1,Paul Büchner,Native libraries of NetVtk for linux-x64: the NetVtk libraries and VTK 9.7.1. Referenced by the NetVtk package; not meant to be installed alone.
+2026-11-25T14:50:20.98Z,NetVtk.runtime.osx-arm64,9.7.1.1,Paul Büchner,Native libraries of NetVtk for osx-arm64: the NetVtk libraries and VTK 9.7.1. Referenced by the NetVtk package; not meant to be installed alone.
+2026-11-25T14:50:24.31Z,NetVtk.runtime.win-x86,9.7.1.1,Paul Büchner,Native libraries of NetVtk for win-x86: the NetVtk libraries and VTK 9.7.1. Referenced by the NetVtk package; not meant to be installed alone.
+2026-11-25T14:50:26.197Z,NetVtk,9.7.1.1,Paul Büchner,"C# bindings for the Visualization Toolkit (VTK) 9.7.1, with VTK's names: data sets and arrays, filters, readers and writers, rendering and interaction, for visualizing simulation results. For .NET Framework 3.5+, .NET 6+ and netstandard2.0, on Windows (x64, x86), Linux (x64) and macOS (arm64)."
+2026-11-25T14:51:01.98Z,OpenGuardClauses,7.0.0,Dan Boyer,A simple extensible package with guard clause helper methods. See docs for how to extend using your own extension methods defined in your project.
+2026-11-25T14:58:11.307Z,Jackobo.AspNetCore.Framework,10.1.0,Florin Iacob,A library with common functionality to create an ASP.NET core webapi
+2026-11-25T15:01:31.11Z,OpenSmartEnum.JsonNet,10.0.0,Dan Boyer,Json.NET (de)serialization support for OpenSmartEnum.
+2026-11-25T15:01:31.763Z,OpenSmartEnum.Utf8Json,10.0.0,Dan Boyer,Utf8Json (de)serialization support for OpenSmartEnum.
+2026-11-25T15:01:32.41Z,OpenSmartEnum.ProtoBufNet,10.0.0,Dan Boyer,protobuf-net (de)serialization support for OpenSmartEnum.
+2026-11-25T15:01:33.017Z,OpenSmartEnum,10.0.0,Dan Boyer,Classes to help produce strongly typed smarter enums in .NET.
+2026-11-25T15:01:33.63Z,OpenSmartEnum.MessagePack,10.0.0,Dan Boyer,MessagePack (de)serialization support for OpenSmartEnum.
+2026-11-25T15:01:34.22Z,OpenSmartEnum.AutoFixture,10.0.0,Dan Boyer,AutoFixture support for OpenSmartEnum.
+2026-11-25T15:01:34.853Z,OpenSmartEnum.Dapper,10.0.0,Dan Boyer,Dapper support for OpenSmartEnum.
+2026-11-25T15:01:35.443Z,OpenSmartEnum.EFCore,10.0.0,Dan Boyer,EFCore support for OpenSmartEnum.
+2026-11-25T15:01:36.11Z,OpenSmartEnum.GuardClauses,10.0.0,Dan Boyer,Guard clauses for OpenSmartEnum.
+2026-11-25T15:01:36.75Z,OpenSmartEnum.ModelBinding,10.0.0,Dan Boyer,ASP.NET Core MVC Model Binding Support for OpenSmartEnum.
+2026-11-25T15:01:37.457Z,OpenSmartEnum.SystemTextJson,10.0.0,Dan Boyer,System.Text.Json (de)serialization support for OpenSmartEnum.
+2026-11-25T15:03:43.963Z,BindOpen.Bpm.Dtos,0.0.1,Sumer Team,Package Description
+2026-11-25T15:04:00.403Z,BindOpen.Messages.Dtos,0.0.1,Sumer Team,A package to easily deal with feeds.
+2026-11-25T15:05:13.147Z,OBaseOffice,26.11.19,Oesam Technology,"OBase Framework - Reads and writes Word, PowerPoint and Excel files: text, Markdown and HTML, CSV and Excel export, Word templates with tracked changes"
+2026-11-25T15:13:36.65Z,Neemle.OrmLite.Postgres,0.1.0,Neemle,"PostgreSQL provider for Neemle.OrmLite: the serializer, the capability manifest, the Npgsql data source and the connection gate. Referencing this package registers the provider, so OrmLiteOptions.Provider = ""postgres"" resolves with no further code. Requires the Neemle.OrmLite package of the same ve…"
