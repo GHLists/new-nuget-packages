@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-25T09:25:35.603Z,Mzying2001.MonkeySharp.CefSharp87.x64,5.0.0,Mzying2001,CefSharp 87.1.132 host adapter for MonkeySharp userscripts. Install the matching CefSharp UI package and process platform.
+2026-11-25T09:25:37Z,Mzying2001.MonkeySharp.CefSharp87.x86,5.0.0,Mzying2001,CefSharp 87.1.132 host adapter for MonkeySharp userscripts. Install the matching CefSharp UI package and process platform.
+2026-11-25T09:50:35.93Z,Flowtex.DataAccess.Abstractions,1.1.0,Flowtex,Application-layer abstractions for Flowtex.DataAccess. Has no EF Core dependency — safe to reference from domain or application-layer projects to preserve clean architecture layering.
+2026-11-25T10:01:48.117Z,Eagle.Mes.Abstractions,1.0.0,Eagle MES,MES 通用抽象层：数据库配置与提供器抽象，缓存 / ClickHouse / 邮件 / MongoDB / 本地化 / 数据库连接工厂契约及配套 DTO。零项目引用。
+2026-11-25T10:07:24.83Z,BlueRaiz.AI.Contracts,0.4.0,BlueRaiz,"Request and response types of the BlueRaiz AI assistant platform API, shared by its .NET SDK and Blazor widget."
+2026-11-25T10:07:25.987Z,BlueRaiz.AI.SDK,0.4.0,BlueRaiz,".NET client for the BlueRaiz AI assistant platform: chat with streaming, per-user tokens fetched and refreshed for you, and route reports."
+2026-11-25T10:07:27.197Z,BlueRaiz.AI.Components.Blazor,0.4.0,BlueRaiz,"Blazor in-app assistant for the BlueRaiz AI assistant platform: one component, with the application's pages discovered from its routes. Its knowledge and wording are managed on the platform."
+2026-11-25T10:13:27.853Z,Plugin.Maui.UITestHelpers.Repl,1.0.0,jfversluis,"Plugin.Maui.UITestHelpers.Repl adds an interactive REPL (read-eval-print loop) to your .NET MAUI UI tests, like the one Xamarin.UITest had. Call app.Repl() from a test to explore the running app and try out UI test code live."
+2026-11-25T10:13:39.843Z,Beep.Office.Linq,1.0.1,Beep.Office.Linq,Package Description
+2026-11-25T10:13:40.33Z,Beep.Office.Features,1.0.1,Beep.Office.Features,Package Description

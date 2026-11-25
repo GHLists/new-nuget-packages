@@ -12,25 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 09:20 UTC
+## Latest list — 2026-11-25 10:22 UTC
 
-New packages created between 2026-11-25 08:21 UTC and 2026-11-25 09:20 UTC.
+New packages created between 2026-11-25 09:20 UTC and 2026-11-25 10:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T09-20-21-371571Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T10-22-00-488395Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 08:29:57 | [MetaEngine.Dart.OpenApi.Dio](https://www.nuget.org/packages/MetaEngine.Dart.OpenApi.Dio) | 0.0.1 | Jose A. Saldana Perez | Convert OpenAPI specifications to Dart Dio HTTP clients with hand-written fromJ… |
-| 2026-11-25 08:30:32 | [Nodalir](https://www.nuget.org/packages/Nodalir) | 0.0.1 | Nodalir | Nodalir — MEP & BIM engineering automation library for .NET and Revit (early pr… |
-| 2026-11-25 08:39:44 | [Hlibz.UseCases](https://www.nuget.org/packages/Hlibz.UseCases) | 1.0.0 | Hlib Zinchenko | Use cases for .NET apps with several clients (HTTP endpoints, MCP tools, gRPC s… |
-| 2026-11-25 08:49:36 | [Hlibz.OpenApi.UseCases](https://www.nuget.org/packages/Hlibz.OpenApi.UseCases) | 1.1.0 | Hlib Zinchenko | Publishes Hlibz.UseCases in OpenAPI documents built with Microsoft.AspNetCore.O… |
-| 2026-11-25 08:49:37 | [Hlibz.OpenApi.Paging](https://www.nuget.org/packages/Hlibz.OpenApi.Paging) | 1.1.0 | Hlib Zinchenko | Publishes Hlibz.Paging in OpenAPI documents built with Microsoft.AspNetCore.Ope… |
-| 2026-11-25 08:54:39 | [Pengin1011.ModuleSdk](https://www.nuget.org/packages/Pengin1011.ModuleSdk) | 1.0.0 | JSTks24 | Build independent C# modules for the Pengin1011 Discord bot host. |
-| 2026-11-25 08:57:21 | [SysML2.NET.Validation](https://www.nuget.org/packages/SysML2.NET.Validation) | 0.27.0 | Sam Gerené | A .NET implementation of the OMG SysML v2 REST/HTTP PSM request validators |
-| 2026-11-25 09:04:03 | [Eagle.Mes.Core](https://www.nuget.org/packages/Eagle.Mes.Core) | 1.0.0 | Eagle MES | MES 通用基础库：MD5 与密码加密、Hex/MAC 处理、JSON 包装、日期时间工具、安全数学、集合扩展、Hangfire Cron 表达式、Licen… |
-| 2026-11-25 09:04:32 | [RedBot.Tool](https://www.nuget.org/packages/RedBot.Tool) | 1.0.0 | RedBot Innovations | Reusable Windows Forms ROI and Measurement Toolbox with drawing, measurement, e… |
-| 2026-11-25 09:05:22 | [JedPlotUtils.LiveCharts](https://www.nuget.org/packages/JedPlotUtils.LiveCharts) | 1.1.0 | Demortier Jeremy | Package Description |
-| 2026-11-25 09:10:13 | [DCS.Translator](https://www.nuget.org/packages/DCS.Translator) | 1.1.0 | DCS | Lightweight multi-provider text translation library. |
+| 2026-11-25 09:25:35 | [Mzying2001.MonkeySharp.CefSharp87.x64](https://www.nuget.org/packages/Mzying2001.MonkeySharp.CefSharp87.x64) | 5.0.0 | Mzying2001 | CefSharp 87.1.132 host adapter for MonkeySharp userscripts. Install the matchin… |
+| 2026-11-25 09:25:37 | [Mzying2001.MonkeySharp.CefSharp87.x86](https://www.nuget.org/packages/Mzying2001.MonkeySharp.CefSharp87.x86) | 5.0.0 | Mzying2001 | CefSharp 87.1.132 host adapter for MonkeySharp userscripts. Install the matchin… |
+| 2026-11-25 09:50:35 | [Flowtex.DataAccess.Abstractions](https://www.nuget.org/packages/Flowtex.DataAccess.Abstractions) | 1.1.0 | Flowtex | Application-layer abstractions for Flowtex.DataAccess. Has no EF Core dependenc… |
+| 2026-11-25 10:01:48 | [Eagle.Mes.Abstractions](https://www.nuget.org/packages/Eagle.Mes.Abstractions) | 1.0.0 | Eagle MES | MES 通用抽象层：数据库配置与提供器抽象，缓存 / ClickHouse / 邮件 / MongoDB / 本地化 / 数据库连接工厂契约及配套 DTO。零… |
+| 2026-11-25 10:07:24 | [BlueRaiz.AI.Contracts](https://www.nuget.org/packages/BlueRaiz.AI.Contracts) | 0.4.0 | BlueRaiz | Request and response types of the BlueRaiz AI assistant platform API, shared by… |
+| 2026-11-25 10:07:25 | [BlueRaiz.AI.SDK](https://www.nuget.org/packages/BlueRaiz.AI.SDK) | 0.4.0 | BlueRaiz | .NET client for the BlueRaiz AI assistant platform: chat with streaming, per-us… |
+| 2026-11-25 10:07:27 | [BlueRaiz.AI.Components.Blazor](https://www.nuget.org/packages/BlueRaiz.AI.Components.Blazor) | 0.4.0 | BlueRaiz | Blazor in-app assistant for the BlueRaiz AI assistant platform: one component,… |
+| 2026-11-25 10:13:27 | [Plugin.Maui.UITestHelpers.Repl](https://www.nuget.org/packages/Plugin.Maui.UITestHelpers.Repl) | 1.0.0 | jfversluis | Plugin.Maui.UITestHelpers.Repl adds an interactive REPL (read-eval-print loop)… |
+| 2026-11-25 10:13:39 | [Beep.Office.Linq](https://www.nuget.org/packages/Beep.Office.Linq) | 1.0.1 | Beep.Office.Linq | Package Description |
+| 2026-11-25 10:13:40 | [Beep.Office.Features](https://www.nuget.org/packages/Beep.Office.Features) | 1.0.1 | Beep.Office.Features | Package Description |
 
 ## Data source
 
