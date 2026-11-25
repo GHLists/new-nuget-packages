@@ -12,33 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 19:20 UTC
+## Latest list — 2026-11-25 20:22 UTC
 
-New packages created between 2026-11-25 18:18 UTC and 2026-11-25 19:20 UTC.
+New packages created between 2026-11-25 19:20 UTC and 2026-11-25 20:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T19-20-33-617644Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T20-22-17-612381Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 18:22:20 | [ScipSharp](https://www.nuget.org/packages/ScipSharp) | 26.11.8531 | SCIP Maintainers | .NET library for the SCIP Code Intelligence Protocol: protobuf types, symbol pa… |
-| 2026-11-25 18:22:26 | [ScipSharp.Cli](https://www.nuget.org/packages/ScipSharp.Cli) | 26.11.8531 | SCIP Maintainers | The scip command-line tool (print, lint, stats, snapshot, test, expt-convert, i… |
-| 2026-11-25 18:22:29 | [ScipSharp.Indexer.Clang](https://www.nuget.org/packages/ScipSharp.Indexer.Clang) | 26.11.8531 | SCIP Maintainers | SCIP indexer for C, C++ (port of scip-clang). |
-| 2026-11-25 18:22:31 | [ScipSharp.Indexer.Dart](https://www.nuget.org/packages/ScipSharp.Indexer.Dart) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Dart (port of scip-dart). |
-| 2026-11-25 18:22:33 | [ScipSharp.Indexer.DotNet](https://www.nuget.org/packages/ScipSharp.Indexer.DotNet) | 26.11.8531 | SCIP Maintainers | SCIP indexer for C#, Visual Basic (port of scip-dotnet). |
-| 2026-11-25 18:22:36 | [ScipSharp.Indexer.Java](https://www.nuget.org/packages/ScipSharp.Indexer.Java) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Java (native C# port of scip-java; needs no javac, plugin jar… |
-| 2026-11-25 18:22:39 | [ScipSharp.Indexer.Php](https://www.nuget.org/packages/ScipSharp.Indexer.Php) | 26.11.8531 | SCIP Maintainers | SCIP indexer for PHP (port of scip-php). |
-| 2026-11-25 18:22:41 | [ScipSharp.Indexer.Python](https://www.nuget.org/packages/ScipSharp.Indexer.Python) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Python (native C# port of scip-python). |
-| 2026-11-25 18:22:44 | [ScipSharp.Indexer.Ruby](https://www.nuget.org/packages/ScipSharp.Indexer.Ruby) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Ruby (port of scip-ruby). |
-| 2026-11-25 18:22:46 | [ScipSharp.Indexer.Rust](https://www.nuget.org/packages/ScipSharp.Indexer.Rust) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Rust (port of rust-analyzer). |
-| 2026-11-25 18:22:49 | [ScipSharp.Indexer.TypeScript](https://www.nuget.org/packages/ScipSharp.Indexer.TypeScript) | 26.11.8531 | SCIP Maintainers | SCIP indexer for TypeScript, JavaScript (native C# port of scip-typescript: par… |
-| 2026-11-25 18:22:52 | [ScipSharp.Indexing](https://www.nuget.org/packages/ScipSharp.Indexing) | 26.11.8531 | SCIP Maintainers | Shared abstractions for SCIP indexers (per-language packages). |
-| 2026-11-25 18:36:36 | [Ivetech.ORM.OpenTelemetry](https://www.nuget.org/packages/Ivetech.ORM.OpenTelemetry) | 4.1.1 | Lucas Santos | Instrumentação OpenTelemetry do Ivetech.ORM: registra a fonte de atividades Ive… |
-| 2026-11-25 18:40:44 | [slnsync](https://www.nuget.org/packages/slnsync) | 0.1.1 | slnsync | Keeps an aggregate solution in sync with source .sln/.slnx solutions. |
-| 2026-11-25 18:44:12 | [Sidub.Platform.Search.Testing](https://www.nuget.org/packages/Sidub.Platform.Search.Testing) | 1.24.1 | Sidub Inc. | Package Description |
-| 2026-11-25 18:53:46 | [NCode.Randomness.Nist](https://www.nuget.org/packages/NCode.Randomness.Nist) | 0.3.0 | NCode Group | The NIST Randomness Beacon 2.0 adapter for NCode.Randomness: fetches pulses of… |
-| 2026-11-25 18:53:46 | [NCode.Randomness.Drand](https://www.nuget.org/packages/NCode.Randomness.Drand) | 0.3.0 | NCode Group | The drand adapter for NCode.Randomness: fetches rounds of the League of Entropy… |
-| 2026-11-25 18:56:33 | [Sobis.UI](https://www.nuget.org/packages/Sobis.UI) | 1.0.0 | Sobis | Standalone Blazor UI Component Library with Layout, Form, Input, DataGrid and O… |
-| 2026-11-25 18:56:43 | [SoilData_WindowsGraphics](https://www.nuget.org/packages/SoilData_WindowsGraphics) | 1.0.1 | Adam Pinkowski | SoilData Windows graphics helper for SoilData library |
+| 2026-11-25 19:43:40 | [DiasparkGenPackageLiveV10](https://www.nuget.org/packages/DiasparkGenPackageLiveV10) | 10.0.1 | Sourabh Tokkar / Divyanshi | 11252026 Sourabh/Divyanshi : Created new .Net V10 Genpackage with latest Genser… |
+| 2026-11-25 19:49:49 | [AWSSDK.ELBProxy](https://www.nuget.org/packages/AWSSDK.ELBProxy) | 4.1.0 | Amazon Web Services | The Amazon Web Services SDK for .NET - Elastic Load Balancing for Envoy |
+| 2026-11-25 20:01:57 | [bogzxo.Horizon.Shaders.Build](https://www.nuget.org/packages/bogzxo.Horizon.Shaders.Build) | 1.5.1 | bogzxo | Makes a Horizon shader pack out of a manifest, for a platform with no Slang to… |
+| 2026-11-25 20:01:58 | [bogzxo.Horizon.Platform.Android](https://www.nuget.org/packages/bogzxo.Horizon.Platform.Android) | 1.5.1 | bogzxo | The Horizon engine on Android: the SurfaceView's window for Vulkan, the APK's a… |
+| 2026-11-25 20:01:59 | [bogzxo.Horizon.Platform.iOS](https://www.nuget.org/packages/bogzxo.Horizon.Platform.iOS) | 1.5.1 | bogzxo | The Horizon engine on iOS: the Metal view for Vulkan over MoltenVK, touch, keyb… |
+| 2026-11-25 20:02:01 | [bogzxo.Horizon.Terminal](https://www.nuget.org/packages/bogzxo.Horizon.Terminal) | 1.5.1 | bogzxo | The Horizon engine's terminal: the VT parser, the screen, the views and panes,… |
 
 ## Data source
 
