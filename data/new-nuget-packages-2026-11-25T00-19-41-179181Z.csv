@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-24T23:48:30.7Z,Toolbelt.Blazor.Prismizor,1.0.0,J.Sakamoto,"A syntax highlighting component for Blazor, which is a C# port of Prism.js. It has no JavaScript, and it works with Blazor Server, WebAssembly, and static SSR."
+2026-11-25T00:03:34.967Z,sktest123,1.0.0,Svetlana Kofman,Empty test package.
+2026-11-25T00:08:35.417Z,Azure.Functions.Cli.Workloads.Workers.Python.osx-arm64,4.47.0-preview,Microsoft,Azure Functions CLI content workload that ships the Python language worker.
+2026-11-25T00:08:42.213Z,Azure.Functions.Cli.Workloads.Workers.Python.win-arm64,4.47.0-preview,Microsoft,Azure Functions CLI content workload that ships the Python language worker.
+2026-11-25T00:08:54.777Z,Microsoft.ValidationOS.SDK.Microsoft-WinVOS-Inbox-Drivers-Platform,10.0.26100.10068,Microsoft,The Validation OS Modular SDK available as a set of NuGet packages for more seamless acquisition and CI/CD integration. This package is designed for C++ applications and contains Microsoft-WinVOS-Inbox-Drivers-Platform specific content.
+2026-11-25T00:14:14.177Z,TeaQL.ObjectStorage.S3,0.7.0,TeaQL,TeaQL runtime and data services for .NET
