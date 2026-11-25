@@ -12,40 +12,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 18:18 UTC
+## Latest list — 2026-11-25 19:20 UTC
 
-New packages created between 2026-11-25 17:22 UTC and 2026-11-25 18:18 UTC.
+New packages created between 2026-11-25 18:18 UTC and 2026-11-25 19:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T18-18-58-980201Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T19-20-33-617644Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 17:22:49 | [Didybarber](https://www.nuget.org/packages/Didybarber) | 1.0.0 | Didy Barber — barbershop Peja… | Didy Barber cafe Pejaten Barat, Jakarta Selatan constants. Official: https://di… |
-| 2026-11-25 17:23:11 | [Nasiudukposuri](https://www.nuget.org/packages/Nasiudukposuri) | 1.0.0 | Nasi Uduk Po Suri — sarapan B… | Nasi Uduk Po Suri cafe Petukangan, Jakarta Selatan constants. Official: https:/… |
-| 2026-11-25 17:23:33 | [Didycoffee](https://www.nuget.org/packages/Didycoffee) | 1.0.0 | Didy Coffee — coffee bar Peja… | Didy Coffee cafe Pejaten Barat, Jakarta Selatan constants. Official: https://di… |
-| 2026-11-25 17:24:25 | [Pensil](https://www.nuget.org/packages/Pensil) | 1.0.0 | Pensil.id — informasi edukasi… | Pensil.id cafe Indonesia (online) constants. Official: https://pensil.id/ |
-| 2026-11-25 17:25:03 | [Sepakatmayestik](https://www.nuget.org/packages/Sepakatmayestik) | 1.0.0 | RM Sepakat Mayestik — gulai g… | RM Sepakat Mayestik cafe Pasar Mayestik, Jakarta Selatan constants. Official: h… |
-| 2026-11-25 17:25:27 | [Bakmikota21](https://www.nuget.org/packages/Bakmikota21) | 1.0.0 | Bakmi Kota 21 — bakmi bakar H… | Bakmi Kota 21 cafe Mangga Besar / Hayam Wuruk, Jakarta Barat constants. Officia… |
-| 2026-11-25 17:25:34 | [Ramiz.Yaraliev.MathKit](https://www.nuget.org/packages/Ramiz.Yaraliev.MathKit) | 1.0.0 | Рамиз Яралиев | Учебная библиотека арифметических операций |
-| 2026-11-25 17:26:00 | [Manisjari](https://www.nuget.org/packages/Manisjari) | 1.0.0 | Manis Jari Spa & Reflexy — sp… | Manis Jari Spa & Reflexy cafe Kemang, Jakarta Selatan constants. Official: http… |
-| 2026-11-25 17:26:07 | [Maizymas](https://www.nuget.org/packages/Maizymas) | 1.0.0 | Maíz & Más — Tucson street co… | Maíz & Más cafe Tucson, Arizona, USA constants. Official: https://maizymas.com/ |
-| 2026-11-25 17:26:18 | [Beckandford](https://www.nuget.org/packages/Beckandford) | 1.0.0 | Beck and Ford — barber & coff… | Beck and Ford cafe Jakarta Timur constants. Official: https://beckandford.com/ |
-| 2026-11-25 17:26:26 | [Kokabarber](https://www.nuget.org/packages/Kokabarber) | 1.0.0 | Koka Barber — makan & cukur M… | Koka Barber cafe Menteng Pulo, Jakarta Selatan constants. Official: https://kok… |
-| 2026-11-25 17:26:33 | [Gothambarber](https://www.nuget.org/packages/Gothambarber) | 1.0.0 | Gotham Barber & Coffee — Cila… | Gotham Barber & Coffee cafe Cilandak Timur, Jakarta Selatan constants. Official… |
-| 2026-11-25 17:26:41 | [Indonesianpremierleague](https://www.nuget.org/packages/Indonesianpremierleague) | 1.0.0 | Indonesian Premier League — b… | Indonesian Premier League cafe Indonesia (online) constants. Official: https://… |
-| 2026-11-25 17:26:50 | [Kamasancafe](https://www.nuget.org/packages/Kamasancafe) | 1.0.0 | The Kamasan — pizza & coffee… | The Kamasan cafe Bandung Wetan, Bandung constants. Official: https://kamasancaf… |
-| 2026-11-25 17:26:59 | [Semoetcafe](https://www.nuget.org/packages/Semoetcafe) | 1.0.0 | Semoet Cafe — coffee & eatery… | Semoet Cafe cafe Cimanggis, Depok constants. Official: https://semoetcafe.id/ |
-| 2026-11-25 17:32:09 | [PortOpt](https://www.nuget.org/packages/PortOpt) | 1.0.0 | Gabriel Matte | Portfolio optimization on a native C++23 engine: minimum variance, maximum retu… |
-| 2026-11-25 17:36:30 | [EaseFilter.DataProtection](https://www.nuget.org/packages/EaseFilter.DataProtection) | 5.8.8.1 | EaseFilter | The EaseFilter Data Protection SDK unites four core kernel-mode protection laye… |
-| 2026-11-25 17:40:17 | [RedSmsNet](https://www.nuget.org/packages/RedSmsNet) | 1.1.0 | RedSmsNet contributors | .NET SDK for the RedSMS HTTP API: SMS, Telegram Gateway, Wait Call, Flash Call,… |
-| 2026-11-25 17:48:11 | [Cetprorosa](https://www.nuget.org/packages/Cetprorosa) | 1.0.0 | CETPRO Rosa de América — educ… | CETPRO Rosa de América cafe San Martín de Porres, Lima, Perú constants. Officia… |
-| 2026-11-25 17:58:01 | [QB.Compatibility.Sdl](https://www.nuget.org/packages/QB.Compatibility.Sdl) | 0.1.1 | Cory Smith | The SDL2 window for QB.Compatibility: QBasic graphics (SCREEN, PSET, LINE, CIRC… |
-| 2026-11-25 17:58:01 | [QB.Compatibility](https://www.nuget.org/packages/QB.Compatibility) | 0.1.1 | Cory Smith | A QuickBASIC 4.5 and QBasic compatibility library for Visual Basic (.NET): the… |
-| 2026-11-25 17:58:01 | [QB.Compatibility.Ports](https://www.nuget.org/packages/QB.Compatibility.Ports) | 0.1.1 | Cory Smith | Serial port support for QB.Compatibility: OPEN "COM1:..." and ON COM. Only need… |
-| 2026-11-25 17:58:02 | [qb2vb](https://www.nuget.org/packages/qb2vb) | 0.1.1 | Cory Smith | qb2vb: converts QBasic and QuickBASIC source to Visual Basic (.NET) programs th… |
-| 2026-11-25 18:03:32 | [Athenex.Whimflow.Application](https://www.nuget.org/packages/Athenex.Whimflow.Application) | 0.1.0 | Athenex | The Whimflow application layer: the wire and storage shape of workflow definiti… |
-| 2026-11-25 18:03:33 | [Athenex.Whimflow.Infrastructure.EntityFrameworkCore.PostgreSQL](https://www.nuget.org/packages/Athenex.Whimflow.Infrastructure.EntityFrameworkCore.PostgreSQL) | 0.1.0 | Athenex | Whimflow persistence on EF Core and PostgreSQL: the model an application adds t… |
-| 2026-11-25 18:03:33 | [Athenex.Whimflow.Domain](https://www.nuget.org/packages/Athenex.Whimflow.Domain) | 0.1.0 | Athenex | The Whimflow domain model: workflow definitions, published versions, running in… |
+| 2026-11-25 18:22:20 | [ScipSharp](https://www.nuget.org/packages/ScipSharp) | 26.11.8531 | SCIP Maintainers | .NET library for the SCIP Code Intelligence Protocol: protobuf types, symbol pa… |
+| 2026-11-25 18:22:26 | [ScipSharp.Cli](https://www.nuget.org/packages/ScipSharp.Cli) | 26.11.8531 | SCIP Maintainers | The scip command-line tool (print, lint, stats, snapshot, test, expt-convert, i… |
+| 2026-11-25 18:22:29 | [ScipSharp.Indexer.Clang](https://www.nuget.org/packages/ScipSharp.Indexer.Clang) | 26.11.8531 | SCIP Maintainers | SCIP indexer for C, C++ (port of scip-clang). |
+| 2026-11-25 18:22:31 | [ScipSharp.Indexer.Dart](https://www.nuget.org/packages/ScipSharp.Indexer.Dart) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Dart (port of scip-dart). |
+| 2026-11-25 18:22:33 | [ScipSharp.Indexer.DotNet](https://www.nuget.org/packages/ScipSharp.Indexer.DotNet) | 26.11.8531 | SCIP Maintainers | SCIP indexer for C#, Visual Basic (port of scip-dotnet). |
+| 2026-11-25 18:22:36 | [ScipSharp.Indexer.Java](https://www.nuget.org/packages/ScipSharp.Indexer.Java) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Java (native C# port of scip-java; needs no javac, plugin jar… |
+| 2026-11-25 18:22:39 | [ScipSharp.Indexer.Php](https://www.nuget.org/packages/ScipSharp.Indexer.Php) | 26.11.8531 | SCIP Maintainers | SCIP indexer for PHP (port of scip-php). |
+| 2026-11-25 18:22:41 | [ScipSharp.Indexer.Python](https://www.nuget.org/packages/ScipSharp.Indexer.Python) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Python (native C# port of scip-python). |
+| 2026-11-25 18:22:44 | [ScipSharp.Indexer.Ruby](https://www.nuget.org/packages/ScipSharp.Indexer.Ruby) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Ruby (port of scip-ruby). |
+| 2026-11-25 18:22:46 | [ScipSharp.Indexer.Rust](https://www.nuget.org/packages/ScipSharp.Indexer.Rust) | 26.11.8531 | SCIP Maintainers | SCIP indexer for Rust (port of rust-analyzer). |
+| 2026-11-25 18:22:49 | [ScipSharp.Indexer.TypeScript](https://www.nuget.org/packages/ScipSharp.Indexer.TypeScript) | 26.11.8531 | SCIP Maintainers | SCIP indexer for TypeScript, JavaScript (native C# port of scip-typescript: par… |
+| 2026-11-25 18:22:52 | [ScipSharp.Indexing](https://www.nuget.org/packages/ScipSharp.Indexing) | 26.11.8531 | SCIP Maintainers | Shared abstractions for SCIP indexers (per-language packages). |
+| 2026-11-25 18:36:36 | [Ivetech.ORM.OpenTelemetry](https://www.nuget.org/packages/Ivetech.ORM.OpenTelemetry) | 4.1.1 | Lucas Santos | Instrumentação OpenTelemetry do Ivetech.ORM: registra a fonte de atividades Ive… |
+| 2026-11-25 18:40:44 | [slnsync](https://www.nuget.org/packages/slnsync) | 0.1.1 | slnsync | Keeps an aggregate solution in sync with source .sln/.slnx solutions. |
+| 2026-11-25 18:44:12 | [Sidub.Platform.Search.Testing](https://www.nuget.org/packages/Sidub.Platform.Search.Testing) | 1.24.1 | Sidub Inc. | Package Description |
+| 2026-11-25 18:53:46 | [NCode.Randomness.Nist](https://www.nuget.org/packages/NCode.Randomness.Nist) | 0.3.0 | NCode Group | The NIST Randomness Beacon 2.0 adapter for NCode.Randomness: fetches pulses of… |
+| 2026-11-25 18:53:46 | [NCode.Randomness.Drand](https://www.nuget.org/packages/NCode.Randomness.Drand) | 0.3.0 | NCode Group | The drand adapter for NCode.Randomness: fetches rounds of the League of Entropy… |
+| 2026-11-25 18:56:33 | [Sobis.UI](https://www.nuget.org/packages/Sobis.UI) | 1.0.0 | Sobis | Standalone Blazor UI Component Library with Layout, Form, Input, DataGrid and O… |
+| 2026-11-25 18:56:43 | [SoilData_WindowsGraphics](https://www.nuget.org/packages/SoilData_WindowsGraphics) | 1.0.1 | Adam Pinkowski | SoilData Windows graphics helper for SoilData library |
 
 ## Data source
 

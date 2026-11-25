@@ -1,0 +1,20 @@
+created_at,package,version,authors,description
+2026-11-25T18:22:20.68Z,ScipSharp,26.11.8531,SCIP Maintainers,".NET library for the SCIP Code Intelligence Protocol: protobuf types, symbol parsing/formatting, positions and ranges."
+2026-11-25T18:22:26.49Z,ScipSharp.Cli,26.11.8531,SCIP Maintainers,"The scip command-line tool (print, lint, stats, snapshot, test, expt-convert, index) with built-in pure-.NET indexers for C#/VB, Java, TypeScript/JavaScript, Python, Ruby, Rust, C/C++, Dart and PHP."
+2026-11-25T18:22:29.037Z,ScipSharp.Indexer.Clang,26.11.8531,SCIP Maintainers,"SCIP indexer for C, C++ (port of scip-clang)."
+2026-11-25T18:22:31.5Z,ScipSharp.Indexer.Dart,26.11.8531,SCIP Maintainers,SCIP indexer for Dart (port of scip-dart).
+2026-11-25T18:22:33.903Z,ScipSharp.Indexer.DotNet,26.11.8531,SCIP Maintainers,"SCIP indexer for C#, Visual Basic (port of scip-dotnet)."
+2026-11-25T18:22:36.497Z,ScipSharp.Indexer.Java,26.11.8531,SCIP Maintainers,"SCIP indexer for Java (native C# port of scip-java; needs no javac, plugin jar or build tool)."
+2026-11-25T18:22:39.03Z,ScipSharp.Indexer.Php,26.11.8531,SCIP Maintainers,SCIP indexer for PHP (port of scip-php).
+2026-11-25T18:22:41.527Z,ScipSharp.Indexer.Python,26.11.8531,SCIP Maintainers,SCIP indexer for Python (native C# port of scip-python).
+2026-11-25T18:22:44.15Z,ScipSharp.Indexer.Ruby,26.11.8531,SCIP Maintainers,SCIP indexer for Ruby (port of scip-ruby).
+2026-11-25T18:22:46.77Z,ScipSharp.Indexer.Rust,26.11.8531,SCIP Maintainers,SCIP indexer for Rust (port of rust-analyzer).
+2026-11-25T18:22:49.697Z,ScipSharp.Indexer.TypeScript,26.11.8531,SCIP Maintainers,"SCIP indexer for TypeScript, JavaScript (native C# port of scip-typescript: parser, binder and resolver; no Node.js)."
+2026-11-25T18:22:52.043Z,ScipSharp.Indexing,26.11.8531,SCIP Maintainers,Shared abstractions for SCIP indexers (per-language packages).
+2026-11-25T18:36:36.11Z,Ivetech.ORM.OpenTelemetry,4.1.1,Lucas Santos,Instrumentação OpenTelemetry do Ivetech.ORM: registra a fonte de atividades Ivetech.ORM (um span por comando SQL) no TracerProviderBuilder.
+2026-11-25T18:40:44.203Z,slnsync,0.1.1,slnsync,Keeps an aggregate solution in sync with source .sln/.slnx solutions.
+2026-11-25T18:44:12.003Z,Sidub.Platform.Search.Testing,1.24.1,Sidub Inc.,Package Description
+2026-11-25T18:53:46.33Z,NCode.Randomness.Nist,0.3.0,NCode Group,"The NIST Randomness Beacon 2.0 adapter for NCode.Randomness: fetches pulses of the NIST beacon's chain and verifies their RSA signatures against pinned certificates, their output values, and their hash chain and precommitment to the previous pulse before any byte is used."
+2026-11-25T18:53:46.733Z,NCode.Randomness.Drand,0.3.0,NCode Group,The drand adapter for NCode.Randomness: fetches rounds of the League of Entropy's quicknet chain and verifies their BLS12-381 threshold signatures against the pinned group public key before any byte is used.
+2026-11-25T18:56:33.013Z,Sobis.UI,1.0.0,Sobis,"Standalone Blazor UI Component Library with Layout, Form, Input, DataGrid and Overlay components."
+2026-11-25T18:56:43.737Z,SoilData_WindowsGraphics,1.0.1,Adam Pinkowski,SoilData Windows graphics helper for SoilData library
