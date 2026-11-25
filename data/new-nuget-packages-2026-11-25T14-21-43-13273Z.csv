@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-25T13:24:36.77Z,Beesharp.Cli,0.2.9,detachmode,Command-line tool (beesharp) for running load-test presets headlessly and inspecting exported or live Beesharp runs.
+2026-11-25T13:47:12.31Z,JiksLib,2.0.0,许兴逸 Seng Jik,综合杂项工具库。
+2026-11-25T13:55:24.7Z,Byterelic.Core,0.1.0,coppr.tech,"An embeddable content-addressable Blob store for .NET: it stores each Blob under the hash of its content, on a local directory or S3-compatible storage, with no database of its own."
+2026-11-25T13:55:25.493Z,Byterelic.Integrations.S3,0.1.0,coppr.tech,The Byterelic Backend for S3-compatible storage.
+2026-11-25T13:57:33.58Z,LuminaUI.Markdown,0.7.0,LuminaUI Contributors,Lumina-themed Markdown document renderer for Avalonia and LuminaUI.
+2026-11-25T14:00:18.837Z,Bsa.MediaKit,1.0.0,Bsa,"Media toolkit in pure C#: probe media files, extract audio, prepare 16 kHz mono PCM for speech recognition, video thumbnails. No FFmpeg, no native dependencies."
+2026-11-25T14:08:02.143Z,OpenRobot.Edge.Event.Client,0.1.0,OpenRobot,Edge 事件订阅客户端：通过 IPC 订阅业务事件、执行回调并回报 ACK；不依赖 AppSdk。
