@@ -1,0 +1,28 @@
+created_at,package,version,authors,description
+2026-11-25T22:23:44.07Z,AeonSake.Blazor.Icons.Lucide.Generated,1.80.0,AeonSake,Blazor component for Lucide icons (https://lucide.dev). Only the icons that are used are generated at compile-time.
+2026-11-25T22:25:47.397Z,Senvend.Api,1.0.0,SENVEND,Public APIs to interact with the SENVEND ecosystem
+2026-11-25T22:34:09.57Z,NCoreUtils.Resources.S3Proxy,10.0.0,NCoreUtils.Resources.S3Proxy,Package Description
+2026-11-25T22:34:18.12Z,NCoreUtils.Videos.WebService.Client,10.0.0-rc00,NCoreUtils.Videos.WebService.Client,Package Description
+2026-11-25T22:34:19.777Z,NCoreUtils.Videos.Abstractions,10.0.0-rc00,NCoreUtils.Videos.Abstractions,Package Description
+2026-11-25T22:34:21.387Z,NCoreUtils.S3Proxy.Client,10.0.0,NCoreUtils.S3Proxy.Client,Package Description
+2026-11-25T22:34:22.887Z,NCoreUtils.S3Proxy.Abstractions,10.0.0,NCoreUtils.S3Proxy.Abstractions,Package Description
+2026-11-25T22:34:24.443Z,NCoreUtils.Videos.WebService.Shared,10.0.0-rc00,NCoreUtils.Videos.WebService.Shared,Package Description
+2026-11-25T22:36:09.473Z,Mediana.Codecs.Dv,0.1.43,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-25T22:49:30.46Z,LaughingDragon.OrchardCore.ActiveDirectory,1.0.0,Liam P. Ward,"Active Directory sign-in for Orchard Core over LDAPS: binds as the user (no service account), group gating with an explicit group-to-role map, throttling and audit logging. Includes Tor Account, a self-service account page. Preview."
+2026-11-25T22:55:50.38Z,TorBox.Sdk,9.3.2026112508,TorBox,Official C# client for the TorBox API.
+2026-11-25T22:56:59.63Z,Sharplight.Import.AceStep,0.3.0,Sharplight contributors,"ACE-Step importer for Sharplight: reads the ACE-Step 1.5 music generation checkpoint folders (diffusion transformer and condition encoder, Oobleck autoencoder, Qwen3 text encoder, silence latent) into audio-generation models."
+2026-11-25T22:57:01.8Z,Sharplight.Distributed,0.3.0,Sharplight contributors,Multi-node inference for Sharplight: a model too large for one machine runs pipeline parallel across several nodes. The remote execution provider's devices are segment workers on other machines (each loads only its own layers from its local model copy and keeps their KV cache); placement splits the…
+2026-11-25T22:57:02.33Z,Sharplight.ModelFeed,0.3.0,Sharplight contributors,"Model feed for Sharplight: package manifests, a static signed feed index (paged JSON with a digest chain, rollback and freeze protection), a feed client (HTTP or folder) with signature verification, dependency resolution by semantic version and resumable, chunk-verified package downloads, and the f…"
+2026-11-25T23:01:22.913Z,DeusaldSharp.Clock,11.0.1,"Adam ""Deusald"" Orliński",Game server clocks with fixed tick rate (precision and standard).
+2026-11-25T23:01:24.52Z,DeusaldSharp.CoRoutines,11.0.1,"Adam ""Deusald"" Orliński",Unity-style coroutines for plain C# game loops.
+2026-11-25T23:01:25.837Z,DeusaldSharp.Core,11.0.1,"Adam ""Deusald"" Orliński","Core DeusaldSharp utils: extensions, binary serialization helpers, math, flags memory and helpers."
+2026-11-25T23:01:27.207Z,DeusaldSharp.Glicko,11.0.1,"Adam ""Deusald"" Orliński",Glicko-2 style player rating calculations.
+2026-11-25T23:01:28.65Z,DeusaldSharp.Injector,11.0.1,"Adam ""Deusald"" Orliński",Minimal attribute-based dependency injector.
+2026-11-25T23:01:30.147Z,DeusaldSharp.Messages,11.0.1,"Adam ""Deusald"" Orliński",Lightweight message bus with pooled messages.
+2026-11-25T23:01:31.557Z,DeusaldSharp.Proto,11.0.1,"Adam ""Deusald"" Orliński",Proto-style binary messages (ProtoMsgBase / ProtoField) with a bundled source generator that emits Serialize/Deserialize.
+2026-11-25T23:01:33.267Z,DeusaldSharp.Splines,11.0.1,"Adam ""Deusald"" Orliński",2D splines for paths and curves.
+2026-11-25T23:01:34.7Z,DeusaldSharp.Vectors,11.0.1,"Adam ""Deusald"" Orliński","Vector2, Vector3 and typed TVector2/TVector3 with classic vector math."
+2026-11-25T23:02:26.74Z,OssBrewers.Prism.Flowline,1.0.0,Najaf Shaikh,"A headless, durable workflow host built on Microsoft Agent Framework workflows. Provides versioned workflow registration, checkpointed execution with resume, lease-based dispatch across replicas, retry and dead-stop classification driven by the workflow itself, configuration-driven human approval g…"
+2026-11-25T23:11:58.273Z,Sharplight.Architectures.VideoEnhancement,0.3.1,Sharplight contributors,"Video-enhancement architectures for Sharplight. SeedVR2: builds the one-step video restoration DiT (window attention over frames, rows and columns), the causal video VAE and the wavelet colour correction as graphs of generic Core ops, and runs them as a video-enhancement task client (IVideoEnhancer…"
+2026-11-25T23:12:08.25Z,Sharplight.Cuda,0.3.1,Sharplight contributors,"CUDA execution provider for Sharplight (NVIDIA GPUs): the Slang kernel library compiled to CUDA C++ and PTX, run through the CUDA driver API. Needs only the NVIDIA driver; the runtime compiler (NVRTC) comes with the Sharplight.Cuda.Runtime dependency."
+2026-11-25T23:12:39.007Z,Sharplight.Import.SeedVr,0.3.1,Sharplight contributors,"SeedVR2 importer for Sharplight: reads the official SeedVR2 checkpoints (the DiT .pth, ema_vae.pth and the precomputed text embeddings pos_emb.pt / neg_emb.pt) and their fp16 safetensors conversions into video-enhancement models."
