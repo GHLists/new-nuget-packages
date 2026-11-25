@@ -12,65 +12,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 17:22 UTC
+## Latest list — 2026-11-25 18:18 UTC
 
-New packages created between 2026-11-25 15:19 UTC and 2026-11-25 17:22 UTC.
+New packages created between 2026-11-25 17:22 UTC and 2026-11-25 18:18 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T17-22-05-257211Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T18-18-58-980201Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 15:26:09 | [Winche.Realtime](https://www.nuget.org/packages/Winche.Realtime) | 1.0.0 | Ehsan Rashidi | PostgreSQL-backed realtime lists for Winche: ordered, append-only, deduplicated… |
-| 2026-11-25 15:26:10 | [Winche.Realtime.AspNetCore](https://www.nuget.org/packages/Winche.Realtime.AspNetCore) | 1.0.0 | Ehsan Rashidi | The WebSocket for Winche Realtime: append to lists, subscribe from a position a… |
-| 2026-11-25 15:30:22 | [ZapZ](https://www.nuget.org/packages/ZapZ) | 0.1.0 | ZapZ | Official .NET SDK for the ZapZ WhatsApp API |
-| 2026-11-25 15:31:38 | [Asteroid.GodotScripts.Generator](https://www.nuget.org/packages/Asteroid.GodotScripts.Generator) | 0.1.1 | Asteroid.GodotScripts.Generat… | Source generator for Godot C# scripts that live in external assemblies. |
-| 2026-11-25 15:31:42 | [Asteroid.GodotExternalLibrary.Sdk](https://www.nuget.org/packages/Asteroid.GodotExternalLibrary.Sdk) | 0.1.1 | Asteroid.GodotExternalLibrary… | MSBuild SDK for Godot C# script libraries that live outside the Godot project a… |
-| 2026-11-25 15:31:44 | [Asteroid.GodotScripts.Main](https://www.nuget.org/packages/Asteroid.GodotScripts.Main) | 0.1.1 | Asteroid.GodotScripts.Main | MSBuild package for main Godot projects that auto-register scripts from referen… |
-| 2026-11-25 15:31:47 | [Asteroid.GodotScripts.Cli](https://www.nuget.org/packages/Asteroid.GodotScripts.Cli) | 0.1.1 | Asteroid.GodotScripts.Cli | Generate placeholder Godot .cs files for scripts that live in external assembli… |
-| 2026-11-25 15:34:24 | [Winche.Functions.Realtime](https://www.nuget.org/packages/Winche.Functions.Realtime) | 3.3.0 | Ehsan Rashidi | JavaScript and TypeScript functions for the Winche stack, run by Deno in sandbo… |
-| 2026-11-25 15:34:51 | [CNS-ZUGFeRD-csharp](https://www.nuget.org/packages/CNS-ZUGFeRD-csharp) | 18.1.0 | Julien REGNARD, Stephan Stapel | Open-source .NET library for reading and creating ZUGFeRD, Factur-X and XRechnu… |
-| 2026-11-25 15:36:30 | [Wpflow.Blazor](https://www.nuget.org/packages/Wpflow.Blazor) | 1.0.1 | bizouarn | Éditeur de graphes node/edge interactif pour Blazor, porté de xyflow (React Flo… |
-| 2026-11-25 15:48:29 | [Cratis.Identity.Contracts](https://www.nuget.org/packages/Cratis.Identity.Contracts) | 0.12.0 | Cratis | The contracts of Cratis Identity: the claim types its access tokens carry. |
-| 2026-11-25 15:51:44 | [LearningShooter](https://www.nuget.org/packages/LearningShooter) | 0.1.0 | LearningShooter contributors | A tiny deterministic shooting simulation for teaching optimization basics. |
-| 2026-11-25 15:56:23 | [Albatross.CommandLine](https://www.nuget.org/packages/Albatross.CommandLine) | 9.0.0 | Rushui Guan | A streamlined integration layer for System.CommandLine with dependency injectio… |
-| 2026-11-25 15:56:24 | [Albatross.CommandLine.CodeAnalysis](https://www.nuget.org/packages/Albatross.CommandLine.CodeAnalysis) | 9.0.0 | Rushui Guan | Roslyn analyzers for Albatross.CommandLine that flag invalid command definition… |
-| 2026-11-25 15:56:25 | [Albatross.CommandLine.Defaults](https://www.nuget.org/packages/Albatross.CommandLine.Defaults) | 9.0.0 | Rushui Guan | Opinionated defaults for Albatross.CommandLine apps: JSON configuration and fil… |
-| 2026-11-25 15:56:27 | [Albatross.CommandLine.Inputs](https://www.nuget.org/packages/Albatross.CommandLine.Inputs) | 9.0.0 | Rushui Guan | Reusable System.CommandLine options and arguments for Albatross.CommandLine app… |
-| 2026-11-25 15:56:28 | [Albatross.CommandLine.Outputs](https://www.nuget.org/packages/Albatross.CommandLine.Outputs) | 9.0.0 | Rushui Guan | Stable JSON output for Albatross.CommandLine apps: a CommandOutput result envel… |
-| 2026-11-25 16:02:09 | [AlphaSoftware.Snapshotter](https://www.nuget.org/packages/AlphaSoftware.Snapshotter) | 0.1.0 | Alpha Software Solutions | Snapshot testing for .NET that works like Verify with any test framework, or no… |
-| 2026-11-25 16:03:08 | [GetText.NET.Wpf](https://www.nuget.org/packages/GetText.NET.Wpf) | 11.1.12-rc | perpetualKid | Localizer functionality translating text properties in WPF elements. |
-| 2026-11-25 16:04:46 | [Reeve.Workloads.DependencyInjection](https://www.nuget.org/packages/Reeve.Workloads.DependencyInjection) | 1.0.1 | grzonu | The composition surface every Reeve.Workloads package registers through: ReeveW… |
-| 2026-11-25 16:04:46 | [Reeve.Workloads.Core](https://www.nuget.org/packages/Reeve.Workloads.Core) | 1.0.1 | grzonu | The provider-neutral workload engine: reconcile, lifecycle, update, health gate… |
-| 2026-11-25 16:04:47 | [Reeve.Workloads.Providers.Manual](https://www.nuget.org/packages/Reeve.Workloads.Providers.Manual) | 1.0.1 | grzonu | The manual provider for Reeve.Workloads: the operator deploys the rendered arti… |
-| 2026-11-25 16:04:48 | [Reeve.Workloads.Domain](https://www.nuget.org/packages/Reeve.Workloads.Domain) | 1.0.1 | grzonu | The workload domain rules over the Reeve.Workloads.Abstractions vocabulary: des… |
-| 2026-11-25 16:04:48 | [Reeve.Workloads.Manifest](https://www.nuget.org/packages/Reeve.Workloads.Manifest) | 1.0.1 | grzonu | The strict parser for a plugin's deployment manifest, its path policy and its v… |
-| 2026-11-25 16:04:49 | [Reeve.Workloads.Abstractions](https://www.nuget.org/packages/Reeve.Workloads.Abstractions) | 1.0.1 | grzonu | The workload vocabulary: the domain model, the ports a host implements, and the… |
-| 2026-11-25 16:04:50 | [Reeve.Workloads.EntityFrameworkCore](https://www.nuget.org/packages/Reeve.Workloads.EntityFrameworkCore) | 1.0.1 | grzonu | The Entity Framework Core persistence for Reeve.Workloads: the workloads DbCont… |
-| 2026-11-25 16:04:51 | [Reeve.Workloads.Providers.Docker](https://www.nuget.org/packages/Reeve.Workloads.Providers.Docker) | 1.0.1 | grzonu | The Docker provider for Reeve.Workloads: container lifecycle, preflight, compos… |
-| 2026-11-25 16:04:51 | [Reeve.Workloads.Testing](https://www.nuget.org/packages/Reeve.Workloads.Testing) | 1.0.1 | grzonu | Test helpers for hosts of Reeve.Workloads: an in-memory IWorkloadProvider and a… |
-| 2026-11-25 16:04:52 | [Reeve.Workloads.EntityFrameworkCore.PostgreSql](https://www.nuget.org/packages/Reeve.Workloads.EntityFrameworkCore.PostgreSql) | 1.0.1 | grzonu | PostgreSQL support for Reeve.Workloads: the library's own migrations, the persi… |
-| 2026-11-25 16:04:53 | [Reeve.Workloads.Providers.Kubernetes](https://www.nuget.org/packages/Reeve.Workloads.Providers.Kubernetes) | 1.0.1 | grzonu | The Kubernetes provider for Reeve.Workloads: object rendering and apply, adopti… |
-| 2026-11-25 16:04:54 | [Reeve.Workloads.DeploymentFixtures](https://www.nuget.org/packages/Reeve.Workloads.DeploymentFixtures) | 1.0.1 | grzonu | Update conformance fixtures for Reeve Workloads plugins: the canonical update p… |
-| 2026-11-25 16:26:53 | [Cider.Native.Runtime.linux-musl-x64](https://www.nuget.org/packages/Cider.Native.Runtime.linux-musl-x64) | 0.1.33 | David Obando | Prebuilt native llama.cpp (v0.9.0) runtime libraries for linux-musl-x64. Restor… |
-| 2026-11-25 16:26:55 | [Cider.Native.Runtime.linux-musl-arm64](https://www.nuget.org/packages/Cider.Native.Runtime.linux-musl-arm64) | 0.1.33 | David Obando | Prebuilt native llama.cpp (v0.9.0) runtime libraries for linux-musl-arm64. Rest… |
-| 2026-11-25 16:33:27 | [LibreMetaverse.Caching](https://www.nuget.org/packages/LibreMetaverse.Caching) | 3.5.0 | Sjofn LLC, OpenMetaverse Deve… | Optional on-disk caches for LibreMetaverse (currently: a per-region object-upda… |
-| 2026-11-25 16:35:42 | [DamianH.Piston.any](https://www.nuget.org/packages/DamianH.Piston.any) | 2026.1125.22-dev | Damian Hickey | Continuous .NET test backend with stdio and HTTP MCP test tools and a web dashb… |
-| 2026-11-25 16:35:44 | [DamianH.Piston.win-arm64](https://www.nuget.org/packages/DamianH.Piston.win-arm64) | 2026.1125.22-dev | Damian Hickey | Continuous .NET test backend with stdio and HTTP MCP test tools and a web dashb… |
-| 2026-11-25 16:35:46 | [DamianH.Piston.win-x64](https://www.nuget.org/packages/DamianH.Piston.win-x64) | 2026.1125.22-dev | Damian Hickey | Continuous .NET test backend with stdio and HTTP MCP test tools and a web dashb… |
-| 2026-11-25 16:36:49 | [Arc56.Generated.BDutta18.AlgoWagers](https://www.nuget.org/packages/Arc56.Generated.BDutta18.AlgoWagers) | 1.0.1.2026112516 | BDutta18 | Generated ARC-56 Algorand smart-contract clients for BDutta18/AlgoWagers. |
-| 2026-11-25 16:42:30 | [Reeve.Cluster.EntityFrameworkCore](https://www.nuget.org/packages/Reeve.Cluster.EntityFrameworkCore) | 1.0.0 | grzonu | The capture interceptor and the fenced-write helper of Reeve.Cluster for Entity… |
-| 2026-11-25 16:42:31 | [Reeve.Cluster.Abstractions](https://www.nuget.org/packages/Reeve.Cluster.Abstractions) | 1.0.0 | grzonu | Interfaces and result types of Reeve.Cluster, the library that gives a service… |
-| 2026-11-25 16:42:31 | [Reeve.Cluster.Redis](https://www.nuget.org/packages/Reeve.Cluster.Redis) | 1.0.0 | grzonu | Redis wake-ups, the relay transport, Redis primitives and FenceRedis for Reeve.… |
-| 2026-11-25 16:42:32 | [Reeve.Cluster.AspNetCore](https://www.nuget.org/packages/Reeve.Cluster.AspNetCore) | 1.0.0 | grzonu | The readiness check, fence middleware, acknowledgement filter, read index and s… |
-| 2026-11-25 16:42:33 | [Reeve.Cluster](https://www.nuget.org/packages/Reeve.Cluster) | 1.0.0 | grzonu | Single-replica semantics for a service that runs as 1..N replicas over one Post… |
-| 2026-11-25 16:48:38 | [Datalium.Strata.AI](https://www.nuget.org/packages/Datalium.Strata.AI) | 0.9.0 | Datalium | Model calls and agents for Datalium Strata: Microsoft.Extensions.AI's IChatClie… |
-| 2026-11-25 16:48:39 | [Datalium.Strata.Storage](https://www.nuget.org/packages/Datalium.Strata.Storage) | 0.9.0 | Datalium | Checkpoint and history stores for Datalium Strata: in-memory, SQLite, Postgres… |
-| 2026-11-25 16:48:39 | [Datalium.Strata.Hosting](https://www.nuget.org/packages/Datalium.Strata.Hosting) | 0.9.0 | Datalium | Hosting for Datalium Strata: services.AddStrata(), settings from configuration,… |
-| 2026-11-25 16:48:40 | [Datalium.Strata](https://www.nuget.org/packages/Datalium.Strata) | 0.9.0 | Datalium | The Datalium Strata engine: typed state graphs for AI agents with compile-time… |
-| 2026-11-25 16:48:40 | [Datalium.Strata.Cloud](https://www.nuget.org/packages/Datalium.Strata.Cloud) | 0.9.0 | Datalium | The Strata Cloud checkpoint store, decisions client and decision worker for Dat… |
-| 2026-11-25 16:54:01 | [sf-mod-check](https://www.nuget.org/packages/sf-mod-check) | 0.18.0 | Richard Bejtlich | Read-only, offline checks of Starfield mods: plugin checks (structure, FormIDs,… |
-| 2026-11-25 16:59:01 | [DiasparkGenServiceLiveV10](https://www.nuget.org/packages/DiasparkGenServiceLiveV10) | 10.0.1 | Sourabh Tokkar / Divyanshi | 11252026 Sourabh/Divyanshi : New V10 Genservice package |
-| 2026-11-25 17:10:53 | [PipelineKit.Quality](https://www.nuget.org/packages/PipelineKit.Quality) | 0.5.0 | PipelineKit contributors | Data quality rules, quarantine, schema drift detection and reconciliation for .… |
+| 2026-11-25 17:22:49 | [Didybarber](https://www.nuget.org/packages/Didybarber) | 1.0.0 | Didy Barber — barbershop Peja… | Didy Barber cafe Pejaten Barat, Jakarta Selatan constants. Official: https://di… |
+| 2026-11-25 17:23:11 | [Nasiudukposuri](https://www.nuget.org/packages/Nasiudukposuri) | 1.0.0 | Nasi Uduk Po Suri — sarapan B… | Nasi Uduk Po Suri cafe Petukangan, Jakarta Selatan constants. Official: https:/… |
+| 2026-11-25 17:23:33 | [Didycoffee](https://www.nuget.org/packages/Didycoffee) | 1.0.0 | Didy Coffee — coffee bar Peja… | Didy Coffee cafe Pejaten Barat, Jakarta Selatan constants. Official: https://di… |
+| 2026-11-25 17:24:25 | [Pensil](https://www.nuget.org/packages/Pensil) | 1.0.0 | Pensil.id — informasi edukasi… | Pensil.id cafe Indonesia (online) constants. Official: https://pensil.id/ |
+| 2026-11-25 17:25:03 | [Sepakatmayestik](https://www.nuget.org/packages/Sepakatmayestik) | 1.0.0 | RM Sepakat Mayestik — gulai g… | RM Sepakat Mayestik cafe Pasar Mayestik, Jakarta Selatan constants. Official: h… |
+| 2026-11-25 17:25:27 | [Bakmikota21](https://www.nuget.org/packages/Bakmikota21) | 1.0.0 | Bakmi Kota 21 — bakmi bakar H… | Bakmi Kota 21 cafe Mangga Besar / Hayam Wuruk, Jakarta Barat constants. Officia… |
+| 2026-11-25 17:25:34 | [Ramiz.Yaraliev.MathKit](https://www.nuget.org/packages/Ramiz.Yaraliev.MathKit) | 1.0.0 | Рамиз Яралиев | Учебная библиотека арифметических операций |
+| 2026-11-25 17:26:00 | [Manisjari](https://www.nuget.org/packages/Manisjari) | 1.0.0 | Manis Jari Spa & Reflexy — sp… | Manis Jari Spa & Reflexy cafe Kemang, Jakarta Selatan constants. Official: http… |
+| 2026-11-25 17:26:07 | [Maizymas](https://www.nuget.org/packages/Maizymas) | 1.0.0 | Maíz & Más — Tucson street co… | Maíz & Más cafe Tucson, Arizona, USA constants. Official: https://maizymas.com/ |
+| 2026-11-25 17:26:18 | [Beckandford](https://www.nuget.org/packages/Beckandford) | 1.0.0 | Beck and Ford — barber & coff… | Beck and Ford cafe Jakarta Timur constants. Official: https://beckandford.com/ |
+| 2026-11-25 17:26:26 | [Kokabarber](https://www.nuget.org/packages/Kokabarber) | 1.0.0 | Koka Barber — makan & cukur M… | Koka Barber cafe Menteng Pulo, Jakarta Selatan constants. Official: https://kok… |
+| 2026-11-25 17:26:33 | [Gothambarber](https://www.nuget.org/packages/Gothambarber) | 1.0.0 | Gotham Barber & Coffee — Cila… | Gotham Barber & Coffee cafe Cilandak Timur, Jakarta Selatan constants. Official… |
+| 2026-11-25 17:26:41 | [Indonesianpremierleague](https://www.nuget.org/packages/Indonesianpremierleague) | 1.0.0 | Indonesian Premier League — b… | Indonesian Premier League cafe Indonesia (online) constants. Official: https://… |
+| 2026-11-25 17:26:50 | [Kamasancafe](https://www.nuget.org/packages/Kamasancafe) | 1.0.0 | The Kamasan — pizza & coffee… | The Kamasan cafe Bandung Wetan, Bandung constants. Official: https://kamasancaf… |
+| 2026-11-25 17:26:59 | [Semoetcafe](https://www.nuget.org/packages/Semoetcafe) | 1.0.0 | Semoet Cafe — coffee & eatery… | Semoet Cafe cafe Cimanggis, Depok constants. Official: https://semoetcafe.id/ |
+| 2026-11-25 17:32:09 | [PortOpt](https://www.nuget.org/packages/PortOpt) | 1.0.0 | Gabriel Matte | Portfolio optimization on a native C++23 engine: minimum variance, maximum retu… |
+| 2026-11-25 17:36:30 | [EaseFilter.DataProtection](https://www.nuget.org/packages/EaseFilter.DataProtection) | 5.8.8.1 | EaseFilter | The EaseFilter Data Protection SDK unites four core kernel-mode protection laye… |
+| 2026-11-25 17:40:17 | [RedSmsNet](https://www.nuget.org/packages/RedSmsNet) | 1.1.0 | RedSmsNet contributors | .NET SDK for the RedSMS HTTP API: SMS, Telegram Gateway, Wait Call, Flash Call,… |
+| 2026-11-25 17:48:11 | [Cetprorosa](https://www.nuget.org/packages/Cetprorosa) | 1.0.0 | CETPRO Rosa de América — educ… | CETPRO Rosa de América cafe San Martín de Porres, Lima, Perú constants. Officia… |
+| 2026-11-25 17:58:01 | [QB.Compatibility.Sdl](https://www.nuget.org/packages/QB.Compatibility.Sdl) | 0.1.1 | Cory Smith | The SDL2 window for QB.Compatibility: QBasic graphics (SCREEN, PSET, LINE, CIRC… |
+| 2026-11-25 17:58:01 | [QB.Compatibility](https://www.nuget.org/packages/QB.Compatibility) | 0.1.1 | Cory Smith | A QuickBASIC 4.5 and QBasic compatibility library for Visual Basic (.NET): the… |
+| 2026-11-25 17:58:01 | [QB.Compatibility.Ports](https://www.nuget.org/packages/QB.Compatibility.Ports) | 0.1.1 | Cory Smith | Serial port support for QB.Compatibility: OPEN "COM1:..." and ON COM. Only need… |
+| 2026-11-25 17:58:02 | [qb2vb](https://www.nuget.org/packages/qb2vb) | 0.1.1 | Cory Smith | qb2vb: converts QBasic and QuickBASIC source to Visual Basic (.NET) programs th… |
+| 2026-11-25 18:03:32 | [Athenex.Whimflow.Application](https://www.nuget.org/packages/Athenex.Whimflow.Application) | 0.1.0 | Athenex | The Whimflow application layer: the wire and storage shape of workflow definiti… |
+| 2026-11-25 18:03:33 | [Athenex.Whimflow.Infrastructure.EntityFrameworkCore.PostgreSQL](https://www.nuget.org/packages/Athenex.Whimflow.Infrastructure.EntityFrameworkCore.PostgreSQL) | 0.1.0 | Athenex | Whimflow persistence on EF Core and PostgreSQL: the model an application adds t… |
+| 2026-11-25 18:03:33 | [Athenex.Whimflow.Domain](https://www.nuget.org/packages/Athenex.Whimflow.Domain) | 0.1.0 | Athenex | The Whimflow domain model: workflow definitions, published versions, running in… |
 
 ## Data source
 

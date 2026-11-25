@@ -1,0 +1,27 @@
+created_at,package,version,authors,description
+2026-11-25T17:22:49.32Z,Didybarber,1.0.0,Didy Barber — barbershop Pejaten Barat Amil,"Didy Barber cafe Pejaten Barat, Jakarta Selatan constants. Official: https://didybarber.com/"
+2026-11-25T17:23:11.12Z,Nasiudukposuri,1.0.0,Nasi Uduk Po Suri — sarapan Betawi Petukangan,"Nasi Uduk Po Suri cafe Petukangan, Jakarta Selatan constants. Official: https://nasiudukposuri.com/"
+2026-11-25T17:23:33.457Z,Didycoffee,1.0.0,Didy Coffee — coffee bar Pejaten Barat,"Didy Coffee cafe Pejaten Barat, Jakarta Selatan constants. Official: https://didycoffee.com/"
+2026-11-25T17:24:25.937Z,Pensil,1.0.0,Pensil.id — informasi edukasi mudah dipahami,Pensil.id cafe Indonesia (online) constants. Official: https://pensil.id/
+2026-11-25T17:25:03.693Z,Sepakatmayestik,1.0.0,RM Sepakat Mayestik — gulai gajebo Pasar Mayestik sejak 1967,"RM Sepakat Mayestik cafe Pasar Mayestik, Jakarta Selatan constants. Official: https://sepakatmayestik.com/"
+2026-11-25T17:25:27.553Z,Bakmikota21,1.0.0,Bakmi Kota 21 — bakmi bakar Hayam Wuruk Mangga Besar,"Bakmi Kota 21 cafe Mangga Besar / Hayam Wuruk, Jakarta Barat constants. Official: https://bakmikota21.com/"
+2026-11-25T17:25:34.56Z,Ramiz.Yaraliev.MathKit,1.0.0,Рамиз Яралиев,Учебная библиотека арифметических операций
+2026-11-25T17:26:00.12Z,Manisjari,1.0.0,Manis Jari Spa & Reflexy — spa reflexology Kemang,"Manis Jari Spa & Reflexy cafe Kemang, Jakarta Selatan constants. Official: https://manisjari.com/"
+2026-11-25T17:26:07.967Z,Maizymas,1.0.0,Maíz & Más — Tucson street corn trucks,"Maíz & Más cafe Tucson, Arizona, USA constants. Official: https://maizymas.com/"
+2026-11-25T17:26:18.507Z,Beckandford,1.0.0,Beck and Ford — barber & coffee Matraman & Pondok Kelapa,Beck and Ford cafe Jakarta Timur constants. Official: https://beckandford.com/
+2026-11-25T17:26:26.157Z,Kokabarber,1.0.0,Koka Barber — makan & cukur Menteng Pulo,"Koka Barber cafe Menteng Pulo, Jakarta Selatan constants. Official: https://kokabarber.com/"
+2026-11-25T17:26:33.223Z,Gothambarber,1.0.0,Gotham Barber & Coffee — Cilandak Timur,"Gotham Barber & Coffee cafe Cilandak Timur, Jakarta Selatan constants. Official: https://gothambarber.com/"
+2026-11-25T17:26:41.22Z,Indonesianpremierleague,1.0.0,Indonesian Premier League — berita bola Eropa & Indonesia,Indonesian Premier League cafe Indonesia (online) constants. Official: https://indonesianpremierleague.com/
+2026-11-25T17:26:50.473Z,Kamasancafe,1.0.0,The Kamasan — pizza & coffee Bandung Wetan,"The Kamasan cafe Bandung Wetan, Bandung constants. Official: https://kamasancafe.com/"
+2026-11-25T17:26:59.22Z,Semoetcafe,1.0.0,Semoet Cafe — coffee & eatery Cimanggis Depok,"Semoet Cafe cafe Cimanggis, Depok constants. Official: https://semoetcafe.id/"
+2026-11-25T17:32:09.68Z,PortOpt,1.0.0,Gabriel Matte,"Portfolio optimization on a native C++23 engine: minimum variance, maximum return, maximum Sharpe, utility, Kelly, tracking error, maximum diversification and risk parity, with bounds, leverage and cash."
+2026-11-25T17:36:30.36Z,EaseFilter.DataProtection,5.8.8.1,EaseFilter,"The EaseFilter Data Protection SDK unites four core kernel-mode protection layers—File Access Control, Transparent AES-256 File Encryption, Process Filtering, and Registry Filtering—behind a single, easy-to-use user-mode API. Backed by a Microsoft WHQL-certified driver proven in production for two…"
+2026-11-25T17:40:17.8Z,RedSmsNet,1.1.0,RedSmsNet contributors,".NET SDK for the RedSMS HTTP API: SMS, Telegram Gateway, Wait Call, Flash Call, Voice, PushOk, HLR and cascade messages, message status and account info, webhook parsing."
+2026-11-25T17:48:11.913Z,Cetprorosa,1.0.0,CETPRO Rosa de América — educación técnico productiva Lima,"CETPRO Rosa de América cafe San Martín de Porres, Lima, Perú constants. Official: https://cetprorosa.com.pe/aulavirtual/"
+2026-11-25T17:58:01.52Z,QB.Compatibility.Sdl,0.1.1,Cory Smith,"The SDL2 window for QB.Compatibility: QBasic graphics (SCREEN, PSET, LINE, CIRCLE, PAINT, GET/PUT, DRAW, PALETTE), the joystick and the pen. Only needed by programs that draw."
+2026-11-25T17:58:01.71Z,QB.Compatibility,0.1.1,Cory Smith,"A QuickBASIC 4.5 and QBasic compatibility library for Visual Basic (.NET): the statements and functions of the language (text, files, errors, events, sound) for programs migrated from QB."
+2026-11-25T17:58:01.9Z,QB.Compatibility.Ports,0.1.1,Cory Smith,"Serial port support for QB.Compatibility: OPEN ""COM1:..."" and ON COM. Only needed by programs that use a serial port."
+2026-11-25T17:58:02.367Z,qb2vb,0.1.1,Cory Smith,qb2vb: converts QBasic and QuickBASIC source to Visual Basic (.NET) programs that use QB.Compatibility.
+2026-11-25T18:03:32.89Z,Athenex.Whimflow.Application,0.1.0,Athenex,"The Whimflow application layer: the wire and storage shape of workflow definitions, the registry of actor sources, and the ports an application's persistence implements."
+2026-11-25T18:03:33.24Z,Athenex.Whimflow.Infrastructure.EntityFrameworkCore.PostgreSQL,0.1.0,Athenex,"Whimflow persistence on EF Core and PostgreSQL: the model an application adds to its own DbContext, the history writer, repositories and the due-step query."
+2026-11-25T18:03:33.61Z,Athenex.Whimflow.Domain,0.1.0,Athenex,"The Whimflow domain model: workflow definitions, published versions, running instances and the engine that walks them."
