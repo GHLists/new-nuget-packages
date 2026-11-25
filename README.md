@@ -12,23 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 12:20 UTC
+## Latest list — 2026-11-25 13:21 UTC
 
-New packages created between 2026-11-25 11:21 UTC and 2026-11-25 12:20 UTC.
+New packages created between 2026-11-25 12:20 UTC and 2026-11-25 13:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T12-20-01-937228Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T13-21-04-978322Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 11:48:19 | [Donkeh.Llm](https://www.nuget.org/packages/Donkeh.Llm) | 1.0.53 | barely-sentient | Donkeh.Llm module for Donkeh, a CSS-driven UI engine for .NET. |
-| 2026-11-25 11:48:55 | [GetCNPJ.Community](https://www.nuget.org/packages/GetCNPJ.Community) | 1.1.0 | Bruno da Cunha Felipe,Thaliso… | Fork independente do GetCNPJ de Bruno da Cunha Felipe, mantido por Thalison San… |
-| 2026-11-25 11:55:26 | [Iyu.UBoard](https://www.nuget.org/packages/Iyu.UBoard) | 0.1.0 | iyulab | Host-neutral board storage and screen for embedding a board viewer and editor -… |
-| 2026-11-25 11:55:28 | [Iyu.UBoard.EntityFrameworkCore](https://www.nuget.org/packages/Iyu.UBoard.EntityFrameworkCore) | 0.1.0 | iyulab | Entity Framework Core board store behind Iyu.UBoard - the boards, their revisio… |
-| 2026-11-25 11:56:47 | [Olax.Auditing.Abstractions](https://www.nuget.org/packages/Olax.Auditing.Abstractions) | 1.0.0 | OLAX Innovative Lab | Audit contracts for the Application layer of OLAX services: IAuditLog records b… |
-| 2026-11-25 11:56:50 | [Olax.Auditing.EntityFrameworkCore](https://www.nuget.org/packages/Olax.Auditing.EntityFrameworkCore) | 1.0.0 | OLAX Innovative Lab | Audit trail for an OLAX service's EF Core DbContext (PostgreSQL): every insert,… |
-| 2026-11-25 11:59:13 | [Olax.Correlation](https://www.nuget.org/packages/Olax.Correlation) | 1.0.0 | OLAX Innovative Lab | The operation context of OLAX services: who is acting (user, service, on behalf… |
-| 2026-11-25 12:08:52 | [Iyu.UBoard.IronHive](https://www.nuget.org/packages/Iyu.UBoard.IronHive) | 0.51.0 | iyulab | Fills the Iyu.UBoard assistant port with IronHive.Agent and IronProw: a board's… |
-| 2026-11-25 12:09:02 | [Iyu.UBoard.MainServer](https://www.nuget.org/packages/Iyu.UBoard.MainServer) | 0.51.0 | iyulab | Connects the Iyu.UBoard source catalog to Iyu.MainServer: what a board can be b… |
+| 2026-11-25 12:25:10 | [Zvec.Native](https://www.nuget.org/packages/Zvec.Native) | 0.8.1 | TheBitBrine | Native Zvec libraries (win-x64, linux-x64, linux-arm64, osx-arm64) and P/Invoke… |
+| 2026-11-25 12:49:10 | [PocketBase.SDK.Abstractions](https://www.nuget.org/packages/PocketBase.SDK.Abstractions) | 1.0.2 | PocketBase.SDK contributors | Abstractions, DTOs and options for PocketBase.SDK. |
+| 2026-11-25 12:49:11 | [PocketBase.SDK](https://www.nuget.org/packages/PocketBase.SDK) | 1.0.2 | PocketBase.SDK contributors | .NET client for PocketBase (core client and services). |
+| 2026-11-25 12:49:12 | [PocketBase.SDK.DependencyInjection](https://www.nuget.org/packages/PocketBase.SDK.DependencyInjection) | 1.0.2 | PocketBase.SDK contributors | Dependency injection helpers for PocketBase.SDK. |
+| 2026-11-25 12:50:17 | [ZeroAlloc.Platform](https://www.nuget.org/packages/ZeroAlloc.Platform) | 0.1.0 | Markism-JA | Zero-allocation OS primitives for .NET 10 and netstandard2.1 (64-bit AnyCPU): P… |
+| 2026-11-25 12:51:07 | [NSystem.Data.MoonPdf.WinForm](https://www.nuget.org/packages/NSystem.Data.MoonPdf.WinForm) | 2025.6.6 | ErikZhouXin | PDF操作库,基于MoonPdf |
+| 2026-11-25 12:54:36 | [Luxoft.Bss.Platform.RabbitMq.Base](https://www.nuget.org/packages/Luxoft.Bss.Platform.RabbitMq.Base) | 1.6.12-rabbit-schem… | Bss.Platform.RabbitMq.Base | Package Description |
+| 2026-11-25 12:54:38 | [Luxoft.Bss.Platform.RabbitMq.Schemas](https://www.nuget.org/packages/Luxoft.Bss.Platform.RabbitMq.Schemas) | 1.6.12-rabbit-schem… | Bss.Platform.RabbitMq.Schemas | Package Description |
+| 2026-11-25 12:55:17 | [VecTiles.Common](https://www.nuget.org/packages/VecTiles.Common) | 0.1.0 | Dirk Weltz | Core package of the VecTiles.NET vector tile mapping stack. It bundles the shar… |
+| 2026-11-25 12:55:18 | [VecTiles.Mapsforge](https://www.nuget.org/packages/VecTiles.Mapsforge) | 0.1.0 | Dirk Weltz | Mapsforge support for the VecTiles.NET vector tile mapping stack. It bundles Ve… |
+| 2026-11-25 12:55:20 | [VecTiles.Mapsui](https://www.nuget.org/packages/VecTiles.Mapsui) | 0.1.0 | Dirk Weltz | Mapsui integration for the VecTiles.NET vector tile mapping stack. Provides Vec… |
+| 2026-11-25 12:55:22 | [VecTiles.OpenMapTiles](https://www.nuget.org/packages/VecTiles.OpenMapTiles) | 0.1.0 | Dirk Weltz | OpenMapTiles support for the VecTiles.NET vector tile mapping stack. It bundles… |
+| 2026-11-25 12:55:23 | [VecTiles.Skia](https://www.nuget.org/packages/VecTiles.Skia) | 0.1.0 | Dirk Weltz | Skia based renderer for the VecTiles.NET vector tile mapping stack. Provides Ve… |
+| 2026-11-25 13:03:19 | [Telerik.Reporting.Schema](https://www.nuget.org/packages/Telerik.Reporting.Schema) | 20.3.26.1125 | Progress Software Corporation | This package generates JSON schemas and validates JSON report-item definitions… |
+| 2026-11-25 13:03:47 | [ChartNivra](https://www.nuget.org/packages/ChartNivra) | 1.0.0 | ChartNivra | Cross-platform .NET charting library with Cartesian, financial, statistical, po… |
+| 2026-11-25 13:04:38 | [WpfSmoke](https://www.nuget.org/packages/WpfSmoke) | 0.1.0 | signalnotnoise | Build and launch a WPF app and report startup diagnostics as JSON. |
+| 2026-11-25 13:04:43 | [Wpflow.Wpf](https://www.nuget.org/packages/Wpflow.Wpf) | 1.0.0 | bizouarn | Contrôles WPF de Wpflow : FlowView, nodes, handles, edges, MiniMap, Controls, N… |
 
 ## Data source
 
