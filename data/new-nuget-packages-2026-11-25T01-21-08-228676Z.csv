@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-25T00:34:43.26Z,OpenCreativeSuite.Components.Files,1.0.0,OpenCreativeSuite.Components.Files,File browser components for Donkeh apps.
+2026-11-25T00:48:18.703Z,WASU.SDK.RPC,26.1125.8,WASU.SDK.RPC,Package Description
+2026-11-25T00:57:36.19Z,NCode.Coordination.Abstractions,0.1.0,NCode Group,"The contracts of NCode.Coordination: structured keys, the guarantee vocabulary, expiry, and the declarations and requirements its composition checks."
+2026-11-25T01:10:34.91Z,PalDDD.Dapper,5.0.0,PalDDD,Pal.DDD Dapper 持久化适配器（调用点级 NativeAOT：`[module:DapperAot]` 已启用，34 调用点拦截器接管，三方言实测 33/33；边界：绕过封装直用 Dapper 原生 API 不受 AOT 支持）— 含 Transaction/EventLog/Projection/Repository
+2026-11-25T01:10:35.727Z,PalDDD.Dapper.MySql,5.0.0,PalDDD,Pal.DDD MySQL 增强扩展包（AOT 状态随母包：调用点级 NativeAOT 已启用，详见 PalDDD.Dapper）
+2026-11-25T01:10:36.52Z,PalDDD.Dapper.PostgreSql,5.0.0,PalDDD,Pal.DDD PostgreSQL 增强扩展包（AOT 状态随母包：调用点级 NativeAOT 已启用，详见 PalDDD.Dapper）
+2026-11-25T01:10:37.29Z,PalDDD.Dapper.Sqlite,5.0.0,PalDDD,Pal.DDD SQLite FTS5/JSON1 与 PRAGMA 增强扩展包（AOT 状态随母包：调用点级 NativeAOT 已启用，详见 PalDDD.Dapper）
+2026-11-25T01:10:38.103Z,PalDDD.DependencyInjection,5.0.0,PalDDD,Pal.DDD DI 组装 — AddPalCoreStack/AddPalCqrs 等组件级注册入口与 IPalLogger 门面接线。
+2026-11-25T01:10:39.62Z,PalDDD.EventLog.EFCore,5.0.0,PalDDD,Pal.DDD EventLog 的 EF Core 适配器 — EventLogDbContext 与乐观并发追加（非 AOT 栈）。
+2026-11-25T01:10:40.313Z,PalDDD.Extension,5.0.0,PalDDD,Pal.DDD 扩展元包 — 全量 DDD 能力：CQRS + 事件日志 + 幂等 + 投影 + 消息 + 事务 + DI 装配。含非 AOT 的 Transactions（Saga 反射特例），整包不可 AOT。
+2026-11-25T01:10:41.8Z,PalDDD.Hosting.AspNetCore.OutboxHealth,5.0.0,PalDDD,Pal.DDD 可选 Outbox 健康检查包：不需要健康检查的 Hosting 消费方不必再传递引用 Transactions。
+2026-11-25T01:10:43.203Z,PalDDD.Idempotency.EFCore,5.0.0,PalDDD,Pal.DDD 幂等的 EF Core 适配器 — 幂等记录存储（非 AOT 栈）。
+2026-11-25T01:10:49.737Z,PalDDD.Projections.EFCore,5.0.0,PalDDD,Pal.DDD 投影的 EF Core 适配器 — 检查点存储（非 AOT 栈）。
+2026-11-25T01:10:51.26Z,PalDDD.Repository.EFCore,5.0.0,PalDDD,Pal.DDD 仓储的 EF Core 适配器 — IRepository<T> 实现与领域事件 Outbox 桥（非 AOT 栈）。
+2026-11-25T01:10:55.137Z,PalDDD.Transactions.EFCore,5.0.0,PalDDD,Pal.DDD Outbox/Inbox 的 EF Core 方言基类 — PostgreSql/MySql/Sqlite OutboxDbContext（非 AOT 栈）。
