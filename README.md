@@ -12,23 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 07:19 UTC
+## Latest list — 2026-11-25 08:21 UTC
 
-New packages created between 2026-11-25 06:19 UTC and 2026-11-25 07:19 UTC.
+New packages created between 2026-11-25 07:19 UTC and 2026-11-25 08:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T07-19-19-481665Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T08-21-53-701264Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 06:23:27 | [nuel_CaptchaSqlite](https://www.nuget.org/packages/nuel_CaptchaSqlite) | 1.0.0 | Ako Mahmoodi | A .NET captcha library with file-backed SQLite storage and SixLabors ImageSharp… |
-| 2026-11-25 06:36:32 | [LogerReplica.EFCore.Interceptors](https://www.nuget.org/packages/LogerReplica.EFCore.Interceptors) | 1.0.0 | loger | EF Core interceptors for read/write routing and connection failover. |
-| 2026-11-25 06:51:39 | [Euonia.Hosting.Azfunc](https://www.nuget.org/packages/Euonia.Hosting.Azfunc) | 2026.5.1 | damon | Euonia Azure Functions 隔离工作进程宿主包：函数基类、统一异常响应、请求追踪、请求上下文中转、Security 与双窗口流控。 / Az… |
-| 2026-11-25 06:51:40 | [Euonia.Hosting.Webapi](https://www.nuget.org/packages/Euonia.Hosting.Webapi) | 2026.5.1 | damon | Euonia ASP.NET Core Web API 宿主组合包：控制器、统一异常响应、OpenAPI、健康检查、CORS、权限授权与双窗口流控。 / AS… |
-| 2026-11-25 06:55:17 | [AyuUI.Controll](https://www.nuget.org/packages/AyuUI.Controll) | 1.0.0 | yiyangyu | 一套高颜值、零依赖、支持注解IoC、消息总线与丰富UI控件的现代WPF自研框架。 |
-| 2026-11-25 07:05:23 | [WEBCON.SDK](https://www.nuget.org/packages/WEBCON.SDK) | 2027.1.1.21 | WEBCON | This package includes the WEBCON assemblies required to develop SDK plugins. Th… |
-| 2026-11-25 07:06:41 | [Motion.Avalonia](https://www.nuget.org/packages/Motion.Avalonia) | 1.0.0 | Sylinko | A declarative motion and interaction framework for Avalonia. |
-| 2026-11-25 07:10:00 | [PdfFormFiller.Widgets](https://www.nuget.org/packages/PdfFormFiller.Widgets) | 0.7.1 | Haansen | Widget-style form API (PdfDocument, PdfFormWidget, PdfTextBoxFieldWidget ...) o… |
-| 2026-11-25 07:10:01 | [PdfFormFiller](https://www.nuget.org/packages/PdfFormFiller) | 0.7.1 | Haansen | Fill, flatten, merge and trim AcroForm PDFs. Self-contained, no third-party dep… |
+| 2026-11-25 07:23:48 | [Win32BlazorWebViewAot](https://www.nuget.org/packages/Win32BlazorWebViewAot) | 1.0.0 | Yaser Aldubaisi | Host Blazor (Razor components) or plain HTML + JS in a native Win32 window — no… |
+| 2026-11-25 07:28:24 | [FrameFlux.Capture](https://www.nuget.org/packages/FrameFlux.Capture) | 0.2.0 | FrameFlux | Local USB camera and capture device media engine for FrameFlux (Windows Media F… |
+| 2026-11-25 07:57:02 | [Cornhsu.XamlA11y](https://www.nuget.org/packages/Cornhsu.XamlA11y) | 0.1.0 | 許彧銘 (Cornhsu) | XamlA11y — static accessibility audit for WPF XAML. Finds controls a screen rea… |
+| 2026-11-25 07:57:08 | [Termin.Engine](https://www.nuget.org/packages/Termin.Engine) | 0.5.4 | Termin contributors | Full Termin C# scene and rendering runtime for Linux Vulkan and Windows D3D11. |
+| 2026-11-25 08:06:10 | [Intropy.Telemetry.AspNetCore](https://www.nuget.org/packages/Intropy.Telemetry.AspNetCore) | 0.2.0 | Integrio | Simplified OpenTelemetry configuration for ASP.NET Core applications with pre-c… |
+| 2026-11-25 08:06:10 | [Intropy.Telemetry.ConsoleApp](https://www.nuget.org/packages/Intropy.Telemetry.ConsoleApp) | 0.2.0 | Integrio | Simplified OpenTelemetry configuration for .NET console applications with pre-c… |
+| 2026-11-25 08:08:16 | [Fuaran.Compute.GeometricAlgebra](https://www.nuget.org/packages/Fuaran.Compute.GeometricAlgebra) | 0.47.0 | Andrew J. Willshire | Fuaran.Compute.GeometricAlgebra — a pinned conformal geometric algebra, Cl(4,1)… |
+| 2026-11-25 08:08:16 | [Fuaran.Compute.GeometricAlgebraOps](https://www.nuget.org/packages/Fuaran.Compute.GeometricAlgebraOps) | 0.47.0 | Andrew J. Willshire | Fuaran.Compute.GeometricAlgebraOps — geometric transforms as a parametric op al… |
 
 ## Data source
 
