@@ -12,23 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 11:21 UTC
+## Latest list — 2026-11-25 12:20 UTC
 
-New packages created between 2026-11-25 10:22 UTC and 2026-11-25 11:21 UTC.
+New packages created between 2026-11-25 11:21 UTC and 2026-11-25 12:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T11-21-10-329671Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T12-20-01-937228Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 10:27:16 | [AvaloniaUI.Parcel.Deps.AppImageRuntime](https://www.nuget.org/packages/AvaloniaUI.Parcel.Deps.AppImageRuntime) | 2025.11.8-rc1 | AppImage | AvaloniaUI Parcel dependency package for 'appimage-runtime' tool |
-| 2026-11-25 10:34:55 | [AvaloniaUI.Parcel.Deps.SquashFsTools](https://www.nuget.org/packages/AvaloniaUI.Parcel.Deps.SquashFsTools) | 4.6.1-rc1 | Phillip Lougher | AvaloniaUI Parcel dependency package for 'mksquashfs' tool |
-| 2026-11-25 10:39:44 | [NwUi.Primitives](https://www.nuget.org/packages/NwUi.Primitives) | 0.17.0 | NetWasm.UI contributors | Headless components for NetWasm.UI: disclosure, tabs, focus scope and roving fo… |
-| 2026-11-25 10:41:57 | [Apparatus.Diff](https://www.nuget.org/packages/Apparatus.Diff) | 0.0.1 | Stanislav Silin | Source generator that builds reflection-free deep diffs with full paths for [Di… |
-| 2026-11-25 10:47:22 | [PrismaData](https://www.nuget.org/packages/PrismaData) | 0.1.0 | PrismaData | Official .NET client for the PrismaData location intelligence API (geospatial,… |
-| 2026-11-25 10:50:36 | [flappybonusmodels](https://www.nuget.org/packages/flappybonusmodels) | 1.0.0 | Flappybet | Ready-made, provably fair bonus models for Flappy games: pots, vaults and boost… |
-| 2026-11-25 10:55:18 | [PortableTextSearch.EntityFrameworkCore](https://www.nuget.org/packages/PortableTextSearch.EntityFrameworkCore) | 10.0.0 | Jon Lachmann | Portable EF Core text-contains search for PostgreSQL and SQLite. |
-| 2026-11-25 10:57:31 | [Moltaro.OnecOutpost.Server](https://www.nuget.org/packages/Moltaro.OnecOutpost.Server) | 0.1.0 | Bijou Solutions | The server of Moltaro.OnecOutpost, embedded in an ASP.NET Core application: it… |
-| 2026-11-25 10:58:00 | [Umbraco.Community.AddressLookup](https://www.nuget.org/packages/Umbraco.Community.AddressLookup) | 18.0.0 | Pascal Meyer | An Umbraco Forms address lookup field with Loqate and Ideal Postcodes behind a… |
+| 2026-11-25 11:48:19 | [Donkeh.Llm](https://www.nuget.org/packages/Donkeh.Llm) | 1.0.53 | barely-sentient | Donkeh.Llm module for Donkeh, a CSS-driven UI engine for .NET. |
+| 2026-11-25 11:48:55 | [GetCNPJ.Community](https://www.nuget.org/packages/GetCNPJ.Community) | 1.1.0 | Bruno da Cunha Felipe,Thaliso… | Fork independente do GetCNPJ de Bruno da Cunha Felipe, mantido por Thalison San… |
+| 2026-11-25 11:55:26 | [Iyu.UBoard](https://www.nuget.org/packages/Iyu.UBoard) | 0.1.0 | iyulab | Host-neutral board storage and screen for embedding a board viewer and editor -… |
+| 2026-11-25 11:55:28 | [Iyu.UBoard.EntityFrameworkCore](https://www.nuget.org/packages/Iyu.UBoard.EntityFrameworkCore) | 0.1.0 | iyulab | Entity Framework Core board store behind Iyu.UBoard - the boards, their revisio… |
+| 2026-11-25 11:56:47 | [Olax.Auditing.Abstractions](https://www.nuget.org/packages/Olax.Auditing.Abstractions) | 1.0.0 | OLAX Innovative Lab | Audit contracts for the Application layer of OLAX services: IAuditLog records b… |
+| 2026-11-25 11:56:50 | [Olax.Auditing.EntityFrameworkCore](https://www.nuget.org/packages/Olax.Auditing.EntityFrameworkCore) | 1.0.0 | OLAX Innovative Lab | Audit trail for an OLAX service's EF Core DbContext (PostgreSQL): every insert,… |
+| 2026-11-25 11:59:13 | [Olax.Correlation](https://www.nuget.org/packages/Olax.Correlation) | 1.0.0 | OLAX Innovative Lab | The operation context of OLAX services: who is acting (user, service, on behalf… |
+| 2026-11-25 12:08:52 | [Iyu.UBoard.IronHive](https://www.nuget.org/packages/Iyu.UBoard.IronHive) | 0.51.0 | iyulab | Fills the Iyu.UBoard assistant port with IronHive.Agent and IronProw: a board's… |
+| 2026-11-25 12:09:02 | [Iyu.UBoard.MainServer](https://www.nuget.org/packages/Iyu.UBoard.MainServer) | 0.51.0 | iyulab | Connects the Iyu.UBoard source catalog to Iyu.MainServer: what a board can be b… |
 
 ## Data source
 
