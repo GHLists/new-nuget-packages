@@ -1,0 +1,3 @@
+created_at,package,version,authors,description
+2026-11-25T05:34:56.733Z,NCode.Coordination,0.3.0,NCode Group,"The composition of NCode.Coordination: providers registered on one builder and bound by primitive and keyspace, every requirement checked when the host starts, and every operation routed to its provider, traced and measured."
+2026-11-25T05:49:17.99Z,Instancium.Trust,1.7.5,Instancium,"Crypto-agile trust library for the Instancium ecosystem: Ed25519 signing, Argon2id + AES-256-GCM key containers, certificate/manifest chain verification, and anti-rollback protection. Pure managed C# built on BouncyCastle.Cryptography."
