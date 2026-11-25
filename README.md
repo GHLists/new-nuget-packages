@@ -12,23 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 03:21 UTC
+## Latest list — 2026-11-25 04:21 UTC
 
-New packages created between 2026-11-25 02:21 UTC and 2026-11-25 03:21 UTC.
+New packages created between 2026-11-25 03:21 UTC and 2026-11-25 04:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-25T03-21-12-013966Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-25T04-21-15-154806Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-25 02:35:17 | [NXDO.OPC](https://www.nuget.org/packages/NXDO.OPC) | 1.0.0 | ITKing(ZhuQi) | NCore OPC (Server&Client) With WebApi(mini) support |
-| 2026-11-25 02:35:53 | [NXDO.OPC.Admin](https://www.nuget.org/packages/NXDO.OPC.Admin) | 0.9.0 | ITKing(ZhuQi) | NCore OPC.Admin With OPC&WebApi(mini) support |
-| 2026-11-25 02:36:13 | [MMacareno.Lib.CQRS](https://www.nuget.org/packages/MMacareno.Lib.CQRS) | 1.0.0 | Marco A Macareno F | Package Description |
-| 2026-11-25 02:39:38 | [STS2.RitsuLib.Compat.0.113.0](https://www.nuget.org/packages/STS2.RitsuLib.Compat.0.113.0) | 0.6.16 | OLC | Shared framework library for Slay the Spire 2 mods. |
-| 2026-11-25 02:48:02 | [Compze.Teventive.MemoryImageStateStore.MicrosoftSql](https://www.nuget.org/packages/Compze.Teventive.MemoryImageStateStore.MicrosoftSql) | 0.1.0-alpha | Lidbom Solutions AB | The SQL Server tables of Compze's memory image state store: MsSqlMemoryImageSta… |
-| 2026-11-25 02:48:06 | [Compze.Teventive.MemoryImageStateStore.MySql](https://www.nuget.org/packages/Compze.Teventive.MemoryImageStateStore.MySql) | 0.1.0-alpha | Lidbom Solutions AB | The MySQL tables of Compze's memory image state store: MySqlMemoryImageStateSto… |
-| 2026-11-25 02:48:09 | [Compze.Teventive.MemoryImageStateStore.PostgreSql](https://www.nuget.org/packages/Compze.Teventive.MemoryImageStateStore.PostgreSql) | 0.1.0-alpha | Lidbom Solutions AB | The PostgreSQL tables of Compze's memory image state store: PgSqlMemoryImageSta… |
-| 2026-11-25 02:48:12 | [Compze.Teventive.MemoryImageStateStore.Sqlite](https://www.nuget.org/packages/Compze.Teventive.MemoryImageStateStore.Sqlite) | 0.1.0-alpha | Lidbom Solutions AB | The SQLite tables of Compze's memory image state store: SqliteMemoryImageStateS… |
-| 2026-11-25 02:59:06 | [Shaunebu.MAUI.FormsManager](https://www.nuget.org/packages/Shaunebu.MAUI.FormsManager) | 1.1.0 | Shaunebu | A powerful, dynamic forms library for .NET MAUI that generates complete user in… |
+| 2026-11-25 03:46:32 | [TabView.Avalonia.Material3](https://www.nuget.org/packages/TabView.Avalonia.Material3) | 2.0.0 | Poker | Chrome inspired Material 3 tabs for TabView.Avalonia and Material3Expressive. |
 
 ## Data source
 
