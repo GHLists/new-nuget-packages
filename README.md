@@ -12,29 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 19:20 UTC
+## Latest list — 2026-11-26 20:20 UTC
 
-New packages created between 2026-11-26 18:19 UTC and 2026-11-26 19:20 UTC.
+New packages created between 2026-11-26 19:20 UTC and 2026-11-26 20:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T19-20-07-162556Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T20-20-38-071274Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 18:20:57 | [DbRelay.SqlServer](https://www.nuget.org/packages/DbRelay.SqlServer) | 0.2.0 | DbRelay contributors | SQL Server storage provider for DbRelay (Microsoft.Data.SqlClient): transaction… |
-| 2026-11-26 18:30:51 | [AudioIOSharp](https://www.nuget.org/packages/AudioIOSharp) | 0.1.0 | Mike Oliphant | Real-time, allocation-free audio and MIDI I/O for .NET: ASIO, ALSA, JACK. |
-| 2026-11-26 18:41:21 | [Gatewright.State.Redis](https://www.nuget.org/packages/Gatewright.State.Redis) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:22 | [Gatewright.Core](https://www.nuget.org/packages/Gatewright.Core) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:22 | [Gatewright.Sdk](https://www.nuget.org/packages/Gatewright.Sdk) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:23 | [Gatewright.Testing](https://www.nuget.org/packages/Gatewright.Testing) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:23 | [Gatewright.Exposure](https://www.nuget.org/packages/Gatewright.Exposure) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:23 | [Gatewright.Distribution](https://www.nuget.org/packages/Gatewright.Distribution) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:24 | [Gatewright.Templates](https://www.nuget.org/packages/Gatewright.Templates) | 1.0.0 | Pierrick Gourlain | dotnet new template for a Gatewright host: a gateway distribution with a sample… |
-| 2026-11-26 18:41:24 | [Gatewright.Policies](https://www.nuget.org/packages/Gatewright.Policies) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:24 | [Gatewright.DataPlane](https://www.nuget.org/packages/Gatewright.DataPlane) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:25 | [Gatewright.Cli](https://www.nuget.org/packages/Gatewright.Cli) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:25 | [Gatewright.ControlPlane](https://www.nuget.org/packages/Gatewright.ControlPlane) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:26 | [Gatewright.Kubernetes](https://www.nuget.org/packages/Gatewright.Kubernetes) | 1.0.0 | Pierrick Gourlain | Package Description |
-| 2026-11-26 18:41:26 | [Gatewright.Abstractions](https://www.nuget.org/packages/Gatewright.Abstractions) | 1.0.0 | Pierrick Gourlain | Package Description |
+| 2026-11-26 19:21:01 | [Hyperplane.NET](https://www.nuget.org/packages/Hyperplane.NET) | 0.1.3 | David Obando | Vector Decision Model (VDM) library for .NET written in G#: typed Choice, Score… |
+| 2026-11-26 19:21:02 | [Hyperplane.Cider](https://www.nuget.org/packages/Hyperplane.Cider) | 0.1.3 | David Obando | Optional reader adapter for Hyperplane.NET: CiderEmbedder turns any Cider.NET I… |
+| 2026-11-26 19:21:07 | [Hyperplane.Server](https://www.nuget.org/packages/Hyperplane.Server) | 0.1.3 | David Obando | Local HTTP server for Hyperplane vector decision models: the Decisions API (/ap… |
+| 2026-11-26 19:30:16 | [Kitpymes.Core.Mapper](https://www.nuget.org/packages/Kitpymes.Core.Mapper) | 1.0.0 | Kitpymes, Sebastian R Ferrari | Mapeo explícito sin reflexión: cada mapeo es una clase escrita a mano (IMapper… |
+| 2026-11-26 19:32:54 | [Croner](https://www.nuget.org/packages/Croner) | 1.0.0 | Hexagon | Cron for .NET: parse cron expressions (seconds, years, L, W, #, +), find next a… |
+| 2026-11-26 19:41:21 | [Casazium.License](https://www.nuget.org/packages/Casazium.License) | 0.1.0 | Casazium | The .NET SDK for the Casazium License Server: activate and verify license keys,… |
+| 2026-11-26 19:44:09 | [EdsDcfNet.Checker](https://www.nuget.org/packages/EdsDcfNet.Checker) | 1.17.0 | Dietmar Borgards | edsdcf-check: command-line validator for CiA 306 EDS and DCF files, built on th… |
+| 2026-11-26 19:44:23 | [Hyperbee.Expressions.Abstractions](https://www.nuget.org/packages/Hyperbee.Expressions.Abstractions) | 1.7.0 | Stillpoint Software, Inc. | Compiler and coroutine contracts shared by Hyperbee.Expressions and its compile… |
+| 2026-11-26 19:48:52 | [BitMagic.Cc65Lib](https://www.nuget.org/packages/BitMagic.Cc65Lib) | 0.1.92 | Yazwh0 | X16 Emulator and Debugger |
+| 2026-11-26 19:48:54 | [BitMagic.ZiModem.Net](https://www.nuget.org/packages/BitMagic.ZiModem.Net) | 0.1.92 | Yazwh0 | C# binding for zimodem running as a host library, giving a Hayes-compatible Wi-… |
+| 2026-11-26 19:49:05 | [BitMagic.X16Debugger](https://www.nuget.org/packages/BitMagic.X16Debugger) | 0.1.92 | Yazwh0 | X16 Emulator and Debugger |
+| 2026-11-26 19:49:49 | [CrCore.Maui](https://www.nuget.org/packages/CrCore.Maui) | 11.0.0 | apptade | CrCore.Maui is a .NET MAUI library: controls, converters, and more, built with… |
+| 2026-11-26 20:12:51 | [EgyptianId](https://www.nuget.org/packages/EgyptianId) | 1.0.0 | Ahmed Mohamed Gaber | Offline validation and parsing of the 14-digit Egyptian national ID number (الر… |
 
 ## Data source
 
