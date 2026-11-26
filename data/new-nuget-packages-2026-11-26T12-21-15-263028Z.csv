@@ -1,0 +1,51 @@
+created_at,package,version,authors,description
+2026-11-26T11:21:35.08Z,Uniphar.Platform.Telemetry.Testing,2.0.55,Uniphar,"Test helpers to assert on telemetry (spans, logs) that reached Dash0 from integration tests."
+2026-11-26T11:28:46.927Z,DeltaECS.Unity,0.0.75,Artromskiy,Unity scene authoring and editor integration for DeltaECS. Install with NuGetForUnity.
+2026-11-26T11:33:36.083Z,Tasselli.Detection.EntityFrameworkCore,0.29.0,fabricators,"EF Core storage for intrusion detection: decoy registry, sealed signals, alert markers and deliveries, dispatcher and decoy sweep."
+2026-11-26T11:33:36.557Z,Tasselli.Application,0.29.0,fabricators,"Application-layer contracts: CQRS, repositories and batch upserts, cache, timezone, and API-consumer key management."
+2026-11-26T11:33:37.037Z,Tasselli.Kernel.AspNetCore,0.29.0,fabricators,"ASP.NET Core host bindings: Result-to-HTTP mapping, API-key authentication and scope authorization, approved-assembly IEndpoint mapping and the IModule contract."
+2026-11-26T11:33:37.487Z,Tasselli.Detection,0.29.0,fabricators,"Intrusion detection core: decoy registry and catalog, provisioning, signal writer, sealing, alert admission and routing, mail sink and drill."
+2026-11-26T11:33:37.937Z,Tasselli.Auditing,0.29.0,fabricators,"Audit trail integrity core: canonical encoding, hash chain, checkpoint signing, verification, export and sealing over any chain source."
+2026-11-26T11:33:38.403Z,Tasselli.Validation,0.29.0,fabricators,"Explicit-assembly FluentValidation, Scrutor composition and CQRS handler registration with optional validation and logging decorators."
+2026-11-26T11:33:38.88Z,Tasselli.Realtime.SignalR,0.29.0,fabricators,Optional Realtime.SignalR integration for Tasselli hosts.
+2026-11-26T11:33:39.327Z,Tasselli.Mailing.MailKit,0.29.0,fabricators,Validated SMTP mail submission through MailKit.
+2026-11-26T11:33:39.78Z,Tasselli.Scheduling.Cronos,0.29.0,fabricators,Timezone-aware cron occurrence calculation; durable execution remains host-owned.
+2026-11-26T11:33:40.547Z,Tasselli.DeveloperMcp,0.29.0,fabricators,Package Description
+2026-11-26T11:33:41.283Z,Tasselli.Auditing.Tool,0.29.0,fabricators,"Verifies an exported Tasselli audit bundle offline, without the application or its database."
+2026-11-26T11:33:41.747Z,Tasselli.OpenApi,0.29.0,fabricators,Optional OpenApi integration for Tasselli hosts.
+2026-11-26T11:33:42.193Z,Tasselli.Caching.FusionCache,0.29.0,fabricators,Optional FusionCache adapter without an EF dependency.
+2026-11-26T11:33:42.703Z,Tasselli.Documentation,0.29.0,fabricators,"Headless, versioned documentation content contracts and deterministic bundle compilation."
+2026-11-26T11:33:43.373Z,Tasselli.Authoring,0.29.0,fabricators,Versioned developer analyzer rules and formatter templates.
+2026-11-26T11:33:44.5Z,Tasselli.Documentation.Tool,0.29.0,fabricators,Versioned documentation bundle and metadata API exporter.
+2026-11-26T11:33:45.03Z,Tasselli.Authentication.AspNetCore,0.29.0,fabricators,Native ASP.NET Core WebAuthn and protected-state adapters.
+2026-11-26T11:33:45.533Z,Tasselli.Detection.Drill.Tool,0.29.0,fabricators,Runs the Tasselli security drill against a test environment over HTTP.
+2026-11-26T11:33:46.003Z,Tasselli.Infrastructure,0.29.0,fabricators,"Infrastructure implementations: EF persistence and batch upserts, FusionCache, domain-event dispatch, and storage-backed API keys."
+2026-11-26T11:33:46.527Z,Tasselli.Mailing.MicrosoftGraph,0.29.0,fabricators,Connection-authorized Microsoft Graph MIME submission with explicit outcomes.
+2026-11-26T11:33:47.047Z,Tasselli.Observability.AspNetCore,0.29.0,fabricators,Optional Observability.AspNetCore integration for Tasselli hosts.
+2026-11-26T11:33:47.597Z,Tasselli.Observability.EntityFrameworkCore,0.29.0,fabricators,Optional Observability.EntityFrameworkCore integration for Tasselli hosts.
+2026-11-26T11:33:47.97Z,MagicGlyphs.Avalonia,0.8.9,Lewis John Villamor,"Animated icons with sound for Avalonia: 120 free Magic Glyphs icons with spring motion in outline, solid and duotone, each with its own short sound. One control, no other dependencies."
+2026-11-26T11:33:48.107Z,Tasselli.Detection.AspNetCore,0.29.0,fabricators,"ASP.NET Core parts of intrusion detection: honeypot routes, webhook alert sink and the security drill route for test environments."
+2026-11-26T11:33:48.613Z,Tasselli.Templating.Scriban,0.29.0,fabricators,Bounded JSON-data template rendering through Scriban.
+2026-11-26T11:33:49.12Z,Tasselli.Authentication.EntityFrameworkCore,0.29.0,fabricators,Transactional strong authentication storage and owned EF configurations.
+2026-11-26T11:33:49.613Z,Tasselli.Security.DataProtection,0.29.0,fabricators,Purpose-bound secret protection and certificate-protected Data Protection registration.
+2026-11-26T11:33:50.113Z,Tasselli.Observability,0.29.0,fabricators,Optional Observability integration for Tasselli hosts.
+2026-11-26T11:33:50.623Z,Tasselli.Mcp,0.29.0,fabricators,Progressive MCP discovery and typed dispatch using the official SDK.
+2026-11-26T11:33:51.15Z,Tasselli.Auditing.AspNetCore,0.29.0,fabricators,Optional ASP.NET Core routes for audit trail export and verification.
+2026-11-26T11:33:51.68Z,Tasselli.Kernel,0.29.0,fabricators,"Domain-agnostic kernel: Result/Error, domain events, aggregate roots, value objects, and machine-consumer identity. No ASP.NET, DI, or EF dependency."
+2026-11-26T11:33:52.223Z,Tasselli.Security.DataProtection.EntityFrameworkCore,0.29.0,fabricators,EF-backed Data Protection key-ring integration for host-owned contexts and migrations.
+2026-11-26T11:33:52.677Z,Tasselli.Mcp.Contracts,0.29.0,fabricators,"Provider-free MCP tool, caller and authorization contracts."
+2026-11-26T11:33:53.127Z,Tasselli.Mcp.AspNetCore,0.29.0,fabricators,Authenticated stateless HTTP MCP host adapter.
+2026-11-26T11:33:53.603Z,Tasselli.Mailing,0.29.0,fabricators,Connection-bound mail dispatch and bounded MIME composition.
+2026-11-26T11:33:54.133Z,Tasselli.Authentication.OpenIdConnect,0.29.0,fabricators,"Maintained OIDC and OAuth code-flow bridges, tenant-scoped runtime provider configuration, bounded login intents and Google, Apple and Microsoft profiles."
+2026-11-26T11:33:54.637Z,Tasselli.Authentication,0.29.0,fabricators,"Provider-neutral strong authentication, TOTP, recovery and assurance orchestration."
+2026-11-26T11:33:55.08Z,Tasselli.Mailing.Google,0.29.0,fabricators,Google Workspace service-account Gmail API MIME submission with explicit outcomes.
+2026-11-26T11:33:55.66Z,Tasselli.Auditing.EntityFrameworkCore,0.29.0,fabricators,"EF Core operation audit trail: SaveChanges capture, audit tables, sealer, checkpoints and export."
+2026-11-26T11:33:56.89Z,Tasselli.Authoring.Tool,0.29.0,fabricators,Roslyn source layout verification for Tasselli app authors.
+2026-11-26T11:35:12.88Z,ITBees.AdConversions,8.0.13,ITBees.AdConversions,"Ad conversions for ITBees FAS applications: a paid purchase is reported to the ad platforms (Meta Conversions API, Google Ads Data Manager API) together with its origin. Platform credentials are kept in the host database and edited in the admin panel (fas-admin view ""Reklamy""); deliveries are retri…"
+2026-11-26T11:45:43.91Z,CPOSPS,1.0.0,CPOSPS contributors,Chrome POS Peripheral Simulator — Hardware Station PosTerminal.Web engine (in-process) served on the Hardware Station HTTP surface. Requires Microsoft Dynamics 365 Commerce Hardware Station SDK packages from the private Dynamics Commerce feed (not redistributed).
+2026-11-26T11:47:26.797Z,ZeroC.OpenSSL,3.5.9,The OpenSSL Project Authors,OpenSSL built as DLLs with Visual Studio 2019 (v142). OpenSSL is a toolkit for the TLS protocol and a general-purpose cryptography library.
+2026-11-26T11:47:40.983Z,Novior.MentorAgent.Cli,1.5.0,"Emanuele Longo, Antonio Macrì","The command line of Novior.MentorAgent: novior-mentor scan reads the pages of a running Blazor application, a test environment or a WebAssembly app's development server, in the Edge or Chrome installed on the machine that runs it, and writes the AutoMentor's mentor-ui-manifest.json. For a CI pipeli…"
+2026-11-26T11:47:42.64Z,Novior.MentorAgent.Scanner,1.5.0,"Emanuele Longo, Antonio Macrì","Development-time scan of a Blazor application's pages for Novior.MentorAgent's AutoMentor: after the application starts, it opens each page in the Edge or Chrome already installed and writes what the page offers to mentor-ui-manifest.json in the project. Reference it in Debug only; it never runs ou…"
+2026-11-26T11:59:20.607Z,AtomUI.Icons.Gravity,6.3.0,Qinware Technologies Ltd.,Gravity UI icons library for AtomUI OSS
+2026-11-26T12:07:24.533Z,NodeRings.Pulumi,0.1.3,NodeRings,"A Pulumi package for the NodeRings infrastructure marketplace: order and manage compute, networking, DNS, game servers, access control and more."
+2026-11-26T12:11:07.887Z,LibreSharp.Templates.WolverineFxReact,0.1.0,LibreSharp,"A dotnet new template pairing a WolverineFx backend with a React (Vite + TypeScript + Tailwind) frontend: HTTP endpoints, messaging with a transactional outbox, Marten event sourcing or EF Core, validation, SignalR realtime updates, and optional JWT-based Identity. Built entirely on free, open-sour…"
