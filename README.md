@@ -12,27 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 20:20 UTC
+## Latest list — 2026-11-26 21:20 UTC
 
-New packages created between 2026-11-26 19:20 UTC and 2026-11-26 20:20 UTC.
+New packages created between 2026-11-26 20:20 UTC and 2026-11-26 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T20-20-38-071274Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T21-20-30-140386Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 19:21:01 | [Hyperplane.NET](https://www.nuget.org/packages/Hyperplane.NET) | 0.1.3 | David Obando | Vector Decision Model (VDM) library for .NET written in G#: typed Choice, Score… |
-| 2026-11-26 19:21:02 | [Hyperplane.Cider](https://www.nuget.org/packages/Hyperplane.Cider) | 0.1.3 | David Obando | Optional reader adapter for Hyperplane.NET: CiderEmbedder turns any Cider.NET I… |
-| 2026-11-26 19:21:07 | [Hyperplane.Server](https://www.nuget.org/packages/Hyperplane.Server) | 0.1.3 | David Obando | Local HTTP server for Hyperplane vector decision models: the Decisions API (/ap… |
-| 2026-11-26 19:30:16 | [Kitpymes.Core.Mapper](https://www.nuget.org/packages/Kitpymes.Core.Mapper) | 1.0.0 | Kitpymes, Sebastian R Ferrari | Mapeo explícito sin reflexión: cada mapeo es una clase escrita a mano (IMapper… |
-| 2026-11-26 19:32:54 | [Croner](https://www.nuget.org/packages/Croner) | 1.0.0 | Hexagon | Cron for .NET: parse cron expressions (seconds, years, L, W, #, +), find next a… |
-| 2026-11-26 19:41:21 | [Casazium.License](https://www.nuget.org/packages/Casazium.License) | 0.1.0 | Casazium | The .NET SDK for the Casazium License Server: activate and verify license keys,… |
-| 2026-11-26 19:44:09 | [EdsDcfNet.Checker](https://www.nuget.org/packages/EdsDcfNet.Checker) | 1.17.0 | Dietmar Borgards | edsdcf-check: command-line validator for CiA 306 EDS and DCF files, built on th… |
-| 2026-11-26 19:44:23 | [Hyperbee.Expressions.Abstractions](https://www.nuget.org/packages/Hyperbee.Expressions.Abstractions) | 1.7.0 | Stillpoint Software, Inc. | Compiler and coroutine contracts shared by Hyperbee.Expressions and its compile… |
-| 2026-11-26 19:48:52 | [BitMagic.Cc65Lib](https://www.nuget.org/packages/BitMagic.Cc65Lib) | 0.1.92 | Yazwh0 | X16 Emulator and Debugger |
-| 2026-11-26 19:48:54 | [BitMagic.ZiModem.Net](https://www.nuget.org/packages/BitMagic.ZiModem.Net) | 0.1.92 | Yazwh0 | C# binding for zimodem running as a host library, giving a Hayes-compatible Wi-… |
-| 2026-11-26 19:49:05 | [BitMagic.X16Debugger](https://www.nuget.org/packages/BitMagic.X16Debugger) | 0.1.92 | Yazwh0 | X16 Emulator and Debugger |
-| 2026-11-26 19:49:49 | [CrCore.Maui](https://www.nuget.org/packages/CrCore.Maui) | 11.0.0 | apptade | CrCore.Maui is a .NET MAUI library: controls, converters, and more, built with… |
-| 2026-11-26 20:12:51 | [EgyptianId](https://www.nuget.org/packages/EgyptianId) | 1.0.0 | Ahmed Mohamed Gaber | Offline validation and parsing of the 14-digit Egyptian national ID number (الر… |
+| 2026-11-26 20:24:52 | [Frazex.BotFlowEngine.DependencyInjection](https://www.nuget.org/packages/Frazex.BotFlowEngine.DependencyInjection) | 0.1.0 | Frazex-LLC | Microsoft.Extensions.DependencyInjection integration for FlowEngine: RegisterFl… |
+| 2026-11-26 20:25:48 | [Eternet.Testing.Build](https://www.nuget.org/packages/Eternet.Testing.Build) | 1.0.0 | Eternet | Build props for Eternet test projects: xUnit v3 on Microsoft.Testing.Platform w… |
+| 2026-11-26 20:27:11 | [IINET.UI.Calendar](https://www.nuget.org/packages/IINET.UI.Calendar) | 0.1.0 | Ilya | Настраиваемый элемент управления Calendar для Avalonia UI с поддержкой произвол… |
+| 2026-11-26 20:28:01 | [BitMagic.X16Basic.Debugger](https://www.nuget.org/packages/BitMagic.X16Basic.Debugger) | 0.1.0 | Yazwh0 | Debugs Commander X16 BASIC in X16D. |
+| 2026-11-26 20:28:01 | [BitMagic.X16Basic](https://www.nuget.org/packages/BitMagic.X16Basic) | 0.1.0 | Yazwh0 | Commander X16 BASIC: tokeniser, detokeniser, source maps and decoders for BASIC… |
+| 2026-11-26 20:28:29 | [DomeMQ.Client](https://www.nuget.org/packages/DomeMQ.Client) | 0.1.0 | Hannes Hold | Client library for the DomeMQ IPC message broker. No third-party dependencies. |
+| 2026-11-26 20:28:29 | [DomeMQ.Protocol](https://www.nuget.org/packages/DomeMQ.Protocol) | 0.1.0 | Hannes Hold | Frame codec, message bodies, and transport abstractions for the DomeMQ IPC prot… |
+| 2026-11-26 20:28:30 | [DomeMQ.Server](https://www.nuget.org/packages/DomeMQ.Server) | 0.1.0 | Hannes Hold | Embeddable DomeMQ broker. No third-party dependencies. |
+| 2026-11-26 20:40:15 | [Saraff.TwainX](https://www.nuget.org/packages/Saraff.TwainX) | 1.0.34 | Copyright © SARAFF 2011 | Allows you to control work of flatbed scanner, web and digital camera and any o… |
+| 2026-11-26 20:42:59 | [Cosmos.OpenTelemetry.Wolverine](https://www.nuget.org/packages/Cosmos.OpenTelemetry.Wolverine) | 0.1.0 | Cosmos | Contexto de traza W3C en los mensajes que publica Wolverine: escribe traceparen… |
+| 2026-11-26 20:44:10 | [Clockworks.CLX.Protocol](https://www.nuget.org/packages/Clockworks.CLX.Protocol) | 0.1.0 | Clockworks | Receive a live CLX stream from Clockworks senders in any .NET app: deck time, t… |
+| 2026-11-26 20:45:54 | [clc-authentication](https://www.nuget.org/packages/clc-authentication) | 1.0.0 | Central Library Consortium | Microsoft Entra ID sign-in and CLC membership authorization for ASP.NET Core we… |
+| 2026-11-26 20:53:45 | [Compze.Threading.Interprocess.MemoryPack](https://www.nuget.org/packages/Compze.Threading.Interprocess.MemoryPack) | 0.7.0-alpha | Lidbom Solutions AB | MemoryPack serialization for the IInterprocessObject of Compze.Threading.Interp… |
 
 ## Data source
 

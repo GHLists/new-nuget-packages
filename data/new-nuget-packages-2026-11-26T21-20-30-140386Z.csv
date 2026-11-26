@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-26T20:24:52.137Z,Frazex.BotFlowEngine.DependencyInjection,0.1.0,Frazex-LLC,Microsoft.Extensions.DependencyInjection integration for FlowEngine: RegisterFlowEngine() wires up IFlowEngine and its supporting services.
+2026-11-26T20:25:48.913Z,Eternet.Testing.Build,1.0.0,Eternet,"Build props for Eternet test projects: xUnit v3 on Microsoft.Testing.Platform with the TRX extension, AwesomeAssertions, NSubstitute and their analyzers, an executable test host and a path-independent xUnit assembly unique ID. Rejects VSTest."
+2026-11-26T20:27:11.833Z,IINET.UI.Calendar,0.1.0,Ilya,Настраиваемый элемент управления Calendar для Avalonia UI с поддержкой произвольного содержимого дней.
+2026-11-26T20:28:01.193Z,BitMagic.X16Basic.Debugger,0.1.0,Yazwh0,Debugs Commander X16 BASIC in X16D.
+2026-11-26T20:28:01.907Z,BitMagic.X16Basic,0.1.0,Yazwh0,"Commander X16 BASIC: tokeniser, detokeniser, source maps and decoders for BASIC's memory structures."
+2026-11-26T20:28:29.37Z,DomeMQ.Client,0.1.0,Hannes Hold,Client library for the DomeMQ IPC message broker. No third-party dependencies.
+2026-11-26T20:28:29.97Z,DomeMQ.Protocol,0.1.0,Hannes Hold,"Frame codec, message bodies, and transport abstractions for the DomeMQ IPC protocol. No third-party dependencies."
+2026-11-26T20:28:30.61Z,DomeMQ.Server,0.1.0,Hannes Hold,Embeddable DomeMQ broker. No third-party dependencies.
+2026-11-26T20:40:15.157Z,Saraff.TwainX,1.0.34,Copyright © SARAFF 2011,"Allows you to control work of flatbed scanner, web and digital camera and any other TWAIN device from .NET environment. You can use this library in your programs written in any programming languages compatible with .NET technology."
+2026-11-26T20:42:59.607Z,Cosmos.OpenTelemetry.Wolverine,0.1.0,Cosmos,"Contexto de traza W3C en los mensajes que publica Wolverine: escribe traceparent y Diagnostic-Id desde el span que publicó, para los consumidores que no son Wolverine (trigger de Service Bus de una Azure Function, SDKs de OpenTelemetry). Se activa con solo referenciar el paquete (módulo de Wolverin…"
+2026-11-26T20:44:10.71Z,Clockworks.CLX.Protocol,0.1.0,Clockworks,"Receive a live CLX stream from Clockworks senders in any .NET app: deck time, track metadata, mixer state, events, beat grids, cues, waveforms and the leader clock. No dependencies."
+2026-11-26T20:45:54.81Z,clc-authentication,1.0.0,Central Library Consortium,Microsoft Entra ID sign-in and CLC membership authorization for ASP.NET Core web apps.
+2026-11-26T20:53:45.617Z,Compze.Threading.Interprocess.MemoryPack,0.7.0-alpha,Lidbom Solutions AB,"MemoryPack serialization for the IInterprocessObject of Compze.Threading.Interprocess: an object shared between processes, kept in MemoryPack's fast and compact binary format, created in a single line of code. Was Compze.InterprocessObject.MemoryPack."
