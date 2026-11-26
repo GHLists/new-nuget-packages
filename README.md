@@ -12,30 +12,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 05:20 UTC
+## Latest list — 2026-11-26 06:19 UTC
 
-New packages created between 2026-11-26 04:19 UTC and 2026-11-26 05:20 UTC.
+New packages created between 2026-11-26 05:20 UTC and 2026-11-26 06:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T05-20-09-284013Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T06-19-43-486402Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 04:19:16 | [AI.Sentinel.Codex.Cli.any](https://www.nuget.org/packages/AI.Sentinel.Codex.Cli.any) | 6.1.0 | Marcel Roozekrans | Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to… |
-| 2026-11-26 04:19:21 | [AI.Sentinel.Codex.Cli.linux-x64](https://www.nuget.org/packages/AI.Sentinel.Codex.Cli.linux-x64) | 6.1.0 | Marcel Roozekrans | Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to… |
-| 2026-11-26 04:19:33 | [AI.Sentinel.Codex.Cli.win-x64](https://www.nuget.org/packages/AI.Sentinel.Codex.Cli.win-x64) | 6.1.0 | Marcel Roozekrans | Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to… |
-| 2026-11-26 04:19:43 | [AI.Sentinel.Codex.Cli.linux-arm64](https://www.nuget.org/packages/AI.Sentinel.Codex.Cli.linux-arm64) | 6.1.0 | Marcel Roozekrans | Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to… |
-| 2026-11-26 04:19:45 | [AI.Sentinel.Codex.Cli.linux-musl-arm64](https://www.nuget.org/packages/AI.Sentinel.Codex.Cli.linux-musl-arm64) | 6.1.0 | Marcel Roozekrans | Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to… |
-| 2026-11-26 04:23:12 | [Zifika](https://www.nuget.org/packages/Zifika) | 1.0.0 | Eriq VanBibber | Experimental keyed path-walking cipher with symmetric encryption and offline Mi… |
-| 2026-11-26 04:33:15 | [Pernix.OutboxRelay.Core](https://www.nuget.org/packages/Pernix.OutboxRelay.Core) | 1.0.0 | Pernix | Package Description |
-| 2026-11-26 04:33:16 | [Pernix.OutboxRelay.Destination.Kafka](https://www.nuget.org/packages/Pernix.OutboxRelay.Destination.Kafka) | 1.0.0 | Pernix | Package Description |
-| 2026-11-26 04:33:17 | [Pernix.OutboxRelay.Hosting](https://www.nuget.org/packages/Pernix.OutboxRelay.Hosting) | 1.0.0 | Pernix | Package Description |
-| 2026-11-26 04:33:18 | [Pernix.OutboxRelay.Outbox.PostgreSql](https://www.nuget.org/packages/Pernix.OutboxRelay.Outbox.PostgreSql) | 1.0.0 | Pernix | Package Description |
-| 2026-11-26 04:35:38 | [AI.Sentinel.Codex.Cli](https://www.nuget.org/packages/AI.Sentinel.Codex.Cli) | 6.1.0 | Marcel Roozekrans | Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to… |
-| 2026-11-26 04:38:21 | [Pernix.OutboxRelay.Client](https://www.nuget.org/packages/Pernix.OutboxRelay.Client) | 1.0.0 | Pernix | Engine-neutral producer types for the Pernix Outbox Relay: outbox message, head… |
-| 2026-11-26 04:38:22 | [Pernix.OutboxRelay.Client.EntityFrameworkCore](https://www.nuget.org/packages/Pernix.OutboxRelay.Client.EntityFrameworkCore) | 1.0.0 | Pernix | Entity Framework Core add-on for the Pernix Outbox Relay client: enqueues outbo… |
-| 2026-11-26 04:38:23 | [Pernix.OutboxRelay.Client.PostgreSql](https://www.nuget.org/packages/Pernix.OutboxRelay.Client.PostgreSql) | 1.0.0 | Pernix | PostgreSQL producer for the Pernix Outbox Relay: publishes outbox rows inside t… |
-| 2026-11-26 04:42:15 | [JQLite](https://www.nuget.org/packages/JQLite) | 1.0.0-beta | Daniel Cazzulino | A .NET implementation of the jq filter language for querying and transforming J… |
-| 2026-11-26 04:46:32 | [Kanject.Core.Realtime.Annotations](https://www.nuget.org/packages/Kanject.Core.Realtime.Annotations) | 1.0.0 | Akinsanya Omogbolahan | Roslyn analyzers for Kanject Core realtime (proposal 0067): a constant passed a… |
+| 2026-11-26 05:26:12 | [HyperCache.Client](https://www.nuget.org/packages/HyperCache.Client) | 0.1.1 | Andrew Kinnear | An IDistributedCache that reads and writes HyperCache.Server over its HTTP API,… |
+| 2026-11-26 05:28:12 | [SerenaPool](https://www.nuget.org/packages/SerenaPool) | 0.1.0 | Ejy Chien | Share local Serena REPL workers across MCP clients, with stdio and HTTP transpo… |
+| 2026-11-26 05:38:49 | [AsmFoundation.Templates](https://www.nuget.org/packages/AsmFoundation.Templates) | 0.4.0 | Eli Belash | dotnet new templates for assembly projects built with AsmFoundation.Sdk: an ass… |
+| 2026-11-26 05:40:17 | [Microsoft.GitHubCopilot.Upgrade.Mcp.any](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.any) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:40:29 | [Microsoft.GitHubCopilot.Upgrade.Mcp.linux-arm64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.linux-arm64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:40:41 | [Microsoft.GitHubCopilot.Upgrade.Mcp.linux-musl-arm64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.linux-musl-arm64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:40:51 | [Microsoft.GitHubCopilot.Upgrade.Mcp.linux-musl-x64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.linux-musl-x64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:41:05 | [Microsoft.GitHubCopilot.Upgrade.Mcp.linux-x64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.linux-x64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:41:14 | [Microsoft.GitHubCopilot.Upgrade.Mcp.osx-arm64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.osx-arm64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:41:24 | [Microsoft.GitHubCopilot.Upgrade.Mcp.osx-x64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.osx-x64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:41:35 | [Microsoft.GitHubCopilot.Upgrade.Mcp.win-arm64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.win-arm64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:41:49 | [Microsoft.GitHubCopilot.Upgrade.Mcp.win-x64](https://www.nuget.org/packages/Microsoft.GitHubCopilot.Upgrade.Mcp.win-x64) | 1.1.866 | Microsoft | A tool to assist developers in upgrading .NET Framework and .NET applications t… |
+| 2026-11-26 05:43:59 | [NetworkInspector.BaseApp](https://www.nuget.org/packages/NetworkInspector.BaseApp) | 0.23.0 | DevAM | Web host, Blazor shell, REST, MCP, and command line for local tools built on th… |
+| 2026-11-26 05:44:06 | [NetworkInspector.BaseApp.Core](https://www.nuget.org/packages/NetworkInspector.BaseApp.Core) | 0.23.0 | DevAM | The UI-free core of a base application: identity, typed commands with one pipel… |
+| 2026-11-26 05:44:12 | [NetworkInspector.BaseApp.Desktop](https://www.nuget.org/packages/NetworkInspector.BaseApp.Desktop) | 0.23.0 | DevAM | Desktop window for applications on NetworkInspector.BaseApp: the same UI in an… |
+| 2026-11-26 05:45:36 | [NetworkInspector.Jobs](https://www.nuget.org/packages/NetworkInspector.Jobs) | 0.23.0 | DevAM | Jobs for any .NET application: asynchronous or blocking work with a state, allo… |
+| 2026-11-26 05:45:42 | [NetworkInspector.Licensing](https://www.nuget.org/packages/NetworkInspector.Licensing) | 0.23.0 | DevAM | License inventory for any .NET application: one entry per shipped component wit… |
+| 2026-11-26 05:45:48 | [NetworkInspector.Licensing.Build](https://www.nuget.org/packages/NetworkInspector.Licensing.Build) | 0.23.0 | DevAM | Build-time license inventory for .NET applications and plugins: determines lice… |
+| 2026-11-26 05:46:05 | [NetworkInspector.Plugins.Abstractions](https://www.nuget.org/packages/NetworkInspector.Plugins.Abstractions) | 0.23.0 | DevAM | Generic plugin contract: entry and host requirement attributes, semantic versio… |
+| 2026-11-26 05:46:17 | [NetworkInspector.Plugins.Registry](https://www.nuget.org/packages/NetworkInspector.Plugins.Registry) | 0.23.0 | DevAM | Network Inspector's plugin contribution registry: staging builder, stack and se… |
+| 2026-11-26 05:46:19 | [Proxeno.Keryx.Broadcast](https://www.nuget.org/packages/Proxeno.Keryx.Broadcast) | 0.5.0 | Keryx contributors | Keryx.Broadcast: shared-socket broadcast fan-out transport for the Keryx WebRTC… |
+| 2026-11-26 05:52:43 | [IRI.Maptor.Core.Topology](https://www.nuget.org/packages/IRI.Maptor.Core.Topology) | 3.0.0-alpha | Hossein Narimani Rad | A .NET standard library to check spatial data against topology rules (points on… |
 
 ## Data source
 
