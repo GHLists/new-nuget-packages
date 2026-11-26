@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-26T02:10:01.843Z,Xibalbalabs.Enumeration,1.0.0,Xibalba Labs,"A high-performance, modern .NET Standard 2.0 / .NET 9 smart enum library and drop-in replacement for legacy enumeration packages. Supports System.Text.Json, Native AOT and EF Core with backward-compatible APIs."
+2026-11-26T02:10:16.59Z,Xibalbalabs.Enumeration.AspNetCore,1.0.0,Xibalba Labs,A DataAnnotations ValidationAttribute that validates a DTO property/parameter value against an Xibalbalabs.Enumeration smart enum.
+2026-11-26T02:10:27.27Z,Xibalbalabs.Enumeration.Dapper,1.0.0,Xibalba Labs,A Dapper SqlMapper.TypeHandler that maps Xibalbalabs.Enumeration smart enums to/from their underlying value.
+2026-11-26T02:10:37.97Z,Xibalbalabs.Enumeration.EntityFrameworkCore,1.0.0,Xibalba Labs,ValueConverter implementations that map Xibalbalabs.Enumeration smart enums to/from their underlying value or display name for Entity Framework Core.
+2026-11-26T02:10:49.22Z,Xibalbalabs.Enumeration.Json,1.0.0,Xibalba Labs,"System.Text.Json converters for Xibalbalabs.Enumeration smart enums, with Native AOT support."
+2026-11-26T02:12:58.95Z,Mavalonia,0.8.0,MagnusLidbom,"Controls for Avalonia for writing and reading messages in markdown, such as in an AI chat: MarkdownEditor, a WYSIWYG markdown editor that switches quickly between the markdown's source and the markdown rendered, and MarkdownView, which shows markdown to be read and copies what is selected in it as…"
+2026-11-26T02:14:06.173Z,Zyborg.EFCore.RevTracking,0.2.1,Zyborg.EFCore.RevTracking,Package Description

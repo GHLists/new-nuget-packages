@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 01:19 UTC
+## Latest list — 2026-11-26 02:20 UTC
 
-New packages created between 2026-11-26 00:18 UTC and 2026-11-26 01:19 UTC.
+New packages created between 2026-11-26 01:19 UTC and 2026-11-26 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T01-19-38-836965Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T02-20-22-510539Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 00:41:13 | [DbRelay.Abstractions](https://www.nuget.org/packages/DbRelay.Abstractions) | 0.1.0 | DbRelay contributors | Contracts for DbRelay, a lightweight transactional outbox for .NET: IOutbox, Ou… |
-| 2026-11-26 00:41:14 | [DbRelay.PostgreSql](https://www.nuget.org/packages/DbRelay.PostgreSql) | 0.1.0 | DbRelay contributors | PostgreSQL storage provider for DbRelay (Npgsql): transactional outbox inserts… |
-| 2026-11-26 00:41:15 | [DbRelay](https://www.nuget.org/packages/DbRelay) | 0.1.0 | DbRelay contributors | DbRelay engine: transactional outbox registration, background dispatcher with l… |
-| 2026-11-26 01:13:21 | [WASU.Plugin.Iot.Storage.Timescale](https://www.nuget.org/packages/WASU.Plugin.Iot.Storage.Timescale) | 26.1126.9 | WASU.Plugin.Iot.Storage.Times… | Package Description |
+| 2026-11-26 02:10:01 | [Xibalbalabs.Enumeration](https://www.nuget.org/packages/Xibalbalabs.Enumeration) | 1.0.0 | Xibalba Labs | A high-performance, modern .NET Standard 2.0 / .NET 9 smart enum library and dr… |
+| 2026-11-26 02:10:16 | [Xibalbalabs.Enumeration.AspNetCore](https://www.nuget.org/packages/Xibalbalabs.Enumeration.AspNetCore) | 1.0.0 | Xibalba Labs | A DataAnnotations ValidationAttribute that validates a DTO property/parameter v… |
+| 2026-11-26 02:10:27 | [Xibalbalabs.Enumeration.Dapper](https://www.nuget.org/packages/Xibalbalabs.Enumeration.Dapper) | 1.0.0 | Xibalba Labs | A Dapper SqlMapper.TypeHandler that maps Xibalbalabs.Enumeration smart enums to… |
+| 2026-11-26 02:10:37 | [Xibalbalabs.Enumeration.EntityFrameworkCore](https://www.nuget.org/packages/Xibalbalabs.Enumeration.EntityFrameworkCore) | 1.0.0 | Xibalba Labs | ValueConverter implementations that map Xibalbalabs.Enumeration smart enums to/… |
+| 2026-11-26 02:10:49 | [Xibalbalabs.Enumeration.Json](https://www.nuget.org/packages/Xibalbalabs.Enumeration.Json) | 1.0.0 | Xibalba Labs | System.Text.Json converters for Xibalbalabs.Enumeration smart enums, with Nativ… |
+| 2026-11-26 02:12:58 | [Mavalonia](https://www.nuget.org/packages/Mavalonia) | 0.8.0 | MagnusLidbom | Controls for Avalonia for writing and reading messages in markdown, such as in… |
+| 2026-11-26 02:14:06 | [Zyborg.EFCore.RevTracking](https://www.nuget.org/packages/Zyborg.EFCore.RevTracking) | 0.2.1 | Zyborg.EFCore.RevTracking | Package Description |
 
 ## Data source
 
