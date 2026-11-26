@@ -1,0 +1,22 @@
+created_at,package,version,authors,description
+2026-11-26T03:27:44.657Z,Du.Abp.ZeroCore.EntityFrameworkCore,10.5.1,Abp.ZeroCore.EntityFrameworkCore,Abp.ZeroCore.EntityFrameworkCore
+2026-11-26T03:47:58.603Z,SpaceCG.Standard.Wpf,1.0.0,SpaceCG.Standard.Wpf,Package Description
+2026-11-26T03:49:50.513Z,NCode.Coordination.Hosting,0.8.0,NCode Group,"The hosting of NCode.Coordination: the host's session, opened once the composition's requirements pass, kept alive while the host runs and opened again when lost, the node's membership from configuration, the session closed as the host stops, and a health check that reports the host not ready witho…"
+2026-11-26T03:51:48.8Z,Tuna,0.1.0,delicioustuna,"Numerical computing library for .NET 10 providing vectors, matrices, tensors, linear algebra, special functions, and random/quasi-random generators."
+2026-11-26T03:52:09.1Z,Tuna.Differentiation,0.1.0,delicioustuna,"Tape-based reverse-mode automatic differentiation for scalars, vectors, matrices, tensors, and linear algebra operations in Tuna."
+2026-11-26T03:52:22.6Z,Tuna.Integration,0.1.0,delicioustuna,"One-dimensional, multidimensional adaptive, and quasi-Monte Carlo numerical integration for Tuna."
+2026-11-26T03:52:35.867Z,Tuna.NeuralNetwork,0.1.0,delicioustuna,"Neural network building blocks (2D convolution, Mamba state-space blocks, normalization) and SafeTensors I/O for Tuna."
+2026-11-26T03:52:48.97Z,Tuna.Optimization,0.1.0,delicioustuna,"Numerical optimization algorithms (L-BFGS, SGD/Adam, proximal methods, global interval optimization, and evolutionary algorithms) for Tuna."
+2026-11-26T03:53:02.747Z,Tuna.Probabilistic,0.1.0,delicioustuna,"Probabilistic inference (HMC, NUTS, slice sampling, ensemble and parallel tempering MCMC) and convergence diagnostics for Tuna."
+2026-11-26T03:53:15.267Z,Tuna.SignalProcessing,0.1.0,delicioustuna,"FFT, DCT, convolution, correlation, and discrete/continuous wavelet transforms for Tuna."
+2026-11-26T03:53:26.727Z,Tuna.Statistics,0.1.0,delicioustuna,"Statistical distributions (continuous, discrete, multivariate, and composite) with PDF/CDF/quantile/sampling and automatic differentiation support for Tuna."
+2026-11-26T04:11:49.96Z,RDCore.SDK.Protocols,0.2.0-alpha,9562-7303 Québec inc.,"The messages a client exchanges with the RDCore platform, with no dependency on the platform itself."
+2026-11-26T04:11:50.687Z,CrowCast,1.0.0,Elysium Coding,"Application-neutral gossip membership, messaging, deduplication, coordination, and diagnostics abstractions for .NET services."
+2026-11-26T04:11:53.043Z,CrowCast.Akka,1.0.0,Elysium Coding,Akka.NET Cluster and Distributed PubSub backend for CrowCast.
+2026-11-26T04:11:55.333Z,CrowCast.ControlPlane,1.0.0,Elysium Coding,"gRPC ingestion, aggregation, and live query services for CrowCast observations."
+2026-11-26T04:11:57.623Z,CrowCast.ControlPlane.Client,1.0.0,Elysium Coding,Non-blocking gRPC observation reporter for CrowCast replicas.
+2026-11-26T04:11:59.907Z,CrowCast.ControlPlane.Protocol,1.0.0,Elysium Coding,Versioned gRPC contracts for reporting CrowCast observations to a control plane.
+2026-11-26T04:12:02.287Z,CrowCast.ControlPlane.WebUI,1.0.0,Elysium Coding,ZoOrce fleet dashboard for multiple CrowCast clusters and observer perspectives.
+2026-11-26T04:12:04.497Z,CrowCast.Observability,1.0.0,Elysium Coding,"Bounded, application-neutral observation snapshots and events for CrowCast clusters."
+2026-11-26T04:12:10.193Z,CrowCast.WebUI,1.0.0,Elysium Coding,Optional ZoOrce dashboard for the local perspective of a CrowCast replica.
+2026-11-26T04:12:12.453Z,CrowCast.WebUI.Shell,1.0.0,Elysium Coding,Shared ZoOrce shell and AG Grid/ECharts adapters for CrowCast web modules.
