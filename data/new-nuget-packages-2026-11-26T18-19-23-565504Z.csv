@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-26T17:30:23.187Z,Iconclass.Core,0.0.1,Daniele Fusi,Iconclass core module.
+2026-11-26T17:30:26.053Z,Iconclass.Import,0.0.1,Daniele Fusi,Iconclass data import module.
+2026-11-26T17:30:29.197Z,Iconclass.PgSql,0.0.1,Daniele Fusi,Iconclass PostgreSQL module.
+2026-11-26T17:30:33.087Z,Iconclass.Api.Controllers,0.0.1,Daniele Fusi,Iconclass API controllers module.
+2026-11-26T17:38:11.163Z,LineTen.Authentication.Hmac.Signing,4.0.0,LineTen,"LineTen Hmac request signing (LineTen-Hmac-1 / LineTen-Hmac-2), no ASP.NET Core dependency"
+2026-11-26T17:45:02.683Z,TestPacket,1.0.0,shurdukov.ad,Package Description
+2026-11-26T17:55:51.663Z,Gravicode.Science.DaskNet.Geo,2.3.0,Gravicode Studios,"Geospatial operations for Dask.Net (a dask-geopandas analogue): geohashes, spatial partitioning, distance joins and point-in-polygon joins over WKT, all runnable on a cluster. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-11-26T17:55:52.56Z,Gravicode.Science.DaskNet.Lakehouse,2.3.0,Gravicode Studios,"Delta Lake and Apache Iceberg readers for Dask.Net: tables become partitioned DaskFrames with time travel, partition pruning and column projection, readable on a cluster. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-11-26T17:55:53.493Z,Gravicode.Science.DaskNet.ML,2.3.0,Gravicode Studios,"Distributed machine learning for Dask.Net (a dask-ml analogue): grid and random hyperparameter search with one task per candidate and fold, and batch prediction over partitioned frames, for GraviLearn estimators. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-11-26T17:55:54.36Z,Gravicode.Science.DaskNet.Streaming,2.3.0,Gravicode Studios,"Micro-batch streaming for Dask.Net: filters, projections and SQL per batch on any scheduler, event-time tumbling and sliding windows with watermarks, incremental directory sources and checkpointed restarts. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-11-26T17:59:00.653Z,Eternet.TestPlanner.Artifacts,2.8.7,Eternet,Bounded offline ETP artifact descriptors and producer-owned snapshot compatibility contracts.
+2026-11-26T18:00:07.47Z,AntChain.SDK.INSURANCESAAS,1.1.0,"Ant Chain, Inc",Ant Chain INSURANCESAAS SDK Library for .NET
+2026-11-26T18:06:20.723Z,Jiron.Umbraco.FormBuilder.Core,17.0.0,Jiron,"The domain of Jiron Form Builder for Umbraco 17: form definitions, rules, validation, entries, actions, settings and persistence. Sites install Jiron.Umbraco.FormBuilder, which brings this package."
+2026-11-26T18:06:21.16Z,Jiron.Umbraco.FormBuilder.AI,17.0.0,Jiron,"An optional add-on for Jiron Form Builder on Umbraco 17: editors draft a form from a description or a pasted questionnaire, translate a form's texts and get help texts suggested, through Umbraco.AI. Nothing a visitor enters ever reaches an AI."
+2026-11-26T18:06:21.567Z,Jiron.Umbraco.FormBuilder.Web,17.0.0,Jiron,"The public and management APIs, form rendering, themes and the Forms section of Jiron Form Builder for Umbraco 17. Sites install Jiron.Umbraco.FormBuilder, which brings this package."
+2026-11-26T18:06:22.06Z,Jiron.Umbraco.FormBuilder,17.0.0,Jiron,"A form builder for Umbraco 17: editors design forms with pages, rules and actions in a Form Builder section of the backoffice, visitors fill them in on the website (Razor or headless), and teams review, approve and export the entries."
