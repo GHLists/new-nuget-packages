@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-26T15:26:26.87Z,SoulConverter.Tool,0.0.11,José Manuel Nieto,"The soulconverter command: converts VGM music and sound-effect logs between the NES 2A03, the Game Boy DMG and the SN76489 (Master System, Game Gear)."
+2026-11-26T15:26:28.437Z,SoulConverter,0.0.11,José Manuel Nieto,"Converts VGM music and sound-effect logs between the NES 2A03, the Game Boy DMG and the SN76489 (Master System, Game Gear), any chip to any other, in memory."
+2026-11-26T15:26:29.44Z,PermissionsInspector,1.0.1,Apoorv Gupta,"Diagnose 'Why Can't John Edit This Record?' in Microsoft Dataverse across Security Roles, Team inheritance, BU depth, POA sharing, and Field-Level Security."
+2026-11-26T15:33:20.707Z,Velle.Tool,0.3.1,Velle.Tool,Install Velle CSS components and browser behaviors into a project.
+2026-11-26T15:47:27.473Z,Fdo,0.1.0-preview,marcschier,Standalone FIDO Device Onboard 2.0 library for .NET.
+2026-11-26T15:48:27.633Z,SysadminsLV.WPF,2.0.0-preview,Vadims Podāns,This package contains a custom OfficeBlue WPF theme.
+2026-11-26T15:53:57.42Z,Linker.KurrentDB,1.2.1,Linker.Core,Replicate data between KurrentDb (former EventStore) instances
+2026-11-26T15:55:27.897Z,RestSimple,0.1.0,RestSimple,"A dependency-light REST client for .NET with one-line JSON calls. Wraps HttpClient with typed GetAsync/PostAsync/PutAsync/PatchAsync/DeleteAsync, default and per-request headers, optional auth token provider, optional response caching, rich RestSimpleException error details, and built-in IHttpClien…"
+2026-11-26T15:56:19.97Z,Rodrigosdk.CleanApi.Templates,1.0.0,Rodrigosdk,"Template do dotnet new (cleanapi) para Web API em Clean Architecture com .NET 10: PostgreSQL, SQL Server ou MySQL, autenticação JWT, logging e OpenTelemetry opcionais, ProblemDetails, Docker, CI e testes com Testcontainers."
+2026-11-26T15:59:59.47Z,Myle,0.1.0,Myle,"The official .NET SDK of the Myle API (https://api.myleapp.fr): typed resources, one exception class per error code, auto-pagination, idempotent retries, ETag / If-Match."
+2026-11-26T16:00:08.16Z,QMGateway,0.1.0,QMGateway,Send SMS and one-time passwords with QMGateway. No dependencies.
+2026-11-26T16:00:08.8Z,QMGateway.Cli,0.1.0,QMGateway.Cli,Command-line tool for QMGateway.
+2026-11-26T16:05:28.777Z,Acme.Sdk,1.0.0,Muhammad Sajjad,Official .NET Client SDK for the Acme REST API with built-in Dependency Injection and resilience.
