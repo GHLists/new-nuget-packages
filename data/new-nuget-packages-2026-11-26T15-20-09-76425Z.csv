@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-26T14:32:35.843Z,Muzzle.Theme,1.0.0,Mr. Squirrely,"Muzzle: a cozy, pastel design system for WPF. Light and Dark themes with Coral, Lavender, Mint, Peach or custom accents switchable at runtime, soft elevation shadows, and tactile jelly physics on every control. Includes 40+ restyled and custom controls (MuzzleWindow, PropertyGrid, DataGrid, Command…"
+2026-11-26T14:37:05.28Z,WinForms.Easel.Templates,2.0.0,Axvser,Item templates for Easel XAML views and resource dictionaries.
+2026-11-26T14:37:33.43Z,VkRadio.WebTools.WebGrabber,0.0.1,vkradio,WebGrabber utilities to read partially structured data from some types of websites
+2026-11-26T14:37:53.247Z,Agile.Infra.License,1.0.0,Agile.Cai,是一个轻量级授权控制类库，为应用程序提供许可校验、有效期管理与使用权限控制能力。
+2026-11-26T14:40:30.257Z,Nirs4all.Formats,0.3.1,Gregory Beurier,"Read NIRS and spectroscopy vendor files and export them to exchange formats, through the nirs4all-formats Rust registry."
+2026-11-26T14:46:51.26Z,VkRadio.LowCode.Libs.Utils,0.0.1,vkradio,Miscellaneous utils used in VkRadio.LowCode toolset or in dependent app projects
+2026-11-26T14:47:38.643Z,VkRadio.LowCode.Libs.Orm,0.0.1,vkradio,Simple micro-ORM base library used in VkRadio.LowCode toolset
+2026-11-26T14:48:21.79Z,VkRadio.LowCode.Libs.Orm.MsSql,0.0.1,vkradio,IDbProviderFactory implementation for MS SQL (used in VkRadio.LowCode toolset)
+2026-11-26T14:49:05.037Z,VkRadio.LowCode.Libs.Gui.WinForms,0.0.1,vkradio,WinForms GUI components library used in VkRadio.LowCode toolset
+2026-11-26T14:53:57.523Z,NoComments.Analyzers,0.1.0,Lee Sanderson,"Roslyn analyzers that report comments in C# and Razor code, with a code fix that removes them."
+2026-11-26T14:56:02.46Z,xdelta,1.0.0,Israel Lot,"Create and apply RFC 3284 VCDIFF binary patches in .NET 8. Encode at levels 0–9 and decode to arrays, spans, or streams with per-window and total output limits."
+2026-11-26T14:56:04.04Z,xdelta.Blake3,1.0.0,Israel Lot,Verify whole-file source and target digests in xdelta3 BLAKE3 armor. Adds opt-in verification to the XDeltaSharp core and LZMA decoders on .NET 8.
+2026-11-26T14:56:05.593Z,xdelta.Lzma,1.0.0,Israel Lot,"Apply xdelta3 VCDIFF patches with LZMA secondary compression in .NET 8. Decode mixed raw and compressed sections across windows to an array, span, or stream."
+2026-11-26T14:59:18.03Z,Etalon,1.0.0,Finity Software,"Compile-time type-safe physical quantities for .NET. Every quantity (voltage, force, pressure, temperature and more) is its own readonly struct over a single double in SI base units, so dimensionally invalid operations do not compile and the safety costs nothing at run time. Includes unit conversio…"
+2026-11-26T14:59:31.473Z,tman,0.1.0,Kyle Kukshtel,"Pick and run VS Code tasks.json tasks from the terminal. Tasks open in Rex floating panes, and the list reloads as tasks.json changes."
+2026-11-26T15:04:52.97Z,DotNetElements.UndoRedo,0.1.0,Felix-CodingClimber,"Lightweight, AOT-friendly, reflection-free undo/redo framework for .NET, designed for CommunityToolkit.Mvvm partial properties and Roslyn source generation."

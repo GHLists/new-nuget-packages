@@ -12,25 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 14:21 UTC
+## Latest list — 2026-11-26 15:20 UTC
 
-New packages created between 2026-11-26 13:19 UTC and 2026-11-26 14:21 UTC.
+New packages created between 2026-11-26 14:21 UTC and 2026-11-26 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T14-21-10-660068Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T15-20-09-76425Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 13:25:42 | [Avig.Ord](https://www.nuget.org/packages/Avig.Ord) | 1.0.0 | Marcus Lindh | Read, write and edit Word .docx files: a streaming reader and writer, a documen… |
-| 2026-11-26 13:26:15 | [Avig.Kalkyl](https://www.nuget.org/packages/Avig.Kalkyl) | 1.0.0 | Marcus Lindh | Read, write, edit and calculate Excel .xlsx files: typed lists through a source… |
-| 2026-11-26 13:38:16 | [RepoStack.MongoDB](https://www.nuget.org/packages/RepoStack.MongoDB) | 0.0.1-alpha-2 | Dzmitry Pratsko | MongoDB provider and repository implementations for RepoStack. |
-| 2026-11-26 13:38:17 | [RepoStack.PostgreSQL](https://www.nuget.org/packages/RepoStack.PostgreSQL) | 0.0.1-alpha-2 | Dzmitry Pratsko | PostgreSQL provider and repository implementations for RepoStack using Npgsql. |
-| 2026-11-26 13:38:32 | [RepoStack.SqlServer](https://www.nuget.org/packages/RepoStack.SqlServer) | 0.0.1-alpha-2 | Dzmitry Pratsko | SQL Server provider and repository implementations for RepoStack using Microsof… |
-| 2026-11-26 13:48:03 | [Traqio.Maui](https://www.nuget.org/packages/Traqio.Maui) | 0.1.0 | khufu.io | Traqio .NET MAUI SDK — deterministic install attribution (Play Install Referrer… |
-| 2026-11-26 13:58:00 | [Tubatools.Crosshair](https://www.nuget.org/packages/Tubatools.Crosshair) | 1.4.0 | HuaTuo | 屏幕准星：在屏幕中央叠加置顶准星，支持十字、圆环、圆点三种形状与可选中心点，大小、粗细、间隙、中心点、不透明度均可滑块或精确数值输入，可存 3 套带备注的配置… |
-| 2026-11-26 14:00:37 | [Dora.FastReport.OpenSource](https://www.nuget.org/packages/Dora.FastReport.OpenSource) | 1.0.0 | Hwx | Dora.FastReport.OpenSource |
-| 2026-11-26 14:05:37 | [VisioForge.CrossPlatform.RealSense.Windows.arm64](https://www.nuget.org/packages/VisioForge.CrossPlatform.RealSense.Windows.arm64) | 2026.11.26 | VisioForge | Intel RealSense depth camera support package for VisioForge .NET SDKs: colour,… |
-| 2026-11-26 14:08:26 | [RonSijm.MediumAPI.Analyser](https://www.nuget.org/packages/RonSijm.MediumAPI.Analyser) | 0.1.0 | RonSijm | Source generator, route analyzers and code fixes for RonSijm.MediumAPI. |
-| 2026-11-26 14:08:26 | [RonSijm.MediumAPI](https://www.nuget.org/packages/RonSijm.MediumAPI) | 0.1.0 | RonSijm | A class-based endpoint framework for ASP.NET Core Minimal APIs. |
+| 2026-11-26 14:32:35 | [Muzzle.Theme](https://www.nuget.org/packages/Muzzle.Theme) | 1.0.0 | Mr. Squirrely | Muzzle: a cozy, pastel design system for WPF. Light and Dark themes with Coral,… |
+| 2026-11-26 14:37:05 | [WinForms.Easel.Templates](https://www.nuget.org/packages/WinForms.Easel.Templates) | 2.0.0 | Axvser | Item templates for Easel XAML views and resource dictionaries. |
+| 2026-11-26 14:37:33 | [VkRadio.WebTools.WebGrabber](https://www.nuget.org/packages/VkRadio.WebTools.WebGrabber) | 0.0.1 | vkradio | WebGrabber utilities to read partially structured data from some types of websi… |
+| 2026-11-26 14:37:53 | [Agile.Infra.License](https://www.nuget.org/packages/Agile.Infra.License) | 1.0.0 | Agile.Cai | 是一个轻量级授权控制类库，为应用程序提供许可校验、有效期管理与使用权限控制能力。 |
+| 2026-11-26 14:40:30 | [Nirs4all.Formats](https://www.nuget.org/packages/Nirs4all.Formats) | 0.3.1 | Gregory Beurier | Read NIRS and spectroscopy vendor files and export them to exchange formats, th… |
+| 2026-11-26 14:46:51 | [VkRadio.LowCode.Libs.Utils](https://www.nuget.org/packages/VkRadio.LowCode.Libs.Utils) | 0.0.1 | vkradio | Miscellaneous utils used in VkRadio.LowCode toolset or in dependent app projects |
+| 2026-11-26 14:47:38 | [VkRadio.LowCode.Libs.Orm](https://www.nuget.org/packages/VkRadio.LowCode.Libs.Orm) | 0.0.1 | vkradio | Simple micro-ORM base library used in VkRadio.LowCode toolset |
+| 2026-11-26 14:48:21 | [VkRadio.LowCode.Libs.Orm.MsSql](https://www.nuget.org/packages/VkRadio.LowCode.Libs.Orm.MsSql) | 0.0.1 | vkradio | IDbProviderFactory implementation for MS SQL (used in VkRadio.LowCode toolset) |
+| 2026-11-26 14:49:05 | [VkRadio.LowCode.Libs.Gui.WinForms](https://www.nuget.org/packages/VkRadio.LowCode.Libs.Gui.WinForms) | 0.0.1 | vkradio | WinForms GUI components library used in VkRadio.LowCode toolset |
+| 2026-11-26 14:53:57 | [NoComments.Analyzers](https://www.nuget.org/packages/NoComments.Analyzers) | 0.1.0 | Lee Sanderson | Roslyn analyzers that report comments in C# and Razor code, with a code fix tha… |
+| 2026-11-26 14:56:02 | [xdelta](https://www.nuget.org/packages/xdelta) | 1.0.0 | Israel Lot | Create and apply RFC 3284 VCDIFF binary patches in .NET 8. Encode at levels 0–9… |
+| 2026-11-26 14:56:04 | [xdelta.Blake3](https://www.nuget.org/packages/xdelta.Blake3) | 1.0.0 | Israel Lot | Verify whole-file source and target digests in xdelta3 BLAKE3 armor. Adds opt-i… |
+| 2026-11-26 14:56:05 | [xdelta.Lzma](https://www.nuget.org/packages/xdelta.Lzma) | 1.0.0 | Israel Lot | Apply xdelta3 VCDIFF patches with LZMA secondary compression in .NET 8. Decode… |
+| 2026-11-26 14:59:18 | [Etalon](https://www.nuget.org/packages/Etalon) | 1.0.0 | Finity Software | Compile-time type-safe physical quantities for .NET. Every quantity (voltage, f… |
+| 2026-11-26 14:59:31 | [tman](https://www.nuget.org/packages/tman) | 0.1.0 | Kyle Kukshtel | Pick and run VS Code tasks.json tasks from the terminal. Tasks open in Rex floa… |
+| 2026-11-26 15:04:52 | [DotNetElements.UndoRedo](https://www.nuget.org/packages/DotNetElements.UndoRedo) | 0.1.0 | Felix-CodingClimber | Lightweight, AOT-friendly, reflection-free undo/redo framework for .NET, design… |
 
 ## Data source
 
