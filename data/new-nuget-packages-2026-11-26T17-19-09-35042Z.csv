@@ -1,0 +1,60 @@
+created_at,package,version,authors,description
+2026-11-26T16:19:32.84Z,HttpBridge.Refit,1.0.0,Pavlo Hlazunov,"Refit client registration with resilience policies, configuration binding, authorization handlers and health checks."
+2026-11-26T16:19:33.43Z,HttpBridge.SwaggerCodeGen,1.0.0,Pavlo Hlazunov,"HttpClient client generated from OpenAPI with NSwag, wired up with configuration binding, resilience policies, authorization handlers and health checks."
+2026-11-26T16:19:33.933Z,HttpBridge.RestEase,1.0.0,Pavlo Hlazunov,"RestEase client registration with System.Text.Json, resilience policies, configuration binding, authorization handlers and health checks."
+2026-11-26T16:19:34.477Z,HttpBridge.Core,1.0.0,Pavlo Hlazunov,"Shared building blocks for the HttpBridge client packages: options, resilience, health checks, OData filter builder."
+2026-11-26T16:19:35.083Z,HttpBridge.WebApiClient,1.0.0,Pavlo Hlazunov,"WebApiClientCore registration with System.Text.Json, resilience policies, configuration binding, authorization handlers and health checks."
+2026-11-26T16:19:35.64Z,HttpBridge.Flurl,1.0.0,Pavlo Hlazunov,"Flurl.Http client registration with System.Text.Json, resilience policies, configuration binding, authorization handlers and health checks."
+2026-11-26T16:19:36.223Z,HttpBridge.RestSharp,1.0.0,Pavlo Hlazunov,"RestSharp client registration with System.Text.Json, resilience policies, configuration binding, authorization handlers and health checks."
+2026-11-26T16:19:36.777Z,HttpBridge.Refitter,1.0.0,Pavlo Hlazunov,"Refit client generated from OpenAPI with Refitter, wired up with HttpBridge.Refit (configuration, resilience, health)."
+2026-11-26T16:20:01.63Z,WebSharper.CompressionStreams,10.1.0.775,IntelliFactory,WebSharper bindings for CompressionStreams
+2026-11-26T16:20:02.223Z,WebSharper.Houdini,10.1.0.775,IntelliFactory,WebSharper bindings for Houdini
+2026-11-26T16:20:03.353Z,WebSharper.CookieStore,10.1.0.775,IntelliFactory,WebSharper bindings for CookieStore
+2026-11-26T16:20:05.28Z,WebSharper.IntersectionObserver,10.1.0.775,IntelliFactory,WebSharper bindings for IntersectionObserver
+2026-11-26T16:20:06.41Z,WebSharper.CredentialManagement,10.1.0.775,IntelliFactory,WebSharper bindings for CredentialManagement
+2026-11-26T16:20:12.13Z,WebSharper.TaskScheduling,10.1.0.775,IntelliFactory,WebSharper bindings for TaskScheduling
+2026-11-26T16:20:12.71Z,WebSharper.BackgroundFetch,10.1.0.775,IntelliFactory,WebSharper bindings for BackgroundFetch
+2026-11-26T16:20:13.503Z,WebSharper.JsCookie,10.1.0.775,IntelliFactory,WebSharper bindings for js-cookie
+2026-11-26T16:20:14.253Z,WebSharper.BatteryStatus,10.1.0.775,IntelliFactory,WebSharper bindings for BatteryStatus
+2026-11-26T16:20:18.063Z,WebSharper.Capacitor.CapGo.AI,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (AI)
+2026-11-26T16:20:18.57Z,WebSharper.DragDrop,10.1.0.775,IntelliFactory,WebSharper bindings for DragDrop
+2026-11-26T16:20:19.83Z,WebSharper.Capacitor.CapGo.Analytics,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Analytics)
+2026-11-26T16:20:20.63Z,WebSharper.MediaCapabilities,10.1.0.775,IntelliFactory,WebSharper bindings for MediaCapabilities
+2026-11-26T16:20:21.393Z,WebSharper.Capacitor.CapGo.Auth,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Auth)
+2026-11-26T16:20:21.903Z,WebSharper.Encoding,10.1.0.775,IntelliFactory,WebSharper bindings for Encoding
+2026-11-26T16:20:22.433Z,WebSharper.MediaSession,10.1.0.775,IntelliFactory,WebSharper bindings for MediaSession
+2026-11-26T16:20:22.943Z,WebSharper.TinyMce6,10.1.0.775,IntelliFactory,"WebSharper bindings for TinyMCE 6.x (MIT, the last MIT-licensed TinyMCE line)."
+2026-11-26T16:20:23.507Z,WebSharper.Capacitor.CapGo.Commerce,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Commerce)
+2026-11-26T16:20:24.07Z,WebSharper.EncryptedMediaExtensions,10.1.0.775,IntelliFactory,WebSharper bindings for EncryptedMediaExtensions
+2026-11-26T16:20:25.063Z,WebSharper.Capacitor.CapGo.Device,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Device)
+2026-11-26T16:20:26.44Z,WebSharper.Capacitor.CapGo.Files,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Files)
+2026-11-26T16:20:26.967Z,WebSharper.FileSystem,10.1.0.775,IntelliFactory,WebSharper bindings for FileSystem
+2026-11-26T16:20:27.503Z,WebSharper.NetworkInformation,10.1.0.775,IntelliFactory,WebSharper bindings for NetworkInformation
+2026-11-26T16:20:28.393Z,WebSharper.Capacitor.CapGo.Media,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Media)
+2026-11-26T16:20:29.187Z,WebSharper.Notifications,10.1.0.775,IntelliFactory,WebSharper bindings for Notifications
+2026-11-26T16:20:30.207Z,WebSharper.Capacitor.CapGo.Messaging,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Messaging)
+2026-11-26T16:20:30.99Z,WebSharper.PaymentRequest,10.1.0.775,IntelliFactory,WebSharper bindings for PaymentRequest
+2026-11-26T16:20:31.88Z,WebSharper.Capacitor.CapGo.Tooling,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (Tooling)
+2026-11-26T16:20:33.04Z,WebSharper.WebAuthentication,10.1.0.775,IntelliFactory,WebSharper bindings for the Web Authentication API (WebAuthn)
+2026-11-26T16:20:33.607Z,WebSharper.Capacitor.CapGo.UI,10.1.0.775,IntelliFactory,WebSharper bindings for CapGo Capacitor plugins (UI)
+2026-11-26T16:20:39.347Z,WebSharper.Permissions,10.1.0.775,IntelliFactory,WebSharper bindings for Permissions
+2026-11-26T16:20:39.94Z,WebSharper.WebBluetooth,10.1.0.775,IntelliFactory,WebSharper bindings for the Web Bluetooth API
+2026-11-26T16:20:40.93Z,WebSharper.PictureInPicture,10.1.0.775,IntelliFactory,WebSharper bindings for PictureInPicture
+2026-11-26T16:20:41.503Z,WebSharper.WebCodecs,10.1.0.775,IntelliFactory,WebSharper bindings for WebCodecs
+2026-11-26T16:20:42.847Z,WebSharper.WebCrypto,10.1.0.775,IntelliFactory,WebSharper bindings for the Web Crypto API
+2026-11-26T16:20:43.613Z,WebSharper.Gamepad,10.1.0.775,IntelliFactory,WebSharper bindings for Gamepad
+2026-11-26T16:20:44.67Z,WebSharper.Clipboard,10.1.0.775,IntelliFactory,WebSharper bindings for Clipboard
+2026-11-26T16:20:45.21Z,WebSharper.Geolocation,10.1.0.775,IntelliFactory,WebSharper bindings for Geolocation
+2026-11-26T16:20:46.647Z,WebSharper.Push,10.1.0.775,IntelliFactory,WebSharper bindings for Push
+2026-11-26T16:20:50.55Z,WebSharper.ScreenWakeLock,10.1.0.775,IntelliFactory,WebSharper bindings for ScreenWakeLock
+2026-11-26T16:20:51.93Z,WebSharper.ServiceWorker,10.1.0.775,IntelliFactory,WebSharper bindings for the Service Worker API
+2026-11-26T16:20:53.28Z,WebSharper.WebVTT,10.1.0.775,IntelliFactory,WebSharper bindings for the WebVTT API
+2026-11-26T16:23:57.32Z,DotNodeViewer.Layout,0.1.2,dot-node-viewer contributors,Pure C# Sugiyama layered directed-graph layout engine for DotNodeViewer.Core graphs.
+2026-11-26T16:23:57.96Z,DotNodeViewer.Cli,0.1.2,dot-node-viewer contributors,"Command-line tool for neural network model format detection, topology inspection, golden snapshots, and NPU command stream disassembly."
+2026-11-26T16:23:58.5Z,DotNodeViewer.Core,0.1.2,dot-node-viewer contributors,"Pure C# neural network model format detection, streaming graph extraction, and Unified Graph IR."
+2026-11-26T16:24:51.74Z,Itech.Security.AuthGate,7.0.0,Itech.Security.AuthGate,Product-neutral AuthGate OIDC resource server authentication.
+2026-11-26T16:31:08.723Z,DacDeploy.Core,0.1.0,kaii-zen,"What dacdeploy deploys with: plans and applies a SQL Server database project with DacFx, keeping what isn't in the project, running its data scripts, and checking a saved plan before applying it."
+2026-11-26T16:31:09.957Z,dacdeploy,0.1.0,kaii-zen,"Plans and applies a SQL Server database project (.sqlproj) to a database with DacFx: review a saved plan, then apply exactly that plan."
+2026-11-26T16:39:28.69Z,EdCourtenay.ROP,1.0.0,Ed Courtenay,"A C# library for composing operations that can succeed or fail, inspired by Railway Oriented Programming."
+2026-11-26T16:41:37.283Z,BlenderUI,0.6.0,BUI contributors,Blender's interface as a retained-mode C# UI toolkit: the C kit with C# components
+2026-11-26T16:42:30.38Z,Clast.Google.Apis.Gmail.v1,1.78.0.4327,clast-project,"Clast republish of the generated Google.Apis.Gmail.v1 REST client: Newtonsoft.Json replaced with source-generated System.Text.Json, trimming/AOT-compatible, adds a net10.0 target. Namespaces and public type names are unchanged. Independent republish from the clast-project fork — not an official Goo…"
