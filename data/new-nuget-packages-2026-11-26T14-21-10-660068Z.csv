@@ -1,0 +1,12 @@
+created_at,package,version,authors,description
+2026-11-26T13:25:42.553Z,Avig.Ord,1.0.0,Marcus Lindh,"Read, write and edit Word .docx files: a streaming reader and writer, a document model that keeps what it does not understand, effective formatting through the style chain, list labels, tracked changes, search and replace across runs, templates with placeholders, merge fields and content controls,…"
+2026-11-26T13:26:15.11Z,Avig.Kalkyl,1.0.0,Marcus Lindh,"Read, write, edit and calculate Excel .xlsx files: typed lists through a source generator, streaming rows, and a document model with a formula engine. Styles, charts, pictures and SVG, shapes, conditional formatting, pivot tables and slicers, and a check for macros and links in files from outside.…"
+2026-11-26T13:38:16.1Z,RepoStack.MongoDB,0.0.1-alpha-2,Dzmitry Pratsko,MongoDB provider and repository implementations for RepoStack.
+2026-11-26T13:38:17.933Z,RepoStack.PostgreSQL,0.0.1-alpha-2,Dzmitry Pratsko,PostgreSQL provider and repository implementations for RepoStack using Npgsql.
+2026-11-26T13:38:32.4Z,RepoStack.SqlServer,0.0.1-alpha-2,Dzmitry Pratsko,SQL Server provider and repository implementations for RepoStack using Microsoft.Data.SqlClient.
+2026-11-26T13:48:03.92Z,Traqio.Maui,0.1.0,khufu.io,"Traqio .NET MAUI SDK — deterministic install attribution (Play Install Referrer) + SKAN. No IDFA, no fingerprinting."
+2026-11-26T13:58:00.237Z,Tubatools.Crosshair,1.4.0,HuaTuo,屏幕准星：在屏幕中央叠加置顶准星，支持十字、圆环、圆点三种形状与可选中心点，大小、粗细、间隙、中心点、不透明度均可滑块或精确数值输入，可存 3 套带备注的配置，另可调颜色、位置偏移和全局热键。
+2026-11-26T14:00:37.847Z,Dora.FastReport.OpenSource,1.0.0,Hwx,Dora.FastReport.OpenSource
+2026-11-26T14:05:37.98Z,VisioForge.CrossPlatform.RealSense.Windows.arm64,2026.11.26,VisioForge,"Intel RealSense depth camera support package for VisioForge .NET SDKs: colour, depth and infrared streams of D400-family cameras through librealsense 2.59.2 (Apache License 2.0)."
+2026-11-26T14:08:26.64Z,RonSijm.MediumAPI.Analyser,0.1.0,RonSijm,"Source generator, route analyzers and code fixes for RonSijm.MediumAPI."
+2026-11-26T14:08:26.883Z,RonSijm.MediumAPI,0.1.0,RonSijm,A class-based endpoint framework for ASP.NET Core Minimal APIs.
