@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-26T18:20:57.433Z,DbRelay.SqlServer,0.2.0,DbRelay contributors,"SQL Server storage provider for DbRelay (Microsoft.Data.SqlClient): transactional outbox inserts in the caller's SqlTransaction, UPDLOCK/READPAST/ROWLOCK claiming with leases and lock tokens, retention cleanup and explicit, idempotent schema creation. Works with or without READ_COMMITTED_SNAPSHOT.…"
+2026-11-26T18:30:51.223Z,AudioIOSharp,0.1.0,Mike Oliphant,"Real-time, allocation-free audio and MIDI I/O for .NET: ASIO, ALSA, JACK."
+2026-11-26T18:41:21.62Z,Gatewright.State.Redis,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:22.11Z,Gatewright.Core,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:22.51Z,Gatewright.Sdk,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:23.01Z,Gatewright.Testing,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:23.407Z,Gatewright.Exposure,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:23.797Z,Gatewright.Distribution,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:24.253Z,Gatewright.Templates,1.0.0,Pierrick Gourlain,"dotnet new template for a Gatewright host: a gateway distribution with a sample custom policy, tests and a container build."
+2026-11-26T18:41:24.527Z,Gatewright.Policies,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:24.97Z,Gatewright.DataPlane,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:25.5Z,Gatewright.Cli,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:25.93Z,Gatewright.ControlPlane,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:26.39Z,Gatewright.Kubernetes,1.0.0,Pierrick Gourlain,Package Description
+2026-11-26T18:41:26.79Z,Gatewright.Abstractions,1.0.0,Pierrick Gourlain,Package Description
