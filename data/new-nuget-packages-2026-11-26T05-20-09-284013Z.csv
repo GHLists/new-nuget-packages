@@ -1,0 +1,17 @@
+created_at,package,version,authors,description
+2026-11-26T04:19:16.797Z,AI.Sentinel.Codex.Cli.any,6.1.0,Marcel Roozekrans,Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to scan tool calls.
+2026-11-26T04:19:21.93Z,AI.Sentinel.Codex.Cli.linux-x64,6.1.0,Marcel Roozekrans,Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to scan tool calls.
+2026-11-26T04:19:33.12Z,AI.Sentinel.Codex.Cli.win-x64,6.1.0,Marcel Roozekrans,Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to scan tool calls.
+2026-11-26T04:19:43.73Z,AI.Sentinel.Codex.Cli.linux-arm64,6.1.0,Marcel Roozekrans,Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to scan tool calls.
+2026-11-26T04:19:45.813Z,AI.Sentinel.Codex.Cli.linux-musl-arm64,6.1.0,Marcel Roozekrans,Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to scan tool calls.
+2026-11-26T04:23:12.587Z,Zifika,1.0.0,Eriq VanBibber,Experimental keyed path-walking cipher with symmetric encryption and offline Mint/Verify origin verification.
+2026-11-26T04:33:15.073Z,Pernix.OutboxRelay.Core,1.0.0,Pernix,Package Description
+2026-11-26T04:33:16.327Z,Pernix.OutboxRelay.Destination.Kafka,1.0.0,Pernix,Package Description
+2026-11-26T04:33:17.48Z,Pernix.OutboxRelay.Hosting,1.0.0,Pernix,Package Description
+2026-11-26T04:33:18.677Z,Pernix.OutboxRelay.Outbox.PostgreSql,1.0.0,Pernix,Package Description
+2026-11-26T04:35:38.867Z,AI.Sentinel.Codex.Cli,6.1.0,Marcel Roozekrans,Codex CLI hook command for AI.Sentinel — wire into hooks.json or config.toml to scan tool calls.
+2026-11-26T04:38:21.543Z,Pernix.OutboxRelay.Client,1.0.0,Pernix,"Engine-neutral producer types for the Pernix Outbox Relay: outbox message, headers, table name and column names."
+2026-11-26T04:38:22.7Z,Pernix.OutboxRelay.Client.EntityFrameworkCore,1.0.0,Pernix,"Entity Framework Core add-on for the Pernix Outbox Relay client: enqueues outbox messages on a DbContext and writes them at CommitAsync of an EF transaction begun by the context, as the transaction's last writes."
+2026-11-26T04:38:23.677Z,Pernix.OutboxRelay.Client.PostgreSql,1.0.0,Pernix,PostgreSQL producer for the Pernix Outbox Relay: publishes outbox rows inside the caller's transaction and ships the outbox DDL.
+2026-11-26T04:42:15.437Z,JQLite,1.0.0-beta,Daniel Cazzulino,A .NET implementation of the jq filter language for querying and transforming JSON.
+2026-11-26T04:46:32.843Z,Kanject.Core.Realtime.Annotations,1.0.0,Akinsanya Omogbolahan,"Roslyn analyzers for Kanject Core realtime (proposal 0067): a constant passed as a topic kind or a message type is checked at build against the grammar Kanject.Core.Realtime applies when the call runs. Reports KANRT250 (topic kind), KANRT251 (message type) and KANRT252 (a message type under Core's…"
