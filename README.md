@@ -12,21 +12,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 02:20 UTC
+## Latest list — 2026-11-26 03:19 UTC
 
-New packages created between 2026-11-26 01:19 UTC and 2026-11-26 02:20 UTC.
+New packages created between 2026-11-26 02:20 UTC and 2026-11-26 03:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T02-20-22-510539Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T03-19-13-496486Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 02:10:01 | [Xibalbalabs.Enumeration](https://www.nuget.org/packages/Xibalbalabs.Enumeration) | 1.0.0 | Xibalba Labs | A high-performance, modern .NET Standard 2.0 / .NET 9 smart enum library and dr… |
-| 2026-11-26 02:10:16 | [Xibalbalabs.Enumeration.AspNetCore](https://www.nuget.org/packages/Xibalbalabs.Enumeration.AspNetCore) | 1.0.0 | Xibalba Labs | A DataAnnotations ValidationAttribute that validates a DTO property/parameter v… |
-| 2026-11-26 02:10:27 | [Xibalbalabs.Enumeration.Dapper](https://www.nuget.org/packages/Xibalbalabs.Enumeration.Dapper) | 1.0.0 | Xibalba Labs | A Dapper SqlMapper.TypeHandler that maps Xibalbalabs.Enumeration smart enums to… |
-| 2026-11-26 02:10:37 | [Xibalbalabs.Enumeration.EntityFrameworkCore](https://www.nuget.org/packages/Xibalbalabs.Enumeration.EntityFrameworkCore) | 1.0.0 | Xibalba Labs | ValueConverter implementations that map Xibalbalabs.Enumeration smart enums to/… |
-| 2026-11-26 02:10:49 | [Xibalbalabs.Enumeration.Json](https://www.nuget.org/packages/Xibalbalabs.Enumeration.Json) | 1.0.0 | Xibalba Labs | System.Text.Json converters for Xibalbalabs.Enumeration smart enums, with Nativ… |
-| 2026-11-26 02:12:58 | [Mavalonia](https://www.nuget.org/packages/Mavalonia) | 0.8.0 | MagnusLidbom | Controls for Avalonia for writing and reading messages in markdown, such as in… |
-| 2026-11-26 02:14:06 | [Zyborg.EFCore.RevTracking](https://www.nuget.org/packages/Zyborg.EFCore.RevTracking) | 0.2.1 | Zyborg.EFCore.RevTracking | Package Description |
+| 2026-11-26 02:21:37 | [ElBruno.AI.Decisions.Llama](https://www.nuget.org/packages/ElBruno.AI.Decisions.Llama) | 0.10.0 | Bruno Capuano (ElBruno) | Local Llama App System One decision models for text, images and audio. Confiden… |
+| 2026-11-26 02:25:37 | [Flagpost.Client](https://www.nuget.org/packages/Flagpost.Client) | 1.0.0 | flagpost contributors | Feature flags with client-side evaluation for .NET. Polls a Flagpost API, keeps… |
+| 2026-11-26 02:34:08 | [EpubPostProcessor](https://www.nuget.org/packages/EpubPostProcessor) | 0.0.1 | Max Guernsey III | Post-process EPUB files for different publishing destinations. |
+| 2026-11-26 02:39:35 | [103KNN.Neuromorphic](https://www.nuget.org/packages/103KNN.Neuromorphic) | 1.0.0 | Erisnel Lora Sugve | Pure C# SIMD-accelerated Spiking Neural Network (SNN) engine with TTFS encoding… |
+| 2026-11-26 02:55:56 | [Du.Abp](https://www.nuget.org/packages/Du.Abp) | 10.5.1 | Abp | Abp |
+| 2026-11-26 02:57:05 | [Du.AutoMapper](https://www.nuget.org/packages/Du.AutoMapper) | 14.0.0 | Jimmy Bogard | A convention-based object-object mapper. |
+| 2026-11-26 02:57:18 | [EasyInjector.DependencyInjection.WebApi](https://www.nuget.org/packages/EasyInjector.DependencyInjection.WebApi) | 1.0.0 | EasyInjector.DependencyInject… | Microsoft.Extensions.DependencyInjection 整合至 ASP.NET Web API 2 / OWIN (.NET Fra… |
+| 2026-11-26 02:57:49 | [EasyApiProxy.Core.WebApi](https://www.nuget.org/packages/EasyApiProxy.Core.WebApi) | 1.0.0 | EasyApiProxy.Core.WebApi | EasyApiProxy.Core 整合至 ASP.NET Web API 2 / OWIN (.NET Framework 4.7.2) |
+| 2026-11-26 03:01:16 | [Ambysto.Kit.Process](https://www.nuget.org/packages/Ambysto.Kit.Process) | 0.3.0 | Ambysto | Process reading for Ambysto apps on Windows: process snapshot, identity by (pid… |
+| 2026-11-26 03:07:54 | [Du.Abp.AspNetCore.SignalR](https://www.nuget.org/packages/Du.Abp.AspNetCore.SignalR) | 10.5.1 | Abp.AspNetCore.SignalR | Abp.AspNetCore.SignalR |
+| 2026-11-26 03:08:31 | [Du.Abp.Castle.Log4Net](https://www.nuget.org/packages/Du.Abp.Castle.Log4Net) | 10.5.1 | Abp.Castle.Log4Net | Abp.Castle.Log4Net |
+| 2026-11-26 03:08:55 | [Du.Abp.EntityFramework.Common](https://www.nuget.org/packages/Du.Abp.EntityFramework.Common) | 10.5.1 | Abp.EntityFramework.Common | Abp.EntityFramework.Common |
+| 2026-11-26 03:09:27 | [Du.Abp.Web.Common](https://www.nuget.org/packages/Du.Abp.Web.Common) | 10.5.1 | Abp.Web.Common | Abp.Web.Common |
+| 2026-11-26 03:09:53 | [Du.Abp.Zero.Common](https://www.nuget.org/packages/Du.Abp.Zero.Common) | 10.5.1 | Abp.Zero.Common | Abp.Zero.Common |
+| 2026-11-26 03:10:16 | [Du.AutoMapper.Collection](https://www.nuget.org/packages/Du.AutoMapper.Collection) | 11.0.0 | Tyler Carlson | Collection Add/Remove/Update support for AutoMapper. AutoMapper.Collection adds… |
 
 ## Data source
 

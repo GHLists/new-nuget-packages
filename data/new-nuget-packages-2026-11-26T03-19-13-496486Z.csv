@@ -1,0 +1,16 @@
+created_at,package,version,authors,description
+2026-11-26T02:21:37.457Z,ElBruno.AI.Decisions.Llama,0.10.0,Bruno Capuano (ElBruno),"Local Llama App System One decision models for text, images and audio. Confidence is not calibrated correctness."
+2026-11-26T02:25:37.42Z,Flagpost.Client,1.0.0,flagpost contributors,"Feature flags with client-side evaluation for .NET. Polls a Flagpost API, keeps the last good snapshot and evaluates locally."
+2026-11-26T02:34:08.323Z,EpubPostProcessor,0.0.1,Max Guernsey III,Post-process EPUB files for different publishing destinations.
+2026-11-26T02:39:35.053Z,103KNN.Neuromorphic,1.0.0,Erisnel Lora Sugve,"Pure C# SIMD-accelerated Spiking Neural Network (SNN) engine with TTFS encoding, LIF neurons, STDP/Surrogate-Gradient training, sparse event-driven inference, and JSON persistence with embedded Min/Max normalization scales. Zero external dependencies."
+2026-11-26T02:55:56.533Z,Du.Abp,10.5.1,Abp,Abp
+2026-11-26T02:57:05.907Z,Du.AutoMapper,14.0.0,Jimmy Bogard,A convention-based object-object mapper.
+2026-11-26T02:57:18.35Z,EasyInjector.DependencyInjection.WebApi,1.0.0,EasyInjector.DependencyInjection.WebApi,Microsoft.Extensions.DependencyInjection 整合至 ASP.NET Web API 2 / OWIN (.NET Framework 4.7.2)
+2026-11-26T02:57:49.83Z,EasyApiProxy.Core.WebApi,1.0.0,EasyApiProxy.Core.WebApi,EasyApiProxy.Core 整合至 ASP.NET Web API 2 / OWIN (.NET Framework 4.7.2)
+2026-11-26T03:01:16.66Z,Ambysto.Kit.Process,0.3.0,Ambysto,"Process reading for Ambysto apps on Windows: process snapshot, identity by (pid, creation time), parent validation, readable vs unreadable rule, listening TCP sockets and CPU/memory/I/O sampling. It never terminates or signals a process."
+2026-11-26T03:07:54.177Z,Du.Abp.AspNetCore.SignalR,10.5.1,Abp.AspNetCore.SignalR,Abp.AspNetCore.SignalR
+2026-11-26T03:08:31.953Z,Du.Abp.Castle.Log4Net,10.5.1,Abp.Castle.Log4Net,Abp.Castle.Log4Net
+2026-11-26T03:08:55.153Z,Du.Abp.EntityFramework.Common,10.5.1,Abp.EntityFramework.Common,Abp.EntityFramework.Common
+2026-11-26T03:09:27.1Z,Du.Abp.Web.Common,10.5.1,Abp.Web.Common,Abp.Web.Common
+2026-11-26T03:09:53.023Z,Du.Abp.Zero.Common,10.5.1,Abp.Zero.Common,Abp.Zero.Common
+2026-11-26T03:10:16.737Z,Du.AutoMapper.Collection,11.0.0,Tyler Carlson,Collection Add/Remove/Update support for AutoMapper. AutoMapper.Collection adds EqualityComparison Expressions for TypeMaps to determine if Source and Destination type are equivalent to each other when mapping collections.
