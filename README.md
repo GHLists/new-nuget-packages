@@ -12,42 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 22:20 UTC
+## Latest list — 2026-11-26 23:21 UTC
 
-New packages created between 2026-11-26 21:20 UTC and 2026-11-26 22:20 UTC.
+New packages created between 2026-11-26 22:20 UTC and 2026-11-26 23:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T22-20-55-854505Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T23-21-29-881917Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 21:27:24 | [AiSdk.Net.Google](https://www.nuget.org/packages/AiSdk.Net.Google) | 1.0.0 | Bluesmile, Esteban Cortes | Google Gemini provider for AiSdk.Net: chat, reasoning, tools, Google Search gro… |
-| 2026-11-26 21:27:24 | [AiSdk.Net.Documents](https://www.nuget.org/packages/AiSdk.Net.Documents) | 1.0.0 | Bluesmile, Esteban Cortes | Read and generate documents for AI: PDF, Word, Excel, PowerPoint, HTML, images,… |
-| 2026-11-26 21:27:25 | [AiSdk.Net.Workflows](https://www.nuget.org/packages/AiSdk.Net.Workflows) | 1.0.0 | Bluesmile, Esteban Cortes | Durable workflows for AI agents: memoized steps with retries, sleeps, events an… |
-| 2026-11-26 21:27:25 | [AiSdk.Net.Bedrock](https://www.nuget.org/packages/AiSdk.Net.Bedrock) | 1.0.0 | Bluesmile, Esteban Cortes | Amazon Bedrock provider for AiSdk.Net (Converse API): Claude, Llama, Mistral, N… |
-| 2026-11-26 21:27:26 | [AiSdk.Net.Extensions.AI](https://www.nuget.org/packages/AiSdk.Net.Extensions.AI) | 1.0.0 | Bluesmile, Esteban Cortes | Microsoft.Extensions.AI interop for AiSdk.Net in both directions: use any IChat… |
-| 2026-11-26 21:27:26 | [AiSdk.Net.Cohere](https://www.nuget.org/packages/AiSdk.Net.Cohere) | 1.0.0 | Bluesmile, Esteban Cortes | Cohere provider for AiSdk.Net: reranking (Rerank) and embeddings (Embed). |
-| 2026-11-26 21:27:26 | [AiSdk.Net.Mcp](https://www.nuget.org/packages/AiSdk.Net.Mcp) | 1.0.0 | Bluesmile, Esteban Cortes | Model Context Protocol (MCP) client for AiSdk.Net: use tools, resources and pro… |
-| 2026-11-26 21:27:27 | [AiSdk.Net.Extensions.DependencyInjection](https://www.nuget.org/packages/AiSdk.Net.Extensions.DependencyInjection) | 1.0.0 | Bluesmile, Esteban Cortes | Microsoft.Extensions.DependencyInjection integration for AiSdk.Net: providers,… |
-| 2026-11-26 21:27:27 | [AiSdk.Net.VectorData](https://www.nuget.org/packages/AiSdk.Net.VectorData) | 1.0.0 | Bluesmile, Esteban Cortes | Microsoft.Extensions.VectorData adapter for AiSdk.Net: use any compatible conne… |
-| 2026-11-26 21:27:28 | [AiSdk.Net.Anthropic](https://www.nuget.org/packages/AiSdk.Net.Anthropic) | 1.0.0 | Bluesmile, Esteban Cortes | Anthropic (Claude) provider for AiSdk.Net: tools, streaming, extended thinking,… |
-| 2026-11-26 21:27:28 | [AiSdk.Net.AspNetCore](https://www.nuget.org/packages/AiSdk.Net.AspNetCore) | 1.0.0 | Bluesmile, Esteban Cortes | ASP.NET Core integration for AiSdk.Net: SSE streaming compatible with AI SDK UI… |
-| 2026-11-26 21:27:28 | [AiSdk.Net.OpenAI](https://www.nuget.org/packages/AiSdk.Net.OpenAI) | 1.0.0 | Bluesmile, Esteban Cortes | OpenAI provider for AiSdk.Net (Responses and Chat Completions), also for compat… |
-| 2026-11-26 21:27:29 | [AiSdk.Net.Workflows.Postgres](https://www.nuget.org/packages/AiSdk.Net.Workflows.Postgres) | 1.0.0 | Bluesmile, Esteban Cortes | PostgreSQL store for AiSdk.Net durable workflows: several replicas on different… |
-| 2026-11-26 21:27:29 | [AiSdk.Net.PgVector](https://www.nuget.org/packages/AiSdk.Net.PgVector) | 1.0.0 | Bluesmile, Esteban Cortes | PostgreSQL + pgvector vector store for AiSdk.Net: semantic and hybrid (vector +… |
-| 2026-11-26 21:27:30 | [AiSdk.Net](https://www.nuget.org/packages/AiSdk.Net) | 1.0.0 | Bluesmile, Esteban Cortes | AiSdk.Net core: GenerateText, StreamText, GenerateObject, tools, agents, multi-… |
-| 2026-11-26 21:27:30 | [AiSdk.Net.Mistral](https://www.nuget.org/packages/AiSdk.Net.Mistral) | 1.0.0 | Bluesmile, Esteban Cortes | Mistral AI provider for AiSdk.Net: chat, Magistral reasoning, tools, structured… |
-| 2026-11-26 21:30:03 | [Mediana.Documents.Excel](https://www.nuget.org/packages/Mediana.Documents.Excel) | 0.1.46 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-26 21:30:04 | [Mediana.Images.Apk](https://www.nuget.org/packages/Mediana.Images.Apk) | 0.1.46 | Vadim Belov | Managed multimedia building blocks for .NET. |
-| 2026-11-26 21:41:42 | [Viana.Results.AspNetCore](https://www.nuget.org/packages/Viana.Results.AspNetCore) | 1.0.0 | Gustavo Viana | ASP.NET Core integration for Viana.Results with native ProblemDetails interop:… |
-| 2026-11-26 21:52:45 | [Reignite.Optimizely.DotNetCounters](https://www.nuget.org/packages/Reignite.Optimizely.DotNetCounters) | 1.1.0 | Reignite Software Performance | .NET runtime and ASP.NET performance counters for Optimizely CMS V11, V12 and V… |
-| 2026-11-26 21:55:41 | [RobotRaconteur.Sharp.Gen](https://www.nuget.org/packages/RobotRaconteur.Sharp.Gen) | 0.22.0 | John Wason | Package Description |
-| 2026-11-26 21:55:42 | [RobotRaconteur.Sharp](https://www.nuget.org/packages/RobotRaconteur.Sharp) | 0.22.0 | John Wason | Package Description |
-| 2026-11-26 22:03:46 | [MarbleSoft.FlowModule.OpcUaPoller](https://www.nuget.org/packages/MarbleSoft.FlowModule.OpcUaPoller) | 0.1.0 | Mario Bless (MarbleSoft) | Package Description |
-| 2026-11-26 22:05:45 | [Reignite.Optimizely.Counters.Core](https://www.nuget.org/packages/Reignite.Optimizely.Counters.Core) | 1.1.0 | Reignite Software Performance | Core infrastructure for Optimizely performance counters - shared by CMS and Com… |
-| 2026-11-26 22:05:47 | [Reignite.Optimizely.Counters.CMS](https://www.nuget.org/packages/Reignite.Optimizely.Counters.CMS) | 1.1.0 | Reignite Software Performance | Performance counters for Optimizely CMS V11, V12, and V13 - Content, Cache, and… |
-| 2026-11-26 22:05:48 | [Reignite.Optimizely.Counters.Commerce](https://www.nuget.org/packages/Reignite.Optimizely.Counters.Commerce) | 1.1.0 | Reignite Software Performance | Performance counters for Optimizely Commerce V11, V12, and V13 - Orders, Pricin… |
-| 2026-11-26 22:06:09 | [Eternet.Ota.Contracts](https://www.nuget.org/packages/Eternet.Ota.Contracts) | 1.0.0 | Eternet | Control-plane contracts, authorization metadata, and EAC discovery localization… |
-| 2026-11-26 22:11:13 | [Canducci.Select2](https://www.nuget.org/packages/Canducci.Select2) | 1.0.0 | Fulvio Canducci | ASP.NET Core MVC model binding for Select2 requests and extension methods to co… |
+| 2026-11-26 22:34:24 | [Skywithin.DevKit](https://www.nuget.org/packages/Skywithin.DevKit) | 0.3.0 | Max Vagner | A markdown backlog in your repository (backlog/items/*.md with frontmatter) and… |
+| 2026-11-26 22:40:51 | [IOViewer.Cli.any](https://www.nuget.org/packages/IOViewer.Cli.any) | 0.4.2 | mahach666 | Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD… |
+| 2026-11-26 22:40:53 | [IOViewer.Cli.linux-x64](https://www.nuget.org/packages/IOViewer.Cli.linux-x64) | 0.4.2 | mahach666 | Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD… |
+| 2026-11-26 22:40:55 | [IOViewer.Cli.osx-arm64](https://www.nuget.org/packages/IOViewer.Cli.osx-arm64) | 0.4.2 | mahach666 | Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD… |
+| 2026-11-26 22:40:56 | [IOViewer.Cli.win-x64](https://www.nuget.org/packages/IOViewer.Cli.win-x64) | 0.4.2 | mahach666 | Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD… |
+| 2026-11-26 22:42:43 | [Gravicode.Science.DaskNet.Kafka](https://www.nuget.org/packages/Gravicode.Science.DaskNet.Kafka) | 2.5.0 | Gravicode Studios | Apache Kafka for Dask.Net streaming: consumer-group sources with checkpointed o… |
+| 2026-11-26 22:46:32 | [Umbraco.Community.Formulate.Extensions.SendEmail](https://www.nuget.org/packages/Umbraco.Community.Formulate.Extensions.SendEmail) | 5.0.0 | Nicholas Westby, Jamie Pollock | An email notification extension for Formulate, an advanced form builder for Umb… |
+| 2026-11-26 22:46:33 | [Umbraco.Community.Formulate.Extensions.PlainJavaScriptTemplate](https://www.nuget.org/packages/Umbraco.Community.Formulate.Extensions.PlainJavaScriptTemplate) | 5.0.0 | Nicholas Westby, Jamie Pollock | A plain JavaScript template extension for Formulate, an advanced form builder f… |
+| 2026-11-26 22:46:33 | [Umbraco.Community.Formulate.Extensions.SendData](https://www.nuget.org/packages/Umbraco.Community.Formulate.Extensions.SendData) | 5.0.0 | Nicholas Westby, Jamie Pollock | A data sending extension for Formulate, an advanced form builder for Umbraco. |
+| 2026-11-26 22:46:34 | [Umbraco.Community.Formulate.Web](https://www.nuget.org/packages/Umbraco.Community.Formulate.Web) | 5.0.0 | Nicholas Westby, Jamie Pollock | Web functionality for Formulate, an advanced form builder for Umbraco. |
+| 2026-11-26 22:46:34 | [Umbraco.Community.Formulate.Core](https://www.nuget.org/packages/Umbraco.Community.Formulate.Core) | 5.0.0 | Nicholas Westby, Jamie Pollock | Core functionality for Formulate, an advanced form builder for Umbraco. |
+| 2026-11-26 22:46:34 | [Umbraco.Community.Formulate.BackOffice](https://www.nuget.org/packages/Umbraco.Community.Formulate.BackOffice) | 5.0.0 | Nicholas Westby, Jamie Pollock | Backoffice functionality for Formulate, an advanced form builder for Umbraco. |
+| 2026-11-26 22:46:35 | [Umbraco.Community.Formulate](https://www.nuget.org/packages/Umbraco.Community.Formulate) | 5.0.0 | Nicholas Westby, Jamie Pollock | An advanced form builder for Umbraco. |
+| 2026-11-26 22:46:35 | [Umbraco.Community.Formulate.Extensions.StoreData](https://www.nuget.org/packages/Umbraco.Community.Formulate.Extensions.StoreData) | 5.0.0 | Nicholas Westby, Jamie Pollock | A data storage extension for Formulate, an advanced form builder for Umbraco. |
+| 2026-11-26 23:08:50 | [ModiImaging](https://www.nuget.org/packages/ModiImaging) | 1.1.1 | TonyRoma | Reads Microsoft Document Imaging (.mdi) files and extracts their text, without… |
+| 2026-11-26 23:08:51 | [ModiImaging.Drawing](https://www.nuget.org/packages/ModiImaging.Drawing) | 1.1.1 | TonyRoma | Rendering, printing and export (vector PDF through Microsoft Print to PDF, imag… |
+| 2026-11-26 23:08:52 | [ModiImaging.Ocr](https://www.nuget.org/packages/ModiImaging.Ocr) | 1.1.1 | TonyRoma | OCR for MDI/EMF/TIFF/image pages using the OCR engine built into Windows 10/11… |
 
 ## Data source
 

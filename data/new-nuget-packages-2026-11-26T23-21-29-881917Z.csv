@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-26T22:34:24.123Z,Skywithin.DevKit,0.3.0,Max Vagner,"A markdown backlog in your repository (backlog/items/*.md with frontmatter) and the commands that keep it consistent: rebuild the index, lint, set fields, query, renumber, draw a graph. Also checks commit subjects, summarises dotnet build and test logs, and tracks test durations. Settings come from…"
+2026-11-26T22:40:51.597Z,IOViewer.Cli.any,0.4.2,mahach666,Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD model viewers with no external dependencies that work offline.
+2026-11-26T22:40:53.2Z,IOViewer.Cli.linux-x64,0.4.2,mahach666,Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD model viewers with no external dependencies that work offline.
+2026-11-26T22:40:55.08Z,IOViewer.Cli.osx-arm64,0.4.2,mahach666,Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD model viewers with no external dependencies that work offline.
+2026-11-26T22:40:56.817Z,IOViewer.Cli.win-x64,0.4.2,mahach666,Command line tool for generating standalone interactive 3D WebGL/HTML BIM & CAD model viewers with no external dependencies that work offline.
+2026-11-26T22:42:43.503Z,Gravicode.Science.DaskNet.Kafka,2.5.0,Gravicode Studios,"Apache Kafka for Dask.Net streaming: consumer-group sources with checkpointed offsets, and a transactional sink that makes checkpointed queries exactly-once. Dibuat oleh Gravicode Studios, dipimpin oleh Kang Fadhil."
+2026-11-26T22:46:32.997Z,Umbraco.Community.Formulate.Extensions.SendEmail,5.0.0,"Nicholas Westby, Jamie Pollock","An email notification extension for Formulate, an advanced form builder for Umbraco."
+2026-11-26T22:46:33.383Z,Umbraco.Community.Formulate.Extensions.PlainJavaScriptTemplate,5.0.0,"Nicholas Westby, Jamie Pollock","A plain JavaScript template extension for Formulate, an advanced form builder for Umbraco."
+2026-11-26T22:46:33.713Z,Umbraco.Community.Formulate.Extensions.SendData,5.0.0,"Nicholas Westby, Jamie Pollock","A data sending extension for Formulate, an advanced form builder for Umbraco."
+2026-11-26T22:46:34.023Z,Umbraco.Community.Formulate.Web,5.0.0,"Nicholas Westby, Jamie Pollock","Web functionality for Formulate, an advanced form builder for Umbraco."
+2026-11-26T22:46:34.343Z,Umbraco.Community.Formulate.Core,5.0.0,"Nicholas Westby, Jamie Pollock","Core functionality for Formulate, an advanced form builder for Umbraco."
+2026-11-26T22:46:34.67Z,Umbraco.Community.Formulate.BackOffice,5.0.0,"Nicholas Westby, Jamie Pollock","Backoffice functionality for Formulate, an advanced form builder for Umbraco."
+2026-11-26T22:46:35.027Z,Umbraco.Community.Formulate,5.0.0,"Nicholas Westby, Jamie Pollock",An advanced form builder for Umbraco.
+2026-11-26T22:46:35.37Z,Umbraco.Community.Formulate.Extensions.StoreData,5.0.0,"Nicholas Westby, Jamie Pollock","A data storage extension for Formulate, an advanced form builder for Umbraco."
+2026-11-26T23:08:50.977Z,ModiImaging,1.1.1,TonyRoma,"Reads Microsoft Document Imaging (.mdi) files and extracts their text, without Office and without dependencies. Extracts the EMF pages, cleans up proprietary MODI records and returns the text with coordinates in millimetres."
+2026-11-26T23:08:51.76Z,ModiImaging.Drawing,1.1.1,TonyRoma,"Rendering, printing and export (vector PDF through Microsoft Print to PDF, image-based PDF, PNG) of MDI, EMF, WMF, multi-page TIFF and image documents. Windows only, no third-party libraries."
+2026-11-26T23:08:52.577Z,ModiImaging.Ocr,1.1.1,TonyRoma,OCR for MDI/EMF/TIFF/image pages using the OCR engine built into Windows 10/11 (Windows.Media.Ocr). No third-party libraries and no online services.
