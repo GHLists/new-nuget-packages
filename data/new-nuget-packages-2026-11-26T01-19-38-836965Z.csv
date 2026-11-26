@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-26T00:41:13.63Z,DbRelay.Abstractions,0.1.0,DbRelay contributors,"Contracts for DbRelay, a lightweight transactional outbox for .NET: IOutbox, OutboxMessage, IMessageDeliveryHandler and DeliveryResult. Reference this package from application and handler code; it has no dependencies."
+2026-11-26T00:41:14.36Z,DbRelay.PostgreSql,0.1.0,DbRelay contributors,"PostgreSQL storage provider for DbRelay (Npgsql): transactional outbox inserts in the caller's NpgsqlTransaction, FOR UPDATE SKIP LOCKED claiming with leases and lock tokens, retention cleanup and explicit, idempotent schema creation."
+2026-11-26T00:41:15.067Z,DbRelay,0.1.0,DbRelay contributors,"DbRelay engine: transactional outbox registration, background dispatcher with leases and lock tokens, retries with jittered backoff, dead-lettering, health checks and OpenTelemetry-compatible traces and metrics. Pair it with a storage provider such as DbRelay.PostgreSql."
+2026-11-26T01:13:21.983Z,WASU.Plugin.Iot.Storage.Timescale,26.1126.9,WASU.Plugin.Iot.Storage.Timescale,Package Description
