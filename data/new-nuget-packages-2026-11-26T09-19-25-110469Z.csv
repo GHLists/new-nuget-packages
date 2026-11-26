@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-26T08:23:48.973Z,Boyner.HelloWorld,1.0.0,Boyner,A simple Hello World package by Boyner. Adds the Boyner.HelloWorld.Greeter class to the consuming project.
+2026-11-26T08:35:39.617Z,Dharmu.Security.Core,0.2.0,Dharmendra Gupta,Core contracts and ECDSA P-256 validation for signed offline software licenses and activation requests on .NET 10.
+2026-11-26T08:36:43.703Z,Dharmu.Security.Windows,0.2.0,Dharmendra Gupta,"Windows CNG device identity, optional TPM-backed signing identity, and device-key-bound DPAPI secret protection for .NET 10 Windows applications."
+2026-11-26T08:37:01.27Z,Dharmu.Security.AspNetCore,0.2.0,Dharmendra Gupta,"Offline license enforcement middleware, signed activation endpoints, revision and clock rollback checks, and protected connection strings for ASP.NET Core 10 on Windows."
+2026-11-26T08:52:14.823Z,DeepBlue.FunctionTraceTime.Core,1.0.0,DeepBlue.FunctionTraceTime.Core,一个方法追踪日记
