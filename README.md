@@ -12,18 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 07:21 UTC
+## Latest list — 2026-11-26 08:21 UTC
 
-New packages created between 2026-11-26 06:19 UTC and 2026-11-26 07:21 UTC.
+New packages created between 2026-11-26 07:21 UTC and 2026-11-26 08:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-26T07-21-07-215259Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-26T08-21-36-652113Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 06:47:57 | [SDS.Outbox.NHibernate.Redis](https://www.nuget.org/packages/SDS.Outbox.NHibernate.Redis) | 1.3.0 | Hieu Doan | Redis distributed notification and partition lease for the NHibernate transacti… |
-| 2026-11-26 07:05:16 | [JJ.Framework.Xml.Legacy](https://www.nuget.org/packages/JJ.Framework.Xml.Legacy) | 0.262.7664 | JJ van Zon | XmlToObjectConverter converts an XmlDocument or string to an object graph. The… |
-| 2026-11-26 07:09:11 | [Magic.IndexedDb.Cli](https://www.nuget.org/packages/Magic.IndexedDb.Cli) | 3.0.0 | Magic Man | Code-first, language-independent migration planning, validation, and static pub… |
-| 2026-11-26 07:13:54 | [Fork.EFCore.BulkExtensions.MIT.SqlServer](https://www.nuget.org/packages/Fork.EFCore.BulkExtensions.MIT.SqlServer) | 11.22.0 | borisdj, Jindrich Cincibuch,… | EF Core 11 build of EFCore.BulkExtensions.MIT.SqlServer (bulk Insert, Update, D… |
+| 2026-11-26 07:26:02 | [Mermaider.Animate](https://www.nuget.org/packages/Mermaider.Animate) | 0.19.0 | Nullean and contributors | Animate Mermaid diagrams with a small score language: the author says what happ… |
+| 2026-11-26 07:28:49 | [KupaKuper_Language](https://www.nuget.org/packages/KupaKuper_Language) | 1.0.0 | KupaKpuer | 一个使用本地语言包为基准的极简国际化文本支持包,适合小型项目的多语言切换支持 |
+| 2026-11-26 07:32:11 | [Mediana.Codecs.Ffv1](https://www.nuget.org/packages/Mediana.Codecs.Ffv1) | 0.1.45 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-26 07:32:23 | [Mediana.Containers.Asf](https://www.nuget.org/packages/Mediana.Containers.Asf) | 0.1.45 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-26 07:34:10 | [Alder.Avalonia](https://www.nuget.org/packages/Alder.Avalonia) | 1.0.0-preview | Alder.Avalonia contributors | Native Avalonia controls for forms, colors, navigation, data display, and AI co… |
+| 2026-11-26 07:44:47 | [DbLive.Testcontainers.PostgreSQL](https://www.nuget.org/packages/DbLive.Testcontainers.PostgreSQL) | 2.0.0 | ZACoders | Runs DbLive SQL tests against PostgreSQL in Docker (Testcontainers): a fixture… |
+| 2026-11-26 07:44:47 | [DbLive.Testcontainers.MSSQL](https://www.nuget.org/packages/DbLive.Testcontainers.MSSQL) | 2.0.0 | ZACoders | Runs DbLive SQL tests against SQL Server in Docker (Testcontainers): a fixture… |
+| 2026-11-26 07:44:49 | [DbLive.Templates](https://www.nuget.org/packages/DbLive.Templates) | 2.0.0 | ZACoders | dotnet new template for DbLive: "dotnet new dblive" creates a SQL Server or Pos… |
+| 2026-11-26 07:57:42 | [Admin.NET.Plugin.Pro](https://www.nuget.org/packages/Admin.NET.Plugin.Pro) | 2.0.1 | cf | cf 通用开发平台 1.0.2 去除打包时配置文件，避免覆盖问题。 1.0.4 调试问题 1.0.5 修改基类字段名称，与老系统保持一致 1.0.7 swag… |
+| 2026-11-26 08:00:44 | [OpenRobot.Edge.DcFrame](https://www.nuget.org/packages/OpenRobot.Edge.DcFrame) | 0.1.0 | OpenRobot | DC 原始帧本地接入契约：帧结构、二进制编解码、同机点对点服务端与客户端（NamedPipe / Unix Domain Socket）。 |
+| 2026-11-26 08:03:21 | [OpenIGI.Releases](https://www.nuget.org/packages/OpenIGI.Releases) | 0.6.9 | OpenIGI Contributors | Package Description |
+| 2026-11-26 08:05:31 | [Taskus.Core](https://www.nuget.org/packages/Taskus.Core) | 0.8.0 | vdasus | Task model, validation, mapping, sources and sinks of Taskus, a command-line to… |
+| 2026-11-26 08:10:54 | [Hexalith.Folders.EventStoreExtensions](https://www.nuget.org/packages/Hexalith.Folders.EventStoreExtensions) | 2.1.0 | Hexalith Contributors | Folders' idempotency intent policies for the Hexalith EventStore extension API. |
 
 ## Data source
 
