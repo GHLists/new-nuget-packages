@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-26T06:47:57.387Z,SDS.Outbox.NHibernate.Redis,1.3.0,Hieu Doan,Redis distributed notification and partition lease for the NHibernate transactional outbox (SDS.Outbox.NHibernate)
+2026-11-26T07:05:16.877Z,JJ.Framework.Xml.Legacy,0.262.7664,JJ van Zon,XmlToObjectConverter converts an XmlDocument or string to an object graph. The way to map XML to classes is easier than the classic ways in .NET. XmlHelper allows you to access XML in a null-safe and multiplicity-safe way. It uses XmlDocument as the underlying .NET API.
+2026-11-26T07:09:11.677Z,Magic.IndexedDb.Cli,3.0.0,Magic Man,"Code-first, language-independent migration planning, validation, and static publishing for Magic IndexedDB."
+2026-11-26T07:13:54.373Z,Fork.EFCore.BulkExtensions.MIT.SqlServer,11.22.0,"borisdj, Jindrich Cincibuch, Oleksandr Semeniuk","EF Core 11 build of EFCore.BulkExtensions.MIT.SqlServer (bulk Insert, Update, Delete, Read and BatchUpdate/BatchDelete for SQL Server), published from a fork until upstream releases EF Core 11 support. Same code, assembly and namespaces as upstream. Not affiliated with the upstream maintainers."
