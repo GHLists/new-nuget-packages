@@ -1,0 +1,7 @@
+created_at,package,version,authors,description
+2026-11-27T01:33:49.983Z,BYO.Plugin.Infrastructure,1.44.0-gceec1e4b5e,softwareworkercom,"Infrastructure plugin for SoftwareWorker BYO (Build Your Own) CLI, including SQL Server, MongoDB, PostgreSQL, read-only ActiveMQ queue browsing and Redis key reading."
+2026-11-27T01:34:09.297Z,Quick.EntityFrameworkCore.Plus.MongoDB,2026.11.0,scbeta,Quick.EntityFrameworkCore.Plus的MongoDB数据库支持。
+2026-11-27T01:46:51.703Z,Clc.Authentication,1.0.1,Central Library Consortium,Microsoft Entra ID sign-in and CLC membership authorization for ASP.NET Core web apps.
+2026-11-27T01:47:34.54Z,Devinno.UI.Wpf,0.9.2,Devinno,"WPF adapter for Devinno.UI: ViewControl puts a DvApp in a WPF window (IME text input including Korean, optional touch mode, theme-colored title bar and menus). The app must target net9.0-windows10.0.19041.0 or later."
+2026-11-27T01:58:32.563Z,MvcThrottle2,3.0.1,John J Scott,"MvcThrottle2 filter is designed for controlling the rate of requests that clients can make to a website based on IP address, request route, user-agent and client identity. You can set multiple limits for different scenarios like allowing an IP to make a maximum number of calls per second, per minut…"
+2026-11-27T01:59:55Z,XH.OA.UTILS,6.26.600,XhLab,XH实验室管理通用方法代码库
