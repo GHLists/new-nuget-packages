@@ -12,27 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 20:20 UTC
+## Latest list — 2026-11-27 21:20 UTC
 
-New packages created between 2026-11-27 19:20 UTC and 2026-11-27 20:20 UTC.
+New packages created between 2026-11-27 20:20 UTC and 2026-11-27 21:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T20-20-53-433648Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T21-20-31-733815Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 19:25:10 | [VNCore](https://www.nuget.org/packages/VNCore) | 1.0.0 | VNCore | Package Description |
-| 2026-11-27 19:28:48 | [Everlong.CommandLine](https://www.nuget.org/packages/Everlong.CommandLine) | 0.2.1 | Richard Zheng | Everlong.CommandLine — command-tree based CLI framework built on System.Command… |
-| 2026-11-27 19:45:43 | [B4n1.Telemetry](https://www.nuget.org/packages/B4n1.Telemetry) | 0.1.1 | B4N1 | Drop-in error reporting to your own b4n1-telemetry collector. Zero dependencies. |
-| 2026-11-27 19:46:01 | [B4n1.Notary](https://www.nuget.org/packages/B4n1.Notary) | 0.2.1 | b4n1-notary | Authorship integrity and sealing: stamp, verify and list the proofs of a projec… |
-| 2026-11-27 19:56:43 | [WebTools.StcCommon](https://www.nuget.org/packages/WebTools.StcCommon) | 10.0.0 | WebTools.StcCommon | Package Description |
-| 2026-11-27 19:57:17 | [Shoko.QueueProcessor](https://www.nuget.org/packages/Shoko.QueueProcessor) | 6.0.0 | Shoko Team | A lightweight, persistent, attribute-driven background job queue for .NET, the… |
-| 2026-11-27 19:57:18 | [Shoko.Abstractions](https://www.nuget.org/packages/Shoko.Abstractions) | 6.0.0 | Shoko Team | The contract between Shoko Server and its plugins: the interfaces, models and e… |
-| 2026-11-27 20:06:04 | [VNCore.Godot](https://www.nuget.org/packages/VNCore.Godot) | 1.0.0 | ManWithBaguette | Godot integration for VNCore. |
-| 2026-11-27 20:09:37 | [WebTools.StcData](https://www.nuget.org/packages/WebTools.StcData) | 10.0.0 | WebTools.StcData | Package Description |
-| 2026-11-27 20:12:08 | [Shoko.Plugin.OfflineImporter.Abstractions](https://www.nuget.org/packages/Shoko.Plugin.OfflineImporter.Abstractions) | 2.0.1 | Shoko Team | The contracts another Shoko plugin uses to run the Offline Importer's file name… |
-| 2026-11-27 20:12:59 | [LANCommander.Server.Plugins](https://www.nuget.org/packages/LANCommander.Server.Plugins) | 2.2.0 | pathartl | The contracts a LANCommander server plugin builds against: navigation, routes,… |
-| 2026-11-27 20:14:44 | [InfraBase](https://www.nuget.org/packages/InfraBase) | 5.14.0 | Kerberos SA | EF Core data-access, multi-tenant and RBAC infrastructure for SQL Server, host-… |
-| 2026-11-27 20:15:33 | [Metigator.NumberSystem.Mahmoud](https://www.nuget.org/packages/Metigator.NumberSystem.Mahmoud) | 1.0.0 | Mahmoud Ashraf | Convert Between Numbers From Different Bases |
+| 2026-11-27 20:26:30 | [Browshot](https://www.nuget.org/packages/Browshot) | 2.0.1 | Browshot | C# client for the Browshot API. |
+| 2026-11-27 20:36:02 | [Gtk.Windows.Forms.Automation](https://www.nuget.org/packages/Gtk.Windows.Forms.Automation) | 1.4.2464.26331 | Piero Viano | Drive the forms of a Gtk.Windows.Forms.Base application from code: show a form,… |
+| 2026-11-27 20:36:04 | [Gtk.Windows.Forms.Automation.Xunit](https://www.nuget.org/packages/Gtk.Windows.Forms.Automation.Xunit) | 1.4.2464.26331 | Piero Viano | An xUnit v2 test framework that runs every test of an assembly on one dedicated… |
+| 2026-11-27 20:36:23 | [Saraff.Twain.Aux.Contracts](https://www.nuget.org/packages/Saraff.Twain.Aux.Contracts) | 2.0.0 | SARAFF | Wire contracts for Saraff.Twain.Aux. |
+| 2026-11-27 20:37:35 | [bottlenoselabs.Sdk](https://www.nuget.org/packages/bottlenoselabs.Sdk) | 2026.11.27-rc | bottlenoselabs | The MSBuild SDK for C# libraries and apps at Bottlenose Labs. Wraps Microsoft.N… |
+| 2026-11-27 20:37:36 | [bottlenoselabs.Sdk.WebApp](https://www.nuget.org/packages/bottlenoselabs.Sdk.WebApp) | 2026.11.27-rc | bottlenoselabs | The MSBuild SDK for C# web apps at Bottlenose Labs. Wraps Microsoft.NET.Sdk.Web. |
+| 2026-11-27 20:37:37 | [bottlenoselabs.Sdk.GameApp](https://www.nuget.org/packages/bottlenoselabs.Sdk.GameApp) | 2026.11.27-rc | bottlenoselabs | The MSBuild SDK for C# games at Bottlenose Labs. Wraps Microsoft.NET.Sdk. |
+| 2026-11-27 20:37:37 | [bottlenoselabs.Templates](https://www.nuget.org/packages/bottlenoselabs.Templates) | 2026.11.27-rc | bottlenoselabs | `dotnet new` templates for repositories on the bottlenoselabs.Sdk MSBuild SDKs:… |
+| 2026-11-27 20:50:25 | [M0LTE.OfdmFm](https://www.nuget.org/packages/M0LTE.OfdmFm) | 0.1.0 | Tom Fanning M0LTE | An adaptive OFDM modem for the audio path of an FM radio, for .NET. Every burst… |
+| 2026-11-27 20:56:57 | [Noggog.Build.Dev](https://www.nuget.org/packages/Noggog.Build.Dev) | 5.0.2 | Noggog | Shared local-development MSBuild targets for Noggog repos. Clears a freshly pac… |
+| 2026-11-27 21:09:58 | [Surly.Surl.Api](https://www.nuget.org/packages/Surly.Surl.Api) | 0.1.12 | Stewart Scott Rogers | Starts and stops Surl servers in-process for a .NET test suite: Surl is the ser… |
+| 2026-11-27 21:10:00 | [Surly.Surl.Mcp](https://www.nuget.org/packages/Surly.Surl.Mcp) | 0.1.12 | Stewart Scott Rogers | An MCP server whose tools let AI agents start, list and stop Surl protocol serv… |
 
 ## Data source
 
