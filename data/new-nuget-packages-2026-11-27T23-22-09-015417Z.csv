@@ -1,0 +1,6 @@
+created_at,package,version,authors,description
+2026-11-27T22:28:56.913Z,Tenable.Api,1.0.50,Panoramic Data Limited,"A typed, modern .NET client for the Tenable REST APIs: Attack Surface Management (ASM), Vulnerability Management, Platform and Settings, Web App Scanning, MSSP, Exposure Management, PCI ASV, Identity Exposure, Enclave Security and Downloads, with read-only mode, tolerant models and rate-limit aware…"
+2026-11-27T22:29:41.837Z,TrueMediator,3.0.0,Kamyab Valipour,"A free, lightweight MediatR alternative with source-generated dispatch, Native AOT support, ordered pipelines, and notifications."
+2026-11-27T22:29:43.703Z,TrueMediator.Contracts,3.0.0,Kamyab Valipour,"Contracts for TrueMediator requests, pipelines, and notifications."
+2026-11-27T22:29:45.01Z,TrueMediator.EntityFrameworkCore,3.0.0,Kamyab Valipour,Attribute-selected Entity Framework Core transactions for TrueMediator requests.
+2026-11-27T22:29:46.347Z,TrueMediator.FluentValidation,3.0.0,Kamyab Valipour,Asynchronous FluentValidation request pipeline integration for TrueMediator.
