@@ -12,32 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 14:19 UTC
+## Latest list — 2026-11-27 15:20 UTC
 
-New packages created between 2026-11-27 13:21 UTC and 2026-11-27 14:19 UTC.
+New packages created between 2026-11-27 14:19 UTC and 2026-11-27 15:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T14-19-43-936321Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T15-20-00-140734Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 13:22:59 | [BetterStack.Pulumi](https://www.nuget.org/packages/BetterStack.Pulumi) | 1.4.0 | Better Stack | A Pulumi package for managing Better Stack Account, Errors, Incidents and Telem… |
-| 2026-11-27 13:28:39 | [OurOwn.DocKit](https://www.nuget.org/packages/OurOwn.DocKit) | 0.5.2 | CTNS | OurOwn DocKit - dependency-free Excel (XLSX), CSV and PDF for .NET 8, 9 and 10.… |
-| 2026-11-27 13:28:42 | [OurOwn.DocKit.Fonts](https://www.nuget.org/packages/OurOwn.DocKit.Fonts) | 0.5.2 | CTNS | Default fonts for OurOwn DocKit PDFs: Noto Sans, Noto Sans Gujarati and Noto Sa… |
-| 2026-11-27 13:28:45 | [OurOwn.Templates](https://www.nuget.org/packages/OurOwn.Templates) | 0.5.2 | CTNS | dotnet new templates for OurOwn UI: ourown-admin, a Blazor Web App with an admi… |
-| 2026-11-27 13:28:49 | [OurOwn.UI](https://www.nuget.org/packages/OurOwn.UI) | 0.5.2 | CTNS | OurOwn UI - 200+ Blazor components for business applications: layout, inputs, p… |
-| 2026-11-27 13:35:39 | [Lokad.GZip](https://www.nuget.org/packages/Lokad.GZip) | 0.1.0 | Lokad | Deterministic managed gzip streams for .NET. |
-| 2026-11-27 13:38:57 | [HRBN.Dynatrace.Api.Client](https://www.nuget.org/packages/HRBN.Dynatrace.Api.Client) | 0.1.0 | Paweł Harbuz | Asynchronous, trimming- and Native-AOT-compatible .NET client for the Dynatrace… |
-| 2026-11-27 13:38:58 | [HRBN.Dynatrace.Api.Client.DependencyInjection](https://www.nuget.org/packages/HRBN.Dynatrace.Api.Client.DependencyInjection) | 0.1.0 | Paweł Harbuz | Microsoft.Extensions.DependencyInjection registrations for Dynatrace.Api.Client… |
-| 2026-11-27 13:42:34 | [OpenCertServer.Amd.Native](https://www.nuget.org/packages/OpenCertServer.Amd.Native) | 5.0.0-beta-82 | OpenCertServer | Native AMD SEV-SNP user-space driver (amd_snp_driver) packaged using .NET RID c… |
-| 2026-11-27 13:42:38 | [opencertserver.attestation](https://www.nuget.org/packages/opencertserver.attestation) | 5.0.0-beta-82 | Jacob Reimers | ASP.NET Core implementation of RFC 7030 certificate authority and issuer and RF… |
-| 2026-11-27 13:48:41 | [Umbraco.Community.PunkTwoFactor](https://www.nuget.org/packages/Umbraco.Community.PunkTwoFactor) | 18.3.2.9 | Gareth Wright | An app_plugin for Umbraco that sets up Two Factor Authentication. |
-| 2026-11-27 13:52:30 | [bb-mask](https://www.nuget.org/packages/bb-mask) | 0.3.1 | BigBrains | bb-mask client. anonymize and restore; no model calls. |
-| 2026-11-27 14:01:57 | [FEPBA.Helper.WebSocket](https://www.nuget.org/packages/FEPBA.Helper.WebSocket) | 10.0.0 | Mauricio Agosta | Librería del bloque para WebSockets sacado de FEPBA.Helper. |
-| 2026-11-27 14:11:57 | [Ogooreck.Marten](https://www.nuget.org/packages/Ogooreck.Marten) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for Marten: records the events an in-process app appends and wa… |
-| 2026-11-27 14:11:58 | [Ogooreck.Kafka](https://www.nuget.org/packages/Ogooreck.Kafka) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for Kafka: records the messages an app publishes and, for an in… |
-| 2026-11-27 14:11:59 | [Ogooreck.Mcp](https://www.nuget.org/packages/Ogooreck.Mcp) | 1.0.0 | Oskar Dudycz | MCP server that runs .NET tests and explains them to coding agents with the Ope… |
-| 2026-11-27 14:12:00 | [Ogooreck.Wolverine](https://www.nuget.org/packages/Ogooreck.Wolverine) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for Wolverine: records the messages an in-process app publishes… |
-| 2026-11-27 14:12:00 | [Ogooreck.RabbitMQ](https://www.nuget.org/packages/Ogooreck.RabbitMQ) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for RabbitMQ: records the messages an in-process app publishes… |
+| 2026-11-27 14:35:39 | [Routebase.AspNetCore](https://www.nuget.org/packages/Routebase.AspNetCore) | 1.0.0 | Routebase GmbH | Stop the OpenAPI document of your ASP.NET Core API from drifting away from the… |
+| 2026-11-27 14:37:46 | [WiDas.Sdk.Windows](https://www.nuget.org/packages/WiDas.Sdk.Windows) | 0.5.1 | Ameriband | Wi-DAS Windows SDK: Device key handling, Signing Request generation and Passpoi… |
+| 2026-11-27 14:45:17 | [BeeAppie.Maui.MTAdmob](https://www.nuget.org/packages/BeeAppie.Maui.MTAdmob) | 1.0.2 | BeeAppie | Shows your BeeAppie promos in banner slots AdMob could not fill, through MTAdmo… |
+| 2026-11-27 14:45:47 | [Majorsilence.AppleTools](https://www.nuget.org/packages/Majorsilence.AppleTools) | 0.1.0 | Peter Gill | Open-source C# stand-ins for the Xcode command-line tools the .NET iOS workload… |
+| 2026-11-27 14:52:07 | [DS.Foundation.MultiTenancy](https://www.nuget.org/packages/DS.Foundation.MultiTenancy) | 9.0.3 | DS | Resolución de tenant_code (ITenantContext); Etapa A sin catálogo ni pool/silo. |
+| 2026-11-27 14:52:23 | [DS.Foundation.MultiTenancy.AspNetCore](https://www.nuget.org/packages/DS.Foundation.MultiTenancy.AspNetCore) | 9.0.3 | DS | ASP.NET Core: ITenantContext from JWT GroupSid. |
+| 2026-11-27 14:52:32 | [Pernix.OutboxRelay.Destination.Http](https://www.nuget.org/packages/Pernix.OutboxRelay.Destination.Http) | 1.1.0 | Pernix | Package Description |
+| 2026-11-27 14:53:54 | [FargaStudios.Suite.Updater](https://www.nuget.org/packages/FargaStudios.Suite.Updater) | 0.2.1 | Farga Studios | Signed update manifests, verified downloads and Windows installer handoff for i… |
+| 2026-11-27 14:57:56 | [Lokad.UnixTools](https://www.nuget.org/packages/Lokad.UnixTools) | 0.1.0 | Lokad | Unix-style commands for .NET applications with host-controlled I/O. |
+| 2026-11-27 14:59:14 | [Meziantou.Framework.WasmEngine.Wasi](https://www.nuget.org/packages/Meziantou.Framework.WasmEngine.Wasi) | 1.0.0 | meziantou | WASI for Meziantou.Framework.WasmEngine: WASI Preview 1 (wasi_snapshot_preview1… |
+| 2026-11-27 15:03:10 | [RasterizedDb.EntityFrameworkCore](https://www.nuget.org/packages/RasterizedDb.EntityFrameworkCore) | 1.1.0 | Milen Denev | Entity Framework Core provider for RasterizedDB over its native protocol (rastc… |
+| 2026-11-27 15:03:11 | [RasterizedDb.Data](https://www.nuget.org/packages/RasterizedDb.Data) | 1.1.0 | Milen Denev | ADO.NET driver for RasterizedDB's native protocol (rastcp): SQL, transactions,… |
+| 2026-11-27 15:03:11 | [RasterizedDb.Messaging](https://www.nuget.org/packages/RasterizedDb.Messaging) | 1.1.0 | Milen Denev | Client for RasterizedDB's message broker (rdbmq/1): queues, topics, subscriptio… |
 
 ## Data source
 

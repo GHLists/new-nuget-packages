@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-27T14:35:39.343Z,Routebase.AspNetCore,1.0.0,Routebase GmbH,"Stop the OpenAPI document of your ASP.NET Core API from drifting away from the code. Every build writes it as JSON and YAML, and your app serves a beautiful interactive API reference for it. Connected to Routebase, the same build lints and rates the API, sets up a mock server and smoke tests, and f…"
+2026-11-27T14:37:46.147Z,WiDas.Sdk.Windows,0.5.1,Ameriband,"Wi-DAS Windows SDK: Device key handling, Signing Request generation and Passpoint Profile installation. Requires Windows 10 1607 (10.0.14393) or later."
+2026-11-27T14:45:17.43Z,BeeAppie.Maui.MTAdmob,1.0.2,BeeAppie,"Shows your BeeAppie promos in banner slots AdMob could not fill, through MTAdmob (Plugin.MauiMTAdmob 3.1 or later): one line, UseBeeAppiePromos(), and every MTAdView gets the fallback."
+2026-11-27T14:45:47.563Z,Majorsilence.AppleTools,0.1.0,Peter Gill,"Open-source C# stand-ins for the Xcode command-line tools the .NET iOS workload calls (xcrun, clang through zig, codesign, ibtool, actool, ditto, ...), with iOS linker stubs made without the Apple SDK. For local development builds on Linux, Windows and macOS, not App Store distribution."
+2026-11-27T14:52:07.67Z,DS.Foundation.MultiTenancy,9.0.3,DS,Resolución de tenant_code (ITenantContext); Etapa A sin catálogo ni pool/silo.
+2026-11-27T14:52:23.68Z,DS.Foundation.MultiTenancy.AspNetCore,9.0.3,DS,ASP.NET Core: ITenantContext from JWT GroupSid.
+2026-11-27T14:52:32.977Z,Pernix.OutboxRelay.Destination.Http,1.1.0,Pernix,Package Description
+2026-11-27T14:53:54.413Z,FargaStudios.Suite.Updater,0.2.1,Farga Studios,"Signed update manifests, verified downloads and Windows installer handoff for independent applications."
+2026-11-27T14:57:56.063Z,Lokad.UnixTools,0.1.0,Lokad,Unix-style commands for .NET applications with host-controlled I/O.
+2026-11-27T14:59:14.88Z,Meziantou.Framework.WasmEngine.Wasi,1.0.0,meziantou,"WASI for Meziantou.Framework.WasmEngine: WASI Preview 1 (wasi_snapshot_preview1) for modules, and WASI 0.2 and 0.3 for components, with arguments, environment variables, clocks, random numbers, standard streams, exit codes, a sandboxed file system of preopened directories on the disk or in memory,…"
+2026-11-27T15:03:10.26Z,RasterizedDb.EntityFrameworkCore,1.1.0,Milen Denev,Entity Framework Core provider for RasterizedDB over its native protocol (rastcp).
+2026-11-27T15:03:11.23Z,RasterizedDb.Data,1.1.0,Milen Denev,"ADO.NET driver for RasterizedDB's native protocol (rastcp): SQL, transactions, administration and the key/value cache, without the PostgreSQL wire layer."
+2026-11-27T15:03:11.87Z,RasterizedDb.Messaging,1.1.0,Milen Denev,"Client for RasterizedDB's message broker (rdbmq/1): queues, topics, subscriptions with credits and acknowledgements, exchanges. Pre-production: the protocol is not frozen."
