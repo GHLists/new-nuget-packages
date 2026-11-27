@@ -1,0 +1,5 @@
+created_at,package,version,authors,description
+2026-11-27T04:36:57.81Z,Polhem.Chat.Blazor,0.3.0,Polhem contributors,"An AI chat component for Blazor, Server and WebAssembly: streamed replies rendered as Markdown, reasoning, tool calls and their approval, per-turn usage, stop, copy and attachments, on top of any Microsoft.Extensions.AI IChatClient."
+2026-11-27T04:37:17.577Z,OD.AI,1.0.1,Olivier Dahan,Asynchronous provider clients for .NET applications.
+2026-11-27T04:37:18.78Z,OD.AI.Wpf,1.0.1,Olivier Dahan,Optional WPF profile editor for OD.AI.
+2026-11-27T05:08:51.74Z,Bmailu,0.1.0,Bmailu,.NET SDK for the Bmailu Email API.

@@ -12,23 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 04:21 UTC
+## Latest list — 2026-11-27 05:19 UTC
 
-New packages created between 2026-11-27 03:20 UTC and 2026-11-27 04:21 UTC.
+New packages created between 2026-11-27 04:21 UTC and 2026-11-27 05:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T04-21-16-66674Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T05-19-30-512069Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 03:49:27 | [SS.PaddleOCR.ModelProvider](https://www.nuget.org/packages/SS.PaddleOCR.ModelProvider) | 1.0.0 | sdcb | OCR model contracts (IPaddleOcrModelProvider / PaddleOcrModelBundle). |
-| 2026-11-27 03:49:29 | [SS.PaddleOCR.Models.TextLineOrientation](https://www.nuget.org/packages/SS.PaddleOCR.Models.TextLineOrientation) | 1.0.0 | sdcb | Embedded PP-LCNet text-line orientation (CLS) model for PP-OCR. |
-| 2026-11-27 03:49:32 | [SS.PaddleOCR.Models.ChineseV6Tiny](https://www.nuget.org/packages/SS.PaddleOCR.Models.ChineseV6Tiny) | 1.0.0 | sdcb | Embedded PP-OCRv6 tiny Chinese DET+REC+dictionary models. |
-| 2026-11-27 03:49:35 | [SS.PaddleOCR.Models.ChineseV6Small](https://www.nuget.org/packages/SS.PaddleOCR.Models.ChineseV6Small) | 1.0.0 | sdcb | Embedded PP-OCRv6 small Chinese DET+REC+dictionary models. |
-| 2026-11-27 03:49:39 | [SS.PaddleOCR.Models.ChineseV6Medium](https://www.nuget.org/packages/SS.PaddleOCR.Models.ChineseV6Medium) | 1.0.0 | sdcb | Embedded PP-OCRv6 medium Chinese DET+REC+dictionary models. |
-| 2026-11-27 03:49:42 | [SS.PaddleOCR.Models.KoreanV5Mobile](https://www.nuget.org/packages/SS.PaddleOCR.Models.KoreanV5Mobile) | 1.0.0 | sdcb | Embedded PP-OCRv5 mobile Korean DET+REC+dictionary models. |
-| 2026-11-27 03:49:44 | [SS.PaddleOCR](https://www.nuget.org/packages/SS.PaddleOCR) | 1.0.0 | sdcb | Pure C# PP-OCRv5 and PP-OCRv6 inference (DET + CLS + REC). Cross-platform hand-… |
-| 2026-11-27 03:50:50 | [Stockfish.Uci](https://www.nuget.org/packages/Stockfish.Uci) | 0.1.0 | Rodrigo Alarcón | A modern, strongly typed .NET client for Universal Chess Interface engines, des… |
-| 2026-11-27 04:02:02 | [CRules](https://www.nuget.org/packages/CRules) | 0.2.0 | ape-byte | A lightweight C#-style rule executor built on DynamicExpresso public APIs. Supp… |
+| 2026-11-27 04:36:57 | [Polhem.Chat.Blazor](https://www.nuget.org/packages/Polhem.Chat.Blazor) | 0.3.0 | Polhem contributors | An AI chat component for Blazor, Server and WebAssembly: streamed replies rende… |
+| 2026-11-27 04:37:17 | [OD.AI](https://www.nuget.org/packages/OD.AI) | 1.0.1 | Olivier Dahan | Asynchronous provider clients for .NET applications. |
+| 2026-11-27 04:37:18 | [OD.AI.Wpf](https://www.nuget.org/packages/OD.AI.Wpf) | 1.0.1 | Olivier Dahan | Optional WPF profile editor for OD.AI. |
+| 2026-11-27 05:08:51 | [Bmailu](https://www.nuget.org/packages/Bmailu) | 0.1.0 | Bmailu | .NET SDK for the Bmailu Email API. |
 
 ## Data source
 
