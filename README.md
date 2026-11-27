@@ -12,22 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 08:21 UTC
+## Latest list — 2026-11-27 09:22 UTC
 
-New packages created between 2026-11-27 07:20 UTC and 2026-11-27 08:21 UTC.
+New packages created between 2026-11-27 08:21 UTC and 2026-11-27 09:22 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T08-21-31-142042Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T09-22-31-607305Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 07:39:40 | [Vouch.Time](https://www.nuget.org/packages/Vouch.Time) | 0.4.0 | BaryoDev | Time helpers for Vouch with no dependencies: 5.Minutes(), 1.March(2026).At(10,… |
-| 2026-11-27 07:41:22 | [PowerAutomateFlowAuditor](https://www.nuget.org/packages/PowerAutomateFlowAuditor) | 1.0.1 | Apoorv Gupta | Audit Power Automate Cloud Flows in Dataverse to detect critical performance an… |
-| 2026-11-27 07:47:26 | [Eternet.AspNetCore.Components](https://www.nuget.org/packages/Eternet.AspNetCore.Components) | 1.0.0 | Eternet.AspNetCore.Components | Blazor component bases that cancel their work when the circuit closes, plus the… |
-| 2026-11-27 07:47:35 | [Limbo.Umbraco.Core](https://www.nuget.org/packages/Limbo.Umbraco.Core) | 17.0.0-alpha001 | Anders Bjerner | Internal package at Limbo. Install at your own risk. |
-| 2026-11-27 07:54:26 | [complexMathPacket](https://www.nuget.org/packages/complexMathPacket) | 1.0.0 | Veronika | Библиотека комплексных чисел: +, -, *, / |
-| 2026-11-27 07:55:43 | [CodecHub.DevToys](https://www.nuget.org/packages/CodecHub.DevToys) | 1.0.4 | CodecHub | Unified encoder/decoder workbench: URL, HTML, Unicode, JSON, Base64/32/58, Hex,… |
-| 2026-11-27 07:56:57 | [Qore.BaseQore](https://www.nuget.org/packages/Qore.BaseQore) | 1.1.0 | BOC | Base Quc library containing repositories, filters, services, utilities, caching… |
-| 2026-11-27 08:11:33 | [ObserverMessage](https://www.nuget.org/packages/ObserverMessage) | 0.1.0 | ivanzanolla | Lightweight in-process event bus (publish/subscribe) for .NET, built on TPL Dat… |
+| 2026-11-27 08:29:30 | [HaloDot.Core.Maui](https://www.nuget.org/packages/HaloDot.Core.Maui) | 0.1.0 | Halo Dot | Halo Dot tap-on-phone payments for .NET MAUI: the Halo.Core SDK bound to .NET,… |
+| 2026-11-27 08:34:19 | [Stil.Mcp](https://www.nuget.org/packages/Stil.Mcp) | 1.3.0 | Ludvig Andersson | An MCP server for Stil: it gives AI assistants (Claude Code, GitHub Copilot, Cu… |
+| 2026-11-27 08:41:35 | [Idora.NET.AspNetCore](https://www.nuget.org/packages/Idora.NET.AspNetCore) | 1.1.0 | Jake Seracino | ASP.NET Core support for Idora.NET's prefixed, time-ordered identifiers such as… |
+| 2026-11-27 08:41:35 | [Idora.NET.EntityFrameworkCore](https://www.nuget.org/packages/Idora.NET.EntityFrameworkCore) | 1.1.0 | Jake Seracino | Entity Framework Core support for Idora.NET's prefixed, time-ordered identifier… |
+| 2026-11-27 08:49:49 | [Lyrascale](https://www.nuget.org/packages/Lyrascale) | 1.104.7 | orlys | Unofficial .NET bindings that embed a Tailscale node (tsnet) in-process. Not af… |
+| 2026-11-27 08:51:46 | [DotStat.SdmxStructureRegistry](https://www.nuget.org/packages/DotStat.SdmxStructureRegistry) | 31.1.0 | OECD | Client of the SDMX structure registry (NSI web service, FMR) shared by the .Sta… |
+| 2026-11-27 08:56:08 | [Ark.Watch.Storage.MySql](https://www.nuget.org/packages/Ark.Watch.Storage.MySql) | 0.1.5 | Immanuel R | ARK-RAPID Watch on MySQL and MariaDB: a full query store (search, aggregations,… |
+| 2026-11-27 08:56:09 | [Ark.Watch.Storage.Postgres](https://www.nuget.org/packages/Ark.Watch.Storage.Postgres) | 0.1.5 | Immanuel R | ARK-RAPID Watch on PostgreSQL: a full query store (search, aggregations, correl… |
+| 2026-11-27 08:56:58 | [MessageQueueNET.Cmd](https://www.nuget.org/packages/MessageQueueNET.Cmd) | 4.26.4805 | Jürgen Gstaltmaier | Command line tool for the MessageQueueNET REST API. |
+| 2026-11-27 08:59:28 | [OutWit.Controller.AI.Smt.Model](https://www.nuget.org/packages/OutWit.Controller.AI.Smt.Model) | 1.0.0 | Dmitry Ratner | The language layer and data types of the OutWit Smt controller: a strict SMT-LI… |
+| 2026-11-27 09:05:02 | [AventusSharp.CSharpExport](https://www.nuget.org/packages/AventusSharp.CSharpExport) | 0.0.25 | Cobwebsite | Convert AventusSharp code to C# |
+| 2026-11-27 09:05:17 | [OutWit.Controller.AI.Smt](https://www.nuget.org/packages/OutWit.Controller.AI.Smt) | 1.0.0 | Dmitry Ratner | SMT problems solved on anonymous nodes by a pinned Z3 that runs as a WebAssembl… |
+| 2026-11-27 09:06:46 | [RenderApi.Client](https://www.nuget.org/packages/RenderApi.Client) | 1.0.0 | RenderApi | .NET client for the Render API (renderapi.com): render PDF, text/email and bool… |
 
 ## Data source
 
