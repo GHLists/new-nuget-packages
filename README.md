@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 03:20 UTC
+## Latest list — 2026-11-27 04:21 UTC
 
-New packages created between 2026-11-27 02:20 UTC and 2026-11-27 03:20 UTC.
+New packages created between 2026-11-27 03:20 UTC and 2026-11-27 04:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T03-20-52-707772Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T04-21-16-66674Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 02:24:08 | [Karl.AIExtension.Abstractions](https://www.nuget.org/packages/Karl.AIExtension.Abstractions) | 0.6.1 | Karl | AI Extension 契约层：AI 契约标注特性、桥接基类、UI 上下文追踪与 DI 基础设施。 |
-| 2026-11-27 02:24:09 | [Karl.AIExtension.Blazor](https://www.nuget.org/packages/Karl.AIExtension.Blazor) | 0.6.1 | Karl | AI Extension 的 Blazor 外壳：与 WPF 共享会话核心的聊天组件。 |
-| 2026-11-27 02:24:10 | [Karl.AIExtension.Core](https://www.nuget.org/packages/Karl.AIExtension.Core) | 0.6.1 | Karl | AI Extension 运行时核心：会话、流式输出、MCP 进程内宿主、UI 上下文环形日志、MVVM 基础设施。 |
-| 2026-11-27 02:24:11 | [Karl.AIExtension.WPF](https://www.nuget.org/packages/Karl.AIExtension.WPF) | 0.6.1 | Karl | AI Extension 的 WPF 外壳：聊天面板、工具调用可视化、UI 线程调度实现、MCP 对外暴露（HTTP / stdio）。 |
-| 2026-11-27 02:55:37 | [PolyhydraGames.Core.NAS](https://www.nuget.org/packages/PolyhydraGames.Core.NAS) | 0.1.0 | Polyhydra Games | Reusable NAS and media-platform services for the NasDb family. |
-| 2026-11-27 02:57:09 | [CSoft.Protocol.IOBoard1629](https://www.nuget.org/packages/CSoft.Protocol.IOBoard1629) | 11.0.0 | CSoft | IOBoard-1629 接口板 QL 寄存器客户端，封装电池、数字量、模拟量及电子门锁 |
+| 2026-11-27 03:49:27 | [SS.PaddleOCR.ModelProvider](https://www.nuget.org/packages/SS.PaddleOCR.ModelProvider) | 1.0.0 | sdcb | OCR model contracts (IPaddleOcrModelProvider / PaddleOcrModelBundle). |
+| 2026-11-27 03:49:29 | [SS.PaddleOCR.Models.TextLineOrientation](https://www.nuget.org/packages/SS.PaddleOCR.Models.TextLineOrientation) | 1.0.0 | sdcb | Embedded PP-LCNet text-line orientation (CLS) model for PP-OCR. |
+| 2026-11-27 03:49:32 | [SS.PaddleOCR.Models.ChineseV6Tiny](https://www.nuget.org/packages/SS.PaddleOCR.Models.ChineseV6Tiny) | 1.0.0 | sdcb | Embedded PP-OCRv6 tiny Chinese DET+REC+dictionary models. |
+| 2026-11-27 03:49:35 | [SS.PaddleOCR.Models.ChineseV6Small](https://www.nuget.org/packages/SS.PaddleOCR.Models.ChineseV6Small) | 1.0.0 | sdcb | Embedded PP-OCRv6 small Chinese DET+REC+dictionary models. |
+| 2026-11-27 03:49:39 | [SS.PaddleOCR.Models.ChineseV6Medium](https://www.nuget.org/packages/SS.PaddleOCR.Models.ChineseV6Medium) | 1.0.0 | sdcb | Embedded PP-OCRv6 medium Chinese DET+REC+dictionary models. |
+| 2026-11-27 03:49:42 | [SS.PaddleOCR.Models.KoreanV5Mobile](https://www.nuget.org/packages/SS.PaddleOCR.Models.KoreanV5Mobile) | 1.0.0 | sdcb | Embedded PP-OCRv5 mobile Korean DET+REC+dictionary models. |
+| 2026-11-27 03:49:44 | [SS.PaddleOCR](https://www.nuget.org/packages/SS.PaddleOCR) | 1.0.0 | sdcb | Pure C# PP-OCRv5 and PP-OCRv6 inference (DET + CLS + REC). Cross-platform hand-… |
+| 2026-11-27 03:50:50 | [Stockfish.Uci](https://www.nuget.org/packages/Stockfish.Uci) | 0.1.0 | Rodrigo Alarcón | A modern, strongly typed .NET client for Universal Chess Interface engines, des… |
+| 2026-11-27 04:02:02 | [CRules](https://www.nuget.org/packages/CRules) | 0.2.0 | ape-byte | A lightweight C#-style rule executor built on DynamicExpresso public APIs. Supp… |
 
 ## Data source
 

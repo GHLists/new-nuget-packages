@@ -1,0 +1,10 @@
+created_at,package,version,authors,description
+2026-11-27T03:49:27.84Z,SS.PaddleOCR.ModelProvider,1.0.0,sdcb,OCR model contracts (IPaddleOcrModelProvider / PaddleOcrModelBundle).
+2026-11-27T03:49:29.88Z,SS.PaddleOCR.Models.TextLineOrientation,1.0.0,sdcb,Embedded PP-LCNet text-line orientation (CLS) model for PP-OCR.
+2026-11-27T03:49:32.183Z,SS.PaddleOCR.Models.ChineseV6Tiny,1.0.0,sdcb,Embedded PP-OCRv6 tiny Chinese DET+REC+dictionary models.
+2026-11-27T03:49:35.32Z,SS.PaddleOCR.Models.ChineseV6Small,1.0.0,sdcb,Embedded PP-OCRv6 small Chinese DET+REC+dictionary models.
+2026-11-27T03:49:39.527Z,SS.PaddleOCR.Models.ChineseV6Medium,1.0.0,sdcb,Embedded PP-OCRv6 medium Chinese DET+REC+dictionary models.
+2026-11-27T03:49:42.48Z,SS.PaddleOCR.Models.KoreanV5Mobile,1.0.0,sdcb,Embedded PP-OCRv5 mobile Korean DET+REC+dictionary models.
+2026-11-27T03:49:44.107Z,SS.PaddleOCR,1.0.0,sdcb,"Pure C# PP-OCRv5 and PP-OCRv6 inference (DET + CLS + REC). Cross-platform hand-written kernels and GEMM; optional GPU backends over Vulkan and Metal (macOS), .NET 10 only. Very high performance, low memory requirements, and very high accuracy. No Paddle Inference, ONNX Runtime, or OpenCV native lib…"
+2026-11-27T03:50:50.017Z,Stockfish.Uci,0.1.0,Rodrigo Alarcón,"A modern, strongly typed .NET client for Universal Chess Interface engines, designed to provide analysis backed by Stockfish."
+2026-11-27T04:02:02.993Z,CRules,0.2.0,ape-byte,"A lightweight C#-style rule executor built on DynamicExpresso public APIs. Supports typed and named inputs, expression-tree execution, dictionaries and asynchronous results. NativeAOT requires the documented interpreted profile."
