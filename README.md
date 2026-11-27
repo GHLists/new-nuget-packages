@@ -12,20 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 02:20 UTC
+## Latest list — 2026-11-27 03:20 UTC
 
-New packages created between 2026-11-27 01:21 UTC and 2026-11-27 02:20 UTC.
+New packages created between 2026-11-27 02:20 UTC and 2026-11-27 03:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T02-20-25-820861Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T03-20-52-707772Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 01:33:49 | [BYO.Plugin.Infrastructure](https://www.nuget.org/packages/BYO.Plugin.Infrastructure) | 1.44.0-gceec1e4b5e | softwareworkercom | Infrastructure plugin for SoftwareWorker BYO (Build Your Own) CLI, including SQ… |
-| 2026-11-27 01:34:09 | [Quick.EntityFrameworkCore.Plus.MongoDB](https://www.nuget.org/packages/Quick.EntityFrameworkCore.Plus.MongoDB) | 2026.11.0 | scbeta | Quick.EntityFrameworkCore.Plus的MongoDB数据库支持。 |
-| 2026-11-27 01:46:51 | [Clc.Authentication](https://www.nuget.org/packages/Clc.Authentication) | 1.0.1 | Central Library Consortium | Microsoft Entra ID sign-in and CLC membership authorization for ASP.NET Core we… |
-| 2026-11-27 01:47:34 | [Devinno.UI.Wpf](https://www.nuget.org/packages/Devinno.UI.Wpf) | 0.9.2 | Devinno | WPF adapter for Devinno.UI: ViewControl puts a DvApp in a WPF window (IME text… |
-| 2026-11-27 01:58:32 | [MvcThrottle2](https://www.nuget.org/packages/MvcThrottle2) | 3.0.1 | John J Scott | MvcThrottle2 filter is designed for controlling the rate of requests that clien… |
-| 2026-11-27 01:59:55 | [XH.OA.UTILS](https://www.nuget.org/packages/XH.OA.UTILS) | 6.26.600 | XhLab | XH实验室管理通用方法代码库 |
+| 2026-11-27 02:24:08 | [Karl.AIExtension.Abstractions](https://www.nuget.org/packages/Karl.AIExtension.Abstractions) | 0.6.1 | Karl | AI Extension 契约层：AI 契约标注特性、桥接基类、UI 上下文追踪与 DI 基础设施。 |
+| 2026-11-27 02:24:09 | [Karl.AIExtension.Blazor](https://www.nuget.org/packages/Karl.AIExtension.Blazor) | 0.6.1 | Karl | AI Extension 的 Blazor 外壳：与 WPF 共享会话核心的聊天组件。 |
+| 2026-11-27 02:24:10 | [Karl.AIExtension.Core](https://www.nuget.org/packages/Karl.AIExtension.Core) | 0.6.1 | Karl | AI Extension 运行时核心：会话、流式输出、MCP 进程内宿主、UI 上下文环形日志、MVVM 基础设施。 |
+| 2026-11-27 02:24:11 | [Karl.AIExtension.WPF](https://www.nuget.org/packages/Karl.AIExtension.WPF) | 0.6.1 | Karl | AI Extension 的 WPF 外壳：聊天面板、工具调用可视化、UI 线程调度实现、MCP 对外暴露（HTTP / stdio）。 |
+| 2026-11-27 02:55:37 | [PolyhydraGames.Core.NAS](https://www.nuget.org/packages/PolyhydraGames.Core.NAS) | 0.1.0 | Polyhydra Games | Reusable NAS and media-platform services for the NasDb family. |
+| 2026-11-27 02:57:09 | [CSoft.Protocol.IOBoard1629](https://www.nuget.org/packages/CSoft.Protocol.IOBoard1629) | 11.0.0 | CSoft | IOBoard-1629 接口板 QL 寄存器客户端，封装电池、数字量、模拟量及电子门锁 |
 
 ## Data source
 
