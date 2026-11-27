@@ -12,24 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 06:19 UTC
+## Latest list — 2026-11-27 07:20 UTC
 
-New packages created between 2026-11-27 05:19 UTC and 2026-11-27 06:19 UTC.
+New packages created between 2026-11-27 06:19 UTC and 2026-11-27 07:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T06-19-41-069597Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T07-20-47-190817Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 05:26:42 | [PurpleAirAPI](https://www.nuget.org/packages/PurpleAirAPI) | 2026.11.26 | Carlos Santos | PurpleAir API C# bindings with C++ backend |
-| 2026-11-27 06:04:20 | [Plex.Studio.Export](https://www.nuget.org/packages/Plex.Studio.Export) | 8.0.1 | Tom Lee | A dependency-free .NET 8 document exporter: describe a document once (headings,… |
-| 2026-11-27 06:06:15 | [Gtk4.MarkupCompiler](https://www.nuget.org/packages/Gtk4.MarkupCompiler) | 1.0.0.26331 | Microsoft, Piero Viano | Build-time WPF XAML markup compiler for the Gtk4.Wpf compatibility layer. |
-| 2026-11-27 06:06:22 | [Gtk4.PresentationFramework](https://www.nuget.org/packages/Gtk4.PresentationFramework) | 1.0.0.26331 | Microsoft, Piero Viano | Package Description |
-| 2026-11-27 06:06:25 | [Gtk4.WindowsBase](https://www.nuget.org/packages/Gtk4.WindowsBase) | 1.0.0.26331 | Microsoft, Piero Viano | Package Description |
-| 2026-11-27 06:06:28 | [Gtk4.Wpf](https://www.nuget.org/packages/Gtk4.Wpf) | 1.0.0.26331 | Microsoft, Piero Viano | Meta-package: add one PackageReference to run an existing WPF app on GTK 4 with… |
-| 2026-11-27 06:06:31 | [Net4x.Html2Markdown](https://www.nuget.org/packages/Net4x.Html2Markdown) | 1.0.0.26330 | Html2Markdown.Library | Package Description |
-| 2026-11-27 06:06:34 | [Net4x.RewriteGitHistory](https://www.nuget.org/packages/Net4x.RewriteGitHistory) | 2.3.0.26330 | RewriteGitHistory.Library | Package Description |
-| 2026-11-27 06:07:55 | [DbRelay.MySql](https://www.nuget.org/packages/DbRelay.MySql) | 0.3.0 | DbRelay contributors | MySQL and MariaDB storage provider for DbRelay (MySqlConnector): transactional… |
-| 2026-11-27 06:07:57 | [DbRelay.Oracle](https://www.nuget.org/packages/DbRelay.Oracle) | 0.3.0 | DbRelay contributors | Oracle storage provider for DbRelay (ODP.NET Core): transactional outbox insert… |
+| 2026-11-27 06:27:34 | [VisioForge.CrossPlatform.ElevenLabs.Windows.arm64](https://www.nuget.org/packages/VisioForge.CrossPlatform.ElevenLabs.Windows.arm64) | 2026.11.26 | VisioForge | ElevenLabs integration package for VisioForge .NET SDKs. |
+| 2026-11-27 06:41:42 | [CogniChain.Agents](https://www.nuget.org/packages/CogniChain.Agents) | 0.4.0 | Wouter Nijenhuis (DevDad.net) | Bridges CogniChain chains to the Microsoft Agent Framework: run a chain as an A… |
+| 2026-11-27 06:50:46 | [TCIS.SharedKernel](https://www.nuget.org/packages/TCIS.SharedKernel) | 1.4.1 | TCIS Core Community and Contr… | TCIS Core Framework is an application framework for building modular, multi-ten… |
+| 2026-11-27 06:51:34 | [TlsWebSocket](https://www.nuget.org/packages/TlsWebSocket) | 1.0.1 | Wujindong | 精简的 WebSocket 客户端类库，结构仿照 websocket-sharp。传输层使用 TcpClient + BouncyCastle TLS 并显式… |
+| 2026-11-27 06:59:32 | [LockrAuth](https://www.nuget.org/packages/LockrAuth) | 1.0.0 | LockrAuth Team | Official LockrAuth C# (.NET) SDK with automated hardware ID (HWID) locking and… |
+| 2026-11-27 07:04:10 | [MyName.SourceG1](https://www.nuget.org/packages/MyName.SourceG1) | 1.0.1 | MyName | 为 partial 类的常量生成 GetConstXxx() 静态方法的 C# 源生成器。 |
+| 2026-11-27 07:06:00 | [Soluling.AspNet](https://www.nuget.org/packages/Soluling.AspNet) | 1.0.84 | Soluling | Soluling's ASP.NET Core library: over-the-air translation updates from Soluling… |
 
 ## Data source
 

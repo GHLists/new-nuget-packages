@@ -1,0 +1,8 @@
+created_at,package,version,authors,description
+2026-11-27T06:27:34.493Z,VisioForge.CrossPlatform.ElevenLabs.Windows.arm64,2026.11.26,VisioForge,ElevenLabs integration package for VisioForge .NET SDKs.
+2026-11-27T06:41:42.317Z,CogniChain.Agents,0.4.0,Wouter Nijenhuis (DevDad.net),"Bridges CogniChain chains to the Microsoft Agent Framework: run a chain as an AIAgent, or drop an AIAgent into a chain as a step."
+2026-11-27T06:50:46.957Z,TCIS.SharedKernel,1.4.1,TCIS Core Community and Contributors,"TCIS Core Framework is an application framework for building modular, multi-tenant applications on ASP.NET Core. DDD domain primitives (entity, aggregate root, domain event) for TCIS Framework."
+2026-11-27T06:51:34.873Z,TlsWebSocket,1.0.1,Wujindong,精简的 WebSocket 客户端类库，结构仿照 websocket-sharp。传输层使用 TcpClient + BouncyCastle TLS 并显式协商 ALPN=http/1.1，解决 .NET Framework 4.7.2 上 ClientWebSocket / SslStream 因缺少 ALPN 被 Cloudflare 403 的问题。支持 permessage-deflate 压缩、同步/异步 API、证书链校验。
+2026-11-27T06:59:32.8Z,LockrAuth,1.0.0,LockrAuth Team,Official LockrAuth C# (.NET) SDK with automated hardware ID (HWID) locking and license verification.
+2026-11-27T07:04:10.48Z,MyName.SourceG1,1.0.1,MyName,为 partial 类的常量生成 GetConstXxx() 静态方法的 C# 源生成器。
+2026-11-27T07:06:00.703Z,Soluling.AspNet,1.0.84,Soluling,"Soluling's ASP.NET Core library: over-the-air translation updates from Soluling Cloud (AddSolulingOta, MapSolulingOta), and request localization with the languages of the deployed satellite assemblies."
