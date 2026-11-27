@@ -1,0 +1,19 @@
+created_at,package,version,authors,description
+2026-11-27T13:22:59.757Z,BetterStack.Pulumi,1.4.0,Better Stack,"A Pulumi package for managing Better Stack Account, Errors, Incidents and Telemetry resources."
+2026-11-27T13:28:39.533Z,OurOwn.DocKit,0.5.2,CTNS,"OurOwn DocKit - dependency-free Excel (XLSX), CSV and PDF for .NET 8, 9 and 10. Write and read workbooks, import and export CSV, and create PDFs from a fluent C# API or from HTML/CSS templates, with tables, images, barcodes, PDF/A, Unicode, the rupee sign and Gujarati/Devanagari text shaping. Runs…"
+2026-11-27T13:28:42.953Z,OurOwn.DocKit.Fonts,0.5.2,CTNS,"Default fonts for OurOwn DocKit PDFs: Noto Sans, Noto Sans Gujarati and Noto Sans Devanagari (Regular and Bold), ready as a fallback chain covering Latin, ₹, Gujarati and Devanagari. Only the glyphs a document uses are embedded. Fonts are licensed under the SIL Open Font License 1.1 (see the licens…"
+2026-11-27T13:28:45.58Z,OurOwn.Templates,0.5.2,CTNS,"dotnet new templates for OurOwn UI: ourown-admin, a Blazor Web App with an admin shell (top bar, navigation, dark mode, five colour themes, three layouts), a dashboard, sign-in and a starter page."
+2026-11-27T13:28:49.447Z,OurOwn.UI,0.5.2,CTNS,"OurOwn UI - 200+ Blazor components for business applications: layout, inputs, pickers, dialogs, data grid with Excel-style entry, tree grid, pivot, scheduler, Gantt, kanban, charts, rich text, Markdown and code editors, exports and more. Keyboard-accessible, right-to-left, English, Gujarati and Hin…"
+2026-11-27T13:35:39.213Z,Lokad.GZip,0.1.0,Lokad,Deterministic managed gzip streams for .NET.
+2026-11-27T13:38:57.773Z,HRBN.Dynatrace.Api.Client,0.1.0,Paweł Harbuz,"Asynchronous, trimming- and Native-AOT-compatible .NET client for the Dynatrace REST APIs: Environment API v1 and v2, Configuration API v1, Account Management and Platform APIs."
+2026-11-27T13:38:58.63Z,HRBN.Dynatrace.Api.Client.DependencyInjection,0.1.0,Paweł Harbuz,"Microsoft.Extensions.DependencyInjection registrations for Dynatrace.Api.Client, built on IHttpClientFactory, with keyed multi-tenant clients."
+2026-11-27T13:42:34.44Z,OpenCertServer.Amd.Native,5.0.0-beta-82,OpenCertServer,Native AMD SEV-SNP user-space driver (amd_snp_driver) packaged using .NET RID conventions.
+2026-11-27T13:42:38.307Z,opencertserver.attestation,5.0.0-beta-82,Jacob Reimers,ASP.NET Core implementation of RFC 7030 certificate authority and issuer and RFC8555 client and server.
+2026-11-27T13:48:41.627Z,Umbraco.Community.PunkTwoFactor,18.3.2.9,Gareth Wright,An app_plugin for Umbraco that sets up Two Factor Authentication.
+2026-11-27T13:52:30.77Z,bb-mask,0.3.1,BigBrains,bb-mask client. anonymize and restore; no model calls.
+2026-11-27T14:01:57.867Z,FEPBA.Helper.WebSocket,10.0.0,Mauricio Agosta,Librería del bloque para WebSockets sacado de FEPBA.Helper.
+2026-11-27T14:11:57.907Z,Ogooreck.Marten,1.0.0,Oskar Dudycz,Ogooreck plugin for Marten: records the events an in-process app appends and waits for its async projections.
+2026-11-27T14:11:58.6Z,Ogooreck.Kafka,1.0.0,Oskar Dudycz,"Ogooreck plugin for Kafka: records the messages an app publishes and, for an in-process app, waits until its consumers have read them."
+2026-11-27T14:11:59.58Z,Ogooreck.Mcp,1.0.0,Oskar Dudycz,"MCP server that runs .NET tests and explains them to coding agents with the OpenTelemetry spans of the tests, Ogooreck and the tested app."
+2026-11-27T14:12:00.203Z,Ogooreck.Wolverine,1.0.0,Oskar Dudycz,Ogooreck plugin for Wolverine: records the messages an in-process app publishes and waits until Wolverine has handled them.
+2026-11-27T14:12:00.973Z,Ogooreck.RabbitMQ,1.0.0,Oskar Dudycz,Ogooreck plugin for RabbitMQ: records the messages an in-process app publishes and waits until its consumers are done with them.

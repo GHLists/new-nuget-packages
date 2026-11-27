@@ -12,31 +12,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 13:21 UTC
+## Latest list — 2026-11-27 14:19 UTC
 
-New packages created between 2026-11-27 12:20 UTC and 2026-11-27 13:21 UTC.
+New packages created between 2026-11-27 13:21 UTC and 2026-11-27 14:19 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T13-21-08-342112Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T14-19-43-936321Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 12:26:34 | [PowerCraft.Secrets.Core](https://www.nuget.org/packages/PowerCraft.Secrets.Core) | 2.0.0 | The Code Kitchen | Kernel of PowerCraft.Secrets: an encrypted secret store on disk. A secret is a… |
-| 2026-11-27 12:43:14 | [DotHarness.Acp](https://www.nuget.org/packages/DotHarness.Acp) | 0.1.0 | DotHarness | Typed .NET Client and Agent SDK for the Agent Client Protocol v1. |
-| 2026-11-27 12:43:17 | [DotHarness.Acp.Registry](https://www.nuget.org/packages/DotHarness.Acp.Registry) | 0.1.0 | DotHarness | Read-only .NET client and models for the Agent Client Protocol Registry. |
-| 2026-11-27 12:46:06 | [RedCrab.OperationContract](https://www.nuget.org/packages/RedCrab.OperationContract) | 1.0.0 | Nicola Boffoli | RedCrab.OperationContract – the governed operation contract of the Request–Repl… |
-| 2026-11-27 12:46:06 | [Relay.Authorization](https://www.nuget.org/packages/Relay.Authorization) | 1.1.0 | mohamadrezant | A modular .NET library providing Dispatcher, Mapper, Validation, and Authorizat… |
-| 2026-11-27 12:46:06 | [RedCrab.Runtime.Requestor](https://www.nuget.org/packages/RedCrab.Runtime.Requestor) | 1.0.0 | Nicola Boffoli | RedCrab.Requestor – client-side runtime to send typed RedCrab requests and awai… |
-| 2026-11-27 12:46:07 | [RedCrab.Transport.Pulsar](https://www.nuget.org/packages/RedCrab.Transport.Pulsar) | 1.0.0 | Nicola Boffoli | RedCrab.Transport.Pulsar – the Apache Pulsar adapter of the RedCrab transport a… |
-| 2026-11-27 12:46:07 | [RedCrab.Surfaces](https://www.nuget.org/packages/RedCrab.Surfaces) | 1.0.0 | Nicola Boffoli | RedCrab public contracts used by generated stubs and surface integrations (requ… |
-| 2026-11-27 12:46:08 | [RedCrab.Transport.Abstractions](https://www.nuget.org/packages/RedCrab.Transport.Abstractions) | 1.0.0 | Nicola Boffoli | RedCrab.Transport.Abstractions – the threshold of the broker: what the runtimes… |
-| 2026-11-27 12:46:08 | [RedCrab](https://www.nuget.org/packages/RedCrab) | 1.0.0 | Nicola Boffoli | RedCrab – request–reply middleware for event-driven, broker-based architectures… |
-| 2026-11-27 12:46:09 | [RedCrab.Runtime.Replier](https://www.nuget.org/packages/RedCrab.Runtime.Replier) | 1.0.0 | Nicola Boffoli | RedCrab.Replier – server-side runtime to host typed handlers and publish typed… |
-| 2026-11-27 12:46:10 | [RedCrab.LocalPolicies](https://www.nuget.org/packages/RedCrab.LocalPolicies) | 1.0.0 | Nicola Boffoli | RedCrab.LocalPolicies – the local policies and the handler dispatcher of the Re… |
-| 2026-11-27 12:46:10 | [RedCrab.ProtocolBinding](https://www.nuget.org/packages/RedCrab.ProtocolBinding) | 1.0.0 | Nicola Boffoli | RedCrab.ProtocolBinding – the bound operation protocol of the Request–Reply bou… |
-| 2026-11-27 12:46:10 | [Relay.Authorization.Adapters.InMemory](https://www.nuget.org/packages/Relay.Authorization.Adapters.InMemory) | 1.1.0 | mohamadrezant | A modular .NET library providing Dispatcher, Mapper, Validation, and Authorizat… |
-| 2026-11-27 12:46:11 | [RedCrab.Transport.Kafka](https://www.nuget.org/packages/RedCrab.Transport.Kafka) | 1.0.0 | Nicola Boffoli | RedCrab.Transport.Kafka – Kafka/Redpanda transport implementation for RedCrab,… |
-| 2026-11-27 13:08:10 | [Nxa.Avalonia.Provider](https://www.nuget.org/packages/Nxa.Avalonia.Provider) | 0.1.0 | Nxa Lab | Dependency injection and state management utilities for Avalonia UI, including… |
-| 2026-11-27 13:10:39 | [Mizanpage](https://www.nuget.org/packages/Mizanpage) | 1.0.0 | Laudelout Studio | Client officiel de l'API Mizanpage : générer des PDF depuis vos modèles, en dir… |
+| 2026-11-27 13:22:59 | [BetterStack.Pulumi](https://www.nuget.org/packages/BetterStack.Pulumi) | 1.4.0 | Better Stack | A Pulumi package for managing Better Stack Account, Errors, Incidents and Telem… |
+| 2026-11-27 13:28:39 | [OurOwn.DocKit](https://www.nuget.org/packages/OurOwn.DocKit) | 0.5.2 | CTNS | OurOwn DocKit - dependency-free Excel (XLSX), CSV and PDF for .NET 8, 9 and 10.… |
+| 2026-11-27 13:28:42 | [OurOwn.DocKit.Fonts](https://www.nuget.org/packages/OurOwn.DocKit.Fonts) | 0.5.2 | CTNS | Default fonts for OurOwn DocKit PDFs: Noto Sans, Noto Sans Gujarati and Noto Sa… |
+| 2026-11-27 13:28:45 | [OurOwn.Templates](https://www.nuget.org/packages/OurOwn.Templates) | 0.5.2 | CTNS | dotnet new templates for OurOwn UI: ourown-admin, a Blazor Web App with an admi… |
+| 2026-11-27 13:28:49 | [OurOwn.UI](https://www.nuget.org/packages/OurOwn.UI) | 0.5.2 | CTNS | OurOwn UI - 200+ Blazor components for business applications: layout, inputs, p… |
+| 2026-11-27 13:35:39 | [Lokad.GZip](https://www.nuget.org/packages/Lokad.GZip) | 0.1.0 | Lokad | Deterministic managed gzip streams for .NET. |
+| 2026-11-27 13:38:57 | [HRBN.Dynatrace.Api.Client](https://www.nuget.org/packages/HRBN.Dynatrace.Api.Client) | 0.1.0 | Paweł Harbuz | Asynchronous, trimming- and Native-AOT-compatible .NET client for the Dynatrace… |
+| 2026-11-27 13:38:58 | [HRBN.Dynatrace.Api.Client.DependencyInjection](https://www.nuget.org/packages/HRBN.Dynatrace.Api.Client.DependencyInjection) | 0.1.0 | Paweł Harbuz | Microsoft.Extensions.DependencyInjection registrations for Dynatrace.Api.Client… |
+| 2026-11-27 13:42:34 | [OpenCertServer.Amd.Native](https://www.nuget.org/packages/OpenCertServer.Amd.Native) | 5.0.0-beta-82 | OpenCertServer | Native AMD SEV-SNP user-space driver (amd_snp_driver) packaged using .NET RID c… |
+| 2026-11-27 13:42:38 | [opencertserver.attestation](https://www.nuget.org/packages/opencertserver.attestation) | 5.0.0-beta-82 | Jacob Reimers | ASP.NET Core implementation of RFC 7030 certificate authority and issuer and RF… |
+| 2026-11-27 13:48:41 | [Umbraco.Community.PunkTwoFactor](https://www.nuget.org/packages/Umbraco.Community.PunkTwoFactor) | 18.3.2.9 | Gareth Wright | An app_plugin for Umbraco that sets up Two Factor Authentication. |
+| 2026-11-27 13:52:30 | [bb-mask](https://www.nuget.org/packages/bb-mask) | 0.3.1 | BigBrains | bb-mask client. anonymize and restore; no model calls. |
+| 2026-11-27 14:01:57 | [FEPBA.Helper.WebSocket](https://www.nuget.org/packages/FEPBA.Helper.WebSocket) | 10.0.0 | Mauricio Agosta | Librería del bloque para WebSockets sacado de FEPBA.Helper. |
+| 2026-11-27 14:11:57 | [Ogooreck.Marten](https://www.nuget.org/packages/Ogooreck.Marten) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for Marten: records the events an in-process app appends and wa… |
+| 2026-11-27 14:11:58 | [Ogooreck.Kafka](https://www.nuget.org/packages/Ogooreck.Kafka) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for Kafka: records the messages an app publishes and, for an in… |
+| 2026-11-27 14:11:59 | [Ogooreck.Mcp](https://www.nuget.org/packages/Ogooreck.Mcp) | 1.0.0 | Oskar Dudycz | MCP server that runs .NET tests and explains them to coding agents with the Ope… |
+| 2026-11-27 14:12:00 | [Ogooreck.Wolverine](https://www.nuget.org/packages/Ogooreck.Wolverine) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for Wolverine: records the messages an in-process app publishes… |
+| 2026-11-27 14:12:00 | [Ogooreck.RabbitMQ](https://www.nuget.org/packages/Ogooreck.RabbitMQ) | 1.0.0 | Oskar Dudycz | Ogooreck plugin for RabbitMQ: records the messages an in-process app publishes… |
 
 ## Data source
 
