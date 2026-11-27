@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-27T16:26:02.587Z,Prowl.Courier,4.0.0,Prowl Contributors,"Dependency-free game networking transports: a pluggable connection/transport API, reliable UDP via an embedded KCP, an in-process local transport, and span-based message buffers."
+2026-11-27T16:26:06.43Z,Prowl.Runtime,4.0.0,Prowl Contributors,"The runtime of the Prowl game engine: scenes, GameObjects and components, rendering, physics, audio, animation, navigation, input and VR, usable from any .NET application without the editor."
+2026-11-27T16:26:10.533Z,Prowl.Graphite.Debugger.Viewer,4.0.0,Prowl Contributors,Viewer and render profiler UI for Graphite debugger recordings.
+2026-11-27T16:26:12.607Z,Prowl.Graphite.Rendering.Tools,4.0.0,Prowl Contributors,Editor and import time tools for Prowl.Graphite.Rendering: LOD chains and impostors.
+2026-11-27T16:31:40.193Z,StonyGrey.McuMgr,0.1.0,Stony Grey LLC,"An MCUmgr client for .NET: the SMP protocol, the command groups Zephyr serves, firmware update for MCUboot, and serial, UDP, and Bluetooth Low Energy transports. Bluetooth is for Android, iOS, macOS and Windows."
+2026-11-27T16:41:08.853Z,Great.Parts.Cel.Filtering,2.0.0,The Great.Parts Authors,"Translates list filters written in the AIP-160 syntax (google.aip.dev/160) into CEL expressions of a Great.Parts.Cel environment and compiles them: errors with their place in the filter, evaluation on each item, the CEL tree for your own translation, Native AOT without reflection."
+2026-11-27T16:41:09.327Z,Great.Parts.Cel.Policy,2.0.0,The Great.Parts Authors,"CEL Policy for Great.Parts.Cel: read a policy in YAML (rules with variables, conditions, outputs, nested rules, first-match and aggregate semantics) and compile it in a CEL environment into one program, with every error at its line and column in the document."
+2026-11-27T16:41:09.8Z,Great.Parts.Cel.DependencyInjection,2.0.0,The Great.Parts Authors,"Dependency injection for Great.Parts.Cel: register CEL environments, a compilation cache and a replaceable evaluator in Microsoft.Extensions.DependencyInjection, and validate options with CEL expressions."
+2026-11-27T16:41:10.343Z,Great.Parts.Cel.AspNetCore,2.0.0,The Great.Parts Authors,ASP.NET Core support for Great.Parts.Cel: CEL expressions in authorization policies and in the validation of requests of minimal API endpoints.
+2026-11-27T16:46:17.693Z,ReportDesigner,0.4.4,ReportDesigner,Crystal-Reports-class report engine: JSON report definition + data -> HTML/PDF. Native Rust core.
+2026-11-27T16:55:44.143Z,Alkax.Sdk,0.1.0,Alkax,Official typed Alkax developer API client for .NET.
+2026-11-27T16:59:09.177Z,Mediana.Codecs.Mpeg2,0.1.49,Vadim Belov,Managed multimedia building blocks for .NET.
+2026-11-27T17:05:32.807Z,Sponsorkit,0.1.0,Sponsorkit contributors,"Build financial contributions (GitHub Sponsors, Open Collective) directly into your .NET app: check what the current user contributes, open a checkout, and nag politely. No account, no keys, no setup."
+2026-11-27T17:14:00.637Z,YP.ModbusRestAPI.Core,1.2.0,YP,自研轻量 Modbus TCP 协议栈与点位映射服务，零第三方协议依赖，支持 net8.0 / net10.0。

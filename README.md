@@ -12,47 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 16:22 UTC
+## Latest list — 2026-11-27 17:20 UTC
 
-New packages created between 2026-11-27 15:20 UTC and 2026-11-27 16:22 UTC.
+New packages created between 2026-11-27 16:22 UTC and 2026-11-27 17:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T16-22-06-94593Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T17-20-42-107666Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 15:20:41 | [BitMagic.X16Basic.Tool](https://www.nuget.org/packages/BitMagic.X16Basic.Tool) | 0.1.4 | Yazwh0 | Turns Commander X16 BASIC into .PRG files the X16 can LOAD, and .PRG files back… |
-| 2026-11-27 15:22:24 | [LibreSharp.Templates.SaasStarter](https://www.nuget.org/packages/LibreSharp.Templates.SaasStarter) | 0.4.1 | LibreSharp | A dotnet new template for a SaaS app: a WolverineFx backend with a React (Vite… |
-| 2026-11-27 15:28:15 | [DotBlaze.Pulse](https://www.nuget.org/packages/DotBlaze.Pulse) | 0.2.0 | Moh Ali | Pulse for DotBlaze: a performance dashboard with server load, slow requests, qu… |
-| 2026-11-27 15:28:16 | [DotBlaze.Image](https://www.nuget.org/packages/DotBlaze.Image) | 0.2.0 | Moh Ali | Image resizing, cropping, conversion and optimization for DotBlaze. |
-| 2026-11-27 15:28:18 | [DotBlaze.Telescope](https://www.nuget.org/packages/DotBlaze.Telescope) | 0.2.0 | Moh Ali | Telescope for DotBlaze: a debug assistant that records requests, exceptions, lo… |
-| 2026-11-27 15:28:19 | [DotBlaze.Horizon](https://www.nuget.org/packages/DotBlaze.Horizon) | 0.2.0 | Moh Ali | Horizon for DotBlaze: a dashboard for your queues, queue:manager supervisors, r… |
-| 2026-11-27 15:28:21 | [DotBlaze.AI](https://www.nuget.org/packages/DotBlaze.AI) | 0.2.0 | Moh Ali | AI agents, tools, streaming, media generation and retrieval for DotBlaze. |
-| 2026-11-27 15:29:29 | [Ekom.Brevo](https://www.nuget.org/packages/Ekom.Brevo) | 1.1.0 | Vettvangur | Brevo contacts, orders, and transactional email integration for Ekom on Umbraco… |
-| 2026-11-27 15:38:35 | [Ark.SessionState.AdoNet](https://www.nuget.org/packages/Ark.SessionState.AdoNet) | 1.0.0 | Kevin Wilson | ASP.NET (System.Web) custom session state store provider that works with any AD… |
-| 2026-11-27 15:40:58 | [Ekom.Brevo.U19](https://www.nuget.org/packages/Ekom.Brevo.U19) | 1.1.0 | Vettvangur | Brevo integration for Ekom on Umbraco 19. |
-| 2026-11-27 15:41:18 | [Ekom.Brevo.U18](https://www.nuget.org/packages/Ekom.Brevo.U18) | 1.1.0 | Vettvangur | Brevo integration for Ekom on Umbraco 18. |
-| 2026-11-27 15:43:09 | [Shiny.UniversalHubs.Http](https://www.nuget.org/packages/Shiny.UniversalHubs.Http) | 3.0.0 | Allan Ritchie | Shiny.UniversalHubs over HTTP - hubs served as WebSockets on Shiny.Net.HttpServ… |
-| 2026-11-27 15:43:10 | [Shiny.UniversalHubs.BluetoothLE](https://www.nuget.org/packages/Shiny.UniversalHubs.BluetoothLE) | 3.0.0 | Allan Ritchie | Shiny.UniversalHubs over Bluetooth LE - hubs served as GATT characteristics, wi… |
-| 2026-11-27 16:03:22 | [Wafish.Grpc](https://www.nuget.org/packages/Wafish.Grpc) | 1.1.0-pre | Wafish Team | gRPC definitions for Wafish Gateway Registry. |
-| 2026-11-27 16:03:24 | [Wafish.Plugin.Abstractions](https://www.nuget.org/packages/Wafish.Plugin.Abstractions) | 1.1.0-pre | Wafish Team | Plugin contract abstractions for Wafish gateway plugins. |
-| 2026-11-27 16:03:25 | [Wafish.Storage.Abstractions](https://www.nuget.org/packages/Wafish.Storage.Abstractions) | 1.1.0-pre | Wafish Team | Storage abstractions and entities for Wafish. |
-| 2026-11-27 16:03:26 | [Wafish.Client](https://www.nuget.org/packages/Wafish.Client) | 1.1.0-pre | Wafish Team | YARP gateway client library: auto-register services to a YARP gateway with smar… |
-| 2026-11-27 16:03:28 | [Wafish.Storage.Sqlite](https://www.nuget.org/packages/Wafish.Storage.Sqlite) | 1.1.0-pre | Wafish Team | SQLite storage implementation for Wafish. |
-| 2026-11-27 16:03:29 | [Wafish](https://www.nuget.org/packages/Wafish) | 1.1.0-pre | Wafish Team | YARP gateway base library: dynamic route registration, auto-registration, and c… |
-| 2026-11-27 16:03:31 | [Wafish.Plugin.Cache](https://www.nuget.org/packages/Wafish.Plugin.Cache) | 1.1.0-pre | Wafish Team | Response caching plugin for Wafish gateway. |
-| 2026-11-27 16:03:32 | [Wafish.Plugin.CircuitBreaker](https://www.nuget.org/packages/Wafish.Plugin.CircuitBreaker) | 1.1.0-pre | Wafish Team | Circuit breaker plugin for Wafish gateway: failure isolation and recovery. |
-| 2026-11-27 16:03:33 | [Wafish.Plugin.Compression](https://www.nuget.org/packages/Wafish.Plugin.Compression) | 1.1.0-pre | Wafish Team | Response compression plugin for Wafish gateway. |
-| 2026-11-27 16:03:35 | [Wafish.Plugin.Metrics](https://www.nuget.org/packages/Wafish.Plugin.Metrics) | 1.1.0-pre | Wafish Team | Traffic and cluster metrics plugin for Wafish gateway (proxy metrics + cluster… |
-| 2026-11-27 16:03:36 | [Wafish.Plugin.ProxyLog](https://www.nuget.org/packages/Wafish.Plugin.ProxyLog) | 1.1.0-pre | Wafish Team | Proxy logging plugin for Wafish gateway: request/response audit trail. |
-| 2026-11-27 16:03:38 | [Wafish.Plugin.RateLimit](https://www.nuget.org/packages/Wafish.Plugin.RateLimit) | 1.1.0-pre | Wafish Team | Rate limiting plugin for Wafish gateway: per-route and per-client request throt… |
-| 2026-11-27 16:03:39 | [Wafish.Plugin.RateLimit.Redis](https://www.nuget.org/packages/Wafish.Plugin.RateLimit.Redis) | 1.1.0-pre | Wafish Team | Redis-backed distributed rate limiting plugin for Wafish gateway. |
-| 2026-11-27 16:03:40 | [Wafish.Plugin.Retry](https://www.nuget.org/packages/Wafish.Plugin.Retry) | 1.1.0-pre | Wafish Team | Retry plugin for Wafish gateway: per-route retry policies with backoff. |
-| 2026-11-27 16:03:42 | [Wafish.Plugin.ServiceDiscovery](https://www.nuget.org/packages/Wafish.Plugin.ServiceDiscovery) | 1.1.0-pre | Wafish Team | Service discovery plugin for Wafish gateway: destination resolution from regist… |
-| 2026-11-27 16:03:43 | [Wafish.Plugin.Waf](https://www.nuget.org/packages/Wafish.Plugin.Waf) | 1.1.0-pre | Wafish Team | WAF plugin for Wafish gateway: request filtering, rule sets and attack protecti… |
-| 2026-11-27 16:03:45 | [Wafish.Runtime](https://www.nuget.org/packages/Wafish.Runtime) | 1.1.0-pre | Wafish Team | Gateway runtime and plugin lifecycle independent of the administration UI. |
-| 2026-11-27 16:03:46 | [Wafish.Administration](https://www.nuget.org/packages/Wafish.Administration) | 1.1.0-pre | Wafish Team | Gateway administration APIs, authentication, and realtime services without Razo… |
-| 2026-11-27 16:03:47 | [Wafish.ReactUi](https://www.nuget.org/packages/Wafish.ReactUi) | 1.1.0-pre | Wafish Team | Optional React administration UI for Wafish. |
-| 2026-11-27 16:06:56 | [RVZSharp.Cli](https://www.nuget.org/packages/RVZSharp.Cli) | 1.3.0 | Peterson Fernandes,Pure Logic… | Command-line tool for Dolphin RVZ/WIA, GCZ, CISO/WBI, WBFS, TGC, NFS and ISO di… |
+| 2026-11-27 16:26:02 | [Prowl.Courier](https://www.nuget.org/packages/Prowl.Courier) | 4.0.0 | Prowl Contributors | Dependency-free game networking transports: a pluggable connection/transport AP… |
+| 2026-11-27 16:26:06 | [Prowl.Runtime](https://www.nuget.org/packages/Prowl.Runtime) | 4.0.0 | Prowl Contributors | The runtime of the Prowl game engine: scenes, GameObjects and components, rende… |
+| 2026-11-27 16:26:10 | [Prowl.Graphite.Debugger.Viewer](https://www.nuget.org/packages/Prowl.Graphite.Debugger.Viewer) | 4.0.0 | Prowl Contributors | Viewer and render profiler UI for Graphite debugger recordings. |
+| 2026-11-27 16:26:12 | [Prowl.Graphite.Rendering.Tools](https://www.nuget.org/packages/Prowl.Graphite.Rendering.Tools) | 4.0.0 | Prowl Contributors | Editor and import time tools for Prowl.Graphite.Rendering: LOD chains and impos… |
+| 2026-11-27 16:31:40 | [StonyGrey.McuMgr](https://www.nuget.org/packages/StonyGrey.McuMgr) | 0.1.0 | Stony Grey LLC | An MCUmgr client for .NET: the SMP protocol, the command groups Zephyr serves,… |
+| 2026-11-27 16:41:08 | [Great.Parts.Cel.Filtering](https://www.nuget.org/packages/Great.Parts.Cel.Filtering) | 2.0.0 | The Great.Parts Authors | Translates list filters written in the AIP-160 syntax (google.aip.dev/160) into… |
+| 2026-11-27 16:41:09 | [Great.Parts.Cel.Policy](https://www.nuget.org/packages/Great.Parts.Cel.Policy) | 2.0.0 | The Great.Parts Authors | CEL Policy for Great.Parts.Cel: read a policy in YAML (rules with variables, co… |
+| 2026-11-27 16:41:09 | [Great.Parts.Cel.DependencyInjection](https://www.nuget.org/packages/Great.Parts.Cel.DependencyInjection) | 2.0.0 | The Great.Parts Authors | Dependency injection for Great.Parts.Cel: register CEL environments, a compilat… |
+| 2026-11-27 16:41:10 | [Great.Parts.Cel.AspNetCore](https://www.nuget.org/packages/Great.Parts.Cel.AspNetCore) | 2.0.0 | The Great.Parts Authors | ASP.NET Core support for Great.Parts.Cel: CEL expressions in authorization poli… |
+| 2026-11-27 16:46:17 | [ReportDesigner](https://www.nuget.org/packages/ReportDesigner) | 0.4.4 | ReportDesigner | Crystal-Reports-class report engine: JSON report definition + data -> HTML/PDF.… |
+| 2026-11-27 16:55:44 | [Alkax.Sdk](https://www.nuget.org/packages/Alkax.Sdk) | 0.1.0 | Alkax | Official typed Alkax developer API client for .NET. |
+| 2026-11-27 16:59:09 | [Mediana.Codecs.Mpeg2](https://www.nuget.org/packages/Mediana.Codecs.Mpeg2) | 0.1.49 | Vadim Belov | Managed multimedia building blocks for .NET. |
+| 2026-11-27 17:05:32 | [Sponsorkit](https://www.nuget.org/packages/Sponsorkit) | 0.1.0 | Sponsorkit contributors | Build financial contributions (GitHub Sponsors, Open Collective) directly into… |
+| 2026-11-27 17:14:00 | [YP.ModbusRestAPI.Core](https://www.nuget.org/packages/YP.ModbusRestAPI.Core) | 1.2.0 | YP | 自研轻量 Modbus TCP 协议栈与点位映射服务，零第三方协议依赖，支持 net8.0 / net10.0。 |
 
 ## Data source
 
