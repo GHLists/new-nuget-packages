@@ -12,17 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 00:19 UTC
+## Latest list — 2026-11-27 01:21 UTC
 
-New packages created between 2026-11-26 23:21 UTC and 2026-11-27 00:19 UTC.
+New packages created between 2026-11-27 00:19 UTC and 2026-11-27 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T00-19-32-916886Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T01-21-55-345694Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-26 23:35:48 | [ShambleLog](https://www.nuget.org/packages/ShambleLog) | 0.9.1-alpha | Adam O'Neil | An EF Core-based logger targeting Postgres, ILogger<T> compatible |
-| 2026-11-26 23:42:58 | [OmniCore.Mcp](https://www.nuget.org/packages/OmniCore.Mcp) | 1.1.0 | OmniCore | omnicore-mcp, a Model Context Protocol server for the OmniCore database: schema… |
-| 2026-11-26 23:49:54 | [SadeemSystems.ChampUI.Templates](https://www.nuget.org/packages/SadeemSystems.ChampUI.Templates) | 0.1.3 | Sadeem Systems | A Blazor Interactive Server dashboard project template built with ChampUI. |
+| 2026-11-27 00:21:05 | [NetOcc.runtime.linux-x64](https://www.nuget.org/packages/NetOcc.runtime.linux-x64) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc for linux-x64: the NetOcc libraries and OCCT 8.0.1 w… |
+| 2026-11-27 00:21:07 | [NetOcc.runtime.osx-arm64](https://www.nuget.org/packages/NetOcc.runtime.osx-arm64) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc for osx-arm64: the NetOcc libraries and OCCT 8.0.1 w… |
+| 2026-11-27 00:21:10 | [NetOcc.runtime.win-x64](https://www.nuget.org/packages/NetOcc.runtime.win-x64) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc for win-x64: the NetOcc libraries and OCCT 8.0.1 wit… |
+| 2026-11-27 00:21:12 | [NetOcc.runtime.win-x86](https://www.nuget.org/packages/NetOcc.runtime.win-x86) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc for win-x86: the NetOcc libraries and OCCT 8.0.1 wit… |
+| 2026-11-27 00:21:16 | [NetOcc](https://www.nuget.org/packages/NetOcc) | 8.0.1.1 | Paul Büchner | C# bindings for Open CASCADE Technology (OCCT) 8.0.1, with OCCT's names, one na… |
+| 2026-11-27 00:21:22 | [NetOcc.Vtk.runtime.linux-x64](https://www.nuget.org/packages/NetOcc.Vtk.runtime.linux-x64) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc.Vtk for linux-x64: NetOccVtk and OCCT 8.0.1's TKIVtk… |
+| 2026-11-27 00:21:23 | [NetOcc.Vtk.runtime.osx-arm64](https://www.nuget.org/packages/NetOcc.Vtk.runtime.osx-arm64) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc.Vtk for osx-arm64: NetOccVtk and OCCT 8.0.1's TKIVtk… |
+| 2026-11-27 00:21:23 | [NetOcc.Vtk.runtime.win-x64](https://www.nuget.org/packages/NetOcc.Vtk.runtime.win-x64) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc.Vtk for win-x64: NetOccVtk and OCCT 8.0.1's TKIVtk.… |
+| 2026-11-27 00:21:24 | [NetOcc.Vtk.runtime.win-x86](https://www.nuget.org/packages/NetOcc.Vtk.runtime.win-x86) | 8.0.1.1 | Paul Büchner | Native libraries of NetOcc.Vtk for win-x86: NetOccVtk and OCCT 8.0.1's TKIVtk.… |
+| 2026-11-27 00:21:25 | [NetOcc.Vtk](https://www.nuget.org/packages/NetOcc.Vtk) | 8.0.1.1 | Paul Büchner | OCCT shapes in VTK scenes: C# bindings for Open CASCADE Technology's TKIVtk (IV… |
 
 ## Data source
 
