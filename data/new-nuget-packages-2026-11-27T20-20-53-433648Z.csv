@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-27T19:25:10.497Z,VNCore,1.0.0,VNCore,Package Description
+2026-11-27T19:28:48.06Z,Everlong.CommandLine,0.2.1,Richard Zheng,"Everlong.CommandLine — command-tree based CLI framework built on System.CommandLine: CommandBase, interactive subcommand menu, chain DI injection, and process/file/git/console helpers."
+2026-11-27T19:45:43.99Z,B4n1.Telemetry,0.1.1,B4N1,Drop-in error reporting to your own b4n1-telemetry collector. Zero dependencies.
+2026-11-27T19:46:01.99Z,B4n1.Notary,0.2.1,b4n1-notary,"Authorship integrity and sealing: stamp, verify and list the proofs of a project."
+2026-11-27T19:56:43.477Z,WebTools.StcCommon,10.0.0,WebTools.StcCommon,Package Description
+2026-11-27T19:57:17.907Z,Shoko.QueueProcessor,6.0.0,Shoko Team,"A lightweight, persistent, attribute-driven background job queue for .NET, the scheduler Shoko Server runs on."
+2026-11-27T19:57:18.243Z,Shoko.Abstractions,6.0.0,Shoko Team,"The contract between Shoko Server and its plugins: the interfaces, models and enums a plugin implements and consumes."
+2026-11-27T20:06:04.673Z,VNCore.Godot,1.0.0,ManWithBaguette,Godot integration for VNCore.
+2026-11-27T20:09:37.56Z,WebTools.StcData,10.0.0,WebTools.StcData,Package Description
+2026-11-27T20:12:08.35Z,Shoko.Plugin.OfflineImporter.Abstractions,2.0.1,Shoko Team,"The contracts another Shoko plugin uses to run the Offline Importer's file name matching: a path in, the parsed show, season, episodes, release details and the IDs tagged in the file and folder names out, by the user's current rules. It carries none of the plugin itself."
+2026-11-27T20:12:59.05Z,LANCommander.Server.Plugins,2.2.0,pathartl,"The contracts a LANCommander server plugin builds against: navigation, routes, page access, API endpoints, and the services the server provides to plugins"
+2026-11-27T20:14:44.327Z,InfraBase,5.14.0,Kerberos SA,"EF Core data-access, multi-tenant and RBAC infrastructure for SQL Server, host-agnostic (HTTP, Blazor Server, background jobs). REQUIRES the MyIdentity package to be configured in the host: even the path without RBAC needs its AddMyIdentity call, because the tenant and the user are resolved through…"
+2026-11-27T20:15:33.593Z,Metigator.NumberSystem.Mahmoud,1.0.0,Mahmoud Ashraf,Convert Between Numbers From Different Bases
