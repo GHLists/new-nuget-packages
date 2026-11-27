@@ -1,0 +1,2 @@
+created_at,package,version,authors,description
+2026-11-27T19:14:47.597Z,NuStreamDocs.Videos,1.19.0,Glenn Watson and Contributors,"Byte-first responsive video auto-embedding for NuStreamDocs markdown across YouTube, Vimeo, OneDrive, SharePoint/Microsoft Stream, Azure Video Indexer and Blob/CDN video, Loom, Dailymotion, Twitch, Wistia, Cloudflare Stream, Google Drive, Bilibili, Vidyard, and direct HTML5 video URLs."
