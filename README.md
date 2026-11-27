@@ -12,21 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 07:20 UTC
+## Latest list — 2026-11-27 08:21 UTC
 
-New packages created between 2026-11-27 06:19 UTC and 2026-11-27 07:20 UTC.
+New packages created between 2026-11-27 07:20 UTC and 2026-11-27 08:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-27T07-20-47-190817Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-27T08-21-31-142042Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 06:27:34 | [VisioForge.CrossPlatform.ElevenLabs.Windows.arm64](https://www.nuget.org/packages/VisioForge.CrossPlatform.ElevenLabs.Windows.arm64) | 2026.11.26 | VisioForge | ElevenLabs integration package for VisioForge .NET SDKs. |
-| 2026-11-27 06:41:42 | [CogniChain.Agents](https://www.nuget.org/packages/CogniChain.Agents) | 0.4.0 | Wouter Nijenhuis (DevDad.net) | Bridges CogniChain chains to the Microsoft Agent Framework: run a chain as an A… |
-| 2026-11-27 06:50:46 | [TCIS.SharedKernel](https://www.nuget.org/packages/TCIS.SharedKernel) | 1.4.1 | TCIS Core Community and Contr… | TCIS Core Framework is an application framework for building modular, multi-ten… |
-| 2026-11-27 06:51:34 | [TlsWebSocket](https://www.nuget.org/packages/TlsWebSocket) | 1.0.1 | Wujindong | 精简的 WebSocket 客户端类库，结构仿照 websocket-sharp。传输层使用 TcpClient + BouncyCastle TLS 并显式… |
-| 2026-11-27 06:59:32 | [LockrAuth](https://www.nuget.org/packages/LockrAuth) | 1.0.0 | LockrAuth Team | Official LockrAuth C# (.NET) SDK with automated hardware ID (HWID) locking and… |
-| 2026-11-27 07:04:10 | [MyName.SourceG1](https://www.nuget.org/packages/MyName.SourceG1) | 1.0.1 | MyName | 为 partial 类的常量生成 GetConstXxx() 静态方法的 C# 源生成器。 |
-| 2026-11-27 07:06:00 | [Soluling.AspNet](https://www.nuget.org/packages/Soluling.AspNet) | 1.0.84 | Soluling | Soluling's ASP.NET Core library: over-the-air translation updates from Soluling… |
+| 2026-11-27 07:39:40 | [Vouch.Time](https://www.nuget.org/packages/Vouch.Time) | 0.4.0 | BaryoDev | Time helpers for Vouch with no dependencies: 5.Minutes(), 1.March(2026).At(10,… |
+| 2026-11-27 07:41:22 | [PowerAutomateFlowAuditor](https://www.nuget.org/packages/PowerAutomateFlowAuditor) | 1.0.1 | Apoorv Gupta | Audit Power Automate Cloud Flows in Dataverse to detect critical performance an… |
+| 2026-11-27 07:47:26 | [Eternet.AspNetCore.Components](https://www.nuget.org/packages/Eternet.AspNetCore.Components) | 1.0.0 | Eternet.AspNetCore.Components | Blazor component bases that cancel their work when the circuit closes, plus the… |
+| 2026-11-27 07:47:35 | [Limbo.Umbraco.Core](https://www.nuget.org/packages/Limbo.Umbraco.Core) | 17.0.0-alpha001 | Anders Bjerner | Internal package at Limbo. Install at your own risk. |
+| 2026-11-27 07:54:26 | [complexMathPacket](https://www.nuget.org/packages/complexMathPacket) | 1.0.0 | Veronika | Библиотека комплексных чисел: +, -, *, / |
+| 2026-11-27 07:55:43 | [CodecHub.DevToys](https://www.nuget.org/packages/CodecHub.DevToys) | 1.0.4 | CodecHub | Unified encoder/decoder workbench: URL, HTML, Unicode, JSON, Base64/32/58, Hex,… |
+| 2026-11-27 07:56:57 | [Qore.BaseQore](https://www.nuget.org/packages/Qore.BaseQore) | 1.1.0 | BOC | Base Quc library containing repositories, filters, services, utilities, caching… |
+| 2026-11-27 08:11:33 | [ObserverMessage](https://www.nuget.org/packages/ObserverMessage) | 0.1.0 | ivanzanolla | Lightweight in-process event bus (publish/subscribe) for .NET, built on TPL Dat… |
 
 ## Data source
 

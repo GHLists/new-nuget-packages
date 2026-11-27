@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-27T07:39:40.96Z,Vouch.Time,0.4.0,BaryoDev,"Time helpers for Vouch with no dependencies: 5.Minutes(), 1.March(2026).At(10, 30) and the rest of the FluentAssertions time extensions."
+2026-11-27T07:41:22.89Z,PowerAutomateFlowAuditor,1.0.1,Apoorv Gupta,"Audit Power Automate Cloud Flows in Dataverse to detect critical performance anti-patterns: infinite trigger loops, missing select columns/filter rows, orphaned flows, and estimated API request consumption."
+2026-11-27T07:47:26.54Z,Eternet.AspNetCore.Components,1.0.0,Eternet.AspNetCore.Components,"Blazor component bases that cancel their work when the circuit closes, plus the EABZ analyzers. Works in Blazor Server and WebAssembly projects."
+2026-11-27T07:47:35.627Z,Limbo.Umbraco.Core,17.0.0-alpha001,Anders Bjerner,Internal package at Limbo. Install at your own risk.
+2026-11-27T07:54:26.963Z,complexMathPacket,1.0.0,Veronika,"Библиотека комплексных чисел: +, -, *, /"
+2026-11-27T07:55:43.327Z,CodecHub.DevToys,1.0.4,CodecHub,"Unified encoder/decoder workbench: URL, HTML, Unicode, JSON, Base64/32/58, Hex, charsets, radix, two's complement, IPv4, Unix time and GUID."
+2026-11-27T07:56:57.977Z,Qore.BaseQore,1.1.0,BOC,"Base Quc library containing repositories, filters, services, utilities, caching and messaging abstractions."
+2026-11-27T08:11:33.57Z,ObserverMessage,0.1.0,ivanzanolla,"Lightweight in-process event bus (publish/subscribe) for .NET, built on TPL Dataflow."
