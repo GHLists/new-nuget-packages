@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-27T05:26:42.913Z,PurpleAirAPI,2026.11.26,Carlos Santos,PurpleAir API C# bindings with C++ backend
+2026-11-27T06:04:20.843Z,Plex.Studio.Export,8.0.1,Tom Lee,"A dependency-free .NET 8 document exporter: describe a document once (headings, paragraphs, tables, pictures) and write it as Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF or HTML. Every format is written from its specification with what .NET has; no packages, no Office installed."
+2026-11-27T06:06:15.053Z,Gtk4.MarkupCompiler,1.0.0.26331,"Microsoft, Piero Viano",Build-time WPF XAML markup compiler for the Gtk4.Wpf compatibility layer.
+2026-11-27T06:06:22.02Z,Gtk4.PresentationFramework,1.0.0.26331,"Microsoft, Piero Viano",Package Description
+2026-11-27T06:06:25.027Z,Gtk4.WindowsBase,1.0.0.26331,"Microsoft, Piero Viano",Package Description
+2026-11-27T06:06:28.157Z,Gtk4.Wpf,1.0.0.26331,"Microsoft, Piero Viano","Meta-package: add one PackageReference to run an existing WPF app on GTK 4 without editing controls, XAML, usings or namespaces. The package rewrites the consumer .csproj and pulls in the Gtk4.Wpf WPF compatibility layer."
+2026-11-27T06:06:31.43Z,Net4x.Html2Markdown,1.0.0.26330,Html2Markdown.Library,Package Description
+2026-11-27T06:06:34.253Z,Net4x.RewriteGitHistory,2.3.0.26330,RewriteGitHistory.Library,Package Description
+2026-11-27T06:07:55.943Z,DbRelay.MySql,0.3.0,DbRelay contributors,"MySQL and MariaDB storage provider for DbRelay (MySqlConnector): transactional outbox inserts in the caller's MySqlTransaction, FOR UPDATE SKIP LOCKED claiming with leases and lock tokens, retention cleanup and explicit, idempotent schema creation. MySQL 8.0+ (including Amazon RDS and Aurora MySQL…"
+2026-11-27T06:07:57.007Z,DbRelay.Oracle,0.3.0,DbRelay contributors,"Oracle storage provider for DbRelay (ODP.NET Core): transactional outbox inserts in the caller's OracleTransaction, FOR UPDATE SKIP LOCKED claiming with leases and lock tokens, retention cleanup and explicit, idempotent schema creation. Oracle Database 19c and later."
