@@ -1,0 +1,9 @@
+created_at,package,version,authors,description
+2026-11-28T08:22:16.727Z,OneGTMLab.GtmToolFinder,1.0.0,OneGTMLab,"Small .NET client for the free, read-only GTM Tool Finder API: API reviews of sales and marketing tools, head-to-head comparisons and glossary terms from the public OneGTMLab tool directory. No API key."
+2026-11-28T08:22:18.66Z,OneGTMLab.GtmToolFinder.Cli,1.0.0,OneGTMLab,"gtmfind: command-line search of the free GTM Tool Finder directory (tool API reviews, comparisons and glossary terms from OneGTMLab). Install with: dotnet tool install -g OneGTMLab.GtmToolFinder.Cli"
+2026-11-28T08:26:52.003Z,OmegaAOL.Bifrost,1.0.0,OmegaAOL and EAZY BLACK,"A drop-in HTTP/1.1 handler and WebSocket client for .NET that perform TLS with Bouncy Castle instead of Schannel/SslStream, including TLS 1.3, an embedded CA bundle, and connection pooling."
+2026-11-28T08:36:35.48Z,dabuzmakov.MoodCover,0.1.0,dabuzmakov,Fractal flame PNG generator with multithreaded rendering.
+2026-11-28T08:40:07.273Z,NativeLang.Classify,0.2.0,NativeLang contributors,Classify text locally using categories supplied by your application.
+2026-11-28T08:44:16.887Z,CoreOCRRuntime.OpenVino.linux-x64,4.3.0-beta02,PaddleOCRCore,CoreOCROnnx OpenVINO CPU and Intel GPU runtime package for Linux x64.
+2026-11-28T08:45:04.293Z,CoreOCRRuntime.OpenVino.win-x64,4.3.0-beta02,PaddleOCRCore,CoreOCROnnx OpenVINO CPU and Intel GPU runtime package for Windows x64.
+2026-11-28T08:58:40.03Z,OctopusLiveWire,1.0.0,Katamba Martin,"OCTOPUS Live Engine for .NET: runs YAML workflow blueprints in memory behind ASP.NET Core minimal APIs, with middlewares, sagas and a live visualizer."
