@@ -12,24 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 01:21 UTC
+## Latest list — 2026-11-28 02:20 UTC
 
-New packages created between 2026-11-28 00:19 UTC and 2026-11-28 01:21 UTC.
+New packages created between 2026-11-28 01:21 UTC and 2026-11-28 02:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-28T01-21-14-783914Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-28T02-20-55-274521Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-28 00:31:30 | [Messager.NET.PureDI](https://www.nuget.org/packages/Messager.NET.PureDI) | 2.1.0 | NovoDwarf | Pure.DI pub/sub integration for Messager.NET. |
-| 2026-11-28 00:38:07 | [MicroWeave.Core](https://www.nuget.org/packages/MicroWeave.Core) | 0.1.0 | MicroWeave.NET contributors | Application contracts and result types for MicroWeave.NET services. |
-| 2026-11-28 00:38:08 | [MicroWeave.Messaging.MassTransit](https://www.nuget.org/packages/MicroWeave.Messaging.MassTransit) | 0.1.0 | MicroWeave.NET contributors | RabbitMQ and PostgreSQL outbox integration for MicroWeave services. |
-| 2026-11-28 00:38:09 | [MicroWeave.ServiceDefaults](https://www.nuget.org/packages/MicroWeave.ServiceDefaults) | 0.1.0 | MicroWeave.NET contributors | OpenTelemetry and health check defaults for MicroWeave .NET applications. |
-| 2026-11-28 00:38:09 | [MicroWeave.Gateway](https://www.nuget.org/packages/MicroWeave.Gateway) | 0.1.0 | MicroWeave.NET contributors | HTTP correlation and Aspire service discovery for MicroWeave Ocelot gateways. |
-| 2026-11-28 00:38:10 | [MicroWeave.Templates](https://www.nuget.org/packages/MicroWeave.Templates) | 0.1.0 | MicroWeave.NET contributors | Generate a MicroWeave .NET system or service. |
-| 2026-11-28 00:42:46 | [EgyptianId.AspNetCore](https://www.nuget.org/packages/EgyptianId.AspNetCore) | 1.0.0 | Ahmed Mohamed Gaber | ASP.NET Core integration for EgyptianId: bind the 14-digit Egyptian national ID… |
-| 2026-11-28 00:42:47 | [EgyptianId.FluentValidation](https://www.nuget.org/packages/EgyptianId.FluentValidation) | 1.0.0 | Ahmed Mohamed Gaber | FluentValidation rule for the 14-digit Egyptian national ID number. One call ad… |
-| 2026-11-28 00:51:38 | [TBJ.Integrations.PublicRegisters](https://www.nuget.org/packages/TBJ.Integrations.PublicRegisters) | 1.0.0 | TBJ | Typed clients for Polish public registers: REGON (GUS BIR), CEIDG, VAT whitelis… |
-| 2026-11-28 01:08:35 | [Provident.Foundations](https://www.nuget.org/packages/Provident.Foundations) | 11.98.3 | Sam Jones | A general-purpose, portable .NET class library for application development on .… |
+| 2026-11-28 01:44:57 | [Proxeno.Kiln.Audio](https://www.nuget.org/packages/Proxeno.Kiln.Audio) | 1.0.0 | Proxeno | Pure-managed SIMD Opus (RFC 6716) encoder and decoder for real-time voice. No n… |
+| 2026-11-28 02:05:34 | [Provident.Foundations.SqlServer](https://www.nuget.org/packages/Provident.Foundations.SqlServer) | 11.98.3 | Sam Jones | A general-purpose, portable .NET class library for SQL Server database developm… |
 
 ## Data source
 
