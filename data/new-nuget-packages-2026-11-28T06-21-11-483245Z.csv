@@ -1,0 +1,59 @@
+created_at,package,version,authors,description
+2026-11-28T05:22:06.333Z,SXM.NetFramework.Attributes,1.0.0,SXM.NetFramework.Attributes,Marker attributes used by SXM.NetFramework source generators and framework conventions.
+2026-11-28T05:22:08.223Z,SXM.NetFramework.Auth.WSO2,1.0.0,SXM.NetFramework.Auth.WSO2,WSO2 authentication integration for SXM backend framework consumers.
+2026-11-28T05:22:10.273Z,SXM.NetFramework.Booking,1.0.0,SXM.NetFramework.Booking,"Core abstractions, models, and options for the SXM appointment booking framework."
+2026-11-28T05:22:12.12Z,SXM.NetFramework.Booking.Application,1.0.0,SXM.NetFramework.Booking.Application,"Availability engine, holiday rules, and booking orchestration for the SXM appointment booking framework."
+2026-11-28T05:22:14.607Z,SXM.NetFramework.Booking.Driver,1.0.0,SXM.NetFramework.Booking.Driver,"Single-package appointment booking driver for SXM services: one-call registration, availability/create/reschedule/cancel/get API, Microsoft Bookings vendor adapter, notification outbox, and REST endpoints."
+2026-11-28T05:22:17.067Z,SXM.NetFramework.Booking.Infrastructure,1.0.0,SXM.NetFramework.Booking.Infrastructure,"Vendor adapters (Microsoft Bookings via Graph), token acquisition, persistence, and notification dispatch for the SXM appointment booking framework."
+2026-11-28T05:22:19.293Z,SXM.NetFramework.CacheClient,1.0.0,SXM.NetFramework.CacheClient,Redis-backed and no-op cache abstractions for SXM backend framework consumers.
+2026-11-28T05:22:21.187Z,SXM.NetFramework.CanonicalSync.Abstractions,1.0.0,SXM.NetFramework.CanonicalSync.Abstractions,"Canonical Sync abstractions: envelope, mapper/handler/pipeline interfaces, inbox and source-link ports."
+2026-11-28T05:22:22.997Z,SXM.NetFramework.CanonicalSync.Contracts,1.0.0,SXM.NetFramework.CanonicalSync.Contracts,"Canonical Sync wire contracts: registry integration event, source lineage and contract versioning."
+2026-11-28T05:22:25.237Z,SXM.NetFramework.CanonicalSync.Hosting,1.0.0,SXM.NetFramework.CanonicalSync.Hosting,"Canonical Sync hosting: MassTransit Azure Service Bus consumer, subscription endpoint config and parking router."
+2026-11-28T05:22:27.447Z,SXM.NetFramework.CanonicalSync.Infrastructure,1.0.0,SXM.NetFramework.CanonicalSync.Infrastructure,"Canonical Sync transport-agnostic core: pipeline, resolvers, validation, retry classifier, metrics and in-memory defaults."
+2026-11-28T05:22:29.267Z,SXM.NetFramework.CanonicalSync.Redis,1.0.0,SXM.NetFramework.CanonicalSync.Redis,Canonical Sync Redis storage: distributed-cache inbox and source-link stores with TTL-based retention for the team/cache tier.
+2026-11-28T05:22:31.39Z,SXM.NetFramework.CanonicalSync.SqlServer,1.0.0,SXM.NetFramework.CanonicalSync.SqlServer,"Canonical Sync SQL Server storage: durable inbox, source-link writer, transactional unit of work and schema bootstrapper."
+2026-11-28T05:22:33.293Z,SXM.NetFramework.Communication,1.0.0,SXM.NetFramework.Communication,"Platform package for unified Email, SMS, and File Storage integration across SXM services."
+2026-11-28T05:22:35.38Z,SXM.NetFramework.Communication.Application,1.0.0,SXM.NetFramework.Communication.Application,"CQRS commands and queries for the SXM communication framework — email queue, SMS, file upload, presigned URLs."
+2026-11-28T05:22:37.75Z,SXM.NetFramework.Communication.Driver,1.0.0,SXM.NetFramework.Communication.Driver,"Single-package communication driver that unifies Email, SMS, and File Storage access for SXM services."
+2026-11-28T05:22:39.59Z,SXM.NetFramework.Email,1.0.0,SXM.NetFramework.Email,"Reusable email contracts, templates, and delivery abstractions for SXM modular services."
+2026-11-28T05:22:41.38Z,SXM.NetFramework.Email.Azure,1.0.0,SXM.NetFramework.Email.Azure,Azure Communication Services email provider for the reusable SXM email module.
+2026-11-28T05:22:43.757Z,SXM.NetFramework.Email.Driver,1.0.0,SXM.NetFramework.Email.Driver,Single-package email driver for SXM services with one-call API and background dispatch support.
+2026-11-28T05:22:46.053Z,SXM.NetFramework.Entity,26.11.3,SXM.NetFramework.Entity,"Shared entity models, GraphQL partial update helpers, and legacy framework entity contracts for SXM backend services."
+2026-11-28T05:22:48.187Z,SXM.NetFramework.FileStorage,1.0.0,SXM.NetFramework.FileStorage,"Reusable file storage abstractions and provider implementations for Azure Blob, S3, MinIO, and FTP."
+2026-11-28T05:22:49.97Z,SXM.NetFramework.GraphQL,1.0.0,SXM.NetFramework.GraphQL,GraphQL host extensions for SXM backend services based on Hot Chocolate.
+2026-11-28T05:22:52.04Z,SXM.NetFramework.GraphQLGenerator,1.0.0,SXM.NetFramework.GraphQLGenerator,Source generator that emits Hot Chocolate queries and repository-based CRUD mutations for SXM services through the shared repository abstraction.
+2026-11-28T05:22:53.973Z,SXM.NetFramework.Identity.BackOffice,1.0.0,SXM.NetFramework.Identity.BackOffice,"Reusable backoffice identity domain models, contracts, and configuration for SXM backend services."
+2026-11-28T05:22:56.023Z,SXM.NetFramework.Identity.BackOffice.Application,1.0.0,SXM.NetFramework.Identity.BackOffice.Application,CQRS handlers and application services for SXM.NetFramework.Identity.BackOffice.
+2026-11-28T05:22:58.27Z,SXM.NetFramework.Identity.BackOffice.Infrastructure,1.0.0,SXM.NetFramework.Identity.BackOffice.Infrastructure,"linq2db and Dapper persistence, JWT authentication, and default infrastructure services for SXM.NetFramework.Identity.BackOffice."
+2026-11-28T05:23:00.263Z,SXM.NetFramework.Identity.BackOffice.OpenId,1.0.0,SXM.NetFramework.Identity.BackOffice.OpenId,OpenID Connect and OAuth2 resource-server integration for SXM backoffice identity.
+2026-11-28T05:23:02.187Z,SXM.NetFramework.Identity.WSO2,1.0.0,SXM.NetFramework.Identity.WSO2,"Citizen-login WSO2 orchestration module that composes the SXM framework, TwoFactor, and Email packages."
+2026-11-28T05:23:04.637Z,SXM.NetFramework.Infrastructure,1.0.0,SXM.NetFramework.Infrastructure,"Database, outbox, and persistence building blocks for SXM backend framework consumers."
+2026-11-28T05:23:06.787Z,SXM.NetFramework.Localization,1.0.0,SXM.NetFramework.Localization,"Localization services, loaders, sources, and embedded framework translations for SXM backend services."
+2026-11-28T05:23:08.823Z,SXM.NetFramework.Logging,1.0.0,SXM.NetFramework.Logging,Reusable production-grade Serilog configuration for SXM backend services.
+2026-11-28T05:23:10.85Z,SXM.NetFramework.MessageBroker,1.0.0,SXM.NetFramework.MessageBroker,"Message broker abstractions and provider support for RabbitMQ, Azure Service Bus, and Kafka integration."
+2026-11-28T05:23:13.127Z,SXM.NetFramework.Notification.Driver,1.0.0,SXM.NetFramework.Notification.Driver,Single-package notification driver for SXM services: SignalR web push and Firebase Cloud Messaging mobile push with a one-call API and HTTP endpoints.
+2026-11-28T05:23:14.913Z,SXM.NetFramework.Observability,1.0.0,SXM.NetFramework.Observability,OpenTelemetry tracing and metrics bootstrap for SXM backend services.
+2026-11-28T05:23:16.737Z,SXM.NetFramework.Push,1.0.0,SXM.NetFramework.Push,Reusable mobile push notification abstractions and models for SXM backend services.
+2026-11-28T05:23:18.937Z,SXM.NetFramework.QrCode,1.0.0,SXM.NetFramework.QrCode,"Core abstractions, models, and options for the SXM QR code and barcode generation framework."
+2026-11-28T05:23:20.89Z,SXM.NetFramework.QrCode.Application,1.0.0,SXM.NetFramework.QrCode.Application,Generation orchestrator and request validation for the SXM QR code framework.
+2026-11-28T05:23:23.26Z,SXM.NetFramework.QrCode.Driver,1.0.0,SXM.NetFramework.QrCode.Driver,"Single-package QR code and barcode driver for SXM services: one-call registration, generate/get/delete API, and REST endpoints."
+2026-11-28T05:23:25.43Z,SXM.NetFramework.QrCode.Infrastructure,1.0.0,SXM.NetFramework.QrCode.Infrastructure,"Renderers (QRCoder, ZXing.Net), logo compositors, and the FileUpload-backed storage bridge for the SXM QR code framework."
+2026-11-28T05:23:27.34Z,SXM.NetFramework.Realtime,1.0.0,SXM.NetFramework.Realtime,SignalR-based real-time publishing support for SXM backend services.
+2026-11-28T05:23:29.193Z,SXM.NetFramework.Repositories,1.0.0,SXM.NetFramework.Repositories,Generic repository and repository factory implementation for SXM services built on linq2db persistence.
+2026-11-28T05:23:31.277Z,SXM.NetFramework.Scheduling,1.0.0,SXM.NetFramework.Scheduling,"Scheduling core: database-driven schedule reconciler, generic job dispatcher, handler registry, timezone resolver and options. No Hangfire reference."
+2026-11-28T05:23:33.107Z,SXM.NetFramework.Scheduling.Abstractions,1.0.0,SXM.NetFramework.Scheduling.Abstractions,"Scheduling contracts: handler interface, execution context, schedule descriptor, repository and scheduler ports. No Hangfire reference."
+2026-11-28T05:23:35.323Z,SXM.NetFramework.Scheduling.Infrastructure,1.0.0,SXM.NetFramework.Scheduling.Infrastructure,"Hangfire-backed scheduling infrastructure: server bootstrap, recurring-job adapter, policy and retry filters, LinqToDB repositories, schema bootstrapper and built-in handlers."
+2026-11-28T05:23:37.62Z,SXM.NetFramework.Security,1.0.0,SXM.NetFramework.Security,Inbound access control middleware for domain and IP allow/deny policies.
+2026-11-28T05:23:39.697Z,SXM.NetFramework.ServiceClient,1.0.0,SXM.NetFramework.ServiceClient,Package Description
+2026-11-28T05:23:41.773Z,SXM.NetFramework.Sms.Driver,1.0.0,SXM.NetFramework.Sms.Driver,Single-package SMS driver for SXM services built on the TwoFactor SMS delivery pipeline.
+2026-11-28T05:23:43.713Z,SXM.NetFramework.TwoFactor,1.0.0,SXM.NetFramework.TwoFactor,Reusable two-factor authentication domain contracts and challenge lifecycle for SXM backend services.
+2026-11-28T05:23:45.65Z,SXM.NetFramework.TwoFactor.Application,1.0.0,SXM.NetFramework.TwoFactor.Application,CQRS command handlers and validation pipeline for reusable two-factor flows.
+2026-11-28T05:23:47.457Z,SXM.NetFramework.TwoFactor.Azure,1.0.0,SXM.NetFramework.TwoFactor.Azure,Azure Communication Services delivery providers for SXM.NetFramework.TwoFactor.
+2026-11-28T05:23:49.487Z,SXM.NetFramework.TwoFactor.Infrastructure,1.0.0,SXM.NetFramework.TwoFactor.Infrastructure,linq2db persistence and default infrastructure services for SXM.NetFramework.TwoFactor.
+2026-11-28T05:23:51.807Z,SXM.NetFramework.Web,1.0.0,SXM.NetFramework.Web,"Web host bootstrap, middleware, rate limiting, problem-details handling, and OpenAPI for SXM backend services."
+2026-11-28T05:47:28.853Z,FineVoice,0.1.3,FineVoice,"C# SDK for the FineVoice API: text to speech, voice conversion, music generation, audio enhancement, and more."
+2026-11-28T05:50:26.327Z,Pumpkin.DotNet.Runtime,0.2.0-alpha,Glesity,Pumpkin.NET runtime.
+2026-11-28T05:50:26.93Z,Pumpkin.DotNet.Sdk,0.2.0-alpha,Pumpkin.DotNet.Sdk,Package Description
+2026-11-28T06:02:52.467Z,BoltMySql,0.1.1,Logan (Ezgaminglogan),"Fast, zero-ceremony, anti-SQL-injection MySQL & MariaDB micro-ORM for .NET Framework 4.6.2+ (netstandard2.0) and .NET 6/8/9/10 built directly on MySqlConnector."
+2026-11-28T06:14:29.5Z,Cloudsimpl.Identity.Api.BasicAuth.Utils,7.0.0,Cloudsimpl.Identity.Api.BasicAuth.Utils,Package Description
+2026-11-28T06:15:46.353Z,StalSend,0.1.0,StalSend,Official .NET client for the StalSend email API
