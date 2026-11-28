@@ -12,19 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 07:19 UTC
+## Latest list — 2026-11-28 08:21 UTC
 
-New packages created between 2026-11-28 06:21 UTC and 2026-11-28 07:19 UTC.
+New packages created between 2026-11-28 07:19 UTC and 2026-11-28 08:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-28T07-19-09-358788Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-28T08-21-50-889532Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-28 06:23:40 | [Findx.Extensions.Notify](https://www.nuget.org/packages/Findx.Extensions.Notify) | 11.1.2026.1128 | Findx.Extensions.Notify | Findx消息通知扩展组件（企业微信群机器人/应用消息、钉钉群机器人、SMTP邮件、微信公众号模板消息） |
-| 2026-11-28 06:23:48 | [Findx.Extensions.WorkflowCore](https://www.nuget.org/packages/Findx.Extensions.WorkflowCore) | 11.1.2026.1128 | Findx.Extensions.WorkflowCore | Findx工作流核心扩展模块 |
-| 2026-11-28 06:43:22 | [NewLife.ML](https://www.nuget.org/packages/NewLife.ML) | 1.0.2026.1128-beta0… | 新生命开发团队 | Tabular machine learning for .NET: data frame, training contract, evaluation me… |
-| 2026-11-28 06:43:24 | [NewLife.ML.LightGbm](https://www.nuget.org/packages/NewLife.ML.LightGbm) | 1.0.2026.1128-beta0… | 新生命开发团队 | LightGBM adapter for NewLife.ML: train binary/multiclass classification and reg… |
-| 2026-11-28 07:06:21 | [Blasphemous.EditorMode](https://www.nuget.org/packages/Blasphemous.EditorMode) | 0.1.0 | NewbieElton | A Blasphemous 1 mod that adds an in-game editor mode to tweak level layout on t… |
+| 2026-11-28 07:51:58 | [MfxHub.Sdk](https://www.nuget.org/packages/MfxHub.Sdk) | 0.1.0 | KUDMANI PTY LTD | Typed .NET client for the MFX Hub API: hosted trading terminals, market data, e… |
+| 2026-11-28 07:53:36 | [NativeTheme.Avalonia](https://www.nuget.org/packages/NativeTheme.Avalonia) | 1.0.0 | NativeTheme.Avalonia contribu… | Avalonia styles that paint common controls with the current Windows UxTheme vis… |
+| 2026-11-28 08:00:41 | [SqlQueryBuilderAot](https://www.nuget.org/packages/SqlQueryBuilderAot) | 1.0.0 | Amir Hesamian | A SQL query builder for AOT (Ahead-of-Time) compilation. |
+| 2026-11-28 08:11:11 | [ClassPixelPro.ColorDocument.Avalonia](https://www.nuget.org/packages/ClassPixelPro.ColorDocument.Avalonia) | 11.0.3.4 | whistyun | Package Description |
+| 2026-11-28 08:11:13 | [ClassPixelPro.ColorTextBlock.Avalonia](https://www.nuget.org/packages/ClassPixelPro.ColorTextBlock.Avalonia) | 11.0.3.4 | whistyun | Package Description |
+| 2026-11-28 08:11:14 | [ClassPixelPro.Markdown.Avalonia](https://www.nuget.org/packages/ClassPixelPro.Markdown.Avalonia) | 11.0.3.4 | Bevan Arps(original),whistyun… | Markdown Controls for Avalonia |
+| 2026-11-28 08:11:16 | [ClassPixelPro.Markdown.Avalonia.Html](https://www.nuget.org/packages/ClassPixelPro.Markdown.Avalonia.Html) | 11.0.3.4 | whistyun | html tag processor for Markdown.Avalonia |
+| 2026-11-28 08:11:17 | [ClassPixelPro.Markdown.Avalonia.Svg](https://www.nuget.org/packages/ClassPixelPro.Markdown.Avalonia.Svg) | 11.0.3.4 | grifsun,whistyun | Package Description |
+| 2026-11-28 08:11:21 | [ClassPixelPro.Markdown.Avalonia.SyntaxHigh](https://www.nuget.org/packages/ClassPixelPro.Markdown.Avalonia.SyntaxHigh) | 11.0.3.4 | whistyun | Package Description |
+| 2026-11-28 08:11:23 | [ClassPixelPro.Markdown.Avalonia.Tight](https://www.nuget.org/packages/ClassPixelPro.Markdown.Avalonia.Tight) | 11.0.3.4 | Bevan Arps(original),whistyun | Markdown Controls for Avalonia |
 
 ## Data source
 

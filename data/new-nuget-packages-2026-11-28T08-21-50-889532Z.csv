@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-28T07:51:58.01Z,MfxHub.Sdk,0.1.0,KUDMANI PTY LTD,"Typed .NET client for the MFX Hub API: hosted trading terminals, market data, execution and a live event stream. Signed requests, typed errors, exact decimals, cursor paging and a resuming stream."
+2026-11-28T07:53:36.76Z,NativeTheme.Avalonia,1.0.0,NativeTheme.Avalonia contributors,"Avalonia styles that paint common controls with the current Windows UxTheme visual style, with an automatic DirectWrite/GDI rendering compatibility patch."
+2026-11-28T08:00:41.03Z,SqlQueryBuilderAot,1.0.0,Amir Hesamian,A SQL query builder for AOT (Ahead-of-Time) compilation.
+2026-11-28T08:11:11.69Z,ClassPixelPro.ColorDocument.Avalonia,11.0.3.4,whistyun,Package Description
+2026-11-28T08:11:13.217Z,ClassPixelPro.ColorTextBlock.Avalonia,11.0.3.4,whistyun,Package Description
+2026-11-28T08:11:14.657Z,ClassPixelPro.Markdown.Avalonia,11.0.3.4,"Bevan Arps(original),whistyun,ClassIsland",Markdown Controls for Avalonia
+2026-11-28T08:11:16.187Z,ClassPixelPro.Markdown.Avalonia.Html,11.0.3.4,whistyun,html tag processor for Markdown.Avalonia
+2026-11-28T08:11:17.683Z,ClassPixelPro.Markdown.Avalonia.Svg,11.0.3.4,"grifsun,whistyun",Package Description
+2026-11-28T08:11:21.923Z,ClassPixelPro.Markdown.Avalonia.SyntaxHigh,11.0.3.4,whistyun,Package Description
+2026-11-28T08:11:23.517Z,ClassPixelPro.Markdown.Avalonia.Tight,11.0.3.4,"Bevan Arps(original),whistyun",Markdown Controls for Avalonia
