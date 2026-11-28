@@ -1,0 +1,14 @@
+created_at,package,version,authors,description
+2026-11-28T03:28:22.75Z,Pushq,1.0.0,blissfulrays,"Official .NET client for pushq, a self-hosted HTTP push task queue (an open-source alternative to Google Cloud Tasks). Create queues with rate limits and retries, enqueue HTTP tasks, and verify signed deliveries."
+2026-11-28T03:35:18.767Z,DataGateway,1.0.0,Maxim Konstantinovski,"Read-only JSON and MCP endpoints over relational data for ASP.NET Core apps: list, describe and query catalogued sources with row caps and validated queries. Bring a database engine: derive DatabaseEngine<TConnection> from DataGateway.Data for any ADO.NET database."
+2026-11-28T03:35:19.807Z,DataGateway.Core,1.0.0,Maxim Konstantinovski,"DataGateway's catalog model, query validation and error contract. Brought in by DataGateway; no database dependency."
+2026-11-28T03:35:20.8Z,DataGateway.Data,1.0.0,Maxim Konstantinovski,DataGateway's catalog reader and database engine base classes. Derive DatabaseEngine<TConnection> to add any ADO.NET database.
+2026-11-28T03:35:21.84Z,DataGateway.Data.PostgreSql,1.0.0,Maxim Konstantinovski,DataGateway's PostgreSQL engine (Npgsql). Register it with AddEngine to serve catalogued PostgreSQL sources.
+2026-11-28T03:35:23.23Z,DataGateway.Data.Snowflake,1.0.0,Maxim Konstantinovski,DataGateway's Snowflake engine. Register it with AddEngine to serve catalogued Snowflake sources.
+2026-11-28T03:35:24.243Z,DataGateway.Data.SqlServer,1.0.0,Maxim Konstantinovski,DataGateway's SQL Server engine (Microsoft.Data.SqlClient). Register it with AddEngine to serve catalogued SQL Server sources.
+2026-11-28T03:38:43.923Z,BnSpellNum,0.1.0,Ediphas Labs,"Spell out numbers in Bangla: words, currency (taka/paisa), ordinals, years and dates. Zero dependencies."
+2026-11-28T03:52:32.79Z,Tydocx,0.1.0,tydocx contributors,Convert Typst documents to editable Word (.docx) files.
+2026-11-28T04:02:09.853Z,NetPublishOptimizer,0.9.0,PLFJY,Unified .NET publish optimization SDK.
+2026-11-28T04:02:11.543Z,NetPublishOptimizer.Diagnostics.EventPipe,0.9.0,PLFJY,Optional EventPipe collector for NetPublishOptimizer. Installed independently of the regular optimizer and never launched implicitly.
+2026-11-28T04:02:13.37Z,NetPublishOptimizer.MSBuild,0.9.0,PLFJY,Opt-in MSBuild post-publish integration that orchestrates the NetPublishOptimizer command-line tool. Optimization is disabled unless NetPublishOptimizerEnabled is true.
+2026-11-28T04:02:15.04Z,NetPublishOptimizer.Tool,0.9.0,PLFJY,Command-line optimizer and validator for already-published .NET application directories. Python-free; no trace or diagnostics dependencies.
