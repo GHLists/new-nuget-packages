@@ -1,0 +1,18 @@
+created_at,package,version,authors,description
+2026-11-28T10:25:40.947Z,BitMagic.X16Oscar64,0.1.2,Yazwh0,"Oscar64 debug information (.dbj) for the Commander X16: reader, line and scope lookups, value decoding and a C expression evaluator."
+2026-11-28T10:25:41.74Z,BitMagic.X16Oscar64.Debugger,0.1.2,Yazwh0,"Debugs C programs compiled with Oscar64 for the Commander X16, in X16D."
+2026-11-28T10:27:55.427Z,ToucanHub.EventStore.Outbox.Abstractions,0.8.0,junglistkirss,Outbox store abstractions
+2026-11-28T10:27:56.043Z,ToucanHub.EventStore.Outbox.PgSql,0.8.0,junglistkirss,Outbox store for PostgreSQL
+2026-11-28T10:28:53Z,Nextorm.Extensions.PostgreSql,1.0.0,Nextorm.Extensions.PostgreSql,NextORM mappings and query functions for the PostgreSQL system catalog and pgvector.
+2026-11-28T10:32:22.767Z,Inertia.Net.Live.Sse,1.9.11,Inertia.Net contributors,"Server-Sent Events transport for Inertia.Net live props: one endpoint, no client library, single app instance (Native AOT compatible)."
+2026-11-28T10:33:50.397Z,VL.Globe,0.1.0-alpha,red,"A globe of map tiles in VL, drawn with Stride from the whole Earth down to street level: raster tile layers, vector tiles from a MapLibre style with labels and 3D buildings, your own geometry on top, and a camera that moves like a map."
+2026-11-28T10:41:38.12Z,Hexalith.Projects.EventStoreExtensions,2.1.0,Hexalith Contributors,Tenant-scoped project workspace and context-resolution module for .NET built on Hexalith.EventStore.
+2026-11-28T10:47:52.93Z,Gantry.Transport.Ssh,0.1.1,Patrick Matthiesen,SSH transport for Gantry automation on Linux and Windows targets.
+2026-11-28T10:47:53.597Z,Gantry.Host,0.1.1,Patrick Matthiesen,Build a Gantry command-line app that runs your own configuration and automation pipelines.
+2026-11-28T10:47:54.23Z,Gantry.Secrets,0.1.1,Patrick Matthiesen,"Environment, file, Azure Key Vault, and in-memory secret providers for Gantry."
+2026-11-28T10:47:54.913Z,Gantry.Engine,0.1.1,Patrick Matthiesen,"Validate, plan, and execute Gantry pipelines."
+2026-11-28T10:47:55.74Z,Gantry.Cli,0.1.1,Patrick Matthiesen,"The Gantry command-line tool for validating, planning, and applying pipelines."
+2026-11-28T10:47:56.34Z,Gantry.Core,0.1.1,Patrick Matthiesen,"Gantry's configuration model, pipeline DSL, and execution interfaces."
+2026-11-28T10:58:29.363Z,BricklinkSharp.Extensions.DependencyInjection,2.0.0,Jens Eisenbach,Dependency injection support (AddBrickLinkClient) for BricklinkSharp.
+2026-11-28T10:59:34.71Z,Tellurian.Trains.Schedules.Model.Files,5.0.0,Stefan Fjällemark,"The envelope of the Tellurian Trains files and the chain of migrations that brings an older file up to date: format, kind and schema version around the content. Shared by plan files and drawing files. No dependencies."
+2026-11-28T10:59:35.81Z,Tellurian.Trains.Schedules.Model.Drawings,5.0.0,Stefan Fjällemark,"The drawn model railway layout: modules with their drawings, end profiles, standards, catalogues, halls and hall plans, and the drawing file formats. What Module Draw makes and the Module Registry shows. A hall plan gives the operating layout (Tellurian.Trains.Schedules.Model.Layouts) with its trac…"
