@@ -1,0 +1,4 @@
+created_at,package,version,authors,description
+2026-11-28T05:15:30.91Z,ClassPixelPro.Platforms.Abstractions,2.0.0,ClassPixelPro,ClassPixelPro 应用跨平台抽象基类。
+2026-11-28T05:15:34.107Z,ClassPixelPro.Shared,2.0.0,ClassPixelPro,ClassPixelPro 的核心共享库。
+2026-11-28T05:15:35.677Z,ClassPixelPro.Shared.IPC,2.0.0,ClassPixelPro,用于的客户端与 ClassPixelPro 应用进行跨进程通信库。
