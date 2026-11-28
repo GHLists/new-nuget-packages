@@ -12,31 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 11:19 UTC
+## Latest list — 2026-11-28 12:21 UTC
 
-New packages created between 2026-11-28 10:20 UTC and 2026-11-28 11:19 UTC.
+New packages created between 2026-11-28 11:19 UTC and 2026-11-28 12:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-28T11-19-10-443561Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-28T12-21-04-136266Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-28 10:25:40 | [BitMagic.X16Oscar64](https://www.nuget.org/packages/BitMagic.X16Oscar64) | 0.1.2 | Yazwh0 | Oscar64 debug information (.dbj) for the Commander X16: reader, line and scope… |
-| 2026-11-28 10:25:41 | [BitMagic.X16Oscar64.Debugger](https://www.nuget.org/packages/BitMagic.X16Oscar64.Debugger) | 0.1.2 | Yazwh0 | Debugs C programs compiled with Oscar64 for the Commander X16, in X16D. |
-| 2026-11-28 10:27:55 | [ToucanHub.EventStore.Outbox.Abstractions](https://www.nuget.org/packages/ToucanHub.EventStore.Outbox.Abstractions) | 0.8.0 | junglistkirss | Outbox store abstractions |
-| 2026-11-28 10:27:56 | [ToucanHub.EventStore.Outbox.PgSql](https://www.nuget.org/packages/ToucanHub.EventStore.Outbox.PgSql) | 0.8.0 | junglistkirss | Outbox store for PostgreSQL |
-| 2026-11-28 10:28:53 | [Nextorm.Extensions.PostgreSql](https://www.nuget.org/packages/Nextorm.Extensions.PostgreSql) | 1.0.0 | Nextorm.Extensions.PostgreSql | NextORM mappings and query functions for the PostgreSQL system catalog and pgve… |
-| 2026-11-28 10:32:22 | [Inertia.Net.Live.Sse](https://www.nuget.org/packages/Inertia.Net.Live.Sse) | 1.9.11 | Inertia.Net contributors | Server-Sent Events transport for Inertia.Net live props: one endpoint, no clien… |
-| 2026-11-28 10:33:50 | [VL.Globe](https://www.nuget.org/packages/VL.Globe) | 0.1.0-alpha | red | A globe of map tiles in VL, drawn with Stride from the whole Earth down to stre… |
-| 2026-11-28 10:41:38 | [Hexalith.Projects.EventStoreExtensions](https://www.nuget.org/packages/Hexalith.Projects.EventStoreExtensions) | 2.1.0 | Hexalith Contributors | Tenant-scoped project workspace and context-resolution module for .NET built on… |
-| 2026-11-28 10:47:52 | [Gantry.Transport.Ssh](https://www.nuget.org/packages/Gantry.Transport.Ssh) | 0.1.1 | Patrick Matthiesen | SSH transport for Gantry automation on Linux and Windows targets. |
-| 2026-11-28 10:47:53 | [Gantry.Host](https://www.nuget.org/packages/Gantry.Host) | 0.1.1 | Patrick Matthiesen | Build a Gantry command-line app that runs your own configuration and automation… |
-| 2026-11-28 10:47:54 | [Gantry.Secrets](https://www.nuget.org/packages/Gantry.Secrets) | 0.1.1 | Patrick Matthiesen | Environment, file, Azure Key Vault, and in-memory secret providers for Gantry. |
-| 2026-11-28 10:47:54 | [Gantry.Engine](https://www.nuget.org/packages/Gantry.Engine) | 0.1.1 | Patrick Matthiesen | Validate, plan, and execute Gantry pipelines. |
-| 2026-11-28 10:47:55 | [Gantry.Cli](https://www.nuget.org/packages/Gantry.Cli) | 0.1.1 | Patrick Matthiesen | The Gantry command-line tool for validating, planning, and applying pipelines. |
-| 2026-11-28 10:47:56 | [Gantry.Core](https://www.nuget.org/packages/Gantry.Core) | 0.1.1 | Patrick Matthiesen | Gantry's configuration model, pipeline DSL, and execution interfaces. |
-| 2026-11-28 10:58:29 | [BricklinkSharp.Extensions.DependencyInjection](https://www.nuget.org/packages/BricklinkSharp.Extensions.DependencyInjection) | 2.0.0 | Jens Eisenbach | Dependency injection support (AddBrickLinkClient) for BricklinkSharp. |
-| 2026-11-28 10:59:34 | [Tellurian.Trains.Schedules.Model.Files](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Model.Files) | 5.0.0 | Stefan Fjällemark | The envelope of the Tellurian Trains files and the chain of migrations that bri… |
-| 2026-11-28 10:59:35 | [Tellurian.Trains.Schedules.Model.Drawings](https://www.nuget.org/packages/Tellurian.Trains.Schedules.Model.Drawings) | 5.0.0 | Stefan Fjällemark | The drawn model railway layout: modules with their drawings, end profiles, stan… |
+| 2026-11-28 11:38:24 | [SmartCore.IO](https://www.nuget.org/packages/SmartCore.IO) | 1.0.0 | SmartCore Contributors | Lightweight .NET I/O utilities for file, text, JSON, XML, and stream operations. |
+| 2026-11-28 11:53:24 | [LongCatNetRuntime](https://www.nuget.org/packages/LongCatNetRuntime) | 0.0.2 | dongfangzhizhu | Python-free .NET 8 P/Invoke runtime for the LongCat 1.6 Video Avatar pipeline (… |
+| 2026-11-28 11:55:23 | [Libo11y.Spec](https://www.nuget.org/packages/Libo11y.Spec) | 0.1.0 | James Ainslie | The libo11y telemetry specification for .NET: generated attribute, event and me… |
+| 2026-11-28 11:55:25 | [Libo11y](https://www.nuget.org/packages/Libo11y) | 0.1.0 | James Ainslie | Opinionated observability for .NET built on OpenTelemetry: one-call setup of tr… |
+| 2026-11-28 11:55:26 | [Libo11y.AspNetCore](https://www.nuget.org/packages/Libo11y.AspNetCore) | 0.1.0 | James Ainslie | libo11y instrumentation for ASP.NET Core and HttpClient: server middleware and… |
+| 2026-11-28 11:55:27 | [Libo11y.Db](https://www.nuget.org/packages/Libo11y.Db) | 0.1.0 | James Ainslie | libo11y database client instrumentation for .NET: parent-gated client spans, sa… |
+| 2026-11-28 11:55:28 | [Libo11y.Testing](https://www.nuget.org/packages/Libo11y.Testing) | 0.1.0 | James Ainslie | Hermetic test harness for libo11y on .NET: an in-memory recorder with conforman… |
+| 2026-11-28 11:55:30 | [Libo11y.Cli](https://www.nuget.org/packages/Libo11y.Cli) | 0.1.0 | James Ainslie | The libo11y command line tool for .NET: `libo11y registry check FILE...` valida… |
+| 2026-11-28 11:57:24 | [ToucanHub.EventStore.Outbox.ChannelBus](https://www.nuget.org/packages/ToucanHub.EventStore.Outbox.ChannelBus) | 1.0.0 | junglistkirss | Channel-based Outbox bus |
+| 2026-11-28 11:57:25 | [ToucanHub.EventStore.Outbox.Client.Abstractions](https://www.nuget.org/packages/ToucanHub.EventStore.Outbox.Client.Abstractions) | 1.0.0 | junglistkirss | Outbox store client abstractions |
+| 2026-11-28 11:57:26 | [ToucanHub.EventStore.Outbox.ReactiveBus](https://www.nuget.org/packages/ToucanHub.EventStore.Outbox.ReactiveBus) | 1.0.0 | junglistkirss | Reactive Outbox bus |
+| 2026-11-28 11:57:28 | [ToucanHub.EventStore.Subscriptions.ChannelBus](https://www.nuget.org/packages/ToucanHub.EventStore.Subscriptions.ChannelBus) | 1.0.0 | junglistkirss | Channel-based subscription store observer bus |
+| 2026-11-28 11:57:29 | [ToucanHub.EventStore.Subscriptions.ReactiveBus](https://www.nuget.org/packages/ToucanHub.EventStore.Subscriptions.ReactiveBus) | 1.0.0 | junglistkirss | Reactive subscription store observer bus |
+| 2026-11-28 12:04:04 | [Surly.Surl.Console](https://www.nuget.org/packages/Surly.Surl.Console) | 0.1.13 | Stewart Scott Rogers | surl, the server-side mate of curl: for each request upstream curl makes, surl… |
 
 ## Data source
 

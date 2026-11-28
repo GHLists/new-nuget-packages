@@ -1,0 +1,15 @@
+created_at,package,version,authors,description
+2026-11-28T11:38:24.72Z,SmartCore.IO,1.0.0,SmartCore Contributors,"Lightweight .NET I/O utilities for file, text, JSON, XML, and stream operations."
+2026-11-28T11:53:24.21Z,LongCatNetRuntime,0.0.2,dongfangzhizhu,"Python-free .NET 8 P/Invoke runtime for the LongCat 1.6 Video Avatar pipeline (lcatrt): SM89 FlashAttention-2, Sol-Attn, UMT5-XXL, Whisper large-v3, Wan2.1 VAE, RealESRGAN x2, and MuseTalk 1.5."
+2026-11-28T11:55:23.733Z,Libo11y.Spec,0.1.0,James Ainslie,"The libo11y telemetry specification for .NET: generated attribute, event and metric constants, sensitivity tables, and the application registry validator."
+2026-11-28T11:55:25.1Z,Libo11y,0.1.0,James Ainslie,"Opinionated observability for .NET built on OpenTelemetry: one-call setup of traces, metrics and logs, one sensitivity policy on every signal, and bounded shutdown."
+2026-11-28T11:55:26.323Z,Libo11y.AspNetCore,0.1.0,James Ainslie,libo11y instrumentation for ASP.NET Core and HttpClient: server middleware and a client DelegatingHandler with stable HTTP semantic conventions.
+2026-11-28T11:55:27.53Z,Libo11y.Db,0.1.0,James Ainslie,"libo11y database client instrumentation for .NET: parent-gated client spans, sanitized query text, and db.client.operation.duration."
+2026-11-28T11:55:28.783Z,Libo11y.Testing,0.1.0,James Ainslie,"Hermetic test harness for libo11y on .NET: an in-memory recorder with conformance and correlation assertions, and an in-process OTLP/HTTP receiver."
+2026-11-28T11:55:30Z,Libo11y.Cli,0.1.0,James Ainslie,The libo11y command line tool for .NET: `libo11y registry check FILE...` validates application attribute registries.
+2026-11-28T11:57:24.883Z,ToucanHub.EventStore.Outbox.ChannelBus,1.0.0,junglistkirss,Channel-based Outbox bus
+2026-11-28T11:57:25.567Z,ToucanHub.EventStore.Outbox.Client.Abstractions,1.0.0,junglistkirss,Outbox store client abstractions
+2026-11-28T11:57:26.46Z,ToucanHub.EventStore.Outbox.ReactiveBus,1.0.0,junglistkirss,Reactive Outbox bus
+2026-11-28T11:57:28.307Z,ToucanHub.EventStore.Subscriptions.ChannelBus,1.0.0,junglistkirss,Channel-based subscription store observer bus
+2026-11-28T11:57:29.18Z,ToucanHub.EventStore.Subscriptions.ReactiveBus,1.0.0,junglistkirss,Reactive subscription store observer bus
+2026-11-28T12:04:04.377Z,Surly.Surl.Console,0.1.13,Stewart Scott Rogers,"surl, the server-side mate of curl: for each request upstream curl makes, surl is the server that answers it. A command line of protocol servers for testing clients against."
