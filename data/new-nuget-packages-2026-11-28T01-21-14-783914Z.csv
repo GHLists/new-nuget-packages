@@ -1,0 +1,11 @@
+created_at,package,version,authors,description
+2026-11-28T00:31:30.047Z,Messager.NET.PureDI,2.1.0,NovoDwarf,Pure.DI pub/sub integration for Messager.NET.
+2026-11-28T00:38:07.23Z,MicroWeave.Core,0.1.0,MicroWeave.NET contributors,Application contracts and result types for MicroWeave.NET services.
+2026-11-28T00:38:08.243Z,MicroWeave.Messaging.MassTransit,0.1.0,MicroWeave.NET contributors,RabbitMQ and PostgreSQL outbox integration for MicroWeave services.
+2026-11-28T00:38:09.007Z,MicroWeave.ServiceDefaults,0.1.0,MicroWeave.NET contributors,OpenTelemetry and health check defaults for MicroWeave .NET applications.
+2026-11-28T00:38:09.84Z,MicroWeave.Gateway,0.1.0,MicroWeave.NET contributors,HTTP correlation and Aspire service discovery for MicroWeave Ocelot gateways.
+2026-11-28T00:38:10.67Z,MicroWeave.Templates,0.1.0,MicroWeave.NET contributors,Generate a MicroWeave .NET system or service.
+2026-11-28T00:42:46.477Z,EgyptianId.AspNetCore,1.0.0,Ahmed Mohamed Gaber,ASP.NET Core integration for EgyptianId: bind the 14-digit Egyptian national ID number straight to a decoded NationalIdInfo in controllers and minimal APIs.
+2026-11-28T00:42:47.093Z,EgyptianId.FluentValidation,1.0.0,Ahmed Mohamed Gaber,"FluentValidation rule for the 14-digit Egyptian national ID number. One call adds a precise, per-reason error message and a machine-readable error code."
+2026-11-28T00:51:38.783Z,TBJ.Integrations.PublicRegisters,1.0.0,TBJ,"Typed clients for Polish public registers: REGON (GUS BIR), CEIDG, VAT whitelist (MF, incl. WL2), KRS (Ministry of Justice open API) and VIES (EU VAT validation), plus a unified lookup facade. No PII is logged; results follow a registry-result idiom."
+2026-11-28T01:08:35.35Z,Provident.Foundations,11.98.3,Sam Jones,"A general-purpose, portable .NET class library for application development on .NET 11"

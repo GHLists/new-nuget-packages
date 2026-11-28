@@ -12,45 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 00:19 UTC
+## Latest list — 2026-11-28 01:21 UTC
 
-New packages created between 2026-11-27 23:22 UTC and 2026-11-28 00:19 UTC.
+New packages created between 2026-11-28 00:19 UTC and 2026-11-28 01:21 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-28T00-19-42-744035Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-28T01-21-14-783914Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-27 23:57:58 | [Azunt.Signature](https://www.nuget.org/packages/Azunt.Signature) | 0.1.0 | Azunt | A lightweight Blazor signature capture library with handwritten and typed signa… |
-| 2026-11-27 23:58:23 | [Genomics.Pipeline](https://www.nuget.org/packages/Genomics.Pipeline) | 1.3.0 | TekLot | Genomics.Pipeline is the composable execution foundation for the Genomics .NET… |
-| 2026-11-27 23:59:20 | [FlowUI.WinUI](https://www.nuget.org/packages/FlowUI.WinUI) | 1.0.0 | Kristian Veisetaune | A declarative C# interface framework for WinUI 3, built around logical composit… |
-| 2026-11-28 00:01:41 | [PurpleAirDataLogger](https://www.nuget.org/packages/PurpleAirDataLogger) | 2026.11.27 | carlkidcrypto | Self-contained C# (.NET 8+) bindings for the C++17 PurpleAir Data Logger engine… |
-| 2026-11-28 00:04:26 | [Ohirok.PersistentCleanup.Core](https://www.nuget.org/packages/Ohirok.PersistentCleanup.Core) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Reqnroll cleanup registry that persists entity state for deferred cleanup. Runs… |
-| 2026-11-28 00:04:27 | [Ohirok.PersistentCleanup.CosmosDb.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.CosmosDb.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Azure Cosmos DB storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:29 | [Ohirok.PersistentCleanup.CustomStorage.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.CustomStorage.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Custom storage adapter for Ohirok.PersistentCleanup. Implement the storage inte… |
-| 2026-11-28 00:04:30 | [Ohirok.PersistentCleanup.MongoDb.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.MongoDb.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | MongoDB storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:32 | [Ohirok.PersistentCleanup.MsSql.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.MsSql.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | SQL Server storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:33 | [Ohirok.PersistentCleanup.MySql.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.MySql.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | MySQL storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:35 | [Ohirok.PersistentCleanup.PostgreSql.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.PostgreSql.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | PostgreSQL storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:37 | [Ohirok.PersistentCleanup.Redis.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.Redis.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Redis storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:38 | [Ohirok.PersistentCleanup.Sqlite.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.PersistentCleanup.Sqlite.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | SQLite storage adapter for Ohirok.PersistentCleanup. |
-| 2026-11-28 00:04:40 | [Ohirok.Reporting.Combine](https://www.nuget.org/packages/Ohirok.Reporting.Combine) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Command-line tool that combines multiple Ohirok report ndjson runs into a singl… |
-| 2026-11-28 00:04:41 | [Ohirok.Reporting.Core](https://www.nuget.org/packages/Ohirok.Reporting.Core) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Core model, envelope parsing and HTML rendering for the Ohirok reporting/living… |
-| 2026-11-28 00:04:43 | [Ohirok.Reporting.History.Core](https://www.nuget.org/packages/Ohirok.Reporting.History.Core) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Run-history storage contract and flaky/regressed/broken health analysis for Ohi… |
-| 2026-11-28 00:04:44 | [Ohirok.Reporting.History.CosmosDb.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.CosmosDb.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Azure Cosmos DB storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:46 | [Ohirok.Reporting.History.CustomStorage.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.CustomStorage.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Bring-your-own-backend storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:47 | [Ohirok.Reporting.History.FileSystem.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.FileSystem.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | File-system (ndjson) storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:49 | [Ohirok.Reporting.History.MongoDb.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.MongoDb.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | MongoDB storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:50 | [Ohirok.Reporting.History.MsSql.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.MsSql.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | SQL Server storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:52 | [Ohirok.Reporting.History.MySql.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.MySql.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | MySQL storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:53 | [Ohirok.Reporting.History.PostgreSql.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.PostgreSql.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | PostgreSQL storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:55 | [Ohirok.Reporting.History.Redis.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.Redis.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Redis storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:57 | [Ohirok.Reporting.History.Sqlite.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.History.Sqlite.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | SQLite storage adapter for Ohirok.Reporting.History. |
-| 2026-11-28 00:04:58 | [Ohirok.Reporting.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Reporting.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Reqnroll formatter plugin that renders a standalone, collapsible HTML living-do… |
-| 2026-11-28 00:04:59 | [Ohirok.Reqnroll.PluginChains.Sdk](https://www.nuget.org/packages/Ohirok.Reqnroll.PluginChains.Sdk) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | SDK for building Reqnroll plugin chains. Provides the orchestration infrastruct… |
-| 2026-11-28 00:05:01 | [Ohirok.Retry.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.Retry.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Reqnroll retry plugin. Works identically with NUnit, xUnit (v2 and v3), MSTest,… |
-| 2026-11-28 00:05:03 | [Ohirok.SoftAssert.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.SoftAssert.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Reqnroll soft-assert plugin. Marks individual steps so their failures are captu… |
-| 2026-11-28 00:05:04 | [Ohirok.StepHashtags.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.StepHashtags.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Reqnroll plugin adding step-level hashtag support. Hashtags on individual steps… |
-| 2026-11-28 00:05:06 | [Ohirok.XFail.ReqnrollPlugin](https://www.nuget.org/packages/Ohirok.XFail.ReqnrollPlugin) | 0.0.0 | Oles Menzer (Oleksandr Menzer… | Reqnroll plugin for expected failures (XFail) and allowed failures (AFail). Mar… |
+| 2026-11-28 00:31:30 | [Messager.NET.PureDI](https://www.nuget.org/packages/Messager.NET.PureDI) | 2.1.0 | NovoDwarf | Pure.DI pub/sub integration for Messager.NET. |
+| 2026-11-28 00:38:07 | [MicroWeave.Core](https://www.nuget.org/packages/MicroWeave.Core) | 0.1.0 | MicroWeave.NET contributors | Application contracts and result types for MicroWeave.NET services. |
+| 2026-11-28 00:38:08 | [MicroWeave.Messaging.MassTransit](https://www.nuget.org/packages/MicroWeave.Messaging.MassTransit) | 0.1.0 | MicroWeave.NET contributors | RabbitMQ and PostgreSQL outbox integration for MicroWeave services. |
+| 2026-11-28 00:38:09 | [MicroWeave.ServiceDefaults](https://www.nuget.org/packages/MicroWeave.ServiceDefaults) | 0.1.0 | MicroWeave.NET contributors | OpenTelemetry and health check defaults for MicroWeave .NET applications. |
+| 2026-11-28 00:38:09 | [MicroWeave.Gateway](https://www.nuget.org/packages/MicroWeave.Gateway) | 0.1.0 | MicroWeave.NET contributors | HTTP correlation and Aspire service discovery for MicroWeave Ocelot gateways. |
+| 2026-11-28 00:38:10 | [MicroWeave.Templates](https://www.nuget.org/packages/MicroWeave.Templates) | 0.1.0 | MicroWeave.NET contributors | Generate a MicroWeave .NET system or service. |
+| 2026-11-28 00:42:46 | [EgyptianId.AspNetCore](https://www.nuget.org/packages/EgyptianId.AspNetCore) | 1.0.0 | Ahmed Mohamed Gaber | ASP.NET Core integration for EgyptianId: bind the 14-digit Egyptian national ID… |
+| 2026-11-28 00:42:47 | [EgyptianId.FluentValidation](https://www.nuget.org/packages/EgyptianId.FluentValidation) | 1.0.0 | Ahmed Mohamed Gaber | FluentValidation rule for the 14-digit Egyptian national ID number. One call ad… |
+| 2026-11-28 00:51:38 | [TBJ.Integrations.PublicRegisters](https://www.nuget.org/packages/TBJ.Integrations.PublicRegisters) | 1.0.0 | TBJ | Typed clients for Polish public registers: REGON (GUS BIR), CEIDG, VAT whitelis… |
+| 2026-11-28 01:08:35 | [Provident.Foundations](https://www.nuget.org/packages/Provident.Foundations) | 11.98.3 | Sam Jones | A general-purpose, portable .NET class library for application development on .… |
 
 ## Data source
 
