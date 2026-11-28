@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 09:19 UTC
+## Latest list — 2026-11-28 10:20 UTC
 
-New packages created between 2026-11-28 08:21 UTC and 2026-11-28 09:19 UTC.
+New packages created between 2026-11-28 09:19 UTC and 2026-11-28 10:20 UTC.
 
-[Full CSV](data/new-nuget-packages-2026-11-28T09-19-17-341915Z.csv)
+[Full CSV](data/new-nuget-packages-2026-11-28T10-20-39-75934Z.csv)
 
 | Created (UTC) | Package | Version | Authors | Description |
 | :------------ | :------ | :------ | :------ | :---------- |
-| 2026-11-28 08:22:16 | [OneGTMLab.GtmToolFinder](https://www.nuget.org/packages/OneGTMLab.GtmToolFinder) | 1.0.0 | OneGTMLab | Small .NET client for the free, read-only GTM Tool Finder API: API reviews of s… |
-| 2026-11-28 08:22:18 | [OneGTMLab.GtmToolFinder.Cli](https://www.nuget.org/packages/OneGTMLab.GtmToolFinder.Cli) | 1.0.0 | OneGTMLab | gtmfind: command-line search of the free GTM Tool Finder directory (tool API re… |
-| 2026-11-28 08:26:52 | [OmegaAOL.Bifrost](https://www.nuget.org/packages/OmegaAOL.Bifrost) | 1.0.0 | OmegaAOL and EAZY BLACK | A drop-in HTTP/1.1 handler and WebSocket client for .NET that perform TLS with… |
-| 2026-11-28 08:36:35 | [dabuzmakov.MoodCover](https://www.nuget.org/packages/dabuzmakov.MoodCover) | 0.1.0 | dabuzmakov | Fractal flame PNG generator with multithreaded rendering. |
-| 2026-11-28 08:40:07 | [NativeLang.Classify](https://www.nuget.org/packages/NativeLang.Classify) | 0.2.0 | NativeLang contributors | Classify text locally using categories supplied by your application. |
-| 2026-11-28 08:44:16 | [CoreOCRRuntime.OpenVino.linux-x64](https://www.nuget.org/packages/CoreOCRRuntime.OpenVino.linux-x64) | 4.3.0-beta02 | PaddleOCRCore | CoreOCROnnx OpenVINO CPU and Intel GPU runtime package for Linux x64. |
-| 2026-11-28 08:45:04 | [CoreOCRRuntime.OpenVino.win-x64](https://www.nuget.org/packages/CoreOCRRuntime.OpenVino.win-x64) | 4.3.0-beta02 | PaddleOCRCore | CoreOCROnnx OpenVINO CPU and Intel GPU runtime package for Windows x64. |
-| 2026-11-28 08:58:40 | [OctopusLiveWire](https://www.nuget.org/packages/OctopusLiveWire) | 1.0.0 | Katamba Martin | OCTOPUS Live Engine for .NET: runs YAML workflow blueprints in memory behind AS… |
+| 2026-11-28 09:21:02 | [Glesity.Wasm.Sqlite](https://www.nuget.org/packages/Glesity.Wasm.Sqlite) | 0.1.0-alpha | Glesity | Zero-reflection, NativeAOT-LLVM static SQLite engine for .NET WASI / WebAssembl… |
+| 2026-11-28 10:02:52 | [z3l.Scraper](https://www.nuget.org/packages/z3l.Scraper) | 0.9.0 | z3l | Block-aware web scraping engine for .NET 9/10/11: request queue with priorities… |
+| 2026-11-28 10:02:53 | [z3l.Scraper.Playwright](https://www.nuget.org/packages/z3l.Scraper.Playwright) | 0.9.0 | z3l | Headless browser page loader for z3l.Scraper on Microsoft Playwright: Chromium,… |
+| 2026-11-28 10:02:54 | [z3l.Scraper.Loaders.ScrapingBee](https://www.nuget.org/packages/z3l.Scraper.Loaders.ScrapingBee) | 0.9.0 | z3l | A page loader for z3l.Scraper through the ScrapingBee web scraping API: its rot… |
+| 2026-11-28 10:08:14 | [PatTech.IcoNet.Builder](https://www.nuget.org/packages/PatTech.IcoNet.Builder) | 0.3.0 | Patrick Zahra | Writes and reads Windows icons (.ico), cursors (.cur) and animated cursors (.an… |
+| 2026-11-28 10:08:24 | [PatTech.IcoNet.Pipeline](https://www.nuget.org/packages/PatTech.IcoNet.Pipeline) | 0.3.0 | Patrick Zahra | Builds multi-resolution Windows icons (.ico), cursors (.cur) and animated curso… |
 
 ## Data source
 
